@@ -11,17 +11,70 @@ both announce the same thing, you get one entry, not two.
 
 import json
 import os
+import re
 
 import requests
 
 API_KEY_ENV = "GEMINI_API_KEY"
-# If the main model runs out of free quota, fall back to the lighter one
-# rather than going silent.
-MODELS = [
-    os.environ.get("GEMINI_MODEL", "gemini-2.5-flash"),
-    "gemini-2.5-flash-lite",
-]
-ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+BASE = "https://generativelanguage.googleapis.com/v1beta"
+
+# Google retires model names on a schedule (the whole 2.x Flash line went
+# away in mid-2026). Rather than hardcode a name that will rot, we ask the
+# API what exists and pick the best current Flash model. Set GEMINI_MODEL
+# to pin one specific model and skip the lookup entirely.
+_EXCLUDE = ("embedding", "aqa", "image", "tts", "audio", "vision", "live")
+
+
+def _rank(name: str):
+    """Higher is better. Returns None for models we never want."""
+    if any(bad in name for bad in _EXCLUDE):
+        return None
+    match = re.search(r"gemini-(\d+(?:\.\d+)?)", name)
+    version = float(match.group(1)) if match else 0.0
+    if "preview" in name or "exp" in name:
+        version -= 0.05  # prefer stable releases at the same version
+    if "flash" in name and "lite" not in name:
+        kind = 2        # fast, cheap, plenty smart for screening
+    elif "flash" in name:
+        kind = 1        # flash-lite: the fallback when quota runs out
+    else:
+        kind = 0        # pro and friends: burn the free quota too quickly
+    return (kind, version)
+
+
+def _discover(api_key: str) -> list[str]:
+    """Ask Google which models this key can actually use, best first."""
+    response = requests.get(f"{BASE}/models", params={"key": api_key}, timeout=30)
+    response.raise_for_status()
+
+    usable = []
+    for model in response.json().get("models", []):
+        name = model.get("name", "")
+        if name.startswith("models/"):
+            name = name[len("models/"):]
+        if "generateContent" not in model.get("supportedGenerationMethods", []):
+            continue
+        rank = _rank(name)
+        if rank is not None:
+            usable.append((rank, name))
+
+    usable.sort(reverse=True)
+    return [name for _, name in usable]
+
+
+def _candidates(api_key: str) -> list[str]:
+    pinned = os.environ.get("GEMINI_MODEL", "").strip()
+    if pinned:
+        return [pinned]
+    try:
+        found = _discover(api_key)
+        if found:
+            print(f"  available models: {', '.join(found[:4])}")
+            return found[:3]  # best, plus two fallbacks for quota errors
+    except Exception as exc:  # noqa: BLE001
+        print(f"  ! could not list models ({exc}), falling back to known names")
+    return ["gemini-3-flash", "gemini-2.5-flash"]
+
 
 PROMPT = """You are the overnight desk editor for a national wire service.
 One reporter relies on you. Missing a real story is bad; waking them for a
@@ -89,7 +142,7 @@ def _extract_json(raw: str):
 
 def _ask(model: str, prompt: str, api_key: str):
     return requests.post(
-        ENDPOINT.format(model=model),
+        f"{BASE}/models/{model}:generateContent",
         params={"key": api_key},
         json={
             "contents": [{"parts": [{"text": prompt}]}],
@@ -115,11 +168,13 @@ def score(posts, rubric: str) -> list[tuple]:
     prompt = PROMPT.format(rubric=rubric, posts=listing)
 
     response = None
-    for model in MODELS:
+    for model in _candidates(api_key):
         response = _ask(model, prompt, api_key)
-        if response.status_code == 429:
-            print(f"  ! {model} is out of free quota, trying the next model")
+        if response.status_code in (404, 429):
+            reason = "does not exist" if response.status_code == 404 else "is out of free quota"
+            print(f"  ! {model} {reason}, trying the next model")
             continue
+        print(f"  scored with {model}")
         break
     response.raise_for_status()
 

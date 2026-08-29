@@ -89,33 +89,39 @@ async def run(dry_run: bool) -> int:
     if failed:
         print(f"  ! could not resolve: {', '.join('@' + h for h in failed)}")
 
-    # Work out what is genuinely new, per account.
+    # Work out what is genuinely new, per account. The new high-water marks
+    # are held back until the whole run succeeds -- if scoring or email fails
+    # we must NOT record these posts as seen, or they would be lost for good.
     by_handle: dict[str, list] = {}
     for post in posts:
         by_handle.setdefault(post.handle.lower(), []).append(post)
 
+    new_marks: dict[str, int] = {}
     fresh = []
     for handle, group in by_handle.items():
         newest = max(int(p.id) for p in group)
         if handle not in seen:
             # Never seen this account before. Note where it is and stay quiet,
             # otherwise its backlog would arrive as one huge email.
-            seen[handle] = newest
+            new_marks[handle] = newest
             continue
         since = int(seen[handle])
-        new_here = [p for p in group if int(p.id) > since]
-        seen[handle] = max(newest, since)
-        if new_here:
-            fresh.extend(new_here)
-
-    state["last_success"] = dt.datetime.now(dt.timezone.utc).isoformat()
+        new_marks[handle] = max(newest, since)
+        fresh.extend([p for p in group if int(p.id) > since])
 
     candidates = judge.prefilter(fresh, cfg)
     print(f"{len(fresh)} new posts, {len(candidates)} survived the cheap filters")
 
     newsworthy = []
     if candidates:
-        judged = judge.score(candidates, rubric)
+        try:
+            judged = judge.score(candidates, rubric)
+        except Exception as exc:  # noqa: BLE001
+            # Records the failure but does NOT advance what we have seen, so
+            # these posts get another chance on the next run.
+            report_breakage(state, f"The AI scoring step failed: {exc}")
+            save_state(state)
+            return 2
         newsworthy = sorted((r for r in judged if r[1] >= threshold), key=lambda r: -r[1])
         for post, value, headline, _ in judged:
             mark = "SEND" if value >= threshold else "skip"
@@ -126,12 +132,19 @@ async def run(dry_run: bool) -> int:
         if dry_run:
             print(f"\n(dry run) would have emailed: {subject}")
         else:
-            email_out.send(subject, body)
+            try:
+                email_out.send(subject, body)
+            except Exception as exc:  # noqa: BLE001
+                report_breakage(state, f"Sending the alert email failed: {exc}")
+                save_state(state)
+                return 2
             print(f"\nEmailed: {subject}")
     else:
         print("\nNothing worth emailing.")
 
     if not dry_run:
+        seen.update(new_marks)
+        state["last_success"] = dt.datetime.now(dt.timezone.utc).isoformat()
         save_state(state)
     return 0
 
