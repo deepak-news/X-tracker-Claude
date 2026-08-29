@@ -1,0 +1,206 @@
+# ============================================================
+#  THE ONLY FILE YOU EVER NEED TO EDIT
+#  Add or remove accounts, or change what counts as news,
+#  without touching a single line of code.
+# ============================================================
+
+# --- What counts as newsworthy -------------------------------
+# This is the instruction the AI reads every time it judges a post.
+# Edit it freely; it is plain English on purpose.
+newsworthy: |
+  A reporter on the IT beat for PTI, India's national news wire. Covers IT
+  services, artificial intelligence, semiconductors and startups.
+
+  FILE AN ALERT FOR:
+  - Acquisitions, mergers, stake sales, IPO filings and listings
+  - Funding rounds, big investments, new fabs, factories or capex commitments
+  - Deals, contracts and partnerships between companies, or with governments
+  - Leadership changes: appointments, exits, resignations, board changes
+  - Layoffs, hiring commitments, large restructuring
+  - Government and regulatory moves on IT, AI, semiconductors, data or telecom
+  - Major product, chip or AI model launches with real substance
+  - Quarterly results, revenue or headcount numbers
+  - Statements by a founder, CEO or minister that are themselves the story,
+    especially on industry direction, policy, competition or controversy
+
+  IGNORE:
+  - Opinions, hot takes, threads of advice, motivational posts
+  - Memes, jokes, banter, replies to other people
+  - Congratulations, condolences, festival greetings, birthday wishes
+  - Marketing posts, webinar and event promotion, hiring-we-are-hiring posts
+  - Routine international product updates with no India angle
+  - Anything already widely reported days ago
+
+  INDIA IS THE PRIORITY. Indian companies, Indian executives, Indian policy
+  and India operations of global firms matter most. Big global news still
+  counts, but routine international developments do not.
+
+# --- How picky to be -----------------------------------------
+# The AI scores each post 0-10. Only posts at or above this get emailed.
+# Start at 7. If your inbox is noisy raise it to 8; if you feel you are
+# missing things drop it to 6.
+threshold: 7
+
+# --- Cheap filters applied BEFORE the AI even looks ----------
+skip_replies: true       # ignore replies to other people
+skip_retweets: true      # ignore reposts
+min_length: 60           # ignore posts shorter than this many characters
+
+# --- Technical dials (you can leave these alone) -------------
+timeline_limit: 150      # how many posts to pull from the Following feed
+sweep_size: 10           # non-priority accounts rotated through each run
+per_account_limit: 10    # posts pulled per account during that sweep
+
+
+# --- Priority accounts ---------------------------------------
+# These are checked DIRECTLY on every single run, so their news reaches
+# you within ~10 minutes even if the burner does not follow them.
+# Everything else rotates through in the background (~80 minutes to come
+# all the way round). Keep this list to roughly 15 - each one costs a
+# request every run.
+priority:
+  - PIB_India
+  - AshwiniVaishnaw
+  - MEITY_MeitY
+  - Infosys
+  - TCS
+  - Wipro
+  - HCLTech
+  - tech_mahindra
+  - Cognizant
+  - reliancejio
+  - paytm
+  - zomato
+  - SarvamAI
+  - OpenAI
+
+# ============================================================
+#  ACCOUNTS
+#  The burner account must FOLLOW every one of these.
+# ============================================================
+accounts:
+  # --- Global tech CEOs ---
+  - elonmusk           # Elon Musk - xAI, X, Tesla, SpaceX
+  - sama               # Sam Altman - OpenAI
+  - satyanadella       # Satya Nadella - Microsoft
+  - sundarpichai       # Sundar Pichai - Alphabet
+  - ajassy             # Andy Jassy - Amazon
+  - tim_cook           # Tim Cook - Apple
+  - CristianoAmon      # Cristiano Amon - Qualcomm
+  - LisaSu             # Lisa Su - AMD
+  - JeffBezos          # Jeff Bezos - Amazon founder
+
+  # --- AI leaders ---
+  - DarioAmodei        # Dario Amodei - Anthropic
+  - demishassabis      # Demis Hassabis - Google DeepMind
+
+  # --- Semiconductors ---
+  - nvidia
+  - AMD
+  - Intel
+  - Qualcomm
+  - Arm
+  - ASML
+  - MicronTech
+
+  # --- Indian founders and CEOs ---
+  - svembu             # Sridhar Vembu - Zoho
+  - vijayshekhar       # Vijay Shekhar Sharma - Paytm
+  - kunalb11           # Kunal Shah - CRED
+  - deepigoyal         # Deepinder Goyal - Zomato/Eternal
+  - albinder           # Albinder Dhindsa - Blinkit
+  - aaditpalicha       # Aadit Palicha - Zepto
+  - bhash              # Bhavish Aggarwal - Ola, Krutrim
+  - Nithin0dha         # Nithin Kamath - Zerodha
+  - nikhilkamathcio    # Nikhil Kamath - Zerodha
+  - AnupamMittal       # Anupam Mittal - Shaadi.com
+  - NandanNilekani     # Nandan Nilekani - Infosys, UIDAI
+  - salilparekh        # Salil Parekh - Infosys CEO
+  - riteshagar         # Ritesh Agarwal - OYO
+  - BhavinTurakhia     # Bhavin Turakhia - Zeta
+  - kiranshaw          # Kiran Mazumdar-Shaw - Biocon
+  - RonnieScrewvala    # Ronnie Screwvala - upGrad
+  - majety             # Sriharsha Majety - Swiggy
+  - anandmahindra      # Anand Mahindra - Mahindra Group
+  - sbikh              # Sanjeev Bikhchandani - Info Edge
+  - ViditAatrey        # Vidit Aatrey - Meesho
+  - kunalbahl          # Kunal Bahl - Titan Capital
+  - harshjain85        # Harsh Jain - Dream11
+
+  # --- Indian government and policy ---
+  - AshwiniVaishnaw    # IT & Telecom Minister
+  - MEITY_MeitY        # Ministry of Electronics & IT
+  - PIB_India          # Press Information Bureau
+
+  # --- Indian tech companies ---
+  - Infosys
+  - Wipro
+  - HCLTech
+  - TCS
+  - Zoho
+  - Razorpay
+  - PhonePe
+  - zomato
+  - swiggy
+  - blinkit
+  - paytm
+  - CRED_club
+  - SarvamAI
+  - Krutrim
+
+  # --- Global tech companies ---
+  - OpenAI
+  - Anthropic
+  - Google
+  - Microsoft
+  - Meta
+  - Apple
+  - Amazon
+
+  # --- Indian industry bodies and regulators ---
+  - nasscom
+  - TRAI
+  - DoT_India
+  - NPCI_NPCI
+  - IndiaAIMission
+
+  # --- Indian government (wider) ---
+  - nsitharaman        # Finance Minister
+  - PiyushGoyal        # Commerce Minister
+  - PMOIndia
+
+  # --- IT services (global and Indian) ---
+  - Cognizant
+  - Accenture
+  - tech_mahindra
+  - LTIMindtree
+  - Coforge
+
+  # --- Telecom ---
+  - reliancejio
+  - airtelindia
+
+  # --- Indian consumer tech and startups ---
+  - Flipkart
+  - peyushbansal       # Peyush Bansal - Lenskart
+  - Meesho
+  - Groww
+  - OlaElectric
+  - nykaa
+
+  # --- Indian SaaS and commentary ---
+  - mrgirish           # Girish Mathrubootham - Freshworks
+  - TVMohandasPai      # T V Mohandas Pai
+
+  # --- Global AI ---
+  - AravSrinivas       # Aravind Srinivas - Perplexity
+  - SpaceXAI           # xAI - handle is now SpaceXAI
+  - perplexity_ai
+  - MistralAI
+  - deepseek_ai
+  - mustafasuleyman    # Mustafa Suleyman - Microsoft AI
+
+  # --- Semiconductors (wider) ---
+  - Samsung
+  - ISM_India          # India Semiconductor Mission
+  - GlobalFoundries
