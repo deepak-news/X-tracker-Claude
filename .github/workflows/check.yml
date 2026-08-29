@@ -1,0 +1,50 @@
+name: X Tracker
+
+on:
+  schedule:
+    # Every 10 minutes. GitHub often runs these a few minutes late when busy.
+    - cron: "*/10 * * * *"
+  # Lets you press a button on GitHub to run it immediately.
+  workflow_dispatch:
+
+# Never let two runs overlap -- they would fight over state.json.
+concurrency:
+  group: x-tracker
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Check X and send any alerts
+        env:
+          X_COOKIES: ${{ secrets.X_COOKIES }}
+          X_LIST_ID: ${{ secrets.X_LIST_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python -m tracker.main
+
+      - name: Remember what we have already seen
+        if: always()
+        run: |
+          git config user.name "x-tracker"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet && exit 0
+          git commit -m "seen up to $(date -u +%FT%TZ)"
+          git pull --rebase --autostash
+          git push
