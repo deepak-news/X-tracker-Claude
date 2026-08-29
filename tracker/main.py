@@ -112,10 +112,10 @@ async def run(dry_run: bool) -> int:
     candidates = judge.prefilter(fresh, cfg)
     print(f"{len(fresh)} new posts, {len(candidates)} survived the cheap filters")
 
-    newsworthy = []
+    newsworthy, unscreened = [], []
     if candidates:
         try:
-            judged = judge.score(candidates, rubric)
+            judged, unscreened = judge.score(candidates, rubric)
         except Exception as exc:  # noqa: BLE001
             # Records the failure but does NOT advance what we have seen, so
             # these posts get another chance on the next run.
@@ -127,8 +127,8 @@ async def run(dry_run: bool) -> int:
             mark = "SEND" if value >= threshold else "skip"
             print(f"  [{mark}] {value:.0f}/10 @{post.handle}: {headline}")
 
-    if newsworthy:
-        subject, body = email_out.build_digest(newsworthy)
+    if newsworthy or unscreened:
+        subject, body = email_out.build_digest(newsworthy, unscreened)
         if dry_run:
             print(f"\n(dry run) would have emailed: {subject}")
         else:

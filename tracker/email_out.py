@@ -44,11 +44,20 @@ def send(subject: str, body_html: str) -> None:
         server.send_message(message)
 
 
-def build_digest(items) -> tuple[str, str]:
-    """items = [(post, score, headline, why), ...] already sorted, best first."""
-    top = items[0]
-    subject = f"[{int(top[1])}/10] {top[2]}" if len(items) == 1 else \
-              f"{len(items)} newsworthy posts — top: {top[2]}"
+def build_digest(items, unscreened=None) -> tuple[str, str]:
+    """items = [(post, score, headline, why), ...] already sorted, best first.
+
+    unscreened = posts the AI could not judge. They are listed raw at the
+    bottom so a failure never turns into a story you never heard about.
+    """
+    unscreened = unscreened or []
+    if items:
+        top = items[0]
+        subject = f"[{int(top[1])}/10] {top[2]}" if len(items) == 1 else \
+                  f"{len(items)} newsworthy posts — top: {top[2]}"
+    else:
+        n = len(unscreened)
+        subject = f"{n} post{'' if n == 1 else 's'} need{'s' if n == 1 else ''} a manual look"
 
     blocks = []
     for post, score_value, headline, why in items:
@@ -69,6 +78,24 @@ def build_digest(items) -> tuple[str, str]:
           <a href="{html.escape(post.url)}"
              style="display:inline-block;margin-top:12px;font:600 13px -apple-system,Segoe UI,sans-serif;
                     color:#1d6ef5;text-decoration:none;">Open on X &rarr;</a>
+        </div>""")
+
+    if unscreened:
+        rows = "".join(
+            f'<li style="margin-bottom:6px;"><a href="{html.escape(p.url)}" '
+            f'style="color:#1d6ef5;text-decoration:none;">@{html.escape(p.handle)}</a>'
+            f' &mdash; {html.escape(p.text[:110])}...</li>'
+            for p in unscreened
+        )
+        blocks.append(f"""
+        <div style="margin:0 0 28px;padding:18px 20px;border:1px solid #e6c200;
+                    border-radius:10px;background:#fffdf2;">
+          <div style="font:700 14px -apple-system,Segoe UI,sans-serif;color:#8a6d00;margin-bottom:10px;">
+            {len(unscreened)} post{'' if len(unscreened) == 1 else 's'} could not be screened &mdash; check {'this' if len(unscreened) == 1 else 'these'} yourself
+          </div>
+          <ul style="margin:0;padding-left:18px;font:400 13px/1.5 -apple-system,Segoe UI,sans-serif;color:#333;">
+            {rows}
+          </ul>
         </div>""")
 
     body = f"""<div style="max-width:640px;margin:0 auto;padding:24px 16px;background:#fff;">
