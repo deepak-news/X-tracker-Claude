@@ -11,6 +11,7 @@ announce the same thing, you get one entry, not two.
 import json
 import os
 import re
+import time
 
 import requests
 
@@ -22,6 +23,12 @@ BASE = "https://generativelanguage.googleapis.com/v1beta"
 # resilient, since a single bad batch no longer sinks the whole run.
 CHUNK = 15
 TIMEOUT = 120
+
+# Google's servers return these when they are momentarily overloaded. They
+# mean "ask again in a moment", not "this model is unusable" -- so we retry
+# the same model with a growing pause before moving on.
+TRANSIENT = (500, 502, 503, 504)
+RETRIES = 3
 
 # Very long posts are almost always pasted articles or threads. Keeping the
 # opening is enough to judge newsworthiness and keeps requests small.
@@ -160,6 +167,35 @@ def _ask(model: str, prompt: str, api_key: str):
     )
 
 
+def _try_model(model: str, prompt: str, api_key: str):
+    """A successful response from this model, or None if it cannot serve us."""
+    for attempt in range(1, RETRIES + 1):
+        try:
+            response = _ask(model, prompt, api_key)
+        except requests.exceptions.Timeout:
+            print(f"  ! {model} timed out after {TIMEOUT}s")
+            return None
+
+        if response.status_code == 404:
+            print(f"  ! {model} does not exist")
+            return None
+        if response.status_code == 429:
+            print(f"  ! {model} is out of free quota")
+            return None
+        if response.status_code in TRANSIENT:
+            if attempt == RETRIES:
+                print(f"  ! {model} still overloaded after {RETRIES} tries")
+                return None
+            pause = 5 * attempt
+            print(f"  ! {model} returned {response.status_code} (overloaded), "
+                  f"retrying in {pause}s")
+            time.sleep(pause)
+            continue
+
+        return response
+    return None
+
+
 def _score_batch(batch, rubric: str, models: list[str], api_key: str) -> list[tuple]:
     listing = "\n\n".join(
         f"[{i}] @{p.handle} ({p.likes} likes, {p.reposts} reposts)\n{p.text[:MAX_POST_CHARS]}"
@@ -169,21 +205,13 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str) -> list[tu
 
     response = None
     for model in models:
-        try:
-            response = _ask(model, prompt, api_key)
-        except requests.exceptions.Timeout:
-            print(f"  ! {model} timed out after {TIMEOUT}s, trying the next model")
-            response = None
-            continue
-        if response.status_code in (404, 429):
-            why = "does not exist" if response.status_code == 404 else "is out of free quota"
-            print(f"  ! {model} {why}, trying the next model")
-            continue
-        print(f"  scored with {model}")
-        break
+        response = _try_model(model, prompt, api_key)
+        if response is not None:
+            print(f"  scored with {model}")
+            break
 
     if response is None:
-        raise RuntimeError("every model timed out")
+        raise RuntimeError(f"no model would answer (tried {', '.join(models)})")
     response.raise_for_status()
 
     text = response.json()["candidates"][0]["content"]["parts"][0]["text"]

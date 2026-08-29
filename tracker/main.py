@@ -84,7 +84,6 @@ async def run(dry_run: bool) -> int:
         save_state(state)
         return 2
 
-    state["consecutive_failures"] = 0
     state["sweep_offset"] = next_offset
     if failed:
         print(f"  ! could not resolve: {', '.join('@' + h for h in failed)}")
@@ -145,6 +144,10 @@ async def run(dry_run: bool) -> int:
     if not dry_run:
         seen.update(new_marks)
         state["last_success"] = dt.datetime.now(dt.timezone.utc).isoformat()
+        # Only a run that got all the way here counts as working. Resetting
+        # this any earlier means a permanently broken scoring step would
+        # never trip the alarm below.
+        state["consecutive_failures"] = 0
         save_state(state)
     return 0
 
