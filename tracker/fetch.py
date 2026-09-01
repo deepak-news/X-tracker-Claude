@@ -143,9 +143,13 @@ async def collect(handles: list[str], cfg: dict, id_cache: dict, sweep_offset: i
             "The burner session has most likely expired or been blocked."
         )
 
+    # Keep ONLY accounts on the watchlist. user_tweets hands back quotes and
+    # conversation items authored by people we never asked about; without this
+    # they get scored by the AI and can end up in your inbox.
     merged: dict[str, Post] = {}
     for post in feed + swept:
-        merged[post.id] = post
+        if post.handle.lower() in wanted:
+            merged[post.id] = post
 
     next_offset = (sweep_offset + size) % max(len(rest), 1)
     return list(merged.values()), failed, next_offset
