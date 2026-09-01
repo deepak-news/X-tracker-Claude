@@ -1,6 +1,6 @@
 {
   "consecutive_failures": 0,
-  "last_success": "2026-09-01T20:10:43.955997+00:00",
+  "last_success": "2026-09-01T20:14:41.647491+00:00",
   "seen": {
     "airtelindia": 2079788268242297071,
     "ajassy": 2088634952619528248,
@@ -81,7 +81,7 @@
     "zoho": 2094788054645157991,
     "zomato": 2093195083516670300
   },
-  "sweep_offset": 75,
+  "sweep_offset": 4,
   "user_ids": {
     "aaditpalicha": "1258507235052916736",
     "accenture": "10194682",
