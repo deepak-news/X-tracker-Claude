@@ -14,34 +14,38 @@ def _credentials():
     sender = os.environ.get(SENDER_ENV, "").strip()
     password = os.environ.get(PASSWORD_ENV, "").strip()
     recipient = os.environ.get(RECIPIENT_ENV, "").strip()
+    # MAIL_TO may list several addresses, separated by commas or newlines.
+    recipients = [a.strip() for a in recipient.replace("\n", ",").split(",") if a.strip()]
+
     missing = [
         name
         for name, value in (
             (SENDER_ENV, sender),
             (PASSWORD_ENV, password),
-            (RECIPIENT_ENV, recipient),
+            (RECIPIENT_ENV, recipients),
         )
         if not value
     ]
     if missing:
         raise RuntimeError(f"Missing email settings: {', '.join(missing)}")
     # Gmail app passwords are shown with spaces; they must be sent without.
-    return sender, password.replace(" ", ""), recipient
+    return sender, password.replace(" ", ""), recipients
 
 
 def send(subject: str, body_html: str) -> None:
-    sender, password, recipient = _credentials()
+    sender, password, recipients = _credentials()
 
     message = EmailMessage()
     message["Subject"] = subject
     message["From"] = f"X Tracker <{sender}>"
-    message["To"] = recipient
+    message["To"] = ", ".join(recipients)
     message.set_content("This email needs an HTML-capable reader.")
     message.add_alternative(body_html, subtype="html")
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as server:
         server.login(sender, password)
         server.send_message(message)
+    print(f"  sent to {len(recipients)} recipient(s): {', '.join(recipients)}")
 
 
 def build_digest(items, unscreened=None) -> tuple[str, str]:
