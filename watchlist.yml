@@ -48,31 +48,16 @@ min_length: 60           # ignore posts shorter than this many characters
 
 # --- Technical dials (you can leave these alone) -------------
 timeline_limit: 150      # how many posts to pull from the Following feed
-sweep_size: 10           # non-priority accounts rotated through each run
+sweep_size: 8            # safety-net rotation over accounts the list already covers
 per_account_limit: 10    # posts pulled per account during that sweep
 
 
 # --- Priority accounts ---------------------------------------
-# These are checked DIRECTLY on every single run, so their news reaches
-# you within ~10 minutes even if the burner does not follow them.
-# Everything else rotates through in the background (~80 minutes to come
-# all the way round). Keep this list to roughly 15 - each one costs a
-# request every run.
-priority:
-  - PIB_India
-  - AshwiniVaishnaw
-  - MEITY_MeitY
-  - Infosys
-  - TCS
-  - Wipro
-  - HCLTech
-  - tech_mahindra
-  - Cognizant
-  - reliancejio
-  - paytm
-  - zomato
-  - SarvamAI
-  - OpenAI
+# Accounts checked DIRECTLY every run, bypassing the X list.
+# Empty on purpose: every watched account is currently in the list, so
+# nothing needs the expensive direct treatment. Add a handle here only if
+# it is NOT in the X list and you cannot wait ~100 min for the rotation.
+priority: []
 
 # ============================================================
 #  ACCOUNTS
@@ -100,7 +85,6 @@ accounts:
   - Intel
   - Qualcomm
   - Arm
-  - ASML
   - MicronTech
 
   # --- Indian founders and CEOs ---
@@ -109,27 +93,21 @@ accounts:
   - kunalb11           # Kunal Shah - CRED
   - deepigoyal         # Deepinder Goyal - Zomato/Eternal
   - albinder           # Albinder Dhindsa - Blinkit
-  - aaditpalicha       # Aadit Palicha - Zepto
   - bhash              # Bhavish Aggarwal - Ola, Krutrim
   - Nithin0dha         # Nithin Kamath - Zerodha
   - nikhilkamathcio    # Nikhil Kamath - Zerodha
   - AnupamMittal       # Anupam Mittal - Shaadi.com
   - NandanNilekani     # Nandan Nilekani - Infosys, UIDAI
-  - salilparekh        # Salil Parekh - Infosys CEO
   - riteshagar         # Ritesh Agarwal - OYO
-  - BhavinTurakhia     # Bhavin Turakhia - Zeta
   - kiranshaw          # Kiran Mazumdar-Shaw - Biocon
   - RonnieScrewvala    # Ronnie Screwvala - upGrad
-  - majety             # Sriharsha Majety - Swiggy
   - anandmahindra      # Anand Mahindra - Mahindra Group
   - sbikh              # Sanjeev Bikhchandani - Info Edge
   - ViditAatrey        # Vidit Aatrey - Meesho
-  - kunalbahl          # Kunal Bahl - Titan Capital
   - harshjain85        # Harsh Jain - Dream11
 
   # --- Indian government and policy ---
   - AshwiniVaishnaw    # IT & Telecom Minister
-  - MEITY_MeitY        # Ministry of Electronics & IT
   - PIB_India          # Press Information Bureau
 
   # --- Indian tech companies ---
@@ -142,7 +120,6 @@ accounts:
   - PhonePe
   - zomato
   - swiggy
-  - blinkit
   - paytm
   - CRED_club
   - SarvamAI
@@ -150,7 +127,6 @@ accounts:
 
   # --- Global tech companies ---
   - OpenAI
-  - Anthropic
   - Google
   - Microsoft
   - Meta
@@ -162,7 +138,6 @@ accounts:
   - TRAI
   - DoT_India
   - NPCI_NPCI
-  - IndiaAIMission
 
   # --- Indian government (wider) ---
   - nsitharaman        # Finance Minister
@@ -171,10 +146,7 @@ accounts:
 
   # --- IT services (global and Indian) ---
   - Cognizant
-  - Accenture
   - tech_mahindra
-  - LTIMindtree
-  - Coforge
 
   # --- Telecom ---
   - reliancejio
@@ -183,10 +155,7 @@ accounts:
   # --- Indian consumer tech and startups ---
   - Flipkart
   - peyushbansal       # Peyush Bansal - Lenskart
-  - Meesho
-  - Groww
   - OlaElectric
-  - nykaa
 
   # --- Indian SaaS and commentary ---
   - mrgirish           # Girish Mathrubootham - Freshworks
@@ -202,5 +171,25 @@ accounts:
 
   # --- Semiconductors (wider) ---
   - Samsung
-  - ISM_India          # India Semiconductor Mission
   - GlobalFoundries
+
+  # --- Corrected handles, verified on profile 2026-09-01 ---
+
+  # ----------------------------------------------------------
+  #  WAITING TO BE ADDED TO THE X LIST
+  #  X stopped accepting automated list additions, so these 11
+  #  are parked here. Once you have added one to the list in the
+  #  X app, delete the '#' in front of it and commit.
+  #  Verified handles - do not "correct" them:
+  # ----------------------------------------------------------
+  # - ASML
+  # - majety              # Sriharsha Majety - Swiggy
+  # - Accenture
+  # - LTIMindtree
+  # - AnthropicAI         # NOT @Anthropic
+  # - GoI_MeitY           # NOT @MEITY_MeitY - Ministry of Electronics & IT
+  # - letsblinkit         # NOT @blinkit
+  # - Meesho_Official     # NOT @Meesho
+  # - _groww              # NOT @Groww
+  # - MyNykaa             # NOT @nykaa
+  # - Coforge_Tech        # NOT @Coforge
