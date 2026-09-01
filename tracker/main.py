@@ -143,6 +143,11 @@ async def run(dry_run: bool) -> int:
 
     if not dry_run:
         seen.update(new_marks)
+        # Forget accounts that are no longer watched, so state.json stays a
+        # readable picture of the current watchlist instead of a junk drawer.
+        watched = {h.lower() for h in handles}
+        for gone in [h for h in seen if h not in watched]:
+            del seen[gone]
         state["last_success"] = dt.datetime.now(dt.timezone.utc).isoformat()
         # Only a run that got all the way here counts as working. Resetting
         # this any earlier means a permanently broken scoring step would

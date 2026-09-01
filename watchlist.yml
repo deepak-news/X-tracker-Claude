@@ -46,6 +46,11 @@ skip_replies: true       # ignore replies to other people
 skip_retweets: true      # ignore reposts
 min_length: 60           # ignore posts shorter than this many characters
 
+# Never alert on anything older than this many hours, even if the tracker
+# is only seeing it now. Stops old posts arriving after an outage or a slow
+# rotation. Raise it if you would rather catch up than miss things.
+max_age_hours: 6
+
 # --- Technical dials (you can leave these alone) -------------
 timeline_limit: 150      # how many posts to pull from the Following feed
 sweep_size: 8            # safety-net rotation over accounts the list already covers

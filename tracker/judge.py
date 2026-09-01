@@ -8,6 +8,7 @@ The AI also collapses duplicates -- when a company account and its CEO both
 announce the same thing, you get one entry, not two.
 """
 
+import datetime as dt
 import json
 import os
 import re
@@ -79,7 +80,12 @@ POSTS:
 
 def prefilter(posts, cfg) -> list:
     """Free, instant rules that remove most of the volume before the AI runs."""
-    kept = []
+    max_age = float(cfg.get("max_age_hours", 6) or 0)
+    cutoff = None
+    if max_age > 0:
+        cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=max_age)
+
+    kept, stale = [], 0
     for p in posts:
         if cfg.get("skip_retweets", True) and p.is_repost:
             continue
@@ -87,59 +93,27 @@ def prefilter(posts, cfg) -> list:
             continue
         if len(p.text) < int(cfg.get("min_length", 60)):
             continue
+
+        # Old news is not news. A post can be new TO US and still be hours
+        # old -- the account may not have been checked in a while, or the
+        # tracker may be catching up after an outage. Either way you do not
+        # want an alert about something that broke last night.
+        if cutoff and p.created_at:
+            try:
+                when = dt.datetime.fromisoformat(p.created_at)
+                if when.tzinfo is None:
+                    when = when.replace(tzinfo=dt.timezone.utc)
+                if when < cutoff:
+                    stale += 1
+                    continue
+            except ValueError:
+                pass  # unparseable date: let it through rather than lose it
+
         kept.append(p)
+
+    if stale:
+        print(f"  dropped {stale} post(s) older than {max_age:g}h")
     return kept
-
-
-def _rank(name: str):
-    """Higher is better. Returns None for models we never want."""
-    if any(bad in name for bad in _EXCLUDE):
-        return None
-    match = re.search(r"gemini-(\d+(?:\.\d+)?)", name)
-    version = float(match.group(1)) if match else 0.0
-    if "preview" in name or "exp" in name:
-        version -= 0.05  # prefer stable releases at the same version
-    if "flash" in name and "lite" not in name:
-        kind = 2        # fast, cheap, plenty smart for screening
-    elif "flash" in name:
-        kind = 1        # flash-lite: the fallback when quota runs out
-    else:
-        kind = 0        # pro and friends: burn the free quota too quickly
-    return (kind, version)
-
-
-def _discover(api_key: str) -> list[str]:
-    """Ask Google which models this key can actually use, best first."""
-    response = requests.get(f"{BASE}/models", params={"key": api_key}, timeout=30)
-    response.raise_for_status()
-
-    usable = []
-    for model in response.json().get("models", []):
-        name = model.get("name", "")
-        if name.startswith("models/"):
-            name = name[len("models/"):]
-        if "generateContent" not in model.get("supportedGenerationMethods", []):
-            continue
-        rank = _rank(name)
-        if rank is not None:
-            usable.append((rank, name))
-
-    usable.sort(reverse=True)
-    return [name for _, name in usable]
-
-
-def _candidates(api_key: str) -> list[str]:
-    pinned = os.environ.get("GEMINI_MODEL", "").strip()
-    if pinned:
-        return [pinned]
-    try:
-        found = _discover(api_key)
-        if found:
-            print(f"  available models: {', '.join(found[:4])}")
-            return found[:3]  # best, plus two fallbacks for quota errors
-    except Exception as exc:  # noqa: BLE001
-        print(f"  ! could not list models ({exc}), falling back to known names")
-    return ["gemini-3-flash", "gemini-2.5-flash"]
 
 
 def _extract_json(raw: str):
