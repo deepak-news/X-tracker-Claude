@@ -180,21 +180,11 @@ accounts:
 
   # --- Corrected handles, verified on profile 2026-09-01 ---
 
-  # ----------------------------------------------------------
-  #  WAITING TO BE ADDED TO THE X LIST
-  #  X stopped accepting automated list additions, so these 11
-  #  are parked here. Once you have added one to the list in the
-  #  X app, delete the '#' in front of it and commit.
-  #  Verified handles - do not "correct" them:
-  # ----------------------------------------------------------
-  # - ASML
-  # - majety              # Sriharsha Majety - Swiggy
-  # - Accenture
-  # - LTIMindtree
-  # - AnthropicAI         # NOT @Anthropic
-  # - GoI_MeitY           # NOT @MEITY_MeitY - Ministry of Electronics & IT
-  # - letsblinkit         # NOT @blinkit
-  # - Meesho_Official     # NOT @Meesho
-  # - _groww              # NOT @Groww
-  # - MyNykaa             # NOT @nykaa
-  # - Coforge_Tech        # NOT @Coforge
+  # --- Added to the X list 2026-09-02, verified on profile ---
+  - ASMLcompany         # ASML (was @ASML - wrong account)
+  - harshamjty          # Sriharsha Majety - Swiggy (was @majety - wrong account)
+  - ltm_ofcl            # LTIMindtree, now branded "LTM" (was @LTIMindtree)
+  - AnthropicAI         # Anthropic
+  - GoI_MeitY           # Ministry of Electronics & IT
+  - letsblinkit         # Blinkit
+  - _groww              # Groww
