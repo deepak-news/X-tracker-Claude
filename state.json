@@ -1,7 +1,7 @@
 {
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-02T09:10:40.813008+00:00",
+  "last_success": "2026-09-02T09:20:42.448021+00:00",
   "seen": {
     "_groww": 2094700993183440959,
     "airtelindia": 2079788268242297071,
@@ -89,7 +89,7 @@
     "zoho": 2095063675250094106,
     "zomato": 2093195083516670300
   },
-  "sweep_offset": 21,
+  "sweep_offset": 29,
   "user_ids": {
     "_groww": "3571361412",
     "aaditpalicha": "1258507235052916736",
