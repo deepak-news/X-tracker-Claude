@@ -34,6 +34,47 @@ def save_state(state: dict) -> None:
     STATE.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
 
 
+# How long to treat a model as dead after it says it is out of quota.
+# Google resets the daily quota once every 24h, but not at UTC midnight --
+# it lands somewhere around midday IST, at a time Google does not publish.
+# Comparing calendar dates would sometimes call a model "fresh" again just
+# hours after it died, and other times leave it marked dead for up to 18
+# extra hours after Google already reset it. A rolling cooldown avoids
+# both: worst case is one wasted probe a little early, never a half-day of
+# needlessly skipping a model that is actually available again.
+DEAD_MODEL_COOLDOWN_HOURS = 20
+
+
+def dead_models(state: dict) -> set:
+    """Model names still likely out of quota, based on when they last failed."""
+    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=DEAD_MODEL_COOLDOWN_HOURS)
+    live = {}
+    for name, marked_at in state.get("dead_models", {}).items():
+        try:
+            when = dt.datetime.fromisoformat(marked_at)
+        except ValueError:
+            continue
+        if when >= cutoff:
+            live[name] = marked_at
+    return set(live)
+
+
+def record_dead_models(state: dict, newly_dead: set) -> None:
+    now = dt.datetime.now(dt.timezone.utc).isoformat()
+    graveyard = state.setdefault("dead_models", {})
+    for name in newly_dead:
+        graveyard[name] = now
+    # Drop anything old enough that dead_models() would ignore it anyway,
+    # so this does not grow forever.
+    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=DEAD_MODEL_COOLDOWN_HOURS)
+    for name in list(graveyard):
+        try:
+            if dt.datetime.fromisoformat(graveyard[name]) < cutoff:
+                del graveyard[name]
+        except ValueError:
+            del graveyard[name]
+
+
 def report_breakage(state: dict, reason: str) -> None:
     """X access is broken. Nag once, not every ten minutes."""
     state["consecutive_failures"] = state.get("consecutive_failures", 0) + 1
@@ -111,16 +152,30 @@ async def run(dry_run: bool) -> int:
     candidates = judge.prefilter(fresh, cfg)
     print(f"{len(fresh)} new posts, {len(candidates)} survived the cheap filters")
 
+    # Whether the AI was actually asked to do its job this run, and whether
+    # it came through. A run with nothing to score proves nothing either
+    # way, so it must not be allowed to quietly disarm the alarm below.
+    scoring_attempted = bool(candidates)
+
     newsworthy, unscreened = [], []
     if candidates:
         try:
-            judged, unscreened = judge.score(candidates, rubric)
+            judged, unscreened, newly_dead = judge.score(candidates, rubric, dead_models(state))
+        except judge.AllModelsExhausted as exc:
+            # Even a total failure teaches us which models are dead today --
+            # keep that lesson so the next run (ten minutes from now) does
+            # not waste a request re-probing them from scratch.
+            record_dead_models(state, exc.newly_dead)
+            report_breakage(state, f"The AI scoring step failed: {exc}")
+            save_state(state)
+            return 2
         except Exception as exc:  # noqa: BLE001
             # Records the failure but does NOT advance what we have seen, so
             # these posts get another chance on the next run.
             report_breakage(state, f"The AI scoring step failed: {exc}")
             save_state(state)
             return 2
+        record_dead_models(state, newly_dead)
         newsworthy = sorted((r for r in judged if r[1] >= threshold), key=lambda r: -r[1])
         for post, value, headline, _ in judged:
             mark = "SEND" if value >= threshold else "skip"
@@ -149,10 +204,13 @@ async def run(dry_run: bool) -> int:
         for gone in [h for h in seen if h not in watched]:
             del seen[gone]
         state["last_success"] = dt.datetime.now(dt.timezone.utc).isoformat()
-        # Only a run that got all the way here counts as working. Resetting
-        # this any earlier means a permanently broken scoring step would
-        # never trip the alarm below.
-        state["consecutive_failures"] = 0
+        # Only clear the alarm when the AI was actually asked to do its job
+        # and came through. A run with nothing new to score proves nothing
+        # either way -- if it were allowed to reset the counter, a single
+        # quiet ten-minute gap after a real failure would silently disarm
+        # the alarm for the rest of a day-long quota outage.
+        if scoring_attempted:
+            state["consecutive_failures"] = 0
         save_state(state)
     return 0
 

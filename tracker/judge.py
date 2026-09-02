@@ -19,6 +19,15 @@ import requests
 API_KEY_ENV = "GEMINI_API_KEY"
 BASE = "https://generativelanguage.googleapis.com/v1beta"
 
+
+class AllModelsExhausted(RuntimeError):
+    """Every model tried was dead. Carries newly_dead so the caller can
+    still remember them for next time, even though this run failed."""
+
+    def __init__(self, message: str, newly_dead: set):
+        super().__init__(message)
+        self.newly_dead = newly_dead
+
 # Posts per request. One huge request to a model that "thinks" before
 # answering will time out; several small ones are faster and far more
 # resilient, since a single bad batch no longer sinks the whole run.
@@ -29,7 +38,7 @@ TIMEOUT = 120
 # mean "ask again in a moment", not "this model is unusable" -- so we retry
 # the same model with a growing pause before moving on.
 TRANSIENT = (500, 502, 503, 504)
-RETRIES = 3
+RETRIES = 2
 
 # Very long posts are almost always pasted articles or threads. Keeping the
 # opening is enough to judge newsworthiness and keeps requests small.
@@ -50,12 +59,17 @@ def _rank(name: str):
     version = float(match.group(1)) if match else 0.0
     if "preview" in name or "exp" in name:
         version -= 0.05  # prefer stable releases at the same version
-    if "flash" in name and "lite" not in name:
-        kind = 2        # fast, cheap, plenty smart for screening
+    # Flash-Lite is tried FIRST, not as a fallback. On this key, Lite
+    # variants carry a far larger daily quota than plain Flash (500/day vs
+    # 20/day, confirmed on the account's own AI Studio dashboard) -- and
+    # Flash-Lite is plenty capable for a structured yes/no scoring task
+    # like this one. Plain Flash still gets tried, just after.
+    if "flash" in name and "lite" in name:
+        kind = 2
     elif "flash" in name:
-        kind = 1        # flash-lite: the fallback when quota runs out
+        kind = 1
     else:
-        kind = 0        # pro and friends: burn the free quota too quickly
+        kind = 0         # pro and friends: burn the free quota too quickly
     return (kind, version)
 
 
@@ -79,19 +93,29 @@ def _discover(api_key: str) -> list[str]:
     return [name for _, name in usable]
 
 
-def _candidates(api_key: str) -> list[str]:
-    """Which models to try, best first. Set GEMINI_MODEL to pin one."""
+def _candidates(api_key: str, dead_today: set) -> list[str]:
+    """Which models to try, best first. Set GEMINI_MODEL to pin one.
+
+    Google gives each model its OWN small daily quota (20 requests/day on
+    the free tier, seen empirically -- not the ~1500/day older Gemini
+    generations used to allow). Trying more distinct models is what turns a
+    useless 20-a-day budget into a workable ~100-a-day combined one, so this
+    tries up to 8 rather than 3. Anything already known to be exhausted
+    today is skipped rather than re-probed and wasting a request on it.
+    """
     pinned = os.environ.get("GEMINI_MODEL", "").strip()
     if pinned:
         return [pinned]
     try:
-        found = _discover(api_key)
+        found = [m for m in _discover(api_key) if m not in dead_today]
         if found:
-            print(f"  available models: {', '.join(found[:4])}")
-            return found[:3]  # best, plus two fallbacks for quota errors
+            print(f"  models to try today: {', '.join(found[:8])}"
+                  + (f" ({len(dead_today)} already exhausted today, skipped)" if dead_today else ""))
+            return found[:8]
     except Exception as exc:  # noqa: BLE001
         print(f"  ! could not list models ({exc}), falling back to known names")
-    return ["gemini-3-flash", "gemini-2.5-flash"]
+    fallback = ["gemini-3-flash", "gemini-2.5-flash", "gemini-3-flash-lite", "gemini-2.5-flash-lite"]
+    return [m for m in fallback if m not in dead_today]
 
 PROMPT = """You are the overnight desk editor for a national wire service.
 One reporter relies on you. Missing a real story is bad; waking them for a
@@ -193,8 +217,13 @@ def _ask(model: str, prompt: str, api_key: str):
     )
 
 
-def _try_model(model: str, prompt: str, api_key: str):
-    """A successful response from this model, or None if it cannot serve us."""
+def _try_model(model: str, prompt: str, api_key: str, newly_dead: set):
+    """A successful response from this model, or None if it cannot serve us.
+
+    When Google says a model is out of quota (429), that model is added to
+    newly_dead so the caller can remember it and skip it for the rest of
+    today, instead of paying for the same failed probe every ten minutes.
+    """
     for attempt in range(1, RETRIES + 1):
         try:
             response = _ask(model, prompt, api_key)
@@ -206,7 +235,8 @@ def _try_model(model: str, prompt: str, api_key: str):
             print(f"  ! {model} does not exist")
             return None
         if response.status_code == 429:
-            print(f"  ! {model} is out of free quota")
+            print(f"  ! {model} is out of free quota for today")
+            newly_dead.add(model)
             return None
         if response.status_code in TRANSIENT:
             if attempt == RETRIES:
@@ -222,7 +252,7 @@ def _try_model(model: str, prompt: str, api_key: str):
     return None
 
 
-def _score_batch(batch, rubric: str, models: list[str], api_key: str) -> list[tuple]:
+def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead: set) -> list[tuple]:
     listing = "\n\n".join(
         f"[{i}] @{p.handle} ({p.likes} likes, {p.reposts} reposts)\n{p.text[:MAX_POST_CHARS]}"
         for i, p in enumerate(batch)
@@ -231,7 +261,9 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str) -> list[tu
 
     response = None
     for model in models:
-        response = _try_model(model, prompt, api_key)
+        if model in newly_dead:
+            continue  # already ran out of quota earlier in THIS run
+        response = _try_model(model, prompt, api_key, newly_dead)
         if response is not None:
             print(f"  scored with {model}")
             break
@@ -261,28 +293,32 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str) -> list[tu
     return judged
 
 
-def score(posts, rubric: str):
-    """Returns (judged, unscreened).
+def score(posts, rubric: str, dead_today: set | None = None):
+    """Returns (judged, unscreened, newly_dead).
 
     judged     = [(post, score, headline, why), ...], duplicates removed
     unscreened = posts the AI could not look at, so the caller can surface
                  them rather than silently dropping them.
+    newly_dead = model names that hit their daily quota just now -- the
+                 caller should remember these so tomorrow's runs (and even
+                 this run's later batches) do not waste a request re-asking.
     """
     if not posts:
-        return [], []
+        return [], [], set()
 
     api_key = os.environ.get(API_KEY_ENV, "").strip()
     if not api_key:
         raise RuntimeError(f"No {API_KEY_ENV} secret found.")
 
-    models = _candidates(api_key)
+    newly_dead: set = set()
+    models = _candidates(api_key, dead_today or set())
     batches = [posts[i : i + CHUNK] for i in range(0, len(posts), CHUNK)]
 
     judged, unscreened = [], []
     for n, batch in enumerate(batches, 1):
         print(f"  batch {n} of {len(batches)} ({len(batch)} posts)")
         try:
-            judged.extend(_score_batch(batch, rubric, models, api_key))
+            judged.extend(_score_batch(batch, rubric, models, api_key, newly_dead))
         except Exception as exc:  # noqa: BLE001
             # One bad batch must not throw away the batches that worked, but
             # these posts are about to be marked as seen -- so hand them back
@@ -291,7 +327,11 @@ def score(posts, rubric: str):
             unscreened.extend(batch)
 
     if unscreened and not judged:
-        raise RuntimeError(f"all {len(batches)} scoring batches failed")
+        raise AllModelsExhausted(
+            f"all {len(batches)} scoring batches failed "
+            f"(exhausted today: {', '.join(sorted(newly_dead)) or 'none new'})",
+            newly_dead,
+        )
     if unscreened:
         print(f"  ! {len(unscreened)} posts could not be screened; listing them raw")
-    return judged, unscreened
+    return judged, unscreened, newly_dead
