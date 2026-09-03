@@ -1,7 +1,7 @@
 {
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-03T05:20:41.648175+00:00",
+  "last_success": "2026-09-03T05:30:53.010440+00:00",
   "seen": {
     "_groww": 2095113082351849847,
     "airtelindia": 2079788268242297071,
@@ -25,7 +25,7 @@
     "deepseek_ai": 2090730042586489333,
     "demishassabis": 2095218233804554632,
     "dot_india": 2095179393413046748,
-    "elonmusk": 2095381174969671922,
+    "elonmusk": 2095383650548474363,
     "flipkart": 2094757483491529061,
     "globalfoundries": 2094825141091910117,
     "goi_meity": 2095127097651937405,
@@ -89,7 +89,7 @@
     "zoho": 2095123344446378082,
     "zomato": 2093195083516670300
   },
-  "sweep_offset": 5,
+  "sweep_offset": 13,
   "user_ids": {
     "_groww": "3571361412",
     "aaditpalicha": "1258507235052916736",
