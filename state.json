@@ -1,7 +1,7 @@
 {
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-04T13:20:52.073235+00:00",
+  "last_success": "2026-09-04T13:31:01.498050+00:00",
   "seen": {
     "_groww": 2095113082351849847,
     "airtelindia": 2079788268242297071,
@@ -82,14 +82,14 @@
     "tech_mahindra": 2095844967780585765,
     "tim_cook": 2094448088199078236,
     "trai": 2095173832932048984,
-    "tvmohandaspai": 2095841238159368511,
+    "tvmohandaspai": 2095866836483256624,
     "viditaatrey": 2092224584674369875,
     "vijayshekhar": 2095764489245442152,
     "wipro": 1586087160305926144,
     "zoho": 2095529286925189622,
     "zomato": 2093195083516670300
   },
-  "sweep_offset": 65,
+  "sweep_offset": 73,
   "user_ids": {
     "_groww": "3571361412",
     "aaditpalicha": "1258507235052916736",
