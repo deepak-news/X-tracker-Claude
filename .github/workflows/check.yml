@@ -38,6 +38,11 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Check X and send any alerts
+        # A hang here (a slow X response, an AI request that never returns)
+        # would otherwise block every run behind it for hours, since two
+        # runs are never allowed to overlap -- see the concurrency block
+        # above. This kills a stuck run well before the next one is due.
+        timeout-minutes: 8
         env:
           X_COOKIES: ${{ secrets.X_COOKIES }}
           X_LIST_ID: ${{ secrets.X_LIST_ID }}
