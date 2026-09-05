@@ -57,13 +57,33 @@ async def _connect() -> API:
     if not cookies:
         raise XUnavailable(f"No {COOKIE_ENV} secret found.")
 
+    if "auth_token=" not in cookies or "ct0=" not in cookies:
+        raise XUnavailable(
+            f"{COOKIE_ENV} does not look right. It must contain both auth_token "
+            "and ct0, on one line, like: auth_token=VALUE; ct0=VALUE"
+        )
+
     api = API("accounts.db")
     try:
         await api.pool.add_account(
             "tracker", "unused", "tracker@example.invalid", "unused", cookies=cookies
         )
-    except Exception:
-        pass  # already stored from an earlier run in this same job
+    except Exception as exc:  # noqa: BLE001
+        # Adding can legitimately fail because the account is already stored
+        # from earlier in this same job. Anything else is a real problem, and
+        # swallowing it silently turns a bad cookie into a misleading
+        # "session expired" report further down.
+        print(f"  ! add_account said: {exc}")
+
+    # Whatever happened above, the pool must actually hold a usable account --
+    # otherwise every query below quietly returns nothing and the run blames X.
+    accounts = await api.pool.get_all()
+    if not accounts:
+        raise XUnavailable(
+            f"The {COOKIE_ENV} secret was rejected -- no usable account. "
+            "Check the value is exactly: auth_token=VALUE; ct0=VALUE"
+        )
+    print(f"  session loaded ({len(accounts)} account in pool)")
     return api
 
 
