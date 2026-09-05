@@ -18,6 +18,7 @@ STRATEGY (this matters):
   still catches anything the list timeline skips.
 """
 
+import asyncio
 import os
 from dataclasses import dataclass
 
@@ -25,6 +26,13 @@ from twscrape import API, gather
 
 COOKIE_ENV = "X_COOKIES"
 LIST_ENV = "X_LIST_ID"
+
+# When X rate-limits a request, twscrape locks the account for that queue
+# and quietly WAITS for the lock to clear (up to 15 minutes) instead of
+# raising -- which once blocked a run long enough that GitHub's own job
+# timeout had to kill it. This bounds any single X call to a sane wait, so
+# a lock shows up as a fast, ordinary failure instead of a multi-minute hang.
+PER_CALL_TIMEOUT = 30
 
 
 @dataclass
@@ -82,8 +90,17 @@ async def _list_feed(api, wanted: set[str], limit: int) -> list[Post]:
     if not list_id:
         return []  # no list yet - the sweep below carries the whole load
 
+    try:
+        tweets = await asyncio.wait_for(
+            gather(api.list_timeline(int(list_id), limit=limit)), timeout=PER_CALL_TIMEOUT
+        )
+    except asyncio.TimeoutError:
+        print(f"  ! list timeline did not respond within {PER_CALL_TIMEOUT}s "
+              "(account likely rate-limited by X) -- skipping it this run")
+        return []
+
     posts = []
-    for t in await gather(api.list_timeline(int(list_id), limit=limit)):
+    for t in tweets:
         post = _to_post(t)
         # Keep only accounts on the watchlist, in case the list drifts.
         if post and post.handle.lower() in wanted:
@@ -94,11 +111,11 @@ async def _list_feed(api, wanted: set[str], limit: int) -> list[Post]:
 async def _sweep(api, handles: list[str], id_cache: dict, per_account: int):
     """Check accounts directly. Works whether or not they are followed."""
     posts, failed = [], []
-    for handle in handles:
+    for i, handle in enumerate(handles):
         try:
             user_id = id_cache.get(handle.lower())
             if not user_id:
-                user = await api.user_by_login(handle)
+                user = await asyncio.wait_for(api.user_by_login(handle), timeout=PER_CALL_TIMEOUT)
                 if user is None:
                     failed.append(handle)
                     continue
@@ -106,10 +123,21 @@ async def _sweep(api, handles: list[str], id_cache: dict, per_account: int):
                 # Looking a handle up costs a request, so remember it forever.
                 id_cache[handle.lower()] = user_id
 
-            for t in await gather(api.user_tweets(int(user_id), limit=per_account)):
+            tweets = await asyncio.wait_for(
+                gather(api.user_tweets(int(user_id), limit=per_account)), timeout=PER_CALL_TIMEOUT
+            )
+            for t in tweets:
                 post = _to_post(t)
                 if post:
                     posts.append(post)
+        except asyncio.TimeoutError:
+            # The account itself is rate-limited, not this one handle -- every
+            # remaining handle would time out the same way, so stop burning
+            # the run's time budget re-discovering that.
+            print(f"  ! @{handle} timed out after {PER_CALL_TIMEOUT}s (account likely "
+                  f"rate-limited) -- stopping the sweep, {len(handles) - i} handle(s) skipped")
+            failed.extend(handles[i:])
+            break
         except Exception as exc:  # noqa: BLE001 - one bad handle must not kill the run
             print(f"  ! sweep failed for @{handle}: {exc}")
             failed.append(handle)
