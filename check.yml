@@ -1,0 +1,69 @@
+name: X Tracker
+
+on:
+  schedule:
+    # Every 10 minutes. GitHub often runs these a few minutes late when busy.
+    - cron: "*/10 * * * *"
+  # Lets you press a button on GitHub to run it immediately.
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What should this run do?"
+        type: choice
+        default: normal
+        options:
+          - normal
+          - test-email
+          - dry-run
+
+# Never let two runs overlap -- they would fight over state.json.
+concurrency:
+  group: x-tracker
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Check X and send any alerts
+        # A hang here (a slow X response, an AI request that never returns)
+        # would otherwise block every run behind it for hours, since two
+        # runs are never allowed to overlap -- see the concurrency block
+        # above. This kills a stuck run well before the next one is due.
+        timeout-minutes: 8
+        env:
+          X_COOKIES: ${{ secrets.X_COOKIES }}
+          X_LIST_ID: ${{ secrets.X_LIST_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: |
+          case "${{ inputs.mode }}" in
+            test-email) python -m tracker.main --test-email ;;
+            dry-run)    python -m tracker.main --dry-run ;;
+            *)          python -m tracker.main ;;
+          esac
+
+      - name: Remember what we have already seen
+        if: always()
+        run: |
+          git config user.name "x-tracker"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet && exit 0
+          git commit -m "seen up to $(date -u +%FT%TZ)"
+          git pull --rebase --autostash
+          git push
