@@ -44,7 +44,7 @@ threshold: 7
 # --- Cheap filters applied BEFORE the AI even looks ----------
 skip_replies: true       # ignore replies to other people
 skip_retweets: true      # ignore reposts
-min_length: 60           # ignore posts shorter than this many characters
+min_length: 25           # ignore posts shorter than this many characters
 
 # Never alert on anything older than this many hours, even if the tracker
 # is only seeing it now. Stops old posts arriving after an outage or a slow
@@ -188,3 +188,53 @@ accounts:
   - GoI_MeitY           # Ministry of Electronics & IT
   - letsblinkit         # Blinkit
   - _groww              # Groww
+
+# ----------------------------------------------------------------------
+#  WHERE THE NEWS COMES FROM
+#  X blocks servers now, so these are read instead. All free, all
+#  readable from anywhere, no login. Scrip codes and feed URLs below
+#  were each verified against the live source on 2026-09-09.
+# ----------------------------------------------------------------------
+bse_days: 2          # how far back to look in exchange filings each run
+
+sources:
+
+  # 1. Exchange filings - the primary document, usually ahead of the tweet
+  bse:
+    - {code: 500209, name: Infosys}
+    - {code: 532540, name: TCS}
+    - {code: 507685, name: Wipro}
+    - {code: 532281, name: HCLTech}
+    - {code: 532755, name: Tech Mahindra}
+    - {code: 540005, name: LTIMindtree}
+    - {code: 532541, name: Coforge}
+    - {code: 526299, name: Mphasis}
+    - {code: 533179, name: Persistent}
+    - {code: 540115, name: LTTS}
+    - {code: 500408, name: Tata Elxsi}
+    - {code: 543320, name: Eternal/Zomato}
+    - {code: 543396, name: Paytm}
+    - {code: 543384, name: Nykaa}
+    - {code: 544225, name: Ola Electric}
+    - {code: 544285, name: Swiggy}
+    - {code: 500325, name: Reliance}
+    - {code: 532454, name: Bharti Airtel}
+
+  # 2. Company newsrooms - what they publish themselves
+  rss:
+    - {name: NVIDIA,  url: "https://nvidianews.nvidia.com/releases.xml"}
+    - {name: OpenAI,  url: "https://openai.com/news/rss.xml"}
+    - {name: Google,  url: "https://blog.google/rss/"}
+    - {name: Meta,    url: "https://about.fb.com/news/feed/"}
+    - {name: AMD,     url: "https://ir.amd.com/rss/news-releases.xml"}
+    - {name: Samsung, url: "https://news.samsung.com/global/feed"}
+
+  # 3. Google News - the catch-all, including what people SAID
+  google_news:
+    - {name: Indian IT, q: "Infosys OR TCS OR Wipro OR HCLTech OR \"Tech Mahindra\" OR LTIMindtree OR Coforge"}
+    - {name: India semiconductors, q: "India semiconductor OR \"India Semiconductor Mission\" OR \"chip plant India\" OR fab India"}
+    - {name: India tech policy, q: "MeitY OR \"IT ministry\" India OR TRAI OR \"Ashwini Vaishnaw\" OR \"data protection\" India tech"}
+    - {name: Indian startups, q: "Indian startup funding OR IPO OR acquisition Zomato OR Swiggy OR Paytm OR Flipkart OR Ola"}
+    - {name: AI industry, q: "OpenAI OR Anthropic OR \"Google DeepMind\" OR Nvidia announcement OR \"AI model\" launch"}
+    - {name: Tech leaders, q: "\"Sundar Pichai\" OR \"Satya Nadella\" OR \"Sam Altman\" OR \"Elon Musk\" OR \"Jensen Huang\" said OR announced"}
+    - {name: Global chips, q: "TSMC OR ASML OR Intel OR Qualcomm OR Micron OR \"chip export\" OR semiconductor tariff"}

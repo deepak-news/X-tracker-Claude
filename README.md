@@ -1,61 +1,60 @@
-# X Tracker
+# News Tracker
 
-Watches ~96 X accounts on the Indian IT / AI / semiconductor beat and emails
-when one of them posts something that would need a wire alert.
+Watches primary news sources around the clock and emails you when something
+newsworthy appears. Free to run, forever.
 
-Runs itself on GitHub Actions every 10 minutes. Costs nothing.
+## Why it no longer reads X
 
-## Editing it
+It used to. In September 2026 X began refusing every request from data-centre
+IP addresses, which is where any free server lives. A logged-in session works
+fine from a home connection and not at all from GitHub, and every free
+workaround was tested and rejected: guest access serves year-old snapshots for
+most accounts, the embed endpoint serves frozen caches, the Nitter mirrors are
+gone, and X's own API has had no free tier since February 2026.
 
-`watchlist.yml` is the only file you need. It holds:
+So it reads the sources X posts were usually *about* instead — which for
+company and government news arrive earlier and carry more authority.
 
-- `newsworthy` - plain-English description of what deserves an email
-- `threshold` - 0-10 strictness dial (raise it if the inbox is noisy)
-- `priority` - accounts checked directly on every run
-- `accounts` - everything being watched
+## Where the news comes from
 
-Edit it on GitHub, commit, done. The next run picks it up.
+1. **BSE filings** — what an Indian listed company formally told the exchange.
+   The primary document, usually ahead of the company's own tweet.
+2. **Company newsrooms** — NVIDIA, OpenAI, Google, Meta, AMD, Samsung.
+3. **Google News** — the catch-all, including what individuals said, once a
+   publication has reported it.
 
-## How it reads X
+## How a run works
 
-X charges $200/month for API access, so this uses a burner account's browser
-session instead. Two sources, merged and de-duplicated:
+1. `sources.py` pulls every feed.
+2. Anything already seen, too old, or a duplicate of another outlet's copy of
+   the same story is dropped — before anything is paid for.
+3. `judge.py` asks Gemini to score what is left out of 10 against the brief in
+   `watchlist.yml`.
+4. Anything at or above `threshold` is emailed by `email_out.py`.
+5. `state.json` records how far each source has been read.
 
-1. **An X list** (`X_LIST_ID`) containing every watched account. One cheap
-   request covers all of them. A list does not require *following* the
-   accounts, which matters because new accounts hit follow limits fast.
-2. **A direct sweep** - re-checks the `priority` accounts every run and
-   rotates through the rest. Works with no list at all, just slower for the
-   long tail.
+## The files
 
-If `X_LIST_ID` is unset, source 2 carries the whole load and the tracker
-still works.
-
-## Secrets it needs
-
-Set under Settings -> Secrets and variables -> Actions.
-
-| Secret | What it is |
+| File | What it does |
 |---|---|
-| `X_COOKIES` | `auth_token=...; ct0=...` from the burner's browser session |
-| `X_LIST_ID` | Number from the burner's X list URL (optional) |
-| `GEMINI_API_KEY` | Free key from aistudio.google.com/apikey |
-| `GMAIL_USER` | Gmail address that sends the alerts |
-| `GMAIL_APP_PASSWORD` | 16-character Google app password |
-| `MAIL_TO` | Where alerts are delivered |
+| `watchlist.yml` | The sources, the brief, and the threshold. The only file to edit normally. |
+| `tracker/sources.py` | Reads the feeds. |
+| `tracker/judge.py` | Cheap filters, deduplication, then the AI scoring. |
+| `tracker/email_out.py` | Builds and sends the email. |
+| `tracker/main.py` | Runs the sequence and tracks progress. |
+| `tracker/fetch.py` | The old X reader. Unused, kept in case X access returns. |
+| `state.json` | How far each source has been read. Written by the robot. |
 
-## When it breaks
+## Settings
 
-It will, eventually - X actively fights this. You get ONE email saying so
-after three consecutive failures, not one every ten minutes.
+Six secrets, in Settings -> Secrets and variables -> Actions:
+`GEMINI_API_KEY`, `GMAIL_USER`, `GMAIL_APP_PASSWORD`, `MAIL_TO`.
+(`X_COOKIES` and `X_LIST_ID` are no longer used and can be deleted.)
 
-Almost always the fix is a stale session: log into the burner again, grab
-fresh `auth_token` and `ct0` cookies, update the `X_COOKIES` secret.
+Timing comes from cron-job.org, which POSTs to the workflow every 15 minutes.
+GitHub's own schedule is a fallback only — it drops most scheduled runs.
 
-If that is not it, `tracker/fetch.py` is the only file that knows how X
-works. Nothing else needs to change.
+## When something breaks
 
-## Running it by hand
-
-Actions tab -> "X Tracker" -> "Run workflow". The log shows every post it
-considered and the score it gave.
+Three failed runs in a row trigger an email. One source failing does not:
+the run continues on the others, and the log names whichever one failed.
