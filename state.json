@@ -882,11 +882,29 @@
         "suspends",
         "visa"
       ]
+    },
+    {
+      "at": "2026-09-09T23:31:55.014554+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Flipkart launches quick commerce app Minutes for 10-minute delivery",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3QzYldlaDRLSFFwUV9NTW9JY3BoUEJuU3R6OG05UkEyV0FWSDI1cmVkRkFKTjlMNjhoazhwUFJUUGEtYVNocThvSDBhdm4yWlptd2lqZ2NSRTV3UEdRd3NOeXBpcThhWFBncFlFOVMzbHhLOGNOMGVHUHF4S1NmR0E1MW9wSU02dm9KWUVhbnNUZ25nN1h3eGFrakx3a2ZYcm5YOHJPUHVoQdIBtwFBVV95cUxNNWswMUxyQkpCNFJHZTA5cWM0c0ZzWVZyZE9rTlkxdlFKS0FGQzNjYXFndG5NTWp6SUtrOHBQNE03LWZRaFRfMmQwcTZNZTBreXJRaHhsQ0d1MmJ4QjZLblJtc0toc3dtM1hlVWREUk92WEhILWdWMkwzYWtJNTFzcXp3RGdrZ3ppU1dTN2x4RC1UVEdkMTVMMlczNzM3RkFiSk16cFZmc3FfNTl0dHkzYTJuVFQwM0U?oc=5",
+      "words": [
+        "250",
+        "across",
+        "app",
+        "categories",
+        "delivery",
+        "flipkart",
+        "launch",
+        "minute",
+        "minutes"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T23:16:41.137636+00:00",
+  "last_success": "2026-09-09T23:31:55.014845+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -917,8 +935,8 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1788991093863,
-    "news: consumer internet india": 1788987678672,
-    "news: global ai": 1788982848669,
+    "news: consumer internet india": 1788994800607,
+    "news: global ai": 1788995774891,
     "news: global chips": 1788987409897,
     "news: global it services": 1788988394939,
     "news: india ai deeptech": 1788985860501,
