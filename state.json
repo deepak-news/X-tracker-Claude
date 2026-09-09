@@ -814,11 +814,28 @@
         "space",
         "thane"
       ]
+    },
+    {
+      "at": "2026-09-09T19:46:55.021449+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Apple launches Apple Watch Series 12 and Ultra 4 in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVdyZzBwRkxyWHpYQUstUXNkcmdsRzdQWGw0ZjlheVJOcTNNY1hmS0xUSFBBWkdTWkV3VEZWTnJYdmxxSUV4MVVOQlVYbi03OHQ0Y1BhNWRCazAzNWFlckZPcGZlbHhlVHg5S2VrdDRid3hZRUpXNktNaU1BX1BjQy1mVW16SEZ1dTJjRXFnNy1NbjlGQnF4emFobVJncmZJZFR3emlUcTNCYkE?oc=5",
+      "words": [
+        "900",
+        "apple",
+        "launched",
+        "price",
+        "series",
+        "starts",
+        "ultra",
+        "watch"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T19:31:54.658915+00:00",
+  "last_success": "2026-09-09T19:46:55.021667+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -848,10 +865,10 @@
     "lenovo": 1788971151379,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1788980858509,
+    "news: big tech platforms": 1788982405972,
     "news: consumer internet india": 1788981006474,
-    "news: global ai": 1788971182740,
-    "news: global chips": 1788978960467,
+    "news: global ai": 1788982200678,
+    "news: global chips": 1788982290075,
     "news: global it services": 1788982217837,
     "news: india ai deeptech": 1788977421642,
     "news: india edtech gaming": 1788941942295,
