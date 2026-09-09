@@ -42,7 +42,7 @@ RETRIES = 2
 
 # Very long posts are almost always pasted articles or threads. Keeping the
 # opening is enough to judge newsworthiness and keeps requests small.
-MAX_POST_CHARS = 700
+MAX_POST_CHARS = 2200
 
 # Google retires model names on a schedule (the whole 2.x Flash line went
 # away in mid-2026). Rather than hardcode a name that will rot, we ask the
@@ -327,6 +327,12 @@ def _try_model(model: str, prompt: str, api_key: str, newly_dead: set):
 
         if response.status_code == 404:
             print(f"  ! {model} does not exist")
+            return None
+        if response.status_code in (400, 401, 403):
+            # Almost always the key itself: missing, mistyped, or revoked.
+            # Trying the next model would fail identically, so say so plainly.
+            print(f"  ! {model} rejected the request ({response.status_code}) -- "
+                  f"check the {API_KEY_ENV} secret is a valid key")
             return None
         if response.status_code == 429:
             print(f"  ! {model} is out of free quota for today")

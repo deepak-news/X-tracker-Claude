@@ -148,6 +148,11 @@ async def run(dry_run: bool) -> int:
     candidates = judge.prefilter(fresh, cfg)
     print(f"{len(fresh)} new posts, {len(candidates)} survived the cheap filters")
 
+    # Read the actual filings before judging them. A headline of "Enclosed"
+    # says nothing; the PDF behind it is the announcement.
+    if candidates and cfg.get("read_filings", True):
+        await asyncio.to_thread(sources.read_filings, candidates)
+
     # Whether the AI was actually asked to do its job this run, and whether
     # it came through. A run with nothing to score proves nothing either
     # way, so it must not be allowed to quietly disarm the alarm below.

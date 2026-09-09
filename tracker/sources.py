@@ -17,12 +17,14 @@ Three kinds of source, cheapest and most authoritative first:
 import datetime as dt
 import hashlib
 import html
+import io
 import re
 from dataclasses import dataclass
 from urllib.parse import quote_plus
 
 import feedparser
 import requests
+from pypdf import PdfReader
 from bs4 import BeautifulSoup
 
 
@@ -255,6 +257,57 @@ def _pib(ministries: list[dict]) -> list[Post]:
                 likes=0, reposts=0, is_reply=False, is_repost=False,
             ))
     return posts
+
+
+# A filing's headline is frequently just "Enclosed" -- the announcement
+# itself is in the attached PDF. Reading it is the difference between
+# judging a story and judging a filing reference number.
+FILING_CHARS = 2500
+FILING_PAGES = 5
+FILING_MAX_BYTES = 12_000_000
+
+
+def _filing_text(url: str) -> str:
+    """The readable part of an attached filing, or "" if there isn't one."""
+    if not url.lower().endswith(".pdf"):
+        return ""
+    try:
+        response = requests.get(url, timeout=TIMEOUT,
+                                headers={"User-Agent": UA, "Referer": "https://www.bseindia.com/"})
+        response.raise_for_status()
+        if len(response.content) > FILING_MAX_BYTES:
+            return ""
+        reader = PdfReader(io.BytesIO(response.content))
+        text = " ".join((page.extract_text() or "") for page in reader.pages[:FILING_PAGES])
+    except Exception:  # noqa: BLE001 - a filing we cannot read is not a crash
+        return ""
+
+    body = " ".join(text.split())
+    # Everything before the subject line is letterhead: address, CIN, the
+    # exchange's own postal address. Start where the company starts talking.
+    marker = re.search(r"\b(Sub(?:ject)?\s*[:\-])", body, re.I)
+    if marker:
+        body = body[marker.start():]
+    return body[:FILING_CHARS]
+
+
+def read_filings(posts: list) -> int:
+    """Fetch the attachment behind each filing and fold it into the text.
+
+    Only called for the handful of posts that are about to be scored, so
+    this costs a few seconds rather than re-downloading the whole window.
+    """
+    read = 0
+    for post in posts:
+        if tier(post.handle) != TIER_FILING:
+            continue
+        body = _filing_text(post.url)
+        if len(body) > 120:                  # ignore scans with no text layer
+            post.text = f"{post.text} FULL FILING: {body}"
+            read += 1
+    if read:
+        print(f"  read {read} filing attachment(s) in full")
+    return read
 
 
 def _rss(url: str, label: str) -> list[Post]:

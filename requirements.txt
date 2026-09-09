@@ -3,3 +3,4 @@ requests>=2.32
 PyYAML>=6.0
 feedparser>=6.0
 beautifulsoup4>=4.12
+pypdf>=5.0
