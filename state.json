@@ -273,11 +273,47 @@
         "worker",
         "zepto"
       ]
+    },
+    {
+      "at": "2026-09-09T13:46:32.604731+00:00",
+      "handle": "News: India fintech",
+      "headline": "PhonePe and Visa launch three cardless payment tools at GFF",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEdxMjBWc3JxM25tSlJpU1lOLUExQ2R0QWREYkdXTWNwV2k0TFF5Y3RwdzhsdjlULXZ4d2w2UHVTV2M1VGZUc3J1am1WYXVndXF6VllQNk9oWlA4bnRFcE5YYzJZdVJOVEg4WXhnUEJmVUNaeXJ0UHZONFlUYjdYTzJybGw4cDB0aTd0bkdTWlFxNTA?oc=5",
+      "words": [
+        "2026",
+        "cardless",
+        "gff",
+        "payment",
+        "phonepe",
+        "three",
+        "tools",
+        "unveil",
+        "visa"
+      ]
+    },
+    {
+      "at": "2026-09-09T13:46:32.604731+00:00",
+      "handle": "News: India fintech",
+      "headline": "WhatsApp exploring programmable payments for the UPI ecosystem",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2lIZUFaR3llUEFhQkVXUTdQYnJ4QWpNZy12TV9mSTAtcERUNVZHS2pWSGxoXzJfeFQxd3ByX3ptNzZINGNOczd3eWlUMTVRbkhzQ1VsOEU5aEdWZG8yVzJhNlZPWlBULUc2OE9tNE1maU1GSkI3RE00M1ZBZ0dmNnk5RjZFaTlJbUlJdmEtc3VVaTJGLW9JdWV6ZXFfYzFFWEJXdEJZWE5aR0w2VUFfd2JHVWIxTllleWlBSHNrX21BWEZhWDJHcURwcVdaZmvSAdYBQVVfeXFMT1YtVWVUWUhFdm5QUUVRMEhKTS1YZmpDdGNhRkhEcWVxOWRGRW9tWFZPaVB5SHV4UnJvR0FtTldQaGhKR1BQNFNoc0FaUVluOFdJUXZWS1JFX0QtcGo1OVhRZjN3d3Zta2RRdWJFWGNTN01KemNPN3VJdVRlSFJuMWdvT2RYNUZUZktueFRCWW1UenNpTzhLbzIwUHc2RHJ3UndMWFV2RmZIUjNjUTRQeWh4aWtoc1ZBZE5iUjE3MGZpX1BxZmZPSjl2UEVBcVNHWDRFNDRxdw?oc=5",
+      "words": [
+        "eyes",
+        "journey",
+        "leg",
+        "meta",
+        "next",
+        "payments",
+        "programmable",
+        "upi",
+        "whatsapp"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T13:31:47.252992+00:00",
+  "last_success": "2026-09-09T13:46:32.605053+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788875980451,
@@ -307,16 +343,16 @@
     "lenovo": 1788945160509,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1788959116802,
-    "news: consumer internet india": 1788959862496,
-    "news: global ai": 1788955163111,
-    "news: global chips": 1788955828178,
-    "news: global it services": 1788956469076,
-    "news: india ai deeptech": 1788957952490,
+    "news: big tech platforms": 1788959930203,
+    "news: consumer internet india": 1788960437439,
+    "news: global ai": 1788959925012,
+    "news: global chips": 1788961130858,
+    "news: global it services": 1788960668706,
+    "news: india ai deeptech": 1788961018311,
     "news: india edtech gaming": 1788941942295,
-    "news: india fintech": 1788959560138,
+    "news: india fintech": 1788961340256,
     "news: india semiconductors": 1788957103902,
-    "news: india tech policy": 1788959552113,
+    "news: india tech policy": 1788960631779,
     "news: india telecom": 1788958378392,
     "news: indian it majors": 1788959496089,
     "news: indian it midcaps": 1788954400634,
