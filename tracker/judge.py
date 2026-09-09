@@ -134,7 +134,7 @@ Score each post 0-10 for whether it needs a wire alert.
        resignation, policy or regulatory move, hard numbers
   9-10 a story the reporter would be in trouble for missing
 
-Rules:
+{already_sent}Rules:
 - The post itself must contain the news. A bare link, a "big news coming"
   tease, or a reply-guy reaction is not news.
 - An opinion is only newsworthy when the person saying it is senior enough
@@ -147,7 +147,7 @@ Rules:
   all the others.
 
 Return ONLY a JSON array, one object per post, same order:
-[{{"i": <post number>, "score": <0-10>, "headline": "<max 12 words, what actually happened>", "why": "<one short sentence>", "dupe_of": <post number or null>}}]
+[{{"i": <post number>, "score": <0-10>, "headline": "<max 12 words, what actually happened>", "why": "<one short sentence>", "dupe_of": <post number or null>, "seen_before": <true or false>}}]
 
 POSTS:
 {posts}
@@ -286,9 +286,11 @@ def remember_alerted(state: dict, rows: list) -> None:
     """Record what actually went out, so it is not sent a second time."""
     now = dt.datetime.now(dt.timezone.utc)
     remembered = state.setdefault("alerted", [])
-    for post, *_ in rows:
+    for row in rows:
+        post = row[0]
         remembered.append({"words": _story_words(post), "url": post.url,
                            "handle": post.handle, "tier": _authority(post),
+                           "headline": (row[2] if len(row) > 2 else post.text)[:110],
                            "at": now.isoformat()})
     cutoff = now - dt.timedelta(hours=ALERTED_MEMORY_HOURS)
     fresh = []
@@ -299,6 +301,11 @@ def remember_alerted(state: dict, rows: list) -> None:
         except (KeyError, ValueError):
             continue
     state["alerted"] = fresh[-ALERTED_MAX:]
+
+
+def recent_headlines(state: dict, limit: int = 40) -> list:
+    """What has already been mailed, newest last, for the model to compare against."""
+    return [e["headline"] for e in state.get("alerted", []) if e.get("headline")][-limit:]
 
 
 def prefilter(posts, cfg) -> list:
@@ -443,12 +450,30 @@ def _try_model(model: str, prompt: str, api_key: str, newly_dead: set):
     return None
 
 
-def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead: set) -> list[tuple]:
+ALREADY_SENT_BLOCK = """ALREADY SENT TO THIS REPORTER IN THE LAST 48 HOURS:
+{sent}
+
+- Set "seen_before": true for any post telling the SAME story as one of the
+  above, however differently it is worded, and whichever outlet ran it. The
+  reporter has already been told; telling them again wastes their attention.
+- But if a post carries a genuine DEVELOPMENT of one of those stories -- a
+  new number, a decision taken, a person named, an outcome, a response --
+  that is fresh news: leave "seen_before" false and score it normally.
+
+"""
+
+
+def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead: set,
+                 already_sent: list | None = None) -> list[tuple]:
     listing = "\n\n".join(
-        f"[{i}] @{p.handle} ({p.likes} likes, {p.reposts} reposts)\n{p.text[:MAX_POST_CHARS]}"
+        f"[{i}] {p.handle}\n{p.text[:MAX_POST_CHARS]}"
         for i, p in enumerate(batch)
     )
-    prompt = PROMPT.format(rubric=rubric, posts=listing)
+    sent_block = ""
+    if already_sent:
+        sent_block = ALREADY_SENT_BLOCK.format(
+            sent="\n".join(f"- {h}" for h in already_sent))
+    prompt = PROMPT.format(rubric=rubric, posts=listing, already_sent=sent_block)
 
     response = None
     for model in models:
@@ -471,6 +496,9 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead
         if not (0 <= idx < len(batch)):
             continue
         accounted.add(idx)
+        if item.get("seen_before") is True:
+            print(f"  [old news] {batch[idx].handle}: already sent earlier")
+            continue
         if item.get("dupe_of") is not None:
             print(f"  [dupe] {batch[idx].handle}: same story as another post")
             continue
@@ -490,7 +518,8 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead
     return judged, missed
 
 
-def score(posts, rubric: str, dead_today: set | None = None):
+def score(posts, rubric: str, dead_today: set | None = None,
+          already_sent: list | None = None):
     """Returns (judged, unscreened, newly_dead).
 
     judged     = [(post, score, headline, why), ...], duplicates removed
@@ -515,7 +544,8 @@ def score(posts, rubric: str, dead_today: set | None = None):
     for n, batch in enumerate(batches, 1):
         print(f"  batch {n} of {len(batches)} ({len(batch)} posts)")
         try:
-            scored, missed = _score_batch(batch, rubric, models, api_key, newly_dead)
+            scored, missed = _score_batch(batch, rubric, models, api_key, newly_dead,
+                                          already_sent)
             judged.extend(scored)
             unscreened.extend(missed)
         except Exception as exc:  # noqa: BLE001
