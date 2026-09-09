@@ -257,7 +257,14 @@ sources:
     - {name: Microsoft, url: "https://blogs.microsoft.com/feed/"}
     - {name: TRAI,      url: "https://www.trai.gov.in/rss.xml"}
 
-  # 3. Google News - everything with no feed of its own, including
+  # 3. Government releases, straight from PIB (no English feed exists,
+  #    so the ministry dropdown on their English page is driven directly)
+  pib:
+    - {name: MeitY, ministry: 1323}
+    - {name: Communications, ministry: 24}
+    - {name: Science and Technology, ministry: 13}
+
+  # 4. Google News - everything with no feed of its own, including
   #    unlisted startups, foreign private companies, and what people SAID.
   google_news:
     - {name: Indian IT majors, q: "Infosys OR TCS OR Wipro OR HCLTech OR \"Tech Mahindra\" OR LTIMindtree OR Coforge OR Mphasis"}
