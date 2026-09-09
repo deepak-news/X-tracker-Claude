@@ -1,7 +1,43 @@
 {
+  "alerted": [
+    {
+      "at": "2026-09-09T12:16:31.636157+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT1BKNTlzQTFGQVd3WXZMYmluaWlMTVpmNzhPVE4yT3F2eXhweVlCajdPQWlXVHlnY2pTa2txN21RLWE5Q1hBRV82T2IzY1IxMFkzZEVVbE1PeVBQUk5uRHNGWjY3V05ZLVlsTVhkdG5acE9ocWdqMEJKbmdWMERzUTQxa0xFdzVhVU9sLTVzdEJ0c0xlTUxicjZhZi0tWlc4QWZEMkFQMFpKZlFlTHVVX2c1OUpaNmt0cnlxVmpZc2FLaWZhbnpOSDF4QlBKNGE5cWZjRENUVE9WUWxlV3Rrbk1aMkZmWmdCYWlMRzVWSXJJOHB6QktVWlNR0gH6AUFVX3lxTE1PUEo1OXNBMUZBV3dZdkxiaW5paUxNWmY3OE9UTjJPcXZ5eHB5WUJqN09BaVdUeWdjalNra3E3bVEtYTlDWEFFXzZPYjNjUjEwWTNkRVVsTU95UFBSTm5Ec0ZaNjdXTlktWWxNWGR0blpwT2hxZ2owQkpuZ1YwRHNRNDFrTEV3NWFVT2wtNXN0QnRzTGVNTGJyNmFmLS1aVzhBZkQyQVAwWkpmUWVMdVVfZzU5Slo2a3RyeXFWallzYUtpZmFuek5IMXhCUEo0YTlxZmNEQ1RUT1ZRbGVXdGtuTVoyRmZaZ0JhaUxHNVZJckk4cHpCS1VaU1E?oc=5",
+      "words": [
+        "andhra",
+        "atmp",
+        "bhubaneswar",
+        "cluster",
+        "computing",
+        "cto",
+        "emerging",
+        "fab",
+        "gujarat",
+        "hubs",
+        "ism",
+        "quantum"
+      ]
+    },
+    {
+      "at": "2026-09-09T12:16:31.636157+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZVdVd2ktaVdQX1djOEF0aUQ3djdqZ181V1hCV0tIdVhEUUpwanBBQkJBOWFzOFNQbFk1MmNNdFJNdXhyTWNaVU5nenVLSG1GcndTcGVmQTJYTXQxWHRSQ1RISU8yZWNwWDFzY2cyaHBNVmlwSE9mZV9zVDV5WWxFZkdITC1faUprOXZPSE44VEFmZzNYU2phd0hIeGk0MEY5UlFwR3hVb0x5MHNFbXZoYWx3cy1LSExSYWZjOHJZYV9ZX3AxRk9ONUhLWWFob19tNDR2cmln0gHbAUFVX3lxTE1QZTdsbXhtMHhZc2x6azJfTFN0NUI4MkhnTHRQR0xzdF9ldHRVV203Uy0xSXB5aUkxOTMxV1ptWVl6QWdBMV9WT05YYkxOanRCUGVWTm5CTGZPS1NjbWlzejN0MHZzUjhzdzFLZDhydzd0NzhhZHJrbWFTN1VnTlZUNDNvZlRTV0V5WlpsU0pYTTlabkdULWFQdHBwSXdsTzRTRFR3VG5BRTdoeURiSjZHT3RBLThzN3RPSDRjWWVnNnJBUTIzLWphX2lFNWhYOTkyWThqdkE3M2NhYw?oc=5",
+      "words": [
+        "aadhaar",
+        "authentications",
+        "chief",
+        "daily",
+        "jump",
+        "mishra",
+        "neelkanth",
+        "prepares",
+        "threefold",
+        "uidai"
+      ]
+    }
+  ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T12:01:59.902578+00:00",
+  "last_success": "2026-09-09T12:16:31.636270+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788875980451,
@@ -31,18 +67,18 @@
     "lenovo": 1788945160509,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1788954659782,
-    "news: consumer internet india": 1788954366578,
+    "news: big tech platforms": 1788955651020,
+    "news: consumer internet india": 1788955405845,
     "news: global ai": 1788950712748,
-    "news: global chips": 1788954208022,
+    "news: global chips": 1788955828178,
     "news: global it services": 1788952427883,
-    "news: india ai deeptech": 1788953659278,
+    "news: india ai deeptech": 1788955776032,
     "news: india edtech gaming": 1788941942295,
     "news: india fintech": 1788954900500,
-    "news: india semiconductors": 1788954900881,
-    "news: india tech policy": 1788954263920,
-    "news: india telecom": 1788955096651,
-    "news: indian it majors": 1788953981089,
+    "news: india semiconductors": 1788955105140,
+    "news: india tech policy": 1788955731178,
+    "news: india telecom": 1788955521104,
+    "news: indian it majors": 1788954202018,
     "news: indian it midcaps": 1788954400634,
     "news: pib releases": 1788941717266,
     "news: tech leaders": 1788953700389,
