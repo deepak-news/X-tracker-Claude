@@ -249,16 +249,53 @@ def prefilter(posts, cfg) -> list:
 
 
 def _extract_json(raw: str):
-    """Models occasionally wrap JSON in ``` fences. Cope with it."""
-    raw = raw.strip()
-    if raw.startswith("```"):
-        raw = raw.split("```")[1]
-        if raw.startswith("json"):
-            raw = raw[4:]
-    start, end = raw.find("["), raw.rfind("]")
-    if start == -1 or end == -1:
-        raise ValueError(f"AI did not return a JSON list. Got: {raw[:300]}")
-    return json.loads(raw[start : end + 1])
+    """Get the scores out of whatever the model actually sent.
+
+    Models wrap JSON in fences, append commentary, and occasionally run out
+    of output budget mid-array. Losing a whole batch to one malformed entry
+    means losing real stories, so this salvages every complete entry it can
+    rather than insisting the whole reply is perfect.
+    """
+    text = raw.strip()
+    if text.startswith("```"):
+        text = text.split("```")[1]
+        if text.startswith("json"):
+            text = text[4:]
+        text = text.strip()
+
+    try:
+        parsed = json.loads(text)
+        if isinstance(parsed, list):
+            return parsed
+    except ValueError:
+        pass
+
+    start = text.find("[")
+    if start != -1:
+        # Decodes exactly one array and ignores any trailing commentary,
+        # which a plain find/rfind pair cannot do safely.
+        try:
+            value, _ = json.JSONDecoder().raw_decode(text[start:])
+            if isinstance(value, list):
+                return value
+        except ValueError:
+            pass
+
+    # Last resort: the reply was cut off or one entry is malformed. Keep the
+    # entries that are intact -- a partial batch beats no batch at all.
+    salvaged = []
+    for match in re.finditer(r"\{[^{}]*\}", text[max(start, 0):]):
+        try:
+            item = json.loads(match.group())
+        except ValueError:
+            continue
+        if "i" in item:
+            salvaged.append(item)
+    if salvaged:
+        print(f"  ! reply was malformed; salvaged {len(salvaged)} of its entries")
+        return salvaged
+
+    raise ValueError(f"AI did not return anything usable. Got: {text[:300]}")
 
 
 def _ask(model: str, prompt: str, api_key: str):
@@ -267,7 +304,8 @@ def _ask(model: str, prompt: str, api_key: str):
         params={"key": api_key},
         json={
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
+            "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json",
+                                 "maxOutputTokens": 8192},
         },
         timeout=TIMEOUT,
     )
@@ -330,13 +368,14 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead
 
     text = response.json()["candidates"][0]["content"]["parts"][0]["text"]
 
-    judged = []
+    judged, accounted = [], set()
     for item in _extract_json(text):
         idx = int(item.get("i", -1))
         if not (0 <= idx < len(batch)):
             continue
+        accounted.add(idx)
         if item.get("dupe_of") is not None:
-            print(f"  [dupe] @{batch[idx].handle}: same story as another post")
+            print(f"  [dupe] {batch[idx].handle}: same story as another post")
             continue
         judged.append(
             (
@@ -346,7 +385,12 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead
                 str(item.get("why", "")).strip(),
             )
         )
-    return judged
+    # A post the model never mentioned is about to be marked as seen, so it
+    # must be handed back rather than quietly disappearing.
+    missed = [post for i, post in enumerate(batch) if i not in accounted]
+    if missed:
+        print(f"  ! the model skipped {len(missed)} post(s); listing them raw instead")
+    return judged, missed
 
 
 def score(posts, rubric: str, dead_today: set | None = None):
@@ -374,7 +418,9 @@ def score(posts, rubric: str, dead_today: set | None = None):
     for n, batch in enumerate(batches, 1):
         print(f"  batch {n} of {len(batches)} ({len(batch)} posts)")
         try:
-            judged.extend(_score_batch(batch, rubric, models, api_key, newly_dead))
+            scored, missed = _score_batch(batch, rubric, models, api_key, newly_dead)
+            judged.extend(scored)
+            unscreened.extend(missed)
         except Exception as exc:  # noqa: BLE001
             # One bad batch must not throw away the batches that worked, but
             # these posts are about to be marked as seen -- so hand them back
