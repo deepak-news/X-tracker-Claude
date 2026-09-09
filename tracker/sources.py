@@ -23,6 +23,7 @@ from urllib.parse import quote_plus
 
 import feedparser
 import requests
+from bs4 import BeautifulSoup
 
 
 @dataclass
@@ -155,6 +156,64 @@ def _plain(markup: str) -> str:
     return html.unescape(re.sub(r"<[^>]+>", " ", markup)).strip()
 
 
+PIB_URL = "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1"
+
+
+def _pib(ministries: list[dict]) -> list[Post]:
+    """Government releases, straight from the source rather than via a paper.
+
+    PIB publishes no English feed -- their RSS is Hindi whatever the language
+    parameter says, and the English pages render their list through an
+    ASP.NET dropdown. So this drives that dropdown: fetch the page, keep its
+    hidden form fields, and post them back with the ministry selected.
+
+    The listing carries no per-item time, so an item is dated from when we
+    first see it. Checking every fifteen minutes keeps that honest, and the
+    release id -- which only ever climbs -- is what tracks progress.
+    """
+    session = requests.Session()
+    session.headers["User-Agent"] = UA
+    now = dt.datetime.now(dt.timezone.utc)
+
+    page = session.get(PIB_URL, timeout=TIMEOUT)
+    page.raise_for_status()
+    soup = BeautifulSoup(page.text, "html.parser")
+
+    posts = []
+    for entry in ministries:
+        fields = {i.get("name"): i.get("value", "")
+                  for i in soup.select("input[type=hidden]") if i.get("name")}
+        fields.update({
+            "ctl00$ContentPlaceHolder1$ddlMinistry": str(entry["ministry"]),
+            "ctl00$ContentPlaceHolder1$ddlday": "0",
+            "ctl00$ContentPlaceHolder1$ddlMonth": str(now.month),
+            "ctl00$ContentPlaceHolder1$ddlYear": str(now.year),
+            "__EVENTTARGET": "ctl00$ContentPlaceHolder1$ddlMinistry",
+            "__EVENTARGUMENT": "",
+        })
+        response = session.post(PIB_URL, data=fields, timeout=TIMEOUT)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        for link in soup.select('a[href*="PressReleaseDetail.aspx"]'):
+            title = " ".join(link.get_text(" ", strip=True).split())
+            href = link.get("href", "")
+            if not title or "PRID=" not in href:
+                continue
+            prid = href.split("PRID=")[-1].split("&")[0]
+            if not prid.isdigit():
+                continue
+            posts.append(Post(
+                id=prid,                      # climbs with every release
+                handle=f"PIB {entry['name']}",
+                text=f"{entry['name']} press release: {title}",
+                url="https://www.pib.gov.in/" + href.lstrip("/"),
+                created_at=now.isoformat(),
+                likes=0, reposts=0, is_reply=False, is_repost=False,
+            ))
+    return posts
+
+
 def _rss(url: str, label: str) -> list[Post]:
     """Real-world feeds are full of stray entities and broken markup, so this
     goes through feedparser rather than a strict XML parser."""
@@ -191,6 +250,7 @@ def labels(cfg: dict) -> list[str]:
     names = [f"BSE {c['name']}" for c in (sources.get("bse") or [])]
     names += [f["name"] for f in (sources.get("rss") or [])]
     names += [f"News: {q['name']}" for q in (sources.get("google_news") or [])]
+    names += [f"PIB {m['name']}" for m in (sources.get("pib") or [])]
     return names
 
 
@@ -208,6 +268,16 @@ def collect(cfg: dict):
         except Exception as exc:  # noqa: BLE001
             print(f"  ! BSE failed: {exc}")
             failed.append("BSE")
+
+    ministries = sources.get("pib") or []
+    if ministries:
+        try:
+            found = _pib(ministries)
+            posts.extend(found)
+            print(f"  PIB: {len(found)} releases from {len(ministries)} ministries")
+        except Exception as exc:  # noqa: BLE001
+            print(f"  ! PIB failed: {exc}")
+            failed.append("PIB")
 
     for feed in sources.get("rss") or []:
         try:
