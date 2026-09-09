@@ -146,6 +146,8 @@ async def run(dry_run: bool) -> int:
         fresh.extend([p for p in group if int(p.id) > since])
 
     candidates = judge.prefilter(fresh, cfg)
+    # Stories already emailed do not need scoring or sending a second time.
+    candidates = judge.drop_already_alerted(candidates, state)
     print(f"{len(fresh)} new posts, {len(candidates)} survived the cheap filters")
 
     # Read the actual filings before judging them. A headline of "Enclosed"
@@ -196,6 +198,7 @@ async def run(dry_run: bool) -> int:
                 save_state(state)
                 return 2
             print(f"\nEmailed: {subject}")
+            judge.remember_alerted(state, newsworthy)
     else:
         print("\nNothing worth emailing.")
 

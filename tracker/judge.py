@@ -161,10 +161,11 @@ _STOP = {"the","a","an","and","or","of","to","in","on","for","at","by","with",
          "shares","stock","stocks","share","crore","rs","how","why","what",
          "who","not","but","com","co","ltd","inc","india","indian"}
 
-# How much word overlap means "the same story". Set from watching real feeds:
-# twenty outlets covering one resignation share most of their nouns, while
-# two genuinely different stories about one company rarely clear this.
-SAME_STORY = 0.55
+# How much word overlap means "the same story". Measured against real
+# alerts: two outlets writing up one launch overlapped 0.44, while
+# genuinely different stories about the same company topped out at 0.17.
+# Sitting between those catches rewordings without merging real news.
+SAME_STORY = 0.40
 
 # When one story reaches us from several places, keep the most authoritative.
 # A filing is the document itself; a newsroom post is the company speaking;
@@ -208,6 +209,66 @@ def dedupe(posts: list) -> list:
     if dropped:
         print(f"  folded {dropped} duplicate report(s) of stories already in this batch")
     return kept
+
+
+# How long a story stays "already sent". Long enough to cover the tail of
+# outlets filing their own version of it, short enough that a genuine
+# follow-up a couple of days later still gets through.
+ALERTED_MEMORY_HOURS = 48
+ALERTED_MAX = 400
+
+
+def _story_words(post) -> list:
+    """The dozen words that identify this story, for remembering it."""
+    return sorted(_fingerprint(post.text[:200]))[:14]
+
+
+def drop_already_alerted(posts: list, state: dict) -> list:
+    """Remove stories already emailed, however they reach us this time.
+
+    Deduplication inside a single run cannot help here: twenty outlets file
+    their own version of one story over the following hour, and each new
+    arrival looks brand new to the run that finds it. Only a memory of what
+    has actually been sent can stop the same story arriving all afternoon.
+    """
+    remembered = state.get("alerted", [])
+    if not remembered:
+        return posts
+    seen_urls = {r.get("url") for r in remembered if r.get("url")}
+    marks = [set(r.get("words", [])) for r in remembered if r.get("words")]
+
+    kept, dropped = [], 0
+    for post in posts:
+        if post.url and post.url in seen_urls:
+            dropped += 1
+            continue
+        mark = _fingerprint(post.text[:200])
+        if mark and any(len(mark & m) / min(len(mark), len(m)) >= SAME_STORY
+                        for m in marks if m):
+            dropped += 1
+            continue
+        kept.append(post)
+    if dropped:
+        print(f"  skipped {dropped} item(s) already sent in an earlier alert")
+    return kept
+
+
+def remember_alerted(state: dict, rows: list) -> None:
+    """Record what actually went out, so it is not sent a second time."""
+    now = dt.datetime.now(dt.timezone.utc)
+    remembered = state.setdefault("alerted", [])
+    for post, *_ in rows:
+        remembered.append({"words": _story_words(post), "url": post.url,
+                           "at": now.isoformat()})
+    cutoff = now - dt.timedelta(hours=ALERTED_MEMORY_HOURS)
+    fresh = []
+    for entry in remembered:
+        try:
+            if dt.datetime.fromisoformat(entry["at"]) >= cutoff:
+                fresh.append(entry)
+        except (KeyError, ValueError):
+            continue
+    state["alerted"] = fresh[-ALERTED_MAX:]
 
 
 def prefilter(posts, cfg) -> list:
