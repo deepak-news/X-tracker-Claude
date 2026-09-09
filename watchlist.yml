@@ -192,49 +192,86 @@ accounts:
 # ----------------------------------------------------------------------
 #  WHERE THE NEWS COMES FROM
 #  X blocks servers now, so these are read instead. All free, all
-#  readable from anywhere, no login. Scrip codes and feed URLs below
-#  were each verified against the live source on 2026-09-09.
+#  readable from anywhere, no login. Every scrip code and feed URL below
+#  was checked against the live source on 2026-09-09.
 # ----------------------------------------------------------------------
 bse_days: 2          # how far back to look in exchange filings each run
 
 sources:
 
-  # 1. Exchange filings - the primary document, usually ahead of the tweet
+  # 1. Exchange filings - the primary document, usually ahead of any tweet.
+  #    All 37 codes verified: the API returns the company BSE has on file.
   bse:
-    - {code: 500209, name: Infosys}
-    - {code: 532540, name: TCS}
-    - {code: 507685, name: Wipro}
-    - {code: 532281, name: HCLTech}
-    - {code: 532755, name: Tech Mahindra}
-    - {code: 540005, name: LTIMindtree}
-    - {code: 532541, name: Coforge}
-    - {code: 526299, name: Mphasis}
-    - {code: 533179, name: Persistent}
-    - {code: 540115, name: LTTS}
-    - {code: 500408, name: Tata Elxsi}
-    - {code: 543320, name: Eternal/Zomato}
-    - {code: 543396, name: Paytm}
-    - {code: 543384, name: Nykaa}
-    - {code: 544225, name: Ola Electric}
-    - {code: 544285, name: Swiggy}
-    - {code: 500325, name: Reliance}
     - {code: 532454, name: Bharti Airtel}
+    - {code: 500463, name: Black Box}
+    - {code: 532541, name: Coforge}
+    - {code: 532175, name: Cyient}
+    - {code: 544700, name: Fractal Analytics}
+    - {code: 543227, name: Happiest Minds}
+    - {code: 532281, name: HCLTech}
+    - {code: 500183, name: HFCL}
+    - {code: 532777, name: Info Edge}
+    - {code: 500209, name: Infosys}
+    - {code: 542651, name: KPIT Technologies}
+    - {code: 540115, name: LTTS}
+    - {code: 544600, name: Lenskart}
+    - {code: 540005, name: LTIMindtree}
+    - {code: 544632, name: Meesho}
+    - {code: 544305, name: MobiKwik}
+    - {code: 543280, name: Nazara}
+    - {code: 543945, name: Netweb}
+    - {code: 500304, name: NIIT}
+    - {code: 543952, name: NIIT Learning Systems}
+    - {code: 543384, name: Nykaa}
+    - {code: 543396, name: Paytm}
+    - {code: 533179, name: Persistent}
+    - {code: 544285, name: Swiggy}
+    - {code: 543573, name: Syrma SGS}
+    - {code: 500483, name: Tata Communications}
+    - {code: 532540, name: TCS}
+    - {code: 532755, name: Tech Mahindra}
+    - {code: 544515, name: Urban Company}
+    - {code: 532822, name: Vodafone Idea}
+    - {code: 507685, name: Wipro}
+    - {code: 543985, name: Zaggle}
+    # kept from before - remove any you do not want
+    - {code: 543320, name: Eternal/Zomato}
+    - {code: 544225, name: Ola Electric}
+    - {code: 526299, name: Mphasis}
+    - {code: 500408, name: Tata Elxsi}
+    - {code: 500325, name: Reliance}
 
-  # 2. Company newsrooms - what they publish themselves
+  # 2. Company newsrooms - the company speaking for itself.
+  #    Only feeds that actually returned dated items are listed; the rest
+  #    (Accenture, Adobe, Anthropic, Cognizant, Qualcomm, Uber, Telegram,
+  #    Truecaller, X) publish no working RSS and are covered by news below.
   rss:
-    - {name: NVIDIA,  url: "https://nvidianews.nvidia.com/releases.xml"}
-    - {name: OpenAI,  url: "https://openai.com/news/rss.xml"}
-    - {name: Google,  url: "https://blog.google/rss/"}
-    - {name: Meta,    url: "https://about.fb.com/news/feed/"}
-    - {name: AMD,     url: "https://ir.amd.com/rss/news-releases.xml"}
-    - {name: Samsung, url: "https://news.samsung.com/global/feed"}
+    - {name: NVIDIA,    url: "https://nvidianews.nvidia.com/releases.xml"}
+    - {name: OpenAI,    url: "https://openai.com/news/rss.xml"}
+    - {name: Google,    url: "https://blog.google/rss/"}
+    - {name: Meta,      url: "https://about.fb.com/news/feed/"}
+    - {name: AMD,       url: "https://ir.amd.com/rss/news-releases.xml"}
+    - {name: Samsung,   url: "https://news.samsung.com/global/feed"}
+    - {name: Apple,     url: "https://www.apple.com/newsroom/rss-feed.rss"}
+    - {name: Lenovo,    url: "https://news.lenovo.com/feed/"}
+    - {name: Microsoft, url: "https://blogs.microsoft.com/feed/"}
+    - {name: TRAI,      url: "https://www.trai.gov.in/rss.xml"}
 
-  # 3. Google News - the catch-all, including what people SAID
+  # 3. Google News - everything with no feed of its own, including
+  #    unlisted startups, foreign private companies, and what people SAID.
   google_news:
-    - {name: Indian IT, q: "Infosys OR TCS OR Wipro OR HCLTech OR \"Tech Mahindra\" OR LTIMindtree OR Coforge"}
-    - {name: India semiconductors, q: "India semiconductor OR \"India Semiconductor Mission\" OR \"chip plant India\" OR fab India"}
-    - {name: India tech policy, q: "MeitY OR \"IT ministry\" India OR TRAI OR \"Ashwini Vaishnaw\" OR \"data protection\" India tech"}
-    - {name: Indian startups, q: "Indian startup funding OR IPO OR acquisition Zomato OR Swiggy OR Paytm OR Flipkart OR Ola"}
-    - {name: AI industry, q: "OpenAI OR Anthropic OR \"Google DeepMind\" OR Nvidia announcement OR \"AI model\" launch"}
-    - {name: Tech leaders, q: "\"Sundar Pichai\" OR \"Satya Nadella\" OR \"Sam Altman\" OR \"Elon Musk\" OR \"Jensen Huang\" said OR announced"}
-    - {name: Global chips, q: "TSMC OR ASML OR Intel OR Qualcomm OR Micron OR \"chip export\" OR semiconductor tariff"}
+    - {name: Indian IT majors, q: "Infosys OR TCS OR Wipro OR HCLTech OR \"Tech Mahindra\" OR LTIMindtree OR Coforge OR Mphasis"}
+    - {name: Indian IT midcaps, q: "Persistent Systems OR Cyient OR KPIT OR \"L&T Technology\" OR \"Happiest Minds\" OR Netweb OR \"Black Box\" OR Zaggle"}
+    - {name: Global IT services, q: "Accenture OR Cognizant OR Capgemini OR \"EXL Service\" OR \"ITC Infotech\" OR Genpact layoffs OR deal OR results"}
+    - {name: Consumer internet India, q: "Flipkart OR Myntra OR Meesho OR Nykaa OR Swiggy OR Zomato OR Eternal OR Zepto OR \"Urban Company\" OR Lenskart"}
+    - {name: India fintech, q: "Paytm OR PhonePe OR CRED OR MobiKwik OR Navi OR Groww OR Razorpay OR UPI OR NPCI"}
+    - {name: India telecom, q: "Jio OR \"Bharti Airtel\" OR \"Vodafone Idea\" OR BSNL OR TRAI OR \"Department of Telecommunications\" OR COAI OR HFCL OR \"Tata Communications\""}
+    - {name: India semiconductors, q: "India semiconductor OR \"India Semiconductor Mission\" OR \"chip plant India\" OR \"Tata Electronics\" OR \"Micron India\" OR Foxconn India OR \"Syrma SGS\""}
+    - {name: India AI deeptech, q: "Sarvam OR Krutrim OR IndiaAI OR \"Fractal Analytics\" OR Zoho OR \"Pocket FM\" OR Zetwerk OR \"Piper Serica\""}
+    - {name: India edtech gaming, q: "PhysicsWallah OR NIIT OR Nazara OR \"Info Edge\" OR edtech India funding OR gaming India regulation"}
+    - {name: Global AI, q: "OpenAI OR Anthropic OR \"Google DeepMind\" OR Mistral OR xAI OR \"AI model\" launch OR AI chip deal"}
+    - {name: Global chips, q: "TSMC OR ASML OR Intel OR Qualcomm OR Micron OR Nvidia OR \"chip export\" OR semiconductor tariff"}
+    - {name: Big tech platforms, q: "Apple OR Microsoft OR \"Amazon India\" OR Meta OR Uber OR Telegram OR Truecaller OR \"Elon Musk\" X platform India"}
+    - {name: India tech policy, q: "MeitY OR \"Ministry of Electronics\" OR UIDAI OR Aadhaar OR DPDP OR \"IT rules\" India OR IAMAI OR Nasscom"}
+    - {name: PIB releases, q: "site:pib.gov.in (MeitY OR telecom OR semiconductor OR digital OR IT OR Aadhaar)"}
+    - {name: Tech leaders, q: "\"Sundar Pichai\" OR \"Satya Nadella\" OR \"Sam Altman\" OR \"Jensen Huang\" OR \"Mukesh Ambani\" OR \"Nandan Nilekani\" said OR announced"}
