@@ -526,11 +526,30 @@
         "resources",
         "set"
       ]
+    },
+    {
+      "at": "2026-09-09T15:31:35.757703+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Zee's Subhash Chandra threatens defamation lawsuits against major tech platforms",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZWdTalVhN0tMVE9OYjlXSkI0NTV3My1tR3YtbTVaUDJJZWVkVVBhVkpoRHdrai1lTVhicHZucEtvZl9pSXBKd2JHdkhyRGRIN05KV19vZnlfUFhZVDVuMUdJclpUQVFxM1lFbmhQZDBFQ1VaT3dUR2I4alpzazNZOHc1Ny02MThpTF9sSWdQS0tFT0RLTm0wSWdqOUdQSUFKTlRQVVFxa0c4X1RHeEU2TkdlV0dIelVYMmNlOU5tcVIxbFVWeURZbTJ1d29CQUJQVkwta3RPWWItcEtjRUNuUVRTMUw0VkE2eFhsWF930gH0AUFVX3lxTFB1TGttMVFJejBHVVZvNGN2VUkyUVdGY2pFR0QyNlRKbVlvR2FWNmdvS2RVQmtoSzVnUlBhRENnUGt6RGZBeEJLSFU5SC1QdU5jdi1VR1RUS1l2TTZJb2NYUWhUcTdyYkdrN2VGVGM1NHhybXktcTlEdkpMWW1ySk1iSGFOTnpoX3Z0NGswV1NxeURTX0oxRUNzcThwbzQyd0xtcGN2cFlTbXdEWjRKUVNIQmRVYkJqV1ZvYlZiZzhHVFg4R0RreWpiZHFYSkFQb3dfYTdLQURfbXUtM1Izb2lnYk1vN19pRmotZ1dBX3lMWVBYTzk?oc=5",
+      "words": [
+        "chandra",
+        "defamation",
+        "hbl",
+        "linkedin",
+        "meta",
+        "subhash",
+        "sue",
+        "threatens",
+        "youtube",
+        "zee"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T15:17:10.391903+00:00",
+  "last_success": "2026-09-09T15:31:35.757961+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788875980451,
@@ -560,8 +579,8 @@
     "lenovo": 1788945160509,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1788964721906,
-    "news: consumer internet india": 1788966579273,
+    "news: big tech platforms": 1788967189830,
+    "news: consumer internet india": 1788967350207,
     "news: global ai": 1788966647412,
     "news: global chips": 1788963101498,
     "news: global it services": 1788966830899,
@@ -571,7 +590,7 @@
     "news: india semiconductors": 1788963101498,
     "news: india tech policy": 1788964997263,
     "news: india telecom": 1788964860495,
-    "news: indian it majors": 1788965737077,
+    "news: indian it majors": 1788967231891,
     "news: indian it midcaps": 1788961043223,
     "news: pib releases": 1788966120388,
     "news: tech leaders": 1788961789574,
