@@ -241,11 +241,43 @@
         "running",
         "shocking"
       ]
+    },
+    {
+      "at": "2026-09-09T13:31:47.252761+00:00",
+      "handle": "News: India AI deeptech",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUC1YbDZtN1hhXzFSc0c3T3lzYjEtZUtMakc4XzJGRklXNGlRMm1aWTNDdDJCLWthLUpIOXhjVDNmUngtM1k4S1lodzdFa3dmMkpWeGpjeFhhNHU2WWlJU3h6ZDdETFZSb3ZuZlkxTE0wT0QyVHMtTjJzcUZGaDJRNTJ0RGRRV3pzSG5TSDY3Y2gwZ2c3dWE0NXpxLWRpeFlpR2lCUQ?oc=5",
+      "words": [
+        "bank",
+        "build",
+        "first",
+        "idfc",
+        "improving",
+        "partner",
+        "sarvam",
+        "self"
+      ]
+    },
+    {
+      "at": "2026-09-09T13:31:47.252761+00:00",
+      "handle": "News: Consumer internet India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXFKRUpBTmJUQlBYbGJfNmVvcV8xRUxpOE9LQ2R6aGhpZUdOcGVZRk5oYXlWcXBjSC1GRkxJVnQzSGRSR2FOblNXN1ZTVS1RaU92UkROTGJULUpjRTN3eXlqaWo0QUNDYXpwYjhGUFowY3I1dnpqQmJXNGYtUklELWJuZ3BWVnpVdjYxSWtTRndwcXR5dVpWcldzNmxiUFhrcHp2MFZIa1FySTNzNnBIakR1RWxsNjjSAbwBQVVfeXFMUHM5WUQ3RkhiN0UyZ0l4ZlU3SF9xVmx2S1U2eVViMzc5Z1F1X1RzWkdxTFZDaEpIM2hfNno0VmhmM3pMd2YwR19hWmc5aGU5Q2NSMW5XUGQ4QlhLTldCbUN0LTItc3lqd2VNQWNSWUZSZUU4TEdWaktTTkJVT0tzZ0NkRkd4SnJQcFM5RS1zTmIxTnlWbElzT0xfSElTbzN3VUNscTlKek9VdDNHaU9FRnhNY2JTQTh3R3Nxd28?oc=5",
+      "words": [
+        "centers",
+        "gig",
+        "hyderabad",
+        "partner",
+        "rest",
+        "telangana",
+        "worker",
+        "zepto"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T13:16:51.149645+00:00",
+  "last_success": "2026-09-09T13:31:47.252992+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788875980451,
@@ -276,20 +308,20 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1788959116802,
-    "news: consumer internet india": 1788959560138,
-    "news: global ai": 1788950712748,
+    "news: consumer internet india": 1788959862496,
+    "news: global ai": 1788955163111,
     "news: global chips": 1788955828178,
     "news: global it services": 1788956469076,
-    "news: india ai deeptech": 1788956160782,
+    "news: india ai deeptech": 1788957952490,
     "news: india edtech gaming": 1788941942295,
     "news: india fintech": 1788959560138,
     "news: india semiconductors": 1788957103902,
-    "news: india tech policy": 1788959400909,
+    "news: india tech policy": 1788959552113,
     "news: india telecom": 1788958378392,
-    "news: indian it majors": 1788957637050,
+    "news: indian it majors": 1788959496089,
     "news: indian it midcaps": 1788954400634,
     "news: pib releases": 1788952646010,
-    "news: tech leaders": 1788953700389,
+    "news: tech leaders": 1788959482625,
     "nvidia": 1788451259858,
     "openai": 1788886800486,
     "pib communications": 2308285,
