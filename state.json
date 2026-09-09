@@ -456,11 +456,81 @@
         "uber",
         "valuation"
       ]
+    },
+    {
+      "at": "2026-09-09T15:17:10.391308+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Coforge Chairperson OP Bhatt resigns amid internal audit concerns",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnNkZmoyYU9wcUdFVXJ1VEJfQVpOejJSNjRQMnNlUXZIQmk1VUdDbkwzSlp0cV9EUFRwVUFvMDhoRGRMbmJfd2lGNHlnRnNUTDQxdjl1YmtqREFsLS1BS3d4SUtoYXg1eUl0NkZxS2MxOERDa0Nwbk1QOWxQUy1Xek9zUTY3Uk1vVzU5SjBsUlE5MjZYaUZoZ2dQU2ZTZXNWek1Ldm1wSUdnZWF2UC1NME5XVEpDRldLV2JxMVJzX0kwYzJmVEl4c2hhMTfSAdMBQVVfeXFMTXJZUGtLcmZ4M3NRX3VrTlc1b2NkNGpuaDloaG5hTnlhU2RxVDk2Y1Mxc2dhVDU2RnlYVnhkVWxIdENZYlVrM3RTeFhYWW9vQlJ6eEdlU09rUHZBejlOZ1VkTGRqazFPd1YxdVNhY3VkTFE5MFRpcXZNcXA5QUYyUUMwRU1hQjlIb3B1a3VqRWUwTTc4VF9kaUZQUXJTd1d6cEh0dE9pZG1yeXRJRkc5TVM2dmdQTk5zTnQ1Y3o1akNJeVpjanl0SG9WZ3p2WFFuRGROaw?oc=5",
+      "words": [
+        "audit",
+        "bhatt",
+        "chairperson",
+        "coforge",
+        "concerns",
+        "internal",
+        "resigns"
+      ]
+    },
+    {
+      "at": "2026-09-09T15:17:10.391308+00:00",
+      "handle": "News: India fintech",
+      "headline": "PhonePe expands to UAE in its first international market launch",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUN4R1FiS0cyc2RVOU9NM3NMMTN6dG5IZmNsS0UxVmJYbXhPS2hlYUR3QWZKQjQ0aVh5MjluS3NVSkw3SmpSRnBVQU0xRkNsS0k0ckphOWlMQ1dNcHlTSFJXSmhFWXlOZ3B0YkstNXpXbnJYazBUTGxQN05kQ0JnZklaYWt1aHliNjlCYk9udXdjT093OUdYSXJuUU5TTm1jY0VYVHM3YThtR1Ix0gGyAUFVX3lxTFBoUUpDQjZScVR1RG83bWpJbEdOMHlxZkxSUGhoaTAyaUJEdUNjbWtYZFZ6dnZZOUZ3M20yTnNHQWgxd3N0U2FrVUJnaWZpYmhtN19yQU9fSEdNN0t2WDNNaUljdnBxYk5reS1VblhLMjFKbk1XUUgydG1IT1J1SndOZFdURUVub0YtajJqWVZiU2RKR1Z1WTUyMkI3b2tmSkRldWpEYUFLR216cS1uUDcya2c?oc=5",
+      "words": [
+        "expands",
+        "first",
+        "international",
+        "launch",
+        "market",
+        "phonepe",
+        "uae"
+      ]
+    },
+    {
+      "at": "2026-09-09T15:17:10.391308+00:00",
+      "handle": "News: Global AI",
+      "headline": "Samsung to build custom AI chip for OpenAI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRWYwbnVYUG9FSzQwbk1rSXlyTGpmMEtEOENySVJ2cnpQSlRLaXZoSmNpb1JmbzE1ZVp6TFRGMUNwd25rM0g3RXBGbjZCUllCa2piMENNMDBoTlJtd0l0YWNwNFJ5Um9hUGZaRVZTNXdIZlBPNVNIcV8wcllXcFREVw?oc=5",
+      "words": [
+        "build",
+        "chip",
+        "custom",
+        "openai",
+        "partnership",
+        "samsung",
+        "widens"
+      ]
+    },
+    {
+      "at": "2026-09-09T15:17:10.391308+00:00",
+      "handle": "News: PIB releases",
+      "headline": "Government launches Rs 565.50 crore digital overhaul for land records",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZQ19hVlRxYmtLb0RWUDUzQVVuTTI5YkhRX2NZb01VcmxpSlhRUVlFTDR2enZLRFlCaERpazZpbjJjN2JydEVuWV9ESTRKdWpzOTBYUmZRUjZWQXVhbm9oR196cjV1YjhwbDlr?oc=5",
+      "words": [
+        "565",
+        "announce",
+        "department",
+        "digital",
+        "dilrmp",
+        "guidelines",
+        "land",
+        "launch",
+        "operational",
+        "overhaul",
+        "records",
+        "resources",
+        "set"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T15:02:51.207646+00:00",
+  "last_success": "2026-09-09T15:17:10.391903+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788875980451,
@@ -478,7 +548,7 @@
     "bse niit learning systems": 1788977419083,
     "bse ola electric": 1788908280469,
     "bse paytm": 1788957473210,
-    "bse reliance": 1788809977419,
+    "bse reliance": 1788986238438,
     "bse swiggy": 1788801394767,
     "bse tata communications": 1788884459080,
     "bse tcs": 1788953444694,
@@ -491,19 +561,19 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1788964721906,
-    "news: consumer internet india": 1788965100179,
-    "news: global ai": 1788960337012,
+    "news: consumer internet india": 1788966579273,
+    "news: global ai": 1788966647412,
     "news: global chips": 1788963101498,
-    "news: global it services": 1788965426292,
+    "news: global it services": 1788966830899,
     "news: india ai deeptech": 1788965041736,
     "news: india edtech gaming": 1788941942295,
-    "news: india fintech": 1788965104761,
+    "news: india fintech": 1788966297451,
     "news: india semiconductors": 1788963101498,
     "news: india tech policy": 1788964997263,
     "news: india telecom": 1788964860495,
-    "news: indian it majors": 1788964452793,
+    "news: indian it majors": 1788965737077,
     "news: indian it midcaps": 1788961043223,
-    "news: pib releases": 1788964620707,
+    "news: pib releases": 1788966120388,
     "news: tech leaders": 1788961789574,
     "nvidia": 1788451259858,
     "openai": 1788886800486,
