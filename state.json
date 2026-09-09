@@ -781,11 +781,44 @@
         "ships",
         "warns"
       ]
+    },
+    {
+      "at": "2026-09-09T19:31:54.658635+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Aadhaar authentication capacity to expand to 300 million daily",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFVBT0dNQm9ROHdJM2JPR1liWkpxZFpsNDczUWNCMDVfQi1sM0VhanRIZkFla3RKYmpoSmtKbkZUUjdGMnNfVlBuV1lDRnpaMVY1WVhZcl9fY0ZhQ292dU9RTUxuWG9iVDRGZnR5UEJvUVRyNXJHLVFaME1YczRuQW9sbndUQW9ONWVaU2FYUlRoUWZfYkFVVGh2dFhUZ0E4RTY2eHF2WGZkWUpmYTdncEM0X0RRc0ljMkl5YU530gHEAUFVX3lxTE1XY2RaUlhNVVU5eFVzdGRqV0g4bnc4TjBoTWFLOFE4UFB2Nm9ERG8xM1dTMkVDWTFNQS1WU3c4WE5SZnNqbjR5WExnb3g3N3ktXzl6YVA3X0d0REJIZ2lOM0x6QTRQaFNXUnVsZV9mZTFKUHQyMFBySVRpUUk1MngwM1hEVGxNbGpNUVhqVGFlU0gtS2RNSFJGSVJxNlptZmhnbjFfTFRMTTB2LVFSR1liRV9HRzdPYUpzSWd2T2lQZmZ5MU4?oc=5",
+      "words": [
+        "250",
+        "300",
+        "aadhaar",
+        "authentication",
+        "capacity",
+        "million",
+        "mishra",
+        "rise"
+      ]
+    },
+    {
+      "at": "2026-09-09T19:31:54.658635+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Accenture leases 272,000 sq ft office space in Thane",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkwzV19HMFZwVnhpc0lveFRSSmFKa19Iajhya0FkNUxpNjRlaWVERDc5WEZFQXp1X2I0VWYxS1RZaGNQYmg4a1pLZDAteW1BaUxocWhtNUFTZGJfbTVRc0J3X21HcFRwa2dfOG5xR0x3VnlneFlKTkM0OTJreHdkWERuYU0?oc=5",
+      "words": [
+        "000",
+        "272",
+        "accenture",
+        "leased",
+        "office",
+        "space",
+        "thane"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T19:16:42.289629+00:00",
+  "last_success": "2026-09-09T19:31:54.658915+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -819,12 +852,12 @@
     "news: consumer internet india": 1788981006474,
     "news: global ai": 1788971182740,
     "news: global chips": 1788978960467,
-    "news: global it services": 1788973627849,
+    "news: global it services": 1788982217837,
     "news: india ai deeptech": 1788977421642,
     "news: india edtech gaming": 1788941942295,
     "news: india fintech": 1788977330725,
     "news: india semiconductors": 1788972335421,
-    "news: india tech policy": 1788972463849,
+    "news: india tech policy": 1788976093360,
     "news: india telecom": 1788975174590,
     "news: indian it majors": 1788980333633,
     "news: indian it midcaps": 1788969180546,
