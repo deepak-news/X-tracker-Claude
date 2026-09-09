@@ -177,9 +177,38 @@ def _authority(post) -> int:
     return 0 if label.startswith("news:") else 1
 
 
+# The wrapper this tool puts around a filing or release, plus the legal
+# formula every filing repeats. Left in, these dominate the comparison and
+# make two unrelated filings look like the same story.
+_WRAPPER = re.compile(
+    r"(.*? filed with the exchange:|.*? press release:|\[[^\]]*\]"
+    r"|pursuant to|under regulation \d*|regulation \d+|sebi|lodr"
+    r"|listing obligations|disclosure requirements|as amended)", re.I)
+
+
+def _story_text(post) -> str:
+    """The part of an item that actually says what happened."""
+    return " ".join(_WRAPPER.sub(" ", post.text).split())
+
+
 def _fingerprint(text: str) -> set:
     words = re.findall(r"[a-z0-9]{3,}", text.lower())
     return {w for w in words if w not in _STOP}
+
+
+def _same_story(a, b) -> bool:
+    """Whether two items report the same event.
+
+    Two filings from different companies are never the same story, however
+    alike their wording -- "Update under regulation 30" is filed by half the
+    exchange on any given day. A filing and a news report of it are.
+    """
+    if _authority(a) > 0 and _authority(b) > 0 and a.handle != b.handle:
+        return False
+    x, y = _fingerprint(_story_text(a)[:200]), _fingerprint(_story_text(b)[:200])
+    if not x or not y:
+        return False
+    return len(x & y) / min(len(x), len(y)) >= SAME_STORY
 
 
 def dedupe(posts: list) -> list:
@@ -190,21 +219,10 @@ def dedupe(posts: list) -> list:
     so they are folded together here -- before anything is paid for.
     """
     ranked = sorted(posts, key=lambda p: (-_authority(p), p.created_at))
-    kept, prints = [], []
+    kept = []
     for post in ranked:
-        mark = _fingerprint(post.text[:200])
-        if not mark:
+        if not any(_same_story(post, seen) for seen in kept):
             kept.append(post)
-            continue
-        duplicate = False
-        for seen in prints:
-            overlap = len(mark & seen) / min(len(mark), len(seen))
-            if overlap >= SAME_STORY:
-                duplicate = True
-                break
-        if not duplicate:
-            kept.append(post)
-            prints.append(mark)
     dropped = len(posts) - len(kept)
     if dropped:
         print(f"  folded {dropped} duplicate report(s) of stories already in this batch")
@@ -220,7 +238,7 @@ ALERTED_MAX = 400
 
 def _story_words(post) -> list:
     """The dozen words that identify this story, for remembering it."""
-    return sorted(_fingerprint(post.text[:200]))[:14]
+    return sorted(_fingerprint(_story_text(post)[:200]))[:14]
 
 
 def drop_already_alerted(posts: list, state: dict) -> list:
@@ -235,16 +253,27 @@ def drop_already_alerted(posts: list, state: dict) -> list:
     if not remembered:
         return posts
     seen_urls = {r.get("url") for r in remembered if r.get("url")}
-    marks = [set(r.get("words", [])) for r in remembered if r.get("words")]
 
     kept, dropped = [], 0
     for post in posts:
         if post.url and post.url in seen_urls:
             dropped += 1
             continue
-        mark = _fingerprint(post.text[:200])
-        if mark and any(len(mark & m) / min(len(mark), len(m)) >= SAME_STORY
-                        for m in marks if m):
+        mark = _fingerprint(_story_text(post)[:200])
+        hit = False
+        for entry in remembered:
+            other = set(entry.get("words", []))
+            if not other or not mark:
+                continue
+            # Same rule as within a run: two different companies filing
+            # similar-sounding paperwork are not the same story.
+            if _authority(post) > 0 and entry.get("handle") not in (None, post.handle):
+                if entry.get("tier", 0) > 0:
+                    continue
+            if len(mark & other) / min(len(mark), len(other)) >= SAME_STORY:
+                hit = True
+                break
+        if hit:
             dropped += 1
             continue
         kept.append(post)
@@ -259,6 +288,7 @@ def remember_alerted(state: dict, rows: list) -> None:
     remembered = state.setdefault("alerted", [])
     for post, *_ in rows:
         remembered.append({"words": _story_words(post), "url": post.url,
+                           "handle": post.handle, "tier": _authority(post),
                            "at": now.isoformat()})
     cutoff = now - dt.timedelta(hours=ALERTED_MEMORY_HOURS)
     fresh = []
