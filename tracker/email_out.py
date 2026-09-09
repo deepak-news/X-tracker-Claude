@@ -2,6 +2,8 @@
 
 import html
 import os
+
+from . import sources
 import smtplib
 from email.message import EmailMessage
 
@@ -37,7 +39,7 @@ def send(subject: str, body_html: str) -> None:
 
     message = EmailMessage()
     message["Subject"] = subject
-    message["From"] = f"X Tracker <{sender}>"
+    message["From"] = f"News Tracker <{sender}>"
     message["To"] = ", ".join(recipients)
     message.set_content("This email needs an HTML-capable reader.")
     message.add_alternative(body_html, subtype="html")
@@ -49,28 +51,55 @@ def send(subject: str, body_html: str) -> None:
 
 
 def build_digest(items, unscreened=None) -> tuple[str, str]:
-    """items = [(post, score, headline, why), ...] already sorted, best first.
+    """items = [(post, score, headline, why), ...], best first.
 
-    unscreened = posts the AI could not judge. They are listed raw at the
-    bottom so a failure never turns into a story you never heard about.
+    Primary sources are shown before news reports: a filing or a ministry
+    release IS the event, while an article is somebody's account of it.
     """
     unscreened = unscreened or []
     if items:
-        top = items[0]
+        # The subject carries the single most newsworthy thing, whatever its
+        # source, breaking ties towards the more authoritative one.
+        top = sorted(items, key=lambda r: (-r[1], sources.tier(r[0].handle)))[0]
         subject = f"[{int(top[1])}/10] {top[2]}" if len(items) == 1 else \
-                  f"{len(items)} newsworthy posts — top: {top[2]}"
+                  f"{len(items)} newsworthy — top: {top[2]}"
     else:
         n = len(unscreened)
-        subject = f"{n} post{'' if n == 1 else 's'} need{'s' if n == 1 else ''} a manual look"
+        subject = f"{n} item{'' if n == 1 else 's'} need{'s' if n == 1 else ''} a manual look"
+
+    tint = {
+        sources.TIER_FILING: ("#0b6b3a", "#e7f5ec"),
+        sources.TIER_GOVERNMENT: ("#8a4b00", "#fdf0e0"),
+        sources.TIER_COMPANY: ("#1d4ed8", "#e8efff"),
+        sources.TIER_NEWS: ("#555", "#eee"),
+    }
+
+    grouped: dict[int, list] = {}
+    for row in items:
+        grouped.setdefault(sources.tier(row[0].handle), []).append(row)
 
     blocks = []
-    for post, score_value, headline, why in items:
+    for level in sorted(grouped):
+        ink, wash = tint[level]
         blocks.append(f"""
-        <div style="margin:0 0 28px;padding:18px 20px;border:1px solid #e3e3e3;border-radius:10px;">
-          <div style="font:600 12px/1.4 -apple-system,Segoe UI,sans-serif;color:#666;">
-            {html.escape(post.handle)} &middot; scored {score_value:.0f}/10
+        <div style="font:700 11px -apple-system,Segoe UI,sans-serif;color:#888;
+                    letter-spacing:.1em;text-transform:uppercase;margin:26px 0 12px;">
+          {html.escape(sources.TIER_NAMES[level])}
+        </div>""")
+        for post, score_value, headline, why in sorted(grouped[level], key=lambda r: -r[1]):
+            kind, where = sources.describe(post)
+            blocks.append(f"""
+        <div style="margin:0 0 14px;padding:18px 20px;border:1px solid #e3e3e3;border-radius:10px;">
+          <div style="margin-bottom:10px;">
+            <span style="display:inline-block;background:{wash};color:{ink};
+                         font:700 10px -apple-system,Segoe UI,sans-serif;letter-spacing:.08em;
+                         padding:4px 8px;border-radius:4px;">{html.escape(kind)}</span>
+            <span style="font:600 12px -apple-system,Segoe UI,sans-serif;color:#333;
+                         margin-left:8px;">{html.escape(where)}</span>
+            <span style="font:400 12px -apple-system,Segoe UI,sans-serif;color:#888;
+                         margin-left:8px;">scored {score_value:.0f}/10</span>
           </div>
-          <div style="font:700 17px/1.35 -apple-system,Segoe UI,sans-serif;color:#111;margin:6px 0 10px;">
+          <div style="font:700 17px/1.35 -apple-system,Segoe UI,sans-serif;color:#111;margin:0 0 10px;">
             {html.escape(headline)}
           </div>
           <div style="font:400 15px/1.55 -apple-system,Segoe UI,sans-serif;color:#222;white-space:pre-wrap;">
@@ -105,7 +134,7 @@ def build_digest(items, unscreened=None) -> tuple[str, str]:
     body = f"""<div style="max-width:640px;margin:0 auto;padding:24px 16px;background:#fff;">
       <div style="font:600 13px -apple-system,Segoe UI,sans-serif;color:#888;
                   letter-spacing:.06em;text-transform:uppercase;margin-bottom:18px;">
-        X Tracker
+        News Tracker
       </div>
       {''.join(blocks)}
       <div style="font:400 12px -apple-system,Segoe UI,sans-serif;color:#999;margin-top:8px;">

@@ -10,7 +10,7 @@ import sys
 import yaml
 
 from . import email_out, judge, sources
-from .fetch import XUnavailable
+from .sources import XUnavailable
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 WATCHLIST = ROOT / "watchlist.yml"
@@ -172,7 +172,9 @@ async def run(dry_run: bool) -> int:
             save_state(state)
             return 2
         record_dead_models(state, newly_dead)
-        newsworthy = sorted((r for r in judged if r[1] >= threshold), key=lambda r: -r[1])
+        # Primary sources first, best score within each.
+        newsworthy = sorted((r for r in judged if r[1] >= threshold),
+                            key=lambda r: (sources.tier(r[0].handle), -r[1]))
         for post, value, headline, _ in judged:
             mark = "SEND" if value >= threshold else "skip"
             print(f"  [{mark}] {value:.0f}/10 {post.handle}: {headline}")
