@@ -650,11 +650,34 @@
         "sdk",
         "uidai"
       ]
+    },
+    {
+      "at": "2026-09-09T17:16:23.699175+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "John Ternus leads Apple's 2026 event as CEO amid iPhone 18 and Foldable launches",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORlFwTWFnYndVNEQ0SExOVzlQM0haNnhRQktpaDZGTDlHbENDUVczUnFRSllxNmw5QXRBYWpYSGJFbE5fSG5Wc2RmS05XTHVHRGQtNmEzUDFXemxSRlVuUlROd2lOY1k0SVNUZUVSbFlQVUhHQUFtSnZ4TUcyVDUyREpfanBEcm93S3ZPMk04T3VvLWNpSmt6d2tWR01lbGZaeVlpNHFaNEtjSERybVVJcA?oc=5",
+      "words": [
+        "2026",
+        "apple",
+        "ceo",
+        "event",
+        "expected",
+        "first",
+        "foldable",
+        "iphone",
+        "john",
+        "launch",
+        "leads",
+        "live",
+        "pro",
+        "ternus"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T17:10:50.826886+00:00",
+  "last_success": "2026-09-09T17:16:23.699689+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788875980451,
@@ -684,11 +707,11 @@
     "lenovo": 1788971151379,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1788967189830,
+    "news: big tech platforms": 1788972915235,
     "news: consumer internet india": 1788971998340,
-    "news: global ai": 1788968025412,
+    "news: global ai": 1788971182740,
     "news: global chips": 1788963101498,
-    "news: global it services": 1788970980775,
+    "news: global it services": 1788971100520,
     "news: india ai deeptech": 1788968040707,
     "news: india edtech gaming": 1788941942295,
     "news: india fintech": 1788973538214,
