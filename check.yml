@@ -1,0 +1,84 @@
+name: News Tracker
+
+# Timing comes from cron-job.org, which posts to the dispatch endpoint every
+# 15 minutes. GitHub's own schedule used to be listed here as a fallback, but
+# it delivers only a small fraction of its runs AND occasionally fires at the
+# same moment as the external timer -- two runs then read the same state,
+# scored the same stories and each sent its own email. A fallback that
+# duplicates alerts is worse than no fallback.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What should this run do?"
+        type: choice
+        default: normal
+        options:
+          - normal
+          - test-email
+          - dry-run
+
+# Never let two runs overlap -- they would fight over state.json.
+concurrency:
+  group: news-tracker
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Check the news sources and send any alerts
+        # A hang here (a slow source, an AI request that never returns)
+        # would otherwise block every run behind it for hours, since two
+        # runs are never allowed to overlap -- see the concurrency block
+        # above. This kills a stuck run well before the next one is due.
+        timeout-minutes: 8
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: |
+          case "${{ inputs.mode }}" in
+            test-email) python -m tracker.main --test-email ;;
+            dry-run)    python -m tracker.main --dry-run ;;
+            *)          python -m tracker.main ;;
+          esac
+
+      - name: Remember what we have already seen
+        if: always()
+        run: |
+          git config user.name "news-tracker"
+          git config user.email "actions@users.noreply.github.com"
+          cp state.json "$RUNNER_TEMP/mine.json"
+
+          # Nothing in state.json genuinely conflicts -- every field only
+          # moves forward -- so it is combined by meaning rather than merged
+          # as text. Rebasing it used to fail the whole run on a clash, which
+          # threw away that run's progress and made it re-send everything.
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git checkout -- state.json 2>/dev/null || true
+            git reset --hard origin/main --quiet
+            python -m tracker.merge_state "$RUNNER_TEMP/mine.json" state.json > "$RUNNER_TEMP/merged.json"
+            mv "$RUNNER_TEMP/merged.json" state.json
+            git add state.json
+            git diff --staged --quiet && exit 0
+            git commit -m "seen up to $(date -u +%FT%TZ)"
+            if git push; then exit 0; fi
+            echo "another run pushed first, merging again (attempt $attempt)"
+          done
+          echo "could not save progress after 3 attempts"
+          exit 1
