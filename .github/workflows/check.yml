@@ -1,9 +1,10 @@
-name: X Tracker
+name: News Tracker
 
 on:
   schedule:
-    # Every 10 minutes. GitHub often runs these a few minutes late when busy.
-    - cron: "*/10 * * * *"
+    # Every 15 minutes. This is only a fallback -- GitHub drops most
+    # scheduled runs, so cron-job.org is what actually keeps time.
+    - cron: "*/15 * * * *"
   # Lets you press a button on GitHub to run it immediately.
   workflow_dispatch:
     inputs:
@@ -18,7 +19,7 @@ on:
 
 # Never let two runs overlap -- they would fight over state.json.
 concurrency:
-  group: x-tracker
+  group: news-tracker
   cancel-in-progress: false
 
 permissions:
@@ -37,15 +38,13 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Check X and send any alerts
-        # A hang here (a slow X response, an AI request that never returns)
+      - name: Check the news sources and send any alerts
+        # A hang here (a slow source, an AI request that never returns)
         # would otherwise block every run behind it for hours, since two
         # runs are never allowed to overlap -- see the concurrency block
         # above. This kills a stuck run well before the next one is due.
         timeout-minutes: 8
         env:
-          X_COOKIES: ${{ secrets.X_COOKIES }}
-          X_LIST_ID: ${{ secrets.X_LIST_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
@@ -60,7 +59,7 @@ jobs:
       - name: Remember what we have already seen
         if: always()
         run: |
-          git config user.name "x-tracker"
+          git config user.name "news-tracker"
           git config user.email "actions@users.noreply.github.com"
           git add state.json
           git diff --staged --quiet && exit 0
