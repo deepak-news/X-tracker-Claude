@@ -673,11 +673,59 @@
         "pro",
         "ternus"
       ]
+    },
+    {
+      "at": "2026-09-09T17:31:36.042012+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "India's Semicon 2.0 push targets chips for defence",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRTZGMks1WXl2eklsMjhUWlRrV0JGVWdQaERnME1mczVrSFlfaG4yLTBTc1BKTU9kN1dyRms5YXJhNnNXdVoxXzh4QlY5emIxdEF5dl9LQlVHSy1OSlpmMHB3aTVOR3lGWlhOT3Vacm5ET0RPMElqSFBNTVFUOHhyTUZJTVVnVHp6Q2NMbnlWZUc0QQ?oc=5",
+      "words": [
+        "chips",
+        "defence",
+        "push",
+        "semicon",
+        "targets"
+      ]
+    },
+    {
+      "at": "2026-09-09T17:31:36.042012+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Flipkart tests 'Eat In' food delivery among employees",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2VTS0t5QlJ6cnJoUjRKUlo2VERGM1BDN0dLa2NuWWxDQVQ1aHRsb19VX196TTFZcnNlaUQ2LUVCOW9vUTN0TUNpTGRuZHlrM1ZoUC1lS0dOcVF1cjVMRS00VUo0X1ptejl5VEpJWHE4ODJfRWxCZ0hrLVVTLUVveUt3eXBaSnhvZ1JhWWl5VG9aa19RNnpCQkVINWdBb0NBeFA4cnRjcGx5ekN1QUh2MGZQbW5GNTAyZ0hnMXpsdjg4WGpvSFFv0gHHAUFVX3lxTE9rZVNLS3lCUnpycmhSNEpSWjZUREYzUEM3R0trY25ZbENBVDVodGxvX1VfX3pNMVlyc2VpRDYtRUI5b29RM3RNQ2lMZG5keWszVmhQLWVLR05xUXVyNUxFLTRVSjRfWm16OXlUSklYcTg4Ml9FbEJnSGstVVMtRW95S3d5cFpKeG9nUmFZaXlUb1prX1E2ekJCRUg1Z0FvQ0F4UDhydGNwbHl6Q3VBSHYwZlBtbkY1MDJnSGcxemx2ODhYam9IUW8?oc=5",
+      "words": [
+        "among",
+        "bengaluru",
+        "delivery",
+        "eat",
+        "employees",
+        "flipkart",
+        "food",
+        "report",
+        "service",
+        "tests"
+      ]
+    },
+    {
+      "at": "2026-09-09T17:31:36.042012+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "TCS launches AI-native creative engineering studio in UK",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0NFaXhNU0o1M0RtVi04ZVVGRXA1NGhoNk41eGd0TEVySk1GYzk2d2N3V2JFOHB3TFpnUFcwOTlqR1ppOHoyTFBuSFhER2JyeVRZZmd2UnpGaEZfZEFtdExKMk5WXzVkeDNmYzhoZVBQMFlDU1BFQURMUV9UT3VsalFNSzgyWXQ3NWJ1S1g4NWpITXJTVGRXSmVwUE42MEljLUFFc0tqOVjSAa4BQVVfeXFMTm4tUmQ4OWRfZXZqekg5RVVwTzE2Y254RU4wdHZUT0s2SVhuZ2RfalF0akVjcDN4dkUzN19aRWRCekd0LUFSNk1ldW9XdnVvNWRDTV91cUh5QVRHU2JlY2trRm9yRWpPblp1RjRCTHpFU3JXV21fcHowaVEyY1pjcHBYOU50Z2hNNkFPVURMRlV0ckh4dWxaTlB4WDBSWWFBMFZ4NzNoLWw2N2ZkeGFR?oc=5",
+      "words": [
+        "creative",
+        "engineering",
+        "launches",
+        "native",
+        "studio",
+        "tcs"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T17:16:23.699689+00:00",
+  "last_success": "2026-09-09T17:31:36.042299+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788875980451,
@@ -708,17 +756,17 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1788972915235,
-    "news: consumer internet india": 1788971998340,
+    "news: consumer internet india": 1788973853713,
     "news: global ai": 1788971182740,
-    "news: global chips": 1788963101498,
-    "news: global it services": 1788971100520,
+    "news: global chips": 1788970426489,
+    "news: global it services": 1788973627849,
     "news: india ai deeptech": 1788968040707,
     "news: india edtech gaming": 1788941942295,
     "news: india fintech": 1788973538214,
-    "news: india semiconductors": 1788963101498,
+    "news: india semiconductors": 1788972075421,
     "news: india tech policy": 1788972463849,
     "news: india telecom": 1788971323251,
-    "news: indian it majors": 1788970990862,
+    "news: indian it majors": 1788974272900,
     "news: indian it midcaps": 1788969180546,
     "news: pib releases": 1788972780556,
     "news: tech leaders": 1788970990862,
