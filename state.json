@@ -166,11 +166,45 @@
         "optiq",
         "portfolio"
       ]
+    },
+    {
+      "at": "2026-09-09T13:01:54.837499+00:00",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308398",
+      "words": [
+        "2026",
+        "aadhaar",
+        "authentication",
+        "face",
+        "fest",
+        "fintech",
+        "global",
+        "launches",
+        "meity",
+        "press",
+        "release",
+        "sandbox",
+        "sdk",
+        "uidai"
+      ]
+    },
+    {
+      "at": "2026-09-09T13:01:54.837499+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzduYlByLWhyZ2Q5ZXNMNVd2dFd2UlgtUWZsUGFDQzkxcGk0R1J1NEZ1Y0N6S3FUSzZIWTB1MEZBM2VrX1dLWEhJWk9ZSE9PMlJLUjJoalFOa21LNm81dElOTmdKVHpJNUVpTWI5NnR2TFBGVVdxcHo3Q0g5X2pxb25lVGFyNnJ5eWxFTEI3Y29IeTkzTXNxcm05MDdKQmJQU0thVFBhU3Nrdw?oc=5",
+      "words": [
+        "border",
+        "businesses",
+        "cross",
+        "jio",
+        "launches",
+        "payment",
+        "payments",
+        "solutions"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T12:46:28.586319+00:00",
+  "last_success": "2026-09-09T13:01:54.837629+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788875980451,
@@ -201,16 +235,16 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1788957069409,
-    "news: consumer internet india": 1788957486420,
+    "news: consumer internet india": 1788958703013,
     "news: global ai": 1788950712748,
     "news: global chips": 1788955828178,
-    "news: global it services": 1788953732216,
+    "news: global it services": 1788955200200,
     "news: india ai deeptech": 1788956160782,
     "news: india edtech gaming": 1788941942295,
     "news: india fintech": 1788957865332,
     "news: india semiconductors": 1788957103902,
     "news: india tech policy": 1788956760829,
-    "news: india telecom": 1788957809607,
+    "news: india telecom": 1788958320703,
     "news: indian it majors": 1788957637050,
     "news: indian it midcaps": 1788954400634,
     "news: pib releases": 1788952646010,
@@ -218,9 +252,9 @@
     "nvidia": 1788451259858,
     "openai": 1788886800486,
     "pib communications": 2308285,
-    "pib meity": 2307962,
+    "pib meity": 2308398,
     "pib science and technology": 2308334,
     "samsung": 1788915600769,
-    "trai": 1788957392539
+    "trai": 1788958746752
   }
 }
