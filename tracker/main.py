@@ -9,8 +9,8 @@ import sys
 
 import yaml
 
-from . import email_out, judge
-from .fetch import XUnavailable, collect
+from . import email_out, judge, sources
+from .fetch import XUnavailable
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 WATCHLIST = ROOT / "watchlist.yml"
@@ -76,7 +76,7 @@ def record_dead_models(state: dict, newly_dead: set) -> None:
 
 
 def report_breakage(state: dict, reason: str) -> None:
-    """X access is broken. Nag once, not every ten minutes."""
+    """Something is broken. Nag once, not every run."""
     state["consecutive_failures"] = state.get("consecutive_failures", 0) + 1
     count = state["consecutive_failures"]
     print(f"FAILURE {count}: {reason}")
@@ -84,15 +84,15 @@ def report_breakage(state: dict, reason: str) -> None:
     if count == FAILURES_BEFORE_ALARM:
         try:
             email_out.send(
-                "X Tracker has stopped working",
+                "News tracker has stopped working",
                 f"""<div style="max-width:600px;margin:0 auto;padding:24px;
                      font:400 15px/1.6 -apple-system,Segoe UI,sans-serif;color:#222;">
-                  <p><strong>Your X tracker can no longer read X.</strong></p>
+                  <p><strong>Your news tracker has failed three runs in a row.</strong></p>
                   <p>{reason}</p>
-                  <p>This nearly always means the burner account's saved session has
-                  expired or been blocked. The fix is to log into the burner account
-                  again and replace the <code>X_COOKIES</code> secret on GitHub with
-                  a fresh value.</p>
+                  <p>Check the Actions tab on GitHub and open the most recent red run --
+                  the log names whichever source or step is failing. A single source
+                  going down does not cause this; it takes all of them, or the AI
+                  scoring step, to fail repeatedly.</p>
                   <p style="color:#888;font-size:13px;">You won't be emailed about
                   this again until it recovers and breaks a second time.</p>
                 </div>""",
@@ -103,31 +103,27 @@ def report_breakage(state: dict, reason: str) -> None:
 
 async def run(dry_run: bool) -> int:
     cfg = yaml.safe_load(WATCHLIST.read_text())
-    handles = [str(h).strip().lstrip("@") for h in cfg.get("accounts", []) if h]
     rubric = (cfg.get("newsworthy") or "").strip()
-    priority = [str(h).strip().lstrip("@") for h in (cfg.get("priority") or []) if h]
     threshold = float(cfg.get("threshold", 7))
+    feeds = sources.labels(cfg)
 
-    if not handles or not rubric:
-        print("watchlist.yml is missing accounts or the newsworthy description.")
+    if not feeds or not rubric:
+        print("watchlist.yml is missing sources or the newsworthy description.")
         return 1
 
     state = load_state()
     seen: dict = state.setdefault("seen", {})
-    id_cache: dict = state.setdefault("user_ids", {})
-    offset = int(state.get("sweep_offset", 0))
 
-    print(f"Checking {len(handles)} accounts...")
+    print(f"Checking {len(feeds)} sources...")
     try:
-        posts, failed, next_offset = await collect(handles, cfg, id_cache, offset, priority)
+        posts, failed = await asyncio.to_thread(sources.collect, cfg)
     except XUnavailable as exc:
         report_breakage(state, str(exc))
         save_state(state)
         return 2
 
-    state["sweep_offset"] = next_offset
     if failed:
-        print(f"  ! could not resolve: {', '.join('@' + h for h in failed)}")
+        print(f"  ! sources that failed this run: {', '.join(failed)}")
 
     # Work out what is genuinely new, per account. The new high-water marks
     # are held back until the whole run succeeds -- if scoring or email fails
@@ -179,7 +175,7 @@ async def run(dry_run: bool) -> int:
         newsworthy = sorted((r for r in judged if r[1] >= threshold), key=lambda r: -r[1])
         for post, value, headline, _ in judged:
             mark = "SEND" if value >= threshold else "skip"
-            print(f"  [{mark}] {value:.0f}/10 @{post.handle}: {headline}")
+            print(f"  [{mark}] {value:.0f}/10 {post.handle}: {headline}")
 
     if newsworthy or unscreened:
         subject, body = email_out.build_digest(newsworthy, unscreened)
@@ -200,7 +196,7 @@ async def run(dry_run: bool) -> int:
         seen.update(new_marks)
         # Forget accounts that are no longer watched, so state.json stays a
         # readable picture of the current watchlist instead of a junk drawer.
-        watched = {h.lower() for h in handles}
+        watched = {f.lower() for f in feeds}
         for gone in [h for h in seen if h not in watched]:
             del seen[gone]
         state["last_success"] = dt.datetime.now(dt.timezone.utc).isoformat()

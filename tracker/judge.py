@@ -154,6 +154,62 @@ POSTS:
 """
 
 
+# Words that say nothing about which story this is.
+_STOP = {"the","a","an","and","or","of","to","in","on","for","at","by","with",
+         "as","is","are","was","were","after","over","from","its","it","this",
+         "that","says","said","will","has","have","new","up","down","amid",
+         "shares","stock","stocks","share","crore","rs","how","why","what",
+         "who","not","but","com","co","ltd","inc","india","indian"}
+
+# How much word overlap means "the same story". Set from watching real feeds:
+# twenty outlets covering one resignation share most of their nouns, while
+# two genuinely different stories about one company rarely clear this.
+SAME_STORY = 0.55
+
+# When one story reaches us from several places, keep the most authoritative.
+# A filing is the document itself; a newsroom post is the company speaking;
+# a news article is someone reporting on one of those.
+def _authority(post) -> int:
+    label = post.handle.lower()
+    if label.startswith("bse "):
+        return 2
+    return 0 if label.startswith("news:") else 1
+
+
+def _fingerprint(text: str) -> set:
+    words = re.findall(r"[a-z0-9]{3,}", text.lower())
+    return {w for w in words if w not in _STOP}
+
+
+def dedupe(posts: list) -> list:
+    """Collapse the same story arriving from many outlets at once.
+
+    Google News alone will hand back one resignation twenty times over. The
+    AI can spot duplicates inside a single request, but not across requests,
+    so they are folded together here -- before anything is paid for.
+    """
+    ranked = sorted(posts, key=lambda p: (-_authority(p), p.created_at))
+    kept, prints = [], []
+    for post in ranked:
+        mark = _fingerprint(post.text[:200])
+        if not mark:
+            kept.append(post)
+            continue
+        duplicate = False
+        for seen in prints:
+            overlap = len(mark & seen) / min(len(mark), len(seen))
+            if overlap >= SAME_STORY:
+                duplicate = True
+                break
+        if not duplicate:
+            kept.append(post)
+            prints.append(mark)
+    dropped = len(posts) - len(kept)
+    if dropped:
+        print(f"  folded {dropped} duplicate report(s) of stories already in this batch")
+    return kept
+
+
 def prefilter(posts, cfg) -> list:
     """Free, instant rules that remove most of the volume before the AI runs."""
     max_age = float(cfg.get("max_age_hours", 6) or 0)
@@ -189,7 +245,7 @@ def prefilter(posts, cfg) -> list:
 
     if stale:
         print(f"  dropped {stale} post(s) older than {max_age:g}h")
-    return kept
+    return dedupe(kept)
 
 
 def _extract_json(raw: str):

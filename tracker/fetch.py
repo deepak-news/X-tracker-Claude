@@ -20,9 +20,10 @@ STRATEGY (this matters):
 
 import asyncio
 import os
-from dataclasses import dataclass
 
 from twscrape import API, gather
+
+from .sources import Post, XUnavailable  # noqa: F401  (kept for a future X path)
 
 COOKIE_ENV = "X_COOKIES"
 LIST_ENV = "X_LIST_ID"
@@ -33,23 +34,6 @@ LIST_ENV = "X_LIST_ID"
 # timeout had to kill it. This bounds any single X call to a sane wait, so
 # a lock shows up as a fast, ordinary failure instead of a multi-minute hang.
 PER_CALL_TIMEOUT = 30
-
-
-@dataclass
-class Post:
-    id: str
-    handle: str
-    text: str
-    url: str
-    created_at: str
-    likes: int
-    reposts: int
-    is_reply: bool
-    is_repost: bool
-
-
-class XUnavailable(RuntimeError):
-    """X itself is the problem -- not the watchlist, not the config."""
 
 
 async def _connect() -> API:

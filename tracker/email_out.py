@@ -68,7 +68,7 @@ def build_digest(items, unscreened=None) -> tuple[str, str]:
         blocks.append(f"""
         <div style="margin:0 0 28px;padding:18px 20px;border:1px solid #e3e3e3;border-radius:10px;">
           <div style="font:600 12px/1.4 -apple-system,Segoe UI,sans-serif;color:#666;">
-            @{html.escape(post.handle)} &middot; scored {score_value:.0f}/10
+            {html.escape(post.handle)} &middot; scored {score_value:.0f}/10
           </div>
           <div style="font:700 17px/1.35 -apple-system,Segoe UI,sans-serif;color:#111;margin:6px 0 10px;">
             {html.escape(headline)}
@@ -81,13 +81,13 @@ def build_digest(items, unscreened=None) -> tuple[str, str]:
           </div>
           <a href="{html.escape(post.url)}"
              style="display:inline-block;margin-top:12px;font:600 13px -apple-system,Segoe UI,sans-serif;
-                    color:#1d6ef5;text-decoration:none;">Open on X &rarr;</a>
+                    color:#1d6ef5;text-decoration:none;">Read it in full &rarr;</a>
         </div>""")
 
     if unscreened:
         rows = "".join(
             f'<li style="margin-bottom:6px;"><a href="{html.escape(p.url)}" '
-            f'style="color:#1d6ef5;text-decoration:none;">@{html.escape(p.handle)}</a>'
+            f'style="color:#1d6ef5;text-decoration:none;">{html.escape(p.handle)}</a>'
             f' &mdash; {html.escape(p.text[:110])}...</li>'
             for p in unscreened
         )
