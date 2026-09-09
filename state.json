@@ -633,11 +633,28 @@
         "nilekani",
         "sir"
       ]
+    },
+    {
+      "at": "2026-09-09T16:46:25.225003+00:00",
+      "handle": "News: India tech policy",
+      "headline": "UIDAI Launches Native SDK to Bypass FaceRD App Requirement",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVF0RlAxb1Bqcm1TQ21BUFlTUHdjMzNmeXZnSDl0RHlJWEw0dVg4NC01Y3lUamtKclVCdWczODlKSHlla0NyTGI2bDlSRU9aT3lJODBtdGFEOWN3QWZqRXFRY1Z4MmpqampuLXFMQXdQLWl5RmpkcURvQ0pDb0ZfZnRoMnZRaXFLZWN6U1RoRVVmT0MtMElOYkxvMVd3a3BRaHAwM2RYTXhuT3cxaFdWTUVYU2w3dUJ6N196S1ktVk8tT2c0bERGN0ZWRERPWGpkRXc?oc=5",
+      "words": [
+        "app",
+        "bypass",
+        "facerd",
+        "launches",
+        "native",
+        "requirement",
+        "sdk",
+        "uidai"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-09T16:31:48.540081+00:00",
+  "last_success": "2026-09-09T16:46:25.225188+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788875980451,
@@ -668,7 +685,7 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1788967189830,
-    "news: consumer internet india": 1788971037598,
+    "news: consumer internet india": 1788971998340,
     "news: global ai": 1788968025412,
     "news: global chips": 1788963101498,
     "news: global it services": 1788970980775,
@@ -676,11 +693,11 @@
     "news: india edtech gaming": 1788941942295,
     "news: india fintech": 1788969220706,
     "news: india semiconductors": 1788963101498,
-    "news: india tech policy": 1788969730546,
-    "news: india telecom": 1788964860807,
+    "news: india tech policy": 1788970898773,
+    "news: india telecom": 1788971323251,
     "news: indian it majors": 1788970990862,
     "news: indian it midcaps": 1788968640088,
-    "news: pib releases": 1788968649823,
+    "news: pib releases": 1788970860579,
     "news: tech leaders": 1788970990862,
     "nvidia": 1788969642534,
     "openai": 1788886800486,
