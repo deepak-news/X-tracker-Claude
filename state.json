@@ -1738,11 +1738,30 @@
         "refund",
         "swiggy"
       ]
+    },
+    {
+      "at": "2026-09-10T11:46:29.607868+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Wipro CTO confirms AI automation equals 20,000 workers with staff redeployed",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd242ZXJ5SGVDbWZjMzc5eTNwYXR2bHQ2SnJ6RHU4VVF2Vmh2bno5TWtIbkk2Wnc4bURrdHE3UklnYi0xaFVFandjNHJmbDN3STdOVEF1ODF5MGxUX0RiaHhwMDhUOXlzb0E2dFEzZVk3Z01lWUFXeDdTeVdPR3hUdVY4NEs3WVpHNk5hWk9xcWpCRnRGLXNoUzYtRjRLa29kRjNiOFJ6cUhrTThzcnR6VDBoVEZGeEt5dTIwSU5vUHhWMVBrSXRnbWpHZ3VJSUVCR1BCUFJ6eDFYdHRsSG8xNWREak5JYUxHLXdj0gHwAUFVX3lxTFAzeF9kWEZ0N0FoZGRPbFF4MHJ3NVRCT3ZiWTNIOEIxZzlZUlg2TjlpWUl1MERMQ3YwcUxCOWs3VXY4TmxhRjBab2xWd2VqTmVWM1Fja3R2aUZ0VTV3b0lqYXl3ZWYxZmZiNTllVktXR3Rpa3NHWXN5eUdIcEd5RHk5LWR1YlZfTVZfcHhBWGJDa3FUeFNFNXZGU3htdWhkLVc5TFVGUGxQZW9BMGhucmNsYnkxZVduLWd5MXNoVHRwV2FyX19vUkhJeHV0ZFF6c29WWFdoNU92dzZ3MXJjaXpXaGVLMV9raDlGS1oyMlQtRw?oc=5",
+      "words": [
+        "000",
+        "being",
+        "can",
+        "cto",
+        "employees",
+        "internally",
+        "redeployed",
+        "staff",
+        "wipro",
+        "work"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-10T11:31:43.775957+00:00",
+  "last_success": "2026-09-10T11:46:29.608118+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -1781,14 +1800,14 @@
     "news: consumer internet india": 1789039445104,
     "news: global ai": 1789032384819,
     "news: global chips": 1789037159326,
-    "news: global it services": 1789038420623,
+    "news: global it services": 1789039260845,
     "news: india ai deeptech": 1789039277335,
     "news: india edtech gaming": 1788983006439,
-    "news: india fintech": 1789039255139,
+    "news: india fintech": 1789040187812,
     "news: india semiconductors": 1789038759977,
-    "news: india tech policy": 1789035985997,
+    "news: india tech policy": 1789040380619,
     "news: india telecom": 1789039583566,
-    "news: indian it majors": 1789038659949,
+    "news: indian it majors": 1789040207117,
     "news: indian it midcaps": 1789038188799,
     "news: pib releases": 1789038300458,
     "news: tech leaders": 1789036893872,
