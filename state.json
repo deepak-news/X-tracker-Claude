@@ -2437,11 +2437,27 @@
         "openai",
         "services"
       ]
+    },
+    {
+      "at": "2026-09-10T20:01:43.591812+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Cognizant successfully overturns $8.4 million whistleblower retaliation verdict",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcHdEWjVSSkZLY01aYVp0c3NuWFN3WDZHWTZ1eVdGdHdsV3I3bkU4VGdKdUlBY0E2ekdRd2M2XzhzSjJESGM4RXlqZkhKQ3dicGloZkpwT1h5OVpQelM3ZlRWQVN3YVNBNFdvRlU4RkF0SWlzc18wRW5SZy1XX3QyUXh3cEpKNVlGWHR6ZC1TeUxlSkZQaEVacG03MmNLZXhaS0JkRkhCb3JjWVA2RWdCa0psa3ZWek1l0gFyQVVfeXFMUDZwVFNHbmpMWXB6ZF9welRmVWIxWC1DNEdRdjgxMHU4cWxkbWV4SGJqZU1nUHRyYlBpeG5GODhtcjdyZnpmQTNraHoyRHZYazAxaEZLVDRQMDU1RmJkWE9SYTRGdGNsWV81SUtMZlZxb0xn?oc=5",
+      "words": [
+        "cognizant",
+        "fired",
+        "knocks",
+        "out",
+        "retaliation",
+        "win",
+        "worker"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-10T19:46:22.581211+00:00",
+  "last_success": "2026-09-10T20:01:43.592015+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -2479,9 +2495,9 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789059780296,
     "news: consumer internet india": 1789068969326,
-    "news: global ai": 1789067225992,
+    "news: global ai": 1789069165440,
     "news: global chips": 1789066200532,
-    "news: global it services": 1789066200062,
+    "news: global it services": 1789066200224,
     "news: india ai deeptech": 1789064672418,
     "news: india edtech gaming": 1788983006439,
     "news: india fintech": 1789069216326,
