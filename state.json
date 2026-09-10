@@ -2368,11 +2368,48 @@
         "jensen",
         "nvidia"
       ]
+    },
+    {
+      "at": "2026-09-10T18:31:29.341794+00:00",
+      "handle": "News: India fintech",
+      "headline": "BharatPe launches Flex to integrate credit into UPI payments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUgtbTFNU1hBOFhaQ1BSbDZtMGJGU3BJUVIyRmR4Vl9OM1lWZU8tYTVfd0FoSnhkQW5YSGc5S2ExMWJTc2F0ZnpnNWdmb0tieHV4VVBkVlZpUkZzd05YdnR1MVlPWTZMbEd4ZDlsdWxNX19IcERRb0d4dmZaSnVma09EQ2pIOW95NFI1Ni1jUnRLMnFXV0k5eVNDZG55aTlMZ0VhWFRsWWZQN3Ew?oc=5",
+      "words": [
+        "bharatpe",
+        "bring",
+        "credit",
+        "everyday",
+        "flex",
+        "into",
+        "introduces",
+        "payments",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-10T18:31:29.341794+00:00",
+      "handle": "News: India tech policy",
+      "headline": "UIDAI focuses on upgrading Aadhaar infrastructure, says Saurabh Vijay",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObU5IQ01sUkh4TWQwZlFya0VKakUtMUZxUEV3V1FnOWNwbHRQWmJNTGR1RVRzZDFpdEdESGpHUEV6eV9QUWZIZEV5VkZZRVZIWE4tZHI2eGk1RzFrdWdqdkdFMGRZQ1J6VHZlZ25MVHhQd0JscUl1UXA1Und0Rlpxc1pRUUd6VHI2bHc0bXJnQzNDcW1TMWJ1eUVEc2JoQkl0eUVyNmdWS3ZSbG14ZkhmM0ZvTGx6YkZmaVBmWlNHWDBoYm5j?oc=5",
+      "words": [
+        "aadhaar",
+        "best",
+        "class",
+        "focus",
+        "immediate",
+        "infrastructure",
+        "make",
+        "saurabh",
+        "uidai",
+        "vijay"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-10T18:16:23.179975+00:00",
+  "last_success": "2026-09-10T18:31:29.342138+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -2409,17 +2446,17 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789059780296,
-    "news: consumer internet india": 1789063320652,
+    "news: consumer internet india": 1789064650775,
     "news: global ai": 1789059747625,
     "news: global chips": 1789056271532,
     "news: global it services": 1789056258811,
-    "news: india ai deeptech": 1789063645349,
+    "news: india ai deeptech": 1789064398256,
     "news: india edtech gaming": 1788983006439,
-    "news: india fintech": 1789062386119,
+    "news: india fintech": 1789064247816,
     "news: india semiconductors": 1789060184403,
-    "news: india tech policy": 1789060332913,
-    "news: india telecom": 1789062169111,
-    "news: indian it majors": 1789061145272,
+    "news: india tech policy": 1789064892178,
+    "news: india telecom": 1789064835705,
+    "news: indian it majors": 1789062259324,
     "news: indian it midcaps": 1789057677093,
     "news: pib releases": 1789063540437,
     "news: tech leaders": 1789062945191,
