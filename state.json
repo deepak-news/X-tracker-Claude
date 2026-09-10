@@ -1086,11 +1086,46 @@
         "website",
         "wing"
       ]
+    },
+    {
+      "at": "2026-09-10T04:02:11.162442+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Sarvam CEO outlines India's low-budget strategy for global AI race",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdzNZYUJEckFEUVdfRThtTnFHbkVXWXY0V3R5SFZ3amp5UzhzQnFSOHhWbzRkd1hEMTBRRVl1U1Z0TzBGZ3pBV2dId3Nwd2Voc0FoZWR6eVVMTktPU1EwcmlRaGRTMi03bGxJWHpGbkZ5aV9XTFNHa3pSSWg5UVpHUHFfX0E0aVFjUEhuUTNoa3N6REZkUkdkeVZMcGF6Y05MSnptM0Y2UjhaNW55WkxJOTNNSGF5MThIdi01UDZTeThsUlZPd0F1cEhyUjdkV3V0UkZtQ0tpcWlQdkJXN1paTFVSd1JsODJKbmQ5anNjTmxlRFpsdTNxS9IB_gFBVV95cUxPX1RaOHNqYU9ybzVvZll0a054RURKLTl6SDNuMzZNbmxMd3dmMXF2dmxIUXZjVVR3cS0zc002MzhpaGZEQjhIS2hNbGxRaWg3N2cxbHNoeHh0RU9iMkhQT2YxLXpsZXVtbWFsVzFhRk9TVzhGTzd6S3NDUVRuTENOVW5BeWtPVjgxT1Q2WlZCQU5kVFlQdUkxc2dHU3oyMjNlRFpua1NFY19ySFAwN3pJaENIZXRIZVhRSmNtYWJzODNaUS1Na2RJX1lDYWpwVXN1UWFqOS1mZWhmZi1aUG9WWEQ5N3hsM25MYjNGSHU3SERhbXJMMy1keERVRldJdw?oc=5",
+      "words": [
+        "believes",
+        "budget",
+        "ceo",
+        "global",
+        "hijack",
+        "race",
+        "sarvam",
+        "set"
+      ]
+    },
+    {
+      "at": "2026-09-10T04:02:11.162442+00:00",
+      "handle": "News: India fintech",
+      "headline": "PhonePe automates 94 percent of support and 80 percent of fraud checks using AI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNb2pYTjlzYm0zX2NmSVZubXNXd0Z4bkxQNmxOTmgxU3NnOVpYZXR5cWNFLWlCaWR5dlJMT3VoU0Q2T3IxTmw0Uzl3MmlsUS1Hclh5ZGYzU3o1dFYxQTBXbE93S1p0UXAxbFo2UG1sdVREZTJMSEo4aDlJek5qaU1kY1JfNUFlQjdLNkRBOWFBazZfV01kYXFDbXJ2SXFETFhsRldScFR6NmFVMjBXR09Cc3ZjczIyR1B2N1pYbTBqeVBackwyaHRFa0NHN2hwdXZpSWZJd0c5MGNYaFdxcFplbHNvNERWdF9QOFhZNnlFV2XSAfYBQVVfeXFMTUJmaTA5RzJOT1lEbTlPNEhrOElMdlFvMUFGbUpnUlRJWmhwMnNfenlscmpyd3NQMGJKTHEybjFXUFhBcTAzZjQ1ZEtuaFhJcXYxZGNTQ1JsT01Ya1k2Uk1vM3oxYkNEWXpzZEtrZU9hY29hYTJwaTkwMFRFc0tUQ1UzUUZHWEowbTBHNzROZ1ZmdXVIYllDWURTS3p0MXNfLXNnRWJUZE45c0ZMVFduNmY3NGJ3WFo1MjRlc3JWZjJWQmFEdHlUc18tMV9LaDZtU09yRDRBRVY4dkZRb3ZRU1U2WnlmSGl3aU5DVmhPY3cyUkFKdXhR?oc=5",
+      "words": [
+        "automates",
+        "chari",
+        "cofounder",
+        "customer",
+        "fraud",
+        "investigations",
+        "phonepe",
+        "rahul",
+        "support"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-10T03:46:30.703080+00:00",
+  "last_success": "2026-09-10T04:02:11.163150+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -1125,14 +1160,14 @@
     "news: global ai": 1789001607365,
     "news: global chips": 1789010927473,
     "news: global it services": 1789001220993,
-    "news: india ai deeptech": 1788996993878,
+    "news: india ai deeptech": 1789008712472,
     "news: india edtech gaming": 1788941942295,
-    "news: india fintech": 1789009560960,
+    "news: india fintech": 1789012222195,
     "news: india semiconductors": 1788999446087,
     "news: india tech policy": 1789011641956,
-    "news: india telecom": 1789010737635,
+    "news: india telecom": 1789012203590,
     "news: indian it majors": 1789010765885,
-    "news: indian it midcaps": 1789007079656,
+    "news: indian it midcaps": 1789007081539,
     "news: pib releases": 1788994683472,
     "news: tech leaders": 1789011300813,
     "nvidia": 1788998400979,
