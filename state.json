@@ -2038,11 +2038,64 @@
         "unveils",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-10T14:31:52.791122+00:00",
+      "handle": "News: India fintech",
+      "headline": "India pioneers tokenised corporate bonds with Sebi Demat 2.0 pilot",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQlNMdzhEWGV0WVpXbzluVklEb1VVamlQeUloVlFUaEFEN04wOUcyUjMySEVxODF2NlJsLVpxSVY3aFM2VW8wZk50M0RpRlBsazFoT1dCYkhhd195ZTZuOGpOY1RxUlAxVWtPeUE2N3BYOU1hZHJwZ1BGN01oMEp2VUVVSXlSd2dvNk8zNmdqUVoxMzFHOWdrMThkcjlOX1ViWGE0ZTNIaElwT3d0VXJPVNIBswFBVV95cUxNV2h4VjBjOXFxbHZMSzFIU0k5N1lqWXhjZWVrRG5MQk1EVHNvcTdPM1VnaGVLc0JFM0pmUzY4WTJ0b05IeUhybnV0SXFuWXd1azRaenBqUE5IR0UySHg0RUo1ek1CNWpCbDlZeWtQVFU5Ukl0VDZBNEd2UzV4X0dOeHpXTS0weHFpeDdVOUVMcHpMTmpfejBMeVR1aXVkRUxrbmhMeEc2WUROMjdad3p4dGtVRQ?oc=5",
+      "words": [
+        "bonds",
+        "corporate",
+        "demat",
+        "pilot",
+        "pioneers",
+        "tokenised"
+      ]
+    },
+    {
+      "at": "2026-09-10T14:31:52.791122+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Calcutta HC to hear Flipkart GST appeal on November 16",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcXh2NlduWklTaUpobjM1WkJwUGZBMEVSTFFyTDduZkRBYXpDY2c0bEp1dUtoaWIyNlhtTmFKLWY1OTA5OGpNd2VTSzg3RXlBWHM4azZyX2daTGZrVHpMckk5MDNzYXRiWld6ZEZhaWRiZGRRVnM0ekF5STNBTk9uMGVpV1R0X3p5UklyUl9mMWttVlNoR3pneUdSbWU4N2owX0F6eGFXbUlXUlQ1Y2pGa1F6VzFLZEtLNFFn0gHAAUFVX3lxTE4wVU9LcVVNSGc0THZNTjNYYXRocWVDRm1ZQXFfMTRYUV9TUFFLVkROVHIwZGNMLWdYWU1GWkVwNnpnSDVmbkZxMzRLN29kbVdvS2RJZVdNUXA0VmZLMHZFTUxzcUxXdWhrLXpNaUJpX1B5ZTJyeW01aTB5OGRvd2VUR2NadXJ5RnBzNlVZSnFvMTJna1dEbXlIc0ZSVEJmY3FEZ2dHcFdVOUtRZmNnZFo4YWpQOUFxaXE0azJuSVE3Zw?oc=5",
+      "words": [
+        "appeal",
+        "cal",
+        "flipkart",
+        "gst",
+        "hear",
+        "nov"
+      ]
+    },
+    {
+      "at": "2026-09-10T14:31:52.791122+00:00",
+      "handle": "News: India fintech",
+      "headline": "PhonePe CEO Sameer Nigam comments on MDR monetisation model",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVGFUOUVXbUZYRUM5TlpjX0xJT09VcDJDUy1MZ3RCcmtLTUxxTEtsbkRnZUY1U2IzRlFoZUZzQXlCOXVyc21CUnBMVkY0aFRwY00zRlNvaWo0MlBHek5ZSzRmR1d6RlA0N1had2FiSVpOa3R2SEF5MG00Z19Cd2dibE1FZkZJc1haUlNIWHJzN1g3N05q?oc=5",
+      "words": [
+        "aggregators",
+        "banks",
+        "bhan",
+        "ceo",
+        "companies",
+        "conversation",
+        "decade",
+        "founder",
+        "gff2026",
+        "give",
+        "hundreds",
+        "mdr",
+        "model",
+        "monetisation"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-10T14:16:35.314025+00:00",
+  "last_success": "2026-09-10T14:31:52.792536+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -2078,15 +2131,15 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789044530698,
-    "news: consumer internet india": 1789047742141,
-    "news: global ai": 1789049520384,
+    "news: consumer internet india": 1789049580593,
+    "news: global ai": 1789049799443,
     "news: global chips": 1789046536551,
     "news: global it services": 1789049604266,
     "news: india ai deeptech": 1789045237283,
     "news: india edtech gaming": 1788983006439,
-    "news: india fintech": 1789049341632,
-    "news: india semiconductors": 1789049143921,
-    "news: india tech policy": 1789047321080,
+    "news: india fintech": 1789049938104,
+    "news: india semiconductors": 1789049552190,
+    "news: india tech policy": 1789050519317,
     "news: india telecom": 1789048208396,
     "news: indian it majors": 1789049548043,
     "news: indian it midcaps": 1789045920741,
