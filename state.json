@@ -1959,11 +1959,31 @@
         "use",
         "world"
       ]
+    },
+    {
+      "at": "2026-09-10T13:16:40.407744+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "India launches tap-and-pay option for real-time payments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2FoSFF1TWM3M3pIUEwtNE4wYXVxWDUwNDdENGNkOS1ac0E5YVZvM2hFNzR2TG5OcVU1SnJSNFAtb1YzbVhzU2JRaUpCbk1HMGRPZ2lCR2xnamlXQVh1YzByenRwcEgtN3dIOVRpREx5Y1pBeXN2cUlFNEFEUVJCMTk1OFVLaXFXbWJVZ2hCNTM2bHpJZUNNUFJpY1NHSUtJemNlSzRKWGtQNHd1MXp5eHlGNkFWR3EtZnN0SjNR?oc=5",
+      "words": [
+        "ahead",
+        "apple",
+        "full",
+        "launches",
+        "option",
+        "pay",
+        "payments",
+        "real",
+        "rollout",
+        "tap",
+        "time"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-10T13:01:51.026603+00:00",
+  "last_success": "2026-09-10T13:16:40.407970+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -1998,7 +2018,7 @@
     "lenovo": 1788971151379,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789038615708,
+    "news: big tech platforms": 1789042031145,
     "news: consumer internet india": 1789044702953,
     "news: global ai": 1789044224821,
     "news: global chips": 1789042424296,
@@ -2008,17 +2028,17 @@
     "news: india fintech": 1789044789078,
     "news: india semiconductors": 1789044259555,
     "news: india tech policy": 1789043775411,
-    "news: india telecom": 1789040876533,
+    "news: india telecom": 1789045479426,
     "news: indian it majors": 1789044996397,
     "news: indian it midcaps": 1789038188799,
     "news: pib releases": 1789044120349,
     "news: tech leaders": 1789044975931,
-    "nvidia": 1789030800530,
+    "nvidia": 1789045221269,
     "openai": 1788973200183,
     "pib communications": 2308726,
     "pib meity": 2308618,
     "pib science and technology": 2308750,
     "samsung": 1788915600769,
-    "trai": 1789044201300
+    "trai": 1789045260442
   }
 }
