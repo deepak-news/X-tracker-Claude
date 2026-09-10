@@ -1268,11 +1268,48 @@
         "sir",
         "voter"
       ]
+    },
+    {
+      "at": "2026-09-10T06:32:24.163476+00:00",
+      "handle": "News: India fintech",
+      "headline": "Viyona Fintech integrates with NPCI eNACHLite",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUpmUXpiRFVQVFRXd1FMMUtWZDJJNjVLTDVweUVUMnZoRTg3dlZOZDR4ZWFYaC14NWRsa2pBdnRwdEFhVG9NODY1TndDM0ItLWJVWTVQTGZVVlRyNkcxTnBSMFh2UFNGMFdESWRiYTFGU0FvNWMxcXdNQnQ0R0s5bWJLYkQ0bmVXX3lrcWplemtNQU1QbFdpQ0huRzhDdHo0YmxNbkxJOERicllMWFRqX3B0alRtbmdWUHJyR3Y5WWZQeHBCMWVGbA?oc=5",
+      "words": [
+        "app",
+        "banks",
+        "browser",
+        "enachlite",
+        "fintech",
+        "mandate",
+        "npci",
+        "onboard",
+        "ready",
+        "redirect",
+        "replaces",
+        "viyona"
+      ]
+    },
+    {
+      "at": "2026-09-10T06:32:24.163476+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "HCLTech and Transport for NSW sign AI traffic analytics MoU",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1lkYWxTRXNFNkZJMXJOWG5rSXBHdlVSVVVsMkNpb2lxTnUyaURkdzh0YmJMek1hWmNXMHpBYUVtNkhFeW95N2ZXd1RMY3lGLXhIVmMzUXY4OGtRNURJU0FNZlhHcTBFQjRra0ZHNHI5WFlHUnFybmRseTZFdDc0eWFQaG11MjNaQk5xMjVGSThhT0lLd2pPTXM0Z0FHbGNNT2swLW5JclgzUFRKUWRZQUxsdDI4REpLZUpCaHJwRXd2NV9qcElsVVFuQkt4eWs?oc=5",
+      "words": [
+        "analytics",
+        "hcltech",
+        "mou",
+        "nsw",
+        "sign",
+        "traffic",
+        "transport"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-10T06:16:38.790740+00:00",
+  "last_success": "2026-09-10T06:32:24.163922+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -1305,17 +1342,17 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789019799349,
-    "news: consumer internet india": 1789020787544,
+    "news: consumer internet india": 1789021228531,
     "news: global ai": 1789012800466,
     "news: global chips": 1789011075644,
     "news: global it services": 1789018876837,
     "news: india ai deeptech": 1789008712472,
     "news: india edtech gaming": 1788941942295,
-    "news: india fintech": 1789020752584,
-    "news: india semiconductors": 1789017029149,
+    "news: india fintech": 1789021799827,
+    "news: india semiconductors": 1789021195346,
     "news: india tech policy": 1789011641956,
     "news: india telecom": 1789019889482,
-    "news: indian it majors": 1789020612973,
+    "news: indian it majors": 1789021576488,
     "news: indian it midcaps": 1789019977315,
     "news: pib releases": 1789012217060,
     "news: tech leaders": 1789018980486,
