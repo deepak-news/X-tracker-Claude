@@ -971,11 +971,69 @@
         "reliance",
         "service"
       ]
+    },
+    {
+      "at": "2026-09-10T01:46:38.304355+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "PM Modi inaugurates Micron's Sanand semiconductor plant",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWVjSlFkVko4c2Ytd0V1cXZtN0kzbWxXNktTYTZEV2RTTUpNWmtiMXVNT3lwUVcyWGZaaUk5M001SjdMOU1aV185VWl6TVQtOWdsaWdXNngxcmg1TkppV2JIQ3lDOHJBWHJYZ3J4MWZWTTR2OWo1aHZ3ZEd2dVR4c2pYSkgwbVZJNUd3ejB4bkpHYzktYVNBT0Z0NldfZmxFUkQ1dmpUOTBUb083V2h3Q0NKeFhnT2RlZUpLREdzQQ?oc=5",
+      "words": [
+        "gujarat",
+        "inaugurates",
+        "micron",
+        "modi",
+        "plant",
+        "sanand",
+        "semiconductor",
+        "technology"
+      ]
+    },
+    {
+      "at": "2026-09-10T01:46:38.304355+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Indian IT CEO compensation report reveals massive pay disparity",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRnRhcUtVNVY0OWx4N3Z3Zi1IdkRCUlNMem9pNHNrVWZpbEhUWkRuS25ET2EwUWhBNzRlb1lNa2RjVGlUS285NWVFYzlwSXVFYkUxcGR6V2F3OEJpN1p3Nm1rVVZhNENrbmUzM3l0WWwwTTRaRUFMSFBIX0JlUzNUbDBqN1huaktTeEtKcVdwTFhHXzB0cnhkblVWQzNhTXVOV2hHcnQxZVhSRXdVMzJPSThLSGhmZ1NhTHJybW1sclcwa0hzQm4xSEFwajEzamvSAdQBQVVfeXFMTlU0TDhaMUdXcjZocm1xYUpieTBUTlRBcVkxSjExTzRQN3Y1TWU0WENkQ1FmU0tweHd0dkloYTRkUEg3U2ZVLVA5dmJKOXB3SzYzcVIweUlPdWVyREV0eGhELTZJVjZuczlwSDhZZGgyZTNzTFRXYmVhQlo5VVdveU14OE1JWHB3dXk5bUhKOUtJUXNkVW85eUpPWmo1N1RIdTlDRjM3TFdPdmFLZ3ZtTnhQLWttN09NNXhrMWE2OFMyOXpyejN3bGVqQXhJampKcDNVb2s?oc=5",
+      "words": [
+        "biggest",
+        "ceo",
+        "double",
+        "earned",
+        "league",
+        "more",
+        "name",
+        "next",
+        "one",
+        "pay",
+        "than"
+      ]
+    },
+    {
+      "at": "2026-09-10T01:46:38.304355+00:00",
+      "handle": "News: India fintech",
+      "headline": "Government integrates KCC and MUDRA credit with UPI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTll1c1FNR3pjMDM3U3Jhc1dkdmJkenZUT1A2bnhiN2JxOUlJbjNWd1BsMTFlMlJ6UkFZa3k5akEwSmxGOGJQSnE1XzBfTmtuemMxZWI1R2lsZmdqYkxDWjdyaXhFek9MNTNGeldGY2RjcGxOVDNZOGJZTWpVMWc4QVNtQVRJeEdpMWdiUE94bHdYRFdVQTdrbVVZaTFHSDZQXzZXWFhlUUhzRTBZY2hlR0JySEZNbWt2MUVwV0N5LTQ2eFRzUVBCOHotdFc0anpyZUdnZ0I0RE1RQU5raWfSAeMBQVVfeXFMTVZGcWFPdDR6M21NQnRTUTJKTWVvT015cGwyWElfb0JMVzRQNlIzN3BZYU9WWGl1dDF0VnpzNGtvbk5aZzQxZm9sZG8xNXpLMnUwUGFtQ3h0aGtjN25uRGFHWU01aXZQNXhmbU1tTnN2RllFTXZ0dlp5NVdOVGR2X0x5bUY0Qm42ZzhlbFRzOU1pOUw0THhnUDJqWHJ5aDVMcUtBWWJqbjk1SWpXZmlqSnViQjdvalFaUW96YTFZc2JNSk5BTm5PTUxhMFZpVXFDN0drbm5mVUp2NDBjRFhJU2Fvblk?oc=5",
+      "words": [
+        "bringing",
+        "closer",
+        "credit",
+        "gets",
+        "kcc",
+        "loans",
+        "mudra",
+        "point",
+        "purchase",
+        "push",
+        "sanctioned",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-10T01:31:43.022809+00:00",
+  "last_success": "2026-09-10T01:46:38.304833+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -1006,17 +1064,17 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1788997188021,
-    "news: consumer internet india": 1788996363640,
+    "news: consumer internet india": 1789003831763,
     "news: global ai": 1789001607365,
     "news: global chips": 1789000029156,
     "news: global it services": 1789000200635,
     "news: india ai deeptech": 1788994683472,
     "news: india edtech gaming": 1788941942295,
-    "news: india fintech": 1788984123037,
-    "news: india semiconductors": 1788994683472,
-    "news: india tech policy": 1788993446389,
+    "news: india fintech": 1789003800835,
+    "news: india semiconductors": 1788999446087,
+    "news: india tech policy": 1789002943504,
     "news: india telecom": 1789002826154,
-    "news: indian it majors": 1789000200884,
+    "news: indian it majors": 1789003831763,
     "news: indian it midcaps": 1789001403100,
     "news: pib releases": 1788986495549,
     "news: tech leaders": 1788989983360,
