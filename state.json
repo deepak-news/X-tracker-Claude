@@ -1231,11 +1231,48 @@
         "retail",
         "six"
       ]
+    },
+    {
+      "at": "2026-09-10T06:02:32.949100+00:00",
+      "handle": "News: India telecom",
+      "headline": "DoT approves TRAI proposal for satellite broadband services in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdzZlcnVab1NzNnp2blgzQkxFQWRwd3Qya09rU1M0NkVqTEFVN3NpWEVOcUE3dmM1Q1p4SkNhcDh1VkNGbDhQVWxxcnluU2tmRmVtZXcwTjBYZV9XeGR6NVBiOHNJUTg5aHBxcjJzU05ETWEzX1pHbGs3alBlRkhNMFVYSWlQSXhqS1kwZUlxaHlCZW9Eb3pfV2xOQkRyTkNLNGEwX3NB0gGrAUFVX3lxTE8yWlNXY2FGVFRrQ0tWanc4dEszcENpM255Q1UydlY2QWYxU0tKRUtuZkpVRWI1bTFoTy1BWHNrNV95dktmOFJ0cUJaU2s3R1I4WFVBMjJTSVNWLXhtdWZkaDFiUXF1MEdIcUhuaTl4R2VPVlpzY1d4QjB3bjc1T3ZpLU9tTHE0NldIV2Q3bEJZWHktdXdlbTR1VWFmTVZ6alg3X3FsZ0c0VU95SQ?oc=5",
+      "words": [
+        "approves",
+        "broadband",
+        "dot",
+        "proposal",
+        "satellite",
+        "services",
+        "trai"
+      ]
+    },
+    {
+      "at": "2026-09-10T06:02:32.949100+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Aadhaar Architect Nandan Nilekani receives SIR notice regarding voter list",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjZpLVM3Vl9oMXM4SWFBQ1ptcjhaZ2hpNHZuaWhtdVptelVjTWlrdXpiMWxLYmdjb2tNNnZaemJkOThldjI2RVRjQm1uUFY5MC00eUxQY0J0MmkydVBraFUtb1hCNm52LV9JNWV4TVZnLUdSSnZNaEcxUm1jUElmSDdQR3RNN3RRVWtEaHE1OU16QUFLMER4TGxiSUhKMVluTXRTRE1wTGJZQWtESWZsQ1BtMHBQZnZUSURVbnE2eVduaWdUT1ZwTm5EWC1pOUww?oc=5",
+      "words": [
+        "2002",
+        "aadhaar",
+        "architect",
+        "gets",
+        "list",
+        "missing",
+        "name",
+        "nandan",
+        "nilekani",
+        "notice",
+        "sir",
+        "voter"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-10T05:46:25.691761+00:00",
+  "last_success": "2026-09-10T06:02:32.949523+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -1267,7 +1304,7 @@
     "lenovo": 1788971151379,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789017360951,
+    "news: big tech platforms": 1789019799349,
     "news: consumer internet india": 1789019045299,
     "news: global ai": 1789012800466,
     "news: global chips": 1789011075644,
@@ -1277,11 +1314,11 @@
     "news: india fintech": 1789017209444,
     "news: india semiconductors": 1789017029149,
     "news: india tech policy": 1789011641956,
-    "news: india telecom": 1789018220586,
+    "news: india telecom": 1789019889482,
     "news: indian it majors": 1789017308839,
-    "news: indian it midcaps": 1789016172751,
+    "news: indian it midcaps": 1789019730100,
     "news: pib releases": 1789012217060,
-    "news: tech leaders": 1789016794037,
+    "news: tech leaders": 1789018980486,
     "nvidia": 1788998400979,
     "openai": 1788973200183,
     "pib communications": 2308285,
