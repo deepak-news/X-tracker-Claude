@@ -2405,11 +2405,43 @@
         "uidai",
         "vijay"
       ]
+    },
+    {
+      "at": "2026-09-10T18:46:20.009097+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "AI chip startup Positron valuation skyrockets in new funding round",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZVB4T1ViZFFWLXZLWnhEcWJPVGFTNklxR01yeHpuN3pZcFpSV2xOUDR3YjJjb20zSWFha3htcm1CM0tlLWthMFlsUDV1dHhrd1YtbU5wMV83NDNmc05TbHBzM21GWmpmQk9qRTBfbl91UkhfZjFPYnNhQ3p5Y2k3eC1RY0dMbC04RFA1X0NiemFMMGM2NWxzN29rVzJIYjZSVmQydmRJTW1OVjRFYXN3cnN2d0VhTGw4dzVvOUdnSlhPY1JzdllCNlZvYldBWTJ1eC1OZ0VrTWzSAdgBQVVfeXFMTmVQeE9VYmRRVi12S1p4RHFiT1RhUzZJcUdNcnh6bjd6WXBaUldsTlA0d2IyY29tM0lhYWt4bXJtQjNLZS1rYTBZbFA1dXR4a3dWLW1OcDFfNzQzZnNOU2xwczNtRlpqZkJPakUwX25fdVJIX2YxT2JzYUN6eWNpN3gtUWNHTGwtOERQNV9DYnphTDBjNjVsczdva1cySGI2UlZkMnZkSU1tTlY0RWFzd3JzdndFYUxsOHc1bzlHZ0pYT2NSc3ZZQjZWb2JXQVkydXgtTmdFa01s?oc=5",
+      "words": [
+        "chip",
+        "funding",
+        "latest",
+        "positron",
+        "round",
+        "skyrockets",
+        "startup",
+        "valuation"
+      ]
+    },
+    {
+      "at": "2026-09-10T18:46:20.009097+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI launches dedicated ChatGPT version for financial services industry",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaUFyV00ycF9YTlhpTHBvdG9sZkUtempTemtjRUZtWF9oekpOcHIwOHZrUEoybkg4MDBvTHpVOU5hS0xyWlpEa2ExeXhMOXVocGJkNHhaeS1vNW91XzVjNmZ2Y2txNlJFYnAybVR6emtTU1JOZGQ3czZMNW80bkw4b29ZOWdBdHRiQ05OTnF2NU5IVC1uMjY1U1RDd0V5c3g2bjJpMHNLb0VPbWNQUkR2UnYyaWFnUGdNTV9YbzZmbEZvVWI1MXBVeGtXdUFkR2pzMTB1S9IB2gFBVV95cUxQd3VBclJPZXZfdm84TXNhRWZqSXQzdXZWaVpTb1JzUG9pNjI0eWtBNi1kX09ZZE9ybDVPYUh1TWNwUFk2dl8wd0JMMmlvcXlpaXVmeUhMdEVzTzNnMmJrMW9mb1V4UlpVeWFkUGdkbXNPVTNmSVFaQ1E2eXpyNWhNVjhJcDVTTUR3ZHFkMVV3bXFrZlVFbXlkcHFzdEp0RGtjdE9uVmIxQWlOZEw0YS1pMC1jbTAtc2NVcWNoNTV1RlNMNHZPU3FoQ01LSG9jQ1Y0Y1haU1dFLTF6Zw?oc=5",
+      "words": [
+        "chatgpt",
+        "financial",
+        "industry",
+        "launches",
+        "openai",
+        "services"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-10T18:31:29.342138+00:00",
+  "last_success": "2026-09-10T18:46:20.009386+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -2447,17 +2479,17 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789059780296,
     "news: consumer internet india": 1789064650775,
-    "news: global ai": 1789059747625,
-    "news: global chips": 1789056271532,
+    "news: global ai": 1789065690577,
+    "news: global chips": 1789057468156,
     "news: global it services": 1789056258811,
-    "news: india ai deeptech": 1789064398256,
+    "news: india ai deeptech": 1789064672418,
     "news: india edtech gaming": 1788983006439,
     "news: india fintech": 1789064247816,
     "news: india semiconductors": 1789060184403,
     "news: india tech policy": 1789064892178,
-    "news: india telecom": 1789064835705,
-    "news: indian it majors": 1789062259324,
-    "news: indian it midcaps": 1789057677093,
+    "news: india telecom": 1789064835750,
+    "news: indian it majors": 1789065480642,
+    "news: indian it midcaps": 1789061340263,
     "news: pib releases": 1789063540437,
     "news: tech leaders": 1789062945191,
     "nvidia": 1789057835996,
