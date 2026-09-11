@@ -3400,11 +3400,26 @@
         "pilots",
         "uae"
       ]
+    },
+    {
+      "at": "2026-09-11T15:02:13.294155+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "PayU launches AI-powered fraud liability protection tool",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZHI3RVJ2VlNZX0hMVEJRYURHMkhTYXJSZDlnaHdnRlIzMHRUN2xkcnlRVkpFR2MtQkRPX2l1MUpjY2wyMjVsb1NVcmhsTVBJV3ZiTXlNcXd2aldXTXRzZUROb0pPbnY5R2ZkSWg0Q1BzWk42VlZJZlFJMC1RWHlMQU1QdG15eW12cXh2bmlJTmNxV0VJcUlVRVBDMVJQS045VXYtdEZwNHZFR2pQVWdJWXlFVHIwNEE2YTZ1bUlET2Y4TjI0MGU2QmxTMWpodnfSAc8BQVVfeXFMT2RyN0VSdlZTWV9ITFRCUWFERzJIU2FyUmQ5Z2h3Z0ZSMzB0VDdsZHJ5UVZKRUdjLUJET19pdTFKY2NsMjI1bG9TVXJobE1QSVd2Yk15TXF3dmpXV010c2VETm9KT252OUdmZEloNENQc1pONlZWSWZRSTAtUVh5TEFNUHRteXltdnF4dm5pSU5jcVdFSXFJVUVQQzFSUEtOOVV2LXRGcDR2RUdqUFVnSVl5RVRyMDRBNmE2dW1JRE9mOE4yNDBlNkJsUzFqaHZ3?oc=5",
+      "words": [
+        "fraud",
+        "liability",
+        "payu",
+        "powered",
+        "protect",
+        "unveils"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T14:46:26.765977+00:00",
+  "last_success": "2026-09-11T15:02:13.294396+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -3452,12 +3467,12 @@
     "news: global it services": 1789127383846,
     "news: india ai deeptech": 1789132680061,
     "news: india edtech gaming": 1789125448093,
-    "news: india fintech": 1789137346906,
+    "news: india fintech": 1789138400362,
     "news: india semiconductors": 1789136382250,
-    "news: india tech policy": 1789136995584,
-    "news: india telecom": 1789136846303,
-    "news: indian it majors": 1789136731627,
-    "news: indian it midcaps": 1789128060547,
+    "news: india tech policy": 1789138593790,
+    "news: india telecom": 1789138563723,
+    "news: indian it majors": 1789138400362,
+    "news: indian it midcaps": 1789131720385,
     "news: pib releases": 1789134660849,
     "news: tech leaders": 1789125995735,
     "nvidia": 1789057835996,
