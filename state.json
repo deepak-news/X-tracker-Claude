@@ -3741,11 +3741,29 @@
         "securing",
         "usd"
       ]
+    },
+    {
+      "at": "2026-09-11T20:16:18.838874+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Apple iPhone 18 series and foldable duo face price hikes in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXRRNXU5S0dWUm9ySVAwc3V6dmxHRVZhblpiTkdCTXlfOEpBMTlOekhmU0hWR0tsMzdSZGg0M2g2bTdiclhaN0FXZ1h2UlpIdmV1N3VNSlpaR2dXQmZHZ19mUmEyekRnZ0IxYlVwRjBnTzNDOXZ5WmtLX3lGbnFGTG82ekZRYVg5bzlrWm9vOGIyZ2ZOV0kyd3ktNnowWjI1aVdLc3Rlc1lTQW1lTlljRVJ1Ujd4cW16Y1BHWDdocHBQV2cxN0FZM9IBywFBVV95cUxQUTZOU3RmRUVNbTc5amFZeUwzS0t5SlF1MzhWaXVQUmptanlERHVaZ29TU0hvWmd3LWFpdXZvMjZHU2RhSkcxb0Z3bVVsQTRuTk1KbU9RTTNla2UwdEU0SUlOVGhJWjYySWVwa0pKbXM2SjhfdDVGM1ZQd0xONkp2LTlMZUpVTGhObUxfS0xqdXJhMldJdGp5SkxZT1dqVC14UEpuUnZYdHBESndXRVZLem15QVlBNzF0T1N4WTN0S0tCOHlnODJ1OHNaZw?oc=5",
+      "words": [
+        "apple",
+        "duo",
+        "foldable",
+        "hikes",
+        "iphone",
+        "price",
+        "see",
+        "series",
+        "significant"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T20:01:42.941334+00:00",
+  "last_success": "2026-09-11T20:16:18.839250+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -3786,10 +3804,10 @@
     "lenovo": 1789113648299,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789147960116,
+    "news: big tech platforms": 1789150853731,
     "news: consumer internet india": 1789149571731,
     "news: global ai": 1789155164148,
-    "news: global chips": 1789150421542,
+    "news: global chips": 1789155346787,
     "news: global it services": 1789153286160,
     "news: india ai deeptech": 1789153247617,
     "news: india edtech gaming": 1789136137775,
