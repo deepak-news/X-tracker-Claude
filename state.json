@@ -3668,11 +3668,43 @@
         "sovereign",
         "stack"
       ]
+    },
+    {
+      "at": "2026-09-11T18:31:27.925164+00:00",
+      "handle": "News: India edtech gaming",
+      "headline": "USFDA gives VAI classification to Jubilant Pharmova's Spokane plant",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMlM3dklNUW1ZRHpfaFBrRE9KRmF3OEE4WEdtUThpdnBtbGxWbU9UMXExOGY3RXg0Yk1fSXlyQXE1dkJMREZ4VkNOcDcteXl5UUo3MEFWWHgzMTFoUXp2ZXdWZnJ1d1NUN0Ztc0FEaW5KV2JHUTEzeW5kZzVERkJkUmlHNVp0bENmYjRJYk15NGhraUNpQUlKRGd5c1B3U1R4ZzJWMHk5ZXFzLXhINUR6VXp5Y01mWC1qa0JIWUZoa3dfdlhOOFVMSUllUXRUcWZQWExEcHNrWVEwQlJJRG81eUhET1RmZTVPdk1oclJuM2YxYkRjR2V0Vm4yMWc0MS1XWk1QS2FWbmhweEl5TlE?oc=5",
+      "words": [
+        "jubilant",
+        "pharmova",
+        "spokane",
+        "usfda",
+        "vai"
+      ]
+    },
+    {
+      "at": "2026-09-11T18:31:27.925164+00:00",
+      "handle": "News: India fintech",
+      "headline": "Paytm stock hits post-listing record high",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSHh1MldYdC1XVVlNSkNNRkhUMkJnSV90Y05ENEI3RjhpcFVzZVhobDRLVVFtNWNPc1VhQmZHUnVwODA1RGJDMkl0SWpTSEJsdFJEMFRYRHhQeFJNUDVxN09SSzRuT3E4cWNSU3hXcWRnQjhkSExXMFNIUzJNb3BKeUdOUXRtY2hZSnRwd0pWYnVHdFc3SkNqOG9xSm03anA4ZV9IQy01NVN3b2VUT203LVJvNmo1bFpueHhzVW9GVDNQT2w1dl9qYkpSUjZXeVRwTTZHRzh0Y9IB3AFBVV95cUxPNVJGdEh5ZjNjZUlHN0hRNGFBRUQyNTA2anl3UTdweXJwZDg3M2QzNHV2dEt0RldkNkNZQTM1UldIME4td3dBR01rQ3dNQS0yakQ5ZnpnSDcyX29GZkI2ZURqaDhwc1Z6OFlGREpkOVlwNmxfTGVqdEc3YVNzanNMamo3RUZQSmRHTWtHRGtZZGpLS0ZZX25XVlBMSXRGN3lsYTRoLVFBZy1abmNSTmxaUnlvOFM2dF96ZnZ3SjJubnBZTTdvMkpmNWhWSFJnd2NzVUp6dklzYTVtb08z?oc=5",
+      "words": [
+        "below",
+        "ipo",
+        "listing",
+        "paytm",
+        "post",
+        "price",
+        "record",
+        "soars",
+        "yet"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T18:16:20.440532+00:00",
+  "last_success": "2026-09-11T18:31:27.925664+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -3715,19 +3747,19 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789146102651,
     "news: consumer internet india": 1789149571731,
-    "news: global ai": 1789148580314,
-    "news: global chips": 1789144607010,
+    "news: global ai": 1789148741012,
+    "news: global chips": 1789150421542,
     "news: global it services": 1789143253751,
     "news: india ai deeptech": 1789142800700,
-    "news: india edtech gaming": 1789125463968,
-    "news: india fintech": 1789149480512,
+    "news: india edtech gaming": 1789136137775,
+    "news: india fintech": 1789150736547,
     "news: india semiconductors": 1789143014359,
-    "news: india tech policy": 1789148805668,
+    "news: india tech policy": 1789150716245,
     "news: india telecom": 1789148249139,
     "news: indian it majors": 1789149761967,
-    "news: indian it midcaps": 1789143180724,
-    "news: pib releases": 1789142700123,
-    "news: tech leaders": 1789136398968,
+    "news: indian it midcaps": 1789147020199,
+    "news: pib releases": 1789142700368,
+    "news: tech leaders": 1789150912840,
     "nvidia": 1789057835996,
     "openai": 1789120800880,
     "pib communications": 2308982,
