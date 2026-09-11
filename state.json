@@ -3267,11 +3267,30 @@
         "use",
         "without"
       ]
+    },
+    {
+      "at": "2026-09-11T13:31:55.168993+00:00",
+      "handle": "News: India fintech",
+      "headline": "Phi Commerce expands into UPI credit and open-commerce infrastructure",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbndUeW44M2ViM2NqVDRzMDlLc3dCNk8tRzM0RlQ0TldHWHNjYks0S1dpX3dQdWZhRThJaWZtS1k0dEk4M2FIZlZ3cTRyQzU4NlhVa3VBQm1CTy1sWHBZeHc2N0I2QUdNR2RUSGFEWjFUN2Yxa25wU2V6cWNfanFJX0hoMDY0YVByQ1lLbF9nOW45U0NsMVNvS01mQ2tXY1dTM3F6RFp5VTYyOTJkcVVGMGhmdnRoMzZTZTJsUkJCaUd2T3Z3QWV0dmJEeGFEYnd0Tm5B0gHXAUFVX3lxTE5TYjRuNFNKdWlnR2czbENMZjFmQVNhMlF1cFI1b29oUWh0dU16LW92TnhuMUJXN2s5dlJoejcyS2lCOHZSbWxzazhSOUtTS1BIZkd3aEQxbUl4ZmxDV0cxZXB3V1FiWUFUSFRhRFJheVF3dVN0RWpnWHZqNGFKdFpnV01WekU4LU5CSElLdkNVRVJFbTNfY2FBeWxOeUoxbTRPbkFmUjVEMW1iaGhrU2loRzNoeEhWWG4yb01nYU42Z2ZMZTNkTEpBbnExN3lwODM3STl0MHU0?oc=5",
+      "words": [
+        "beyond",
+        "commerce",
+        "credit",
+        "goes",
+        "infrastructure",
+        "issuer",
+        "open",
+        "payments",
+        "phi",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T13:16:18.725191+00:00",
+  "last_success": "2026-09-11T13:31:55.169257+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -3282,7 +3301,7 @@
     "bse fractal analytics": 1789050584114,
     "bse happiest minds": 1788818758115,
     "bse hcltech": 1788877215262,
-    "bse hfcl": 1789151904955,
+    "bse hfcl": 1789152696552,
     "bse info edge": 1789139046737,
     "bse infosys": 1788953811743,
     "bse kpit technologies": 1789143297360,
@@ -3317,13 +3336,13 @@
     "news: global it services": 1789127383846,
     "news: india ai deeptech": 1789132203185,
     "news: india edtech gaming": 1789125448093,
-    "news: india fintech": 1789131789585,
+    "news: india fintech": 1789131892225,
     "news: india semiconductors": 1789131030195,
     "news: india tech policy": 1789130638221,
     "news: india telecom": 1789130462929,
     "news: indian it majors": 1789130592792,
     "news: indian it midcaps": 1789125840769,
-    "news: pib releases": 1789127760323,
+    "news: pib releases": 1789128060886,
     "news: tech leaders": 1789125995735,
     "nvidia": 1789057835996,
     "openai": 1789056000265,
