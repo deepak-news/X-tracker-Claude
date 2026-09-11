@@ -3617,11 +3617,28 @@
         "venture",
         "world"
       ]
+    },
+    {
+      "at": "2026-09-11T17:16:44.965370+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Coforge board rift deepens as NRC chair DK Singh quits",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWHJfTUQtNjhkeEo5U2d0MTBaU1duWjg1eEcxUF9EZG1BRm0tZHNRczJmSTE5VmN6WVByazJoV0RpYWpDOTNnYUl4TzNHblJISmdnNlRGQkdON3NXQ1pJenB3V3hjb2o0S3RjZ3BIckFsTG90TzhJSTlYZEt5OWtTQzdSYTAxX0JXWlVncFBJU0RCeDU4TnhnR0UxWU1DSF9lUkp4ZDAzZXFJTmR4bWNfaEhQUXJCSFQ3OTktLUNqYWZQUlpaQUVRUjREeVVxWlRzXzgyd256aDjSAd4BQVVfeXFMTllrajN5WGtQVUhIbUtuODJuMXk0YmNCV1BRa09BN09QeVB2ejBFWXpiWlc4eWZyOFRqRkJwNmloUldCcFlrSDlTb1F1T1V4Tnc1aVMtaEduT3ZyYzNTYkE5YWlySUlhTTU4Zi1zVlBYNlhNS0w3eEhzdTVGZUc5V2xaSGhWa2NmOFUxZTVOai1DOHJJOHNPRUhpdVJNYm1rXzNDanBzTkhySVk5NlRVTkVDSUxiM1lCS3Zyc2RIUHFKbk90YWpZN2lzbnBsUi1yWFBGbE96akVHUUJWX0p3?oc=5",
+      "words": [
+        "boardroom",
+        "chair",
+        "coforge",
+        "deepens",
+        "nrc",
+        "quits",
+        "rift",
+        "singh"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T17:01:46.816566+00:00",
+  "last_success": "2026-09-11T17:16:44.965657+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -3662,18 +3679,18 @@
     "lenovo": 1789113648299,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789142400532,
+    "news: big tech platforms": 1789146102651,
     "news: consumer internet india": 1789145509482,
-    "news: global ai": 1789135373390,
+    "news: global ai": 1789146540009,
     "news: global chips": 1789144607010,
     "news: global it services": 1789143253751,
     "news: india ai deeptech": 1789142800700,
     "news: india edtech gaming": 1789125448093,
     "news: india fintech": 1789145117240,
-    "news: india semiconductors": 1789136382250,
-    "news: india tech policy": 1789145313192,
+    "news: india semiconductors": 1789143014359,
+    "news: india tech policy": 1789145950079,
     "news: india telecom": 1789144820422,
-    "news: indian it majors": 1789144999581,
+    "news: indian it majors": 1789146360881,
     "news: indian it midcaps": 1789137720058,
     "news: pib releases": 1789142700123,
     "news: tech leaders": 1789136398968,
