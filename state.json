@@ -2630,11 +2630,44 @@
         "rolls",
         "scheme"
       ]
+    },
+    {
+      "at": "2026-09-11T06:31:38.826887+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Sridhar Vembu warns companies against sharing sensitive data with AI firms",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkZDSk1Fc2tDVUU3VmdKUkc3RmNhbTgzQmNpQWNpOVB5VnJJNXd6akh6cV8tdDNvaGx6dl9nYi1oRmxpS2ZxME4yVzJQZThLRzJTTlotellpM3dLZnNILVFnUzVsd2lDd2s3M2FKNWFjd0t1dzd4Ni12WW9KM3J2TjlMblJaeDh1YUlYLXpTMjZBMm53UWFUUzBlX25YeGtSb18zYjhCTE1uR1QybGJ0QXRzbTZhS0s3a0pRUXlRR2lDU3FxWjlB0gHMAUFVX3lxTFAwZ2VILU9JSFdVOUpBUGYxVUh2WkJrMHpidzV3dzFlTVZyUGlaR0I1ZlVnc3ctSXpmeGVLdXVnRFIwRUJhVlQ2S3JxMjdTcXl5ZjVGcUdET1dpbjlsamNRaG5VMjNhaFRXclljSkpvVGNHUnlTRjNic21aUGh3akRiaFpsRTJXMEtONU9wWGF1am50Z0JONXIwdW1iLTBQSG9TcDBGZVYwcjkxNGpFR2hiUWxNRjhRT2RWeV9wbm94eTB1MWJ5aHF0dVBxcA?oc=5",
+      "words": [
+        "against",
+        "companies",
+        "data",
+        "firms",
+        "sensitive",
+        "sharing",
+        "sridhar",
+        "vembu",
+        "warns"
+      ]
+    },
+    {
+      "at": "2026-09-11T06:31:38.826887+00:00",
+      "handle": "News: Global IT services",
+      "headline": "House of Hiranandani leases 0.27 million sq ft to Accenture",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTW1GdnhUNVhpampvaEFBcENzaWZxcTdXRDYta0F5VUVBX2o5UWRYbDZMdWUtMjV0MjRCYVcxMzMtMDJmUTBXUlQxTVVjWTN5Q05QQmFMNlhEQ2Zvamxxc19ZRmlvbHNITzlPczRsZWxrLXJ1cjVTSFpMRzJIbzdBVXBhWm5MbzF4dG1ablJjSHdTbVY1eGNuQVczTHpJQ3d4aHA4ekZCalUxZDdNM0EyeDMzYV81azhKZndXdUFlV2V5Q2ZRX3pjMTJ2YXpEeHQ2UzhORE1fQ2hISkl4VWVJXw?oc=5",
+      "words": [
+        "accenture",
+        "hiranandani",
+        "house",
+        "leases",
+        "million",
+        "mmr"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T06:16:28.458087+00:00",
+  "last_success": "2026-09-11T06:31:38.827205+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -2672,19 +2705,19 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789106917072,
     "news: consumer internet india": 1789106365420,
-    "news: global ai": 1789099694837,
-    "news: global chips": 1789093286818,
-    "news: global it services": 1789080638324,
-    "news: india ai deeptech": 1789104649669,
+    "news: global ai": 1789099967703,
+    "news: global chips": 1789094932818,
+    "news: global it services": 1789107618846,
+    "news: india ai deeptech": 1789107367732,
     "news: india edtech gaming": 1788983006439,
-    "news: india fintech": 1789107255392,
+    "news: india fintech": 1789107529697,
     "news: india semiconductors": 1789107271109,
     "news: india tech policy": 1789104519945,
-    "news: india telecom": 1789106540818,
+    "news: india telecom": 1789107240201,
     "news: indian it majors": 1789105597664,
     "news: indian it midcaps": 1789103763833,
     "news: pib releases": 1789101960438,
-    "news: tech leaders": 1789104176034,
+    "news: tech leaders": 1789104600570,
     "nvidia": 1789057835996,
     "openai": 1789056000265,
     "pib communications": 2308982,
