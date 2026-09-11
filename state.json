@@ -2611,11 +2611,30 @@
         "trust",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-11T05:31:35.407830+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Government rolls out Bhu-Aadhaar land records scheme for plots",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTS1DQzZCbGg4eG50MkRtUkp3OVVuTVFDaXBJOThWdDBzYUQ3VzktZkhhbWtpV05vZDJIaDJpYURkT0ZfeWhvOW1MY2s4NWNZR21NN1ZFTzRvRmFyZTFnV3UyUUNKZ2FMMHhtaDV5Y2UtRGVtWHBYb29GZ1NsOWRJaEx2MDNUM1pKRWtZTmpLaWFTenhwelh3Tl9CYWpEN2VSZ29oWmg2akF4TFNmRzE1MnlsMTNXMzhqYWdjZXVGTVVyMEdMYjd2UFQwY2dlSlg1U3M0eXpJWWdRNkJybENpQk5XS2EtWmxYdnR4TFJ30gHuAUFVX3lxTFBNLUNDNkJsaDh4bnQyRG1SSnc5VW5NUUNpcEk5OFZ0MHNhRDdXOS1mSGFta2lXTm9kMkhoMmlhRGRPRl95aG85bUxjazg1Y1lHbU03VkVPNG9GYXJlMWdXdTJRQ0pnYUwweG1oNXljZS1EZW1YcFhvb0ZnU2w5ZEloTHYwM1QzWkpFa1lOaktpYVN6eHB6WHdOX0JhakQ3ZVJnb2haaDZqQXhMU2ZHMTUyeWwxM1czOGphZ2NldUZNVXIwR0xiN3ZQVDBjZ2VKWDVTczR5eklZZ1E2QnJsQ2lCTldLYS1abFh2dHhMUnc?oc=5",
+      "words": [
+        "aadhaar",
+        "bhu",
+        "every",
+        "government",
+        "land",
+        "out",
+        "plot",
+        "records",
+        "rolls",
+        "scheme"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T05:16:16.217098+00:00",
+  "last_success": "2026-09-11T05:31:35.408093+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -2658,10 +2677,10 @@
     "news: global it services": 1789080638324,
     "news: india ai deeptech": 1789102874910,
     "news: india edtech gaming": 1788983006439,
-    "news: india fintech": 1789098267374,
-    "news: india semiconductors": 1789096391103,
-    "news: india tech policy": 1789102982658,
-    "news: india telecom": 1789101091147,
+    "news: india fintech": 1789104199945,
+    "news: india semiconductors": 1789103412420,
+    "news: india tech policy": 1789104519945,
+    "news: india telecom": 1789103940859,
     "news: indian it majors": 1789102366547,
     "news: indian it midcaps": 1789103025779,
     "news: pib releases": 1789084677783,
