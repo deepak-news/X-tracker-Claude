@@ -3700,11 +3700,34 @@
         "soars",
         "yet"
       ]
+    },
+    {
+      "at": "2026-09-11T19:01:43.123769+00:00",
+      "handle": "News: PIB releases",
+      "headline": "NITI Aayog member Rajiv Gauba launches PACT and ZET marketplaces",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zaFM2eFpuaUMtODVPM3MzNGRkQ3lTRUwwcUhCTzk0b3hsU3NXTkVpaEdZekljMlQ1TFRkVmFtWHhLT1NDMG1JUlF0SE1iRk9pcU5IOEx3MXp0UzZLcGtqLTJOZG80UXcxVV9DQ25tWmFKdVRzeTkwN2l4b0xSZw?oc=5",
+      "words": [
+        "aayog",
+        "electrification",
+        "freight",
+        "gauba",
+        "launches",
+        "marketplace",
+        "member",
+        "niti",
+        "pact",
+        "rajiv",
+        "sector",
+        "shri",
+        "stategic",
+        "urges"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T18:46:09.604244+00:00",
+  "last_success": "2026-09-11T19:01:43.124211+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -3750,7 +3773,7 @@
     "news: global ai": 1789151646261,
     "news: global chips": 1789150421542,
     "news: global it services": 1789143253751,
-    "news: india ai deeptech": 1789142800700,
+    "news: india ai deeptech": 1789153247617,
     "news: india edtech gaming": 1789136137775,
     "news: india fintech": 1789151621860,
     "news: india semiconductors": 1789143014359,
@@ -3758,7 +3781,7 @@
     "news: india telecom": 1789151887259,
     "news: indian it majors": 1789150869256,
     "news: indian it midcaps": 1789147020199,
-    "news: pib releases": 1789142700368,
+    "news: pib releases": 1789144260658,
     "news: tech leaders": 1789150912840,
     "nvidia": 1789057835996,
     "openai": 1789120800880,
