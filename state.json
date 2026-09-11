@@ -3490,11 +3490,29 @@
         "success",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-11T16:01:51.082762+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Sarvam launches core intelligence factory targeting India BFSI sector",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWHM5MURWSWtZZUZZeFZKRXJTd0tTdzBUMmJHUUxGXzR1eGRMcGRXclJrUWJTZVp0UWJXTWt0cU1Qa05Pb3J6WWlNSWNZejhvdVFxQ3ZUX0pyN2hVNWV4cHFpUHRSeHd0TjJZTWxEQ0dsSVR6dnI0Ynd3VHlqcUdESnpia0daVnRib0xVOWpiZWJxbFV0V0lyWkw4QmU0VllPNXFNQ0kzVjdHcV9OZWIwOHl1dVlQb3AzYWVIQmlBalhRbjNBZTFQU2JEbng4MHh6WGItY2ZIOF9jY19zR2Rua0FiUdIB6gFBVV95cUxOM3ZLU3FnVld1RzR1V2ROTE9sU0RKS1dNekM4M2VNTl9jRVI3ODN3Z1FZSmMyOHFxcGtmUVdyUGhGYXQtWFBQT3NJRS1QcGZVR3M0SGE4QVpiSHRucWVDbk9nM21GXzA1bmdHQ2Y1c2lQLXdnVnZXSFJkUDNMdG55VS1kSDQyQVZMZ3VQVWNSckdJa1N1SndNZk43cURWM0otVW5JdTN6cGotdTBhNnpuRVk1TXVDMWdBLXRhcmZyejROQlRtMVVtMUNDU2lqcXNXM3lVSlI4TE0xSU5HNWs0Rnp6UXU2VUpRT3c?oc=5",
+      "words": [
+        "bfsi",
+        "biggest",
+        "core",
+        "factory",
+        "intelligence",
+        "introduces",
+        "sarvam",
+        "shift",
+        "third"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T15:46:12.933358+00:00",
+  "last_success": "2026-09-11T16:01:51.083083+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -3539,15 +3557,15 @@
     "news: consumer internet india": 1789139195102,
     "news: global ai": 1789135373390,
     "news: global chips": 1789131677075,
-    "news: global it services": 1789133160050,
-    "news: india ai deeptech": 1789141119839,
+    "news: global it services": 1789141675394,
+    "news: india ai deeptech": 1789141985107,
     "news: india edtech gaming": 1789125448093,
-    "news: india fintech": 1789140887292,
+    "news: india fintech": 1789142028124,
     "news: india semiconductors": 1789136382250,
     "news: india tech policy": 1789138620126,
-    "news: india telecom": 1789138563723,
-    "news: indian it majors": 1789140056096,
-    "news: indian it midcaps": 1789131720385,
+    "news: india telecom": 1789140065034,
+    "news: indian it majors": 1789141600038,
+    "news: indian it midcaps": 1789137720058,
     "news: pib releases": 1789134660849,
     "news: tech leaders": 1789125995735,
     "nvidia": 1789057835996,
