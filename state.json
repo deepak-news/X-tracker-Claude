@@ -3173,11 +3173,31 @@
         "upi",
         "week"
       ]
+    },
+    {
+      "at": "2026-09-11T12:16:18.934514+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI executive Fidji Simo to join Nscale board ahead of IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1B5eVUwRF9mc2JQRGFKa0pfdHZjZ2VCajE5cm1aMEVTUHhkOW1Rc1g0c3d2WkZFajhYeUdqVUZBNGRfZG9KXzZmeDVhRGQwT1B0bGlPR19yeS1fc2VDM0twYUNUX1lnbGVFQWdadnBDNC05RllmZEExUm9JbWNpT1l5b0wwLTdjeS1DMEJob05EdnR1WEw2VGYwNHVzYVhlTi0zcmktM0dTNG8?oc=5",
+      "words": [
+        "ahead",
+        "board",
+        "cloud",
+        "exclusive",
+        "fidji",
+        "ipo",
+        "join",
+        "nscale",
+        "openai",
+        "provider",
+        "simo"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T12:01:49.518849+00:00",
+  "last_success": "2026-09-11T12:16:18.934756+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -3217,7 +3237,7 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789126805952,
     "news: consumer internet india": 1789126771470,
-    "news: global ai": 1789121712364,
+    "news: global ai": 1789128038311,
     "news: global chips": 1789124183605,
     "news: global it services": 1789122914134,
     "news: india ai deeptech": 1789122572315,
@@ -3226,9 +3246,9 @@
     "news: india semiconductors": 1789126913253,
     "news: india tech policy": 1789126829689,
     "news: india telecom": 1789125189049,
-    "news: indian it majors": 1789127694746,
-    "news: indian it midcaps": 1789119720908,
-    "news: pib releases": 1789124220354,
+    "news: indian it majors": 1789128049790,
+    "news: indian it midcaps": 1789125840769,
+    "news: pib releases": 1789127760111,
     "news: tech leaders": 1789125949735,
     "nvidia": 1789057835996,
     "openai": 1789056000265,
