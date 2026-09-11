@@ -2578,11 +2578,27 @@
         "rivals",
         "super"
       ]
+    },
+    {
+      "at": "2026-09-11T04:16:14.584955+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Sam Altman considers slowing AI development at OpenAI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFBUY21zNG00LXBBYU9ObXlJZFpoQVRyNDZ4VHBwUWlmc2VlWUF5U2Vwai1zejJpS2Q5NWo5dDl2X1FmVlJvVTkyaGo2VDBxVlFiNjBHRGRCbTNScHZra2lrTlV3a1lhakNGYzBuOGh5ODk0bEpTUTBTWnJKc2xzN05nTVdiWXJWajg2TGRKdXBfWFVjaHRJWXJ0TDA?oc=5",
+      "words": [
+        "altman",
+        "bloomberg",
+        "considers",
+        "development",
+        "openai",
+        "sam",
+        "slowing"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T04:01:37.648287+00:00",
+  "last_success": "2026-09-11T04:16:14.585209+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -2623,16 +2639,16 @@
     "news: global ai": 1789095580091,
     "news: global chips": 1789093286818,
     "news: global it services": 1789080638324,
-    "news: india ai deeptech": 1789097700880,
+    "news: india ai deeptech": 1789099620934,
     "news: india edtech gaming": 1788983006439,
-    "news: india fintech": 1789097744073,
+    "news: india fintech": 1789098267374,
     "news: india semiconductors": 1789091400063,
     "news: india tech policy": 1789098780278,
     "news: india telecom": 1789097456825,
-    "news: indian it majors": 1789098964542,
-    "news: indian it midcaps": 1789093800300,
+    "news: indian it majors": 1789098975396,
+    "news: indian it midcaps": 1789099200189,
     "news: pib releases": 1789084677783,
-    "news: tech leaders": 1789091306116,
+    "news: tech leaders": 1789095435286,
     "nvidia": 1789057835996,
     "openai": 1789056000265,
     "pib communications": 2308982,
