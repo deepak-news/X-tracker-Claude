@@ -2792,11 +2792,33 @@
         "uas",
         "yuma"
       ]
+    },
+    {
+      "at": "2026-09-11T08:01:41.680797+00:00",
+      "handle": "News: India fintech",
+      "headline": "India pitches linking BRICS payment systems for trade",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNVk1cnVaM3BEMlVEbXJhNFctTHpVdktyM1BjdVB3QVNDWllvbEhSZEpUMlc0XzdEXzhveEE2Ni1uM2RON0hNZ1d6bF9BU0ZoNXRSTThZR1Y0TlI2bGZJXzZpanQtVzc4b0Q1a1A4RFd1ajd5cFRWV3BJaWhIRVpNZlJlZ2lSTjlTWkcxYXJ1NTBrNmJiZ3UtcGdoejhKbnZiZ1NtQWlWOGQzRm5SM1gwS3ZKcjZTajRkd3hQa2xYdlRxb1Z2dmp0SUR3Umd3N1JHS25OZTE1UTB2SE41cVV0M3E1cEM1RG5ZWU9zbm9ldXNlUzTSAYACQVVfeXFMTzg0X2dmNGtaMERsUl8tZERDQVBtVE1fSDZGaGl0OVc5U0RqYjJlM3ZDTGJfUUFvOGdKNWU5UXY4RTVYTDZWT3FSUnNXRlNkc3M1bDdSNXgycTA1M2RYbUhYSXZPeVhIaC1pbVVJd1ZYMWprQzJQdC1aRUVNOHdmeGJIMXozMC05dnlmbU9paWc3VC1nN0lpeEJkX2Q4cE9rZUJpUW1yMEQ5Vm9hQlI1ajU5VFNPNVE1dlFFTUNWd0xDaW9kNXRFYlVvNFRmTktHNWdMY2dEV3lxOTc5ZXBvQjM2ano1WnhrcmptRV8zNHprcm9mM1Y5OXBVOXltclR3eA?oc=5",
+      "words": [
+        "2026",
+        "big",
+        "bloc",
+        "brics",
+        "dollarisation",
+        "linking",
+        "move",
+        "payment",
+        "pitches",
+        "systems",
+        "towards",
+        "trade",
+        "within"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-11T07:46:23.033606+00:00",
+  "last_success": "2026-09-11T08:01:41.681187+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1788977740878,
@@ -2839,7 +2861,7 @@
     "news: global it services": 1789107750846,
     "news: india ai deeptech": 1789111855007,
     "news: india edtech gaming": 1788983006439,
-    "news: india fintech": 1789111994704,
+    "news: india fintech": 1789112703950,
     "news: india semiconductors": 1789109553287,
     "news: india tech policy": 1789104519945,
     "news: india telecom": 1789111679692,
