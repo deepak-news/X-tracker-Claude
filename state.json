@@ -3794,11 +3794,27 @@
         "red",
         "tussle"
       ]
+    },
+    {
+      "at": "2026-09-12T01:01:46.447029+00:00",
+      "handle": "News: India telecom",
+      "headline": "TeamLease Services reports nine-monthly financial results and earnings",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSkpnUkNDMUs5US1PQTZvUDRreUNUSEl6Uk5MUDJXMzNOV19kN1pNWHdqYm56T0Q5d05WUUNwTGhZZ2s0Z2dTQkVGT1BxYURnR0JJNG84QUNRUm5IZVNmaTh6OG4wdDloeFV6VnJUSkg3R2xGM3ZWUUpfZHJ6c1J6d19WeGtkN3ZKaXQ2NVBUYmx0c0FyOGxlaw?oc=5",
+      "words": [
+        "earnings",
+        "lease",
+        "monthly",
+        "nine",
+        "results",
+        "service",
+        "team"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T00:46:08.975311+00:00",
+  "last_success": "2026-09-12T01:01:46.447424+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -3841,16 +3857,16 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789155720558,
     "news: consumer internet india": 1789171590824,
-    "news: global ai": 1789169098716,
-    "news: global chips": 1789171380142,
+    "news: global ai": 1789174387788,
+    "news: global chips": 1789173049030,
     "news: global it services": 1789162842602,
     "news: india ai deeptech": 1789153247617,
     "news: india edtech gaming": 1789171777729,
     "news: india fintech": 1789170077469,
-    "news: india semiconductors": 1789143014359,
+    "news: india semiconductors": 1789167818087,
     "news: india tech policy": 1789167671761,
-    "news: india telecom": 1789156039815,
-    "news: indian it majors": 1789171222405,
+    "news: india telecom": 1789170529034,
+    "news: indian it majors": 1789171243831,
     "news: indian it midcaps": 1789149120886,
     "news: pib releases": 1789156743956,
     "news: tech leaders": 1789161038825,
