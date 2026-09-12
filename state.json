@@ -4011,11 +4011,49 @@
         "you",
         "zomato"
       ]
+    },
+    {
+      "at": "2026-09-12T10:16:07.937180+00:00",
+      "handle": "News: India fintech",
+      "headline": "PFRDA plans mobile pension and UPI contributions for informal workers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVUJzeWkwVF8tWmxYTEpYejBOTVc1NUpmcG4xcTBmV1MxODB0TFpFUmV2RU5YaGptZC1peWVNSTV4VTUxSE1aOVJxbjA4UmZfNFRRUWJDd1NLbUtia0R6OGctUld5SW43QmxualB2Rld0ZVhMOHRwQVFOQzBnUFU0VWMwZXl2UkFaNFZVZE9YYnUyQnhTLUJWYy0zYVpnczB4Ti1Dc2VQcnptVHJrUFdlZmVNb3FScnlmVlpNdGNqUDA4ajh0aXRFVVhpRVBFX0tjRE9TM1BCdmhha29OV3M4UDRJYW1jYW9Wel90Nl9CZzE5eHppMkFJeTQ5dmc0N1B3RVpkMGpVWdIBjAJBVV95cUxQNUhTYnhXdi1ZeXdFSmMzOURoR0pJeXJWNUdaVFRhT242aWFLNGFQSVFtWnVURWs0NllXRVYwMFJrSENaZlV1TG5aRkdNZkViRF9IdEVrSmpTOTFoVjFOa2ZQTjBWZlB4cXB3V05XMGgtWnRBZnlza2xoVzFlaG5aalhJSFFQTk5lYlYtb3djVTZaOTlIN0RRdXVYRm5MU2E0MEg4MUpGc00wdmdjRXJYLW9CLUN0UGZLNk1ZMjR5c3pzM1d5andtbXd3aGtaUUV1d2N1VTY4eFFacGlxWEZPRE5Hc1psWEpaSWs3SV9vZnRoc1R2VmNkVTNLNTJRUF8zVW9xTEpkTVJxeEd0?oc=5",
+      "words": [
+        "accounts",
+        "contributions",
+        "explained",
+        "informal",
+        "make",
+        "may",
+        "mobile",
+        "open",
+        "pension",
+        "pfrda",
+        "plan",
+        "soon",
+        "upi",
+        "using"
+      ]
+    },
+    {
+      "at": "2026-09-12T10:16:07.937180+00:00",
+      "handle": "News: Global AI",
+      "headline": "Mistral AI valuation hits \u20ac21B following \u20ac3B Samsung investment deal",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfTjBhMGhCdWI2Q3RlaGVqS2xfSzZENlZEbmdPR3hORU5HUlFZTHVCV0s2MXNkcFNHa09JRmh1TS1OTkJIQXhSWDllQmNUZno0NUszbHZ0Z1BQUk9aNXltb0p1TTVaOVNBc3ZhQXY3bXE5N2dkSUE?oc=5",
+      "words": [
+        "21b",
+        "deal",
+        "mistral",
+        "samsung",
+        "tops",
+        "valuation"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T10:01:53.197550+00:00",
+  "last_success": "2026-09-12T10:16:07.937599+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4058,16 +4096,16 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789206158908,
-    "news: consumer internet india": 1789206662152,
-    "news: global ai": 1789206221632,
+    "news: consumer internet india": 1789207966308,
+    "news: global ai": 1789207142172,
     "news: global chips": 1789205087342,
     "news: global it services": 1789201534204,
     "news: india ai deeptech": 1789205441469,
     "news: india edtech gaming": 1789171777729,
-    "news: india fintech": 1789205294029,
+    "news: india fintech": 1789206910079,
     "news: india semiconductors": 1789206237012,
     "news: india tech policy": 1789205504976,
-    "news: india telecom": 1789201837447,
+    "news: india telecom": 1789207952721,
     "news: indian it majors": 1789204027636,
     "news: indian it midcaps": 1789202882155,
     "news: pib releases": 1789204666233,
