@@ -4373,11 +4373,45 @@
         "starting",
         "translation"
       ]
+    },
+    {
+      "at": "2026-09-12T22:16:13.058716+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic targets $2 trillion valuation for 2026 US IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORlYtSjB1LVFmNGNMWXA5d3dDbHFDQTRIel9rZERCRklQWW5JR3ZOX0hUYWF2YlZfUkhJN2tvQm5PZW9FRDNuR1FVRHFYVWtOQW1DZGRpQ1ZfWnhicGdVa0VsbmJTNUhvMG5zSmEwZzRRLXpVWDduREpPUVRpeHZLSkdtczVnMDJiSDFqa1dhZFpaeTRrbWNGVTZUclRSbWVaVF9nMjIycVFxV0JpWHlKb1dVTDhQNXBDdy1UU3hCUnpSOFktMnE4bUxqMFlQNm8za1VCSW1PRW9zWmExQWZ5TEpWejBSSGt0bzhraVNTR0FJaEJxMmFpSlpR?oc=5",
+      "words": [
+        "2026",
+        "anthropic",
+        "hit",
+        "ipo",
+        "lag",
+        "market",
+        "proceeds",
+        "record",
+        "targets",
+        "trillion",
+        "valuation",
+        "yet"
+      ]
+    },
+    {
+      "at": "2026-09-12T22:16:13.058716+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "OpenAI CEO Sam Altman says IPO unlikely this year",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5idkxmTGxtak5KbG82VFRsbllKWjFuS011Q3IyNHN3MFV3bWRnQzd1dmNaNEE2U1hGUU9RSEZsUzZqYVdIMmdTQzR0SDBtam54RENNVXhxYWJvZHQ0cTk2OVRKQWJ0QV9Vc1FYZzBHeENPQ2Ywa29KMU1Bbw?oc=5",
+      "words": [
+        "altman",
+        "ipo",
+        "unlikely",
+        "year"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T22:01:43.171415+00:00",
+  "last_success": "2026-09-12T22:16:13.059153+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4421,7 +4455,7 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789245713339,
     "news: consumer internet india": 1789242435169,
-    "news: global ai": 1789245212190,
+    "news: global ai": 1789247191690,
     "news: global chips": 1789228203138,
     "news: global it services": 1789246620631,
     "news: india ai deeptech": 1789221466518,
@@ -4433,7 +4467,7 @@
     "news: indian it majors": 1789230964135,
     "news: indian it midcaps": 1789239101823,
     "news: pib releases": 1789246950457,
-    "news: tech leaders": 1789249006897,
+    "news: tech leaders": 1789250520282,
     "nvidia": 1789057835996,
     "openai": 1789344000517,
     "pib communications": 2308982,
