@@ -4174,11 +4174,45 @@
         "strengthening",
         "tata"
       ]
+    },
+    {
+      "at": "2026-09-12T15:46:14.218266+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic CEO calls for industry slowdown after rogue AI agent breach",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGdvYW15OHpHLVlxT3NBQm1JU0NXaHZBTFpxYVd6Qi1Nd0hCTlBfdGNqcHhSNHNWb2JCWUU3d082SW5iRUJ1QkhRc3RFQU5sbVVMSG9SMGswWWVTSnRoTktfTWM0Z2Fodldpbi1kal8yblJfWFV5ZzljNno0UWJWczRDTDFXeDdObjZGTzh4WnlKRVhVZzYxeG9rUHhaYWFXUkE?oc=5",
+      "words": [
+        "agent",
+        "amodei",
+        "anthropic",
+        "breach",
+        "industry",
+        "pushes",
+        "rogue",
+        "slowdown",
+        "wide"
+      ]
+    },
+    {
+      "at": "2026-09-12T15:46:14.218266+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio-bp partners with DRIVN to expand commercial EV charging",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV2ZIcGVjRk5xSE5Cbld3WXc3SEtkTjJYQTFBNlloQWdZd1Y1THY4dDB4M1J4YzhrdmRZZlBBYW9yaFZwbEJuX1BFbTNLQVFtcGNRcTd5VThLVVY4NjdidkdNVGFHSjZNb3QtZVZic2ZxODFhOXptNV9QZzBXSWp4N05BajN2SGgxZkFiU0dwYWI5ek5STWRfN1BXbnQ4TnkwQlNUdU5leEE3V0FnMzdDSHgydw?oc=5",
+      "words": [
+        "charging",
+        "commercial",
+        "drivn",
+        "expand",
+        "jio",
+        "network",
+        "partner"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T15:31:23.639458+00:00",
+  "last_success": "2026-09-12T15:46:14.218784+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4222,7 +4256,7 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789221708359,
     "news: consumer internet india": 1789224132834,
-    "news: global ai": 1789222231013,
+    "news: global ai": 1789227132170,
     "news: global chips": 1789220250284,
     "news: global it services": 1789224044620,
     "news: india ai deeptech": 1789216554629,
@@ -4230,8 +4264,8 @@
     "news: india fintech": 1789218683047,
     "news: india semiconductors": 1789223747750,
     "news: india tech policy": 1789224701363,
-    "news: india telecom": 1789226227180,
-    "news: indian it majors": 1789222920338,
+    "news: india telecom": 1789227152725,
+    "news: indian it majors": 1789224740757,
     "news: indian it midcaps": 1789209880155,
     "news: pib releases": 1789222260464,
     "news: tech leaders": 1789226467140,
