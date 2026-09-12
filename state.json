@@ -4049,11 +4049,28 @@
         "tops",
         "valuation"
       ]
+    },
+    {
+      "at": "2026-09-12T11:01:43.522890+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "TCS opens London AI Studio under UK expansion plan",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjFOeEtxeDRWRUIyLWJiUy15dzdENWRiUTVaU3c3WkhrQ2VLNW1EQjYzVFFad0ZfaUpFOGlQOG14TS1BOUg5XzJhMDJfNTVYY1JQanhiVkZSTHItX1Jod0Ztamw5RnJtbUp2SGpBTkppVFQ1VnI5eG5SOURTMEo1WmZ4QUYyRjh1TkRSXzNoazE1dTZyandWZlpVdXNvVXda?oc=5",
+      "words": [
+        "000",
+        "job",
+        "london",
+        "opens",
+        "part",
+        "plan",
+        "studio",
+        "tcs"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T10:46:11.804956+00:00",
+  "last_success": "2026-09-12T11:01:43.523141+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4098,15 +4115,15 @@
     "news: big tech platforms": 1789209229976,
     "news: consumer internet india": 1789209556782,
     "news: global ai": 1789207142172,
-    "news: global chips": 1789205087342,
+    "news: global chips": 1789209402910,
     "news: global it services": 1789201534204,
     "news: india ai deeptech": 1789205441469,
     "news: india edtech gaming": 1789171777729,
-    "news: india fintech": 1789209849775,
+    "news: india fintech": 1789210832510,
     "news: india semiconductors": 1789209235105,
-    "news: india tech policy": 1789205504976,
-    "news: india telecom": 1789207952721,
-    "news: indian it majors": 1789204027636,
+    "news: india tech policy": 1789209797835,
+    "news: india telecom": 1789207954157,
+    "news: indian it majors": 1789207445488,
     "news: indian it midcaps": 1789202882155,
     "news: pib releases": 1789208280629,
     "news: tech leaders": 1789204515555,
