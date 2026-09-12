@@ -3954,11 +3954,28 @@
         "tap",
         "titles"
       ]
+    },
+    {
+      "at": "2026-09-12T09:16:15.316376+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Anwar and Modi discuss semiconductor cooperation and partnerships",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tQnp5MHJKZkpZanRqeEtHVzlmT3NWYVVkX1NlRVVwUFFtbzRxOEJPdWlRNGQ4bDJNNk5oZWtuRkRTUHRZclhRWkpYU3hhWWlB?oc=5",
+      "words": [
+        "anwar",
+        "cooperation",
+        "deepening",
+        "discuss",
+        "industry",
+        "modi",
+        "partnerships",
+        "semiconductor"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T09:03:32.490940+00:00",
+  "last_success": "2026-09-12T09:16:15.316719+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4001,18 +4018,18 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789202466954,
-    "news: consumer internet india": 1789201800506,
+    "news: consumer internet india": 1789202911685,
     "news: global ai": 1789198500674,
-    "news: global chips": 1789186936295,
+    "news: global chips": 1789202445439,
     "news: global it services": 1789201410208,
     "news: india ai deeptech": 1789197154142,
     "news: india edtech gaming": 1789171777729,
     "news: india fintech": 1789200137251,
-    "news: india semiconductors": 1789200960271,
-    "news: india tech policy": 1789202160084,
+    "news: india semiconductors": 1789204002067,
+    "news: india tech policy": 1789202476458,
     "news: india telecom": 1789201837447,
     "news: indian it majors": 1789202243070,
-    "news: indian it midcaps": 1789198237545,
+    "news: indian it midcaps": 1789199391155,
     "news: pib releases": 1789196471060,
     "news: tech leaders": 1789198234652,
     "nvidia": 1789057835996,
