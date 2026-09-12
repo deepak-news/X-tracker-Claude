@@ -3919,11 +3919,29 @@
         "taps",
         "vietnam"
       ]
+    },
+    {
+      "at": "2026-09-12T07:16:17.824636+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Zomato introduces Rs 5 charge for cash on delivery orders",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODB6STdfYlhoMzhWZzJNY0EtNlVlanJLLUJnNlB6aFA2RXFtcDB2eVFRenVYSVh2eDNuYkgyYWVrcnU1MlRzMWl4Zk5qUlZjMGhFYWN3UXNaeExVTjBncDdVdVYxU1BXM2lHbHh5cDZNM3lIUWpLX0dNb1d1TW94blF5aTVkRUxhck9XYUgtN3ZxMXRMbHZMZVFxU2RaS1l3c3NhVDg1SVhtOGtUOFZFNTlRQXdmbllmQ0RFTmF6NF8yZ2l6T2VnNjh3MlBjMVJ2R2Y5dmd2b25LVE16dDNOUUtzTdIB6AFBVV95cUxNYW1xYWNFckFQbkpQR2phUWVBbnh0LVlkRzJtOFFPOG1YWUhZSWxWRVItYXFiemRoQWRyU1RvLWJRQzlEbHBtcWdZb2xfSkZJNVN6elRhY0haT2hsN0Jka3I5RDlPTE1iMGNlNWhWdUNrMk9BQmpVYTlBY3JsaEpRNldUOW9WbGpHY3RpU2xXOV9kVkNDUnluT2g4ci1ScEcwclphMTJRdzFCWHZQZDM0SE9KNFFnaGxJc2J1M3ZfX1VQRDI3MFdXblNqLTNVZ0hwdk0ySUhENlVMcjlfQWRIcFNrWlZ5T0hl?oc=5",
+      "words": [
+        "begins",
+        "cash",
+        "charging",
+        "delivery",
+        "drive",
+        "latest",
+        "monetisation",
+        "orders",
+        "zomato"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T07:01:51.412288+00:00",
+  "last_success": "2026-09-12T07:16:17.824977+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -3966,16 +3984,16 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789195095593,
-    "news: consumer internet india": 1789195183427,
+    "news: consumer internet india": 1789197183127,
     "news: global ai": 1789193999063,
     "news: global chips": 1789186936295,
     "news: global it services": 1789184758281,
-    "news: india ai deeptech": 1789196071142,
+    "news: india ai deeptech": 1789197154142,
     "news: india edtech gaming": 1789171777729,
     "news: india fintech": 1789193700978,
     "news: india semiconductors": 1789196325563,
     "news: india tech policy": 1789193989629,
-    "news: india telecom": 1789187050933,
+    "news: india telecom": 1789196989486,
     "news: indian it majors": 1789196109820,
     "news: indian it midcaps": 1789196316153,
     "news: pib releases": 1789191470943,
