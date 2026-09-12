@@ -4105,11 +4105,61 @@
         "payments",
         "tonetag"
       ]
+    },
+    {
+      "at": "2026-09-12T14:16:13.809935+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "ABB extends digital workplace services agreement with Wipro",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDlqOTVrOGdoMFozT2d5d1h6bHdjd3hpN3JQSExLY1h5ckdvTTJCVFZMNHZ0SGxfVUctREktNXlxVThobkJxYzYweS1KSFZ2RnZMRkNGU3JzWkdtckl5T2RFTVdYRm1ka0VucHRmenN6UzZUY2R6NnZpemt6ZUZiSFp0Y0VEU3J2bWVEMjlHOU1hRm9NQ2ctUWlQRGtqdHl3MGF2WVJ30gGrAUFVX3lxTE9MR1JLZXhJWVVaREJpUDN3WEZnbW92enU5WnNSTDhaZm1qQk9LdF9UcU9fNi1OT0Z0R1cwUEQyOWlTVUoyWjlSTXE3UXZqSHRQbnB5eW9tUGx0OUJndjNzazQxNmI1NTlFdVJOWUVIWGhUVVdsZUZwRi13SmotdzVBVjAzSXNtQnBRQzVEd2FwMm9abzVudk0xdUNtMEtCMXpEUEZuOTZaRzQ4QQ?oc=5",
+      "words": [
+        "abb",
+        "agreement",
+        "capabilities",
+        "digital",
+        "extends",
+        "powered",
+        "services",
+        "wipro",
+        "workplace"
+      ]
+    },
+    {
+      "at": "2026-09-12T14:16:13.809935+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Cognizant plans 15,000 AI roles and 1,500 US graduate hires",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2t5M1VZd2RpY2JsMzhDeEwzRVJndlFvbWlhSktGbHdOVXFuaHVqQ3F2ekVibWxnWlU2blpzS3BCNzh4ZTRSekhZd1pqS2FWQnIxM1BmOVNWYnc5QzZURFQxazlXNkRxMmpNNnBmY1hQRGVnaFpoUzQwbl8xY2liWXBFQVlrM0o5a0xWRk1MOFFzU2JjeGRrS1JB?oc=5",
+      "words": [
+        "000",
+        "500",
+        "cognizant",
+        "graduate",
+        "hires",
+        "plans",
+        "roles"
+      ]
+    },
+    {
+      "at": "2026-09-12T14:16:13.809935+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Capgemini signs definitive agreement to sell Capgemini Government Solutions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc01zTVlJRDJqczhIZ1JrLUlGNGxGOUFlbEltM3c2dnBFeUxBSGV1bHd4ZTRMVUllaXFvdk9Ed1JWaDl3T2pPX1VPTHhfZzdhYWdjTnVicUp0OXdfWHc0b2lzMEdkR09HaXk1MWcxRmsyaWpQX0xGZU9TQUdnT3A0TFBXdm5XWkJaYnJpT0w5NG5SRE1xMXIxTVhOV3VEUFNjdF9JdjJfaDU2M0IzX284NzVHM2ZETmFxdl9iZTNUa2V4bUF5dXpuR3hhUjhWMV9DRmE0eWhkaTBLY2NDR0E2ZEFmVXdXZ9IB6wFBVV95cUxQLThpZ3ZtM0YyMDQ0Q214bFhSVllNNXdNOEQzam5NRTkxWGdfZE10M0s4dUhQTFhjVHpkekQ3VXRFa01VenRsZjY3TEJWbjhvak1IYzd4bm5YSEpOT2RlQ05jX0lJdEo5VlAzMGc4NXc0N0RyWWt3S0dTQXpyTm1YV1lPalAwb1BjaGtVTTVUc1VybzRNWG5kQmtHX1hyVC1VY3RjOTlGZjZzM2Q5STlNa1hDc2NqblhEUG9IOFBxckd3Vk51b1VJczdBUm51TXdFc1JVUVo0N1lxcXFTTkZDU0xIVVhSSGl2YXRV?oc=5",
+      "words": [
+        "agreement",
+        "capgemini",
+        "definitive",
+        "government",
+        "sell",
+        "signs",
+        "solutions"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T14:01:51.574500+00:00",
+  "last_success": "2026-09-12T14:16:13.810620+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4155,21 +4205,21 @@
     "news: consumer internet india": 1789218824212,
     "news: global ai": 1789216105484,
     "news: global chips": 1789220250284,
-    "news: global it services": 1789201534204,
+    "news: global it services": 1789222140638,
     "news: india ai deeptech": 1789216554629,
     "news: india edtech gaming": 1789171777729,
     "news: india fintech": 1789218683047,
     "news: india semiconductors": 1789221130767,
     "news: india tech policy": 1789216605275,
     "news: india telecom": 1789219630453,
-    "news: indian it majors": 1789214567757,
+    "news: indian it majors": 1789221070731,
     "news: indian it midcaps": 1789209880155,
-    "news: pib releases": 1789217160028,
+    "news: pib releases": 1789221840671,
     "news: tech leaders": 1789213860059,
     "nvidia": 1789057835996,
     "openai": 1789344000517,
     "pib communications": 2308982,
-    "pib meity": 2308618,
+    "pib meity": 2309536,
     "pib science and technology": 2309474,
     "samsung": 1788915600769,
     "trai": 1789045260442
