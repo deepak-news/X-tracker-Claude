@@ -3830,11 +3830,30 @@
         "nearly",
         "nvidia"
       ]
+    },
+    {
+      "at": "2026-09-12T04:01:39.560560+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Accenture lands AI-powered sports streaming deal with racing series",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWtZWGdKbndDUU5pelZGTm5RUWM4VUpZMTNYcEhuUUg0T21BV0VSdWY2c3JObllDdXdub1I0a05sVEF4a2NUVl9hNE15SDVsSk9QZ29reVJ3Si01b3hqaTRrVFVOZDRvakJYbjg4ZXhpWmoydUVlcExkX255aTZXME81a2JlV1YtOTM1SGlNdmZFbTBwUmV6ZUxVSW5wQThjcFRzYU1lU0ZodVZlRG52X1VkR0VLU2JQTFR1ajFBOG5QQdIBxwFBVV95cUxOYUJJX05LVFRKcEFtU1QyVkZPWEJBOHJBMXlianpwWktOLVVva2EyeFU3RWFIYXFXV3RkZFZDSVExcUN1TW9HYm5sOW80Q0FRRTVweGhTemNnMkV0UXBob3hEbDVmUFBJVGUzcU9FcWMySXpvcWNaQnBSOXBOWm5McGpaYXVzbHVIbEZocFRjVzdPb2hCeUJFdXplZ0hhRUZGeHAyU052UTNHR0FmUHRpcGhETFVCZF92TXJ3VW9BU3RidGZiMExR?oc=5",
+      "words": [
+        "accenture",
+        "acn",
+        "deal",
+        "global",
+        "lands",
+        "powered",
+        "racing",
+        "series",
+        "sports",
+        "streaming"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T03:46:06.780590+00:00",
+  "last_success": "2026-09-12T04:01:39.560888+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -3879,14 +3898,14 @@
     "news: consumer internet india": 1789171590824,
     "news: global ai": 1789184158201,
     "news: global chips": 1789175100106,
-    "news: global it services": 1789176300376,
+    "news: global it services": 1789184758281,
     "news: india ai deeptech": 1789183080805,
     "news: india edtech gaming": 1789171777729,
-    "news: india fintech": 1789174974492,
+    "news: india fintech": 1789184312982,
     "news: india semiconductors": 1789176673152,
     "news: india tech policy": 1789179960600,
     "news: india telecom": 1789183760009,
-    "news: indian it majors": 1789182019605,
+    "news: indian it majors": 1789182720631,
     "news: indian it midcaps": 1789178880187,
     "news: pib releases": 1789173230841,
     "news: tech leaders": 1789176840404,
