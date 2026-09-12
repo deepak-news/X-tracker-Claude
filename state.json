@@ -3866,11 +3866,64 @@
         "swiggy",
         "vice"
       ]
+    },
+    {
+      "at": "2026-09-12T07:01:51.411741+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Persistent Systems calls EGM for USD 1.25 billion financing approval",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmtYZFRBRHBRcnAtMEhiQ0tOVFpGWi1TTGllVDd3TFJPNEZLR191X0NiOTByQnlKT1dvYVFfQmZOeXlHMmF0dElHNDYzakljU2xtTzE1dnJGVmhBQjNSUUVoaGJmLXVib0YxSERKSEgxUUVMNlU2MUxidjFvUUNoc0d5a3AxaHhLQ2FPZDNOcloyUWtBYVlLOXRralVtNTdjeGl5TjBFbF9XWWJ5bTJVZGl3VW1OYlVocXFaNVRtOFhsUQ?oc=5",
+      "words": [
+        "approve",
+        "billion",
+        "egm",
+        "financing",
+        "persistent",
+        "schedules",
+        "systems",
+        "usd"
+      ]
+    },
+    {
+      "at": "2026-09-12T07:01:51.411741+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Delhi HC orders Meta and YouTube to remove deepfake videos",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTjhiWHJITENjZlZVNFNKaGM5ZWZkb24tR2YtUFdfNk9JcUlfaEFYTmROYjUxY2RfQ1JPY3FSeXV5OU94Y2lFd0dmYWRxU0I0UWYzQ3dTU29NQzREam83MUVMZE1NWDlMc0RBVnZDVDBNckhVNjJObHVsUnU4QVI3V25lX05HVmtoN0ttcVE4ZllQWGhsQVpHN093NGtPQWFhYjVfTjF3cGh0U005Nkh6MHFGeFlwbHZ4MDBHLUFXc21vZ1VQd3F2TE5SZlJJNlBHamMwdnlOb1kxcHJIYXl6dzZ4S0dvSVo0cmJqbVFSb9IB9AFBVV95cUxQVWs0SG5aQ2VtTG85YW40TjF5dXpuSG1Ld2NuY1paZlBLclVvUmFqZDUtSVAzYWxiVTRLYzI1NHRQQUlYbjBnZHNrTGRkdDFFaHhrd2NRa1otX2NCVkFNNFlpYmExZzMzZl96bEExRE9tOWNHLUFDNTlfWWlGd0VfNnNUZUpKTFg3RXZfR2NWaDRreXBDaWJmdnpDS3hKek96akpDdzVOMEU5Y0tqSDEwRmtaRTFjekxCdWs1alNrZUdFNndNS3hyd24wdTlCZmFYT3I1SnR3NWxEaUlDQlNpQW1yWnhQeERYZGZJbjVzNGVxcGxW?oc=5",
+      "words": [
+        "channels",
+        "deepfake",
+        "delhi",
+        "facebook",
+        "meta",
+        "orders",
+        "pull",
+        "rajat",
+        "sharma",
+        "videos",
+        "youtube"
+      ]
+    },
+    {
+      "at": "2026-09-12T07:01:51.411741+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Precise Biometrics partners with AqTronics for India expansion",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcTN6NlZwdEQxNzBRUGtud1lSQXpfUFAtbWRqbk9fM3lId2ZPaHdHeENCMDRzZHZvaDRuY040Z1ozWGsyQ0NDRkZTMm5jdXRDY3FLdThYYnUyc1NNVzZLWWRvcGZadEFmN09pQXpvNzI3ZnlxR2JlS2FnZHJheVJvVEU2dGUxQTJtQWYtX19BN21TR2RYaHR6Z3Jfb0M5V0JueFdEWTV2cXcxb21pQ2xRaDJ6c0V4QXBybDZxMlVRck5LUi05UnFXRWMtb1JUaUlLeDBQU3pYQng5b3hHVjFvbjgta0NGQQ?oc=5",
+      "words": [
+        "aqtronics",
+        "biometrics",
+        "drive",
+        "expansion",
+        "precise",
+        "taps",
+        "vietnam"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T06:46:14.770566+00:00",
+  "last_success": "2026-09-12T07:01:51.412288+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -3897,6 +3950,7 @@
     "bse nykaa": 1789155118992,
     "bse ola electric": 1788908280469,
     "bse paytm": 1788957473210,
+    "bse persistent": 1789215571383,
     "bse reliance": 1789150659409,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1789071138621,
@@ -3911,19 +3965,19 @@
     "lenovo": 1789113648299,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789194626686,
+    "news: big tech platforms": 1789195095593,
     "news: consumer internet india": 1789195183427,
     "news: global ai": 1789193999063,
     "news: global chips": 1789186936295,
     "news: global it services": 1789184758281,
-    "news: india ai deeptech": 1789192111803,
+    "news: india ai deeptech": 1789196071142,
     "news: india edtech gaming": 1789171777729,
     "news: india fintech": 1789193700978,
-    "news: india semiconductors": 1789194891711,
+    "news: india semiconductors": 1789196325563,
     "news: india tech policy": 1789193989629,
     "news: india telecom": 1789187050933,
-    "news: indian it majors": 1789191779179,
-    "news: indian it midcaps": 1789182780157,
+    "news: indian it majors": 1789196109820,
+    "news: indian it midcaps": 1789196316153,
     "news: pib releases": 1789191470943,
     "news: tech leaders": 1789176840404,
     "nvidia": 1789057835996,
