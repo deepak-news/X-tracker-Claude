@@ -3849,11 +3849,28 @@
         "sports",
         "streaming"
       ]
+    },
+    {
+      "at": "2026-09-12T06:46:14.770266+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Abhijit Khasnis joins Swiggy as Senior Vice President of Engineering",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTU9TdXV1LW53WFJPaW9KWGhQY19ER25NSXpsc2dxTmg0eWJNNm94LW9LaGdndkw3a1ZfOU5FalZkRC04VWt0alZRekJFb3dCRl82WVR2Nkt5b21GYjFyUHpGQUc2UjNlNTZVLTNkenR3Ri1IMlMyNTdzcDdybmljb0FmVnhFRGIzUGdldWZraU94Mm1GcmlBMUo1ZkwwNV9NMHNheDhILU9LRXhlZFduVjJqZlVINHJjd0hZaGE3dEtadXIyeUJ1Nw?oc=5",
+      "words": [
+        "abhijit",
+        "engineering",
+        "joins",
+        "khasnis",
+        "president",
+        "senior",
+        "swiggy",
+        "vice"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T06:31:24.684203+00:00",
+  "last_success": "2026-09-12T06:46:14.770566+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -3894,16 +3911,16 @@
     "lenovo": 1789113648299,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789180584758,
-    "news: consumer internet india": 1789189125347,
-    "news: global ai": 1789190469004,
+    "news: big tech platforms": 1789194626686,
+    "news: consumer internet india": 1789195183427,
+    "news: global ai": 1789193999063,
     "news: global chips": 1789186936295,
     "news: global it services": 1789184758281,
     "news: india ai deeptech": 1789192111803,
     "news: india edtech gaming": 1789171777729,
     "news: india fintech": 1789193700978,
-    "news: india semiconductors": 1789194407034,
-    "news: india tech policy": 1789193477616,
+    "news: india semiconductors": 1789194891711,
+    "news: india tech policy": 1789193989629,
     "news: india telecom": 1789187050933,
     "news: indian it majors": 1789191779179,
     "news: indian it midcaps": 1789182780157,
