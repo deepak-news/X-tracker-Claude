@@ -4317,11 +4317,34 @@
         "launches",
         "system"
       ]
+    },
+    {
+      "at": "2026-09-12T19:31:32.197603+00:00",
+      "handle": "News: India fintech",
+      "headline": "Paytm CEO comments on AI safety and recursive self-improvement risks",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdGNWWkZGNU5VMkR2M2d2VU5oM1M4TGllOHJlZjA2MTNaYk1PaXY0MXlXMWtnMmdfYlJvVkJ3U1BSZmtqZkdsX3ppVzZ3QU5nb1JqSHpabjZCSkd1QVV2SHVPTU4wX0ZId1U3VWxkWWxOdnRHa0NyWkdCbWs3RFRmeHBHV2Q0RGNUR3hpRDNIdHlOZzAwdExLREM3NzNMOGd0Q2I5Nk8tZ2UzODJ1dnlmdU9IR1FwTTh6MXU4V3ZyZnRCOW1NMkxkZkRoWXlrNXlDdlBGNXlIeFIxVl9peTg2SnN6ZjRETEFCV1JYM3I1dC1hb2cxUDNWeXE5ZDZMclVaUHlJa3ZoR09RTWhSRFVXLQ?oc=5",
+      "words": [
+        "advancement",
+        "call",
+        "ceo",
+        "dario",
+        "improvement",
+        "industry",
+        "paytm",
+        "poses",
+        "recursive",
+        "risks",
+        "self",
+        "significant",
+        "slow",
+        "through"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-12T19:16:17.497294+00:00",
+  "last_success": "2026-09-12T19:31:32.198079+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4370,14 +4393,14 @@
     "news: global it services": 1789236976401,
     "news: india ai deeptech": 1789220475518,
     "news: india edtech gaming": 1789171777729,
-    "news: india fintech": 1789238464721,
+    "news: india fintech": 1789240620587,
     "news: india semiconductors": 1789235580350,
     "news: india tech policy": 1789239893275,
-    "news: india telecom": 1789234943196,
+    "news: india telecom": 1789240994486,
     "news: indian it majors": 1789230964135,
     "news: indian it midcaps": 1789239101823,
     "news: pib releases": 1789234610579,
-    "news: tech leaders": 1789240474059,
+    "news: tech leaders": 1789241160375,
     "nvidia": 1789057835996,
     "openai": 1789344000517,
     "pib communications": 2308982,
