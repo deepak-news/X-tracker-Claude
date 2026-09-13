@@ -4499,11 +4499,28 @@
         "rupay",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-13T04:46:07.209463+00:00",
+      "handle": "News: India fintech",
+      "headline": "PhonePe launches feature-phone payments to expand UPI reach beyond smartphones",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUER2bmpGWGpyUnhyZE82SVRJWXg4SzNCcUZRWTRPVXpUY25WVG9qaVZrUjA0X1J5YldWNUpCQ1h2TndRenJwZHZvNkl3NUxQWDlTN3NDd1RVRVgxaDA5WXk4NVZHM1ZHOURPMlAzcE9lMU85dEg2SWY3b2NQbFV1REhDS2lQQ1A2UVlMWjZsNUNuNGZ2cHNkQ184UHdPVlNLUnhhTUY0c1FxWmZ6QlB1MThoT1pNVDBlU3pkLWlUc050VjB4dEFONHFfOVF2dw?oc=5",
+      "words": [
+        "beyond",
+        "feature",
+        "payments",
+        "phone",
+        "phonepe",
+        "smartphones",
+        "takes",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-13T04:31:43.520433+00:00",
+  "last_success": "2026-09-13T04:46:07.209759+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4552,7 +4569,7 @@
     "news: global it services": 1789258740568,
     "news: india ai deeptech": 1789264829990,
     "news: india edtech gaming": 1789171777729,
-    "news: india fintech": 1789270843776,
+    "news: india fintech": 1789273841792,
     "news: india semiconductors": 1789262198074,
     "news: india tech policy": 1789266641847,
     "news: india telecom": 1789270277260,
