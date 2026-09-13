@@ -4905,11 +4905,29 @@
         "stays",
         "strong"
       ]
+    },
+    {
+      "at": "2026-09-13T18:46:19.508306+00:00",
+      "handle": "News: India telecom",
+      "headline": "Vodafone Idea denies unfair practice charges by Airtel and Jio",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM3ZZZmJYd0IwcjVDSmtDSzRyU1NWLXBicDB5b20yTnoza3Zva2twYzRnYVhvRWhDODlSZDBGdkZBR0tXTGlqc0MxVGxPMEJ5cUxycGRMNktSeDNkSmdzbVllQUFELVUwaEpIM1U1ZVFBbFA3T21lR0ktRHlibnZqYS1pX2JaemV4TGVwajY3ZjFjLWowX2RrdnJVZWtjalI2dUo3Z2pVMnUwdGZyS1hGakY5dmVhc3FjR3JDYlRCVGFZV2VDdjhtc1JtSVNRSknSAdQBQVVfeXFMTzRGZG9HWW1XaklUejdfdjU3cm9DQWhqYUlmekRKQUlad1lRc05sRGowNGJmUXg4VDRmcUE4b08yWERLeGd3T2Y4Y1lmcUJpc09IT094VV9OeV94RURTY0trMnZHVGN2MDgwTXYwS3FsaWJGZFdkb0w0bUJ1aDVrTnBQWGFoNUVGX3ptTjhwdW8xTk1IUEd4V0UzcE1fRDh4ckw2Vk1LbzhGWEkwR3hGVk5MWnUyQ3JneXVidVBTR1lrZEVSVlBOVVhjSkNQU3M4cmcyRWU?oc=5",
+      "words": [
+        "airtel",
+        "bharti",
+        "charge",
+        "denies",
+        "idea",
+        "jio",
+        "practice",
+        "unfair",
+        "vodafone"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-13T18:31:27.901916+00:00",
+  "last_success": "2026-09-13T18:46:19.508739+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4952,17 +4970,17 @@
     "lenovo": 1789113648299,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789318861324,
+    "news: big tech platforms": 1789320764147,
     "news: consumer internet india": 1789322088247,
     "news: global ai": 1789322034933,
     "news: global chips": 1789316701710,
-    "news: global it services": 1789319085642,
+    "news: global it services": 1789324620104,
     "news: india ai deeptech": 1789321502394,
     "news: india edtech gaming": 1789171777729,
     "news: india fintech": 1789322887676,
     "news: india semiconductors": 1789321964327,
     "news: india tech policy": 1789317610841,
-    "news: india telecom": 1789322400261,
+    "news: india telecom": 1789323765282,
     "news: indian it majors": 1789322125296,
     "news: indian it midcaps": 1789323326939,
     "news: pib releases": 1789317610841,
