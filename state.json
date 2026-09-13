@@ -4460,11 +4460,34 @@
         "iphone",
         "lakh"
       ]
+    },
+    {
+      "at": "2026-09-13T01:31:51.366801+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Google DeepMind co-founder Demis Hassabis backs AI slowdown call",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcDh1WlhYR2sxQlhSczNHZFpoYkRFbUQ1WEpiZm1sMklQREVqY3A0ZTFrZ2RIRG8zVnh2MHN0REg5M05TRUx3UTRUUkFvZUJVNjJKeHVkWXl6ZnNndGxIRmRuZDgxUUQyOXNUbS1LUXFvdGFrT01XRFVqMjZzYlUzb0I2bUxjN0E4c19ibnd5dkRDODRGUE5yV0RjekdWeTBDQ1pGMVUtYmh3ellvZVV1V1JseHluUk5Yd3gzdWlkbnFIZm5rdlNIV1NPc3c2SDR5a0RyZkxGeVFpUXdid1JNbHZjY1N0ZUlSZWt1Y25pUVNNSndoY01rYXZFOGRvaVE?oc=5",
+      "words": [
+        "amodei",
+        "anthropic",
+        "backs",
+        "boss",
+        "calls",
+        "correct",
+        "dario",
+        "deepmind",
+        "demis",
+        "direction",
+        "founder",
+        "google",
+        "hassabis",
+        "slowdown"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-13T01:16:11.784445+00:00",
+  "last_success": "2026-09-13T01:31:51.367192+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4509,9 +4532,9 @@
     "news: big tech platforms": 1789259405512,
     "news: consumer internet india": 1789251309966,
     "news: global ai": 1789248749692,
-    "news: global chips": 1789260773817,
+    "news: global chips": 1789261625999,
     "news: global it services": 1789258740568,
-    "news: india ai deeptech": 1789221466518,
+    "news: india ai deeptech": 1789262820716,
     "news: india edtech gaming": 1789171777729,
     "news: india fintech": 1789259427776,
     "news: india semiconductors": 1789255477612,
@@ -4520,7 +4543,7 @@
     "news: indian it majors": 1789260688268,
     "news: indian it midcaps": 1789240391823,
     "news: pib releases": 1789247772297,
-    "news: tech leaders": 1789260300231,
+    "news: tech leaders": 1789262520431,
     "nvidia": 1789057835996,
     "openai": 1789344000517,
     "pib communications": 2308982,
