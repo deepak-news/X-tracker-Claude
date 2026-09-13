@@ -4679,11 +4679,28 @@
         "vembu",
         "zoho"
       ]
+    },
+    {
+      "at": "2026-09-13T10:02:04.244826+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Zeta targets global profitability in FY27 as overseas business scales",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0J3RnN6RFhxc2ZyczY5dlRhM2IwVmthYWRuMHBvR1E2YnVGenE0OGpWVHUweldfZDBBNFdtZmdndTVHcjZaRWtiYlVRNkR3bGx6UEp4MWRDQnJjLWpRYzF6TkVTX0prdHBNcHptclp4dXU4QzBzRVpka2RrZWdPY3c2eXBXSjVfOERFeVJVVTlYeHVmdHQ3RVlsaDQtXzk3TU05aEk2ODBnNVN2TGluQWFneGcwc05rWnNGYnZVeHhrUEZQeWZIStIBzgFBVV95cUxOZ2h4Z2VvaVlUUmFuNGpXeXdsVE5FbVBsQUpmanJFdDVTWV8xc01uVnZlengwZXRnbEVVVkxxQUIzVE9YMGNKUjFkN1g1a2x4VXcwd0owbF9JX3hTZG9kUkFyaVFPVllyeW5uYTB1WkxQOU5YdklOY29oZGJTeWJtQlgzNXVjcDNTZ1lMX3NZTHl3al9RbzFjZXhuS2ExWFhiWEc5RjJVX0ZNQzcwNXVzb2Q5VVZNUUU4N0JLdU0tekJuM0d0RTZiSkRpbDE0Zw?oc=5",
+      "words": [
+        "business",
+        "fy27",
+        "global",
+        "overseas",
+        "profitability",
+        "scales",
+        "targets",
+        "zeta"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-13T09:46:40.886837+00:00",
+  "last_success": "2026-09-13T10:02:04.245168+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4725,17 +4742,17 @@
     "lenovo": 1789113648299,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789289615343,
-    "news: consumer internet india": 1789286642151,
+    "news: big tech platforms": 1789293583314,
+    "news: consumer internet india": 1789288763572,
     "news: global ai": 1789289805471,
     "news: global chips": 1789289712158,
     "news: global it services": 1789288809458,
     "news: india ai deeptech": 1789289080783,
     "news: india edtech gaming": 1789171777729,
     "news: india fintech": 1789290957248,
-    "news: india semiconductors": 1789289182647,
-    "news: india tech policy": 1789285739075,
-    "news: india telecom": 1789291477263,
+    "news: india semiconductors": 1789293583314,
+    "news: india tech policy": 1789293408100,
+    "news: india telecom": 1789292868294,
     "news: indian it majors": 1789291800629,
     "news: indian it midcaps": 1789281480882,
     "news: pib releases": 1789288620976,
@@ -4744,7 +4761,7 @@
     "openai": 1789344000517,
     "pib communications": 2308982,
     "pib meity": 2309536,
-    "pib science and technology": 2309474,
+    "pib science and technology": 2309719,
     "samsung": 1788915600769,
     "trai": 1789045260442
   }
