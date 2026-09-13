@@ -4923,11 +4923,26 @@
         "unfair",
         "vodafone"
       ]
+    },
+    {
+      "at": "2026-09-13T19:01:36.495673+00:00",
+      "handle": "News: India telecom",
+      "headline": "PwC US and PwC India form joint venture",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN0F3WnZtTHJsaVBRajlVNS1jcmdZc0lOaGh1Qi1IbUNqMUw2OGNBUFMzdUE5S1ktUDh6dXpXNWdERDA2MFBIME9ocG1DbG5ndVpwX1ZDQUF5LWdva2FUZElTLUpGYVVmRHo0Q2VHaG9ILWpTNUdyTFZERlhGNVplZl9GUEdmS1pCd2JvSU96VGM4OFFiSVNBX2FpVjJqTGlCT2JqaUZJZG1maHk2enFNc0Eta015akh3ZkM1cVdrZTlCUld6RjU1RWNTNFBKTy1adlHSAdIBQVVfeXFMTTdBd1p2bUxybGlQUWo5VTUtY3JnWXNJTmhodUItSG1DajFMNjhjQVBTM3VBOUtZLVA4enV6VzVnREQwNjBQSDBPaHBtQ2xuZ3VacF9WQ0FBeS1nb2thVGRJUy1KRmFVZkR6NENlR2hvSC1qUzVHckxWREZYRjVaZWZfRlBHZktaQndib0lPelRjODhRYklTQV9haVYyakxpQk9iamlGSWRtZmh5NnpxTXNBLWtNeWpId2ZDNXFXa2U5QlJXekY1NUVjUzRQSk8tWnZR?oc=5",
+      "words": [
+        "advisory",
+        "capabilities",
+        "combine",
+        "form",
+        "pwc",
+        "talent"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-13T18:46:19.508739+00:00",
+  "last_success": "2026-09-13T19:01:36.496065+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -4971,16 +4986,16 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789320764147,
-    "news: consumer internet india": 1789322088247,
+    "news: consumer internet india": 1789324163185,
     "news: global ai": 1789322034933,
     "news: global chips": 1789316701710,
-    "news: global it services": 1789324620104,
+    "news: global it services": 1789325450393,
     "news: india ai deeptech": 1789321502394,
     "news: india edtech gaming": 1789171777729,
     "news: india fintech": 1789322887676,
     "news: india semiconductors": 1789321964327,
     "news: india tech policy": 1789317610841,
-    "news: india telecom": 1789323765282,
+    "news: india telecom": 1789325444844,
     "news: indian it majors": 1789322125296,
     "news: indian it midcaps": 1789323326939,
     "news: pib releases": 1789317610841,
