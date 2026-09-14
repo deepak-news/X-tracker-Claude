@@ -5283,11 +5283,45 @@
         "smart",
         "stake"
       ]
+    },
+    {
+      "at": "2026-09-14T06:16:30.806769+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Kelington bags RM1.83 billion India chip-fab deal",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUUUzbnBiQWRpMGZ5SzNXdlRneFdMbVJGdEVTaEFnYWZlUHVZQlZDN1VVQ1Qwdk5aNFJkaVBFZTFlaGJ6cnd1MDBKV3o2RFJzdzVxaU9ZUG5jUUwycktqc3JVdjR2Sk8yNnY2NmlhRFV2SlMzRWlwR0ZXYnZYcFk4MldOTkU4MktRVmo5NmRlYjUzXzFmR2NGUk5R?oc=5",
+      "words": [
+        "83bil",
+        "bags",
+        "chip",
+        "deal",
+        "fab",
+        "kelington",
+        "rm1"
+      ]
+    },
+    {
+      "at": "2026-09-14T06:16:30.806769+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Wipro appoints Dr. Anil Jain as India Consulting Hub head",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1g1TkpCd3JTYlVCQVZYUUk1RDNBT0NDd3VKd0tWRjZKeklHS0pWZnpzR2s3QkxVSXBLOWFKRTJkdjVFSzAyR2w2VG5YWXNBN0lvdGtfZjlDZkFzaTJaUFlnd0xwd21NOVZOM2Q5OHNiMGY4dmRTYllvNnF5U3ViODAxbURfb0MtR0w5c2xuYkdNVDVBWG9lMFIwZkV4eWlJc1E?oc=5",
+      "words": [
+        "anil",
+        "appoints",
+        "consulting",
+        "head",
+        "hub",
+        "jain",
+        "managing",
+        "partner",
+        "wipro"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-14T06:02:22.392674+00:00",
+  "last_success": "2026-09-14T06:16:30.807321+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -5330,18 +5364,18 @@
     "lenovo": 1789113648299,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789365433656,
-    "news: consumer internet india": 1789365256877,
+    "news: big tech platforms": 1789366027628,
+    "news: consumer internet india": 1789365858621,
     "news: global ai": 1789364698024,
     "news: global chips": 1789363211483,
     "news: global it services": 1789356744285,
     "news: india ai deeptech": 1789363440658,
     "news: india edtech gaming": 1789361117097,
     "news: india fintech": 1789358060113,
-    "news: india semiconductors": 1789363051076,
+    "news: india semiconductors": 1789366016176,
     "news: india tech policy": 1789363887112,
     "news: india telecom": 1789362916822,
-    "news: indian it majors": 1789365476608,
+    "news: indian it majors": 1789366411510,
     "news: indian it midcaps": 1789359540374,
     "news: pib releases": 1789364940420,
     "news: tech leaders": 1789362858065,
