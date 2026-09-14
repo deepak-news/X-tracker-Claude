@@ -57,6 +57,23 @@ jobs:
             *)          python -m tracker.main ;;
           esac
 
+      # Its own step, so a government site being down cannot stop the news
+      # alerts, and a bad day for the AI cannot stop the government alerts.
+      # always() runs it even when the step above failed.
+      - name: Check the watched government pages
+        if: always() && inputs.mode != 'test-email'
+        timeout-minutes: 6
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          WATCH_MAIL_TO: ${{ secrets.WATCH_MAIL_TO }}
+        run: |
+          if [ "${{ inputs.mode }}" = "dry-run" ]; then
+            python -m tracker.watch --dry-run
+          else
+            python -m tracker.watch
+          fi
+
       - name: Remember what we have already seen
         if: always()
         run: |
