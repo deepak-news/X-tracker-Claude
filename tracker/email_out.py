@@ -12,11 +12,17 @@ PASSWORD_ENV = "GMAIL_APP_PASSWORD"
 RECIPIENT_ENV = "MAIL_TO"
 
 
-def _credentials():
+def _credentials(recipient_env: str = RECIPIENT_ENV):
+    """The sending account, plus whichever recipient list was asked for.
+
+    One mailbox sends everything, but different kinds of alert can go to
+    different people -- the news digest to MAIL_TO, the government watch to
+    WATCH_MAIL_TO -- so the recipient list is chosen by the caller.
+    """
     sender = os.environ.get(SENDER_ENV, "").strip()
     password = os.environ.get(PASSWORD_ENV, "").strip()
-    recipient = os.environ.get(RECIPIENT_ENV, "").strip()
-    # MAIL_TO may list several addresses, separated by commas or newlines.
+    recipient = os.environ.get(recipient_env, "").strip()
+    # The list may hold several addresses, separated by commas or newlines.
     recipients = [a.strip() for a in recipient.replace("\n", ",").split(",") if a.strip()]
 
     missing = [
@@ -24,7 +30,7 @@ def _credentials():
         for name, value in (
             (SENDER_ENV, sender),
             (PASSWORD_ENV, password),
-            (RECIPIENT_ENV, recipients),
+            (recipient_env, recipients),
         )
         if not value
     ]
@@ -34,12 +40,13 @@ def _credentials():
     return sender, password.replace(" ", ""), recipients
 
 
-def send(subject: str, body_html: str) -> None:
-    sender, password, recipients = _credentials()
+def send(subject: str, body_html: str, recipient_env: str = RECIPIENT_ENV,
+         sender_name: str = "News Tracker") -> None:
+    sender, password, recipients = _credentials(recipient_env)
 
     message = EmailMessage()
     message["Subject"] = subject
-    message["From"] = f"News Tracker <{sender}>"
+    message["From"] = f"{sender_name} <{sender}>"
     message["To"] = ", ".join(recipients)
     message.set_content("This email needs an HTML-capable reader.")
     message.add_alternative(body_html, subtype="html")

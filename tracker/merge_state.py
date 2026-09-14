@@ -16,10 +16,37 @@ import json
 import sys
 
 
+def merge_watch(ours: dict, theirs: dict) -> dict:
+    """The government watch keeps its own memory in the same file."""
+    merged = dict(theirs)
+
+    # Identifiers of rows already reported. Order is only cosmetic; what
+    # matters is that no run forgets what the other one sent.
+    reported, already = [], set()
+    for key in (theirs.get("seen") or []) + (ours.get("seen") or []):
+        if key not in already:
+            already.add(key)
+            reported.append(key)
+    merged["seen"] = reported[-2000:]
+
+    # For a watched page, the more recently checked snapshot is the truth.
+    pages = dict(theirs.get("pages") or {})
+    for url, snapshot in (ours.get("pages") or {}).items():
+        current = pages.get(url) or {}
+        if snapshot.get("checked", "") >= current.get("checked", ""):
+            pages[url] = snapshot
+    merged["pages"] = pages
+    return merged
+
+
 def merge(ours: dict, theirs: dict) -> dict:
     merged = dict(theirs)
     merged.update({k: v for k, v in ours.items()
-                   if k not in ("seen", "alerted", "dead_models")})
+                   if k not in ("seen", "alerted", "dead_models", "watch")})
+
+    if ours.get("watch") or theirs.get("watch"):
+        merged["watch"] = merge_watch(ours.get("watch") or {},
+                                      theirs.get("watch") or {})
 
     # A bookmark only ever advances, so the higher number is the true one.
     seen = dict(theirs.get("seen", {}))
