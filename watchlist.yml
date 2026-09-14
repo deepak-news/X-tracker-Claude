@@ -285,3 +285,42 @@ sources:
     - {name: India tech policy, q: "MeitY OR \"Ministry of Electronics\" OR UIDAI OR Aadhaar OR DPDP OR \"IT rules\" India OR IAMAI OR Nasscom"}
     - {name: PIB releases, q: "site:pib.gov.in (MeitY OR telecom OR semiconductor OR digital OR IT OR Aadhaar)"}
     - {name: Tech leaders, q: "\"Sundar Pichai\" OR \"Satya Nadella\" OR \"Sam Altman\" OR \"Jensen Huang\" OR \"Mukesh Ambani\" OR \"Nandan Nilekani\" said OR announced"}
+
+
+# ======================================================================
+#  GOVERNMENT WATCH
+#  A separate job with a separate recipient list (WATCH_MAIL_TO).
+#  Nothing here is scored or filtered: every new row, and every change,
+#  is emailed. No AI request is made for any of it.
+# ======================================================================
+watch:
+
+  # Pages that GAIN ROWS. Each row is remembered by its own identifier,
+  # so an order that sits on the page all week is reported once.
+  uploads:
+    - name: DoPT EO Division - today's orders
+      url: "https://doptcirculars.nic.in/EODivisionReport.aspx?Report=1"
+
+    - name: DoPT EO Division - this week
+      url: "https://doptcirculars.nic.in/EODivisionReport.aspx?Report=2"
+
+    # e-Gazette Category 6 is "Extra Ordinary", and lists every ministry
+    # together, so it is filtered down to one. The text below need only be
+    # part of the ministry name as the gazette prints it.
+    - name: e-Gazette - MHA extraordinary
+      category: 6
+      ministry: "Home Affairs"
+
+  # Pages expected to stay IDENTICAL for weeks. Their content is
+  # fingerprinted; when it moves, the lines that changed are emailed.
+  pages:
+    every_minutes: 120     # these change about monthly; hourly is plenty
+    urls:
+      - name: ED - restitution of properties and assets
+        url: "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/"
+
+      - name: ED - statistics
+        url: "https://www.enforcementdirectorate.gov.in/performance/statistics/"
+
+      - name: ED - performance summary
+        url: "https://www.enforcementdirectorate.gov.in/performance/performance-summary/"
