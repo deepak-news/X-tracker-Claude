@@ -5859,13 +5859,13 @@
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-14T15:46:19.971472+00:00",
+  "last_success": "2026-09-14T16:01:43.266693+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
     "bse bharti airtel": 1789068680302,
     "bse black box": 1789050344120,
-    "bse coforge": 1789384568288,
+    "bse coforge": 1789420839966,
     "bse cyient": 1789068497815,
     "bse eternal/zomato": 1789154706058,
     "bse fractal analytics": 1789415508742,
@@ -5904,17 +5904,17 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789399589723,
     "news: consumer internet india": 1789395127448,
-    "news: global ai": 1789400624317,
-    "news: global chips": 1789398072945,
+    "news: global ai": 1789400967317,
+    "news: global chips": 1789398095373,
     "news: global it services": 1789394641797,
     "news: india ai deeptech": 1789399776973,
     "news: india edtech gaming": 1789386137011,
-    "news: india fintech": 1789399562849,
-    "news: india semiconductors": 1789396182302,
+    "news: india fintech": 1789401145132,
+    "news: india semiconductors": 1789397400671,
     "news: india tech policy": 1789394400911,
     "news: india telecom": 1789400499559,
-    "news: indian it majors": 1789398288507,
-    "news: indian it midcaps": 1789395840738,
+    "news: indian it majors": 1789401270626,
+    "news: indian it midcaps": 1789400760878,
     "news: pib releases": 1789396480891,
     "news: tech leaders": 1789397314122,
     "nvidia": 1789398052670,
@@ -5928,14 +5928,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-14T13:46:44.443767+00:00",
+        "checked": "2026-09-14T16:02:13.292007+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-14T13:46:36.574749+00:00",
+        "checked": "2026-09-14T16:02:04.954290+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -6011,7 +6011,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-14T13:46:40.724226+00:00",
+        "checked": "2026-09-14T16:02:08.993657+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
