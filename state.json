@@ -5974,11 +5974,29 @@
         "tech",
         "west"
       ]
+    },
+    {
+      "at": "2026-09-14T18:16:27.066136+00:00",
+      "handle": "News: India fintech",
+      "headline": "Finance Ministry bars charges on UPI transactions up to Rs 2,000",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUXNpRC1kdjhIanFmTjg5SXpCOEVlVHJyVDA3YVB3OW9JekNsaW1TakJXUXZyS0FZMFpGZUpFVE0xOU42X2RCZmtnWW1sZFVjbnNjb3VVNGtHVTc0d2lIaTdIZ0FPSnI3SmdVd0dLMzFubklXejNLckRZSlNHWVlZLWdqQ1BqdjdoaklJM0lmWjctdEU4cTIwc0lmb2FjMWlDdWo5ZjgyMEJLOGh6VnExbjVuOVRWX05LbkZGV1NVSVhfb04wVnBJZm9RVEpVSXNKU283ZzQycnlQd9IB3wFBVV95cUxOVC1oSm5HZzhwN0JiSnI5dEx4bFVPNlhhZ2p4c1Y4enRyZThYU0Vxc2lFYnl5bkRGTlBpVGJsXzVnLTBjMG9XWXZhRWhlcUZPQ3lNM0dOdG95MnBycE91akREM0M0N3BFSTVRdEdrNTVDRkk4M29wNFVoelp2M003SS1jY1NlLXBWTGRpV2E2MjRQNHBPQ1FLWjZfSVNQcFJjS0JVWmswQ0hfdGFadmtKaHFGUHctRU9mMDdMN3dHX3RBcHo1TjlwR203UmI4blkxVWhUMW9VOVVwYkYxODZV?oc=5",
+      "words": [
+        "000",
+        "bars",
+        "charges",
+        "finance",
+        "free",
+        "ministry",
+        "stays",
+        "transactions",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-14T18:01:45.809498+00:00",
+  "last_success": "2026-09-14T18:16:27.066620+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789405812811,
@@ -6023,12 +6041,12 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789399589723,
     "news: consumer internet india": 1789407660002,
-    "news: global ai": 1789405196884,
+    "news: global ai": 1789405418566,
     "news: global chips": 1789405109435,
     "news: global it services": 1789407360637,
     "news: india ai deeptech": 1789404528363,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789407208852,
+    "news: india fintech": 1789408510199,
     "news: india semiconductors": 1789408057883,
     "news: india tech policy": 1789397400990,
     "news: india telecom": 1789408801579,
@@ -6047,14 +6065,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-14T16:02:13.292007+00:00",
+        "checked": "2026-09-14T18:16:56.606295+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-14T16:02:04.954290+00:00",
+        "checked": "2026-09-14T18:16:48.972644+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -6130,7 +6148,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-14T16:02:08.993657+00:00",
+        "checked": "2026-09-14T18:16:52.864222+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
