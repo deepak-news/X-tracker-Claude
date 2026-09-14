@@ -5057,11 +5057,26 @@
         "privacy",
         "roles"
       ]
+    },
+    {
+      "at": "2026-09-14T00:16:05.464229+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic exits ITI due to three chip bills",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUw1Q3ZZRFV0ZlVuOU5MQjlLUGdKTWdmS0lvWnIyYXJJUXJFVW9YeFoyNkFILWk5bzlBWElxM2xwSnNSaUJ0YmcxYkN1TVFCOUE2NHR2SWdPeWM0bXU1d1lUSG51cXZLNmV5NHoyVzhydThRQlFwWUpKbnFwMFoxOU04WlBMZVBwYlVxVlBQLXE1Q3dXNERFLXhHU1pVWXc?oc=5",
+      "words": [
+        "anthropic",
+        "bills",
+        "chip",
+        "iti",
+        "left",
+        "three"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-14T00:01:34.761444+00:00",
+  "last_success": "2026-09-14T00:16:05.464557+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -5104,9 +5119,9 @@
     "lenovo": 1789113648299,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789329521324,
+    "news: big tech platforms": 1789338641384,
     "news: consumer internet india": 1789339332726,
-    "news: global ai": 1789340014225,
+    "news: global ai": 1789344292986,
     "news: global chips": 1789336800823,
     "news: global it services": 1789332480560,
     "news: india ai deeptech": 1789324917565,
