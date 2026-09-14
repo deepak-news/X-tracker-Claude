@@ -6075,11 +6075,47 @@
         "trai",
         "vil"
       ]
+    },
+    {
+      "at": "2026-09-14T20:31:29.779850+00:00",
+      "handle": "News: India fintech",
+      "headline": "India considers opening door to fees on large UPI payments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGRYbko0UFNzQ1pyU0pJN2ZZMS1rTlNULUZNUFhOc1paNmlzQjlPeWNGam1fYXdzdmpyQVBIVnVtZ0NJeHl5MURDNC1laE85NS1hcmVrWUVkTE1NMzZ1Rnc4ekQ1cnV2cEtJU2s0QnlYR2lGVWVWanJtajZvQ1NiQUsxYk96c2g1Q1h6RlZVLWtDbE0wVmlkY0wtQXI3czloMFFqTF8tQ3Q0cnRITjJDbzF1MHVydw?oc=5",
+      "words": [
+        "door",
+        "fees",
+        "large",
+        "made",
+        "opens",
+        "payments",
+        "system",
+        "upi",
+        "via"
+      ]
+    },
+    {
+      "at": "2026-09-14T20:31:29.779850+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Neat partners with Zoho for Cliq platform in meeting rooms",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTldwcWdyTWhPNldnem5PQ2YweEJLMnY4Um1RbTNzTEJfV2JBYzVjTWFUREM4cVlUc2dBcUZTSUZoeDNSa0FuTTZUZk9LT25OTFJHVzlVRjNkNUI5azJNNjNidm9CcmNoeW9raERldWI1dWJ5LXR3dVZWMWRHcU9SajBsVHprbGlMbk5HajJLbVlZN2xGVWNJWDUtSVc2ZFluMDVsQlJpYnYtTGx2Nmpz0gG8AUFVX3lxTFBoX3BVQng1WDM2aGlNemFUYmIwU21WWl9pUkNLRE1kZ3pBTWg1Sk9YRkFBMGhEZWVJZkh1R0J1LXZMVzNOWS1QZUMtcnlWLTAxN200OFBZbjhBZVJ4U2FTcms1ajk1WWxjYTY4VjlpcVF4dk9pMGhIczRXcEVuR2MxQUtGN3YyWDNINk00QkFYZEFkOFJnMWdKd0hxbWx6b0NIdFdFTnZpaEN1UE94RUpxeFU5SU9jdlR1eUE1?oc=5",
+      "words": [
+        "bring",
+        "business",
+        "cliq",
+        "meeting",
+        "neat",
+        "partners",
+        "platform",
+        "rooms",
+        "zoho"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-14T20:16:31.183073+00:00",
+  "last_success": "2026-09-14T20:31:29.780280+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789405812811,
@@ -6125,15 +6161,15 @@
     "news: big tech platforms": 1789410360450,
     "news: consumer internet india": 1789416915430,
     "news: global ai": 1789410360698,
-    "news: global chips": 1789410176140,
-    "news: global it services": 1789416019868,
-    "news: india ai deeptech": 1789404528363,
+    "news: global chips": 1789416041140,
+    "news: global it services": 1789417439377,
+    "news: india ai deeptech": 1789416000126,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789413959901,
+    "news: india fintech": 1789417116494,
     "news: india semiconductors": 1789410276492,
     "news: india tech policy": 1789410476385,
     "news: india telecom": 1789413918019,
-    "news: indian it majors": 1789413860038,
+    "news: indian it majors": 1789416900327,
     "news: indian it midcaps": 1789412189015,
     "news: pib releases": 1789399891060,
     "news: tech leaders": 1789416145035,
@@ -6148,14 +6184,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-14T18:16:56.606295+00:00",
+        "checked": "2026-09-14T20:31:59.334284+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-14T18:16:48.972644+00:00",
+        "checked": "2026-09-14T20:31:51.839220+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -6231,7 +6267,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-14T18:16:52.864222+00:00",
+        "checked": "2026-09-14T20:31:55.562984+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
