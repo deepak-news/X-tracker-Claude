@@ -5712,11 +5712,41 @@
         "rules",
         "safety"
       ]
+    },
+    {
+      "at": "2026-09-14T10:31:35.857942+00:00",
+      "handle": "News: India telecom",
+      "headline": "COAI and UK Government strengthen cooperation on AI and trust",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMktoRnRxNkVxUEhEWkNEVW9ESjlLRFRfM2xjMDhCeWFJM1hRNnpja19LSFZBX0NvN1F4OElKU081dzJtRmFGcUpsbDQtRFIwUlFkd0x2Zm1rdnNjbVlITFBOdURGSjNPWmZVTDVSOHd6Q0IyVWdZY00wMkVWU3dhSDZQNy15ajFCS01xYTg3QkdicjJMb3A5bnpaWHRnNVZaQ1RKMXF3Rm1UZVdYbjBQLdIBsAFBVV95cUxNMktoRnRxNkVxUEhEWkNEVW9ESjlLRFRfM2xjMDhCeWFJM1hRNnpja19LSFZBX0NvN1F4OElKU081dzJtRmFGcUpsbDQtRFIwUlFkd0x2Zm1rdnNjbVlITFBOdURGSjNPWmZVTDVSOHd6Q0IyVWdZY00wMkVWU3dhSDZQNy15ajFCS01xYTg3QkdicjJMb3A5bnpaWHRnNVZaQ1RKMXF3Rm1UZVdYbjBQLQ?oc=5",
+      "words": [
+        "coai",
+        "connectivity",
+        "cooperation",
+        "government",
+        "strengthen",
+        "trust"
+      ]
+    },
+    {
+      "at": "2026-09-14T10:31:35.857942+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Amazon India expands network with 176 new facilities",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmJObWk5YzNETndTQnJfSFJKN3lkSGtycHRyYzZpbllOaDR5UjFDMGVpZmUyM3Zxcm9BM19IWkh5ZTdyNlluYTZxWXNzRTA0REF0MkQzemFWdFpJd3FYSjdGRGJxdW43ZnRLTElyX1Zzbl9SV05yYTh1MWlJaTNGdUVuZ0xFZ3RIN2tF?oc=5",
+      "words": [
+        "176",
+        "adds",
+        "amazon",
+        "expansion",
+        "facilities",
+        "network"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-14T10:16:12.349223+00:00",
+  "last_success": "2026-09-14T10:31:35.858424+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789142408885,
@@ -5759,27 +5789,27 @@
     "lenovo": 1789378686232,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789380830797,
+    "news: big tech platforms": 1789381605737,
     "news: consumer internet india": 1789380266469,
-    "news: global ai": 1789380387340,
+    "news: global ai": 1789381153262,
     "news: global chips": 1789377600640,
-    "news: global it services": 1789380000389,
+    "news: global it services": 1789381132026,
     "news: india ai deeptech": 1789377334224,
     "news: india edtech gaming": 1789369107961,
-    "news: india fintech": 1789380396550,
-    "news: india semiconductors": 1789380117479,
-    "news: india tech policy": 1789379990793,
-    "news: india telecom": 1789379515891,
-    "news: indian it majors": 1789378200341,
+    "news: india fintech": 1789381438847,
+    "news: india semiconductors": 1789381288179,
+    "news: india tech policy": 1789381288179,
+    "news: india telecom": 1789381417950,
+    "news: indian it majors": 1789381434773,
     "news: indian it midcaps": 1789373700085,
-    "news: pib releases": 1789375020660,
-    "news: tech leaders": 1789380509648,
+    "news: pib releases": 1789377935902,
+    "news: tech leaders": 1789380537779,
     "nvidia": 1789057835996,
     "openai": 1789344000517,
     "pib communications": 2308982,
     "pib meity": 2309984,
     "pib science and technology": 2309719,
     "samsung": 1788915600769,
-    "trai": 1789045260442
+    "trai": 1789381288138
   }
 }
