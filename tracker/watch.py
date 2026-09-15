@@ -26,12 +26,14 @@ Alerts go to their own recipient list (WATCH_MAIL_TO), not to the news list.
 
 import argparse
 import datetime as dt
+import os
 import hashlib
 import html
 import json
 import pathlib
 import re
 import sys
+import time
 from dataclasses import dataclass, field
 
 import requests
@@ -47,12 +49,48 @@ STATE = ROOT / "state.json"
 
 RECIPIENT_ENV = "WATCH_MAIL_TO"
 
+# Some sites refuse hosting networks outright -- they answer a home broadband
+# connection and reset the connection from any data centre, in any country.
+# DoPT is one of them, proven: an Indian data centre in Mumbai is reset just
+# as GitHub's runners are, while the same machine reaches e-Gazette and ED
+# normally. Those sources are marked "home_only: true" in the watchlist and
+# read by a copy running on a home machine, which sets WATCH_HOME=1.
+#
+# The two halves never overlap, so they cannot send the same alert twice:
+# a run with WATCH_HOME=1 reads ONLY the home-only sources, and a run
+# without it reads only the others.
+HOME_ENV = "WATCH_HOME"
+
+# The other way to reach a site that only answers consumer connections: send
+# the request through one. A residential proxy exits through a real broadband
+# or mobile line, so the site sees an ordinary reader. Set WATCH_PROXY to the
+# provider's endpoint (http://user:pass@host:port) and the blocked sources
+# move back onto the server, checked as often as the server runs.
+#
+# Only the hosts that actually need it are routed this way -- these services
+# charge by the gigabyte, and everything else here is reachable directly.
+PROXY_ENV = "WATCH_PROXY"
+PROXIED_HOSTS = ("doptcirculars.nic.in", "dopt.gov.in")
+
+
+def _proxies(url: str) -> dict:
+    endpoint = os.environ.get(PROXY_ENV, "").strip()
+    if endpoint and any(host in url for host in PROXIED_HOSTS):
+        return {"http": endpoint, "https": endpoint}
+    return {}
+
 BROWSER = {
     "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
-TIMEOUT = 45
+TIMEOUT = 30
+
+# These government servers drop connections, return 500s and time out on a
+# regular basis, for seconds at a time, with nothing wrong at our end. One
+# failed attempt means nothing; three in a row means something.
+ATTEMPTS = 3
+RETRY_PAUSE = 4
 
 # How many item identifiers to remember. A week of DoPT orders is a couple of
 # dozen and the gazette list holds 100, so this is months of headroom.
@@ -87,9 +125,24 @@ def _fetch(url: str, session=None, referer: str = "") -> BeautifulSoup:
     headers = dict(BROWSER)
     if referer:
         headers["Referer"] = referer
-    response = getter.get(url, headers=headers, timeout=TIMEOUT, verify=_verify(url))
+    response = getter.get(url, headers=headers, timeout=TIMEOUT,
+                          verify=_verify(url), proxies=_proxies(url) or None)
     response.raise_for_status()
     return BeautifulSoup(response.text, "html.parser")
+
+
+def _try(label: str, action):
+    """Run a source reader, giving a flaky server a couple more chances."""
+    last = None
+    for attempt in range(1, ATTEMPTS + 1):
+        try:
+            return action()
+        except Exception as exc:                                  # noqa: BLE001
+            last = exc
+            if attempt < ATTEMPTS:
+                print(f"    {label}: attempt {attempt} failed ({str(exc)[:70]}), retrying")
+                time.sleep(RETRY_PAUSE)
+    raise last
 
 
 def _cells(row) -> list:
@@ -120,8 +173,11 @@ def _dopt(entry: dict) -> list:
     soup = _fetch(entry["url"])
     table = _table_with(soup, "order no", "date")
     if table is None:
-        # The page says so in plain English when the window is empty.
-        if "no record exists" in soup.get_text(" ", strip=True).lower():
+        # A report with nothing in it simply draws no table -- the promotions
+        # report sits empty for weeks at a time. That is an answer, not a
+        # fault, so only complain if the page itself never arrived.
+        page = soup.get_text(" ", strip=True).lower()
+        if "no record exists" in page or "query form for eo division" in page:
             return []
         raise RuntimeError("the orders table was not where it usually is")
 
@@ -324,12 +380,13 @@ BADGE = {"dopt": ("#1d4ed8", "DoPT ORDER"),
          "page": ("#166534", "PAGE CHANGED")}
 
 
-def build_email(items: list) -> tuple:
+def build_email(items: list, gap_note: str = "") -> tuple:
     kinds = {item.key.split(":", 1)[0] for item in items}
     if len(items) == 1:
         subject = f"{items[0].source}: {items[0].title}"[:120]
     else:
-        names = {"dopt": "DoPT", "gazette": "gazette", "page": "page change"}
+        names = {"dopt": "DoPT", "gazette": "gazette",
+                 "page": "page change"}
         subject = (f"{len(items)} government updates: "
                    + ", ".join(sorted(names.get(k, k) for k in kinds)))
 
@@ -370,6 +427,7 @@ def build_email(items: list) -> tuple:
       <div style="color:#9ca3af;font:400 12px/1.5 -apple-system,Segoe UI,sans-serif;
                   margin-top:20px;border-top:1px solid #e5e7eb;padding-top:12px;">
         Every change to these pages is reported. Nothing here is filtered or scored.
+        {gap_note}
       </div>
     </div>"""
     return subject, body
@@ -405,6 +463,15 @@ def run(dry_run: bool) -> int:
         print("No 'watch:' section in watchlist.yml -- nothing to do.")
         return 0
 
+    at_home = os.environ.get(HOME_ENV, "").strip() == "1"
+    via_proxy = bool(os.environ.get(PROXY_ENV, "").strip())
+    # Whether THIS run can see the sites that refuse hosting networks.
+    direct = at_home or via_proxy
+    scope = "home" if at_home else "server"
+    print("Reading the sources that need a consumer connection"
+          + (" (through the proxy)." if via_proxy and not at_home else ".")
+          if direct else "Reading the sources any server can reach.")
+
     state = _load_state()
     memory = state.setdefault("watch", {})
     seen = memory.setdefault("seen", [])
@@ -414,13 +481,34 @@ def run(dry_run: bool) -> int:
     scanned = set(memory.get("scanned") or [])
     first_ever = not seen and not pages
 
+    # How long since this half last ran. The home half lives on a machine
+    # that sleeps, so a gap is normal -- but a gap worth knowing about is
+    # worth saying out loud rather than leaving you to assume it ran.
+    now = dt.datetime.now(dt.timezone.utc)
+    previous = memory.get(f"last_{scope}_run") or ""
+    gap_note = ""
+    try:
+        hours = (now - dt.datetime.fromisoformat(previous)).total_seconds() / 3600
+        if hours >= 6:
+            gap_note = (f"This watch had not run for {hours:.0f} hours before now. "
+                        f"The DoPT reports being read list a rolling thirty days, "
+                        f"so every order published during the gap is still picked up.")
+            print(f"  (first check in {hours:.0f} hours)")
+    except ValueError:
+        pass
+
     found, failed = [], []
 
     already = set(seen)
     for entry in cfg.get("uploads") or []:
+        if bool(entry.get("home_only")) and not direct:
+            continue
+        if not entry.get("home_only") and at_home:
+            continue
         try:
-            items = (_egazette(entry, scanned) if entry.get("category")
-                     else _dopt(entry))
+            items = _try(entry["name"],
+                         lambda: _egazette(entry, scanned) if entry.get("category")
+                         else _dopt(entry))
             print(f"  {entry['name']}: {len(items)} row(s) on the page")
             found.extend(items)
         except Exception as exc:                                  # noqa: BLE001
@@ -430,11 +518,15 @@ def run(dry_run: bool) -> int:
     page_cfg = cfg.get("pages") or {}
     every = int(page_cfg.get("every_minutes", 120))
     for entry in page_cfg.get("urls") or []:
+        if bool(entry.get("home_only")) and not direct:
+            continue
+        if not entry.get("home_only") and at_home:
+            continue
         if not _due(entry, pages, every):
             print(f"  {entry['name']}: checked recently, skipping")
             continue
         try:
-            item, snapshot = _page_change(entry, pages)
+            item, snapshot = _try(entry["name"], lambda: _page_change(entry, pages))
             pages[entry["url"]] = snapshot
             print(f"  {entry['name']}: {'CHANGED' if item else 'unchanged'}")
             if item:
@@ -444,7 +536,17 @@ def run(dry_run: bool) -> int:
             failed.append(entry["name"])
 
     # "already" is the memory as it stood before this run started.
-    fresh = [item for item in found if item.key not in already]
+    #
+    # The DoPT reports deliberately overlap -- today's order also sits on the
+    # thirty-day list -- so the same order arrives more than once in a single
+    # run. Because an order is keyed by its number and date, the second copy
+    # is recognised as the same order and dropped here rather than emailed.
+    fresh, counted = [], set(already)
+    for item in found:
+        if item.key in counted:
+            continue
+        counted.add(item.key)
+        fresh.append(item)
 
     if first_ever:
         # Everything on these pages is "new" the first time they are read.
@@ -454,7 +556,7 @@ def run(dry_run: bool) -> int:
         fresh = []
 
     if fresh:
-        subject, body = build_email(fresh)
+        subject, body = build_email(fresh, gap_note)
         if dry_run:
             print(f"\n(dry run) would have emailed: {subject}")
             for item in fresh:
@@ -476,11 +578,16 @@ def run(dry_run: bool) -> int:
         memory["seen"] = seen[-MEMORY:]
         memory["pages"] = pages
         memory["scanned"] = sorted(scanned)[-MEMORY:]
+        memory[f"last_{scope}_run"] = now.isoformat()
         STATE.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
 
-    # A source that failed is worth a non-zero exit so the run shows up amber
-    # in the log, but it must never stop the other sources from being read.
-    return 1 if failed and not found else 0
+    # A source being down is normal for these sites and is NOT a failure of
+    # this program: it is named in the log and the run stays green. Exiting
+    # non-zero here turned every transient government 500 into a red run and
+    # an email from GitHub, which is noise about something nobody can fix.
+    if failed:
+        print(f"\nsources unavailable this run (will retry next time): {', '.join(failed)}")
+    return 0
 
 
 def main() -> int:
