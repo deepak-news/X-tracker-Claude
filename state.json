@@ -6282,11 +6282,28 @@
         "sons",
         "tata"
       ]
+    },
+    {
+      "at": "2026-09-15T05:01:48.921644+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Motilal Oswal partners with Zoho to unify customer records",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZENxakJPa1FhRG91b2Z0aFRLanJ5Q0FEUTY1anBvb0EyUld2ejExXzA2NjVQaG1BNEYzWGJ1aXp1UnJ3SzZUdFNOSl8yRndUc0tSVW41bi0wSUZOdzk0SlRsTDBCdDl3bjRfakp1d0JSMDdKbXlnY0hMNGJOYjRyREJzTGcyanRyc0ppSHl4YW4tUkxZSy1KQVBlaGpyUQ?oc=5",
+      "words": [
+        "customer",
+        "motilal",
+        "oswal",
+        "plus",
+        "records",
+        "taps",
+        "unify",
+        "zoho"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T04:46:12.687171+00:00",
+  "last_success": "2026-09-15T05:01:48.922132+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789405812811,
@@ -6329,19 +6346,19 @@
     "lenovo": 1789378686232,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789447197911,
+    "news: big tech platforms": 1789448220467,
     "news: consumer internet india": 1789446605239,
     "news: global ai": 1789444463378,
     "news: global chips": 1789441480614,
-    "news: global it services": 1789443060433,
-    "news: india ai deeptech": 1789446981366,
+    "news: global it services": 1789443411109,
+    "news: india ai deeptech": 1789447963196,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789446825599,
+    "news: india fintech": 1789448184979,
     "news: india semiconductors": 1789447297041,
     "news: india tech policy": 1789444627956,
-    "news: india telecom": 1789445746401,
-    "news: indian it majors": 1789447245693,
-    "news: indian it midcaps": 1789446285897,
+    "news: india telecom": 1789447828931,
+    "news: indian it majors": 1789447472083,
+    "news: indian it midcaps": 1789447133388,
     "news: pib releases": 1789447020396,
     "news: tech leaders": 1789445208630,
     "nvidia": 1789398052670,
@@ -6355,14 +6372,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-15T02:47:12.484168+00:00",
+        "checked": "2026-09-15T05:02:19.331571+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-15T02:47:04.063077+00:00",
+        "checked": "2026-09-15T05:02:11.357924+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -6438,7 +6455,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-15T02:47:08.178336+00:00",
+        "checked": "2026-09-15T05:02:15.435597+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
