@@ -6563,11 +6563,41 @@
         "retain",
         "singh"
       ]
+    },
+    {
+      "at": "2026-09-15T08:01:33.272535+00:00",
+      "handle": "News: India telecom",
+      "headline": "Vodafone Idea Q1FY27 revenue rises 6% to Rs 11,689 crore",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTS14UE1JZHo4T2d3ZmZyeEdPT1MycG9jVTIxdUxzcnhGOW56UDBxeVFPYUJrUG5sV2d6QzQ3UGUzOUlWcGZhSTBjSEFzY2pmSEFvb3JlY1hrZGliOHFfTGxmMmxsbk9uMm1faTRWRW5PRkZaODYtOTAyeFF2c01JbDlZdXNtbDZOWC1oTlhPbURIZTktMHdscnNUX3AtbzZRYWFxXzdkdmF0bFRUTVNTcA?oc=5",
+      "words": [
+        "689",
+        "idea",
+        "q1fy27",
+        "results",
+        "revenue",
+        "vodafone"
+      ]
+    },
+    {
+      "at": "2026-09-15T08:01:33.272535+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Flipkart creates over 2.5 lakh seasonal jobs across India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFBlZjl1al84ZS1STWlRempyZ2ktUnNkMkZUd0xrQ1NwS3B2RVVVUjhvTGlnTjRESkItOV9jZFg2MndOTTRoZkJ2VzFPT2ZfeTVVa3pnbXZPNWlDcGlHcGI1RnVsMnlEbmJfRXFfRDlXUTBkdUVYbjRJaXFvR3NWbE9UcjkyRFdsX0QwaldNOEpIOGPSAZgBQVVfeXFMTmVRakRpa1VKYUowLVlvMmZKV2hnTnl6WTJvY1oyVWwza3NrODNQdk50aW95QnpYSE1EdjNxT3lWVlBNS2pJS0FwclJZQzh5TWhUZUhMR3RLczA0cEVjS2I5ZTJFS1dYWFFCYWl2MEtQTEVSczlicGdzSWR4X21tZmNCQnZnTnhhdUVtOEpINnVYY3hCbWhGUV8?oc=5",
+      "words": [
+        "across",
+        "creates",
+        "flipkart",
+        "jobs",
+        "lakh",
+        "seasonal"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T07:47:10.460066+00:00",
+  "last_success": "2026-09-15T08:01:33.272983+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789405812811,
@@ -6611,18 +6641,18 @@
     "lenovo": 1789456794113,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789457807619,
-    "news: consumer internet india": 1789457052537,
+    "news: big tech platforms": 1789458849551,
+    "news: consumer internet india": 1789458427401,
     "news: global ai": 1789453509377,
     "news: global chips": 1789444575706,
     "news: global it services": 1789452276117,
     "news: india ai deeptech": 1789457238366,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789457971323,
+    "news: india fintech": 1789458987337,
     "news: india semiconductors": 1789456337479,
-    "news: india tech policy": 1789454950701,
-    "news: india telecom": 1789455493524,
-    "news: indian it majors": 1789456909821,
+    "news: india tech policy": 1789458268956,
+    "news: india telecom": 1789459011728,
+    "news: indian it majors": 1789457020799,
     "news: indian it midcaps": 1789456242182,
     "news: pib releases": 1789457753639,
     "news: tech leaders": 1789455414423,
