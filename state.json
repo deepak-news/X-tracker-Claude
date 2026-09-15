@@ -2,19 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-09T12:46:28.586149+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTGxYQ2w1bmEzVmctTnpaNmdrVDlOM3ExU09vbHgzWWs2U0t2OVJPeUwzZU1hbXQ5cVNFRUZLRGtyWjdDUGxlWUpObkFmRVpxaUwtdkVjQ2tUSG1jOU1YWG9xQVpEZ1VDR0ctVUlCakF0UW9hLVlKM3p4YjB6eGFTbEd6b0NNX1NwdjljdGdqejFQbGww?oc=5",
-      "words": [
-        "agentic",
-        "ainxt",
-        "atom",
-        "launches",
-        "npci",
-        "platforms",
-        "two"
-      ]
-    },
-    {
-      "at": "2026-09-09T12:46:28.586149+00:00",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWThCdDNPdHlmV2hCSEwxdmxRaXlNcUxlOVZ6Y1Nvc2JjdGJRLWZSWGE5X1BMclRlRTdDNVBtMk5jLVUydGtIMTM4Z05aaUI3TllNZlVVc0M5ZlVuc1VZcy14OGFHczByX2N3NkdMeUtvQi1LVlBoTnhxSGhObENVaUtWamNGcWtzZTM0MzRDdlB5ZWozYUFSdDFfYVE5NnRoMGh6UW01b0o0T2FSd1hBTHllOXhwNlZJT2FtQlRlN3ZocFl5UFJkN1JRY1lvN2JCUEHSAdcBQVVfeXFMT1R2bTdPdjF0enVab0RlY1FYeW9OQkZLVzgxeThmVWNxUDNJZTNzWFBrRmthaUkxVlpjQjFEVkxHOE0tUnU4b1hlck80Nm1hN1NLM09tZnBwSXNHb0FiQ05HRFFZM2Q0dGl6QlZlcW9UYnRfeklMUlJtU0p0alJGY1RiYUtZdHRrN2NXYjRSQlRGOWRLS2M3aElfa3ZxVDlKdXJPZUdIVExKcld1QWtSQzlDZ19DQldMZWRGZV9pc0J1ZERMNmpNZ0dPZnVNWGZOX3lWWkhyQzg?oc=5",
       "words": [
         "300",
@@ -7253,11 +7240,29 @@
         "tightens",
         "violations"
       ]
+    },
+    {
+      "at": "2026-09-15T19:01:39.771516+00:00",
+      "handle": "News: India fintech",
+      "headline": "PhonePe CEO Sameer Nigam says 96% UPI transactions remain free",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSG9iNVBhWmxDc0c1NnlKd1FxcW9PdDBLeFZfa1ZEdWpLclVEWU9QNTZWUFNwTm5JajlfenZUdTZuYTVNZG5WODFUa2xqUGljVjdET2N4SG1xRVFXOHZ3S2JPUThmdVJlR1JQWElZb0k5MWNodW5LQndYcEtiR0I4clZPbEs4SFYybXN3UkNFaHRnRGRfVkNfcXV6RzFmRXNvLTNkSkRYcmNhcWtqMUVfSjJsd21LWHVWTU5XYXFYUi1udkZhbmt5eFlQYmHSAdIBQVVfeXFMT3MzU3N1bHQ1X1NoTXBuZURTQ3RHWFRmbzAzRzgyY0o5eFFkOE1YMlVZTTJJblNtc3dRTkl5MDVuWDhsRFhpRktHLXE4NjlveFkxcEpkUmlTd2o2SklMN2ZwXzI0S1VpbHlDQ21HNGJyUXpTVm5RaVk5dVNFU2VYY3hBMkxXR0ZOa0xDMzA4Q2NYdWlZRHN2cGNQX1NyVEswdXpoMHJkNTRuZmhXSFo0S01IcXhicGRWMWdULWJEYXV5SHhvSzN6bmlnUC1Qak43WVpn?oc=5",
+      "words": [
+        "free",
+        "limited",
+        "mdr",
+        "nigam",
+        "phonepe",
+        "remain",
+        "sameer",
+        "transactions",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T18:46:14.068608+00:00",
+  "last_success": "2026-09-15T19:01:39.772026+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7301,14 +7306,14 @@
     "lenovo": 1789456794113,
     "meta": 1789485957052,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789496520172,
+    "news: big tech platforms": 1789497998803,
     "news: consumer internet india": 1789494817929,
     "news: global ai": 1789495343773,
-    "news: global chips": 1789495968402,
+    "news: global chips": 1789498200860,
     "news: global it services": 1789496265032,
     "news: india ai deeptech": 1789486994503,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789496781726,
+    "news: india fintech": 1789498447048,
     "news: india semiconductors": 1789496212528,
     "news: india tech policy": 1789495201726,
     "news: india telecom": 1789490525581,
