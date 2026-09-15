@@ -298,15 +298,45 @@ watch:
   # Pages that GAIN ROWS. Each row is remembered by its own identifier,
   # so an order that sits on the page all week is reported once.
   uploads:
-    - name: DoPT EO Division - today's orders
-      url: "https://doptcirculars.nic.in/EODivisionReport.aspx?Report=1"
 
-    - name: DoPT EO Division - this week
-      url: "https://doptcirculars.nic.in/EODivisionReport.aspx?Report=2"
+    # ---------------------------------------------------------------
+    #  DoPT EO DIVISION ORDERS
+    #  Read only from the Mac. DoPT accepts a home broadband line and
+    #  refuses every hosting network in every country, so GitHub can
+    #  never see these -- "home_only: true" is what stops it trying.
+    #
+    #  All four come off the same menu at doptcirculars.nic.in/Report.aspx.
+    #  An order is remembered by its order number and date, so the same
+    #  order appearing on two of these reports is still emailed once.
+    #
+    #  The first is today's list -- the fast tripwire. The other three
+    #  each carry a ROLLING THIRTY DAYS (the page prints the window at
+    #  the top). That is the safety net: if the Mac is shut for a
+    #  fortnight, every order from those two weeks is still sitting on
+    #  the page when it wakes, and is emailed then.
+    # ---------------------------------------------------------------
+    - name: DoPT EO - today's orders
+      url: "https://doptcirculars.nic.in/EODivisionReport.aspx?Report=1"
+      home_only: true
+
+    - name: DoPT EO - appointments and extensions (30 days)
+      url: "https://doptcirculars.nic.in/EODivisionReport.aspx?Report=7"
+      home_only: true
+
+    - name: DoPT EO - other orders (30 days)
+      url: "https://doptcirculars.nic.in/EODivisionReport.aspx?Report=6"
+      home_only: true
+
+    # Usually empty for weeks at a time. It costs one request and is the
+    # only category the report above does not promise to carry.
+    - name: DoPT EO - promotions (30 days)
+      url: "https://doptcirculars.nic.in/EODivisionReport.aspx?Report=5"
+      home_only: true
 
     # e-Gazette Category 6 is "Extra Ordinary", and lists every ministry
     # together, so it is filtered down to one. The text below need only be
     # part of the ministry name as the gazette prints it.
+    # No "home_only", so GitHub reads this one around the clock.
     - name: e-Gazette - MHA extraordinary
       category: 6
       ministry: "Home Affairs"
