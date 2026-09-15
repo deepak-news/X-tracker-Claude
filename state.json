@@ -7077,11 +7077,46 @@
         "these",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-15T15:03:23.253037+00:00",
+      "handle": "News: India fintech",
+      "headline": "Credit cards linked to UPI exempt from new 0.4% MDR",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPam9xN1c0MERxSFJ4c252SDh5ZmZaVnRLQjFROXZnSWF0UDEybEd3ejgxR3Q4a3NsQkR3NWs5d0pvcHh6UnhpMUZOLWZRM1ZoaVpQcGtidnhrQnREclVkUEJNT1g2dDRCekl5a0U3V0hBNE12cklsRzg5aEtuM2VVNF85eV9wU2RqdnhLSnVPdlFtSUpPY0h2XzVSOTNkRG12NFk5cDc4N2VZZjdQWF9B?oc=5",
+      "words": [
+        "cards",
+        "clarifies",
+        "credit",
+        "exempt",
+        "govt",
+        "linked",
+        "mdr",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-15T15:03:23.253037+00:00",
+      "handle": "News: India fintech",
+      "headline": "Government details revenue sharing formula for UPI MDR collections",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSl91TklOZExRbzRwem9LemtQOTlVSXJ0RkVJWVlrNk9fTlpYN0ZZRVpORTNJLS1WUDRMLTRHSHZWaElKaEV6V2lLak84VzF1ejVnWFpCWjdJRUhYanp3STI5eGVTVHNUZ0swaXRER21FampPUGJZNzRPVWdZX2cxMHYzaTB3ZGtiV2JmWThETThKZ29mQ0JXdnktbFo3U3V4bG1sS1dPazNGOVJwR1p2eXFHU1BwcXZ4aG5BdnBEZUMwejRVbklsc2xhd3NKd1ZveEIwd1BjQWRuUEdVbUpwVlRn0gHnAUFVX3lxTE91cV80aS1MOC0wOWt0eUhVb3B6V25rY0FfTENpMW1SY0tPMGU1NU9EWldSYkpiTVd5SVJpbFVRNGxHTXlzbzFVWmlzR2dUd25QZXJyVTBsdS05RHA0NlVybVhuZk5QTGt3S2RLYV9iNGVlR1BJNlI4SjFuaTdYRjZ5R1FFUTJOZjJUS0sxbVNiazgzQmxvZXh1THV3OExIMllDT3JGdExGbVdYaXZOdTZtUVQtTFhxa1NoRzVzR09nbFRHRVRtd1UxQ3BJX0NXLWZYZXJ5dl9VUTQ1dndyVUhwbTlXZ3dPOA?oc=5",
+      "words": [
+        "acquirers",
+        "apps",
+        "banks",
+        "get",
+        "issuer",
+        "mdr",
+        "merchant",
+        "revenue",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T14:47:12.712433+00:00",
+  "last_success": "2026-09-15T15:03:23.253687+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7126,20 +7161,20 @@
     "meta": 1788894051644,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789480441304,
-    "news: consumer internet india": 1789483034391,
+    "news: consumer internet india": 1789483645106,
     "news: global ai": 1789482295798,
     "news: global chips": 1789480800809,
     "news: global it services": 1789482550853,
     "news: india ai deeptech": 1789480328785,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789483094507,
-    "news: india semiconductors": 1789481788837,
+    "news: india fintech": 1789483826687,
+    "news: india semiconductors": 1789483524805,
     "news: india tech policy": 1789477753627,
     "news: india telecom": 1789483239245,
     "news: indian it majors": 1789479007289,
     "news: indian it midcaps": 1789477680322,
     "news: pib releases": 1789480920929,
-    "news: tech leaders": 1789478485252,
+    "news: tech leaders": 1789480560963,
     "nvidia": 1789462842340,
     "openai": 1789387200931,
     "pib communications": 2310616,
