@@ -6491,11 +6491,63 @@
         "hfcl",
         "worth"
       ]
+    },
+    {
+      "at": "2026-09-15T07:02:01.937868+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "PM Modi to open SEMICON India 2026 for chip projects",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjkzcGlydDdfNU5OOFFUal8xVVM3LXMwcW81S1JtYUhzQk93SVVmaFpsZGpJQmhfS0tiMGo5ZUJPWWhHd0xndGh1bkVoSk12YllONERiR0VNSlJndHNsN0d1SGp3R3hiMEE1ZnVuSF9LbUQyYUNQbXk3dnc4eUFZMkdsLXhFd3liUlpQLXg5d0RwM0NDSzhtRDhBTnNySVdjVFJHRDVlWFpGSGRuNmFWT21IeHVOQdIBuwFBVV95cUxPNDVTZnVpenZIX1lBajZPMEJOOUVsQThKRF9uWGljM29yZm5jOHNNY3NESGJheFNhNW45cXJLQVJXMkdFSnlaWHFMNGd5OXl0LXhNTnhielNMSDNQY1pWc2RDV0V5MnBmSnpZbTFhSDRTblpFR3M4LS1kNmF1cGZ2M0JWZVM3Sl9mN1o5ZkpfRGJLRUpNN2ZDendkUVJLX2sxM295U3BFZ0dxaXZraG5fMHp5MDRhNEZfd19N?oc=5",
+      "words": [
+        "2026",
+        "chip",
+        "lakh",
+        "modi",
+        "open",
+        "projects",
+        "semicon",
+        "shape",
+        "take"
+      ]
+    },
+    {
+      "at": "2026-09-15T07:02:01.937868+00:00",
+      "handle": "News: India fintech",
+      "headline": "Yugal Tiwari joins BharatPe as chief product and marketing officer",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM2QzNU52dkRFbjRRaDBnODZTVEhOb25jd2JUMURoWE9TVG5LYkNzYW5zUXJTTVUtWFIzMGpuRkp0YldOX3RrNE40UVNkbkRZbkw2aU1TWjRVVDVGcWV0cXNQbmlhWHB5bF9idEt0X21OXzNrWmdidlVYZENqMk1YRzRiYlpxc1VMMDc4MHhaeDBKMnJQTlo2NEdMVVdXeENReHBB?oc=5",
+      "words": [
+        "bharatpe",
+        "chief",
+        "joins",
+        "marketing",
+        "officer",
+        "product",
+        "tiwari",
+        "yugal"
+      ]
+    },
+    {
+      "at": "2026-09-15T07:02:01.937868+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "West Bengal minister launches semiconductor unit in Kolkata",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczRXSkJla0ktbFlWZV9SbkkxQ2VmN1NhbHI0NTJHekx6NDlYNTBqRE1LUnRIWmxfbXMyOGhCNWRlc3l6WlBBMDFYQnlsZGpuWWpyZzkwRDJwUnRGVFVIMlVnSWFsN3Vzbk94S1o0M1huMk5tTlhzRUswSUJ5VzNjOUdxYlJaTVY2OFNabktFN2NVdmctZ255Nmh2dTU1d3psM1kyVQ?oc=5",
+      "words": [
+        "bengal",
+        "csir",
+        "kolkata",
+        "launches",
+        "minister",
+        "semiconductor",
+        "unit",
+        "wing"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T06:46:18.149615+00:00",
+  "last_success": "2026-09-15T07:02:01.938574+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789405812811,
@@ -6539,17 +6591,17 @@
     "lenovo": 1789378686232,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789453448661,
+    "news: big tech platforms": 1789454759116,
     "news: consumer internet india": 1789449606880,
     "news: global ai": 1789453509377,
     "news: global chips": 1789444575706,
     "news: global it services": 1789452276117,
-    "news: india ai deeptech": 1789453155726,
+    "news: india ai deeptech": 1789455478796,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789453481835,
-    "news: india semiconductors": 1789453516186,
-    "news: india tech policy": 1789453852617,
-    "news: india telecom": 1789453695210,
+    "news: india fintech": 1789455120660,
+    "news: india semiconductors": 1789455449348,
+    "news: india tech policy": 1789454950701,
+    "news: india telecom": 1789454970289,
     "news: indian it majors": 1789454460724,
     "news: indian it midcaps": 1789453200373,
     "news: pib releases": 1789451400829,
@@ -6565,14 +6617,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-15T05:02:19.331571+00:00",
+        "checked": "2026-09-15T07:03:06.303042+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-15T05:02:11.357924+00:00",
+        "checked": "2026-09-15T07:02:58.867761+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -6648,7 +6700,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-15T05:02:15.435597+00:00",
+        "checked": "2026-09-15T07:03:02.758711+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
