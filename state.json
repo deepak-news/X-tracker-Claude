@@ -6111,11 +6111,27 @@
         "rooms",
         "zoho"
       ]
+    },
+    {
+      "at": "2026-09-15T01:01:43.540463+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Zoho launches Catalyst 3.0 for streamlined AI app deployment",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlVpal8tWnJPOWVZdXBXc0Y2QkFyTVc3S2ZsSUFxVUtxRzdkOE44OUN4THdDOVZxOGNQcl9aM0lMQ09UVl82dlJndDAwdDBPeWdvcjgxRkxySDEzMkFjY0F0NWJsNDdWa0QzNUticm1RLVAtLXJfRzRxQlN6LW9SVXZGa0pVUjJTcmtaaXRiWlFJeEJQNkdCaEw3LUxnd3FsMlN0V2tNbkN3Y0I0M0tzUjlPM0RoOGtFRk1zbmJn?oc=5",
+      "words": [
+        "aims",
+        "app",
+        "catalyst",
+        "deployment",
+        "developers",
+        "streamline",
+        "zoho"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T00:46:11.828643+00:00",
+  "last_success": "2026-09-15T01:01:43.540819+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789405812811,
@@ -6162,10 +6178,10 @@
     "news: consumer internet india": 1789429837991,
     "news: global ai": 1789425805179,
     "news: global chips": 1789432171974,
-    "news: global it services": 1789424392340,
-    "news: india ai deeptech": 1789417781822,
+    "news: global it services": 1789433100229,
+    "news: india ai deeptech": 1789428835269,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789430951919,
+    "news: india fintech": 1789433012705,
     "news: india semiconductors": 1789428292266,
     "news: india tech policy": 1789418943826,
     "news: india telecom": 1789432200685,
