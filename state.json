@@ -7244,7 +7244,7 @@
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T17:01:52.916844+00:00",
+  "last_success": "2026-09-15T17:16:20.636530+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7284,12 +7284,12 @@
     "bse vodafone idea": 1789481680631,
     "bse wipro": 1788971859134,
     "bse zaggle": 1788981416807,
-    "google": 1789489800541,
+    "google": 1789491600464,
     "lenovo": 1789456794113,
     "meta": 1789485957052,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789485228705,
-    "news: consumer internet india": 1789487833118,
+    "news: consumer internet india": 1789491018789,
     "news: global ai": 1789488254778,
     "news: global chips": 1789490203200,
     "news: global it services": 1789490875357,
@@ -7303,7 +7303,7 @@
     "news: indian it midcaps": 1789485840231,
     "news: pib releases": 1789490479639,
     "news: tech leaders": 1789485794221,
-    "nvidia": 1789462842340,
+    "nvidia": 1789491359747,
     "openai": 1789387200931,
     "pib communications": 2310616,
     "pib meity": 2309984,
@@ -7314,14 +7314,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-15T15:16:44.420721+00:00",
+        "checked": "2026-09-15T17:17:43.347429+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-15T15:16:36.824155+00:00",
+        "checked": "2026-09-15T17:17:35.651419+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -7397,7 +7397,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-15T15:16:40.583524+00:00",
+        "checked": "2026-09-15T17:17:39.545995+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
