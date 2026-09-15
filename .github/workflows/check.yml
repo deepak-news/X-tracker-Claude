@@ -85,17 +85,35 @@ jobs:
           # moves forward -- so it is combined by meaning rather than merged
           # as text. Rebasing it used to fail the whole run on a clash, which
           # threw away that run's progress and made it re-send everything.
-          for attempt in 1 2 3; do
-            git fetch origin main
+          #
+          # Every command that talks to GitHub is guarded. A step here runs
+          # under "bash -e", so an unguarded failure kills the whole step on
+          # the spot -- which is exactly how a single HTTP 504 from GitHub
+          # once defeated this retry loop on its first pass.
+          for attempt in 1 2 3 4 5; do
+            [ "$attempt" -gt 1 ] && sleep $(( (attempt - 1) * 15 ))
+
+            git fetch origin main || { echo "fetch failed (attempt $attempt)"; continue; }
             git checkout -- state.json 2>/dev/null || true
-            git reset --hard origin/main --quiet
+            git reset --hard origin/main --quiet || { echo "reset failed (attempt $attempt)"; continue; }
+
             python -m tracker.merge_state "$RUNNER_TEMP/mine.json" state.json > "$RUNNER_TEMP/merged.json"
             mv "$RUNNER_TEMP/merged.json" state.json
             git add state.json
-            git diff --staged --quiet && exit 0
-            git commit -m "seen up to $(date -u +%FT%TZ)"
-            if git push; then exit 0; fi
-            echo "another run pushed first, merging again (attempt $attempt)"
+            git diff --staged --quiet && { echo "nothing new to record"; exit 0; }
+
+            git commit -m "seen up to $(date -u +%FT%TZ)" --quiet || { echo "commit failed (attempt $attempt)"; continue; }
+            if git push --quiet; then echo "progress saved"; exit 0; fi
+            echo "push did not land (attempt $attempt), merging again"
           done
-          echo "could not save progress after 3 attempts"
-          exit 1
+
+          # Losing this is a nuisance, not a disaster. Nothing is corrupted:
+          # the next run merges the same progress and pushes it. The one real
+          # cost is that an alert already sent may be sent a second time.
+          #
+          # That is not worth a red run and an email from GitHub about an
+          # outage at GitHub, which is why this ends green and says so here
+          # instead. If you get the same alert twice, this is why.
+          echo "COULD NOT SAVE PROGRESS after 5 attempts -- GitHub was unreachable."
+          echo "The next run will push it instead. An alert may repeat once."
+          exit 0
