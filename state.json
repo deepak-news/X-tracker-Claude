@@ -6127,11 +6127,33 @@
         "streamline",
         "zoho"
       ]
+    },
+    {
+      "at": "2026-09-15T02:46:16.925165+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Tata Group stocks in focus as RBI rejects Tata Sons CoR",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPWDlhWFQwNUxMdkl3YWlxdlN3SEYyeXlfOUdkYmNnSFY3NXptX0p6TEpyZ3QwZk9QZ1BCYTVxZGdKNVQ2YUdEWHJZVDJrYVcwWV9DaFRHeEFsOFRVSXRZNUc1eHc0M0VJOVJxUXNHOXdqWjNoNXQ1QnNQYVhTRlZzVEV4UzNyb00tMmREZERtbWE0bUZHWkFobDVUTWd3LTA0SFFndGZrV2NMSnptRUk0NlNoSWsyUVlpeDI4bVpVN3VYVHZZM1NUWHM4RnhYazViNUgyNVFtSFlSc1dkMXpEVTk2VUN5MlJsa2VCOHhqS1QtRlVvR1o1WFB1cWotTHI3eTBTTlVZZkxaYXFKcVQyaHpkWl80bUt2bHBVNHRNdEd0elh0SEhFeUpVc1ZWdHRNeHRyblMtRGJwNW1KejFTS2hqY9IBwwJBVV95cUxPWDlhWFQwNUxMdkl3YWlxdlN3SEYyeXlfOUdkYmNnSFY3NXptX0p6TEpyZ3QwZk9QZ1BCYTVxZGdKNVQ2YUdEWHJZVDJrYVcwWV9DaFRHeEFsOFRVSXRZNUc1eHc0M0VJOVJxUXNHOXdqWjNoNXQ1QnNQYVhTRlZzVEV4UzNyb00tMmREZERtbWE0bUZHWkFobDVUTWd3LTA0SFFndGZrV2NMSnptRUk0NlNoSWsyUVlpeDI4bVpVN3VYVHZZM1NUWHM4RnhYazViNUgyNVFtSFlSc1dkMXpEVTk2VUN5MlJsa2VCOHhqS1QtRlVvR1o1WFB1cWotTHI3eTBTTlVZZkxaYXFKcVQyaHpkWl80bUt2bHBVNHRNdEd0elh0SEhFeUpVc1ZWdHRNeHRyblMtRGJwNW1KejFTS2hqYw?oc=5",
+      "words": [
+        "among",
+        "cor",
+        "focus",
+        "group",
+        "motors",
+        "others",
+        "rbi",
+        "rejects",
+        "sons",
+        "steel",
+        "tata",
+        "tcs",
+        "titan"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T02:31:22.538040+00:00",
+  "last_success": "2026-09-15T02:46:16.925608+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789405812811,
@@ -6174,20 +6196,20 @@
     "lenovo": 1789378686232,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789418184652,
+    "news: big tech platforms": 1789439575730,
     "news: consumer internet india": 1789437603925,
     "news: global ai": 1789434894499,
     "news: global chips": 1789437600522,
     "news: global it services": 1789433100856,
     "news: india ai deeptech": 1789430870969,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789438371869,
+    "news: india fintech": 1789439234313,
     "news: india semiconductors": 1789438220429,
     "news: india tech policy": 1789436207705,
-    "news: india telecom": 1789437981958,
-    "news: indian it majors": 1789437985553,
+    "news: india telecom": 1789439310660,
+    "news: indian it majors": 1789439419707,
     "news: indian it midcaps": 1789414746462,
-    "news: pib releases": 1789433415862,
+    "news: pib releases": 1789436372750,
     "news: tech leaders": 1789438003423,
     "nvidia": 1789398052670,
     "openai": 1789387200931,
@@ -6200,14 +6222,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-15T00:46:39.194236+00:00",
+        "checked": "2026-09-15T02:47:12.484168+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-15T00:46:31.602567+00:00",
+        "checked": "2026-09-15T02:47:04.063077+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -6283,7 +6305,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-15T00:46:35.298075+00:00",
+        "checked": "2026-09-15T02:47:08.178336+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
