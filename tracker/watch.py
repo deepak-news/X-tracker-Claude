@@ -590,11 +590,38 @@ def run(dry_run: bool) -> int:
     return 0
 
 
+def test_email() -> int:
+    """Send one harmless email, to prove the settings work.
+
+    Without this the first proof that email is working correctly is the
+    first real order, which may be days away -- and a wrong password fails
+    silently until then.
+    """
+    item = Item(
+        key="dopt:TEST/2026-EO(SM-I)|01/01/2026",
+        source="Settings test",
+        title="This is a test - the government watch can send email",
+        detail=("If this has arrived, the sending account, the app password "
+                "and the recipient list are all correct. Nothing was read "
+                "from any government site to produce it."),
+        url="https://doptcirculars.nic.in/Report.aspx",
+    )
+    subject, body = build_email([item])
+    email_out.send(subject, body, recipient_env=RECIPIENT_ENV,
+                   sender_name="Government Watch")
+    print("Sent. Check the inbox -- every address on the list should have it.")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true",
                         help="report what would be sent, send nothing, remember nothing")
+    parser.add_argument("--test-email", action="store_true",
+                        help="send one test email and stop, to check the settings")
     args = parser.parse_args()
+    if args.test_email:
+        return test_email()
     return run(dry_run=args.dry_run)
 
 
