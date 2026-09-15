@@ -1,21 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T12:46:28.586149+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUnlrekhVbGp1akNSa05XNl9KQTVSUVRWeVJNeHgza29KT3JaZ1NYeXlINXJWNzdwQ0NmcnFBSnNwaHRHa3FrSjNkcXYycC10aDBMRFl2NE9BMVNjMk1xak9lUGxrQmFsWWpPcHlHX2tyUUcxNkllZnBWLThVQ1pqOXdMVmJmYnpEREhIenNZY1JybjNTTVpxaXQwN3FsSlJ1UkhYNXFtSEItUlN0bE9sWlN1SDM5UG1jQm03SkdEUUtlOVlRWWg4TmllazRIRThoTXI2eA?oc=5",
-      "words": [
-        "brings",
-        "buildout",
-        "centre",
-        "connectivity",
-        "data",
-        "hfcl",
-        "optical",
-        "optiq",
-        "portfolio"
-      ]
-    },
-    {
       "at": "2026-09-09T13:01:54.837499+00:00",
       "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308398",
       "words": [
@@ -7265,11 +7250,28 @@
         "raises",
         "startup"
       ]
+    },
+    {
+      "at": "2026-09-15T21:01:37.207100+00:00",
+      "handle": "News: India edtech gaming",
+      "headline": "NODWIN Gaming enters traditional sports and names Gurbaksh Virdi VP",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPemhUb2c0WlJZSTRiZlpRYTJVaDhRaDNVTEh5MmRYeDBmZUx0MWhGelBLVUo3QUc0Ynk3NTZEd21pQ1BkV0tGMlhhVm1FU0lvbF9sVTgyb0poSk93RXE4MVBNU2FNVWJZaDN2VENfUzNuMW5XUXZmazJnZ1hyamVPcjZ2Y0I3TXRzdXVhU3h5UUtKSFUzTXFKSDJjUGZzajlHYXd6dl9yWkZaNHBUY2JVV05jbnFQYkdXTnpiYlQwdU5PUUZBb0tkeGNfSXdOaTRQZWowNk1mbHY3YnRVTU1ub3BMUVNnelU?oc=5",
+      "words": [
+        "enters",
+        "gaming",
+        "gurbaksh",
+        "names",
+        "nodwin",
+        "sports",
+        "traditional",
+        "virdi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T20:46:30.416400+00:00",
+  "last_success": "2026-09-15T21:01:37.207576+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7316,17 +7318,17 @@
     "news: big tech platforms": 1789502439479,
     "news: consumer internet india": 1789499137026,
     "news: global ai": 1789500519660,
-    "news: global chips": 1789502400430,
+    "news: global chips": 1789504920042,
     "news: global it services": 1789499317272,
-    "news: india ai deeptech": 1789486994503,
-    "news: india edtech gaming": 1789386137814,
+    "news: india ai deeptech": 1789489560646,
+    "news: india edtech gaming": 1789505766406,
     "news: india fintech": 1789503975154,
     "news: india semiconductors": 1789500997421,
     "news: india tech policy": 1789501929235,
     "news: india telecom": 1789498931866,
     "news: indian it majors": 1789501348490,
     "news: indian it midcaps": 1789498680712,
-    "news: pib releases": 1789496735131,
+    "news: pib releases": 1789501813100,
     "news: tech leaders": 1789503296436,
     "nvidia": 1789491359747,
     "openai": 1789387200931,
