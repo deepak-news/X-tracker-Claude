@@ -2,19 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-09T12:46:28.586149+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbmExR3dTQ19sVFA0QW8wRFRUSGROWmo3WXMtT2ZzN1I2Q3BDUnAzYzU0TXpRM0FPN3hiUF9xclY0WjhMRm1YMDVwS0JlamRkZW9lR1MwaU1WQVR2YjZDYjNGQlhLaUtOZmlsRGhIU1BBLWJBdTFlZ1NEbFE3MlpiTlhXQzg1QlJRMGFDbTVEUTl4bmFsMG1JdGc0QkxBOWxEdjlrc3p6MHg3MFFYN2c0aDdVOGxfNURLYm5kNi1SN2tDZWFQem1RbnpIQVZyalVOdWVaMDVBUU9rWGVJMkRWT9IB5gFBVV95cUxPdnpiYTNRdGhJZ29BNWctc2EtUHNLVUZHYXR0bnZCN0ZwQ29waTR5SkY2eUVoVTZrVmpUaHlXLU1sNEJyTm4yYUs4UTktRnNGeFp2MXZPTGFmRGY2NVlsakdDY0lQaF9wdVFlcDI0VWlJTnFab1Q3bDlNS1ZfckRfMlRkTVFONktCem1Na2QxV0Y5Q2xEZFJKUUVRZUVtbkpRclRvSVppQUZKOXh0a0lBeFA3QUlmOFNHc2YxUmxkSjBVaEJhVEVJRFc1UmFjZ1hub2RFSl9DZFdkemxYRFVCNHFZU0tydw?oc=5",
-      "words": [
-        "center",
-        "ciso",
-        "collaborates",
-        "command",
-        "crowdstrike",
-        "launch",
-        "wipro"
-      ]
-    },
-    {
-      "at": "2026-09-09T12:46:28.586149+00:00",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUnlrekhVbGp1akNSa05XNl9KQTVSUVRWeVJNeHgza29KT3JaZ1NYeXlINXJWNzdwQ0NmcnFBSnNwaHRHa3FrSjNkcXYycC10aDBMRFl2NE9BMVNjMk1xak9lUGxrQmFsWWpPcHlHX2tyUUcxNkllZnBWLThVQ1pqOXdMVmJmYnpEREhIenNZY1JybjNTTVpxaXQwN3FsSlJ1UkhYNXFtSEItUlN0bE9sWlN1SDM5UG1jQm03SkdEUUtlOVlRWWg4TmllazRIRThoTXI2eA?oc=5",
       "words": [
         "brings",
@@ -7256,11 +7243,33 @@
         "sentiment",
         "weigh"
       ]
+    },
+    {
+      "at": "2026-09-15T20:46:30.416006+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Quick commerce startup Firi raises $3 million led by 360 One Asset",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSzlEMU9XTGRLRXZLdkl1VEVnV01HZDhDdDdvMU14ekxxSzhQR0lPZ2p5dEJsU1hiY1F0Wk8zME96Vy13b0tpN0xNWkU0U2ViR0RhMHBJQlk1NlE4NUZick82aFMyc1VHQ3pqYS1DMjRNSUFyR3R1dmt2cUUwUGZvRUMxVUt4bW1QNWNqTndwUHctZUFCQ09icUR5eFk3d092QW1wd0s2RVQ3NXYxVWNjLVJhM0VJc3NaZDZXN0hCcVByc0dKUGlUM2lFSW5vOFpMb3FVc1V2NkNsamRyNVpYbHF3SmQxV1RvOWFFQl9rc0lubGfSAfMBQVVfeXFMTUs5RDFPV0xkS0V2S3ZJdVRFZ1dNR2Q4Q3Q3bzFNeHpMcUs4UEdJT2dqeXRCbFNYYmNRdFpPMzBPelctd29LaTdMTVpFNFNlYkdEYTBwSUJZNTZRODVGYnJPNmhTMnNVR0N6amEtQzI0TUlBckd0dXZrdnFFMFBmb0VDMVVLeG1tUDVjak53cFB3LWVBQkNPYnFEeXhZN3dPdkFtcHdLNkVUNzV2MVVjYy1SYTNFSXNzWmQ2VzdIQnFQcnNHSlBpVDNpRUlubzhaTG9xVXNVdjZDbGpkcjVaWGxxd0pkMVdUbzlhRUJfa3NJbmxn?oc=5",
+      "words": [
+        "360",
+        "asset",
+        "beauty",
+        "care",
+        "commerce",
+        "firi",
+        "led",
+        "million",
+        "one",
+        "personal",
+        "quick",
+        "raises",
+        "startup"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T20:31:29.848820+00:00",
+  "last_success": "2026-09-15T20:46:30.416400+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7316,7 +7325,7 @@
     "news: india tech policy": 1789501929235,
     "news: india telecom": 1789498931866,
     "news: indian it majors": 1789501348490,
-    "news: indian it midcaps": 1789495500768,
+    "news: indian it midcaps": 1789498680712,
     "news: pib releases": 1789496735131,
     "news: tech leaders": 1789503296436,
     "nvidia": 1789491359747,
