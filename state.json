@@ -6299,11 +6299,46 @@
         "unify",
         "zoho"
       ]
+    },
+    {
+      "at": "2026-09-15T05:16:19.777822+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Infosys shares surge 6% following Anthropic AI pace warning reaction",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObXBVUENfR3FHakJyZTdiM0UzNTNPSE9odV93NXN5d08taEQzTmJlZGU3OGl1bG1wTC03a2xxQ1hvYmNkU3BHYk9uc19lNmxDQlotVGtYWWdnc2htazlPeXRUOExPcDEyM0NnU1ZnS3h0M0hEMzYzNDRzQVhpWlJkZkFJbGpZY3FIMHdHZ1NPRkJCMVQ2bVNNM3JrTzduOTNJWURQcTJmSVBIeWlQNW54N2dRNFZiNzU3R3R6bVF1aFZSSmdsbU5nR1FJMzIxd0VyT1pnQ01scHVEYTdrbHJxbXBuS2U0QXRCeGfSAe8BQVVfeXFMTXJwaFY2VXlEWWNMMWF0a0lkNFBqdHB5eGhPUTBfeEU1VWR6UGo5Z2ZnajF1OFkySVZVWHg0ZjZQR2ZOWk9jMWJ0dmdBaXp4elBya2x2Mk54ZDRLczV6b0ZMZktJODBiXzljVVNRUkJpMFo3NUpsNFU5Q0g2SnBwVjlkUHVWR3BNTW9fUXdFQ0pNc0llNjEyNGRFWTlFTWhZWm14WUYtMGlpZUYtOGJzSlhnbkh6cjhIdXlZTVVUeW14UjFLWUlnTFJ5c2M4SjZEcF9ibE5lM014bFd4MmlmTkVoa1JSdFJfYVFFdUNXNk0?oc=5",
+      "words": [
+        "anthropic",
+        "behemoth",
+        "infosys",
+        "pace",
+        "rally",
+        "surge",
+        "triggered",
+        "warning"
+      ]
+    },
+    {
+      "at": "2026-09-15T05:16:19.777822+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Zetwerk expands manufacturing footprint with three new facilities under construction",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkhSUVRiOC1OLUR5TnV0cGdRT0ZvNmR0MVZVb3hQeld3WndkbV9PaTJSdHVhSWFEbVFDTE5vOTFsa2VIWERwVjdXN21wMzhudmJpSFh2bmpEMzMxc28zQWJZVnRHSGlGT3B3cVJOeF9wRkV1RWNDOW96M3BjTGZKMTBOQUY4amR6ZDZsYmhEcFFCU0RJaE05R1c2cFZJbHBxdUgyZmc5akhpc09tMXQ1a3J3ODJHY1VtWFVZLTRMQldXdw?oc=5",
+      "words": [
+        "construction",
+        "expands",
+        "facilities",
+        "footprint",
+        "manufacturing",
+        "owned",
+        "three",
+        "under",
+        "zetwerk"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T05:01:48.922132+00:00",
+  "last_success": "2026-09-15T05:16:19.778480+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789405812811,
@@ -6346,19 +6381,19 @@
     "lenovo": 1789378686232,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789448220467,
+    "news: big tech platforms": 1789448786410,
     "news: consumer internet india": 1789446605239,
     "news: global ai": 1789444463378,
     "news: global chips": 1789441480614,
     "news: global it services": 1789443411109,
-    "news: india ai deeptech": 1789447963196,
+    "news: india ai deeptech": 1789448778777,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789448184979,
-    "news: india semiconductors": 1789447297041,
+    "news: india fintech": 1789448842146,
+    "news: india semiconductors": 1789447987838,
     "news: india tech policy": 1789444627956,
     "news: india telecom": 1789447828931,
-    "news: indian it majors": 1789447472083,
-    "news: indian it midcaps": 1789447133388,
+    "news: indian it majors": 1789448991036,
+    "news: indian it midcaps": 1789448418515,
     "news: pib releases": 1789447020396,
     "news: tech leaders": 1789445208630,
     "nvidia": 1789398052670,
