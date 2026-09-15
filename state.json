@@ -7112,11 +7112,29 @@
         "revenue",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-15T15:16:10.059853+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Accenture schedules fourth-quarter and full-year fiscal 2026 results announcement",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSWUFNWUFUc29iU2EzcEJwLVlxS2ZEbVV0QlBpME9FUVBIeVBNOTNmZ1o3U3A3M3Q1Smp2ZG1kT1VsbVRTdmE3MFlya1dZT1cwcHAyNEVTYW13eTdURWkyeDdreXZqX2E5?oc=5",
+      "words": [
+        "2026",
+        "accenture",
+        "announce",
+        "fiscal",
+        "fourth",
+        "full",
+        "quarter",
+        "results",
+        "year"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T15:03:23.253687+00:00",
+  "last_success": "2026-09-15T15:16:10.060454+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7158,21 +7176,21 @@
     "bse zaggle": 1788981416807,
     "google": 1789477200010,
     "lenovo": 1789456794113,
-    "meta": 1788894051644,
+    "meta": 1789484459528,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789480441304,
+    "news: big tech platforms": 1789485228705,
     "news: consumer internet india": 1789483645106,
     "news: global ai": 1789482295798,
     "news: global chips": 1789480800809,
-    "news: global it services": 1789482550853,
-    "news: india ai deeptech": 1789480328785,
+    "news: global it services": 1789484923752,
+    "news: india ai deeptech": 1789481527224,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789483826687,
-    "news: india semiconductors": 1789483524805,
-    "news: india tech policy": 1789477753627,
-    "news: india telecom": 1789483239245,
-    "news: indian it majors": 1789479007289,
-    "news: indian it midcaps": 1789477680322,
+    "news: india fintech": 1789484800110,
+    "news: india semiconductors": 1789484921456,
+    "news: india tech policy": 1789484254399,
+    "news: india telecom": 1789484980720,
+    "news: indian it majors": 1789483148869,
+    "news: indian it midcaps": 1789484906941,
     "news: pib releases": 1789480920929,
     "news: tech leaders": 1789480560963,
     "nvidia": 1789462842340,
@@ -7186,14 +7204,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-15T13:05:12.908155+00:00",
+        "checked": "2026-09-15T15:16:44.420721+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-15T13:05:05.128902+00:00",
+        "checked": "2026-09-15T15:16:36.824155+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -7269,7 +7287,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-15T13:05:09.196135+00:00",
+        "checked": "2026-09-15T15:16:40.583524+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
