@@ -6115,7 +6115,7 @@
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T00:31:24.265810+00:00",
+  "last_success": "2026-09-15T00:46:11.828643+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789405812811,
@@ -6161,15 +6161,15 @@
     "news: big tech platforms": 1789418184652,
     "news: consumer internet india": 1789429837991,
     "news: global ai": 1789425805179,
-    "news: global chips": 1789430520297,
+    "news: global chips": 1789432171974,
     "news: global it services": 1789424392340,
     "news: india ai deeptech": 1789417781822,
     "news: india edtech gaming": 1789386137814,
     "news: india fintech": 1789430951919,
     "news: india semiconductors": 1789428292266,
     "news: india tech policy": 1789418943826,
-    "news: india telecom": 1789426663444,
-    "news: indian it majors": 1789425251858,
+    "news: india telecom": 1789432200685,
+    "news: indian it majors": 1789432200394,
     "news: indian it midcaps": 1789414746462,
     "news: pib releases": 1789412800555,
     "news: tech leaders": 1789430506510,
@@ -6184,14 +6184,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-14T22:32:34.101518+00:00",
+        "checked": "2026-09-15T00:46:39.194236+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-14T22:32:26.461494+00:00",
+        "checked": "2026-09-15T00:46:31.602567+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -6267,7 +6267,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-14T22:32:30.306444+00:00",
+        "checked": "2026-09-15T00:46:35.298075+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
