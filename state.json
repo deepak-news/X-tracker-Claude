@@ -6795,7 +6795,7 @@
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T10:46:16.476162+00:00",
+  "last_success": "2026-09-15T11:01:44.314428+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -6839,19 +6839,19 @@
     "lenovo": 1789456794113,
     "meta": 1788894051644,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789463669398,
-    "news: consumer internet india": 1789468860125,
+    "news: big tech platforms": 1789466938904,
+    "news: consumer internet india": 1789469710307,
     "news: global ai": 1789462835774,
     "news: global chips": 1789444575706,
-    "news: global it services": 1789466612263,
+    "news: global it services": 1789469940500,
     "news: india ai deeptech": 1789466423942,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789468785067,
-    "news: india semiconductors": 1789469097955,
+    "news: india fintech": 1789469544151,
+    "news: india semiconductors": 1789469475533,
     "news: india tech policy": 1789464600591,
-    "news: india telecom": 1789465591908,
+    "news: india telecom": 1789469837465,
     "news: indian it majors": 1789468571411,
-    "news: indian it midcaps": 1789463342525,
+    "news: indian it midcaps": 1789464480614,
     "news: pib releases": 1789468652639,
     "news: tech leaders": 1789466400483,
     "nvidia": 1789462842340,
@@ -6865,14 +6865,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-15T09:03:50.115828+00:00",
+        "checked": "2026-09-15T11:04:30.311707+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-15T09:03:34.552585+00:00",
+        "checked": "2026-09-15T11:04:22.656920+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -6948,7 +6948,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-15T09:03:46.081591+00:00",
+        "checked": "2026-09-15T11:04:26.506474+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
