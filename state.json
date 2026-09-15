@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-09T12:31:33.814666+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWDh2LUQ5THBoY25HcUdZeGUxTEczZkNzbFJPSVMxVTY5NUg1RkVEOUktRk5QMG9uVE1tUklkR25uZ2FLZ0syYXg1cW02clVsVms1cHYzcGNRSDRnOFlGZWNiSDdlcHJtOThvWmlhVXJxc1N5VW1zUXNXN2Qxd1VVVHVVR19oSndFeURGeEhPUnY2NXItWG90d19iamJnbGRsUDNzQm1acTdrQmp6c1ZwVFZsSlVqYm1DWndXNWlfTUp6aFFsNzMtVVoxSlFZQ2MwWVdVYVpn0gHjAUFVX3lxTE5ReDVGZHVvckt3YW1DRFRoOVRxSHlhRkNSNV9Oajl6eXNyelNTSWZLSXpxWFhtM085WGlSWWhWNWUyakJQLWR1VldsUGxyMHloVm5ielpvUTNGc0VTOVljNzBkNWxxR1NTaHJWQS1LUFBwdjZlcVBSd1NxaDNwLWRLSy1aNmtnMlZzYmNJY1JpTzNQeUdhZUM2S0hLNGlqVXFwNzBHN01TUkJQXzNPbkRLVTFWYkptN3VNb0ZDSE15Sl82VGdUeFg1QXVsMzdhR01fZWRXd0doLVlMUVJSSzVpdlE4?oc=5",
-      "words": [
-        "bhatt",
-        "board",
-        "chairman",
-        "coforge",
-        "crisis",
-        "evaluation",
-        "exit",
-        "heart",
-        "his",
-        "prepared",
-        "report"
-      ]
-    },
-    {
-      "at": "2026-09-09T12:31:33.814666+00:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlhMMFRwRDZNWlpaX3UwQ1VMM2RfZ1NiRVA4UnpTU3UzbkFmbVdpUllYazQweElqZjZQRkVnTExCZElMZml1d2FXR2E4Z1ZHMl9zemNnME5zenZiVDg5VHFUREtMeHFQbVF1T0ZaSEcycnhKaVJGMmZLTDFSYVBmVzNESUZ6MWhaNks2U0VxWTFCTXBDNlI5cWNSY3Z5bE9HSGN1VVhEdzFaNmNfSnhud3ltMEE?oc=5",
       "words": [
         "gravity",
@@ -7246,17 +7229,31 @@
         "upi",
         "value"
       ]
+    },
+    {
+      "at": "2026-09-15T18:16:24.747864+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Fintech startup Fibe secures Sebi approval for Rs 750 crore IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0pUZURWUExwVUx4eks3SVg2OWpreVBqY3hhS1dKSFlyWDZMeDVfT2JSS2Q1T2hNbXgzZkJKY0Jpam10MFZtOTRJT1NEUjNadnFoSHNKQlplTmxZY1RleHNMRDJ4UUV5Sk1mU2lfMDltclBaanZIMDVZU1lmTW42cUZTanFtV0U3cXd0R0xZNlMxeFc4djBhWFBFaDY3d0dxMFdGaWZTSVJPcERWNTRqSjloZVB1Z2fSAbcBQVVfeXFMUDNKVGVEVlBMcFVMeHpLN0lYNjlqa3lQamN4YUtXSkhZclg2THg1X09iUktkNU9oTW14M2ZCSmNCaWptdDBWbTk0SU9TRFIzWnZxaEhzSkJaZU5sWWNUZXhzTEQyeFFFeUpNZlNpXzA5bXJQWmp2SDA1WVNZZk1uNnFGU2pxbVdFN3F3dEdMWTZTMXhXOHYwYVhQRWg2N3dHcTBXRmlmU0lST3BEVjU0ako5aGVQdWdn?oc=5",
+      "words": [
+        "750",
+        "approval",
+        "fibe",
+        "gets",
+        "ipo"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T18:01:40.465795+00:00",
+  "last_success": "2026-09-15T18:16:24.748324+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
     "bse bharti airtel": 1789068680302,
     "bse black box": 1789050344120,
-    "bse coforge": 1789507291846,
+    "bse coforge": 1789515514532,
     "bse cyient": 1789068497815,
     "bse eternal/zomato": 1789154706058,
     "bse fractal analytics": 1789415508742,
@@ -7277,7 +7274,7 @@
     "bse niit learning systems": 1789067950464,
     "bse nykaa": 1789155118992,
     "bse ola electric": 1789430149909,
-    "bse paytm": 1789488930563,
+    "bse paytm": 1789515918787,
     "bse persistent": 1789215571383,
     "bse reliance": 1789150659409,
     "bse swiggy": 1788801394767,
@@ -7296,17 +7293,17 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789493819294,
     "news: consumer internet india": 1789493747484,
-    "news: global ai": 1789493532684,
+    "news: global ai": 1789495343773,
     "news: global chips": 1789493488700,
     "news: global it services": 1789490875357,
     "news: india ai deeptech": 1789486994503,
     "news: india edtech gaming": 1789386137814,
     "news: india fintech": 1789494460237,
     "news: india semiconductors": 1789488983348,
-    "news: india tech policy": 1789489558970,
+    "news: india tech policy": 1789495201726,
     "news: india telecom": 1789490525581,
     "news: indian it majors": 1789489041074,
-    "news: indian it midcaps": 1789487040561,
+    "news: indian it midcaps": 1789489800035,
     "news: pib releases": 1789494933098,
     "news: tech leaders": 1789494777735,
     "nvidia": 1789491359747,
