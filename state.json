@@ -6593,11 +6593,29 @@
         "lakh",
         "seasonal"
       ]
+    },
+    {
+      "at": "2026-09-15T08:16:18.830784+00:00",
+      "handle": "News: India fintech",
+      "headline": "Rahul Gandhi accuses government on UPI fee policy",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjk4Zng2Y0JiYmtIWG54eExiM3JEZThzWkJZcC1WME9KeHlDQ212LVcwRXptaEQ4MHl0eERvb3gtUHI4aV80NEJrMTRlcmhSbkIzVnB4NHktZm5kSkRmU1VJNHZGTVJCMmkyaVdGeHdKOERPN3VXX0xwd09DWmpaN3pvMW5ScDc5eER0TTdTM19GaHY0UE1waC1lZk1seWF3UGZVRVYtRF82a1JlSHdfX1cwUVA?oc=5",
+      "words": [
+        "accuses",
+        "fee",
+        "gandhi",
+        "modi",
+        "pressure",
+        "rahul",
+        "row",
+        "upi",
+        "yielding"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T08:01:33.272983+00:00",
+  "last_success": "2026-09-15T08:16:18.831339+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789405812811,
@@ -6643,16 +6661,16 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789458849551,
     "news: consumer internet india": 1789458427401,
-    "news: global ai": 1789453509377,
+    "news: global ai": 1789456688230,
     "news: global chips": 1789444575706,
     "news: global it services": 1789452276117,
     "news: india ai deeptech": 1789457238366,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789458987337,
-    "news: india semiconductors": 1789456337479,
+    "news: india fintech": 1789459863984,
+    "news: india semiconductors": 1789457559527,
     "news: india tech policy": 1789458268956,
     "news: india telecom": 1789459011728,
-    "news: indian it majors": 1789457020799,
+    "news: indian it majors": 1789459980441,
     "news: indian it midcaps": 1789456242182,
     "news: pib releases": 1789457753639,
     "news: tech leaders": 1789455414423,
