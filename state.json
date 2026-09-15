@@ -6998,11 +6998,29 @@
         "sets",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-15T14:31:25.282767+00:00",
+      "handle": "News: India fintech",
+      "headline": "Govt to set aside 5% of UPI MDR collections for merchant fund",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3pRM3FlV3RadklVZFNicVNGZG5QYWlNZGFDSGI4blRzZHNueEc5cDZhNXkwSVAtMUlhMHhLenBhZ0Fid3d0dEpXa0xwTnphNm04NC1qd1lnS0RQQWRHaXduam4wUVpmNHpSRnVOSUI0M2NYd3FMaHdmYkQ4UENueWRhLTlHSUNqZXZNU01tSUp4UUx5dGJqaWt2MmJCMXdrSVdEenh3TE9Jek9lSjNIS3FRWUZXdERIajMyTnEzamzSAcYBQVVfeXFMTWNhNjdrYjZUbk9uU2wzS2VCSkN0LVFyX1RXRkVPVHVkQVhnN1hIWXJMNXhtdXZkdUloVDlrU2Z1TmluOE9tWmFRWEZkNllwSEQyR19raXowenBGNmk5MGpsSzZRdG8wVnJPSDlmLTFHcWE5TW95TlRTLU5PcTVTdUpvNXhZQjZiZFFPdnA5REtUQ3pRSVlucTBGUmtqTmRjNkNMOWgzWEY4Y25La0VKNVBOVWNHS3AxbVpIbF95V3M0UHJzTGJB?oc=5",
+      "words": [
+        "aside",
+        "collections",
+        "fund",
+        "govt",
+        "mdr",
+        "merchant",
+        "set",
+        "small",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T14:16:19.252819+00:00",
+  "last_success": "2026-09-15T14:31:25.283302+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7050,16 +7068,16 @@
     "news: consumer internet india": 1789481264958,
     "news: global ai": 1789481668689,
     "news: global chips": 1789480800809,
-    "news: global it services": 1789481054480,
+    "news: global it services": 1789482108813,
     "news: india ai deeptech": 1789480328785,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789481537848,
-    "news: india semiconductors": 1789479582703,
+    "news: india fintech": 1789482423154,
+    "news: india semiconductors": 1789481788837,
     "news: india tech policy": 1789477753627,
-    "news: india telecom": 1789480376596,
+    "news: india telecom": 1789482124250,
     "news: indian it majors": 1789479007289,
     "news: indian it midcaps": 1789477680322,
-    "news: pib releases": 1789478220718,
+    "news: pib releases": 1789480920929,
     "news: tech leaders": 1789478485252,
     "nvidia": 1789462842340,
     "openai": 1789387200931,
