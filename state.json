@@ -1,40 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T13:01:54.837499+00:00",
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2308398",
-      "words": [
-        "2026",
-        "aadhaar",
-        "authentication",
-        "face",
-        "fest",
-        "fintech",
-        "global",
-        "launches",
-        "meity",
-        "press",
-        "release",
-        "sandbox",
-        "sdk",
-        "uidai"
-      ]
-    },
-    {
-      "at": "2026-09-09T13:01:54.837499+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzduYlByLWhyZ2Q5ZXNMNVd2dFd2UlgtUWZsUGFDQzkxcGk0R1J1NEZ1Y0N6S3FUSzZIWTB1MEZBM2VrX1dLWEhJWk9ZSE9PMlJLUjJoalFOa21LNm81dElOTmdKVHpJNUVpTWI5NnR2TFBGVVdxcHo3Q0g5X2pxb25lVGFyNnJ5eWxFTEI3Y29IeTkzTXNxcm05MDdKQmJQU0thVFBhU3Nrdw?oc=5",
-      "words": [
-        "border",
-        "businesses",
-        "cross",
-        "jio",
-        "launches",
-        "payment",
-        "payments",
-        "solutions"
-      ]
-    },
-    {
       "at": "2026-09-09T13:16:51.149222+00:00",
       "handle": "News: India fintech",
       "tier": 0,
@@ -7267,11 +7233,47 @@
         "traditional",
         "virdi"
       ]
+    },
+    {
+      "at": "2026-09-15T21:46:19.405521+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "IndiaAI Mission selects 10 startups for acceleration cohort",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmgtajZHQ1JsWmVrc0hMYkV0a0ltWV9PVm5MOGN4bzhXNWVuS1dLS3I3TFlBSU5JazdzQVVadEdCbEVlM1gydDQ3NnJjTXZOWVNHNDZNOWpMNVk1Z0lIRjFZdGJMYTQ4cklYczVYR1d3VW93Vl9obHNIYVFxSlRja1liVEptWk5ISzROajdHSF9UQVhEeU1ZYkktQ2tjN3JRRVdkVTRZUW5JRFMySmc?oc=5",
+      "words": [
+        "acceleration",
+        "akashvani",
+        "cohort",
+        "global",
+        "indiaai",
+        "mission",
+        "news",
+        "programme",
+        "second",
+        "selects",
+        "startups"
+      ]
+    },
+    {
+      "at": "2026-09-15T21:46:19.405521+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Nvidia CEO Jensen Huang says no new AI laws needed",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVJmUXhVNGZRSEFCdUYzVlRDZEt6QXRyb3h1dkZoRjFJeUJyVElWS29PNm10UnVUY1I2T0pKTmxtaXpuYlpsbmZpdUsxaUlQN0NjaUtSeEtpdlBMVVZoRDhlUzA5dlFCdXhJbjlWTjFHcTRBTXpCRDhhMmZON3hMTmtjcTJ1QQ?oc=5",
+      "words": [
+        "any",
+        "don",
+        "huang",
+        "jensen",
+        "laws",
+        "need",
+        "safety"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T21:31:23.372111+00:00",
+  "last_success": "2026-09-15T21:46:19.406137+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7316,11 +7318,11 @@
     "meta": 1789485957052,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789502439479,
-    "news: consumer internet india": 1789499137026,
+    "news: consumer internet india": 1789507500476,
     "news: global ai": 1789500519660,
-    "news: global chips": 1789504920042,
+    "news: global chips": 1789507800073,
     "news: global it services": 1789499317272,
-    "news: india ai deeptech": 1789489560646,
+    "news: india ai deeptech": 1789505051164,
     "news: india edtech gaming": 1789505766406,
     "news: india fintech": 1789503975154,
     "news: india semiconductors": 1789500997421,
@@ -7329,7 +7331,7 @@
     "news: indian it majors": 1789501348490,
     "news: indian it midcaps": 1789504506635,
     "news: pib releases": 1789501813100,
-    "news: tech leaders": 1789503296436,
+    "news: tech leaders": 1789507620597,
     "nvidia": 1789491359747,
     "openai": 1789387200931,
     "pib communications": 2310616,
