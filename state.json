@@ -1,49 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T12:31:33.814666+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlhMMFRwRDZNWlpaX3UwQ1VMM2RfZ1NiRVA4UnpTU3UzbkFmbVdpUllYazQweElqZjZQRkVnTExCZElMZml1d2FXR2E4Z1ZHMl9zemNnME5zenZiVDg5VHFUREtMeHFQbVF1T0ZaSEcycnhKaVJGMmZLTDFSYVBmVzNESUZ6MWhaNks2U0VxWTFCTXBDNlI5cWNSY3Z5bE9HSGN1VVhEdzFaNmNfSnhud3ltMEE?oc=5",
-      "words": [
-        "gravity",
-        "guide",
-        "intros",
-        "mahindra",
-        "playbook",
-        "projects",
-        "tech",
-        "telecom",
-        "zero"
-      ]
-    },
-    {
-      "at": "2026-09-09T12:31:33.814666+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbVdxTWJOREZxUEUtaXBrVGxiN2Zkbm5zeEhVUzVKWnNKMHBQNC1WcEhyU1M2LXBiSWNSbmthWjhQRGNiRnhzVVN6azNnRkdVRUFFTHM1bUVWQ2h5SjdVUDBvMUdJbzczMlN0OHBLOXMwa1JGV2NDQWZfa2FhdFhIaGtsVy1TYjNwNFZCVlhXZzN5TDZfaXBHam04N3FBVnBDR2ZUUkNjd1NQbFdfYUNfVUpMVXZHNm9ESV9wV2N1NDd2akpvQXlic2w0TFhENE9CYl9NUlJwT2F5akp0cFB3ZXVRM1M3cUJh0gHoAUFVX3lxTFBtV3FNYk5ERnFQRS1pcGtUbGI3ZmRubnN4SFVTNUpac0owcFA0LVZwSHJTUzYtcGJJY1Jua2FaOFBEY2JGeHNVU3prM2dGR1VFQUVMczVtRVZDaHlKN1VQMG8xR0lvNzMyU3Q4cEs5czBrUkZXY0NBZl9rYWF0WEhoa2xXLVNiM3A0VkJWWFdnM3lMNl9pcEdqbTg3cUFWcENHZlRSQ2N3U1BsV19hQ19VSkxVdkc2b0RJX3BXY3U0N3ZqSm9BeWJzbDRMWEQ0T0JiX01SUnBPYXlqSnRwUHdldVEzUzdxQmE?oc=5",
-      "words": [
-        "agents",
-        "automate",
-        "banking",
-        "falcon",
-        "launches",
-        "merlinfx",
-        "real",
-        "time",
-        "transactions"
-      ]
-    },
-    {
-      "at": "2026-09-09T12:31:33.814666+00:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUZQclYyTEFUb3dxSXRkQ2ExalJ1TExBbF8zSU00Z2RfaDZZQ2xZYmFpQzBkMmF2M2dJYTM0WVhIcTFoNm5BWVgycUdwSnIyWVpLNXFFVUxJb0VQckQwZGpjaUtTdkkyUF9tSlhEeFFSN0dIQVdyajlhQVB0d3VGT0EzVEszQms1c19ISVhINllZZHJ2d2N2MmJGaE5wVzll?oc=5",
-      "words": [
-        "closes",
-        "million",
-        "swiggy",
-        "toing",
-        "users",
-        "weekly",
-        "zomato"
-      ]
-    },
-    {
       "at": "2026-09-09T12:46:28.586149+00:00",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTGxYQ2w1bmEzVmctTnpaNmdrVDlOM3ExU09vbHgzWWs2U0t2OVJPeUwzZU1hbXQ5cVNFRUZLRGtyWjdDUGxlWUpObkFmRVpxaUwtdkVjQ2tUSG1jOU1YWG9xQVpEZ1VDR0ctVUlCakF0UW9hLVlKM3p4YjB6eGFTbEd6b0NNX1NwdjljdGdqejFQbGww?oc=5",
       "words": [
@@ -7243,11 +7200,64 @@
         "gets",
         "ipo"
       ]
+    },
+    {
+      "at": "2026-09-15T18:31:34.855840+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Applied Materials invests Rs 3,600 crore in Karnataka semiconductor plant",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXI1RXdHSnB6WkM5R25Kd3JlWXI2Z0tlYmJvQlYxRl9GY1M4MlJBMnQtWTd1NXk0bDYyTjBpcmtTZFc1SUFYR1JpUFpENkhlZUcxVGM4TnRmQThVbWlUb0dGNHRRX2xMbVhjcHk1LXM4VlRIaGlHZEk5ZjE1OXh6MkE5MVh6Z0VmcXdRRVJhNGhDOXJoY0NtQ2dKajVjSXhhZExnX0s0d1o5R0ZuYnF5S29DRVVPX1RDMW1GUS1aVFhoVE9reWlyS0ZoRdIB0wFBVV95cUxPcGRORFE4WnZWX3hILVFkNEVGSHJzWUVhZ3c0SE9sTlBuRS0ta1dqRy1hbG1YNDI5ZkpJWWxHdHktcDlzaENLeDdJUFBTd0RNVkMtN0lTME44S0QzbHVzYWIxR0g1M1JuSUo0V3ZwOG5GN0xBb3pXaUs3TUNQdDNMZlVyTWZTNERDNTVQanRsUUx0QWFjS0dmVjg1UHlBMlNHTnlEWEczaGRUbGVMc05LdlcxbnpRNGRkcVlMS3pNWkozQ0s3eTNiV19XTzFlbE82VE5v?oc=5",
+      "words": [
+        "600",
+        "applied",
+        "based",
+        "gets",
+        "investment",
+        "karnataka",
+        "materials",
+        "semiconductor"
+      ]
+    },
+    {
+      "at": "2026-09-15T18:31:34.855840+00:00",
+      "handle": "News: India fintech",
+      "headline": "Government clarifies no UPI levy on peer-to-peer transactions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVUZUcXBDWFNOT0FIVzJhZ1dwSEJyTHZ4NmhWMnNPX3c3WUEzOG45QmpyZi0zT0c1elV2LW1ZX1FRS2dEYTlLajBMZU9tZ01RdWM4V3FHaFJWQll1VDBhNXZLRUFzSmR3OHM2YkdCZFJBanl5UkR4ckY5aC1WUEN2VndiVnFHWUo4bmNsQ3VyVXJlV3ZuRlZRb2U3VE95eERUYzBTRjhEdm10emJkakdWeUJEcmtqZVVQRVVGWTdOSXAwZ0NOcTRwVdIB0AFBVV95cUxOQ05VNlo1Zm5sa1dCZWlvdlB3NW1WT0N4NkNwdUQzNHI5V0tyb0pjYjJsLW9KVnpsQXo3OVRNVGpzQ0Z0OVgzenkxZ1BkZVVnYWpUcjhwMGxLWlo0V0s1VEpLZlJ1RWlORFE5ZHlzV1JtWm5vX3BCVnNHWDk0VWxESVhRRkNWOWs5bzFJWVNoQUtDYWdCTmZRMUtJTkQ5dGRXckNQUklDZ1RwbDFfVmwweUxwYTB4cFRPMzhWTER4c05qZGMzTjRfc0s5UVdGUXZk?oc=5",
+      "words": [
+        "000",
+        "clarifies",
+        "govt",
+        "levy",
+        "peer",
+        "transaction",
+        "transferring",
+        "upi",
+        "via"
+      ]
+    },
+    {
+      "at": "2026-09-15T18:31:34.855840+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta to report child safety violations to I4C in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFZPVG5wZVZtSExwN3lqRWxpMWl0S29lSkZ1NkVrMjB3LV9pSFNYYnNRQjRHMXdTdkxTaUkxSHBnb0JNOXE5bEF0WDk5eE4zSkFfUThOcFJtd0d1SWZkWjhkellyZldnYkVmNGFxZkJmRTBpRkpsUHdab2VtVE5TMkpUN1duSjNScTczdmtDZGkyNzh0OGllNGticHV4a2kyMFlXVkNYVTZlblV2d3M1YnRrcW44bFZyVE1vRktvZTRSU0NS?oc=5",
+      "words": [
+        "child",
+        "directly",
+        "i4c",
+        "meta",
+        "report",
+        "safety",
+        "scrutiny",
+        "tightens",
+        "violations"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T18:16:24.748324+00:00",
+  "last_success": "2026-09-15T18:31:34.856600+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7291,15 +7301,15 @@
     "lenovo": 1789456794113,
     "meta": 1789485957052,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789493819294,
-    "news: consumer internet india": 1789493747484,
+    "news: big tech platforms": 1789495948107,
+    "news: consumer internet india": 1789494817929,
     "news: global ai": 1789495343773,
     "news: global chips": 1789493488700,
-    "news: global it services": 1789490875357,
+    "news: global it services": 1789496265032,
     "news: india ai deeptech": 1789486994503,
     "news: india edtech gaming": 1789386137814,
-    "news: india fintech": 1789494460237,
-    "news: india semiconductors": 1789488983348,
+    "news: india fintech": 1789496781726,
+    "news: india semiconductors": 1789496212528,
     "news: india tech policy": 1789495201726,
     "news: india telecom": 1789490525581,
     "news: indian it majors": 1789489041074,
