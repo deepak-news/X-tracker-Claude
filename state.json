@@ -7282,7 +7282,7 @@
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T09:46:17.016176+00:00",
+  "last_success": "2026-09-16T10:03:28.819983+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7352,14 +7352,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-16T08:03:58.180742+00:00",
+        "checked": "2026-09-16T10:07:24.035231+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-16T08:03:49.653009+00:00",
+        "checked": "2026-09-16T10:07:16.500845+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -7435,7 +7435,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-16T08:03:54.050958+00:00",
+        "checked": "2026-09-16T10:07:20.190100+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
