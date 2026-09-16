@@ -7321,7 +7321,7 @@
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T19:01:42.001614+00:00",
+  "last_success": "2026-09-16T19:16:13.178643+00:00",
   "national": {
     "alerted": [
       {
@@ -7596,7 +7596,7 @@
       "CG-RJ-E-16092026-276272",
       "CG-DL-E-17092026-276275"
     ],
-    "last_run": "2026-09-16T19:02:24.705714+00:00",
+    "last_run": "2026-09-16T19:16:40.691280+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7869,6 +7869,7 @@
       "gazette:CG-DL-E-17092026-276275"
     ]
   },
+  "news_queue": [],
   "seen": {
     "amd": 1788174900103,
     "apple": 1789567168839,
@@ -7920,8 +7921,8 @@
     "news: india ai deeptech": 1789580099872,
     "news: india edtech gaming": 1789562091959,
     "news: india fintech": 1789584660333,
-    "news: india semiconductors": 1789583460753,
-    "news: india tech policy": 1789575563560,
+    "news: india semiconductors": 1789584306313,
+    "news: india tech policy": 1789578914232,
     "news: india telecom": 1789580058779,
     "news: indian it majors": 1789584420954,
     "news: indian it midcaps": 1789584363354,
