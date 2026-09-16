@@ -1,25 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T13:16:51.149222+00:00",
-      "handle": "News: Big tech platforms",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjRieG1OZm5CSjh6clFfaUxLQUcwMUVmVkVSRVltT1lvTjNocVB4clN0bWF5Wlg2eG9QTEpXdExtQUY3VnBKQ19Qc2V3Q3lpM3NYTnFBRnBNQjU2MTlGdmY3M243TVVXei1FbFBncWJZeXYwQTBnakQwY1RIUTFXT2M2S2RJbGhxTEJQRjZtNjFvRW1CQ185by13UElJaEU2NGlIXzZFdmNkUlB4YXdyTEw3RFlhaHF3bGxMLUk2SFBNdXp2bnfSAcsBQVVfeXFMUHVoY1FwUS14QTl4VzYtdVRadmlySHZaTlB1S05yTWRzeXRsd05kQVdQUnNEZ1RtbDkyOGN3aEM5RlBfQzV6RVlUcl92RVZQV3pEUjhGN0tybENtWnM5b09HRUR0czFyU0h3M2FHcFdCYXBKLTh6TVpJYTduR005LXVkV3U0OE4zNG1PX3FNYU1fLWtseXd6WUwyRTgwVlhBMFNBNDBkREdvbTRTNkp6cVByMEtHOEtOMkdlUU1yaFRYYWRlNVA1V2ItSDA?oc=5",
-      "words": [
-        "abuse",
-        "ads",
-        "again",
-        "caught",
-        "child",
-        "defying",
-        "govt",
-        "meta",
-        "orders",
-        "running",
-        "shocking"
-      ]
-    },
-    {
       "at": "2026-09-09T13:31:47.252761+00:00",
       "handle": "News: India AI deeptech",
       "tier": 0,
@@ -7263,11 +7244,29 @@
         "meetings",
         "mukesh"
       ]
+    },
+    {
+      "at": "2026-09-16T00:01:43.885926+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "OpenAI considers massive funding round and IPO plans",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMzNSbzd4Zkd4RktyamxjUGhvUkpaV3ZVZXlnOENWeTlFcTQ3aUF3WjRHUW02MjA3YmpISGpnZi1IeVVZNW1YMUZiSVMyTkNzejl5ejRCdEFaOFk1d1BBejNsVTAwcmpURzZhSXFPamtacVRGNW90RXBweU9XeWtRT0FvU2UwMlNSc2wwa0tuZDdxM0ppempUUTRNMkk5a01tdE9ZaXh6MkNlTXJreXhQZnh6dWZzTFJjcjVYTG9FYUt6eG9mYWpVSnBUQ1F3eWRkWlJ3djVablg?oc=5",
+      "words": [
+        "ahead",
+        "funding",
+        "ipo",
+        "mulls",
+        "openai",
+        "reports",
+        "round",
+        "trillion",
+        "valuation"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-15T23:46:08.167703+00:00",
+  "last_success": "2026-09-16T00:01:43.886443+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7318,14 +7317,14 @@
     "news: global it services": 1789511573619,
     "news: india ai deeptech": 1789505051164,
     "news: india edtech gaming": 1789505766406,
-    "news: india fintech": 1789507248521,
+    "news: india fintech": 1789516200729,
     "news: india semiconductors": 1789509703907,
     "news: india tech policy": 1789507024011,
     "news: india telecom": 1789514376908,
     "news: indian it majors": 1789501348490,
     "news: indian it midcaps": 1789504506635,
-    "news: pib releases": 1789512118297,
-    "news: tech leaders": 1789513320321,
+    "news: pib releases": 1789513386839,
+    "news: tech leaders": 1789516560813,
     "nvidia": 1789511074171,
     "openai": 1789387200931,
     "pib communications": 2310616,
