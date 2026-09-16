@@ -295,8 +295,11 @@ def _egazette(entry: dict, scanned: set) -> list:
                 scanned.add(gazette_id)
             if wanted and wanted not in col(cells, "ministry / organization").lower():
                 continue
-            where = " / ".join(x for x in (col(cells, "department"), col(cells, "office"))
-                               if x and x.lower() != "not applicable")
+            parts = (col(cells, "department"), col(cells, "office"))
+            if not wanted:
+                # Reading every ministry, so say whose gazette this is.
+                parts = (col(cells, "ministry / organization"),) + parts
+            where = " / ".join(x for x in parts if x and x.lower() != "not applicable")
             items.append(Item(
                 key=f"gazette:{gazette_id}",
                 source=entry["name"],

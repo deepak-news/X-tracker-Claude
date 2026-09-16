@@ -564,3 +564,35 @@ def score(posts, rubric: str, dead_today: set | None = None,
     if unscreened:
         print(f"  ! {len(unscreened)} posts could not be screened; listing them raw")
     return judged, unscreened, newly_dead
+
+
+def ask_json(prompt: str, dead_today: set | None = None) -> tuple[list, set]:
+    """Send one prompt that expects a JSON array back; returns (entries, newly_dead).
+
+    The same model rotation and quota memory the news scoring uses, for
+    callers that write their own prompt. Raises AllModelsExhausted when no
+    model will answer, carrying whichever models ran out along the way.
+    """
+    api_key = os.environ.get(API_KEY_ENV, "").strip()
+    if not api_key:
+        raise RuntimeError(f"No {API_KEY_ENV} secret found.")
+
+    newly_dead: set = set()
+    models = _candidates(api_key, dead_today or set())
+    response = None
+    for model in models:
+        if model in newly_dead:
+            continue
+        response = _try_model(model, prompt, api_key, newly_dead)
+        if response is not None:
+            print(f"  scored with {model}")
+            break
+    if response is None:
+        raise AllModelsExhausted(f"no model would answer (tried {', '.join(models)})",
+                                 newly_dead)
+    response.raise_for_status()
+    try:
+        text = response.json()["candidates"][0]["content"]["parts"][0]["text"]
+    except (KeyError, IndexError, ValueError) as exc:
+        raise RuntimeError(f"the model's reply had no text in it ({exc})") from exc
+    return _extract_json(text), newly_dead

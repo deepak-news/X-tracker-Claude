@@ -39,10 +39,36 @@ def merge_watch(ours: dict, theirs: dict) -> dict:
     return merged
 
 
+def merge_national(ours: dict, theirs: dict) -> dict:
+    """The national desk's memory: what was read, and what was sent."""
+    merged = dict(theirs)
+    for field, cap in (("seen", 3000), ("gazette_scanned", 2000)):
+        combined, already = [], set()
+        for key in (theirs.get(field) or []) + (ours.get(field) or []):
+            if key not in already:
+                already.add(key)
+                combined.append(key)
+        merged[field] = combined[-cap:]
+
+    alerted, keys = [], set()
+    for entry in (theirs.get("alerted") or []) + (ours.get("alerted") or []):
+        key = entry.get("url") or json.dumps(entry.get("words"), sort_keys=True)
+        if key not in keys:
+            keys.add(key)
+            alerted.append(entry)
+    merged["alerted"] = sorted(alerted, key=lambda e: e.get("at", ""))[-400:]
+    merged["last_run"] = max(ours.get("last_run", ""), theirs.get("last_run", ""))
+    return merged
+
+
 def merge(ours: dict, theirs: dict) -> dict:
     merged = dict(theirs)
     merged.update({k: v for k, v in ours.items()
-                   if k not in ("seen", "alerted", "dead_models", "watch")})
+                   if k not in ("seen", "alerted", "dead_models", "watch", "national")})
+
+    if ours.get("national") or theirs.get("national"):
+        merged["national"] = merge_national(ours.get("national") or {},
+                                            theirs.get("national") or {})
 
     if ours.get("watch") or theirs.get("watch"):
         merged["watch"] = merge_watch(ours.get("watch") or {},
