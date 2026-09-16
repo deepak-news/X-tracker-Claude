@@ -7322,7 +7322,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T02",
-  "last_success": "2026-09-16T20:46:14.671602+00:00",
+  "last_success": "2026-09-16T21:01:40.565393+00:00",
   "national": {
     "alerted": [
       {
@@ -7598,7 +7598,7 @@
       "CG-DL-E-17092026-276275",
       "CG-DL-E-17092026-276226"
     ],
-    "last_run": "2026-09-16T20:46:43.766811+00:00",
+    "last_run": "2026-09-16T21:02:27.749334+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7872,7 +7872,26 @@
       "gazette:CG-DL-E-17092026-276226"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Meta India chief appears before child rights panel",
+      "post": {
+        "created_at": "2026-09-16T20:46:07+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1789591567874",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Rediff",
+        "reposts": 0,
+        "text": "Meta India chief appears before child rights panel again over CSEAM ads",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHNteE1BNTZna2NUUEFNNE1OTDRGMkVXdElILWM0QXF3bjJBeUFIelR6V2FqMHprcnd1dnVKRkVRV0FDa3NWWWdlMWhXUUFzTUdaSXkxb29yVTFzNVVBX1g4eG9XR0hQU1Q1UXJFbmlTY1o4OEx6Ql85Y3B5QnhMS1Fud1QwY0s1Rzl3TERNTzZMMTJ2V1diRmE1THprRDF6LUxWTGd3RlNwS1REWklSd0x3cmZIaE5TY2pF0gG-AUFVX3lxTE11OWFfNjNMSnlJeUktYi1xTFFrV3Z6dklpbW9kcklrN0NWRkN1aVZkekM0UkwzRGVnMXAybjhsMjdYU2w2UUFIeEhlQzNMbUZneE9JR2hJVWVoWllQazlROVVvcGJIYTZKY3k3ajNkYzZDS0FpVlo1VUdxMGhNVmIyM2VsWDVYQnlHV2dqT1A4YlF6cFQ2X05tU2ZPc2lUV3NTdzFETmZiS291NkpLV2xFX2k0Q3ZGeVNnRUNPTlE?oc=5"
+      },
+      "queued_at": "2026-09-16T21:01:40.565050+00:00",
+      "score": 7.0,
+      "why": "This is a regulatory and government compliance development involving a major tech platform in India."
+    }
+  ],
   "seen": {
     "amd": 1788174900103,
     "apple": 1789567168839,
@@ -7916,21 +7935,21 @@
     "lenovo": 1789563644712,
     "meta": 1789574419436,
     "microsoft": 1789585198114,
-    "news: big tech platforms": 1789569300211,
+    "news: big tech platforms": 1789591567874,
     "news: consumer internet india": 1789587000049,
-    "news: global ai": 1789591469242,
+    "news: global ai": 1789592386242,
     "news: global chips": 1789590194206,
-    "news: global it services": 1789587233396,
+    "news: global it services": 1789588176824,
     "news: india ai deeptech": 1789580099872,
     "news: india edtech gaming": 1789562091959,
     "news: india fintech": 1789588714376,
     "news: india semiconductors": 1789586415081,
     "news: india tech policy": 1789578914232,
     "news: india telecom": 1789580058779,
-    "news: indian it majors": 1789584420954,
+    "news: indian it majors": 1789592033633,
     "news: indian it midcaps": 1789584363354,
     "news: pib releases": 1789582063200,
-    "news: tech leaders": 1789588143360,
+    "news: tech leaders": 1789589700360,
     "nvidia": 1789570848396,
     "openai": 1789574400809,
     "pib communications": 2310616,
@@ -7942,14 +7961,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-16T18:46:44.940967+00:00",
+        "checked": "2026-09-16T21:02:16.725070+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-16T18:46:37.089423+00:00",
+        "checked": "2026-09-16T21:02:08.996858+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -8025,7 +8044,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-16T18:46:41.032539+00:00",
+        "checked": "2026-09-16T21:02:12.774391+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
