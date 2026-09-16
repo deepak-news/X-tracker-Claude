@@ -1,42 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T04:31:44.893717+00:00",
-      "handle": "News: India telecom",
-      "headline": "Reliance Jio introduces RCS messaging charges for business customers",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHBYU3AtU25VdXh0TGxsM0ZTSy1ma0N1MlRMOEl4WDBkTmVMdUhrMTdKZHNrVkFNV04ySzBabkg3dlBXQnpSZ3o0a2ZnMWdGUHVXS0F2YmdoWklNMndsMTZ4TzVHbE12bVhrY3c5RHo3Wnd3RjBKcVlTTUZaTDlZLTU2MXE2SGRvb3J1NGg1VmxiUTQ5?oc=5",
-      "words": [
-        "businesses",
-        "charges",
-        "introduces",
-        "jio",
-        "messaging",
-        "rcs"
-      ]
-    },
-    {
-      "at": "2026-09-10T04:46:58.321486+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Coforge remains top pick despite chairman resignation",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON0NiUDRJZ3oxZnRUSWE2WDlMZll1aWx2TXpHdEhJVWJJRlRlQW5xVWlOdnpBRGg2WXpYaFdYZjk3WDNPamxPckVULVNveDR4TWZWVlVtSDFlOHQ1WFlkaFZtU0JtTkl5SUJvdFJEN29BbnAwazg0T1M0UERHZi0zdGQtUXRwMko4VnBKVXNnMlJmNl9abW9qX3RudjR6eDF4QTBuWXRZOHVZSEhxbmlqdTZidy1nUzhFWWl0S05OZXB1YkxCcEtXRjE1MnVtZXVfaVJOeDZhbw?oc=5",
-      "words": [
-        "chairman",
-        "check",
-        "coforge",
-        "despite",
-        "motilal",
-        "oswal",
-        "pick",
-        "price",
-        "remains",
-        "resignation",
-        "target",
-        "top"
-      ]
-    },
-    {
       "at": "2026-09-10T05:02:05.036008+00:00",
       "handle": "News: India fintech",
       "headline": "MobiKwik expands FX Retail to support six currencies on its app",
@@ -7299,11 +7263,53 @@
         "roundtable",
         "semiconductor"
       ]
+    },
+    {
+      "at": "2026-09-16T14:46:17.528065+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "RIR installs SiC epitaxial wafer reactors in Bhubaneswar facility",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcS1kTHo2Um5JY3NtcE40dkpVWUxkQ200X00xUUxTVUl4TVlmXzNPWHdhUjA2TXlNT2FoaHZNRmFCT0lBVEpaUFBJaUNkU2FtNmRBcXAxTi1XTkV4MVk5b1Jpaml4SnIzcDJLdjljYlpvelAtR2hGWThKdm8wdFBNb2RoUWo4a09fXzFDb05WRUM5NkM5aWYydHU1eWtnX2Y4NnprWlowVlJFSEpKVFF3R182elpIYnpZblJ3NTB5ek1PbmVrdVJSQ2t6Vm1OcVR4OS1jVVRHWEV6d2MyWlhHTmZXRGV0VEQwQlBLNDhWNjdCMUlOaTBqV1lxM1lSWjR2OVdnbWZaSVRoT3RVVTBZ0gGUAkFVX3lxTE9ibVdaSWJXbUtmc2NYRFB1Y1k4c25UTFQ0TnpheEtBeW9LVmNNNXd5NGxiZDVFc0U4NWNVcnBXWmtXM3hOQzc4VEZKY1Q4VHFMUjlMZHJzcGFoS0lkZ0lLU3Uya0lGX3Bjb1l5SDV6VEx2VWxEdmo4SlZac3IwenVwYm8zSU1kcEtaNER0VVF5RmFwdjJJZE80X1piaDRXMGZsUElzX0d4LWZUV29SdDdTNmxSbGFYX0J2ZjB0b05rZlRoMUJSc3pYN3Job2FaZy1fMW1lZV9BTDg3NldmbFV3VmRlS0xwZEluUE9lSUZES2VmWVllT19TTDlwMzF5N21FQUtjb2x0NVZxelA5eVFVXzJ5eQ?oc=5",
+      "words": [
+        "bhubaneswar",
+        "epitaxial",
+        "facility",
+        "installs",
+        "manufacturing",
+        "reactors",
+        "rir",
+        "semiconductor",
+        "sic",
+        "wafer"
+      ]
+    },
+    {
+      "at": "2026-09-16T14:46:17.528065+00:00",
+      "handle": "News: India fintech",
+      "headline": "MoSPI Secretary Saurabh Garg says most UPI transactions remain MDR-free",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDlwUm9FQWJwdEsxSXR5Q0x1X1NBd0xmazlPR09TZjhPbVpDWXNLeDl1WWlsUEJoY1ZMNmZIUVJWeWxuNFpKdS1QcElhNHR1LThwZGZIZEZ0eEd6OHZrTHBoSWg5ZVhLaUozRU1JSzBtTVRsdWx1aXJrSzByUXNZUFo2dFQ1dVlZM0ptdlRFekZUendiWWs0ZGtEMVc4anlYWVlpQkdsME5LMDREU1lMZzhlWjdtVmJ2aVE?oc=5",
+      "words": [
+        "continue",
+        "conversation",
+        "exclusive",
+        "garg",
+        "mdr",
+        "moneycontrolmutualfundsummit2026",
+        "more",
+        "mospi",
+        "perhaps",
+        "saurabh",
+        "secretary",
+        "still",
+        "than",
+        "transactions"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T14:31:32.697394+00:00",
+  "last_success": "2026-09-16T14:46:17.529778+00:00",
   "national": {
     "alerted": [
       {
@@ -7501,7 +7507,7 @@
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244"
     ],
-    "last_run": "2026-09-16T14:31:59.933819+00:00",
+    "last_run": "2026-09-16T14:46:40.208412+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7731,7 +7737,8 @@
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-5742-of-2022-against-payal-jayeshbhai-madiyar-in-the-matter-of-excel-castronics-limited_104525.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-5722-of-2022-against-jayesh-vallabhaji-madiyar-in-the-matter-of-excel-castronics-limited_104523.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/ex-parte-interim-order-in-the-matter-of-cross-segment-price-manipulation-by-prrsaar-sampada-private-limited-and-chaubara-eats-private-limited_104528.html",
-      "pib:2311078"
+      "pib:2311078",
+      "pib:2311096"
     ]
   },
   "seen": {
@@ -7778,20 +7785,20 @@
     "meta": 1789520749999,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789568582123,
-    "news: consumer internet india": 1789568167817,
+    "news: consumer internet india": 1789569567875,
     "news: global ai": 1789568460614,
     "news: global chips": 1789567200664,
     "news: global it services": 1789566488721,
     "news: india ai deeptech": 1789562881900,
     "news: india edtech gaming": 1789561527959,
-    "news: india fintech": 1789568641701,
-    "news: india semiconductors": 1789568153598,
+    "news: india fintech": 1789569404839,
+    "news: india semiconductors": 1789569931034,
     "news: india tech policy": 1789568506087,
     "news: india telecom": 1789568004817,
     "news: indian it majors": 1789567994505,
     "news: indian it midcaps": 1789567440958,
     "news: pib releases": 1789566420922,
-    "news: tech leaders": 1789566920515,
+    "news: tech leaders": 1789568460614,
     "nvidia": 1789563633139,
     "openai": 1789563600945,
     "pib communications": 2310616,
