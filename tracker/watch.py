@@ -230,6 +230,23 @@ def _gazette_rows(table) -> tuple:
     return [cells for cells in rows if len(cells) >= len(header) - 1], col
 
 
+def _gazette_pdf(gazette_id: str) -> str:
+    """The gazette's own PDF, worked out from its ID.
+
+    An ID like CG-DL-E-16092026-276236 carries the publication date and the
+    file number, and the site stores every gazette at
+    WriteReadData/<year>/<number>.pdf -- checked against real MHA gazettes,
+    which open as the right document. Any ID not in that shape falls back to
+    the site's front page, because the list page itself cannot be linked to:
+    it turns away anyone arriving without the session it hands out.
+    """
+    match = re.search(r"-\d{4}(\d{4})-(\d+)$", gazette_id)
+    if not match:
+        return "https://egazette.gov.in/"
+    year, number = match.groups()
+    return f"https://egazette.gov.in/WriteReadData/{year}/{number}.pdf"
+
+
 def _egazette(entry: dict, scanned: set) -> list:
     """Extraordinary gazettes, filtered to one ministry.
 
@@ -254,7 +271,6 @@ def _egazette(entry: dict, scanned: set) -> list:
 
     category = int(entry.get("category", 6))
     url = f"{base}/RecentUploads.aspx?Category={category}"
-    public = f"https://egazette.gov.in/RecentUploads.aspx?Category={category}"
     wanted = _tidy(entry.get("ministry", "")).lower()
     max_pages = int(entry.get("max_pages", 5))
 
@@ -292,10 +308,7 @@ def _egazette(entry: dict, scanned: set) -> list:
                     f"published {col(cells, 'publish date')}",
                     gazette_id,
                 ) if x)),
-                # The download button is a form postback with no address of
-                # its own, so the list page is the link. The gazette ID above
-                # is what you quote when asking for the document.
-                url=public,
+                url=_gazette_pdf(gazette_id),
             ))
 
         if not anything_new or page == max_pages:
