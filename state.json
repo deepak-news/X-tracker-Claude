@@ -1,24 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T16:02:50.145084+00:00",
-      "handle": "News: India fintech",
-      "headline": "Niti Aayog head suggests tapping UPI data for MSME lending",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTG1IakYxYTBfVTd4N2FIRURBTkZaZ0xvcmZQbXhPR1ZYQllrN19aeEV5VGwyV3VyODhMS3E2V3MyV0Q2QXBJOVhTRFNrUkxTSWZfUDRDbUhSeHZkbUl4Yk1ZbGlIcW1pZG1RbTlsZGlnRWJMNGk1Zm5qb2ZaN3VEU1hSdnJyUTZlWUQyczcxYVVhN2NEMjJLNjltRWoyUTJyaWQ4anlQQdIBtAFBVV95cUxPSmhPVG1xN0VYelkzV0NXS3NwNUhJWHVFWHB5aUVQRGg1V3JLWDVpX2hGSHlXRm03T3NVSUVucnZiUXhhLWN4c3JpblVkVVhWR1lMaU5LQnVVcDdESTNoTHMtVzNnd0Jwb3N0Q0tIZWJhVUpPa2s0cXVfR2ZucHBjZU1YM0RKWFV0MVNaYVREQ0dTWGFZWnI0bHU2MTZMVndkc1VsVWJzcFBuYzVhN1M4TUxMcm8?oc=5",
-      "words": [
-        "aayog",
-        "boost",
-        "data",
-        "head",
-        "lending",
-        "msme",
-        "niti",
-        "tap",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-09-09T16:16:10.017273+00:00",
       "handle": "News: Indian IT majors",
       "headline": "TCS launches India's first lights-out factory lab in Pune",
@@ -7277,11 +7259,25 @@
         "nithin",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-16T06:46:17.876056+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Priyanka Bhargav exits Flipkart and joins L'Or\u00e9al",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTJQNkR6U20ydUMxQ0RYOHBiNmdQSnkzc3pscFl3b19leDNLSlFkd2FwVTNPTFlmNTRlai0tSVNJcmtBb3lwZGJmSnVSNlNCZmJEWnFSZUwzUkpBRzBWUWVpYXYwUGtUZG40SlE0a0xMdDJ0UDhhOElXZF9PaG1jQVF3cm1GSWJvMGNiaEpfemFFN3JmdjBmSUp3?oc=5",
+      "words": [
+        "bhargav",
+        "exits",
+        "flipkart",
+        "joins",
+        "priyanka"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T06:31:36.775936+00:00",
+  "last_success": "2026-09-16T06:46:17.876321+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7325,14 +7321,14 @@
     "lenovo": 1789456794113,
     "meta": 1789520749999,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789539967769,
-    "news: consumer internet india": 1789539422280,
+    "news: big tech platforms": 1789540019324,
+    "news: consumer internet india": 1789540799604,
     "news: global ai": 1789536798332,
-    "news: global chips": 1789538760717,
+    "news: global chips": 1789541025433,
     "news: global it services": 1789539900892,
     "news: india ai deeptech": 1789537380123,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789539526423,
+    "news: india fintech": 1789540540737,
     "news: india semiconductors": 1789538973466,
     "news: india tech policy": 1789539231183,
     "news: india telecom": 1789539483369,
