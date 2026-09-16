@@ -2,6 +2,7 @@
 
 import argparse
 import asyncio
+import dataclasses
 import datetime as dt
 import json
 import pathlib
@@ -75,6 +76,121 @@ def record_dead_models(state: dict, newly_dead: set) -> None:
             del graveyard[name]
 
 
+# Google News items wait and go out together, once an hour, just after the
+# hour in Indian time -- so reporters know when to look. Primary sources
+# never wait. An hour with nothing waiting sends nothing.
+IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
+
+
+def _queued_post(entry: dict):
+    return sources.Post(**entry["post"])
+
+
+def _is_news(post) -> bool:
+    return sources.tier(post.handle) == sources.TIER_NEWS
+
+
+def hold_news(state: dict, rows: list, unscreened: list) -> None:
+    """Park news-report stories until the next digest."""
+    queue = state.setdefault("news_queue", [])
+    now = dt.datetime.now(dt.timezone.utc).isoformat()
+    waiting = {e["post"].get("url") for e in queue}
+    for post, value, headline, why in rows:
+        if post.url not in waiting:
+            queue.append({"post": dataclasses.asdict(post), "score": value,
+                          "headline": headline, "why": why, "queued_at": now})
+    for post in unscreened:
+        if post.url not in waiting:
+            queue.append({"post": dataclasses.asdict(post), "score": None,
+                          "headline": "", "why": "", "queued_at": now})
+
+
+def release_superseded(state: dict, primary_rows: list) -> None:
+    """A filing or release just went out about a story that was waiting.
+
+    The primary source IS the story; the news report of it would only arrive
+    an hour later as a repeat. So it leaves the queue.
+    """
+    queue = state.get("news_queue") or []
+    if not queue or not primary_rows:
+        return
+    kept = [e for e in queue
+            if not any(judge._same_story(_queued_post(e), row[0]) for row in primary_rows)]
+    if len(kept) < len(queue):
+        print(f"  dropped {len(queue) - len(kept)} waiting news report(s): "
+              f"the original source was just sent instead")
+    state["news_queue"] = kept
+
+
+def send_digest(state: dict, dry_run: bool, label: str = "") -> bool:
+    """Email everything waiting as one message. Returns whether it went."""
+    sent = {e.get("url") for e in state.get("alerted", []) if e.get("url")}
+    rows, raw = [], []
+    for entry in state.get("news_queue") or []:
+        post = _queued_post(entry)
+        if post.url in sent:
+            continue
+        if entry.get("score") is None:
+            raw.append(post)
+        else:
+            rows.append((post, float(entry["score"]), entry.get("headline") or post.text[:100],
+                         entry.get("why") or ""))
+
+    # Several outlets may have queued the same story during the hour.
+    rows.sort(key=lambda r: -r[1])
+    unique = []
+    for row in rows:
+        if not any(judge._same_story(row[0], kept[0]) for kept in unique):
+            unique.append(row)
+
+    if not unique and not raw:
+        state["news_queue"] = []
+        return False
+    subject, body = email_out.build_digest(unique, raw)
+    subject = f"{label or 'Hourly'} news digest: {subject}"
+    if dry_run:
+        print(f"(dry run) the hourly digest would go now: {subject}")
+        return False
+    email_out.send(subject, body)
+    print(f"Emailed the hourly digest: {subject}")
+    judge.remember_alerted(state, unique + [(p, 0, p.text[:110], "") for p in raw])
+    state["news_queue"] = []
+    return True
+
+
+def hourly_digest(state: dict, dry_run: bool) -> None:
+    """Send the news digest if this hour's has not gone yet.
+
+    The first run after the hour turns is the digest run: whatever waited
+    through the previous hour goes then, including anything that run itself
+    just found. Once an hour's slot is used -- sent, or found empty -- later
+    runs in that hour leave the queue alone, so a report found at 3:05 goes
+    at 4:00, never at 3:20. A digest that fails to send keeps its slot open
+    and is tried again on the next run.
+    """
+    now = dt.datetime.now(IST)
+    slot = now.strftime("%Y-%m-%dT%H")
+    if not state.get("last_digest_hour") and not dry_run:
+        # The very first run: start the clock rather than sending a digest
+        # at whatever odd minute this happens to be. The first one goes on
+        # the next hour.
+        state["last_digest_hour"] = slot
+    if state.get("last_digest_hour") == slot:
+        waiting = len(state.get("news_queue") or [])
+        if waiting:
+            print(f"{waiting} news report(s) waiting for the {(now + dt.timedelta(hours=1)).strftime('%-I %p')} digest")
+        return
+    if state.get("news_queue"):
+        label = now.strftime("%-I %p")
+        try:
+            send_digest(state, dry_run, label)
+        except Exception as exc:  # noqa: BLE001
+            print(f"  ! the {label} news digest could not be sent ({exc}); trying again next run")
+            return
+    if not dry_run:
+        state["last_digest_hour"] = slot
+
+
 def report_breakage(state: dict, reason: str) -> None:
     """Something is broken. Nag once, not every run."""
     state["consecutive_failures"] = state.get("consecutive_failures", 0) + 1
@@ -105,6 +221,8 @@ async def run(dry_run: bool) -> int:
     cfg = yaml.safe_load(WATCHLIST.read_text())
     rubric = (cfg.get("newsworthy") or "").strip()
     threshold = float(cfg.get("threshold", 7))
+    # Whether Google News stories wait for the hourly digest.
+    hourly = bool(cfg.get("news_digest_hourly", True))
     feeds = sources.labels(cfg)
 
     if not feeds or not rubric:
@@ -119,6 +237,8 @@ async def run(dry_run: bool) -> int:
         posts, failed = await asyncio.to_thread(sources.collect, cfg)
     except XUnavailable as exc:
         report_breakage(state, str(exc))
+        if hourly:
+            hourly_digest(state, dry_run)
         save_state(state)
         return 2
 
@@ -148,6 +268,15 @@ async def run(dry_run: bool) -> int:
     candidates = judge.prefilter(fresh, cfg)
     # Stories already emailed do not need scoring or sending a second time.
     candidates = judge.drop_already_alerted(candidates, state)
+    # A news report of a story already waiting for the digest adds nothing.
+    # Only reports are checked: a filing about it must still go straight out.
+    waiting = [_queued_post(e) for e in state.get("news_queue") or []]
+    if hourly and waiting:
+        before = len(candidates)
+        candidates = [p for p in candidates
+                      if not (_is_news(p) and any(judge._same_story(p, w) for w in waiting))]
+        if before > len(candidates):
+            print(f"  skipped {before - len(candidates)} report(s) of stories already waiting for the digest")
     print(f"{len(fresh)} new posts, {len(candidates)} survived the cheap filters")
 
     # Read the actual filings before judging them. A headline of "Enclosed"
@@ -171,12 +300,16 @@ async def run(dry_run: bool) -> int:
             # not waste a request re-probing them from scratch.
             record_dead_models(state, exc.newly_dead)
             report_breakage(state, f"The AI scoring step failed: {exc}")
+            if hourly:
+                hourly_digest(state, dry_run)
             save_state(state)
             return 2
         except Exception as exc:  # noqa: BLE001
             # Records the failure but does NOT advance what we have seen, so
             # these posts get another chance on the next run.
             report_breakage(state, f"The AI scoring step failed: {exc}")
+            if hourly:
+                hourly_digest(state, dry_run)
             save_state(state)
             return 2
         record_dead_models(state, newly_dead)
@@ -187,6 +320,14 @@ async def run(dry_run: bool) -> int:
             mark = "SEND" if value >= threshold else "skip"
             print(f"  [{mark}] {value:.0f}/10 {post.handle}: {headline}")
 
+    # Original sources go out now. Google News reports wait for the digest.
+    held, held_raw = [], []
+    if hourly:
+        held = [r for r in newsworthy if _is_news(r[0])]
+        held_raw = [p for p in unscreened if _is_news(p)]
+        newsworthy = [r for r in newsworthy if not _is_news(r[0])]
+        unscreened = [p for p in unscreened if not _is_news(p)]
+
     if newsworthy or unscreened:
         subject, body = email_out.build_digest(newsworthy, unscreened)
         if dry_run:
@@ -196,12 +337,24 @@ async def run(dry_run: bool) -> int:
                 email_out.send(subject, body)
             except Exception as exc:  # noqa: BLE001
                 report_breakage(state, f"Sending the alert email failed: {exc}")
+                if hourly:
+                    hourly_digest(state, dry_run)
                 save_state(state)
                 return 2
             print(f"\nEmailed: {subject}")
             judge.remember_alerted(state, newsworthy)
+            release_superseded(state, newsworthy)
     else:
-        print("\nNothing worth emailing.")
+        print("\nNo original-source alert this run.")
+
+    if held or held_raw:
+        hold_news(state, held, held_raw)
+        print(f"Holding {len(held) + len(held_raw)} news report(s) for the hourly digest "
+              f"({len(state['news_queue'])} waiting in all)")
+
+
+    if hourly:
+        hourly_digest(state, dry_run)
 
     if not dry_run:
         seen.update(new_marks)

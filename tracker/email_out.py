@@ -112,9 +112,6 @@ def build_digest(items, unscreened=None) -> tuple[str, str]:
           <div style="font:400 15px/1.55 -apple-system,Segoe UI,sans-serif;color:#222;white-space:pre-wrap;">
             {html.escape(post.text)}
           </div>
-          <div style="font:400 13px/1.5 -apple-system,Segoe UI,sans-serif;color:#666;margin-top:10px;">
-            {html.escape(why)}
-          </div>
           <a href="{html.escape(post.url)}"
              style="display:inline-block;margin-top:12px;font:600 13px -apple-system,Segoe UI,sans-serif;
                     color:#1d6ef5;text-decoration:none;">Read it in full &rarr;</a>

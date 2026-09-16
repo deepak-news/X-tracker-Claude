@@ -440,7 +440,6 @@ def build_email(rows: list) -> tuple:
             <span style="color:#6b7280;font:400 12px/1 {font};margin-left:8px;">{html.escape(_issuer(post))}</span>
           </div>
           <div style="font:600 17px/1.35 {font};color:#111827;">{html.escape(headline or _original(post))}</div>
-          {f'<div style="font:400 14px/1.55 {font};color:#374151;margin-top:6px;">{html.escape(why)}</div>' if why else ''}
           <div style="font:400 13px/1.5 {font};color:#6b7280;margin-top:8px;">
             As issued: {html.escape(_original(post))}</div>
           <div style="margin-top:12px;">

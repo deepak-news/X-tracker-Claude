@@ -64,7 +64,8 @@ def merge_national(ours: dict, theirs: dict) -> dict:
 def merge(ours: dict, theirs: dict) -> dict:
     merged = dict(theirs)
     merged.update({k: v for k, v in ours.items()
-                   if k not in ("seen", "alerted", "dead_models", "watch", "national")})
+                   if k not in ("seen", "alerted", "dead_models", "watch", "national",
+                                "news_queue", "last_digest_hour")})
 
     if ours.get("national") or theirs.get("national"):
         merged["national"] = merge_national(ours.get("national") or {},
@@ -99,9 +100,22 @@ def merge(ours: dict, theirs: dict) -> dict:
         dead[name] = max(when, dead.get(name, ""))
     merged["dead_models"] = dead
 
-    for field in ("last_success",):
-        if theirs.get(field, "") > ours.get(field, ""):
-            merged[field] = theirs[field]
+    # Stories waiting for the hourly digest. A story either run has already
+    # emailed must not come back into the queue from the other run's copy.
+    sent_urls = {e.get("url") for e in alerted if e.get("url")}
+    queue, queued = [], set()
+    for entry in (theirs.get("news_queue") or []) + (ours.get("news_queue") or []):
+        url = (entry.get("post") or {}).get("url")
+        if url in queued or url in sent_urls:
+            continue
+        queued.add(url)
+        queue.append(entry)
+    merged["news_queue"] = queue
+
+    for field in ("last_success", "last_digest_hour"):
+        latest = max(theirs.get(field, ""), ours.get(field, ""))
+        if latest:
+            merged[field] = latest
     return merged
 
 
