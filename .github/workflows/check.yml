@@ -74,6 +74,25 @@ jobs:
             python -m tracker.watch
           fi
 
+      # The third prong: official news with broad public value, for the head
+      # of social media. Its own step, so a problem here cannot stop either
+      # of the other two, and theirs cannot stop this. It does nothing until
+      # the SOCIAL_MAIL_TO secret exists.
+      - name: Check official news for the national desk
+        if: always()
+        timeout-minutes: 8
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          SOCIAL_MAIL_TO: ${{ secrets.SOCIAL_MAIL_TO }}
+        run: |
+          case "${{ inputs.mode }}" in
+            test-email) python -m tracker.national --test-email ;;
+            dry-run)    python -m tracker.national --dry-run ;;
+            *)          python -m tracker.national ;;
+          esac
+
       - name: Remember what we have already seen
         if: always()
         run: |
