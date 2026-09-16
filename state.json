@@ -2,26 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-10T09:31:57.372330+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Delhi High Court mandates biometric Aadhaar authentication for GST registrations",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeDhBdEFZd3RVaU8wYkpVbTEtMFBlQW82QkVTR3BNSkpwdVZqeWpuYVRDNnZzTXRiY3hqVy10WlZhTjlSNFJvS0t4eFRmcWloYk9PYmF2X0FlYjNnOE92LUhsVUNEWHI3M0I4ZUQ3UU5NN3JIVDN6eDBFMktVZVQ5eHhjR0dZeGxLcEFpck9GVTBjTGFJSW4xVzVYQmV4T3VtNTl0NUhQTXBmdW9RQWNMNDlqaVJFY0xERS1fSFFfUjZ5Q05DcktaMkp2eGpYaVc0TWtvYkJONjZxTXB60gHqAUFVX3lxTE84eDlpUmNQWDkxNW5zWEJ5OXFhTXFDckQ3aEpnMzZzMnhKeEVkdWl4VU5LaTdxY3BWTnFmUnJFOWVPOEtnMmctcC1ZSnR0N040c3gxOTdvRUFLZi1JcnEyLXFrWFdDWjVWdkVIdzEtUlNGcV9Qb0RqeXhtM2VabzlpZ2RUTjlETkJ5R2w0ZXJEa2ZlVFFBZE95d1BSVkRQaVhXWndkMEIyZWc2NkF4Y0V2YkJYejFYZTdMYnJsZFBTaGhDZ1ZCMUE2dnUyeE56Yl81SG1panpVbjhmenk4Zk1mQUNMdDNCZG5hUQ?oc=5",
-      "words": [
-        "aadhaar",
-        "across",
-        "authentication",
-        "biometric",
-        "court",
-        "delhi",
-        "gst",
-        "high",
-        "makes",
-        "mandatory",
-        "registrations"
-      ]
-    },
-    {
-      "at": "2026-09-10T09:31:57.372330+00:00",
       "handle": "News: India fintech",
       "headline": "NPCI building enterprise AI platform on Claude, says Anthropic India MD",
       "tier": 0,
@@ -7317,12 +7297,31 @@
         "semiconductor",
         "test"
       ]
+    },
+    {
+      "at": "2026-09-16T21:31:31.899504+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta India chief appears before child rights panel",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHNteE1BNTZna2NUUEFNNE1OTDRGMkVXdElILWM0QXF3bjJBeUFIelR6V2FqMHprcnd1dnVKRkVRV0FDa3NWWWdlMWhXUUFzTUdaSXkxb29yVTFzNVVBX1g4eG9XR0hQU1Q1UXJFbmlTY1o4OEx6Ql85Y3B5QnhMS1Fud1QwY0s1Rzl3TERNTzZMMTJ2V1diRmE1THprRDF6LUxWTGd3RlNwS1REWklSd0x3cmZIaE5TY2pF0gG-AUFVX3lxTE11OWFfNjNMSnlJeUktYi1xTFFrV3Z6dklpbW9kcklrN0NWRkN1aVZkekM0UkwzRGVnMXAybjhsMjdYU2w2UUFIeEhlQzNMbUZneE9JR2hJVWVoWllQazlROVVvcGJIYTZKY3k3ajNkYzZDS0FpVlo1VUdxMGhNVmIyM2VsWDVYQnlHV2dqT1A4YlF6cFQ2X05tU2ZPc2lUV3NTdzFETmZiS291NkpLV2xFX2k0Q3ZGeVNnRUNPTlE?oc=5",
+      "words": [
+        "ads",
+        "again",
+        "appears",
+        "before",
+        "chief",
+        "child",
+        "cseam",
+        "meta",
+        "panel",
+        "rights"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-17T02",
-  "last_success": "2026-09-16T21:16:12.462104+00:00",
+  "last_digest_hour": "2026-09-17T03",
+  "last_success": "2026-09-16T21:31:31.899954+00:00",
   "national": {
     "alerted": [
       {
@@ -7598,7 +7597,7 @@
       "CG-DL-E-17092026-276275",
       "CG-DL-E-17092026-276226"
     ],
-    "last_run": "2026-09-16T21:16:44.658525+00:00",
+    "last_run": "2026-09-16T21:32:04.273411+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7872,26 +7871,7 @@
       "gazette:CG-DL-E-17092026-276226"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Meta India chief appears before child rights panel",
-      "post": {
-        "created_at": "2026-09-16T20:46:07+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1789591567874",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Rediff",
-        "reposts": 0,
-        "text": "Meta India chief appears before child rights panel again over CSEAM ads",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHNteE1BNTZna2NUUEFNNE1OTDRGMkVXdElILWM0QXF3bjJBeUFIelR6V2FqMHprcnd1dnVKRkVRV0FDa3NWWWdlMWhXUUFzTUdaSXkxb29yVTFzNVVBX1g4eG9XR0hQU1Q1UXJFbmlTY1o4OEx6Ql85Y3B5QnhMS1Fud1QwY0s1Rzl3TERNTzZMMTJ2V1diRmE1THprRDF6LUxWTGd3RlNwS1REWklSd0x3cmZIaE5TY2pF0gG-AUFVX3lxTE11OWFfNjNMSnlJeUktYi1xTFFrV3Z6dklpbW9kcklrN0NWRkN1aVZkekM0UkwzRGVnMXAybjhsMjdYU2w2UUFIeEhlQzNMbUZneE9JR2hJVWVoWllQazlROVVvcGJIYTZKY3k3ajNkYzZDS0FpVlo1VUdxMGhNVmIyM2VsWDVYQnlHV2dqT1A4YlF6cFQ2X05tU2ZPc2lUV3NTdzFETmZiS291NkpLV2xFX2k0Q3ZGeVNnRUNPTlE?oc=5"
-      },
-      "queued_at": "2026-09-16T21:01:40.565050+00:00",
-      "score": 7.0,
-      "why": "This is a regulatory and government compliance development involving a major tech platform in India."
-    }
-  ],
+  "news_queue": [],
   "seen": {
     "amd": 1788174900103,
     "apple": 1789567168839,
@@ -7940,10 +7920,10 @@
     "news: global ai": 1789592386242,
     "news: global chips": 1789590194206,
     "news: global it services": 1789592160813,
-    "news: india ai deeptech": 1789580099872,
+    "news: india ai deeptech": 1789593506349,
     "news: india edtech gaming": 1789562091959,
     "news: india fintech": 1789592556026,
-    "news: india semiconductors": 1789586415081,
+    "news: india semiconductors": 1789593810943,
     "news: india tech policy": 1789587518761,
     "news: india telecom": 1789580058779,
     "news: indian it majors": 1789592033633,
