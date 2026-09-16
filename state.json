@@ -1,63 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T02:46:29.805614+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Ex-TCS CCO Kinshuk Gupta joins Reliance Jio",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb2dUdUp2UkRLRU9xVmlSdVQ0Nk5MOXg2MldrQzV1MDI1Z2wyOVF3d3c2QUJscUF6VzR6Rzg3dWZvaEpLeUVJLWJQTlNxWk5YOVFSOU01azBaMUlBSnY0N1hhTjRDSDJVYzFubkVERGVfREw3SVh6d19zRG9HT05KajVySzgySDd4YjNMMjdPUVVaUFljdFRsWHBGMnZ2WTdTYXVGU2N3Q3VaaXB3NEJXQW44SEdXQzZJVWxQRXQxWl8?oc=5",
-      "words": [
-        "cco",
-        "communications",
-        "corporate",
-        "gupta",
-        "jio",
-        "joins",
-        "kinshuk",
-        "lead",
-        "reliance",
-        "tcs"
-      ]
-    },
-    {
-      "at": "2026-09-10T03:02:04.968262+00:00",
-      "handle": "News: India fintech",
-      "headline": "Investors can now conduct UPI transactions through liquid funds",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa2ZoRHF3VFNrT1NDWkFQQktaXy11ajdMdE1aRmlYODJBbF9xQ0xVZUljLVNxT2VrSWJ4T0lmbHVzQUxvNEFDWHJzbUZmbUw1ZGQtT1ZRQXVOTGlWS3RITHFqLXZESmZGMkRHT1p4a2VfRnFhTk0xd2JqV3RTVU5xUkZpbVNvQjFucHhGWVh6cHZJNEU?oc=5",
-      "words": [
-        "can",
-        "fund",
-        "investors",
-        "liquid",
-        "now",
-        "through",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-10T03:46:30.702638+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "MP High Court directs TCS, Infosys, L&T to audit IT wing",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1ptajVVS3FnVjhKb0R4cGlBNUc0SDRBakJ5NnJ1ekd6N0l6bFFhN2ZnMEdDSjVxZDVrV1ZJaGVhc1BSb1BRUmZxMHRRaEtlRUJFSzczN1lHdjlxSEVSNnVhRlhMblJhT2hiNUdRRDBWeXV1NXV3cWQ4TnM5aWtiWWg2dlZqdnFodW93R2NWc1Qyd3ZVUEtNM2RSWFJkRWJEc1M3czh4cndPbzNSQXRxYUFTYkJVUXBSUktvajB3dy1CNXdrLXFuOU9zX0ZFS05x0gHeAUFVX3lxTE82bGtIaUhkUFN0VjhoQWVtSjNrMWtkVlU3VE5MTkVMUFNlTlhkdFBWVF9aTUtObmVFd3UxMHVhb3c0eVMwbnZjeFBEdEc1ZHZ5TjB2c0szSzR0S2FFSWZFTDhkM0tkRkw5bFZhTkM4MWtLX1ZLLTQ4NzVoR3BPUDlBVE4zNm5sYXl5cUZiNTF5eXlVV2IwNHRDb0VoTDE2TTcyQ3R1Tk9kMTJCM1VYcnBFY1hLbVUyc2xCeGc2MVF4U3lLSXlRd3NzdFhHbjFkdmt5QzRzV3U0VnFBM1FzQQ?oc=5",
-      "words": [
-        "audit",
-        "court",
-        "directs",
-        "functional",
-        "high",
-        "infosys",
-        "madhya",
-        "non",
-        "pradesh",
-        "slams",
-        "tcs",
-        "website",
-        "wing"
-      ]
-    },
-    {
       "at": "2026-09-10T04:02:11.162442+00:00",
       "handle": "News: India AI deeptech",
       "headline": "Sarvam CEO outlines India's low-budget strategy for global AI race",
@@ -7296,11 +7239,76 @@
         "must",
         "remove"
       ]
+    },
+    {
+      "at": "2026-09-16T13:02:54.248348+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Govt sources say Meta acts as service provider on algorithms",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSHV5RzZkLURSQ2JHdzFPZVowQ3ZSMnV3emhTNFN4S1ZGYTY4aHhPaXVJbHFCY2hCb2FMeHlFZ2VtVm56LUdyd0NlT1NxZDl6cWRqYTRndExrT0ZweUcwbVBmYkFURDdWMVpFSU5ZbUNKdVhLY0pTTlo4NElqeEM3WTk3SS1xYVZnRWtvNlFpbXd3T0k4elRScUU3RlotZzM1WHBnb1RCSXo5dVZsRWtwVmp4SXJjRlcxMHdsTlc5UlkxdUt4YzRQTEhfMDg2WTZsT3dwRVNZeGJub1lkRVdseHhLZ3JETFRQejI4QXFGbm9idkNpT3BTZ3RB0gGHAkFVX3lxTFBVczh0TTNENm05cm9YaFBHQWFvOXhKa09fSWs0b0hsQURsangxYy1yQ0lpNDVWV0RGRGRtZk1UWjlhWUtYNlctR2RtVlIzUWMtSl9YT0dfOUt3eFdzOUtmWk9DUUFWSTlCeHFaZTR3SVh5WmVwT3hxVm80TmtLY0tXemxaT3otWWVkMlJhT3RyU3h2cXZqa081QVdLQWgxVU1ZN2JGdHdHZzdYY2RHSUR1Wi1YQUxONTdZa2ZOUi1rZjcyamV0Nm94SFpkdHpIXzQ3NFJYU284YlV5eUsxb3ZXendzcUlsWE92TGR4NUd0N2FRV3Mtd2I0WF9wSXRGd2hxSnQ0T3Mw?oc=5",
+      "words": [
+        "algorithms",
+        "content",
+        "decide",
+        "govt",
+        "intermediary",
+        "meta",
+        "provider",
+        "say",
+        "service",
+        "simple",
+        "sources",
+        "visibility",
+        "when"
+      ]
+    },
+    {
+      "at": "2026-09-16T13:02:54.248348+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "PM Modi meets global chip executives ahead of Semicon India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkJES0ZLUERNY0VNR1d2Sm5rS01FekZJWFR3S1g4Z2JWZGZWNmU1Y1V0Tm5LTHlDTHNkbzV6ZWVGdTFLM0J5X2x6ZjY3SkpmbTR1TkR4ZHFlak1oOFU3Y3ZiR3pUQm9WXzZyMFFPLUNSRFNLSEZWT0pkVlBzclk2VmcwU2ZQXzJBMExZQW1zTllLREFtWV9XbG9nUDA5ZXd3QWd1QVc0QlR4azlremdYTUpoaTBrN0ZFMnJyb3VoM0wzaU9WSU9ZWm9qeVfSAdQBQVVfeXFMT0NuLUdxYzBjOUtkc2E2dlFEMGRvUTNKV2h6SlI5RFpvMmRSYmNZMkFYWFhKbXE5SjNTY1ZqbXF2RDVuZWYwUzNLY0pqUUxpVUp5RVFPMEZPYWRhTFNXUGtBUjM3b08tZnR4cjh2eHdGS0tlUmZpYnpLVTNMb2pyNnNyZGtxbGs2VlJjeU0wYnVvWmJSMUk3OXd4TV85RGQwdVd5THpmSDZhWjlQVTVYSGYwNURVU0d1LVQ4OGxqY1FxMlA3NWFoODdaelVQamdkRWJDODE?oc=5",
+      "words": [
+        "200b",
+        "2026",
+        "ahead",
+        "focus",
+        "giants",
+        "global",
+        "goal",
+        "meets",
+        "modi",
+        "semicon",
+        "semiconductor"
+      ]
+    },
+    {
+      "at": "2026-09-16T13:02:54.248348+00:00",
+      "handle": "News: India fintech",
+      "headline": "Minister Jyotiraditya Scindia defends UPI MDR structure",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOVUhicVQ1T09FaVlsVlJHQzFKZlBLN0hpcjJjNUZ4cW5ON2d0ZkR0dWZ2ODluUlRHRV9fV1JNNWI5RDRfQ1NrT2NVWkNYWkNlNzJYV2diX1pYQnQwQUhVNndZeUItaU05TThpRVhtcjhoaFRROGhvdmlfV0V0Z21jenlzdDB4UW9UVUJQLVpTeUF6dWkxMFZLb2plRlljYndXRmR1Z1VpRl9BTHhtTk0tXzR2cjlVQV8zMlF5T2NfdkFTRm5qdXQxdnluWkg0ZFA0TFNHdkJNUWFhY3l5MTVjaUVkTWVhUnhtRTJONFUzYXBGY1d3ZlV4VjRsUzlGV1BZT2N6UWpCLTJDaGJqS3FWS1cyZHFQYkM5dnJN?oc=5",
+      "words": [
+        "charges",
+        "customers",
+        "framework",
+        "help",
+        "jyotiraditya",
+        "levied",
+        "make",
+        "mdr",
+        "scindia",
+        "self",
+        "sustaining",
+        "technology",
+        "transactions",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T12:46:21.263308+00:00",
+  "last_success": "2026-09-16T13:02:54.249240+00:00",
   "national": {
     "alerted": [
       {
@@ -7346,6 +7354,29 @@
           "mandatory",
           "ministry",
           "wage"
+        ]
+      },
+      {
+        "at": "2026-09-16T13:08:13.045191+00:00",
+        "handle": "PIB Ministry of Information & Broadcasting",
+        "headline": "Veteran actor Anant Nag chosen for the prestigious Dadasaheb Phalke Award for 2024.",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310989",
+        "words": [
+          "2024",
+          "actor",
+          "anant",
+          "award",
+          "broadcasting",
+          "cinema",
+          "cinematic",
+          "contribution",
+          "dadasaheb",
+          "his",
+          "honoured",
+          "illustrious",
+          "information",
+          "journey"
         ]
       }
     ],
@@ -7452,7 +7483,7 @@
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244"
     ],
-    "last_run": "2026-09-16T12:49:53.703422+00:00",
+    "last_run": "2026-09-16T13:08:13.045844+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7654,7 +7685,14 @@
       "pib:2310976",
       "pib:2310981",
       "pib:2310983",
-      "pib:2310979"
+      "pib:2310979",
+      "pib:2311003",
+      "pib:2310986",
+      "pib:2310997",
+      "pib:2311004",
+      "pib:2310991",
+      "pib:2310989",
+      "pib:2311000"
     ]
   },
   "seen": {
@@ -7670,7 +7708,7 @@
     "bse hcltech": 1789486495290,
     "bse hfcl": 1789498606301,
     "bse info edge": 1789415448835,
-    "bse infosys": 1789496863065,
+    "bse infosys": 1789582718185,
     "bse kpit technologies": 1789143297360,
     "bse lenskart": 1789320414840,
     "bse ltimindtree": 1788950931824,
@@ -7700,21 +7738,21 @@
     "lenovo": 1789456794113,
     "meta": 1789520749999,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789562086292,
-    "news: consumer internet india": 1789556498138,
+    "news: big tech platforms": 1789562765990,
+    "news: consumer internet india": 1789563015262,
     "news: global ai": 1789559309034,
     "news: global chips": 1789560000748,
     "news: global it services": 1789560728386,
-    "news: india ai deeptech": 1789560243542,
+    "news: india ai deeptech": 1789562881900,
     "news: india edtech gaming": 1789561527959,
-    "news: india fintech": 1789562691501,
-    "news: india semiconductors": 1789562231183,
-    "news: india tech policy": 1789556480240,
+    "news: india fintech": 1789563360136,
+    "news: india semiconductors": 1789562894121,
+    "news: india tech policy": 1789563047499,
     "news: india telecom": 1789561169941,
     "news: indian it majors": 1789561992562,
     "news: indian it midcaps": 1789558020816,
     "news: pib releases": 1789554900203,
-    "news: tech leaders": 1789561120124,
+    "news: tech leaders": 1789561120299,
     "nvidia": 1789534842702,
     "openai": 1789387200931,
     "pib communications": 2310616,
