@@ -7318,7 +7318,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T04",
-  "last_success": "2026-09-16T23:01:53.781036+00:00",
+  "last_success": "2026-09-16T23:16:14.899663+00:00",
   "national": {
     "alerted": [
       {
@@ -7594,7 +7594,7 @@
       "CG-DL-E-17092026-276275",
       "CG-DL-E-17092026-276226"
     ],
-    "last_run": "2026-09-16T23:02:42.860872+00:00",
+    "last_run": "2026-09-16T23:16:43.932148+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7926,7 +7926,7 @@
     "news: indian it majors": 1789592033633,
     "news: indian it midcaps": 1789590581897,
     "news: pib releases": 1789589951954,
-    "news: tech leaders": 1789591504840,
+    "news: tech leaders": 1789594860413,
     "nvidia": 1789570848396,
     "openai": 1789578000307,
     "pib communications": 2310616,
