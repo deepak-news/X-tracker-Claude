@@ -354,3 +354,55 @@ watch:
 
       - name: ED - performance summary
         url: "https://www.enforcementdirectorate.gov.in/performance/performance-summary/"
+
+
+# ======================================================================
+#  NATIONAL DESK
+#  A third, separate job for the head of social media (SOCIAL_MAIL_TO).
+#  It reads every official release -- all of PIB, the whole extraordinary
+#  Gazette, the RBI, SEBI -- and the AI emails only what a general
+#  audience would care about. Official sources only; no Google News.
+# ======================================================================
+national:
+
+  # What the AI is looking for. Plain English; edit freely.
+  newsworthy: |
+    News a broad Indian audience would want to know, suitable for a
+    national news agency's social media accounts.
+
+    SEND:
+    - Cabinet decisions and new or changed government schemes
+    - Rules, prices, taxes, fees, benefits, deadlines or rights that
+      touch large numbers of ordinary people
+    - Major appointments, removals and resignations: ministers,
+      governors, chiefs of the armed forces, heads of the RBI, CBI, ED,
+      Election Commission, and similar posts
+    - National security, terrorism, bans and designations, and major
+      diplomatic moves
+    - RBI decisions on interest rates, banks, UPI or money that people
+      use; SEBI actions that affect ordinary investors
+    - Elections, disasters, major accidents, and official responses to them
+    - Landmark numbers: GDP, inflation, record achievements, milestones
+
+    LEAVE OUT:
+    - Auctions, tenders, recovery orders and routine compliance notices
+    - Meetings held, visits, events attended, speeches with no decision
+    - Greetings, condolences, anniversaries, quotes and awareness drives
+    - Transfers and postings below the most senior level
+    - Anything that matters only to one industry or to specialists
+
+  # Score out of 10 needed to be emailed. Raise to 8 if it sends too much,
+  # drop to 6 if it misses things.
+  threshold: 7
+
+  # Anything published longer ago than this is ignored rather than judged.
+  max_age_hours: 12
+
+  pib: true         # every ministry, from pib.gov.in
+  gazette: true     # every extraordinary gazette, from egazette.gov.in
+
+  # Any other official site that publishes an RSS feed can be added here.
+  feeds:
+    - {name: RBI, url: "https://www.rbi.org.in/pressreleases_rss.xml"}
+    - {name: RBI notifications, url: "https://www.rbi.org.in/notifications_rss.xml"}
+    - {name: SEBI, url: "https://www.sebi.gov.in/sebirss.xml"}
