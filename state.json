@@ -1,44 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T01:02:09.043114+00:00",
-      "handle": "News: Global AI",
-      "headline": "Samsung Q3 revenue hits 171.5T amid OpenAI Stargate chip deal",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS2xleTlrN3Y4ZVF4UlRRNGxZejluZDlfVU1xbWtXNEppVFVGNzF3RWhZajE4dXNsUjQzMjF2dkJsZlVpbVZ6R25rdXlyUWUtRU1vb1k3eEpCSW15aTJ5QnNicnZXZFZpaVJQTmI3dTc2Q2VMdWxnVDdmZVZCUzRLRk8zbGIxYnQtclBpTF80Sy1obEw2Tml4RWJGQzMtZl9yaDZDM0g4TXhvTlRIQy1TOE1qdlNDalNkSEE1eU9KUXNjYnNoOWc?oc=5",
-      "words": [
-        "005930",
-        "171",
-        "chip",
-        "deal",
-        "facts",
-        "key",
-        "krx",
-        "openai",
-        "qtr",
-        "revenue",
-        "stargate"
-      ]
-    },
-    {
-      "at": "2026-09-10T01:16:35.574574+00:00",
-      "handle": "News: India telecom",
-      "headline": "Reliance Jio expands cloud PC service with AI capabilities",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0plVDlrSVVCTUhxdTNJWTEwTUlfajJzYTlfd3Bjb29faEs2T3o4LTN3eFFPVHhLMzhOMjg0SnJBbW1mQTVWYmpBU1FmMFVadkZfRWk3anUxbkFlRFJDdXpUTmtVLVA0SzRSbW9ka2dqRzZFd2l4bEc5YUVCLUhqYWNkVk9XVXdkR2w2eUdwV0thU3pCd095OW1IdngwcHU2eWR2T0ktbFFyalVMRTBTcjZycnZTN0pNNjZSeUNZcWMyQ0pXSXliR2xZNlA?oc=5",
-      "words": [
-        "capabilities",
-        "cloud",
-        "computers",
-        "expands",
-        "give",
-        "jio",
-        "older",
-        "reliance",
-        "service"
-      ]
-    },
-    {
       "at": "2026-09-10T01:46:38.304355+00:00",
       "handle": "News: India semiconductors",
       "headline": "PM Modi inaugurates Micron's Sanand semiconductor plant",
@@ -7294,11 +7256,52 @@
         "support",
         "techcrunch"
       ]
+    },
+    {
+      "at": "2026-09-16T12:16:41.310459+00:00",
+      "handle": "BSE Nazara",
+      "headline": "Nazara Technologies confirms Raymond Stauffer assumes office as CEO",
+      "tier": 2,
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ee53c9b7-05a2-4ab2-9b3b-7c2d312ba6d9.pdf",
+      "words": [
+        "2015",
+        "appointment",
+        "chief",
+        "disclosure",
+        "exchange",
+        "executive",
+        "filing",
+        "full",
+        "informs",
+        "limited",
+        "nazara",
+        "officer",
+        "regarding",
+        "regulations"
+      ]
+    },
+    {
+      "at": "2026-09-16T12:16:41.310459+00:00",
+      "handle": "News: India fintech",
+      "headline": "Supreme Court petition challenges new UPI merchant discount rate fees",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUljS29aU1NFM0ZZVmNsUFRhU1RxQ21FR1c3dGRvYU51ckJ2YVlPal9sZk44QUl0S29kT0tJT2RkamtYSk9CeUFuRDlPcXNnNFA4OXJGa2xQYllhVVhoMS1LMFlkejNPQi1id09yZ2luNFN1LTFxWTY4dC1VOXNtbEFHSGotaDNUNnJOOFU2cGJVNl9nVjJSZ2tIdEQwRVVNeVlyMjRpdFBLaTNsQ1I4ZUI1V3RRdw?oc=5",
+      "words": [
+        "challenge",
+        "court",
+        "fee",
+        "filed",
+        "ndtv",
+        "petition",
+        "reports",
+        "top",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T12:01:49.285968+00:00",
+  "last_success": "2026-09-16T12:16:41.329529+00:00",
   "national": {
     "alerted": [
       {
@@ -7428,7 +7431,7 @@
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244"
     ],
-    "last_run": "2026-09-16T12:02:20.488939+00:00",
+    "last_run": "2026-09-16T12:18:23.193201+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7615,14 +7618,19 @@
       "pib:2310897",
       "pib:2310915",
       "pib:2310914",
-      "pib:2310924"
+      "pib:2310924",
+      "pib:2310949",
+      "pib:2310927",
+      "pib:2310941",
+      "pib:2310936",
+      "pib:2310942"
     ]
   },
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
     "bse bharti airtel": 1789068680302,
-    "bse black box": 1789560055440,
+    "bse black box": 1789580151060,
     "bse coforge": 1789562261469,
     "bse cyient": 1789068497815,
     "bse eternal/zomato": 1789154706058,
@@ -7639,14 +7647,14 @@
     "bse meesho": 1789494711481,
     "bse mobikwik": 1789550591602,
     "bse mphasis": 1789565700668,
-    "bse nazara": 1789134596746,
+    "bse nazara": 1789580637112,
     "bse niit": 1788974173082,
     "bse niit learning systems": 1789067950464,
     "bse nykaa": 1789155118992,
     "bse ola electric": 1789430149909,
     "bse paytm": 1789578149191,
     "bse persistent": 1789215571383,
-    "bse reliance": 1789573562279,
+    "bse reliance": 1789580649584,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1789071138621,
     "bse tata communications": 1789576462217,
@@ -7663,17 +7671,17 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789555672935,
     "news: consumer internet india": 1789556498138,
-    "news: global ai": 1789558203459,
-    "news: global chips": 1789558718282,
+    "news: global ai": 1789559309034,
+    "news: global chips": 1789560000748,
     "news: global it services": 1789556551242,
-    "news: india ai deeptech": 1789557339961,
+    "news: india ai deeptech": 1789560243542,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789559119205,
+    "news: india fintech": 1789560841115,
     "news: india semiconductors": 1789559050148,
     "news: india tech policy": 1789556480240,
-    "news: india telecom": 1789557246740,
-    "news: indian it majors": 1789556870917,
-    "news: indian it midcaps": 1789556756479,
+    "news: india telecom": 1789560254340,
+    "news: indian it majors": 1789560091885,
+    "news: indian it midcaps": 1789557293000,
     "news: pib releases": 1789554600698,
     "news: tech leaders": 1789557432513,
     "nvidia": 1789534842702,
@@ -7687,14 +7695,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-16T10:07:24.035231+00:00",
+        "checked": "2026-09-16T12:18:06.728373+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-16T10:07:16.500845+00:00",
+        "checked": "2026-09-16T12:17:58.878180+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -7770,7 +7778,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-16T10:07:20.190100+00:00",
+        "checked": "2026-09-16T12:18:02.931259+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
