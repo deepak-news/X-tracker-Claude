@@ -1,42 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T13:46:32.604731+00:00",
-      "handle": "News: India fintech",
-      "headline": "PhonePe and Visa launch three cardless payment tools at GFF",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEdxMjBWc3JxM25tSlJpU1lOLUExQ2R0QWREYkdXTWNwV2k0TFF5Y3RwdzhsdjlULXZ4d2w2UHVTV2M1VGZUc3J1am1WYXVndXF6VllQNk9oWlA4bnRFcE5YYzJZdVJOVEg4WXhnUEJmVUNaeXJ0UHZONFlUYjdYTzJybGw4cDB0aTd0bkdTWlFxNTA?oc=5",
-      "words": [
-        "2026",
-        "cardless",
-        "gff",
-        "payment",
-        "phonepe",
-        "three",
-        "tools",
-        "unveil",
-        "visa"
-      ]
-    },
-    {
-      "at": "2026-09-09T13:46:32.604731+00:00",
-      "handle": "News: India fintech",
-      "headline": "WhatsApp exploring programmable payments for the UPI ecosystem",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2lIZUFaR3llUEFhQkVXUTdQYnJ4QWpNZy12TV9mSTAtcERUNVZHS2pWSGxoXzJfeFQxd3ByX3ptNzZINGNOczd3eWlUMTVRbkhzQ1VsOEU5aEdWZG8yVzJhNlZPWlBULUc2OE9tNE1maU1GSkI3RE00M1ZBZ0dmNnk5RjZFaTlJbUlJdmEtc3VVaTJGLW9JdWV6ZXFfYzFFWEJXdEJZWE5aR0w2VUFfd2JHVWIxTllleWlBSHNrX21BWEZhWDJHcURwcVdaZmvSAdYBQVVfeXFMT1YtVWVUWUhFdm5QUUVRMEhKTS1YZmpDdGNhRkhEcWVxOWRGRW9tWFZPaVB5SHV4UnJvR0FtTldQaGhKR1BQNFNoc0FaUVluOFdJUXZWS1JFX0QtcGo1OVhRZjN3d3Zta2RRdWJFWGNTN01KemNPN3VJdVRlSFJuMWdvT2RYNUZUZktueFRCWW1UenNpTzhLbzIwUHc2RHJ3UndMWFV2RmZIUjNjUTRQeWh4aWtoc1ZBZE5iUjE3MGZpX1BxZmZPSjl2UEVBcVNHWDRFNDRxdw?oc=5",
-      "words": [
-        "eyes",
-        "journey",
-        "leg",
-        "meta",
-        "next",
-        "payments",
-        "programmable",
-        "upi",
-        "whatsapp"
-      ]
-    },
-    {
       "at": "2026-09-09T14:01:58.520623+00:00",
       "handle": "News: Big tech platforms",
       "headline": "SFIO recommends detailed probe into Xiaomi's business in India",
@@ -7269,11 +7233,48 @@
         "remain",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-16T02:31:44.292652+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Odisha clears Rs 3,406 crore SiCSem semiconductor unit",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTlNTTGpwWUJiN2hpdVhkbjAwMl91eEItQ1FPZnRzNE1xdzhBYnZqVVdBX0xkRkV4SzRYejk3Wnhzd1VKUmhGQnVTM0ZlOWNGQnFWbGdBNDhtVE1kUEplWjlNUWowYXRnY1dqb3ZJci1RUzdBN0tZRE1tVDhxd3dPSk9kdTJjX2NTRkZIdW0teFJCRWF3M1otek9FUjl1c0VYOXM5U21UeWxDcWdMaWY0Y3BFWkM2ODl5dG5NeU52RTViNFFhVUVPMXFfeHfSAdIBQVVfeXFMT2xmZGNjM2xZX1pUOXdEQWlfV2dkMGx4TlMyVl9BX1RYWU9HbWgzWFNtdXFDN19GRTlFRU1YVWg4T0tIQ2hQMkhKdi05S0djdjdsbnNTRWRqbEk1Q1I0Zl9ZQUIyWldQS0UxSVFxdmFodWxITE5TTDVienlORzNqV0kyVXYwYkdDUGdERlBpX3dreDZRRURXN3l2cHZpTHpudHNlRGxfWVIwT2pJMEFMdEM1N1RFT1JUWjhGX2JTUkxBUGVLSTVQOXdNUnNxZHhNalN3?oc=5",
+      "words": [
+        "406",
+        "bhubaneswar",
+        "clears",
+        "near",
+        "odisha",
+        "semiconductor",
+        "sicsem",
+        "unit"
+      ]
+    },
+    {
+      "at": "2026-09-16T02:31:44.292652+00:00",
+      "handle": "News: India fintech",
+      "headline": "UPI zero-MDR run ends October 15 for merchant payments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSUFmUk9xb01WRjU5eFdLdVB3QjlKQ0pjaEx5NWZyRFVVMTZZbjY5ODN2UmM0NlBSSnVSVUFCRnRoWVhrTmpTY25qWEg2aktIMXhnQnpUNy1iWE41aTlQc2wxTlVUTmxqanRhbDl3aGVOd0I5NXp4Umdram5Rc21TYm91N2lvWFh3b3VQX3RwWWdGbWY4VUh1YUxGZDJFWXdYRkFjWFgwZ3J4dUc0LTBnV1JJLVByQzh0cWVfZXNUSFZ3dFBTdDU4azl4MVZ3TDBBV3lfb9IB2gFBVV95cUxNVngyZ2lPUkRfWEpDVWhyd000LXRJSTZ5MlI3UEdnUkpOOFgyZkJYYlFOd1duMUNXUk94N3Y4eFBhaHlQUGdBN01fWDdUSW9NUXRjU2xaRW9SbVpWZ1lNZndrTnZ1RjE2c01UZnEtTmpZWFo5OVVTM0NaX3hmZm9uVmNvQzh5dTFHR0d2NUVLQUVCMHBjR0o2T1pid0JCOWRQNHo4WUZXR1Z4Rm5LN0dkWmFGZ2ZMRzhxVjA5Q0Y4S1BJdGVVV3dYNDN6bk0yVjY1VDJyVzd5cjZJUQ?oc=5",
+      "words": [
+        "charges",
+        "ends",
+        "higher",
+        "mdr",
+        "merchant",
+        "october",
+        "payments",
+        "run",
+        "upi",
+        "value",
+        "zero"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T02:16:10.355811+00:00",
+  "last_success": "2026-09-16T02:31:44.293196+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7324,13 +7325,13 @@
     "news: global it services": 1789521300731,
     "news: india ai deeptech": 1789505051164,
     "news: india edtech gaming": 1789505766406,
-    "news: india fintech": 1789524178314,
-    "news: india semiconductors": 1789520874027,
+    "news: india fintech": 1789525332066,
+    "news: india semiconductors": 1789524550640,
     "news: india tech policy": 1789507024011,
     "news: india telecom": 1789523600225,
     "news: indian it majors": 1789522428224,
     "news: indian it midcaps": 1789504506635,
-    "news: pib releases": 1789517629271,
+    "news: pib releases": 1789520144952,
     "news: tech leaders": 1789523489727,
     "nvidia": 1789511074171,
     "openai": 1789387200931,
