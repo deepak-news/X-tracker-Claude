@@ -44,6 +44,14 @@ newsworthy: |
 # missing things drop it to 6.
 threshold: 7
 
+# --- Google News stories arrive as an hourly digest -----------
+# News reports are collected and emailed together just after every hour,
+# Indian time (2:00, 3:00, 4:00...), so you know when to look. An hour with
+# nothing in it sends nothing. Exchange filings, company newsrooms and PIB
+# releases are NEVER held -- they still arrive the moment they are found.
+# Set to false to send news reports straight away again.
+news_digest_hourly: true
+
 # --- Cheap filters applied BEFORE the AI even looks ----------
 skip_replies: true       # ignore replies to other people
 skip_retweets: true      # ignore reposts
