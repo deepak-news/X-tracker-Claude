@@ -2,22 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-09T15:17:10.391308+00:00",
-      "handle": "News: Global AI",
-      "headline": "Samsung to build custom AI chip for OpenAI",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRWYwbnVYUG9FSzQwbk1rSXlyTGpmMEtEOENySVJ2cnpQSlRLaXZoSmNpb1JmbzE1ZVp6TFRGMUNwd25rM0g3RXBGbjZCUllCa2piMENNMDBoTlJtd0l0YWNwNFJ5Um9hUGZaRVZTNXdIZlBPNVNIcV8wcllXcFREVw?oc=5",
-      "words": [
-        "build",
-        "chip",
-        "custom",
-        "openai",
-        "partnership",
-        "samsung",
-        "widens"
-      ]
-    },
-    {
-      "at": "2026-09-09T15:17:10.391308+00:00",
       "handle": "News: PIB releases",
       "headline": "Government launches Rs 565.50 crore digital overhaul for land records",
       "tier": 0,
@@ -7275,11 +7259,28 @@
         "starting",
         "whatsapp"
       ]
+    },
+    {
+      "at": "2026-09-16T06:01:50.523904+00:00",
+      "handle": "News: India telecom",
+      "headline": "TRAI fines MTNL Rs 16.70 lakh for service quality breaches",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEF4cFFGSjI0NUJWTzZ1UWloQk9MbXVTSjR5eGtVTlpRSC1wWndVUlV6NUFFQmwzbnBQakIycVJORGdkQ0NrVWxzZ29KaEc3TWg5VlFqWFM1ZXJyTVFOT2NFdVpydUVobHhHODJoNXVJdEJJZ1h4SWZtNzdGREx2R19IUkZLWXJoWUhYTEtWRXR6LVZCOUxldFd4UWt2Ulk3QXJaUGRXTU1wQlRzOG1UMXBIUmtUUQ?oc=5",
+      "words": [
+        "breaches",
+        "fined",
+        "lakh",
+        "mtnl",
+        "q2fy26",
+        "quality",
+        "service",
+        "trai"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T05:46:14.308540+00:00",
+  "last_success": "2026-09-16T06:01:50.524292+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7323,17 +7324,17 @@
     "lenovo": 1789456794113,
     "meta": 1789520749999,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789536257463,
+    "news: big tech platforms": 1789537326155,
     "news: consumer internet india": 1789535969115,
-    "news: global ai": 1789536029308,
+    "news: global ai": 1789536798332,
     "news: global chips": 1789535479961,
     "news: global it services": 1789532626570,
     "news: india ai deeptech": 1789532160522,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789536747358,
+    "news: india fintech": 1789538309545,
     "news: india semiconductors": 1789536521834,
     "news: india tech policy": 1789536641013,
-    "news: india telecom": 1789536152383,
+    "news: india telecom": 1789538347515,
     "news: indian it majors": 1789537426696,
     "news: indian it midcaps": 1789536067947,
     "news: pib releases": 1789532640698,
@@ -7349,14 +7350,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-16T03:47:09.772574+00:00",
+        "checked": "2026-09-16T06:02:24.026623+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-16T03:47:02.177811+00:00",
+        "checked": "2026-09-16T06:02:15.732561+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -7432,7 +7433,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-16T03:47:05.973883+00:00",
+        "checked": "2026-09-16T06:02:19.776706+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
