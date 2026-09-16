@@ -1,44 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T07:31:57.626430+00:00",
-      "handle": "News: India fintech",
-      "headline": "NPCI developing protocols to authorize AI agents on UPI network",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZDZwckM2QjV5Sk9EZDZPZ1YtcUFsQXBKQklucTNqTXRPZHd1SmhhODVobFhKd1NPdHdBcE1FZVhrWVY4ZldTNGozNzdJYUk1N29lbHgtQTFzTHJFYmNjUUhJNEtEdnR2ZDJPMzN0WmxlZURNZnJuSmcySXZaUlBodUIzSnhONEhsNTJ6WmllVnJtM2N0U2N0bXR4Y3FMbi1qd0NRUDJaYm5aQ2tLQ3NSdnY4ZkdTdm1pbnpObWtHdjQtTUlUT3l0OXpZUW51eW50LW5zbG9XM1d6aEYtMDNDRms1UkNnSjRfQVg2OUs4ZVdLX0t6Q1VQUXZQNzY?oc=5",
-      "words": [
-        "agents",
-        "ajay",
-        "authorise",
-        "chairman",
-        "choudhary",
-        "kumar",
-        "npci",
-        "protocols",
-        "upi",
-        "working"
-      ]
-    },
-    {
-      "at": "2026-09-10T07:46:36.242251+00:00",
-      "handle": "News: India tech policy",
-      "headline": "UIDAI developing Aadhaar International interoperability and new Aadhaar Light product",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkhGeG9vVzBlR21zWldjc3JxV0x2ODg0QXotTHpMM21nSF9EbEhBRlZyZUVtM1hsbjNwYnJYYnlVM0ZacU5KdGpOVFFJdGJoT19FSDIzck9BWEpONnp5bE1NSkRNSHQxSTNuQVZYTjNtdjlFOUZJeTYwT3B0TEdxdUVydkNoanFQSENr?oc=5",
-      "words": [
-        "2026",
-        "aadhaar",
-        "gff",
-        "international",
-        "interoperability",
-        "light",
-        "pocs",
-        "product",
-        "uidai",
-        "working"
-      ]
-    },
-    {
       "at": "2026-09-10T08:32:08.844974+00:00",
       "handle": "News: Global IT services",
       "headline": "MotoGP and Accenture partner for streaming experience",
@@ -7309,11 +7271,54 @@
         "today",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-16T17:01:45.623532+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Paytm CEO says new UPI MDR norms will add revenue",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR1BZclVsaEZtOWtQZlVxTTA5VHNDOVlaZFJmRmF6bVJoTUhMRFEwZVkxN2FTR0NzVnhtRnJHTlVYdUJiVUIxbXB0a2JmM1ZQVU9HNDBMZ1BMTm1uekp5S21keHRDMXBvdnBHR1QwR1NKU2ZjeGRlcUgxTm1UbFNxZUNGX1E2Sjl5LVM3c2pMd0oycUh0dzlWalpTb3h5VEF4MFpSNlFuc1VCYTRtekVwUS1YcmF5dDBQTmZxSk9tZnYzX2dkYXByREZNYk9CR0VDSXNxRHZyVkJ4dTJDR0JVX2tDb9IB4wFBVV95cUxQR1BZclVsaEZtOWtQZlVxTTA5VHNDOVlaZFJmRmF6bVJoTUhMRFEwZVkxN2FTR0NzVnhtRnJHTlVYdUJiVUIxbXB0a2JmM1ZQVU9HNDBMZ1BMTm1uekp5S21keHRDMXBvdnBHR1QwR1NKU2ZjeGRlcUgxTm1UbFNxZUNGX1E2Sjl5LVM3c2pMd0oycUh0dzlWalpTb3h5VEF4MFpSNlFuc1VCYTRtekVwUS1YcmF5dDBQTmZxSk9tZnYzX2dkYXByREZNYk9CR0VDSXNxRHZyVkJ4dTJDR0JVX2tDbw?oc=5",
+      "words": [
+        "add",
+        "bottom",
+        "business",
+        "ceo",
+        "line",
+        "mdr",
+        "more",
+        "norms",
+        "paytm",
+        "revenue",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-16T17:01:45.623532+00:00",
+      "handle": "News: India fintech",
+      "headline": "Pine Labs CEO Amrish Rau defends UPI MDR charges",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3FIdEJhR3lSV3BjbUZIS3FtUF9BSmlhMmVHZ0VEVlJ1ZEMwN3FGQUc4QUF0YWNsbG0yQVJwYkMtWTRTMVY2YXFnWGt1dGI3d2ptM2xXejNpemw4c1lleG9yc2NaSldCN2NrZFRfVy1UQnIzUGk4N2Z2TUhULWRaRVV2RGxqWXcwR2Z4dW9jLW9iRGhHbmtPb211V0J6MVk?oc=5",
+      "words": [
+        "affected",
+        "amrish",
+        "away",
+        "been",
+        "businesses",
+        "cash",
+        "ceo",
+        "charge",
+        "conversation",
+        "haven",
+        "labs",
+        "low",
+        "mdr",
+        "move"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T16:46:12.908702+00:00",
+  "last_success": "2026-09-16T17:01:45.624640+00:00",
   "national": {
     "alerted": [
       {
@@ -7543,9 +7548,13 @@
       "CG-DL-E-16092026-276250",
       "CG-DL-E-16092026-276253",
       "CG-DL-E-16092026-276249",
-      "CG-MH-E-16092026-276248"
+      "CG-MH-E-16092026-276248",
+      "CG-DL-E-16092026-276247",
+      "CG-DL-E-16092026-276258",
+      "CG-DL-E-16092026-276260",
+      "CG-DL-E-16092026-276261"
     ],
-    "last_run": "2026-09-16T16:47:39.611409+00:00",
+    "last_run": "2026-09-16T17:02:35.605645+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7795,7 +7804,11 @@
       "pib:2311163",
       "gazette:CG-DL-E-16092026-276249",
       "pib:2311161",
-      "gazette:CG-MH-E-16092026-276248"
+      "gazette:CG-MH-E-16092026-276248",
+      "gazette:CG-DL-E-16092026-276261",
+      "gazette:CG-DL-E-16092026-276258",
+      "gazette:CG-DL-E-16092026-276260",
+      "gazette:CG-DL-E-16092026-276247"
     ]
   },
   "seen": {
@@ -7825,7 +7838,7 @@
     "bse nykaa": 1789155118992,
     "bse ola electric": 1789430149909,
     "bse paytm": 1789578149191,
-    "bse persistent": 1789215571383,
+    "bse persistent": 1789597474489,
     "bse reliance": 1789580649584,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1789071138621,
@@ -7843,19 +7856,19 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789569300211,
     "news: consumer internet india": 1789575500840,
-    "news: global ai": 1789576260640,
+    "news: global ai": 1789578007845,
     "news: global chips": 1789571820168,
     "news: global it services": 1789572975382,
-    "news: india ai deeptech": 1789574753674,
+    "news: india ai deeptech": 1789575749309,
     "news: india edtech gaming": 1789561527959,
-    "news: india fintech": 1789576511543,
-    "news: india semiconductors": 1789576287087,
-    "news: india tech policy": 1789571213680,
-    "news: india telecom": 1789574960850,
-    "news: indian it majors": 1789574906636,
-    "news: indian it midcaps": 1789575060985,
-    "news: pib releases": 1789572960887,
-    "news: tech leaders": 1789575442360,
+    "news: india fintech": 1789577252971,
+    "news: india semiconductors": 1789577281935,
+    "news: india tech policy": 1789575563560,
+    "news: india telecom": 1789576764078,
+    "news: indian it majors": 1789577280545,
+    "news: indian it midcaps": 1789575360768,
+    "news: pib releases": 1789575563560,
+    "news: tech leaders": 1789577233360,
     "nvidia": 1789570848396,
     "openai": 1789574400809,
     "pib communications": 2310616,
