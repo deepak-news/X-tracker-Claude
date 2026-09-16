@@ -566,6 +566,9 @@ def score(posts, rubric: str, dead_today: set | None = None,
     return judged, unscreened, newly_dead
 
 
+_ASK_CACHE: dict = {}
+
+
 def ask_json(prompt: str, dead_today: set | None = None) -> tuple[list, set]:
     """Send one prompt that expects a JSON array back; returns (entries, newly_dead).
 
@@ -578,7 +581,10 @@ def ask_json(prompt: str, dead_today: set | None = None) -> tuple[list, set]:
         raise RuntimeError(f"No {API_KEY_ENV} secret found.")
 
     newly_dead: set = set()
-    models = _candidates(api_key, dead_today or set())
+    # Which models exist does not change within a run, so ask Google once.
+    if "models" not in _ASK_CACHE:
+        _ASK_CACHE["models"] = _candidates(api_key, set())
+    models = [m for m in _ASK_CACHE["models"] if m not in (dead_today or set())]
     response = None
     for model in models:
         if model in newly_dead:
