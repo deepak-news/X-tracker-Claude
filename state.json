@@ -7322,7 +7322,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T02",
-  "last_success": "2026-09-16T20:31:20.781724+00:00",
+  "last_success": "2026-09-16T20:46:14.671602+00:00",
   "national": {
     "alerted": [
       {
@@ -7598,7 +7598,7 @@
       "CG-DL-E-17092026-276275",
       "CG-DL-E-17092026-276226"
     ],
-    "last_run": "2026-09-16T20:31:53.943900+00:00",
+    "last_run": "2026-09-16T20:46:43.766811+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7918,12 +7918,12 @@
     "microsoft": 1789585198114,
     "news: big tech platforms": 1789569300211,
     "news: consumer internet india": 1789587000049,
-    "news: global ai": 1789588253983,
+    "news: global ai": 1789591469242,
     "news: global chips": 1789590194206,
     "news: global it services": 1789587233396,
     "news: india ai deeptech": 1789580099872,
     "news: india edtech gaming": 1789562091959,
-    "news: india fintech": 1789587803080,
+    "news: india fintech": 1789588714376,
     "news: india semiconductors": 1789586415081,
     "news: india tech policy": 1789578914232,
     "news: india telecom": 1789580058779,
