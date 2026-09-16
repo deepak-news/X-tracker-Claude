@@ -1,28 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T17:46:23.202556+00:00",
-      "handle": "OpenAI",
-      "headline": "Paul Christiano joins OpenAI Foundation Board and Safety Committee",
-      "tier": 1,
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "words": [
-        "alignment",
-        "board",
-        "bringing",
-        "christiano",
-        "committee",
-        "experience",
-        "foundation",
-        "joins",
-        "openai",
-        "paul",
-        "safety",
-        "security",
-        "standards"
-      ]
-    },
-    {
       "at": "2026-09-09T18:01:52.153386+00:00",
       "handle": "News: Big tech platforms",
       "headline": "iPhone 18 Pro Max and iPhone 18 Pro launched in India",
@@ -7284,11 +7262,26 @@
         "underpinning",
         "year"
       ]
+    },
+    {
+      "at": "2026-09-16T09:31:32.317111+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Flipkart hires 250,000 seasonal workers for festival period",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWZYc09TdjlDNnZ0aXg2QmRyNE1WdWgyX3lLRnZKLUN6MFRrSDFiUF9NaXh1TmVlVUd0cVQxRUdkR2YwRnVNUHNyUGRLSjg3SDhuWko3RmxQMkxlY0Y1V3dLdkhpM0Roa0RSVWt6RnNZWUpPZ2VJbjF5c3N4X0xFeXoySWh2WmhUS3hBV2F5WGlHZVF1NEthZURyZFVmQkVkUnp4UVpSY25jbDdtYUNfb1BiM1hJVHRTUXlUNW9DZTRxNU1BN180RHBJTF96MXc?oc=5",
+      "words": [
+        "festival",
+        "flipkart",
+        "hires",
+        "lakh",
+        "people",
+        "season"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T09:17:04.798295+00:00",
+  "last_success": "2026-09-16T09:31:32.317555+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7333,20 +7326,20 @@
     "meta": 1789520749999,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789544322671,
-    "news: consumer internet india": 1789549506969,
+    "news: consumer internet india": 1789550786120,
     "news: global ai": 1789547505460,
     "news: global chips": 1789549441884,
     "news: global it services": 1789547226322,
     "news: india ai deeptech": 1789544522908,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789549719795,
+    "news: india fintech": 1789550844683,
     "news: india semiconductors": 1789547436941,
     "news: india tech policy": 1789545300934,
-    "news: india telecom": 1789548288507,
+    "news: india telecom": 1789550765411,
     "news: indian it majors": 1789549659416,
     "news: indian it midcaps": 1789549175300,
     "news: pib releases": 1789543920698,
-    "news: tech leaders": 1789548577489,
+    "news: tech leaders": 1789550787589,
     "nvidia": 1789534842702,
     "openai": 1789387200931,
     "pib communications": 2310616,
