@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-09T16:16:10.017273+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "TCS launches India's first lights-out factory lab in Pune",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzBEaTI0d2RRTHREWTBKRl94TzlqLU50NU5NTTV6MVEzcGdyMTh3S1FfenZlYVBXeEdUbVVYdTJoazlGQ0I4T193NC1FcE01QlgzQUdaaG9lVjVPSFM2Y3hyVUI1SFlhUmxmLU11VVZTSmZ0WXFGN1pTaGMtQ2xRWE5kSHNMSTFVN09zSjVCVERmSVZGV0J1R0ptaXBCOXhINzhYRzZOUWVnTmdsbEZB0gG8AUFVX3lxTE50MjlVR2t6UGVHeVh3dHBnckhPWF9NOUNURlhxQlFyNk1PZ2J1RDY2UWdWQ3JadWNsbk13Y3JsUFBTTkdUcEwzNDV4VjNYSE1GR3RjM2ZzMFNRa0JKTVAzeUtCNkVJWXR5SmxoZU5KUlRxWjRnRjE0dHBkb1VIYXMwaDlOWFZGeHNFWEp4RFc0TjZyS2ZWSHBGdzRneGt3NDdjazVrMU56RFN3ZUp2T2NodE1aZHVZUkVFZ3Nm?oc=5",
-      "words": [
-        "factory",
-        "first",
-        "lab",
-        "launches",
-        "lights",
-        "out",
-        "pune",
-        "tcs"
-      ]
-    },
-    {
-      "at": "2026-09-09T16:16:10.017273+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Meesho discontinues CPO role and restructures product team",
       "tier": 0,
@@ -7273,11 +7256,33 @@
         "joins",
         "priyanka"
       ]
+    },
+    {
+      "at": "2026-09-16T07:01:51.767757+00:00",
+      "handle": "News: India fintech",
+      "headline": "PMK leader Anbumani Ramadoss urges Centre to scrap proposed UPI fees",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSXFRSlYxdXVKZElDOV9DVGJyeG9mcWhwTWprVGgxYnB1Z3R1Z0h3aDFsQkdwRWdFY3BUcDVYTm5WbDdjUEk1WU0xaGtNYTlSZFJ4T0JVSUVhUndyQnlCMzFHa2syVWE1RmdERTZpVm5ScHgtQUMwQXpKWENnb1NTRVBKZmhSd2ZpeEc1VDVRZlRGUVRGeTNPUFZwa1BwWDc2N0RNcHVnNFlwaVhVbGRMdWdBeVBOWGt5OWtVUktTWDRfX0xPWkxrTzBTX3NNeUxjRkRQVWszX1lnTDRTcVRMaXFUV1FiZks0bTJyMWYyZGtiZDc0dkNVMUFrbEM?oc=5",
+      "words": [
+        "affected",
+        "anbumani",
+        "centre",
+        "fee",
+        "general",
+        "indirectly",
+        "pmk",
+        "proposed",
+        "public",
+        "ramadoss",
+        "scrap",
+        "upi",
+        "urges"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T06:46:17.876321+00:00",
+  "last_success": "2026-09-16T07:01:51.768301+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7322,20 +7327,20 @@
     "meta": 1789520749999,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789540019324,
-    "news: consumer internet india": 1789540799604,
+    "news: consumer internet india": 1789541404750,
     "news: global ai": 1789536798332,
-    "news: global chips": 1789541025433,
+    "news: global chips": 1789541478318,
     "news: global it services": 1789539900892,
     "news: india ai deeptech": 1789537380123,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789540540737,
-    "news: india semiconductors": 1789538973466,
-    "news: india tech policy": 1789539231183,
+    "news: india fintech": 1789541640675,
+    "news: india semiconductors": 1789541220837,
+    "news: india tech policy": 1789541220837,
     "news: india telecom": 1789539483369,
-    "news: indian it majors": 1789537426696,
-    "news: indian it midcaps": 1789536067947,
+    "news: indian it majors": 1789541620831,
+    "news: indian it midcaps": 1789541316088,
     "news: pib releases": 1789532640890,
-    "news: tech leaders": 1789540177357,
+    "news: tech leaders": 1789541222964,
     "nvidia": 1789534842702,
     "openai": 1789387200931,
     "pib communications": 2310616,
