@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-10T08:46:54.709302+00:00",
-      "handle": "News: India fintech",
-      "headline": "IndusInd Bank partners with Navi UPI for new payment switch",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjhONEduUEN5S0dEdWZzWkxDekx0SS1mb2FrdjlMdjNxUElMX1lnb08wb2ZQaUdBeWpHWTZXOXc3QjVpU05oY0NmWGR4cUM3a09YTjVoZGZvUlpPdEtqdVNEQ3AzQzFUMExUc1B3aG85QUhiMXdENWlGdEt5d21YbUF2WDNFdU9RZTk2b1M2WlVvMHZCLVppMEl0VFI5QWljWEdLNk9sRGNUb1RJdzBCQkNJMjU?oc=5",
-      "words": [
-        "bank",
-        "deploy",
-        "indusind",
-        "navi",
-        "partners",
-        "payment",
-        "switch",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-10T08:46:54.709302+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Tech Mahindra unveils telco architecture for AI rollouts",
       "tier": 0,
@@ -7312,11 +7295,29 @@
         "sessions",
         "systems"
       ]
+    },
+    {
+      "at": "2026-09-16T17:31:48.180583+00:00",
+      "handle": "News: India fintech",
+      "headline": "Opposition demands UPI fee rollback as government refuses to change stance",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEJoTDBsdmVORmZnMmNaVWxCV0tUM1dUVk1JR1hsUGF5c293b3I0dlNyX0dFLTFEZTA4dkZTQkl6VnpIMUxWM1JOQTMxdTBHLWVfaTYtbXFzWHdmZ1YzajJVVzdoYWJPTFhteTZLa0N1S0FxbFpNQWwzdndBaVBRdzFyaENrY0Rqc2MzRjYwOUNQeHhkOGNXQy1iMVpsNXFKbjlScnNyTEdnaEt5TEdWMWluWjc2ejDSAbwBQVVfeXFMTm5HRkgtaWpyVWxQd0FlQ3h5a2hGb2o5UUxrV3FYY2otT1UxVVduWGwtOFFfbVlHQUVnMU5IUE81ZC1GNzBnNmZsREJRZDFvYUFvZWhXSktHYXhOQmpGcFB0ZjZ0d3pmVlJDankxRFRhemwxR1JRUG9SN3FVMHZXM2tXRFNmOHo1VVFaWVlJcE1wZXFDTXpKWmpMRTd6VXp6MEU3a3MyQ01vcDlvVXpvZ2xwSEcxM1JEamtmcl8?oc=5",
+      "words": [
+        "demands",
+        "fee",
+        "govt",
+        "immediate",
+        "move",
+        "opposition",
+        "question",
+        "rollback",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T17:16:15.293208+00:00",
+  "last_success": "2026-09-16T17:31:48.181065+00:00",
   "national": {
     "alerted": [
       {
@@ -7576,9 +7577,12 @@
       "CG-DL-E-16092026-276261",
       "CG-DL-E-16092026-276257",
       "CG-DL-E-16092026-276259",
-      "CG-DL-E-16092026-276266"
+      "CG-DL-E-16092026-276266",
+      "CG-DL-E-16092026-276263",
+      "CG-DL-E-16092026-276264",
+      "CG-DL-E-16092026-276265"
     ],
-    "last_run": "2026-09-16T17:17:00.856279+00:00",
+    "last_run": "2026-09-16T17:32:55.925825+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7835,7 +7839,10 @@
       "gazette:CG-DL-E-16092026-276247",
       "gazette:CG-DL-E-16092026-276257",
       "gazette:CG-DL-E-16092026-276266",
-      "gazette:CG-DL-E-16092026-276259"
+      "gazette:CG-DL-E-16092026-276259",
+      "gazette:CG-DL-E-16092026-276265",
+      "gazette:CG-DL-E-16092026-276264",
+      "gazette:CG-DL-E-16092026-276263"
     ]
   },
   "seen": {
@@ -7846,7 +7853,7 @@
     "bse coforge": 1789562261469,
     "bse cyient": 1789590101246,
     "bse eternal/zomato": 1789154706058,
-    "bse fractal analytics": 1789415508742,
+    "bse fractal analytics": 1789599537695,
     "bse happiest minds": 1788818758115,
     "bse hcltech": 1789486495290,
     "bse hfcl": 1789498606301,
@@ -7886,13 +7893,13 @@
     "news: global ai": 1789578007845,
     "news: global chips": 1789571820168,
     "news: global it services": 1789572975382,
-    "news: india ai deeptech": 1789575749309,
+    "news: india ai deeptech": 1789578588636,
     "news: india edtech gaming": 1789561527959,
-    "news: india fintech": 1789578558575,
-    "news: india semiconductors": 1789577281935,
+    "news: india fintech": 1789579590229,
+    "news: india semiconductors": 1789579344518,
     "news: india tech policy": 1789575563560,
     "news: india telecom": 1789576764078,
-    "news: indian it majors": 1789577280545,
+    "news: indian it majors": 1789579135335,
     "news: indian it midcaps": 1789578624585,
     "news: pib releases": 1789575563560,
     "news: tech leaders": 1789577233360,
