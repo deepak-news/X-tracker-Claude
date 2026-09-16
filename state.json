@@ -7288,7 +7288,7 @@
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T09:02:31.038157+00:00",
+  "last_success": "2026-09-16T09:17:04.798295+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7333,18 +7333,18 @@
     "meta": 1789520749999,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789544322671,
-    "news: consumer internet india": 1789545157717,
-    "news: global ai": 1789544154461,
-    "news: global chips": 1789548621598,
+    "news: consumer internet india": 1789549506969,
+    "news: global ai": 1789547505460,
+    "news: global chips": 1789549441884,
     "news: global it services": 1789547226322,
     "news: india ai deeptech": 1789544522908,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789548470952,
+    "news: india fintech": 1789549719795,
     "news: india semiconductors": 1789547436941,
-    "news: india tech policy": 1789545300667,
+    "news: india tech policy": 1789545300934,
     "news: india telecom": 1789548288507,
-    "news: indian it majors": 1789547584226,
-    "news: indian it midcaps": 1789545825007,
+    "news: indian it majors": 1789549659416,
+    "news: indian it midcaps": 1789549175300,
     "news: pib releases": 1789543920698,
     "news: tech leaders": 1789548577489,
     "nvidia": 1789534842702,
@@ -7353,7 +7353,7 @@
     "pib meity": 2309984,
     "pib science and technology": 2310460,
     "samsung": 1789545600744,
-    "trai": 1789548187880
+    "trai": 1789549424633
   },
   "watch": {
     "pages": {
@@ -7483,7 +7483,8 @@
       }
     },
     "seen": [
-      "gazette:CG-DL-E-09092026-276081"
+      "gazette:CG-DL-E-09092026-276081",
+      "gazette:CG-DL-E-16092026-276236"
     ]
   }
 }
