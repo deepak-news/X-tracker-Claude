@@ -1,25 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T18:01:52.153386+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "iPhone 18 Pro Max and iPhone 18 Pro launched in India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWTRVMVNhT3M1aDZ1OG5NZUJNWmZuLUR5cy1EWjBad0dHNDdHZHNLemMyN29QNWVLY3NEbU5XRjlmcG5jMEJDM1l4RnFqVkNKNjVTOF9mZmYxazVkSWh2MUp6cmFPODI3clNjRHZRcXIyXzE1OENzaXNveW5saVRPVk00QnBEQTZ6NWJNaHNnNzZVY2lzTUtrZzZUcDhlOFkwWE1HbWZIR3RVYzBKeFRGTDZMTk9kMXdnM1k4UlFRODQ0akd1VGtjakMtSDBQOVhpS2FsTUozU0djOVRnWVNXbV92eG95d9IB6wFBVV95cUxOUG5aRkhtZ2lyV1dBY1ZUYVZqeG8wSWkzZHRVWEFPdXoxUHBCTVBIa3NkWnRGa25pMko4WWw0MHBzME55VmV4SzlBSE40M1FMdU1lTTZ5UkJzaDZmRUNQcUp0NlUxZnlBNG1sMXdScEVVTUdmOGdXb09GS0JQbjNmNzB3dENENE1TNFAzdjhDUkQ4M2dsY1ZnMVNuSnVTcG5wYWZiVG5PQWpURVlXcGlLTFMtekdmTmpnVFdpTEFlMXh5dHE0OEpZZzFPYUo4Qm1ZR2Etc3V2UldkZkxCX01tUk9meDZIa19QcDVj?oc=5",
-      "words": [
-        "date",
-        "full",
-        "iphone",
-        "launched",
-        "max",
-        "more",
-        "price",
-        "pro",
-        "sale",
-        "specs"
-      ]
-    },
-    {
       "at": "2026-09-09T18:47:17.101604+00:00",
       "handle": "News: Tech leaders",
       "headline": "OpenAI ships GPT-6 Astra alongside bioweapon warnings from scientist",
@@ -7277,11 +7258,31 @@
         "people",
         "season"
       ]
+    },
+    {
+      "at": "2026-09-16T09:46:17.015785+00:00",
+      "handle": "News: India tech policy",
+      "headline": "India introduces Bhu-Aadhaar 14-digit digital identity for land parcels",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjZHc3Q1ZDRMcUctYkNFYmQ4VXhZVnp1SGFKekxvZ0ZPaTZzTVAxWmc0ZEExdTBOR2t5bktRQ1lRWUc2TGtWRnRfUzRwLUladDdUdkxQa2F3RHBKVWlQZ0licjBBSzdvSlAtaUp5WWdMeVZQZUFzUERzUHZtNkFoaVN4alhLdUV4SnZjYTFLU3B2Q2xsQ1hkRWxORldLOVgtYkhhMlA1NW1RbzJ0U0pObXFCVQ?oc=5",
+      "words": [
+        "aadhaar",
+        "bhu",
+        "digit",
+        "digital",
+        "give",
+        "identity",
+        "land",
+        "own",
+        "parcels",
+        "property",
+        "system"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T09:31:32.317555+00:00",
+  "last_success": "2026-09-16T09:46:17.016176+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7326,15 +7327,15 @@
     "meta": 1789520749999,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789544322671,
-    "news: consumer internet india": 1789550786120,
-    "news: global ai": 1789547505460,
-    "news: global chips": 1789549441884,
+    "news: consumer internet india": 1789551051803,
+    "news: global ai": 1789547527460,
+    "news: global chips": 1789551640463,
     "news: global it services": 1789547226322,
-    "news: india ai deeptech": 1789544522908,
+    "news: india ai deeptech": 1789545360696,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789550844683,
+    "news: india fintech": 1789551452785,
     "news: india semiconductors": 1789547436941,
-    "news: india tech policy": 1789545300934,
+    "news: india tech policy": 1789551830535,
     "news: india telecom": 1789550765411,
     "news: indian it majors": 1789549659416,
     "news: indian it midcaps": 1789549175300,
