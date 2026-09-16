@@ -7303,7 +7303,7 @@
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T14:16:17.751655+00:00",
+  "last_success": "2026-09-16T14:31:32.697394+00:00",
   "national": {
     "alerted": [
       {
@@ -7372,6 +7372,29 @@
           "illustrious",
           "information",
           "journey"
+        ]
+      },
+      {
+        "at": "2026-09-16T14:31:59.933280+00:00",
+        "handle": "PIB Ministry of Home Affairs",
+        "headline": "Government bans Shahzad Bhatti Network as a terrorist organization",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311078",
+        "words": [
+          "affairs",
+          "amit",
+          "bhatti",
+          "cooperation",
+          "declares",
+          "home",
+          "mha",
+          "minister",
+          "ministry",
+          "network",
+          "organization",
+          "shah",
+          "shahzad",
+          "shri"
         ]
       }
     ],
@@ -7478,7 +7501,7 @@
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244"
     ],
-    "last_run": "2026-09-16T14:18:52.813677+00:00",
+    "last_run": "2026-09-16T14:31:59.933819+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7701,7 +7724,14 @@
       "pib:2311047",
       "pib:2311052",
       "pib:2311070",
-      "pib:2311076"
+      "pib:2311076",
+      "pib:2311082",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-5742-of-2022-against-payal-jayeshbhai-madiyar-in-the-matter-of-excel-castronics-limited_104526.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-5722-of-2022-against-jayesh-vallabhaji-madiyar-in-the-matter-of-excel-castronics-limited_104521.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-5742-of-2022-against-payal-jayeshbhai-madiyar-in-the-matter-of-excel-castronics-limited_104525.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-5722-of-2022-against-jayesh-vallabhaji-madiyar-in-the-matter-of-excel-castronics-limited_104523.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/ex-parte-interim-order-in-the-matter-of-cross-segment-price-manipulation-by-prrsaar-sampada-private-limited-and-chaubara-eats-private-limited_104528.html",
+      "pib:2311078"
     ]
   },
   "seen": {
@@ -7747,21 +7777,21 @@
     "lenovo": 1789563644712,
     "meta": 1789520749999,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789564863083,
-    "news: consumer internet india": 1789567429684,
-    "news: global ai": 1789567070444,
+    "news: big tech platforms": 1789568582123,
+    "news: consumer internet india": 1789568167817,
+    "news: global ai": 1789568460614,
     "news: global chips": 1789567200664,
     "news: global it services": 1789566488721,
     "news: india ai deeptech": 1789562881900,
     "news: india edtech gaming": 1789561527959,
-    "news: india fintech": 1789568043293,
-    "news: india semiconductors": 1789567506643,
-    "news: india tech policy": 1789564072837,
-    "news: india telecom": 1789563089407,
+    "news: india fintech": 1789568641701,
+    "news: india semiconductors": 1789568153598,
+    "news: india tech policy": 1789568506087,
+    "news: india telecom": 1789568004817,
     "news: indian it majors": 1789567994505,
     "news: indian it midcaps": 1789567440958,
     "news: pib releases": 1789566420922,
-    "news: tech leaders": 1789566042280,
+    "news: tech leaders": 1789566920515,
     "nvidia": 1789563633139,
     "openai": 1789563600945,
     "pib communications": 2310616,
