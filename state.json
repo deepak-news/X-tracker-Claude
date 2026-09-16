@@ -2,22 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-09T15:17:10.391308+00:00",
-      "handle": "News: India fintech",
-      "headline": "PhonePe expands to UAE in its first international market launch",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUN4R1FiS0cyc2RVOU9NM3NMMTN6dG5IZmNsS0UxVmJYbXhPS2hlYUR3QWZKQjQ0aVh5MjluS3NVSkw3SmpSRnBVQU0xRkNsS0k0ckphOWlMQ1dNcHlTSFJXSmhFWXlOZ3B0YkstNXpXbnJYazBUTGxQN05kQ0JnZklaYWt1aHliNjlCYk9udXdjT093OUdYSXJuUU5TTm1jY0VYVHM3YThtR1Ix0gGyAUFVX3lxTFBoUUpDQjZScVR1RG83bWpJbEdOMHlxZkxSUGhoaTAyaUJEdUNjbWtYZFZ6dnZZOUZ3M20yTnNHQWgxd3N0U2FrVUJnaWZpYmhtN19yQU9fSEdNN0t2WDNNaUljdnBxYk5reS1VblhLMjFKbk1XUUgydG1IT1J1SndOZFdURUVub0YtajJqWVZiU2RKR1Z1WTUyMkI3b2tmSkRldWpEYUFLR216cS1uUDcya2c?oc=5",
-      "words": [
-        "expands",
-        "first",
-        "international",
-        "launch",
-        "market",
-        "phonepe",
-        "uae"
-      ]
-    },
-    {
-      "at": "2026-09-09T15:17:10.391308+00:00",
       "handle": "News: Global AI",
       "headline": "Samsung to build custom AI chip for OpenAI",
       "tier": 0,
@@ -7272,11 +7256,30 @@
         "pant",
         "vodafone"
       ]
+    },
+    {
+      "at": "2026-09-16T05:46:14.307907+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta launches Meta One subscription bundle in India starting Rs 79",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aamhNajlyNUgtVWh0QUJBOWZsLUVoNWRCUjQyS1BCc3UyUEh2OGh5cmYzZWgwWUFWRTdaaG1VdjMwWmk0WGZMLVV4dVhJc1dfNjZkRG5EN1VfWHZKVnFodlZzQTFQdXpLYUxBU2N4QUZfVHhDbFRxdWM3eE3SAYIBQVVfeXFMTXVZSFZIQUFxWDZSalhfUE9ZaDhrZ3BZbjNubGhHZFh2alFiMEVGY0FjQXB6aEk0NXZfcThmUHh3Uk1JalI0Z3J4WkZ5OG5jaUl3aExJcTlOaktDYldEVTMtR2Fyblo2LU5XM0JvRGR6dnl0NVp5LXBWc1lxU0NfczBwdw?oc=5",
+      "words": [
+        "expands",
+        "facebook",
+        "instagram",
+        "meta",
+        "month",
+        "one",
+        "per",
+        "plans",
+        "starting",
+        "whatsapp"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T05:31:35.220923+00:00",
+  "last_success": "2026-09-16T05:46:14.308540+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7320,21 +7323,21 @@
     "lenovo": 1789456794113,
     "meta": 1789520749999,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789530390994,
+    "news: big tech platforms": 1789536257463,
     "news: consumer internet india": 1789535969115,
-    "news: global ai": 1789531936045,
-    "news: global chips": 1789532782586,
+    "news: global ai": 1789536029308,
+    "news: global chips": 1789535479961,
     "news: global it services": 1789532626570,
     "news: india ai deeptech": 1789532160522,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789536017955,
-    "news: india semiconductors": 1789536187081,
-    "news: india tech policy": 1789528826348,
+    "news: india fintech": 1789536747358,
+    "news: india semiconductors": 1789536521834,
+    "news: india tech policy": 1789536641013,
     "news: india telecom": 1789536152383,
-    "news: indian it majors": 1789536002750,
+    "news: indian it majors": 1789537426696,
     "news: indian it midcaps": 1789536067947,
     "news: pib releases": 1789532640698,
-    "news: tech leaders": 1789536211805,
+    "news: tech leaders": 1789536480107,
     "nvidia": 1789534842702,
     "openai": 1789387200931,
     "pib communications": 2310616,
