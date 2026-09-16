@@ -1,54 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T17:31:36.042012+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "India's Semicon 2.0 push targets chips for defence",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRTZGMks1WXl2eklsMjhUWlRrV0JGVWdQaERnME1mczVrSFlfaG4yLTBTc1BKTU9kN1dyRms5YXJhNnNXdVoxXzh4QlY5emIxdEF5dl9LQlVHSy1OSlpmMHB3aTVOR3lGWlhOT3Vacm5ET0RPMElqSFBNTVFUOHhyTUZJTVVnVHp6Q2NMbnlWZUc0QQ?oc=5",
-      "words": [
-        "chips",
-        "defence",
-        "push",
-        "semicon",
-        "targets"
-      ]
-    },
-    {
-      "at": "2026-09-09T17:31:36.042012+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Flipkart tests 'Eat In' food delivery among employees",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2VTS0t5QlJ6cnJoUjRKUlo2VERGM1BDN0dLa2NuWWxDQVQ1aHRsb19VX196TTFZcnNlaUQ2LUVCOW9vUTN0TUNpTGRuZHlrM1ZoUC1lS0dOcVF1cjVMRS00VUo0X1ptejl5VEpJWHE4ODJfRWxCZ0hrLVVTLUVveUt3eXBaSnhvZ1JhWWl5VG9aa19RNnpCQkVINWdBb0NBeFA4cnRjcGx5ekN1QUh2MGZQbW5GNTAyZ0hnMXpsdjg4WGpvSFFv0gHHAUFVX3lxTE9rZVNLS3lCUnpycmhSNEpSWjZUREYzUEM3R0trY25ZbENBVDVodGxvX1VfX3pNMVlyc2VpRDYtRUI5b29RM3RNQ2lMZG5keWszVmhQLWVLR05xUXVyNUxFLTRVSjRfWm16OXlUSklYcTg4Ml9FbEJnSGstVVMtRW95S3d5cFpKeG9nUmFZaXlUb1prX1E2ekJCRUg1Z0FvQ0F4UDhydGNwbHl6Q3VBSHYwZlBtbkY1MDJnSGcxemx2ODhYam9IUW8?oc=5",
-      "words": [
-        "among",
-        "bengaluru",
-        "delivery",
-        "eat",
-        "employees",
-        "flipkart",
-        "food",
-        "report",
-        "service",
-        "tests"
-      ]
-    },
-    {
-      "at": "2026-09-09T17:31:36.042012+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "TCS launches AI-native creative engineering studio in UK",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0NFaXhNU0o1M0RtVi04ZVVGRXA1NGhoNk41eGd0TEVySk1GYzk2d2N3V2JFOHB3TFpnUFcwOTlqR1ppOHoyTFBuSFhER2JyeVRZZmd2UnpGaEZfZEFtdExKMk5WXzVkeDNmYzhoZVBQMFlDU1BFQURMUV9UT3VsalFNSzgyWXQ3NWJ1S1g4NWpITXJTVGRXSmVwUE42MEljLUFFc0tqOVjSAa4BQVVfeXFMTm4tUmQ4OWRfZXZqekg5RVVwTzE2Y254RU4wdHZUT0s2SVhuZ2RfalF0akVjcDN4dkUzN19aRWRCekd0LUFSNk1ldW9XdnVvNWRDTV91cUh5QVRHU2JlY2trRm9yRWpPblp1RjRCTHpFU3JXV21fcHowaVEyY1pjcHBYOU50Z2hNNkFPVURMRlV0ckh4dWxaTlB4WDBSWWFBMFZ4NzNoLWw2N2ZkeGFR?oc=5",
-      "words": [
-        "creative",
-        "engineering",
-        "launches",
-        "native",
-        "studio",
-        "tcs"
-      ]
-    },
-    {
       "at": "2026-09-09T17:46:23.202556+00:00",
       "handle": "OpenAI",
       "headline": "Paul Christiano joins OpenAI Foundation Board and Safety Committee",
@@ -7274,11 +7226,69 @@
         "see",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-16T08:46:32.672651+00:00",
+      "handle": "News: India fintech",
+      "headline": "Survey shows only 17 percent merchants ready for UPI MDR",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2cyY1pvVnZNMDUyeXNMdWcwcEJla01PN2t3U3VBWXB3ZkZWNkVzUVVFMnd1Mk5EUDUyU21FMnpmMWR1SU5YV0o0WWNRbWdEdVRTMDJVQW55OGxoNGw2QWpfamEwTTlrVUtuTW44d3o5OEpPeGwwRHFHUS1rNHVjbGRUaVJ1SkFYSGN0QmYwSjk2aWh1ajFKWGtxOFh2bGEyRVdmOGt1Z9IBrAFBVV95cUxORGVicndOX3dUdU1UaVV6WkVLYjhhcERGQzVjczQxNUxLbU9pT0R4a0ZuSWNIdjR1Rmw1Q29kVGhZalBydUNrVzRXbmg2dUVzbnlsMUNINWJVaDhGWVd3Qk8xR2NLLVpiZ2pzODMzNC1KbWZGVHMzWm5YN25aMUlfdzM4TGFNWm5EUzFlYmxTeDhDNzBiMFNTU290RGh4VFF6ZFczcTJNcTlvZkZx?oc=5",
+      "words": [
+        "bear",
+        "mdr",
+        "merchants",
+        "only",
+        "ready",
+        "survey",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-16T08:46:32.672651+00:00",
+      "handle": "News: India fintech",
+      "headline": "Petroleum dealers association seeks complete UPI MDR exemption",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd3JmT2owUlRaV3ltQ3BYQTk5NGttbUJKemNzMmVSMFlpOXR5dWhESE84aGdqNXZ4WGpNS3c2SnNJMzI1VlVyMUpzYmxLS1hDMDVzU1c5NG1GbnlqakQzSVk4SHdqdWU3UUNFc3J6OHFibHo1SU5xR0ZrM0t0ZDhDSFFRbktEUGN6RGNDejZWZXhHOWNoYVdnV1lGbU40S3VaeUZNOGZmVllDc0VWWVVtVk1mUUF5d0pFQWp4NVZEYnhJUE5SU0hES2d2ZkJlbVNoT2I1ZFVYVXdVM1czUDdQVUtuTlUwNmd2WS14SA?oc=5",
+      "words": [
+        "all",
+        "association",
+        "complete",
+        "dealers",
+        "exemption",
+        "mdr",
+        "petrol",
+        "petroleum",
+        "pumps",
+        "seeks",
+        "transactions",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-16T08:46:32.672651+00:00",
+      "handle": "News: India telecom",
+      "headline": "ACES India enables 5G for Reliance Jio at Noida Airport",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPT0FEcV8tZzh4LUVfYmZONDJMalFldnpSLTRqd09YZWtMZjBMLWtWMTNETTRhbFB5Xzgzc0RZN1o3dkJEdXNqckFEa2FyREZHeWhHRlZkaDEwQ3hLVnVUdnRSeHRXRlZHNmZYVi02TGllYTd6TTlaUXo2ZXFpOGlxQUFmSDB1aEw5RUdDOXNGTWVMNDVkZ2U4VDh5Z1hjQmZuZFkzRFBIRXE3RGRxZE9venQxeHhRdW9MVWNUWEFFNkZpWDJEQUVxckE2bWhpUWlJM21fcks5Q0t6cW1PQmxYWmN4WVlzSTU0cjFneFZxbkoxb1F5cVd6OG12TEpfZWRTRnFiN09NdkpFbERkVndEdg?oc=5",
+      "words": [
+        "aces",
+        "airport",
+        "connectivity",
+        "enables",
+        "infrastructure",
+        "international",
+        "jio",
+        "noida",
+        "partnership",
+        "reliance",
+        "underpinning",
+        "year"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T08:31:33.513034+00:00",
+  "last_success": "2026-09-16T08:46:32.673816+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7326,17 +7336,17 @@
     "news: consumer internet india": 1789545157717,
     "news: global ai": 1789544154461,
     "news: global chips": 1789546230096,
-    "news: global it services": 1789546555178,
+    "news: global it services": 1789547226322,
     "news: india ai deeptech": 1789544522908,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789546560273,
-    "news: india semiconductors": 1789546656106,
+    "news: india fintech": 1789547460505,
+    "news: india semiconductors": 1789547436941,
     "news: india tech policy": 1789545300667,
-    "news: india telecom": 1789545600863,
+    "news: india telecom": 1789547580131,
     "news: indian it majors": 1789545206680,
     "news: indian it midcaps": 1789545825007,
     "news: pib releases": 1789543920698,
-    "news: tech leaders": 1789546440411,
+    "news: tech leaders": 1789547940192,
     "nvidia": 1789534842702,
     "openai": 1789387200931,
     "pib communications": 2310616,
