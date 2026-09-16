@@ -1,22 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T13:31:47.252761+00:00",
-      "handle": "News: Consumer internet India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXFKRUpBTmJUQlBYbGJfNmVvcV8xRUxpOE9LQ2R6aGhpZUdOcGVZRk5oYXlWcXBjSC1GRkxJVnQzSGRSR2FOblNXN1ZTVS1RaU92UkROTGJULUpjRTN3eXlqaWo0QUNDYXpwYjhGUFowY3I1dnpqQmJXNGYtUklELWJuZ3BWVnpVdjYxSWtTRndwcXR5dVpWcldzNmxiUFhrcHp2MFZIa1FySTNzNnBIakR1RWxsNjjSAbwBQVVfeXFMUHM5WUQ3RkhiN0UyZ0l4ZlU3SF9xVmx2S1U2eVViMzc5Z1F1X1RzWkdxTFZDaEpIM2hfNno0VmhmM3pMd2YwR19hWmc5aGU5Q2NSMW5XUGQ4QlhLTldCbUN0LTItc3lqd2VNQWNSWUZSZUU4TEdWaktTTkJVT0tzZ0NkRkd4SnJQcFM5RS1zTmIxTnlWbElzT0xfSElTbzN3VUNscTlKek9VdDNHaU9FRnhNY2JTQTh3R3Nxd28?oc=5",
-      "words": [
-        "centers",
-        "gig",
-        "hyderabad",
-        "partner",
-        "rest",
-        "telangana",
-        "worker",
-        "zepto"
-      ]
-    },
-    {
       "at": "2026-09-09T13:46:32.604731+00:00",
       "handle": "News: India fintech",
       "headline": "PhonePe and Visa launch three cardless payment tools at GFF",
@@ -7264,11 +7248,32 @@
         "porsche",
         "tcs"
       ]
+    },
+    {
+      "at": "2026-09-16T02:01:36.818807+00:00",
+      "handle": "News: India fintech",
+      "headline": "Paytm clarifies UPI payments remain free for customers after MDR rules",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdjhqNEN4aThad0szeVFRcXg4cTUxRks3dHhzaXZLRWJnbHBtWUJiVTl4TlJMSDBQaUVDWHRRc3NkZVdJcGV4d3h0TlVnemlTMTcyN0pnck9iUlJqZURyeGZKSXlpX05CNlJtcTYteUpfTXJ0cGRfU1MzTWpxVVU0V3RjdjhZWllSY3g5RTJrMDlqaW9BUjZGNlBCckphdmlwd0M5RjExNTFPVFc0NGRUQTltOVVRaW5BTUt1Z3VRR0VmR3ZuckZrRmFmaVJMR0dHY1M1SlpoNkpEUjdXQ1ljT09tUEVlaGlwRFYw0gHwAUFVX3lxTE5iZnVzSkhSQkNjTlJydEkwQm4xSmJlREgxSVhFdno1UlE5RzliNUFlR1l0VkZxbDBLV1p6Y3VBM1JDdjBvZ1NqVFc4UEljY0NDZW95d215ZHl4LTMtVVJ5UFlRRWxDU0I2dnpJM2hkYk1QZWR0ME11UlVlZkFNSF9WSWhHT2N2emhlR2pCNEp2WDFiU21zX3lWMC0xYVNoNVZ4V0dTaE1jdGtTNi05d2twRTJadkhQY0p5UGNEU1dDTV80NjJLN21PQVAta0NUZkNBSVJzNDQ5a1ZtWUMyUkRlcFR2VXN1LU1XVkJ1eTk1WA?oc=5",
+      "words": [
+        "announced",
+        "charges",
+        "customers",
+        "discount",
+        "free",
+        "just",
+        "merchant",
+        "payments",
+        "paytm",
+        "rate",
+        "remain",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T01:46:07.888087+00:00",
+  "last_success": "2026-09-16T02:01:36.819424+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7314,19 +7319,19 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789502439479,
     "news: consumer internet india": 1789522141699,
-    "news: global ai": 1789519145885,
+    "news: global ai": 1789522965511,
     "news: global chips": 1789514499073,
     "news: global it services": 1789521300731,
     "news: india ai deeptech": 1789505051164,
     "news: india edtech gaming": 1789505766406,
-    "news: india fintech": 1789523051492,
+    "news: india fintech": 1789523656481,
     "news: india semiconductors": 1789520874027,
     "news: india tech policy": 1789507024011,
-    "news: india telecom": 1789522316002,
+    "news: india telecom": 1789523600225,
     "news: indian it majors": 1789522428224,
     "news: indian it midcaps": 1789504506635,
-    "news: pib releases": 1789513386839,
-    "news: tech leaders": 1789521000336,
+    "news: pib releases": 1789517629271,
+    "news: tech leaders": 1789523489727,
     "nvidia": 1789511074171,
     "openai": 1789387200931,
     "pib communications": 2310616,
