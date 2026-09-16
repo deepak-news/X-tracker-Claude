@@ -1,93 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T18:47:17.101604+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "OpenAI ships GPT-6 Astra alongside bioweapon warnings from scientist",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0pFR1hqOGMzVDVyVWNCZWJianlpM1RCYlhXZ2JiazRudG1JZUpkOTN5TmR4X1duaFdYWjZVdDNQRHFsSjBicG9ZMDk1a2pKeG9UTUFJeHdBSW5lcTRoMW9FRlZycWE4dlNRMjdNMjR0SW9XNDhQMENGM0lHYTIzRjNkNjhDaVZuR2hqUE8yV1NJbGg3LXNtMmFTRUphV05nNVVjeUJuTmJKMXhldHNjQmg4WHdpM2lGWnBHVTBYQWxrV0pJ?oc=5",
-      "words": [
-        "astra",
-        "attacks",
-        "bioweapons",
-        "company",
-        "gpt",
-        "grid",
-        "openai",
-        "scientist",
-        "ships",
-        "warns"
-      ]
-    },
-    {
-      "at": "2026-09-09T19:31:54.658635+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Aadhaar authentication capacity to expand to 300 million daily",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFVBT0dNQm9ROHdJM2JPR1liWkpxZFpsNDczUWNCMDVfQi1sM0VhanRIZkFla3RKYmpoSmtKbkZUUjdGMnNfVlBuV1lDRnpaMVY1WVhZcl9fY0ZhQ292dU9RTUxuWG9iVDRGZnR5UEJvUVRyNXJHLVFaME1YczRuQW9sbndUQW9ONWVaU2FYUlRoUWZfYkFVVGh2dFhUZ0E4RTY2eHF2WGZkWUpmYTdncEM0X0RRc0ljMkl5YU530gHEAUFVX3lxTE1XY2RaUlhNVVU5eFVzdGRqV0g4bnc4TjBoTWFLOFE4UFB2Nm9ERG8xM1dTMkVDWTFNQS1WU3c4WE5SZnNqbjR5WExnb3g3N3ktXzl6YVA3X0d0REJIZ2lOM0x6QTRQaFNXUnVsZV9mZTFKUHQyMFBySVRpUUk1MngwM1hEVGxNbGpNUVhqVGFlU0gtS2RNSFJGSVJxNlptZmhnbjFfTFRMTTB2LVFSR1liRV9HRzdPYUpzSWd2T2lQZmZ5MU4?oc=5",
-      "words": [
-        "250",
-        "300",
-        "aadhaar",
-        "authentication",
-        "capacity",
-        "million",
-        "mishra",
-        "rise"
-      ]
-    },
-    {
-      "at": "2026-09-09T19:31:54.658635+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Accenture leases 272,000 sq ft office space in Thane",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkwzV19HMFZwVnhpc0lveFRSSmFKa19Iajhya0FkNUxpNjRlaWVERDc5WEZFQXp1X2I0VWYxS1RZaGNQYmg4a1pLZDAteW1BaUxocWhtNUFTZGJfbTVRc0J3X21HcFRwa2dfOG5xR0x3VnlneFlKTkM0OTJreHdkWERuYU0?oc=5",
-      "words": [
-        "000",
-        "272",
-        "accenture",
-        "leased",
-        "office",
-        "space",
-        "thane"
-      ]
-    },
-    {
-      "at": "2026-09-09T19:46:55.021449+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Apple launches Apple Watch Series 12 and Ultra 4 in India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVdyZzBwRkxyWHpYQUstUXNkcmdsRzdQWGw0ZjlheVJOcTNNY1hmS0xUSFBBWkdTWkV3VEZWTnJYdmxxSUV4MVVOQlVYbi03OHQ0Y1BhNWRCazAzNWFlckZPcGZlbHhlVHg5S2VrdDRid3hZRUpXNktNaU1BX1BjQy1mVW16SEZ1dTJjRXFnNy1NbjlGQnF4emFobVJncmZJZFR3emlUcTNCYkE?oc=5",
-      "words": [
-        "900",
-        "apple",
-        "launched",
-        "price",
-        "series",
-        "starts",
-        "ultra",
-        "watch"
-      ]
-    },
-    {
-      "at": "2026-09-09T20:16:36.771945+00:00",
-      "handle": "News: India fintech",
-      "headline": "Groww and Zerodha to add MSE as cash market option",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU29OS3otUDBJY1liTFFWWWJpSDBzS3RmdmtMbnVjN2tWVzdYMGtrTXNDMDdjWXBXMGhOTHlST3gwb2ZqWlJnNnlla05BRjlIYXZwNjI3a1UtNjN5T0U0T3g2UVdXWmtLMXBObWZIWjlTRVF4RTlLUm5xUHAtWGVhcEtMRHhOUnFHNFoyYzJuckpQNFpnUG1UTHh0V19EX1VYek5HSXVOWjY2Yi1NdkQyLQ?oc=5",
-      "words": [
-        "add",
-        "cash",
-        "groww",
-        "likely",
-        "market",
-        "months",
-        "mse",
-        "option",
-        "zerodha"
-      ]
-    },
-    {
       "at": "2026-09-09T20:16:36.771945+00:00",
       "handle": "News: Indian IT majors",
       "headline": "HCLTech opens new semiconductor lab in Bengaluru",
@@ -7278,11 +7191,105 @@
         "property",
         "system"
       ]
+    },
+    {
+      "at": "2026-09-16T10:16:15.600948+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Lam Research to invest Rs 10,000 crore in first India manufacturing facility",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaUs4ZGN1Vl9HeTZONi1pT2xua2hlcGVqaGF4bzh5OVdwUXoyR2c2S095S2s3QUNua2daaGQ3QzBTbEk3VEFjT0JnRDk5UVRxd0xaMW80NkFmR3ZqcWpUbHNNM1hOSlZNWHVtMkQ1SGIwTXBPenUwRmxpUk9wOUkzMzVzc25MQUIxVDJ6RDYwMUhnTGU3TGpvMTRrZE93dnlxUWpFOVlfN0VJdURhUWI4dUs0TnRLLXhiZWhUdk9CMWNGdWlWMC03N1BhYw?oc=5",
+      "words": [
+        "000",
+        "facility",
+        "first",
+        "invest",
+        "lam",
+        "manufacturing",
+        "plans",
+        "research",
+        "silicon"
+      ]
+    },
+    {
+      "at": "2026-09-16T10:16:15.600948+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Bhubaneswar AI Centre secures MeitY approval and Rs 4 crore backing",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVkV3cE9DUENRZFdhNnBZNjYtT2w0Tmt0S0J6QXBUQzZ1WWdhTDlZb1pHUnd6OUFWZ2R3aUQxdFZGcWhhTjJqQXFDVkJ3YTVaeXNLUU5HdktIU0RISVl1RVRoTTVtRjZDNzYxYmRCWjJNUFdwNnNidlVJUWZ5UTNfS0ctakc?oc=5",
+      "words": [
+        "backing",
+        "bhubaneswar",
+        "centre",
+        "gets",
+        "meity",
+        "nod"
+      ]
+    },
+    {
+      "at": "2026-09-16T10:16:15.600948+00:00",
+      "handle": "News: India fintech",
+      "headline": "RAI warns new UPI MDR fees could push small retailers to cash",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDJaRFFyUGlKVGpGcTNxMmhNemVNN2hCZ2xUYVFEN1JENG42TWxNZFZCS05ZMHQtTkRwdjlraTloc1NybWNQaWFkUHpoTGVwVjBCMVN3SEw4bzFPX19OMS04bUZQbVdFeGQzb244cjF1VlRydWN3djZIZzJmZ3luNndqNWt3elhGSHlEZWhFMHBKUWxsVTU3TnVKU1FxekNEZXlxUXJUZ0zSAasBQVVfeXFMTlJsNXRmUzZsS0x0TUI1aG5Sa0hXM21HODlrU01qSm50ZnBQaTNIMV82amNoYXRJRUg3Y0Q1eEx1M3VsMkgtcFNmREZpTllVeVQ0VV9sUzRsNi15MlVZZmtsbFVIUDdXbGRTYUxhU3dKV2pOdDBOTW14bjdZVWZvYzJYbEdPWE5tamc4NUlicVhkcEhobXVFVEUzNFdtbGljWlllQmh3WjBaOWxV?oc=5",
+      "words": [
+        "back",
+        "cash",
+        "could",
+        "fee",
+        "mdr",
+        "push",
+        "rai",
+        "retailers",
+        "small",
+        "upi",
+        "warns"
+      ]
+    },
+    {
+      "at": "2026-09-16T10:16:15.600948+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Genpact signs major Gurugram office lease worth over Rs 400 cr",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZVBOYnJjWUFUOFJBQnFJd3VrcTNvTWxOVm1RT2l5SHlHMnhabTM3ZXFRRmo5dkRTMzUyT3BhdjJuOFpYOW5PUVQtMHhfMDU1TXhxRzI5QkVWUFhhNzNsY0xCaXVkNTFuWXQ4ZnZ5OEJMbXNsMUtqekF1d2NqcDVlc2NZWVByNm1sUzFsZjJsa1Z5b0ZLVnQ0cUttek1GdGJrYk9KWUVfYWZHTmhKMkhUX2RlTWtrVGZQNHhuS0NITGVxb0ZxZkQycmlWWURZNkZVNXBOazVUT25xLURCVVHSAeMBQVVfeXFMTmxyQlVJcFJFWU40WDlBNGFtN2RRUDNmR3lmUGVQMnl2N3Nodk52bkpkZkpVWFJWcmNCcnNpX3BSajhoSHJuckl2cm8wZFQ5dm50b1l0T1lkRFJBOFpfRm1salRVTFp0Y01odHg4Vlc2Nl9Ya2VXM3dYRWtST2JUZHJhUkRodGNEZDdPMDJKVGdLMl9ZUFdVZzJWWU5ocjR0MWZqUVExRElzTXVLN0FJNWlUX0hwUTRoN1ZkWGUyb1hMVGxxV0F3SUFYYWlCZEU4Rl85cWZEYzJKTU55YVRJOEpacFU?oc=5",
+      "words": [
+        "400",
+        "asf",
+        "estate",
+        "genpact",
+        "gurugram",
+        "inks",
+        "insignia",
+        "lease",
+        "long",
+        "news",
+        "office",
+        "real",
+        "term",
+        "worth"
+      ]
+    },
+    {
+      "at": "2026-09-16T10:16:15.600948+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "SEMICON India 2026 begins Sept 17 as Odisha targets chip investments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUo5TGhHLWZWZzk1RGRDd1lDa0ZBSDZTc1R6alFSbWhHN0UxVGx0cWp2UzNRUDZaV1hQVUx5dUJrMnpmOFMyN3MzSkpKdTVqdUJYYmxOVndnZnhFRGZNSFhhWHg1Z19Rdmh5S1pfTFpyTDduRzZ4eTNGNFRNOHdLdW4xMHU4c3Z6ZGV2NzZoQjFvMUdiRWY3c3d3d1nSAZwBQVVfeXFMTy1KOUxoRy1mVmc5NURkQ3dZQ2tGQUg2U3NUempRUm1oRzdFMVRsdHFqdlMzUVA2WldYUFVMeXVCazJ6ZjhTMjdzM0pKSnU1anVCWGJsTlZ3Z2Z4RURmTUhYYVh4NWdfUXZoeUtaX0xackw3bkc2eHkzRjRUTTh3S3VuMTB1OHN2emRldjc2aEIxbzFHYkVmN3N3d3dZ?oc=5",
+      "words": [
+        "2026",
+        "chip",
+        "investments",
+        "kicks",
+        "odisha",
+        "off",
+        "semicon",
+        "sept",
+        "targets"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T10:03:28.819983+00:00",
+  "last_success": "2026-09-16T10:16:15.601967+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7327,25 +7334,25 @@
     "meta": 1789520749999,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789544322671,
-    "news: consumer internet india": 1789551051803,
-    "news: global ai": 1789547527460,
-    "news: global chips": 1789551640463,
-    "news: global it services": 1789547226322,
-    "news: india ai deeptech": 1789545360696,
+    "news: consumer internet india": 1789552636654,
+    "news: global ai": 1789548068463,
+    "news: global chips": 1789551651313,
+    "news: global it services": 1789552967980,
+    "news: india ai deeptech": 1789551855015,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789551452785,
-    "news: india semiconductors": 1789547436941,
-    "news: india tech policy": 1789551830535,
-    "news: india telecom": 1789550765411,
+    "news: india fintech": 1789553281624,
+    "news: india semiconductors": 1789553481721,
+    "news: india tech policy": 1789553726866,
+    "news: india telecom": 1789551492807,
     "news: indian it majors": 1789549659416,
     "news: indian it midcaps": 1789549175300,
     "news: pib releases": 1789543920698,
-    "news: tech leaders": 1789550787589,
+    "news: tech leaders": 1789551911976,
     "nvidia": 1789534842702,
     "openai": 1789387200931,
     "pib communications": 2310616,
     "pib meity": 2309984,
-    "pib science and technology": 2310460,
+    "pib science and technology": 2310840,
     "samsung": 1789545600744,
     "trai": 1789549424633
   },
