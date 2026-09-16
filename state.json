@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-10T01:46:38.304355+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "PM Modi inaugurates Micron's Sanand semiconductor plant",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWVjSlFkVko4c2Ytd0V1cXZtN0kzbWxXNktTYTZEV2RTTUpNWmtiMXVNT3lwUVcyWGZaaUk5M001SjdMOU1aV185VWl6TVQtOWdsaWdXNngxcmg1TkppV2JIQ3lDOHJBWHJYZ3J4MWZWTTR2OWo1aHZ3ZEd2dVR4c2pYSkgwbVZJNUd3ejB4bkpHYzktYVNBT0Z0NldfZmxFUkQ1dmpUOTBUb083V2h3Q0NKeFhnT2RlZUpLREdzQQ?oc=5",
-      "words": [
-        "gujarat",
-        "inaugurates",
-        "micron",
-        "modi",
-        "plant",
-        "sanand",
-        "semiconductor",
-        "technology"
-      ]
-    },
-    {
-      "at": "2026-09-10T01:46:38.304355+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Indian IT CEO compensation report reveals massive pay disparity",
       "tier": 0,
@@ -7297,11 +7280,34 @@
         "top",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-16T12:31:49.261270+00:00",
+      "handle": "News: India fintech",
+      "headline": "NITI Aayog VC says businesses should bear UPI transaction costs",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc21WS0RXOHJtRjVQY2V0MkZHcVdmZnNrVy1JMk1ad296Q0lvLUxXT0dTR2o1MnlJajduTHZ1ajFqTzB4SW9kdWdVZXJOcVN6YmdmUktpbldBZlhya0JmVnBRby1sa3J0X2RtUTJWSG1ESUpUYkxTTzJIR2RlRHBUR1ZKb3ZrblMzR0pmQ0c4SnRqdXBHdFJqSXhFUktHMjJ2c1lpdEduZzEyTUp5a2tsRldOMl81SmVwNHdadXVUQ1lKV1Ryb212b2lvWjVtNzB4Qmc3R0EyMnpMMUxHekRuak5oNVdyYmQ3LTN2OA?oc=5",
+      "words": [
+        "aayog",
+        "bear",
+        "businesses",
+        "cannot",
+        "costs",
+        "everything",
+        "govt",
+        "lahiri",
+        "modest",
+        "niti",
+        "should",
+        "subsidise",
+        "transaction",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T12:16:41.329529+00:00",
+  "last_success": "2026-09-16T12:31:49.261930+00:00",
   "national": {
     "alerted": [
       {
@@ -7325,6 +7331,28 @@
           "ias",
           "lal",
           "national"
+        ]
+      },
+      {
+        "at": "2026-09-16T12:37:13.369787+00:00",
+        "handle": "PIB Ministry of Labour & Employment",
+        "headline": "Cabinet raises EPFO wage ceiling to Rs 25,000, expanding mandatory retirement fund coverage.",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310973",
+        "words": [
+          "000",
+          "approves",
+          "cabinet",
+          "ceiling",
+          "coverage",
+          "employment",
+          "epfo",
+          "expanding",
+          "higher",
+          "labour",
+          "mandatory",
+          "ministry",
+          "wage"
         ]
       }
     ],
@@ -7431,7 +7459,7 @@
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244"
     ],
-    "last_run": "2026-09-16T12:18:23.193201+00:00",
+    "last_run": "2026-09-16T12:37:13.370308+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7623,7 +7651,14 @@
       "pib:2310927",
       "pib:2310941",
       "pib:2310936",
-      "pib:2310942"
+      "pib:2310942",
+      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7053-of-2026-filed-by-prince-pravin-naiya_104520.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-4791-of-2022-against-gaekwad-plantations-limited-n-the-matter-of-gaekwad-plantations-limited-_104508.html",
+      "pib:2310971",
+      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/summary-settlement-order-in-the-matter-of-mirae-asset-venture-opportunity-trust-aif_104510.html",
+      "pib:2310973",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-16-2026-in-recovery-certificate-no-9252-of-2026-issued-against-chiranggi-irish-shah-pan-cacps1824g-in-the-matter-of-front-running-by-navnit-gadoya-chiran-_104512.html",
+      "pib:2310976"
     ]
   },
   "seen": {
@@ -7662,7 +7697,7 @@
     "bse tcs": 1789482643423,
     "bse tech mahindra": 1789578907938,
     "bse urban company": 1789573707481,
-    "bse vodafone idea": 1789481680631,
+    "bse vodafone idea": 1789581151844,
     "bse wipro": 1788971859134,
     "bse zaggle": 1788981416807,
     "google": 1789560000696,
@@ -7673,16 +7708,16 @@
     "news: consumer internet india": 1789556498138,
     "news: global ai": 1789559309034,
     "news: global chips": 1789560000748,
-    "news: global it services": 1789556551242,
+    "news: global it services": 1789560728386,
     "news: india ai deeptech": 1789560243542,
-    "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789560841115,
+    "news: india edtech gaming": 1789561527959,
+    "news: india fintech": 1789561690683,
     "news: india semiconductors": 1789559050148,
     "news: india tech policy": 1789556480240,
-    "news: india telecom": 1789560254340,
+    "news: india telecom": 1789561169941,
     "news: indian it majors": 1789560091885,
     "news: indian it midcaps": 1789557293000,
-    "news: pib releases": 1789554600698,
+    "news: pib releases": 1789554900203,
     "news: tech leaders": 1789557432513,
     "nvidia": 1789534842702,
     "openai": 1789387200931,
