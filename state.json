@@ -1,23 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T14:01:58.520623+00:00",
-      "handle": "News: India telecom",
-      "headline": "Government clears air on satcom services based on TRAI suggestions",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HX05yanRETGppMXBwVmhVWTNwM0V2ZWFNWG50OERKazZCSzJ0N252NlBHbV85cjlDc3RFR1FlQWlybjJUaV9wRk8zZ1NvZ2hkeExaY21WZUpnZ19OeGtQTXlKemZISVFZU3lBdTROMjQ1dmhsa3o0cTFn?oc=5",
-      "words": [
-        "air",
-        "based",
-        "clears",
-        "govt",
-        "satcom",
-        "services",
-        "suggestions",
-        "trai"
-      ]
-    },
-    {
       "at": "2026-09-09T14:31:54.931283+00:00",
       "handle": "News: India fintech",
       "headline": "NPCI launches instant card-issuing ATMs and AI push at GFF",
@@ -7271,11 +7254,30 @@
         "sarah",
         "tech"
       ]
+    },
+    {
+      "at": "2026-09-16T03:01:36.949651+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Ola Electric related-party payments to Krutrim surge nearly fourfold",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjQtNmZ3SDJJV0gyNTdxbm9oNmdaNFR1YjdFUnlRNWFqWjh3LVlWRHlockVLN1pkRHJqcHp3SlVIWmh4SU4tM25yMGdQa2d0VlNZSC1QYkZfLW9oT2FjandVMmpwUVZBRFpoc25aTU8zZXppVFdJR01yZkNYMVhxUHExNTdhUkp5R2dUcXRyMzhwdUZHR0s1Ym5ERQ?oc=5",
+      "words": [
+        "aggarwal",
+        "bhavish",
+        "electric",
+        "krutrim",
+        "nearly",
+        "ola",
+        "one",
+        "payments",
+        "quadruple",
+        "year"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T02:46:19.837078+00:00",
+  "last_success": "2026-09-16T03:01:36.950205+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7320,13 +7322,13 @@
     "meta": 1789520749999,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789518382898,
-    "news: consumer internet india": 1789523914992,
+    "news: consumer internet india": 1789527019527,
     "news: global ai": 1789522965511,
     "news: global chips": 1789514499073,
     "news: global it services": 1789521300731,
-    "news: india ai deeptech": 1789505051164,
+    "news: india ai deeptech": 1789525823160,
     "news: india edtech gaming": 1789505766406,
-    "news: india fintech": 1789525824433,
+    "news: india fintech": 1789526727419,
     "news: india semiconductors": 1789524550640,
     "news: india tech policy": 1789507024011,
     "news: india telecom": 1789523600225,
