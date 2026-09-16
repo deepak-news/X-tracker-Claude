@@ -1,48 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T06:02:32.949100+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "Aadhaar Architect Nandan Nilekani receives SIR notice regarding voter list",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjZpLVM3Vl9oMXM4SWFBQ1ptcjhaZ2hpNHZuaWhtdVptelVjTWlrdXpiMWxLYmdjb2tNNnZaemJkOThldjI2RVRjQm1uUFY5MC00eUxQY0J0MmkydVBraFUtb1hCNm52LV9JNWV4TVZnLUdSSnZNaEcxUm1jUElmSDdQR3RNN3RRVWtEaHE1OU16QUFLMER4TGxiSUhKMVluTXRTRE1wTGJZQWtESWZsQ1BtMHBQZnZUSURVbnE2eVduaWdUT1ZwTm5EWC1pOUww?oc=5",
-      "words": [
-        "2002",
-        "aadhaar",
-        "architect",
-        "gets",
-        "list",
-        "missing",
-        "name",
-        "nandan",
-        "nilekani",
-        "notice",
-        "sir",
-        "voter"
-      ]
-    },
-    {
-      "at": "2026-09-10T06:32:24.163476+00:00",
-      "handle": "News: India fintech",
-      "headline": "Viyona Fintech integrates with NPCI eNACHLite",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUpmUXpiRFVQVFRXd1FMMUtWZDJJNjVLTDVweUVUMnZoRTg3dlZOZDR4ZWFYaC14NWRsa2pBdnRwdEFhVG9NODY1TndDM0ItLWJVWTVQTGZVVlRyNkcxTnBSMFh2UFNGMFdESWRiYTFGU0FvNWMxcXdNQnQ0R0s5bWJLYkQ0bmVXX3lrcWplemtNQU1QbFdpQ0huRzhDdHo0YmxNbkxJOERicllMWFRqX3B0alRtbmdWUHJyR3Y5WWZQeHBCMWVGbA?oc=5",
-      "words": [
-        "app",
-        "banks",
-        "browser",
-        "enachlite",
-        "fintech",
-        "mandate",
-        "npci",
-        "onboard",
-        "ready",
-        "redirect",
-        "replaces",
-        "viyona"
-      ]
-    },
-    {
       "at": "2026-09-10T06:32:24.163476+00:00",
       "handle": "News: Indian IT majors",
       "headline": "HCLTech and Transport for NSW sign AI traffic analytics MoU",
@@ -7310,11 +7268,51 @@
         "steps",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-16T15:31:54.749553+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Fujifilm to invest Rs 800 crore in Indian semiconductor materials",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMThZUzJDb3JwTlhjbkJxNXJWNnVwVDhqU2F5dEMtOEZTYklUbHVXdzZnVHFaWlBYNjV3ZHEzcElQeF92Y2tRNmRMNUhaVDV2UUwtRjEzTzkxc0w2c0R5b0o0OWNIMWtIOUR4VFA2VE52Uk13OUhybFRXOXl0ZzhvZkFnSUtvYmRQbkduLURQS0FPekl1b0ZmdHZsTHdLcFpoaGtka0FiS1JfdTBLbVd5SVlLYjFEeXpwOUxFSWJnVk5URS1DQXpDMVRuOUFvejFQcFczUmRRSU43Mkc5MzJQQk50OS1lNDA2dFNwVXZGMzF6eHhpeGEzUGVzTWRXREYxVmUzRS1OcklDWWc5S1BjeDlKZ0pqTS1RT2Qtdm82Qlh4alJNLS1KRG5lajhCdXVNZmw3clF1a0FDZw?oc=5",
+      "words": [
+        "800",
+        "facility",
+        "fujifilm",
+        "invest",
+        "japanese",
+        "manufacturing",
+        "materials",
+        "semiconductor"
+      ]
+    },
+    {
+      "at": "2026-09-16T15:31:54.749553+00:00",
+      "handle": "News: India fintech",
+      "headline": "Mohandas Pai supports UPI merchant discount rate implementation",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXhKN3BqN2hmcDNqaE94THl0U21yVGJQNm1ZYmZGY0Q2T1VraDg1VVVtS1BtZlloY1c5ODJhUVhEb3A5MWp5bjdfZ04zeFd3UERFTWd6UW9VSTUzYjFDMFZac2NBQkxGNk91ZWZJM08wY0NuWHdHT3lUZzQxVVRYUGF4Sk1wVndqZmtLZGVhVmNVQTNiY3ltXzd5SFBZdGs?oc=5",
+      "words": [
+        "also",
+        "backs",
+        "cos",
+        "cut",
+        "digital",
+        "infrastructure",
+        "introduction",
+        "investment",
+        "mdr",
+        "merchant",
+        "mohandas",
+        "move",
+        "needed",
+        "npci"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T15:16:23.180735+00:00",
+  "last_success": "2026-09-16T15:31:54.750552+00:00",
   "national": {
     "alerted": [
       {
@@ -7512,7 +7510,7 @@
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244"
     ],
-    "last_run": "2026-09-16T15:16:41.849138+00:00",
+    "last_run": "2026-09-16T15:32:20.478355+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7743,7 +7741,9 @@
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-5722-of-2022-against-jayesh-vallabhaji-madiyar-in-the-matter-of-excel-castronics-limited_104523.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/ex-parte-interim-order-in-the-matter-of-cross-segment-price-manipulation-by-prrsaar-sampada-private-limited-and-chaubara-eats-private-limited_104528.html",
       "pib:2311078",
-      "pib:2311096"
+      "pib:2311096",
+      "pib:2311115",
+      "pib:2311113"
     ]
   },
   "seen": {
@@ -7790,22 +7790,22 @@
     "meta": 1789570411316,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789568582123,
-    "news: consumer internet india": 1789569900924,
-    "news: global ai": 1789571460670,
-    "news: global chips": 1789569780825,
+    "news: consumer internet india": 1789572277215,
+    "news: global ai": 1789571880642,
+    "news: global chips": 1789571820168,
     "news: global it services": 1789566488721,
-    "news: india ai deeptech": 1789562881900,
+    "news: india ai deeptech": 1789572563508,
     "news: india edtech gaming": 1789561527959,
-    "news: india fintech": 1789571516094,
-    "news: india semiconductors": 1789571188317,
+    "news: india fintech": 1789571913389,
+    "news: india semiconductors": 1789572398033,
     "news: india tech policy": 1789570974972,
     "news: india telecom": 1789568004817,
     "news: indian it majors": 1789568710947,
-    "news: indian it midcaps": 1789567680310,
+    "news: indian it midcaps": 1789568400531,
     "news: pib releases": 1789566420922,
-    "news: tech leaders": 1789570836975,
+    "news: tech leaders": 1789572180556,
     "nvidia": 1789570848396,
-    "openai": 1789563600945,
+    "openai": 1789574400809,
     "pib communications": 2310616,
     "pib meity": 2310855,
     "pib science and technology": 2311019,
