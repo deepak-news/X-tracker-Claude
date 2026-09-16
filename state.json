@@ -1,37 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T05:02:05.036008+00:00",
-      "handle": "News: India fintech",
-      "headline": "MobiKwik expands FX Retail to support six currencies on its app",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3VSNGtmVUFnTHdIYWxPSjRCLV9QdGR5OElFdmM1R2Y1Nzdvdzh1X2hJcWtTdm1IZmxTSDRraElOdXZZLUUyNS02ZHJYUURFVnI0SkJFWHRyTWtWMngwdE10M3djdkhHQVFjVjFCd3JlZXltejcyVTZobHVGd2d1aW05Yy1GVzNzRGhkYk4ta01neVhVY0w3STBabXd6SndPN3ZSNg?oc=5",
-      "words": [
-        "app",
-        "currencies",
-        "expands",
-        "mobikwik",
-        "retail",
-        "six"
-      ]
-    },
-    {
-      "at": "2026-09-10T06:02:32.949100+00:00",
-      "handle": "News: India telecom",
-      "headline": "DoT approves TRAI proposal for satellite broadband services in India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdzZlcnVab1NzNnp2blgzQkxFQWRwd3Qya09rU1M0NkVqTEFVN3NpWEVOcUE3dmM1Q1p4SkNhcDh1VkNGbDhQVWxxcnluU2tmRmVtZXcwTjBYZV9XeGR6NVBiOHNJUTg5aHBxcjJzU05ETWEzX1pHbGs3alBlRkhNMFVYSWlQSXhqS1kwZUlxaHlCZW9Eb3pfV2xOQkRyTkNLNGEwX3NB0gGrAUFVX3lxTE8yWlNXY2FGVFRrQ0tWanc4dEszcENpM255Q1UydlY2QWYxU0tKRUtuZkpVRWI1bTFoTy1BWHNrNV95dktmOFJ0cUJaU2s3R1I4WFVBMjJTSVNWLXhtdWZkaDFiUXF1MEdIcUhuaTl4R2VPVlpzY1d4QjB3bjc1T3ZpLU9tTHE0NldIV2Q3bEJZWHktdXdlbTR1VWFmTVZ6alg3X3FsZ0c0VU95SQ?oc=5",
-      "words": [
-        "approves",
-        "broadband",
-        "dot",
-        "proposal",
-        "satellite",
-        "services",
-        "trai"
-      ]
-    },
-    {
       "at": "2026-09-10T06:02:32.949100+00:00",
       "handle": "News: Tech leaders",
       "headline": "Aadhaar Architect Nandan Nilekani receives SIR notice regarding voter list",
@@ -7305,11 +7274,47 @@
         "than",
         "transactions"
       ]
+    },
+    {
+      "at": "2026-09-16T15:01:50.969621+00:00",
+      "handle": "News: India fintech",
+      "headline": "India's UPI expands into Central Asia with a new Uzbekistan deal",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWZkWGZONTFEUll4cnZJWkU4Qm1YVDF2NWpvZW9XVllHMjlVcEowTVctNldPYTVoczMzNllfUmptaFBnVV9rOVMzNUpDN2VXVE9Pb21NaURhYTZBS05JRWxQXzdkdVRsUkZlaTk5WnR5bUdWVUpPbm9TRXVZeVNXYnI4RTBQSDZWaXRXNTQzRWpZR3NiMkdWUUIyTTk?oc=5",
+      "words": [
+        "asia",
+        "central",
+        "deal",
+        "expands",
+        "into",
+        "upi",
+        "uzbekistan"
+      ]
+    },
+    {
+      "at": "2026-09-16T15:01:50.969621+00:00",
+      "handle": "News: India fintech",
+      "headline": "Government rules out rolling back UPI charges despite opposition criticism",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHMyMmlPaGstUmV1SDA4c1dkVmZocUpNczROX2UzRWhya1lYR0g5RjE3WmN1V1RRUTFlRFZ0bHVISmJJUHNiS0taUEhjQlFCS1BSLVcwTzV4d2l6T3c1akx3SUhBTHdOaTlJRHNPY1M5MXB3aW0xVmFwYnJLV25Pd0dUVURlaEVsRlRfdlhGTVhnM0EzaFNadHZ6Y0VwNUVlMGJ5ZU1wMnhoNlB5V3NycVY0WEs0QmJR?oc=5",
+      "words": [
+        "attack",
+        "back",
+        "charges",
+        "even",
+        "govt",
+        "opposition",
+        "out",
+        "rolling",
+        "rules",
+        "steps",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T14:46:17.529778+00:00",
+  "last_success": "2026-09-16T15:01:50.970274+00:00",
   "national": {
     "alerted": [
       {
@@ -7507,7 +7512,7 @@
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244"
     ],
-    "last_run": "2026-09-16T14:46:40.208412+00:00",
+    "last_run": "2026-09-16T15:02:12.438763+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7747,7 +7752,7 @@
     "bse bharti airtel": 1789068680302,
     "bse black box": 1789582416637,
     "bse coforge": 1789562261469,
-    "bse cyient": 1789068497815,
+    "bse cyient": 1789590101246,
     "bse eternal/zomato": 1789154706058,
     "bse fractal analytics": 1789415508742,
     "bse happiest minds": 1788818758115,
@@ -7780,23 +7785,23 @@
     "bse vodafone idea": 1789581151844,
     "bse wipro": 1788971859134,
     "bse zaggle": 1788981416807,
-    "google": 1789567200380,
+    "google": 1789570800189,
     "lenovo": 1789563644712,
-    "meta": 1789520749999,
+    "meta": 1789570411316,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789568582123,
     "news: consumer internet india": 1789569567875,
     "news: global ai": 1789568460614,
-    "news: global chips": 1789567200664,
+    "news: global chips": 1789569780825,
     "news: global it services": 1789566488721,
     "news: india ai deeptech": 1789562881900,
     "news: india edtech gaming": 1789561527959,
-    "news: india fintech": 1789569404839,
-    "news: india semiconductors": 1789569931034,
+    "news: india fintech": 1789570730560,
+    "news: india semiconductors": 1789570047957,
     "news: india tech policy": 1789568506087,
     "news: india telecom": 1789568004817,
-    "news: indian it majors": 1789567994505,
-    "news: indian it midcaps": 1789567440958,
+    "news: indian it majors": 1789568710947,
+    "news: indian it midcaps": 1789567680310,
     "news: pib releases": 1789566420922,
     "news: tech leaders": 1789568460614,
     "nvidia": 1789563633139,
