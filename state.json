@@ -1,21 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T00:46:28.948089+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Key Coforge shareholders opposed OP Bhatt's reappointment",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLW51emE5SWJJQ19rcnNVaV9jd3NodTZJcEtyNUcwZ2Q2TW5UOTI4em1pT081bk05U0c3UmpKcFVsbnJkWGh4M3FKS1RrZ3d0Y2VTeWZQT2xSdHJCMWJpRktycHRqS2VzZXhPbkVQa1ZSbDNvaE4zbHZFbnY3M1VfZF9Xc0ZOMVZJZFB2Yy1TeFMtTmVVS2ZjTXR0UGZOTjVlU1BxMVFvQUw3ZEpMN3I1Umx4SGRVaTZpd1NQRkQtOFh5YWJNam1QS1dXZ9IB0AFBVV95cUxOOVdWX3ZYRTBpYko2Vkx0M3dnbVppV210Z2F2TjJoTFNiMzdLTGlNVzBwUVVwNzBVNmVJcHp4TDJpZ3NETWpLak1JZndDc0VlLWp1blZoSl9rWVhTM3ZoVFZaQ3htdk5vTVMwaHFtblAzN0ZyVHY5Nng1eWxBeUJYVm9TZDZHQW00b0lHRzNrY3RPb3prZE1aVFUzTUhhbldpVTM2U0Rtdl8zVmRaYVhIZWxoQ2tlRm5TSVcxOXB1WVZGd2tyRC1JZ2ViZG5LWDkx?oc=5",
-      "words": [
-        "against",
-        "bhatt",
-        "coforge",
-        "key",
-        "reappointment",
-        "shareholders"
-      ]
-    },
-    {
       "at": "2026-09-10T01:02:09.043114+00:00",
       "handle": "News: Global AI",
       "headline": "Samsung Q3 revenue hits 171.5T amid OpenAI Stargate chip deal",
@@ -7294,11 +7279,26 @@
         "techno",
         "towers"
       ]
+    },
+    {
+      "at": "2026-09-16T11:46:42.969964+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Amazon launches Alexa+ with Hindi support in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNm93QWpENzN6WVpiN18yYzRoamEzUndFN3BGYXQwZDEzdWN1OW1QeW02Ni1veGh5dW04MDJZeVR3YTQyTTZVaXZiU3huNnBJQ1RCQ0d4SUc0NWpLVXI3WEx2N3FaOFVTUF93aW90UkNScWFtaG80VTdIbHFaRWNhbHl2M0U1NmljSzFkSUljOTYzRmxIWVdLX3RR?oc=5",
+      "words": [
+        "alexa",
+        "amazon",
+        "hindi",
+        "launches",
+        "support",
+        "techcrunch"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T11:32:03.758940+00:00",
+  "last_success": "2026-09-16T11:46:42.970467+00:00",
   "national": {
     "alerted": [
       {
@@ -7428,7 +7428,7 @@
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244"
     ],
-    "last_run": "2026-09-16T11:36:08.378102+00:00",
+    "last_run": "2026-09-16T11:51:09.945461+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7612,7 +7612,9 @@
       "gazette:SG-DL-E-16092026-276244",
       "pib:2310868",
       "pib:2310882",
-      "pib:2310897"
+      "pib:2310897",
+      "pib:2310915",
+      "pib:2310914"
     ]
   },
   "seen": {
@@ -7641,7 +7643,7 @@
     "bse niit learning systems": 1789067950464,
     "bse nykaa": 1789155118992,
     "bse ola electric": 1789430149909,
-    "bse paytm": 1789515918787,
+    "bse paytm": 1789578149191,
     "bse persistent": 1789215571383,
     "bse reliance": 1789573562279,
     "bse swiggy": 1788801394767,
@@ -7649,7 +7651,7 @@
     "bse tata communications": 1789576462217,
     "bse tata elxsi": 1789043400169,
     "bse tcs": 1789482643423,
-    "bse tech mahindra": 1789424145878,
+    "bse tech mahindra": 1789578907938,
     "bse urban company": 1789573707481,
     "bse vodafone idea": 1789481680631,
     "bse wipro": 1788971859134,
@@ -7658,15 +7660,15 @@
     "lenovo": 1789456794113,
     "meta": 1789520749999,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789544398139,
+    "news: big tech platforms": 1789555672935,
     "news: consumer internet india": 1789556498138,
-    "news: global ai": 1789557749855,
-    "news: global chips": 1789554612499,
+    "news: global ai": 1789558203459,
+    "news: global chips": 1789558718282,
     "news: global it services": 1789556551242,
     "news: india ai deeptech": 1789555949309,
     "news: india edtech gaming": 1789509493401,
     "news: india fintech": 1789558011979,
-    "news: india semiconductors": 1789558008628,
+    "news: india semiconductors": 1789559050148,
     "news: india tech policy": 1789556480240,
     "news: india telecom": 1789557246740,
     "news: indian it majors": 1789556870917,
