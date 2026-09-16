@@ -1,41 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T09:31:57.372330+00:00",
-      "handle": "News: India fintech",
-      "headline": "NPCI building enterprise AI platform on Claude, says Anthropic India MD",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWi01aU9GdE94U1phNnM3YzJIdkoxbS1iRzQ4c3d0Z21qc0VWd3JXV3VXMy1UVHJhTjdILVR6X1l5c1BtRkVzZXVlY3ZVVFFvUXR2YWxRTnVHMmsyRDN0Rlp5dXhURGN1YTJqNjJpMS0tcENfTUN3dlRLRU1yeDQxbUotT2Q1ZEFTVXJOQzhBcVFDSDh5aXBZaVhsLTN6dlFzZi12WHJqbDVtYUxTTjI4U2xCcjAtbVhsd0phdkhscWdhYUlqN0h4anlVMjIwbmRfQ21TMTVscW5FLVFoREdVSzdxQzJrV3ZuendHSmNn0gHuAUFVX3lxTFBaLTVpT0Z0T3hTWmE2czdjMkh2SjFtLWJHNDhzd3RnbWpzRVZ3cldXdVczLVRUcmFON0gtVHpfWXlzUG1GRXNldWVjdlVUUW9RdHZhbFFOdUcyazJEM3RGWnl1eFREY3VhMmo2MmkxLS1wQ19NQ3d2VEtFTXJ4NDFtSi1PZDVkQVNVck5DOEFxUUNIOHlpcFlpWGwtM3p2UXNmLXZYcmpsNW1hTFNOMjhTbEJyMC1tWGx3SmF2SGxxZ2FhSWo3SHhqeVUyMjBuZF9DbVMxNWxxbkUtUWhER1VLN3FDMmtXdm56d0dKY2c?oc=5",
-      "words": [
-        "adoption",
-        "anthropic",
-        "building",
-        "claude",
-        "drive",
-        "enterprise",
-        "npci",
-        "platform",
-        "wider"
-      ]
-    },
-    {
-      "at": "2026-09-10T10:02:05.493893+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Wipro AI push frees capacity equivalent to 20,000 workers",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUZqYW42N1U0V0Nwcy0tclBNM0NETGhYRXdidmZmdWxxWWtlOHZKRUp6alpTSlZYWk1JaWt3ZGdQNkVEc2tQMGpUWnlHZXFTcVc3b2NxcHEyWTR2eVJPVmNieTBVbFhLdE5FWGRxVHlUbXdKdWtGRm9IN3pIZWJMUVFEcE1oMmsxeXowY0dKcV9GaGhRVDl4MTlVMDY1VWd4b3BmaHU1aXEtZHdBaEo5cA?oc=5",
-      "words": [
-        "000",
-        "capacity",
-        "cto",
-        "equivalent",
-        "frees",
-        "push",
-        "wipro",
-        "workers"
-      ]
-    },
-    {
       "at": "2026-09-10T10:02:05.493893+00:00",
       "handle": "News: India tech policy",
       "headline": "UIDAI plans global expansion of Aadhaar for overseas Indians",
@@ -7316,12 +7281,44 @@
         "panel",
         "rights"
       ]
+    },
+    {
+      "at": "2026-09-16T22:31:22.227039+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Genpact CEO Balkrishan Kalra sells 10,000 shares",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFlCOG1xclZmcy0zczgzZWRKUFZIVXZwTldXWjlINnRraGJ2TGw0WS11SXJqTDBmaXpkSG56QkNqWWJYVEM3TW55d3M1LWRuLTJwQU9wQzkxTEVqWFRNMVk3cnQ1eWctaE5pM3RiMkFMcVh4OWVGSHpPSktNWDN1S0h0WFdKRUV6Z0g4SmYxRGZlTTRRMG1JV2IweTN2MWhOUW9oUDZweUNoUQ?oc=5",
+      "words": [
+        "000",
+        "balkrishan",
+        "ceo",
+        "genpact",
+        "kalra",
+        "president",
+        "sells"
+      ]
+    },
+    {
+      "at": "2026-09-16T22:31:22.227039+00:00",
+      "handle": "News: Global AI",
+      "headline": "Analyses speculate on structural nature of Nvidia-Groq AI deal",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3E4ZFpMWTJBekVfOXNyVmxMc2RYaWZUZm5qZ1ZleUtYTFFOU3pSQlBWQzVWWThBZHJ2cUIxdnl1T05Iek84eDBXQjBKSjlfdnhVNFJRYVZsS3BoS2J2bG45TjlDeFRScV9yc1dZem5MNjJLT0pDaWNrUDZaWHhlMVpud1k4TmoxaFE?oc=5",
+      "words": [
+        "acts",
+        "deal",
+        "groq",
+        "like",
+        "merger",
+        "nvidia",
+        "quacks"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-17T03",
-  "last_success": "2026-09-16T22:16:12.838760+00:00",
+  "last_digest_hour": "2026-09-17T04",
+  "last_success": "2026-09-16T22:31:22.227518+00:00",
   "national": {
     "alerted": [
       {
@@ -7597,7 +7594,7 @@
       "CG-DL-E-17092026-276275",
       "CG-DL-E-17092026-276226"
     ],
-    "last_run": "2026-09-16T22:16:41.330149+00:00",
+    "last_run": "2026-09-16T22:31:36.976991+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7871,26 +7868,7 @@
       "gazette:CG-DL-E-17092026-276226"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Analyses speculate on structural nature of Nvidia-Groq AI deal",
-      "post": {
-        "created_at": "2026-09-16T21:31:10+00:00",
-        "handle": "News: Global AI",
-        "id": "1789594270102",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "JD Supra",
-        "reposts": 0,
-        "text": "Nvidia-Groq AI Deal: If It Quacks Like a Merger and Acts Like a Merger \u2026",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3E4ZFpMWTJBekVfOXNyVmxMc2RYaWZUZm5qZ1ZleUtYTFFOU3pSQlBWQzVWWThBZHJ2cUIxdnl1T05Iek84eDBXQjBKSjlfdnhVNFJRYVZsS3BoS2J2bG45TjlDeFRScV9yc1dZem5MNjJLT0pDaWNrUDZaWHhlMVpud1k4TmoxaFE?oc=5"
-      },
-      "queued_at": "2026-09-16T21:46:15.163151+00:00",
-      "score": 7.0,
-      "why": "Major global AI industry deal speculation involving key semiconductor players."
-    }
-  ],
+  "news_queue": [],
   "seen": {
     "amd": 1788174900103,
     "apple": 1789567168839,
@@ -7938,16 +7916,16 @@
     "news: consumer internet india": 1789587000049,
     "news: global ai": 1789595460405,
     "news: global chips": 1789595101092,
-    "news: global it services": 1789592160813,
+    "news: global it services": 1789597711141,
     "news: india ai deeptech": 1789595156013,
     "news: india edtech gaming": 1789562091959,
-    "news: india fintech": 1789595721404,
-    "news: india semiconductors": 1789595054548,
+    "news: india fintech": 1789597320050,
+    "news: india semiconductors": 1789597601114,
     "news: india tech policy": 1789587518761,
     "news: india telecom": 1789595284907,
     "news: indian it majors": 1789592033633,
     "news: indian it midcaps": 1789590581897,
-    "news: pib releases": 1789582063200,
+    "news: pib releases": 1789589951954,
     "news: tech leaders": 1789591504840,
     "nvidia": 1789570848396,
     "openai": 1789578000307,
