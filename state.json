@@ -2,22 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-09T13:31:47.252761+00:00",
-      "handle": "News: India AI deeptech",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUC1YbDZtN1hhXzFSc0c3T3lzYjEtZUtMakc4XzJGRklXNGlRMm1aWTNDdDJCLWthLUpIOXhjVDNmUngtM1k4S1lodzdFa3dmMkpWeGpjeFhhNHU2WWlJU3h6ZDdETFZSb3ZuZlkxTE0wT0QyVHMtTjJzcUZGaDJRNTJ0RGRRV3pzSG5TSDY3Y2gwZ2c3dWE0NXpxLWRpeFlpR2lCUQ?oc=5",
-      "words": [
-        "bank",
-        "build",
-        "first",
-        "idfc",
-        "improving",
-        "partner",
-        "sarvam",
-        "self"
-      ]
-    },
-    {
-      "at": "2026-09-09T13:31:47.252761+00:00",
       "handle": "News: Consumer internet India",
       "tier": 0,
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXFKRUpBTmJUQlBYbGJfNmVvcV8xRUxpOE9LQ2R6aGhpZUdOcGVZRk5oYXlWcXBjSC1GRkxJVnQzSGRSR2FOblNXN1ZTVS1RaU92UkROTGJULUpjRTN3eXlqaWo0QUNDYXpwYjhGUFowY3I1dnpqQmJXNGYtUklELWJuZ3BWVnpVdjYxSWtTRndwcXR5dVpWcldzNmxiUFhrcHp2MFZIa1FySTNzNnBIakR1RWxsNjjSAbwBQVVfeXFMUHM5WUQ3RkhiN0UyZ0l4ZlU3SF9xVmx2S1U2eVViMzc5Z1F1X1RzWkdxTFZDaEpIM2hfNno0VmhmM3pMd2YwR19hWmc5aGU5Q2NSMW5XUGQ4QlhLTldCbUN0LTItc3lqd2VNQWNSWUZSZUU4TEdWaktTTkJVT0tzZ0NkRkd4SnJQcFM5RS1zTmIxTnlWbElzT0xfSElTbzN3VUNscTlKek9VdDNHaU9FRnhNY2JTQTh3R3Nxd28?oc=5",
@@ -7262,11 +7246,29 @@
         "trillion",
         "valuation"
       ]
+    },
+    {
+      "at": "2026-09-16T01:46:07.887588+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "TCS acquires Porsche's MHP for $370 million",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODdjU2tmR1NSQzRuTXNnVGFPWlF4dnFtSk5XcU5KQkR2SWl5dXZ6YVlyNjNKT2VMdTFRbnBySHc0ZjBuazNYWUFHdDNidDNrT3M5aUpXcm13WXBvcmxERGp6RU9KR1N1MEJ6bHljcmtURjdGaC1VdEg4cExZMG04WjVha01ZZDFuZ0UwSXBJNWEwVXQ2Q0l0ZA?oc=5",
+      "words": [
+        "320m",
+        "370m",
+        "buys",
+        "client",
+        "deal",
+        "lock",
+        "mhp",
+        "porsche",
+        "tcs"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T01:31:33.144046+00:00",
+  "last_success": "2026-09-16T01:46:07.888087+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7311,17 +7313,17 @@
     "meta": 1789520749999,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789502439479,
-    "news: consumer internet india": 1789515097167,
+    "news: consumer internet india": 1789522141699,
     "news: global ai": 1789519145885,
     "news: global chips": 1789514499073,
     "news: global it services": 1789521300731,
     "news: india ai deeptech": 1789505051164,
     "news: india edtech gaming": 1789505766406,
-    "news: india fintech": 1789521440459,
+    "news: india fintech": 1789523051492,
     "news: india semiconductors": 1789520874027,
     "news: india tech policy": 1789507024011,
-    "news: india telecom": 1789514376908,
-    "news: indian it majors": 1789507440520,
+    "news: india telecom": 1789522316002,
+    "news: indian it majors": 1789522428224,
     "news: indian it midcaps": 1789504506635,
     "news: pib releases": 1789513386839,
     "news: tech leaders": 1789521000336,
@@ -7336,14 +7338,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-15T23:32:09.112396+00:00",
+        "checked": "2026-09-16T01:46:41.314498+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-15T23:32:01.574544+00:00",
+        "checked": "2026-09-16T01:46:33.319190+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -7419,7 +7421,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-15T23:32:05.316614+00:00",
+        "checked": "2026-09-16T01:46:37.269395+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
