@@ -1,24 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T07:02:06.406963+00:00",
-      "handle": "News: India telecom",
-      "headline": "Starlink, OneWeb, and Jio await cabinet nod for spectrum",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFBhQlF3RGZNM1gwQ1dlLUZaVUNVbExQalQtUGVXakJnVkZYQnZVTFhiZ0MzTVlhbHVTdWVFNzg3UlVjT3ZPb2xlRGVlZnBZNS14SGFCQmJrMzJVci1SblZ5R0pEMkh4ZExHT1paUVJzRXBxejN0Zlo4enNTaWpZMUk0ajA0Q0E?oc=5",
-      "words": [
-        "approval",
-        "await",
-        "cabinet",
-        "dcc",
-        "jio",
-        "nod",
-        "oneweb",
-        "spectrum",
-        "starlink"
-      ]
-    },
-    {
       "at": "2026-09-10T07:31:57.626430+00:00",
       "handle": "News: India fintech",
       "headline": "NPCI developing protocols to authorize AI agents on UPI network",
@@ -7309,11 +7291,29 @@
         "ten",
         "vishal"
       ]
+    },
+    {
+      "at": "2026-09-16T16:46:12.908226+00:00",
+      "handle": "News: India fintech",
+      "headline": "Economist Santosh Mehrotra comments on UPI payment system costs",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWnhoQVVTb0J2WldlUkZiMkFidnE3a3NMRmN0YW9TRkxEbXdjek5ydTQ0SmJsNXRVM3o3bW9EcWZpVFJrRW1nVHByZWpFX3QtUnhDNjYwNGZwMnFRcjNrZ1BseHJraFhBeTVLNGxZVFA5eWhBRzBSWEtYWlhyeGtWcUl4WFBBMzdrblo1cXh5dDN2VDFkSFNnUXBBOW5PYnhFeHplXzE5NC14UXlzTVdjMWxIMW5jVnZ3SzZtajhNRDlWcWZneGJfVndlNUJrZ1h20gHQAUFVX3lxTFBaeGhBVVNvQnZaV2VSRmIyQWJ2cTdrc0xGY3Rhb1NGTERtd2N6TnJ1NDRKYmw1dFUzejdtb0RxZmlUUmtFbWdUcHJlakVfdC1SeEM2NjA0ZnAycVFyM2tnUGx4cmtoWEF5NUs0bFlUUDl5aEFHMFJYS1haWHJ4a1ZxSXhYUEEzN2tuWjVxeHl0M3ZUMWRIU2dRcEE5bk9ieEV4emVfMTk0LXhReXNNV2MxbEgxbmNWdndLNm1qOE1EOVZxZmd4Yl9Wd2U1QmtnWHY?oc=5",
+      "words": [
+        "bear",
+        "cost",
+        "mehrotra",
+        "payment",
+        "santosh",
+        "someone",
+        "system",
+        "today",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T16:31:37.557739+00:00",
+  "last_success": "2026-09-16T16:46:12.908702+00:00",
   "national": {
     "alerted": [
       {
@@ -7405,6 +7405,29 @@
           "shah",
           "shahzad",
           "shri"
+        ]
+      },
+      {
+        "at": "2026-09-16T16:47:39.610933+00:00",
+        "handle": "PIB Ministry of Agriculture & Farmers Welfare",
+        "headline": "Union Minister Shivraj Singh Chouhan visits Bihar to assess severe flood damage.",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311105",
+        "words": [
+          "agriculture",
+          "assess",
+          "bihar",
+          "chouhan",
+          "crop",
+          "damage",
+          "directions",
+          "farmers",
+          "flood",
+          "loss",
+          "ministry",
+          "modi",
+          "reaches",
+          "shivraj"
         ]
       }
     ],
@@ -7518,9 +7541,11 @@
       "CG-DL-E-16092026-276245",
       "CG-DL-E-16092026-276246",
       "CG-DL-E-16092026-276250",
-      "CG-DL-E-16092026-276253"
+      "CG-DL-E-16092026-276253",
+      "CG-DL-E-16092026-276249",
+      "CG-MH-E-16092026-276248"
     ],
-    "last_run": "2026-09-16T16:32:56.188236+00:00",
+    "last_run": "2026-09-16T16:47:39.611409+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7765,7 +7790,12 @@
       "gazette:CG-DL-E-16092026-276246",
       "pib:2311160",
       "gazette:CG-DL-E-16092026-276253",
-      "gazette:CG-DL-E-16092026-276250"
+      "gazette:CG-DL-E-16092026-276250",
+      "pib:2311105",
+      "pib:2311163",
+      "gazette:CG-DL-E-16092026-276249",
+      "pib:2311161",
+      "gazette:CG-MH-E-16092026-276248"
     ]
   },
   "seen": {
@@ -7812,17 +7842,17 @@
     "meta": 1789574419436,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789569300211,
-    "news: consumer internet india": 1789572277215,
-    "news: global ai": 1789574043284,
+    "news: consumer internet india": 1789575500840,
+    "news: global ai": 1789576260640,
     "news: global chips": 1789571820168,
-    "news: global it services": 1789566488721,
-    "news: india ai deeptech": 1789574437047,
+    "news: global it services": 1789572975382,
+    "news: india ai deeptech": 1789574753674,
     "news: india edtech gaming": 1789561527959,
-    "news: india fintech": 1789575600110,
-    "news: india semiconductors": 1789575615943,
+    "news: india fintech": 1789576511543,
+    "news: india semiconductors": 1789576287087,
     "news: india tech policy": 1789571213680,
     "news: india telecom": 1789574960850,
-    "news: indian it majors": 1789574883624,
+    "news: indian it majors": 1789574906636,
     "news: indian it midcaps": 1789575060985,
     "news: pib releases": 1789572960887,
     "news: tech leaders": 1789575442360,
