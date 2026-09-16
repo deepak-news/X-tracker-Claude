@@ -2,26 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-09T15:02:51.206912+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Indian IT stocks crash on US H-1B visa fee hike",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZFJCZG9vLVdDUWNwYkV0X1lJSmFSU0ZTZWhkUV9kLV9Hb3ppeDlLamxOZXZwX2tlc3JHMkZVcnl2dWFSak5XUkw3SzRKbVpvVXlrQ204clB3WXBiZXliV3dnVGJESHVLMThsRFV5VnYwUVE2WF9tSFBwUVRxVjVxZFpRbFRFamNkUzNtV3JHcF8wbGZwNW1oa2JlRnFpQUxqQWxoR0RTNjQzM2FhLVFpVThzQzdRX0FLazY0ckNsQms3QThseDRnX19mR3NsbFdzOGVTNUJsXy1LaFVJbUtQVEdGOXpuZTdJMkxmOGZmR2ZrbkpzcUwyLdIB_wFBVV95cUxPem5uWGRpSkNibjBZNGxzTkJPRzdCT1pFNy1TX1JJUXllY2ZIamVuYWc4RnZ4a1BVdnRzSjJLQWhka2FYckFXZU1uZmdNQk0zbk55UFRvRkEyT3ZUYWVZRC1HMTBkVmxFMzdQVlU4RERIOFk4bndLWXBwUkpoMG0zbEVpelFUZklDMms3NU00Z095THE0RzlkY0dzZ01EeUtzSGtRZWVWcnJUNGFnMUJlVUhEY3k1MEt4YkJNWlZETG8xWGdHeGhVTGkwcktvZ1Jjb0NJazNBbDlhaUJHUUVoczNiUWFyYmM1c0dOalVGYmNGX1dxblZBQW1jakRBVTA?oc=5",
-      "words": [
-        "coforge",
-        "crash",
-        "fee",
-        "hcl",
-        "hike",
-        "infy",
-        "mahindra",
-        "slide",
-        "tcs",
-        "tech",
-        "visa"
-      ]
-    },
-    {
-      "at": "2026-09-09T15:02:51.206912+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Flipkart enters food delivery and quick commerce",
       "tier": 0,
@@ -7276,11 +7256,28 @@
         "watch",
         "yes"
       ]
+    },
+    {
+      "at": "2026-09-16T04:16:11.994944+00:00",
+      "handle": "News: India fintech",
+      "headline": "PhonePe crosses 11 billion monthly UPI transactions in August",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazlRNkVhTXhIYXl5ZDNndGpxRzJYdkQ1cTRkQWNQbWVjUjl5SV9PVngxWVRyNkE3WnQ2MU5VVk90UWFBaDN3VUlYV1hiSzVlbU90dEd5cXFyRDBNWllhNld2UHBqenRPTzdSb0o3c05KalFHRHJfTlJxcUJvTDNDRXBmSlh4VG1PWlNfVnI3b0VkeDg3bFhwbm9TeEpPQUNBM25pci1fZEIyVkFG0gGsAUFVX3lxTE9rOVE2RWFNeEhheXlkM2d0anFHMlh2RDVxNGRBY1BtZWNSOXlJX09WeDFZVHI2QTdadDYxTlVWT3RRYUFoM3dVSVhXWGJLNWVtT3R0R3lxcXJEME1aWWE2V3ZQcGp6dE9PN1JvSjdzTkpqUUdEcl9OUnFxQm9MM0NFcGZKWHhUbU9aU19WcjdvRWR4ODdsWHBub1N4Sk9BQ0EzbmlyLV9kQjJWQUY?oc=5",
+      "words": [
+        "august",
+        "crosses",
+        "monthly",
+        "nears",
+        "pay",
+        "phonepe",
+        "transactions",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T04:01:38.809274+00:00",
+  "last_success": "2026-09-16T04:16:11.995451+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7326,17 +7323,17 @@
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789530390994,
     "news: consumer internet india": 1789527019527,
-    "news: global ai": 1789522965511,
-    "news: global chips": 1789529272200,
-    "news: global it services": 1789521300731,
+    "news: global ai": 1789531936045,
+    "news: global chips": 1789531278133,
+    "news: global it services": 1789529760346,
     "news: india ai deeptech": 1789530674658,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789529531741,
-    "news: india semiconductors": 1789530124544,
+    "news: india fintech": 1789531622601,
+    "news: india semiconductors": 1789531660123,
     "news: india tech policy": 1789507024011,
-    "news: india telecom": 1789529578938,
-    "news: indian it majors": 1789526185323,
-    "news: indian it midcaps": 1789504506635,
+    "news: india telecom": 1789531640353,
+    "news: indian it majors": 1789531823540,
+    "news: indian it midcaps": 1789526700228,
     "news: pib releases": 1789525745583,
     "news: tech leaders": 1789530313226,
     "nvidia": 1789511074171,
