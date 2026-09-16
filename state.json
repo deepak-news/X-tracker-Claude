@@ -1,47 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T04:16:39.092147+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Persistent Systems targets mid-teen growth following Nagarro acquisition",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPejFFQ1VfaVg3NUZ4eFhKbTdrRWt5WkR5U2FwRWZna3g5eUNGNGR2T1ZpbXNxei02MWE3Umt5WGdEZGI2UDh2VWUwbmgzME5QYlRlNVZKN3g1aml6N3ppZ3RiR3BvWHo3LXlvRWlWZENHempJZi16Ui1CUVlfLVVtdWwzbDdIaXRqSXpDUUk0UWE3VTJOV0w5dkM1QzA5QTVCc1BSb0lGX256ZWR3aEtLYWpXZnQwUU11eVRNRXF6TDZudWp3VWpEMnZHdWNRNGZ4NmxrVzB4WDTSAd4BQVVfeXFMT2p2WEFMX0RJTTBadTF6VEtramxiUmpwamVUMFNlclRWWWFGbzFieWJGejlZMmxWS1VzVFJkaHU5Zng0R000aUJ3Y3NfWVJUTFNwUFF6Y050dDgyWElHejdQeGNQYmlSWTR6OHRvN2hzZzJuMGMteS0xY2lUQklYV1JsOE9WX213c3dMUmRtelhRMkFtMWl0MDZjWE9PTURJY2c0eDNiUEQwVXVHbkpIMXRpZDY0X0VyM3AzZDRjVkpVcmtXV0EtUzRkd0NpazdZRUh4UjVmcDd3MWdUMVdn?oc=5",
-      "words": [
-        "acquisition",
-        "eyes",
-        "fundraise",
-        "growth",
-        "mid",
-        "nagarro",
-        "persistent",
-        "plan",
-        "shape",
-        "systems",
-        "takes",
-        "teen"
-      ]
-    },
-    {
-      "at": "2026-09-10T04:16:39.092147+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jefferies initiates coverage on Vodafone Idea with a Buy rating",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYXJZM3dDUFZFcklMWE5ON19yQktoUnBBVjY3eWhQdHZiVE1VM0lNNnJTNVhZSjFuUWgxOWtkeVQ2amhwb0hQN2JEOWl2R3ZlMU4ycDloZ2RDU2lJQVVzbzNVM0ZMY3hTUnBhdF9tR0M3bHdtNjRUaDd2N0JyYnR1MlBxaEh2d29ZVUpRUXJ1Vi1zX0Vkci1QblZHRHpmTzJjVjJTNmZyNnFIMTV5Q0Njd2xUd3VMLWFOaEU2RFM5NXA4Q3FiekFKYUFkT2lPRGdqZWc2WWJaVXQxd2NiczlUeXBRQjRzb1dDTmV2VEIwUFdFV2M5TnFpMGhWUXFicHE5Q3EzQkQzcFNWZ1NXYjFR0gGUAkFVX3lxTE5CaDFFVTgyc0gtWUN4eWpGRjRhZjgtZldkclkxbUk4X2hxT2pGenp2VkhINXR0UDl3RGpncjUtOXU4ckQ2RmVpbXFNb2sydlJnb0x6aVl2WUJJc3k5TzBtVTlId2gwejBkWUxNc0ZQa3o4cWlkVF84NVNsSFpXVHlfSVdxWWJ6R3JBQVhCRW04eGhVTG9QX3dUZzQ0YVRpdk1hZGtzZ3JUdzBhMnpMcUJIenZsNVBzUDhvX1JnSkY4TzFzQkxKUmY3cGlLZ3RjYjl1WjRYMVA3RVpEWGFiMVFkck9vUlN3SDZKenJTNGVjOHlZS3daTEd1NzdRSERLMnRRREJsVzVBQktDcVR2WEFlTkEybw?oc=5",
-      "words": [
-        "analysts",
-        "bull",
-        "buy",
-        "coverage",
-        "focus",
-        "idea",
-        "initiates",
-        "jefferies",
-        "price",
-        "rating",
-        "vodafone"
-      ]
-    },
-    {
       "at": "2026-09-10T04:31:44.893717+00:00",
       "handle": "News: India telecom",
       "headline": "Reliance Jio introduces RCS messaging charges for business customers",
@@ -7307,11 +7266,44 @@
         "semiconductor",
         "years"
       ]
+    },
+    {
+      "at": "2026-09-16T14:01:49.455476+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "VerifAIX raises $5 million seed funding for AI semiconductors",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVFpJYXpWUnUxTnE2eEhhMzlrdDl2LVAtVDd3S0pjU0Fja0tNeDFQNnlDOERyZ3NYcS1VSk44RlFLMmRVWmNQcnI0bHNxeHZoZGtnVXU4UkgtQ2hxNGpGOFlTa3RPSHF3Uzh0QVZnUnNMUFlfUWw4b0lEWmMyNkR0TkIxdElUVFR5SVJ1Z1hLUGJWcHNubC1Mcm9DTUZDcmU0NG9yM0FoTExfa1BnX0JrUUFUakM2RV9ZbXVCdkk3R1RUUE1teklOR1VmM1JEOXk5cExTTDJJMA?oc=5",
+      "words": [
+        "build",
+        "funding",
+        "million",
+        "native",
+        "platform",
+        "raises",
+        "seed",
+        "semiconductor",
+        "verifaix",
+        "verification"
+      ]
+    },
+    {
+      "at": "2026-09-16T14:01:49.455476+00:00",
+      "handle": "News: PIB releases",
+      "headline": "PM Modi chairs semiconductor roundtable with leading CEOs",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGT19xZUpQSEdJYWpJM0NUeXRHOUdHaFNwajJrM2MtSlpxU21zODlGaXlXT1ZadDZSWkdrVWZwdko0ZmhVZzRBQ0VoMmNrcUVRSkZTcXo3QjJBQVBRRXNZQ0dSOVdzcUpPQ2tF?oc=5",
+      "words": [
+        "ceos",
+        "chairs",
+        "leading",
+        "roundtable",
+        "semiconductor"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T13:46:13.088051+00:00",
+  "last_success": "2026-09-16T14:01:49.456121+00:00",
   "national": {
     "alerted": [
       {
@@ -7486,7 +7478,7 @@
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244"
     ],
-    "last_run": "2026-09-16T13:47:16.282484+00:00",
+    "last_run": "2026-09-16T14:02:47.428464+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7703,7 +7695,11 @@
       "pib:2311007",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63606",
       "pib:2311044",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63605"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63605",
+      "pib:2311055",
+      "pib:2311054",
+      "pib:2311047",
+      "pib:2311052"
     ]
   },
   "seen": {
@@ -7745,25 +7741,25 @@
     "bse vodafone idea": 1789581151844,
     "bse wipro": 1788971859134,
     "bse zaggle": 1788981416807,
-    "google": 1789560000696,
+    "google": 1789567200380,
     "lenovo": 1789563644712,
     "meta": 1789520749999,
     "microsoft": 1788328802420,
     "news: big tech platforms": 1789564863083,
     "news: consumer internet india": 1789565081041,
-    "news: global ai": 1789565700960,
+    "news: global ai": 1789567070444,
     "news: global chips": 1789565698705,
     "news: global it services": 1789565467485,
     "news: india ai deeptech": 1789562881900,
     "news: india edtech gaming": 1789561527959,
-    "news: india fintech": 1789566041949,
-    "news: india semiconductors": 1789566015637,
+    "news: india fintech": 1789566806370,
+    "news: india semiconductors": 1789566515515,
     "news: india tech policy": 1789564072837,
     "news: india telecom": 1789563089407,
-    "news: indian it majors": 1789565243252,
+    "news: indian it majors": 1789566096527,
     "news: indian it midcaps": 1789561920325,
-    "news: pib releases": 1789565520698,
-    "news: tech leaders": 1789561120299,
+    "news: pib releases": 1789566420922,
+    "news: tech leaders": 1789566042280,
     "nvidia": 1789563633139,
     "openai": 1789563600945,
     "pib communications": 2310616,
