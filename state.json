@@ -1,66 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-09T16:31:48.539836+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Infosys co-founder Nandan Nilekani and family in Karnataka SIR list",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFhxSHZHU1pOUnRncGVNWVhvbG5CYlBGdS11SkNsUUpkUjdwTHo1ejNtMk5LN0YwUG9oRVlrRkhsSVN5b1ZtYjJ1UzR5RmxhMmJSV1hoSDRfQ3c1WW1UeUNwb2Rlbm05STFKQnVJbENucXJ5ZUNhY0M2WWRRT2hVSjJQcmhrT1dPTEZxZW92cnFha0RxVlJmMU1aYTdweFhPaXNkM2RDWlZFRUx6OXMwRzUteHYtVW55aXfSAcABQVVfeXFMTU9GV1FYMURNaklJSE8zZThJaklobW1SUDYyZTdKMTNaYTZhb3cwQ3lNengxbjl6QU55QVk4WWJpR0NqOFBtQTNsZGc1aGlnclBBS09uVTU4RVlNZTU1TlF3VFpfVG5NNk80VmRhbHVUTi15TlJsMVdWVlRPTkRfeVo3cC12V1FmOVFyMUZxQmpTVm1UVHBQUC1BSG5ZUjFjRTRrUzZvbUttRGZ4YUR6Q012ZnlzLVNFZGRGMHRWek5p?oc=5",
-      "words": [
-        "discrepancy",
-        "family",
-        "figure",
-        "founder",
-        "infosys",
-        "karnataka",
-        "list",
-        "members",
-        "nandan",
-        "nilekani",
-        "sir"
-      ]
-    },
-    {
-      "at": "2026-09-09T16:46:25.225003+00:00",
-      "handle": "News: India tech policy",
-      "headline": "UIDAI Launches Native SDK to Bypass FaceRD App Requirement",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVF0RlAxb1Bqcm1TQ21BUFlTUHdjMzNmeXZnSDl0RHlJWEw0dVg4NC01Y3lUamtKclVCdWczODlKSHlla0NyTGI2bDlSRU9aT3lJODBtdGFEOWN3QWZqRXFRY1Z4MmpqampuLXFMQXdQLWl5RmpkcURvQ0pDb0ZfZnRoMnZRaXFLZWN6U1RoRVVmT0MtMElOYkxvMVd3a3BRaHAwM2RYTXhuT3cxaFdWTUVYU2w3dUJ6N196S1ktVk8tT2c0bERGN0ZWRERPWGpkRXc?oc=5",
-      "words": [
-        "app",
-        "bypass",
-        "facerd",
-        "launches",
-        "native",
-        "requirement",
-        "sdk",
-        "uidai"
-      ]
-    },
-    {
-      "at": "2026-09-09T17:16:23.699175+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "John Ternus leads Apple's 2026 event as CEO amid iPhone 18 and Foldable launches",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORlFwTWFnYndVNEQ0SExOVzlQM0haNnhRQktpaDZGTDlHbENDUVczUnFRSllxNmw5QXRBYWpYSGJFbE5fSG5Wc2RmS05XTHVHRGQtNmEzUDFXemxSRlVuUlROd2lOY1k0SVNUZUVSbFlQVUhHQUFtSnZ4TUcyVDUyREpfanBEcm93S3ZPMk04T3VvLWNpSmt6d2tWR01lbGZaeVlpNHFaNEtjSERybVVJcA?oc=5",
-      "words": [
-        "2026",
-        "apple",
-        "ceo",
-        "event",
-        "expected",
-        "first",
-        "foldable",
-        "iphone",
-        "john",
-        "launch",
-        "leads",
-        "live",
-        "pro",
-        "ternus"
-      ]
-    },
-    {
       "at": "2026-09-09T17:31:36.042012+00:00",
       "handle": "News: India semiconductors",
       "headline": "India's Semicon 2.0 push targets chips for defence",
@@ -7280,11 +7220,65 @@
         "technology",
         "zetwerk"
       ]
+    },
+    {
+      "at": "2026-09-16T07:46:31.163096+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio IPO 2026 timeline and valuation details emerge",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZVpsMTctdGRxYzQ4Nk4taDk0Z3ItemZhSXM2MHRpUnR6RloxVEs4V2VHVFNlTWJNTXFoUDR5dFNueW56TDZUQnVpZ2llODB5X0RwS1gzVWp0OTY4bDdsOU9rMlFPS01iTlVud2EwbVktcDE2RkliT0NrUWNzUEhmczFXY1J1dGRvZ1pTM1lLWWJHUmRPU3pYUjN5MkNZVEFjbUpnVDVjZ1FpalM5dVpWdUlEZHBfR1VIdVpPSnlJOEtzd9IBxwFBVV95cUxQSlozNTd0U1lUZjc3NUJ1VjhmbTNEcWpWUXdoVnREMXptWVVUeG56UE5SMVRVRUhZR2UwYTUwVnNEUTU2cWY5SEJfWEtmVUtYZEo1WWkyRVpZdS1WOHh2dFQ1U1o0c2swNnRmWFYxZVRLR2NTSnBBWDlqRUNVSnRZdjFvWlRwdEp3RkxjbndYY1B6WkJMM1F4N19Td2ZWNkdmNVhnX2lYRUxJZEZubml2Uy1jYXpjc01nd0poTmdacW5PQkxvR3BN?oc=5",
+      "words": [
+        "2026",
+        "details",
+        "expected",
+        "ipo",
+        "jio",
+        "key",
+        "size",
+        "timeline",
+        "valuation"
+      ]
+    },
+    {
+      "at": "2026-09-16T07:46:31.163096+00:00",
+      "handle": "News: India fintech",
+      "headline": "Paytm shares jump over 7% while Pine Labs and MobiKwik pare gains",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSy1YVTA5WWdhUlpMWHBDaGZJNU9pVndKWjF4NjFOYW1ZQ1RYbkNPOHVFX1JHOFdzSHNVNUZpMVNYai04eGZZTHo0SlFmWUZFaC1GVnRxWUp5eWI3ekVmZzAwWHBwRGtmVXAzNWw3NFRjOVhzYW80eVVCcDZVakFkVi1rSnpxbEZtRU5OVWRtV0JXaldjcGN3Z1N5RXRLdzJvb09ybUdvOHV4Si1NVkpSV3NsSkptbHBmODlLLXhxRUtEa0VvT1E3Y0hB0gHPAUFVX3lxTE9DSEtkVzg5R3o3amlTM0N3NHdab1VRNmp1V0dnOVF1clVwUElhM3dGZUJsYmFXQVpyVHVpRXJBUHdNLTRMRWo5MnF0Ry1HN00wT2NLNnlzd3U3cm5LVkpZM3VDZ1hQNnNVeXFVa0Z1dk1rVjJjVkZnZ1BqODVLem5RQlFTUXQzS1hqY1pPNVVhSHZGVnlCaTVQM2pTbGNiZ3I2VXFXQWtXSE9aT1hqdEVMV2RfemgwZVJEQ2k2RDdPQWxjWVlOdk9LQnB0OXZ1MA?oc=5",
+      "words": [
+        "early",
+        "gains",
+        "jump",
+        "labs",
+        "mobikwik",
+        "one",
+        "pare",
+        "paytm",
+        "pine"
+      ]
+    },
+    {
+      "at": "2026-09-16T07:46:31.163096+00:00",
+      "handle": "News: India fintech",
+      "headline": "Brokerages name Paytm and Pine Labs as biggest UPI MDR beneficiaries",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU0RoX2swMWpNejdBSlpLd0EwOHM3TW9CQU1fQWFxYXhDbUpLQUs4OGVyREhZdDZZSjRBb1lzWDZJRkR3ME1sSGJtZ2hpZUZjbHNUZzhTRFFTQ0ZMdFNucE00ZmhfRDFDUVFiZWRFU2V3TllJbE1FT2J1bjZiVmg1R3MweGdtVTJobU5CN1Vrek5aR1RJMTM0cHlEYktoM3NCeXpncUJmTldNUTdlN1loREtTY0NteTJvWEJ3Y0pfYzJtZTNvVXhrM01QdVU4Z9IB0wFBVV95cUxNc1YwRTJqeWt0NTlHNFNfZjByT182Vks1eVdLbjFXd3QteDJFbzNHOWIxSm9NNW1mMV84QlhjaFFOY1NueC1vRGxJcTJmcEVyTDBWZU8wUWl0TkFsOF9LeDNyT2JkWk9HeHppdjRNWmEzT1dZUmlWOGxxY0Nyd3ktNXVGR0cwMEpTQzFJVmNxZ2RiNVBzQThWWU4xdGZSYlJWZnpjaGQ4bnFZZFVhTjNPTFpPWVYyby1qRzJmb2NDTVBrbXJpVWRFN0NtNnFPVmlQZnFn?oc=5",
+      "words": [
+        "beneficiaries",
+        "biggest",
+        "brokerages",
+        "labs",
+        "mdr",
+        "paytm",
+        "pine",
+        "see",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T07:31:46.034839+00:00",
+  "last_success": "2026-09-16T07:46:31.163635+00:00",
   "seen": {
     "amd": 1788174900103,
     "apple": 1789466562135,
@@ -7328,21 +7322,21 @@
     "lenovo": 1789456794113,
     "meta": 1789520749999,
     "microsoft": 1788328802420,
-    "news: big tech platforms": 1789540019324,
-    "news: consumer internet india": 1789543427911,
-    "news: global ai": 1789543051176,
-    "news: global chips": 1789541478318,
+    "news: big tech platforms": 1789544040784,
+    "news: consumer internet india": 1789544624542,
+    "news: global ai": 1789544154461,
+    "news: global chips": 1789544235697,
     "news: global it services": 1789539900892,
-    "news: india ai deeptech": 1789542547216,
+    "news: india ai deeptech": 1789544038870,
     "news: india edtech gaming": 1789509493401,
-    "news: india fintech": 1789542817893,
+    "news: india fintech": 1789544522526,
     "news: india semiconductors": 1789543676364,
-    "news: india tech policy": 1789542062655,
-    "news: india telecom": 1789542860328,
+    "news: india tech policy": 1789544360581,
+    "news: india telecom": 1789543361141,
     "news: indian it majors": 1789542858297,
     "news: indian it midcaps": 1789541316088,
-    "news: pib releases": 1789534560114,
-    "news: tech leaders": 1789542518938,
+    "news: pib releases": 1789543920698,
+    "news: tech leaders": 1789543800839,
     "nvidia": 1789534842702,
     "openai": 1789387200931,
     "pib communications": 2310616,
