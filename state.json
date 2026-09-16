@@ -3,25 +3,6 @@
     {
       "at": "2026-09-10T07:02:06.406963+00:00",
       "handle": "News: India telecom",
-      "headline": "India endorses Call to Action for 6G Leadership",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNzdFWm5wdjdqTFp1MUpocU1MWTNNQzZONDZEbzJ0cmdXaTYxc09weHNKTnFBSmh4VUxRRmluTnR2UXFpR1VIdDZSZHhhM3J4NzVjWkR3bzRMMWZjUngwd09OOWY2RWszTjB6OWVhdWFNZ3RDR21Iekc3cnF3UnFrQmNoRHRJcTBmd1dqd2JfbnFoSmp3dEptcnZJVUFtNUtIMVhYdUk5S1p4RDBSYnllLVdBT3JHNWpVejA1Q0FFYld5T2ZnOWFHV0J2RzRNQ25pTTc5LVVtQTYybFNPRFhnSm05ZlV3aXJHbVBsZk16TUJIZw?oc=5",
-      "words": [
-        "action",
-        "call",
-        "department",
-        "endorses",
-        "forward",
-        "initiative",
-        "leadership",
-        "security",
-        "take",
-        "telecommunications"
-      ]
-    },
-    {
-      "at": "2026-09-10T07:02:06.406963+00:00",
-      "handle": "News: India telecom",
       "headline": "Starlink, OneWeb, and Jio await cabinet nod for spectrum",
       "tier": 0,
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFBhQlF3RGZNM1gwQ1dlLUZaVUNVbExQalQtUGVXakJnVkZYQnZVTFhiZ0MzTVlhbHVTdWVFNzg3UlVjT3ZPb2xlRGVlZnBZNS14SGFCQmJrMzJVci1SblZ5R0pEMkh4ZExHT1paUVJzRXBxejN0Zlo4enNTaWpZMUk0ajA0Q0E?oc=5",
@@ -7309,11 +7290,30 @@
         "september",
         "services"
       ]
+    },
+    {
+      "at": "2026-09-16T16:31:37.557203+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Vishal Sikka's startup Hang Ten Systems raises $53M",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOano0UHNRVjF6WEo0M1hVRjlKOEFyQlllV1FWdjUxNVo2czVNRlZwR0REMjd2cEhGQVl6d0djekpRdTNCUHZGaEdfMTlYeUdWNnViLTItTzJqOHJrRVlaamJsQUllcV9BcWNUbXc0LWlKZVl2cGZYS3ZmZ2x0Q3Fkcm1tY0JZeWV5Y1V3THEweUJmUUhzYW90cDRQWUk3TGplZ3hzWGFBdnFYbWxUTFg0U1VIQ2gxZmY3Z0RleEJabnVNR2lNd2QydmxES2E2Q0UyenVSaFJTV0ZycEZ5Ulp4bmlpLWtKS1RRTWlNakhiVdIB7wFBVV95cUxOano0UHNRVjF6WEo0M1hVRjlKOEFyQlllV1FWdjUxNVo2czVNRlZwR0REMjd2cEhGQVl6d0djekpRdTNCUHZGaEdfMTlYeUdWNnViLTItTzJqOHJrRVlaamJsQUllcV9BcWNUbXc0LWlKZVl2cGZYS3ZmZ2x0Q3Fkcm1tY0JZeWV5Y1V3THEweUJmUUhzYW90cDRQWUk3TGplZ3hzWGFBdnFYbWxUTFg0U1VIQ2gxZmY3Z0RleEJabnVNR2lNd2QydmxES2E2Q0UyenVSaFJTV0ZycEZ5Ulp4bmlpLWtKS1RRTWlNakhiVQ?oc=5",
+      "words": [
+        "ceo",
+        "hang",
+        "infosys",
+        "million",
+        "raises",
+        "sikka",
+        "startup",
+        "systems",
+        "ten",
+        "vishal"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_success": "2026-09-16T16:16:17.139023+00:00",
+  "last_success": "2026-09-16T16:31:37.557739+00:00",
   "national": {
     "alerted": [
       {
@@ -7514,9 +7514,13 @@
       "CG-DL-E-16092026-276256",
       "CG-DL-E-16092026-276254",
       "CG-KA-E-16092026-276251",
-      "CG-MH-E-16092026-276252"
+      "CG-MH-E-16092026-276252",
+      "CG-DL-E-16092026-276245",
+      "CG-DL-E-16092026-276246",
+      "CG-DL-E-16092026-276250",
+      "CG-DL-E-16092026-276253"
     ],
-    "last_run": "2026-09-16T16:16:56.847202+00:00",
+    "last_run": "2026-09-16T16:32:56.188236+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7756,7 +7760,12 @@
       "gazette:CG-DL-E-16092026-276256",
       "gazette:CG-DL-E-16092026-276254",
       "gazette:CG-KA-E-16092026-276251",
-      "gazette:CG-MH-E-16092026-276252"
+      "gazette:CG-MH-E-16092026-276252",
+      "gazette:CG-DL-E-16092026-276245",
+      "gazette:CG-DL-E-16092026-276246",
+      "pib:2311160",
+      "gazette:CG-DL-E-16092026-276253",
+      "gazette:CG-DL-E-16092026-276250"
     ]
   },
   "seen": {
@@ -7809,14 +7818,14 @@
     "news: global it services": 1789566488721,
     "news: india ai deeptech": 1789574437047,
     "news: india edtech gaming": 1789561527959,
-    "news: india fintech": 1789574999011,
-    "news: india semiconductors": 1789574783799,
-    "news: india tech policy": 1789570974972,
+    "news: india fintech": 1789575600110,
+    "news: india semiconductors": 1789575615943,
+    "news: india tech policy": 1789571213680,
     "news: india telecom": 1789574960850,
     "news: indian it majors": 1789574883624,
-    "news: indian it midcaps": 1789569840166,
+    "news: indian it midcaps": 1789575060985,
     "news: pib releases": 1789572960887,
-    "news: tech leaders": 1789573318360,
+    "news: tech leaders": 1789575442360,
     "nvidia": 1789570848396,
     "openai": 1789574400809,
     "pib communications": 2310616,
@@ -7828,14 +7837,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-16T14:18:32.151993+00:00",
+        "checked": "2026-09-16T16:32:04.189946+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-16T14:18:24.318578+00:00",
+        "checked": "2026-09-16T16:31:56.701073+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -7911,7 +7920,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-16T14:18:28.205673+00:00",
+        "checked": "2026-09-16T16:32:00.392294+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
