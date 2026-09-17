@@ -463,12 +463,12 @@ watch:
     #  matching line to GAZETTE_DESKS. The first run only notes what is
     #  already listed; alerts start from the next gazette.
     # ---------------------------------------------------------------
-    # - name: e-Gazette - Law ministry
-    #   category: 6
-    #   ministries:
-    #     - "Ministry of Law"
-    #   mail_to: GAZETTE_DESKS:law
-    #   mail_name: "Law Ministry Gazettes"
+    - name: e-Gazette - Law ministry
+      category: 6
+      ministries:
+        - "Ministry of Law"                        # covers "Law and Justice"
+      mail_to: GAZETTE_DESKS:law
+      mail_name: "Law Ministry Gazettes"
 
   # Pages expected to stay IDENTICAL for weeks. Their content is
   # fingerprinted; when it moves, the lines that changed are emailed.
