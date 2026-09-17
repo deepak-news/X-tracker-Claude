@@ -7326,7 +7326,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-18T00",
-  "last_success": "2026-09-17T18:32:14.820035+00:00",
+  "last_success": "2026-09-17T18:47:00.905326+00:00",
   "national": {
     "alerted": [
       {
@@ -7915,7 +7915,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-17T18:33:11.898462+00:00",
+    "last_run": "2026-09-17T18:47:40.348383+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8663,7 +8663,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Amazon calls for rigorous AI safety testing and safeguards",
+      "post": {
+        "created_at": "2026-09-17T18:35:00+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1789670100725",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "Amazon enters AI safety fray, calls for 'rigorous testing,' safeguards",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVzFlZ0JjN050b3U3Qm9WeFdsZ1dCWHRLVVRpX2Y1Yk13TDcxTDdpTVVwVE81ZW9VcU8zZXBwUkNGY2lyMnJYZm5FQ3hSbHNRc3lXblI5emNYVXFjYXFrNU81MGF1QnFHUnJQUXRYdUNNN1NnVHU1dFZMVWR6N2FmT3gzcElsWjNPOTQ3a3RyWVp3ZHVzSWk4V0pfa2cwbDJlSkdHZndQSG53ZVAyUGh1T2UyWEd1ajgwN1BTUEhmWDdWcWFZM04xOWFSQmhVdVlyNVg2cVBiONIB1wFBVV95cUxPVzFlZ0JjN050b3U3Qm9WeFdsZ1dCWHRLVVRpX2Y1Yk13TDcxTDdpTVVwVE81ZW9VcU8zZXBwUkNGY2lyMnJYZm5FQ3hSbHNRc3lXblI5emNYVXFjYXFrNU81MGF1QnFHUnJQUXRYdUNNN1NnVHU1dFZMVWR6N2FmT3gzcElsWjNPOTQ3a3RyWVp3ZHVzSWk4V0pfa2cwbDJlSkdHZndQSG53ZVAyUGh1T2UyWEd1ajgwN1BTUEhmWDdWcWFZM04xOWFSQmhVdVlyNVg2cVBiOA?oc=5"
+      },
+      "queued_at": "2026-09-17T18:47:00.905140+00:00",
+      "score": 7.0,
+      "why": "Major AI company policy disclosure on safety frameworks and guardrails."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9638,16 +9657,16 @@
     "news: big tech platforms": 1789669232747,
     "news: consumer internet india": 1789666536502,
     "news: global ai": 1789669080164,
-    "news: global chips": 1789669020862,
+    "news: global chips": 1789670220207,
     "news: global it services": 1789661730311,
     "news: india ai deeptech": 1789666920000,
     "news: india edtech gaming": 1789642914433,
-    "news: india fintech": 1789669200108,
+    "news: india fintech": 1789669536844,
     "news: india semiconductors": 1789667921250,
     "news: india tech policy": 1789655353644,
     "news: india telecom": 1789669163041,
     "news: indian it majors": 1789666456618,
-    "news: indian it midcaps": 1789668831268,
+    "news: indian it midcaps": 1789670220207,
     "news: pib releases": 1789661282744,
     "news: tech leaders": 1789669528624,
     "nvidia": 1789650055203,
@@ -9681,7 +9700,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-17T18:32:15.126210+00:00",
+    "last_server_run": "2026-09-17T18:47:01.089570+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-17T18:32:30.897173+00:00",
