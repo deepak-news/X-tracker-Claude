@@ -7338,7 +7338,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T21",
-  "last_success": "2026-09-17T15:32:23.060271+00:00",
+  "last_success": "2026-09-17T15:47:27.638837+00:00",
   "national": {
     "alerted": [
       {
@@ -7897,7 +7897,7 @@
       "CG-MH-E-17092026-276297",
       "CG-DL-E-17092026-276299"
     ],
-    "last_run": "2026-09-17T15:33:07.412114+00:00",
+    "last_run": "2026-09-17T15:48:10.868517+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8575,7 +8575,8 @@
       "pib:2311637",
       "pib:2311643",
       "pib:2311650",
-      "pib:2311657"
+      "pib:2311657",
+      "pib:2311682"
     ],
     "source_failures": {
       "CBI": {
@@ -8608,7 +8609,80 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "HCL-Foxconn JV India Chip targets 40% of display driver chip demand",
+      "post": {
+        "created_at": "2026-09-17T15:21:21+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789658481079",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BusinessLine",
+        "reposts": 0,
+        "text": "HCL-Foxconn JV India Chip targets 40% of India\u2019s display driver chip demand",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZlZDUkJKWmVWY3psdG5TVGM3R1JIUHhoUmJuSFctbTNJaFFPWFZGWHZyeWMyYnFlVzZ3bnN1am9UQW8wOWE0YV8xSHBFRGNLb1BQWmI2bThMM3hrQnRoWF9YVHp4OVlVTWk1bTZYSnRXNjRRallOeXktQU01RE9DbkpjQjBqNWJEbk1wakh3ZmNHY1dsYmhqWHJVQVVnQWlmOEJ5eWhXR1dnWWRPMUJtV2c3R2drRkpwNFJqWE12UWpVRHQxQnNwLU1maWpYSmdMMUIzSTA1UdIB3gFBVV95cUxQVldvZVpPZnlQOTB6cHlXRzd5TzNZajNfZlYxUGRXbVFmaWZZZEI0T04tXzdzTzVCeWJLWmZoVGZyWHpmNy1XZl9oOERKNHFseVpVY1p2Z0JRVVNYYkgxQlR2bThNQnlja1VNVUI1a0phQjJSdkZScDE1alJPT1NqMDZHQ01SSmZ2cmdkN1lGTjJieEhGQTJIc3FMU0V5NG96ZHhBVzZ6QkVGaERzX1RiTXBzOGtCVk5WTHRmM0VzdkhxMWhTcTE3TWY0djluR0JRSjJkVk9ybTlBSjlUUnc?oc=5"
+      },
+      "queued_at": "2026-09-17T15:47:27.638552+00:00",
+      "score": 8.0,
+      "why": "A major semiconductor joint venture targeting specific domestic market share is a significant semiconductor wire story."
+    },
+    {
+      "headline": "KAS Technologies seeks R&D incentives for domestic chip ecosystem",
+      "post": {
+        "created_at": "2026-09-17T15:25:22+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789658722168",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "KAS Technologies seeks R&D incentives to boost domestic chip ecosystem",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQlIwQzQ3dXZSSlBLVHJHVkxMZEx1aXQ1dmE4SVNiQVFMTHc1SHhvemJ1RFgxZ3VwRlVPYzZIS0lDdzRYODBqMzNpWXBkci1DX0NhOElxQW5rTUluOGdrU3JKU3czTGduUk5wdGhsWXRHLXhSVmlSNHk2UTRSUzFBYU1TdUNUaFkxNGs5c1BxRk9rN3UtcjZab2VFMHZnQVZLMVFoV0lWUnVURUJXYzVIUGF3MmxFUXZucjNEam5lbDJ2Q08zWlZYYmdKZDNHdG5hVGR0aURn0gHbAUFVX3lxTFAyS25TcjI3SFR1Z3NHSXFKYUdPUy1LQ0F5d0FGdzU2MU9mX2hCTGtPbk5odFNHWmdJVm1faDhoVWxiWWxGRWl2YndkQWZFVFVUNzJFZV9tQTNKNndxOHYyc2l5TzZEMFNZdm1MZ2V2WXkyS2dMOHBCYzVvQ3NYc0ZCU3AyOUViaXdsNWg1MTdfNHV3ZE5SeXlaUk9EeXRfUWFJaG5BVlYzQ1AtUDFacHNwTk9zQ18wY3ExR2VqUHptSGZLM3RnTkdRQTYwR092R3dfWGFDRG5XWlI1cw?oc=5"
+      },
+      "queued_at": "2026-09-17T15:47:27.638552+00:00",
+      "score": 7.0,
+      "why": "A semiconductor entity seeking government R&D incentives is relevant to India's domestic chip policy push."
+    },
+    {
+      "headline": "AMD engaging Indian startups for support and potential M&A",
+      "post": {
+        "created_at": "2026-09-17T15:31:13+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789659073457",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "LinkedIn",
+        "reposts": 0,
+        "text": "AMD says it is actively engaging with India\u2019s startup ecosystem through developer support and small investments. The company says it could consider M&A when startups develop technologies that fit its portfolio, while also backing India\u2019s push to build a comp",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSmo0X2xWbkliY3BhZHlnUUYxMmpGeXZRVkRLYnk4LWVjTi1mVU80djRiYzhXcE92Qm4zWVlKMWFZdVJyMnA0UkhvUEUtNXNvdzlkV1J5RU9NbW5uN3V5ODFpTlBUX1MxdWExZEVNRnlXUzBCUzRKenItdHFjc3NRdmZiaXBvOHpTY0h0eXVBMTNnTG83NEptMUg5QUdQZTd6?oc=5"
+      },
+      "queued_at": "2026-09-17T15:47:27.638552+00:00",
+      "score": 7.0,
+      "why": "A major chipmaker outlining its India startup engagement and potential M&A strategy is filable news."
+    },
+    {
+      "headline": "SEMICON India witnesses flurry of MoUs and supply chain expansions",
+      "post": {
+        "created_at": "2026-09-17T15:42:16+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789659736920",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "YourStory",
+        "reposts": 0,
+        "text": "SEMICON India sees flurry of MoUs as chip supply chain expands",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2tyaDh5X1JmZEdzYzZ2V2gtcE5lUTNEZ2FRNjNHejgwUE1JWUc5UWRkNGxpLWdwejNOMFBfTVVfZ2lxT01kWXNvWnViUG9hZHhfM1A4a1lJSXBKaGItZzJDd01UUmVMNlFqaTNwOHNZNllCeFVQcjQ3MEl0bDhJY0RDTDBtVkV6NFRQUVZRNVkzTTBvTC1N?oc=5"
+      },
+      "queued_at": "2026-09-17T15:47:27.638552+00:00",
+      "score": 7.0,
+      "why": "Broad developments and MoUs coming out of the SEMICON India event build directly on ongoing domestic semiconductor coverage."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9565,7 +9639,7 @@
     "capgemini": 1789649384110,
     "cognizant": 1789631208737,
     "flipkart": 1789631208994,
-    "google": 1789628400789,
+    "google": 1789644480959,
     "google cloud": 1789650000163,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
@@ -9579,18 +9653,18 @@
     "microsoft india": 1789552630084,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789651500230,
+    "news: big tech platforms": 1789651779400,
     "news: consumer internet india": 1789657848165,
     "news: global ai": 1789656609582,
-    "news: global chips": 1789653974723,
+    "news: global chips": 1789655580210,
     "news: global it services": 1789654993167,
-    "news: india ai deeptech": 1789647824057,
+    "news: india ai deeptech": 1789648200152,
     "news: india edtech gaming": 1789642914433,
-    "news: india fintech": 1789657892508,
-    "news: india semiconductors": 1789656840150,
+    "news: india fintech": 1789659424575,
+    "news: india semiconductors": 1789659736920,
     "news: india tech policy": 1789655353644,
-    "news: india telecom": 1789657468978,
-    "news: indian it majors": 1789656954317,
+    "news: india telecom": 1789659542321,
+    "news: indian it majors": 1789658237725,
     "news: indian it midcaps": 1789652760487,
     "news: pib releases": 1789655040243,
     "news: tech leaders": 1789658090690,
@@ -9625,7 +9699,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-17T15:32:23.411792+00:00",
+    "last_server_run": "2026-09-17T15:47:27.878901+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-17T14:17:24.464941+00:00",
