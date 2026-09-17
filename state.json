@@ -7324,7 +7324,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-18T02",
-  "last_success": "2026-09-17T20:32:06.044288+00:00",
+  "last_success": "2026-09-17T20:47:00.045807+00:00",
   "national": {
     "alerted": [
       {
@@ -7913,7 +7913,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-17T20:32:33.932564+00:00",
+    "last_run": "2026-09-17T20:47:43.412036+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -9680,17 +9680,17 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-17T20:32:06.292719+00:00",
+    "last_server_run": "2026-09-17T20:47:00.379722+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-17T18:32:30.897173+00:00",
+        "checked": "2026-09-17T20:47:15.196883+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-17T18:32:22.726826+00:00",
+        "checked": "2026-09-17T20:47:07.761388+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -9766,7 +9766,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-17T18:32:26.816377+00:00",
+        "checked": "2026-09-17T20:47:11.407677+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
