@@ -1,22 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T20:01:43.591812+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Cognizant successfully overturns $8.4 million whistleblower retaliation verdict",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcHdEWjVSSkZLY01aYVp0c3NuWFN3WDZHWTZ1eVdGdHdsV3I3bkU4VGdKdUlBY0E2ekdRd2M2XzhzSjJESGM4RXlqZkhKQ3dicGloZkpwT1h5OVpQelM3ZlRWQVN3YVNBNFdvRlU4RkF0SWlzc18wRW5SZy1XX3QyUXh3cEpKNVlGWHR6ZC1TeUxlSkZQaEVacG03MmNLZXhaS0JkRkhCb3JjWVA2RWdCa0psa3ZWek1l0gFyQVVfeXFMUDZwVFNHbmpMWXB6ZF9welRmVWIxWC1DNEdRdjgxMHU4cWxkbWV4SGJqZU1nUHRyYlBpeG5GODhtcjdyZnpmQTNraHoyRHZYazAxaEZLVDRQMDU1RmJkWE9SYTRGdGNsWV81SUtMZlZxb0xn?oc=5",
-      "words": [
-        "cognizant",
-        "fired",
-        "knocks",
-        "out",
-        "retaliation",
-        "win",
-        "worker"
-      ]
-    },
-    {
       "at": "2026-09-10T21:31:35.224572+00:00",
       "handle": "News: India fintech",
       "headline": "PhonePe shuts down its engineering office in the US",
@@ -7309,12 +7293,35 @@
         "published",
         "verified"
       ]
+    },
+    {
+      "at": "2026-09-17T12:16:56.870328+00:00",
+      "handle": "BSE HCLTech",
+      "headline": "HCLTech board to meet October 12 for Q2 results and interim dividend",
+      "tier": 2,
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a9578f7b-0794-4636-b9da-12cd036351e3.pdf",
+      "words": [
+        "2026",
+        "alia",
+        "approve",
+        "board",
+        "bse",
+        "company",
+        "consider",
+        "directors",
+        "enclose",
+        "find",
+        "hcl",
+        "informed",
+        "inter",
+        "intimation"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T17",
-  "last_success": "2026-09-17T12:02:43.955529+00:00",
+  "last_success": "2026-09-17T12:16:56.878597+00:00",
   "national": {
     "alerted": [
       {
@@ -7844,7 +7851,7 @@
       "CG-OR-E-17092026-276290",
       "CG-OR-E-17092026-276288"
     ],
-    "last_run": "2026-09-17T12:03:46.018842+00:00",
+    "last_run": "2026-09-17T12:17:48.850090+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8470,7 +8477,9 @@
       "pib:2311459",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63615",
       "pib:2311463",
-      "pib:2311456"
+      "pib:2311456",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63616",
+      "pib:2311499"
     ],
     "source_failures": {
       "CBI": {
@@ -8503,7 +8512,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Noel Tata challenges N Chandrasekaran's reappointment as illegal",
+      "post": {
+        "created_at": "2026-09-17T11:49:00+00:00",
+        "handle": "News: Global chips",
+        "id": "1789645740161",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "News18",
+        "reposts": 0,
+        "text": "Tata Sons Drama: Noel Tata Calls Chandra\u2019s Re-Appointment 'Illegal' | PM Modi At SEMICON 2026",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNejdtYVNZeHBUZHFyRGVzTERIb3B4anBEb1lvSEZ2dUJ4aGQ4SGdfWGNmZ3RXaFBlV3pfdy11VHFCd0ZnN3pJT1JwVmpPTFltMFRWUWVMLUNsOFBPLXNRZ044VE5sUHdDckJ6TVRRRGxNNzFHUXl0TV9VWXlwY2d4endWODlPTmRkZV9UOGYwTGNhQzRXNGRZT19veGFnaER1dDVoMXRYSDdzWUJSaWxteWxMUFlpTG1COXE4NHVWSmlJbGRjYW11SjVIcEF3LVlpVmtPTi1GNXBJUdIB2gFBVV95cUxNejdtYVNZeHBUZHFyRGVzTERIb3B4anBEb1lvSEZ2dUJ4aGQ4SGdfWGNmZ3RXaFBlV3pfdy11VHFCd0ZnN3pJT1JwVmpPTFltMFRWUWVMLUNsOFBPLXNRZ044VE5sUHdDckJ6TVRRRGxNNzFHUXl0TV9VWXlwY2d4endWODlPTmRkZV9UOGYwTGNhQzRXNGRZT19veGFnaER1dDVoMXRYSDdzWUJSaWxteWxMUFlpTG1COXE4NHVWSmlJbGRjYW11SjVIcEF3LVlpVmtPTi1GNXBJUQ?oc=5"
+      },
+      "queued_at": "2026-09-17T12:16:56.878445+00:00",
+      "score": 8.0,
+      "why": "A major leadership governance dispute at Tata Sons is a critical corporate development."
+    },
+    {
+      "headline": "Japan considers acquiring GlobalFoundries US fab using tariff funds",
+      "post": {
+        "created_at": "2026-09-17T11:57:54+00:00",
+        "handle": "News: Global chips",
+        "id": "1789646274937",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Crypto Briefing",
+        "reposts": 0,
+        "text": "Japan considers buying GlobalFoundries US fab with tariff funds",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zOFZSdkxVeUo0WXF4bjdJU3B0TXVkS29wUDU4Y0dES2drVW5KeTlWMTFNeEpNdlp1VUU5cGZGRzItbjVIdTBCeWlidzdqcWFTRzlzWWVpczdhR2hVcWJpa0tRTTI3aE1ZTDl6QVF5RzBKOW5YNFFERQ?oc=5"
+      },
+      "queued_at": "2026-09-17T12:16:56.878445+00:00",
+      "score": 7.0,
+      "why": "Significant international semiconductor acquisition and policy maneuver."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9423,7 +9469,7 @@
     "bse eternal/zomato": 1789154706058,
     "bse fractal analytics": 1789599537695,
     "bse happiest minds": 1788818758115,
-    "bse hcltech": 1789643278160,
+    "bse hcltech": 1789666708247,
     "bse hfcl": 1789498606301,
     "bse info edge": 1789415448835,
     "bse infosys": 1789582718185,
@@ -9470,13 +9516,13 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789646078296,
-    "news: consumer internet india": 1789643969388,
+    "news: consumer internet india": 1789646616375,
     "news: global ai": 1789643160342,
-    "news: global chips": 1789645260077,
+    "news: global chips": 1789646274937,
     "news: global it services": 1789638338745,
-    "news: india ai deeptech": 1789643851687,
+    "news: india ai deeptech": 1789647000813,
     "news: india edtech gaming": 1789642914433,
-    "news: india fintech": 1789645877400,
+    "news: india fintech": 1789646468636,
     "news: india semiconductors": 1789646040967,
     "news: india tech policy": 1789646103903,
     "news: india telecom": 1789644759546,
