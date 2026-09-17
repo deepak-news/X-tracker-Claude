@@ -7327,7 +7327,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T19",
-  "last_success": "2026-09-17T13:32:59.553336+00:00",
+  "last_success": "2026-09-17T13:47:06.135630+00:00",
   "national": {
     "alerted": [
       {
@@ -7859,7 +7859,7 @@
       "CG-DL-E-17092026-276292",
       "CG-DL-E-17092026-276293"
     ],
-    "last_run": "2026-09-17T13:33:38.141668+00:00",
+    "last_run": "2026-09-17T13:47:42.472952+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8515,7 +8515,9 @@
       "gazette:CG-DL-E-17092026-276292",
       "pib:2311557",
       "pib:2311571",
-      "pib:2311580"
+      "pib:2311580",
+      "pib:2311592",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63617"
     ],
     "source_failures": {
       "CBI": {
@@ -8548,7 +8550,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Semicon 2.0 draws $12 billion in investment proposals: Ashwini Vaishnaw",
+      "post": {
+        "created_at": "2026-09-17T13:26:34+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789651594312",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Indian Express",
+        "reposts": 0,
+        "text": "\u2018Semicon 2.0 draws up to $12 billion in investment proposals\u2019: IT minister Ashwini Vaishnaw",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjhYUFY5eVNORmJUNmh6NWVGQmlzUkUwdmpvMC1aRkpQc3dwNHVuUWVVNjEzR0R4cy0tczE5N3hhaEhlcGIyNXRfZkoyU3NEN0JZT19Qd3FfNGhmeU5GRmRHdl9DWEpOTzF3anE0dWxiYzBHRmY0WVMtd3NfdnVyTDJ2R2RDdVhmaklrbXRyOW1XVERUWV9RRnU5UXJseUFsb01pNUhXNVNLMFF6X2x4SEJYZHdlcDN5RDhSWHFLdTBUUFRmZVgtRWZWazd3SExfX3dNWElR0gHcAUFVX3lxTFBTQ1lVNTZVdmJzMGdGMEkxVkhLNEtUYjdxRnVqWHdCcXZucUZwRE1IOUhFWDQyaHZpLWFmVzBkbU9mdUxJNmlselRnVXpCSW1RcmlfTC10YW1rN1AzRzVqNnZvYjRxQzF3STVLOEdFaWRhckczemY0c1hCNzk4aExPSTJrQzNkbjBrN2pIMkc2RW03MmlwendMeTkyTTRyU2MwUW9GVE53bjk4dUxJSkRhRTVTeks2SkVuc05NR0xXcWRvZ2k5R2tUZjRfMHFJSF9QdVhfY0hfcjN0cjU?oc=5"
+      },
+      "queued_at": "2026-09-17T13:47:06.135277+00:00",
+      "score": 9.0,
+      "why": "Major policy and investment commitment figures announced by the IT minister."
+    },
+    {
+      "headline": "Tata Electronics and SCL partner for semiconductor indigenization",
+      "post": {
+        "created_at": "2026-09-17T13:40:38+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789652438173",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Tata Electronics",
+        "reposts": 0,
+        "text": "Tata Electronics and Semi-Conductor Laboratory (SCL) Partner to Unlock Next Wave of Semiconductor Indigenization",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMXozdUV1alpPYjZENk11VUFxVGN1R005Q2FCdmtBdVI0SnVVc3ZyT0JOMGJWb3I5T1ZMbjZLT0JwVFF1Zk5GcHl5eHE4eFB2SDlVVkVkdkVfY3diWWtFUFU3NnE3UFNPdXVEeDFPV0NoX1BLd1R5Y2RIRjVRTlE5bXFObTRoV2N0Zm9sdUV4TXkxY3Z3OXBBTDdYYmFtWEFBcS1HV25Kc3JIMUNkR1ZjSU9FYnp1LTc4YjlNUEpmVlRfQ3BvUUVwMWYtLU5KOG1TUGtSS1YyVmZiTG5F?oc=5"
+      },
+      "queued_at": "2026-09-17T13:47:06.135277+00:00",
+      "score": 8.0,
+      "why": "Significant strategic partnership between Tata Electronics and government lab SCL."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9349,7 +9388,11 @@
       "https://www.tataelectronics.com/w/rohm-and-tata-electronics-form-strategic-partnership-in-the-semiconductor-business": "2026-09-17T07:46:59.984582+00:00",
       "https://www.tataelectronics.com/w/tata-and-intel-announce-strategic-alliance-to-establish-silicon-and-compute-ecosystem-in-india": "2026-09-17T07:46:59.984582+00:00",
       "https://www.tataelectronics.com/w/tata-electronics-and-asml-announce-strategic-partnership-to-advance-the-semiconductor-manufacturing-ecosystem-in-india": "2026-09-17T07:46:59.984582+00:00",
+      "https://www.tataelectronics.com/w/tata-electronics-and-besi-enter-strategic-partnership-to-strengthen-advanced-packaging-capabilities": "2026-09-17T13:46:56.800181+00:00",
+      "https://www.tataelectronics.com/w/tata-electronics-and-fujifilm-announce-strategic-partnership-to-accelerate-semiconductor-materials-ecosystem-in-india": "2026-09-17T13:46:56.800181+00:00",
+      "https://www.tataelectronics.com/w/tata-electronics-and-gati-shakti-vishwavidyalaya-partner-to-advance-semiconductor-and-infrastructure-talent-development": "2026-09-17T13:46:56.800181+00:00",
       "https://www.tataelectronics.com/w/tata-electronics-and-meity-s-centre-for-development-of-advanced-computing-sign-mou-to-develop-domestic-semiconductor-design-and-ip-ecosystem": "2026-09-17T07:46:59.984582+00:00",
+      "https://www.tataelectronics.com/w/tata-electronics-and-semi-conductor-laboratory-scl-partner-to-unlock-next-wave-of-semiconductor-indigenization": "2026-09-17T13:46:56.800181+00:00",
       "https://www.tataelectronics.com/w/tata-electronics-signs-a-memorandum-of-understanding-with-the-national-institute-of-electronics-and-it-nielit-kohima-to-skill-the-youth-of-nagaland-for-the-semiconductor-industry": "2026-09-17T07:46:59.984582+00:00"
     },
     "Zinnov": {
@@ -9516,19 +9559,19 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789650130925,
-    "news: consumer internet india": 1789648800397,
+    "news: consumer internet india": 1789651721866,
     "news: global ai": 1789649700426,
     "news: global chips": 1789646274937,
-    "news: global it services": 1789644441142,
+    "news: global it services": 1789650002397,
     "news: india ai deeptech": 1789647824057,
     "news: india edtech gaming": 1789642914433,
-    "news: india fintech": 1789651100280,
-    "news: india semiconductors": 1789651004664,
-    "news: india tech policy": 1789646103903,
-    "news: india telecom": 1789651254319,
-    "news: indian it majors": 1789650561769,
+    "news: india fintech": 1789652271700,
+    "news: india semiconductors": 1789652438173,
+    "news: india tech policy": 1789652438173,
+    "news: india telecom": 1789652507460,
+    "news: indian it majors": 1789652522001,
     "news: indian it midcaps": 1789651047400,
-    "news: pib releases": 1789642320224,
+    "news: pib releases": 1789647120215,
     "news: tech leaders": 1789651346380,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -9545,7 +9588,7 @@
     "samsung india": 1789642074299,
     "sarvam ai": 1789631206990,
     "swiggy": 1789214456821,
-    "tata electronics": 1789651966179,
+    "tata electronics": 1789652816878,
     "trai": 1789648953552,
     "xai": 1789631206993,
     "zinnov": 1789638408829,
@@ -9560,7 +9603,7 @@
       "e-Gazette - Home, Finance, Defence, Law, I&B",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-17T13:32:59.883186+00:00",
+    "last_server_run": "2026-09-17T13:47:06.455667+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-17T12:03:15.018572+00:00",
