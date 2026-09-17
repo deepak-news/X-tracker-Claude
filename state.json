@@ -7324,7 +7324,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T18",
-  "last_success": "2026-09-17T12:32:14.908821+00:00",
+  "last_success": "2026-09-17T12:47:33.852641+00:00",
   "national": {
     "alerted": [
       {
@@ -7854,7 +7854,7 @@
       "CG-OR-E-17092026-276290",
       "CG-OR-E-17092026-276288"
     ],
-    "last_run": "2026-09-17T12:33:30.416770+00:00",
+    "last_run": "2026-09-17T12:48:27.960914+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8501,7 +8501,10 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-india-posts-transformation-into-a-modern-technology-driven-and-professionally-managed-institution",
       "pib:2311509",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-shri-mukesh-kumar-goyal-defaulter-pan-aiipg8861b-in-the-matter-of-gdr-issues-of-ikf-technologies-limited-under-certificate-no-3780-of-2021-_104550.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-certificate-no-rc7374-of-2023-in-respect-of-kanchan-agarwal-pan-afmpa8305d-in-the-matter-of-illiquid-stock-options_104547.html"
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-certificate-no-rc7374-of-2023-in-respect-of-kanchan-agarwal-pan-afmpa8305d-in-the-matter-of-illiquid-stock-options_104547.html",
+      "pib:2311537",
+      "pib:2311538",
+      "pib:2311540"
     ],
     "source_failures": {
       "CBI": {
@@ -9449,7 +9452,7 @@
     "aws": 1789581014411,
     "bse bharti airtel": 1789068680302,
     "bse black box": 1789582416637,
-    "bse coforge": 1789643546507,
+    "bse coforge": 1789668384904,
     "bse cyient": 1789663656842,
     "bse eternal/zomato": 1789154706058,
     "bse fractal analytics": 1789599537695,
@@ -9500,21 +9503,21 @@
     "microsoft india": 1789552630084,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789647105904,
+    "news: big tech platforms": 1789647180042,
     "news: consumer internet india": 1789646616375,
     "news: global ai": 1789643160342,
     "news: global chips": 1789646274937,
     "news: global it services": 1789638338745,
     "news: india ai deeptech": 1789647824057,
     "news: india edtech gaming": 1789642914433,
-    "news: india fintech": 1789647842726,
-    "news: india semiconductors": 1789647595069,
+    "news: india fintech": 1789648876899,
+    "news: india semiconductors": 1789648223929,
     "news: india tech policy": 1789646103903,
-    "news: india telecom": 1789647322110,
+    "news: india telecom": 1789648473456,
     "news: indian it majors": 1789647725554,
     "news: indian it midcaps": 1789634359825,
-    "news: pib releases": 1789641180014,
-    "news: tech leaders": 1789643783892,
+    "news: pib releases": 1789642320224,
+    "news: tech leaders": 1789648615011,
     "nvidia": 1789570848396,
     "nvidia blog": 1789570848396,
     "openai": 1789578000307,
@@ -9531,7 +9534,7 @@
     "sarvam ai": 1789631206990,
     "swiggy": 1789214456821,
     "tata electronics": 1789631219893,
-    "trai": 1789630357166,
+    "trai": 1789648470302,
     "xai": 1789631206993,
     "zinnov": 1789638408829,
     "zoho": 1789652100254
