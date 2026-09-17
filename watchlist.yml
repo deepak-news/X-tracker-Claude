@@ -23,6 +23,17 @@ newsworthy: |
   - Government and regulatory moves on IT, AI, semiconductors, data or telecom
   - Major product, chip or AI model launches with real substance
   - Quarterly results, revenue or headcount numbers
+  - Company blogs and research reports that disclose something new: survey
+    or study findings with hard numbers (especially about India), market
+    size or share estimates from a named firm, a new India investment,
+    customer, hire count or facility, or a model/product with real specifics
+  - Disclosures by the major AI companies -- OpenAI, Anthropic, Google
+    DeepMind, Meta, xAI, Microsoft, Mistral, NVIDIA and the like -- EVEN WITH
+    NO INDIA ANGLE: safety, misalignment or incident reports; threat
+    intelligence reports on misuse of AI (state-backed hackers, scams,
+    influence operations, cyberattacks); significant research findings; and
+    new policies, frameworks or commitments governing their models.
+    These are wire stories in their own right; score them 7 or higher.
   - Statements by a founder, CEO or minister that are themselves the story,
     especially on industry direction, policy, competition or controversy
 
@@ -31,6 +42,8 @@ newsworthy: |
   - Memes, jokes, banter, replies to other people
   - Congratulations, condolences, festival greetings, birthday wishes
   - Marketing posts, webinar and event promotion, hiring-we-are-hiring posts
+  - How-to guides, product tips, customer case studies, and thought-leadership
+    essays that contain no new fact or figure
   - Routine international product updates with no India angle
   - Anything already widely reported days ago
 
@@ -267,6 +280,51 @@ sources:
     - {name: Lenovo,    url: "https://news.lenovo.com/feed/"}
     - {name: Microsoft, url: "https://blogs.microsoft.com/feed/"}
     - {name: TRAI,      url: "https://www.trai.gov.in/rss.xml"}
+    # Added 2026-09-17. None of these advertise a feed on their page; each
+    # address was found and checked against the live site.
+    - {name: HCLTech,            url: "https://www.hcltech.com/rss.xml"}
+    - {name: Capgemini,          url: "https://www.capgemini.com/feed/"}
+    - {name: IBM,                url: "https://newsroom.ibm.com/announcements?pagetemplate=rss"}
+    - {name: Intel,              url: "https://www.intc.com/news-events/press-releases/rss"}
+    - {name: Arm,                url: "https://newsroom.arm.com/news/feed/"}
+    - {name: NVIDIA blog,        url: "https://blogs.nvidia.com/feed/"}
+    - {name: Google DeepMind,    url: "https://deepmind.google/blog/feed/"}
+    - {name: Google India,       url: "https://blog.google/intl/en-in/rss/"}
+    - {name: Google Cloud,       url: "https://www.googlecloudpresscorner.com/press-releases?pagetemplate=rss"}
+    - {name: Microsoft India,    url: "https://news.microsoft.com/source/asia/feed/"}
+    - {name: Amazon India,       url: "https://www.aboutamazon.in/rss/feed.rss"}
+    - {name: AWS,                url: "https://aws.amazon.com/blogs/aws/feed/"}
+    - {name: Salesforce,         url: "https://www.salesforce.com/news/feed/"}
+    - {name: Mistral AI,         url: "https://mistral.ai/news/rss"}
+    - {name: Samsung India,      url: "https://news.samsung.com/in/feed/"}
+    - {name: Zoho,               url: "https://www.zoho.com/blog/feed"}
+    - {name: Razorpay,           url: "https://razorpay.com/blog/feed/"}
+    - {name: Swiggy,             url: "https://blog.swiggy.com/feed/"}
+    - {name: Naukri,             url: "https://www.naukri.com/blog/rss/"}
+
+  # 2b. Company pages with NO feed at all. The page is read and any article
+  #     link not there last time is treated as a new post, then opened and
+  #     read in full before the AI judges it.
+  #     "match" says which links on the page are articles (the part of the
+  #     address after the site name). Leave it out and every link BELOW the
+  #     page's own address counts -- e.g. anything under /news for /news.
+  #     The first time a page is read, what is already there is only noted.
+  #     Checked against the live sites on 2026-09-17.
+  pages:
+    # Anthropic puts big reports at the top level of its site, outside
+    # /news (e.g. /threat-intelligence-report-september-2026), so both count.
+    - {name: Anthropic,        url: "https://www.anthropic.com/news", match: "^/(news/)?[a-z0-9][a-z0-9-]*[a-z0-9]$"}
+    - {name: xAI,              url: "https://x.ai/news"}
+    - {name: Sarvam AI,        url: "https://www.sarvam.ai/blogs"}
+    - {name: PhonePe,          url: "https://www.phonepe.com/press/"}
+    - {name: Flipkart,         url: "https://stories.flipkart.com/", match: "^/announcement/[^/]+$"}
+    - {name: Cognizant,        url: "https://news.cognizant.com/", match: "^/20\\d\\d-\\d\\d-\\d\\d-"}
+    - {name: Airtel,           url: "https://www.airtel.in/press-release"}
+    - {name: Redseer,          url: "https://redseer.com/articles/", match: "^/(articles|reports)/[^/]+$"}
+    - {name: Zinnov,           url: "https://zinnov.com/insights/", match: "^/centers-of-excellence/[^/]+$"}
+    - {name: LinkedIn,         url: "https://news.linkedin.com/", match: "^/20\\d\\d/"}
+    - {name: Oracle,           url: "https://www.oracle.com/news/", match: "^/news/announcement/[^/]+$"}
+    - {name: Tata Electronics, url: "https://www.tataelectronics.com/newsroom/", match: "^/w/[^/]+$"}
 
   # 3. Government releases, straight from PIB (no English feed exists,
   #    so the ministry dropdown on their English page is driven directly)
