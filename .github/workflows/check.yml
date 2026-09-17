@@ -50,6 +50,7 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
+          ADMIN_MAIL_TO: ${{ secrets.ADMIN_MAIL_TO }}
         run: |
           case "${{ inputs.mode }}" in
             test-email) python -m tracker.main --test-email ;;
@@ -67,6 +68,7 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           WATCH_MAIL_TO: ${{ secrets.WATCH_MAIL_TO }}
+          GAZETTE_MAIL_TO: ${{ secrets.GAZETTE_MAIL_TO }}
         run: |
           if [ "${{ inputs.mode }}" = "dry-run" ]; then
             python -m tracker.watch --dry-run
@@ -99,6 +101,8 @@ jobs:
           git config user.name "news-tracker"
           git config user.email "actions@users.noreply.github.com"
           cp state.json "$RUNNER_TEMP/mine.json"
+          # The email counter keeps its own file (see email_out.py for why).
+          cp mail_log.json "$RUNNER_TEMP/mine_log.json" 2>/dev/null || echo '{}' > "$RUNNER_TEMP/mine_log.json"
 
           # Nothing in state.json genuinely conflicts -- every field only
           # moves forward -- so it is combined by meaning rather than merged
@@ -113,12 +117,16 @@ jobs:
             [ "$attempt" -gt 1 ] && sleep $(( (attempt - 1) * 15 ))
 
             git fetch origin main || { echo "fetch failed (attempt $attempt)"; continue; }
-            git checkout -- state.json 2>/dev/null || true
+            git checkout -- state.json mail_log.json 2>/dev/null || true
+            rm -f mail_log.json
             git reset --hard origin/main --quiet || { echo "reset failed (attempt $attempt)"; continue; }
 
             python -m tracker.merge_state "$RUNNER_TEMP/mine.json" state.json > "$RUNNER_TEMP/merged.json"
             mv "$RUNNER_TEMP/merged.json" state.json
-            git add state.json
+            [ -f mail_log.json ] || echo '{}' > mail_log.json
+            python -m tracker.merge_state --mail-log "$RUNNER_TEMP/mine_log.json" mail_log.json > "$RUNNER_TEMP/merged_log.json"
+            mv "$RUNNER_TEMP/merged_log.json" mail_log.json
+            git add state.json mail_log.json
             git diff --staged --quiet && { echo "nothing new to record"; exit 0; }
 
             git commit -m "seen up to $(date -u +%FT%TZ)" --quiet || { echo "commit failed (attempt $attempt)"; continue; }
