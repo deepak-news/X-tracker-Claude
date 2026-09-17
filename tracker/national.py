@@ -264,7 +264,11 @@ def _page(entry: dict) -> list:
     posts = sources._page(entry, {})[:int(entry.get("max_links", 60))]
     for post in posts:
         post.id = f"page:{post.url}"
-        post.created_at = now
+        # If the listing prints a date, that is when it was issued. Anything
+        # older than the age limit is then ignored even on a first sighting,
+        # which is what stops a list of last month's bulletins going out.
+        issued = sources.date_in_text(post.text)
+        post.created_at = min(issued, dt.datetime.now(UTC)).isoformat() if issued else now
     return posts
 
 
@@ -484,13 +488,18 @@ def build_email(rows: list) -> tuple:
         major = (f'<span style="background:#b91c1c;color:#fff;font:700 10px/1 {font};'
                  f'letter-spacing:.08em;padding:4px 7px;border-radius:3px;margin-left:6px;">'
                  f'MAJOR</span>') if value >= 9 else ""
-        action = "Open the gazette (PDF)" if post.url.lower().endswith(".pdf") else "Read the release"
+        if post.handle.startswith("Gazette "):
+            action = "Open the gazette (PDF)"
+        elif post.url.lower().endswith(".pdf"):
+            action = "Open the PDF"
+        else:
+            action = "Read the release"
         cards.append(f"""
         <div style="border:1px solid #e5e7eb;border-radius:6px;padding:16px 18px;margin-bottom:14px;">
           <div style="margin-bottom:10px;">
             <span style="background:{colour};color:#fff;font:600 10px/1 {font};letter-spacing:.08em;
                          padding:4px 7px;border-radius:3px;">{label}</span>{major}
-            <span style="color:#6b7280;font:400 12px/1 {font};margin-left:8px;">{html.escape(_issuer(post))}</span>
+            {'' if _issuer(post).upper() == label else f'<span style="color:#6b7280;font:400 12px/1 {font};margin-left:8px;">{html.escape(_issuer(post))}</span>'}
           </div>
           <div style="font:600 17px/1.35 {font};color:#111827;">{html.escape(headline or _original(post))}</div>
           <div style="font:400 13px/1.5 {font};color:#6b7280;margin-top:8px;">
@@ -507,9 +516,10 @@ def build_email(rows: list) -> tuple:
       {''.join(cards)}
       <div style="color:#9ca3af;font:400 12px/1.5 {font};margin-top:20px;
                   border-top:1px solid #e5e7eb;padding-top:12px;">
-        Screened from PIB (every ministry), the Gazette of India (Extraordinary),
-        the RBI and SEBI. Only items judged to have broad public news value are
-        sent; routine releases are left out. Headlines are machine-written from
+        Screened from official sources: PIB, the Gazette of India, central
+        ministries, regulators and agencies, and state governments. Only items
+        judged to have broad public news value are sent; routine releases are
+        left out. Headlines are machine-written from
         the official text -- check the original before publishing.
       </div>
     </div>"""
@@ -554,7 +564,12 @@ def run(dry_run: bool) -> int:
     # on one page -- must not send its whole archive to the AI.
     known_sources = set(memory.get("sources") or [])
     introduced = {getattr(p, "source", "") for p in posts} - known_sources
-    if known_sources and introduced:
+    # "Established" is judged by the memory of items, not by this list of
+    # sources: a desk that was running before the list existed has no list
+    # yet, and treating that as "nothing to introduce" is exactly what sent
+    # a month of IMD bulletins at once on 17 September 2026.
+    established = bool(seen_list)
+    if established and introduced:
         print(f"  new source(s), noting what is already there: {', '.join(sorted(introduced))}")
 
     fresh, settled, ids = [], set(), set()
@@ -564,7 +579,7 @@ def run(dry_run: bool) -> int:
         if post.id in seen or post.id in ids:
             continue
         ids.add(post.id)
-        if known_sources and getattr(post, "source", "") in introduced and not dry_run:
+        if established and getattr(post, "source", "") in introduced and not dry_run:
             settled.add(post.id)
             continue
         if dt.datetime.fromisoformat(post.created_at) < cutoff:

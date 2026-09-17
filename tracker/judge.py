@@ -433,6 +433,21 @@ def _try_model(model: str, prompt: str, api_key: str, newly_dead: set):
                   f"check the {API_KEY_ENV} secret is a valid key")
             return None
         if response.status_code == 429:
+            # Google refuses for two different reasons. Out of the DAILY
+            # allowance: the model is done until tomorrow. Too many requests
+            # this MINUTE: it only needs a short wait. Benching a model for
+            # twenty hours over a per-minute limit would throw away most of a
+            # day's capacity for nothing.
+            body = response.text
+            if "PerMinute" in body and "PerDay" not in body and attempt < RETRIES:
+                match = re.search(r'"retryDelay"\s*:\s*"(\d+)', body)
+                pause = min(int(match.group(1)) if match else 30, 60) + 2
+                print(f"  ! {model} hit its per-minute limit, waiting {pause}s")
+                time.sleep(pause)
+                continue
+            if "PerMinute" in body and "PerDay" not in body:
+                print(f"  ! {model} is still rate-limited; trying the next model for now")
+                return None
             print(f"  ! {model} is out of free quota for today")
             newly_dead.add(model)
             return None

@@ -29,6 +29,8 @@ import requests
 from pypdf import PdfReader
 from bs4 import BeautifulSoup
 
+from . import krutidev
+
 
 @dataclass
 class Post:
@@ -391,6 +393,36 @@ def _link_title(anchor, url: str) -> str:
     return text[:300]
 
 
+_MONTHS = {m: i for i, m in enumerate(
+    ("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"), 1)}
+
+
+def date_in_text(text: str):
+    """The first date written in a listing's own text, as the end of that
+    day in Indian time -- "11 Sep 2026", "16/09/2026", "September 17 ,2026".
+    None if there is no date. Government tables print the release date on
+    every row; it is the only honest date a page with no feed offers."""
+    ist = dt.timezone(dt.timedelta(hours=5, minutes=30))
+    day = month = year = None
+    match = re.search(r"\b(\d{1,2})\s*[-/. ]?\s*([A-Za-z]{3})[a-z]*\.?\s*[-/., ]\s*(20\d\d)\b", text)
+    if match and match.group(2).lower() in _MONTHS:
+        day, month, year = int(match.group(1)), _MONTHS[match.group(2).lower()], int(match.group(3))
+    if day is None:
+        match = re.search(r"\b([A-Za-z]{3})[a-z]*\.?\s+(\d{1,2})\s*,?\s*(20\d\d)\b", text)
+        if match and match.group(1).lower() in _MONTHS:
+            day, month, year = int(match.group(2)), _MONTHS[match.group(1).lower()], int(match.group(3))
+    if day is None:
+        match = re.search(r"\b(\d{1,2})[./-](\d{1,2})[./-](20\d\d)\b", text)
+        if match:
+            day, month, year = int(match.group(1)), int(match.group(2)), int(match.group(3))
+    if day is None:
+        return None
+    try:
+        return dt.datetime(year, month, day, 23, 59, tzinfo=ist)
+    except ValueError:
+        return None
+
+
 def _page(entry: dict, memory: dict) -> list[Post]:
     """New article links on a company page that has no feed."""
     response = requests.get(entry["url"], timeout=TIMEOUT, headers=PAGE_HEADERS)
@@ -405,6 +437,9 @@ def _page(entry: dict, memory: dict) -> list[Post]:
         base = re.sub(r"\.\w+$", "", base)
         pattern = re.escape(base) + r"/[^?#]+"
     wanted = re.compile(pattern)
+    # Listings to leave out by their title -- e.g. IMD posts every bulletin
+    # twice, in Hindi and English, and only one copy is wanted.
+    unwanted = re.compile(entry["exclude"]) if entry.get("exclude") else None
 
     found = {}
     for anchor in soup.find_all("a", href=True):
@@ -414,6 +449,8 @@ def _page(entry: dict, memory: dict) -> list[Post]:
         if not wanted.search(urlparse(url).path):
             continue
         title = _link_title(anchor, url)
+        if unwanted and unwanted.search(title):
+            continue
         if url not in found or len(title) > len(found[url]):
             found[url] = title
     if not found:
@@ -496,7 +533,12 @@ def _article(url: str) -> tuple[str, object]:
     if url.lower().endswith(".pdf") or "pdf" in response.headers.get("Content-Type", ""):
         reader = PdfReader(io.BytesIO(response.content))
         text = " ".join((page.extract_text() or "") for page in reader.pages[:6])
-        return " ".join(text.split())[:ARTICLE_CHARS], None
+        text = " ".join(text.split())
+        # Hindi typed in the old Kruti Dev font reads back as gibberish
+        # ("eaf=ifj"kn" for मंत्रिपरिषद) until it is converted.
+        if krutidev.looks_like_krutidev(text):
+            text = krutidev.to_unicode(text)
+        return text[:ARTICLE_CHARS], None
 
     soup = BeautifulSoup(response.text, "html.parser")
     when = _published(soup, url)
