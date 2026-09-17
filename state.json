@@ -7316,7 +7316,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T16",
-  "last_success": "2026-09-17T11:01:58.432658+00:00",
+  "last_success": "2026-09-17T11:17:06.539728+00:00",
   "national": {
     "alerted": [
       {
@@ -7829,7 +7829,7 @@
       "CG-OR-E-17092026-276290",
       "CG-OR-E-17092026-276288"
     ],
-    "last_run": "2026-09-17T11:04:25.566837+00:00",
+    "last_run": "2026-09-17T11:17:52.982606+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8514,6 +8514,60 @@
       "queued_at": "2026-09-17T11:01:58.432306+00:00",
       "score": 8.0,
       "why": "Major semiconductor equipment capex commitments in India are critical wire stories."
+    },
+    {
+      "headline": "Nippon Express eyes India as semiconductor logistics hub",
+      "post": {
+        "created_at": "2026-09-17T10:58:55+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789642735944",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "MC Exclusive | Japanese logistics major Nippon Express Group eyes India as semiconductor logistics hub",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdWJNSjlMS0tZNXU3WHB6ZncxUWZfajk3SEE0cFJpUUZ0Tk9naFVrdWlIc0VMeF9ZN0dKVUFOVDdYdkZQdHJGVjY3ZXpLREt4TzVPc2JlT1NGSXFwaEhMQVA5dG5zaXY3VHlvUXNyTnFFZjBZRGJqZzNlRVB1cjRfMkEzSFFpbjQ2WUxwWUhwdFpFUWhzbmNQVS1MNmV4cWxrNzZqQXIwLUVpQXpsU1oybzN6TlVhVXBiakpzM3hScUFzUElDZUFhYmhZX1ZKMFBjRnk2MUUtMnpaSXNLQ2FYamdrbXVfV19UNWfSAe8BQVVfeXFMTjVHa0pMazZfWmx2c3lvWDNJYnBralJ3SG9kZEtDQzR2cUJOMHU0ZGZYcG9kQ0MwdFEySnVJZ1VJd1hvYVFfQ3NRRllJeEVIZF9SUFIzRy1Hb3dsb2JTWFk3NjYxbUNzU2hDb1N3eFlWRmViclFkdDNwcldReE9DRlRpd0lzSEJLNi1QS29XUTZkMzVHNmNUOUtucUVnaDFQMk9UMG14a3NBWDcycDQ2bl82XzlJR0h5ZFlhaWlYdklfd0N6WXRWRF9sNW5BVTFDSnFBRThJM00tYlM3cXgzUHNlLXhvbmd0TExzSlRLR1U?oc=5"
+      },
+      "queued_at": "2026-09-17T11:17:06.539418+00:00",
+      "score": 8.0,
+      "why": "A major global logistics player targeting India's semiconductor supply chain is a solid foreign investment story."
+    },
+    {
+      "headline": "ZOHO.VC hits roughly \u20ac7M first close toward \u20ac10M target",
+      "post": {
+        "created_at": "2026-09-17T11:00:23+00:00",
+        "handle": "News: India AI deeptech",
+        "id": "1789642823794",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Dealroom",
+        "reposts": 0,
+        "text": "ZOHO.VC hits ~\u20ac7M first close (70% of \u20ac10M target)",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXlGQm4tWldYeGN4MXNGdURqcGxFaVJJbmdIQmNqN2pDRjE2d2xGZDdUQ3lIcHdvanE2VUxTX3NqZjFuNW8yRGtiRnJYc093ZmtJTEpmSDBkM3NhNzlibDV3VEFKSVNOLUlta0ZGelRLcUVXNU0ybVNvbTZ3YnRUMnFoUmg?oc=5"
+      },
+      "queued_at": "2026-09-17T11:17:06.539418+00:00",
+      "score": 7.0,
+      "why": "A new funding close by a prominent enterprise venture fund is filable wire news."
+    },
+    {
+      "headline": "Factrika raises Rs 8.9 Cr seed round led by Info Edge",
+      "post": {
+        "created_at": "2026-09-17T11:01:54+00:00",
+        "handle": "News: India edtech gaming",
+        "id": "1789642914433",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "TradingView",
+        "reposts": 0,
+        "text": "Factrika Raises Rs 8.9 Cr Seed Round Led By Info Edge To Expand Industrial Workforce Platform",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb0pSc01NN183Z3FqcTFzREJ5cnUxTVMtcXB5bTJPTGNQdUl5TmpIU2pDaWtTd1pnQXBjY0lBRmNYMFc4cEJXZ1Z5cF9JMWNuNk5RWXRrWm9LT2xQNlU4SG1QMnlpQUtDTHZmVUNqUWVobk5XS1EyUUdXTGdUQWRkV0xlbzlyeU5objcwMl8zcW5rbDB5OHZ3Ukl3dEFuWGxuT3RRVmZfY2xxcW1FVXVzNVFGMlNNQXQtWDdJV0haQnhEN0RvclBjaXlQUTdhcElGcGF1QV9Xa21McGY1UTIyeXVocUY?oc=5"
+      },
+      "queued_at": "2026-09-17T11:17:06.539418+00:00",
+      "score": 7.0,
+      "why": "Startup funding rounds with specific amounts and lead investors are filable wire news."
     }
   ],
   "page_links": {
@@ -9453,7 +9507,7 @@
     "bse tech mahindra": 1789578907938,
     "bse urban company": 1789573707481,
     "bse vodafone idea": 1789581151844,
-    "bse wipro": 1789659404681,
+    "bse wipro": 1789663475234,
     "bse zaggle": 1788981416807,
     "capgemini": 1789624183482,
     "cognizant": 1789631208737,
@@ -9472,18 +9526,18 @@
     "microsoft india": 1789552630084,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789641890484,
+    "news: big tech platforms": 1789643561781,
     "news: consumer internet india": 1789642279860,
-    "news: global ai": 1789642115631,
-    "news: global chips": 1789642142635,
+    "news: global ai": 1789643160342,
+    "news: global chips": 1789643571974,
     "news: global it services": 1789638338745,
-    "news: india ai deeptech": 1789641675366,
-    "news: india edtech gaming": 1789628768025,
-    "news: india fintech": 1789642415856,
-    "news: india semiconductors": 1789641717791,
+    "news: india ai deeptech": 1789642823794,
+    "news: india edtech gaming": 1789642914433,
+    "news: india fintech": 1789643530334,
+    "news: india semiconductors": 1789643368110,
     "news: india tech policy": 1789641240946,
     "news: india telecom": 1789641540826,
-    "news: indian it majors": 1789642500911,
+    "news: indian it majors": 1789643433760,
     "news: indian it midcaps": 1789634359825,
     "news: pib releases": 1789634040020,
     "news: tech leaders": 1789629060666,
