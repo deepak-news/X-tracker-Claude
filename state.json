@@ -7335,7 +7335,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T20",
-  "last_success": "2026-09-17T15:02:31.571896+00:00",
+  "last_success": "2026-09-17T15:17:10.219446+00:00",
   "national": {
     "alerted": [
       {
@@ -7894,7 +7894,7 @@
       "CG-MH-E-17092026-276297",
       "CG-DL-E-17092026-276299"
     ],
-    "last_run": "2026-09-17T15:03:14.208317+00:00",
+    "last_run": "2026-09-17T15:17:48.050481+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8570,7 +8570,8 @@
       "pib:2311638",
       "pib:2311634",
       "pib:2311637",
-      "pib:2311643"
+      "pib:2311643",
+      "pib:2311650"
     ],
     "source_failures": {
       "CBI": {
@@ -9618,10 +9619,10 @@
     "news: global it services": 1789654993167,
     "news: india ai deeptech": 1789647824057,
     "news: india edtech gaming": 1789642914433,
-    "news: india fintech": 1789656731979,
-    "news: india semiconductors": 1789656694696,
+    "news: india fintech": 1789657892508,
+    "news: india semiconductors": 1789656840150,
     "news: india tech policy": 1789655353644,
-    "news: india telecom": 1789654500550,
+    "news: india telecom": 1789657468978,
     "news: indian it majors": 1789656954317,
     "news: indian it midcaps": 1789652760487,
     "news: pib releases": 1789655040243,
@@ -9631,7 +9632,7 @@
     "openai": 1789578000307,
     "oracle": 1789631219707,
     "phonepe": 1789631207660,
-    "pib communications": 2311244,
+    "pib communications": 2311650,
     "pib meity": 2311630,
     "pib science and technology": 2311451,
     "razorpay": 1789539311308,
@@ -9657,7 +9658,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-17T15:02:31.899017+00:00",
+    "last_server_run": "2026-09-17T15:17:10.466147+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-17T14:17:24.464941+00:00",
