@@ -7316,7 +7316,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T12",
-  "last_success": "2026-09-17T06:46:28.482387+00:00",
+  "last_success": "2026-09-17T07:01:47.780908+00:00",
   "national": {
     "alerted": [
       {
@@ -7597,7 +7597,7 @@
       "SG-DL-E-17092026-276276",
       "SG-DL-E-17092026-276277"
     ],
-    "last_run": "2026-09-17T06:49:39.103992+00:00",
+    "last_run": "2026-09-17T07:02:33.433991+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7885,7 +7885,8 @@
       "pib:2311201",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63609",
       "pib:2311202",
-      "pib:2311218"
+      "pib:2311218",
+      "pib:2311220"
     ]
   },
   "news_queue": [
@@ -7960,6 +7961,132 @@
       "queued_at": "2026-09-17T06:46:28.482044+00:00",
       "score": 7.0,
       "why": "This is a significant semiconductor ecosystem development involving a major lithography equipment maker."
+    },
+    {
+      "headline": "Applied Materials to invest $5 billion in India",
+      "post": {
+        "created_at": "2026-09-17T06:42:02+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789627322887",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "CNBC TV18",
+        "reposts": 0,
+        "text": "Semicon major Applied Materials to invest $5 billion in India over next decade",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1h2VWIxRnlvTzVBNzZ5OWJPME9xUmtHUEdFU3B0T3RLNEJCejFfTEhHb2lzc2N3cDNWcTZCY0d2WFdpX3dSS2lyV2lzRi1Hc1dmZUdyT3JCdEdhMnk4MGFsejRDel9FRlBHRmEzMHVnNE1JVXlwWEtkZXJpVG9rSHREbGNHMXZwTVdsZkIwWGpCZ19yNlBER0Jyc1RZczN1djFRdHhRX3VrcVBoanVjOFN3V2ZNUHgyMWpYM2ExS2FNX0tD0gHKAUFVX3lxTE81LU53bzdhczEtSTdhM0lIbWxjNmkwczRBbjVWeUw3VHVCc19DeWlobDhGVVhPWjhwVFdlNncxYTFIaGNCX1E5SDhWb1E4SmYtRTZSMUVxalRqSnhHSkhQQmlfSmJZcXpZdEhCZENYeWlvcy1rM28wMnBMSGJoT0VoNXVUYVpjc2FDcnprY3NEVkl3NXBFM0FoRUJheEhmUU9jSlpsSEVod3lBNHM3SDBmcG9Val9ZT1UzSEZDVFRrX0ZhQVUyVGdtSXc?oc=5"
+      },
+      "queued_at": "2026-09-17T07:01:47.780723+00:00",
+      "score": 10.0,
+      "why": "Massive capital commitment by a major global semiconductor firm into India."
+    },
+    {
+      "headline": "TRAI July 2026 data shows India adding 6.2M connections",
+      "post": {
+        "created_at": "2026-09-17T06:38:57+00:00",
+        "handle": "News: India telecom",
+        "id": "1789627137956",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "MediaNama",
+        "reposts": 0,
+        "text": "TRAI July 2026 data: India adds 6.2 million telephone connections, MNP requests near 16 million",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KZndfekZoR2ZCRWJSZlhQYWQyWnBIdEtHems5YWY3RXJTcHJvOHZoaUkzbFRTZXNVV2tyak9xelQyclpNazRPcERGY3k1VlRKQnh5TUpPVVlkX0lxZmQyZTZYaUwtbnJWanFkbFZ4Nzduc1lxY1JwZWJFbHRIRWM?oc=5"
+      },
+      "queued_at": "2026-09-17T07:01:47.780723+00:00",
+      "score": 8.0,
+      "why": "Official telecom subscriber and MNP numbers from TRAI are core beat data."
+    },
+    {
+      "headline": "PM Modi says Indian chips will go global as production starts",
+      "post": {
+        "created_at": "2026-09-17T06:47:42+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789627662975",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "India\u2019s chips will go global, PM Modi says as CDIL, Suchi Semicon begin production",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSTlYSC1ZU3loNEpZX2JodW5EdmF6ekpwM0drQUp6cmhwZ2kwLTJTdUl4QXJlTUpjM04yZlphRVh2cVJWOXpibGVrQmFlWno0TF83Qi1BclRBY0h0bGRQYjd0RVdFQkJtekRSVUpic1M4TklKRVRKa2F1ajg2T0pWSzhOYmxubXdQeGcxTk9IeExHUW5YcTE1WlJycXFwQTVob2F3eUZpX3ZTdWFzX0hLRmxnLVlKNnVNRDROa0d0MEc3SEJUaFFyUGhPSTI0Z2QyZDFj0gHYAUFVX3lxTE9WczN2MlFzTXVLSld1c3Ftc0ktZGliWXR1NnRRX3NITnZURm9jVXVZMlZuTzNFZXd3WTlBemtGdVB2amUtdzRVQ2RkTzVGVV9IdlJ2X1JXdG1tNVg3TTI3M1lBVG1lQjJpWGtHcEVHc3NJZzBJbkpYRkZXRlk0MFNxZkRtd0Q4cm5IanIxcFJaU1lQSi1CVGgxUUxNOEpac3VLWmVlNk9ncHBYQWE4el8tdENVRnNpalhYSU1fQlRhY3FMMGxLWmJzWGRuWFIyNkg4bGUzVW5hTA?oc=5"
+      },
+      "queued_at": "2026-09-17T07:01:47.780723+00:00",
+      "score": 8.0,
+      "why": "Major milestone with CDIL and Suchi Semicon starting commercial production."
+    },
+    {
+      "headline": "TCS launches custom chip design for auto and semiconductor",
+      "post": {
+        "created_at": "2026-09-17T06:50:19+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1789627819724",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Rediff MoneyWiz",
+        "reposts": 0,
+        "text": "TCS Launches Custom Chip Design for Auto & Semiconductor",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVzdyZWNlSUJnY0JuSnBSZTdKQkE3c1VrejI0ZVdlM0ZQZTZMdEIya214b2hDQ3FxbEdFdHV1Y3UwVG9SaWIzeUwxdXI5WXJKQ0ZVUDRxYWRGVEpBc3pIZzhJUjYyVTZHRzcyR0YtUVlxOWpDNXQ5TzZPMzZ3empfdU5ONmZnZjctc1c1NVVhRWVyVlhkSDljemRWazVyUGJKa1FlaXBzT3RRUdIBrwFBVV95cUxNTTgtT0huTHVJckJESXB4VkZaXzBEMHpCWnRxQTZ4cEF3cUNaSjVwMFZ0QmZzTEMwV2xnSDktNU9HZmRDZXNMUEJFanFjeklTanZvSEtMeHBFWE56RVBHTTQ4aTZuWlRNMnN3RWdTRS1QbEc5X29xWXpFd3JvdUR1UVpwUXB0SWU1ZlZsOG1xN2Z2UnZKSS13R2VGbE92RmJlQzhyRGNRTFI0dTBaUVZz?oc=5"
+      },
+      "queued_at": "2026-09-17T07:01:47.780723+00:00",
+      "score": 8.0,
+      "why": "Major strategic product and service launch by India's largest IT services firm into chip design."
+    },
+    {
+      "headline": "Government questions Rahul Gandhi over UPI criticism",
+      "post": {
+        "created_at": "2026-09-17T06:39:18+00:00",
+        "handle": "News: India fintech",
+        "id": "1789627158136",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Deccan Herald",
+        "reposts": 0,
+        "text": "Government questions Rahul Gandhi's criticism of UPI charges, says Congress MPs in panel gave nod",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1Y2Z0E5MGl0VFFlYUYzZHJEZUlQb1V5Vkc5RWpfODJ3YW43YTRhYkZnZ3JveGMzd29XZFVIRVJlZkVyZmJETXFrdl81SXcxTFRRU1pxM1ZiNGpmX0VZSF9TRkJiSHJ3ckNEdEtCSkFfWmZFNTBJQ2xhVVV4d2VKd2VuTXQ2TWZvQVVOLWg2TVBNTEdMNEViVTNxWGVWYVpiSi1lckREOENvTmhCWkpkaktjNDNTM3FkQjJFLXlPV2JsekpXbFYtOTFjZVhHTlBQNWhiRQ?oc=5"
+      },
+      "queued_at": "2026-09-17T07:01:47.780723+00:00",
+      "score": 7.0,
+      "why": "Direct political statement on the ongoing UPI charges controversy involving major parties."
+    },
+    {
+      "headline": "Micron to scale up India assembly next year",
+      "post": {
+        "created_at": "2026-09-17T06:46:45+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789627605975",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "Micron to scale up semiconductor assembly, testing in India next year",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbFQ0VEZ0R0l2UF9iNWo3TlhLd2dIME9MQXVYMmNkRjEtclZPaFlXU3ZSQWp3RWNkdE5GekxnS0F3WE5ESzV2aFVyZmt5Ykc1Ykk4VzM2YnQ0LVE0TGg4ZWhlX3JmbnNZS184Tl9zSUZ5c0QzaXJIdGJaY3A0RkNTdmlwZEhBV2FwZnBHN0lBRVRyU2s5QlY5OFVQTUdpMTNYTm1RX2Q4WlQ5RnZzVjlVS3VlTTMyYzI5dkVNTVNGYWo4aUgzSmFCSV9pZ2lyTkYzV1HSAdcBQVVfeXFMTlVhODk4QmE2OG1maU03TTJWZldmZ3BYSEVpY1FIWktmS1FBdDBHcm1UUVJ6dndyaXVhZm9UcThsZ0M4U2dSMVZvNnZKdG1xSEFoYWUteEFNLW9OZ2FTOC0xT09tWENQWVcxclNGNWRUaGRkeklNekxhWkcxWmhudlFfMk9HUzM0dVozRDhPQnVIUldmZklGZzg5bnR5aDEtcGlWUHFadFBNX2tzT1BxUVdKUWlDNFMxQ2lCeUpVQ3RnXzU2cXFOdVNDLXBXTGNaMURyTldFSkU?oc=5"
+      },
+      "queued_at": "2026-09-17T07:01:47.780723+00:00",
+      "score": 7.0,
+      "why": "Concrete operational expansion update from a major semiconductor player in India."
+    },
+    {
+      "headline": "Vaishnaw speaks on semiconductor manufacturing at SEMICON India 2026",
+      "post": {
+        "created_at": "2026-09-17T06:46:46+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789627606719",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BusinessLine",
+        "reposts": 0,
+        "text": "SEMICON India 2026: India\u2019s semiconductor manufacturing journey a measured, calibrated programme: Vaishnaw",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZU5RcHhxRGZtbHVqX0M1R1hQejdoSDU5ZjNtMFUxTTJnMlc3dWVnVm9XdnFVbVNFY0RsaXVDTGpBZm5Jdy01cmpnWmJSaFZhcng4ekhndFpBWU44djVENDEzRFE5cFVKZDZibWVFVTliTWZjdHdZdU5QOWkxZEpHOTcwMEREcnFTa19JS2JVSXkyN1RrM1Jfdmh5QWZZV2V5Y25NckRHV0ZhZm1WR2VIelp5akppS2I3NV9wcUg5clRISENjS0tLMUVFQld6QzhOYjRLQ3NfVVd5NndvR2lvNW8xbDFrNnZkNk8xT1FlZjhlT1ZUZEgw0gH-AUFVX3lxTE02TTItRjAwSHp5U2FqQ0huYU8xSzIyNC1jUmFhWkEybDVBNmllc05LMy1QNHAzcm9MVDVwYWpScXNjZ2hXZEFYa3VhYlpwVklVeFUxTl8yM1A1VU5PRFdzbjJYVGl0VDFzbkp4MG4zdFZUY29sZ21lMi1pZlRtM3JoZEhPOHBidnBjWndmNjR0dGRYSTQ0ODZqanRuaG5SbGF1Vl9NUmtBemRveXZidHRBcUQ5TmY2RlNoMG5iOFNIQTRhU1BwSXBJaDdPdjlrc2NUVENYUEpOVXdaMV81TmQ5VHQyR0lXdngzZnhraTBxUmRXVk1wMEUyeFRqQXJB?oc=5"
+      },
+      "queued_at": "2026-09-17T07:01:47.780723+00:00",
+      "score": 7.0,
+      "why": "Ministerial statements on semiconductor strategy at a major domestic industry event."
     }
   ],
   "seen": {
@@ -7984,7 +8111,7 @@
     "bse mobikwik": 1789550591602,
     "bse mphasis": 1789565700668,
     "bse nazara": 1789580637112,
-    "bse niit": 1788974173082,
+    "bse niit": 1789647465408,
     "bse niit learning systems": 1789067950464,
     "bse nykaa": 1789155118992,
     "bse ola electric": 1789430149909,
@@ -8001,24 +8128,24 @@
     "bse vodafone idea": 1789581151844,
     "bse wipro": 1788971859134,
     "bse zaggle": 1788981416807,
-    "google": 1789574400929,
+    "google": 1789628400789,
     "lenovo": 1789563644712,
     "meta": 1789574419436,
     "microsoft": 1789585198114,
-    "news: big tech platforms": 1789626734892,
+    "news: big tech platforms": 1789627558250,
     "news: consumer internet india": 1789625073375,
-    "news: global ai": 1789626988628,
+    "news: global ai": 1789628040414,
     "news: global chips": 1789624685592,
-    "news: global it services": 1789626804532,
+    "news: global it services": 1789627480301,
     "news: india ai deeptech": 1789622434813,
     "news: india edtech gaming": 1789601295544,
-    "news: india fintech": 1789626386860,
-    "news: india semiconductors": 1789627140202,
+    "news: india fintech": 1789628242156,
+    "news: india semiconductors": 1789628344861,
     "news: india tech policy": 1789625907673,
-    "news: india telecom": 1789625844135,
-    "news: indian it majors": 1789627168025,
+    "news: india telecom": 1789627137956,
+    "news: indian it majors": 1789627819724,
     "news: indian it midcaps": 1789622280972,
-    "news: pib releases": 1789617224517,
+    "news: pib releases": 1789627620675,
     "news: tech leaders": 1789627282800,
     "nvidia": 1789570848396,
     "openai": 1789578000307,
