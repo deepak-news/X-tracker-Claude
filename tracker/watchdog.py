@@ -67,7 +67,7 @@ def _email(gap) -> None:
     hours = "an unknown time" if gap is None else (
         f"{gap / 60:.1f} hours" if gap >= 90 else f"{gap:.0f} minutes")
     email_out.send(
-        "News tracker: the 15-minute timer has stopped",
+        "Tracker: the 15-minute timer has stopped",
         f"""<div style="max-width:600px;margin:0 auto;padding:24px;
              font:400 15px/1.6 -apple-system,Segoe UI,sans-serif;color:#222;">
           <p><strong>The timer that starts your tracker every 15 minutes has not
@@ -88,6 +88,8 @@ def _email(gap) -> None:
           <p style="color:#888;font-size:13px;">You will be reminded every six hours
           until the timer is running again.</p>
         </div>""",
+        recipient_env=email_out.ADMIN_ENV,
+        sender_name=email_out.mail_name("maintenance"),
     )
 
 

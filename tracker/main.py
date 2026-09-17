@@ -151,7 +151,7 @@ def send_digest(state: dict, dry_run: bool, label: str = "") -> bool:
     if dry_run:
         print(f"(dry run) the hourly digest would go now: {subject}")
         return False
-    email_out.send(subject, body)
+    email_out.send(subject, body, sender_name=email_out.mail_name("tech_desk"))
     print(f"Emailed the hourly digest: {subject}")
     judge.remember_alerted(state, unique + [(p, 0, p.text[:110], "") for p in raw])
     state["news_queue"] = []
@@ -182,6 +182,10 @@ def hourly_digest(state: dict, dry_run: bool) -> None:
         return
     if state.get("news_queue"):
         label = now.strftime("%-I %p")
+        if not dry_run and email_out.pressure() != "normal":
+            # Left unsent and the slot left open: it goes once there is room.
+            print(f"  email budget is {email_out.pressure()}: the {label} digest waits")
+            return
         try:
             send_digest(state, dry_run, label)
         except Exception as exc:  # noqa: BLE001
@@ -212,6 +216,8 @@ def report_breakage(state: dict, reason: str) -> None:
                   <p style="color:#888;font-size:13px;">You won't be emailed about
                   this again until it recovers and breaks a second time.</p>
                 </div>""",
+                recipient_env=email_out.ADMIN_ENV,
+                sender_name=email_out.mail_name("maintenance"),
             )
         except Exception as exc:  # noqa: BLE001
             print(f"  ! could not send the breakage email either: {exc}")
@@ -332,13 +338,21 @@ async def run(dry_run: bool) -> int:
         newsworthy = [r for r in newsworthy if not _is_news(r[0])]
         unscreened = [p for p in unscreened if not _is_news(p)]
 
+    # Close to Gmail's daily limit, only MAJOR stories go out.
+    if (newsworthy or unscreened) and not dry_run and email_out.pressure() == "tight":
+        before = len(newsworthy) + len(unscreened)
+        newsworthy = [r for r in newsworthy if r[1] >= 9]
+        unscreened = []
+        print(f"  email budget is tight: sending only MAJOR stories, "
+              f"{before - len(newsworthy)} lesser one(s) left out")
+
     if newsworthy or unscreened:
         subject, body = email_out.build_digest(newsworthy, unscreened)
         if dry_run:
             print(f"\n(dry run) would have emailed: {subject}")
         else:
             try:
-                email_out.send(subject, body)
+                email_out.send(subject, body, sender_name=email_out.mail_name("tech_desk"))
             except Exception as exc:  # noqa: BLE001
                 report_breakage(state, f"Sending the alert email failed: {exc}")
                 if hourly:
@@ -389,7 +403,7 @@ def main() -> int:
 
     if args.test_email:
         email_out.send(
-            "X Tracker test email",
+            f"{email_out.mail_name('tech_desk')}: test email",
             """<div style="max-width:600px;margin:0 auto;padding:24px;
                  font:400 15px/1.6 -apple-system,Segoe UI,sans-serif;">
               <p>If you are reading this, email is working correctly.</p>

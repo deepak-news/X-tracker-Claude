@@ -42,7 +42,6 @@ WATCHLIST = ROOT / "watchlist.yml"
 STATE = ROOT / "state.json"
 
 RECIPIENT_ENV = "SOCIAL_MAIL_TO"
-SENDER_NAME = "National Desk"
 
 # Identifiers remembered. About 250 official items a day pass through here,
 # so this is roughly a fortnight -- longer than anything stays on the pages
@@ -512,7 +511,7 @@ def build_email(rows: list) -> tuple:
 
     body = f"""<div style="max-width:640px;margin:0 auto;padding:24px 20px;background:#fff;">
       <div style="font:600 11px/1 {font};letter-spacing:.12em;color:#6b7280;
-                  text-transform:uppercase;margin-bottom:16px;">National desk</div>
+                  text-transform:uppercase;margin-bottom:16px;">{html.escape(email_out.mail_name("national_desk"))}</div>
       {''.join(cards)}
       <div style="color:#9ca3af;font:400 12px/1.5 {font};margin-top:20px;
                   border-top:1px solid #e5e7eb;padding-top:12px;">
@@ -632,6 +631,12 @@ def run(dry_run: bool) -> int:
         print(f"  [{mark}] {value:.0f}/10 {_badge(post)[1]} {_issuer(post)[:30]}: "
               f"{headline or _original(post)[:80]}")
 
+    if picks and not dry_run and email_out.pressure(RECIPIENT_ENV) == "tight":
+        major = [r for r in picks if r[1] >= 9]
+        print(f"  email budget is tight: sending only MAJOR items, "
+              f"{len(picks) - len(major)} lesser one(s) left out")
+        picks = major
+
     if picks:
         subject, body = build_email(picks)
         if dry_run:
@@ -639,7 +644,7 @@ def run(dry_run: bool) -> int:
         else:
             try:
                 email_out.send(subject, body, recipient_env=RECIPIENT_ENV,
-                               sender_name=SENDER_NAME)
+                               sender_name=email_out.mail_name("national_desk"))
                 print(f"\nEmailed: {subject}")
                 judge.remember_alerted(memory, picks)
             except Exception as exc:                              # noqa: BLE001
@@ -678,7 +683,7 @@ def test_email() -> int:
                   url="https://www.pib.gov.in/", created_at=dt.datetime.now(UTC).isoformat())
     subject, body = build_email([(post, 8, "Test: the national desk can send email",
                                   "If this arrived, the settings for this prong are correct.")])
-    email_out.send(subject, body, recipient_env=RECIPIENT_ENV, sender_name=SENDER_NAME)
+    email_out.send(subject, body, recipient_env=RECIPIENT_ENV, sender_name=email_out.mail_name("national_desk"))
     print("Sent. Check the inbox of every address on the list.")
     return 0
 

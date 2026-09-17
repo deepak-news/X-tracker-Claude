@@ -143,7 +143,23 @@ def _load(path: str) -> dict:
         return {}
 
 
+def merge_mail_log(ours: dict, theirs: dict) -> dict:
+    """Every email either run sent, counted once; the later warning time."""
+    sent, keys = [], set()
+    for entry in (theirs.get("sent") or []) + (ours.get("sent") or []):
+        key = (entry.get("at"), entry.get("list"), entry.get("n"))
+        if key not in keys:
+            keys.add(key)
+            sent.append(entry)
+    return {"sent": sorted(sent, key=lambda e: e.get("at", 0)),
+            "warned": max(ours.get("warned", 0), theirs.get("warned", 0))}
+
+
 if __name__ == "__main__":
-    ours, theirs = _load(sys.argv[1]), _load(sys.argv[2])
-    json.dump(merge(ours, theirs), sys.stdout, indent=2, sort_keys=True)
+    if sys.argv[1] == "--mail-log":
+        merged = merge_mail_log(_load(sys.argv[2]), _load(sys.argv[3]))
+        json.dump(merged, sys.stdout, indent=1, sort_keys=True)
+    else:
+        ours, theirs = _load(sys.argv[1]), _load(sys.argv[2])
+        json.dump(merge(ours, theirs), sys.stdout, indent=2, sort_keys=True)
     print()

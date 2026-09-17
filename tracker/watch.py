@@ -114,6 +114,7 @@ class Item:
     detail: str = ""
     url: str = ""
     lines: list = field(default_factory=list)   # for page changes
+    mail_to: str = "WATCH_MAIL_TO"              # which recipient list it goes to
 
 
 def _verify(url: str) -> bool:
@@ -247,8 +248,14 @@ def _gazette_pdf(gazette_id: str) -> str:
     return f"https://egazette.gov.in/WriteReadData/{year}/{number}.pdf"
 
 
-def _egazette(entry: dict, scanned: set) -> list:
-    """Extraordinary gazettes, filtered to one ministry.
+# The gazette site is slow, and several watches can want the same list --
+# Home Affairs for one person, five ministries for another. The list is read
+# once per run and each watch filters that one copy.
+_GAZETTE_LISTS: dict = {}
+
+
+def _gazette_listing(category: int, scanned: set, max_pages: int = 5) -> list:
+    """Every extraordinary gazette on the recent-uploads list, as dicts.
 
     Two awkward things about this site. RecentUploads.aspx refuses to open on
     its own -- it hands out a session in the URL path and bounces anything
@@ -259,23 +266,22 @@ def _egazette(entry: dict, scanned: set) -> list:
 
     Pages are walked newest-first and the walk stops at the first page where
     every gazette has been looked at before -- which is why the record of
-    what has been looked at covers all ministries, not just the one being
+    what has been looked at covers all ministries, not just the ones being
     watched. In the steady state that stops after page one; it only goes
     deeper when the list has moved a long way since the last look.
     """
+    if category in _GAZETTE_LISTS:
+        return _GAZETTE_LISTS[category]
+
     session = requests.Session()
     session.headers.update(BROWSER)
     home = session.get("https://egazette.gov.in/", timeout=TIMEOUT, verify=False)
     home.raise_for_status()
     base = home.url.rsplit("/", 1)[0]        # carries the (S(...)) session part
-
-    category = int(entry.get("category", 6))
     url = f"{base}/RecentUploads.aspx?Category={category}"
-    wanted = _tidy(entry.get("ministry", "")).lower()
-    max_pages = int(entry.get("max_pages", 5))
 
     soup = _fetch(url, session=session, referer=home.url)
-    items, counted = [], 0
+    listing = []
     for page in range(1, max_pages + 1):
         table = _table_with(soup, "ministry", "gazette id")
         if table is None:
@@ -284,7 +290,6 @@ def _egazette(entry: dict, scanned: set) -> list:
             break
 
         rows, col = _gazette_rows(table)
-        counted += len(rows)
         anything_new = False
         for cells in rows:
             gazette_id = _tidy(col(cells, "gazette id"))
@@ -293,32 +298,64 @@ def _egazette(entry: dict, scanned: set) -> list:
             if gazette_id not in scanned:
                 anything_new = True
                 scanned.add(gazette_id)
-            if wanted and wanted not in col(cells, "ministry / organization").lower():
-                continue
-            parts = (col(cells, "department"), col(cells, "office"))
-            if not wanted:
-                # Reading every ministry, so say whose gazette this is.
-                parts = (col(cells, "ministry / organization"),) + parts
-            where = " / ".join(x for x in parts if x and x.lower() != "not applicable")
-            items.append(Item(
-                key=f"gazette:{gazette_id}",
-                source=entry["name"],
-                title=_tidy(col(cells, "subject")) or gazette_id,
-                detail=_tidy(" | ".join(x for x in (
-                    where,
-                    col(cells, "part & section"),
-                    f"issued {col(cells, 'issue date')}, "
-                    f"published {col(cells, 'publish date')}",
-                    gazette_id,
-                ) if x)),
-                url=_gazette_pdf(gazette_id),
-            ))
+            listing.append({
+                "id": gazette_id,
+                "ministry": _tidy(col(cells, "ministry / organization")),
+                "department": col(cells, "department"),
+                "office": col(cells, "office"),
+                "subject": _tidy(col(cells, "subject")),
+                "part": col(cells, "part & section"),
+                "issued": col(cells, "issue date"),
+                "published": col(cells, "publish date"),
+            })
 
         if not anything_new or page == max_pages:
             break
         soup = _next_page(session, url, soup, "gvGazetteList", page + 1)
 
-    print(f"    ({counted} gazettes read across all ministries, {len(scanned)} known)")
+    print(f"    ({len(listing)} gazettes read across all ministries, {len(scanned)} known)")
+    _GAZETTE_LISTS[category] = listing
+    return listing
+
+
+def _egazette(entry: dict, scanned: set) -> list:
+    """Extraordinary gazettes from the ministries this watch cares about.
+
+    "ministry" names one, "ministries" a list; neither means all of them.
+    Matching is on part of the name as the gazette prints it, with spacing
+    tidied -- the site writes "Ministry of Law  and Justice" with two spaces.
+    """
+    wanted = entry.get("ministries") or ([entry["ministry"]] if entry.get("ministry") else [])
+    wanted = [_tidy(name).lower() for name in wanted if _tidy(name)]
+    recipient = entry.get("mail_to") or RECIPIENT_ENV
+
+    items = []
+    for row in _gazette_listing(int(entry.get("category", 6)), scanned,
+                                int(entry.get("max_pages", 5))):
+        ministry = row["ministry"].lower()
+        if wanted and not any(name in ministry for name in wanted):
+            continue
+        parts = (row["department"], row["office"])
+        if len(wanted) != 1:
+            # Several ministries in one email, so say whose gazette this is.
+            parts = (row["ministry"],) + parts
+        where = " / ".join(x for x in parts if x and x.lower() != "not applicable")
+        items.append(Item(
+            # The original watch keeps its original keys, so nothing it has
+            # already sent comes back. Any other recipient's copy of the same
+            # gazette is remembered separately -- both people get it.
+            key=f"gazette:{row['id']}" + ("" if recipient == RECIPIENT_ENV else f"|{recipient}"),
+            source=entry["name"],
+            title=row["subject"] or row["id"],
+            detail=_tidy(" | ".join(x for x in (
+                where,
+                row["part"],
+                f"issued {row['issued']}, published {row['published']}",
+                row["id"],
+            ) if x)),
+            url=_gazette_pdf(row["id"]),
+            mail_to=recipient,
+        ))
     return items
 
 
@@ -396,7 +433,7 @@ BADGE = {"dopt": ("#1d4ed8", "DoPT ORDER"),
          "page": ("#166534", "PAGE CHANGED")}
 
 
-def build_email(items: list, gap_note: str = "") -> tuple:
+def build_email(items: list, gap_note: str = "", name: str = "") -> tuple:
     kinds = {item.key.split(":", 1)[0] for item in items}
     if len(items) == 1:
         subject = f"{items[0].source}: {items[0].title}"[:120]
@@ -438,7 +475,7 @@ def build_email(items: list, gap_note: str = "") -> tuple:
 
     body = f"""<div style="max-width:640px;margin:0 auto;padding:24px 20px;background:#fff;">
       <div style="font:600 11px/1 -apple-system,Segoe UI,sans-serif;letter-spacing:.12em;
-                  color:#6b7280;text-transform:uppercase;margin-bottom:16px;">Government watch</div>
+                  color:#6b7280;text-transform:uppercase;margin-bottom:16px;">{html.escape(name or email_out.mail_name("government_watch"))}</div>
       {''.join(blocks)}
       <div style="color:#9ca3af;font:400 12px/1.5 -apple-system,Segoe UI,sans-serif;
                   margin-top:20px;border-top:1px solid #e5e7eb;padding-top:12px;">
@@ -515,12 +552,29 @@ def run(dry_run: bool) -> int:
 
     found, failed = [], []
 
+    # Watches that have run before. One added later is introduced quietly:
+    # its first run notes what is already listed rather than emailing a new
+    # recipient the whole backlog. A memory from before this list existed
+    # already covers every watch that sends to the original recipient.
+    uploads = cfg.get("uploads") or []
+    if "introduced" not in memory:
+        memory["introduced"] = [e["name"] for e in uploads
+                                if (e.get("mail_to") or RECIPIENT_ENV) == RECIPIENT_ENV]
+    introduced = set(memory["introduced"])
+    quiet = set()
+
     already = set(seen)
-    for entry in cfg.get("uploads") or []:
+    for entry in uploads:
         if bool(entry.get("home_only")) and not direct:
             continue
         if not entry.get("home_only") and at_home:
             continue
+        recipient = entry.get("mail_to") or RECIPIENT_ENV
+        if recipient != RECIPIENT_ENV and not os.environ.get(recipient, "").strip():
+            print(f"  {entry['name']}: no {recipient} secret set yet, skipping")
+            continue
+        if entry["name"] not in introduced and not first_ever:
+            quiet.add(entry["name"])
         try:
             items = _try(entry["name"],
                          lambda: _egazette(entry, scanned) if entry.get("category")
@@ -570,27 +624,48 @@ def run(dry_run: bool) -> int:
         # does, so the first run cannot arrive as one unreadable email.
         print(f"First run: noting {len(fresh)} existing item(s), sending nothing.")
         fresh = []
+    elif quiet:
+        noted = [item for item in fresh if item.source in quiet]
+        print(f"New watch(es) {', '.join(sorted(quiet))}: noting {len(noted)} "
+              f"item(s) already listed, sending nothing.")
+        fresh = [item for item in fresh if item.source not in quiet]
 
-    if fresh:
-        subject, body = build_email(fresh, gap_note)
+    # One email per recipient list, each under its own name: a watch can set
+    # "mail_name"; otherwise the government watch's name from mail_names.
+    names = {(e.get("mail_to") or RECIPIENT_ENV): e["mail_name"]
+             for e in uploads if e.get("mail_name")}
+    by_recipient: dict = {}
+    for item in fresh:
+        by_recipient.setdefault(item.mail_to, []).append(item)
+    unsent = set()
+    for recipient, items in by_recipient.items():
+        name = names.get(recipient) or email_out.mail_name("government_watch")
+        # The DoPT gap note means nothing to someone who only gets gazettes.
+        note = gap_note if any(i.key.startswith("dopt:") for i in items) else ""
+        subject, body = build_email(items, note, name)
         if dry_run:
-            print(f"\n(dry run) would have emailed: {subject}")
-            for item in fresh:
+            print(f"\n(dry run) would have emailed {recipient}: {subject}")
+            for item in items:
                 print(f"    - [{item.source}] {item.title}")
-        else:
-            email_out.send(subject, body, recipient_env=RECIPIENT_ENV,
-                           sender_name="Government Watch")
-            print(f"\nEmailed: {subject}")
-    else:
+            continue
+        try:
+            email_out.send(subject, body, recipient_env=recipient, sender_name=name)
+            print(f"\nEmailed {recipient}: {subject}")
+        except Exception as exc:                                  # noqa: BLE001
+            # Not remembered, so it goes out on the next run instead.
+            print(f"\n! could not email {recipient} ({exc}); trying again next run")
+            unsent |= {item.key for item in items}
+    if not fresh:
         print("\nNothing new on the watched pages.")
 
     if not dry_run:
         # Remember every identifier seen this run, not just the new ones, so
         # a row that scrolls off a page and comes back is not re-reported.
         for item in found:
-            if item.key not in already:
+            if item.key not in already and item.key not in unsent:
                 already.add(item.key)
                 seen.append(item.key)
+        memory["introduced"] = sorted(introduced | quiet)
         memory["seen"] = seen[-MEMORY:]
         memory["pages"] = pages
         memory["scanned"] = sorted(scanned)[-MEMORY:]
@@ -624,7 +699,7 @@ def test_email() -> int:
     )
     subject, body = build_email([item])
     email_out.send(subject, body, recipient_env=RECIPIENT_ENV,
-                   sender_name="Government Watch")
+                   sender_name=email_out.mail_name("government_watch"))
     print("Sent. Check the inbox -- every address on the list should have it.")
     return 0
 
