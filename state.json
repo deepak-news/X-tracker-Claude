@@ -7315,7 +7315,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T15",
-  "last_success": "2026-09-17T09:32:13.821659+00:00",
+  "last_success": "2026-09-17T09:47:07.991402+00:00",
   "national": {
     "alerted": [
       {
@@ -7798,7 +7798,7 @@
       "CG-DL-E-17092026-276284",
       "CG-DL-E-17092026-276281"
     ],
-    "last_run": "2026-09-17T09:33:23.153827+00:00",
+    "last_run": "2026-09-17T09:49:00.701060+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8387,7 +8387,11 @@
       "pib:2311309",
       "pib:2311313",
       "pib:2311314",
-      "pib:2311315"
+      "pib:2311315",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-semicon-india-2026",
+      "pib:2311316",
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-remarks-during-the-release-of-instalment-under-the-annapurna-yojana-in-west-bengal-via-vc",
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-the-inauguration-of-semicon-india-2026"
     ],
     "source_failures": {
       "CBI": {
@@ -8420,7 +8424,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "OpenAI discloses six new incidents of concerning AI behavior",
+      "post": {
+        "created_at": "2026-09-17T09:16:46+00:00",
+        "handle": "News: Global AI",
+        "id": "1789636606215",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Seeking Alpha",
+        "reposts": 0,
+        "text": "OpenAI discloses six new incidents of 'concerning' AI behavior (OPENAI:Private)",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGJ5REJqQWtzNF9zTVU3b0FOUzRFQzZMODk0MFFsTnF3Y190TmxwaDROYVZsTk9fa0pyWUZELWdpR1ZrVXZ6dEhXWGRpMXNJdVJDWkZqVUJIOWw3S1pnV1d4WFNOaEVJVEtoMnM3VVJzT2tzRU1MWndGUU9JY0VBajVaYk5ZaVhWUDFBNjRraGFCSDJBdF9uak5MQVFvb28?oc=5"
+      },
+      "queued_at": "2026-09-17T09:47:07.991054+00:00",
+      "score": 8.0,
+      "why": "Direct major AI safety disclosure from OpenAI, warranting a wire alert."
+    },
+    {
+      "headline": "N Chandrasekaran reappointed as chairman across multiple Tata companies",
+      "post": {
+        "created_at": "2026-09-17T09:29:29+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1789637369434",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Today",
+        "reposts": 0,
+        "text": "N Chandrasekaran reappointed as chairman: Tata Chemicals, Tata Investment, TCS, Tata Tech shares rise up to 13%",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZmYzM3JSUFp3Nlp2WnBac2FEZkE2VGVyVkxqOTVsR181dVVMUW9rRUU5bkcweXBZU1FMenRPbXpVWnRjNnNjNWE1YUhLaVBpUGpKa0tmaFFtWEEyY1RuRnRfR0ZKQ3hMcEFhMUhDWmN6OXgzLUtpRE9HZmlpcUZjaTd2QTlPYkNkUk84cFJLYVhibnk0SEJ5MXJhdm0wazdFTlpqREtydWZWcjBYQjkwRklwTWpLR1VtNlBZZHJXYXZ5R1JOc29pQ1AtZEhaXzhTOHRZdnpyblI1XzNGczgyUVBqUzlJdW9BY2JxTUE5NkFKWGZyYXpZc2VrWldOZjI2WmRsX9IBigJBVV95cUxOMXFEWW5WQTduT19fM3BsaXpPdXc0Z21JcUZFN2ZfeTR4X0JlcWM2aEE4WnhLWUJrWDBNSW1tZWdHRlF6bWIzVXFlOEF1R2F3LVJlSzR3WWtUSHJ1dndLb29GSlN3ZVdIb0JyeXFzQktJMkY3QzI4NnpzY2Z6ck02Sm9TRUdwczk5bEl3bEJwWWwzUGFzZUszMzhJd1NuOVBHVFBDWXhWQXZPelU4c2M0Um9BUENONlFvdDRhVEpQSDZ3ZnROc2lTTjdDX0ZMUWUzbXkwNm5QYWNYU1lPMzZ1bXFVT2wxZXBXaEFPck92dlVkN1RCTzhpdlVFU2J6Z01kcXg0UlcxU2hvdw?oc=5"
+      },
+      "queued_at": "2026-09-17T09:47:07.991054+00:00",
+      "score": 8.0,
+      "why": "Significant leadership continuity update involving major Indian tech and industrial groups."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9217,6 +9258,7 @@
     "Zinnov": {
       "https://zinnov.com/centers-of-excellence/5-shifts-defining-indias-global-capability-centers-gccs-story-in-2025-blog": "2026-09-17T07:46:58.935689+00:00",
       "https://zinnov.com/centers-of-excellence/7-roles-every-gcc-ai-team-needs-blog": "2026-09-17T07:46:58.935689+00:00",
+      "https://zinnov.com/centers-of-excellence/ai-gcc-business-case-double-counting-blog": "2026-09-17T09:46:48.989018+00:00",
       "https://zinnov.com/centers-of-excellence/germanys-india-advantage-leveraging-india-hubs-for-innovation-and-growth-report": "2026-09-17T07:46:58.935689+00:00",
       "https://zinnov.com/centers-of-excellence/global-capability-center-setup-insights-on-talent-and-location-video": "2026-09-17T07:46:58.935689+00:00",
       "https://zinnov.com/centers-of-excellence/global-capability-centers-101-all-you-need-to-know-about-gccs-blog": "2026-09-17T07:46:58.935689+00:00",
@@ -9376,19 +9418,19 @@
     "microsoft india": 1789552630084,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789631901955,
-    "news: consumer internet india": 1789635942986,
-    "news: global ai": 1789629591617,
-    "news: global chips": 1789636229146,
+    "news: big tech platforms": 1789637280180,
+    "news: consumer internet india": 1789638120249,
+    "news: global ai": 1789636606215,
+    "news: global chips": 1789638094270,
     "news: global it services": 1789636661902,
     "news: india ai deeptech": 1789635600406,
     "news: india edtech gaming": 1789628768025,
-    "news: india fintech": 1789636584526,
-    "news: india semiconductors": 1789637045919,
-    "news: india tech policy": 1789636197563,
+    "news: india fintech": 1789638256683,
+    "news: india semiconductors": 1789638384529,
+    "news: india tech policy": 1789638094270,
     "news: india telecom": 1789636233002,
-    "news: indian it majors": 1789636460094,
-    "news: indian it midcaps": 1789628324521,
+    "news: indian it majors": 1789637369434,
+    "news: indian it midcaps": 1789628580840,
     "news: pib releases": 1789634040020,
     "news: tech leaders": 1789629060666,
     "nvidia": 1789570848396,
@@ -9408,20 +9450,20 @@
     "tata electronics": 1789631219893,
     "trai": 1789630357166,
     "xai": 1789631206993,
-    "zinnov": 1789631218874,
+    "zinnov": 1789638408829,
     "zoho": 1789579510398
   },
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-17T07:32:40.318994+00:00",
+        "checked": "2026-09-17T09:48:00.312927+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-17T07:32:29.810188+00:00",
+        "checked": "2026-09-17T09:47:50.068247+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -9497,7 +9539,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-17T07:32:35.632304+00:00",
+        "checked": "2026-09-17T09:47:55.268215+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
