@@ -1,123 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-11T07:16:27.458711+00:00",
-      "handle": "News: India fintech",
-      "headline": "Paytm shares rise following analyst target upgrades",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVGE2WWpOSm9BUk9zTVl0dGtITlBJS3oxWU1TRHpnbDlDVG54YXY0aHk0WHNKSzlyOUYtamI4MGNIdmVIN3IzbjJGTC1Xa1ZXVFg2VS15OXFnUW1JU2pLeEJrUG5ibnhFWVBGNktMMTYxdkJKMW1SQlY5cFFuMzFLTlhCOXJoaFRINE11V1Q5Q2kzSERnTmlVb1N2bzc2eE9fWHB0OGJlVWhxOERrN3VsYlFWR3lxeHlTd0VEMVZMSy1JNElLbTc0dFFteHNrRWpiQXRLU2g5Vk5YT1VwYzhlcTJSc0JTd9IB6wFBVV95cUxPOWwzTzdreFdzSkhOZUJITGx5QmhhUjd5S3VDd0E4VWlwRTk4ODA1QVprblRGRkJRZW82ZFZMV25GYlhMTjRNRU9QanB1aUpVTEU0czdCNGtsUG41RHdrUHg2Sk54RFpDaXprUFR5bHpzOEswVE52bHk1OFo0SDE4LXBmOTc2S3RNOUhtXzJyeW9PQUtheVROMnhZVERHWjhNcmlpQkh4OC1xck50eGMtaDdFdTYyUDk0S29aMnc0Z2VGMFdIa3NrNmgwa2JrSjZlYndfWTRrNEQySzE1N2FsQmwwNzJEckp1MFRn?oc=5",
-      "words": [
-        "bernstein",
-        "bullish",
-        "close",
-        "ipo",
-        "jefferies",
-        "paytm",
-        "price",
-        "raises",
-        "rise",
-        "target"
-      ]
-    },
-    {
-      "at": "2026-09-11T07:46:23.033217+00:00",
-      "handle": "News: India fintech",
-      "headline": "Wizz Financial brings UPI to international visitors via cross-border wallet",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdlpzWnBhSl90X1pvamJoS282VzRUTFJWWVpJMGNhVTdpZDZ2cUF6dVQ5QVRPZWU3d1VURzRLUFlQc3Mza29XSVYtYWxjNjZBd0F6djE0d2VQMTdhcGEtY3hFVFp5MDNXQWk5SThlcGN4SFlzaHFDTS03anJ6Sl9DMVZHWG1nNVpkdW16WGZZT09SeExkN3RzVW0tOWJFSGNzbkJjQzUyR1lYUS00TlRScldJZ2t0c1JYcm5zbk1naWw3bjRBZkZIQW9oVW56OFZiSE1veWxZMNIB3AFBVV95cUxOWkpiVHAweXNLT1pGNWswcVNFTWhPMk56SFNIVDVMVTc0TGJudVBnN1RsclA5OFRsZUNXc1NDXzM2cHlxSkI0S0R4MUp4Mzc1Uzl0WTQ5OEQxUmRMR1VWX1hmYzhNTkRpbWhETFhPSHdwTnNraXlhUmVkSnBxc0tvQjFKR3V0X2F1QnA3cHZQX1FfSW1XNEgzaHMxNzBrWENuZzlLTDB6NWZnTmFxZzl6SktBb0pIa2I1dVpQeUE3NmpyUGhlVk9RdzlGSUNQRVhWWW5iWkVSSEdYMXdz?oc=5",
-      "words": [
-        "border",
-        "brings",
-        "cross",
-        "financial",
-        "international",
-        "through",
-        "upi",
-        "visitors",
-        "wallet",
-        "wizz"
-      ]
-    },
-    {
-      "at": "2026-09-11T07:46:23.033217+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "General Cherry interceptor drones integrated into Pentagon counter-UAS test",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVVvMENCYVVNemJKQy0tMDZaY1VvQmxVZkpXeXRWOTFreURxdmJKQkxSVW55RW4yTm1ScUk1bEdQVDZBU3pDaktsdVg3dy0tYU81dmhoSFk4SWdfLUFCcE43X2ZxdFpvRzRZT1oxdm81NDdDa09LUkJsUlRpeUtJam1tZzU0ZURFVEZseTEwSGlLdW5Sbl91Zk1mTGZLWE9YNmZoXzh6QTBJeW05THMwNS10eWlndXl4?oc=5",
-      "words": [
-        "cherry",
-        "counter",
-        "drones",
-        "general",
-        "integrated",
-        "interceptor",
-        "into",
-        "pentagon",
-        "test",
-        "uas",
-        "yuma"
-      ]
-    },
-    {
-      "at": "2026-09-11T08:01:41.680797+00:00",
-      "handle": "News: India fintech",
-      "headline": "India pitches linking BRICS payment systems for trade",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNVk1cnVaM3BEMlVEbXJhNFctTHpVdktyM1BjdVB3QVNDWllvbEhSZEpUMlc0XzdEXzhveEE2Ni1uM2RON0hNZ1d6bF9BU0ZoNXRSTThZR1Y0TlI2bGZJXzZpanQtVzc4b0Q1a1A4RFd1ajd5cFRWV3BJaWhIRVpNZlJlZ2lSTjlTWkcxYXJ1NTBrNmJiZ3UtcGdoejhKbnZiZ1NtQWlWOGQzRm5SM1gwS3ZKcjZTajRkd3hQa2xYdlRxb1Z2dmp0SUR3Umd3N1JHS25OZTE1UTB2SE41cVV0M3E1cEM1RG5ZWU9zbm9ldXNlUzTSAYACQVVfeXFMTzg0X2dmNGtaMERsUl8tZERDQVBtVE1fSDZGaGl0OVc5U0RqYjJlM3ZDTGJfUUFvOGdKNWU5UXY4RTVYTDZWT3FSUnNXRlNkc3M1bDdSNXgycTA1M2RYbUhYSXZPeVhIaC1pbVVJd1ZYMWprQzJQdC1aRUVNOHdmeGJIMXozMC05dnlmbU9paWc3VC1nN0lpeEJkX2Q4cE9rZUJpUW1yMEQ5Vm9hQlI1ajU5VFNPNVE1dlFFTUNWd0xDaW9kNXRFYlVvNFRmTktHNWdMY2dEV3lxOTc5ZXBvQjM2ano1WnhrcmptRV8zNHprcm9mM1Y5OXBVOXltclR3eA?oc=5",
-      "words": [
-        "2026",
-        "big",
-        "bloc",
-        "brics",
-        "dollarisation",
-        "linking",
-        "move",
-        "payment",
-        "pitches",
-        "systems",
-        "towards",
-        "trade",
-        "within"
-      ]
-    },
-    {
-      "at": "2026-09-11T08:16:46.299288+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Flipkart Minutes expands operations across 150 cities",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaldINWpZYXh3aWZVS1hjNGV4Z25mdlI0bUZEWHNrbTAwejBBeG55V0NrQndGSzU3X2ozNW5qdk95X1U0R3I0V2g4dldOamQwelJxdzVlZkNqSjdyaENDOXUwUzQ2UUNEN3BEX1BQejhQaUZmV0pLTXpObm5hVDFVUmlzc1lFbjQ1YkF6THZ0Q1FuRzhDU0d5LWsySk0?oc=5",
-      "words": [
-        "150",
-        "across",
-        "cities",
-        "expands",
-        "flipkart",
-        "minutes",
-        "news",
-        "retail"
-      ]
-    },
-    {
-      "at": "2026-09-11T08:16:46.299288+00:00",
-      "handle": "News: India fintech",
-      "headline": "Mindgate and JP Morgan partner to build UPI infrastructure",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU5LR0Z3bkZMSW13TXRtV08xeklvSFFrSkhwNzAxRWVTd2Y1RUhxUHJjb0MyOENpN01wd2RjVkNWdkd0MmwzM1p3TXplY3RsbDZQanRrQXYyMVZrV2tUcnJpeUhvcmJCOHZzNjNuc2YxMUJVWUxNdm9RSVBvcUpUT3FkYU54bFJKRGZxN3ExeVVCTDhmS2xZQ1lfMUljZDdTNnB0bU9EYlhNRkM5cHJXb1JOLUxQRHRZZm1DOVJZT296RE9sbng4bENYcjNxRlNHX1RlUnlIaWRzRGhRSS1haTFLVDNKWExSNjRaQnNoYXgweE0wYnAw0gH7AUFVX3lxTFBIVXk2ODBnUE5DXzVKT3BsS1Y4T1Y2MzI1TmxUSDd4UTBtRExMX1JYalgyXzFvS3lQSFdydWZGMzRuWGFzZE9fWEhsbEllckJmWThSUUNhZy1Day1ub1ZxVE16bG81Yk9Eb0hUSVVyUVN2X09yU3pNU0JGOFR3T0lHWnNwYWFzY0RWWjVZMktLV25JU3padW0tZmg3ZUF3REdKR3JVMWVPWXdNRXI3OWwwZnhkMzFBMm5wTVAwWExCdmJWdTdVYXZJdXNyaXlpSGtPbC1pSVc3b1VEUG84QkliZ1BUTl96OGMyRGpYWk90QS1DSUVYeVlnN1ln?oc=5",
-      "words": [
-        "build",
-        "collaboration",
-        "expand",
-        "generation",
-        "infrastructure",
-        "mindgate",
-        "morgan",
-        "next",
-        "payments",
-        "solutions",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-09-11T08:16:46.299288+00:00",
       "handle": "News: India AI deeptech",
       "headline": "Sridhar Vembu urges companies to build own AI models",
@@ -7333,12 +7216,118 @@
         "without",
         "zuckerberg"
       ]
+    },
+    {
+      "at": "2026-09-17T16:33:03.193256+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "HCL-Foxconn JV India Chip targets 40% of display driver chip demand",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZlZDUkJKWmVWY3psdG5TVGM3R1JIUHhoUmJuSFctbTNJaFFPWFZGWHZyeWMyYnFlVzZ3bnN1am9UQW8wOWE0YV8xSHBFRGNLb1BQWmI2bThMM3hrQnRoWF9YVHp4OVlVTWk1bTZYSnRXNjRRallOeXktQU01RE9DbkpjQjBqNWJEbk1wakh3ZmNHY1dsYmhqWHJVQVVnQWlmOEJ5eWhXR1dnWWRPMUJtV2c3R2drRkpwNFJqWE12UWpVRHQxQnNwLU1maWpYSmdMMUIzSTA1UdIB3gFBVV95cUxQVldvZVpPZnlQOTB6cHlXRzd5TzNZajNfZlYxUGRXbVFmaWZZZEI0T04tXzdzTzVCeWJLWmZoVGZyWHpmNy1XZl9oOERKNHFseVpVY1p2Z0JRVVNYYkgxQlR2bThNQnlja1VNVUI1a0phQjJSdkZScDE1alJPT1NqMDZHQ01SSmZ2cmdkN1lGTjJieEhGQTJIc3FMU0V5NG96ZHhBVzZ6QkVGaERzX1RiTXBzOGtCVk5WTHRmM0VzdkhxMWhTcTE3TWY0djluR0JRSjJkVk9ybTlBSjlUUnc?oc=5",
+      "words": [
+        "chip",
+        "demand",
+        "display",
+        "driver",
+        "foxconn",
+        "hcl",
+        "targets"
+      ]
+    },
+    {
+      "at": "2026-09-17T16:33:03.193256+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "KAS Technologies seeks R&D incentives for domestic chip ecosystem",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQlIwQzQ3dXZSSlBLVHJHVkxMZEx1aXQ1dmE4SVNiQVFMTHc1SHhvemJ1RFgxZ3VwRlVPYzZIS0lDdzRYODBqMzNpWXBkci1DX0NhOElxQW5rTUluOGdrU3JKU3czTGduUk5wdGhsWXRHLXhSVmlSNHk2UTRSUzFBYU1TdUNUaFkxNGs5c1BxRk9rN3UtcjZab2VFMHZnQVZLMVFoV0lWUnVURUJXYzVIUGF3MmxFUXZucjNEam5lbDJ2Q08zWlZYYmdKZDNHdG5hVGR0aURn0gHbAUFVX3lxTFAyS25TcjI3SFR1Z3NHSXFKYUdPUy1LQ0F5d0FGdzU2MU9mX2hCTGtPbk5odFNHWmdJVm1faDhoVWxiWWxGRWl2YndkQWZFVFVUNzJFZV9tQTNKNndxOHYyc2l5TzZEMFNZdm1MZ2V2WXkyS2dMOHBCYzVvQ3NYc0ZCU3AyOUViaXdsNWg1MTdfNHV3ZE5SeXlaUk9EeXRfUWFJaG5BVlYzQ1AtUDFacHNwTk9zQ18wY3ExR2VqUHptSGZLM3RnTkdRQTYwR092R3dfWGFDRG5XWlI1cw?oc=5",
+      "words": [
+        "boost",
+        "chip",
+        "domestic",
+        "ecosystem",
+        "incentives",
+        "kas",
+        "seeks",
+        "technologies"
+      ]
+    },
+    {
+      "at": "2026-09-17T16:33:03.193256+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "AMD engaging Indian startups for support and potential M&A",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSmo0X2xWbkliY3BhZHlnUUYxMmpGeXZRVkRLYnk4LWVjTi1mVU80djRiYzhXcE92Qm4zWVlKMWFZdVJyMnA0UkhvUEUtNXNvdzlkV1J5RU9NbW5uN3V5ODFpTlBUX1MxdWExZEVNRnlXUzBCUzRKenItdHFjc3NRdmZiaXBvOHpTY0h0eXVBMTNnTG83NEptMUg5QUdQZTd6?oc=5",
+      "words": [
+        "actively",
+        "amd",
+        "company",
+        "consider",
+        "could",
+        "develop",
+        "developer",
+        "ecosystem",
+        "engaging",
+        "fit",
+        "investments",
+        "small",
+        "startup",
+        "startups"
+      ]
+    },
+    {
+      "at": "2026-09-17T16:33:03.193256+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "SEMICON India witnesses flurry of MoUs and supply chain expansions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2tyaDh5X1JmZEdzYzZ2V2gtcE5lUTNEZ2FRNjNHejgwUE1JWUc5UWRkNGxpLWdwejNOMFBfTVVfZ2lxT01kWXNvWnViUG9hZHhfM1A4a1lJSXBKaGItZzJDd01UUmVMNlFqaTNwOHNZNllCeFVQcjQ3MEl0bDhJY0RDTDBtVkV6NFRQUVZRNVkzTTBvTC1N?oc=5",
+      "words": [
+        "chain",
+        "chip",
+        "expands",
+        "flurry",
+        "mous",
+        "sees",
+        "semicon",
+        "supply"
+      ]
+    },
+    {
+      "at": "2026-09-17T16:33:03.193256+00:00",
+      "handle": "News: Global AI",
+      "headline": "Huawei targets 1-million-processor AI systems to rival Nvidia",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeXpHandDaGRxc2llazdLT2JQRUJ3ck9NOGtpYS11SWpBa09WbEZ0RFFuZjNBNXB4SlZhek54TGpaMkVjNHFMeUF3VUpLX1p4TFBLcThRTXlSTll6aENVTU05M3dwT1lWdG9VcA?oc=5",
+      "words": [
+        "against",
+        "huawei",
+        "nvidia",
+        "processor",
+        "push",
+        "systems",
+        "targets"
+      ]
+    },
+    {
+      "at": "2026-09-17T16:33:03.193256+00:00",
+      "handle": "News: Global AI",
+      "headline": "Tech leaders Zuckerberg, Musk, and Huang lobby Trump against AI regulation",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaEs1d0QzQXRjcmNrQWFoVDE0N3NnOWRYcmhBZHFWZjJYTEs1UXdKWWhMb0twMTFGaVlJSVRqMW55QkpyU0trZFc1ejliSlNmS1U5eFdoTmUyV3Q3YXNyTDFJUWtZekVHUG1MZXJmYmY2c2dWV2ZTcFZIVkxkVDRjSE0xVVgxTjRUb3BUTmNkMXA3dlJ4c2xsdnNuOU9ON3RmR096QlF3MTBGWWV5dE1JOERxZlM?oc=5",
+      "words": [
+        "call",
+        "gang",
+        "huang",
+        "musk",
+        "oppose",
+        "regulation",
+        "trump",
+        "zuckerberg"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-17T21",
-  "last_success": "2026-09-17T16:17:26.585004+00:00",
+  "last_digest_hour": "2026-09-17T22",
+  "last_success": "2026-09-17T16:33:03.194822+00:00",
   "national": {
     "alerted": [
       {
@@ -7897,9 +7886,10 @@
       "CG-MH-E-17092026-276297",
       "CG-DL-E-17092026-276299",
       "CG-DL-E-17092026-276296",
-      "CG-DL-E-17092026-276300"
+      "CG-DL-E-17092026-276300",
+      "CG-UP-E-17092026-276295"
     ],
-    "last_run": "2026-09-17T16:19:04.512487+00:00",
+    "last_run": "2026-09-17T16:33:56.450533+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8586,7 +8576,11 @@
       "pib:2311700",
       "pib:2311633",
       "gazette:CG-DL-E-17092026-276300",
-      "gazette:CG-DL-E-17092026-276296"
+      "gazette:CG-DL-E-17092026-276296",
+      "pib:2311712",
+      "gazette:CG-UP-E-17092026-276295",
+      "pib:2311709",
+      "pib:2311710"
     ],
     "source_failures": {
       "CBI": {
@@ -8619,116 +8613,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "HCL-Foxconn JV India Chip targets 40% of display driver chip demand",
-      "post": {
-        "created_at": "2026-09-17T15:21:21+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789658481079",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "HCL-Foxconn JV India Chip targets 40% of India\u2019s display driver chip demand",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZlZDUkJKWmVWY3psdG5TVGM3R1JIUHhoUmJuSFctbTNJaFFPWFZGWHZyeWMyYnFlVzZ3bnN1am9UQW8wOWE0YV8xSHBFRGNLb1BQWmI2bThMM3hrQnRoWF9YVHp4OVlVTWk1bTZYSnRXNjRRallOeXktQU01RE9DbkpjQjBqNWJEbk1wakh3ZmNHY1dsYmhqWHJVQVVnQWlmOEJ5eWhXR1dnWWRPMUJtV2c3R2drRkpwNFJqWE12UWpVRHQxQnNwLU1maWpYSmdMMUIzSTA1UdIB3gFBVV95cUxQVldvZVpPZnlQOTB6cHlXRzd5TzNZajNfZlYxUGRXbVFmaWZZZEI0T04tXzdzTzVCeWJLWmZoVGZyWHpmNy1XZl9oOERKNHFseVpVY1p2Z0JRVVNYYkgxQlR2bThNQnlja1VNVUI1a0phQjJSdkZScDE1alJPT1NqMDZHQ01SSmZ2cmdkN1lGTjJieEhGQTJIc3FMU0V5NG96ZHhBVzZ6QkVGaERzX1RiTXBzOGtCVk5WTHRmM0VzdkhxMWhTcTE3TWY0djluR0JRSjJkVk9ybTlBSjlUUnc?oc=5"
-      },
-      "queued_at": "2026-09-17T15:47:27.638552+00:00",
-      "score": 8.0,
-      "why": "A major semiconductor joint venture targeting specific domestic market share is a significant semiconductor wire story."
-    },
-    {
-      "headline": "KAS Technologies seeks R&D incentives for domestic chip ecosystem",
-      "post": {
-        "created_at": "2026-09-17T15:25:22+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789658722168",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "KAS Technologies seeks R&D incentives to boost domestic chip ecosystem",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQlIwQzQ3dXZSSlBLVHJHVkxMZEx1aXQ1dmE4SVNiQVFMTHc1SHhvemJ1RFgxZ3VwRlVPYzZIS0lDdzRYODBqMzNpWXBkci1DX0NhOElxQW5rTUluOGdrU3JKU3czTGduUk5wdGhsWXRHLXhSVmlSNHk2UTRSUzFBYU1TdUNUaFkxNGs5c1BxRk9rN3UtcjZab2VFMHZnQVZLMVFoV0lWUnVURUJXYzVIUGF3MmxFUXZucjNEam5lbDJ2Q08zWlZYYmdKZDNHdG5hVGR0aURn0gHbAUFVX3lxTFAyS25TcjI3SFR1Z3NHSXFKYUdPUy1LQ0F5d0FGdzU2MU9mX2hCTGtPbk5odFNHWmdJVm1faDhoVWxiWWxGRWl2YndkQWZFVFVUNzJFZV9tQTNKNndxOHYyc2l5TzZEMFNZdm1MZ2V2WXkyS2dMOHBCYzVvQ3NYc0ZCU3AyOUViaXdsNWg1MTdfNHV3ZE5SeXlaUk9EeXRfUWFJaG5BVlYzQ1AtUDFacHNwTk9zQ18wY3ExR2VqUHptSGZLM3RnTkdRQTYwR092R3dfWGFDRG5XWlI1cw?oc=5"
-      },
-      "queued_at": "2026-09-17T15:47:27.638552+00:00",
-      "score": 7.0,
-      "why": "A semiconductor entity seeking government R&D incentives is relevant to India's domestic chip policy push."
-    },
-    {
-      "headline": "AMD engaging Indian startups for support and potential M&A",
-      "post": {
-        "created_at": "2026-09-17T15:31:13+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789659073457",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "LinkedIn",
-        "reposts": 0,
-        "text": "AMD says it is actively engaging with India\u2019s startup ecosystem through developer support and small investments. The company says it could consider M&A when startups develop technologies that fit its portfolio, while also backing India\u2019s push to build a comp",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSmo0X2xWbkliY3BhZHlnUUYxMmpGeXZRVkRLYnk4LWVjTi1mVU80djRiYzhXcE92Qm4zWVlKMWFZdVJyMnA0UkhvUEUtNXNvdzlkV1J5RU9NbW5uN3V5ODFpTlBUX1MxdWExZEVNRnlXUzBCUzRKenItdHFjc3NRdmZiaXBvOHpTY0h0eXVBMTNnTG83NEptMUg5QUdQZTd6?oc=5"
-      },
-      "queued_at": "2026-09-17T15:47:27.638552+00:00",
-      "score": 7.0,
-      "why": "A major chipmaker outlining its India startup engagement and potential M&A strategy is filable news."
-    },
-    {
-      "headline": "SEMICON India witnesses flurry of MoUs and supply chain expansions",
-      "post": {
-        "created_at": "2026-09-17T15:42:16+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789659736920",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "YourStory",
-        "reposts": 0,
-        "text": "SEMICON India sees flurry of MoUs as chip supply chain expands",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2tyaDh5X1JmZEdzYzZ2V2gtcE5lUTNEZ2FRNjNHejgwUE1JWUc5UWRkNGxpLWdwejNOMFBfTVVfZ2lxT01kWXNvWnViUG9hZHhfM1A4a1lJSXBKaGItZzJDd01UUmVMNlFqaTNwOHNZNllCeFVQcjQ3MEl0bDhJY0RDTDBtVkV6NFRQUVZRNVkzTTBvTC1N?oc=5"
-      },
-      "queued_at": "2026-09-17T15:47:27.638552+00:00",
-      "score": 7.0,
-      "why": "Broad developments and MoUs coming out of the SEMICON India event build directly on ongoing domestic semiconductor coverage."
-    },
-    {
-      "headline": "Huawei targets 1-million-processor AI systems to rival Nvidia",
-      "post": {
-        "created_at": "2026-09-17T15:48:59+00:00",
-        "handle": "News: Global AI",
-        "id": "1789660139696",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Yellow",
-        "reposts": 0,
-        "text": "Huawei Targets 1M-Processor AI Systems In Push Against Nvidia",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeXpHandDaGRxc2llazdLT2JQRUJ3ck9NOGtpYS11SWpBa09WbEZ0RFFuZjNBNXB4SlZhek54TGpaMkVjNHFMeUF3VUpLX1p4TFBLcThRTXlSTll6aENVTU05M3dwT1lWdG9VcA?oc=5"
-      },
-      "queued_at": "2026-09-17T16:02:32.235901+00:00",
-      "score": 7.0,
-      "why": "Major hardware and competitive development from a major tech firm in the AI chip space."
-    },
-    {
-      "headline": "Tech leaders Zuckerberg, Musk, and Huang lobby Trump against AI regulation",
-      "post": {
-        "created_at": "2026-09-17T15:57:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1789660620575",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "24/7 Wall St",
-        "reposts": 0,
-        "text": "Gang of 3: Zuckerberg, Musk, and Huang Call Trump to Oppose AI Regulation",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaEs1d0QzQXRjcmNrQWFoVDE0N3NnOWRYcmhBZHFWZjJYTEs1UXdKWWhMb0twMTFGaVlJSVRqMW55QkpyU0trZFc1ejliSlNmS1U5eFdoTmUyV3Q3YXNyTDFJUWtZekVHUG1MZXJmYmY2c2dWV2ZTcFZIVkxkVDRjSE0xVVgxTjRUb3BUTmNkMXA3dlJ4c2xsdnNuOU9ON3RmR096QlF3MTBGWWV5dE1JOERxZlM?oc=5"
-      },
-      "queued_at": "2026-09-17T16:02:32.235901+00:00",
-      "score": 7.0,
-      "why": "High-impact policy lobbying by major tech CEOs regarding AI governance."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9670,7 +9555,7 @@
     "bse nykaa": 1789155118992,
     "bse ola electric": 1789430149909,
     "bse paytm": 1789578149191,
-    "bse persistent": 1789597474489,
+    "bse persistent": 1789682392211,
     "bse reliance": 1789674766336,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1789071138621,
@@ -9700,20 +9585,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789658100645,
-    "news: consumer internet india": 1789659559754,
-    "news: global ai": 1789660620575,
+    "news: consumer internet india": 1789661700461,
+    "news: global ai": 1789661580472,
     "news: global chips": 1789660739834,
     "news: global it services": 1789654993167,
     "news: india ai deeptech": 1789660679496,
     "news: india edtech gaming": 1789642914433,
-    "news: india fintech": 1789660750224,
-    "news: india semiconductors": 1789661245002,
+    "news: india fintech": 1789662360401,
+    "news: india semiconductors": 1789661532183,
     "news: india tech policy": 1789655353644,
     "news: india telecom": 1789659542321,
-    "news: indian it majors": 1789658237725,
-    "news: indian it midcaps": 1789652760487,
-    "news: pib releases": 1789655040243,
-    "news: tech leaders": 1789659171131,
+    "news: indian it majors": 1789662003568,
+    "news: indian it midcaps": 1789654500424,
+    "news: pib releases": 1789661282744,
+    "news: tech leaders": 1789660386772,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789578000307,
@@ -9745,7 +9630,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-17T16:17:26.833737+00:00",
+    "last_server_run": "2026-09-17T16:33:03.514511+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-17T16:18:00.658856+00:00",
@@ -9972,6 +9857,7 @@
       "CG-TL-E-15092026-276223",
       "CG-TL-E-16092026-276267",
       "CG-TL-E-16092026-276268",
+      "CG-UP-E-17092026-276295",
       "CG-WB-E-15092026-276202",
       "CG-WB-E-15092026-276203",
       "SG-DL-E-15092026-276193",
