@@ -1,93 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-11T05:16:16.216907+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Minister Scindia calls for Trust Grid linking telecom, Aadhaar, UPI",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXzZLVERleVpWOW5qRWxScVR2Uk4xX2xkeXRjZm51elQxR0xTLUQ0NDVpNVozWk9kS2pCMm1zZjlrM3lQNGdrWWg0TlpXWGF2RDFYZjJfNm84dWRZQWQtcFQ4ZTA5djhjdWd3S1ZlZkdDVFI1U3NkNkUwRmxtSTRoTjdNMA?oc=5",
-      "words": [
-        "aadhaar",
-        "calls",
-        "grid",
-        "linking",
-        "scindia",
-        "telecom",
-        "trust",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-11T05:31:35.407830+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Government rolls out Bhu-Aadhaar land records scheme for plots",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTS1DQzZCbGg4eG50MkRtUkp3OVVuTVFDaXBJOThWdDBzYUQ3VzktZkhhbWtpV05vZDJIaDJpYURkT0ZfeWhvOW1MY2s4NWNZR21NN1ZFTzRvRmFyZTFnV3UyUUNKZ2FMMHhtaDV5Y2UtRGVtWHBYb29GZ1NsOWRJaEx2MDNUM1pKRWtZTmpLaWFTenhwelh3Tl9CYWpEN2VSZ29oWmg2akF4TFNmRzE1MnlsMTNXMzhqYWdjZXVGTVVyMEdMYjd2UFQwY2dlSlg1U3M0eXpJWWdRNkJybENpQk5XS2EtWmxYdnR4TFJ30gHuAUFVX3lxTFBNLUNDNkJsaDh4bnQyRG1SSnc5VW5NUUNpcEk5OFZ0MHNhRDdXOS1mSGFta2lXTm9kMkhoMmlhRGRPRl95aG85bUxjazg1Y1lHbU03VkVPNG9GYXJlMWdXdTJRQ0pnYUwweG1oNXljZS1EZW1YcFhvb0ZnU2w5ZEloTHYwM1QzWkpFa1lOaktpYVN6eHB6WHdOX0JhakQ3ZVJnb2haaDZqQXhMU2ZHMTUyeWwxM1czOGphZ2NldUZNVXIwR0xiN3ZQVDBjZ2VKWDVTczR5eklZZ1E2QnJsQ2lCTldLYS1abFh2dHhMUnc?oc=5",
-      "words": [
-        "aadhaar",
-        "bhu",
-        "every",
-        "government",
-        "land",
-        "out",
-        "plot",
-        "records",
-        "rolls",
-        "scheme"
-      ]
-    },
-    {
-      "at": "2026-09-11T06:31:38.826887+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Sridhar Vembu warns companies against sharing sensitive data with AI firms",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkZDSk1Fc2tDVUU3VmdKUkc3RmNhbTgzQmNpQWNpOVB5VnJJNXd6akh6cV8tdDNvaGx6dl9nYi1oRmxpS2ZxME4yVzJQZThLRzJTTlotellpM3dLZnNILVFnUzVsd2lDd2s3M2FKNWFjd0t1dzd4Ni12WW9KM3J2TjlMblJaeDh1YUlYLXpTMjZBMm53UWFUUzBlX25YeGtSb18zYjhCTE1uR1QybGJ0QXRzbTZhS0s3a0pRUXlRR2lDU3FxWjlB0gHMAUFVX3lxTFAwZ2VILU9JSFdVOUpBUGYxVUh2WkJrMHpidzV3dzFlTVZyUGlaR0I1ZlVnc3ctSXpmeGVLdXVnRFIwRUJhVlQ2S3JxMjdTcXl5ZjVGcUdET1dpbjlsamNRaG5VMjNhaFRXclljSkpvVGNHUnlTRjNic21aUGh3akRiaFpsRTJXMEtONU9wWGF1am50Z0JONXIwdW1iLTBQSG9TcDBGZVYwcjkxNGpFR2hiUWxNRjhRT2RWeV9wbm94eTB1MWJ5aHF0dVBxcA?oc=5",
-      "words": [
-        "against",
-        "companies",
-        "data",
-        "firms",
-        "sensitive",
-        "sharing",
-        "sridhar",
-        "vembu",
-        "warns"
-      ]
-    },
-    {
-      "at": "2026-09-11T06:31:38.826887+00:00",
-      "handle": "News: Global IT services",
-      "headline": "House of Hiranandani leases 0.27 million sq ft to Accenture",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTW1GdnhUNVhpampvaEFBcENzaWZxcTdXRDYta0F5VUVBX2o5UWRYbDZMdWUtMjV0MjRCYVcxMzMtMDJmUTBXUlQxTVVjWTN5Q05QQmFMNlhEQ2Zvamxxc19ZRmlvbHNITzlPczRsZWxrLXJ1cjVTSFpMRzJIbzdBVXBhWm5MbzF4dG1ablJjSHdTbVY1eGNuQVczTHpJQ3d4aHA4ekZCalUxZDdNM0EyeDMzYV81azhKZndXdUFlV2V5Q2ZRX3pjMTJ2YXpEeHQ2UzhORE1fQ2hISkl4VWVJXw?oc=5",
-      "words": [
-        "accenture",
-        "hiranandani",
-        "house",
-        "leases",
-        "million",
-        "mmr"
-      ]
-    },
-    {
-      "at": "2026-09-11T06:46:47.799713+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Jio Platforms IPO slated for November with Google and Meta staying invested",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYWJUQmZpakk2TzZhSnpXY0ZXWU9RdnBxRjZITnptYm5wZ3FldmJ5TEpHcTg5emMxWnY3Sk5waVgtM2ZoVV9GZ0pXejY1TExOdENQWFkzbjZVM2YxU2VtLUhaVUZpSWRvYllVdmNkcy13T2dPMUpSdGg2ZHM1a1p5UnpUQkRMMDlEZzVZVVA2aWMwZERsSzlZeTFnWUpwWmhKcFVCZ3RGeGozRUFSbm8zaEVYMGVUYzZfa3BUVGo2WUhOektUa2RVSFhmbjlPdlVj?oc=5",
-      "words": [
-        "google",
-        "invested",
-        "ipo",
-        "jio",
-        "meta",
-        "november",
-        "open",
-        "platforms",
-        "stay"
-      ]
-    },
-    {
       "at": "2026-09-11T06:46:47.799713+00:00",
       "handle": "News: India fintech",
       "headline": "AvenuesAI plans credit strategy and scouts NBFCs for minority stakes",
@@ -7322,12 +7235,107 @@
         "upi",
         "won"
       ]
+    },
+    {
+      "at": "2026-09-17T14:32:13.675938+00:00",
+      "handle": "PIB MeitY",
+      "headline": "MeitY unveils Semicon 2.0 to deepen domestic chip ecosystem",
+      "tier": 1,
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311630",
+      "words": [
+        "advanced",
+        "deepen",
+        "design",
+        "ecosystem",
+        "equipment",
+        "fabs",
+        "focus",
+        "packaging",
+        "semicon",
+        "semiconductor",
+        "talent"
+      ]
+    },
+    {
+      "at": "2026-09-17T14:32:15.392695+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Semicon 2.0 draws $12 billion in investment proposals: Ashwini Vaishnaw",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjhYUFY5eVNORmJUNmh6NWVGQmlzUkUwdmpvMC1aRkpQc3dwNHVuUWVVNjEzR0R4cy0tczE5N3hhaEhlcGIyNXRfZkoyU3NEN0JZT19Qd3FfNGhmeU5GRmRHdl9DWEpOTzF3anE0dWxiYzBHRmY0WVMtd3NfdnVyTDJ2R2RDdVhmaklrbXRyOW1XVERUWV9RRnU5UXJseUFsb01pNUhXNVNLMFF6X2x4SEJYZHdlcDN5RDhSWHFLdTBUUFRmZVgtRWZWazd3SExfX3dNWElR0gHcAUFVX3lxTFBTQ1lVNTZVdmJzMGdGMEkxVkhLNEtUYjdxRnVqWHdCcXZucUZwRE1IOUhFWDQyaHZpLWFmVzBkbU9mdUxJNmlselRnVXpCSW1RcmlfTC10YW1rN1AzRzVqNnZvYjRxQzF3STVLOEdFaWRhckczemY0c1hCNzk4aExPSTJrQzNkbjBrN2pIMkc2RW03MmlwendMeTkyTTRyU2MwUW9GVE53bjk4dUxJSkRhRTVTeks2SkVuc05NR0xXcWRvZ2k5R2tUZjRfMHFJSF9QdVhfY0hfcjN0cjU?oc=5",
+      "words": [
+        "ashwini",
+        "billion",
+        "draws",
+        "investment",
+        "minister",
+        "proposals",
+        "semicon",
+        "vaishnaw"
+      ]
+    },
+    {
+      "at": "2026-09-17T14:32:15.392695+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Tata Electronics and SCL partner for semiconductor indigenization",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMXozdUV1alpPYjZENk11VUFxVGN1R005Q2FCdmtBdVI0SnVVc3ZyT0JOMGJWb3I5T1ZMbjZLT0JwVFF1Zk5GcHl5eHE4eFB2SDlVVkVkdkVfY3diWWtFUFU3NnE3UFNPdXVEeDFPV0NoX1BLd1R5Y2RIRjVRTlE5bXFObTRoV2N0Zm9sdUV4TXkxY3Z3OXBBTDdYYmFtWEFBcS1HV25Kc3JIMUNkR1ZjSU9FYnp1LTc4YjlNUEpmVlRfQ3BvUUVwMWYtLU5KOG1TUGtSS1YyVmZiTG5F?oc=5",
+      "words": [
+        "conductor",
+        "electronics",
+        "indigenization",
+        "laboratory",
+        "next",
+        "partner",
+        "scl",
+        "semi",
+        "semiconductor",
+        "tata",
+        "unlock",
+        "wave"
+      ]
+    },
+    {
+      "at": "2026-09-17T14:32:15.392695+00:00",
+      "handle": "News: India fintech",
+      "headline": "India and Bhutan enable two-way UPI payment connectivity",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNlhTMnBmc2p5Nm0yY2VfYWpsQlBRRE9leUU1NWFoTURLQS1IM1RHSHlKaUtSMDBqTmxUSHF0YmJWRmdzNmFETmtpd3h2S1FOX2tRRVVuYWt1cEI0TVRDM0wtbWt1R2NIWUlsVEpmU2R5djZfZVVOWGpNWENuRGdBVk03NGNTUG85LThtbEJLNDNmZUFXWjhaU1U0Q0J2Qk9yekRoRFBtaHQ?oc=5",
+      "words": [
+        "based",
+        "between",
+        "bhutan",
+        "connectivity",
+        "digital",
+        "enabled",
+        "payment",
+        "two",
+        "upi",
+        "way"
+      ]
+    },
+    {
+      "at": "2026-09-17T14:32:15.392695+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Nvidia shares rise as Jensen Huang projects chip sales doubling by 2027",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTFNmQ3R0M3VpbHd6T01xOUJjb1JkZ0J5d1hPOGE0R1Q4Y3hGaElWUUZZQk9UQVFDLUJuS0tacnE5VWswTFE5RVA5cXRhQUotTWpnM2ViMnFPVUNDQ2ZldTdGMmNUQTNtNlB6T1NteUo3MTVNSUJRUGxrRlh2TGV5dDNLb3lFWVBsbUdNV0EyUEo4WXVVMHdRZVhISEpCeEN0WVlZdTRFNlVuMjVieVZTbHhCNDFiU2VmTjVobWMyV1ZQcUVsb2c?oc=5",
+      "words": [
+        "2027",
+        "chip",
+        "double",
+        "expects",
+        "huang",
+        "jensen",
+        "nvidia",
+        "rises",
+        "sales"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-17T19",
-  "last_success": "2026-09-17T14:17:06.734143+00:00",
+  "last_digest_hour": "2026-09-17T20",
+  "last_success": "2026-09-17T14:32:15.393269+00:00",
   "national": {
     "alerted": [
       {
@@ -7883,9 +7891,10 @@
       "CG-DL-E-17092026-276293",
       "CG-DL-E-17092026-276294",
       "CG-DL-E-17092026-276298",
-      "CG-MH-E-17092026-276297"
+      "CG-MH-E-17092026-276297",
+      "CG-DL-E-17092026-276299"
     ],
-    "last_run": "2026-09-17T14:18:11.819663+00:00",
+    "last_run": "2026-09-17T14:33:06.315126+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8548,7 +8557,15 @@
       "gazette:CG-DL-E-17092026-276298",
       "pib:2311593",
       "pib:2311596",
-      "gazette:CG-MH-E-17092026-276297"
+      "gazette:CG-MH-E-17092026-276297",
+      "pib:2311628",
+      "pib:2311629",
+      "pib:2311623",
+      "pib:2311630",
+      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/interim-order-in-the-matter-of-kore-digital-limited_104570.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/samuhik-prativedan-manch-a-technology-based-common-reporting-mechanism-extended-to-members-of-clearing-corporations_104568.html",
+      "gazette:CG-DL-E-17092026-276299",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-17-09-2026-in-recovery-certificate-no-7163-of-2023-issued-against-investmart-prop-mr-anshuman-bhise-pan-dyfpb1666h-in-the-matter-of-investmart-prop-mr-anshuman-bh-_104567.html"
     ],
     "source_failures": {
       "CBI": {
@@ -8581,80 +8598,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Semicon 2.0 draws $12 billion in investment proposals: Ashwini Vaishnaw",
-      "post": {
-        "created_at": "2026-09-17T13:26:34+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789651594312",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Indian Express",
-        "reposts": 0,
-        "text": "\u2018Semicon 2.0 draws up to $12 billion in investment proposals\u2019: IT minister Ashwini Vaishnaw",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjhYUFY5eVNORmJUNmh6NWVGQmlzUkUwdmpvMC1aRkpQc3dwNHVuUWVVNjEzR0R4cy0tczE5N3hhaEhlcGIyNXRfZkoyU3NEN0JZT19Qd3FfNGhmeU5GRmRHdl9DWEpOTzF3anE0dWxiYzBHRmY0WVMtd3NfdnVyTDJ2R2RDdVhmaklrbXRyOW1XVERUWV9RRnU5UXJseUFsb01pNUhXNVNLMFF6X2x4SEJYZHdlcDN5RDhSWHFLdTBUUFRmZVgtRWZWazd3SExfX3dNWElR0gHcAUFVX3lxTFBTQ1lVNTZVdmJzMGdGMEkxVkhLNEtUYjdxRnVqWHdCcXZucUZwRE1IOUhFWDQyaHZpLWFmVzBkbU9mdUxJNmlselRnVXpCSW1RcmlfTC10YW1rN1AzRzVqNnZvYjRxQzF3STVLOEdFaWRhckczemY0c1hCNzk4aExPSTJrQzNkbjBrN2pIMkc2RW03MmlwendMeTkyTTRyU2MwUW9GVE53bjk4dUxJSkRhRTVTeks2SkVuc05NR0xXcWRvZ2k5R2tUZjRfMHFJSF9QdVhfY0hfcjN0cjU?oc=5"
-      },
-      "queued_at": "2026-09-17T13:47:06.135277+00:00",
-      "score": 9.0,
-      "why": "Major policy and investment commitment figures announced by the IT minister."
-    },
-    {
-      "headline": "Tata Electronics and SCL partner for semiconductor indigenization",
-      "post": {
-        "created_at": "2026-09-17T13:40:38+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789652438173",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Tata Electronics",
-        "reposts": 0,
-        "text": "Tata Electronics and Semi-Conductor Laboratory (SCL) Partner to Unlock Next Wave of Semiconductor Indigenization",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMXozdUV1alpPYjZENk11VUFxVGN1R005Q2FCdmtBdVI0SnVVc3ZyT0JOMGJWb3I5T1ZMbjZLT0JwVFF1Zk5GcHl5eHE4eFB2SDlVVkVkdkVfY3diWWtFUFU3NnE3UFNPdXVEeDFPV0NoX1BLd1R5Y2RIRjVRTlE5bXFObTRoV2N0Zm9sdUV4TXkxY3Z3OXBBTDdYYmFtWEFBcS1HV25Kc3JIMUNkR1ZjSU9FYnp1LTc4YjlNUEpmVlRfQ3BvUUVwMWYtLU5KOG1TUGtSS1YyVmZiTG5F?oc=5"
-      },
-      "queued_at": "2026-09-17T13:47:06.135277+00:00",
-      "score": 8.0,
-      "why": "Significant strategic partnership between Tata Electronics and government lab SCL."
-    },
-    {
-      "headline": "Nvidia shares rise as Jensen Huang projects chip sales doubling by 2027",
-      "post": {
-        "created_at": "2026-09-17T13:40:24+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1789652424753",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Tradingkey",
-        "reposts": 0,
-        "text": "Nvidia Rises Over 2% as Jensen Huang Expects Chip Sales to Double by 2027",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTFNmQ3R0M3VpbHd6T01xOUJjb1JkZ0J5d1hPOGE0R1Q4Y3hGaElWUUZZQk9UQVFDLUJuS0tacnE5VWswTFE5RVA5cXRhQUotTWpnM2ViMnFPVUNDQ2ZldTdGMmNUQTNtNlB6T1NteUo3MTVNSUJRUGxrRlh2TGV5dDNLb3lFWVBsbUdNV0EyUEo4WXVVMHdRZVhISEpCeEN0WVlZdTRFNlVuMjVieVZTbHhCNDFiU2VmTjVobWMyV1ZQcUVsb2c?oc=5"
-      },
-      "queued_at": "2026-09-17T14:02:35.800507+00:00",
-      "score": 7.0,
-      "why": "Major semiconductor CEO growth projection and stock movement from a watched company."
-    },
-    {
-      "headline": "India and Bhutan enable two-way UPI payment connectivity",
-      "post": {
-        "created_at": "2026-09-17T14:03:56+00:00",
-        "handle": "News: India fintech",
-        "id": "1789653836574",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "News On AIR",
-        "reposts": 0,
-        "text": "Two-way UPI-based digital payment connectivity between India and Bhutan enabled",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNlhTMnBmc2p5Nm0yY2VfYWpsQlBRRE9leUU1NWFoTURLQS1IM1RHSHlKaUtSMDBqTmxUSHF0YmJWRmdzNmFETmtpd3h2S1FOX2tRRVVuYWt1cEI0TVRDM0wtbWt1R2NIWUlsVEpmU2R5djZfZVVOWGpNWENuRGdBVk03NGNTUG85LThtbEJLNDNmZUFXWjhaU1U0Q0J2Qk9yekRoRFBtaHQ?oc=5"
-      },
-      "queued_at": "2026-09-17T14:17:06.733841+00:00",
-      "score": 8.0,
-      "why": "Major cross-border fintech infrastructure deployment involving national payment systems."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9597,7 +9541,7 @@
     "bse ola electric": 1789430149909,
     "bse paytm": 1789578149191,
     "bse persistent": 1789597474489,
-    "bse reliance": 1789673994966,
+    "bse reliance": 1789674766336,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1789071138621,
     "bse tata communications": 1789576462217,
@@ -9629,13 +9573,13 @@
     "news: consumer internet india": 1789653614883,
     "news: global ai": 1789649700426,
     "news: global chips": 1789652809925,
-    "news: global it services": 1789650002397,
+    "news: global it services": 1789654993167,
     "news: india ai deeptech": 1789647824057,
     "news: india edtech gaming": 1789642914433,
     "news: india fintech": 1789654113897,
-    "news: india semiconductors": 1789653765466,
-    "news: india tech policy": 1789652438173,
-    "news: india telecom": 1789652507460,
+    "news: india semiconductors": 1789655175644,
+    "news: india tech policy": 1789655175644,
+    "news: india telecom": 1789654500550,
     "news: indian it majors": 1789652522001,
     "news: indian it midcaps": 1789652760487,
     "news: pib releases": 1789647120215,
@@ -9646,7 +9590,7 @@
     "oracle": 1789631219707,
     "phonepe": 1789631207660,
     "pib communications": 2311244,
-    "pib meity": 2310855,
+    "pib meity": 2311630,
     "pib science and technology": 2311451,
     "razorpay": 1789539311308,
     "redseer": 1789637516540,
@@ -9668,9 +9612,10 @@
       "DoPT EO - promotions (30 days)",
       "DoPT EO - today's orders",
       "e-Gazette - Home, Finance, Defence, Law, I&B",
+      "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-17T14:17:06.981937+00:00",
+    "last_server_run": "2026-09-17T14:32:15.701578+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-17T14:17:24.464941+00:00",
@@ -9875,6 +9820,7 @@
       "CG-DL-E-17092026-276293",
       "CG-DL-E-17092026-276294",
       "CG-DL-E-17092026-276298",
+      "CG-DL-E-17092026-276299",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
       "CG-MH-E-15092026-276207",
