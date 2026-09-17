@@ -7338,7 +7338,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T21",
-  "last_success": "2026-09-17T15:47:27.638837+00:00",
+  "last_success": "2026-09-17T16:02:32.236289+00:00",
   "national": {
     "alerted": [
       {
@@ -7897,7 +7897,7 @@
       "CG-MH-E-17092026-276297",
       "CG-DL-E-17092026-276299"
     ],
-    "last_run": "2026-09-17T15:48:10.868517+00:00",
+    "last_run": "2026-09-17T16:03:17.404435+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8576,7 +8576,10 @@
       "pib:2311643",
       "pib:2311650",
       "pib:2311657",
-      "pib:2311682"
+      "pib:2311682",
+      "pib:2311690",
+      "pib:2311692",
+      "pib:2311691"
     ],
     "source_failures": {
       "CBI": {
@@ -8681,6 +8684,42 @@
       "queued_at": "2026-09-17T15:47:27.638552+00:00",
       "score": 7.0,
       "why": "Broad developments and MoUs coming out of the SEMICON India event build directly on ongoing domestic semiconductor coverage."
+    },
+    {
+      "headline": "Huawei targets 1-million-processor AI systems to rival Nvidia",
+      "post": {
+        "created_at": "2026-09-17T15:48:59+00:00",
+        "handle": "News: Global AI",
+        "id": "1789660139696",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Yellow",
+        "reposts": 0,
+        "text": "Huawei Targets 1M-Processor AI Systems In Push Against Nvidia",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeXpHandDaGRxc2llazdLT2JQRUJ3ck9NOGtpYS11SWpBa09WbEZ0RFFuZjNBNXB4SlZhek54TGpaMkVjNHFMeUF3VUpLX1p4TFBLcThRTXlSTll6aENVTU05M3dwT1lWdG9VcA?oc=5"
+      },
+      "queued_at": "2026-09-17T16:02:32.235901+00:00",
+      "score": 7.0,
+      "why": "Major hardware and competitive development from a major tech firm in the AI chip space."
+    },
+    {
+      "headline": "Tech leaders Zuckerberg, Musk, and Huang lobby Trump against AI regulation",
+      "post": {
+        "created_at": "2026-09-17T15:57:00+00:00",
+        "handle": "News: Global AI",
+        "id": "1789660620575",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "24/7 Wall St",
+        "reposts": 0,
+        "text": "Gang of 3: Zuckerberg, Musk, and Huang Call Trump to Oppose AI Regulation",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaEs1d0QzQXRjcmNrQWFoVDE0N3NnOWRYcmhBZHFWZjJYTEs1UXdKWWhMb0twMTFGaVlJSVRqMW55QkpyU0trZFc1ejliSlNmS1U5eFdoTmUyV3Q3YXNyTDFJUWtZekVHUG1MZXJmYmY2c2dWV2ZTcFZIVkxkVDRjSE0xVVgxTjRUb3BUTmNkMXA3dlJ4c2xsdnNuOU9ON3RmR096QlF3MTBGWWV5dE1JOERxZlM?oc=5"
+      },
+      "queued_at": "2026-09-17T16:02:32.235901+00:00",
+      "score": 7.0,
+      "why": "High-impact policy lobbying by major tech CEOs regarding AI governance."
     }
   ],
   "page_links": {
@@ -9653,21 +9692,21 @@
     "microsoft india": 1789552630084,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789651779400,
-    "news: consumer internet india": 1789657848165,
-    "news: global ai": 1789656609582,
-    "news: global chips": 1789655580210,
+    "news: big tech platforms": 1789658100645,
+    "news: consumer internet india": 1789659559754,
+    "news: global ai": 1789660620575,
+    "news: global chips": 1789660739834,
     "news: global it services": 1789654993167,
-    "news: india ai deeptech": 1789648200152,
+    "news: india ai deeptech": 1789660679496,
     "news: india edtech gaming": 1789642914433,
-    "news: india fintech": 1789659424575,
-    "news: india semiconductors": 1789659736920,
+    "news: india fintech": 1789660334683,
+    "news: india semiconductors": 1789659759732,
     "news: india tech policy": 1789655353644,
     "news: india telecom": 1789659542321,
     "news: indian it majors": 1789658237725,
     "news: indian it midcaps": 1789652760487,
     "news: pib releases": 1789655040243,
-    "news: tech leaders": 1789658090690,
+    "news: tech leaders": 1789659171131,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789578000307,
@@ -9699,7 +9738,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-17T15:47:27.878901+00:00",
+    "last_server_run": "2026-09-17T16:02:32.558056+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-17T14:17:24.464941+00:00",
