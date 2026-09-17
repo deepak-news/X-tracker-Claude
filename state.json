@@ -1,74 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T10:02:05.493893+00:00",
-      "handle": "News: India fintech",
-      "headline": "Amazon Pay and Kotak Mahindra Bank launch business credit card",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVnZmTno5NTBXZGVkTURGVFdoQUdHUlBROVlzWHA1bzNadV9YVVhHR0NmdDl4cWFmaklFSXNLdnlvb0t2MHE3bmdlQW1jTW1jdzZGd3pNeEhvUUVFMVVfOEVYdGY2RnprMFNHX0hjSmR4WG9XOUxmdVE0TGl2TUV3Q0p2QzVIVjBVUTVEaldBUExLd2loMm94bWR2MWxjMTM1TEdoRklTaUZRenhxdDh0bmtBRlVtWEdtSkkxdkU0MF9QOFJPeDA3VlZrUENTV3FvUFpINVRtem95ZnF1T3ZrREFYTl9kTkXSAewBQVVfeXFMTjJnYk1wbXRIOVVnSFNKT0VKRF9OVW9ORjNXRGoyeGo4QmZ5MUZsTjQ1RFRUdGhiWUQ1b09EaVdRZEF3NVh6LVFabUg5NmlnVjBKX0NpUUVmVDVXNC1iRFhSME56Nk5XRE0ycHNFb1BmM3NYb1ZEMzhTZDFQY1o3OGlvaG05M1RFcW9RcGZrZDZIRVp3dnkxQ2Z0by00T3VLQVBuRkRJVkQ4blV4ck1Jd0p1X1Z5SG51alQ1ZW83Y1V1c0VNaElobHVYTjBLeFhNX2QySmtXcTVfU2ZZZHhyR0ZhZGJPVXFNR2xEbkE?oc=5",
-      "words": [
-        "amazon",
-        "biz",
-        "card",
-        "cashback",
-        "credit",
-        "day",
-        "kotak",
-        "offers",
-        "pay",
-        "run"
-      ]
-    },
-    {
-      "at": "2026-09-10T10:31:28.849001+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Mphasis signs AI modernisation partnership with TechnoPro",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRG5VUTNNYjJGY3kzR1dtMlZrdUpaWEZrSHdlU1VCcXFBQ1NsYzFqcEJTTzBOS1pyR1BHdE1nRUc1VXFteVE5U1Zoa0tpY0tjSGhXdFZUT2JuV1ZDRWI3WXcwN2NWMXBDT2ZPc3hwV0dQQkdUVHdSZ3piV2ZTZktnTmFJckFRUQ?oc=5",
-      "words": [
-        "modernisation",
-        "mphasis",
-        "pact",
-        "strikes",
-        "technopro"
-      ]
-    },
-    {
-      "at": "2026-09-10T10:31:28.849001+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Izmo Microsystems develops 40GHz RF package for defence applications",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUQxN0ZEYUlzckJTUjRfRUhRczJRd0RmU1dYZmJpMW1oQkp2MjN3c3ZMRTB2RWF1Y2Z3QVFXSndjczZ3R0M3NEZjUnUweXNQanhGSkZKbWUxNXgzZXU0d3dxVkR6andxd0dfSEpPRlVTbjZEUnlsbkc3VFpzV1A5WDJBa2pfU2pDRGFNUl9rSVVVNUMyMElOcGF1Z0U?oc=5",
-      "words": [
-        "40ghz",
-        "applications",
-        "defence",
-        "develops",
-        "izmo",
-        "microsystems",
-        "package"
-      ]
-    },
-    {
-      "at": "2026-09-10T11:01:43.293639+00:00",
-      "handle": "News: India fintech",
-      "headline": "NPCI and NVIDIA launch open AI training environment for banking",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNERzRTJEcHJEYVlVbnhBdy1oVFBja1lnTW5iejJzeGlsbWlaSmlhQkNrWFNJajBSdkJ0ZjFQQjZUN0R0UWdFbXA2VVhFbU1va1lwQnZhQXlyOVNqUEJhNElxZ1lFamk0OGhvUTE5d2Y3UWk3TXBxY2E0S0NpWW54Z2M5bEVPdldEVXNKME9yQzFmZlVIQk9LVlVJVjZiSmJvT0EwWmdMZWNNZGRQZGNzbVNGSURwZ9IBuwFBVV95cUxNY09vZGVZRzVuTThxajdELTVDRldVSGFldmhGMV9BZXZIMjdNNThMVnBLT3p1allOYkxtZFpieEFFOEtuVVVuUGxick1qUURmbUhpMHM1czgtR2daYVJGXzUyOUozYk9zNDVIb2tlTzhoTjgwd0hTLUJ5cWZPRGN3U0RydTVDbzg3WHZpSUJqVXZRbTVnd2VhM2RCQlBGSkJuMkN2RkQ4Tl9BUGVyVFpFV0ZTejBjcmluaVVj?oc=5",
-      "words": [
-        "2026",
-        "agents",
-        "banking",
-        "environment",
-        "gff",
-        "launch",
-        "npci",
-        "nvidia",
-        "open",
-        "training"
-      ]
-    },
-    {
       "at": "2026-09-10T11:01:43.293639+00:00",
       "handle": "News: India semiconductors",
       "headline": "Analog Devices to acquire Alif Semiconductor for $1.35 billion",
@@ -7313,12 +7245,87 @@
         "should",
         "tech"
       ]
+    },
+    {
+      "at": "2026-09-17T01:31:32.125013+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "PM Modi lays foundation stone for UP semiconductor unit",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjNTNHFoMWEyam8tbEdqQmlSY3pkUEMta1JZMUNjRTAtVTVhSUZMNnBjdWJFd0txakFBRDJqZk01UUxIbVhHd3B5V1JpYThDNUJxS29PQjBxXzhVREV6Z3I2XzNCNWRuOHNRR0liRldIbUJnekI5UFdfRkNEanRJTzNjXzZ5dGpRbnZNVXZSdEI4Nk43eC1OSlc4VEtjR0l6c1NJRFZOQU5sMGNCLWFMMlpNdWpxV1ItUXR3eV9n?oc=5",
+      "words": [
+        "foundation",
+        "lays",
+        "manufacturing",
+        "modi",
+        "pradesh",
+        "semiconductor",
+        "stone",
+        "unit",
+        "uttar"
+      ]
+    },
+    {
+      "at": "2026-09-17T01:31:32.125013+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Cadence sees rising Indian chip-design demand tied to Tata fab",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNHl1d2dMQnE1aWVTSk9uRG9YS0xLMjg1Y0FBR0R5dm1MWmg4RXRXUHVIQzY3MTZpTlAwZExCMklSSC1KMG5XdEJnWlgwbEZ0WjJGOUlwZW9DcGJPSzZ2NzZyaVZicG5xSG5LM3JuUXN1RGdJQ0g1b3ZkV2w0dmppTVRwZTBGLXlQTXVBb3BybzB2cjJqZ1BIZktFS2Rfa3A2YlRscUVRNk9MM0hxOHpnUG9OS296b1ViMGJ1b0xsZDF0SFdMcGtHOHp5M0xITVFhWGtwM0FSLW44ZDBzOWtXcnRR0gHnAUFVX3lxTE9nbVFHZlVIeDM4ZmMtaGlBcHdpTzhZMFBCY0NpUEduZ0QtNWR6X1M5Yy1KQU9GX0VoWTl3cl9iVmgySG01bEdQa29zdjZMTXZ3cFhYbmw5ZEowam1JWjR0MFRmTVdlTVh2UE5PVEozWnY5QnJrS3VCTWZUT2xBeXBfeFNPc0V4T2stenBJOEM0WEV1WkN4WFVqUktxSWVucFg1MlpZVVkyQy10eDhlbk8tTXFIbU1TcDhPWE00a0R5QWRIYWVIQlh6QndQWHE0ZjJKSlV1T3hFZzMySDRXbjZxZ3NkaldsWQ?oc=5",
+      "words": [
+        "based",
+        "cadence",
+        "chip",
+        "demand",
+        "design",
+        "electronics",
+        "fab",
+        "rising",
+        "sees",
+        "shape",
+        "takes",
+        "tata"
+      ]
+    },
+    {
+      "at": "2026-09-17T01:31:32.125013+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Netrasemi pitches indigenous chips to Indian government for procurement",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN1c4dkxHOF9hUEo2N0IxMGJqRkhJNVppbGFlSHI4WlRFalJSQldBOWYzNmxPTUlmakkzY2lKT3hHcDZXX0VrdVRXMldyUWlISllEZV9EQkZiUHFEcktvU1dfT0pYb1ZCNEFVZWR5SWp1SGZidkd5RnhYVGFGOEs2THllZ0ZSV2ZfNmM1SHd1NXVXbWpEWi1tV2ZROWVydUd5RjAtOUR1UG9uU1oxOG1tNjNYYXlLOUhiUGFELTd4dTctZEpXclNTdWFuMzRQbzZWdWJyVHJIS2UwMGhHMFFqVkVCZHF6WXZu0gHuAUFVX3lxTE1LQnpXYWhkSldZQmtna25mcU5NUTliS3hfTmJ1WVE0R1IyTk9URVc0TXhtWUxmRURqdzhUYUl3cDk0UUg2a3VGS2FVSXl2eTFlcE9uT29XRHNtSk0yVGhBeXVIZVh5bWsxV0Yzb012ZnViS3hFYzhrOGFwbEVJeHQ1OEJfcU9OcGt5S0hkYUM2enlELVlIdkR5SmxzSFJjZzRuNzQxOF9HNDNfaUZRT2JPcmNFRXZuRnQxSmFPQ3pjVWFyRHluWGtHU28tU2NfRlNMSFpfZE5ENmJuUzNpbzA1YWlzaktTOEs2N0hNQ2c?oc=5",
+      "words": [
+        "chips",
+        "customers",
+        "government",
+        "indigenous",
+        "netrasemi",
+        "seeks"
+      ]
+    },
+    {
+      "at": "2026-09-17T01:31:32.125013+00:00",
+      "handle": "News: India fintech",
+      "headline": "Congress urges PM Modi to resist US pressure and roll back UPI charges",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTVFoWF9iZVlnUGVNV0FORDBEVEtfd00zYW5SUXM0S0tZYjN5UHdCQVpnM1BnLXFHWTRLaHFwVjlKMndocWtmTVFZcjBkemNJVmJwRVRzRXQ5UnVaUnBIVVpTdmlQSUxPWjJvc2FUY0NDb3lwcm1reUtyLW9TTWU5MjNwb2o0cHNETXlaM0ktMGZNTjlPcGF5V3ZkUnMwQTQ4Sk5SZDVBWVB5ZXdvU2Eyc2pNaVNqVEUzU3pTSWZFUjBxNVFCeXfSAcsBQVVfeXFMTWU0NFpYMllWZE41Y0tBV19UU3ZnSHFYdHBad25JRG4tRnR5aHZaY1lZZi1kZ3JzY0x5SHkwaDV1V3AwRkFRaklMUllBOTVsSHJid1VKYXZsSXM5dmszQlJ6TDFIVGEyb3hhRVJHaThydm9fSXBfaktrY0hXc1BDQ2RCYnNhLXhuX0NBVnBEUkRObk94RGVWSXFqVUVUTkVXRmtrb2hfTjBBcUxoUWI5ZkpkN3kyM3RIOVVOVnUyTGNBWWhjSkhSanZ6c3c?oc=5",
+      "words": [
+        "back",
+        "before",
+        "bow",
+        "charges",
+        "congress",
+        "don",
+        "modi",
+        "roll",
+        "states",
+        "united",
+        "upi",
+        "urges"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-17T06",
-  "last_success": "2026-09-17T01:16:07.883000+00:00",
+  "last_digest_hour": "2026-09-17T07",
+  "last_success": "2026-09-17T01:31:32.126030+00:00",
   "national": {
     "alerted": [
       {
@@ -7594,7 +7601,7 @@
       "CG-DL-E-17092026-276275",
       "CG-DL-E-17092026-276226"
     ],
-    "last_run": "2026-09-17T01:16:41.862362+00:00",
+    "last_run": "2026-09-17T01:31:54.526447+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7868,80 +7875,7 @@
       "gazette:CG-DL-E-17092026-276226"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "PM Modi lays foundation stone for UP semiconductor unit",
-      "post": {
-        "created_at": "2026-09-16T22:45:41+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789598741959",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "News On AIR",
-        "reposts": 0,
-        "text": "PM Modi lays foundation stone of a semiconductor manufacturing unit in Uttar Pradesh",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjNTNHFoMWEyam8tbEdqQmlSY3pkUEMta1JZMUNjRTAtVTVhSUZMNnBjdWJFd0txakFBRDJqZk01UUxIbVhHd3B5V1JpYThDNUJxS29PQjBxXzhVREV6Z3I2XzNCNWRuOHNRR0liRldIbUJnekI5UFdfRkNEanRJTzNjXzZ5dGpRbnZNVXZSdEI4Nk43eC1OSlc4VEtjR0l6c1NJRFZOQU5sMGNCLWFMMlpNdWpxV1ItUXR3eV9n?oc=5"
-      },
-      "queued_at": "2026-09-17T00:46:21.330030+00:00",
-      "score": 9.0,
-      "why": "Major manufacturing investment and government milestone in the semiconductor sector."
-    },
-    {
-      "headline": "Cadence sees rising Indian chip-design demand tied to Tata fab",
-      "post": {
-        "created_at": "2026-09-17T00:31:13+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789605073611",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "US-based Cadence sees India chip-design demand rising as Tata Electronics' fab takes shape",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNHl1d2dMQnE1aWVTSk9uRG9YS0xLMjg1Y0FBR0R5dm1MWmg4RXRXUHVIQzY3MTZpTlAwZExCMklSSC1KMG5XdEJnWlgwbEZ0WjJGOUlwZW9DcGJPSzZ2NzZyaVZicG5xSG5LM3JuUXN1RGdJQ0g1b3ZkV2w0dmppTVRwZTBGLXlQTXVBb3BybzB2cjJqZ1BIZktFS2Rfa3A2YlRscUVRNk9MM0hxOHpnUG9OS296b1ViMGJ1b0xsZDF0SFdMcGtHOHp5M0xITVFhWGtwM0FSLW44ZDBzOWtXcnRR0gHnAUFVX3lxTE9nbVFHZlVIeDM4ZmMtaGlBcHdpTzhZMFBCY0NpUEduZ0QtNWR6X1M5Yy1KQU9GX0VoWTl3cl9iVmgySG01bEdQa29zdjZMTXZ3cFhYbmw5ZEowam1JWjR0MFRmTVdlTVh2UE5PVEozWnY5QnJrS3VCTWZUT2xBeXBfeFNPc0V4T2stenBJOEM0WEV1WkN4WFVqUktxSWVucFg1MlpZVVkyQy10eDhlbk8tTXFIbU1TcDhPWE00a0R5QWRIYWVIQlh6QndQWHE0ZjJKSlV1T3hFZzMySDRXbjZxZ3NkaldsWQ?oc=5"
-      },
-      "queued_at": "2026-09-17T00:46:21.330030+00:00",
-      "score": 7.0,
-      "why": "Direct semiconductor industry development linking major design demand to the upcoming Tata fab."
-    },
-    {
-      "headline": "Netrasemi pitches indigenous chips to Indian government for procurement",
-      "post": {
-        "created_at": "2026-09-17T00:31:13+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1789605073364",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "Netrasemi seeks government as customers for its indigenous chips",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN1c4dkxHOF9hUEo2N0IxMGJqRkhJNVppbGFlSHI4WlRFalJSQldBOWYzNmxPTUlmakkzY2lKT3hHcDZXX0VrdVRXMldyUWlISllEZV9EQkZiUHFEcktvU1dfT0pYb1ZCNEFVZWR5SWp1SGZidkd5RnhYVGFGOEs2THllZ0ZSV2ZfNmM1SHd1NXVXbWpEWi1tV2ZROWVydUd5RjAtOUR1UG9uU1oxOG1tNjNYYXlLOUhiUGFELTd4dTctZEpXclNTdWFuMzRQbzZWdWJyVHJIS2UwMGhHMFFqVkVCZHF6WXZu0gHuAUFVX3lxTE1LQnpXYWhkSldZQmtna25mcU5NUTliS3hfTmJ1WVE0R1IyTk9URVc0TXhtWUxmRURqdzhUYUl3cDk0UUg2a3VGS2FVSXl2eTFlcE9uT29XRHNtSk0yVGhBeXVIZVh5bWsxV0Yzb012ZnViS3hFYzhrOGFwbEVJeHQ1OEJfcU9OcGt5S0hkYUM2enlELVlIdkR5SmxzSFJjZzRuNzQxOF9HNDNfaUZRT2JPcmNFRXZuRnQxSmFPQ3pjVWFyRHluWGtHU28tU2NfRlNMSFpfZE5ENmJuUzNpbzA1YWlzaktTOEs2N0hNQ2c?oc=5"
-      },
-      "queued_at": "2026-09-17T00:46:21.330030+00:00",
-      "score": 7.0,
-      "why": "Notable domestic deeptech startup commercialization move targeting state customers."
-    },
-    {
-      "headline": "Congress urges PM Modi to resist US pressure and roll back UPI charges",
-      "post": {
-        "created_at": "2026-09-17T00:58:02+00:00",
-        "handle": "News: India fintech",
-        "id": "1789606682647",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Telegraph India",
-        "reposts": 0,
-        "text": "Don't bow before United States: Congress urges PM Modi to roll back UPI charges",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTVFoWF9iZVlnUGVNV0FORDBEVEtfd00zYW5SUXM0S0tZYjN5UHdCQVpnM1BnLXFHWTRLaHFwVjlKMndocWtmTVFZcjBkemNJVmJwRVRzRXQ5UnVaUnBIVVpTdmlQSUxPWjJvc2FUY0NDb3lwcm1reUtyLW9TTWU5MjNwb2o0cHNETXlaM0ktMGZNTjlPcGF5V3ZkUnMwQTQ4Sk5SZDVBWVB5ZXdvU2Eyc2pNaVNqVEUzU3pTSWZFUjBxNVFCeXfSAcsBQVVfeXFMTWU0NFpYMllWZE41Y0tBV19UU3ZnSHFYdHBad25JRG4tRnR5aHZaY1lZZi1kZ3JzY0x5SHkwaDV1V3AwRkFRaklMUllBOTVsSHJid1VKYXZsSXM5dmszQlJ6TDFIVGEyb3hhRVJHaThydm9fSXBfaktrY0hXc1BDQ2RCYnNhLXhuX0NBVnBEUkRObk94RGVWSXFqVUVUTkVXRmtrb2hfTjBBcUxoUWI5ZkpkN3kyM3RIOVVOVnUyTGNBWWhjSkhSanZ6c3c?oc=5"
-      },
-      "queued_at": "2026-09-17T01:16:07.882729+00:00",
-      "score": 7.0,
-      "why": "Major political opposition statement on ongoing financial policy controversy."
-    }
-  ],
+  "news_queue": [],
   "seen": {
     "amd": 1788174900103,
     "apple": 1789567168839,
@@ -7985,14 +7919,14 @@
     "lenovo": 1789563644712,
     "meta": 1789574419436,
     "microsoft": 1789585198114,
-    "news: big tech platforms": 1789591567874,
-    "news: consumer internet india": 1789598335817,
+    "news: big tech platforms": 1789605005105,
+    "news: consumer internet india": 1789607925647,
     "news: global ai": 1789605840008,
-    "news: global chips": 1789604280784,
+    "news: global chips": 1789606980676,
     "news: global it services": 1789606631304,
     "news: india ai deeptech": 1789606396255,
     "news: india edtech gaming": 1789562091959,
-    "news: india fintech": 1789607153520,
+    "news: india fintech": 1789607880750,
     "news: india semiconductors": 1789605073611,
     "news: india tech policy": 1789602858435,
     "news: india telecom": 1789595284907,
