@@ -2,20 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-10T11:01:43.293639+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Analog Devices to acquire Alif Semiconductor for $1.35 billion",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13WjBJaExRb254eW9uMXdKdzlxbm55YjhZX0JnVl8wMVp0SVhDWFRPLXFVejhIckdjMG1VbzViX3h1WWtRMUlGVS1HVlpHNUotQ24zV0NUelYtRGdtTjRsNlBLcTQxQzJzZU9OdFhrVmV3LUplSkZ6Sy0wcWdhdw?oc=5",
-      "words": [
-        "acquire",
-        "adi",
-        "alif",
-        "billion",
-        "semiconductor"
-      ]
-    },
-    {
-      "at": "2026-09-10T11:01:43.293639+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Swiggy credits Snowflake for accelerating data workloads by 96%",
       "tier": 0,
@@ -7320,12 +7306,32 @@
         "upi",
         "urges"
       ]
+    },
+    {
+      "at": "2026-09-17T02:31:59.158332+00:00",
+      "handle": "News: Global AI",
+      "headline": "Broadcom CEO addresses Anthropic emerging as biggest custom-silicon client",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX2NBcHFhQVFPQTBUOXQwRkI2eTM5WjdsT04wcmtKNS1PYnkzanhXbkpEcmRaZXZaQURqM1RoZDFKdVREOS1OQld2YnVzRkVKNDNTTTQzaVR1RldkR1d0UkgtYlF5OHhuaXYxeWpfZDNLZUpqWEZqM0hSQjdMUzhXZWxmOUxzTGF4SjNpa2NUUnhNaThUb2FTN1hvUTFRNHhrZ1NzVHRJUTRGZnd2YWpBYW16OWp5VGo5Sm1UX1NnWERkVW5RY0VBV01oUktpbmdWWlI0angxTTJIWmNhT0hZ?oc=5",
+      "words": [
+        "anthropic",
+        "back",
+        "biggest",
+        "broadcom",
+        "ceo",
+        "chipmaker",
+        "client",
+        "custom",
+        "emerges",
+        "pushes",
+        "silicon"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-17T07",
-  "last_success": "2026-09-17T02:16:50.524602+00:00",
+  "last_digest_hour": "2026-09-17T08",
+  "last_success": "2026-09-17T02:31:59.158920+00:00",
   "national": {
     "alerted": [
       {
@@ -7601,7 +7607,7 @@
       "CG-DL-E-17092026-276275",
       "CG-DL-E-17092026-276226"
     ],
-    "last_run": "2026-09-17T02:17:19.668152+00:00",
+    "last_run": "2026-09-17T02:32:41.264447+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7921,13 +7927,13 @@
     "microsoft": 1789585198114,
     "news: big tech platforms": 1789608841019,
     "news: consumer internet india": 1789607925647,
-    "news: global ai": 1789609500708,
+    "news: global ai": 1789609837892,
     "news: global chips": 1789608738456,
     "news: global it services": 1789606631304,
     "news: india ai deeptech": 1789606396255,
     "news: india edtech gaming": 1789601295544,
-    "news: india fintech": 1789610913676,
-    "news: india semiconductors": 1789607698526,
+    "news: india fintech": 1789611300676,
+    "news: india semiconductors": 1789611440778,
     "news: india tech policy": 1789611113685,
     "news: india telecom": 1789608681953,
     "news: indian it majors": 1789609901610,
