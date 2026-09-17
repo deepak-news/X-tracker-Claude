@@ -7883,7 +7883,9 @@
       "pib:2311247",
       "pib:2311252",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63610"
-    ]
+    ],
+    "source_failures": {},
+    "sources": []
   },
   "news_queue": [
     {
