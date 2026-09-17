@@ -449,6 +449,13 @@ national:
       use; SEBI actions that affect ordinary investors
     - Elections, disasters, major accidents, and official responses to them
     - Landmark numbers: GDP, inflation, record achievements, milestones
+    - Weather warnings for heavy rain, cyclones or heatwaves affecting
+      large populations; exam results and dates for national exams
+    - Arrests or cases involving senior officials, politicians or large
+      sums; big corruption and fraud actions
+    - State government decisions that touch a large population or carry
+      national political weight -- a state cabinet's major scheme, not a
+      district review meeting
 
     LEAVE OUT:
     - Auctions, tenders, recovery orders and routine compliance notices
@@ -472,3 +479,24 @@ national:
     - {name: RBI, url: "https://www.rbi.org.in/pressreleases_rss.xml"}
     - {name: RBI notifications, url: "https://www.rbi.org.in/notifications_rss.xml"}
     - {name: SEBI, url: "https://www.sebi.gov.in/sebirss.xml"}
+    # Added 2026-09-17; none advertise their feed, each checked live.
+    - {name: NITI Aayog, url: "https://www.niti.gov.in/rss.xml"}
+    - {name: President of India, url: "https://www.presidentofindia.gov.in/rss.xml"}
+    - {name: "State: Maharashtra", url: "https://mahasamvad.in/feed/"}          # Marathi
+    - {name: "State: Telangana", url: "https://www.telangana.gov.in/feed/"}
+
+  # Official sites with no feed. The page is read and any release not there
+  # last time is new, then opened and read in full (most are PDFs) before
+  # the AI judges it. "match" says which links on the page are releases.
+  # A site added here only notes what it already lists on its first run.
+  # A site failing three runs running is skipped for six hours, then retried.
+  # All checked against the live sites on 2026-09-17.
+  pages:
+    - {name: PMO, url: "https://www.pmindia.gov.in/en/news-updates/", match: "^/en/news_updates/[^/]+"}
+    - {name: CBI, url: "https://cbi.gov.in/press-releases", match: "^/press-detail/"}
+    - {name: IMD, url: "https://internal.imd.gov.in/pages/press_release_mausam.php", match: "^/press_release/.+\\.pdf$"}
+    - {name: IRDAI, url: "https://irdai.gov.in/press-releases", match: "^/documents/37343/366347/"}
+    - {name: MHA, url: "https://www.mha.gov.in/en/media/whats-new", match: "^/sites/default/files/.+\\.pdf$"}
+    - {name: CBSE, url: "https://www.cbse.gov.in/cbsenew/cbse.html", match: "^/cbsenew/documents/.+\\.pdf$"}
+    - {name: "State: Uttar Pradesh", url: "https://information.up.gov.in/hi_cabinet-decision-new.aspx", match: "\\.pdf$"}   # cabinet decisions, Hindi
+    - {name: "State: Tamil Nadu", url: "https://www.tn.gov.in/press_release.php", match: "/press_release/.+\\.pdf$"}
