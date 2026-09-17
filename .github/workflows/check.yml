@@ -69,6 +69,8 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           WATCH_MAIL_TO: ${{ secrets.WATCH_MAIL_TO }}
           GAZETTE_MAIL_TO: ${{ secrets.GAZETTE_MAIL_TO }}
+          # Every reporter's own gazette list, one line per desk.
+          GAZETTE_DESKS: ${{ secrets.GAZETTE_DESKS }}
         run: |
           if [ "${{ inputs.mode }}" = "dry-run" ]; then
             python -m tracker.watch --dry-run
