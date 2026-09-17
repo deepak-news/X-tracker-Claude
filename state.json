@@ -7302,7 +7302,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T14",
-  "last_success": "2026-09-17T09:02:29.493176+00:00",
+  "last_success": "2026-09-17T09:16:53.040710+00:00",
   "national": {
     "alerted": [
       {
@@ -7785,7 +7785,7 @@
       "CG-DL-E-17092026-276284",
       "CG-DL-E-17092026-276281"
     ],
-    "last_run": "2026-09-17T09:03:35.333738+00:00",
+    "last_run": "2026-09-17T09:17:47.699721+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8369,7 +8369,10 @@
       "page:https://internal.imd.gov.in/press_release/20260820_pr_5247.pdf",
       "page:https://internal.imd.gov.in/press_release/20260817_pr_5239.pdf",
       "page:https://internal.imd.gov.in/press_release/20260806_pr_5212.pdf",
-      "page:https://internal.imd.gov.in/press_release/20260812_pr_5228.pdf"
+      "page:https://internal.imd.gov.in/press_release/20260812_pr_5228.pdf",
+      "pib:2311312",
+      "pib:2311309",
+      "pib:2311313"
     ],
     "source_failures": {
       "CBI": {
@@ -9413,17 +9416,17 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789631901955,
-    "news: consumer internet india": 1789629014929,
+    "news: consumer internet india": 1789635942986,
     "news: global ai": 1789628040414,
-    "news: global chips": 1789634580059,
+    "news: global chips": 1789636229146,
     "news: global it services": 1789633800976,
-    "news: india ai deeptech": 1789635293406,
+    "news: india ai deeptech": 1789635600406,
     "news: india edtech gaming": 1789628768025,
-    "news: india fintech": 1789635208725,
-    "news: india semiconductors": 1789634700970,
-    "news: india tech policy": 1789634700970,
-    "news: india telecom": 1789635255294,
-    "news: indian it majors": 1789635043247,
+    "news: india fintech": 1789636256077,
+    "news: india semiconductors": 1789636309809,
+    "news: india tech policy": 1789636197563,
+    "news: india telecom": 1789636233002,
+    "news: indian it majors": 1789636460094,
     "news: indian it midcaps": 1789628324521,
     "news: pib releases": 1789634040020,
     "news: tech leaders": 1789629060666,
