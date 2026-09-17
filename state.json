@@ -7316,7 +7316,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T16",
-  "last_success": "2026-09-17T10:46:59.984078+00:00",
+  "last_success": "2026-09-17T11:01:58.432658+00:00",
   "national": {
     "alerted": [
       {
@@ -7826,9 +7826,10 @@
       "CG-DL-E-17092026-276287",
       "CG-DL-E-17092026-276291",
       "CG-OR-E-17092026-276289",
-      "CG-OR-E-17092026-276290"
+      "CG-OR-E-17092026-276290",
+      "CG-OR-E-17092026-276288"
     ],
-    "last_run": "2026-09-17T10:48:52.654190+00:00",
+    "last_run": "2026-09-17T11:04:25.566837+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8439,7 +8440,12 @@
       "gazette:CG-OR-E-17092026-276290",
       "gazette:CG-DL-E-17092026-276287",
       "gazette:CG-OR-E-17092026-276289",
-      "gazette:CG-DL-E-17092026-276291"
+      "gazette:CG-DL-E-17092026-276291",
+      "pib:2311395",
+      "pib:2311392",
+      "pib:2311398",
+      "gazette:CG-OR-E-17092026-276288",
+      "pib:2311393"
     ],
     "source_failures": {
       "CBI": {
@@ -8490,6 +8496,24 @@
       "queued_at": "2026-09-17T10:46:59.983742+00:00",
       "score": 7.0,
       "why": "Senior industry executive statement regarding AI capabilities and frontier risks."
+    },
+    {
+      "headline": "Applied Materials and Lam Research unveil major India expansion plans",
+      "post": {
+        "created_at": "2026-09-17T10:41:57+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789641717791",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Swarajya",
+        "reposts": 0,
+        "text": "Global Semiconductor Chip Equipment Giants Applied Materials, Lam Research Unveil Major India Expansion Plans",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd0xjZ1NjN1FHYkg2UnkyYjVmalJSMzNYendpMW5Fc2hpXzd4Nm13bmRRQ3N1OEU3WnZlcnFqdGxDVDRpUzRLRjA5TkNTWVI0Q3JiOExrc3NiVzZpYXdRTW9iOHFfdVVtMEtjcFhsLWRybTZHbXhSMGlCOGdQMVYxekUtSlAxaW1uN0pvTk95cXNqeTRrRzUyTGpyd0NyMHdyajQ1emtCdnkwdklhaGd6OTFWYTJYX3RrNlkwc1Q5aHdTWDlzOC1oQzl1ZjloSXZoTWdxUVU1eHrSAegBQVVfeXFMTUhuMlRTQVJaaHVCZVJKX2dMRlpXcFhJUS1aWFV6dkcyX0xPRXJjTXdLcXB4MFZiNHJwWHpaRVY5RDRZU19IbF84MFNRMW5WMTNfeFNZNVJWaGZxcVhzQ2VBVFVVdnQ2TVJtNHh2Mm1kLU9xWXZZaWREcHNfdms1eXFvY1ROWV9Xd1hjRkdFdDVqbzFQY3NxZFZ2Mi1tNUctUTRVOURHNzFHVEowd2xVVEttMkxCcEdnODlUVThabUZfb0I2SW1ubGFGLUJmenJZSTgxay1JYjhMR1FoM3BZOHZaS3pfOFBzQQ?oc=5"
+      },
+      "queued_at": "2026-09-17T11:01:58.432306+00:00",
+      "score": 8.0,
+      "why": "Major semiconductor equipment capex commitments in India are critical wire stories."
     }
   ],
   "page_links": {
@@ -9448,18 +9472,18 @@
     "microsoft india": 1789552630084,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789637280180,
-    "news: consumer internet india": 1789640991643,
-    "news: global ai": 1789641958775,
-    "news: global chips": 1789640933075,
+    "news: big tech platforms": 1789641890484,
+    "news: consumer internet india": 1789642279860,
+    "news: global ai": 1789642115631,
+    "news: global chips": 1789642142635,
     "news: global it services": 1789638338745,
-    "news: india ai deeptech": 1789641631366,
+    "news: india ai deeptech": 1789641675366,
     "news: india edtech gaming": 1789628768025,
-    "news: india fintech": 1789640068033,
-    "news: india semiconductors": 1789640924821,
-    "news: india tech policy": 1789638094270,
+    "news: india fintech": 1789642415856,
+    "news: india semiconductors": 1789641717791,
+    "news: india tech policy": 1789641240946,
     "news: india telecom": 1789641540826,
-    "news: indian it majors": 1789641603391,
+    "news: indian it majors": 1789642500911,
     "news: indian it midcaps": 1789634359825,
     "news: pib releases": 1789634040020,
     "news: tech leaders": 1789629060666,
@@ -9475,6 +9499,7 @@
     "redseer": 1789637516540,
     "salesforce": 1789570829681,
     "samsung": 1789592400379,
+    "samsung india": 1789642074299,
     "sarvam ai": 1789631206990,
     "swiggy": 1789214456821,
     "tata electronics": 1789631219893,
