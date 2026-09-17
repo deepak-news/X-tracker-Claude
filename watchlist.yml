@@ -4,6 +4,31 @@
 #  without touching a single line of code.
 # ============================================================
 
+# --- The names people see on each kind of email ---------------
+# Shown as the sender and at the top of the email. The emails still come from
+# the same Gmail address; only the name changes. Recipients are blind-copied,
+# so nobody sees anyone else's address.
+mail_names:
+  tech_desk: "For Tech Desk"                  # IT-beat alerts and the hourly digest (MAIL_TO)
+  government_watch: "DoPT, MHA & ED Watch"    # DoPT orders, MHA gazettes, ED pages (WATCH_MAIL_TO)
+  national_desk: "Alerts for Tweets"          # screened official news (SOCIAL_MAIL_TO)
+  maintenance: "Tracker Maintenance"          # "tracker stopped", watchdog (ADMIN_MAIL_TO, else MAIL_TO)
+  # The five-ministry gazette watch sets its own name further down ("mail_name").
+
+# --- Staying inside Gmail's daily sending limit --------------
+# Gmail lets one account reach about 500 recipients in any rolling 24 hours;
+# an email to four people counts as four. Every email sent is counted.
+#   past warn_at   -> you are emailed once, and Tech Desk and Tweets carry only
+#                     MAJOR items (9-10/10); the hourly digest waits
+#   past daily_limit minus keep_free -> everything but maintenance mail is
+#                     held and sent later, once there is room
+# keep_free covers what the counter cannot see: the DoPT check on the Mac,
+# which sends from the same account, and any test emails.
+mail_budget:
+  daily_limit: 500
+  warn_at: 400
+  keep_free: 30
+
 # --- What counts as newsworthy -------------------------------
 # This is the instruction the AI reads every time it judges a post.
 # Edit it freely; it is plain English on purpose.
@@ -406,6 +431,21 @@ watch:
     - name: e-Gazette - MHA extraordinary
       category: 6
       ministry: "Home Affairs"
+
+    # The same gazette list, read in the same check, for a second person.
+    # "mail_to" names the GitHub secret holding their address; this watch
+    # stays switched off until that secret exists. Its first run only notes
+    # what is already listed.
+    - name: e-Gazette - Home, Finance, Defence, Law, I&B
+      category: 6
+      ministries:
+        - "Ministry of Home Affairs"
+        - "Ministry of Finance"
+        - "Ministry of Defence"
+        - "Ministry of Law"                        # covers "Law and Justice"
+        - "Ministry of Information and Broadcasting"
+      mail_to: GAZETTE_MAIL_TO
+      mail_name: "Gazette Alerts"
 
   # Pages expected to stay IDENTICAL for weeks. Their content is
   # fingerprinted; when it moves, the lines that changed are emailed.
