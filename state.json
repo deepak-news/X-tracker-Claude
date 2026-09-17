@@ -7316,7 +7316,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T12",
-  "last_success": "2026-09-17T06:33:21.870679+00:00",
+  "last_success": "2026-09-17T06:46:28.482387+00:00",
   "national": {
     "alerted": [
       {
@@ -7597,7 +7597,7 @@
       "SG-DL-E-17092026-276276",
       "SG-DL-E-17092026-276277"
     ],
-    "last_run": "2026-09-17T06:34:05.237589+00:00",
+    "last_run": "2026-09-17T06:49:39.103992+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7884,10 +7884,84 @@
       "pib:2311199",
       "pib:2311201",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63609",
-      "pib:2311202"
+      "pib:2311202",
+      "pib:2311218"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Apple manufactures iPhone 18 Pro in India for global shipping.",
+      "post": {
+        "created_at": "2026-09-17T06:32:14+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1789626734892",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Indiatoday",
+        "reposts": 0,
+        "text": "iPhone 18 Pro is made in India, Apple shipping globally including US on charter planes",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR0ZaTGVSMjBCXzY0dG5hQXBONmlhVXlIS2Z0MkRtdWhTUFFObWFINE1oVVhvVmlxdDFQUWl4V09mRHgwWU5UXzY2TFBCRGZsQWg1cWJrdHpTLU1kaG1SenZhRXdGZnNKbWt0NkJyVUpKTTI1Tnl2UXFtZXJTaV9qc3FHTk4zdHVsZ2ZidUpudUpuczJFd21ZUGt5SXhWYmhLVXFnNEtaM19CMXdfeTdoSnpRaXBYc0NidTlXRXhBR1dhcHZYbEY3RVJsS2J0a2F3eEdoMXhEUjlTMjV5VHM5RnoyaE5SdDDSAewBQVVfeXFMUGt4Zk1DMUxuYXNqWkVKZDVYb1M5azRtTFBXN2Zka3JmM0JnNWRKZWV2R0R4SjFzUGpyLVllX3ZMT0tNellwQ2tyUmx3cUtGcERNUkdURXJpVk9Va0NTTWU1a200cUE1ZWlqMk5BenZUdjZId1BSQ2hoU2JJU1VCOXE4RW9tQnlkbWJNeGlJUW5JVGtkdktzRXgzeHRIdUhfeFZwOXN4eDhrbGFGcWtJTFNaeDNlTnRRdzZ1NGM5dkxQMXlEaWVTdkdmMEJieHkxSmMyYm9ydksxdzUxVmg3TE9FLU1zbXBlYk5XWFE?oc=5"
+      },
+      "queued_at": "2026-09-17T06:46:28.482044+00:00",
+      "score": 8.0,
+      "why": "This is a major hardware manufacturing and export milestone for Apple's India operations."
+    },
+    {
+      "headline": "Micron expands India chip output target to hundreds of millions in 2027.",
+      "post": {
+        "created_at": "2026-09-17T06:27:59+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789626479654",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "Micron\u2019s India chip output to jump from tens of millions to hundreds of millions in 2027",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYThWanZ6bXFKR0QzQ0gzc1NvMmI2NXhvekd1N3hLWjk4blh4RVF4SzlYT09iaDlWUGp0T0J1Xy1FbHQ5S2szdWNpb05VaHQzWmZNY3J5eGZDUVQtbkhURzVyMXdnUVR4ZDJLa09EZEU2YTVhWXNHYVlTZ3lHNkNOZWsxamJhZUpIZ2NYVkhBV1lnMDFTcmRqcnJNWlNTMTdWd245QjFwZk5IWlNyUTdkQTVxSTViWXJ2UVJnQ1F1Yi1manRvOWgxMTZ6ODN3QnEzZFo5ZjJwNWJQbkFXWWfSAeMBQVVfeXFMUHYxU0ZjakxFTld1QV9Rd1ZxNTRNUWEzMFlFbW5jSHVUSWJuQ24tREEtVEJqc1dzUGVWbmxLTUlDelNyUWdWNVVUTGdyYVJwQkV1STZydUcyUnBUeV9PTndabFJ3UXlhXzMyTmFGUFVUdy1XV2VBR2ItemRUWWJwLVVvcGRxdjZ6d2o1bVoteVM5TUU2c0tsUW1JVTM5eEZub3Nmb3lzMFNEaGFzYUNBeUJRa21iM1Q0eUZyTVp4SkZTWkNCOFE1OEJHR0FqV1dMUVd4cGNwZ2RpalVPazZpRzZCd1E?oc=5"
+      },
+      "queued_at": "2026-09-17T06:46:28.482044+00:00",
+      "score": 7.0,
+      "why": "This provides new specific production scale numbers expanding on previous Micron announcements."
+    },
+    {
+      "headline": "Axis Bank and Cognizant partner for AMS 2.0 application management.",
+      "post": {
+        "created_at": "2026-09-17T06:31:09+00:00",
+        "handle": "News: Global IT services",
+        "id": "1789626669553",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Marketscreener",
+        "reposts": 0,
+        "text": "Axis Bank and Cognizant Collaborate to Strengthen Application Management with AMS 2.0",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObFFmMUZnTWEycXZvaHJjem5tcGgwbTA4Ujlza2lNV1pMYmdYZ2VtRUwwRnRhZVBTSC1HMi0yZllBaE94NU1DNnFZaV83NWFzTXVBUXB4OVFnc001b2x1QU9McjgzTFhvbGtzTFZ0RlJuVGhWT3lZcVgwWkU5RlVHZTd4VlpGWjQ2bWtyMzBjNHdLOEVJbGVMclVZcVRQbGpIT0ZfSTZkNUFMbVNlU2c2ZjM1aThFM0wzZDQzXzJDNmZDRXo0WlZSU3ZfR180U29GRWN4YQ?oc=5"
+      },
+      "queued_at": "2026-09-17T06:46:28.482044+00:00",
+      "score": 7.0,
+      "why": "This is a confirmed major IT services contract between a large Indian bank and a global firm."
+    },
+    {
+      "headline": "ASML plans expansion of India supply chain and engineering capabilities.",
+      "post": {
+        "created_at": "2026-09-17T06:33:30+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789626810541",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BW Businessworld",
+        "reposts": 0,
+        "text": "ASML Looks To Expand India Supply Chain, Engineering Capabilities",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXhuQ0tmby1zSGNwdExTQ0d4SDh3a2d5bGJaeGNwVFgwdHNKR2k2X0hyd0tINzVYdGdYaWFzcFRwUzRfVlNNSnItQlZMOVd5UDJETUhPRDJhdWR4Z2ZIeEJ6Ml96bmR1SHh3QTNMMDdJS3BwaEpqS0JXZ3pkcy1zVlpPNTJqSlZDMzhib19DYUs5eTZDemNfVmN4WTlRZ3JaUi1rVTdSTW55Zm1z?oc=5"
+      },
+      "queued_at": "2026-09-17T06:46:28.482044+00:00",
+      "score": 7.0,
+      "why": "This is a significant semiconductor ecosystem development involving a major lithography equipment maker."
+    }
+  ],
   "seen": {
     "amd": 1788174900103,
     "apple": 1789567168839,
@@ -7931,21 +8005,21 @@
     "lenovo": 1789563644712,
     "meta": 1789574419436,
     "microsoft": 1789585198114,
-    "news: big tech platforms": 1789625306827,
+    "news: big tech platforms": 1789626734892,
     "news: consumer internet india": 1789625073375,
-    "news: global ai": 1789624534745,
+    "news: global ai": 1789626988628,
     "news: global chips": 1789624685592,
-    "news: global it services": 1789626259887,
+    "news: global it services": 1789626804532,
     "news: india ai deeptech": 1789622434813,
     "news: india edtech gaming": 1789601295544,
-    "news: india fintech": 1789626040583,
-    "news: india semiconductors": 1789626443916,
+    "news: india fintech": 1789626386860,
+    "news: india semiconductors": 1789627140202,
     "news: india tech policy": 1789625907673,
     "news: india telecom": 1789625844135,
-    "news: indian it majors": 1789626192844,
-    "news: indian it midcaps": 1789621871629,
+    "news: indian it majors": 1789627168025,
+    "news: indian it midcaps": 1789622280972,
     "news: pib releases": 1789617224517,
-    "news: tech leaders": 1789619760962,
+    "news: tech leaders": 1789627282800,
     "nvidia": 1789570848396,
     "openai": 1789578000307,
     "pib communications": 2310616,
