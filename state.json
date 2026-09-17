@@ -1,26 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-10T16:16:35.920866+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "TCS reports SaaS growth, AI launch, and board approvals",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS3VNV3hSRERTOGk0VEFIelJ5M0UtcWV6emk2aWtSRWRlSGNkZHluLXI0dTlGZkM1Z3JCekdRVG9GdVAwcGQ4aW1tYjBhTTFiRzhlalp0T09IaHphSy1zYXp5YVAtQ3AwMVprS0l0b0ZVRFQ1eWVLM0lTV0NGNVR0SUNNX09SM3ZFVmRDd3lqWFUxdGlCdjVEcWM4NDE2OEk2dkR1S0FwWmFYYi1Zcm1PclRNRjFoTVo1QlJHc1kzdFljZ2VNRFVGQk1MSkMtYVNHQzlfdE5OazF0Y2xkTlkxN3IxR2tvX2NyUUhpTEhCbmN0NzZrNW5sOEhuUGpUZw?oc=5",
-      "words": [
-        "all",
-        "approved",
-        "board",
-        "focus",
-        "growth",
-        "healthcare",
-        "launch",
-        "proposals",
-        "record",
-        "saas",
-        "tcs"
-      ]
-    },
-    {
       "at": "2026-09-10T16:46:19.707376+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Meesho schedules in-person investor meet for September 16, 2026",
@@ -7310,12 +7290,35 @@
         "one",
         "tools"
       ]
+    },
+    {
+      "at": "2026-09-17T10:17:08.178615+00:00",
+      "handle": "BSE Wipro",
+      "headline": "Wipro launches STO360 solution in collaboration with Aramco and SAP",
+      "tier": 2,
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/95eba4b4-015b-4593-9f05-f59f4908668b.pdf",
+      "words": [
+        "aramco",
+        "attached",
+        "collaborates",
+        "efficient",
+        "filing",
+        "find",
+        "full",
+        "launch",
+        "management",
+        "outage",
+        "please",
+        "press",
+        "release",
+        "sap"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T15",
-  "last_success": "2026-09-17T10:02:38.289927+00:00",
+  "last_success": "2026-09-17T10:17:08.511033+00:00",
   "national": {
     "alerted": [
       {
@@ -7796,9 +7799,11 @@
       "CG-DL-E-17092026-276282",
       "CG-DL-E-17092026-276283",
       "CG-DL-E-17092026-276284",
-      "CG-DL-E-17092026-276281"
+      "CG-DL-E-17092026-276281",
+      "CG-DL-E-17092026-276286",
+      "CG-OR-E-17092026-276285"
     ],
-    "last_run": "2026-09-17T10:03:35.221375+00:00",
+    "last_run": "2026-09-17T10:18:55.730056+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8391,7 +8396,11 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-semicon-india-2026",
       "pib:2311316",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-remarks-during-the-release-of-instalment-under-the-annapurna-yojana-in-west-bengal-via-vc",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-the-inauguration-of-semicon-india-2026"
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-the-inauguration-of-semicon-india-2026",
+      "pib:2311342",
+      "pib:2311348",
+      "gazette:CG-DL-E-17092026-276286",
+      "gazette:CG-OR-E-17092026-276285"
     ],
     "source_failures": {
       "CBI": {
@@ -9417,7 +9426,7 @@
     "bse tech mahindra": 1789578907938,
     "bse urban company": 1789573707481,
     "bse vodafone idea": 1789581151844,
-    "bse wipro": 1788971859134,
+    "bse wipro": 1789659404681,
     "bse zaggle": 1788981416807,
     "capgemini": 1789624183482,
     "cognizant": 1789631208737,
@@ -9441,13 +9450,13 @@
     "news: global ai": 1789636606215,
     "news: global chips": 1789638224492,
     "news: global it services": 1789638338745,
-    "news: india ai deeptech": 1789636163750,
+    "news: india ai deeptech": 1789639621965,
     "news: india edtech gaming": 1789628768025,
-    "news: india fintech": 1789638256683,
-    "news: india semiconductors": 1789639228019,
+    "news: india fintech": 1789639705119,
+    "news: india semiconductors": 1789639848151,
     "news: india tech policy": 1789638094270,
     "news: india telecom": 1789639095962,
-    "news: indian it majors": 1789638571103,
+    "news: indian it majors": 1789639366798,
     "news: indian it midcaps": 1789634359825,
     "news: pib releases": 1789634040020,
     "news: tech leaders": 1789629060666,
@@ -9458,7 +9467,7 @@
     "phonepe": 1789631207660,
     "pib communications": 2311244,
     "pib meity": 2310855,
-    "pib science and technology": 2311269,
+    "pib science and technology": 2311342,
     "razorpay": 1789539311308,
     "redseer": 1789637516540,
     "salesforce": 1789570829681,
@@ -9601,7 +9610,15 @@
     "seen": [
       "gazette:CG-DL-E-09092026-276081",
       "gazette:CG-DL-E-16092026-276236",
-      "gazette:CG-DL-E-16092026-276259"
+      "gazette:CG-DL-E-16092026-276259",
+      "gazette:CG-DL-E-17092026-276226|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-16092026-276261|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-16092026-276260|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-16092026-276259|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-16092026-276258|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-16092026-276236|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-15092026-276227|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-15092026-276195|GAZETTE_MAIL_TO"
     ]
   }
 }
