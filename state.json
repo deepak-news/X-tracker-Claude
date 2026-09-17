@@ -7318,7 +7318,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T06",
-  "last_success": "2026-09-17T01:01:35.966714+00:00",
+  "last_success": "2026-09-17T01:16:07.883000+00:00",
   "national": {
     "alerted": [
       {
@@ -7594,7 +7594,7 @@
       "CG-DL-E-17092026-276275",
       "CG-DL-E-17092026-276226"
     ],
-    "last_run": "2026-09-17T01:01:55.550053+00:00",
+    "last_run": "2026-09-17T01:16:41.862362+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -7922,6 +7922,24 @@
       "queued_at": "2026-09-17T00:46:21.330030+00:00",
       "score": 7.0,
       "why": "Notable domestic deeptech startup commercialization move targeting state customers."
+    },
+    {
+      "headline": "Congress urges PM Modi to resist US pressure and roll back UPI charges",
+      "post": {
+        "created_at": "2026-09-17T00:58:02+00:00",
+        "handle": "News: India fintech",
+        "id": "1789606682647",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Telegraph India",
+        "reposts": 0,
+        "text": "Don't bow before United States: Congress urges PM Modi to roll back UPI charges",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTVFoWF9iZVlnUGVNV0FORDBEVEtfd00zYW5SUXM0S0tZYjN5UHdCQVpnM1BnLXFHWTRLaHFwVjlKMndocWtmTVFZcjBkemNJVmJwRVRzRXQ5UnVaUnBIVVpTdmlQSUxPWjJvc2FUY0NDb3lwcm1reUtyLW9TTWU5MjNwb2o0cHNETXlaM0ktMGZNTjlPcGF5V3ZkUnMwQTQ4Sk5SZDVBWVB5ZXdvU2Eyc2pNaVNqVEUzU3pTSWZFUjBxNVFCeXfSAcsBQVVfeXFMTWU0NFpYMllWZE41Y0tBV19UU3ZnSHFYdHBad25JRG4tRnR5aHZaY1lZZi1kZ3JzY0x5SHkwaDV1V3AwRkFRaklMUllBOTVsSHJid1VKYXZsSXM5dmszQlJ6TDFIVGEyb3hhRVJHaThydm9fSXBfaktrY0hXc1BDQ2RCYnNhLXhuX0NBVnBEUkRObk94RGVWSXFqVUVUTkVXRmtrb2hfTjBBcUxoUWI5ZkpkN3kyM3RIOVVOVnUyTGNBWWhjSkhSanZ6c3c?oc=5"
+      },
+      "queued_at": "2026-09-17T01:16:07.882729+00:00",
+      "score": 7.0,
+      "why": "Major political opposition statement on ongoing financial policy controversy."
     }
   ],
   "seen": {
@@ -7971,10 +7989,10 @@
     "news: consumer internet india": 1789598335817,
     "news: global ai": 1789605840008,
     "news: global chips": 1789604280784,
-    "news: global it services": 1789605378565,
+    "news: global it services": 1789606631304,
     "news: india ai deeptech": 1789606396255,
     "news: india edtech gaming": 1789562091959,
-    "news: india fintech": 1789605304470,
+    "news: india fintech": 1789607153520,
     "news: india semiconductors": 1789605073611,
     "news: india tech policy": 1789602858435,
     "news: india telecom": 1789595284907,
@@ -7993,14 +8011,14 @@
   "watch": {
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-16T23:02:26.048614+00:00",
+        "checked": "2026-09-17T01:16:33.138808+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-16T23:02:18.495793+00:00",
+        "checked": "2026-09-17T01:16:25.335610+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -8076,7 +8094,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-16T23:02:22.190855+00:00",
+        "checked": "2026-09-17T01:16:29.283894+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
