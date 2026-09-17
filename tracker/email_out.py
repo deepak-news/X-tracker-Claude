@@ -39,6 +39,25 @@ def mail_name(kind: str) -> str:
     return str(names.get(kind) or DEFAULT_NAMES.get(kind) or "Alerts")
 
 
+# Reporters' own gazette lists all live in ONE secret, a line per desk:
+#     law: someone@pti.in, other@gmail.com
+# and a watch points at a line as "GAZETTE_DESKS:law". Adding a reporter
+# then means editing that secret and watchlist.yml, never the workflow.
+DESKS_ENV = "GAZETTE_DESKS"
+
+
+def recipient_setting(name: str) -> str:
+    """A recipient list by name, or "" if it is not set."""
+    if ":" not in name:
+        return os.environ.get(name, "").strip()
+    secret, desk = name.split(":", 1)
+    for line in os.environ.get(secret, "").splitlines():
+        label, _, addresses = line.partition(":")
+        if label.strip().lower() == desk.strip().lower():
+            return addresses.strip()
+    return ""
+
+
 def _credentials(recipient_env: str = RECIPIENT_ENV):
     """The sending account, plus whichever recipient list was asked for.
 
@@ -48,7 +67,7 @@ def _credentials(recipient_env: str = RECIPIENT_ENV):
     """
     sender = os.environ.get(SENDER_ENV, "").strip()
     password = os.environ.get(PASSWORD_ENV, "").strip()
-    recipient = os.environ.get(recipient_env, "").strip()
+    recipient = recipient_setting(recipient_env)
     if not recipient and recipient_env == ADMIN_ENV:
         recipient = os.environ.get(RECIPIENT_ENV, "").strip()
     # The list may hold several addresses, separated by commas or newlines.

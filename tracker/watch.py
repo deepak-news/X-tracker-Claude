@@ -582,8 +582,8 @@ def run(dry_run: bool) -> int:
         if not entry.get("home_only") and at_home:
             continue
         recipient = entry.get("mail_to") or RECIPIENT_ENV
-        if recipient != RECIPIENT_ENV and not os.environ.get(recipient, "").strip():
-            print(f"  {entry['name']}: no {recipient} secret set yet, skipping")
+        if recipient != RECIPIENT_ENV and not email_out.recipient_setting(recipient):
+            print(f"  {entry['name']}: no addresses for {recipient} yet, skipping")
             continue
         if entry["name"] not in introduced and not first_ever:
             quiet.add(entry["name"])
