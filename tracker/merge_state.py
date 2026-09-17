@@ -36,6 +36,18 @@ def merge_watch(ours: dict, theirs: dict) -> dict:
         if snapshot.get("checked", "") >= current.get("checked", ""):
             pages[url] = snapshot
     merged["pages"] = pages
+
+    # Which watches have been introduced, and every gazette looked at. Both
+    # only grow. Losing "introduced" here made a watch for a new recipient
+    # count as brand new on every run, so it noted gazettes and never sent.
+    merged["introduced"] = sorted(set(theirs.get("introduced") or [])
+                                  | set(ours.get("introduced") or []))
+    merged["scanned"] = sorted(set(theirs.get("scanned") or [])
+                               | set(ours.get("scanned") or []))[-2000:]
+    for field in ("last_server_run", "last_home_run"):
+        latest = max(theirs.get(field, ""), ours.get(field, ""))
+        if latest:
+            merged[field] = latest
     return merged
 
 

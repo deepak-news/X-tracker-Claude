@@ -557,9 +557,21 @@ def run(dry_run: bool) -> int:
     # recipient the whole backlog. A memory from before this list existed
     # already covers every watch that sends to the original recipient.
     uploads = cfg.get("uploads") or []
+    catch_up = set()
     if "introduced" not in memory:
         memory["introduced"] = [e["name"] for e in uploads
                                 if (e.get("mail_to") or RECIPIENT_ENV) == RECIPIENT_ENV]
+        # Saving used to drop this list, so a watch for another recipient was
+        # introduced again on every run: its gazettes were noted, never sent.
+        # Its keys in memory are therefore all unsent. Forget them once, so
+        # everything still listed goes out now, and count it as introduced.
+        for entry in uploads:
+            recipient = entry.get("mail_to") or RECIPIENT_ENV
+            suffix = f"|{recipient}"
+            if recipient != RECIPIENT_ENV and any(k.endswith(suffix) for k in seen):
+                seen[:] = [k for k in seen if not k.endswith(suffix)]
+                memory["introduced"].append(entry["name"])
+                catch_up.add(recipient)
     introduced = set(memory["introduced"])
     quiet = set()
 
@@ -642,6 +654,9 @@ def run(dry_run: bool) -> int:
         name = names.get(recipient) or email_out.mail_name("government_watch")
         # The DoPT gap note means nothing to someone who only gets gazettes.
         note = gap_note if any(i.key.startswith("dopt:") for i in items) else ""
+        if recipient in catch_up:
+            note = ("A fault stopped these gazettes being sent when they were "
+                    "published. It is fixed; new gazettes will arrive as usual.")
         subject, body = build_email(items, note, name)
         if dry_run:
             print(f"\n(dry run) would have emailed {recipient}: {subject}")
