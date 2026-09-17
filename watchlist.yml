@@ -447,6 +447,29 @@ watch:
       mail_to: GAZETTE_MAIL_TO
       mail_name: "Gazette Alerts"
 
+    # ---------------------------------------------------------------
+    #  REPORTERS' OWN GAZETTE ALERTS
+    #  One block per reporter (or per group of reporters who want the
+    #  same ministries). All of them share the one gazette read above,
+    #  so adding more costs no extra visits to the gazette site.
+    #
+    #  Addresses are NOT written here -- this file is public. They go in
+    #  the GitHub secret GAZETTE_DESKS, one line per desk:
+    #      law: reporter@pti.in, deepak@gmail.com
+    #  and "mail_to" below points at that line: GAZETTE_DESKS:law
+    #
+    #  To add a reporter: copy the example, remove the # at the start of
+    #  each line, change the name, ministries and desk label, then add the
+    #  matching line to GAZETTE_DESKS. The first run only notes what is
+    #  already listed; alerts start from the next gazette.
+    # ---------------------------------------------------------------
+    # - name: e-Gazette - Law ministry
+    #   category: 6
+    #   ministries:
+    #     - "Ministry of Law"
+    #   mail_to: GAZETTE_DESKS:law
+    #   mail_name: "Law Ministry Gazettes"
+
   # Pages expected to stay IDENTICAL for weeks. Their content is
   # fingerprinted; when it moves, the lines that changed are emailed.
   pages:
@@ -499,6 +522,27 @@ national:
     - State government decisions that touch a large population or carry
       national political weight -- a state cabinet's major scheme, not a
       district review meeting
+
+    GAZETTE NOTIFICATIONS: judge by what the notification DOES, which the
+    text below the title shows. Titles are often dry ("Amendment of
+    notification dated 7 January") while the change is real news. SEND a
+    gazette that:
+    - changes the census, elections, delimitation, the NPR or voter rolls,
+      even if only for a few districts or one state
+    - brings an Act or major new rules into force, or sets a date by which
+      people must do something
+    - bans or designates an organisation or person as terrorist or
+      unlawful; imposes, extends or lifts AFSPA, "disturbed area" status
+      or President's Rule
+    - appoints or removes heads or members of constitutional and
+      regulatory bodies (Election Commission, CAG, UPSC, RBI, SEBI, TRAI),
+      or judges of the Supreme Court and High Courts
+    - changes taxes, duties or prices that ordinary people pay
+    Gazettes that are routine and score 4 at most: fortnightly tariff
+    values and exchange rates, highway land acquisition and toll notices,
+    railway land and project notices, cantonment boards, honorary ranks,
+    recruitment rules for a single post, one product's customs or excise
+    amendment, standards (BIS) notices.
 
     LEAVE OUT:
     - Auctions, tenders, recovery orders and routine compliance notices
