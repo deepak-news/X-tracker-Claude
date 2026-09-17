@@ -7313,7 +7313,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-17T17",
-  "last_success": "2026-09-17T11:32:49.574074+00:00",
+  "last_success": "2026-09-17T11:47:01.852761+00:00",
   "national": {
     "alerted": [
       {
@@ -7826,7 +7826,7 @@
       "CG-OR-E-17092026-276290",
       "CG-OR-E-17092026-276288"
     ],
-    "last_run": "2026-09-17T11:33:58.712455+00:00",
+    "last_run": "2026-09-17T11:47:46.631661+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8445,7 +8445,10 @@
       "pib:2311393",
       "pib:2311424",
       "pib:2311428",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63614"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63614",
+      "pib:2311453",
+      "pib:2311440",
+      "pib:2311451"
     ],
     "source_failures": {
       "CBI": {
@@ -9438,15 +9441,15 @@
     "news: big tech platforms": 1789644252652,
     "news: consumer internet india": 1789643969388,
     "news: global ai": 1789643160342,
-    "news: global chips": 1789643571974,
+    "news: global chips": 1789644790644,
     "news: global it services": 1789638338745,
     "news: india ai deeptech": 1789643851687,
     "news: india edtech gaming": 1789642914433,
-    "news: india fintech": 1789644075729,
-    "news: india semiconductors": 1789643639595,
+    "news: india fintech": 1789645504924,
+    "news: india semiconductors": 1789645135767,
     "news: india tech policy": 1789641240946,
-    "news: india telecom": 1789641540826,
-    "news: indian it majors": 1789644481741,
+    "news: india telecom": 1789644759546,
+    "news: indian it majors": 1789644556202,
     "news: indian it midcaps": 1789634359825,
     "news: pib releases": 1789641180014,
     "news: tech leaders": 1789643783892,
@@ -9457,7 +9460,7 @@
     "phonepe": 1789631207660,
     "pib communications": 2311244,
     "pib meity": 2310855,
-    "pib science and technology": 2311342,
+    "pib science and technology": 2311451,
     "razorpay": 1789539311308,
     "redseer": 1789637516540,
     "salesforce": 1789570829681,
