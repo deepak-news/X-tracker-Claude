@@ -449,8 +449,11 @@ national:
       use; SEBI actions that affect ordinary investors
     - Elections, disasters, major accidents, and official responses to them
     - Landmark numbers: GDP, inflation, record achievements, milestones
-    - Weather warnings for heavy rain, cyclones or heatwaves affecting
-      large populations; exam results and dates for national exams
+    - SEVERE weather only: red alerts, cyclones, cloudbursts, extreme
+      heatwaves, monsoon onset or withdrawal, and seasonal outlooks. NOT the
+      routine daily "heavy rainfall likely" bulletins IMD issues most days
+      in the monsoon -- those score 4 at most
+    - Exam results and dates for national exams
     - Arrests or cases involving senior officials, politicians or large
       sums; big corruption and fraud actions
     - State government decisions that touch a large population or carry
@@ -494,9 +497,11 @@ national:
   pages:
     - {name: PMO, url: "https://www.pmindia.gov.in/en/news-updates/", match: "^/en/news_updates/[^/]+"}
     - {name: CBI, url: "https://cbi.gov.in/press-releases", match: "^/press-detail/"}
-    - {name: IMD, url: "https://internal.imd.gov.in/pages/press_release_mausam.php", match: "^/press_release/.+\\.pdf$"}
+    - {name: IMD, url: "https://internal.imd.gov.in/pages/press_release_mausam.php", match: "^/press_release/.+\\.pdf$", exclude: "[\\u0900-\\u097F]"}   # English copies only
     - {name: IRDAI, url: "https://irdai.gov.in/press-releases", match: "^/documents/37343/366347/"}
     - {name: MHA, url: "https://www.mha.gov.in/en/media/whats-new", match: "^/sites/default/files/.+\\.pdf$"}
     - {name: CBSE, url: "https://www.cbse.gov.in/cbsenew/cbse.html", match: "^/cbsenew/documents/.+\\.pdf$"}
+    # UP types its cabinet decisions in the old Kruti Dev Hindi font; the PDF
+    # text is converted back to real Hindi before the AI reads it.
     - {name: "State: Uttar Pradesh", url: "https://information.up.gov.in/hi_cabinet-decision-new.aspx", match: "\\.pdf$"}   # cabinet decisions, Hindi
     - {name: "State: Tamil Nadu", url: "https://www.tn.gov.in/press_release.php", match: "/press_release/.+\\.pdf$"}
