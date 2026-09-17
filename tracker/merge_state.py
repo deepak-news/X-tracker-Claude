@@ -65,7 +65,8 @@ def merge(ours: dict, theirs: dict) -> dict:
     merged = dict(theirs)
     merged.update({k: v for k, v in ours.items()
                    if k not in ("seen", "alerted", "dead_models", "watch", "national",
-                                "news_queue", "last_digest_hour")})
+                                "news_queue", "last_digest_hour",
+                                "page_links")})
 
     if ours.get("national") or theirs.get("national"):
         merged["national"] = merge_national(ours.get("national") or {},
@@ -99,6 +100,16 @@ def merge(ours: dict, theirs: dict) -> dict:
     for name, when in (ours.get("dead_models") or {}).items():
         dead[name] = max(when, dead.get(name, ""))
     merged["dead_models"] = dead
+
+    # Links seen on company pages. The EARLIER first sighting is the true
+    # one -- it is what the post's id is built from.
+    pages = {label: dict(links) for label, links in (theirs.get("page_links") or {}).items()}
+    for label, links in (ours.get("page_links") or {}).items():
+        mine = pages.setdefault(label, {})
+        for url, first in links.items():
+            if url not in mine or first < mine[url]:
+                mine[url] = first
+    merged["page_links"] = pages
 
     # Stories waiting for the hourly digest. A story either run has already
     # emailed must not come back into the queue from the other run's copy.

@@ -234,7 +234,8 @@ async def run(dry_run: bool) -> int:
 
     print(f"Checking {len(feeds)} sources...")
     try:
-        posts, failed = await asyncio.to_thread(sources.collect, cfg)
+        posts, failed = await asyncio.to_thread(
+            sources.collect, cfg, state.setdefault("page_links", {}))
     except XUnavailable as exc:
         report_breakage(state, str(exc))
         if hourly:
@@ -283,6 +284,9 @@ async def run(dry_run: bool) -> int:
     # says nothing; the PDF behind it is the announcement.
     if candidates and cfg.get("read_filings", True):
         await asyncio.to_thread(sources.read_filings, candidates)
+    # Blogs, reports and newsroom posts: the news is in the body.
+    if candidates and cfg.get("read_articles", True):
+        candidates = await asyncio.to_thread(sources.read_articles, candidates)
 
     # Whether the AI was actually asked to do its job this run, and whether
     # it came through. A run with nothing to score proves nothing either

@@ -18,9 +18,11 @@ import datetime as dt
 import hashlib
 import html
 import io
+import json
 import re
+import time
 from dataclasses import dataclass
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urljoin, urlparse
 
 import feedparser
 import requests
@@ -338,6 +340,185 @@ def _rss(url: str, label: str) -> list[Post]:
     return posts
 
 
+# ------------------------------------------------------ company web pages
+
+# Most company newsrooms, blogs and research pages publish no feed at all.
+# For those, the page itself is read: every article link on it is
+# remembered with the moment it was first seen, and a link that was not
+# there last time is a new post.
+#
+# That first-seen moment is also the post's id. Progress is tracked as a
+# high-water mark per source, so an id must never change for the same
+# link -- otherwise every article still sitting on the page would look new
+# on every run. The first time a site is read, everything on it is simply
+# recorded, exactly as for any other new source.
+PAGE_MEMORY = 1500          # links remembered per site; Airtel lists 600
+PAGE_HEADERS = {"User-Agent": UA, "Accept-Language": "en-IN,en;q=0.9",
+                "Accept": "text/html,application/xhtml+xml,*/*;q=0.8"}
+
+
+def _same_site(a: str, b: str) -> bool:
+    host = lambda u: urlparse(u).netloc.lower().split(":")[0].removeprefix("www.")
+    return host(a) == host(b)
+
+
+def _link_title(anchor, url: str) -> str:
+    text = " ".join(anchor.get_text(" ", strip=True).split())
+    if len(text) < 12 or text.lower() in {"read more", "learn more", "know more", "view more"}:
+        slug = [part for part in urlparse(url).path.split("/") if part][-1]
+        text = re.sub(r"\.\w+$|^\d{4}-\d{2}-\d{2}-", "", slug).replace("-", " ").replace("_", " ")
+    return text[:300]
+
+
+def _page(entry: dict, memory: dict) -> list[Post]:
+    """New article links on a company page that has no feed."""
+    response = requests.get(entry["url"], timeout=TIMEOUT, headers=PAGE_HEADERS)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # Which links are articles. Without a pattern, anything below the page's
+    # own address counts: /news/some-story under /news.
+    pattern = entry.get("match")
+    if not pattern:
+        base = urlparse(response.url).path.rstrip("/")
+        base = re.sub(r"\.\w+$", "", base)
+        pattern = re.escape(base) + r"/[^?#]+"
+    wanted = re.compile(pattern)
+
+    found = {}
+    for anchor in soup.find_all("a", href=True):
+        url = urljoin(response.url, anchor["href"]).split("#")[0].split("?")[0].rstrip("/")
+        if not _same_site(url, response.url) or url == response.url.rstrip("/"):
+            continue
+        if not wanted.search(urlparse(url).path):
+            continue
+        title = _link_title(anchor, url)
+        if url not in found or len(title) > len(found[url]):
+            found[url] = title
+    if not found:
+        raise RuntimeError("no article links found -- the page may have changed, "
+                           "or now loads its articles by script")
+
+    label = entry["name"]
+    known = memory.setdefault(label, {})
+    now = dt.datetime.now(dt.timezone.utc)
+    for url in found:
+        known.setdefault(url, now.isoformat())
+    if len(known) > PAGE_MEMORY:
+        for url in sorted(known, key=known.get)[:len(known) - PAGE_MEMORY]:
+            if url not in found:
+                del known[url]
+
+    posts = []
+    for url, title in found.items():
+        post = _make(dt.datetime.fromisoformat(known[url]), label,
+                     f"{label} published: {title}", url, url)
+        post.origin = "page"          # its real date is checked when it is read
+        posts.append(post)
+    return posts
+
+
+# A company post's news is usually in the body -- a survey figure, a customer,
+# a number of jobs -- not in its headline. So before one is judged, the
+# article itself is opened and its opening read.
+ARTICLE_CHARS = 2500
+ARTICLE_BUDGET_SECONDS = 120
+# A link can surface on a page long after it was written -- a redesign, a
+# "most read" box. Anything whose own date is older than this is not news.
+PAGE_MAX_AGE_DAYS = 3
+_DATE_META = ("article:published_time", "og:published_time", "datepublished",
+              "publish-date", "publish_date", "pubdate", "date", "dc.date")
+
+
+def _published(soup: BeautifulSoup, url: str):
+    """When the article says it was published, if it says at all."""
+    raw = None
+    for meta in soup.find_all("meta"):
+        key = (meta.get("property") or meta.get("name") or meta.get("itemprop") or "").lower()
+        if key in _DATE_META and meta.get("content"):
+            raw = meta["content"]
+            break
+    if not raw:
+        for script in soup.find_all("script", type="application/ld+json"):
+            match = re.search(r'"datePublished"\s*:\s*"([^"]+)"', script.string or "")
+            if match:
+                raw = match.group(1)
+                break
+    if not raw:
+        stamp = soup.find("time", attrs={"datetime": True})
+        raw = stamp["datetime"] if stamp else None
+    if not raw:
+        match = re.search(r"/(20\d\d)[-/](\d\d)[-/](\d\d)", url)
+        raw = "-".join(match.groups()) if match else None
+    if not raw:
+        return None
+    match = re.search(r"\d{4}-\d{2}-\d{2}(?:[T ]\d{2}:\d{2}(?::\d{2})?(?:\.\d+)?)?"
+                      r"(?:Z|[+-]\d{2}:?\d{2})?", raw)
+    if not match:
+        return None
+    try:
+        when = dt.datetime.fromisoformat(match.group().replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    return when if when.tzinfo else when.replace(tzinfo=dt.timezone.utc)
+
+
+def _article(url: str) -> tuple[str, object]:
+    """(opening text, published date or None) for one company post."""
+    response = requests.get(url, timeout=TIMEOUT, headers=PAGE_HEADERS)
+    if response.status_code in (403, 429):
+        # Some sites' bot protection turns away about half of all visits at
+        # random (OpenAI's does); a second knock a moment later often works.
+        time.sleep(3)
+        response = requests.get(url, timeout=TIMEOUT, headers=PAGE_HEADERS)
+    response.raise_for_status()
+    if url.lower().endswith(".pdf") or "pdf" in response.headers.get("Content-Type", ""):
+        reader = PdfReader(io.BytesIO(response.content))
+        text = " ".join((page.extract_text() or "") for page in reader.pages[:6])
+        return " ".join(text.split())[:ARTICLE_CHARS], None
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    when = _published(soup, url)
+    for clutter in soup(["script", "style", "nav", "header", "footer", "aside", "form", "noscript"]):
+        clutter.decompose()
+    root = soup.find("article") or soup.find("main") or soup.body or soup
+    parts = [block.get_text(" ", strip=True) for block in root.find_all(["p", "li", "h2", "h3"])]
+    text = " ".join(part for part in parts if len(part) > 40)
+    return " ".join(text.split())[:ARTICLE_CHARS], when
+
+
+def read_articles(posts: list) -> list:
+    """Read company posts in full before they are judged. Returns the posts
+    still worth judging: a page link whose own date shows it is old is
+    dropped here. A post that cannot be read is kept, on its headline."""
+    started, read, kept, stale = time.monotonic(), 0, [], 0
+    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=PAGE_MAX_AGE_DAYS)
+    for post in posts:
+        if tier(post.handle) != TIER_COMPANY or not post.url:
+            kept.append(post)
+            continue
+        if time.monotonic() - started > ARTICLE_BUDGET_SECONDS:
+            kept.append(post)
+            continue
+        try:
+            body, when = _article(post.url)
+        except Exception:  # noqa: BLE001 - blocked or broken: judge the headline
+            kept.append(post)
+            continue
+        if post.origin == "page" and when and when < cutoff:
+            stale += 1
+            continue
+        if len(body) > 150:
+            post.text = f"{post.text} ARTICLE: {body}"
+            read += 1
+        kept.append(post)
+    if read:
+        print(f"  read {read} company post(s) in full")
+    if stale:
+        print(f"  dropped {stale} old article(s) that had only just appeared on a page")
+    return kept
+
+
 # Google News names some outlets by masthead and others by bare domain.
 # A byline in your inbox should read the way you would write it in copy.
 OUTLETS = {
@@ -382,13 +563,19 @@ def labels(cfg: dict) -> list[str]:
     names += [f["name"] for f in (sources.get("rss") or [])]
     names += [f"News: {q['name']}" for q in (sources.get("google_news") or [])]
     names += [f"PIB {m['name']}" for m in (sources.get("pib") or [])]
+    names += [p["name"] for p in (sources.get("pages") or [])]
     return names
 
 
-def collect(cfg: dict):
-    """Returns (posts, failed_source_names)."""
+def collect(cfg: dict, page_memory: dict | None = None):
+    """Returns (posts, failed_source_names).
+
+    page_memory is where company pages without a feed remember the links
+    they have seen; the caller keeps it in state.json.
+    """
     sources = cfg.get("sources") or {}
     posts, failed = [], []
+    page_memory = {} if page_memory is None else page_memory
 
     companies = sources.get("bse") or []
     if companies:
@@ -418,6 +605,15 @@ def collect(cfg: dict):
         except Exception as exc:  # noqa: BLE001
             print(f"  ! {feed['name']} failed: {exc}")
             failed.append(feed["name"])
+
+    for entry in sources.get("pages") or []:
+        try:
+            found = _page(entry, page_memory)
+            posts.extend(found)
+            print(f"  {entry['name']}: {len(found)} article links")
+        except Exception as exc:  # noqa: BLE001
+            print(f"  ! {entry['name']} failed: {str(exc)[:120]}")
+            failed.append(entry["name"])
 
     for topic in sources.get("google_news") or []:
         label = f"News: {topic['name']}"
