@@ -58,6 +58,11 @@ def merge_national(ours: dict, theirs: dict) -> dict:
             alerted.append(entry)
     merged["alerted"] = sorted(alerted, key=lambda e: e.get("at", ""))[-400:]
     merged["last_run"] = max(ours.get("last_run", ""), theirs.get("last_run", ""))
+    # Sources already introduced; once introduced, always introduced.
+    merged["sources"] = sorted(set(theirs.get("sources") or []) | set(ours.get("sources") or []))
+    # The run that finished later has the current picture of which sites fail.
+    newer = ours if ours.get("last_run", "") >= theirs.get("last_run", "") else theirs
+    merged["source_failures"] = newer.get("source_failures") or {}
     return merged
 
 

@@ -250,8 +250,40 @@ def _feed(entry: dict) -> list:
     return posts
 
 
-def collect(cfg: dict, scanned: set) -> tuple:
-    """Returns (posts, names of sources that failed)."""
+def _page(entry: dict) -> list:
+    """A government page with no feed: its current list of releases.
+
+    Which of them are new is decided by this desk's own memory of IDs, so
+    the page watcher's first-seen bookkeeping is not needed here.
+    """
+    now = dt.datetime.now(UTC).isoformat()
+    # Some of these pages carry their whole archive -- the CBI lists 1,400
+    # releases, IMD 3,300. Every one of them puts the newest at the top, so
+    # only the top of the list is worth watching; remembering all of it
+    # would overflow this desk's memory and bring old releases back as new.
+    posts = sources._page(entry, {})[:int(entry.get("max_links", 60))]
+    for post in posts:
+        post.id = f"page:{post.url}"
+        post.created_at = now
+    return posts
+
+
+# A site that refuses GitHub's servers would otherwise cost every run its
+# full retry-and-timeout cycle. After this many failed runs in a row it is
+# left alone for a while, then tried again.
+FAILS_BEFORE_REST = 3
+REST_HOURS = 6
+
+
+def collect(cfg: dict, scanned: set, memory: dict | None = None) -> tuple:
+    """Returns (posts, names of sources that failed).
+
+    Every post is tagged with the source it came from, so a source added to
+    the config later can be introduced quietly rather than all at once.
+    """
+    memory = {} if memory is None else memory
+    health = memory.setdefault("source_failures", {})
+    now = dt.datetime.now(UTC)
     posts, failed = [], []
 
     readers = []
@@ -261,15 +293,29 @@ def collect(cfg: dict, scanned: set) -> tuple:
         readers.append(("Gazette of India (Extraordinary)", lambda: _gazette(scanned)))
     for entry in cfg.get("feeds") or []:
         readers.append((entry["name"], lambda entry=entry: _feed(entry)))
+    for entry in cfg.get("pages") or []:
+        readers.append((entry["name"], lambda entry=entry: _page(entry)))
 
     for name, read in readers:
+        record = health.get(name) or {}
+        if record.get("until") and dt.datetime.fromisoformat(record["until"]) > now:
+            print(f"  {name}: resting after {record.get('count')} failed runs, "
+                  f"tried again after {record['until'][11:16]} UTC")
+            continue
         try:
             found = watch._try(name, read)
             print(f"  {name}: {len(found)} item(s)")
+            for post in found:
+                post.source = name
             posts.extend(found)
+            health.pop(name, None)
         except Exception as exc:                                  # noqa: BLE001
             print(f"  ! {name} failed: {str(exc)[:160]}")
             failed.append(name)
+            count = int(record.get("count", 0)) + 1
+            health[name] = {"count": count}
+            if count >= FAILS_BEFORE_REST:
+                health[name]["until"] = (now + dt.timedelta(hours=REST_HOURS)).isoformat()
     return posts, failed
 
 
@@ -394,6 +440,11 @@ BADGES = (
     ("Gazette ", "#7c2d12", "GAZETTE"),
     ("RBI", "#065f46", "RBI"),
     ("SEBI", "#5b21b6", "SEBI"),
+    ("PMO", "#1e3a8a", "PMO"),
+    ("President", "#1e3a8a", "PRESIDENT"),
+    ("CBI", "#991b1b", "CBI"),
+    ("IMD", "#0e7490", "IMD"),
+    ("State: ", "#9a3412", "STATE"),
 )
 
 
@@ -405,7 +456,7 @@ def _badge(post) -> tuple:
 
 
 def _issuer(post) -> str:
-    for prefix in ("PIB ", "Gazette "):
+    for prefix in ("PIB ", "Gazette ", "State: "):
         if post.handle.startswith(prefix):
             return post.handle[len(prefix):]
     return post.handle
@@ -414,6 +465,8 @@ def _issuer(post) -> str:
 def _original(post) -> str:
     """The release's own wording, without the label this tool put in front."""
     text = post.text.split(": ", 1)[-1]
+    text = text.split(" ARTICLE: ")[0].split(" TEXT: ")[0]
+    text = text.removeprefix("published: ")
     if post.handle.startswith("Gazette "):
         text = text.split(" | ")[0]
     return text[:260]
@@ -494,7 +547,15 @@ def run(dry_run: bool) -> int:
     first_ever = not seen_list
 
     print("Reading official sources for the national desk...")
-    posts, failed = collect(cfg, scanned)
+    posts, failed = collect(cfg, scanned, memory)
+
+    # A source seen for the first time is introduced quietly: what is on it
+    # now is noted, not judged. Adding a site like the CBI -- 1,400 releases
+    # on one page -- must not send its whole archive to the AI.
+    known_sources = set(memory.get("sources") or [])
+    introduced = {getattr(p, "source", "") for p in posts} - known_sources
+    if known_sources and introduced:
+        print(f"  new source(s), noting what is already there: {', '.join(sorted(introduced))}")
 
     fresh, settled, ids = [], set(), set()
     cutoff = dt.datetime.now(UTC) - dt.timedelta(hours=max_age)
@@ -503,6 +564,9 @@ def run(dry_run: bool) -> int:
         if post.id in seen or post.id in ids:
             continue
         ids.add(post.id)
+        if known_sources and getattr(post, "source", "") in introduced and not dry_run:
+            settled.add(post.id)
+            continue
         if dt.datetime.fromisoformat(post.created_at) < cutoff:
             settled.add(post.id)       # older than anyone wants; never score it
             stale += 1
@@ -535,6 +599,15 @@ def run(dry_run: bool) -> int:
         print(f"{len(fresh)} new item(s) to judge")
         if fresh:
             read_gazettes(fresh)
+            # Everything else except PIB (whose title is the release) is
+            # opened and read -- a CBI or IMD release is a PDF or a page,
+            # and its title alone often says little.
+            others = [p for p in fresh if not p.handle.startswith(("PIB ", "Gazette "))]
+            if others:
+                kept = {id(p) for p in sources.read_articles(others)}
+                dropped = {p.id for p in others if id(p) not in kept}
+                settled |= dropped
+                fresh = [p for p in fresh if p.id not in dropped]
             rows, judged = score(fresh, rubric, state, memory)
             settled |= judged
 
@@ -566,8 +639,14 @@ def run(dry_run: bool) -> int:
 
     if not dry_run:
         seen_list.extend(i for i in settled if i not in seen)
-        memory["seen"] = seen_list[-MEMORY:]
+        # Trim the oldest, but never forget something a source still lists:
+        # forgotten, it would be judged all over again as if it were new.
+        listed = {p.id for p in posts}
+        still_listed = [i for i in seen_list if i in listed]
+        gone = [i for i in seen_list if i not in listed]
+        memory["seen"] = gone[-max(MEMORY - len(still_listed), 0):] + still_listed
         memory["gazette_scanned"] = sorted(scanned)[-2000:]
+        memory["sources"] = sorted(known_sources | {getattr(p, "source", "") for p in posts} - {""})
         memory["last_run"] = dt.datetime.now(UTC).isoformat()
         STATE.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
     # A government site or the AI being down is not a failure of this

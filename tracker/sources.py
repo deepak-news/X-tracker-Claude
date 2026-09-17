@@ -358,15 +358,36 @@ PAGE_HEADERS = {"User-Agent": UA, "Accept-Language": "en-IN,en;q=0.9",
 
 
 def _same_site(a: str, b: str) -> bool:
+    """Same organisation. A subdomain counts -- Tamil Nadu lists releases on
+    www.tn.gov.in but serves the files from cms.tn.gov.in."""
     host = lambda u: urlparse(u).netloc.lower().split(":")[0].removeprefix("www.")
-    return host(a) == host(b)
+    x, y = host(a), host(b)
+    return x == y or x.endswith("." + y) or y.endswith("." + x)
+
+
+# Link text that names the action, not the document. Government sites are
+# full of it: "Download (239.7 KB)", "Click here", "View", "डाउनलोड".
+_EMPTY_LABEL = re.compile(
+    r"^\W*(download|view|click here|read more|learn more|know more|view more|more|"
+    r"here|pdf|details?|open|डाउनलोड|देखें|यहाँ क्लिक करें)\b|\(\s*[\d.]+\s*[kmg]b\s*\)$|^[\d.]+\s*[kmg]b$",
+    re.I)
 
 
 def _link_title(anchor, url: str) -> str:
     text = " ".join(anchor.get_text(" ", strip=True).split())
-    if len(text) < 12 or text.lower() in {"read more", "learn more", "know more", "view more"}:
-        slug = [part for part in urlparse(url).path.split("/") if part][-1]
-        text = re.sub(r"\.\w+$|^\d{4}-\d{2}-\d{2}-", "", slug).replace("-", " ").replace("_", " ")
+    if len(text) < 12 or _EMPTY_LABEL.search(text):
+        # The title usually sits in the same table row or list item.
+        row = anchor.find_parent(["tr", "li"]) or anchor.parent
+        around = " ".join(row.get_text(" ", strip=True).split()) if row else ""
+        around = re.sub(r"\b(download|view|click here)\b|\(\s*[\d.]+\s*[kmg]b\s*\)|डाउनलोड",
+                        " ", around, flags=re.I)
+        # Tables number their rows: "39 5277 31 Aug 2026 PRESS RELEASE...".
+        around = re.sub(r"^(\d+\s+){1,2}(?=\S)", "", " ".join(around.split()))
+        if len(around) >= 12:
+            text = around
+        else:
+            slug = [part for part in urlparse(url).path.split("/") if part][-1]
+            text = re.sub(r"\.\w+$|^\d{4}-\d{2}-\d{2}-", "", slug).replace("-", " ").replace("_", " ")
     return text[:300]
 
 
