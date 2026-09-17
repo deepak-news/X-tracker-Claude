@@ -1,0 +1,36 @@
+name: Watchdog
+
+# Checks once an hour that the 15-minute timer (cron-job.org) is still
+# starting the tracker. If it has stopped, this starts a run itself and
+# emails you. It uses GitHub's own scheduler on purpose: it must not depend
+# on the very thing it is watching.
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write      # to read the tracker's runs, and start one if needed
+  contents: read
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Check the tracker is still being started
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python -m tracker.watchdog
