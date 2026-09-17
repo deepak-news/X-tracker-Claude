@@ -1,25 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-11T09:46:29.158375+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Uttarakhand plans crackdown on Rapido, Zomato, Swiggy over private bike use",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUnMzY2E1SGVuczdHd1c4MmNqeDgxTzI5T2FYd3EzM3pHaGd0Ql90X0dnN2hOa1RZTVhvZG9ERW1YOElzam0xc213YU5pYk9rdHB6aURwQU1oSmhSYi1PVjFvSDc4Q0c5QXhwcW03VE5PTmNuQXJfTXZvanBxNDhmMzc1cGM1WkZLZ1k5bVc3YXFtYWt2SndEaG5SN055X1VEb1M3X2xqQms1ajMwYVJ0QkFRcVVOSTd0d0Q5VFF5b19yak1ieE1DbjNTQnVGQlFPOGpJ0gHYAUFVX3lxTE1jOGMwVzJyTGFhYmY2MEUxNWxiWDhOM0owWWc1NVdWR0JLSHdLcW16Vk4za2steEUtRkJSQ3hKMmlYZlNSeWtXS0QtWktsdS1CZThkdFlrMUZHYUg3SnV4NEt6cFAzelFNSEF2YldvZ0lIdFRmN2VXVjNjNU03aUpuZnBOZ0d3NUlRUVF3VUxzUHdhRFAxSU9FelV0Nl9jNmJVSFdveXZQOUU0QzJyeWVPcXgxUXp5WDNvWm01RXJzWnA2RUJVdWdNbDNJMlhMUk50Z0tpZzBjMQ?oc=5",
-      "words": [
-        "bike",
-        "crackdown",
-        "others",
-        "plans",
-        "private",
-        "rapido",
-        "swiggy",
-        "use",
-        "uttarakhand",
-        "zomato"
-      ]
-    },
-    {
       "at": "2026-09-11T10:01:39.905499+00:00",
       "handle": "News: Global IT services",
       "headline": "Cognizant faces PERM suspension impacting Indian H-1B workers",
@@ -7319,12 +7300,29 @@
         "safety",
         "testing"
       ]
+    },
+    {
+      "at": "2026-09-17T21:32:13.682644+00:00",
+      "handle": "News: India fintech",
+      "headline": "SEBI to review stockbrokers' concerns over UPI MDR framework",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQllBX01OQVJZVXEwcDhzVEhIRHRHWGl5STl2TWQzVklaTlZHU1RnWlh2R3VraThwa0FtWG90MVpwS3hkOFJldmNQdVNPdHNycFVVTGgzRnJPWlJzV2Q1ejJXbHhOTUtQZlk5OERyUzB1Z29BcXM4SnZPRER6TmxDNkZYTmZIT0hmYmhLeTVnQU9WYWVZdUQzaVVzNGEyNU8xM2ZfYTlzQ0RTSHdQc0cyUVY5OUp3WFFuVElEVQ?oc=5",
+      "words": [
+        "chairman",
+        "concerns",
+        "framework",
+        "into",
+        "look",
+        "mdr",
+        "stockbrokers",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-18T02",
-  "last_success": "2026-09-17T21:16:55.762556+00:00",
+  "last_digest_hour": "2026-09-18T03",
+  "last_success": "2026-09-17T21:32:13.683052+00:00",
   "national": {
     "alerted": [
       {
@@ -7913,7 +7911,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-17T21:17:36.013330+00:00",
+    "last_run": "2026-09-17T21:33:57.909248+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -9641,14 +9639,14 @@
     "news: global it services": 1789677883903,
     "news: india ai deeptech": 1789674204168,
     "news: india edtech gaming": 1789642914433,
-    "news: india fintech": 1789677459979,
+    "news: india fintech": 1789678359550,
     "news: india semiconductors": 1789671545861,
     "news: india tech policy": 1789672749194,
     "news: india telecom": 1789671793872,
     "news: indian it majors": 1789678757512,
     "news: indian it midcaps": 1789670220207,
     "news: pib releases": 1789661282744,
-    "news: tech leaders": 1789676216783,
+    "news: tech leaders": 1789677908640,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789603200238,
@@ -9680,7 +9678,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-17T21:16:56.075897+00:00",
+    "last_server_run": "2026-09-17T21:32:14.009725+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-17T20:47:15.196883+00:00",
