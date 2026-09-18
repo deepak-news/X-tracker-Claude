@@ -7350,7 +7350,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-19T01",
-  "last_success": "2026-09-18T20:02:45.317197+00:00",
+  "last_success": "2026-09-18T20:16:57.968930+00:00",
   "national": {
     "alerted": [
       {
@@ -8112,7 +8112,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-18T20:03:20.647484+00:00",
+    "last_run": "2026-09-18T20:17:34.508715+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -9663,6 +9663,7 @@
       "https://www.anthropic.com/economic-futures": "2026-09-17T07:46:46.024152+00:00",
       "https://www.anthropic.com/engineering": "2026-09-17T07:46:46.024152+00:00",
       "https://www.anthropic.com/events": "2026-09-17T07:46:46.024152+00:00",
+      "https://www.anthropic.com/news/accenture-embedded-evaluation": "2026-09-18T20:16:37.989103+00:00",
       "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy": "2026-09-17T07:46:46.024152+00:00",
       "https://www.anthropic.com/news/claude-opus-5": "2026-09-17T07:46:46.024152+00:00",
       "https://www.anthropic.com/news/claude-text-watermark": "2026-09-17T07:46:46.024152+00:00",
@@ -9919,7 +9920,7 @@
     "airtel": 1789631210999,
     "amazon india": 1789735621179,
     "amd": 1788174900103,
-    "anthropic": 1789667198200,
+    "anthropic": 1789762597284,
     "apple": 1789707734879,
     "arm": 1788832833709,
     "aws": 1789679508606,
@@ -9979,18 +9980,18 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789753500465,
     "news: consumer internet india": 1789759081444,
-    "news: global ai": 1789755540046,
+    "news: global ai": 1789761900127,
     "news: global chips": 1789759809752,
-    "news: global it services": 1789760101320,
-    "news: india ai deeptech": 1789754506520,
+    "news: global it services": 1789761747639,
+    "news: india ai deeptech": 1789761756954,
     "news: india edtech gaming": 1789728529151,
     "news: india fintech": 1789760940595,
-    "news: india semiconductors": 1789760223792,
+    "news: india semiconductors": 1789761680656,
     "news: india tech policy": 1789756980915,
     "news: india telecom": 1789756284444,
     "news: indian it majors": 1789751290065,
     "news: indian it midcaps": 1789753560160,
-    "news: pib releases": 1789751875860,
+    "news: pib releases": 1789758533970,
     "news: tech leaders": 1789749175675,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -10023,7 +10024,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T20:02:45.607711+00:00",
+    "last_server_run": "2026-09-18T20:16:58.285003+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T18:49:00.844649+00:00",
