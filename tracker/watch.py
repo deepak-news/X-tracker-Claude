@@ -92,6 +92,18 @@ TIMEOUT = 30
 ATTEMPTS = 3
 RETRY_PAUSE = 4
 
+# How long this whole check may spend before it gives up and leaves the rest
+# for the next run, fifteen minutes later. Without a budget a gazette server
+# that accepts connections and then hangs can hold every retry open until
+# GitHub kills the step -- and a killed step saves nothing, so the same work
+# is done again from scratch. Timed from when the program starts.
+BUDGET = 4 * 60
+_STARTED = time.monotonic()
+
+
+def _out_of_time() -> bool:
+    return time.monotonic() - _STARTED > BUDGET
+
 # How many item identifiers to remember. A week of DoPT orders is a couple of
 # dozen and the gazette list holds 100, so this is months of headroom.
 MEMORY = 2000
@@ -140,6 +152,11 @@ def _try(label: str, action):
             return action()
         except Exception as exc:                                  # noqa: BLE001
             last = exc
+            if getattr(exc, "already_known", False):
+                break                 # another watch has just tried this site
+            if _out_of_time():
+                print(f"    {label}: out of time, leaving it for the next run")
+                break
             if attempt < ATTEMPTS:
                 print(f"    {label}: attempt {attempt} failed ({str(exc)[:70]}), retrying")
                 time.sleep(RETRY_PAUSE)
@@ -252,6 +269,10 @@ def _gazette_pdf(gazette_id: str) -> str:
 # Home Affairs for one person, five ministries for another. The list is read
 # once per run and each watch filters that one copy.
 _GAZETTE_LISTS: dict = {}
+# And when the site will not answer, that is remembered too: three watches
+# each retrying a dead server three times is nine long waits for one fact
+# already known. The first watch finds out; the others are told at once.
+_GAZETTE_ERRORS: dict = {}
 
 
 def _gazette_listing(category: int, scanned: set, max_pages: int = 5) -> list:
@@ -272,7 +293,21 @@ def _gazette_listing(category: int, scanned: set, max_pages: int = 5) -> list:
     """
     if category in _GAZETTE_LISTS:
         return _GAZETTE_LISTS[category]
+    if category in _GAZETTE_ERRORS:
+        raise _GAZETTE_ERRORS[category]
+    try:
+        # The retries for this site belong here, once per run, rather than
+        # once per watch: three watches asking a dead server three times each
+        # is nine long waits to learn one thing.
+        return _try("the gazette list",
+                    lambda: _read_gazette_listing(category, scanned, max_pages))
+    except Exception as exc:                                      # noqa: BLE001
+        exc.already_known = True      # tells _try not to wait and try again
+        _GAZETTE_ERRORS[category] = exc
+        raise
 
+
+def _read_gazette_listing(category: int, scanned: set, max_pages: int) -> list:
     session = requests.Session()
     session.headers.update(BROWSER)
     home = session.get("https://egazette.gov.in/", timeout=TIMEOUT, verify=False)
@@ -310,6 +345,11 @@ def _gazette_listing(category: int, scanned: set, max_pages: int = 5) -> list:
             })
 
         if not anything_new or page == max_pages:
+            break
+        if _out_of_time():
+            # The newest gazettes are on page one, so what has been read is
+            # the part that matters; the rest is caught next run.
+            print(f"    (out of time after page {page}; the older pages wait)")
             break
         soup = _next_page(session, url, soup, "gvGazetteList", page + 1)
 
@@ -606,6 +646,9 @@ def run(dry_run: bool) -> int:
             continue
         if not _due(entry, pages, every):
             print(f"  {entry['name']}: checked recently, skipping")
+            continue
+        if _out_of_time():
+            print(f"  {entry['name']}: out of time, left for the next run")
             continue
         try:
             item, snapshot = _try(entry["name"], lambda: _page_change(entry, pages))
