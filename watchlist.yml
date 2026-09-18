@@ -571,6 +571,21 @@ national:
   pib: true         # every ministry, from pib.gov.in
   gazette: true     # every extraordinary gazette, from egazette.gov.in
 
+  # --- Earthquakes -------------------------------------------------
+  # Read from the National Centre for Seismology (riseq.seismo.gov.in) for
+  # India and its neighbours -- Pakistan, Nepal, China and Tibet, Bhutan,
+  # Bangladesh, Myanmar, Sri Lanka, Maldives and Afghanistan -- and from
+  # the USGS for the rest of the world. These do NOT go past the AI: a
+  # magnitude is a measurement, so anything at or above the numbers below
+  # is emailed at once, even when the AI is out of quota.
+  # A quake within India is news at a size that would pass unremarked
+  # elsewhere, hence the separate figure. Set "earthquakes: false" to
+  # switch the whole thing off.
+  earthquakes:
+    min_magnitude: 5              # anywhere in the world
+    india_min_magnitude: 4.5      # inside India
+    neighbour_min_magnitude: 5    # the neighbouring countries
+
   # Any other official site that publishes an RSS feed can be added here.
   feeds:
     - {name: RBI, url: "https://www.rbi.org.in/pressreleases_rss.xml"}
