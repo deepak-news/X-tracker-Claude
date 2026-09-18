@@ -1,23 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-13T09:01:55.827095+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio Financial to secure Rs 18,000 crore from BoFA by December",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWF9lNjY5TkpXQWUwdE5ZbVdqeTB0Uy0xS0U0b29TNTVkUVhQV1ZhSU5ZMlZiMDh4VUtzbGZIXzBGQ21INHR0aDFINExiQnBnZ0htNEowSEdMMi1kdnFQeVhNWEVHWmdwSHF0anVfOXJDbEtTM2lpallYRkZIWkJwbUNrQUNYcHZqa1FTd2tfQ2tMOXppSjhwS3BMYS1iTm9vZzlmY1J4OHRwZmdqLXdUTkxxNm9YY0XSAbwBQVVfeXFMTl9lejJvLVM5V21vbThNcFpzd3dlbXJwNmxBdXRNclRhN3lJb3NhT1k1VGR1TkJ6bVdaZWtwTjNPbmpsbmRqNXRDVTc4T2VlZDlnMTg5V1pRaDFhT0FSN0g4ODlhRzZiMi1yM0VIczJkWG9paTNsVnFLNzBIMDBpblFyQ1EyaElpQW9rZl9Kcm40VGpkTHpBSHdmaHpVYmdTZWg2R2czNUYtZVpDWktEcW02YTZmMjRQekZka3I?oc=5",
-      "words": [
-        "18k",
-        "bofa",
-        "dec",
-        "financial",
-        "get",
-        "jio",
-        "redrawn",
-        "strategy"
-      ]
-    },
-    {
       "at": "2026-09-13T09:46:40.886326+00:00",
       "handle": "News: India telecom",
       "headline": "Bank of America to infuse Rs 18,268 crore in Jio Financial",
@@ -7337,12 +7320,30 @@
         "png",
         "sign"
       ]
+    },
+    {
+      "at": "2026-09-18T15:32:20.761651+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "B-school study reveals significant AI competency gap among management graduates",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT1dqOUZxUUppTUhJMnduM0RIQVJHVnNtRW9iSGdhNXhtcjBORldoTXJxcDd4aURMSEl0cElkZlp0SXgwYlMycWJFaGlZOEJueDFVSVJld2pSTkFJZUdEQ25aOUtveW9Gd2lscWRJbkktSTI3a2VNX29mZmp5RExQeDhKMFgtR0VWTG1UaG1FcTJ2dm5vSFp6dDYtYlBCZWt0eVE4ZVhBaUhTS3VzUU1XQUZqREFtMFhqcGNhMDVmT0F5M0QwQ0gxdVJyQUVOamQyWGhuOGlRZnJJNEgzMU9XS0xUWjlQNWxzdTNjQjZNRTFTYnpHMHNJOHNB0gH6AUFVX3lxTE5PV2o5RnFRSmlNSEkyd24zREhBUkdWc21Fb2JIZ2E1eG1yME5GV2hNcnFwN3hpRExISXRwSWRmWnRJeDBiUzJxYkVoaVk4Qm54MVVJUmV3alJOQUllR0RDblo5S295b0Z3aWxxZEluSS1JMjdrZU1fb2ZmanlETFB4OEowWC1HRVZMbVRobUVxMnZ2bm9IWnp0Ni1iUEJla3R5UThlWEFpSFNLdXNRTVdBRmpEQW0wWGpwY2EwNWZPQXkzRDBDSDF1UnJBRU5qZDJYaG44aVFmckk0SDMxT1dLTFRaOVA1bHN1M2NCNk1FMVNiekcwc0k4c0E?oc=5",
+      "words": [
+        "among",
+        "competency",
+        "gap",
+        "graduates",
+        "management",
+        "schools",
+        "significant",
+        "study",
+        "top"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-18T20",
-  "last_success": "2026-09-18T15:16:56.637762+00:00",
+  "last_digest_hour": "2026-09-18T21",
+  "last_success": "2026-09-18T15:32:20.762068+00:00",
   "national": {
     "alerted": [
       {
@@ -7878,6 +7879,29 @@
           "ssw",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-18T15:36:50.862757+00:00",
+        "handle": "Gazette Ministry of Finance",
+        "headline": "Kamlesh Chandra Varshney re-appointed as SEBI Whole-Time Member",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/276316.pdf",
+        "words": [
+          "1990",
+          "board",
+          "chandra",
+          "exchange",
+          "extraordinary",
+          "finance",
+          "gazette",
+          "irs",
+          "kamlesh",
+          "member",
+          "ministry",
+          "post",
+          "reappointing",
+          "retd"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -8042,9 +8066,18 @@
       "CG-GJ-E-17092026-276304",
       "CG-DL-E-17092026-276301",
       "CG-DL-E-17092026-276302",
-      "CG-DL-E-17092026-276305"
+      "CG-DL-E-17092026-276305",
+      "CG-DL-E-18092026-276306",
+      "CG-DL-E-18092026-276311",
+      "CG-DL-E-18092026-276316",
+      "CG-DL-E-18092026-276317",
+      "CG-DL-E-18092026-276321",
+      "CG-DL-E-18092026-276322",
+      "CG-MH-E-18092026-276318",
+      "CG-MH-E-18092026-276320",
+      "CG-TL-E-18092026-276314"
     ],
-    "last_run": "2026-09-18T15:17:31.138426+00:00",
+    "last_run": "2026-09-18T15:36:50.874861+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8836,24 +8869,29 @@
       "pib:2312227",
       "pib:2312226",
       "quake:usgs:us7000tib8",
-      "pib:2312234"
+      "pib:2312234",
+      "gazette:CG-MH-E-18092026-276318",
+      "gazette:CG-DL-E-18092026-276316",
+      "gazette:CG-DL-E-18092026-276317",
+      "gazette:CG-DL-E-18092026-276311",
+      "gazette:CG-DL-E-18092026-276321",
+      "gazette:CG-DL-E-18092026-276322",
+      "gazette:CG-DL-E-18092026-276306",
+      "gazette:CG-TL-E-18092026-276314",
+      "gazette:CG-MH-E-18092026-276320"
     ],
     "source_failures": {
       "CBI": {
-        "count": 7,
-        "until": "2026-09-18T15:18:44.975895+00:00"
-      },
-      "Gazette of India (Extraordinary)": {
-        "count": 4,
-        "until": "2026-09-18T17:04:23.447005+00:00"
+        "count": 8,
+        "until": "2026-09-18T21:32:26.336720+00:00"
       },
       "State: Maharashtra": {
-        "count": 7,
-        "until": "2026-09-18T15:18:44.975895+00:00"
+        "count": 8,
+        "until": "2026-09-18T21:32:26.336720+00:00"
       },
       "State: Tamil Nadu": {
-        "count": 7,
-        "until": "2026-09-18T15:18:44.975895+00:00"
+        "count": 8,
+        "until": "2026-09-18T21:32:26.336720+00:00"
       }
     },
     "sources": [
@@ -8874,26 +8912,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "B-school study reveals significant AI competency gap among management graduates",
-      "post": {
-        "created_at": "2026-09-18T12:40:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1789735200883",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Significant AI competency gap among management graduates: Study of top B schools",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT1dqOUZxUUppTUhJMnduM0RIQVJHVnNtRW9iSGdhNXhtcjBORldoTXJxcDd4aURMSEl0cElkZlp0SXgwYlMycWJFaGlZOEJueDFVSVJld2pSTkFJZUdEQ25aOUtveW9Gd2lscWRJbkktSTI3a2VNX29mZmp5RExQeDhKMFgtR0VWTG1UaG1FcTJ2dm5vSFp6dDYtYlBCZWt0eVE4ZVhBaUhTS3VzUU1XQUZqREFtMFhqcGNhMDVmT0F5M0QwQ0gxdVJyQUVOamQyWGhuOGlRZnJJNEgzMU9XS0xUWjlQNWxzdTNjQjZNRTFTYnpHMHNJOHNB0gH6AUFVX3lxTE5PV2o5RnFRSmlNSEkyd24zREhBUkdWc21Fb2JIZ2E1eG1yME5GV2hNcnFwN3hpRExISXRwSWRmWnRJeDBiUzJxYkVoaVk4Qm54MVVJUmV3alJOQUllR0RDblo5S295b0Z3aWxxZEluSS1JMjdrZU1fb2ZmanlETFB4OEowWC1HRVZMbVRobUVxMnZ2bm9IWnp0Ni1iUEJla3R5UThlWEFpSFNLdXNRTVdBRmpEQW0wWGpwY2EwNWZPQXkzRDBDSDF1UnJBRU5qZDJYaG44aVFmckk0SDMxT1dLTFRaOVA1bHN1M2NCNk1FMVNiekcwc0k4c0E?oc=5"
-      },
-      "queued_at": "2026-09-18T14:47:03.774787+00:00",
-      "score": 7.0,
-      "why": "It discloses new survey findings on AI skills from a study on top business schools."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9873,15 +9892,15 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789737313975,
     "news: consumer internet india": 1789743213352,
-    "news: global ai": 1789743393234,
-    "news: global chips": 1789743444586,
-    "news: global it services": 1789742313962,
+    "news: global ai": 1789744550497,
+    "news: global chips": 1789744543162,
+    "news: global it services": 1789744520539,
     "news: india ai deeptech": 1789743330255,
     "news: india edtech gaming": 1789728529151,
-    "news: india fintech": 1789743240140,
-    "news: india semiconductors": 1789743115339,
+    "news: india fintech": 1789744981433,
+    "news: india semiconductors": 1789745279304,
     "news: india tech policy": 1789740057946,
-    "news: india telecom": 1789741480165,
+    "news: india telecom": 1789744889222,
     "news: indian it majors": 1789742864337,
     "news: indian it midcaps": 1789735200883,
     "news: pib releases": 1789742220088,
@@ -9917,7 +9936,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T15:16:56.951836+00:00",
+    "last_server_run": "2026-09-18T15:32:21.074863+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T14:32:44.493147+00:00",
