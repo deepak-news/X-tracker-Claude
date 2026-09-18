@@ -1,21 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-14T00:01:34.760890+00:00",
-      "handle": "News: India tech policy",
-      "headline": "DPDP implementation creates new privacy roles and compliance frameworks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGpNdVoyS0djTzRIZlNNUWhRam1CZ1BvdzdNNzhmNkIxWDh0V3RKUGNGSW9ISzQ5dEo5R0VNTGMtUUZGX3Vmb2JOa0tHM0VsRGkwWmh6MHlKRXFoVDUzZU91eFk4Q2RLUG8tbFllazFkN195enQxbDBoUHRKRFQwY0h3V2hqYVl6VGt0OWpKOHJZZl94UXk2UFdjZDFrRXgyem5XdGk0VHVtQ1VpbmpKNzJTRGhCY0xINXFYQ183NWtBVkd0eGdlUG9TQkZCWlBBQXfSAdcBQVVfeXFMT3puY3NBM0E3dVQ4cmdjUU1TMnNlUFhIYlJxU0htUEJ0UVF6QkNmUFdFZlQ4Si0ya0d6Uzc2V1FaeUx3dG5ucU1jOEI1REJmR3c1cHVKaVZkalU2bXZEb1EzaFhqX0paSEdKY2pKaE53UkJBSG4xdUV3MDg4dC1VelhxTnBoUXBhc3Fpc2JjX09RZzg2Sm9OWWZkVXIwY2Y5WndQX2ZzTVd1VHFUSjV6SENqcUh0Sm5DN2ZTUGNGX3JZakFpTDB1bXJxOWVBLW9ka1RodF9yUms?oc=5",
-      "words": [
-        "code",
-        "creates",
-        "dpdp",
-        "policy",
-        "privacy",
-        "roles"
-      ]
-    },
-    {
       "at": "2026-09-14T00:16:05.464229+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic exits ITI due to three chip bills",
@@ -7348,12 +7333,30 @@
         "puts",
         "safety"
       ]
+    },
+    {
+      "at": "2026-09-18T22:32:22.444796+00:00",
+      "handle": "News: Global chips",
+      "headline": "Nvidia-backed cloud platform Nscale files for IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHFYSG01MWZIMld6QlhEelY2QmhlVG5kLUcwblNPczJ5SFVUMFBncFdfMnlrMUdBRmpyOEtPc1prV3VYYXdxcjhvbTZXN2tPNUlXUFZLVmZSRVVRZUhFektVMjhZb0JQTkFULXc0eXNOT0FBTWV1dENDb2xyd3FveGpJaVBMcWUxbWxhelppbnRGRG95eDRGZFRNM1BSYS1namc?oc=5",
+      "words": [
+        "backed",
+        "cloud",
+        "files",
+        "focus",
+        "ipo",
+        "nscale",
+        "nvda",
+        "nvidia",
+        "platform"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-19T03",
-  "last_success": "2026-09-18T22:16:54.497572+00:00",
+  "last_digest_hour": "2026-09-19T04",
+  "last_success": "2026-09-18T22:32:22.445254+00:00",
   "national": {
     "alerted": [
       {
@@ -8115,7 +8118,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-18T22:17:28.450450+00:00",
+    "last_run": "2026-09-18T22:33:08.443919+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8962,26 +8965,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Nvidia-backed cloud platform Nscale files for IPO",
-      "post": {
-        "created_at": "2026-09-18T21:31:11+00:00",
-        "handle": "News: Global chips",
-        "id": "1789767071320",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Yahoo Finance",
-        "reposts": 0,
-        "text": "Nvidia-Backed Cloud Platform Nscale Files For IPO \u2014 NVDA Stock In Focus",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHFYSG01MWZIMld6QlhEelY2QmhlVG5kLUcwblNPczJ5SFVUMFBncFdfMnlrMUdBRmpyOEtPc1prV3VYYXdxcjhvbTZXN2tPNUlXUFZLVmZSRVVRZUhFektVMjhZb0JQTkFULXc0eXNOT0FBTWV1dENDb2xyd3FveGpJaVBMcWUxbWxhelppbnRGRG95eDRGZFRNM1BSYS1namc?oc=5"
-      },
-      "queued_at": "2026-09-18T21:47:11.284573+00:00",
-      "score": 8.0,
-      "why": ""
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9971,11 +9955,11 @@
     "news: india ai deeptech": 1789765749255,
     "news: india edtech gaming": 1789728529151,
     "news: india fintech": 1789767384644,
-    "news: india semiconductors": 1789766474061,
+    "news: india semiconductors": 1789769892047,
     "news: india tech policy": 1789760153164,
     "news: india telecom": 1789758371205,
     "news: indian it majors": 1789766580795,
-    "news: indian it midcaps": 1789756435864,
+    "news: indian it midcaps": 1789756557598,
     "news: pib releases": 1789760621297,
     "news: tech leaders": 1789766550432,
     "nvidia": 1789650055203,
@@ -10009,7 +9993,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T22:16:54.826295+00:00",
+    "last_server_run": "2026-09-18T22:32:22.757971+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T21:02:42.788605+00:00",
