@@ -7349,7 +7349,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-18T22",
-  "last_success": "2026-09-18T17:02:40.128437+00:00",
+  "last_success": "2026-09-18T17:17:00.427758+00:00",
   "national": {
     "alerted": [
       {
@@ -7908,6 +7908,28 @@
           "reappointing",
           "retd"
         ]
+      },
+      {
+        "at": "2026-09-18T17:21:06.667455+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.2 earthquake -- 28 km NE of Villa Presidente Frei, Chile.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid4",
+        "words": [
+          "100",
+          "2026",
+          "chile",
+          "deep",
+          "earthquake",
+          "frei",
+          "ist",
+          "magnitude",
+          "presidente",
+          "reported",
+          "sep",
+          "usgs",
+          "villa"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -8085,7 +8107,7 @@
       "CG-DL-E-18092026-276319",
       "CG-DL-E-18092026-276325"
     ],
-    "last_run": "2026-09-18T17:06:54.560842+00:00",
+    "last_run": "2026-09-18T17:21:06.668036+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8893,7 +8915,8 @@
       "pib:2312276",
       "pib:2312281",
       "gazette:CG-DL-E-18092026-276325",
-      "pib:2312288"
+      "pib:2312288",
+      "quake:usgs:us7000tid4"
     ],
     "source_failures": {
       "CBI": {
@@ -8901,7 +8924,7 @@
         "until": "2026-09-18T21:32:26.336720+00:00"
       },
       "Gazette of India (Extraordinary)": {
-        "count": 1
+        "count": 2
       },
       "State: Maharashtra": {
         "count": 8,
@@ -9924,7 +9947,7 @@
     "bse lenskart": 1789320414840,
     "bse ltimindtree": 1789642688493,
     "bse ltts": 1789490917112,
-    "bse meesho": 1789770630559,
+    "bse meesho": 1789771106183,
     "bse mobikwik": 1789550591602,
     "bse mphasis": 1789565700668,
     "bse nazara": 1789580637112,
@@ -9965,8 +9988,8 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789737313975,
     "news: consumer internet india": 1789743213773,
-    "news: global ai": 1789747948002,
-    "news: global chips": 1789744543162,
+    "news: global ai": 1789751101531,
+    "news: global chips": 1789750202880,
     "news: global it services": 1789750380701,
     "news: india ai deeptech": 1789749016029,
     "news: india edtech gaming": 1789728529151,
@@ -9974,7 +9997,7 @@
     "news: india semiconductors": 1789750380473,
     "news: india tech policy": 1789750768571,
     "news: india telecom": 1789749304584,
-    "news: indian it majors": 1789749900942,
+    "news: indian it majors": 1789751290065,
     "news: indian it midcaps": 1789749070046,
     "news: pib releases": 1789749720328,
     "news: tech leaders": 1789737900943,
@@ -10009,7 +10032,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T17:02:40.462609+00:00",
+    "last_server_run": "2026-09-18T17:17:00.764574+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T16:35:46.846570+00:00",
