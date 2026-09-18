@@ -1,65 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-11T11:01:39.463307+00:00",
-      "handle": "News: India fintech",
-      "headline": "Federal Bank and Paisabazaar launch Paisaback Credit Card",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOempWN2dZc2MxdEI5c2NqTEF6SXdReC1yTVlkam5Bd2RqOVE1R3l6NDZCYlg1MWFmS2RESDhWcVZhUGdXRmRXMnBvTzdTNE9xNVVrU1RIazJLaFZsbVpnYkZBRnkycGc3ZFpZUUF5UmVONElDUDNKS19PaGZiVHZGb21HRHZ2c0s4QS1sckY5b1p2SmVZR2NaMGpfTWVCeVBibzZBZlBFWF91UEE4OWN1QkZIaDU2NFpvSW1tWVR3ay1rdFVvd19EaUpuODJUV2R2bGFtWURJNC1hUUVLVTVWOXZNZzRFMW0zYjlmQmhMZkRkdEFfTEd5aUE4YkJaRW9FekVuUE5R0gGLAkFVX3lxTE5ZMUwxdGllQ1NiUTg4c3Z6ajhEZktoRHo2QXI5YThaZXhiVmp4RTFlUUU2X1htM1RKWjRSSllDQ29PcXJuOEllVHdudmxHX2N6RkR0ZmppZ3lMejBRWEZKUDFSMlVaRk52amU5WUx4ZnhabWJNenBGUlhhOXl3SG5EdXdfQlZvZF9tZTlqZDBJeENGVW9oenpJSkQ5QTN6N1RVZWR1eTNIdzhhY002UE9RQzFnZW1iVHJXem1PZ2FjMF9wa3ozMlQ0S1VXLU1WaDdRaTJyQnlqWktEQVlPOWs3ODJnOVNEWUJVTFZDb2lySkdmZGVodnVGS2hWNjZSczhfRlg0T3VkTF9SQQ?oc=5",
-      "words": [
-        "bank",
-        "card",
-        "cashback",
-        "credit",
-        "federal",
-        "grocery",
-        "launch",
-        "paisaback",
-        "paisabazaar",
-        "spends"
-      ]
-    },
-    {
-      "at": "2026-09-11T12:01:49.518573+00:00",
-      "handle": "News: India fintech",
-      "headline": "Fintech stocks rally as UPI MDR reports lift Paytm to high",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcll4M3EzSkRKdnFEZmFHWGd2NVlBVHl3QzNCQjZoOWJLbHdLU3JVcEZRLTdNQS1QMUZ0bHhLVjNJM0JYaEtlelhOU2VibVZ4Ni1PVF9oVG9acWFKRmtRS1ExaXJkUHk0YnRpaERNYkNkNTdpa0FxYnNxSkNtNUxTNHNyRVdWRHpTLVZxMHR1UDNINUYwUnc1ZnVHZVVLUjZhM1JmZG0wV3dqXzVfRThr?oc=5",
-      "words": [
-        "basis",
-        "fintech",
-        "high",
-        "mdr",
-        "paytm",
-        "point",
-        "rally",
-        "report",
-        "touches",
-        "upi",
-        "week"
-      ]
-    },
-    {
-      "at": "2026-09-11T12:16:18.934514+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI executive Fidji Simo to join Nscale board ahead of IPO",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1B5eVUwRF9mc2JQRGFKa0pfdHZjZ2VCajE5cm1aMEVTUHhkOW1Rc1g0c3d2WkZFajhYeUdqVUZBNGRfZG9KXzZmeDVhRGQwT1B0bGlPR19yeS1fc2VDM0twYUNUX1lnbGVFQWdadnBDNC05RllmZEExUm9JbWNpT1l5b0wwLTdjeS1DMEJob05EdnR1WEw2VGYwNHVzYVhlTi0zcmktM0dTNG8?oc=5",
-      "words": [
-        "ahead",
-        "board",
-        "cloud",
-        "exclusive",
-        "fidji",
-        "ipo",
-        "join",
-        "nscale",
-        "openai",
-        "provider",
-        "simo"
-      ]
-    },
-    {
       "at": "2026-09-11T12:31:38.910593+00:00",
       "handle": "News: India telecom",
       "headline": "Jio Financial unveils JioFinance360 and new payment solutions",
@@ -7316,12 +7257,64 @@
         "sto360",
         "wipro"
       ]
+    },
+    {
+      "at": "2026-09-18T01:32:21.713748+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Wipro appoints Ujjwal Jyoti to head GCC practice",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRkNyX0pWNFEtT2MwQ0NsbXNIMnZLcTJSQmFmT0Y5WExidmdndXZUNml1ODBfOEtHbS04dnNwWnhZbW05Tlo4VUpTOTlZejZwaHhFdl96VS00VEpMQ09DS1lreE44VUVpSE80?oc=5",
+      "words": [
+        "gcc",
+        "jyoti",
+        "lead",
+        "names",
+        "practice",
+        "ujjwal",
+        "wipro"
+      ]
+    },
+    {
+      "at": "2026-09-18T01:32:21.713748+00:00",
+      "handle": "News: India tech policy",
+      "headline": "100 entities adopt Aadhaar-based offline verification in three months",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmNjclg3dFJtRkt4UU55MnVKa2VRR3pPSTZzTm9NTkZ2OTNILTl3dHZEYWdrOE1uM3pydGJJZmc4R2tJcGdxSFdUUnV4VXFYeF9vbG5LenJJQkF0NjNZNWs1M20tdHRlTFNsTnpLUkRLaHNJRnZ1RGRBRkt2ZHJfdWhzMkppUjRhbWxuTEtFM081cjI4dEVrU0Foekswck5mQjF0am15OUt1d05tY2V4M1oyZmlEZw?oc=5",
+      "words": [
+        "100",
+        "aadhaar",
+        "based",
+        "entities",
+        "months",
+        "offline",
+        "onboard",
+        "rollout",
+        "use",
+        "verification",
+        "within"
+      ]
+    },
+    {
+      "at": "2026-09-18T01:32:21.713748+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Inox India bags Rs 50 crore orders from Tata Electronics and Micron",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV0tjTmhBS1RTemk4Q3BOMnhvdzBxWFdlajJ4bTkxZV9YTjgtS3lFTHdXZVQweEZVQVhrdS1OdUwwVnJ0bGhVb0RvM1BKTXh0SDdKZUZBckltbm9QdUt6cGd4SmkzLVZLUmpsYm90bHJvVUs4UXk3TEpLcnltVGxZSnQxRlpiX2haZ1VVSGNNbGRYVTl1a2Y3SG1FMzQzaU1yWHlDMjdmOS0zZkcxVVVfRTg0QWROMW1ReDhqdDZaT1VnQ0Q2czZYVE9xMnk2MjRObHA5XzVqdDZhMFnSAeABQVVfeXFMUEFHQzN3Qlp0dlFaM0N2OUZZeTd1eFo2ZmZ0ejU3X3RGUlQ3YTNyeFpEYXRoVE5acUlkaGJNc1htQjI2cWZkQVZHdUF0aE95bUplbnM0NXNKbDkxeFlVeHo4QnpzLVgzMVlSX1FyeEhxb2dQMnFfMW1EcXcyMzZFQWdFM0JsWjY0V0UxX3JGdzY2QkhVLWY2bElXbjJfLU92RWFMNmNPRVozSjJEWVZ5U2FnSlFoLXI2bGlVZjZMaTdTdXdLMGRwcUhZaDE0SDN5V21NUTBfLXh0dUNOLWQ2Yk4?oc=5",
+      "words": [
+        "electronics",
+        "inox",
+        "micron",
+        "orders",
+        "receives",
+        "tata",
+        "worth"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-18T06",
-  "last_success": "2026-09-18T01:16:56.892200+00:00",
+  "last_digest_hour": "2026-09-18T07",
+  "last_success": "2026-09-18T01:32:21.714385+00:00",
   "national": {
     "alerted": [
       {
@@ -7910,7 +7903,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-18T01:18:05.809498+00:00",
+    "last_run": "2026-09-18T01:33:00.103693+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8659,62 +8652,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "100 entities adopt Aadhaar-based offline verification in three months",
-      "post": {
-        "created_at": "2026-09-17T21:58:46+00:00",
-        "handle": "News: India tech policy",
-        "id": "1789682326030",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "News On AIR",
-        "reposts": 0,
-        "text": "100 Entities Onboard to use Aadhaar-Based Offline Verification within 3 months of rollout",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmNjclg3dFJtRkt4UU55MnVKa2VRR3pPSTZzTm9NTkZ2OTNILTl3dHZEYWdrOE1uM3pydGJJZmc4R2tJcGdxSFdUUnV4VXFYeF9vbG5LenJJQkF0NjNZNWs1M20tdHRlTFNsTnpLUkRLaHNJRnZ1RGRBRkt2ZHJfdWhzMkppUjRhbWxuTEtFM081cjI4dEVrU0Foekswck5mQjF0am15OUt1d05tY2V4M1oyZmlEZw?oc=5"
-      },
-      "queued_at": "2026-09-18T00:46:50.342888+00:00",
-      "score": 7.0,
-      "why": "This is a significant government and regulatory infrastructure milestone in India's digital ID ecosystem."
-    },
-    {
-      "headline": "Inox India bags Rs 50 crore orders from Tata Electronics and Micron",
-      "post": {
-        "created_at": "2026-09-18T00:30:00+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789691400443",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Inox India receives Rs 50 crore worth orders from Tata Electronics, Micron",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV0tjTmhBS1RTemk4Q3BOMnhvdzBxWFdlajJ4bTkxZV9YTjgtS3lFTHdXZVQweEZVQVhrdS1OdUwwVnJ0bGhVb0RvM1BKTXh0SDdKZUZBckltbm9QdUt6cGd4SmkzLVZLUmpsYm90bHJvVUs4UXk3TEpLcnltVGxZSnQxRlpiX2haZ1VVSGNNbGRYVTl1a2Y3SG1FMzQzaU1yWHlDMjdmOS0zZkcxVVVfRTg0QWROMW1ReDhqdDZaT1VnQ0Q2czZYVE9xMnk2MjRObHA5XzVqdDZhMFnSAeABQVVfeXFMUEFHQzN3Qlp0dlFaM0N2OUZZeTd1eFo2ZmZ0ejU3X3RGUlQ3YTNyeFpEYXRoVE5acUlkaGJNc1htQjI2cWZkQVZHdUF0aE95bUplbnM0NXNKbDkxeFlVeHo4QnpzLVgzMVlSX1FyeEhxb2dQMnFfMW1EcXcyMzZFQWdFM0JsWjY0V0UxX3JGdzY2QkhVLWY2bElXbjJfLU92RWFMNmNPRVozSjJEWVZ5U2FnSlFoLXI2bGlVZjZMaTdTdXdLMGRwcUhZaDE0SDN5V21NUTBfLXh0dUNOLWQ2Yk4?oc=5"
-      },
-      "queued_at": "2026-09-18T00:46:50.342888+00:00",
-      "score": 7.0,
-      "why": "This is a major supply chain and manufacturing contract win directly tied to India's semiconductor ecosystem."
-    },
-    {
-      "headline": "Wipro appoints Ujjwal Jyoti to head GCC practice",
-      "post": {
-        "created_at": "2026-09-18T01:00:00+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1789693200088",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Outsource Accelerator",
-        "reposts": 0,
-        "text": "Wipro names Ujjwal Jyoti to lead its GCC practice",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRkNyX0pWNFEtT2MwQ0NsbXNIMnZLcTJSQmFmT0Y5WExidmdndXZUNml1ODBfOEtHbS04dnNwWnhZbW05Tlo4VUpTOTlZejZwaHhFdl96VS00VEpMQ09DS1lreE44VUVpSE80?oc=5"
-      },
-      "queued_at": "2026-09-18T01:16:56.891870+00:00",
-      "score": 8.0,
-      "why": "Senior leadership appointment at a major Indian IT firm is a key wire alert."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9686,7 +9624,7 @@
     "microsoft india": 1789552630084,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789691405577,
+    "news: big tech platforms": 1789695050122,
     "news: consumer internet india": 1789691405306,
     "news: global ai": 1789688808534,
     "news: global chips": 1789690740490,
@@ -9700,7 +9638,7 @@
     "news: indian it majors": 1789693200088,
     "news: indian it midcaps": 1789683818849,
     "news: pib releases": 1789667640666,
-    "news: tech leaders": 1789692548000,
+    "news: tech leaders": 1789694316000,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789646400569,
@@ -9732,7 +9670,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T01:16:57.216125+00:00",
+    "last_server_run": "2026-09-18T01:32:22.043128+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T01:17:23.688564+00:00",
