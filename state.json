@@ -7336,7 +7336,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-18T17",
-  "last_success": "2026-09-18T11:32:18.123256+00:00",
+  "last_success": "2026-09-18T11:47:02.075059+00:00",
   "national": {
     "alerted": [
       {
@@ -8017,7 +8017,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-18T11:34:52.563929+00:00",
+    "last_run": "2026-09-18T11:49:22.984087+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8787,7 +8787,10 @@
       "pib:2312061",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63624",
       "quake:usgs:us7000ti89",
-      "pib:2312089"
+      "pib:2312089",
+      "pib:2312109",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-receives-a-telephone-call-from-the-president-of-the-uae",
+      "pib:2312096"
     ],
     "source_failures": {
       "CBI": {
@@ -8825,7 +8828,62 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "TRAI introduces termination charge up to 5 paise on A2P calls",
+      "post": {
+        "created_at": "2026-09-18T11:26:40+00:00",
+        "handle": "News: India telecom",
+        "id": "1789730800178",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "LatestLY",
+        "reposts": 0,
+        "text": "Business News | TRAI Introduces Termination Charge of Up to 5 Paise Per Minute on A2P Calls to Curb Spam",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNmhGaEwwUEZjRm9kX2pNdGM4cXQ3OTJwRDI3Mk5RNEV1cGN5aUk5V1M0LWg1WWZVbnhBRVk5N1V1a29NU0lYeU9WaGVkQ3l3eEZqR0V3ZkRYTmQ2TUxFNGN1Nm4zOWNaMDhxUjBDS2pHYXBOdno4X3lFVjlRTlJ3WGJFaHRlV19FaG5scVlHaGdGcXZTMDUxU292X3hYRE5GV3drTENYQ2ZPS2FlTU16WGUyQkJCQ21TYl9HSWhrQ2FxT3MtWTdkc3BmVWd1NldzZmhqQUxNNUQ2OWhTdUNrQTJFbGFacGvSAewBQVVfeXFMUDV0ckY5OHA3U1lzU1AzbkZCY2Fiamc0ZjllLTdCaUJPUU5Vb0NLZGhTNW5LdWxLTVREdW16b1RuSURmUWRDR0g1YnQ4T09iQjBpeDhObEstWklTWVYtSDJsbXJYUmptdU00OHdFSnRqMzIxbWJjTC1ZcllaMVVyX2FXTXcxQzhCSmVNMGFYRGhDbUk5V0g4b204UmJrdjlVNWtVZVJCblkyanYxY3NkbElEUk9ab2k5Wm5aNFpiZkJ5bkxKTHhDRnBxRlQyZFJtbmlZS3hBWXp1alRoMmlmRDlTTVc1Z0w3SFZRT3Y?oc=5"
+      },
+      "queued_at": "2026-09-18T11:47:02.074733+00:00",
+      "score": 8.0,
+      "why": "Major regulatory move by TRAI targeting spam through application-to-person SMS and call charges."
+    },
+    {
+      "headline": "Coforge research highlights private equity AI ambitions gap",
+      "post": {
+        "created_at": "2026-09-18T11:33:30+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1789731210362",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "EquityBulls",
+        "reposts": 0,
+        "text": "Coforge Research Finds Growing Gap in Private Equity Between AI Ambitions and Portfolio Value Creation",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oa25xU2U4QmwxWnd1aVlSV2h3Y2VwQVVxaFFwUEZZbVlzcERxekNWRi1NR0xEbzVoeENyaTFDR2FtWTVDRWh4bFBYcGx6QjJ6QTNWQlpoN1NOLWhwb2RF?oc=5"
+      },
+      "queued_at": "2026-09-18T11:47:02.074733+00:00",
+      "score": 7.0,
+      "why": "Research report from an IT major disclosing market insights on AI adoption and value creation."
+    },
+    {
+      "headline": "Meesho's Valmo helps delivery partners claim Rs 2 cr in tax refunds",
+      "post": {
+        "created_at": "2026-09-18T11:37:37+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1789731457249",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "SMEStreet",
+        "reposts": 0,
+        "text": "Meesho\u2019s Valmo Helps Delivery Partners Simplify Tax Compliance; ~\u20b92 Cr in Refunds Claimed",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGtrVHBxWHo5a2dqcHp3dHZfN25xN2ZPc19GQTlnb3BzREI1OFNHeHNvazBzQk9vMzVjeVlSY3hTU19XSURXUks0Q25LRDBuZkJ2dS05ZUV5bXVnbGI3YjBCMHlWWW01TklJbjFlcmlvQ0NKTzVZS0hqMWNSYWVmelFNenlWZUJtelpHZlltWmtJNlVaenpFWXZ3ZTd6ZzQtZzlyT202ZlNCX1Q3UXhxSDJxUVBEdXlGV3BoeElKYkfSAcABQVVfeXFMTUxra1RwcVh6OWtnanB6d3R2XzducTdmT3NfRkE5Z29wc0RCNThTR3hzb2swc0JPbzM1Y3lZUmN4U1NfV0lEV1JLNENuS0QwbmZCdnUtOWVFeW11Z2xiN2IwQjB5VlltNU5JSW4xZXJpb0NDSk81WUtIajFjUmFlZnpRTXp5VmVCbXpaR2ZZbVprSTZVWnp6RVl2d2U3emc0LWc5ck9tNmZTQl9UN1F4cUgycVFQRHV5RldwaHhJSmJH?oc=5"
+      },
+      "queued_at": "2026-09-18T11:47:02.074733+00:00",
+      "score": 7.0,
+      "why": "Company logistics arm disclosure featuring hard numbers regarding gig worker tax compliance."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9777,7 +9835,7 @@
     "bse tata elxsi": 1789747769538,
     "bse tcs": 1789482643423,
     "bse tech mahindra": 1789676334674,
-    "bse urban company": 1789573707481,
+    "bse urban company": 1789751518225,
     "bse vodafone idea": 1789581151844,
     "bse wipro": 1789663475234,
     "bse zaggle": 1789743436158,
@@ -9799,20 +9857,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789723364720,
-    "news: consumer internet india": 1789730529814,
+    "news: consumer internet india": 1789731457249,
     "news: global ai": 1789730257787,
-    "news: global chips": 1789726212534,
-    "news: global it services": 1789729510270,
-    "news: india ai deeptech": 1789730000402,
+    "news: global chips": 1789731480966,
+    "news: global it services": 1789731330656,
+    "news: india ai deeptech": 1789730775605,
     "news: india edtech gaming": 1789716942230,
-    "news: india fintech": 1789730499734,
-    "news: india semiconductors": 1789730947714,
+    "news: india fintech": 1789731122229,
+    "news: india semiconductors": 1789731240701,
     "news: india tech policy": 1789725185717,
-    "news: india telecom": 1789730340021,
-    "news: indian it majors": 1789730955557,
+    "news: india telecom": 1789731428532,
+    "news: indian it majors": 1789731210362,
     "news: indian it midcaps": 1789723980877,
     "news: pib releases": 1789729920532,
-    "news: tech leaders": 1789728938622,
+    "news: tech leaders": 1789731099748,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789646400569,
@@ -9844,7 +9902,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T11:32:18.451353+00:00",
+    "last_server_run": "2026-09-18T11:47:02.338321+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T10:04:26.211361+00:00",
