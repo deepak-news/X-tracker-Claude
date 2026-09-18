@@ -1,86 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-11T12:46:25.970224+00:00",
-      "handle": "News: India fintech",
-      "headline": "15 payment firms including Razorpay line up for GIFT City licences",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMVlSS1I4ZUtmUkZKdTJrbjI3ZlpZUXdvRzNhcTBxeV9RNEVXV0RwUWRhNXZ3X29BMFVVMXBMS0tHTThXUmFPLUN4S1ItMmdjb3Znc1BXa0o2VkFjS3lSZ0tkSndQbjh1WHB0MjJudEM4eUhyc0NtQk5GTFpGWXBSLTNKTDJmMWpyWXVXVE5zOC1JcXRGeTJZWUJ3Y1hfVzFYeU5QdU1QSWdkaV8zMWZPSzQxMFhmcFlKbXV6VEhHcDZSek8ybkk1OVVHcWpMLXR2ZTZib2VfZzBTSUFFTm1xMGkxWV9IVFlJdUFwWk5JN1pjQdIB-AFBVV95cUxPbkhTQVg1cFhCenFqOXYzNDdCWGpBTnRRYUpWbzh1ZkFUd1Y2TjJWc3RjVnVBbXZhcU9CWlFVNGExd2dzWkhNc0N1bXE3LXhpbVZZT1Q3Z3NVX0g0Z09GRGNuOFRlLXh2Q2ZHMlJzOXZwVkdHeXpRLV80VGFwY2pWSTZtZzV3RU0tZEtNUHBoelhpbkoySzE2a2g1eG5xOUxXTnNKV0FMc3V4WGtiUk44S3puejYxTVpSRHh0SERiRUM3N3dxMkZLRzJtenAzOE1JRkc4MmdjZlFBNW91aDZZb00yNlh2Z1ZaVFo3YTVfNmc0WXJPWHRxUg?oc=5",
-      "words": [
-        "among",
-        "city",
-        "ebixcash",
-        "firms",
-        "gift",
-        "licences",
-        "lining",
-        "pay",
-        "payment",
-        "razorpay",
-        "regulus"
-      ]
-    },
-    {
-      "at": "2026-09-11T13:16:18.724899+00:00",
-      "handle": "News: India fintech",
-      "headline": "SBI to use UPI data for small business loans",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaE5qUmNCbHF2RktWUF9uMTRaeWNfNkVyek9INU9DM05BYkZGOTRvVkl4RGRDY3BmUWlKbGpzZVlabnpkcUxBNnJVblBlTjZKa3ZDakJjaTdIVnNkUm9WSjY4WUJYc1h3Z180SDYwbHluVm8wVFlieGU5SVdNTkVVLTdlamVrZUpQWWZZalU1Q0FGNVBKYnp4R2dscGo4bUY5QThwWXU2alhVb0daLVlqb256N0xHLUxuVlozcExuZzBJY3JEM04tWG9nNDBBbGk2UGxBUXE2Y1TSAd4BQVVfeXFMTkJSVDR2X3ZnbWRrUG0xOWlRTzRuNmx0eEdGTk1HTG1nbEVqTGc4UXFQTFlvbHc5dTlKd280MWdUb3o3c0VkRWJvRnh1RWM4Q28xWWxKWmR5VGpPLVFmT0hIQXRDajJ2RjRjTnlxWnJzNUtCUmdBYUhaeWZRYUc3NWswUlpuRUFyOTZIOU5KVVNIenJwNDdiaFRPY2Ntd285TDdhc29lQk1OQXJ6YlV1UVNSNGc2WEJORmlDTzJIdzM1OUIyTDhLNUE2Q1NMOWxyaVFyRGRrQ2kzTWpWRkp3?oc=5",
-      "words": [
-        "businesses",
-        "data",
-        "gst",
-        "lend",
-        "registration",
-        "sbi",
-        "small",
-        "upi",
-        "use",
-        "without"
-      ]
-    },
-    {
-      "at": "2026-09-11T13:31:55.168993+00:00",
-      "handle": "News: India fintech",
-      "headline": "Phi Commerce expands into UPI credit and open-commerce infrastructure",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbndUeW44M2ViM2NqVDRzMDlLc3dCNk8tRzM0RlQ0TldHWHNjYks0S1dpX3dQdWZhRThJaWZtS1k0dEk4M2FIZlZ3cTRyQzU4NlhVa3VBQm1CTy1sWHBZeHc2N0I2QUdNR2RUSGFEWjFUN2Yxa25wU2V6cWNfanFJX0hoMDY0YVByQ1lLbF9nOW45U0NsMVNvS01mQ2tXY1dTM3F6RFp5VTYyOTJkcVVGMGhmdnRoMzZTZTJsUkJCaUd2T3Z3QWV0dmJEeGFEYnd0Tm5B0gHXAUFVX3lxTE5TYjRuNFNKdWlnR2czbENMZjFmQVNhMlF1cFI1b29oUWh0dU16LW92TnhuMUJXN2s5dlJoejcyS2lCOHZSbWxzazhSOUtTS1BIZkd3aEQxbUl4ZmxDV0cxZXB3V1FiWUFUSFRhRFJheVF3dVN0RWpnWHZqNGFKdFpnV01WekU4LU5CSElLdkNVRVJFbTNfY2FBeWxOeUoxbTRPbkFmUjVEMW1iaGhrU2loRzNoeEhWWG4yb01nYU42Z2ZMZTNkTEpBbnExN3lwODM3STl0MHU0?oc=5",
-      "words": [
-        "beyond",
-        "commerce",
-        "credit",
-        "goes",
-        "infrastructure",
-        "issuer",
-        "open",
-        "payments",
-        "phi",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-11T13:46:33.928581+00:00",
-      "handle": "News: PIB releases",
-      "headline": "Nirmala Sitharaman says Federated Industry Platform benefits Indian tech sector",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSM1F6dnVhN0pNVklRU1VHOXl2SGNZdHd0cm1SNHphUTB1VUc1NU54V0xrdUt3SDhydEFhSnkzOWJsNHhrWXpLR2NmZ2RWNGRaNHdLYnFPZ18tN3hMRDdiSHhwU2U2SzFOS0FB?oc=5",
-      "words": [
-        "benefit",
-        "collective",
-        "federated",
-        "giving",
-        "industry",
-        "international",
-        "nirmala",
-        "platform",
-        "sector",
-        "sitharaman",
-        "smt",
-        "tech",
-        "voice"
-      ]
-    },
-    {
       "at": "2026-09-11T13:46:33.928581+00:00",
       "handle": "News: India fintech",
       "headline": "Navi uses AI to build credit and fraud models: Sachin Bansal",
@@ -7304,12 +7224,87 @@
         "tech",
         "ties"
       ]
+    },
+    {
+      "at": "2026-09-18T03:31:59.552593+00:00",
+      "handle": "News: India fintech",
+      "headline": "Government sources confirm UPI fees will not be passed to customers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlprS1Bjd3dNUnhHYTRRdERsc3l1TFNSdHZKaGwzazZnTF8zaWh5RWhnWi0tdl83SWt5Qk5GWXBtR01HdkhCR3pGbDZFcW5leWxrblZ0ZGdJVjZTZFpFZ1BFT0d6clRlRkhORGk5X3I5OElEeGJpcnQ5MzlVbHpfTWo2SFlFdzlqUTBlcThJS3doT1NZWmItZ1A3WlZQcUhZamwxSm1qZHhSV1Ewa18zWHpiaXdpUdIBvgFBVV95cUxQMlV2eVhlS01RZUJ6MUZFMWw4Ul9WQnF6MTI5UHhRWHpBUTMyUEljUWFUbzFaYzY4R3dBcGl4YUdTcVpLY2VmaDNDb2QtSGM0amRBdFc2cm9YNkw3LXVHQkVXVWVfelZ6MGp3dTlJeTJVRk5CUS10VGlXbDZvaVRIYXVmaGdXb0ZZRTVfRkNpOVJyTkxBWmNuYnlXcTNsNlpfQjcyU1dOYVBvRjlYWTVIUGFkZUw4TWtVcXg3bVp3?oc=5",
+      "words": [
+        "burden",
+        "customers",
+        "extra",
+        "fees",
+        "gst",
+        "merchants",
+        "pass",
+        "sources",
+        "upi",
+        "won"
+      ]
+    },
+    {
+      "at": "2026-09-18T03:31:59.552593+00:00",
+      "handle": "News: India fintech",
+      "headline": "NPCI reports FY26 net profit of INR 1,362 crore",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdktyaVc4TTd1dnpKT2tmZWpTcWxXQzZZVTctOXQ5YlpVeE5KR3V4MGR4bUhEdXV1SkdLZENWZW1YYk5HOFBEdzVjSVFtNTdBMTBGeWJyQWdXajNGcUxaODhJaGhoemh3cFRBRFI0S05MZzUtSnUtdDI1ZWJZWTlkYk9kT1IyR0lwSjBKUGp5c09NSG1PcTJYSkhNMm9QQ3B4TTlwU1g0bnZ3Vlh0UkkxSmpXREIyUUxlcmpEaTVrNA?oc=5",
+      "words": [
+        "362",
+        "despite",
+        "falls",
+        "fy26",
+        "growth",
+        "inr",
+        "net",
+        "npci",
+        "profit",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-18T03:31:59.552593+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Infineon CEO praises India's comprehensive semiconductor mission",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOEswNksxdE4xMDdHZTBfQVozZmMta1dxcENXcnpjY0JoQXA5bTZJcnZVNnVmSm84REZiaUgyZVV5SXIyekxIZm5zdEdYZjZWT2poOG5JYlppRG1qTS01SFdHbXh3R3NTZWVXNG1FY1gtODVIdG1NRGNkcWZMbE1WQlV1emNyb21PRTA4Nk1kUm5HMmJraW0yTHMwWkRiUFpya1czRnI4bUtTdG1IRU1uS1pzRElCUjJSRUo0Uk5WWGk0OVQ1dGJGR0ppNHdSYjNHN3p1Y0tRLXlzRVN3Y09SSXdwM2Jkc1VTcW4tem1iSW5sSUF4ZFl6S2pwZ9IBgAJBVV95cUxQWE1wWkMzMWx6Z19FZkl0ZVdkVDNVbFZEZWUtYVlzWlh3OGpzT19mSTNHekpNUC1QZF9GWkpNWFRfdFFpWUNKRzFocEZYRnlwWnRzMlhMLUhFaUxSeXV2d2dxUnRTZjJBTTZBcm5qa2tTSWpHVER4M2pZLVc5eWwyZGJBUEdkZWhRdElRYTUyMzdzNy1SYUt0X2lieko1UkZZNXZuVURpaE4yQjRJYVFjcDJ2bG1ubjg4bXBEZXBfaUVwWjA0Q2FDQTdTbHktNjF1cGVJQldiYkp3bjFTLUlORnc5dmw1OHozZERKMmttMXc2MzdhaVh4ZjV3aFRzSFJi?oc=5",
+      "words": [
+        "ceo",
+        "chip",
+        "comprehensive",
+        "countries",
+        "infineon",
+        "many",
+        "mission",
+        "more",
+        "technologies",
+        "than"
+      ]
+    },
+    {
+      "at": "2026-09-18T03:31:59.552593+00:00",
+      "handle": "News: India fintech",
+      "headline": "SEBI to hear brokers' concerns over UPI MDR and transfers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdjlOUlJlMUNQSjVwOWxPYlg2a01sVi1YS21UWUZjZmFOSHFZYjMwWlZ4MU14TTFGZUZmbTU0bU1uNVdXVTlzblNKRFdqV1NtczMzMG1Gb3NjYU81VXdZSzJqZmlTdjZKSUpzQmRDNFd6YzdiM2pmYS1hV1pqOC16U3dYRERSNlpwdE9iUEJZbnNuTDF2WUZhc2NXUWw0aGxwT2V1bGFWZnAwb05OTVh4STN6ckk0MDEzazdIM2RmV0swU0FSSGtTMnRSVzZ0TlXSAdQBQVVfeXFMTWtxTVBDSGE2NzNOVkgxaDgwMmtLUnhTam9RdG90M1UzejNxRThIR0p6cUI4NDB0N1VkX3k0TE1Jbi00azJPNGIxdDBtOUtyaEQ3eWt6b0d4dkc0b2JmRUhZLUpiRVJYM1lHaE5MZ2ZrZHM3UDlsY1RObE04TmlDeGFjcE1tbDROUjNMZ0RWMFNMLWpQQUFnYmRrbmJydHZkQ0ZTaDJiV0ZZUVlLdHdRRzI5WmFRSGhmMWU1Mjd5NUh3N2xNWmRWbWVoM1lHOFppa2RlY0U?oc=5",
+      "words": [
+        "account",
+        "brokers",
+        "charges",
+        "concerns",
+        "hear",
+        "mdr",
+        "trading",
+        "transfers",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-18T08",
-  "last_success": "2026-09-18T03:16:56.630072+00:00",
+  "last_digest_hour": "2026-09-18T09",
+  "last_success": "2026-09-18T03:31:59.553321+00:00",
   "national": {
     "alerted": [
       {
@@ -7898,7 +7893,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-18T03:20:31.832111+00:00",
+    "last_run": "2026-09-18T03:33:05.965593+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8615,7 +8610,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-gratitude-for-wishes-affection-and-blessings",
       "pib:2311747",
       "pib:2311768",
-      "pib:2311769"
+      "pib:2311769",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63618"
     ],
     "source_failures": {
       "CBI": {
@@ -8648,80 +8644,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Infineon CEO praises India's comprehensive semiconductor mission",
-      "post": {
-        "created_at": "2026-09-18T02:36:29+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789698989583",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "India's chip mission more comprehensive than many countries: Infineon Technologies CEO",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOEswNksxdE4xMDdHZTBfQVozZmMta1dxcENXcnpjY0JoQXA5bTZJcnZVNnVmSm84REZiaUgyZVV5SXIyekxIZm5zdEdYZjZWT2poOG5JYlppRG1qTS01SFdHbXh3R3NTZWVXNG1FY1gtODVIdG1NRGNkcWZMbE1WQlV1emNyb21PRTA4Nk1kUm5HMmJraW0yTHMwWkRiUFpya1czRnI4bUtTdG1IRU1uS1pzRElCUjJSRUo0Uk5WWGk0OVQ1dGJGR0ppNHdSYjNHN3p1Y0tRLXlzRVN3Y09SSXdwM2Jkc1VTcW4tem1iSW5sSUF4ZFl6S2pwZ9IBgAJBVV95cUxQWE1wWkMzMWx6Z19FZkl0ZVdkVDNVbFZEZWUtYVlzWlh3OGpzT19mSTNHekpNUC1QZF9GWkpNWFRfdFFpWUNKRzFocEZYRnlwWnRzMlhMLUhFaUxSeXV2d2dxUnRTZjJBTTZBcm5qa2tTSWpHVER4M2pZLVc5eWwyZGJBUEdkZWhRdElRYTUyMzdzNy1SYUt0X2lieko1UkZZNXZuVURpaE4yQjRJYVFjcDJ2bG1ubjg4bXBEZXBfaUVwWjA0Q2FDQTdTbHktNjF1cGVJQldiYkp3bjFTLUlORnc5dmw1OHozZERKMmttMXc2MzdhaVh4ZjV3aFRzSFJi?oc=5"
-      },
-      "queued_at": "2026-09-18T02:46:59.851054+00:00",
-      "score": 7.0,
-      "why": "Senior semiconductor executive statement on India's chip strategy carries industry policy weight."
-    },
-    {
-      "headline": "Government sources confirm UPI fees will not be passed to customers",
-      "post": {
-        "created_at": "2026-09-18T02:42:01+00:00",
-        "handle": "News: India fintech",
-        "id": "1789699321734",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV",
-        "reposts": 0,
-        "text": "UPI Fees Won't Pass To Customers, No Extra GST Burden For Merchants: Sources",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlprS1Bjd3dNUnhHYTRRdERsc3l1TFNSdHZKaGwzazZnTF8zaWh5RWhnWi0tdl83SWt5Qk5GWXBtR01HdkhCR3pGbDZFcW5leWxrblZ0ZGdJVjZTZFpFZ1BFT0d6clRlRkhORGk5X3I5OElEeGJpcnQ5MzlVbHpfTWo2SFlFdzlqUTBlcThJS3doT1NZWmItZ1A3WlZQcUhZamwxSm1qZHhSV1Ewa18zWHpiaXdpUdIBvgFBVV95cUxQMlV2eVhlS01RZUJ6MUZFMWw4Ul9WQnF6MTI5UHhRWHpBUTMyUEljUWFUbzFaYzY4R3dBcGl4YUdTcVpLY2VmaDNDb2QtSGM0amRBdFc2cm9YNkw3LXVHQkVXVWVfelZ6MGp3dTlJeTJVRk5CUS10VGlXbDZvaVRIYXVmaGdXb0ZZRTVfRkNpOVJyTkxBWmNuYnlXcTNsNlpfQjcyU1dOYVBvRjlYWTVIUGFkZUw4TWtVcXg3bVp3?oc=5"
-      },
-      "queued_at": "2026-09-18T03:02:22.943644+00:00",
-      "score": 8.0,
-      "why": "This is a direct follow-up development to ongoing merchant UPI fee discussions."
-    },
-    {
-      "headline": "NPCI reports FY26 net profit of INR 1,362 crore",
-      "post": {
-        "created_at": "2026-09-18T03:01:50+00:00",
-        "handle": "News: India fintech",
-        "id": "1789700510013",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Prop News Time",
-        "reposts": 0,
-        "text": "NPCI's FY26 net profit falls 12% to INR 1,362 crore despite UPI growth",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdktyaVc4TTd1dnpKT2tmZWpTcWxXQzZZVTctOXQ5YlpVeE5KR3V4MGR4bUhEdXV1SkdLZENWZW1YYk5HOFBEdzVjSVFtNTdBMTBGeWJyQWdXajNGcUxaODhJaGhoemh3cFRBRFI0S05MZzUtSnUtdDI1ZWJZWTlkYk9kT1IyR0lwSjBKUGp5c09NSG1PcTJYSkhNMm9QQ3B4TTlwU1g0bnZ3Vlh0UkkxSmpXREIyUUxlcmpEaTVrNA?oc=5"
-      },
-      "queued_at": "2026-09-18T03:16:56.629736+00:00",
-      "score": 8.0,
-      "why": "Major financial and regulatory infrastructure company results with hard numbers."
-    },
-    {
-      "headline": "SEBI to hear brokers' concerns over UPI MDR and transfers",
-      "post": {
-        "created_at": "2026-09-18T03:04:25+00:00",
-        "handle": "News: India fintech",
-        "id": "1789700665035",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Telegraph India",
-        "reposts": 0,
-        "text": "Sebi to hear brokers\u2019 concerns over UPI MDR charges and trading account transfers",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdjlOUlJlMUNQSjVwOWxPYlg2a01sVi1YS21UWUZjZmFOSHFZYjMwWlZ4MU14TTFGZUZmbTU0bU1uNVdXVTlzblNKRFdqV1NtczMzMG1Gb3NjYU81VXdZSzJqZmlTdjZKSUpzQmRDNFd6YzdiM2pmYS1hV1pqOC16U3dYRERSNlpwdE9iUEJZbnNuTDF2WUZhc2NXUWw0aGxwT2V1bGFWZnAwb05OTVh4STN6ckk0MDEzazdIM2RmV0swU0FSSGtTMnRSVzZ0TlXSAdQBQVVfeXFMTWtxTVBDSGE2NzNOVkgxaDgwMmtLUnhTam9RdG90M1UzejNxRThIR0p6cUI4NDB0N1VkX3k0TE1Jbi00azJPNGIxdDBtOUtyaEQ3eWt6b0d4dkc0b2JmRUhZLUpiRVJYM1lHaE5MZ2ZrZHM3UDlsY1RObE04TmlDeGFjcE1tbDROUjNMZ0RWMFNMLWpQQUFnYmRrbmJydHZkQ0ZTaDJiV0ZZUVlLdHdRRzI5WmFRSGhmMWU1Mjd5NUh3N2xNWmRWbWVoM1lHOFppa2RlY0U?oc=5"
-      },
-      "queued_at": "2026-09-18T03:16:56.629736+00:00",
-      "score": 7.0,
-      "why": "Develops the ongoing regulatory story regarding the UPI MDR framework."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9693,17 +9616,17 @@
     "microsoft india": 1789552630084,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789700908923,
+    "news: big tech platforms": 1789701451332,
     "news: consumer internet india": 1789698428582,
     "news: global ai": 1789700160521,
     "news: global chips": 1789698300308,
     "news: global it services": 1789683307597,
     "news: india ai deeptech": 1789698760255,
     "news: india edtech gaming": 1789666440914,
-    "news: india fintech": 1789700665035,
-    "news: india semiconductors": 1789700966323,
+    "news: india fintech": 1789701750013,
+    "news: india semiconductors": 1789701277882,
     "news: india tech policy": 1789682326030,
-    "news: india telecom": 1789700087845,
+    "news: india telecom": 1789701168690,
     "news: indian it majors": 1789700461811,
     "news: indian it midcaps": 1789689600192,
     "news: pib releases": 1789667640666,
@@ -9739,17 +9662,17 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T03:16:56.967652+00:00",
+    "last_server_run": "2026-09-18T03:31:59.883408+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-18T01:17:23.688564+00:00",
+        "checked": "2026-09-18T03:32:16.035067+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-18T01:17:15.902635+00:00",
+        "checked": "2026-09-18T03:32:08.321404+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -9825,7 +9748,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-18T01:17:19.703357+00:00",
+        "checked": "2026-09-18T03:32:12.100986+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
