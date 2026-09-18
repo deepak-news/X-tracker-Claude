@@ -278,6 +278,183 @@ FAILS_BEFORE_REST = 3
 REST_HOURS = 6
 
 
+# ------------------------------------------------------------ earthquakes
+
+NCS_URL = "https://riseq.seismo.gov.in/riseq/earthquake"
+USGS_URL = "https://earthquake.usgs.gov/fdsnws/event/1/query"
+
+# How an Indian quake is told apart from a foreign one. The National Centre
+# for Seismology names Indian events by district and state ("Bichom,
+# Arunachal Pradesh") and foreign ones by country ("Tajikistan"); the USGS
+# writes "... , India". So the place is Indian when its last part is a state
+# or union territory, or says India.
+STATES = {
+    "andhra pradesh", "arunachal pradesh", "assam", "bihar", "chhattisgarh",
+    "goa", "gujarat", "haryana", "himachal pradesh", "jharkhand", "karnataka",
+    "kerala", "madhya pradesh", "maharashtra", "manipur", "meghalaya",
+    "mizoram", "nagaland", "odisha", "punjab", "rajasthan", "sikkim",
+    "tamil nadu", "telangana", "tripura", "uttar pradesh", "uttarakhand",
+    "west bengal", "andaman and nicobar islands", "chandigarh",
+    "dadra and nagar haveli and daman and diu", "delhi", "jammu and kashmir",
+    "ladakh", "lakshadweep", "puducherry", "india",
+}
+
+
+# The neighbourhood. A quake in these is felt in India, reported by Indian
+# seismologists, and read here as Indian news -- so the Indian network is
+# the one quoted, at the same size as anywhere else in the world. Tibet is
+# named separately because both networks write it that way rather than
+# "China", and the Hindu Kush quakes that shake Delhi are Afghan.
+NEIGHBOURS = {
+    "afghanistan", "bangladesh", "bhutan", "china", "maldives", "myanmar",
+    "nepal", "pakistan", "sri lanka", "tibet",
+}
+
+
+def _region(place: str) -> str:
+    """Where a quake happened: "india", "neighbour" or "world"."""
+    text = place.lower()
+    parts = [p.strip() for p in text.split(",") if p.strip()]
+    if parts and (parts[-1] in STATES or "india" in parts[-1]):
+        return "india"
+    if any(re.search(rf"\b{name}\b", text) for name in NEIGHBOURS):
+        return "neighbour"
+    return "world"
+
+
+def _quake_post(row: dict) -> Post:
+    """One earthquake, written the way a wire desk would read it."""
+    local = row["when"].astimezone(IST)
+    depth = f", {row['depth']:.0f} km deep" if row.get("depth") is not None else ""
+    return _blank(
+        id=f"quake:{row['source'].lower()}:{row['event']}",
+        handle=f"Quake {row['source']}",
+        text=(f"Magnitude {row['magnitude']:.1f} earthquake -- {row['place']}. "
+              f"{local.strftime('%d %b %Y, %H:%M')} IST{depth}. "
+              f"Reported by {row['source']}."),
+        url=row["url"],
+        created_at=row["when"].isoformat(),
+    )
+
+
+def _ncs_quakes() -> list:
+    """Every event on the National Centre for Seismology's live map.
+
+    The map is drawn in the browser, but the page it comes in already carries
+    the data: each event in the side list holds its own details in a
+    data-json attribute. Times there are IST.
+    """
+    response = requests.get(NCS_URL, timeout=sources.TIMEOUT,
+                            headers=sources.PAGE_HEADERS, verify=False)
+    response.raise_for_status()
+    found = []
+    for raw in re.findall(r"data-json='([^']+)'", response.text):
+        try:
+            row = json.loads(html.unescape(raw))
+            magnitude = float(re.search(r"M:\s*([\d.]+)", row["magnitude_depth"]).group(1))
+            when = dt.datetime.strptime(row["origin_time"].replace(" IST", ""),
+                                        "%Y-%m-%d %H:%M:%S").replace(tzinfo=IST)
+            depth = re.search(r"D:\s*([\d.]+)", row["magnitude_depth"])
+            latitude, longitude = (float(x) for x in row["lat_long"].split(","))
+        except (KeyError, ValueError, AttributeError, json.JSONDecodeError):
+            continue
+        found.append({
+            "source": "NCS", "event": row.get("event_id") or f"{when:%Y%m%d%H%M%S}",
+            "magnitude": magnitude, "place": row["event_name"].split(" - ", 1)[-1],
+            "when": when.astimezone(UTC), "url": NCS_URL,
+            "depth": float(depth.group(1)) if depth else None,
+            "latitude": latitude, "longitude": longitude,
+        })
+    return found
+
+
+def _usgs_quakes(hours: float) -> list:
+    """The USGS feed, for everywhere the Indian network does not name."""
+    start = (dt.datetime.now(UTC) - dt.timedelta(hours=hours)).strftime("%Y-%m-%dT%H:%M:%S")
+    response = requests.get(USGS_URL, timeout=sources.TIMEOUT, headers=sources.PAGE_HEADERS,
+                            params={"format": "geojson", "minmagnitude": 4,
+                                    "starttime": start, "orderby": "time", "limit": 200})
+    response.raise_for_status()
+    found = []
+    for feature in response.json().get("features") or []:
+        p = feature.get("properties") or {}
+        coords = (feature.get("geometry") or {}).get("coordinates") or [None, None, None]
+        if p.get("mag") is None or not p.get("time") or coords[0] is None:
+            continue
+        found.append({
+            "source": "USGS", "event": feature.get("id") or str(p["time"]),
+            "magnitude": float(p["mag"]), "place": p.get("place") or "location not given",
+            "when": dt.datetime.fromtimestamp(p["time"] / 1000, UTC),
+            "url": p.get("url") or "", "depth": coords[2],
+            "latitude": coords[1], "longitude": coords[0],
+        })
+    return found
+
+
+def _same_quake(a: dict, b: dict) -> bool:
+    """One tremor, reported by both networks a little differently.
+
+    Within three minutes and about a degree -- roughly a hundred kilometres,
+    which is wider than the two networks' estimates ever differ, and far
+    narrower than the gap between two unrelated quakes at the same moment.
+    """
+    return (abs(a["when"] - b["when"]) <= dt.timedelta(minutes=3)
+            and abs(a["latitude"] - b["latitude"]) <= 1.0
+            and abs(a["longitude"] - b["longitude"]) <= 1.0)
+
+
+def quakes(cfg: dict) -> list:
+    """Earthquakes worth telling the desk about, from both networks.
+
+    Two thresholds, because a quake in India matters at a size that would
+    pass unremarked in the Pacific: anything at or above india_min_magnitude
+    in India, and min_magnitude everywhere else, neighbours included.
+
+    Which network is quoted follows where it happened. India and the
+    neighbouring countries are the Indian network's own patch, and it often
+    has them when the USGS does not, or sizes them a little differently;
+    everywhere else is the USGS. So the same tremor is never emailed twice.
+    """
+    settings = cfg.get("earthquakes") or {}
+    if settings is False or settings.get("off"):
+        return []
+    world = float(settings.get("min_magnitude", 5))
+    india = float(settings.get("india_min_magnitude", 4.5))
+    near = float(settings.get("neighbour_min_magnitude", world))
+    hours = float(cfg.get("max_age_hours", 12))
+
+    found, networks = [], 0
+    for name, reader in (("NCS", _ncs_quakes), ("USGS", lambda: _usgs_quakes(hours))):
+        try:
+            found.extend(reader())
+            networks += 1
+        except Exception as exc:                                  # noqa: BLE001
+            print(f"  ! the {name} earthquake feed could not be read: {str(exc)[:110]}")
+    if not networks:
+        raise RuntimeError("neither earthquake network could be read")
+
+    cutoff = dt.datetime.now(UTC) - dt.timedelta(hours=hours)
+    bar = {"india": india, "neighbour": near, "world": world}
+    big = []
+    for row in found:
+        row["region"] = _region(row["place"])
+        if row["when"] < cutoff:
+            continue
+        if row["magnitude"] < bar[row["region"]]:
+            continue
+        big.append(row)
+
+    # The same tremor is on both feeds. Keep the network whose patch it is
+    # -- the Indian one for India and its neighbours, the USGS elsewhere --
+    # and, if only one network could be read at all, whatever it reported.
+    home = lambda row: (row["region"] in ("india", "neighbour")) == (row["source"] == "NCS")
+    kept = []
+    for row in sorted(big, key=lambda r: (not home(r), r["when"])):
+        if not any(_same_quake(row, other) for other in kept):
+            kept.append(row)
+    return [_quake_post(row) for row in sorted(kept, key=lambda r: r["when"])]
+
+
 def collect(cfg: dict, scanned: set, memory: dict | None = None) -> tuple:
     """Returns (posts, names of sources that failed).
 
@@ -294,6 +471,8 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None) -> tuple:
         readers.append(("PIB, all ministries", _pib))
     if cfg.get("gazette", True):
         readers.append(("Gazette of India (Extraordinary)", lambda: _gazette(scanned)))
+    if cfg.get("earthquakes") is not False:
+        readers.append(("Earthquakes (NCS and USGS)", lambda: quakes(cfg)))
     for entry in cfg.get("feeds") or []:
         readers.append((entry["name"], lambda entry=entry: _feed(entry)))
     for entry in cfg.get("pages") or []:
@@ -448,6 +627,7 @@ BADGES = (
     ("CBI", "#991b1b", "CBI"),
     ("IMD", "#0e7490", "IMD"),
     ("State: ", "#9a3412", "STATE"),
+    ("Quake ", "#b91c1c", "EARTHQUAKE"),
 )
 
 
@@ -459,7 +639,7 @@ def _badge(post) -> tuple:
 
 
 def _issuer(post) -> str:
-    for prefix in ("PIB ", "Gazette ", "State: "):
+    for prefix in ("PIB ", "Gazette ", "State: ", "Quake "):
         if post.handle.startswith(prefix):
             return post.handle[len(prefix):]
     return post.handle
@@ -487,7 +667,9 @@ def build_email(rows: list) -> tuple:
         major = (f'<span style="background:#b91c1c;color:#fff;font:700 10px/1 {font};'
                  f'letter-spacing:.08em;padding:4px 7px;border-radius:3px;margin-left:6px;">'
                  f'MAJOR</span>') if value >= 9 else ""
-        if post.handle.startswith("Gazette "):
+        if post.handle.startswith("Quake "):
+            action = "See the network's own page"
+        elif post.handle.startswith("Gazette "):
             action = "Open the gazette (PDF)"
         elif post.url.lower().endswith(".pdf"):
             action = "Open the PDF"
@@ -518,7 +700,9 @@ def build_email(rows: list) -> tuple:
         Screened from official sources: PIB, the Gazette of India, central
         ministries, regulators and agencies, and state governments. Only items
         judged to have broad public news value are sent; routine releases are
-        left out. Headlines are machine-written from
+        left out. Earthquakes come straight from the National Centre for
+        Seismology and the USGS, by magnitude, unscreened.
+        Headlines are machine-written from
         the official text -- check the original before publishing.
       </div>
     </div>"""
@@ -599,7 +783,16 @@ def run(dry_run: bool) -> int:
         print("First run, dry: scoring what is listed now as a preview. "
               "A real first run sends nothing.")
 
-    rows = []
+    # An earthquake is a measurement, not a judgement: it is over the
+    # threshold or it is not. These skip the AI entirely, so they still go
+    # out when it is out of quota, slow, or wrong about what matters.
+    tremors = [p for p in fresh if p.handle.startswith("Quake ")]
+    fresh = [p for p in fresh if not p.handle.startswith("Quake ")]
+    rows = [(p, 10, p.text.split(". ")[0] + ".", "") for p in tremors]
+    settled |= {p.id for p in tremors}
+    if tremors:
+        print(f"{len(tremors)} earthquake(s) over the threshold -- sent without the AI")
+
     if fresh:
         # No folding by similar wording here, unlike the news tracker: official
         # documents share so much legal boilerplate that it merged dozens of
@@ -622,7 +815,8 @@ def run(dry_run: bool) -> int:
                 dropped = {p.id for p in others if id(p) not in kept}
                 settled |= dropped
                 fresh = [p for p in fresh if p.id not in dropped]
-            rows, judged = score(fresh, rubric, state, memory)
+            judged_rows, judged = score(fresh, rubric, state, memory)
+            rows += judged_rows           # the earthquakes are already in here
             settled |= judged
 
     picks = [r for r in rows if r[1] >= threshold]
