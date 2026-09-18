@@ -7350,7 +7350,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-19T01",
-  "last_success": "2026-09-18T19:47:07.247080+00:00",
+  "last_success": "2026-09-18T20:02:45.317197+00:00",
   "national": {
     "alerted": [
       {
@@ -8112,7 +8112,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-18T19:47:39.655998+00:00",
+    "last_run": "2026-09-18T20:03:20.647484+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8977,6 +8977,24 @@
       "queued_at": "2026-09-18T19:47:07.246810+00:00",
       "score": 8.0,
       "why": "This is a major partnership involving a top Indian conglomerate in the strategic semiconductor sector."
+    },
+    {
+      "headline": "Maharashtra fuel dealers to decide on halting UPI payments",
+      "post": {
+        "created_at": "2026-09-18T19:49:00+00:00",
+        "handle": "News: India fintech",
+        "id": "1789760940595",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "Maha fuel dealers to take call on halting UPI payments on Sept 27",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZXRHdmtQZmZGUTdUMUdITGFIR0V6dl9OR1ZZZC1ENmc0TDVxajNtc19nb0VWLW81VEhLdDZwdExvejE1S3BFdF9RN3pET19yMDRITm0wcmlxdXhtdDhnWlFkOWd3N3pNWmMtZ3RpZFlsR1c2Sy1jY21MbFQ5QlhpUnZMU2RWYzQxZGpMb1MxbWpYQmdsSi1aNEJjOHZ0TThHMnlUc3pUOW5Qd2ZZNlNveHV0aXFvbFVFYWRLVXpySDl6SzcwSDRjNzkwVGhtTjRoTzRZ0gHYAUFVX3lxTE5HN0g3VENILVFlZ1NXME9XSFpCODlzWGZlN3hPVUVKZ0lQb2dmUVBBRkh3bGRNaE5YT0MyaW9NQm1jVFgxQm9fRzRGbm94ZFhIQnZmNm1xZjN4WHdHRjRkQW41OVVnWU9OX2t3WlB6dlR2WDBpcDE1QURnT2t6czlnSmxzVFNqT2VGUmRvM295MXVzQWdIaHpBSzRmSDRYdHFPbk51cnVWZzJ0ZGZLV2thNnBQY0RQMlhTOFN6YXVQU0JFc1FMVnZIUzBXWFFyS1FRNU4tN0FFNg?oc=5"
+      },
+      "queued_at": "2026-09-18T20:02:45.316796+00:00",
+      "score": 7.0,
+      "why": "Follows up on merchant payment friction issues with UPI, similar to Indore traders threat."
     }
   ],
   "page_links": {
@@ -9673,7 +9691,8 @@
       "https://news.cognizant.com/2026-09-07-Cognizant-Invests-in-Americas-AI-Era-Workforce": "2026-09-17T07:46:48.537446+00:00",
       "https://news.cognizant.com/2026-09-09-Cognizant-Named-in-TIME-Worlds-Best-Companies-2026-List": "2026-09-17T07:46:48.537446+00:00",
       "https://news.cognizant.com/2026-09-14-Cognizant-Named-to-Newsweeks-Americas-Most-Admired-Workplaces-2027": "2026-09-17T07:46:48.537446+00:00",
-      "https://news.cognizant.com/2026-09-17-Axis-Bank-and-Cognizant-Collaborate-to-Strengthen-Application-Management-with-AMS-2-0": "2026-09-17T07:46:48.537446+00:00"
+      "https://news.cognizant.com/2026-09-17-Axis-Bank-and-Cognizant-Collaborate-to-Strengthen-Application-Management-with-AMS-2-0": "2026-09-17T07:46:48.537446+00:00",
+      "https://news.cognizant.com/2026-09-18-Cognizant-OpenAI-Codex-Hackathon-Americas": "2026-09-18T20:02:23.621710+00:00"
     },
     "Flipkart": {
       "https://stories.flipkart.com/announcement/flipkart-ads-launches-saarthi-to-help-sellers-grow-with-ai-powered-tools-and-expert-advertising-support": "2026-09-17T07:46:48.422790+00:00",
@@ -9942,7 +9961,7 @@
     "bse wipro": 1789752283470,
     "bse zaggle": 1789743436158,
     "capgemini": 1789728170178,
-    "cognizant": 1789631208737,
+    "cognizant": 1789761743637,
     "flipkart": 1789631208994,
     "google": 1789747200686,
     "google cloud": 1789650000163,
@@ -9965,12 +9984,12 @@
     "news: global it services": 1789760101320,
     "news: india ai deeptech": 1789754506520,
     "news: india edtech gaming": 1789728529151,
-    "news: india fintech": 1789759980382,
-    "news: india semiconductors": 1789760074376,
+    "news: india fintech": 1789760940595,
+    "news: india semiconductors": 1789760223792,
     "news: india tech policy": 1789756980915,
     "news: india telecom": 1789756284444,
     "news: indian it majors": 1789751290065,
-    "news: indian it midcaps": 1789752180407,
+    "news: indian it midcaps": 1789753560160,
     "news: pib releases": 1789751875860,
     "news: tech leaders": 1789749175675,
     "nvidia": 1789650055203,
@@ -10004,7 +10023,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T19:47:07.493234+00:00",
+    "last_server_run": "2026-09-18T20:02:45.607711+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T18:49:00.844649+00:00",
