@@ -7329,7 +7329,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-18T15",
-  "last_success": "2026-09-18T10:02:30.485456+00:00",
+  "last_success": "2026-09-18T10:16:53.150444+00:00",
   "national": {
     "alerted": [
       {
@@ -7821,6 +7821,29 @@
           "through",
           "trai"
         ]
+      },
+      {
+        "at": "2026-09-18T10:19:07.951612+00:00",
+        "handle": "PMO",
+        "headline": "Prime Minister Modi to distribute over 51,000 government appointment letters",
+        "tier": 1,
+        "url": "https://www.pmindia.gov.in/en/news_updates/under-20th-rozgar-mela-pm-to-distribute-more-than-51000-appointment-letters-to-the-newly-appointed-youth-in-government-on-19-september",
+        "words": [
+          "000",
+          "2026",
+          "20th",
+          "appointed",
+          "appointment",
+          "distribute",
+          "government",
+          "letters",
+          "mela",
+          "minister",
+          "modi",
+          "more",
+          "narendra",
+          "newly"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -7987,7 +8010,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-18T10:04:56.984635+00:00",
+    "last_run": "2026-09-18T10:19:07.976989+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8737,7 +8760,10 @@
       "pib:2311972",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63623",
       "pib:2311989",
-      "pib:2311987"
+      "pib:2311987",
+      "page:https://www.pmindia.gov.in/en/news_updates/under-20th-rozgar-mela-pm-to-distribute-more-than-51000-appointment-letters-to-the-newly-appointed-youth-in-government-on-19-september",
+      "pib:2311993",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-to-inaugurate-international-conference-on-the-future-of-environment-and-climate-dynamics-on-19-september"
     ],
     "source_failures": {
       "CBI": {
@@ -9766,19 +9792,19 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789721600300,
-    "news: consumer internet india": 1789724895642,
+    "news: consumer internet india": 1789725449266,
     "news: global ai": 1789720780621,
-    "news: global chips": 1789717500163,
+    "news: global chips": 1789726212392,
     "news: global it services": 1789716027601,
     "news: india ai deeptech": 1789724219179,
     "news: india edtech gaming": 1789716419230,
-    "news: india fintech": 1789725084153,
-    "news: india semiconductors": 1789723609039,
-    "news: india tech policy": 1789723583136,
-    "news: india telecom": 1789725160771,
+    "news: india fintech": 1789725525562,
+    "news: india semiconductors": 1789726135160,
+    "news: india tech policy": 1789725185717,
+    "news: india telecom": 1789726368964,
     "news: indian it majors": 1789723729568,
-    "news: indian it midcaps": 1789722281517,
-    "news: pib releases": 1789720538183,
+    "news: indian it midcaps": 1789722310096,
+    "news: pib releases": 1789725120242,
     "news: tech leaders": 1789724100615,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -9811,7 +9837,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T10:02:30.817693+00:00",
+    "last_server_run": "2026-09-18T10:16:53.484318+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T10:04:26.211361+00:00",
