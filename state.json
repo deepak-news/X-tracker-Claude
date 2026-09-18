@@ -1,47 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-13T13:16:14.319890+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Google DeepMind safety researcher resigns over AI development risks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVjA3dXBRUGdZOU1rS3RZaUxPMVVqTFBPMlU2N1NlY2dqN2RDaDQ2akxDUlFNMDJpcVp4TERNanpET3IyRUpsQ0RKSWxPeXJDaWRKWXdESXNJdDh5WmhESGNFTS1MeW9mSjlOdk5JLVlTYnBmSTJlRE1IRGhnZVMwWXRMbG5ybjRQZjVrNmlSeXJCSGlOYlRFa1JpX3lyX0dRdFdFVmw0UEFmWXhEOWFXU2stNDdrZERMVWl0cF9fRTZEZ0xQRkdPN2JMN3V6VnQxd1JiZVRwWW45djV0QlY40gHfAUFVX3lxTE5WMDd1cFFQZ1k5TWtLdFlpTE8xVWpMUE8yVTY3U2VjZ2o3ZENoNDZqTENSUU0wMmlxWnhMRE1qekRPcjJFSmxDREpJbE95ckNpZEpZd0RJc0l0OHlaaERIY0VNLUx5b2ZKOU52TkktWVNicGZJMmVETUhEaGdlUzBZdExsbnJuNFBmNWs2aVJ5ckJIaU5iVEVrUmlfeXJfR1F0V0VWbDRQQWZZeEQ5YVdTay00N2tkRExVaXRwX19FNkRnTFBGR083Ykw3dXpWdDF3UmJlVHBZbjl2NXRCVjg?oc=5",
-      "words": [
-        "alarm",
-        "deepmind",
-        "development",
-        "google",
-        "quits",
-        "raises",
-        "rampant",
-        "researcher",
-        "risks",
-        "safety",
-        "team"
-      ]
-    },
-    {
-      "at": "2026-09-13T14:16:18.513440+00:00",
-      "handle": "News: Global AI",
-      "headline": "Broadcom CEO says AI demand exceeds $115B forecast",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNaXVmQUN6VGtYbkdMM3VZTlY1V0huWmhkRUw2RUp2cHh2SWpHQkxNTFJaTXMyeGxJT29ubzNwbHJxTDUxaE1SRFZvUFRBd2JTNzlkdHJqQlJMMkNfS1B4N3VNWXgyTXd1VFlXcGNlbDRtOGJfMmFOVzRlbnNzbnBKX01aZ0NHbUJXSTEyNEpnZUZlRExtZDItdzVnd0VVSjFfcXVmdjJoUzNyaHNxUjg5cHdSRkZFQlZYUVlzNkFLNGMzMWo0OHMtV1M3TDJZNDJCd3I2V3gwOVNrOGRqcTFjSEVCV3JCOUxhaWwtTXdlajBZa0hjbnBBRnBicnRMNDdUZDBoU0ZfbTdmZTczNUV4dDdrNnRicHNnQUk3cUR1c28zUzlqSUpuZjdUaEtrRVlybWc?oc=5",
-      "words": [
-        "115",
-        "already",
-        "billion",
-        "broadcom",
-        "ceo",
-        "demand",
-        "exceeds",
-        "forecast",
-        "here",
-        "hock",
-        "means",
-        "tan"
-      ]
-    },
-    {
       "at": "2026-09-13T14:46:10.553761+00:00",
       "handle": "News: India tech policy",
       "headline": "India introduces new Cloud Sovereignty Framework mandating air-gapping",
@@ -7347,12 +7306,58 @@
         "ups",
         "value"
       ]
+    },
+    {
+      "at": "2026-09-18T17:47:09.292659+00:00",
+      "handle": "BSE MobiKwik",
+      "headline": "MobiKwik Independent Director Raghu Ram Hiremagalur Venkatesh resigns",
+      "tier": 2,
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e34a2831-9be6-40e1-8906-371aafb69d6b.pdf",
+      "words": [
+        "company",
+        "director",
+        "disclosure",
+        "executive",
+        "filing",
+        "full",
+        "hiremagalur",
+        "iii",
+        "independent",
+        "non",
+        "raghu",
+        "ram",
+        "read",
+        "resignation"
+      ]
+    },
+    {
+      "at": "2026-09-18T17:47:09.292659+00:00",
+      "handle": "xAI",
+      "headline": "xAI launches Grok Voice Transcribe 2.0 with improved speech accuracy",
+      "tier": 1,
+      "url": "https://x.ai/news/grok-voice-transcribe-2",
+      "words": [
+        "2026",
+        "accuracy",
+        "announcing",
+        "article",
+        "cost",
+        "effectiveness",
+        "grok",
+        "introducing",
+        "model",
+        "more",
+        "newest",
+        "published",
+        "read",
+        "sep"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-18T23",
-  "last_success": "2026-09-18T17:32:36.332355+00:00",
+  "last_success": "2026-09-18T17:47:09.439745+00:00",
   "national": {
     "alerted": [
       {
@@ -8110,7 +8115,7 @@
       "CG-DL-E-18092026-276319",
       "CG-DL-E-18092026-276325"
     ],
-    "last_run": "2026-09-18T17:36:48.300608+00:00",
+    "last_run": "2026-09-18T17:50:00.239966+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -9854,6 +9859,7 @@
       "https://x.ai/news/grok-voice-agent-builder": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/grok-voice-think-fast-1": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/grok-voice-think-fast-2": "2026-09-17T07:46:46.178789+00:00",
+      "https://x.ai/news/grok-voice-transcribe-2": "2026-09-18T17:46:35.325710+00:00",
       "https://x.ai/news/grok-warp": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/introducing-excel-addin": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/introducing-goal": "2026-09-17T07:46:46.178789+00:00",
@@ -9897,7 +9903,7 @@
     "bse ltimindtree": 1789642688493,
     "bse ltts": 1789490917112,
     "bse meesho": 1789771106183,
-    "bse mobikwik": 1789550591602,
+    "bse mobikwik": 1789772480096,
     "bse mphasis": 1789565700668,
     "bse nazara": 1789580637112,
     "bse netweb": 1789749336612,
@@ -9936,20 +9942,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789751827661,
-    "news: consumer internet india": 1789752512513,
-    "news: global ai": 1789751101531,
+    "news: consumer internet india": 1789752781031,
+    "news: global ai": 1789751529383,
     "news: global chips": 1789751445291,
     "news: global it services": 1789750380701,
     "news: india ai deeptech": 1789749016029,
     "news: india edtech gaming": 1789728529151,
-    "news: india fintech": 1789750044329,
+    "news: india fintech": 1789752701235,
     "news: india semiconductors": 1789752101414,
-    "news: india tech policy": 1789752466170,
-    "news: india telecom": 1789752027021,
+    "news: india tech policy": 1789752504476,
+    "news: india telecom": 1789752921945,
     "news: indian it majors": 1789751290065,
     "news: indian it midcaps": 1789749070046,
     "news: pib releases": 1789749720328,
-    "news: tech leaders": 1789737900943,
+    "news: tech leaders": 1789749175290,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789646400569,
@@ -9967,7 +9973,7 @@
     "swiggy": 1789214456821,
     "tata electronics": 1789738328115,
     "trai": 1789734129685,
-    "xai": 1789631206993,
+    "xai": 1789753595064,
     "zinnov": 1789638408829,
     "zoho": 1789739607214
   },
@@ -9981,7 +9987,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T17:32:36.548482+00:00",
+    "last_server_run": "2026-09-18T17:47:09.760036+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T16:35:46.846570+00:00",
