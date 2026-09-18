@@ -1,132 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-11T14:16:39.476205+00:00",
-      "handle": "News: India tech policy",
-      "headline": "IFSCA pilots Aadhaar face authentication in UAE for NRIs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWEJXcER4dS1zS1JSejBXUlNiUDVfdk1TNDh6aFFKTkNpTy1xT2hwalAyZ0F1QmwtOTVUY3VSNVVSZjBSeGY1V3ZNQkJSellIOXVOc0VyM19TNmZVVzluS2xFZk84aHFIZDFNRXVRZ3duUU9ZRTdVZGpGNmRSTHRRamlITzFkWTRkY1QxcDczakdVUUlSMWM1bzd6RWNSTUFmbTdRdy11SENQa3AwY2FhZ01Jem9zbUJ5Zk9ERUdoa1VQSE1IUUx4VTA0TkQ4MEhK0gHXAUFVX3lxTE12RUhxeVBrUF93WkwzZ3JIZXN4SDV3TFJNVFJ6SjRkd3hJaGtUMTV4T3dRWUxPaEFoaVh2Y0J2RWZBZEtTUVZXM2Q1WlBqRW42THp4LU1ISF9kdHNGbDRzQ2lJb0phbUNHT3FvdmhLelFjRWgyNWw1OFF1Tmt3aHlaZGJ1UTBsbHpQMFhIOUhScWZGRXJSaEpxSFFJN3lmWk9xM2tqSXNxSW93MTFPcWJmT09KQ1VibkV3cmd2N0lBR2lyMThPRXhaT25mQVNzSTQzMWw0OE9F?oc=5",
-      "words": [
-        "aadhaar",
-        "authentication",
-        "digitally",
-        "face",
-        "ifsca",
-        "nris",
-        "onboard",
-        "pilots",
-        "uae"
-      ]
-    },
-    {
-      "at": "2026-09-11T15:02:13.294155+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "PayU launches AI-powered fraud liability protection tool",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZHI3RVJ2VlNZX0hMVEJRYURHMkhTYXJSZDlnaHdnRlIzMHRUN2xkcnlRVkpFR2MtQkRPX2l1MUpjY2wyMjVsb1NVcmhsTVBJV3ZiTXlNcXd2aldXTXRzZUROb0pPbnY5R2ZkSWg0Q1BzWk42VlZJZlFJMC1RWHlMQU1QdG15eW12cXh2bmlJTmNxV0VJcUlVRVBDMVJQS045VXYtdEZwNHZFR2pQVWdJWXlFVHIwNEE2YTZ1bUlET2Y4TjI0MGU2QmxTMWpodnfSAc8BQVVfeXFMT2RyN0VSdlZTWV9ITFRCUWFERzJIU2FyUmQ5Z2h3Z0ZSMzB0VDdsZHJ5UVZKRUdjLUJET19pdTFKY2NsMjI1bG9TVXJobE1QSVd2Yk15TXF3dmpXV010c2VETm9KT252OUdmZEloNENQc1pONlZWSWZRSTAtUVh5TEFNUHRteXltdnF4dm5pSU5jcVdFSXFJVUVQQzFSUEtOOVV2LXRGcDR2RUdqUFVnSVl5RVRyMDRBNmE2dW1JRE9mOE4yNDBlNkJsUzFqaHZ3?oc=5",
-      "words": [
-        "fraud",
-        "liability",
-        "payu",
-        "powered",
-        "protect",
-        "unveils"
-      ]
-    },
-    {
-      "at": "2026-09-11T15:17:12.565368+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Piyush Goyal and Microsoft India discuss data centre expansion",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVjFmZF9sT3RydU5oS3h2dXBVUjJNMmlhaHN0U0VTbGV3ck9YOHBRNHpXNm1XZVdPaVFPZ3ZnYi1SQkZTcFRPMGhpaklWcDNnbGxHS2JfMkRDWU5EcXRxX0U1M2RfeWRRbWlCRFBKb0Fpc3Z0MWd4eXRCbHdrSWJWUnU3WDhqMFlKaHdGUnNic3BDRVdRaElVWUIzTnJ4M256QkFtM1kzNW1UcU10LUxRSUxQWEdUNENrYkxxS1BnMTQ2ZW44eFI1N0Y2NW1tNTJKbVE?oc=5",
-      "words": [
-        "centre",
-        "data",
-        "discuss",
-        "expansion",
-        "goyal",
-        "microsoft",
-        "mission",
-        "piyush",
-        "president"
-      ]
-    },
-    {
-      "at": "2026-09-11T15:32:28.256572+00:00",
-      "handle": "News: India fintech",
-      "headline": "PM Modi pitches UPI integration and secure trade at BRICS",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYkJ3UHVpR0FwMWpMWlBTN3BzRmNudUw5YjVIbGJaQlJ2UjQySk5IaDhlRjM1bWpfekM1cF9NQzk5S3lKZDBBQkI1YUd4T3B6ZGdqci0zSVRWNVJxbjVfRmRfOXlkUFE3U25ZT0RadDdzUUl4ckwxZk5FZnUzbzBnYkh0RlFNMldleWFvWDdST3ZCdjZSdW15bXpabzlFcW1SVEN1dDBxeGg0WU5MdnY4V2ZON0dBM050WlVZdTVfWFFaSDAzQ0RsVkJBbGVJOFEtVjRvSkNqeXRnLVpDVlgyVHBzMHRCcndRMjFheTMxblRtY2dJYUtr?oc=5",
-      "words": [
-        "backs",
-        "brics",
-        "forum",
-        "global",
-        "modi",
-        "partnerships",
-        "power",
-        "routes",
-        "secure",
-        "trade",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-11T15:46:12.932849+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Microsoft and India forge AI path forward",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjZzZlUzdEJLU3l6Zl93ZUtwT01pZ1NicXJfZXNpQlpUbnlyZEd3SHQ3d24xWVl4VTE2REcxS1pWX2Q4TGxTYXRDRExERHlQbVltSGRZUDQ4UV9EZno0d0xwSnc1cVZaQkc0dE1wRmFkTS1NM0hqWkVlcGpJY3FhZ0gydjluR2EtQVhKQ3V5bmJnOFM5VWFlQ0duZVNmNlBHVVc4SzF6TjdXdF9KalFLRnlObkR2ZURnemfSAb8BQVVfeXFMT25KYXNfWTFYdEFPS0ktUjdLYXpWd0k4N2NYZHBSWjVnZ1NOMVd1SFVLckdLcU9vWC1tRFJSaThfRDBXa1FFZEw3NktOU0tFZzE1RGtMWmVpeW81eVdWN21MYlFQNUhhdXY3c3pROHN4dGpMUlNHVC16N3pLUWJtejZxeWhoQlg5VWREZUhOQUJKai14aTBDR0ZmQXdYWUZlc2dkNTBTOG1EZWhZQWp2RUtfUUxUZ2dRelE0cEZoY28?oc=5",
-      "words": [
-        "eyes",
-        "forge",
-        "forward",
-        "future",
-        "microsoft",
-        "path",
-        "tech"
-      ]
-    },
-    {
-      "at": "2026-09-11T15:46:12.932849+00:00",
-      "handle": "News: India fintech",
-      "headline": "RBI Deputy Governor Murmu comments on UPI success and responsibilities",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMlBVd0wxdjdrNVdmd2xFU0YzRXB4dWFjODNMX0NVemxDUHp2U2ZVSnBrNXJJQ1RnR1NEUk11bkU0UHEyRDZqRFhTaVlCMVpHOExUaTBfV2ZfRVMzRHRZMmU1ZEp2RTlpWkF3ckxEQk54N2Q5bkZHSjY0RThNcnJ1Wnk2RE5wcGktY1p5LTZqOHgyNlRLZGxDOU5hNUZmc0dPUFFQc3JFV3N6R3VveHNkaGdPWjdrdi15RWxwd1UyMnNJRGtubEgyaWpGWFEtOVpTalNVYUY3MGV0XzUzbFlBa3JUQV9HVTEzYVRqaXEwWmRCN2U1SUxLZzh6eHBwWVhlTC1yTW9qYjhUQ1VmNTdBNERCU0nSAZsCQVVfeXFMTkhBakc3UktpV183Z2lIR0xEOFZHazV0SkJEbFpJaXpFbkVZanBVUnh2Tnk3N1VBTVgwQVZJaVFXbDlKVnlZRm1MZVM0OXRTUmtkNWhiMFl0cnFtV21MYWU4VXVDSUtwMFZFY20zMGZMYjdDMXFVSDJYWjJCMWFDTWRyMDNsZVBfb3RKUVdHOTcwZC1JbkNEa3AxQUY1cnBzZzREcUQ0ZDJLNFFDbU52NjFtMWd3d2EzTXVXMFhiUWpBQzBuMXZDWkVjRGZlOURxZnNrVFk1Y1R4NjEzaEI0dG9xSWI0cmE3QlpnWFdRYWthbTBXUjFQX0QxR0M4ZGRiOV9rLXpwaDZGbnY0bUdHTG5RUXZkZ0hwMkI2RQ?oc=5",
-      "words": [
-        "becoming",
-        "commerce",
-        "creates",
-        "daily",
-        "guv",
-        "integral",
-        "life",
-        "murmu",
-        "rbi",
-        "responsibilities",
-        "success",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-11T16:01:51.082762+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Sarvam launches core intelligence factory targeting India BFSI sector",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWHM5MURWSWtZZUZZeFZKRXJTd0tTdzBUMmJHUUxGXzR1eGRMcGRXclJrUWJTZVp0UWJXTWt0cU1Qa05Pb3J6WWlNSWNZejhvdVFxQ3ZUX0pyN2hVNWV4cHFpUHRSeHd0TjJZTWxEQ0dsSVR6dnI0Ynd3VHlqcUdESnpia0daVnRib0xVOWpiZWJxbFV0V0lyWkw4QmU0VllPNXFNQ0kzVjdHcV9OZWIwOHl1dVlQb3AzYWVIQmlBalhRbjNBZTFQU2JEbng4MHh6WGItY2ZIOF9jY19zR2Rua0FiUdIB6gFBVV95cUxOM3ZLU3FnVld1RzR1V2ROTE9sU0RKS1dNekM4M2VNTl9jRVI3ODN3Z1FZSmMyOHFxcGtmUVdyUGhGYXQtWFBQT3NJRS1QcGZVR3M0SGE4QVpiSHRucWVDbk9nM21GXzA1bmdHQ2Y1c2lQLXdnVnZXSFJkUDNMdG55VS1kSDQyQVZMZ3VQVWNSckdJa1N1SndNZk43cURWM0otVW5JdTN6cGotdTBhNnpuRVk1TXVDMWdBLXRhcmZyejROQlRtMVVtMUNDU2lqcXNXM3lVSlI4TE0xSU5HNWs0Rnp6UXU2VUpRT3c?oc=5",
-      "words": [
-        "bfsi",
-        "biggest",
-        "core",
-        "factory",
-        "intelligence",
-        "introduces",
-        "sarvam",
-        "shift",
-        "third"
-      ]
-    },
-    {
       "at": "2026-09-11T16:16:13.668319+00:00",
       "handle": "News: India fintech",
       "headline": "NPCI temporarily holds UPI AI protocol to build safeguards",
@@ -7295,12 +7169,141 @@
         "push",
         "semiconductor"
       ]
+    },
+    {
+      "at": "2026-09-18T05:32:26.475235+00:00",
+      "handle": "News: PIB releases",
+      "headline": "Government approves 29 new proposals under Electronics Component Manufacturing Scheme",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ONjFaVXRwbkUzM2ZQOC1wZ19uVzNxWkMxcU8wTW1tS291cXk3TnczRFVuRmZmXzNFc0FiOVBkV2JBMXNpemhsMnhROGVhYkNsZGg3ZHpUVXlrWUFOcy1PeUtSRkpqdHM1alJObm1jZWF0SWxFUWk5X093?oc=5",
+      "words": [
+        "approves",
+        "component",
+        "ecms",
+        "electronics",
+        "government",
+        "manufacturing",
+        "more",
+        "proposals",
+        "scheme",
+        "under"
+      ]
+    },
+    {
+      "at": "2026-09-18T05:32:26.475235+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Apple Pay eyes India rollout in partnership with Axis Bank",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGZGVjNnZDlVT1hUV0tabktPQ2twT1NTMEVrbHltdXYyMmM0N2p6djdaNGJBajM3VFZxa2xLeUpGVEhqRTljQVVFVmRMdmVLT1ZuVHRNUEVEWU1VS0dhb0pKc1oxM25ieXd2YUwwN2h5d0dQOU5RUko2MGZvUWFYTDJEanBRODVVZENEaU9UUUppNDY0NkFF?oc=5",
+      "words": [
+        "apple",
+        "axis",
+        "bank",
+        "eyes",
+        "pay",
+        "rollout",
+        "say",
+        "sources"
+      ]
+    },
+    {
+      "at": "2026-09-18T05:32:26.475235+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Tata Electronics and Nexperia partner for semiconductor supply chain",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmpKYW1HZTR0clBMZHRIUG14azl6bExkUHV3UkthOXVNRm42QmxwbkZkbkNhLV9OaHlFejluRlotMzlwQXBaM0thME9XLVlad2thQk43YjJ0Mzl1RFFwbUgtckREZ3NUeURISENodkxzYTJqaVlRckhrNGZIYTNsQg?oc=5",
+      "words": [
+        "alliance",
+        "chain",
+        "drive",
+        "electronics",
+        "forge",
+        "innovation",
+        "nexperia",
+        "resilience",
+        "semiconductor",
+        "supply",
+        "tata"
+      ]
+    },
+    {
+      "at": "2026-09-18T05:32:26.475235+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Flipkart Minutes crosses 1,000 dark stores in quick commerce expansion",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXRkMzk2bDd3NHp0X3VsNjFQaHFLWWZTNi1MSkljanFnQ3Q4cGF2RWlqUmxoQmNFZEhkLUJtaTgwVkNiMGRWeUIxdTNxcXIwemthandrVU5McWtuQWhCSXNKVjdHb2EyaExsMEdxSkVBUjJFQ1duLXJ1NmstdFBjN0dtMFJmcEd1cXYtMUMwNjIySDNEM0lSRHJhZDJFdUx4a1c2dnRMZkZUTnhQX3NuUGR0ek9ENGRiNXdMUVVpN0dQazl0YlM0c0YxeG1KSVVqcTU1eGtteHVnZThwZG9N0gHmAUFVX3lxTE15M3hsejBzczE4SGxOZXl0ZE9lX0FhalV3LVAzUEdlaFRrLW1ybVdmVmc5cWVzaGJiSlJZWmtZdHNWMmdZN3lyVDIwaHdBeDlSNUMyZHlJYXNrMEFnb19qYWJUVnpjcU1STWZCaVYwZTFkbWNrMjVXV1NfNVVmLXdSSGk1ZEJuQV8tc3ZvQW9QZ21JbENJYnJvYUxwWWhvMnFqcTRlWV9hOFRFWmlUcjF4Q0FmdkV4VVQ0dmUyNVBic0xNZ1BUX2NSZURROExwUlhhVGY5WW1JbnVEX1pfMUd4bmVBRTRR?oc=5",
+      "words": [
+        "000",
+        "app",
+        "can",
+        "commerce",
+        "crosses",
+        "flipkart",
+        "minutes",
+        "pivot",
+        "quick",
+        "reshape",
+        "standalone",
+        "stores"
+      ]
+    },
+    {
+      "at": "2026-09-18T05:32:26.475235+00:00",
+      "handle": "News: India fintech",
+      "headline": "Mayawati criticises UPI merchant fee as profiteering",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1BGT05SaEpsdV9HQjRIakkwOU1uajh3UmZnckVPTFA3dGJHd1VTRVkwODhUQ2dkdE9jcXdFSWhwZU4wdnk2MlZwSDh5RW5NdUpTaWR4MW1VSm5IVmNwV3pxaE1OeXRDNUc1eWc2dl9rR3YzbzlGbDNFaUJiSjFJZ2ZKMUROSzBMOXJQV0l6RFVIeVZWQ0E?oc=5",
+      "words": [
+        "4pc",
+        "calls",
+        "criticises",
+        "fee",
+        "mayawati",
+        "merchant",
+        "profiteering",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-18T05:32:26.475235+00:00",
+      "handle": "News: Global AI",
+      "headline": "Huawei expects major shift to its chips for AI training in 2027",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOVZrWjVndjVXN0MwV2t3S3RkTW1RcWtjRV92SlAyZjVkNGFjcnNNb0N6QmtSbWFXbHllTnM1ZlhYdDI4LVZOd3BuVURYWEpUeUk2YlZ4cW9mNlQ5bUxkRXotcW5ndFdUMFZDQnJwUjExNVV1ZmhZb0hPeDNSZTdyRFBOT2U0cGRZblQzem53d1AxY0FNNEZMc3NkVWttbk9RYWpzb1lmVFNjOFluZEwydER1WHpvTVly0gG4AUFVX3lxTE5aMmlQTTY0X3FDQzJDZTF6WHlBMWN6NGJaUHVrZVpDY1F1Zy1VekEtVDVfeXVSTEI1RG5LV2dWMk1yN0JBWDU2NF9OVWZRQjBncnlLZlNJeE5Dc0x3U0tQY1RrMVc4QTVtUUNHR1pvUTFMLVYwUV9LcnE0X1Z1N2hsS2pzbkJ5NmJfUVEwVEJUVV9rM1FZUG5DQnRrdi15WEJ0R3FOakQ4dFA3SERGYWdPVVpUUnVVMG0?oc=5",
+      "words": [
+        "2027",
+        "chair",
+        "china",
+        "huawei",
+        "major",
+        "model",
+        "rotating",
+        "see",
+        "shift",
+        "training"
+      ]
+    },
+    {
+      "at": "2026-09-18T05:32:26.475235+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Blinkit lists iPhone 18 for quick delivery, boosting Eternal shares",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTZFc2V0cUViamFmdlM2RWJ3WEp1WWtmMHB6N0stWjRGS2FjNzJBZGtHNFlSOGMtSGluWUphWjdGRjJiUDdOYko2cmtjRC1YaWNVcy1QVFNuYUpYVXZJdnZ3TUMtV0w3YXVkMFdsbmFyMm90bmt2Y0JNanl6dlNocEYyLUl2cGV4V3VmWVBLR180QnJ3NV9zNFJMQVBNV0psQjBjYnJFaGNoVS1XcVhJZE92bVhzM3B5cFBFSVJtNjVtWUZOOGc?oc=5",
+      "words": [
+        "adds",
+        "basket",
+        "blinkit",
+        "commerce",
+        "eternal",
+        "iphone",
+        "quick"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-18T10",
-  "last_success": "2026-09-18T05:16:54.503059+00:00",
+  "last_digest_hour": "2026-09-18T11",
+  "last_success": "2026-09-18T05:32:26.476353+00:00",
   "national": {
     "alerted": [
       {
@@ -7889,7 +7892,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-18T05:19:11.153116+00:00",
+    "last_run": "2026-09-18T05:34:55.272810+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8649,98 +8652,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Flipkart Minutes crosses 1,000 dark stores in quick commerce expansion",
-      "post": {
-        "created_at": "2026-09-18T04:39:04+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1789706344223",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Financial Express",
-        "reposts": 0,
-        "text": "Flipkart Minutes crosses 1,000 stores: Can a standalone app reshape quick commerce pivot?",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXRkMzk2bDd3NHp0X3VsNjFQaHFLWWZTNi1MSkljanFnQ3Q4cGF2RWlqUmxoQmNFZEhkLUJtaTgwVkNiMGRWeUIxdTNxcXIwemthandrVU5McWtuQWhCSXNKVjdHb2EyaExsMEdxSkVBUjJFQ1duLXJ1NmstdFBjN0dtMFJmcEd1cXYtMUMwNjIySDNEM0lSRHJhZDJFdUx4a1c2dnRMZkZUTnhQX3NuUGR0ek9ENGRiNXdMUVVpN0dQazl0YlM0c0YxeG1KSVVqcTU1eGtteHVnZThwZG9N0gHmAUFVX3lxTE15M3hsejBzczE4SGxOZXl0ZE9lX0FhalV3LVAzUEdlaFRrLW1ybVdmVmc5cWVzaGJiSlJZWmtZdHNWMmdZN3lyVDIwaHdBeDlSNUMyZHlJYXNrMEFnb19qYWJUVnpjcU1STWZCaVYwZTFkbWNrMjVXV1NfNVVmLXdSSGk1ZEJuQV8tc3ZvQW9QZ21JbENJYnJvYUxwWWhvMnFqcTRlWV9hOFRFWmlUcjF4Q0FmdkV4VVQ0dmUyNVBic0xNZ1BUX2NSZURROExwUlhhVGY5WW1JbnVEX1pfMUd4bmVBRTRR?oc=5"
-      },
-      "queued_at": "2026-09-18T04:47:22.757489+00:00",
-      "score": 7.0,
-      "why": "Reaching 1,000 stores represents a major scale milestone for a key Indian e-commerce player."
-    },
-    {
-      "headline": "Mayawati criticises UPI merchant fee as profiteering",
-      "post": {
-        "created_at": "2026-09-18T04:55:09+00:00",
-        "handle": "News: India fintech",
-        "id": "1789707309543",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Telangana Today",
-        "reposts": 0,
-        "text": "Mayawati criticises 0.4pc UPI merchant fee, calls it \u2018profiteering\u2019",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1BGT05SaEpsdV9HQjRIakkwOU1uajh3UmZnckVPTFA3dGJHd1VTRVkwODhUQ2dkdE9jcXdFSWhwZU4wdnk2MlZwSDh5RW5NdUpTaWR4MW1VSm5IVmNwV3pxaE1OeXRDNUc1eWc2dl9rR3YzbzlGbDNFaUJiSjFJZ2ZKMUROSzBMOXJQV0l6RFVIeVZWQ0E?oc=5"
-      },
-      "queued_at": "2026-09-18T05:02:29.707378+00:00",
-      "score": 7.0,
-      "why": "Politician statements on upcoming UPI merchant fees represent a regulatory and policy controversy relevant to the fintech beat."
-    },
-    {
-      "headline": "Government approves 29 new proposals under Electronics Component Manufacturing Scheme",
-      "post": {
-        "created_at": "2026-09-18T02:37:49+00:00",
-        "handle": "News: PIB releases",
-        "id": "1789699069137",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "PIB",
-        "reposts": 0,
-        "text": "Government approves 29 more proposals under the Electronics Component Manufacturing Scheme (ECMS)",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ONjFaVXRwbkUzM2ZQOC1wZ19uVzNxWkMxcU8wTW1tS291cXk3TnczRFVuRmZmXzNFc0FiOVBkV2JBMXNpemhsMnhROGVhYkNsZGg3ZHpUVXlrWUFOcy1PeUtSRkpqdHM1alJObm1jZWF0SWxFUWk5X093?oc=5"
-      },
-      "queued_at": "2026-09-18T05:16:54.502687+00:00",
-      "score": 8.0,
-      "why": "Major government policy and manufacturing move supporting India's semiconductor and electronics push."
-    },
-    {
-      "headline": "Apple Pay eyes India rollout in partnership with Axis Bank",
-      "post": {
-        "created_at": "2026-09-18T05:06:19+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1789707979404",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "KSL News",
-        "reposts": 0,
-        "text": "Apple Pay eyes India rollout with Axis Bank, sources say",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGZGVjNnZDlVT1hUV0tabktPQ2twT1NTMEVrbHltdXYyMmM0N2p6djdaNGJBajM3VFZxa2xLeUpGVEhqRTljQVVFVmRMdmVLT1ZuVHRNUEVEWU1VS0dhb0pKc1oxM25ieXd2YUwwN2h5d0dQOU5RUko2MGZvUWFYTDJEanBRODVVZENEaU9UUUppNDY0NkFF?oc=5"
-      },
-      "queued_at": "2026-09-18T05:16:54.502687+00:00",
-      "score": 8.0,
-      "why": "Major market entry report involving global tech giant and Indian banking partner."
-    },
-    {
-      "headline": "Huawei expects major shift to its chips for AI training in 2027",
-      "post": {
-        "created_at": "2026-09-18T04:59:31+00:00",
-        "handle": "News: Global AI",
-        "id": "1789707571462",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "South China Morning Post",
-        "reposts": 0,
-        "text": "China to see major shift to Huawei for AI model training in 2027: rotating chair",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOVZrWjVndjVXN0MwV2t3S3RkTW1RcWtjRV92SlAyZjVkNGFjcnNNb0N6QmtSbWFXbHllTnM1ZlhYdDI4LVZOd3BuVURYWEpUeUk2YlZ4cW9mNlQ5bUxkRXotcW5ndFdUMFZDQnJwUjExNVV1ZmhZb0hPeDNSZTdyRFBOT2U0cGRZblQzem53d1AxY0FNNEZMc3NkVWttbk9RYWpzb1lmVFNjOFluZEwydER1WHpvTVly0gG4AUFVX3lxTE5aMmlQTTY0X3FDQzJDZTF6WHlBMWN6NGJaUHVrZVpDY1F1Zy1VekEtVDVfeXVSTEI1RG5LV2dWMk1yN0JBWDU2NF9OVWZRQjBncnlLZlNJeE5Dc0x3U0tQY1RrMVc4QTVtUUNHR1pvUTFMLVYwUV9LcnE0X1Z1N2hsS2pzbkJ5NmJfUVEwVEJUVV9rM1FZUG5DQnRrdi15WEJ0R3FOakQ4dFA3SERGYWdPVVpUUnVVMG0?oc=5"
-      },
-      "queued_at": "2026-09-18T05:16:54.502687+00:00",
-      "score": 7.0,
-      "why": "Significant industry projection regarding AI chip market share from a major global player."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9712,21 +9624,21 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789708255231,
-    "news: consumer internet india": 1789706344223,
+    "news: big tech platforms": 1789708294810,
+    "news: consumer internet india": 1789708294810,
     "news: global ai": 1789707571462,
     "news: global chips": 1789704910867,
     "news: global it services": 1789703359893,
     "news: india ai deeptech": 1789703520994,
     "news: india edtech gaming": 1789666440914,
-    "news: india fintech": 1789707660249,
-    "news: india semiconductors": 1789708389900,
+    "news: india fintech": 1789708834109,
+    "news: india semiconductors": 1789709314285,
     "news: india tech policy": 1789682326030,
     "news: india telecom": 1789708131819,
-    "news: indian it majors": 1789708096726,
+    "news: indian it majors": 1789708641335,
     "news: indian it midcaps": 1789705802263,
     "news: pib releases": 1789703099077,
-    "news: tech leaders": 1789705860491,
+    "news: tech leaders": 1789708970188,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789646400569,
@@ -9758,17 +9670,17 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T05:16:54.824415+00:00",
+    "last_server_run": "2026-09-18T05:32:26.800949+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-18T03:32:16.035067+00:00",
+        "checked": "2026-09-18T05:34:21.267252+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-18T03:32:08.321404+00:00",
+        "checked": "2026-09-18T05:34:13.181249+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -9844,7 +9756,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-18T03:32:12.100986+00:00",
+        "checked": "2026-09-18T05:34:17.360103+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
