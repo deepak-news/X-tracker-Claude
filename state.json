@@ -7329,7 +7329,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-18T15",
-  "last_success": "2026-09-18T09:47:03.130182+00:00",
+  "last_success": "2026-09-18T10:02:30.485456+00:00",
   "national": {
     "alerted": [
       {
@@ -7798,6 +7798,29 @@
           "proprietor",
           "south"
         ]
+      },
+      {
+        "at": "2026-09-18T10:04:56.983916+00:00",
+        "handle": "PIB Ministry of Communications",
+        "headline": "TRAI tightens rules to curb spam calls and text messages effectively.",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311989",
+        "words": [
+          "commercial",
+          "communications",
+          "consumer",
+          "curbing",
+          "driven",
+          "enforcement",
+          "enhanced",
+          "framework",
+          "ministry",
+          "protection",
+          "strengthens",
+          "technology",
+          "through",
+          "trai"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -7964,7 +7987,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-18T09:49:12.559750+00:00",
+    "last_run": "2026-09-18T10:04:56.984635+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8711,7 +8734,10 @@
       "pib:2311958",
       "pib:2311960",
       "pib:2311973",
-      "pib:2311972"
+      "pib:2311972",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63623",
+      "pib:2311989",
+      "pib:2311987"
     ],
     "source_failures": {
       "CBI": {
@@ -9740,16 +9766,16 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789721600300,
-    "news: consumer internet india": 1789722746267,
+    "news: consumer internet india": 1789724895642,
     "news: global ai": 1789720780621,
     "news: global chips": 1789717500163,
     "news: global it services": 1789716027601,
     "news: india ai deeptech": 1789724219179,
     "news: india edtech gaming": 1789716419230,
-    "news: india fintech": 1789724318577,
+    "news: india fintech": 1789725084153,
     "news: india semiconductors": 1789723609039,
     "news: india tech policy": 1789723583136,
-    "news: india telecom": 1789723426490,
+    "news: india telecom": 1789725160771,
     "news: indian it majors": 1789723729568,
     "news: indian it midcaps": 1789722281517,
     "news: pib releases": 1789720538183,
@@ -9759,7 +9785,7 @@
     "openai": 1789646400569,
     "oracle": 1789631219707,
     "phonepe": 1789631207660,
-    "pib communications": 2311843,
+    "pib communications": 2311989,
     "pib meity": 2311726,
     "pib science and technology": 2311451,
     "razorpay": 1789539311308,
@@ -9785,17 +9811,17 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T09:47:03.359478+00:00",
+    "last_server_run": "2026-09-18T10:02:30.817693+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-18T07:48:58.456479+00:00",
+        "checked": "2026-09-18T10:04:26.211361+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-18T07:48:49.729844+00:00",
+        "checked": "2026-09-18T10:04:17.926926+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -9871,7 +9897,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-18T07:48:53.752356+00:00",
+        "checked": "2026-09-18T10:04:21.908717+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
