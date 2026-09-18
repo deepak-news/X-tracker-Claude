@@ -62,8 +62,11 @@ jobs:
       # alerts, and a bad day for the AI cannot stop the government alerts.
       # always() runs it even when the step above failed.
       - name: Check the watched government pages
+        # Longer than the program's own four-minute budget on purpose: the
+        # program should be the one to stop, having sent and saved what it
+        # had. GitHub killing the step is the case where progress is lost.
         if: always() && inputs.mode != 'test-email'
-        timeout-minutes: 6
+        timeout-minutes: 8
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
