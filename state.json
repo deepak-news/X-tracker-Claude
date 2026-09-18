@@ -2,21 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-13T14:46:10.553761+00:00",
-      "handle": "News: India tech policy",
-      "headline": "India introduces new Cloud Sovereignty Framework mandating air-gapping",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQThlMWhzRzQ4d2IycjlXZlhhZTNjN09EOFNiUHhlaXIwb0FMR2FYekc1dmlUZUdIUV9KY2lLakJfenhScklEM2JMbDBTcjc4bHoxWnNyWE8zTVZkQW1fNmJXamhjc0lFclFIWnFHOWI2ODRmc3VpMmdSZjU2bnJWS2lramQwc2c1RlYzVFM2LVU5SlNUSHVjM0VfdnpvSEt1TTRRaGVIeDhzcDNQM2diQ05OUlZzZ0hfWWlFbXlQRTBYNFY2bmItNmplUHNPQnNPbXVj?oc=5",
-      "words": [
-        "air",
-        "cloud",
-        "framework",
-        "gapping",
-        "mandate",
-        "sovereignty"
-      ]
-    },
-    {
-      "at": "2026-09-13T14:46:10.553761+00:00",
       "handle": "News: India fintech",
       "headline": "Paytm CEO says India can bilaterally connect payment systems directly",
       "tier": 0,
@@ -7352,12 +7337,35 @@
         "read",
         "sep"
       ]
+    },
+    {
+      "at": "2026-09-18T18:32:25.896473+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI, Nvidia, and Qualcomm CEOs to join Trump-Xi summit",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMkkxWFowd1ZaOVVud3N5bW84aXBBWmIwY0pEUVdTNTFkNmhaWWY1VlVHS09NblhvcVFVNEttX0FVLWdNb0VubzRGbGVOQXRJRk5iQk9lZWFTb09VaC1ucEUtWlVPSksxWlFSZ0RlN2EySEw2ZDJHcjI4ZmhvbFNzNVlqeFhOQlRDVVlBUDFMeTh1eTY1TVpKTEc0YWZJTnA2SjJvMXM0QkpsR0ItTXlwVW5Pb0xnQWMyWklYX19qbkcwb3AxczNkUE9rTWxlMi1pcWdhaUc2VGdvd2Y2clotUGQwQWVhRmdCdjBYN3RNNDU2WXNwRkpJ?oc=5",
+      "words": [
+        "center",
+        "ceos",
+        "join",
+        "nasdaq",
+        "nvda",
+        "nvidia",
+        "openai",
+        "policy",
+        "qcom",
+        "qualcomm",
+        "set",
+        "stage",
+        "summit",
+        "takes"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-18T23",
-  "last_success": "2026-09-18T18:16:57.376674+00:00",
+  "last_digest_hour": "2026-09-19T00",
+  "last_success": "2026-09-18T18:32:25.896927+00:00",
   "national": {
     "alerted": [
       {
@@ -8115,7 +8123,7 @@
       "CG-DL-E-18092026-276319",
       "CG-DL-E-18092026-276325"
     ],
-    "last_run": "2026-09-18T18:19:56.623953+00:00",
+    "last_run": "2026-09-18T18:35:29.515447+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8934,6 +8942,9 @@
       "Gazette of India (Extraordinary)": {
         "count": 3,
         "until": "2026-09-18T23:34:28.171143+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 8,
@@ -9943,15 +9954,15 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789751827661,
     "news: consumer internet india": 1789754204673,
-    "news: global ai": 1789751529383,
+    "news: global ai": 1789755540046,
     "news: global chips": 1789751445291,
-    "news: global it services": 1789754016974,
+    "news: global it services": 1789756122692,
     "news: india ai deeptech": 1789754506520,
     "news: india edtech gaming": 1789728529151,
-    "news: india fintech": 1789754251125,
-    "news: india semiconductors": 1789754990328,
-    "news: india tech policy": 1789752504476,
-    "news: india telecom": 1789752921945,
+    "news: india fintech": 1789755415683,
+    "news: india semiconductors": 1789755060816,
+    "news: india tech policy": 1789755712659,
+    "news: india telecom": 1789755181290,
     "news: indian it majors": 1789751290065,
     "news: indian it midcaps": 1789749070046,
     "news: pib releases": 1789749720328,
@@ -9987,7 +9998,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T18:16:57.634103+00:00",
+    "last_server_run": "2026-09-18T18:32:26.140983+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T16:35:46.846570+00:00",
