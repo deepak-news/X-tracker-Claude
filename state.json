@@ -1,77 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-11T16:16:13.668319+00:00",
-      "handle": "News: India fintech",
-      "headline": "NPCI temporarily holds UPI AI protocol to build safeguards",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTJZbDJwQnlMODdLNnZBVjdlN2hTcFJXUFduZ0podGpfeW1VN00tYTA5U3JUQ1BWRHdaRnJybDBqU3g4UlhIbG9iTXNEbnVlb05DZmw2OWdHUEFYX25FRlZDd0pOR3dXTmtIaG9YT0VvYU1rRFlCd2w3dFI2NUwza3RWNzFhQmpZTnFuOUpOZ1BPdFB2UmxNVjhKekxXMEdIVk9jaEVNNFk1djFVT2dIWGd6cTVwaEpEeENkNEg5SUtoclo3SHEyajNn0gHPAUFVX3lxTFBMM3dHVGU0OHhhMlY5bUJCRUZVQXBBdmNaWjNmbnNPZzJ5ckRwb2ZyVElEWGRsbTNGZUcwbTZ6LTNWWjNyb1N5RXdnUzlZMkZacGktYjRJU09NZ25YcUlQSm93aHY0bXR5UFRpWHJzSHRlN3NIVTlzRHg4SGdyYmk0RFpQUFpsTHFKMXFVWDhkdTE5QmlJYktuTzdCZ3dtaDl0Vk93X2U2OHI4ck9NU19fRUdKSGZHRndSMFFYZUNwWGJLYmlDOUU4NGxVaGc2QQ?oc=5",
-      "words": [
-        "builds",
-        "hold",
-        "npci",
-        "protocol",
-        "safeguards",
-        "temporarily",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-11T16:16:13.668319+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Coforge independent director resigns citing unfortunate events",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPd0JQWTlpekJwSXkxMExWWTFMcW5yYUc5Mm12TDdORUtWbnhCSHNyclR3bk5jdEU1RDNmc2NsSmZVWElqaFR4RElLR2VVcldFZF9LQi0wazE2eWxVMUstSlRZS3Y4eTQ4emptckdzLUhSVnJDbk1nZDY2WG1ELWZreEJGNkZwR1RmVmxOWHZfZnNhdXlXaGc5QWVlRzhmODIwZFY3UmlSeUQ0anBOZ2V2c2dtWnFKSzhDdDBCUlJYaXAxTDY3V0xYUzJ3RzZtTmc0ZnlCd3QxUEotSE1ES2loczBsSWFtLUtUV3lEc21nNExrc0pO0gH6AUFVX3lxTE8wdlRZa3ZDbzlrOEtweVh0d1IzemktOU5CeUJ3anhwUWg4OHB1QUtaZkhiMS1VYm05UXdoY3NrMDA1ZVVmVmJfVGZxYkdmMDBCREYxVFV4cXRqWWJ2VWI2elcwWFFMRXY5NWxwT2ZYZkl5czdKNzBiWDZ3WTBRQXBvdUZiclE3UFFGMEg2NEFidU5EdkFRUVV6MnVMcXRSMnNaN0ZXYVhvVWt3MkVwdnNCMkVIVjFmSDdhN0ZvaHZEc3ZBQmJUWU1tV0VzRXg0ekhVZEhvR0ZXbl82ZTRUNWlqRjZPb2pVTmxzZEVfVC1Ba05jdUNXdVlrdGc?oc=5",
-      "words": [
-        "call",
-        "cites",
-        "coforge",
-        "director",
-        "events",
-        "independent",
-        "investor",
-        "resigns",
-        "september",
-        "unfortunate"
-      ]
-    },
-    {
-      "at": "2026-09-11T16:31:28.192050+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Aadhaar face authentication becomes seamless for banking customers",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yWUUycV80MDF6enFYMFN6XzUtMGp6ckM1LWFIUGx6VjRIOW93ZXM2Zkl0SUduTmN0cHNsczRDN2p5NlgzMnRmOHZSY0hJd1oxN3JLVy1BQlpIempUWXM5LXNKaXJJWWZRc3c?oc=5",
-      "words": [
-        "aadhaar",
-        "apps",
-        "authentication",
-        "banking",
-        "customers",
-        "extra",
-        "face",
-        "gets",
-        "more",
-        "seamless"
-      ]
-    },
-    {
-      "at": "2026-09-11T16:46:14.565989+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Infosys and Pega launch AI-First Experience Hub",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZlNod3V5b1B4Uk1WT0U5aGN5cEtLUzVuNHN2VjNhSlB1SUhhamVjc2lEeDNfaXI4WThXSHhnWXpHM2VvTDVZUmxGazJDVHd5VEw0WGl4emxrNDB6MEVGaGJlQzdWaHJKaDVRdnFlZ0NYQkJtZW5sc3pfTzBlaTlBNmRiV093bDdXam1lb2Y0NzlGVkZSQlJNRGpvTkU4M3k4QnZpbWg4S1g4RU4xTDZ3b0c1NFBCa2Q4N25jTldLLUw0UWJYRy00WWNfU291cHh1b1VpZW1zSVZnTmp1Y0VCVlBqU2ItRUdfTHhxSUxzUkUtU1dJakx6ZzlzelBhVUxSTG9wdUFiY01vTWxs?oc=5",
-      "words": [
-        "experience",
-        "first",
-        "hub",
-        "infosys",
-        "lab",
-        "launch",
-        "living",
-        "pega"
-      ]
-    },
-    {
       "at": "2026-09-11T16:46:14.565989+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Minister Sridhar Babu defends TCS data centre amid concerns",
@@ -7298,12 +7227,89 @@
         "iphone",
         "quick"
       ]
+    },
+    {
+      "at": "2026-09-18T06:32:17.701424+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "iPhone 18 Pro and Pro Max sales begin in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWcyOHROX2RHa3BmcDlscTZEN3U1Q0c5VVhPTFBrbWxOUGFqeWFGcmdvSlJsNlJmVzhKUjhkNV9Ud01CZnAzOTJOcFVIcFJielFlaV9SVWo1ZnpaQXR3X25wbGg0bHZYY2g0RzBIRGloVW5XOWIyLVpoMnFCbFFxOVNHbnBtT1NCM2NTNHVfUi04R1B5dVZNalNSSXZYMmRFSjVfeDEwY1p0QkowWjdWWmV6VHI1UDM3akdFVXNnODh2SE1DNEo2bg?oc=5",
+      "words": [
+        "apple",
+        "begin",
+        "buyers",
+        "crowd",
+        "iphone",
+        "max",
+        "pro",
+        "sales",
+        "stores"
+      ]
+    },
+    {
+      "at": "2026-09-18T06:32:17.701424+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Blinkit and Zepto offer quick delivery for iPhone 18 Pro",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ib1FDZUR2ckxpMWN3UkRHNy1feEpIMU9kUHRLbFZsRGpkREk5bE0zMTdFWnA4eFZzWTVHb3VOcEZDa3VFT2Z1TXJ0cHVhR0VHSEo2RXFVWkNVUXRwZnBUbFVVOU5WNU5hb1QzZlk1N3A4RkQ1VUVr0gF8QVVfeXFMTzRDTDNJanlwTk1nVWJXX3MwNWpVelpITFJudExBTi1UaWlvNmRBSEpobHJmT1l2TF9IeG1wY0Y1Q0FTMldaMG1VcjBFVTk1dGZXTUJpU0wwbGdJSGdZbTcwT2tiU2l6RkdKd19aZDN4UTZQWXpBblBQeE5wZg?oc=5",
+      "words": [
+        "blinkit",
+        "can",
+        "delivered",
+        "get",
+        "iphone",
+        "just",
+        "latest",
+        "minutes",
+        "pro",
+        "series",
+        "you",
+        "zepto"
+      ]
+    },
+    {
+      "at": "2026-09-18T06:32:17.701424+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "FTSE index rejig to bring inflows into Meesho, Lenskart and Groww",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUF4NlJoaFBHTm5pRkJSYUxreGhPcTNxX2tIcXNlTmtaTUpmRklGdjZvVDhqZlhYU1FHZ3I2MUdRN3plTEFiNDctMFJNSUVZOE81Vk9OOWN6NDJNRDgxSjd4VWNmcnA4RFdWc2JyX3ZMWHIwV3I1VVJKLXFuTkg2RWZMdEF6X0Facm9NcGNnSFI3bWJxVEtRWVh1SlRiR0hwZDZXbXRGUlVnS2JlRHVrSGExNHRJREZXSU9KOTdCYnQ0Y2J1QlE?oc=5",
+      "words": [
+        "among",
+        "check",
+        "ftse",
+        "full",
+        "groww",
+        "inflows",
+        "lenskart",
+        "list",
+        "meesho",
+        "rejig",
+        "see",
+        "set"
+      ]
+    },
+    {
+      "at": "2026-09-18T06:32:17.701424+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Semicon 2026 highlights India's push to localise chip materials and gases",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkt6T1lIOS1GTkNkUjVuU1JrZld1Y0s3NnRhTDVtVF8wa0xQdGtTTDdvdFMxOUN0S3Zob044a29VVXBzNmdOaHgwTlBtTW52c2g0VDNvS19ldERMUDRQQnBoRWR6Tm5weGRlWnZMTkh6VWEwMUh2QjRTa0xUYkpfbGFrc0x6ZHN4Um42a0REbWZzaGFpOXpHVkNpZEVEd3VqS2VjTnN1WQ?oc=5",
+      "words": [
+        "2026",
+        "gases",
+        "localising",
+        "materials",
+        "push",
+        "semicon",
+        "semiconductor",
+        "turns"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-18T11",
-  "last_success": "2026-09-18T06:16:56.347101+00:00",
+  "last_digest_hour": "2026-09-18T12",
+  "last_success": "2026-09-18T06:32:17.702072+00:00",
   "national": {
     "alerted": [
       {
@@ -7892,7 +7898,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-18T06:19:09.643375+00:00",
+    "last_run": "2026-09-18T06:34:28.778372+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8621,7 +8627,8 @@
       "pib:2311828",
       "pib:2311834",
       "pib:2311836",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-emphasizing-on-self-reliance-and-service"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-emphasizing-on-self-reliance-and-service",
+      "pib:2311843"
     ],
     "source_failures": {
       "CBI": {
@@ -8658,62 +8665,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "iPhone 18 Pro and Pro Max sales begin in India",
-      "post": {
-        "created_at": "2026-09-18T05:44:23+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1789710263529",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Hans India",
-        "reposts": 0,
-        "text": "iPhone 18 Pro, Pro Max sales begin in India as buyers crowd Apple stores",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWcyOHROX2RHa3BmcDlscTZEN3U1Q0c5VVhPTFBrbWxOUGFqeWFGcmdvSlJsNlJmVzhKUjhkNV9Ud01CZnAzOTJOcFVIcFJielFlaV9SVWo1ZnpaQXR3X25wbGg0bHZYY2g0RzBIRGloVW5XOWIyLVpoMnFCbFFxOVNHbnBtT1NCM2NTNHVfUi04R1B5dVZNalNSSXZYMmRFSjVfeDEwY1p0QkowWjdWWmV6VHI1UDM3akdFVXNnODh2SE1DNEo2bg?oc=5"
-      },
-      "queued_at": "2026-09-18T06:02:33.282696+00:00",
-      "score": 7.0,
-      "why": "Major product availability and retail sales launch for Apple flagship devices in India."
-    },
-    {
-      "headline": "Blinkit and Zepto offer quick delivery for iPhone 18 Pro",
-      "post": {
-        "created_at": "2026-09-18T05:49:53+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1789710593290",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "91mobiles",
-        "reposts": 0,
-        "text": "You can get the latest iPhone 18 Pro series delivered in just minutes with Blinkit and Zepto",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ib1FDZUR2ckxpMWN3UkRHNy1feEpIMU9kUHRLbFZsRGpkREk5bE0zMTdFWnA4eFZzWTVHb3VOcEZDa3VFT2Z1TXJ0cHVhR0VHSEo2RXFVWkNVUXRwZnBUbFVVOU5WNU5hb1QzZlk1N3A4RkQ1VUVr0gF8QVVfeXFMTzRDTDNJanlwTk1nVWJXX3MwNWpVelpITFJudExBTi1UaWlvNmRBSEpobHJmT1l2TF9IeG1wY0Y1Q0FTMldaMG1VcjBFVTk1dGZXTUJpU0wwbGdJSGdZbTcwT2tiU2l6RkdKd19aZDN4UTZQWXpBblBQeE5wZg?oc=5"
-      },
-      "queued_at": "2026-09-18T06:02:33.282696+00:00",
-      "score": 7.0,
-      "why": "Highlights the quick commerce expansion and launch day availability for the new iPhone."
-    },
-    {
-      "headline": "FTSE index rejig to bring inflows into Meesho, Lenskart and Groww",
-      "post": {
-        "created_at": "2026-09-18T05:58:15+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1789711095520",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Zee Business",
-        "reposts": 0,
-        "text": "FTSE Rejig: Meesho, Lenskart, Groww among stocks set to see inflows; check full list",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUF4NlJoaFBHTm5pRkJSYUxreGhPcTNxX2tIcXNlTmtaTUpmRklGdjZvVDhqZlhYU1FHZ3I2MUdRN3plTEFiNDctMFJNSUVZOE81Vk9OOWN6NDJNRDgxSjd4VWNmcnA4RFdWc2JyX3ZMWHIwV3I1VVJKLXFuTkg2RWZMdEF6X0Facm9NcGNnSFI3bWJxVEtRWVh1SlRiR0hwZDZXbXRGUlVnS2JlRHVrSGExNHRJREZXSU9KOTdCYnQ0Y2J1QlE?oc=5"
-      },
-      "queued_at": "2026-09-18T06:16:56.346779+00:00",
-      "score": 7.0,
-      "why": "FTSE index rebalancing involves major unlisted/soon-to-be-listed Indian startups and capital flows."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9685,18 +9637,18 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789710784038,
-    "news: consumer internet india": 1789711095520,
+    "news: big tech platforms": 1789712205320,
+    "news: consumer internet india": 1789712205320,
     "news: global ai": 1789710163123,
-    "news: global chips": 1789704910867,
+    "news: global chips": 1789712580226,
     "news: global it services": 1789709448167,
     "news: india ai deeptech": 1789703520994,
     "news: india edtech gaming": 1789711260242,
-    "news: india fintech": 1789710926182,
-    "news: india semiconductors": 1789711704898,
-    "news: india tech policy": 1789682326030,
-    "news: india telecom": 1789711498888,
-    "news: indian it majors": 1789711715428,
+    "news: india fintech": 1789712439049,
+    "news: india semiconductors": 1789713049197,
+    "news: india tech policy": 1789704276136,
+    "news: india telecom": 1789712250929,
+    "news: indian it majors": 1789712653409,
     "news: indian it midcaps": 1789705802263,
     "news: pib releases": 1789703099077,
     "news: tech leaders": 1789711376457,
@@ -9705,7 +9657,7 @@
     "openai": 1789646400569,
     "oracle": 1789631219707,
     "phonepe": 1789631207660,
-    "pib communications": 2311650,
+    "pib communications": 2311843,
     "pib meity": 2311726,
     "pib science and technology": 2311451,
     "razorpay": 1789539311308,
@@ -9731,7 +9683,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T06:16:56.679376+00:00",
+    "last_server_run": "2026-09-18T06:32:17.940167+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T05:34:21.267252+00:00",
