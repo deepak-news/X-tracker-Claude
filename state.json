@@ -1,80 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-11T13:46:33.928581+00:00",
-      "handle": "News: India fintech",
-      "headline": "Navi uses AI to build credit and fraud models: Sachin Bansal",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUk9vUl9ycjJJMDFzMkJkenFtTVpLQThTRGt5czFhTFVJSlIzRWNrblI1TmcxNVhsckgxblFibjJZRDQ1QUlBZGhkcTN6bFdsdmJIcHlwSXJ3eHRwU1VIV3hJQ1VFTmRqUG83UTJZYnZLbDNUZzN4YkY3NllDWFNHbnRSWV90OTFkdGFj?oc=5",
-      "words": [
-        "bansal",
-        "build",
-        "credit",
-        "fraud",
-        "models",
-        "navi",
-        "sachin",
-        "using"
-      ]
-    },
-    {
-      "at": "2026-09-11T14:03:19.713909+00:00",
-      "handle": "News: India tech policy",
-      "headline": "SBI targets DPDP compliance by December 2026",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOREdxVWg2Wi1feVFnY3FSUGlQelFQRmpZUnZidEhlTkliQXVrZXdUR0JDWXItRVlkUEp3WmlMdWNUeG1ReUktbnNxQXRjOHJ3cEFYSzhYV0Nuc0dLWmhxSGlXTzdWTlZqU19ORkNrRXFKN3UzTUM3N290ZVNuSWVDc1VVYS1mc0JaREEyQUZpZDd6WVdkTm5Xa0lWcjNHVkZXTWx5OHA1ZWN5cnNTTGh2REJES09JUEhmTm9XY0puT29FT3c0QTJicGFKOGFITG_SAdQBQVVfeXFMTURaYnFQY2dOVGtINm1MQU1MWXlqMzFKMTlQbi1vTlhyUl9QMXp0NTdFMm1WckZaUTM2UzltZmJ2aU1rQWtTeHNFR0ViRDVqQ2dWcXNJc0lDUXl6dkZzV1MtZmxuZnhDaUtSMEQyWUtzMW4tdFE2ZEk0WUpCcG9MSngzS3FYNFVmbHcyZlExWnJLYVZSSXE3VFp4bXZsZzl3SXZxUlVBajd5RERYRHhiQ2dtWTYyMnRfd0RNdDNsalVoMDFoTXVNQmxQdjkxRUN6Mm50elM?oc=5",
-      "words": [
-        "2027",
-        "ahead",
-        "aims",
-        "compliance",
-        "deadline",
-        "december",
-        "dpdp",
-        "may",
-        "sbi"
-      ]
-    },
-    {
-      "at": "2026-09-11T14:03:19.713909+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Aadhaar Face Authentication integrated into mobile apps",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzJZMjVzWlczcmVmSG1SX0JtQzRlOEtWamZBTnFyRkJna0Yxc3VtRkpnNnZYalhmdUNHTUtCenFfWDN3dVJTVnQycXBvdDZ0RmhwZ3lQeDZLNFplOUJTYW00TzNSQ1lqUEUzcGE5WmtRVVJvY05aUzlZbXpDODB0alI0VXF0U284?oc=5",
-      "words": [
-        "aadhaar",
-        "android",
-        "apps",
-        "checks",
-        "face",
-        "inside",
-        "iphone",
-        "move"
-      ]
-    },
-    {
-      "at": "2026-09-11T14:16:39.476205+00:00",
-      "handle": "BSE Coforge",
-      "headline": "Coforge Independent Director DK Singh resigns from board",
-      "tier": 2,
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ea2aa23b-49fe-43da-8b5a-d7883be7d635.pdf",
-      "words": [
-        "2015",
-        "board",
-        "disclosure",
-        "exchange",
-        "filing",
-        "full",
-        "listing",
-        "meeting",
-        "outcome",
-        "regulation",
-        "regulations",
-        "securities",
-        "subject"
-      ]
-    },
-    {
       "at": "2026-09-11T14:16:39.476205+00:00",
       "handle": "News: India tech policy",
       "headline": "IFSCA pilots Aadhaar face authentication in UAE for NRIs",
@@ -7299,12 +7225,82 @@
         "transfers",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-18T04:32:24.615092+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Anthropic reports Claude is helping build the next model version",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQmdIcmJIcXJNMkZESkxRWVVFaEdpbVhVWTZmZDR3SXdlNThfYUxYbEJWc0ItM1poakZsNkpQS0tRTkZQcDZhSGdmZmxRZXIyVC1LRS1PUVhyQWpRUVdNdGhZS014cTRzaXZ0WUdjRUtwX2pRRVB1ZW9LczVNdXBvS2FYdklwemF5anc2Qm9BZFdsSFp0Um1SbEpmc29hU2k1d3drQTlKMUhqcXBuaWpUT0ZzdjZIUFVUMjVOejAza0p1NXA1d3hzUU1KZDFvMG5pMjNRVEFIVjlaRFNReHZ2d1ZLWmxLM1k2U1hZN0ViVG92QW9iWjFkYdIB-AFBVV95cUxPQmdIcmJIcXJNMkZESkxRWVVFaEdpbVhVWTZmZDR3SXdlNThfYUxYbEJWc0ItM1poakZsNkpQS0tRTkZQcDZhSGdmZmxRZXIyVC1LRS1PUVhyQWpRUVdNdGhZS014cTRzaXZ0WUdjRUtwX2pRRVB1ZW9LczVNdXBvS2FYdklwemF5anc2Qm9BZFdsSFp0Um1SbEpmc29hU2k1d3drQTlKMUhqcXBuaWpUT0ZzdjZIUFVUMjVOejAza0p1NXA1d3hzUU1KZDFvMG5pMjNRVEFIVjlaRFNReHZ2d1ZLWmxLM1k2U1hZN0ViVG92QW9iWjFkYQ?oc=5",
+      "words": [
+        "anthropic",
+        "build",
+        "claude",
+        "helping",
+        "itself",
+        "model",
+        "next",
+        "version"
+      ]
+    },
+    {
+      "at": "2026-09-18T04:32:24.615092+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "TCS shares fall over 3% amid Tata Sons boardroom battle",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdC05RWU3STB1cmd6cDBvNGdrcTZoeE12Y3NnVUMxdWVUdi1QMU42TEc4MlN6YWkzUkx0RzBfUTZ1bE1ISzA5Qk5JaHVXQ2NmcHROQV9uY0ctYUpQUGxidVdLSzBfZzdwTW9wb19wSmotNXh1a2pwMTlPUDZTZDFkMm1qSm9kbmlpOVNxMHR3Q0lFZWJ3aXdQWXN1bUtFQWY4ZGQ1ZHZhYU9JdWgwZF9N0gG3AUFVX3lxTE50SVB4bE1PWFBkM3VkT1hOblg3bzJjNDlTTnlhMEpYM1ZyWktLTFk2UXp0cm1JV0xpM084UjFfaXdmNlJDZkFkQTBGZWdPQThiUHRWbWxZMDZUUHdDMlJUaFpobjRoY09xT0RoZGpGNEE0V3lrdlI5eDZETldYYUFROFowRXVvSEFuRDdVRnJMaUdSWjdVWVNQWXVlWUpzekpLUjhKU1VRYWlwMFhjNDVYM2lmaEtTOA?oc=5",
+      "words": [
+        "battle",
+        "boardroom",
+        "deepens",
+        "falls",
+        "price",
+        "sons",
+        "tata",
+        "tcs"
+      ]
+    },
+    {
+      "at": "2026-09-18T04:32:24.615092+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Satya Nadella backs India's AI potential and developer growth",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWY1WEVSX0lMOWpwcm10cTdpQUlwQXlSWldka1B2dUVQVWstbm8xWGJ2bjZZRU9fQTg2eWY3VVh0RGFmVFpWWDFaMGNodzBNdjdJRTRrMTJhVGp4N3NpLUhfTnYwOWcyMUVNcmJrTWEwZDY0NFpETHVKUW1HaWM1M2dYVkFUWWRxMmt4enlVaGlkb0FrSHFMcjZkNVBHTEhaXzY5VlVOWlpuQXVQTEpBNlh2ZDFUSXpTUV8tNw?oc=5",
+      "words": [
+        "2030",
+        "backs",
+        "could",
+        "developers",
+        "lead",
+        "nadella",
+        "potential",
+        "satya",
+        "world"
+      ]
+    },
+    {
+      "at": "2026-09-18T04:32:24.615092+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "CG Power boosts India semiconductor push with advanced packaging focus",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFZRZFVVcmMyU0FnY0w0anROOU1pcjRWRk1uTEdjQm81M3RLU2E2azlnUUhjVHdZMXpDWjY0Y1pvRUcydkZqV1FMRG9GclN0dE1Nand1djJ2SzV4LWdna2RQQVF5SDllRGFVdmU1RU5mU08tbS0wd0lyTWJMZDd4MkgtaDBXNVhSWkRNUUJHbV8zbnlKcnRRQWFpOUx0emxYLUJqUXpmZEkzZkhqdk1vU0M3MA?oc=5",
+      "words": [
+        "advanced",
+        "boosts",
+        "emerges",
+        "engine",
+        "growth",
+        "packaging",
+        "power",
+        "push",
+        "semiconductor"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-18T09",
-  "last_success": "2026-09-18T04:17:03.102929+00:00",
+  "last_digest_hour": "2026-09-18T10",
+  "last_success": "2026-09-18T04:32:24.615874+00:00",
   "national": {
     "alerted": [
       {
@@ -7893,7 +7889,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-18T04:26:07.321352+00:00",
+    "last_run": "2026-09-18T04:40:43.846209+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8612,7 +8608,8 @@
       "pib:2311768",
       "pib:2311769",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63618",
-      "pib:2311792"
+      "pib:2311792",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63619"
     ],
     "source_failures": {
       "CBI": {
@@ -8620,7 +8617,7 @@
         "until": "2026-09-18T09:17:09.203840+00:00"
       },
       "Gazette of India (Extraordinary)": {
-        "count": 1
+        "count": 2
       },
       "State: Maharashtra": {
         "count": 6,
@@ -8648,44 +8645,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Satya Nadella backs India's AI potential and developer growth",
-      "post": {
-        "created_at": "2026-09-18T03:27:43+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1789702063848",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Open Magazine",
-        "reposts": 0,
-        "text": "Satya Nadella Backs India\u2019s AI Potential, Says it Could Lead World in Developers by 2030",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWY1WEVSX0lMOWpwcm10cTdpQUlwQXlSWldka1B2dUVQVWstbm8xWGJ2bjZZRU9fQTg2eWY3VVh0RGFmVFpWWDFaMGNodzBNdjdJRTRrMTJhVGp4N3NpLUhfTnYwOWcyMUVNcmJrTWEwZDY0NFpETHVKUW1HaWM1M2dYVkFUWWRxMmt4enlVaGlkb0FrSHFMcjZkNVBHTEhaXzY5VlVOWlpuQXVQTEpBNlh2ZDFUSXpTUV8tNw?oc=5"
-      },
-      "queued_at": "2026-09-18T04:02:30.447040+00:00",
-      "score": 7.0,
-      "why": "A statement by a major tech CEO on India's strategic tech direction and potential is filable."
-    },
-    {
-      "headline": "CG Power boosts India semiconductor push with advanced packaging focus",
-      "post": {
-        "created_at": "2026-09-18T03:48:35+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789703315960",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Sahi",
-        "reposts": 0,
-        "text": "CG Power Boosts India Semiconductor Push As Advanced Packaging Emerges As Growth Engine",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFZRZFVVcmMyU0FnY0w0anROOU1pcjRWRk1uTEdjQm81M3RLU2E2azlnUUhjVHdZMXpDWjY0Y1pvRUcydkZqV1FMRG9GclN0dE1Nand1djJ2SzV4LWdna2RQQVF5SDllRGFVdmU1RU5mU08tbS0wd0lyTWJMZDd4MkgtaDBXNVhSWkRNUUJHbV8zbnlKcnRRQWFpOUx0emxYLUJqUXpmZEkzZkhqdk1vU0M3MA?oc=5"
-      },
-      "queued_at": "2026-09-18T04:02:30.447040+00:00",
-      "score": 7.0,
-      "why": "A strategic update on a major domestic semiconductor project in India."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9657,21 +9617,21 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789704798686,
-    "news: consumer internet india": 1789704063100,
+    "news: big tech platforms": 1789705730274,
+    "news: consumer internet india": 1789705546483,
     "news: global ai": 1789702425326,
     "news: global chips": 1789698300308,
     "news: global it services": 1789703359893,
     "news: india ai deeptech": 1789703520994,
     "news: india edtech gaming": 1789666440914,
-    "news: india fintech": 1789704054708,
+    "news: india fintech": 1789704633765,
     "news: india semiconductors": 1789703315960,
     "news: india tech policy": 1789682326030,
     "news: india telecom": 1789701168690,
-    "news: indian it majors": 1789702606912,
-    "news: indian it midcaps": 1789689600192,
-    "news: pib releases": 1789667640666,
-    "news: tech leaders": 1789703436023,
+    "news: indian it majors": 1789704942170,
+    "news: indian it midcaps": 1789705802263,
+    "news: pib releases": 1789673400145,
+    "news: tech leaders": 1789705560374,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789646400569,
@@ -9703,7 +9663,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T04:02:30.637931+00:00",
+    "last_server_run": "2026-09-18T04:32:24.944526+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T03:32:16.035067+00:00",
