@@ -7329,7 +7329,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-18T16",
-  "last_success": "2026-09-18T11:02:40.944821+00:00",
+  "last_success": "2026-09-18T11:17:09.067197+00:00",
   "national": {
     "alerted": [
       {
@@ -8010,7 +8010,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-18T11:07:51.413601+00:00",
+    "last_run": "2026-09-18T11:19:54.078650+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8773,7 +8773,11 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13699&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13701&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13702&Mode=0",
-      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13700&Mode=0"
+      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13700&Mode=0",
+      "pib:2312059",
+      "pib:2312067",
+      "pib:2312071",
+      "pib:2312061"
     ],
     "source_failures": {
       "CBI": {
@@ -8783,9 +8787,6 @@
       "Gazette of India (Extraordinary)": {
         "count": 4,
         "until": "2026-09-18T17:04:23.447005+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 7,
@@ -9824,6 +9825,7 @@
     "bse mobikwik": 1789550591602,
     "bse mphasis": 1789565700668,
     "bse nazara": 1789580637112,
+    "bse netweb": 1789749336612,
     "bse niit": 1789648705695,
     "bse niit learning systems": 1789730621208,
     "bse nykaa": 1789155118992,
@@ -9859,20 +9861,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789723364720,
-    "news: consumer internet india": 1789728713735,
-    "news: global ai": 1789721080312,
+    "news: consumer internet india": 1789729058534,
+    "news: global ai": 1789724201711,
     "news: global chips": 1789726212534,
-    "news: global it services": 1789716027601,
+    "news: global it services": 1789729510270,
     "news: india ai deeptech": 1789724219179,
     "news: india edtech gaming": 1789716942230,
-    "news: india fintech": 1789728840173,
-    "news: india semiconductors": 1789728754309,
+    "news: india fintech": 1789729534220,
+    "news: india semiconductors": 1789729461699,
     "news: india tech policy": 1789725185717,
     "news: india telecom": 1789728802336,
-    "news: indian it majors": 1789728933462,
+    "news: indian it majors": 1789729417998,
     "news: indian it midcaps": 1789723980877,
     "news: pib releases": 1789725120242,
-    "news: tech leaders": 1789728300698,
+    "news: tech leaders": 1789728938622,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789646400569,
@@ -9904,7 +9906,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T11:02:41.278774+00:00",
+    "last_server_run": "2026-09-18T11:17:09.380168+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T10:04:26.211361+00:00",
