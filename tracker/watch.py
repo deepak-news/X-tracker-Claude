@@ -33,6 +33,7 @@ import json
 import pathlib
 import re
 import sys
+import tempfile
 import time
 from dataclasses import dataclass, field
 
@@ -274,6 +275,42 @@ _GAZETTE_LISTS: dict = {}
 # already known. The first watch finds out; the others are told at once.
 _GAZETTE_ERRORS: dict = {}
 
+# The gazette list is also wanted by the national desk, which runs as a
+# separate step minutes later -- and the site turns away a second visit
+# from the same address inside one run, which is what stopped every 18
+# September gazette reaching that desk. So a successful read is left in a
+# file beside the run, and the next step of the same run uses that copy
+# instead of asking again. It is deliberately NOT part of state.json: it
+# is a few minutes' scratch, not memory.
+GAZETTE_CACHE = (pathlib.Path(os.environ.get("RUNNER_TEMP") or tempfile.gettempdir())
+                 / "gazette_listing.json")
+CACHE_MINUTES = 12
+
+
+def cached_gazette_listing(category: int) -> list | None:
+    """The list another step of this run has already read, if it is fresh."""
+    try:
+        cache = json.loads(GAZETTE_CACHE.read_text())
+        age = time.time() - float(cache["at"])
+        rows = cache["categories"][str(category)]
+    except (OSError, ValueError, KeyError, TypeError):
+        return None
+    return rows if age <= CACHE_MINUTES * 60 and rows else None
+
+
+def _cache_gazette_listing(category: int, rows: list) -> None:
+    try:
+        cache = json.loads(GAZETTE_CACHE.read_text())
+        if time.time() - float(cache["at"]) > CACHE_MINUTES * 60:
+            raise ValueError("stale")
+    except (OSError, ValueError, KeyError, TypeError):
+        cache = {"at": time.time(), "categories": {}}
+    cache["categories"][str(category)] = rows
+    try:
+        GAZETTE_CACHE.write_text(json.dumps(cache))
+    except OSError as exc:
+        print(f"    (could not leave the gazette list for the next step: {exc})")
+
 
 def _gazette_listing(category: int, scanned: set, max_pages: int = 5) -> list:
     """Every extraordinary gazette on the recent-uploads list, as dicts.
@@ -295,6 +332,14 @@ def _gazette_listing(category: int, scanned: set, max_pages: int = 5) -> list:
         return _GAZETTE_LISTS[category]
     if category in _GAZETTE_ERRORS:
         raise _GAZETTE_ERRORS[category]
+
+    shared = cached_gazette_listing(category)
+    if shared:
+        print(f"    ({len(shared)} gazettes, from the copy this run already read)")
+        scanned.update(row["id"] for row in shared if row.get("id"))
+        _GAZETTE_LISTS[category] = shared
+        return shared
+
     try:
         # The retries for this site belong here, once per run, rather than
         # once per watch: three watches asking a dead server three times each
@@ -355,6 +400,7 @@ def _read_gazette_listing(category: int, scanned: set, max_pages: int) -> list:
 
     print(f"    ({len(listing)} gazettes read across all ministries, {len(scanned)} known)")
     _GAZETTE_LISTS[category] = listing
+    _cache_gazette_listing(category, listing)
     return listing
 
 

@@ -480,7 +480,11 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None) -> tuple:
 
     for name, read in readers:
         record = health.get(name) or {}
-        if record.get("until") and dt.datetime.fromisoformat(record["until"]) > now:
+        # A source that keeps failing is rested for a few hours. The gazette
+        # is exempt while this run's other step has already read it: there is
+        # nothing to fail, the list is sitting in a file.
+        free = name.startswith("Gazette") and watch.cached_gazette_listing(6) is not None
+        if record.get("until") and dt.datetime.fromisoformat(record["until"]) > now and not free:
             print(f"  {name}: resting after {record.get('count')} failed runs, "
                   f"tried again after {record['until'][11:16]} UTC")
             continue
@@ -666,7 +670,9 @@ def build_email(rows: list) -> tuple:
         colour, label = _badge(post)
         major = (f'<span style="background:#b91c1c;color:#fff;font:700 10px/1 {font};'
                  f'letter-spacing:.08em;padding:4px 7px;border-radius:3px;margin-left:6px;">'
-                 f'MAJOR</span>') if value >= 9 else ""
+                 # An earthquake carries its own magnitude. Calling it major
+                 # as well is this tool telling the desk what to think.
+                 f'MAJOR</span>') if value >= 9 and not post.handle.startswith("Quake ") else ""
         if post.handle.startswith("Quake "):
             action = "See the network's own page"
         elif post.handle.startswith("Gazette "):
