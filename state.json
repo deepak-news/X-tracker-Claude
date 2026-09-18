@@ -7340,7 +7340,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-18T18",
-  "last_success": "2026-09-18T12:32:32.619961+00:00",
+  "last_success": "2026-09-18T12:46:54.824069+00:00",
   "national": {
     "alerted": [
       {
@@ -8021,7 +8021,7 @@
       "CG-DL-E-17092026-276302",
       "CG-DL-E-17092026-276305"
     ],
-    "last_run": "2026-09-18T12:34:53.352116+00:00",
+    "last_run": "2026-09-18T12:50:03.185245+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8836,7 +8836,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Vikram Misri speaks on semiconductor partnerships and self-reliance",
+      "post": {
+        "created_at": "2026-09-18T12:13:41+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789733621761",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Today",
+        "reposts": 0,
+        "text": "\u2018Self-Reliance Doesn\u2019t Mean Everything Made In India\u2019: Vikram Misri On Semiconductor Partnerships",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMmt1eVhGMkdTMGdveUptaVkySGdXUk5EUkhZbktxNHFmY2lRMU5FaHhCZ0w3SWtMR21KSE5mWDhlMjdja2NLQ2Zfa3NKVFZmZVhzRFNES0M4X2FSTkhQeXBocmJpMGotNzR6azJvajluWm9sUWp1LXJ3VkdxcHlESkJzc3JEbHhiTmFqTGV1Mkk1dmdWVjZJMFRuTHJRaUg3eG0yTHRwd2NrVmdCQnZ3NWc4Q1lKaVZRSlM0WUkweFpNUkptYndxVEJOVEp4R3NVZ1ZVWVZGOVZZdVRaVmRKOFdLRVZUOEZwcDRITkFyNExBVXRt0gH6AUFVX3lxTE9aUVZfSk9CcTBfTnY5MHVZYmJUUGJEd0RBMmRvaEZQdDVCQ1R3NE5xeVprWnl0YU5aTS11R3NIR2FiemtxOVlGVHpqb3d2YWdWX1NPRVc0N0NSUG40LVZsd2RaYVN5TUg5MkhxcHBBT3pjTGRNc2ZNWVNibWNqOWd0QVNSTGFlbHZNUDhTcklQYzhXa3NTWTR1aHJ5NnA4eDROVS0wQ25NZm1wbWxHX3N1c29rVjJsT0RsbzBNRHZzY2E5bzBzaUtXOGFVUEpDelBIc2pFUXZ1SWdxZXF2Mmpld1g0TjBqVDd2T0pXX0xHdlMxVXhhdlFNY3c?oc=5"
+      },
+      "queued_at": "2026-09-18T12:46:54.823730+00:00",
+      "score": 7.0,
+      "why": "Official statements on semiconductor policy and international partnerships are relevant to the beat."
+    },
+    {
+      "headline": "SEMI and IDTA to launch India Semiconductor Academy",
+      "post": {
+        "created_at": "2026-09-18T12:37:30+00:00",
+        "handle": "News: India tech policy",
+        "id": "1789735050769",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Tribuneindia",
+        "reposts": 0,
+        "text": "SEMI and India Deep Tech Alliance (IDTA) to Launch India Semiconductor Academy",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0FhSUF5UVpYNmdDZ1c2cWRONFVlVndkMWRJR2tfb2QtY2Faa1pYbDVqUDdyT0cyQjNmYUFfVHBWQ3Z5elFFRU9IZ1FkZDJaY0VtNGdyQVkybHh1Z3ZmSlphYTVGZGxyQU1aU2ZEZlM5NjQzdGNMaWJvYUU1OGd4OWctZlJBQVlQR3Q3MUkwaXR3eU9FQktwNFBfbUxRMkQwVWJKMEpSdkR0X2tXQ3BqYjExaFF6YlNYbWd1d25nal9FMnRmS3BLbDJWd1pyX3FTVFRhTnNHN2VDMnAxd0JBWm5B0gHiAUFVX3lxTE1rQWFJQXlRWlg2Z0NnVzZxZE40VWVWd2QxZElHa19vZC1jYVprWlhsNWpQN3JPRzJCM2ZhQV9UcFZDdnl6UUVFT0hnUWRkMlpjRW00Z3JBWTJseHVndmZKWmFhNUZkbHJBTVpTZkRmUzk2NDN0Y0xpYm9hRTU4Z3g5Zy1mUkFBWVBHdDcxSTBpdHd5T0VCS3A0UF9tTFEyRDBVYkowSlJ2RHRfa1dDcGpiMTFoUXpiU1htZ3V3bmdqX0UydGZLcEtsMlZ3WnJfcVNUVGFOc0c3ZUMycDF3QkFabkE?oc=5"
+      },
+      "queued_at": "2026-09-18T12:46:54.823730+00:00",
+      "score": 7.0,
+      "why": "Partnership and workforce initiative in the semiconductor sector directly impacts India's chip ecosystem."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9809,20 +9846,20 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789723364720,
-    "news: consumer internet india": 1789733194922,
+    "news: big tech platforms": 1789735397415,
+    "news: consumer internet india": 1789734768690,
     "news: global ai": 1789733940833,
-    "news: global chips": 1789732138791,
+    "news: global chips": 1789734608853,
     "news: global it services": 1789731330656,
     "news: india ai deeptech": 1789732420255,
     "news: india edtech gaming": 1789728529151,
-    "news: india fintech": 1789734180367,
-    "news: india semiconductors": 1789732819255,
-    "news: india tech policy": 1789733861912,
-    "news: india telecom": 1789733881099,
-    "news: indian it majors": 1789733693696,
+    "news: india fintech": 1789735285021,
+    "news: india semiconductors": 1789735216415,
+    "news: india tech policy": 1789735050769,
+    "news: india telecom": 1789734393222,
+    "news: indian it majors": 1789734597810,
     "news: indian it midcaps": 1789726260620,
-    "news: pib releases": 1789730937860,
+    "news: pib releases": 1789731540944,
     "news: tech leaders": 1789731099748,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -9855,7 +9892,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-18T12:32:32.955828+00:00",
+    "last_server_run": "2026-09-18T12:46:55.139598+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T12:18:51.497621+00:00",
