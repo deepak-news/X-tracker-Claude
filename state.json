@@ -10209,10 +10209,22 @@
     "1789836706561",
     "1789836920562",
     "2312605",
-    "2312606"
+    "2312606",
+    "1789762740904",
+    "1789767540689",
+    "1789783905819",
+    "1789791540092",
+    "1789805509734",
+    "1789821445623",
+    "1789822149688",
+    "1789823610153",
+    "1789828320667",
+    "1789836600427",
+    "1789836952270",
+    "1789838170270"
   ],
   "last_digest_hour": "2026-09-19T22",
-  "last_success": "2026-09-19T17:02:20.086291+00:00",
+  "last_success": "2026-09-19T17:19:12.221193+00:00",
   "national": {
     "alerted": [
       {
@@ -11127,7 +11139,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T17:04:31.809973+00:00",
+    "last_run": "2026-09-19T17:21:29.659486+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12057,6 +12069,24 @@
       "queued_at": "2026-09-19T17:02:20.085745+00:00",
       "score": 7.0,
       "why": "Major leadership controversy involving the head of India's largest IT major."
+    },
+    {
+      "headline": "Persistent Systems reports Q1FY27 revenue up 16% to $452.4M",
+      "post": {
+        "created_at": "2026-09-19T17:16:10+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1789838170270",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Scanx",
+        "reposts": 0,
+        "text": "Persistent Systems Q1FY27 revenue rises 16% to $452.4M; EBIT margin expands",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWxHUVlCRU1iWXl4TUdKYzJydXloUE94V3VHbWtyZWR0akVUekFkbG1jNUJuUkhKNG5EUk9VYVhGU0c4VDVabXRDTndyQW9ZRnctZTM1MjZTZjh3SjhTS05IQTFfYVRGWHYxZ3NpZWVHTDhNZTdQSWU1ZmdZS0cxYUljVWNXYlpqWnNRMGlrNW5rSlV4ZUVCaWc0QW9FWG1zRnJ3ekx1VS1vUC1YekJ5TmlFMU1hTEtoYll6cHZDUzBpNk4z?oc=5"
+      },
+      "queued_at": "2026-09-19T17:19:12.220122+00:00",
+      "score": 9.0,
+      "why": "This provides hard quarterly financial results for a major Indian IT services firm, which is essential wire coverage."
     }
   ],
   "page_links": {
@@ -13049,11 +13079,11 @@
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789836706561,
     "news: india semiconductors": 1789833103618,
-    "news: india tech policy": 1789836594456,
+    "news: india tech policy": 1789836952270,
     "news: india telecom": 1789834414937,
     "news: indian it majors": 1789834727484,
-    "news: indian it midcaps": 1789823220786,
-    "news: pib releases": 1789836480349,
+    "news: indian it midcaps": 1789838170270,
+    "news: pib releases": 1789836600427,
     "news: tech leaders": 1789829340632,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -13086,7 +13116,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T17:02:20.275359+00:00",
+    "last_server_run": "2026-09-19T17:19:12.539048+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T16:05:51.390543+00:00",
