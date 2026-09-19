@@ -10435,10 +10435,18 @@
     "1789844656972",
     "1789847267660",
     "1789848600638",
-    "1789849509119"
+    "1789849509119",
+    "1789772632561",
+    "1789783339246",
+    "1789838160208",
+    "1789838198898",
+    "1789838688957",
+    "1789844243352",
+    "1789848000700",
+    "1789850402081"
   ],
   "last_digest_hour": "2026-09-20T02",
-  "last_success": "2026-09-19T20:38:47.145834+00:00",
+  "last_success": "2026-09-19T20:47:08.682697+00:00",
   "national": {
     "alerted": [
       {
@@ -11191,6 +11199,25 @@
           "sep",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-19T20:50:47.857501+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.2 earthquake -- Reykjanes Ridge.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tild",
+        "words": [
+          "2026",
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "reported",
+          "reykjanes",
+          "ridge",
+          "sep",
+          "usgs"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -11372,7 +11399,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T20:41:47.561515+00:00",
+    "last_run": "2026-09-19T20:50:47.857975+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12231,7 +12258,8 @@
       "pib:2312606",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-games",
       "pib:2312604",
-      "quake:usgs:us7000tiju"
+      "quake:usgs:us7000tiju",
+      "quake:usgs:us7000tild"
     ],
     "source_failures": {
       "CBI": {
@@ -12241,6 +12269,9 @@
       "Gazette of India (Extraordinary)": {
         "count": 5,
         "until": "2026-09-19T22:36:55.483043+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 12,
@@ -13255,13 +13286,13 @@
     "news: consumer internet india": 1789848492994,
     "news: global ai": 1789849509119,
     "news: global chips": 1789842195900,
-    "news: global it services": 1789830560420,
+    "news: global it services": 1789844243352,
     "news: india ai deeptech": 1789847737943,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789848600638,
     "news: india semiconductors": 1789848001881,
     "news: india tech policy": 1789848553310,
-    "news: india telecom": 1789842462491,
+    "news: india telecom": 1789850402081,
     "news: indian it majors": 1789847267660,
     "news: indian it midcaps": 1789848434366,
     "news: pib releases": 1789840338363,
@@ -13297,7 +13328,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T20:38:47.460808+00:00",
+    "last_server_run": "2026-09-19T20:47:08.994531+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T20:41:20.766468+00:00",
