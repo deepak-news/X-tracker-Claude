@@ -140,6 +140,16 @@ def merge(ours: dict, theirs: dict) -> dict:
         queue.append(entry)
     merged["news_queue"] = queue
 
+    # Stories already handled. Either run's list counts: forgetting one
+    # would put a story back in front of the AI and email it twice.
+    handled, already = [], set()
+    for key in (theirs.get("handled") or []) + (ours.get("handled") or []):
+        if key not in already:
+            already.add(key)
+            handled.append(key)
+    if handled:
+        merged["handled"] = handled[-6000:]
+
     for field in ("last_success", "last_digest_hour"):
         latest = max(theirs.get(field, ""), ours.get(field, ""))
         if latest:

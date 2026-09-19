@@ -17,6 +17,11 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 WATCHLIST = ROOT / "watchlist.yml"
 STATE = ROOT / "state.json"
 
+# How many story identifiers to remember. The sources carry roughly a
+# thousand a day between them, and an alert can only ever reach back
+# max_age_hours, so this is days of headroom rather than hours.
+HANDLED_MEMORY = 6000
+
 # How many runs in a row must fail before we email about it. Stops one blip
 # from bothering you, while a genuinely dead session still gets through.
 FAILURES_BEFORE_ALARM = 3
@@ -260,17 +265,37 @@ async def run(dry_run: bool) -> int:
         by_handle.setdefault(post.handle.lower(), []).append(post)
 
     new_marks: dict[str, int] = {}
-    fresh = []
     for handle, group in by_handle.items():
         newest = max(int(p.id) for p in group)
-        if handle not in seen:
-            # Never seen this account before. Note where it is and stay quiet,
-            # otherwise its backlog would arrive as one huge email.
-            new_marks[handle] = newest
+        new_marks[handle] = max(newest, int(seen.get(handle, 0)))
+
+    # What counts as new is the story's own identifier, not "anything newer
+    # than the newest thing seen so far". Google News hands back a whole
+    # day's stories in relevance order and keeps changing which ones it
+    # surfaces, so a story often appears AFTER something published later --
+    # and a newest-first bookmark then drops it unseen. That is how the
+    # Gemini breakout story was lost on 19 September 2026, along with about
+    # 150 others in the same six hours.
+    #
+    # Nothing old comes back: max_age_hours still decides how far back an
+    # alert may reach, and a story already emailed is dropped further down.
+    handled = state.get("handled")
+    starting_clean = handled is None
+    handled_ids = set(handled or [])
+
+    fresh = []
+    for post in posts:
+        if post.id in handled_ids:
             continue
-        since = int(seen[handle])
-        new_marks[handle] = max(newest, since)
-        fresh.extend([p for p in group if int(p.id) > since])
+        if starting_clean or post.handle.lower() not in seen:
+            # The first run under this scheme, or a source never read before:
+            # note where things stand and stay quiet, so a backlog cannot
+            # arrive as one unreadable email.
+            continue
+        fresh.append(post)
+    if starting_clean:
+        print(f"First run remembering stories by identifier: noting {len(posts)} "
+              f"item(s) now on the sources, sending nothing from them.")
 
     candidates = judge.prefilter(fresh, cfg)
     # Stories already emailed do not need scoring or sending a second time.
@@ -375,6 +400,15 @@ async def run(dry_run: bool) -> int:
         hourly_digest(state, dry_run)
 
     if not dry_run:
+        # Every identifier seen this run is now handled, whether it was
+        # judged, filtered out cheaply or held for the digest. Everything
+        # still on a source goes to the end of the list, so trimming only
+        # ever forgets what has already scrolled off -- the identifiers are
+        # not all timestamps (a PIB release is numbered in the thousands),
+        # so the order they were seen in is the only safe measure of age.
+        current = {p.id for p in posts}
+        kept = [i for i in (handled or []) if i not in current]
+        state["handled"] = (kept + sorted(current))[-HANDLED_MEMORY:]
         seen.update(new_marks)
         # Forget accounts that are no longer watched, so state.json stays a
         # readable picture of the current watchlist instead of a junk drawer.
