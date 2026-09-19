@@ -1,47 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T03:31:25.691855+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta agrees to report child sexual abuse cases to Indian law enforcement",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ0RxenZpQ3A5dmtIMHo2bFRxekZUOEFhQXl6VTE2X0hLUTBCSU9WSjhtTzMyNW9DTkxrb0NsMWMwOU5IbjVpUE9tdmlYb0dpTlNkeUxNWElmcVN6TkFud2tKbUFWZ1hhUnA3UXVKU3Y1U05taVU4Y3lRSjlma3VadV9CbU0zdU9YVGJTMHZZSWZmak1QTG1iaGwzcUZXUG9kZURNcUg5V1VtVFRHUnZGczQwaHhLRVM4ei15R0NtV3ZGWFEtWkN0N28xUnVlRkRSN2tEYWdOVkZScV9aVjBjUnAzQkFUUQ?oc=5",
-      "words": [
-        "abuse",
-        "agencies",
-        "agrees",
-        "cases",
-        "child",
-        "enforcement",
-        "govt",
-        "law",
-        "meta",
-        "report",
-        "sexual",
-        "sources"
-      ]
-    },
-    {
-      "at": "2026-09-15T03:31:25.691855+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Apple restructures subscription pricing in India with standalone iCloud+ bundles",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNWFyYzBrM1p1VEY1YkJ0c19SWllRWVJiRHpBdnJvVzRrUWRCWE8tQkE3YmVsa1A5TEN1QTJYT19TQldxb2FLcFNDQXBsVHF4aDlJY0NHSWR5elgxVnFQVVlHMFBlNks0MUhjTWV1alpwRWc1cTFfVEk5TjhvbmNqQ0xUTGRzR0lXb2c5eEVtelN6al9QT0xUXzJ3WlpKM1lCQ3FqQ3ZvNTFxakxuSkg2NEY1cjNLYXZSVVl6VmUxNzVhdm85Um1uaTRiY0NjQXliOXJLOENTcVJrWjNsakVTQkYyM3JZbW02RHpjbGcwdWdCQdIB8gFBVV95cUxNNWFyYzBrM1p1VEY1YkJ0c19SWllRWVJiRHpBdnJvVzRrUWRCWE8tQkE3YmVsa1A5TEN1QTJYT19TQldxb2FLcFNDQXBsVHF4aDlJY0NHSWR5elgxVnFQVVlHMFBlNks0MUhjTWV1alpwRWc1cTFfVEk5TjhvbmNqQ0xUTGRzR0lXb2c5eEVtelN6al9QT0xUXzJ3WlpKM1lCQ3FqQ3ZvNTFxakxuSkg2NEY1cjNLYXZSVVl6VmUxNzVhdm85Um1uaTRiY0NjQXliOXJLOENTcVJrWjNsakVTQkYyM3JZbW02RHpjbGcwdWdCQQ?oc=5",
-      "words": [
-        "apple",
-        "arcade",
-        "icloud",
-        "includes",
-        "monthly",
-        "now",
-        "one",
-        "starting",
-        "stops",
-        "subscription",
-        "wha"
-      ]
-    },
-    {
       "at": "2026-09-15T03:46:18.053543+00:00",
       "handle": "News: India AI deeptech",
       "headline": "Blue Cloud Softech partners with IndiaAI Centre in Odisha",
@@ -7386,6 +7345,42 @@
         "visa",
         "workers"
       ]
+    },
+    {
+      "at": "2026-09-19T20:38:47.144551+00:00",
+      "handle": "News: Global AI",
+      "headline": "Israeli security firm tied to OpenAI and Anthropic breaches",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPR1Q3TTZ6cWlTQ0FjZ2RsTXo1MzFGSDlnZDlwUm1wTE5SZm1YekNQajdzQkdmWkl4UW9lZzFpbXJBTXJReUZiZGUydWxpMS0zekc1MlJyaGlERzJhRG1rUmlLd2N1bGNsRUFZRkdmUlFrcEQ5NlU4NXZtVmRFZTBPS0RqejFyb1BHdnppM1RDQ0pFcUNNYTZsOE52SS1uajF4ZXZjUFU1VUNUZWlTSmcyUk1aUkxoQVRFd0JEdmRXeGJ0S0pvQUx1Qllna0NzZEY0aFA4LXh0Y3NoUXEyb0hOSTk5aE5sVjBQUTE1a3NJa3FtcHZQcjNQNzNfRWx2Zkd2dXFDcDJnVngtbFRMV0hHb2U1Uk5PelR6UnNn?oc=5",
+      "words": [
+        "anthropic",
+        "breaches",
+        "firm",
+        "inside",
+        "israeli",
+        "model",
+        "openai",
+        "security",
+        "tied"
+      ]
+    },
+    {
+      "at": "2026-09-19T20:38:47.144551+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Infosys secures new brake maker client amid slow growth",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHR0TTF4OUxMTEpSMlpCbTYzVFROT29XcjZyd2Nra2NuR1NIazZjSzBJbUw4VEdUSmoyVTZXZFprdlJYVkNDak5CS3UwTExvT1dRREh4dHBYRlpkdlV6d1czdUoxYmhWN1NEZHpSYVVjalVUdDNQTVdZbVlvOVBMSFZSQ0hSbzg0ZUpRd29VdW9sZlJqYmFJcmZpOG1CZXkxOWdtWm1yY9IBrwFBVV95cUxOeUY2Q3pDTWJ2RUhWcHhKOUNoR2FsYk9hVU1rdllBZi1nbE12SWVJdmR6V0FQMlhkOWRpTHdZSWpQd0szYTZsbVo0cUt1ejk5Ny1Bel9uZ08yYkE4d0JUb0N5amwyYmZ1STNvOXctbU16VThhV245V2tvUDRtdkJ2Vm5BN0p5OEtNbXpQRzMxVFJSSVF4TTlCLU9qb1FlLU9BRFh1aUpacE8tVk9rbjdj?oc=5",
+      "words": [
+        "brake",
+        "gear",
+        "growth",
+        "infosys",
+        "infy",
+        "lands",
+        "low",
+        "maker",
+        "stays"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -10426,10 +10421,24 @@
     "1789848001881",
     "1789848434366",
     "1789848492994",
-    "1789848553310"
+    "1789848553310",
+    "1789828876668",
+    "1789831123050",
+    "1789831416332",
+    "1789836480270",
+    "1789838045587",
+    "1789840338363",
+    "1789841435068",
+    "1789841765499",
+    "1789842462491",
+    "1789843426667",
+    "1789844656972",
+    "1789847267660",
+    "1789848600638",
+    "1789849509119"
   ],
-  "last_digest_hour": "2026-09-20T01",
-  "last_success": "2026-09-19T20:17:22.933986+00:00",
+  "last_digest_hour": "2026-09-20T02",
+  "last_success": "2026-09-19T20:38:47.145834+00:00",
   "national": {
     "alerted": [
       {
@@ -11363,7 +11372,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T20:19:44.988361+00:00",
+    "last_run": "2026-09-19T20:41:47.561515+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12260,44 +12269,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Israeli security firm tied to OpenAI and Anthropic breaches",
-      "post": {
-        "created_at": "2026-09-19T19:30:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1789846200388",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Haaretz",
-        "reposts": 0,
-        "text": "Inside the Israeli security firm tied to OpenAI, Anthropic model breaches",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPR1Q3TTZ6cWlTQ0FjZ2RsTXo1MzFGSDlnZDlwUm1wTE5SZm1YekNQajdzQkdmWkl4UW9lZzFpbXJBTXJReUZiZGUydWxpMS0zekc1MlJyaGlERzJhRG1rUmlLd2N1bGNsRUFZRkdmUlFrcEQ5NlU4NXZtVmRFZTBPS0RqejFyb1BHdnppM1RDQ0pFcUNNYTZsOE52SS1uajF4ZXZjUFU1VUNUZWlTSmcyUk1aUkxoQVRFd0JEdmRXeGJ0S0pvQUx1Qllna0NzZEY0aFA4LXh0Y3NoUXEyb0hOSTk5aE5sVjBQUTE1a3NJa3FtcHZQcjNQNzNfRWx2Zkd2dXFDcDJnVngtbFRMV0hHb2U1Uk5PelR6UnNn?oc=5"
-      },
-      "queued_at": "2026-09-19T19:46:56.885838+00:00",
-      "score": 8.0,
-      "why": "Major security development involving top AI labs OpenAI and Anthropic."
-    },
-    {
-      "headline": "Infosys secures new brake maker client amid slow growth",
-      "post": {
-        "created_at": "2026-09-19T19:47:47+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1789847267055",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Insider Monkey",
-        "reposts": 0,
-        "text": "Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHR0TTF4OUxMTEpSMlpCbTYzVFROT29XcjZyd2Nra2NuR1NIazZjSzBJbUw4VEdUSmoyVTZXZFprdlJYVkNDak5CS3UwTExvT1dRREh4dHBYRlpkdlV6d1czdUoxYmhWN1NEZHpSYVVjalVUdDNQTVdZbVlvOVBMSFZSQ0hSbzg0ZUpRd29VdW9sZlJqYmFJcmZpOG1CZXkxOWdtWm1yY9IBrwFBVV95cUxOeUY2Q3pDTWJ2RUhWcHhKOUNoR2FsYk9hVU1rdllBZi1nbE12SWVJdmR6V0FQMlhkOWRpTHdZSWpQd0szYTZsbVo0cUt1ejk5Ny1Bel9uZ08yYkE4d0JUb0N5amwyYmZ1STNvOXctbU16VThhV245V2tvUDRtdkJ2Vm5BN0p5OEtNbXpQRzMxVFJSSVF4TTlCLU9qb1FlLU9BRFh1aUpacE8tVk9rbjdj?oc=5"
-      },
-      "queued_at": "2026-09-19T20:02:44.166401+00:00",
-      "score": 8.0,
-      "why": "Major Indian IT services deal win that falls directly under the reporter's core beat."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -13281,18 +13253,18 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789845962236,
     "news: consumer internet india": 1789848492994,
-    "news: global ai": 1789846200388,
+    "news: global ai": 1789849509119,
     "news: global chips": 1789842195900,
     "news: global it services": 1789830560420,
     "news: india ai deeptech": 1789847737943,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789846920394,
+    "news: india fintech": 1789848600638,
     "news: india semiconductors": 1789848001881,
     "news: india tech policy": 1789848553310,
-    "news: india telecom": 1789842000659,
-    "news: indian it majors": 1789847267055,
+    "news: india telecom": 1789842462491,
+    "news: indian it majors": 1789847267660,
     "news: indian it midcaps": 1789848434366,
-    "news: pib releases": 1789836655272,
+    "news: pib releases": 1789840338363,
     "news: tech leaders": 1789836168102,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -13325,17 +13297,17 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T20:17:23.156735+00:00",
+    "last_server_run": "2026-09-19T20:38:47.460808+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-19T18:19:41.631936+00:00",
+        "checked": "2026-09-19T20:41:20.766468+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-19T18:19:33.907821+00:00",
+        "checked": "2026-09-19T20:41:13.139433+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -13411,7 +13383,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-19T18:19:37.885073+00:00",
+        "checked": "2026-09-19T20:41:16.824234+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
