@@ -10133,10 +10133,34 @@
     "1789832743903",
     "1789834414937",
     "1789834727484",
-    "1789835054630"
+    "1789835054630",
+    "1789750412047",
+    "1789752247038",
+    "1789758898946",
+    "1789766400373",
+    "1789768325142",
+    "1789769288720",
+    "1789771918328",
+    "1789793099369",
+    "1789795440039",
+    "1789795440111",
+    "1789799737933",
+    "1789802058937",
+    "1789802851176",
+    "1789806242154",
+    "1789806540434",
+    "1789814556372",
+    "1789815240447",
+    "1789831239041",
+    "1789831620246",
+    "1789833600986",
+    "1789834414395",
+    "1789835640384",
+    "1789835734035",
+    "1789835757354"
   ],
   "last_digest_hour": "2026-09-19T22",
-  "last_success": "2026-09-19T16:35:11.152846+00:00",
+  "last_success": "2026-09-19T16:47:00.141900+00:00",
   "national": {
     "alerted": [
       {
@@ -11051,7 +11075,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T16:39:04.130192+00:00",
+    "last_run": "2026-09-19T16:49:18.311032+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -11943,7 +11967,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "TRAI unveils new rating framework for digital connectivity infrastructure",
+      "post": {
+        "created_at": "2026-09-19T15:20:39+00:00",
+        "handle": "News: India telecom",
+        "id": "1789831239041",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "News On AIR",
+        "reposts": 0,
+        "text": "TRAI unveils new rating framework for digital connectivity infrastructure | Akashvani News",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWxFU2dQcDc3eWJYdmJ4SUFGQ3VYUmRINWtGdXV3bmV5R0hpZ0Nhckh0WUVjMXdvUm4tdWxpemFXWWlXUHR2UVU1d3piU0U1d2JKSGdiX0NnbjF1ZmtmNEVoVVljaVNlVDdfNEYtbC1pbXZGUEhQTHBXemduTXhsRTg1Zi1xMVV5azE3QU9EajRzOWZuTXJuMml0eVNESjRHbzFDWjU2RVUxZENUbHNBYXNaeVVGMHNkWTRXakZaelphWUtmYk01YV9scERKTTJ2NWR5QUdocVBOX05LZlRWdUg2WQ?oc=5"
+      },
+      "queued_at": "2026-09-19T16:47:00.140802+00:00",
+      "score": 7.0,
+      "why": "Regulatory move by a key Indian telecom authority directly impacts IT and telecom infrastructure."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -12927,14 +12970,14 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789832156369,
     "news: consumer internet india": 1789834126995,
-    "news: global ai": 1789823473692,
+    "news: global ai": 1789835734035,
     "news: global chips": 1789833000664,
     "news: global it services": 1789830560420,
     "news: india ai deeptech": 1789830360250,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789835054630,
     "news: india semiconductors": 1789833103618,
-    "news: india tech policy": 1789834517221,
+    "news: india tech policy": 1789835757354,
     "news: india telecom": 1789834414937,
     "news: indian it majors": 1789834727484,
     "news: indian it midcaps": 1789823220786,
@@ -12971,7 +13014,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T16:35:11.459323+00:00",
+    "last_server_run": "2026-09-19T16:47:00.452853+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T16:05:51.390543+00:00",
