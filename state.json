@@ -1,63 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-14T12:31:41.609827+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Coforge hires Egon Zehnder to overhaul board post-resignations",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc3JBMFA1Q3FtSzRBZGZCU2xLMUh4a21lSVA0NzlSTDlkcW5jU19KbjQ0LVVMajBDRF9yWHk5RHBiaUUzR1gwZjZhbmprZm9rUUl0WVh4amRqalJjcTlidzVhbVB4VE02NTkzanJyTmtvMzlOdURBaEJJdUZlYURDdWR3bjZqa3ZDdkRhV0NYT2VTbkRzaTRsYXdSanBPdlROc09fZnN2U21hWm84aXFmSkxTNnRSQ3pWZHhvX1N5empTU01GUHd0MHpTRzJEeFUwcGdRbXBMSVVEQQ?oc=5",
-      "words": [
-        "board",
-        "coforge",
-        "egon",
-        "hires",
-        "overhaul",
-        "post",
-        "resignations",
-        "zehnder"
-      ]
-    },
-    {
-      "at": "2026-09-14T13:16:24.305139+00:00",
-      "handle": "BSE HCLTech",
-      "headline": "HCLTech and CrowdStrike expand strategic partnership for AI security",
-      "tier": 2,
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/63612ae2-d156-4131-93a7-ab34662bfe02.pdf",
-      "words": [
-        "advance",
-        "crowdstrike",
-        "expand",
-        "filing",
-        "full",
-        "hcltech",
-        "partnership",
-        "release",
-        "resilience",
-        "security",
-        "strategic",
-        "subject"
-      ]
-    },
-    {
-      "at": "2026-09-14T14:03:05.873431+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Coforge maintains FY27 guidance and provides board update",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFZ6em5Xand2TUxxdGtYZ1FhRjJHMzYxMkVIUHM4bHhlcjJRdjdlQTJwTHNFX2llNU5iNE5aN2pLM3ZnMGVsX0E1bWxNcEhsSDhWUGVCX0hvUXEycnllTXZZN1VvNHYzNVpnbW5ZNGxyZmhoejIwS1d2ZE1uQjRoMzc1MVdsT19JamxVNVB5LU1CeE54d1M0WUVEQkNmQVl0UTByWGlWUkpSbHlnNVlkcmRGM3dwS2hKY3B6cmwxUUtTN1F2OEc1TjBhUzdfSzh5UFHSAdcBQVVfeXFMT2dNOFQ0RjU0WFZSREZFSTVacEJYREpyZ0YwVEoyYU5wdEtvWGlmWmlRVVFJb0RVak5OZnV6VGk2VmVaLXYyM2ZPVWFRck4yQ3RMSGpUaHozbjMyQW1XU3lnNEpTNEdXYVNhRkNFQ3U0WmNXVVlQVlMxZktRd2k5ZUVUTm4xaWRkeVF5NE1SdGFORk5DY05hQlp6Z3FhZFNMRmIwZGRJamc4enhzNl9ySDEzaF9XbUF2OVZON2Z2N1ZjX2N5YS1RSVdBOXRWM1pGZWdTMVhlYnM?oc=5",
-      "words": [
-        "coforge",
-        "directors",
-        "firm",
-        "fy27",
-        "global",
-        "guidance",
-        "hired",
-        "independent",
-        "intact",
-        "search"
-      ]
-    },
-    {
       "at": "2026-09-14T15:16:17.188099+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Coforge denies board tension following DK Singh's resignation claims",
@@ -7364,6 +7307,61 @@
         "semiconductor",
         "transport"
       ]
+    },
+    {
+      "at": "2026-09-19T12:32:08.062174+00:00",
+      "handle": "News: PIB releases",
+      "headline": "Union Cabinet approves two new semiconductor units worth Rs 3,900 crore",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeUtodkozUTVORHFIYnhIbFpyQnNBV3Judy1uNjYyUEw0dFpNWU0ya21oVVduN00zMXl4bk1lbTE3X1QzS3FTZktfV25lNHhfX0tlRi0xQi1aY3BlaFpFLVJ6NlNpMWNhOFRBbWczamoySW9Lam9DcFNBZkh4aE0yVA?oc=5",
+      "words": [
+        "900",
+        "approves",
+        "cabinet",
+        "cumulative",
+        "investment",
+        "manufacturing",
+        "more",
+        "semiconductor",
+        "than",
+        "two",
+        "units"
+      ]
+    },
+    {
+      "at": "2026-09-19T12:32:08.062174+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Anthropic IPO advances as revenue run rate tops $65B",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkMta3JHOHdHUHRBWHplVzFPNVczMEhMeS1Uc0xWbUFlS3VJa3pVc3dZNXhYdFlNTTJPeVdyeW9OQmJGVXJnbkNTUENfX09ZMU1LUENvNWNhakFjWjYwdDFaUnVQRVFReE5kb2w0cWdDX050N1JSRU14QUpTSi1LekRTMTMtYzBSenU4TVA3bTJHaENrZENST2cwQ25JZ2poLXhkTDl30gGrAUFVX3lxTE1KV3lLckJwYXMzNFdWRGVkZ0dOaWRkYnJSWVFwRG9lWkt1Q2lrTGVHanpudWpfUEppNkNMMDFPZXJSQ25CY3h2aFpvbW9PcGNVaGoydkFrdGpneWZTSG1IcGllenRnT0dUdUp6S3ZyUHR6QXprbkxNMXJZdnZ0TGZFMGlqX2Fmb1p2bTFrQmhLZUlka29ZT3RtNHE5bjBMTTFYYnZDQlhZZEZQWQ?oc=5",
+      "words": [
+        "65b",
+        "advances",
+        "anthropic",
+        "ipo",
+        "news",
+        "rate",
+        "revenue",
+        "run",
+        "tops"
+      ]
+    },
+    {
+      "at": "2026-09-19T12:32:08.062174+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "KPMG reports India semiconductor demand to hit $90 billion by 2030",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkpxTGJUdnNmMG9jaF9zT28wNmMxMjNzX0ZwalFxTkp6Z2FhUTJEa29rWGtCd3lCSklaSFBpM0UyU2d2YXM4SWVMZlQ1OUlYN1BqQkY3Z2dlVGx6R25OVjY4THp4d2RzZHBCLWlNWTV5NFk0SjBXb1N3YURxVTNTWUhzdjdNVnNBVHFJWm1xeU9fYVZSX3cya1pwY0JOUndiel9Ob2hLZFhkUEJlc1NCZmFHS1TSAcIBQVVfeXFMUDBxS2UtVnJCQ3dCUGVDeDgyN0lDZlZ4WU5jWTlSRE85MXY4TFIzVUpuOWFzYTB4OTV4Qm5xYnVZV2pfanphVnZOSVVHSDFyR1RkNGJDd0JxOUZ3YUkxb2Z4dld1N0hRbXFfeE9JMnRQWHpCanNvOTJxcExRTlFBRjdSNWEzMUNRdXZWMDlyOWVQQ3paZ3duTkVqclY0MTl0MmZISHYwOXh6TTliUFV6WHBXT25jWUVXXzAzdDQ5S3M3dVE?oc=5",
+      "words": [
+        "2029",
+        "billion",
+        "demand",
+        "double",
+        "kpmg",
+        "report",
+        "semiconductor",
+        "set"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -9735,10 +9733,25 @@
     "1789819071241",
     "1789819238964",
     "1789819500253",
-    "1789819745902"
+    "1789819745902",
+    "1789736269913",
+    "1789743360828",
+    "1789750482489",
+    "1789759081184",
+    "1789761041003",
+    "1789761041500",
+    "1789768509897",
+    "1789777483211",
+    "1789818615195",
+    "1789819996432",
+    "1789820200255",
+    "1789820236511",
+    "1789820257478",
+    "1789820362750",
+    "1789820485746"
   ],
-  "last_digest_hour": "2026-09-19T17",
-  "last_success": "2026-09-19T12:16:51.997467+00:00",
+  "last_digest_hour": "2026-09-19T18",
+  "last_success": "2026-09-19T12:32:08.063355+00:00",
   "national": {
     "alerted": [
       {
@@ -10608,7 +10621,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T12:19:07.277002+00:00",
+    "last_run": "2026-09-19T12:34:19.984589+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -11449,7 +11462,8 @@
       "pib:2312394",
       "pib:2312426",
       "pib:2312436",
-      "pib:2312440"
+      "pib:2312440",
+      "pib:2312455"
     ],
     "source_failures": {
       "CBI": {
@@ -11487,62 +11501,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Union Cabinet approves two new semiconductor units worth Rs 3,900 crore",
-      "post": {
-        "created_at": "2026-09-19T09:55:00+00:00",
-        "handle": "News: PIB releases",
-        "id": "1789811700695",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "PIB",
-        "reposts": 0,
-        "text": "Cabinet approves two more semiconductor manufacturing units with cumulative investment of more than Rs. 3,900 crore",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeUtodkozUTVORHFIYnhIbFpyQnNBV3Judy1uNjYyUEw0dFpNWU0ya21oVVduN00zMXl4bk1lbTE3X1QzS3FTZktfV25lNHhfX0tlRi0xQi1aY3BlaFpFLVJ6NlNpMWNhOFRBbWczamoySW9Lam9DcFNBZkh4aE0yVA?oc=5"
-      },
-      "queued_at": "2026-09-19T11:47:13.036261+00:00",
-      "score": 10.0,
-      "why": "Major government policy and capex approval for Indian semiconductor manufacturing."
-    },
-    {
-      "headline": "KPMG reports India semiconductor demand to hit $90 billion by 2030",
-      "post": {
-        "created_at": "2026-09-19T07:51:00+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789804260827",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "digital terminal",
-        "reposts": 0,
-        "text": "India\u2019s Semiconductor Demand Set to Double to $90 Billion by 2029-30: KPMG Report",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkpxTGJUdnNmMG9jaF9zT28wNmMxMjNzX0ZwalFxTkp6Z2FhUTJEa29rWGtCd3lCSklaSFBpM0UyU2d2YXM4SWVMZlQ1OUlYN1BqQkY3Z2dlVGx6R25OVjY4THp4d2RzZHBCLWlNWTV5NFk0SjBXb1N3YURxVTNTWUhzdjdNVnNBVHFJWm1xeU9fYVZSX3cya1pwY0JOUndiel9Ob2hLZFhkUEJlc1NCZmFHS1TSAcIBQVVfeXFMUDBxS2UtVnJCQ3dCUGVDeDgyN0lDZlZ4WU5jWTlSRE85MXY4TFIzVUpuOWFzYTB4OTV4Qm5xYnVZV2pfanphVnZOSVVHSDFyR1RkNGJDd0JxOUZ3YUkxb2Z4dld1N0hRbXFfeE9JMnRQWHpCanNvOTJxcExRTlFBRjdSNWEzMUNRdXZWMDlyOWVQQ3paZ3duTkVqclY0MTl0MmZISHYwOXh6TTliUFV6WHBXT25jWUVXXzAzdDQ5S3M3dVE?oc=5"
-      },
-      "queued_at": "2026-09-19T11:47:13.036261+00:00",
-      "score": 7.0,
-      "why": "Research report from a named firm with hard numbers on the Indian semiconductor market."
-    },
-    {
-      "headline": "Anthropic IPO advances as revenue run rate tops $65B",
-      "post": {
-        "created_at": "2026-09-19T11:00:00+00:00",
-        "handle": "News: Global IT services",
-        "id": "1789815600837",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Coin Republic",
-        "reposts": 0,
-        "text": "AI News: Anthropic IPO Advances as Revenue Run Rate Tops $65B",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkMta3JHOHdHUHRBWHplVzFPNVczMEhMeS1Uc0xWbUFlS3VJa3pVc3dZNXhYdFlNTTJPeVdyeW9OQmJGVXJnbkNTUENfX09ZMU1LUENvNWNhakFjWjYwdDFaUnVQRVFReE5kb2w0cWdDX050N1JSRU14QUpTSi1LekRTMTMtYzBSenU4TVA3bTJHaENrZENST2cwQ25JZ2poLXhkTDl30gGrAUFVX3lxTE1KV3lLckJwYXMzNFdWRGVkZ0dOaWRkYnJSWVFwRG9lWkt1Q2lrTGVHanpudWpfUEppNkNMMDFPZXJSQ25CY3h2aFpvbW9PcGNVaGoydkFrdGpneWZTSG1IcGllenRnT0dUdUp6S3ZyUHR6QXprbkxNMXJZdnZ0TGZFMGlqX2Fmb1p2bTFrQmhLZUlka29ZT3RtNHE5bjBMTTFYYnZDQlhZZEZQWQ?oc=5"
-      },
-      "queued_at": "2026-09-19T12:02:20.084723+00:00",
-      "score": 8.0,
-      "why": "Major financial milestone and IPO progress for a top-tier AI company, a core beat requirement."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -12525,16 +12484,16 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789817262524,
-    "news: consumer internet india": 1789815976111,
+    "news: consumer internet india": 1789820362750,
     "news: global ai": 1789812171251,
-    "news: global chips": 1789815624239,
+    "news: global chips": 1789820485746,
     "news: global it services": 1789816444808,
-    "news: india ai deeptech": 1789816558713,
+    "news: india ai deeptech": 1789820200255,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789819745902,
-    "news: india semiconductors": 1789819071241,
+    "news: india semiconductors": 1789820257478,
     "news: india tech policy": 1789814162281,
-    "news: india telecom": 1789814583450,
+    "news: india telecom": 1789819996432,
     "news: indian it majors": 1789817510748,
     "news: indian it midcaps": 1789804560434,
     "news: pib releases": 1789819500253,
@@ -12570,7 +12529,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T12:16:52.250334+00:00",
+    "last_server_run": "2026-09-19T12:32:08.313157+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T11:49:07.730947+00:00",
