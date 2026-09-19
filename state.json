@@ -1,64 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-14T07:16:19.886100+00:00",
-      "handle": "News: India telecom",
-      "headline": "Vodafone Idea faces SBI conditions for Rs 35,000 crore loan",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGtlM09WSkZVRkJKMi1CcUQwcG12cGQwczRwTW5ZWmpPRG1QMDdDZDhrT3JEYWJoNDNleW5EN2JuRTdqZkFZUjRtTkJlV1N3TjMzUGhrVFFDanpvdlAwZjlVNVU5VmpwRTNDUHpwY0xLQnA2STk0STNEZEVjNUhoT3BtLWdIWlVfTWZIRjFyNUpyV2lHWnhXdXFoZVF1OGlNRVBBWXlnMDZqbEFBSm1obmItaWI2Q2c1VnJB0gHAAUFVX3lxTE02dlZXekdrTUwtdGs5WFMyMVhUbUI3ZXRpNnRwU2ZHZ3E1TDFwU1M3eGhrQzhXcnFuRzlUUjlyM3FVdE1uUV96V1R3NmJ0MGxlcnNWTUswMlloUzlYelNWSVh0WFNLRUZ3eVNGSjJ3bHZZQlZTT3pubFNmUVRYeDZ2ZFlKZGNqMFo4VGxOV0dxRjBVN01MdG5iRkxDcy16aXpFNnZodFRXelFTeFBtZkUyeWJRLTBJUHc0TW84alY5ZA?oc=5",
-      "words": [
-        "35000",
-        "conditions",
-        "idea",
-        "loan",
-        "major",
-        "raise",
-        "rupees",
-        "sbi",
-        "sets",
-        "vodafone"
-      ]
-    },
-    {
-      "at": "2026-09-14T07:31:32.562082+00:00",
-      "handle": "PIB MeitY",
-      "headline": "PM Modi to inaugurate SEMICON India 2026 on September 17",
-      "tier": 1,
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2309984",
-      "words": [
-        "2026",
-        "edition",
-        "fifth",
-        "inaugurate",
-        "minister",
-        "modi",
-        "narendra",
-        "prime",
-        "semicon",
-        "september"
-      ]
-    },
-    {
-      "at": "2026-09-14T07:31:32.562082+00:00",
-      "handle": "News: India fintech",
-      "headline": "FASTag users can change issuer banks without changing tags",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1ZtTDkyU3JRWmY4anBzaHhuMFpqT3BHQmpzeGlsV0xReHplNFgzNWNoRGF6LUlweDdRZzJEMVNxV3J1MUFPdko0QjFoWV9iaTBfUGUtUl9hQkFSNGc5TElWTHAtQTVEYzM1ODdITm1rT2dHVHAydVFhY1g0UDMzdERnX1lGVUxEUUxRc1pETmswZzdST3BYX1EzeU1COGtlVEoxMzhUOWU1NGdj0gG6AUFVX3lxTE11VFVoMFNhUnZxMGpaOFc4akVEcnFVN005STl5VVlheGRvTU5RN0UxYkxidU1Nb3pLNzNBOHJjSy03aHZ0MF9XX2RoUk51ajJrSm16WWpVNVluRnVPM1VNbnZSREVtYlRmVmxYYS1VdFRuVWlTZ0R4ZnZIcFI3YWhISF95LTFfNW5NdC1MdFIyMUJSVUFmdm1zd1lvVWZnak5VQzlzcDI3dDVQbmRwUEVRb3VvdnU5bWdnUQ?oc=5",
-      "words": [
-        "banks",
-        "can",
-        "change",
-        "fastag",
-        "getting",
-        "issuer",
-        "onetag",
-        "tags",
-        "under",
-        "users",
-        "without"
-      ]
-    },
-    {
       "at": "2026-09-14T07:46:53.211828+00:00",
       "handle": "News: India telecom",
       "headline": "COAI and UK government partner on spam and trusted AI",
@@ -7360,12 +7302,64 @@
         "sherpa",
         "writing"
       ]
+    },
+    {
+      "at": "2026-09-19T08:33:46.460781+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Fujifilm inks semiconductor partnership with Tata Electronics for India growth",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOTUlidXpDa0tLTWJJYmQxS1VIa3ZINlFyelNyZHVVcElQSDYySEpJM04yUU5wcnpPbkJjY05vXzNCaE1Sa3BwRnlnRlhMeWlQR1QxUmk0ZVNHOVkzdUVkWExOS1UyOUlIcHZZMkM4aHpiSzZWVUtpMjFBcWpPVGRfSFFXNXQyZXJTRlZEWnZSeDBsdzdrX2dlSGJ3cDdVbVI2VVBxS2hYd1JZS2dieGk1MW5LR3BDRW5mNXJVNWtYUWpYcVdycjNMeGpYUHVBNExaZUdOY3BOWnNuTklGVE1UZEVYWG5LMWZYa0JxWnF3cXVEdy0wbW93RDU4emNROFdxUG1FZ25Ec3BwV1I2Ym9nREcySnVWQmIyZnpzOUYtRzFUcHpDOHpaOWxrUHd4OFpEOVZhOWZTZ3gyamRWSUVjMlM1QVRtV0hPc2tScUIwajNDVkE10gHwAUFVX3lxTE9SbkdSZFFDTHNDZTNQdHBCR1RCMGlLZ1pVMnVPQ19VTklsbTRpc3kyc2N3cEVIWU02NkRGenhSeG5vTFMwOTAzUkk0VkowMC1KaVp0cnNkdHgydTBMUDZpZzRXMWRVcFd4T1UwWlJpVFBYOVVLSzNUSjlvQnRPekc3R1VEekNHY0syeEVNZHV6Nkx4TFR4OVZQcUhiSTB0VTNENnplVm5Kb1pvUjVhOHpWTjBZTVRqTGhESG9WM1BwLURnV2QyTEhtM2tmTUliRGZZeHhBaGxWaVNTaktrTUQwaFF0c3BETnNWME9CS09Waw?oc=5",
+      "words": [
+        "bets",
+        "drive",
+        "electronics",
+        "fujifilm",
+        "growth",
+        "inks",
+        "pact",
+        "semiconductors",
+        "tata"
+      ]
+    },
+    {
+      "at": "2026-09-19T08:33:46.460781+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Nvidia CEO Jensen Huang says AI development should move fast",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMk9qWU1DdjYzU21NbDIyQlNYY25GUk1nVUdDckZqdjRUMUdPUkQ2RE0wM001WEpXai1SY0ZrRE1MMG1aeUhJVW1DVGhFNWppQzViQnlWakNRQkxvaFFEQ2pjb0d2N2l6UDZWOW1MZ1ZHMXdoelRnMlpaSXo0eGVZMERESDNkZ3l6dDJSaFEzeFlENzFYVjc4RDdMMFlVN3d1M3htWkI2Smg2WDZsUnc?oc=5",
+      "words": [
+        "can",
+        "development",
+        "fast",
+        "huang",
+        "move",
+        "nvidia",
+        "should"
+      ]
+    },
+    {
+      "at": "2026-09-19T08:33:46.460781+00:00",
+      "handle": "News: India tech policy",
+      "headline": "MosChip announces initial bring-up results for VIDYUT100 smart energy meter IC",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQlJQNDRsTXFUcVFhYThVQlJReGViQXEwY1Y2Q3Q2Q095Sm5zWlFzeHlaamh0M0dYaEV5Ulh0eFhrXy1FejBNVnkwd2FPdzh3VlBpdU5PYmNPZzMyQ3ViaGFEdHZPM19PSEpKcnVXTWVEMmRodkVTVWxhQ3IxdThZUjhuclR0QTRMY3pnbUFNeDBYSFlDU21MVEpRNFdBMW5DYU9SMUhIOGhUMDFEUlV3NA?oc=5",
+      "words": [
+        "announces",
+        "bring",
+        "energy",
+        "initial",
+        "meter",
+        "moschip",
+        "results",
+        "smart",
+        "vidyut100"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-19T13",
-  "last_success": "2026-09-19T08:16:57.974351+00:00",
+  "last_digest_hour": "2026-09-19T14",
+  "last_success": "2026-09-19T08:33:46.461432+00:00",
   "national": {
     "alerted": [
       {
@@ -8191,7 +8185,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T08:19:08.575432+00:00",
+    "last_run": "2026-09-19T08:36:36.703529+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -9012,7 +9006,9 @@
       "pib:2312326",
       "pib:2312339",
       "pib:2312342",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-international-conference-on-the-future-of-environment-and-climate-dynamics"
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-international-conference-on-the-future-of-environment-and-climate-dynamics",
+      "pib:2312353",
+      "pib:2312354"
     ],
     "source_failures": {
       "CBI": {
@@ -9050,62 +9046,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Fujifilm inks semiconductor partnership with Tata Electronics for India growth",
-      "post": {
-        "created_at": "2026-09-19T07:56:55+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789804615065",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Fujifilm bets on semiconductors to drive India growth; inks pact with Tata Electronics",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOTUlidXpDa0tLTWJJYmQxS1VIa3ZINlFyelNyZHVVcElQSDYySEpJM04yUU5wcnpPbkJjY05vXzNCaE1Sa3BwRnlnRlhMeWlQR1QxUmk0ZVNHOVkzdUVkWExOS1UyOUlIcHZZMkM4aHpiSzZWVUtpMjFBcWpPVGRfSFFXNXQyZXJTRlZEWnZSeDBsdzdrX2dlSGJ3cDdVbVI2VVBxS2hYd1JZS2dieGk1MW5LR3BDRW5mNXJVNWtYUWpYcVdycjNMeGpYUHVBNExaZUdOY3BOWnNuTklGVE1UZEVYWG5LMWZYa0JxWnF3cXVEdy0wbW93RDU4emNROFdxUG1FZ25Ec3BwV1I2Ym9nREcySnVWQmIyZnpzOUYtRzFUcHpDOHpaOWxrUHd4OFpEOVZhOWZTZ3gyamRWSUVjMlM1QVRtV0hPc2tScUIwajNDVkE10gHwAUFVX3lxTE9SbkdSZFFDTHNDZTNQdHBCR1RCMGlLZ1pVMnVPQ19VTklsbTRpc3kyc2N3cEVIWU02NkRGenhSeG5vTFMwOTAzUkk0VkowMC1KaVp0cnNkdHgydTBMUDZpZzRXMWRVcFd4T1UwWlJpVFBYOVVLSzNUSjlvQnRPekc3R1VEekNHY0syeEVNZHV6Nkx4TFR4OVZQcUhiSTB0VTNENnplVm5Kb1pvUjVhOHpWTjBZTVRqTGhESG9WM1BwLURnV2QyTEhtM2tmTUliRGZZeHhBaGxWaVNTaktrTUQwaFF0c3BETnNWME9CS09Waw?oc=5"
-      },
-      "queued_at": "2026-09-19T08:16:57.973922+00:00",
-      "score": 8.0,
-      "why": "This is a major corporate partnership involving an Indian company in the semiconductor sector."
-    },
-    {
-      "headline": "Nvidia CEO Jensen Huang says AI development should move fast",
-      "post": {
-        "created_at": "2026-09-19T08:02:09+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1789804929842",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "T\u00fcrkiye Today",
-        "reposts": 0,
-        "text": "Nvidia's Huang says AI development should move 'as fast as we can'",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMk9qWU1DdjYzU21NbDIyQlNYY25GUk1nVUdDckZqdjRUMUdPUkQ2RE0wM001WEpXai1SY0ZrRE1MMG1aeUhJVW1DVGhFNWppQzViQnlWakNRQkxvaFFEQ2pjb0d2N2l6UDZWOW1MZ1ZHMXdoelRnMlpaSXo0eGVZMERESDNkZ3l6dDJSaFEzeFlENzFYVjc4RDdMMFlVN3d1M3htWkI2Smg2WDZsUnc?oc=5"
-      },
-      "queued_at": "2026-09-19T08:16:57.973922+00:00",
-      "score": 7.0,
-      "why": "This is a notable statement by a major AI chief on industry direction."
-    },
-    {
-      "headline": "MosChip announces initial bring-up results for VIDYUT100 smart energy meter IC",
-      "post": {
-        "created_at": "2026-09-19T08:14:49+00:00",
-        "handle": "News: India tech policy",
-        "id": "1789805689961",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Machine Maker",
-        "reposts": 0,
-        "text": "MosChip Announces Initial Bring-Up Results of VIDYUT100 Smart Energy Meter IC",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQlJQNDRsTXFUcVFhYThVQlJReGViQXEwY1Y2Q3Q2Q095Sm5zWlFzeHlaamh0M0dYaEV5Ulh0eFhrXy1FejBNVnkwd2FPdzh3VlBpdU5PYmNPZzMyQ3ViaGFEdHZPM19PSEpKcnVXTWVEMmRodkVTVWxhQ3IxdThZUjhuclR0QTRMY3pnbUFNeDBYSFlDU21MVEpRNFdBMW5DYU9SMUhIOGhUMDFEUlV3NA?oc=5"
-      },
-      "queued_at": "2026-09-19T08:16:57.973922+00:00",
-      "score": 7.0,
-      "why": "This is a technical product milestone announcement from an Indian semiconductor player."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -10087,19 +10028,19 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789799907269,
-    "news: consumer internet india": 1789801869070,
+    "news: big tech platforms": 1789806708814,
+    "news: consumer internet india": 1789805580525,
     "news: global ai": 1789800516649,
-    "news: global chips": 1789801500450,
-    "news: global it services": 1789795612905,
-    "news: india ai deeptech": 1789802851725,
+    "news: global chips": 1789805621919,
+    "news: global it services": 1789805189510,
+    "news: india ai deeptech": 1789806121179,
     "news: india edtech gaming": 1789728529151,
-    "news: india fintech": 1789805644691,
-    "news: india semiconductors": 1789805653356,
+    "news: india fintech": 1789805714981,
+    "news: india semiconductors": 1789806656572,
     "news: india tech policy": 1789805689961,
     "news: india telecom": 1789803995765,
     "news: indian it majors": 1789804508732,
-    "news: indian it midcaps": 1789792020423,
+    "news: indian it midcaps": 1789795920020,
     "news: pib releases": 1789804277744,
     "news: tech leaders": 1789804929842,
     "nvidia": 1789650055203,
@@ -10133,7 +10074,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T08:16:58.308683+00:00",
+    "last_server_run": "2026-09-19T08:33:46.771747+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T07:19:38.407424+00:00",
