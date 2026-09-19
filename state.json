@@ -10250,10 +10250,23 @@
     "1789838688757",
     "1789838917693",
     "1789839026332",
-    "1789857539755"
+    "1789857539755",
+    "1789783320796",
+    "1789787281919",
+    "1789789499461",
+    "1789810041075",
+    "1789810325169",
+    "1789814544224",
+    "1789819538241",
+    "1789820550839",
+    "1789821432930",
+    "1789836168102",
+    "1789837680624",
+    "1789839040202",
+    "1789839173300"
   ],
   "last_digest_hour": "2026-09-19T23",
-  "last_success": "2026-09-19T17:32:46.321994+00:00",
+  "last_success": "2026-09-19T17:47:07.957670+00:00",
   "national": {
     "alerted": [
       {
@@ -11168,7 +11181,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T17:35:01.513102+00:00",
+    "last_run": "2026-09-19T17:49:19.663732+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12063,7 +12076,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "OpenAI engineers detail unexpected AI router breakdown and fix",
+      "post": {
+        "created_at": "2026-09-19T17:08:00+00:00",
+        "handle": "News: Global AI",
+        "id": "1789837680624",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Finance",
+        "reposts": 0,
+        "text": "OpenAI Engineers Say Their AI Router Broke in a Way No One Predicted \u2014 Here's the Fix",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51bHNoRmgyQWF6MTk0Q2k0cUpLTU1Cd0hxR0JpZGxjWU4xNHVXVFVKSWozWmNDdUJCT1puR1hrSFktWXY5ZVFyeWlQc3JYRFVaa1Qwb0trZUIybEU?oc=5"
+      },
+      "queued_at": "2026-09-19T17:47:07.956564+00:00",
+      "score": 7.0,
+      "why": "Disclosures by major AI labs on core technical incidents and engineering findings are wire stories."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -13045,7 +13077,7 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789836269886,
+    "news: big tech platforms": 1789839173300,
     "news: consumer internet india": 1789834126995,
     "news: global ai": 1789838917693,
     "news: global chips": 1789838688757,
@@ -13053,13 +13085,13 @@
     "news: india ai deeptech": 1789836920562,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789838304417,
-    "news: india semiconductors": 1789833103618,
+    "news: india semiconductors": 1789839040202,
     "news: india tech policy": 1789838198956,
     "news: india telecom": 1789834414937,
     "news: indian it majors": 1789834727484,
     "news: indian it midcaps": 1789839026332,
     "news: pib releases": 1789836600427,
-    "news: tech leaders": 1789829340632,
+    "news: tech leaders": 1789836168102,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -13091,7 +13123,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T17:32:46.638547+00:00",
+    "last_server_run": "2026-09-19T17:47:08.270447+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T16:05:51.390543+00:00",
