@@ -10263,10 +10263,21 @@
     "1789836168102",
     "1789837680624",
     "1789839040202",
-    "1789839173300"
+    "1789839173300",
+    "1789772052480",
+    "1789795440343",
+    "1789795440381",
+    "1789795440962",
+    "1789795593229",
+    "1789796405156",
+    "1789815001976",
+    "1789837680264",
+    "1789839997150",
+    "1789840165488",
+    "1789840320317"
   ],
   "last_digest_hour": "2026-09-19T23",
-  "last_success": "2026-09-19T17:47:07.957670+00:00",
+  "last_success": "2026-09-19T18:02:36.231656+00:00",
   "national": {
     "alerted": [
       {
@@ -11181,7 +11192,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T17:49:19.663732+00:00",
+    "last_run": "2026-09-19T18:04:55.963260+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12038,7 +12049,8 @@
       "pib:2312584",
       "pib:2312605",
       "pib:2312606",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-games"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-games",
+      "pib:2312604"
     ],
     "source_failures": {
       "CBI": {
@@ -13084,9 +13096,9 @@
     "news: global it services": 1789830560420,
     "news: india ai deeptech": 1789836920562,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789838304417,
-    "news: india semiconductors": 1789839040202,
-    "news: india tech policy": 1789838198956,
+    "news: india fintech": 1789840320317,
+    "news: india semiconductors": 1789839997150,
+    "news: india tech policy": 1789840165488,
     "news: india telecom": 1789834414937,
     "news: indian it majors": 1789834727484,
     "news: indian it midcaps": 1789839026332,
@@ -13123,7 +13135,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T17:47:08.270447+00:00",
+    "last_server_run": "2026-09-19T18:02:36.542153+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T16:05:51.390543+00:00",
