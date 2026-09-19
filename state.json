@@ -9906,10 +9906,35 @@
     "1789825614418",
     "1789825800550",
     "1789825860723",
-    "1789846180435"
+    "1789846180435",
+    "1789744560995",
+    "1789745700227",
+    "1789746391521",
+    "1789749720151",
+    "1789749720271",
+    "1789749720651",
+    "1789749720746",
+    "1789773794054",
+    "1789782937883",
+    "1789783773475",
+    "1789784228820",
+    "1789794738693",
+    "1789794749536",
+    "1789795440523",
+    "1789795440811",
+    "1789796203363",
+    "1789807303847",
+    "1789808520725",
+    "1789814580941",
+    "1789820801605",
+    "1789825740471",
+    "1789825959615",
+    "1789826550073",
+    "1789826869846",
+    "1789827106115"
   ],
   "last_digest_hour": "2026-09-19T19",
-  "last_success": "2026-09-19T14:02:14.467576+00:00",
+  "last_success": "2026-09-19T14:17:52.883674+00:00",
   "national": {
     "alerted": [
       {
@@ -10598,6 +10623,29 @@
           "south",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-19T14:20:11.087611+00:00",
+        "handle": "PIB Ministry of Petroleum & Natural Gas",
+        "headline": "Aadhaar authentication becomes mandatory for subsidized domestic LPG refills from October 1",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312532",
+        "words": [
+          "2026",
+          "aadhaar",
+          "authentication",
+          "biometric",
+          "domestic",
+          "gas",
+          "lpg",
+          "mandatory",
+          "ministry",
+          "natural",
+          "october",
+          "petroleum",
+          "refills",
+          "subsidised"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -10779,7 +10827,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T14:04:27.035526+00:00",
+    "last_run": "2026-09-19T14:20:11.088203+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -11627,7 +11675,8 @@
       "pib:2312494",
       "pib:2312509",
       "pib:2312513",
-      "pib:2312524"
+      "pib:2312524",
+      "pib:2312532"
     ],
     "source_failures": {
       "CBI": {
@@ -12739,14 +12788,14 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789819200495,
-    "news: consumer internet india": 1789825860723,
+    "news: consumer internet india": 1789827106115,
     "news: global ai": 1789823473232,
     "news: global chips": 1789824868970,
     "news: global it services": 1789825389853,
     "news: india ai deeptech": 1789822877676,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789825800550,
-    "news: india semiconductors": 1789825380215,
+    "news: india fintech": 1789826869846,
+    "news: india semiconductors": 1789826550073,
     "news: india tech policy": 1789822380959,
     "news: india telecom": 1789825614418,
     "news: indian it majors": 1789817510748,
@@ -12784,7 +12833,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T14:02:14.716017+00:00",
+    "last_server_run": "2026-09-19T14:17:53.202795+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T13:49:40.201843+00:00",
