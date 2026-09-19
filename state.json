@@ -9791,10 +9791,37 @@
     "1789821559215",
     "1789821900807",
     "1789822380959",
-    "1789822716986"
+    "1789822716986",
+    "1789738389719",
+    "1789738469811",
+    "1789739880309",
+    "1789739940718",
+    "1789740656912",
+    "1789741920556",
+    "1789743520993",
+    "1789743812011",
+    "1789751170150",
+    "1789756200820",
+    "1789756812212",
+    "1789770039130",
+    "1789771117113",
+    "1789775109837",
+    "1789781154770",
+    "1789785027324",
+    "1789794386706",
+    "1789798560057",
+    "1789804425989",
+    "1789819200495",
+    "1789822877676",
+    "1789823045553",
+    "1789823457118",
+    "1789823473232",
+    "1789823496701",
+    "1789823520185",
+    "1789823649563"
   ],
   "last_digest_hour": "2026-09-19T18",
-  "last_success": "2026-09-19T13:02:39.944609+00:00",
+  "last_success": "2026-09-19T13:16:29.429736+00:00",
   "national": {
     "alerted": [
       {
@@ -10664,7 +10691,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T13:04:55.539732+00:00",
+    "last_run": "2026-09-19T13:18:58.594259+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -11508,7 +11535,8 @@
       "pib:2312440",
       "pib:2312455",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-reflecting-on-initiatives-building-a-more-circular-and-competitive-textile-industry",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-the-loss-of-lives-in-mishap-in-agar-malwa-madhya-pradesh"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-the-loss-of-lives-in-mishap-in-agar-malwa-madhya-pradesh",
+      "pib:2312494"
     ],
     "source_failures": {
       "CBI": {
@@ -12528,17 +12556,17 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789819051930,
+    "news: big tech platforms": 1789819200495,
     "news: consumer internet india": 1789820362750,
-    "news: global ai": 1789812171251,
+    "news: global ai": 1789823473232,
     "news: global chips": 1789821221791,
     "news: global it services": 1789816444808,
-    "news: india ai deeptech": 1789822716986,
+    "news: india ai deeptech": 1789822877676,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789821900807,
-    "news: india semiconductors": 1789821559215,
+    "news: india fintech": 1789823520185,
+    "news: india semiconductors": 1789823649563,
     "news: india tech policy": 1789822380959,
-    "news: india telecom": 1789819996432,
+    "news: india telecom": 1789823496701,
     "news: indian it majors": 1789817510748,
     "news: indian it midcaps": 1789812545871,
     "news: pib releases": 1789819500253,
@@ -12574,7 +12602,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T13:02:40.189285+00:00",
+    "last_server_run": "2026-09-19T13:16:29.746645+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T11:49:07.730947+00:00",
