@@ -1,40 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-14T03:46:18.161096+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Genpact names new CFO and launches enterprise AI suite",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUNYT01vb3BvZ2JiZGdkREhNWXpQT1loSzk2dVBpbVQ5OHlkNUFyajNsZHl2b0VoR3RpYjk2cUVWeE15cTB4X1RPR3ZSblRqR3Jhc1FUellXU25Nc1RuSjlPcWhUQWFoUDlKNWlXeG5GY2QtVXB0M1VTbm9kb3liOUxlV1Q3bXhDcW1KLXNDRjJyb08tSDNpYXVuWDAydTRFVXg0TEg4N2lpWEtoMmlrWmhUdmwtU0F6UURDWTlZYl9CWFFHYmZTVjM2UFbSAdIBQVVfeXFMT1VVQXIwbnNiMndfN2R4b3lNTG81LTBxbFN2eGpVX0hFa2cwTFF2M2tXZFdJR3VzT2dqaFF4Mk5vb3AwbmNkbzBRQURZZmRaVDJITC1ISmFpcDR6QVBNTTFHa3BBLWlVbHdfU2FmZ1FEbTM2MHN1cjhJeTllbi1oOXI1M3psWXluYUNwdnY3M1dseGk4SktXT3d1NnlaVmg1S2hMOFNnbGJSTUJGdDhFTU9tNUQ0aVUtNGJGMjhYbERtSjExRmNjUEhLSTVJU1RBS2ln?oc=5",
-      "words": [
-        "cfo",
-        "genpact",
-        "launches",
-        "names",
-        "still",
-        "suite",
-        "undervalued"
-      ]
-    },
-    {
-      "at": "2026-09-14T04:01:46.276260+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "Satya Nadella warns against centralized AI control",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEhLTlBaZnc1TjVFV0lJZ0xPM1VtNFRkVEFsMWRPeFNiYmphVkptQ3p6dHJmUUpKYnBOakRCNGRuWDJpTEJiVDU0VDd5NXI0NVhXNFZrWEZSeW00ZE1TZkZSVG50Y2pEZ19ZRnBfZWlVR0NZWDlWWlMxVF9DZW1wamZKOElKa3ZTaTZnS0ZQTkdLcTdvUzhDQnpSUmk5V3BpSEt3YldXLUprMFJ6Sk0zN25xUy1YTXRH0gG-AUFVX3lxTFBLZDIzcEJ3ZjRsNFA4R2pIRlVfMktSZTlKY0JIVmJhVXJIRXI5aFlqUGhveVFIbl9WY2lvemg1SVJHUERtb2VQcGp2U1JIX0M2NG8wZFB6ZS1wZzJpN1VMQ2hsd1VZRV83NDlvZFcxQXBFOERsNDdldml0TFBEX1JiLTZUenpQNS11VHdYX0U1eTlrS0J5VWVkeW1ocEhUUlowT0Q3czdIbDJPSGZwTkJUeDE2T2ZRS0J5UTRIYnc?oc=5",
-      "words": [
-        "access",
-        "against",
-        "calls",
-        "control",
-        "few",
-        "nadella",
-        "satya",
-        "warns",
-        "wider"
-      ]
-    },
-    {
       "at": "2026-09-14T04:01:46.276260+00:00",
       "handle": "News: Indian IT midcaps",
       "headline": "Trump rejects AI slowdown and urges competition with China",
@@ -7354,12 +7320,50 @@
         "meta",
         "targets"
       ]
+    },
+    {
+      "at": "2026-09-19T02:32:23.913848+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Pocket FM hits $500 million ARR following AI content push",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2dRYm9fajFYekdWdjE5UXpYS0xFZUNLcFlOVWVnSFVsaUFPLUxVTzlaZlNYTUNvcXphakJEZno5YXd5YWxYOHVHYVRNOFJlZ180QlVJNE8wUWhKaHlRLTRVRXR2dGdIWjdjSTZvN19uRjJiY0ZCRXVBYTluWnN3bnpIQ0xlUjQxX2RSbWpPMzNCekVwbEVseW5NYWZaSWVvR1FOWldGTk1VYlZ5bFVmT1ZsTW1mU19hY1ZnT2NsTGTSAcABQVVfeXFMUFNnUWJvX2oxWHpHVnYxOVF6WEtMRWVDS3BZTlVlZ0hVbGlBTy1MVU85WmZTWE1Db3F6YWpCRGZ6OWF3eWFsWDh1R2FUTThSZWdfNEJVSTRPMFFoSmh5US00VUV0dnRnSFo3Y0k2bzdfbkYyYmNGQkV1QWE5blpzd256SENMZVI0MV9kUm1qTzMzQnpFcGxFbHluTWFmWkllb0dRTlpXRk5NVWJWeWxVZk9WbE1tZlNfYWNWZ09jbExk?oc=5",
+      "words": [
+        "200",
+        "500",
+        "arr",
+        "content",
+        "doubles",
+        "lifts",
+        "million",
+        "pocket",
+        "production",
+        "sherpa"
+      ]
+    },
+    {
+      "at": "2026-09-19T02:32:23.913848+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Persistent Systems sets Sept 25 cut-off for EGM on USD 1.25 billion raise",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmtYZFRBRHBRcnAtMEhiQ0tOVFpGWi1TTGllVDd3TFJPNEZLR191X0NiOTByQnlKT1dvYVFfQmZOeXlHMmF0dElHNDYzakljU2xtTzE1dnJGVmhBQjNSUUVoaGJmLXVib0YxSERKSEgxUUVMNlU2MUxidjFvUUNoc0d5a3AxaHhLQ2FPZDNOcloyUWtBYVlLOXRralVtNTdjeGl5TjBFbF9XWWJ5bTJVZGl3VW1OYlVocXFaNVRtOFhsUQ?oc=5",
+      "words": [
+        "billion",
+        "cut",
+        "egm",
+        "off",
+        "persistent",
+        "raise",
+        "sept",
+        "sets",
+        "systems",
+        "usd"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-19T07",
-  "last_success": "2026-09-19T02:17:01.724611+00:00",
+  "last_digest_hour": "2026-09-19T08",
+  "last_success": "2026-09-19T02:32:23.914348+00:00",
   "national": {
     "alerted": [
       {
@@ -8141,7 +8145,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T02:22:03.336632+00:00",
+    "last_run": "2026-09-19T02:37:03.450358+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8963,7 +8967,8 @@
         "until": "2026-09-19T03:47:15.440043+00:00"
       },
       "Gazette of India (Extraordinary)": {
-        "count": 2
+        "count": 3,
+        "until": "2026-09-19T08:34:40.685640+00:00"
       },
       "State: Maharashtra": {
         "count": 9,
@@ -8992,26 +8997,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Pocket FM hits $500 million ARR following AI content push",
-      "post": {
-        "created_at": "2026-09-19T01:37:19+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1789781839501",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Buzzincontent",
-        "reposts": 0,
-        "text": "Pocket FM doubles ARR to $500 million as Sherpa AI lifts content production 1,200%",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2dRYm9fajFYekdWdjE5UXpYS0xFZUNLcFlOVWVnSFVsaUFPLUxVTzlaZlNYTUNvcXphakJEZno5YXd5YWxYOHVHYVRNOFJlZ180QlVJNE8wUWhKaHlRLTRVRXR2dGdIWjdjSTZvN19uRjJiY0ZCRXVBYTluWnN3bnpIQ0xlUjQxX2RSbWpPMzNCekVwbEVseW5NYWZaSWVvR1FOWldGTk1VYlZ5bFVmT1ZsTW1mU19hY1ZnT2NsTGTSAcABQVVfeXFMUFNnUWJvX2oxWHpHVnYxOVF6WEtMRWVDS3BZTlVlZ0hVbGlBTy1MVU85WmZTWE1Db3F6YWpCRGZ6OWF3eWFsWDh1R2FUTThSZWdfNEJVSTRPMFFoSmh5US00VUV0dnRnSFo3Y0k2bzdfbkYyYmNGQkV1QWE5blpzd256SENMZVI0MV9kUm1qTzMzQnpFcGxFbHluTWFmWkllb0dRTlpXRk5NVWJWeWxVZk9WbE1tZlNfYWNWZ09jbExk?oc=5"
-      },
-      "queued_at": "2026-09-19T01:47:01.399948+00:00",
-      "score": 8.0,
-      "why": "The post provides hard financial numbers and tangible metrics on AI adoption from an Indian startup."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9994,18 +9980,18 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789753500465,
-    "news: consumer internet india": 1789783646914,
-    "news: global ai": 1789780331687,
+    "news: consumer internet india": 1789784763914,
+    "news: global ai": 1789781669952,
     "news: global chips": 1789781590832,
-    "news: global it services": 1789768758793,
+    "news: global it services": 1789784226714,
     "news: india ai deeptech": 1789781839501,
     "news: india edtech gaming": 1789728529151,
-    "news: india fintech": 1789783230570,
+    "news: india fintech": 1789783380436,
     "news: india semiconductors": 1789783581328,
     "news: india tech policy": 1789783581328,
     "news: india telecom": 1789778764641,
     "news: indian it majors": 1789778764641,
-    "news: indian it midcaps": 1789756557598,
+    "news: indian it midcaps": 1789779817153,
     "news: pib releases": 1789769668160,
     "news: tech leaders": 1789780080679,
     "nvidia": 1789650055203,
@@ -10039,7 +10025,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T02:17:02.035843+00:00",
+    "last_server_run": "2026-09-19T02:32:24.223145+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T01:17:00.499932+00:00",
