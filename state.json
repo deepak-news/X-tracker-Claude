@@ -7361,7 +7361,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-19T09",
-  "last_success": "2026-09-19T03:46:54.564442+00:00",
+  "last_success": "2026-09-19T04:02:22.765883+00:00",
   "national": {
     "alerted": [
       {
@@ -8143,7 +8143,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T03:53:51.074055+00:00",
+    "last_run": "2026-09-19T04:06:47.958416+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8965,7 +8965,7 @@
         "until": "2026-09-19T09:48:59.620237+00:00"
       },
       "Gazette of India (Extraordinary)": {
-        "count": 1
+        "count": 2
       },
       "State: Maharashtra": {
         "count": 10,
@@ -9977,14 +9977,14 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789787559274,
-    "news: consumer internet india": 1789784763914,
+    "news: consumer internet india": 1789789765255,
     "news: global ai": 1789781669952,
     "news: global chips": 1789785000641,
-    "news: global it services": 1789787748972,
+    "news: global it services": 1789790328829,
     "news: india ai deeptech": 1789788947008,
     "news: india edtech gaming": 1789728529151,
-    "news: india fintech": 1789788150549,
-    "news: india semiconductors": 1789786862718,
+    "news: india fintech": 1789788210549,
+    "news: india semiconductors": 1789789560752,
     "news: india tech policy": 1789784390328,
     "news: india telecom": 1789788051219,
     "news: indian it majors": 1789781491933,
@@ -10022,7 +10022,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T03:46:54.875390+00:00",
+    "last_server_run": "2026-09-19T04:02:23.006595+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T03:17:13.559577+00:00",
