@@ -7359,7 +7359,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-19T07",
-  "last_success": "2026-09-19T01:32:02.591023+00:00",
+  "last_success": "2026-09-19T01:47:01.400295+00:00",
   "national": {
     "alerted": [
       {
@@ -8141,7 +8141,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T01:32:36.010696+00:00",
+    "last_run": "2026-09-19T01:47:33.032429+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8989,7 +8989,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Pocket FM hits $500 million ARR following AI content push",
+      "post": {
+        "created_at": "2026-09-19T01:37:19+00:00",
+        "handle": "News: India AI deeptech",
+        "id": "1789781839501",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Buzzincontent",
+        "reposts": 0,
+        "text": "Pocket FM doubles ARR to $500 million as Sherpa AI lifts content production 1,200%",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2dRYm9fajFYekdWdjE5UXpYS0xFZUNLcFlOVWVnSFVsaUFPLUxVTzlaZlNYTUNvcXphakJEZno5YXd5YWxYOHVHYVRNOFJlZ180QlVJNE8wUWhKaHlRLTRVRXR2dGdIWjdjSTZvN19uRjJiY0ZCRXVBYTluWnN3bnpIQ0xlUjQxX2RSbWpPMzNCekVwbEVseW5NYWZaSWVvR1FOWldGTk1VYlZ5bFVmT1ZsTW1mU19hY1ZnT2NsTGTSAcABQVVfeXFMUFNnUWJvX2oxWHpHVnYxOVF6WEtMRWVDS3BZTlVlZ0hVbGlBTy1MVU85WmZTWE1Db3F6YWpCRGZ6OWF3eWFsWDh1R2FUTThSZWdfNEJVSTRPMFFoSmh5US00VUV0dnRnSFo3Y0k2bzdfbkYyYmNGQkV1QWE5blpzd256SENMZVI0MV9kUm1qTzMzQnpFcGxFbHluTWFmWkllb0dRTlpXRk5NVWJWeWxVZk9WbE1tZlNfYWNWZ09jbExk?oc=5"
+      },
+      "queued_at": "2026-09-19T01:47:01.399948+00:00",
+      "score": 8.0,
+      "why": "The post provides hard financial numbers and tangible metrics on AI adoption from an Indian startup."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -9974,12 +9993,12 @@
     "news: big tech platforms": 1789753500465,
     "news: consumer internet india": 1789778246914,
     "news: global ai": 1789780331687,
-    "news: global chips": 1789781341206,
+    "news: global chips": 1789781590832,
     "news: global it services": 1789768758793,
-    "news: india ai deeptech": 1789765749255,
+    "news: india ai deeptech": 1789781839501,
     "news: india edtech gaming": 1789728529151,
-    "news: india fintech": 1789779761666,
-    "news: india semiconductors": 1789781136208,
+    "news: india fintech": 1789781513667,
+    "news: india semiconductors": 1789781518352,
     "news: india tech policy": 1789760153164,
     "news: india telecom": 1789778171042,
     "news: indian it majors": 1789775109672,
@@ -9992,7 +10011,7 @@
     "oracle": 1789631219707,
     "phonepe": 1789631207660,
     "pib communications": 2311989,
-    "pib meity": 2312288,
+    "pib meity": 2312298,
     "pib science and technology": 2312149,
     "razorpay": 1789539311308,
     "redseer": 1789637516540,
@@ -10017,7 +10036,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T01:32:02.900578+00:00",
+    "last_server_run": "2026-09-19T01:47:01.720995+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T01:17:00.499932+00:00",
