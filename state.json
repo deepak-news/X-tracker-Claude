@@ -9818,10 +9818,26 @@
     "1789823473232",
     "1789823496701",
     "1789823520185",
-    "1789823649563"
+    "1789823649563",
+    "1789755753959",
+    "1789758240145",
+    "1789774829087",
+    "1789776335032",
+    "1789782553808",
+    "1789801604008",
+    "1789802693921",
+    "1789803540420",
+    "1789804425290",
+    "1789805189649",
+    "1789810041490",
+    "1789817468508",
+    "1789822500251",
+    "1789823250828",
+    "1789823829732",
+    "1789824590269"
   ],
-  "last_digest_hour": "2026-09-19T18",
-  "last_success": "2026-09-19T13:16:29.429736+00:00",
+  "last_digest_hour": "2026-09-19T19",
+  "last_success": "2026-09-19T13:32:15.140048+00:00",
   "national": {
     "alerted": [
       {
@@ -10691,7 +10707,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T13:18:58.594259+00:00",
+    "last_run": "2026-09-19T13:34:30.573220+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12559,11 +12575,11 @@
     "news: big tech platforms": 1789819200495,
     "news: consumer internet india": 1789820362750,
     "news: global ai": 1789823473232,
-    "news: global chips": 1789821221791,
+    "news: global chips": 1789822500251,
     "news: global it services": 1789816444808,
     "news: india ai deeptech": 1789822877676,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789823520185,
+    "news: india fintech": 1789824590269,
     "news: india semiconductors": 1789823649563,
     "news: india tech policy": 1789822380959,
     "news: india telecom": 1789823496701,
@@ -12602,7 +12618,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T13:16:29.746645+00:00",
+    "last_server_run": "2026-09-19T13:32:15.389730+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T11:49:07.730947+00:00",
