@@ -7357,7 +7357,7 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "last_digest_hour": "2026-09-19T06",
-  "last_success": "2026-09-19T00:46:55.010232+00:00",
+  "last_success": "2026-09-19T01:02:12.462453+00:00",
   "national": {
     "alerted": [
       {
@@ -8139,7 +8139,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T00:47:32.202463+00:00",
+    "last_run": "2026-09-19T01:03:04.611892+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -10009,7 +10009,7 @@
     "news: big tech platforms": 1789753500465,
     "news: consumer internet india": 1789778246914,
     "news: global ai": 1789776709673,
-    "news: global chips": 1789777700082,
+    "news: global chips": 1789779000822,
     "news: global it services": 1789768758793,
     "news: india ai deeptech": 1789765749255,
     "news: india edtech gaming": 1789728529151,
@@ -10052,7 +10052,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T00:46:55.321624+00:00",
+    "last_server_run": "2026-09-19T01:02:12.779652+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-18T23:16:56.240793+00:00",
