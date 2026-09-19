@@ -10105,10 +10105,23 @@
     "1789832110002",
     "1789832796178",
     "1789833103618",
-    "1789833522669"
+    "1789833522669",
+    "1789791357916",
+    "1789812132251",
+    "1789814704224",
+    "1789815787902",
+    "1789823400256",
+    "1789825496572",
+    "1789828140828",
+    "1789829683228",
+    "1789832296766",
+    "1789833000664",
+    "1789833660973",
+    "1789834126995",
+    "1789834517221"
   ],
   "last_digest_hour": "2026-09-19T21",
-  "last_success": "2026-09-19T16:03:57.580550+00:00",
+  "last_success": "2026-09-19T16:17:30.520113+00:00",
   "national": {
     "alerted": [
       {
@@ -11023,7 +11036,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T16:09:21.389765+00:00",
+    "last_run": "2026-09-19T16:19:47.734401+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12917,19 +12930,19 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789832156369,
-    "news: consumer internet india": 1789830720777,
+    "news: consumer internet india": 1789834126995,
     "news: global ai": 1789823473692,
-    "news: global chips": 1789828045907,
+    "news: global chips": 1789833000664,
     "news: global it services": 1789830560420,
     "news: india ai deeptech": 1789830360250,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789832796178,
     "news: india semiconductors": 1789833103618,
-    "news: india tech policy": 1789833522669,
+    "news: india tech policy": 1789834517221,
     "news: india telecom": 1789827833041,
-    "news: indian it majors": 1789832025766,
+    "news: indian it majors": 1789832296766,
     "news: indian it midcaps": 1789823220786,
-    "news: pib releases": 1789827120920,
+    "news: pib releases": 1789829683228,
     "news: tech leaders": 1789829340632,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -12962,7 +12975,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T16:03:57.905255+00:00",
+    "last_server_run": "2026-09-19T16:17:30.844420+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T16:05:51.390543+00:00",
