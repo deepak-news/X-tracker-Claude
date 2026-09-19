@@ -9671,10 +9671,29 @@
     "1789816444808",
     "1789816530144",
     "1789816558713",
-    "1789817112786"
+    "1789817112786",
+    "1789737120263",
+    "1789742317403",
+    "1789773714006",
+    "1789794384464",
+    "1789798950526",
+    "1789801857525",
+    "1789804260827",
+    "1789804869732",
+    "1789809757900",
+    "1789810041484",
+    "1789810896917",
+    "1789811700695",
+    "1789813795461",
+    "1789817160325",
+    "1789817262524",
+    "1789817510748",
+    "1789817728562",
+    "1789817820047",
+    "2312426"
   ],
   "last_digest_hour": "2026-09-19T17",
-  "last_success": "2026-09-19T11:32:13.827029+00:00",
+  "last_success": "2026-09-19T11:47:13.037376+00:00",
   "national": {
     "alerted": [
       {
@@ -10544,7 +10563,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T11:34:30.902832+00:00",
+    "last_run": "2026-09-19T11:49:38.507645+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -11382,7 +11401,8 @@
       "pib:2312390",
       "pib:2312393",
       "pib:2312391",
-      "pib:2312394"
+      "pib:2312394",
+      "pib:2312426"
     ],
     "source_failures": {
       "CBI": {
@@ -11420,7 +11440,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Union Cabinet approves two new semiconductor units worth Rs 3,900 crore",
+      "post": {
+        "created_at": "2026-09-19T09:55:00+00:00",
+        "handle": "News: PIB releases",
+        "id": "1789811700695",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "PIB",
+        "reposts": 0,
+        "text": "Cabinet approves two more semiconductor manufacturing units with cumulative investment of more than Rs. 3,900 crore",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeUtodkozUTVORHFIYnhIbFpyQnNBV3Judy1uNjYyUEw0dFpNWU0ya21oVVduN00zMXl4bk1lbTE3X1QzS3FTZktfV25lNHhfX0tlRi0xQi1aY3BlaFpFLVJ6NlNpMWNhOFRBbWczamoySW9Lam9DcFNBZkh4aE0yVA?oc=5"
+      },
+      "queued_at": "2026-09-19T11:47:13.036261+00:00",
+      "score": 10.0,
+      "why": "Major government policy and capex approval for Indian semiconductor manufacturing."
+    },
+    {
+      "headline": "KPMG reports India semiconductor demand to hit $90 billion by 2030",
+      "post": {
+        "created_at": "2026-09-19T07:51:00+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789804260827",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "digital terminal",
+        "reposts": 0,
+        "text": "India\u2019s Semiconductor Demand Set to Double to $90 Billion by 2029-30: KPMG Report",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkpxTGJUdnNmMG9jaF9zT28wNmMxMjNzX0ZwalFxTkp6Z2FhUTJEa29rWGtCd3lCSklaSFBpM0UyU2d2YXM4SWVMZlQ1OUlYN1BqQkY3Z2dlVGx6R25OVjY4THp4d2RzZHBCLWlNWTV5NFk0SjBXb1N3YURxVTNTWUhzdjdNVnNBVHFJWm1xeU9fYVZSX3cya1pwY0JOUndiel9Ob2hLZFhkUEJlc1NCZmFHS1TSAcIBQVVfeXFMUDBxS2UtVnJCQ3dCUGVDeDgyN0lDZlZ4WU5jWTlSRE85MXY4TFIzVUpuOWFzYTB4OTV4Qm5xYnVZV2pfanphVnZOSVVHSDFyR1RkNGJDd0JxOUZ3YUkxb2Z4dld1N0hRbXFfeE9JMnRQWHpCanNvOTJxcExRTlFBRjdSNWEzMUNRdXZWMDlyOWVQQ3paZ3duTkVqclY0MTl0MmZISHYwOXh6TTliUFV6WHBXT25jWUVXXzAzdDQ5S3M3dVE?oc=5"
+      },
+      "queued_at": "2026-09-19T11:47:13.036261+00:00",
+      "score": 7.0,
+      "why": "Research report from a named firm with hard numbers on the Indian semiconductor market."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -12409,11 +12466,11 @@
     "news: global it services": 1789816444808,
     "news: india ai deeptech": 1789816558713,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789817112786,
-    "news: india semiconductors": 1789816065717,
+    "news: india fintech": 1789817820047,
+    "news: india semiconductors": 1789817728562,
     "news: india tech policy": 1789814162281,
     "news: india telecom": 1789814583450,
-    "news: indian it majors": 1789811245635,
+    "news: indian it majors": 1789817510748,
     "news: indian it midcaps": 1789804560434,
     "news: pib releases": 1789816022744,
     "news: tech leaders": 1789815780674,
@@ -12422,7 +12479,7 @@
     "openai": 1789732800252,
     "oracle": 1789631219707,
     "phonepe": 1789631207660,
-    "pib communications": 2311989,
+    "pib communications": 2312426,
     "pib meity": 2312298,
     "pib science and technology": 2312149,
     "razorpay": 1789539311308,
@@ -12448,17 +12505,17 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T11:32:14.137540+00:00",
+    "last_server_run": "2026-09-19T11:47:13.353622+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-19T09:34:34.736845+00:00",
+        "checked": "2026-09-19T11:49:07.730947+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-19T09:34:26.955771+00:00",
+        "checked": "2026-09-19T11:48:58.805207+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -12534,7 +12591,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-19T09:34:30.992491+00:00",
+        "checked": "2026-09-19T11:49:03.304510+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
