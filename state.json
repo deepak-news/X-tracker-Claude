@@ -10333,10 +10333,29 @@
     "1789839960201",
     "1789841459179",
     "1789842000659",
-    "1789842960729"
+    "1789842960729",
+    "1789758305093",
+    "1789767634710",
+    "1789786860712",
+    "1789789215614",
+    "1789791230526",
+    "1789795440431",
+    "1789795805642",
+    "1789798918194",
+    "1789806068585",
+    "1789812601224",
+    "1789813569541",
+    "1789832689027",
+    "1789833168259",
+    "1789841400536",
+    "1789841820986",
+    "1789843426993",
+    "1789843624165",
+    "1789843980951",
+    "1789844225902"
   ],
   "last_digest_hour": "2026-09-20T00",
-  "last_success": "2026-09-19T18:46:58.339402+00:00",
+  "last_success": "2026-09-19T19:03:30.529639+00:00",
   "national": {
     "alerted": [
       {
@@ -11070,6 +11089,25 @@
           "unemployment",
           "union"
         ]
+      },
+      {
+        "at": "2026-09-19T19:05:51.108505+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.1 earthquake -- 67 km NE of Ruteng, Indonesia.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiju",
+        "words": [
+          "2026",
+          "deep",
+          "earthquake",
+          "indonesia",
+          "ist",
+          "magnitude",
+          "reported",
+          "ruteng",
+          "sep",
+          "usgs"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -11251,7 +11289,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T18:50:35.136402+00:00",
+    "last_run": "2026-09-19T19:05:51.109018+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12109,7 +12147,8 @@
       "pib:2312605",
       "pib:2312606",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-games",
-      "pib:2312604"
+      "pib:2312604",
+      "quake:usgs:us7000tiju"
     ],
     "source_failures": {
       "CBI": {
@@ -12119,9 +12158,6 @@
       "Gazette of India (Extraordinary)": {
         "count": 5,
         "until": "2026-09-19T22:36:55.483043+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 12,
@@ -13134,16 +13170,16 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789839427413,
     "news: consumer internet india": 1789841214380,
-    "news: global ai": 1789841142812,
+    "news: global ai": 1789841400536,
     "news: global chips": 1789842195900,
     "news: global it services": 1789830560420,
-    "news: india ai deeptech": 1789839960201,
+    "news: india ai deeptech": 1789841820986,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789842960729,
+    "news: india fintech": 1789844225902,
     "news: india semiconductors": 1789840880205,
-    "news: india tech policy": 1789841459179,
+    "news: india tech policy": 1789843980951,
     "news: india telecom": 1789842000659,
-    "news: indian it majors": 1789834727484,
+    "news: indian it majors": 1789843624165,
     "news: indian it midcaps": 1789841952386,
     "news: pib releases": 1789836600427,
     "news: tech leaders": 1789836168102,
@@ -13178,7 +13214,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T18:46:58.678833+00:00",
+    "last_server_run": "2026-09-19T19:03:30.839910+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T18:19:41.631936+00:00",
