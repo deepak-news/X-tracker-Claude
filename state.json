@@ -10274,10 +10274,29 @@
     "1789837680264",
     "1789839997150",
     "1789840165488",
-    "1789840320317"
+    "1789840320317",
+    "1789782968064",
+    "1789797846929",
+    "1789800239084",
+    "1789808586484",
+    "1789809600730",
+    "1789811206644",
+    "1789813308459",
+    "1789815571795",
+    "1789827120477",
+    "1789828412780",
+    "1789830300839",
+    "1789831740558",
+    "1789831741882",
+    "1789831985755",
+    "1789832276402",
+    "1789833522138",
+    "1789840880205",
+    "1789840972494",
+    "1789841214380"
   ],
   "last_digest_hour": "2026-09-19T23",
-  "last_success": "2026-09-19T18:02:36.231656+00:00",
+  "last_success": "2026-09-19T18:17:22.610441+00:00",
   "national": {
     "alerted": [
       {
@@ -11192,7 +11211,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T18:04:55.963260+00:00",
+    "last_run": "2026-09-19T18:20:12.603840+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13090,15 +13109,15 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789839173300,
-    "news: consumer internet india": 1789834126995,
+    "news: consumer internet india": 1789841214380,
     "news: global ai": 1789838917693,
     "news: global chips": 1789838688757,
     "news: global it services": 1789830560420,
     "news: india ai deeptech": 1789836920562,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789840320317,
-    "news: india semiconductors": 1789839997150,
-    "news: india tech policy": 1789840165488,
+    "news: india semiconductors": 1789840880205,
+    "news: india tech policy": 1789840972494,
     "news: india telecom": 1789834414937,
     "news: indian it majors": 1789834727484,
     "news: indian it midcaps": 1789839026332,
@@ -13135,17 +13154,17 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T18:02:36.542153+00:00",
+    "last_server_run": "2026-09-19T18:17:22.929341+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-19T16:05:51.390543+00:00",
+        "checked": "2026-09-19T18:19:41.631936+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-19T16:05:43.964293+00:00",
+        "checked": "2026-09-19T18:19:33.907821+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -13221,7 +13240,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-19T16:05:47.688685+00:00",
+        "checked": "2026-09-19T18:19:37.885073+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
