@@ -10490,10 +10490,19 @@
     "1789849519030",
     "1789852275910",
     "1789854330260",
-    "1789854366203"
+    "1789854366203",
+    "1789810268784",
+    "1789816268224",
+    "1789834699921",
+    "1789848600681",
+    "1789849456619",
+    "1789850431164",
+    "1789852742611",
+    "1789855261250",
+    "1789855314200"
   ],
   "last_digest_hour": "2026-09-20T03",
-  "last_success": "2026-09-19T22:02:37.751414+00:00",
+  "last_success": "2026-09-19T22:17:06.655665+00:00",
   "national": {
     "alerted": [
       {
@@ -11446,7 +11455,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T22:04:53.640052+00:00",
+    "last_run": "2026-09-19T22:22:15.417597+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12310,20 +12319,20 @@
     ],
     "source_failures": {
       "CBI": {
-        "count": 12,
-        "until": "2026-09-19T22:05:51.703624+00:00"
+        "count": 13,
+        "until": "2026-09-20T04:18:49.247410+00:00"
       },
       "Gazette of India (Extraordinary)": {
         "count": 5,
         "until": "2026-09-19T22:36:55.483043+00:00"
       },
       "State: Maharashtra": {
-        "count": 12,
-        "until": "2026-09-19T22:05:51.703624+00:00"
+        "count": 13,
+        "until": "2026-09-20T04:18:49.247410+00:00"
       },
       "State: Tamil Nadu": {
-        "count": 12,
-        "until": "2026-09-19T22:05:51.703624+00:00"
+        "count": 13,
+        "until": "2026-09-20T04:18:49.247410+00:00"
       }
     },
     "sources": [
@@ -13329,14 +13338,14 @@
     "news: big tech platforms": 1789845962236,
     "news: consumer internet india": 1789854366203,
     "news: global ai": 1789853330549,
-    "news: global chips": 1789842195900,
-    "news: global it services": 1789844243352,
+    "news: global chips": 1789855261250,
+    "news: global it services": 1789855314200,
     "news: india ai deeptech": 1789847737943,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789848600638,
+    "news: india fintech": 1789848600681,
     "news: india semiconductors": 1789854330260,
     "news: india tech policy": 1789849519030,
-    "news: india telecom": 1789850402081,
+    "news: india telecom": 1789850431164,
     "news: indian it majors": 1789847267660,
     "news: indian it midcaps": 1789848434366,
     "news: pib releases": 1789852275910,
@@ -13372,7 +13381,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T22:02:38.070096+00:00",
+    "last_server_run": "2026-09-19T22:17:06.949519+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T20:41:20.766468+00:00",
