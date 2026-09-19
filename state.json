@@ -1,22 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-14T04:31:44.716532+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Swiggy set to sell Lynk to Udaan with Trilegal advising",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb2RQS2Q2Ujg0THM1bFJXYVZxdjN6Y1A0b3hXU1EyYXN6b21JMl9oOFRUdW5VcGJ6UWJnWmwtMW5vaDdFYkZYU1lPMGlhd19DREdtaElvc3d5MUttLXU3WkxRQ0QzUDBsVHJOR2E2X0VpQ1QxTjRsWHlyYURXWXFNRS0taE5ZbG9OYnMyRWJqZUxUc0FnZ0NRQlh4TDFoeU3SAawBQVVfeXFMT0d1VUdCd1hEVVY3S0dtR3VtbVRmSW1mcld1ZUR4VWRWZW84YWw2eUZ5Si1ZNE5RSnIwM3d5YmJfaHNPbHpYUGtid0duUVlnRzNrNnQzNUszaE5jdGdHcy0xaGd6QVBRYlhyMjhBN2tnX1lsa0duRGhRWmczb0RWalFDcml2ODBMZE43dUdRZXF0VHRRTjdrenNueFVhOWRIMWdRejl3ODh0Y01ETA?oc=5",
-      "words": [
-        "advises",
-        "lynk",
-        "sell",
-        "set",
-        "swiggy",
-        "trilegal",
-        "udaan"
-      ]
-    },
-    {
       "at": "2026-09-14T04:46:39.924289+00:00",
       "handle": "News: India edtech gaming",
       "headline": "Info Edge appoints new directors and changes management roles",
@@ -7356,12 +7340,30 @@
         "upi",
         "wallets"
       ]
+    },
+    {
+      "at": "2026-09-19T04:32:09.443635+00:00",
+      "handle": "News: India telecom",
+      "headline": "TRAI brings caller ID apps under telecom spam enforcement",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ3VhcmFoYTlBdm95N2Y0U0U5dWFrYnNscDhTMkFsRlUtQTZ3QTI2S3BKUkdLV3o5V2ZRZ1lqUE1wclpMMlZDbllpV2YtNkU3R0g0MmF0NzVtNWFzZW8tdWlLU0VkVnhkZkFNelI5SjF5V2g1VWtTT0JQcXd4bWdtejlpY0xIX3NaeWxxTVRCX0d5OG44ODNvdDZ2UXlJSWR1N3c?oc=5",
+      "words": [
+        "apps",
+        "brings",
+        "caller",
+        "enforcement",
+        "network",
+        "spam",
+        "telecom",
+        "trai",
+        "under"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
-  "last_digest_hour": "2026-09-19T09",
-  "last_success": "2026-09-19T04:16:54.840623+00:00",
+  "last_digest_hour": "2026-09-19T10",
+  "last_success": "2026-09-19T04:32:09.444076+00:00",
   "national": {
     "alerted": [
       {
@@ -7962,6 +7964,27 @@
           "sep",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-19T04:34:36.806963+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.2 earthquake -- 210 km WNW of Abepura, Indonesia.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
+        "words": [
+          "2026",
+          "210",
+          "abepura",
+          "deep",
+          "earthquake",
+          "indonesia",
+          "ist",
+          "magnitude",
+          "reported",
+          "sep",
+          "usgs",
+          "wnw"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -8143,7 +8166,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-19T04:21:14.796547+00:00",
+    "last_run": "2026-09-19T04:34:36.807506+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -8957,7 +8980,9 @@
       "gazette:CG-DL-E-18092026-276326",
       "gazette:CG-DL-E-18092026-276324",
       "gazette:SG-DL-E-18092026-276327",
-      "quake:usgs:us7000tigd"
+      "quake:usgs:us7000tigd",
+      "quake:usgs:us7000tih8",
+      "pib:2312317"
     ],
     "source_failures": {
       "CBI": {
@@ -9984,14 +10009,14 @@
     "news: global it services": 1789790328829,
     "news: india ai deeptech": 1789788947008,
     "news: india edtech gaming": 1789728529151,
-    "news: india fintech": 1789790585183,
-    "news: india semiconductors": 1789789560752,
+    "news: india fintech": 1789791048343,
+    "news: india semiconductors": 1789792082105,
     "news: india tech policy": 1789784390328,
-    "news: india telecom": 1789788051219,
+    "news: india telecom": 1789791480116,
     "news: indian it majors": 1789781491933,
     "news: indian it midcaps": 1789786800688,
     "news: pib releases": 1789769668160,
-    "news: tech leaders": 1789790602205,
+    "news: tech leaders": 1789791860098,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789646400569,
@@ -10023,7 +10048,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-19T04:16:55.157014+00:00",
+    "last_server_run": "2026-09-19T04:32:09.768123+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-19T03:17:13.559577+00:00",
