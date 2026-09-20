@@ -10568,10 +10568,18 @@
     "1789834495581",
     "1789836600300",
     "1789860465169",
-    "1789862903796"
+    "1789862903796",
+    "1789796152863",
+    "1789797372291",
+    "1789801876923",
+    "1789810620169",
+    "1789856231997",
+    "1789857980600",
+    "1789860104862",
+    "1789862903975"
   ],
   "last_digest_hour": "2026-09-20T06",
-  "last_success": "2026-09-20T01:02:27.339195+00:00",
+  "last_success": "2026-09-20T01:16:50.146033+00:00",
   "national": {
     "alerted": [
       {
@@ -11343,6 +11351,25 @@
           "sep",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-20T01:19:49.011219+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.3 earthquake -- Reykjanes Ridge.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
+        "words": [
+          "2026",
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "reported",
+          "reykjanes",
+          "ridge",
+          "sep",
+          "usgs"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -11524,7 +11551,7 @@
       "CG-DL-E-18092026-276326",
       "SG-DL-E-18092026-276327"
     ],
-    "last_run": "2026-09-20T01:06:28.108159+00:00",
+    "last_run": "2026-09-20T01:19:49.011716+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12384,7 +12411,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-games",
       "pib:2312604",
       "quake:usgs:us7000tiju",
-      "quake:usgs:us7000tild"
+      "quake:usgs:us7000tild",
+      "quake:usgs:us7000timy"
     ],
     "source_failures": {
       "CBI": {
@@ -13405,7 +13433,7 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789856526482,
-    "news: consumer internet india": 1789862903796,
+    "news: consumer internet india": 1789862903975,
     "news: global ai": 1789860892519,
     "news: global chips": 1789858216016,
     "news: global it services": 1789855314200,
@@ -13417,7 +13445,7 @@
     "news: india telecom": 1789850431164,
     "news: indian it majors": 1789854072510,
     "news: indian it midcaps": 1789857181386,
-    "news: pib releases": 1789855588925,
+    "news: pib releases": 1789860104862,
     "news: tech leaders": 1789848181073,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -13450,7 +13478,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T01:02:27.651749+00:00",
+    "last_server_run": "2026-09-20T01:16:50.458623+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T00:48:54.445603+00:00",
