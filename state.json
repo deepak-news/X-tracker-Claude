@@ -1,65 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T16:31:44.459111+00:00",
-      "handle": "News: India fintech",
-      "headline": "Detailed breakdown of new UPI fee structure",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDB2eW8zcVJqdHRIWVdjcHcxaUNwS3ltSmd6cjdGcnFPbkYzOS1qSnp5ZWxDZjhWNUc3OHU3cUt0bUxqdm44RFBZZlk4RWUza0RXOHVSY1hVclRBMnFlZlhoWEtSZVR3TlJTTko4ZG93M2pFUVZNajljckZOam5vekU3eEZncU9iWUxUMWxwSXBsTWtBbFB4d0hlbzdaX21tOWZ6Y2d0U2l5S0wxS0dxT05uc3IwNUNpZ2RDc3lPNA?oc=5",
-      "words": [
-        "exactly",
-        "fee",
-        "free",
-        "here",
-        "much",
-        "now",
-        "pay",
-        "still",
-        "upi",
-        "you"
-      ]
-    },
-    {
-      "at": "2026-09-15T17:46:26.541740+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "NCPCR summons Meta India MD over CSAM ads",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZW56WXlLbTFoZk1MLXNDa1I1bVVXeEEybi15TzlqZnlfZjFqSlRxVjNEUGVjcWx4aFhVbWhjNHoxN1JxS2V2YURxNDlmcnRoR20zRUIyU1AtUjBidWNSTmxNTU1lUFVVdWpCLW1ZWDBWUklUd2V0WWkyUHZTWlk4eTNSOVFUcXdBMWpYM2xUZEpIX3lUbHFPT1hyclVmSUNfamtXOTVJSF9FRWhPWFNzRmN1M2d4MDV2LVhJV0xzRkkxZHRSWW9YZVRBUDVkOHN5bmtPWGFlNTlHTFVsYURxbkF30gHnAUFVX3lxTFAtTHk1S1pvcUZ0dk0tVXFkbms0NE1ZZWF3aWNvak92WHBfSTFvbGtWLUhaUFJuNFhFZmJXQmVac1VFS1ZWUGVaR0w4eW9LRzE1UTcxN2xjcjAtZlVRekxTekJGTUpQVTVQb2dVVzBnQUlfLVVidm93cG5lYzAxSkpYSUpVT2lnS05WbW42WHUweUR4Tkl1NGllZklmazRLSjZtMXZ6RHNjYjdPa25nS2xjOVh0LWZYTGxiRFRxQkp2STAyQ21aenNxYzdVVUlybmVlRm5EMFBSN3V1djNnRTA0ekF4MVg5VQ?oc=5",
-      "words": [
-        "abuse",
-        "ads",
-        "child",
-        "head",
-        "hearing",
-        "material",
-        "meta",
-        "ncpcr",
-        "sexual",
-        "summons",
-        "tomorrow"
-      ]
-    },
-    {
-      "at": "2026-09-15T17:46:26.541740+00:00",
-      "handle": "News: India fintech",
-      "headline": "RBI backs MDR on large-value UPI transactions",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONWdtMGo2X19vMmVZeEt2MnA3Y3l6TTJwOG4talEyVkZhdGs4SkZEa1UxMmxRR25xMU9qNnEtN2JxQms5NDd5bmNZUm9yYzJpN1BWazBReFh6d0dyRHRrUEh2UFJEeE1xME14VElqT0JfdVY2MGtvSnNQODZYVVlJcmpPLWVYSjFieFV0dU5YaTg2VHBOWU5mb1RWWEw3TWFKa2FpYkpoNG5PYlFIUGdRMm5FLTl2VUo4SlhreTMxMWZBOC1MbVA4azdHNE5fRmFKakNzRHY5bERHOVVLUWktN2xXRmdVRjBGcGFiSTVvYmMxTl9ScFlOdThkSmJIQlE?oc=5",
-      "words": [
-        "acceptance",
-        "backs",
-        "could",
-        "expand",
-        "help",
-        "large",
-        "mdr",
-        "rbi",
-        "transactions",
-        "upi",
-        "value"
-      ]
-    },
-    {
       "at": "2026-09-15T18:16:24.747864+00:00",
       "handle": "News: Indian IT midcaps",
       "headline": "Fintech startup Fibe secures Sebi approval for Rs 750 crore IPO",
@@ -7330,6 +7271,58 @@
         "upi",
         "widens"
       ]
+    },
+    {
+      "at": "2026-09-20T20:32:14.727840+00:00",
+      "handle": "News: India fintech",
+      "headline": "Petrol stations to shun UPI transfers over Rs 2K from Oct 16",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXN6TEMyb2FhbHFacV9mZFQ5WEd0VVd4bTN6Qzc3a2VYeDJ6MTcyTVhFQW9IaVplZlY5R1ZCTS1RRUJkT3BGZkRsN1JuaC0xMTA2M0pWOWp1OUNuNm42VGhuUDVHc0VydVUzNlN2WG91cFpOOGp3cmNPRnB4S2hub0ZENi1YenIxbk9QTjhFVkRRdThVMzltWGctajNyZm1RcDIteGloaEVPbGpydXlYY3Rza0VIcUYxQ1ctZNIBwAFBVV95cUxNUjljVEVNbnNFTXhJMDluSEdNRVRtMVpfXzloX2J1aGdYM3V3TU5EcFU2TXNDRmprM0lUYldMblFCTkl3V1ZIZ1V6NUswdzItanN0VjdmWW9XU1NpSno1alFlNWZBSmRPMXphc3dDdVZwZ1Zja2Z0ZXZMaDJZXy1CSVBuT05Ed21LcmJLbkJnam1SX2ZCSzhSMmhFcDlaMGMxQVNlb0hfNi1fZ0pKbkNtRHJUVzAxSHlYN05GMGMwUnY?oc=5",
+      "words": [
+        "concerns",
+        "levy",
+        "oct",
+        "petrol",
+        "shun",
+        "stations",
+        "transfer",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-20T20:32:14.727840+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Mphasis stock slips amid investor watch on earnings",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWtoMXRJd3hWUWl5aDAzVWluMkN6V3I0WnlPRkZzZTVBMFRPV2RtY29tVEFBdEV4R21iRHhXQV85SFhjZGdva2tPV3FqUU5FNzhiR3VKV0lONVBYTlFubHl6QTFpZ1BVQ05UbzZSM0dpSU9oeTlSb3AxTndENVZiYnpGaGhSWmc5aUVMeTlpN2dlZnJ0Y2M0Q0VhYnU0VzFxb0RQQzZDWndhNVhsRnUxa29hTHIzOGttLW1z?oc=5",
+      "words": [
+        "earnings",
+        "guidance",
+        "investors",
+        "mphasis",
+        "slips",
+        "watch"
+      ]
+    },
+    {
+      "at": "2026-09-20T20:32:14.727840+00:00",
+      "handle": "News: Global AI",
+      "headline": "Microsoft AI chief Mustafa Suleyman rejects AI model rights during code review",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRi1fVktGOFBLNUlnR2R5SURlQzg4OWJYdHl4VUp6LWxhSkFWY0lfWXM4VG5ackRnaFRxbERhdUFiZ0dhaktrcnNhTVNvYkp3akZITWdhX3RhWlVIdTlpam12aVRqZVNDT2hDTGJpWHFBaXlRbW5NeFBlXzdFSXR6dDVPRlMtYmliZFk1b2d4Tm5lemNEa3pTSlJ4aC1vaDJWMlkw?oc=5",
+      "words": [
+        "code",
+        "microsoft",
+        "model",
+        "mustafa",
+        "opens",
+        "rejects",
+        "review",
+        "rights",
+        "six",
+        "suleyman",
+        "week"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -11646,10 +11639,24 @@
     "1789921680014",
     "1789934625357",
     "1789934687283",
-    "1789934743021"
+    "1789934743021",
+    "1789903380119",
+    "1789903380223",
+    "1789903380665",
+    "1789903380771",
+    "1789908479703",
+    "1789917111619",
+    "1789925518229",
+    "1789925850813",
+    "1789927218460",
+    "1789928830076",
+    "1789930918777",
+    "1789931046825",
+    "1789931520376",
+    "1789934403087"
   ],
-  "last_digest_hour": "2026-09-21T01",
-  "last_success": "2026-09-20T20:16:53.993942+00:00",
+  "last_digest_hour": "2026-09-21T02",
+  "last_success": "2026-09-20T20:32:14.729221+00:00",
   "national": {
     "alerted": [
       {
@@ -12753,7 +12760,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T20:18:52.955670+00:00",
+    "last_run": "2026-09-20T20:32:47.492568+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13662,9 +13669,6 @@
         "count": 16,
         "until": "2026-09-20T22:47:26.567906+00:00"
       },
-      "IRDAI": {
-        "count": 1
-      },
       "State: Maharashtra": {
         "count": 16,
         "until": "2026-09-20T22:47:26.567906+00:00"
@@ -13692,44 +13696,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Petrol stations to shun UPI transfers over Rs 2K from Oct 16",
-      "post": {
-        "created_at": "2026-09-20T19:31:40+00:00",
-        "handle": "News: India fintech",
-        "id": "1789932700636",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Tribune",
-        "reposts": 0,
-        "text": "Amid levy concerns, petrol stations to shun UPI transfer over Rs 2K from Oct 16",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXN6TEMyb2FhbHFacV9mZFQ5WEd0VVd4bTN6Qzc3a2VYeDJ6MTcyTVhFQW9IaVplZlY5R1ZCTS1RRUJkT3BGZkRsN1JuaC0xMTA2M0pWOWp1OUNuNm42VGhuUDVHc0VydVUzNlN2WG91cFpOOGp3cmNPRnB4S2hub0ZENi1YenIxbk9QTjhFVkRRdThVMzltWGctajNyZm1RcDIteGloaEVPbGpydXlYY3Rza0VIcUYxQ1ctZNIBwAFBVV95cUxNUjljVEVNbnNFTXhJMDluSEdNRVRtMVpfXzloX2J1aGdYM3V3TU5EcFU2TXNDRmprM0lUYldMblFCTkl3V1ZIZ1V6NUswdzItanN0VjdmWW9XU1NpSno1alFlNWZBSmRPMXphc3dDdVZwZ1Zja2Z0ZXZMaDJZXy1CSVBuT05Ed21LcmJLbkJnam1SX2ZCSzhSMmhFcDlaMGMxQVNlb0hfNi1fZ0pKbkNtRHJUVzAxSHlYN05GMGMwUnY?oc=5"
-      },
-      "queued_at": "2026-09-20T19:46:53.773459+00:00",
-      "score": 8.0,
-      "why": "Direct development on the ongoing petrol pump UPI fee protests already tracked."
-    },
-    {
-      "headline": "Mphasis stock slips amid investor watch on earnings",
-      "post": {
-        "created_at": "2026-09-20T19:34:37+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1789932877315",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "AD HOC NEWS",
-        "reposts": 0,
-        "text": "Mphasis stock slips as investors watch earnings and guidance",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWtoMXRJd3hWUWl5aDAzVWluMkN6V3I0WnlPRkZzZTVBMFRPV2RtY29tVEFBdEV4R21iRHhXQV85SFhjZGdva2tPV3FqUU5FNzhiR3VKV0lONVBYTlFubHl6QTFpZ1BVQ05UbzZSM0dpSU9oeTlSb3AxTndENVZiYnpGaGhSWmc5aUVMeTlpN2dlZnJ0Y2M0Q0VhYnU0VzFxb0RQQzZDWndhNVhsRnUxa29hTHIzOGttLW1z?oc=5"
-      },
-      "queued_at": "2026-09-20T19:46:53.773459+00:00",
-      "score": 7.0,
-      "why": "Market reaction to IT earnings and guidance is a filable wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -14711,7 +14678,7 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789928878399,
+    "news: big tech platforms": 1789934403087,
     "news: consumer internet india": 1789934687283,
     "news: global ai": 1789934100589,
     "news: global chips": 1789930619859,
@@ -14724,7 +14691,7 @@
     "news: india telecom": 1789934625357,
     "news: indian it majors": 1789932877315,
     "news: indian it midcaps": 1789932497325,
-    "news: pib releases": 1789926164580,
+    "news: pib releases": 1789927218460,
     "news: tech leaders": 1789934100589,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -14757,7 +14724,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T20:16:54.320664+00:00",
+    "last_server_run": "2026-09-20T20:32:15.044945+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T18:32:26.745758+00:00",
