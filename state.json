@@ -11062,10 +11062,25 @@
     "1789882500088",
     "1789883231847",
     "1789895741672",
-    "1789896767222"
+    "1789896767222",
+    "1789842113224",
+    "1789844475927",
+    "1789852613553",
+    "1789891200819",
+    "1789893394804",
+    "1789894412693",
+    "1789894734435",
+    "1789895163670",
+    "1789895613056",
+    "1789896600209",
+    "1789896616680",
+    "1789896767431",
+    "1789896975953",
+    "1789897636660",
+    "1789898233574"
   ],
   "last_digest_hour": "2026-09-20T15",
-  "last_success": "2026-09-20T09:46:50.573608+00:00",
+  "last_success": "2026-09-20T10:02:32.147074+00:00",
   "national": {
     "alerted": [
       {
@@ -12147,7 +12162,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T09:47:25.848058+00:00",
+    "last_run": "2026-09-20T10:03:09.777537+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13065,7 +13080,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Meta challenges UK online safety rules and Ofcom decisions in court",
+      "post": {
+        "created_at": "2026-09-20T09:30:00+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1789896600209",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "Meta launches fresh legal challenge against UK online safety rules; challenges Ofcom's decision to place",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNQzBsb25IV3luT0xDUzY5eGh0THhob1ZmLXlXM3lQRnc4LUtTNTA5V3M1LTNOM3c1VWNLRWV5T3o1emFFdTFpajRpM2dYRk9kU2ZVdkIwTkxuOEJNWEZZNjJPY2tlbzRHUWRibWZQLTR5TUxkWktNYzF5aUN3b3JkNW1VeG1UMHNLRkFhbWx5aEluLTJqRWZuOGhqRGNsR21lLVhVb1U5dTVOdFFHM242dm5jNTMtbFdfYXY3a1FfdHBwbFZUZVBPd2w3QVdZZlJrWVNMaDV5SlIzX0x1b2x2R2lsZG9WdlVtaVFVLTRFQnQxNG5GdlhEczRHUXpCWHdPZl9zeEk3VVBRVnBXSWR3dWU3ZkE4NkFfX2RNSG5PbE40RnItVDlSNWtrcmpLeHYtU2hBOVo1RjFWdzlYdDlfM3ZaMm9QX3dmN2ZUS0lBRzN5Y0hHSEZ6V05FNHTSAeICQVVfeXFMTjFkVW5qb0dWNXJLWnRkQ3BrXzltcUtjS2FSYjhQSXlzaDk3NWo5cEkyZnoyczJSSDJhRnNVbllZaVVNTllrZ2lzMGkzdXVlR0Jpc0FjeVFPVVhsZ3J0emNGNS1BZGtUUHgyYTlIU3JsWVdLZGJHLTR1eFVpdDk4a1RPeURaZEpLTWhTM0UwWGd6OThrOHFmckprdHZwMkJ2d2FzR0RmcS10NDJXM05Ga1RIZG92SmxWcWZNcFVQdTZiNkJRYUpoX3czQjJ3cFpwcng0cUlZNk5CWTlrWGRDbm1oUFVSMXhxV1RGTDZYQnJEdWJ1U1hVVlFaUFpUeVE4YmVQSnhTSDFULWROVGVRZkdFamdGcHllTDdwQkRYQnNTempraWRwSVpneDl1V3hRSVc2cUk3YWlGMlllLXo0RUlkN1Z0a1BYWE9YQVZDY2JicFFLVTA0RFJaOWc2S21VQmt3?oc=5"
+      },
+      "queued_at": "2026-09-20T10:02:32.146026+00:00",
+      "score": 7.0,
+      "why": "Major regulatory legal challenge by a global tech giant qualifies as a wire story."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -14047,17 +14081,17 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789896767222,
+    "news: big tech platforms": 1789896767431,
     "news: consumer internet india": 1789892801423,
-    "news: global ai": 1789896252953,
+    "news: global ai": 1789896975953,
     "news: global chips": 1789892584689,
     "news: global it services": 1789895755395,
     "news: india ai deeptech": 1789894982549,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789896026023,
     "news: india semiconductors": 1789895480817,
-    "news: india tech policy": 1789889984937,
-    "news: india telecom": 1789892413480,
+    "news: india tech policy": 1789898233574,
+    "news: india telecom": 1789897636660,
     "news: indian it majors": 1789894659625,
     "news: indian it midcaps": 1789857181386,
     "news: pib releases": 1789889786925,
@@ -14093,7 +14127,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T09:46:50.894086+00:00",
+    "last_server_run": "2026-09-20T10:02:32.437223+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T09:32:32.697403+00:00",
