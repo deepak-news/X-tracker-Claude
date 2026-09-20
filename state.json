@@ -11077,10 +11077,17 @@
     "1789896767431",
     "1789896975953",
     "1789897636660",
-    "1789898233574"
+    "1789898233574",
+    "1789855266200",
+    "1789875300947",
+    "1789888535155",
+    "1789889040759",
+    "1789896126608",
+    "1789898141472",
+    "1789898896059"
   ],
   "last_digest_hour": "2026-09-20T15",
-  "last_success": "2026-09-20T10:02:32.147074+00:00",
+  "last_success": "2026-09-20T10:16:58.965065+00:00",
   "national": {
     "alerted": [
       {
@@ -12162,7 +12169,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T10:03:09.777537+00:00",
+    "last_run": "2026-09-20T10:17:32.252678+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13046,7 +13053,9 @@
       "pib:2312661",
       "pib:2312662",
       "quake:usgs:us7000tiq2",
-      "quake:usgs:us7000tiqc"
+      "quake:usgs:us7000tiqc",
+      "pib:2312667",
+      "pib:2312680"
     ],
     "source_failures": {
       "CBI": {
@@ -14082,17 +14091,17 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789896767431,
-    "news: consumer internet india": 1789892801423,
+    "news: consumer internet india": 1789898896059,
     "news: global ai": 1789896975953,
     "news: global chips": 1789892584689,
     "news: global it services": 1789895755395,
     "news: india ai deeptech": 1789894982549,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789896026023,
+    "news: india fintech": 1789898141472,
     "news: india semiconductors": 1789895480817,
     "news: india tech policy": 1789898233574,
     "news: india telecom": 1789897636660,
-    "news: indian it majors": 1789894659625,
+    "news: indian it majors": 1789896126608,
     "news: indian it midcaps": 1789857181386,
     "news: pib releases": 1789889786925,
     "news: tech leaders": 1789895613468,
@@ -14127,7 +14136,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T10:02:32.437223+00:00",
+    "last_server_run": "2026-09-20T10:16:59.286996+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T09:32:32.697403+00:00",
