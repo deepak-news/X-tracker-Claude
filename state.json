@@ -1,59 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T05:16:19.777822+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Infosys shares surge 6% following Anthropic AI pace warning reaction",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObXBVUENfR3FHakJyZTdiM0UzNTNPSE9odV93NXN5d08taEQzTmJlZGU3OGl1bG1wTC03a2xxQ1hvYmNkU3BHYk9uc19lNmxDQlotVGtYWWdnc2htazlPeXRUOExPcDEyM0NnU1ZnS3h0M0hEMzYzNDRzQVhpWlJkZkFJbGpZY3FIMHdHZ1NPRkJCMVQ2bVNNM3JrTzduOTNJWURQcTJmSVBIeWlQNW54N2dRNFZiNzU3R3R6bVF1aFZSSmdsbU5nR1FJMzIxd0VyT1pnQ01scHVEYTdrbHJxbXBuS2U0QXRCeGfSAe8BQVVfeXFMTXJwaFY2VXlEWWNMMWF0a0lkNFBqdHB5eGhPUTBfeEU1VWR6UGo5Z2ZnajF1OFkySVZVWHg0ZjZQR2ZOWk9jMWJ0dmdBaXp4elBya2x2Mk54ZDRLczV6b0ZMZktJODBiXzljVVNRUkJpMFo3NUpsNFU5Q0g2SnBwVjlkUHVWR3BNTW9fUXdFQ0pNc0llNjEyNGRFWTlFTWhZWm14WUYtMGlpZUYtOGJzSlhnbkh6cjhIdXlZTVVUeW14UjFLWUlnTFJ5c2M4SjZEcF9ibE5lM014bFd4MmlmTkVoa1JSdFJfYVFFdUNXNk0?oc=5",
-      "words": [
-        "anthropic",
-        "behemoth",
-        "infosys",
-        "pace",
-        "rally",
-        "surge",
-        "triggered",
-        "warning"
-      ]
-    },
-    {
-      "at": "2026-09-15T05:16:19.777822+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Zetwerk expands manufacturing footprint with three new facilities under construction",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkhSUVRiOC1OLUR5TnV0cGdRT0ZvNmR0MVZVb3hQeld3WndkbV9PaTJSdHVhSWFEbVFDTE5vOTFsa2VIWERwVjdXN21wMzhudmJpSFh2bmpEMzMxc28zQWJZVnRHSGlGT3B3cVJOeF9wRkV1RWNDOW96M3BjTGZKMTBOQUY4amR6ZDZsYmhEcFFCU0RJaE05R1c2cFZJbHBxdUgyZmc5akhpc09tMXQ1a3J3ODJHY1VtWFVZLTRMQldXdw?oc=5",
-      "words": [
-        "construction",
-        "expands",
-        "facilities",
-        "footprint",
-        "manufacturing",
-        "owned",
-        "three",
-        "under",
-        "zetwerk"
-      ]
-    },
-    {
-      "at": "2026-09-15T05:31:29.038970+00:00",
-      "handle": "News: India fintech",
-      "headline": "Congress alleges UPI payments above Rs 2,000 may face charges",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEtVWlpXS3N5ell4a0twUjVxTDI3Y0hsMTh4UkhVU3h6U1BhWC01aUZUbG1HX2o4a3JSdFBJUU1PajlwWDVUblVaT2prWFJNNkh6X0VFY0lILTh5cVRVRW1IMm51eFo0Sk1WS2VDN1FUZm9rLXJxQmxRVjZxNEVYUElLdFlGM3JuaXo2d25UaDllTTZjRlBFXy1IM1FLVFRLTXltYTVHbGMzWW1aa2c4dmF4Qkw0Wi1aZzNqYjhR0gHDAUFVX3lxTE02cEhFdlk3d1FJLUhDbVdoYVF2OURlNFR0b19OT01jS2VQM1lkZ3FqazZGb0RxRDBIbTVxQXFBMTg3UHRRR0ZWdGZsTTh5eHFCUVlkcTExbi00M3pJZkpsSHdHZnNIZ1ZMU212OUNoYmlEVFNfajhhOWxrSEw2VC15aWhCN2pDaFFxZlM4MkM4RUFtUXpxcEdvamlVeTJxWWYxZGh1R1BrOEpXQTJEU0NUMDlvaHpJMXU4Rm9qcXM1TDd6Yw?oc=5",
-      "words": [
-        "000",
-        "above",
-        "alleges",
-        "attract",
-        "charge",
-        "congress",
-        "may",
-        "payments",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-09-15T05:46:19.580778+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Tata Group stocks surge led by Tata Chemicals and Tata Investment",
@@ -7379,6 +7326,60 @@
         "plans",
         "security"
       ]
+    },
+    {
+      "at": "2026-09-20T04:32:15.576092+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Anthropic hires Accenture for AI safety and threat hunting",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXRhQ0xZUTRYT1dndjZaMFBXOVBRemQ3ekRhd2JPblIwNlV3aUx3VEllSlFxam1TblN3SXNHYjZEaDdhcGFFVUV1MXc5Vmd4Z1VyN1FyZWtBaTdmMmExUWJQQklzVXNKbXpxUmVacGJBWjNEeE1tQ0FJaWRSQVo3a2o2REhHVHhRMHcxd2RMSEQydzFmMS1xZWpxaGViUEliVlRWc1R3?oc=5",
+      "words": [
+        "accenture",
+        "anthropic",
+        "dangerous",
+        "hires",
+        "hunt",
+        "inside",
+        "sit",
+        "walls"
+      ]
+    },
+    {
+      "at": "2026-09-20T04:32:15.576092+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "SEMICON India secures 56 MoUs for design and manufacturing collaboration",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjE3SGdtOHBZMDd3TDBuQVRybW9aSE1WZmx5YU9RTWJibFFNUGhrV3R0RmVsV09PSWtLOVBia1dBbWFQaldQLW1rSlRiQ1c0SWhRX215ajRiRUdpS1hLVHNrS1ZIYWE1U2tNX2p3U2lpeU5FNkI0Um1GSFI5cDF6ZjFra0YtTFVZYUs4czRsXzE4MXBEUi1vT1FnQVpFOHRReERoSUxBVzdWb3dQdlBB?oc=5",
+      "words": [
+        "collaborations",
+        "design",
+        "manufacturing",
+        "mous",
+        "research",
+        "semicon",
+        "strengthen"
+      ]
+    },
+    {
+      "at": "2026-09-20T04:32:15.576092+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Goldman Sachs says AI adoption by four nations slows IT hiring",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTmRlUmJnT2JaSHYxUThWT1JZemVGajVrMkhFYkVVbExfbHk4R3E4Qm1fWlA4LTlmREM0YWNxNUIxdFE5c0dzX0M4NTh5WmRNZWFfYkpCVXdQaXRSU0ZWQ0xXWHJkZ1JXUXN5clNyeUFHSzMxY2dsMm5xX2RzaUFWQjRLQWc0cnIxb2VOWW5hRWVCOEYtcnVrVEcxUHNWNUNaYzZkeTFBQzUwM2xjUVA0aEpDeFVWZW1zZXJUN1QtSi13RTR3X3hDX3N4M1hCVHhGbHYwczllb3VDd1VSQ0RNczdrMGVqWlhJcUHSAe8BQVVfeXFMUDB6VFVhSi1FeEZ0UlcxbEhCM1QtS2paTFFOckhwZjhscDZFc2tfLXF6bkZfTG9rOHV0SnlGeTF3bXB4aFBYZ19ZVkhmaDZMOHNfNmhFMUhucVhkVDBqM2x5NDJZNnh2WXFXQUZydjFaYUoyRlBHN3hnT05PSXNOdlJBakJuZldSUXhKYXB2S1k1TVdrVUJsQngyZDhrSUJPc2hvSmhYazhSc1E4X2FYQldlZlIwV0NtUnZydElTYnJKeUFaMHNRWXVYbERsR3FGVlFESzJFMlMzOGNYQkZhRG9ZdmUtUm42ME14MVVQRFk?oc=5",
+      "words": [
+        "adoption",
+        "countries",
+        "four",
+        "global",
+        "goldman",
+        "hiring",
+        "lead",
+        "muting",
+        "only",
+        "sachs",
+        "services",
+        "tech"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -10708,10 +10709,27 @@
     "1789860185863",
     "1789863885399",
     "1789874312713",
-    "1789877173965"
+    "1789877173965",
+    "1789804902070",
+    "1789806803294",
+    "1789814033840",
+    "1789817880886",
+    "1789827728975",
+    "1789833073288",
+    "1789838066055",
+    "1789848004741",
+    "1789858175384",
+    "1789871369419",
+    "1789872086413",
+    "1789872940552",
+    "1789874800153",
+    "1789876800301",
+    "1789877701670",
+    "1789877769344",
+    "1789878381514"
   ],
-  "last_digest_hour": "2026-09-20T09",
-  "last_success": "2026-09-20T04:16:49.058766+00:00",
+  "last_digest_hour": "2026-09-20T10",
+  "last_success": "2026-09-20T04:32:15.577542+00:00",
   "national": {
     "alerted": [
       {
@@ -11712,7 +11730,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T04:17:32.294443+00:00",
+    "last_run": "2026-09-20T04:36:45.046433+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12581,20 +12599,24 @@
       "gazette:CG-OR-E-19092026-276308",
       "gazette:CG-DL-E-19092026-276309",
       "gazette:CG-MH-E-19092026-276312",
-      "quake:usgs:us7000tinl"
+      "quake:usgs:us7000tinl",
+      "pib:2312619"
     ],
     "source_failures": {
       "CBI": {
-        "count": 13,
-        "until": "2026-09-20T04:18:49.247410+00:00"
+        "count": 14,
+        "until": "2026-09-20T10:32:21.340048+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
-        "count": 13,
-        "until": "2026-09-20T04:18:49.247410+00:00"
+        "count": 14,
+        "until": "2026-09-20T10:32:21.340048+00:00"
       },
       "State: Tamil Nadu": {
-        "count": 13,
-        "until": "2026-09-20T04:18:49.247410+00:00"
+        "count": 14,
+        "until": "2026-09-20T10:32:21.340048+00:00"
       }
     },
     "sources": [
@@ -12615,26 +12637,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic hires Accenture for AI safety and threat hunting",
-      "post": {
-        "created_at": "2026-09-19T22:33:44+00:00",
-        "handle": "News: Global IT services",
-        "id": "1789857224542",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Startup Fortune",
-        "reposts": 0,
-        "text": "Anthropic Hires Accenture to Sit Inside Its Walls and Hunt for Dangerous AI",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXRhQ0xZUTRYT1dndjZaMFBXOVBRemQ3ekRhd2JPblIwNlV3aUx3VEllSlFxam1TblN3SXNHYjZEaDdhcGFFVUV1MXc5Vmd4Z1VyN1FyZWtBaTdmMmExUWJQQklzVXNKbXpxUmVacGJBWjNEeE1tQ0FJaWRSQVo3a2o2REhHVHhRMHcxd2RMSEQydzFmMS1xZWpxaGViUEliVlRWc1R3?oc=5"
-      },
-      "queued_at": "2026-09-20T03:46:45.773026+00:00",
-      "score": 8.0,
-      "why": "Major global AI lab partners with IT services firm on safety, falling under required AI disclosures."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -13617,17 +13620,17 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789866459324,
-    "news: consumer internet india": 1789869192096,
-    "news: global ai": 1789875679893,
+    "news: consumer internet india": 1789878381514,
+    "news: global ai": 1789876800301,
     "news: global chips": 1789876078036,
     "news: global it services": 1789877173965,
     "news: india ai deeptech": 1789847737943,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789875000544,
-    "news: india semiconductors": 1789876560400,
+    "news: india fintech": 1789877701670,
+    "news: india semiconductors": 1789877769344,
     "news: india tech policy": 1789873161094,
     "news: india telecom": 1789875747951,
-    "news: indian it majors": 1789873618165,
+    "news: indian it majors": 1789874800153,
     "news: indian it midcaps": 1789857181386,
     "news: pib releases": 1789870623468,
     "news: tech leaders": 1789874312713,
@@ -13662,7 +13665,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T04:16:49.389845+00:00",
+    "last_server_run": "2026-09-20T04:32:15.891297+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T03:04:33.743099+00:00",
