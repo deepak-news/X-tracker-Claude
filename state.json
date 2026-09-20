@@ -11163,10 +11163,25 @@
     "1789900527758",
     "1789901700139",
     "1789903460224",
-    "1789903629046"
+    "1789903629046",
+    "1789820670922",
+    "1789824480258",
+    "1789873564998",
+    "1789891981355",
+    "1789892160959",
+    "1789895890235",
+    "1789897673254",
+    "1789899605925",
+    "1789899945890",
+    "1789900755726",
+    "1789904100637",
+    "1789904542582",
+    "1789905043239",
+    "1789905189377",
+    "1789905646670"
   ],
   "last_digest_hour": "2026-09-20T17",
-  "last_success": "2026-09-20T11:46:54.389562+00:00",
+  "last_success": "2026-09-20T12:03:06.881444+00:00",
   "national": {
     "alerted": [
       {
@@ -12248,7 +12263,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T11:47:48.635927+00:00",
+    "last_run": "2026-09-20T12:04:21.210686+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13139,7 +13154,9 @@
       "pib:2312708",
       "pib:2312709",
       "pib:2312715",
-      "pib:2312713"
+      "pib:2312713",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-shooters-sonam-uttam-maskar-elavenil-valarivan-and-vidarsa-k-vinod-on-winning-silver-medal-at-the-asian-games",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-shooter-elavenil-valarivan-on-winning-silver-medal-at-the-asian-games"
     ],
     "source_failures": {
       "CBI": {
@@ -14156,13 +14173,13 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789903629046,
-    "news: consumer internet india": 1789903460224,
-    "news: global ai": 1789902001596,
-    "news: global chips": 1789892584689,
+    "news: consumer internet india": 1789905189377,
+    "news: global ai": 1789904100637,
+    "news: global chips": 1789895890235,
     "news: global it services": 1789903609321,
     "news: india ai deeptech": 1789894982549,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789902570835,
+    "news: india fintech": 1789905646670,
     "news: india semiconductors": 1789903601986,
     "news: india tech policy": 1789900679763,
     "news: india telecom": 1789902861155,
@@ -14201,7 +14218,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T11:46:54.724511+00:00",
+    "last_server_run": "2026-09-20T12:03:07.160329+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T11:47:11.356747+00:00",
