@@ -11653,10 +11653,18 @@
     "1789930918777",
     "1789931046825",
     "1789931520376",
-    "1789934403087"
+    "1789934403087",
+    "1789890486341",
+    "1789903380285",
+    "1789903380377",
+    "1789903380584",
+    "1789904302472",
+    "1789922381758",
+    "1789931046557",
+    "1789936289261"
   ],
   "last_digest_hour": "2026-09-21T02",
-  "last_success": "2026-09-20T20:32:14.729221+00:00",
+  "last_success": "2026-09-20T20:46:43.403549+00:00",
   "national": {
     "alerted": [
       {
@@ -12760,7 +12768,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T20:32:47.492568+00:00",
+    "last_run": "2026-09-20T20:48:38.061306+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14682,7 +14690,7 @@
     "news: consumer internet india": 1789934687283,
     "news: global ai": 1789934100589,
     "news: global chips": 1789930619859,
-    "news: global it services": 1789931105567,
+    "news: global it services": 1789936289261,
     "news: india ai deeptech": 1789931687709,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789932700636,
@@ -14720,21 +14728,22 @@
       "DoPT EO - other orders (30 days)",
       "DoPT EO - promotions (30 days)",
       "DoPT EO - today's orders",
+      "Parliament",
       "e-Gazette - Home, Finance, Defence, Law, I&B",
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T20:32:15.044945+00:00",
+    "last_server_run": "2026-09-20T20:46:43.728658+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-20T18:32:26.745758+00:00",
+        "checked": "2026-09-20T20:48:10.024669+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-20T18:32:19.005534+00:00",
+        "checked": "2026-09-20T20:48:02.597505+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -14810,7 +14819,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-20T18:32:22.740650+00:00",
+        "checked": "2026-09-20T20:48:06.329425+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -14849,6 +14858,26 @@
           "2. | No. of persons declared FEO | 21",
           "3. | Amount of properties confiscated (Rs in crore) | 2178.34"
         ]
+      }
+    },
+    "sansad": {
+      "calendar": {
+        "at": "2026-09-20T20:47:33.382878+00:00",
+        "ls": {
+          "loksabha": 18,
+          "session": 8
+        },
+        "rs": {
+          "session": 271
+        }
+      },
+      "last": {
+        "calendar": "2026-09-20T20:47:35.763242+00:00",
+        "ls_reports": "2026-09-20T20:47:48.071467+00:00",
+        "rs_committee_press": "2026-09-20T20:47:57.033325+00:00",
+        "rs_press": "2026-09-20T20:47:54.462140+00:00",
+        "rs_reports": "2026-09-20T20:47:51.738460+00:00",
+        "rs_updates": "2026-09-20T20:47:58.775026+00:00"
       }
     },
     "scanned": [
@@ -15013,7 +15042,76 @@
       "gazette:CG-DL-E-18092026-276325|GAZETTE_DESKS:law",
       "gazette:CG-DL-E-19092026-276310|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-19092026-276309|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-19092026-276307|GAZETTE_MAIL_TO"
+      "gazette:CG-DL-E-19092026-276307|GAZETTE_MAIL_TO",
+      "meeting:LS|21451",
+      "meeting:LS|21509",
+      "meeting:LS|21511",
+      "meeting:LS|21513",
+      "meeting:LS|21501",
+      "meeting:LS|21512",
+      "meeting:LS|21514",
+      "meeting:LS|21515",
+      "meeting:LS|21508",
+      "meeting:LS|21510",
+      "meeting:LS|21506",
+      "meeting:LS|21495",
+      "meeting:LS|21507",
+      "meeting:LS|21493",
+      "meeting:LS|21489",
+      "meeting:LS|21468",
+      "meeting:LS|21488",
+      "meeting:LS|21494",
+      "meeting:LS|21497",
+      "meeting:LS|21469",
+      "meeting:LS|21498",
+      "meeting:LS|21455",
+      "meeting:LS|21461",
+      "meeting:LS|21462",
+      "meeting:LS|21463",
+      "meeting:LS|21479",
+      "meeting:LS|21486",
+      "meeting:LS|21487",
+      "meeting:LS|21502",
+      "meeting:LS|21503",
+      "meeting:LS|21516",
+      "meeting:LS|21517",
+      "meeting:LS|21442",
+      "meeting:LS|21443",
+      "meeting:LS|21444",
+      "meeting:LS|21459",
+      "meeting:LS|21464",
+      "meeting:LS|21439",
+      "meeting:LS|21440",
+      "meeting:LS|21441",
+      "meeting:RS|2230",
+      "meeting:RS|2219",
+      "meeting:RS|2224",
+      "meeting:RS|2227",
+      "meeting:RS|2221",
+      "meeting:RS|2216",
+      "meeting:RS|2178",
+      "meeting:RS|2213",
+      "meeting:RS|2201",
+      "meeting:RS|2199",
+      "meeting:RS|2204",
+      "meeting:RS|2184",
+      "meeting:RS|2175",
+      "meeting:RS|2196",
+      "meeting:RS|2154",
+      "meeting:RS|2193",
+      "pr:LS|3214",
+      "pr:LS|3212",
+      "pr:LS|3210",
+      "pr:LS|3206",
+      "pr:LS|3204",
+      "pr:LS|3208",
+      "pr:LS|3200",
+      "pr:LS|3202",
+      "pr:LS|3198",
+      "pr:LS|3194",
+      "pr:LS|3196",
+      "pr:LS|3192",
+      "pr:LS|3190"
     ]
   }
 }
