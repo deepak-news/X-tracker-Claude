@@ -1,86 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T06:16:32.598171+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "TCS shares surge 5.2 percent in biggest jump in two months",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ieGd3SXNhV0kzTXZIT0hJdXlmLUVaWjFGaXdHRkZzb0ZsS0NYb2pVcmZBUXVRd2Y5YXczU2gwb2RrQUdkT2l1WTVsaWhyRkZJYTJpVVpPQUhpeUI2bmg0YXdPYmR1WEpCRmtQek9uSQ?oc=5",
-      "words": [
-        "months",
-        "most",
-        "price",
-        "rises",
-        "tcs",
-        "two"
-      ]
-    },
-    {
-      "at": "2026-09-15T06:31:45.974703+00:00",
-      "handle": "BSE Vodafone Idea",
-      "headline": "TRAI levies financial disincentive of Rs 2 lakh on Vodafone Idea",
-      "tier": 2,
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/543a8640-397e-4a46-8e94-4534974bea90.pdf",
-      "words": [
-        "2015",
-        "532822",
-        "clause",
-        "dear",
-        "disclosure",
-        "filing",
-        "full",
-        "idea",
-        "limited",
-        "listing",
-        "madam",
-        "read",
-        "ref",
-        "regulations"
-      ]
-    },
-    {
-      "at": "2026-09-15T06:46:18.070245+00:00",
-      "handle": "BSE Coforge",
-      "headline": "Coforge expands automotive engineering footprint with 300-member practice",
-      "tier": 2,
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a3109d78-1805-4ccf-8dda-d8acd2236004.pdf",
-      "words": [
-        "accelerate",
-        "applicable",
-        "automotive",
-        "coforge",
-        "connected",
-        "defined",
-        "engineering",
-        "expands",
-        "filing",
-        "footprint",
-        "full",
-        "innovation",
-        "press",
-        "provision"
-      ]
-    },
-    {
-      "at": "2026-09-15T06:46:18.070245+00:00",
-      "handle": "News: India telecom",
-      "headline": "HFCL shares decline 5% following Rs 820 crore capex approval",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZEJaNUVZeGhHVU1rSzU1S2xxU0tubHd5aHp0UXgyOXpsX3htajFHT2luUTlrZ3lTdlZaY1dqWmdseDFmcUoxUkM1TldVUTA2OHZpSzl4NTRzOUdWbEJFa1k4dmVXSmdackNXZjF2NHZodmx3SUg4TXVkWHNtYlQyS0pOM090d1djd2taS2ttMjZJRlVwVkdIcXI2cE9YdHJuUFFoM3AyaXNPNE5vY1RQa05JY0U0ZlhLOGhpTUQxLTdUMWZLVUpvdU5HX1JpOUl6ODQ5QzlIYWJZQUdzbFo4VmFNVQ?oc=5",
-      "words": [
-        "820",
-        "approves",
-        "board",
-        "capacity",
-        "decline",
-        "details",
-        "expansion",
-        "here",
-        "hfcl",
-        "worth"
-      ]
-    },
-    {
       "at": "2026-09-15T07:02:01.937868+00:00",
       "handle": "News: India semiconductors",
       "headline": "PM Modi to open SEMICON India 2026 for chip projects",
@@ -7373,6 +7293,76 @@
         "helped",
         "rsa"
       ]
+    },
+    {
+      "at": "2026-09-20T07:32:11.625722+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "SEMICON India 2026 concludes with 15 announcements from startups and students",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0dqY09YNzlMOU5DQmxrSFdxRERqZ1lCWXhtcjMyaHNCLW41TXE0OVFVbEFtWlBLVmRjSFBPdHhZaVhpSWFydjVPVkZBeTcxVWdCcklXc054aEtyNXI3SXI0QVJGMkJ3eTdEdnRWUFhwU2ZUQjMyY0hPWkpsYnd0VmR1NkpPejVSbWZpX2dZN3lYeHoxdExEUFJB?oc=5",
+      "words": [
+        "2026",
+        "announcements",
+        "concludes",
+        "headlined",
+        "semicon",
+        "startups",
+        "student",
+        "teams"
+      ]
+    },
+    {
+      "at": "2026-09-20T07:32:11.625722+00:00",
+      "handle": "News: India fintech",
+      "headline": "NPCI introduces MyUPI AI service amid transaction charge debates",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWgyd2QxSExfRHNXRXFPU2NBd0NfaVMybkRRZHBIQm10cEl4ZmNybjZSeC1HM2t4U2NoQkFtcGlFS2dGMXU1UmlSTU0xQWdCMG1JLWd0Nm9ndXI2di05VHdXRFpmVTJZQVhRaXNfNktQdnFuZFJIektfZDllbUdkci1oTjVpSUdzWjdFcF9jc1dnYTVyODFnVHBLcVZHSjBQMjhCU2hNQVdTcFI3SC1Kb1JpQVNKajBnZHVESFRKcHk5UDFPQWl5TTUxZ9IB2AFBVV95cUxPV2hZQ1BCX3BqM2daWHBfMFdmRFpSS1VhSXdsTUEyazEtOEJsc2lsZFlhRnRhWHQwLXN4bHBLTjF2SGUxR1JDSFc1NFVqYVFNMzJzaXpWSHFTVjltaGtacTBsbllQZ2ZCNTdOMFh3STdkaGMzbXZqWlBJMEw0Zi1zcFlPZlpaUW92VU9wU0h6Yy1SdFNLTnN4eUIzbjNBLUl0ZWgyVlFTYUExbzBRd1NuUUlPTnM5SGZfbUlzNjc4bjV1M04yT2F4cFQyc0Z0UUhLNzREdkhOY2o?oc=5",
+      "words": [
+        "charges",
+        "introduces",
+        "mdr",
+        "myupi",
+        "npci",
+        "questions",
+        "rules",
+        "service",
+        "transaction",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-20T07:32:11.625722+00:00",
+      "handle": "News: Global AI",
+      "headline": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVo2emRMZVZvNk1OY3lQV2U5bU9remF5QTB6LW1RdjctOHlNMk5tQW56VHlKaFNnbHFxT1MzSUxmR29KUTdSZU12eV9pRjJJdURrWElQYWlhVWlFTVFLVUxoaGhsVWpqQm9oNWJ5Q0VKZkV4ejRlQ2VtMkFCbzZLTjc5cXc?oc=5",
+      "words": [
+        "300bn",
+        "balance",
+        "big",
+        "exposure",
+        "guarantees",
+        "keep",
+        "off",
+        "sheets",
+        "tech",
+        "uses"
+      ]
+    },
+    {
+      "at": "2026-09-20T07:32:11.625722+00:00",
+      "handle": "News: Global AI",
+      "headline": "Trump proposes new AI czar and Space Force-style AI Force",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVFBEUV9SLUJsSWpTWENyQ2NEbzEwYTZLM3ZvODktUnpMZ0Z1d1p2a1Yxdjh0d0dUOUpmb1Y4NzA2RUJOYUxTa2UzWjYwWWVETTZRakM4Rk1yN0F4emE3T3E1Q3BzUV9sS050MGo5VXU2d1E?oc=5",
+      "words": [
+        "czar",
+        "force",
+        "modeled",
+        "space",
+        "trump",
+        "wants"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -10901,10 +10891,27 @@
     "1789887540059",
     "1789888172670",
     "1789888187982",
-    "1789888328422"
+    "1789888328422",
+    "1789807523472",
+    "1789810600604",
+    "1789818333035",
+    "1789818708970",
+    "1789818851697",
+    "1789831456145",
+    "1789831680195",
+    "1789836600890",
+    "1789838850138",
+    "1789863720456",
+    "1789876500353",
+    "1789882042609",
+    "1789884144860",
+    "1789884825849",
+    "1789885613399",
+    "1789886630472",
+    "1789888634771"
   ],
-  "last_digest_hour": "2026-09-20T12",
-  "last_success": "2026-09-20T07:17:11.270788+00:00",
+  "last_digest_hour": "2026-09-20T13",
+  "last_success": "2026-09-20T07:32:11.627250+00:00",
   "national": {
     "alerted": [
       {
@@ -11925,7 +11932,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T07:18:33.832345+00:00",
+    "last_run": "2026-09-20T07:32:46.698608+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12801,7 +12808,8 @@
       "pib:2312634",
       "pib:2312635",
       "pib:2312638",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-journalist-payal-mehta-ji"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-journalist-payal-mehta-ji",
+      "pib:2312645"
     ],
     "source_failures": {
       "CBI": {
@@ -12835,80 +12843,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "SEMICON India 2026 concludes with 15 announcements from startups and students",
-      "post": {
-        "created_at": "2026-09-20T06:37:50+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789886270719",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "YourStory",
-        "reposts": 0,
-        "text": "SEMICON India 2026 concludes with 15 announcements, headlined by Indian startups and student teams",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0dqY09YNzlMOU5DQmxrSFdxRERqZ1lCWXhtcjMyaHNCLW41TXE0OVFVbEFtWlBLVmRjSFBPdHhZaVhpSWFydjVPVkZBeTcxVWdCcklXc054aEtyNXI3SXI0QVJGMkJ3eTdEdnRWUFhwU2ZUQjMyY0hPWkpsYnd0VmR1NkpPejVSbWZpX2dZN3lYeHoxdExEUFJB?oc=5"
-      },
-      "queued_at": "2026-09-20T06:46:53.683083+00:00",
-      "score": 7.0,
-      "why": "Provides a development and final tally for the ongoing SEMICON India event."
-    },
-    {
-      "headline": "NPCI introduces MyUPI AI service amid transaction charge debates",
-      "post": {
-        "created_at": "2026-09-20T06:53:09+00:00",
-        "handle": "News: India fintech",
-        "id": "1789887189191",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Outlook Money",
-        "reposts": 0,
-        "text": "NPCI Introduces MyUPI AI Service Amid Questions Over New UPI MDR Rules And Transaction Charges",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWgyd2QxSExfRHNXRXFPU2NBd0NfaVMybkRRZHBIQm10cEl4ZmNybjZSeC1HM2t4U2NoQkFtcGlFS2dGMXU1UmlSTU0xQWdCMG1JLWd0Nm9ndXI2di05VHdXRFpmVTJZQVhRaXNfNktQdnFuZFJIektfZDllbUdkci1oTjVpSUdzWjdFcF9jc1dnYTVyODFnVHBLcVZHSjBQMjhCU2hNQVdTcFI3SC1Kb1JpQVNKajBnZHVESFRKcHk5UDFPQWl5TTUxZ9IB2AFBVV95cUxPV2hZQ1BCX3BqM2daWHBfMFdmRFpSS1VhSXdsTUEyazEtOEJsc2lsZFlhRnRhWHQwLXN4bHBLTjF2SGUxR1JDSFc1NFVqYVFNMzJzaXpWSHFTVjltaGtacTBsbllQZ2ZCNTdOMFh3STdkaGMzbXZqWlBJMEw0Zi1zcFlPZlpaUW92VU9wU0h6Yy1SdFNLTnN4eUIzbjNBLUl0ZWgyVlFTYUExbzBRd1NuUUlPTnM5SGZfbUlzNjc4bjV1M04yT2F4cFQyc0Z0UUhLNzREdkhOY2o?oc=5"
-      },
-      "queued_at": "2026-09-20T07:02:19.547329+00:00",
-      "score": 7.0,
-      "why": "New AI service launch by NPCI in the fintech sector."
-    },
-    {
-      "headline": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-      "post": {
-        "created_at": "2026-09-20T07:00:12+00:00",
-        "handle": "News: Global AI",
-        "id": "1789887612268",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Financial Times",
-        "reposts": 0,
-        "text": "Big Tech uses guarantees to keep $300bn of AI exposure off balance sheets",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVo2emRMZVZvNk1OY3lQV2U5bU9remF5QTB6LW1RdjctOHlNMk5tQW56VHlKaFNnbHFxT1MzSUxmR29KUTdSZU12eV9pRjJJdURrWElQYWlhVWlFTVFLVUxoaGhsVWpqQm9oNWJ5Q0VKZkV4ejRlQ2VtMkFCbzZLTjc5cXc?oc=5"
-      },
-      "queued_at": "2026-09-20T07:02:19.547329+00:00",
-      "score": 7.0,
-      "why": "Major investigative financial finding regarding AI infrastructure financing structures by large tech firms."
-    },
-    {
-      "headline": "Trump proposes new AI czar and Space Force-style AI Force",
-      "post": {
-        "created_at": "2026-09-20T01:51:22+00:00",
-        "handle": "News: Global AI",
-        "id": "1789869082927",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Axios",
-        "reposts": 0,
-        "text": "Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVFBEUV9SLUJsSWpTWENyQ2NEbzEwYTZLM3ZvODktUnpMZ0Z1d1p2a1Yxdjh0d0dUOUpmb1Y4NzA2RUJOYUxTa2UzWjYwWWVETTZRakM4Rk1yN0F4emE3T3E1Q3BzUV9sS050MGo5VXU2d1E?oc=5"
-      },
-      "queued_at": "2026-09-20T07:17:11.269831+00:00",
-      "score": 7.0,
-      "why": "Major US government policy move regarding AI leadership and security."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -13892,7 +13827,7 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789887540059,
     "news: consumer internet india": 1789887281535,
-    "news: global ai": 1789887612268,
+    "news: global ai": 1789888634771,
     "news: global chips": 1789883760713,
     "news: global it services": 1789877173965,
     "news: india ai deeptech": 1789881529537,
@@ -13904,7 +13839,7 @@
     "news: indian it majors": 1789888328422,
     "news: indian it midcaps": 1789857181386,
     "news: pib releases": 1789879985870,
-    "news: tech leaders": 1789875416001,
+    "news: tech leaders": 1789876500353,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -13936,7 +13871,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T07:17:11.540414+00:00",
+    "last_server_run": "2026-09-20T07:32:11.944326+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T07:17:29.754455+00:00",
