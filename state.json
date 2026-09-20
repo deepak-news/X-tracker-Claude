@@ -11581,10 +11581,23 @@
     "1789925138400",
     "1789929660144",
     "1789930542758",
-    "1789930770556"
+    "1789930770556",
+    "1789847025886",
+    "1789907940581",
+    "1789917296755",
+    "1789920674280",
+    "1789921680031",
+    "1789921680567",
+    "1789921680614",
+    "1789924113744",
+    "1789928788894",
+    "1789929153686",
+    "1789930619859",
+    "1789930700848",
+    "1789931105567"
   ],
   "last_digest_hour": "2026-09-21T00",
-  "last_success": "2026-09-20T19:02:19.844365+00:00",
+  "last_success": "2026-09-20T19:16:49.675362+00:00",
   "national": {
     "alerted": [
       {
@@ -12688,7 +12701,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T19:02:58.761649+00:00",
+    "last_run": "2026-09-20T19:17:22.318679+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13642,6 +13655,42 @@
       "queued_at": "2026-09-20T18:46:56.969508+00:00",
       "score": 8.0,
       "why": "Quarterly earnings preview for a major Indian IT firm is essential wire news."
+    },
+    {
+      "headline": "Three teams win Digital India RISC-V Grand Challenge",
+      "post": {
+        "created_at": "2026-09-20T16:11:14+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789920674280",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Fintechbiznews",
+        "reposts": 0,
+        "text": "Digital India RISC-V Grand Challenge Won By 3 Teams",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLW1oSnlzQmE3Z2Z4cjV5N3gxSWN6aC04Wnl2QmRHbEkzc2Jtd014bjJYNzVScGc2Qkg0allYME1MMXBZdkRlUGVXa29USHZjSUFuTF9pWjZOOXNLOHRwck1UTWljTDdfTXh5WUtUMTBFRDlnR1ZBLUZSYmJjR2p6cGd2U2Z5OGdUdFFGbmxadW1SWmU5dFdEZzZ0UHA3VWVFTng3S0dXazR2Zw?oc=5"
+      },
+      "queued_at": "2026-09-20T19:16:49.674164+00:00",
+      "score": 7.0,
+      "why": "It is a government and semiconductor initiative announcement with direct India relevance."
+    },
+    {
+      "headline": "NIELIT and Intel India launch Agentic AI skilling programs",
+      "post": {
+        "created_at": "2026-09-20T16:28:00+00:00",
+        "handle": "News: India tech policy",
+        "id": "1789921680614",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "PIB",
+        "reposts": 0,
+        "text": "NIELIT and Intel India Organized National Leadership Dialogue and Launched Agentic AI Skilling Programs for Preparing India\u2019s Workforce for the Agentic AI Era",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yeWpaOU9IWXczZm4xaE50NmM2ajZ5b1dZMTZJcGwwMEYtNkNuTFVNSWdjS2U5T2FwMFJjRVJpa19rYlBOcmZaWjNtVEliLV96VEE2Tnd4Q0M2dHhaeUV3UW9QMFctb1R6UC1v?oc=5"
+      },
+      "queued_at": "2026-09-20T19:16:49.674164+00:00",
+      "score": 7.0,
+      "why": "It involves a major tech firm and government skilling initiative in India's AI sector."
     }
   ],
   "page_links": {
@@ -14628,14 +14677,14 @@
     "news: big tech platforms": 1789922137393,
     "news: consumer internet india": 1789928684959,
     "news: global ai": 1789926118410,
-    "news: global chips": 1789925821949,
-    "news: global it services": 1789926850994,
+    "news: global chips": 1789930619859,
+    "news: global it services": 1789931105567,
     "news: india ai deeptech": 1789917489903,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789929497498,
     "news: india semiconductors": 1789922973977,
     "news: india tech policy": 1789925684881,
-    "news: india telecom": 1789927087697,
+    "news: india telecom": 1789929153686,
     "news: indian it majors": 1789929613362,
     "news: indian it midcaps": 1789919220535,
     "news: pib releases": 1789926164580,
@@ -14671,7 +14720,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T19:02:20.137121+00:00",
+    "last_server_run": "2026-09-20T19:16:49.990485+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T18:32:26.745758+00:00",
