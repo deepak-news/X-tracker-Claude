@@ -1,23 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T09:46:52.115933+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Cognizant shares rise on AI-driven growth and 2026 outlook",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaDJMWHIwbVZ1eWdkS0laRWhGakNpa0hjSFNWY0VnUFl4TFkzNFM1eG5pNmRBaDl2eHZTVnNIdDR4MVFMRFVVU21SUnMzNU1KakJ1cGZ1ZURNRkhYYzFHc1FWMk1DdDR6M0lSWGVacE5sM3NGVF9RZEVOT2prWk1Vdk9CZWp4LXEtY00waXpEMzRjQWJqcW9tZkVXZWUwS3FBNWhoV2pDSFMxN20tY1cxSFZjZ3VfQi1oM3NYczZ1bU5GLVplVW9LOFE3Q2g5a2hMT1E?oc=5",
-      "words": [
-        "2026",
-        "cognizant",
-        "driven",
-        "gains",
-        "growth",
-        "lift",
-        "outlook",
-        "sentiment"
-      ]
-    },
-    {
       "at": "2026-09-15T10:01:40.635002+00:00",
       "handle": "News: India fintech",
       "headline": "NPCI steering committee to discuss large UPI MDR today",
@@ -7345,6 +7328,25 @@
         "several",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-20T12:32:17.585001+00:00",
+      "handle": "News: India telecom",
+      "headline": "Bharti Airtel Cloud Platform secures 40 enterprise customers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSjNTR2YteDZpOW5aLUlETDBmXzJuTjRUM2ZDS0JnVXVfU3Y1NnBfNzIxNW1LUmg1elFHQnMzT1hJM0k2bklvcVJ4b0RXSmpWMnNLZ0pRWTZaWHpnWEwxczdWWl85MEJFR1k1LXMzdXd3NDNDUnlsbGQ4dE0wYkZScW5WNFhoUzRqM3VPZHZjbUd4TDI0SmJzVnJaZEhLWDlKUnE2eHNYekVQRlRURHhXZ0JWbjFjeWc?oc=5",
+      "words": [
+        "airtel",
+        "bharti",
+        "cloud",
+        "customers",
+        "homegrown",
+        "manufacturing",
+        "platform",
+        "sector",
+        "secures",
+        "targets"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -11187,10 +11189,26 @@
     "1789900529457",
     "1789903066309",
     "1789905600580",
-    "1789905839838"
+    "1789905839838",
+    "1789855559354",
+    "1789859490721",
+    "1789862340894",
+    "1789892380480",
+    "1789893180092",
+    "1789898141082",
+    "1789899967108",
+    "1789901133837",
+    "1789902900501",
+    "1789905919758",
+    "1789906076130",
+    "1789906178930",
+    "1789906603377",
+    "1789906647285",
+    "1789906763925",
+    "1789906950195"
   ],
-  "last_digest_hour": "2026-09-20T17",
-  "last_success": "2026-09-20T12:17:01.209510+00:00",
+  "last_digest_hour": "2026-09-20T18",
+  "last_success": "2026-09-20T12:32:17.586109+00:00",
   "national": {
     "alerted": [
       {
@@ -12272,7 +12290,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T12:17:51.687453+00:00",
+    "last_run": "2026-09-20T12:32:56.229714+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14182,20 +14200,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789903629046,
-    "news: consumer internet india": 1789905189377,
+    "news: consumer internet india": 1789906603377,
     "news: global ai": 1789904100637,
     "news: global chips": 1789895890235,
-    "news: global it services": 1789903609321,
+    "news: global it services": 1789906950195,
     "news: india ai deeptech": 1789894982549,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789905646670,
-    "news: india semiconductors": 1789905839838,
+    "news: india fintech": 1789906076130,
+    "news: india semiconductors": 1789906647285,
     "news: india tech policy": 1789903066309,
-    "news: india telecom": 1789905600580,
+    "news: india telecom": 1789906763925,
     "news: indian it majors": 1789897161510,
-    "news: indian it midcaps": 1789898751475,
+    "news: indian it midcaps": 1789902900501,
     "news: pib releases": 1789900529457,
-    "news: tech leaders": 1789902001596,
+    "news: tech leaders": 1789905919758,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14227,7 +14245,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T12:17:01.501881+00:00",
+    "last_server_run": "2026-09-20T12:32:17.846903+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T11:47:11.356747+00:00",
