@@ -1,74 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T07:31:37.426533+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Coforge shares fall following resignations of Chairman OP Bhatt and Director DK Singh",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVGo3d2JERXFJUXczbks5eUNsTHpQM3J4bV9zLVJDYVEtSzF3ZkEtYzd2c2kzdVd0WlJEeW1tNk9ZNTk5SGtSVlNha1JxaDhKTV8wU0JTdmdCTGpLQlltbTM3eEhpVENyWm5sZURXdTI0SWxuaGdZRlE2SzdwX09hbVdySzJhZHU4c05LdlBTaE9vX0tNMGJYd1RBcExJNlpfSS1LNFlMLWxPbk93WndUelRaV2lsdFc1bzhMa2NUX1pjMDBzcTlTTUR4OVFRZHBfNzY2M0JENUo0YUNYZWM3bG9hQ3psRHhaOHJSMVVlUG05eG5kSzFOTdIB_gFBVV95cUxOZXVmWWNUb2dTd3RRWm1rQ2o4V3VoaU5NbTMzSnJLeTI5aDZSTFYyZW02cG43T3RxbGw4dGduUUJHLTdwT3d0MDB2MTZGVlNINV9RMUxLUkFhYUY2NWVXZXlsU2NXQkl6Um5GNHBrQUZ1aHpwY2xSVk5oMElqcDJNYl9MNDhkQjlEdE5fUUlONTBhZXAxZmRYQURaWXhURzlEcUFzSGhLRHRnR1JwY2RocDVINlhfNUJ1dlBQOUlWaGlsV2x4TXpTT0doeU9XelV5N0s2S2RhOWJIZnVHR1pNb3ZmUy1iZS1QMldsbGYtUXdPSmZUeUdmVmIyTm4ydw?oc=5",
-      "words": [
-        "bhatt",
-        "chairman",
-        "coforge",
-        "director",
-        "emkay",
-        "fall",
-        "motilal",
-        "oswal",
-        "resign",
-        "retain",
-        "singh"
-      ]
-    },
-    {
-      "at": "2026-09-15T08:01:33.272535+00:00",
-      "handle": "News: India telecom",
-      "headline": "Vodafone Idea Q1FY27 revenue rises 6% to Rs 11,689 crore",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTS14UE1JZHo4T2d3ZmZyeEdPT1MycG9jVTIxdUxzcnhGOW56UDBxeVFPYUJrUG5sV2d6QzQ3UGUzOUlWcGZhSTBjSEFzY2pmSEFvb3JlY1hrZGliOHFfTGxmMmxsbk9uMm1faTRWRW5PRkZaODYtOTAyeFF2c01JbDlZdXNtbDZOWC1oTlhPbURIZTktMHdscnNUX3AtbzZRYWFxXzdkdmF0bFRUTVNTcA?oc=5",
-      "words": [
-        "689",
-        "idea",
-        "q1fy27",
-        "results",
-        "revenue",
-        "vodafone"
-      ]
-    },
-    {
-      "at": "2026-09-15T08:01:33.272535+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Flipkart creates over 2.5 lakh seasonal jobs across India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFBlZjl1al84ZS1STWlRempyZ2ktUnNkMkZUd0xrQ1NwS3B2RVVVUjhvTGlnTjRESkItOV9jZFg2MndOTTRoZkJ2VzFPT2ZfeTVVa3pnbXZPNWlDcGlHcGI1RnVsMnlEbmJfRXFfRDlXUTBkdUVYbjRJaXFvR3NWbE9UcjkyRFdsX0QwaldNOEpIOGPSAZgBQVVfeXFMTmVRakRpa1VKYUowLVlvMmZKV2hnTnl6WTJvY1oyVWwza3NrODNQdk50aW95QnpYSE1EdjNxT3lWVlBNS2pJS0FwclJZQzh5TWhUZUhMR3RLczA0cEVjS2I5ZTJFS1dYWFFCYWl2MEtQTEVSczlicGdzSWR4X21tZmNCQnZnTnhhdUVtOEpINnVYY3hCbWhGUV8?oc=5",
-      "words": [
-        "across",
-        "creates",
-        "flipkart",
-        "jobs",
-        "lakh",
-        "seasonal"
-      ]
-    },
-    {
-      "at": "2026-09-15T08:16:18.830784+00:00",
-      "handle": "News: India fintech",
-      "headline": "Rahul Gandhi accuses government on UPI fee policy",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjk4Zng2Y0JiYmtIWG54eExiM3JEZThzWkJZcC1WME9KeHlDQ212LVcwRXptaEQ4MHl0eERvb3gtUHI4aV80NEJrMTRlcmhSbkIzVnB4NHktZm5kSkRmU1VJNHZGTVJCMmkyaVdGeHdKOERPN3VXX0xwd09DWmpaN3pvMW5ScDc5eER0TTdTM19GaHY0UE1waC1lZk1seWF3UGZVRVYtRF82a1JlSHdfX1cwUVA?oc=5",
-      "words": [
-        "accuses",
-        "fee",
-        "gandhi",
-        "modi",
-        "pressure",
-        "rahul",
-        "row",
-        "upi",
-        "yielding"
-      ]
-    },
-    {
       "at": "2026-09-15T08:31:40.729821+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Amazon Now hits $1 billion gross sales, eyes 100 cities",
@@ -7360,6 +7292,70 @@
         "semiconductor",
         "vaishnaw"
       ]
+    },
+    {
+      "at": "2026-09-20T09:32:16.427486+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Wipro AI push frees capacity equal to 20,000 workers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUlZ0NG9reGo0YTBuaU5RcEhTSEM5MWpaa21sTS10Yld2X0cxTnBNNXg0dmw3dV83SmpjLWVUSDRjeWNld2ZxQUVHbmx4bGM0eVdXeUpZZE9kdVR2SXZUUUgtMWhTZy1lVVJEQWZMUTVyXzZNQ2VpNGo2Ml9CN1lya01aWE9sclRaUF9CYURKRmk2bG92NGc?oc=5",
+      "words": [
+        "000",
+        "capacity",
+        "equal",
+        "frees",
+        "means",
+        "push",
+        "wipro",
+        "workers"
+      ]
+    },
+    {
+      "at": "2026-09-20T09:32:16.427486+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "PM Modi urges global chipmakers to increase India investments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzFOcGpFNUU0a21LVnBCX2RJN2hpcURlWTdmNm04d1lXajZ1dVRoSk1DRm9tM3p3TjdaMFNMNGN6U0lJSUc0eE1xQW9rLU54M3pYQ3daaHhxc1lheFhCOWp4OEhEQk9hWFdidm1Ba09wSFVFMkR6TUtkU1RUXzk4TVdkZ3BhVlk3T201UEMxUW05ZTFJRzRn?oc=5",
+      "words": [
+        "chipmakers",
+        "global",
+        "investment",
+        "modi",
+        "step",
+        "urges"
+      ]
+    },
+    {
+      "at": "2026-09-20T09:32:16.427486+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Wipro stock edges lower as margins tighten after Q1 results",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmFieXV4WnRhN2g5X3pvRGFXMmxwUElvRFlZMklUMHZsUVJzOXhZN1EwdU5RWGZlTUE2QVJHRnFtNnJtN3MtNzdoRVZkSEFXcXFEcEp1NHBKRzVtV04wbTZIa1hpNTBCb1lad242Z2pwOFhuMF93X2pyVGgxSzVZQWE2cE53TF9TQXhydzlkalVoOW41R1AxLXQyUW1rOHdfS0NtcElsa3NiODd0ZDNoUzIyam5BUXhGbkE?oc=5",
+      "words": [
+        "edges",
+        "lower",
+        "margins",
+        "results",
+        "tighten",
+        "wipro"
+      ]
+    },
+    {
+      "at": "2026-09-20T09:32:16.427486+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta launches Muse AI agent with data handling features",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc055WThqYTZoY040UVBnbm9YMGxBU3N3NEZMQWZtZXFYZ3JXZTFuY2NmMnJuM2hMMC10RWNtVm5SVFNWaHFTbHlwZUthaDVncWN2QlZISjVqLTNsaHRsTWRrZXRjaHBiRVpGTzd2ZkJCVmVjUWttcXBYVHJ2YzY2Sm5HNHNUdXd5aENFOEpHVUw5ZGpCX0dUV2M3dUozVW1sOTZ1UnJGeXZEbENKRHR5dmpLaXk4Mktu0gG_AUFVX3lxTE5iTGdFNW1TTUs4bFF0WTI1ajlISGJkSFF2V3l0MnUzSnFBZllmZ0IxTXRiQ3hCLVNRdjN1WjNORnc4MEZOZGJ1RVlaUUJoTERxYi1KZG1ZQzhLbmZRUUdKakFtcDhFZURncld0MjRZVGE1eVFxY3F3QnBTa1hYZ19uV3I5VmMxMFctSi0zRVUxU3J0bnAyR0REalhjN0pkdlc4VFZ1b0x1bVJMRTBTN2xEbXlNOFJieEUwdFBIRFRZ?oc=5",
+      "words": [
+        "agent",
+        "can",
+        "data",
+        "handles",
+        "launches",
+        "meta",
+        "muse",
+        "your"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -11042,10 +11038,24 @@
     "1789893645077",
     "1789894659625",
     "1789894982549",
-    "1789894993254"
+    "1789894993254",
+    "1789829030719",
+    "1789833720958",
+    "1789836224224",
+    "1789852745199",
+    "1789855100393",
+    "1789864200475",
+    "1789873676405",
+    "1789889786925",
+    "1789890684944",
+    "1789895480817",
+    "1789895613468",
+    "1789895755395",
+    "1789896026023",
+    "1789896252953"
   ],
-  "last_digest_hour": "2026-09-20T14",
-  "last_success": "2026-09-20T09:16:51.046903+00:00",
+  "last_digest_hour": "2026-09-20T15",
+  "last_success": "2026-09-20T09:32:16.428873+00:00",
   "national": {
     "alerted": [
       {
@@ -12105,7 +12115,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T09:17:25.014651+00:00",
+    "last_run": "2026-09-20T09:33:05.112627+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13022,80 +13032,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Wipro AI push frees capacity equal to 20,000 workers",
-      "post": {
-        "created_at": "2026-09-20T08:42:43+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1789893763077",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Trak",
-        "reposts": 0,
-        "text": "Wipro's AI Push Frees Capacity Equal To 20,000 Workers: What It Means",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUlZ0NG9reGo0YTBuaU5RcEhTSEM5MWpaa21sTS10Yld2X0cxTnBNNXg0dmw3dV83SmpjLWVUSDRjeWNld2ZxQUVHbmx4bGM0eVdXeUpZZE9kdVR2SXZUUUgtMWhTZy1lVVJEQWZMUTVyXzZNQ2VpNGo2Ml9CN1lya01aWE9sclRaUF9CYURKRmk2bG92NGc?oc=5"
-      },
-      "queued_at": "2026-09-20T08:46:54.284792+00:00",
-      "score": 8.0,
-      "why": "Major productivity and headcount efficiency metric from a top Indian IT services firm."
-    },
-    {
-      "headline": "PM Modi urges global chipmakers to increase India investments",
-      "post": {
-        "created_at": "2026-09-20T07:15:39+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789888539528",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Businessworld",
-        "reposts": 0,
-        "text": "PM Modi Urges Global Chipmakers To Step Up India Investment",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZzFOcGpFNUU0a21LVnBCX2RJN2hpcURlWTdmNm04d1lXajZ1dVRoSk1DRm9tM3p3TjdaMFNMNGN6U0lJSUc0eE1xQW9rLU54M3pYQ3daaHhxc1lheFhCOWp4OEhEQk9hWFdidm1Ba09wSFVFMkR6TUtkU1RUXzk4TVdkZ3BhVlk3T201UEMxUW05ZTFJRzRn?oc=5"
-      },
-      "queued_at": "2026-09-20T09:16:51.045787+00:00",
-      "score": 8.0,
-      "why": "Top minister statement on semiconductor policy and investments."
-    },
-    {
-      "headline": "Wipro stock edges lower as margins tighten after Q1 results",
-      "post": {
-        "created_at": "2026-09-20T08:57:39+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1789894659625",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "AD HOC NEWS",
-        "reposts": 0,
-        "text": "Wipro stock edges lower as margins tighten after Q1 results",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmFieXV4WnRhN2g5X3pvRGFXMmxwUElvRFlZMklUMHZsUVJzOXhZN1EwdU5RWGZlTUE2QVJHRnFtNnJtN3MtNzdoRVZkSEFXcXFEcEp1NHBKRzVtV04wbTZIa1hpNTBCb1lad242Z2pwOFhuMF93X2pyVGgxSzVZQWE2cE53TF9TQXhydzlkalVoOW41R1AxLXQyUW1rOHdfS0NtcElsa3NiODd0ZDNoUzIyam5BUXhGbkE?oc=5"
-      },
-      "queued_at": "2026-09-20T09:16:51.045787+00:00",
-      "score": 8.0,
-      "why": "Quarterly financial margin details and market reaction for an Indian IT major."
-    },
-    {
-      "headline": "Meta launches Muse AI agent with data handling features",
-      "post": {
-        "created_at": "2026-09-20T04:01:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1789876860250",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Indian Express",
-        "reposts": 0,
-        "text": "Meta launches Muse AI agent: What it can do, and how it handles your data",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc055WThqYTZoY040UVBnbm9YMGxBU3N3NEZMQWZtZXFYZ3JXZTFuY2NmMnJuM2hMMC10RWNtVm5SVFNWaHFTbHlwZUthaDVncWN2QlZISjVqLTNsaHRsTWRrZXRjaHBiRVpGTzd2ZkJCVmVjUWttcXBYVHJ2YzY2Sm5HNHNUdXd5aENFOEpHVUw5ZGpCX0dUV2M3dUozVW1sOTZ1UnJGeXZEbENKRHR5dmpLaXk4Mktu0gG_AUFVX3lxTE5iTGdFNW1TTUs4bFF0WTI1ajlISGJkSFF2V3l0MnUzSnFBZllmZ0IxTXRiQ3hCLVNRdjN1WjNORnc4MEZOZGJ1RVlaUUJoTERxYi1KZG1ZQzhLbmZRUUdKakFtcDhFZURncld0MjRZVGE1eVFxY3F3QnBTa1hYZ19uV3I5VmMxMFctSi0zRVUxU3J0bnAyR0REalhjN0pkdlc4VFZ1b0x1bVJMRTBTN2xEbXlNOFJieEUwdFBIRFRZ?oc=5"
-      },
-      "queued_at": "2026-09-20T09:16:51.045787+00:00",
-      "score": 7.0,
-      "why": "Major AI company product launch from a watched firm."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -14079,19 +14016,19 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789894440684,
     "news: consumer internet india": 1789892801423,
-    "news: global ai": 1789894993254,
+    "news: global ai": 1789896252953,
     "news: global chips": 1789892584689,
-    "news: global it services": 1789892809321,
+    "news: global it services": 1789895755395,
     "news: india ai deeptech": 1789894982549,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789893084288,
-    "news: india semiconductors": 1789892858188,
+    "news: india fintech": 1789896026023,
+    "news: india semiconductors": 1789895480817,
     "news: india tech policy": 1789889984937,
     "news: india telecom": 1789892413480,
     "news: indian it majors": 1789894659625,
     "news: indian it midcaps": 1789857181386,
-    "news: pib releases": 1789888135240,
-    "news: tech leaders": 1789889582245,
+    "news: pib releases": 1789889786925,
+    "news: tech leaders": 1789895613468,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14123,17 +14060,17 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T09:16:51.361978+00:00",
+    "last_server_run": "2026-09-20T09:32:16.737086+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-20T07:17:29.754455+00:00",
+        "checked": "2026-09-20T09:32:32.697403+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-20T07:17:21.962195+00:00",
+        "checked": "2026-09-20T09:32:24.761031+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -14209,7 +14146,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-20T07:17:25.866199+00:00",
+        "checked": "2026-09-20T09:32:28.617000+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
