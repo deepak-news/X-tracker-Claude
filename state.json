@@ -11543,10 +11543,24 @@
     "1789926398911",
     "1789926635670",
     "1789926791291",
-    "1789927166060"
+    "1789927166060",
+    "1789852752557",
+    "1789852919919",
+    "1789878900143",
+    "1789883884647",
+    "1789906154965",
+    "1789911420131",
+    "1789915500548",
+    "1789920275474",
+    "1789921802496",
+    "1789922913408",
+    "1789925613688",
+    "1789925804981",
+    "1789926850994",
+    "1789927639308"
   ],
   "last_digest_hour": "2026-09-20T23",
-  "last_success": "2026-09-20T18:02:02.126664+00:00",
+  "last_success": "2026-09-20T18:17:01.590985+00:00",
   "national": {
     "alerted": [
       {
@@ -12650,7 +12664,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T18:02:34.668837+00:00",
+    "last_run": "2026-09-20T18:17:34.264331+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13640,6 +13654,24 @@
       "queued_at": "2026-09-20T17:46:46.259494+00:00",
       "score": 7.0,
       "why": "High-profile statements by Jensen Huang on AI sentiment carry wire weight, though similar views were noted earlier."
+    },
+    {
+      "headline": "$1 billion size puts ITC Infotech on accelerated growth path",
+      "post": {
+        "created_at": "2026-09-20T17:54:10+00:00",
+        "handle": "News: Global IT services",
+        "id": "1789926850994",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "$1 bn size puts ITC Infotech on accelerated growth path: Sanjiv Puri",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWhfR0pVUmZMd2ZUZUJjQUNoclp2RkRXeE8zby1vQ2tlTlZqM3oxSk9mc3pISkxwME1yb1NKZGd6U3hLSjdKdnJKQVBYNk9vZU1XUDZ1c0FlQmxWUVVvVmpnR05WUEJjTGpUUTM4bzQxb041Y0RpZjlUelBqb3hIWE9Lc29ubXZ1dm9JaHowdUs3TDhoVno4bS1ZbE9JUGpzVGxxWU1TVVFVSGl2ZWxUVzI2VkwwRHRxcTJQZXBPRnNfY0VSMGN0YktJNmlvRUlMa2Zr0gHYAUFVX3lxTFB3SVJ4dTAxU0FUd3JsS3oxb01pZmlrU1NDRmdIWnE1WUxCZ2hnclQ4MFYyTy0yNEdvZ3J4c0pRR25fclVOMS1ycXJnOE9iYkFINy1VNUU5ZnRXSVUyWnM2RkZ6Wlh6OGUxUm1SMlUwREVYSWRqWUtON1djajU3T2J1M3hnTFoxLVZEMkZpR1FfTkFHYXZwZUJzQ3FYNlloaWNWclhkUXJ4WldKNjJISEtzRlIxUEdmV0NRcFJaOEpCeC1zSGhONVB6S1RGWEFHSW5Ra3JySUdUdQ?oc=5"
+      },
+      "queued_at": "2026-09-20T18:17:01.590055+00:00",
+      "score": 8.0,
+      "why": "A major milestone and growth strategy update for an Indian IT services firm from its chairman."
     }
   ],
   "page_links": {
@@ -14624,10 +14656,10 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789922137393,
-    "news: consumer internet india": 1789926352813,
+    "news: consumer internet india": 1789927639308,
     "news: global ai": 1789926118410,
     "news: global chips": 1789925821949,
-    "news: global it services": 1789923958904,
+    "news: global it services": 1789926850994,
     "news: india ai deeptech": 1789917489903,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789927166060,
@@ -14669,7 +14701,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T18:02:02.372191+00:00",
+    "last_server_run": "2026-09-20T18:17:01.814115+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T16:17:27.252137+00:00",
