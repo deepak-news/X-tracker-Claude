@@ -1,45 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T13:16:35.934942+00:00",
-      "handle": "News: India telecom",
-      "headline": "Reliance Jio and Canva partner to offer AI design tools in India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObGdEWVk1cjhqdDF2NUhXZUhmZWNwV2FDVUR5Zk9ZSVN5VmE4YnVQb1E2anl3NHFxdHpvWTltZ1E2T1g2WFphVk5NOHA4UG51QlJzbFctdGRjamtJUnpRTE44S1BRNm5vZVJncTNHMjdUYnUxYkVfUTFHS2dzX19GNnFSUG5SQWJ1VWFEREszU0xQVE1MOFMySU9jMnF3bEs4TzFVZE16eDZVNnB0a0hpTVNpcHhzVmc?oc=5",
-      "words": [
-        "across",
-        "bring",
-        "canva",
-        "design",
-        "forces",
-        "free",
-        "jio",
-        "join",
-        "millions",
-        "powered",
-        "tools"
-      ]
-    },
-    {
-      "at": "2026-09-15T13:31:37.759390+00:00",
-      "handle": "News: India telecom",
-      "headline": "Tata Communications issues Rs 400 crore commercial paper and settles Canadian tax claims",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSExLNGRwU1pmTTNmbnRRMGhiWUZOU0lVYjNncmxUUFBQUG1oSzlaUVlnTUJaODZtVlRHazd2RjlMUW9SVmh2M3BCT2c5dmJyUE9MaXdzM2pEajRMWUdDYmxIZEVyT21CU1VNV1dNTjM2R0FFZjVjVkNuWTNsVmtUT2dOR2k1V3p5aENuMTVTRFNLRTRHZ19McFdQemtwNm94X2RUdnNYU2lid00?oc=5",
-      "words": [
-        "400",
-        "canadian",
-        "claims",
-        "commercial",
-        "communications",
-        "issues",
-        "paper",
-        "settles",
-        "tata",
-        "tax"
-      ]
-    },
-    {
       "at": "2026-09-15T14:02:27.435264+00:00",
       "handle": "News: India fintech",
       "headline": "NPCI notifies 0.4% UPI MDR on merchant transactions from October 1",
@@ -7350,6 +7311,45 @@
         "sparing",
         "while"
       ]
+    },
+    {
+      "at": "2026-09-20T15:32:15.910076+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Nvidia CEO Jensen Huang supports California billionaire wealth tax",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0VBT29ONjVhX2hGN0FaRjhVWWpZZXlhLTA1NGU1S3RUWDFOVkFnOEpfWklOdHZQT0lwcDlnRm1kdU1EaEw2b0VuSGlyRWNScWRIM2dQdENOTUJ1bXRpTFhlR0N4V2tmZWQyLVBSb0dwQVd6R2VVVTBmT1p1Yjd5X1NKcw?oc=5",
+      "words": [
+        "billionaire",
+        "california",
+        "ceo",
+        "fine",
+        "huang",
+        "jensen",
+        "nvidia",
+        "paying",
+        "perfectly",
+        "proposed",
+        "tax",
+        "taxes",
+        "under",
+        "wealth"
+      ]
+    },
+    {
+      "at": "2026-09-20T15:32:15.910076+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Satya Nadella says AI must remain under human control",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tQl9mXy1RYXV2MTdpRmt1NWJNY1ZjcldiM3RwSThmVHNVMkdaSjJodGh2RV9DOVp3ZnVNdGp3NUI3RktweGVETmlBR1BTN1NvN1FJVHBNOVRENzQ3U3NiTXpYWUNvNjdzbGFsTjR6ZEhPQU1Qdk5DUg?oc=5",
+      "words": [
+        "control",
+        "human",
+        "must",
+        "nadella",
+        "remain",
+        "satya",
+        "under"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -11384,10 +11384,29 @@
     "1789916560765",
     "1789916832556",
     "1789916890933",
-    "1789916988950"
+    "1789916988950",
+    "1789832034530",
+    "1789842814281",
+    "1789873320144",
+    "1789876860647",
+    "1789881162042",
+    "1789887559544",
+    "1789892510224",
+    "1789903080538",
+    "1789904250423",
+    "1789907376757",
+    "1789907940407",
+    "1789907940938",
+    "1789912980017",
+    "1789913621479",
+    "1789916460120",
+    "1789916729313",
+    "1789917377587",
+    "1789917489269",
+    "1789917610527"
   ],
-  "last_digest_hour": "2026-09-20T20",
-  "last_success": "2026-09-20T15:17:02.451850+00:00",
+  "last_digest_hour": "2026-09-20T21",
+  "last_success": "2026-09-20T15:32:15.911325+00:00",
   "national": {
     "alerted": [
       {
@@ -12491,7 +12510,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T15:19:18.733656+00:00",
+    "last_run": "2026-09-20T15:32:48.544059+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13399,9 +13418,6 @@
         "count": 15,
         "until": "2026-09-20T16:47:06.382503+00:00"
       },
-      "IMD": {
-        "count": 1
-      },
       "State: Maharashtra": {
         "count": 15,
         "until": "2026-09-20T16:47:06.382503+00:00"
@@ -13429,44 +13445,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Nvidia CEO Jensen Huang supports California billionaire wealth tax",
-      "post": {
-        "created_at": "2026-09-20T14:31:22+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1789914682291",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Crypto Briefing",
-        "reposts": 0,
-        "text": "Nvidia CEO Jensen Huang says he's 'perfectly fine' paying $8B in taxes under California's proposed billionaire wealth tax",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0VBT29ONjVhX2hGN0FaRjhVWWpZZXlhLTA1NGU1S3RUWDFOVkFnOEpfWklOdHZQT0lwcDlnRm1kdU1EaEw2b0VuSGlyRWNScWRIM2dQdENOTUJ1bXRpTFhlR0N4V2tmZWQyLVBSb0dwQVd6R2VVVTBmT1p1Yjd5X1NKcw?oc=5"
-      },
-      "queued_at": "2026-09-20T14:47:04.192164+00:00",
-      "score": 7.0,
-      "why": "A statement by a major tech CEO on taxation and policy is newsworthy."
-    },
-    {
-      "headline": "Satya Nadella says AI must remain under human control",
-      "post": {
-        "created_at": "2026-09-20T15:00:29+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1789916429537",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Indiawest",
-        "reposts": 0,
-        "text": "Satya Nadella Says AI Must Remain Under Human Control",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tQl9mXy1RYXV2MTdpRmt1NWJNY1ZjcldiM3RwSThmVHNVMkdaSjJodGh2RV9DOVp3ZnVNdGp3NUI3RktweGVETmlBR1BTN1NvN1FJVHBNOVRENzQ3U3NiTXpYWUNvNjdzbGFsTjR6ZEhPQU1Qdk5DUg?oc=5"
-      },
-      "queued_at": "2026-09-20T15:02:26.847255+00:00",
-      "score": 7.0,
-      "why": "Major tech CEO statement on AI governance and industry direction is newsworthy."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -14453,14 +14432,14 @@
     "news: global ai": 1789915404214,
     "news: global chips": 1789912737536,
     "news: global it services": 1789914420559,
-    "news: india ai deeptech": 1789894982549,
+    "news: india ai deeptech": 1789917489269,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789916988950,
     "news: india semiconductors": 1789914448354,
     "news: india tech policy": 1789903066309,
-    "news: india telecom": 1789916890933,
-    "news: indian it majors": 1789912683223,
-    "news: indian it midcaps": 1789909740223,
+    "news: india telecom": 1789917610527,
+    "news: indian it majors": 1789916729313,
+    "news: indian it midcaps": 1789916729313,
     "news: pib releases": 1789910340708,
     "news: tech leaders": 1789916560765,
     "nvidia": 1789650055203,
@@ -14494,7 +14473,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T15:17:02.796380+00:00",
+    "last_server_run": "2026-09-20T15:32:16.197366+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T14:02:50.795929+00:00",
