@@ -11243,10 +11243,24 @@
     "1789908162744",
     "1789908437092",
     "1789908939327",
-    "1789909132670"
+    "1789909132670",
+    "1789824304521",
+    "1789826280625",
+    "1789870144448",
+    "1789874509804",
+    "1789886365070",
+    "1789891874280",
+    "1789904148427",
+    "1789905206653",
+    "1789907400701",
+    "1789909001566",
+    "1789909036385",
+    "1789909200533",
+    "1789909471563",
+    "1789909758718"
   ],
   "last_digest_hour": "2026-09-20T18",
-  "last_success": "2026-09-20T13:02:18.429960+00:00",
+  "last_success": "2026-09-20T13:16:50.895467+00:00",
   "national": {
     "alerted": [
       {
@@ -12140,6 +12154,28 @@
           "sep",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-20T13:17:29.157480+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.4 earthquake -- 68 km NNE of Kainantu, Papua New Guinea.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirh",
+        "words": [
+          "116",
+          "2026",
+          "deep",
+          "earthquake",
+          "guinea",
+          "ist",
+          "kainantu",
+          "magnitude",
+          "nne",
+          "papua",
+          "reported",
+          "sep",
+          "usgs"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -12328,7 +12364,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T13:02:47.199577+00:00",
+    "last_run": "2026-09-20T13:17:29.158054+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13223,7 +13259,9 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-shooters-sonam-uttam-maskar-elavenil-valarivan-and-vidarsa-k-vinod-on-winning-silver-medal-at-the-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-shooter-elavenil-valarivan-on-winning-silver-medal-at-the-asian-games",
       "pib:2312728",
-      "pib:2312723"
+      "pib:2312723",
+      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-national-green-tribunal",
+      "quake:usgs:us7000tirh"
     ],
     "source_failures": {
       "CBI": {
@@ -14296,16 +14334,16 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789907401074,
     "news: consumer internet india": 1789906603377,
-    "news: global ai": 1789905319516,
+    "news: global ai": 1789909471563,
     "news: global chips": 1789906732812,
     "news: global it services": 1789907758904,
     "news: india ai deeptech": 1789894982549,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789909132670,
-    "news: india semiconductors": 1789908939327,
+    "news: india semiconductors": 1789909758718,
     "news: india tech policy": 1789903066309,
     "news: india telecom": 1789906763925,
-    "news: indian it majors": 1789897161510,
+    "news: indian it majors": 1789907400701,
     "news: indian it midcaps": 1789903200721,
     "news: pib releases": 1789902293474,
     "news: tech leaders": 1789907669321,
@@ -14340,7 +14378,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T13:02:18.688112+00:00",
+    "last_server_run": "2026-09-20T13:16:51.210377+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T11:47:11.356747+00:00",
