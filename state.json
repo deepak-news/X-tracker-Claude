@@ -11568,10 +11568,23 @@
     "1789927087697",
     "1789929056002",
     "1789929497498",
-    "1789929613362"
+    "1789929613362",
+    "1789856917696",
+    "1789862439345",
+    "1789864456441",
+    "1789885560420",
+    "1789886400285",
+    "1789888631238",
+    "1789907788381",
+    "1789911240438",
+    "1789917600214",
+    "1789925138400",
+    "1789929660144",
+    "1789930542758",
+    "1789930770556"
   ],
   "last_digest_hour": "2026-09-21T00",
-  "last_success": "2026-09-20T18:46:56.970602+00:00",
+  "last_success": "2026-09-20T19:02:19.844365+00:00",
   "national": {
     "alerted": [
       {
@@ -12675,7 +12688,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T18:47:31.940824+00:00",
+    "last_run": "2026-09-20T19:02:58.761649+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14626,7 +14639,7 @@
     "news: indian it majors": 1789929613362,
     "news: indian it midcaps": 1789919220535,
     "news: pib releases": 1789926164580,
-    "news: tech leaders": 1789925580205,
+    "news: tech leaders": 1789930770556,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14658,7 +14671,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T18:46:57.293493+00:00",
+    "last_server_run": "2026-09-20T19:02:20.137121+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T18:32:26.745758+00:00",
