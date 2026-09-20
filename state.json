@@ -1,20 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T18:16:24.747864+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Fintech startup Fibe secures Sebi approval for Rs 750 crore IPO",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0pUZURWUExwVUx4eks3SVg2OWpreVBqY3hhS1dKSFlyWDZMeDVfT2JSS2Q1T2hNbXgzZkJKY0Jpam10MFZtOTRJT1NEUjNadnFoSHNKQlplTmxZY1RleHNMRDJ4UUV5Sk1mU2lfMDltclBaanZIMDVZU1lmTW42cUZTanFtV0U3cXd0R0xZNlMxeFc4djBhWFBFaDY3d0dxMFdGaWZTSVJPcERWNTRqSjloZVB1Z2fSAbcBQVVfeXFMUDNKVGVEVlBMcFVMeHpLN0lYNjlqa3lQamN4YUtXSkhZclg2THg1X09iUktkNU9oTW14M2ZCSmNCaWptdDBWbTk0SU9TRFIzWnZxaEhzSkJaZU5sWWNUZXhzTEQyeFFFeUpNZlNpXzA5bXJQWmp2SDA1WVNZZk1uNnFGU2pxbVdFN3F3dEdMWTZTMXhXOHYwYVhQRWg2N3dHcTBXRmlmU0lST3BEVjU0ako5aGVQdWdn?oc=5",
-      "words": [
-        "750",
-        "approval",
-        "fibe",
-        "gets",
-        "ipo"
-      ]
-    },
-    {
       "at": "2026-09-15T18:31:34.855840+00:00",
       "handle": "News: India semiconductors",
       "headline": "Applied Materials invests Rs 3,600 crore in Karnataka semiconductor plant",
@@ -7323,6 +7309,25 @@
         "suleyman",
         "week"
       ]
+    },
+    {
+      "at": "2026-09-20T23:32:15.020346+00:00",
+      "handle": "News: India fintech",
+      "headline": "Government clarifies zero charges for person-to-person UPI transactions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHlsdURBMmdTWFRCTDVheUhaTEZxVzc0ZXFudXdCTi1mXzRBUDJxNndJa1Q5MGFBeFY4T1dRamFVc3JYNlVLYWlvekJmOGdvMXFhOFdTNzdRLXlZSXNrSnpxeHI2R0J6ZEhmb1R2MHZ0cHdqSXRPRUVQdjNCUFJ3VUtpcVRrRmg0dzV0Q2syN3lhbnFUdzZoNFMtaWR4aWN0Snc?oc=5",
+      "words": [
+        "all",
+        "amount",
+        "charges",
+        "govt",
+        "irrespective",
+        "person",
+        "there",
+        "transactions",
+        "transferred",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -11735,10 +11740,20 @@
     "1789944601578",
     "1789945594393",
     "1789945732054",
-    "1789945815842"
+    "1789945815842",
+    "1789879356962",
+    "1789903380037",
+    "1789903380186",
+    "1789907523134",
+    "1789917483034",
+    "1789931740449",
+    "1789945502340",
+    "1789945815841",
+    "1789946700382",
+    "1789946814583"
   ],
-  "last_digest_hour": "2026-09-21T04",
-  "last_success": "2026-09-20T23:17:01.928797+00:00",
+  "last_digest_hour": "2026-09-21T05",
+  "last_success": "2026-09-20T23:32:15.021657+00:00",
   "national": {
     "alerted": [
       {
@@ -12903,7 +12918,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T23:18:11.260980+00:00",
+    "last_run": "2026-09-20T23:33:15.317702+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13842,26 +13857,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Government clarifies zero charges for person-to-person UPI transactions",
-      "post": {
-        "created_at": "2026-09-20T22:28:10+00:00",
-        "handle": "News: India fintech",
-        "id": "1789943290600",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "News On AIR",
-        "reposts": 0,
-        "text": "Govt says, there will be no charges at all for person-to-person UPI transactions, irrespective of amount transferred",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHlsdURBMmdTWFRCTDVheUhaTEZxVzc0ZXFudXdCTi1mXzRBUDJxNndJa1Q5MGFBeFY4T1dRamFVc3JYNlVLYWlvekJmOGdvMXFhOFdTNzdRLXlZSXNrSnpxeHI2R0J6ZEhmb1R2MHZ0cHdqSXRPRUVQdjNCUFJ3VUtpcVRrRmg0dzV0Q2syN3lhbnFUdzZoNFMtaWR4aWN0Snc?oc=5"
-      },
-      "queued_at": "2026-09-20T23:17:01.927876+00:00",
-      "score": 8.0,
-      "why": "Direct policy clarification from the government addressing ongoing UPI fee disputes and trader concerns."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -14850,14 +14846,14 @@
     "news: global it services": 1789939108925,
     "news: india ai deeptech": 1789931687709,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789945732054,
+    "news: india fintech": 1789946814583,
     "news: india semiconductors": 1789945594393,
-    "news: india tech policy": 1789934743021,
+    "news: india tech policy": 1789945502340,
     "news: india telecom": 1789940513097,
     "news: indian it majors": 1789940642065,
     "news: indian it midcaps": 1789932497325,
     "news: pib releases": 1789938733841,
-    "news: tech leaders": 1789939906377,
+    "news: tech leaders": 1789946700382,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14890,7 +14886,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T23:17:02.189331+00:00",
+    "last_server_run": "2026-09-20T23:32:15.344263+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T23:03:42.873343+00:00",
