@@ -1,45 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T09:01:48.106596+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Motilal Oswal deploys Zoho platform across 10,000 users",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN2ZGbzJwTUMteTIxMFA2SF81RUY4UVpTNWQycU9UMGhOaVc4bkdLeFBFbGx0ZGxONFl2R2ZPNGpnVjF6MGlaZE5NcjZXdXZCbEF4ZmF6dWJiWjJpMUFFSnBYTm5NTmFGdnZMV1Qwd3M4WThKNUJNamUtTnlTWmpuZkVvc0NPNG9jRW1Remk3YWFyTmdtRHVOZVhiUE1aWVFjU2ltMDdscGtJX2t6ZFFoYnE2aUFBNTZIYjlBZmJDVTR3R3d6N3hLU19zcjhpWGNYakI5R1p6alhGbGw5Skd2bzNNONIB6AFBVV95cUxQNzJ5NGVsb3BPMS0xUHV6U2xwSEYxbldyNVNfcF9XMXk2ZDZUOHZrdHB5TFlNV0VrdVRvcWUtSlBTU0VieGl0MGtlSURUblBwWnVpWWM5NlgyY0p2cEc4Z0phV3g0UnpyZE1LS1FPWnRLMjFXWm1JalZUOW1oZkdfSTVlLWczMF9hQmcyc253YlFidHlmekFLckhwaW4tMmd4YlZqZDNTRFpHcUthNTI3MUs2S1pmeC1lUkRYRkZGTUlkaTh1U3JHMDRndDQxU2RxU1czb3g1MUw2V2VEMXpPek9EWnJlR3hx?oc=5",
-      "words": [
-        "000",
-        "across",
-        "business",
-        "deploys",
-        "motilal",
-        "oswal",
-        "platform",
-        "users",
-        "verticals",
-        "zoho"
-      ]
-    },
-    {
-      "at": "2026-09-15T09:16:16.934495+00:00",
-      "handle": "News: Global AI",
-      "headline": "AI chip startup Euclyd raises EUR 200 million from Samsung",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOckQwcVROVWtKOXp0Qkd0d2FHY1RZR0V2Y29VTWNDbVdIS2JmTWJOMDZ0cHlmWXdsUzVDT1Q0ejJ4MWs2WS1yQ3ZteWZIS2RuZkxCdjE2MVlGbXVRMU9ZMmlHbENjYVBVVXpJLWhNLVdyWGhTYUdxcElOZDczVDMxM3R2OFpObVBBRUZxcXBIaHI4SDlFSlprVXZrUjgxZWpvaGYtWjdYNUZsRDhGRHZtam5hS2ZkeThqWGF4aWRwS01HbG8?oc=5",
-      "words": [
-        "200",
-        "chip",
-        "euclyd",
-        "eur",
-        "inferencing",
-        "investors",
-        "mln",
-        "other",
-        "raises",
-        "samsung",
-        "startup"
-      ]
-    },
-    {
       "at": "2026-09-15T09:46:52.115933+00:00",
       "handle": "News: Global IT services",
       "headline": "Cognizant shares rise on AI-driven growth and 2026 outlook",
@@ -7346,6 +7307,44 @@
         "transactions",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-20T11:32:11.773714+00:00",
+      "handle": "News: Global AI",
+      "headline": "StepFun launches Step 5 preview 600B AI model.",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdUpTZy1KZGJDZXZ0bEJzTjZPa0JnU2pKbmZwTzg2LURxVEppQk1sZHRSaktHdFpvMlEtUi1WM0FfcXZMcmRIYVhZZVdwMDVmS3JmWXRfNlpnQkxwOEExUWhLcWhOOTZHTzNfZV8yY09NNndnamVVMUhJWGJ1UU82MWsxQmJ6S3A1Q3p3Z3EySGRiZw?oc=5",
+      "words": [
+        "600b",
+        "china",
+        "launches",
+        "model",
+        "preview",
+        "step",
+        "stepfun",
+        "tokens"
+      ]
+    },
+    {
+      "at": "2026-09-20T11:32:11.773714+00:00",
+      "handle": "News: India fintech",
+      "headline": "Petrol pumps and businesses to refuse UPI above Rs 2,000",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMnhJS1FrTWY0QU5pLVJuZWh5bU5EUk5qN3o1SmVFRXE1ZEl3cUxxdC1ocmxjck1YTW9rckNsMG9BYVM3MlpOenZnNkM4aG91NFhOeXZwYTBJeF9pYnkwMm1LZkN3bWx4UzRna0lxMEt3a21pTE9TOUo3c05CTlpLblFOVUV0NFlwV25nU2FoaGV0eXVfbTFoSXNrMm1lVzI3YmFpVmtGdjZvWC1LTDdCVEt5X1M4bzgxaXVoWkJ3MlgtVUxSVmtPZVdzLXZKcl9mTFNwT1Z2THhWTkxmVXJQWDRB0gHnAUFVX3lxTFBKU3VXNG9aWWs0dGU1QkYtSWg0eVN3SGJrS2hoTVNqbkFZMU5mOGo2cWxNd05VNHFEWXF6SEJlMHJjaU1ZRXhuWGxIQjIyMThTRG1WQmVMbkprUXZCVExtZDhnYWdhWEt0U0p1d3lzSGpKY2ZWR200QjdoRTZsWGg5QmhhNUNtTEVBLU5MOUhBcjNYT3E2a2tfT3pnTlJDU2dxQ0JfUlNGOWl5dldXREZvYnFkNnU4elZ6MVZPN0t5ZTRDc0pMM3cxNEY3Mmw1VFNQZW1ZSkpoLXJWZXhhNmw2a2g2NDdYbw?oc=5",
+      "words": [
+        "000",
+        "above",
+        "businesses",
+        "legal",
+        "oct",
+        "other",
+        "payments",
+        "petrol",
+        "pumps",
+        "refuse",
+        "several",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -11135,10 +11134,29 @@
     "1789902001596",
     "1789902150670",
     "1789902556315",
-    "1789902570835"
+    "1789902570835",
+    "1789835083425",
+    "1789835779789",
+    "1789845144147",
+    "1789853760731",
+    "1789876539832",
+    "1789882454019",
+    "1789885233634",
+    "1789886744550",
+    "1789892660224",
+    "1789896393399",
+    "1789897846490",
+    "1789898017358",
+    "1789898225668",
+    "1789898552027",
+    "1789902374032",
+    "1789902861155",
+    "1789903411107",
+    "1789903601986",
+    "1789903609321"
   ],
-  "last_digest_hour": "2026-09-20T16",
-  "last_success": "2026-09-20T11:16:42.897556+00:00",
+  "last_digest_hour": "2026-09-20T17",
+  "last_success": "2026-09-20T11:32:11.775043+00:00",
   "national": {
     "alerted": [
       {
@@ -12220,7 +12238,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T11:17:14.244408+00:00",
+    "last_run": "2026-09-20T11:32:52.526436+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13107,7 +13125,9 @@
       "quake:usgs:us7000tiqc",
       "pib:2312667",
       "pib:2312680",
-      "pib:2312689"
+      "pib:2312689",
+      "pib:2312708",
+      "pib:2312709"
     ],
     "source_failures": {
       "CBI": {
@@ -13141,44 +13161,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "StepFun launches Step 5 preview 600B AI model.",
-      "post": {
-        "created_at": "2026-09-20T10:55:20+00:00",
-        "handle": "News: Global AI",
-        "id": "1789901720098",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Eastern Herald",
-        "reposts": 0,
-        "text": "StepFun Launches Step 5 Preview: China's 600B AI Model at $1/M Tokens",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdUpTZy1KZGJDZXZ0bEJzTjZPa0JnU2pKbmZwTzg2LURxVEppQk1sZHRSaktHdFpvMlEtUi1WM0FfcXZMcmRIYVhZZVdwMDVmS3JmWXRfNlpnQkxwOEExUWhLcWhOOTZHTzNfZV8yY09NNndnamVVMUhJWGJ1UU82MWsxQmJ6S3A1Q3p3Z3EySGRiZw?oc=5"
-      },
-      "queued_at": "2026-09-20T11:02:16.308750+00:00",
-      "score": 7.0,
-      "why": "Major new AI model launch with hard specs and pricing details qualifies as a filable global AI story."
-    },
-    {
-      "headline": "Petrol pumps and businesses to refuse UPI above Rs 2,000",
-      "post": {
-        "created_at": "2026-09-20T10:09:56+00:00",
-        "handle": "News: India fintech",
-        "id": "1789898996108",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "WION",
-        "reposts": 0,
-        "text": "Several petrol pumps, other businesses to refuse UPI payments above Rs 2,000 from Oct 16: Is it legal?",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMnhJS1FrTWY0QU5pLVJuZWh5bU5EUk5qN3o1SmVFRXE1ZEl3cUxxdC1ocmxjck1YTW9rckNsMG9BYVM3MlpOenZnNkM4aG91NFhOeXZwYTBJeF9pYnkwMm1LZkN3bWx4UzRna0lxMEt3a21pTE9TOUo3c05CTlpLblFOVUV0NFlwV25nU2FoaGV0eXVfbTFoSXNrMm1lVzI3YmFpVmtGdjZvWC1LTDdCVEt5X1M4bzgxaXVoWkJ3MlgtVUxSVmtPZVdzLXZKcl9mTFNwT1Z2THhWTkxmVXJQWDRB0gHnAUFVX3lxTFBKU3VXNG9aWWs0dGU1QkYtSWg0eVN3SGJrS2hoTVNqbkFZMU5mOGo2cWxNd05VNHFEWXF6SEJlMHJjaU1ZRXhuWGxIQjIyMThTRG1WQmVMbkprUXZCVExtZDhnYWdhWEt0U0p1d3lzSGpKY2ZWR200QjdoRTZsWGg5QmhhNUNtTEVBLU5MOUhBcjNYT3E2a2tfT3pnTlJDU2dxQ0JfUlNGOWl5dldXREZvYnFkNnU4elZ6MVZPN0t5ZTRDc0pMM3cxNEY3Mmw1VFNQZW1ZSkpoLXJWZXhhNmw2a2g2NDdYbw?oc=5"
-      },
-      "queued_at": "2026-09-20T11:16:42.896253+00:00",
-      "score": 7.0,
-      "why": "This is a direct development in the ongoing UPI fee and merchant discount rate controversy."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -14164,13 +14147,13 @@
     "news: consumer internet india": 1789901085374,
     "news: global ai": 1789902001596,
     "news: global chips": 1789892584689,
-    "news: global it services": 1789895755395,
+    "news: global it services": 1789903609321,
     "news: india ai deeptech": 1789894982549,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789902570835,
-    "news: india semiconductors": 1789900959480,
+    "news: india semiconductors": 1789903601986,
     "news: india tech policy": 1789900679763,
-    "news: india telecom": 1789900054308,
+    "news: india telecom": 1789902861155,
     "news: indian it majors": 1789897161510,
     "news: indian it midcaps": 1789857181386,
     "news: pib releases": 1789896544400,
@@ -14206,7 +14189,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T11:16:43.232739+00:00",
+    "last_server_run": "2026-09-20T11:32:12.094593+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T09:32:32.697403+00:00",
