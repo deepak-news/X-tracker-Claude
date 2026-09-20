@@ -11605,10 +11605,18 @@
     "1789926850713",
     "1789928100718",
     "1789931520499",
-    "1789931640739"
+    "1789931640739",
+    "1789897156830",
+    "1789922319698",
+    "1789927613939",
+    "1789931687709",
+    "1789931833521",
+    "1789932497325",
+    "1789932700636",
+    "1789932877315"
   ],
   "last_digest_hour": "2026-09-21T01",
-  "last_success": "2026-09-20T19:32:22.429827+00:00",
+  "last_success": "2026-09-20T19:46:53.774585+00:00",
   "national": {
     "alerted": [
       {
@@ -12712,7 +12720,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T19:32:53.615204+00:00",
+    "last_run": "2026-09-20T19:47:25.891155+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13648,7 +13656,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Petrol stations to shun UPI transfers over Rs 2K from Oct 16",
+      "post": {
+        "created_at": "2026-09-20T19:31:40+00:00",
+        "handle": "News: India fintech",
+        "id": "1789932700636",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Tribune",
+        "reposts": 0,
+        "text": "Amid levy concerns, petrol stations to shun UPI transfer over Rs 2K from Oct 16",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXN6TEMyb2FhbHFacV9mZFQ5WEd0VVd4bTN6Qzc3a2VYeDJ6MTcyTVhFQW9IaVplZlY5R1ZCTS1RRUJkT3BGZkRsN1JuaC0xMTA2M0pWOWp1OUNuNm42VGhuUDVHc0VydVUzNlN2WG91cFpOOGp3cmNPRnB4S2hub0ZENi1YenIxbk9QTjhFVkRRdThVMzltWGctajNyZm1RcDIteGloaEVPbGpydXlYY3Rza0VIcUYxQ1ctZNIBwAFBVV95cUxNUjljVEVNbnNFTXhJMDluSEdNRVRtMVpfXzloX2J1aGdYM3V3TU5EcFU2TXNDRmprM0lUYldMblFCTkl3V1ZIZ1V6NUswdzItanN0VjdmWW9XU1NpSno1alFlNWZBSmRPMXphc3dDdVZwZ1Zja2Z0ZXZMaDJZXy1CSVBuT05Ed21LcmJLbkJnam1SX2ZCSzhSMmhFcDlaMGMxQVNlb0hfNi1fZ0pKbkNtRHJUVzAxSHlYN05GMGMwUnY?oc=5"
+      },
+      "queued_at": "2026-09-20T19:46:53.773459+00:00",
+      "score": 8.0,
+      "why": "Direct development on the ongoing petrol pump UPI fee protests already tracked."
+    },
+    {
+      "headline": "Mphasis stock slips amid investor watch on earnings",
+      "post": {
+        "created_at": "2026-09-20T19:34:37+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1789932877315",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "AD HOC NEWS",
+        "reposts": 0,
+        "text": "Mphasis stock slips as investors watch earnings and guidance",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWtoMXRJd3hWUWl5aDAzVWluMkN6V3I0WnlPRkZzZTVBMFRPV2RtY29tVEFBdEV4R21iRHhXQV85SFhjZGdva2tPV3FqUU5FNzhiR3VKV0lONVBYTlFubHl6QTFpZ1BVQ05UbzZSM0dpSU9oeTlSb3AxTndENVZiYnpGaGhSWmc5aUVMeTlpN2dlZnJ0Y2M0Q0VhYnU0VzFxb0RQQzZDWndhNVhsRnUxa29hTHIzOGttLW1z?oc=5"
+      },
+      "queued_at": "2026-09-20T19:46:53.773459+00:00",
+      "score": 7.0,
+      "why": "Market reaction to IT earnings and guidance is a filable wire story."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -14635,16 +14680,16 @@
     "news: global ai": 1789926118410,
     "news: global chips": 1789930619859,
     "news: global it services": 1789931105567,
-    "news: india ai deeptech": 1789917489903,
+    "news: india ai deeptech": 1789931687709,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789931640739,
+    "news: india fintech": 1789932700636,
     "news: india semiconductors": 1789928100718,
     "news: india tech policy": 1789925684881,
     "news: india telecom": 1789929153686,
-    "news: indian it majors": 1789929613362,
-    "news: indian it midcaps": 1789919220535,
+    "news: indian it majors": 1789932877315,
+    "news: indian it midcaps": 1789932497325,
     "news: pib releases": 1789926164580,
-    "news: tech leaders": 1789930770556,
+    "news: tech leaders": 1789931833521,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14676,7 +14721,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T19:32:22.661038+00:00",
+    "last_server_run": "2026-09-20T19:46:54.090447+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T18:32:26.745758+00:00",
