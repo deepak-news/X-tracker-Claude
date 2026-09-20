@@ -11361,10 +11361,33 @@
     "1789910340576",
     "1789914288872",
     "1789916135670",
-    "1789916429537"
+    "1789916429537",
+    "1789838111702",
+    "1789867809390",
+    "1789868743403",
+    "1789870992890",
+    "1789872042145",
+    "1789874220488",
+    "1789884917441",
+    "1789886766400",
+    "1789893963259",
+    "1789902861451",
+    "1789904880196",
+    "1789908120851",
+    "1789909740223",
+    "1789910340708",
+    "1789910340749",
+    "1789912980502",
+    "1789914102097",
+    "1789914420097",
+    "1789915723103",
+    "1789916560765",
+    "1789916832556",
+    "1789916890933",
+    "1789916988950"
   ],
   "last_digest_hour": "2026-09-20T20",
-  "last_success": "2026-09-20T15:02:26.848382+00:00",
+  "last_success": "2026-09-20T15:17:02.451850+00:00",
   "national": {
     "alerted": [
       {
@@ -12468,7 +12491,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T15:03:25.375432+00:00",
+    "last_run": "2026-09-20T15:19:18.733656+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13367,12 +13390,17 @@
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-national-green-tribunal",
       "quake:usgs:us7000tirh",
       "pib:2312743",
-      "pib:2312747"
+      "pib:2312747",
+      "pib:2312782",
+      "pib:2312783"
     ],
     "source_failures": {
       "CBI": {
         "count": 15,
         "until": "2026-09-20T16:47:06.382503+00:00"
+      },
+      "IMD": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 15,
@@ -14427,14 +14455,14 @@
     "news: global it services": 1789914420559,
     "news: india ai deeptech": 1789894982549,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789916135670,
+    "news: india fintech": 1789916988950,
     "news: india semiconductors": 1789914448354,
     "news: india tech policy": 1789903066309,
-    "news: india telecom": 1789915195758,
+    "news: india telecom": 1789916890933,
     "news: indian it majors": 1789912683223,
-    "news: indian it midcaps": 1789905360972,
-    "news: pib releases": 1789910340576,
-    "news: tech leaders": 1789916429537,
+    "news: indian it midcaps": 1789909740223,
+    "news: pib releases": 1789910340708,
+    "news: tech leaders": 1789916560765,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14466,7 +14494,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T15:02:27.163104+00:00",
+    "last_server_run": "2026-09-20T15:17:02.796380+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T14:02:50.795929+00:00",
