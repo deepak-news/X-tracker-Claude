@@ -10949,10 +10949,30 @@
     "1789885367794",
     "1789887511001",
     "1789888062878",
-    "1789889984937"
+    "1789889984937",
+    "1789812000082",
+    "1789815060918",
+    "1789817330294",
+    "1789821425419",
+    "1789826455245",
+    "1789837620820",
+    "1789860600916",
+    "1789869622932",
+    "1789870082406",
+    "1789875571947",
+    "1789884913713",
+    "1789885925692",
+    "1789887421862",
+    "1789887991278",
+    "1789888542861",
+    "1789888546762",
+    "1789888547039",
+    "1789891224965",
+    "1789891665670",
+    "1789892016267"
   ],
   "last_digest_hour": "2026-09-20T13",
-  "last_success": "2026-09-20T08:02:21.475992+00:00",
+  "last_success": "2026-09-20T08:17:07.975633+00:00",
   "national": {
     "alerted": [
       {
@@ -11993,7 +12013,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T08:02:54.661715+00:00",
+    "last_run": "2026-09-20T08:17:45.829429+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12871,7 +12891,8 @@
       "pib:2312638",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-journalist-payal-mehta-ji",
       "pib:2312645",
-      "quake:usgs:us7000tipl"
+      "quake:usgs:us7000tipl",
+      "page:https://internal.imd.gov.in/press_release/20260920_pr_5328.pdf"
     ],
     "source_failures": {
       "CBI": {
@@ -12923,6 +12944,24 @@
       "queued_at": "2026-09-20T08:02:21.474837+00:00",
       "score": 7.0,
       "why": "A notable product and enterprise expansion by an Indian IT major in the AI domain."
+    },
+    {
+      "headline": "Minister Vaishnaw Warns of Geopolitical Risks in Chip Push",
+      "post": {
+        "created_at": "2026-09-20T06:32:05+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789885925692",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "ET Government",
+        "reposts": 0,
+        "text": "India\u2019s semiconductor rise could invite geopolitical risks, says Ashwini Vaishnaw",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNTFlWE96SlZMOWJzVnd5ZFZDVUplN2RkWXBreTFjcU5XUFdkV0FMbFRnTUVmai1nVzJUcFctM1lsMXRKYmFCMTJ6bHE3bnVIcWtxREctOEJHT2lpQzFsUTU5S1ZxZVcxZFRZQ2RzQlg3c1VFbGRhcHQySFVyUHVfbHNKRThia25lUHh4VkFPZkFjOGNMVVdyUlBNUmpZZE1FZ3FrRUppb2tOZllaUVhCSXVjckx0dXhIYWFNUUJOMmZnM0RCckM0b2YycU5GeDFIdTRDd1JmUlJVWnJqOTVmc1Yya3U0ak5wRG11cVB3?oc=5"
+      },
+      "queued_at": "2026-09-20T08:17:07.974486+00:00",
+      "score": 7.0,
+      "why": "Ministerial statements on semiconductor policy and national strategy directly impact the beat."
     }
   ],
   "page_links": {
@@ -13913,13 +13952,13 @@
     "news: global it services": 1789877173965,
     "news: india ai deeptech": 1789887587709,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789888172670,
-    "news: india semiconductors": 1789887520784,
+    "news: india fintech": 1789891665670,
+    "news: india semiconductors": 1789888547039,
     "news: india tech policy": 1789889984937,
     "news: india telecom": 1789888187982,
-    "news: indian it majors": 1789888328422,
+    "news: indian it majors": 1789892016267,
     "news: indian it midcaps": 1789857181386,
-    "news: pib releases": 1789879985870,
+    "news: pib releases": 1789887991278,
     "news: tech leaders": 1789889582245,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -13952,7 +13991,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T08:02:21.805096+00:00",
+    "last_server_run": "2026-09-20T08:17:08.334668+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T07:17:29.754455+00:00",
