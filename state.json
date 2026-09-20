@@ -11679,10 +11679,19 @@
     "1789916400160",
     "1789929153029",
     "1789931640172",
-    "1789939108925"
+    "1789939108925",
+    "1789856531138",
+    "1789896972527",
+    "1789921680974",
+    "1789932481473",
+    "1789935641757",
+    "1789938259224",
+    "1789939660132",
+    "1789939860112",
+    "1789940513097"
   ],
   "last_digest_hour": "2026-09-21T03",
-  "last_success": "2026-09-20T21:32:19.846574+00:00",
+  "last_success": "2026-09-20T21:46:57.523448+00:00",
   "national": {
     "alerted": [
       {
@@ -12805,7 +12814,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T21:33:21.719492+00:00",
+    "last_run": "2026-09-20T21:47:59.284290+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14725,20 +14734,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789934403087,
-    "news: consumer internet india": 1789934687283,
-    "news: global ai": 1789934100589,
-    "news: global chips": 1789930619859,
+    "news: consumer internet india": 1789938259224,
+    "news: global ai": 1789939860112,
+    "news: global chips": 1789939660132,
     "news: global it services": 1789939108925,
     "news: india ai deeptech": 1789931687709,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789932700978,
     "news: india semiconductors": 1789928100718,
     "news: india tech policy": 1789934743021,
-    "news: india telecom": 1789934625357,
+    "news: india telecom": 1789940513097,
     "news: indian it majors": 1789932877315,
     "news: indian it midcaps": 1789932497325,
     "news: pib releases": 1789927218460,
-    "news: tech leaders": 1789934100589,
+    "news: tech leaders": 1789939860112,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14771,7 +14780,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T21:32:20.080564+00:00",
+    "last_server_run": "2026-09-20T21:46:57.857257+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T20:48:10.024669+00:00",
