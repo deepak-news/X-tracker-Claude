@@ -11214,10 +11214,39 @@
     "1789907305005",
     "1789907401074",
     "1789907669321",
-    "1789907820585"
+    "1789907820585",
+    "1789825951951",
+    "1789826820466",
+    "1789831909321",
+    "1789836600271",
+    "1789836600702",
+    "1789836600735",
+    "1789848754459",
+    "1789865937895",
+    "1789873200986",
+    "1789875266513",
+    "1789880076601",
+    "1789884060641",
+    "1789889325341",
+    "1789893180918",
+    "1789899300953",
+    "1789899658127",
+    "1789900032278",
+    "1789901948027",
+    "1789902293474",
+    "1789903200721",
+    "1789903783606",
+    "1789904542647",
+    "1789905319516",
+    "1789905652197",
+    "1789907758904",
+    "1789908162744",
+    "1789908437092",
+    "1789908939327",
+    "1789909132670"
   ],
   "last_digest_hour": "2026-09-20T18",
-  "last_success": "2026-09-20T12:46:53.163023+00:00",
+  "last_success": "2026-09-20T13:02:18.429960+00:00",
   "national": {
     "alerted": [
       {
@@ -12299,7 +12328,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T12:47:29.317738+00:00",
+    "last_run": "2026-09-20T13:02:47.199577+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13264,6 +13293,24 @@
       "queued_at": "2026-09-20T12:46:53.162041+00:00",
       "score": 8.0,
       "why": "A major industry market size projection with hard numbers from a formal research report counts as a wire story."
+    },
+    {
+      "headline": "ASML begins India operations, links growth to Tata",
+      "post": {
+        "created_at": "2026-09-20T12:55:39+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789908939327",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Rediff MoneyWiz",
+        "reposts": 0,
+        "text": "ASML Begins India Ops, Links Growth to Tata & India's Chip Ambition",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTWdScG94cWx4VlRvV3pvTEZlY3M4b1laRFR0Q2pTcnJIMmJ6ZWRNZ3BWV3J5SHROX1ZWQU9QT1Z3dmhMUkU5cnE2bUoxcXFfb0ZxMkZqUFdRUlA3MVhUU1lXclVoUUR3eV82Sjg1Vy1GOTBVTHpuU3pMcmlwQVFBT1BQLTNUM29KbDVxWkRQLVJnbzhYVGM1ZnZnYWcxN1EyblB2ZjJkbjNiUGtMU2xFVHBxZk1Pd0nSAbwBQVVfeXFMTWpzaGl4aWUzZHR1aElBZml5bWhHVDBqVGJmZmx5QWNDcjJsbnI2am1TajdnNVN4dTYtUnA1T2VYQi1sTlFpaTRDUGtyY0g3Nk1QQk9MMms5RF8zS3JJakVlWllNUzNyVzhmU3ZuZEZneHYwWXRqOEc4bmF6MmVCdENCV2VRSXEzZ3ozSm53aUdxQXJLTE9sRURoZi1FbGwtVGtpcXJFeXZCeFN1RTVjVWtkTVdoQ0RaWEZYdnQ?oc=5"
+      },
+      "queued_at": "2026-09-20T13:02:18.429010+00:00",
+      "score": 8.0,
+      "why": "Major semiconductor equipment maker establishing local ops is a key market development."
     }
   ],
   "page_links": {
@@ -14249,18 +14296,18 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789907401074,
     "news: consumer internet india": 1789906603377,
-    "news: global ai": 1789904100637,
+    "news: global ai": 1789905319516,
     "news: global chips": 1789906732812,
-    "news: global it services": 1789906950195,
+    "news: global it services": 1789907758904,
     "news: india ai deeptech": 1789894982549,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789906076130,
-    "news: india semiconductors": 1789907820585,
+    "news: india fintech": 1789909132670,
+    "news: india semiconductors": 1789908939327,
     "news: india tech policy": 1789903066309,
     "news: india telecom": 1789906763925,
     "news: indian it majors": 1789897161510,
-    "news: indian it midcaps": 1789902900501,
-    "news: pib releases": 1789900529457,
+    "news: indian it midcaps": 1789903200721,
+    "news: pib releases": 1789902293474,
     "news: tech leaders": 1789907669321,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -14293,7 +14340,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T12:46:53.416885+00:00",
+    "last_server_run": "2026-09-20T13:02:18.688112+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T11:47:11.356747+00:00",
