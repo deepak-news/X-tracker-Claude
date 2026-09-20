@@ -10738,10 +10738,31 @@
     "1789878182089",
     "1789878727965",
     "1789878772138",
-    "1789879392172"
+    "1789879392172",
+    "1789794821179",
+    "1789797664329",
+    "1789803898947",
+    "1789804214952",
+    "1789810740529",
+    "1789811204369",
+    "1789811972216",
+    "1789814838224",
+    "1789822961702",
+    "1789823093329",
+    "1789836360899",
+    "1789836412586",
+    "1789839427946",
+    "1789858837095",
+    "1789862880735",
+    "1789874734399",
+    "1789875416001",
+    "1789878732138",
+    "1789878849365",
+    "1789879312665",
+    "1789879472014"
   ],
   "last_digest_hour": "2026-09-20T10",
-  "last_success": "2026-09-20T04:46:44.768451+00:00",
+  "last_success": "2026-09-20T05:02:19.936135+00:00",
   "national": {
     "alerted": [
       {
@@ -11742,7 +11763,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T04:47:27.993398+00:00",
+    "last_run": "2026-09-20T05:03:00.530298+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12646,7 +12667,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "OpenAI CEO Altman urges trust in tech firms on AI risks",
+      "post": {
+        "created_at": "2026-09-20T03:36:56+00:00",
+        "handle": "News: Tech leaders",
+        "id": "1789875416001",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Business Standard",
+        "reposts": 0,
+        "text": "OpenAI CEO Altman urges trust in tech firms to manage AI risks",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSXlBXzNUOTBfa3RzOU1zV3JyX1R3TUpvOC1BMjBVbVBqX0NvSlRpQVNJSTd3bXNzeXp3cmE3RDRKSGtkbi1vSWRmWWIyOWljMnIzRWY0LVZoNHlzaG43cGtKY01qVVdsQUhpWjZucHVONEhnRFlrUE1EUzY0TXJXNEM4QXVXMllFUHNxUWZnR2VrQ1RSandEWjQ3VHNiRjZBR1Rj?oc=5"
+      },
+      "queued_at": "2026-09-20T05:02:19.935005+00:00",
+      "score": 7.0,
+      "why": "Major AI leadership statement on governance and risk management from a key executive."
+    },
+    {
+      "headline": "Broadcom details $35 billion strategy amid AI debate",
+      "post": {
+        "created_at": "2026-09-20T04:41:52+00:00",
+        "handle": "News: Global AI",
+        "id": "1789879312665",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "AD HOC NEWS",
+        "reposts": 0,
+        "text": "Broadcom's $35 Billion Answer to the AI Slowdown Debate",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcnItbzBpbHNMYU1mak9Mc3d2eFRKRUNrVFlCMTBfS0JnX19vR1RYLURHbEFYTDlNN1RwNXVTN2w2TEFYWVlfV0lWb2p3WjlEQTNZNGo0WGlKVjBKUTRoYTBPdmNjZXh5OGFxMFdLM1BRdDNDV3pZaHRPYVhkdnVkUmRBbXd0WHY3UktjVlltMTk1MlJzX1d3MkpKd2JkUWdkTlVLR3F1bGJybDQ4SEt6cVF0UHRoSDFwMEQ1bUxHY0VPd3Zs?oc=5"
+      },
+      "queued_at": "2026-09-20T05:02:19.935005+00:00",
+      "score": 7.0,
+      "why": "Major semiconductor and infrastructure financial commitment addressing the AI market."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -13630,19 +13688,19 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789878182089,
     "news: consumer internet india": 1789878381514,
-    "news: global ai": 1789876800301,
+    "news: global ai": 1789879312665,
     "news: global chips": 1789878727965,
     "news: global it services": 1789877173965,
     "news: india ai deeptech": 1789847737943,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789879392172,
     "news: india semiconductors": 1789877769344,
-    "news: india tech policy": 1789873161094,
+    "news: india tech policy": 1789879472014,
     "news: india telecom": 1789875747951,
-    "news: indian it majors": 1789878772138,
+    "news: indian it majors": 1789878849365,
     "news: indian it midcaps": 1789857181386,
     "news: pib releases": 1789870623468,
-    "news: tech leaders": 1789874312713,
+    "news: tech leaders": 1789875416001,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -13674,7 +13732,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T04:46:45.087120+00:00",
+    "last_server_run": "2026-09-20T05:02:20.250593+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T03:04:33.743099+00:00",
