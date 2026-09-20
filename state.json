@@ -10990,10 +10990,29 @@
     "1789892413480",
     "1789892809321",
     "1789892858188",
-    "1789892899066"
+    "1789892899066",
+    "1789808771746",
+    "1789836343224",
+    "1789840635678",
+    "1789850560324",
+    "1789884060280",
+    "1789884911911",
+    "1789885549472",
+    "1789886267459",
+    "1789887210935",
+    "1789887520011",
+    "1789888032748",
+    "1789888135240",
+    "1789888535548",
+    "1789888536268",
+    "1789888539889",
+    "1789892584689",
+    "1789893028967",
+    "1789893759245",
+    "1789893763077"
   ],
   "last_digest_hour": "2026-09-20T14",
-  "last_success": "2026-09-20T08:32:07.339698+00:00",
+  "last_success": "2026-09-20T08:46:54.285933+00:00",
   "national": {
     "alerted": [
       {
@@ -12034,7 +12053,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T08:32:47.457487+00:00",
+    "last_run": "2026-09-20T08:47:27.936461+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12915,7 +12934,8 @@
       "quake:usgs:us7000tipl",
       "page:https://internal.imd.gov.in/press_release/20260920_pr_5328.pdf",
       "pib:2312657",
-      "pib:2312661"
+      "pib:2312661",
+      "pib:2312662"
     ],
     "source_failures": {
       "CBI": {
@@ -12949,7 +12969,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Wipro AI push frees capacity equal to 20,000 workers",
+      "post": {
+        "created_at": "2026-09-20T08:42:43+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1789893763077",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Trak",
+        "reposts": 0,
+        "text": "Wipro's AI Push Frees Capacity Equal To 20,000 Workers: What It Means",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUlZ0NG9reGo0YTBuaU5RcEhTSEM5MWpaa21sTS10Yld2X0cxTnBNNXg0dmw3dV83SmpjLWVUSDRjeWNld2ZxQUVHbmx4bGM0eVdXeUpZZE9kdVR2SXZUUUgtMWhTZy1lVVJEQWZMUTVyXzZNQ2VpNGo2Ml9CN1lya01aWE9sclRaUF9CYURKRmk2bG92NGc?oc=5"
+      },
+      "queued_at": "2026-09-20T08:46:54.284792+00:00",
+      "score": 8.0,
+      "why": "Major productivity and headcount efficiency metric from a top Indian IT services firm."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -13931,10 +13970,10 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789888465546,
+    "news: big tech platforms": 1789893028967,
     "news: consumer internet india": 1789887637018,
-    "news: global ai": 1789888634771,
-    "news: global chips": 1789889245661,
+    "news: global ai": 1789893759245,
+    "news: global chips": 1789892584689,
     "news: global it services": 1789892809321,
     "news: india ai deeptech": 1789887587709,
     "news: india edtech gaming": 1789812105151,
@@ -13942,9 +13981,9 @@
     "news: india semiconductors": 1789892858188,
     "news: india tech policy": 1789889984937,
     "news: india telecom": 1789892413480,
-    "news: indian it majors": 1789892016267,
+    "news: indian it majors": 1789893763077,
     "news: indian it midcaps": 1789857181386,
-    "news: pib releases": 1789887991278,
+    "news: pib releases": 1789888135240,
     "news: tech leaders": 1789889582245,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -13977,7 +14016,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T08:32:07.647703+00:00",
+    "last_server_run": "2026-09-20T08:46:54.620275+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T07:17:29.754455+00:00",
