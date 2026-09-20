@@ -1,102 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T14:02:27.435264+00:00",
-      "handle": "News: India fintech",
-      "headline": "NPCI notifies 0.4% UPI MDR on merchant transactions from October 1",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQTzNtNlRrWEk2aUxxWEJsMEFsMkwxWXY4VDdLRVBmUlZPRjdLcFByMXl6U2R1TkxhY3A2Wm53emZFcmIwVmtPRkdWRk9nak8zcFlHOUpiMXVxQWQwWWYzdlgzM0JmQXgtcWd1dWlxNVZZdDYzT3kwak1rSlktNGpBVFoybFI3bzNXQ2haYUVwbFpZOU5EYTl0SVVpNGNqT1JmTFQ0TnM2VHdGcWNhV2p6ZUpGQi15eXltTUNoN3pGR3RyYUxXeUd5YlQxNGJQR3FoWWRHMHAwZ3BVMkhnSXNVNVpJMktnTXlkOElLT0RoVzM1alMwbTJsR1ZGVE5KNXVmZmdEckFFRE5KSy1xNkxMc0k5NTFNaWJabG5HMl92WmHSAaYCQVVfeXFMUDhEd0JFbXg4V0pBOVJlU1pkOEFyN0NGMm5FMmxYd1d3REFvN0dpb1VVWUlPS2trZW1VMWJWQ2l5N0pYTTBsZ1FoNGVRLUtodm1hRzlkM0ItQllkaktUV3dBdl9ZTFdrUzNZdTZLMm8yb0cxbURhNU1BbUM1T2liNWcycVpWSGowOGhVV3daV2szQ08wN2pobkRYVThDS1dXdXREWDhYTFhvNWRFTDhoeE9rSVYwLVkzRWY0TGFQMm4wZlh4UmQyWXNjS0hxVHFhWVNTQUFNLU45YVAzN2hndFRPSnFLUVhrazV6a2U5d1dVN25STlZrSi1pMXRveGNzR2Z5Tkp0RlA5SHFqTHZYcWRnQVpXNlRtUTB0cVA2UzFsdlpEc2NR?oc=5",
-      "words": [
-        "applicable",
-        "effective",
-        "fee",
-        "mdr",
-        "merchant",
-        "notified",
-        "npci",
-        "october",
-        "person",
-        "transactions",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-15T14:02:27.435264+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "NTA chief confirms exam body uses sovereign AI on own GPUs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHV1VXgwUDVmdUNmUU5MM1lTc1dUaGJsY3UzUERJTk9xTi1rUXdDU3dNeFl4LTBjMUlqTjNodUUwMVVYVkNUTDk2S05oQVNaeU9sUFA0cFR4Sm4zeE55WFlPbTBGOE1DTVZCOEQ2UEZBSE1HaFFtenVPTHN6RlNubDJUVWVPMC03NXJWODh6SUZad3o3emxYMjI1dHNGLUJUZ2RZbGlNUkxzTDdLTVZicnVWNjVadFR5SjlrNlI1MWxXcHJNYzEyetIBzgFBVV95cUxPS3VqYXR4WS1yRmxaYTdEZ2NCWDF6b05hbS1EV1lEX2dUNkVrVEFuZzFLM3RxdkRETUxYeDlTOGsxdnlBMEFGRWJKb09pRTN3YThHMHdNNmYzdjNueUxxUVlkM194SWo3ekNsX0RzQ1JCMEdNQm14WHVrZ1pwYTFPelNsUjVQQkl2b01COHdBTDlJanYwdkFmajZ1MW0xaWtUbUR5Zk1XUHVxTXlpelVmYjJLQkVFWHBhYVJiY1kweFRaNm9heGprSFV3WVI3Zw?oc=5",
-      "words": [
-        "backs",
-        "body",
-        "boom",
-        "center",
-        "chief",
-        "data",
-        "exam",
-        "gpus",
-        "nta",
-        "own",
-        "sovereign",
-        "translation",
-        "using"
-      ]
-    },
-    {
-      "at": "2026-09-15T14:16:19.252407+00:00",
-      "handle": "News: India fintech",
-      "headline": "Government sets 0.4% UPI merchant fee above Rs 2,000",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHFnVmZzdXp5cGppb29MR1Nmc09XRmYtV2F4Z0F5bXUzNUttVTl2MURCYTI1TDJubndMZjlsSlc3Wm5vbXE4dThEeC04VDdqS3hNbmM0aUp6U2c2VlJrYzZlZkhVZ0gwZHdPd2hLX3VXamR2R3V3Yl9VTDhpc1piZ0FhUElLQWptMGtFUEdkbjFpWUdYSzNmT21fRGU5NXFYNFZxS19tU0lka0hJaUHSAbMBQVVfeXFMTWVqVGV3WGZOX0hFeEpjU2lNRm1fc1pGbDhPUUVCcC1Hc3lLRjJNSGxHLVVoTVRxaWpRNnFqX2F2Z2Y3N29RUm9Mem12Q3ZCNEo3U0luT2ZJcWNkQk5DeUxBOGVXcE9CSDVQMk5LX1lib3VTRTB1TlBZVFB5NEJkb0dxYmQtbkZKOGpoRXp6X0lxWlIzbHNfeldZNm1WM1JrbGtycE1Sd3JOWnVNTE55VjZ4cWs?oc=5",
-      "words": [
-        "300",
-        "above",
-        "caps",
-        "fee",
-        "govt",
-        "merchant",
-        "sets",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-15T14:31:25.282767+00:00",
-      "handle": "News: India fintech",
-      "headline": "Govt to set aside 5% of UPI MDR collections for merchant fund",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3pRM3FlV3RadklVZFNicVNGZG5QYWlNZGFDSGI4blRzZHNueEc5cDZhNXkwSVAtMUlhMHhLenBhZ0Fid3d0dEpXa0xwTnphNm04NC1qd1lnS0RQQWRHaXduam4wUVpmNHpSRnVOSUI0M2NYd3FMaHdmYkQ4UENueWRhLTlHSUNqZXZNU01tSUp4UUx5dGJqaWt2MmJCMXdrSVdEenh3TE9Jek9lSjNIS3FRWUZXdERIajMyTnEzamzSAcYBQVVfeXFMTWNhNjdrYjZUbk9uU2wzS2VCSkN0LVFyX1RXRkVPVHVkQVhnN1hIWXJMNXhtdXZkdUloVDlrU2Z1TmluOE9tWmFRWEZkNllwSEQyR19raXowenBGNmk5MGpsSzZRdG8wVnJPSDlmLTFHcWE5TW95TlRTLU5PcTVTdUpvNXhZQjZiZFFPdnA5REtUQ3pRSVlucTBGUmtqTmRjNkNMOWgzWEY4Y25La0VKNVBOVWNHS3AxbVpIbF95V3M0UHJzTGJB?oc=5",
-      "words": [
-        "aside",
-        "collections",
-        "fund",
-        "govt",
-        "mdr",
-        "merchant",
-        "set",
-        "small",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-15T14:47:12.711714+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Infosys schedules Q2 financial results and dividend announcement",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOFpJTnB6c2RXU2JRejBWRTh1SGhyUmZKMml4WXhvMl81MXR2eUhqUUlabjNTcGgyUzhWWDN2SlViTXBGbFFNRGhKZjlmVWVZdDU1ano2RlAtRVl4LWNrMDRZdDdwQ0lBX0NxZ1JrUEI0ZUgwc0NuQ3ZYcUN3U3kzSEhvR2hmcjVVYkJ4SXNXdXNkQzdHaUo4cnJqa001cFBpb3FHazRpSlZIbzljUU14ZjNYNW4zRm1kLXfSAcIBQVVfeXFMUGhEZEtIbTJrUHBxWERzdUlJZUtiaXFtdUVDMm9Ra1Uwa3lLMmpkZmJlbG5lQVBvQnFpTnd6T1RXNG81RlFfUkJqeGtaS2NvV3VzZHpyeHlPeGFpby0xclZfTjV0c1hTNDB0YkdqdzltRHRIWWF1Nm8tMW1QZHN1MXJLSHNwbzRvdVd2RFRYUjk3NmxPZHFZSUU3YjR0ZDJxM2lfaVZaMksyQWgxNlFEd0FmMTJrclhFMWd6TEllSkpQY2c?oc=5",
-      "words": [
-        "call",
-        "date",
-        "dividend",
-        "earnings",
-        "infosys",
-        "more",
-        "news",
-        "results",
-        "schedule",
-        "time"
-      ]
-    },
-    {
       "at": "2026-09-15T14:47:12.711714+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Flipkart announces dates and bank offers for Big Billion Days",
@@ -7350,6 +7254,89 @@
         "satya",
         "under"
       ]
+    },
+    {
+      "at": "2026-09-20T17:32:20.226360+00:00",
+      "handle": "News: India fintech",
+      "headline": "Apple Pay rumored launch in India in October",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSnRsRnBCc25sdGJ0TjdaVUdiNWtmc2psbzBWb2gzVFU3V0lMeVVVdEltVjhHMjN3bV9nVFBHd0RVbTRUVkplcFFHbHVDMUFBSUZYSjFSUE1DQnR3czBKbXJEYzQ2c3AxY29zMUgwaHdsZ3hseWtwZWw2VHNRSnktdFZvUTE4OG5I?oc=5",
+      "words": [
+        "apple",
+        "coming",
+        "october",
+        "pay",
+        "threat",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-20T17:32:20.226360+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "ASML assessing local sourcing opportunities in India semiconductor ecosystem",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMXg4RlpKd1J4SjZvR29CZFdnT3hZaUxhMlJ0MEJ4QWU2d2xiRlFkU2NNcTJhbmREZk1meEUzS0pJNzRyOWVDX1V3QVNwdjI5eXRsT0k4Sm5iRGpEZW1sM0tBMk1Kak9Ba3hrb2FlVHVtU19LY3U3VlVCOWZ2Nmtib2VwSnZ6eXhvZkZheDJyN050RWoxa3k5N1hrQUV2aEZwa2hSM1pNNA?oc=5",
+      "words": [
+        "asml",
+        "assessing",
+        "chip",
+        "ecosystem",
+        "exec",
+        "local",
+        "sourcing"
+      ]
+    },
+    {
+      "at": "2026-09-20T17:32:20.226360+00:00",
+      "handle": "News: Global AI",
+      "headline": "Huawei unveils Atlas 960 SuperPoD to challenge Nvidia",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZX1laVFBoc1A4VWMyWHFYcWxxdE1NN1cydlgyNGdRbmVVSW1vNWxxZEhXd3VsZHFweHU2am81X2NkMEJRVDNHREhLbmxjV1JTemRUenNQUUtybXRyTHJreG5yXzN2T0h5Nm9FWXZrbzAyZTcyQjZPaQ?oc=5",
+      "words": [
+        "960",
+        "atlas",
+        "challenge",
+        "chips",
+        "huawei",
+        "nvidia",
+        "superpod",
+        "unveils"
+      ]
+    },
+    {
+      "at": "2026-09-20T17:32:20.226360+00:00",
+      "handle": "News: Global AI",
+      "headline": "Microsoft AI chief Mustafa Suleyman urges US on AI safety",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuZ3RYLUczQWh1ZmpaZGVLSmdlaDV3QWpZbHFOWDgwb05wOFI5ZWE2STRuVFFHbjVEbVdHY1ZjckFfSmxkVC1weDQxRnVGbFFVQUd4N0tMYXVYU3dvZWpveDlEaXNJUDExdGNmTEV5cUlzbmRuOVE?oc=5",
+      "words": [
+        "chief",
+        "china",
+        "microsoft",
+        "mustafa",
+        "prioritize",
+        "rivalry",
+        "safety",
+        "suleyman",
+        "urges"
+      ]
+    },
+    {
+      "at": "2026-09-20T17:32:20.226360+00:00",
+      "handle": "News: Global AI",
+      "headline": "ASML begins India operations and plans engineering hiring",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdlRSVXI3STBENHFrWHR3eThIbGZabXhLTHJpbUJEdkdoQldwdHoybl9QLWo1cEh2QU5rWDR5cDlsZk13WkNtVTlwMGJOQm9YbGFyRFpoeDZZUnVfOHZZVmdOUTJRelhtREZTTXBEYlhYSXJJQkJ6RUhuMVlSb2dMUzdJTS1nQ2JiRWdwbFFuVkM5QWxCTDJHLUlKYnRpYURCdl9DbTZSMUJETmc2N0RCUGxYejhfTFlNWWJfRWVra2oycHNqZVdKcS1lUkI4ODhZTTRERlRtVE40QXZNaGfSAeMBQVVfeXFMUG1RQVBCQ0lkQlFDa0RUVHczY094Y2VTYllGMTNHMmRGVVpVcS1FVEU3MEwxUXFWLURKUkhqS0FtUVNxdTNrWVhDN2NYTWk2U1E1SUp1TmtORWI5ckpwMEZOVndVb3h5aVMxeGNqQlZVS3FCZ1gyTHktaG9USGtzWjhQZlE0bHQwRmxRT2NVUnBYNV9RZWVrcVFhQS1uM1JFTjRlWTdlUWxqNmNwZnlwMjlDX0hfSW4zLTRGNnJHbEc2NlQxMHBIRGZYT01RRUNvakk4VWNVdXdibjNaRXhnanA1UWc?oc=5",
+      "words": [
+        "asml",
+        "begins",
+        "engineering",
+        "graduates",
+        "hire",
+        "operations",
+        "plans",
+        "young"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -11517,10 +11504,22 @@
     "1789923778957",
     "1789923793315",
     "1789923958904",
-    "1789924142482"
+    "1789924142482",
+    "1789875150575",
+    "1789876500556",
+    "1789895760167",
+    "1789912186107",
+    "1789915737675",
+    "1789920343838",
+    "1789923713131",
+    "1789924242772",
+    "1789924812855",
+    "1789924847274",
+    "1789924863860",
+    "1789925293813"
   ],
-  "last_digest_hour": "2026-09-20T22",
-  "last_success": "2026-09-20T17:16:59.273480+00:00",
+  "last_digest_hour": "2026-09-20T23",
+  "last_success": "2026-09-20T17:32:20.227882+00:00",
   "national": {
     "alerted": [
       {
@@ -12624,7 +12623,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T17:17:31.557006+00:00",
+    "last_run": "2026-09-20T17:32:56.237209+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13560,80 +13559,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Apple Pay rumored launch in India in October",
-      "post": {
-        "created_at": "2026-09-20T16:35:17+00:00",
-        "handle": "News: India fintech",
-        "id": "1789922117263",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "TelecomTalk",
-        "reposts": 0,
-        "text": "Apple Pay Coming to India in October: Threat to UPI?",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSnRsRnBCc25sdGJ0TjdaVUdiNWtmc2psbzBWb2gzVFU3V0lMeVVVdEltVjhHMjN3bV9nVFBHd0RVbTRUVkplcFFHbHVDMUFBSUZYSjFSUE1DQnR3czBKbXJEYzQ2c3AxY29zMUgwaHdsZ3hseWtwZWw2VHNRSnktdFZvUTE4OG5I?oc=5"
-      },
-      "queued_at": "2026-09-20T16:47:22.640017+00:00",
-      "score": 7.0,
-      "why": "Major potential fintech market entry posing competition to local UPI systems."
-    },
-    {
-      "headline": "ASML assessing local sourcing opportunities in India semiconductor ecosystem",
-      "post": {
-        "created_at": "2026-09-20T16:49:33+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789922973977",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BW Businessworld",
-        "reposts": 0,
-        "text": "ASML Assessing Local Sourcing In India\u2019s Chip Ecosystem: Exec",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMXg4RlpKd1J4SjZvR29CZFdnT3hZaUxhMlJ0MEJ4QWU2d2xiRlFkU2NNcTJhbmREZk1meEUzS0pJNzRyOWVDX1V3QVNwdjI5eXRsT0k4Sm5iRGpEZW1sM0tBMk1Kak9Ba3hrb2FlVHVtU19LY3U3VlVCOWZ2Nmtib2VwSnZ6eXhvZkZheDJyN050RWoxa3k5N1hrQUV2aEZwa2hSM1pNNA?oc=5"
-      },
-      "queued_at": "2026-09-20T17:02:20.481593+00:00",
-      "score": 7.0,
-      "why": "Development following ASML India entry, offering new strategic detail on local sourcing."
-    },
-    {
-      "headline": "Huawei unveils Atlas 960 SuperPoD to challenge Nvidia",
-      "post": {
-        "created_at": "2026-09-20T15:34:57+00:00",
-        "handle": "News: Global AI",
-        "id": "1789918497079",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Crypto Briefing",
-        "reposts": 0,
-        "text": "Huawei unveils Atlas 960 SuperPoD to challenge Nvidia in AI chips",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZX1laVFBoc1A4VWMyWHFYcWxxdE1NN1cydlgyNGdRbmVVSW1vNWxxZEhXd3VsZHFweHU2am81X2NkMEJRVDNHREhLbmxjV1JTemRUenNQUUtybXRyTHJreG5yXzN2T0h5Nm9FWXZrbzAyZTcyQjZPaQ?oc=5"
-      },
-      "queued_at": "2026-09-20T17:16:59.272646+00:00",
-      "score": 7.0,
-      "why": "It is a major AI chip hardware launch from a leading global tech firm."
-    },
-    {
-      "headline": "Microsoft AI chief Mustafa Suleyman urges US on AI safety",
-      "post": {
-        "created_at": "2026-09-20T16:54:44+00:00",
-        "handle": "News: Global AI",
-        "id": "1789923284197",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Crypto Briefing",
-        "reposts": 0,
-        "text": "Microsoft AI chief Mustafa Suleyman urges US to prioritize AI safety over China rivalry",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuZ3RYLUczQWh1ZmpaZGVLSmdlaDV3QWpZbHFOWDgwb05wOFI5ZWE2STRuVFFHbjVEbVdHY1ZjckFfSmxkVC1weDQxRnVGbFFVQUd4N0tMYXVYU3dvZWpveDlEaXNJUDExdGNmTEV5cUlzbmRuOVE?oc=5"
-      },
-      "queued_at": "2026-09-20T17:16:59.272646+00:00",
-      "score": 7.0,
-      "why": "It features a major statement from a top AI executive regarding national policy and safety."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -14616,20 +14542,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789922117263,
-    "news: consumer internet india": 1789923261295,
-    "news: global ai": 1789923640485,
+    "news: consumer internet india": 1789925293813,
+    "news: global ai": 1789924863860,
     "news: global chips": 1789924142482,
     "news: global it services": 1789923958904,
     "news: india ai deeptech": 1789917489903,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789923793315,
+    "news: india fintech": 1789924812855,
     "news: india semiconductors": 1789922973977,
     "news: india tech policy": 1789913667877,
-    "news: india telecom": 1789923778957,
-    "news: indian it majors": 1789919123946,
+    "news: india telecom": 1789924242772,
+    "news: indian it majors": 1789920343838,
     "news: indian it midcaps": 1789916729313,
     "news: pib releases": 1789918015345,
-    "news: tech leaders": 1789922841977,
+    "news: tech leaders": 1789924847274,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14661,7 +14587,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T17:16:59.476952+00:00",
+    "last_server_run": "2026-09-20T17:32:20.534014+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T16:17:27.252137+00:00",
