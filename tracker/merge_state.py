@@ -27,7 +27,7 @@ def merge_watch(ours: dict, theirs: dict) -> dict:
         if key not in already:
             already.add(key)
             reported.append(key)
-    merged["seen"] = reported[-2000:]
+    merged["seen"] = reported[-5000:]
 
     # For a watched page, the more recently checked snapshot is the truth.
     pages = dict(theirs.get("pages") or {})
@@ -48,6 +48,25 @@ def merge_watch(ours: dict, theirs: dict) -> dict:
         latest = max(theirs.get(field, ""), ours.get(field, ""))
         if latest:
             merged[field] = latest
+
+    # The Parliament reader's own notes: when each of its slower lists was
+    # last read, and the sitting calendar. Dropping these would make it read
+    # three megabytes of committee reports on every single run.
+    ours_p, theirs_p = ours.get("sansad") or {}, theirs.get("sansad") or {}
+    if ours_p or theirs_p:
+        parliament = dict(theirs_p)
+        last = dict(theirs_p.get("last") or {})
+        for name, when in (ours_p.get("last") or {}).items():
+            last[name] = max(when, last.get(name, ""))
+        if last:
+            parliament["last"] = last
+        # One calendar, not a merge of two: the fresher one is simply right.
+        mine = ours_p.get("calendar") or {}
+        theirs_cal = theirs_p.get("calendar") or {}
+        newer = mine if mine.get("at", "") >= theirs_cal.get("at", "") else theirs_cal
+        if newer:
+            parliament["calendar"] = newer
+        merged["sansad"] = parliament
     return merged
 
 

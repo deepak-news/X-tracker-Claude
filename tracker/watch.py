@@ -42,7 +42,7 @@ import urllib3
 import yaml
 from bs4 import BeautifulSoup
 
-from . import email_out
+from . import email_out, sansad
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 WATCHLIST = ROOT / "watchlist.yml"
@@ -107,7 +107,40 @@ def _out_of_time() -> bool:
 
 # How many item identifiers to remember. A week of DoPT orders is a couple of
 # dozen and the gazette list holds 100, so this is months of headroom.
-MEMORY = 2000
+#
+# Parliament raised this. A committee report stays worth reporting for up to
+# a month after it is presented, so its identifier has to survive a month of
+# gazettes -- and there are thirty to sixty extraordinary gazettes a day.
+MEMORY = 5000
+
+# How big one email may get. Parliament made this necessary: a catch-up after
+# a few days' outage mid-session can be two hundred items and three quarters
+# of a megabyte, and Gmail stops showing a message at about a hundred
+# kilobytes -- it hides the rest behind a "view entire message" link, which
+# is exactly where the thing you needed would be. So a long list is sent a
+# batch at a time. The overflow is NOT written down as sent, so the next run
+# picks up where this one stopped, fifteen minutes later.
+#
+# Measured in characters of the item's own text rather than of the finished
+# HTML, because the wrapping is the same for every item; EMAIL_CHROME is what
+# one item's worth of that wrapping costs. Sixty thousand lands the finished
+# email around eighty kilobytes, comfortably under where Gmail cuts.
+EMAIL_BUDGET = 60000
+EMAIL_CHROME = 700
+MAX_PER_EMAIL = 60
+
+
+def _one_email(items: list) -> tuple:
+    """Splits a list into (what goes now, what waits for the next run)."""
+    room, taken = EMAIL_BUDGET, 0
+    for item in items:
+        weight = (len(item.title) + len(item.detail) + EMAIL_CHROME
+                  + sum(len(line) for line in item.lines))
+        if taken and (weight > room or taken >= MAX_PER_EMAIL):
+            break
+        room -= weight
+        taken += 1
+    return items[:taken], items[taken:]
 
 # Several NIC-hosted sites serve an incomplete certificate chain: the
 # certificate itself is fine, but the intermediate is missing, so Python
@@ -445,6 +478,27 @@ def _egazette(entry: dict, scanned: set) -> list:
     return items
 
 
+# ---------------------------------------------------------------- parliament
+
+def _sansad(entry: dict, memory: dict) -> list:
+    """Parliament's own website, through the APIs its pages use.
+
+    The reading lives in its own module because sansad.in is nineteen
+    separate lists rather than one page -- see tracker/sansad.py. This only
+    turns what comes back into the rows the email is built from, and passes
+    the run's time budget along so a slow back end cannot eat the run.
+    """
+    recipient = entry.get("mail_to") or RECIPIENT_ENV
+    return [Item(key=row["key"],
+                 source=entry["name"],
+                 title=row["title"],
+                 detail=row.get("detail", ""),
+                 url=row.get("url") or "https://sansad.in/",
+                 lines=[_tidy(line)[:400] for line in (row.get("lines") or [])],
+                 mail_to=recipient)
+            for row in sansad.read(entry, memory, _out_of_time)]
+
+
 # ------------------------------------------------------------ page changes
 
 def _page_lines(soup) -> list:
@@ -516,7 +570,19 @@ def _page_change(entry: dict, remembered: dict) -> tuple:
 
 BADGE = {"dopt": ("#1d4ed8", "DoPT ORDER"),
          "gazette": ("#7c2d12", "e-GAZETTE"),
-         "page": ("#166534", "PAGE CHANGED")}
+         "page": ("#166534", "PAGE CHANGED"),
+         # Parliament. Each kind of parliamentary paper gets its own label,
+         # because a List of Business and a committee report are read for
+         # completely different reasons.
+         "lob": ("#4c1d95", "LIST OF BUSINESS"),
+         "bulletin": ("#5b21b6", "BULLETIN"),
+         "synopsis": ("#6d28d9", "SYNOPSIS"),
+         "papers": ("#7e22ce", "PAPERS LAID"),
+         "bill": ("#9d174d", "BILL"),
+         "report": ("#0f766e", "COMMITTEE REPORT"),
+         "meeting": ("#0e7490", "COMMITTEE MEETING"),
+         "pr": ("#a16207", "PRESS RELEASE"),
+         "notice": ("#b45309", "NOTICE")}
 
 
 def build_email(items: list, gap_note: str = "", name: str = "") -> tuple:
@@ -525,7 +591,12 @@ def build_email(items: list, gap_note: str = "", name: str = "") -> tuple:
         subject = f"{items[0].source}: {items[0].title}"[:120]
     else:
         names = {"dopt": "DoPT", "gazette": "gazette",
-                 "page": "page change"}
+                 "page": "page change",
+                 "lob": "agenda", "bulletin": "bulletin",
+                 "synopsis": "synopsis", "papers": "papers laid",
+                 "bill": "bills", "report": "committee reports",
+                 "meeting": "committee meetings", "pr": "press releases",
+                 "notice": "notices"}
         subject = (f"{len(items)} government updates: "
                    + ", ".join(sorted(names.get(k, k) for k in kinds)))
 
@@ -675,7 +746,8 @@ def run(dry_run: bool) -> int:
             quiet.add(entry["name"])
         try:
             items = _try(entry["name"],
-                         lambda: _egazette(entry, scanned) if entry.get("category")
+                         lambda: _sansad(entry, memory) if entry.get("sansad")
+                         else _egazette(entry, scanned) if entry.get("category")
                          else _dopt(entry))
             print(f"  {entry['name']}: {len(items)} row(s) on the page")
             found.extend(items)
@@ -739,13 +811,22 @@ def run(dry_run: bool) -> int:
     for item in fresh:
         by_recipient.setdefault(item.mail_to, []).append(item)
     unsent = set()
-    for recipient, items in by_recipient.items():
+    for recipient, queue in by_recipient.items():
+        items, waiting = _one_email(queue)
+        if waiting:
+            # Left for the next run by simply not remembering them.
+            unsent |= {item.key for item in waiting}
+            print(f"  ({len(waiting)} more for {recipient} than fits in one "
+                  f"email; they go out next run)")
         name = names.get(recipient) or email_out.mail_name("government_watch")
         # The DoPT gap note means nothing to someone who only gets gazettes.
         note = gap_note if any(i.key.startswith("dopt:") for i in items) else ""
         if recipient in catch_up:
             note = ("A fault stopped these gazettes being sent when they were "
                     "published. It is fixed; new gazettes will arrive as usual.")
+        if waiting:
+            note = (note + f" {len(waiting)} further item(s) were found and "
+                    f"will arrive in the next email.").strip()
         subject, body = build_email(items, note, name)
         if dry_run:
             print(f"\n(dry run) would have emailed {recipient}: {subject}")

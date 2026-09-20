@@ -105,6 +105,8 @@ DAY = 24 * 60 * 60
 # Which list an email went to decides what it is, for the counter's purposes.
 LIST_NAMES = {RECIPIENT_ENV: "Tech Desk", "WATCH_MAIL_TO": "DoPT, MHA & ED Watch",
               "GAZETTE_MAIL_TO": "Gazette Alerts", "SOCIAL_MAIL_TO": "Tweets",
+              "GAZETTE_DESKS:law": "Law Ministry Gazettes",
+              "GAZETTE_DESKS:parliament": "Parliament Watch",
               ADMIN_ENV: "Maintenance"}
 
 
