@@ -303,9 +303,21 @@ def remember_alerted(state: dict, rows: list) -> None:
     state["alerted"] = fresh[-ALERTED_MAX:]
 
 
-def recent_headlines(state: dict, limit: int = 40) -> list:
-    """What has already been mailed, newest last, for the model to compare against."""
-    return [e["headline"] for e in state.get("alerted", []) if e.get("headline")][-limit:]
+def recent_headlines(state: dict, limit: int = 200) -> list:
+    """What has already been mailed, newest last, for the model to compare against.
+
+    The whole remembered window, not a handful. Forty headlines used to be a
+    day or two; at the volume this now sends it was thirteen hours, which is
+    how a story already mailed on 17 September came back on the 21st when a
+    foreign outlet republished it. The memory itself is capped at 48 hours.
+    """
+    headlines, seen = [], set()
+    for entry in state.get("alerted", []):
+        line = (entry.get("headline") or "").strip()
+        if line and line.lower() not in seen:
+            seen.add(line.lower())
+            headlines.append(line)
+    return headlines[-limit:]
 
 
 def prefilter(posts, cfg) -> list:
