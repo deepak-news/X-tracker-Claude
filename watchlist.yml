@@ -470,6 +470,64 @@ watch:
       mail_to: GAZETTE_DESKS:law
       mail_name: "Law Ministry Gazettes"
 
+    # ---------------------------------------------------------------
+    #  PARLIAMENT -- sansad.in, both Houses
+    #  One watch, nineteen lists. Questions and answers are deliberately
+    #  left out; they run into thousands per session.
+    #
+    #  What arrives, and when:
+    #    all year    bills introduced, passed or assented; committee
+    #                meetings called; committee reports presented;
+    #                press releases from both Secretariats and from the
+    #                Rajya Sabha's committees; Rajya Sabha notices
+    #    in session  the List of Business (the agenda), Bulletin Part I
+    #                and Part II, the Synopsis of the debate, and the
+    #                papers laid on the Table -- for each sitting day of
+    #                each House. Out of session these cost nothing: the
+    #                sitting calendar is read first and nothing is asked
+    #                for on a day neither House sat.
+    #
+    #  The address is NOT written here -- this file is public. It goes in
+    #  the existing GAZETTE_DESKS secret as one more line:
+    #      parliament: you@example.com
+    # ---------------------------------------------------------------
+    - name: Parliament
+      sansad: true
+      mail_to: GAZETTE_DESKS:parliament
+      mail_name: "Parliament Watch"
+
+      # Nothing older than this is ever reported. The committee reports
+      # list is not sorted by date, so this window is what separates this
+      # month's reports from the four thousand already presented -- and it
+      # is also what keeps the record of what has been sent small enough
+      # to stay reliable. Raise it if a report ever arrives late.
+      max_age_days: 30
+
+      # The big lists -- every committee report ever presented, three
+      # megabytes for the Rajya Sabha -- are read on this slower clock
+      # instead of every fifteen minutes. A report is news for days, so
+      # two hours costs nothing and spares the government's server.
+      slow_minutes: 120
+
+      # How often to re-read which days each House sits. It changes when a
+      # session is summoned or extended, a few times a year.
+      calendar_minutes: 360
+
+      # Remove a line to switch that part off. Leave the list out
+      # altogether and everything is read.
+      streams:
+        - bills                # bills introduced, passed, assented
+        - ls_meetings          # Lok Sabha committee meetings called
+        - rs_meetings          # Rajya Sabha committee meetings called
+        - ls_press             # Lok Sabha Secretariat press releases
+        - ls_reports           # Lok Sabha committee reports presented
+        - rs_reports           # Rajya Sabha committee reports presented
+        - rs_press             # Rajya Sabha Secretariat press releases
+        - rs_committee_press   # Rajya Sabha committees' press releases
+        - rs_updates           # Rajya Sabha notices (tenders excluded)
+        - day_papers           # agenda, bulletins, synopsis -- per sitting
+        - papers               # papers laid, one item per sitting day
+
   # Pages expected to stay IDENTICAL for weeks. Their content is
   # fingerprinted; when it moves, the lines that changed are emailed.
   pages:
