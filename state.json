@@ -10908,10 +10908,31 @@
     "1789884825849",
     "1789885613399",
     "1789886630472",
-    "1789888634771"
+    "1789888634771",
+    "1789809743940",
+    "1789810243649",
+    "1789810600920",
+    "1789810703940",
+    "1789810830748",
+    "1789810945898",
+    "1789811183805",
+    "1789814630224",
+    "1789832493554",
+    "1789837519920",
+    "1789845908617",
+    "1789851600990",
+    "1789851658984",
+    "1789863596116",
+    "1789877820074",
+    "1789879524751",
+    "1789880400456",
+    "1789883520955",
+    "1789884900008",
+    "1789887587709",
+    "1789889582245"
   ],
   "last_digest_hour": "2026-09-20T13",
-  "last_success": "2026-09-20T07:32:11.627250+00:00",
+  "last_success": "2026-09-20T07:46:57.900957+00:00",
   "national": {
     "alerted": [
       {
@@ -11744,6 +11765,26 @@
           "tonga",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-20T07:47:38.480000+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.1 earthquake -- 14 km WNW of Naze, Japan.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl",
+        "words": [
+          "2026",
+          "deep",
+          "earthquake",
+          "ist",
+          "japan",
+          "magnitude",
+          "naze",
+          "reported",
+          "sep",
+          "usgs",
+          "wnw"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -11932,7 +11973,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T07:32:46.698608+00:00",
+    "last_run": "2026-09-20T07:47:38.480552+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12809,7 +12850,8 @@
       "pib:2312635",
       "pib:2312638",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-journalist-payal-mehta-ji",
-      "pib:2312645"
+      "pib:2312645",
+      "quake:usgs:us7000tipl"
     ],
     "source_failures": {
       "CBI": {
@@ -13830,7 +13872,7 @@
     "news: global ai": 1789888634771,
     "news: global chips": 1789883760713,
     "news: global it services": 1789877173965,
-    "news: india ai deeptech": 1789881529537,
+    "news: india ai deeptech": 1789887587709,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789888172670,
     "news: india semiconductors": 1789887520784,
@@ -13839,7 +13881,7 @@
     "news: indian it majors": 1789888328422,
     "news: indian it midcaps": 1789857181386,
     "news: pib releases": 1789879985870,
-    "news: tech leaders": 1789876500353,
+    "news: tech leaders": 1789889582245,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -13871,7 +13913,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T07:32:11.944326+00:00",
+    "last_server_run": "2026-09-20T07:46:58.214706+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T07:17:29.754455+00:00",
