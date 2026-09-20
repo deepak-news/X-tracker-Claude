@@ -11052,10 +11052,20 @@
     "1789895613468",
     "1789895755395",
     "1789896026023",
-    "1789896252953"
+    "1789896252953",
+    "1789817251805",
+    "1789825308465",
+    "1789858854166",
+    "1789870876281",
+    "1789875644696",
+    "1789878182174",
+    "1789882500088",
+    "1789883231847",
+    "1789895741672",
+    "1789896767222"
   ],
   "last_digest_hour": "2026-09-20T15",
-  "last_success": "2026-09-20T09:32:16.428873+00:00",
+  "last_success": "2026-09-20T09:46:50.573608+00:00",
   "national": {
     "alerted": [
       {
@@ -11927,6 +11937,28 @@
           "sep",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-20T09:47:25.847318+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 6.4 earthquake -- 49 km NNE of Kainantu, Papua New Guinea.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc",
+        "words": [
+          "104",
+          "2026",
+          "deep",
+          "earthquake",
+          "guinea",
+          "ist",
+          "kainantu",
+          "magnitude",
+          "nne",
+          "papua",
+          "reported",
+          "sep",
+          "usgs"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -12115,7 +12147,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T09:33:05.112627+00:00",
+    "last_run": "2026-09-20T09:47:25.848058+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -12998,7 +13030,8 @@
       "pib:2312657",
       "pib:2312661",
       "pib:2312662",
-      "quake:usgs:us7000tiq2"
+      "quake:usgs:us7000tiq2",
+      "quake:usgs:us7000tiqc"
     ],
     "source_failures": {
       "CBI": {
@@ -14014,7 +14047,7 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789894440684,
+    "news: big tech platforms": 1789896767222,
     "news: consumer internet india": 1789892801423,
     "news: global ai": 1789896252953,
     "news: global chips": 1789892584689,
@@ -14060,7 +14093,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T09:32:16.737086+00:00",
+    "last_server_run": "2026-09-20T09:46:50.894086+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T09:32:32.697403+00:00",
