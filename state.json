@@ -11690,10 +11690,20 @@
     "1789939860112",
     "1789940513097",
     "1789920883575",
-    "1789928159582"
+    "1789928159582",
+    "1789858508868",
+    "1789903380730",
+    "1789924651919",
+    "1789936754297",
+    "1789937292224",
+    "1789939906377",
+    "1789940489068",
+    "1789941627055",
+    "1789941837805",
+    "1789942026600"
   ],
   "last_digest_hour": "2026-09-21T03",
-  "last_success": "2026-09-20T22:01:54.846359+00:00",
+  "last_success": "2026-09-20T22:17:20.723781+00:00",
   "national": {
     "alerted": [
       {
@@ -12648,6 +12658,28 @@
           "tonga",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-20T22:19:18.770646+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.0 earthquake -- 248 km SSE of False Pass, Alaska.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit6",
+        "words": [
+          "2026",
+          "248",
+          "alaska",
+          "deep",
+          "earthquake",
+          "false",
+          "ist",
+          "magnitude",
+          "pass",
+          "reported",
+          "sep",
+          "sse",
+          "usgs"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -12836,7 +12868,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-20T22:04:16.329623+00:00",
+    "last_run": "2026-09-20T22:19:18.771127+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13740,15 +13772,13 @@
       "pib:2312783",
       "pib:2312794",
       "quake:usgs:us7000tit5",
-      "quake:usgs:us7000tirq"
+      "quake:usgs:us7000tirq",
+      "quake:usgs:us7000tit6"
     ],
     "source_failures": {
       "CBI": {
         "count": 16,
         "until": "2026-09-20T22:47:26.567906+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 16,
@@ -14759,21 +14789,21 @@
     "microsoft india": 1789703363718,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789934403087,
-    "news: consumer internet india": 1789938259224,
+    "news: big tech platforms": 1789941627055,
+    "news: consumer internet india": 1789942026600,
     "news: global ai": 1789939860112,
-    "news: global chips": 1789939660132,
+    "news: global chips": 1789940489068,
     "news: global it services": 1789939108925,
     "news: india ai deeptech": 1789931687709,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789932700978,
+    "news: india fintech": 1789941837805,
     "news: india semiconductors": 1789928100718,
     "news: india tech policy": 1789934743021,
     "news: india telecom": 1789940513097,
     "news: indian it majors": 1789932877315,
     "news: indian it midcaps": 1789932497325,
-    "news: pib releases": 1789927218460,
-    "news: tech leaders": 1789939860112,
+    "news: pib releases": 1789936754297,
+    "news: tech leaders": 1789939906377,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14806,7 +14836,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-20T22:01:55.174132+00:00",
+    "last_server_run": "2026-09-20T22:17:20.978795+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T20:48:10.024669+00:00",
