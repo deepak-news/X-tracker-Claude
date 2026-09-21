@@ -12967,10 +12967,37 @@
     "1789996981454",
     "1789997396935",
     "1789997403595",
-    "1789997495249"
+    "1789997495249",
+    "1789923713313",
+    "1789937951224",
+    "1789950912522",
+    "1789977851159",
+    "1789980180149",
+    "1789984980528",
+    "1789985362178",
+    "1789986869957",
+    "1789987620078",
+    "1789990200455",
+    "1789990380767",
+    "1789990396961",
+    "1789991431810",
+    "1789991494440",
+    "1789991784294",
+    "1789992360690",
+    "1789993620441",
+    "1789993860814",
+    "1789996164970",
+    "1789997140774",
+    "1789997520426",
+    "1789997580917",
+    "1789997622813",
+    "1789998116595",
+    "1790017430866",
+    "1790017688916",
+    "2313144"
   ],
   "last_digest_hour": "2026-09-21T19",
-  "last_success": "2026-09-21T13:32:56.340524+00:00",
+  "last_success": "2026-09-21T13:47:26.097950+00:00",
   "national": {
     "alerted": [
       {
@@ -14418,7 +14445,7 @@
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356"
     ],
-    "last_run": "2026-09-21T13:35:13.433441+00:00",
+    "last_run": "2026-09-21T13:49:31.241783+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15444,7 +15471,9 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63639",
       "pib:2313144",
       "pib:2313139",
-      "pib:2313143"
+      "pib:2313143",
+      "pib:2313151",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63640"
     ],
     "source_failures": {
       "CBI": {
@@ -15478,7 +15507,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "US and China to hold further AI safety meetings in Shenzhen",
+      "post": {
+        "created_at": "2026-09-21T12:27:00+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1789993620441",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "US, China to hold more AI safety meetings in two months in Shenzhen, Scott Bessent says",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcHdJY2FsX1dWX0FYU3ZDS2xQa2VtMXVLSWhUbXZzb1RMVkhTYXpINmhFaWVKYjdieGhGUTNld0J5YndocmUwbEFfZ1g3eGVjazE1S1Flbzg4NTFpazR6S0N3bDNJdWVLNi1IcnVtaUdsbEdwbDUzYXdMdThiVmdJbzdSRnRtbVRKV1RuUUJEd3JFcnZTOVJhaTBfbm5UYVQtWWxYOUxSZGd2UG5OZ2JrYXVFNmdHN1ZWZ0RURDNmMzhSRW1CaXNOeUVwbldJWjE3UDFjNkE5RVNWcG5xMG9HbVp0cGllZ0x6YkRYc1FYVTbSAfABQVVfeXFMTXB3SWNhbF9XVl9BWFN2Q0tsUGtlbTF1S0loVG12c29UTFZIU2F6SDZoRWllSmI3YnhoRlEzZXdCeWJ3aHJlMGxBX2dYN3hlY2sxNUtRZW84ODUxaWs0ektDd2wzSXVlSzYtSHJ1bWlHbGxHcGw1M2F3THU4YlZnSW83UkZ0bW1USldUblFCRHdyRXJ2UzlSYWkwX25uVGFULVlsWDlMUmRndlBuTmdia2F1RTZnRzdWVmdEVEQzZjM4UkVtQmlzTnlFcG5XSVoxN1AxYzZBOUVTVnBucTBvR21adHBpZWdMemJEWHNRWFU2?oc=5"
+      },
+      "queued_at": "2026-09-21T13:47:26.096803+00:00",
+      "score": 7.0,
+      "why": "International AI diplomacy and bilateral safety talks involving major superpowers constitute a solid wire story."
+    },
+    {
+      "headline": "Dr. Himanshu Tagra promoted to Senior Vice President at HCLTech",
+      "post": {
+        "created_at": "2026-09-21T13:25:40+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1789997140774",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Hrtoday",
+        "reposts": 0,
+        "text": "Dr. Himanshu Tagra Promoted to Senior Vice President at HCLTech",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb3RGcFMxczJETmNkRjB1a0tvQ1p3WFIyYktJTXFKa0VFZkJkREsxR3NNQ3Q5Nmt1YkprbDhwWXlGMk52cUVZbkFKQ1pPWlkwYlNFeVlteTN6WWVFbnRaWm1qVzZNZTNXSVhjelpyaFJadGNjbE5pUmNITlNEbXZUa0dLXzVEN2I5Tnc?oc=5"
+      },
+      "queued_at": "2026-09-21T13:47:26.096803+00:00",
+      "score": 7.0,
+      "why": "Senior leadership elevation at a major Indian IT services firm is a filable personnel story."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -16423,7 +16489,7 @@
     "bse ltts": 1789490917112,
     "bse meesho": 1789771106183,
     "bse mobikwik": 1789772480096,
-    "bse mphasis": 1789565700668,
+    "bse mphasis": 1790017430866,
     "bse nazara": 1790006080228,
     "bse netweb": 1789907276270,
     "bse niit": 1789648705695,
@@ -16432,7 +16498,7 @@
     "bse ola electric": 1789430149909,
     "bse paytm": 1789578149191,
     "bse persistent": 1789994213569,
-    "bse reliance": 1789674766336,
+    "bse reliance": 1790017688916,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1789071138621,
     "bse tata communications": 1789576462217,
@@ -16462,25 +16528,25 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789996577522,
     "news: consumer internet india": 1789997403595,
-    "news: global ai": 1789995054498,
+    "news: global ai": 1789998116595,
     "news: global chips": 1789994052201,
     "news: global it services": 1789994853471,
     "news: india ai deeptech": 1789997396935,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1789995932550,
+    "news: india fintech": 1789997580917,
     "news: india semiconductors": 1789996549685,
-    "news: india tech policy": 1789996549685,
+    "news: india tech policy": 1789997622813,
     "news: india telecom": 1789997495249,
-    "news: indian it majors": 1789995127461,
-    "news: indian it midcaps": 1789993380871,
-    "news: pib releases": 1789993500929,
-    "news: tech leaders": 1789994839813,
+    "news: indian it majors": 1789997140774,
+    "news: indian it midcaps": 1789993620441,
+    "news: pib releases": 1789997520426,
+    "news: tech leaders": 1789996164970,
     "nvidia": 1789984835946,
     "nvidia blog": 1789984835946,
     "openai": 1789948800875,
     "oracle": 1789631219707,
     "phonepe": 1789631207660,
-    "pib communications": 2312868,
+    "pib communications": 2313144,
     "pib meity": 2312606,
     "pib science and technology": 2313111,
     "razorpay": 1789981995706,
@@ -16508,7 +16574,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T13:32:56.655098+00:00",
+    "last_server_run": "2026-09-21T13:47:26.415966+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T12:04:00.036269+00:00",
