@@ -3,22 +3,6 @@
     {
       "at": "2026-09-16T15:01:50.969621+00:00",
       "handle": "News: India fintech",
-      "headline": "India's UPI expands into Central Asia with a new Uzbekistan deal",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWZkWGZONTFEUll4cnZJWkU4Qm1YVDF2NWpvZW9XVllHMjlVcEowTVctNldPYTVoczMzNllfUmptaFBnVV9rOVMzNUpDN2VXVE9Pb21NaURhYTZBS05JRWxQXzdkdVRsUkZlaTk5WnR5bUdWVUpPbm9TRXVZeVNXYnI4RTBQSDZWaXRXNTQzRWpZR3NiMkdWUUIyTTk?oc=5",
-      "words": [
-        "asia",
-        "central",
-        "deal",
-        "expands",
-        "into",
-        "upi",
-        "uzbekistan"
-      ]
-    },
-    {
-      "at": "2026-09-16T15:01:50.969621+00:00",
-      "handle": "News: India fintech",
       "headline": "Government rules out rolling back UPI charges despite opposition criticism",
       "tier": 0,
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHMyMmlPaGstUmV1SDA4c1dkVmZocUpNczROX2UzRWhya1lYR0g5RjE3WmN1V1RRUTFlRFZ0bHVISmJJUHNiS0taUEhjQlFCS1BSLVcwTzV4d2l6T3c1akx3SUhBTHdOaTlJRHNPY1M5MXB3aW0xVmFwYnJLV25Pd0dUVURlaEVsRlRfdlhGTVhnM0EzaFNadHZ6Y0VwNUVlMGJ5ZU1wMnhoNlB5V3NycVY0WEs0QmJR?oc=5",
@@ -7314,6 +7298,29 @@
         "tax",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-21T13:03:23.173689+00:00",
+      "handle": "BSE Vodafone Idea",
+      "headline": "Vodafone Idea seeks shareholder nod via postal ballot to appoint independent directors",
+      "tier": 2,
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/eb61ac40-67d8-4b6b-8cc7-2f5d105f6b03.pdf",
+      "words": [
+        "anil",
+        "appointment",
+        "approval",
+        "ballot",
+        "berera",
+        "company",
+        "directors",
+        "enclosed",
+        "filing",
+        "full",
+        "gopika",
+        "idea",
+        "independent",
+        "limited"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -12870,10 +12877,46 @@
     "1789994147973",
     "1789994157110",
     "1789994280500",
-    "1789994345377"
+    "1789994345377",
+    "1789910340401",
+    "1789910363666",
+    "1789911676880",
+    "1789921680249",
+    "1789955885863",
+    "1789973187668",
+    "1789973580737",
+    "1789974559035",
+    "1789975104677",
+    "1789976520091",
+    "1789977720266",
+    "1789977720936",
+    "1789985299170",
+    "1789986658294",
+    "1789987868100",
+    "1789989127534",
+    "1789989452246",
+    "1789990500170",
+    "1789990860460",
+    "1789992188503",
+    "1789992820573",
+    "1789992990666",
+    "1789993086366",
+    "1789993379108",
+    "1789993834797",
+    "1789994539547",
+    "1789994839813",
+    "1789994853471",
+    "1789995054498",
+    "1789995127461",
+    "1789995302203",
+    "1789995600624",
+    "1789995600625",
+    "1789995600980",
+    "1789995623030",
+    "1790014934582"
   ],
   "last_digest_hour": "2026-09-21T18",
-  "last_success": "2026-09-21T12:47:27.903596+00:00",
+  "last_success": "2026-09-21T13:03:23.342074+00:00",
   "national": {
     "alerted": [
       {
@@ -14302,7 +14345,7 @@
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356"
     ],
-    "last_run": "2026-09-21T12:49:15.272735+00:00",
+    "last_run": "2026-09-21T13:04:17.388236+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15324,7 +15367,8 @@
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7068-of-2026-filed-by-swarnali-basu_104613.html",
       "pib:2313118",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63638",
-      "pib:2313120"
+      "pib:2313120",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63639"
     ],
     "source_failures": {
       "CBI": {
@@ -15376,6 +15420,78 @@
       "queued_at": "2026-09-21T12:47:27.902424+00:00",
       "score": 7.0,
       "why": "Significant court ruling involving prominent Indian tech founders and a substantial tax amount."
+    },
+    {
+      "headline": "Minister Ashwini Vaishnaw says several chip firms to invest under ISM 2.0",
+      "post": {
+        "created_at": "2026-09-21T11:17:32+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789989452246",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "ET Enterprise AI",
+        "reposts": 0,
+        "text": "ISM 2.0: Several chip companies plan to invest in India in 6 months, says Ashwini Vaishnaw",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUmVtelpiRkNRMGxrUVJnUmIwbXBmcUVfY3NscldoMTg2eEpjLVV3MUNnVUNjQUlYcUtnd0t3VmF3a1RQckk5a0tLRmxtNDJoRklObTVVTkFzQ3ZpaHFueWtNc2hQSkt1NUdwRzBfMlV0SkVTbmNEU1ZoNnVDOWFwemEya0xsNUNQcF9NWTNwUVBuampMS1A0MDBoX1hUR1VnenpOcDRYTUpzMjFJc01HYjRMeFVZbUlteDNCcGd4a0tDQ1Y4RTZmTGFkbFlBOExrQnFCdU1CTnI1cFFKc2FVYlVtQXFUemVVb2FYQ2RvVFUyZjdPbmwyWmt30gH6AUFVX3lxTE1SZW16WmJGQ1EwbGtRUmdSYjBtcGZxRV9jc2xyV2gxODZ4SmMtVXcxQ2dVQ2NBSVhxS2d3S3dWYXdrVFBySTlrS0tGbG00MmhGSU5tNVVOQXNDdmlocW55a01zaFBKS3U1R3BHMF8yVXRKRVNuY0RTVmg2dUM5YXB6YTJrTGw1Q1BwX01ZM3BRUG5qakxLUDQwMGhfWFRHVWd6ek5wNFhNSnMyMUlzTUdiNEx4VVltSW14M0JwZ3hrS0NDVjhFNmZMYWRsWUE4TGtCcUJ1TUJOcjVwUUpzYVViVW1BcVR6ZVVvYVhDZG9UVTJmN09ubDJaa3c?oc=5"
+      },
+      "queued_at": "2026-09-21T13:03:23.340985+00:00",
+      "score": 9.0,
+      "why": "High-level ministerial statements on semiconductor investments and policy direction are crucial for the India beat."
+    },
+    {
+      "headline": "TRAI fines Mahanagar Telephone Nigam Rs 14 lakh for service regulation breach",
+      "post": {
+        "created_at": "2026-09-21T12:03:08+00:00",
+        "handle": "News: India telecom",
+        "id": "1789992188503",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Upturn",
+        "reposts": 0,
+        "text": "Mahanagar Telephone Nigam fined Rs. 14,00,000 by TRAI for service regulation breach",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUk5ibENhNFNwU2lENmdTVU5iOU42QzM3RzhPX3YtWDBqTV8zcTJzY0J4WXUzZG9pMjlVOGRmRENZT1pmUnM1cFAwOWdtWF9FbFlKZjlWUVdZV2YtbmxZMF9ZQkkzYXAyZVFfX1pzTFBFTmpELTRjUldvRHJBYmhhRnhMY1ZJMElFVGVtdlpTbEszUDZtT012YnNoYnBzZ1M3UE9xMEpvQTZrWkh4X3NRYWxxaXJZZVA2bDRR?oc=5"
+      },
+      "queued_at": "2026-09-21T13:03:23.340985+00:00",
+      "score": 8.0,
+      "why": "Regulatory penalties and telecom enforcement actions are direct wire stories."
+    },
+    {
+      "headline": "DeepSeek plans major Huawei Ascend chip deployment at Inner Mongolia data center",
+      "post": {
+        "created_at": "2026-09-21T11:12:07+00:00",
+        "handle": "News: Global AI",
+        "id": "1789989127534",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Crypto Briefing",
+        "reposts": 0,
+        "text": "DeepSeek plans major Huawei Ascend chip deployment at Inner Mongolia data center",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByeG1XbHFianNaYjZzYkJvMXhQMldXNWRTNGJ4bk9WQWFFZXdYV3NHYnNMRGdFSk5jMHA4MFpkN1M1Y3pKemg2M0dDdkd4TEdEb2FWRTBrMEYzY1hDZWNYUXY5dTJyUlBLRHBpRWtn?oc=5"
+      },
+      "queued_at": "2026-09-21T13:03:23.340985+00:00",
+      "score": 7.0,
+      "why": "Major AI model developer deploying alternative chips at scale is significant global tech infrastructure news."
+    },
+    {
+      "headline": "Mobile Retailers Warn Finance Minister Over UPI MDR Impact on Margins",
+      "post": {
+        "created_at": "2026-09-21T12:16:30+00:00",
+        "handle": "News: India fintech",
+        "id": "1789992990666",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "NDTV Profit",
+        "reposts": 0,
+        "text": "'0.40% UPI MDR Will Wipe Out Survival Margins\u2019: Mobile Retailers Sound Alarm To FM Sitharaman",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYnhjdjhIcjZLLVBweU5faU5FYzVxby1WTmlBWE1CVXREaDA4SE1sYzNvMGlybS1sRjVKdWVkMk5YOS1RVWdEMy1FaFFmelU3aGxFb2VjdEFMNTlXdjdScTBRcGtYTTQzcE42bEpuQTBfLVBiLVhhTjZ0Mll6eGEtSGJER2xERC1hNkdIaks1cENLLWZqQUhTSDhiQUJ0dzVHRXJlZm9KZE84WmJaZW5xdldEbVJzVzVTYlFIcktwSGllTE54VU91bEkxWWJDTHc?oc=5"
+      },
+      "queued_at": "2026-09-21T13:03:23.340985+00:00",
+      "score": 7.0,
+      "why": "Direct stakeholder pushback on UPI charges that impacts the ongoing merchant fee debate."
     }
   ],
   "page_links": {
@@ -16339,13 +16455,13 @@
     "bse tcs": 1789482643423,
     "bse tech mahindra": 1789829712677,
     "bse urban company": 1789999847266,
-    "bse vodafone idea": 1789581151844,
+    "bse vodafone idea": 1790014934582,
     "bse wipro": 1789752283470,
     "bse zaggle": 1789743436158,
     "capgemini": 1789728170178,
     "cognizant": 1789761743637,
     "flipkart": 1789631208994,
-    "google": 1789747200686,
+    "google": 1789995600980,
     "google cloud": 1789650000163,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
@@ -16361,19 +16477,19 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789994157110,
     "news: consumer internet india": 1789994345377,
-    "news: global ai": 1789994102224,
+    "news: global ai": 1789995054498,
     "news: global chips": 1789989205882,
-    "news: global it services": 1789991090478,
+    "news: global it services": 1789994853471,
     "news: india ai deeptech": 1789994157110,
     "news: india edtech gaming": 1789986988797,
     "news: india fintech": 1789993498083,
-    "news: india semiconductors": 1789993357454,
+    "news: india semiconductors": 1789995623030,
     "news: india tech policy": 1789994046555,
     "news: india telecom": 1789994280500,
-    "news: indian it majors": 1789992449138,
+    "news: indian it majors": 1789995127461,
     "news: indian it midcaps": 1789991878151,
     "news: pib releases": 1789993500929,
-    "news: tech leaders": 1789993980805,
+    "news: tech leaders": 1789994839813,
     "nvidia": 1789984835946,
     "nvidia blog": 1789984835946,
     "openai": 1789732800252,
@@ -16407,7 +16523,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T12:47:28.227986+00:00",
+    "last_server_run": "2026-09-21T13:03:23.673752+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T12:04:00.036269+00:00",
