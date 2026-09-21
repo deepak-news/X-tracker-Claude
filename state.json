@@ -1,156 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-16T08:46:32.672651+00:00",
-      "handle": "News: India telecom",
-      "headline": "ACES India enables 5G for Reliance Jio at Noida Airport",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPT0FEcV8tZzh4LUVfYmZONDJMalFldnpSLTRqd09YZWtMZjBMLWtWMTNETTRhbFB5Xzgzc0RZN1o3dkJEdXNqckFEa2FyREZHeWhHRlZkaDEwQ3hLVnVUdnRSeHRXRlZHNmZYVi02TGllYTd6TTlaUXo2ZXFpOGlxQUFmSDB1aEw5RUdDOXNGTWVMNDVkZ2U4VDh5Z1hjQmZuZFkzRFBIRXE3RGRxZE9venQxeHhRdW9MVWNUWEFFNkZpWDJEQUVxckE2bWhpUWlJM21fcks5Q0t6cW1PQmxYWmN4WVlzSTU0cjFneFZxbkoxb1F5cVd6OG12TEpfZWRTRnFiN09NdkpFbERkVndEdg?oc=5",
-      "words": [
-        "aces",
-        "airport",
-        "connectivity",
-        "enables",
-        "infrastructure",
-        "international",
-        "jio",
-        "noida",
-        "partnership",
-        "reliance",
-        "underpinning",
-        "year"
-      ]
-    },
-    {
-      "at": "2026-09-16T09:31:32.317111+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Flipkart hires 250,000 seasonal workers for festival period",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWZYc09TdjlDNnZ0aXg2QmRyNE1WdWgyX3lLRnZKLUN6MFRrSDFiUF9NaXh1TmVlVUd0cVQxRUdkR2YwRnVNUHNyUGRLSjg3SDhuWko3RmxQMkxlY0Y1V3dLdkhpM0Roa0RSVWt6RnNZWUpPZ2VJbjF5c3N4X0xFeXoySWh2WmhUS3hBV2F5WGlHZVF1NEthZURyZFVmQkVkUnp4UVpSY25jbDdtYUNfb1BiM1hJVHRTUXlUNW9DZTRxNU1BN180RHBJTF96MXc?oc=5",
-      "words": [
-        "festival",
-        "flipkart",
-        "hires",
-        "lakh",
-        "people",
-        "season"
-      ]
-    },
-    {
-      "at": "2026-09-16T09:46:17.015785+00:00",
-      "handle": "News: India tech policy",
-      "headline": "India introduces Bhu-Aadhaar 14-digit digital identity for land parcels",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjZHc3Q1ZDRMcUctYkNFYmQ4VXhZVnp1SGFKekxvZ0ZPaTZzTVAxWmc0ZEExdTBOR2t5bktRQ1lRWUc2TGtWRnRfUzRwLUladDdUdkxQa2F3RHBKVWlQZ0licjBBSzdvSlAtaUp5WWdMeVZQZUFzUERzUHZtNkFoaVN4alhLdUV4SnZjYTFLU3B2Q2xsQ1hkRWxORldLOVgtYkhhMlA1NW1RbzJ0U0pObXFCVQ?oc=5",
-      "words": [
-        "aadhaar",
-        "bhu",
-        "digit",
-        "digital",
-        "give",
-        "identity",
-        "land",
-        "own",
-        "parcels",
-        "property",
-        "system"
-      ]
-    },
-    {
-      "at": "2026-09-16T10:16:15.600948+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Lam Research to invest Rs 10,000 crore in first India manufacturing facility",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaUs4ZGN1Vl9HeTZONi1pT2xua2hlcGVqaGF4bzh5OVdwUXoyR2c2S095S2s3QUNua2daaGQ3QzBTbEk3VEFjT0JnRDk5UVRxd0xaMW80NkFmR3ZqcWpUbHNNM1hOSlZNWHVtMkQ1SGIwTXBPenUwRmxpUk9wOUkzMzVzc25MQUIxVDJ6RDYwMUhnTGU3TGpvMTRrZE93dnlxUWpFOVlfN0VJdURhUWI4dUs0TnRLLXhiZWhUdk9CMWNGdWlWMC03N1BhYw?oc=5",
-      "words": [
-        "000",
-        "facility",
-        "first",
-        "invest",
-        "lam",
-        "manufacturing",
-        "plans",
-        "research",
-        "silicon"
-      ]
-    },
-    {
-      "at": "2026-09-16T10:16:15.600948+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Bhubaneswar AI Centre secures MeitY approval and Rs 4 crore backing",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVkV3cE9DUENRZFdhNnBZNjYtT2w0Tmt0S0J6QXBUQzZ1WWdhTDlZb1pHUnd6OUFWZ2R3aUQxdFZGcWhhTjJqQXFDVkJ3YTVaeXNLUU5HdktIU0RISVl1RVRoTTVtRjZDNzYxYmRCWjJNUFdwNnNidlVJUWZ5UTNfS0ctakc?oc=5",
-      "words": [
-        "backing",
-        "bhubaneswar",
-        "centre",
-        "gets",
-        "meity",
-        "nod"
-      ]
-    },
-    {
-      "at": "2026-09-16T10:16:15.600948+00:00",
-      "handle": "News: India fintech",
-      "headline": "RAI warns new UPI MDR fees could push small retailers to cash",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDJaRFFyUGlKVGpGcTNxMmhNemVNN2hCZ2xUYVFEN1JENG42TWxNZFZCS05ZMHQtTkRwdjlraTloc1NybWNQaWFkUHpoTGVwVjBCMVN3SEw4bzFPX19OMS04bUZQbVdFeGQzb244cjF1VlRydWN3djZIZzJmZ3luNndqNWt3elhGSHlEZWhFMHBKUWxsVTU3TnVKU1FxekNEZXlxUXJUZ0zSAasBQVVfeXFMTlJsNXRmUzZsS0x0TUI1aG5Sa0hXM21HODlrU01qSm50ZnBQaTNIMV82amNoYXRJRUg3Y0Q1eEx1M3VsMkgtcFNmREZpTllVeVQ0VV9sUzRsNi15MlVZZmtsbFVIUDdXbGRTYUxhU3dKV2pOdDBOTW14bjdZVWZvYzJYbEdPWE5tamc4NUlicVhkcEhobXVFVEUzNFdtbGljWlllQmh3WjBaOWxV?oc=5",
-      "words": [
-        "back",
-        "cash",
-        "could",
-        "fee",
-        "mdr",
-        "push",
-        "rai",
-        "retailers",
-        "small",
-        "upi",
-        "warns"
-      ]
-    },
-    {
-      "at": "2026-09-16T10:16:15.600948+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Genpact signs major Gurugram office lease worth over Rs 400 cr",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZVBOYnJjWUFUOFJBQnFJd3VrcTNvTWxOVm1RT2l5SHlHMnhabTM3ZXFRRmo5dkRTMzUyT3BhdjJuOFpYOW5PUVQtMHhfMDU1TXhxRzI5QkVWUFhhNzNsY0xCaXVkNTFuWXQ4ZnZ5OEJMbXNsMUtqekF1d2NqcDVlc2NZWVByNm1sUzFsZjJsa1Z5b0ZLVnQ0cUttek1GdGJrYk9KWUVfYWZHTmhKMkhUX2RlTWtrVGZQNHhuS0NITGVxb0ZxZkQycmlWWURZNkZVNXBOazVUT25xLURCVVHSAeMBQVVfeXFMTmxyQlVJcFJFWU40WDlBNGFtN2RRUDNmR3lmUGVQMnl2N3Nodk52bkpkZkpVWFJWcmNCcnNpX3BSajhoSHJuckl2cm8wZFQ5dm50b1l0T1lkRFJBOFpfRm1salRVTFp0Y01odHg4Vlc2Nl9Ya2VXM3dYRWtST2JUZHJhUkRodGNEZDdPMDJKVGdLMl9ZUFdVZzJWWU5ocjR0MWZqUVExRElzTXVLN0FJNWlUX0hwUTRoN1ZkWGUyb1hMVGxxV0F3SUFYYWlCZEU4Rl85cWZEYzJKTU55YVRJOEpacFU?oc=5",
-      "words": [
-        "400",
-        "asf",
-        "estate",
-        "genpact",
-        "gurugram",
-        "inks",
-        "insignia",
-        "lease",
-        "long",
-        "news",
-        "office",
-        "real",
-        "term",
-        "worth"
-      ]
-    },
-    {
-      "at": "2026-09-16T10:16:15.600948+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "SEMICON India 2026 begins Sept 17 as Odisha targets chip investments",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUo5TGhHLWZWZzk1RGRDd1lDa0ZBSDZTc1R6alFSbWhHN0UxVGx0cWp2UzNRUDZaV1hQVUx5dUJrMnpmOFMyN3MzSkpKdTVqdUJYYmxOVndnZnhFRGZNSFhhWHg1Z19Rdmh5S1pfTFpyTDduRzZ4eTNGNFRNOHdLdW4xMHU4c3Z6ZGV2NzZoQjFvMUdiRWY3c3d3d1nSAZwBQVVfeXFMTy1KOUxoRy1mVmc5NURkQ3dZQ2tGQUg2U3NUempRUm1oRzdFMVRsdHFqdlMzUVA2WldYUFVMeXVCazJ6ZjhTMjdzM0pKSnU1anVCWGJsTlZ3Z2Z4RURmTUhYYVh4NWdfUXZoeUtaX0xackw3bkc2eHkzRjRUTTh3S3VuMTB1OHN2emRldjc2aEIxbzFHYkVmN3N3d3dZ?oc=5",
-      "words": [
-        "2026",
-        "chip",
-        "investments",
-        "kicks",
-        "odisha",
-        "off",
-        "semicon",
-        "sept",
-        "targets"
-      ]
-    },
-    {
       "at": "2026-09-16T10:31:37.998156+00:00",
       "handle": "BSE Reliance",
       "headline": "Reliance allots Rs 12,000 crore NCDs on private placement",
@@ -7340,6 +7190,152 @@
         "reimagine",
         "release"
       ]
+    },
+    {
+      "at": "2026-09-21T08:32:19.164007+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio Platforms targets November IPO launch with \u20b937,700 crore issue",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZDFPRUZfLThFbzdINm4yRmswOU9fdGRpMW5iNDlaY29jTkdJcUpsNUZtSzd3SWY0akxIdkVUa3dUbW4zS2JlLVRkYVNFMFUyU25MN01qU1pFSDRGOVctcHN4dUJJd3dhLWNYaElTNHlqZFpzc2ljanNmb0N2X25QMTZtUHI0cUxaekpheUVYamhMZVRDaUxkRHlBNmthVkwxcjJYb3Rza0pIdl9STjJvZHRDcmd2dU50NzN0MzdqS3JEM2NtV1kxeFl2ZXZ5UkljVkpaX2JLTU5mRl9zLUVPa0h3cmrSAfIBQVVfeXFMT0FGa0x2a0V0MzF2UXNVLWZWUzdaak1YWDBkNURrbkxEdUhFM2RUdVhVeW44V3JMWUkzRzRZQ2p3TlNDeXp5UG11TnNub1pUMEl2TldOZEdXRGdyNDREQ1RJcHoxVkdPeXFMUmdQaVU5eE95Y0wzZnljMlAyQ0dJb0hEN0VZaFhEaW4yZnlEUVhCZi1TSWhSd0o1T3Nab0tGckp2UWJ1UHF2VnN1Ujl5Y0xfMzFNV01yN2tqYU9aTEJMX3ZnVEZneXp0Wlhrd1NNbmlFUUVjVE9EZE8wcXNfVGpNQmgzSC0za1lSQ0kwR3N2aXc?oc=5",
+      "words": [
+        "700",
+        "band",
+        "enters",
+        "final",
+        "ipo",
+        "issue",
+        "jio",
+        "lap",
+        "launch",
+        "november",
+        "platforms",
+        "price",
+        "sight",
+        "still"
+      ]
+    },
+    {
+      "at": "2026-09-21T08:32:19.164007+00:00",
+      "handle": "News: Global chips",
+      "headline": "Minister Vaishnaw warns India chip industry to prepare for disruption",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN05jNld1QTJyWHF2WlpIVzYyQXdGQXhHVmw5VjBQLUVMbmlXeXVDdXg3c05XRVRrcTJFbFZOUG9wM2hodTFlWi1ZbmhjZDVhQnZ3SXZZVHFzT3lLWkRnWXNIVTZva3EzZzBVcEVzLVU4dTJjSW1odzFjYnE4bFZvVXdhTVlLcmdLZlhSVlNaYjd0bjF5M25hcHZ3?oc=5",
+      "words": [
+        "blunt",
+        "chip",
+        "disruption",
+        "industry",
+        "prepare",
+        "vaishnaw",
+        "warning"
+      ]
+    },
+    {
+      "at": "2026-09-21T08:32:19.164007+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft opens new data centre in Hyderabad for India AI plan",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcWZnOWdOclRFYmdUY1dvd0ZDQWdDRGc5N29XSVRQN1p3bEJkOXNxaXYwcnBPZ1R4UFVCeXR0b2VaRGdHTTB1YjJUWDhya2Fsd3U4SjdqVlZHWGYycjg4ZmpKLXRMRGZJWXQ1MmxKQWYtSVVkd2xqU3BhNGE2eTlIdlc2N1RlNmY1RkdRNkFSczE4SndNdG9DazJvOGh6N1pZald3akJ6MHVqU2FSdVpzd0lNNmF4bzFKQ2NGVF9WOTRUa0tlNkY5eE5zcnZRZXdvUExUcUswU3dkUEZyRHRtcmVBaTVFUkhVT3N3dkRkRFVEQdIB8gFBVV95cUxQcWZnOWdOclRFYmdUY1dvd0ZDQWdDRGc5N29XSVRQN1p3bEJkOXNxaXYwcnBPZ1R4UFVCeXR0b2VaRGdHTTB1YjJUWDhya2Fsd3U4SjdqVlZHWGYycjg4ZmpKLXRMRGZJWXQ1MmxKQWYtSVVkd2xqU3BhNGE2eTlIdlc2N1RlNmY1RkdRNkFSczE4SndNdG9DazJvOGh6N1pZald3akJ6MHVqU2FSdVpzd0lNNmF4bzFKQ2NGVF9WOTRUa0tlNkY5eE5zcnZRZXdvUExUcUswU3dkUEZyRHRtcmVBaTVFUkhVT3N3dkRkRFVEQQ?oc=5",
+      "words": [
+        "billion",
+        "centre",
+        "data",
+        "hyderabad",
+        "microsoft",
+        "opens",
+        "part",
+        "plan"
+      ]
+    },
+    {
+      "at": "2026-09-21T08:32:19.164007+00:00",
+      "handle": "News: Global AI",
+      "headline": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjX0c3REFZMTNUWV95ZElUY25ZYTdIUnhHck9JSkZQVThQRHpzZlNDUDlHLTR2X1QtZkdVWXlYZjV5MVN6RU9PZmNMcW5VbnFMQ1FJNTFZcEtsTE91czFLR25QUmZNd3lKZFJFQ204N1FPZEFxS3c?oc=5",
+      "words": [
+        "300",
+        "big",
+        "billion",
+        "debt",
+        "doesn",
+        "guarantee",
+        "hidden",
+        "investment",
+        "risk",
+        "show",
+        "tech"
+      ]
+    },
+    {
+      "at": "2026-09-21T08:32:19.164007+00:00",
+      "handle": "News: India fintech",
+      "headline": "UPI MDR rules and potential stock winners analyzed for investors",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1ZtbjF4TVhGR09aQTlBVmxxVXVwT2s5YnpCVWd1WTV5WUM2VnF2UGV4cWk4TmllYVNLVFRDX3VRZHJYeGdsT3E2Z1FMeHQ2aWd2cTV3UEdaanhZRGtfYmlaNTRPZC1aOEVfcHNHaE9lckk3eDZJdGFwTmgwRHcwRF9kQ0dLa1JRMEZ0c0NUOThJcVRjM1NfZVVPblN5NFRKUi1vQkZ3bHBhY1FVSzRxd0o4OFkxY2RrNFNfUkRTVU80YjlCNVJ2UmVxNHB3cXVpWHZRczQwUdIB3AFBVV95cUxPNk1xcm1HWWFfaE1tbDRGYWdkN0hKNUk4RFJSeWR1TnlOU2lTb3Y2NUpQNy1QS2xiX3N2M19wQUEtRkJGZldzYTVUV3ZmWE1hWTFkZmoyZUVhMTJkOExBLVotUmdHaUFWQUxlVkQzeHU4V2s5Q0FmM2hseGotbmFwUzdmaElWUGg1eEt2SEhCMi1PcW80eVdqeERmNE5YWWhKZ1lHbElHZFZMeHFnN0k4Q1p3U0pqLW5ZTExyWVNJUFpFZTJFNHBoUHJFU1l6eDFadFJ0RTY0ZHJ3dGhC?oc=5",
+      "words": [
+        "charges",
+        "could",
+        "digital",
+        "mdr",
+        "payments",
+        "these",
+        "upi",
+        "winners"
+      ]
+    },
+    {
+      "at": "2026-09-21T08:32:19.164007+00:00",
+      "handle": "News: Global AI",
+      "headline": "China and US compete for AI dominance while sharing safety concerns",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSGFmVGJWSnhPdFJZMDRieGowUktvQUJFR2RZTHJvdGhBcWIzN1gzWGt2VnlWQzNnZ2FmdGNsRG9rUDZSX0JYR0oxN0hTem1HcW5CWm0tc2pCVGFWcjBrNG5zd1pId19paHNHaGpwUWJBSHFoYTBjTDhWbFJ5a1Q0YjVzb2ltQ2EyR2dzQ25zVnpjOUFZc09RaVdPeG4ySHNuLWVLRTNLM1EzVnF5aERKNmV3WTBONU5odjBUS2xpY1pHc1plNXgzb2tHVS1ZX0Z0YmVIY3g2VnFpZ2VIQkdHMnR3UHA3SzRfdlB4d3Jsa2Nkd1ltTzJ5cE5HWC1ncVNxd0RGRGJfSFhuV2s?oc=5",
+      "words": [
+        "china",
+        "competing",
+        "concerns",
+        "dominance",
+        "safety",
+        "shared"
+      ]
+    },
+    {
+      "at": "2026-09-21T08:32:19.164007+00:00",
+      "handle": "News: India tech policy",
+      "headline": "RBI simplifies KYC rules for Foreign Portfolio Investors",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbW1BLTFNdU9sa1VkTHBxOVJLdnFOUDRTNE9TWmFBYWJ5OHpVRURLajhLMDhycFlsTWh4ZkRfQ3JoZlRTVGJmcDBuTEJ5NWUtRGtZUEFJYTdvRmtLbGJBY2tBQURvT253MGUzQjIwbFIxTXdnV2ZGWmFfY3dBMUR3ZHJSdjNkZHBZVmNrV0dkM1FuaUxRZDFrR05HTjlFcXVjQ0NSZE9jS0htNlVXcnJGSFdKaGdyQWozZm5CYUxKakpwclpPY0ktMl9LblBuMzZlbUJvSEdiYnVOTVdVOFllZFhYaUVhMEF3dVHSAeoBQVVfeXFMUG1tQS0xTXVPbGtVZExwcTlSS3ZxTlA0UzRPU1phQWFieTh6VUVES2o4SzA4cnBZbE1oeGZEX0NyaGZUU1RiZnAwbkxCeTVlLURrWVBBSWE3b0ZrS2xiQWNrQUFEb09udzBlM0IyMGxSMU13Z1dmRlphX2N3QTFEd2RyUnYzZGRwWVZja1dHZDNRbmlMUWQxa0dOR045RXF1Y0NDUmRPY0tIbTZVV3JyRkhXSmhnckFqM2ZuQmFMSmpKcHJaT2NJLTJfS25QbjM2ZW1Cb0hHYmJ1Tk1XVThZZWRYWGlFYTBBd3VR?oc=5",
+      "words": [
+        "certification",
+        "copies",
+        "document",
+        "eases",
+        "foreign",
+        "investors",
+        "kyc",
+        "portfolio",
+        "rbi",
+        "requirements",
+        "rules",
+        "simplifies"
+      ]
+    },
+    {
+      "at": "2026-09-21T08:32:19.164007+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic mulls launch of new AI model ahead of anticipated IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjR5WUlNNlBIcExHTVlGcVFjTS1IMDhQbmZLSXJkU0UzcGNweHBCeDRlOVh0WnlEbXV2YnlBcVBWOWdZdHNEeFRqbUotTm5GYm5xbC1HWGo1M21jUmpjTGo5TmlpQk5PNzkxWXVYb2ZwRXdjX2hkbG1uWmszSHZneEpTZ1VhdXA0dFd1d0dTS3E3SVZBemRmd1RvQlYxWm5XYzRIem1aTTQxbEthcndHZWlQcWtUMlFDa3c?oc=5",
+      "words": [
+        "ahead",
+        "amazon",
+        "anthropic",
+        "backed",
+        "ipo",
+        "launch",
+        "model",
+        "mulls"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -12409,10 +12405,38 @@
     "1789977855319",
     "1789977995655",
     "1789978185669",
-    "1789978480883"
+    "1789978480883",
+    "1789930380255",
+    "1789932605534",
+    "1789956016112",
+    "1789964820020",
+    "1789972995009",
+    "1789973400637",
+    "1789974120860",
+    "1789974142755",
+    "1789974559013",
+    "1789975620176",
+    "1789977548359",
+    "1789977601810",
+    "1789978310518",
+    "1789978440270",
+    "1789978462302",
+    "1789978500379",
+    "1789978560613",
+    "1789978628951",
+    "1789979015586",
+    "1789979055457",
+    "1789979068473",
+    "1789979187026",
+    "1789979243929",
+    "1789979272316",
+    "1789979316601",
+    "1789979335071",
+    "1789979399066",
+    "1789998699382"
   ],
-  "last_digest_hour": "2026-09-21T13",
-  "last_success": "2026-09-21T08:18:21.187545+00:00",
+  "last_digest_hour": "2026-09-21T14",
+  "last_success": "2026-09-21T08:32:19.166153+00:00",
   "national": {
     "alerted": [
       {
@@ -13727,7 +13751,7 @@
       "CG-DL-E-21092026-276347",
       "CG-DL-E-21092026-276352"
     ],
-    "last_run": "2026-09-21T08:19:12.747407+00:00",
+    "last_run": "2026-09-21T08:33:06.855749+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14710,98 +14734,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-      "post": {
-        "created_at": "2026-09-21T03:27:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1789961220296",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Finance",
-        "reposts": 0,
-        "text": "Big Tech's $300 Billion 'Hidden Guarantee' for AI Investment\u2026 Risk That Doesn't Show Up as Debt",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjX0c3REFZMTNUWV95ZElUY25ZYTdIUnhHck9JSkZQVThQRHpzZlNDUDlHLTR2X1QtZkdVWXlYZjV5MVN6RU9PZmNMcW5VbnFMQ1FJNTFZcEtsTE91czFLR25QUmZNd3lKZFJFQ204N1FPZEFxS3c?oc=5"
-      },
-      "queued_at": "2026-09-21T07:47:59.576044+00:00",
-      "score": 7.0,
-      "why": ""
-    },
-    {
-      "headline": "UPI MDR rules and potential stock winners analyzed for investors",
-      "post": {
-        "created_at": "2026-09-21T07:17:00+00:00",
-        "handle": "News: India fintech",
-        "id": "1789975020225",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "UPI MDR: These stocks could be the winners | New UPI charges | Digital payments",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1ZtbjF4TVhGR09aQTlBVmxxVXVwT2s5YnpCVWd1WTV5WUM2VnF2UGV4cWk4TmllYVNLVFRDX3VRZHJYeGdsT3E2Z1FMeHQ2aWd2cTV3UEdaanhZRGtfYmlaNTRPZC1aOEVfcHNHaE9lckk3eDZJdGFwTmgwRHcwRF9kQ0dLa1JRMEZ0c0NUOThJcVRjM1NfZVVPblN5NFRKUi1vQkZ3bHBhY1FVSzRxd0o4OFkxY2RrNFNfUkRTVU80YjlCNVJ2UmVxNHB3cXVpWHZRczQwUdIB3AFBVV95cUxPNk1xcm1HWWFfaE1tbDRGYWdkN0hKNUk4RFJSeWR1TnlOU2lTb3Y2NUpQNy1QS2xiX3N2M19wQUEtRkJGZldzYTVUV3ZmWE1hWTFkZmoyZUVhMTJkOExBLVotUmdHaUFWQUxlVkQzeHU4V2s5Q0FmM2hseGotbmFwUzdmaElWUGg1eEt2SEhCMi1PcW80eVdqeERmNE5YWWhKZ1lHbElHZFZMeHFnN0k4Q1p3U0pqLW5ZTExyWVNJUFpFZTJFNHBoUHJFU1l6eDFadFJ0RTY0ZHJ3dGhC?oc=5"
-      },
-      "queued_at": "2026-09-21T07:47:59.576044+00:00",
-      "score": 7.0,
-      "why": ""
-    },
-    {
-      "headline": "China and US compete for AI dominance while sharing safety concerns",
-      "post": {
-        "created_at": "2026-09-21T07:29:03+00:00",
-        "handle": "News: Global AI",
-        "id": "1789975743074",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Rocky Mount Telegram",
-        "reposts": 0,
-        "text": "China and the US are competing for AI dominance but have shared concerns over safety",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSGFmVGJWSnhPdFJZMDRieGowUktvQUJFR2RZTHJvdGhBcWIzN1gzWGt2VnlWQzNnZ2FmdGNsRG9rUDZSX0JYR0oxN0hTem1HcW5CWm0tc2pCVGFWcjBrNG5zd1pId19paHNHaGpwUWJBSHFoYTBjTDhWbFJ5a1Q0YjVzb2ltQ2EyR2dzQ25zVnpjOUFZc09RaVdPeG4ySHNuLWVLRTNLM1EzVnF5aERKNmV3WTBONU5odjBUS2xpY1pHc1plNXgzb2tHVS1ZX0Z0YmVIY3g2VnFpZ2VIQkdHMnR3UHA3SzRfdlB4d3Jsa2Nkd1ltTzJ5cE5HWC1ncVNxd0RGRGJfSFhuV2s?oc=5"
-      },
-      "queued_at": "2026-09-21T07:47:59.576044+00:00",
-      "score": 7.0,
-      "why": ""
-    },
-    {
-      "headline": "RBI simplifies KYC rules for Foreign Portfolio Investors",
-      "post": {
-        "created_at": "2026-09-21T07:13:24+00:00",
-        "handle": "News: India tech policy",
-        "id": "1789974804745",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Free Press Journal",
-        "reposts": 0,
-        "text": "RBI Simplifies KYC Rules For Foreign Portfolio Investors, Eases Certification Requirements For Document Copies",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbW1BLTFNdU9sa1VkTHBxOVJLdnFOUDRTNE9TWmFBYWJ5OHpVRURLajhLMDhycFlsTWh4ZkRfQ3JoZlRTVGJmcDBuTEJ5NWUtRGtZUEFJYTdvRmtLbGJBY2tBQURvT253MGUzQjIwbFIxTXdnV2ZGWmFfY3dBMUR3ZHJSdjNkZHBZVmNrV0dkM1FuaUxRZDFrR05HTjlFcXVjQ0NSZE9jS0htNlVXcnJGSFdKaGdyQWozZm5CYUxKakpwclpPY0ktMl9LblBuMzZlbUJvSEdiYnVOTVdVOFllZFhYaUVhMEF3dVHSAeoBQVVfeXFMUG1tQS0xTXVPbGtVZExwcTlSS3ZxTlA0UzRPU1phQWFieTh6VUVES2o4SzA4cnBZbE1oeGZEX0NyaGZUU1RiZnAwbkxCeTVlLURrWVBBSWE3b0ZrS2xiQWNrQUFEb09udzBlM0IyMGxSMU13Z1dmRlphX2N3QTFEd2RyUnYzZGRwWVZja1dHZDNRbmlMUWQxa0dOR045RXF1Y0NDUmRPY0tIbTZVV3JyRkhXSmhnckFqM2ZuQmFMSmpKcHJaT2NJLTJfS25QbjM2ZW1Cb0hHYmJ1Tk1XVThZZWRYWGlFYTBBd3VR?oc=5"
-      },
-      "queued_at": "2026-09-21T08:02:53.391085+00:00",
-      "score": 7.0,
-      "why": "Major regulatory move by the central bank impacting financial markets and tech-backed compliance."
-    },
-    {
-      "headline": "Jio Platforms targets November IPO launch with \u20b937,700 crore issue",
-      "post": {
-        "created_at": "2026-09-21T08:09:45+00:00",
-        "handle": "News: India telecom",
-        "id": "1789978185669",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Fortune India",
-        "reposts": 0,
-        "text": "Jio Platforms IPO enters final lap: \u20b937,700 crore issue, November launch in sight; price band still under wraps",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZDFPRUZfLThFbzdINm4yRmswOU9fdGRpMW5iNDlaY29jTkdJcUpsNUZtSzd3SWY0akxIdkVUa3dUbW4zS2JlLVRkYVNFMFUyU25MN01qU1pFSDRGOVctcHN4dUJJd3dhLWNYaElTNHlqZFpzc2ljanNmb0N2X25QMTZtUHI0cUxaekpheUVYamhMZVRDaUxkRHlBNmthVkwxcjJYb3Rza0pIdl9STjJvZHRDcmd2dU50NzN0MzdqS3JEM2NtV1kxeFl2ZXZ5UkljVkpaX2JLTU5mRl9zLUVPa0h3cmrSAfIBQVVfeXFMT0FGa0x2a0V0MzF2UXNVLWZWUzdaak1YWDBkNURrbkxEdUhFM2RUdVhVeW44V3JMWUkzRzRZQ2p3TlNDeXp5UG11TnNub1pUMEl2TldOZEdXRGdyNDREQ1RJcHoxVkdPeXFMUmdQaVU5eE95Y0wzZnljMlAyQ0dJb0hEN0VZaFhEaW4yZnlEUVhCZi1TSWhSd0o1T3Nab0tGckp2UWJ1UHF2VnN1Ujl5Y0xfMzFNV01yN2tqYU9aTEJMX3ZnVEZneXp0Wlhrd1NNbmlFUUVjVE9EZE8wcXNfVGpNQmgzSC0za1lSQ0kwR3N2aXc?oc=5"
-      },
-      "queued_at": "2026-09-21T08:18:21.186329+00:00",
-      "score": 9.0,
-      "why": "Major IPO filing and listing news for a top-tier Indian tech company."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -15736,7 +15669,7 @@
     "bse eternal/zomato": 1789766425381,
     "bse fractal analytics": 1789599537695,
     "bse happiest minds": 1788818758115,
-    "bse hcltech": 1789753700715,
+    "bse hcltech": 1789998699382,
     "bse hfcl": 1789747209217,
     "bse info edge": 1789415448835,
     "bse infosys": 1789727487991,
@@ -15783,19 +15716,19 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789977851254,
-    "news: consumer internet india": 1789977134026,
-    "news: global ai": 1789975885668,
-    "news: global chips": 1789976272684,
+    "news: big tech platforms": 1789979055457,
+    "news: consumer internet india": 1789978628951,
+    "news: global ai": 1789979335071,
+    "news: global chips": 1789978560613,
     "news: global it services": 1789976295904,
     "news: india ai deeptech": 1789975319837,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789977613930,
+    "news: india fintech": 1789979015586,
     "news: india semiconductors": 1789978480883,
-    "news: india tech policy": 1789977995655,
+    "news: india tech policy": 1789979316601,
     "news: india telecom": 1789978185669,
-    "news: indian it majors": 1789976722644,
-    "news: indian it midcaps": 1789975909148,
+    "news: indian it majors": 1789979399066,
+    "news: indian it midcaps": 1789979243929,
     "news: pib releases": 1789974900211,
     "news: tech leaders": 1789976467302,
     "nvidia": 1789650055203,
@@ -15830,7 +15763,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T08:18:21.507172+00:00",
+    "last_server_run": "2026-09-21T08:32:19.487910+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T07:35:25.039463+00:00",
