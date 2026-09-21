@@ -12762,10 +12762,30 @@
     "1789990620668",
     "1789990646226",
     "1789990894846",
-    "1789991054959"
+    "1789991054959",
+    "1789907940571",
+    "1789968600915",
+    "1789973995076",
+    "1789978594911",
+    "1789984957108",
+    "1789985458248",
+    "1789986600929",
+    "1789986869390",
+    "1789988700779",
+    "1789988817939",
+    "1789988988474",
+    "1789990230956",
+    "1789990380359",
+    "1789990636590",
+    "1789990981164",
+    "1789991051359",
+    "1789991090478",
+    "1789991100648",
+    "1789991428420",
+    "1789991807471"
   ],
   "last_digest_hour": "2026-09-21T17",
-  "last_success": "2026-09-21T11:47:07.131305+00:00",
+  "last_success": "2026-09-21T12:02:30.196439+00:00",
   "national": {
     "alerted": [
       {
@@ -14173,7 +14193,7 @@
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356"
     ],
-    "last_run": "2026-09-21T11:48:27.252811+00:00",
+    "last_run": "2026-09-21T12:04:35.291809+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15174,7 +15194,11 @@
       "page:https://www.cbse.gov.in/cbsenew/documents/Transfer Policy.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Student_Safety_2022.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Circular_Total_04062026.pdf",
-      "page:https://www.cbse.gov.in/cbsenew/documents/affiliation-Bye-Laws.pdf"
+      "page:https://www.cbse.gov.in/cbsenew/documents/affiliation-Bye-Laws.pdf",
+      "pib:2313066",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63636",
+      "page:https://www.mha.gov.in/sites/default/files/Advisory_21092026.pdf",
+      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13705&Mode=0"
     ],
     "source_failures": {
       "CBI": {
@@ -15208,7 +15232,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Zoho founder Sridhar Vembu warns engineers against AI coding overreliance",
+      "post": {
+        "created_at": "2026-09-21T11:50:28+00:00",
+        "handle": "News: India AI deeptech",
+        "id": "1789991428420",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "NewsBytes",
+        "reposts": 0,
+        "text": "Sridhar Vembu of Zoho warns engineers against AI coding overreliance",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTlncnZZMFJNWHJBWDVuN1BFcUFHaHRTR05rZHNIWXRKSHlBaDRrNzVCTkt2QkhITmNaUjVmTWpic2pLYjRrTUlUbWRRaWd2Q0JNOWZhQkxUQ0hFTGZGVml0ZXZ1eHBPTHotdDEtOE9jT2ozbVY2bWtQeHlSc1k1YWVnVF94Y3JxZGs3TFlPbEFUeFNuV2dsc0UwenRWaGNGRjN2dXU2NWxKOWJSX0ZCblZuWkVwQQ?oc=5"
+      },
+      "queued_at": "2026-09-21T12:02:30.195624+00:00",
+      "score": 7.0,
+      "why": "Prominent Indian tech founder making a notable statement on industry direction and AI limitations."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -16130,7 +16173,7 @@
   },
   "seen": {
     "airtel": 1789631210999,
-    "amazon india": 1789735621179,
+    "amazon india": 1789988988474,
     "amd": 1788174900103,
     "anthropic": 1789762597284,
     "apple": 1789707734879,
@@ -16192,18 +16235,18 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789987620583,
     "news: consumer internet india": 1789988829978,
-    "news: global ai": 1789990549931,
+    "news: global ai": 1789991051359,
     "news: global chips": 1789986600144,
-    "news: global it services": 1789990894846,
-    "news: india ai deeptech": 1789989559667,
+    "news: global it services": 1789991090478,
+    "news: india ai deeptech": 1789991428420,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1789988817332,
+    "news: india fintech": 1789990636590,
     "news: india semiconductors": 1789989750029,
     "news: india tech policy": 1789991054959,
-    "news: india telecom": 1789988353310,
-    "news: indian it majors": 1789986720731,
-    "news: indian it midcaps": 1789988484465,
-    "news: pib releases": 1789988640439,
+    "news: india telecom": 1789991807471,
+    "news: indian it majors": 1789988700779,
+    "news: indian it midcaps": 1789990230956,
+    "news: pib releases": 1789990380359,
     "news: tech leaders": 1789990620668,
     "nvidia": 1789984835946,
     "nvidia blog": 1789984835946,
@@ -16238,17 +16281,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T11:47:07.328290+00:00",
+    "last_server_run": "2026-09-21T12:02:30.413602+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-21T09:48:34.729901+00:00",
+        "checked": "2026-09-21T12:04:00.036269+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-21T09:48:26.542742+00:00",
+        "checked": "2026-09-21T12:03:51.997589+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -16324,7 +16367,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-21T09:48:30.614080+00:00",
+        "checked": "2026-09-21T12:03:56.051430+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -16378,11 +16421,11 @@
       },
       "last": {
         "calendar": "2026-09-21T09:02:48.345146+00:00",
-        "ls_reports": "2026-09-21T09:48:09.221603+00:00",
-        "rs_committee_press": "2026-09-21T09:48:20.178080+00:00",
-        "rs_press": "2026-09-21T09:48:16.357655+00:00",
-        "rs_reports": "2026-09-21T09:48:13.656593+00:00",
-        "rs_updates": "2026-09-21T09:48:22.442108+00:00"
+        "ls_reports": "2026-09-21T12:03:36.050371+00:00",
+        "rs_committee_press": "2026-09-21T12:03:46.561946+00:00",
+        "rs_press": "2026-09-21T12:03:43.266470+00:00",
+        "rs_reports": "2026-09-21T12:03:39.978192+00:00",
+        "rs_updates": "2026-09-21T12:03:47.982881+00:00"
       }
     },
     "scanned": [
