@@ -11782,10 +11782,21 @@
     "1789950653634",
     "1789950791654",
     "1789950893589",
-    "1789950900816"
+    "1789950900816",
+    "1789884417348",
+    "1789887869832",
+    "1789931703038",
+    "1789944673196",
+    "1789946275382",
+    "1789946675121",
+    "1789949414097",
+    "1789950600021",
+    "1789950915249",
+    "1789951803085",
+    "1789951893503"
   ],
   "last_digest_hour": "2026-09-21T06",
-  "last_success": "2026-09-21T00:47:07.029080+00:00",
+  "last_success": "2026-09-21T01:03:11.510818+00:00",
   "national": {
     "alerted": [
       {
@@ -12970,7 +12981,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-21T00:48:34.873925+00:00",
+    "last_run": "2026-09-21T01:04:35.412882+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13946,6 +13957,42 @@
       "queued_at": "2026-09-21T00:47:07.028185+00:00",
       "score": 8.0,
       "why": "Major contract win involving high-value semiconductor infrastructure capex in India."
+    },
+    {
+      "headline": "ISM 2.0 draws $12 billion interest; Vaishnaw stresses AI safety",
+      "post": {
+        "created_at": "2026-09-21T00:30:00+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789950600021",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "ISM 2.0 draws $12 billion interest; Vaishnaw says AI firms must ensure safety",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFU1QjZRLVFUVFpRbHF3REZ4eXJjQUg4OW1MSHZ1U044MGhheXhQdlpfdGNRcU92OXZnRVA5STJzTTE1aHRhT2ZOWjVLWHlaSmNLQ0xBMmNJOEw3Y1lzYkJ2Zk14Z196TVFLeVhDeGRmX0laYlk4U1ViLVZ1UmExYk9sdzl4TzBDV2lESXpyLXNtaklFaGFYWDBRZEpzcUFpWkVGSEwzZFlDVXB5aGhaRGRtSjRNLTNTRmVLOV8tMHNvU1E1U0FtZkVoSGdIaWRyb3pJdVRFa3pPbFJPcHfSAfQBQVVfeXFMTVNnaG1BejhSNmVPcVNfaUJfTWh2NXVSMzBYMU9FWS16T2V6RnZiUERSeVVsdFRaS21XYy1TRE1LZmR2R09Sa3J2U1FLRlZkV3hDQ05MRzVvYnRpWDByeklscW5GemNPNlYyUjFEa3VKZnZVZ2Nrd1VFZGtCUmh0TWxXcGFDZFhuUFBBUzN5NU9xc2RmYzVPcVBKc2ZfOWlVbm5lUzhWRzV3ZkdEd3U1QlBPaW1NZ1ZLbTZZcjg5UVNIZmVwTjJDN1A4TVpHWGN0d2V3MXBDYkhTT0NsVDN2amtJRlRnRmMzTEg4MGtEX1V4WElxTA?oc=5"
+      },
+      "queued_at": "2026-09-21T01:03:11.509709+00:00",
+      "score": 8.0,
+      "why": "Combines semiconductor investment interest with ministerial policy statements on AI safety."
+    },
+    {
+      "headline": "Government launches indigenous Cell Broadcast System for disaster alerts",
+      "post": {
+        "created_at": "2026-09-20T22:51:13+00:00",
+        "handle": "News: India telecom",
+        "id": "1789944673196",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "News On AIR",
+        "reposts": 0,
+        "text": "Government launches indigenous Cell Broadcast System for instant disaster alerts",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0pEdGhJUXVBcEcwMHJ4TWdPUFdyU0F2X3lZeUxkWkE3elQ0aDZJZzNjZkxZYTZoRndIYzJUeUYyQ0YxNnpTS3oxZk11RlVwMVQzMlRvSnpBZXpJdG81Nl94OTV6MHhVR2ZMWUdQd2VjM2NocWFhZ1B0bkVxcDhLMnRkYTdoZ2FrbHVUMEZCXzl0S0Q0TUh2UXNwWm4yNjdzU2VJT2daRWlKMk9mME1TSFF4RjFFQQ?oc=5"
+      },
+      "queued_at": "2026-09-21T01:03:11.509709+00:00",
+      "score": 7.0,
+      "why": "Major domestic telecom and technology deployment by the government."
     }
   ],
   "page_links": {
@@ -14930,20 +14977,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789947184667,
-    "news: consumer internet india": 1789950600489,
-    "news: global ai": 1789939860112,
+    "news: consumer internet india": 1789951803085,
+    "news: global ai": 1789951893503,
     "news: global chips": 1789949100785,
     "news: global it services": 1789950900816,
     "news: india ai deeptech": 1789931687709,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789948929057,
+    "news: india fintech": 1789951803085,
     "news: india semiconductors": 1789950791654,
     "news: india tech policy": 1789945502340,
-    "news: india telecom": 1789948075070,
+    "news: india telecom": 1789949414097,
     "news: indian it majors": 1789950653634,
     "news: indian it midcaps": 1789932497325,
     "news: pib releases": 1789944108253,
-    "news: tech leaders": 1789950893589,
+    "news: tech leaders": 1789950915249,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14976,17 +15023,17 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T00:47:07.223815+00:00",
+    "last_server_run": "2026-09-21T01:03:11.810060+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-20T23:03:42.873343+00:00",
+        "checked": "2026-09-21T01:04:01.438777+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-20T23:03:35.236806+00:00",
+        "checked": "2026-09-21T01:03:53.447596+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -15062,7 +15109,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-20T23:03:39.028225+00:00",
+        "checked": "2026-09-21T01:03:57.245712+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -15116,11 +15163,11 @@
       },
       "last": {
         "calendar": "2026-09-20T20:47:35.763242+00:00",
-        "ls_reports": "2026-09-20T23:03:20.076858+00:00",
-        "rs_committee_press": "2026-09-20T23:03:29.716559+00:00",
-        "rs_press": "2026-09-20T23:03:26.319361+00:00",
-        "rs_reports": "2026-09-20T23:03:23.530492+00:00",
-        "rs_updates": "2026-09-20T23:03:31.416531+00:00"
+        "ls_reports": "2026-09-21T01:03:37.686556+00:00",
+        "rs_committee_press": "2026-09-21T01:03:47.800765+00:00",
+        "rs_press": "2026-09-21T01:03:44.430368+00:00",
+        "rs_reports": "2026-09-21T01:03:41.582623+00:00",
+        "rs_updates": "2026-09-21T01:03:49.597846+00:00"
       }
     },
     "scanned": [
