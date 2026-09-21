@@ -12367,10 +12367,33 @@
     "1789976467302",
     "1789976722644",
     "1789996344894",
-    "2312900"
+    "2312900",
+    "1789894662224",
+    "1789903080452",
+    "1789951482418",
+    "1789966054102",
+    "1789967108611",
+    "1789970439177",
+    "1789970460688",
+    "1789971521875",
+    "1789972123187",
+    "1789972647819",
+    "1789973580094",
+    "1789974804745",
+    "1789974900211",
+    "1789975183266",
+    "1789975800218",
+    "1789976681788",
+    "1789976710607",
+    "1789976822693",
+    "1789977124467",
+    "1789977134026",
+    "1789977166463",
+    "1789977354194",
+    "1789977596716"
   ],
   "last_digest_hour": "2026-09-21T13",
-  "last_success": "2026-09-21T07:47:59.577114+00:00",
+  "last_success": "2026-09-21T08:02:53.392020+00:00",
   "national": {
     "alerted": [
       {
@@ -13680,9 +13703,12 @@
       "CG-RJ-E-21092026-276334",
       "CG-DL-E-21092026-276330",
       "CG-OR-E-21092026-276346",
-      "CG-DL-E-21092026-276353"
+      "CG-DL-E-21092026-276353",
+      "CG-DL-E-21092026-276332",
+      "CG-DL-E-21092026-276347",
+      "CG-DL-E-21092026-276352"
     ],
-    "last_run": "2026-09-21T07:53:54.990951+00:00",
+    "last_run": "2026-09-21T08:07:19.230140+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14621,22 +14647,20 @@
       "gazette:CG-DL-E-21092026-276353",
       "pib:2312888",
       "quake:usgs:us7000tiw4",
-      "pib:2312900"
+      "pib:2312900",
+      "gazette:CG-DL-E-21092026-276347",
+      "pib:2312915",
+      "gazette:CG-DL-E-21092026-276332",
+      "gazette:CG-DL-E-21092026-276352"
     ],
     "source_failures": {
       "CBI": {
         "count": 18,
         "until": "2026-09-21T11:18:44.198455+00:00"
       },
-      "Gazette of India (Extraordinary)": {
-        "count": 2
-      },
       "IMD": {
         "count": 3,
         "until": "2026-09-21T11:18:44.198455+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 18,
@@ -14719,6 +14743,24 @@
       "queued_at": "2026-09-21T07:47:59.576044+00:00",
       "score": 7.0,
       "why": ""
+    },
+    {
+      "headline": "RBI simplifies KYC rules for Foreign Portfolio Investors",
+      "post": {
+        "created_at": "2026-09-21T07:13:24+00:00",
+        "handle": "News: India tech policy",
+        "id": "1789974804745",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Free Press Journal",
+        "reposts": 0,
+        "text": "RBI Simplifies KYC Rules For Foreign Portfolio Investors, Eases Certification Requirements For Document Copies",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbW1BLTFNdU9sa1VkTHBxOVJLdnFOUDRTNE9TWmFBYWJ5OHpVRURLajhLMDhycFlsTWh4ZkRfQ3JoZlRTVGJmcDBuTEJ5NWUtRGtZUEFJYTdvRmtLbGJBY2tBQURvT253MGUzQjIwbFIxTXdnV2ZGWmFfY3dBMUR3ZHJSdjNkZHBZVmNrV0dkM1FuaUxRZDFrR05HTjlFcXVjQ0NSZE9jS0htNlVXcnJGSFdKaGdyQWozZm5CYUxKakpwclpPY0ktMl9LblBuMzZlbUJvSEdiYnVOTVdVOFllZFhYaUVhMEF3dVHSAeoBQVVfeXFMUG1tQS0xTXVPbGtVZExwcTlSS3ZxTlA0UzRPU1phQWFieTh6VUVES2o4SzA4cnBZbE1oeGZEX0NyaGZUU1RiZnAwbkxCeTVlLURrWVBBSWE3b0ZrS2xiQWNrQUFEb09udzBlM0IyMGxSMU13Z1dmRlphX2N3QTFEd2RyUnYzZGRwWVZja1dHZDNRbmlMUWQxa0dOR045RXF1Y0NDUmRPY0tIbTZVV3JyRkhXSmhnckFqM2ZuQmFMSmpKcHJaT2NJLTJfS25QbjM2ZW1Cb0hHYmJ1Tk1XVThZZWRYWGlFYTBBd3VR?oc=5"
+      },
+      "queued_at": "2026-09-21T08:02:53.391085+00:00",
+      "score": 7.0,
+      "why": "Major regulatory move by the central bank impacting financial markets and tech-backed compliance."
     }
   ],
   "page_links": {
@@ -15702,20 +15744,20 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789976395847,
-    "news: consumer internet india": 1789976400693,
+    "news: big tech platforms": 1789977596716,
+    "news: consumer internet india": 1789977134026,
     "news: global ai": 1789975885668,
     "news: global chips": 1789976100180,
     "news: global it services": 1789976295904,
     "news: india ai deeptech": 1789975319837,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789976104453,
-    "news: india semiconductors": 1789975634436,
+    "news: india semiconductors": 1789976822693,
     "news: india tech policy": 1789975467094,
-    "news: india telecom": 1789975949479,
+    "news: india telecom": 1789977354194,
     "news: indian it majors": 1789976722644,
     "news: indian it midcaps": 1789975909148,
-    "news: pib releases": 1789973580978,
+    "news: pib releases": 1789974900211,
     "news: tech leaders": 1789976467302,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
@@ -15749,7 +15791,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T07:47:59.916793+00:00",
+    "last_server_run": "2026-09-21T08:02:53.717489+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T07:35:25.039463+00:00",
