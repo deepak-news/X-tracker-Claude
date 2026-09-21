@@ -12994,10 +12994,31 @@
     "1789998116595",
     "1790017430866",
     "1790017688916",
-    "2313144"
+    "2313144",
+    "1789968051016",
+    "1789968986404",
+    "1789973451181",
+    "1789989720958",
+    "1789990497631",
+    "1789990740755",
+    "1789991085933",
+    "1789991700449",
+    "1789993860011",
+    "1789994400897",
+    "1789995127756",
+    "1789995540298",
+    "1789997853087",
+    "1789998300675",
+    "1789998330452",
+    "1789998755250",
+    "1789998756662",
+    "1789998899401",
+    "1789999088600",
+    "1789999254240",
+    "1790018277391"
   ],
   "last_digest_hour": "2026-09-21T19",
-  "last_success": "2026-09-21T13:47:26.097950+00:00",
+  "last_success": "2026-09-21T14:04:15.059290+00:00",
   "national": {
     "alerted": [
       {
@@ -14443,9 +14464,10 @@
       "CG-DL-E-21092026-276347",
       "CG-DL-E-21092026-276352",
       "CG-DL-E-21092026-276355",
-      "CG-DL-E-21092026-276356"
+      "CG-DL-E-21092026-276356",
+      "CG-DL-E-21092026-276357"
     ],
-    "last_run": "2026-09-21T13:49:31.241783+00:00",
+    "last_run": "2026-09-21T14:06:46.492290+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15473,7 +15495,12 @@
       "pib:2313139",
       "pib:2313143",
       "pib:2313151",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63640"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63640",
+      "pib:2313172",
+      "gazette:CG-DL-E-21092026-276357",
+      "pib:2313165",
+      "pib:2313168",
+      "pib:2313160"
     ],
     "source_failures": {
       "CBI": {
@@ -16498,7 +16525,7 @@
     "bse ola electric": 1789430149909,
     "bse paytm": 1789578149191,
     "bse persistent": 1789994213569,
-    "bse reliance": 1790017688916,
+    "bse reliance": 1790018277391,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1789071138621,
     "bse tata communications": 1789576462217,
@@ -16526,19 +16553,19 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789996577522,
+    "news: big tech platforms": 1789998899401,
     "news: consumer internet india": 1789997403595,
-    "news: global ai": 1789998116595,
+    "news: global ai": 1789999088600,
     "news: global chips": 1789994052201,
-    "news: global it services": 1789994853471,
+    "news: global it services": 1789998755250,
     "news: india ai deeptech": 1789997396935,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1789997580917,
+    "news: india fintech": 1789997853087,
     "news: india semiconductors": 1789996549685,
-    "news: india tech policy": 1789997622813,
-    "news: india telecom": 1789997495249,
-    "news: indian it majors": 1789997140774,
-    "news: indian it midcaps": 1789993620441,
+    "news: india tech policy": 1789998300675,
+    "news: india telecom": 1789999254240,
+    "news: indian it majors": 1789998756662,
+    "news: indian it midcaps": 1789994400897,
     "news: pib releases": 1789997520426,
     "news: tech leaders": 1789996164970,
     "nvidia": 1789984835946,
@@ -16574,17 +16601,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T13:47:26.415966+00:00",
+    "last_server_run": "2026-09-21T14:04:15.375739+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-21T12:04:00.036269+00:00",
+        "checked": "2026-09-21T14:05:19.940446+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-21T12:03:51.997589+00:00",
+        "checked": "2026-09-21T14:05:12.350288+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -16660,7 +16687,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-21T12:03:56.051430+00:00",
+        "checked": "2026-09-21T14:05:16.245001+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -16714,11 +16741,11 @@
       },
       "last": {
         "calendar": "2026-09-21T09:02:48.345146+00:00",
-        "ls_reports": "2026-09-21T12:03:36.050371+00:00",
-        "rs_committee_press": "2026-09-21T12:03:46.561946+00:00",
-        "rs_press": "2026-09-21T12:03:43.266470+00:00",
-        "rs_reports": "2026-09-21T12:03:39.978192+00:00",
-        "rs_updates": "2026-09-21T12:03:47.982881+00:00"
+        "ls_reports": "2026-09-21T14:04:55.993638+00:00",
+        "rs_committee_press": "2026-09-21T14:05:05.980295+00:00",
+        "rs_press": "2026-09-21T14:05:02.811006+00:00",
+        "rs_reports": "2026-09-21T14:04:59.773282+00:00",
+        "rs_updates": "2026-09-21T14:05:08.055572+00:00"
       }
     },
     "scanned": [
@@ -16838,6 +16865,7 @@
       "CG-DL-E-21092026-276353",
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356",
+      "CG-DL-E-21092026-276357",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
