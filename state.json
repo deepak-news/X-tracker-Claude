@@ -12665,10 +12665,33 @@
     "1789987006862",
     "1789987020906",
     "1789987040063",
-    "1789987257271"
+    "1789987257271",
+    "1789923103224",
+    "1789956411565",
+    "1789960404984",
+    "1789964640737",
+    "1789968540451",
+    "1789977720393",
+    "1789980178415",
+    "1789980347076",
+    "1789981775370",
+    "1789985458167",
+    "1789985575073",
+    "1789986653795",
+    "1789986658179",
+    "1789986890009",
+    "1789987153980",
+    "1789987264453",
+    "1789987367636",
+    "1789987708672",
+    "1789987880785",
+    "1789987920904",
+    "1789988252700",
+    "1789988353310",
+    "1789988432683"
   ],
   "last_digest_hour": "2026-09-21T16",
-  "last_success": "2026-09-21T10:47:26.387592+00:00",
+  "last_success": "2026-09-21T11:03:07.861929+00:00",
   "national": {
     "alerted": [
       {
@@ -14007,7 +14030,7 @@
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356"
     ],
-    "last_run": "2026-09-21T10:48:28.296525+00:00",
+    "last_run": "2026-09-21T11:03:54.769622+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14968,7 +14991,9 @@
       "pib:2312958",
       "pib:2312985",
       "page:https://www.cbse.gov.in/cbsenew/documents/User_Manual_West_Asian_Countries_LOC_21092026.pdf",
-      "gazette:CG-DL-E-21092026-276356"
+      "gazette:CG-DL-E-21092026-276356",
+      "pib:2313016",
+      "pib:2313007"
     ],
     "source_failures": {
       "CBI": {
@@ -16116,20 +16141,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789986600308,
-    "news: consumer internet india": 1789985649646,
-    "news: global ai": 1789987006862,
+    "news: consumer internet india": 1789987708672,
+    "news: global ai": 1789988252700,
     "news: global chips": 1789986600144,
     "news: global it services": 1789987257271,
-    "news: india ai deeptech": 1789982400381,
+    "news: india ai deeptech": 1789986658179,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1789986990924,
-    "news: india semiconductors": 1789986732256,
-    "news: india tech policy": 1789987040063,
-    "news: india telecom": 1789986018744,
+    "news: india fintech": 1789987920904,
+    "news: india semiconductors": 1789987153980,
+    "news: india tech policy": 1789988432683,
+    "news: india telecom": 1789988353310,
     "news: indian it majors": 1789985100827,
     "news: indian it midcaps": 1789987020906,
     "news: pib releases": 1789985580180,
-    "news: tech leaders": 1789985428073,
+    "news: tech leaders": 1789986653795,
     "nvidia": 1789984835946,
     "nvidia blog": 1789984835946,
     "openai": 1789732800252,
@@ -16163,7 +16188,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T10:47:26.729962+00:00",
+    "last_server_run": "2026-09-21T11:03:08.091192+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T09:48:34.729901+00:00",
