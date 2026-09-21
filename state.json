@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-16T12:31:49.261270+00:00",
-      "handle": "News: India fintech",
-      "headline": "NITI Aayog VC says businesses should bear UPI transaction costs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc21WS0RXOHJtRjVQY2V0MkZHcVdmZnNrVy1JMk1ad296Q0lvLUxXT0dTR2o1MnlJajduTHZ1ajFqTzB4SW9kdWdVZXJOcVN6YmdmUktpbldBZlhya0JmVnBRby1sa3J0X2RtUTJWSG1ESUpUYkxTTzJIR2RlRHBUR1ZKb3ZrblMzR0pmQ0c4SnRqdXBHdFJqSXhFUktHMjJ2c1lpdEduZzEyTUp5a2tsRldOMl81SmVwNHdadXVUQ1lKV1Ryb212b2lvWjVtNzB4Qmc3R0EyMnpMMUxHekRuak5oNVdyYmQ3LTN2OA?oc=5",
-      "words": [
-        "aayog",
-        "bear",
-        "businesses",
-        "cannot",
-        "costs",
-        "everything",
-        "govt",
-        "lahiri",
-        "modest",
-        "niti",
-        "should",
-        "subsidise",
-        "transaction",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-09-16T12:46:21.262813+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Infosys announces expansion of Indore development center",
@@ -7328,6 +7305,29 @@
         "subscriber",
         "verification"
       ]
+    },
+    {
+      "at": "2026-09-21T10:47:26.279969+00:00",
+      "handle": "Razorpay",
+      "headline": "New FEMA Export Declaration Form rule applies to IT and software exporters",
+      "tier": 1,
+      "url": "https://razorpay.com/blog/understanding-the-new-edf-filing-requirement-for-services-exporters/",
+      "words": [
+        "2026",
+        "come",
+        "concerning",
+        "declaration",
+        "edf",
+        "effect",
+        "export",
+        "exporters",
+        "filing",
+        "form",
+        "into",
+        "october",
+        "regulatory",
+        "requirement"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -12638,10 +12638,37 @@
     "1789986018744",
     "1789986373684",
     "1789986621703",
-    "1790006080228"
+    "1790006080228",
+    "1789969047726",
+    "1789976289122",
+    "1789978260135",
+    "1789980783557",
+    "1789980797222",
+    "1789981320923",
+    "1789981995706",
+    "1789982100964",
+    "1789982101551",
+    "1789984560522",
+    "1789985069397",
+    "1789985100827",
+    "1789985335977",
+    "1789985619346",
+    "1789986070576",
+    "1789986367684",
+    "1789986490400",
+    "1789986600144",
+    "1789986600308",
+    "1789986732256",
+    "1789986829402",
+    "1789986988797",
+    "1789986990924",
+    "1789987006862",
+    "1789987020906",
+    "1789987040063",
+    "1789987257271"
   ],
   "last_digest_hour": "2026-09-21T16",
-  "last_success": "2026-09-21T10:32:12.157254+00:00",
+  "last_success": "2026-09-21T10:47:26.387592+00:00",
   "national": {
     "alerted": [
       {
@@ -13977,9 +14004,10 @@
       "CG-DL-E-21092026-276332",
       "CG-DL-E-21092026-276347",
       "CG-DL-E-21092026-276352",
-      "CG-DL-E-21092026-276355"
+      "CG-DL-E-21092026-276355",
+      "CG-DL-E-21092026-276356"
     ],
-    "last_run": "2026-09-21T10:33:11.654199+00:00",
+    "last_run": "2026-09-21T10:48:28.296525+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14939,7 +14967,8 @@
       "gazette:CG-DL-E-21092026-276355",
       "pib:2312958",
       "pib:2312985",
-      "page:https://www.cbse.gov.in/cbsenew/documents/User_Manual_West_Asian_Countries_LOC_21092026.pdf"
+      "page:https://www.cbse.gov.in/cbsenew/documents/User_Manual_West_Asian_Countries_LOC_21092026.pdf",
+      "gazette:CG-DL-E-21092026-276356"
     ],
     "source_failures": {
       "CBI": {
@@ -14977,7 +15006,134 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Trump-Xi dinner brings together Musk, Huang and tech leaders for AI power talks",
+      "post": {
+        "created_at": "2026-09-21T10:36:46+00:00",
+        "handle": "News: Global AI",
+        "id": "1789987006862",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Invezz",
+        "reposts": 0,
+        "text": "From Elon Musk to Jensen Huang: Trump-Xi dinner puts AI power struggle at one table",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUhUZVJ4N3V6ck82Y1dTUTA5ckZWdkFoRG5VNFh1NUxabnBhQm40eVdPT2RTbGxrTjBBanJNOUhWSnEwdWxIVmZ2QXdtZzRfTVdWOHdWdW0xbWJRUkt3UWZCT3ZZanJJLTAwRUxfVWVSSS1GblYzTXVpaGpFRC1RazlYWFUtY0FLS3ZzUUhNcDF3el9qRmkyNzB3N0t1TnVrYk5WQlpGOFlJZ0RfLTRnMExsTzJ2YU90WVpydEtR?oc=5"
+      },
+      "queued_at": "2026-09-21T10:47:26.386426+00:00",
+      "score": 8.0,
+      "why": ""
+    },
+    {
+      "headline": "UPI MDR and 18% GST threaten thin-margin sectors",
+      "post": {
+        "created_at": "2026-09-21T08:11:00+00:00",
+        "handle": "News: India fintech",
+        "id": "1789978260135",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Cfo",
+        "reposts": 0,
+        "text": "UPI MDR: 18% GST to add cost for exempt businesses, hit thin-margin sectors",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY3l0OFVSYWoySmxNVWNIR2dZdVZOeVVOa0RWMjFlSjlENHhaX21acks2ZDNVaE5sNUtiV3F1dHphQUpmSldBZlg1NDVDaWhoTFB1akpyXzQ4WUNXN1lOa1FlODNnaXBRYzJWWGxPTkVDdUJYOFBRQ1Vua2hERngxMjVoY0xoeDQ1djNMSVhkR1JrYWR1NzlaeUNFN2l0SlJ3b2N0RTBkQmV3YUtkM25SQUVHcmRqT2J5WWJYN0hyb1V0bXdVUUVSaWlwQ2dpVkF2SEJJVjZQNkhQTk9SR0ZrMDIxQdIB6AFBVV95cUxOck83RXRwblpHWkZUclZubF9tUXZ2TmdvOEdSd0J6a2JXSGNPN3ZuRFpxc3NZZ2NFLWlhRHY0S0dvb2ZfaG9ScGE3cWhlOTd3a19kT2g0SXo3UmRfOGpHLVJHUGRZLU5lc0RRNlVXUG9xVTdneWprYjUzTDRDcVlxMmR6aFB2cGIzOXgtS3pHM3dJNncyYlhYUE1HY1BvZldieVZlN3hGSlgyLUNIMkZpN0d6UUt5MlROMGRRU2h3TGFTTXNLX2E2RE12TjQydEs3SjFvWVNEcGFwajFWRUFDNGxEd25ONzFT?oc=5"
+      },
+      "queued_at": "2026-09-21T10:47:26.386426+00:00",
+      "score": 7.0,
+      "why": ""
+    },
+    {
+      "headline": "Paytm shares could benefit from UPI fee changes, says analyst",
+      "post": {
+        "created_at": "2026-09-21T10:21:10+00:00",
+        "handle": "News: India fintech",
+        "id": "1789986070576",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Today",
+        "reposts": 0,
+        "text": "Paytm shares: UPI fee changes could aid revenue, margin recovery; what Kranti Bathini says",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXNWcG9TNU5LV09ULUFtVzluSXZNbkRxZThKd2JZaDVlcHhsRUhfVFdLVXNwSUNJb1Y4YzF4cFhLWS1MSG95cUU0X3hxMmFyektWQ0phNk8zNkotZW1NOGYtOHp2VllDYnJ2SWItcXc4bzJScG9JeklTb2puekpoSkpyd0xxQmU0d284REUtanhhN1hTOFlGUWpFalVMVk5PYVdOdjhiQW92dTZuNzhTQnJibWFGbnFZZmRJOFZhSXJrTzVYQzVkdjFsY0hxZG9a0gHWAUFVX3lxTE13UkFvdFlRZ0tUb2FyYzNBcWpJakhFWUs5QmJiUk9xMWlpX2JLRFFBTjlGMl9ZMGJJbjdkOTVZdDlSN0cyTmpuQ3pWbkRwa0ZCaU9IbVdXMmJyQjRFN2dETXF4NjB2Y0dDeXdvb2xNdWJfcEgzV180QU5TUjl1U3FKZjJKeElIVzduU0JiMm1FQjlQVDNGN2l1WkpsVGFER2xBUWJybXMyZ1Nic29STjFjWU9ScDRnWGdVdkdwTHF2Z3BuOWpVcWhSNHpPSUM2SDZWV1l3Z0E?oc=5"
+      },
+      "queued_at": "2026-09-21T10:47:26.386426+00:00",
+      "score": 7.0,
+      "why": ""
+    },
+    {
+      "headline": "Einride collaborates with NVIDIA for autonomous trucking platform",
+      "post": {
+        "created_at": "2026-09-21T10:30:00+00:00",
+        "handle": "News: Global chips",
+        "id": "1789986600144",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Yahoo Finance",
+        "reposts": 0,
+        "text": "Einride Enters Strategic Collaboration with NVIDIA to Advance its Autonomous Trucking on NVIDIA Hyperion",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVWhGRlNMb19KNDMtUUpfc1UxaEYxQWcxMWtqSURHUF9HbVFNelBYQlJQUmdKYUtQb3BoLTNiNXlITDhqVU0yeUJYdzBRT2tGLTE1V1BiT3ZVYjFkTXB5cVlSOFZKSldGV3p4RklpN2dnd0JRREVaWlA1bV9ZeXRHd3NUbl90WmFTSXdrZFdoNWtqamVvT1BfTEhlZndySWtxN25FTGdHWC1RZ1hORFE?oc=5"
+      },
+      "queued_at": "2026-09-21T10:47:26.386426+00:00",
+      "score": 7.0,
+      "why": ""
+    },
+    {
+      "headline": "India shifting from digital to AI public infrastructure: Microsoft's Rajiv Kumar",
+      "post": {
+        "created_at": "2026-09-21T10:30:00+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1789986600308",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "ANI News",
+        "reposts": 0,
+        "text": "India moving from digital to AI public infrastructure in next 5 years: Microsoft\u2019s Rajiv Kumar",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUFg1UF9VR25hYWN3LXZzRWc4Vi05OERkR2VUZkM4VUNCMlNMRFhZMk5icmpRYTA5T0l4dXJYNlZvUDNyTUJiQjNCODQ3djRXMTQzLXktU2dvR013eWdUOEUwVkc0QlIxZm1DV2hBMmo5enlwR0hQY21jZmRrSlVHaURrTXpoNmdra3BoeV94dmgzOEJNVmk2a1pzVkFtYkI4OVRuMjg5WTAyWUhLMmhUZWFQbEJaVGJXV3gwT19TZmtueVczTzhvR0hWX0pvQzN3MlVuandNMjZCT2VPQW9MZg?oc=5"
+      },
+      "queued_at": "2026-09-21T10:47:26.386426+00:00",
+      "score": 7.0,
+      "why": ""
+    },
+    {
+      "headline": "EY-IESA report suggests shifting India semiconductor focus to domestic ecosystem",
+      "post": {
+        "created_at": "2026-09-21T10:32:12+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789986732256",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "KNN India",
+        "reposts": 0,
+        "text": "India Should Shift Semiconductor Focus From Capacity To Domestic Ecosystem, Says EY-IESA",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjBPVGhsaVczQTc1eVVfT2N1eWpIblM1STA1NjdGQ1pOTXpKS1Q2MXkxZ0ZzNmVYVkFGRGdqSW5pc0JCVkN1bUNtYVkxVGcxLWplLTNVQkd0M3Zvc21qY1RKQkNieUlyWEFZZC1RM05WQnduWEQ5RkFWenMyRjFveEtoTTdFN1lvWDZMLTIyWWh4c2REaHlsMWoyTDQ3Mnphb2FvdFE2QlVUVDJlbF9iV3R5LUw3Qy13d09IMlNiUHBzcTNicm5idVpiRkV4VHli?oc=5"
+      },
+      "queued_at": "2026-09-21T10:47:26.386426+00:00",
+      "score": 7.0,
+      "why": ""
+    },
+    {
+      "headline": "Nazara Technologies extends Rs 28 crore loan to subsidiary Smaaash",
+      "post": {
+        "created_at": "2026-09-21T10:36:28+00:00",
+        "handle": "News: India edtech gaming",
+        "id": "1789986988797",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Scanx",
+        "reposts": 0,
+        "text": "Nazara Technologies lends \u20b928 crore to subsidiary Smaaash",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzY5Ynd0cXdEVjNKX0RRbVFfYjRjRDl3dWMzLVhyalJDMXkzRjdVYU5lem5COTZYSGJnRzMxaVFpQWZtTVY3MlowNk43UlBxdnNRZTJlMVdHczhDYTFjS1RpLTJQUll1SGw5SmxBdG40d05QcW5VSmd6SWMtLUc1VnpkSG5ZRm9KVzlhR0NWZ1JyUHl3dzlkbHNtUk9ZeG5JQmtsajZjN1ZkUnd6MHI4?oc=5"
+      },
+      "queued_at": "2026-09-21T10:47:26.386426+00:00",
+      "score": 7.0,
+      "why": ""
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -15959,19 +16115,19 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789984097951,
+    "news: big tech platforms": 1789986600308,
     "news: consumer internet india": 1789985649646,
-    "news: global ai": 1789986621703,
-    "news: global chips": 1789984912704,
-    "news: global it services": 1789985323335,
+    "news: global ai": 1789987006862,
+    "news: global chips": 1789986600144,
+    "news: global it services": 1789987257271,
     "news: india ai deeptech": 1789982400381,
-    "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789984852046,
-    "news: india semiconductors": 1789986373684,
-    "news: india tech policy": 1789985409703,
+    "news: india edtech gaming": 1789986988797,
+    "news: india fintech": 1789986990924,
+    "news: india semiconductors": 1789986732256,
+    "news: india tech policy": 1789987040063,
     "news: india telecom": 1789986018744,
-    "news: indian it majors": 1789983240666,
-    "news: indian it midcaps": 1789979243929,
+    "news: indian it majors": 1789985100827,
+    "news: indian it midcaps": 1789987020906,
     "news: pib releases": 1789985580180,
     "news: tech leaders": 1789985428073,
     "nvidia": 1789984835946,
@@ -15982,7 +16138,7 @@
     "pib communications": 2312868,
     "pib meity": 2312606,
     "pib science and technology": 2312900,
-    "razorpay": 1789539311308,
+    "razorpay": 1789981995706,
     "redseer": 1789637516540,
     "salesforce": 1789671615139,
     "samsung": 1789592400379,
@@ -16007,7 +16163,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T10:32:12.486295+00:00",
+    "last_server_run": "2026-09-21T10:47:26.729962+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T09:48:34.729901+00:00",
@@ -16270,6 +16426,7 @@
       "CG-DL-E-21092026-276352",
       "CG-DL-E-21092026-276353",
       "CG-DL-E-21092026-276355",
+      "CG-DL-E-21092026-276356",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
@@ -16414,7 +16571,8 @@
       "meeting:LS|21518",
       "meeting:LS|21519",
       "meeting:LS|21520",
-      "gazette:CG-DL-E-21092026-276355|GAZETTE_MAIL_TO"
+      "gazette:CG-DL-E-21092026-276355|GAZETTE_MAIL_TO",
+      "bulletin:LS|2026-09-21|Bulletin-II"
     ]
   }
 }
