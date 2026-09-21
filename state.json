@@ -12782,10 +12782,34 @@
     "1789991090478",
     "1789991100648",
     "1789991428420",
-    "1789991807471"
+    "1789991807471",
+    "1789932300010",
+    "1789932300425",
+    "1789932300709",
+    "1789941766311",
+    "1789969299593",
+    "1789970485668",
+    "1789971660993",
+    "1789974879253",
+    "1789983540381",
+    "1789984138253",
+    "1789985831178",
+    "1789986240662",
+    "1789986600989",
+    "1789987641205",
+    "1789987800746",
+    "1789988484243",
+    "1789988547565",
+    "1789989060448",
+    "1789989559345",
+    "1789989936040",
+    "1789991494921",
+    "1789991878151",
+    "1789992053034",
+    "1789992552957"
   ],
   "last_digest_hour": "2026-09-21T17",
-  "last_success": "2026-09-21T12:02:30.196439+00:00",
+  "last_success": "2026-09-21T12:17:03.268064+00:00",
   "national": {
     "alerted": [
       {
@@ -13980,6 +14004,27 @@
           "likely",
           "low"
         ]
+      },
+      {
+        "at": "2026-09-21T12:19:23.527161+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.2 earthquake -- 167 km WNW of Mejillones, Chile.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixc",
+        "words": [
+          "167",
+          "2026",
+          "chile",
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "mejillones",
+          "reported",
+          "sep",
+          "usgs",
+          "wnw"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -14193,7 +14238,7 @@
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356"
     ],
-    "last_run": "2026-09-21T12:04:35.291809+00:00",
+    "last_run": "2026-09-21T12:19:23.527752+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15198,7 +15243,10 @@
       "pib:2313066",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63636",
       "page:https://www.mha.gov.in/sites/default/files/Advisory_21092026.pdf",
-      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13705&Mode=0"
+      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13705&Mode=0",
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
+      "quake:usgs:us7000tixc",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal"
     ],
     "source_failures": {
       "CBI": {
@@ -16226,7 +16274,7 @@
     "hcltech": 1789980161822,
     "ibm": 1789963260645,
     "intel": 1788847380154,
-    "lenovo": 1789957561980,
+    "lenovo": 1789992053034,
     "linkedin": 1789758145368,
     "meta": 1789743313328,
     "microsoft": 1789653605718,
@@ -16235,17 +16283,17 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789987620583,
     "news: consumer internet india": 1789988829978,
-    "news: global ai": 1789991051359,
+    "news: global ai": 1789992552957,
     "news: global chips": 1789986600144,
     "news: global it services": 1789991090478,
     "news: india ai deeptech": 1789991428420,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1789990636590,
+    "news: india fintech": 1789991494921,
     "news: india semiconductors": 1789989750029,
     "news: india tech policy": 1789991054959,
     "news: india telecom": 1789991807471,
     "news: indian it majors": 1789988700779,
-    "news: indian it midcaps": 1789990230956,
+    "news: indian it midcaps": 1789991878151,
     "news: pib releases": 1789990380359,
     "news: tech leaders": 1789990620668,
     "nvidia": 1789984835946,
@@ -16281,7 +16329,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T12:02:30.413602+00:00",
+    "last_server_run": "2026-09-21T12:17:03.609924+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T12:04:00.036269+00:00",
@@ -16690,7 +16738,8 @@
       "meeting:LS|21519",
       "meeting:LS|21520",
       "gazette:CG-DL-E-21092026-276355|GAZETTE_MAIL_TO",
-      "bulletin:LS|2026-09-21|Bulletin-II"
+      "bulletin:LS|2026-09-21|Bulletin-II",
+      "meeting:RS|2236"
     ]
   }
 }
