@@ -12831,10 +12831,49 @@
     "1789993498083",
     "1789993758957",
     "1789993812018",
-    "2313111"
+    "2313111",
+    "1789912665102",
+    "1789921680657",
+    "1789930380980",
+    "1789932170907",
+    "1789937861987",
+    "1789940198324",
+    "1789972548923",
+    "1789977720423",
+    "1789979080194",
+    "1789982454114",
+    "1789982455278",
+    "1789984938617",
+    "1789985715289",
+    "1789986202116",
+    "1789986205233",
+    "1789986205629",
+    "1789986205711",
+    "1789986205747",
+    "1789986206406",
+    "1789986409981",
+    "1789986607257",
+    "1789987800957",
+    "1789988469365",
+    "1789990489950",
+    "1789990620939",
+    "1789990620960",
+    "1789991094432",
+    "1789992449138",
+    "1789992454798",
+    "1789992954448",
+    "1789993128667",
+    "1789993500929",
+    "1789993980805",
+    "1789994046555",
+    "1789994102224",
+    "1789994147973",
+    "1789994157110",
+    "1789994280500",
+    "1789994345377"
   ],
   "last_digest_hour": "2026-09-21T18",
-  "last_success": "2026-09-21T12:33:16.461099+00:00",
+  "last_success": "2026-09-21T12:47:27.903596+00:00",
   "national": {
     "alerted": [
       {
@@ -14263,7 +14302,7 @@
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356"
     ],
-    "last_run": "2026-09-21T12:35:00.708961+00:00",
+    "last_run": "2026-09-21T12:49:15.272735+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15282,7 +15321,10 @@
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-advice-against-rakesh-kumar-gupta-defaulter-pan-aaepg2752r-in-the-matter-of-sadhna-broadcast-limited-under-recovery-certificate-no-9259-of-2026-_104617.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-advice-against-gaurav-gupta-defaulter-pan-akhpg5185d-in-the-matter-of-sadhna-broadcast-limited-under-recovery-certificate-no-9257-of-2026-_104615.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7067-of-2026-filed-by-kailash-kumar_104611.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7068-of-2026-filed-by-swarnali-basu_104613.html"
+      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7068-of-2026-filed-by-swarnali-basu_104613.html",
+      "pib:2313118",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63638",
+      "pib:2313120"
     ],
     "source_failures": {
       "CBI": {
@@ -15316,7 +15358,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Karnataka HC upholds \u20b927.13 crore tax refund to Mukesh Bansal",
+      "post": {
+        "created_at": "2026-09-21T12:39:05+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1789994345377",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Bar and Bench",
+        "reposts": 0,
+        "text": "Karnataka High Court upholds tax refund of \u20b927.13 crore to Myntra and Cult.fit co-founder Mukesh Bansal",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRF9hSEk3Q2xNM21tVkVwbG1sX25SRGx3Ti1YOVE3WHg1TEZEODlVTU9SSlpvVm1jMGxkY1FjeEdJOWFpeDJ1aUVOcWdzdVhOMUNHcDc3WVozLU11TjlWWGZHNFZXNFhwTkNhTHprVV9qMGZUU0h4UWMxMmMtTE9pVUFZT0FMelNXSFhnUlQyMmc3UUpwcDdRTEhPWFVBcUJfZGxGTkZDNFBjcEJDUVNTQ09oLXFQTm4xLTNyUlE5R1VvX1h1d1Z2aUZ2cUxGOFFUb2dFd3dEd0s4bFhlSzNmMFNDUWRBdGFVc2fSAeoBQVVfeXFMUERfYUhJN0NsTTNtbVZFcGxtbF9uUkRsd04tWDlRN1h4NUxGRDg5VU1PUkpab1ZtYzBsZGNRY3hHSTlhaXgydWlFTnFnc3VYTjFDR3A3N1laMy1NdU45VlhmRzRWVzRYcE5DYUx6a1VfajBmVFNIeFFjMTJjLUxPaVVBWU9BTHpTV0hYZ1JUMjJnN1FKcHA3UUxIT1hVQXFCX2RsRk5GQzRQY3BCQ1FTU0NPaC1xUE5uMS0zclJROUdVb19YdXdWdmlGdnFMRjhRVG9nRXd3RHdLOGxYZUszZjBTQ1FkQXRhVXNn?oc=5"
+      },
+      "queued_at": "2026-09-21T12:47:27.902424+00:00",
+      "score": 7.0,
+      "why": "Significant court ruling involving prominent Indian tech founders and a substantial tax amount."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -16288,7 +16349,7 @@
     "google cloud": 1789650000163,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
-    "hcltech": 1789980161822,
+    "hcltech": 1789994147973,
     "ibm": 1789963260645,
     "intel": 1788847380154,
     "lenovo": 1789992053034,
@@ -16298,21 +16359,21 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789993207069,
-    "news: consumer internet india": 1789993812018,
-    "news: global ai": 1789993758957,
+    "news: big tech platforms": 1789994157110,
+    "news: consumer internet india": 1789994345377,
+    "news: global ai": 1789994102224,
     "news: global chips": 1789989205882,
     "news: global it services": 1789991090478,
-    "news: india ai deeptech": 1789993086191,
+    "news: india ai deeptech": 1789994157110,
     "news: india edtech gaming": 1789986988797,
     "news: india fintech": 1789993498083,
     "news: india semiconductors": 1789993357454,
-    "news: india tech policy": 1789992933310,
-    "news: india telecom": 1789991807471,
-    "news: indian it majors": 1789988700779,
+    "news: india tech policy": 1789994046555,
+    "news: india telecom": 1789994280500,
+    "news: indian it majors": 1789992449138,
     "news: indian it midcaps": 1789991878151,
-    "news: pib releases": 1789990380359,
-    "news: tech leaders": 1789993350108,
+    "news: pib releases": 1789993500929,
+    "news: tech leaders": 1789993980805,
     "nvidia": 1789984835946,
     "nvidia blog": 1789984835946,
     "openai": 1789732800252,
@@ -16346,7 +16407,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T12:33:16.689636+00:00",
+    "last_server_run": "2026-09-21T12:47:28.227986+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T12:04:00.036269+00:00",
