@@ -425,6 +425,7 @@ watch:
     # stays switched off until that secret exists. Its first run only notes
     # what is already listed.
     - name: e-Gazette - Home, Finance, Defence, Law, I&B
+      label: "Gazette of India"      # what the email shows beside each item
       category: 6
       ministries:
         - "Ministry of Home Affairs"
@@ -485,14 +486,12 @@ watch:
     #                sitting calendar is read first and nothing is asked
     #                for on a day neither House sat.
     #
-    #  The address is NOT written here -- this file is public. It goes in
-    #  the existing GAZETTE_DESKS secret as one more line:
-    #      parliament: you@example.com
+    #  Sent to the same people as the five-ministry gazette watch
+    #  (GAZETTE_MAIL_TO), in the same "Gazette Alerts" email.
     # ---------------------------------------------------------------
     - name: Parliament
       sansad: true
-      mail_to: GAZETTE_DESKS:parliament
-      mail_name: "Parliament Watch"
+      mail_to: GAZETTE_MAIL_TO       # Achinta and Deepak, in the Gazette Alerts email
 
       # Nothing older than this is ever reported. The committee reports
       # list is not sorted by date, so this window is what separates this
@@ -652,9 +651,9 @@ national:
   # elsewhere, hence the separate figure. Set "earthquakes: false" to
   # switch the whole thing off.
   earthquakes:
-    min_magnitude: 5              # anywhere in the world
+    min_magnitude: 5.7            # anywhere in the world
     india_min_magnitude: 4.5      # inside India
-    neighbour_min_magnitude: 5    # the neighbouring countries
+    neighbour_min_magnitude: 4.5  # the neighbouring countries
 
   # Any other official site that publishes an RSS feed can be added here.
   feeds:
