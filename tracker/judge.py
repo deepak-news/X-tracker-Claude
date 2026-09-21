@@ -196,6 +196,14 @@ def _fingerprint(text: str) -> set:
     return {w for w in words if w not in _STOP}
 
 
+def _both_regulator_documents(a_handle: str, b_handle: str) -> bool:
+    """CCI, CERT-In and DGFT publish one document per event, in set wording:
+    two merger approvals share "CCI merger decision approved form filed
+    decided" and nothing else. Each is its own story, so two of them are
+    never compared -- only a news report and a document are."""
+    return a_handle.lower().startswith("reg ") and b_handle.lower().startswith("reg ")
+
+
 def _same_story(a, b) -> bool:
     """Whether two items report the same event.
 
@@ -204,6 +212,8 @@ def _same_story(a, b) -> bool:
     exchange on any given day. A filing and a news report of it are.
     """
     if _authority(a) > 0 and _authority(b) > 0 and a.handle != b.handle:
+        return False
+    if _both_regulator_documents(a.handle, b.handle):
         return False
     x, y = _fingerprint(_story_text(a)[:200]), _fingerprint(_story_text(b)[:200])
     if not x or not y:
@@ -264,6 +274,8 @@ def drop_already_alerted(posts: list, state: dict) -> list:
         for entry in remembered:
             other = set(entry.get("words", []))
             if not other or not mark:
+                continue
+            if _both_regulator_documents(post.handle, entry.get("handle") or ""):
                 continue
             # Same rule as within a run: two different companies filing
             # similar-sounding paperwork are not the same story.

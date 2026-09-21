@@ -29,7 +29,7 @@ import requests
 from pypdf import PdfReader
 from bs4 import BeautifulSoup
 
-from . import krutidev
+from . import krutidev, regulators
 
 
 @dataclass
@@ -140,7 +140,7 @@ def tier(handle: str) -> int:
     label = handle.lower()
     if label.startswith("bse "):
         return TIER_FILING
-    if label.startswith("pib "):
+    if label.startswith(("pib ", "reg ")):
         return TIER_GOVERNMENT
     return TIER_NEWS if label.startswith("news:") else TIER_COMPANY
 
@@ -152,6 +152,8 @@ def describe(post) -> tuple[str, str]:
         else post.handle.split(":", 1)[-1].strip() if level == TIER_NEWS else post.handle
     if level == TIER_NEWS and post.origin:
         name = post.origin          # the outlet that actually ran it
+    if post.handle.lower().startswith("reg "):
+        return "REGULATOR", name    # CCI, CERT-In, DGFT -- not PIB
     return KIND_NAMES[level], name
 
 
@@ -619,6 +621,26 @@ def _google_news(query: str, label: str) -> list[Post]:
     return posts
 
 
+def _regulator(which: str) -> list[Post]:
+    """CCI, CERT-In or DGFT, as posts for the AI -- see regulators.py.
+
+    These documents carry a date but no time, and CCI often uploads an
+    order days after the date on it. So the post is stamped with the moment
+    it was first seen, which is what lets it past the freshness check; its
+    identifier comes from the document's own date and key, so it is the
+    same on every run and is judged only once.
+    """
+    now = dt.datetime.now(dt.timezone.utc)
+    posts = []
+    for row in regulators.read(which):
+        dated = dt.datetime.combine(row["date"], dt.time(), tzinfo=dt.timezone.utc)
+        post = _make(dated, f"REG {regulators.NAMES[which]}",
+                     regulators.describe(row), row.get("url", ""), row["key"])
+        post.created_at = now.isoformat()
+        posts.append(post)
+    return posts
+
+
 def labels(cfg: dict) -> list[str]:
     """Every source label this config can produce, for pruning old state."""
     sources = cfg.get("sources") or {}
@@ -627,6 +649,7 @@ def labels(cfg: dict) -> list[str]:
     names += [f"News: {q['name']}" for q in (sources.get("google_news") or [])]
     names += [f"PIB {m['name']}" for m in (sources.get("pib") or [])]
     names += [p["name"] for p in (sources.get("pages") or [])]
+    names += [f"REG {regulators.NAMES[r]}" for r in (sources.get("regulators") or [])]
     return names
 
 
@@ -677,6 +700,16 @@ def collect(cfg: dict, page_memory: dict | None = None):
         except Exception as exc:  # noqa: BLE001
             print(f"  ! {entry['name']} failed: {str(exc)[:120]}")
             failed.append(entry["name"])
+
+    for which in sources.get("regulators") or []:
+        label = f"REG {regulators.NAMES[which]}"
+        try:
+            found = _regulator(which)
+            posts.extend(found)
+            print(f"  {regulators.NAMES[which]}: {len(found)} documents in the last 30 days")
+        except Exception as exc:  # noqa: BLE001
+            print(f"  ! {regulators.NAMES[which]} failed: {str(exc)[:120]}")
+            failed.append(label)
 
     for topic in sources.get("google_news") or []:
         label = f"News: {topic['name']}"

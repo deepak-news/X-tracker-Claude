@@ -33,7 +33,7 @@ import yaml
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
-from . import email_out, judge, sources, watch
+from . import email_out, judge, regulators, sources, watch
 from .main import dead_models, record_dead_models
 from .sources import Post
 
@@ -121,6 +121,21 @@ def _pib() -> list:
         response.raise_for_status()
         posts += _pib_rows(BeautifulSoup(response.text, "html.parser"))
     return posts
+
+
+def _regulator(which: str) -> list:
+    """CCI, CERT-In or DGFT -- the same documents the Tech Desk reads.
+
+    Stamped with the moment they were first seen, not the date printed on
+    them: CCI in particular uploads orders days after the date they carry,
+    and the freshness check would otherwise throw every one of them away.
+    The identifier is the document's own, so each is judged once.
+    """
+    now = dt.datetime.now(UTC).isoformat()
+    return [_blank(id=row["key"], handle=regulators.NAMES[which],
+                   text=regulators.describe(row), url=row.get("url", ""),
+                   created_at=now)
+            for row in regulators.read(which)]
 
 
 def _gazette(scanned: set) -> list:
@@ -473,6 +488,8 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None) -> tuple:
         readers.append(("Gazette of India (Extraordinary)", lambda: _gazette(scanned)))
     if cfg.get("earthquakes") is not False:
         readers.append(("Earthquakes (NCS and USGS)", lambda: quakes(cfg)))
+    for which in cfg.get("regulators") or []:
+        readers.append((regulators.NAMES[which], lambda which=which: _regulator(which)))
     for entry in cfg.get("feeds") or []:
         readers.append((entry["name"], lambda entry=entry: _feed(entry)))
     for entry in cfg.get("pages") or []:
@@ -632,6 +649,9 @@ BADGES = (
     ("IMD", "#0e7490", "IMD"),
     ("State: ", "#9a3412", "STATE"),
     ("Quake ", "#b91c1c", "EARTHQUAKE"),
+    ("CCI", "#1e40af", "CCI"),
+    ("CERT-In", "#b91c1c", "CERT-IN"),
+    ("DGFT", "#047857", "DGFT"),
 )
 
 
