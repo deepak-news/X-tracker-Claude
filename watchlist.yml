@@ -630,9 +630,9 @@ national:
   # elsewhere, hence the separate figure. Set "earthquakes: false" to
   # switch the whole thing off.
   earthquakes:
-    min_magnitude: 5              # anywhere in the world
+    min_magnitude: 5.7              # anywhere in the world
     india_min_magnitude: 4.5      # inside India
-    neighbour_min_magnitude: 5    # the neighbouring countries
+    neighbour_min_magnitude: 4.5    # the neighbouring countries
 
   # Any other official site that publishes an RSS feed can be added here.
   feeds:
