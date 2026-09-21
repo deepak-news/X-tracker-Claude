@@ -464,7 +464,9 @@ def _egazette(entry: dict, scanned: set) -> list:
             # already sent comes back. Any other recipient's copy of the same
             # gazette is remembered separately -- both people get it.
             key=f"gazette:{row['id']}" + ("" if recipient == RECIPIENT_ENV else f"|{recipient}"),
-            source=entry["name"],
+            # "label" is what the email shows; "name" stays the watch's
+            # identity, so shortening the label never re-introduces it.
+            source=entry.get("label") or entry["name"],
             title=row["subject"] or row["id"],
             detail=_tidy(" | ".join(x for x in (
                 where,
@@ -490,7 +492,7 @@ def _sansad(entry: dict, memory: dict) -> list:
     """
     recipient = entry.get("mail_to") or RECIPIENT_ENV
     return [Item(key=row["key"],
-                 source=entry["name"],
+                 source=entry.get("label") or entry["name"],
                  title=row["title"],
                  detail=row.get("detail", ""),
                  url=row.get("url") or "https://sansad.in/",
