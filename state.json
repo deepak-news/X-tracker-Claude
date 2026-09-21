@@ -1,27 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-16T06:31:36.775002+00:00",
-      "handle": "News: India fintech",
-      "headline": "Zerodha CEO Nithin Kamath backs UPI MDR while noting broker cost burdens",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcWdNX2pUQVgtUzFpeFZjQVB4RG5wS0hWTFM0MDlSZTlsMUIwN0NDeGt5aXFQeTF6VGItLUJwYVpJZ0dCQjg1ejJtdUh3Z0ozRTlQcnN0TlNGZlBuN2Jza0FPSlQ1QVd1ekpaVUlLQWExYktlWndjTGxpcHdDUE5SWHh4XzRNYk9YOFVUN0lKMXE0a0N0bnJTM3k2YVZFN3l3Q2thQ2s2OXdKYWw5ZjRVSk1UR09seWNDa3JoS0p2eEE0QXVwSE82U25jSEpBN0d6N1JKYjlWcjNZWjcwOVBKZTA5YUVMbkpOeUhCcHZn0gHzAUFVX3lxTE1MT1d2X1Y5U0EtYlVXVm1XVEN2MW5PWFROOVN0azZxNDE3TE9fRGFKYWpkU1AxUlFWTHJFM2J5Y3ZWSkJWdEZGMHN5Q3g1bHZMSkhnWHZhUVVKanNwTmZ1eHFiZTdCdzd6c2QyZ2stMDlHTTdOUFZRSlVzb1l3QXVGaG9oRm9kNjFTT3J0WUttSklueEFqdTRtWE9McUZtbnIyX3gtMVA2dTgwNUJXQlB4dHpuZ2tDS1dseU5QN2UwX2NMNWhDZVZuTVNBQW5fV1U3UGhmREpQWnRRUDV5VkdBck90dGUyMTIxcmtYYXFsYnJaZw?oc=5",
-      "words": [
-        "backs",
-        "brokers",
-        "burden",
-        "competition",
-        "cost",
-        "flags",
-        "inevitable",
-        "kamath",
-        "mdr",
-        "more",
-        "nithin",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-09-16T06:46:17.876056+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Priyanka Bhargav exits Flipkart and joins L'Or\u00e9al",
@@ -7329,6 +7308,29 @@
         "vaishnaw",
         "warns"
       ]
+    },
+    {
+      "at": "2026-09-21T07:17:12.385366+00:00",
+      "handle": "BSE Persistent",
+      "headline": "Persistent Systems achieves Databricks Brickbuilder Specialization for BFSI",
+      "tier": 2,
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fba79cee-dce2-4dd7-af11-31abb1630589.pdf",
+      "words": [
+        "advance",
+        "bfsi",
+        "brickbuilder",
+        "databricks",
+        "earns",
+        "enclosed",
+        "filing",
+        "financial",
+        "full",
+        "governed",
+        "pers",
+        "persistent",
+        "press",
+        "release"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -12258,10 +12260,34 @@
     "1789973696773",
     "1789973737846",
     "1789973920955",
-    "2312868"
+    "2312868",
+    "1789952940882",
+    "1789967940670",
+    "1789969260092",
+    "1789970700209",
+    "1789972636338",
+    "1789973280431",
+    "1789973532254",
+    "1789973737139",
+    "1789973855532",
+    "1789974006198",
+    "1789974300568",
+    "1789974300756",
+    "1789974314657",
+    "1789974344241",
+    "1789974437357",
+    "1789974550832",
+    "1789974622280",
+    "1789974779441",
+    "1789974792099",
+    "1789974840216",
+    "1789974850308",
+    "1789974902021",
+    "1789974904576",
+    "1789994213569"
   ],
   "last_digest_hour": "2026-09-21T12",
-  "last_success": "2026-09-21T07:02:28.330266+00:00",
+  "last_success": "2026-09-21T07:17:12.822625+00:00",
   "national": {
     "alerted": [
       {
@@ -13550,9 +13576,10 @@
       "CG-MP-E-21092026-276331",
       "CG-RJ-E-21092026-276334",
       "CG-DL-E-21092026-276330",
-      "CG-OR-E-21092026-276346"
+      "CG-OR-E-21092026-276346",
+      "CG-DL-E-21092026-276353"
     ],
-    "last_run": "2026-09-21T07:04:14.756997+00:00",
+    "last_run": "2026-09-21T07:18:03.927051+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14487,7 +14514,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63632",
       "pib:2312868",
       "page:https://www.cbse.gov.in/cbsenew/documents/LOC_2627_21092026.pdf",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-emphasizing-on-virtues-of-dharma-knowledge-and-non-violence"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-emphasizing-on-virtues-of-dharma-knowledge-and-non-violence",
+      "gazette:CG-DL-E-21092026-276353"
     ],
     "source_failures": {
       "CBI": {
@@ -14597,6 +14625,42 @@
       "queued_at": "2026-09-21T07:02:28.329065+00:00",
       "score": 7.0,
       "why": "Regulatory penalty notice against a major telecom operator."
+    },
+    {
+      "headline": "NLC India and C-DAC partner for green digital infrastructure",
+      "post": {
+        "created_at": "2026-09-21T07:05:00+00:00",
+        "handle": "News: India tech policy",
+        "id": "1789974300756",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "PSU Connect",
+        "reposts": 0,
+        "text": "NLC India and C-DAC Join Hands to Advance Green Digital Infrastructure",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2VvdVlHcTZrZ1JoMlQzcXhyY18yNUNwTTYxVHo0eWdpa1F2aG1GZmJuM2V3TWh2eU5aZFNVbG13d3JXS2d5UkIyNWIyVWRaTEZzbU12MktkbmF2ZjJjckVLdGVGSlFWeVFhZzRsSTJfcTFQRWlGZ2ZfV1BwMFBOOHJ6S3hSTnk3c3J5dndxUTk4VUlqc08xWi04RnJ3OTdIYmRxb0hidS1yQ1FlOUFtQTZGa0ktOWZ1b2NSVV9UZHdtUQ?oc=5"
+      },
+      "queued_at": "2026-09-21T07:17:12.821618+00:00",
+      "score": 7.0,
+      "why": "Strategic partnership between public sector entities in tech and digital infrastructure."
+    },
+    {
+      "headline": "OpenAI launches Astra for Law in the US",
+      "post": {
+        "created_at": "2026-09-21T07:05:14+00:00",
+        "handle": "News: Tech leaders",
+        "id": "1789974314657",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Mint",
+        "reposts": 0,
+        "text": "OpenAI launches Astra for Law in US: What Sam Altman's new AI tool means for lawyers",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORmlFTFZXMWtYMlc3QWRpeDdqRG1neFp0ODJJT1Z0NjFqUjRsbGI3dWpibWZoS1FVakFydVRTdDhZa2NtNjEwb2RpVlZTajBGal9XTnVkeE5Jb3FacXR2ZmxsS0VIeWwtR2p0aVNrY004d2dOb0pkMjAyY1Q5SkVNNGpHcXc4VWozYVZyUGR3WnhfaGVvSHFld3oxcnlQNzZPcWZNakhTbUx6d0g0cVVoRnJTLWpFSUpndjJRTEh5VUMzcEtpdGI0el9B0gHPAUFVX3lxTE1NNVM1NEpsY1JpRVdHUWEwQWxUQU5pYmZ1X2U0OWxSVVJ1U2lhZWwxMTZXWk5VOHplbklrY25PbWUycDVNRDFVdEpLNGN6NEhWbzVoTk05dFpERFZYQVphNDMyVFBMMFNlQVRpVDNXb181X2VjSzZWMlRLZGZRbHlqMlN4ODVzRmtzeVBNR2p0NTVjek83RVVDOXBmcEhFd29UbUhHVTlta3RULXRaQ29EOXBMNDdVcGNTY0NqZ1dBTHZpdzJHWTlQNHJfMDFfSQ?oc=5"
+      },
+      "queued_at": "2026-09-21T07:17:12.821618+00:00",
+      "score": 7.0,
+      "why": "Major AI product launch from a key watched AI company."
     }
   ],
   "page_links": {
@@ -15551,7 +15615,7 @@
     "bse nykaa": 1789155118992,
     "bse ola electric": 1789430149909,
     "bse paytm": 1789578149191,
-    "bse persistent": 1789857539755,
+    "bse persistent": 1789994213569,
     "bse reliance": 1789674766336,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1789071138621,
@@ -15580,21 +15644,21 @@
     "microsoft india": 1789970643660,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789973623272,
+    "news: big tech platforms": 1789974792099,
     "news: consumer internet india": 1789971220080,
-    "news: global ai": 1789972340923,
-    "news: global chips": 1789971521041,
+    "news: global ai": 1789974840216,
+    "news: global chips": 1789974622280,
     "news: global it services": 1789972022939,
     "news: india ai deeptech": 1789973920955,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789973737846,
-    "news: india semiconductors": 1789972752591,
-    "news: india tech policy": 1789972944156,
+    "news: india fintech": 1789974344241,
+    "news: india semiconductors": 1789974437357,
+    "news: india tech policy": 1789974902021,
     "news: india telecom": 1789973696773,
     "news: indian it majors": 1789972932138,
-    "news: indian it midcaps": 1789971040275,
+    "news: indian it midcaps": 1789974904576,
     "news: pib releases": 1789973580978,
-    "news: tech leaders": 1789973677676,
+    "news: tech leaders": 1789974840216,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -15627,7 +15691,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T07:02:28.669863+00:00",
+    "last_server_run": "2026-09-21T07:17:13.143064+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T05:18:42.663670+00:00",
@@ -15885,6 +15949,7 @@
       "CG-DL-E-21092026-276345",
       "CG-DL-E-21092026-276349",
       "CG-DL-E-21092026-276350",
+      "CG-DL-E-21092026-276353",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
