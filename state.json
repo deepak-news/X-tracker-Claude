@@ -11763,10 +11763,15 @@
     "1789907788075",
     "1789944108253",
     "1789944968117",
-    "1789948075070"
+    "1789948075070",
+    "1789912584324",
+    "1789923602082",
+    "1789943349075",
+    "1789948929057",
+    "1789949100785"
   ],
   "last_digest_hour": "2026-09-21T05",
-  "last_success": "2026-09-21T00:02:32.476220+00:00",
+  "last_success": "2026-09-21T00:16:58.832297+00:00",
   "national": {
     "alerted": [
       {
@@ -12951,7 +12956,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-21T00:05:34.723633+00:00",
+    "last_run": "2026-09-21T00:18:39.641819+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13863,9 +13868,6 @@
       "CBI": {
         "count": 17,
         "until": "2026-09-21T05:03:43.187107+00:00"
-      },
-      "IMD": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 17,
@@ -14879,11 +14881,11 @@
     "news: big tech platforms": 1789947184667,
     "news: consumer internet india": 1789943880222,
     "news: global ai": 1789939860112,
-    "news: global chips": 1789946001231,
+    "news: global chips": 1789949100785,
     "news: global it services": 1789939108925,
     "news: india ai deeptech": 1789931687709,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789947550225,
+    "news: india fintech": 1789948929057,
     "news: india semiconductors": 1789945594393,
     "news: india tech policy": 1789945502340,
     "news: india telecom": 1789948075070,
@@ -14923,7 +14925,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T00:02:32.686374+00:00",
+    "last_server_run": "2026-09-21T00:16:59.135970+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-20T23:03:42.873343+00:00",
