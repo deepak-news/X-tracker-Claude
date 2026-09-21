@@ -1,112 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-15T18:31:34.855840+00:00",
-      "handle": "News: India fintech",
-      "headline": "Government clarifies no UPI levy on peer-to-peer transactions",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVUZUcXBDWFNOT0FIVzJhZ1dwSEJyTHZ4NmhWMnNPX3c3WUEzOG45QmpyZi0zT0c1elV2LW1ZX1FRS2dEYTlLajBMZU9tZ01RdWM4V3FHaFJWQll1VDBhNXZLRUFzSmR3OHM2YkdCZFJBanl5UkR4ckY5aC1WUEN2VndiVnFHWUo4bmNsQ3VyVXJlV3ZuRlZRb2U3VE95eERUYzBTRjhEdm10emJkakdWeUJEcmtqZVVQRVVGWTdOSXAwZ0NOcTRwVdIB0AFBVV95cUxOQ05VNlo1Zm5sa1dCZWlvdlB3NW1WT0N4NkNwdUQzNHI5V0tyb0pjYjJsLW9KVnpsQXo3OVRNVGpzQ0Z0OVgzenkxZ1BkZVVnYWpUcjhwMGxLWlo0V0s1VEpLZlJ1RWlORFE5ZHlzV1JtWm5vX3BCVnNHWDk0VWxESVhRRkNWOWs5bzFJWVNoQUtDYWdCTmZRMUtJTkQ5dGRXckNQUklDZ1RwbDFfVmwweUxwYTB4cFRPMzhWTER4c05qZGMzTjRfc0s5UVdGUXZk?oc=5",
-      "words": [
-        "000",
-        "clarifies",
-        "govt",
-        "levy",
-        "peer",
-        "transaction",
-        "transferring",
-        "upi",
-        "via"
-      ]
-    },
-    {
-      "at": "2026-09-15T18:31:34.855840+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta to report child safety violations to I4C in India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFZPVG5wZVZtSExwN3lqRWxpMWl0S29lSkZ1NkVrMjB3LV9pSFNYYnNRQjRHMXdTdkxTaUkxSHBnb0JNOXE5bEF0WDk5eE4zSkFfUThOcFJtd0d1SWZkWjhkellyZldnYkVmNGFxZkJmRTBpRkpsUHdab2VtVE5TMkpUN1duSjNScTczdmtDZGkyNzh0OGllNGticHV4a2kyMFlXVkNYVTZlblV2d3M1YnRrcW44bFZyVE1vRktvZTRSU0NS?oc=5",
-      "words": [
-        "child",
-        "directly",
-        "i4c",
-        "meta",
-        "report",
-        "safety",
-        "scrutiny",
-        "tightens",
-        "violations"
-      ]
-    },
-    {
-      "at": "2026-09-15T19:01:39.771516+00:00",
-      "handle": "News: India fintech",
-      "headline": "PhonePe CEO Sameer Nigam says 96% UPI transactions remain free",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSG9iNVBhWmxDc0c1NnlKd1FxcW9PdDBLeFZfa1ZEdWpLclVEWU9QNTZWUFNwTm5JajlfenZUdTZuYTVNZG5WODFUa2xqUGljVjdET2N4SG1xRVFXOHZ3S2JPUThmdVJlR1JQWElZb0k5MWNodW5LQndYcEtiR0I4clZPbEs4SFYybXN3UkNFaHRnRGRfVkNfcXV6RzFmRXNvLTNkSkRYcmNhcWtqMUVfSjJsd21LWHVWTU5XYXFYUi1udkZhbmt5eFlQYmHSAdIBQVVfeXFMT3MzU3N1bHQ1X1NoTXBuZURTQ3RHWFRmbzAzRzgyY0o5eFFkOE1YMlVZTTJJblNtc3dRTkl5MDVuWDhsRFhpRktHLXE4NjlveFkxcEpkUmlTd2o2SklMN2ZwXzI0S1VpbHlDQ21HNGJyUXpTVm5RaVk5dVNFU2VYY3hBMkxXR0ZOa0xDMzA4Q2NYdWlZRHN2cGNQX1NyVEswdXpoMHJkNTRuZmhXSFo0S01IcXhicGRWMWdULWJEYXV5SHhvSzN6bmlnUC1Qak43WVpn?oc=5",
-      "words": [
-        "free",
-        "limited",
-        "mdr",
-        "nigam",
-        "phonepe",
-        "remain",
-        "sameer",
-        "transactions",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-15T19:46:08.869822+00:00",
-      "handle": "News: India fintech",
-      "headline": "Centre ends free UPI era for merchant transactions",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmN6WFh0RGRxSUh1dk9XN1VCNV9KLUJzNkE0dGtfdzlYSG91aE53Sms4YWhLekZrMzl0bm1DeWRTczFhbnBSbFlhNnplNkNhQTlyWkRITzdRb045MllfMzhUMTRRU0F0bWJsRS11SEdZZnJlZTQ0TzhwTUJuN0czQmJqcHZ2bzhsdlVOek44TWzSAZYBQVVfeXFMTVJkY3NaazRtNlhOX2ZPV1hBV3N3ekFXVjVOQ3FidGNJYTF1SjFENzRNN2lLSjZDNHNtR3ZIeFI2V1JTQWtfR3FXTE12Z3hIMHVhVjJPUVFMekJPTFNEVExNOC1hMnRLOS16UkI3Nkk1ZmJCSWM3T3Y1OUlmMnkzb1pFLUhaVHN6Wm9mMTExTlVOMTlTNXBR?oc=5",
-      "words": [
-        "centre",
-        "ends",
-        "era",
-        "free",
-        "merchants",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-15T19:46:08.869822+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Coforge shares drop 3% following recent boardroom exits",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLW41WXpjVXh3ZDFxcTNZS0lyX1N6MnRzMmVoUHZXT19IQWNUZ3lEbmRRenlvTkhSSU00UTlOZUNnZDhpbS1NSFRRT2hiNmJ2TXdvNkJYOUlBbnhYZVhLN3ZlV2FZWHVUcFBxNGE1dEZmdGlQYVhXZUF1X3pFS1ZtWTBra0JybU5KR3Q0ZWpMMks5NUtxZ2FIOE1rVEE0M3NOTE1HZ0VuV0xqSExD?oc=5",
-      "words": [
-        "boardroom",
-        "coforge",
-        "exits",
-        "fall",
-        "sentiment",
-        "weigh"
-      ]
-    },
-    {
-      "at": "2026-09-15T20:46:30.416006+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Quick commerce startup Firi raises $3 million led by 360 One Asset",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSzlEMU9XTGRLRXZLdkl1VEVnV01HZDhDdDdvMU14ekxxSzhQR0lPZ2p5dEJsU1hiY1F0Wk8zME96Vy13b0tpN0xNWkU0U2ViR0RhMHBJQlk1NlE4NUZick82aFMyc1VHQ3pqYS1DMjRNSUFyR3R1dmt2cUUwUGZvRUMxVUt4bW1QNWNqTndwUHctZUFCQ09icUR5eFk3d092QW1wd0s2RVQ3NXYxVWNjLVJhM0VJc3NaZDZXN0hCcVByc0dKUGlUM2lFSW5vOFpMb3FVc1V2NkNsamRyNVpYbHF3SmQxV1RvOWFFQl9rc0lubGfSAfMBQVVfeXFMTUs5RDFPV0xkS0V2S3ZJdVRFZ1dNR2Q4Q3Q3bzFNeHpMcUs4UEdJT2dqeXRCbFNYYmNRdFpPMzBPelctd29LaTdMTVpFNFNlYkdEYTBwSUJZNTZRODVGYnJPNmhTMnNVR0N6amEtQzI0TUlBckd0dXZrdnFFMFBmb0VDMVVLeG1tUDVjak53cFB3LWVBQkNPYnFEeXhZN3dPdkFtcHdLNkVUNzV2MVVjYy1SYTNFSXNzWmQ2VzdIQnFQcnNHSlBpVDNpRUlubzhaTG9xVXNVdjZDbGpkcjVaWGxxd0pkMVdUbzlhRUJfa3NJbmxn?oc=5",
-      "words": [
-        "360",
-        "asset",
-        "beauty",
-        "care",
-        "commerce",
-        "firi",
-        "led",
-        "million",
-        "one",
-        "personal",
-        "quick",
-        "raises",
-        "startup"
-      ]
-    },
-    {
       "at": "2026-09-15T21:01:37.207100+00:00",
       "handle": "News: India edtech gaming",
       "headline": "NODWIN Gaming enters traditional sports and names Gurbaksh Virdi VP",
@@ -7327,6 +7221,111 @@
         "tab",
         "token"
       ]
+    },
+    {
+      "at": "2026-09-21T01:32:41.606256+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Mitrankur Majumdar takes over former Infosys CEO designate's role",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZzZzNF9iM0VKNXRXWkQ1ZEJ0UkFHM08xczh4MmI3U1FLbGZlQmUyaTN2a2RDczRFbFN1ZEtrd2NEVC1va3FNTVdzQndNOXkxVFFNampGQUZLMnlnQWVKa19NZTZKUUg2NEY1QXROaDlLUndtQWZUQXFDbU53M01yNXE4WGR1dXBHVkp3X3pqTkcyQjFSakxwUGl2TmUycDZBSEkycS14Ymlmb1lrT0t5QlFRSHlTekFDYnRfV2M4TdIBxAFBVV95cUxNYXdqcDNQYm03OHR6aGN1QWZZMG5nR21QbDdReUdlN1IzOTI0ZlRlajN4V3cxekxjZFVWb1ZhbE5WcnBuVFpEZ2VYMVlxVXpudTVWNlJzaXF0OWNkcDJMOFhwdU1VcEk0bjJJV1FIQjBzMW8xc1h6cFI1TnNsbWhieXVydi1uN0hRWGdBUF9vOE5GMmpnbHZFMTlLOHZNYVIzNHhpaUFEY1FBNUJ6blROb0NkMTkyXzFyUkxONWtYV0tlVU1H?oc=5",
+      "words": [
+        "ceo",
+        "designate",
+        "infosys",
+        "majumdar",
+        "mitrankur",
+        "old",
+        "shoes",
+        "takes"
+      ]
+    },
+    {
+      "at": "2026-09-21T01:32:41.606256+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Kelington bags record RM1.8b semiconductor hookup contract in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGg5d09WVnZDZ25SUHJNWDNGZTF2UVUxZGZWdzNMQ3EwMEliVHlVQXo5Z3BYakRMdkpfMHdxaXZwS0w3cDZqaVVCVkVXTXhoLWdXQnNPUzRnbEV1QW42SlN3R1FBVW44TVRlSi1BNERKN1g4VkU5MzJ6X2xXOG9zQTJmTDZ3OVdzLXBTdjJaYVNTR0Vla0lLQUhCbnRGbmhTSUhySWVnaS1rSkFHN3A5NQ?oc=5",
+      "words": [
+        "bags",
+        "contract",
+        "hookup",
+        "kelington",
+        "record",
+        "rm1",
+        "semiconductor"
+      ]
+    },
+    {
+      "at": "2026-09-21T01:32:41.606256+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "ISM 2.0 draws $12 billion interest; Vaishnaw stresses AI safety",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFU1QjZRLVFUVFpRbHF3REZ4eXJjQUg4OW1MSHZ1U044MGhheXhQdlpfdGNRcU92OXZnRVA5STJzTTE1aHRhT2ZOWjVLWHlaSmNLQ0xBMmNJOEw3Y1lzYkJ2Zk14Z196TVFLeVhDeGRmX0laYlk4U1ViLVZ1UmExYk9sdzl4TzBDV2lESXpyLXNtaklFaGFYWDBRZEpzcUFpWkVGSEwzZFlDVXB5aGhaRGRtSjRNLTNTRmVLOV8tMHNvU1E1U0FtZkVoSGdIaWRyb3pJdVRFa3pPbFJPcHfSAfQBQVVfeXFMTVNnaG1BejhSNmVPcVNfaUJfTWh2NXVSMzBYMU9FWS16T2V6RnZiUERSeVVsdFRaS21XYy1TRE1LZmR2R09Sa3J2U1FLRlZkV3hDQ05MRzVvYnRpWDByeklscW5GemNPNlYyUjFEa3VKZnZVZ2Nrd1VFZGtCUmh0TWxXcGFDZFhuUFBBUzN5NU9xc2RmYzVPcVBKc2ZfOWlVbm5lUzhWRzV3ZkdEd3U1QlBPaW1NZ1ZLbTZZcjg5UVNIZmVwTjJDN1A4TVpHWGN0d2V3MXBDYkhTT0NsVDN2amtJRlRnRmMzTEg4MGtEX1V4WElxTA?oc=5",
+      "words": [
+        "billion",
+        "draws",
+        "ensure",
+        "firms",
+        "interest",
+        "ism",
+        "must",
+        "safety",
+        "vaishnaw"
+      ]
+    },
+    {
+      "at": "2026-09-21T01:32:41.606256+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Infosys appoints Mitrankur Majumdar to lead SURE division",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVlVzSmV1QzJLRVJwRXh3cFVCY294aUFHMWtvcDhraGlwTW1ycEJNMU9sYkNiWGpVZWMtSGI2ZDhSbkhuU2FUY295TmtycWhMT3FwZ0U4cnRQbHhZdWNKOXcyWkZwZE1WY3RrZjEwVERGb0dJNEY4SFlTS1RzQ0JRYWoyTHBMTlN5aXRtdG80elV4YWxjcm9td1RURzgtSEFlNlVXbG56UWI0aWVJRjB1M2NfaFIwS0VK?oc=5",
+      "words": [
+        "appoints",
+        "billion",
+        "division",
+        "infosys",
+        "lead",
+        "majumdar",
+        "mitrankur",
+        "sure"
+      ]
+    },
+    {
+      "at": "2026-09-21T01:32:41.606256+00:00",
+      "handle": "News: India telecom",
+      "headline": "Government launches indigenous Cell Broadcast System for disaster alerts",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0pEdGhJUXVBcEcwMHJ4TWdPUFdyU0F2X3lZeUxkWkE3elQ0aDZJZzNjZkxZYTZoRndIYzJUeUYyQ0YxNnpTS3oxZk11RlVwMVQzMlRvSnpBZXpJdG81Nl94OTV6MHhVR2ZMWUdQd2VjM2NocWFhZ1B0bkVxcDhLMnRkYTdoZ2FrbHVUMEZCXzl0S0Q0TUh2UXNwWm4yNjdzU2VJT2daRWlKMk9mME1TSFF4RjFFQQ?oc=5",
+      "words": [
+        "alerts",
+        "broadcast",
+        "cell",
+        "disaster",
+        "government",
+        "indigenous",
+        "instant",
+        "launches",
+        "system"
+      ]
+    },
+    {
+      "at": "2026-09-21T01:32:41.606256+00:00",
+      "handle": "News: Global AI",
+      "headline": "Analog Devices commits $1.35 billion to edge AI chips",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05aVVqdV9FOTdadGx6TFpNa1p6WTJmOG9RSGxMOHFVRzc1dGFCTXh3TEx4enIyRUx2NW04cVdBQ2Q3YUpiS0xObGZubGhKOUpuLUhGQ1BFU2tNN0NWa2p5eHhfZ0J0SHlBWXB4Tm16c2Y0RFNHeTB5SGhyMVdiemc?oc=5",
+      "words": [
+        "adi",
+        "analog",
+        "bets",
+        "billion",
+        "chips",
+        "devices",
+        "let",
+        "machines",
+        "themselves",
+        "think"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -11810,10 +11809,21 @@
     "1789952400118",
     "1789952400211",
     "1789952538119",
-    "1789952940515"
+    "1789952940515",
+    "1789873606333",
+    "1789928797348",
+    "1789946389399",
+    "1789947425784",
+    "1789950627512",
+    "1789952100621",
+    "1789953240045",
+    "1789953240047",
+    "1789953240546",
+    "1789953240579",
+    "1789953240728"
   ],
-  "last_digest_hour": "2026-09-21T06",
-  "last_success": "2026-09-21T01:18:53.944983+00:00",
+  "last_digest_hour": "2026-09-21T07",
+  "last_success": "2026-09-21T01:32:41.607957+00:00",
   "national": {
     "alerted": [
       {
@@ -12998,7 +13008,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-21T01:19:59.386668+00:00",
+    "last_run": "2026-09-21T01:34:11.201475+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13938,98 +13948,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Mitrankur Majumdar takes over former Infosys CEO designate's role",
-      "post": {
-        "created_at": "2026-09-21T00:30:53+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1789950653634",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "Mitrankur Majumdar takes over Infosys CEO designate's old shoes",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZzZzNF9iM0VKNXRXWkQ1ZEJ0UkFHM08xczh4MmI3U1FLbGZlQmUyaTN2a2RDczRFbFN1ZEtrd2NEVC1va3FNTVdzQndNOXkxVFFNampGQUZLMnlnQWVKa19NZTZKUUg2NEY1QXROaDlLUndtQWZUQXFDbU53M01yNXE4WGR1dXBHVkp3X3pqTkcyQjFSakxwUGl2TmUycDZBSEkycS14Ymlmb1lrT0t5QlFRSHlTekFDYnRfV2M4TdIBxAFBVV95cUxNYXdqcDNQYm03OHR6aGN1QWZZMG5nR21QbDdReUdlN1IzOTI0ZlRlajN4V3cxekxjZFVWb1ZhbE5WcnBuVFpEZ2VYMVlxVXpudTVWNlJzaXF0OWNkcDJMOFhwdU1VcEk0bjJJV1FIQjBzMW8xc1h6cFI1TnNsbWhieXVydi1uN0hRWGdBUF9vOE5GMmpnbHZFMTlLOHZNYVIzNHhpaUFEY1FBNUJ6blROb0NkMTkyXzFyUkxONWtYV0tlVU1H?oc=5"
-      },
-      "queued_at": "2026-09-21T00:47:07.028185+00:00",
-      "score": 8.0,
-      "why": "Major leadership movement at a top-tier Indian IT services firm."
-    },
-    {
-      "headline": "Kelington bags record RM1.8b semiconductor hookup contract in India",
-      "post": {
-        "created_at": "2026-09-21T00:33:11+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789950791654",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Themalaysianreserve",
-        "reposts": 0,
-        "text": "Kelington bags record RM1.8b semiconductor hookup contract in India",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGg5d09WVnZDZ25SUHJNWDNGZTF2UVUxZGZWdzNMQ3EwMEliVHlVQXo5Z3BYakRMdkpfMHdxaXZwS0w3cDZqaVVCVkVXTXhoLWdXQnNPUzRnbEV1QW42SlN3R1FBVW44TVRlSi1BNERKN1g4VkU5MzJ6X2xXOG9zQTJmTDZ3OVdzLXBTdjJaYVNTR0Vla0lLQUhCbnRGbmhTSUhySWVnaS1rSkFHN3A5NQ?oc=5"
-      },
-      "queued_at": "2026-09-21T00:47:07.028185+00:00",
-      "score": 8.0,
-      "why": "Major contract win involving high-value semiconductor infrastructure capex in India."
-    },
-    {
-      "headline": "ISM 2.0 draws $12 billion interest; Vaishnaw stresses AI safety",
-      "post": {
-        "created_at": "2026-09-21T00:30:00+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789950600021",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "ISM 2.0 draws $12 billion interest; Vaishnaw says AI firms must ensure safety",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFU1QjZRLVFUVFpRbHF3REZ4eXJjQUg4OW1MSHZ1U044MGhheXhQdlpfdGNRcU92OXZnRVA5STJzTTE1aHRhT2ZOWjVLWHlaSmNLQ0xBMmNJOEw3Y1lzYkJ2Zk14Z196TVFLeVhDeGRmX0laYlk4U1ViLVZ1UmExYk9sdzl4TzBDV2lESXpyLXNtaklFaGFYWDBRZEpzcUFpWkVGSEwzZFlDVXB5aGhaRGRtSjRNLTNTRmVLOV8tMHNvU1E1U0FtZkVoSGdIaWRyb3pJdVRFa3pPbFJPcHfSAfQBQVVfeXFMTVNnaG1BejhSNmVPcVNfaUJfTWh2NXVSMzBYMU9FWS16T2V6RnZiUERSeVVsdFRaS21XYy1TRE1LZmR2R09Sa3J2U1FLRlZkV3hDQ05MRzVvYnRpWDByeklscW5GemNPNlYyUjFEa3VKZnZVZ2Nrd1VFZGtCUmh0TWxXcGFDZFhuUFBBUzN5NU9xc2RmYzVPcVBKc2ZfOWlVbm5lUzhWRzV3ZkdEd3U1QlBPaW1NZ1ZLbTZZcjg5UVNIZmVwTjJDN1A4TVpHWGN0d2V3MXBDYkhTT0NsVDN2amtJRlRnRmMzTEg4MGtEX1V4WElxTA?oc=5"
-      },
-      "queued_at": "2026-09-21T01:03:11.509709+00:00",
-      "score": 8.0,
-      "why": "Combines semiconductor investment interest with ministerial policy statements on AI safety."
-    },
-    {
-      "headline": "Government launches indigenous Cell Broadcast System for disaster alerts",
-      "post": {
-        "created_at": "2026-09-20T22:51:13+00:00",
-        "handle": "News: India telecom",
-        "id": "1789944673196",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "News On AIR",
-        "reposts": 0,
-        "text": "Government launches indigenous Cell Broadcast System for instant disaster alerts",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0pEdGhJUXVBcEcwMHJ4TWdPUFdyU0F2X3lZeUxkWkE3elQ0aDZJZzNjZkxZYTZoRndIYzJUeUYyQ0YxNnpTS3oxZk11RlVwMVQzMlRvSnpBZXpJdG81Nl94OTV6MHhVR2ZMWUdQd2VjM2NocWFhZ1B0bkVxcDhLMnRkYTdoZ2FrbHVUMEZCXzl0S0Q0TUh2UXNwWm4yNjdzU2VJT2daRWlKMk9mME1TSFF4RjFFQQ?oc=5"
-      },
-      "queued_at": "2026-09-21T01:03:11.509709+00:00",
-      "score": 7.0,
-      "why": "Major domestic telecom and technology deployment by the government."
-    },
-    {
-      "headline": "Infosys appoints Mitrankur Majumdar to lead SURE division",
-      "post": {
-        "created_at": "2026-09-21T01:02:18+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1789952538119",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NewsBytes",
-        "reposts": 0,
-        "text": "Infosys appoints Mitrankur Majumdar to lead $2.69 billion SURE division",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVlVzSmV1QzJLRVJwRXh3cFVCY294aUFHMWtvcDhraGlwTW1ycEJNMU9sYkNiWGpVZWMtSGI2ZDhSbkhuU2FUY295TmtycWhMT3FwZ0U4cnRQbHhZdWNKOXcyWkZwZE1WY3RrZjEwVERGb0dJNEY4SFlTS1RzQ0JRYWoyTHBMTlN5aXRtdG80elV4YWxjcm9td1RURzgtSEFlNlVXbG56UWI0aWVJRjB1M2NfaFIwS0VK?oc=5"
-      },
-      "queued_at": "2026-09-21T01:18:53.944139+00:00",
-      "score": 8.0,
-      "why": "This is a significant leadership appointment at a major Indian IT firm, making it a clear wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -15014,15 +14933,15 @@
     "news: big tech platforms": 1789947184667,
     "news: consumer internet india": 1789951803085,
     "news: global ai": 1789951893503,
-    "news: global chips": 1789949100785,
+    "news: global chips": 1789952100621,
     "news: global it services": 1789950900816,
     "news: india ai deeptech": 1789931687709,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789952940515,
+    "news: india fintech": 1789953240546,
     "news: india semiconductors": 1789952400118,
-    "news: india tech policy": 1789945502340,
-    "news: india telecom": 1789949414097,
-    "news: indian it majors": 1789952538119,
+    "news: india tech policy": 1789946389399,
+    "news: india telecom": 1789953240728,
+    "news: indian it majors": 1789953240579,
     "news: indian it midcaps": 1789932497325,
     "news: pib releases": 1789948434595,
     "news: tech leaders": 1789950915249,
@@ -15058,7 +14977,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T01:18:54.199834+00:00",
+    "last_server_run": "2026-09-21T01:32:41.900213+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T01:04:01.438777+00:00",
