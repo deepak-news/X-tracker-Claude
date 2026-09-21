@@ -11837,10 +11837,17 @@
     "1789955267605",
     "1789955442684",
     "1789955520145",
-    "1789956075637"
+    "1789956075637",
+    "1789890684679",
+    "1789903380484",
+    "1789903380949",
+    "1789935003357",
+    "1789949194473",
+    "1789955590437",
+    "1789956772841"
   ],
   "last_digest_hour": "2026-09-21T07",
-  "last_success": "2026-09-21T02:02:14.183408+00:00",
+  "last_success": "2026-09-21T02:16:51.482169+00:00",
   "national": {
     "alerted": [
       {
@@ -13045,7 +13052,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-21T02:03:24.444471+00:00",
+    "last_run": "2026-09-21T02:17:55.120883+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15006,14 +15013,14 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789954236988,
-    "news: consumer internet india": 1789951803085,
+    "news: consumer internet india": 1789955590437,
     "news: global ai": 1789955267605,
     "news: global chips": 1789955520145,
     "news: global it services": 1789950900816,
     "news: india ai deeptech": 1789931687709,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789954200047,
-    "news: india semiconductors": 1789952400118,
+    "news: india semiconductors": 1789956772841,
     "news: india tech policy": 1789946389399,
     "news: india telecom": 1789953240728,
     "news: indian it majors": 1789954607764,
@@ -15052,7 +15059,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T02:02:14.487333+00:00",
+    "last_server_run": "2026-09-21T02:16:51.801995+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T01:04:01.438777+00:00",
