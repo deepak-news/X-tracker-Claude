@@ -12598,10 +12598,33 @@
     "1789984091063",
     "1789984136017",
     "1789984247619",
-    "1789984852046"
+    "1789984852046",
+    "1789903380176",
+    "1789921680620",
+    "1789949753670",
+    "1789971232080",
+    "1789974245750",
+    "1789977358663",
+    "1789981301462",
+    "1789981822535",
+    "1789984065139",
+    "1789984097951",
+    "1789984486813",
+    "1789984835946",
+    "1789984854305",
+    "1789984902543",
+    "1789984912704",
+    "1789984952208",
+    "1789985040010",
+    "1789985187428",
+    "1789985323335",
+    "1789985327487",
+    "1789985409703",
+    "1789985428073",
+    "1789985649646"
   ],
   "last_digest_hour": "2026-09-21T15",
-  "last_success": "2026-09-21T10:02:45.665118+00:00",
+  "last_success": "2026-09-21T10:17:40.537368+00:00",
   "national": {
     "alerted": [
       {
@@ -13936,9 +13959,10 @@
       "CG-DL-E-21092026-276353",
       "CG-DL-E-21092026-276332",
       "CG-DL-E-21092026-276347",
-      "CG-DL-E-21092026-276352"
+      "CG-DL-E-21092026-276352",
+      "CG-DL-E-21092026-276355"
     ],
-    "last_run": "2026-09-21T10:03:53.621731+00:00",
+    "last_run": "2026-09-21T10:19:26.923061+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14891,7 +14915,12 @@
       "pib:2312951",
       "feed:http://www.niti.gov.in/node/2432",
       "feed:http://www.niti.gov.in/node/2433",
-      "feed:http://www.niti.gov.in/node/2431"
+      "feed:http://www.niti.gov.in/node/2431",
+      "pib:2312980",
+      "pib:2312969",
+      "pib:2312967",
+      "gazette:CG-DL-E-21092026-276355",
+      "pib:2312958"
     ],
     "source_failures": {
       "CBI": {
@@ -15966,23 +15995,23 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789983750378,
-    "news: consumer internet india": 1789983845077,
-    "news: global ai": 1789982428635,
-    "news: global chips": 1789984247619,
-    "news: global it services": 1789983072461,
+    "news: big tech platforms": 1789984097951,
+    "news: consumer internet india": 1789985649646,
+    "news: global ai": 1789984952208,
+    "news: global chips": 1789984912704,
+    "news: global it services": 1789985323335,
     "news: india ai deeptech": 1789982400381,
     "news: india edtech gaming": 1789812105151,
     "news: india fintech": 1789984852046,
     "news: india semiconductors": 1789983782139,
-    "news: india tech policy": 1789983750378,
+    "news: india tech policy": 1789985409703,
     "news: india telecom": 1789980928294,
     "news: indian it majors": 1789981177948,
     "news: indian it midcaps": 1789979243929,
-    "news: pib releases": 1789977720865,
-    "news: tech leaders": 1789983498031,
-    "nvidia": 1789650055203,
-    "nvidia blog": 1789650055203,
+    "news: pib releases": 1789981301462,
+    "news: tech leaders": 1789985428073,
+    "nvidia": 1789984835946,
+    "nvidia blog": 1789984835946,
     "openai": 1789732800252,
     "oracle": 1789631219707,
     "phonepe": 1789631207660,
@@ -16011,9 +16040,10 @@
       "Parliament",
       "e-Gazette - Home, Finance, Defence, Law, I&B",
       "e-Gazette - Law ministry",
-      "e-Gazette - MHA extraordinary"
+      "e-Gazette - MHA extraordinary",
+      "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T10:02:45.989716+00:00",
+    "last_server_run": "2026-09-21T10:17:40.864964+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T09:48:34.729901+00:00",
@@ -16275,6 +16305,7 @@
       "CG-DL-E-21092026-276350",
       "CG-DL-E-21092026-276352",
       "CG-DL-E-21092026-276353",
+      "CG-DL-E-21092026-276355",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
@@ -16418,7 +16449,8 @@
       "meeting:LS|21454",
       "meeting:LS|21518",
       "meeting:LS|21519",
-      "meeting:LS|21520"
+      "meeting:LS|21520",
+      "gazette:CG-DL-E-21092026-276355|GAZETTE_MAIL_TO"
     ]
   }
 }
