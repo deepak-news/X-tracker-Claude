@@ -13298,10 +13298,28 @@
     "1790008258981",
     "1790008563387",
     "1790008665761",
-    "1790008985254"
+    "1790008985254",
+    "1789962720729",
+    "1789997520578",
+    "1790000400405",
+    "1790003939261",
+    "1790003939835",
+    "1790004421790",
+    "1790005556532",
+    "1790006110923",
+    "1790006400385",
+    "1790007674398",
+    "1790008908139",
+    "1790008908237",
+    "1790009099562",
+    "1790009158835",
+    "1790009255090",
+    "1790009293959",
+    "1790009586636",
+    "1790009831104"
   ],
   "last_digest_hour": "2026-09-21T22",
-  "last_success": "2026-09-21T16:47:09.081675+00:00",
+  "last_success": "2026-09-21T17:02:58.224918+00:00",
   "national": {
     "alerted": [
       {
@@ -14782,7 +14800,7 @@
       "CG-WB-E-21092026-276363",
       "CG-UP-E-21092026-276364"
     ],
-    "last_run": "2026-09-21T16:50:55.426187+00:00",
+    "last_run": "2026-09-21T17:06:19.950051+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15944,6 +15962,24 @@
       "queued_at": "2026-09-21T16:47:09.078820+00:00",
       "score": 7.0,
       "why": "Significant stock movement and upcoming major product announcements constitute a solid market wire story."
+    },
+    {
+      "headline": "ADIA sells over 2% stake in Lenskart Solutions via block deal",
+      "post": {
+        "created_at": "2026-09-21T16:44:59+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790009099562",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "Abu Dhabi Investment Authority sells over 2% stake in Lenskart Solutions",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcjBGVkFFbmZDdEY0XzlOSjFKVE5sMTlxWDREejZFVWtWT0Rjc29qMkxLR0drQmRZbFB5MVpjd0Q5Z1BjZzBjOTdPRGVQS0FDeV9rVFJneFNqUmJPaXBKaG45cVprSjBKNlR0WDEyWDZFRW9pWGJqaXc3Q2d2Vk15WGYtTms4QmpPbTA0OGh3ZUF5OGUteG1US2Q5SnJicEhnM19IZk1hc3RUM1NqOWdvOGhjMkx5Q0JOaUcxV3BmUE56Z2xIRUsyYVlzMU9ONU5zS0HSAdcBQVVfeXFMTU5vWE5fVUdQTG56b1hxUFRGM2diSEFHM0xnQTZtbndCc29XWEJpdEN3NHh0cjRidzQ3RmpwWU9BamhyX3MxU05rWWE2eGVocnZVeldyb09hY0pZUjVfX25jR1FocmZzRVVlRkVuRGlGNWplNGowS25MNUYtX3BpMnlOTmJrd1B0S29Oc0haeU1QeXJtVzRpNG4zUFhFOWFaWEx6eVdIc1VPR0ZFa1pySnphckJrakRfOWh5ZUR2dEZqRG51d1lXYXp3a2NvWERqVXp2QUtVbVE?oc=5"
+      },
+      "queued_at": "2026-09-21T17:02:58.222048+00:00",
+      "score": 8.0,
+      "why": "Significant secondary stake sale by a major investor in a prominent Indian startup."
     }
   ],
   "page_links": {
@@ -16929,20 +16965,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790006838065,
-    "news: consumer internet india": 1790007281046,
-    "news: global ai": 1790008985254,
-    "news: global chips": 1789999809019,
-    "news: global it services": 1790008258981,
+    "news: consumer internet india": 1790009099562,
+    "news: global ai": 1790009831104,
+    "news: global chips": 1790006739944,
+    "news: global it services": 1790009158835,
     "news: india ai deeptech": 1790005310039,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790004566876,
+    "news: india fintech": 1790009255090,
     "news: india semiconductors": 1790006898595,
     "news: india tech policy": 1790008203041,
     "news: india telecom": 1790008114896,
     "news: indian it majors": 1790008563387,
     "news: indian it midcaps": 1790000460946,
     "news: pib releases": 1790004975907,
-    "news: tech leaders": 1790008140325,
+    "news: tech leaders": 1790009586636,
     "nvidia": 1790006446385,
     "nvidia blog": 1790006446385,
     "openai": 1789948800875,
@@ -16978,7 +17014,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T16:47:09.406371+00:00",
+    "last_server_run": "2026-09-21T17:02:58.555540+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T16:18:24.228655+00:00",
