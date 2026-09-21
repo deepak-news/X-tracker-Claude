@@ -13089,10 +13089,27 @@
     "1790000700005",
     "1790000776902",
     "1790000894137",
-    "1790000992000"
+    "1790000992000",
+    "1789975246619",
+    "1789977219655",
+    "1789982666240",
+    "1789986951316",
+    "1789992000704",
+    "1789995746740",
+    "1789996282422",
+    "1789997279183",
+    "1789997670655",
+    "1789999200305",
+    "1790000312241",
+    "1790000452930",
+    "1790000464557",
+    "1790000496197",
+    "1790000887274",
+    "1790001479001",
+    "1790001907959"
   ],
   "last_digest_hour": "2026-09-21T20",
-  "last_success": "2026-09-21T14:32:37.539217+00:00",
+  "last_success": "2026-09-21T14:47:36.055796+00:00",
   "national": {
     "alerted": [
       {
@@ -14563,7 +14580,7 @@
       "CG-DL-E-21092026-276356",
       "CG-DL-E-21092026-276357"
     ],
-    "last_run": "2026-09-21T14:36:27.383670+00:00",
+    "last_run": "2026-09-21T14:49:45.116080+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15643,7 +15660,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "DGFT": {
-        "count": 2
+        "count": 3,
+        "until": "2026-09-21T20:48:12.218726+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -16657,15 +16675,15 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789999740805,
-    "news: consumer internet india": 1789997403595,
+    "news: consumer internet india": 1790001479001,
     "news: global ai": 1789999401376,
     "news: global chips": 1789999809019,
-    "news: global it services": 1789999352216,
+    "news: global it services": 1790000464557,
     "news: india ai deeptech": 1789997396935,
     "news: india edtech gaming": 1789986988797,
     "news: india fintech": 1789999095573,
-    "news: india semiconductors": 1789996549685,
-    "news: india tech policy": 1789998300675,
+    "news: india semiconductors": 1790000496197,
+    "news: india tech policy": 1790001907959,
     "news: india telecom": 1790000992000,
     "news: indian it majors": 1790000776902,
     "news: indian it midcaps": 1789996020498,
@@ -16706,7 +16724,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T14:32:37.871156+00:00",
+    "last_server_run": "2026-09-21T14:47:36.321187+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T14:05:19.940446+00:00",
