@@ -10,7 +10,7 @@ import sys
 
 import yaml
 
-from . import email_out, judge, sources
+from . import email_out, judge, score_log, sources
 from .sources import XUnavailable
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -354,6 +354,7 @@ async def run(dry_run: bool) -> int:
         for post, value, headline, _ in judged:
             mark = "SEND" if value >= threshold else "skip"
             print(f"  [{mark}] {value:.0f}/10 {post.handle}: {headline}")
+        score_log.note_rows("tech", judged, threshold)
 
     # Original sources go out now. Google News reports wait for the digest.
     held, held_raw = [], []
@@ -406,6 +407,7 @@ async def run(dry_run: bool) -> int:
         # ever forgets what has already scrolled off -- the identifiers are
         # not all timestamps (a PIB release is numbered in the thousands),
         # so the order they were seen in is the only safe measure of age.
+        score_log.save()
         current = {p.id for p in posts}
         kept = [i for i in (handled or []) if i not in current]
         state["handled"] = (kept + sorted(current))[-HANDLED_MEMORY:]

@@ -16,6 +16,8 @@ import time
 
 import requests
 
+from . import score_log
+
 API_KEY_ENV = "GEMINI_API_KEY"
 BASE = "https://generativelanguage.googleapis.com/v1beta"
 
@@ -537,9 +539,13 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead
         accounted.add(idx)
         if item.get("seen_before") is True:
             print(f"  [old news] {batch[idx].handle}: already sent earlier")
+            score_log.note("tech", batch[idx], "old news", item.get("score"),
+                           str(item.get("headline", "")).strip(), str(item.get("why", "")).strip())
             continue
         if item.get("dupe_of") is not None:
             print(f"  [dupe] {batch[idx].handle}: same story as another post")
+            score_log.note("tech", batch[idx], "duplicate", item.get("score"),
+                           str(item.get("headline", "")).strip(), str(item.get("why", "")).strip())
             continue
         judged.append(
             (

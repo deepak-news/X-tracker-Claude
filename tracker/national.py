@@ -33,7 +33,7 @@ import yaml
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
-from . import email_out, judge, regulators, sources, watch
+from . import email_out, judge, regulators, score_log, sources, watch
 from .main import dead_models, record_dead_models
 from .sources import Post
 
@@ -621,6 +621,10 @@ def score(posts: list, rubric: str, state: dict, memory: dict) -> tuple:
             post = batch[idx]
             settled.add(post.id)
             if entry.get("seen_before") is True or entry.get("dupe_of") is not None:
+                score_log.note("tweets", post,
+                               "old news" if entry.get("seen_before") is True else "duplicate",
+                               entry.get("score"), str(entry.get("headline") or "").strip(),
+                               str(entry.get("why") or "").strip())
                 continue
             try:
                 value = float(entry.get("score", 0))
@@ -846,6 +850,9 @@ def run(dry_run: bool) -> int:
             settled |= judged
 
     picks = [r for r in rows if r[1] >= threshold]
+    # Earthquakes are not the AI's judgement, so they are not in its record.
+    score_log.note_rows("tweets", [r for r in rows if not r[0].handle.startswith("Quake ")],
+                        threshold)
     for post, value, headline, _ in sorted(rows, key=lambda r: -r[1]):
         mark = "SEND" if value >= threshold else "skip"
         print(f"  [{mark}] {value:.0f}/10 {_badge(post)[1]} {_issuer(post)[:30]}: "
@@ -888,6 +895,7 @@ def run(dry_run: bool) -> int:
         memory["gazette_scanned"] = sorted(scanned)[-2000:]
         memory["sources"] = sorted(known_sources | {getattr(p, "source", "") for p in posts} - {""})
         memory["last_run"] = dt.datetime.now(UTC).isoformat()
+        score_log.save()
         STATE.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
     # A government site or the AI being down is not a failure of this
     # program, and must not turn the run red and email anyone about it.
