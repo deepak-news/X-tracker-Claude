@@ -12545,10 +12545,39 @@
     "1789982400381",
     "1789982428635",
     "1789982692861",
-    "1789983026224"
+    "1789983026224",
+    "1789903380762",
+    "1789903771656",
+    "1789923465224",
+    "1789969389423",
+    "1789971604432",
+    "1789971967964",
+    "1789975375225",
+    "1789975861722",
+    "1789976050156",
+    "1789976198523",
+    "1789977166735",
+    "1789977213357",
+    "1789977219148",
+    "1789977409290",
+    "1789977976888",
+    "1789979729618",
+    "1789979848388",
+    "1789983057653",
+    "1789983099685",
+    "1789983132031",
+    "1789983263602",
+    "1789983296811",
+    "1789983310419",
+    "1789983382949",
+    "1789983639757",
+    "1789983672391",
+    "1789983750378",
+    "1789983782139",
+    "1789983884136"
   ],
   "last_digest_hour": "2026-09-21T15",
-  "last_success": "2026-09-21T09:32:18.952177+00:00",
+  "last_success": "2026-09-21T09:47:19.561545+00:00",
   "national": {
     "alerted": [
       {
@@ -13652,6 +13681,28 @@
           "usgs",
           "wnw"
         ]
+      },
+      {
+        "at": "2026-09-21T09:49:46.105870+00:00",
+        "handle": "PIB Ministry of Information & Broadcasting",
+        "headline": "72nd National Film Awards ceremony announced for September 22",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312951",
+        "words": [
+          "72nd",
+          "awards",
+          "best",
+          "broadcasting",
+          "celebrate",
+          "cinema",
+          "film",
+          "information",
+          "ministry",
+          "national",
+          "september",
+          "set",
+          "wait"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -13863,7 +13914,7 @@
       "CG-DL-E-21092026-276347",
       "CG-DL-E-21092026-276352"
     ],
-    "last_run": "2026-09-21T09:33:17.370986+00:00",
+    "last_run": "2026-09-21T09:49:46.106496+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14812,7 +14863,8 @@
       "pib:2312928",
       "pib:2312929",
       "pib:2312930",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63633"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63633",
+      "pib:2312951"
     ],
     "source_failures": {
       "CBI": {
@@ -14822,6 +14874,9 @@
       "IMD": {
         "count": 3,
         "until": "2026-09-21T11:18:44.198455+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 18,
@@ -14850,7 +14905,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "ESSCI and NIELIT ink pact for semiconductor skilling",
+      "post": {
+        "created_at": "2026-09-21T08:35:29+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789979729618",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Electronics",
+        "reposts": 0,
+        "text": "ESSCI, NIELIT ink pact to drive skilling in semiconductors, emerging tech",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQck02VUxIOXE2SHU2U0hLWGhrVUVMSHV5Y0FPdjJHOGQyWkp3UEJfQk5IS2pNSmR1MFU2cjAta2pydEZOUHpxNHVXcXhzaXpLOU5yc1I5emZycnlrck1QQVJVTVNob1RydnFzXy1pMHJCZnZfcC1XcXRBVGQzenlWcnRWVlNJMFRjSEo0Zm4yT0JMcFlpSWUxZGZSV1pvbHBjTlcydk5HN2RhUUJjbGZNY0tKZFEyQmVtN1B1ckhZX0VzeGlVR3dzcnNCYWJXd1J5eDU1a2ZILWhPSGR4NzVXdEN0QUhMbUNfLVZr0gHvAUFVX3lxTE0zMlBneEJ3aEh4dUJaVlZhd190WkdmSTRBQU40Y3BsNzNEaDRvLW53V2pGOElObVdsX0REYURUOTJYVmtRMmI3bnV0eVk3TV8xQndOWVdYT3lLM0dtMVY1aUlFYXEtTEVDWkpLcmxVQ2cxaUI4R2hZSU8xN09STTZxTG9UVzRndGtKSk45bEtKV2l0ZUluUkNCWm5COWZXNGN5SFJTd3o5RFRZZElQVFBub3VLSkx1SnQxNzJ4YTgtZ0psOHl0bEFKR3ZlY2dRdF93MHRFY2VOZDA1VkdCUjV1Nnp3aDBJWlhGSXBvb3A0?oc=5"
+      },
+      "queued_at": "2026-09-21T09:47:19.560481+00:00",
+      "score": 7.0,
+      "why": "Partnership involving government bodies for semiconductor workforce development in India."
+    },
+    {
+      "headline": "Montran enables MyUPI, Tap & Pay and Contextual EMI",
+      "post": {
+        "created_at": "2026-09-21T09:36:22+00:00",
+        "handle": "News: India fintech",
+        "id": "1789983382949",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "IBS Intelligence",
+        "reposts": 0,
+        "text": "Montran enables MyUPI, Tap & Pay and Contextual EMI",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZi1RQ19xdXRkYklnaFdZOE1DRjBWQmd1VEE4WHFFZk9JRV9takpNcmRrYmE4emNmYmNYelVZMks3SWNLMk5xMVFYU3FLUU9SOFZ6TzVGRGhTZm5HYzZqMjJBaUQ2cTM4RHlXUG1sZVNZS2FBbC1CeFFYRXI5dmR2Q3BhcG9YSVJKbkVFTTdjbEg?oc=5"
+      },
+      "queued_at": "2026-09-21T09:47:19.560481+00:00",
+      "score": 7.0,
+      "why": "New fintech product capability announcement tied to UPI infrastructure."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -15832,21 +15924,21 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789981186716,
+    "news: big tech platforms": 1789983750378,
     "news: consumer internet india": 1789983026224,
     "news: global ai": 1789982428635,
-    "news: global chips": 1789981920164,
+    "news: global chips": 1789983672391,
     "news: global it services": 1789982055372,
     "news: india ai deeptech": 1789982400381,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789982692861,
-    "news: india semiconductors": 1789982372795,
-    "news: india tech policy": 1789982230370,
+    "news: india fintech": 1789983884136,
+    "news: india semiconductors": 1789983782139,
+    "news: india tech policy": 1789983750378,
     "news: india telecom": 1789980768781,
     "news: indian it majors": 1789981177948,
     "news: indian it midcaps": 1789979243929,
     "news: pib releases": 1789975017877,
-    "news: tech leaders": 1789981775446,
+    "news: tech leaders": 1789983263602,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -15879,17 +15971,17 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T09:32:19.281028+00:00",
+    "last_server_run": "2026-09-21T09:47:19.886977+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-21T07:35:25.039463+00:00",
+        "checked": "2026-09-21T09:48:34.729901+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-21T07:35:17.285740+00:00",
+        "checked": "2026-09-21T09:48:26.542742+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -15965,7 +16057,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-21T07:35:21.253749+00:00",
+        "checked": "2026-09-21T09:48:30.614080+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -16019,11 +16111,11 @@
       },
       "last": {
         "calendar": "2026-09-21T09:02:48.345146+00:00",
-        "ls_reports": "2026-09-21T07:34:59.564104+00:00",
-        "rs_committee_press": "2026-09-21T07:35:10.574536+00:00",
-        "rs_press": "2026-09-21T07:35:07.692386+00:00",
-        "rs_reports": "2026-09-21T07:35:04.400115+00:00",
-        "rs_updates": "2026-09-21T07:35:13.113916+00:00"
+        "ls_reports": "2026-09-21T09:48:09.221603+00:00",
+        "rs_committee_press": "2026-09-21T09:48:20.178080+00:00",
+        "rs_press": "2026-09-21T09:48:16.357655+00:00",
+        "rs_reports": "2026-09-21T09:48:13.656593+00:00",
+        "rs_updates": "2026-09-21T09:48:22.442108+00:00"
       }
     },
     "scanned": [
