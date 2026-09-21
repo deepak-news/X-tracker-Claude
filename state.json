@@ -12688,10 +12688,35 @@
     "1789987920904",
     "1789988252700",
     "1789988353310",
-    "1789988432683"
+    "1789988432683",
+    "1789907940617",
+    "1789910361567",
+    "1789932300176",
+    "1789948696863",
+    "1789967166903",
+    "1789979520073",
+    "1789981293408",
+    "1789981310509",
+    "1789983576127",
+    "1789984080782",
+    "1789984828896",
+    "1789986720731",
+    "1789987620319",
+    "1789987658922",
+    "1789988285897",
+    "1789988461343",
+    "1789988469733",
+    "1789988476147",
+    "1789988484465",
+    "1789988599685",
+    "1789988619623",
+    "1789988756829",
+    "1789988817332",
+    "1789988829978",
+    "1789988856492"
   ],
   "last_digest_hour": "2026-09-21T16",
-  "last_success": "2026-09-21T11:03:07.861929+00:00",
+  "last_success": "2026-09-21T11:17:04.748316+00:00",
   "national": {
     "alerted": [
       {
@@ -14030,7 +14055,7 @@
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356"
     ],
-    "last_run": "2026-09-21T11:03:54.769622+00:00",
+    "last_run": "2026-09-21T11:17:55.606144+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14993,7 +15018,11 @@
       "page:https://www.cbse.gov.in/cbsenew/documents/User_Manual_West_Asian_Countries_LOC_21092026.pdf",
       "gazette:CG-DL-E-21092026-276356",
       "pib:2313016",
-      "pib:2313007"
+      "pib:2313007",
+      "pib:2313032",
+      "pib:2313026",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63634",
+      "pib:2313018"
     ],
     "source_failures": {
       "CBI": {
@@ -15157,6 +15186,42 @@
       "queued_at": "2026-09-21T10:47:26.386426+00:00",
       "score": 7.0,
       "why": ""
+    },
+    {
+      "headline": "Punjab and Haryana petrol pumps seek UPI MDR exemption",
+      "post": {
+        "created_at": "2026-09-21T10:58:05+00:00",
+        "handle": "News: India fintech",
+        "id": "1789988285897",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The New Indian Express",
+        "reposts": 0,
+        "text": "Petrol pumps across Punjab, Haryana seek exemption from the new Merchant Discount Rate (MDR) UPI rule",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcnRDQzl1eWVkRl94RGpBaHFudlVlX1hwcWREcE1mSDNTNUs4VFhFUEVYRHVJUFU4WmVMaGo2dFBnM3VILWZFSHFWN2hyWkg3NlVoem1icFl5bmpyaFp4VUlVX0tmM0RIOFpfX181dTRNNkNLYVp0ZldyWkFqcHlKRVV4RzE4Y2VGMWNvQXZibjdMYlRTZmFpY1k2VGtKeVIxOW1iZ3JBYWxSVUtaSUhYalRZal9iYnlFN3ZJSW9nU2F3LXpxLS00Wk9vNGNSb2xxYTY0eDN3VVd0YV9GdjhteF9YWdIB8AFBVV95cUxPOFQ4OEZTemxQdWI5RW5wRW5fcTZrYTd2ajk2bE1GMDZ4bHE1VFVtaTA5U1hVbGd2UVA1VkFtSTQ0ckExNkZlRDF0MkN5VEhxRTBXbTNuaUZNLXAwVnJBQ3FITnNxcmJOdnF0TGxDbDNFelV5VHl1S3pWcnJCbzF4Zm8yUTNja08wOEdzZ1AyalFSNDJnY0x6MzZJODRXMzBhbm5GT095OHZMQ3BhdXZ2ajhLQTlsdmtldEQ0a1YyeFpyUG5KVlFZbFpfRk15RFJkMFVEWnNOaVdJa2JCa3hwVlNrZm80dnp1amVNRVNyY2Q?oc=5"
+      },
+      "queued_at": "2026-09-21T11:17:04.747392+00:00",
+      "score": 7.0,
+      "why": "Fresh regional escalation in the ongoing UPI MDR fee protests."
+    },
+    {
+      "headline": "Shilpa Jain resigns as Nykaa AVP of Consumer Insights",
+      "post": {
+        "created_at": "2026-09-21T11:07:09+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1789988829978",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Bestmediainfo",
+        "reposts": 0,
+        "text": "Shilpa Jain steps down as Nykaa\u2019s AVP, Consumer & Market Insights",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbWVSclQyYlR4ZFpkR3A4YmJXTmQwdW5rSVBGR0FoLU5uTERQRG05YW1LdDNkWkRmVXBzYVB5MFkxRTRNVlEtbi1PSl82VjljRXhoYkZ6aFNMbVFBbFAyNXRGSm1zNXhSb1JkZVFnbk1mV2U3bGVtUTY0VExSbjdfeWhnX05RRnBpNF9odVU2b2UzVjBMZnAzUUNZVjhwSW5sX3VuUjN0Qm9DTEVYek5fMV9ST19HQUFZWnpJQ2ZFUnBILWpX0gHEAUFVX3lxTE9tZVJyVDJiVHhkWmRHcDhiYldOZDB1bmtJUEZHQWgtTm5MRFBEbTlhbUt0M2RaRGZVcHNhUHkwWTFFNE1WUS1uLU9KXzZWOWNFeGhiRnpoU0xtUUFsUDI1dEZKbXM1eFJvUmRlUWduTWZXZTdsZW1RNjRUTFJuN195aGdfTlFGcGk0X2h1VTZvZTNWMExmcDNRQ1lWOHBJbmxfdW5SM3RCb0NMRVh6Tl8xX1JPX0dBQVlaeklDZkVScEgtalc?oc=5"
+      },
+      "queued_at": "2026-09-21T11:17:04.747392+00:00",
+      "score": 7.0,
+      "why": "Leadership exit at a major Indian consumer internet and tech firm."
     }
   ],
   "page_links": {
@@ -16141,19 +16206,19 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789986600308,
-    "news: consumer internet india": 1789987708672,
-    "news: global ai": 1789988252700,
+    "news: consumer internet india": 1789988829978,
+    "news: global ai": 1789988856492,
     "news: global chips": 1789986600144,
     "news: global it services": 1789987257271,
-    "news: india ai deeptech": 1789986658179,
+    "news: india ai deeptech": 1789988756829,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1789987920904,
+    "news: india fintech": 1789988817332,
     "news: india semiconductors": 1789987153980,
-    "news: india tech policy": 1789988432683,
+    "news: india tech policy": 1789988619623,
     "news: india telecom": 1789988353310,
-    "news: indian it majors": 1789985100827,
-    "news: indian it midcaps": 1789987020906,
-    "news: pib releases": 1789985580180,
+    "news: indian it majors": 1789986720731,
+    "news: indian it midcaps": 1789988484465,
+    "news: pib releases": 1789987620319,
     "news: tech leaders": 1789986653795,
     "nvidia": 1789984835946,
     "nvidia blog": 1789984835946,
@@ -16188,7 +16253,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T11:03:08.091192+00:00",
+    "last_server_run": "2026-09-21T11:17:04.985865+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T09:48:34.729901+00:00",
