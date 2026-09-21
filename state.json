@@ -12129,10 +12129,43 @@
     "1789970046888",
     "1789970055526",
     "1789970221713",
-    "1789970361590"
+    "1789970361590",
+    "1789903380425",
+    "1789914995690",
+    "1789921800526",
+    "1789922137462",
+    "1789930884863",
+    "1789947578808",
+    "1789960367522",
+    "1789960836312",
+    "1789961063163",
+    "1789963252305",
+    "1789966020362",
+    "1789967879367",
+    "1789968246983",
+    "1789970162074",
+    "1789970400080",
+    "1789970439653",
+    "1789970536102",
+    "1789970537795",
+    "1789970640064",
+    "1789970643660",
+    "1789970646033",
+    "1789970700713",
+    "1789970740944",
+    "1789970760213",
+    "1789970785103",
+    "1789970814288",
+    "1789970881089",
+    "1789971177118",
+    "1789971209289",
+    "1789971220080",
+    "1789971316977",
+    "1789971341565",
+    "1789990963844"
   ],
   "last_digest_hour": "2026-09-21T11",
-  "last_success": "2026-09-21T06:02:25.528137+00:00",
+  "last_success": "2026-09-21T06:16:52.843710+00:00",
   "national": {
     "alerted": [
       {
@@ -13402,7 +13435,7 @@
       "CG-DL-E-21092026-276330",
       "CG-OR-E-21092026-276346"
     ],
-    "last_run": "2026-09-21T06:03:25.892259+00:00",
+    "last_run": "2026-09-21T06:18:14.338983+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14330,7 +14363,9 @@
       "gazette:CG-RJ-E-21092026-276334",
       "gazette:CG-DL-E-21092026-276333",
       "gazette:CG-DL-E-21092026-276330",
-      "gazette:CG-OR-E-21092026-276346"
+      "gazette:CG-OR-E-21092026-276346",
+      "pib:2312842",
+      "pib:2312841"
     ],
     "source_failures": {
       "CBI": {
@@ -14422,6 +14457,42 @@
       "queued_at": "2026-09-21T05:47:30.671867+00:00",
       "score": 7.0,
       "why": "A major tech giant executing layoffs within a specific product team is a standard wire alert."
+    },
+    {
+      "headline": "OpenLight appoints Kevin Soukup and Kirk Ouellette to executive team",
+      "post": {
+        "created_at": "2026-09-21T06:00:00+00:00",
+        "handle": "News: Global chips",
+        "id": "1789970400080",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Yahoo Finance",
+        "reposts": 0,
+        "text": "OpenLight Adds Former GlobalFoundries Silicon Photonics Leader Kevin Soukup and Semiconductor Veteran Kirk Ouellette to Executive Team",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkR6REFoS2xoTEZUbG9Zck1wdEkwYkJULWJqbVJ4engtM0pCMmVDckhlUzV2TnpoUUFFU1FXTkV0bmVqUFRhSWNGNnU2S0ZRb19oU2s4SFdrS0VGZ0hneFVtWWQzd0t0QTlQbVJCSEdITU1xb0JaUm81VHhqWW1xb1BISFpqajNGRXp4cm1ySk5IZF94eHlhMU5nN1RveEdfcU1kQ2ZTM2p3Zw?oc=5"
+      },
+      "queued_at": "2026-09-21T06:16:52.842755+00:00",
+      "score": 7.0,
+      "why": "A leadership change at a prominent photonics and semiconductor company constitutes a wire alert."
+    },
+    {
+      "headline": "Jade Sleet linked to Indian IT provider breach with backdoors",
+      "post": {
+        "created_at": "2026-09-21T06:06:00+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1789970760213",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Hacker News",
+        "reposts": 0,
+        "text": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzY2bmdwQUR3WTRabHRfOUF0VzBwODJQNFk4elRqZElfd3lHTnZiT1dlSDdRdEdKeDZGeFFnSHpZOFFwbGNNX19LMnloT3d6YmZIUk1QSnVIOU8tNXppQWRVcVRZNkRJNFRvNnpMNEJBNFl6MFN4Tjltak93VTJULXZlaHA?oc=5"
+      },
+      "queued_at": "2026-09-21T06:16:52.842755+00:00",
+      "score": 7.0,
+      "why": "Cybersecurity threat intelligence involving an Indian IT provider is a solid wire story."
     }
   ],
   "page_links": {
@@ -15351,7 +15422,7 @@
     "apple": 1789707734879,
     "arm": 1788832833709,
     "aws": 1789679508606,
-    "bse bharti airtel": 1789756147490,
+    "bse bharti airtel": 1789990963844,
     "bse black box": 1789582416637,
     "bse coforge": 1789904582311,
     "bse cyient": 1789663656842,
@@ -15402,24 +15473,24 @@
     "linkedin": 1789758145368,
     "meta": 1789743313328,
     "microsoft": 1789653605718,
-    "microsoft india": 1789703363718,
+    "microsoft india": 1789970643660,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789969734926,
-    "news: consumer internet india": 1789969908760,
-    "news: global ai": 1789970055526,
-    "news: global chips": 1789968754815,
-    "news: global it services": 1789965800297,
-    "news: india ai deeptech": 1789969734926,
+    "news: big tech platforms": 1789971316977,
+    "news: consumer internet india": 1789971220080,
+    "news: global ai": 1789970536102,
+    "news: global chips": 1789970400080,
+    "news: global it services": 1789971177118,
+    "news: india ai deeptech": 1789971209289,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789970361590,
-    "news: india semiconductors": 1789970046888,
-    "news: india tech policy": 1789969920412,
-    "news: india telecom": 1789967679439,
+    "news: india fintech": 1789970700713,
+    "news: india semiconductors": 1789971341565,
+    "news: india tech policy": 1789970740944,
+    "news: india telecom": 1789970439653,
     "news: indian it majors": 1789970221713,
     "news: indian it midcaps": 1789966380265,
     "news: pib releases": 1789964611862,
-    "news: tech leaders": 1789968323368,
+    "news: tech leaders": 1789970785103,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -15452,7 +15523,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T06:02:25.859521+00:00",
+    "last_server_run": "2026-09-21T06:16:53.102201+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T05:18:42.663670+00:00",
