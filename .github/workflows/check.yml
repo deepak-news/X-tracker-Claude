@@ -109,6 +109,8 @@ jobs:
           cp state.json "$RUNNER_TEMP/mine.json"
           # The email counter keeps its own file (see email_out.py for why).
           cp mail_log.json "$RUNNER_TEMP/mine_log.json" 2>/dev/null || echo '{}' > "$RUNNER_TEMP/mine_log.json"
+          # A week of the AI's judgements, for improving the rubric (score_log.py).
+          cp scores.json "$RUNNER_TEMP/mine_scores.json" 2>/dev/null || echo '[]' > "$RUNNER_TEMP/mine_scores.json"
 
           # Nothing in state.json genuinely conflicts -- every field only
           # moves forward -- so it is combined by meaning rather than merged
@@ -123,8 +125,8 @@ jobs:
             [ "$attempt" -gt 1 ] && sleep $(( (attempt - 1) * 15 ))
 
             git fetch origin main || { echo "fetch failed (attempt $attempt)"; continue; }
-            git checkout -- state.json mail_log.json 2>/dev/null || true
-            rm -f mail_log.json
+            git checkout -- state.json mail_log.json scores.json 2>/dev/null || true
+            rm -f mail_log.json scores.json
             git reset --hard origin/main --quiet || { echo "reset failed (attempt $attempt)"; continue; }
 
             python -m tracker.merge_state "$RUNNER_TEMP/mine.json" state.json > "$RUNNER_TEMP/merged.json"
@@ -132,7 +134,10 @@ jobs:
             [ -f mail_log.json ] || echo '{}' > mail_log.json
             python -m tracker.merge_state --mail-log "$RUNNER_TEMP/mine_log.json" mail_log.json > "$RUNNER_TEMP/merged_log.json"
             mv "$RUNNER_TEMP/merged_log.json" mail_log.json
-            git add state.json mail_log.json
+            [ -f scores.json ] || echo '[]' > scores.json
+            python -m tracker.score_log "$RUNNER_TEMP/mine_scores.json" scores.json "$RUNNER_TEMP/merged_scores.json"
+            mv "$RUNNER_TEMP/merged_scores.json" scores.json
+            git add state.json mail_log.json scores.json
             git diff --staged --quiet && { echo "nothing new to record"; exit 0; }
 
             git commit -m "seen up to $(date -u +%FT%TZ)" --quiet || { echo "commit failed (attempt $attempt)"; continue; }
