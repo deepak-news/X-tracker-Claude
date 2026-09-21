@@ -12457,10 +12457,32 @@
     "1789980204120",
     "1789980214959",
     "1789980243968",
-    "1789999847266"
+    "1789999847266",
+    "1789720058319",
+    "1789722159969",
+    "1789916616224",
+    "1789941555863",
+    "1789942837883",
+    "1789960242956",
+    "1789970972085",
+    "1789973350624",
+    "1789973943244",
+    "1789977366294",
+    "1789978494772",
+    "1789979055544",
+    "1789979880385",
+    "1789980161822",
+    "1789980403120",
+    "1789980627483",
+    "1789980727259",
+    "1789980768781",
+    "1789980783637",
+    "1789980832833",
+    "1789980960315",
+    "1789981177948"
   ],
   "last_digest_hour": "2026-09-21T14",
-  "last_success": "2026-09-21T08:47:18.743621+00:00",
+  "last_success": "2026-09-21T09:02:29.258248+00:00",
   "national": {
     "alerted": [
       {
@@ -13775,7 +13797,7 @@
       "CG-DL-E-21092026-276347",
       "CG-DL-E-21092026-276352"
     ],
-    "last_run": "2026-09-21T08:48:08.017493+00:00",
+    "last_run": "2026-09-21T09:03:19.641787+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14721,7 +14743,9 @@
       "gazette:CG-DL-E-21092026-276352",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/%e0%b0%b5%e0%b0%bf%e0%b0%a6%e0%b1%8d%e0%b0%af%e0%b0%be%e0%b0%b0%e0%b1%8d%e0%b0%a5%e0%b1%81%e0%b0%b2%e0%b0%95%e0%b1%81-%e0%b0%85%e0%b0%82%e0%b0%a6%e0%b0%bf%e0%b0%82%e0%b0%9a%e0%b1%87-%e0%b0%af%e0%b1%82/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/%e0%b0%8e%e0%b0%82%e0%b0%b8%e0%b1%80%e0%b0%86%e0%b0%b0%e0%b1%8d-%e0%b0%b9%e0%b1%86%e0%b0%9a%e0%b1%8d%e0%b0%86%e0%b0%b0%e0%b1%8d%e0%b0%a1%e0%b1%80%e0%b0%b2%e0%b1%8b%e0%b0%a8%e0%b0%bf-%e0%b0%ac-2/",
-      "pib:2312928"
+      "pib:2312928",
+      "pib:2312929",
+      "pib:2312930"
     ],
     "source_failures": {
       "CBI": {
@@ -15750,7 +15774,7 @@
     "google cloud": 1789650000163,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
-    "hcltech": 1789758325478,
+    "hcltech": 1789980161822,
     "ibm": 1789963260645,
     "intel": 1788847380154,
     "lenovo": 1789957561980,
@@ -15760,18 +15784,18 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789979880019,
-    "news: consumer internet india": 1789980102224,
+    "news: big tech platforms": 1789979880385,
+    "news: consumer internet india": 1789981177948,
     "news: global ai": 1789979335071,
     "news: global chips": 1789978560613,
-    "news: global it services": 1789980204120,
-    "news: india ai deeptech": 1789975319837,
+    "news: global it services": 1789980403120,
+    "news: india ai deeptech": 1789980627483,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789979829163,
-    "news: india semiconductors": 1789979184275,
+    "news: india fintech": 1789980783637,
+    "news: india semiconductors": 1789980960315,
     "news: india tech policy": 1789980214959,
-    "news: india telecom": 1789980243968,
-    "news: indian it majors": 1789979399066,
+    "news: india telecom": 1789980768781,
+    "news: indian it majors": 1789981177948,
     "news: indian it midcaps": 1789979243929,
     "news: pib releases": 1789974900211,
     "news: tech leaders": 1789979912907,
@@ -15807,7 +15831,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T08:47:19.043212+00:00",
+    "last_server_run": "2026-09-21T09:02:29.525161+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T07:35:25.039463+00:00",
@@ -15936,7 +15960,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-09-21T03:02:21.182949+00:00",
+        "at": "2026-09-21T09:02:45.067006+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -15946,7 +15970,7 @@
         }
       },
       "last": {
-        "calendar": "2026-09-21T03:02:24.190647+00:00",
+        "calendar": "2026-09-21T09:02:48.345146+00:00",
         "ls_reports": "2026-09-21T07:34:59.564104+00:00",
         "rs_committee_press": "2026-09-21T07:35:10.574536+00:00",
         "rs_press": "2026-09-21T07:35:07.692386+00:00",
