@@ -203,12 +203,13 @@ def certin(session) -> list:
         if not found and year == today.year and today.month > 1:
             raise RuntimeError("the advisories list did not read as it usually does")
         for code, when, title in found:
+            when = " ".join(when.split())
             out.append({
                 "key": f"certin:{code}",
                 "title": _tidy(title)[:200] or code,
-                "detail": f"{code} | {re.sub(r'\s+', ' ', when)}",
+                "detail": f"{code} | {when}",
                 "url": CERTIN + f"s2cMainServlet?pageid=PUBVLNOTES02&VLCODE={code}",
-                "date": _date(re.sub(r"\s+", " ", when)),
+                "date": _date(when),
             })
     return out
 
