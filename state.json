@@ -1,194 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-16T12:46:21.262813+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Infosys announces expansion of Indore development center",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjU4NXR6U1NlR2xfMVdMNlp5N25QYjFXSkpNTGw2cjhMNG5qVVBwX1Y2M0xxNk1RWWVlZmV0Y2puVGtVeHFuWGJIS2ROQm0zUTZEclhreW8zOTNSMXhMeURRNWp0dmszdkhQU1hra3FDS2JwUzNuaW81bnRRcjB1akVVNm10anJPblhQMm8xSHJCbVJ3d01jX3Bvb05vbWh6cDBmWjU5dmh3ME9QRnc?oc=5",
-      "words": [
-        "announces",
-        "center",
-        "development",
-        "expansion",
-        "indore",
-        "infosys"
-      ]
-    },
-    {
-      "at": "2026-09-16T12:46:21.262813+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Government tells Meta to remove child abuse content, denies immunity",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13VTZiSGpaMGdPMFlVMzlObm80MVhubEZkUGhRUWs0WjVvLWN5dmxXM19pdmVOMHJlN0hQUVhoU3VTS3d4TVlmWQ?oc=5",
-      "words": [
-        "abuse",
-        "admitted",
-        "child",
-        "content",
-        "government",
-        "immunity",
-        "meta",
-        "mistake",
-        "must",
-        "remove"
-      ]
-    },
-    {
-      "at": "2026-09-16T13:02:54.248348+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Govt sources say Meta acts as service provider on algorithms",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSHV5RzZkLURSQ2JHdzFPZVowQ3ZSMnV3emhTNFN4S1ZGYTY4aHhPaXVJbHFCY2hCb2FMeHlFZ2VtVm56LUdyd0NlT1NxZDl6cWRqYTRndExrT0ZweUcwbVBmYkFURDdWMVpFSU5ZbUNKdVhLY0pTTlo4NElqeEM3WTk3SS1xYVZnRWtvNlFpbXd3T0k4elRScUU3RlotZzM1WHBnb1RCSXo5dVZsRWtwVmp4SXJjRlcxMHdsTlc5UlkxdUt4YzRQTEhfMDg2WTZsT3dwRVNZeGJub1lkRVdseHhLZ3JETFRQejI4QXFGbm9idkNpT3BTZ3RB0gGHAkFVX3lxTFBVczh0TTNENm05cm9YaFBHQWFvOXhKa09fSWs0b0hsQURsangxYy1yQ0lpNDVWV0RGRGRtZk1UWjlhWUtYNlctR2RtVlIzUWMtSl9YT0dfOUt3eFdzOUtmWk9DUUFWSTlCeHFaZTR3SVh5WmVwT3hxVm80TmtLY0tXemxaT3otWWVkMlJhT3RyU3h2cXZqa081QVdLQWgxVU1ZN2JGdHdHZzdYY2RHSUR1Wi1YQUxONTdZa2ZOUi1rZjcyamV0Nm94SFpkdHpIXzQ3NFJYU284YlV5eUsxb3ZXendzcUlsWE92TGR4NUd0N2FRV3Mtd2I0WF9wSXRGd2hxSnQ0T3Mw?oc=5",
-      "words": [
-        "algorithms",
-        "content",
-        "decide",
-        "govt",
-        "intermediary",
-        "meta",
-        "provider",
-        "say",
-        "service",
-        "simple",
-        "sources",
-        "visibility",
-        "when"
-      ]
-    },
-    {
-      "at": "2026-09-16T13:02:54.248348+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "PM Modi meets global chip executives ahead of Semicon India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkJES0ZLUERNY0VNR1d2Sm5rS01FekZJWFR3S1g4Z2JWZGZWNmU1Y1V0Tm5LTHlDTHNkbzV6ZWVGdTFLM0J5X2x6ZjY3SkpmbTR1TkR4ZHFlak1oOFU3Y3ZiR3pUQm9WXzZyMFFPLUNSRFNLSEZWT0pkVlBzclk2VmcwU2ZQXzJBMExZQW1zTllLREFtWV9XbG9nUDA5ZXd3QWd1QVc0QlR4azlremdYTUpoaTBrN0ZFMnJyb3VoM0wzaU9WSU9ZWm9qeVfSAdQBQVVfeXFMT0NuLUdxYzBjOUtkc2E2dlFEMGRvUTNKV2h6SlI5RFpvMmRSYmNZMkFYWFhKbXE5SjNTY1ZqbXF2RDVuZWYwUzNLY0pqUUxpVUp5RVFPMEZPYWRhTFNXUGtBUjM3b08tZnR4cjh2eHdGS0tlUmZpYnpLVTNMb2pyNnNyZGtxbGs2VlJjeU0wYnVvWmJSMUk3OXd4TV85RGQwdVd5THpmSDZhWjlQVTVYSGYwNURVU0d1LVQ4OGxqY1FxMlA3NWFoODdaelVQamdkRWJDODE?oc=5",
-      "words": [
-        "200b",
-        "2026",
-        "ahead",
-        "focus",
-        "giants",
-        "global",
-        "goal",
-        "meets",
-        "modi",
-        "semicon",
-        "semiconductor"
-      ]
-    },
-    {
-      "at": "2026-09-16T13:02:54.248348+00:00",
-      "handle": "News: India fintech",
-      "headline": "Minister Jyotiraditya Scindia defends UPI MDR structure",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOVUhicVQ1T09FaVlsVlJHQzFKZlBLN0hpcjJjNUZ4cW5ON2d0ZkR0dWZ2ODluUlRHRV9fV1JNNWI5RDRfQ1NrT2NVWkNYWkNlNzJYV2diX1pYQnQwQUhVNndZeUItaU05TThpRVhtcjhoaFRROGhvdmlfV0V0Z21jenlzdDB4UW9UVUJQLVpTeUF6dWkxMFZLb2plRlljYndXRmR1Z1VpRl9BTHhtTk0tXzR2cjlVQV8zMlF5T2NfdkFTRm5qdXQxdnluWkg0ZFA0TFNHdkJNUWFhY3l5MTVjaUVkTWVhUnhtRTJONFUzYXBGY1d3ZlV4VjRsUzlGV1BZT2N6UWpCLTJDaGJqS3FWS1cyZHFQYkM5dnJN?oc=5",
-      "words": [
-        "charges",
-        "customers",
-        "framework",
-        "help",
-        "jyotiraditya",
-        "levied",
-        "make",
-        "mdr",
-        "scindia",
-        "self",
-        "sustaining",
-        "technology",
-        "transactions",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-16T13:16:17.973558+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Jitin Prasada inaugurates NIELIT-Infineon Centre of Excellence for semiconductors",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQMXNEU3hsX3V2bDBiTVRxS0M1SEdoRVhtSTZNRUpHZUd3Q2dXNVJuanQ2X0tCV0VuaFNTcXQ0RHBHZk4wcmJlMWJvZWRsanJacmp4eldBRWZsVjM3U1FacVBUenRaanRlcEt5bkRDcHlKLTE5dUpUcHR5RlYyS0xKdFhWbExjeXFBaTlIMHR0d3hOXzBXOFBMaVBKSmlNSEpUTUJaU3VwazNJc1NqVWgyckttRnFLS0dHN05JQl80YVNGZUMwUFIwMUY1YmhCdzRreFdVNWZLMS13ekxiMnp1VnJfNjg4cHFjOS1yTll0Q2g5RlU4RWRJQVBxekNobXNMdzBwV0FTdkFxZU5xNnF5TUF0d9IBkwJBVV95cUxQMXNEU3hsX3V2bDBiTVRxS0M1SEdoRVhtSTZNRUpHZUd3Q2dXNVJuanQ2X0tCV0VuaFNTcXQ0RHBHZk4wcmJlMWJvZWRsanJacmp4eldBRWZsVjM3U1FacVBUenRaanRlcEt5bkRDcHlKLTE5dUpUcHR5RlYyS0xKdFhWbExjeXFBaTlIMHR0d3hOXzBXOFBMaVBKSmlNSEpUTUJaU3VwazNJc1NqVWgyckttRnFLS0dHN05JQl80YVNGZUMwUFIwMUY1YmhCdzRreFdVNWZLMS13ekxiMnp1VnJfNjg4cHFjOS1yTll0Q2g5RlU4RWRJQVBxekNobXNMdzBwV0FTdkFxZU5xNnF5TUF0dw?oc=5",
-      "words": [
-        "centre",
-        "excellence",
-        "inaugurates",
-        "infineon",
-        "jitin",
-        "manufacturing",
-        "minister",
-        "nielit",
-        "prasada",
-        "semiconductor",
-        "state",
-        "union"
-      ]
-    },
-    {
-      "at": "2026-09-16T13:16:17.973558+00:00",
-      "handle": "News: India fintech",
-      "headline": "Finance Ministry rejects foreign influence claims regarding UPI MDR",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWV5U2RNNkVSSkRlSVYtQ2duclNvVzBoVmRjQkl1ZzV0Z0xLOXRDSnJfZDdBWUQ1YWNsNnRwZEo5WlcwWEE3d1lDaHZEaTdlRHdKdjZhejFfZ2lEWGFaRFlabTVvbVhtajVVQnRvbndTSEM4ZlpKdXhaQnFLNXJGWjQxQ1pJNlUxMVRrcER3X1F0S1hZa1Z3MzhLalA?oc=5",
-      "words": [
-        "change",
-        "claims",
-        "finance",
-        "foreign",
-        "influence",
-        "mdr",
-        "ministry",
-        "rejects",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-16T13:46:13.087516+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "India semiconductor sector projects \u20b96 lakh crore investment over 5-7 years",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTnA1V0ZDc0xCeXp4SFdWQjRSVXFSOUl6X2NmMC1vdElFY0dPYVViOEpxeDRUOUxsTVJzZ0RWNGplUV9LWHY4QVdPejlUcEQ2MlN4N3BoNDdOU19sNExtaVUyTkN2YmRmTmV6eDd5U0tNOFhaRDVSTFgwelhoVWRMVHYtbkdnYXd5WHNTbEhuQUpHLTJJcmJzUmhIUUF4UG0wZTNSY1E2MHdpWmt4NkF5dUNGSjhZRGRiazBBNldWWUdWeU9BRThZ0gHMAUFVX3lxTE5ackVzQWZuaExLZkw5bWZ4SWpGck9xWUZsOGh5dnMxdThIUnl0eDRKWXZaMm4zWGdRSl9oQWRZYjZwOWhQc2k4V3VGdG1neEFGYUhhSWI2U1lSZ3dVSmpvMTJPSjB4SlRPN3VJVldrNGswRnJiTTVRd1NMTl9NT291UDlicmo1d0JVZ1VUYW52QzMycDgza2tFUjFrNHE0SmJpUEtUUktDRFo4cW9kNWhaVTNxaTR5Y3plNjNCaUVjX3duV2k3N25PYlBiUg?oc=5",
-      "words": [
-        "could",
-        "investment",
-        "lakh",
-        "next",
-        "sector",
-        "see",
-        "semiconductor",
-        "years"
-      ]
-    },
-    {
-      "at": "2026-09-16T14:01:49.455476+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "VerifAIX raises $5 million seed funding for AI semiconductors",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVFpJYXpWUnUxTnE2eEhhMzlrdDl2LVAtVDd3S0pjU0Fja0tNeDFQNnlDOERyZ3NYcS1VSk44RlFLMmRVWmNQcnI0bHNxeHZoZGtnVXU4UkgtQ2hxNGpGOFlTa3RPSHF3Uzh0QVZnUnNMUFlfUWw4b0lEWmMyNkR0TkIxdElUVFR5SVJ1Z1hLUGJWcHNubC1Mcm9DTUZDcmU0NG9yM0FoTExfa1BnX0JrUUFUakM2RV9ZbXVCdkk3R1RUUE1teklOR1VmM1JEOXk5cExTTDJJMA?oc=5",
-      "words": [
-        "build",
-        "funding",
-        "million",
-        "native",
-        "platform",
-        "raises",
-        "seed",
-        "semiconductor",
-        "verifaix",
-        "verification"
-      ]
-    },
-    {
-      "at": "2026-09-16T14:01:49.455476+00:00",
-      "handle": "News: PIB releases",
-      "headline": "PM Modi chairs semiconductor roundtable with leading CEOs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGT19xZUpQSEdJYWpJM0NUeXRHOUdHaFNwajJrM2MtSlpxU21zODlGaXlXT1ZadDZSWkdrVWZwdko0ZmhVZzRBQ0VoMmNrcUVRSkZTcXo3QjJBQVBRRXNZQ0dSOVdzcUpPQ2tF?oc=5",
-      "words": [
-        "ceos",
-        "chairs",
-        "leading",
-        "roundtable",
-        "semiconductor"
-      ]
-    },
-    {
       "at": "2026-09-16T14:46:17.528065+00:00",
       "handle": "News: India semiconductors",
       "headline": "RIR installs SiC epitaxial wafer reactors in Bhubaneswar facility",
@@ -7328,6 +7140,186 @@
         "regulatory",
         "requirement"
       ]
+    },
+    {
+      "at": "2026-09-21T11:32:18.066544+00:00",
+      "handle": "News: Global AI",
+      "headline": "Trump-Xi dinner brings together Musk, Huang and tech leaders for AI power talks",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUhUZVJ4N3V6ck82Y1dTUTA5ckZWdkFoRG5VNFh1NUxabnBhQm40eVdPT2RTbGxrTjBBanJNOUhWSnEwdWxIVmZ2QXdtZzRfTVdWOHdWdW0xbWJRUkt3UWZCT3ZZanJJLTAwRUxfVWVSSS1GblYzTXVpaGpFRC1RazlYWFUtY0FLS3ZzUUhNcDF3el9qRmkyNzB3N0t1TnVrYk5WQlpGOFlJZ0RfLTRnMExsTzJ2YU90WVpydEtR?oc=5",
+      "words": [
+        "dinner",
+        "elon",
+        "huang",
+        "jensen",
+        "musk",
+        "one",
+        "power",
+        "puts",
+        "struggle",
+        "table",
+        "trump"
+      ]
+    },
+    {
+      "at": "2026-09-21T11:32:18.066544+00:00",
+      "handle": "News: India fintech",
+      "headline": "UPI MDR and 18% GST threaten thin-margin sectors",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY3l0OFVSYWoySmxNVWNIR2dZdVZOeVVOa0RWMjFlSjlENHhaX21acks2ZDNVaE5sNUtiV3F1dHphQUpmSldBZlg1NDVDaWhoTFB1akpyXzQ4WUNXN1lOa1FlODNnaXBRYzJWWGxPTkVDdUJYOFBRQ1Vua2hERngxMjVoY0xoeDQ1djNMSVhkR1JrYWR1NzlaeUNFN2l0SlJ3b2N0RTBkQmV3YUtkM25SQUVHcmRqT2J5WWJYN0hyb1V0bXdVUUVSaWlwQ2dpVkF2SEJJVjZQNkhQTk9SR0ZrMDIxQdIB6AFBVV95cUxOck83RXRwblpHWkZUclZubF9tUXZ2TmdvOEdSd0J6a2JXSGNPN3ZuRFpxc3NZZ2NFLWlhRHY0S0dvb2ZfaG9ScGE3cWhlOTd3a19kT2g0SXo3UmRfOGpHLVJHUGRZLU5lc0RRNlVXUG9xVTdneWprYjUzTDRDcVlxMmR6aFB2cGIzOXgtS3pHM3dJNncyYlhYUE1HY1BvZldieVZlN3hGSlgyLUNIMkZpN0d6UUt5MlROMGRRU2h3TGFTTXNLX2E2RE12TjQydEs3SjFvWVNEcGFwajFWRUFDNGxEd25ONzFT?oc=5",
+      "words": [
+        "add",
+        "businesses",
+        "cost",
+        "exempt",
+        "gst",
+        "hit",
+        "margin",
+        "mdr",
+        "sectors",
+        "thin",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-21T11:32:18.066544+00:00",
+      "handle": "News: India fintech",
+      "headline": "Paytm shares could benefit from UPI fee changes, says analyst",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXNWcG9TNU5LV09ULUFtVzluSXZNbkRxZThKd2JZaDVlcHhsRUhfVFdLVXNwSUNJb1Y4YzF4cFhLWS1MSG95cUU0X3hxMmFyektWQ0phNk8zNkotZW1NOGYtOHp2VllDYnJ2SWItcXc4bzJScG9JeklTb2puekpoSkpyd0xxQmU0d284REUtanhhN1hTOFlGUWpFalVMVk5PYVdOdjhiQW92dTZuNzhTQnJibWFGbnFZZmRJOFZhSXJrTzVYQzVkdjFsY0hxZG9a0gHWAUFVX3lxTE13UkFvdFlRZ0tUb2FyYzNBcWpJakhFWUs5QmJiUk9xMWlpX2JLRFFBTjlGMl9ZMGJJbjdkOTVZdDlSN0cyTmpuQ3pWbkRwa0ZCaU9IbVdXMmJyQjRFN2dETXF4NjB2Y0dDeXdvb2xNdWJfcEgzV180QU5TUjl1U3FKZjJKeElIVzduU0JiMm1FQjlQVDNGN2l1WkpsVGFER2xBUWJybXMyZ1Nic29STjFjWU9ScDRnWGdVdkdwTHF2Z3BuOWpVcWhSNHpPSUM2SDZWV1l3Z0E?oc=5",
+      "words": [
+        "aid",
+        "bathini",
+        "changes",
+        "could",
+        "fee",
+        "kranti",
+        "margin",
+        "paytm",
+        "recovery",
+        "revenue",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-21T11:32:18.066544+00:00",
+      "handle": "News: Global chips",
+      "headline": "Einride collaborates with NVIDIA for autonomous trucking platform",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVWhGRlNMb19KNDMtUUpfc1UxaEYxQWcxMWtqSURHUF9HbVFNelBYQlJQUmdKYUtQb3BoLTNiNXlITDhqVU0yeUJYdzBRT2tGLTE1V1BiT3ZVYjFkTXB5cVlSOFZKSldGV3p4RklpN2dnd0JRREVaWlA1bV9ZeXRHd3NUbl90WmFTSXdrZFdoNWtqamVvT1BfTEhlZndySWtxN25FTGdHWC1RZ1hORFE?oc=5",
+      "words": [
+        "advance",
+        "autonomous",
+        "collaboration",
+        "einride",
+        "enters",
+        "hyperion",
+        "nvidia",
+        "strategic",
+        "trucking"
+      ]
+    },
+    {
+      "at": "2026-09-21T11:32:18.066544+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "India shifting from digital to AI public infrastructure: Microsoft's Rajiv Kumar",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUFg1UF9VR25hYWN3LXZzRWc4Vi05OERkR2VUZkM4VUNCMlNMRFhZMk5icmpRYTA5T0l4dXJYNlZvUDNyTUJiQjNCODQ3djRXMTQzLXktU2dvR013eWdUOEUwVkc0QlIxZm1DV2hBMmo5enlwR0hQY21jZmRrSlVHaURrTXpoNmdra3BoeV94dmgzOEJNVmk2a1pzVkFtYkI4OVRuMjg5WTAyWUhLMmhUZWFQbEJaVGJXV3gwT19TZmtueVczTzhvR0hWX0pvQzN3MlVuandNMjZCT2VPQW9MZg?oc=5",
+      "words": [
+        "digital",
+        "infrastructure",
+        "kumar",
+        "microsoft",
+        "moving",
+        "next",
+        "public",
+        "rajiv",
+        "years"
+      ]
+    },
+    {
+      "at": "2026-09-21T11:32:18.066544+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "EY-IESA report suggests shifting India semiconductor focus to domestic ecosystem",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjBPVGhsaVczQTc1eVVfT2N1eWpIblM1STA1NjdGQ1pOTXpKS1Q2MXkxZ0ZzNmVYVkFGRGdqSW5pc0JCVkN1bUNtYVkxVGcxLWplLTNVQkd0M3Zvc21qY1RKQkNieUlyWEFZZC1RM05WQnduWEQ5RkFWenMyRjFveEtoTTdFN1lvWDZMLTIyWWh4c2REaHlsMWoyTDQ3Mnphb2FvdFE2QlVUVDJlbF9iV3R5LUw3Qy13d09IMlNiUHBzcTNicm5idVpiRkV4VHli?oc=5",
+      "words": [
+        "capacity",
+        "domestic",
+        "ecosystem",
+        "focus",
+        "iesa",
+        "semiconductor",
+        "shift",
+        "should"
+      ]
+    },
+    {
+      "at": "2026-09-21T11:32:18.066544+00:00",
+      "handle": "News: India edtech gaming",
+      "headline": "Nazara Technologies extends Rs 28 crore loan to subsidiary Smaaash",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzY5Ynd0cXdEVjNKX0RRbVFfYjRjRDl3dWMzLVhyalJDMXkzRjdVYU5lem5COTZYSGJnRzMxaVFpQWZtTVY3MlowNk43UlBxdnNRZTJlMVdHczhDYTFjS1RpLTJQUll1SGw5SmxBdG40d05QcW5VSmd6SWMtLUc1VnpkSG5ZRm9KVzlhR0NWZ1JyUHl3dzlkbHNtUk9ZeG5JQmtsajZjN1ZkUnd6MHI4?oc=5",
+      "words": [
+        "lends",
+        "nazara",
+        "smaaash",
+        "subsidiary",
+        "technologies"
+      ]
+    },
+    {
+      "at": "2026-09-21T11:32:18.066544+00:00",
+      "handle": "News: India fintech",
+      "headline": "Punjab and Haryana petrol pumps seek UPI MDR exemption",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcnRDQzl1eWVkRl94RGpBaHFudlVlX1hwcWREcE1mSDNTNUs4VFhFUEVYRHVJUFU4WmVMaGo2dFBnM3VILWZFSHFWN2hyWkg3NlVoem1icFl5bmpyaFp4VUlVX0tmM0RIOFpfX181dTRNNkNLYVp0ZldyWkFqcHlKRVV4RzE4Y2VGMWNvQXZibjdMYlRTZmFpY1k2VGtKeVIxOW1iZ3JBYWxSVUtaSUhYalRZal9iYnlFN3ZJSW9nU2F3LXpxLS00Wk9vNGNSb2xxYTY0eDN3VVd0YV9GdjhteF9YWdIB8AFBVV95cUxPOFQ4OEZTemxQdWI5RW5wRW5fcTZrYTd2ajk2bE1GMDZ4bHE1VFVtaTA5U1hVbGd2UVA1VkFtSTQ0ckExNkZlRDF0MkN5VEhxRTBXbTNuaUZNLXAwVnJBQ3FITnNxcmJOdnF0TGxDbDNFelV5VHl1S3pWcnJCbzF4Zm8yUTNja08wOEdzZ1AyalFSNDJnY0x6MzZJODRXMzBhbm5GT095OHZMQ3BhdXZ2ajhLQTlsdmtldEQ0a1YyeFpyUG5KVlFZbFpfRk15RFJkMFVEWnNOaVdJa2JCa3hwVlNrZm80dnp1amVNRVNyY2Q?oc=5",
+      "words": [
+        "across",
+        "discount",
+        "exemption",
+        "haryana",
+        "mdr",
+        "merchant",
+        "petrol",
+        "pumps",
+        "punjab",
+        "rate",
+        "rule",
+        "seek",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-21T11:32:18.066544+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Shilpa Jain resigns as Nykaa AVP of Consumer Insights",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbWVSclQyYlR4ZFpkR3A4YmJXTmQwdW5rSVBGR0FoLU5uTERQRG05YW1LdDNkWkRmVXBzYVB5MFkxRTRNVlEtbi1PSl82VjljRXhoYkZ6aFNMbVFBbFAyNXRGSm1zNXhSb1JkZVFnbk1mV2U3bGVtUTY0VExSbjdfeWhnX05RRnBpNF9odVU2b2UzVjBMZnAzUUNZVjhwSW5sX3VuUjN0Qm9DTEVYek5fMV9ST19HQUFZWnpJQ2ZFUnBILWpX0gHEAUFVX3lxTE9tZVJyVDJiVHhkWmRHcDhiYldOZDB1bmtJUEZHQWgtTm5MRFBEbTlhbUt0M2RaRGZVcHNhUHkwWTFFNE1WUS1uLU9KXzZWOWNFeGhiRnpoU0xtUUFsUDI1dEZKbXM1eFJvUmRlUWduTWZXZTdsZW1RNjRUTFJuN195aGdfTlFGcGk0X2h1VTZvZTNWMExmcDNRQ1lWOHBJbmxfdW5SM3RCb0NMRVh6Tl8xX1JPX0dBQVlaeklDZkVScEgtalc?oc=5",
+      "words": [
+        "avp",
+        "consumer",
+        "insights",
+        "jain",
+        "market",
+        "nykaa",
+        "shilpa",
+        "steps"
+      ]
+    },
+    {
+      "at": "2026-09-21T11:32:18.066544+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Infineon brings OktoberTech innovation platform to India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmVEUHVOS3RiaF9DUDdqTkRvWmxld0twVXRIeWlWcHdTVFJfN05FR19ZY01nUjFDenZscUxMc2owdEdPWWdfREVqVE5uRzlsUUtGMFJ5Uk9EZUc4SWRTSnRNNjBYZjlfSzRORXNfQzZ2RmxPckpSVUdyVGllcVJPOG53YVU1bTROZTJZT3cwZW9fd0tlN0tqUEJ3Qkd1NGxFV2d6SHBGTzV3aEt1cExnS0p2cjB4eGI1NmpPYl9lVXY4eFc3djV2SmJCSW9pLTlMazkzMnFZUEg1N3lwdWN1ZmdwakNELVU?oc=5",
+      "words": [
+        "brings",
+        "infineon",
+        "innovation",
+        "oktobertech",
+        "platform"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -12713,10 +12705,40 @@
     "1789988756829",
     "1789988817332",
     "1789988829978",
-    "1789988856492"
+    "1789988856492",
+    "1789904160922",
+    "1789907940366",
+    "1789907940435",
+    "1789907940595",
+    "1789907940971",
+    "1789921680434",
+    "1789921680654",
+    "1789921680773",
+    "1789928441224",
+    "1789932180289",
+    "1789934756557",
+    "1789961477364",
+    "1789972224039",
+    "1789974748878",
+    "1789974872292",
+    "1789980122744",
+    "1789980694828",
+    "1789982186111",
+    "1789983224954",
+    "1789984065702",
+    "1789984080596",
+    "1789984923202",
+    "1789985433224",
+    "1789985874306",
+    "1789987620353",
+    "1789987620583",
+    "1789988640439",
+    "1789989559667",
+    "1789989750029",
+    "1789989982317"
   ],
-  "last_digest_hour": "2026-09-21T16",
-  "last_success": "2026-09-21T11:17:04.748316+00:00",
+  "last_digest_hour": "2026-09-21T17",
+  "last_success": "2026-09-21T11:32:18.068681+00:00",
   "national": {
     "alerted": [
       {
@@ -13842,6 +13864,75 @@
           "set",
           "wait"
         ]
+      },
+      {
+        "at": "2026-09-21T11:36:26.130666+00:00",
+        "handle": "PIB Ministry of Agriculture & Farmers Welfare",
+        "headline": "Agriculture minister suspends official following a bribery complaint",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313045",
+        "words": [
+          "action",
+          "agriculture",
+          "bribery",
+          "chouhan",
+          "complaint",
+          "farmers",
+          "ministry",
+          "officer",
+          "shivraj",
+          "shri",
+          "singh",
+          "strong",
+          "suspends",
+          "takes"
+        ]
+      },
+      {
+        "at": "2026-09-21T11:36:26.130666+00:00",
+        "handle": "PIB Ministry of Commerce & Industry",
+        "headline": "Government releases core industries production data for August 2026",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313043",
+        "words": [
+          "2022",
+          "2026",
+          "august",
+          "base",
+          "commerce",
+          "core",
+          "estimates",
+          "final",
+          "index",
+          "industries",
+          "industry",
+          "july",
+          "ministry",
+          "month"
+        ]
+      },
+      {
+        "at": "2026-09-21T11:36:26.130666+00:00",
+        "handle": "IMD",
+        "headline": "IMD issues severe weather alert for depression and heavy rain over eastern states",
+        "tier": 1,
+        "url": "https://internal.imd.gov.in/press_release/20260921_pr_5330.pdf",
+        "words": [
+          "2026",
+          "21st",
+          "area",
+          "article",
+          "become",
+          "date",
+          "deep",
+          "depression",
+          "during",
+          "gov",
+          "hours",
+          "imd",
+          "likely",
+          "low"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -14055,7 +14146,7 @@
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356"
     ],
-    "last_run": "2026-09-21T11:17:55.606144+00:00",
+    "last_run": "2026-09-21T11:36:26.217794+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15022,24 +15113,25 @@
       "pib:2313032",
       "pib:2313026",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63634",
-      "pib:2313018"
+      "pib:2313018",
+      "pib:2313046",
+      "pib:2313043",
+      "pib:2313045",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63635",
+      "page:https://internal.imd.gov.in/press_release/20260921_pr_5330.pdf"
     ],
     "source_failures": {
       "CBI": {
-        "count": 18,
-        "until": "2026-09-21T11:18:44.198455+00:00"
-      },
-      "IMD": {
-        "count": 3,
-        "until": "2026-09-21T11:18:44.198455+00:00"
+        "count": 19,
+        "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "State: Maharashtra": {
-        "count": 18,
-        "until": "2026-09-21T11:18:44.198455+00:00"
+        "count": 19,
+        "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "State: Tamil Nadu": {
-        "count": 18,
-        "until": "2026-09-21T11:18:44.198455+00:00"
+        "count": 19,
+        "until": "2026-09-21T17:32:43.475440+00:00"
       }
     },
     "sources": [
@@ -15060,170 +15152,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Trump-Xi dinner brings together Musk, Huang and tech leaders for AI power talks",
-      "post": {
-        "created_at": "2026-09-21T10:36:46+00:00",
-        "handle": "News: Global AI",
-        "id": "1789987006862",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Invezz",
-        "reposts": 0,
-        "text": "From Elon Musk to Jensen Huang: Trump-Xi dinner puts AI power struggle at one table",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUhUZVJ4N3V6ck82Y1dTUTA5ckZWdkFoRG5VNFh1NUxabnBhQm40eVdPT2RTbGxrTjBBanJNOUhWSnEwdWxIVmZ2QXdtZzRfTVdWOHdWdW0xbWJRUkt3UWZCT3ZZanJJLTAwRUxfVWVSSS1GblYzTXVpaGpFRC1RazlYWFUtY0FLS3ZzUUhNcDF3el9qRmkyNzB3N0t1TnVrYk5WQlpGOFlJZ0RfLTRnMExsTzJ2YU90WVpydEtR?oc=5"
-      },
-      "queued_at": "2026-09-21T10:47:26.386426+00:00",
-      "score": 8.0,
-      "why": ""
-    },
-    {
-      "headline": "UPI MDR and 18% GST threaten thin-margin sectors",
-      "post": {
-        "created_at": "2026-09-21T08:11:00+00:00",
-        "handle": "News: India fintech",
-        "id": "1789978260135",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Cfo",
-        "reposts": 0,
-        "text": "UPI MDR: 18% GST to add cost for exempt businesses, hit thin-margin sectors",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY3l0OFVSYWoySmxNVWNIR2dZdVZOeVVOa0RWMjFlSjlENHhaX21acks2ZDNVaE5sNUtiV3F1dHphQUpmSldBZlg1NDVDaWhoTFB1akpyXzQ4WUNXN1lOa1FlODNnaXBRYzJWWGxPTkVDdUJYOFBRQ1Vua2hERngxMjVoY0xoeDQ1djNMSVhkR1JrYWR1NzlaeUNFN2l0SlJ3b2N0RTBkQmV3YUtkM25SQUVHcmRqT2J5WWJYN0hyb1V0bXdVUUVSaWlwQ2dpVkF2SEJJVjZQNkhQTk9SR0ZrMDIxQdIB6AFBVV95cUxOck83RXRwblpHWkZUclZubF9tUXZ2TmdvOEdSd0J6a2JXSGNPN3ZuRFpxc3NZZ2NFLWlhRHY0S0dvb2ZfaG9ScGE3cWhlOTd3a19kT2g0SXo3UmRfOGpHLVJHUGRZLU5lc0RRNlVXUG9xVTdneWprYjUzTDRDcVlxMmR6aFB2cGIzOXgtS3pHM3dJNncyYlhYUE1HY1BvZldieVZlN3hGSlgyLUNIMkZpN0d6UUt5MlROMGRRU2h3TGFTTXNLX2E2RE12TjQydEs3SjFvWVNEcGFwajFWRUFDNGxEd25ONzFT?oc=5"
-      },
-      "queued_at": "2026-09-21T10:47:26.386426+00:00",
-      "score": 7.0,
-      "why": ""
-    },
-    {
-      "headline": "Paytm shares could benefit from UPI fee changes, says analyst",
-      "post": {
-        "created_at": "2026-09-21T10:21:10+00:00",
-        "handle": "News: India fintech",
-        "id": "1789986070576",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Today",
-        "reposts": 0,
-        "text": "Paytm shares: UPI fee changes could aid revenue, margin recovery; what Kranti Bathini says",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXNWcG9TNU5LV09ULUFtVzluSXZNbkRxZThKd2JZaDVlcHhsRUhfVFdLVXNwSUNJb1Y4YzF4cFhLWS1MSG95cUU0X3hxMmFyektWQ0phNk8zNkotZW1NOGYtOHp2VllDYnJ2SWItcXc4bzJScG9JeklTb2puekpoSkpyd0xxQmU0d284REUtanhhN1hTOFlGUWpFalVMVk5PYVdOdjhiQW92dTZuNzhTQnJibWFGbnFZZmRJOFZhSXJrTzVYQzVkdjFsY0hxZG9a0gHWAUFVX3lxTE13UkFvdFlRZ0tUb2FyYzNBcWpJakhFWUs5QmJiUk9xMWlpX2JLRFFBTjlGMl9ZMGJJbjdkOTVZdDlSN0cyTmpuQ3pWbkRwa0ZCaU9IbVdXMmJyQjRFN2dETXF4NjB2Y0dDeXdvb2xNdWJfcEgzV180QU5TUjl1U3FKZjJKeElIVzduU0JiMm1FQjlQVDNGN2l1WkpsVGFER2xBUWJybXMyZ1Nic29STjFjWU9ScDRnWGdVdkdwTHF2Z3BuOWpVcWhSNHpPSUM2SDZWV1l3Z0E?oc=5"
-      },
-      "queued_at": "2026-09-21T10:47:26.386426+00:00",
-      "score": 7.0,
-      "why": ""
-    },
-    {
-      "headline": "Einride collaborates with NVIDIA for autonomous trucking platform",
-      "post": {
-        "created_at": "2026-09-21T10:30:00+00:00",
-        "handle": "News: Global chips",
-        "id": "1789986600144",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Yahoo Finance",
-        "reposts": 0,
-        "text": "Einride Enters Strategic Collaboration with NVIDIA to Advance its Autonomous Trucking on NVIDIA Hyperion",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVWhGRlNMb19KNDMtUUpfc1UxaEYxQWcxMWtqSURHUF9HbVFNelBYQlJQUmdKYUtQb3BoLTNiNXlITDhqVU0yeUJYdzBRT2tGLTE1V1BiT3ZVYjFkTXB5cVlSOFZKSldGV3p4RklpN2dnd0JRREVaWlA1bV9ZeXRHd3NUbl90WmFTSXdrZFdoNWtqamVvT1BfTEhlZndySWtxN25FTGdHWC1RZ1hORFE?oc=5"
-      },
-      "queued_at": "2026-09-21T10:47:26.386426+00:00",
-      "score": 7.0,
-      "why": ""
-    },
-    {
-      "headline": "India shifting from digital to AI public infrastructure: Microsoft's Rajiv Kumar",
-      "post": {
-        "created_at": "2026-09-21T10:30:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1789986600308",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ANI News",
-        "reposts": 0,
-        "text": "India moving from digital to AI public infrastructure in next 5 years: Microsoft\u2019s Rajiv Kumar",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUFg1UF9VR25hYWN3LXZzRWc4Vi05OERkR2VUZkM4VUNCMlNMRFhZMk5icmpRYTA5T0l4dXJYNlZvUDNyTUJiQjNCODQ3djRXMTQzLXktU2dvR013eWdUOEUwVkc0QlIxZm1DV2hBMmo5enlwR0hQY21jZmRrSlVHaURrTXpoNmdra3BoeV94dmgzOEJNVmk2a1pzVkFtYkI4OVRuMjg5WTAyWUhLMmhUZWFQbEJaVGJXV3gwT19TZmtueVczTzhvR0hWX0pvQzN3MlVuandNMjZCT2VPQW9MZg?oc=5"
-      },
-      "queued_at": "2026-09-21T10:47:26.386426+00:00",
-      "score": 7.0,
-      "why": ""
-    },
-    {
-      "headline": "EY-IESA report suggests shifting India semiconductor focus to domestic ecosystem",
-      "post": {
-        "created_at": "2026-09-21T10:32:12+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1789986732256",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "KNN India",
-        "reposts": 0,
-        "text": "India Should Shift Semiconductor Focus From Capacity To Domestic Ecosystem, Says EY-IESA",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjBPVGhsaVczQTc1eVVfT2N1eWpIblM1STA1NjdGQ1pOTXpKS1Q2MXkxZ0ZzNmVYVkFGRGdqSW5pc0JCVkN1bUNtYVkxVGcxLWplLTNVQkd0M3Zvc21qY1RKQkNieUlyWEFZZC1RM05WQnduWEQ5RkFWenMyRjFveEtoTTdFN1lvWDZMLTIyWWh4c2REaHlsMWoyTDQ3Mnphb2FvdFE2QlVUVDJlbF9iV3R5LUw3Qy13d09IMlNiUHBzcTNicm5idVpiRkV4VHli?oc=5"
-      },
-      "queued_at": "2026-09-21T10:47:26.386426+00:00",
-      "score": 7.0,
-      "why": ""
-    },
-    {
-      "headline": "Nazara Technologies extends Rs 28 crore loan to subsidiary Smaaash",
-      "post": {
-        "created_at": "2026-09-21T10:36:28+00:00",
-        "handle": "News: India edtech gaming",
-        "id": "1789986988797",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Scanx",
-        "reposts": 0,
-        "text": "Nazara Technologies lends \u20b928 crore to subsidiary Smaaash",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzY5Ynd0cXdEVjNKX0RRbVFfYjRjRDl3dWMzLVhyalJDMXkzRjdVYU5lem5COTZYSGJnRzMxaVFpQWZtTVY3MlowNk43UlBxdnNRZTJlMVdHczhDYTFjS1RpLTJQUll1SGw5SmxBdG40d05QcW5VSmd6SWMtLUc1VnpkSG5ZRm9KVzlhR0NWZ1JyUHl3dzlkbHNtUk9ZeG5JQmtsajZjN1ZkUnd6MHI4?oc=5"
-      },
-      "queued_at": "2026-09-21T10:47:26.386426+00:00",
-      "score": 7.0,
-      "why": ""
-    },
-    {
-      "headline": "Punjab and Haryana petrol pumps seek UPI MDR exemption",
-      "post": {
-        "created_at": "2026-09-21T10:58:05+00:00",
-        "handle": "News: India fintech",
-        "id": "1789988285897",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The New Indian Express",
-        "reposts": 0,
-        "text": "Petrol pumps across Punjab, Haryana seek exemption from the new Merchant Discount Rate (MDR) UPI rule",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcnRDQzl1eWVkRl94RGpBaHFudlVlX1hwcWREcE1mSDNTNUs4VFhFUEVYRHVJUFU4WmVMaGo2dFBnM3VILWZFSHFWN2hyWkg3NlVoem1icFl5bmpyaFp4VUlVX0tmM0RIOFpfX181dTRNNkNLYVp0ZldyWkFqcHlKRVV4RzE4Y2VGMWNvQXZibjdMYlRTZmFpY1k2VGtKeVIxOW1iZ3JBYWxSVUtaSUhYalRZal9iYnlFN3ZJSW9nU2F3LXpxLS00Wk9vNGNSb2xxYTY0eDN3VVd0YV9GdjhteF9YWdIB8AFBVV95cUxPOFQ4OEZTemxQdWI5RW5wRW5fcTZrYTd2ajk2bE1GMDZ4bHE1VFVtaTA5U1hVbGd2UVA1VkFtSTQ0ckExNkZlRDF0MkN5VEhxRTBXbTNuaUZNLXAwVnJBQ3FITnNxcmJOdnF0TGxDbDNFelV5VHl1S3pWcnJCbzF4Zm8yUTNja08wOEdzZ1AyalFSNDJnY0x6MzZJODRXMzBhbm5GT095OHZMQ3BhdXZ2ajhLQTlsdmtldEQ0a1YyeFpyUG5KVlFZbFpfRk15RFJkMFVEWnNOaVdJa2JCa3hwVlNrZm80dnp1amVNRVNyY2Q?oc=5"
-      },
-      "queued_at": "2026-09-21T11:17:04.747392+00:00",
-      "score": 7.0,
-      "why": "Fresh regional escalation in the ongoing UPI MDR fee protests."
-    },
-    {
-      "headline": "Shilpa Jain resigns as Nykaa AVP of Consumer Insights",
-      "post": {
-        "created_at": "2026-09-21T11:07:09+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1789988829978",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bestmediainfo",
-        "reposts": 0,
-        "text": "Shilpa Jain steps down as Nykaa\u2019s AVP, Consumer & Market Insights",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbWVSclQyYlR4ZFpkR3A4YmJXTmQwdW5rSVBGR0FoLU5uTERQRG05YW1LdDNkWkRmVXBzYVB5MFkxRTRNVlEtbi1PSl82VjljRXhoYkZ6aFNMbVFBbFAyNXRGSm1zNXhSb1JkZVFnbk1mV2U3bGVtUTY0VExSbjdfeWhnX05RRnBpNF9odVU2b2UzVjBMZnAzUUNZVjhwSW5sX3VuUjN0Qm9DTEVYek5fMV9ST19HQUFZWnpJQ2ZFUnBILWpX0gHEAUFVX3lxTE9tZVJyVDJiVHhkWmRHcDhiYldOZDB1bmtJUEZHQWgtTm5MRFBEbTlhbUt0M2RaRGZVcHNhUHkwWTFFNE1WUS1uLU9KXzZWOWNFeGhiRnpoU0xtUUFsUDI1dEZKbXM1eFJvUmRlUWduTWZXZTdsZW1RNjRUTFJuN195aGdfTlFGcGk0X2h1VTZvZTNWMExmcDNRQ1lWOHBJbmxfdW5SM3RCb0NMRVh6Tl8xX1JPX0dBQVlaeklDZkVScEgtalc?oc=5"
-      },
-      "queued_at": "2026-09-21T11:17:04.747392+00:00",
-      "score": 7.0,
-      "why": "Leadership exit at a major Indian consumer internet and tech firm."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -16205,20 +16134,20 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789986600308,
+    "news: big tech platforms": 1789987620583,
     "news: consumer internet india": 1789988829978,
     "news: global ai": 1789988856492,
     "news: global chips": 1789986600144,
     "news: global it services": 1789987257271,
-    "news: india ai deeptech": 1789988756829,
+    "news: india ai deeptech": 1789989559667,
     "news: india edtech gaming": 1789986988797,
     "news: india fintech": 1789988817332,
-    "news: india semiconductors": 1789987153980,
-    "news: india tech policy": 1789988619623,
+    "news: india semiconductors": 1789989750029,
+    "news: india tech policy": 1789989982317,
     "news: india telecom": 1789988353310,
     "news: indian it majors": 1789986720731,
     "news: indian it midcaps": 1789988484465,
-    "news: pib releases": 1789987620319,
+    "news: pib releases": 1789988640439,
     "news: tech leaders": 1789986653795,
     "nvidia": 1789984835946,
     "nvidia blog": 1789984835946,
@@ -16253,7 +16182,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T11:17:04.985865+00:00",
+    "last_server_run": "2026-09-21T11:32:18.411984+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T09:48:34.729901+00:00",
