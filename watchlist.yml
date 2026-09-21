@@ -61,6 +61,23 @@ newsworthy: |
     These are wire stories in their own right; score them 7 or higher.
   - Statements by a founder, CEO or minister that are themselves the story,
     especially on industry direction, policy, competition or controversy
+  - REGULATOR DOCUMENTS (CCI, CERT-In, DGFT) -- the order or notice itself,
+    usually before anyone has reported it:
+    CCI: any antitrust order involving a tech, telecom, internet, e-commerce,
+    fintech, gaming, electronics or chip company (Google, Apple, Meta,
+    Amazon, Flipkart, Swiggy, Zomato, Intel, HP and the like) -- an
+    investigation ordered, a penalty, an interim order, a settlement; and
+    merger approvals where either side is in those sectors. Score 7+.
+    Ignore CCI orders and mergers in unrelated industries (cement, coal,
+    fertilisers, liquor, trucking) and complaints closed against small firms.
+    CERT-In: advisories about attacks on India, critical infrastructure,
+    government systems, banks or payments, or a flaw being actively
+    exploited, score 7+. Routine "multiple vulnerabilities in <vendor>
+    products" patch roundups score 4 at most.
+    DGFT: import or export curbs, bans, licensing or duty changes touching
+    electronics, laptops, phones, chips, telecom gear, solar or IT hardware
+    score 7+. Farm goods, textiles, procedural timelines and form changes
+    score 4 at most.
 
   IGNORE:
   - Opinions, hot takes, threads of advice, motivational posts
@@ -358,6 +375,15 @@ sources:
     - {name: Communications, ministry: 24}
     - {name: Science and Technology, ministry: 13}
 
+  # 5. Regulators' own documents, judged by the AI like everything else.
+  #    cci     Competition Commission -- antitrust orders, merger
+  #            decisions, press releases
+  #    certin  CERT-In security advisories
+  #    dgft    DGFT notifications, public notices and trade notices
+  #    The Tweets desk reads the same three and judges them by its own
+  #    rubric (see "national:" below).
+  regulators: [cci, certin, dgft]
+
   # 4. Google News - everything with no feed of its own, including
   #    unlisted startups, foreign private companies, and what people SAID.
   google_news:
@@ -621,6 +647,20 @@ national:
     recruitment rules for a single post, one product's customs or excise
     amendment, standards (BIS) notices.
 
+    REGULATOR DOCUMENTS (CCI, CERT-In, DGFT) -- SEND only the big ones:
+    - a CCI penalty, investigation or interim order against a household
+      name (Google, Apple, Amazon, Meta, Flipkart, Zomato, Swiggy, a large
+      Indian conglomerate, a major bank), or approval of a very large or
+      well-known merger
+    - a CERT-In warning of an active attack on India, on government
+      systems, banks, payments or critical infrastructure, or one telling
+      the public to act (update a phone or browser now)
+    - a DGFT ban, curb or duty on exports or imports that ordinary people
+      notice -- wheat, rice, onions, sugar, gold, phones, laptops
+    Everything else from these three -- routine merger approvals, orders
+    against small firms, vendor patch roundups, procedural trade notices --
+    scores 4 at most.
+
     LEAVE OUT:
     - Auctions, tenders, recovery orders and routine compliance notices
     - Meetings held, visits, events attended, speeches with no decision
@@ -639,6 +679,9 @@ national:
 
   pib: true         # every ministry, from pib.gov.in
   gazette: true     # every extraordinary gazette, from egazette.gov.in
+  # CCI, CERT-In and DGFT -- the same documents the Tech Desk reads,
+  # judged here by this desk's own rubric.
+  regulators: [cci, certin, dgft]
 
   # --- Earthquakes -------------------------------------------------
   # Read from the National Centre for Seismology (riseq.seismo.gov.in) for
@@ -663,7 +706,6 @@ national:
     # Added 2026-09-17; none advertise their feed, each checked live.
     - {name: NITI Aayog, url: "https://www.niti.gov.in/rss.xml"}
     - {name: President of India, url: "https://www.presidentofindia.gov.in/rss.xml"}
-    - {name: "State: Maharashtra", url: "https://mahasamvad.in/feed/"}          # Marathi
     - {name: "State: Telangana", url: "https://www.telangana.gov.in/feed/"}
 
   # Official sites with no feed. The page is read and any release not there
@@ -674,7 +716,6 @@ national:
   # All checked against the live sites on 2026-09-17.
   pages:
     - {name: PMO, url: "https://www.pmindia.gov.in/en/news-updates/", match: "^/en/news_updates/[^/]+"}
-    - {name: CBI, url: "https://cbi.gov.in/press-releases", match: "^/press-detail/"}
     - {name: IMD, url: "https://internal.imd.gov.in/pages/press_release_mausam.php", match: "^/press_release/.+\\.pdf$", exclude: "[\\u0900-\\u097F]"}   # English copies only
     - {name: IRDAI, url: "https://irdai.gov.in/press-releases", match: "^/documents/37343/366347/"}
     - {name: MHA, url: "https://www.mha.gov.in/en/media/whats-new", match: "^/sites/default/files/.+\\.pdf$"}
@@ -682,4 +723,3 @@ national:
     # UP types its cabinet decisions in the old Kruti Dev Hindi font; the PDF
     # text is converted back to real Hindi before the AI reads it.
     - {name: "State: Uttar Pradesh", url: "https://information.up.gov.in/hi_cabinet-decision-new.aspx", match: "\\.pdf$"}   # cabinet decisions, Hindi
-    - {name: "State: Tamil Nadu", url: "https://www.tn.gov.in/press_release.php", match: "/press_release/.+\\.pdf$"}
