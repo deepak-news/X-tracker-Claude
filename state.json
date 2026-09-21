@@ -11828,10 +11828,19 @@
     "1789952283890",
     "1789953641777",
     "1789954200047",
-    "1789954236988"
+    "1789954236988",
+    "1789945502677",
+    "1789947973087",
+    "1789950120085",
+    "1789950581399",
+    "1789954607764",
+    "1789955267605",
+    "1789955442684",
+    "1789955520145",
+    "1789956075637"
   ],
   "last_digest_hour": "2026-09-21T07",
-  "last_success": "2026-09-21T01:46:50.069020+00:00",
+  "last_success": "2026-09-21T02:02:14.183408+00:00",
   "national": {
     "alerted": [
       {
@@ -12828,6 +12837,26 @@
           "usgs",
           "wsw"
         ]
+      },
+      {
+        "at": "2026-09-21T02:03:24.443946+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.5 earthquake -- 35 km NNE of Ruteng, Indonesia.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
+        "words": [
+          "2026",
+          "deep",
+          "earthquake",
+          "indonesia",
+          "ist",
+          "magnitude",
+          "nne",
+          "reported",
+          "ruteng",
+          "sep",
+          "usgs"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -13016,7 +13045,7 @@
       "CG-OR-E-19092026-276313",
       "CG-RJ-E-19092026-276315"
     ],
-    "last_run": "2026-09-21T01:47:49.570649+00:00",
+    "last_run": "2026-09-21T02:03:24.444471+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -13922,7 +13951,8 @@
       "quake:usgs:us7000tit5",
       "quake:usgs:us7000tirq",
       "quake:usgs:us7000tit6",
-      "quake:usgs:us7000tiu3"
+      "quake:usgs:us7000tiu3",
+      "quake:usgs:us7000tiur"
     ],
     "source_failures": {
       "CBI": {
@@ -13956,7 +13986,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "PM Modi inaugurates Micron's Sanand semiconductor plant",
+      "post": {
+        "created_at": "2026-09-20T23:46:13+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789947973087",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "News On AIR",
+        "reposts": 0,
+        "text": "PM Modi inaugurates Micron Technology\u2019s Semiconductor plant at Sanand in Gujarat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWVjSlFkVko4c2Ytd0V1cXZtN0kzbWxXNktTYTZEV2RTTUpNWmtiMXVNT3lwUVcyWGZaaUk5M001SjdMOU1aV185VWl6TVQtOWdsaWdXNngxcmg1TkppV2JIQ3lDOHJBWHJYZ3J4MWZWTTR2OWo1aHZ3ZEd2dVR4c2pYSkgwbVZJNUd3ejB4bkpHYzktYVNBT0Z0NldfZmxFUkQ1dmpUOTBUb083V2h3Q0NKeFhnT2RlZUpLREdzQQ?oc=5"
+      },
+      "queued_at": "2026-09-21T02:02:14.181953+00:00",
+      "score": 8.0,
+      "why": "Major new fab and manufacturing milestone in India's semiconductor push."
+    },
+    {
+      "headline": "Telix acquires Germany's ITM in $3.3 billion deal",
+      "post": {
+        "created_at": "2026-09-21T00:22:00+00:00",
+        "handle": "News: Global IT services",
+        "id": "1789950120085",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "AFR",
+        "reposts": 0,
+        "text": "Telix expands global footprint in $3.3b takeover of Germany\u2019s ITM",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGZERlRfQ25TQm1XXzdmMWwxMU9Gckl6NTlmdXk0MlAxVkVxTUx2UkdibC1id2NvYVAteG5zVmdCNkhsUEVieEhGZnZGMTF5dGdYaDdZU0VSSWRzRDE4eDI2Y0pvMlFfa1l1T2ZzZDZwck5HSHBaNDJwV2lDYlBhY2lnNGhCT2I5LXZaeXNndHE3R0YyZ21yV1JLMUJ0M1JqRU9WUHM2Sl9tLW9hbGtlM2dSaUhuNUppNUlEdndsSVNXRmhIUUJWUg?oc=5"
+      },
+      "queued_at": "2026-09-21T02:02:14.181953+00:00",
+      "score": 7.0,
+      "why": "Major cross-border acquisition deal in the tech-adjacent healthcare space."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -14940,8 +15007,8 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1789954236988,
     "news: consumer internet india": 1789951803085,
-    "news: global ai": 1789953641777,
-    "news: global chips": 1789952100621,
+    "news: global ai": 1789955267605,
+    "news: global chips": 1789955520145,
     "news: global it services": 1789950900816,
     "news: india ai deeptech": 1789931687709,
     "news: india edtech gaming": 1789812105151,
@@ -14949,10 +15016,10 @@
     "news: india semiconductors": 1789952400118,
     "news: india tech policy": 1789946389399,
     "news: india telecom": 1789953240728,
-    "news: indian it majors": 1789953240579,
+    "news: indian it majors": 1789954607764,
     "news: indian it midcaps": 1789932497325,
     "news: pib releases": 1789948434595,
-    "news: tech leaders": 1789950915249,
+    "news: tech leaders": 1789956075637,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -14985,7 +15052,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T01:46:50.404824+00:00",
+    "last_server_run": "2026-09-21T02:02:14.487333+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T01:04:01.438777+00:00",
