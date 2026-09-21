@@ -13235,10 +13235,22 @@
     "1790005889366",
     "1790006011959",
     "1790006277413",
-    "1790006400317"
+    "1790006400317",
+    "1789982620833",
+    "1789992199495",
+    "1789998155266",
+    "1789999425590",
+    "1790006410312",
+    "1790006431396",
+    "1790006436520",
+    "1790006446385",
+    "1790006739944",
+    "1790007027517",
+    "1790007084244",
+    "1790007214202"
   ],
   "last_digest_hour": "2026-09-21T21",
-  "last_success": "2026-09-21T16:02:50.861858+00:00",
+  "last_success": "2026-09-21T16:17:17.637553+00:00",
   "national": {
     "alerted": [
       {
@@ -14710,9 +14722,12 @@
       "CG-DL-E-21092026-276357",
       "CG-DL-E-21092026-276361",
       "CG-DL-E-21092026-276368",
-      "CG-MP-E-21092026-276366"
+      "CG-MP-E-21092026-276366",
+      "CG-DL-E-21092026-276360",
+      "CG-UP-E-21092026-276369",
+      "CG-WB-E-21092026-276362"
     ],
-    "last_run": "2026-09-21T16:04:07.562050+00:00",
+    "last_run": "2026-09-21T16:19:32.068392+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15791,7 +15806,10 @@
       "gazette:CG-DL-E-21092026-276361",
       "gazette:CG-DL-E-21092026-276368",
       "gazette:CG-MP-E-21092026-276366",
-      "pib:2313234"
+      "pib:2313234",
+      "gazette:CG-DL-E-21092026-276360",
+      "gazette:CG-UP-E-21092026-276369",
+      "gazette:CG-WB-E-21092026-276362"
     ],
     "source_failures": {
       "CBI": {
@@ -15903,6 +15921,42 @@
       "queued_at": "2026-09-21T16:02:50.859840+00:00",
       "score": 8.0,
       "why": "Important executive statement and hardware development milestone for India's semiconductor design ecosystem."
+    },
+    {
+      "headline": "Minister Vaishnaw says Indian semiconductor chips exported to China and Japan",
+      "post": {
+        "created_at": "2026-09-21T13:42:35+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789998155266",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BW Businessworld",
+        "reposts": 0,
+        "text": "Indian Semiconductor Chips Now Being Exported To China, Japan: Vaishnaw",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOem1YMnBjb1AxaFJPVWM0OUhXMklEZklGMENGYk5IVXBsZ1JZNkZ0LXhQN1AxYUktVjNRTDRrYVBzUFZ0ZWNhX0xmdGxSZkZ1bEtwZFc1SlYtY0pLX2c2M1J1YnlUNWFUYVpDN18yanN4cDg4OFlpdWR2ckxzajU4TEhvVG9xZ19CRDNHSUV2ZHZ6X2VESWVscmlLVjJCWXFsVGFjbGpMZk1NTXVOdWtMY0kxdw?oc=5"
+      },
+      "queued_at": "2026-09-21T16:17:17.635180+00:00",
+      "score": 7.0,
+      "why": "Statement by a senior minister on industry milestones and trade."
+    },
+    {
+      "headline": "Accenture agrees to $25 million DOJ settlement over diversity efforts",
+      "post": {
+        "created_at": "2026-09-21T16:10:27+00:00",
+        "handle": "News: Global IT services",
+        "id": "1790007027517",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "HR Brew",
+        "reposts": 0,
+        "text": "Accenture agrees to $25 million settlement with Department of Justice over its diversity efforts",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLXVLUWxzSURWOVF6WThJZ1FvZ0czNXUyUUZXYUZaeVBsbjh5RFhXUUhfRjFhRWpDb2wySHdqaE11eUZBOVl3NHAwUm1ENlhreFpiWmdOcWFkTUNRemFYT1ZGTkc0RmxOUUh5UE1aLWZNNnJhTnpEMjhLUE1WdC0xYm5ydzEzQXJkdkY0WjAyUWEzSFdidTBPeXc2VXdFajJibGJVdUpFUEVGZVlRaWNzZURzeUZYcTN6a2VZak5ETjRfRDl5eTVFaTh3?oc=5"
+      },
+      "queued_at": "2026-09-21T16:17:17.635180+00:00",
+      "score": 7.0,
+      "why": "Major legal settlement involving a top global IT services firm."
     }
   ],
   "page_links": {
@@ -16832,7 +16886,7 @@
     "anthropic": 1789762597284,
     "apple": 1789707734879,
     "arm": 1788832833709,
-    "aws": 1789679508606,
+    "aws": 1790007084244,
     "bse bharti airtel": 1789990963844,
     "bse black box": 1789582416637,
     "bse coforge": 1789904582311,
@@ -16889,21 +16943,21 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1790004637940,
     "news: consumer internet india": 1790005026557,
-    "news: global ai": 1790006011959,
+    "news: global ai": 1790006436520,
     "news: global chips": 1789999809019,
-    "news: global it services": 1790003321548,
+    "news: global it services": 1790007027517,
     "news: india ai deeptech": 1790004840251,
     "news: india edtech gaming": 1789986988797,
     "news: india fintech": 1790003668597,
-    "news: india semiconductors": 1790005813666,
+    "news: india semiconductors": 1790006739944,
     "news: india tech policy": 1790001907959,
     "news: india telecom": 1790006277413,
     "news: indian it majors": 1790003270398,
     "news: indian it midcaps": 1789996020498,
     "news: pib releases": 1790000964670,
-    "news: tech leaders": 1790005297269,
-    "nvidia": 1790002294824,
-    "nvidia blog": 1790002294824,
+    "news: tech leaders": 1790007214202,
+    "nvidia": 1790006446385,
+    "nvidia blog": 1790006446385,
     "openai": 1789948800875,
     "oracle": 1789631219707,
     "phonepe": 1789631207660,
@@ -16937,17 +16991,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T16:02:51.202224+00:00",
+    "last_server_run": "2026-09-21T16:17:18.002653+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-21T14:05:19.940446+00:00",
+        "checked": "2026-09-21T16:18:24.228655+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-21T14:05:12.350288+00:00",
+        "checked": "2026-09-21T16:18:16.467573+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -17023,7 +17077,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-21T14:05:16.245001+00:00",
+        "checked": "2026-09-21T16:18:20.194101+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -17077,11 +17131,11 @@
       },
       "last": {
         "calendar": "2026-09-21T15:05:55.512960+00:00",
-        "ls_reports": "2026-09-21T14:04:55.993638+00:00",
-        "rs_committee_press": "2026-09-21T14:05:05.980295+00:00",
-        "rs_press": "2026-09-21T14:05:02.811006+00:00",
-        "rs_reports": "2026-09-21T14:04:59.773282+00:00",
-        "rs_updates": "2026-09-21T14:05:08.055572+00:00"
+        "ls_reports": "2026-09-21T16:18:00.881955+00:00",
+        "rs_committee_press": "2026-09-21T16:18:10.735613+00:00",
+        "rs_press": "2026-09-21T16:18:07.944510+00:00",
+        "rs_reports": "2026-09-21T16:18:04.919634+00:00",
+        "rs_updates": "2026-09-21T16:18:12.319118+00:00"
       }
     },
     "scanned": [
@@ -17202,6 +17256,7 @@
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356",
       "CG-DL-E-21092026-276357",
+      "CG-DL-E-21092026-276360",
       "CG-DL-E-21092026-276361",
       "CG-DL-E-21092026-276368",
       "CG-GJ-E-17092026-276304",
@@ -17239,8 +17294,10 @@
       "CG-TL-E-16092026-276268",
       "CG-TL-E-18092026-276314",
       "CG-UP-E-17092026-276295",
+      "CG-UP-E-21092026-276369",
       "CG-WB-E-15092026-276202",
       "CG-WB-E-15092026-276203",
+      "CG-WB-E-21092026-276362",
       "SG-DL-E-15092026-276193",
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244",
