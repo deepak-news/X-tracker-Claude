@@ -71,6 +71,7 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           WATCH_MAIL_TO: ${{ secrets.WATCH_MAIL_TO }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}          # MeitY gazettes go to the Tech Desk
           GAZETTE_MAIL_TO: ${{ secrets.GAZETTE_MAIL_TO }}
           # Every reporter's own gazette list, one line per desk.
           GAZETTE_DESKS: ${{ secrets.GAZETTE_DESKS }}
