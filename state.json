@@ -12913,10 +12913,33 @@
     "1789995600625",
     "1789995600980",
     "1789995623030",
-    "1790014934582"
+    "1790014934582",
+    "1789932300741",
+    "1789934823224",
+    "1789937718235",
+    "1789958755799",
+    "1789975727832",
+    "1789977228940",
+    "1789978429308",
+    "1789979081021",
+    "1789982168948",
+    "1789984800898",
+    "1789986180710",
+    "1789988640821",
+    "1789989987438",
+    "1789990095896",
+    "1789990380160",
+    "1789990860593",
+    "1789990925863",
+    "1789991340708",
+    "1789993380871",
+    "1789994049678",
+    "1789995592267",
+    "1789995608782",
+    "1789995932550"
   ],
   "last_digest_hour": "2026-09-21T18",
-  "last_success": "2026-09-21T13:03:23.342074+00:00",
+  "last_success": "2026-09-21T13:17:12.598383+00:00",
   "national": {
     "alerted": [
       {
@@ -14345,7 +14368,7 @@
       "CG-DL-E-21092026-276355",
       "CG-DL-E-21092026-276356"
     ],
-    "last_run": "2026-09-21T13:04:17.388236+00:00",
+    "last_run": "2026-09-21T13:18:14.866310+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16480,14 +16503,14 @@
     "news: global ai": 1789995054498,
     "news: global chips": 1789989205882,
     "news: global it services": 1789994853471,
-    "news: india ai deeptech": 1789994157110,
+    "news: india ai deeptech": 1789995592267,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1789993498083,
+    "news: india fintech": 1789995932550,
     "news: india semiconductors": 1789995623030,
     "news: india tech policy": 1789994046555,
     "news: india telecom": 1789994280500,
     "news: indian it majors": 1789995127461,
-    "news: indian it midcaps": 1789991878151,
+    "news: indian it midcaps": 1789993380871,
     "news: pib releases": 1789993500929,
     "news: tech leaders": 1789994839813,
     "nvidia": 1789984835946,
@@ -16523,7 +16546,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T13:03:23.673752+00:00",
+    "last_server_run": "2026-09-21T13:17:12.921711+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T12:04:00.036269+00:00",
@@ -16933,7 +16956,9 @@
       "meeting:LS|21520",
       "gazette:CG-DL-E-21092026-276355|GAZETTE_MAIL_TO",
       "bulletin:LS|2026-09-21|Bulletin-II",
-      "meeting:RS|2236"
+      "meeting:RS|2236",
+      "meeting:LS|21521",
+      "meeting:LS|21522"
     ]
   }
 }
