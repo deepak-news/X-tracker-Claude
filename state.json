@@ -11996,10 +11996,39 @@
     "1789964546175",
     "1789964565314",
     "1789964693803",
-    "1789964840939"
+    "1789964840939",
+    "1789884237353",
+    "1789884793581",
+    "1789889040516",
+    "1789891574314",
+    "1789909982084",
+    "1789941540818",
+    "1789945899314",
+    "1789958738666",
+    "1789961430399",
+    "1789961575108",
+    "1789962410635",
+    "1789962693446",
+    "1789962883794",
+    "1789964424535",
+    "1789964426989",
+    "1789964449687",
+    "1789964693334",
+    "1789964905967",
+    "1789964950169",
+    "1789964964174",
+    "1789965060680",
+    "1789965120289",
+    "1789965300936",
+    "1789965354928",
+    "1789965396814",
+    "1789965475481",
+    "1789965521853",
+    "1789965800821",
+    "1789965896983"
   ],
   "last_digest_hour": "2026-09-21T10",
-  "last_success": "2026-09-21T04:32:06.342770+00:00",
+  "last_success": "2026-09-21T04:47:33.797067+00:00",
   "national": {
     "alerted": [
       {
@@ -13259,9 +13288,12 @@
       "CG-DL-E-21092026-276340",
       "CG-DL-E-21092026-276341",
       "CG-DL-E-21092026-276342",
-      "CG-MH-E-21092026-276338"
+      "CG-MH-E-21092026-276338",
+      "CG-DL-E-21092026-276337",
+      "CG-MH-E-21092026-276336",
+      "CG-OR-E-21092026-276335"
     ],
-    "last_run": "2026-09-21T04:33:45.264162+00:00",
+    "last_run": "2026-09-21T04:49:37.499723+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14180,12 +14212,18 @@
       "gazette:CG-DL-E-21092026-276339",
       "gazette:CG-MH-E-21092026-276338",
       "gazette:CG-DL-E-21092026-276340",
-      "gazette:CG-DL-E-21092026-276341"
+      "gazette:CG-DL-E-21092026-276341",
+      "gazette:CG-OR-E-21092026-276335",
+      "gazette:CG-DL-E-21092026-276337",
+      "gazette:CG-MH-E-21092026-276336"
     ],
     "source_failures": {
       "CBI": {
         "count": 17,
         "until": "2026-09-21T05:03:43.187107+00:00"
+      },
+      "IMD": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 17,
@@ -14214,7 +14252,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Stellantis takes full control of India manufacturing JV",
+      "post": {
+        "created_at": "2026-09-21T04:35:00+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789965300936",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "Automotive major Stellantis takes full control of India manufacturing JV",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVzhiM18xZ2ZlTVZka3k2eUxGQ241U1ZJY3RidkRmclFkUG9IMDA4SWhxYTNoTFI3VDFCWVh1YWtBcmFxeWJBNVp6M3d5OGdIQTNONlNwWG15R0s0ZzRHOWx2QUd5T2czZ3U4U295eUtyTjNLZnZRZlV3aG02d1IwNWpZajlZcVp0RnNQR1Rmcm8wQ0VBQTZBZmRDcFg4RE1UZkFHdG5vZXBwOHRZRTQ5dmtkSmMtTXVMZFZpVk83c2diR0MxTDBUMWlNSFg5bkJTeUdlT2k0ZFdxQdIB3wFBVV95cUxQXzlpX0dqeXZzai0yZUFQM0FjdGE3NlFSOW1HNVJzU0RRUHc4Y2NSLVVtYVhPZ180c2IxUEJvRl9KWndWYUdrbWdqYmowV2t3WDZmM295N2llZ3lDSlRqejNuTE5aTXlXUGJ6NnJNMWxQa1NEOWV1cFlsMHFheHFkcTZ5MEp0UTc4OS1Bc01DSFF1b0VBd0czdDRfMnFPU0Y1QkhyNEx1cWJkZnBMblpualo4aTRhR1d5LVFKX0NXOGVXTlpuN3dKMGZxVjFVOXRuUEJ5ZE41T3ZIVEFJRXdz?oc=5"
+      },
+      "queued_at": "2026-09-21T04:47:33.795956+00:00",
+      "score": 8.0,
+      "why": "Major acquisition and stake purchase in an Indian manufacturing joint venture."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -15197,20 +15254,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1789964530828,
-    "news: consumer internet india": 1789963624959,
-    "news: global ai": 1789962801270,
-    "news: global chips": 1789960825059,
+    "news: consumer internet india": 1789965521853,
+    "news: global ai": 1789965120289,
+    "news: global chips": 1789962883794,
     "news: global it services": 1789963852679,
-    "news: india ai deeptech": 1789964243910,
+    "news: india ai deeptech": 1789964905967,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789964017595,
-    "news: india semiconductors": 1789964840939,
-    "news: india tech policy": 1789962204544,
+    "news: india fintech": 1789965475481,
+    "news: india semiconductors": 1789965300936,
+    "news: india tech policy": 1789964840939,
     "news: india telecom": 1789963523876,
-    "news: indian it majors": 1789964693803,
-    "news: indian it midcaps": 1789964693803,
+    "news: indian it majors": 1789965396814,
+    "news: indian it midcaps": 1789965800821,
     "news: pib releases": 1789954664787,
-    "news: tech leaders": 1789960043439,
+    "news: tech leaders": 1789965896983,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -15243,7 +15300,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T04:32:06.674847+00:00",
+    "last_server_run": "2026-09-21T04:47:34.102224+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T03:17:51.715543+00:00",
@@ -15490,6 +15547,7 @@
       "CG-DL-E-19092026-276307",
       "CG-DL-E-19092026-276309",
       "CG-DL-E-19092026-276310",
+      "CG-DL-E-21092026-276337",
       "CG-DL-E-21092026-276339",
       "CG-DL-E-21092026-276340",
       "CG-DL-E-21092026-276341",
@@ -15510,6 +15568,7 @@
       "CG-MH-E-18092026-276318",
       "CG-MH-E-18092026-276320",
       "CG-MH-E-19092026-276312",
+      "CG-MH-E-21092026-276336",
       "CG-MH-E-21092026-276338",
       "CG-OR-E-17092026-276285",
       "CG-OR-E-17092026-276288",
@@ -15517,6 +15576,7 @@
       "CG-OR-E-17092026-276290",
       "CG-OR-E-19092026-276308",
       "CG-OR-E-19092026-276313",
+      "CG-OR-E-21092026-276335",
       "CG-RJ-E-16092026-276272",
       "CG-RJ-E-19092026-276315",
       "CG-TL-E-15092026-276220",
