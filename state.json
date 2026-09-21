@@ -13206,10 +13206,39 @@
     "1790004840251",
     "1790005026557",
     "1790005297269",
-    "1790005601317"
+    "1790005601317",
+    "1789921680076",
+    "1789932300484",
+    "1789932300951",
+    "1789973640493",
+    "1789979821968",
+    "1789982094606",
+    "1789983072302",
+    "1789983600872",
+    "1789985580618",
+    "1789990380594",
+    "1789990912917",
+    "1789993860474",
+    "1789997246378",
+    "1789997520750",
+    "1789998720491",
+    "1789998958548",
+    "1789999095808",
+    "1789999910039",
+    "1790001112751",
+    "1790001389296",
+    "1790003668597",
+    "1790003686522",
+    "1790004600131",
+    "1790004835320",
+    "1790005813666",
+    "1790005889366",
+    "1790006011959",
+    "1790006277413",
+    "1790006400317"
   ],
   "last_digest_hour": "2026-09-21T21",
-  "last_success": "2026-09-21T15:47:29.111792+00:00",
+  "last_success": "2026-09-21T16:02:50.861858+00:00",
   "national": {
     "alerted": [
       {
@@ -14680,9 +14709,10 @@
       "CG-DL-E-21092026-276356",
       "CG-DL-E-21092026-276357",
       "CG-DL-E-21092026-276361",
-      "CG-DL-E-21092026-276368"
+      "CG-DL-E-21092026-276368",
+      "CG-MP-E-21092026-276366"
     ],
-    "last_run": "2026-09-21T15:50:02.921690+00:00",
+    "last_run": "2026-09-21T16:04:07.562050+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15759,7 +15789,9 @@
       "pib:2313217",
       "pib:2313229",
       "gazette:CG-DL-E-21092026-276361",
-      "gazette:CG-DL-E-21092026-276368"
+      "gazette:CG-DL-E-21092026-276368",
+      "gazette:CG-MP-E-21092026-276366",
+      "pib:2313234"
     ],
     "source_failures": {
       "CBI": {
@@ -15817,6 +15849,60 @@
       "queued_at": "2026-09-21T15:47:29.110266+00:00",
       "score": 7.0,
       "why": "Senior executive statements on major infrastructure investments."
+    },
+    {
+      "headline": "Lam Research to invest Rs 10,000 crore for first India silicon facility",
+      "post": {
+        "created_at": "2026-09-21T13:55:58+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1789998958548",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BW Businessworld",
+        "reposts": 0,
+        "text": "Lam Research To Invest Rs 10,000 Cr In India, Plans First Silicon Manufacturing Facility",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaUs4ZGN1Vl9HeTZONi1pT2xua2hlcGVqaGF4bzh5OVdwUXoyR2c2S095S2s3QUNua2daaGQ3QzBTbEk3VEFjT0JnRDk5UVRxd0xaMW80NkFmR3ZqcWpUbHNNM1hOSlZNWHVtMkQ1SGIwTXBPenUwRmxpUk9wOUkzMzVzc25MQUIxVDJ6RDYwMUhnTGU3TGpvMTRrZE93dnlxUWpFOVlfN0VJdURhUWI4dUs0TnRLLXhiZWhUdk9CMWNGdWlWMC03N1BhYw?oc=5"
+      },
+      "queued_at": "2026-09-21T16:02:50.859840+00:00",
+      "score": 9.0,
+      "why": "Major semiconductor capex commitment and manufacturing facility announcement in India."
+    },
+    {
+      "headline": "ADIA trust sells 35 million Lenskart shares via bulk deal",
+      "post": {
+        "created_at": "2026-09-21T15:33:55+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790004835320",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "TradingView",
+        "reposts": 0,
+        "text": "ADIA's Platinum Jasmine A 2018 Trust Sold 35 Million Lenskart Solutions Shares Via Bulk Deal At 683.02 Rupeesper Share - NSE Data",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOay1aaGw5ZVVMdS1JOE53ME5UeHJESHQxdUJvbUFkemxkS05mWVdLeTJ5UFZDLUtHZFF6RzBMR1U1UjVKUnZVeHY4QlJmMEdOUVBNTFhVYVNPcWszTnhmMGJQbkd3cXJsXzZkbDY2SHJNdXRJSU0yZnNQaElIUDhOUnJqV29RY0l1d2dIS0dpTVlQWFVGRnp0ZERZRWxlOUF1dlRrQUd1bG54ZDk4NEFSbk5pbWFsN2NDbmlwLXVrUHlZSlNfOEE2THlPM1hocEY2NG1EZU8wVkhUcUx1cnRqWHhqQkdidERiaE05blgtZGhvdlBwZXNxbTd0VmtLUTZMYXg3RV9ucHliNEZFb1ZyLWpUajdfTTQwVlkwWEpiMHlRR0k?oc=5"
+      },
+      "queued_at": "2026-09-21T16:02:50.859840+00:00",
+      "score": 8.0,
+      "why": "Significant block deal involving a major Indian tech-enabled retail startup."
+    },
+    {
+      "headline": "AMD CTO Mark Papermaster confirms Venice x86 server chip designed in India",
+      "post": {
+        "created_at": "2026-09-21T15:50:13+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1790005813666",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "LinkedIn",
+        "reposts": 0,
+        "text": "\"The entire chip (x86 server chip Venice) is being designed here in India\" says Mark Papermaster, CTO & EVP, AMD in an exclusive conversation with Shereen Bhan where he talks about India's importance for AMD's innovation ecosystem Watch the full conve",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVNhU0VxNE1EZEpfX1ljQjJqNVJ6VVNOUDRhRlhWVFY1UTZrSVZZTGhnSXhOMGN5R0FJcEpRdzZHTWxiVlVVem56Q2xiOWNHODRiVEtDM3BjTkNYMF9HUTJvZTZFcW12bXR1djl1ZkxiMDRha3pIazRHT2lkejhKdW1IREFUdnJpRURXS0RBVHRZTGx2dlQtczZtSThtS28?oc=5"
+      },
+      "queued_at": "2026-09-21T16:02:50.859840+00:00",
+      "score": 8.0,
+      "why": "Important executive statement and hardware development milestone for India's semiconductor design ecosystem."
     }
   ],
   "page_links": {
@@ -16787,7 +16873,7 @@
     "capgemini": 1789728170178,
     "cognizant": 1789761743637,
     "flipkart": 1789631208994,
-    "google": 1789995600980,
+    "google": 1790006400317,
     "google cloud": 1789650000163,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
@@ -16803,15 +16889,15 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1790004637940,
     "news: consumer internet india": 1790005026557,
-    "news: global ai": 1790003939932,
+    "news: global ai": 1790006011959,
     "news: global chips": 1789999809019,
     "news: global it services": 1790003321548,
     "news: india ai deeptech": 1790004840251,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790003126689,
-    "news: india semiconductors": 1790000815643,
+    "news: india fintech": 1790003668597,
+    "news: india semiconductors": 1790005813666,
     "news: india tech policy": 1790001907959,
-    "news: india telecom": 1790003686830,
+    "news: india telecom": 1790006277413,
     "news: indian it majors": 1790003270398,
     "news: indian it midcaps": 1789996020498,
     "news: pib releases": 1790000964670,
@@ -16851,7 +16937,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-21T15:47:29.376356+00:00",
+    "last_server_run": "2026-09-21T16:02:51.202224+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T14:05:19.940446+00:00",
@@ -17133,6 +17219,7 @@
       "CG-MH-E-21092026-276336",
       "CG-MH-E-21092026-276338",
       "CG-MP-E-21092026-276331",
+      "CG-MP-E-21092026-276366",
       "CG-OR-E-17092026-276285",
       "CG-OR-E-17092026-276288",
       "CG-OR-E-17092026-276289",
