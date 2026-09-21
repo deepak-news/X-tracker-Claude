@@ -2,27 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-16T08:46:32.672651+00:00",
-      "handle": "News: India fintech",
-      "headline": "Petroleum dealers association seeks complete UPI MDR exemption",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd3JmT2owUlRaV3ltQ3BYQTk5NGttbUJKemNzMmVSMFlpOXR5dWhESE84aGdqNXZ4WGpNS3c2SnNJMzI1VlVyMUpzYmxLS1hDMDVzU1c5NG1GbnlqakQzSVk4SHdqdWU3UUNFc3J6OHFibHo1SU5xR0ZrM0t0ZDhDSFFRbktEUGN6RGNDejZWZXhHOWNoYVdnV1lGbU40S3VaeUZNOGZmVllDc0VWWVVtVk1mUUF5d0pFQWp4NVZEYnhJUE5SU0hES2d2ZkJlbVNoT2I1ZFVYVXdVM1czUDdQVUtuTlUwNmd2WS14SA?oc=5",
-      "words": [
-        "all",
-        "association",
-        "complete",
-        "dealers",
-        "exemption",
-        "mdr",
-        "petrol",
-        "petroleum",
-        "pumps",
-        "seeks",
-        "transactions",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-16T08:46:32.672651+00:00",
       "handle": "News: India telecom",
       "headline": "ACES India enables 5G for Reliance Jio at Noida Airport",
       "tier": 0,
@@ -7338,6 +7317,29 @@
         "soars",
         "take"
       ]
+    },
+    {
+      "at": "2026-09-21T07:47:59.497190+00:00",
+      "handle": "BSE LTIMindtree",
+      "headline": "LTIMindtree partners with Shekhar Kapur for AI storytelling unit",
+      "tier": 2,
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/17cecae4-ccb0-41b0-bcaa-2a28b26c45f6.pdf",
+      "words": [
+        "announcement",
+        "attaching",
+        "collaborates",
+        "copy",
+        "filing",
+        "full",
+        "herewith",
+        "kapur",
+        "ltm",
+        "media",
+        "power",
+        "press",
+        "reimagine",
+        "release"
+      ]
     }
   ],
   "consecutive_failures": 0,
@@ -12321,10 +12323,54 @@
     "1789975460862",
     "1789975467094",
     "1789975721085",
-    "1789975731028"
+    "1789975731028",
+    "1789896398806",
+    "1789896486711",
+    "1789930218438",
+    "1789952430543",
+    "1789961220296",
+    "1789961379654",
+    "1789969608573",
+    "1789970460446",
+    "1789970535882",
+    "1789971211182",
+    "1789971222764",
+    "1789971671058",
+    "1789972014797",
+    "1789972224699",
+    "1789972337399",
+    "1789973191071",
+    "1789973537882",
+    "1789973868917",
+    "1789974798968",
+    "1789975020225",
+    "1789975360483",
+    "1789975440216",
+    "1789975634436",
+    "1789975743074",
+    "1789975799123",
+    "1789975800140",
+    "1789975885668",
+    "1789975909148",
+    "1789975949479",
+    "1789976049529",
+    "1789976097289",
+    "1789976100180",
+    "1789976104453",
+    "1789976178871",
+    "1789976211893",
+    "1789976295904",
+    "1789976359007",
+    "1789976392075",
+    "1789976395847",
+    "1789976400693",
+    "1789976467302",
+    "1789976722644",
+    "1789996344894",
+    "2312900"
   ],
   "last_digest_hour": "2026-09-21T13",
-  "last_success": "2026-09-21T07:32:49.278995+00:00",
+  "last_success": "2026-09-21T07:47:59.577114+00:00",
   "national": {
     "alerted": [
       {
@@ -13408,6 +13454,26 @@
           "submission",
           "xii"
         ]
+      },
+      {
+        "at": "2026-09-21T07:53:54.990413+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.0 earthquake -- 34 km WNW of Luwuk, Indonesia.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4",
+        "words": [
+          "2026",
+          "deep",
+          "earthquake",
+          "indonesia",
+          "ist",
+          "luwuk",
+          "magnitude",
+          "reported",
+          "sep",
+          "usgs",
+          "wnw"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -13616,7 +13682,7 @@
       "CG-OR-E-21092026-276346",
       "CG-DL-E-21092026-276353"
     ],
-    "last_run": "2026-09-21T07:38:50.988134+00:00",
+    "last_run": "2026-09-21T07:53:54.990951+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -14553,7 +14619,9 @@
       "page:https://www.cbse.gov.in/cbsenew/documents/LOC_2627_21092026.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-emphasizing-on-virtues-of-dharma-knowledge-and-non-violence",
       "gazette:CG-DL-E-21092026-276353",
-      "pib:2312888"
+      "pib:2312888",
+      "quake:usgs:us7000tiw4",
+      "pib:2312900"
     ],
     "source_failures": {
       "CBI": {
@@ -14561,11 +14629,14 @@
         "until": "2026-09-21T11:18:44.198455+00:00"
       },
       "Gazette of India (Extraordinary)": {
-        "count": 1
+        "count": 2
       },
       "IMD": {
         "count": 3,
         "until": "2026-09-21T11:18:44.198455+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 18,
@@ -14594,7 +14665,62 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
+      "post": {
+        "created_at": "2026-09-21T03:27:00+00:00",
+        "handle": "News: Global AI",
+        "id": "1789961220296",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Finance",
+        "reposts": 0,
+        "text": "Big Tech's $300 Billion 'Hidden Guarantee' for AI Investment\u2026 Risk That Doesn't Show Up as Debt",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjX0c3REFZMTNUWV95ZElUY25ZYTdIUnhHck9JSkZQVThQRHpzZlNDUDlHLTR2X1QtZkdVWXlYZjV5MVN6RU9PZmNMcW5VbnFMQ1FJNTFZcEtsTE91czFLR25QUmZNd3lKZFJFQ204N1FPZEFxS3c?oc=5"
+      },
+      "queued_at": "2026-09-21T07:47:59.576044+00:00",
+      "score": 7.0,
+      "why": ""
+    },
+    {
+      "headline": "UPI MDR rules and potential stock winners analyzed for investors",
+      "post": {
+        "created_at": "2026-09-21T07:17:00+00:00",
+        "handle": "News: India fintech",
+        "id": "1789975020225",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "UPI MDR: These stocks could be the winners | New UPI charges | Digital payments",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1ZtbjF4TVhGR09aQTlBVmxxVXVwT2s5YnpCVWd1WTV5WUM2VnF2UGV4cWk4TmllYVNLVFRDX3VRZHJYeGdsT3E2Z1FMeHQ2aWd2cTV3UEdaanhZRGtfYmlaNTRPZC1aOEVfcHNHaE9lckk3eDZJdGFwTmgwRHcwRF9kQ0dLa1JRMEZ0c0NUOThJcVRjM1NfZVVPblN5NFRKUi1vQkZ3bHBhY1FVSzRxd0o4OFkxY2RrNFNfUkRTVU80YjlCNVJ2UmVxNHB3cXVpWHZRczQwUdIB3AFBVV95cUxPNk1xcm1HWWFfaE1tbDRGYWdkN0hKNUk4RFJSeWR1TnlOU2lTb3Y2NUpQNy1QS2xiX3N2M19wQUEtRkJGZldzYTVUV3ZmWE1hWTFkZmoyZUVhMTJkOExBLVotUmdHaUFWQUxlVkQzeHU4V2s5Q0FmM2hseGotbmFwUzdmaElWUGg1eEt2SEhCMi1PcW80eVdqeERmNE5YWWhKZ1lHbElHZFZMeHFnN0k4Q1p3U0pqLW5ZTExyWVNJUFpFZTJFNHBoUHJFU1l6eDFadFJ0RTY0ZHJ3dGhC?oc=5"
+      },
+      "queued_at": "2026-09-21T07:47:59.576044+00:00",
+      "score": 7.0,
+      "why": ""
+    },
+    {
+      "headline": "China and US compete for AI dominance while sharing safety concerns",
+      "post": {
+        "created_at": "2026-09-21T07:29:03+00:00",
+        "handle": "News: Global AI",
+        "id": "1789975743074",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Rocky Mount Telegram",
+        "reposts": 0,
+        "text": "China and the US are competing for AI dominance but have shared concerns over safety",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSGFmVGJWSnhPdFJZMDRieGowUktvQUJFR2RZTHJvdGhBcWIzN1gzWGt2VnlWQzNnZ2FmdGNsRG9rUDZSX0JYR0oxN0hTem1HcW5CWm0tc2pCVGFWcjBrNG5zd1pId19paHNHaGpwUWJBSHFoYTBjTDhWbFJ5a1Q0YjVzb2ltQ2EyR2dzQ25zVnpjOUFZc09RaVdPeG4ySHNuLWVLRTNLM1EzVnF5aERKNmV3WTBONU5odjBUS2xpY1pHc1plNXgzb2tHVS1ZX0Z0YmVIY3g2VnFpZ2VIQkdHMnR3UHA3SzRfdlB4d3Jsa2Nkd1ltTzJ5cE5HWC1ncVNxd0RGRGJfSFhuV2s?oc=5"
+      },
+      "queued_at": "2026-09-21T07:47:59.576044+00:00",
+      "score": 7.0,
+      "why": ""
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -15535,7 +15661,7 @@
     "bse infosys": 1789727487991,
     "bse kpit technologies": 1789143297360,
     "bse lenskart": 1789846180435,
-    "bse ltimindtree": 1789642688493,
+    "bse ltimindtree": 1789996344894,
     "bse ltts": 1789490917112,
     "bse meesho": 1789771106183,
     "bse mobikwik": 1789772480096,
@@ -15576,21 +15702,21 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1789975721085,
-    "news: consumer internet india": 1789974859245,
-    "news: global ai": 1789975731028,
-    "news: global chips": 1789974622280,
-    "news: global it services": 1789972022939,
+    "news: big tech platforms": 1789976395847,
+    "news: consumer internet india": 1789976400693,
+    "news: global ai": 1789975885668,
+    "news: global chips": 1789976100180,
+    "news: global it services": 1789976295904,
     "news: india ai deeptech": 1789975319837,
     "news: india edtech gaming": 1789812105151,
-    "news: india fintech": 1789975460862,
-    "news: india semiconductors": 1789975173218,
+    "news: india fintech": 1789976104453,
+    "news: india semiconductors": 1789975634436,
     "news: india tech policy": 1789975467094,
-    "news: india telecom": 1789973696773,
-    "news: indian it majors": 1789972932138,
-    "news: indian it midcaps": 1789974904576,
+    "news: india telecom": 1789975949479,
+    "news: indian it majors": 1789976722644,
+    "news: indian it midcaps": 1789975909148,
     "news: pib releases": 1789973580978,
-    "news: tech leaders": 1789974840216,
+    "news: tech leaders": 1789976467302,
     "nvidia": 1789650055203,
     "nvidia blog": 1789650055203,
     "openai": 1789732800252,
@@ -15598,7 +15724,7 @@
     "phonepe": 1789631207660,
     "pib communications": 2312868,
     "pib meity": 2312606,
-    "pib science and technology": 2312149,
+    "pib science and technology": 2312900,
     "razorpay": 1789539311308,
     "redseer": 1789637516540,
     "salesforce": 1789671615139,
@@ -15623,7 +15749,7 @@
       "e-Gazette - Law ministry",
       "e-Gazette - MHA extraordinary"
     ],
-    "last_server_run": "2026-09-21T07:32:49.507450+00:00",
+    "last_server_run": "2026-09-21T07:47:59.916793+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-21T07:35:25.039463+00:00",
