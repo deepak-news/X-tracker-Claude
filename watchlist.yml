@@ -458,6 +458,16 @@ watch:
       mail_to: GAZETTE_DESKS:law
       mail_name: "Law Ministry Gazettes"
 
+    # MeitY gazettes, straight to the Tech Desk inbox (MAIL_TO) under the
+    # Tech Desk's own name. Every one is sent -- no AI in between -- since
+    # there are only a handful a month.
+    - name: e-Gazette - MeitY
+      category: 6
+      ministries:
+        - "Ministry of Electronics and Information Technology"
+      mail_to: MAIL_TO
+      mail_name: "For Tech Desk"
+
     # ---------------------------------------------------------------
     #  PARLIAMENT -- sansad.in, both Houses
     #  One watch, nineteen lists. Questions and answers are deliberately
@@ -558,6 +568,11 @@ national:
       use; SEBI actions that affect ordinary investors
     - Elections, disasters, major accidents, and official responses to them
     - Landmark numbers: GDP, inflation, record achievements, milestones
+    - Changes to the machinery of government that a wire agency reports as
+      a matter of record: a commission, authority, board, regulator,
+      mission or department set up, dissolved, merged, renamed or given new
+      powers, and major policy resolutions of the central government --
+      even when the sector itself is specialised
     - OFFICIAL FIGURES the government itself puts out, even when they are
       routine and periodic, and even when the release is titled as a dry
       update: direct tax and advance tax collections, GST collections,
@@ -596,6 +611,11 @@ national:
     - changes taxes, duties or prices that ordinary people pay
     - issues a commemorative coin or stamp, or marks an anniversary of a
       monument, institution or national event
+    - sets up, dissolves, merges or restructures a government commission,
+      authority, board, regulator or department, or is a Cabinet or
+      ministry RESOLUTION announcing a policy decision (for example, the
+      September 2026 resolution dissolving the Digital Communications
+      Commission) -- score these 7 or higher
     Gazettes that are routine and score 4 at most: fortnightly tariff
     values and exchange rates, highway land acquisition and toll notices,
     railway land and project notices, cantonment boards, honorary ranks,
@@ -607,7 +627,9 @@ national:
     - Meetings held, visits, events attended, speeches with no decision
     - Greetings, condolences, anniversaries, quotes and awareness drives
     - Transfers and postings below the most senior level
-    - Anything that matters only to one industry or to specialists
+    - Anything that matters only to one industry or to specialists --
+      except the central government decisions and changes to government
+      bodies described above, which are news whatever the sector
 
   # Score out of 10 needed to be emailed. Raise to 8 if it sends too much,
   # drop to 6 if it misses things.
@@ -630,9 +652,9 @@ national:
   # elsewhere, hence the separate figure. Set "earthquakes: false" to
   # switch the whole thing off.
   earthquakes:
-    min_magnitude: 5.7              # anywhere in the world
+    min_magnitude: 5              # anywhere in the world
     india_min_magnitude: 4.5      # inside India
-    neighbour_min_magnitude: 4.5    # the neighbouring countries
+    neighbour_min_magnitude: 5    # the neighbouring countries
 
   # Any other official site that publishes an RSS feed can be added here.
   feeds:
