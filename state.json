@@ -7387,14 +7387,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789768325546",
-    "1789787604744",
-    "1789790178947",
-    "1789812545224",
-    "1789821452153",
-    "1789832425911",
-    "1789795440585",
-    "1789811097090",
     "1789812544855",
     "1789820718809",
     "1789824989866",
@@ -13386,10 +13378,18 @@
     "1790074721216",
     "1790091785362",
     "1790107634255",
-    "1790112180199"
+    "1790112180199",
+    "1790053169919",
+    "1790059458711",
+    "1790086370406",
+    "1790093700565",
+    "1790107133596",
+    "1790110680656",
+    "1790111266927",
+    "1790113500009"
   ],
   "last_digest_hour": "2026-09-23T03",
-  "last_success": "2026-09-22T21:47:38.788581+00:00",
+  "last_success": "2026-09-22T22:02:35.971015+00:00",
   "national": {
     "alerted": [
       {
@@ -15064,7 +15064,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-22T21:52:42.784917+00:00",
+    "last_run": "2026-09-22T22:05:07.050550+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17317,13 +17317,13 @@
     "news: consumer internet india": 1790110963179,
     "news: global ai": 1790105262430,
     "news: global chips": 1790108401198,
-    "news: global it services": 1790108308814,
+    "news: global it services": 1790110680656,
     "news: india ai deeptech": 1790107912039,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790112350647,
     "news: india semiconductors": 1790105754962,
     "news: india tech policy": 1790102341060,
-    "news: india telecom": 1790109521928,
+    "news: india telecom": 1790113500009,
     "news: indian it majors": 1790112180199,
     "news: indian it midcaps": 1790101500721,
     "news: pib releases": 1790107634255,
@@ -17363,7 +17363,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T21:47:39.004650+00:00",
+    "last_server_run": "2026-09-22T22:02:36.297129+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T20:04:51.271346+00:00",
