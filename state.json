@@ -1,50 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-17T10:17:08.178615+00:00",
-      "handle": "BSE Wipro",
-      "headline": "Wipro launches STO360 solution in collaboration with Aramco and SAP",
-      "tier": 2,
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/95eba4b4-015b-4593-9f05-f59f4908668b.pdf",
-      "words": [
-        "aramco",
-        "attached",
-        "collaborates",
-        "efficient",
-        "filing",
-        "find",
-        "full",
-        "launch",
-        "management",
-        "outage",
-        "please",
-        "press",
-        "release",
-        "sap"
-      ]
-    },
-    {
-      "at": "2026-09-17T10:32:27.200430+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Tata Sons IPO nod and N Chandrasekaran term extension drive stock surge",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQeU1HRFU4cENmSk9RS3padF85cHljQUt5UDdxYVdTWEZRRlZVQTVjVHpZWlBMdWFsRjZCc0txMGExc0ZieVBQdVY1aDhUYVMtZE9PdFprVlRod3JNSEVhOERIb1lpd0NqMmpHSHltaVU3QWxHTnh0Y0JvakJGeWJoeDV3TWxtNzJyZHFJOTVFc3E2Ulp1d3NDY3QxdVVyeTRwZUZfWkxldE1XV2hBYS1vQTUwU3NjN0FyWFdtcHBSaS02SFI4SGxxWUlJYWlFcU1OYW9uOEZzSFo5d2pTNFBJaDVpSjNWNVdxY2NuZnY4bkhGOVlfbTNHRjhhUmNjODNsOEZTeHl5eE1USUx6R0FzNktjRmhWUnh5dXFtZ1J30gGjAkFVX3lxTE9oTk9TRnlNUW45UGd2STAxYk1PZm5pYlNmeDQwZHVSUG5nUmZqX1REd2tkWlBwVXNLMWFUUktCWW9lcUVGbjdaZGRUNzkydkZUZUd6dTlGazR1UktFc1lJREhmNzBkdXpqUmVYRmVIOFF6SWZrZzJ5cVV2YlotYTZrV3EwUVV3ZVZmaHdaZjYwTExWZkEzTVVEV1F6NXJILURrVmExRWstQ0h3c1k1NW03NEFScFVTX0NmeGw4WkRreFhjUW9HWFpkcU9NR0tydUZSUXBkNzhsaW8yalJTNkEtV2RuTzhrb1pmUXJZUEVjSFVoX0NlemxFdmQ3Q1M1STJNY1ZYWUJUUWdZOUk3OXJEazFxalJYX2hJX2xnQnpDT3NvRQ?oc=5",
-      "words": [
-        "chandra",
-        "chemicals",
-        "extension",
-        "group",
-        "ipo",
-        "nod",
-        "other",
-        "sons",
-        "tata",
-        "tcs",
-        "term",
-        "zoom"
-      ]
-    },
-    {
       "at": "2026-09-17T10:32:27.200430+00:00",
       "handle": "News: Global AI",
       "headline": "OpenAI discloses six new incidents of concerning AI behavior",
@@ -7342,30 +7298,47 @@
         "release",
         "securities"
       ]
+    },
+    {
+      "at": "2026-09-22T06:32:34.639486+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Meesho share price surges 11% near post-listing high after UBS upgrade",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdDRWeHZOa3NMdzFxdXV0WVdab1VoY0lTUnowTXJjc0lBV3B3bjhhRG5wUmRmdEVzWjI4aGdHTDNNb2dNTU96R29WODZfek51N0IzZWZ6OTF1SnhpaGNiTUJLM1NKM2FIblpPZVM5ekxLanFfZ2tSQVZSbUhIVy1XQy12WGZMMTI4RDRiQk43N3JCRnM1Mjl3dzRacWpaTTNkOGRUU3hWVDdBUG9EMHVPVnRkd1Rtbnh5RFFpM3Z0N2VpYzRXbGRuckVxTEswVmZnMFlfMzZBNXBrVFNX0gHcAUFVX3lxTE90NFZ4dk5rc0x3MXF1dXRZV1pvVWhjSVNSejBNcmNzSUFXcHduOGFEbnBSZGZ0RXNaMjhoZ0dMM01vZ01NT3pHb1Y4Nl96TnU3QjNlZno5MXVKeGloY2JNQkszU0ozYUhuWk9lUzl6TEtqcV9na1JBVlJtSEhXLVdDLXZYZkwxMjhENGJCTjc3ckJGczUyOXd3NFpxalpNM2Q4ZFRTeFZUN0FQb0QwdU9WdGR3VG1ueHlEUWkzdnQ3ZWljNFdsZG5yRXFMSzBWZmcwWV8zNkE1cGtUU1c?oc=5",
+      "words": [
+        "high",
+        "listing",
+        "meesho",
+        "near",
+        "post",
+        "price",
+        "raises",
+        "surges",
+        "target",
+        "ubs"
+      ]
+    },
+    {
+      "at": "2026-09-22T06:32:34.639486+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Mphasis teams up with Copa Airlines for global quantum computing challenge",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeU5pZFduQ3VXekVNWXNsSnRpOGtiTzdseVZ2eThaYUh5R0d5c2pySHJLd1VUVlNsV2tEVXRCSE8wNlh0SW1kZTNYUUE3UFlfRS1PalZydkhDSThfa3l6STdHTjVfcUN3ZWRTZ3NvRGFuTHpfY2lnR0h3d0lkZ1p0Wmg0MlFBWjFzUUt3MUFCaE1fNzF0R1BnYkgxN1NCdm5CYkE?oc=5",
+      "words": [
+        "airlines",
+        "challenge",
+        "computing",
+        "copa",
+        "global",
+        "mphasis",
+        "quantum",
+        "teams"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789787062914",
-    "1789787223487",
-    "1789787509497",
-    "1789787555761",
-    "1789787675407",
-    "1789787727010",
-    "1789787740126",
-    "1789787748972",
-    "1789787938771",
-    "1789788036742",
-    "1789788418880",
-    "1789788599798",
-    "1789788801896",
-    "1789788840816",
-    "1789788890585",
-    "1789788937110",
-    "1789788947008",
-    "1789789008682",
-    "1789789560752",
     "1789789602879",
     "1789789765255",
     "1789789887692",
@@ -13346,10 +13319,29 @@
     "1790057325848",
     "1790057377938",
     "1790057603291",
-    "1790077442426"
+    "1790077442426",
+    "1789993500353",
+    "1790041225975",
+    "1790044260056",
+    "1790046926087",
+    "1790052957861",
+    "1790054788942",
+    "1790055173075",
+    "1790056501388",
+    "1790056860834",
+    "1790057728053",
+    "1790057765380",
+    "1790057840008",
+    "1790057953769",
+    "1790057985954",
+    "1790058229840",
+    "1790058373956",
+    "1790058457551",
+    "1790058527410",
+    "1790058541010"
   ],
-  "last_digest_hour": "2026-09-22T11",
-  "last_success": "2026-09-22T06:17:09.923022+00:00",
+  "last_digest_hour": "2026-09-22T12",
+  "last_success": "2026-09-22T06:32:34.645628+00:00",
   "national": {
     "alerted": [
       {
@@ -14862,7 +14854,7 @@
       "CG-DL-E-22092026-276358",
       "CG-DL-E-22092026-276359"
     ],
-    "last_run": "2026-09-22T06:20:07.739640+00:00",
+    "last_run": "2026-09-22T06:36:14.998808+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16002,44 +15994,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Meesho share price surges 11% near post-listing high after UBS upgrade",
-      "post": {
-        "created_at": "2026-09-22T06:07:18+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1790057238424",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "Meesho share price surges 11%, near post-listing high, after UBS raises target",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdDRWeHZOa3NMdzFxdXV0WVdab1VoY0lTUnowTXJjc0lBV3B3bjhhRG5wUmRmdEVzWjI4aGdHTDNNb2dNTU96R29WODZfek51N0IzZWZ6OTF1SnhpaGNiTUJLM1NKM2FIblpPZVM5ekxLanFfZ2tSQVZSbUhIVy1XQy12WGZMMTI4RDRiQk43N3JCRnM1Mjl3dzRacWpaTTNkOGRUU3hWVDdBUG9EMHVPVnRkd1Rtbnh5RFFpM3Z0N2VpYzRXbGRuckVxTEswVmZnMFlfMzZBNXBrVFNX0gHcAUFVX3lxTE90NFZ4dk5rc0x3MXF1dXRZV1pvVWhjSVNSejBNcmNzSUFXcHduOGFEbnBSZGZ0RXNaMjhoZ0dMM01vZ01NT3pHb1Y4Nl96TnU3QjNlZno5MXVKeGloY2JNQkszU0ozYUhuWk9lUzl6TEtqcV9na1JBVlJtSEhXLVdDLXZYZkwxMjhENGJCTjc3ckJGczUyOXd3NFpxalpNM2Q4ZFRTeFZUN0FQb0QwdU9WdGR3VG1ueHlEUWkzdnQ3ZWljNFdsZG5yRXFMSzBWZmcwWV8zNkE1cGtUU1c?oc=5"
-      },
-      "queued_at": "2026-09-22T06:17:09.914624+00:00",
-      "score": 7.0,
-      "why": "Significant stock movement and analyst target upgrade for a major Indian tech listing."
-    },
-    {
-      "headline": "Mphasis teams up with Copa Airlines for global quantum computing challenge",
-      "post": {
-        "created_at": "2026-09-22T06:13:23+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1790057603291",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Sahi",
-        "reposts": 0,
-        "text": "Mphasis Teams Up With Copa Airlines For Global Quantum Computing Challenge",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeU5pZFduQ3VXekVNWXNsSnRpOGtiTzdseVZ2eThaYUh5R0d5c2pySHJLd1VUVlNsV2tEVXRCSE8wNlh0SW1kZTNYUUE3UFlfRS1PalZydkhDSThfa3l6STdHTjVfcUN3ZWRTZ3NvRGFuTHpfY2lnR0h3d0lkZ1p0Wmg0MlFBWjFzUUt3MUFCaE1fNzF0R1BnYkgxN1NCdm5CYkE?oc=5"
-      },
-      "queued_at": "2026-09-22T06:17:09.914624+00:00",
-      "score": 7.0,
-      "why": "New partnership and tech initiative involving an Indian IT midcap company."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17024,17 +16979,17 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790055182434,
-    "news: consumer internet india": 1790057377938,
+    "news: consumer internet india": 1790057765380,
     "news: global ai": 1790053248096,
-    "news: global chips": 1790056962666,
-    "news: global it services": 1790056774120,
-    "news: india ai deeptech": 1790053912039,
+    "news: global chips": 1790058541010,
+    "news: global it services": 1790058229840,
+    "news: india ai deeptech": 1790057728053,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790053818677,
-    "news: india semiconductors": 1790056559705,
+    "news: india fintech": 1790058457551,
+    "news: india semiconductors": 1790057953769,
     "news: india tech policy": 1790056506030,
     "news: india telecom": 1790055805861,
-    "news: indian it majors": 1790057603291,
+    "news: indian it majors": 1790057840008,
     "news: indian it midcaps": 1790054160892,
     "news: pib releases": 1790048161148,
     "news: tech leaders": 1790057325848,
@@ -17056,7 +17011,7 @@
     "sarvam ai": 1789631206990,
     "swiggy": 1789214456821,
     "tata electronics": 1789738328115,
-    "trai": 1790057235896,
+    "trai": 1790058527410,
     "xai": 1790005601317,
     "zinnov": 1789638408829,
     "zoho": 1789739607214
@@ -17073,7 +17028,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T06:17:10.257490+00:00",
+    "last_server_run": "2026-09-22T06:32:34.875230+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T05:04:42.358350+00:00",
