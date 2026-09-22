@@ -30,7 +30,13 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
+      # The latest main, not the commit from when this run was queued. A
+      # run that waits behind a slow one would otherwise start from memory
+      # saved BEFORE the slow run finished -- and re-send whatever it sent
+      # (the 3 PM digest went twice on 22 Sep this way).
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
