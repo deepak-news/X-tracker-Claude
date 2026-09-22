@@ -7348,15 +7348,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789751875860",
-    "1789752027624",
-    "1789752180407",
-    "1789752247096",
-    "1789752281780",
-    "1789752283470",
-    "1789752651513",
-    "1789752701454",
-    "1789752761170",
     "1789752781031",
     "1789753217945",
     "1789753500465",
@@ -13347,10 +13338,19 @@
     "1790048580248",
     "1790049168944",
     "1790049180606",
-    "1790049181562"
+    "1790049181562",
+    "1790007665202",
+    "1790024461263",
+    "1790031608366",
+    "1790042783266",
+    "1790043643081",
+    "1790046780758",
+    "1790047342853",
+    "1790050044725",
+    "1790050487754"
   ],
   "last_digest_hour": "2026-09-22T09",
-  "last_success": "2026-09-22T04:02:38.207814+00:00",
+  "last_success": "2026-09-22T04:17:27.222272+00:00",
   "national": {
     "alerted": [
       {
@@ -14862,7 +14862,7 @@
       "SG-DL-E-21092026-276375",
       "CG-DL-E-22092026-276358"
     ],
-    "last_run": "2026-09-22T04:04:03.903819+00:00",
+    "last_run": "2026-09-22T04:19:30.449445+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15957,7 +15957,8 @@
       "gazette:CG-DL-E-21092026-276376",
       "gazette:SG-DL-E-21092026-276375",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63641",
-      "gazette:CG-DL-E-22092026-276358"
+      "gazette:CG-DL-E-22092026-276358",
+      "pib:2313280"
     ],
     "source_failures": {
       "CBI": {
@@ -15967,6 +15968,9 @@
       "DGFT": {
         "count": 5,
         "until": "2026-09-22T09:03:27.275468+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -15997,7 +16001,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "British Columbia sues OpenAI over Tumbler Ridge school shooting",
+      "post": {
+        "created_at": "2026-09-22T03:13:00+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1790046780758",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "British Columbia sues OpenAI over Tumbler Ridge school shooting",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR05DZ0tIOHAtNjZZajBERUs2cXZLbG95T2xqZ3F6MU56Z3ZQNlNUeklLSWRjQlFCbHZMSjZYVjNMSFdEa3BubHExUTBnOUM4TnIxM3lwd3Z1QUZaQnk1d0Voajl6VmtzLTNuVEFTRkdTWkYxTk90QW52c1hOd3RYSE9nTUFVQ0ZUUUZYbWMyQUJnSHlpVTZkd3JWYmRpZnFka1NkWjZiTjhfSkM0aHVlRVpxcTVEYW1zbHFmMHl0TmJYNnZsWVRsTUhvcXl6alNGYkQ5RUJyWVE4QkxydGIwQlRkYzXSAeQBQVVfeXFMTUdOQ2dLSDhwLTY2WWowREVLNnF2S2xveU9samdxejFOemd2UDZTVHpJS0lkY0JRQmx2TEo2WFYzTEhXRGtwbmxxMVEwZzlDOE5yMTN5cHd2dUFGWkJ5NXdFaGo5elZrcy0zblRBU0ZHU1pGMU5PdEFudnNYTnd0WEhPZ01BVUNGVFFGWG1jMkFCZ0h5aVU2ZHdyVmJkaWZxZGtTZFo2Yk44X0pDNGh1ZUVacXE1RGFtc2xxZjB5dE5iWDZ2bFlUbE1Ib3F5empTRmJEOUVCcllROEJMcnRiMEJUZGM1?oc=5"
+      },
+      "queued_at": "2026-09-22T04:17:27.215040+00:00",
+      "score": 7.0,
+      "why": "Major legal action against a primary AI company by a government body, matching criteria for major global AI disclosures."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -16982,17 +17005,17 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1790048221514,
     "news: consumer internet india": 1790047020678,
-    "news: global ai": 1790047659586,
+    "news: global ai": 1790050044725,
     "news: global chips": 1790043240304,
     "news: global it services": 1790042830597,
     "news: india ai deeptech": 1790048580248,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790049181562,
+    "news: india fintech": 1790050487754,
     "news: india semiconductors": 1790046319344,
     "news: india tech policy": 1790048221514,
     "news: india telecom": 1790048100565,
     "news: indian it majors": 1790044466948,
-    "news: indian it midcaps": 1790044620665,
+    "news: indian it midcaps": 1790046780758,
     "news: pib releases": 1790039232862,
     "news: tech leaders": 1790049168944,
     "nvidia": 1790013607775,
@@ -17030,7 +17053,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T04:02:38.461862+00:00",
+    "last_server_run": "2026-09-22T04:17:27.555728+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T02:47:55.160606+00:00",
