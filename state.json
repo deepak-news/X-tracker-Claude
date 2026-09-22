@@ -7384,12 +7384,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789838198898",
-    "1789838688957",
-    "1789844243352",
-    "1789848000700",
-    "1789850402081",
-    "1789766119106",
     "1789770677364",
     "1789780560009",
     "1789785017206",
@@ -13383,10 +13377,16 @@
     "1790056681919",
     "1790088000316",
     "1790105570457",
-    "1790106211176"
+    "1790106211176",
+    "1790075820842",
+    "1790076480949",
+    "1790091720102",
+    "1790103120641",
+    "1790107912039",
+    "1790110963179"
   ],
   "last_digest_hour": "2026-09-23T02",
-  "last_success": "2026-09-22T21:02:37.967124+00:00",
+  "last_success": "2026-09-22T21:17:08.778626+00:00",
   "national": {
     "alerted": [
       {
@@ -15061,7 +15061,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-22T21:04:24.567553+00:00",
+    "last_run": "2026-09-22T21:19:59.171706+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16277,8 +16277,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "DGFT": {
-        "count": 7,
-        "until": "2026-09-22T21:05:01.178967+00:00"
+        "count": 8,
+        "until": "2026-09-23T03:17:56.603777+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -17330,11 +17330,11 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790097240152,
-    "news: consumer internet india": 1790104395674,
+    "news: consumer internet india": 1790110963179,
     "news: global ai": 1790105262430,
     "news: global chips": 1790108401198,
     "news: global it services": 1790108308814,
-    "news: india ai deeptech": 1790102512039,
+    "news: india ai deeptech": 1790107912039,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790104971772,
     "news: india semiconductors": 1790105754962,
@@ -17379,7 +17379,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T21:02:38.307038+00:00",
+    "last_server_run": "2026-09-22T21:17:09.117712+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T20:04:51.271346+00:00",
