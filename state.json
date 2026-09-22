@@ -7396,32 +7396,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789764594785",
-    "1789771140082",
-    "1789774841253",
-    "1789775109496",
-    "1789776497960",
-    "1789777363509",
-    "1789782901554",
-    "1789784270585",
-    "1789785134669",
-    "1789791540411",
-    "1789791540428",
-    "1789799281456",
-    "1789801080460",
-    "1789805760796",
-    "1789806481211",
-    "1789823552828",
-    "1789824361855",
-    "1789828045907",
-    "1789828441980",
-    "1789040109478",
-    "1789762340241",
-    "1789771484224",
-    "1789795440078",
-    "1789800600687",
-    "1789803976586",
-    "1789807587983",
     "1789807800640",
     "1789808100330",
     "1789808520270",
@@ -13395,10 +13369,36 @@
     "1790082217858",
     "1790082952664",
     "1790083302816",
-    "1790083495898"
+    "1790083495898",
+    "1789999080010",
+    "1790030580825",
+    "1790055172382",
+    "1790059200454",
+    "1790059500126",
+    "1790061513187",
+    "1790063661321",
+    "1790068380484",
+    "1790069045248",
+    "1790074713823",
+    "1790076480427",
+    "1790077007975",
+    "1790077740906",
+    "1790079707597",
+    "1790080535729",
+    "1790081581386",
+    "1790081686227",
+    "1790082000925",
+    "1790083495684",
+    "1790083519661",
+    "1790083958576",
+    "1790083983238",
+    "1790084042197",
+    "1790084122917",
+    "1790084123167",
+    "1790084460082"
   ],
   "last_digest_hour": "2026-09-22T19",
-  "last_success": "2026-09-22T13:33:14.559774+00:00",
+  "last_success": "2026-09-22T13:47:18.721594+00:00",
   "national": {
     "alerted": [
       {
@@ -14720,6 +14720,29 @@
           "reported",
           "sep"
         ]
+      },
+      {
+        "at": "2026-09-22T13:51:50.987650+00:00",
+        "handle": "Gazette Ministry of Social Justice and Empowerment",
+        "headline": "New chairperson and members appointed to National Commission for Safai Karamcharis",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/276388.pdf",
+        "words": [
+          "appoint",
+          "chairperson",
+          "commission",
+          "empowerment",
+          "extraordinary",
+          "gazette",
+          "justice",
+          "karamchar",
+          "members",
+          "ministry",
+          "national",
+          "pleased",
+          "president",
+          "safai"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -14961,9 +14984,11 @@
       "CG-RJ-E-22092026-276385",
       "CG-TR-E-22092026-276387",
       "CG-WB-E-22092026-276380",
-      "CG-DL-E-22092026-276389"
+      "CG-DL-E-22092026-276389",
+      "CG-DL-E-22092026-276388",
+      "CG-DL-E-22092026-276390"
     ],
-    "last_run": "2026-09-22T13:36:41.407769+00:00",
+    "last_run": "2026-09-22T13:51:50.999762+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16134,7 +16159,11 @@
       "pib:2313599",
       "pib:2313597",
       "gazette:CG-DL-E-22092026-276389",
-      "pib:2313605"
+      "pib:2313605",
+      "gazette:CG-DL-E-22092026-276388",
+      "gazette:CG-DL-E-22092026-276390",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63646",
+      "pib:2313612"
     ],
     "source_failures": {
       "CBI": {
@@ -16174,7 +16203,62 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Blink Digital sues Meta for Rs 1,000 crore",
+      "post": {
+        "created_at": "2026-09-22T09:24:05+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1790069045248",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Exchange4Media",
+        "reposts": 0,
+        "text": "Blink Digital sues Meta for over Rs 1,000 crore over disabled business accounts",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2RGQUVpa0Z5WWI1ald3c0p2RGZla2RJVEFMUHdVUEZ4bEZxelpGN0MxQm9xbUEwUzNDUkJnM09HZ01rbDdHdkxrV014VlBOOGhwZUNJVm1KcTBPOHR6RldJeVhXdGU3Q0d4NEdKTDNrSjEzUzVKeFNJNkJ0RjcwalJheEk2NkJCWHJZR3BCQWFpNmdRVEcwMzdFRnh6QXN2eEtYUTZMdXlmdWFjM2VIaWNEdWhpTkRuQVliQUJ4VTRTTmNzTEg2aWtJQ3Z1MW8?oc=5"
+      },
+      "queued_at": "2026-09-22T13:47:18.704961+00:00",
+      "score": 8.0,
+      "why": "A major legal suit by an Indian agency against Meta over disabled accounts is a significant tech dispute."
+    },
+    {
+      "headline": "ASML starts India operations, hiring 20-30 engineers",
+      "post": {
+        "created_at": "2026-09-22T12:54:46+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1790081686227",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "TechnoSports Media Group",
+        "reposts": 0,
+        "text": "ASML Starts India Operations: Hiring 20 to 30 Engineers for New Tech Hub",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45UzNPeDhyWjZUbFNQZTFPa0xqX29vTUZmREw4MHB3VUpwWUhNQ0E0OHBlNS1wV3ZsbGpyTEZ2cVJYczItZy1ZUFpSY05ZdUhrUjRYTVlpNS02U0pDUWhwMmZPLVVlRjg?oc=5"
+      },
+      "queued_at": "2026-09-22T13:47:18.704961+00:00",
+      "score": 8.0,
+      "why": "Provides specific expansion numbers on ASML's entry into the Indian semiconductor market."
+    },
+    {
+      "headline": "TCS sets date and details for Q2 financial results",
+      "post": {
+        "created_at": "2026-09-22T13:35:22+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790084122917",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "NDTV Profit",
+        "reposts": 0,
+        "text": "TCS Q2 Results: Date, Time, Dividend News, Record Date Details And More",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3FjVmkxX1V2YWZBR0NkbXJBTkJOM2Y2QVVoS1Z5Y2ZoWTNNdjBleG5rZU9lMmRHTDh5bEgyVkVrdXlwNGdOamp3UVgyMVdwdHR4YnBPOG5hRU5XNGk0Y1FCVk43M1hMZjhDMVYxMWVZbzhDWmkzY1h1ektQTXF4S2kxSnp4eklOWVRFOE51djZhOWNwMWgtYkJuWjVXbE1oV1JqU21TeDFyY1ZPaW5PcdIBuAFBVV95cUxQZzRSZlhycTl0X3RsMURqSjBOZXpUWjBCT1o4OVFxdlhGS0VQVVVmNGxaTFY4VFN1YkNYTDE5VjMwY2N0ak1sZDR5Y055cFF5alVVN1lhUTkteW5NTW9iZXJyVlJZUno1aE5LUG5USUJjX202RndPeENqVnJwcFJtYko1VFZtUG1kVFlTSUJZYWhHMUZlMFR1aEd5QU5MY0NTa2pBZnpDb0taNEZBZXZOeTlqRlNiVVdn?oc=5"
+      },
+      "queued_at": "2026-09-22T13:47:18.704961+00:00",
+      "score": 8.0,
+      "why": "Quarterly result schedule and dividend announcement from a top Indian IT major."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17180,13 +17264,13 @@
     "news: global it services": 1790081376377,
     "news: india ai deeptech": 1790080912039,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790081632645,
+    "news: india fintech": 1790084460082,
     "news: india semiconductors": 1790083302816,
     "news: india tech policy": 1790081221126,
     "news: india telecom": 1790081621400,
-    "news: indian it majors": 1790082952664,
-    "news: indian it midcaps": 1790082405953,
-    "news: pib releases": 1790076480034,
+    "news: indian it majors": 1790084122917,
+    "news: indian it midcaps": 1790084123167,
+    "news: pib releases": 1790076480427,
     "news: tech leaders": 1790083495898,
     "nvidia": 1790078441723,
     "nvidia blog": 1790078441723,
@@ -17223,7 +17307,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T13:33:14.847911+00:00",
+    "last_server_run": "2026-09-22T13:47:19.054727+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T13:34:12.382082+00:00",
@@ -17502,7 +17586,9 @@
       "CG-DL-E-22092026-276379",
       "CG-DL-E-22092026-276381",
       "CG-DL-E-22092026-276382",
+      "CG-DL-E-22092026-276388",
       "CG-DL-E-22092026-276389",
+      "CG-DL-E-22092026-276390",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
