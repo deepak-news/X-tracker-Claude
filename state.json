@@ -7348,15 +7348,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789743313328",
-    "1789743393234",
-    "1789743436158",
-    "1789743444586",
-    "1789743517058",
-    "1789743600565",
-    "1789743835059",
-    "1789744002214",
-    "1789744466396",
     "1789744500310",
     "1789744520539",
     "1789744550497",
@@ -13347,10 +13338,19 @@
     "1790033887087",
     "1790036075478",
     "1790043128364",
-    "1790043850618"
+    "1790043850618",
+    "1790000753783",
+    "1790039232862",
+    "1790039456370",
+    "1790040668133",
+    "1790044140709",
+    "1790044232624",
+    "1790044260159",
+    "1790044466948",
+    "1790044690018"
   ],
   "last_digest_hour": "2026-09-22T08",
-  "last_success": "2026-09-22T02:32:33.304196+00:00",
+  "last_success": "2026-09-22T02:47:06.847688+00:00",
   "national": {
     "alerted": [
       {
@@ -14861,7 +14861,7 @@
       "CG-DL-E-21092026-276376",
       "SG-DL-E-21092026-276375"
     ],
-    "last_run": "2026-09-22T02:35:14.019789+00:00",
+    "last_run": "2026-09-22T02:51:24.768047+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15994,7 +15994,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "AI expert loses contractor employment case against Infosys",
+      "post": {
+        "created_at": "2026-09-22T02:34:26+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790044466948",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Information Age | ACS",
+        "reposts": 0,
+        "text": "AI expert loses \u2018sham\u2019 contractor case against Infosys",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVW9OVERDZzhENXBVZ0FFYkZzczFFNWNfS2VDdE9IRmVkcDJOZVc1Um1FLUtoMUZiQlRpYlBNRFNmRVc3ZUFvc2Z4M3ZrUzNKcVJ5a2NnU0NxSW0xWWVhNDBFWXo1RlhZTF9lU0lzX0F3eXNQZ1dlSFpYaDE4T29jTUVnQ2JYeUloY1BWOEhZN3dKTmV4UjNrdFNR?oc=5"
+      },
+      "queued_at": "2026-09-22T02:47:06.841164+00:00",
+      "score": 7.0,
+      "why": "Legal development involving a major Indian IT firm and AI personnel."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -16978,20 +16997,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790031597539,
-    "news: consumer internet india": 1790043850618,
+    "news: consumer internet india": 1790044232624,
     "news: global ai": 1790033375312,
     "news: global chips": 1790038980798,
     "news: global it services": 1790036075478,
     "news: india ai deeptech": 1790039788326,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790043128364,
+    "news: india fintech": 1790044260159,
     "news: india semiconductors": 1790040642307,
     "news: india tech policy": 1790034428959,
     "news: india telecom": 1790041712514,
-    "news: indian it majors": 1790037060368,
+    "news: indian it majors": 1790044466948,
     "news: indian it midcaps": 1790037000660,
-    "news: pib releases": 1790034562753,
-    "news: tech leaders": 1790018520813,
+    "news: pib releases": 1790039232862,
+    "news: tech leaders": 1790044690018,
     "nvidia": 1790013607775,
     "nvidia blog": 1790013607775,
     "openai": 1789992000699,
@@ -17027,17 +17046,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T02:32:33.633718+00:00",
+    "last_server_run": "2026-09-22T02:47:07.197554+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-22T00:33:50.059746+00:00",
+        "checked": "2026-09-22T02:47:55.160606+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-22T00:33:42.371969+00:00",
+        "checked": "2026-09-22T02:47:47.569984+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -17113,7 +17132,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-22T00:33:46.314464+00:00",
+        "checked": "2026-09-22T02:47:51.413008+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -17167,11 +17186,11 @@
       },
       "last": {
         "calendar": "2026-09-21T21:17:38.315082+00:00",
-        "ls_reports": "2026-09-22T00:33:27.324461+00:00",
-        "rs_committee_press": "2026-09-22T00:33:37.001811+00:00",
-        "rs_press": "2026-09-22T00:33:33.948713+00:00",
-        "rs_reports": "2026-09-22T00:33:31.489707+00:00",
-        "rs_updates": "2026-09-22T00:33:38.554206+00:00"
+        "ls_reports": "2026-09-22T02:47:31.566387+00:00",
+        "rs_committee_press": "2026-09-22T02:47:41.731723+00:00",
+        "rs_press": "2026-09-22T02:47:38.884264+00:00",
+        "rs_reports": "2026-09-22T02:47:35.873659+00:00",
+        "rs_updates": "2026-09-22T02:47:43.648823+00:00"
       }
     },
     "scanned": [
