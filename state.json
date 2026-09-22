@@ -7390,20 +7390,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789811580657",
-    "1789814247224",
-    "1789816260491",
-    "1789817340822",
-    "1789819200718",
-    "1789823394462",
-    "1789823400239",
-    "1789824603180",
-    "1789825800850",
-    "1789831659192",
-    "1789831715573",
-    "1789831800202",
-    "1789831948005",
-    "1789832001766",
     "1789832156369",
     "1789832340646",
     "1789754760113",
@@ -13389,10 +13375,24 @@
     "1790086870964",
     "1790087220743",
     "1790087354765",
-    "1790087474366"
+    "1790087474366",
+    "1790034644423",
+    "1790048821289",
+    "1790062649311",
+    "1790064665746",
+    "1790073223553",
+    "1790076404951",
+    "1790077136360",
+    "1790081670583",
+    "1790081823947",
+    "1790083440747",
+    "1790083947992",
+    "1790086870426",
+    "1790087580898",
+    "1790087582646"
   ],
   "last_digest_hour": "2026-09-22T20",
-  "last_success": "2026-09-22T14:36:17.570590+00:00",
+  "last_success": "2026-09-22T14:48:54.166177+00:00",
   "national": {
     "alerted": [
       {
@@ -15007,7 +15007,7 @@
       "CG-DL-E-22092026-276391",
       "CG-DL-E-22092026-276392"
     ],
-    "last_run": "2026-09-22T14:42:02.973586+00:00",
+    "last_run": "2026-09-22T14:51:32.298382+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16226,7 +16226,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Google and Meta CSAM reporting implications for safe harbour",
+      "post": {
+        "created_at": "2026-09-22T14:33:02+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1790087582646",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "CNBC TV18",
+        "reposts": 0,
+        "text": "Google, Meta CSAM reporting: What it means for Big Tech's safe harbour in India",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZE1LR1hKcE9GWWhiSXh2aDFCN3V6emNJMUVxbE10djJUVHgyQ210Rll1WjJNV0FhZUVQeWtWbUtWakUtZlVqUVI3UVI0bGpZVEtaT0ZvVy1PdEVSaUVsN0pEVmtYeUo4MFA1SDNDVFE0LS12bEdQMXk2d19fNWxVVmhNWkhvd1JQOWRDb0ZPcXVMWjFlZDQzaC1YdnJqdjBMc0dNa2xNWWxVZFIyUkVPTFMwTUk1T29ON1NHWURB0gHDAUFVX3lxTE9BUDlMOFNvTXhuVXpyYkE1UndzQnNwSG9uS0FxN2ZfX0dOY3h0ajBHRmo5MXhpTG9vN2xHZ3FZZEtLdm5lOVRKemptMlRJWkZwRU5mbkNSS2l4SnZPVG95WDhRZ2hYUUdnYVQzYlBYZ1BYMEFYbmxYWVNSV1JSMi0ySG9JdGZMeTZmSmFHbU5mcEZjalY2aXY0Zk82eXlhOG5ZWWhPTE0waEp3bnhoSGM4amFRVHV1dVZHWDM3NGRiT05qVQ?oc=5"
+      },
+      "queued_at": "2026-09-22T14:48:54.146854+00:00",
+      "score": 7.0,
+      "why": "Regulatory compliance and safe harbour discussions involving big tech platforms are relevant to Indian IT policy."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17225,7 +17244,7 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790086723671,
+    "news: big tech platforms": 1790087582646,
     "news: consumer internet india": 1790082349781,
     "news: global ai": 1790080345430,
     "news: global chips": 1790086522617,
@@ -17237,8 +17256,8 @@
     "news: india tech policy": 1790081535101,
     "news: india telecom": 1790086471157,
     "news: indian it majors": 1790087474366,
-    "news: indian it midcaps": 1790087220743,
-    "news: pib releases": 1790083904235,
+    "news: indian it midcaps": 1790087580898,
+    "news: pib releases": 1790083947992,
     "news: tech leaders": 1790083495898,
     "nvidia": 1790078441723,
     "nvidia blog": 1790078441723,
@@ -17275,7 +17294,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T14:36:17.832130+00:00",
+    "last_server_run": "2026-09-22T14:48:54.498869+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T13:34:12.382082+00:00",
