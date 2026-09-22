@@ -1,248 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-17T17:47:14.052517+00:00",
-      "handle": "Anthropic",
-      "headline": "Anthropic launches Life Sciences Verification Program for specialized AI models",
-      "tier": 1,
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "words": [
-        "2026",
-        "announcements",
-        "anthropic",
-        "article",
-        "gives",
-        "introducing",
-        "life",
-        "lsvp",
-        "program",
-        "published",
-        "sciences",
-        "sep",
-        "today",
-        "verification"
-      ]
-    },
-    {
-      "at": "2026-09-17T18:32:14.819595+00:00",
-      "handle": "News: Global AI",
-      "headline": "Huawei pulls forward Ascend 960DT AI chip launch",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0FxRWNqNmdJS2N1Mm9QaDVNcHktaU5oY0Zfb2ROcHFLY3dWSXQ2U1pKYUc2dFk2VWFEc1prMGZkMFljT2RLTTJkSlpGa3BkTEJMNkZKOUU3Ql9qMFA3LTd3QUY0OGN6Z29aWnVOdW9IODM1bUFwVjNRSWhVa3QzczdEQVRzUWc4MFFKdnZtS1BjZ0RsNk54cDAtRQ?oc=5",
-      "words": [
-        "960dt",
-        "ascend",
-        "chip",
-        "forward",
-        "huawei",
-        "launch",
-        "nvidia",
-        "pulls",
-        "take"
-      ]
-    },
-    {
-      "at": "2026-09-17T18:32:14.819595+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Ashwini Vaishnaw says Indian semiconductor plants compete globally on cost",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVldJMmdweFlWSkNwUkZQNnZyNWZzLU95ZWJtWWxqTWRObXVmWlJ1aFFqYnB2NlBCSE1IQ19tOG1qamxITDVFTWtfQWRrcm9GdWYtekJVN0toZDhWckZDLU5SQmw0ZmhJWnFadkhCTzFyVEwtWTVXS3VwOGF4X3RWX3djZ29HLWRZenJXclRoNXhjNW1iZnRncE5pU0RyckxKeVR5TkdkMV9YMFhaR0gxNGZPeHFtZHpsU0w3Qm41QjExSkFMMDA3LXBB0gHXAUFVX3lxTFBwU21CY28wYlZXcnRZWDJPclNrOURza3NxZVNDQmlzd044anRXT0RTcFFvajIxcGY4WDIxanFYVVpTVFQtSGVZdVEyN2JXc2dOMlV5UmhiVC1KOW9yUk9IVFJUaGktNy1yN3d3UFV4M2pBRlNxdGFraUk5SDQ0VS1zNTBlSTQ4OUhpSzZQNzY3dHhsSkxvcV9TRW9WNjAwb0NhVmkxTUdtT3FuZzZ3UzRCdXBDTEdYd3c1eW9PMVBSNTdCOHZkb0NwX0pLVDB0NmtsdFFpakdJ?oc=5",
-      "words": [
-        "ashwini",
-        "competing",
-        "cost",
-        "globally",
-        "now",
-        "plants",
-        "quality",
-        "semiconductor",
-        "vaishnaw"
-      ]
-    },
-    {
-      "at": "2026-09-17T19:32:07.534565+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Amazon calls for rigorous AI safety testing and safeguards",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVzFlZ0JjN050b3U3Qm9WeFdsZ1dCWHRLVVRpX2Y1Yk13TDcxTDdpTVVwVE81ZW9VcU8zZXBwUkNGY2lyMnJYZm5FQ3hSbHNRc3lXblI5emNYVXFjYXFrNU81MGF1QnFHUnJQUXRYdUNNN1NnVHU1dFZMVWR6N2FmT3gzcElsWjNPOTQ3a3RyWVp3ZHVzSWk4V0pfa2cwbDJlSkdHZndQSG53ZVAyUGh1T2UyWEd1ajgwN1BTUEhmWDdWcWFZM04xOWFSQmhVdVlyNVg2cVBiONIB1wFBVV95cUxPVzFlZ0JjN050b3U3Qm9WeFdsZ1dCWHRLVVRpX2Y1Yk13TDcxTDdpTVVwVE81ZW9VcU8zZXBwUkNGY2lyMnJYZm5FQ3hSbHNRc3lXblI5emNYVXFjYXFrNU81MGF1QnFHUnJQUXRYdUNNN1NnVHU1dFZMVWR6N2FmT3gzcElsWjNPOTQ3a3RyWVp3ZHVzSWk4V0pfa2cwbDJlSkdHZndQSG53ZVAyUGh1T2UyWEd1ajgwN1BTUEhmWDdWcWFZM04xOWFSQmhVdVlyNVg2cVBiOA?oc=5",
-      "words": [
-        "amazon",
-        "calls",
-        "enters",
-        "fray",
-        "rigorous",
-        "safeguards",
-        "safety",
-        "testing"
-      ]
-    },
-    {
-      "at": "2026-09-17T21:32:13.682644+00:00",
-      "handle": "News: India fintech",
-      "headline": "SEBI to review stockbrokers' concerns over UPI MDR framework",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQllBX01OQVJZVXEwcDhzVEhIRHRHWGl5STl2TWQzVklaTlZHU1RnWlh2R3VraThwa0FtWG90MVpwS3hkOFJldmNQdVNPdHNycFVVTGgzRnJPWlJzV2Q1ejJXbHhOTUtQZlk5OERyUzB1Z29BcXM4SnZPRER6TmxDNkZYTmZIT0hmYmhLeTVnQU9WYWVZdUQzaVVzNGEyNU8xM2ZfYTlzQ0RTSHdQc0cyUVY5OUp3WFFuVElEVQ?oc=5",
-      "words": [
-        "chairman",
-        "concerns",
-        "framework",
-        "into",
-        "look",
-        "mdr",
-        "stockbrokers",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-17T22:32:15.690097+00:00",
-      "handle": "News: India fintech",
-      "headline": "Govt and payment gateways discuss preventing merchant UPI fee pass-through",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObUdKT2oxLXFlMDdsblFiZlUzblk1c1NBdTFnOU5CSXJJRmV1enhDZWJic1VQcERfN01zQVpJN180YUVnc2JTV1pzcEYtenNYdzFlX2NtYTZUN292QU1uTWVVSjRJVGNWN0t1cEJXbkZjbXZNcnp2Y0tmTlRJUWo4VklOcnNYcUpFMkg1NDB1azJRX0Y5LUJRN2NsdWU1UGNUY0UycjlLTV95MWR4MXRUNzBRajVnVm5iLUVUMXhGUmdaak00RVJ1UGJFZjQ3Y0ZZYmdQUldjejZMSURaYlB3Z3BVbkpFNU5EU2Juc3FQZXVSUUpqYzE3SFdXVVJJVXdRejJNUmNkX21BUmdj0gGSAkFVX3lxTE1iejBwdUpjX1dCb1ZNUmx1dWowdklNZEloTlZJT2FPY0lvMVRhejBLcktvcmY1V242TVlpMXl3ZWctSE1JcUVyQ0toSUJGaW5jY3YxUFdvcmxyU0xucU9zNjFHZUw2bDZ2RXktWUZ0WUFBdF9jaU43Tmg4RWVxdWhILU5HdnBQZWU4Q1BrUmJCVndSYUNORlExYlFTVDVtNlhPNFV1c0ZMZFlaeEhvMDdwdnpaVWxCZlhpYWNyOU83UTl4VzJLbEVRbmhvLVhPbGJGNHVDNmFMYkZZX0lCWnhkVlNOYkVna2xDd1FIclhIbDRDWkxPTXV1Mm1BRDc2RHRfZGs5M2RLN1ZITzNIeWh4Nnc?oc=5",
-      "words": [
-        "burden",
-        "consumers",
-        "discuss",
-        "fee",
-        "gateways",
-        "government",
-        "merchants",
-        "passing",
-        "payment",
-        "stop",
-        "upi",
-        "ways"
-      ]
-    },
-    {
-      "at": "2026-09-17T22:32:15.690097+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "Court records show Microsoft exec called AI 'largest theft of labor'",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5JUWVLTF8yTV9JX2c5eFRtVm1PbE42LTg4eEVLTWRSVkctRUZ1M3l1dDZnYWxfSXdheDRmeWl2VVdQU0JSX1VFeXRqM2cxZVE3T0J0dVpkcGlQVGVYUnZCT1puSTgwUVFSbENObzZ3MjRZX01lM0hIVFl1ZjNodlJHYTUwZUE4eTFYSUNUaUNyRHZoNXRNRG4tTTZQc1AzQkVVVkRqU1ZJMU5iQXFfcDlUS05KajBUcVlkaHdtbzI?oc=5",
-      "words": [
-        "called",
-        "court",
-        "exec",
-        "history",
-        "labor",
-        "largest",
-        "microsoft",
-        "records",
-        "show",
-        "theft"
-      ]
-    },
-    {
-      "at": "2026-09-17T23:32:16.837360+00:00",
-      "handle": "News: India fintech",
-      "headline": "Rajasthan traders protest UPI MDR fees over Rs 2,000",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc1QtQ3hGc3lXSjRzWjVaX3ZrYVVQSmpSRlBsV0RjWl9odi1jVDJ2cjNZMWxaa281RmJ1ang4Q0szOXd1SVAxVkZXLXhmZ1BDWU1FNjk2U0hPeEw1Q3NUR0pId3VqNDB2bDB1ZkpURk9zR0pXUVVMODgwbGFXTGFOR1ZrcDY3Z2V3QjdHdHJSX0xRaEljcTludEdhZG5IeUwyNVpaTDYyVWZZUk9XUEVhYXVleWZ0M2VraTJNbUtXR0szVFVkYkY2cXpQbk11T1ZHUmJ4UWVtQzAtUlZIVURMS2dHNnfSAeoBQVVfeXFMT0YtTHh3MlRYNUt6Si0wWDRkajFYR2VTOVJrSFBnd3pNZXk5QTlpVi1WdVlDaVprakktalM1Vl9fX0xoV3pVdUJuQkQ0MmpCYkdsS1h5dTdqSWdIUW1HSGNqMV83R2plLVBabENXUklwV2RRNmNGd083VFk2TTAtakhmQ2EyVl82ekJ4VWtkdUVTMlZFWk5LejFieFRkbFdQZ1JkaGU4TlVzVGdIME5XZ1U0U0xWcXhxaWZBY1VXeGtMUTFoT0tZcUM3SkJnbmxGNkhRYUxfWDdGMHRzNGZEWG5BQkoyaV9FTTRR?oc=5",
-      "words": [
-        "000",
-        "action",
-        "court",
-        "mdr",
-        "payments",
-        "price",
-        "protest",
-        "rajasthan",
-        "rise",
-        "threat",
-        "traders",
-        "upi",
-        "warn"
-      ]
-    },
-    {
-      "at": "2026-09-17T23:32:16.837360+00:00",
-      "handle": "News: India telecom",
-      "headline": "ideaForge Technology releases yearly financial results",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT01sdDdjQmxmb3hpZzI1cl9uM0VRdzFWV3IyNUlwMm5FdFJMWnVDeUw5aU9zRHNMU2xycHVmM3h6NDJjZTVuLWF5WklkZ1RJYlV3dVBMVWdwTm10ZWxWTGNlV2xHWTltYW9LVnBZUm9GS1Q1cHZLWURUM3JrN0JFNjZrM05kSVk0WlM0d3ctVmtsejQ2THJB?oc=5",
-      "words": [
-        "financial",
-        "ideaforge",
-        "results",
-        "summary",
-        "technology",
-        "yearly"
-      ]
-    },
-    {
-      "at": "2026-09-17T23:32:16.837360+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Micron, Tata, and Infineon outline next steps at Semicon India 2026",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN0hXRWJ6dkZFTmRBR2t3NDlMTTM0SE0wWktwRXZWdlZPUlE1RUwzRWlRanYtZ0sxVlJ0WFVBMFdVVUZiTmp3TUxWOWxjeFMxU0U3RmdVcVY4dmZNSEtXUUNwd25DMHJlSmFvdXJIbzdicVpqUGdycnNoT3o2Q0x6Nl9NcUQyVXV6cEwxVkQwb2xWaHJaOVQwR1JkVVBIR2hmQ3NCeXRPUUcxS1pxeE9hTUdZRzdlQ29lU1hHX2VlYmVKaENmVXBhRFJJcU5VbkVQc0pQbkZJSdIB3AFBVV95cUxPTTc3WlljdVZyMlNKVmFDdko5Z0Z6cHBoNmpHbC1TZEltSDR4bFB4MnJfTFdYV3RhSlluQ3NIc19wUkUwYmhHYzEtLTlTRUYtMlFHUmJUdU5IdENGYTBuZS1fRmFVQkpha3o3WE5ETXRLNEpUdGRSOW5hV1dNY3Z2NTFEME1hTEVockR4R2p0MkEyeTJZb01xM2d2TmpFemVkb2NGcVJZQm9wT2ItQkFtZS1vczZUT09wSmNIV0NsZk9PaFY5aDJ6VHJUUndLZFJ6azdyY2pxOG5Ob2dh?oc=5",
-      "words": [
-        "2026",
-        "chip",
-        "expansion",
-        "infineon",
-        "micron",
-        "next",
-        "outline",
-        "semicon",
-        "steps",
-        "tata"
-      ]
-    },
-    {
-      "at": "2026-09-18T00:31:44.787611+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Wipro launches STO360 solution with Aramco and SAP",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1UxU3dyVkRBVEx6Y1NqMGpOdlU4ek44a0lLaUNFbUF5bC1KTHh5RHd0VnNkWUY4QTVqV1cxTEVDZUsxMXhJSFpJLWVxUm1nNVFOMklBdmxKNU8tc1BmOVVrTVpabFJXZ3hQbkFkeUUxYlF5bFVpZXQxaFlaeDNvZ08xNkh1MlRuSUp0WHl5OHViMzR0NGRtWFEyaVV5c0dPVkE?oc=5",
-      "words": [
-        "aramco",
-        "launches",
-        "management",
-        "sap",
-        "shutdown",
-        "solution",
-        "sto360",
-        "wipro"
-      ]
-    },
-    {
-      "at": "2026-09-18T01:32:21.713748+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Wipro appoints Ujjwal Jyoti to head GCC practice",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jRkNyX0pWNFEtT2MwQ0NsbXNIMnZLcTJSQmFmT0Y5WExidmdndXZUNml1ODBfOEtHbS04dnNwWnhZbW05Tlo4VUpTOTlZejZwaHhFdl96VS00VEpMQ09DS1lreE44VUVpSE80?oc=5",
-      "words": [
-        "gcc",
-        "jyoti",
-        "lead",
-        "names",
-        "practice",
-        "ujjwal",
-        "wipro"
-      ]
-    },
-    {
-      "at": "2026-09-18T01:32:21.713748+00:00",
-      "handle": "News: India tech policy",
-      "headline": "100 entities adopt Aadhaar-based offline verification in three months",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmNjclg3dFJtRkt4UU55MnVKa2VRR3pPSTZzTm9NTkZ2OTNILTl3dHZEYWdrOE1uM3pydGJJZmc4R2tJcGdxSFdUUnV4VXFYeF9vbG5LenJJQkF0NjNZNWs1M20tdHRlTFNsTnpLUkRLaHNJRnZ1RGRBRkt2ZHJfdWhzMkppUjRhbWxuTEtFM081cjI4dEVrU0Foekswck5mQjF0am15OUt1d05tY2V4M1oyZmlEZw?oc=5",
-      "words": [
-        "100",
-        "aadhaar",
-        "based",
-        "entities",
-        "months",
-        "offline",
-        "onboard",
-        "rollout",
-        "use",
-        "verification",
-        "within"
-      ]
-    },
-    {
       "at": "2026-09-18T01:32:21.713748+00:00",
       "handle": "News: India semiconductors",
       "headline": "Inox India bags Rs 50 crore orders from Tata Electronics and Micron",
@@ -7366,39 +7124,250 @@
         "sanghvi",
         "sarvam"
       ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio Platforms files for IPO with SEBI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFBlT1JleEJoRE90SXFfWEhVMkVjdkk2NDlKNTZVWU9zRVN6dHRweXZJaDk0TzJnMk9QX05FRnNmTmt4RGVuQWo0SWJpc2ZHakphcDhsRzJ0ekFpSG8yOVNfSjhIYkZIdnp0UVJRM3NoU0NTVjZLNzVVZzNFWmdFNWZ3OVFQUzFkYm9XRTBuRDB0ZnEtekdjQnVtNGR1SUNEeFhLV2RQYTU5Z3lqQnA0Y1NSdnFvYXVSQ0FVNF9n?oc=5",
+      "words": [
+        "broadband",
+        "clean",
+        "energy",
+        "filing",
+        "follows",
+        "ipo",
+        "jio",
+        "platforms",
+        "reliance",
+        "roadmap",
+        "satellite"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Persistent Systems to acquire Nagarro in EUR 81-per-share offer",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3JFNGJGZnZMZC1DN3Rxd0I2cHZtb2hhVkV6TGkzTlpVRDltZ1VvLVNRVHpGV3pNSkd0WjIwLWU4TE1Gc2d3U0dhdFZCeUFSaGFrNENkbVVxa1lsMHpGR1R4SFotVEM1cWZadDNXM0czVkhkdXQzWEFlOWVGajFld2lDdWQ4b2pfUzJYWHhCVHd0VnhQYmJPcnZyYjFJbUlhRzlmSTRPYjVjUHBQZl8yb1NxV2pzZDRj?oc=5",
+      "words": [
+        "acquire",
+        "deal",
+        "digital",
+        "engineering",
+        "eur",
+        "led",
+        "nagarro",
+        "offer",
+        "per",
+        "persistent",
+        "systems"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Amazon, Google, and Microsoft commit USD 80.5B to India's AI boom",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3RBTjctUER3dDZoSEZUUzFxdU40V2daUVVTWkhXTmY4OVBmMlhtc2JZVmRjdUtQZjZFcDZ0Mmctd0FUVGQ3d3h1bVczSE9SdXpOMHJKODZMNnNRZXBWaDVLN1hOWnF5cmtmZE1iQndFaXhDYmRyZ3hqbEJfMHpyVVdJaWhkd05nQmxpeTJ1c2kta1ZBQkxB0gGkAUFVX3lxTFA5WElKUkNEalhjRHdjVTVYeUk0cWI4bDB4UlVTR0tSc0dCNjh4WDlUeURvQXhBQlVyUXlBMlNqNld1YWdjT2ltS2FFQktXcWx6bWlIQ3N3Vm9CSWJNOU0ySWRwNWpITTBINDRvbnNpNkNjeVhCRVotWXVzOVBad1drc1MzTFcyc3JtZEhqOUF0YVJ1bWtjbEExZUtSNjUyV2phMnJ1?oc=5",
+      "words": [
+        "amazon",
+        "bet",
+        "boom",
+        "google",
+        "microsoft",
+        "usd"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Nagarro stock gains deal clarity as takeover threshold met",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMm5QbmNoaTd1QmxPalVla0YxdVR6dnlFOTVmYkZCMXRsQjdjMU1NYzg4WUtmd09qZmtodkVkbmpFWFk5c1RCUF9VYzhDSlNfbEY3N1YtMkZjSy1CdFItVktSYm5pTkNsZF9QU0YwWmxMMFBDUG1weFAtdlc4XzVPdEZFQlltZHZOdFdIN2xYdU1ZWjR6UVB5cVQyQ2dyaVpVb3lacDZjVEdvYy1sNy15UlhKSXVubFdETzRZanVKSGZuQQ?oc=5",
+      "words": [
+        "clarity",
+        "deal",
+        "gains",
+        "met",
+        "nagarro",
+        "takeover",
+        "threshold"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Zoho adds agentic AI controls to Catalyst development platform",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcW92cHFsM3pJbDJGWmdVeHBHN1ZRMnZ0OFlqVDlZcEsxRUQzekh3U0NhWnNieGFGSTFoX01VTnRtOXg0MktHTVpvc2J6anM5OVk4ajRtSlEzbXB2V2h6eVloUS10TDVuNnF3QkkyT2Fzanh0VlBCTkpDelAtNUZTMVVsR3RIUE43WWE4cFJ6aHRkLW81Tmt0ZC13ZTZQMG9hRC1ldVRZc3pTUklnYWpkRlJ3?oc=5",
+      "words": [
+        "adds",
+        "agentic",
+        "catalyst",
+        "controls",
+        "development",
+        "production",
+        "software",
+        "zoho"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "HCLTech wins IT transformation contract from M Group",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaGhfMHU4SHhlWXZERUJsalZiOU1PcWxrUG9pV2JfN256Zlotc3JCR0dQSzFLa2thUmZBRGxYNGdwV2R2YzV0WHlGRWZkYnZ2QUw0SlJpc2VfSjVUMjg2aE9kRUlqTUJ3dFdiMDY0SktVTWU1WXFPSFRya0hfTVlNMVY1NDBhU0t4VXJZeVU1WUJid0RDVkFLWTRWNVl2dmNXOHVtODNidFNHdmMxdHFQLURaU3VlcGowbndLcEQwMXVXTmthV21id2RQbXZCdnpPQzdSb0d30gHbAUFVX3lxTE5aZkQtdy1hY3M2WkZYd2hPSjN3eHJtN0p3aXZyUldzbjlubFpROWJFX3dRVmJVeGhya21NOWdhMGlSRTBZZlptT0x6NmRzVG93TEFMRHVKRVN0Nkg2eVg2RFNTTXhQbmMtVzdxYlM4ZEk1ZjdCWGlKMk1LZVNjb1B4ZnpYZWJubnBUcDdPbk9mU01MTnBPa3dGcFJkMDBHZm5WWlhOSEt0Zno5RlJ5alVUMEZsNFJ6SVp2LVFMcDh6YS12U1A0SWRtRGdITUpCV2FPN25SR1FwdHFfcw?oc=5",
+      "words": [
+        "deal",
+        "group",
+        "hcl",
+        "technologies",
+        "transformation",
+        "wins"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Govt bans low-quality phone screen protectors, issues guidelines",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdXgwZk1rdTk2TTJqcVNIXzMtaG82eFpsY3VTWWtkMVZ0MDNSOE1PeWVYblBLcHBZOV94UENxZFZ0MFZPTGhHeWdrRDVWdUNHTFpuNVFHZUdQYTh1MUMzX216eXpHTTNodVpmQ3FOUDFpbVlxdE5RZEhtWGtGSTZjX05VREhuVXl5ZW95aWFtN3duYkNiTEhfbVNsVEFhQjk3Tjdrd0VrTm9JN0tnRzJtbDdubmJSSzBIMVdlRE1nbWF1SXp2UGVSemdPZmxQZkHSAc8BQVVfeXFMUHV4MGZNa3U5Nk0yanFTSF8zLWhvNnhabGN1U1lrZDFWdDAzUjhNT3llWG5QS3BwWTlfeFBDcWRWdDBWT0xoR3lna0Q1VnVDR0xabjVRR2VHUGE4dTFDM19tenl6R00zaHVaZkNxTlAxaW1ZcXROUWRIbVhrRkk2Y19OVURIblV5eWVveWlhbTd3bmJDYkxIX21TbFRBYUI5N043a3dFa05vSTdLZ0cybWw3bm5iUkswSDFXZURNZ21hdUl6dlBlUnpnT2ZsUGZB?oc=5",
+      "words": [
+        "bans",
+        "govt",
+        "guidelines",
+        "issues",
+        "low",
+        "phone",
+        "protectors",
+        "quality",
+        "screen"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: India fintech",
+      "headline": "BHIM introduces MyUPI AI assistant for support and mandates",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWotMGpZal95M01nU21iaTNjSjBuZ0dMWjN4d2dVOFlYaXhYeGJ1NnNYVm5kcV9ZQWxMT1lkQmpVTTAxNzFyMUttd0lNSFl3b1QxaFhadVZ6VWRydnUyODFLR0ZzaXpvRDNXN2xDQUdZbER0T1Z0VWZQWkN6c0F4LWEzVmxjZ3JKeE9zWUF6U1ljR2I5VmkzZ2Z4eXJDSzBFcFFtRE1RUVJzVjNxNGlKb1Fqd0VMOW92MktzRnJkOFFGZVXSAcgBQVVfeXFMUEpUTUVIb1pFblNCTnNwNENVLUxra2VVSlJ2VWhmZXRLcS01ZEdiaWxNRWdFSDVtU0Zra19GNnhtRmZ5YXFLTnRaRVN2bnhKdTlXYVQySDF6QkViWFV2RmVLLWRrNWxzRnF5WGhDd0x5LS1ZTHk4QzNQVEtWOXpCVThaN3BJTkprUE15SG9hcTZWdjZGWThlQ2pCclJWelBzVWRpaHRSczlCRWJuY1NzVTUwVVlub2gyLXFzSHpjekxLcVlNejZOdGY?oc=5",
+      "words": [
+        "assistant",
+        "bhim",
+        "controls",
+        "introduces",
+        "management",
+        "mandate",
+        "myupi",
+        "safety",
+        "support",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: India telecom",
+      "headline": "TRAI implements new rules for data-free recharges for telecom operators",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU1pteVdVY2JZQjFtcXpvYVUtRmpiN1pIUmdvZ29nYVpETzF0Z2IwZTJuWTZBTXZLSko2YXVLelZXd19NbWM0WE9nMUU4dlVEZWRETF9XR2c2R0pTRmZqNEJvdjlROHJWOG11bjRqQUJRS3VIVGQ0enhhaTBZaXVjU0hmZm9QU25KSlNMRURvM19GbXRjOThaV3JaQkRqN1NEUEw3dmRrai05Y19kM25wekhuSEg5YmtCd2tFSmctZTNzTzZsejRyTDlOSjdmbnh6Mk5GSkZUZFJ1NnUtV2ZRMNIB5gFBVV95cUxNT0xZNmxoaUU5MERGMW8yTkt1NkJ6YTg1enIxYVJ1RnpERURhRktzMk5NaXQtTXNSMXJHWmZ3cUp3N18zZGRmR3hFY3NuZGpNSGZSVEEyZ3ZmVnlTNU83VS10RU1xQ0prb1lKN2VwQ0FpT1M4VWRhbFN6WDhZN0J4UU80SkQzRlJ3RmRzcHlDSmw4Z1BvRUsybkhnZURaOXhWdkdmLTRwSE5URlAyMGl5R01Cd3RiRzk4a0padGN2aGJSNWp2ZDgzb1IteGttTlphLXhFQnZvYTBuWHFKZF9EZl80di1BQQ?oc=5",
+      "words": [
+        "airtel",
+        "data",
+        "days",
+        "free",
+        "good",
+        "implements",
+        "jio",
+        "news",
+        "recharges",
+        "rul",
+        "trai",
+        "users",
+        "validity"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Smartphone screen protectors require compulsory BIS registration from April 2027",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONWwyMXU2dUVKcGwyS2lmM3pxYmFlMmxZeVZQUmx1U0pnUDJOb3NBNy1laXU4eTJ3VjdvMzh5Ti1pbkFQTkFuUGMxNkM4ZjB5RnJydE4zUWFQbTd4RzZ1MVpackJKa3RkOHRSX0xJTlVRaEVfOHVwV0d5MDJ5MUItZVBZaGtqcHJud21kTk5IVHdZVzV1M085ZnVtSWtKQ2hwTk1MNjVwaTBod01McVpmaGk5cjNXV0xWNWhQZWRJUGkxZWk2eWNUZ1BqQXXSAcwBQVVfeXFMTjVsMjF1NnVFSnBsMktpZjN6cWJhZTJsWXlWUFJsdVNKZ1AyTm9zQTctZWl1OHkyd1Y3bzM4eU4taW5BUE5BblBjMTZDOGYweUZycnROM1FhUG03eEc2dTFaWnJCSmt0ZDh0Ul9MSU5VUWhFXzh1cFdHeTAyeTFCLWVQWWhranBybndtZE5OSFR3WVc1dTNPOWZ1bUlrSkNocE5NTDY1cGkwaHdNTHFaZmhpOXIzV1dMVjVoUGVkSVBpMWVpNnljVGdQakF1?oc=5",
+      "words": [
+        "2027",
+        "april",
+        "bis",
+        "compulsory",
+        "protectors",
+        "registration",
+        "require",
+        "screen",
+        "smartphone"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: Global chips",
+      "headline": "TSMC spends $15.59 billion on quarterly capital expenditure",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWI4Tm5VUURWZldhTlN6c0hjelNTeGlwbzlZOUVVU0R2Tjk2UVFhemFQZFBfeGlraE5PT2ZGZHJGdTZnWlBCRlV1NVRPZ1BYM2pPUDJMc0E5M01nUVJuR19CZXV6cUU0VmtGU3RBT1VzX3Ayd0hMcS1IMGgyekdoelVlUnRJb254RGJWRldvQ25jN2M?oc=5",
+      "words": [
+        "before",
+        "billion",
+        "capex",
+        "here",
+        "means",
+        "more",
+        "quarter",
+        "single",
+        "spent",
+        "than",
+        "tsmc"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Agentic AI requires security checks before DPI access",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQY1ctWnNjeXNwU3VFQ1g5NGNYOWljelJuLUlkSWFTa1BWa1E3U3dxNW9WenN4bFVYbkExRzNfYVBxMUZIQkdjVTBkU0ZXXzI5bWZBdlpUbFk4NzQ0cFJzSVRTekRrODdGaGQ2S0tKLVFJLVZrXzJlYXgzQ2lJVXN5WU1iQjVHY0hjemxHaXFja1lfZmlCdTlTTDRNUGpELXVYWnFaVERKQU1wZFlKWjNCTm5aaDVkMW94NDNpRENkUHVXYkJQUVhncTJabmFDX1dRWk5YX2xXUzVPekc5N2NxNGhzNlJlTk5aZ18yZlNSRlV2Z25OLVFYal8weTVzN3ZPTjNFR2FlcVLSAY4CQVVfeXFMT3ZiaG1OR0lRWEtULUxORjZ5NlhkV0IxMXN2T3Y2LTlPYWdic3VZLXBvWmNFQ3gxU0dTdUZSRkJfZGlwam9mNFNEZ1Q2SERSRF9ZZE8tVXBjTENLVVc2NDVBb3VYelJIVjVvb0REdlNiMW91WVQxd2pubFFGTGxqODhVZW5BRVpaVmZ5WmtSeVAxbU56T2h5NW5tZXNZY0Ffd2NueTdneFlYZnJVbTh2dmNrZjA1M19RVnhtTUF2eTJycGxGY1Q1NlVjZEx5LW5kbWY4MUo3YnNvZEJNdXR5V3JUM3ZISVZlMl9zT1pzYU1FZlMzSWNVcU5YbUh4SE56MTJPV0xwLTZRZHFhd09R?oc=5",
+      "words": [
+        "access",
+        "agentic",
+        "can",
+        "check",
+        "digital",
+        "given",
+        "infrastructure",
+        "only",
+        "pass",
+        "public",
+        "security",
+        "they"
+      ]
+    },
+    {
+      "at": "2026-09-22T11:32:36.048268+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Zetwerk and Ayr Energy settle trade-secret dispute",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVdIb2YwX2lhSW9iWGdEVGZsSTZwZ2ZRcGtWazBwREpNRnFYVFpFYlN5X1FXZXpyZ3dXamM4ZmsyWS1yTlVpUnprUGs5U1RLVmo5c2xmbzhUVjE1aVUyNzhibzBmU1BFTDdObGlPSy1DajJoVWtnenE2bkdKV29wWVhUNDRiR0NSd2E0M2JxWVJnYVFHc2VMcWpvYUt0bHRBZkJGSDNlWkJzVkh2QS1xV0dNenlUWnFTUWg2X3hFbTQ5NXZo0gHKAUFVX3lxTE03dkJmMmszYTFDMXNJQkxPS0F2RlNlbDEtQ0lQczJkOWlPaW5BRWpvRmhqYnJaZzhGRUROMzFxb1FwNUZRcVJyXzVsNlZxaEZvbUF6RDRFR2ZiSXM4cnJCQ2l0bnp4ZVBLZHFjYVdoQURmeUlfMllNaVo2VTVsTkMzOE1xdndGWjBPWmlBTDQ4bk9EN3o2TFdYQ0pLcTROV25VaWIyOTZ5XzFIcElZeEZraml1VTMzVWdmVHhoelNTWlBSVzJUS2ZabGc?oc=5",
+      "words": [
+        "ayr",
+        "bound",
+        "dispute",
+        "energy",
+        "ipo",
+        "secret",
+        "settle",
+        "trade",
+        "zetwerk"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789749720437",
-    "1789755660582",
-    "1789756590495",
-    "1789758305779",
-    "1789761600353",
-    "1789763423908",
-    "1789764241218",
-    "1789764285631",
-    "1789766885346",
-    "1789788120409",
-    "1789809757747",
-    "1789815168543",
-    "1789819071241",
-    "1789819238964",
-    "1789819500253",
-    "1789819745902",
-    "1789736269913",
-    "1789743360828",
-    "1789750482489",
-    "1789759081184",
-    "1789761041003",
-    "1789761041500",
-    "1789768509897",
-    "1789777483211",
-    "1789818615195",
-    "1789819996432",
-    "1789820200255",
-    "1789820236511",
     "1789820257478",
     "1789820362750",
     "1789820485746",
@@ -13370,10 +13339,38 @@
     "1790075253456",
     "1790075281072",
     "1790075328046",
-    "1790075560410"
+    "1790075560410",
+    "1789997340876",
+    "1790018130763",
+    "1790060832081",
+    "1790061949229",
+    "1790066781381",
+    "1790071680486",
+    "1790072390880",
+    "1790072501271",
+    "1790072557244",
+    "1790072925161",
+    "1790073021126",
+    "1790073879029",
+    "1790075281913",
+    "1790075448037",
+    "1790075499372",
+    "1790075641848",
+    "1790075700091",
+    "1790075891664",
+    "1790076010986",
+    "1790076022896",
+    "1790076060142",
+    "1790076110584",
+    "1790076141716",
+    "1790076356577",
+    "1790076442937",
+    "1790076534967",
+    "2312426",
+    "2313504"
   ],
-  "last_digest_hour": "2026-09-22T16",
-  "last_success": "2026-09-22T11:17:52.081529+00:00",
+  "last_digest_hour": "2026-09-22T17",
+  "last_success": "2026-09-22T11:32:36.060002+00:00",
   "national": {
     "alerted": [
       {
@@ -14910,7 +14907,7 @@
       "CG-DL-E-22092026-276359",
       "CG-DL-E-22092026-276379"
     ],
-    "last_run": "2026-09-22T11:19:53.949349+00:00",
+    "last_run": "2026-09-22T11:34:28.893443+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16041,7 +16038,9 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-suchika-tariyal-on-winning-bronze-in-mixed-martial-arts-at-asian-games",
       "page:https://www.mha.gov.in/sites/default/files/Police2_22092026.pdf",
       "pib:2313441",
-      "pib:2313468"
+      "pib:2313468",
+      "pib:2313520",
+      "pib:2313504"
     ],
     "source_failures": {
       "CBI": {
@@ -16081,152 +16080,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Nagarro stock gains deal clarity as takeover threshold met",
-      "post": {
-        "created_at": "2026-09-22T10:19:17+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790072357936",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "AD HOC NEWS",
-        "reposts": 0,
-        "text": "Nagarro stock gains deal clarity as takeover threshold is met",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMm5QbmNoaTd1QmxPalVla0YxdVR6dnlFOTVmYkZCMXRsQjdjMU1NYzg4WUtmd09qZmtodkVkbmpFWFk5c1RCUF9VYzhDSlNfbEY3N1YtMkZjSy1CdFItVktSYm5pTkNsZF9QU0YwWmxMMFBDUG1weFAtdlc4XzVPdEZFQlltZHZOdFdIN2xYdU1ZWjR6UVB5cVQyQ2dyaVpVb3lacDZjVEdvYy1sNy15UlhKSXVubFdETzRZanVKSGZuQQ?oc=5"
-      },
-      "queued_at": "2026-09-22T10:47:16.247907+00:00",
-      "score": 8.0,
-      "why": "Provides a confirmed update on the Nagarro acquisition storyline."
-    },
-    {
-      "headline": "Govt bans low-quality phone screen protectors, issues guidelines",
-      "post": {
-        "created_at": "2026-09-22T08:28:20+00:00",
-        "handle": "News: India tech policy",
-        "id": "1790065700425",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Govt bans low-quality phone screen protectors, issues guidelines",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdXgwZk1rdTk2TTJqcVNIXzMtaG82eFpsY3VTWWtkMVZ0MDNSOE1PeWVYblBLcHBZOV94UENxZFZ0MFZPTGhHeWdrRDVWdUNHTFpuNVFHZUdQYTh1MUMzX216eXpHTTNodVpmQ3FOUDFpbVlxdE5RZEhtWGtGSTZjX05VREhuVXl5ZW95aWFtN3duYkNiTEhfbVNsVEFhQjk3Tjdrd0VrTm9JN0tnRzJtbDdubmJSSzBIMVdlRE1nbWF1SXp2UGVSemdPZmxQZkHSAc8BQVVfeXFMUHV4MGZNa3U5Nk0yanFTSF8zLWhvNnhabGN1U1lrZDFWdDAzUjhNT3llWG5QS3BwWTlfeFBDcWRWdDBWT0xoR3lna0Q1VnVDR0xabjVRR2VHUGE4dTFDM19tenl6R00zaHVaZkNxTlAxaW1ZcXROUWRIbVhrRkk2Y19OVURIblV5eWVveWlhbTd3bmJDYkxIX21TbFRBYUI5N043a3dFa05vSTdLZ0cybWw3bm5iUkswSDFXZURNZ21hdUl6dlBlUnpnT2ZsUGZB?oc=5"
-      },
-      "queued_at": "2026-09-22T10:47:16.247907+00:00",
-      "score": 7.0,
-      "why": "Regulatory move by the government touching IT and electronics hardware."
-    },
-    {
-      "headline": "BHIM introduces MyUPI AI assistant for support and mandates",
-      "post": {
-        "created_at": "2026-09-22T10:33:18+00:00",
-        "handle": "News: India fintech",
-        "id": "1790073198010",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "BHIM introduces MyUPI AI assistant for UPI support, mandate management and safety controls",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWotMGpZal95M01nU21iaTNjSjBuZ0dMWjN4d2dVOFlYaXhYeGJ1NnNYVm5kcV9ZQWxMT1lkQmpVTTAxNzFyMUttd0lNSFl3b1QxaFhadVZ6VWRydnUyODFLR0ZzaXpvRDNXN2xDQUdZbER0T1Z0VWZQWkN6c0F4LWEzVmxjZ3JKeE9zWUF6U1ljR2I5VmkzZ2Z4eXJDSzBFcFFtRE1RUVJzVjNxNGlKb1Fqd0VMOW92MktzRnJkOFFGZVXSAcgBQVVfeXFMUEpUTUVIb1pFblNCTnNwNENVLUxra2VVSlJ2VWhmZXRLcS01ZEdiaWxNRWdFSDVtU0Zra19GNnhtRmZ5YXFLTnRaRVN2bnhKdTlXYVQySDF6QkViWFV2RmVLLWRrNWxzRnF5WGhDd0x5LS1ZTHk4QzNQVEtWOXpCVThaN3BJTkprUE15SG9hcTZWdjZGWThlQ2pCclJWelBzVWRpaHRSczlCRWJuY1NzVTUwVVlub2gyLXFzSHpjekxLcVlNejZOdGY?oc=5"
-      },
-      "queued_at": "2026-09-22T10:47:16.247907+00:00",
-      "score": 7.0,
-      "why": "Major product and AI feature launch by a key payment platform."
-    },
-    {
-      "headline": "Jio Platforms files for IPO with SEBI",
-      "post": {
-        "created_at": "2026-09-22T09:29:23+00:00",
-        "handle": "News: India telecom",
-        "id": "1790069363128",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Goodreturns",
-        "reposts": 0,
-        "text": "Jio Platforms IPO filing with SEBI follows Reliance AI, satellite broadband and clean energy roadmap",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFBlT1JleEJoRE90SXFfWEhVMkVjdkk2NDlKNTZVWU9zRVN6dHRweXZJaDk0TzJnMk9QX05FRnNmTmt4RGVuQWo0SWJpc2ZHakphcDhsRzJ0ekFpSG8yOVNfSjhIYkZIdnp0UVJRM3NoU0NTVjZLNzVVZzNFWmdFNWZ3OVFQUzFkYm9XRTBuRDB0ZnEtekdjQnVtNGR1SUNEeFhLV2RQYTU5Z3lqQnA0Y1NSdnFvYXVSQ0FVNF9n?oc=5"
-      },
-      "queued_at": "2026-09-22T11:02:46.646308+00:00",
-      "score": 9.0,
-      "why": "Major IPO filing by a leading Indian telecom and tech giant."
-    },
-    {
-      "headline": "TRAI implements new rules for data-free recharges for telecom operators",
-      "post": {
-        "created_at": "2026-09-22T10:34:58+00:00",
-        "handle": "News: India telecom",
-        "id": "1790073298763",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India",
-        "reposts": 0,
-        "text": "Data-free recharges with 30 days' validity: Good news for Jio, Airtel and Vi users as TRAI implements new rul",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU1pteVdVY2JZQjFtcXpvYVUtRmpiN1pIUmdvZ29nYVpETzF0Z2IwZTJuWTZBTXZLSko2YXVLelZXd19NbWM0WE9nMUU4dlVEZWRETF9XR2c2R0pTRmZqNEJvdjlROHJWOG11bjRqQUJRS3VIVGQ0enhhaTBZaXVjU0hmZm9QU25KSlNMRURvM19GbXRjOThaV3JaQkRqN1NEUEw3dmRrai05Y19kM25wekhuSEg5YmtCd2tFSmctZTNzTzZsejRyTDlOSjdmbnh6Mk5GSkZUZFJ1NnUtV2ZRMNIB5gFBVV95cUxNT0xZNmxoaUU5MERGMW8yTkt1NkJ6YTg1enIxYVJ1RnpERURhRktzMk5NaXQtTXNSMXJHWmZ3cUp3N18zZGRmR3hFY3NuZGpNSGZSVEEyZ3ZmVnlTNU83VS10RU1xQ0prb1lKN2VwQ0FpT1M4VWRhbFN6WDhZN0J4UU80SkQzRlJ3RmRzcHlDSmw4Z1BvRUsybkhnZURaOXhWdkdmLTRwSE5URlAyMGl5R01Cd3RiRzk4a0padGN2aGJSNWp2ZDgzb1IteGttTlphLXhFQnZvYTBuWHFKZF9EZl80di1BQQ?oc=5"
-      },
-      "queued_at": "2026-09-22T11:02:46.646308+00:00",
-      "score": 7.0,
-      "why": "Significant regulatory move by TRAI affecting telecom operators like Jio, Airtel, and Vi."
-    },
-    {
-      "headline": "Persistent Systems to acquire Nagarro in EUR 81-per-share offer",
-      "post": {
-        "created_at": "2026-09-22T08:24:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790065440499",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Goodreturns",
-        "reposts": 0,
-        "text": "AI-led digital engineering deal: Persistent Systems to acquire Nagarro in EUR 81-per-share offer",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3JFNGJGZnZMZC1DN3Rxd0I2cHZtb2hhVkV6TGkzTlpVRDltZ1VvLVNRVHpGV3pNSkd0WjIwLWU4TE1Gc2d3U0dhdFZCeUFSaGFrNENkbVVxa1lsMHpGR1R4SFotVEM1cWZadDNXM0czVkhkdXQzWEFlOWVGajFld2lDdWQ4b2pfUzJYWHhCVHd0VnhQYmJPcnZyYjFJbUlhRzlmSTRPYjVjUHBQZl8yb1NxV2pzZDRj?oc=5"
-      },
-      "queued_at": "2026-09-22T11:17:52.066237+00:00",
-      "score": 9.0,
-      "why": "Major acquisition involving an Indian IT midcap company."
-    },
-    {
-      "headline": "Amazon, Google, and Microsoft commit USD 80.5B to India's AI boom",
-      "post": {
-        "created_at": "2026-09-22T08:30:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1790065800473",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Analytics Insight",
-        "reposts": 0,
-        "text": "Amazon, Google, Microsoft Bet USD 80.5B on India\u2019s AI Boom",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3RBTjctUER3dDZoSEZUUzFxdU40V2daUVVTWkhXTmY4OVBmMlhtc2JZVmRjdUtQZjZFcDZ0Mmctd0FUVGQ3d3h1bVczSE9SdXpOMHJKODZMNnNRZXBWaDVLN1hOWnF5cmtmZE1iQndFaXhDYmRyZ3hqbEJfMHpyVVdJaWhkd05nQmxpeTJ1c2kta1ZBQkxB0gGkAUFVX3lxTFA5WElKUkNEalhjRHdjVTVYeUk0cWI4bDB4UlVTR0tSc0dCNjh4WDlUeURvQXhBQlVyUXlBMlNqNld1YWdjT2ltS2FFQktXcWx6bWlIQ3N3Vm9CSWJNOU0ySWRwNWpITTBINDRvbnNpNkNjeVhCRVotWXVzOVBad1drc1MzTFcyc3JtZEhqOUF0YVJ1bWtjbEExZUtSNjUyV2phMnJ1?oc=5"
-      },
-      "queued_at": "2026-09-22T11:17:52.066237+00:00",
-      "score": 9.0,
-      "why": "Massive foreign direct investment in Indian AI infrastructure by big tech."
-    },
-    {
-      "headline": "Smartphone screen protectors require compulsory BIS registration from April 2027",
-      "post": {
-        "created_at": "2026-09-22T09:17:38+00:00",
-        "handle": "News: India tech policy",
-        "id": "1790068658896",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Tribune",
-        "reposts": 0,
-        "text": "Smartphone screen protectors to require compulsory BIS registration from April 1, 2027",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONWwyMXU2dUVKcGwyS2lmM3pxYmFlMmxZeVZQUmx1U0pnUDJOb3NBNy1laXU4eTJ3VjdvMzh5Ti1pbkFQTkFuUGMxNkM4ZjB5RnJydE4zUWFQbTd4RzZ1MVpackJKa3RkOHRSX0xJTlVRaEVfOHVwV0d5MDJ5MUItZVBZaGtqcHJud21kTk5IVHdZVzV1M085ZnVtSWtKQ2hwTk1MNjVwaTBod01McVpmaGk5cjNXV0xWNWhQZWRJUGkxZWk2eWNUZ1BqQXXSAcwBQVVfeXFMTjVsMjF1NnVFSnBsMktpZjN6cWJhZTJsWXlWUFJsdVNKZ1AyTm9zQTctZWl1OHkyd1Y3bzM4eU4taW5BUE5BblBjMTZDOGYweUZycnROM1FhUG03eEc2dTFaWnJCSmt0ZDh0Ul9MSU5VUWhFXzh1cFdHeTAyeTFCLWVQWWhranBybndtZE5OSFR3WVc1dTNPOWZ1bUlrSkNocE5NTDY1cGkwaHdNTHFaZmhpOXIzV1dMVjVoUGVkSVBpMWVpNnljVGdQakF1?oc=5"
-      },
-      "queued_at": "2026-09-22T11:17:52.066237+00:00",
-      "score": 7.0,
-      "why": "New regulatory quality control order affecting electronics hardware imports and sales."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17213,19 +17067,19 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790072213546,
-    "news: consumer internet india": 1790075281072,
+    "news: consumer internet india": 1790075641848,
     "news: global ai": 1790071508761,
-    "news: global chips": 1790072402383,
+    "news: global chips": 1790072557244,
     "news: global it services": 1790072694727,
-    "news: india ai deeptech": 1790074229135,
+    "news: india ai deeptech": 1790076534967,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790074890964,
-    "news: india semiconductors": 1790075150646,
-    "news: india tech policy": 1790070300579,
-    "news: india telecom": 1790075560410,
-    "news: indian it majors": 1790074103293,
+    "news: india fintech": 1790076141716,
+    "news: india semiconductors": 1790076356577,
+    "news: india tech policy": 1790073021126,
+    "news: india telecom": 1790076060142,
+    "news: indian it majors": 1790076442937,
     "news: indian it midcaps": 1790073260201,
-    "news: pib releases": 1790069139067,
+    "news: pib releases": 1790072390880,
     "news: tech leaders": 1790071511262,
     "nvidia": 1790013607775,
     "nvidia blog": 1790013607775,
@@ -17234,7 +17088,7 @@
     "phonepe": 1790060532360,
     "pib communications": 2313358,
     "pib meity": 2313324,
-    "pib science and technology": 2313468,
+    "pib science and technology": 2313504,
     "razorpay": 1789986994125,
     "redseer": 1789637516540,
     "reg cci": 1789603200954,
@@ -17262,7 +17116,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T11:17:52.415307+00:00",
+    "last_server_run": "2026-09-22T11:32:36.319590+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T11:19:12.770837+00:00",
