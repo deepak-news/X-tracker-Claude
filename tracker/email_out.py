@@ -107,6 +107,7 @@ LIST_NAMES = {RECIPIENT_ENV: "Tech Desk", "WATCH_MAIL_TO": "DoPT, MHA & ED Watch
               "GAZETTE_MAIL_TO": "Gazette Alerts", "SOCIAL_MAIL_TO": "Tweets",
               "GAZETTE_DESKS:law": "Law Ministry Gazettes",
               "GAZETTE_DESKS:parliament": "Parliament Watch",
+              "PARLIAMENT_WEEK_TO": "Parliament Week Ahead",
               ADMIN_ENV: "Maintenance"}
 
 

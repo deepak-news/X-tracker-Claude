@@ -173,6 +173,12 @@ def merge(ours: dict, theirs: dict) -> dict:
         latest = max(theirs.get(field, ""), ours.get(field, ""))
         if latest:
             merged[field] = latest
+
+    # The 7 pm week-ahead email: the later evening's record is the true one.
+    # Taking "ours" blindly could wind it back a day and send it twice.
+    week = [w for w in (theirs.get("parliament_week"), ours.get("parliament_week")) if w]
+    if week:
+        merged["parliament_week"] = max(week, key=lambda w: w.get("sent_on", ""))
     return merged
 
 
