@@ -7374,33 +7374,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789800566062",
-    "1789801846513",
-    "1789802851725",
-    "1789804277744",
-    "1789810250751",
-    "1789810425369",
-    "1789810800056",
-    "1789811173875",
-    "1789811219489",
-    "1789811338941",
-    "1789727798468",
-    "1789728713735",
-    "1789734502606",
-    "1789740000117",
-    "1789757745077",
-    "1789771140310",
-    "1789777036457",
-    "1789790602205",
-    "1789797937430",
-    "1789810260769",
-    "1789811129260",
-    "1789811245635",
-    "1789812000270",
-    "1789812105151",
-    "1789812171251",
-    "1789812174797",
-    "1789812270168",
     "1789812360697",
     "1789812400299",
     "1789812549600",
@@ -13373,10 +13346,37 @@
     "2312207",
     "2312234",
     "2312288",
-    "2312298"
+    "2312298",
+    "1789992644465",
+    "1790010851919",
+    "1790018162892",
+    "1790024792987",
+    "1790025073698",
+    "1790029170481",
+    "1790044262197",
+    "1790048102504",
+    "1790048893725",
+    "1790056469178",
+    "1790056538291",
+    "1790056980835",
+    "1790058843774",
+    "1790062026802",
+    "1790062072778",
+    "1790062202840",
+    "1790063220386",
+    "1790063700703",
+    "1790065018025",
+    "1790065595586",
+    "1790066760786",
+    "1790066981427",
+    "1790067355137",
+    "1790067420801",
+    "1790067792923",
+    "1790067906714",
+    "1790068020605"
   ],
   "last_digest_hour": "2026-09-22T14",
-  "last_success": "2026-09-22T09:03:40.637624+00:00",
+  "last_success": "2026-09-22T09:17:04.583891+00:00",
   "national": {
     "alerted": [
       {
@@ -14910,9 +14910,10 @@
       "CG-DL-E-21092026-276376",
       "SG-DL-E-21092026-276375",
       "CG-DL-E-22092026-276358",
-      "CG-DL-E-22092026-276359"
+      "CG-DL-E-22092026-276359",
+      "CG-DL-E-22092026-276379"
     ],
-    "last_run": "2026-09-22T09:08:07.552909+00:00",
+    "last_run": "2026-09-22T09:21:38.782283+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16029,7 +16030,10 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63643",
       "pib:2313381",
       "pib:2313395",
-      "pib:2313393"
+      "pib:2313393",
+      "gazette:CG-DL-E-22092026-276379",
+      "pib:2313399",
+      "pib:2313398"
     ],
     "source_failures": {
       "CBI": {
@@ -16141,6 +16145,42 @@
       "queued_at": "2026-09-22T09:03:40.625394+00:00",
       "score": 8.0,
       "why": "Major official clarification from NPCI addressing the widespread UPI MDR fee controversy."
+    },
+    {
+      "headline": "Bharti Airtel bundles Apple services into family postpaid plans",
+      "post": {
+        "created_at": "2026-09-22T05:54:29+00:00",
+        "handle": "News: India telecom",
+        "id": "1790056469178",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Telecom",
+        "reposts": 0,
+        "text": "Bharti Airtel teams up with Apple, launches family postpaid plans",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMjlXNk9QV3dRdTZ1S3c3Q1lmU3JCazczazNQeU9sSDNaT1VVUzl5UlpYSm5RcU9mTmVvWXJLOGw3bE16Y1k1Q28zbDRkamlpanVibXFJcFNzREZOR1hKLTdXQzNJeTdDUzJQZVZLMmx4ZXZrQjF5NWJvX3lDSmJRYXdiclZ0YUFabW5FR0t6bzAzSHZzSjhhZ3ZxTUJwb1dxYm1XSVMwV2FBM0gxX212NlVpUU1TbUFFR1BoLVhTNW5SbTlXdG5CYnJBTi1uZ9IB0wFBVV95cUxNOUM2eFVNa3VGQnZMVHdTXzI2NVFVVTV2OGxKNGx1eVVkQjV2MHEyUklIdjg1elR0QTFQWkRFV196R1JKQkhzbUsxV3FacGxtVWJNRGE1QkhZX0JyMEMxVEllMzY5N2VRR2syY1hDdk03SE5CanI4QXZTaEVybkh2N0lYcW9KaEtxVldlTFdfbjlnY2R0eEw1ZV9zT0NTTEJRZUJoeXBJSDU5QnFOdm1yTDJzR1pNcXFvQm9iaWc3V1ZYUzVDS19PTlJwcDUtYlR5NERR?oc=5"
+      },
+      "queued_at": "2026-09-22T09:17:04.571514+00:00",
+      "score": 7.0,
+      "why": "A major carrier partnership with Apple involving specific consumer offerings qualifies as a solid telecom-tech wire story."
+    },
+    {
+      "headline": "PhonePe executive details upcoming UAE consumer and merchant offerings",
+      "post": {
+        "created_at": "2026-09-22T09:05:06+00:00",
+        "handle": "News: India fintech",
+        "id": "1790067906714",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "PhonePe's Ritesh Pai explains what the platform will offer consumers, merchants in UAE",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbFBhNlRiamU2d0s2bHpMX01CNjlrZlIzbm5sTGVCQW1PMDdGM3hyQ1FkX0ttemk5SmcwVHItOC1FcGZYS1h2S282a0t5MXlpUVpZZGg2NDY4RnNXM1FjSi1FcmN6SXl3MUl5bWt6MGZIVUpGN0NwYy1hWmpKU1JRVjNId0VIQ0p1WVY1Ny15aUcxTE5PcHhMZ291a2ZmQjZsNUxtMWdsOFBPWlppeXdWTDI0dzNpd0tPTHdKLV9DaTFEWjFDcHlBcDQtUUxPWmttbWZ3YWdhaDdIbGhuMU5mWHNCN09vNU5sV0Z1UU1B?oc=5"
+      },
+      "queued_at": "2026-09-22T09:17:04.571514+00:00",
+      "score": 7.0,
+      "why": "Strategic details on international expansion following regulatory approval provide a direct development for the fintech beat."
     }
   ],
   "page_links": {
@@ -17131,17 +17171,17 @@
     "news: big tech platforms": 1790066515077,
     "news: consumer internet india": 1790067465388,
     "news: global ai": 1790067057717,
-    "news: global chips": 1790060289956,
+    "news: global chips": 1790063700703,
     "news: global it services": 1790059380349,
     "news: india ai deeptech": 1790066678671,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790067232665,
+    "news: india fintech": 1790068020605,
     "news: india semiconductors": 1790067394378,
     "news: india tech policy": 1790066917959,
-    "news: india telecom": 1790066400697,
+    "news: india telecom": 1790067792923,
     "news: indian it majors": 1790065611862,
     "news: indian it midcaps": 1790062913524,
-    "news: pib releases": 1790063940936,
+    "news: pib releases": 1790067420801,
     "news: tech leaders": 1790064003582,
     "nvidia": 1790013607775,
     "nvidia blog": 1790013607775,
@@ -17178,17 +17218,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T09:03:40.968961+00:00",
+    "last_server_run": "2026-09-22T09:17:04.918880+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-22T07:18:13.757286+00:00",
+        "checked": "2026-09-22T09:18:36.495244+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-22T07:18:01.157182+00:00",
+        "checked": "2026-09-22T09:18:27.209712+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -17264,7 +17304,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-22T07:18:06.303894+00:00",
+        "checked": "2026-09-22T09:18:31.379473+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -17318,11 +17358,11 @@
       },
       "last": {
         "calendar": "2026-09-22T03:33:11.935422+00:00",
-        "ls_reports": "2026-09-22T07:17:39.740798+00:00",
-        "rs_committee_press": "2026-09-22T07:17:55.447119+00:00",
-        "rs_press": "2026-09-22T07:17:49.262891+00:00",
-        "rs_reports": "2026-09-22T07:17:44.393610+00:00",
-        "rs_updates": "2026-09-22T07:17:56.932814+00:00"
+        "ls_reports": "2026-09-22T09:18:09.975718+00:00",
+        "rs_committee_press": "2026-09-22T09:18:20.879306+00:00",
+        "rs_press": "2026-09-22T09:18:17.068316+00:00",
+        "rs_reports": "2026-09-22T09:18:13.939430+00:00",
+        "rs_updates": "2026-09-22T09:18:22.355975+00:00"
       }
     },
     "scanned": [
@@ -17454,6 +17494,7 @@
       "CG-DL-E-21092026-276376",
       "CG-DL-E-22092026-276358",
       "CG-DL-E-22092026-276359",
+      "CG-DL-E-22092026-276379",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
