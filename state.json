@@ -7397,21 +7397,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789813308459",
-    "1789815571795",
-    "1789827120477",
-    "1789828412780",
-    "1789830300839",
-    "1789831740558",
-    "1789831741882",
-    "1789831985755",
-    "1789832276402",
-    "1789833522138",
-    "1789840880205",
-    "1789840972494",
-    "1789841214380",
-    "1789756909614",
-    "1789757662330",
     "1789760101320",
     "1789771240782",
     "1789815787983",
@@ -13396,10 +13381,25 @@
     "1790096443775",
     "1790097240152",
     "1790097496160",
-    "1790098250076"
+    "1790098250076",
+    "1790019971693",
+    "1790035200866",
+    "1790039760697",
+    "1790070555251",
+    "1790070686567",
+    "1790084905442",
+    "1790088600367",
+    "1790090460470",
+    "1790091079191",
+    "1790093233674",
+    "1790096174808",
+    "1790096177082",
+    "1790098186913",
+    "1790098349671",
+    "1790098816984"
   ],
   "last_digest_hour": "2026-09-22T23",
-  "last_success": "2026-09-22T17:35:06.292938+00:00",
+  "last_success": "2026-09-22T17:47:43.064903+00:00",
   "national": {
     "alerted": [
       {
@@ -15040,9 +15040,12 @@
       "CG-DL-E-22092026-276394",
       "CG-DL-E-22092026-276395",
       "CG-DL-E-22092026-276396",
-      "CG-DL-E-22092026-276397"
+      "CG-DL-E-22092026-276397",
+      "CG-DL-E-22092026-276401",
+      "CG-DL-E-22092026-276402",
+      "CG-DL-E-22092026-276405"
     ],
-    "last_run": "2026-09-22T17:36:39.795055+00:00",
+    "last_run": "2026-09-22T17:50:40.105825+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16236,7 +16239,10 @@
       "gazette:CG-DL-E-22092026-276396",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-72vaen-raasataraiya",
       "pib:2313685",
-      "gazette:CG-DL-E-22092026-276397"
+      "gazette:CG-DL-E-22092026-276397",
+      "gazette:CG-DL-E-22092026-276405",
+      "gazette:CG-DL-E-22092026-276402",
+      "gazette:CG-DL-E-22092026-276401"
     ],
     "source_failures": {
       "CBI": {
@@ -16276,7 +16282,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Infosys expands Indore Development Centre to strengthen domestic presence",
+      "post": {
+        "created_at": "2026-09-22T15:31:19+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790091079191",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Intelligent CIO",
+        "reposts": 0,
+        "text": "Infosys strengthens presence in India with expansion of Indore Development Centre",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYmhNcDk3SjFJc1dvSUJsUXBzOXlQX0lBNEF1V1puT1Bpc183OW9fa1pvSnpDMnBTYWVzYThIOEZPM1UwYUJBZkF6NjFTbHNhZHhScnAyNmFrb0FOMHBzWDB3QXV2U3QyN29XY3pycVA5aUEwSXN3R2gtOEFsODJUbTMtcWpENGpXalZ4Wk1oeGtfVEs0V29lVktXcmFjV2hOdlBIRVFuMnBBWW5JeXNoMHB0cFljMmt6UVY3MWpwS3drbVEza24xNA?oc=5"
+      },
+      "queued_at": "2026-09-22T17:47:43.045068+00:00",
+      "score": 7.0,
+      "why": "A major Indian IT services provider is expanding its physical footprint and workforce capacity domestically."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17266,7 +17291,7 @@
     "google cloud": 1790056800055,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
-    "hcltech": 1790080043638,
+    "hcltech": 1790096177082,
     "ibm": 1790078400999,
     "intel": 1788847380154,
     "lenovo": 1789992053034,
@@ -17277,23 +17302,23 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790097240152,
-    "news: consumer internet india": 1790092218903,
+    "news: consumer internet india": 1790098816984,
     "news: global ai": 1790095301430,
-    "news: global chips": 1790098250076,
+    "news: global chips": 1790098349671,
     "news: global it services": 1790095503972,
     "news: india ai deeptech": 1790095060533,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790095761885,
     "news: india semiconductors": 1790094583664,
     "news: india tech policy": 1790094610827,
-    "news: india telecom": 1790093233056,
-    "news: indian it majors": 1790093821065,
+    "news: india telecom": 1790093233674,
+    "news: indian it majors": 1790098186913,
     "news: indian it midcaps": 1790096443775,
     "news: pib releases": 1790093700133,
     "news: tech leaders": 1790091910837,
     "nvidia": 1790078441723,
     "nvidia blog": 1790078441723,
-    "openai": 1789992000699,
+    "openai": 1790035200866,
     "oracle": 1789631219707,
     "phonepe": 1790060532360,
     "pib communications": 2313673,
@@ -17326,17 +17351,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T17:35:06.618687+00:00",
+    "last_server_run": "2026-09-22T17:47:43.421422+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-22T15:37:54.340661+00:00",
+        "checked": "2026-09-22T17:48:32.551963+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-22T15:37:46.651557+00:00",
+        "checked": "2026-09-22T17:48:24.938503+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -17412,7 +17437,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-22T15:37:50.593788+00:00",
+        "checked": "2026-09-22T17:48:28.781425+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -17466,11 +17491,11 @@
       },
       "last": {
         "calendar": "2026-09-22T16:04:44.180250+00:00",
-        "ls_reports": "2026-09-22T15:37:30.917938+00:00",
-        "rs_committee_press": "2026-09-22T15:37:40.390994+00:00",
-        "rs_press": "2026-09-22T15:37:37.200409+00:00",
-        "rs_reports": "2026-09-22T15:37:34.474891+00:00",
-        "rs_updates": "2026-09-22T15:37:42.403172+00:00"
+        "ls_reports": "2026-09-22T17:48:09.576861+00:00",
+        "rs_committee_press": "2026-09-22T17:48:19.563177+00:00",
+        "rs_press": "2026-09-22T17:48:16.455014+00:00",
+        "rs_reports": "2026-09-22T17:48:13.712132+00:00",
+        "rs_updates": "2026-09-22T17:48:21.192991+00:00"
       }
     },
     "scanned": [
@@ -17615,6 +17640,9 @@
       "CG-DL-E-22092026-276395",
       "CG-DL-E-22092026-276396",
       "CG-DL-E-22092026-276397",
+      "CG-DL-E-22092026-276401",
+      "CG-DL-E-22092026-276402",
+      "CG-DL-E-22092026-276405",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
@@ -17788,7 +17816,8 @@
       "gazette:CG-DL-E-22092026-276392",
       "gazette:CG-DL-E-22092026-276392|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-22092026-276395|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-22092026-276393|GAZETTE_MAIL_TO"
+      "gazette:CG-DL-E-22092026-276393|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-22092026-276402|GAZETTE_MAIL_TO"
     ]
   }
 }
