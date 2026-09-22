@@ -7386,23 +7386,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789835640384",
-    "1789835734035",
-    "1789835757354",
-    "1789758772836",
-    "1789758826845",
-    "1789762920662",
-    "1789766549608",
-    "1789766640210",
-    "1789767209051",
-    "1789768203489",
-    "1789768325148",
-    "1789773855072",
-    "1789774730728",
-    "1789776011854",
-    "1789777580690",
-    "1789781602750",
-    "1789786942249",
     "1789789919131",
     "1789791540628",
     "1789793905522",
@@ -13385,10 +13368,27 @@
     "1790089620000",
     "1790089920138",
     "1790090262147",
-    "1790090711322"
+    "1790090711322",
+    "1790016000134",
+    "1790055820676",
+    "1790069779733",
+    "1790071471340",
+    "1790073840364",
+    "1790075820579",
+    "1790075820709",
+    "1790076018631",
+    "1790076605261",
+    "1790079840053",
+    "1790085291457",
+    "1790087444093",
+    "1790087580051",
+    "1790090456130",
+    "1790090485149",
+    "1790090575182",
+    "1790091225362"
   ],
   "last_digest_hour": "2026-09-22T21",
-  "last_success": "2026-09-22T15:37:06.485943+00:00",
+  "last_success": "2026-09-22T15:48:58.379298+00:00",
   "national": {
     "alerted": [
       {
@@ -14756,6 +14756,29 @@
           "system",
           "under"
         ]
+      },
+      {
+        "at": "2026-09-22T15:52:28.334188+00:00",
+        "handle": "PIB President's Secretariat",
+        "headline": "President Droupadi Murmu presents the 72nd National Film Awards in New Delhi",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313663",
+        "words": [
+          "72nd",
+          "anant",
+          "award",
+          "awards",
+          "confers",
+          "dadasaheb",
+          "film",
+          "nag",
+          "national",
+          "phalke",
+          "presents",
+          "president",
+          "secretariat",
+          "shri"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15003,7 +15026,7 @@
       "CG-DL-E-22092026-276391",
       "CG-DL-E-22092026-276392"
     ],
-    "last_run": "2026-09-22T15:44:07.984729+00:00",
+    "last_run": "2026-09-22T15:52:28.334839+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16185,7 +16208,8 @@
       "gazette:CG-DL-E-22092026-276392",
       "pib:2313640",
       "pib:2313647",
-      "pib:2313656"
+      "pib:2313656",
+      "pib:2313663"
     ],
     "source_failures": {
       "CBI": {
@@ -16195,9 +16219,6 @@
       "DGFT": {
         "count": 7,
         "until": "2026-09-22T21:05:01.178967+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -16228,7 +16249,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Cred alumni startup Sol raises $4 million from GC and Nexus",
+      "post": {
+        "created_at": "2026-09-22T15:20:56+00:00",
+        "handle": "News: India fintech",
+        "id": "1790090456130",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "Cred alumni\u2019s Sol raises $4 million from GC, Nexus Venture Partners, Kunal Shah",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeG9fUURzdU5Ub0gyMS1MX1BrR3loMG4xeGRzN1hXTDQwTmpIUUtKd0tSUmQyUzhSM1RILTYwUkdlRTc4ckZYZ1FWS2QtRW1wV0hLUk91d0h1LUhSNklRUXJ5SWlUQTd6LXVTdDZIOEhISEFNNW5QREtPVHVzUng1VUxnLTBPRENlTWZHMzdhLW5EUE9mcGJoV0k4Y29SeTNiMnVSS1FyOHhnOFNDYkxiX2h1MEd3TEtTR3Y1LU1kVjM2aExKejVldlU3Z25qMEljaTFaM0k5bzg5QdIB4AFBVV95cUxNa0xuTmNNVS1qN1dXZ0U3UXppUXNqQm56Y2s1UHA1Y0xSMkdKTEZGV2R5TkhEcV9zTTUta0xKRHU2OEU5VWRjZ0JCM29vZ3JLUmREcHFqTFlFMnkxUEhudXdpQ3BNYmkyZ21MNHpqMHdCNFZPN0VjYkIwdHgxNUYwbWgzSnYzbGUwTDQwVkpmMi1vV2RBV25ld01EejVOQlMxOFRLUEJEYVMwdVFQVUR6NmxUc2t2MWhMQzQzb0xpOTFqV3lVZk9MU0ZvNlEzSmpiVGl6NUk2WW8tOVN3RVlkbg?oc=5"
+      },
+      "queued_at": "2026-09-22T15:48:58.360307+00:00",
+      "score": 8.0,
+      "why": "Early-stage startup funding round involving notable venture capital firms and founders."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17228,20 +17268,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790090262147,
-    "news: consumer internet india": 1790082349781,
+    "news: consumer internet india": 1790091225362,
     "news: global ai": 1790080345430,
     "news: global chips": 1790089620000,
     "news: global it services": 1790084888760,
     "news: india ai deeptech": 1790088509456,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790088811970,
+    "news: india fintech": 1790090456130,
     "news: india semiconductors": 1790084878650,
     "news: india tech policy": 1790090711322,
-    "news: india telecom": 1790088863369,
+    "news: india telecom": 1790090485149,
     "news: indian it majors": 1790087474366,
     "news: indian it midcaps": 1790089138046,
     "news: pib releases": 1790083947992,
-    "news: tech leaders": 1790083731157,
+    "news: tech leaders": 1790090575182,
     "nvidia": 1790078441723,
     "nvidia blog": 1790078441723,
     "openai": 1789992000699,
@@ -17277,7 +17317,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T15:37:06.818281+00:00",
+    "last_server_run": "2026-09-22T15:48:58.738173+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T15:37:54.340661+00:00",
