@@ -7397,15 +7397,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789760101320",
-    "1789771240782",
-    "1789815787983",
-    "1789823429979",
-    "1789832045996",
-    "1789834916148",
-    "1789835400849",
-    "1789836482029",
-    "1789836994939",
     "1789841142812",
     "1789841580796",
     "1789841763219",
@@ -13396,10 +13387,19 @@
     "1790096177082",
     "1790098186913",
     "1790098349671",
-    "1790098816984"
+    "1790098816984",
+    "1790076046445",
+    "1790079735473",
+    "1790081700881",
+    "1790090400864",
+    "1790093818867",
+    "1790098733237",
+    "1790099390727",
+    "1790099520281",
+    "1790100175347"
   ],
   "last_digest_hour": "2026-09-22T23",
-  "last_success": "2026-09-22T17:47:43.064903+00:00",
+  "last_success": "2026-09-22T18:03:43.673736+00:00",
   "national": {
     "alerted": [
       {
@@ -15043,9 +15043,10 @@
       "CG-DL-E-22092026-276397",
       "CG-DL-E-22092026-276401",
       "CG-DL-E-22092026-276402",
-      "CG-DL-E-22092026-276405"
+      "CG-DL-E-22092026-276405",
+      "CG-DL-E-22092026-276399"
     ],
-    "last_run": "2026-09-22T17:50:40.105825+00:00",
+    "last_run": "2026-09-22T18:06:04.835781+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16242,7 +16243,8 @@
       "gazette:CG-DL-E-22092026-276397",
       "gazette:CG-DL-E-22092026-276405",
       "gazette:CG-DL-E-22092026-276402",
-      "gazette:CG-DL-E-22092026-276401"
+      "gazette:CG-DL-E-22092026-276401",
+      "gazette:CG-DL-E-22092026-276399"
     ],
     "source_failures": {
       "CBI": {
@@ -17170,6 +17172,7 @@
       "https://x.ai/news/grok-amazon-bedrock": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/grok-automations": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/grok-bot-and-x": "2026-09-17T07:46:46.178789+00:00",
+      "https://x.ai/news/grok-bot-customer-support": "2026-09-22T18:02:55.769901+00:00",
       "https://x.ai/news/grok-bot-for-enterprise": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/grok-bot-more-plans": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/grok-bot-procurement": "2026-09-17T07:46:46.178789+00:00",
@@ -17304,9 +17307,9 @@
     "news: big tech platforms": 1790097240152,
     "news: consumer internet india": 1790098816984,
     "news: global ai": 1790095301430,
-    "news: global chips": 1790098349671,
+    "news: global chips": 1790098733237,
     "news: global it services": 1790095503972,
-    "news: india ai deeptech": 1790095060533,
+    "news: india ai deeptech": 1790099520281,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790095761885,
     "news: india semiconductors": 1790094583664,
@@ -17315,7 +17318,7 @@
     "news: indian it majors": 1790098186913,
     "news: indian it midcaps": 1790096443775,
     "news: pib releases": 1790093700133,
-    "news: tech leaders": 1790091910837,
+    "news: tech leaders": 1790099390727,
     "nvidia": 1790078441723,
     "nvidia blog": 1790078441723,
     "openai": 1790035200866,
@@ -17335,7 +17338,7 @@
     "swiggy": 1789214456821,
     "tata electronics": 1789738328115,
     "trai": 1790059935258,
-    "xai": 1790005601317,
+    "xai": 1790100175347,
     "zinnov": 1790065927173,
     "zoho": 1790091357218
   },
@@ -17351,7 +17354,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T17:47:43.421422+00:00",
+    "last_server_run": "2026-09-22T18:03:43.904494+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T17:48:32.551963+00:00",
@@ -17640,6 +17643,7 @@
       "CG-DL-E-22092026-276395",
       "CG-DL-E-22092026-276396",
       "CG-DL-E-22092026-276397",
+      "CG-DL-E-22092026-276399",
       "CG-DL-E-22092026-276401",
       "CG-DL-E-22092026-276402",
       "CG-DL-E-22092026-276405",
