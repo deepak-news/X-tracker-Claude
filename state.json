@@ -7347,29 +7347,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789795920020",
-    "1789796179018",
-    "1789796250118",
-    "1789796287524",
-    "1789796346302",
-    "1789796394362",
-    "1789796460336",
-    "1789796616674",
-    "1789796820319",
-    "1789796984649",
-    "1789797017618",
-    "1789797097997",
-    "1789797195125",
-    "1789797756543",
-    "1789797947870",
-    "1789797970356",
-    "1789798020054",
-    "1789798426338",
-    "1789798789846",
-    "1789799040357",
-    "1789799360755",
-    "1789799385707",
-    "1789799405486",
     "1789799480676",
     "1789799534281",
     "1789799801472",
@@ -13346,10 +13323,33 @@
     "1790059935258",
     "1790060440932",
     "1790060532360",
-    "1790080137802"
+    "1790080137802",
+    "1789981132281",
+    "1789987323802",
+    "1789994370618",
+    "1790001216853",
+    "1790005016537",
+    "1790035437466",
+    "1790039413989",
+    "1790044380905",
+    "1790044690110",
+    "1790050465434",
+    "1790053385313",
+    "1790055261021",
+    "1790059020092",
+    "1790059020969",
+    "1790059200674",
+    "1790059415007",
+    "1790059785661",
+    "1790059881636",
+    "1790060289956",
+    "1790060406933",
+    "1790060662445",
+    "1790060763743",
+    "1790060909649"
   ],
   "last_digest_hour": "2026-09-22T12",
-  "last_success": "2026-09-22T07:03:08.992698+00:00",
+  "last_success": "2026-09-22T07:17:10.080225+00:00",
   "national": {
     "alerted": [
       {
@@ -14862,7 +14862,7 @@
       "CG-DL-E-22092026-276358",
       "CG-DL-E-22092026-276359"
     ],
-    "last_run": "2026-09-22T07:10:50.478296+00:00",
+    "last_run": "2026-09-22T07:21:14.669500+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17081,18 +17081,18 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790055480995,
-    "news: consumer internet india": 1790059858732,
+    "news: consumer internet india": 1790060909649,
     "news: global ai": 1790056500927,
-    "news: global chips": 1790059215881,
+    "news: global chips": 1790060289956,
     "news: global it services": 1790059380349,
     "news: india ai deeptech": 1790057728053,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790059801431,
+    "news: india fintech": 1790060763743,
     "news: india semiconductors": 1790057953769,
     "news: india tech policy": 1790056506030,
     "news: india telecom": 1790060440932,
     "news: indian it majors": 1790059687210,
-    "news: indian it midcaps": 1790058987722,
+    "news: indian it midcaps": 1790059415007,
     "news: pib releases": 1790059200985,
     "news: tech leaders": 1790059382724,
     "nvidia": 1790013607775,
@@ -17130,17 +17130,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T07:03:09.304014+00:00",
+    "last_server_run": "2026-09-22T07:17:10.336236+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-22T05:04:42.358350+00:00",
+        "checked": "2026-09-22T07:18:13.757286+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-22T05:04:31.221191+00:00",
+        "checked": "2026-09-22T07:18:01.157182+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -17216,7 +17216,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-22T05:04:38.114304+00:00",
+        "checked": "2026-09-22T07:18:06.303894+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -17270,11 +17270,11 @@
       },
       "last": {
         "calendar": "2026-09-22T03:33:11.935422+00:00",
-        "ls_reports": "2026-09-22T05:04:12.458063+00:00",
-        "rs_committee_press": "2026-09-22T05:04:24.360883+00:00",
-        "rs_press": "2026-09-22T05:04:19.962296+00:00",
-        "rs_reports": "2026-09-22T05:04:16.691617+00:00",
-        "rs_updates": "2026-09-22T05:04:26.661554+00:00"
+        "ls_reports": "2026-09-22T07:17:39.740798+00:00",
+        "rs_committee_press": "2026-09-22T07:17:55.447119+00:00",
+        "rs_press": "2026-09-22T07:17:49.262891+00:00",
+        "rs_reports": "2026-09-22T07:17:44.393610+00:00",
+        "rs_updates": "2026-09-22T07:17:56.932814+00:00"
       }
     },
     "scanned": [
