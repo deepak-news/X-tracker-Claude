@@ -101,6 +101,24 @@ jobs:
             *)          python -m tracker.national ;;
           esac
 
+      # Once a day, on the first run after 7 pm India time: every committee
+      # meeting in both Houses for the week ahead (parliament_week.py). Every
+      # other run it only looks at the clock and stops. Does nothing until
+      # the PARLIAMENT_WEEK_TO secret exists.
+      - name: Send the week-ahead Parliament committee meetings
+        if: always() && inputs.mode != 'test-email'
+        timeout-minutes: 4
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          PARLIAMENT_WEEK_TO: ${{ secrets.PARLIAMENT_WEEK_TO }}
+        run: |
+          if [ "${{ inputs.mode }}" = "dry-run" ]; then
+            python -m tracker.parliament_week --dry-run
+          else
+            python -m tracker.parliament_week
+          fi
+
       - name: Remember what we have already seen
         if: always()
         run: |
