@@ -3,26 +3,6 @@
     {
       "at": "2026-09-17T12:32:14.908193+00:00",
       "handle": "News: Global chips",
-      "headline": "Noel Tata challenges N Chandrasekaran's reappointment as illegal",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNejdtYVNZeHBUZHFyRGVzTERIb3B4anBEb1lvSEZ2dUJ4aGQ4SGdfWGNmZ3RXaFBlV3pfdy11VHFCd0ZnN3pJT1JwVmpPTFltMFRWUWVMLUNsOFBPLXNRZ044VE5sUHdDckJ6TVRRRGxNNzFHUXl0TV9VWXlwY2d4endWODlPTmRkZV9UOGYwTGNhQzRXNGRZT19veGFnaER1dDVoMXRYSDdzWUJSaWxteWxMUFlpTG1COXE4NHVWSmlJbGRjYW11SjVIcEF3LVlpVmtPTi1GNXBJUdIB2gFBVV95cUxNejdtYVNZeHBUZHFyRGVzTERIb3B4anBEb1lvSEZ2dUJ4aGQ4SGdfWGNmZ3RXaFBlV3pfdy11VHFCd0ZnN3pJT1JwVmpPTFltMFRWUWVMLUNsOFBPLXNRZ044VE5sUHdDckJ6TVRRRGxNNzFHUXl0TV9VWXlwY2d4endWODlPTmRkZV9UOGYwTGNhQzRXNGRZT19veGFnaER1dDVoMXRYSDdzWUJSaWxteWxMUFlpTG1COXE4NHVWSmlJbGRjYW11SjVIcEF3LVlpVmtPTi1GNXBJUQ?oc=5",
-      "words": [
-        "2026",
-        "appointment",
-        "calls",
-        "chandra",
-        "drama",
-        "illegal",
-        "modi",
-        "noel",
-        "semicon",
-        "sons",
-        "tata"
-      ]
-    },
-    {
-      "at": "2026-09-17T12:32:14.908193+00:00",
-      "handle": "News: Global chips",
       "headline": "Japan considers acquiring GlobalFoundries US fab using tariff funds",
       "tier": 0,
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zOFZSdkxVeUo0WXF4bjdJU3B0TXVkS29wUDU4Y0dES2drVW5KeTlWMTFNeEpNdlp1VUU5cGZGRzItbjVIdTBCeWlidzdqcWFTRzlzWWVpczdhR2hVcWJpa0tRTTI3aE1ZTDl6QVF5RzBKOW5YNFFERQ?oc=5",
@@ -7345,35 +7325,29 @@
         "surge",
         "ubs"
       ]
+    },
+    {
+      "at": "2026-09-22T07:47:13.060286+00:00",
+      "handle": "PIB Communications",
+      "headline": "TRAI releases Telecom Consumer Protection 13th Amendment Regulations 2026",
+      "tier": 1,
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313349",
+      "words": [
+        "2026",
+        "amendment",
+        "consumer",
+        "protection",
+        "regulations",
+        "releases",
+        "telecom",
+        "thirteenth",
+        "trai"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789802648396",
-    "1789803016160",
-    "1789803036061",
-    "1789803098374",
-    "1789803317309",
-    "1789803354795",
-    "1789803394294",
-    "1789803540634",
-    "1789803727190",
-    "1789803825632",
-    "1789804260252",
-    "1789804332097",
-    "1789804350290",
-    "1789804508732",
-    "1789804536837",
-    "1789804560434",
-    "1789804615065",
-    "1789804929842",
-    "1789804973250",
-    "1789805172197",
-    "1789805189510",
-    "1789805233765",
-    "1789805466148",
-    "1789805509099",
     "1789805579668",
     "1789805580858",
     "1789805621919",
@@ -13349,10 +13323,34 @@
     "1790061630084",
     "1790061669237",
     "1790061960282",
-    "1790062293033"
+    "1790062293033",
+    "1789979569459",
+    "1790000520826",
+    "1790051515701",
+    "1790057238218",
+    "1790057488902",
+    "1790057992286",
+    "1790058506888",
+    "1790059312039",
+    "1790059415421",
+    "1790061300711",
+    "1790061499048",
+    "1790061669121",
+    "1790062026959",
+    "1790062211228",
+    "1790062304802",
+    "1790062338222",
+    "1790062364809",
+    "1790062372382",
+    "1790062404963",
+    "1790062440634",
+    "1790062567669",
+    "1790062849324",
+    "1790062913524",
+    "2313349"
   ],
   "last_digest_hour": "2026-09-22T13",
-  "last_success": "2026-09-22T07:32:22.360161+00:00",
+  "last_success": "2026-09-22T07:47:13.068032+00:00",
   "national": {
     "alerted": [
       {
@@ -14865,7 +14863,7 @@
       "CG-DL-E-22092026-276358",
       "CG-DL-E-22092026-276359"
     ],
-    "last_run": "2026-09-22T07:39:00.062292+00:00",
+    "last_run": "2026-09-22T07:49:04.556586+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15969,7 +15967,9 @@
       "pib:2313324",
       "pib:2313321",
       "pib:2313343",
-      "page:https://www.cbse.gov.in/cbsenew/documents/PUBLIC_NOTICE_Rev_NSP_22092026.pdf"
+      "page:https://www.cbse.gov.in/cbsenew/documents/PUBLIC_NOTICE_Rev_NSP_22092026.pdf",
+      "pib:2313349",
+      "pib:2313351"
     ],
     "source_failures": {
       "CBI": {
@@ -16009,7 +16009,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "India's upcoming UPI fee shift expected to strengthen dominant incumbents",
+      "post": {
+        "created_at": "2026-09-22T07:15:00+00:00",
+        "handle": "News: India fintech",
+        "id": "1790061300711",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "TradingView",
+        "reposts": 0,
+        "text": "Big to get bigger: India's UPI fee shift to entrench dominant incumbents",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzR6TkV4WS1DSEpDMTFsaG1Db1NsNmpWWmc2S19wWFZFSEVKeEhhWU81c3RPREJEZ1hxSUItOUtnbG9KSERSd3BHYUdZNDhnWmNpdHRjNEVGUHJpalZhVkl4aGEzTlJkcm1OZVhOUnNxQnNZREtTNnQzV19qa2k4ZmFGcUNtdXFPUmJIb1Rnd3M3RDFVM1JSNXVtWFpXRmJCQXV6UDFpVk90WWtYWEJtX21RVnkwOURrbk9NWkxMZVRxOFdRVnY3aFNGMTZqeUx5elpZcE40b1A?oc=5"
+      },
+      "queued_at": "2026-09-22T07:47:13.060618+00:00",
+      "score": 7.0,
+      "why": "Market impact analysis on fintech regulations and dominant players."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -16994,27 +17013,27 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790056882791,
-    "news: consumer internet india": 1790060909649,
+    "news: big tech platforms": 1790062849324,
+    "news: consumer internet india": 1790062026959,
     "news: global ai": 1790061362398,
     "news: global chips": 1790060289956,
     "news: global it services": 1790059380349,
-    "news: india ai deeptech": 1790057728053,
+    "news: india ai deeptech": 1790059312039,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790061960282,
-    "news: india semiconductors": 1790062293033,
+    "news: india fintech": 1790062338222,
+    "news: india semiconductors": 1790062567669,
     "news: india tech policy": 1790056506030,
-    "news: india telecom": 1790060440932,
-    "news: indian it majors": 1790061630084,
-    "news: indian it midcaps": 1790059415007,
-    "news: pib releases": 1790059200985,
+    "news: india telecom": 1790062404963,
+    "news: indian it majors": 1790062364809,
+    "news: indian it midcaps": 1790062913524,
+    "news: pib releases": 1790062440634,
     "news: tech leaders": 1790059382724,
     "nvidia": 1790013607775,
     "nvidia blog": 1790013607775,
     "openai": 1789992000699,
     "oracle": 1789631219707,
     "phonepe": 1790060532360,
-    "pib communications": 2313144,
+    "pib communications": 2313349,
     "pib meity": 2313324,
     "pib science and technology": 2313217,
     "razorpay": 1789986994125,
@@ -17044,7 +17063,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T07:32:22.582781+00:00",
+    "last_server_run": "2026-09-22T07:47:13.326142+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T07:18:13.757286+00:00",
