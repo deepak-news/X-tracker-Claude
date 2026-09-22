@@ -7390,34 +7390,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789832156369",
-    "1789832340646",
-    "1789754760113",
-    "1789755260454",
-    "1789767233447",
-    "1789767619084",
-    "1789772400042",
-    "1789773984651",
-    "1789801920221",
-    "1789803614059",
-    "1789803649034",
-    "1789814580811",
-    "1789816260328",
-    "1789825246238",
-    "1789827120920",
-    "1789830312418",
-    "1789831800670",
-    "1789832025766",
-    "1789832110002",
-    "1789832796178",
-    "1789833103618",
-    "1789833522669",
-    "1789791357916",
-    "1789812132251",
-    "1789814704224",
-    "1789815787902",
-    "1789823400256",
-    "1789825496572",
     "1789828140828",
     "1789829683228",
     "1789832296766",
@@ -13389,10 +13361,38 @@
     "1790083947992",
     "1790086870426",
     "1790087580898",
-    "1790087582646"
+    "1790087582646",
+    "1790007342715",
+    "1790008394606",
+    "1790044205179",
+    "1790067319410",
+    "1790067420697",
+    "1790073180185",
+    "1790075251383",
+    "1790077200297",
+    "1790080253107",
+    "1790081620970",
+    "1790083320328",
+    "1790083374910",
+    "1790083731157",
+    "1790083807687",
+    "1790085120932",
+    "1790086545861",
+    "1790087220118",
+    "1790087580524",
+    "1790088118339",
+    "1790088159724",
+    "1790088446503",
+    "1790088509456",
+    "1790088785206",
+    "1790088811970",
+    "1790089138046",
+    "1790106647033",
+    "1790107481762",
+    "1790107498134"
   ],
   "last_digest_hour": "2026-09-22T20",
-  "last_success": "2026-09-22T14:48:54.166177+00:00",
+  "last_success": "2026-09-22T15:04:25.312786+00:00",
   "national": {
     "alerted": [
       {
@@ -15007,7 +15007,7 @@
       "CG-DL-E-22092026-276391",
       "CG-DL-E-22092026-276392"
     ],
-    "last_run": "2026-09-22T14:51:32.298382+00:00",
+    "last_run": "2026-09-22T15:08:21.290103+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16186,7 +16186,8 @@
       "gazette:CG-DL-E-22092026-276391",
       "pib:2313630",
       "pib:2313633",
-      "gazette:CG-DL-E-22092026-276392"
+      "gazette:CG-DL-E-22092026-276392",
+      "pib:2313640"
     ],
     "source_failures": {
       "CBI": {
@@ -16194,8 +16195,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "DGFT": {
-        "count": 6,
-        "until": "2026-09-22T15:04:32.857333+00:00"
+        "count": 7,
+        "until": "2026-09-22T21:05:01.178967+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -16244,6 +16245,42 @@
       "queued_at": "2026-09-22T14:48:54.146854+00:00",
       "score": 7.0,
       "why": "Regulatory compliance and safe harbour discussions involving big tech platforms are relevant to Indian IT policy."
+    },
+    {
+      "headline": "Persistent Systems acquires additional 61% stake in Nagarro",
+      "post": {
+        "created_at": "2026-09-22T13:30:07+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1790083807687",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Upstox",
+        "reposts": 0,
+        "text": "Persistent Systems picks additional 61% stake in German-based firm Nagarro; check details",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYmZJbVlWVkNFdW10YjktMGJEcVpXTlktalVJeFJ4YkROdTBvd2VtOW15SmtsMWg4TjdqblZ2cGFhdXk2QmgyTVlsZlVGVmtEZ3psWDRNWUhHMEZiU2Z6NENGR1k0dk9tQXRlenk4dTUtME82RXpSRFlpVVYtZFBMMU9yMThMRUY0UUszTHVjV0xSWm5CZGt0dHZNbThHSUlqZDBqLVRmemlZa1RqYVFTYWlPZWt3ZEZ3VUxXaVMxdHdIWlRDMV9YR1FQdUNmN1lVcTFWempEb3R5WFRORjlIVWZZYU14eXoza05tZEpQVWo2M0tTbjVTSUM2RVdpX2s?oc=5"
+      },
+      "queued_at": "2026-09-22T15:04:25.293191+00:00",
+      "score": 9.0,
+      "why": "Major M&A development involving a significant stake increase."
+    },
+    {
+      "headline": "India ends free UPI era for large merchant payments",
+      "post": {
+        "created_at": "2026-09-22T14:47:26+00:00",
+        "handle": "News: India fintech",
+        "id": "1790088446503",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "TheTechPanda",
+        "reposts": 0,
+        "text": "India Ends Six-Year Free UPI Era For Some Large Merchant Payments. Here\u2019s What Changes",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREN1NnlkMlIzNlNnaU8tRVhzQ1BuU29pNmdTSnNwWFNRNl9kbTdqU0hhaXJhamV5b1dsTEdWQUVvS3BkSDN4eklEWlFaREpJWW0wa3E5aEkwUUQwcHdkemRCLWtZUWROUERUWGozbl9Yb3FTUGFzUXppdW8wSGxsaEFzRjhJYVFFVDQtQURueklrOXdLVjlxd2VqamFDcEpjQ1ZfTG1PdUdOS1BURFFPbFVZQkljdVk?oc=5"
+      },
+      "queued_at": "2026-09-22T15:04:25.293191+00:00",
+      "score": 8.0,
+      "why": "Significant policy/regulatory shift impacting the fintech sector."
     }
   ],
   "page_links": {
@@ -17192,7 +17229,7 @@
     "aws": 1790007084244,
     "bse bharti airtel": 1790074807496,
     "bse black box": 1790075214180,
-    "bse coforge": 1789904582311,
+    "bse coforge": 1790107498134,
     "bse cyient": 1790080137802,
     "bse eternal/zomato": 1789766425381,
     "bse fractal analytics": 1789599537695,
@@ -17201,7 +17238,7 @@
     "bse hfcl": 1789747209217,
     "bse info edge": 1789415448835,
     "bse infosys": 1789727487991,
-    "bse kpit technologies": 1790027885423,
+    "bse kpit technologies": 1790107481762,
     "bse lenskart": 1789846180435,
     "bse ltimindtree": 1789996344894,
     "bse ltts": 1789490917112,
@@ -17215,7 +17252,7 @@
     "bse nykaa": 1789155118992,
     "bse ola electric": 1789430149909,
     "bse paytm": 1789578149191,
-    "bse persistent": 1790105637145,
+    "bse persistent": 1790106647033,
     "bse reliance": 1790018277391,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1790077442426,
@@ -17249,16 +17286,16 @@
     "news: global ai": 1790080345430,
     "news: global chips": 1790086522617,
     "news: global it services": 1790084888760,
-    "news: india ai deeptech": 1790086140534,
+    "news: india ai deeptech": 1790088509456,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790086140534,
+    "news: india fintech": 1790088811970,
     "news: india semiconductors": 1790084878650,
-    "news: india tech policy": 1790081535101,
-    "news: india telecom": 1790086471157,
+    "news: india tech policy": 1790086545861,
+    "news: india telecom": 1790088785206,
     "news: indian it majors": 1790087474366,
-    "news: indian it midcaps": 1790087580898,
+    "news: indian it midcaps": 1790089138046,
     "news: pib releases": 1790083947992,
-    "news: tech leaders": 1790083495898,
+    "news: tech leaders": 1790083731157,
     "nvidia": 1790078441723,
     "nvidia blog": 1790078441723,
     "openai": 1789992000699,
@@ -17294,7 +17331,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T14:48:54.498869+00:00",
+    "last_server_run": "2026-09-22T15:04:25.631795+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T13:34:12.382082+00:00",
