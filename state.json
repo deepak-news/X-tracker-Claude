@@ -7338,17 +7338,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789738293566",
-    "1789738328115",
-    "1789738500755",
-    "1789738834308",
-    "1789738929932",
-    "1789738945135",
-    "1789739063051",
-    "1789739102925",
-    "1789739141657",
-    "1789739254532",
-    "1789739309836",
     "1789739322686",
     "1789739554416",
     "1789739607214",
@@ -13337,10 +13326,21 @@
     "1790035200478",
     "1790037000328",
     "1790037053419",
-    "1790037701628"
+    "1790037701628",
+    "1789965000177",
+    "1789977720938",
+    "1790013600836",
+    "1790013684487",
+    "1790018520813",
+    "1790018760304",
+    "1790020800457",
+    "1790031597539",
+    "1790037053688",
+    "1790038294954",
+    "1790038478830"
   ],
   "last_digest_hour": "2026-09-22T06",
-  "last_success": "2026-09-22T00:46:56.802971+00:00",
+  "last_success": "2026-09-22T01:02:22.873978+00:00",
   "national": {
     "alerted": [
       {
@@ -14851,7 +14851,7 @@
       "CG-DL-E-21092026-276376",
       "SG-DL-E-21092026-276375"
     ],
-    "last_run": "2026-09-22T00:53:03.771100+00:00",
+    "last_run": "2026-09-22T01:03:16.396820+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15951,9 +15951,6 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "CERT-In": {
-        "count": 1
-      },
       "DGFT": {
         "count": 4,
         "until": "2026-09-22T03:02:51.759674+00:00"
@@ -15987,7 +15984,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Apple India revenue exceeds $10 billion for FY26",
+      "post": {
+        "created_at": "2026-09-21T22:59:57+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1790031597539",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "TechnoSports Media Group",
+        "reposts": 0,
+        "text": "Apple\u2019s India Revenue Crosses $10 Billion for the First Time in FY26",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YUXU2YTNIUnllOHpFeHNvUjJndFR4OTR3LWVFOGpDc0JZdHNGcDBRZDBtaFNBM0l4NXZNenpxMXRYZ3VUZGt1cWh2eUdWbVFMOEwxRUh1RWRJbzFvNXZ4a1ZYaFlTYUNxa2tDb1pVVU04OTY1Qm9TVVhDU3Z1eXc?oc=5"
+      },
+      "queued_at": "2026-09-22T01:02:22.868041+00:00",
+      "score": 9.0,
+      "why": "Major financial milestone for a top global tech giant operating in India."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -16970,21 +16986,21 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790012900217,
+    "news: big tech platforms": 1790031597539,
     "news: consumer internet india": 1790036765579,
     "news: global ai": 1790030484883,
-    "news: global chips": 1790036584109,
+    "news: global chips": 1790038478830,
     "news: global it services": 1790035200478,
     "news: india ai deeptech": 1790021511039,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790035812746,
+    "news: india fintech": 1790038294954,
     "news: india semiconductors": 1790027979400,
     "news: india tech policy": 1790034428959,
     "news: india telecom": 1790037701628,
     "news: indian it majors": 1790037000328,
     "news: indian it midcaps": 1790029187273,
     "news: pib releases": 1790031798098,
-    "news: tech leaders": 1790017080904,
+    "news: tech leaders": 1790018520813,
     "nvidia": 1790013607775,
     "nvidia blog": 1790013607775,
     "openai": 1789992000699,
@@ -17020,7 +17036,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T00:46:57.143569+00:00",
+    "last_server_run": "2026-09-22T01:02:23.224060+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T00:33:50.059746+00:00",
