@@ -2,25 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-18T08:32:51.582162+00:00",
-      "handle": "News: India tech policy",
-      "headline": "India proposes nationwide donor tracking using digital health ID and Aadhaar",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjFjd2ltZjBXUVNYTVVCUk11U2QyeTc3QkxnMTEyQ3JBM0wyc2pCclh1Yk1OQzIyZGFFYzJlWVliR0Q3bFNabENCYXNLYjctZlNWWmRyTGExa3FwUEtmZG1MWUpZa2pUMVJhVDU1TDNGY3pOT0d4X1ZHLXpDR2FrdWh6ODFsTGFwVklfWTZhdFFSajNfZ3p1Um9iQ1hVS3lSa2lHdThZbHltNngxUXhWNDBzTTdaVW8tMGtiSndHMA?oc=5",
-      "words": [
-        "aadhaar",
-        "abdm",
-        "abha",
-        "donor",
-        "linked",
-        "nationwide",
-        "otp",
-        "proposes",
-        "tracking",
-        "using"
-      ]
-    },
-    {
-      "at": "2026-09-18T08:32:51.582162+00:00",
       "handle": "News: Consumer internet India",
       "headline": "BSE and Meesho launch Project Shikhar SME listing push in Delhi",
       "tier": 0,
@@ -7390,27 +7371,34 @@
         "meity",
         "shipments"
       ]
+    },
+    {
+      "at": "2026-09-22T19:17:52.045832+00:00",
+      "handle": "OpenAI",
+      "headline": "OpenAI launches GPT-6 Sol and Luna models with lower API pricing",
+      "tier": 1,
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "words": [
+        "article",
+        "balances",
+        "bring",
+        "capability",
+        "cost",
+        "different",
+        "everyday",
+        "frontie",
+        "frontier",
+        "gpt",
+        "intelligence",
+        "introducing",
+        "luna",
+        "meet"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789783098638",
-    "1789784899391",
-    "1789794498656",
-    "1789794905251",
-    "1789799727745",
-    "1789802336004",
-    "1789815480776",
-    "1789823040359",
-    "1789824585269",
-    "1789845962236",
-    "1789779310925",
-    "1789800673072",
-    "1789805580217",
-    "1789811700123",
-    "1789811739482",
-    "1789818637229",
     "1789819500686",
     "1789822259829",
     "1789823933380",
@@ -13394,10 +13382,26 @@
     "1790081640645",
     "1790082474227",
     "1790087734724",
-    "1790097595504"
+    "1790097595504",
+    "1790049637919",
+    "1790068525051",
+    "1790079840871",
+    "1790085220012",
+    "1790093400376",
+    "1790093700219",
+    "1790094300276",
+    "1790094420803",
+    "1790094900424",
+    "1790097312787",
+    "1790098020683",
+    "1790098858432",
+    "1790100000357",
+    "1790103951140",
+    "1790103960284",
+    "1790104395674"
   ],
   "last_digest_hour": "2026-09-23T00",
-  "last_success": "2026-09-22T19:03:15.952971+00:00",
+  "last_success": "2026-09-22T19:17:52.249733+00:00",
   "national": {
     "alerted": [
       {
@@ -15067,9 +15071,12 @@
       "CG-AP-E-23092026-276403",
       "CG-DL-E-23092026-276407",
       "CG-MH-E-23092026-276404",
-      "CG-TL-E-23092026-276406"
+      "CG-TL-E-23092026-276406",
+      "CG-CG-E-23092026-276409",
+      "CG-MH-E-23092026-276408",
+      "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-22T19:09:51.631667+00:00",
+    "last_run": "2026-09-22T19:20:16.215097+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16274,15 +16281,15 @@
       "gazette:CG-DL-E-23092026-276407",
       "gazette:CG-AP-E-23092026-276403",
       "gazette:CG-MH-E-23092026-276404",
-      "gazette:CG-TL-E-23092026-276406"
+      "gazette:CG-TL-E-23092026-276406",
+      "gazette:CG-MH-E-23092026-276408",
+      "gazette:CG-UP-E-23092026-276410",
+      "gazette:CG-CG-E-23092026-276409"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "CERT-In": {
-        "count": 1
       },
       "DGFT": {
         "count": 7,
@@ -16353,6 +16360,24 @@
       "queued_at": "2026-09-22T18:47:05.384131+00:00",
       "score": 7.0,
       "why": "A new partnership between fintech and logistics platforms involving UPI services in India."
+    },
+    {
+      "headline": "Palo Alto Networks unveils AI cybersecurity service using Claude and GPT",
+      "post": {
+        "created_at": "2026-09-22T16:27:00+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1790094420803",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR29Jd2pHY3pCZHVDLUxjR2YzQ3c2YldqRTQ2b1FNUWVib21oUV9rZ2RuRUM1ZG9qR0h3WVh1NzRJSkFVbmRoR1B5Ylg2MExqU0o1ZE5YdVY2Rlg1YjY2TWJ0NFhiRElQeU5GOVpOTE5yVjVSeEFuSHZ2cFdyamI4U2lFdUVRUFFpc2Y4a1FmR3VwZXJhdERsZjBDYkI0elBSVzZidzJ6LVVnRXdaM080UnR0bmdXelFndFF0dFRmckFhdU15ZTU2NTQzbFZNTm9ZOTY2T2ZwZEtsX3I2d3IyZEVyMFZhcjA4UjRkNjV30gHuAUFVX3lxTE9Hb0l3akdjekJkdUMtTGNHZjNDdzZiV2pFNDZvUU1RZWJvbWhRX2tnZG5FQzVkb2pHSHdZWHU3NElKQVVuZGhHUHliWDYwTGpTSjVkTlh1VjZGWDViNjZNYnQ0WGJESVB5TkY5Wk5MTnJWNVJ4QW5IdnZwV3JqYjhTaUV1RVFQUWlzZjhrUWZHdXBlcmF0RGxmMENiQjR6UFJXNmJ3MnotVWdFd1ozTzRSdHRuZ1d6UWd0UXR0VGZyQWF1TXllNTY1NDNsVk1Ob1k5NjZPZnBkS2xfcjZ3cjJkRXIwVmFyMDhSNGQ2NXc?oc=5"
+      },
+      "queued_at": "2026-09-22T19:17:52.231669+00:00",
+      "score": 7.0,
+      "why": "Major partnership and product launch involving top AI model makers."
     }
   ],
   "page_links": {
@@ -17356,7 +17381,7 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790097240152,
-    "news: consumer internet india": 1790098816984,
+    "news: consumer internet india": 1790104395674,
     "news: global ai": 1790101422430,
     "news: global chips": 1790100256409,
     "news: global it services": 1790095503972,
@@ -17365,14 +17390,14 @@
     "news: india fintech": 1790102546615,
     "news: india semiconductors": 1790100581854,
     "news: india tech policy": 1790100269850,
-    "news: india telecom": 1790102299714,
+    "news: india telecom": 1790103960284,
     "news: indian it majors": 1790098186913,
     "news: indian it midcaps": 1790096443775,
-    "news: pib releases": 1790094900631,
+    "news: pib releases": 1790098858432,
     "news: tech leaders": 1790102025459,
     "nvidia": 1790078441723,
     "nvidia blog": 1790078441723,
-    "openai": 1790035200866,
+    "openai": 1790100000357,
     "oracle": 1789631219707,
     "phonepe": 1790060532360,
     "pib communications": 2313673,
@@ -17405,7 +17430,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T19:03:16.312483+00:00",
+    "last_server_run": "2026-09-22T19:17:52.520683+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T17:48:32.551963+00:00",
@@ -17560,6 +17585,7 @@
       "CG-BR-E-15092026-276210",
       "CG-BR-E-21092026-276348",
       "CG-BR-E-22092026-276400",
+      "CG-CG-E-23092026-276409",
       "CG-DL-E-15092026-276194",
       "CG-DL-E-15092026-276195",
       "CG-DL-E-15092026-276196",
@@ -17717,6 +17743,7 @@
       "CG-MH-E-21092026-276338",
       "CG-MH-E-22092026-276383",
       "CG-MH-E-23092026-276404",
+      "CG-MH-E-23092026-276408",
       "CG-MP-E-21092026-276331",
       "CG-MP-E-21092026-276365",
       "CG-MP-E-21092026-276366",
@@ -17746,6 +17773,7 @@
       "CG-UP-E-17092026-276295",
       "CG-UP-E-21092026-276364",
       "CG-UP-E-21092026-276369",
+      "CG-UP-E-23092026-276410",
       "CG-WB-E-15092026-276202",
       "CG-WB-E-15092026-276203",
       "CG-WB-E-21092026-276362",
