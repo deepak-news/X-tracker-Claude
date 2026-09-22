@@ -198,6 +198,29 @@ def _fingerprint(text: str) -> set:
     return {w for w in words if w not in _STOP}
 
 
+# A company sometimes files ONE letter to the exchange twice, under two
+# headings -- TCS's results-date letter came as "Board Meeting" and again as
+# "Dividend", 13 minutes apart. The exchange's one-line summaries differ, so
+# the opening words do not match; the letter itself is word for word the
+# same. So for filings by the same company the letter is compared as well.
+SAME_FILING = 0.60
+FILING_CHARS = 600
+
+
+def _filing_words(post) -> set:
+    """The words of the filed letter itself, if this item carries one."""
+    text = post.text or ""
+    if "FULL FILING:" not in text:
+        return set()
+    return _fingerprint(text.split("FULL FILING:", 1)[1][:FILING_CHARS])
+
+
+def _same_filing(words_a: set, words_b: set) -> bool:
+    if not words_a or not words_b:
+        return False
+    return len(words_a & words_b) / min(len(words_a), len(words_b)) >= SAME_FILING
+
+
 def _both_regulator_documents(a_handle: str, b_handle: str) -> bool:
     """CCI, CERT-In and DGFT publish one document per event, in set wording:
     two merger approvals share "CCI merger decision approved form filed
@@ -217,6 +240,8 @@ def _same_story(a, b) -> bool:
         return False
     if _both_regulator_documents(a.handle, b.handle):
         return False
+    if a.handle == b.handle and _same_filing(_filing_words(a), _filing_words(b)):
+        return True
     x, y = _fingerprint(_story_text(a)[:200]), _fingerprint(_story_text(b)[:200])
     if not x or not y:
         return False
@@ -272,8 +297,13 @@ def drop_already_alerted(posts: list, state: dict) -> list:
             dropped += 1
             continue
         mark = _fingerprint(_story_text(post)[:200])
+        letter = _filing_words(post)
         hit = False
         for entry in remembered:
+            if (letter and entry.get("handle") == post.handle
+                    and _same_filing(letter, set(entry.get("filing") or []))):
+                hit = True
+                break
             other = set(entry.get("words", []))
             if not other or not mark:
                 continue
@@ -302,10 +332,14 @@ def remember_alerted(state: dict, rows: list) -> None:
     remembered = state.setdefault("alerted", [])
     for row in rows:
         post = row[0]
-        remembered.append({"words": _story_words(post), "url": post.url,
-                           "handle": post.handle, "tier": _authority(post),
-                           "headline": (row[2] if len(row) > 2 else post.text)[:110],
-                           "at": now.isoformat()})
+        entry = {"words": _story_words(post), "url": post.url,
+                 "handle": post.handle, "tier": _authority(post),
+                 "headline": (row[2] if len(row) > 2 else post.text)[:110],
+                 "at": now.isoformat()}
+        letter = _filing_words(post)
+        if letter:
+            entry["filing"] = sorted(letter)
+        remembered.append(entry)
     cutoff = now - dt.timedelta(hours=ALERTED_MEMORY_HOURS)
     fresh = []
     for entry in remembered:
