@@ -1,40 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-17T10:32:27.200430+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI discloses six new incidents of concerning AI behavior",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGJ5REJqQWtzNF9zTVU3b0FOUzRFQzZMODk0MFFsTnF3Y190TmxwaDROYVZsTk9fa0pyWUZELWdpR1ZrVXZ6dEhXWGRpMXNJdVJDWkZqVUJIOWw3S1pnV1d4WFNOaEVJVEtoMnM3VVJzT2tzRU1MWndGUU9JY0VBajVaYk5ZaVhWUDFBNjRraGFCSDJBdF9uak5MQVFvb28?oc=5",
-      "words": [
-        "behavior",
-        "concerning",
-        "discloses",
-        "incidents",
-        "openai",
-        "private",
-        "six"
-      ]
-    },
-    {
-      "at": "2026-09-17T10:32:27.200430+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "N Chandrasekaran reappointed as chairman across multiple Tata companies",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZmYzM3JSUFp3Nlp2WnBac2FEZkE2VGVyVkxqOTVsR181dVVMUW9rRUU5bkcweXBZU1FMenRPbXpVWnRjNnNjNWE1YUhLaVBpUGpKa0tmaFFtWEEyY1RuRnRfR0ZKQ3hMcEFhMUhDWmN6OXgzLUtpRE9HZmlpcUZjaTd2QTlPYkNkUk84cFJLYVhibnk0SEJ5MXJhdm0wazdFTlpqREtydWZWcjBYQjkwRklwTWpLR1VtNlBZZHJXYXZ5R1JOc29pQ1AtZEhaXzhTOHRZdnpyblI1XzNGczgyUVBqUzlJdW9BY2JxTUE5NkFKWGZyYXpZc2VrWldOZjI2WmRsX9IBigJBVV95cUxOMXFEWW5WQTduT19fM3BsaXpPdXc0Z21JcUZFN2ZfeTR4X0JlcWM2aEE4WnhLWUJrWDBNSW1tZWdHRlF6bWIzVXFlOEF1R2F3LVJlSzR3WWtUSHJ1dndLb29GSlN3ZVdIb0JyeXFzQktJMkY3QzI4NnpzY2Z6ck02Sm9TRUdwczk5bEl3bEJwWWwzUGFzZUszMzhJd1NuOVBHVFBDWXhWQXZPelU4c2M0Um9BUENONlFvdDRhVEpQSDZ3ZnROc2lTTjdDX0ZMUWUzbXkwNm5QYWNYU1lPMzZ1bXFVT2wxZXBXaEFPck92dlVkN1RCTzhpdlVFU2J6Z01kcXg0UlcxU2hvdw?oc=5",
-      "words": [
-        "chairman",
-        "chandrasekaran",
-        "chemicals",
-        "investment",
-        "reappointed",
-        "rise",
-        "tata",
-        "tcs",
-        "tech"
-      ]
-    },
-    {
       "at": "2026-09-17T11:32:49.573163+00:00",
       "handle": "News: India semiconductors",
       "headline": "Applied Materials and Lam Research unveil major India expansion plans",
@@ -7334,41 +7300,53 @@
         "quantum",
         "teams"
       ]
+    },
+    {
+      "at": "2026-09-22T07:03:08.545389+00:00",
+      "handle": "BSE Cyient",
+      "headline": "Cyient independent director Nitin Prasad ceases office upon tenure completion",
+      "tier": 2,
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9c7af8b3-a58b-458a-8b1b-074b94f8fe02.pdf",
+      "words": [
+        "2015",
+        "completion",
+        "director",
+        "filing",
+        "full",
+        "independent",
+        "intimation",
+        "regulations",
+        "sub",
+        "tenure"
+      ]
+    },
+    {
+      "at": "2026-09-22T07:03:08.545389+00:00",
+      "handle": "PhonePe",
+      "headline": "PhonePe secures in-principle approval from UAE central bank for international expansion",
+      "tier": 1,
+      "url": "https://www.phonepe.com/press/phonepe-marks-first-international-footprint-in-uae-securing-in-principle-approval-from-central-bank-of-uae",
+      "words": [
+        "2026",
+        "approval",
+        "article",
+        "bank",
+        "bengaluru",
+        "central",
+        "dubai",
+        "first",
+        "footprint",
+        "international",
+        "marks",
+        "phonepe",
+        "principle",
+        "published"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789792700019",
-    "1789793106511",
-    "1789793542693",
-    "1789793687320",
-    "1789793957910",
-    "1789794110331",
-    "1789794166684",
-    "1789794521540",
-    "1789794681452",
-    "1789794732152",
-    "1789794884766",
-    "1789794988325",
-    "1789795135473",
-    "1789795440155",
-    "1789795440192",
-    "1789795440382",
-    "1789795440397",
-    "1789795440708",
-    "1789795440839",
-    "1789795483136",
-    "1789795484395",
-    "1789795486915",
-    "1789795593113",
-    "1789795612905",
-    "1789795654545",
-    "1789795773380",
-    "1789795808424",
-    "1789795851503",
-    "1789795860840",
-    "1789795883840",
     "1789795920020",
     "1789796179018",
     "1789796250118",
@@ -13338,10 +13316,40 @@
     "1790059200985",
     "1790059380349",
     "1790059382724",
-    "2313324"
+    "2313324",
+    "1789980877863",
+    "1789990380215",
+    "1789998367421",
+    "1790002860049",
+    "1790002974979",
+    "1790032220207",
+    "1790054142988",
+    "1790054858382",
+    "1790054985265",
+    "1790055480995",
+    "1790055766499",
+    "1790055828056",
+    "1790056538222",
+    "1790056860887",
+    "1790059215881",
+    "1790059410264",
+    "1790059534069",
+    "1790059536338",
+    "1790059537704",
+    "1790059539322",
+    "1790059541839",
+    "1790059687210",
+    "1790059781629",
+    "1790059785961",
+    "1790059801431",
+    "1790059858732",
+    "1790059935258",
+    "1790060440932",
+    "1790060532360",
+    "1790080137802"
   ],
   "last_digest_hour": "2026-09-22T12",
-  "last_success": "2026-09-22T06:47:54.915497+00:00",
+  "last_success": "2026-09-22T07:03:08.992698+00:00",
   "national": {
     "alerted": [
       {
@@ -14854,7 +14862,7 @@
       "CG-DL-E-22092026-276358",
       "CG-DL-E-22092026-276359"
     ],
-    "last_run": "2026-09-22T06:53:28.725367+00:00",
+    "last_run": "2026-09-22T07:10:50.478296+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16032,6 +16040,60 @@
       "queued_at": "2026-09-22T06:47:54.906929+00:00",
       "score": 7.0,
       "why": "Significant regulatory and policy stance regarding AI liability involving major tech leadership."
+    },
+    {
+      "headline": "Indian IT index falls for third consecutive day amid CLSA caution",
+      "post": {
+        "created_at": "2026-09-22T05:29:45+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790054985265",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "IT index falls for third day, LTM, HCLTech, lead losses; CLSA turns cautious amid weak macro fundamentals",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPLXMxNGxEeVM3OEstNWJmbU5XX0w2UFY5ZDJkTkdrRDRfLVlMWkE5Njc3NndGakNJamNwbTBEa1VBSkpZdEs2c0tYUEIwczAzOWY1QkdWN1pMRjdGaG5HbmlrZUpkcEhpd1dGc0E5VXBmQ1UteVdwZ2dRRDhkOVhVQ0t1NlFOcDZScjJlTVFWdklmbFo2LU0yOHpVYW16OERld0pkLTg5aEV1QTdEaFQtaGdWSndRZi1VZjZzOFpFZmJBaWEydFZka3YxaWNjbW1aLUc5bEl4X09Ea1VaeFFkWkFGcndCbW9uZWtIZXhyZGV6eW10VWZKTnlMVVlPcknSAf8BQVVfeXFMTy1zMTRsRHlTNzhLLTViZm1OV19MNlBWOWQyZE5Ha0Q0Xy1ZTFpBOTY3NzZ3RmpDSWpjcG0wRGtVQUpKWXRLNnNLWFBCMHMwMzlmNUJHVjdaTEY3RmhuR25pa2VKZHBIaXdXRnNBOVVwZkNVLXlXcGdnUUQ4ZDlYVUNLdTZRTnA2UnIyZU1RVnZJZmxaNi1NMjh6VWFtejhEZXdKZC04OWhFdUE3RGhULWhnVkp3UWYtVWY2czhaRWZiQWlhMnRWZGt2MWljY21tWi1HOWxJeF9PRGtVWnhRZFpBRnJ3Qm1vbmVrSGV4cmRlenltdFVmSk55TFVZT3JJ?oc=5"
+      },
+      "queued_at": "2026-09-22T07:03:08.984600+00:00",
+      "score": 7.0,
+      "why": "Market downturn and analyst downgrades affecting major IT stocks constitute market-moving news."
+    },
+    {
+      "headline": "Tower Semiconductor secures $1.3 billion in silicon photonics contracts",
+      "post": {
+        "created_at": "2026-09-22T06:40:15+00:00",
+        "handle": "News: Global chips",
+        "id": "1790059215881",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Yahoo Finance",
+        "reposts": 0,
+        "text": "Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFNDNi1UTG8wdVp5UFdDY2kzWmV5Q3ZSb2JEV2VxRU5zN1lmODZlQjdKNERjSVFkZ2l1eWFILXU1TkV2MUpHV1FNWnVQTmNRaXE0Skt2ejhSU1VRQktqdmR3VDFjQmpoMEo5bXZPWGtnR3NDMS1MZjd0SGhZY2tiLTFMbmZpZW05bVhTQmxVenQ1OTZjSE04?oc=5"
+      },
+      "queued_at": "2026-09-22T07:03:08.984600+00:00",
+      "score": 7.0,
+      "why": "Major semiconductor contract win with direct relevance to AI growth and global chip manufacturing."
+    },
+    {
+      "headline": "Meesho shares surge 12% following UBS upgrade and raised estimates",
+      "post": {
+        "created_at": "2026-09-22T06:45:36+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790059536338",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Upstox",
+        "reposts": 0,
+        "text": "Meesho shares surge 12% as UBS raises NMV, EBITDA estimates for FY29-31; here's what analysts said",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcDhkcWRKQWM4SkV2bmlwUlZxUzhqOGh4dHl3TVdGbGtieXUzN1dKVlVITDRUa1V1UWNRWHZkYUJreGJlQmtUNmZrbEJsX0JPd0loeGF6d0tWelRTV3JQRndPT1kzd3pFUVp4ZW9SWm52YS1GUTVDSk5nbHlVT1pwcVlhVldkT1l1cERPRnBlMmIzdHhIWHlRVGtCc3VtdER0dzEtbVlMSWtNRFV6V09Ubk5NN3Rfc01fLUtCczkzV2FBUlIxU2ZZdDk0ZEhkQXRIYzJ5ejRoYWo?oc=5"
+      },
+      "queued_at": "2026-09-22T07:03:08.984600+00:00",
+      "score": 7.0,
+      "why": "Significant stock movement and brokerage upgrades for a major Indian e-commerce platform."
     }
   ],
   "page_links": {
@@ -16783,6 +16845,7 @@
       "https://www.phonepe.com/press/phonepe-launches-fixed-deposit-distribution-in-partnership-with-leading-banks-nbfcs": "2026-09-17T07:46:47.098672+00:00",
       "https://www.phonepe.com/press/phonepe-launches-pulsepro-actionable-data-intelligence-for-indian-businesses": "2026-09-17T07:46:47.098672+00:00",
       "https://www.phonepe.com/press/phonepe-launches-upi-payments-for-indias-feature-phone-users": "2026-09-17T07:46:47.098672+00:00",
+      "https://www.phonepe.com/press/phonepe-marks-first-international-footprint-in-uae-securing-in-principle-approval-from-central-bank-of-uae": "2026-09-22T07:02:12.433942+00:00",
       "https://www.phonepe.com/press/phonepe-partners-with-dpiit-to-empower-emerging-indian-startups": "2026-09-17T07:46:47.098672+00:00",
       "https://www.phonepe.com/press/phonepe-pulsepro-signs-mou-with-meity-to-power-pm-gatishakti": "2026-09-17T07:46:47.098672+00:00"
     },
@@ -16966,7 +17029,7 @@
     "bse bharti airtel": 1790074807496,
     "bse black box": 1790075214180,
     "bse coforge": 1789904582311,
-    "bse cyient": 1789663656842,
+    "bse cyient": 1790080137802,
     "bse eternal/zomato": 1789766425381,
     "bse fractal analytics": 1789599537695,
     "bse happiest minds": 1788818758115,
@@ -17017,18 +17080,18 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790055182434,
-    "news: consumer internet india": 1790059197560,
+    "news: big tech platforms": 1790055480995,
+    "news: consumer internet india": 1790059858732,
     "news: global ai": 1790056500927,
-    "news: global chips": 1790058541010,
+    "news: global chips": 1790059215881,
     "news: global it services": 1790059380349,
     "news: india ai deeptech": 1790057728053,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790058457551,
+    "news: india fintech": 1790059801431,
     "news: india semiconductors": 1790057953769,
     "news: india tech policy": 1790056506030,
-    "news: india telecom": 1790058440163,
-    "news: indian it majors": 1790058838772,
+    "news: india telecom": 1790060440932,
+    "news: indian it majors": 1790059687210,
     "news: indian it midcaps": 1790058987722,
     "news: pib releases": 1790059200985,
     "news: tech leaders": 1790059382724,
@@ -17036,7 +17099,7 @@
     "nvidia blog": 1790013607775,
     "openai": 1789992000699,
     "oracle": 1789631219707,
-    "phonepe": 1789631207660,
+    "phonepe": 1790060532360,
     "pib communications": 2313144,
     "pib meity": 2313324,
     "pib science and technology": 2313217,
@@ -17050,7 +17113,7 @@
     "sarvam ai": 1789631206990,
     "swiggy": 1789214456821,
     "tata electronics": 1789738328115,
-    "trai": 1790058527410,
+    "trai": 1790059935258,
     "xai": 1790005601317,
     "zinnov": 1789638408829,
     "zoho": 1789739607214
@@ -17067,7 +17130,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T06:47:55.241469+00:00",
+    "last_server_run": "2026-09-22T07:03:09.304014+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T05:04:42.358350+00:00",
@@ -17502,7 +17565,8 @@
       "meeting:LS|21522",
       "gazette:CG-DL-E-21092026-276368|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-21092026-276371|MAIL_TO",
-      "gazette:CG-DL-E-21092026-276372|GAZETTE_MAIL_TO"
+      "gazette:CG-DL-E-21092026-276372|GAZETTE_MAIL_TO",
+      "meeting:LS|22521"
     ]
   }
 }
