@@ -1,41 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-18T08:32:50.219179+00:00",
-      "handle": "TRAI",
-      "headline": "TRAI releases Telecom Commercial Communications Customer Preference regulations",
-      "tier": 1,
-      "url": "http://www.trai.gov.in/telecom-commercial-communications-customer-preference-third-amendment-regulations-2026",
-      "words": [
-        "2026",
-        "amendment",
-        "commercial",
-        "communications",
-        "customer",
-        "preference",
-        "regulations",
-        "telecom",
-        "third"
-      ]
-    },
-    {
-      "at": "2026-09-18T08:32:51.582162+00:00",
-      "handle": "News: India fintech",
-      "headline": "CRED founder Kunal Shah says AI writes 90% of code",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWlhPVEttOGJhM29Cbnk3aG84NU9ydFhKeThRTExQV2Rudzl0MWRuRV83RXJhcWcwcEEtck5VaWdFd01wd25HWVB5bkN3YzVRbWJFN2R1RThiNW9ocmROMnRWYzREdDlxb1NTT0J4Vy03RC16MFNlVXJ1V3BVWGtncUtLeEQ3by1jdTB2ZTJxbWNXRnJocVh1N1dTQlJJRm9wMHhXQzEzMUxUdFREQmZMT0d1WlFKUTh2cXVEbW00MTBaR1NEM2l5VmZsNmTSAdIBQVVfeXFMUEpycEduYTlHa3U2V2dUNHQ5cUxKREhZWjd5Mk5kR2s1Zkt6LWVvVFpJeXI1M0cxNG56V2FtcnM1NGRncGZaaTJqOWZIaldsSm1SaGIxNWZMWE15d1c4ZjNOd21ybFJLaVExRWJqdnZ0QlhLYkhRaWhRVVh4dVo5UGF3bHVuMlE0LXBGMThNdENJLXlNSzhQSlJGY0V3ZGZUNWNsR0dJOUtSXzd4WHJoSWZJQ1Z6eXlmVGhOZHk0Qmd3a21tZ0JpdmZHWDk0bHU2aW1n?oc=5",
-      "words": [
-        "code",
-        "company",
-        "cred",
-        "founder",
-        "kunal",
-        "now",
-        "shah",
-        "written"
-      ]
-    },
-    {
       "at": "2026-09-18T08:32:51.582162+00:00",
       "handle": "News: India semiconductors",
       "headline": "India secures $12 billion in chip investment pledges",
@@ -7391,20 +7356,47 @@
         "sol",
         "venture"
       ]
+    },
+    {
+      "at": "2026-09-22T17:35:06.272298+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Infosys integrates Chainlink tech for blockchain connectivity",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFBUeTV4M19McjhWc3Q4ZmxWaVJQd0ZrcjJUWmVIUkpRbThzd2YzUlEtMWJPeWwtcGo4S1ZJQXMwdm5BbmF6TWdTVUJKenN0QmR2Z29Dcm9ScWstX0I2eklYaWpqMEFBajNmejZLY1otb2tuMzJxNjZncFEwM3Z3aWo4b2p1ZEZfWlJodFhCdVBmcUZmRGdWSnhuNWJnTG5xeTVTNXNxSFkzZm1lRXc?oc=5",
+      "words": [
+        "accounts",
+        "bank",
+        "blockchain",
+        "chainlink",
+        "infosys",
+        "integrates",
+        "link",
+        "networks",
+        "tech"
+      ]
+    },
+    {
+      "at": "2026-09-22T17:35:06.272298+00:00",
+      "handle": "News: Global IT services",
+      "headline": "AI giants neared deal to safety test each other models",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGdRcHpZZ3oydFc3QjJsX21nVElQUXdmbGdFSXZUb19WdDU0NVBNM25jXzVZekl0M1VqYmpELTdWeENpZS1pR2VlLWpHbHZROXV5TGl2MVo5c1NKZW16eXBvNjFCR1pSOHRyUUZUSmw5bEMtdFNrUDFFMXVCRmZhZTd3S3dkSVFBVlRJTkVERDhzRmk1Y19TSWFQMmVpR0dtaUdsUkNHSGFTR2NMS0dCS1FQODBwZw?oc=5",
+      "words": [
+        "deal",
+        "each",
+        "giants",
+        "models",
+        "neared",
+        "other",
+        "reportedly",
+        "safety",
+        "test"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789839997150",
-    "1789840165488",
-    "1789840320317",
-    "1789782968064",
-    "1789797846929",
-    "1789800239084",
-    "1789808586484",
-    "1789809600730",
-    "1789811206644",
     "1789813308459",
     "1789815571795",
     "1789827120477",
@@ -13395,10 +13387,19 @@
     "1790087400101",
     "1790087903383",
     "1790090429714",
-    "1790093821065"
+    "1790093821065",
+    "1790079719754",
+    "1790082601242",
+    "1790088863267",
+    "1790090255590",
+    "1790094583664",
+    "1790096443775",
+    "1790097240152",
+    "1790097496160",
+    "1790098250076"
   ],
-  "last_digest_hour": "2026-09-22T22",
-  "last_success": "2026-09-22T17:17:54.813317+00:00",
+  "last_digest_hour": "2026-09-22T23",
+  "last_success": "2026-09-22T17:35:06.292938+00:00",
   "national": {
     "alerted": [
       {
@@ -15041,7 +15042,7 @@
       "CG-DL-E-22092026-276396",
       "CG-DL-E-22092026-276397"
     ],
-    "last_run": "2026-09-22T17:20:26.904983+00:00",
+    "last_run": "2026-09-22T17:36:39.795055+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16275,44 +16276,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "AI giants neared deal to safety test each other models",
-      "post": {
-        "created_at": "2026-09-22T16:45:03+00:00",
-        "handle": "News: Global IT services",
-        "id": "1790095503972",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bizpacreview",
-        "reposts": 0,
-        "text": "AI giants reportedly neared deal to safety test each other\u2019s models",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGdRcHpZZ3oydFc3QjJsX21nVElQUXdmbGdFSXZUb19WdDU0NVBNM25jXzVZekl0M1VqYmpELTdWeENpZS1pR2VlLWpHbHZROXV5TGl2MVo5c1NKZW16eXBvNjFCR1pSOHRyUUZUSmw5bEMtdFNrUDFFMXVCRmZhZTd3S3dkSVFBVlRJTkVERDhzRmk1Y19TSWFQMmVpR0dtaUdsUkNHSGFTR2NMS0dCS1FQODBwZw?oc=5"
-      },
-      "queued_at": "2026-09-22T16:47:49.357535+00:00",
-      "score": 7.0,
-      "why": "Significant global AI safety development involving major labs."
-    },
-    {
-      "headline": "Infosys integrates Chainlink tech for blockchain connectivity",
-      "post": {
-        "created_at": "2026-09-22T13:26:32+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1790083592621",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Pluang",
-        "reposts": 0,
-        "text": "Infosys integrates Chainlink tech to link 1.7B bank accounts with blockchain networks",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFBUeTV4M19McjhWc3Q4ZmxWaVJQd0ZrcjJUWmVIUkpRbThzd2YzUlEtMWJPeWwtcGo4S1ZJQXMwdm5BbmF6TWdTVUJKenN0QmR2Z29Dcm9ScWstX0I2eklYaWpqMEFBajNmejZLY1otb2tuMzJxNjZncFEwM3Z3aWo4b2p1ZEZfWlJodFhCdVBmcUZmRGdWSnhuNWJnTG5xeTVTNXNxSFkzZm1lRXc?oc=5"
-      },
-      "queued_at": "2026-09-22T17:17:54.792139+00:00",
-      "score": 8.0,
-      "why": "Major enterprise partnership and technology integration by a top Indian IT firm."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17312,19 +17276,19 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790095964040,
+    "news: big tech platforms": 1790097240152,
     "news: consumer internet india": 1790092218903,
     "news: global ai": 1790095301430,
-    "news: global chips": 1790091796087,
+    "news: global chips": 1790098250076,
     "news: global it services": 1790095503972,
     "news: india ai deeptech": 1790095060533,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790095761885,
-    "news: india semiconductors": 1790084878650,
+    "news: india semiconductors": 1790094583664,
     "news: india tech policy": 1790094610827,
     "news: india telecom": 1790093233056,
     "news: indian it majors": 1790093821065,
-    "news: indian it midcaps": 1790089138046,
+    "news: indian it midcaps": 1790096443775,
     "news: pib releases": 1790093700133,
     "news: tech leaders": 1790091910837,
     "nvidia": 1790078441723,
@@ -17362,7 +17326,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T17:17:55.159701+00:00",
+    "last_server_run": "2026-09-22T17:35:06.618687+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T15:37:54.340661+00:00",
