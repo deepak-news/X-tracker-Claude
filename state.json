@@ -7350,18 +7350,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789760621297",
-    "1789760940595",
-    "1789761743637",
-    "1789761747639",
-    "1789761756954",
-    "1789761780913",
-    "1789761900127",
-    "1789762207770",
-    "1789762597284",
-    "1789762949851",
-    "1789763176224",
-    "1789763314789",
     "1789764120869",
     "1789764860828",
     "1789764892839",
@@ -13349,10 +13337,22 @@
     "1790052642525",
     "1790052752955",
     "1790052957860",
-    "1790053289480"
+    "1790053289480",
+    "1789970820184",
+    "1789988986919",
+    "1789991840735",
+    "1790000175168",
+    "1790046065799",
+    "1790046551541",
+    "1790049666112",
+    "1790052752575",
+    "1790053002866",
+    "1790053208263",
+    "1790053385825",
+    "1790053818677"
   ],
   "last_digest_hour": "2026-09-22T10",
-  "last_success": "2026-09-22T05:02:38.167827+00:00",
+  "last_success": "2026-09-22T05:17:13.959835+00:00",
   "national": {
     "alerted": [
       {
@@ -14862,9 +14862,10 @@
       "CG-DL-E-21092026-276374",
       "CG-DL-E-21092026-276376",
       "SG-DL-E-21092026-276375",
-      "CG-DL-E-22092026-276358"
+      "CG-DL-E-22092026-276358",
+      "CG-DL-E-22092026-276359"
     ],
-    "last_run": "2026-09-22T05:06:51.160502+00:00",
+    "last_run": "2026-09-22T05:19:36.545323+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15960,7 +15961,10 @@
       "gazette:SG-DL-E-21092026-276375",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63641",
       "gazette:CG-DL-E-22092026-276358",
-      "pib:2313280"
+      "pib:2313280",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63642",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-journey-towards-happiness-prosperity-and-well-being-through-righteousness",
+      "gazette:CG-DL-E-22092026-276359"
     ],
     "source_failures": {
       "CBI": {
@@ -16090,6 +16094,24 @@
       "queued_at": "2026-09-22T05:02:38.161336+00:00",
       "score": 7.0,
       "why": "New hard financial estimates on the ongoing UPI charges debate."
+    },
+    {
+      "headline": "Peak XV Partners sells 16.69 crore Groww shares",
+      "post": {
+        "created_at": "2026-09-22T05:10:18+00:00",
+        "handle": "News: India fintech",
+        "id": "1790053818677",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Scanx",
+        "reposts": 0,
+        "text": "Peak XV Partners sells 16.69 crore Groww shares, stake falls to 14.22%",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnZPZi04Wk1UeHc3SDVCUV92MWdyTmktSlp3eGk3OGJNbEJ5UXZpNDlESFpicjdSV0N6SGNSR1RfSUNsd3dtRU9mTkZ2WGRuWVVQRzUxUFg1UFpOSjN6ZEtHak1GV0ZFYWpyZE1fb2QzOVdkYkJpTjJFQ0VNNUVxeVpVMEFaRFE1U0JDcHAzdFk0SWY1MU9wN2lFMkZael9qVnUwUUEwS3NEWTFNdEFRd3d3a2pTQjh3bGxHVXR5aFEyZDIxLVE?oc=5"
+      },
+      "queued_at": "2026-09-22T05:17:13.953356+00:00",
+      "score": 8.0,
+      "why": "Major stake sale by a prominent investor in a key fintech company is a filable story."
     }
   ],
   "page_links": {
@@ -17075,17 +17097,17 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790051985777,
-    "news: consumer internet india": 1790052432866,
+    "news: consumer internet india": 1790053002866,
     "news: global ai": 1790050044725,
     "news: global chips": 1790051700191,
     "news: global it services": 1790042830597,
     "news: india ai deeptech": 1790052957860,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790053289480,
+    "news: india fintech": 1790053818677,
     "news: india semiconductors": 1790052752955,
     "news: india tech policy": 1790048221514,
-    "news: india telecom": 1790050907551,
-    "news: indian it majors": 1790051700115,
+    "news: india telecom": 1790053208263,
+    "news: indian it majors": 1790053385825,
     "news: indian it midcaps": 1790051918777,
     "news: pib releases": 1790048161148,
     "news: tech leaders": 1790049168944,
@@ -17124,7 +17146,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T05:02:38.420463+00:00",
+    "last_server_run": "2026-09-22T05:17:14.210863+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T05:04:42.358350+00:00",
@@ -17399,6 +17421,7 @@
       "CG-DL-E-21092026-276374",
       "CG-DL-E-21092026-276376",
       "CG-DL-E-22092026-276358",
+      "CG-DL-E-22092026-276359",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
