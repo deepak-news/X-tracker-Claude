@@ -7368,26 +7368,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789820257478",
-    "1789820362750",
-    "1789820485746",
-    "1789737091078",
-    "1789738980348",
-    "1789752252656",
-    "1789774529313",
-    "1789782780667",
-    "1789786765148",
-    "1789789182614",
-    "1789797380588",
-    "1789799700807",
-    "1789799827269",
-    "1789821164964",
-    "1789821192721",
-    "1789821247201",
-    "1789821420522",
-    "1789821445716",
-    "1789821478618",
-    "1789841450972",
     "1789740040445",
     "1789745220354",
     "1789746509123",
@@ -13367,10 +13347,30 @@
     "1790076442937",
     "1790076534967",
     "2312426",
-    "2313504"
+    "2313504",
+    "1790002625784",
+    "1790015340702",
+    "1790025140829",
+    "1790045520502",
+    "1790055508514",
+    "1790055845861",
+    "1790067953746",
+    "1790068778255",
+    "1790068810255",
+    "1790068837485",
+    "1790069086186",
+    "1790070751063",
+    "1790071228238",
+    "1790075788071",
+    "1790076472332",
+    "1790076735028",
+    "1790076758262",
+    "1790076823986",
+    "1790076989276",
+    "1790077188536"
   ],
   "last_digest_hour": "2026-09-22T17",
-  "last_success": "2026-09-22T11:32:36.060002+00:00",
+  "last_success": "2026-09-22T11:48:32.549504+00:00",
   "national": {
     "alerted": [
       {
@@ -14673,6 +14673,25 @@
           "lay",
           "likely"
         ]
+      },
+      {
+        "at": "2026-09-22T11:49:58.066296+00:00",
+        "handle": "Quake NCS",
+        "headline": "Magnitude 5.0 earthquake -- Afghanistan.",
+        "tier": 1,
+        "url": "https://riseq.seismo.gov.in/riseq/earthquake",
+        "words": [
+          "175",
+          "2026",
+          "afghanistan",
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "ncs",
+          "reported",
+          "sep"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -14907,7 +14926,7 @@
       "CG-DL-E-22092026-276359",
       "CG-DL-E-22092026-276379"
     ],
-    "last_run": "2026-09-22T11:34:28.893443+00:00",
+    "last_run": "2026-09-22T11:49:58.066839+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16040,7 +16059,16 @@
       "pib:2313441",
       "pib:2313468",
       "pib:2313520",
-      "pib:2313504"
+      "pib:2313504",
+      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13711&Mode=0",
+      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
+      "quake:ncs:YWEwMmdSdGwxS0t1RXJjMW9FSldMQT09",
+      "pib:2313530",
+      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13706&Mode=0",
+      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13710&Mode=0",
+      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13709&Mode=0",
+      "pib:2313522",
+      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13707&Mode=0"
     ],
     "source_failures": {
       "CBI": {
@@ -17069,16 +17097,16 @@
     "news: big tech platforms": 1790072213546,
     "news: consumer internet india": 1790075641848,
     "news: global ai": 1790071508761,
-    "news: global chips": 1790072557244,
+    "news: global chips": 1790075788071,
     "news: global it services": 1790072694727,
-    "news: india ai deeptech": 1790076534967,
+    "news: india ai deeptech": 1790077188536,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790076141716,
-    "news: india semiconductors": 1790076356577,
+    "news: india fintech": 1790076989276,
+    "news: india semiconductors": 1790076472332,
     "news: india tech policy": 1790073021126,
     "news: india telecom": 1790076060142,
     "news: indian it majors": 1790076442937,
-    "news: indian it midcaps": 1790073260201,
+    "news: indian it midcaps": 1790076735028,
     "news: pib releases": 1790072390880,
     "news: tech leaders": 1790071511262,
     "nvidia": 1790013607775,
@@ -17116,7 +17144,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T11:32:36.319590+00:00",
+    "last_server_run": "2026-09-22T11:48:32.875102+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T11:19:12.770837+00:00",
