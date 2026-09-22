@@ -7348,25 +7348,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789805579668",
-    "1789805580858",
-    "1789805621919",
-    "1789805644691",
-    "1789805653356",
-    "1789805689961",
-    "1789805714981",
-    "1789806072514",
-    "1789806121179",
-    "1789806122216",
-    "1789806533448",
-    "1789806600940",
-    "1789806656572",
-    "1789806708814",
-    "1789806738535",
-    "1789806960168",
-    "1789807178923",
-    "1789807247227",
-    "1789807930143",
     "1789808097733",
     "1789808396713",
     "1789808400405",
@@ -13347,10 +13328,29 @@
     "1790062567669",
     "1790062849324",
     "1790062913524",
-    "2313349"
+    "2313349",
+    "1790006412180",
+    "1790039640003",
+    "1790050508887",
+    "1790052742650",
+    "1790054922118",
+    "1790056075858",
+    "1790059068350",
+    "1790059187218",
+    "1790062160204",
+    "1790062844454",
+    "1790062933136",
+    "1790062934673",
+    "1790063220193",
+    "1790063317318",
+    "1790063550257",
+    "1790063571423",
+    "1790063639958",
+    "1790063760845",
+    "1790063819003"
   ],
   "last_digest_hour": "2026-09-22T13",
-  "last_success": "2026-09-22T07:47:13.068032+00:00",
+  "last_success": "2026-09-22T08:02:41.542821+00:00",
   "national": {
     "alerted": [
       {
@@ -14863,7 +14863,7 @@
       "CG-DL-E-22092026-276358",
       "CG-DL-E-22092026-276359"
     ],
-    "last_run": "2026-09-22T07:49:04.556586+00:00",
+    "last_run": "2026-09-22T08:03:52.414409+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16027,6 +16027,60 @@
       "queued_at": "2026-09-22T07:47:13.060618+00:00",
       "score": 7.0,
       "why": "Market impact analysis on fintech regulations and dominant players."
+    },
+    {
+      "headline": "Swiggy Instamart and Amazon warehouses shut over hygiene violations",
+      "post": {
+        "created_at": "2026-09-22T06:39:47+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790059187218",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Inshorts",
+        "reposts": 0,
+        "text": "Swiggy Instamart, Amazon warehouse shut after rats, cockroaches found | Dirty cleaning rag found on open food articles | Inshorts",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkdCZzFmeENmc0MtUjRzQkFNM181R0NSdVVHMU5pZDFfMWZ6aXZpMDRwZ3o2LWJpZC1Dbzh3alcxN0VDejZXNmV5NFJ4c2FLSG9WcXp0SHZQMjQ3alB0RGpydnQtNVpNLU5rc1lXd3F3ZFg5VVJVYXpEWFdjTjk5cDZSbVQ0MVZHejFSbml3UXhzaVcteGZqM21Pa2d2bHRMNFdBVGQyS2xCalhfUURVNmRxWHRBWDTSAbcBQVVfeXFMUGZHQmcxZnhDZnNDLVI0c0JBTTNfNUdDUnVVRzFOaWQxXzFmeml2aTA0cGd6Ni1iaWQtQ284d2pXMTdFQ3o2VzZleTRSeHNhS0hvVnF6dEh2UDI0N2pQdERqcnZ0LTVaTS1Oa3NZV3dxd2RYOVVSVWF6RFhXY045OXA2Um1UNDFWR3oxUm5pd1F4c2lXLXhmajNtT2tndmx0TDRXQVRkMktsQmpYX1FEVTZkcVh0QVg0?oc=5"
+      },
+      "queued_at": "2026-09-22T08:02:41.533367+00:00",
+      "score": 7.0,
+      "why": "Regulatory crackdown hits major quick-commerce and e-commerce warehouse operations in Mumbai."
+    },
+    {
+      "headline": "New UPI transaction charges take effect from October 2026",
+      "post": {
+        "created_at": "2026-09-22T07:52:30+00:00",
+        "handle": "News: India fintech",
+        "id": "1790063550257",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "UPI transaction charges: Check which payments can now attract a fee from October 2026",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOaVhRVFlXakUyZFMwb0dPNVpPdlU5S3pJY0I1XzBlYXVjMTZUZGNiLTQ4eE82c2VIZWl5bzRYcDk2R3VxVXhFMDFaYzdKZ293QVBJbHZJOU5CbjFzTzhXZVI2cm5FOGRVdnhOU05zUUF4WHN1SUVVUjExdHZVVFVxSFlYcmZ6VlhiQTJiUFNwcmFGMS1qbUNtb0I2Y0lYVVFmVTFtZUVSUXZwY09rVlF4cjNnaTFBWGUtWERGSkN3ZjZUcFRzWGtneGdaNlUxc0YxVk1RQmxaQmlfb0xWMzU1djd1Yk5HY0twa3lfX0RxcDg0Wk84WUYzODI3b015NEFpem8zQWZCRWxYa3RZTF8tcDhtMVJaaEo4SERMRkx2djVRcWdOMWV4SFBJbEFHZlFyMEE?oc=5"
+      },
+      "queued_at": "2026-09-22T08:02:41.533367+00:00",
+      "score": 7.0,
+      "why": "Core updates on UPI MDR and fee frameworks affecting Indian digital payments."
+    },
+    {
+      "headline": "TRAI mandates standalone voice and SMS prepaid recharge plans",
+      "post": {
+        "created_at": "2026-09-22T07:56:59+00:00",
+        "handle": "News: India telecom",
+        "id": "1790063819003",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Indian Television Dot Com",
+        "reposts": 0,
+        "text": "TRAI mandates more voice, SMS-only recharge plans for telecom users",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0RBanQzejBGckNkcF81TktYQUx0Uk1UWmNtQVo0bWNxR0tFREZXYTZVdXNVUlNYNUpXOFhlMThITUFlcFl6TEdvdWE1OUtPSWlIRkpzcGZER3BYbTNqRFNwdmhTTkhxYmF2Q2NQMUlZT0NKcDQ5aFFmOENpM3NrU3A1ZjB3MVg2S0hwc2NhUzBudDhoVFE2TkZMdzkwTGlxeHVkQ1RqWlNYTVk?oc=5"
+      },
+      "queued_at": "2026-09-22T08:02:41.533367+00:00",
+      "score": 7.0,
+      "why": "New telecom regulatory mandate directly impacting Indian carriers and consumers."
     }
   ],
   "page_links": {
@@ -17014,16 +17068,16 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790062849324,
-    "news: consumer internet india": 1790062026959,
+    "news: consumer internet india": 1790063220193,
     "news: global ai": 1790061362398,
     "news: global chips": 1790060289956,
     "news: global it services": 1790059380349,
     "news: india ai deeptech": 1790059312039,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790062338222,
-    "news: india semiconductors": 1790062567669,
+    "news: india fintech": 1790063571423,
+    "news: india semiconductors": 1790063639958,
     "news: india tech policy": 1790056506030,
-    "news: india telecom": 1790062404963,
+    "news: india telecom": 1790063819003,
     "news: indian it majors": 1790062364809,
     "news: indian it midcaps": 1790062913524,
     "news: pib releases": 1790062440634,
@@ -17063,7 +17117,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T07:47:13.326142+00:00",
+    "last_server_run": "2026-09-22T08:02:41.868589+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T07:18:13.757286+00:00",
