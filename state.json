@@ -7350,22 +7350,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789755110710",
-    "1789755181942",
-    "1789755540046",
-    "1789755677961",
-    "1789755712659",
-    "1789755900270",
-    "1789756020107",
-    "1789756147490",
-    "1789756194891",
-    "1789756260052",
-    "1789756284444",
-    "1789756298004",
-    "1789756310618",
-    "1789756435864",
-    "1789756557549",
-    "1789756557598",
     "1789756609396",
     "1789756866265",
     "1789756980698",
@@ -13349,10 +13333,26 @@
     "1790050140355",
     "1790050500121",
     "1790050907551",
-    "1790051252594"
+    "1790051252594",
+    "1789753595064",
+    "1789993353919",
+    "1790005730254",
+    "1790013317113",
+    "1790030773487",
+    "1790041080976",
+    "1790044289797",
+    "1790045040443",
+    "1790046161459",
+    "1790046768504",
+    "1790047620502",
+    "1790048161148",
+    "1790048700820",
+    "1790049813805",
+    "1790051918777",
+    "1790052050650"
   ],
   "last_digest_hour": "2026-09-22T10",
-  "last_success": "2026-09-22T04:32:31.148116+00:00",
+  "last_success": "2026-09-22T04:47:00.866686+00:00",
   "national": {
     "alerted": [
       {
@@ -14864,7 +14864,7 @@
       "SG-DL-E-21092026-276375",
       "CG-DL-E-22092026-276358"
     ],
-    "last_run": "2026-09-22T04:35:07.932595+00:00",
+    "last_run": "2026-09-22T04:49:19.908715+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16000,7 +16000,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "SC rules school certificate, not Aadhaar, determines legal age",
+      "post": {
+        "created_at": "2026-09-22T03:02:41+00:00",
+        "handle": "News: India tech policy",
+        "id": "1790046161459",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "NewsBytes",
+        "reposts": 0,
+        "text": "Supreme Court: School leaving certificate, not Aadhaar, decides legal age",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFNJUm1nblVRdGhqVk10YTJVUWFmQTV1ZUg5YWRPRnBzaFJHYTUtd2xpb3R4aUI2Tm9ka19pRzJtTWhtMlpQLTRtNTlLREZqZnFDVEhmaHpqYng2X0d0Q0VjWW9uNTRaWXVfTUhFV18zSFgwLS1HaDJCb2hhdFBrZV82TTJNT0pXc0g0QUJoblN6T0R2ZUozVXVCY3kySWJsZWxHV3o4UFRfdWhmN21uZXVFZlhrQQ?oc=5"
+      },
+      "queued_at": "2026-09-22T04:47:00.859478+00:00",
+      "score": 7.0,
+      "why": "Major Supreme Court ruling regarding Aadhaar validity, highly relevant for Indian tech and ID policy."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -16990,13 +17009,13 @@
     "news: global it services": 1790042830597,
     "news: india ai deeptech": 1790048580248,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790050487754,
+    "news: india fintech": 1790052050650,
     "news: india semiconductors": 1790046319344,
     "news: india tech policy": 1790048221514,
     "news: india telecom": 1790050907551,
     "news: indian it majors": 1790050500121,
-    "news: indian it midcaps": 1790046780758,
-    "news: pib releases": 1790039232862,
+    "news: indian it midcaps": 1790051918777,
+    "news: pib releases": 1790048161148,
     "news: tech leaders": 1790049168944,
     "nvidia": 1790013607775,
     "nvidia blog": 1790013607775,
@@ -17033,7 +17052,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T04:32:31.476361+00:00",
+    "last_server_run": "2026-09-22T04:47:01.196336+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T02:47:55.160606+00:00",
