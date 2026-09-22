@@ -1,110 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-17T16:33:03.193256+00:00",
-      "handle": "News: Global AI",
-      "headline": "Huawei targets 1-million-processor AI systems to rival Nvidia",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeXpHandDaGRxc2llazdLT2JQRUJ3ck9NOGtpYS11SWpBa09WbEZ0RFFuZjNBNXB4SlZhek54TGpaMkVjNHFMeUF3VUpLX1p4TFBLcThRTXlSTll6aENVTU05M3dwT1lWdG9VcA?oc=5",
-      "words": [
-        "against",
-        "huawei",
-        "nvidia",
-        "processor",
-        "push",
-        "systems",
-        "targets"
-      ]
-    },
-    {
-      "at": "2026-09-17T16:33:03.193256+00:00",
-      "handle": "News: Global AI",
-      "headline": "Tech leaders Zuckerberg, Musk, and Huang lobby Trump against AI regulation",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaEs1d0QzQXRjcmNrQWFoVDE0N3NnOWRYcmhBZHFWZjJYTEs1UXdKWWhMb0twMTFGaVlJSVRqMW55QkpyU0trZFc1ejliSlNmS1U5eFdoTmUyV3Q3YXNyTDFJUWtZekVHUG1MZXJmYmY2c2dWV2ZTcFZIVkxkVDRjSE0xVVgxTjRUb3BUTmNkMXA3dlJ4c2xsdnNuOU9ON3RmR096QlF3MTBGWWV5dE1JOERxZlM?oc=5",
-      "words": [
-        "call",
-        "gang",
-        "huang",
-        "musk",
-        "oppose",
-        "regulation",
-        "trump",
-        "zuckerberg"
-      ]
-    },
-    {
-      "at": "2026-09-17T17:32:24.790425+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "PM Modi calls India reliable destination for global manufacturing challenges",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEI2cHVodlhCOEpZRHo1NWdQMVBOWnBvRUhucDhRU1c0MDlFT3pYQmQwQzFXbTFiRWpZZmRIclk5S0dpelktcnhmVUxDV3JoTmJIOGwzWXNvY2NQR1NNR1dINmh1aGpLd0F4UEpzT2I0QjRWdUt2ZUJRVGwzWlpabnhhdjJUQVpzLVlWOTJOcjhZVTNqZXpZUWFoQUg0M1lQWkdSTmpScUIzeVhybHNSSHRMbmV6UHdQX1E?oc=5",
-      "words": [
-        "challenges",
-        "destination",
-        "global",
-        "manufacturing",
-        "meet",
-        "modi",
-        "prepared",
-        "reliable"
-      ]
-    },
-    {
-      "at": "2026-09-17T17:32:24.790425+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Tata Electronics announces five semiconductor deals to strengthen ecosystem",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1RmbDF6NV9KYjNuTHhaTDRMT1AzeTNhMmQ4WjlLZms4aXFTcTl0dkJ0elFWSmRCMm5tS2U1LTk1UXBvMjFJeEZFNEVJUGI1dW9lZ0F2S1VFZTVORkxXUGl5MDBYdUZrM19tNEd6RElnb2JPVS1acTJiSFU4b1ZBbVN3NlZhdw?oc=5",
-      "words": [
-        "big",
-        "chip",
-        "day",
-        "deals",
-        "ecosystem",
-        "electronics",
-        "five",
-        "inside",
-        "one",
-        "semiconductor",
-        "tata"
-      ]
-    },
-    {
-      "at": "2026-09-17T17:32:24.790425+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "India semiconductor push entering commercial production phase, says industry",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMURhQnh1b2piMzFpOGxTTDNZZUZCVDM5QVFSNHpaek5xTXFnLTZadkxsZWszMTJfN0pwZTVCdWc3bThnRWtGSlAtWmR4QTItVV9FNG1rdVVVMFhMT1JYeThYZ0JyZ05yQUhqdEIyT1RuZy1jWHZIMTUwS1I2dEZ0MEZpd25GOWNsRHpVd3NteWNfcmRJSWxWSkVMUEU5Ri16dEFZbXJ3dnFaekNjQVlmTWc0d29RT0xRSTQzbl9uR2gwZUM2VjhrNjNXMFU?oc=5",
-      "words": [
-        "commercial",
-        "entering",
-        "executives",
-        "industry",
-        "phase",
-        "production",
-        "push",
-        "semiconductor"
-      ]
-    },
-    {
-      "at": "2026-09-17T17:32:24.790425+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Cognizant shares rise following Axis Bank deal and Citi outlook",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTdic2Z4WFlBSXhPYjJPelhMQm55OElYeGZlaEY0SGRLaVZIYlJmbk1RNlZWZmRneTlZUFMzZG9PV05kbG1xNS1oNTlHbWtzQk80cnQ4MWMxVFdBaHdhQlNOWnlaM3RucXRYS3lCY2R6N2FZNkQ1OTRvRDFDX0tXZlpjcXBCWnNYb0t6TEM1WTF1Zm0wVFpaLXJyNWJCT0tnQjBBYmdISGpKcWpXVDhneDlaVWpDNU5kaWlmdHJmNS0?oc=5",
-      "words": [
-        "axis",
-        "bank",
-        "citi",
-        "cognizant",
-        "deal",
-        "gains",
-        "growth",
-        "view"
-      ]
-    },
-    {
       "at": "2026-09-17T17:47:14.052517+00:00",
       "handle": "Anthropic",
       "headline": "Anthropic launches Life Sciences Verification Program for specialized AI models",
@@ -7364,47 +7260,117 @@
         "led",
         "locations"
       ]
+    },
+    {
+      "at": "2026-09-22T10:33:00.699510+00:00",
+      "handle": "News: Global IT services",
+      "headline": "NSE IPO allotment and listing details announced",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOalJtQWJIWUM5S0phRDYzMFRVdFpoRGRmdlZWUXBYMjJfVHlIMDMxeDBEUmY4cXRkZGNqTUg1aUkzc08tMUNfSHl6MFg2Qmp1YnM4bkJsaUUwcEI0SENoOUtEWEY4aGtTaWYzR3o1TUlxYkNEeEJoNmxGNjRkVGp3a01SS0Fxa2M3N3Q0RHpvd2xFcVNqeVdpMGN1REV1dlp5elZwX0JaNENTckJPYXpnZXFTZHROWG9KQUx5X0RHOHRrS2I1ODl0VVRFblNrMDBFWGw4QkYyVU91ZE95ZExhRVpJeEdvbFJSRXhQalRTOG9uRTdKTVF1bWJTTm1pQkFoa05KUWV6bw?oc=5",
+      "words": [
+        "allotment",
+        "bse",
+        "check",
+        "date",
+        "exchange",
+        "here",
+        "intime",
+        "ipo",
+        "listing",
+        "mufg",
+        "national",
+        "nse",
+        "online",
+        "status"
+      ]
+    },
+    {
+      "at": "2026-09-22T10:33:00.699510+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio Studios appoints Anu Sikka as Head of Animation",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR1lTblZWWTZHWktKV1lUcTJMU2haVnFnTFlnZnMxQmYxY3Y0ZXhQYTdZZ1l6aE9WVXoyMXJwNk5CSUhzaDJrQW9Mcy05XzlvckxZR0NvZENqZlBYSmdzTWZrclY5OWN4N2xSOThYRHd2emNyNHdZUi1MeUJhMV9kaE9xSTg2dG4zR0pHd1FKemNkb2kzdDJtN0dHMHprY2s?oc=5",
+      "words": [
+        "animation",
+        "anu",
+        "appoints",
+        "head",
+        "jio",
+        "sikka",
+        "studios"
+      ]
+    },
+    {
+      "at": "2026-09-22T10:33:00.699510+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Suvendu Adhikari meets Mukesh Ambani to push Reliance investment in Bengal",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjhKY0pEY0JCZVM0Umh0UXhFUTM0ZlhRWmduQThqcG9iOHo0UDE5YnNpTHhfbHdrQzgzelhRMnc5UkJwaHRYQUFhZ2ZXV2xMc2xFSHJ2X3MwN0c5R2hwYkM5SksycFBLNW5RZTNJM3UxRUxWSzFCekNEQmhPTERSeDZWbG1lWVFmM3ZLRUQ5Vl80X1JoRWgwSE1jWl9RMnhTR2c?oc=5",
+      "words": [
+        "adhikari",
+        "ambani",
+        "bengal",
+        "investment",
+        "meets",
+        "mukesh",
+        "pushes",
+        "reliance",
+        "suvendu"
+      ]
+    },
+    {
+      "at": "2026-09-22T10:33:00.699510+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Addverb deploys AI robots in Indian semiconductor manufacturing plants",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTEJIMVkyOHNyUHNTcDF2d2ZSRzlCdkpGTWh2SlBQRXFQZGZhYmhwNURoMmFxemlqZWIxLWQyMG9kaGE2NlVEYXVYT0tKOTRZblNUY0xEMHduT3Z4VVpHa1B1TDJtYnJsSDMxRU1FeWJyR3dDUll0UXRRLVJXeEw1VC1Odkx5VFRoWEd6d1hOV1NMd1dDY0JaRnFKZk9nYTRTU29PQ2h6M1pKR1pEdXRDTUpJbjd4Y0l3S2c?oc=5",
+      "words": [
+        "addverb",
+        "beyond",
+        "factories",
+        "into",
+        "moves",
+        "robots",
+        "semiconductor"
+      ]
+    },
+    {
+      "at": "2026-09-22T10:33:00.699510+00:00",
+      "handle": "News: India fintech",
+      "headline": "Razorpay-backed POP pivots to credit to monetise UPI users",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT2x5aUtWRTUwZ3dTNDlWZnZPU0dUMTZOLUw2RHdjYXhXWHU1emdhdUt2VUMxMlhvbWZIZExlR0o4Y2JIWVJVdlYxdGtNYllzaUZJTUFpV1dFNjBKcnZ5WlgtOGxGTDNPekpGRVljbk05c3F0dGVaeFZWN1lydHhweDU1RF8zSjZ0R2ZpdFdPODByRHFSR1YwLVdQak9zQWEybGxUNWVNR21IVm9sUW5XY1dYdjY2Q0hScTdDSHB3ZGVRQnItYkpJLWhhd2lwTmhlbklSeGN30gHWAUFVX3lxTFBPbHlpS1ZFNTBnd1M0OVZmdk9TR1QxNk4tTDZEd2NheFdYdTV6Z2F1S3ZVQzEyWG9tZkhkTGVHSjhjYkhZUlV2VjF0a01iWXNpRklNQWlXV0U2MEpydnlaWC04bEZMM096SkZFWWNuTTlzcXR0ZVp4VlY3WXJ0eHB4NTVEXzNKNnRHZml0V084MHJEcVJHVjAtV1BqT3NBYTJsbFQ1ZU1HbUhWb2xRbldjV1h2NjZDSFJxN0NIcHdkZVFCci1iSkktaGF3aXBOaGVuSVJ4Y3c?oc=5",
+      "words": [
+        "backed",
+        "bets",
+        "credit",
+        "monetise",
+        "pop",
+        "razorpay",
+        "upi",
+        "users"
+      ]
+    },
+    {
+      "at": "2026-09-22T10:33:00.699510+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Disha Sanghvi joins Sarvam as Brand and Communications Lead",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUURfMTF5ejB4bXprV1VPYklIMnZqdV9SdjZlb0lTeUk0RXc1OWZ1ckxOVzdPLWlWVkdFN2lzODVTYjRuOW1XU3UxTWxORlJ3OFBXM3hoQXNLWUZqMlNmeTg0WUk3OXJCVW1kWFlZc3Q2SHIyTnltOEZOR2cxQlhtQkJmc2JFY2l3RDRzWTZJR21CYUV6dlJteDI3cnEzczFpVTJScG5uU2lxSXhBWmNEYUhINGRlTE1VYVpFV3AyQ0FRTG9DczluRlFaVXRBREU?oc=5",
+      "words": [
+        "brand",
+        "communications",
+        "disha",
+        "joins",
+        "lead",
+        "sanghvi",
+        "sarvam"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789730454087",
-    "1789734776516",
-    "1789735440026",
-    "1789736073349",
-    "1789737090487",
-    "1789737600757",
-    "1789744831564",
-    "1789744904926",
-    "1789757166731",
-    "1789759272520",
-    "1789760498879",
-    "1789767190874",
-    "1789783533133",
-    "1789789466954",
-    "1789791445562",
-    "1789794904000",
-    "1789795440936",
-    "1789799340906",
-    "1789799356127",
-    "1789800914248",
-    "1789803082497",
-    "1789803103374",
-    "1789809027064",
-    "1789809410264",
-    "1789815624239",
-    "1789815780674",
-    "1789815809688",
-    "1789815976111",
-    "1789816022744",
-    "1789816065717",
-    "1788785472437",
-    "1789731540122",
-    "1789733881099",
-    "1789734664570",
-    "1789736919977",
-    "1789737948358",
     "1789739370202",
     "1789739700778",
     "1789740195666",
@@ -13368,10 +13334,46 @@
     "1790071565604",
     "1790071738764",
     "1790071771921",
-    "1790091607424"
+    "1790091607424",
+    "1790010634561",
+    "1790029171481",
+    "1790047218409",
+    "1790054965075",
+    "1790055831115",
+    "1790058975522",
+    "1790064360537",
+    "1790065335768",
+    "1790065440770",
+    "1790065740038",
+    "1790065740947",
+    "1790065868210",
+    "1790066255574",
+    "1790066340144",
+    "1790066420022",
+    "1790066693126",
+    "1790068574126",
+    "1790068810069",
+    "1790068942621",
+    "1790069238094",
+    "1790069282259",
+    "1790069664220",
+    "1790070112039",
+    "1790071066244",
+    "1790071440680",
+    "1790071508761",
+    "1790071860318",
+    "1790072213546",
+    "1790072236147",
+    "1790072329943",
+    "1790072483461",
+    "1790072694727",
+    "1790072695646",
+    "1790072789669",
+    "1790072798948",
+    "1790073100654"
   ],
-  "last_digest_hour": "2026-09-22T15",
-  "last_success": "2026-09-22T10:17:46.472802+00:00",
+  "last_digest_hour": "2026-09-22T16",
+  "last_success": "2026-09-22T10:33:00.713578+00:00",
   "national": {
     "alerted": [
       {
@@ -14908,7 +14910,7 @@
       "CG-DL-E-22092026-276359",
       "CG-DL-E-22092026-276379"
     ],
-    "last_run": "2026-09-22T10:19:35.187113+00:00",
+    "last_run": "2026-09-22T10:39:58.450006+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16037,12 +16039,16 @@
       "pib:2313413",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63644",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-suchika-tariyal-on-winning-bronze-in-mixed-martial-arts-at-asian-games",
-      "page:https://www.mha.gov.in/sites/default/files/Police2_22092026.pdf"
+      "page:https://www.mha.gov.in/sites/default/files/Police2_22092026.pdf",
+      "pib:2313441"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "CERT-In": {
+        "count": 1
       },
       "DGFT": {
         "count": 6,
@@ -16077,44 +16083,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Jio Studios appoints Anu Sikka as Head of Animation",
-      "post": {
-        "created_at": "2026-09-22T10:02:37+00:00",
-        "handle": "News: India telecom",
-        "id": "1790071357768",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Afaqs!",
-        "reposts": 0,
-        "text": "Jio Studios appoints Anu Sikka as Head of Animation",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR1lTblZWWTZHWktKV1lUcTJMU2haVnFnTFlnZnMxQmYxY3Y0ZXhQYTdZZ1l6aE9WVXoyMXJwNk5CSUhzaDJrQW9Mcy05XzlvckxZR0NvZENqZlBYSmdzTWZrclY5OWN4N2xSOThYRHd2emNyNHdZUi1MeUJhMV9kaE9xSTg2dG4zR0pHd1FKemNkb2kzdDJtN0dHMHprY2s?oc=5"
-      },
-      "queued_at": "2026-09-22T10:17:46.458560+00:00",
-      "score": 7.0,
-      "why": "Significant leadership appointment at a major Indian telecom and digital media subsidiary."
-    },
-    {
-      "headline": "Suvendu Adhikari meets Mukesh Ambani to push Reliance investment in Bengal",
-      "post": {
-        "created_at": "2026-09-22T10:05:11+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1790071511262",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Indianmasterminds",
-        "reposts": 0,
-        "text": "Suvendu Adhikari Meets Mukesh Ambani, Pushes for Reliance Investment in Bengal",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjhKY0pEY0JCZVM0Umh0UXhFUTM0ZlhRWmduQThqcG9iOHo0UDE5YnNpTHhfbHdrQzgzelhRMnc5UkJwaHRYQUFhZ2ZXV2xMc2xFSHJ2X3MwN0c5R2hwYkM5SksycFBLNW5RZTNJM3UxRUxWSzFCekNEQmhPTERSeDZWbG1lWVFmM3ZLRUQ5Vl80X1JoRWgwSE1jWl9RMnhTR2c?oc=5"
-      },
-      "queued_at": "2026-09-22T10:17:46.458560+00:00",
-      "score": 7.0,
-      "why": "High-level political meeting with a prominent business leader discussing potential state investments."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17083,7 +17052,7 @@
     "bse vodafone idea": 1790014934582,
     "bse wipro": 1789752283470,
     "bse zaggle": 1789743436158,
-    "capgemini": 1790051252594,
+    "capgemini": 1790072483461,
     "cognizant": 1789761743637,
     "flipkart": 1789631208994,
     "google": 1790006400317,
@@ -17100,17 +17069,17 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790071738764,
-    "news: consumer internet india": 1790071771921,
-    "news: global ai": 1790067057717,
-    "news: global chips": 1790069760014,
-    "news: global it services": 1790063003452,
-    "news: india ai deeptech": 1790066678671,
+    "news: big tech platforms": 1790072213546,
+    "news: consumer internet india": 1790072798948,
+    "news: global ai": 1790071508761,
+    "news: global chips": 1790071440680,
+    "news: global it services": 1790072694727,
+    "news: india ai deeptech": 1790072789669,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790071565604,
+    "news: india fintech": 1790072329943,
     "news: india semiconductors": 1790069139067,
     "news: india tech policy": 1790070300579,
-    "news: india telecom": 1790071357768,
+    "news: india telecom": 1790073100654,
     "news: indian it majors": 1790068830495,
     "news: indian it midcaps": 1790062913524,
     "news: pib releases": 1790068136131,
@@ -17150,7 +17119,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T10:17:46.833689+00:00",
+    "last_server_run": "2026-09-22T10:33:01.052143+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T09:18:36.495244+00:00",
