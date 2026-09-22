@@ -7348,21 +7348,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789749900942",
-    "1789749954218",
-    "1789750020325",
-    "1789750044329",
-    "1789750423761",
-    "1789750478701",
-    "1789750683346",
-    "1789751101531",
-    "1789751290065",
-    "1789751445291",
-    "1789751518225",
-    "1789751529383",
-    "1789751583498",
-    "1789751827661",
-    "1789751856916",
     "1789751875860",
     "1789752027624",
     "1789752180407",
@@ -13347,10 +13332,25 @@
     "1790046457427",
     "1790047659586",
     "1790047872019",
-    "1790048221514"
+    "1790048221514",
+    "1790002245741",
+    "1790005620484",
+    "1790023034841",
+    "1790041380900",
+    "1790043850643",
+    "1790044140199",
+    "1790045469980",
+    "1790045520142",
+    "1790046065547",
+    "1790047777958",
+    "1790048100565",
+    "1790048580248",
+    "1790049168944",
+    "1790049180606",
+    "1790049181562"
   ],
   "last_digest_hour": "2026-09-22T09",
-  "last_success": "2026-09-22T03:47:14.770092+00:00",
+  "last_success": "2026-09-22T04:02:38.207814+00:00",
   "national": {
     "alerted": [
       {
@@ -14859,9 +14859,10 @@
       "CG-DL-E-21092026-276373",
       "CG-DL-E-21092026-276374",
       "CG-DL-E-21092026-276376",
-      "SG-DL-E-21092026-276375"
+      "SG-DL-E-21092026-276375",
+      "CG-DL-E-22092026-276358"
     ],
-    "last_run": "2026-09-22T03:49:26.908734+00:00",
+    "last_run": "2026-09-22T04:04:03.903819+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -15955,7 +15956,8 @@
       "gazette:CG-DL-E-21092026-276374",
       "gazette:CG-DL-E-21092026-276376",
       "gazette:SG-DL-E-21092026-276375",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63641"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63641",
+      "gazette:CG-DL-E-22092026-276358"
     ],
     "source_failures": {
       "CBI": {
@@ -16983,16 +16985,16 @@
     "news: global ai": 1790047659586,
     "news: global chips": 1790043240304,
     "news: global it services": 1790042830597,
-    "news: india ai deeptech": 1790047872019,
+    "news: india ai deeptech": 1790048580248,
     "news: india edtech gaming": 1789986988797,
-    "news: india fintech": 1790047020678,
+    "news: india fintech": 1790049181562,
     "news: india semiconductors": 1790046319344,
     "news: india tech policy": 1790048221514,
-    "news: india telecom": 1790046246490,
+    "news: india telecom": 1790048100565,
     "news: indian it majors": 1790044466948,
     "news: indian it midcaps": 1790044620665,
     "news: pib releases": 1790039232862,
-    "news: tech leaders": 1790044690018,
+    "news: tech leaders": 1790049168944,
     "nvidia": 1790013607775,
     "nvidia blog": 1790013607775,
     "openai": 1789992000699,
@@ -17028,7 +17030,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-22T03:47:15.114678+00:00",
+    "last_server_run": "2026-09-22T04:02:38.461862+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-22T02:47:55.160606+00:00",
@@ -17302,6 +17304,7 @@
       "CG-DL-E-21092026-276373",
       "CG-DL-E-21092026-276374",
       "CG-DL-E-21092026-276376",
+      "CG-DL-E-22092026-276358",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
