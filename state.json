@@ -1,97 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-18T12:32:32.618732+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Meesho's Valmo helps delivery partners claim Rs 2 cr in tax refunds",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGtrVHBxWHo5a2dqcHp3dHZfN25xN2ZPc19GQTlnb3BzREI1OFNHeHNvazBzQk9vMzVjeVlSY3hTU19XSURXUks0Q25LRDBuZkJ2dS05ZUV5bXVnbGI3YjBCMHlWWW01TklJbjFlcmlvQ0NKTzVZS0hqMWNSYWVmelFNenlWZUJtelpHZlltWmtJNlVaenpFWXZ3ZTd6ZzQtZzlyT202ZlNCX1Q3UXhxSDJxUVBEdXlGV3BoeElKYkfSAcABQVVfeXFMTUxra1RwcVh6OWtnanB6d3R2XzducTdmT3NfRkE5Z29wc0RCNThTR3hzb2swc0JPbzM1Y3lZUmN4U1NfV0lEV1JLNENuS0QwbmZCdnUtOWVFeW11Z2xiN2IwQjB5VlltNU5JSW4xZXJpb0NDSk81WUtIajFjUmFlZnpRTXp5VmVCbXpaR2ZZbVprSTZVWnp6RVl2d2U3emc0LWc5ck9tNmZTQl9UN1F4cUgycVFQRHV5RldwaHhJSmJH?oc=5",
-      "words": [
-        "claimed",
-        "compliance",
-        "delivery",
-        "helps",
-        "meesho",
-        "partners",
-        "refunds",
-        "simplify",
-        "tax",
-        "valmo"
-      ]
-    },
-    {
-      "at": "2026-09-18T12:32:32.618732+00:00",
-      "handle": "News: India edtech gaming",
-      "headline": "Wadhwani Innovation Centre launched at IIT Kanpur",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVUl5WV91b3JETW1PZWN0UHVGWGVEbEh4c0lnN1lWRWxyclF0MHBYM2pOUndDcFYya003Wlp1ZFVVNk1XNW5XTW1CT0FVQ3l2LVdOQjdTUFdvSHl5ODRHNmNFQ0pyakJfbDhSYWxGcTlkTk1jdXFET3VaOGhhWllzNWRJblp0ZDZHTlFpVFRHb0d1X0t4cWhlTHNUYVdwSDdqb1h3RVk1RUZ4YnFxVkpQUWhkYzI4TDVMS3R6Z1U4UE9wQ3RIbGc0VmVlRV9EYVRIV3lrenpHaGFINXV5V0l5N0RzeDdidUk0bVR5dTl2S3AtWHZVNHZj0gH3AUFVX3lxTE5VSXlZX3VvckRNbU9lY3RQdUZYZURsSHhzSWc3WVZFbHJyUXQwcFgzak5Sd0NwVjJrTTdaWnVkVVU2TVc1bldNbUJPQVVDeXYtV05CN1NQV29IeXk4NEc2Y0VDSnJqQl9sOFJhbEZxOWROTWN1cURPdVo4aGFaWXM1ZEluWnRkNkdOUWlUVEdvR3VfS3hxaGVMc1RhV3BIN2pvWHdFWTVFRnhicXFWSlBRaGRjMjhMNUxLdHpnVThQT3BDdEhsZzRWZWVFX0RhVEhXeWt6ekdoYUg1dXlXSXk3RHN4N2J1STRtVHl1OXZLcC1YdlU0dmM?oc=5",
-      "words": [
-        "bridge",
-        "centre",
-        "gap",
-        "iit",
-        "innovation",
-        "kanpur",
-        "launched",
-        "market",
-        "research",
-        "wadhwani"
-      ]
-    },
-    {
-      "at": "2026-09-18T12:32:32.618732+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "TCS stock falls over 3 percent amid Tata Sons dispute",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQURMbEg0V29URTRsei1uVjZ5d1E5c3hzQks4M1ZBejV2dWQzeUUtOXN2bzY1cTVMbmh4enQzQW9XYVBEY0xMbFdnOGI3Q3VLX29laUZoeE1HQlJuenNRQU1uaUl3SzFKMWtRRktVTW5qdkxtQ0lkRlhGZTBVOVpIZUphNXVRQkFnNGZ5QVZ5YVNuWnNYN3JYR3lZeXlGYkJQZExmdEEySWI5OVlMV0k4SDZ6OWxMSmdPUEZDM0tPd0ViSjJtTUJCeVVNTEw?oc=5",
-      "words": [
-        "consultancy",
-        "dispute",
-        "falls",
-        "percent",
-        "services",
-        "sons",
-        "tata",
-        "weighs"
-      ]
-    },
-    {
-      "at": "2026-09-18T12:32:32.618732+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "HCLTech research highlights system integration as top semiconductor friction point",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWhSQlJoaWdYSk0wREtYbnhvempoU1M4RGpnNnlKbUw0M3djLVhTa2FIMmNhOVdZbjNZS1lCSi0wQVQ4c3RzZkpQaUdwUE1UcDJ5S3pRSm05VUpaN2Y3d1pualNlSmZFc3NtRXNWZ1JOeEdTUHNVM19WeF9odnRXMXhaRV9UWlF4eXRkZGxzUlNjSHRwbHZzZTU5RjJaSURYS3FKQV9TYTI2Wi1ma29XVW1aYXFrVjdNM0RvYWpRdnJldGdPRU5j?oc=5",
-      "words": [
-        "friction",
-        "hcltech",
-        "integration",
-        "point",
-        "replaces",
-        "research",
-        "semiconductor",
-        "shortages",
-        "supply",
-        "system",
-        "top"
-      ]
-    },
-    {
-      "at": "2026-09-18T12:32:32.618732+00:00",
-      "handle": "News: Global AI",
-      "headline": "SoftBank adds USD 21 billion to AI firepower in new debt deals",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFRIT3BNUF9FeHMtRlhoNWEwT1VtdUVCWXZNdzd4a09STGdmRnNSMlVzaFVqUkxvQjFMa2hiTnJlM3NCaTh3amZVVlNEMTFZNjRhRTFMb09vSXczWEdBdGFyR2k1dzJEOFk5SmJZV1lrdzAxNnJCNXhDUXd6czVJMElQZ05mTTd4RTFQUGQyNHRCWmpGdDk2R0pJak5rQzRGRnpnd1VqY9IBrAFBVV95cUxNOEFjWFN3YWVsODd2bVR2OG1Cam1maGZkRzBjWWtHZExNcVJjQTZINExodzJzX3IzY2kwZ1FSWXMtZkNZX2g5Vm56Zld3b1dvV0JHVlVMajFSenplR01fMnJkZXNqZUhIZVNTcGJEdmZoSlQ2b2ZoMVp1OXdkT3o3d0dKU0lHOWJOS3hDTUpMdzVtd1c2QVozRWdkVVh6RTAxWDJQcHQ2Mm9zT1lu?oc=5",
-      "words": [
-        "adds",
-        "bil",
-        "bloomberg",
-        "deals",
-        "debt",
-        "firepower",
-        "softbank"
-      ]
-    },
-    {
       "at": "2026-09-18T13:03:04.053983+00:00",
       "handle": "BSE Bharti Airtel",
       "headline": "Bharti Airtel receives DoT penalty notice of Rs 1.53 lakh",
@@ -7373,48 +7282,106 @@
         "launch",
         "resistance"
       ]
+    },
+    {
+      "at": "2026-09-23T08:35:05.940103+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Zoho unveils Zia Chat AI interface and seven SaaS applications",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXdsZW9kcTZBcU9RNjdjbmpCaEExYXlnWkp5a3NFTTE4R3ZSMXJCMy1GRTF1NVhrV2RLakxjLTBJZ3oyYXJ1NlBNVWpfU1BHTTY1bG9tc2VWQjF2TmlMRVpFczlyLWVBS2NBRDRGeG1JTG43WFh6cTN1bWZEb1R1Z0k1bnVJTk9HMFJPNXlaM0xYMTNfNVRzbWEzeWY4c3BYanZPQ3J0NTBoTXF2X1pFYmJwS3JXNThrcWtnZ1RrTQ?oc=5",
+      "words": [
+        "announces",
+        "applications",
+        "chat",
+        "industry",
+        "interface",
+        "saas",
+        "seven",
+        "specific",
+        "unveils",
+        "zia",
+        "zoho"
+      ]
+    },
+    {
+      "at": "2026-09-23T08:35:05.940103+00:00",
+      "handle": "News: India tech policy",
+      "headline": "MeitY narrows agentic AI platform shortlist to CoRover and Kyndryl for DigiLocker",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSnVnc0RHZTN6NXZ2MzRDNG1OX1JvUHF6cl9QcFFFU3Q0dURYLXhpa1RHWVVnZU5sSnB2M3ZEZEl1dXNaUWgyUWpVTGVSRHRTaG1GN2N4RXZQQldRRGhXNEEzNUdRQ2E0Wnh1THBZR3NZMm1veWFrVlVadkNsS0VtLUpNeGdmY0NOQXJTNl9IX3hQV0pjZU8yU19wZ1RQVmMydDVtWVNBVzduRWhOZndEdk1rbkFDZlRUVXVwQTU5VFJSNDFhRVdLOExzUFVSOGFrbzJQajk3Q1lud09GazdlNG5BM3MzbEFXTGlpQUhpOTV2bVBLb0dNQ2hIRdIB-wFBVV95cUxOSnVnc0RHZTN6NXZ2MzRDNG1OX1JvUHF6cl9QcFFFU3Q0dURYLXhpa1RHWVVnZU5sSnB2M3ZEZEl1dXNaUWgyUWpVTGVSRHRTaG1GN2N4RXZQQldRRGhXNEEzNUdRQ2E0Wnh1THBZR3NZMm1veWFrVlVadkNsS0VtLUpNeGdmY0NOQXJTNl9IX3hQV0pjZU8yU19wZ1RQVmMydDVtWVNBVzduRWhOZndEdk1rbkFDZlRUVXVwQTU5VFJSNDFhRVdLOExzUFVSOGFrbzJQajk3Q1lud09GazdlNG5BM3MzbEFXTGlpQUhpOTV2bVBLb0dNQ2hIRQ?oc=5",
+      "words": [
+        "agentic",
+        "case",
+        "corover",
+        "digilocker",
+        "field",
+        "first",
+        "kyndryl",
+        "meity",
+        "narrows",
+        "platform",
+        "use"
+      ]
+    },
+    {
+      "at": "2026-09-23T08:35:05.940103+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Apple launches M-series Mac mini and Mac Studio in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHeVdzcW54RHJRbk9tR2xrTWpfRURqWlo2bDljQWhoZ0tyNUhVVGhaR1JEY3lwSi1KZ3BzT3g3YkJpdjZuYXV5T2NJenJuTTZ4VWZ4aGFBWkRrdkduRkE4Sy1MdERoQ1d5ek1jTExNeXcxLTkwZTNhTDFLMNIBgAFBVV95cUxOMnVtUm1xdkFJYzdPamJNVUdjZ2tWSGtjWUoxUzNQUnc5bGlZUE16bXI0Nlh4QklCeXR3Tkw1WGNCSzNZUHpCZHNQOFVadUc2blNoaUxhMmduOXBDODhGNkxXdGpPMFRhczdFVWdXcTlSTzQ4eEZpRGhFUE5BMGxzSA?oc=5",
+      "words": [
+        "apple",
+        "chips",
+        "latest",
+        "launched",
+        "mac",
+        "mini",
+        "price",
+        "series",
+        "specifications",
+        "studio"
+      ]
+    },
+    {
+      "at": "2026-09-23T08:35:05.940103+00:00",
+      "handle": "News: India telecom",
+      "headline": "Airtel opposes TRAI's 21-day notice rule for 5G network slicing",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObGZsZ1BUTFpfX1ZYNF9aTjJjdlJ3MFRXSnpsaEpCYnRGcmliazl0YjNPMjhyalNEcmpzaTJvbFo0QlRLTUtDN2JranA4OWxzV2hGNzYtaVIteUpGWHdqZW1heUQ3NzJoX3pLUHRpTzZFNzB1MXAzUDVuc3BfNk5GdA?oc=5",
+      "words": [
+        "airtel",
+        "day",
+        "network",
+        "notice",
+        "opposes",
+        "rule",
+        "slicing",
+        "trai"
+      ]
+    },
+    {
+      "at": "2026-09-23T08:35:05.940103+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Zoho's Sridhar Vembu calls Big Tech's push to slow AI cynical",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdU1JZXc4SENnUEZodURPRXNxSmZoN1V6U212Z3ZuTDJReEw4Zms4NnBNQkgyVDZZOWdwaXNMVk10dFNIckRqVmhmTm44azNhNFZ0SlJCR2Q1T2FjMjhER3lPaGJESVdzQmhFTjdXNkNkMzVRVjRNbE5Sb25jQ2VPRVR5TVFQc0hfRm9HOFZTOWd2Rzcw?oc=5",
+      "words": [
+        "big",
+        "calls",
+        "cynical",
+        "development",
+        "push",
+        "slow",
+        "sridhar",
+        "tech",
+        "vembu",
+        "zoho"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789888546762",
-    "1789888547039",
-    "1789891224965",
-    "1789891665670",
-    "1789892016267",
-    "1789811822288",
-    "1789812300882",
-    "1789821718576",
-    "1789824780728",
-    "1789825372652",
-    "1789833720520",
-    "1789858401068",
-    "1789858422587",
-    "1789860987939",
-    "1789876863400",
-    "1789885549060",
-    "1789886040528",
-    "1789887421679",
-    "1789887637018",
-    "1789888465546",
-    "1789889245661",
-    "1789891200982",
-    "1789891781032",
-    "1789891897667",
-    "1789892198945",
-    "1789892413480",
-    "1789892809321",
-    "1789892858188",
-    "1789892899066",
-    "1789808771746",
-    "1789836343224",
-    "1789840635678",
-    "1789850560324",
-    "1789884060280",
-    "1789884911911",
-    "1789885549472",
-    "1789886267459",
     "1789887210935",
     "1789887520011",
     "1789888032748",
@@ -13377,10 +13344,47 @@
     "1790150535765",
     "1790150812342",
     "1790151116936",
-    "1790151324267"
+    "1790151324267",
+    "1790069280200",
+    "1790072640193",
+    "1790088379935",
+    "1790122556387",
+    "1790128500994",
+    "1790130621911",
+    "1790130624791",
+    "1790133235232",
+    "1790134461510",
+    "1790135593215",
+    "1790142391191",
+    "1790143500337",
+    "1790143920393",
+    "1790144410232",
+    "1790144671939",
+    "1790145360943",
+    "1790145379416",
+    "1790145925228",
+    "1790146907039",
+    "1790147601113",
+    "1790147852888",
+    "1790148597019",
+    "1790149170919",
+    "1790149226987",
+    "1790149740445",
+    "1790150361717",
+    "1790150503903",
+    "1790151099839",
+    "1790151540426",
+    "1790151602340",
+    "1790151746770",
+    "1790151795010",
+    "1790151819318",
+    "1790151964490",
+    "1790151966869",
+    "1790152200603",
+    "1790171276658"
   ],
-  "last_digest_hour": "2026-09-23T13",
-  "last_success": "2026-09-23T08:18:50.899249+00:00",
+  "last_digest_hour": "2026-09-23T14",
+  "last_success": "2026-09-23T08:35:05.966024+00:00",
   "national": {
     "alerted": [
       {
@@ -14831,6 +14835,29 @@
           "september",
           "sunday"
         ]
+      },
+      {
+        "at": "2026-09-23T08:39:44.878211+00:00",
+        "handle": "IMD",
+        "headline": "Deep depression crosses AP-Odisha coast bringing torrential rain and severe weather alerts",
+        "tier": 1,
+        "url": "https://internal.imd.gov.in/press_release/20260923_pr_5334.pdf",
+        "words": [
+          "2026",
+          "23rd",
+          "adjoining",
+          "andhra",
+          "article",
+          "bay",
+          "bengal",
+          "cross",
+          "date",
+          "deep",
+          "depression",
+          "imd",
+          "likely",
+          "north"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15096,7 +15123,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T08:24:48.329737+00:00",
+    "last_run": "2026-09-23T08:39:44.966235+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16329,7 +16356,8 @@
       "pib:2313778",
       "pib:2313775",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63649",
-      "pib:2313801"
+      "pib:2313801",
+      "page:https://internal.imd.gov.in/press_release/20260923_pr_5334.pdf"
     ],
     "source_failures": {
       "CBI": {
@@ -16345,7 +16373,7 @@
         "until": "2026-09-23T09:18:15.987507+00:00"
       },
       "Gazette of India (Extraordinary)": {
-        "count": 1
+        "count": 2
       },
       "State: Maharashtra": {
         "count": 19,
@@ -16376,98 +16404,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Zoho unveils Zia Chat AI interface and seven SaaS applications",
-      "post": {
-        "created_at": "2026-09-23T07:42:28+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1790149348187",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mashable India",
-        "reposts": 0,
-        "text": "Zoho Unveils Zia Chat AI Interface, Announces Seven Industry-Specific SaaS Applications",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTXdsZW9kcTZBcU9RNjdjbmpCaEExYXlnWkp5a3NFTTE4R3ZSMXJCMy1GRTF1NVhrV2RLakxjLTBJZ3oyYXJ1NlBNVWpfU1BHTTY1bG9tc2VWQjF2TmlMRVpFczlyLWVBS2NBRDRGeG1JTG43WFh6cTN1bWZEb1R1Z0k1bnVJTk9HMFJPNXlaM0xYMTNfNVRzbWEzeWY4c3BYanZPQ3J0NTBoTXF2X1pFYmJwS3JXNThrcWtnZ1RrTQ?oc=5"
-      },
-      "queued_at": "2026-09-23T07:49:14.863298+00:00",
-      "score": 7.0,
-      "why": "Major product and AI tool launch by a key Indian software company."
-    },
-    {
-      "headline": "MeitY narrows agentic AI platform shortlist to CoRover and Kyndryl for DigiLocker",
-      "post": {
-        "created_at": "2026-09-23T06:31:19+00:00",
-        "handle": "News: India tech policy",
-        "id": "1790145079057",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "MeitY narrows field for agentic AI platform to CoRover, Kyndryl; DigiLocker first use case",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSnVnc0RHZTN6NXZ2MzRDNG1OX1JvUHF6cl9QcFFFU3Q0dURYLXhpa1RHWVVnZU5sSnB2M3ZEZEl1dXNaUWgyUWpVTGVSRHRTaG1GN2N4RXZQQldRRGhXNEEzNUdRQ2E0Wnh1THBZR3NZMm1veWFrVlVadkNsS0VtLUpNeGdmY0NOQXJTNl9IX3hQV0pjZU8yU19wZ1RQVmMydDVtWVNBVzduRWhOZndEdk1rbkFDZlRUVXVwQTU5VFJSNDFhRVdLOExzUFVSOGFrbzJQajk3Q1lud09GazdlNG5BM3MzbEFXTGlpQUhpOTV2bVBLb0dNQ2hIRdIB-wFBVV95cUxOSnVnc0RHZTN6NXZ2MzRDNG1OX1JvUHF6cl9QcFFFU3Q0dURYLXhpa1RHWVVnZU5sSnB2M3ZEZEl1dXNaUWgyUWpVTGVSRHRTaG1GN2N4RXZQQldRRGhXNEEzNUdRQ2E0Wnh1THBZR3NZMm1veWFrVlVadkNsS0VtLUpNeGdmY0NOQXJTNl9IX3hQV0pjZU8yU19wZ1RQVmMydDVtWVNBVzduRWhOZndEdk1rbkFDZlRUVXVwQTU5VFJSNDFhRVdLOExzUFVSOGFrbzJQajk3Q1lud09GazdlNG5BM3MzbEFXTGlpQUhpOTV2bVBLb0dNQ2hIRQ?oc=5"
-      },
-      "queued_at": "2026-09-23T08:04:42.037498+00:00",
-      "score": 7.0,
-      "why": "Significant government IT procurement and AI policy update featuring named Indian tech players."
-    },
-    {
-      "headline": "Apple launches M-series Mac mini and Mac Studio in India",
-      "post": {
-        "created_at": "2026-09-23T06:51:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1790146260261",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "91mobiles",
-        "reposts": 0,
-        "text": "Apple Mac mini and Mac Studio with latest M-series chips launched in India: price, specifications",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHeVdzcW54RHJRbk9tR2xrTWpfRURqWlo2bDljQWhoZ0tyNUhVVGhaR1JEY3lwSi1KZ3BzT3g3YkJpdjZuYXV5T2NJenJuTTZ4VWZ4aGFBWkRrdkduRkE4Sy1MdERoQ1d5ek1jTExNeXcxLTkwZTNhTDFLMNIBgAFBVV95cUxOMnVtUm1xdkFJYzdPamJNVUdjZ2tWSGtjWUoxUzNQUnc5bGlZUE16bXI0Nlh4QklCeXR3Tkw1WGNCSzNZUHpCZHNQOFVadUc2blNoaUxhMmduOXBDODhGNkxXdGpPMFRhczdFVWdXcTlSTzQ4eEZpRGhFUE5BMGxzSA?oc=5"
-      },
-      "queued_at": "2026-09-23T08:18:50.873733+00:00",
-      "score": 7.0,
-      "why": "Major product release with direct India pricing and availability."
-    },
-    {
-      "headline": "Airtel opposes TRAI's 21-day notice rule for 5G network slicing",
-      "post": {
-        "created_at": "2026-09-23T08:01:15+00:00",
-        "handle": "News: India telecom",
-        "id": "1790150475371",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "MediaNama",
-        "reposts": 0,
-        "text": "Airtel Opposes TRAI\u2019s 21-Day Notice Rule for 5G Network Slicing",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObGZsZ1BUTFpfX1ZYNF9aTjJjdlJ3MFRXSnpsaEpCYnRGcmliazl0YjNPMjhyalNEcmpzaTJvbFo0QlRLTUtDN2JranA4OWxzV2hGNzYtaVIteUpGWHdqZW1heUQ3NzJoX3pLUHRpTzZFNzB1MXAzUDVuc3BfNk5GdA?oc=5"
-      },
-      "queued_at": "2026-09-23T08:18:50.873733+00:00",
-      "score": 7.0,
-      "why": "Significant regulatory pushback by a major Indian telecom operator."
-    },
-    {
-      "headline": "Zoho's Sridhar Vembu calls Big Tech's push to slow AI cynical",
-      "post": {
-        "created_at": "2026-09-23T08:15:24+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1790151324267",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "YourStory",
-        "reposts": 0,
-        "text": "Zoho\u2019s Sridhar Vembu calls Big Tech\u2019s push to slow AI development \u2018cynical\u2019",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdU1JZXc4SENnUEZodURPRXNxSmZoN1V6U212Z3ZuTDJReEw4Zms4NnBNQkgyVDZZOWdwaXNMVk10dFNIckRqVmhmTm44azNhNFZ0SlJCR2Q1T2FjMjhER3lPaGJESVdzQmhFTjdXNkNkMzVRVjRNbE5Sb25jQ2VPRVR5TVFQc0hfRm9HOFZTOWd2Rzcw?oc=5"
-      },
-      "queued_at": "2026-09-23T08:18:50.873733+00:00",
-      "score": 7.0,
-      "why": "High-profile Indian tech founder statement on industry direction and policy."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17427,7 +17364,7 @@
     "bse infosys": 1789727487991,
     "bse kpit technologies": 1790107481762,
     "bse lenskart": 1790161990988,
-    "bse ltimindtree": 1789996344894,
+    "bse ltimindtree": 1790171276658,
     "bse ltts": 1789490917112,
     "bse meesho": 1790031115406,
     "bse mobikwik": 1790089293754,
@@ -17454,7 +17391,7 @@
     "capgemini": 1790072483461,
     "cognizant": 1789761743637,
     "flipkart": 1789631208994,
-    "google": 1790121000010,
+    "google": 1790152200603,
     "google cloud": 1790150400424,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
@@ -17468,21 +17405,21 @@
     "microsoft india": 1790139139461,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790149580646,
-    "news: consumer internet india": 1790150345960,
+    "news: big tech platforms": 1790151540426,
+    "news: consumer internet india": 1790151966869,
     "news: global ai": 1790129580774,
     "news: global chips": 1790150535765,
     "news: global it services": 1790148469350,
-    "news: india ai deeptech": 1790151324267,
+    "news: india ai deeptech": 1790151964490,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790150503387,
+    "news: india fintech": 1790150503903,
     "news: india semiconductors": 1790150000896,
-    "news: india tech policy": 1790146757756,
+    "news: india tech policy": 1790151099839,
     "news: india telecom": 1790150475371,
-    "news: indian it majors": 1790151116936,
+    "news: indian it majors": 1790151819318,
     "news: indian it midcaps": 1790139386200,
     "news: pib releases": 1790146772249,
-    "news: tech leaders": 1790148352061,
+    "news: tech leaders": 1790149740445,
     "nvidia": 1790130622802,
     "nvidia blog": 1790130622802,
     "openai": 1790110800092,
@@ -17518,7 +17455,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T08:18:51.230385+00:00",
+    "last_server_run": "2026-09-23T08:35:06.299269+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T06:50:13.726458+00:00",
