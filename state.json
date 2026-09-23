@@ -7382,22 +7382,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789818570032",
-    "1789831708196",
-    "1789835880728",
-    "1789860434254",
-    "1789864040483",
-    "1789865889513",
-    "1789868096792",
-    "1789869192096",
-    "1789869336841",
-    "1789814701224",
-    "1789825560741",
-    "1789830075539",
-    "1789846161035",
-    "1789857224542",
-    "1789869094146",
-    "1789873618165",
     "1789875262696",
     "1789818998224",
     "1789828140669",
@@ -13381,10 +13365,26 @@
     "1790133142912",
     "1790133473072",
     "1790133652133",
-    "1790133999389"
+    "1790133999389",
+    "1790064856725",
+    "1790071471265",
+    "1790078886076",
+    "1790080321832",
+    "1790091243726",
+    "1790128240046",
+    "1790128800397",
+    "1790130105236",
+    "1790130600801",
+    "1790132782217",
+    "1790133103975",
+    "1790133767351",
+    "1790134185952",
+    "1790134267089",
+    "1790134561349",
+    "1790134698419"
   ],
   "last_digest_hour": "2026-09-23T09",
-  "last_success": "2026-09-23T03:33:51.109237+00:00",
+  "last_success": "2026-09-23T03:46:35.803389+00:00",
   "national": {
     "alerted": [
       {
@@ -15059,7 +15059,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T03:38:04.846886+00:00",
+    "last_run": "2026-09-23T03:47:33.860659+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16308,7 +16308,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Jio Financial CEO outlines NBFC runway and insurance launch plans",
+      "post": {
+        "created_at": "2026-09-23T02:00:00+00:00",
+        "handle": "News: India telecom",
+        "id": "1790128800397",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Bfsi",
+        "reposts": 0,
+        "text": "Jio Financial CEO Hitesh Sethia on Rs 1.5 Lakh Cr NBFC Runway, BofA Deal & Insurance launch",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdmt3Y0p0YjFjR29Zb1dFaFVmY1lOVVpnc0RxZC1WTUZ1OG8wY19yUUdNWUFyb0NLczJ3Yk1UOEt0UFdhZll3TFlhb3RieHI0WHJhOVhVempHcGdzZVh6WlFRLUFNS0NDTHFvOFZGbkZOYVM3eDlQNXBFaV9EcXNIY1pYR2lfRkxhWVZvazBpTk9nd1JGQURYUHV2UHB3MGUtTlRYU0QwZmttNGFOaWxNLUQ4OE4yMWdJbUlESkUwTGJWTkktOGQyR21LOEFzX0FkSVh6WEk4SFhnbVlHV0I3VNIB5gFBVV95cUxNRG1LMVJ6RENUYjR0aTdBYW5KYk1Ham96NDMtaXZPdGpSQ0JaLWlsdWxHM0J0MVV2SFktZm9YZGhrc0tFNzluc0tGNFc5cFhNd1MzbDVIMWx4a0pMQWE3TkhCOFBQTWJ3S3RlZVpMeDdFVXpwNTFzd05qWWpTUXFjYmMzUmVTOUNTdWxkdHlucnZrUkdDdDRkdGlrOVRDQndMRzZaaUtlQ0Vyc3FqaGhYb29JcjA0QVkwaHVYUmlkVzYxdkU4RUtpd0NjdzRJSlRUY0ZWbUx5TExreXNJYlRDNndGeTVvdw?oc=5"
+      },
+      "queued_at": "2026-09-23T03:46:35.781306+00:00",
+      "score": 7.0,
+      "why": "Important statements by a major fintech/financial services CEO regarding business strategy and insurance entry."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17310,14 +17329,14 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790133142912,
-    "news: consumer internet india": 1790130601791,
+    "news: consumer internet india": 1790134561349,
     "news: global ai": 1790105262430,
     "news: global chips": 1790133652133,
-    "news: global it services": 1790129101007,
+    "news: global it services": 1790134698419,
     "news: india ai deeptech": 1790130625015,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790133473072,
-    "news: india semiconductors": 1790125842314,
+    "news: india fintech": 1790134185952,
+    "news: india semiconductors": 1790133103975,
     "news: india tech policy": 1790132482498,
     "news: india telecom": 1790132278126,
     "news: indian it majors": 1790133999389,
@@ -17359,7 +17378,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T03:33:51.367902+00:00",
+    "last_server_run": "2026-09-23T03:46:36.134766+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T02:33:40.593411+00:00",
