@@ -7380,25 +7380,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789882828391",
-    "1789801611197",
-    "1789805294393",
-    "1789810343294",
-    "1789819996610",
-    "1789822800934",
-    "1789829257839",
-    "1789835259920",
-    "1789836600003",
-    "1789836600632",
-    "1789838357618",
-    "1789866012928",
-    "1789867320431",
-    "1789869976853",
-    "1789873461385",
-    "1789880541482",
-    "1789882064965",
-    "1789882403806",
-    "1789882436715",
     "1789882598752",
     "1789883418619",
     "1789884050615",
@@ -13379,10 +13360,29 @@
     "1790140057122",
     "1790141760692",
     "1790142213930",
-    "1790142655790"
+    "1790142655790",
+    "1790060176671",
+    "1790061480675",
+    "1790070653074",
+    "1790074110737",
+    "1790089440584",
+    "1790130953709",
+    "1790132596314",
+    "1790135359138",
+    "1790137685824",
+    "1790138924238",
+    "1790140867850",
+    "1790141006253",
+    "1790142385739",
+    "1790143106535",
+    "1790143195535",
+    "1790143447904",
+    "1790143909334",
+    "1790144090562",
+    "1790144165967"
   ],
   "last_digest_hour": "2026-09-23T11",
-  "last_success": "2026-09-23T06:04:49.632382+00:00",
+  "last_success": "2026-09-23T06:19:15.565368+00:00",
   "national": {
     "alerted": [
       {
@@ -15057,7 +15057,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T06:12:22.265565+00:00",
+    "last_run": "2026-09-23T06:28:48.130486+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16272,7 +16272,9 @@
       "pib:2313715",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-on-ayurveda-day",
       "pib:2313741",
-      "pib:2313738"
+      "pib:2313738",
+      "pib:2313742",
+      "pib:2313743"
     ],
     "source_failures": {
       "CBI": {
@@ -16280,11 +16282,17 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "CCI": {
+        "count": 2
+      },
+      "CERT-In": {
         "count": 1
       },
       "DGFT": {
         "count": 9,
         "until": "2026-09-23T09:18:15.987507+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -17354,17 +17362,17 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790140169464,
-    "news: consumer internet india": 1790142213930,
+    "news: consumer internet india": 1790143195535,
     "news: global ai": 1790105262430,
     "news: global chips": 1790141850289,
-    "news: global it services": 1790140340785,
+    "news: global it services": 1790143447904,
     "news: india ai deeptech": 1790140157987,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790141596611,
+    "news: india fintech": 1790144165967,
     "news: india semiconductors": 1790141791659,
     "news: india tech policy": 1790140680730,
-    "news: india telecom": 1790142655790,
-    "news: indian it majors": 1790140057122,
+    "news: india telecom": 1790144090562,
+    "news: indian it majors": 1790142385739,
     "news: indian it midcaps": 1790139386200,
     "news: pib releases": 1790138700972,
     "news: tech leaders": 1790141760692,
@@ -17403,7 +17411,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T06:04:49.966315+00:00",
+    "last_server_run": "2026-09-23T06:19:15.883654+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T04:48:10.018515+00:00",
