@@ -1,172 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-19T03:32:19.937432+00:00",
-      "handle": "News: India telecom",
-      "headline": "TRAI mandates customer consent for commercial calls",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLXBRR0lQbWlCNUU5cUtfY01CZTRsRDVnOUJSMmFURU1xaUVua2Q4Q0hnaWI2YU9adUFWWXF3WTJpTFNVZ2NWdFdQUTNoeGRNUnpBaGZELVRIQU5fbmEyZUcyM05CdHZIbnc2bUxYS1l3TzFZZEl4dF9naUtreFNVWEFYWHQ1Vk45V0lQWV9YVGt3R19QVEVfU3E0Zm9KQ25wSC1ZN0VJWGlnSllmWjdJS2pzMkdRU3RqZ1ZESlZnWndvbU1uN2NRVzVXX1dXa1cwMkpfV29Fb1ZweUxsS0QxbHVMMNIB6AFBVV95cUxOX1FZbjV6T0xvZTM4c3VpZmw5X1RYTlhxZEFiOFlDMjViZi1PN3hyVHJwcjhyaVlGM250VHMwbjlGUklXTFR0S2NfVjZvS0Fsdjk5bUs3WFpsYUpHZU1PZTVCM3dWdlM2enVzYV9EMmkzNWJMbFlDNGxPdVNDOXpZa0FRbVROaHJmdVVrdjhWUVliV3dTSFFlVWdvNDZGaF83TmN3U3Jna2tRb0hfdWRxWnE4MXhmalh5LWN1SlpWYkhZcFBHOUxBRGRmRmI3VUZpMk53TDdwcmF6dzFSU3BxTWZtUXAzdHB6?oc=5",
-      "words": [
-        "action",
-        "calls",
-        "cold",
-        "consent",
-        "customer",
-        "face",
-        "leash",
-        "made",
-        "mandatory",
-        "offenders",
-        "spam",
-        "stricter",
-        "trai"
-      ]
-    },
-    {
-      "at": "2026-09-19T03:32:19.937432+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Anthropic and Accenture commit $2B to AI safety",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZ29QN3VsSTJqU1VPdGFNNXp6dnkwT2NQTmJObWl4SFJ5Q0xPZnZQRGlnSmhBQVN4SDdrLTZxeG9MZ0U3UGhWYy0ycHoxM1kxbE1iTjRraEMydDlzWnJSVzZjdFZTZ1ZKUGJvMjlPQkgtRUJ2Y0E4elZBVG1aZS1BR052Y3dtY3RTd0JIejJzYm5BUlJMa2pMam10Qm9kTmIyeE91UDhNWU1Sdmd6RERzX3JUdXNJaU9MOUJCa28zeTBEcVBLR2pTMWdnV3V4TFNvdTlINTRTaDk3RThaU3lCOWJUNkd1VS12RkpKQVZKS1RmbTZFVk5lOVo0eU5nUdIBgwJBVV95cUxNZ0tUdktJMVQ5Q1RrblpodmJTcU5UWkpzclB1MWhJMk9hSGxCdU5rVXdHWEg2RkdySWgtcXdtYUlNSjVyS1NUd01xVXVpVnB3c2dhWll1OThUbnczZTJtQkdUV1lsZHozV1dNcnlxY0FQSDFISUNwMGtZbVc1blV2NnZ0T0FJWm0xbWdGVjhKUHFvSzVvVG5wMUpYc2lXU1BTQ0sxVExwT2dkV2drLUM0aF95V05ZNUJLNjFkR21RcDR1REtwaDZKWjdLUGFyRFI4MFp0MDBkMW0yek1JeGRFU2EzYUpSaTR1ektTY3BEVU1xN2dXaDRIblNyazg4aUl6Wmlv?oc=5",
-      "words": [
-        "accenture",
-        "anthropic",
-        "billion",
-        "concerns",
-        "evaluation",
-        "invest",
-        "model",
-        "rise",
-        "safety"
-      ]
-    },
-    {
-      "at": "2026-09-19T03:32:19.937432+00:00",
-      "handle": "News: India fintech",
-      "headline": "Law enforcement launches Operation Toofan to trace drug money via UPI and crypto",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaXJuZEI2MVBxTTR6QnpCU1ZoOTlOcHEzUHFKRkxESjZ2TVdUcjdHSHYxczluTks4MnVVbEEwMkNwWDhNWGR4dUVoZFhRN2hjNmQyYWdsUUFKWFpURzVLeE9PX2lvTkNuVzBFZHdvRzZmRW94NjNMU3Q5U01qR2hfZHhLTGJLRWt3ZHlKNEJ2b0FiUy1jczcyVkd4c2ZacFNhWmFFbkd1VXA3WkoyYXl1UVRhd0ZVU3hBZFA0dFBWZzNLZXI2elFHRNIBzwFBVV95cUxQQnFiZzRjUmllcHV3X0NPX3VyRE1CUFNYQklfdlRHQm1xclVjMzk3QzZTa0V0ZVJmVXE5RmppaXJpY19OeHZFRDdpc3Q2eV8zZ3p3REpNbG9mLUZVN2JiUW9ScWlJUVFzOTh2LVdlSm5pM1hhVGl1YlhIMEtmOHh3VUhMaFBBWGVaay1palFxMk8zUUJuNjVkb2llZ0xTRlFDaGZsSGtBQUFsYmpPLWJ0S2padUZGVWxMWTByVnF6SHhYWGZkS1RkbkhvNUZvdTQ?oc=5",
-      "words": [
-        "crypto",
-        "drug",
-        "money",
-        "operation",
-        "through",
-        "toofan",
-        "trace",
-        "upi",
-        "wallets"
-      ]
-    },
-    {
-      "at": "2026-09-19T04:32:09.443635+00:00",
-      "handle": "News: India telecom",
-      "headline": "TRAI brings caller ID apps under telecom spam enforcement",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ3VhcmFoYTlBdm95N2Y0U0U5dWFrYnNscDhTMkFsRlUtQTZ3QTI2S3BKUkdLV3o5V2ZRZ1lqUE1wclpMMlZDbllpV2YtNkU3R0g0MmF0NzVtNWFzZW8tdWlLU0VkVnhkZkFNelI5SjF5V2g1VWtTT0JQcXd4bWdtejlpY0xIX3NaeWxxTVRCX0d5OG44ODNvdDZ2UXlJSWR1N3c?oc=5",
-      "words": [
-        "apps",
-        "brings",
-        "caller",
-        "enforcement",
-        "network",
-        "spam",
-        "telecom",
-        "trai",
-        "under"
-      ]
-    },
-    {
-      "at": "2026-09-19T05:32:18.027106+00:00",
-      "handle": "News: India fintech",
-      "headline": "Kazakhstan explores cross-border QR payments using UPI blueprint",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2dNSWhMYlN1QXpKR3FCZVlGejRZLVRTSm5zNDZUek54MWN6dTd0VVFuYWhQYmV1ZWd4WjdnZXdVMDlQLW5QOEt4ZlpoUmUzSzAyektnbHFwVFFLOUFoR1ZSNHBwU2syaUw3R05LUFBJNk9TR0w4T0V2U3BEdlI0U2lGNmRKWGJ1b0VQWFBiaUUzR2ZSNTZTeG5ZRk9mVHg1amR1UVBrMA?oc=5",
-      "words": [
-        "blueprint",
-        "border",
-        "cross",
-        "eyes",
-        "kazakhstan",
-        "offers",
-        "payments",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-19T05:32:18.027106+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "India semiconductor push expected to create over 1 lakh jobs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0RlMVZHb1h5N01HY25sazhlQW1IUDh6MFpCVmlmLVEyOUZ0MDNDU0txZ29feHBLYWxEN2ZBeHAyVW1tanNLbHFYdzNwTFhLRlV2U2d4Z3VBcU80WEpVaWVyMmtUVk9XaDc2d3JIVjRzcHdHUWN3RUVPbno1RmNzbWJvODZPM05hR291SXN5R01lcGtRWUdBQVo5dFZEWGQ1X3ZLUHBjZUp1b0VrSlE?oc=5",
-      "words": [
-        "billion",
-        "create",
-        "expected",
-        "jobs",
-        "lakh",
-        "push",
-        "semiconductor"
-      ]
-    },
-    {
-      "at": "2026-09-19T06:34:14.249172+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Anthropic, OpenAI, SpaceXAI, and Google face federal antitrust lawsuit over AI slowdown",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOUkzLTF0emRoVF8zZm82WnhTZWdDSWxNUG42UkJPZkZSenRVOF9GOGxUVndqVHlIZnlfM0t0dFlybHpOX3J4VXppQ3Zqd2NNdUx6VTlxSDBJMVNSZU9YcHFHd25fQWdMM3EzMU9rNU15MVVPSmpaUG1GNW9oMjh2eE8zMjI5Sk1HcnNtcEVjeWt2ZEEwZzk1djJXSjcyZFVrQm9fbVJybkdYd0J0OVFjTXAwZ004dU1KeUdiM1I5Y25wMFE1WlNKUXBrUjM2VW5hTlh1QXZPRnJMMzVseUltWTBuUkNvN1NWVDBKckhKRDJiYU5mUFNYcGxwRTZfX0Rydy1mS3JyQ1gzdThUbEowWDlaMXZHRm_SAZcCQVVfeXFMTzlJMy0xdHpkaFRfM2ZvNlp4U2VnQ0lsTVBuNlJCT2ZGUnp0VThfRjhsVFZ3alR5SGZ5XzNLdHRZcmx6Tl9yeFV6aUN2andjTXVMelU5cUgwSTFTUmVPWHBxR3duX0FnTDNxMzFPazVNeTFVT0pqWlBtRjVvaDI4dnhPMzIyOUpNR3JzbXBFY3lrdmRBMGc5NXYyV0o3MmRVa0JvX21Scm5HWHdCdDlRY01wMGdNOHVNSnlHYjNSOWNucDBRNVpTSlFwa1IzNlVuYU5YdUF2T0ZyTDM1bHlJbVkwblJDbzdTVlQwSnJISkQyYmFOZlBTWHBscEU2X19EcnctZktyckNYM3U4VGxKMFg5WjF2R0Zv?oc=5",
-      "words": [
-        "anthropic",
-        "antitrust",
-        "calls",
-        "development",
-        "face",
-        "federal",
-        "google",
-        "lawsuit",
-        "openai",
-        "slowdown",
-        "spacexai"
-      ]
-    },
-    {
-      "at": "2026-09-19T06:34:14.249172+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "Nvidia CEO Jensen Huang says AI poses zero risk of world end by 2030",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEM2M0Z2YXFlYmZpWEtsQmpLbXowd3BOTHhBenNzb2NHX0VKcXZjY0ppby1XNTFNUEl4RmcwQ19JSWdhYl9GZGxhdjVDLUx3d3AwcHpMeUlrbXFPSVlSdWhfM0NrU1VEQkp2ZVBBUVlVai1qRlV0WDZ4R05pSEhUZ0xxOXo1UHYwVFNDTmVRdlRrbERralk0dDZSLV9LbC1DYkE?oc=5",
-      "words": [
-        "2030",
-        "end",
-        "huang",
-        "jensen",
-        "nvidia",
-        "poses",
-        "risk",
-        "world",
-        "zero"
-      ]
-    },
-    {
-      "at": "2026-09-19T06:34:14.249172+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "First wafer from Dholera semiconductor plant expected by 2028",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2JlLUxOYWxLTldfZk16cFRpTmdlc1dsSnZJNHhpaWV0Ymc0Ykwtdml3MWQ0V2hJaWVNVVlmSVkzemh3QzBpdWVIcVBZbDJsdXpCR2ItYWpYRE96NTMtVG5QNmlSLXpsdG8zRTIza0FiUjk1bDB1VThGS0o1dUFJX0dncl9KbVdnQTU4M2dZYjg5eGJTZUJVVEhSSlB1U0o0U3kwR21LZ1huaVFDMWdNWTZPZlNZSlA2VU90aHZ2ZHplMGwwRWRNWEExMUtQZ05hYzYxd3pFWUgzQ19WYVZj0gHkAUFVX3lxTE5qQXZVWXliS1F5RlE3R1ZxVmpLMWoyYTM0bVJqUFFITkNvbVhKYVg2ZzhJbHRpQkR1VDFKQ1NLMWZwMXgwY2RoRm8zTnZpTGhCNnd0MmNsOVVEam5ka0U5a0dWLVFLWU9Cb1RmYWdMYVd6RnExdnhkX0J3QlZFMkgzbFpoUl9HNkZZeVY2NUtHRk5GQmE3S0JCSDNuLWtndERqNmVhcHBfMlBPUi1aVXExUDRiMlZyYWs1Y3BxdWpWYXVScnhpUWkydDdDM3kyT2YwWFVITkJmamRoWnRYdi1QZXp0eg?oc=5",
-      "words": [
-        "2028",
-        "ashwini",
-        "dholera",
-        "first",
-        "likely",
-        "news",
-        "plant",
-        "semiconductor",
-        "vaishnaw",
-        "wafer"
-      ]
-    },
-    {
       "at": "2026-09-19T06:34:14.249172+00:00",
       "handle": "News: India tech policy",
       "headline": "IndieSemiC launches India's first indigenous VEGA-based SoM",
@@ -7501,26 +7335,173 @@
         "seeks",
         "shenzhen"
       ]
+    },
+    {
+      "at": "2026-09-23T15:34:49.194711+00:00",
+      "handle": "Google",
+      "headline": "Google launches Gemini 3.8 Flash TTS models",
+      "tier": 1,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "words": [
+        "article",
+        "card",
+        "expre",
+        "flash",
+        "gemini",
+        "hello",
+        "image",
+        "introducing",
+        "lite",
+        "most",
+        "our",
+        "reading",
+        "speech",
+        "text"
+      ]
+    },
+    {
+      "at": "2026-09-23T15:34:50.787633+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "RPS Ventures sells 0.9% stake in Meesho for Rs 899.7 crore",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZTAzUmpWOGVMUmg0V3RoUVg3Z3FqZ0VZLVNoeHFKVEdYbnVKTGFZLWJPYksxSlA1bjVLYnpzOWd2RGYzOW5LeW56SlhneWpsZEtGLVJ6ZEJDX2VQWG9VbWJNcFZHWFd6RzFfSldqa09xZGVpRnk2M0hFdE13UDdDNGhIcTVJdkVSTzFQaXEwcnBiMklsSHQxcXZ5LWhaYktURHhMUEIyelptZTNBa0NaSi1kSC1uRkdIX05vNm5oVmw2ZG5GeGlkZDhjMNIBywFBVV95cUxNZTAzUmpWOGVMUmg0V3RoUVg3Z3FqZ0VZLVNoeHFKVEdYbnVKTGFZLWJPYksxSlA1bjVLYnpzOWd2RGYzOW5LeW56SlhneWpsZEtGLVJ6ZEJDX2VQWG9VbWJNcFZHWFd6RzFfSldqa09xZGVpRnk2M0hFdE13UDdDNGhIcTVJdkVSTzFQaXEwcnBiMklsSHQxcXZ5LWhaYktURHhMUEIyelptZTNBa0NaSi1kSC1uRkdIX05vNm5oVmw2ZG5GeGlkZDhjMA?oc=5",
+      "words": [
+        "899",
+        "meesho",
+        "rps",
+        "sells",
+        "stake",
+        "ventures"
+      ]
+    },
+    {
+      "at": "2026-09-23T15:34:50.787633+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "VCs cash out Rs 67,000 crore; Ultraviolette raises $85 million",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORGNhUXc3NnhsVjQ0WExZQnIwa3lxR1ZweFpraHB4Mnl3T05ud3lQdzVwLXBONEVZWDZtNVBRbF9meEFCam9xMHU2VmxIRXEtSTE5RTlQaExXcENkZ2xEd1k4aVRlRzNZVHppb2lEZkFDa2dXV3VmR280Y0ZqY2VPNzdZa0JNclhMWW52UFd2ZjRmbWxmUEhZdFdPS3RSOTRfc3Z1a2RxNENrVjNrbExOSkpfdm93ZWFoWnVySVI3MkVyd2NaR215VDV3Sk1raEZKQ3BMcGJiRmlBZkh3LWlDbXc5Nmk2MkY5VHIxSkQxQ21GT3ZNT3IwU0x4ZXZkT0RKZkxQR1l3UmRzdHM?oc=5",
+      "words": [
+        "000",
+        "block",
+        "cash",
+        "deals",
+        "funding",
+        "million",
+        "more",
+        "out",
+        "revs",
+        "tech3",
+        "ultraviolette",
+        "vcs",
+        "via"
+      ]
+    },
+    {
+      "at": "2026-09-23T15:34:50.787633+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Report finds 70 percent of Indian GCCs stuck in AI pilot mode",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWtxUnlYaWtUTFRjbHRCczZDRXdZbnZQSzY5NUhGaDZjMGtOMUJRbXlPdDQ1STlHay1zbmFpNmtQMWNuajVnLWZkdUFNdEVmanV2WXluRjBERkdRaFlVekdmLXBxcmozZFlpVnluS2FVSEV1bDBkX1pFQnFJb3paY0t3QzNheEFHM0dkT3E3Z3o4NDlaMklzUGVVdUpOaHJTQndMdm44UnFSaktxNFpvT3U2NUZRWHo3VHVHSFVvTW1Wdm_SAcgBQVVfeXFMTzYzUnMzZk1EdGt1YnF4YWVlUDBEQ3NFZUo5RmcxRVZYWkdLWGQtWTNLNzJNbjBFOXhELUYtUGRMU2VDT1VhUlpfa2Z2U056aHVXa1Q5VzlmZjJLSlkwYVY1di1NMXNZS2RpNFFNSnp6bkhNNnNZaUl4QXRUUGFQeFk4dnR6WDJHT2w1dWZYaGZJWHRzNjNpY3QwcjNNVlR5eEtUajJJRGN6blN3cXdINl9GdURFam8tczdobXhCZDN0QkU5RzNUMHk?oc=5",
+      "words": [
+        "gccs",
+        "mode",
+        "pilot",
+        "report",
+        "stuck"
+      ]
+    },
+    {
+      "at": "2026-09-23T15:34:50.787633+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Nothing's CMF expands strategy to build R&D base in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZVpOUEltSV9hNURkdTh4Z3Mwc1V2N3NKRU9fbDRUN0dHWU5UZk1PYWc1QUlHZUxQOEEwaWZwM1VCNF9PcUlKUGMxN0x0YkxxckhYMzZHbWUxekQ5bVctX1dCNm80MkYzWWo2NVdLaTRRUmVVbHJEbkZFdDV2OEluVVhjQVJpejg3eTFaZXV5VXNUeFhjbmpZZHpMamVWbzh2a3FYRWl2UlE5OVBSUDJvdUdMWG9CS2ZJQTlxZE5UMU1YWEI5UmM2U2VaVEtaMDc1UU1xcHg3UzVMSTlxZkhiaTBhc9IB6AFBVV95cUxNd1pNZFV5YXNNRElVeW1SRU1ONE5sRXdId3ROSVpVQ0tFSmpuVVNZbWlIaUVMU2J3ajB6c3luTnlMcXU1STNMOUladEdwcWhFYkQwUElRVUk0RWhkMC1BdVBqa0tFU1Fsa3FZY29zOU5oR1p0WEZDMklpZkp3bld0SEJUVnZVQ1NHaDdGV0FRR3RoQnlrWW9jWVBaU2JvQnltVnR2ZUU4NTN4dmFFLVNjM3dVZXpJejA3QUhONmdhc0JNelpRZHhnbGRnaVp2cUdTd0MyU01HSERtRHU3Y015N21EcEtBMHFY?oc=5",
+      "words": [
+        "assembly",
+        "base",
+        "betting",
+        "beyond",
+        "building",
+        "cmf",
+        "nothing"
+      ]
+    },
+    {
+      "at": "2026-09-23T15:34:50.787633+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Zoho CEO Sridhar Vembu says India should focus on foundational AI R&D",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObkxaMUdROXYwcnVfTjhMaUZPcGgxbEYwb2dWT1dvVzhUZFdpcnVPazd4TTlxVU5VeXJBeVVLNGhFMkJMbEV6QjljSmcwY3lCQWh2UEZyeEtKY1FoZ25sTDlJYVUtY3dPWC1wWE5vLUdtbGliMV9HRnhfM05kYTJrZ2dUQS1YZVBjOEZHM0VNcGl5Qy1lcXZ4Q2ZMdmQ0MTNnTjB3QmJLMFNxYXEzajlGd3J0NkowRXhmOVpfNTNwTVU0WDNlWUU3c1ZoTjVXenJGdTBoTnd6QdIB3gFBVV95cUxORnlfYnVjVlpUSk5VQXViN1l2ODM0bVpRNkd3NE5BMmFGUFRTaHNWS1c4ckJDdWRjaEhFYWtaUllZaTNPS0NyaDJodFlJMTg1Nk1sSkw4M0JGOHZucVlkU0hSZEVSeXRudVdKbDB3aEZLWXRnTThwcWQzN2VEanROeWU2OE9ZbEpneTBIZmRsVFhZeU95R1hiRTdRV29nR2lCY1pJakFOdUcyZlRIM2pfUGxuTVVza3puM2xEZW1iUTZ4RUNCOGFUa29zMEFZLVQ4WjVKZjdsYzBVVFMzQkE?oc=5",
+      "words": [
+        "foundational",
+        "gpus",
+        "invest",
+        "should",
+        "vembu",
+        "zoho"
+      ]
+    },
+    {
+      "at": "2026-09-23T15:34:50.787633+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "India has 5 operational semiconductor units, eyes $200bn market",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHhhNUdlYzRob29PTUFEUWp5WFBzNG5MRFhWNWxpSUNmcDNlU2k2Nmo4QVhNNzJsUDFQTlEtSVFFSE5OWWtfQm1Jc1dFbXJVMHZkanpPWUhuZ2hpTjV6ekFzRFM5SzdYTmhDLS1MeHlna3BUMTY5YTl4YlhmRW1CeWZLSnZzTU9zNHdTTUVaMHNDV0NIekE2Z3I5Rmh4VVZvX1BoSzllNGdHNVhBdzU1YVpBSkNtOXF6MGI2eUZnUVMxSDJtYXBlOF83UGNYQdIB2wFBVV95cUxQdDI5aGMxVDBXaGp0LXFBYVNod2EwcEhOdnFDU3FZS3lVSFVHQm5tQzdzSzVGOEMtc0VIY2N5S0JhYWQ5cWhtakZuNVcweXhJLVlMUU80MF8ySm9OMG9vLUxIbk54WWVkY2wxeGI2UURheUx0eUt2UXFCdDZQWlc4S1ZNOHgyYlZkM25IdzczWUZXY1hZaXNJYlJYNmtFeWY2bDZOM2ZLZ096MFB1b2xKVmhZVm1VRFZOa2ZtRkktSHk5NEtCMlRqTlFGN0hYcEpGVFJIdjFtRG8wV3M?oc=5",
+      "words": [
+        "200bn",
+        "eyes",
+        "market",
+        "now",
+        "operational",
+        "policy",
+        "production",
+        "semiconductor",
+        "units"
+      ]
+    },
+    {
+      "at": "2026-09-23T15:34:50.787633+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "FSSAI cracks down on Amazon, Swiggy, BigBasket, Flipkart, Zomato",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcnNrM2pXOUNGT1ZSbzNjXzZEWVk3N1MzRENuNXZHcDV3ZDlwbXhiN3hhQjYydzFVQk5zZk90MUl3TjNSUkdEU1c1ajVpYmRMaVhuSk9YSEUyMnFZME5LRThZLWFXMHZFdXg0VWJtVUpId1VQYmZFQjg4SXpvNlRUTWl2U2wwa2M5dzFuUFV6ZzFfTlhNSEVWRU9rcFhtdzNEQTFXaFY1MlNsOVBacVM3M0dCQTZRWWtiR3RtWTFmNVd0Y1d1LTQzQlBVSk96c3I5Z2pvOFFORkp3WHM4ZnQ5aGZ4OVJMS3BWR2hRZ2F1Z1BvUHBUbE40d1VUc1BndXZQQldOcdIBigJBVV95cUxQdTFzV25ZdjJoNVFUVFZvZFhxdm42a1UyOGM5c0kzQUllTTZIWlp3RlZnVDRndjh1YzZlYnRHc1hua1B0ejVTNzdzU3ZfdnRFM0h5S09ENW9EOHFDZFZCOUcwTk5FOXNpaUsyTkZRU0ZBWjdGQ09MTE5TbHVUQkI2VG1yQmZMbFpUSU1YMzhoMWNNTnBMODhqRnBYTGZ6aGN5ZGRSNWFhWkpYT1ZGd21PWVlpN2ctNXlQTko5UWlZVG9LZ2FaTnNDZXJkN3BBOXZ0OUVkRzk5MVNjNDFNU1NEbDQ0UTBxbHppc3dSSnNNVE50QlNyOGpmalczYUdWUm5DczRKdVpnOXk3Zw?oc=5",
+      "words": [
+        "amazon",
+        "bigbasket",
+        "claims",
+        "crackdown",
+        "flipkart",
+        "foods",
+        "fssai",
+        "launches",
+        "misleading",
+        "prohibited",
+        "swiggy",
+        "zep"
+      ]
+    },
+    {
+      "at": "2026-09-23T15:34:50.787633+00:00",
+      "handle": "News: India fintech",
+      "headline": "Business associations plan 'No UPI Day' against MDR levy",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHhhQnY4Rlg0RHh6UGpoQnVQdmpqR2YxY1V4MmtMNjBxcG85OVpwRkNlZnk3ZTRTUk9tczBTQVppODBaVHlWQ2t6TWg1UzFQY0g0SDd0MV9UdWttMFQtMFNia2VEYkZ3STFxVjRtUm5nbG1qV1hod3o3emd2Ri1CeHh4M1F4RDFGWFU2ZlhwZi1Cd3daNDVPODBPMUdEZU9DaVFyNFZxQzNScUFiQjFTbG1MbFZkQ0IyMHIwT1ltMG9fRVQzTnRwUXVRWkU2TGtCOG5jU09qdllXUdIB3wFBVV95cUxPUjA0SHVrdy1qTHhkRUVpWnkwZGJaMW4tdXVvdDVZaXVremhUaGQ2c2w0LTFhNmdvc3h2TTB4WWN3V1dxVUZGMHVlcWtPVGVUVmRydTBrSzJ5NURiaW56WVRlcFFrX1BxX21MbmsydkRqbnVROV9Kd1dYNThvTVlsWGQxRWYxUWhVTEk1cjhEYzI3QzZoclJOUGFtSGpTUmh1RUptUEdaVG9tcWxneURKb001OVZvWXIzUkNyRjQ0dXluUTRDYUF0ZVZ1RWRrVTVaX0gyMDQzZC1pSVZxZVRJ?oc=5",
+      "words": [
+        "against",
+        "associations",
+        "business",
+        "day",
+        "levy",
+        "mdr",
+        "october",
+        "plan",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789920969691",
-    "1789921884691",
-    "1789922137393",
-    "1789925580205",
-    "1789925681763",
-    "1789925684881",
-    "1789926164580",
-    "1789842672728",
-    "1789900628125",
-    "1789916400812",
-    "1789925821949",
-    "1789926118410",
-    "1789926352813",
-    "1789926398911",
-    "1789926635670",
     "1789926791291",
     "1789927166060",
     "1789852752557",
@@ -13505,10 +13486,25 @@
     "1790175632981",
     "1790176096729",
     "1790176102886",
-    "1790176253343"
+    "1790176253343",
+    "1790144763875",
+    "1790159580941",
+    "1790171295393",
+    "1790172256263",
+    "1790172384417",
+    "1790173032437",
+    "1790173800596",
+    "1790173800880",
+    "1790175857986",
+    "1790176440220",
+    "1790176500509",
+    "1790176793397",
+    "1790176986389",
+    "1790177016220",
+    "1790177114820"
   ],
-  "last_digest_hour": "2026-09-23T20",
-  "last_success": "2026-09-23T15:17:52.733666+00:00",
+  "last_digest_hour": "2026-09-23T21",
+  "last_success": "2026-09-23T15:34:50.815458+00:00",
   "national": {
     "alerted": [
       {
@@ -15376,7 +15372,7 @@
       "CG-DL-E-23092026-276429",
       "CG-DL-E-23092026-276430"
     ],
-    "last_run": "2026-09-23T15:25:11.718975+00:00",
+    "last_run": "2026-09-23T15:38:15.133055+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16693,8 +16689,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "DGFT": {
-        "count": 10,
-        "until": "2026-09-23T15:21:34.412185+00:00"
+        "count": 11,
+        "until": "2026-09-23T21:35:23.388700+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -16725,98 +16721,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "VCs cash out Rs 67,000 crore; Ultraviolette raises $85 million",
-      "post": {
-        "created_at": "2026-09-23T14:58:34+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1790175514136",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Tech3 | VCs cash out Rs 67,000 crore via block deals; Ultraviolette revs up with $85 million funding; and more",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORGNhUXc3NnhsVjQ0WExZQnIwa3lxR1ZweFpraHB4Mnl3T05ud3lQdzVwLXBONEVZWDZtNVBRbF9meEFCam9xMHU2VmxIRXEtSTE5RTlQaExXcENkZ2xEd1k4aVRlRzNZVHppb2lEZkFDa2dXV3VmR280Y0ZqY2VPNzdZa0JNclhMWW52UFd2ZjRmbWxmUEhZdFdPS3RSOTRfc3Z1a2RxNENrVjNrbExOSkpfdm93ZWFoWnVySVI3MkVyd2NaR215VDV3Sk1raEZKQ3BMcGJiRmlBZkh3LWlDbXc5Nmk2MkY5VHIxSkQxQ21GT3ZNT3IwU0x4ZXZkT0RKZkxQR1l3UmRzdHM?oc=5"
-      },
-      "queued_at": "2026-09-23T15:03:00.595526+00:00",
-      "score": 7.0,
-      "why": "Significant VC exits and a substantial funding round for Ultraviolette are newsworthy."
-    },
-    {
-      "headline": "RPS Ventures sells 0.9% stake in Meesho for Rs 899.7 crore",
-      "post": {
-        "created_at": "2026-09-23T13:39:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790170740343",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "RPS Ventures sells 0.9% stake in Meesho for Rs 899.7 crore",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZTAzUmpWOGVMUmg0V3RoUVg3Z3FqZ0VZLVNoeHFKVEdYbnVKTGFZLWJPYksxSlA1bjVLYnpzOWd2RGYzOW5LeW56SlhneWpsZEtGLVJ6ZEJDX2VQWG9VbWJNcFZHWFd6RzFfSldqa09xZGVpRnk2M0hFdE13UDdDNGhIcTVJdkVSTzFQaXEwcnBiMklsSHQxcXZ5LWhaYktURHhMUEIyelptZTNBa0NaSi1kSC1uRkdIX05vNm5oVmw2ZG5GeGlkZDhjMNIBywFBVV95cUxNZTAzUmpWOGVMUmg0V3RoUVg3Z3FqZ0VZLVNoeHFKVEdYbnVKTGFZLWJPYksxSlA1bjVLYnpzOWd2RGYzOW5LeW56SlhneWpsZEtGLVJ6ZEJDX2VQWG9VbWJNcFZHWFd6RzFfSldqa09xZGVpRnk2M0hFdE13UDdDNGhIcTVJdkVSTzFQaXEwcnBiMklsSHQxcXZ5LWhaYktURHhMUEIyelptZTNBa0NaSi1kSC1uRkdIX05vNm5oVmw2ZG5GeGlkZDhjMA?oc=5"
-      },
-      "queued_at": "2026-09-23T15:17:52.709475+00:00",
-      "score": 8.0,
-      "why": "It is a major block deal involving an Indian tech startup stake sale with exact financial figures."
-    },
-    {
-      "headline": "Report finds 70 percent of Indian GCCs stuck in AI pilot mode",
-      "post": {
-        "created_at": "2026-09-23T10:43:23+00:00",
-        "handle": "News: Global IT services",
-        "id": "1790160203730",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "70% of India\u2019s GCCs are stuck in AI pilot mode, says report",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWtxUnlYaWtUTFRjbHRCczZDRXdZbnZQSzY5NUhGaDZjMGtOMUJRbXlPdDQ1STlHay1zbmFpNmtQMWNuajVnLWZkdUFNdEVmanV2WXluRjBERkdRaFlVekdmLXBxcmozZFlpVnluS2FVSEV1bDBkX1pFQnFJb3paY0t3QzNheEFHM0dkT3E3Z3o4NDlaMklzUGVVdUpOaHJTQndMdm44UnFSaktxNFpvT3U2NUZRWHo3VHVHSFVvTW1Wdm_SAcgBQVVfeXFMTzYzUnMzZk1EdGt1YnF4YWVlUDBEQ3NFZUo5RmcxRVZYWkdLWGQtWTNLNzJNbjBFOXhELUYtUGRMU2VDT1VhUlpfa2Z2U056aHVXa1Q5VzlmZjJLSlkwYVY1di1NMXNZS2RpNFFNSnp6bkhNNnNZaUl4QXRUUGFQeFk4dnR6WDJHT2w1dWZYaGZJWHRzNjNpY3QwcjNNVlR5eEtUajJJRGN6blN3cXdINl9GdURFam8tczdobXhCZDN0QkU5RzNUMHk?oc=5"
-      },
-      "queued_at": "2026-09-23T15:17:52.709475+00:00",
-      "score": 7.0,
-      "why": "It is a research report finding with hard numbers regarding the Indian IT and GCC ecosystem."
-    },
-    {
-      "headline": "Nothing's CMF expands strategy to build R&D base in India",
-      "post": {
-        "created_at": "2026-09-23T11:47:58+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1790164078067",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "Beyond assembly: Why Nothing's CMF is betting on building R&D base in India",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZVpOUEltSV9hNURkdTh4Z3Mwc1V2N3NKRU9fbDRUN0dHWU5UZk1PYWc1QUlHZUxQOEEwaWZwM1VCNF9PcUlKUGMxN0x0YkxxckhYMzZHbWUxekQ5bVctX1dCNm80MkYzWWo2NVdLaTRRUmVVbHJEbkZFdDV2OEluVVhjQVJpejg3eTFaZXV5VXNUeFhjbmpZZHpMamVWbzh2a3FYRWl2UlE5OVBSUDJvdUdMWG9CS2ZJQTlxZE5UMU1YWEI5UmM2U2VaVEtaMDc1UU1xcHg3UzVMSTlxZkhiaTBhc9IB6AFBVV95cUxNd1pNZFV5YXNNRElVeW1SRU1ONE5sRXdId3ROSVpVQ0tFSmpuVVNZbWlIaUVMU2J3ajB6c3luTnlMcXU1STNMOUladEdwcWhFYkQwUElRVUk0RWhkMC1BdVBqa0tFU1Fsa3FZY29zOU5oR1p0WEZDMklpZkp3bld0SEJUVnZVQ1NHaDdGV0FRR3RoQnlrWW9jWVBaU2JvQnltVnR2ZUU4NTN4dmFFLVNjM3dVZXpJejA3QUhONmdhc0JNelpRZHhnbGRnaVp2cUdTd0MyU01HSERtRHU3Y015N21EcEtBMHFY?oc=5"
-      },
-      "queued_at": "2026-09-23T15:17:52.709475+00:00",
-      "score": 7.0,
-      "why": "It is a hardware brand strategy move focusing on establishing R&D capabilities in India."
-    },
-    {
-      "headline": "Zoho CEO Sridhar Vembu says India should focus on foundational AI R&D",
-      "post": {
-        "created_at": "2026-09-23T15:08:22+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1790176102886",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "India should invest in foundational AI R&D, not GPUs: Zoho\u2019s Vembu",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObkxaMUdROXYwcnVfTjhMaUZPcGgxbEYwb2dWT1dvVzhUZFdpcnVPazd4TTlxVU5VeXJBeVVLNGhFMkJMbEV6QjljSmcwY3lCQWh2UEZyeEtKY1FoZ25sTDlJYVUtY3dPWC1wWE5vLUdtbGliMV9HRnhfM05kYTJrZ2dUQS1YZVBjOEZHM0VNcGl5Qy1lcXZ4Q2ZMdmQ0MTNnTjB3QmJLMFNxYXEzajlGd3J0NkowRXhmOVpfNTNwTVU0WDNlWUU3c1ZoTjVXenJGdTBoTnd6QdIB3gFBVV95cUxORnlfYnVjVlpUSk5VQXViN1l2ODM0bVpRNkd3NE5BMmFGUFRTaHNWS1c4ckJDdWRjaEhFYWtaUllZaTNPS0NyaDJodFlJMTg1Nk1sSkw4M0JGOHZucVlkU0hSZEVSeXRudVdKbDB3aEZLWXRnTThwcWQzN2VEanROeWU2OE9ZbEpneTBIZmRsVFhZeU95R1hiRTdRV29nR2lCY1pJakFOdUcyZlRIM2pfUGxuTVVza3puM2xEZW1iUTZ4RUNCOGFUa29zMEFZLVQ4WjVKZjdsYzBVVFMzQkE?oc=5"
-      },
-      "queued_at": "2026-09-23T15:17:52.709475+00:00",
-      "score": 7.0,
-      "why": "Statement by a major Indian tech founder and CEO on national industry direction and AI strategy."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17809,10 +17714,10 @@
     "capgemini": 1790169480467,
     "cognizant": 1790161361396,
     "flipkart": 1789631208994,
-    "google": 1790175600041,
+    "google": 1790176500509,
     "google cloud": 1790150400424,
-    "google deepmind": 1789491957724,
-    "google india": 1789009200642,
+    "google deepmind": 1790177114820,
+    "google india": 1790173800880,
     "hcltech": 1790146092376,
     "ibm": 1790078400999,
     "intel": 1788847380154,
@@ -17824,17 +17729,17 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790164274522,
-    "news: consumer internet india": 1790176253343,
+    "news: consumer internet india": 1790176986389,
     "news: global ai": 1790169346092,
     "news: global chips": 1790168700128,
     "news: global it services": 1790171374941,
     "news: india ai deeptech": 1790176102886,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790174602550,
-    "news: india semiconductors": 1790169160307,
+    "news: india fintech": 1790177016220,
+    "news: india semiconductors": 1790172256263,
     "news: india tech policy": 1790166453655,
     "news: india telecom": 1790170397009,
-    "news: indian it majors": 1790168700593,
+    "news: indian it majors": 1790171295393,
     "news: indian it midcaps": 1790170740343,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790167348783,
@@ -17873,7 +17778,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T15:17:52.996963+00:00",
+    "last_server_run": "2026-09-23T15:34:51.092484+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T15:19:08.409516+00:00",
