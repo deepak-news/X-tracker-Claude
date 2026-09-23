@@ -7381,23 +7381,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789888605566",
-    "1789891969267",
-    "1789892801423",
-    "1789893084288",
-    "1789893645077",
-    "1789894659625",
-    "1789894982549",
-    "1789894993254",
-    "1789829030719",
-    "1789833720958",
-    "1789836224224",
-    "1789852745199",
-    "1789855100393",
-    "1789864200475",
-    "1789873676405",
-    "1789889786925",
-    "1789890684944",
     "1789895480817",
     "1789895613468",
     "1789895755395",
@@ -13380,10 +13363,27 @@
     "1790153503395",
     "1790153640973",
     "1790153644945",
-    "2313853"
+    "2313853",
+    "1790086140318",
+    "1790129410562",
+    "1790138220200",
+    "1790145600191",
+    "1790148240354",
+    "1790148963504",
+    "1790150314839",
+    "1790151240204",
+    "1790152116739",
+    "1790153251949",
+    "1790153760321",
+    "1790153970150",
+    "1790153983331",
+    "1790154205679",
+    "1790154586308",
+    "1790154686578",
+    "1790155042248"
   ],
   "last_digest_hour": "2026-09-23T14",
-  "last_success": "2026-09-23T09:04:32.369729+00:00",
+  "last_success": "2026-09-23T09:19:29.119941+00:00",
   "national": {
     "alerted": [
       {
@@ -15145,7 +15145,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T09:11:23.750264+00:00",
+    "last_run": "2026-09-23T09:24:33.528298+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16385,7 +16385,10 @@
       "pib:2313844",
       "pib:2313851",
       "pib:2313853",
-      "pib:2313848"
+      "pib:2313848",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-by-union-minister-shri-bhupender-yadav-highlighting-efforts-strengthening-the-conservation-journey-of-the-greater-one-horned-rhinoceros",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-jay-meena-on-winning-bronze-in-mens-individual-event-and-becoming-indias-first-ever-asian-games-medallist-in-soft-tennis",
+      "pib:2313857"
     ],
     "source_failures": {
       "CBI": {
@@ -16397,8 +16400,8 @@
         "until": "2026-09-23T12:35:02.045683+00:00"
       },
       "DGFT": {
-        "count": 9,
-        "until": "2026-09-23T09:18:15.987507+00:00"
+        "count": 10,
+        "until": "2026-09-23T15:21:34.412185+00:00"
       },
       "Gazette of India (Extraordinary)": {
         "count": 3,
@@ -17526,20 +17529,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790151540426,
-    "news: consumer internet india": 1790153644945,
+    "news: consumer internet india": 1790153970150,
     "news: global ai": 1790129580774,
-    "news: global chips": 1790152200273,
+    "news: global chips": 1790154686578,
     "news: global it services": 1790153640973,
-    "news: india ai deeptech": 1790151964490,
+    "news: india ai deeptech": 1790155042248,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790150503903,
     "news: india semiconductors": 1790153503395,
-    "news: india tech policy": 1790151099839,
+    "news: india tech policy": 1790153760321,
     "news: india telecom": 1790150475371,
-    "news: indian it majors": 1790153644945,
+    "news: indian it majors": 1790154586308,
     "news: indian it midcaps": 1790152787213,
     "news: pib releases": 1790151497471,
-    "news: tech leaders": 1790149740445,
+    "news: tech leaders": 1790154205679,
     "nvidia": 1790130622802,
     "nvidia blog": 1790130622802,
     "openai": 1790110800092,
@@ -17575,7 +17578,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T09:04:32.632287+00:00",
+    "last_server_run": "2026-09-23T09:19:29.438965+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T08:52:42.554768+00:00",
