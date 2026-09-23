@@ -7380,18 +7380,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789841068272",
-    "1789842021332",
-    "1789873564862",
-    "1789874977807",
-    "1789875703513",
-    "1789881380550",
-    "1789881529537",
-    "1789881682013",
-    "1789882042428",
-    "1789882223674",
-    "1789882323330",
-    "1789882448806",
     "1789882828391",
     "1789801611197",
     "1789805294393",
@@ -13379,10 +13367,22 @@
     "1790141596611",
     "1790141791659",
     "1790141850289",
-    "1790161990988"
+    "1790161990988",
+    "1790074831302",
+    "1790076480221",
+    "1790087520320",
+    "1790097960369",
+    "1790101938715",
+    "1790132595391",
+    "1790133578406",
+    "1790135005896",
+    "1790140057122",
+    "1790141760692",
+    "1790142213930",
+    "1790142655790"
   ],
   "last_digest_hour": "2026-09-23T11",
-  "last_success": "2026-09-23T05:47:49.186744+00:00",
+  "last_success": "2026-09-23T06:04:49.632382+00:00",
   "national": {
     "alerted": [
       {
@@ -15057,7 +15057,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T05:50:25.699293+00:00",
+    "last_run": "2026-09-23T06:12:22.265565+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16270,12 +16270,17 @@
       "pib:2313726",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63648",
       "pib:2313715",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-on-ayurveda-day"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-on-ayurveda-day",
+      "pib:2313741",
+      "pib:2313738"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "CCI": {
+        "count": 1
       },
       "DGFT": {
         "count": 9,
@@ -16310,7 +16315,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Marc Benioff claims Microsoft blocked Salesforce investment in OpenAI",
+      "post": {
+        "created_at": "2026-09-23T05:36:00+00:00",
+        "handle": "News: Tech leaders",
+        "id": "1790141760692",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "Marc Benioff says because of Microsoft, Salesforce could not invest in OpenAI; Salesforce CEO says: I kne",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQRnV5VUw3d3NoUkd3RkdBdk10cWxCR1Eza01CNktCRDVDYVBBVWNma201b29hRjNWNnpwMUJReUhvSlBfUWN4X19MNElQcGRiR3g5TWtJLWFyYXVJcUlMVy1pUG1IaEhzTGZEOUdPYlBLeHFGT3RLZHJITkVuZ1UyWU03RklrSUJ0b0dIbWhDMnZwdEFDbVJVZ0lsTzVudm5yODV6LWVpUWxFbVN4M0VJZ0lXamNmMFRUMU9ZVjhwZ3hoNnd2UzJyOW9uTjdLRTF6RE1SSDM0MzBPeGxpNkhXY2Z5MVNnOU93OTZwYnlSSDYyaG10UVNmaEhoenN1TDJjSHJIUTF2VG1lSXM4UXlhaFlJVTRwR0dXSWJIamRVMUVZMTdlVzlFVXFRdEpXbFZoRHYtVXNwcFYxNXIxa2dLVdIBxgJBVV95cUxQYVUzemdCYndCZG56b0c4aXJ3RG9jRXBSMTVVcDhzWXlValkxZFp5bVlXU1A3aTU0b0pxNDBRbWVrUklLczJvNURZb3FfOXVrem5XRGxMVVFaSkthQ0ttcTlrQWpORjQwRlR4RV8zT0I2NXdaZmQ1UTNCU013alpsYndxcG1TdV84a195NU9JSmdZTVMzcGNQRjJfRkxoY3FzQUpWUEpxb0xPbGdWcmhQUW9JQkxCNVZjQk5mSlJqblJkcW84aU4tZmJETnVSR1lTTUVDaWhTWW02Wks1Z01HLUJaYnhzSmNrSnFUSHpWX3pxdXF4Z2pkQVVBQ3F0cGVuc1VtRDBuSkVqWXRZMU5WeDYzYmsyOG56ZjBoaFBzYzk2MTFLVi1tMWVRRjBIWnVhTnRKZlZ1SWQ4elhWc2c4Yi1NMk1Mdw?oc=5"
+      },
+      "queued_at": "2026-09-23T06:04:49.604032+00:00",
+      "score": 7.0,
+      "why": "Major tech CEO statement on industry competition and AI market dynamics."
+    },
+    {
+      "headline": "Abhishek Shetty joins Grab as Regional Director & Head of Product Marketing",
+      "post": {
+        "created_at": "2026-09-23T05:43:33+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790142213930",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Exchange4Media",
+        "reposts": 0,
+        "text": "Abhishek Shetty appointed Regional Director & Head of Product Marketing at Grab",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkVBQ2xZVnhBdDYzSl81Ry1JNmNPVjA2ZU1Mb01PMmpxUmx5NEJDaFkzeGV4aWM4LTJDVmFNTUhpdXJMd3lfemlXLUx2SmRocElzdWY5ZXF0eVlDNkFCUWVpOTluOE9KOE1qV3YwWDh3d2xSc0dsN1RDenY3bzMyYWduUUZUdjY1MURQV3F3VVA0SkFqN2Vmelh4NjdNRzhMdWV5Y25RYVhYS0c1NUdmMDY4SkR1YTBPdWxJV3lPMmY1bHEzZV9qTHlOOEU3aTFUN1BZQ0hFUy0?oc=5"
+      },
+      "queued_at": "2026-09-23T06:04:49.604032+00:00",
+      "score": 7.0,
+      "why": "Notable leadership appointment for a major tech platform operating in the region."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17312,7 +17354,7 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790140169464,
-    "news: consumer internet india": 1790140867364,
+    "news: consumer internet india": 1790142213930,
     "news: global ai": 1790105262430,
     "news: global chips": 1790141850289,
     "news: global it services": 1790140340785,
@@ -17321,11 +17363,11 @@
     "news: india fintech": 1790141596611,
     "news: india semiconductors": 1790141791659,
     "news: india tech policy": 1790140680730,
-    "news: india telecom": 1790140788916,
-    "news: indian it majors": 1790139386200,
+    "news: india telecom": 1790142655790,
+    "news: indian it majors": 1790140057122,
     "news: indian it midcaps": 1790139386200,
     "news: pib releases": 1790138700972,
-    "news: tech leaders": 1790140885170,
+    "news: tech leaders": 1790141760692,
     "nvidia": 1790130622802,
     "nvidia blog": 1790130622802,
     "openai": 1790110800092,
@@ -17361,7 +17403,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T05:47:49.487993+00:00",
+    "last_server_run": "2026-09-23T06:04:49.966315+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T04:48:10.018515+00:00",
