@@ -316,7 +316,21 @@ def read_filings(posts: list) -> int:
     return read
 
 
-def _rss(url: str, label: str) -> list[Post]:
+def _outlet_allowed(entry, outlets) -> bool:
+    """Whether a Google News story comes from one of the approved outlets.
+
+    Google names the outlet's website on every story; a subdomain counts as
+    its parent, so "telecom.economictimes.indiatimes.com" is The Economic
+    Times. With no list configured, everything is allowed, as before.
+    """
+    if not outlets:
+        return True
+    site = urlparse((entry.get("source") or {}).get("href") or "").netloc.lower()
+    site = site[4:] if site.startswith("www.") else site
+    return any(site == o or site.endswith("." + o) for o in outlets)
+
+
+def _rss(url: str, label: str, outlets=None) -> list[Post]:
     """Real-world feeds are full of stray entities and broken markup, so this
     goes through feedparser rather than a strict XML parser."""
     response = requests.get(url, timeout=TIMEOUT, headers={"User-Agent": UA})
@@ -326,7 +340,7 @@ def _rss(url: str, label: str) -> list[Post]:
     posts = []
     for entry in parsed.entries[:MAX_ITEMS]:
         title = (entry.get("title") or "").strip()
-        if not title:
+        if not title or not _outlet_allowed(entry, outlets):
             continue
         when = entry.get("published_parsed") or entry.get("updated_parsed")
         if not when:
@@ -605,10 +619,10 @@ def _tidy_outlet(name: str) -> str:
     return name if " " in name else name[:1].upper() + name[1:]
 
 
-def _google_news(query: str, label: str) -> list[Post]:
+def _google_news(query: str, label: str, outlets=None) -> list[Post]:
     url = ("https://news.google.com/rss/search?q=" + quote_plus(f"{query} when:1d")
            + "&hl=en-IN&gl=IN&ceid=IN:en")
-    posts = _rss(url, label)
+    posts = _rss(url, label, outlets)
     for post in posts:
         # Titles arrive as "Headline - Outlet"; the outlet belongs in the
         # source label, not in the middle of the story text.
@@ -711,10 +725,12 @@ def collect(cfg: dict, page_memory: dict | None = None):
             print(f"  ! {regulators.NAMES[which]} failed: {str(exc)[:120]}")
             failed.append(label)
 
+    # Only the outlets listed in watchlist.yml ("news_outlets").
+    outlets = {str(o).lower().strip() for o in (sources.get("news_outlets") or [])}
     for topic in sources.get("google_news") or []:
         label = f"News: {topic['name']}"
         try:
-            found = _google_news(topic["q"], label)
+            found = _google_news(topic["q"], label, outlets)
             posts.extend(found)
             print(f"  {label}: {len(found)} items")
         except Exception as exc:  # noqa: BLE001
