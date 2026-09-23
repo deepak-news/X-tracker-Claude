@@ -1,130 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-19T00:32:08.519220+00:00",
-      "handle": "News: India fintech",
-      "headline": "Govt to ensure consumers don't pay UPI charges above Rs 2,000",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObF9UbHpTVzMydXdHT0VNTW45S2ptU2J0RzhERC1lT1BXcnBxQ3JFZ2taZTNZOWhGSGZ6TGhfdUJiNTBENVZZcUt6RXlxUU9oaW5jNmEyRTZJYUYycG11YVByREFjd2NDTEdyR3ZyVlNkRE9sa2M4MjREbmF0MjFhWlYwbERkNEs1RjZkZQ?oc=5",
-      "words": [
-        "2000",
-        "above",
-        "charges",
-        "consumers",
-        "don",
-        "ensure",
-        "govt",
-        "pay",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-19T00:32:08.519220+00:00",
-      "handle": "News: Global AI",
-      "headline": "Huawei launches next-generation AI chips at Shanghai conference",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTjlLa2hQU1dJeS1wZ1dYUmFqc0kwa0dPVjBCYUJBd0NKMWI0eUJTU1ZjeURhQ19JSm16T1pCRVdFdllwZU5aWkY3eWljWkUxaEVGeDlpR0RkV3dtSFVPcHljLW9fbUMtbE1GOVZNcjZuR1FBclBiRWNWYWpuUGx4WmpONkRlMlJzYzExQ1VyYmViczUtU1lPbGR6OFE5RjdvenNKZ1EyMWFrN21SeUxJ?oc=5",
-      "words": [
-        "chips",
-        "conference",
-        "gen",
-        "huawei",
-        "launches",
-        "next",
-        "shanghai"
-      ]
-    },
-    {
-      "at": "2026-09-19T01:32:02.590528+00:00",
-      "handle": "News: Global chips",
-      "headline": "Tech CEOs gather for US-China summit on AI and tariffs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvbGlBOFBXdVpyWVpOLVkxa1paX0NXUDBDVTZkQk8xRmtiNGpjcnA5dVFfZmczUFNJZS03YzBZY2wtczRFVjVaU2l3cmVXUkRTY3BGUVloNTlsWGVHQUFKVFJRRE0?oc=5",
-      "words": [
-        "big",
-        "ceos",
-        "china",
-        "gather",
-        "major",
-        "summit",
-        "table",
-        "tariffs",
-        "tech"
-      ]
-    },
-    {
-      "at": "2026-09-19T01:32:02.590528+00:00",
-      "handle": "News: India fintech",
-      "headline": "Government decides against daily cap for splitting UPI payments",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0xEaUpFMjVmZDNCSDVwaGJodm1iUHNsdzg2X0lJb1pwNlVqRklEd20xMmZLbXRNaDRfMzNKUEVsandnLXZHOUtnQnk5SVh1SFJpSWlqeXAySFMyNGFLSGNESnU1QWh0LUZxclpORVZfSHRPd1BBSFhZWjBPSVNzZ0NqT2xtQkhhQ0toLUN1NzZVcl9DUUpYVFdDY2ZWamdaY3J4WnhmVDVvcmJuMXJKbFBn0gG3AUFVX3lxTE56YlhiV2VoSE5uamsyVG52VWJkbHRPR29KTkRlUzFWaXJ1bXJjcTRxSVZDTm5hM2l3NnMxNDhncXlaQ1RkZENYOWtHOUdNcEdrOWhSb1gxNVB4VGZGbW5BSEZLMVhfMS1GaVBDNjBoY3luZ1psTjlFWE52ZG9qUjdxRms5R2JybGxsTklGcWRfcXU4Yi1hQlB3S1haRXdpRW96RjRzOU8ya0hlMk84TU9UaWdjM0pKRQ?oc=5",
-      "words": [
-        "cap",
-        "daily",
-        "mdr",
-        "now",
-        "payment",
-        "sidestep",
-        "splitting",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-19T01:32:02.590528+00:00",
-      "handle": "News: Global AI",
-      "headline": "Meta announces Arke AI chip to launch in 2027",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVlWa1VlQWhjTXJUNU50SnJVcEpqV2JycTVpU20td0NoV0ROUVdaRWtBWnZYenMzb3R0ODFrZVpYMDZSai1aUjlIN1RXcDJyal81THhobUlrd040d0E0TkhkeDQ4NXB5TC1VNUZYNjlsUzFpMG5iNnppT0N3WHFKUU1KeVp2UQ?oc=5",
-      "words": [
-        "2027",
-        "arke",
-        "chip",
-        "coming",
-        "costs",
-        "lower",
-        "meta",
-        "targets"
-      ]
-    },
-    {
-      "at": "2026-09-19T02:32:23.913848+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Pocket FM hits $500 million ARR following AI content push",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2dRYm9fajFYekdWdjE5UXpYS0xFZUNLcFlOVWVnSFVsaUFPLUxVTzlaZlNYTUNvcXphakJEZno5YXd5YWxYOHVHYVRNOFJlZ180QlVJNE8wUWhKaHlRLTRVRXR2dGdIWjdjSTZvN19uRjJiY0ZCRXVBYTluWnN3bnpIQ0xlUjQxX2RSbWpPMzNCekVwbEVseW5NYWZaSWVvR1FOWldGTk1VYlZ5bFVmT1ZsTW1mU19hY1ZnT2NsTGTSAcABQVVfeXFMUFNnUWJvX2oxWHpHVnYxOVF6WEtMRWVDS3BZTlVlZ0hVbGlBTy1MVU85WmZTWE1Db3F6YWpCRGZ6OWF3eWFsWDh1R2FUTThSZWdfNEJVSTRPMFFoSmh5US00VUV0dnRnSFo3Y0k2bzdfbkYyYmNGQkV1QWE5blpzd256SENMZVI0MV9kUm1qTzMzQnpFcGxFbHluTWFmWkllb0dRTlpXRk5NVWJWeWxVZk9WbE1tZlNfYWNWZ09jbExk?oc=5",
-      "words": [
-        "200",
-        "500",
-        "arr",
-        "content",
-        "doubles",
-        "lifts",
-        "million",
-        "pocket",
-        "production",
-        "sherpa"
-      ]
-    },
-    {
-      "at": "2026-09-19T02:32:23.913848+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Persistent Systems sets Sept 25 cut-off for EGM on USD 1.25 billion raise",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmtYZFRBRHBRcnAtMEhiQ0tOVFpGWi1TTGllVDd3TFJPNEZLR191X0NiOTByQnlKT1dvYVFfQmZOeXlHMmF0dElHNDYzakljU2xtTzE1dnJGVmhBQjNSUUVoaGJmLXVib0YxSERKSEgxUUVMNlU2MUxidjFvUUNoc0d5a3AxaHhLQ2FPZDNOcloyUWtBYVlLOXRralVtNTdjeGl5TjBFbF9XWWJ5bTJVZGl3VW1OYlVocXFaNVRtOFhsUQ?oc=5",
-      "words": [
-        "billion",
-        "cut",
-        "egm",
-        "off",
-        "persistent",
-        "raise",
-        "sept",
-        "sets",
-        "systems",
-        "usd"
-      ]
-    },
-    {
       "at": "2026-09-19T03:32:19.937432+00:00",
       "handle": "News: India telecom",
       "headline": "TRAI mandates customer consent for commercial calls",
@@ -7501,22 +7377,135 @@
         "wave",
         "zoho"
       ]
+    },
+    {
+      "at": "2026-09-23T14:32:50.389074+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Wipro Aerospace appoints Karthik Krishnamurthy as Global CEO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSENYRGhmT2JuYy1KUlIxMGxFNkFTSzBxY2dEbExBSTV2VHdIV09WdlQ4WlRmY19YNFZfSmVmMS11SHJ6X2NubXhCeGxNQk0tYzlicWtuYlQxaGlkbDBoQXQtNUhQWFJ1MWVCUHpiSlhSaXA0OXhzSElfdm9sWlFMLWFiWTc2VlA0VFFfdXpqeWZBRHhITHZOdS05VjdUa2JYcmdxWVFmdW9jdWtuYk1QVDB3eXNvbWJkUkpHaUNhaHVGTDdiRnpR0gHHAUFVX3lxTE9IQ1hEaGZPYm5jLUpSUjEwbEU2QVNLMHFjZ0RsTEFJNXZUd0hXT1Z2VDhaVGZjX1g0Vl9KZWYxLXVIcnpfY25teEJ4bE1CTS1jOWJxa25iVDFoaWRsMGhBdC01SFBYUnUxZUJQemJKWFJpcDQ5eHNISV92b2xaUUwtYWJZNzZWUDRUUV91emp5ZkFEeEhMdk51LTlWN1RrYlhyZ3FZUWZ1b2N1a25iTVBUMHd5c29tYmRSSkdpQ2FodUZMN2JGelE?oc=5",
+      "words": [
+        "aerospace",
+        "appoints",
+        "ceo",
+        "global",
+        "karthik",
+        "krishnamurthy",
+        "wipro"
+      ]
+    },
+    {
+      "at": "2026-09-23T14:32:50.389074+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Sterling and Wilson bags Rs 985 crore order haul from India and South Africa",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaHpra3duQkEwTFFWX2tMWXUtTTNINDlhMGdMY0txYjNHWXhxRXl3cnh2Y1FqUG5CN0hMVXVXcmt2aHlpMVJmTkYwNnlmdUctbzlEdlRpYm12aXZZci1ESHJ4amViNWtWMlU0WXMyZXZaWDZyWmlzNi1PbTZQWGZlUGgwYlZpVWkzVzNzNXphalVLZmhiV29pbFRzbnkzSThMOHhPRmY5RGJzOXFfWUVQTDNQSFByY0ItbWl5UnI2WXBDOXFIeWx2Nk5BNzlRTGkwTVZGdkMxU0s1cE9PVHhlLdIB5AFBVV95cUxNaUFDSGxzR0VJQnZVYld1ZWdjVTRMVFB2cjg1dFc5RFdlSlg3TWVWNTRoMEVZc29OaVRyWEN4R3lGY1liSHpaSWQ0aE5wUXlQazBvUUg0S0VvSXZ2SHFyaTFaX0hqVTN5NU5nS09SRVpPT3NGWS13ZWV2cVhjTXU2WUhNeUg3anJwY28zTlpsOWJrTTl1NEIwSWc1RHpTNFRRMGUxakkyYk8tUHg3czh3TkNlSUpabzlnVWJiYWZVMlBXWVRDYno0ZUs4cEM5Tm5iNi1ZYUJ2TF9oSTBuWGwzTktQTmg?oc=5",
+      "words": [
+        "985",
+        "africa",
+        "haul",
+        "jumps",
+        "order",
+        "south",
+        "sterling",
+        "wilson"
+      ]
+    },
+    {
+      "at": "2026-09-23T14:32:50.389074+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Food regulator initiates penal action against Amazon, Swiggy, and BigBasket",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNHJvSWtjc2xlUHNQSDVtcEYzUkZZLU1qLWNwUHFYejl4Q3RXdDVRaFp5cmZIQzJtRlMzcVZ1UkVEZ2FmZWhxTkdGNHpCSWVtZUhyUXp0SWYyNEZqaEpXMXZJa3pzdHFEaGVlTDRTRHBlWmdwaDNHcGRvWFVoTDJYMEhpcDRPRGVvOW9yVERhLURHLVh5eVRHMFd4ZUZ4Uzh1b05WbTZ2ZFVPUXJRb2NlSVM0Wjk0cnBB0gG8AUFVX3lxTE9UR3BqazhmT0RXa1lCaUdtanE0QjUyVENmMU5TTnBCSEJFdXhURDZDcFZiYWVWbFkzN2U3MUFtVEo5YzNRLWc5ZkFNaHpyMnZOTFJkVkNadV8wanhaTEJsRkJRdzBxdkpZMVdFcEdlYTdwbjZwMjdaeGliMC1CSnhTLUpSZXhvNjlEekZOU3E0NDF3YjJ3eG0xdl9Fd1pBNml2d2Y2Y3dXNXF3UjU3WlZ3Rzhpalg3Z0pFNm9S?oc=5",
+      "words": [
+        "action",
+        "against",
+        "amazon",
+        "bigbasket",
+        "food",
+        "others",
+        "penal",
+        "regulator",
+        "starts",
+        "swiggy"
+      ]
+    },
+    {
+      "at": "2026-09-23T14:32:50.389074+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Subex bags operations modernisation contract from APAC operator",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONTBYOVZma0g3OHZKWWphMDdGNFIzbGN3bnRXRVZ5X1JRV0l3MHBEcmVhNFJza2NoZVg0YjFRUzhwUmVSU0MyZHZUMUkwUDJaakhqVnhlYXhBbXdoRlQ3TmQzbGk4bW5TNGZ2ZGlhV0xqRUVVOER1VDcxV2dhTkhoNVVYX2JtaXJmZlNBaExET0RhZHBDd3hGZU01TFBMODVLUHZ0ZldGYkFfYUhfS1Y5cDkxMWRTd3NSMlYyU1JTUWIwX3N2NDFRZ0M1WEhMaHYya0t2aGlEMnNsUTQ2X2U2ZmhDeWJMNFpkSS1od1ZoaURJRzBsX0hhaE1UWHfSAYICQVVfeXFMUHZ2NlhGclVCMU93dk9SWXpSQ25VYUhuQjNMYXRaU0NmaGVkcmZxSUlhallHQmtMYVV4TXNzdDlSbHVFblZwQ2xxNnlEY2ZuMl95ZVAtTVQ5T1BJTGFWNVNOdlhtemhzT3RkOS1WOXJuZzFWZ09IZkFCS3MzbDN0MEtDN05VSzN2S29nVzhnanpGYVM5MGw3REt6Qm9EaW9GNHFfT1F1VmNJS1NsamowRVVrOGJvQzR1UF9Za0ItMTZTLWF3VG04WEFiYkdOZGVkYWxtVVRpUmc4dXZWS2RMSDk3UV9td3Byc3Z5ZFZsNGFONDZKc1dXS19IbHgxbjZBYnhR?oc=5",
+      "words": [
+        "apac",
+        "bagging",
+        "contract",
+        "major",
+        "modernaisation",
+        "operations",
+        "operator",
+        "subex",
+        "surges"
+      ]
+    },
+    {
+      "at": "2026-09-23T14:32:50.389074+00:00",
+      "handle": "News: India fintech",
+      "headline": "Fuel Cycle opens Navi Mumbai GCC to scale AI teams",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQW1qVUdFMlFPX2poSDVuc2hHUTdScDNfTGU3MlE2NEdTTVVxbUFhVWl2YW1FSEVrRnlRWmFpYzFhVnBWeldnbGVsXy1vVDZOS3EtY0VlaVdvNG04Sk1MVTFCMHYxbTBPaGJOUm5GMC1tNWExcy1qVkhCekJ5WlllRGhtbVBNMDY2ay1YNlpDYmpJVEMxTUp0VHVDVkNlTWFuSm1WZkRKM05YZzNLd2NhV1MzbXJHR2NYVTV5U3UyNjlObEpIWVV2d3dRU1hCcUNaSFQtVjZfNFdvWTg0Q3dHNWVXY3pNYXPSAecBQVVfeXFMTkFtalVHRTJRT19qaEg1bnNoR1E3UnAzX0xlNzJRNjRHU01VcW1BYVVpdmFtRUhFa0Z5UVphaWMxYVZwVnpXZ2xlbF8tb1Q2TktxLWNFZWlXbzRtOEpNTFUxQjB2MW0wT2hiTlJuRjAtbTVhMXMtalZIQnpCeVpZZURobW1QTTA2NmstWDZaQ2JqSVRDMU1KdFR1Q1ZDZU1hbkptVmZESjNOWGczS3djYVdTM21yR0djWFU1eVN1MjY5TmxKSFlVdnd3UVNYQnFDWkhULVY2XzRXb1k4NEN3RzVlV2N6TWFz?oc=5",
+      "words": [
+        "cycle",
+        "fuel",
+        "gcc",
+        "mumbai",
+        "navi",
+        "opens",
+        "plans",
+        "product",
+        "scale",
+        "teams"
+      ]
+    },
+    {
+      "at": "2026-09-23T14:32:50.389074+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Accenture leases over 560,000 sq ft office space in Bengaluru",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb2JoUVU0ZmZubkZDWUtNN0g3bllXaVJDSHl5WGpDWWQ4cnJqWGUxSHVDN3ZvbVc0TFFsTmlCTmVjeTF6c0lLbTU2Zk5fX040SnN3aU9zNGlPdVYtRVdxV2lzX3A1aE9vOUc5anJkanFWcy11blZ5SUhZMkdaY1hkdFpCeUNiQ2l5ei1HOHBzMnVLYXRSTnNRRllwN1lGdUtWaEFHNG9DbEVLUDZCdmE3RUZQbnZQT2JBU0RyUmVoVWNHQ21xSVo4a0N5WWxpX3dFVWZxcGpZbmUwS1JpWnfSAd4BQVVfeXFMUG9iaFFVNGZmbm5GQ1lLTTdIN25ZV2lSQ0h5eVhqQ1lkOHJyalhlMUh1Qzd2b21XNExRbE5pQk5lY3kxenNJS201NmZOX19ONEpzd2lPczRpT3VWLUVXcVdpc19wNWhPbzlHOWpyZGpxVnMtdW5WeUlIWTJHWmNYZHRaQnlDYkNpeXotRzhwczJ1S2F0Uk5zUUZZcDdZRnVLVmhBRzRvQ2xFS1A2QnZhN0VGUG52UE9iQVNEclJlaFVjR0NtcUlaOGtDeVlsaV93RVVmcXBqWW5lMEtSaVp3?oc=5",
+      "words": [
+        "000",
+        "269",
+        "560",
+        "accenture",
+        "bengaluru",
+        "leases",
+        "office",
+        "space"
+      ]
+    },
+    {
+      "at": "2026-09-23T14:32:50.389074+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "China chipmaker CanSemi seeks to raise up to $918.5 million in Shenzhen IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVhiUVg2Z3pEMUxoSzJOb0FJQWNWRS1XUlVUd3Y0aDlYX0pycHdxRFZlSlJ1cmFPYVhDOXQ3MGdGc1pVd3ZVem1OQzZlV1oyNEhNQUZ2QndBLVhBSDBUTndHVGpOY1RCV1Q3TXd1RDVPc0FtVENMelVDUWxxcFVOMHRXY2dVQUFzeDdYVGw5VlFUOFpMdjl4eFJaaktlTm90TlpNNzBjU3RhX09WNWRKa2tiMEJKQzc5bmNEZG5XTXJrN19TNHQtbWhjQ1F1bTJIUmgxM25YRnQ2djZrRGdKR09CT1ctZU3SAecBQVVfeXFMTmlYYlFYNmd6RDFMaEsyTm9BSUFjVkUtV1JVVHd2NGg5WF9KcnB3cURWZUpSdXJhT2FYQzl0NzBnRnNaVXd2VXptTkM2ZVdaMjRITUFGdkJ3QS1YQUgwVE53R1RqTmNUQldUN013dUQ1T3NBbVRDTHpVQ1FscXBVTjB0V2NnVUFBc3g3WFRsOVZRVDhaTHY5eHhSWmpLZU5vdE5aTTcwY1N0YV9PVjVkSmtrYjBCSkM3OW5jRGRuV01yazdfUzR0LW1oY0NRdW0ySFJoMTNuWEZ0NnY2a0RnSkdPQk9XLWVN?oc=5",
+      "words": [
+        "918",
+        "cansemi",
+        "china",
+        "chipmaker",
+        "listing",
+        "million",
+        "raise",
+        "seeks",
+        "shenzhen"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789884917041",
-    "1789887915821",
-    "1789889040658",
-    "1789896205084",
-    "1789905854972",
-    "1789907940856",
-    "1789914978350",
-    "1789917023525",
-    "1789917337585",
-    "1789917489903",
-    "1789918157542",
     "1789918497079",
     "1789920205750",
     "1789923284197",
@@ -13505,10 +13494,21 @@
     "1790171374941",
     "1790172030463",
     "1790172384950",
-    "1790192465760"
+    "1790192465760",
+    "1790146500012",
+    "1790159505958",
+    "1790164260361",
+    "1790165005719",
+    "1790167416056",
+    "1790172986906",
+    "1790173032632",
+    "1790173072645",
+    "1790173246960",
+    "1790173800970",
+    "1790200800080"
   ],
-  "last_digest_hour": "2026-09-23T19",
-  "last_success": "2026-09-23T14:17:56.747482+00:00",
+  "last_digest_hour": "2026-09-23T20",
+  "last_success": "2026-09-23T14:32:50.419646+00:00",
   "national": {
     "alerted": [
       {
@@ -15356,7 +15356,7 @@
       "CG-DL-E-23092026-276429",
       "CG-DL-E-23092026-276430"
     ],
-    "last_run": "2026-09-23T14:20:57.941677+00:00",
+    "last_run": "2026-09-23T14:36:33.653628+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16655,7 +16655,8 @@
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-vaisava-nava-nairamaana",
       "pib:2314122",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
-      "gazette:CG-DL-E-23092026-276430"
+      "gazette:CG-DL-E-23092026-276430",
+      "pib:2314141"
     ],
     "source_failures": {
       "CBI": {
@@ -16695,80 +16696,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Subex bags operations modernisation contract from APAC operator",
-      "post": {
-        "created_at": "2026-09-23T09:20:29+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790155229832",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "Subex surges after bagging operations modernaisation contract from major APAC operator",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONTBYOVZma0g3OHZKWWphMDdGNFIzbGN3bnRXRVZ5X1JRV0l3MHBEcmVhNFJza2NoZVg0YjFRUzhwUmVSU0MyZHZUMUkwUDJaakhqVnhlYXhBbXdoRlQ3TmQzbGk4bW5TNGZ2ZGlhV0xqRUVVOER1VDcxV2dhTkhoNVVYX2JtaXJmZlNBaExET0RhZHBDd3hGZU01TFBMODVLUHZ0ZldGYkFfYUhfS1Y5cDkxMWRTd3NSMlYyU1JTUWIwX3N2NDFRZ0M1WEhMaHYya0t2aGlEMnNsUTQ2X2U2ZmhDeWJMNFpkSS1od1ZoaURJRzBsX0hhaE1UWHfSAYICQVVfeXFMUHZ2NlhGclVCMU93dk9SWXpSQ25VYUhuQjNMYXRaU0NmaGVkcmZxSUlhallHQmtMYVV4TXNzdDlSbHVFblZwQ2xxNnlEY2ZuMl95ZVAtTVQ5T1BJTGFWNVNOdlhtemhzT3RkOS1WOXJuZzFWZ09IZkFCS3MzbDN0MEtDN05VSzN2S29nVzhnanpGYVM5MGw3REt6Qm9EaW9GNHFfT1F1VmNJS1NsamowRVVrOGJvQzR1UF9Za0ItMTZTLWF3VG04WEFiYkdOZGVkYWxtVVRpUmc4dXZWS2RMSDk3UV9td3Byc3Z5ZFZsNGFONDZKc1dXS19IbHgxbjZBYnhR?oc=5"
-      },
-      "queued_at": "2026-09-23T14:04:59.506164+00:00",
-      "score": 7.0,
-      "why": "Significant enterprise deal win by an Indian IT/software product firm."
-    },
-    {
-      "headline": "Wipro Aerospace appoints Karthik Krishnamurthy as Global CEO",
-      "post": {
-        "created_at": "2026-09-23T12:39:51+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1790167191825",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ETHRWorld",
-        "reposts": 0,
-        "text": "Wipro Aerospace appoints Karthik Krishnamurthy as Global CEO",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSENYRGhmT2JuYy1KUlIxMGxFNkFTSzBxY2dEbExBSTV2VHdIV09WdlQ4WlRmY19YNFZfSmVmMS11SHJ6X2NubXhCeGxNQk0tYzlicWtuYlQxaGlkbDBoQXQtNUhQWFJ1MWVCUHpiSlhSaXA0OXhzSElfdm9sWlFMLWFiWTc2VlA0VFFfdXpqeWZBRHhITHZOdS05VjdUa2JYcmdxWVFmdW9jdWtuYk1QVDB3eXNvbWJkUkpHaUNhaHVGTDdiRnpR0gHHAUFVX3lxTE9IQ1hEaGZPYm5jLUpSUjEwbEU2QVNLMHFjZ0RsTEFJNXZUd0hXT1Z2VDhaVGZjX1g0Vl9KZWYxLXVIcnpfY25teEJ4bE1CTS1jOWJxa25iVDFoaWRsMGhBdC01SFBYUnUxZUJQemJKWFJpcDQ5eHNISV92b2xaUUwtYWJZNzZWUDRUUV91emp5ZkFEeEhMdk51LTlWN1RrYlhyZ3FZUWZ1b2N1a25iTVBUMHd5c29tYmRSSkdpQ2FodUZMN2JGelE?oc=5"
-      },
-      "queued_at": "2026-09-23T14:17:56.723549+00:00",
-      "score": 8.0,
-      "why": "Major leadership change at an Indian IT major's subsidiary."
-    },
-    {
-      "headline": "Fuel Cycle opens Navi Mumbai GCC to scale AI teams",
-      "post": {
-        "created_at": "2026-09-23T12:45:14+00:00",
-        "handle": "News: India fintech",
-        "id": "1790167514059",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Fuel Cycle opens Navi Mumbai GCC, plans to scale AI and product teams",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQW1qVUdFMlFPX2poSDVuc2hHUTdScDNfTGU3MlE2NEdTTVVxbUFhVWl2YW1FSEVrRnlRWmFpYzFhVnBWeldnbGVsXy1vVDZOS3EtY0VlaVdvNG04Sk1MVTFCMHYxbTBPaGJOUm5GMC1tNWExcy1qVkhCekJ5WlllRGhtbVBNMDY2ay1YNlpDYmpJVEMxTUp0VHVDVkNlTWFuSm1WZkRKM05YZzNLd2NhV1MzbXJHR2NYVTV5U3UyNjlObEpIWVV2d3dRU1hCcUNaSFQtVjZfNFdvWTg0Q3dHNWVXY3pNYXPSAecBQVVfeXFMTkFtalVHRTJRT19qaEg1bnNoR1E3UnAzX0xlNzJRNjRHU01VcW1BYVVpdmFtRUhFa0Z5UVphaWMxYVZwVnpXZ2xlbF8tb1Q2TktxLWNFZWlXbzRtOEpNTFUxQjB2MW0wT2hiTlJuRjAtbTVhMXMtalZIQnpCeVpZZURobW1QTTA2NmstWDZaQ2JqSVRDMU1KdFR1Q1ZDZU1hbkptVmZESjNOWGczS3djYVdTM21yR0djWFU1eVN1MjY5TmxKSFlVdnd3UVNYQnFDWkhULVY2XzRXb1k4NEN3RzVlV2N6TWFz?oc=5"
-      },
-      "queued_at": "2026-09-23T14:17:56.723549+00:00",
-      "score": 7.0,
-      "why": "New global capability center and expansion commitment in India."
-    },
-    {
-      "headline": "Accenture leases over 560,000 sq ft office space in Bengaluru",
-      "post": {
-        "created_at": "2026-09-23T13:49:34+00:00",
-        "handle": "News: Global IT services",
-        "id": "1790171374941",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "Accenture leases over 560,000 sq ft office space in Bengaluru for \u20b9269 cr",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb2JoUVU0ZmZubkZDWUtNN0g3bllXaVJDSHl5WGpDWWQ4cnJqWGUxSHVDN3ZvbVc0TFFsTmlCTmVjeTF6c0lLbTU2Zk5fX040SnN3aU9zNGlPdVYtRVdxV2lzX3A1aE9vOUc5anJkanFWcy11blZ5SUhZMkdaY1hkdFpCeUNiQ2l5ei1HOHBzMnVLYXRSTnNRRllwN1lGdUtWaEFHNG9DbEVLUDZCdmE3RUZQbnZQT2JBU0RyUmVoVWNHQ21xSVo4a0N5WWxpX3dFVWZxcGpZbmUwS1JpWnfSAd4BQVVfeXFMUG9iaFFVNGZmbm5GQ1lLTTdIN25ZV2lSQ0h5eVhqQ1lkOHJyalhlMUh1Qzd2b21XNExRbE5pQk5lY3kxenNJS201NmZOX19ONEpzd2lPczRpT3VWLUVXcVdpc19wNWhPbzlHOWpyZGpxVnMtdW5WeUlIWTJHWmNYZHRaQnlDYkNpeXotRzhwczJ1S2F0Uk5zUUZZcDdZRnVLVmhBRzRvQ2xFS1A2QnZhN0VGUG52UE9iQVNEclJlaFVjR0NtcUlaOGtDeVlsaV93RVVmcXBqWW5lMEtSaVp3?oc=5"
-      },
-      "queued_at": "2026-09-23T14:17:56.723549+00:00",
-      "score": 7.0,
-      "why": "Large commercial real estate lease and expansion by a major IT services firm in India."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17761,7 +17689,7 @@
     "capgemini": 1790169480467,
     "cognizant": 1790161361396,
     "flipkart": 1789631208994,
-    "google": 1790152200603,
+    "google": 1790173800970,
     "google cloud": 1790150400424,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
@@ -17776,13 +17704,13 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790164274522,
-    "news: consumer internet india": 1790169709040,
+    "news: consumer internet india": 1790173072645,
     "news: global ai": 1790167028006,
     "news: global chips": 1790168700128,
     "news: global it services": 1790171374941,
     "news: india ai deeptech": 1790172030463,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790172384950,
+    "news: india fintech": 1790173246960,
     "news: india semiconductors": 1790169160307,
     "news: india tech policy": 1790166453655,
     "news: india telecom": 1790170397009,
@@ -17803,7 +17731,7 @@
     "reg cci": 1790035200881,
     "reg cert-in": 1788998400763,
     "salesforce": 1789671615139,
-    "samsung": 1790150400022,
+    "samsung": 1790200800080,
     "samsung india": 1790167972987,
     "sarvam ai": 1789631206990,
     "swiggy": 1789214456821,
@@ -17825,7 +17753,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T14:17:57.003374+00:00",
+    "last_server_run": "2026-09-23T14:32:50.727034+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T13:18:45.592524+00:00",
