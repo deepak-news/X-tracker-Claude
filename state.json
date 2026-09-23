@@ -7382,15 +7382,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789875262696",
-    "1789818998224",
-    "1789828140669",
-    "1789870623468",
-    "1789872763388",
-    "1789875000544",
-    "1789875679893",
-    "1789875747951",
-    "1789876078036",
     "1789876560400",
     "1789802886151",
     "1789803315294",
@@ -13381,10 +13372,19 @@
     "1790134185952",
     "1790134267089",
     "1790134561349",
-    "1790134698419"
+    "1790134698419",
+    "1790081258601",
+    "1790109077346",
+    "1790121849580",
+    "1790129983937",
+    "1790130516586",
+    "1790130782589",
+    "1790133767881",
+    "1790135282091",
+    "1790135313229"
   ],
   "last_digest_hour": "2026-09-23T09",
-  "last_success": "2026-09-23T03:46:35.803389+00:00",
+  "last_success": "2026-09-23T04:02:40.389860+00:00",
   "national": {
     "alerted": [
       {
@@ -15059,7 +15059,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T03:47:33.860659+00:00",
+    "last_run": "2026-09-23T04:04:43.058101+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17333,7 +17333,7 @@
     "news: global ai": 1790105262430,
     "news: global chips": 1790133652133,
     "news: global it services": 1790134698419,
-    "news: india ai deeptech": 1790130625015,
+    "news: india ai deeptech": 1790135282091,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790134185952,
     "news: india semiconductors": 1790133103975,
@@ -17342,7 +17342,7 @@
     "news: indian it majors": 1790133999389,
     "news: indian it midcaps": 1790132595614,
     "news: pib releases": 1790124941297,
-    "news: tech leaders": 1790133103569,
+    "news: tech leaders": 1790135313229,
     "nvidia": 1790130622802,
     "nvidia blog": 1790130622802,
     "openai": 1790110800092,
@@ -17378,7 +17378,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T03:46:36.134766+00:00",
+    "last_server_run": "2026-09-23T04:02:40.651625+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T02:33:40.593411+00:00",
