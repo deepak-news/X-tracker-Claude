@@ -7376,30 +7376,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789825894831",
-    "1789840620722",
-    "1789850558635",
-    "1789881601018",
-    "1789885440854",
-    "1789885560980",
-    "1789885620668",
-    "1789885721722",
-    "1789886103623",
-    "1789886270719",
-    "1789886304645",
-    "1789886318253",
-    "1789886423175",
-    "1789802540949",
-    "1789803960710",
-    "1789805814642",
-    "1789807330134",
-    "1789813833294",
-    "1789814701301",
-    "1789829367488",
-    "1789833742428",
-    "1789834564754",
-    "1789847482927",
-    "1789851600568",
     "1789871143263",
     "1789873091069",
     "1789876837469",
@@ -13375,10 +13351,34 @@
     "1790145439237",
     "1790145571092",
     "1790145606714",
-    "1790145923738"
+    "1790145923738",
+    "1790075257183",
+    "1790080200457",
+    "1790093160735",
+    "1790095001301",
+    "1790099569761",
+    "1790100116323",
+    "1790122327575",
+    "1790133904557",
+    "1790136960222",
+    "1790140340215",
+    "1790142167060",
+    "1790142248322",
+    "1790143355483",
+    "1790145360914",
+    "1790145583123",
+    "1790145595293",
+    "1790145874165",
+    "1790146037365",
+    "1790146092376",
+    "1790146184799",
+    "1790146458885",
+    "1790146580552",
+    "1790146757756",
+    "1790146805039"
   ],
   "last_digest_hour": "2026-09-23T12",
-  "last_success": "2026-09-23T06:49:09.437358+00:00",
+  "last_success": "2026-09-23T07:05:15.211939+00:00",
   "national": {
     "alerted": [
       {
@@ -14788,6 +14788,28 @@
           "sep",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-23T07:09:56.756501+00:00",
+        "handle": "PIB Ministry of Railways",
+        "headline": "Indian Railways installs Kavach 4.0 safety system on South Central Railway",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313758",
+        "words": [
+          "central",
+          "commissions",
+          "first",
+          "kavach",
+          "major",
+          "marking",
+          "milestone",
+          "ministry",
+          "railway",
+          "railways",
+          "safety",
+          "south",
+          "time"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15053,7 +15075,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T06:50:44.362090+00:00",
+    "last_run": "2026-09-23T07:09:56.757173+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16276,7 +16298,10 @@
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/%e0%b0%8e%e0%b0%82%e0%b0%b8%e0%b1%80%e0%b0%86%e0%b0%b0%e0%b1%8d-%e0%b0%b9%e0%b1%86%e0%b0%9a%e0%b1%8d%e0%b0%86%e0%b0%b0%e0%b1%8d%e0%b0%a1%e0%b1%80-%e0%b0%ac%e0%b1%8b%e0%b0%a7%e0%b0%bf/",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-success-of-ayushman-bharat-on-its-eighth-anniversary",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/%e0%b0%a6%e0%b0%b3%e0%b0%bf%e0%b0%a4%e0%b1%81%e0%b0%b2%e0%b1%81-%e0%b0%97%e0%b0%bf%e0%b0%b0%e0%b0%bf%e0%b0%9c%e0%b0%a8%e0%b1%81%e0%b0%b2%e0%b1%81-%e0%b0%86%e0%b0%a6%e0%b0%bf%e0%b0%b5%e0%b0%be/",
-      "pib:2313751"
+      "pib:2313751",
+      "feed:https://www.telangana.gov.in/news/2026/09/%e0%b0%86%e0%b0%a6%e0%b0%bf%e0%b0%b2%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%b5%e0%b0%b0%e0%b0%82%e0%b0%97%e0%b0%b2%e0%b1%8d-%e0%b0%b5%e0%b0%bf%e0%b0%ae/",
+      "pib:2313758",
+      "pib:2313760"
     ],
     "source_failures": {
       "CBI": {
@@ -16338,6 +16363,60 @@
       "queued_at": "2026-09-23T06:49:09.413283+00:00",
       "score": 7.0,
       "why": "Major stake sale via block deal in a watched Indian consumer tech firm."
+    },
+    {
+      "headline": "Airtel Money files for potential London IPO of at least $800 million",
+      "post": {
+        "created_at": "2026-09-23T06:49:44+00:00",
+        "handle": "News: India telecom",
+        "id": "1790146184799",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "Airtel Money files for potential London IPO of at least $800 million",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUJtSngzMWVQR3Y0djJQcFVraWFNWEYybDZ3NzVKb0FyYmE3ZGhwQlctYUExbkk1cm13M01WajFicG84c0hsRm5aZDNoYWRDRThqcXR1SVpVT2lQV0wzOXlRd0FGdURzVHpkMlg4eGQ5clVPUUtDRThhNnBtZXlQcHhjaWdHZGVYZDFobmNyY1RUNlQ1UUQtYlBZSVZJZ3M5eERuU2xUZUJDQXZjNTlVZ3h2WDEyQXRDX2EyQm8zTDZrbUNEdE92bHZuNmlpTHlPTnfSAdcBQVVfeXFMUFBpMzIxRzlHX0Jfd2paWllXTll6a2R1clI4UjlDM1pmR2VtampWVmd0ejB0RXBTS0ZERlg2eXh1UFdYQzlLLUxiOE5yRHNnaWJpdEhmdU56eUV5Y2VCczNhM3hOMEVMT3FRSHl5M3lxYUFuMWJFbGZGckgtdGVORGMyRlJxVG5RVzhmT1JFLWhuWlVkMWN3Y0xsZTFvWWFMdjRQellxQ09scktkcktWRjdPcDEyV3hmbXNiNFVSNWtpX3ZIams3RE5RMHh6aW83c1BoMTV2N2c?oc=5"
+      },
+      "queued_at": "2026-09-23T07:05:15.187572+00:00",
+      "score": 9.0,
+      "why": "Major IPO filing and overseas public listing move by a major telecom-backed fintech."
+    },
+    {
+      "headline": "BHIM rolls out MyUPI assistant for transaction tracking and mandate management",
+      "post": {
+        "created_at": "2026-09-23T06:39:43+00:00",
+        "handle": "News: India fintech",
+        "id": "1790145583123",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Outlook Money",
+        "reposts": 0,
+        "text": "BHIM Users Can Now Track Transactions, Manage Mandates Through MyUPI",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnZfQmxBeFRXRVpwQTRCckxCNG56WHZQXzAtc2U3aVI5eXpTOTZ3UHVkQ1NtS0FKVVRPQ3EtdXpVWFhzMmJoSmloMDktOHppV0JoZGpLdGMzSDY1bE9ib05jU2gyMUpyYVd2bGRoN3B3VHhjMmFRMmlLOF93TEoxVzBnMlNuR3dHZ1RUU2tWeDJiakxJc2swUlhaeWdGOU53N1UwS08yUdIBtAFBVV95cUxQYmdvRWEtNDZkeFBrb3dpcmlNbmZVTFcyWTdGRzhiRkhRd09wT0pGQ2dvSlV1RnVMUHZHT19ST3FnczhSNDVEQ3B4WHlqZWE0WUpWenpTVzFrem1zcFdSanlhbTZrTDFLQ0M5Q000QXhwYnBpSk1KQTZWMHkybDVMZ19Dam9JNFpFVUd3ckdySF9pNmtzWEwzVjVKMUdodHlPZW5sZTJTN1UxT3lFelhKTEdJbC0?oc=5"
+      },
+      "queued_at": "2026-09-23T07:05:15.187572+00:00",
+      "score": 8.0,
+      "why": "Major product feature rollout for a core Indian digital payments platform."
+    },
+    {
+      "headline": "Trade body urges Finance Minister Nirmala Sitharaman to roll back UPI charges",
+      "post": {
+        "created_at": "2026-09-23T05:42:47+00:00",
+        "handle": "News: India fintech",
+        "id": "1790142167060",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "NDTV",
+        "reposts": 0,
+        "text": "'6 Crore Traders Disappointed': Trade Body Urges Nirmala Sitharaman To Roll Back UPI Charges",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWEkxSEhxdl9aSWFBY3BaMmlKWHJwRHFIRG1zZWRzT1hnQXk5c1dvZDN3RlpWLU5oR0hQZWItR0NzbDVOeEpvaXl5NUI2WnRaRlMzMWI4V0pUeFNvNHljUmthYkhYYnAydWFjdkxoZVA4Z0RIS3E2c29CS29VNDNnNGNpdEg5YVVsckppZDdKekhGWHNvZGdIZVZUdFU0U1NnUnMtVzRXVUpkdnQ0RWlIVjZfRFFGY29YZ0hId2liemZndjVBS0JySdIB0AFBVV95cUxNZjRYTEhPSm9Gb1AxNU1Qb0FBSjVJVjhnUnl3Mm9iOVMtTS1RbWVrU2NKbTQyeERjY0JTMFR1c0RGVXlvWnVJeF90X0lXQXpXbEkwX2RHTmxmdWNka2hJbFBBWlJYU25NbnplWjVObVUyQnZaVHM1LVpqYXBNRmw0dnBLUXZJOFRQbUlLeVVfd2ttd196aXNCVGpkZmpoVjZQekRfeUhEUGpObmVHX0psdnRxNTQzVV94cGhKcExZZ1BnRjAxNVkxclVEYlVwajVO?oc=5"
+      },
+      "queued_at": "2026-09-23T07:05:15.187572+00:00",
+      "score": 7.0,
+      "why": "Direct trader body appeal regarding the active UPI MDR fee controversy."
     }
   ],
   "page_links": {
@@ -17330,7 +17409,7 @@
     "google cloud": 1790056800055,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
-    "hcltech": 1790096177082,
+    "hcltech": 1790146092376,
     "ibm": 1790078400999,
     "intel": 1788847380154,
     "lenovo": 1789992053034,
@@ -17341,19 +17420,19 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790144915081,
-    "news: consumer internet india": 1790145439237,
+    "news: consumer internet india": 1790146805039,
     "news: global ai": 1790105262430,
     "news: global chips": 1790143380306,
     "news: global it services": 1790143447904,
-    "news: india ai deeptech": 1790140157987,
+    "news: india ai deeptech": 1790146458885,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790145606714,
-    "news: india semiconductors": 1790144844422,
-    "news: india tech policy": 1790145571092,
-    "news: india telecom": 1790144090562,
+    "news: india semiconductors": 1790146580552,
+    "news: india tech policy": 1790146757756,
+    "news: india telecom": 1790146184799,
     "news: indian it majors": 1790142385739,
     "news: indian it midcaps": 1790139386200,
-    "news: pib releases": 1790145120105,
+    "news: pib releases": 1790145360914,
     "news: tech leaders": 1790145923738,
     "nvidia": 1790130622802,
     "nvidia blog": 1790130622802,
@@ -17390,7 +17469,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T06:49:09.770937+00:00",
+    "last_server_run": "2026-09-23T07:05:15.548024+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T06:50:13.726458+00:00",
