@@ -7506,18 +7506,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789896529792",
-    "1789896585968",
-    "1789900255744",
-    "1789901411622",
-    "1789901949098",
-    "1789901949902",
-    "1789908120007",
-    "1789913100791",
-    "1789917740933",
-    "1789922091161",
-    "1789922841977",
-    "1789922973977",
     "1789923139670",
     "1789923172772",
     "1789923261295",
@@ -13505,10 +13493,22 @@
     "1790169709040",
     "1790189669726",
     "1790189883619",
-    "1790190024987"
+    "1790190024987",
+    "1790134080625",
+    "1790136847289",
+    "1790155229832",
+    "1790162223196",
+    "1790166919980",
+    "1790169631286",
+    "1790169686724",
+    "1790170397009",
+    "1790170413328",
+    "1790190080707",
+    "1790190241946",
+    "1790191297650"
   ],
   "last_digest_hour": "2026-09-23T19",
-  "last_success": "2026-09-23T13:50:05.685592+00:00",
+  "last_success": "2026-09-23T14:04:59.535565+00:00",
   "national": {
     "alerted": [
       {
@@ -15355,7 +15355,7 @@
       "CG-DL-E-23092026-276426",
       "CG-DL-E-23092026-276429"
     ],
-    "last_run": "2026-09-23T13:51:28.021713+00:00",
+    "last_run": "2026-09-23T14:11:37.596714+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16659,6 +16659,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "CERT-In": {
+        "count": 1
+      },
       "DGFT": {
         "count": 10,
         "until": "2026-09-23T15:21:34.412185+00:00"
@@ -16692,7 +16695,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Subex bags operations modernisation contract from APAC operator",
+      "post": {
+        "created_at": "2026-09-23T09:20:29+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1790155229832",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "Subex surges after bagging operations modernaisation contract from major APAC operator",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONTBYOVZma0g3OHZKWWphMDdGNFIzbGN3bnRXRVZ5X1JRV0l3MHBEcmVhNFJza2NoZVg0YjFRUzhwUmVSU0MyZHZUMUkwUDJaakhqVnhlYXhBbXdoRlQ3TmQzbGk4bW5TNGZ2ZGlhV0xqRUVVOER1VDcxV2dhTkhoNVVYX2JtaXJmZlNBaExET0RhZHBDd3hGZU01TFBMODVLUHZ0ZldGYkFfYUhfS1Y5cDkxMWRTd3NSMlYyU1JTUWIwX3N2NDFRZ0M1WEhMaHYya0t2aGlEMnNsUTQ2X2U2ZmhDeWJMNFpkSS1od1ZoaURJRzBsX0hhaE1UWHfSAYICQVVfeXFMUHZ2NlhGclVCMU93dk9SWXpSQ25VYUhuQjNMYXRaU0NmaGVkcmZxSUlhallHQmtMYVV4TXNzdDlSbHVFblZwQ2xxNnlEY2ZuMl95ZVAtTVQ5T1BJTGFWNVNOdlhtemhzT3RkOS1WOXJuZzFWZ09IZkFCS3MzbDN0MEtDN05VSzN2S29nVzhnanpGYVM5MGw3REt6Qm9EaW9GNHFfT1F1VmNJS1NsamowRVVrOGJvQzR1UF9Za0ItMTZTLWF3VG04WEFiYkdOZGVkYWxtVVRpUmc4dXZWS2RMSDk3UV9td3Byc3Z5ZFZsNGFONDZKc1dXS19IbHgxbjZBYnhR?oc=5"
+      },
+      "queued_at": "2026-09-23T14:04:59.506164+00:00",
+      "score": 7.0,
+      "why": "Significant enterprise deal win by an Indian IT/software product firm."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17653,7 +17675,7 @@
     "bse fractal analytics": 1790184662937,
     "bse happiest minds": 1790164660386,
     "bse hcltech": 1790091607424,
-    "bse hfcl": 1789747209217,
+    "bse hfcl": 1790190080707,
     "bse info edge": 1790111027493,
     "bse infosys": 1789727487991,
     "bse kpit technologies": 1790107481762,
@@ -17667,8 +17689,8 @@
     "bse netweb": 1790172570394,
     "bse niit": 1789648705695,
     "bse niit learning systems": 1790182140690,
-    "bse nykaa": 1789155118992,
-    "bse ola electric": 1790190024987,
+    "bse nykaa": 1790190241946,
+    "bse ola electric": 1790191297650,
     "bse paytm": 1789578149191,
     "bse persistent": 1790189028607,
     "bse reliance": 1790189669726,
@@ -17704,12 +17726,12 @@
     "news: global ai": 1790167028006,
     "news: global chips": 1790168700128,
     "news: global it services": 1790168397049,
-    "news: india ai deeptech": 1790169686499,
+    "news: india ai deeptech": 1790169686724,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790169283708,
+    "news: india fintech": 1790170413328,
     "news: india semiconductors": 1790169160307,
     "news: india tech policy": 1790166453655,
-    "news: india telecom": 1790164460061,
+    "news: india telecom": 1790170397009,
     "news: indian it majors": 1790168700593,
     "news: indian it midcaps": 1790165508313,
     "news: pib releases": 1790159940641,
@@ -17749,7 +17771,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T13:50:06.038510+00:00",
+    "last_server_run": "2026-09-23T14:04:59.872457+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T13:18:45.592524+00:00",
