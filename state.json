@@ -7510,13 +7510,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789908213472",
-    "1789923787349",
-    "1789923797148",
-    "1789925837639",
-    "1789927087697",
-    "1789929056002",
-    "1789929497498",
     "1789929613362",
     "1789856917696",
     "1789862439345",
@@ -13509,10 +13502,17 @@
     "1790150415642",
     "1790171374231",
     "1790171760761",
-    "1790180800819"
+    "1790180800819",
+    "1790171340376",
+    "1790172457742",
+    "1790176920982",
+    "1790180812819",
+    "1790181185714",
+    "1790181217014",
+    "1790251200769"
   ],
   "last_digest_hour": "2026-09-23T22",
-  "last_success": "2026-09-23T16:32:57.552445+00:00",
+  "last_success": "2026-09-23T16:47:27.475797+00:00",
   "national": {
     "alerted": [
       {
@@ -15429,9 +15429,10 @@
       "CG-DL-E-23092026-276436",
       "CG-DL-E-23092026-276439",
       "CG-DL-E-23092026-276433",
-      "CG-DL-E-23092026-276440"
+      "CG-DL-E-23092026-276440",
+      "CG-DL-E-23092026-276432"
     ],
-    "last_run": "2026-09-23T16:39:15.817402+00:00",
+    "last_run": "2026-09-23T16:49:30.996393+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16753,7 +16754,9 @@
       "gazette:CG-DL-E-23092026-276439",
       "gazette:CG-DL-E-23092026-276436",
       "gazette:CG-DL-E-23092026-276433",
-      "gazette:CG-DL-E-23092026-276440"
+      "gazette:CG-DL-E-23092026-276440",
+      "gazette:CG-DL-E-23092026-276432",
+      "pib:2314214"
     ],
     "source_failures": {
       "CBI": {
@@ -16793,7 +16796,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Traders across Madhya Pradesh mark No UPI Day over MDR dispute",
+      "post": {
+        "created_at": "2026-09-23T15:22:00+00:00",
+        "handle": "News: India fintech",
+        "id": "1790176920982",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "QR codes go under black veil as traders across MP mark \u2018NO UPI Day\u2019",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSGVyOGdOQno5WmowTnVWWkJVdk9IUTJqdS13MzVUSGhOVHhxZHhhTmR1Ni1KUnNMelZzT2NCR19ad2cyY2dmTi1FWVFSdTlTZldRMDVEU19QM3RjVy1NNVMtWlhKMjd3WUV4TzNkRDRfekdkVDhlQ2dJZ21nLTdoT0tBMEU0ZDhuQnZ4RnBwREVtSE93XzN1OWRfOXo4QkRub1hZdkcydDNmVHpYMFE2TWQyWmhub29aQWlEZnBPWXZjNEZTQ0JVUnRqczFNbXRCY0VFVldlWTZLUGvSAdsBQVVfeXFMTUhlcjhnTkJ6OVpqME51VlpCVXZPSFEyanUtdzM1VEhoTlR4cWR4YU5kdTYtSlJzTHpWc09jQkdfWndnMmNnZk4tRVlRUnU5U2ZXUTA1RFNfUDN0Y1ctTTVTLVpYSjI3d1lFeE8zZEQ0X3pHZFQ4ZUNnSWdtZy03aE9LQTBFNGQ4bkJ2eEZwcERFbUhPd18zdTlkXzl6OEJEbm9YWXZHMnQzZlR6WDBRNk1kMlpobm9vWkFpRGZwT1l2YzRGU0NCVVJ0anMxTW10QmNFRVZXZVk2S1Br?oc=5"
+      },
+      "queued_at": "2026-09-23T16:47:27.445345+00:00",
+      "score": 7.0,
+      "why": "Follows the ongoing protests and disputes regarding UPI MDR charges by merchants in Madhya Pradesh."
+    },
+    {
+      "headline": "FSSAI takes penal action against Amazon, Zepto and others",
+      "post": {
+        "created_at": "2026-09-23T16:33:37+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790181217014",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Mint",
+        "reposts": 0,
+        "text": "Amazon, Zepto & 3 other platforms face FSSAI's penal action over misleading claims: Which products did it flag?",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV2xTdFVybklxZjB3bjNlczNyRmFDTHFtSndLVk9ya2VhUGZ0aHk4c19VMGpmSTFaenJqUVdxT3JwNkE2SnYyQXdpblBTaDI0eV9sVzhyOHpWSXRXMno3eDA3Q2M4a2dONVRNRVQtM25BbjdmU2k1YXE5dVg2cTk1aUxCNkdtUGVxcHRhUVVFRzhGc3JYOUd3VDloeFAxbEJYVnNVZ3NrMmR1UklNYnRUSVRjLVppZF9JRGNtTGVudHlWYlRGS1J3WC1xQmppNW9FVjRHZEQ5cVlfM3N4MjUxUVRTZVVUUlo0SGhhQUt0ODREWjNNVGFHLVhYMy3SAYICQVVfeXFMTl84Y3dxcEtCc0RFR3hWWnhzVU9MM3d2MkVYc3EwT1JqNnl0SDA1M1JOT09YOFF3Q3dzLXNONmVQRE5QZzYtRDNDZ3pzelpFdjJmd3ZEd2piY0xCaWlITWFmUnpJY25EckQ1eTZOUUNaZ1F5UE9yZVBrand3RDA5Y284ZllLUXJwMUdZUExEMld0ZVkxSDdXMC1wYnhKWG1nWFlyM2ZlQ1ZuYW5qdUpxRzJXNzlFckhGemJPU0RMNnNlVzdLSUJ3RXgxaVJtenJvcjNLWjYza0ZTSGp6a2FfaWpJNFJ1LVhLRFk5MnJOMUR3TGVxNkwxNXBoR3NmdXA3TXh3?oc=5"
+      },
+      "queued_at": "2026-09-23T16:47:27.445345+00:00",
+      "score": 7.0,
+      "why": "Regulatory enforcement action by FSSAI against major e-commerce and quick-commerce platforms for misleading claims."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17801,7 +17841,7 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790178240425,
-    "news: consumer internet india": 1790177599120,
+    "news: consumer internet india": 1790181217014,
     "news: global ai": 1790171400092,
     "news: global chips": 1790168700128,
     "news: global it services": 1790171374941,
@@ -17814,10 +17854,10 @@
     "news: indian it majors": 1790171295393,
     "news: indian it midcaps": 1790171760761,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790180800819,
+    "news: tech leaders": 1790180812819,
     "nvidia": 1790175632981,
     "nvidia blog": 1790175632981,
-    "openai": 1790179200902,
+    "openai": 1790251200769,
     "oracle": 1790169409959,
     "phonepe": 1790060532360,
     "pib communications": 2313673,
@@ -17850,7 +17890,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T16:32:57.858242+00:00",
+    "last_server_run": "2026-09-23T16:47:27.822452+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T15:19:08.409516+00:00",
@@ -18160,6 +18200,7 @@
       "CG-DL-E-23092026-276428",
       "CG-DL-E-23092026-276429",
       "CG-DL-E-23092026-276430",
+      "CG-DL-E-23092026-276432",
       "CG-DL-E-23092026-276433",
       "CG-DL-E-23092026-276434",
       "CG-DL-E-23092026-276435",
