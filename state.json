@@ -7510,14 +7510,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789929613362",
-    "1789856917696",
-    "1789862439345",
-    "1789864456441",
-    "1789885560420",
-    "1789886400285",
-    "1789888631238",
-    "1789907788381",
     "1789911240438",
     "1789917600214",
     "1789925138400",
@@ -13509,10 +13501,18 @@
     "1790180812819",
     "1790181185714",
     "1790181217014",
-    "1790251200769"
+    "1790251200769",
+    "1790176440198",
+    "1790176920576",
+    "1790177554303",
+    "1790181791580",
+    "1790182216780",
+    "1790182417142",
+    "1790182800500",
+    "1790182896113"
   ],
   "last_digest_hour": "2026-09-23T22",
-  "last_success": "2026-09-23T16:47:27.475797+00:00",
+  "last_success": "2026-09-23T17:02:34.957816+00:00",
   "national": {
     "alerted": [
       {
@@ -15430,9 +15430,11 @@
       "CG-DL-E-23092026-276439",
       "CG-DL-E-23092026-276433",
       "CG-DL-E-23092026-276440",
-      "CG-DL-E-23092026-276432"
+      "CG-DL-E-23092026-276432",
+      "CG-MH-E-23092026-276431",
+      "CG-MH-E-23092026-276441"
     ],
-    "last_run": "2026-09-23T16:49:30.996393+00:00",
+    "last_run": "2026-09-23T17:09:54.598208+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16756,7 +16758,10 @@
       "gazette:CG-DL-E-23092026-276433",
       "gazette:CG-DL-E-23092026-276440",
       "gazette:CG-DL-E-23092026-276432",
-      "pib:2314214"
+      "pib:2314214",
+      "gazette:CG-MH-E-23092026-276431",
+      "pib:2314215",
+      "gazette:CG-MH-E-23092026-276441"
     ],
     "source_failures": {
       "CBI": {
@@ -17581,6 +17586,7 @@
       "https://www.oracle.com/news/announcement/oracle-health-ai-powered-patient-portal-generally-available-2026-08-12": "2026-09-17T07:46:59.414101+00:00",
       "https://www.oracle.com/news/announcement/oracle-life-sciences-data-intelligence-help-accelerate-clinical-research-and-commercialization-2026-09-23": "2026-09-23T13:16:49.409096+00:00",
       "https://www.oracle.com/news/announcement/oracle-partners-with-wipro-to-strengthen-end-to-end-pharmacovigilance-services-2026-09-22": "2026-09-23T13:16:49.409096+00:00",
+      "https://www.oracle.com/news/announcement/oracle-to-advance-cancer-care-with-new-oncology-ehr-2026-09-23": "2026-09-23T17:01:36.640550+00:00",
       "https://www.oracle.com/news/announcement/project-jupiter-launches-initiative-with-arable-2026-08-11": "2026-09-17T07:46:59.414101+00:00",
       "https://www.oracle.com/news/announcement/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cloud-infrastructure-2026-08-11": "2026-09-17T07:46:59.414101+00:00"
     },
@@ -17841,7 +17847,7 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790178240425,
-    "news: consumer internet india": 1790181217014,
+    "news: consumer internet india": 1790182417142,
     "news: global ai": 1790171400092,
     "news: global chips": 1790168700128,
     "news: global it services": 1790171374941,
@@ -17852,13 +17858,13 @@
     "news: india tech policy": 1790166453655,
     "news: india telecom": 1790170397114,
     "news: indian it majors": 1790171295393,
-    "news: indian it midcaps": 1790171760761,
+    "news: indian it midcaps": 1790177554303,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790180812819,
     "nvidia": 1790175632981,
     "nvidia blog": 1790175632981,
     "openai": 1790251200769,
-    "oracle": 1790169409959,
+    "oracle": 1790182896113,
     "phonepe": 1790060532360,
     "pib communications": 2313673,
     "pib meity": 2313324,
@@ -17867,7 +17873,7 @@
     "redseer": 1789637516540,
     "reg cci": 1790035200881,
     "reg cert-in": 1788998400763,
-    "salesforce": 1789671615139,
+    "salesforce": 1790182800500,
     "samsung": 1790200800080,
     "samsung india": 1790167972987,
     "sarvam ai": 1789631206990,
@@ -17890,7 +17896,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T16:47:27.822452+00:00",
+    "last_server_run": "2026-09-23T17:02:35.298475+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T15:19:08.409516+00:00",
@@ -18227,6 +18233,8 @@
       "CG-MH-E-23092026-276408",
       "CG-MH-E-23092026-276412",
       "CG-MH-E-23092026-276423",
+      "CG-MH-E-23092026-276431",
+      "CG-MH-E-23092026-276441",
       "CG-MP-E-21092026-276331",
       "CG-MP-E-21092026-276365",
       "CG-MP-E-21092026-276366",
