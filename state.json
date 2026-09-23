@@ -7382,23 +7382,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789887210935",
-    "1789887520011",
-    "1789888032748",
-    "1789888135240",
-    "1789888535548",
-    "1789888536268",
-    "1789888539889",
-    "1789892584689",
-    "1789893028967",
-    "1789893759245",
-    "1789893763077",
-    "1789818637885",
-    "1789829668733",
-    "1789838364312",
-    "1789839382858",
-    "1789851091403",
-    "1789882403452",
     "1789885599438",
     "1789888540939",
     "1789888541541",
@@ -13381,10 +13364,27 @@
     "1790151964490",
     "1790151966869",
     "1790152200603",
-    "1790171276658"
+    "1790171276658",
+    "1790073879223",
+    "1790074110050",
+    "1790098708053",
+    "1790130720899",
+    "1790137089763",
+    "1790141952458",
+    "1790143500215",
+    "1790144170716",
+    "1790146600467",
+    "1790150286066",
+    "1790150358680",
+    "1790151348267",
+    "1790152106581",
+    "1790152200273",
+    "1790152787213",
+    "1790152800088",
+    "1790172570394"
   ],
   "last_digest_hour": "2026-09-23T14",
-  "last_success": "2026-09-23T08:35:05.966024+00:00",
+  "last_success": "2026-09-23T08:50:01.274255+00:00",
   "national": {
     "alerted": [
       {
@@ -15123,7 +15123,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T08:39:44.966235+00:00",
+    "last_run": "2026-09-23T08:55:57.098711+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16357,7 +16357,9 @@
       "pib:2313775",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63649",
       "pib:2313801",
-      "page:https://internal.imd.gov.in/press_release/20260923_pr_5334.pdf"
+      "page:https://internal.imd.gov.in/press_release/20260923_pr_5334.pdf",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mirabai-chanu-on-winning-silver-medal-in-womens-49-kg-weightlifting-event",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-parinaaz-dhaliwal-maheshwari-chauhan-and-raiza-dhillon-on-winning-bronze-medal-in-womens-skeet-team-event"
     ],
     "source_failures": {
       "CBI": {
@@ -16373,7 +16375,8 @@
         "until": "2026-09-23T09:18:15.987507+00:00"
       },
       "Gazette of India (Extraordinary)": {
-        "count": 2
+        "count": 3,
+        "until": "2026-09-23T14:52:42.816569+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -16404,7 +16407,62 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "India makes significant progress in training semiconductor engineers under C2S",
+      "post": {
+        "created_at": "2026-09-23T06:56:40+00:00",
+        "handle": "News: PIB releases",
+        "id": "1790146600467",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "PIB",
+        "reposts": 0,
+        "text": "Under Chips to Startups (C2S), India made significant progress towards its target of training 85,000 semiconductor engineers;",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sbS0xc29aZFBIZzZIa2dMRW1tUExkV2UtYWV4TGV1RjhpRE9BLVY5ellOQURBc2YwaDZHOEdTSzJIck9aZmttdXFWRWZhb2w2NHViRDAySlB3OTZsb3AzWkdlSkZsMWJ5U0NaT2FyYXQ?oc=5"
+      },
+      "queued_at": "2026-09-23T08:50:01.253507+00:00",
+      "score": 7.0,
+      "why": "Official update on government semiconductor skilling targets directly impacts the domestic chip ecosystem."
+    },
+    {
+      "headline": "Traders oppose proposed 0.4% UPI MDR over business impact concerns",
+      "post": {
+        "created_at": "2026-09-23T07:58:06+00:00",
+        "handle": "News: India fintech",
+        "id": "1790150286066",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Bhaskar English",
+        "reposts": 0,
+        "text": "Traders oppose proposed 0.4% UPI MDR: Say extra charge could affect business; some may prefer cash for high...",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2FOeHNlcXZRdktUT2lldVB4RzI1V041WHlUbm1xNVNyNVQtWl9TVW91WjJWTDZ3djBCdlV5eHFGNFJDako2R0xxOTNqd1B5ZFJEWHZoRDR4NHRTNUtnaEFGc1N4MmJ4M004cHl6SUszSDg0V1p5MlM1bE0xNkxVYzduN2NkLXllN0owWUVFLU1ObnVZSlZ1NTMwMHVjOVJTeXROR1lLLTY0YVNJd2JIdl9fVVR3U1JPX094bmtPT3RvbmxZT01j0gHMAUFVX3lxTE9COUhSZXFSdjZWV0UtVVJCanRVT25qeUtIX3ZpMVhxMWFFRDUxSEpBNEE4ZWNGd2tVZUNQQXgwM29YaGtOOWl6ZE9ZZi15cmxhZ1JJcDJvTU81aUR4NDNBVnUyS2o0cDZIQXliWGROdkNiY0dMc0RMMWl0Sk1JNm9nWmdqcVRpeHNxTFFWSnV1YUp3a00xOFVBeE9vRk1RNTJWd1JybnozVmJFaFdiR2EtUUdmU3FDMWczLUtzQnFNNkdnWVduNUlkLWl0SA?oc=5"
+      },
+      "queued_at": "2026-09-23T08:50:01.253507+00:00",
+      "score": 7.0,
+      "why": "Ongoing stakeholder resistance and pushback regarding the debated UPI merchant discount rate changes."
+    },
+    {
+      "headline": "BSE to replace Wipro in NIFTY 50 index reshuffle",
+      "post": {
+        "created_at": "2026-09-23T08:28:26+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790152106581",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Upstox",
+        "reposts": 0,
+        "text": "BSE to replace Wipro in NIFTY50: How index reshuffles impact stock prices",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWWJIX05wWmJoa1draV81TjNMX3VHcEFBMndZbmVTR2dmTGZiMm5SbTI1ODlMaGNoUkY2ejFLSXZTNVBFdjVpX2pBR2tVTVBfX3FlMVFjNkFpcVJvVUtFbWcyLXBzMklTMUFMRWVwZDM3MUgtQlhKYVFudFhGLUl5N2UxcTNiQ0JMc3pKdGlsVmg1ZTViY0k3RmdBZm5TSjh2bHBDMG1zaFRSU2c1cW9ZTG9mU01HdEFuaWFhM1RPWmdHanJ1eGVjTXYxVFo?oc=5"
+      },
+      "queued_at": "2026-09-23T08:50:01.253507+00:00",
+      "score": 7.0,
+      "why": "Major benchmark index change involving a top-tier Indian IT services major."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17370,7 +17428,7 @@
     "bse mobikwik": 1790089293754,
     "bse mphasis": 1790076175440,
     "bse nazara": 1790006080228,
-    "bse netweb": 1789907276270,
+    "bse netweb": 1790172570394,
     "bse niit": 1789648705695,
     "bse niit learning systems": 1789730621208,
     "bse nykaa": 1789155118992,
@@ -17408,16 +17466,16 @@
     "news: big tech platforms": 1790151540426,
     "news: consumer internet india": 1790151966869,
     "news: global ai": 1790129580774,
-    "news: global chips": 1790150535765,
+    "news: global chips": 1790152200273,
     "news: global it services": 1790148469350,
     "news: india ai deeptech": 1790151964490,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790150503903,
-    "news: india semiconductors": 1790150000896,
+    "news: india semiconductors": 1790152800088,
     "news: india tech policy": 1790151099839,
     "news: india telecom": 1790150475371,
-    "news: indian it majors": 1790151819318,
-    "news: indian it midcaps": 1790139386200,
+    "news: indian it majors": 1790152106581,
+    "news: indian it midcaps": 1790152787213,
     "news: pib releases": 1790146772249,
     "news: tech leaders": 1790149740445,
     "nvidia": 1790130622802,
@@ -17455,17 +17513,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T08:35:06.299269+00:00",
+    "last_server_run": "2026-09-23T08:50:01.526802+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-23T06:50:13.726458+00:00",
+        "checked": "2026-09-23T08:52:42.554768+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-23T06:50:04.864714+00:00",
+        "checked": "2026-09-23T08:52:34.481146+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -17541,7 +17599,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-23T06:50:09.723607+00:00",
+        "checked": "2026-09-23T08:52:38.411028+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -17595,11 +17653,11 @@
       },
       "last": {
         "calendar": "2026-09-23T04:18:01.981727+00:00",
-        "ls_reports": "2026-09-23T06:49:38.928373+00:00",
-        "rs_committee_press": "2026-09-23T06:49:59.207870+00:00",
-        "rs_press": "2026-09-23T06:49:55.422156+00:00",
-        "rs_reports": "2026-09-23T06:49:51.894937+00:00",
-        "rs_updates": "2026-09-23T06:50:00.575594+00:00"
+        "ls_reports": "2026-09-23T08:52:18.710181+00:00",
+        "rs_committee_press": "2026-09-23T08:52:28.993969+00:00",
+        "rs_press": "2026-09-23T08:52:26.038602+00:00",
+        "rs_reports": "2026-09-23T08:52:23.136282+00:00",
+        "rs_updates": "2026-09-23T08:52:30.549883+00:00"
       }
     },
     "scanned": [
