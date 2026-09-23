@@ -7376,24 +7376,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789837069338",
-    "1789852091708",
-    "1789877820040",
-    "1789880543248",
-    "1789881594092",
-    "1789884006615",
-    "1789884463512",
-    "1789884840391",
-    "1789885139985",
-    "1789885419428",
-    "1789885620438",
-    "1789885669445",
-    "1789885756016",
-    "1789800828424",
-    "1789801161196",
-    "1789814743224",
-    "1789820667149",
-    "1789821171572",
     "1789825894831",
     "1789840620722",
     "1789850558635",
@@ -13375,10 +13357,28 @@
     "1790144626750",
     "1790144844422",
     "1790144915081",
-    "1790164660386"
+    "1790164660386",
+    "1790076480153",
+    "1790092205148",
+    "1790093400756",
+    "1790099252025",
+    "1790114406181",
+    "1790125280860",
+    "1790126757676",
+    "1790130523586",
+    "1790139300676",
+    "1790139474079",
+    "1790144614623",
+    "1790144925823",
+    "1790145120105",
+    "1790145174493",
+    "1790145439237",
+    "1790145571092",
+    "1790145606714",
+    "1790145923738"
   ],
   "last_digest_hour": "2026-09-23T12",
-  "last_success": "2026-09-23T06:34:35.165186+00:00",
+  "last_success": "2026-09-23T06:49:09.437358+00:00",
   "national": {
     "alerted": [
       {
@@ -15053,7 +15053,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T06:41:32.177783+00:00",
+    "last_run": "2026-09-23T06:50:44.362090+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16274,7 +16274,9 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tributes-to-rashtrakavi-ramdhari-singh-dinkar-ji-on-his-birth-anniversary",
       "pib:2313748",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/%e0%b0%8e%e0%b0%82%e0%b0%b8%e0%b1%80%e0%b0%86%e0%b0%b0%e0%b1%8d-%e0%b0%b9%e0%b1%86%e0%b0%9a%e0%b1%8d%e0%b0%86%e0%b0%b0%e0%b1%8d%e0%b0%a1%e0%b1%80-%e0%b0%ac%e0%b1%8b%e0%b0%a7%e0%b0%bf/",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-success-of-ayushman-bharat-on-its-eighth-anniversary"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-success-of-ayushman-bharat-on-its-eighth-anniversary",
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/09/%e0%b0%a6%e0%b0%b3%e0%b0%bf%e0%b0%a4%e0%b1%81%e0%b0%b2%e0%b1%81-%e0%b0%97%e0%b0%bf%e0%b0%b0%e0%b0%bf%e0%b0%9c%e0%b0%a8%e0%b1%81%e0%b0%b2%e0%b1%81-%e0%b0%86%e0%b0%a6%e0%b0%bf%e0%b0%b5%e0%b0%be/",
+      "pib:2313751"
     ],
     "source_failures": {
       "CBI": {
@@ -16318,7 +16320,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Meesho shares drop 4% following Rs 900 crore block deal",
+      "post": {
+        "created_at": "2026-09-23T06:37:19+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790145439237",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "IndiaIPO",
+        "reposts": 0,
+        "text": "Meesho shares drop 4% after block deal worth Rs 900 crore. Should you buy the dip?",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQenc2c3FzamExT1g0eU1zdHo5eTh2S1ZGOFZVTV9jcEo2OFk0bEVfWDdybDdHbDU5SnNOc3lvbXFWTnFsYVA3QnpYbHQ2U1FLTmNVZWNXYkgwLXAwa2REZGdKZm1xTmxrZk1ER29IdWxoLVZNdXRpSGVpYXJvN2g2STZpMW5UNWF1NjF3UlNXdTQtelg4XzlYVzlfSFF0VWZ0NEV3amhXUlAySVhHNTRJMGV2RzBjdw?oc=5"
+      },
+      "queued_at": "2026-09-23T06:49:09.413283+00:00",
+      "score": 7.0,
+      "why": "Major stake sale via block deal in a watched Indian consumer tech firm."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17320,20 +17341,20 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790144915081,
-    "news: consumer internet india": 1790143195535,
+    "news: consumer internet india": 1790145439237,
     "news: global ai": 1790105262430,
     "news: global chips": 1790143380306,
     "news: global it services": 1790143447904,
     "news: india ai deeptech": 1790140157987,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790144165967,
+    "news: india fintech": 1790145606714,
     "news: india semiconductors": 1790144844422,
-    "news: india tech policy": 1790144430571,
+    "news: india tech policy": 1790145571092,
     "news: india telecom": 1790144090562,
     "news: indian it majors": 1790142385739,
     "news: indian it midcaps": 1790139386200,
-    "news: pib releases": 1790138700972,
-    "news: tech leaders": 1790143975294,
+    "news: pib releases": 1790145120105,
+    "news: tech leaders": 1790145923738,
     "nvidia": 1790130622802,
     "nvidia blog": 1790130622802,
     "openai": 1790110800092,
@@ -17369,17 +17390,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T06:34:35.492436+00:00",
+    "last_server_run": "2026-09-23T06:49:09.770937+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-23T04:48:10.018515+00:00",
+        "checked": "2026-09-23T06:50:13.726458+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-23T04:48:01.811779+00:00",
+        "checked": "2026-09-23T06:50:04.864714+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -17455,7 +17476,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-23T04:48:05.925114+00:00",
+        "checked": "2026-09-23T06:50:09.723607+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -17509,11 +17530,11 @@
       },
       "last": {
         "calendar": "2026-09-23T04:18:01.981727+00:00",
-        "ls_reports": "2026-09-23T04:47:44.920335+00:00",
-        "rs_committee_press": "2026-09-23T04:47:55.789098+00:00",
-        "rs_press": "2026-09-23T04:47:52.546601+00:00",
-        "rs_reports": "2026-09-23T04:47:49.278865+00:00",
-        "rs_updates": "2026-09-23T04:47:57.832000+00:00"
+        "ls_reports": "2026-09-23T06:49:38.928373+00:00",
+        "rs_committee_press": "2026-09-23T06:49:59.207870+00:00",
+        "rs_press": "2026-09-23T06:49:55.422156+00:00",
+        "rs_reports": "2026-09-23T06:49:51.894937+00:00",
+        "rs_updates": "2026-09-23T06:50:00.575594+00:00"
       }
     },
     "scanned": [
