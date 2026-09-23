@@ -2,26 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-18T11:32:18.121693+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Nivruti Rai outlines growth path for India's semiconductor ecosystem",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzJHbklJNE9TektHdkZPaU5ZcEZ5MDh4UWZuT0xMcWZaTnpta1FBVS1Db21LcXBJZk1tMDhQdDBmTkxPeDhlTXF0dnZGb2NpTkF0cEtDaE9MSm9jdktxQVA3WENDSW1NcnllYkhUUm15aFl5MjJ5bTFKT1FFY1c3NWVPVGEtVWlUS0UzdThFNEg4RVdwNEFaU2JqSmhvcGVobWtRckxEYWZrQm10MlJsS1ZVTTJqM2M3MUduT0UzNzk5MlhWT2Q1OGlB0gHXAUFVX3lxTFBoeklZWFo0Y2pHNmJrN0tHeVVWQ013Z3o4RzIxN1V3aGNrVElLdjhnMEJiZ1d4MDJxNElBVjVwYU1EbHIwREZ1RXdlUFN4SFVaZXhLRlBmY3I4am1ueUtLZGlPcEFyLTVYdm56YXB6RU90NXNfYzd2Rjk2QnFzZ1Y3N3Fjbm5HT3NnQlhzMzAxRFlRcEo4T1hZaEg5b0dHZXVnMzItck1tclpWUk5aTDBuZzB6QnFDSW95eXNNZFNwQk1Pby1mVTRMTXJ4TEU0VC1FQW84dU80?oc=5",
-      "words": [
-        "charts",
-        "growth",
-        "identifies",
-        "moment",
-        "nivruti",
-        "nvidia",
-        "path",
-        "rai",
-        "semicon",
-        "spaces",
-        "white"
-      ]
-    },
-    {
-      "at": "2026-09-18T11:32:18.121693+00:00",
       "handle": "News: India telecom",
       "headline": "HFCL's Jitendra Singh Chaudhary elected as TEPC Chairman",
       "tier": 0,
@@ -7378,24 +7358,28 @@
         "toi",
         "wider"
       ]
+    },
+    {
+      "at": "2026-09-23T05:02:47.838545+00:00",
+      "handle": "Microsoft India",
+      "headline": "Microsoft announces GPT-6 Astra, Sol, and Luna for production agents",
+      "tier": 1,
+      "url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
+      "words": [
+        "agents",
+        "astra",
+        "foundry",
+        "gpt",
+        "luna",
+        "microsoft",
+        "production",
+        "sol"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789876800301",
-    "1789877701670",
-    "1789877769344",
-    "1789878381514",
-    "1789804425249",
-    "1789814355224",
-    "1789832811693",
-    "1789836600274",
-    "1789836600436",
-    "1789853551886",
-    "1789870740255",
-    "1789878000885",
-    "1789878182089",
     "1789878727965",
     "1789878772138",
     "1789879392172",
@@ -13382,10 +13366,23 @@
     "1790134563308",
     "1790137539373",
     "1790137579561",
-    "1790137980114"
+    "1790137980114",
+    "1790069580890",
+    "1790114337094",
+    "1790136979289",
+    "1790138700078",
+    "1790138700972",
+    "1790139017992",
+    "1790139087701",
+    "1790139093577",
+    "1790139139461",
+    "1790139220815",
+    "1790139235809",
+    "1790139249827",
+    "1790139657641"
   ],
   "last_digest_hour": "2026-09-23T10",
-  "last_success": "2026-09-23T04:47:19.563817+00:00",
+  "last_success": "2026-09-23T05:02:47.863403+00:00",
   "national": {
     "alerted": [
       {
@@ -15060,7 +15057,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T04:52:23.249612+00:00",
+    "last_run": "2026-09-23T05:04:45.615829+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16269,7 +16266,10 @@
       "gazette:CG-MH-E-23092026-276408",
       "gazette:CG-UP-E-23092026-276410",
       "gazette:CG-CG-E-23092026-276409",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63647"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63647",
+      "pib:2313726",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63648",
+      "pib:2313715"
     ],
     "source_failures": {
       "CBI": {
@@ -17307,23 +17307,23 @@
     "linkedin": 1789758145368,
     "meta": 1790125277691,
     "microsoft": 1789653605718,
-    "microsoft india": 1789974529453,
+    "microsoft india": 1790139139461,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790133142912,
     "news: consumer internet india": 1790134563308,
     "news: global ai": 1790105262430,
-    "news: global chips": 1790137980114,
+    "news: global chips": 1790139093577,
     "news: global it services": 1790134698419,
     "news: india ai deeptech": 1790135282091,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790136244721,
+    "news: india fintech": 1790139657641,
     "news: india semiconductors": 1790136159167,
-    "news: india tech policy": 1790132482498,
+    "news: india tech policy": 1790139235809,
     "news: india telecom": 1790136480648,
-    "news: indian it majors": 1790137579561,
+    "news: indian it majors": 1790139220815,
     "news: indian it midcaps": 1790133363341,
-    "news: pib releases": 1790126757754,
+    "news: pib releases": 1790138700972,
     "news: tech leaders": 1790137599258,
     "nvidia": 1790130622802,
     "nvidia blog": 1790130622802,
@@ -17360,7 +17360,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T04:47:19.883761+00:00",
+    "last_server_run": "2026-09-23T05:02:48.225806+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T04:48:10.018515+00:00",
