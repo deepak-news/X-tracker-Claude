@@ -7506,17 +7506,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789918497079",
-    "1789920205750",
-    "1789923284197",
-    "1789923778957",
-    "1789923793315",
-    "1789923958904",
-    "1789924142482",
-    "1789875150575",
-    "1789876500556",
-    "1789895760167",
-    "1789912186107",
     "1789915737675",
     "1789920343838",
     "1789923713131",
@@ -13505,10 +13494,21 @@
     "1790173072645",
     "1790173246960",
     "1790173800970",
-    "1790200800080"
+    "1790200800080",
+    "1790130900203",
+    "1790131440778",
+    "1790133540133",
+    "1790138700553",
+    "1790149265958",
+    "1790155222593",
+    "1790156771200",
+    "1790166603358",
+    "1790169631673",
+    "1790173497697",
+    "1790175600041"
   ],
   "last_digest_hour": "2026-09-23T20",
-  "last_success": "2026-09-23T14:32:50.419646+00:00",
+  "last_success": "2026-09-23T14:48:47.538237+00:00",
   "national": {
     "alerted": [
       {
@@ -15356,7 +15356,7 @@
       "CG-DL-E-23092026-276429",
       "CG-DL-E-23092026-276430"
     ],
-    "last_run": "2026-09-23T14:36:33.653628+00:00",
+    "last_run": "2026-09-23T14:52:01.185413+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16656,7 +16656,10 @@
       "pib:2314122",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "gazette:CG-DL-E-23092026-276430",
-      "pib:2314141"
+      "pib:2314141",
+      "pib:2314146",
+      "pib:2314150",
+      "pib:2314148"
     ],
     "source_failures": {
       "CBI": {
@@ -17689,7 +17692,7 @@
     "capgemini": 1790169480467,
     "cognizant": 1790161361396,
     "flipkart": 1789631208994,
-    "google": 1790173800970,
+    "google": 1790175600041,
     "google cloud": 1790150400424,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
@@ -17704,7 +17707,7 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790164274522,
-    "news: consumer internet india": 1790173072645,
+    "news: consumer internet india": 1790173497697,
     "news: global ai": 1790167028006,
     "news: global chips": 1790168700128,
     "news: global it services": 1790171374941,
@@ -17753,7 +17756,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T14:32:50.727034+00:00",
+    "last_server_run": "2026-09-23T14:48:47.754325+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T13:18:45.592524+00:00",
