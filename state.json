@@ -7443,31 +7443,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789885982719",
-    "1789893180385",
-    "1789905279360",
-    "1789905600623",
-    "1789913236065",
-    "1789913406009",
-    "1789917224507",
-    "1789917811201",
-    "1789918706070",
-    "1789919001069",
-    "1789882830717",
-    "1789884780014",
-    "1789892232799",
-    "1789904793646",
-    "1789910340005",
-    "1789912980206",
-    "1789913814098",
-    "1789915723429",
-    "1789918200765",
-    "1789919430160",
-    "1789919637670",
-    "1789836891139",
-    "1789837568978",
-    "1789874309967",
-    "1789881682761",
     "1789896727131",
     "1789898940691",
     "1789901149158",
@@ -13442,10 +13417,35 @@
     "1790166516876",
     "1790166768448",
     "1790167020791",
-    "1790167348783"
+    "1790167348783",
+    "1790083620804",
+    "1790091180856",
+    "1790093618585",
+    "1790099578220",
+    "1790100263567",
+    "1790110325937",
+    "1790127295036",
+    "1790140624131",
+    "1790149800048",
+    "1790150213281",
+    "1790150400692",
+    "1790153730552",
+    "1790157300723",
+    "1790158835162",
+    "1790160335375",
+    "1790161049455",
+    "1790162772675",
+    "1790167028006",
+    "1790167201799",
+    "1790167239864",
+    "1790167500032",
+    "1790167514313",
+    "1790167572193",
+    "1790168340978",
+    "1790168556912"
   ],
   "last_digest_hour": "2026-09-23T18",
-  "last_success": "2026-09-23T12:47:19.261840+00:00",
+  "last_success": "2026-09-23T13:03:05.539526+00:00",
   "national": {
     "alerted": [
       {
@@ -14988,6 +14988,29 @@
           "printing",
           "sec"
         ]
+      },
+      {
+        "at": "2026-09-23T13:06:07.019571+00:00",
+        "handle": "PIB Ministry of Cooperation",
+        "headline": "New Bharat Taxi service launched across major cities in Uttar Pradesh",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314086",
+        "words": [
+          "along",
+          "also",
+          "bharat",
+          "cooperation",
+          "gorakhpur",
+          "kanpur",
+          "launched",
+          "lucknow",
+          "ministry",
+          "out",
+          "pradesh",
+          "prayagraj",
+          "rolled",
+          "service"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15269,7 +15292,7 @@
       "CG-DL-E-23092026-276426",
       "CG-DL-E-23092026-276429"
     ],
-    "last_run": "2026-09-23T12:48:39.738523+00:00",
+    "last_run": "2026-09-23T13:06:07.020404+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16561,7 +16584,8 @@
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/order-in-the-matter-of-certain-investment-advisers_104668.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-general-remittance-order-dated-23-09-2026-in-recovery-certificate-no-8933-of-2025-issued-against-pinal-rajesh-mehta-legal-representative-of-rajesh-rajnikant-mehta-who-is-_104676.html",
       "pib:2314060",
-      "pib:2314053"
+      "pib:2314053",
+      "pib:2314086"
     ],
     "source_failures": {
       "CBI": {
@@ -16637,6 +16661,24 @@
       "queued_at": "2026-09-23T12:47:19.233311+00:00",
       "score": 7.0,
       "why": ""
+    },
+    {
+      "headline": "Zoho co-founder Sridhar Vembu calls for decentralised R&D in India",
+      "post": {
+        "created_at": "2026-09-23T10:45:35+00:00",
+        "handle": "News: India AI deeptech",
+        "id": "1790160335375",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Lokmattimes",
+        "reposts": 0,
+        "text": "India must decentralise R&D to create jobs beyond major cities: Sridhar Vembu, Zoho Co-Founder",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUdfWWFNZHdwLTc5d1U3RjI4aFh2Tjl1d0R3Y2J6ZnU1dnFqME9vcVdhQURyczh0WHJwczJIekxUWmp4eGpaQWc2VmFwWW1KeFZoVVgwOXNHNlpyRUkzTU9CSEYzU1JCN24xY0NEVVlESVNQV296OUJGR2pHUDRVSlFTcVh4OEN4RzBlMFhuTV9OYTdsLU5WaTBiTk1UYkxyR19yY1FhMDNQVUxqY1dJUkYyVkxyU29Gam1SQkV2aXVxeDJRZUdTbXFTWm1zQdIBzgFBVV95cUxNLUdfWWFNZHdwLTc5d1U3RjI4aFh2Tjl1d0R3Y2J6ZnU1dnFqME9vcVdhQURyczh0WHJwczJIekxUWmp4eGpaQWc2VmFwWW1KeFZoVVgwOXNHNlpyRUkzTU9CSEYzU1JCN24xY0NEVVlESVNQV296OUJGR2pHUDRVSlFTcVh4OEN4RzBlMFhuTV9OYTdsLU5WaTBiTk1UYkxyR19yY1FhMDNQVUxqY1dJUkYyVkxyU29Gam1SQkV2aXVxeDJRZUdTbXFTWm1zQQ?oc=5"
+      },
+      "queued_at": "2026-09-23T13:03:05.511149+00:00",
+      "score": 7.0,
+      "why": "Important statement by a major Indian tech founder on industry direction and job creation."
     }
   ],
   "page_links": {
@@ -17371,6 +17413,7 @@
       "https://news.linkedin.com/2026/how-to-stay-safe-when-applying-to-jobs-online": "2026-09-17T07:46:59.333799+00:00",
       "https://news.linkedin.com/2026/introducing-collaborative-posts-now-available-to-members-and-company-pages-on-linkedin": "2026-09-17T07:46:59.333799+00:00",
       "https://news.linkedin.com/2026/linkedin-data-women-c-suite-founders-2026": "2026-09-17T07:46:59.333799+00:00",
+      "https://news.linkedin.com/2026/linkedin-launches-new-verification-features-to-build-professional-trust": "2026-09-23T13:02:36.571995+00:00",
       "https://news.linkedin.com/2026/linkedin-research-gen-z-professionals-are-becoming-key-business-decision-makers-yet-72-lack-confidence-to-turn-contacts-into-career-opportunities": "2026-09-17T07:46:59.333799+00:00",
       "https://news.linkedin.com/2026/linkedin-top-colleges-2026-the-50-best-colleges-for-long-term-career-success-in-the-us": "2026-09-17T07:46:59.333799+00:00",
       "https://news.linkedin.com/2026/new-linkedin-research-finds-women-account-for-just-26-percent-of-ai-hires-as-ai-jobs-surge": "2026-09-17T07:46:59.333799+00:00",
@@ -17634,7 +17677,7 @@
     "ibm": 1790078400999,
     "intel": 1788847380154,
     "lenovo": 1789992053034,
-    "linkedin": 1789758145368,
+    "linkedin": 1790168556912,
     "meta": 1790125277691,
     "microsoft": 1789653605718,
     "microsoft india": 1790163169143,
@@ -17642,16 +17685,16 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1790164274522,
     "news: consumer internet india": 1790164159012,
-    "news: global ai": 1790167020791,
-    "news: global chips": 1790166473294,
-    "news: global it services": 1790164740151,
+    "news: global ai": 1790167028006,
+    "news: global chips": 1790167201799,
+    "news: global it services": 1790168340978,
     "news: india ai deeptech": 1790166673913,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790166768448,
+    "news: india fintech": 1790167514313,
     "news: india semiconductors": 1790164924038,
     "news: india tech policy": 1790166453655,
     "news: india telecom": 1790164460061,
-    "news: indian it majors": 1790165817690,
+    "news: indian it majors": 1790167572193,
     "news: indian it midcaps": 1790165508313,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790167348783,
@@ -17690,7 +17733,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T12:47:19.589592+00:00",
+    "last_server_run": "2026-09-23T13:03:05.873118+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T11:04:50.908073+00:00",
@@ -17830,7 +17873,7 @@
       },
       "last": {
         "calendar": "2026-09-23T10:32:54.725307+00:00",
-        "ls_reports": "2026-09-23T11:04:25.966060+00:00",
+        "ls_reports": "2026-09-23T13:04:29.445581+00:00",
         "rs_committee_press": "2026-09-23T11:04:36.604811+00:00",
         "rs_press": "2026-09-23T11:04:33.303804+00:00",
         "rs_reports": "2026-09-23T11:04:30.440524+00:00",
