@@ -7392,14 +7392,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789857980600",
-    "1789860104862",
-    "1789862903975",
-    "1789787276753",
-    "1789795748359",
-    "1789799733203",
-    "1789839377893",
-    "1789850544026",
     "1789852741390",
     "1789859319864",
     "1789862369130",
@@ -13391,10 +13383,18 @@
     "1790126002110",
     "1790126302069",
     "1790126335872",
-    "1790126368430"
+    "1790126368430",
+    "1790075820613",
+    "1790108925872",
+    "1790121512303",
+    "1790123400710",
+    "1790124114039",
+    "1790126518960",
+    "1790126779211",
+    "1790127182546"
   ],
   "last_digest_hour": "2026-09-23T07",
-  "last_success": "2026-09-23T01:32:26.140320+00:00",
+  "last_success": "2026-09-23T01:46:56.848448+00:00",
   "national": {
     "alerted": [
       {
@@ -15069,7 +15069,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T01:33:40.895522+00:00",
+    "last_run": "2026-09-23T01:49:34.601750+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17318,19 +17318,19 @@
     "microsoft india": 1789974529453,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790125200897,
+    "news: big tech platforms": 1790127182546,
     "news: consumer internet india": 1790123404315,
     "news: global ai": 1790105262430,
-    "news: global chips": 1790122383776,
+    "news: global chips": 1790126779211,
     "news: global it services": 1790120395321,
     "news: india ai deeptech": 1790126335872,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790125500091,
     "news: india semiconductors": 1790125842314,
     "news: india tech policy": 1790102341060,
-    "news: india telecom": 1790119993101,
+    "news: india telecom": 1790121512303,
     "news: indian it majors": 1790112180199,
-    "news: indian it midcaps": 1790126368430,
+    "news: indian it midcaps": 1790126518960,
     "news: pib releases": 1790119028839,
     "news: tech leaders": 1790125673902,
     "nvidia": 1790078441723,
@@ -17368,7 +17368,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T01:32:26.465843+00:00",
+    "last_server_run": "2026-09-23T01:46:57.197511+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T00:18:47.290382+00:00",
