@@ -7384,27 +7384,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789896600209",
-    "1789896616680",
-    "1789896767431",
-    "1789896975953",
-    "1789897636660",
-    "1789898233574",
-    "1789855266200",
-    "1789875300947",
-    "1789888535155",
-    "1789889040759",
-    "1789896126608",
-    "1789898141472",
-    "1789898896059",
-    "1789826625472",
-    "1789832404853",
-    "1789834439410",
-    "1789834647714",
-    "1789844340375",
-    "1789845441927",
-    "1789856853089",
-    "1789877220896",
     "1789884800391",
     "1789886103773",
     "1789886203028",
@@ -13383,10 +13362,31 @@
     "1790154675150",
     "1790155209626",
     "1790155440533",
-    "1790175594591"
+    "1790175594591",
+    "1790076480245",
+    "1790094507581",
+    "1790099564510",
+    "1790103300200",
+    "1790111269177",
+    "1790135249341",
+    "1790140693358",
+    "1790144100820",
+    "1790152961421",
+    "1790154833487",
+    "1790155339759",
+    "1790155473448",
+    "1790155742858",
+    "1790155892775",
+    "1790155928774",
+    "1790156125972",
+    "1790156325387",
+    "1790156524521",
+    "1790156606315",
+    "1790156719312",
+    "1790156783664"
   ],
   "last_digest_hour": "2026-09-23T15",
-  "last_success": "2026-09-23T09:32:26.972531+00:00",
+  "last_success": "2026-09-23T09:47:34.148933+00:00",
   "national": {
     "alerted": [
       {
@@ -14883,6 +14883,29 @@
           "men",
           "minister"
         ]
+      },
+      {
+        "at": "2026-09-23T09:50:09.073204+00:00",
+        "handle": "Gazette Ministry of Labour and Employment",
+        "headline": "Government extends Employees State Insurance scheme coverage to new districts starting October",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/276416.pdf",
+        "words": [
+          "advisory",
+          "board",
+          "central",
+          "contract",
+          "districts",
+          "employment",
+          "esi",
+          "extraordinary",
+          "gazette",
+          "gujarat",
+          "implementation",
+          "labour",
+          "ministry",
+          "scheme"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15146,9 +15169,16 @@
       "CG-TL-E-23092026-276406",
       "CG-CG-E-23092026-276409",
       "CG-MH-E-23092026-276408",
-      "CG-UP-E-23092026-276410"
+      "CG-UP-E-23092026-276410",
+      "CG-DL-E-23092026-276414",
+      "CG-DL-E-23092026-276416",
+      "CG-DL-E-23092026-276417",
+      "CG-DL-E-23092026-276418",
+      "CG-MH-E-23092026-276412",
+      "CG-OR-E-23092026-276415",
+      "SG-DL-E-23092026-276413"
     ],
-    "last_run": "2026-09-23T09:40:01.507719+00:00",
+    "last_run": "2026-09-23T09:50:09.083464+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16393,7 +16423,15 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-jay-meena-on-winning-bronze-in-mens-individual-event-and-becoming-indias-first-ever-asian-games-medallist-in-soft-tennis",
       "pib:2313857",
       "feed:http://www.niti.gov.in/node/2434",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63650"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63650",
+      "gazette:CG-DL-E-23092026-276418",
+      "gazette:CG-MH-E-23092026-276412",
+      "gazette:CG-OR-E-23092026-276415",
+      "gazette:CG-DL-E-23092026-276414",
+      "gazette:CG-DL-E-23092026-276416",
+      "gazette:SG-DL-E-23092026-276413",
+      "pib:2313871",
+      "gazette:CG-DL-E-23092026-276417"
     ],
     "source_failures": {
       "CBI": {
@@ -16407,10 +16445,6 @@
       "DGFT": {
         "count": 10,
         "until": "2026-09-23T15:21:34.412185+00:00"
-      },
-      "Gazette of India (Extraordinary)": {
-        "count": 3,
-        "until": "2026-09-23T14:52:42.816569+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -16441,7 +16475,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "TCS extends Jaguar Racing partnership as official AI partner for Formula E",
+      "post": {
+        "created_at": "2026-09-23T09:22:19+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790155339759",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Fortune India",
+        "reposts": 0,
+        "text": "TCS extends Jaguar Racing partnership, becomes official AI partner as Formula E enters GEN4 era",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJaZktOZDJhVlZzbHdBRnphSFlXeGMzOVpja2lQUzE4Mks5ZEUwZGJvcUdyaGV3LTFTMVhPZi1ESGs1Z196aXlMT3NpV1BaNEdNeW5ZOTlET0J2VzhTa0pWV0V0bUN5YmZsckVNQjZVT2FVSkZob2dhSGNRekZUOVhnX2E5anF5SVVYQ2ljQnUtaWVjNEQ2STd2Zm9kRmtiRFJ0bXpkZ0JPRXJRQnBjWXFGQUZ2ZGhNQ1BSZFhmYUI3Q29fN0ttRlFDaER0QUhwNS15ZXBEOETSAeYBQVVfeXFMT2ZRZTdGRnVmWXpxZGo3anRoZG85T1ExUnctT0FUa0kzcHIzbG1tbW9xUVFROXJnZy10cWxoSG8zT1hQM1FaUmJPMGNWOG1vbG5yQzVhSnFzN0FXaDl6UGN0UDlUNmx5QnRkdWpOcEMtdGJkY3hwanIxLVdac25ES0JjNmJzelBLWVBYSGI2dW9yMW82VXBBREF6M3Y3bnM0M2F1NEU0WTlsTWZlMEcydlpaeHRGSlYyWlEyYkpuMTViU1ZpLVAyYU5FOWNJMGRpeDRaTkNOQUdFdU9MQTdYOHd3Nll2eGc?oc=5"
+      },
+      "queued_at": "2026-09-23T09:47:34.123882+00:00",
+      "score": 7.0,
+      "why": "This is a confirmed major sports-tech partnership and contract renewal for an Indian IT major."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17425,7 +17478,7 @@
     "bse vodafone idea": 1790014934582,
     "bse wipro": 1789752283470,
     "bse zaggle": 1789743436158,
-    "capgemini": 1790072483461,
+    "capgemini": 1790156719312,
     "cognizant": 1789761743637,
     "flipkart": 1789631208994,
     "google": 1790152200603,
@@ -17443,17 +17496,17 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790155440533,
-    "news: consumer internet india": 1790154675150,
+    "news: consumer internet india": 1790156606315,
     "news: global ai": 1790129580774,
-    "news: global chips": 1790154686578,
+    "news: global chips": 1790154833487,
     "news: global it services": 1790153640973,
-    "news: india ai deeptech": 1790155042248,
+    "news: india ai deeptech": 1790155892775,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790150503903,
-    "news: india semiconductors": 1790153503395,
+    "news: india fintech": 1790156125972,
+    "news: india semiconductors": 1790156783664,
     "news: india tech policy": 1790153760321,
-    "news: india telecom": 1790151816477,
-    "news: indian it majors": 1790154586308,
+    "news: india telecom": 1790156524521,
+    "news: indian it majors": 1790155928774,
     "news: indian it midcaps": 1790155209626,
     "news: pib releases": 1790151497471,
     "news: tech leaders": 1790154205679,
@@ -17492,7 +17545,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T09:32:27.317023+00:00",
+    "last_server_run": "2026-09-23T09:47:34.471581+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T08:52:42.554768+00:00",
@@ -17789,6 +17842,10 @@
       "CG-DL-E-22092026-276402",
       "CG-DL-E-22092026-276405",
       "CG-DL-E-23092026-276407",
+      "CG-DL-E-23092026-276414",
+      "CG-DL-E-23092026-276416",
+      "CG-DL-E-23092026-276417",
+      "CG-DL-E-23092026-276418",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
@@ -17806,6 +17863,7 @@
       "CG-MH-E-22092026-276383",
       "CG-MH-E-23092026-276404",
       "CG-MH-E-23092026-276408",
+      "CG-MH-E-23092026-276412",
       "CG-MP-E-21092026-276331",
       "CG-MP-E-21092026-276365",
       "CG-MP-E-21092026-276366",
@@ -17818,6 +17876,7 @@
       "CG-OR-E-19092026-276313",
       "CG-OR-E-21092026-276335",
       "CG-OR-E-21092026-276346",
+      "CG-OR-E-23092026-276415",
       "CG-RJ-E-16092026-276272",
       "CG-RJ-E-19092026-276315",
       "CG-RJ-E-21092026-276334",
@@ -17849,7 +17908,8 @@
       "SG-DL-E-18092026-276327",
       "SG-DL-E-21092026-276375",
       "SG-DL-E-22092026-276386",
-      "SG-DL-E-22092026-276398"
+      "SG-DL-E-22092026-276398",
+      "SG-DL-E-23092026-276413"
     ],
     "seen": [
       "gazette:CG-DL-E-09092026-276081",
