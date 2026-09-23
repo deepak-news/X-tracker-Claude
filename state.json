@@ -2,24 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-19T08:33:46.460781+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Fujifilm inks semiconductor partnership with Tata Electronics for India growth",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOTUlidXpDa0tLTWJJYmQxS1VIa3ZINlFyelNyZHVVcElQSDYySEpJM04yUU5wcnpPbkJjY05vXzNCaE1Sa3BwRnlnRlhMeWlQR1QxUmk0ZVNHOVkzdUVkWExOS1UyOUlIcHZZMkM4aHpiSzZWVUtpMjFBcWpPVGRfSFFXNXQyZXJTRlZEWnZSeDBsdzdrX2dlSGJ3cDdVbVI2VVBxS2hYd1JZS2dieGk1MW5LR3BDRW5mNXJVNWtYUWpYcVdycjNMeGpYUHVBNExaZUdOY3BOWnNuTklGVE1UZEVYWG5LMWZYa0JxWnF3cXVEdy0wbW93RDU4emNROFdxUG1FZ25Ec3BwV1I2Ym9nREcySnVWQmIyZnpzOUYtRzFUcHpDOHpaOWxrUHd4OFpEOVZhOWZTZ3gyamRWSUVjMlM1QVRtV0hPc2tScUIwajNDVkE10gHwAUFVX3lxTE9SbkdSZFFDTHNDZTNQdHBCR1RCMGlLZ1pVMnVPQ19VTklsbTRpc3kyc2N3cEVIWU02NkRGenhSeG5vTFMwOTAzUkk0VkowMC1KaVp0cnNkdHgydTBMUDZpZzRXMWRVcFd4T1UwWlJpVFBYOVVLSzNUSjlvQnRPekc3R1VEekNHY0syeEVNZHV6Nkx4TFR4OVZQcUhiSTB0VTNENnplVm5Kb1pvUjVhOHpWTjBZTVRqTGhESG9WM1BwLURnV2QyTEhtM2tmTUliRGZZeHhBaGxWaVNTaktrTUQwaFF0c3BETnNWME9CS09Waw?oc=5",
-      "words": [
-        "bets",
-        "drive",
-        "electronics",
-        "fujifilm",
-        "growth",
-        "inks",
-        "pact",
-        "semiconductors",
-        "tata"
-      ]
-    },
-    {
-      "at": "2026-09-19T08:33:46.460781+00:00",
       "handle": "News: Tech leaders",
       "headline": "Nvidia CEO Jensen Huang says AI development should move fast",
       "tier": 0,
@@ -7505,15 +7487,34 @@
         "semicon",
         "supply"
       ]
+    },
+    {
+      "at": "2026-09-23T18:17:03.977893+00:00",
+      "handle": "Anthropic",
+      "headline": "Anthropic life sciences research group uses Claude to discover novel enzyme",
+      "tier": 1,
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "words": [
+        "2026",
+        "anthropic",
+        "article",
+        "claude",
+        "crispr",
+        "discovers",
+        "enzyme",
+        "group",
+        "introducing",
+        "laboratory",
+        "life",
+        "like",
+        "novel",
+        "our"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789930700848",
-    "1789931105567",
-    "1789389956032",
-    "1789847763829",
     "1789896600623",
     "1789903080479",
     "1789926850713",
@@ -13509,10 +13510,14 @@
     "1790163660147",
     "1790181783753",
     "1790186400239",
-    "1790186400962"
+    "1790186400962",
+    "1790142540176",
+    "1790169709769",
+    "1790186640177",
+    "1790187388931"
   ],
   "last_digest_hour": "2026-09-23T23",
-  "last_success": "2026-09-23T18:02:55.375187+00:00",
+  "last_success": "2026-09-23T18:17:04.177658+00:00",
   "national": {
     "alerted": [
       {
@@ -15445,7 +15450,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-23T18:04:52.170548+00:00",
+    "last_run": "2026-09-23T18:22:26.098957+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17513,6 +17518,7 @@
       "https://www.anthropic.com/events": "2026-09-17T07:46:46.024152+00:00",
       "https://www.anthropic.com/news/accenture-embedded-evaluation": "2026-09-18T20:16:37.989103+00:00",
       "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy": "2026-09-17T07:46:46.024152+00:00",
+      "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": "2026-09-23T18:16:28.022997+00:00",
       "https://www.anthropic.com/news/claude-opus-5": "2026-09-17T07:46:46.024152+00:00",
       "https://www.anthropic.com/news/claude-text-watermark": "2026-09-17T07:46:46.024152+00:00",
       "https://www.anthropic.com/news/enterprise-frontier-safeguards": "2026-09-17T07:46:46.024152+00:00",
@@ -17792,7 +17798,7 @@
     "airtel": 1790056002703,
     "amazon india": 1789988988474,
     "amd": 1788174900103,
-    "anthropic": 1790094721495,
+    "anthropic": 1790187388931,
     "apple": 1790081961621,
     "arm": 1788832833709,
     "aws": 1790115794996,
@@ -17857,7 +17863,7 @@
     "news: global it services": 1790171374941,
     "news: india ai deeptech": 1790177030459,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790181759372,
+    "news: india fintech": 1790186640177,
     "news: india semiconductors": 1790181784753,
     "news: india tech policy": 1790166453655,
     "news: india telecom": 1790170397114,
@@ -17900,7 +17906,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T18:02:55.682644+00:00",
+    "last_server_run": "2026-09-23T18:17:04.503161+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T17:34:21.416397+00:00",
