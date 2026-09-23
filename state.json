@@ -1,113 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-18T13:32:17.282499+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "PM Modi meets chip CEOs to accelerate India semiconductor push",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSE1NQkVoY3hFVjluSzB5amh3N1gyZ1p6aEQ1QU1ocUxza1Bxd1lTcmpZQUJKWW11ak4weFktaktoWndTdVhCUWJVdFlQVDhvZ1Rva2gtU3YxU3hrQWFKQWN6SVJYRC1qRHVlVkgyMDdfRXpzSGZJMjlxdk9QU2t0bmU4ZlhlS25WSW1rVlZyRjM?oc=5",
-      "words": [
-        "accelerate",
-        "calls",
-        "ceo",
-        "chip",
-        "modi",
-        "push",
-        "semiconductor"
-      ]
-    },
-    {
-      "at": "2026-09-18T13:32:17.282499+00:00",
-      "handle": "News: India tech policy",
-      "headline": "India questions Meta's intermediary status under the IT Act",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sMmNJUHNnYzhLNjlfRE1TeFlzT0p2Z0o5VUNLajUyQ3V4dGZKWUZobjVyOHZ2N2htMGh3dDlxVUh1dGJqSW9LTXZQekRmVnNKRnEwVDQ0Y0xLaHZXVmVldVpSVF9vVEVpcWprWkk0OHlaRlNCOE9GSE5Qaw?oc=5",
-      "words": [
-        "act",
-        "intermediary",
-        "meta",
-        "questions",
-        "status",
-        "under"
-      ]
-    },
-    {
-      "at": "2026-09-18T13:32:17.282499+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Ashwini Vaishnaw reports Rs 2,000 cr component exports from MSMEs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaUY5WVBFVWo3c19xaEFfcjNuYXR4VFU3WjFBTzV2elFXYWJvMnEtNWY2c1FNOWNfRGdUTnI1Q21ZV0ZWQ29RUUZnelE1YTJrUEl3SFo3dVNwZWVEc3lYZU1zNng5bkdGLWlkNmNoRk81cnR5aThXb3BDQUNQT0t2MUxKMDNkQlRaVjg2SmQtNzZRYW05NXctN2M4RTF5MS10VFRlTmpQQmJJNmkwc2ZpRks4MG1rZk5iX1JhSUdwbzNFREw4d0RaQ2Q1ZHE0dTRwUVhjMTFydGlMV0EyRUk0WlNpMWJSNlBL0gH2AUFVX3lxTFBGR1RvYTNWQ245YjFQU1c2d3o1NG0yRXZyY0FjR21IbHJ4VVNjOHFSSDFaX19vYnB3MUZLRWxpYkRnZVZqVFZFZ0RRbnk3dU5lQVRoc2RPbFdXdUpPLXZaTWNiM3lKRDk0bTVYSGVtN0ZlR0NEeVQ1STZpY2dMXzZiQ21nT2JZRXR5TGs1SFBtZ1A2ck5pYmtXY0pkaTFSU0hRNjJOWXppbVFNTWZjMWhfelJ2TDNzTEM0SUZBaFBQbVUyOXNrUnpEc2dmUU5CeUxRck1FWFRONTcteVE0NXlxaDFHNTFGTDF6eGZPUlc3ZXp4UFluZw?oc=5",
-      "words": [
-        "000",
-        "ashwini",
-        "component",
-        "exports",
-        "manufacturing",
-        "msme",
-        "precision",
-        "push",
-        "semiconductor",
-        "spurs",
-        "vaishnaw"
-      ]
-    },
-    {
-      "at": "2026-09-18T13:32:17.282499+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Vikram Misri speaks on semiconductor partnerships and self-reliance",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMmt1eVhGMkdTMGdveUptaVkySGdXUk5EUkhZbktxNHFmY2lRMU5FaHhCZ0w3SWtMR21KSE5mWDhlMjdja2NLQ2Zfa3NKVFZmZVhzRFNES0M4X2FSTkhQeXBocmJpMGotNzR6azJvajluWm9sUWp1LXJ3VkdxcHlESkJzc3JEbHhiTmFqTGV1Mkk1dmdWVjZJMFRuTHJRaUg3eG0yTHRwd2NrVmdCQnZ3NWc4Q1lKaVZRSlM0WUkweFpNUkptYndxVEJOVEp4R3NVZ1ZVWVZGOVZZdVRaVmRKOFdLRVZUOEZwcDRITkFyNExBVXRt0gH6AUFVX3lxTE9aUVZfSk9CcTBfTnY5MHVZYmJUUGJEd0RBMmRvaEZQdDVCQ1R3NE5xeVprWnl0YU5aTS11R3NIR2FiemtxOVlGVHpqb3d2YWdWX1NPRVc0N0NSUG40LVZsd2RaYVN5TUg5MkhxcHBBT3pjTGRNc2ZNWVNibWNqOWd0QVNSTGFlbHZNUDhTcklQYzhXa3NTWTR1aHJ5NnA4eDROVS0wQ25NZm1wbWxHX3N1c29rVjJsT0RsbzBNRHZzY2E5bzBzaUtXOGFVUEpDelBIc2pFUXZ1SWdxZXF2Mmpld1g0TjBqVDd2T0pXX0xHdlMxVXhhdlFNY3c?oc=5",
-      "words": [
-        "doesn",
-        "everything",
-        "made",
-        "mean",
-        "misri",
-        "partnerships",
-        "reliance",
-        "self",
-        "semiconductor",
-        "vikram"
-      ]
-    },
-    {
-      "at": "2026-09-18T13:32:17.282499+00:00",
-      "handle": "News: India tech policy",
-      "headline": "SEMI and IDTA to launch India Semiconductor Academy",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0FhSUF5UVpYNmdDZ1c2cWRONFVlVndkMWRJR2tfb2QtY2Faa1pYbDVqUDdyT0cyQjNmYUFfVHBWQ3Z5elFFRU9IZ1FkZDJaY0VtNGdyQVkybHh1Z3ZmSlphYTVGZGxyQU1aU2ZEZlM5NjQzdGNMaWJvYUU1OGd4OWctZlJBQVlQR3Q3MUkwaXR3eU9FQktwNFBfbUxRMkQwVWJKMEpSdkR0X2tXQ3BqYjExaFF6YlNYbWd1d25nal9FMnRmS3BLbDJWd1pyX3FTVFRhTnNHN2VDMnAxd0JBWm5B0gHiAUFVX3lxTE1rQWFJQXlRWlg2Z0NnVzZxZE40VWVWd2QxZElHa19vZC1jYVprWlhsNWpQN3JPRzJCM2ZhQV9UcFZDdnl6UUVFT0hnUWRkMlpjRW00Z3JBWTJseHVndmZKWmFhNUZkbHJBTVpTZkRmUzk2NDN0Y0xpYm9hRTU4Z3g5Zy1mUkFBWVBHdDcxSTBpdHd5T0VCS3A0UF9tTFEyRDBVYkowSlJ2RHRfa1dDcGpiMTFoUXpiU1htZ3V3bmdqX0UydGZLcEtsMlZ3WnJfcVNUVGFOc0c3ZUMycDF3QkFabkE?oc=5",
-      "words": [
-        "academy",
-        "alliance",
-        "deep",
-        "idta",
-        "launch",
-        "semi",
-        "semiconductor",
-        "tech"
-      ]
-    },
-    {
-      "at": "2026-09-18T14:32:26.643915+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "ADIA arm to sell Rs 2,047-crore Lenskart stake via block deal",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaF9xOHhCOTN0LTcxS0t0Y25CMzREUXJib3JzQ0lEaEFQT0E1Y1lXdU1zR280LUFaU292cmlFZnVjN3RrSTdkek5RX2hKRDczZXJ6enFpaVlzUk4xV3E5VFgzRHFxNE9zbDdQYURjTXltUmI5eWhPSk04aUpQMWh1NzBlakdabTFUdTFrb251aEtlNDJ5ZXVNaEw0OWJQVFB1QWw5VnA5VTctbE9uVGROUVVPRVRueGhjVVNjVlNBOGc0MXNOc0JaadIB0AFBVV95cUxOVUZnbS1WcThwc1FkcFR1a0VDUnAxdGUxZHdtNlVac1pVNXVRbU5lU2p0MFJ3M0ktZFBYaXJJYkJ2T1Z2ZlBiUF95dGxzSVFWYUY2RFk4em9OdmRmVFpKVFoxbFB3X2kxNS1EcnZ1dzJMUFM3V2R0ZmMwbWZCZUIwcXEzb1NzcHNkVlVEUjJndDV1d0pSNGZUamVSbFRvTmF4RUdEYWFfQnRULWFwTmZ5dElULXlOanpHQmw1Z3JocHFMY2t1b2NlSkNGNjQ3UnQz?oc=5",
-      "words": [
-        "047",
-        "adia",
-        "arm",
-        "block",
-        "deal",
-        "discount",
-        "lenskart",
-        "say",
-        "sell",
-        "sources",
-        "stake"
-      ]
-    },
-    {
       "at": "2026-09-18T14:32:26.643915+00:00",
       "handle": "News: India semiconductors",
       "headline": "Kaynes Technology targets $1B OSAT expansion and semiconductor revenue",
@@ -7376,35 +7269,121 @@
         "technologies",
         "ubifly"
       ]
+    },
+    {
+      "at": "2026-09-23T09:32:26.944542+00:00",
+      "handle": "News: PIB releases",
+      "headline": "India makes significant progress in training semiconductor engineers under C2S",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sbS0xc29aZFBIZzZIa2dMRW1tUExkV2UtYWV4TGV1RjhpRE9BLVY5ellOQURBc2YwaDZHOEdTSzJIck9aZmttdXFWRWZhb2w2NHViRDAySlB3OTZsb3AzWkdlSkZsMWJ5U0NaT2FyYXQ?oc=5",
+      "words": [
+        "000",
+        "c2s",
+        "chips",
+        "engineers",
+        "made",
+        "progress",
+        "semiconductor",
+        "significant",
+        "startups",
+        "target",
+        "towards",
+        "training",
+        "under"
+      ]
+    },
+    {
+      "at": "2026-09-23T09:32:26.944542+00:00",
+      "handle": "News: India fintech",
+      "headline": "Traders oppose proposed 0.4% UPI MDR over business impact concerns",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2FOeHNlcXZRdktUT2lldVB4RzI1V041WHlUbm1xNVNyNVQtWl9TVW91WjJWTDZ3djBCdlV5eHFGNFJDako2R0xxOTNqd1B5ZFJEWHZoRDR4NHRTNUtnaEFGc1N4MmJ4M004cHl6SUszSDg0V1p5MlM1bE0xNkxVYzduN2NkLXllN0owWUVFLU1ObnVZSlZ1NTMwMHVjOVJTeXROR1lLLTY0YVNJd2JIdl9fVVR3U1JPX094bmtPT3RvbmxZT01j0gHMAUFVX3lxTE9COUhSZXFSdjZWV0UtVVJCanRVT25qeUtIX3ZpMVhxMWFFRDUxSEpBNEE4ZWNGd2tVZUNQQXgwM29YaGtOOWl6ZE9ZZi15cmxhZ1JJcDJvTU81aUR4NDNBVnUyS2o0cDZIQXliWGROdkNiY0dMc0RMMWl0Sk1JNm9nWmdqcVRpeHNxTFFWSnV1YUp3a00xOFVBeE9vRk1RNTJWd1JybnozVmJFaFdiR2EtUUdmU3FDMWczLUtzQnFNNkdnWVduNUlkLWl0SA?oc=5",
+      "words": [
+        "affect",
+        "business",
+        "cash",
+        "charge",
+        "could",
+        "extra",
+        "high",
+        "may",
+        "mdr",
+        "oppose",
+        "prefer",
+        "proposed",
+        "say",
+        "some"
+      ]
+    },
+    {
+      "at": "2026-09-23T09:32:26.944542+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "BSE to replace Wipro in NIFTY 50 index reshuffle",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWWJIX05wWmJoa1draV81TjNMX3VHcEFBMndZbmVTR2dmTGZiMm5SbTI1ODlMaGNoUkY2ejFLSXZTNVBFdjVpX2pBR2tVTVBfX3FlMVFjNkFpcVJvVUtFbWcyLXBzMklTMUFMRWVwZDM3MUgtQlhKYVFudFhGLUl5N2UxcTNiQ0JMc3pKdGlsVmg1ZTViY0k3RmdBZm5TSjh2bHBDMG1zaFRSU2c1cW9ZTG9mU01HdEFuaWFhM1RPWmdHanJ1eGVjTXYxVFo?oc=5",
+      "words": [
+        "bse",
+        "impact",
+        "index",
+        "nifty50",
+        "prices",
+        "replace",
+        "reshuffles",
+        "wipro"
+      ]
+    },
+    {
+      "at": "2026-09-23T09:32:26.944542+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "NX Group signs MOU with ISM for semiconductor logistics",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGUwWVFUYjk3cVpsMncyQnFQaVNYYmZJRHg0SWdjSnhwZC1LVzhEYkFBUXVTVUZZMDVVZEdkWDV1ZHlmeEtLYVlyZHYyV1NVX25SeUJJSmpEeGJQUGhfVmpRMmgzSEM2Q256X0ZkX2UzZms1UXBwU05YQ0JnYm9pR2lnajdYT1RzaHJrUHZRNGplMElJdjU2YdIBngFBVV95cUxOZF9lVTVZOExra0FxdUhWdWtGZ0c2Vy1uMHhaelZoRy1kUUZrVnNlT3hCd3BIREw1OGZaV2V2a1JRXzRjUUpJRkZMY3JyYTdJTlJ6cTVxTUVpd25ENVFkTnBBVlRoczc4ckZkeVIzYU9ZSmhTOGF1VkI1WXRuV1phSUVoYTBCZG9Xb2hwNDVLelFqNUF6N3A1RXZqWlVsdw?oc=5",
+      "words": [
+        "group",
+        "ism",
+        "logistics",
+        "mou",
+        "semiconductor",
+        "signs"
+      ]
+    },
+    {
+      "at": "2026-09-23T09:32:26.944542+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Jindal Stainless and Nasscom partner for workforce upskilling",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcEZhb1FPRHExbERHUHNDelktN1o2MlkxM004bmhhdXp4aHFHbnZVTC1teHdkM01iX195WVRaTnl5UE5Gd0VnU1RTVFNEMGxKSHg3M2o3aGtIT1pQN2NzV1BvWWtFRVowa1dnaks2VUN2bldqOVJRX1VQMklRcHdvMnJlZG1pOTA3VFdnVFRRdmNiY2hFbWt6TGg1UjR2ZzEzb2xqVlFiNlhkcEkwVWpNSnY3dmxDVG1GYlltT2tjSXBnd1VQNVdOaGtBRXhLU1NiRXNqSm1iNEFQUjlpMUZERTFpd1FPMGVfSDl2Zm5hakQ3dHR1T3MtTmJob0QtUTg1WU92QVN0Z1JrSFFic01ndEN3Ukp5N1FYWlpUMDltYTV2OEHSAe8BQVVfeXFMTURabERmT1QtRHZqMzJZRmJjM29KN3RHSnh2eFBwWU1hdW9WbWRPZGxvTjBlSVMzMFh3U2ZQSGR6eFJZb3hFckVoby1nM09KZDhqaXlhRDd0aFk3R2dWbXRfbkxHaEJOS19iVF94WjlYZlBfLXk0Xy00TnVEcmFYRmVRWEhYa2dBQUFxT1JzZXY1NHg5SktNeHNKSGVfN243SEZ6RG0yUG52NjVEX2M5VnE1WFlYWW1SRjM3c2Q0Wl94RzdHelhOUUl0M2pTSW16Q0FrTjhCamx5ZVdsMU8zTmdUUkxGV3FFMXNJZmstbkU?oc=5",
+      "words": [
+        "cloud",
+        "cybersecurity",
+        "jindal",
+        "nasscom",
+        "partner",
+        "stainless",
+        "upskill",
+        "workforce"
+      ]
+    },
+    {
+      "at": "2026-09-23T09:32:26.944542+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "LTIMindtree launches Blueverse SovereignSphere models for enterprise AI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZENQbWRBSjhRTC1LeGNDYnNjRVFEeEJfa01zY09zcXlHQUFyNTNRYU5feDljUmc0R05uYWd4bEh0RThpN0JMQmYxcFEtajFWVllWUU8yQ0FiUzlMZlF5a215RVkyR1ZBYThwM21PYUViVWprZGNIZm4tbXMtSTJ3dWhGTHA0dmJPODhWdGZ1cFJ0enJHR0V5Z09nSzRGcERNcExENFJwZWRjbFYyMFFuSlBvUmFfcFhwMFdtZkNUc2h6bVI3aFFmYjRydk9jVHJ0d2JYV3NRbUtURDlrSEJmQ0hNTDROVllXNXc?oc=5",
+      "words": [
+        "blueverse",
+        "capabilities",
+        "enterprise",
+        "launches",
+        "ltimindtree",
+        "models",
+        "sovereignsphere"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789895480817",
-    "1789895613468",
-    "1789895755395",
-    "1789896026023",
-    "1789896252953",
-    "1789817251805",
-    "1789825308465",
-    "1789858854166",
-    "1789870876281",
-    "1789875644696",
-    "1789878182174",
-    "1789882500088",
-    "1789883231847",
-    "1789895741672",
-    "1789896767222",
-    "1789842113224",
-    "1789844475927",
-    "1789852613553",
-    "1789891200819",
-    "1789893394804",
-    "1789894412693",
-    "1789894734435",
-    "1789895163670",
-    "1789895613056",
     "1789896600209",
     "1789896616680",
     "1789896767431",
@@ -13380,10 +13359,34 @@
     "1790154205679",
     "1790154586308",
     "1790154686578",
-    "1790155042248"
+    "1790155042248",
+    "1790076458761",
+    "1790076463686",
+    "1790077021358",
+    "1790083838819",
+    "1790093400835",
+    "1790103300702",
+    "1790114782112",
+    "1790121478515",
+    "1790134846389",
+    "1790143920110",
+    "1790147010179",
+    "1790148044489",
+    "1790148856756",
+    "1790149162480",
+    "1790149231442",
+    "1790149654480",
+    "1790150666294",
+    "1790150769568",
+    "1790151816477",
+    "1790153874662",
+    "1790154675150",
+    "1790155209626",
+    "1790155440533",
+    "1790175594591"
   ],
-  "last_digest_hour": "2026-09-23T14",
-  "last_success": "2026-09-23T09:19:29.119941+00:00",
+  "last_digest_hour": "2026-09-23T15",
+  "last_success": "2026-09-23T09:32:26.972531+00:00",
   "national": {
     "alerted": [
       {
@@ -15145,7 +15148,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T09:24:33.528298+00:00",
+    "last_run": "2026-09-23T09:40:01.507719+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16388,7 +16391,9 @@
       "pib:2313848",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-by-union-minister-shri-bhupender-yadav-highlighting-efforts-strengthening-the-conservation-journey-of-the-greater-one-horned-rhinoceros",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-jay-meena-on-winning-bronze-in-mens-individual-event-and-becoming-indias-first-ever-asian-games-medallist-in-soft-tennis",
-      "pib:2313857"
+      "pib:2313857",
+      "feed:http://www.niti.gov.in/node/2434",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63650"
     ],
     "source_failures": {
       "CBI": {
@@ -16436,98 +16441,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "India makes significant progress in training semiconductor engineers under C2S",
-      "post": {
-        "created_at": "2026-09-23T06:56:40+00:00",
-        "handle": "News: PIB releases",
-        "id": "1790146600467",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "PIB",
-        "reposts": 0,
-        "text": "Under Chips to Startups (C2S), India made significant progress towards its target of training 85,000 semiconductor engineers;",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sbS0xc29aZFBIZzZIa2dMRW1tUExkV2UtYWV4TGV1RjhpRE9BLVY5ellOQURBc2YwaDZHOEdTSzJIck9aZmttdXFWRWZhb2w2NHViRDAySlB3OTZsb3AzWkdlSkZsMWJ5U0NaT2FyYXQ?oc=5"
-      },
-      "queued_at": "2026-09-23T08:50:01.253507+00:00",
-      "score": 7.0,
-      "why": "Official update on government semiconductor skilling targets directly impacts the domestic chip ecosystem."
-    },
-    {
-      "headline": "Traders oppose proposed 0.4% UPI MDR over business impact concerns",
-      "post": {
-        "created_at": "2026-09-23T07:58:06+00:00",
-        "handle": "News: India fintech",
-        "id": "1790150286066",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bhaskar English",
-        "reposts": 0,
-        "text": "Traders oppose proposed 0.4% UPI MDR: Say extra charge could affect business; some may prefer cash for high...",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2FOeHNlcXZRdktUT2lldVB4RzI1V041WHlUbm1xNVNyNVQtWl9TVW91WjJWTDZ3djBCdlV5eHFGNFJDako2R0xxOTNqd1B5ZFJEWHZoRDR4NHRTNUtnaEFGc1N4MmJ4M004cHl6SUszSDg0V1p5MlM1bE0xNkxVYzduN2NkLXllN0owWUVFLU1ObnVZSlZ1NTMwMHVjOVJTeXROR1lLLTY0YVNJd2JIdl9fVVR3U1JPX094bmtPT3RvbmxZT01j0gHMAUFVX3lxTE9COUhSZXFSdjZWV0UtVVJCanRVT25qeUtIX3ZpMVhxMWFFRDUxSEpBNEE4ZWNGd2tVZUNQQXgwM29YaGtOOWl6ZE9ZZi15cmxhZ1JJcDJvTU81aUR4NDNBVnUyS2o0cDZIQXliWGROdkNiY0dMc0RMMWl0Sk1JNm9nWmdqcVRpeHNxTFFWSnV1YUp3a00xOFVBeE9vRk1RNTJWd1JybnozVmJFaFdiR2EtUUdmU3FDMWczLUtzQnFNNkdnWVduNUlkLWl0SA?oc=5"
-      },
-      "queued_at": "2026-09-23T08:50:01.253507+00:00",
-      "score": 7.0,
-      "why": "Ongoing stakeholder resistance and pushback regarding the debated UPI merchant discount rate changes."
-    },
-    {
-      "headline": "BSE to replace Wipro in NIFTY 50 index reshuffle",
-      "post": {
-        "created_at": "2026-09-23T08:28:26+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1790152106581",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Upstox",
-        "reposts": 0,
-        "text": "BSE to replace Wipro in NIFTY50: How index reshuffles impact stock prices",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWWJIX05wWmJoa1draV81TjNMX3VHcEFBMndZbmVTR2dmTGZiMm5SbTI1ODlMaGNoUkY2ejFLSXZTNVBFdjVpX2pBR2tVTVBfX3FlMVFjNkFpcVJvVUtFbWcyLXBzMklTMUFMRWVwZDM3MUgtQlhKYVFudFhGLUl5N2UxcTNiQ0JMc3pKdGlsVmg1ZTViY0k3RmdBZm5TSjh2bHBDMG1zaFRSU2c1cW9ZTG9mU01HdEFuaWFhM1RPWmdHanJ1eGVjTXYxVFo?oc=5"
-      },
-      "queued_at": "2026-09-23T08:50:01.253507+00:00",
-      "score": 7.0,
-      "why": "Major benchmark index change involving a top-tier Indian IT services major."
-    },
-    {
-      "headline": "NX Group signs MOU with ISM for semiconductor logistics",
-      "post": {
-        "created_at": "2026-09-23T07:36:03+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1790148963616",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Indian Transport & Logistics",
-        "reposts": 0,
-        "text": "NX Group signs MOU with ISM for semiconductor logistics",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGUwWVFUYjk3cVpsMncyQnFQaVNYYmZJRHg0SWdjSnhwZC1LVzhEYkFBUXVTVUZZMDVVZEdkWDV1ZHlmeEtLYVlyZHYyV1NVX25SeUJJSmpEeGJQUGhfVmpRMmgzSEM2Q256X0ZkX2UzZms1UXBwU05YQ0JnYm9pR2lnajdYT1RzaHJrUHZRNGplMElJdjU2YdIBngFBVV95cUxOZF9lVTVZOExra0FxdUhWdWtGZ0c2Vy1uMHhaelZoRy1kUUZrVnNlT3hCd3BIREw1OGZaV2V2a1JRXzRjUUpJRkZMY3JyYTdJTlJ6cTVxTUVpd25ENVFkTnBBVlRoczc4ckZkeVIzYU9ZSmhTOGF1VkI1WXRuV1phSUVoYTBCZG9Xb2hwNDVLelFqNUF6N3A1RXZqWlVsdw?oc=5"
-      },
-      "queued_at": "2026-09-23T09:04:32.351185+00:00",
-      "score": 7.0,
-      "why": "New partnership in the Indian semiconductor supply chain ecosystem."
-    },
-    {
-      "headline": "Jindal Stainless and Nasscom partner for workforce upskilling",
-      "post": {
-        "created_at": "2026-09-23T07:40:31+00:00",
-        "handle": "News: India tech policy",
-        "id": "1790149231201",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ET Manufacturing",
-        "reposts": 0,
-        "text": "Jindal Stainless, Nasscom partner to upskill workforce on AI, cloud, cybersecurity",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcEZhb1FPRHExbERHUHNDelktN1o2MlkxM004bmhhdXp4aHFHbnZVTC1teHdkM01iX195WVRaTnl5UE5Gd0VnU1RTVFNEMGxKSHg3M2o3aGtIT1pQN2NzV1BvWWtFRVowa1dnaks2VUN2bldqOVJRX1VQMklRcHdvMnJlZG1pOTA3VFdnVFRRdmNiY2hFbWt6TGg1UjR2ZzEzb2xqVlFiNlhkcEkwVWpNSnY3dmxDVG1GYlltT2tjSXBnd1VQNVdOaGtBRXhLU1NiRXNqSm1iNEFQUjlpMUZERTFpd1FPMGVfSDl2Zm5hakQ3dHR1T3MtTmJob0QtUTg1WU92QVN0Z1JrSFFic01ndEN3Ukp5N1FYWlpUMDltYTV2OEHSAe8BQVVfeXFMTURabERmT1QtRHZqMzJZRmJjM29KN3RHSnh2eFBwWU1hdW9WbWRPZGxvTjBlSVMzMFh3U2ZQSGR6eFJZb3hFckVoby1nM09KZDhqaXlhRDd0aFk3R2dWbXRfbkxHaEJOS19iVF94WjlYZlBfLXk0Xy00TnVEcmFYRmVRWEhYa2dBQUFxT1JzZXY1NHg5SktNeHNKSGVfN243SEZ6RG0yUG52NjVEX2M5VnE1WFlYWW1SRjM3c2Q0Wl94RzdHelhOUUl0M2pTSW16Q0FrTjhCamx5ZVdsMU8zTmdUUkxGV3FFMXNJZmstbkU?oc=5"
-      },
-      "queued_at": "2026-09-23T09:04:32.351185+00:00",
-      "score": 7.0,
-      "why": "A formal partnership agreement between a major manufacturer and industry body on AI and cloud training."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17503,7 +17417,7 @@
     "bse reliance": 1790018277391,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1790077442426,
-    "bse tata communications": 1789576462217,
+    "bse tata communications": 1790175594591,
     "bse tata elxsi": 1789747769538,
     "bse tcs": 1790170279765,
     "bse tech mahindra": 1789829712677,
@@ -17528,8 +17442,8 @@
     "microsoft india": 1790139139461,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790151540426,
-    "news: consumer internet india": 1790153970150,
+    "news: big tech platforms": 1790155440533,
+    "news: consumer internet india": 1790154675150,
     "news: global ai": 1790129580774,
     "news: global chips": 1790154686578,
     "news: global it services": 1790153640973,
@@ -17538,9 +17452,9 @@
     "news: india fintech": 1790150503903,
     "news: india semiconductors": 1790153503395,
     "news: india tech policy": 1790153760321,
-    "news: india telecom": 1790150475371,
+    "news: india telecom": 1790151816477,
     "news: indian it majors": 1790154586308,
-    "news: indian it midcaps": 1790152787213,
+    "news: indian it midcaps": 1790155209626,
     "news: pib releases": 1790151497471,
     "news: tech leaders": 1790154205679,
     "nvidia": 1790130622802,
@@ -17578,7 +17492,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T09:19:29.438965+00:00",
+    "last_server_run": "2026-09-23T09:32:27.317023+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T08:52:42.554768+00:00",
