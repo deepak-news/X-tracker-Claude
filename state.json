@@ -7510,12 +7510,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789921680567",
-    "1789921680614",
-    "1789924113744",
-    "1789928788894",
-    "1789929153686",
-    "1789930619859",
     "1789930700848",
     "1789931105567",
     "1789389956032",
@@ -13509,10 +13503,16 @@
     "1790184050202",
     "1790168832758",
     "1790178302933",
-    "1790181759372"
+    "1790181759372",
+    "1790159580171",
+    "1790160361823",
+    "1790163660147",
+    "1790181783753",
+    "1790186400239",
+    "1790186400962"
   ],
   "last_digest_hour": "2026-09-23T23",
-  "last_success": "2026-09-23T17:47:14.127646+00:00",
+  "last_success": "2026-09-23T18:02:55.375187+00:00",
   "national": {
     "alerted": [
       {
@@ -15441,9 +15441,11 @@
       "CG-DL-E-23092026-276449",
       "CG-DL-E-23092026-276450",
       "CG-DL-E-23092026-276451",
-      "CG-MH-E-23092026-276452"
+      "CG-MH-E-23092026-276452",
+      "CG-DL-E-23092026-276444",
+      "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-23T17:49:35.761091+00:00",
+    "last_run": "2026-09-23T18:04:52.170548+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16779,7 +16781,9 @@
       "gazette:CG-DL-E-23092026-276447",
       "gazette:CG-DL-E-23092026-276451",
       "gazette:CG-DL-E-23092026-276446",
-      "gazette:CG-MH-E-23092026-276452"
+      "gazette:CG-MH-E-23092026-276452",
+      "gazette:CG-DL-E-23092026-276444",
+      "gazette:CG-DL-E-23092026-276448"
     ],
     "source_failures": {
       "CBI": {
@@ -17832,7 +17836,7 @@
     "capgemini": 1790169480467,
     "cognizant": 1790161361396,
     "flipkart": 1789631208994,
-    "google": 1790179200762,
+    "google": 1790186400962,
     "google cloud": 1790150400424,
     "google deepmind": 1790179257868,
     "google india": 1790173800880,
@@ -17896,7 +17900,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T17:47:14.448419+00:00",
+    "last_server_run": "2026-09-23T18:02:55.682644+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T17:34:21.416397+00:00",
@@ -18216,9 +18220,11 @@
       "CG-DL-E-23092026-276440",
       "CG-DL-E-23092026-276442",
       "CG-DL-E-23092026-276443",
+      "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276445",
       "CG-DL-E-23092026-276446",
       "CG-DL-E-23092026-276447",
+      "CG-DL-E-23092026-276448",
       "CG-DL-E-23092026-276449",
       "CG-DL-E-23092026-276450",
       "CG-DL-E-23092026-276451",
@@ -18424,7 +18430,9 @@
       "gazette:CG-DL-E-23092026-276442|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-23092026-276447|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-23092026-276445|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-23092026-276447|GAZETTE_DESKS:law"
+      "gazette:CG-DL-E-23092026-276447|GAZETTE_DESKS:law",
+      "gazette:CG-DL-E-23092026-276448|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-23092026-276444|GAZETTE_MAIL_TO"
     ]
   }
 }
