@@ -7506,15 +7506,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789923139670",
-    "1789923172772",
-    "1789923261295",
-    "1789923640485",
-    "1789838594839",
-    "1789846966404",
-    "1789853233999",
-    "1789859684954",
-    "1789881018656",
     "1789884917041",
     "1789887915821",
     "1789889040658",
@@ -13505,10 +13496,19 @@
     "1790170413328",
     "1790190080707",
     "1790190241946",
-    "1790191297650"
+    "1790191297650",
+    "1790149007588",
+    "1790156047685",
+    "1790166919191",
+    "1790167191825",
+    "1790167514059",
+    "1790171374941",
+    "1790172030463",
+    "1790172384950",
+    "1790192465760"
   ],
   "last_digest_hour": "2026-09-23T19",
-  "last_success": "2026-09-23T14:04:59.535565+00:00",
+  "last_success": "2026-09-23T14:17:56.747482+00:00",
   "national": {
     "alerted": [
       {
@@ -15353,9 +15353,10 @@
       "CG-DL-E-23092026-276424",
       "CG-DL-E-23092026-276425",
       "CG-DL-E-23092026-276426",
-      "CG-DL-E-23092026-276429"
+      "CG-DL-E-23092026-276429",
+      "CG-DL-E-23092026-276430"
     ],
-    "last_run": "2026-09-23T14:11:37.596714+00:00",
+    "last_run": "2026-09-23T14:20:57.941677+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16652,15 +16653,14 @@
       "pib:2314109",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63652",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-vaisava-nava-nairamaana",
-      "pib:2314122"
+      "pib:2314122",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
+      "gazette:CG-DL-E-23092026-276430"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "CERT-In": {
-        "count": 1
       },
       "DGFT": {
         "count": 10,
@@ -16713,6 +16713,60 @@
       "queued_at": "2026-09-23T14:04:59.506164+00:00",
       "score": 7.0,
       "why": "Significant enterprise deal win by an Indian IT/software product firm."
+    },
+    {
+      "headline": "Wipro Aerospace appoints Karthik Krishnamurthy as Global CEO",
+      "post": {
+        "created_at": "2026-09-23T12:39:51+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790167191825",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "ETHRWorld",
+        "reposts": 0,
+        "text": "Wipro Aerospace appoints Karthik Krishnamurthy as Global CEO",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSENYRGhmT2JuYy1KUlIxMGxFNkFTSzBxY2dEbExBSTV2VHdIV09WdlQ4WlRmY19YNFZfSmVmMS11SHJ6X2NubXhCeGxNQk0tYzlicWtuYlQxaGlkbDBoQXQtNUhQWFJ1MWVCUHpiSlhSaXA0OXhzSElfdm9sWlFMLWFiWTc2VlA0VFFfdXpqeWZBRHhITHZOdS05VjdUa2JYcmdxWVFmdW9jdWtuYk1QVDB3eXNvbWJkUkpHaUNhaHVGTDdiRnpR0gHHAUFVX3lxTE9IQ1hEaGZPYm5jLUpSUjEwbEU2QVNLMHFjZ0RsTEFJNXZUd0hXT1Z2VDhaVGZjX1g0Vl9KZWYxLXVIcnpfY25teEJ4bE1CTS1jOWJxa25iVDFoaWRsMGhBdC01SFBYUnUxZUJQemJKWFJpcDQ5eHNISV92b2xaUUwtYWJZNzZWUDRUUV91emp5ZkFEeEhMdk51LTlWN1RrYlhyZ3FZUWZ1b2N1a25iTVBUMHd5c29tYmRSSkdpQ2FodUZMN2JGelE?oc=5"
+      },
+      "queued_at": "2026-09-23T14:17:56.723549+00:00",
+      "score": 8.0,
+      "why": "Major leadership change at an Indian IT major's subsidiary."
+    },
+    {
+      "headline": "Fuel Cycle opens Navi Mumbai GCC to scale AI teams",
+      "post": {
+        "created_at": "2026-09-23T12:45:14+00:00",
+        "handle": "News: India fintech",
+        "id": "1790167514059",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "Fuel Cycle opens Navi Mumbai GCC, plans to scale AI and product teams",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQW1qVUdFMlFPX2poSDVuc2hHUTdScDNfTGU3MlE2NEdTTVVxbUFhVWl2YW1FSEVrRnlRWmFpYzFhVnBWeldnbGVsXy1vVDZOS3EtY0VlaVdvNG04Sk1MVTFCMHYxbTBPaGJOUm5GMC1tNWExcy1qVkhCekJ5WlllRGhtbVBNMDY2ay1YNlpDYmpJVEMxTUp0VHVDVkNlTWFuSm1WZkRKM05YZzNLd2NhV1MzbXJHR2NYVTV5U3UyNjlObEpIWVV2d3dRU1hCcUNaSFQtVjZfNFdvWTg0Q3dHNWVXY3pNYXPSAecBQVVfeXFMTkFtalVHRTJRT19qaEg1bnNoR1E3UnAzX0xlNzJRNjRHU01VcW1BYVVpdmFtRUhFa0Z5UVphaWMxYVZwVnpXZ2xlbF8tb1Q2TktxLWNFZWlXbzRtOEpNTFUxQjB2MW0wT2hiTlJuRjAtbTVhMXMtalZIQnpCeVpZZURobW1QTTA2NmstWDZaQ2JqSVRDMU1KdFR1Q1ZDZU1hbkptVmZESjNOWGczS3djYVdTM21yR0djWFU1eVN1MjY5TmxKSFlVdnd3UVNYQnFDWkhULVY2XzRXb1k4NEN3RzVlV2N6TWFz?oc=5"
+      },
+      "queued_at": "2026-09-23T14:17:56.723549+00:00",
+      "score": 7.0,
+      "why": "New global capability center and expansion commitment in India."
+    },
+    {
+      "headline": "Accenture leases over 560,000 sq ft office space in Bengaluru",
+      "post": {
+        "created_at": "2026-09-23T13:49:34+00:00",
+        "handle": "News: Global IT services",
+        "id": "1790171374941",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "Accenture leases over 560,000 sq ft office space in Bengaluru for \u20b9269 cr",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb2JoUVU0ZmZubkZDWUtNN0g3bllXaVJDSHl5WGpDWWQ4cnJqWGUxSHVDN3ZvbVc0TFFsTmlCTmVjeTF6c0lLbTU2Zk5fX040SnN3aU9zNGlPdVYtRVdxV2lzX3A1aE9vOUc5anJkanFWcy11blZ5SUhZMkdaY1hkdFpCeUNiQ2l5ei1HOHBzMnVLYXRSTnNRRllwN1lGdUtWaEFHNG9DbEVLUDZCdmE3RUZQbnZQT2JBU0RyUmVoVWNHQ21xSVo4a0N5WWxpX3dFVWZxcGpZbmUwS1JpWnfSAd4BQVVfeXFMUG9iaFFVNGZmbm5GQ1lLTTdIN25ZV2lSQ0h5eVhqQ1lkOHJyalhlMUh1Qzd2b21XNExRbE5pQk5lY3kxenNJS201NmZOX19ONEpzd2lPczRpT3VWLUVXcVdpc19wNWhPbzlHOWpyZGpxVnMtdW5WeUlIWTJHWmNYZHRaQnlDYkNpeXotRzhwczJ1S2F0Uk5zUUZZcDdZRnVLVmhBRzRvQ2xFS1A2QnZhN0VGUG52UE9iQVNEclJlaFVjR0NtcUlaOGtDeVlsaV93RVVmcXBqWW5lMEtSaVp3?oc=5"
+      },
+      "queued_at": "2026-09-23T14:17:56.723549+00:00",
+      "score": 7.0,
+      "why": "Large commercial real estate lease and expansion by a major IT services firm in India."
     }
   ],
   "page_links": {
@@ -17692,7 +17746,7 @@
     "bse nykaa": 1790190241946,
     "bse ola electric": 1790191297650,
     "bse paytm": 1789578149191,
-    "bse persistent": 1790189028607,
+    "bse persistent": 1790192465760,
     "bse reliance": 1790189669726,
     "bse swiggy": 1788801394767,
     "bse syrma sgs": 1790077442426,
@@ -17725,10 +17779,10 @@
     "news: consumer internet india": 1790169709040,
     "news: global ai": 1790167028006,
     "news: global chips": 1790168700128,
-    "news: global it services": 1790168397049,
-    "news: india ai deeptech": 1790169686724,
+    "news: global it services": 1790171374941,
+    "news: india ai deeptech": 1790172030463,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790170413328,
+    "news: india fintech": 1790172384950,
     "news: india semiconductors": 1790169160307,
     "news: india tech policy": 1790166453655,
     "news: india telecom": 1790170397009,
@@ -17771,7 +17825,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T14:04:59.872457+00:00",
+    "last_server_run": "2026-09-23T14:17:57.003374+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T13:18:45.592524+00:00",
@@ -18080,6 +18134,7 @@
       "CG-DL-E-23092026-276427",
       "CG-DL-E-23092026-276428",
       "CG-DL-E-23092026-276429",
+      "CG-DL-E-23092026-276430",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
