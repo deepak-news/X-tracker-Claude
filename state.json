@@ -7520,8 +7520,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789903380584",
-    "1789904302472",
     "1789922381758",
     "1789931046557",
     "1789936289261",
@@ -13519,10 +13517,12 @@
     "1790202600184",
     "1790197860801",
     "1790203800642",
-    "1790203800444"
+    "1790203800444",
+    "1790163385636",
+    "1790163766056"
   ],
   "last_digest_hour": "2026-09-24T05",
-  "last_success": "2026-09-23T23:32:13.164747+00:00",
+  "last_success": "2026-09-23T23:46:45.300917+00:00",
   "national": {
     "alerted": [
       {
@@ -15455,7 +15455,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-23T23:33:34.170171+00:00",
+    "last_run": "2026-09-23T23:49:20.857272+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17837,7 +17837,7 @@
     "intel": 1788847380154,
     "lenovo": 1789992053034,
     "linkedin": 1790168556912,
-    "meta": 1790125277691,
+    "meta": 1790163766056,
     "microsoft": 1789653605718,
     "microsoft india": 1790163169143,
     "mistral ai": 1789560000798,
@@ -17892,7 +17892,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T23:32:13.408069+00:00",
+    "last_server_run": "2026-09-23T23:46:45.516402+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T21:48:42.769144+00:00",
