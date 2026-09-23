@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-18T09:32:28.949040+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Applied Materials comments on India's Semiconductor Mission 2.0 ambitions",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN0U2Y2VvNDFFWGp4WEFPS3RhbVJVMWw1OHB1UVAyZ1NRbG52OTlubEt1VXNKdF9tTEJjWnotWDlaUE0ybHVVdDVWUUxWdHFKODdRMGRELTlhSDc0Q3FzTE1tQzNTTE1UZ1lGT2x0UGlFNzhyUU9fM2hFMlFhdFFCSmIwRHd4Uno3Tk1RYlJHalduM1pZRktPYVh6UDJyaF9NUDN2OUxRZ0VXaGl3S0ZNUHJTNk9ONmQ1NllfcWpFOEVYdnZwSnpBX1V6S29MbDdHZGNGV0xkTVFmc3pDR09GbWRRQi1VX0k?oc=5",
-      "words": [
-        "applied",
-        "build",
-        "chips",
-        "materials",
-        "mission",
-        "semiconductor",
-        "wants",
-        "world"
-      ]
-    },
-    {
-      "at": "2026-09-18T09:32:28.949040+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Infosys SVP urges India to invent locally for semiconductor growth",
       "tier": 0,
@@ -7382,18 +7365,34 @@
         "slower",
         "supports"
       ]
+    },
+    {
+      "at": "2026-09-23T00:17:14.218798+00:00",
+      "handle": "Google",
+      "headline": "Google and Gates Foundation partner for $100M AI agricultural initiative",
+      "tier": 1,
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/",
+      "words": [
+        "200",
+        "500",
+        "across",
+        "bring",
+        "farmers",
+        "farms",
+        "food",
+        "foundation",
+        "gates",
+        "global",
+        "google",
+        "million",
+        "more",
+        "nearly"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789836143425",
-    "1789836600150",
-    "1789838222299",
-    "1789845911345",
-    "1789850649447",
-    "1789850744235",
-    "1789859446832",
     "1789793462003",
     "1789814729224",
     "1789836310052",
@@ -13386,10 +13385,17 @@
     "1790114259660",
     "1790115310841",
     "1790119678199",
-    "1790150400022"
+    "1790150400022",
+    "1790071202597",
+    "1790078400708",
+    "1790082145975",
+    "1790101756854",
+    "1790121000010",
+    "1790121562756",
+    "1790121600542"
   ],
   "last_digest_hour": "2026-09-23T05",
-  "last_success": "2026-09-23T00:02:40.325840+00:00",
+  "last_success": "2026-09-23T00:17:14.241510+00:00",
   "national": {
     "alerted": [
       {
@@ -15064,7 +15070,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T00:04:39.938751+00:00",
+    "last_run": "2026-09-23T00:19:22.441347+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17299,7 +17305,7 @@
     "capgemini": 1790072483461,
     "cognizant": 1789761743637,
     "flipkart": 1789631208994,
-    "google": 1790092800849,
+    "google": 1790121000010,
     "google cloud": 1790056800055,
     "google deepmind": 1789491957724,
     "google india": 1789009200642,
@@ -17316,7 +17322,7 @@
     "news: big tech platforms": 1790097240152,
     "news: consumer internet india": 1790110963179,
     "news: global ai": 1790105262430,
-    "news: global chips": 1790117119065,
+    "news: global chips": 1790121600542,
     "news: global it services": 1790110680656,
     "news: india ai deeptech": 1790113313039,
     "news: india edtech gaming": 1790066673203,
@@ -17325,7 +17331,7 @@
     "news: india tech policy": 1790102341060,
     "news: india telecom": 1790119993101,
     "news: indian it majors": 1790112180199,
-    "news: indian it midcaps": 1790108895872,
+    "news: indian it midcaps": 1790121562756,
     "news: pib releases": 1790115310841,
     "news: tech leaders": 1790118660169,
     "nvidia": 1790078441723,
@@ -17363,17 +17369,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T00:02:40.659956+00:00",
+    "last_server_run": "2026-09-23T00:17:14.462465+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-22T22:18:13.633920+00:00",
+        "checked": "2026-09-23T00:18:47.290382+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-22T22:18:05.591947+00:00",
+        "checked": "2026-09-23T00:18:39.496839+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -17449,7 +17455,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-22T22:18:09.788540+00:00",
+        "checked": "2026-09-23T00:18:43.444360+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -17503,11 +17509,11 @@
       },
       "last": {
         "calendar": "2026-09-22T22:17:33.604795+00:00",
-        "ls_reports": "2026-09-22T22:17:49.553104+00:00",
-        "rs_committee_press": "2026-09-22T22:17:59.938796+00:00",
-        "rs_press": "2026-09-22T22:17:56.894808+00:00",
-        "rs_reports": "2026-09-22T22:17:53.942286+00:00",
-        "rs_updates": "2026-09-22T22:18:01.663396+00:00"
+        "ls_reports": "2026-09-23T00:18:23.105538+00:00",
+        "rs_committee_press": "2026-09-23T00:18:33.476777+00:00",
+        "rs_press": "2026-09-23T00:18:30.480948+00:00",
+        "rs_reports": "2026-09-23T00:18:27.529242+00:00",
+        "rs_updates": "2026-09-23T00:18:35.589165+00:00"
       }
     },
     "scanned": [
