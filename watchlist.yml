@@ -386,6 +386,9 @@ sources:
 
   # 4. Google News - everything with no feed of its own, including
   #    unlisted startups, foreign private companies, and what people SAID.
+  #    PIB is NOT searched here: Google gives old PIB pages a fresh date
+  #    when it re-reads them (a March release arrived in September this
+  #    way). PIB is read from its own site instead -- see "pib:" above.
   google_news:
     - {name: Indian IT majors, q: "Infosys OR TCS OR Wipro OR HCLTech OR \"Tech Mahindra\" OR LTIMindtree OR Coforge OR Mphasis"}
     - {name: Indian IT midcaps, q: "Persistent Systems OR Cyient OR KPIT OR \"L&T Technology\" OR \"Happiest Minds\" OR Netweb OR \"Black Box\" OR Zaggle"}
@@ -400,8 +403,75 @@ sources:
     - {name: Global chips, q: "TSMC OR ASML OR Intel OR Qualcomm OR Micron OR Nvidia OR \"chip export\" OR semiconductor tariff"}
     - {name: Big tech platforms, q: "Apple OR Microsoft OR \"Amazon India\" OR Meta OR Uber OR Telegram OR Truecaller OR \"Elon Musk\" X platform India"}
     - {name: India tech policy, q: "MeitY OR \"Ministry of Electronics\" OR UIDAI OR Aadhaar OR DPDP OR \"IT rules\" India OR IAMAI OR Nasscom"}
-    - {name: PIB releases, q: "site:pib.gov.in (MeitY OR telecom OR semiconductor OR digital OR IT OR Aadhaar)"}
     - {name: Tech leaders, q: "\"Sundar Pichai\" OR \"Satya Nadella\" OR \"Sam Altman\" OR \"Jensen Huang\" OR \"Mukesh Ambani\" OR \"Nandan Nilekani\" said OR announced"}
+
+  # Only stories from these outlets are kept from Google News; everything
+  # else is dropped before the AI sees it. Write the website address, not
+  # the name. A subdomain counts as its parent: economictimes.indiatimes.com
+  # also covers ET Telecom, ET Manufacturing and the other ET sites.
+  # Add or remove a line to change it.
+  news_outlets:
+    # India
+    - economictimes.indiatimes.com    # The Economic Times
+    - m.economictimes.com             # The Economic Times (mobile)
+    - timesofindia.indiatimes.com     # Times of India
+    - livemint.com                    # Mint
+    - business-standard.com
+    - thehindubusinessline.com        # BusinessLine
+    - thehindu.com
+    - financialexpress.com
+    - hindustantimes.com
+    - indianexpress.com
+    - newindianexpress.com
+    - moneycontrol.com
+    - ndtvprofit.com
+    - ndtv.com
+    - cnbctv18.com
+    - businesstoday.in
+    - indiatoday.in
+    - theprint.in
+    - deccanherald.com
+    - telegraphindia.com
+    - tribuneindia.com
+    - news18.com
+    - firstpost.com
+    - fortuneindia.com
+    - zeebiz.com                      # Zee Business
+    - etnownews.com                   # ET Now
+    - aninews.in                      # ANI
+    - medianama.com
+    - inc42.com
+    - entrackr.com
+    - yourstory.com
+    - the-ken.com
+    - techcircle.in
+    # International
+    - reuters.com
+    - bloomberg.com
+    - ft.com                          # Financial Times
+    - wsj.com                         # Wall Street Journal
+    - nytimes.com
+    - washingtonpost.com
+    - bbc.com
+    - bbc.co.uk
+    - theguardian.com
+    - apnews.com                      # Associated Press
+    - cnbc.com
+    - economist.com
+    - barrons.com
+    - marketwatch.com
+    - fortune.com
+    - axios.com
+    - techcrunch.com
+    - theverge.com
+    - wired.com
+    - arstechnica.com
+    - theinformation.com
+    - technologyreview.com            # MIT Technology Review
+    - asia.nikkei.com                 # Nikkei Asia
+    - scmp.com                        # South China Morning Post
+    - digitimes.com                   # chips and electronics supply chain
+    - eetimes.com                     # chips
 
 
 # ======================================================================
