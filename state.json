@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-18T13:03:04.053983+00:00",
-      "handle": "BSE Bharti Airtel",
-      "headline": "Bharti Airtel receives DoT penalty notice of Rs 1.53 lakh",
-      "tier": 2,
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c24fc5fb-a5a8-4a98-84bb-72e15f1c94e7.pdf",
-      "words": [
-        "2015",
-        "clause",
-        "dear",
-        "disclosure",
-        "filing",
-        "full",
-        "iii",
-        "listing",
-        "para",
-        "part",
-        "read",
-        "regulations",
-        "schedule",
-        "sir"
-      ]
-    },
-    {
       "at": "2026-09-18T13:32:17.282499+00:00",
       "handle": "News: India semiconductors",
       "headline": "PM Modi meets chip CEOs to accelerate India semiconductor push",
@@ -7377,30 +7354,33 @@
         "vembu",
         "zoho"
       ]
+    },
+    {
+      "at": "2026-09-23T09:04:32.350204+00:00",
+      "handle": "PIB Science and Technology",
+      "headline": "TDB-DST backs Ubifly Technologies with \u20b9285 crore RDI support",
+      "tier": 1,
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313853",
+      "words": [
+        "285",
+        "air",
+        "ambitions",
+        "backs",
+        "dst",
+        "generation",
+        "mobility",
+        "next",
+        "rdi",
+        "support",
+        "tdb",
+        "technologies",
+        "ubifly"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789885599438",
-    "1789888540939",
-    "1789888541541",
-    "1789888547358",
-    "1789889188937",
-    "1789893028283",
-    "1789894140574",
-    "1789894147293",
-    "1789894328812",
-    "1789894440684",
-    "1789810350240",
-    "1789814944536",
-    "1789821107643",
-    "1789836600106",
-    "1789858216855",
-    "1789860600370",
-    "1789871957943",
-    "1789876860250",
-    "1789888539528",
     "1789888605566",
     "1789891969267",
     "1789892801423",
@@ -13381,10 +13361,29 @@
     "1790152200273",
     "1790152787213",
     "1790152800088",
-    "1790172570394"
+    "1790172570394",
+    "1790091720882",
+    "1790097300172",
+    "1790101886738",
+    "1790105405126",
+    "1790109005407",
+    "1790129025990",
+    "1790143500002",
+    "1790143680623",
+    "1790148963616",
+    "1790149078204",
+    "1790149140726",
+    "1790149231201",
+    "1790150601244",
+    "1790151497471",
+    "1790153325552",
+    "1790153503395",
+    "1790153640973",
+    "1790153644945",
+    "2313853"
   ],
   "last_digest_hour": "2026-09-23T14",
-  "last_success": "2026-09-23T08:50:01.274255+00:00",
+  "last_success": "2026-09-23T09:04:32.369729+00:00",
   "national": {
     "alerted": [
       {
@@ -14858,6 +14857,29 @@
           "likely",
           "north"
         ]
+      },
+      {
+        "at": "2026-09-23T09:11:23.749643+00:00",
+        "handle": "PIB Prime Minister's Office",
+        "headline": "Jay Meena wins India's first-ever Asian Games medal in soft tennis",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313848",
+        "words": [
+          "asian",
+          "becoming",
+          "bronze",
+          "congratulates",
+          "event",
+          "ever",
+          "first",
+          "games",
+          "individual",
+          "jay",
+          "medallist",
+          "meena",
+          "men",
+          "minister"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15123,7 +15145,7 @@
       "CG-MH-E-23092026-276408",
       "CG-UP-E-23092026-276410"
     ],
-    "last_run": "2026-09-23T08:55:57.098711+00:00",
+    "last_run": "2026-09-23T09:11:23.750264+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16359,7 +16381,11 @@
       "pib:2313801",
       "page:https://internal.imd.gov.in/press_release/20260923_pr_5334.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mirabai-chanu-on-winning-silver-medal-in-womens-49-kg-weightlifting-event",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-parinaaz-dhaliwal-maheshwari-chauhan-and-raiza-dhillon-on-winning-bronze-medal-in-womens-skeet-team-event"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-parinaaz-dhaliwal-maheshwari-chauhan-and-raiza-dhillon-on-winning-bronze-medal-in-womens-skeet-team-event",
+      "pib:2313844",
+      "pib:2313851",
+      "pib:2313853",
+      "pib:2313848"
     ],
     "source_failures": {
       "CBI": {
@@ -16461,6 +16487,42 @@
       "queued_at": "2026-09-23T08:50:01.253507+00:00",
       "score": 7.0,
       "why": "Major benchmark index change involving a top-tier Indian IT services major."
+    },
+    {
+      "headline": "NX Group signs MOU with ISM for semiconductor logistics",
+      "post": {
+        "created_at": "2026-09-23T07:36:03+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1790148963616",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Indian Transport & Logistics",
+        "reposts": 0,
+        "text": "NX Group signs MOU with ISM for semiconductor logistics",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGUwWVFUYjk3cVpsMncyQnFQaVNYYmZJRHg0SWdjSnhwZC1LVzhEYkFBUXVTVUZZMDVVZEdkWDV1ZHlmeEtLYVlyZHYyV1NVX25SeUJJSmpEeGJQUGhfVmpRMmgzSEM2Q256X0ZkX2UzZms1UXBwU05YQ0JnYm9pR2lnajdYT1RzaHJrUHZRNGplMElJdjU2YdIBngFBVV95cUxOZF9lVTVZOExra0FxdUhWdWtGZ0c2Vy1uMHhaelZoRy1kUUZrVnNlT3hCd3BIREw1OGZaV2V2a1JRXzRjUUpJRkZMY3JyYTdJTlJ6cTVxTUVpd25ENVFkTnBBVlRoczc4ckZkeVIzYU9ZSmhTOGF1VkI1WXRuV1phSUVoYTBCZG9Xb2hwNDVLelFqNUF6N3A1RXZqWlVsdw?oc=5"
+      },
+      "queued_at": "2026-09-23T09:04:32.351185+00:00",
+      "score": 7.0,
+      "why": "New partnership in the Indian semiconductor supply chain ecosystem."
+    },
+    {
+      "headline": "Jindal Stainless and Nasscom partner for workforce upskilling",
+      "post": {
+        "created_at": "2026-09-23T07:40:31+00:00",
+        "handle": "News: India tech policy",
+        "id": "1790149231201",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "ET Manufacturing",
+        "reposts": 0,
+        "text": "Jindal Stainless, Nasscom partner to upskill workforce on AI, cloud, cybersecurity",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcEZhb1FPRHExbERHUHNDelktN1o2MlkxM004bmhhdXp4aHFHbnZVTC1teHdkM01iX195WVRaTnl5UE5Gd0VnU1RTVFNEMGxKSHg3M2o3aGtIT1pQN2NzV1BvWWtFRVowa1dnaks2VUN2bldqOVJRX1VQMklRcHdvMnJlZG1pOTA3VFdnVFRRdmNiY2hFbWt6TGg1UjR2ZzEzb2xqVlFiNlhkcEkwVWpNSnY3dmxDVG1GYlltT2tjSXBnd1VQNVdOaGtBRXhLU1NiRXNqSm1iNEFQUjlpMUZERTFpd1FPMGVfSDl2Zm5hakQ3dHR1T3MtTmJob0QtUTg1WU92QVN0Z1JrSFFic01ndEN3Ukp5N1FYWlpUMDltYTV2OEHSAe8BQVVfeXFMTURabERmT1QtRHZqMzJZRmJjM29KN3RHSnh2eFBwWU1hdW9WbWRPZGxvTjBlSVMzMFh3U2ZQSGR6eFJZb3hFckVoby1nM09KZDhqaXlhRDd0aFk3R2dWbXRfbkxHaEJOS19iVF94WjlYZlBfLXk0Xy00TnVEcmFYRmVRWEhYa2dBQUFxT1JzZXY1NHg5SktNeHNKSGVfN243SEZ6RG0yUG52NjVEX2M5VnE1WFlYWW1SRjM3c2Q0Wl94RzdHelhOUUl0M2pTSW16Q0FrTjhCamx5ZVdsMU8zTmdUUkxGV3FFMXNJZmstbkU?oc=5"
+      },
+      "queued_at": "2026-09-23T09:04:32.351185+00:00",
+      "score": 7.0,
+      "why": "A formal partnership agreement between a major manufacturer and industry body on AI and cloud training."
     }
   ],
   "page_links": {
@@ -17464,19 +17526,19 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790151540426,
-    "news: consumer internet india": 1790151966869,
+    "news: consumer internet india": 1790153644945,
     "news: global ai": 1790129580774,
     "news: global chips": 1790152200273,
-    "news: global it services": 1790148469350,
+    "news: global it services": 1790153640973,
     "news: india ai deeptech": 1790151964490,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790150503903,
-    "news: india semiconductors": 1790152800088,
+    "news: india semiconductors": 1790153503395,
     "news: india tech policy": 1790151099839,
     "news: india telecom": 1790150475371,
-    "news: indian it majors": 1790152106581,
+    "news: indian it majors": 1790153644945,
     "news: indian it midcaps": 1790152787213,
-    "news: pib releases": 1790146772249,
+    "news: pib releases": 1790151497471,
     "news: tech leaders": 1790149740445,
     "nvidia": 1790130622802,
     "nvidia blog": 1790130622802,
@@ -17485,7 +17547,7 @@
     "phonepe": 1790060532360,
     "pib communications": 2313673,
     "pib meity": 2313324,
-    "pib science and technology": 2313504,
+    "pib science and technology": 2313853,
     "razorpay": 1789986994125,
     "redseer": 1789637516540,
     "reg cci": 1790035200881,
@@ -17513,7 +17575,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-23T08:50:01.526802+00:00",
+    "last_server_run": "2026-09-23T09:04:32.632287+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-23T08:52:42.554768+00:00",
