@@ -7542,7 +7542,7 @@
       ]
     }
   ],
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {},
   "handled": [
     "1789958932421",
@@ -15647,7 +15647,7 @@
       "CG-OR-E-24092026-276465",
       "CG-OR-E-24092026-276466"
     ],
-    "last_run": "2026-09-24T12:49:42.463117+00:00",
+    "last_run": "2026-09-24T13:09:40.832400+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17067,7 +17067,9 @@
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-september-24-2026-issued-under-rc-no-9201-of-2026-drawn-against-dhaval-vinodbhai-gadani-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-tech-_104690.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-24-2026-against-rohit-bairwa-pan-elypb0179q-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technologies-limited-now-du-_104706.html",
       "pib:2314494",
-      "pib:2314497"
+      "pib:2314497",
+      "pib:2314505",
+      "pib:2314501"
     ],
     "source_failures": {
       "CBI": {
@@ -17917,7 +17919,8 @@
       "https://www.sarvam.ai/blogs/sarvam-m": "2026-09-17T07:46:46.591272+00:00",
       "https://www.sarvam.ai/blogs/sarvam-studio": "2026-09-17T07:46:46.591272+00:00",
       "https://www.sarvam.ai/blogs/sarvam-translate": "2026-09-17T07:46:46.591272+00:00",
-      "https://www.sarvam.ai/blogs/sarvam-vision": "2026-09-17T07:46:46.591272+00:00"
+      "https://www.sarvam.ai/blogs/sarvam-vision": "2026-09-17T07:46:46.591272+00:00",
+      "https://www.sarvam.ai/blogs/sarvam-vision-2-1": "2026-09-24T13:01:59.954428+00:00"
     },
     "Tata Electronics": {
       "https://www.tataelectronics.com/w/l-t-semiconductor-and-tata-electronics-partner-to-expand-indigenous-manufacturing-of-market-leading-chip-products-for-global-customers": "2026-09-18T13:32:08.042669+00:00",
@@ -18168,7 +18171,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T12:46:52.636589+00:00",
+    "last_server_run": "2026-09-24T13:05:16.762090+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T12:48:21.904229+00:00",
@@ -18715,7 +18718,8 @@
       "gazette:CG-DL-E-23092026-276444|GAZETTE_MAIL_TO",
       "meeting:LS|22525",
       "meeting:LS|22526",
-      "bulletin:LS|2026-09-24|Bulletin-II"
+      "bulletin:LS|2026-09-24|Bulletin-II",
+      "bulletin:RS|2026-09-24|Bulletin Part-II"
     ]
   }
 }
