@@ -1,131 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-19T11:32:13.825231+00:00",
-      "handle": "News: India tech policy",
-      "headline": "UIDAI completes biometric updates for 1.2 crore students",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVZQUmwyVnhzbm01M0xkVU13N2FTVThRY2pCR1BscDQxckRrR3FxV09tWGJzaWlpYXFqZV8wUl9uQWRFWVZBbEFYZU8zRzZmU2FCdTFFVkdkZ0VvcWh6Q3FJUEZzaFJVdlNfaXNmTm9qcFlKZXc1bURjME5YTmZzYnB2VFZMZnB1OWExUHJaakdvcmpPSkl4aTg1bUE1MWlOUUc4UV84ZHBPSVE?oc=5",
-      "words": [
-        "across",
-        "biometric",
-        "completes",
-        "lakh",
-        "schools",
-        "students",
-        "uidai",
-        "updates"
-      ]
-    },
-    {
-      "at": "2026-09-19T11:32:13.825231+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Myntra launches Italian fashion brand Sisley in India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTk9MT0hDSjg0bGxZckhweUtZTjk3X2d1MGNSSzhNMDhua3JhVll2bWRwTVBmVFVKaEhLMjZVRVFRVGg1TVllM2FJN1Y3cUNwb296dDczRVVxOXkwMmlzaE54UEE4NGo2MEowTFc5REpjQzVRRkdqTGVxN05lVzZlcEhnNkMxakRuRGhldXIwRC1MRkdxeFExbVJmVEg4M3BodDJnWE5Mbw?oc=5",
-      "words": [
-        "brand",
-        "fashion",
-        "italian",
-        "launches",
-        "myntra",
-        "sisley"
-      ]
-    },
-    {
-      "at": "2026-09-19T11:32:13.825231+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "SEMICON India 2026: Industry flags customs hurdles; govt promises action",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUFpXeUlQTGRaUUJvU1I0LW93dlFEUlVLV0E0WDBfNXl3ekJOOEVwSUpuQU56MFhWMXpFekpOM3VTY3g0Q2tIcFE2ZWFPZVlOZUpXX1pTaFkyWXE5TGZCZ0trM0tVOUk1V1Zod29rNFJYLWZkVE55MEF6bzJvd0lnN3pCby1iX0k2MUk4QU5McTZ0TXkySlNLdzJ1Zl8tZUIzTmgxZHNsVlVXaVRBM2NuNWtrZGVYWXZWdDRGUTJoTkgtRVpuRFR5Ri12dkRLRDd2OWJqNkxrRWVoaHBqMXB1dlpfek5CTE5NX3JUamFB?oc=5",
-      "words": [
-        "2026",
-        "action",
-        "customs",
-        "flags",
-        "govt",
-        "hurdles",
-        "industry",
-        "promises",
-        "semicon",
-        "semiconductor",
-        "transport"
-      ]
-    },
-    {
-      "at": "2026-09-19T12:32:08.062174+00:00",
-      "handle": "News: PIB releases",
-      "headline": "Union Cabinet approves two new semiconductor units worth Rs 3,900 crore",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeUtodkozUTVORHFIYnhIbFpyQnNBV3Judy1uNjYyUEw0dFpNWU0ya21oVVduN00zMXl4bk1lbTE3X1QzS3FTZktfV25lNHhfX0tlRi0xQi1aY3BlaFpFLVJ6NlNpMWNhOFRBbWczamoySW9Lam9DcFNBZkh4aE0yVA?oc=5",
-      "words": [
-        "900",
-        "approves",
-        "cabinet",
-        "cumulative",
-        "investment",
-        "manufacturing",
-        "more",
-        "semiconductor",
-        "than",
-        "two",
-        "units"
-      ]
-    },
-    {
-      "at": "2026-09-19T12:32:08.062174+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Anthropic IPO advances as revenue run rate tops $65B",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkMta3JHOHdHUHRBWHplVzFPNVczMEhMeS1Uc0xWbUFlS3VJa3pVc3dZNXhYdFlNTTJPeVdyeW9OQmJGVXJnbkNTUENfX09ZMU1LUENvNWNhakFjWjYwdDFaUnVQRVFReE5kb2w0cWdDX050N1JSRU14QUpTSi1LekRTMTMtYzBSenU4TVA3bTJHaENrZENST2cwQ25JZ2poLXhkTDl30gGrAUFVX3lxTE1KV3lLckJwYXMzNFdWRGVkZ0dOaWRkYnJSWVFwRG9lWkt1Q2lrTGVHanpudWpfUEppNkNMMDFPZXJSQ25CY3h2aFpvbW9PcGNVaGoydkFrdGpneWZTSG1IcGllenRnT0dUdUp6S3ZyUHR6QXprbkxNMXJZdnZ0TGZFMGlqX2Fmb1p2bTFrQmhLZUlka29ZT3RtNHE5bjBMTTFYYnZDQlhZZEZQWQ?oc=5",
-      "words": [
-        "65b",
-        "advances",
-        "anthropic",
-        "ipo",
-        "news",
-        "rate",
-        "revenue",
-        "run",
-        "tops"
-      ]
-    },
-    {
-      "at": "2026-09-19T12:32:08.062174+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "KPMG reports India semiconductor demand to hit $90 billion by 2030",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkpxTGJUdnNmMG9jaF9zT28wNmMxMjNzX0ZwalFxTkp6Z2FhUTJEa29rWGtCd3lCSklaSFBpM0UyU2d2YXM4SWVMZlQ1OUlYN1BqQkY3Z2dlVGx6R25OVjY4THp4d2RzZHBCLWlNWTV5NFk0SjBXb1N3YURxVTNTWUhzdjdNVnNBVHFJWm1xeU9fYVZSX3cya1pwY0JOUndiel9Ob2hLZFhkUEJlc1NCZmFHS1TSAcIBQVVfeXFMUDBxS2UtVnJCQ3dCUGVDeDgyN0lDZlZ4WU5jWTlSRE85MXY4TFIzVUpuOWFzYTB4OTV4Qm5xYnVZV2pfanphVnZOSVVHSDFyR1RkNGJDd0JxOUZ3YUkxb2Z4dld1N0hRbXFfeE9JMnRQWHpCanNvOTJxcExRTlFBRjdSNWEzMUNRdXZWMDlyOWVQQ3paZ3duTkVqclY0MTl0MmZISHYwOXh6TTliUFV6WHBXT25jWUVXXzAzdDQ5S3M3dVE?oc=5",
-      "words": [
-        "2029",
-        "billion",
-        "demand",
-        "double",
-        "kpmg",
-        "report",
-        "semiconductor",
-        "set"
-      ]
-    },
-    {
-      "at": "2026-09-19T14:32:21.281325+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "OpenAI forecasts cash burn near $280 billion by 2030",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNenIzQzZFcm96SGc4dXBpQk14Qjh5Z3NvUUVoQnhWYnZWQTBpa2dWVVBodG43d181bUxBVXdKLUlmWGk1Nml2SnR1NnMzQ3I3U0JYMHYtVmlYV3d0Zk9mUmdIVFMtd2NZM0dyU0d3OTBub2JXNHF1LWV5MFBkREx1UnB0T2JMbUNDSXdSMzBlQ1Zab2VTOTZJNHh1X1Jhek1SWWdqdTNRWmJPbVpvVTFKQzN4VzE4S09DaHB2dHg0YlFSTTZ3R3NaalBjUlTSAdIBQVVfeXFMTVZPRXdsQTBPVlpURkQyaWxBaXNaWGk0Umx0WTZ0ZmlhTjZEY0F3ZmNad25CMERMWm9HeGZJMTR4alV6Q0dwVGt0WWd5N3NKNng0TkN3WW9LaWRCdjVuWVhBSzNycDdmX3Jwa3VCVUFxMVhFQXU5S3YwLTBUbHRSVklRMERJSXpqaGE2NS1NVHZFSno1MXRLU3JWM3JSZG1FVHpMYnV4ZDZnZ2hhcFdMcDF1RkhNU3BhYVBmdW1YY1VBREtPMnlrOFJKcVZwMzRUQnh3?oc=5",
-      "words": [
-        "2030",
-        "280",
-        "billion",
-        "burn",
-        "cash",
-        "forecasts",
-        "near",
-        "openai",
-        "report"
-      ]
-    },
-    {
       "at": "2026-09-19T14:32:21.281325+00:00",
       "handle": "News: India semiconductors",
       "headline": "EY-IESA report projects India semiconductor market to hit USD 200B by 2035",
@@ -7512,17 +7387,147 @@
         "secy",
         "substandard"
       ]
+    },
+    {
+      "at": "2026-09-24T07:32:08.687965+00:00",
+      "handle": "Google India",
+      "headline": "YouTube expands shopping affiliate program in India with Amazon, AJIO, and Meesho",
+      "tier": 1,
+      "url": "https://blog.google/intl/en-in/products/platforms/helping-indian-creators-build-thriving-businesses-on-youtube-shopping/",
+      "words": [
+        "article",
+        "build",
+        "businesses",
+        "crea",
+        "creators",
+        "helping",
+        "purchase",
+        "research",
+        "shopping",
+        "starts",
+        "they",
+        "thriving",
+        "trust",
+        "turn"
+      ]
+    },
+    {
+      "at": "2026-09-24T07:32:10.176367+00:00",
+      "handle": "News: India fintech",
+      "headline": "NPCI CEO Dilip Asbe explains UPI MDR reintroduction rationale",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMTRweDlSc01ycG1xS0JPbEtUVy0xZ2MwcGVWUlBNbVZ2VHJIdW1sZlhJdDlJX1hwLUQwYUd4aFp4MVVhOWp5YTlyMUFKaXk1ZDhDOUNfWGdfdjhNN1dUblVXbWp5THpNc3F0OGF5U1BYVWo1cVY1czZIbGhVak9vNTV3MGY4dXJPMzFLX21xZlo4S1JCWFVnYWhYcm9lYWE4NV85NVRFcVRXYldUdkgxWWNEcmlOSHd2a0cyUFVYdlZjZ9IBxwFBVV95cUxQSHFESHpycG9scTVLV2JTUUh4ZEh3UHV1SmNIODZnbjgxMURQZzQxUW1IV2FjcmNuaUd1NkhtR1NZOFlKWUR1RWZKbm1rQzcyOWRGcXY3MVRZZ1M3M1pPdE9ySVMxT1VvWVlHWEdPa3plcG9BeUN2dFRIWFlCUkt0UFJfV255T2tJTWNFR2paTzE2WlNWYjRvXzZibHlwTDJ5YjJhZzljb2dIU1pGV1E4NjIxR1R1QUVMRHhIUnNnNEpVUFFzbTd3?oc=5",
+      "words": [
+        "asbe",
+        "being",
+        "dilip",
+        "explains",
+        "mdr",
+        "npci",
+        "reintroduced",
+        "upi",
+        "years"
+      ]
+    },
+    {
+      "at": "2026-09-24T07:32:10.176367+00:00",
+      "handle": "News: India tech policy",
+      "headline": "MeitY Secretary stresses sovereign tech autonomy amid US-China dependence",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZW91eHktRGxIdGZPTE1SU2xrQ1Q1VURWUWZzOVpTaTM0WlhmdVd4Z05BTVQ5djBQSkRjbkZnUTlVUG1hdUhDY1ZYVnljTDNZc1RYbWdEM0FZaTE5dHZwUGFpc3BpdDNDaE9kV1N0QUwxN21LdHd2bmtFcDR6Nzd6TmRDaDJHbnN0NDJKNU9fYXk4ZkoyWGNsRlR6ODBZYzR2V1JnOXROdHU0N29wOERRTEJ6aWp0dU5LTEdRc2ZDZXZQUFFnbWx1eXlBWHNLR2M0YjY4dUc5eEpWcGphay01TNIB5gFBVV95cUxOdXYzTm5hV2NWYWtoSnZuWDhhb1FnRmJsNXVVcGxEUjVzbVd5ajc2UzF4RlU2dm5zblNVNDRjUy1Ycndxci1hNENWUjV5R3Z4R1RfeHBYTmJJMHkxdHM5ZFEwalpWMVRLSVhsdTMxcjVlZ2FTbldTeFpwamEtMG9uUWNLTnk3VXRjZW9zQWhzRFBSSGdVSTNoSU1kb0dod1RVNXhwQ0RzejZZTTY1ZGQ3TWprUnlkSENSWGFRQlY2bEJoUERxSWRscy1NVDNRRHlUd2FCaGhHYjUyTXZZX0RMZ21zUTlKdw?oc=5",
+      "words": [
+        "autonomy",
+        "china",
+        "dependence",
+        "meity",
+        "needs",
+        "secretary",
+        "sovereign",
+        "technology"
+      ]
+    },
+    {
+      "at": "2026-09-24T07:32:10.176367+00:00",
+      "handle": "News: India fintech",
+      "headline": "NPCI chief says UPI volumes to remain intact despite new MDR",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRzIyYVJfS1Q5cnhuUXNmandlYkpUbVFxS0YyMGt1SXVXd3JKUjhtOHpwTjRiV0xWRDVmT2NSWjZPbkJTbVRaUVpnZmtsRk0tYzdQenFUYWVSV3lyVl9oeWZRcmZCZkZmVnNKakgtUlY4RXBqQktnZkZwb0RZY1dqV0lCY0Z3NEI2ZGd2bV9IbzFMOHczT1VPRDh1TjRDZ0FpVkd5ZnZoZzNUalhvc2p0eFBhbGVQaHdZSmVBR0h2UjJhNUxtWnlEWmZ0T29GNHQwcGZBM0txMDlTRF93Y2llSk1LMW5fQWhuT2NpeVF6QmNGMm8zY0p1RHF4a9IB-wFBVV95cUxQRzIyYVJfS1Q5cnhuUXNmandlYkpUbVFxS0YyMGt1SXVXd3JKUjhtOHpwTjRiV0xWRDVmT2NSWjZPbkJTbVRaUVpnZmtsRk0tYzdQenFUYWVSV3lyVl9oeWZRcmZCZkZmVnNKakgtUlY4RXBqQktnZkZwb0RZY1dqV0lCY0Z3NEI2ZGd2bV9IbzFMOHczT1VPRDh1TjRDZ0FpVkd5ZnZoZzNUalhvc2p0eFBhbGVQaHdZSmVBR0h2UjJhNUxtWnlEWmZ0T29GNHQwcGZBM0txMDlTRF93Y2llSk1LMW5fQWhuT2NpeVF6QmNGMm8zY0p1RHF4aw?oc=5",
+      "words": [
+        "chief",
+        "despite",
+        "ecosystem",
+        "intact",
+        "largely",
+        "mdr",
+        "npci",
+        "reinvest",
+        "remain",
+        "rollout",
+        "upi",
+        "upr",
+        "volumes"
+      ]
+    },
+    {
+      "at": "2026-09-24T07:32:10.176367+00:00",
+      "handle": "News: India fintech",
+      "headline": "NPCI tells shadow banks NBFC loan repayments will attract Rs 5 flat fee",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN1Y5WWhCRHJWX2F2T0NQMUpNWU9HSDF3eVpBcVRmOXNrMUNKRVNCTTRBU05zb0ExQ0dfVHhlbXdlaGlUczhycjBYdFhvRElZeF9CbGxBQ1VXTHZqYTF2UFRLdjFTMWxfR0FJcEtmTGNuSU9SdGFUdFlIODFfS2VTQ0JpM0R4NjRaWEdUY0s2aXQ4amJYOVJJdWhFX2FzWUh6UUhPRDQ2WnR3UllsRzhDLU5kRVNycWlnOGdpZG1aalozWGxWS1ZraUlkUdIB0AFBVV95cUxQbjNMVEdMbEZmTXdkRXFRa1M3QjlRWC1JUjJTWlNYOGNHaEl2YTNiZGtXeEMtQjFka0plQzZxbWhsWjYtOXlaR29HUEJhaVhRdXBSQzRHd0c2Yk40WkhfNEhPd19TZ3pLNDlUQXI1bzhUNlZiV2QyOGxTUmZpSXd3NWtBRXNGRUhBa1FndHN6WHBDeDBGUlVrLVNTTkphcU1sQjJTa3VwamplVF82aHdVTDhCUXBGaktLQmF3LUg2TXduNVhadnRpRVh3elREczdS?oc=5",
+      "words": [
+        "attract",
+        "banks",
+        "fee",
+        "flat",
+        "loan",
+        "nbfc",
+        "npci",
+        "repayments",
+        "shadow",
+        "tells"
+      ]
+    },
+    {
+      "at": "2026-09-24T07:32:10.176367+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Sam Altman warns UN that AI could endanger the future of humanity",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS3FoNWJ0akgzVUVNNzA0VzNDeFZqR09JV0IwcHJoUl9mbnc1V3VuNEZUbGdOWTNJeXgwVjA2Zmt1V0tVWEdKMFFCWWN5TGxEUjliZ3QzNjJ1aVBndXhqLUpQNmNsaE9XOWlqRVN3RlJBZFVvZGg1b3BpQmdqeHNDU0VzR0dRQXpKYjNiYmZfRlVYWEJUY1NHMi1jLTZUY2Z6bjVHejFyR00zazlaTlJ0b21sZ3BKbUwwRDUycWRycFZPY3czcWtJOVUyMmFqYU5FQ3J5aUVLczdqcklRWEVGTXBFQmI2WVHSAecBQVVfeXFMTktxaDVidGpIM1VFTTcwNFczQ3hWakdPSVdCMHByaFJfZm53NVd1bjRGVGxnTlkzSXl4MFYwNmZrdVdLVVhHSjBRQlljeUxsRFI5Ymd0MzYydWlQZ3V4ai1KUDZjbGhPVzlpakVTd0ZSQWRVb2RoNW9waUJnanhzQ1NFc0dHUUF6SmIzYmJmX0ZVWFhCVGNTRzItYy02VGNmem41R3oxckdNM2s5Wk5SdG9tbGdwSm1MMEQ1MnFkcnBWT2N3M3FrSTlVMjJhamFORUNyeWlFS3M3anJJUVhFRk1wRUJiNllR?oc=5",
+      "words": [
+        "altman",
+        "could",
+        "danger",
+        "future",
+        "humanity",
+        "put",
+        "sam",
+        "tells",
+        "trump",
+        "warning"
+      ]
+    },
+    {
+      "at": "2026-09-24T07:32:10.176367+00:00",
+      "handle": "News: India fintech",
+      "headline": "NPCI CEO clarifies 96% of UPI transactions remain free",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVlJhYzJGVm9JNWJoOGxkQUxXdl9KRWdPU1ZWeUFhZ3FWMzdjMU92elhJLWdsTzZEaFJPM2pLbDJkYTBzZDI0QXhUS1UtdlIxYThJM09TWjRuQ3ByaDJCUHhobENJellBUy05LWV6ZXNOZ3ZpeXI1eGJCS1pqQldsYUxQUlB0R3cxWm1xOVNrbXhDLVdOdXlpdFZCUm9KYTZrdm5HRUdCUEhBRkkxemMtU0V5ZWh4ZlRpcWZzUGU3VFd2ekxRSWJidGdqOHJ2MXQ4RnlHN1VfQjh1RDdkY0lBREk0b1fSAeoBQVVfeXFMTWdQSEVPM2lpUG50a05fVmRSTHlzNVBzMnFRX3ZLYTJrdWdBaVpoRko4Mmlsdl9DV0tDQXRnWGNDUmY0dVRjcXBOX1lWUzBNVWR2VkMzaU1PYmdYNnZER01OdU40bG9Ra05BdDFJanQ1TnV6T1M3VndIWG5LdF9GMUpYZ0xXVjNyQmp0RU5zeE5aSDhrVTRJdjNkTF9tOGhNa0I5UnlBVWpSX0NEV3FBaFMwUFF0c0l6MDlpV3o2VEhLWk42bkNOckR1elZQcEViaDAwR3V0NFNFZ2liMmN0RnAyMnUyMmlXZEpR?oc=5",
+      "words": [
+        "ceo",
+        "concerns",
+        "driving",
+        "free",
+        "mdr",
+        "misinformation",
+        "npci",
+        "still",
+        "transactions"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789948434595",
-    "1789948641574",
-    "1789949700850",
-    "1789950028704",
-    "1789950600490",
-    "1789952400112",
     "1789952400118",
     "1789952400211",
     "1789952538119",
@@ -13516,10 +13521,16 @@
     "1790228880423",
     "1790229558100",
     "1790232720857",
-    "1790233646524"
+    "1790233646524",
+    "1790229087353",
+    "1790234021963",
+    "1790234505773",
+    "1790235000477",
+    "1790235000631",
+    "1790235023404"
   ],
-  "last_digest_hour": "2026-09-24T12",
-  "last_success": "2026-09-24T07:17:12.653938+00:00",
+  "last_digest_hour": "2026-09-24T13",
+  "last_success": "2026-09-24T07:32:10.210096+00:00",
   "national": {
     "alerted": [
       {
@@ -15544,7 +15555,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-24T07:26:11.543158+00:00",
+    "last_run": "2026-09-24T07:37:24.294122+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16908,9 +16919,6 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "CERT-In": {
-        "count": 1
-      },
       "DGFT": {
         "count": 13,
         "until": "2026-09-24T10:02:57.488981+00:00"
@@ -16948,80 +16956,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "NPCI CEO Dilip Asbe explains UPI MDR reintroduction rationale",
-      "post": {
-        "created_at": "2026-09-24T06:31:18+00:00",
-        "handle": "News: India fintech",
-        "id": "1790231478540",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "NPCI's Dilip Asbe explains why UPI MDR is being reintroduced after 6 years",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMTRweDlSc01ycG1xS0JPbEtUVy0xZ2MwcGVWUlBNbVZ2VHJIdW1sZlhJdDlJX1hwLUQwYUd4aFp4MVVhOWp5YTlyMUFKaXk1ZDhDOUNfWGdfdjhNN1dUblVXbWp5THpNc3F0OGF5U1BYVWo1cVY1czZIbGhVak9vNTV3MGY4dXJPMzFLX21xZlo4S1JCWFVnYWhYcm9lYWE4NV85NVRFcVRXYldUdkgxWWNEcmlOSHd2a0cyUFVYdlZjZ9IBxwFBVV95cUxQSHFESHpycG9scTVLV2JTUUh4ZEh3UHV1SmNIODZnbjgxMURQZzQxUW1IV2FjcmNuaUd1NkhtR1NZOFlKWUR1RWZKbm1rQzcyOWRGcXY3MVRZZ1M3M1pPdE9ySVMxT1VvWVlHWEdPa3plcG9BeUN2dFRIWFlCUkt0UFJfV255T2tJTWNFR2paTzE2WlNWYjRvXzZibHlwTDJ5YjJhZzljb2dIU1pGV1E4NjIxR1R1QUVMRHhIUnNnNEpVUFFzbTd3?oc=5"
-      },
-      "queued_at": "2026-09-24T06:47:22.135318+00:00",
-      "score": 8.0,
-      "why": "Statement by a key chief executive on a major financial policy shift directly impacts the IT/fintech beat."
-    },
-    {
-      "headline": "MeitY Secretary stresses sovereign tech autonomy amid US-China dependence",
-      "post": {
-        "created_at": "2026-09-24T06:56:41+00:00",
-        "handle": "News: India tech policy",
-        "id": "1790233001225",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "India needs \u2018sovereign autonomy\u2019 in technology amid US, China dependence: MeitY Secretary",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZW91eHktRGxIdGZPTE1SU2xrQ1Q1VURWUWZzOVpTaTM0WlhmdVd4Z05BTVQ5djBQSkRjbkZnUTlVUG1hdUhDY1ZYVnljTDNZc1RYbWdEM0FZaTE5dHZwUGFpc3BpdDNDaE9kV1N0QUwxN21LdHd2bmtFcDR6Nzd6TmRDaDJHbnN0NDJKNU9fYXk4ZkoyWGNsRlR6ODBZYzR2V1JnOXROdHU0N29wOERRTEJ6aWp0dU5LTEdRc2ZDZXZQUFFnbWx1eXlBWHNLR2M0YjY4dUc5eEpWcGphay01TNIB5gFBVV95cUxOdXYzTm5hV2NWYWtoSnZuWDhhb1FnRmJsNXVVcGxEUjVzbVd5ajc2UzF4RlU2dm5zblNVNDRjUy1Ycndxci1hNENWUjV5R3Z4R1RfeHBYTmJJMHkxdHM5ZFEwalpWMVRLSVhsdTMxcjVlZ2FTbldTeFpwamEtMG9uUWNLTnk3VXRjZW9zQWhzRFBSSGdVSTNoSU1kb0dod1RVNXhwQ0RzejZZTTY1ZGQ3TWprUnlkSENSWGFRQlY2bEJoUERxSWRscy1NVDNRRHlUd2FCaGhHYjUyTXZZX0RMZ21zUTlKdw?oc=5"
-      },
-      "queued_at": "2026-09-24T07:02:16.681657+00:00",
-      "score": 8.0,
-      "why": "This is a significant policy statement by a senior Indian government official on national technology direction."
-    },
-    {
-      "headline": "NPCI CEO clarifies 96% of UPI transactions remain free",
-      "post": {
-        "created_at": "2026-09-24T06:46:34+00:00",
-        "handle": "News: India fintech",
-        "id": "1790232394405",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Misinformation driving MDR concerns, 96% of transactions will still be free, says NPCI CEO",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVlJhYzJGVm9JNWJoOGxkQUxXdl9KRWdPU1ZWeUFhZ3FWMzdjMU92elhJLWdsTzZEaFJPM2pLbDJkYTBzZDI0QXhUS1UtdlIxYThJM09TWjRuQ3ByaDJCUHhobENJellBUy05LWV6ZXNOZ3ZpeXI1eGJCS1pqQldsYUxQUlB0R3cxWm1xOVNrbXhDLVdOdXlpdFZCUm9KYTZrdm5HRUdCUEhBRkkxemMtU0V5ZWh4ZlRpcWZzUGU3VFd2ekxRSWJidGdqOHJ2MXQ4RnlHN1VfQjh1RDdkY0lBREk0b1fSAeoBQVVfeXFMTWdQSEVPM2lpUG50a05fVmRSTHlzNVBzMnFRX3ZLYTJrdWdBaVpoRko4Mmlsdl9DV0tDQXRnWGNDUmY0dVRjcXBOX1lWUzBNVWR2VkMzaU1PYmdYNnZER01OdU40bG9Ra05BdDFJanQ1TnV6T1M3VndIWG5LdF9GMUpYZ0xXVjNyQmp0RU5zeE5aSDhrVTRJdjNkTF9tOGhNa0I5UnlBVWpSX0NEV3FBaFMwUFF0c0l6MDlpV3o2VEhLWk42bkNOckR1elZQcEViaDAwR3V0NFNFZ2liMmN0RnAyMnUyMmlXZEpR?oc=5"
-      },
-      "queued_at": "2026-09-24T07:02:16.681657+00:00",
-      "score": 7.0,
-      "why": "This is a direct statement from the NPCI CEO addressing ongoing market concerns regarding UPI MDR changes."
-    },
-    {
-      "headline": "NPCI chief says UPI volumes to remain intact despite new MDR",
-      "post": {
-        "created_at": "2026-09-24T07:07:26+00:00",
-        "handle": "News: India fintech",
-        "id": "1790233646524",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Tribune",
-        "reposts": 0,
-        "text": "UPI volumes will largely remain intact despite new UPR MDR rollout, ecosystem to reinvest: NPCI chief",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRzIyYVJfS1Q5cnhuUXNmandlYkpUbVFxS0YyMGt1SXVXd3JKUjhtOHpwTjRiV0xWRDVmT2NSWjZPbkJTbVRaUVpnZmtsRk0tYzdQenFUYWVSV3lyVl9oeWZRcmZCZkZmVnNKakgtUlY4RXBqQktnZkZwb0RZY1dqV0lCY0Z3NEI2ZGd2bV9IbzFMOHczT1VPRDh1TjRDZ0FpVkd5ZnZoZzNUalhvc2p0eFBhbGVQaHdZSmVBR0h2UjJhNUxtWnlEWmZ0T29GNHQwcGZBM0txMDlTRF93Y2llSk1LMW5fQWhuT2NpeVF6QmNGMm8zY0p1RHF4a9IB-wFBVV95cUxQRzIyYVJfS1Q5cnhuUXNmandlYkpUbVFxS0YyMGt1SXVXd3JKUjhtOHpwTjRiV0xWRDVmT2NSWjZPbkJTbVRaUVpnZmtsRk0tYzdQenFUYWVSV3lyVl9oeWZRcmZCZkZmVnNKakgtUlY4RXBqQktnZkZwb0RZY1dqV0lCY0Z3NEI2ZGd2bV9IbzFMOHczT1VPRDh1TjRDZ0FpVkd5ZnZoZzNUalhvc2p0eFBhbGVQaHdZSmVBR0h2UjJhNUxtWnlEWmZ0T29GNHQwcGZBM0txMDlTRF93Y2llSk1LMW5fQWhuT2NpeVF6QmNGMm8zY0p1RHF4aw?oc=5"
-      },
-      "queued_at": "2026-09-24T07:17:12.623331+00:00",
-      "score": 8.0,
-      "why": "Major stakeholder statement addressing ongoing UPI fee controversy with significant industry impact."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18019,7 +17954,7 @@
     "google": 1790190000521,
     "google cloud": 1790150400424,
     "google deepmind": 1790179257868,
-    "google india": 1790173800880,
+    "google india": 1790235000631,
     "hcltech": 1790171534741,
     "ibm": 1790078400999,
     "intel": 1788847380154,
@@ -18033,18 +17968,18 @@
     "news: big tech platforms": 1790230980886,
     "news: consumer internet india": 1790220850381,
     "news: global ai": 1790221906663,
-    "news: global chips": 1790229087092,
+    "news: global chips": 1790229087353,
     "news: global it services": 1790171374941,
-    "news: india ai deeptech": 1790228683558,
+    "news: india ai deeptech": 1790234021963,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790233646524,
+    "news: india fintech": 1790234505773,
     "news: india semiconductors": 1790218923673,
     "news: india tech policy": 1790233001225,
     "news: india telecom": 1790229300406,
     "news: indian it majors": 1790228276002,
     "news: indian it midcaps": 1790226300278,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790228580380,
+    "news: tech leaders": 1790235023404,
     "nvidia": 1790175632981,
     "nvidia blog": 1790175632981,
     "openai": 1790251200769,
@@ -18080,7 +18015,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T07:17:12.917726+00:00",
+    "last_server_run": "2026-09-24T07:32:10.555018+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T06:20:26.004176+00:00",
