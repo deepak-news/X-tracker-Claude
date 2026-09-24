@@ -7533,15 +7533,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789957612321",
-    "1789959745611",
-    "1789959817555",
-    "1789959854033",
-    "1789959922349",
-    "1789960043102",
-    "1789960288840",
-    "1789960327984",
-    "1789960338921",
     "1789960561059",
     "1789877863388",
     "1789940523338",
@@ -13532,10 +13523,19 @@
     "1790186475650",
     "1790218964046",
     "1790239605621",
-    "1790239698095"
+    "1790239698095",
+    "1790162154646",
+    "1790162575606",
+    "1790172401720",
+    "1790220920091",
+    "1790233507051",
+    "1790246074447",
+    "1790246205838",
+    "1790247125682",
+    "1790247600641"
   ],
   "last_digest_hour": "2026-09-24T16",
-  "last_success": "2026-09-24T10:46:26.620417+00:00",
+  "last_success": "2026-09-24T11:02:38.516720+00:00",
   "national": {
     "alerted": [
       {
@@ -15569,7 +15569,7 @@
       "CG-DL-E-24092026-276462",
       "CG-DL-E-24092026-276463"
     ],
-    "last_run": "2026-09-24T10:49:20.000155+00:00",
+    "last_run": "2026-09-24T11:10:36.317451+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16945,12 +16945,18 @@
       "pib:2314359",
       "pib:2314361",
       "pib:2314366",
-      "pib:2314385"
+      "pib:2314385",
+      "pib:2314402",
+      "pib:2314396",
+      "pib:2314398"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "CERT-In": {
+        "count": 1
       },
       "DGFT": {
         "count": 14,
@@ -16985,7 +16991,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "IIEST Shibpur and TCS partner for AI Centre of Excellence",
+      "post": {
+        "created_at": "2026-09-24T10:36:45+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790246205838",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "ET Education",
+        "reposts": 0,
+        "text": "IIEST, Shibpur partners with TCS to launch state-of-the-art centre of excellence in AI",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeklDTjcxTlJEOG84b3F6RUc0WlZaU2VhbnlPcDJ0Q3VvZlZ0bG9xX2ZlRVZwUHRwdXRqUDJTTWhxa0V3c2xod0V5bWRhSkRGVkRyZ2F4ZExUenZ1bEIwbzA3OHNNazBVMDdKUS1PdEpnYjNDYmpFZmFYVWtHclROVm1XYTVyOFdOanc1emd5NVNnLUx3Q09MUkpoY2lKTHdOemliVFp4QWo5QzhLemY5U3Y3eTMtNk1ZZnZNVkNyVzhsT296X1FHR2VhcnI4c0ZZemhSNk5UdUJacjNrelBfZ25Ob2RXbmJDelZRVG53SDcxTkppY2FYLXVhM1RuVnlPeVBWbGJjMF96cVXSAZACQVVfeXFMTWppSlVVTTZYY3dONFBtM2pOa3c1LXdUWFl2YklEZ2dTWVg3Y29mNnh0bzVLdHBNSjc0UV9RLTZ5S0pPWElsOXJvdFRualBTUHZfVEFjc1REV29nU1AxaEVnYmFGZDJxMnEzZ3RXTmpMaENyZFBRNmY1UVI0XzJKRDhRYlNYSmpiTU5KWkZEckpEREtWUDk1UV9jamFzdUJxYjZsQ0lSSjEyOUgzbmlPMG05M3JMbllSeDZKbTlvYThsZUpDWXRSU0tld3d1MG5KRlRRU1dSX2c4WFpqd2ZVUmdFU0VIRjFHWTJRdnhpWWFBV3J4NXBmUl9QeVhCNTFHQ3B1YUczX3ZsUVQyUlBtWEM?oc=5"
+      },
+      "queued_at": "2026-09-24T11:02:38.487706+00:00",
+      "score": 7.0,
+      "why": "Significant industry-academia partnership involving an Indian IT major."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17987,7 +18012,7 @@
     "google deepmind": 1790179257868,
     "google india": 1790235000631,
     "hcltech": 1790171534741,
-    "ibm": 1790244000712,
+    "ibm": 1790247600641,
     "intel": 1788847380154,
     "lenovo": 1789992053034,
     "linkedin": 1790168556912,
@@ -18003,11 +18028,11 @@
     "news: global it services": 1790172561362,
     "news: india ai deeptech": 1790239444142,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790244782406,
+    "news: india fintech": 1790247125682,
     "news: india semiconductors": 1790239698095,
     "news: india tech policy": 1790239952366,
     "news: india telecom": 1790229300406,
-    "news: indian it majors": 1790235836834,
+    "news: indian it majors": 1790246205838,
     "news: indian it midcaps": 1790236277068,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790241720614,
@@ -18046,7 +18071,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T10:46:26.851196+00:00",
+    "last_server_run": "2026-09-24T11:02:38.774642+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T10:47:56.639448+00:00",
@@ -18175,7 +18200,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-09-24T04:47:57.962986+00:00",
+        "at": "2026-09-24T11:03:19.667166+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -18185,7 +18210,7 @@
         }
       },
       "last": {
-        "calendar": "2026-09-24T04:48:01.124088+00:00",
+        "calendar": "2026-09-24T11:03:23.621952+00:00",
         "ls_reports": "2026-09-24T10:47:30.589818+00:00",
         "rs_committee_press": "2026-09-24T10:47:41.811822+00:00",
         "rs_press": "2026-09-24T10:47:38.470877+00:00",
