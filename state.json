@@ -1,42 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-19T09:32:40.619172+00:00",
-      "handle": "News: India tech policy",
-      "headline": "UIDAI plans to take Aadhaar global for NRIs and OCIs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnFfUjQzc1pyUVExLUl6d1R5dTU0MFNESlVFTWxtZnlIeGx1UlUyNUtQUklFRW1VS0J4bzFZSHNuMlYyOU53akFVQ0VSa2ZqYXlQYlgzdmN3Y1ZRMVpSbk1ZRHU5dWFjRUtubHhuQUc2NHlWemJkSGR1WHc4Z1FWUl8yOU1JMVcxaXA3SEh5aGliX2xOWktVdk1YRi1fVWEyaGotbTVHdWdleGE5dGZFc040b0NiSUJ1b29IcDJ3bWZqd1NjMmhpbGNubjR2NGV6Zl9oSlJ4dDJqd9IB3wFBVV95cUxON2JzbENLSFJ5VGxxQkpfSjRTcUZmaXR3SEFhb3k1ekx2dl9hbWx2ZGFWRXVyN2FjY09rTmVRMUd6bko3WVFfRlhpNWdXNXNRbnpZeDQybnZSMUE1WmstTzd1LWlZb19vMU0xNVVWVlN0TnFvUG1icWFzN1VNUDRUUWhpZXhYNlZ6R3pDak5tdHRuZEpkMXE4US15ZWtxNDRic1JSUVNzYkdWYzdtbFFMUnF5NmloQnhISXJ5bjZiVkM1Q2ctTjFnRXAtYk1Vd0N3S0l5VHEyTVhCZ2NaMk53?oc=5",
-      "words": [
-        "aadhaar",
-        "cardholders",
-        "current",
-        "global",
-        "nris",
-        "oci",
-        "plans",
-        "rules",
-        "take",
-        "uidai"
-      ]
-    },
-    {
-      "at": "2026-09-19T10:32:13.389588+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "SBI Mutual Fund crosses 5 percent stake threshold in Tech Mahindra",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzZIVGg1eHZVZHRYNFdpek1UUG8td29ENzVlVEM0ZmpsX3BqSi1wT2RJRzI1Qk05dVVhLXZZWGlUcDJVY1dTc3NVaFUwYTR2VnZwSjd5N25OR1g4eS1NYnhHTzJHdGstRDlNMDh4Rl9zVXUyWk1ld2JHTUYydDY1ZXp4MkRORTh3QmpDbVRFdkVDd0p0T2VOMzBvcGRtUW5tX0NXSGE4RFJCMzZJYzd0dUktUDZHS3Qx?oc=5",
-      "words": [
-        "crosses",
-        "fund",
-        "mahindra",
-        "mutual",
-        "sbi",
-        "stake",
-        "tech",
-        "threshold"
-      ]
-    },
-    {
       "at": "2026-09-19T10:32:13.389588+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Lenskart increases stake in AjnaLens parent Dimension NXG to 9.01%",
@@ -7516,19 +7480,48 @@
         "slowdown",
         "tumble"
       ]
+    },
+    {
+      "at": "2026-09-24T01:32:08.450943+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "AI startup ByteAsk raises $1 million from YC and EF",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNlhPOWlZSnhLbW1ldTNVMEpISkh6OTl2RFM5b3BEMnhaMU9HaXgxMk1sYWgycGg2UldjVENkTUxJT1F2eUNvUzl3ZEJId1ZBVG4xRFB5TWpQR0Ixd3BUdHVCeWMyTnFQWkhkRHlJalA0SnNiaEF5VHg1WjI5WWJxU09HOUlLaGxKQ1NRNjZhMG9lSDEzMzZwMFgxeFYyTGxwNWJ1bnVWZzNvaUJwQ01zVmlxa1c2czNUNUd6eGdNUHFTSU1aWXhrSnVYV1dWeG05d08zS2lNbnPSAdgBQVVfeXFMTTZYTzlpWUp4S21tZXUzVTBKSEpIejk5dkRTOW9wRDJ4WjFPR2l4MTJNbGFoMnBoNlJXY1RDZE1MSU9RdnlDb1M5d2RCSHdWQVRuMURQeU1qUEdCMXdwVHR1QnljMk5xUFpIZER5SWpQNEpzYmhBeVR4NVoyOVlicVNPRzlJS2hsSkNTUTY2YTBvZUgxMzM2cDBYMXhWMkxscDVidW51Vmczb2lCcENNc1ZpcWtXNnMzVDVHenhnTVBxU0lNWll4a0p1WFdXVnhtOXdPM0tpTW5z?oc=5",
+      "words": [
+        "byteask",
+        "coding",
+        "entrepreneur",
+        "first",
+        "million",
+        "raises",
+        "startup"
+      ]
+    },
+    {
+      "at": "2026-09-24T01:32:08.450943+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Apple's MacBook Neo surges in India sales",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWNMSkRZUDhKYWphWmVnY1hRYlJwMVJ3TFhQRk4zX3BzSXU2MjNwQVh2ajA1bDFoNWdZZjBvS3gtSXhrYWMwUDJBZldjb0U4Y2tVOFlPdkQ1em9kd19mdHVncG5fTGN2QUhzdm5ZOC1XdEgzVC12MThhTVlHUjc1Nms3WE9oXzg1YlFVWktaWEFZbkhsaG9v0gGcAUFVX3lxTE9naG5QLWE3VDU1VGNiVzI3OFVzc3FRTThud1hwSFUyZHJOUFJtdkp2bnQzT21FMjVhWnV6UlRwZUk4dHlhM3NnX0ZuMUNXeEVVRXBCM2RLXzBMdzRYZXZSQXVVWGF0bGNtenRtYTZBTTIyYURsb0t2b0V5cHY2UUwzbjhtU1JEczdwQklvcml2bkplVzBYVFdjbkMzWA?oc=5",
+      "words": [
+        "apple",
+        "cross",
+        "doubles",
+        "laptop",
+        "macbook",
+        "million",
+        "nearly",
+        "neo",
+        "one",
+        "sales",
+        "set",
+        "year"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789934758904",
-    "1789903380001",
-    "1789903380520",
-    "1789903380606",
-    "1789876945101",
-    "1789901700270",
-    "1789916400160",
-    "1789929153029",
     "1789931640172",
     "1789939108925",
     "1789856531138",
@@ -13520,10 +13513,18 @@
     "1790209831925",
     "1790146534568",
     "1790174820891",
-    "1790208060634"
+    "1790208060634",
+    "1790128520537",
+    "1790131860586",
+    "1790157120800",
+    "1790159580677",
+    "1790173020772",
+    "1790179320242",
+    "1790188920870",
+    "1790209800849"
   ],
-  "last_digest_hour": "2026-09-24T06",
-  "last_success": "2026-09-24T01:16:50.972112+00:00",
+  "last_digest_hour": "2026-09-24T07",
+  "last_success": "2026-09-24T01:32:08.482486+00:00",
   "national": {
     "alerted": [
       {
@@ -15456,7 +15457,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-24T01:20:18.464167+00:00",
+    "last_run": "2026-09-24T01:35:25.836914+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16834,26 +16835,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Apple's MacBook Neo surges in India sales",
-      "post": {
-        "created_at": "2026-09-24T00:30:31+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1790209831925",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "MacBook Neo nearly doubles Apple laptop sales in India\u2014set to cross one million this year",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWNMSkRZUDhKYWphWmVnY1hRYlJwMVJ3TFhQRk4zX3BzSXU2MjNwQVh2ajA1bDFoNWdZZjBvS3gtSXhrYWMwUDJBZldjb0U4Y2tVOFlPdkQ1em9kd19mdHVncG5fTGN2QUhzdm5ZOC1XdEgzVC12MThhTVlHUjc1Nms3WE9oXzg1YlFVWktaWEFZbkhsaG9v0gGcAUFVX3lxTE9naG5QLWE3VDU1VGNiVzI3OFVzc3FRTThud1hwSFUyZHJOUFJtdkp2bnQzT21FMjVhWnV6UlRwZUk4dHlhM3NnX0ZuMUNXeEVVRXBCM2RLXzBMdzRYZXZSQXVVWGF0bGNtenRtYTZBTTIyYURsb0t2b0V5cHY2UUwzbjhtU1JEczdwQklvcml2bkplVzBYVFdjbkMzWA?oc=5"
-      },
-      "queued_at": "2026-09-24T01:02:17.770398+00:00",
-      "score": 7.0,
-      "why": "Hard shipment numbers for a major tech brand in India."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17874,7 +17856,7 @@
     "news: india tech policy": 1790197020231,
     "news: india telecom": 1790207963562,
     "news: indian it majors": 1790191748915,
-    "news: indian it midcaps": 1790186880957,
+    "news: indian it midcaps": 1790209800849,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790198572811,
     "nvidia": 1790175632981,
@@ -17912,7 +17894,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T01:16:51.212161+00:00",
+    "last_server_run": "2026-09-24T01:32:08.812226+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T00:03:37.519697+00:00",
