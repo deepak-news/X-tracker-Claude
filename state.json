@@ -7559,17 +7559,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789968044251",
-    "1789968152235",
-    "1789968246274",
-    "1789968605726",
-    "1789968611328",
-    "1789884019644",
-    "1789897279123",
-    "1789901277623",
-    "1789910767956",
-    "1789919591893",
-    "1789927322863",
     "1789952100561",
     "1789952400223",
     "1789954069904",
@@ -13558,10 +13547,21 @@
     "1790264955987",
     "1790264981162",
     "1790265600365",
-    "1790265600814"
+    "1790265600814",
+    "1790190520329",
+    "1790215807355",
+    "1790227779164",
+    "1790258931974",
+    "1790260302577",
+    "1790260380437",
+    "1790261691681",
+    "1790265066252",
+    "1790265200853",
+    "1790265240686",
+    "1790265499328"
   ],
   "last_digest_hour": "2026-09-24T21",
-  "last_success": "2026-09-24T16:03:09.618019+00:00",
+  "last_success": "2026-09-24T16:17:44.690299+00:00",
   "national": {
     "alerted": [
       {
@@ -15794,9 +15794,12 @@
       "CG-OR-E-24092026-276465",
       "CG-OR-E-24092026-276466",
       "SG-DL-E-24092026-276470",
-      "CG-DL-E-24092026-276472"
+      "CG-DL-E-24092026-276472",
+      "CG-DL-E-24092026-276467",
+      "CG-DL-E-24092026-276468",
+      "CG-DL-E-24092026-276471"
     ],
-    "last_run": "2026-09-24T16:06:26.226545+00:00",
+    "last_run": "2026-09-24T16:20:36.491454+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17243,7 +17246,11 @@
       "pib:2314618",
       "page:https://internal.imd.gov.in/press_release/20260924_pr_5340.pdf",
       "gazette:SG-DL-E-24092026-276470",
-      "pib:2314637"
+      "pib:2314637",
+      "gazette:CG-DL-E-24092026-276468",
+      "gazette:CG-DL-E-24092026-276471",
+      "gazette:CG-DL-E-24092026-276467",
+      "gazette:CG-DL-E-24092026-276472"
     ],
     "source_failures": {
       "CBI": {
@@ -17319,6 +17326,24 @@
       "queued_at": "2026-09-24T15:49:49.067483+00:00",
       "score": 7.0,
       "why": "New payment method for tax payments by a major bank."
+    },
+    {
+      "headline": "Government sources clarify UPI charges and tax exemptions",
+      "post": {
+        "created_at": "2026-09-24T15:53:20+00:00",
+        "handle": "News: India fintech",
+        "id": "1790265200853",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "NDTV",
+        "reposts": 0,
+        "text": "UPI Charge Not Tax, 96% Transactions Won't Be Unaffected: Government Sources",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNTNBMktjMFZsdlk2bkNfY0Q3V1ctb0RzcHF0NktMMUR0Vm9qN0dPbTRSZktFWTVJb3pmbzBxTVdPbENvSW5JOE95dzJFbzl6QjNNelhqXzNiMHpjRnFGS2xxbGVXTlI0VXpJeHQ0cFFWZnkyNVpTSVp5WFZJUnIxSmVXcDRzbmtzaHNlbE41Wl80eEFpWXpPNnlKTDJHbFpNUDFTR2pIMXB2cWZjQzBMR05sNmRPclpq0gHAAUFVX3lxTFBxQi1sb2IxSWR3MVNKRlQ2MDlrU2d2U1FONWpkSTBWV2FmYW9ueUJzeVlqV0RSZ0RHYkF4bXp0ejdjT3JaeVNTbjk1Z19rdm5tRHhLdHNJbjVMYWUwZUNlVlB6Ulp4dl9scnZfeDluZ1VkVEZTUnN5RF93d0Y2cWFpNWJ0ZVk4NW5xNVpSdFFOSXM3LXJqUi10TGZlcTFxczh1d2J5bjZWZC1oX1dDRmlaVzZiX0ZJY25IN1BiZVNPMw?oc=5"
+      },
+      "queued_at": "2026-09-24T16:17:44.665473+00:00",
+      "score": 7.0,
+      "why": "Important official clarification following recent controversy over UPI merchant fees."
     }
   ],
   "page_links": {
@@ -18331,19 +18356,19 @@
     "microsoft india": 1790232537762,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790248736938,
+    "news: big tech platforms": 1790265499328,
     "news: consumer internet india": 1790262147273,
     "news: global ai": 1790259158440,
     "news: global chips": 1790261334834,
     "news: global it services": 1790263164342,
-    "news: india ai deeptech": 1790264981162,
+    "news: india ai deeptech": 1790265066252,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790264955987,
+    "news: india fintech": 1790265200853,
     "news: india semiconductors": 1790261334834,
-    "news: india tech policy": 1790254080901,
+    "news: india tech policy": 1790265240686,
     "news: india telecom": 1790252898684,
     "news: indian it majors": 1790249686477,
-    "news: indian it midcaps": 1790255924242,
+    "news: indian it midcaps": 1790260380437,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790260080346,
     "nvidia": 1790258450056,
@@ -18381,7 +18406,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T16:03:09.857140+00:00",
+    "last_server_run": "2026-09-24T16:17:44.906924+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T15:03:51.722544+00:00",
@@ -18718,6 +18743,9 @@
       "CG-DL-E-24092026-276462",
       "CG-DL-E-24092026-276463",
       "CG-DL-E-24092026-276464",
+      "CG-DL-E-24092026-276467",
+      "CG-DL-E-24092026-276468",
+      "CG-DL-E-24092026-276471",
       "CG-DL-E-24092026-276472",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
@@ -18931,7 +18959,8 @@
       "meeting:LS|22525",
       "meeting:LS|22526",
       "bulletin:LS|2026-09-24|Bulletin-II",
-      "bulletin:RS|2026-09-24|Bulletin Part-II"
+      "bulletin:RS|2026-09-24|Bulletin Part-II",
+      "gazette:CG-DL-E-24092026-276467|GAZETTE_MAIL_TO"
     ]
   }
 }
