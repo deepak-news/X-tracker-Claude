@@ -7541,17 +7541,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789956678611",
-    "1789957241887",
-    "1789957988853",
-    "1789958738272",
-    "1789959015085",
-    "1789959726614",
-    "1789960031436",
-    "1789961655328",
-    "1789962693931",
-    "1789962999340",
-    "1789963054032",
     "1789963057364",
     "1789963369238",
     "1789963458460",
@@ -13540,10 +13529,21 @@
     "1790250424586",
     "1790250442281",
     "1790251200913",
-    "1790261108092"
+    "1790261108092",
+    "1789963260645",
+    "1790177408593",
+    "1790216100948",
+    "1790239923945",
+    "1790246682208",
+    "1790247854305",
+    "1790249933492",
+    "1790250194383",
+    "1790251174260",
+    "1790251380901",
+    "1790251800164"
   ],
   "last_digest_hour": "2026-09-24T17",
-  "last_success": "2026-09-24T12:03:01.657423+00:00",
+  "last_success": "2026-09-24T12:17:45.893047+00:00",
   "national": {
     "alerted": [
       {
@@ -15310,6 +15310,23 @@
           "section",
           "sub"
         ]
+      },
+      {
+        "at": "2026-09-24T12:20:28.855043+00:00",
+        "handle": "PIB Ministry of Steel",
+        "headline": "India's steel demand remains robust during April to August 2026",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314464",
+        "words": [
+          "2026",
+          "apr",
+          "aug",
+          "demand",
+          "ministry",
+          "robust",
+          "stays",
+          "steel"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15626,7 +15643,7 @@
       "CG-OR-E-24092026-276465",
       "CG-OR-E-24092026-276466"
     ],
-    "last_run": "2026-09-24T12:05:45.619112+00:00",
+    "last_run": "2026-09-24T12:20:28.855555+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17019,7 +17036,15 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63658",
       "page:https://internal.imd.gov.in/press_release/20260924_pr_5339.pdf",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13713&Mode=0",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63657"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63657",
+      "pib:2314463",
+      "pib:2314457",
+      "pib:2314474",
+      "pib:2314453",
+      "pib:2314464",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63659",
+      "pib:2314447",
+      "pib:2314468"
     ],
     "source_failures": {
       "CBI": {
@@ -17149,6 +17174,24 @@
       "queued_at": "2026-09-24T12:03:01.619815+00:00",
       "score": 7.0,
       "why": "Major industry insight and legal disclosure regarding top AI partnerships."
+    },
+    {
+      "headline": "Samsung Wallet adds biometric authentication for UPI payments in India",
+      "post": {
+        "created_at": "2026-09-24T12:10:00+00:00",
+        "handle": "News: India fintech",
+        "id": "1790251800164",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "Samsung Wallet now allows users to make UPI payments with biometric authentication in India: Here's how i",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdktvNVZrOVZoN29RY0dPWV9UTDhPdmNUSklKcENHajhzWjIxRmNOOFlySlhFcWRmQUpUYWJWcloyQWZzWjcxNTI0dldTVlNwSlpTLXYwQThWeXRuNmM3X1VFRVNUNE9qOV9lX3BrcUNzNTFOYVRQR0hvVjNWQV81aXZTWVZtOGd2TkJKWGRnNTJCamh6bHk3SmllT1NtSnoyN2tla2tiNXNHMmxGcVRwNUh2NnI3cXdVb0JLV21xS181SEJsV0tIblAydmkyR2ZhWmY2SGYtWjVtZzJEM1hWMmJadVdJb3l4MFJGd2x3NjJ0NFJ6S29xUERHclZZSmFzZG9YZG5DRjB4dUhMazRrcTJR0gGXAkFVX3lxTE9OVmJjN29aRFppeklhbEM5dTRZOEJvSnhZWE5xa0xUbFd6N0tqYXJKTllDazJnOThvVVMxUkx6aklvcld2RHl0SEZXOUZsUEtFRTFVdXdOWW1qRk5FcFRpVzFUVl9oUDlqYjZlNW96TG4tX3JnSy1JdGp5NEpiZTFYeWg2WndVWjhSeW1RNnJTM0dvWWlYNTVDZGYtNVlvZzBKVnROWHF3Ym1USUN5VTUwdEIydGZZUVhvRkdValB5b2VPUVBhYXo3djhvcFhmOGp2ZmtROTNKX0x1b1hjeWplRnMzMGlDQjd4Z216YXpiZFlzLU94MFcydGIzYnNEWnhPcTIxaURNZlg5d2ZTTFJnNzM5ZjZaSQ?oc=5"
+      },
+      "queued_at": "2026-09-24T12:17:45.860544+00:00",
+      "score": 7.0,
+      "why": "This is a major product capability rollout for a dominant mobile payment rail in India."
     }
   ],
   "page_links": {
@@ -18162,18 +18205,18 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790247780137,
-    "news: consumer internet india": 1790250442281,
-    "news: global ai": 1790249833812,
+    "news: consumer internet india": 1790251174260,
+    "news: global ai": 1790249933492,
     "news: global chips": 1790229087353,
     "news: global it services": 1790172561362,
     "news: india ai deeptech": 1790239444142,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790249916454,
+    "news: india fintech": 1790251800164,
     "news: india semiconductors": 1790247714814,
     "news: india tech policy": 1790239952366,
     "news: india telecom": 1790250424586,
-    "news: indian it majors": 1790246205838,
-    "news: indian it midcaps": 1790243940426,
+    "news: indian it majors": 1790247854305,
+    "news: indian it midcaps": 1790251380901,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790241720614,
     "nvidia": 1790175632981,
@@ -18211,7 +18254,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T12:03:01.995755+00:00",
+    "last_server_run": "2026-09-24T12:17:46.156687+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T10:47:56.639448+00:00",
