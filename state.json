@@ -13524,7 +13524,7 @@
     "1790221906663"
   ],
   "last_digest_hour": "2026-09-24T10",
-  "last_success": "2026-09-24T05:02:39.535656+00:00",
+  "last_success": "2026-09-24T05:16:48.419330+00:00",
   "national": {
     "alerted": [
       {
@@ -15457,7 +15457,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-24T05:06:00.320102+00:00",
+    "last_run": "2026-09-24T05:20:10.976284+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16802,7 +16802,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-importance-of-truthful-pleasant-and-benevolent-speech",
       "pib:2314234",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63654",
-      "pib:2314239"
+      "pib:2314239",
+      "pib:2314246"
     ],
     "source_failures": {
       "CBI": {
@@ -17938,7 +17939,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T05:02:39.793949+00:00",
+    "last_server_run": "2026-09-24T05:16:48.720181+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T04:18:48.447039+00:00",
