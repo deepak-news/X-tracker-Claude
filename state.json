@@ -7522,10 +7522,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789917483034",
-    "1789931740449",
-    "1789945502340",
-    "1789945815841",
     "1789946700382",
     "1789946814583",
     "1789891015919",
@@ -13521,10 +13517,14 @@
     "1790218923673",
     "1790219180304",
     "1790160900154",
-    "1790215963246"
+    "1790215963246",
+    "1790176031104",
+    "1790218642666",
+    "1790220850207",
+    "1790221906663"
   ],
   "last_digest_hour": "2026-09-24T10",
-  "last_success": "2026-09-24T04:47:45.714322+00:00",
+  "last_success": "2026-09-24T05:02:39.535656+00:00",
   "national": {
     "alerted": [
       {
@@ -15457,7 +15457,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-24T04:48:57.199656+00:00",
+    "last_run": "2026-09-24T05:06:00.320102+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16800,7 +16800,9 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63653",
       "pib:2314230",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-importance-of-truthful-pleasant-and-benevolent-speech",
-      "pib:2314234"
+      "pib:2314234",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63654",
+      "pib:2314239"
     ],
     "source_failures": {
       "CBI": {
@@ -16840,7 +16842,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "UPI MDR could generate Rs 2,000 crore for PhonePe, Rs 550 crore for Razorpay",
+      "post": {
+        "created_at": "2026-09-24T02:57:22+00:00",
+        "handle": "News: India fintech",
+        "id": "1790218642666",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Bfsi",
+        "reposts": 0,
+        "text": "UPI MDR could add up to Rs 2,000 crore revenue for PhonePe, Rs 550 crore for Razorpay: Analysts",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNblFQRFNPYzZyRGZrOXRzMHFrczBIRm1jSlJhTnh6TFZ6YXNtWDNoWVVid3VHdkluclRZWUpKU0FBQmlUX05RdFRqRGlCUmtxVzUzZk9iczBGV0FZQmlHcDBpNTY0RkxMaUc0X2liWWV0Snh3Tm1MRTNhVXg3bjBCMm9sYWQ5M284SjY4Q1FlWVlKdGRyMUdKRUdVUzVuaHlQdFNuemJZbkNOd0pGZksweUNhWnhwUVdPOTRoVl9XdENtZ3hsV1ZZbzVuazFOdVJkNVFVbjEzWUxkS0ZRQm1wX1VKNFU1bWwya3lNZ1Vn0gHuAUFVX3lxTE1uUVBEU09jNnJEZms5dHMwcWtzMEhGbWNKUmFOeHpMVnphc21YM2hZVWJ3dUd2SW5yVFlZSkpTQUFCaVRfTlF0VGpEaUJSa3FXNTNmT2JzMEZXQVlCaUdwMGk1NjRGTExpRzRfaWJZZXRKeHdObUxFM2FVeDduMEIyb2xhZDkzbzhKNjhDUWVZWUp0ZHIxR0pFR1VTNW5oeVB0U256YlluQ053SkZmSzB5Q2FaeHBRV085NGhWX1d0Q21neGxXVllvNW5rMU51UmQ1UVVuMTNZTGRLRlFCbXBfVUo0VTVtbDJreU1nVWc?oc=5"
+      },
+      "queued_at": "2026-09-24T05:02:39.506126+00:00",
+      "score": 8.0,
+      "why": "Hard numbers and revenue estimates on a major Indian fintech policy shift."
+    },
+    {
+      "headline": "OpenAI argues SEC disclosures undermine xAI's antitrust lawsuit",
+      "post": {
+        "created_at": "2026-09-24T03:51:46+00:00",
+        "handle": "News: Global AI",
+        "id": "1790221906663",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Hindu",
+        "reposts": 0,
+        "text": "OpenAI says SEC disclosures undermine xAI\u2019s antitrust lawsuit",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGFSMjdndGhPWEFqR0o1Mm9vMFRUUWgtWS02bzY4Z2x5dzNJOUFwN2NVOERaVmU4WHpGaFp0cktsX2t5TURRck5qY3NNREo1UDA4OGdJeGhpM3BzVDRnU0dEa3JtRmt2YlU4XzJ1VkVoZW01V3BmVUxYdkF4THdjSi1teXNWVW9qVGVlR2N4S29WZldaS3Vkck1uSlV5bXJ0Ul9vU1JRN2RINEN2cG8ydXR4Qkt0eFBCejM4SU9aNGVVbm_SAcoBQVVfeXFMTXNid3B0MDZSWGpCd2Q3T1BPYnlPNkVNanlfUGp5bEtIX2xMbmxhaG51N1pCLUVEdktEMFFzbTZKZnNWbVhVbTNBSjVtbU4zVG9kcGFtNDlBZ09sWmVudnhTai1YN00tNmdOM19SLXpFaUdBN3cxZnJNZnRhOERFamdDSkNwN2o0XzhOMkxQOUcxNGxlOFI2RlNvVmdWeDlCbDNGUFh0R3Z1c0dZbG03cGctOXhrdHdJR1RkUnRtQURGaWlzLWxGYmp2QQ?oc=5"
+      },
+      "queued_at": "2026-09-24T05:02:39.506126+00:00",
+      "score": 7.0,
+      "why": "Major AI company legal disclosure involving global market competition."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17851,7 +17890,7 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1790221478195,
     "news: consumer internet india": 1790220850381,
-    "news: global ai": 1790213040794,
+    "news: global ai": 1790221906663,
     "news: global chips": 1790207142235,
     "news: global it services": 1790171374941,
     "news: india ai deeptech": 1790220001150,
@@ -17899,7 +17938,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T04:47:46.012814+00:00",
+    "last_server_run": "2026-09-24T05:02:39.793949+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T04:18:48.447039+00:00",
