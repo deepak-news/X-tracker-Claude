@@ -1,108 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-20T07:32:11.625722+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "SEMICON India 2026 concludes with 15 announcements from startups and students",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0dqY09YNzlMOU5DQmxrSFdxRERqZ1lCWXhtcjMyaHNCLW41TXE0OVFVbEFtWlBLVmRjSFBPdHhZaVhpSWFydjVPVkZBeTcxVWdCcklXc054aEtyNXI3SXI0QVJGMkJ3eTdEdnRWUFhwU2ZUQjMyY0hPWkpsYnd0VmR1NkpPejVSbWZpX2dZN3lYeHoxdExEUFJB?oc=5",
-      "words": [
-        "2026",
-        "announcements",
-        "concludes",
-        "headlined",
-        "semicon",
-        "startups",
-        "student",
-        "teams"
-      ]
-    },
-    {
-      "at": "2026-09-20T07:32:11.625722+00:00",
-      "handle": "News: India fintech",
-      "headline": "NPCI introduces MyUPI AI service amid transaction charge debates",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaWgyd2QxSExfRHNXRXFPU2NBd0NfaVMybkRRZHBIQm10cEl4ZmNybjZSeC1HM2t4U2NoQkFtcGlFS2dGMXU1UmlSTU0xQWdCMG1JLWd0Nm9ndXI2di05VHdXRFpmVTJZQVhRaXNfNktQdnFuZFJIektfZDllbUdkci1oTjVpSUdzWjdFcF9jc1dnYTVyODFnVHBLcVZHSjBQMjhCU2hNQVdTcFI3SC1Kb1JpQVNKajBnZHVESFRKcHk5UDFPQWl5TTUxZ9IB2AFBVV95cUxPV2hZQ1BCX3BqM2daWHBfMFdmRFpSS1VhSXdsTUEyazEtOEJsc2lsZFlhRnRhWHQwLXN4bHBLTjF2SGUxR1JDSFc1NFVqYVFNMzJzaXpWSHFTVjltaGtacTBsbllQZ2ZCNTdOMFh3STdkaGMzbXZqWlBJMEw0Zi1zcFlPZlpaUW92VU9wU0h6Yy1SdFNLTnN4eUIzbjNBLUl0ZWgyVlFTYUExbzBRd1NuUUlPTnM5SGZfbUlzNjc4bjV1M04yT2F4cFQyc0Z0UUhLNzREdkhOY2o?oc=5",
-      "words": [
-        "charges",
-        "introduces",
-        "mdr",
-        "myupi",
-        "npci",
-        "questions",
-        "rules",
-        "service",
-        "transaction",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-20T07:32:11.625722+00:00",
-      "handle": "News: Global AI",
-      "headline": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVo2emRMZVZvNk1OY3lQV2U5bU9remF5QTB6LW1RdjctOHlNMk5tQW56VHlKaFNnbHFxT1MzSUxmR29KUTdSZU12eV9pRjJJdURrWElQYWlhVWlFTVFLVUxoaGhsVWpqQm9oNWJ5Q0VKZkV4ejRlQ2VtMkFCbzZLTjc5cXc?oc=5",
-      "words": [
-        "300bn",
-        "balance",
-        "big",
-        "exposure",
-        "guarantees",
-        "keep",
-        "off",
-        "sheets",
-        "tech",
-        "uses"
-      ]
-    },
-    {
-      "at": "2026-09-20T07:32:11.625722+00:00",
-      "handle": "News: Global AI",
-      "headline": "Trump proposes new AI czar and Space Force-style AI Force",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVFBEUV9SLUJsSWpTWENyQ2NEbzEwYTZLM3ZvODktUnpMZ0Z1d1p2a1Yxdjh0d0dUOUpmb1Y4NzA2RUJOYUxTa2UzWjYwWWVETTZRakM4Rk1yN0F4emE3T3E1Q3BzUV9sS050MGo5VXU2d1E?oc=5",
-      "words": [
-        "czar",
-        "force",
-        "modeled",
-        "space",
-        "trump",
-        "wants"
-      ]
-    },
-    {
-      "at": "2026-09-20T08:32:07.338457+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "India to set up first precision manufacturing institute under Semicon 2.0",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQczhkUXpOMndtNng3a1h2N2FTclB3QXdMM213YVVhWDVhRndSMzFDR3NpNjdUQWl2NzVvbVR5MHR3eEVxN1hqZFl2NEJDUVo3ZGdzSmVhX1hULWoza1A0TFhtWmVGNksxQ3JrX3U2eGFySTA3bGxnblgwQmRUMDBLUGQyYUh5NER5d2hzTWM3M2hOUnhKNVhBMWZiX0NPemdabHNxQW1yamh4V0g2RHdaVUZDX3o4ZWM?oc=5",
-      "words": [
-        "establish",
-        "first",
-        "institute",
-        "manufacturing",
-        "precision",
-        "semicon",
-        "under"
-      ]
-    },
-    {
-      "at": "2026-09-20T08:32:07.338457+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Coforge expands AI vehicle lifecycle intelligence for auto lenders",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVJaZWlzRXUycFBQbFBENkh1eDE2cE1kQW0xaGVwd3h6OEdWQ3FNSGdWdlJfRHZkMzJjSzloRzdBc2lfbXpIbm11eVQ2S3l4RmQ1T21jdXlBZ0JUaTh1ZDZsNUVoYWdRdU1UdWN1cVBGZ3N6ckZiNUdwdHl2ZzRJRHFwbzk5SDJQZllHLXU1a0xIWUVXQ0MtN1hBOEdqQWF6ODVNa193c2VqUUtZcjhveGtkLUl2NEpPRDdz?oc=5",
-      "words": [
-        "auto",
-        "coforge",
-        "expands",
-        "intelligence",
-        "lenders",
-        "lifecycle",
-        "vehicle"
-      ]
-    },
-    {
       "at": "2026-09-20T08:32:07.338457+00:00",
       "handle": "News: India semiconductors",
       "headline": "Minister Vaishnaw Warns of Geopolitical Risks in Chip Push",
@@ -7554,18 +7452,134 @@
         "transactions",
         "upi"
       ]
+    },
+    {
+      "at": "2026-09-24T16:33:05.621784+00:00",
+      "handle": "Google DeepMind",
+      "headline": "Google DeepMind launches Gemini 3.8 Live with Live Avatar",
+      "tier": 1,
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "words": [
+        "article",
+        "avatar",
+        "brings",
+        "capabiliti",
+        "conversational",
+        "coupling",
+        "dialogue",
+        "gemini",
+        "introducing",
+        "live",
+        "natively",
+        "our",
+        "presence",
+        "real"
+      ]
+    },
+    {
+      "at": "2026-09-24T16:33:07.366314+00:00",
+      "handle": "News: India fintech",
+      "headline": "Govt sources dismiss fears of UPI shift to cash due to merchant fees",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmRraVpGcjVzaW5iLUVXZnZqdndGZWlmQjlxbllMMGVxaW9YSlMzOVJ6MEZQcnd2amxwT3padndXSDNlaTh0c0ZjLWZZaDV2dHNweFZ4MFhFZDBTc0dva05hMVoxOGp5T1hFWVkxTGV4OHpOX3JDSDY4R3R4Sks2MklSX3dFZVFDbVhfRVgxZFQ3V2ZTbHg3TVd2eFfSAaMBQVVfeXFMTU9kazd1dm9EWkFmY3ZES0dNa0dWYUhWYWY4MzdmWHJKZnZ6TEdFRmZROFR4SndaTVNPRzVhMmMzT2h5czZaWkRCSmQ3YUJWR0JTVXl1emNHOVRYeVFHYUZhUzlES1c5aV9NVHA2My1hdzFzd1c5SFB2TU0wWk8zNFF1Y0lLcjA5NTVCR3dFcy1RdjBJNTBPdDhjTkE2MHdCZWUzWQ?oc=5",
+      "words": [
+        "100",
+        "cash",
+        "due",
+        "fear",
+        "fee",
+        "government",
+        "merchant",
+        "misplaced",
+        "shift",
+        "sources",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-24T16:33:07.366314+00:00",
+      "handle": "News: India fintech",
+      "headline": "FinMin sources indicate UPI subsidy for sub-Rs 2,000 likely to continue",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVi1UMDNjWFppbjFZaXVWckFYbmVOTWhSRmtMMlE3aFhlZU9XT3B0UXBqNGtZMGQ5N0FHcXRhSzNpZDZsNHU2cEFNNHY5eVVYbkhvUGpBZE12YzZoM1ZsSDFmRnN2ZFlFWV9KU05XT0lRNXUwSkVmY1VVLTRETkpCWTBueFNMdlg5REZfWDA2NWJKX0xybEJ6eVJBczFQWEF1TVJCTFpVTHN3QzdPbUhOVE9YTFI4TTdHTW56X0VDVmdJWUl6N2JHTld3eWIzb25sdzJjemF3dVBXOG9nSm1UNmhWYkYzZ9IB6wFBVV95cUxPYVI4bEVLWnhOMWVaeG8yUlhsWVR1UHJ5RmJhZU4wNjAtOGNpWGxsQlZKTFFBQzlXRzE4OWhnY0Z1Q2NmN2lJam9ra2RzYWY5ZzhweE5LU013dDJhWDJFSGhRTW1ZYTJhSEM0R3Z2X3h2ZlBnT2syOFBkWGZvb1M1bDVMbk43Q25ObzQtbFJnUnpxRW1MbTg3NHAyZG1yZC14LXViZmtrNDhzYzJlbUJhTGpqVm16Sk9EQVNKbU5WbG9XR0NwR244VF9lZUFlU1BrTmRXdC03azlfVEFXMHZsNERCUkxkN1hndXNj?oc=5",
+      "words": [
+        "000",
+        "below",
+        "beyond",
+        "continue",
+        "finmin",
+        "likely",
+        "october",
+        "sources",
+        "subsidy",
+        "transactions",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-24T16:33:07.366314+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Piyush Goyal projects India semiconductor demand to exceed $150 billion",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZDlzZk1LODd5SWJlakc2aFpzZlJzeVpob1J5anZXaGE0amtUS3ZJc3A1ZXNTdlNrU1NNLTY5UW82YlZZeWhuZm5mVml4RDlDU1pMQnBaUGo2TVFWc0t1NzdtMTVzR3FxTnRHSk9oS0FQRTFnMjJaYk1ONkh6cXFTZGZWTVRnNS1pcXVIU0VfTDVGQTVieS1hcUszMmtDQldFYjIzVG5ZcUlwcHVpWDFDSGFvSjk4TjFUSlBOcWlhWG5EdVRkb19mNXo2anhBazRnSHY5OUVjOHVrZGNOOVE3dg?oc=5",
+      "words": [
+        "150",
+        "annual",
+        "billion",
+        "demand",
+        "exceed",
+        "expected",
+        "five",
+        "goyal",
+        "piyush",
+        "semiconductor",
+        "usd",
+        "years"
+      ]
+    },
+    {
+      "at": "2026-09-24T16:33:07.366314+00:00",
+      "handle": "News: India fintech",
+      "headline": "IDFC FIRST Bank enables Direct Tax payments via UPI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMThmOG1mM0FqZWRpM3BLZzNqM1l3a2pRMmVNUEw3RU5ucFhKdFRWSklEVHFndW5sZnAtc3hIMVFEWXhraXU5SkZXRVJOSjlqUl9MWVBwSm54NUlxRzdUZGk1QnBJTHNld2hKRVFRTnpqa1NDaHlabzFNeUhHY0swNk9UUF85OXd5T2pLQnNfT0NDRHM4Zng5aXhSZmo5M29uRHl1N0ZfRDNFZXhWcC1JN1dfMmNLcWZmR2xkdFdZQWFnaWFZQjE3VEVpS2JMVUnSAdQBQVVfeXFMUGdkQVF3MjB6UlVtUnpkRW5EZ2Y0RWRlX2ZPMnRldW1hTXV3cEc5b0s4ckcwTmxCdFpBcjFGV1d6SjdHVG11cEdTRGVSOEY0aVpTcDBfazUtNzhRSi0yYk04M3VuVGpaM29XQUhxQ04xNGpndzBITGRRdVlRWmlyaWJpRERIWWFaaUY1NzRtY3BMWGNTQnpaVzYxWTBSMHhLWnpZVC02S1Q2QTR6UmpEYUZRd3p2dG9jMUJBRm50b1BmSWhVMjZyRWRYMTF5OGFxcVFPb1o?oc=5",
+      "words": [
+        "bank",
+        "banking",
+        "branches",
+        "cards",
+        "direct",
+        "enables",
+        "first",
+        "idfc",
+        "net",
+        "payments",
+        "tax",
+        "through",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-24T16:33:07.366314+00:00",
+      "handle": "News: India fintech",
+      "headline": "Government sources clarify UPI charges and tax exemptions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNTNBMktjMFZsdlk2bkNfY0Q3V1ctb0RzcHF0NktMMUR0Vm9qN0dPbTRSZktFWTVJb3pmbzBxTVdPbENvSW5JOE95dzJFbzl6QjNNelhqXzNiMHpjRnFGS2xxbGVXTlI0VXpJeHQ0cFFWZnkyNVpTSVp5WFZJUnIxSmVXcDRzbmtzaHNlbE41Wl80eEFpWXpPNnlKTDJHbFpNUDFTR2pIMXB2cWZjQzBMR05sNmRPclpq0gHAAUFVX3lxTFBxQi1sb2IxSWR3MVNKRlQ2MDlrU2d2U1FONWpkSTBWV2FmYW9ueUJzeVlqV0RSZ0RHYkF4bXp0ejdjT3JaeVNTbjk1Z19rdm5tRHhLdHNJbjVMYWUwZUNlVlB6Ulp4dl9scnZfeDluZ1VkVEZTUnN5RF93d0Y2cWFpNWJ0ZVk4NW5xNVpSdFFOSXM3LXJqUi10TGZlcTFxczh1d2J5bjZWZC1oX1dDRmlaVzZiX0ZJY25IN1BiZVNPMw?oc=5",
+      "words": [
+        "charge",
+        "government",
+        "sources",
+        "tax",
+        "transactions",
+        "unaffected",
+        "upi",
+        "won"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789952100561",
-    "1789952400223",
-    "1789954069904",
-    "1789957323598",
-    "1789962803396",
-    "1789963057187",
-    "1789964593286",
     "1789964611862",
     "1789964709559",
     "1789964905592",
@@ -13558,10 +13572,17 @@
     "1790265066252",
     "1790265200853",
     "1790265240686",
-    "1790265499328"
+    "1790265499328",
+    "1790244087635",
+    "1790262685293",
+    "1790264900312",
+    "1790266685687",
+    "1790266839037",
+    "1790266860286",
+    "1790267160363"
   ],
-  "last_digest_hour": "2026-09-24T21",
-  "last_success": "2026-09-24T16:17:44.690299+00:00",
+  "last_digest_hour": "2026-09-24T22",
+  "last_success": "2026-09-24T16:33:07.393520+00:00",
   "national": {
     "alerted": [
       {
@@ -15799,7 +15820,7 @@
       "CG-DL-E-24092026-276468",
       "CG-DL-E-24092026-276471"
     ],
-    "last_run": "2026-09-24T16:20:36.491454+00:00",
+    "last_run": "2026-09-24T16:36:24.962638+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17250,7 +17271,10 @@
       "gazette:CG-DL-E-24092026-276468",
       "gazette:CG-DL-E-24092026-276471",
       "gazette:CG-DL-E-24092026-276467",
-      "gazette:CG-DL-E-24092026-276472"
+      "gazette:CG-DL-E-24092026-276472",
+      "pib:2314651",
+      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/order-in-the-matter-of-non-compliance-of-minimum-public-shareholding-in-omaxe-limited_104726.html",
+      "pib:2314652"
     ],
     "source_failures": {
       "CBI": {
@@ -17290,62 +17314,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Govt sources dismiss fears of UPI shift to cash due to merchant fees",
-      "post": {
-        "created_at": "2026-09-24T15:30:44+00:00",
-        "handle": "News: India fintech",
-        "id": "1790263844681",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Indian Express",
-        "reposts": 0,
-        "text": "\u2018Fear of shift to cash due to merchant fee on UPI 100% misplaced\u2019: Government sources",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmRraVpGcjVzaW5iLUVXZnZqdndGZWlmQjlxbllMMGVxaW9YSlMzOVJ6MEZQcnd2amxwT3padndXSDNlaTh0c0ZjLWZZaDV2dHNweFZ4MFhFZDBTc0dva05hMVoxOGp5T1hFWVkxTGV4OHpOX3JDSDY4R3R4Sks2MklSX3dFZVFDbVhfRVgxZFQ3V2ZTbHg3TVd2eFfSAaMBQVVfeXFMTU9kazd1dm9EWkFmY3ZES0dNa0dWYUhWYWY4MzdmWHJKZnZ6TEdFRmZROFR4SndaTVNPRzVhMmMzT2h5czZaWkRCSmQ3YUJWR0JTVXl1emNHOVRYeVFHYUZhUzlES1c5aV9NVHA2My1hdzFzd1c5SFB2TU0wWk8zNFF1Y0lLcjA5NTVCR3dFcy1RdjBJNTBPdDhjTkE2MHdCZWUzWQ?oc=5"
-      },
-      "queued_at": "2026-09-24T15:49:49.067483+00:00",
-      "score": 8.0,
-      "why": "Government statement addressing market concerns about UPI MDR."
-    },
-    {
-      "headline": "IDFC FIRST Bank enables Direct Tax payments via UPI",
-      "post": {
-        "created_at": "2026-09-24T12:32:17+00:00",
-        "handle": "News: India fintech",
-        "id": "1790253137043",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ThePrint",
-        "reposts": 0,
-        "text": "IDFC FIRST Bank enables Direct Tax payments through UPI, cards, net banking and branches",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMThmOG1mM0FqZWRpM3BLZzNqM1l3a2pRMmVNUEw3RU5ucFhKdFRWSklEVHFndW5sZnAtc3hIMVFEWXhraXU5SkZXRVJOSjlqUl9MWVBwSm54NUlxRzdUZGk1QnBJTHNld2hKRVFRTnpqa1NDaHlabzFNeUhHY0swNk9UUF85OXd5T2pLQnNfT0NDRHM4Zng5aXhSZmo5M29uRHl1N0ZfRDNFZXhWcC1JN1dfMmNLcWZmR2xkdFdZQWFnaWFZQjE3VEVpS2JMVUnSAdQBQVVfeXFMUGdkQVF3MjB6UlVtUnpkRW5EZ2Y0RWRlX2ZPMnRldW1hTXV3cEc5b0s4ckcwTmxCdFpBcjFGV1d6SjdHVG11cEdTRGVSOEY0aVpTcDBfazUtNzhRSi0yYk04M3VuVGpaM29XQUhxQ04xNGpndzBITGRRdVlRWmlyaWJpRERIWWFaaUY1NzRtY3BMWGNTQnpaVzYxWTBSMHhLWnpZVC02S1Q2QTR6UmpEYUZRd3p2dG9jMUJBRm50b1BmSWhVMjZyRWRYMTF5OGFxcVFPb1o?oc=5"
-      },
-      "queued_at": "2026-09-24T15:49:49.067483+00:00",
-      "score": 7.0,
-      "why": "New payment method for tax payments by a major bank."
-    },
-    {
-      "headline": "Government sources clarify UPI charges and tax exemptions",
-      "post": {
-        "created_at": "2026-09-24T15:53:20+00:00",
-        "handle": "News: India fintech",
-        "id": "1790265200853",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV",
-        "reposts": 0,
-        "text": "UPI Charge Not Tax, 96% Transactions Won't Be Unaffected: Government Sources",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNTNBMktjMFZsdlk2bkNfY0Q3V1ctb0RzcHF0NktMMUR0Vm9qN0dPbTRSZktFWTVJb3pmbzBxTVdPbENvSW5JOE95dzJFbzl6QjNNelhqXzNiMHpjRnFGS2xxbGVXTlI0VXpJeHQ0cFFWZnkyNVpTSVp5WFZJUnIxSmVXcDRzbmtzaHNlbE41Wl80eEFpWXpPNnlKTDJHbFpNUDFTR2pIMXB2cWZjQzBMR05sNmRPclpq0gHAAUFVX3lxTFBxQi1sb2IxSWR3MVNKRlQ2MDlrU2d2U1FONWpkSTBWV2FmYW9ueUJzeVlqV0RSZ0RHYkF4bXp0ejdjT3JaeVNTbjk1Z19rdm5tRHhLdHNJbjVMYWUwZUNlVlB6Ulp4dl9scnZfeDluZ1VkVEZTUnN5RF93d0Y2cWFpNWJ0ZVk4NW5xNVpSdFFOSXM3LXJqUi10TGZlcTFxczh1d2J5bjZWZC1oX1dDRmlaVzZiX0ZJY25IN1BiZVNPMw?oc=5"
-      },
-      "queued_at": "2026-09-24T16:17:44.665473+00:00",
-      "score": 7.0,
-      "why": "Important official clarification following recent controversy over UPI merchant fees."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18344,7 +18313,7 @@
     "flipkart": 1789631208994,
     "google": 1790265600365,
     "google cloud": 1790265600814,
-    "google deepmind": 1790179257868,
+    "google deepmind": 1790266839037,
     "google india": 1790235000631,
     "hcltech": 1790252074593,
     "ibm": 1790247600641,
@@ -18363,8 +18332,8 @@
     "news: global it services": 1790263164342,
     "news: india ai deeptech": 1790265066252,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790265200853,
-    "news: india semiconductors": 1790261334834,
+    "news: india fintech": 1790266860286,
+    "news: india semiconductors": 1790267160363,
     "news: india tech policy": 1790265240686,
     "news: india telecom": 1790252898684,
     "news: indian it majors": 1790249686477,
@@ -18406,7 +18375,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T16:17:44.906924+00:00",
+    "last_server_run": "2026-09-24T16:33:07.609294+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T15:03:51.722544+00:00",
