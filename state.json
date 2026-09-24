@@ -1,94 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-20T09:32:16.427486+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Wipro stock edges lower as margins tighten after Q1 results",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmFieXV4WnRhN2g5X3pvRGFXMmxwUElvRFlZMklUMHZsUVJzOXhZN1EwdU5RWGZlTUE2QVJHRnFtNnJtN3MtNzdoRVZkSEFXcXFEcEp1NHBKRzVtV04wbTZIa1hpNTBCb1lad242Z2pwOFhuMF93X2pyVGgxSzVZQWE2cE53TF9TQXhydzlkalVoOW41R1AxLXQyUW1rOHdfS0NtcElsa3NiODd0ZDNoUzIyam5BUXhGbkE?oc=5",
-      "words": [
-        "edges",
-        "lower",
-        "margins",
-        "results",
-        "tighten",
-        "wipro"
-      ]
-    },
-    {
-      "at": "2026-09-20T09:32:16.427486+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta launches Muse AI agent with data handling features",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc055WThqYTZoY040UVBnbm9YMGxBU3N3NEZMQWZtZXFYZ3JXZTFuY2NmMnJuM2hMMC10RWNtVm5SVFNWaHFTbHlwZUthaDVncWN2QlZISjVqLTNsaHRsTWRrZXRjaHBiRVpGTzd2ZkJCVmVjUWttcXBYVHJ2YzY2Sm5HNHNUdXd5aENFOEpHVUw5ZGpCX0dUV2M3dUozVW1sOTZ1UnJGeXZEbENKRHR5dmpLaXk4Mktu0gG_AUFVX3lxTE5iTGdFNW1TTUs4bFF0WTI1ajlISGJkSFF2V3l0MnUzSnFBZllmZ0IxTXRiQ3hCLVNRdjN1WjNORnc4MEZOZGJ1RVlaUUJoTERxYi1KZG1ZQzhLbmZRUUdKakFtcDhFZURncld0MjRZVGE1eVFxY3F3QnBTa1hYZ19uV3I5VmMxMFctSi0zRVUxU3J0bnAyR0REalhjN0pkdlc4VFZ1b0x1bVJMRTBTN2xEbXlNOFJieEUwdFBIRFRZ?oc=5",
-      "words": [
-        "agent",
-        "can",
-        "data",
-        "handles",
-        "launches",
-        "meta",
-        "muse",
-        "your"
-      ]
-    },
-    {
-      "at": "2026-09-20T10:32:11.520698+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Tessolve in acquisition talks for two firms targeting $500M revenue",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdG9mcFZBaDJ5MXduZ1NXZEY0Z1k0SjZKZG9fOGlSU0dYUE90S2djaXRVN0x0ZEwzTW9kY2kyWFdfcy1PWWhrbF9wWlhrdXlud3BYWG5qcmdPNHRzR21aNnppUWtFTkFvemJpdUk0dlo4cW44UlNJbjY3enh5enEyN0lpd2pINjZnMTZ5R2R5S0pXTWtWSkw1RlVBMVpaUDJWZnlNU1p4Mi1OdzF0Um1pWlI0ZERiVlNEX0ZXbVgyTlFVYXd0TW5yNEt5X0tuOHJwczUtUkFFTdIB3AFBVV95cUxNSnRRSThxeFk0dWxvbnN5TGs3dktZclNUbWFqTjY5SzhzYnJYZDQtNjRXdUxMS1B5SkZYVnBYS1JJeXlLbXdWUUdaMjB3SXpwLTNLRzNtY1k5Z2tsWDRSMWFGRTV1YkYydUVFNC02WHh3Tlp3UTR2bEVocUFqOEhMZXc5dUktN09ZU0xjdW1jNUU3STNzUC1TSXp2YXBxRk5za2tMa3dobEI1VU84QmxFZ1RxNTRyZjljdk95R1FBSEkyU0ozSXFYOS1KdEdFMDIwZWlkMm5xUkpncTFu?oc=5",
-      "words": [
-        "500",
-        "acquire",
-        "eyes",
-        "firms",
-        "revenue",
-        "talks",
-        "tessolve",
-        "two",
-        "years"
-      ]
-    },
-    {
-      "at": "2026-09-20T10:32:11.520698+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta challenges UK online safety rules and Ofcom decisions in court",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNQzBsb25IV3luT0xDUzY5eGh0THhob1ZmLXlXM3lQRnc4LUtTNTA5V3M1LTNOM3c1VWNLRWV5T3o1emFFdTFpajRpM2dYRk9kU2ZVdkIwTkxuOEJNWEZZNjJPY2tlbzRHUWRibWZQLTR5TUxkWktNYzF5aUN3b3JkNW1VeG1UMHNLRkFhbWx5aEluLTJqRWZuOGhqRGNsR21lLVhVb1U5dTVOdFFHM242dm5jNTMtbFdfYXY3a1FfdHBwbFZUZVBPd2w3QVdZZlJrWVNMaDV5SlIzX0x1b2x2R2lsZG9WdlVtaVFVLTRFQnQxNG5GdlhEczRHUXpCWHdPZl9zeEk3VVBRVnBXSWR3dWU3ZkE4NkFfX2RNSG5PbE40RnItVDlSNWtrcmpLeHYtU2hBOVo1RjFWdzlYdDlfM3ZaMm9QX3dmN2ZUS0lBRzN5Y0hHSEZ6V05FNHTSAeICQVVfeXFMTjFkVW5qb0dWNXJLWnRkQ3BrXzltcUtjS2FSYjhQSXlzaDk3NWo5cEkyZnoyczJSSDJhRnNVbllZaVVNTllrZ2lzMGkzdXVlR0Jpc0FjeVFPVVhsZ3J0emNGNS1BZGtUUHgyYTlIU3JsWVdLZGJHLTR1eFVpdDk4a1RPeURaZEpLTWhTM0UwWGd6OThrOHFmckprdHZwMkJ2d2FzR0RmcS10NDJXM05Ga1RIZG92SmxWcWZNcFVQdTZiNkJRYUpoX3czQjJ3cFpwcng0cUlZNk5CWTlrWGRDbm1oUFVSMXhxV1RGTDZYQnJEdWJ1U1hVVlFaUFpUeVE4YmVQSnhTSDFULWROVGVRZkdFamdGcHllTDdwQkRYQnNTempraWRwSVpneDl1V3hRSVc2cUk3YWlGMlllLXo0RUlkN1Z0a1BYWE9YQVZDY2JicFFLVTA0RFJaOWc2S21VQmt3?oc=5",
-      "words": [
-        "against",
-        "challenge",
-        "challenges",
-        "decision",
-        "fresh",
-        "launches",
-        "legal",
-        "meta",
-        "ofcom",
-        "online",
-        "place",
-        "rules",
-        "safety"
-      ]
-    },
-    {
-      "at": "2026-09-20T10:32:11.520698+00:00",
-      "handle": "News: India fintech",
-      "headline": "Kerala traders forum plans UPI boycott on October 15",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHB0LU1IWTExNXhYR29TQ2tUSjhsOW9uR3BQMFE4bTNMSnhZLU9lcEtZOGtkNThRNVltVUdvQ2JsbXg1ZmgxM0RzV3Atd3Q4OE94YVBUY3lvd0VVN0txMWpIb2tSa2RpNURvVHVwMW5iX0NNNEE4RmIxLU53bHh1Xzd4NkZSUVF0S1VXRGVTdktMd3lCSDU2TGh4LTBDbHRGRVlMWHJYWWlDVVoyNnZjaDBwZE5keURZT3E4S1FsalcycHIyQUVkbXVVQVBJY3pYbnE0?oc=5",
-      "words": [
-        "boycott",
-        "forum",
-        "keralam",
-        "oct",
-        "traders",
-        "transactions",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-09-20T11:32:11.773714+00:00",
       "handle": "News: Global AI",
       "headline": "StepFun launches Step 5 preview 600B AI model.",
@@ -7580,12 +7492,109 @@
         "spends",
         "trillion"
       ]
+    },
+    {
+      "at": "2026-09-24T18:32:05.001289+00:00",
+      "handle": "News: India fintech",
+      "headline": "UPI fee structure could generate Rs 15,000 crore annual revenue",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUWpfRUxfUzZWMkFaQ1NuOUF6ejExNUNBYXZMV3BEQncta0l4d1hqNmQ2V213MG9Uc0tkb2djZmNQdmQyekpWTUloWWF6clE2YVdPWkM2OHhlTzByV0lNNm1SbkJlbTdDWENKRUtNVVhlMk9ZYU1wTk03bzJabHVIdkc4ZEVJOFUzbGkxOVZfN3VYTF9DNnNYdFZrUUNrUG5iVHJxZVA5TWlEQTRCaE43Y1E3ZVh4ZXBfZmZNdk5lVmtXSDRYV2FTTF9FUElQZ2ZEREJCS3dBazc5cU5JNHRYR0tWX0pveGlDVVp2UlpCWXhZZmM1dS1ZVzBwVdIBgAJBVV95cUxPN2ZQUV9ESGJWRkR1ejBtWUlHLUxRSk1QNFVCcTlfeXNGVHNjRWZyVVBFeXBLWWNmWmNIZDM5aDktdGRpb2Z0dnVnaHBuVmhIMkQwQWdtem85VUMzSHd2RmQwTUlrZWRiNEl1d21HZDZ0WFFJeU16bU9CcWlkNjVwUVNZZElmN2taZVpzYXluQ3JKOUU1QkFiVTYzLUg3VmRmc1M2bHREU0tURFBwVFRHTi1RZDhfWTVJRjU0SnhfVmRTemp4WWVhc25kOEFzcEdFWkI2UVZRRGk3T0lJX3RNdkRWbnEwUGJJbGRoOXR6bEp4VEJPOW50WTNiZ3hJSTZG?oc=5",
+      "words": [
+        "000",
+        "annually",
+        "could",
+        "fee",
+        "free",
+        "keeping",
+        "most",
+        "recover",
+        "transactions",
+        "upi",
+        "while"
+      ]
+    },
+    {
+      "at": "2026-09-24T18:32:05.001289+00:00",
+      "handle": "News: India fintech",
+      "headline": "Explained: UPI MDR charges and applicability on loan EMI repayments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWmhuSV9iRDJQcERlYTB0WWFTZ0l3WkJJdW1FTzdnSTVZRTRSRVA3RDEwVjRGX2dLMXhQczBlMWJTZ1I1a3p6d2ZncXdpWldUUmhpTzFHMXpYNEstNEozSlZvRExqWFFwRkYxb0luSUNyNkE2UzVIR0pJRV9QanZ1anFacnJrNDJuUHd5cTlUUk1UNWVoYi1qNHJfYUJYN09tSTRPQUt3M3RlSVV1ek1aNkVWY2tRNXIyeTdmYnJsVDV1RXp2aGVYQkEwQXc1N3A1czhXM0ZYaFRqUXBGRGFmRUNjMVdPb3VZREludFI5UXFNaDNNdFA1WVVZLXpDbU5INU1j0gGIAkFVX3lxTE43djlael96OVZxR0hNZWs4UnVra2YwUEVLRzRYbEowbS04MWlESXdyaERQSExoRF9vMWxzM3oyWk5LSWRKWUNVLVNma1NtbGQxUHBXNHFUOWRTQUUzd3hqaUg2RXhJY2RZN2hrQ1pCaHZDQkI2MC16aTdTbnhOd1IxMWxCVEpVT3VmRHFRd0lUbFpDWTU2bWY1eWRRLTBIT09ZdDRJVHVJSVRhQ1FQTjQ4N3RlNFExUTdFR1RaMGVOalRtd3djZEx4bTVMbC1uUUtGZThsWUtlazBwZDA4ZktvcmY1V0dMSHVmTjc5OGc3MG9fVFR6N1NyTHc4bVRUTWluRWxDeHNmMQ?oc=5",
+      "words": [
+        "applies",
+        "bears",
+        "borrowers",
+        "charge",
+        "emis",
+        "here",
+        "know",
+        "loan",
+        "mdr",
+        "need",
+        "repayments",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-24T18:32:05.001289+00:00",
+      "handle": "News: India fintech",
+      "headline": "SEBI addresses broker concerns over new UPI MDR charges",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVkREUzJrWmE4MWtJd0Q4dkwtMU9IcVAxeGtSZkVnZlBlMGExbnc1Y0liOWRjSHJza3dVdlU1VlRsaGJfUzJsWE92Ny1yY3RfWEFaT01jUnZYRURhYzhkc0hueFFRX2h1NDdFTXh1Rl9FTWp0bkZpZEs3UWlqbFRRYU5TcDE2Y25hdE9xQkVCSUV5Y1FLbmM2Y3gwcmVUZzBWRFgwV0xLMVNYTExxLWxrQTdEU0xqTXE1ajhpSHZnVdIBvwFBVV95cUxQVkREUzJrWmE4MWtJd0Q4dkwtMU9IcVAxeGtSZkVnZlBlMGExbnc1Y0liOWRjSHJza3dVdlU1VlRsaGJfUzJsWE92Ny1yY3RfWEFaT01jUnZYRURhYzhkc0hueFFRX2h1NDdFTXh1Rl9FTWp0bkZpZEs3UWlqbFRRYU5TcDE2Y25hdE9xQkVCSUV5Y1FLbmM2Y3gwcmVUZzBWRFgwV0xLMVNYTExxLWxrQTdEU0xqTXE1ajhpSHZnVQ?oc=5",
+      "words": [
+        "brokers",
+        "charges",
+        "heard",
+        "issues",
+        "kanta",
+        "mdr",
+        "pandey",
+        "related",
+        "tuhin"
+      ]
+    },
+    {
+      "at": "2026-09-24T18:32:05.001289+00:00",
+      "handle": "News: India fintech",
+      "headline": "Report clarifies UPI MDR revenue sharing excludes government collections",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTGt2cDVYcTNBbmxzQUdQLXQ0MUVWLXlFYnBZczByd1NCdk1qeHc0UjNZVEZ1Q3VsckNxMWhLdVcyVldZNkR0cTl4X00wZ0haRG5sbzM4UnZzOTdaR2ZZUG50UWwzOTBfaVVJS0Rublc3ZDJmVDd4ekVKTXpmdm1jT2lQdG1fc1E0cmJVNmtsRFg0dGN2aVcwdDJCZTU3MmM1c0lLX1lsV05ZV1hjb3ZObko0cllsVXlILVRMaUFrbGtEZkxtcHo1Q1JRdzV6Z1hqQmU3WHItSWxXSms3OWQwZEtzSU9KMTNuYkx1UTFwQzVlOFdSR1HSAfsBQVVfeXFMTjU4X1VodGRqMlhUbjFiY3pqdzVteDRHM3VtWXNMR0RtS3hQUUxNeHJ3RzBlaXVaZ3NkaUo5a1ZvQWJtS2JvUHJtWHk4SW5RdU9UMlBKVHFxeTlsZjFseEtVUHRPV3g3TEJGM2drS2pHMTlra2hoZEdIRHZZYWItN0JLUzNuMGh3Y1drRlczQTd1MWF3cUd2SzdkeG1aVTZEZVNSU1RpQ2lvTWNUc2c1UTQ1V3pqaEtwcXZyTHZzQlZDNE5jRXliYW9xLUZPSXJrdDJ3V01hZVhvVzJ3alJkUG83U3c4LWZ4bnYyVElTRTdaZmhneENOcXhRcG8?oc=5",
+      "words": [
+        "among",
+        "banks",
+        "earnings",
+        "entities",
+        "govt",
+        "mdr",
+        "other",
+        "penny",
+        "report",
+        "shared",
+        "single",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-24T18:32:05.001289+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "HCLTech's Sundararajan highlights gap in freshers' practical AI application skills",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUlZsM0ItNXEyYmtMc2F2ZFRIWWJheGwwYjFMUFdMOHRoTEdId1FWV3ptZWd4dkRTNmxlbW1ZUkkybDdIZ2FvTncwSWtFdDBjQldyU3kxMkRWdmthb3VQNUJ3SWhlbE9Pci1OSWs5clhqd1hfdU5UZFZxUDFNQkRJMVRZcjgtOXM2dFNPVHlmcmctV25nMDl1Qklzdzl5QnFud2ZCejlmNkJxTTlURmZUNFE2SFdudy03UExOVWVpeHh5MWFEN0VEMVg1TFZBelVfUUZ2Tm9GbTlqSm4wM1Nmei1IVzF6QkJhUjR1bTl3?oc=5",
+      "words": [
+        "application",
+        "exposure",
+        "freshers",
+        "hcltech",
+        "needed",
+        "practical",
+        "skills",
+        "sundararajan",
+        "varies"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789922137462",
     "1789930884863",
     "1789947578808",
     "1789960367522",
@@ -13584,10 +13593,11 @@
     "1790266699435",
     "1790272560580",
     "1790272601438",
-    "1790272825395"
+    "1790272825395",
+    "1790265501395"
   ],
-  "last_digest_hour": "2026-09-24T23",
-  "last_success": "2026-09-24T18:16:54.719615+00:00",
+  "last_digest_hour": "2026-09-25T00",
+  "last_success": "2026-09-24T18:32:05.002988+00:00",
   "national": {
     "alerted": [
       {
@@ -15882,7 +15892,7 @@
       "CG-DL-E-24092026-276484",
       "CG-DL-E-24092026-276485"
     ],
-    "last_run": "2026-09-24T18:21:06.736144+00:00",
+    "last_run": "2026-09-24T18:34:27.161246+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17393,98 +17403,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "UPI fee structure could generate Rs 15,000 crore annual revenue",
-      "post": {
-        "created_at": "2026-09-24T17:32:50+00:00",
-        "handle": "News: India fintech",
-        "id": "1790271170515",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "UPI fee could recover up to Rs 15,000 crore annually while keeping most transactions free",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUWpfRUxfUzZWMkFaQ1NuOUF6ejExNUNBYXZMV3BEQncta0l4d1hqNmQ2V213MG9Uc0tkb2djZmNQdmQyekpWTUloWWF6clE2YVdPWkM2OHhlTzByV0lNNm1SbkJlbTdDWENKRUtNVVhlMk9ZYU1wTk03bzJabHVIdkc4ZEVJOFUzbGkxOVZfN3VYTF9DNnNYdFZrUUNrUG5iVHJxZVA5TWlEQTRCaE43Y1E3ZVh4ZXBfZmZNdk5lVmtXSDRYV2FTTF9FUElQZ2ZEREJCS3dBazc5cU5JNHRYR0tWX0pveGlDVVp2UlpCWXhZZmM1dS1ZVzBwVdIBgAJBVV95cUxPN2ZQUV9ESGJWRkR1ejBtWUlHLUxRSk1QNFVCcTlfeXNGVHNjRWZyVVBFeXBLWWNmWmNIZDM5aDktdGRpb2Z0dnVnaHBuVmhIMkQwQWdtem85VUMzSHd2RmQwTUlrZWRiNEl1d21HZDZ0WFFJeU16bU9CcWlkNjVwUVNZZElmN2taZVpzYXluQ3JKOUU1QkFiVTYzLUg3VmRmc1M2bHREU0tURFBwVFRHTi1RZDhfWTVJRjU0SnhfVmRTemp4WWVhc25kOEFzcEdFWkI2UVZRRGk3T0lJX3RNdkRWbnEwUGJJbGRoOXR6bEp4VEJPOW50WTNiZ3hJSTZG?oc=5"
-      },
-      "queued_at": "2026-09-24T17:47:52.710107+00:00",
-      "score": 8.0,
-      "why": "This provides a significant new financial estimate regarding the ongoing UPI MDR policy debate."
-    },
-    {
-      "headline": "Explained: UPI MDR charges and applicability on loan EMI repayments",
-      "post": {
-        "created_at": "2026-09-24T17:45:12+00:00",
-        "handle": "News: India fintech",
-        "id": "1790271912952",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "UPI MDR on loan repayments: What charge applies to EMIs and who bears it? Here's what borrowers need to know",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWmhuSV9iRDJQcERlYTB0WWFTZ0l3WkJJdW1FTzdnSTVZRTRSRVA3RDEwVjRGX2dLMXhQczBlMWJTZ1I1a3p6d2ZncXdpWldUUmhpTzFHMXpYNEstNEozSlZvRExqWFFwRkYxb0luSUNyNkE2UzVIR0pJRV9QanZ1anFacnJrNDJuUHd5cTlUUk1UNWVoYi1qNHJfYUJYN09tSTRPQUt3M3RlSVV1ek1aNkVWY2tRNXIyeTdmYnJsVDV1RXp2aGVYQkEwQXc1N3A1czhXM0ZYaFRqUXBGRGFmRUNjMVdPb3VZREludFI5UXFNaDNNdFA1WVVZLXpDbU5INU1j0gGIAkFVX3lxTE43djlael96OVZxR0hNZWs4UnVra2YwUEVLRzRYbEowbS04MWlESXdyaERQSExoRF9vMWxzM3oyWk5LSWRKWUNVLVNma1NtbGQxUHBXNHFUOWRTQUUzd3hqaUg2RXhJY2RZN2hrQ1pCaHZDQkI2MC16aTdTbnhOd1IxMWxCVEpVT3VmRHFRd0lUbFpDWTU2bWY1eWRRLTBIT09ZdDRJVHVJSVRhQ1FQTjQ4N3RlNFExUTdFR1RaMGVOalRtd3djZEx4bTVMbC1uUUtGZThsWUtlazBwZDA4ZktvcmY1V0dMSHVmTjc5OGc3MG9fVFR6N1NyTHc4bVRUTWluRWxDeHNmMQ?oc=5"
-      },
-      "queued_at": "2026-09-24T18:02:52.113904+00:00",
-      "score": 7.0,
-      "why": "Provides practical clarification on the newly implemented UPI fee rules for borrowers and financial services."
-    },
-    {
-      "headline": "SEBI addresses broker concerns over new UPI MDR charges",
-      "post": {
-        "created_at": "2026-09-24T16:18:19+00:00",
-        "handle": "News: India fintech",
-        "id": "1790266699435",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Fortune India",
-        "reposts": 0,
-        "text": "Sebi has heard brokers' MDR-charges related issues: Tuhin Kanta Pandey",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVkREUzJrWmE4MWtJd0Q4dkwtMU9IcVAxeGtSZkVnZlBlMGExbnc1Y0liOWRjSHJza3dVdlU1VlRsaGJfUzJsWE92Ny1yY3RfWEFaT01jUnZYRURhYzhkc0hueFFRX2h1NDdFTXh1Rl9FTWp0bkZpZEs3UWlqbFRRYU5TcDE2Y25hdE9xQkVCSUV5Y1FLbmM2Y3gwcmVUZzBWRFgwV0xLMVNYTExxLWxrQTdEU0xqTXE1ajhpSHZnVdIBvwFBVV95cUxQVkREUzJrWmE4MWtJd0Q4dkwtMU9IcVAxeGtSZkVnZlBlMGExbnc1Y0liOWRjSHJza3dVdlU1VlRsaGJfUzJsWE92Ny1yY3RfWEFaT01jUnZYRURhYzhkc0hueFFRX2h1NDdFTXh1Rl9FTWp0bkZpZEs3UWlqbFRRYU5TcDE2Y25hdE9xQkVCSUV5Y1FLbmM2Y3gwcmVUZzBWRFgwV0xLMVNYTExxLWxrQTdEU0xqTXE1ajhpSHZnVQ?oc=5"
-      },
-      "queued_at": "2026-09-24T18:16:54.681161+00:00",
-      "score": 7.0,
-      "why": "Financial sector regulator engaging with brokers on MDR impact is a major policy development."
-    },
-    {
-      "headline": "Report clarifies UPI MDR revenue sharing excludes government collections",
-      "post": {
-        "created_at": "2026-09-24T17:56:41+00:00",
-        "handle": "News: India fintech",
-        "id": "1790272601438",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "UPI MDR: \u2018Not a single penny\u2019 will go to govt; earnings to be shared among banks and other entities, says report",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTGt2cDVYcTNBbmxzQUdQLXQ0MUVWLXlFYnBZczByd1NCdk1qeHc0UjNZVEZ1Q3VsckNxMWhLdVcyVldZNkR0cTl4X00wZ0haRG5sbzM4UnZzOTdaR2ZZUG50UWwzOTBfaVVJS0Rublc3ZDJmVDd4ekVKTXpmdm1jT2lQdG1fc1E0cmJVNmtsRFg0dGN2aVcwdDJCZTU3MmM1c0lLX1lsV05ZV1hjb3ZObko0cllsVXlILVRMaUFrbGtEZkxtcHo1Q1JRdzV6Z1hqQmU3WHItSWxXSms3OWQwZEtzSU9KMTNuYkx1UTFwQzVlOFdSR1HSAfsBQVVfeXFMTjU4X1VodGRqMlhUbjFiY3pqdzVteDRHM3VtWXNMR0RtS3hQUUxNeHJ3RzBlaXVaZ3NkaUo5a1ZvQWJtS2JvUHJtWHk4SW5RdU9UMlBKVHFxeTlsZjFseEtVUHRPV3g3TEJGM2drS2pHMTlra2hoZEdIRHZZYWItN0JLUzNuMGh3Y1drRlczQTd1MWF3cUd2SzdkeG1aVTZEZVNSU1RpQ2lvTWNUc2c1UTQ1V3pqaEtwcXZyTHZzQlZDNE5jRXliYW9xLUZPSXJrdDJ3V01hZVhvVzJ3alJkUG83U3c4LWZ4bnYyVElTRTdaZmhneENOcXhRcG8?oc=5"
-      },
-      "queued_at": "2026-09-24T18:16:54.681161+00:00",
-      "score": 7.0,
-      "why": "Provides hard structural clarity on how the newly reintroduced UPI merchant discount rate earnings are distributed."
-    },
-    {
-      "headline": "HCLTech's Sundararajan highlights gap in freshers' practical AI application skills",
-      "post": {
-        "created_at": "2026-09-24T18:00:25+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1790272825395",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Deccan Herald",
-        "reposts": 0,
-        "text": "Freshers' AI exposure varies, practical application skills needed: HCLTech's Sundararajan",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUlZsM0ItNXEyYmtMc2F2ZFRIWWJheGwwYjFMUFdMOHRoTEdId1FWV3ptZWd4dkRTNmxlbW1ZUkkybDdIZ2FvTncwSWtFdDBjQldyU3kxMkRWdmthb3VQNUJ3SWhlbE9Pci1OSWs5clhqd1hfdU5UZFZxUDFNQkRJMVRZcjgtOXM2dFNPVHlmcmctV25nMDl1Qklzdzl5QnFud2ZCejlmNkJxTTlURmZUNFE2SFdudy03UExOVWVpeHh5MWFEN0VEMVg1TFZBelVfUUZ2Tm9GbTlqSm4wM1Nmei1IVzF6QkJhUjR1bTl3?oc=5"
-      },
-      "queued_at": "2026-09-24T18:16:54.681161+00:00",
-      "score": 7.0,
-      "why": "Major IT services executive statement on workforce readiness and artificial intelligence training in India."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18545,7 +18464,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T18:16:55.059315+00:00",
+    "last_server_run": "2026-09-24T18:32:05.341738+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T17:05:38.815901+00:00",
