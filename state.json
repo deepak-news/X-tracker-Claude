@@ -7528,11 +7528,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789873606333",
-    "1789928797348",
-    "1789946389399",
-    "1789947425784",
-    "1789950627512",
     "1789952100621",
     "1789953240045",
     "1789953240047",
@@ -13527,10 +13522,15 @@
     "1790228820126",
     "1790234340408",
     "1790235023734",
-    "1790235417655"
+    "1790235417655",
+    "1790189880014",
+    "1790231226275",
+    "1790231846075",
+    "1790235836834",
+    "1790236738834"
   ],
   "last_digest_hour": "2026-09-24T13",
-  "last_success": "2026-09-24T07:46:50.451289+00:00",
+  "last_success": "2026-09-24T08:02:45.416286+00:00",
   "national": {
     "alerted": [
       {
@@ -15555,7 +15555,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-24T07:52:02.831741+00:00",
+    "last_run": "2026-09-24T08:09:28.614134+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16912,7 +16912,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-bus-fire-tragedy-in-greater-noida-uttar-pradesh",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/%e0%b0%b5%e0%b0%bf%e0%b0%a6%e0%b1%8d%e0%b0%af%e0%b1%81%e0%b0%a4%e0%b1%8d-%e0%b0%b6%e0%b0%be%e0%b0%96%e0%b0%aa%e0%b1%88-%e0%b0%ae%e0%b1%81%e0%b0%96%e0%b1%8d%e0%b0%af%e0%b0%ae%e0%b0%82%e0%b0%a4-2/",
       "pib:2314297",
-      "pib:2314294"
+      "pib:2314294",
+      "page:https://internal.imd.gov.in/press_release/20260924_pr_5336.pdf"
     ],
     "source_failures": {
       "CBI": {
@@ -16956,7 +16957,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "NPCI CEO warns 10% UPI value faces merchant fee pass-through risk",
+      "post": {
+        "created_at": "2026-09-24T06:37:26+00:00",
+        "handle": "News: India fintech",
+        "id": "1790231846075",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Bfsi",
+        "reposts": 0,
+        "text": "NPCI CEO Asbe says 10% of UPI value linked to non card merchants may face consumer pass through risk",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTDkwWU1WZkFzcnRkYjNZblY4cGw2Sy1fT2RkQVRJZ0hndC1lNW0xX3VnS21UTHNIQXBGVXg2MlROZk1oSm1STHFaMG5VdG1veFpDNF93QnRXcFpYbHZxR1hQdE00ajJwbURQOWl2VG5YWUx1ZWJqclhQOFlBRHhId1FxVjRla0lsOUppaWx6REFNOVBKY3pUREJ4QjZBMFV6Z0tkdE54akR1YWY1U1EzRTM1alBPMW9RUjNFMVAzRTBROHVicV9HWU1McEc3Rmxsek1MbDd1aUxETVFKSEQ4b21QVnhkbnh4N0xKRFZORi1LQdIB9wFBVV95cUxObDNNeVB4TTY2TFJVQXk2SDkzX00zVHV1eS1JRTFiLVZfbUZfQV9wTUw5UjNwWkVmQVlPMjh0bUd5UXJQcEpzOTNHc1VDNUhQWmk4ZlIzTmVJOFJ3N013ZkdwUnNHNi0zdTI0Skk2aDFvZ0FldDczeVNvSW5KNV9oSjZPVXBxRm1MT0pGNUdpSGlrR1VsMHZKVXllZDhtMk13LWxPMlpMRFRreWZVVkZyQ3RrRFg5RE82cFp5VGI1djNlc1IxSGg3WkV3SGYzSmx0azNMVHNyaDNIV0hpc3g3VHdBWi1ZLS12bzF2OFhrUVpiWENiYU9Z?oc=5"
+      },
+      "queued_at": "2026-09-24T08:02:45.388521+00:00",
+      "score": 8.0,
+      "why": "Direct comment from NPCI chief on UPI fee pass-through risks is a fresh development in the ongoing MDR saga."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17972,11 +17992,11 @@
     "news: global it services": 1790171374941,
     "news: india ai deeptech": 1790234021963,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790235417655,
+    "news: india fintech": 1790236738834,
     "news: india semiconductors": 1790218923673,
     "news: india tech policy": 1790233001225,
     "news: india telecom": 1790229300406,
-    "news: indian it majors": 1790228276002,
+    "news: indian it majors": 1790235836834,
     "news: indian it midcaps": 1790226300278,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790235023734,
@@ -18015,7 +18035,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T07:46:50.728124+00:00",
+    "last_server_run": "2026-09-24T08:02:45.683795+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T06:20:26.004176+00:00",
