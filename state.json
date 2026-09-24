@@ -7557,13 +7557,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789901242540",
-    "1789903771567",
-    "1789925060495",
-    "1789946447393",
-    "1789960130414",
-    "1789962803718",
-    "1789963200252",
     "1789963624233",
     "1789965777529",
     "1789966980944",
@@ -13556,10 +13549,17 @@
     "1790259400730",
     "1790259904344",
     "1790260080346",
-    "1790260200770"
+    "1790260200770",
+    "1790179200465",
+    "1790241204309",
+    "1790246703790",
+    "1790249231013",
+    "1790255577251",
+    "1790260080288",
+    "1790260774154"
   ],
   "last_digest_hour": "2026-09-24T20",
-  "last_success": "2026-09-24T14:33:18.038742+00:00",
+  "last_success": "2026-09-24T14:47:23.229464+00:00",
   "national": {
     "alerted": [
       {
@@ -15769,7 +15769,7 @@
       "CG-OR-E-24092026-276465",
       "CG-OR-E-24092026-276466"
     ],
-    "last_run": "2026-09-24T14:36:24.715735+00:00",
+    "last_run": "2026-09-24T14:53:50.404530+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17210,16 +17210,23 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-seema-on-winning-bronze-medal-in-womens-10000m-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mens-badminton-team-on-winning-bronze-medal-at-asian-games",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-kaizen-domestic-scheme-i_104715.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/cancellation-of-recovery-certificate-no-7449-of-2023-dated-december-08-2023-issued-to-rashesh-purohit-defaulter-pan-adqpp1270q-in-the-matter-of-tv-vision-limited-under-certificate-no-7449-of-20-_104717.html"
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/cancellation-of-recovery-certificate-no-7449-of-2023-dated-december-08-2023-issued-to-rashesh-purohit-defaulter-pan-adqpp1270q-in-the-matter-of-tv-vision-limited-under-certificate-no-7449-of-20-_104717.html",
+      "pib:2314581"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "CERT-In": {
+        "count": 1
+      },
       "DGFT": {
         "count": 14,
         "until": "2026-09-24T16:03:00.922815+00:00"
+      },
+      "NITI Aayog": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -18268,7 +18275,7 @@
     "news: global it services": 1790172561362,
     "news: india ai deeptech": 1790254812004,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790259904344,
+    "news: india fintech": 1790260774154,
     "news: india semiconductors": 1790257654786,
     "news: india tech policy": 1790254080901,
     "news: india telecom": 1790252898684,
@@ -18311,7 +18318,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T14:33:18.246419+00:00",
+    "last_server_run": "2026-09-24T14:47:23.500073+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T12:48:21.904229+00:00",
@@ -18321,7 +18328,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-24T12:48:03.168745+00:00",
+        "checked": "2026-09-24T14:48:12.302403+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -18451,11 +18458,11 @@
       },
       "last": {
         "calendar": "2026-09-24T11:03:23.621952+00:00",
-        "ls_reports": "2026-09-24T12:47:41.076244+00:00",
-        "rs_committee_press": "2026-09-24T12:47:51.493305+00:00",
-        "rs_press": "2026-09-24T12:47:48.684632+00:00",
-        "rs_reports": "2026-09-24T12:47:45.784315+00:00",
-        "rs_updates": "2026-09-24T12:47:53.141324+00:00"
+        "ls_reports": "2026-09-24T14:47:55.628093+00:00",
+        "rs_committee_press": "2026-09-24T14:48:06.108974+00:00",
+        "rs_press": "2026-09-24T14:48:03.220932+00:00",
+        "rs_reports": "2026-09-24T14:47:59.749379+00:00",
+        "rs_updates": "2026-09-24T14:48:07.829410+00:00"
       }
     },
     "scanned": [
