@@ -1,128 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-19T20:38:47.144551+00:00",
-      "handle": "News: Global AI",
-      "headline": "Israeli security firm tied to OpenAI and Anthropic breaches",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPR1Q3TTZ6cWlTQ0FjZ2RsTXo1MzFGSDlnZDlwUm1wTE5SZm1YekNQajdzQkdmWkl4UW9lZzFpbXJBTXJReUZiZGUydWxpMS0zekc1MlJyaGlERzJhRG1rUmlLd2N1bGNsRUFZRkdmUlFrcEQ5NlU4NXZtVmRFZTBPS0RqejFyb1BHdnppM1RDQ0pFcUNNYTZsOE52SS1uajF4ZXZjUFU1VUNUZWlTSmcyUk1aUkxoQVRFd0JEdmRXeGJ0S0pvQUx1Qllna0NzZEY0aFA4LXh0Y3NoUXEyb0hOSTk5aE5sVjBQUTE1a3NJa3FtcHZQcjNQNzNfRWx2Zkd2dXFDcDJnVngtbFRMV0hHb2U1Uk5PelR6UnNn?oc=5",
-      "words": [
-        "anthropic",
-        "breaches",
-        "firm",
-        "inside",
-        "israeli",
-        "model",
-        "openai",
-        "security",
-        "tied"
-      ]
-    },
-    {
-      "at": "2026-09-19T20:38:47.144551+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Infosys secures new brake maker client amid slow growth",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHR0TTF4OUxMTEpSMlpCbTYzVFROT29XcjZyd2Nra2NuR1NIazZjSzBJbUw4VEdUSmoyVTZXZFprdlJYVkNDak5CS3UwTExvT1dRREh4dHBYRlpkdlV6d1czdUoxYmhWN1NEZHpSYVVjalVUdDNQTVdZbVlvOVBMSFZSQ0hSbzg0ZUpRd29VdW9sZlJqYmFJcmZpOG1CZXkxOWdtWm1yY9IBrwFBVV95cUxOeUY2Q3pDTWJ2RUhWcHhKOUNoR2FsYk9hVU1rdllBZi1nbE12SWVJdmR6V0FQMlhkOWRpTHdZSWpQd0szYTZsbVo0cUt1ejk5Ny1Bel9uZ08yYkE4d0JUb0N5amwyYmZ1STNvOXctbU16VThhV245V2tvUDRtdkJ2Vm5BN0p5OEtNbXpQRzMxVFJSSVF4TTlCLU9qb1FlLU9BRFh1aUpacE8tVk9rbjdj?oc=5",
-      "words": [
-        "brake",
-        "gear",
-        "growth",
-        "infosys",
-        "infy",
-        "lands",
-        "low",
-        "maker",
-        "stays"
-      ]
-    },
-    {
-      "at": "2026-09-19T21:32:29.552379+00:00",
-      "handle": "News: Global AI",
-      "headline": "Lawsuit accuses major AI companies of antitrust violations over development pace",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHpLbUlJM2lMaENiUk5RZmpsOFpYXzV4WERQZEJBSi1WQjY3TUI5RzNNQmhVRS1vZjQ3NW43NEtLUFFVWU9IcTNmQko0Wm9vNkJBMEl1d0ZydFNSSFhRU1lnVmQ1OS01RjVSYXRKREZ3UzNDWjdCblhBUVFvQ0pNdjRGMzd2NGRmUTgwSEUydjE0Ti15SHI0TEVuM2xmS24zSFVZcUVHaU4xUzZUYnAtZQ?oc=5",
-      "words": [
-        "agreement",
-        "antitrust",
-        "companies",
-        "development",
-        "law",
-        "lawsuit",
-        "pace",
-        "slow",
-        "violated"
-      ]
-    },
-    {
-      "at": "2026-09-19T21:32:29.552379+00:00",
-      "handle": "News: Global AI",
-      "headline": "US accuses six Chinese AI firms of copying models",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUUtsNk1jTGppTDFVcWphUXdFVExYYzkwN2RYTG1kUFIzT0d0X19JMU1iWHd1Y2tMZ1BITGFyYlpjRmRRX0t5eUJibFFWZThNQjRCU1M4bUpTdU9jZWhpNF9mRFh2S2RYY283MTBUNjgwTXZ5akdIUXp0Qy1rNkFmQTVEb2hnS3YxSEh6eXVEWlVGZlowWjA4WjA4YjJDQ2drVEFSUG9McTN3U2hMOVVoT2hkbUZ5NU5PWExKUUFmQUlSaWc?oc=5",
-      "words": [
-        "accuses",
-        "bypassing",
-        "chinese",
-        "chip",
-        "controls",
-        "copying",
-        "firms",
-        "models",
-        "six"
-      ]
-    },
-    {
-      "at": "2026-09-19T21:32:29.552379+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "Jensen Huang forecasts 70% Nvidia revenue growth",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmNCNTFlRHNJRzB5d0ZzYXVxMkxOR1VUcmR6NWtha0RpcjZjZG5DZmxqWVVhMGd6bF9PYnN4bFUyVndhQWJmdFlTZ3ZjdUtkZnBQbHV5YU0wVkNjMUlMVWN0WUw2OUx6alVvNXNuNGVLNnY5UWVyZ2MzTEZBS3dLY0FHNnpfdDRYdXNDaG9Pb1dNaThRWG1vSmd6UURxSjhCV1o0WGtVS1Z4RFZWMGhrQzRVSFcyMTlwNnpxZDR1bHg?oc=5",
-      "words": [
-        "demand",
-        "expands",
-        "forecasts",
-        "growth",
-        "huang",
-        "jensen",
-        "nvidia",
-        "revenue"
-      ]
-    },
-    {
-      "at": "2026-09-20T00:32:14.701897+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic plans independent AI evaluators following security incidents",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RMjdBTy1nNjNSYWdaYWdIZ084U05vT3dPblBHdjJVdERtbmFMaEI5c05PS1A2dUtiS3kzM0NGeWYzOUFUZTU1dl80ajFiRmplNWRlSFpoNlVPbTNQNjRFVVZ4UlNKZ0YzT2R1REVLdVdHNDNmWWlyVXIyX3A?oc=5",
-      "words": [
-        "anthropic",
-        "bring",
-        "evaluators",
-        "incidents",
-        "independent",
-        "plans",
-        "security"
-      ]
-    },
-    {
-      "at": "2026-09-20T04:32:15.576092+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Anthropic hires Accenture for AI safety and threat hunting",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXRhQ0xZUTRYT1dndjZaMFBXOVBRemQ3ekRhd2JPblIwNlV3aUx3VEllSlFxam1TblN3SXNHYjZEaDdhcGFFVUV1MXc5Vmd4Z1VyN1FyZWtBaTdmMmExUWJQQklzVXNKbXpxUmVacGJBWjNEeE1tQ0FJaWRSQVo3a2o2REhHVHhRMHcxd2RMSEQydzFmMS1xZWpxaGViUEliVlRWc1R3?oc=5",
-      "words": [
-        "accenture",
-        "anthropic",
-        "dangerous",
-        "hires",
-        "hunt",
-        "inside",
-        "sit",
-        "walls"
-      ]
-    },
-    {
       "at": "2026-09-20T04:32:15.576092+00:00",
       "handle": "News: India semiconductors",
       "headline": "SEMICON India secures 56 MoUs for design and manufacturing collaboration",
@@ -7545,19 +7423,140 @@
         "pandemic",
         "prepare"
       ]
+    },
+    {
+      "at": "2026-09-24T14:33:18.015469+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Govt starts consultation for indigenous power grid chips",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeWEzZTV3LTRXY19wbWl1cEpwTWsyQXJud3RreEZUUUl0RldzYVRENGRSNlY1dlpsTmZtYU11Mmc1WVROdU56YmdZeXQwUkJUSUxlOGtRaXk5dC1DUldHV2tSU25QRC1QYVJFUnl0Sm5SMjlJUjk4RmFKSkRFWmttMldnU1I4bk5pcUhHeWlzbmIwZGRCSVQ5NEhjdEJpMHdva0VQZTdqUE5jVVZ4SUFKSmVueENUVDg1X285MWpNUWV0Ni1VdU1jR0ZfNVI2RHlZRU95TldZOWNTYk1PR3YtWUQ0eVDSAeQBQVVfeXFMT3lhM2U1dy00V2NfcG1pdXBKcE1rMkFybnd0a3hGVFFJdEZXc2FURDRkUjZWNXZabE5mbWFNdTJnNVlUTnVOemJnWXl0MFJCVElMZThrUWl5OXQtQ1JXR1drUlNuUEQtUGFSRVJ5dEpuUjI5SVI5OEZhSkpERVprbTJXZ1NSOG5OaXFIR3lpc25iMGRkQklUOTRIY3RCaTB3b2tFUGU3alBOY1VWeElBSkplbnhDVFQ4NV9vOTFqTVFldDYtVXVNY0dGXzVSNkR5WUVPeU5XWTljU2JNT0d2LVlENHlQ?oc=5",
+      "words": [
+        "chips",
+        "consultation",
+        "develop",
+        "govt",
+        "grids",
+        "indigenous",
+        "modules",
+        "power",
+        "starts"
+      ]
+    },
+    {
+      "at": "2026-09-24T14:33:18.015469+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Amazon plans Rs 25,000 crore investment in Indian quick-commerce",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRGRuVGhmQ3phd19rOGhQUXhsYlZ3anB2ckxoRVo0VEZGc1N1dnl2NHNvV0JPMklIWXdLa0ROQjJwTEdJT19lUGgweDZtdldNdlZ4Tkl2WngtcjdCLUlBMzBRMXRMY0c3OGxSTVdhbGtXV2M5LWZJTlVjX2VmTDUyV0JVT0xtb2tDR0dtMzdMa3dPYzRPZk1oNEh1ZXJYUXFnTXk0eVcyYUJjZFZMOUNvTVNKQXk4UlBGMTdpUFFpUmJvZ3NTWXdNQkhVczNzV2ozZnpTT19WQkxNVzBveXlMZ1l5VWxiTXgyRXBIbWE3aEtWbjk4QVY0UXM1YzRaTUpUNGNLVVd30gGLAkFVX3lxTFB0dTEzNTktaEtUWkNkY0NMUGNqQnZHdXF4TVpuOU1JRjd3UmI1SjBxYlFwWHRzY2dCSFhON20teW11d1hNSEhvTG5sZlNJNjVMZGVubmVvN3BTZjZFY1RWWUN2ODZya3ByaFpCcjhUY3JJanA2ZlpXN25NaDdmVFRpU3h5bUlsOVlVWmZ3N0ZZQVRtMTNUR0VaaFplWGZ0TFhZSFd4TlBxLVI0N3JnUTlkTjFfdks2dllkeXVkLTlZMmxubEZNX2twZDR5QzE5UXV5YXBaaWhQbFJjQy1WVHUybENkdWRaZVdKTDBXaWFtTFZVLXpDYnhUS3ZKc3E2VVltN18ySGVBV3VDRQ?oc=5",
+      "words": [
+        "000",
+        "amazon",
+        "blinkit",
+        "can",
+        "catch",
+        "commerce",
+        "invest",
+        "plans",
+        "quick",
+        "sector",
+        "swiggy",
+        "zepto"
+      ]
+    },
+    {
+      "at": "2026-09-24T14:33:18.015469+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "AI startup Island valued at $6.4 billion in funding",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUktSNkVvcDBEay1GRnN5YzVVd1RhQTAwM01mdVQySG5SOG1LYnFLcFVNa1FTZkVBakJTTV9IcWtKUWxQWGRSMjlXLUlPSDdtX1h4Q1pjeTZ3ZnZqdlQ4TnBxTGh1VnZzbHoyWmNQWUNYSVU4VWhDWGtYczRaMVNyYy1fbktDT253eExZUlM3enJCRS03Mm14NkxwSVBaczdBZVBMdlJPemxVSDh5Vy1FeHhOOHY5U3J1eGxXcHFmV2lxazctZ1hyZGYyZ2hzWmtoMkttVFJMcW9DbGU2WkVGTVVZNnrSAeQBQVVfeXFMT1JLUjZFb3AwRGstRkZzeWM1VXdUYUEwMDNNZnVUMkhuUjhtS2JxS3BVTWtRU2ZFQWpCU01fSHFrSlFsUFhkUjI5Vy1JT0g3bV9YeENaY3k2d2Z2anZUOE5wcUxodVZ2c2x6MlpjUFlDWElVOFVoQ1hrWHM0WjFTcmMtX25LQ09ud3hMWVJTN3pyQkUtNzJteDZMcElQWnM3QWVQTHZST3psVUg4eVctRXh4Tjh2OVNydXhsV3BxZldpcWs3LWdYcmRmMmdoc1praDJLbVRSTHFvQ2xlNlpFRk1VWTZ6?oc=5",
+      "words": [
+        "billion",
+        "funding",
+        "island",
+        "latest",
+        "round",
+        "startup",
+        "valued"
+      ]
+    },
+    {
+      "at": "2026-09-24T14:33:18.015469+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Semiconductor talent shortage spurs regional push for engineers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYThkZmFqcEdBcUk2Rjg5YmJqRVIyRmZSclRmQWZpTGZQdlZGR2dGM3FvdEVlR3gxWG5pTGFkdzdzcE55d25BS1NnbERla2FLdk5kSGpRVXNyX3NTVkVZd2N4Z0FCTmpqaFZOZEJ5bEVBczhhNXZGR0JMLURjZ2ZtczBUVmhLMjRWeExRYnRpQ1A1WVNMcm56X1d3U1NXU2xiUkI1a3REYjh4OWlBYnVVWVlBaWt2bE5NcDF3WDU0NUpJYjdfTTB0YlFsUDFpSGpSRFRQNlJUQng5aGtzV2JaelUxVEdyNmZkN28w0gHrAUFVX3lxTE5hOGRmYWpwR0FxSTZGODliYmpFUjJGZlJyVGZBZmlMZlB2VkZHZ0YzcW90RWVHeDFYbmlMYWR3N3NwTnl3bkFLU2dsRGVrYUt2TmRIalFVc3Jfc1NWRVl3Y3hnQUJOampoVk5kQnlsRUFzOGE1dkZHQkwtRGNnZm1zMFRWaEsyNFZ4TFFidGlDUDVZU0xybnpfV3dTU1dTbGJSQjVrdERiOHg5aUFidVVZWUFpa3ZsTk1wMXdYNTQ1SkliN19NMHRiUWxQMWlIalJEVFA2UlRCeDloa3NXYlp6VTFUR3I2ZmQ3bzA?oc=5",
+      "words": [
+        "build",
+        "engineers",
+        "generation",
+        "next",
+        "push",
+        "regional",
+        "semiconductor",
+        "shortage",
+        "spurs",
+        "talent"
+      ]
+    },
+    {
+      "at": "2026-09-24T14:33:18.015469+00:00",
+      "handle": "News: India fintech",
+      "headline": "Navi's FY26 loss triples to \u20b9466 Cr ahead of IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORXlqRk50YktFdlhHQllNTjZ2Zkg5N0pVbEtVNUxqR3cyc3BtSkNJX1pKRlp0UVV1M3NNWEFqbzlJdEV3akFWSzREZXRmMTFOVmVVTUhsbmc2OXU1cnY4ZHYtNmVfV1NlSlFwUTRFMzFYTTBIaEFNN2xZVHBCNWdVZFZ1MTZZVDBUcVF3V0kxUQ?oc=5",
+      "words": [
+        "466",
+        "bound",
+        "fy26",
+        "ipo",
+        "loss",
+        "more",
+        "navi",
+        "than",
+        "triples"
+      ]
+    },
+    {
+      "at": "2026-09-24T14:33:18.015469+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "BlackRock, IFM nearing $25 billion Stack data center deal",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd0t0X0xQZjQwcVhSY1lGLUxtNGlhaF9KblkydDUzNWZEQ1FwcFkzTnBXVzFMcFQ0QXBfZXRSbmMzTkhxQ3lvZ0pFWWNHUXBxZm5FZ0VYZjlDT2xfNXplc2ljT205WUpQeHNhaXRNT21SbWp5ZjZuT3B1eVFGNTdUekl5VU01Y2V3VHhJYXhJLVo5a2dpVmp0YmFOYmNzbloxa1JOeTI4d05ubDVmeDZuZFY3cVc1TDdGZFJPSXI1NTZLV0pwUnJkb3RGYnFPazNNa2gxSEpyVk1uUTjSAdsBQVVfeXFMTndLdF9MUGY0MHFYUmNZRi1MbTRpYWhfSm5ZMnQ1MzVmRENRcHBZM05wV1cxTHBUNEFwX2V0Um5jM05IcUN5b2dKRVljR1FwcWZuRWdFWGY5Q09sXzV6ZXNpY09tOVlKUHhzYWl0TU9tUm1qeWY2bk9wdXlRRjU3VHpJeVVNNWNld1R4SWF4SS1aOWtnaVZqdGJhTmJjc25aMWtSTnkyOHdObmw1Zng2bmRWN3FXNUw3RmRST0lyNTU2S1dKcFJyZG90RmJxT2szTWtoMUhKclZNblE4?oc=5",
+      "words": [
+        "billion",
+        "blackrock",
+        "bloomberg",
+        "center",
+        "close",
+        "data",
+        "deal",
+        "ifm",
+        "stack"
+      ]
+    },
+    {
+      "at": "2026-09-24T14:33:18.015469+00:00",
+      "handle": "News: Global AI",
+      "headline": "Google, OpenAI, Anthropic plan joint AI safety group",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLUZqYUQxajZfc3ZNYkotbXhPUnd3WVJRR0pJNHlOMXJGRHBmS1gyYUprRDRRVXZxQzg4bHBwZ1JUZWpvSi13NGJ2ai1WZHBUUExReXU4VlkwbW1ESmlKU2tiaEl3UUgzYlA5OUNPSjBIcmFCdkdGN3VNdlR3ZWZhbkJsTXJZdkU2VmNFNmV4eW10dUFpTXh0bG9lNURxS21jUzY5ZExNb0lndHk0aC12NjI5cURkNHFlbDlWQU5PS0s0T0RaTnhOUmNpanI2dE5Z0gHQAUFVX3lxTE4tRmphRDFqNl9zdk1iSi1teE9Sd3dZUlFHSkk0eU4xckZEcGZLWDJhSmtENFFVdnFDODhscHBnUlRlam9KLXc0YnZqLVZkcFRQTFF5dThWWTBtbURKaUpTa2JoSXdRSDNiUDk5Q09KMEhyYUJ2R0Y3dU12VHdlZmFuQmxNcll2RTZWY0U2ZXh5bXR1QWlNeHRsb2U1RHFLbWNTNjlkTE1vSWd0eTRoLXY2MjlxRGQ0cWVsOVZBTk9LSzRPRFpOeE5SY2lqcjZ0Tlk?oc=5",
+      "words": [
+        "anthropic",
+        "concerns",
+        "google",
+        "group",
+        "growing",
+        "joint",
+        "openai",
+        "plan",
+        "report",
+        "safety"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789963497282",
-    "1789964805939",
-    "1789965092524",
-    "1789965475003",
-    "1789965945111",
-    "1789966020113",
-    "1789966351847",
-    "1789966573078",
     "1789901242540",
     "1789903771567",
     "1789925060495",
@@ -13549,10 +13548,18 @@
     "1790254893097",
     "1790256931138",
     "1790258381458",
-    "1790258450056"
+    "1790258450056",
+    "1790241630101",
+    "1790254336555",
+    "1790258931367",
+    "1790259158440",
+    "1790259400730",
+    "1790259904344",
+    "1790260080346",
+    "1790260200770"
   ],
-  "last_digest_hour": "2026-09-24T19",
-  "last_success": "2026-09-24T14:17:32.792128+00:00",
+  "last_digest_hour": "2026-09-24T20",
+  "last_success": "2026-09-24T14:33:18.038742+00:00",
   "national": {
     "alerted": [
       {
@@ -15359,6 +15366,93 @@
           "proposes",
           "represented"
         ]
+      },
+      {
+        "at": "2026-09-24T14:36:24.689270+00:00",
+        "handle": "SEBI",
+        "headline": "SEBI announces major regulatory decisions following its board meeting",
+        "tier": 1,
+        "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/key-decisions-taken-in-the-sebi-board-meeting-dated-24th-september-2026_104725.html",
+        "words": [
+          "2026",
+          "24th",
+          "board",
+          "dated",
+          "decisions",
+          "key",
+          "meeting",
+          "september",
+          "taken"
+        ]
+      },
+      {
+        "at": "2026-09-24T14:36:24.689270+00:00",
+        "handle": "PMO",
+        "headline": "PM Modi congratulates Seema for winning Asian Games bronze medal",
+        "tier": 1,
+        "url": "https://www.pmindia.gov.in/en/news_updates/pm-congratulates-seema-on-winning-bronze-medal-in-womens-10000m-at-asian-games",
+        "words": [
+          "000m",
+          "2026",
+          "asian",
+          "bronze",
+          "congratulates",
+          "expressed",
+          "games",
+          "his",
+          "medal",
+          "minister",
+          "modi",
+          "narendra",
+          "pmo",
+          "pride"
+        ]
+      },
+      {
+        "at": "2026-09-24T14:36:24.689270+00:00",
+        "handle": "PMO",
+        "headline": "PM congratulates Men\u2019s Badminton Team on Asian Games bronze",
+        "tier": 1,
+        "url": "https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mens-badminton-team-on-winning-bronze-medal-at-asian-games",
+        "words": [
+          "2026",
+          "asian",
+          "badminton",
+          "bronze",
+          "congratulated",
+          "congratulates",
+          "games",
+          "medal",
+          "men",
+          "minister",
+          "modi",
+          "narendra",
+          "pmo",
+          "prime"
+        ]
+      },
+      {
+        "at": "2026-09-24T14:36:24.689270+00:00",
+        "handle": "PMO",
+        "headline": "PM praises Parinaaz and Anantjeet for historic shooting medal",
+        "tier": 1,
+        "url": "https://www.pmindia.gov.in/en/news_updates/pm-congratulates-parinaaz-dhaliwal-and-anantjeet-singh-naruka-on-winning-bronze-medal-in-skeet-mixed-team-event",
+        "words": [
+          "2026",
+          "anantjeet",
+          "bronze",
+          "congratulated",
+          "congratulates",
+          "dhaliwal",
+          "event",
+          "medal",
+          "minister",
+          "mixed",
+          "modi",
+          "narendra",
+          "naruka",
+          "parina"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15675,7 +15769,7 @@
       "CG-OR-E-24092026-276465",
       "CG-OR-E-24092026-276466"
     ],
-    "last_run": "2026-09-24T14:20:30.472767+00:00",
+    "last_run": "2026-09-24T14:36:24.715735+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17107,7 +17201,16 @@
       "pib:2314536",
       "pib:2314570",
       "pib:2314571",
-      "pib:2314556"
+      "pib:2314556",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-rashesh-purohit-defaulter-pan-adqpp1270q-in-the-matter-of-tv-vision-limited-under-certificate-no-7449-of-2023-_104721.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/key-decisions-taken-in-the-sebi-board-meeting-dated-24th-september-2026_104725.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-rashesh-purohit-defaulter-pan-adqpp1270q-in-the-matter-of-tv-vision-limited-under-certificate-no-7475-of-2023-_104723.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/cancellation-of-recovery-certificate-no-7475-of-2023-dated-december-14-2023-issued-to-rashesh-purohit-defaulter-pan-adqpp1270q-in-the-matter-of-tv-vision-limited-under-certificate-no-7475-of-20-_104719.html",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-parinaaz-dhaliwal-and-anantjeet-singh-naruka-on-winning-bronze-medal-in-skeet-mixed-team-event",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-seema-on-winning-bronze-medal-in-womens-10000m-at-asian-games",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mens-badminton-team-on-winning-bronze-medal-at-asian-games",
+      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-kaizen-domestic-scheme-i_104715.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/cancellation-of-recovery-certificate-no-7449-of-2023-dated-december-08-2023-issued-to-rashesh-purohit-defaulter-pan-adqpp1270q-in-the-matter-of-tv-vision-limited-under-certificate-no-7449-of-20-_104717.html"
     ],
     "source_failures": {
       "CBI": {
@@ -17147,116 +17250,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Govt starts consultation for indigenous power grid chips",
-      "post": {
-        "created_at": "2026-09-24T12:48:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790254080901",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Govt starts consultation to develop indigenous chips, modules for power grids",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeWEzZTV3LTRXY19wbWl1cEpwTWsyQXJud3RreEZUUUl0RldzYVRENGRSNlY1dlpsTmZtYU11Mmc1WVROdU56YmdZeXQwUkJUSUxlOGtRaXk5dC1DUldHV2tSU25QRC1QYVJFUnl0Sm5SMjlJUjk4RmFKSkRFWmttMldnU1I4bk5pcUhHeWlzbmIwZGRCSVQ5NEhjdEJpMHdva0VQZTdqUE5jVVZ4SUFKSmVueENUVDg1X285MWpNUWV0Ni1VdU1jR0ZfNVI2RHlZRU95TldZOWNTYk1PR3YtWUQ0eVDSAeQBQVVfeXFMT3lhM2U1dy00V2NfcG1pdXBKcE1rMkFybnd0a3hGVFFJdEZXc2FURDRkUjZWNXZabE5mbWFNdTJnNVlUTnVOemJnWXl0MFJCVElMZThrUWl5OXQtQ1JXR1drUlNuUEQtUGFSRVJ5dEpuUjI5SVI5OEZhSkpERVprbTJXZ1NSOG5OaXFIR3lpc25iMGRkQklUOTRIY3RCaTB3b2tFUGU3alBOY1VWeElBSkplbnhDVFQ4NV9vOTFqTVFldDYtVXVNY0dGXzVSNkR5WUVPeU5XWTljU2JNT0d2LVlENHlQ?oc=5"
-      },
-      "queued_at": "2026-09-24T13:48:35.799495+00:00",
-      "score": 8.0,
-      "why": "Major government move on semiconductors and critical infrastructure for India."
-    },
-    {
-      "headline": "Amazon plans Rs 25,000 crore investment in Indian quick-commerce",
-      "post": {
-        "created_at": "2026-09-24T13:36:42+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1790257002524",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "Amazon plans to invest \u20b925,000 crore in India's quick-commerce sector, but can it catch up to Blinkit, Zepto and Swiggy?",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRGRuVGhmQ3phd19rOGhQUXhsYlZ3anB2ckxoRVo0VEZGc1N1dnl2NHNvV0JPMklIWXdLa0ROQjJwTEdJT19lUGgweDZtdldNdlZ4Tkl2WngtcjdCLUlBMzBRMXRMY0c3OGxSTVdhbGtXV2M5LWZJTlVjX2VmTDUyV0JVT0xtb2tDR0dtMzdMa3dPYzRPZk1oNEh1ZXJYUXFnTXk0eVcyYUJjZFZMOUNvTVNKQXk4UlBGMTdpUFFpUmJvZ3NTWXdNQkhVczNzV2ozZnpTT19WQkxNVzBveXlMZ1l5VWxiTXgyRXBIbWE3aEtWbjk4QVY0UXM1YzRaTUpUNGNLVVd30gGLAkFVX3lxTFB0dTEzNTktaEtUWkNkY0NMUGNqQnZHdXF4TVpuOU1JRjd3UmI1SjBxYlFwWHRzY2dCSFhON20teW11d1hNSEhvTG5sZlNJNjVMZGVubmVvN3BTZjZFY1RWWUN2ODZya3ByaFpCcjhUY3JJanA2ZlpXN25NaDdmVFRpU3h5bUlsOVlVWmZ3N0ZZQVRtMTNUR0VaaFplWGZ0TFhZSFd4TlBxLVI0N3JnUTlkTjFfdks2dllkeXVkLTlZMmxubEZNX2twZDR5QzE5UXV5YXBaaWhQbFJjQy1WVHUybENkdWRaZVdKTDBXaWFtTFZVLXpDYnhUS3ZKc3E2VVltN18ySGVBV3VDRQ?oc=5"
-      },
-      "queued_at": "2026-09-24T13:48:35.799495+00:00",
-      "score": 8.0,
-      "why": "Massive capital commitment and investment in the Indian e-commerce sector by a major watched company."
-    },
-    {
-      "headline": "AI startup Island valued at $6.4 billion in funding",
-      "post": {
-        "created_at": "2026-09-24T11:54:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790250840111",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "AI startup Island valued at $6.4 billion in latest funding round",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUktSNkVvcDBEay1GRnN5YzVVd1RhQTAwM01mdVQySG5SOG1LYnFLcFVNa1FTZkVBakJTTV9IcWtKUWxQWGRSMjlXLUlPSDdtX1h4Q1pjeTZ3ZnZqdlQ4TnBxTGh1VnZzbHoyWmNQWUNYSVU4VWhDWGtYczRaMVNyYy1fbktDT253eExZUlM3enJCRS03Mm14NkxwSVBaczdBZVBMdlJPemxVSDh5Vy1FeHhOOHY5U3J1eGxXcHFmV2lxazctZ1hyZGYyZ2hzWmtoMkttVFJMcW9DbGU2WkVGTVVZNnrSAeQBQVVfeXFMT1JLUjZFb3AwRGstRkZzeWM1VXdUYUEwMDNNZnVUMkhuUjhtS2JxS3BVTWtRU2ZFQWpCU01fSHFrSlFsUFhkUjI5Vy1JT0g3bV9YeENaY3k2d2Z2anZUOE5wcUxodVZ2c2x6MlpjUFlDWElVOFVoQ1hrWHM0WjFTcmMtX25LQ09ud3hMWVJTN3pyQkUtNzJteDZMcElQWnM3QWVQTHZST3psVUg4eVctRXh4Tjh2OVNydXhsV3BxZldpcWs3LWdYcmRmMmdoc1praDJLbVRSTHFvQ2xlNlpFRk1VWTZ6?oc=5"
-      },
-      "queued_at": "2026-09-24T14:03:31.087602+00:00",
-      "score": 7.0,
-      "why": "Significant funding round for an AI startup, indicating investor confidence in the sector."
-    },
-    {
-      "headline": "Semiconductor talent shortage spurs regional push for engineers",
-      "post": {
-        "created_at": "2026-09-24T13:47:34+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1790257654786",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Tribune",
-        "reposts": 0,
-        "text": "Semiconductor Talent shortage spurs regional push to build next generation of engineers",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYThkZmFqcEdBcUk2Rjg5YmJqRVIyRmZSclRmQWZpTGZQdlZGR2dGM3FvdEVlR3gxWG5pTGFkdzdzcE55d25BS1NnbERla2FLdk5kSGpRVXNyX3NTVkVZd2N4Z0FCTmpqaFZOZEJ5bEVBczhhNXZGR0JMLURjZ2ZtczBUVmhLMjRWeExRYnRpQ1A1WVNMcm56X1d3U1NXU2xiUkI1a3REYjh4OWlBYnVVWVlBaWt2bE5NcDF3WDU0NUpJYjdfTTB0YlFsUDFpSGpSRFRQNlJUQng5aGtzV2JaelUxVEdyNmZkN28w0gHrAUFVX3lxTE5hOGRmYWpwR0FxSTZGODliYmpFUjJGZlJyVGZBZmlMZlB2VkZHZ0YzcW90RWVHeDFYbmlMYWR3N3NwTnl3bkFLU2dsRGVrYUt2TmRIalFVc3Jfc1NWRVl3Y3hnQUJOampoVk5kQnlsRUFzOGE1dkZHQkwtRGNnZm1zMFRWaEsyNFZ4TFFidGlDUDVZU0xybnpfV3dTU1dTbGJSQjVrdERiOHg5aUFidVVZWUFpa3ZsTk1wMXdYNTQ1SkliN19NMHRiUWxQMWlIalJEVFA2UlRCeDloa3NXYlp6VTFUR3I2ZmQ3bzA?oc=5"
-      },
-      "queued_at": "2026-09-24T14:03:31.087602+00:00",
-      "score": 7.0,
-      "why": "Addresses a critical talent gap in a key industry with a focus on India's efforts."
-    },
-    {
-      "headline": "Navi's FY26 loss triples to \u20b9466 Cr ahead of IPO",
-      "post": {
-        "created_at": "2026-09-24T13:59:50+00:00",
-        "handle": "News: India fintech",
-        "id": "1790258390357",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Inc42",
-        "reposts": 0,
-        "text": "IPO-Bound Navi\u2019s FY26 Loss More Than Triples To \u20b9466 Cr",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORXlqRk50YktFdlhHQllNTjZ2Zkg5N0pVbEtVNUxqR3cyc3BtSkNJX1pKRlp0UVV1M3NNWEFqbzlJdEV3akFWSzREZXRmMTFOVmVVTUhsbmc2OXU1cnY4ZHYtNmVfV1NlSlFwUTRFMzFYTTBIaEFNN2xZVHBCNWdVZFZ1MTZZVDBUcVF3V0kxUQ?oc=5"
-      },
-      "queued_at": "2026-09-24T14:03:31.087602+00:00",
-      "score": 7.0,
-      "why": "Financial results for an IPO-bound company, indicating potential investor concerns."
-    },
-    {
-      "headline": "BlackRock, IFM nearing $25 billion Stack data center deal",
-      "post": {
-        "created_at": "2026-09-24T12:00:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790251200706",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "BlackRock, IFM close in on $25 billion Stack data center deal: Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd0t0X0xQZjQwcVhSY1lGLUxtNGlhaF9KblkydDUzNWZEQ1FwcFkzTnBXVzFMcFQ0QXBfZXRSbmMzTkhxQ3lvZ0pFWWNHUXBxZm5FZ0VYZjlDT2xfNXplc2ljT205WUpQeHNhaXRNT21SbWp5ZjZuT3B1eVFGNTdUekl5VU01Y2V3VHhJYXhJLVo5a2dpVmp0YmFOYmNzbloxa1JOeTI4d05ubDVmeDZuZFY3cVc1TDdGZFJPSXI1NTZLV0pwUnJkb3RGYnFPazNNa2gxSEpyVk1uUTjSAdsBQVVfeXFMTndLdF9MUGY0MHFYUmNZRi1MbTRpYWhfSm5ZMnQ1MzVmRENRcHBZM05wV1cxTHBUNEFwX2V0Um5jM05IcUN5b2dKRVljR1FwcWZuRWdFWGY5Q09sXzV6ZXNpY09tOVlKUHhzYWl0TU9tUm1qeWY2bk9wdXlRRjU3VHpJeVVNNWNld1R4SWF4SS1aOWtnaVZqdGJhTmJjc25aMWtSTnkyOHdObmw1Zng2bmRWN3FXNUw3RmRST0lyNTU2S1dKcFJyZG90RmJxT2szTWtoMUhKclZNblE4?oc=5"
-      },
-      "queued_at": "2026-09-24T14:17:32.755503+00:00",
-      "score": 7.0,
-      "why": "This indicates a significant investment and potential acquisition in the data center space."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18254,7 +18248,7 @@
     "cognizant": 1790161361396,
     "flipkart": 1789631208994,
     "google": 1790254800822,
-    "google cloud": 1790150400424,
+    "google cloud": 1790260200770,
     "google deepmind": 1790179257868,
     "google india": 1790235000631,
     "hcltech": 1790252074593,
@@ -18269,19 +18263,19 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1790248736938,
     "news: consumer internet india": 1790257344383,
-    "news: global ai": 1790254893097,
+    "news: global ai": 1790259158440,
     "news: global chips": 1790229087353,
     "news: global it services": 1790172561362,
     "news: india ai deeptech": 1790254812004,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790258390357,
+    "news: india fintech": 1790259904344,
     "news: india semiconductors": 1790257654786,
     "news: india tech policy": 1790254080901,
     "news: india telecom": 1790252898684,
     "news: indian it majors": 1790249686477,
     "news: indian it midcaps": 1790255924242,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790241720614,
+    "news: tech leaders": 1790260080346,
     "nvidia": 1790258450056,
     "nvidia blog": 1790258450056,
     "openai": 1790251200769,
@@ -18317,7 +18311,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T14:17:33.123648+00:00",
+    "last_server_run": "2026-09-24T14:33:18.246419+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T12:48:21.904229+00:00",
