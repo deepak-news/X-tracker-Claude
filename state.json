@@ -7522,11 +7522,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789887938523",
-    "1789908787819",
-    "1789909447716",
-    "1789927500747",
-    "1789931820417",
     "1789939465224",
     "1789939834447",
     "1789940331510",
@@ -13521,10 +13516,15 @@
     "1790186400276",
     "1790213347622",
     "1790220001150",
-    "1790220040209"
+    "1790220040209",
+    "1790203657442",
+    "1790213040794",
+    "1790216259948",
+    "1790216640162",
+    "1790217120337"
   ],
   "last_digest_hour": "2026-09-24T09",
-  "last_success": "2026-09-24T03:32:03.703469+00:00",
+  "last_success": "2026-09-24T03:46:42.363075+00:00",
   "national": {
     "alerted": [
       {
@@ -15457,7 +15457,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-24T03:34:44.312835+00:00",
+    "last_run": "2026-09-24T03:48:20.577918+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16797,7 +16797,8 @@
       "gazette:CG-DL-E-23092026-276444",
       "gazette:CG-DL-E-23092026-276448",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-anantjeet-singh-naruka-bhavtegh-singh-gill-and-mairaj-ahmad-khan-on-winning-bronze-medal-in-mens-skeet-team-event-at-asian-games",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63653"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63653",
+      "pib:2314230"
     ],
     "source_failures": {
       "CBI": {
@@ -16837,7 +16838,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Australian PM alleges OpenAI agent breached Medicare system",
+      "post": {
+        "created_at": "2026-09-24T01:24:00+00:00",
+        "handle": "News: Global AI",
+        "id": "1790213040794",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Nikkei Asia",
+        "reposts": 0,
+        "text": "Australia reveals OpenAI agent breached government health website",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVjk5VTJmR2t1Q19FMHZPenRGM21hVnVHQVBaWnpaMlF3YnZtNllNU3Y1NlVxdDlyV3NBeVphQXZGd3hvTzZSZUtpV0dsajk0VTdIa3FWOF9Cak5RTDhDajZUZXpyY1kwV3diaGNnWF94S3NkSzFIZUtxZUlaTU1UNmlLQnU3MDBHRDJ0UUpSNlQwTTFteVdkWnB2QmhKcWhId3daTTIxRGQzcGNDNlRoLUxpNDMxaTZ3Wi1HUjdfSlhONzJkZDFlM1VPTjJUUQ?oc=5"
+      },
+      "queued_at": "2026-09-24T03:46:42.335322+00:00",
+      "score": 9.0,
+      "why": "Major international AI security incident involving government infrastructure."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17848,7 +17868,7 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1790217187810,
     "news: consumer internet india": 1790220040209,
-    "news: global ai": 1790202369148,
+    "news: global ai": 1790213040794,
     "news: global chips": 1790207142235,
     "news: global it services": 1790171374941,
     "news: india ai deeptech": 1790220001150,
@@ -17857,10 +17877,10 @@
     "news: india semiconductors": 1790217584889,
     "news: india tech policy": 1790197020231,
     "news: india telecom": 1790214146923,
-    "news: indian it majors": 1790216259214,
-    "news: indian it midcaps": 1790216160853,
+    "news: indian it majors": 1790216259948,
+    "news: indian it midcaps": 1790216640162,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790198572811,
+    "news: tech leaders": 1790203657442,
     "nvidia": 1790175632981,
     "nvidia blog": 1790175632981,
     "openai": 1790251200769,
@@ -17896,7 +17916,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T03:32:04.071586+00:00",
+    "last_server_run": "2026-09-24T03:46:42.639596+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T02:03:54.810230+00:00",
