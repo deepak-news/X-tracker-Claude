@@ -7585,14 +7585,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789969920412",
-    "1789970046888",
-    "1789970055526",
-    "1789970221713",
-    "1789970361590",
-    "1789903380425",
-    "1789914995690",
-    "1789921800526",
     "1789922137462",
     "1789930884863",
     "1789947578808",
@@ -13584,10 +13576,18 @@
     "1790249833178",
     "1790271480345",
     "1790271912952",
-    "1790271934728"
+    "1790271934728",
+    "1790234460996",
+    "1790245920365",
+    "1790262109268",
+    "1790266685527",
+    "1790266699435",
+    "1790272560580",
+    "1790272601438",
+    "1790272825395"
   ],
   "last_digest_hour": "2026-09-24T23",
-  "last_success": "2026-09-24T18:02:52.156221+00:00",
+  "last_success": "2026-09-24T18:16:54.719615+00:00",
   "national": {
     "alerted": [
       {
@@ -15882,7 +15882,7 @@
       "CG-DL-E-24092026-276484",
       "CG-DL-E-24092026-276485"
     ],
-    "last_run": "2026-09-24T18:04:48.774713+00:00",
+    "last_run": "2026-09-24T18:21:06.736144+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17429,6 +17429,60 @@
       "queued_at": "2026-09-24T18:02:52.113904+00:00",
       "score": 7.0,
       "why": "Provides practical clarification on the newly implemented UPI fee rules for borrowers and financial services."
+    },
+    {
+      "headline": "SEBI addresses broker concerns over new UPI MDR charges",
+      "post": {
+        "created_at": "2026-09-24T16:18:19+00:00",
+        "handle": "News: India fintech",
+        "id": "1790266699435",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Fortune India",
+        "reposts": 0,
+        "text": "Sebi has heard brokers' MDR-charges related issues: Tuhin Kanta Pandey",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVkREUzJrWmE4MWtJd0Q4dkwtMU9IcVAxeGtSZkVnZlBlMGExbnc1Y0liOWRjSHJza3dVdlU1VlRsaGJfUzJsWE92Ny1yY3RfWEFaT01jUnZYRURhYzhkc0hueFFRX2h1NDdFTXh1Rl9FTWp0bkZpZEs3UWlqbFRRYU5TcDE2Y25hdE9xQkVCSUV5Y1FLbmM2Y3gwcmVUZzBWRFgwV0xLMVNYTExxLWxrQTdEU0xqTXE1ajhpSHZnVdIBvwFBVV95cUxQVkREUzJrWmE4MWtJd0Q4dkwtMU9IcVAxeGtSZkVnZlBlMGExbnc1Y0liOWRjSHJza3dVdlU1VlRsaGJfUzJsWE92Ny1yY3RfWEFaT01jUnZYRURhYzhkc0hueFFRX2h1NDdFTXh1Rl9FTWp0bkZpZEs3UWlqbFRRYU5TcDE2Y25hdE9xQkVCSUV5Y1FLbmM2Y3gwcmVUZzBWRFgwV0xLMVNYTExxLWxrQTdEU0xqTXE1ajhpSHZnVQ?oc=5"
+      },
+      "queued_at": "2026-09-24T18:16:54.681161+00:00",
+      "score": 7.0,
+      "why": "Financial sector regulator engaging with brokers on MDR impact is a major policy development."
+    },
+    {
+      "headline": "Report clarifies UPI MDR revenue sharing excludes government collections",
+      "post": {
+        "created_at": "2026-09-24T17:56:41+00:00",
+        "handle": "News: India fintech",
+        "id": "1790272601438",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Mint",
+        "reposts": 0,
+        "text": "UPI MDR: \u2018Not a single penny\u2019 will go to govt; earnings to be shared among banks and other entities, says report",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTGt2cDVYcTNBbmxzQUdQLXQ0MUVWLXlFYnBZczByd1NCdk1qeHc0UjNZVEZ1Q3VsckNxMWhLdVcyVldZNkR0cTl4X00wZ0haRG5sbzM4UnZzOTdaR2ZZUG50UWwzOTBfaVVJS0Rublc3ZDJmVDd4ekVKTXpmdm1jT2lQdG1fc1E0cmJVNmtsRFg0dGN2aVcwdDJCZTU3MmM1c0lLX1lsV05ZV1hjb3ZObko0cllsVXlILVRMaUFrbGtEZkxtcHo1Q1JRdzV6Z1hqQmU3WHItSWxXSms3OWQwZEtzSU9KMTNuYkx1UTFwQzVlOFdSR1HSAfsBQVVfeXFMTjU4X1VodGRqMlhUbjFiY3pqdzVteDRHM3VtWXNMR0RtS3hQUUxNeHJ3RzBlaXVaZ3NkaUo5a1ZvQWJtS2JvUHJtWHk4SW5RdU9UMlBKVHFxeTlsZjFseEtVUHRPV3g3TEJGM2drS2pHMTlra2hoZEdIRHZZYWItN0JLUzNuMGh3Y1drRlczQTd1MWF3cUd2SzdkeG1aVTZEZVNSU1RpQ2lvTWNUc2c1UTQ1V3pqaEtwcXZyTHZzQlZDNE5jRXliYW9xLUZPSXJrdDJ3V01hZVhvVzJ3alJkUG83U3c4LWZ4bnYyVElTRTdaZmhneENOcXhRcG8?oc=5"
+      },
+      "queued_at": "2026-09-24T18:16:54.681161+00:00",
+      "score": 7.0,
+      "why": "Provides hard structural clarity on how the newly reintroduced UPI merchant discount rate earnings are distributed."
+    },
+    {
+      "headline": "HCLTech's Sundararajan highlights gap in freshers' practical AI application skills",
+      "post": {
+        "created_at": "2026-09-24T18:00:25+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790272825395",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Deccan Herald",
+        "reposts": 0,
+        "text": "Freshers' AI exposure varies, practical application skills needed: HCLTech's Sundararajan",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUlZsM0ItNXEyYmtMc2F2ZFRIWWJheGwwYjFMUFdMOHRoTEdId1FWV3ptZWd4dkRTNmxlbW1ZUkkybDdIZ2FvTncwSWtFdDBjQldyU3kxMkRWdmthb3VQNUJ3SWhlbE9Pci1OSWs5clhqd1hfdU5UZFZxUDFNQkRJMVRZcjgtOXM2dFNPVHlmcmctV25nMDl1Qklzdzl5QnFud2ZCejlmNkJxTTlURmZUNFE2SFdudy03UExOVWVpeHh5MWFEN0VEMVg1TFZBelVfUUZ2Tm9GbTlqSm4wM1Nmei1IVzF6QkJhUjR1bTl3?oc=5"
+      },
+      "queued_at": "2026-09-24T18:16:54.681161+00:00",
+      "score": 7.0,
+      "why": "Major IT services executive statement on workforce readiness and artificial intelligence training in India."
     }
   ],
   "page_links": {
@@ -18440,19 +18494,19 @@
     "microsoft": 1789653605718,
     "microsoft india": 1790232537762,
     "mistral ai": 1789560000798,
-    "naukri": 1789127303684,
+    "naukri": 1790234460996,
     "news: big tech platforms": 1790265499474,
     "news: consumer internet india": 1790262147273,
     "news: global ai": 1790271352004,
-    "news: global chips": 1790261334834,
+    "news: global chips": 1790272560580,
     "news: global it services": 1790263164342,
     "news: india ai deeptech": 1790270559383,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790271934728,
+    "news: india fintech": 1790272601438,
     "news: india semiconductors": 1790267258280,
     "news: india tech policy": 1790265240686,
     "news: india telecom": 1790252898684,
-    "news: indian it majors": 1790249686477,
+    "news: indian it majors": 1790272825395,
     "news: indian it midcaps": 1790266270353,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790260080346,
@@ -18491,7 +18545,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T18:02:52.569062+00:00",
+    "last_server_run": "2026-09-24T18:16:55.059315+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T17:05:38.815901+00:00",
