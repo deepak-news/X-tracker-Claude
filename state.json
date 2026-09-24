@@ -7517,11 +7517,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789887869832",
-    "1789931703038",
-    "1789944673196",
-    "1789946275382",
-    "1789946675121",
     "1789949414097",
     "1789950600021",
     "1789950915249",
@@ -13516,10 +13511,15 @@
     "1790231348070",
     "1790231478540",
     "1790231893689",
-    "1790231897291"
+    "1790231897291",
+    "1790230344725",
+    "1790231656031",
+    "1790232394405",
+    "1790232537762",
+    "1790233001225"
   ],
   "last_digest_hour": "2026-09-24T12",
-  "last_success": "2026-09-24T06:47:22.168951+00:00",
+  "last_success": "2026-09-24T07:02:16.710324+00:00",
   "national": {
     "alerted": [
       {
@@ -15521,7 +15521,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-24T06:52:55.903101+00:00",
+    "last_run": "2026-09-24T07:05:11.222270+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16875,7 +16875,8 @@
       "pib:2314280",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-satnam-singh-and-salman-khan-on-winning-bronze-medal-in-mens-double-sculls",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-naorem-roshibina-devi-on-winning-silver-medal-in-womens-sanda-60kg-event",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-bus-fire-tragedy-in-greater-noida-uttar-pradesh"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-bus-fire-tragedy-in-greater-noida-uttar-pradesh",
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/09/%e0%b0%b5%e0%b0%bf%e0%b0%a6%e0%b1%8d%e0%b0%af%e0%b1%81%e0%b0%a4%e0%b1%8d-%e0%b0%b6%e0%b0%be%e0%b0%96%e0%b0%aa%e0%b1%88-%e0%b0%ae%e0%b1%81%e0%b0%96%e0%b1%8d%e0%b0%af%e0%b0%ae%e0%b0%82%e0%b0%a4-2/"
     ],
     "source_failures": {
       "CBI": {
@@ -16937,6 +16938,42 @@
       "queued_at": "2026-09-24T06:47:22.135318+00:00",
       "score": 8.0,
       "why": "Statement by a key chief executive on a major financial policy shift directly impacts the IT/fintech beat."
+    },
+    {
+      "headline": "MeitY Secretary stresses sovereign tech autonomy amid US-China dependence",
+      "post": {
+        "created_at": "2026-09-24T06:56:41+00:00",
+        "handle": "News: India tech policy",
+        "id": "1790233001225",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "India needs \u2018sovereign autonomy\u2019 in technology amid US, China dependence: MeitY Secretary",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZW91eHktRGxIdGZPTE1SU2xrQ1Q1VURWUWZzOVpTaTM0WlhmdVd4Z05BTVQ5djBQSkRjbkZnUTlVUG1hdUhDY1ZYVnljTDNZc1RYbWdEM0FZaTE5dHZwUGFpc3BpdDNDaE9kV1N0QUwxN21LdHd2bmtFcDR6Nzd6TmRDaDJHbnN0NDJKNU9fYXk4ZkoyWGNsRlR6ODBZYzR2V1JnOXROdHU0N29wOERRTEJ6aWp0dU5LTEdRc2ZDZXZQUFFnbWx1eXlBWHNLR2M0YjY4dUc5eEpWcGphay01TNIB5gFBVV95cUxOdXYzTm5hV2NWYWtoSnZuWDhhb1FnRmJsNXVVcGxEUjVzbVd5ajc2UzF4RlU2dm5zblNVNDRjUy1Ycndxci1hNENWUjV5R3Z4R1RfeHBYTmJJMHkxdHM5ZFEwalpWMVRLSVhsdTMxcjVlZ2FTbldTeFpwamEtMG9uUWNLTnk3VXRjZW9zQWhzRFBSSGdVSTNoSU1kb0dod1RVNXhwQ0RzejZZTTY1ZGQ3TWprUnlkSENSWGFRQlY2bEJoUERxSWRscy1NVDNRRHlUd2FCaGhHYjUyTXZZX0RMZ21zUTlKdw?oc=5"
+      },
+      "queued_at": "2026-09-24T07:02:16.681657+00:00",
+      "score": 8.0,
+      "why": "This is a significant policy statement by a senior Indian government official on national technology direction."
+    },
+    {
+      "headline": "NPCI CEO clarifies 96% of UPI transactions remain free",
+      "post": {
+        "created_at": "2026-09-24T06:46:34+00:00",
+        "handle": "News: India fintech",
+        "id": "1790232394405",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "Misinformation driving MDR concerns, 96% of transactions will still be free, says NPCI CEO",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVlJhYzJGVm9JNWJoOGxkQUxXdl9KRWdPU1ZWeUFhZ3FWMzdjMU92elhJLWdsTzZEaFJPM2pLbDJkYTBzZDI0QXhUS1UtdlIxYThJM09TWjRuQ3ByaDJCUHhobENJellBUy05LWV6ZXNOZ3ZpeXI1eGJCS1pqQldsYUxQUlB0R3cxWm1xOVNrbXhDLVdOdXlpdFZCUm9KYTZrdm5HRUdCUEhBRkkxemMtU0V5ZWh4ZlRpcWZzUGU3VFd2ekxRSWJidGdqOHJ2MXQ4RnlHN1VfQjh1RDdkY0lBREk0b1fSAeoBQVVfeXFMTWdQSEVPM2lpUG50a05fVmRSTHlzNVBzMnFRX3ZLYTJrdWdBaVpoRko4Mmlsdl9DV0tDQXRnWGNDUmY0dVRjcXBOX1lWUzBNVWR2VkMzaU1PYmdYNnZER01OdU40bG9Ra05BdDFJanQ1TnV6T1M3VndIWG5LdF9GMUpYZ0xXVjNyQmp0RU5zeE5aSDhrVTRJdjNkTF9tOGhNa0I5UnlBVWpSX0NEV3FBaFMwUFF0c0l6MDlpV3o2VEhLWk42bkNOckR1elZQcEViaDAwR3V0NFNFZ2liMmN0RnAyMnUyMmlXZEpR?oc=5"
+      },
+      "queued_at": "2026-09-24T07:02:16.681657+00:00",
+      "score": 7.0,
+      "why": "This is a direct statement from the NPCI CEO addressing ongoing market concerns regarding UPI MDR changes."
     }
   ],
   "page_links": {
@@ -17944,7 +17981,7 @@
     "linkedin": 1790168556912,
     "meta": 1790164427915,
     "microsoft": 1789653605718,
-    "microsoft india": 1790163169143,
+    "microsoft india": 1790232537762,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790230980886,
@@ -17954,9 +17991,9 @@
     "news: global it services": 1790171374941,
     "news: india ai deeptech": 1790228683558,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790231478540,
+    "news: india fintech": 1790232394405,
     "news: india semiconductors": 1790218923673,
-    "news: india tech policy": 1790230656234,
+    "news: india tech policy": 1790233001225,
     "news: india telecom": 1790229300406,
     "news: indian it majors": 1790228276002,
     "news: indian it midcaps": 1790226300278,
@@ -17997,7 +18034,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T06:47:22.512346+00:00",
+    "last_server_run": "2026-09-24T07:02:16.977161+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T06:20:26.004176+00:00",
