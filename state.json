@@ -2,28 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-19T15:32:17.570594+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "India unveils first home-designed broadband chip Vihaan-I",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV2JFVnU0cldUUXFpOTQxaXJPdGFTYnU0b0YwZ0RzT1ROTVpMY0tqODZMVEszRVd6SHVNTzNfZm9qbnFWdHVrUzVOdkFxdFdkdk1EUnA0bWJHbVVPZW00ZkJSQk5VVzMwX2djOVFPR1hVRm1rRnZ3ODFVNnNiVzVoZUh2ZFpRQVhyTjlWMXNNQi12WFBIOG1HSmNRREt5V1RUN09WUDhmdW9IVlVSZE42RjBtWFlKTTRtdHlkTHJJcE1MQTFaalA1QTVqWHZlS0NSNGV4emJNeFJiNHJkQ1daYWZDQXgxN01NdTlTR1pRWHk?oc=5",
-      "words": [
-        "broadband",
-        "chip",
-        "day",
-        "designed",
-        "first",
-        "home",
-        "independence",
-        "out",
-        "republic",
-        "taped",
-        "unveils",
-        "vihaan",
-        "working"
-      ]
-    },
-    {
-      "at": "2026-09-19T15:32:17.570594+00:00",
       "handle": "News: Global IT services",
       "headline": "Karnataka HC upholds ED seizure order in Genpact case",
       "tier": 0,
@@ -7524,24 +7502,34 @@
         "platform",
         "protean"
       ]
+    },
+    {
+      "at": "2026-09-24T09:48:00.257648+00:00",
+      "handle": "PhonePe",
+      "headline": "PhonePe announces 20,000 rural hires and 5 million device deployment",
+      "tier": 1,
+      "url": "https://www.phonepe.com/press/phonepe-announces-big-rural-merchant-expansion-plans-to-hire-20-000-additional-on-roll-sales-employees-in-rural-india-and-deploy-50-lakh-payment-devices",
+      "words": [
+        "000",
+        "2026",
+        "additional",
+        "announces",
+        "art",
+        "big",
+        "deploy",
+        "devices",
+        "employees",
+        "expansion",
+        "hire",
+        "lakh",
+        "merchant",
+        "payment"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789957563266",
-    "1789957817898",
-    "1789957988342",
-    "1789958347508",
-    "1789958553746",
-    "1789885549820",
-    "1789887849187",
-    "1789902698254",
-    "1789903023601",
-    "1789905155789",
-    "1789905617933",
-    "1789914615610",
-    "1789920298863",
     "1789950600136",
     "1789951500651",
     "1789954310697",
@@ -13528,10 +13516,23 @@
     "1790235909898",
     "1790236477677",
     "1790238067272",
-    "1790241156301"
+    "1790241156301",
+    "1789957561980",
+    "1790158569094",
+    "1790186747459",
+    "1790190860159",
+    "1790215071587",
+    "1790233211224",
+    "1790236148345",
+    "1790236277068",
+    "1790237714292",
+    "1790241720614",
+    "1790242772165",
+    "1790243188249",
+    "2314350"
   ],
   "last_digest_hour": "2026-09-24T15",
-  "last_success": "2026-09-24T09:32:09.368718+00:00",
+  "last_success": "2026-09-24T09:48:00.363212+00:00",
   "national": {
     "alerted": [
       {
@@ -15559,9 +15560,13 @@
       "CG-DL-E-24092026-276457",
       "CG-MH-E-24092026-276336",
       "CG-DL-E-24092026-276460",
-      "CG-DL-E-24092026-276461"
+      "CG-DL-E-24092026-276461",
+      "CG-DL-E-24092026-276458",
+      "CG-DL-E-24092026-276459",
+      "CG-DL-E-24092026-276462",
+      "CG-DL-E-24092026-276463"
     ],
-    "last_run": "2026-09-24T09:34:28.917678+00:00",
+    "last_run": "2026-09-24T09:49:51.777700+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16928,7 +16933,12 @@
       "pib:2314333",
       "pib:2314291",
       "gazette:CG-DL-E-24092026-276461",
-      "gazette:CG-DL-E-24092026-276460"
+      "gazette:CG-DL-E-24092026-276460",
+      "gazette:CG-DL-E-24092026-276463",
+      "pib:2314350",
+      "gazette:CG-DL-E-24092026-276462",
+      "gazette:CG-DL-E-24092026-276459",
+      "gazette:CG-DL-E-24092026-276458"
     ],
     "source_failures": {
       "CBI": {
@@ -16968,7 +16978,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Sam Altman and Dario Amodei address UN Security Council",
+      "post": {
+        "created_at": "2026-09-24T09:22:00+00:00",
+        "handle": "News: Tech leaders",
+        "id": "1790241720614",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "Sam Altman and Dario Amodei make an appeal to the world leaders at UN Security Council meet",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMVEzQ3RfMjNNXzJoSnpJblY0UXV1bTNrQnAwaUUyUDJuUkRSMWNFVk1TbVVfYzBPM25RZDh2cTJMN3FFU3FmOFYyM0d6emZWRkFQd1g1YVVCNlJkWE1wZ0x5RU1EMF9xV1dPZUduTFphb1RtclJwM3lNb3AxRV9WeTR6NWZUSXpMbkZRNmxhcUZqeU5nQ1A0UDFnOGNTRDFzUFhYVFA2cjN2dFVleGdpU2ozVDQ2Tk42VDhqd3c0RnZaekVtRVhZd25RS2R2QjF2US04ZWRnM1Jxa3V0QklDU1FWTzU2czBqRFJwTjB6dW5MRkM0SEhadDFFUWRvRmtQMkY2WtIBigJBVV95cUxQZG1HSmVaVENSV1BoYkdkVVRtU1BRRmJGRUh2aFFCcEI2R3VBVTQzVXhZS2pRb3JQcldlel9wekhhLW5Dd0lSUUVYUk81S3JCcC1ETnNlaG9JZkY4b2d5MndUbnFGUktZVHVNUFdlcWREd0VZNXU2VEVIWGFtN0pJZUFwWkRET3g0R3V1UUFCQXIzaVdZNk9nTlVYVWU2YXN5Y1lLMG1OdW9oSDhPV1dCRzVfaUFtUFJEOUZUb0l1ZVV4V1BoN2VVT0ozZjQ4QTFQcTFYVGlKMV92ZDcybDVkdFNMcEdTMWNSdkIyUzhWQW1zOGFjb05mb2JlRGVTUkdCWThtd2lDRmMxUQ?oc=5"
+      },
+      "queued_at": "2026-09-24T09:48:00.328571+00:00",
+      "score": 8.0,
+      "why": "Major global AI leadership development involving top tech CEOs at the UN."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17724,6 +17753,7 @@
     "PhonePe": {
       "https://www.phonepe.com/press/SBI_CREDIT_CARD_PAGE": "2026-09-17T07:46:47.098672+00:00",
       "https://www.phonepe.com/press/phonepe-and-visa-partner-to-power-comprehensive-cardless-payments-for-millions-of-indians-globally": "2026-09-17T07:46:47.098672+00:00",
+      "https://www.phonepe.com/press/phonepe-announces-big-rural-merchant-expansion-plans-to-hire-20-000-additional-on-roll-sales-employees-in-rural-india-and-deploy-50-lakh-payment-devices": "2026-09-24T09:46:28.498494+00:00",
       "https://www.phonepe.com/press/phonepe-launches-fixed-deposit-distribution-in-partnership-with-leading-banks-nbfcs": "2026-09-17T07:46:47.098672+00:00",
       "https://www.phonepe.com/press/phonepe-launches-pulsepro-actionable-data-intelligence-for-indian-businesses": "2026-09-17T07:46:47.098672+00:00",
       "https://www.phonepe.com/press/phonepe-launches-upi-payments-for-indias-feature-phone-users": "2026-09-17T07:46:47.098672+00:00",
@@ -17985,22 +18015,22 @@
     "news: global it services": 1790172561362,
     "news: india ai deeptech": 1790239444142,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790239954346,
+    "news: india fintech": 1790242772165,
     "news: india semiconductors": 1790236477677,
     "news: india tech policy": 1790239952366,
     "news: india telecom": 1790229300406,
     "news: indian it majors": 1790235836834,
-    "news: indian it midcaps": 1790235960611,
+    "news: indian it midcaps": 1790236277068,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790237835074,
+    "news: tech leaders": 1790241720614,
     "nvidia": 1790175632981,
     "nvidia blog": 1790175632981,
     "openai": 1790251200769,
     "oracle": 1790182896113,
-    "phonepe": 1790060532360,
+    "phonepe": 1790243188249,
     "pib communications": 2313673,
     "pib meity": 2313324,
-    "pib science and technology": 2313879,
+    "pib science and technology": 2314350,
     "razorpay": 1789986994125,
     "redseer": 1790238736972,
     "reg cci": 1790035200881,
@@ -18028,7 +18058,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T09:32:09.702180+00:00",
+    "last_server_run": "2026-09-24T09:48:00.666629+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T08:34:30.084676+00:00",
@@ -18358,8 +18388,12 @@
       "CG-DL-E-23092026-276451",
       "CG-DL-E-24092026-276456",
       "CG-DL-E-24092026-276457",
+      "CG-DL-E-24092026-276458",
+      "CG-DL-E-24092026-276459",
       "CG-DL-E-24092026-276460",
       "CG-DL-E-24092026-276461",
+      "CG-DL-E-24092026-276462",
+      "CG-DL-E-24092026-276463",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
