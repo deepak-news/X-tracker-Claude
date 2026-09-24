@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-19T18:32:24.183587+00:00",
-      "handle": "News: Global chips",
-      "headline": "Trump extends $100,000 H-1B fee impacting Indian tech workers",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ2pWVlpHUmZfYVZ2OXkwTFhHMG9VQWVDVlQ2MWQyekJWeVpaaVU4LTJjc2IxUVZLSVBJbWk5Wm56TklZQmdxejNONjNRdWtCMFFxWVZGRDdsNVdjeXNzRkxoeFk2blZfVEFmNVdjQTJFYmhfaXlyY19qUGNLRzlzQjJWMWh4R0tLN0gzOVdhVXV0NEl5aHFHdnhWV0Y3NFlERm03MWNkLTVJYkM3eEszcldwY3EzbnVfRE1vUTJMSHhVaGZYS0tBakVRTUxtclJyeFdnNVR0MGozR1JLZWpXSk8wOFl2Q1dvNzdiYXE4Z9IB7wFBVV95cUxOQ2pWVlpHUmZfYVZ2OXkwTFhHMG9VQWVDVlQ2MWQyekJWeVpaaVU4LTJjc2IxUVZLSVBJbWk5Wm56TklZQmdxejNONjNRdWtCMFFxWVZGRDdsNVdjeXNzRkxoeFk2blZfVEFmNVdjQTJFYmhfaXlyY19qUGNLRzlzQjJWMWh4R0tLN0gzOVdhVXV0NEl5aHFHdnhWV0Y3NFlERm03MWNkLTVJYkM3eEszcldwY3EzbnVfRE1vUTJMSHhVaGZYS0tBakVRTUxtclJyeFdnNVR0MGozR1JLZWpXSk8wOFl2Q1dvNzdiYXE4Zw?oc=5",
-      "words": [
-        "000",
-        "100",
-        "chip",
-        "costs",
-        "crisis",
-        "extends",
-        "faces",
-        "fee",
-        "hit",
-        "n18g",
-        "talent",
-        "trump",
-        "visa",
-        "workers"
-      ]
-    },
-    {
       "at": "2026-09-19T20:38:47.144551+00:00",
       "handle": "News: Global AI",
       "headline": "Israeli security firm tied to OpenAI and Anthropic breaches",
@@ -7545,21 +7522,34 @@
         "pushing",
         "sarvam"
       ]
+    },
+    {
+      "at": "2026-09-24T14:17:32.109754+00:00",
+      "handle": "NVIDIA",
+      "headline": "NVIDIA, Google DeepMind release viral protein structures via AlphaFold",
+      "tier": 1,
+      "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+      "words": [
+        "advantage",
+        "can",
+        "coronaviruses",
+        "covid",
+        "crucial",
+        "decades",
+        "emerged",
+        "had",
+        "help",
+        "meant",
+        "next",
+        "open",
+        "pandemic",
+        "prepare"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789965800821",
-    "1789965896983",
-    "1789887914207",
-    "1789903380649",
-    "1789912211919",
-    "1789927502553",
-    "1789950600399",
-    "1789953300043",
-    "1789958932689",
-    "1789963193388",
     "1789963497282",
     "1789964805939",
     "1789965092524",
@@ -13549,10 +13539,20 @@
     "1790252740720",
     "1790257344383",
     "1790257654786",
-    "1790258390357"
+    "1790258390357",
+    "1790249263318",
+    "1790249686477",
+    "1790249933384",
+    "1790251200706",
+    "1790253660927",
+    "1790253720476",
+    "1790254893097",
+    "1790256931138",
+    "1790258381458",
+    "1790258450056"
   ],
   "last_digest_hour": "2026-09-24T19",
-  "last_success": "2026-09-24T14:03:31.118961+00:00",
+  "last_success": "2026-09-24T14:17:32.792128+00:00",
   "national": {
     "alerted": [
       {
@@ -15675,7 +15675,7 @@
       "CG-OR-E-24092026-276465",
       "CG-OR-E-24092026-276466"
     ],
-    "last_run": "2026-09-24T14:10:31.377540+00:00",
+    "last_run": "2026-09-24T14:20:30.472767+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17104,7 +17104,10 @@
       "pib:2314545",
       "pib:2314542",
       "pib:2314535",
-      "pib:2314536"
+      "pib:2314536",
+      "pib:2314570",
+      "pib:2314571",
+      "pib:2314556"
     ],
     "source_failures": {
       "CBI": {
@@ -17114,9 +17117,6 @@
       "DGFT": {
         "count": 14,
         "until": "2026-09-24T16:03:00.922815+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -17237,6 +17237,24 @@
       "queued_at": "2026-09-24T14:03:31.087602+00:00",
       "score": 7.0,
       "why": "Financial results for an IPO-bound company, indicating potential investor concerns."
+    },
+    {
+      "headline": "BlackRock, IFM nearing $25 billion Stack data center deal",
+      "post": {
+        "created_at": "2026-09-24T12:00:00+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1790251200706",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "BlackRock, IFM close in on $25 billion Stack data center deal: Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd0t0X0xQZjQwcVhSY1lGLUxtNGlhaF9KblkydDUzNWZEQ1FwcFkzTnBXVzFMcFQ0QXBfZXRSbmMzTkhxQ3lvZ0pFWWNHUXBxZm5FZ0VYZjlDT2xfNXplc2ljT205WUpQeHNhaXRNT21SbWp5ZjZuT3B1eVFGNTdUekl5VU01Y2V3VHhJYXhJLVo5a2dpVmp0YmFOYmNzbloxa1JOeTI4d05ubDVmeDZuZFY3cVc1TDdGZFJPSXI1NTZLV0pwUnJkb3RGYnFPazNNa2gxSEpyVk1uUTjSAdsBQVVfeXFMTndLdF9MUGY0MHFYUmNZRi1MbTRpYWhfSm5ZMnQ1MzVmRENRcHBZM05wV1cxTHBUNEFwX2V0Um5jM05IcUN5b2dKRVljR1FwcWZuRWdFWGY5Q09sXzV6ZXNpY09tOVlKUHhzYWl0TU9tUm1qeWY2bk9wdXlRRjU3VHpJeVVNNWNld1R4SWF4SS1aOWtnaVZqdGJhTmJjc25aMWtSTnkyOHdObmw1Zng2bmRWN3FXNUw3RmRST0lyNTU2S1dKcFJyZG90RmJxT2szTWtoMUhKclZNblE4?oc=5"
+      },
+      "queued_at": "2026-09-24T14:17:32.755503+00:00",
+      "score": 7.0,
+      "why": "This indicates a significant investment and potential acquisition in the data center space."
     }
   ],
   "page_links": {
@@ -18251,7 +18269,7 @@
     "naukri": 1789127303684,
     "news: big tech platforms": 1790248736938,
     "news: consumer internet india": 1790257344383,
-    "news: global ai": 1790249933492,
+    "news: global ai": 1790254893097,
     "news: global chips": 1790229087353,
     "news: global it services": 1790172561362,
     "news: india ai deeptech": 1790254812004,
@@ -18260,12 +18278,12 @@
     "news: india semiconductors": 1790257654786,
     "news: india tech policy": 1790254080901,
     "news: india telecom": 1790252898684,
-    "news: indian it majors": 1790249686467,
+    "news: indian it majors": 1790249686477,
     "news: indian it midcaps": 1790255924242,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790241720614,
-    "nvidia": 1790254836287,
-    "nvidia blog": 1790254836287,
+    "nvidia": 1790258450056,
+    "nvidia blog": 1790258450056,
     "openai": 1790251200769,
     "oracle": 1790182896113,
     "phonepe": 1790243188249,
@@ -18299,7 +18317,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T14:03:31.357688+00:00",
+    "last_server_run": "2026-09-24T14:17:33.123648+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T12:48:21.904229+00:00",
