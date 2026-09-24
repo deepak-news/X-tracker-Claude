@@ -1,137 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-19T15:32:17.570594+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "Trump dismisses AI danger talk as hoax in call to Nvidia CEO",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CWEFuSENpcnJtdTJUVnBWR3h4MTVqNm9BVHVJM1FINVkwdEI4NlctQXdsRXNTREVwZWtqeVhXWExOTEhUMFhaYVNsdW5XS1YzOThUV1pSUDZHaWUwRWV4OURpWmZPTV80akJzME01Vm1rOXBtNVZFWWNsdw?oc=5",
-      "words": [
-        "angeles",
-        "call",
-        "calls",
-        "ceo",
-        "danger",
-        "hoax",
-        "los",
-        "nvidia",
-        "phone",
-        "talk",
-        "trump"
-      ]
-    },
-    {
-      "at": "2026-09-19T16:35:11.151689+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Coforge launches Value Gates framework for measurable AI investments",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFAzOURvd0lvaGtmbHE5UGM0V19lb2p3WDdyb0k2Ukhrdms2QXR2SnNaVy1OX2hQbDdld1RrZEIzVm4ybG1jS1hFWDhyVFlmRVZjWEp1VEVtMXM0NWswSHZOU1RyS09EU25JaFNDNlk2S2piWHZRUGJHdHBZall5MmlNZGhCRWlTZGhvWERMSnVPN1B4cjdtVE13MWszU1Z3Y05JLWpIMDl2Tmc?oc=5",
-      "words": [
-        "coforge",
-        "drive",
-        "framework",
-        "gates",
-        "investment",
-        "launches",
-        "measurable",
-        "outcomes",
-        "value"
-      ]
-    },
-    {
-      "at": "2026-09-19T17:32:46.320412+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Persistent Systems reports Q1FY27 revenue up 16% to $452.4M",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWxHUVlCRU1iWXl4TUdKYzJydXloUE94V3VHbWtyZWR0akVUekFkbG1jNUJuUkhKNG5EUk9VYVhGU0c4VDVabXRDTndyQW9ZRnctZTM1MjZTZjh3SjhTS05IQTFfYVRGWHYxZ3NpZWVHTDhNZTdQSWU1ZmdZS0cxYUljVWNXYlpqWnNRMGlrNW5rSlV4ZUVCaWc0QW9FWG1zRnJ3ekx1VS1vUC1YekJ5TmlFMU1hTEtoYll6cHZDUzBpNk4z?oc=5",
-      "words": [
-        "452",
-        "ebit",
-        "expands",
-        "margin",
-        "persistent",
-        "q1fy27",
-        "revenue",
-        "rises",
-        "systems"
-      ]
-    },
-    {
-      "at": "2026-09-19T17:32:46.320412+00:00",
-      "handle": "News: India telecom",
-      "headline": "TRAI unveils new rating framework for digital connectivity infrastructure",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdWxFU2dQcDc3eWJYdmJ4SUFGQ3VYUmRINWtGdXV3bmV5R0hpZ0Nhckh0WUVjMXdvUm4tdWxpemFXWWlXUHR2UVU1d3piU0U1d2JKSGdiX0NnbjF1ZmtmNEVoVVljaVNlVDdfNEYtbC1pbXZGUEhQTHBXemduTXhsRTg1Zi1xMVV5azE3QU9EajRzOWZuTXJuMml0eVNESjRHbzFDWjU2RVUxZENUbHNBYXNaeVVGMHNkWTRXakZaelphWUtmYk01YV9scERKTTJ2NWR5QUdocVBOX05LZlRWdUg2WQ?oc=5",
-      "words": [
-        "akashvani",
-        "connectivity",
-        "digital",
-        "framework",
-        "infrastructure",
-        "news",
-        "rating",
-        "trai",
-        "unveils"
-      ]
-    },
-    {
-      "at": "2026-09-19T17:32:46.320412+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Tata Trusts challenges N. Chandrasekaran's reappointment as illegal, Tata Chemicals plunges",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYm0wcWZ6RC1FSU5WWnB3M3hXTmRGOFNnNnNTZ1poU3ludTRnNjdjYVBxNnllSG1BZUcxOXhpVUlIeU9yUkpaelNUWDhPUlpad0JVM2dhMmRvVDVzcjVNR2x0aTZTelhJMGgxdG5MTzlBbjBtLWxVdnlzRTZmelR1MTR1WlM?oc=5",
-      "words": [
-        "calls",
-        "chandrasekaran",
-        "chemicals",
-        "illegal",
-        "plunges",
-        "reappointment",
-        "tata",
-        "trusts"
-      ]
-    },
-    {
-      "at": "2026-09-19T17:32:46.320412+00:00",
-      "handle": "News: Global chips",
-      "headline": "Minister Vaishnaw highlights students taping out chips in 400 universities",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVjJkczAyd1lKaGtCalVKRjQwYm1oWmJiYmMxMFlwaDB5cXFGV3phc3NSZUVTRld2N2xiLVhjOGlfdmNRendoZ0xsYkVUV05xeklIV00wSWduVXN5WGh6RFRta1pmVDl4enF6MkpKNXhCZElySm1lV1RMNXJCdXFLUFBRVXhxMFV1S1M3LVNQTjJteS1zaVFJMF9JTVdqWkRHNTR0NmpUZm5BLXJCT045WVdickxxQ2dxMVhiLTlEZ2xmeEpBNHZ0eFkwU2tzdktxdDJLSV9GRmplLTFWdnVMZm1lTk9NeEnSAecBQVVfeXFMT1YyZHMwMndZSmhrQmpVSkY0MGJtaFpiYmJjMTBZcGgweXFxRld6YXNzUmVFU0ZXdjdsYi1YYzhpX3ZjUXp3aGdMbGJFVFdOcXpJSFdNMElnblVzeVhoekRUbWtaZlQ5eHpxejJKSjV4QmRJckptZVdUTDVyQnVxS1BQUVV4cTBVdUtTNy1TUE4ybXktc2lRSTBfSU1XalpERzU0dDZqVGZuQS1yQk9OOVlXYnJMcUNncTFYYi05RGdsZnhKQTR2dHhZMFNrc3ZLcXQyS0lfRkZqZS0xVnZ1TGZtZU5PTXhJ?oc=5",
-      "words": [
-        "400",
-        "ashwini",
-        "changing",
-        "chips",
-        "life",
-        "out",
-        "students",
-        "tape",
-        "today",
-        "universities",
-        "vaishnaw"
-      ]
-    },
-    {
-      "at": "2026-09-19T18:32:24.183587+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI engineers detail unexpected AI router breakdown and fix",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51bHNoRmgyQWF6MTk0Q2k0cUpLTU1Cd0hxR0JpZGxjWU4xNHVXVFVKSWozWmNDdUJCT1puR1hrSFktWXY5ZVFyeWlQc3JYRFVaa1Qwb0trZUIybEU?oc=5",
-      "words": [
-        "broke",
-        "engineers",
-        "fix",
-        "here",
-        "one",
-        "openai",
-        "predicted",
-        "router",
-        "say",
-        "their",
-        "way"
-      ]
-    },
-    {
       "at": "2026-09-19T18:32:24.183587+00:00",
       "handle": "News: Global AI",
       "headline": "Judge blocks OpenAI from Apple confidential settlement with Musk",
@@ -7536,20 +7405,146 @@
         "specialty",
         "waaree"
       ]
+    },
+    {
+      "at": "2026-09-24T12:32:56.936545+00:00",
+      "handle": "PIB Science and Technology",
+      "headline": "Union Minister Jitendra Singh launches bio-based biodegradable plastic under BioE3",
+      "tier": 1,
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2314491",
+      "words": [
+        "based",
+        "bio",
+        "biodegradable",
+        "bioe3",
+        "commercial",
+        "formalises",
+        "jitendra",
+        "launch",
+        "minister",
+        "plastic",
+        "singh",
+        "under",
+        "union"
+      ]
+    },
+    {
+      "at": "2026-09-24T12:32:58.604853+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "China's DeepSeek hits $1 billion annualised revenue run rate",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVZMa3dZSmN4LUdRS0stOWZXMHpCQkw4Nkp0enBWU2RtRk8xMy1kZ0tvMkRMVUw0LVVCSEJvU3VBbi01SnJmWEVRa29aNWJaUnVpQTVQcnQtY0lFNUJiMW85MEtOT0xyT2RSNXZKXzF5eWZqclhJb3Y1ZGttdDhtR2xJcWYyT0FiaDU3a0JqTTk5cWlCZkxNR3ZBbk14V0h4cENub1puRFlVaFhBZzRCUVhRV2VzY0pCLWFNdUUzZEJXbXlFMkpOSkU5SjdlRS15NkRmSTZoTHdqUEZuLW1LSUpCbDlhUUXSAecBQVVfeXFMTUlWTGt3WUpjeC1HUUtLLTlmVzB6QkJMODZKdHpwVlNkbUZPMTMtZGdLbzJETFVMNC1VQkhCb1N1QW4tNUpyZlhFUWtvWjViWlJ1aUE1UHJ0LWNJRTVCYjFvOTBLTk9Mck9kUjV2Sl8xeXlmanJYSW92NWRrbXQ4bUdsSXFmMk9BYmg1N2tCak05OXFpQmZMTUd2QW5NeFdIeHBDbm9abkRZVWhYQWc0QlFYUVdlc2NKQi1hTXVFM2RCV215RTJKTkpFOUo3ZUUteTZEZkk2aEx3alBGbi1tS0lKQmw5YVFF?oc=5",
+      "words": [
+        "annualised",
+        "billion",
+        "china",
+        "deepseek",
+        "hits",
+        "rate",
+        "report",
+        "revenue",
+        "run"
+      ]
+    },
+    {
+      "at": "2026-09-24T12:32:58.604853+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Nykaa and L'Oreal BOLD fund partner to back Indian beauty startups",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTThudjh5SDBvd242dVVvWER5cmlGQmttZDM1ZGl0aTRPM0dRb3gzQkNKUHVoWWZHWTVGdWFiZlZwREJldWNFYlU3U0ozbXloYmRQOVltU2FoVEtuY1NSZ1JrbFQzS2VoTzNhYW5NU1doQ1JSMk9pYkp0aUpHbmI2MHZBQ3IzNVZnanlFSFAyMEdqTDJtV2N3cjdoeldYd00xOENqcFg4RFd5bVRKd2RIdHFtSzZrd2FuaGE1V2ZBMlRZQnl5QkxSUkVR0gHPAUFVX3lxTFBDNE9RWGM4cFAtbVdFNTVhMzVhZUxmc2xrMWUxQVVJOHl6YUFwUERCTk93eFM1MzlhQlRVQW11VTA1bXBmSURpOERjSkktT2ROVTlFSlRudG5xblhiaWs1aERERzRNQXVrVzNaQXpuVEZGQzNHNzRMSHk5TVdkSUpyUmFPTHpQbDNYb3NLdDBOeUpGbFRKa0JNYl9wOWVVUnhqYUFGakJsZnlhQzNUY2tkcndCUGd2TG9RS2JzMkl4SVNYUVdFMFB2REdJQ1lwTQ?oc=5",
+      "words": [
+        "back",
+        "beauty",
+        "bold",
+        "entrepreneurs",
+        "fund",
+        "nykaa",
+        "partners"
+      ]
+    },
+    {
+      "at": "2026-09-24T12:32:58.604853+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Pope Leo highlights AI risks at Vatican global agenda",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNd3hvTjMwcGdtM1BKZDJxUlU4aWVTZU5CekdqamhUa1JBZUhQZGI3SHBsZzJZck5WS2RQWmV4c3ZKZ2d6Q1l6VDVFS0pnMGxsazRPSnV6SVpUUnZ1MEVGOXhRVXBxdDlJU1EycjdtZ3p1TWUtajBDUHNzaHctUGRESkFDZzd0M2J4Q2ZoNEc4QnBNVzczLW5NTDlZdndnQlhRbEZfa1Qya0VIS2JtUkpwSHRwUW5WZzNkS2htOGM0dzU0ai1MRTNGU1dHeTJySlRnTUl3MklOazdyYTUwR0RBdmVhZlpIRlRjY19UeTNydFhleUc2dko0bkhueEE2bGp5QVlLSl92NNIBhwJBVV95cUxNd3hvTjMwcGdtM1BKZDJxUlU4aWVTZU5CekdqamhUa1JBZUhQZGI3SHBsZzJZck5WS2RQWmV4c3ZKZ2d6Q1l6VDVFS0pnMGxsazRPSnV6SVpUUnZ1MEVGOXhRVXBxdDlJU1EycjdtZ3p1TWUtajBDUHNzaHctUGRESkFDZzd0M2J4Q2ZoNEc4QnBNVzczLW5NTDlZdndnQlhRbEZfa1Qya0VIS2JtUkpwSHRwUW5WZzNkS2htOGM0dzU0ai1MRTNGU1dHeTJySlRnTUl3MklOazdyYTUwR0RBdmVhZlpIRlRjY19UeTNydFhleUc2dko0bkhueEE2bGp5QVlLSl92NA?oc=5",
+      "words": [
+        "agenda",
+        "centre",
+        "future",
+        "global",
+        "humanity",
+        "leo",
+        "pope",
+        "puts",
+        "risks",
+        "stake",
+        "vatican"
+      ]
+    },
+    {
+      "at": "2026-09-24T12:32:58.604853+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Myntra announces massive festive hiring drive for seasonal jobs",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUFlvdDA4MEFzc0dxNEVIM0xMZ2c1SDRGUTJSUlR0eHBmdzRTbHBHOFkyeUVVMTNZYWtiSGY2cHhKRWczZ2dqWDFlY01QMGRNZWthUXZZUGRudHNSSEtKX3g4OURSbzV0MEFJak5SV194MXZqZUJDXzgzN2tHTEg0ekM1cjFiZm1UUTNMSzNNeW1LMmpfSW1SOFBuME9MdUl3MVkyN1M0cEZ2ODdsLUhXSmZIOWZmRHA1UUpXSXp6MzZ2N0ktSF92dXBYUE5jQTQ4ZEpudHRISUFFdFA4dTdBSDFB0gHnAUFVX3lxTE45UDB2c3lWWTlSUjRTRnRPeDk5QkpLYnlDLW1ybU1YTno0dk90MjFMeHZsZVhsMkVndnd5OHhudTFTdVpGbUdKYXlKdWw1cEtnTlJza0Y1N1ZBZGFWWkxiTUZISGkybTIwNWRSSlR6SUY2bzlucXN1Qml2VWV6SjYzYzJ5M3dOdTVacmJtWFJvc04zS1VpQjVITUdBWUFKalN6QjY4M1lTb3JsUDA5Q0IwYjRUS1pzcVBYaDAwanlRaVFxQl84QXBjalZYMGJabTViNkNCV0ZUQl81enRhWHBDQ3B4c1dubw?oc=5",
+      "words": [
+        "000",
+        "700",
+        "delivery",
+        "drive",
+        "festive",
+        "hiring",
+        "jobs",
+        "myntra",
+        "partners",
+        "roles",
+        "seasonal",
+        "service"
+      ]
+    },
+    {
+      "at": "2026-09-24T12:32:58.604853+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Court filings reveal why Apple chose Google over OpenAI for Siri",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNUlvQmNhbW9uN1ZYdzk4Z0tRd2VsRVo0UzZXT0hoMjdkU0pLVkxxbWxrTXZsS0dGMkxWSDB3dVB6c0RiRFZoUk4waFhLeHFSdWlNY0lLNWwtcEhSNURnNjVFWDVDMjVVWkgwcWpUa3FDQ3N3TmdqcnVuYl9TLXpoVGVRVDFlSjM1el9Kbnp2akM3YldCZEFFYnI2ZFZ4MS1DR0ZzQ2szSjBicFlHRDFwbEhZTE1wcDhja2lTWXFDck1KYWlTWGo5T251RTR5VFJSeTZNOEhnU0NQaWFPS3lleXlQS0xnUU56c3Ixb0NpMXRwVEM0cUttNUFudC1HRjVkX0dF0gGDAkFVX3lxTE01SW9CY2Ftb243Vlh3OThnS1F3ZWxFWjRTNldPSGgyN2RTSktWTHFtbGtNdmxLR0YyTFZIMHd1UHpzRGJEVmhSTjBoWEt4cVJ1aU1jSUs1bC1wSFI1RGc2NUVYNUMyNVVaSDBxalRrcUNDc3dOZ2pydW5iX1MtemhUZVFUMWVKMzV6X0puenZqQzdiV0JkQUVicjZkVngxLUNHRnNDazNKMGJwWUdEMXBsSFlMTXBwOGNraVNZcUNyTUphaVNYajlPbnVFNHlUUlJ5Nk04SGdTQ1BpYU9LeWV5eVBLTGdRTnpzcjFvQ2kxdHBUQzRxS201QW50LUdGNWRfR0U?oc=5",
+      "words": [
+        "answer",
+        "apple",
+        "court",
+        "filings",
+        "google",
+        "may",
+        "openai",
+        "picked",
+        "siri"
+      ]
+    },
+    {
+      "at": "2026-09-24T12:32:58.604853+00:00",
+      "handle": "News: India fintech",
+      "headline": "Samsung Wallet adds biometric authentication for UPI payments in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdktvNVZrOVZoN29RY0dPWV9UTDhPdmNUSklKcENHajhzWjIxRmNOOFlySlhFcWRmQUpUYWJWcloyQWZzWjcxNTI0dldTVlNwSlpTLXYwQThWeXRuNmM3X1VFRVNUNE9qOV9lX3BrcUNzNTFOYVRQR0hvVjNWQV81aXZTWVZtOGd2TkJKWGRnNTJCamh6bHk3SmllT1NtSnoyN2tla2tiNXNHMmxGcVRwNUh2NnI3cXdVb0JLV21xS181SEJsV0tIblAydmkyR2ZhWmY2SGYtWjVtZzJEM1hWMmJadVdJb3l4MFJGd2x3NjJ0NFJ6S29xUERHclZZSmFzZG9YZG5DRjB4dUhMazRrcTJR0gGXAkFVX3lxTE9OVmJjN29aRFppeklhbEM5dTRZOEJvSnhZWE5xa0xUbFd6N0tqYXJKTllDazJnOThvVVMxUkx6aklvcld2RHl0SEZXOUZsUEtFRTFVdXdOWW1qRk5FcFRpVzFUVl9oUDlqYjZlNW96TG4tX3JnSy1JdGp5NEpiZTFYeWg2WndVWjhSeW1RNnJTM0dvWWlYNTVDZGYtNVlvZzBKVnROWHF3Ym1USUN5VTUwdEIydGZZUVhvRkdValB5b2VPUVBhYXo3djhvcFhmOGp2ZmtROTNKX0x1b1hjeWplRnMzMGlDQjd4Z216YXpiZFlzLU94MFcydGIzYnNEWnhPcTIxaURNZlg5d2ZTTFJnNzM5ZjZaSQ?oc=5",
+      "words": [
+        "allows",
+        "authentication",
+        "biometric",
+        "here",
+        "make",
+        "now",
+        "payments",
+        "samsung",
+        "upi",
+        "users",
+        "wallet"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789963057364",
-    "1789963369238",
-    "1789963458460",
-    "1789963523876",
-    "1789963560506",
-    "1789963565218",
-    "1789963589955",
-    "1789963624959",
-    "1789963852679",
     "1789963881034",
     "1789879950422",
     "1789900117890",
@@ -13540,10 +13535,19 @@
     "1790250194383",
     "1790251174260",
     "1790251380901",
-    "1790251800164"
+    "1790251800164",
+    "1790245080200",
+    "1790246412511",
+    "1790247044617",
+    "1790247409177",
+    "1790248800564",
+    "1790249434811",
+    "1790250773124",
+    "1790252340649",
+    "2314491"
   ],
-  "last_digest_hour": "2026-09-24T17",
-  "last_success": "2026-09-24T12:17:45.893047+00:00",
+  "last_digest_hour": "2026-09-24T18",
+  "last_success": "2026-09-24T12:32:58.639562+00:00",
   "national": {
     "alerted": [
       {
@@ -15643,7 +15647,7 @@
       "CG-OR-E-24092026-276465",
       "CG-OR-E-24092026-276466"
     ],
-    "last_run": "2026-09-24T12:20:28.855555+00:00",
+    "last_run": "2026-09-24T12:37:54.124556+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17044,7 +17048,24 @@
       "pib:2314464",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63659",
       "pib:2314447",
-      "pib:2314468"
+      "pib:2314468",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-24-2026-against-fulabhai-bhitor-pan-dylpb2813q-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited-under-rc-no-9228-of-2026_104710.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-24-2026against-manish-mishra-pan-amppm6823l-in-the-matter-of-sadhna-broadcast-limited-under-rc-no-9236-of-2026_104712.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-dated-24-09-2026-against-rakeshbhai-k-pandya-pan-cumpp3101k-defaulter-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited-under-recovery-certifica-_104700.html",
+      "pib:2314491",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-september-24-2026-issued-under-rc-no-9207-of-2026-drawn-against-rathod-mahendrkumar-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technolo-_104696.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-september-24-2026-issued-under-rc-no-9209-of-2026-drawn-against-pranav-kamleshkumar-trivedi-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-_104698.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-september-24-2026-issued-under-rc-no-9205-of-2026-drawn-against-nayan-mahendrabhai-thakkar-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-t-_104694.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-september-24-2026-issued-under-rc-no-9198-of-2026-drawn-against-madhu-kumari-bairwa-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technolo-_104688.html",
+      "pib:2314488",
+      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/order-in-the-matter-of-certain-research-analysts_104713.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-september-24-2026-issued-under-rc-no-9204-of-2026-drawn-against-usha-devi-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technologies-limit-_104692.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-24-2026-against-manoj-rameshbhai-solanki-pan-gemps6325n-defaulter-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-te-_104708.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-dated-24-09-2026-against-sonalben-amitbhai-khalas-pan-hvupk8521g-defaulter-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited-under-recovery-cert-_104702.html",
+      "pib:2314481",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-24-2026-against-rohit-bairwa-pan-elypb0179q-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technologies-limited-now-du-_104704.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-september-24-2026-issued-under-rc-no-9201-of-2026-drawn-against-dhaval-vinodbhai-gadani-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-tech-_104690.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-24-2026-against-rohit-bairwa-pan-elypb0179q-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technologies-limited-now-du-_104706.html"
     ],
     "source_failures": {
       "CBI": {
@@ -17084,116 +17105,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "China's DeepSeek hits $1 billion annualised revenue run rate",
-      "post": {
-        "created_at": "2026-09-24T09:59:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790243940426",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "China's DeepSeek annualised revenue run rate hits $1 billion: Report",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVZMa3dZSmN4LUdRS0stOWZXMHpCQkw4Nkp0enBWU2RtRk8xMy1kZ0tvMkRMVUw0LVVCSEJvU3VBbi01SnJmWEVRa29aNWJaUnVpQTVQcnQtY0lFNUJiMW85MEtOT0xyT2RSNXZKXzF5eWZqclhJb3Y1ZGttdDhtR2xJcWYyT0FiaDU3a0JqTTk5cWlCZkxNR3ZBbk14V0h4cENub1puRFlVaFhBZzRCUVhRV2VzY0pCLWFNdUUzZEJXbXlFMkpOSkU5SjdlRS15NkRmSTZoTHdqUEZuLW1LSUpCbDlhUUXSAecBQVVfeXFMTUlWTGt3WUpjeC1HUUtLLTlmVzB6QkJMODZKdHpwVlNkbUZPMTMtZGdLbzJETFVMNC1VQkhCb1N1QW4tNUpyZlhFUWtvWjViWlJ1aUE1UHJ0LWNJRTVCYjFvOTBLTk9Mck9kUjV2Sl8xeXlmanJYSW92NWRrbXQ4bUdsSXFmMk9BYmg1N2tCak05OXFpQmZMTUd2QW5NeFdIeHBDbm9abkRZVWhYQWc0QlFYUVdlc2NKQi1hTXVFM2RCV215RTJKTkpFOUo3ZUUteTZEZkk2aEx3alBGbi1tS0lKQmw5YVFF?oc=5"
-      },
-      "queued_at": "2026-09-24T11:46:58.499994+00:00",
-      "score": 8.0,
-      "why": "Hard financial metrics from a major AI player constitute high-value wire news."
-    },
-    {
-      "headline": "Nykaa and L'Oreal BOLD fund partner to back Indian beauty startups",
-      "post": {
-        "created_at": "2026-09-24T11:41:14+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1790250074791",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "Nykaa partners with L'Or\u00e9al's BOLD fund to back Indian beauty entrepreneurs",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTThudjh5SDBvd242dVVvWER5cmlGQmttZDM1ZGl0aTRPM0dRb3gzQkNKUHVoWWZHWTVGdWFiZlZwREJldWNFYlU3U0ozbXloYmRQOVltU2FoVEtuY1NSZ1JrbFQzS2VoTzNhYW5NU1doQ1JSMk9pYkp0aUpHbmI2MHZBQ3IzNVZnanlFSFAyMEdqTDJtV2N3cjdoeldYd00xOENqcFg4RFd5bVRKd2RIdHFtSzZrd2FuaGE1V2ZBMlRZQnl5QkxSUkVR0gHPAUFVX3lxTFBDNE9RWGM4cFAtbVdFNTVhMzVhZUxmc2xrMWUxQVVJOHl6YUFwUERCTk93eFM1MzlhQlRVQW11VTA1bXBmSURpOERjSkktT2ROVTlFSlRudG5xblhiaWs1aERERzRNQXVrVzNaQXpuVEZGQzNHNzRMSHk5TVdkSUpyUmFPTHpQbDNYb3NLdDBOeUpGbFRKa0JNYl9wOWVVUnhqYUFGakJsZnlhQzNUY2tkcndCUGd2TG9RS2JzMkl4SVNYUVdFMFB2REdJQ1lwTQ?oc=5"
-      },
-      "queued_at": "2026-09-24T11:46:58.499994+00:00",
-      "score": 8.0,
-      "why": "Strategic partnership and investment initiative involving major beauty tech and retail brands in India."
-    },
-    {
-      "headline": "Pope Leo highlights AI risks at Vatican global agenda",
-      "post": {
-        "created_at": "2026-09-24T09:43:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790242980138",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Pope Leo puts AI risks at centre of Vatican\u2019s global agenda: 'Future of humanity is at stake'",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNd3hvTjMwcGdtM1BKZDJxUlU4aWVTZU5CekdqamhUa1JBZUhQZGI3SHBsZzJZck5WS2RQWmV4c3ZKZ2d6Q1l6VDVFS0pnMGxsazRPSnV6SVpUUnZ1MEVGOXhRVXBxdDlJU1EycjdtZ3p1TWUtajBDUHNzaHctUGRESkFDZzd0M2J4Q2ZoNEc4QnBNVzczLW5NTDlZdndnQlhRbEZfa1Qya0VIS2JtUkpwSHRwUW5WZzNkS2htOGM0dzU0ai1MRTNGU1dHeTJySlRnTUl3MklOazdyYTUwR0RBdmVhZlpIRlRjY19UeTNydFhleUc2dko0bkhueEE2bGp5QVlLSl92NNIBhwJBVV95cUxNd3hvTjMwcGdtM1BKZDJxUlU4aWVTZU5CekdqamhUa1JBZUhQZGI3SHBsZzJZck5WS2RQWmV4c3ZKZ2d6Q1l6VDVFS0pnMGxsazRPSnV6SVpUUnZ1MEVGOXhRVXBxdDlJU1EycjdtZ3p1TWUtajBDUHNzaHctUGRESkFDZzd0M2J4Q2ZoNEc4QnBNVzczLW5NTDlZdndnQlhRbEZfa1Qya0VIS2JtUkpwSHRwUW5WZzNkS2htOGM0dzU0ai1MRTNGU1dHeTJySlRnTUl3MklOazdyYTUwR0RBdmVhZlpIRlRjY19UeTNydFhleUc2dko0bkhueEE2bGp5QVlLSl92NA?oc=5"
-      },
-      "queued_at": "2026-09-24T11:46:58.499994+00:00",
-      "score": 7.0,
-      "why": "Major global regulatory and ethical statement on AI from a key world figure, warranting a wire alert."
-    },
-    {
-      "headline": "Myntra announces massive festive hiring drive for seasonal jobs",
-      "post": {
-        "created_at": "2026-09-24T11:25:20+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1790249120772",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Businesstoday",
-        "reposts": 0,
-        "text": "Myntra's festive hiring drive: 26,000+ seasonal jobs, 8,000 delivery partners, 2,700 service roles",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUFlvdDA4MEFzc0dxNEVIM0xMZ2c1SDRGUTJSUlR0eHBmdzRTbHBHOFkyeUVVMTNZYWtiSGY2cHhKRWczZ2dqWDFlY01QMGRNZWthUXZZUGRudHNSSEtKX3g4OURSbzV0MEFJak5SV194MXZqZUJDXzgzN2tHTEg0ekM1cjFiZm1UUTNMSzNNeW1LMmpfSW1SOFBuME9MdUl3MVkyN1M0cEZ2ODdsLUhXSmZIOWZmRHA1UUpXSXp6MzZ2N0ktSF92dXBYUE5jQTQ4ZEpudHRISUFFdFA4dTdBSDFB0gHnAUFVX3lxTE45UDB2c3lWWTlSUjRTRnRPeDk5QkpLYnlDLW1ybU1YTno0dk90MjFMeHZsZVhsMkVndnd5OHhudTFTdVpGbUdKYXlKdWw1cEtnTlJza0Y1N1ZBZGFWWkxiTUZISGkybTIwNWRSSlR6SUY2bzlucXN1Qml2VWV6SjYzYzJ5M3dOdTVacmJtWFJvc04zS1VpQjVITUdBWUFKalN6QjY4M1lTb3JsUDA5Q0IwYjRUS1pzcVBYaDAwanlRaVFxQl84QXBjalZYMGJabTViNkNCV0ZUQl81enRhWHBDQ3B4c1dubw?oc=5"
-      },
-      "queued_at": "2026-09-24T11:46:58.499994+00:00",
-      "score": 7.0,
-      "why": "Large-scale hiring commitments by a major Indian e-commerce firm meet the filing criteria."
-    },
-    {
-      "headline": "Court filings reveal why Apple chose Google over OpenAI for Siri",
-      "post": {
-        "created_at": "2026-09-24T11:03:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1790247780137",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Why Apple picked Google over OpenAI for new Siri, new court filings may have the answer",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNUlvQmNhbW9uN1ZYdzk4Z0tRd2VsRVo0UzZXT0hoMjdkU0pLVkxxbWxrTXZsS0dGMkxWSDB3dVB6c0RiRFZoUk4waFhLeHFSdWlNY0lLNWwtcEhSNURnNjVFWDVDMjVVWkgwcWpUa3FDQ3N3TmdqcnVuYl9TLXpoVGVRVDFlSjM1el9Kbnp2akM3YldCZEFFYnI2ZFZ4MS1DR0ZzQ2szSjBicFlHRDFwbEhZTE1wcDhja2lTWXFDck1KYWlTWGo5T251RTR5VFJSeTZNOEhnU0NQaWFPS3lleXlQS0xnUU56c3Ixb0NpMXRwVEM0cUttNUFudC1HRjVkX0dF0gGDAkFVX3lxTE01SW9CY2Ftb243Vlh3OThnS1F3ZWxFWjRTNldPSGgyN2RTSktWTHFtbGtNdmxLR0YyTFZIMHd1UHpzRGJEVmhSTjBoWEt4cVJ1aU1jSUs1bC1wSFI1RGc2NUVYNUMyNVVaSDBxalRrcUNDc3dOZ2pydW5iX1MtemhUZVFUMWVKMzV6X0puenZqQzdiV0JkQUVicjZkVngxLUNHRnNDazNKMGJwWUdEMXBsSFlMTXBwOGNraVNZcUNyTUphaVNYajlPbnVFNHlUUlJ5Nk04SGdTQ1BpYU9LeWV5eVBLTGdRTnpzcjFvQ2kxdHBUQzRxS201QW50LUdGNWRfR0U?oc=5"
-      },
-      "queued_at": "2026-09-24T12:03:01.619815+00:00",
-      "score": 7.0,
-      "why": "Major industry insight and legal disclosure regarding top AI partnerships."
-    },
-    {
-      "headline": "Samsung Wallet adds biometric authentication for UPI payments in India",
-      "post": {
-        "created_at": "2026-09-24T12:10:00+00:00",
-        "handle": "News: India fintech",
-        "id": "1790251800164",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Samsung Wallet now allows users to make UPI payments with biometric authentication in India: Here's how i",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdktvNVZrOVZoN29RY0dPWV9UTDhPdmNUSklKcENHajhzWjIxRmNOOFlySlhFcWRmQUpUYWJWcloyQWZzWjcxNTI0dldTVlNwSlpTLXYwQThWeXRuNmM3X1VFRVNUNE9qOV9lX3BrcUNzNTFOYVRQR0hvVjNWQV81aXZTWVZtOGd2TkJKWGRnNTJCamh6bHk3SmllT1NtSnoyN2tla2tiNXNHMmxGcVRwNUh2NnI3cXdVb0JLV21xS181SEJsV0tIblAydmkyR2ZhWmY2SGYtWjVtZzJEM1hWMmJadVdJb3l4MFJGd2x3NjJ0NFJ6S29xUERHclZZSmFzZG9YZG5DRjB4dUhMazRrcTJR0gGXAkFVX3lxTE9OVmJjN29aRFppeklhbEM5dTRZOEJvSnhZWE5xa0xUbFd6N0tqYXJKTllDazJnOThvVVMxUkx6aklvcld2RHl0SEZXOUZsUEtFRTFVdXdOWW1qRk5FcFRpVzFUVl9oUDlqYjZlNW96TG4tX3JnSy1JdGp5NEpiZTFYeWg2WndVWjhSeW1RNnJTM0dvWWlYNTVDZGYtNVlvZzBKVnROWHF3Ym1USUN5VTUwdEIydGZZUVhvRkdValB5b2VPUVBhYXo3djhvcFhmOGp2ZmtROTNKX0x1b1hjeWplRnMzMGlDQjd4Z216YXpiZFlzLU94MFcydGIzYnNEWnhPcTIxaURNZlg5d2ZTTFJnNzM5ZjZaSQ?oc=5"
-      },
-      "queued_at": "2026-09-24T12:17:45.860544+00:00",
-      "score": 7.0,
-      "why": "This is a major product capability rollout for a dominant mobile payment rail in India."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18209,7 +18121,7 @@
     "news: global ai": 1790249933492,
     "news: global chips": 1790229087353,
     "news: global it services": 1790172561362,
-    "news: india ai deeptech": 1790239444142,
+    "news: india ai deeptech": 1790252340649,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790251800164,
     "news: india semiconductors": 1790247714814,
@@ -18226,7 +18138,7 @@
     "phonepe": 1790243188249,
     "pib communications": 2313673,
     "pib meity": 2313324,
-    "pib science and technology": 2314385,
+    "pib science and technology": 2314491,
     "razorpay": 1790239817010,
     "redseer": 1790238736972,
     "reg cci": 1790035200881,
@@ -18254,7 +18166,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T12:17:46.156687+00:00",
+    "last_server_run": "2026-09-24T12:32:58.963511+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T10:47:56.639448+00:00",
@@ -18800,7 +18712,8 @@
       "gazette:CG-DL-E-23092026-276448|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-23092026-276444|GAZETTE_MAIL_TO",
       "meeting:LS|22525",
-      "meeting:LS|22526"
+      "meeting:LS|22526",
+      "bulletin:LS|2026-09-24|Bulletin-II"
     ]
   }
 }
