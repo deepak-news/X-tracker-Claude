@@ -7545,14 +7545,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789963881034",
-    "1789879950422",
-    "1789900117890",
-    "1789907836267",
-    "1789923832863",
-    "1789925114542",
-    "1789955955995",
-    "1789958100345",
     "1789958932421",
     "1789959840512",
     "1789960043439",
@@ -13544,10 +13536,18 @@
     "1790249434811",
     "1790250773124",
     "1790252340649",
-    "2314491"
+    "2314491",
+    "1790221586430",
+    "1790238348423",
+    "1790240637118",
+    "1790246603184",
+    "1790246913364",
+    "1790247826446",
+    "1790252898684",
+    "1790252996724"
   ],
   "last_digest_hour": "2026-09-24T18",
-  "last_success": "2026-09-24T12:32:58.639562+00:00",
+  "last_success": "2026-09-24T12:46:52.273702+00:00",
   "national": {
     "alerted": [
       {
@@ -15647,7 +15647,7 @@
       "CG-OR-E-24092026-276465",
       "CG-OR-E-24092026-276466"
     ],
-    "last_run": "2026-09-24T12:37:54.124556+00:00",
+    "last_run": "2026-09-24T12:49:42.463117+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17065,7 +17065,9 @@
       "pib:2314481",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-24-2026-against-rohit-bairwa-pan-elypb0179q-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technologies-limited-now-du-_104704.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-september-24-2026-issued-under-rc-no-9201-of-2026-drawn-against-dhaval-vinodbhai-gadani-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-tech-_104690.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-24-2026-against-rohit-bairwa-pan-elypb0179q-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technologies-limited-now-du-_104706.html"
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-order-dated-september-24-2026-against-rohit-bairwa-pan-elypb0179q-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technologies-limited-now-du-_104706.html",
+      "pib:2314494",
+      "pib:2314497"
     ],
     "source_failures": {
       "CBI": {
@@ -18121,12 +18123,12 @@
     "news: global ai": 1790249933492,
     "news: global chips": 1790229087353,
     "news: global it services": 1790172561362,
-    "news: india ai deeptech": 1790252340649,
+    "news: india ai deeptech": 1790252996724,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790251800164,
     "news: india semiconductors": 1790247714814,
     "news: india tech policy": 1790239952366,
-    "news: india telecom": 1790250424586,
+    "news: india telecom": 1790252898684,
     "news: indian it majors": 1790247854305,
     "news: indian it midcaps": 1790251380901,
     "news: pib releases": 1790159940641,
@@ -18166,17 +18168,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T12:32:58.963511+00:00",
+    "last_server_run": "2026-09-24T12:46:52.636589+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-24T10:47:56.639448+00:00",
+        "checked": "2026-09-24T12:48:21.904229+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-24T10:47:47.893511+00:00",
+        "checked": "2026-09-24T12:48:03.168745+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -18252,7 +18254,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-24T10:47:51.742338+00:00",
+        "checked": "2026-09-24T12:48:13.186752+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -18306,11 +18308,11 @@
       },
       "last": {
         "calendar": "2026-09-24T11:03:23.621952+00:00",
-        "ls_reports": "2026-09-24T10:47:30.589818+00:00",
-        "rs_committee_press": "2026-09-24T10:47:41.811822+00:00",
-        "rs_press": "2026-09-24T10:47:38.470877+00:00",
-        "rs_reports": "2026-09-24T10:47:35.360799+00:00",
-        "rs_updates": "2026-09-24T10:47:43.698529+00:00"
+        "ls_reports": "2026-09-24T12:47:41.076244+00:00",
+        "rs_committee_press": "2026-09-24T12:47:51.493305+00:00",
+        "rs_press": "2026-09-24T12:47:48.684632+00:00",
+        "rs_reports": "2026-09-24T12:47:45.784315+00:00",
+        "rs_updates": "2026-09-24T12:47:53.141324+00:00"
       }
     },
     "scanned": [
