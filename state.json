@@ -7557,13 +7557,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789963624233",
-    "1789965777529",
-    "1789966980944",
-    "1789967136611",
-    "1789967165317",
-    "1789967194903",
-    "1789967225356",
     "1789967276241",
     "1789967280349",
     "1789967342784",
@@ -13556,10 +13549,17 @@
     "1790249231013",
     "1790255577251",
     "1790260080288",
-    "1790260774154"
+    "1790260774154",
+    "1790253420201",
+    "1790253660786",
+    "1790253675675",
+    "1790261334834",
+    "1790261362293",
+    "1790261542039",
+    "1790262000700"
   ],
   "last_digest_hour": "2026-09-24T20",
-  "last_success": "2026-09-24T14:47:23.229464+00:00",
+  "last_success": "2026-09-24T15:03:06.327038+00:00",
   "national": {
     "alerted": [
       {
@@ -15453,6 +15453,29 @@
           "naruka",
           "parina"
         ]
+      },
+      {
+        "at": "2026-09-24T15:04:59.736902+00:00",
+        "handle": "PIB Ministry of Social Justice & Empowerment",
+        "headline": "NCSC Chairman investigates IIT Bombay student death case",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314585",
+        "words": [
+          "bombay",
+          "caste",
+          "chairman",
+          "conducts",
+          "connection",
+          "death",
+          "empowerment",
+          "iit",
+          "inquiry",
+          "justice",
+          "kishor",
+          "makwana",
+          "ministry",
+          "ncsc"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15769,7 +15792,7 @@
       "CG-OR-E-24092026-276465",
       "CG-OR-E-24092026-276466"
     ],
-    "last_run": "2026-09-24T14:53:50.404530+00:00",
+    "last_run": "2026-09-24T15:04:59.737746+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17211,22 +17234,17 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mens-badminton-team-on-winning-bronze-medal-at-asian-games",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-kaizen-domestic-scheme-i_104715.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/cancellation-of-recovery-certificate-no-7449-of-2023-dated-december-08-2023-issued-to-rashesh-purohit-defaulter-pan-adqpp1270q-in-the-matter-of-tv-vision-limited-under-certificate-no-7449-of-20-_104717.html",
-      "pib:2314581"
+      "pib:2314581",
+      "pib:2314585"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "CERT-In": {
-        "count": 1
-      },
       "DGFT": {
         "count": 14,
         "until": "2026-09-24T16:03:00.922815+00:00"
-      },
-      "NITI Aayog": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -17257,7 +17275,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "India must build clout in electronics, semiconductor value chains: IT Secy",
+      "post": {
+        "created_at": "2026-09-24T14:48:54+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1790261334834",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "India must build clout in electronics, semiconductor value chains: IT Secy",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeU44SXNBbGU0V1JQUGJ6YVNhZXhCZEFGSVJ3N19VZ1Rubk9PQXMyc2F5akNyVWpvTkd2dkpCYXE1MDItLTI4Wk9Dck9QTVRyOUZVazQwaGJXRlBYVVBITzdQNGZabXIxcWNkZUs4eEhYZm9sNWJMbFpvS055b29objhUMkpnbW9qX1JNX2h6YVJ4VVpXR3F1NGMxdTJEbXgzaFMtcWRoSzBvLUcySDBpay1aWlp6aTRhU1BvakpOODEwQ1ZpdkFaYk13blhPRU8wcHYwamxFWdIB3AFBVV95cUxOLUFkM3lSNUZtNzJwYkdPLWhCOEpEUUVNbjd2cm96WWUtY1dNMmNMcWk4VU03TTVBb3U1T041ei1SQzl5eXVKT1ZsQUJ0MVl2bFdiV2kwMUpidVpqZ1RHOWJiMzl1WVg0dlRiMjhGYWpLeFJscGFuLURPYVNKWm1EUlVJNXNFN05LUmE0UXVUQzd3VFlHai1aTFp5bklHWFZuX2Z1OG1GQ01XYk9CQUN6Wk54SG9mUnktRGlNRkNIYU1xeG5KakRxWUFLNXlVTDFMRWtWOVZVNXJON18t?oc=5"
+      },
+      "queued_at": "2026-09-24T15:03:06.289904+00:00",
+      "score": 8.0,
+      "why": "A senior government official's statement on a critical strategic industry for India."
+    },
+    {
+      "headline": "YouTube expands India shopping affiliate program to Amazon, AJIO, Meesho",
+      "post": {
+        "created_at": "2026-09-24T12:41:15+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790253675675",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Deccan Herald",
+        "reposts": 0,
+        "text": "YouTube expands shopping affiliate programme to Amazon, AJIO, Meesho, Tata CLiQ and more in India",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1dlRm1XcUxpWGpoZF9JbDc0RzlUOGFGT3hkWHNLNW1pcko5Tmx6RXplblNCejNqalZlVjlSbTNMVld6Qy1USFJlcC1yWEppVmVVME5PQTVUOENIbVI0YnprUXBQMkpsRWRod2ZGSk9IWDlvSEtaTVd1TVNuWEdZZm4wVTJyMU9tcEZ0WlRXTURRUENYTEl6dFZaOHc5ZUt3bmRtekxmQkJLTGVTcW9URl85d2Ywc3NwMEhmMnl2RER6Z0gtX0VvOHZqTzRmNHN3MUZJdEtHZWppZw?oc=5"
+      },
+      "queued_at": "2026-09-24T15:03:06.289904+00:00",
+      "score": 7.0,
+      "why": "This is a significant expansion of a major platform's e-commerce strategy in India."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18271,12 +18326,12 @@
     "news: big tech platforms": 1790248736938,
     "news: consumer internet india": 1790257344383,
     "news: global ai": 1790259158440,
-    "news: global chips": 1790229087353,
+    "news: global chips": 1790261334834,
     "news: global it services": 1790172561362,
     "news: india ai deeptech": 1790254812004,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790260774154,
-    "news: india semiconductors": 1790257654786,
+    "news: india fintech": 1790261542039,
+    "news: india semiconductors": 1790261334834,
     "news: india tech policy": 1790254080901,
     "news: india telecom": 1790252898684,
     "news: indian it majors": 1790249686477,
@@ -18295,7 +18350,7 @@
     "redseer": 1790238736972,
     "reg cci": 1790035200881,
     "reg cert-in": 1788998400763,
-    "salesforce": 1790182800500,
+    "salesforce": 1790262000700,
     "samsung": 1790200800080,
     "samsung india": 1790167972987,
     "sarvam ai": 1790254919948,
@@ -18318,10 +18373,10 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T14:47:23.500073+00:00",
+    "last_server_run": "2026-09-24T15:03:06.693689+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-24T12:48:21.904229+00:00",
+        "checked": "2026-09-24T15:03:51.722544+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
@@ -18404,7 +18459,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-24T12:48:13.186752+00:00",
+        "checked": "2026-09-24T15:03:46.361239+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
