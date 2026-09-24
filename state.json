@@ -7550,13 +7550,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789965060680",
-    "1789965120289",
-    "1789965300936",
-    "1789965354928",
-    "1789965396814",
-    "1789965475481",
-    "1789965521853",
     "1789965800821",
     "1789965896983",
     "1789887914207",
@@ -13549,10 +13542,17 @@
     "1790255616543",
     "1790256931114",
     "1790257002524",
-    "1790257380263"
+    "1790257380263",
+    "1790179202392",
+    "1790250840111",
+    "1790250999208",
+    "1790252740720",
+    "1790257344383",
+    "1790257654786",
+    "1790258390357"
   ],
   "last_digest_hour": "2026-09-24T19",
-  "last_success": "2026-09-24T13:48:35.822462+00:00",
+  "last_success": "2026-09-24T14:03:31.118961+00:00",
   "national": {
     "alerted": [
       {
@@ -15336,6 +15336,29 @@
           "stays",
           "steel"
         ]
+      },
+      {
+        "at": "2026-09-24T14:10:31.376903+00:00",
+        "handle": "PIB Ministry of Health and Family Welfare",
+        "headline": "FSSAI proposes rules to define 'Paneer' as milk-derived product only",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314542",
+        "words": [
+          "amendment",
+          "derived",
+          "draft",
+          "ensure",
+          "family",
+          "fssai",
+          "health",
+          "milk",
+          "ministry",
+          "only",
+          "paneer",
+          "products",
+          "proposes",
+          "represented"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15652,7 +15675,7 @@
       "CG-OR-E-24092026-276465",
       "CG-OR-E-24092026-276466"
     ],
-    "last_run": "2026-09-24T13:50:07.151478+00:00",
+    "last_run": "2026-09-24T14:10:31.377540+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17076,7 +17099,12 @@
       "pib:2314505",
       "pib:2314501",
       "pib:2314532",
-      "pib:2314530"
+      "pib:2314530",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63660",
+      "pib:2314545",
+      "pib:2314542",
+      "pib:2314535",
+      "pib:2314536"
     ],
     "source_failures": {
       "CBI": {
@@ -17086,6 +17114,9 @@
       "DGFT": {
         "count": 14,
         "until": "2026-09-24T16:03:00.922815+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -17152,6 +17183,60 @@
       "queued_at": "2026-09-24T13:48:35.799495+00:00",
       "score": 8.0,
       "why": "Massive capital commitment and investment in the Indian e-commerce sector by a major watched company."
+    },
+    {
+      "headline": "AI startup Island valued at $6.4 billion in funding",
+      "post": {
+        "created_at": "2026-09-24T11:54:00+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1790250840111",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "AI startup Island valued at $6.4 billion in latest funding round",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUktSNkVvcDBEay1GRnN5YzVVd1RhQTAwM01mdVQySG5SOG1LYnFLcFVNa1FTZkVBakJTTV9IcWtKUWxQWGRSMjlXLUlPSDdtX1h4Q1pjeTZ3ZnZqdlQ4TnBxTGh1VnZzbHoyWmNQWUNYSVU4VWhDWGtYczRaMVNyYy1fbktDT253eExZUlM3enJCRS03Mm14NkxwSVBaczdBZVBMdlJPemxVSDh5Vy1FeHhOOHY5U3J1eGxXcHFmV2lxazctZ1hyZGYyZ2hzWmtoMkttVFJMcW9DbGU2WkVGTVVZNnrSAeQBQVVfeXFMT1JLUjZFb3AwRGstRkZzeWM1VXdUYUEwMDNNZnVUMkhuUjhtS2JxS3BVTWtRU2ZFQWpCU01fSHFrSlFsUFhkUjI5Vy1JT0g3bV9YeENaY3k2d2Z2anZUOE5wcUxodVZ2c2x6MlpjUFlDWElVOFVoQ1hrWHM0WjFTcmMtX25LQ09ud3hMWVJTN3pyQkUtNzJteDZMcElQWnM3QWVQTHZST3psVUg4eVctRXh4Tjh2OVNydXhsV3BxZldpcWs3LWdYcmRmMmdoc1praDJLbVRSTHFvQ2xlNlpFRk1VWTZ6?oc=5"
+      },
+      "queued_at": "2026-09-24T14:03:31.087602+00:00",
+      "score": 7.0,
+      "why": "Significant funding round for an AI startup, indicating investor confidence in the sector."
+    },
+    {
+      "headline": "Semiconductor talent shortage spurs regional push for engineers",
+      "post": {
+        "created_at": "2026-09-24T13:47:34+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1790257654786",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Tribune",
+        "reposts": 0,
+        "text": "Semiconductor Talent shortage spurs regional push to build next generation of engineers",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYThkZmFqcEdBcUk2Rjg5YmJqRVIyRmZSclRmQWZpTGZQdlZGR2dGM3FvdEVlR3gxWG5pTGFkdzdzcE55d25BS1NnbERla2FLdk5kSGpRVXNyX3NTVkVZd2N4Z0FCTmpqaFZOZEJ5bEVBczhhNXZGR0JMLURjZ2ZtczBUVmhLMjRWeExRYnRpQ1A1WVNMcm56X1d3U1NXU2xiUkI1a3REYjh4OWlBYnVVWVlBaWt2bE5NcDF3WDU0NUpJYjdfTTB0YlFsUDFpSGpSRFRQNlJUQng5aGtzV2JaelUxVEdyNmZkN28w0gHrAUFVX3lxTE5hOGRmYWpwR0FxSTZGODliYmpFUjJGZlJyVGZBZmlMZlB2VkZHZ0YzcW90RWVHeDFYbmlMYWR3N3NwTnl3bkFLU2dsRGVrYUt2TmRIalFVc3Jfc1NWRVl3Y3hnQUJOampoVk5kQnlsRUFzOGE1dkZHQkwtRGNnZm1zMFRWaEsyNFZ4TFFidGlDUDVZU0xybnpfV3dTU1dTbGJSQjVrdERiOHg5aUFidVVZWUFpa3ZsTk1wMXdYNTQ1SkliN19NMHRiUWxQMWlIalJEVFA2UlRCeDloa3NXYlp6VTFUR3I2ZmQ3bzA?oc=5"
+      },
+      "queued_at": "2026-09-24T14:03:31.087602+00:00",
+      "score": 7.0,
+      "why": "Addresses a critical talent gap in a key industry with a focus on India's efforts."
+    },
+    {
+      "headline": "Navi's FY26 loss triples to \u20b9466 Cr ahead of IPO",
+      "post": {
+        "created_at": "2026-09-24T13:59:50+00:00",
+        "handle": "News: India fintech",
+        "id": "1790258390357",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Inc42",
+        "reposts": 0,
+        "text": "IPO-Bound Navi\u2019s FY26 Loss More Than Triples To \u20b9466 Cr",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORXlqRk50YktFdlhHQllNTjZ2Zkg5N0pVbEtVNUxqR3cyc3BtSkNJX1pKRlp0UVV1M3NNWEFqbzlJdEV3akFWSzREZXRmMTFOVmVVTUhsbmc2OXU1cnY4ZHYtNmVfV1NlSlFwUTRFMzFYTTBIaEFNN2xZVHBCNWdVZFZ1MTZZVDBUcVF3V0kxUQ?oc=5"
+      },
+      "queued_at": "2026-09-24T14:03:31.087602+00:00",
+      "score": 7.0,
+      "why": "Financial results for an IPO-bound company, indicating potential investor concerns."
     }
   ],
   "page_links": {
@@ -18165,15 +18250,15 @@
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
     "news: big tech platforms": 1790248736938,
-    "news: consumer internet india": 1790257002524,
+    "news: consumer internet india": 1790257344383,
     "news: global ai": 1790249933492,
     "news: global chips": 1790229087353,
     "news: global it services": 1790172561362,
     "news: india ai deeptech": 1790254812004,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790256931114,
-    "news: india semiconductors": 1790257380263,
-    "news: india tech policy": 1790249263885,
+    "news: india fintech": 1790258390357,
+    "news: india semiconductors": 1790257654786,
+    "news: india tech policy": 1790254080901,
     "news: india telecom": 1790252898684,
     "news: indian it majors": 1790249686467,
     "news: indian it midcaps": 1790255924242,
@@ -18214,7 +18299,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T13:48:36.019922+00:00",
+    "last_server_run": "2026-09-24T14:03:31.357688+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T12:48:21.904229+00:00",
