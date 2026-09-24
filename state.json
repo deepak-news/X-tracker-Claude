@@ -7521,7 +7521,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789930020670",
     "1789930680037",
     "1789931833486",
     "1789932700978",
@@ -13520,10 +13519,11 @@
     "1790202369148",
     "1790207963562",
     "1790203800170",
-    "1790209804877"
+    "1790209804877",
+    "1790209831925"
   ],
   "last_digest_hour": "2026-09-24T06",
-  "last_success": "2026-09-24T00:47:04.206200+00:00",
+  "last_success": "2026-09-24T01:02:17.801114+00:00",
   "national": {
     "alerted": [
       {
@@ -15456,7 +15456,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-24T00:51:13.668662+00:00",
+    "last_run": "2026-09-24T01:04:11.732331+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16834,7 +16834,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Apple's MacBook Neo surges in India sales",
+      "post": {
+        "created_at": "2026-09-24T00:30:31+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1790209831925",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Mint",
+        "reposts": 0,
+        "text": "MacBook Neo nearly doubles Apple laptop sales in India\u2014set to cross one million this year",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWNMSkRZUDhKYWphWmVnY1hRYlJwMVJ3TFhQRk4zX3BzSXU2MjNwQVh2ajA1bDFoNWdZZjBvS3gtSXhrYWMwUDJBZldjb0U4Y2tVOFlPdkQ1em9kd19mdHVncG5fTGN2QUhzdm5ZOC1XdEgzVC12MThhTVlHUjc1Nms3WE9oXzg1YlFVWktaWEFZbkhsaG9v0gGcAUFVX3lxTE9naG5QLWE3VDU1VGNiVzI3OFVzc3FRTThud1hwSFUyZHJOUFJtdkp2bnQzT21FMjVhWnV6UlRwZUk4dHlhM3NnX0ZuMUNXeEVVRXBCM2RLXzBMdzRYZXZSQXVVWGF0bGNtenRtYTZBTTIyYURsb0t2b0V5cHY2UUwzbjhtU1JEczdwQklvcml2bkplVzBYVFdjbkMzWA?oc=5"
+      },
+      "queued_at": "2026-09-24T01:02:17.770398+00:00",
+      "score": 7.0,
+      "why": "Hard shipment numbers for a major tech brand in India."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -17843,7 +17862,7 @@
     "microsoft india": 1790163169143,
     "mistral ai": 1789560000798,
     "naukri": 1789127303684,
-    "news: big tech platforms": 1790178240425,
+    "news: big tech platforms": 1790209831925,
     "news: consumer internet india": 1790199752404,
     "news: global ai": 1790202369148,
     "news: global chips": 1790207142235,
@@ -17893,7 +17912,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T00:47:04.432603+00:00",
+    "last_server_run": "2026-09-24T01:02:18.162673+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T00:03:37.519697+00:00",
