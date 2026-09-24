@@ -7522,12 +7522,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789896767152",
-    "1789899911441",
-    "1789903241789",
-    "1789903380494",
-    "1789903380953",
-    "1789905048109",
     "1789920343667",
     "1789921208491",
     "1789921756827",
@@ -13521,10 +13515,16 @@
     "1790215963770",
     "1790217187810",
     "1790217327157",
-    "1790217584889"
+    "1790217584889",
+    "1790128800302",
+    "1790156762540",
+    "1790213727016",
+    "1790214146389",
+    "1790216266132",
+    "1790217120650"
   ],
   "last_digest_hour": "2026-09-24T08",
-  "last_success": "2026-09-24T02:46:42.820939+00:00",
+  "last_success": "2026-09-24T03:02:40.343128+00:00",
   "national": {
     "alerted": [
       {
@@ -15457,7 +15457,7 @@
       "CG-DL-E-23092026-276444",
       "CG-DL-E-23092026-276448"
     ],
-    "last_run": "2026-09-24T02:52:14.312706+00:00",
+    "last_run": "2026-09-24T03:03:48.882337+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -16806,9 +16806,6 @@
         "count": 12,
         "until": "2026-09-24T03:48:43.083613+00:00"
       },
-      "IRDAI": {
-        "count": 1
-      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -17852,7 +17849,7 @@
     "news: global ai": 1790202369148,
     "news: global chips": 1790207142235,
     "news: global it services": 1790171374941,
-    "news: india ai deeptech": 1790216233132,
+    "news: india ai deeptech": 1790217120650,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790217327157,
     "news: india semiconductors": 1790217584889,
@@ -17897,7 +17894,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-24T02:46:43.090955+00:00",
+    "last_server_run": "2026-09-24T03:02:40.583274+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-24T02:03:54.810230+00:00",
