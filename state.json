@@ -1,43 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-21T01:32:41.606256+00:00",
-      "handle": "News: India telecom",
-      "headline": "Government launches indigenous Cell Broadcast System for disaster alerts",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0pEdGhJUXVBcEcwMHJ4TWdPUFdyU0F2X3lZeUxkWkE3elQ0aDZJZzNjZkxZYTZoRndIYzJUeUYyQ0YxNnpTS3oxZk11RlVwMVQzMlRvSnpBZXpJdG81Nl94OTV6MHhVR2ZMWUdQd2VjM2NocWFhZ1B0bkVxcDhLMnRkYTdoZ2FrbHVUMEZCXzl0S0Q0TUh2UXNwWm4yNjdzU2VJT2daRWlKMk9mME1TSFF4RjFFQQ?oc=5",
-      "words": [
-        "alerts",
-        "broadcast",
-        "cell",
-        "disaster",
-        "government",
-        "indigenous",
-        "instant",
-        "launches",
-        "system"
-      ]
-    },
-    {
-      "at": "2026-09-21T01:32:41.606256+00:00",
-      "handle": "News: Global AI",
-      "headline": "Analog Devices commits $1.35 billion to edge AI chips",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05aVVqdV9FOTdadGx6TFpNa1p6WTJmOG9RSGxMOHFVRzc1dGFCTXh3TEx4enIyRUx2NW04cVdBQ2Q3YUpiS0xObGZubGhKOUpuLUhGQ1BFU2tNN0NWa2p5eHhfZ0J0SHlBWXB4Tm16c2Y0RFNHeTB5SGhyMVdiemc?oc=5",
-      "words": [
-        "adi",
-        "analog",
-        "bets",
-        "billion",
-        "chips",
-        "devices",
-        "let",
-        "machines",
-        "themselves",
-        "think"
-      ]
-    },
-    {
       "at": "2026-09-21T02:32:20.086133+00:00",
       "handle": "News: India semiconductors",
       "headline": "PM Modi inaugurates Micron's Sanand semiconductor plant",
@@ -7615,18 +7578,51 @@
         "upi",
         "where"
       ]
+    },
+    {
+      "at": "2026-09-25T14:34:53.872071+00:00",
+      "handle": "News: India fintech",
+      "headline": "SBI waives ATM charges during bank strike while digital services continue",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXFEMjJjQWN2UEstTFoxS3FTalJZQkMwVVF0SFdnZVI2NXFqUzBMb1JOV2w1MWFaS0J2MnJTUEY2NVpEc216OUxRZ0NVWjdkVDJYQjA3cnBFcHlZcHJPR1BOSmQtOUUweTR0VlNta1Q4OVI1UWtHdVB5TGZkbDgtbklONkZJR0FyWE50N3JwTHh2RUNOS20wOU1TUHpQS1FLQVQzU2J5NC1Mb1J0UW1xcmRkRGdyWURYcHpWR25Ic01GY1NjdTJrV0F2X3BwU0hjbXJ1b0VYb0tybS1I?oc=5",
+      "words": [
+        "announces",
+        "atm",
+        "bank",
+        "charge",
+        "continue",
+        "during",
+        "neft",
+        "rtgs",
+        "sbi",
+        "services",
+        "strike",
+        "upi",
+        "waiver"
+      ]
+    },
+    {
+      "at": "2026-09-25T14:34:53.872071+00:00",
+      "handle": "News: India fintech",
+      "headline": "CAIT distances itself from October 2 No UPI Day protests",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzMyQVNhSHFTckI5UnNORzB2aWxLR2ppSWE4cFo0VlZ0V244eWU3Y2t2NmRPM2lWNjYxSEpUM0hUeERGTExVSlJiYVM4MDhJUjI0d3BfYUZ5akFxSmwzNFl0dlBGSklmM0JudXlIQWtPVmJUNlpDdjVDcnJackNKNkplU19xWTVQcVlmWm1RbnhSWWlScTNERHFrVUhIcUotblc2TUROZVUxWGdHR0RWM2U2TmvSAbwBQVVfeXFMT2JlbEN1Z0hYcGRYQ1BvQ25yWjNxOHRmTlJpMmxTSzdBOENfcUZLNzZoeklYN2ZEQlkwNVBpRXdmU1kzSDJqbHZxLXQyeHZDeXlVcVJ0eDhSYkI1bWViUjBqS2tJRDVDQmF4UF9HRkh0cC1mOTVRU1BIV3pOTTAzN3AxNy15aHdqc1FUX0RMV3BZcEFxLXNidktNSldzalplUEZVMXlKdHc2R2NhX01ZS2E5cy1jZkFWbkhFeGI?oc=5",
+      "words": [
+        "body",
+        "cait",
+        "day",
+        "distances",
+        "itself",
+        "october",
+        "protests",
+        "traders",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789968240085",
-    "1789974000329",
-    "1789974067619",
-    "1789974879575",
-    "1789974900947",
-    "1789975481463",
-    "1789976164959",
     "1789978800509",
     "1789979064351",
     "1789979241557",
@@ -13619,10 +13615,17 @@
     "1790340243772",
     "1790342040048",
     "1790344794804",
-    "1790345327666"
+    "1790345327666",
+    "1790303561211",
+    "1790307148609",
+    "1790323425875",
+    "1790333580513",
+    "1790334698763",
+    "1790343814541",
+    "1790345286756"
   ],
-  "last_digest_hour": "2026-09-25T19",
-  "last_success": "2026-09-25T14:17:02.420896+00:00",
+  "last_digest_hour": "2026-09-25T20",
+  "last_success": "2026-09-25T14:34:53.873116+00:00",
   "national": {
     "alerted": [
       {
@@ -16085,7 +16088,7 @@
       "CG-DL-E-25092026-276500",
       "CG-DL-E-25092026-276492"
     ],
-    "last_run": "2026-09-25T14:19:52.047526+00:00",
+    "last_run": "2026-09-25T14:42:36.009259+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17655,12 +17658,17 @@
       "pib:2315073",
       "page:https://www.mha.gov.in/sites/default/files/RunForUnity_25092026.pdf",
       "pib:2315083",
-      "pib:2315079"
+      "pib:2315079",
+      "pib:2315091",
+      "pib:2315096"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "CERT-In": {
+        "count": 1
       },
       "DGFT": {
         "count": 18,
@@ -17695,44 +17703,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "SBI waives ATM charges during bank strike while digital services continue",
-      "post": {
-        "created_at": "2026-09-25T13:53:02+00:00",
-        "handle": "News: India fintech",
-        "id": "1790344382773",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Today",
-        "reposts": 0,
-        "text": "SBI announces ATM charge waiver during bank strike; UPI, NEFT, RTGS services to continue",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXFEMjJjQWN2UEstTFoxS3FTalJZQkMwVVF0SFdnZVI2NXFqUzBMb1JOV2w1MWFaS0J2MnJTUEY2NVpEc216OUxRZ0NVWjdkVDJYQjA3cnBFcHlZcHJPR1BOSmQtOUUweTR0VlNta1Q4OVI1UWtHdVB5TGZkbDgtbklONkZJR0FyWE50N3JwTHh2RUNOS20wOU1TUHpQS1FLQVQzU2J5NC1Mb1J0UW1xcmRkRGdyWURYcHpWR25Ic01GY1NjdTJrV0F2X3BwU0hjbXJ1b0VYb0tybS1I?oc=5"
-      },
-      "queued_at": "2026-09-25T14:02:19.455293+00:00",
-      "score": 7.0,
-      "why": "It is a significant public banking service advisory from India's largest lender affecting payment systems."
-    },
-    {
-      "headline": "CAIT distances itself from October 2 No UPI Day protests",
-      "post": {
-        "created_at": "2026-09-25T13:59:54+00:00",
-        "handle": "News: India fintech",
-        "id": "1790344794804",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV Profit",
-        "reposts": 0,
-        "text": "Traders' Body CAIT Distances Itself from October 2 'No UPI Day' Protests",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzMyQVNhSHFTckI5UnNORzB2aWxLR2ppSWE4cFo0VlZ0V244eWU3Y2t2NmRPM2lWNjYxSEpUM0hUeERGTExVSlJiYVM4MDhJUjI0d3BfYUZ5akFxSmwzNFl0dlBGSklmM0JudXlIQWtPVmJUNlpDdjVDcnJackNKNkplU19xWTVQcVlmWm1RbnhSWWlScTNERHFrVUhIcUotblc2TUROZVUxWGdHR0RWM2U2TmvSAbwBQVVfeXFMT2JlbEN1Z0hYcGRYQ1BvQ25yWjNxOHRmTlJpMmxTSzdBOENfcUZLNzZoeklYN2ZEQlkwNVBpRXdmU1kzSDJqbHZxLXQyeHZDeXlVcVJ0eDhSYkI1bWViUjBqS2tJRDVDQmF4UF9HRkh0cC1mOTVRU1BIV3pOTTAzN3AxNy15aHdqc1FUX0RMV3BZcEFxLXNidktNSldzalplUEZVMXlKdHc2R2NhX01ZS2E5cy1jZkFWbkhFeGI?oc=5"
-      },
-      "queued_at": "2026-09-25T14:17:02.377856+00:00",
-      "score": 7.0,
-      "why": "Develops the ongoing merchant protest story regarding UPI MDR charges with a major trade body shift."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18746,19 +18717,19 @@
     "naukri": 1790234460996,
     "news: big tech platforms": 1790345327666,
     "news: consumer internet india": 1790339455700,
-    "news: global ai": 1790337814825,
+    "news: global ai": 1790343814541,
     "news: global chips": 1790316240878,
     "news: global it services": 1790283600286,
     "news: india ai deeptech": 1790343152215,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790344794804,
+    "news: india fintech": 1790345286756,
     "news: india semiconductors": 1790343984634,
     "news: india tech policy": 1790335140808,
     "news: india telecom": 1790339017766,
     "news: indian it majors": 1790332380866,
     "news: indian it midcaps": 1790342483036,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790325780364,
+    "news: tech leaders": 1790333580513,
     "nvidia": 1790258450056,
     "nvidia blog": 1790258450056,
     "openai": 1790251200769,
@@ -18794,7 +18765,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T14:17:02.771413+00:00",
+    "last_server_run": "2026-09-25T14:34:54.129109+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T12:48:28.155954+00:00",
@@ -18934,11 +18905,11 @@
       },
       "last": {
         "calendar": "2026-09-25T11:18:04.209080+00:00",
-        "ls_reports": "2026-09-25T12:33:16.014641+00:00",
-        "rs_committee_press": "2026-09-25T12:33:25.188644+00:00",
-        "rs_press": "2026-09-25T12:33:22.418760+00:00",
-        "rs_reports": "2026-09-25T12:33:19.620897+00:00",
-        "rs_updates": "2026-09-25T12:33:26.589088+00:00"
+        "ls_reports": "2026-09-25T14:35:40.593780+00:00",
+        "rs_committee_press": "2026-09-25T14:35:51.252403+00:00",
+        "rs_press": "2026-09-25T14:35:47.949922+00:00",
+        "rs_reports": "2026-09-25T14:35:44.878271+00:00",
+        "rs_updates": "2026-09-25T14:35:52.853650+00:00"
       }
     },
     "scanned": [
