@@ -7584,20 +7584,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789975319837",
-    "1789975460862",
-    "1789975467094",
-    "1789975721085",
-    "1789975731028",
-    "1789896398806",
-    "1789896486711",
-    "1789930218438",
-    "1789952430543",
-    "1789961220296",
-    "1789961379654",
-    "1789969608573",
-    "1789970460446",
-    "1789970535882",
     "1789971211182",
     "1789971222764",
     "1789971671058",
@@ -13583,10 +13569,24 @@
     "1790315700156",
     "1790316482671",
     "1790317322074",
-    "1790318797256"
+    "1790318797256",
+    "1790252445922",
+    "1790254319690",
+    "1790310381081",
+    "1790315280228",
+    "1790317014624",
+    "1790317642499",
+    "1790317916244",
+    "1790317956747",
+    "1790318459834",
+    "1790318493207",
+    "1790319150944",
+    "1790319196831",
+    "1790319206251",
+    "1790319235962"
   ],
   "last_digest_hour": "2026-09-25T12",
-  "last_success": "2026-09-25T06:48:38.957928+00:00",
+  "last_success": "2026-09-25T07:02:42.957566+00:00",
   "national": {
     "alerted": [
       {
@@ -15905,7 +15905,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T06:52:06.287434+00:00",
+    "last_run": "2026-09-25T07:06:50.226000+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17436,7 +17436,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Government and banks to decide post-MDR UPI subsidy amount",
+      "post": {
+        "created_at": "2026-09-25T06:52:30+00:00",
+        "handle": "News: India fintech",
+        "id": "1790319150944",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Hindu",
+        "reposts": 0,
+        "text": "Government, banks to decide subsidy amount for UPI that will continue after MDR comes in",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVzNxbmdnTFhPNW81czlEdk5RZUk3ZE9JeWNwcXRHcU5DM1g4bTJBNC1rOGkwMWdZRTJRQXd0Mm9nSmdpQmlxY2ViOTFHTjVfMWdtZHAzdUZzSVFzc0tBRXptNzhGMFlXZmc2RkJHY2tzSklyZDFsbEUtUHpleVVmejc5TTFKV2U5dkVXTDFBTWNWcGxuZ0JPdzMtSFJOMDltU0RYaF92QVNhMUJPWHpZSEl4MXZVNkx5X1lYQkZtLWFKOGM1a0oybzlVelRNTlJCM2hiYVFJWVFjT3Zsdkc5NnVQYTRySmFv0gHvAUFVX3lxTFBZR1lscXpkU0tvSU9oYk1ERUJiUDVFd1hxV1JJYVpNa1dfQ3ZsR1A2TWtHVnRlUElaX0tEVDByQlZ3a2dLTUVYamp4YUFvLTQ1TjNKU3BoTm9YcG1EbndoZXRYYkRObDBHYWVCbExPTjVmNWRUcmRxM1NLZGNNMW5GNTdZc3VSc3VRZ1E5TGt5TGllakhOSGZISkRtYzRad0dKRGRFQ3JiTnlQOEpRUHdlVG5GZ2NvNnZJcjdaZmlsWThrWVBPN0I3YlVDVlJrbTgzVTJYUTlsRWRRU0dfdVNwcG5yX2tkaG1CUDRoMzRR?oc=5"
+      },
+      "queued_at": "2026-09-25T07:02:42.923502+00:00",
+      "score": 7.0,
+      "why": "Important financial policy development regarding ongoing UPI merchant discount rate changes."
+    },
+    {
+      "headline": "Elon Musk claims SpaceX AI will beat Anthropic and OpenAI",
+      "post": {
+        "created_at": "2026-09-25T06:53:55+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1790319235962",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "India Today",
+        "reposts": 0,
+        "text": "Elon Musk challenges Anthropic and OpenAI, says SpaceX will beat their AI in 6 months",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcHE4YnhfQ3BzR2g1MWRnYTRUZmpzdXN6dnBzYllJb3pKcEpPVGZEa1pzSkZLdUl1UmVXWUgyTVN1T2JJb2dNeWdOMmVpTnFoV1cxSWR0eW5jTDZCemdBdWx6WkYtcF8tdGk1dmVsUVA3bDV5Q0QyVlV2VF9pSWRWaGVENnhTVmRrbVVzWF9sNUloZklsRUdTdDRqd2pDUDJLUUowZzN1VzVoMXVfbFdOZ2l1RERRVEphQlRNcjZmQ3FGNTB1NWM3SVF1TktuUUhIMUstTG05ck5FaVZSU3h4bXROc2JCUdIB6wFBVV95cUxQWHJYOXB5RmF2UlRHUm5udWNpLXZTSlRUMWRaX1J3VTZ2RXlNWWRnZzhZSGlLU2RybFNlMFJ5eEdpRkxDWFlaX1lhWHh6c1JaWFFzclJ6V3hCV1FNRF9mcWJXWi1tSk9HSlFmZ29xWHptMEoyMURVRFQ3OGQzbXRiaFZTdEREVjhpZFVGczlZa0VBN2xDVUEtM2tUMTN3T0VDTWZ0MXdib1BPeTM3NEo5aHk4dEZlSGZScEU0SnB4SUZYWjhsTmpfV2gyd1A5dWdrSnVrOVNDQmhsM0tEbDR0VkNLcGRvT2w4TTJ3?oc=5"
+      },
+      "queued_at": "2026-09-25T07:02:42.923502+00:00",
+      "score": 7.0,
+      "why": "Major competitive statement by a leading tech founder on AI development timelines."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18449,19 +18486,19 @@
     "microsoft india": 1790302420156,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790315700156,
-    "news: consumer internet india": 1790315805507,
+    "news: big tech platforms": 1790319235962,
+    "news: consumer internet india": 1790318459834,
     "news: global ai": 1790316240878,
     "news: global chips": 1790316240878,
     "news: global it services": 1790283600286,
     "news: india ai deeptech": 1790314547654,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790316482671,
-    "news: india semiconductors": 1790315487889,
+    "news: india fintech": 1790319206251,
+    "news: india semiconductors": 1790317956747,
     "news: india tech policy": 1790317322074,
-    "news: india telecom": 1790316300744,
-    "news: indian it majors": 1790312795814,
-    "news: indian it midcaps": 1790312795814,
+    "news: india telecom": 1790319196831,
+    "news: indian it majors": 1790318493207,
+    "news: indian it midcaps": 1790315280228,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790310120923,
     "nvidia": 1790258450056,
@@ -18499,7 +18536,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T06:48:39.291392+00:00",
+    "last_server_run": "2026-09-25T07:02:43.221814+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T06:06:08.221035+00:00",
