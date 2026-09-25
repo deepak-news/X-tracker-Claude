@@ -7626,12 +7626,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789945105863",
-    "1789962640855",
-    "1789973640248",
-    "1789977120578",
-    "1789977720865",
-    "1789977803217",
     "1789979434686",
     "1789979864391",
     "1789980178803",
@@ -13625,10 +13619,16 @@
     "1790355000827",
     "1790356347165",
     "1790357357362",
-    "1790352234410"
+    "1790352234410",
+    "1790315700173",
+    "1790332200383",
+    "1790332380344",
+    "1790337096352",
+    "1790348760189",
+    "1790361540470"
   ],
   "last_digest_hour": "2026-09-26T00",
-  "last_success": "2026-09-25T18:46:46.138048+00:00",
+  "last_success": "2026-09-25T19:02:59.080866+00:00",
   "national": {
     "alerted": [
       {
@@ -16131,7 +16131,7 @@
       "CG-DL-E-25092026-276517",
       "CG-WB-E-25092026-276516"
     ],
-    "last_run": "2026-09-25T18:48:56.262244+00:00",
+    "last_run": "2026-09-25T19:06:15.091700+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17742,9 +17742,6 @@
         "count": 19,
         "until": "2026-09-25T22:19:16.488767+00:00"
       },
-      "IRDAI": {
-        "count": 1
-      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -17774,7 +17771,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "75% traders may avoid UPI levy; No UPI Day on Oct 2",
+      "post": {
+        "created_at": "2026-09-25T15:06:00+00:00",
+        "handle": "News: India fintech",
+        "id": "1790348760189",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "75% traders may avoid UPI levy; \u2018No UPI Day\u2019 on Oct 2; banks to stay open on Sunday & more",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSUlPSTl0NV9UaXJrNENsMlNhX2x1aXBNWW5vS0JHdTAwYWVQVS01YkV0SjkteGVqdXppU2ZLYURBT3NmTUJNMnZnaHBoUkNLeWxtS1JLMTE4dlRoN0JuelVZd2RaWldibWNNYmh1YWZIV2FwOC1vWkFYdktQTjRlSkJkRVNEdVU0R19sZDgwck51d3BiUTkzaExIdzZTb1pvOEJ1d0FuTm5ETl9vUF9lQlN1OGVRWDduRlpnWnJqSTA4dS1BbTllZFZ1by1aY2Q4T2FRRTd0Tk1wNXh3c2NIVnZ4aUvSAeoBQVVfeXFMTmNlMEJqU2pkT3R2Z1pRSm9wVVpNYUR5aWFEWDg3czdZYWRkM0o2R1pzM2VBa3Jta1JwdmxNN3pwN3lEVFM2Q25OUEtfS0Y0R3VYTUR2N19GWDlmaTR2b1JMWjR5amZualRWcWRDSEVvOGNHR0tESFFFZUJOS0xTVU9VaVVCNU9xLW10TWpPNm8tVE1VZUg4a3d5RHhuWV9iOUxLYktUMXhuYnRGSHk2TGxTMm5kQ1NVcjRKdHlyb3VSSnlVUlpaaWZJaTZjd0hORG51STB3QmU4eEl1c2hJQjE5NzdaMi1OSXpB?oc=5"
+      },
+      "queued_at": "2026-09-25T19:02:59.034146+00:00",
+      "score": 8.0,
+      "why": "Significant update on trade association protests and merchant sentiment regarding UPI MDR charges."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18793,7 +18809,7 @@
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790350140564,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790356347165,
+    "news: india fintech": 1790361540470,
     "news: india semiconductors": 1790344509384,
     "news: india tech policy": 1790343509379,
     "news: india telecom": 1790350302033,
@@ -18837,17 +18853,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T18:46:46.504756+00:00",
+    "last_server_run": "2026-09-25T19:02:59.441078+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-25T16:49:26.115924+00:00",
+        "checked": "2026-09-25T19:04:54.458211+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-25T16:49:18.478990+00:00",
+        "checked": "2026-09-25T19:04:46.918661+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -18923,7 +18939,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-25T16:49:22.372814+00:00",
+        "checked": "2026-09-25T19:04:50.614976+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -18977,11 +18993,11 @@
       },
       "last": {
         "calendar": "2026-09-25T17:32:55.416363+00:00",
-        "ls_reports": "2026-09-25T16:49:02.511807+00:00",
-        "rs_committee_press": "2026-09-25T16:49:12.617055+00:00",
-        "rs_press": "2026-09-25T16:49:09.393321+00:00",
-        "rs_reports": "2026-09-25T16:49:06.926107+00:00",
-        "rs_updates": "2026-09-25T16:49:14.599056+00:00"
+        "ls_reports": "2026-09-25T19:04:31.113926+00:00",
+        "rs_committee_press": "2026-09-25T19:04:40.829108+00:00",
+        "rs_press": "2026-09-25T19:04:37.746219+00:00",
+        "rs_reports": "2026-09-25T19:04:35.353243+00:00",
+        "rs_updates": "2026-09-25T19:04:42.691333+00:00"
       }
     },
     "scanned": [
