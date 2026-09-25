@@ -7589,11 +7589,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789975949479",
-    "1789976049529",
-    "1789976097289",
-    "1789976100180",
-    "1789976104453",
     "1789976178871",
     "1789976211893",
     "1789976295904",
@@ -13588,10 +13583,15 @@
     "1790305200754",
     "1790319480479",
     "1790321065744",
-    "1790321866975"
+    "1790321866975",
+    "1790245980262",
+    "1790266140397",
+    "1790316103984",
+    "1790317694951",
+    "1790321781759"
   ],
   "last_digest_hour": "2026-09-25T13",
-  "last_success": "2026-09-25T07:46:42.446985+00:00",
+  "last_success": "2026-09-25T08:02:06.856109+00:00",
   "national": {
     "alerted": [
       {
@@ -15910,7 +15910,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T07:48:37.182644+00:00",
+    "last_run": "2026-09-25T08:06:30.314807+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17400,7 +17400,8 @@
       "pib:2314723",
       "pib:2314746",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-role-of-make-in-india-in-driving-national-growth-and-prosperity",
-      "pib:2314750"
+      "pib:2314750",
+      "pib:2314786"
     ],
     "source_failures": {
       "CBI": {
@@ -17458,6 +17459,24 @@
       "queued_at": "2026-09-25T07:46:42.405171+00:00",
       "score": 8.0,
       "why": "Major tech collaboration involving AI chips tested in space by a watched company."
+    },
+    {
+      "headline": "India focuses on mature chip nodes over 2nm due to costs",
+      "post": {
+        "created_at": "2026-09-25T06:28:14+00:00",
+        "handle": "News: India tech policy",
+        "id": "1790317694951",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Hindustan Times",
+        "reposts": 0,
+        "text": "India opts for mature chips over 2nm nodes due to high costs: Official | Business News",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONXFUMHkxY25CRFJ5MGw0VnZPQUdXeHBtazBINjNDN3lTTS14TUhFVWw2ME5RNnlpU0JoVzQ0WEhURnVUQW04Y0dhUGFyT2F1TGxUTzEtb3ZJdklKZXpQdENKRGhXb0QtYmExTGlpZ01HQ29uN2dDUldnYjczUUMxN2ptNVh5TVlib21hbGJDWTBQS2pvX2lvak5HSWJJMHhyV25sYUtVTGdVVl9saGJRMFBoY0JieTdRU3NtUENWYnpaNkRSY3pMdTR30gHPAUFVX3lxTE9tWVpFSVhvcUtOOVdrLUxvSDNsUk8xdF81UVJpZzhyLXFjbWxNX2dYUWV5eXl0WjRZa3lIcC0wLUNRcHNpY1l6bE5mRFNueEQ3VGhrYUZxVEl5cDFHbmlpSUdpVW1VUDZNNzJCNlFQbGJ0S0hFSWt2N0kzYV9MV01Ob2tianpGNTYtcGZLeXRlZ2Y5YUpOODNKMDdIRUdrdE5WNmZLaURaVEhiTGFGbzNuZG1aMzZUMjNvNGxYYmw3RGJWRy1nNy1MeTR6UUVwMA?oc=5"
+      },
+      "queued_at": "2026-09-25T08:02:06.814276+00:00",
+      "score": 8.0,
+      "why": "A senior official's statement on India's semiconductor strategy is a key policy update."
     }
   ],
   "page_links": {
@@ -18522,7 +18541,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T07:46:42.786180+00:00",
+    "last_server_run": "2026-09-25T08:02:07.215989+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T06:06:08.221035+00:00",
@@ -19094,7 +19113,8 @@
       "gazette:CG-DL-E-24092026-276467|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-24092026-276478|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-24092026-276475|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-24092026-276485|GAZETTE_MAIL_TO"
+      "gazette:CG-DL-E-24092026-276485|GAZETTE_MAIL_TO",
+      "meeting:LS|22527"
     ]
   }
 }
