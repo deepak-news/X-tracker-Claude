@@ -7623,8 +7623,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789976198523",
-    "1789977166735",
     "1789977213357",
     "1789977219148",
     "1789977409290",
@@ -13622,10 +13620,12 @@
     "1790344509384",
     "1790345327349",
     "1790345477183",
-    "1790345929931"
+    "1790345929931",
+    "1790335387070",
+    "1790362800983"
   ],
   "last_digest_hour": "2026-09-25T21",
-  "last_success": "2026-09-25T16:03:06.086303+00:00",
+  "last_success": "2026-09-25T16:17:09.255796+00:00",
   "national": {
     "alerted": [
       {
@@ -16088,7 +16088,7 @@
       "CG-DL-E-25092026-276500",
       "CG-DL-E-25092026-276492"
     ],
-    "last_run": "2026-09-25T16:11:47.416473+00:00",
+    "last_run": "2026-09-25T16:23:37.912125+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17674,12 +17674,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "CERT-In": {
-        "count": 1
-      },
       "DGFT": {
-        "count": 18,
-        "until": "2026-09-25T16:17:53.668115+00:00"
+        "count": 19,
+        "until": "2026-09-25T22:19:16.488767+00:00"
       },
       "Gazette of India (Extraordinary)": {
         "count": 3,
@@ -18743,7 +18740,7 @@
     "news: tech leaders": 1790333580513,
     "nvidia": 1790258450056,
     "nvidia blog": 1790258450056,
-    "openai": 1790251200769,
+    "openai": 1790362800983,
     "oracle": 1790182896113,
     "phonepe": 1790243188249,
     "pib communications": 2314867,
@@ -18777,7 +18774,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T16:03:06.378536+00:00",
+    "last_server_run": "2026-09-25T16:17:09.612597+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T14:48:44.465535+00:00",
