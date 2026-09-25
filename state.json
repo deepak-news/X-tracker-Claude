@@ -7623,8 +7623,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789983132031",
-    "1789983263602",
     "1789983296811",
     "1789983310419",
     "1789983382949",
@@ -13622,10 +13620,12 @@
     "1790350140564",
     "1790340180042",
     "1790347309697",
-    "1790348230664"
+    "1790348230664",
+    "1790327049314",
+    "1790350947165"
   ],
-  "last_digest_hour": "2026-09-25T22",
-  "last_success": "2026-09-25T17:17:11.614873+00:00",
+  "last_digest_hour": "2026-09-25T23",
+  "last_success": "2026-09-25T17:32:11.192046+00:00",
   "national": {
     "alerted": [
       {
@@ -16090,9 +16090,13 @@
       "CG-DL-E-25092026-276505",
       "CG-DL-E-25092026-276501",
       "CG-DL-E-25092026-276503",
-      "CG-DL-E-25092026-276504"
+      "CG-DL-E-25092026-276504",
+      "CG-DL-E-25092026-276502",
+      "CG-DL-E-25092026-276506",
+      "CG-MH-E-25092026-276507",
+      "CG-WB-E-25092026-276512"
     ],
-    "last_run": "2026-09-25T17:19:06.840004+00:00",
+    "last_run": "2026-09-25T17:37:18.475314+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17676,7 +17680,11 @@
       "gazette:CG-DL-E-25092026-276505",
       "gazette:CG-DL-E-25092026-276501",
       "gazette:CG-DL-E-25092026-276503",
-      "gazette:CG-DL-E-25092026-276504"
+      "gazette:CG-DL-E-25092026-276504",
+      "gazette:CG-DL-E-25092026-276502",
+      "gazette:CG-WB-E-25092026-276512",
+      "gazette:CG-DL-E-25092026-276506",
+      "gazette:CG-MH-E-25092026-276507"
     ],
     "source_failures": {
       "CBI": {
@@ -18735,7 +18743,7 @@
     "news: global it services": 1790283600286,
     "news: india ai deeptech": 1790350140564,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790349171394,
+    "news: india fintech": 1790350947165,
     "news: india semiconductors": 1790344509384,
     "news: india tech policy": 1790343509379,
     "news: india telecom": 1790350302033,
@@ -18779,7 +18787,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T17:17:11.884374+00:00",
+    "last_server_run": "2026-09-25T17:32:11.532042+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T16:49:26.115924+00:00",
@@ -18908,7 +18916,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-09-25T11:18:01.450290+00:00",
+        "at": "2026-09-25T17:32:52.579838+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -18918,7 +18926,7 @@
         }
       },
       "last": {
-        "calendar": "2026-09-25T11:18:04.209080+00:00",
+        "calendar": "2026-09-25T17:32:55.416363+00:00",
         "ls_reports": "2026-09-25T16:49:02.511807+00:00",
         "rs_committee_press": "2026-09-25T16:49:12.617055+00:00",
         "rs_press": "2026-09-25T16:49:09.393321+00:00",
@@ -19140,9 +19148,11 @@
       "CG-DL-E-25092026-276499",
       "CG-DL-E-25092026-276500",
       "CG-DL-E-25092026-276501",
+      "CG-DL-E-25092026-276502",
       "CG-DL-E-25092026-276503",
       "CG-DL-E-25092026-276504",
       "CG-DL-E-25092026-276505",
+      "CG-DL-E-25092026-276506",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
@@ -19167,6 +19177,7 @@
       "CG-MH-E-23092026-276452",
       "CG-MH-E-24092026-276336",
       "CG-MH-E-24092026-276477",
+      "CG-MH-E-25092026-276507",
       "CG-MP-E-21092026-276331",
       "CG-MP-E-21092026-276365",
       "CG-MP-E-21092026-276366",
@@ -19205,6 +19216,7 @@
       "CG-WB-E-21092026-276362",
       "CG-WB-E-21092026-276363",
       "CG-WB-E-22092026-276380",
+      "CG-WB-E-25092026-276512",
       "SG-DL-E-15092026-276193",
       "SG-DL-E-16092026-276235",
       "SG-DL-E-16092026-276244",
@@ -19375,7 +19387,9 @@
       "gazette:CG-DL-E-25092026-276498|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-25092026-276497|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-24092026-276485|MHA_FINANCE_MAIL_TO",
-      "gazette:CG-DL-E-24092026-276478|MHA_FINANCE_MAIL_TO"
+      "gazette:CG-DL-E-24092026-276478|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-25092026-276502|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-25092026-276502|MHA_FINANCE_MAIL_TO"
     ]
   }
 }
