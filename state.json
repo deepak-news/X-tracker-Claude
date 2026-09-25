@@ -7589,14 +7589,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789976178871",
-    "1789976211893",
-    "1789976295904",
-    "1789976359007",
-    "1789976392075",
-    "1789976395847",
-    "1789976400693",
-    "1789976467302",
     "1789976722644",
     "1789996344894",
     "2312900",
@@ -13588,10 +13580,18 @@
     "1790266140397",
     "1790316103984",
     "1790317694951",
-    "1790321781759"
+    "1790321781759",
+    "1790316103060",
+    "1790317239441",
+    "1790319235498",
+    "1790320020408",
+    "1790321864593",
+    "1790322752257",
+    "1790323103638",
+    "1790323886232"
   ],
   "last_digest_hour": "2026-09-25T13",
-  "last_success": "2026-09-25T08:02:06.856109+00:00",
+  "last_success": "2026-09-25T08:17:22.546611+00:00",
   "national": {
     "alerted": [
       {
@@ -15910,7 +15910,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T08:06:30.314807+00:00",
+    "last_run": "2026-09-25T08:19:32.598554+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17401,7 +17401,8 @@
       "pib:2314746",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-role-of-make-in-india-in-driving-national-growth-and-prosperity",
       "pib:2314750",
-      "pib:2314786"
+      "pib:2314786",
+      "pib:2314791"
     ],
     "source_failures": {
       "CBI": {
@@ -17477,6 +17478,24 @@
       "queued_at": "2026-09-25T08:02:06.814276+00:00",
       "score": 8.0,
       "why": "A senior official's statement on India's semiconductor strategy is a key policy update."
+    },
+    {
+      "headline": "MeitY Secretary S. Krishnan notes strong semiconductor investment commitments",
+      "post": {
+        "created_at": "2026-09-25T07:58:23+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1790323103638",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Today",
+        "reposts": 0,
+        "text": "\u201cFOMO Has Turned Into Commitments\": S. Krishnan On India\u2019s Semiconductor Investment Push At SEMICON",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc3hEUFFia2R6ZmNxeEZoNVBVR25HQ0ltSFIwU05YT3VlVkNibkVzc2ZyalRmZ0d6OFhmSTVEZ1c4RGpjbWNRSXJzakh4RHJmUFJIdVIyTlkzU1puYWFfNkNrVkFuVndnNmhrUVJ1YUFsalRCa1pmQTVCMWJPUlk0Njdwdm40RU5fNXUzZ0FfU290RnFtV3ZmUVNsd21Famt4UXpoX09CVWZXWU9ib0tpVTFyZEd4NG5JQzFER1JWaXc1QWp6cDEwU0xtV1AzanJnUVFEclFtbWsyeDdZZUV1czVmQk0xUzI5bHZnM1hEMHU?oc=5"
+      },
+      "queued_at": "2026-09-25T08:17:22.501596+00:00",
+      "score": 7.0,
+      "why": "Senior government official's statement on industry investment policy and direction is newsworthy."
     }
   ],
   "page_links": {
@@ -18492,17 +18511,17 @@
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
     "news: big tech platforms": 1790319235962,
-    "news: consumer internet india": 1790318459834,
+    "news: consumer internet india": 1790323886232,
     "news: global ai": 1790316240878,
     "news: global chips": 1790316240878,
     "news: global it services": 1790283600286,
     "news: india ai deeptech": 1790320524966,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790321866975,
-    "news: india semiconductors": 1790317956747,
+    "news: india fintech": 1790322752257,
+    "news: india semiconductors": 1790323103638,
     "news: india tech policy": 1790319327745,
-    "news: india telecom": 1790320756473,
-    "news: indian it majors": 1790318493207,
+    "news: india telecom": 1790321864593,
+    "news: indian it majors": 1790321864593,
     "news: indian it midcaps": 1790315280228,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790319480479,
@@ -18541,17 +18560,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T08:02:07.215989+00:00",
+    "last_server_run": "2026-09-25T08:17:22.865773+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-25T06:06:08.221035+00:00",
+        "checked": "2026-09-25T08:18:48.988133+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-25T06:05:51.893214+00:00",
+        "checked": "2026-09-25T08:18:34.131281+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -18627,7 +18646,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-25T06:05:56.966225+00:00",
+        "checked": "2026-09-25T08:18:44.299094+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -18681,11 +18700,11 @@
       },
       "last": {
         "calendar": "2026-09-25T05:06:20.206919+00:00",
-        "ls_reports": "2026-09-25T06:05:27.321412+00:00",
-        "rs_committee_press": "2026-09-25T06:05:37.624128+00:00",
-        "rs_press": "2026-09-25T06:05:34.560208+00:00",
-        "rs_reports": "2026-09-25T06:05:31.441255+00:00",
-        "rs_updates": "2026-09-25T06:05:39.374109+00:00"
+        "ls_reports": "2026-09-25T08:17:56.941002+00:00",
+        "rs_committee_press": "2026-09-25T08:18:07.635154+00:00",
+        "rs_press": "2026-09-25T08:18:04.711553+00:00",
+        "rs_reports": "2026-09-25T08:18:01.907067+00:00",
+        "rs_updates": "2026-09-25T08:18:09.417089+00:00"
       }
     },
     "scanned": [
