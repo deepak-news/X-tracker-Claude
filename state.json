@@ -1,56 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-20T18:32:11.306832+00:00",
-      "handle": "News: Global IT services",
-      "headline": "$1 billion size puts ITC Infotech on accelerated growth path",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWhfR0pVUmZMd2ZUZUJjQUNoclp2RkRXeE8zby1vQ2tlTlZqM3oxSk9mc3pISkxwME1yb1NKZGd6U3hLSjdKdnJKQVBYNk9vZU1XUDZ1c0FlQmxWUVVvVmpnR05WUEJjTGpUUTM4bzQxb041Y0RpZjlUelBqb3hIWE9Lc29ubXZ1dm9JaHowdUs3TDhoVno4bS1ZbE9JUGpzVGxxWU1TVVFVSGl2ZWxUVzI2VkwwRHRxcTJQZXBPRnNfY0VSMGN0YktJNmlvRUlMa2Zr0gHYAUFVX3lxTFB3SVJ4dTAxU0FUd3JsS3oxb01pZmlrU1NDRmdIWnE1WUxCZ2hnclQ4MFYyTy0yNEdvZ3J4c0pRR25fclVOMS1ycXJnOE9iYkFINy1VNUU5ZnRXSVUyWnM2RkZ6Wlh6OGUxUm1SMlUwREVYSWRqWUtON1djajU3T2J1M3hnTFoxLVZEMkZpR1FfTkFHYXZwZUJzQ3FYNlloaWNWclhkUXJ4WldKNjJISEtzRlIxUEdmV0NRcFJaOEpCeC1zSGhONVB6S1RGWEFHSW5Ra3JySUdUdQ?oc=5",
-      "words": [
-        "accelerated",
-        "growth",
-        "infotech",
-        "itc",
-        "path",
-        "puri",
-        "puts",
-        "sanjiv",
-        "size"
-      ]
-    },
-    {
-      "at": "2026-09-20T18:32:11.306832+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "Nvidia CEO delivers blunt message to Americans fearing AI",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlVQYS12MnlvTnRac0h0VENyRVJldHJ4bWcwd3g2cU56Mk9jdHNIRVVQV2N0c2N6c1RTTHhadnZoWTR5NVpVSUh0RWYtbGJmTFVqY0prVVVZaVQ4WEs5RDk4dWVsdmtrSTNqUENHWENPeG9kRFlkR2J1SzRkVjVzTGtvUzVqQU04NVZkNjh2Vkc3UWtuUVVIMFpVdFNFcWc?oc=5",
-      "words": [
-        "americans",
-        "blunt",
-        "ceo",
-        "fearing",
-        "message",
-        "nvidia"
-      ]
-    },
-    {
-      "at": "2026-09-20T18:32:11.306832+00:00",
-      "handle": "News: India fintech",
-      "headline": "Fadnavis defends UPI fees, urges traders not to resist",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzNZbk8wM1ZvajJaUmJpSTlHdDY4WjJHYU9mOWhyV1pPempDX1ZBWS1IODJ5eDVKV2NQQjJkdmhSeVB5cVhqOTI3MGhxdnE3WDFZSk15VzZiUDF3cWRIWnZlcWt5U2kzUDFJVU0zMkhfQVlMZlNxeGYzQlZ2eC1BWGtzZHJBYXVkVUNfbTZzNEVOQXJYcmNOM3VTRjdPLU1yc3JyQzVndkpVV3FHTXdQWUtiODAyWHQ2TmU0eWlRSWdPdDY0MGhyTXNVU3lXY2hVUWQzRnhB0gHbAUFVX3lxTFBtUUotX1ZLSFRYTU5HT2dUMG5NSHhjRDZEQnpTdXZrblRLbi1kTmc0cDZLVjVXWG93OEJCSDlKZnNNSVJ2VW1kbU1hcHFJYzY3MFVxd0lFQTEtSFpjS1o5RllMbXByZ05oYy0taHM5UmdLOUMzMnRkYjlzcTZuWDZNYkdiOUFxdmE2RmEwQ2RVemFYdDN0NWZQcW5MN2Y5eTRTZEFLbEZWRHExYkhLOE1VR0VBZHNOZHZNR2pyb2ZWR1JQb0t4c29lb0kwejVhV2RNNzVRU2JfdGZtdw?oc=5",
-      "words": [
-        "defends",
-        "fadnavis",
-        "fees",
-        "resist",
-        "traders",
-        "transaction",
-        "upi",
-        "urges"
-      ]
-    },
-    {
       "at": "2026-09-20T19:32:22.428446+00:00",
       "handle": "News: Indian IT majors",
       "headline": "TCS Q1 Results Preview Anticipates Earnings and Dividend",
@@ -7584,16 +7534,72 @@
         "upi",
         "where"
       ]
+    },
+    {
+      "at": "2026-09-25T08:32:07.666179+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Google sends TPUs to space aboard Elon Musk's SpaceX",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNdXhmS282bGZST1FNUVZDVHNjMGhBUF90eDFpekU0OHJHNmFJcXQ0ZDhwNTM5ZXpiRDF4UC1ydzNXS2IyT0RmWXZmTmIteG1aSjVURmpnYXM5MVlPbjlfV2RudzZyRUFTQWFrMEVPM1ZkMWhrVzJHci0wQ0lpZm84OHhzdUJhclBWdWpjVExFbDgyay1RSE9PV3lnV19jVFBfRVdxbl9WcDNBUWZRbVZyblZ5WVNPQ2ZtNDRZdV9McmxDZEhvM1VPdEUyckhmY2YzYVRZemdjanFrN0xmSE9ZYkdXS3ZyLXF6bFJNaFh3SGE4Rk1qTkJTSGt5V1Z2OE9tWHI0SkYtekJ3R3FnZ01DbzBuWG1rdFF0WkFHV3hGZHNWcDhKTWfSAasCQVVfeXFMUGsyUjlIUzExOXpiX3ZraVk5MjdYM2tKczlYMjExTHdpa0lPcHdhS0wzOEN5THRTTjBNUXRsTDM0Y25CN2pHWlBtcHlVbkUySElmLW92OFI2eFNjeWZ1Tm5keXBNb0tBXzhiYWFmdE9Kd3EzNG9JLU5xYXJld1FWOGtsQkZlOFZHNm9tNFhWNXR2M3A3STN4V2lRTGJvSmZtdFItX3gwMXZ5LWx5SGItS19fLVkwNDVYU290R3kxdUtOVEdCN3lsc1VQWG9EaERULWhPTTVYRmIxb1VhS0RzMWVXRUw0TzZqVlNOODUxTGhzMmIzNmZkUTV4em9OalJlTHJuazAyNkdjRzZIUXhCRjl2S0JZVEpxRVRhcmxBbnVzQWo4S05FSDNwMlU?oc=5",
+      "words": [
+        "aboard",
+        "ceo",
+        "elon",
+        "google",
+        "hitches",
+        "musk",
+        "pichai",
+        "ride",
+        "sends",
+        "space",
+        "spacex",
+        "sundar",
+        "tpus",
+        "well"
+      ]
+    },
+    {
+      "at": "2026-09-25T08:32:07.666179+00:00",
+      "handle": "News: India tech policy",
+      "headline": "India focuses on mature chip nodes over 2nm due to costs",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONXFUMHkxY25CRFJ5MGw0VnZPQUdXeHBtazBINjNDN3lTTS14TUhFVWw2ME5RNnlpU0JoVzQ0WEhURnVUQW04Y0dhUGFyT2F1TGxUTzEtb3ZJdklKZXpQdENKRGhXb0QtYmExTGlpZ01HQ29uN2dDUldnYjczUUMxN2ptNVh5TVlib21hbGJDWTBQS2pvX2lvak5HSWJJMHhyV25sYUtVTGdVVl9saGJRMFBoY0JieTdRU3NtUENWYnpaNkRSY3pMdTR30gHPAUFVX3lxTE9tWVpFSVhvcUtOOVdrLUxvSDNsUk8xdF81UVJpZzhyLXFjbWxNX2dYUWV5eXl0WjRZa3lIcC0wLUNRcHNpY1l6bE5mRFNueEQ3VGhrYUZxVEl5cDFHbmlpSUdpVW1VUDZNNzJCNlFQbGJ0S0hFSWt2N0kzYV9MV01Ob2tianpGNTYtcGZLeXRlZ2Y5YUpOODNKMDdIRUdrdE5WNmZLaURaVEhiTGFGbzNuZG1aMzZUMjNvNGxYYmw3RGJWRy1nNy1MeTR6UUVwMA?oc=5",
+      "words": [
+        "2nm",
+        "business",
+        "chips",
+        "costs",
+        "due",
+        "high",
+        "mature",
+        "news",
+        "nodes",
+        "official",
+        "opts"
+      ]
+    },
+    {
+      "at": "2026-09-25T08:32:07.666179+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "MeitY Secretary S. Krishnan notes strong semiconductor investment commitments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc3hEUFFia2R6ZmNxeEZoNVBVR25HQ0ltSFIwU05YT3VlVkNibkVzc2ZyalRmZ0d6OFhmSTVEZ1c4RGpjbWNRSXJzakh4RHJmUFJIdVIyTlkzU1puYWFfNkNrVkFuVndnNmhrUVJ1YUFsalRCa1pmQTVCMWJPUlk0Njdwdm40RU5fNXUzZ0FfU290RnFtV3ZmUVNsd21Famt4UXpoX09CVWZXWU9ib0tpVTFyZEd4NG5JQzFER1JWaXc1QWp6cDEwU0xtV1AzanJnUVFEclFtbWsyeDdZZUV1czVmQk0xUzI5bHZnM1hEMHU?oc=5",
+      "words": [
+        "commitments",
+        "fomo",
+        "into",
+        "investment",
+        "krishnan",
+        "push",
+        "semicon",
+        "semiconductor",
+        "turned"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789976722644",
-    "1789996344894",
-    "2312900",
-    "1789894662224",
-    "1789903080452",
     "1789951482418",
     "1789966054102",
     "1789967108611",
@@ -13588,10 +13594,15 @@
     "1790321864593",
     "1790322752257",
     "1790323103638",
-    "1790323886232"
+    "1790323886232",
+    "1790267262183",
+    "1790281544070",
+    "1790320047014",
+    "1790324393070",
+    "1790324607530"
   ],
-  "last_digest_hour": "2026-09-25T13",
-  "last_success": "2026-09-25T08:17:22.546611+00:00",
+  "last_digest_hour": "2026-09-25T14",
+  "last_success": "2026-09-25T08:32:07.698048+00:00",
   "national": {
     "alerted": [
       {
@@ -15910,7 +15921,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T08:19:32.598554+00:00",
+    "last_run": "2026-09-25T08:33:35.021085+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17402,7 +17413,10 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-role-of-make-in-india-in-driving-national-growth-and-prosperity",
       "pib:2314750",
       "pib:2314786",
-      "pib:2314791"
+      "pib:2314791",
+      "page:https://internal.imd.gov.in/press_release/20260925_pr_5341.pdf",
+      "pib:2314793",
+      "pib:2314792"
     ],
     "source_failures": {
       "CBI": {
@@ -17442,62 +17456,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Google sends TPUs to space aboard Elon Musk's SpaceX",
-      "post": {
-        "created_at": "2026-09-25T06:58:00+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1790319480479",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Google hitches a ride aboard Elon Musk's SpaceX; sends TPUs to space; CEO Sundar Pichai says: Well, we ar",
-        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNdXhmS282bGZST1FNUVZDVHNjMGhBUF90eDFpekU0OHJHNmFJcXQ0ZDhwNTM5ZXpiRDF4UC1ydzNXS2IyT0RmWXZmTmIteG1aSjVURmpnYXM5MVlPbjlfV2RudzZyRUFTQWFrMEVPM1ZkMWhrVzJHci0wQ0lpZm84OHhzdUJhclBWdWpjVExFbDgyay1RSE9PV3lnV19jVFBfRVdxbl9WcDNBUWZRbVZyblZ5WVNPQ2ZtNDRZdV9McmxDZEhvM1VPdEUyckhmY2YzYVRZemdjanFrN0xmSE9ZYkdXS3ZyLXF6bFJNaFh3SGE4Rk1qTkJTSGt5V1Z2OE9tWHI0SkYtekJ3R3FnZ01DbzBuWG1rdFF0WkFHV3hGZHNWcDhKTWfSAasCQVVfeXFMUGsyUjlIUzExOXpiX3ZraVk5MjdYM2tKczlYMjExTHdpa0lPcHdhS0wzOEN5THRTTjBNUXRsTDM0Y25CN2pHWlBtcHlVbkUySElmLW92OFI2eFNjeWZ1Tm5keXBNb0tBXzhiYWFmdE9Kd3EzNG9JLU5xYXJld1FWOGtsQkZlOFZHNm9tNFhWNXR2M3A3STN4V2lRTGJvSmZtdFItX3gwMXZ5LWx5SGItS19fLVkwNDVYU290R3kxdUtOVEdCN3lsc1VQWG9EaERULWhPTTVYRmIxb1VhS0RzMWVXRUw0TzZqVlNOODUxTGhzMmIzNmZkUTV4em9OalJlTHJuazAyNkdjRzZIUXhCRjl2S0JZVEpxRVRhcmxBbnVzQWo4S05FSDNwMlU?oc=5"
-      },
-      "queued_at": "2026-09-25T07:46:42.405171+00:00",
-      "score": 8.0,
-      "why": "Major tech collaboration involving AI chips tested in space by a watched company."
-    },
-    {
-      "headline": "India focuses on mature chip nodes over 2nm due to costs",
-      "post": {
-        "created_at": "2026-09-25T06:28:14+00:00",
-        "handle": "News: India tech policy",
-        "id": "1790317694951",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Hindustan Times",
-        "reposts": 0,
-        "text": "India opts for mature chips over 2nm nodes due to high costs: Official | Business News",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONXFUMHkxY25CRFJ5MGw0VnZPQUdXeHBtazBINjNDN3lTTS14TUhFVWw2ME5RNnlpU0JoVzQ0WEhURnVUQW04Y0dhUGFyT2F1TGxUTzEtb3ZJdklKZXpQdENKRGhXb0QtYmExTGlpZ01HQ29uN2dDUldnYjczUUMxN2ptNVh5TVlib21hbGJDWTBQS2pvX2lvak5HSWJJMHhyV25sYUtVTGdVVl9saGJRMFBoY0JieTdRU3NtUENWYnpaNkRSY3pMdTR30gHPAUFVX3lxTE9tWVpFSVhvcUtOOVdrLUxvSDNsUk8xdF81UVJpZzhyLXFjbWxNX2dYUWV5eXl0WjRZa3lIcC0wLUNRcHNpY1l6bE5mRFNueEQ3VGhrYUZxVEl5cDFHbmlpSUdpVW1VUDZNNzJCNlFQbGJ0S0hFSWt2N0kzYV9MV01Ob2tianpGNTYtcGZLeXRlZ2Y5YUpOODNKMDdIRUdrdE5WNmZLaURaVEhiTGFGbzNuZG1aMzZUMjNvNGxYYmw3RGJWRy1nNy1MeTR6UUVwMA?oc=5"
-      },
-      "queued_at": "2026-09-25T08:02:06.814276+00:00",
-      "score": 8.0,
-      "why": "A senior official's statement on India's semiconductor strategy is a key policy update."
-    },
-    {
-      "headline": "MeitY Secretary S. Krishnan notes strong semiconductor investment commitments",
-      "post": {
-        "created_at": "2026-09-25T07:58:23+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1790323103638",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Today",
-        "reposts": 0,
-        "text": "\u201cFOMO Has Turned Into Commitments\": S. Krishnan On India\u2019s Semiconductor Investment Push At SEMICON",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc3hEUFFia2R6ZmNxeEZoNVBVR25HQ0ltSFIwU05YT3VlVkNibkVzc2ZyalRmZ0d6OFhmSTVEZ1c4RGpjbWNRSXJzakh4RHJmUFJIdVIyTlkzU1puYWFfNkNrVkFuVndnNmhrUVJ1YUFsalRCa1pmQTVCMWJPUlk0Njdwdm40RU5fNXUzZ0FfU290RnFtV3ZmUVNsd21Famt4UXpoX09CVWZXWU9ib0tpVTFyZEd4NG5JQzFER1JWaXc1QWp6cDEwU0xtV1AzanJnUVFEclFtbWsyeDdZZUV1czVmQk0xUzI5bHZnM1hEMHU?oc=5"
-      },
-      "queued_at": "2026-09-25T08:17:22.501596+00:00",
-      "score": 7.0,
-      "why": "Senior government official's statement on industry investment policy and direction is newsworthy."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18517,10 +18476,10 @@
     "news: global it services": 1790283600286,
     "news: india ai deeptech": 1790320524966,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790322752257,
+    "news: india fintech": 1790324393070,
     "news: india semiconductors": 1790323103638,
     "news: india tech policy": 1790319327745,
-    "news: india telecom": 1790321864593,
+    "news: india telecom": 1790324607530,
     "news: indian it majors": 1790321864593,
     "news: indian it midcaps": 1790315280228,
     "news: pib releases": 1790159940641,
@@ -18560,7 +18519,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T08:17:22.865773+00:00",
+    "last_server_run": "2026-09-25T08:32:07.933272+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T08:18:48.988133+00:00",
