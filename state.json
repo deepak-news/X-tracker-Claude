@@ -1,22 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-21T00:32:13.565964+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Coforge and Hexaware help enterprise clients manage AI token costs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR0k3aEwzekYtYk5COFd0VGJQQW9zSmhpd2Y5eEUwWnNYc0FQTWpGc3JTMTU4X2hlUjlfRjk2UTdNd3hHb3FoNmRZMGU3Smd0ZnBZTGpmRWc3MDJVMzBwVzcwd2xHVHZ4aTJibjJQMV9rMk5WZlBlenRxdEZyaHFkSzVNMDZFZWtpNDQ3YlQ5M1Rpd0ZuMzB0dUxaYXMyMXVmMjdTQmZrbUNiS0U1U0FiX2J5RzN3Nm9ZMWgxM0ROZFdQcG9JRkHSAcsBQVVfeXFMUC0xemRDM2xWQmZLV2ZTQV9adWdyYy1fMlhZbjQ3bVlTcEtnVGxsS0FLSDJlWWZhM045azhjeEVSSHIweTlFOF9xUmdaT2lHRHFlcEs1OUw1Y2ZxWS1vT0lsLTUyVVo3VW5jWC1YQjdlY0pSMWxDZVhhSTVtbmFoT1M5TEVDcG5vbVZwR1hCeGtIWU1tX1JoMGhRSHZtWXh5SmxqV3RrUXg3THV0eWpLZC00OTdJelh6TzBCSGhTUXpUa0p4RmlIVWlfeDg?oc=5",
-      "words": [
-        "clients",
-        "coforge",
-        "help",
-        "hexaware",
-        "manage",
-        "tab",
-        "token"
-      ]
-    },
-    {
       "at": "2026-09-21T01:32:41.606256+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Mitrankur Majumdar takes over former Infosys CEO designate's role",
@@ -7599,18 +7583,34 @@
         "rating",
         "trai"
       ]
+    },
+    {
+      "at": "2026-09-25T11:47:20.116575+00:00",
+      "handle": "Razorpay",
+      "headline": "EPFO hikes mandatory PF wage ceiling from Rs 15,000 to Rs 25,000",
+      "tier": 1,
+      "url": "https://razorpay.com/payroll/pf-wage-ceiling-is-now-%e2%82%b925000-what-employers-need-to-know/",
+      "words": [
+        "000",
+        "2026",
+        "ceiling",
+        "changed",
+        "cove",
+        "decade",
+        "employers",
+        "epfo",
+        "first",
+        "know",
+        "mandatory",
+        "more",
+        "need",
+        "now"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789979829163",
-    "1789979880019",
-    "1789979912907",
-    "1789980102224",
-    "1789980204120",
-    "1789980214959",
-    "1789980243968",
     "1789999847266",
     "1789720058319",
     "1789722159969",
@@ -13603,10 +13603,17 @@
     "1790331349501",
     "1790332547597",
     "1790334840595",
-    "1790335024167"
+    "1790335024167",
+    "1790325780364",
+    "1790328762182",
+    "1790334174763",
+    "1790335383928",
+    "1790336340892",
+    "2314912",
+    "2314915"
   ],
   "last_digest_hour": "2026-09-25T17",
-  "last_success": "2026-09-25T11:32:01.638392+00:00",
+  "last_success": "2026-09-25T11:47:20.262882+00:00",
   "national": {
     "alerted": [
       {
@@ -15611,6 +15618,18 @@
           "three",
           "worth"
         ]
+      },
+      {
+        "at": "2026-09-25T11:51:04.618910+00:00",
+        "handle": "RBI",
+        "headline": "RBI releases money supply data for fortnight ending September 15",
+        "tier": 1,
+        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63667",
+        "words": [
+          "1189",
+          "2026",
+          "2027"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -15947,7 +15966,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T11:34:42.551274+00:00",
+    "last_run": "2026-09-25T11:51:04.619463+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17472,7 +17491,11 @@
       "pib:2314890",
       "pib:2314896",
       "pib:2314894",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63666"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63666",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63667",
+      "pib:2314915",
+      "pib:2314924",
+      "pib:2314912"
     ],
     "source_failures": {
       "CBI": {
@@ -18530,16 +18553,16 @@
     "news: global ai": 1790328600592,
     "news: global chips": 1790316240878,
     "news: global it services": 1790283600286,
-    "news: india ai deeptech": 1790335024167,
+    "news: india ai deeptech": 1790336340892,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790334840595,
     "news: india semiconductors": 1790326458952,
-    "news: india tech policy": 1790331720975,
-    "news: india telecom": 1790334285232,
+    "news: india tech policy": 1790334174763,
+    "news: india telecom": 1790335383928,
     "news: indian it majors": 1790329293552,
     "news: indian it midcaps": 1790328360732,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790319480479,
+    "news: tech leaders": 1790325780364,
     "nvidia": 1790258450056,
     "nvidia blog": 1790258450056,
     "openai": 1790251200769,
@@ -18547,8 +18570,8 @@
     "phonepe": 1790243188249,
     "pib communications": 2314867,
     "pib meity": 2313324,
-    "pib science and technology": 2314836,
-    "razorpay": 1790239817010,
+    "pib science and technology": 2314915,
+    "razorpay": 1790328762182,
     "redseer": 1790238736972,
     "reg cci": 1790035200936,
     "reg cert-in": 1788998400763,
@@ -18575,7 +18598,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T11:32:02.030322+00:00",
+    "last_server_run": "2026-09-25T11:47:20.676437+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T10:33:37.266862+00:00",
