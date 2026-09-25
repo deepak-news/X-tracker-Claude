@@ -555,6 +555,29 @@ watch:
       mail_to: GAZETTE_DESKS:law
       mail_name: "Law Ministry Gazettes"
 
+    # Abhishek Shukla: Home Affairs and Finance. His address is in its own
+    # GitHub secret, MHA_FINANCE_MAIL_TO.
+    - name: e-Gazette - MHA and Finance
+      label: "Gazette of India"
+      category: 6
+      ministries:
+        - "Ministry of Home Affairs"
+        - "Ministry of Finance"
+      mail_to: MHA_FINANCE_MAIL_TO
+      mail_name: "MHA & Finance Gazettes"
+
+    # ---------------------------------------------------------------
+    #  CBI FIRs -- every FIR the CBI registers, as it is published.
+    #  Read only from the Mac, like DoPT: the CBI site refuses GitHub.
+    #  The addresses are in ~/.watch-env on the Mac, as CBI_MAIL_TO.
+    # ---------------------------------------------------------------
+    - name: CBI FIRs
+      url: "https://cbi.gov.in/view-fir"
+      cbi: true
+      home_only: true
+      mail_to: CBI_MAIL_TO
+      mail_name: "CBI FIRs"
+
     # MeitY gazettes, straight to the Tech Desk inbox (MAIL_TO) under the
     # Tech Desk's own name. Every one is sent -- no AI in between -- since
     # there are only a handful a month.
