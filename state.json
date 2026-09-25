@@ -7604,19 +7604,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789977613930",
-    "1789977629297",
-    "1789977851254",
-    "1789977855319",
-    "1789977995655",
-    "1789978185669",
-    "1789978480883",
-    "1789930380255",
-    "1789932605534",
-    "1789956016112",
-    "1789964820020",
-    "1789972995009",
-    "1789973400637",
     "1789974120860",
     "1789974142755",
     "1789974559013",
@@ -13603,10 +13590,23 @@
     "1790322551422",
     "1790325060502",
     "1790329293552",
-    "2314836"
+    "2314836",
+    "1790310339070",
+    "1790324486716",
+    "1790325481552",
+    "1790326458952",
+    "1790327220422",
+    "1790328600592",
+    "1790329233441",
+    "1790329293227",
+    "1790329651818",
+    "1790329964672",
+    "1790330520948",
+    "1790330722812",
+    "1790330809692"
   ],
   "last_digest_hour": "2026-09-25T15",
-  "last_success": "2026-09-25T10:04:02.587315+00:00",
+  "last_success": "2026-09-25T10:16:40.659703+00:00",
   "national": {
     "alerted": [
       {
@@ -15925,7 +15925,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T10:10:44.402046+00:00",
+    "last_run": "2026-09-25T10:19:22.786665+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17443,12 +17443,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "CERT-In": {
-        "count": 1
-      },
       "DGFT": {
-        "count": 17,
-        "until": "2026-09-25T10:17:25.056656+00:00"
+        "count": 18,
+        "until": "2026-09-25T16:17:53.668115+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -17497,6 +17494,24 @@
       "queued_at": "2026-09-25T09:47:30.095843+00:00",
       "score": 7.0,
       "why": "A significant regulatory and judicial directive involving online child safety and tech platforms."
+    },
+    {
+      "headline": "Sarvam launches Vision 2.1 document intelligence model",
+      "post": {
+        "created_at": "2026-09-25T09:40:33+00:00",
+        "handle": "News: India AI deeptech",
+        "id": "1790329233441",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Zee Business",
+        "reposts": 0,
+        "text": "Sarvam launches Vision 2.1: AI model can process forms, tables and handwritten documents",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0g3dmxSb3Fsc0pJVUFfMi1uamJNeEhkUUc0TzlwOXlWS1ZQOE8zVkNUekdpMExVVkRGMjVRUEg4MTZna0IydG1yQi03OGVDWms4VUZZSHZ4SEVqMTN2aGZNNDE5N2ZZa2dYYjhNeTNOYUhNd29sZUo3cVNKRUFtSWlTdU5mZVJud3hIb2xZemJGRDY1cHc4ckdFdWl1bnkzRU80SFE4TEVKUmJDMEN6Q3VmS0liSjF5LUdqU3hYNWZ2c04wVi01RlVHZw?oc=5"
+      },
+      "queued_at": "2026-09-25T10:16:40.615198+00:00",
+      "score": 8.0,
+      "why": "Sarvam AI launching a new functional model update is a direct product milestone."
     }
   ],
   "page_links": {
@@ -18512,18 +18527,18 @@
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
     "news: big tech platforms": 1790327084343,
-    "news: consumer internet india": 1790323886232,
-    "news: global ai": 1790316240878,
+    "news: consumer internet india": 1790330722812,
+    "news: global ai": 1790328600592,
     "news: global chips": 1790316240878,
     "news: global it services": 1790283600286,
-    "news: india ai deeptech": 1790327273888,
+    "news: india ai deeptech": 1790330809692,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790328360794,
-    "news: india semiconductors": 1790323253065,
-    "news: india tech policy": 1790319327745,
+    "news: india fintech": 1790329964672,
+    "news: india semiconductors": 1790326458952,
+    "news: india tech policy": 1790330520948,
     "news: india telecom": 1790326880502,
     "news: indian it majors": 1790329293552,
-    "news: indian it midcaps": 1790325300584,
+    "news: indian it midcaps": 1790327220422,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790319480479,
     "nvidia": 1790258450056,
@@ -18561,7 +18576,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T10:04:02.932438+00:00",
+    "last_server_run": "2026-09-25T10:16:41.046351+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T08:18:48.988133+00:00",
