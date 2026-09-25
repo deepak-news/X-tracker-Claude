@@ -7623,10 +7623,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789977213357",
-    "1789977219148",
-    "1789977409290",
-    "1789977976888",
     "1789979729618",
     "1789979848388",
     "1789983057653",
@@ -13622,10 +13618,14 @@
     "1790345477183",
     "1790345929931",
     "1790335387070",
-    "1790362800983"
+    "1790362800983",
+    "1790332380311",
+    "1790344274215",
+    "1790347903073",
+    "1790349171251"
   ],
-  "last_digest_hour": "2026-09-25T21",
-  "last_success": "2026-09-25T16:17:09.255796+00:00",
+  "last_digest_hour": "2026-09-25T22",
+  "last_success": "2026-09-25T16:32:18.586359+00:00",
   "national": {
     "alerted": [
       {
@@ -16088,7 +16088,7 @@
       "CG-DL-E-25092026-276500",
       "CG-DL-E-25092026-276492"
     ],
-    "last_run": "2026-09-25T16:23:37.912125+00:00",
+    "last_run": "2026-09-25T16:33:55.595520+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17667,7 +17667,8 @@
       "pib:2315158",
       "pib:2315163",
       "pib:2315165",
-      "pib:2315161"
+      "pib:2315161",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63674"
     ],
     "source_failures": {
       "CBI": {
@@ -17677,10 +17678,6 @@
       "DGFT": {
         "count": 19,
         "until": "2026-09-25T22:19:16.488767+00:00"
-      },
-      "Gazette of India (Extraordinary)": {
-        "count": 3,
-        "until": "2026-09-25T22:06:31.076954+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -18774,7 +18771,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T16:17:09.612597+00:00",
+    "last_server_run": "2026-09-25T16:32:18.823274+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T14:48:44.465535+00:00",
@@ -19361,7 +19358,12 @@
       "gazette:CG-DL-E-25092026-276499|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-25092026-276498|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-25092026-276497|GAZETTE_MAIL_TO",
-      "bulletin:LS|2026-09-25|Bulletin-II"
+      "bulletin:LS|2026-09-25|Bulletin-II",
+      "gazette:CG-DL-E-25092026-276499|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-25092026-276498|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-25092026-276497|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-24092026-276485|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-24092026-276478|MHA_FINANCE_MAIL_TO"
     ]
   }
 }
