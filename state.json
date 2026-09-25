@@ -7617,17 +7617,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789973737059",
-    "1789973880694",
-    "1789973907085",
-    "1789974399583",
-    "1789974854019",
-    "1789975017877",
-    "1789975035231",
-    "1789975375715",
-    "1789975481384",
-    "1789975620503",
-    "1789975991215",
     "1789976040446",
     "1789976353532",
     "1789976681008",
@@ -13616,10 +13605,21 @@
     "1790339437348",
     "1790339455700",
     "1790339592994",
-    "1790339828215"
+    "1790339828215",
+    "1790260211004",
+    "1790271480270",
+    "1790275719447",
+    "1790307845800",
+    "1790311612840",
+    "1790314615028",
+    "1790330232138",
+    "1790337528987",
+    "1790337814825",
+    "1790339246349",
+    "1790340944138"
   ],
   "last_digest_hour": "2026-09-25T18",
-  "last_success": "2026-09-25T12:47:38.198289+00:00",
+  "last_success": "2026-09-25T13:02:28.403445+00:00",
   "national": {
     "alerted": [
       {
@@ -16065,7 +16065,7 @@
       "CG-DL-E-25092026-276500",
       "CG-DL-E-25092026-276492"
     ],
-    "last_run": "2026-09-25T12:52:38.978735+00:00",
+    "last_run": "2026-09-25T13:05:08.257294+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17616,7 +17616,12 @@
       "quake:usgs:us6000txk0",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63670",
       "pib:2315004",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63669"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63669",
+      "pib:2315015",
+      "pib:2315011",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63672",
+      "pib:2315013",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63671"
     ],
     "source_failures": {
       "CBI": {
@@ -18659,7 +18664,7 @@
     "google cloud": 1790265600814,
     "google deepmind": 1790266839037,
     "google india": 1790235000631,
-    "hcltech": 1790252074593,
+    "hcltech": 1790339246349,
     "ibm": 1790247600641,
     "intel": 1788847380154,
     "lenovo": 1789992053034,
@@ -18671,7 +18676,7 @@
     "naukri": 1790234460996,
     "news: big tech platforms": 1790327084580,
     "news: consumer internet india": 1790339455700,
-    "news: global ai": 1790328600592,
+    "news: global ai": 1790337814825,
     "news: global chips": 1790316240878,
     "news: global it services": 1790283600286,
     "news: india ai deeptech": 1790339828215,
@@ -18692,7 +18697,7 @@
     "pib communications": 2314867,
     "pib meity": 2313324,
     "pib science and technology": 2314915,
-    "razorpay": 1790328762182,
+    "razorpay": 1790337528987,
     "redseer": 1790238736972,
     "reg cci": 1790035200936,
     "reg cert-in": 1788998400763,
@@ -18702,7 +18707,7 @@
     "sarvam ai": 1790254919948,
     "swiggy": 1789214456821,
     "tata electronics": 1789738328115,
-    "trai": 1790339437348,
+    "trai": 1790340944138,
     "xai": 1790100175347,
     "zinnov": 1790318797256,
     "zoho": 1790354886793
@@ -18719,7 +18724,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T12:47:38.555951+00:00",
+    "last_server_run": "2026-09-25T13:02:28.615399+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T12:48:28.155954+00:00",
