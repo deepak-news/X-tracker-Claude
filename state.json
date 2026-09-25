@@ -7600,12 +7600,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789951482418",
-    "1789966054102",
-    "1789967108611",
-    "1789970439177",
-    "1789970460688",
-    "1789971521875",
     "1789972123187",
     "1789972647819",
     "1789973580094",
@@ -13599,10 +13593,16 @@
     "1790281544070",
     "1790320047014",
     "1790324393070",
-    "1790324607530"
+    "1790324607530",
+    "1790258387570",
+    "1790314161479",
+    "1790320528637",
+    "1790324705813",
+    "1790325481683",
+    "2312900"
   ],
   "last_digest_hour": "2026-09-25T14",
-  "last_success": "2026-09-25T08:32:07.698048+00:00",
+  "last_success": "2026-09-25T08:47:14.399966+00:00",
   "national": {
     "alerted": [
       {
@@ -15921,7 +15921,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T08:33:35.021085+00:00",
+    "last_run": "2026-09-25T08:50:04.045882+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17416,7 +17416,10 @@
       "pib:2314791",
       "page:https://internal.imd.gov.in/press_release/20260925_pr_5341.pdf",
       "pib:2314793",
-      "pib:2314792"
+      "pib:2314792",
+      "pib:2314795",
+      "pib:2314798",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63664"
     ],
     "source_failures": {
       "CBI": {
@@ -18469,7 +18472,7 @@
     "microsoft india": 1790302420156,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790319235962,
+    "news: big tech platforms": 1790320528637,
     "news: consumer internet india": 1790323886232,
     "news: global ai": 1790316240878,
     "news: global chips": 1790316240878,
@@ -18479,7 +18482,7 @@
     "news: india fintech": 1790324393070,
     "news: india semiconductors": 1790323103638,
     "news: india tech policy": 1790319327745,
-    "news: india telecom": 1790324607530,
+    "news: india telecom": 1790325481683,
     "news: indian it majors": 1790321864593,
     "news: indian it midcaps": 1790315280228,
     "news: pib releases": 1790159940641,
@@ -18519,7 +18522,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T08:32:07.933272+00:00",
+    "last_server_run": "2026-09-25T08:47:14.742780+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T08:18:48.988133+00:00",
