@@ -7623,12 +7623,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789981266927",
-    "1789981459669",
-    "1789981500763",
-    "1789981775446",
-    "1789981920164",
-    "1789982029413",
     "1789982055372",
     "1789982230370",
     "1789982273074",
@@ -13622,10 +13616,16 @@
     "1790331506315",
     "1790342546453",
     "1790345994233",
-    "1790347309285"
+    "1790347309285",
+    "1790306754248",
+    "1790328245070",
+    "1790340007524",
+    "1790342121622",
+    "1790343163481",
+    "1790343509379"
   ],
   "last_digest_hour": "2026-09-25T20",
-  "last_success": "2026-09-25T14:47:06.166468+00:00",
+  "last_success": "2026-09-25T15:03:00.898689+00:00",
   "national": {
     "alerted": [
       {
@@ -16088,7 +16088,7 @@
       "CG-DL-E-25092026-276500",
       "CG-DL-E-25092026-276492"
     ],
-    "last_run": "2026-09-25T14:49:24.408982+00:00",
+    "last_run": "2026-09-25T15:07:58.617171+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18724,7 +18724,7 @@
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790345994233,
     "news: india semiconductors": 1790343984634,
-    "news: india tech policy": 1790335140808,
+    "news: india tech policy": 1790343509379,
     "news: india telecom": 1790347309285,
     "news: indian it majors": 1790332380866,
     "news: indian it midcaps": 1790342483036,
@@ -18765,7 +18765,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T14:47:06.443455+00:00",
+    "last_server_run": "2026-09-25T15:03:01.241603+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T14:48:44.465535+00:00",
