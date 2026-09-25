@@ -1,25 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-20T23:32:15.020346+00:00",
-      "handle": "News: India fintech",
-      "headline": "Government clarifies zero charges for person-to-person UPI transactions",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHlsdURBMmdTWFRCTDVheUhaTEZxVzc0ZXFudXdCTi1mXzRBUDJxNndJa1Q5MGFBeFY4T1dRamFVc3JYNlVLYWlvekJmOGdvMXFhOFdTNzdRLXlZSXNrSnpxeHI2R0J6ZEhmb1R2MHZ0cHdqSXRPRUVQdjNCUFJ3VUtpcVRrRmg0dzV0Q2syN3lhbnFUdzZoNFMtaWR4aWN0Snc?oc=5",
-      "words": [
-        "all",
-        "amount",
-        "charges",
-        "govt",
-        "irrespective",
-        "person",
-        "there",
-        "transactions",
-        "transferred",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-09-21T00:32:13.565964+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Coforge and Hexaware help enterprise clients manage AI token costs",
@@ -7603,26 +7584,26 @@
         "serious",
         "supreme"
       ]
+    },
+    {
+      "at": "2026-09-25T10:46:40.899024+00:00",
+      "handle": "PIB Communications",
+      "headline": "TRAI Launches Digital Connectivity Rating Platform for Networks",
+      "tier": 1,
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2314867",
+      "words": [
+        "connectivity",
+        "digital",
+        "launches",
+        "platform",
+        "rating",
+        "trai"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789975620176",
-    "1789977548359",
-    "1789977601810",
-    "1789978310518",
-    "1789978440270",
-    "1789978462302",
-    "1789978500379",
-    "1789978560613",
-    "1789978628951",
-    "1789979015586",
-    "1789979055457",
-    "1789979068473",
-    "1789979187026",
-    "1789979243929",
-    "1789979272316",
     "1789979316601",
     "1789979335071",
     "1789979399066",
@@ -13607,10 +13588,25 @@
     "1790330809692",
     "1790322026798",
     "1790326709362",
-    "1790326790577"
+    "1790326790577",
+    "1790246876184",
+    "1790304205100",
+    "1790308200067",
+    "1790310684372",
+    "1790313860070",
+    "1790321977676",
+    "1790322661885",
+    "1790322960358",
+    "1790323080422",
+    "1790327084580",
+    "1790328360732",
+    "1790330347564",
+    "1790331720695",
+    "1790332771859",
+    "2314867"
   ],
   "last_digest_hour": "2026-09-25T16",
-  "last_success": "2026-09-25T10:32:29.862831+00:00",
+  "last_success": "2026-09-25T10:46:40.939941+00:00",
   "national": {
     "alerted": [
       {
@@ -15929,7 +15925,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T10:38:39.368676+00:00",
+    "last_run": "2026-09-25T10:48:27.734572+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17444,7 +17440,9 @@
       "pib:2314852",
       "pib:2314858",
       "pib:2314853",
-      "pib:2314855"
+      "pib:2314855",
+      "pib:2314867",
+      "pib:2314868"
     ],
     "source_failures": {
       "CBI": {
@@ -18497,7 +18495,7 @@
     "microsoft india": 1790302420156,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790327084343,
+    "news: big tech platforms": 1790327084580,
     "news: consumer internet india": 1790330722812,
     "news: global ai": 1790328600592,
     "news: global chips": 1790316240878,
@@ -18506,10 +18504,10 @@
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790329964672,
     "news: india semiconductors": 1790326458952,
-    "news: india tech policy": 1790330520948,
-    "news: india telecom": 1790326880502,
+    "news: india tech policy": 1790331720695,
+    "news: india telecom": 1790332771859,
     "news: indian it majors": 1790329293552,
-    "news: indian it midcaps": 1790327220422,
+    "news: indian it midcaps": 1790328360732,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790319480479,
     "nvidia": 1790258450056,
@@ -18517,7 +18515,7 @@
     "openai": 1790251200769,
     "oracle": 1790182896113,
     "phonepe": 1790243188249,
-    "pib communications": 2313673,
+    "pib communications": 2314867,
     "pib meity": 2313324,
     "pib science and technology": 2314836,
     "razorpay": 1790239817010,
@@ -18547,7 +18545,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T10:32:30.215106+00:00",
+    "last_server_run": "2026-09-25T10:46:41.276527+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T10:33:37.266862+00:00",
