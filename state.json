@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-21T01:32:41.606256+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Mitrankur Majumdar takes over former Infosys CEO designate's role",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZzZzNF9iM0VKNXRXWkQ1ZEJ0UkFHM08xczh4MmI3U1FLbGZlQmUyaTN2a2RDczRFbFN1ZEtrd2NEVC1va3FNTVdzQndNOXkxVFFNampGQUZLMnlnQWVKa19NZTZKUUg2NEY1QXROaDlLUndtQWZUQXFDbU53M01yNXE4WGR1dXBHVkp3X3pqTkcyQjFSakxwUGl2TmUycDZBSEkycS14Ymlmb1lrT0t5QlFRSHlTekFDYnRfV2M4TdIBxAFBVV95cUxNYXdqcDNQYm03OHR6aGN1QWZZMG5nR21QbDdReUdlN1IzOTI0ZlRlajN4V3cxekxjZFVWb1ZhbE5WcnBuVFpEZ2VYMVlxVXpudTVWNlJzaXF0OWNkcDJMOFhwdU1VcEk0bjJJV1FIQjBzMW8xc1h6cFI1TnNsbWhieXVydi1uN0hRWGdBUF9vOE5GMmpnbHZFMTlLOHZNYVIzNHhpaUFEY1FBNUJ6blROb0NkMTkyXzFyUkxONWtYV0tlVU1H?oc=5",
-      "words": [
-        "ceo",
-        "designate",
-        "infosys",
-        "majumdar",
-        "mitrankur",
-        "old",
-        "shoes",
-        "takes"
-      ]
-    },
-    {
-      "at": "2026-09-21T01:32:41.606256+00:00",
       "handle": "News: India semiconductors",
       "headline": "Kelington bags record RM1.8b semiconductor hookup contract in India",
       "tier": 0,
@@ -7606,23 +7589,34 @@
         "need",
         "now"
       ]
+    },
+    {
+      "at": "2026-09-25T12:47:38.074887+00:00",
+      "handle": "Microsoft India",
+      "headline": "Microsoft unveils major Copilot update with Home, Code, and Autopilot",
+      "tier": 1,
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "words": [
+        "article",
+        "autopilot",
+        "can",
+        "code",
+        "copilot",
+        "enable",
+        "every",
+        "evolves",
+        "expand",
+        "help",
+        "home",
+        "individual",
+        "introducing",
+        "microsoft"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789980627483",
-    "1789980727259",
-    "1789980768781",
-    "1789980783637",
-    "1789980832833",
-    "1789980960315",
-    "1789981177948",
-    "1789741493110",
-    "1789959884611",
-    "1789960878840",
-    "1789961909308",
-    "1789973100658",
     "1789973737059",
     "1789973880694",
     "1789973907085",
@@ -13610,10 +13604,22 @@
     "1790337830994",
     "1790337840709",
     "1790254812349",
-    "1790335140808"
+    "1790335140808",
+    "1790317473070",
+    "1790318493576",
+    "1790324976791",
+    "1790332380866",
+    "1790333400208",
+    "1790333685584",
+    "1790334240676",
+    "1790339403569",
+    "1790339437348",
+    "1790339455700",
+    "1790339592994",
+    "1790339828215"
   ],
   "last_digest_hour": "2026-09-25T18",
-  "last_success": "2026-09-25T12:32:25.038970+00:00",
+  "last_success": "2026-09-25T12:47:38.198289+00:00",
   "national": {
     "alerted": [
       {
@@ -15699,6 +15705,24 @@
           "nagaland",
           "part"
         ]
+      },
+      {
+        "at": "2026-09-25T12:52:38.978036+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 4.5 earthquake -- 72 km E of Thang, India.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txk0",
+        "words": [
+          "2026",
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "reported",
+          "sep",
+          "thang",
+          "usgs"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -16041,7 +16065,7 @@
       "CG-DL-E-25092026-276500",
       "CG-DL-E-25092026-276492"
     ],
-    "last_run": "2026-09-25T12:35:54.393484+00:00",
+    "last_run": "2026-09-25T12:52:38.978735+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17586,7 +17610,13 @@
       "gazette:CG-DL-E-25092026-276492",
       "pib:2314970",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-nippon-yield-maximiser-aif-scheme-i_104739.html",
-      "pib:2314976"
+      "pib:2314976",
+      "pib:2315003",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63668",
+      "quake:usgs:us6000txk0",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63670",
+      "pib:2315004",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63669"
     ],
     "source_failures": {
       "CBI": {
@@ -18636,21 +18666,21 @@
     "linkedin": 1790168556912,
     "meta": 1790284555669,
     "microsoft": 1790337830994,
-    "microsoft india": 1790302420156,
+    "microsoft india": 1790339592994,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
     "news: big tech platforms": 1790327084580,
-    "news: consumer internet india": 1790330722918,
+    "news: consumer internet india": 1790339455700,
     "news: global ai": 1790328600592,
     "news: global chips": 1790316240878,
     "news: global it services": 1790283600286,
-    "news: india ai deeptech": 1790336340892,
+    "news: india ai deeptech": 1790339828215,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790336367527,
     "news: india semiconductors": 1790331156892,
     "news: india tech policy": 1790335140808,
     "news: india telecom": 1790337840709,
-    "news: indian it majors": 1790332380418,
+    "news: indian it majors": 1790332380866,
     "news: indian it midcaps": 1790333520842,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790325780364,
@@ -18672,7 +18702,7 @@
     "sarvam ai": 1790254919948,
     "swiggy": 1789214456821,
     "tata electronics": 1789738328115,
-    "trai": 1790334306392,
+    "trai": 1790339437348,
     "xai": 1790100175347,
     "zinnov": 1790318797256,
     "zoho": 1790354886793
@@ -18689,17 +18719,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T12:32:25.254598+00:00",
+    "last_server_run": "2026-09-25T12:47:38.555951+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-25T10:33:37.266862+00:00",
+        "checked": "2026-09-25T12:48:28.155954+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-25T10:33:28.046673+00:00",
+        "checked": "2026-09-25T12:48:14.227231+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -18775,7 +18805,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-25T10:33:32.364162+00:00",
+        "checked": "2026-09-25T12:48:24.539963+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
