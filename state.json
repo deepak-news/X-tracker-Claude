@@ -13628,7 +13628,7 @@
     "1790332380138"
   ],
   "last_digest_hour": "2026-09-26T04",
-  "last_success": "2026-09-25T23:02:16.131406+00:00",
+  "last_success": "2026-09-25T23:16:52.038151+00:00",
   "national": {
     "alerted": [
       {
@@ -16190,7 +16190,7 @@
       "CG-DL-E-25092026-276517",
       "CG-WB-E-25092026-276516"
     ],
-    "last_run": "2026-09-25T23:05:07.339749+00:00",
+    "last_run": "2026-09-25T23:21:42.400921+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18896,17 +18896,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T23:02:16.503571+00:00",
+    "last_server_run": "2026-09-25T23:16:52.394480+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-25T21:18:03.186205+00:00",
+        "checked": "2026-09-25T23:18:13.196445+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-25T21:17:55.293531+00:00",
+        "checked": "2026-09-25T23:18:05.859464+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -18982,7 +18982,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-25T21:17:59.240657+00:00",
+        "checked": "2026-09-25T23:18:09.403252+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -19036,11 +19036,11 @@
       },
       "last": {
         "calendar": "2026-09-25T17:32:55.416363+00:00",
-        "ls_reports": "2026-09-25T21:17:39.596039+00:00",
-        "rs_committee_press": "2026-09-25T21:17:49.867246+00:00",
-        "rs_press": "2026-09-25T21:17:46.590441+00:00",
-        "rs_reports": "2026-09-25T21:17:43.765720+00:00",
-        "rs_updates": "2026-09-25T21:17:51.389314+00:00"
+        "ls_reports": "2026-09-25T23:17:51.286209+00:00",
+        "rs_committee_press": "2026-09-25T23:18:00.098501+00:00",
+        "rs_press": "2026-09-25T23:17:57.512012+00:00",
+        "rs_reports": "2026-09-25T23:17:54.853373+00:00",
+        "rs_updates": "2026-09-25T23:18:02.031782+00:00"
       }
     },
     "scanned": [
