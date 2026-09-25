@@ -7584,7 +7584,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789975196266",
     "1789975319837",
     "1789975460862",
     "1789975467094",
@@ -13583,10 +13582,11 @@
     "1790315427312",
     "1790315700156",
     "1790316482671",
-    "1790317322074"
+    "1790317322074",
+    "1790318797256"
   ],
   "last_digest_hour": "2026-09-25T12",
-  "last_success": "2026-09-25T06:32:26.575913+00:00",
+  "last_success": "2026-09-25T06:48:38.957928+00:00",
   "national": {
     "alerted": [
       {
@@ -15905,7 +15905,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T06:37:03.252692+00:00",
+    "last_run": "2026-09-25T06:52:06.287434+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17390,7 +17390,9 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mixed-4x400m-relay-team-on-winning-silver-medal-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-impact-of-make-in-india-on-completing-12-years",
       "pib:2314684",
-      "pib:2314694"
+      "pib:2314694",
+      "pib:2314721",
+      "pib:2314723"
     ],
     "source_failures": {
       "CBI": {
@@ -18275,6 +18277,7 @@
       "https://zinnov.com/centers-of-excellence/global-capability-centers-101-all-you-need-to-know-about-gccs-blog": "2026-09-17T07:46:58.935689+00:00",
       "https://zinnov.com/centers-of-excellence/how-india-health-and-pharma-gccs-can-scale-ai-blog": "2026-09-22T08:32:07.205805+00:00",
       "https://zinnov.com/centers-of-excellence/how-is-apac-reshaping-the-global-coe-landscape-reports": "2026-09-17T07:46:58.935689+00:00",
+      "https://zinnov.com/centers-of-excellence/setup-your-global-capability-center-gcc-the-right-way-a-ceos-guide-2026-video": "2026-09-25T06:46:37.347632+00:00",
       "https://zinnov.com/centers-of-excellence/the-future-of-gccs-in-india-2026-leadership-ai-native-gccs-talent-and-the-next-phase-of-growth-blog": "2026-09-17T07:46:58.935689+00:00",
       "https://zinnov.com/centers-of-excellence/the-role-of-6-cities-in-india-gcc-growth-tier-1-city-analysis-report": "2026-09-17T07:46:58.935689+00:00",
       "https://zinnov.com/centers-of-excellence/what-no-one-tells-you-why-gccs-are-set-up-blog": "2026-09-17T07:46:58.935689+00:00",
@@ -18481,7 +18484,7 @@
     "tata electronics": 1789738328115,
     "trai": 1790231897291,
     "xai": 1790100175347,
-    "zinnov": 1790310715285,
+    "zinnov": 1790318797256,
     "zoho": 1790261108092
   },
   "watch": {
@@ -18496,7 +18499,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T06:32:26.786954+00:00",
+    "last_server_run": "2026-09-25T06:48:39.291392+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T06:06:08.221035+00:00",
