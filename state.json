@@ -7600,16 +7600,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789974804745",
-    "1789974900211",
-    "1789975183266",
-    "1789975800218",
-    "1789976681788",
-    "1789976710607",
-    "1789976822693",
-    "1789977124467",
-    "1789977134026",
-    "1789977166463",
     "1789977354194",
     "1789977596716",
     "1789919862224",
@@ -13599,10 +13589,20 @@
     "2312900",
     "1790242214043",
     "1790318940957",
-    "1790325568512"
+    "1790325568512",
+    "1790306734070",
+    "1790322120535",
+    "1790322684806",
+    "1790322788499",
+    "1790326709681",
+    "1790326880502",
+    "1790327084343",
+    "1790327273888",
+    "2314819",
+    "2314820"
   ],
   "last_digest_hour": "2026-09-25T14",
-  "last_success": "2026-09-25T09:02:43.413990+00:00",
+  "last_success": "2026-09-25T09:16:47.033277+00:00",
   "national": {
     "alerted": [
       {
@@ -15921,7 +15921,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T09:06:13.483745+00:00",
+    "last_run": "2026-09-25T09:22:47.477866+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17421,7 +17421,12 @@
       "pib:2314798",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63664",
       "pib:2314807",
-      "pib:2314811"
+      "pib:2314811",
+      "pib:2314819",
+      "pib:2314815",
+      "pib:2314814",
+      "cci-merger:C-2026/08/1452|Exempt/Not a Combination",
+      "pib:2314820"
     ],
     "source_failures": {
       "CBI": {
@@ -17431,6 +17436,9 @@
       "DGFT": {
         "count": 17,
         "until": "2026-09-25T10:17:25.056656+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -17461,7 +17469,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Australia steps up AI response after OpenAI health breach",
+      "post": {
+        "created_at": "2026-09-25T07:42:00+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1790322120535",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "Australia steps up response to AI after OpenAI bot breaches health system database",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdHhOLU84SjR0TlJ5c2l5UXRDQ3FJWFBqYkdVWXhBcjlYNG1JZkxmWEh5cVhGVzB2YVNlY25FbS1pR0l0V2xQMVhWQ3Z4eXI0UHJGVUkxU2JldHRjYUwySVp1TDNkNF9ZQlFPMk1VQjczYnJlUllnaGFZY2Q2MmtzeUpXemVuVEVreTVBb1NTWXVtVEpWbk9PeTFZbUdGdHJkSUFpMDJmUW80c0dETW5zMERWRWg4RU9nZkVPNU5nT01TbEZhSURhQnFXS1lxSDNpSzNGamFrUXJZVURoanhaTGx6OWFwSmh1SHlLTW1LWW83bVA2REFVUi14QTBvQdIB_gFBVV95cUxQdHhOLU84SjR0TlJ5c2l5UXRDQ3FJWFBqYkdVWXhBcjlYNG1JZkxmWEh5cVhGVzB2YVNlY25FbS1pR0l0V2xQMVhWQ3Z4eXI0UHJGVUkxU2JldHRjYUwySVp1TDNkNF9ZQlFPMk1VQjczYnJlUllnaGFZY2Q2MmtzeUpXemVuVEVreTVBb1NTWXVtVEpWbk9PeTFZbUdGdHJkSUFpMDJmUW80c0dETW5zMERWRWg4RU9nZkVPNU5nT01TbEZhSURhQnFXS1lxSDNpSzNGamFrUXJZVURoanhaTGx6OWFwSmh1SHlLTW1LWW83bVA2REFVUi14QTBvQQ?oc=5"
+      },
+      "queued_at": "2026-09-25T09:16:46.992547+00:00",
+      "score": 7.0,
+      "why": "Major AI company security incident involving government systems falls under required disclosures for major AI labs."
+    },
+    {
+      "headline": "Sarvam AI updates vision model and Indic-language push",
+      "post": {
+        "created_at": "2026-09-25T09:07:53+00:00",
+        "handle": "News: India AI deeptech",
+        "id": "1790327273888",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "Sarvam AI updates vision model, doubles down on Indic-language push",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUldjR2pKVm1iVzk1NG93RkJuV0YwUWhwY3Ywd2lrZWxTNnpHMkRkSDk2aUl4X0JNQVAzY0VKdzBYZWVfNEZSOUFoQ1VfZEtGTXV2Q2tfSEQzd2MzNGpJZ3c3SW5hcGRyY05SaVFwbVBfRUExeGxyeWF0a2FGVGZ6TjlwZjZXemlfb3RQVkhvQkpMcWM1cXZtbmNfbzY1Qy1GTU1VYkIxT3c1ZG9SMWNoVVdWVW50cUJlR29wR3loaEp0NzUyZDlGelp1ZlVKLVJMS0RNNHV6TmdETWdpMndhZnd1NNIB6AFBVV95cUxNclBLbG15VmpyUjNmejI5ODJKVGJHLWdBZlFQelhqeGxFZnZYVFYxQWpmWnlVOWtNVlVMWDFMUWZrUGFKZlduMm1QUzl5dDRMT0Q4RzZxczRGUmhJbHM4MXlrNFBfczJxZ2NwQllQZkJfNEpyS3ZFMjlRN3NmQ2taQlpNQkxfeVNXRlNzSUlvMUdjbmxWZzBDMHhrRWZBRnFIN1RmYXhNWnJSUWVZRE81VVdyYmRtYk04RHNMb2U0ZWtfcXZibHFpWTJxUHc1Z0dLaXRQMk0yZnY4bkRINnRJVy04TkdzSmFQ?oc=5"
+      },
+      "queued_at": "2026-09-25T09:16:46.992547+00:00",
+      "score": 7.0,
+      "why": "Significant domestic AI model update and product push from a watched Indian deeptech firm."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18474,19 +18519,19 @@
     "microsoft india": 1790302420156,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790320528637,
+    "news: big tech platforms": 1790327084343,
     "news: consumer internet india": 1790323886232,
     "news: global ai": 1790316240878,
     "news: global chips": 1790316240878,
     "news: global it services": 1790283600286,
-    "news: india ai deeptech": 1790320524966,
+    "news: india ai deeptech": 1790327273888,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790324393070,
+    "news: india fintech": 1790326709681,
     "news: india semiconductors": 1790323103638,
     "news: india tech policy": 1790319327745,
-    "news: india telecom": 1790325481683,
+    "news: india telecom": 1790326880502,
     "news: indian it majors": 1790321864593,
-    "news: indian it midcaps": 1790315280228,
+    "news: indian it midcaps": 1790322120535,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790319480479,
     "nvidia": 1790258450056,
@@ -18496,7 +18541,7 @@
     "phonepe": 1790243188249,
     "pib communications": 2313673,
     "pib meity": 2313324,
-    "pib science and technology": 2314491,
+    "pib science and technology": 2314820,
     "razorpay": 1790239817010,
     "redseer": 1790238736972,
     "reg cci": 1790035200881,
@@ -18524,7 +18569,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T09:02:43.675488+00:00",
+    "last_server_run": "2026-09-25T09:16:47.364381+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T08:18:48.988133+00:00",
