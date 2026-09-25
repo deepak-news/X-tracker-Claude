@@ -7623,9 +7623,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789979848388",
-    "1789983057653",
-    "1789983099685",
     "1789983132031",
     "1789983263602",
     "1789983296811",
@@ -13622,10 +13619,13 @@
     "1790344274215",
     "1790347903073",
     "1790349171251",
-    "1790350140564"
+    "1790350140564",
+    "1790340180042",
+    "1790347309697",
+    "1790348230664"
   ],
   "last_digest_hour": "2026-09-25T22",
-  "last_success": "2026-09-25T16:47:26.358874+00:00",
+  "last_success": "2026-09-25T17:02:21.848497+00:00",
   "national": {
     "alerted": [
       {
@@ -16086,9 +16086,10 @@
       "CG-DL-E-25092026-276498",
       "CG-DL-E-25092026-276499",
       "CG-DL-E-25092026-276500",
-      "CG-DL-E-25092026-276492"
+      "CG-DL-E-25092026-276492",
+      "CG-DL-E-25092026-276505"
     ],
-    "last_run": "2026-09-25T16:52:14.863460+00:00",
+    "last_run": "2026-09-25T17:07:50.807907+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17668,7 +17669,8 @@
       "pib:2315163",
       "pib:2315165",
       "pib:2315161",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63674"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63674",
+      "gazette:CG-DL-E-25092026-276505"
     ],
     "source_failures": {
       "CBI": {
@@ -17678,9 +17680,6 @@
       "DGFT": {
         "count": 19,
         "until": "2026-09-25T22:19:16.488767+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -18774,7 +18773,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T16:47:26.699569+00:00",
+    "last_server_run": "2026-09-25T17:02:22.183956+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T16:49:26.115924+00:00",
@@ -19134,6 +19133,7 @@
       "CG-DL-E-25092026-276498",
       "CG-DL-E-25092026-276499",
       "CG-DL-E-25092026-276500",
+      "CG-DL-E-25092026-276505",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
