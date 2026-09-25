@@ -7600,9 +7600,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789972123187",
-    "1789972647819",
-    "1789973580094",
     "1789974804745",
     "1789974900211",
     "1789975183266",
@@ -13599,10 +13596,13 @@
     "1790320528637",
     "1790324705813",
     "1790325481683",
-    "2312900"
+    "2312900",
+    "1790242214043",
+    "1790318940957",
+    "1790325568512"
   ],
   "last_digest_hour": "2026-09-25T14",
-  "last_success": "2026-09-25T08:47:14.399966+00:00",
+  "last_success": "2026-09-25T09:02:43.413990+00:00",
   "national": {
     "alerted": [
       {
@@ -15921,7 +15921,7 @@
       "CG-DL-E-24092026-276485",
       "CG-DL-E-25092026-276486"
     ],
-    "last_run": "2026-09-25T08:50:04.045882+00:00",
+    "last_run": "2026-09-25T09:06:13.483745+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17419,7 +17419,9 @@
       "pib:2314792",
       "pib:2314795",
       "pib:2314798",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63664"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63664",
+      "pib:2314807",
+      "pib:2314811"
     ],
     "source_failures": {
       "CBI": {
@@ -18412,7 +18414,7 @@
   },
   "seen": {
     "airtel": 1790056002703,
-    "amazon india": 1789988988474,
+    "amazon india": 1790325568512,
     "amd": 1788174900103,
     "anthropic": 1790187388931,
     "apple": 1790081961621,
@@ -18522,7 +18524,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T08:47:14.742780+00:00",
+    "last_server_run": "2026-09-25T09:02:43.675488+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T08:18:48.988133+00:00",
