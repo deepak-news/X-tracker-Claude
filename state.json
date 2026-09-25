@@ -7626,8 +7626,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789979434686",
-    "1789979864391",
     "1789980178803",
     "1789980928294",
     "1789981633412",
@@ -13625,10 +13623,12 @@
     "1790332380344",
     "1790337096352",
     "1790348760189",
-    "1790361540470"
+    "1790361540470",
+    "1790355360420",
+    "1790359220613"
   ],
   "last_digest_hour": "2026-09-26T00",
-  "last_success": "2026-09-25T19:02:59.080866+00:00",
+  "last_success": "2026-09-25T19:16:56.946767+00:00",
   "national": {
     "alerted": [
       {
@@ -16131,7 +16131,7 @@
       "CG-DL-E-25092026-276517",
       "CG-WB-E-25092026-276516"
     ],
-    "last_run": "2026-09-25T19:06:15.091700+00:00",
+    "last_run": "2026-09-25T19:19:13.962619+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17789,6 +17789,24 @@
       "queued_at": "2026-09-25T19:02:59.034146+00:00",
       "score": 8.0,
       "why": "Significant update on trade association protests and merchant sentiment regarding UPI MDR charges."
+    },
+    {
+      "headline": "SK Hynix's Solidigm considers IPO valuing unit up to $150 billion",
+      "post": {
+        "created_at": "2026-09-25T16:56:00+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1790355360420",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion: Report",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUUZJXzhTYkFjMGFINHJDUDlYZnQxTU1xeTZtdDJ1RDJWVzFZUERjYVFWTTRxUjk4dzJId0MyZXNCZVJwYWc2RG9ld09vZ2NRUlJVWlhoM0U3RmcydHFEN0RaTjBONXVHVkh2aFlZZjBTNXhDTXh4SDUyRk1lOWgtOVR2WWZPUTVMcW56VUV0U2ZzWThaVUJadHFXcHZKRGVCLWZwQUJGSGgtSVNRekg2ajRHNHZvRlhqR19OdUVkVFEyVnlpM3ZQWUhIdmxLRDhINlJ0NmV0ekVUMXdEc3JDUV9aVGhOeGtzTGdTMmJn0gHuAUFVX3lxTE1RRklfOFNiQWMwYUg0ckNQOVhmdDFNTXF5Nm10MnVEMlZXMVlQRGNhUVZNNHFSOTh3Mkh3QzJlc0JlUnBhZzZEb2V3T29nY1FSUlVaWGgzRTdGZzJ0cUQ3RFpOME41dUdWSHZoWVlmMFM1eENNeHhINTJGTWU5aC05VHZZZk9RNUxxbnpVRXRTZnNZOFpVQlp0cVdwdkpEZUItZnBBQkZIaC1JU1F6SDZqNEc0dm9GWGpHX051RWRUUTJWeWkzdlBZSEh2bEtEOEg2UnQ2ZXR6RVQxd0RzckNRX1pUaE54a3NMZ1MyYmc?oc=5"
+      },
+      "queued_at": "2026-09-25T19:16:56.901853+00:00",
+      "score": 8.0,
+      "why": "Major semiconductor IPO filing and listing report from a watched sector player."
     }
   ],
   "page_links": {
@@ -18814,7 +18832,7 @@
     "news: india tech policy": 1790343509379,
     "news: india telecom": 1790350302033,
     "news: indian it majors": 1790357357836,
-    "news: indian it midcaps": 1790355000827,
+    "news: indian it midcaps": 1790355360420,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790351760123,
     "nvidia": 1790258450056,
@@ -18853,7 +18871,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-25T19:02:59.441078+00:00",
+    "last_server_run": "2026-09-25T19:16:57.279046+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-25T19:04:54.458211+00:00",
