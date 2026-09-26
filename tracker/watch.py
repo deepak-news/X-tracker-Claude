@@ -254,6 +254,43 @@ def _dopt(entry: dict) -> list:
     return items
 
 
+CBI_ROWS = 50    # newest first; a busy week is about twenty FIRs
+
+
+def _cbi_fir(entry: dict) -> list:
+    """CBI FIRs: one row per case, newest first, with the FIR as a PDF.
+
+    The page lists every FIR back to the start -- over a thousand rows --
+    so only the newest CBI_ROWS are read. Each cell also carries a hidden
+    label for phones ("Location Of Registration"), which is removed.
+    """
+    soup = _fetch(entry["url"])
+    table = _table_with(soup, "regular case no", "date of registration")
+    if table is None:
+        raise RuntimeError("the FIR table was not where it usually is")
+    for label in table.select(".visible-xs"):
+        label.decompose()
+
+    items = []
+    for row in table.find_all("tr")[1:CBI_ROWS + 1]:
+        cells = _cells(row)
+        if len(cells) < 5:
+            continue
+        place, case_no, date = _tidy(cells[1]), _tidy(cells[2]), _tidy(cells[4])
+        if not case_no:
+            continue
+        link = row.find("a", href=True)
+        items.append(Item(
+            key=f"cbi:{case_no}",
+            source=entry.get("label") or entry["name"],
+            title=f"FIR {case_no} - {place}",
+            detail=f"Registered {date}" if date else "",
+            url=link["href"] if link else entry["url"],
+            mail_to=entry.get("mail_to") or RECIPIENT_ENV,
+        ))
+    return items
+
+
 def _next_page(session, url: str, soup: BeautifulSoup, grid: str, page: int):
     """Click a page number on an ASP.NET grid, which is a form post."""
     form = {i.get("name"): (i.get("value") or "")
@@ -584,7 +621,23 @@ BADGE = {"dopt": ("#1d4ed8", "DoPT ORDER"),
          "report": ("#0f766e", "COMMITTEE REPORT"),
          "meeting": ("#0e7490", "COMMITTEE MEETING"),
          "pr": ("#a16207", "PRESS RELEASE"),
-         "notice": ("#b45309", "NOTICE")}
+         "notice": ("#b45309", "NOTICE"),
+         "cbi": ("#7f1d1d", "CBI FIR")}
+
+
+CBI_LIST = "https://cbi.gov.in/view-fir"
+
+
+def _links(item) -> str:
+    """The links under an item. A CBI FIR's PDF only downloads -- it does
+    not open in the browser -- so the FIR list itself is linked as well."""
+    style = ("font:500 13px/1 -apple-system,Segoe UI,sans-serif;"
+             "color:#1d4ed8;text-decoration:none;")
+    if item.key.startswith("cbi:"):
+        return (f'<a href="{html.escape(item.url)}" style="{style}">Download the FIR (PDF) &darr;</a>'
+                f'<span style="color:#d1d5db;margin:0 10px;">|</span>'
+                f'<a href="{CBI_LIST}" style="{style}">All CBI FIRs &rarr;</a>')
+    return f'<a href="{html.escape(item.url)}" style="{style}">Open the source &rarr;</a>'
 
 
 def build_email(items: list, gap_note: str = "", name: str = "") -> tuple:
@@ -598,7 +651,7 @@ def build_email(items: list, gap_note: str = "", name: str = "") -> tuple:
                  "synopsis": "synopsis", "papers": "papers laid",
                  "bill": "bills", "report": "committee reports",
                  "meeting": "committee meetings", "pr": "press releases",
-                 "notice": "notices"}
+                 "notice": "notices", "cbi": "CBI FIRs"}
         subject = (f"{len(items)} government updates: "
                    + ", ".join(sorted(names.get(k, k) for k in kinds)))
 
@@ -626,10 +679,7 @@ def build_email(items: list, gap_note: str = "", name: str = "") -> tuple:
             {html.escape(item.title)}</div>
           {f'<div style="font:400 14px/1.55 -apple-system,Segoe UI,sans-serif;color:#4b5563;margin-top:6px;">{html.escape(item.detail)}</div>' if item.detail else ''}
           {extra}
-          <div style="margin-top:12px;">
-            <a href="{html.escape(item.url)}" style="font:500 13px/1 -apple-system,Segoe UI,sans-serif;
-               color:#1d4ed8;text-decoration:none;">Open the source &rarr;</a>
-          </div>
+          <div style="margin-top:12px;">{_links(item)}</div>
         </div>""")
 
     body = f"""<div style="max-width:640px;margin:0 auto;padding:24px 20px;background:#fff;">
@@ -750,6 +800,7 @@ def run(dry_run: bool) -> int:
             items = _try(entry["name"],
                          lambda: _sansad(entry, memory) if entry.get("sansad")
                          else _egazette(entry, scanned) if entry.get("category")
+                         else _cbi_fir(entry) if entry.get("cbi")
                          else _dopt(entry))
             print(f"  {entry['name']}: {len(items)} row(s) on the page")
             found.extend(items)
