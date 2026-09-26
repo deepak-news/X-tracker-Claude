@@ -7629,10 +7629,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789907940366",
-    "1789907940435",
-    "1789907940595",
-    "1789907940971",
     "1789921680434",
     "1789921680654",
     "1789921680773",
@@ -13628,10 +13624,14 @@
     "1790391127890",
     "1790403790325",
     "1790411095829",
-    "1790412262825"
+    "1790412262825",
+    "1790344138825",
+    "1790344860210",
+    "1790391127913",
+    "1790409606002"
   ],
   "last_digest_hour": "2026-09-26T14",
-  "last_success": "2026-09-26T09:02:22.915869+00:00",
+  "last_success": "2026-09-26T09:16:40.851083+00:00",
   "national": {
     "alerted": [
       {
@@ -16225,7 +16225,7 @@
       "CG-MH-E-26092026-276525",
       "CG-DL-E-26092026-276475"
     ],
-    "last_run": "2026-09-26T09:07:40.209518+00:00",
+    "last_run": "2026-09-26T09:21:09.485586+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17849,19 +17849,22 @@
       "gazette:CG-CG-E-26092026-276527",
       "gazette:CG-MH-E-26092026-276525",
       "gazette:CG-DL-E-26092026-276475",
-      "page:https://internal.imd.gov.in/press_release/20260926_pr_5343.pdf"
+      "page:https://internal.imd.gov.in/press_release/20260926_pr_5343.pdf",
+      "pib:2315270",
+      "pib:2315271",
+      "pib:2315272"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "CERT-In": {
-        "count": 1
-      },
       "DGFT": {
         "count": 21,
         "until": "2026-09-26T10:49:01.425600+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -18906,7 +18909,7 @@
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
     "news: big tech platforms": 1790411095829,
-    "news: consumer internet india": 1790409180076,
+    "news: consumer internet india": 1790409606002,
     "news: global ai": 1790400540449,
     "news: global chips": 1790388591135,
     "news: global it services": 1790352234410,
@@ -18956,7 +18959,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-26T09:02:23.253270+00:00",
+    "last_server_run": "2026-09-26T09:16:41.183322+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-26T07:48:37.063540+00:00",
