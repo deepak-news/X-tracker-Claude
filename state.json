@@ -7621,9 +7621,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789981995706",
-    "1789982100964",
-    "1789982101551",
     "1789984560522",
     "1789985069397",
     "1789985100827",
@@ -13620,10 +13617,13 @@
     "1790322046817",
     "1790338959012",
     "1790387147829",
-    "1790390038738"
+    "1790390038738",
+    "1790345880514",
+    "1790399529418",
+    "1790399667137"
   ],
   "last_digest_hour": "2026-09-26T10",
-  "last_success": "2026-09-26T05:02:18.904499+00:00",
+  "last_success": "2026-09-26T05:16:47.507775+00:00",
   "national": {
     "alerted": [
       {
@@ -16208,9 +16208,11 @@
       "CG-DL-E-26092026-276491",
       "CG-DL-E-26092026-276493",
       "CG-DL-E-26092026-276495",
-      "CG-MH-E-26092026-276494"
+      "CG-MH-E-26092026-276494",
+      "CG-CG-E-26092026-276487",
+      "CG-DL-E-26092026-276488"
     ],
-    "last_run": "2026-09-26T05:07:06.619620+00:00",
+    "last_run": "2026-09-26T05:20:53.228404+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17823,7 +17825,10 @@
       "gazette:CG-DL-E-26092026-276495",
       "gazette:CG-MH-E-26092026-276494",
       "gazette:CG-DL-E-26092026-276493",
-      "gazette:CG-DL-E-26092026-276491"
+      "gazette:CG-DL-E-26092026-276491",
+      "gazette:CG-DL-E-26092026-276488",
+      "gazette:CG-CG-E-26092026-276487",
+      "pib:2315219"
     ],
     "source_failures": {
       "CBI": {
@@ -17834,6 +17839,9 @@
         "count": 21,
         "until": "2026-09-26T10:49:01.425600+00:00"
       },
+      "IRDAI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -17841,9 +17849,6 @@
       "State: Tamil Nadu": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "State: Uttar Pradesh": {
-        "count": 1
       }
     },
     "sources": [
@@ -17866,7 +17871,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Open-source Bharat ABIS tool launched to tackle duplicate Aadhaar challenges",
+      "post": {
+        "created_at": "2026-09-26T05:14:27+00:00",
+        "handle": "News: India tech policy",
+        "id": "1790399667137",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "India Today",
+        "reposts": 0,
+        "text": "Duplicate Aadhaar is a big problem, open-source Bharat ABIS tool could help fix it",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQmdtck4yakZ0bDJuX3h1aDE5b3pnWnFBNWZyTjNORXhBTFI4OEJ0TW9JOG50aWRBcWdGQU9jYS1uNkwzT1NuYjVVS3lBV3kxcVZ3Mm14N0NYSEFHNVdVNGpHLWNnSmVVZkRzd0VwX2xLM1lXdWQxQVZqQkV2cEE4SmZNYTlNbTBYemtpUjhwRmtQNFlzNEVsclozRXZEWU4zTXdDT0JDTkEwM1lUcEFvcWJCTlh1S29pdC0xc3pKNzVJQV9qLXNPbzYyMWhJNkFhSS0tLTljSlRkNFRpN2lCSWVoNmE0SDTSAecBQVVfeXFMUEJnbXJOMmpGdGwybl94dWgxOW96Z1pxQTVmck4zTkV4QUxSODhCdE1vSThudGlkQXFnRkFPY2EtbjZMM09TbmI1VUt5QVd5MXFWdzJteDdDWEhBRzVXVTRqRy1jZ0plVWZEc3dFcF9sSzNZV3VkMUFWakJFdnBBOEpmTWE5TW0wWHpraVI4cEZrUDRZczRFbHJaM0V2RFlOM013Q09CQ05BMDNZVHBBb3FiQk5YdUtvaXQtMXN6Sjc1SUFfai1zT282MjFoSTZBYUktLS05Y0pUZDRUaTdpQkllaDZhNEg0?oc=5"
+      },
+      "queued_at": "2026-09-26T05:16:47.478231+00:00",
+      "score": 7.0,
+      "why": "Significant government technology and biometric deduplication development with strong local impact."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -18885,9 +18909,9 @@
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790369132653,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790382360822,
+    "news: india fintech": 1790399529418,
     "news: india semiconductors": 1790390038738,
-    "news: india tech policy": 1790392140800,
+    "news: india tech policy": 1790399667137,
     "news: india telecom": 1790387518769,
     "news: indian it majors": 1790390040122,
     "news: indian it midcaps": 1790363422477,
@@ -18929,7 +18953,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-26T05:02:19.245200+00:00",
+    "last_server_run": "2026-09-26T05:16:47.714254+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-26T03:33:33.476485+00:00",
@@ -19085,6 +19109,7 @@
       "CG-BR-E-21092026-276348",
       "CG-BR-E-22092026-276400",
       "CG-CG-E-23092026-276409",
+      "CG-CG-E-26092026-276487",
       "CG-DL-E-15092026-276194",
       "CG-DL-E-15092026-276195",
       "CG-DL-E-15092026-276196",
@@ -19297,6 +19322,7 @@
       "CG-DL-E-25092026-276506",
       "CG-DL-E-25092026-276514",
       "CG-DL-E-25092026-276517",
+      "CG-DL-E-26092026-276488",
       "CG-DL-E-26092026-276489",
       "CG-DL-E-26092026-276491",
       "CG-DL-E-26092026-276493",
