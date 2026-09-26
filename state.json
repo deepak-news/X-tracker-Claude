@@ -7631,8 +7631,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789987641205",
-    "1789987800746",
     "1789988484243",
     "1789988547565",
     "1789989060448",
@@ -13630,10 +13628,12 @@
     "1790432820387",
     "1790432820184",
     "1790436970926",
-    "1790439224527"
+    "1790439224527",
+    "1790433858951",
+    "1790436749749"
   ],
   "last_digest_hour": "2026-09-26T22",
-  "last_success": "2026-09-26T16:32:10.771701+00:00",
+  "last_success": "2026-09-26T16:46:48.521461+00:00",
   "national": {
     "alerted": [
       {
@@ -16285,7 +16285,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-26T16:34:48.890894+00:00",
+    "last_run": "2026-09-26T16:48:56.856981+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17965,6 +17965,9 @@
         "count": 22,
         "until": "2026-09-26T17:03:22.352183+00:00"
       },
+      "IRDAI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -17994,7 +17997,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "IIT-Madras deep tech fund announces Rs 450 crore first close",
+      "post": {
+        "created_at": "2026-09-26T15:32:29+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790436749749",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Hindu",
+        "reposts": 0,
+        "text": "IIT-Madras deep tech fund achieves \u20b9450 crore first close",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMW9kTHlReU1iNFUxdktNVzM0N3ExNnZVR2o5NW1fdnJXRDJDZTlESzVuQWtQNWZwUWphZ2lFNE9wTkIxenQ4cEltbG5NeW00OVhkZjhVN0JoeVRuZW95RDdLWk41cS1aazhhcml6NXUxdXdNTEdhNG56dTcxemRaSzZIX01MVkd0U3Ffb0lXS3hFTjR4SFUwYWc0TFNCS240QVRHazRaQ0JIajByNE9DRnFsWE5SREtQbjlkOGpyS0wyNVhPZVdxclZ2RdIBywFBVV95cUxNMW9kTHlReU1iNFUxdktNVzM0N3ExNnZVR2o5NW1fdnJXRDJDZTlESzVuQWtQNWZwUWphZ2lFNE9wTkIxenQ4cEltbG5NeW00OVhkZjhVN0JoeVRuZW95RDdLWk41cS1aazhhcml6NXUxdXdNTEdhNG56dTcxemRaSzZIX01MVkd0U3Ffb0lXS3hFTjR4SFUwYWc0TFNCS240QVRHazRaQ0JIajByNE9DRnFsWE5SREtQbjlkOGpyS0wyNVhPZVdxclZ2RQ?oc=5"
+      },
+      "queued_at": "2026-09-26T16:46:48.471874+00:00",
+      "score": 8.0,
+      "why": "Significant startup funding milestone from a premier Indian institution's deep tech fund."
+    },
+    {
+      "headline": "US jury orders Apple to pay $5.7 billion in patent case",
+      "post": {
+        "created_at": "2026-09-26T14:44:18+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1790433858951",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "US jury says Apple owes record $5.7 billion in haptic technology patent case",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2hLeUtuelo0S1BPMU5nOUtiTTZzZGp5aTJFcHpzYkk1OU0zMFh1VzJwQXRjRWlsdXowakx4OWFkckx5Y2xPUHliaFRYSW5IT0UzNFNPSnNIcEhJQlVEUWF2Nm10eFJkZ0VicDlrdmJ4amVTbEM5WVFEdFJXZERRcC1oSFlsRnNBaGZCZDJ6XzZjaVRrNE13Y1E2blVfd2NqVkd5dUx4eTR6UTRudHhLN3gxclo2UGpXVGpsX3VQZVBmc1ZmOHlpYWJDOFJTZjFSbl9YZENsbTFqNTVsQjRnMzEzak84cXU3UXE1b0x4TC3SAfYBQVVfeXFMT2NHSG5SZjktTUZHVU80aHp6YXdVZ1lsZjVPMzNxamtPbEJ4SFN6QkljR2VWN29ROUtLOFUxRzFkT250UndLdFFqd2pQcWpULWU5OWUyWExuRWlDV2R5X3pyTm91N2xzTXM4TnZKb09qb3NMLVoyN0RQX3I2RndXN3Ziei1wYnRGbEhGLUF0bGxCQ25MMU0xUzVOSDRxWklhcUFSX2RkSkljTndxYndkM3VrYWMxdTc5UUhRajZYdHBGOHBfaTl3aXcyOEZtMVpUVi0taF9WU1V3Wm5va0lYQ1l3OHp0bFFWNEhCUG8tbGxtS1EzcDVn?oc=5"
+      },
+      "queued_at": "2026-09-26T16:46:48.471874+00:00",
+      "score": 7.0,
+      "why": "Massive legal financial penalty against Apple involving major tech hardware technology."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19007,7 +19047,7 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790426521564,
+    "news: big tech platforms": 1790433858951,
     "news: consumer internet india": 1790439224527,
     "news: global ai": 1790406207804,
     "news: global chips": 1790388591641,
@@ -19058,7 +19098,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-26T16:32:11.123191+00:00",
+    "last_server_run": "2026-09-26T16:46:48.862139+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-26T16:19:02.055668+00:00",
