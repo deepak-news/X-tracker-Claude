@@ -7629,8 +7629,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789985433224",
-    "1789985874306",
     "1789987620353",
     "1789987620583",
     "1789988640439",
@@ -13628,10 +13626,12 @@
     "1790341534849",
     "1790413745511",
     "1790417442266",
-    "1790417851355"
+    "1790417851355",
+    "1790390040376",
+    "1790408134422"
   ],
   "last_digest_hour": "2026-09-26T16",
-  "last_success": "2026-09-26T10:31:54.858378+00:00",
+  "last_success": "2026-09-26T10:46:43.303002+00:00",
   "national": {
     "alerted": [
       {
@@ -16247,9 +16247,11 @@
       "CG-MH-E-26092026-276525",
       "CG-DL-E-26092026-276475",
       "CG-AP-E-26092026-276529",
-      "CG-DL-E-26092026-276530"
+      "CG-DL-E-26092026-276530",
+      "CG-AP-E-26092026-276531",
+      "CG-AP-E-26092026-276532"
     ],
-    "last_run": "2026-09-26T10:38:11.110615+00:00",
+    "last_run": "2026-09-26T10:48:57.389018+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17879,7 +17881,9 @@
       "pib:2315272",
       "pib:2315288",
       "gazette:CG-AP-E-26092026-276529",
-      "gazette:CG-DL-E-26092026-276530"
+      "gazette:CG-DL-E-26092026-276530",
+      "gazette:CG-AP-E-26092026-276532",
+      "gazette:CG-AP-E-26092026-276531"
     ],
     "source_failures": {
       "CBI": {
@@ -18946,7 +18950,7 @@
     "news: indian it majors": 1790397782846,
     "news: indian it midcaps": 1790406000735,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790390100999,
+    "news: tech leaders": 1790408134422,
     "nvidia": 1790258450056,
     "nvidia blog": 1790258450056,
     "openai": 1790362800983,
@@ -18983,7 +18987,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-26T10:31:55.207113+00:00",
+    "last_server_run": "2026-09-26T10:46:43.636389+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-26T10:04:15.357592+00:00",
@@ -19136,6 +19140,8 @@
       "CG-AP-E-21092026-276343",
       "CG-AP-E-23092026-276403",
       "CG-AP-E-26092026-276529",
+      "CG-AP-E-26092026-276531",
+      "CG-AP-E-26092026-276532",
       "CG-BR-E-15092026-276210",
       "CG-BR-E-21092026-276348",
       "CG-BR-E-22092026-276400",
