@@ -7627,8 +7627,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789987491387",
-    "1789987587702",
     "1789987920204",
     "1789988640158",
     "1789988814521",
@@ -13626,10 +13624,12 @@
     "1790425816417",
     "1790442660080",
     "1790445979938",
-    "1790442000406"
+    "1790442000406",
+    "1790392973532",
+    "1790448060313"
   ],
   "last_digest_hour": "2026-09-27T00",
-  "last_success": "2026-09-26T18:46:37.024550+00:00",
+  "last_success": "2026-09-26T19:02:17.896597+00:00",
   "national": {
     "alerted": [
       {
@@ -15897,6 +15897,25 @@
           "tonnes",
           "unit"
         ]
+      },
+      {
+        "at": "2026-09-26T19:04:49.686708+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 4.7 earthquake -- 5 km N of Bowangshan, China.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj",
+        "words": [
+          "2026",
+          "bowangshan",
+          "china",
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "reported",
+          "sep",
+          "usgs"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -16281,7 +16300,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-26T18:48:10.650633+00:00",
+    "last_run": "2026-09-26T19:04:49.687387+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17950,7 +17969,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-tilottama-sen-vidarsa-vinod-kochalumkal-and-ashi-chouksey-on-winning-silver-medal-in-womens-50m-rifle-3-positions-team-event-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-joshna-chinappa-and-velavan-senthilkumar-on-winning-bronze-medal-in-squash-mixed-team-event-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mens-kabaddi-team-on-retaining-asian-games-gold",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-womens-kabaddi-team-on-winning-gold-medal"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-womens-kabaddi-team-on-winning-gold-medal",
+      "quake:usgs:us6000txuj"
     ],
     "source_failures": {
       "CBI": {
@@ -19013,7 +19033,7 @@
     "news: india fintech": 1790445979938,
     "news: india semiconductors": 1790432820387,
     "news: india tech policy": 1790425816417,
-    "news: india telecom": 1790397529684,
+    "news: india telecom": 1790448060313,
     "news: indian it majors": 1790436970926,
     "news: indian it midcaps": 1790406000735,
     "news: pib releases": 1790159940641,
@@ -19054,7 +19074,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-26T18:46:37.364429+00:00",
+    "last_server_run": "2026-09-26T19:02:18.249892+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-26T18:33:44.472480+00:00",
