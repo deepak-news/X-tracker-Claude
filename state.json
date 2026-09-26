@@ -13629,7 +13629,7 @@
     "1790448060822"
   ],
   "last_digest_hour": "2026-09-27T04",
-  "last_success": "2026-09-26T22:46:56.680915+00:00",
+  "last_success": "2026-09-26T23:02:10.343813+00:00",
   "national": {
     "alerted": [
       {
@@ -16300,7 +16300,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-26T22:48:49.277691+00:00",
+    "last_run": "2026-09-26T23:06:10.885127+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17978,8 +17978,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "DGFT": {
-        "count": 23,
-        "until": "2026-09-26T23:04:05.192590+00:00"
+        "count": 24,
+        "until": "2026-09-27T05:04:09.486368+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -19074,7 +19074,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-26T22:46:57.011852+00:00",
+    "last_server_run": "2026-09-26T23:02:10.677888+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-26T22:48:11.853209+00:00",
