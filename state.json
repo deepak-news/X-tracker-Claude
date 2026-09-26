@@ -7620,8 +7620,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789986018744",
-    "1789986373684",
     "1789986621703",
     "1790006080228",
     "1789969047726",
@@ -13619,10 +13617,12 @@
     "1790388600263",
     "1790392140800",
     "1790385479695",
-    "1790387518255"
+    "1790387518255",
+    "1790344200903",
+    "1790390038575"
   ],
   "last_digest_hour": "2026-09-26T09",
-  "last_success": "2026-09-26T03:46:52.331923+00:00",
+  "last_success": "2026-09-26T04:02:18.841443+00:00",
   "national": {
     "alerted": [
       {
@@ -16204,7 +16204,7 @@
       "CG-DL-E-25092026-276517",
       "CG-WB-E-25092026-276516"
     ],
-    "last_run": "2026-09-26T03:49:45.119379+00:00",
+    "last_run": "2026-09-26T04:04:15.766921+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17809,7 +17809,9 @@
       "quake:usgs:us6000txpf",
       "quake:usgs:us6000txpi",
       "quake:usgs:us6000txql",
-      "pib:2315209"
+      "pib:2315209",
+      "pib:2315210",
+      "pib:2315211"
     ],
     "source_failures": {
       "CBI": {
@@ -18888,7 +18890,7 @@
     "news: india ai deeptech": 1790369132653,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790382360822,
-    "news: india semiconductors": 1790380800653,
+    "news: india semiconductors": 1790390038575,
     "news: india tech policy": 1790392140800,
     "news: india telecom": 1790387518255,
     "news: indian it majors": 1790367937773,
@@ -18931,7 +18933,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-26T03:46:52.675116+00:00",
+    "last_server_run": "2026-09-26T04:02:19.176399+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-26T03:33:33.476485+00:00",
