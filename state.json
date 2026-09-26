@@ -7629,10 +7629,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789988461343",
-    "1789988469733",
-    "1789988476147",
-    "1789988484465",
     "1789988599685",
     "1789988619623",
     "1789988756829",
@@ -13628,10 +13624,14 @@
     "1790338280610",
     "1790350738869",
     "1790406414793",
-    "1790406771162"
+    "1790406771162",
+    "1790335256765",
+    "1790404080437",
+    "1790407226045",
+    "1790411880447"
   ],
   "last_digest_hour": "2026-09-26T14",
-  "last_success": "2026-09-26T08:32:04.606193+00:00",
+  "last_success": "2026-09-26T08:47:34.117251+00:00",
   "national": {
     "alerted": [
       {
@@ -16222,9 +16222,10 @@
       "CG-CG-E-26092026-276527",
       "CG-DL-E-26092026-276526",
       "CG-DL-E-26092026-276528",
-      "CG-MH-E-26092026-276525"
+      "CG-MH-E-26092026-276525",
+      "CG-DL-E-26092026-276475"
     ],
-    "last_run": "2026-09-26T08:36:00.960615+00:00",
+    "last_run": "2026-09-26T08:53:06.255323+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17846,7 +17847,8 @@
       "gazette:CG-DL-E-26092026-276526",
       "gazette:CG-DL-E-26092026-276528",
       "gazette:CG-CG-E-26092026-276527",
-      "gazette:CG-MH-E-26092026-276525"
+      "gazette:CG-MH-E-26092026-276525",
+      "gazette:CG-DL-E-26092026-276475"
     ],
     "source_failures": {
       "CBI": {
@@ -17856,6 +17858,9 @@
       "DGFT": {
         "count": 21,
         "until": "2026-09-26T10:49:01.425600+00:00"
+      },
+      "SEBI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -18907,7 +18912,7 @@
     "news: india ai deeptech": 1790406414793,
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790408480760,
-    "news: india semiconductors": 1790404417626,
+    "news: india semiconductors": 1790411880447,
     "news: india tech policy": 1790399667137,
     "news: india telecom": 1790397529684,
     "news: indian it majors": 1790390040122,
@@ -18950,7 +18955,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-26T08:32:04.934270+00:00",
+    "last_server_run": "2026-09-26T08:47:34.467638+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-26T07:48:37.063540+00:00",
@@ -19320,6 +19325,7 @@
       "CG-DL-E-25092026-276506",
       "CG-DL-E-25092026-276514",
       "CG-DL-E-25092026-276517",
+      "CG-DL-E-26092026-276475",
       "CG-DL-E-26092026-276488",
       "CG-DL-E-26092026-276489",
       "CG-DL-E-26092026-276491",
@@ -19574,7 +19580,8 @@
       "gazette:CG-DL-E-25092026-276502|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-25092026-276502|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-25092026-276517|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-25092026-276517|MHA_FINANCE_MAIL_TO"
+      "gazette:CG-DL-E-25092026-276517|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-26092026-276475|GAZETTE_MAIL_TO"
     ]
   }
 }
