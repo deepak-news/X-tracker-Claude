@@ -7631,8 +7631,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789999740110",
-    "1790002294824",
     "1789921213022",
     "1789940962224",
     "1789976178203",
@@ -13630,10 +13628,12 @@
     "1790537040400",
     "1790535586534",
     "1790539303250",
-    "1790535586427"
+    "1790535586427",
+    "1790539740839",
+    "1790546460996"
   ],
   "last_digest_hour": "2026-09-28T03",
-  "last_success": "2026-09-27T22:02:13.131000+00:00",
+  "last_success": "2026-09-27T22:16:50.297570+00:00",
   "national": {
     "alerted": [
       {
@@ -16390,7 +16390,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T22:04:28.321269+00:00",
+    "last_run": "2026-09-27T22:17:59.259670+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19160,7 +19160,7 @@
     "naukri": 1790234460996,
     "news: big tech platforms": 1790531618490,
     "news: consumer internet india": 1790519062320,
-    "news: global ai": 1790534741065,
+    "news: global ai": 1790546460996,
     "news: global chips": 1790489220212,
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790521684752,
@@ -19209,7 +19209,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T22:02:13.468251+00:00",
+    "last_server_run": "2026-09-27T22:16:50.612375+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T20:47:31.287372+00:00",
