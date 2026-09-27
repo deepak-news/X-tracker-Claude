@@ -7621,12 +7621,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789937348224",
-    "1789948800875",
-    "1789953900352",
-    "1789962120260",
-    "1789970815057",
-    "1789976314094",
     "1789977720832",
     "1789978039663",
     "1789978780131",
@@ -13620,10 +13614,16 @@
     "1790501400360",
     "1790501478309",
     "1790501818833",
-    "2315531"
+    "2315531",
+    "1790422212312",
+    "1790475965380",
+    "1790496240014",
+    "1790497090195",
+    "1790497904710",
+    "1790502086188"
   ],
   "last_digest_hour": "2026-09-27T15",
-  "last_success": "2026-09-27T09:47:42.939388+00:00",
+  "last_success": "2026-09-27T10:02:03.892117+00:00",
   "national": {
     "alerted": [
       {
@@ -16294,7 +16294,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T09:48:45.204572+00:00",
+    "last_run": "2026-09-27T10:04:08.436773+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17976,7 +17976,8 @@
       "pib:2315523",
       "pib:2315530",
       "pib:2315531",
-      "pib:2315532"
+      "pib:2315532",
+      "pib:2315538"
     ],
     "source_failures": {
       "CBI": {
@@ -18038,6 +18039,24 @@
       "queued_at": "2026-09-27T09:47:42.890296+00:00",
       "score": 8.0,
       "why": "Major AI safety and model governance disclosure by a tier-1 AI lab, falling under mandatory reporting criteria."
+    },
+    {
+      "headline": "Court orders Apple to pay $5.7 billion to Taction",
+      "post": {
+        "created_at": "2026-09-27T08:04:00+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1790496240014",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "Court asks Apple to pay $5.7 billion to Taction Technology for using company's patented technology in App",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOQlZmWTU5OVVtZHNidGVJQ1F2T2RheEtCZzQ5eTBZQkNJNnctWHoxckswenZVQTdXSTNFM0k1Sy12Z093SERsNWRFWnpIYmlFVWxnX083Uk1NRGVGRGNqNjJvMFFqQ0dMSFc2SlBPcTBfQWpYbEdpbFNwT0N6ZDlJTmlZNDNnR2lLMUh3bldjNW9zdS10Rkduamw0VlpQNDRrQW9oSFRWWUlNV0VHbFZ1RnRGRnczQktYS21MMlFscWxSN3ZRUVFBRFVwREh5NkRlTllENXByZU9pOE1TRzBib1ZFUEZyQi1fdFE2bVBuekh0YW94cS1CNFJUNGdSblFUNGQwTXRIdmIzaThZNWRpb1JOZW1PaGhWTkR4Wm45Yzdwdk15NHhXLXF3UTAwVm81cDl5b0ItYkl0V2pjSnowZDlMcG5sbGJxY3o1ZXNnNVUyVGlwaEV1LXViZTdXUE85aElrdVJqMVBpNUnSAesCQVVfeXFMTkJWZlk1OTlVbWRzYnRlSUNRdk9kYXhLQmc0OXkwWUJDSTZ3LVh6MXJLMHp2VUE3V0kzRTNJNUstdmdPd0hEbDVkRVp6SGJpRVVsZ19PN1JNTURlRkRjajYybzBRakNHTEhXNkpQT3EwX0FqWGxHaWxTcE9DemQ5SU5pWTQzZ0dpSzFId25XYzVvc3UtdEZHbmpsNFZaUDQ0a0FvaEhUVllJTVdFR2xWdUZ0RkZ3M0JLWEttTDJRbHFsUjd2UVFRQURVcERIeTZEZU5ZRDVwcmVPaThNU0cwYm9WRVBGckItX3RRNm1QbnpIdGFveHEtQjRSVDRnUm5RVDRkME10SHZiM2k4WTVkaW9STmVtT2hoVk5EeFpuOWM3cHZNeTR4Vy1xd1EwMFZvNXA5eW9CLWJJdFdqY0p6MGQ5THBubGxicWN6NWVzZzVVMlRpcGhFdS11YmU3V1BPOWhJa3VSajFQaTVJ?oc=5"
+      },
+      "queued_at": "2026-09-27T10:02:03.850843+00:00",
+      "score": 9.0,
+      "why": "Major legal penalty against a tech giant involving a massive patent payout."
     }
   ],
   "page_links": {
@@ -19061,7 +19080,7 @@
     "news: india edtech gaming": 1790066673203,
     "news: india fintech": 1790501818833,
     "news: india semiconductors": 1790498851832,
-    "news: india tech policy": 1790487206313,
+    "news: india tech policy": 1790502086188,
     "news: india telecom": 1790497940189,
     "news: indian it majors": 1790488842837,
     "news: indian it midcaps": 1790478028166,
@@ -19103,7 +19122,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T09:47:43.281840+00:00",
+    "last_server_run": "2026-09-27T10:02:04.168589+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T09:34:12.363651+00:00",
