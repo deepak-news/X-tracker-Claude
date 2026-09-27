@@ -2,38 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-21T08:32:19.164007+00:00",
-      "handle": "News: India fintech",
-      "headline": "UPI MDR rules and potential stock winners analyzed for investors",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1ZtbjF4TVhGR09aQTlBVmxxVXVwT2s5YnpCVWd1WTV5WUM2VnF2UGV4cWk4TmllYVNLVFRDX3VRZHJYeGdsT3E2Z1FMeHQ2aWd2cTV3UEdaanhZRGtfYmlaNTRPZC1aOEVfcHNHaE9lckk3eDZJdGFwTmgwRHcwRF9kQ0dLa1JRMEZ0c0NUOThJcVRjM1NfZVVPblN5NFRKUi1vQkZ3bHBhY1FVSzRxd0o4OFkxY2RrNFNfUkRTVU80YjlCNVJ2UmVxNHB3cXVpWHZRczQwUdIB3AFBVV95cUxPNk1xcm1HWWFfaE1tbDRGYWdkN0hKNUk4RFJSeWR1TnlOU2lTb3Y2NUpQNy1QS2xiX3N2M19wQUEtRkJGZldzYTVUV3ZmWE1hWTFkZmoyZUVhMTJkOExBLVotUmdHaUFWQUxlVkQzeHU4V2s5Q0FmM2hseGotbmFwUzdmaElWUGg1eEt2SEhCMi1PcW80eVdqeERmNE5YWWhKZ1lHbElHZFZMeHFnN0k4Q1p3U0pqLW5ZTExyWVNJUFpFZTJFNHBoUHJFU1l6eDFadFJ0RTY0ZHJ3dGhC?oc=5",
-      "words": [
-        "charges",
-        "could",
-        "digital",
-        "mdr",
-        "payments",
-        "these",
-        "upi",
-        "winners"
-      ]
-    },
-    {
-      "at": "2026-09-21T08:32:19.164007+00:00",
-      "handle": "News: Global AI",
-      "headline": "China and US compete for AI dominance while sharing safety concerns",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSGFmVGJWSnhPdFJZMDRieGowUktvQUJFR2RZTHJvdGhBcWIzN1gzWGt2VnlWQzNnZ2FmdGNsRG9rUDZSX0JYR0oxN0hTem1HcW5CWm0tc2pCVGFWcjBrNG5zd1pId19paHNHaGpwUWJBSHFoYTBjTDhWbFJ5a1Q0YjVzb2ltQ2EyR2dzQ25zVnpjOUFZc09RaVdPeG4ySHNuLWVLRTNLM1EzVnF5aERKNmV3WTBONU5odjBUS2xpY1pHc1plNXgzb2tHVS1ZX0Z0YmVIY3g2VnFpZ2VIQkdHMnR3UHA3SzRfdlB4d3Jsa2Nkd1ltTzJ5cE5HWC1ncVNxd0RGRGJfSFhuV2s?oc=5",
-      "words": [
-        "china",
-        "competing",
-        "concerns",
-        "dominance",
-        "safety",
-        "shared"
-      ]
-    },
-    {
-      "at": "2026-09-21T08:32:19.164007+00:00",
       "handle": "News: India tech policy",
       "headline": "RBI simplifies KYC rules for Foreign Portfolio Investors",
       "tier": 0,
@@ -7622,25 +7590,57 @@
         "sets",
         "tata"
       ]
+    },
+    {
+      "at": "2026-09-27T14:47:20.582457+00:00",
+      "handle": "REG CCI",
+      "headline": "CCI issues order in Winzo Games versus Google antitrust case",
+      "tier": 1,
+      "url": "https://www.cci.gov.in/antitrust/orders/details/1285/0",
+      "words": [
+        "2022",
+        "2026",
+        "anti",
+        "antitrust",
+        "case",
+        "cci",
+        "dated",
+        "games",
+        "google",
+        "limited",
+        "llc",
+        "order",
+        "orders",
+        "other"
+      ]
+    },
+    {
+      "at": "2026-09-27T14:47:20.582457+00:00",
+      "handle": "REG CCI",
+      "headline": "CCI approves OMERS Infrastructure acquisition of Azure Power stake",
+      "tier": 1,
+      "url": "https://www.cci.gov.in/media-gallery/press-release/details/695/0",
+      "words": [
+        "2026",
+        "acquisition",
+        "additional",
+        "approves",
+        "asia",
+        "azure",
+        "certain",
+        "commission",
+        "dated",
+        "global",
+        "holdings",
+        "infrastructure",
+        "limited",
+        "omers"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789603200951",
-    "1789603200954",
-    "1789916206167",
-    "1789954205841",
-    "1789961939415",
-    "1789973034851",
-    "1789974506831",
-    "1789975467443",
-    "1789983476740",
-    "1789985580220",
-    "1789986180984",
-    "1789986869263",
-    "1789986895244",
-    "1789988517516",
     "1789989729385",
     "1789992820658",
     "1789993394319",
@@ -13626,10 +13626,24 @@
     "1788825600058",
     "1790499704366",
     "1790518225162",
-    "1790518600996"
+    "1790518600996",
+    "1788825600382",
+    "1788912000034",
+    "1788912000056",
+    "1788912000554",
+    "1788912000699",
+    "1788998400093",
+    "1788998400763",
+    "1789516800388",
+    "1789603200310",
+    "1789603200539",
+    "1789603200698",
+    "1789603200754",
+    "1790503750813",
+    "1790515560688"
   ],
   "last_digest_hour": "2026-09-27T20",
-  "last_success": "2026-09-27T14:32:42.332475+00:00",
+  "last_success": "2026-09-27T14:47:20.633882+00:00",
   "national": {
     "alerted": [
       {
@@ -16323,7 +16337,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T14:37:25.230014+00:00",
+    "last_run": "2026-09-27T14:49:48.893090+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19080,7 +19094,7 @@
     "news: india tech policy": 1790514947917,
     "news: india telecom": 1790517717246,
     "news: indian it majors": 1790506862762,
-    "news: indian it midcaps": 1790509020387,
+    "news: indian it midcaps": 1790515560688,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790513205872,
     "nvidia": 1790258450056,
@@ -19119,7 +19133,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T14:32:42.680674+00:00",
+    "last_server_run": "2026-09-27T14:47:20.980483+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T14:03:14.766040+00:00",
