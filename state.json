@@ -7624,11 +7624,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789991085933",
-    "1789991700449",
-    "1789993860011",
-    "1789994400897",
-    "1789995127756",
     "1789995540298",
     "1789997853087",
     "1789998300675",
@@ -13623,10 +13618,15 @@
     "1790506345738",
     "1790507220362",
     "1790507280611",
-    "2313144"
+    "2313144",
+    "1790485559880",
+    "1790494024694",
+    "1790506139743",
+    "1790506742317",
+    "1790507460881"
   ],
   "last_digest_hour": "2026-09-27T18",
-  "last_success": "2026-09-27T12:32:56.256311+00:00",
+  "last_success": "2026-09-27T12:46:50.446498+00:00",
   "national": {
     "alerted": [
       {
@@ -16320,7 +16320,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T12:37:08.733676+00:00",
+    "last_run": "2026-09-27T12:51:58.159433+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18015,6 +18015,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "CERT-In": {
+        "count": 1
+      },
       "DGFT": {
         "count": 26,
         "until": "2026-09-27T17:33:37.903685+00:00"
@@ -19073,7 +19076,7 @@
     "news: india tech policy": 1790506200317,
     "news: india telecom": 1790509080231,
     "news: indian it majors": 1790506862762,
-    "news: indian it midcaps": 1790507280611,
+    "news: indian it midcaps": 1790507460881,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790508806964,
     "nvidia": 1790258450056,
@@ -19112,7 +19115,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T12:32:56.595419+00:00",
+    "last_server_run": "2026-09-27T12:46:50.790966+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T11:48:34.772984+00:00",
