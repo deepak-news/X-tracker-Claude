@@ -1,105 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-21T07:47:59.497190+00:00",
-      "handle": "BSE LTIMindtree",
-      "headline": "LTIMindtree partners with Shekhar Kapur for AI storytelling unit",
-      "tier": 2,
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/17cecae4-ccb0-41b0-bcaa-2a28b26c45f6.pdf",
-      "words": [
-        "announcement",
-        "attaching",
-        "collaborates",
-        "copy",
-        "filing",
-        "full",
-        "herewith",
-        "kapur",
-        "ltm",
-        "media",
-        "power",
-        "press",
-        "reimagine",
-        "release"
-      ]
-    },
-    {
-      "at": "2026-09-21T08:32:19.164007+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio Platforms targets November IPO launch with \u20b937,700 crore issue",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZDFPRUZfLThFbzdINm4yRmswOU9fdGRpMW5iNDlaY29jTkdJcUpsNUZtSzd3SWY0akxIdkVUa3dUbW4zS2JlLVRkYVNFMFUyU25MN01qU1pFSDRGOVctcHN4dUJJd3dhLWNYaElTNHlqZFpzc2ljanNmb0N2X25QMTZtUHI0cUxaekpheUVYamhMZVRDaUxkRHlBNmthVkwxcjJYb3Rza0pIdl9STjJvZHRDcmd2dU50NzN0MzdqS3JEM2NtV1kxeFl2ZXZ5UkljVkpaX2JLTU5mRl9zLUVPa0h3cmrSAfIBQVVfeXFMT0FGa0x2a0V0MzF2UXNVLWZWUzdaak1YWDBkNURrbkxEdUhFM2RUdVhVeW44V3JMWUkzRzRZQ2p3TlNDeXp5UG11TnNub1pUMEl2TldOZEdXRGdyNDREQ1RJcHoxVkdPeXFMUmdQaVU5eE95Y0wzZnljMlAyQ0dJb0hEN0VZaFhEaW4yZnlEUVhCZi1TSWhSd0o1T3Nab0tGckp2UWJ1UHF2VnN1Ujl5Y0xfMzFNV01yN2tqYU9aTEJMX3ZnVEZneXp0Wlhrd1NNbmlFUUVjVE9EZE8wcXNfVGpNQmgzSC0za1lSQ0kwR3N2aXc?oc=5",
-      "words": [
-        "700",
-        "band",
-        "enters",
-        "final",
-        "ipo",
-        "issue",
-        "jio",
-        "lap",
-        "launch",
-        "november",
-        "platforms",
-        "price",
-        "sight",
-        "still"
-      ]
-    },
-    {
-      "at": "2026-09-21T08:32:19.164007+00:00",
-      "handle": "News: Global chips",
-      "headline": "Minister Vaishnaw warns India chip industry to prepare for disruption",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN05jNld1QTJyWHF2WlpIVzYyQXdGQXhHVmw5VjBQLUVMbmlXeXVDdXg3c05XRVRrcTJFbFZOUG9wM2hodTFlWi1ZbmhjZDVhQnZ3SXZZVHFzT3lLWkRnWXNIVTZva3EzZzBVcEVzLVU4dTJjSW1odzFjYnE4bFZvVXdhTVlLcmdLZlhSVlNaYjd0bjF5M25hcHZ3?oc=5",
-      "words": [
-        "blunt",
-        "chip",
-        "disruption",
-        "industry",
-        "prepare",
-        "vaishnaw",
-        "warning"
-      ]
-    },
-    {
-      "at": "2026-09-21T08:32:19.164007+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Microsoft opens new data centre in Hyderabad for India AI plan",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcWZnOWdOclRFYmdUY1dvd0ZDQWdDRGc5N29XSVRQN1p3bEJkOXNxaXYwcnBPZ1R4UFVCeXR0b2VaRGdHTTB1YjJUWDhya2Fsd3U4SjdqVlZHWGYycjg4ZmpKLXRMRGZJWXQ1MmxKQWYtSVVkd2xqU3BhNGE2eTlIdlc2N1RlNmY1RkdRNkFSczE4SndNdG9DazJvOGh6N1pZald3akJ6MHVqU2FSdVpzd0lNNmF4bzFKQ2NGVF9WOTRUa0tlNkY5eE5zcnZRZXdvUExUcUswU3dkUEZyRHRtcmVBaTVFUkhVT3N3dkRkRFVEQdIB8gFBVV95cUxQcWZnOWdOclRFYmdUY1dvd0ZDQWdDRGc5N29XSVRQN1p3bEJkOXNxaXYwcnBPZ1R4UFVCeXR0b2VaRGdHTTB1YjJUWDhya2Fsd3U4SjdqVlZHWGYycjg4ZmpKLXRMRGZJWXQ1MmxKQWYtSVVkd2xqU3BhNGE2eTlIdlc2N1RlNmY1RkdRNkFSczE4SndNdG9DazJvOGh6N1pZald3akJ6MHVqU2FSdVpzd0lNNmF4bzFKQ2NGVF9WOTRUa0tlNkY5eE5zcnZRZXdvUExUcUswU3dkUEZyRHRtcmVBaTVFUkhVT3N3dkRkRFVEQQ?oc=5",
-      "words": [
-        "billion",
-        "centre",
-        "data",
-        "hyderabad",
-        "microsoft",
-        "opens",
-        "part",
-        "plan"
-      ]
-    },
-    {
-      "at": "2026-09-21T08:32:19.164007+00:00",
-      "handle": "News: Global AI",
-      "headline": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjX0c3REFZMTNUWV95ZElUY25ZYTdIUnhHck9JSkZQVThQRHpzZlNDUDlHLTR2X1QtZkdVWXlYZjV5MVN6RU9PZmNMcW5VbnFMQ1FJNTFZcEtsTE91czFLR25QUmZNd3lKZFJFQ204N1FPZEFxS3c?oc=5",
-      "words": [
-        "300",
-        "big",
-        "billion",
-        "debt",
-        "doesn",
-        "guarantee",
-        "hidden",
-        "investment",
-        "risk",
-        "show",
-        "tech"
-      ]
-    },
-    {
       "at": "2026-09-21T08:32:19.164007+00:00",
       "handle": "News: India fintech",
       "headline": "UPI MDR rules and potential stock winners analyzed for investors",
@@ -7620,23 +7521,112 @@
         "staff",
         "transform"
       ]
+    },
+    {
+      "at": "2026-09-27T14:32:41.109644+00:00",
+      "handle": "REG CCI",
+      "headline": "CCI issues final cease-and-desist penalty order against Muthoot Finance vs Trustees",
+      "tier": 1,
+      "url": "https://www.cci.gov.in/antitrust/orders/details/1282/0",
+      "words": [
+        "2021",
+        "anti",
+        "antitrust",
+        "association",
+        "case",
+        "cci",
+        "cease",
+        "desist",
+        "final",
+        "finance",
+        "limited",
+        "muthoot",
+        "order",
+        "others"
+      ]
+    },
+    {
+      "at": "2026-09-27T14:32:41.109644+00:00",
+      "handle": "REG CCI",
+      "headline": "CCI approves TPG acquisition of Aseem Infrastructure Finance",
+      "tier": 1,
+      "url": "https://www.cci.gov.in/combination/order/details/order/1779/0/orders-section31",
+      "words": [
+        "1440",
+        "2026",
+        "approved",
+        "cci",
+        "climate",
+        "decided",
+        "decision",
+        "filed",
+        "form",
+        "gsi",
+        "merger",
+        "nicobar",
+        "others",
+        "pte"
+      ]
+    },
+    {
+      "at": "2026-09-27T14:32:41.109644+00:00",
+      "handle": "REG CCI",
+      "headline": "CCI approves Kids Clinic acquisition of Apollo Fertility and Specialty units",
+      "tier": 1,
+      "url": "https://www.cci.gov.in/combination/order/details/order/1770/0/orders-section31",
+      "words": [
+        "1436",
+        "2026",
+        "apollo",
+        "approved",
+        "arvon",
+        "cci",
+        "clinic",
+        "decided",
+        "decision",
+        "filed",
+        "form",
+        "health",
+        "investments",
+        "kids"
+      ]
+    },
+    {
+      "at": "2026-09-27T14:32:42.282345+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Anthropic and OpenAI push for AI safety frameworks and controls",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd1ZVVGlXVjAwcWhvdTB3TkdMSXVXM2hpWXNNcFZidkFzdzJsenhucTAzdl80RFdvZGh1SllmZlBlaENwc1Q2YWFVVnk4WGZNSUdsOGZuMTR0WjlsejhseDRYOGl2eU00VjJnRl9yU1ctUENPanRpN1VUNHkwZmFfckhNVFp1cDR6Rm9Lb09EQkNnVUpQSGVOVUxaLXFmbHVpR2xyemtMby1Ea21mYTREbm9XcnpqUDJWSzcycnBpbVJicl90bnd3S0Y4TXJMNHZXRTFv0gHgAUFVX3lxTE02ZFZkRGJmNU9vdHdnS21IY1o0U3U4R3FKTS1ZTmVZSmFWbWhYOUtSbEJHMWxVWS1XWFZkNW1HakZ2eU1PN08tUzlXMDhrZlBUQnBheTVsSDItVFAtSEZVMkd6WGJVeERSbHlSUlYtZThQNGU1Uzk3Ry1RcjZ0M2d6NllybE5rQ2dONEVIcThYMy1EVy1IZlRXSG1MaWdOZktRV0xuMDNhTWxZS3BMdzNxYzB3eXhpZFkwbWYxSERXcXFJcVdQYXFVbHVpT1NsS2NOTWZpR2VHMjhHN1VlYlpR?oc=5",
+      "words": [
+        "alarm",
+        "anthropic",
+        "controlled",
+        "openai",
+        "safety",
+        "seek",
+        "shape",
+        "sound"
+      ]
+    },
+    {
+      "at": "2026-09-27T14:32:42.282345+00:00",
+      "handle": "News: India telecom",
+      "headline": "Tata Communications sets up AI centre of excellence at SASTRA",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOFZvZ0JaWDZoOWtWblhubEgzajNQQmkwc1c0Vjl3NS1TUGdncF9YNU9Sb1NCQ2xVS1pkY2VqTmd5Zjc2Z21tUFNIM3NkaDVGOGVJOHE0RnlMZF85SE4tYWRsQnZUQjloMWthSDVjWFBNOEkwcFo0cnFJc3AtRktHNWJYdDN6WDk4a05WTFdnMXNlWkVuNEhYNExneTZVUkhGQVNWcG95TTV5WmxMMEhURVE0Wm8yT2lyclRLSHhSV05JTnF6aXUxQzZB?oc=5",
+      "words": [
+        "centre",
+        "communications",
+        "excellence",
+        "sastra",
+        "sets",
+        "tata"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1788825600382",
-    "1788912000034",
-    "1788912000056",
-    "1788912000554",
-    "1788912000699",
-    "1788998400093",
-    "1788998400763",
-    "1789516800388",
-    "1789603200310",
-    "1789603200539",
-    "1789603200698",
-    "1789603200754",
     "1789603200951",
     "1789603200954",
     "1789916206167",
@@ -13624,10 +13614,22 @@
     "1790513160952",
     "1790514947917",
     "1790517717246",
-    "1790518225015"
+    "1790518225015",
+    "1788220800168",
+    "1788220800539",
+    "1788220800797",
+    "1788220800966",
+    "1788307200418",
+    "1788307200877",
+    "1788393600385",
+    "1788393600743",
+    "1788825600058",
+    "1790499704366",
+    "1790518225162",
+    "1790518600996"
   ],
-  "last_digest_hour": "2026-09-27T19",
-  "last_success": "2026-09-27T14:17:13.033061+00:00",
+  "last_digest_hour": "2026-09-27T20",
+  "last_success": "2026-09-27T14:32:42.332475+00:00",
   "national": {
     "alerted": [
       {
@@ -16321,7 +16323,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T14:20:09.267855+00:00",
+    "last_run": "2026-09-27T14:37:25.230014+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18012,7 +18014,8 @@
       "pib:2315585",
       "pib:2315603",
       "pib:2315617",
-      "pib:2315631"
+      "pib:2315631",
+      "pib:2315634"
     ],
     "source_failures": {
       "CBI": {
@@ -18052,44 +18055,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic and OpenAI push for AI safety frameworks and controls",
-      "post": {
-        "created_at": "2026-09-27T12:46:45+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1790513205872",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The New Indian Express",
-        "reposts": 0,
-        "text": "Anthropic and OpenAI sound the alarm on AI safety \u2014 and seek to shape how it's controlled",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd1ZVVGlXVjAwcWhvdTB3TkdMSXVXM2hpWXNNcFZidkFzdzJsenhucTAzdl80RFdvZGh1SllmZlBlaENwc1Q2YWFVVnk4WGZNSUdsOGZuMTR0WjlsejhseDRYOGl2eU00VjJnRl9yU1ctUENPanRpN1VUNHkwZmFfckhNVFp1cDR6Rm9Lb09EQkNnVUpQSGVOVUxaLXFmbHVpR2xyemtMby1Ea21mYTREbm9XcnpqUDJWSzcycnBpbVJicl90bnd3S0Y4TXJMNHZXRTFv0gHgAUFVX3lxTE02ZFZkRGJmNU9vdHdnS21IY1o0U3U4R3FKTS1ZTmVZSmFWbWhYOUtSbEJHMWxVWS1XWFZkNW1HakZ2eU1PN08tUzlXMDhrZlBUQnBheTVsSDItVFAtSEZVMkd6WGJVeERSbHlSUlYtZThQNGU1Uzk3Ry1RcjZ0M2d6NllybE5rQ2dONEVIcThYMy1EVy1IZlRXSG1MaWdOZktRV0xuMDNhTWxZS3BMdzNxYzB3eXhpZFkwbWYxSERXcXFJcVdQYXFVbHVpT1NsS2NOTWZpR2VHMjhHN1VlYlpR?oc=5"
-      },
-      "queued_at": "2026-09-27T14:02:14.214760+00:00",
-      "score": 8.0,
-      "why": "Disclosures by major AI labs regarding safety and regulatory policy are high-priority wire stories."
-    },
-    {
-      "headline": "Tata Communications sets up AI centre of excellence at SASTRA",
-      "post": {
-        "created_at": "2026-09-27T14:01:57+00:00",
-        "handle": "News: India telecom",
-        "id": "1790517717246",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Hindu",
-        "reposts": 0,
-        "text": "Tata Communications sets up centre of excellence at SASTRA",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOFZvZ0JaWDZoOWtWblhubEgzajNQQmkwc1c0Vjl3NS1TUGdncF9YNU9Sb1NCQ2xVS1pkY2VqTmd5Zjc2Z21tUFNIM3NkaDVGOGVJOHE0RnlMZF85SE4tYWRsQnZUQjloMWthSDVjWFBNOEkwcFo0cnFJc3AtRktHNWJYdDN6WDk4a05WTFdnMXNlWkVuNEhYNExneTZVUkhGQVNWcG95TTV5WmxMMEhURVE0Wm8yT2lyclRLSHhSV05JTnF6aXUxQzZB?oc=5"
-      },
-      "queued_at": "2026-09-27T14:17:12.982511+00:00",
-      "score": 7.0,
-      "why": "Major partnership and institutional setup by an Indian IT major in AI."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19102,14 +19068,14 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790516651067,
+    "news: big tech platforms": 1790518600996,
     "news: consumer internet india": 1790505171519,
     "news: global ai": 1790452740819,
     "news: global chips": 1790489220212,
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790503484886,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790518225015,
+    "news: india fintech": 1790518225162,
     "news: india semiconductors": 1790505186863,
     "news: india tech policy": 1790514947917,
     "news: india telecom": 1790517717246,
@@ -19153,7 +19119,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T14:17:13.377332+00:00",
+    "last_server_run": "2026-09-27T14:32:42.680674+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T14:03:14.766040+00:00",
