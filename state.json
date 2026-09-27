@@ -7621,10 +7621,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789977720832",
-    "1789978039663",
-    "1789978780131",
-    "1789983127031",
     "1789986780077",
     "1789986780162",
     "1789988168907",
@@ -13620,10 +13616,14 @@
     "1790496240014",
     "1790497090195",
     "1790497904710",
-    "1790502086188"
+    "1790502086188",
+    "1789948800875",
+    "1790494751477",
+    "1790498760731",
+    "1790503260872"
   ],
   "last_digest_hour": "2026-09-27T15",
-  "last_success": "2026-09-27T10:02:03.892117+00:00",
+  "last_success": "2026-09-27T10:16:34.073623+00:00",
   "national": {
     "alerted": [
       {
@@ -15910,6 +15910,29 @@
           "sep",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-27T10:23:18.737816+00:00",
+        "handle": "PIB Ministry of Home Affairs",
+        "headline": "Amit Shah inaugurates Rs 1,472 crore projects and India's first LNG train",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315543",
+        "words": [
+          "472",
+          "affairs",
+          "amit",
+          "cooperation",
+          "country",
+          "development",
+          "first",
+          "flagged",
+          "home",
+          "inaugurates",
+          "lng",
+          "minister",
+          "ministry",
+          "off"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -16294,7 +16317,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T10:04:08.436773+00:00",
+    "last_run": "2026-09-27T10:23:18.739090+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17977,12 +18000,16 @@
       "pib:2315530",
       "pib:2315531",
       "pib:2315532",
-      "pib:2315538"
+      "pib:2315538",
+      "pib:2315543"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "CERT-In": {
+        "count": 1
       },
       "DGFT": {
         "count": 25,
@@ -19085,7 +19112,7 @@
     "news: indian it majors": 1790488842837,
     "news: indian it midcaps": 1790478028166,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790485803705,
+    "news: tech leaders": 1790503260872,
     "nvidia": 1790258450056,
     "nvidia blog": 1790258450056,
     "openai": 1790362800983,
@@ -19122,7 +19149,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T10:02:04.168589+00:00",
+    "last_server_run": "2026-09-27T10:16:34.446901+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T09:34:12.363651+00:00",
