@@ -7624,13 +7624,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789994539547",
-    "1789994839813",
-    "1789994853471",
-    "1789995054498",
-    "1789995127461",
-    "1789995302203",
-    "1789995600624",
     "1789995600625",
     "1789995600980",
     "1789995623030",
@@ -13623,10 +13616,17 @@
     "1790482034799",
     "1790492108360",
     "1790494203805",
-    "1790494500152"
+    "1790494500152",
+    "1790487011623",
+    "1790488280076",
+    "1790489220616",
+    "1790490265295",
+    "1790492437174",
+    "1790495243088",
+    "1790495449072"
   ],
   "last_digest_hour": "2026-09-27T13",
-  "last_success": "2026-09-27T07:47:58.837556+00:00",
+  "last_success": "2026-09-27T08:03:37.009067+00:00",
   "national": {
     "alerted": [
       {
@@ -16297,7 +16297,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T07:53:24.095043+00:00",
+    "last_run": "2026-09-27T08:04:35.634434+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17973,7 +17973,8 @@
       "pib:2315491",
       "pib:2315489",
       "pib:2315501",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-in-the-138th-episode-of-mann-ki-baat"
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-in-the-138th-episode-of-mann-ki-baat",
+      "page:https://internal.imd.gov.in/press_release/20260927_pr_5347.pdf"
     ],
     "source_failures": {
       "CBI": {
@@ -19030,8 +19031,8 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790494500152,
-    "news: consumer internet india": 1790490369453,
+    "news: big tech platforms": 1790495243088,
+    "news: consumer internet india": 1790495449072,
     "news: global ai": 1790406207804,
     "news: global chips": 1790388591641,
     "news: global it services": 1790352234410,
@@ -19081,7 +19082,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T07:47:59.204833+00:00",
+    "last_server_run": "2026-09-27T08:03:37.372850+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T07:33:47.503317+00:00",
