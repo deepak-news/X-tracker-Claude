@@ -7624,10 +7624,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789993128667",
-    "1789993500929",
-    "1789993980805",
-    "1789994046555",
     "1789994102224",
     "1789994147973",
     "1789994157110",
@@ -13623,10 +13619,14 @@
     "1790400671606",
     "1790437369102",
     "1790479470447",
-    "1790483700498"
+    "1790483700498",
+    "1790400914284",
+    "1790401732892",
+    "1790427270061",
+    "1790482980937"
   ],
-  "last_digest_hour": "2026-09-27T10",
-  "last_success": "2026-09-27T05:16:35.587153+00:00",
+  "last_digest_hour": "2026-09-27T11",
+  "last_success": "2026-09-27T05:31:50.018963+00:00",
   "national": {
     "alerted": [
       {
@@ -16297,7 +16297,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T05:18:23.622574+00:00",
+    "last_run": "2026-09-27T05:38:09.650870+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19022,7 +19022,7 @@
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
     "news: big tech platforms": 1790475631547,
-    "news: consumer internet india": 1790482980686,
+    "news: consumer internet india": 1790482980937,
     "news: global ai": 1790406207804,
     "news: global chips": 1790388591641,
     "news: global it services": 1790352234410,
@@ -19072,17 +19072,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T05:16:35.934805+00:00",
+    "last_server_run": "2026-09-27T05:31:50.367032+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-27T03:17:51.916877+00:00",
+        "checked": "2026-09-27T05:32:40.179966+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-27T03:17:44.429976+00:00",
+        "checked": "2026-09-27T05:32:31.844915+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -19158,7 +19158,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-27T03:17:48.175659+00:00",
+        "checked": "2026-09-27T05:32:35.784039+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -19212,11 +19212,11 @@
       },
       "last": {
         "calendar": "2026-09-27T00:17:28.594233+00:00",
-        "ls_reports": "2026-09-27T03:17:28.616099+00:00",
-        "rs_committee_press": "2026-09-27T03:17:38.552762+00:00",
-        "rs_press": "2026-09-27T03:17:35.757111+00:00",
-        "rs_reports": "2026-09-27T03:17:32.696429+00:00",
-        "rs_updates": "2026-09-27T03:17:40.337222+00:00"
+        "ls_reports": "2026-09-27T05:32:16.936963+00:00",
+        "rs_committee_press": "2026-09-27T05:32:26.417073+00:00",
+        "rs_press": "2026-09-27T05:32:23.392578+00:00",
+        "rs_reports": "2026-09-27T05:32:20.642881+00:00",
+        "rs_updates": "2026-09-27T05:32:27.886038+00:00"
       }
     },
     "scanned": [
