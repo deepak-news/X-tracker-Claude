@@ -2,27 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-21T08:32:19.164007+00:00",
-      "handle": "News: India tech policy",
-      "headline": "RBI simplifies KYC rules for Foreign Portfolio Investors",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbW1BLTFNdU9sa1VkTHBxOVJLdnFOUDRTNE9TWmFBYWJ5OHpVRURLajhLMDhycFlsTWh4ZkRfQ3JoZlRTVGJmcDBuTEJ5NWUtRGtZUEFJYTdvRmtLbGJBY2tBQURvT253MGUzQjIwbFIxTXdnV2ZGWmFfY3dBMUR3ZHJSdjNkZHBZVmNrV0dkM1FuaUxRZDFrR05HTjlFcXVjQ0NSZE9jS0htNlVXcnJGSFdKaGdyQWozZm5CYUxKakpwclpPY0ktMl9LblBuMzZlbUJvSEdiYnVOTVdVOFllZFhYaUVhMEF3dVHSAeoBQVVfeXFMUG1tQS0xTXVPbGtVZExwcTlSS3ZxTlA0UzRPU1phQWFieTh6VUVES2o4SzA4cnBZbE1oeGZEX0NyaGZUU1RiZnAwbkxCeTVlLURrWVBBSWE3b0ZrS2xiQWNrQUFEb09udzBlM0IyMGxSMU13Z1dmRlphX2N3QTFEd2RyUnYzZGRwWVZja1dHZDNRbmlMUWQxa0dOR045RXF1Y0NDUmRPY0tIbTZVV3JyRkhXSmhnckFqM2ZuQmFMSmpKcHJaT2NJLTJfS25QbjM2ZW1Cb0hHYmJ1Tk1XVThZZWRYWGlFYTBBd3VR?oc=5",
-      "words": [
-        "certification",
-        "copies",
-        "document",
-        "eases",
-        "foreign",
-        "investors",
-        "kyc",
-        "portfolio",
-        "rbi",
-        "requirements",
-        "rules",
-        "simplifies"
-      ]
-    },
-    {
-      "at": "2026-09-21T08:32:19.164007+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic mulls launch of new AI model ahead of anticipated IPO",
       "tier": 0,
@@ -7636,12 +7615,27 @@
         "limited",
         "omers"
       ]
+    },
+    {
+      "at": "2026-09-27T16:32:19.039271+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Google reports ShinyHunters hackers expanded attacks on Oracle and Google systems",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFFud19oTjRJVmU2TkVzbjRlOTJSb0R2WjY3eEdSSlRjQ19ZSXVmNWRJR01veWpLdjF2azVXRHExT2lwbl84V3gtVVlXNEhsbXJhOFcyTXJ5UGZMZ3BtRVVCNXFJT096Y1FUbTNKX3h1WXBWdEpNUkJ5TjdpemkydkQyNEdvcGcyQnFSU0hGT1E4S0tHdW1lZUgwWE9vN09oaE1wSVY5SDlnZVF3QXQ1TEQ3alFJaGdHWkpWb3hZMVVlTzdJcnNKcGt1Q0RVVzBOUFc2RDNGRDd0LWlKU1HSAd4BQVVfeXFMTkxRbndfaE40SVZlNk5Fc240ZTkyUm9Edlo2N3hHUkpUY0NfWUl1ZjVkSUdNb3lqS3Yxdms1V0RxMU9pcG5fOFd4LVVZVzRIbG1yYThXMk1yeVBmTGdwbUVVQjVxSU9PemNRVG0zSl94dVlwVnRKTVJCeU43aXppMnZEMjRHb3BnMkJxUlNIRk9ROEtLR3VtZWVIMFhPbzdPaGhNcElWOUg5Z2VRd0F0NUxEN2pRSWhnR1pKVm94WTFVZU83SXJzSnBrdUNEVVcwTlBXNkQzRkQ3dC1pSlNR?oc=5",
+      "words": [
+        "attacks",
+        "expanded",
+        "google",
+        "hackers",
+        "oracle",
+        "peoplesoft",
+        "shinyhunters"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789994147309",
     "1789996020498",
     "1789996702082",
     "1789999740805",
@@ -13640,10 +13634,11 @@
     "1790507904590",
     "1790515857761",
     "1790522220039",
-    "1790524451641"
+    "1790524451641",
+    "1790519640701"
   ],
-  "last_digest_hour": "2026-09-27T21",
-  "last_success": "2026-09-27T16:17:03.881373+00:00",
+  "last_digest_hour": "2026-09-27T22",
+  "last_success": "2026-09-27T16:32:19.097834+00:00",
   "national": {
     "alerted": [
       {
@@ -16360,7 +16355,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T16:19:22.189201+00:00",
+    "last_run": "2026-09-27T16:33:46.065760+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18104,26 +18099,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Google reports ShinyHunters hackers expanded attacks on Oracle and Google systems",
-      "post": {
-        "created_at": "2026-09-27T14:37:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790519820335",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "ShinyHunters hackers expanded attacks on Oracle's PeopleSoft, Google says",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFFud19oTjRJVmU2TkVzbjRlOTJSb0R2WjY3eEdSSlRjQ19ZSXVmNWRJR01veWpLdjF2azVXRHExT2lwbl84V3gtVVlXNEhsbXJhOFcyTXJ5UGZMZ3BtRVVCNXFJT096Y1FUbTNKX3h1WXBWdEpNUkJ5TjdpemkydkQyNEdvcGcyQnFSU0hGT1E4S0tHdW1lZUgwWE9vN09oaE1wSVY5SDlnZVF3QXQ1TEQ3alFJaGdHWkpWb3hZMVVlTzdJcnNKcGt1Q0RVVzBOUFc2RDNGRDd0LWlKU1HSAd4BQVVfeXFMTkxRbndfaE40SVZlNk5Fc240ZTkyUm9Edlo2N3hHUkpUY0NfWUl1ZjVkSUdNb3lqS3Yxdms1V0RxMU9pcG5fOFd4LVVZVzRIbG1yYThXMk1yeVBmTGdwbUVVQjVxSU9PemNRVG0zSl94dVlwVnRKTVJCeU43aXppMnZEMjRHb3BnMkJxUlNIRk9ROEtLR3VtZWVIMFhPbzdPaGhNcElWOUg5Z2VRd0F0NUxEN2pRSWhnR1pKVm94WTFVZU83SXJzSnBrdUNEVVcwTlBXNkQzRkQ3dC1pSlNR?oc=5"
-      },
-      "queued_at": "2026-09-27T15:46:53.485751+00:00",
-      "score": 7.0,
-      "why": "Major cybersecurity threat intelligence disclosure by a primary tech company regarding active attacks."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19187,7 +19163,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T16:17:04.157110+00:00",
+    "last_server_run": "2026-09-27T16:32:19.403531+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T16:18:05.449049+00:00",
