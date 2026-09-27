@@ -7625,13 +7625,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1787616000045",
-    "1787616000640",
-    "1787616000941",
-    "1787875200136",
-    "1787875200328",
-    "1787875200671",
-    "1788134400977",
     "1788220800168",
     "1788220800539",
     "1788220800797",
@@ -13624,10 +13617,17 @@
     "1790514947316",
     "1790515477338",
     "1790509020387",
-    "1790516076422"
+    "1790516076422",
+    "1790499212406",
+    "1790503750429",
+    "1790507280706",
+    "1790512320620",
+    "1790513205872",
+    "1790516318748",
+    "1790516651067"
   ],
   "last_digest_hour": "2026-09-27T19",
-  "last_success": "2026-09-27T13:46:56.270525+00:00",
+  "last_success": "2026-09-27T14:02:14.266615+00:00",
   "national": {
     "alerted": [
       {
@@ -16321,7 +16321,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T13:48:55.551491+00:00",
+    "last_run": "2026-09-27T14:05:12.280016+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18022,6 +18022,9 @@
         "count": 26,
         "until": "2026-09-27T17:33:37.903685+00:00"
       },
+      "IRDAI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -18051,7 +18054,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Anthropic and OpenAI push for AI safety frameworks and controls",
+      "post": {
+        "created_at": "2026-09-27T12:46:45+00:00",
+        "handle": "News: Tech leaders",
+        "id": "1790513205872",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The New Indian Express",
+        "reposts": 0,
+        "text": "Anthropic and OpenAI sound the alarm on AI safety \u2014 and seek to shape how it's controlled",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd1ZVVGlXVjAwcWhvdTB3TkdMSXVXM2hpWXNNcFZidkFzdzJsenhucTAzdl80RFdvZGh1SllmZlBlaENwc1Q2YWFVVnk4WGZNSUdsOGZuMTR0WjlsejhseDRYOGl2eU00VjJnRl9yU1ctUENPanRpN1VUNHkwZmFfckhNVFp1cDR6Rm9Lb09EQkNnVUpQSGVOVUxaLXFmbHVpR2xyemtMby1Ea21mYTREbm9XcnpqUDJWSzcycnBpbVJicl90bnd3S0Y4TXJMNHZXRTFv0gHgAUFVX3lxTE02ZFZkRGJmNU9vdHdnS21IY1o0U3U4R3FKTS1ZTmVZSmFWbWhYOUtSbEJHMWxVWS1XWFZkNW1HakZ2eU1PN08tUzlXMDhrZlBUQnBheTVsSDItVFAtSEZVMkd6WGJVeERSbHlSUlYtZThQNGU1Uzk3Ry1RcjZ0M2d6NllybE5rQ2dONEVIcThYMy1EVy1IZlRXSG1MaWdOZktRV0xuMDNhTWxZS3BMdzNxYzB3eXhpZFkwbWYxSERXcXFJcVdQYXFVbHVpT1NsS2NOTWZpR2VHMjhHN1VlYlpR?oc=5"
+      },
+      "queued_at": "2026-09-27T14:02:14.214760+00:00",
+      "score": 8.0,
+      "why": "Disclosures by major AI labs regarding safety and regulatory policy are high-priority wire stories."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19064,21 +19086,21 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790515477338,
+    "news: big tech platforms": 1790516651067,
     "news: consumer internet india": 1790505171519,
     "news: global ai": 1790452740819,
     "news: global chips": 1790489220212,
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790503484886,
     "news: india edtech gaming": 1790066673203,
-    "news: india fintech": 1790516076422,
+    "news: india fintech": 1790516318748,
     "news: india semiconductors": 1790505186863,
     "news: india tech policy": 1790514947316,
     "news: india telecom": 1790514150571,
     "news: indian it majors": 1790506862762,
     "news: indian it midcaps": 1790509020387,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790508806964,
+    "news: tech leaders": 1790513205872,
     "nvidia": 1790258450056,
     "nvidia blog": 1790258450056,
     "openai": 1790362800983,
@@ -19115,17 +19137,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T13:46:56.519307+00:00",
+    "last_server_run": "2026-09-27T14:02:14.613907+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-27T11:48:34.772984+00:00",
+        "checked": "2026-09-27T14:03:14.766040+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-27T11:48:26.682881+00:00",
+        "checked": "2026-09-27T14:03:06.954739+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -19201,7 +19223,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-27T11:48:30.576374+00:00",
+        "checked": "2026-09-27T14:03:10.682448+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -19255,11 +19277,11 @@
       },
       "last": {
         "calendar": "2026-09-27T12:33:29.802230+00:00",
-        "ls_reports": "2026-09-27T11:48:09.896622+00:00",
-        "rs_committee_press": "2026-09-27T11:48:20.919004+00:00",
-        "rs_press": "2026-09-27T11:48:18.084584+00:00",
-        "rs_reports": "2026-09-27T11:48:15.320836+00:00",
-        "rs_updates": "2026-09-27T11:48:22.593921+00:00"
+        "ls_reports": "2026-09-27T14:02:51.644032+00:00",
+        "rs_committee_press": "2026-09-27T14:03:01.352683+00:00",
+        "rs_press": "2026-09-27T14:02:58.383252+00:00",
+        "rs_reports": "2026-09-27T14:02:55.985986+00:00",
+        "rs_updates": "2026-09-27T14:03:02.901307+00:00"
       }
     },
     "scanned": [
