@@ -7624,8 +7624,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789991094432",
-    "1789992449138",
     "1789992454798",
     "1789992954448",
     "1789993128667",
@@ -13623,10 +13621,12 @@
     "1790470180752",
     "1790476716872",
     "1790482980686",
-    "1790446560410"
+    "1790446560410",
+    "1790400671606",
+    "1790437369102"
   ],
   "last_digest_hour": "2026-09-27T10",
-  "last_success": "2026-09-27T04:47:43.568517+00:00",
+  "last_success": "2026-09-27T05:02:54.189979+00:00",
   "national": {
     "alerted": [
       {
@@ -16297,7 +16297,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T04:55:17.196625+00:00",
+    "last_run": "2026-09-27T05:05:16.408554+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -17967,7 +17967,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-joshna-chinappa-and-velavan-senthilkumar-on-winning-bronze-medal-in-squash-mixed-team-event-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mens-kabaddi-team-on-retaining-asian-games-gold",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-womens-kabaddi-team-on-winning-gold-medal",
-      "quake:usgs:us6000txuj"
+      "quake:usgs:us6000txuj",
+      "pib:2315470"
     ],
     "source_failures": {
       "CBI": {
@@ -19071,7 +19072,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T04:47:43.837939+00:00",
+    "last_server_run": "2026-09-27T05:02:54.524180+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T03:17:51.916877+00:00",
