@@ -7615,9 +7615,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789990396961",
-    "1789991431810",
-    "1789991494440",
     "1789991784294",
     "1789992360690",
     "1789993620441",
@@ -13614,10 +13611,13 @@
     "1790494203695",
     "1790502464573",
     "1790506720918",
-    "1790508060943"
+    "1790508060943",
+    "1790487900769",
+    "1790508806964",
+    "1790509080095"
   ],
   "last_digest_hour": "2026-09-27T17",
-  "last_success": "2026-09-27T11:32:35.217498+00:00",
+  "last_success": "2026-09-27T11:46:53.770176+00:00",
   "national": {
     "alerted": [
       {
@@ -16311,7 +16311,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T11:35:47.159373+00:00",
+    "last_run": "2026-09-27T11:51:15.887024+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18041,7 +18041,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "OpenAI and Anthropic CEOs called to Australian Senate AI inquiry",
+      "post": {
+        "created_at": "2026-09-27T11:33:26+00:00",
+        "handle": "News: Tech leaders",
+        "id": "1790508806964",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Firstpost",
+        "reposts": 0,
+        "text": "\u2018Serious questions for Sam Altman\u2019: OpenAI, Anthropic CEOs called to Australian Senate AI inquiry",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWTZmQ1U2MjNVb1dtV2dOTUd4aW1IQUxQd0taTUY5Z3d4X182ZFAxZkNMdmg4R1JRc25NZUpHYTBheG4xNTV4VENNa0pob0hTdXEyV2RTQnhiZE8tZF9lVzM2RnRJS0tWMHgtZlh5ZElDaGNoTDVtSzJZT0RlVHp4ZXNsTzJ3YklNWkdjSXlwU3JGMDZOTHBOLTBDbUZBcWpWRXd0N2RIOTZ3M29STWlmMnBWN2FsRU9WWTBoajRBOVpyU3d5eG5TNTktZjU4SktsTWkwRk5zOWREZ9IB2gFBVV95cUxOWTZmQ1U2MjNVb1dtV2dOTUd4aW1IQUxQd0taTUY5Z3d4X182ZFAxZkNMdmg4R1JRc25NZUpHYTBheG4xNTV4VENNa0pob0hTdXEyV2RTQnhiZE8tZF9lVzM2RnRJS0tWMHgtZlh5ZElDaGNoTDVtSzJZT0RlVHp4ZXNsTzJ3YklNWkdjSXlwU3JGMDZOTHBOLTBDbUZBcWpWRXd0N2RIOTZ3M29STWlmMnBWN2FsRU9WWTBoajRBOVpyU3d5eG5TNTktZjU4SktsTWkwRk5zOWREZw?oc=5"
+      },
+      "queued_at": "2026-09-27T11:46:53.721527+00:00",
+      "score": 7.0,
+      "why": "Major international AI policy and regulatory development involving top tech leadership."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19054,7 +19073,7 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790499240156,
+    "news: big tech platforms": 1790509080095,
     "news: consumer internet india": 1790505171519,
     "news: global ai": 1790452740819,
     "news: global chips": 1790489220212,
@@ -19068,7 +19087,7 @@
     "news: indian it majors": 1790506862762,
     "news: indian it midcaps": 1790478028166,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790503260872,
+    "news: tech leaders": 1790508806964,
     "nvidia": 1790258450056,
     "nvidia blog": 1790258450056,
     "openai": 1790362800983,
@@ -19105,17 +19124,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T11:32:35.517659+00:00",
+    "last_server_run": "2026-09-27T11:46:54.107550+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-27T09:34:12.363651+00:00",
+        "checked": "2026-09-27T11:48:34.772984+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-27T09:34:04.275061+00:00",
+        "checked": "2026-09-27T11:48:26.682881+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -19191,7 +19210,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-27T09:34:08.167370+00:00",
+        "checked": "2026-09-27T11:48:30.576374+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -19245,11 +19264,11 @@
       },
       "last": {
         "calendar": "2026-09-27T06:18:28.642957+00:00",
-        "ls_reports": "2026-09-27T09:33:48.397441+00:00",
-        "rs_committee_press": "2026-09-27T09:33:58.666146+00:00",
-        "rs_press": "2026-09-27T09:33:55.101319+00:00",
-        "rs_reports": "2026-09-27T09:33:52.325431+00:00",
-        "rs_updates": "2026-09-27T09:34:00.374728+00:00"
+        "ls_reports": "2026-09-27T11:48:09.896622+00:00",
+        "rs_committee_press": "2026-09-27T11:48:20.919004+00:00",
+        "rs_press": "2026-09-27T11:48:18.084584+00:00",
+        "rs_reports": "2026-09-27T11:48:15.320836+00:00",
+        "rs_updates": "2026-09-27T11:48:22.593921+00:00"
       }
     },
     "scanned": [
