@@ -7636,10 +7636,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789996020498",
-    "1789996702082",
-    "1789999740805",
-    "1790000358025",
     "1790000700005",
     "1790000776902",
     "1790000894137",
@@ -13635,10 +13631,14 @@
     "1790515857761",
     "1790522220039",
     "1790524451641",
-    "1790519640701"
+    "1790519640701",
+    "1790502537227",
+    "1790517701465",
+    "1790517708864",
+    "1790519062205"
   ],
   "last_digest_hour": "2026-09-27T22",
-  "last_success": "2026-09-27T16:32:19.097834+00:00",
+  "last_success": "2026-09-27T16:46:11.626495+00:00",
   "national": {
     "alerted": [
       {
@@ -16355,7 +16355,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T16:33:46.065760+00:00",
+    "last_run": "2026-09-27T16:47:54.255029+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19141,7 +19141,7 @@
     "reg cert-in": 1788998400763,
     "salesforce": 1790276411084,
     "samsung": 1790200800080,
-    "samsung india": 1790431260240,
+    "samsung india": 1790517708864,
     "sarvam ai": 1790254919948,
     "swiggy": 1789214456821,
     "tata electronics": 1789738328115,
@@ -19163,7 +19163,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T16:32:19.403531+00:00",
+    "last_server_run": "2026-09-27T16:46:11.892198+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T16:18:05.449049+00:00",
