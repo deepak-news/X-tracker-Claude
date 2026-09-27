@@ -7641,8 +7641,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789989729385",
-    "1789992820658",
     "1789993394319",
     "1789995213250",
     "1789995600060",
@@ -13640,10 +13638,12 @@
     "1789603200698",
     "1789603200754",
     "1790503750813",
-    "1790515560688"
+    "1790515560688",
+    "1789603200951",
+    "1789603200954"
   ],
   "last_digest_hour": "2026-09-27T20",
-  "last_success": "2026-09-27T14:47:20.633882+00:00",
+  "last_success": "2026-09-27T15:03:55.455852+00:00",
   "national": {
     "alerted": [
       {
@@ -15953,6 +15953,29 @@
           "ministry",
           "off"
         ]
+      },
+      {
+        "at": "2026-09-27T15:05:36.540083+00:00",
+        "handle": "PIB Ministry of Skill Development and Entrepreneurship",
+        "headline": "India ranks 10th at WorldSkills Shanghai 2026 with multiple medals and awards",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315640",
+        "words": [
+          "10th",
+          "2026",
+          "development",
+          "entrepreneurship",
+          "excellence",
+          "medal",
+          "medals",
+          "ministry",
+          "ranks",
+          "shanghai",
+          "silver",
+          "skill",
+          "wins",
+          "worldskills"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -16337,7 +16360,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-27T14:49:48.893090+00:00",
+    "last_run": "2026-09-27T15:05:36.540856+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18029,7 +18052,12 @@
       "pib:2315603",
       "pib:2315617",
       "pib:2315631",
-      "pib:2315634"
+      "pib:2315634",
+      "pib:2315640",
+      "pib:2315639",
+      "pib:2315641",
+      "pib:2315642",
+      "pib:2315637"
     ],
     "source_failures": {
       "CBI": {
@@ -19133,7 +19161,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-27T14:47:20.980483+00:00",
+    "last_server_run": "2026-09-27T15:03:55.797702+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-27T14:03:14.766040+00:00",
