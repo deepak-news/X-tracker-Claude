@@ -7633,9 +7633,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789982620833",
-    "1789992199495",
-    "1789998155266",
     "1789999425590",
     "1790006410312",
     "1790006431396",
@@ -13632,10 +13629,13 @@
     "1790575273216",
     "1790576823459",
     "1790576886907",
-    "1790576906621"
+    "1790576906621",
+    "1790560156467",
+    "1790576886416",
+    "1790577671669"
   ],
   "last_digest_hour": "2026-09-28T12",
-  "last_success": "2026-09-28T06:32:08.812364+00:00",
+  "last_success": "2026-09-28T06:46:57.657500+00:00",
   "national": {
     "alerted": [
       {
@@ -16392,7 +16392,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-28T06:35:55.356315+00:00",
+    "last_run": "2026-09-28T06:52:17.081473+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18122,7 +18122,8 @@
       "pib:2315740",
       "pib:2315757",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tributes-to-shri-ashok-singhal-highlighting-his-spiritual-commitment-and-dedication-to-social-unity",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-good-health-as-the-foundation-for-the-four-goals-of-life"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-good-health-as-the-foundation-for-the-four-goals-of-life",
+      "pib:2315840"
     ],
     "source_failures": {
       "CBI": {
@@ -18162,7 +18163,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Alive App raises $1 million from Powerhouse Ventures and Flipkart Ventures",
+      "post": {
+        "created_at": "2026-09-28T06:28:06+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790576886416",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Tribune",
+        "reposts": 0,
+        "text": "Alive App Raises $1 Million From Powerhouse Ventures and Flipkart Ventures to Accelerate Indias Experience Economy",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa1UwRFlHNmZCNEJSdEQyeVMyVHV0STl1TXVPV3hOOFl5VWJwalNGMllkQmxWUGZNSzNxNWlqQlB0NDAwSWJJcmowc1FDWFBCUTl5WXBEdFBJN2E1YkRTTnNmNTZUQXhYRHdwc3lxVHJJLUJGcHA3U1c1bTJ1Sy0yYW0zMDhSZ0NpbkFaOW1TQU5lT1ZINFpkc092Nk9nZVNtUUdyNVpkYVNIYmYtVGpOTkdJYkV0SUQzbXdlLUpkTVc0WlV5VjZrMktVZHI1ZGs2T190cmFxUlJsR2xhRGppT0lQNGF0MG1GbXUzTDFn0gHyAUFVX3lxTE8wSWNQMXV5aHdCWF81ZTVZd1U0NGpVeGtja2RIdlBoSTdKZEEtLWN2TENIdEVtMUhncW5KekZnLVVXaTVPVmRGY0EyNDlvMmxvakJMLU0zb2hTVmVEVE9Bc1Q3RlplOFNVSE9QTXFURHAyQXdsOW5hbk1iSFhMd1Y1aWZiREFFclAzdEVJeHdUZ1pCa3JBSkJ1aW9fQ1hlcUUzNmhVVlQ4SXdnVlNMQWxyVkpZd1JEUVd6TFlYQ09VYWgtYWlQZFJiWEJ1a1NJUUw0RDBpRUJNbXlXaVJ3c2NraDJyOXFwbk5WeV9FZ09IdDdB?oc=5"
+      },
+      "queued_at": "2026-09-28T06:46:57.604407+00:00",
+      "score": 8.0,
+      "why": "Early-stage startup funding round involving a major e-commerce player is a filable story."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19184,7 +19204,7 @@
     "news: india ai deeptech": 1790562946127,
     "news: india edtech gaming": 1790535586534,
     "news: india fintech": 1790576906621,
-    "news: india semiconductors": 1790575606195,
+    "news: india semiconductors": 1790577671669,
     "news: india tech policy": 1790562840964,
     "news: india telecom": 1790575273216,
     "news: indian it majors": 1790574195295,
@@ -19227,7 +19247,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T06:32:09.168273+00:00",
+    "last_server_run": "2026-09-28T06:46:57.997396+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T05:33:17.418885+00:00",
