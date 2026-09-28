@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-22T07:03:08.545389+00:00",
-      "handle": "PhonePe",
-      "headline": "PhonePe secures in-principle approval from UAE central bank for international expansion",
-      "tier": 1,
-      "url": "https://www.phonepe.com/press/phonepe-marks-first-international-footprint-in-uae-securing-in-principle-approval-from-central-bank-of-uae",
-      "words": [
-        "2026",
-        "approval",
-        "article",
-        "bank",
-        "bengaluru",
-        "central",
-        "dubai",
-        "first",
-        "footprint",
-        "international",
-        "marks",
-        "phonepe",
-        "principle",
-        "published"
-      ]
-    },
-    {
       "at": "2026-09-22T07:32:22.354051+00:00",
       "handle": "News: Indian IT midcaps",
       "headline": "Snapdeal parent AceVector sets September 25 for Rs 1,741-crore IPO",
@@ -7640,14 +7617,29 @@
         "offered",
         "openai"
       ]
+    },
+    {
+      "at": "2026-09-28T22:32:27.555727+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "HCLTech study shows under 7% of wealth firms build agentic AI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSUJDZFJTNzg2V0phOUFVOGZqQk1BOVJIbUlJQ3hSTWJIQ2l3V3BGY3R2NGxrWEI0YVBxZTYxSHdBZHdiTlRkd2xqYXNPbUJqOGd1MXRfQll5SzR1R2RkZW9aM0g4VVNOSWRwclNpYjVQM09zRXJMOUp0bWwxWTV0djNlWUJWdkMzYnZMTTlIZldTcm9RUG5qc0x4VVgtQlh0T3JQUkx3WGU2NklwNjNjdG5IalROOXhHMGlqR3VUOGpJaFVINkpIRTV4SWh6ckRMOFRuNGxVWEx4ckx2ODl5VEVUMTU2d1hFNjZtRm9fTXhSV3Q5UmFDaElicjA4TG5zVTVUZDF3M0TSAY4CQVVfeXFMUFRKWm9zakF1RFBuU2V3ODNvOGhSMEJjSlVpRWJ0MkhObXM0LS1jZldnZUR5bzFQWUJGc3lvSG5iR3dGMXdpaUpmWmdPWXh1N1NlQzRPakM5Nlo1OVRjaDRzWmlJdlU0NkFkZ2NmRDFrME4yY2pGeEk4V1h1X3JMdWZPaXNqTThkN0RjLThSLWdpUXlORVdaT21NRkx6TjVmZ3dDOWtfMUQzeVRkeHdxTkRGTjBnUFl6SW5IY192dHRtVjFKNG9pNTIwaFlFRDNWVkNkWkxqdEw1YmYwWWM1amdIRG5HTjV3QWxiOTFJQUotVFJJX1llMjVldUpGOEZpRDN2MndWQ0dZbzJIWXZR?oc=5",
+      "words": [
+        "agentic",
+        "building",
+        "fewer",
+        "firms",
+        "hcltech",
+        "pursuing",
+        "study",
+        "than",
+        "wealth"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790050044725",
-    "1790050487754",
-    "1789990236008",
     "1789997403968",
     "1790000070286",
     "1790001711334",
@@ -13644,10 +13636,13 @@
     "1790599320117",
     "1790626053073",
     "1790626311850",
-    "1790632800752"
+    "1790632800752",
+    "1790633101347",
+    "1790633640959",
+    "1790634478569"
   ],
-  "last_digest_hour": "2026-09-29T03",
-  "last_success": "2026-09-28T22:16:53.506112+00:00",
+  "last_digest_hour": "2026-09-29T04",
+  "last_success": "2026-09-28T22:32:27.604102+00:00",
   "national": {
     "alerted": [
       {
@@ -16685,7 +16680,7 @@
       "CG-DL-E-28092026-276573",
       "CG-DL-E-28092026-276570"
     ],
-    "last_run": "2026-09-28T22:19:49.890901+00:00",
+    "last_run": "2026-09-28T22:36:19.416006+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19610,8 +19605,8 @@
     "naukri": 1790234460996,
     "news: big tech platforms": 1790632727276,
     "news: consumer internet india": 1790617801509,
-    "news: global ai": 1790632800752,
-    "news: global chips": 1790631897528,
+    "news: global ai": 1790634478569,
+    "news: global chips": 1790633640959,
     "news: global it services": 1790629260317,
     "news: india ai deeptech": 1790617892240,
     "news: india edtech gaming": 1790591410895,
@@ -19619,7 +19614,7 @@
     "news: india semiconductors": 1790599529769,
     "news: india tech policy": 1790618718086,
     "news: india telecom": 1790621515749,
-    "news: indian it majors": 1790626053638,
+    "news: indian it majors": 1790633101347,
     "news: indian it midcaps": 1790618520881,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790632150523,
@@ -19659,7 +19654,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T22:16:53.891991+00:00",
+    "last_server_run": "2026-09-28T22:32:27.865882+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T22:18:33.423282+00:00",
