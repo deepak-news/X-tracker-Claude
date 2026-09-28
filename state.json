@@ -2,66 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-21T15:32:48.103336+00:00",
-      "handle": "News: Global AI",
-      "headline": "iPhone 18 Pro Can Run Massive 27B AI Model On-Device",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWE4V240MF9EakJSdWlZVWF4ZXBVYUNLQmhkWjh0VEFWQjc0eU1POFg3ODJ4VXpDS1BVdnFWVWtaVmt1TkxVNG1fbEt0WEk3N0hkZDBtQ3V6ZHp1YmFwcG1WdDJ3SWxDTFMtTlB6NE01ckUzRnNvUTRaMXZMTV82QzE5ZURYVklTVmhGYno5aGtZQdIBlwFBVV95cUxOT18zaVVwLW1oYm12bHU1NnM0aEhhU256bi1fZ1VzUGJObG04Vkd4V0xtN1p0NFNVOHMxalk1ZEYxLThCaDdDbDQ3R0NnSFZxTWFnRjVlQVBkMVZVTHc1eXEzVlNfX2otcUNvaFRzN0hVM2VwZnNBOUJPSEFWTVl1Rmw1WXdDVmZ2bmI1UF91VmtFSzM3S0Mw?oc=5",
-      "words": [
-        "27b",
-        "can",
-        "device",
-        "iphone",
-        "massive",
-        "model",
-        "pro",
-        "run"
-      ]
-    },
-    {
-      "at": "2026-09-21T15:32:48.103336+00:00",
-      "handle": "News: India fintech",
-      "headline": "Keep zero-fee UPI for few more years: NITI Aayog's ex-VC",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckpveW9FM24zRjNGdVh4WWFCQlZ5TmRJZy0xdmFoSjktUkZZNHB6ckVfVG9TeTFTdXlKSnExZ1hULXd2YmRVeWlaVEVZR0FRZ29tNE1PWm9DY1BVRVZTdVY0V3RRN0NTMlUtcG8xR2tDOVZpUnhjVmJGV1UtNHFybUVGdGp3RUV4M3RmVldObEFZcmo3b2VxMnNGRWxqdDNHa1hpTkt1NVAtc1ZrNmpxc9IBsAFBVV95cUxPckpveW9FM24zRjNGdVh4WWFCQlZ5TmRJZy0xdmFoSjktUkZZNHB6ckVfVG9TeTFTdXlKSnExZ1hULXd2YmRVeWlaVEVZR0FRZ29tNE1PWm9DY1BVRVZTdVY0V3RRN0NTMlUtcG8xR2tDOVZpUnhjVmJGV1UtNHFybUVGdGp3RUV4M3RmVldObEFZcmo3b2VxMnNGRWxqdDNHa1hpTkt1NVAtc1ZrNmpxcw?oc=5",
-      "words": [
-        "aayog",
-        "come",
-        "effect",
-        "fee",
-        "few",
-        "govt",
-        "inshorts",
-        "into",
-        "keep",
-        "more",
-        "niti",
-        "october",
-        "upi",
-        "years"
-      ]
-    },
-    {
-      "at": "2026-09-21T15:32:48.103336+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "IndiaAI Mission selects 10 startups for second Global Acceleration Programme cohort",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmgtajZHQ1JsWmVrc0hMYkV0a0ltWV9PVm5MOGN4bzhXNWVuS1dLS3I3TFlBSU5JazdzQVVadEdCbEVlM1gydDQ3NnJjTXZOWVNHNDZNOWpMNVk1Z0lIRjFZdGJMYTQ4cklYczVYR1d3VW93Vl9obHNIYVFxSlRja1liVEptWk5ISzROajdHSF9UQVhEeU1ZYkktQ2tjN3JRRVdkVTRZUW5JRFMySmc?oc=5",
-      "words": [
-        "acceleration",
-        "akashvani",
-        "cohort",
-        "global",
-        "indiaai",
-        "mission",
-        "news",
-        "programme",
-        "second",
-        "selects",
-        "startups"
-      ]
-    },
-    {
-      "at": "2026-09-21T15:32:48.103336+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Swiggy Instamart and Amazon warehouse operator among 10 losing Mumbai licenses in FDA crackdown",
       "tier": 0,
@@ -7642,33 +7582,67 @@
         "plans",
         "processing"
       ]
+    },
+    {
+      "at": "2026-09-28T12:34:59.028129+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Nvidia launches security tool to prevent AI agent escapes",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGlZQ3ZFQTNCNU92VXRCazJRYXFabDR4eVg2YzZydkpUbWRmaGJhUGVwX3FmQldOOHk5RVRyaUR4VUttem1CUmkyMU81QVZrQXpBeXdLMGVCaVhLaWhxQThMZGpMaGdXejBZNTk1N3gzYTFFTEVSTWNJRmtrZlczNUw0U3NrdGFMblE1b2cyS3VUTFhUTlhIUkwzY0t5YVNyZkpYdnBjYmtKSzVHdWlJSV8zTkNqZVIyMGtGZjJBWEhmSnVuaGpmVk11czNmeDNaSEJqb3ZYMEtvcWvSAdsBQVVfeXFMUDhpWUN2RUEzQjVPdlV0QmsyUWFxWmw0eHlYNmM2cnZKVG1kZmhiYVBlcF9xZkJXTjh5OUVUcmlEeFVLbXptQlJpMjFPNUFWa0F6QXl3SzBlQmlYS2locUE4TGRqTGhnV3owWTU5NTd4M2ExRUxFUk1jSUZra2ZXMzVMNFNza3RhTG5RNW9nMkt1VExYVE5YSFJMM2NLeWFTcmZKWHZwY2JrSks1R3VpSUlfM05DamVSMjBrRmYyQVhIZkp1bmhqZlZNdXMzZngzWkhCam92WDBLb3Fr?oc=5",
+      "words": [
+        "agents",
+        "escaping",
+        "hacking",
+        "launches",
+        "nvidia",
+        "stop",
+        "systems",
+        "tool"
+      ]
+    },
+    {
+      "at": "2026-09-28T12:34:59.028129+00:00",
+      "handle": "News: India telecom",
+      "headline": "Reliance Jio leads telecom additions with 24 lakh mobile subscribers in August",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcTV4bDdiTFR0LS03TWpjQnZrdmZ4T2gtNW9KYUs2aUpUbi1EbFVSdWJLYXZWYUFiM0FlOEdSX0RHZ2p5QkVhSWtQbjdiX0hmYzQ1c2dUSy05SDdTbVp6dEh0aVEtUkFTbklXeG53WEk3YS1uQ3dDcFJxVkdsaWx4d1VJcTNtMms1TkxtNkhwYjNkTGp5UVFNemJhUmZPX0FqeUtGNGs1UGx3T252Y2pyb1NoeF9LUkgxZkFmcExvVk5tV1MwS0lMeHlwNDBqNjNYMG56b09TVFlkWGNjaHRqUHM3WU8yQdIB6wFBVV95cUxOcWE2OTVYSW4wV3hjdHctUHFLTzRQNmpWTlpMTEdIcEMxV1ZBVEdXWmp3dm1Wc2tIcDBKQ2ZZbDBsLVN3a3haTFJZRkpUMHVzUWM2X1dWWXdmSlkwRlByOFYta0ZFbGsxQ2ZuNW5NbVdYRF9KZDZXcE90cVBVTnJlZGt1LVE4MWo2V1l0NlNBM2hnbkNVdVg4VXFDLTU5Nm42VllrZnJhUU5JeGx4c29Vby1EbnQ1UVY1NjJrcURZRkZDNHZJX1pkNU14eldaZnZ6Vk4zNTdQbkFMZzJHN1NnRmc4WGp6UWFNVHQw?oc=5",
+      "words": [
+        "additions",
+        "august",
+        "data",
+        "jio",
+        "lakh",
+        "leads",
+        "mobile",
+        "reliance",
+        "subscribers",
+        "telecom",
+        "trai"
+      ]
+    },
+    {
+      "at": "2026-09-28T12:34:59.028129+00:00",
+      "handle": "News: India fintech",
+      "headline": "India and UAE advance cross-border trade using UPI and local currencies",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWkJTQjBUVDV2Z1ZONUdJMzVqTFBTWE9LY2kyeEJ1emhVU2lDcTVUakNQa24wR1BXclJUUW1pdDFQTDVFNDBXOWRMTnVWcUtMZzBIOXNoVXlxSmRPMDlIaTJYX2NLeW5DYU9RVGM5QUk4MDlnZnJLUkRZTWhKQlV2RTlfMlc4VHhOY2xfM1VDblI5aUxodDI2OU9ZZFB4Zmkxa1N0eU54aXJlbWFaLWhfSmxuX3ZvaGZqZ1hBa2wzbkJoY1cycDdNWlQ2c29FNDdqbFlja1NKRlRUc2hpMEZDQng3cUY5UUl1dXFIb0Z0cUZHNnfSAewBQVVfeXFMUElIRTZIRFl1TndhRWM1enJvdFlYNjRESU1heDhWTkloNmpYTzZrVDU4bW11SXd2dXBGdTBiVzNMM2I1eG1pSU5MLVc5VktOR3hoTGdlRnJsU21EeDczQXNfNXBWNjhtS2tjdDdmVmxLWVo2OWg2cUN4ajVqeV9HMUtfeDdQaHVsTUpldFVPRUVtdUszaEVJbk5xLTE0SzZOdFkwcDJqU3RZZlF0cldCNXljRHdham1sZ2xFVlM5WF9aRWVVaDI3UklsYV9NTGFicmRuZ0V4N0F0QzNPd0VsTGVpY2hwY01KZFpVUGo?oc=5",
+      "words": [
+        "border",
+        "cross",
+        "dirham",
+        "friction",
+        "push",
+        "rupee",
+        "trade",
+        "uae",
+        "upi",
+        "without"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1786019424432",
-    "1786020875632",
-    "1786021557132",
-    "1786028775545",
-    "1786046700534",
-    "1786057080279",
-    "1786089600541",
-    "1786089600765",
-    "1786123800197",
-    "1786362300400",
-    "1786376703632",
-    "1786406400824",
-    "1786430160738",
-    "1786435200242",
-    "1786435200289",
-    "1786449627443",
-    "1786485600194",
-    "1786521600882",
-    "1786532400859",
-    "1786539613877",
-    "1786543200201",
-    "1786543200269",
     "1786543200491",
     "1786543200596",
     "1786543200639",
@@ -13646,10 +13620,32 @@
     "1790581479214",
     "1790592846514",
     "1790596064660",
-    "2316081"
+    "2316081",
+    "1785169809756",
+    "1785244897358",
+    "1785254410284",
+    "1785320227377",
+    "1785320688279",
+    "1785340930542",
+    "1785355620205",
+    "1785423659528",
+    "1785844826035",
+    "1785874500645",
+    "1785941110134",
+    "1786019072300",
+    "1790558700063",
+    "1790576580651",
+    "1790579280125",
+    "1790579762420",
+    "1790591400134",
+    "1790593270371",
+    "1790594379490",
+    "1790597988699",
+    "1790598256900",
+    "1790598263913"
   ],
-  "last_digest_hour": "2026-09-28T17",
-  "last_success": "2026-09-28T12:16:54.930010+00:00",
+  "last_digest_hour": "2026-09-28T18",
+  "last_success": "2026-09-28T12:34:59.081861+00:00",
   "national": {
     "alerted": [
       {
@@ -18352,44 +18348,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Nvidia launches security tool to prevent AI agent escapes",
-      "post": {
-        "created_at": "2026-09-28T11:00:27+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1790593227895",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Nvidia launches tool to stop AI agents from escaping and hacking systems",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGlZQ3ZFQTNCNU92VXRCazJRYXFabDR4eVg2YzZydkpUbWRmaGJhUGVwX3FmQldOOHk5RVRyaUR4VUttem1CUmkyMU81QVZrQXpBeXdLMGVCaVhLaWhxQThMZGpMaGdXejBZNTk1N3gzYTFFTEVSTWNJRmtrZlczNUw0U3NrdGFMblE1b2cyS3VUTFhUTlhIUkwzY0t5YVNyZkpYdnBjYmtKSzVHdWlJSV8zTkNqZVIyMGtGZjJBWEhmSnVuaGpmVk11czNmeDNaSEJqb3ZYMEtvcWvSAdsBQVVfeXFMUDhpWUN2RUEzQjVPdlV0QmsyUWFxWmw0eHlYNmM2cnZKVG1kZmhiYVBlcF9xZkJXTjh5OUVUcmlEeFVLbXptQlJpMjFPNUFWa0F6QXl3SzBlQmlYS2locUE4TGRqTGhnV3owWTU5NTd4M2ExRUxFUk1jSUZra2ZXMzVMNFNza3RhTG5RNW9nMkt1VExYVE5YSFJMM2NLeWFTcmZKWHZwY2JrSks1R3VpSUlfM05DamVSMjBrRmYyQVhIZkp1bmhqZlZNdXMzZngzWkhCam92WDBLb3Fr?oc=5"
-      },
-      "queued_at": "2026-09-28T11:46:53.406881+00:00",
-      "score": 8.0,
-      "why": "Major AI safety tool release from a key watched company, aligning with recent AI security updates."
-    },
-    {
-      "headline": "Reliance Jio leads telecom additions with 24 lakh mobile subscribers in August",
-      "post": {
-        "created_at": "2026-09-28T11:35:16+00:00",
-        "handle": "News: India telecom",
-        "id": "1790595316786",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "Reliance Jio leads telecom additions with 24 lakh mobile subscribers in August: TRAI data",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcTV4bDdiTFR0LS03TWpjQnZrdmZ4T2gtNW9KYUs2aUpUbi1EbFVSdWJLYXZWYUFiM0FlOEdSX0RHZ2p5QkVhSWtQbjdiX0hmYzQ1c2dUSy05SDdTbVp6dEh0aVEtUkFTbklXeG53WEk3YS1uQ3dDcFJxVkdsaWx4d1VJcTNtMms1TkxtNkhwYjNkTGp5UVFNemJhUmZPX0FqeUtGNGs1UGx3T252Y2pyb1NoeF9LUkgxZkFmcExvVk5tV1MwS0lMeHlwNDBqNjNYMG56b09TVFlkWGNjaHRqUHM3WU8yQdIB6wFBVV95cUxOcWE2OTVYSW4wV3hjdHctUHFLTzRQNmpWTlpMTEdIcEMxV1ZBVEdXWmp3dm1Wc2tIcDBKQ2ZZbDBsLVN3a3haTFJZRkpUMHVzUWM2X1dWWXdmSlkwRlByOFYta0ZFbGsxQ2ZuNW5NbVdYRF9KZDZXcE90cVBVTnJlZGt1LVE4MWo2V1l0NlNBM2hnbkNVdVg4VXFDLTU5Nm42VllrZnJhUU5JeGx4c29Vby1EbnQ1UVY1NjJrcURZRkZDNHZJX1pkNU14eldaZnZ6Vk4zNTdQbkFMZzJHN1NnRmc4WGp6UWFNVHQw?oc=5"
-      },
-      "queued_at": "2026-09-28T12:03:16.401749+00:00",
-      "score": 7.0,
-      "why": "Hard TRAI subscriber data figures for major Indian telecom operator."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19408,15 +19367,15 @@
     "news: big tech platforms": 1790591410895,
     "news: consumer internet india": 1790595989505,
     "news: global ai": 1790591043674,
-    "news: global chips": 1790592702537,
+    "news: global chips": 1790593270371,
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790594163659,
     "news: india edtech gaming": 1790581631287,
-    "news: india fintech": 1790596585231,
+    "news: india fintech": 1790598263913,
     "news: india semiconductors": 1790591917386,
     "news: india tech policy": 1790595919480,
     "news: india telecom": 1790595316786,
-    "news: indian it majors": 1790591580177,
+    "news: indian it majors": 1790598256900,
     "news: indian it midcaps": 1790594760172,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790596064660,
@@ -19456,7 +19415,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T12:16:55.307209+00:00",
+    "last_server_run": "2026-09-28T12:34:59.412895+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T11:47:42.347404+00:00",
@@ -20099,7 +20058,9 @@
       "gazette:CG-DL-E-25092026-276502|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-25092026-276517|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-25092026-276517|MHA_FINANCE_MAIL_TO",
-      "gazette:CG-DL-E-26092026-276475|GAZETTE_MAIL_TO"
+      "gazette:CG-DL-E-26092026-276475|GAZETTE_MAIL_TO",
+      "meeting:LS|22529",
+      "meeting:LS|22530"
     ]
   }
 }
