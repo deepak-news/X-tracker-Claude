@@ -1,39 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-21T10:32:12.155774+00:00",
-      "handle": "News: India fintech",
-      "headline": "Montran enables MyUPI, Tap & Pay and Contextual EMI",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZi1RQ19xdXRkYklnaFdZOE1DRjBWQmd1VEE4WHFFZk9JRV9takpNcmRrYmE4emNmYmNYelVZMks3SWNLMk5xMVFYU3FLUU9SOFZ6TzVGRGhTZm5HYzZqMjJBaUQ2cTM4RHlXUG1sZVNZS2FBbC1CeFFYRXI5dmR2Q3BhcG9YSVJKbkVFTTdjbEg?oc=5",
-      "words": [
-        "contextual",
-        "emi",
-        "enables",
-        "montran",
-        "myupi",
-        "pay",
-        "tap"
-      ]
-    },
-    {
-      "at": "2026-09-21T10:32:12.155774+00:00",
-      "handle": "News: India telecom",
-      "headline": "Bharti Airtel pays Rs 1.03 lakh DoT penalty",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXFvamtZdVo0d0ZlcFUweTNnMmVVbzB4VWpESlhVQlZqQUJreTcxb2dNc0dmNjV0Y3BHTTd3UGpVVVFua3ptclFEUFB5RUN5SjBXNExRTGNLcElkeFZWX0Y4blFBaXE2VmRsd0tqMFdLRDI1Q2lSRVdXVmNmcnJtT2pQNVdtTjRxZ3VaNW1hZEFsLUU4RUU3a3d3OG5PM0ltQUhrc1N6QWdBQlNhRVlxYjl4UFdlMXhaLV93cFliZw?oc=5",
-      "words": [
-        "000",
-        "airtel",
-        "bharti",
-        "lapse",
-        "pays",
-        "penalty",
-        "subscriber",
-        "verification"
-      ]
-    },
-    {
       "at": "2026-09-21T10:47:26.279969+00:00",
       "handle": "Razorpay",
       "headline": "New FEMA Export Declaration Form rule applies to IT and software exporters",
@@ -7624,13 +7591,46 @@
         "sanand",
         "semiconductor"
       ]
+    },
+    {
+      "at": "2026-09-28T03:31:52.545664+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "HyperVault plans Rs 70,000 crore AI data centre in Hyderabad",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUFJ1bUdJMzUxM0RiSVNNaHJkTXBxOTY1ZHV4aDg3WEpFOGgzdGwzOHFES3JKMFM0bV8xS2NBVjM1YUd4aXJ0cmNNWmUtdnhxdG5VTTZMNndRVEg4cXFfZDBvdF9QUlRlOVZNMjRGVWZnUzVxTzNJOUJweVplelVxM3ZCbXRXVTM0UnB3anhJaVpjOE1YZ2ZleVRDUHNGTWd4WVVWM25Ea3dHMF8yckd0SG1QaTBSLWFQOXh3aXU0VWF2U1Bqd0JWYXVRb0JCN1ZuUzd1YnFINDZWLXhUTFNfOUZZdUt0bzFLWFlXbXFpYUwxelpqT2dId1gxTmRfSURaX2VhdUJyQ3JCRmo1Ym5TV0JrdWFud0VNVEIyemRB0gHsAUFVX3lxTE16Y29kZW92ZjNVZENxTEl3TC01LWdrVWNoYUVZNHdpWTV2YmtzQ3FqNG14c2NMN1JuWkRqMUp3MXJ2QVpjMXFjYS1RekRwZ1hrUnA3WGVyZEx4cWtIbW5kMGJPX01hMVlRUl9RZVZtaExhMkVaQ25jdXAtdWljczhKOWJ6SHF4ME9YMHJNLXgzUXdWWkpEQ21UZHR1bG8zTTlNUDlOb3U4YzhrbzBYMU82by1nblVoVmF0LVFTYUdvSFZ3NTRSSHdPTlVsYUlLOGJIblN6QjJfaTZjX1RVWFRyR0piT2VUNHRMNEFE?oc=5",
+      "words": [
+        "000",
+        "campus",
+        "centre",
+        "data",
+        "hyderabad",
+        "hypervault",
+        "plans"
+      ]
+    },
+    {
+      "at": "2026-09-28T03:31:52.545664+00:00",
+      "handle": "News: India fintech",
+      "headline": "Supreme Court to hear UPI MDR challenge case today",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXpsSmZvNV9nc2lNbUdWU3ViWnF1U0VOcDdaemQ2Z19ib3k3eWcxQU0tdTREMFNVU3RnRDJXa2hlU1R1NlcyUkppbkg3VG5fdFB2cTVZTGtwYmtsZGdXNzZZTHJ1NXRsanEyVjdpTUYzWlQzTDlweU1RQ0hVSWZiUUxqMWx5ZzJjU1V6Y1hUTUtBUHZhOUphMnBhcGNoOU5FX3hXOUp3bkRQdzB5N2pUNzhmc182dHlqRUJFRUZmTzYtUdIBxwFBVV95cUxOU2ZJY2dLSlZxQ19zUk9fSzNXY2R0c3YxWWI5M1ZQZ281N3hXSGtiMTNVa1UyQ0Y1di1hWjhWNDk1NWUyU1VZRzZvd2syMHhldkxyaVRmSG44VlVTOXBuWlJCOWh6WXhDLS0xTW5VRmZzY2JscFc5dy10R0lSYXRLN1NiellmUGRaZl9RZ3hTbU1PVkZXLTBxbUlyMXNGWTVwQ0NVajVnaWpJX1RDV3ZvX0pKa2JPVGN1cEphVktLdFFXZ2xKanYw?oc=5",
+      "words": [
+        "being",
+        "case",
+        "challenged",
+        "changing",
+        "court",
+        "mdr",
+        "october",
+        "supreme",
+        "today",
+        "upi"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789985119418",
-    "1789989660134",
     "1789992823750",
     "1789995600957",
     "1789996119543",
@@ -13628,10 +13628,12 @@
     "1790564130357",
     "1790564193407",
     "1790561499190",
-    "2313217"
+    "2313217",
+    "1790494288380",
+    "1790518727870"
   ],
-  "last_digest_hour": "2026-09-28T08",
-  "last_success": "2026-09-28T03:17:08.013438+00:00",
+  "last_digest_hour": "2026-09-28T09",
+  "last_success": "2026-09-28T03:31:52.547161+00:00",
   "national": {
     "alerted": [
       {
@@ -16388,7 +16390,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-28T03:20:09.229591+00:00",
+    "last_run": "2026-09-28T03:35:42.829022+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18105,7 +18107,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-abhay-singh-on-winning-silver-medal-in-mens-singles-squash-at-asian-games",
       "quake:usgs:us6000txzx",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-receives-prestigious-aryadan-muhammed-best-public-servant-award-2026-nilambur-keralam/",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-participated-in-the-inauguration-of-dr-manmohan-singh-memorial-park-and-statue-unveiling-at-wipro-junction-financial-district-hyderabad/"
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-participated-in-the-inauguration-of-dr-manmohan-singh-memorial-park-and-statue-unveiling-at-wipro-junction-financial-district-hyderabad/",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63675"
     ],
     "source_failures": {
       "CBI": {
@@ -18145,44 +18148,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "HyperVault plans Rs 70,000 crore AI data centre in Hyderabad",
-      "post": {
-        "created_at": "2026-09-28T02:35:00+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1790562900890",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ET Datacenters",
-        "reposts": 0,
-        "text": "HyperVault plans \u20b970,000 crore AI data centre campus in Hyderabad",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUFJ1bUdJMzUxM0RiSVNNaHJkTXBxOTY1ZHV4aDg3WEpFOGgzdGwzOHFES3JKMFM0bV8xS2NBVjM1YUd4aXJ0cmNNWmUtdnhxdG5VTTZMNndRVEg4cXFfZDBvdF9QUlRlOVZNMjRGVWZnUzVxTzNJOUJweVplelVxM3ZCbXRXVTM0UnB3anhJaVpjOE1YZ2ZleVRDUHNGTWd4WVVWM25Ea3dHMF8yckd0SG1QaTBSLWFQOXh3aXU0VWF2U1Bqd0JWYXVRb0JCN1ZuUzd1YnFINDZWLXhUTFNfOUZZdUt0bzFLWFlXbXFpYUwxelpqT2dId1gxTmRfSURaX2VhdUJyQ3JCRmo1Ym5TV0JrdWFud0VNVEIyemRB0gHsAUFVX3lxTE16Y29kZW92ZjNVZENxTEl3TC01LWdrVWNoYUVZNHdpWTV2YmtzQ3FqNG14c2NMN1JuWkRqMUp3MXJ2QVpjMXFjYS1RekRwZ1hrUnA3WGVyZEx4cWtIbW5kMGJPX01hMVlRUl9RZVZtaExhMkVaQ25jdXAtdWljczhKOWJ6SHF4ME9YMHJNLXgzUXdWWkpEQ21UZHR1bG8zTTlNUDlOb3U4YzhrbzBYMU82by1nblVoVmF0LVFTYUdvSFZ3NTRSSHdPTlVsYUlLOGJIblN6QjJfaTZjX1RVWFRyR0piT2VUNHRMNEFE?oc=5"
-      },
-      "queued_at": "2026-09-28T02:46:48.751659+00:00",
-      "score": 9.0,
-      "why": "Massive capital expenditure commitment and infrastructure investment in an AI data centre in India."
-    },
-    {
-      "headline": "Supreme Court to hear UPI MDR challenge case today",
-      "post": {
-        "created_at": "2026-09-28T02:55:30+00:00",
-        "handle": "News: India fintech",
-        "id": "1790564130357",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "UPI MDR case in Supreme Court today: What is changing from October 15 and why it is being challenged",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXpsSmZvNV9nc2lNbUdWU3ViWnF1U0VOcDdaemQ2Z19ib3k3eWcxQU0tdTREMFNVU3RnRDJXa2hlU1R1NlcyUkppbkg3VG5fdFB2cTVZTGtwYmtsZGdXNzZZTHJ1NXRsanEyVjdpTUYzWlQzTDlweU1RQ0hVSWZiUUxqMWx5ZzJjU1V6Y1hUTUtBUHZhOUphMnBhcGNoOU5FX3hXOUp3bkRQdzB5N2pUNzhmc182dHlqRUJFRUZmTzYtUdIBxwFBVV95cUxOU2ZJY2dLSlZxQ19zUk9fSzNXY2R0c3YxWWI5M1ZQZ281N3hXSGtiMTNVa1UyQ0Y1di1hWjhWNDk1NWUyU1VZRzZvd2syMHhldkxyaVRmSG44VlVTOXBuWlJCOWh6WXhDLS0xTW5VRmZzY2JscFc5dy10R0lSYXRLN1NiellmUGRaZl9RZ3hTbU1PVkZXLTBxbUlyMXNGWTVwQ0NVajVnaWpJX1RDV3ZvX0pKa2JPVGN1cEphVktLdFFXZ2xKanYw?oc=5"
-      },
-      "queued_at": "2026-09-28T03:02:51.104665+00:00",
-      "score": 8.0,
-      "why": "Important regulatory and legal development regarding UPI MDR charges impacting the fintech sector."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19246,7 +19212,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T03:17:08.355923+00:00",
+    "last_server_run": "2026-09-28T03:31:52.832945+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T03:19:33.696992+00:00",
