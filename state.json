@@ -7646,10 +7646,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790008258981",
-    "1790008563387",
-    "1790008665761",
-    "1790008985254",
     "1789962720729",
     "1789997520578",
     "1790000400405",
@@ -13645,10 +13641,14 @@
     "1790582289368",
     "1790582535227",
     "1790582716160",
-    "1790590846701"
+    "1790590846701",
+    "1790564880829",
+    "1790573018962",
+    "1790583430473",
+    "1790583582246"
   ],
-  "last_digest_hour": "2026-09-28T13",
-  "last_success": "2026-09-28T08:16:28.088688+00:00",
+  "last_digest_hour": "2026-09-28T14",
+  "last_success": "2026-09-28T08:32:40.600562+00:00",
   "national": {
     "alerted": [
       {
@@ -16427,7 +16427,7 @@
       "CG-DL-E-28092026-276542",
       "CG-DL-E-28092026-276541"
     ],
-    "last_run": "2026-09-28T08:19:28.822660+00:00",
+    "last_run": "2026-09-28T08:37:27.256942+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18167,7 +18167,9 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-indian-chess-players",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63678",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63677",
-      "pib:2315890"
+      "pib:2315890",
+      "pib:2315919",
+      "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf"
     ],
     "source_failures": {
       "CBI": {
@@ -19228,8 +19230,8 @@
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790562946127,
     "news: india edtech gaming": 1790535586534,
-    "news: india fintech": 1790582535227,
-    "news: india semiconductors": 1790579762280,
+    "news: india fintech": 1790583430473,
+    "news: india semiconductors": 1790583582246,
     "news: india tech policy": 1790582716160,
     "news: india telecom": 1790582289368,
     "news: indian it majors": 1790580696648,
@@ -19272,7 +19274,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T08:16:28.438496+00:00",
+    "last_server_run": "2026-09-28T08:32:40.930688+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T07:33:48.398148+00:00",
