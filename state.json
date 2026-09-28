@@ -7640,8 +7640,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790014600131",
-    "1790017308417",
     "1790036513229",
     "1790044200395",
     "1790049180493",
@@ -13639,10 +13637,12 @@
     "1790634283903",
     "1790634840426",
     "1790635631472",
-    "1790635960417"
+    "1790635960417",
+    "1790636520417",
+    "1790637120444"
   ],
   "last_digest_hour": "2026-09-29T04",
-  "last_success": "2026-09-28T23:02:13.598402+00:00",
+  "last_success": "2026-09-28T23:16:55.457061+00:00",
   "national": {
     "alerted": [
       {
@@ -16680,7 +16680,7 @@
       "CG-DL-E-28092026-276573",
       "CG-DL-E-28092026-276570"
     ],
-    "last_run": "2026-09-28T23:05:24.334092+00:00",
+    "last_run": "2026-09-28T23:19:05.918943+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18599,6 +18599,24 @@
       "queued_at": "2026-09-28T23:02:13.551138+00:00",
       "score": 8.0,
       "why": "Major safety and model release disclosure by a top AI lab, meeting criteria for a wire story."
+    },
+    {
+      "headline": "Samsung Commits $1 Billion to AI Infrastructure Firm",
+      "post": {
+        "created_at": "2026-09-28T23:12:00+00:00",
+        "handle": "News: Global chips",
+        "id": "1790637120444",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "WSJ",
+        "reposts": 0,
+        "text": "Samsung Commits $1 Billion to AI Infrastructure Firm Backed by KKR, Nvidia",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNVgtREJ6azRuUmNkRkREbDZRdFRJZVhTSERCc2p2NTR5WVhCS1lWTzVTS3g2bm9pUE5CSTZmRTIzNHhVT2RpMm8xNVR4TnZLa0JLQzBOTVhFZTJqNnZKckR2aGtHYUhUa0kzRjB3aU8zcXV2Q04yaXBRRy1JZHRCS3lZWmZZLXN2RC1reWRWVHJ1SEFHU3RrWWhJQjFCTXUxakZPTkU5bGg2WHdXRUE?oc=5"
+      },
+      "queued_at": "2026-09-28T23:16:55.397888+00:00",
+      "score": 8.0,
+      "why": "Significant semiconductor and AI infrastructure investment by a major global tech company."
     }
   ],
   "page_links": {
@@ -19624,8 +19642,8 @@
     "naukri": 1790234460996,
     "news: big tech platforms": 1790632727276,
     "news: consumer internet india": 1790617801509,
-    "news: global ai": 1790635960417,
-    "news: global chips": 1790634840426,
+    "news: global ai": 1790636520417,
+    "news: global chips": 1790637120444,
     "news: global it services": 1790629260317,
     "news: india ai deeptech": 1790617892240,
     "news: india edtech gaming": 1790591410895,
@@ -19673,7 +19691,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T23:02:13.867103+00:00",
+    "last_server_run": "2026-09-28T23:16:55.837460+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T22:18:33.423282+00:00",
