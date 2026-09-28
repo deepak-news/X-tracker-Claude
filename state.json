@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-22T06:17:09.839004+00:00",
-      "handle": "BSE Syrma SGS",
-      "headline": "Syrma SGS subsidiary inaugurates new MedTech manufacturing facility in Jodhpur",
-      "tier": 2,
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/790b6dd3-f13e-47cd-b6bf-18d50bade07f.pdf",
-      "words": [
-        "2015",
-        "announcement",
-        "board",
-        "disclosure",
-        "exchange",
-        "filing",
-        "full",
-        "inauguration",
-        "listing",
-        "media",
-        "press",
-        "regulations",
-        "release",
-        "securities"
-      ]
-    },
-    {
       "at": "2026-09-22T06:32:34.639486+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Meesho share price surges 11% near post-listing high after UBS upgrade",
@@ -7635,18 +7612,34 @@
         "needs",
         "product"
       ]
+    },
+    {
+      "at": "2026-09-28T20:16:56.929826+00:00",
+      "handle": "AMD",
+      "headline": "AMD to acquire World Labs led by Fei-Fei Li",
+      "tier": 1,
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
+      "words": [
+        "acquire",
+        "acquisition",
+        "advance",
+        "amd",
+        "article",
+        "brings",
+        "compute",
+        "expertise",
+        "future",
+        "helping",
+        "infrastructure",
+        "labs",
+        "leading",
+        "model"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790041800715",
-    "1790043240304",
-    "1790044620665",
-    "1790046005541",
-    "1790046319344",
-    "1790046660821",
-    "1790047020678",
     "1790047318853",
     "1790047322991",
     "1790047350308",
@@ -13639,10 +13632,17 @@
     "1790623003401",
     "1790624880487",
     "1790625319456",
-    "1790625723609"
+    "1790625723609",
+    "1790591580094",
+    "1790591580904",
+    "1790603100023",
+    "1790617892005",
+    "1790623140147",
+    "1790625900561",
+    "1790626497528"
   ],
   "last_digest_hour": "2026-09-29T01",
-  "last_success": "2026-09-28T20:03:01.330444+00:00",
+  "last_success": "2026-09-28T20:16:57.221934+00:00",
   "national": {
     "alerted": [
       {
@@ -16680,7 +16680,7 @@
       "CG-DL-E-28092026-276573",
       "CG-DL-E-28092026-276570"
     ],
-    "last_run": "2026-09-28T20:05:28.032632+00:00",
+    "last_run": "2026-09-28T20:20:57.822439+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19581,7 +19581,7 @@
   "seen": {
     "airtel": 1790056002703,
     "amazon india": 1790325568512,
-    "amd": 1788174900103,
+    "amd": 1790625900561,
     "anthropic": 1790619391620,
     "apple": 1790081961621,
     "arm": 1788832833709,
@@ -19643,7 +19643,7 @@
     "news: big tech platforms": 1790623555318,
     "news: consumer internet india": 1790617801509,
     "news: global ai": 1790623740857,
-    "news: global chips": 1790621089496,
+    "news: global chips": 1790626497528,
     "news: global it services": 1790620773072,
     "news: india ai deeptech": 1790617892240,
     "news: india edtech gaming": 1790591410895,
@@ -19691,7 +19691,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T20:03:01.570760+00:00",
+    "last_server_run": "2026-09-28T20:16:57.563698+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T20:04:55.171253+00:00",
