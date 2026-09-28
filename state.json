@@ -7629,15 +7629,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789737438503",
-    "1789737438931",
-    "1789998720479",
-    "1789999080558",
-    "1790008713425",
-    "1790028762052",
-    "1790032351899",
-    "1790035200478",
-    "1790037000328",
     "1790037053419",
     "1790037701628",
     "1789965000177",
@@ -13628,10 +13619,19 @@
     "1790613867081",
     "1790614159401",
     "1790614355460",
-    "1790614358648"
+    "1790614358648",
+    "1789736417002",
+    "1789737438332",
+    "1789737438476",
+    "1790599527965",
+    "1790607100623",
+    "1790609746574",
+    "1790612762064",
+    "1790613891850",
+    "1790614880540"
   ],
   "last_digest_hour": "2026-09-28T22",
-  "last_success": "2026-09-28T17:02:47.039477+00:00",
+  "last_success": "2026-09-28T17:17:19.259030+00:00",
   "national": {
     "alerted": [
       {
@@ -16627,9 +16627,12 @@
       "CG-DL-E-28092026-276558",
       "CG-BR-E-28092026-276557",
       "CG-DL-E-28092026-276555",
-      "CG-TL-E-28092026-276556"
+      "CG-TL-E-28092026-276556",
+      "CG-AP-E-28092026-276554",
+      "CG-DL-E-28092026-276550",
+      "CG-DL-E-28092026-276559"
     ],
-    "last_run": "2026-09-28T17:03:57.325791+00:00",
+    "last_run": "2026-09-28T17:24:20.353157+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18468,7 +18471,15 @@
       "feed:https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1790584774.pdf",
       "gazette:CG-TL-E-28092026-276556",
       "gazette:CG-DL-E-28092026-276555",
-      "gazette:CG-BR-E-28092026-276557"
+      "gazette:CG-BR-E-28092026-276557",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-yashvir-singh-and-rohit-yadav-on-winning-silver-and-bronze-medals-in-javelin-throw-at-asian-games",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-gulveer-singh-on-winning-silver-in-mens-1500m-at-asian-games",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-vithya-ramraj-on-winning-bronze-in-womens-400m-hurdles-at-asian-games",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-murali-sreeshankar-on-winning-medal-in-mens-long-jump-at-asian-games",
+      "gazette:CG-DL-E-28092026-276550",
+      "gazette:CG-DL-E-28092026-276559",
+      "gazette:CG-AP-E-28092026-276554",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-parul-chaudhary-on-winning-bronze-in-womens-5000m-at-asian-games"
     ],
     "source_failures": {
       "CBI": {
@@ -19565,12 +19576,12 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790614358648,
+    "news: big tech platforms": 1790614880540,
     "news: consumer internet india": 1790608195758,
     "news: global ai": 1790614159401,
     "news: global chips": 1790614355460,
     "news: global it services": 1790609682571,
-    "news: india ai deeptech": 1790605623936,
+    "news: india ai deeptech": 1790607100623,
     "news: india edtech gaming": 1790591410895,
     "news: india fintech": 1790613109990,
     "news: india semiconductors": 1790599529539,
@@ -19616,7 +19627,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T17:02:47.355072+00:00",
+    "last_server_run": "2026-09-28T17:17:19.614083+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T16:03:33.579561+00:00",
@@ -19773,6 +19784,7 @@
       "CG-AP-E-26092026-276532",
       "CG-AP-E-26092026-276534",
       "CG-AP-E-26092026-276538",
+      "CG-AP-E-28092026-276554",
       "CG-BR-E-15092026-276210",
       "CG-BR-E-21092026-276348",
       "CG-BR-E-22092026-276400",
@@ -20015,10 +20027,12 @@
       "CG-DL-E-28092026-276547",
       "CG-DL-E-28092026-276548",
       "CG-DL-E-28092026-276549",
+      "CG-DL-E-28092026-276550",
       "CG-DL-E-28092026-276552",
       "CG-DL-E-28092026-276553",
       "CG-DL-E-28092026-276555",
       "CG-DL-E-28092026-276558",
+      "CG-DL-E-28092026-276559",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
