@@ -7643,9 +7643,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790047872019",
-    "1790048221514",
-    "1790002245741",
     "1790005620484",
     "1790023034841",
     "1790041380900",
@@ -13642,10 +13639,13 @@
     "1790619900393",
     "1790627664666",
     "1790607726102",
-    "1790628198092"
+    "1790628198092",
+    "1790553600448",
+    "1790553600964",
+    "1790606220945"
   ],
   "last_digest_hour": "2026-09-29T02",
-  "last_success": "2026-09-28T21:02:39.966812+00:00",
+  "last_success": "2026-09-28T21:16:48.176377+00:00",
   "national": {
     "alerted": [
       {
@@ -16683,7 +16683,7 @@
       "CG-DL-E-28092026-276573",
       "CG-DL-E-28092026-276570"
     ],
-    "last_run": "2026-09-28T21:04:16.757829+00:00",
+    "last_run": "2026-09-28T21:21:07.181663+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19676,7 +19676,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T21:02:40.325294+00:00",
+    "last_server_run": "2026-09-28T21:16:48.532063+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T20:04:55.171253+00:00",
