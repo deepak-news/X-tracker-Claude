@@ -1,161 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-21T13:03:23.173689+00:00",
-      "handle": "BSE Vodafone Idea",
-      "headline": "Vodafone Idea seeks shareholder nod via postal ballot to appoint independent directors",
-      "tier": 2,
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/eb61ac40-67d8-4b6b-8cc7-2f5d105f6b03.pdf",
-      "words": [
-        "anil",
-        "appointment",
-        "approval",
-        "ballot",
-        "berera",
-        "company",
-        "directors",
-        "enclosed",
-        "filing",
-        "full",
-        "gopika",
-        "idea",
-        "independent",
-        "limited"
-      ]
-    },
-    {
-      "at": "2026-09-21T13:32:56.338564+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Minister Ashwini Vaishnaw says several chip firms to invest under ISM 2.0",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUmVtelpiRkNRMGxrUVJnUmIwbXBmcUVfY3NscldoMTg2eEpjLVV3MUNnVUNjQUlYcUtnd0t3VmF3a1RQckk5a0tLRmxtNDJoRklObTVVTkFzQ3ZpaHFueWtNc2hQSkt1NUdwRzBfMlV0SkVTbmNEU1ZoNnVDOWFwemEya0xsNUNQcF9NWTNwUVBuampMS1A0MDBoX1hUR1VnenpOcDRYTUpzMjFJc01HYjRMeFVZbUlteDNCcGd4a0tDQ1Y4RTZmTGFkbFlBOExrQnFCdU1CTnI1cFFKc2FVYlVtQXFUemVVb2FYQ2RvVFUyZjdPbmwyWmt30gH6AUFVX3lxTE1SZW16WmJGQ1EwbGtRUmdSYjBtcGZxRV9jc2xyV2gxODZ4SmMtVXcxQ2dVQ2NBSVhxS2d3S3dWYXdrVFBySTlrS0tGbG00MmhGSU5tNVVOQXNDdmlocW55a01zaFBKS3U1R3BHMF8yVXRKRVNuY0RTVmg2dUM5YXB6YTJrTGw1Q1BwX01ZM3BRUG5qakxLUDQwMGhfWFRHVWd6ek5wNFhNSnMyMUlzTUdiNEx4VVltSW14M0JwZ3hrS0NDVjhFNmZMYWRsWUE4TGtCcUJ1TUJOcjVwUUpzYVViVW1BcVR6ZVVvYVhDZG9UVTJmN09ubDJaa3c?oc=5",
-      "words": [
-        "ashwini",
-        "chip",
-        "companies",
-        "invest",
-        "ism",
-        "months",
-        "plan",
-        "several",
-        "vaishnaw"
-      ]
-    },
-    {
-      "at": "2026-09-21T13:32:56.338564+00:00",
-      "handle": "News: India telecom",
-      "headline": "TRAI fines Mahanagar Telephone Nigam Rs 14 lakh for service regulation breach",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUk5ibENhNFNwU2lENmdTVU5iOU42QzM3RzhPX3YtWDBqTV8zcTJzY0J4WXUzZG9pMjlVOGRmRENZT1pmUnM1cFAwOWdtWF9FbFlKZjlWUVdZV2YtbmxZMF9ZQkkzYXAyZVFfX1pzTFBFTmpELTRjUldvRHJBYmhhRnhMY1ZJMElFVGVtdlpTbEszUDZtT012YnNoYnBzZ1M3UE9xMEpvQTZrWkh4X3NRYWxxaXJZZVA2bDRR?oc=5",
-      "words": [
-        "000",
-        "breach",
-        "fined",
-        "mahanagar",
-        "nigam",
-        "regulation",
-        "service",
-        "telephone",
-        "trai"
-      ]
-    },
-    {
-      "at": "2026-09-21T13:32:56.338564+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "India fabless chip design hits first silicon with MuDRA-1",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWmZoQm1oc3F1bGd2WTh4b1IzbnE3ZjJGTGNXSWVwYklaVy13MHZRSEpzM1JJeENTVU1taEdtMkJoYjdaOEJIY2ZHM0pUYklUN1hUcXlYU3pTT1k4amFuXzBhcWNhRFczTk5FZ1F4TURuRnF2aFJzcXV2WDVVTk1jc21EVk5rYUc5MS1ycFR6bUdCY2RzSXFDdm15c2VpNVZ5clBad18tU0NGb1R3TTVr?oc=5",
-      "words": [
-        "chip",
-        "design",
-        "fabless",
-        "first",
-        "mudra",
-        "reaches",
-        "silicon"
-      ]
-    },
-    {
-      "at": "2026-09-21T13:32:56.338564+00:00",
-      "handle": "News: India telecom",
-      "headline": "T-Mobile and Jio complete world's first cross-border 5G roaming connection",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVVNENweWNxX3lYa014YzUxMGc4N1hYMWJ2akhLTXBZdE9ZZEx3anBBYzVzSUxXLVVGNGFpNHl2TWNCMkNxT1NISEQ3SFktR0kyRzE5eGM5elNyV0xlaFhMLUxNMFhtUUV1cjg5NlZzWWRzdEtsdzN5cy1jVE5tR3ViUGtYYWxELUYwQnY4cjhlaVZ4UjJMMzk4aHZxdUFRbmtqbDhIa0o0QUk?oc=5",
-      "words": [
-        "borders",
-        "connection",
-        "crosses",
-        "first",
-        "happen",
-        "jio",
-        "made",
-        "mobile",
-        "roaming",
-        "world"
-      ]
-    },
-    {
-      "at": "2026-09-21T13:32:56.338564+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Karnataka HC upholds \u20b927.13 crore tax refund to Mukesh Bansal",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRF9hSEk3Q2xNM21tVkVwbG1sX25SRGx3Ti1YOVE3WHg1TEZEODlVTU9SSlpvVm1jMGxkY1FjeEdJOWFpeDJ1aUVOcWdzdVhOMUNHcDc3WVozLU11TjlWWGZHNFZXNFhwTkNhTHprVV9qMGZUU0h4UWMxMmMtTE9pVUFZT0FMelNXSFhnUlQyMmc3UUpwcDdRTEhPWFVBcUJfZGxGTkZDNFBjcEJDUVNTQ09oLXFQTm4xLTNyUlE5R1VvX1h1d1Z2aUZ2cUxGOFFUb2dFd3dEd0s4bFhlSzNmMFNDUWRBdGFVc2fSAeoBQVVfeXFMUERfYUhJN0NsTTNtbVZFcGxtbF9uUkRsd04tWDlRN1h4NUxGRDg5VU1PUkpab1ZtYzBsZGNRY3hHSTlhaXgydWlFTnFnc3VYTjFDR3A3N1laMy1NdU45VlhmRzRWVzRYcE5DYUx6a1VfajBmVFNIeFFjMTJjLUxPaVVBWU9BTHpTV0hYZ1JUMjJnN1FKcHA3UUxIT1hVQXFCX2RsRk5GQzRQY3BCQ1FTU0NPaC1xUE5uMS0zclJROUdVb19YdXdWdmlGdnFMRjhRVG9nRXd3RHdLOGxYZUszZjBTQ1FkQXRhVXNn?oc=5",
-      "words": [
-        "bansal",
-        "court",
-        "cult",
-        "fit",
-        "founder",
-        "high",
-        "karnataka",
-        "mukesh",
-        "myntra",
-        "refund",
-        "tax",
-        "upholds"
-      ]
-    },
-    {
-      "at": "2026-09-21T13:32:56.338564+00:00",
-      "handle": "News: Global AI",
-      "headline": "DeepSeek plans major Huawei Ascend chip deployment at Inner Mongolia data center",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByeG1XbHFianNaYjZzYkJvMXhQMldXNWRTNGJ4bk9WQWFFZXdYV3NHYnNMRGdFSk5jMHA4MFpkN1M1Y3pKemg2M0dDdkd4TEdEb2FWRTBrMEYzY1hDZWNYUXY5dTJyUlBLRHBpRWtn?oc=5",
-      "words": [
-        "ascend",
-        "center",
-        "chip",
-        "data",
-        "deepseek",
-        "deployment",
-        "huawei",
-        "inner",
-        "major",
-        "mongolia",
-        "plans"
-      ]
-    },
-    {
-      "at": "2026-09-21T13:32:56.338564+00:00",
-      "handle": "News: India fintech",
-      "headline": "Mobile Retailers Warn Finance Minister Over UPI MDR Impact on Margins",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYnhjdjhIcjZLLVBweU5faU5FYzVxby1WTmlBWE1CVXREaDA4SE1sYzNvMGlybS1sRjVKdWVkMk5YOS1RVWdEMy1FaFFmelU3aGxFb2VjdEFMNTlXdjdScTBRcGtYTTQzcE42bEpuQTBfLVBiLVhhTjZ0Mll6eGEtSGJER2xERC1hNkdIaks1cENLLWZqQUhTSDhiQUJ0dzVHRXJlZm9KZE84WmJaZW5xdldEbVJzVzVTYlFIcktwSGllTE54VU91bEkxWWJDTHc?oc=5",
-      "words": [
-        "alarm",
-        "margins",
-        "mdr",
-        "mobile",
-        "out",
-        "retailers",
-        "sitharaman",
-        "sound",
-        "survival",
-        "upi",
-        "wipe"
-      ]
-    },
-    {
       "at": "2026-09-21T14:32:37.537464+00:00",
       "handle": "News: Global AI",
       "headline": "OpenAI and Anthropic swap AI models for safety testing",
@@ -7645,24 +7490,156 @@
         "software",
         "system"
       ]
+    },
+    {
+      "at": "2026-09-28T09:32:09.849004+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Sachin Tendulkar announces official partnership with OpenAI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNalNCRFdmcEp0T0haS1NodXJaN1h5cUs5VkJCMzA0UWFQTDE1RzVFYjBFaEdsZzZvRkdzYXpiQVQ0ZDI0ZkdDS0R1MlhLdk94WVhsMjJBOFJxZy1NMlRGejZYVG1zNnZJcUNxd25ETzJKLVRLalZLYTNGb2dkWFItaDhPODJXS1lpdS1uTG9EVmNBTDY5ZlRFNENyVWdTdjEtcFF5NEE1T2RGRllxeUlkRGZUZjdVbzlSTHJ2UHdycEIyY3llcFM2UGFOZHdMZUlnd1JBRnhLQUs5M3lUN1FsaGJIeWFycy04Rlh4MFo1WkY4YWxsUkswSGJrRVJVRmtFUWhKMzJrR2NhQkUwYkHSAY4CQVVfeXFMTWpTQkRXZnBKdE9IWktTaHVyWjdYeXFLOVZCQjMwNFFhUEwxNUc1RWIwRWhHbGc2b0ZHc2F6YkFUNGQyNGZHQ0tEdTJYS3ZPeFlYbDIyQThScWctTTJURno2WFRtczZ2SXFDcXduRE8ySi1US2pWS2EzRm9nZFhSLWg4TzgyV0tZaXUtbkxvRFZjQUw2OWZURTRDclVnU3YxLXBReTRBNU9kRkZZcXlJZERmVGY3VW85UkxydlB3cnBCMmN5ZXBTNlBhTmR3TGVJZ3dSQUZ4S0FLOTN5VDdRbGhiSHlhcnMtOEZYeDBaNVpGOGFsbFJLMEhia0VSVUZrRVFoSjMya0djYUJFMGJB?oc=5",
+      "words": [
+        "announces",
+        "can",
+        "chatgpt",
+        "discovering",
+        "else",
+        "openai",
+        "partnership",
+        "sachin",
+        "tendulkar"
+      ]
+    },
+    {
+      "at": "2026-09-28T09:32:09.849004+00:00",
+      "handle": "News: India fintech",
+      "headline": "PhonePe CEO says company is planning foundational AI bets and structural review",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNalhwUVM0dEg4dHV2OEphZFJJRXREei1ETWJmRVJNVU55VmNxOVJUVzQ4NXBWck4zWGNGY3N1UmZISG92a2FHbUJtN01lQWJxTzFxQy05M0F2MldGVDdyQzZ5Z3V3akowa1N2enRHNUlNLU9nc0ZwYkx5U1hyQmNaaU82SEpkelNhaXlOQmIzREV4Mi01blBvQUJnUEYwUF9SYmVILUpMTkM0ZmcxNkJSNVg1Vzkxa2l5RzRUU21GT1ZxdWhVYmxvamtyNkdCNm1WLWpVV0xaWGR0b2Z5NzlqN29NaW05T3hMSGxnY1lUdGZuaFRpQ29neXo5RkR3TC1vcEHSAYcCQVVfeXFMT0xUMDRMOEZ2cHJkNDVVZkZGbEhrRFZ5NDdVbVZoWDRJVHNuQkg5YkdHWkZyQkJrS1Y5WjZSUHRlNkdUVkR5bjd2RjlrM0o5Q2Q0b0tGWDN6MTFYMC1tbjFMZUFUS1dBV0RYaUpIc1NZd0xwUjhJLTdzVkRMR0JMMzNKcXdBQVNHVTlNZVpsX09ETWFwMGN5VnlGU3RGa3MweUN3TFlJb2xiOWg3TGIwQTZPVzNudkVBQ1lySmRxVFR6SUpybjNXMVY4OHpLYlZIWTZVNVlzUjlHN2pTNlZwWVJPdF9IemZ4WE1JdF84cm4wMGhqZFBUVDhPNmk0U2dzQ194RkRTakk?oc=5",
+      "words": [
+        "bets",
+        "board",
+        "ceo",
+        "foundational",
+        "founder",
+        "make",
+        "phonepe",
+        "sameer",
+        "structure",
+        "talks"
+      ]
+    },
+    {
+      "at": "2026-09-28T09:32:09.849004+00:00",
+      "handle": "News: India fintech",
+      "headline": "SC questions legal basis for new UPI charges, declines stay",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWlaU1ppa01WcDVVbmpCNUtEOFVuV2tvdkZINEcxRVVtMXZsdXg1X0dxTHdjaW5nQWZuMi1uV3NPdTVEWXZMa3lmMUgxR1FCNWdhRHdUTWw0aTlXZ2VGb2ZqUXZZWEJrM25DN1RsTmJhSFpONG91ZklLWVI4UmdKdGs2WFFnN2lmeXJjcjY0U2ZMUEI1T2w3RURYcmZ4S1V5cG9BLUVBaTY0T1Nsc2ZWZTNITjFuTW9MaXo5NdIBwgFBVV95cUxOa082Ym9YWWNpeVhObkJ6VDNDTVVudmlTOEU2V2pjVXFvbmk2dEFNWmdDc1A1eFlzMTNfcDhmRnYzQktxYzFkVkRhdjJPc3VYUTY2RzEwbUoyQVdNbS11MWF0R0ZFeUN4SDZtMFVJRWcydTNRT25PX3huOGdxV3NxY29ValluYzA5aG52cU5LYzFsSHMyd1JWM1N3M3NEYVg4RDFfNDFmMko1UExiZUJacEVqZjJ4OUpGa09rLVlobjdVZw?oc=5",
+      "words": [
+        "basis",
+        "charges",
+        "declines",
+        "legal",
+        "levy",
+        "plea",
+        "questions",
+        "stay",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-09-28T09:32:09.849004+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft revamps Copilot into AI super app with coding tools",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMTRYVHlfVGRuMktHT3NqU0VLU2RrNnFodTMwQ2Vld3hLTEZ4QmZjMXFyS3dNVjAxWmo5RG1KTHhzVm5mbHptWHIwSFVVeDk2WVdiOHhSa3JlTGdaZUNENERELTd3UTRxTE1EUFdiNnpNYzRXTFB4OGxxSzRtMlZGWnJDczZMR09WMklqR2tMLUZQd0JCT2wwUGJhM2taUk51ZkVjMXQ3RkxEbk5Vdm9VQXVtZlotcEVU0gG_AUFVX3lxTE1SOFRjTi1HR283TWpubWJIOU5FbzFxN21yZWhMMDlmaGxkdHlQMjNKQzc3V3dWR1NHaVJYZTVoMkFWTnhMaURFdGstWFlwVFp5eU12YzRQZ1ZQRTh2dFFETTlkYUFEVVUxSG1vdE1KUWd0MlFNLXRXM3dVVjZWODM2ejR3dXdHR2xiaWkzdTU4YkRfZU50Vl9mQzVoS0VKTjBxMGNpMzRaX2RHYnBYLVdvMjZDMHdNdnV3d2N1dkhF?oc=5",
+      "words": [
+        "agent",
+        "always",
+        "app",
+        "coding",
+        "copilot",
+        "into",
+        "microsoft",
+        "revamps",
+        "super",
+        "tools"
+      ]
+    },
+    {
+      "at": "2026-09-28T09:32:09.849004+00:00",
+      "handle": "News: Global AI",
+      "headline": "US and China establish bilateral AI dialogue and incident reporting channel",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xSzktNFJaZm43MDMyN18wampnYVJPU1J3azlXaWVJYkJNS0k4Z3hmQWQxX2F5cTJDMU9NbUVheWxWZTVPTDFFVzVmSEhTZXQ4LUJFWHZyTC1IbjAwY1JIQk9IeGxmT09ZWHBCVjlfbGF6X1huMjNR?oc=5",
+      "words": [
+        "channel",
+        "china",
+        "dialogue",
+        "incident",
+        "set"
+      ]
+    },
+    {
+      "at": "2026-09-28T09:32:09.849004+00:00",
+      "handle": "News: India telecom",
+      "headline": "Reliance Jio launches JioShield family safety solution starting at Rs 1,000",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDE4LUc4ejI4cXFVTnlXUENtMjB0VUZQM0VpdVp3WVpoV1phLTBYdmxWenppVTk2NGpaanpna09CRUZGRkRubEl4cjhYV0JONGJ5WHNnSEtKUWJidGk3VUlSN1FuS3JLalJsdWlmVzBxNjZ6MUd6c3lDbTUwMWdSZ1NvT3VrWGJJTFJLQzdVR3RfMS02MnBUTzYwVWlEa2sxMlowZjg3WXphU2dldmRmY0tFaE9DMGtJLUJrdHNtWGxoZEw4ZXozTC1VNE5JUVFxVUhMMDJNaTBzcVZ4c2FpeW5XaUFnQmvSAewBQVVfeXFMTmJ0QlFkamVoUEhCR3NvRlpWVE00c2pfWXhXeGstanVqUnYwWU5YUmRjQ3FnSFlDSXVBN0ZEWjdkNkJiMzBVazZVbEhMOTE4cUI4dHluYVVZUk92dkc2aTdCb0xKY2lQQnZQMS1VTFNwYWEtWnVIeE1UUDJqbkdGd2piNHpkUkxfNy1ZMUJ5cUtGbGpQMFloa0IzVUZUSDdPeGZWZVpfMUZwVUJpV3JuRFRxWkN3NTVhc25LTW9tZ1NWY0xnTEdIbEYtY1I0Xzd5MGpBd0dkZGp0cXRNeVlfNnVJR24xRXRNbzhiLUU?oc=5",
+      "words": [
+        "000",
+        "annually",
+        "family",
+        "jio",
+        "jioshield",
+        "launches",
+        "safety",
+        "solution",
+        "starts",
+        "subscriptions"
+      ]
+    },
+    {
+      "at": "2026-09-28T09:32:09.849004+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Reliance plans $1 billion securitization deal in borrowing push",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXRzN2s5UVNJb3JDTi1YZGpqaWpkbXM1dHE1X2lSNlF2Q3hnb0dMd0IyMy1ONDdqNjNIUHhUNmc2YUpOaFlrcVdoTkc4bks4Z2NWTHlIWXRYckNCZFpTdW1ZMmc4eHZMc3FReDIzTDF6VFRxcWMtbjJCRmF6Y3lJWXlmeGdBVEg0NmFqRzhtTzVRTlBMTV81eFNUaXZvN3JCLTBiRncySnM5NnUwcy10V3lQYw?oc=5",
+      "words": [
+        "billion",
+        "borrowing",
+        "deal",
+        "plans",
+        "push",
+        "reliance",
+        "securitization"
+      ]
+    },
+    {
+      "at": "2026-09-28T09:32:09.849004+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Zomato co-founder Deepinder Goyal introduces wearable brain flow team",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNT1JZOVJhaDkwNTBNWnNIVjRTdnA2clIwVWxHYm1uVXNSSWRLajBYUHVSV04tTXFtYS11elVNZURrS0l3WFAzZmRndHF6dXNHdmZaU2dNd3V0b1JiQ25YWmpqaEtCaEVKMWQ4YXZJMGp5SmJvM2FLTDVnckhEZ2xzLUVkQTZvVEx2NHFOb2dMbkkzYmRwcHFEUENSdm55TzhmNm5JME5kSGdYUUkzSkYyTDIweU92RVBGUklhTVZUZEx6WkJsX1RKS2huT2pRNUtHd003RzNpZG85OFVkZjBsOVN2bEtNeXlXUFdtdVVRUGVrQ2F6endtWnRWWURDYTM0b25vRXhOMUltV2JScm1oa1NDbTJnU0XSAZwCQVVfeXFMUDJrTDlCMmRvdFhxdmtXRjFjcG0xbDVSVjQxbi1WR050MktRWkRZMjIycmxEOXduODBGTHlKek53UmRldkpfNURZM2VBNWV2MUtla0thSk5SamxMRVdHelpnNjNiTk1iMV84Yk5ua0pnMHJsXzByTHVrZ0t2eW1BRnVZYm1MNUJYVVBNczhDVkRnR2pWOG5kNUw4eFh4ekRKaV8yTHhiamxzeVNobHdHTmY1X0NlcGpOXzNaT04wV2YxYkFXRVFXTkhLVE5aZHduR1NFVTJ1dmxYX1lHQTc3U1hHN0tuVjJIWG9ZRXc2eDBTZ05IeVBibHYweWpVeUl3QXZ1OUVteEhLcTNGd1BwOXdIQktSOTZUajBXT20?oc=5",
+      "words": [
+        "behind",
+        "blood",
+        "brain",
+        "brainflow",
+        "deepinder",
+        "flow",
+        "founder",
+        "goyal",
+        "introduces",
+        "team",
+        "temple",
+        "wearable",
+        "zomato"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790010436248",
-    "1790010500223",
-    "1789041600313",
-    "1789974000997",
-    "1789983540355",
-    "1789984800386",
-    "1789986855975",
-    "1789989360520",
-    "1789990517029",
-    "1789997520581",
-    "1790004573581",
-    "1790004840287",
-    "1790005980275",
     "1790007360554",
     "1790008324360",
     "1790008560462",
@@ -13649,10 +13626,23 @@
     "1790586300319",
     "1790586406848",
     "1790586650533",
-    "1790586772746"
+    "1790586772746",
+    "1790577699198",
+    "1790579011156",
+    "1790579338114",
+    "1790579758991",
+    "1790579940134",
+    "1790581740004",
+    "1790582874717",
+    "1790584275763",
+    "1790585506739",
+    "1790586477607",
+    "1790586720470",
+    "1790586997385",
+    "1790587153317"
   ],
-  "last_digest_hour": "2026-09-28T14",
-  "last_success": "2026-09-28T09:16:55.989925+00:00",
+  "last_digest_hour": "2026-09-28T15",
+  "last_success": "2026-09-28T09:32:09.905838+00:00",
   "national": {
     "alerted": [
       {
@@ -16045,6 +16035,29 @@
           "part",
           "welfare"
         ]
+      },
+      {
+        "at": "2026-09-28T09:33:54.798396+00:00",
+        "handle": "PIB Ministry of Finance",
+        "headline": "DRI busts major gold smuggling network across India and seizes Rs 10 crore worth gold",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315943",
+        "words": [
+          "around",
+          "arrested",
+          "busts",
+          "dri",
+          "finance",
+          "foreign",
+          "gold",
+          "including",
+          "mastermind",
+          "ministry",
+          "more",
+          "network",
+          "origin",
+          "pan"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -16431,7 +16444,7 @@
       "CG-DL-E-28092026-276542",
       "CG-DL-E-28092026-276541"
     ],
-    "last_run": "2026-09-28T09:19:20.818712+00:00",
+    "last_run": "2026-09-28T09:33:54.799375+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18173,7 +18186,10 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63677",
       "pib:2315890",
       "pib:2315919",
-      "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf"
+      "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf",
+      "pib:2315941",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63679",
+      "pib:2315943"
     ],
     "source_failures": {
       "CBI": {
@@ -18213,116 +18229,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Sachin Tendulkar announces official partnership with OpenAI",
-      "post": {
-        "created_at": "2026-09-28T06:36:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1790577360765",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "'Discovering what else I can do with ChatGPT': Sachin Tendulkar announces partnership with OpenAI",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNalNCRFdmcEp0T0haS1NodXJaN1h5cUs5VkJCMzA0UWFQTDE1RzVFYjBFaEdsZzZvRkdzYXpiQVQ0ZDI0ZkdDS0R1MlhLdk94WVhsMjJBOFJxZy1NMlRGejZYVG1zNnZJcUNxd25ETzJKLVRLalZLYTNGb2dkWFItaDhPODJXS1lpdS1uTG9EVmNBTDY5ZlRFNENyVWdTdjEtcFF5NEE1T2RGRllxeUlkRGZUZjdVbzlSTHJ2UHdycEIyY3llcFM2UGFOZHdMZUlnd1JBRnhLQUs5M3lUN1FsaGJIeWFycy04Rlh4MFo1WkY4YWxsUkswSGJrRVJVRmtFUWhKMzJrR2NhQkUwYkHSAY4CQVVfeXFMTWpTQkRXZnBKdE9IWktTaHVyWjdYeXFLOVZCQjMwNFFhUEwxNUc1RWIwRWhHbGc2b0ZHc2F6YkFUNGQyNGZHQ0tEdTJYS3ZPeFlYbDIyQThScWctTTJURno2WFRtczZ2SXFDcXduRE8ySi1US2pWS2EzRm9nZFhSLWg4TzgyV0tZaXUtbkxvRFZjQUw2OWZURTRDclVnU3YxLXBReTRBNU9kRkZZcXlJZERmVGY3VW85UkxydlB3cnBCMmN5ZXBTNlBhTmR3TGVJZ3dSQUZ4S0FLOTN5VDdRbGhiSHlhcnMtOEZYeDBaNVpGOGFsbFJLMEhia0VSVUZrRVFoSjMya0djYUJFMGJB?oc=5"
-      },
-      "queued_at": "2026-09-28T08:46:57.462600+00:00",
-      "score": 8.0,
-      "why": "Major celebrity-AI partnership involving a top-tier AI lab and an Indian icon, serving as a filable story."
-    },
-    {
-      "headline": "PhonePe CEO says company is planning foundational AI bets and structural review",
-      "post": {
-        "created_at": "2026-09-28T08:46:48+00:00",
-        "handle": "News: India fintech",
-        "id": "1790585208206",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "PhonePe to make foundational AI bets, in talks with the board on structure, says CEO and co-founder Sameer...",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNalhwUVM0dEg4dHV2OEphZFJJRXREei1ETWJmRVJNVU55VmNxOVJUVzQ4NXBWck4zWGNGY3N1UmZISG92a2FHbUJtN01lQWJxTzFxQy05M0F2MldGVDdyQzZ5Z3V3akowa1N2enRHNUlNLU9nc0ZwYkx5U1hyQmNaaU82SEpkelNhaXlOQmIzREV4Mi01blBvQUJnUEYwUF9SYmVILUpMTkM0ZmcxNkJSNVg1Vzkxa2l5RzRUU21GT1ZxdWhVYmxvamtyNkdCNm1WLWpVV0xaWGR0b2Z5NzlqN29NaW05T3hMSGxnY1lUdGZuaFRpQ29neXo5RkR3TC1vcEHSAYcCQVVfeXFMT0xUMDRMOEZ2cHJkNDVVZkZGbEhrRFZ5NDdVbVZoWDRJVHNuQkg5YkdHWkZyQkJrS1Y5WjZSUHRlNkdUVkR5bjd2RjlrM0o5Q2Q0b0tGWDN6MTFYMC1tbjFMZUFUS1dBV0RYaUpIc1NZd0xwUjhJLTdzVkRMR0JMMzNKcXdBQVNHVTlNZVpsX09ETWFwMGN5VnlGU3RGa3MweUN3TFlJb2xiOWg3TGIwQTZPVzNudkVBQ1lySmRxVFR6SUpybjNXMVY4OHpLYlZIWTZVNVlzUjlHN2pTNlZwWVJPdF9IemZ4WE1JdF84cm4wMGhqZFBUVDhPNmk0U2dzQ194RkRTakk?oc=5"
-      },
-      "queued_at": "2026-09-28T09:02:39.301839+00:00",
-      "score": 8.0,
-      "why": "Major strategic announcement by fintech leader on AI investments."
-    },
-    {
-      "headline": "Reliance Jio launches JioShield family safety solution starting at Rs 1,000",
-      "post": {
-        "created_at": "2026-09-28T07:22:38+00:00",
-        "handle": "News: India telecom",
-        "id": "1790580158571",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Indiatimes",
-        "reposts": 0,
-        "text": "Jio launches JioShield family safety solution, subscriptions starts at \u20b91,000 annually",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDE4LUc4ejI4cXFVTnlXUENtMjB0VUZQM0VpdVp3WVpoV1phLTBYdmxWenppVTk2NGpaanpna09CRUZGRkRubEl4cjhYV0JONGJ5WHNnSEtKUWJidGk3VUlSN1FuS3JLalJsdWlmVzBxNjZ6MUd6c3lDbTUwMWdSZ1NvT3VrWGJJTFJLQzdVR3RfMS02MnBUTzYwVWlEa2sxMlowZjg3WXphU2dldmRmY0tFaE9DMGtJLUJrdHNtWGxoZEw4ZXozTC1VNE5JUVFxVUhMMDJNaTBzcVZ4c2FpeW5XaUFnQmvSAewBQVVfeXFMTmJ0QlFkamVoUEhCR3NvRlpWVE00c2pfWXhXeGstanVqUnYwWU5YUmRjQ3FnSFlDSXVBN0ZEWjdkNkJiMzBVazZVbEhMOTE4cUI4dHluYVVZUk92dkc2aTdCb0xKY2lQQnZQMS1VTFNwYWEtWnVIeE1UUDJqbkdGd2piNHpkUkxfNy1ZMUJ5cUtGbGpQMFloa0IzVUZUSDdPeGZWZVpfMUZwVUJpV3JuRFRxWkN3NTVhc25LTW9tZ1NWY0xnTEdIbEYtY1I0Xzd5MGpBd0dkZGp0cXRNeVlfNnVJR24xRXRNbzhiLUU?oc=5"
-      },
-      "queued_at": "2026-09-28T09:02:39.301839+00:00",
-      "score": 7.0,
-      "why": "New consumer product and security service launch by major telecom operator."
-    },
-    {
-      "headline": "SC questions legal basis for new UPI charges, declines stay",
-      "post": {
-        "created_at": "2026-09-28T08:59:58+00:00",
-        "handle": "News: India fintech",
-        "id": "1790585998317",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "SC questions legal basis for new UPI charges, declines plea to stay levy",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWlaU1ppa01WcDVVbmpCNUtEOFVuV2tvdkZINEcxRVVtMXZsdXg1X0dxTHdjaW5nQWZuMi1uV3NPdTVEWXZMa3lmMUgxR1FCNWdhRHdUTWw0aTlXZ2VGb2ZqUXZZWEJrM25DN1RsTmJhSFpONG91ZklLWVI4UmdKdGs2WFFnN2lmeXJjcjY0U2ZMUEI1T2w3RURYcmZ4S1V5cG9BLUVBaTY0T1Nsc2ZWZTNITjFuTW9MaXo5NdIBwgFBVV95cUxOa082Ym9YWWNpeVhObkJ6VDNDTVVudmlTOEU2V2pjVXFvbmk2dEFNWmdDc1A1eFlzMTNfcDhmRnYzQktxYzFkVkRhdjJPc3VYUTY2RzEwbUoyQVdNbS11MWF0R0ZFeUN4SDZtMFVJRWcydTNRT25PX3huOGdxV3NxY29ValluYzA5aG52cU5LYzFsSHMyd1JWM1N3M3NEYVg4RDFfNDFmMko1UExiZUJacEVqZjJ4OUpGa09rLVlobjdVZw?oc=5"
-      },
-      "queued_at": "2026-09-28T09:16:55.939749+00:00",
-      "score": 8.0,
-      "why": "Supreme Court development on the high-profile ongoing UPI MDR legal battle."
-    },
-    {
-      "headline": "Reliance plans $1 billion securitization deal in borrowing push",
-      "post": {
-        "created_at": "2026-09-28T08:37:23+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1790584643482",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bloomberg",
-        "reposts": 0,
-        "text": "Reliance Plans $1 Billion Securitization Deal in Borrowing Push",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXRzN2s5UVNJb3JDTi1YZGpqaWpkbXM1dHE1X2lSNlF2Q3hnb0dMd0IyMy1ONDdqNjNIUHhUNmc2YUpOaFlrcVdoTkc4bks4Z2NWTHlIWXRYckNCZFpTdW1ZMmc4eHZMc3FReDIzTDF6VFRxcWMtbjJCRmF6Y3lJWXlmeGdBVEg0NmFqRzhtTzVRTlBMTV81eFNUaXZvN3JCLTBiRncySnM5NnUwcy10V3lQYw?oc=5"
-      },
-      "queued_at": "2026-09-28T09:16:55.939749+00:00",
-      "score": 7.0,
-      "why": "Significant corporate financial deal and debt arrangement by a major Indian conglomerate."
-    },
-    {
-      "headline": "Zomato co-founder Deepinder Goyal introduces wearable brain flow team",
-      "post": {
-        "created_at": "2026-09-28T08:57:03+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1790585823135",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Zomato co-founder Deepinder Goyal introduces Temple\u2019s BrainFlow team behind wearable brain blood flow...",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNT1JZOVJhaDkwNTBNWnNIVjRTdnA2clIwVWxHYm1uVXNSSWRLajBYUHVSV04tTXFtYS11elVNZURrS0l3WFAzZmRndHF6dXNHdmZaU2dNd3V0b1JiQ25YWmpqaEtCaEVKMWQ4YXZJMGp5SmJvM2FLTDVnckhEZ2xzLUVkQTZvVEx2NHFOb2dMbkkzYmRwcHFEUENSdm55TzhmNm5JME5kSGdYUUkzSkYyTDIweU92RVBGUklhTVZUZEx6WkJsX1RKS2huT2pRNUtHd003RzNpZG85OFVkZjBsOVN2bEtNeXlXUFdtdVVRUGVrQ2F6endtWnRWWURDYTM0b25vRXhOMUltV2JScm1oa1NDbTJnU0XSAZwCQVVfeXFMUDJrTDlCMmRvdFhxdmtXRjFjcG0xbDVSVjQxbi1WR050MktRWkRZMjIycmxEOXduODBGTHlKek53UmRldkpfNURZM2VBNWV2MUtla0thSk5SamxMRVdHelpnNjNiTk1iMV84Yk5ua0pnMHJsXzByTHVrZ0t2eW1BRnVZYm1MNUJYVVBNczhDVkRnR2pWOG5kNUw4eFh4ekRKaV8yTHhiamxzeVNobHdHTmY1X0NlcGpOXzNaT04wV2YxYkFXRVFXTkhLVE5aZHduR1NFVTJ1dmxYX1lHQTc3U1hHN0tuVjJIWG9ZRXc2eDBTZ05IeVBibHYweWpVeUl3QXZ1OUVteEhLcTNGd1BwOXdIQktSOTZUajBXT20?oc=5"
-      },
-      "queued_at": "2026-09-28T09:16:55.939749+00:00",
-      "score": 7.0,
-      "why": "Venture and tech announcement by a prominent Indian consumer internet founder."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19336,18 +19243,18 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790575101241,
-    "news: consumer internet india": 1790586406848,
-    "news: global ai": 1790572790858,
+    "news: big tech platforms": 1790577699198,
+    "news: consumer internet india": 1790587153317,
+    "news: global ai": 1790585506739,
     "news: global chips": 1790586002565,
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790577706199,
     "news: india edtech gaming": 1790581631287,
-    "news: india fintech": 1790586161314,
+    "news: india fintech": 1790586720470,
     "news: india semiconductors": 1790583582246,
     "news: india tech policy": 1790586650533,
     "news: india telecom": 1790585642825,
-    "news: indian it majors": 1790585642825,
+    "news: indian it majors": 1790586477607,
     "news: indian it midcaps": 1790581328780,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790584643482,
@@ -19387,7 +19294,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T09:16:56.329958+00:00",
+    "last_server_run": "2026-09-28T09:32:10.251337+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T07:33:48.398148+00:00",
