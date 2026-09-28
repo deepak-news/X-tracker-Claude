@@ -1,25 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-21T12:33:16.459981+00:00",
-      "handle": "News: India fintech",
-      "headline": "GST Council may consider tax relief on UPI fees",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT1RPTXNlYzRYdFlIeWpWOW9lbVhxb3NTZTVqS0g4T1hXWFpIN3U1V0w2TmtQaVpFNmhCMTBGQ0VIV294bkQxMjRtTVk1djZjaWNHVW5FbEFJQVh4WXFyanczRXozd3ZmOEhieVhKWHdqWWlhcENmblA5M0tKSWRvallCSERaaGJaSjhoZzU3WHF5MzdzYm93bl85OXN4VFRCQlZlUkhoeC1HVjVYS0IxLVk1OHU3dHY1TG5rVmtNNXZYbm_SAcgBQVVfeXFMUHROM3E5OC1xeEZTbFFvZjdvUUNJQ192OE5fNXQxelBwVWdLWmc4dVNTOEw5RnkwQWhxdzgtNGJweUh6aUp4cFJ4TGNkdVBORU9DUTF5eFpZZHQyWmN6OHR4S1NMdDlzeG1JRTFyR0VsYmdldFUxcGJOQWlBU09jelNKS1BRWUpLcXhSRUdFS005NUpQdFE3TTFEdDNybk5FWTJBS2VobXFUUS1TeHVFTXVNaTBkTVpxWUJlQVJibTJ0dE1kM2xoY1Y?oc=5",
-      "words": [
-        "businesses",
-        "consider",
-        "council",
-        "fees",
-        "gst",
-        "may",
-        "relief",
-        "small",
-        "tax",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-09-21T13:03:23.173689+00:00",
       "handle": "BSE Vodafone Idea",
       "headline": "Vodafone Idea seeks shareholder nod via postal ballot to appoint independent directors",
@@ -7641,28 +7622,34 @@
         "race",
         "stores"
       ]
+    },
+    {
+      "at": "2026-09-28T09:16:55.562752+00:00",
+      "handle": "NVIDIA",
+      "headline": "Nvidia launches Open Agent Safety Platform for AI security",
+      "tier": 1,
+      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "words": [
+        "agent",
+        "agents",
+        "announced",
+        "deployment",
+        "design",
+        "launches",
+        "nvidia",
+        "open",
+        "platform",
+        "reference",
+        "safety",
+        "secure",
+        "software",
+        "system"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790009293959",
-    "1790009586636",
-    "1790009831104",
-    "1790000760159",
-    "1790001329618",
-    "1790002948478",
-    "1790004937176",
-    "1790005192606",
-    "1790005986902",
-    "1790006255912",
-    "1790006635590",
-    "1790009158951",
-    "1790009227006",
-    "1790009934190",
-    "1790009941901",
-    "1790010180933",
-    "1790010404290",
     "1790010436248",
     "1790010500223",
     "1789041600313",
@@ -13645,10 +13632,27 @@
     "1790584794869",
     "1790585208206",
     "1790585241991",
-    "1790586002565"
+    "1790586002565",
+    "1790006400385",
+    "1790580059181",
+    "1790581194606",
+    "1790581631287",
+    "1790584643482",
+    "1790585642825",
+    "1790585823135",
+    "1790585998317",
+    "1790586000398",
+    "1790586060916",
+    "1790586161314",
+    "1790586236850",
+    "1790586237973",
+    "1790586300319",
+    "1790586406848",
+    "1790586650533",
+    "1790586772746"
   ],
   "last_digest_hour": "2026-09-28T14",
-  "last_success": "2026-09-28T09:02:39.358994+00:00",
+  "last_success": "2026-09-28T09:16:55.989925+00:00",
   "national": {
     "alerted": [
       {
@@ -16427,7 +16431,7 @@
       "CG-DL-E-28092026-276542",
       "CG-DL-E-28092026-276541"
     ],
-    "last_run": "2026-09-28T09:04:36.947802+00:00",
+    "last_run": "2026-09-28T09:19:20.818712+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18263,6 +18267,60 @@
       "queued_at": "2026-09-28T09:02:39.301839+00:00",
       "score": 7.0,
       "why": "New consumer product and security service launch by major telecom operator."
+    },
+    {
+      "headline": "SC questions legal basis for new UPI charges, declines stay",
+      "post": {
+        "created_at": "2026-09-28T08:59:58+00:00",
+        "handle": "News: India fintech",
+        "id": "1790585998317",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Mint",
+        "reposts": 0,
+        "text": "SC questions legal basis for new UPI charges, declines plea to stay levy",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWlaU1ppa01WcDVVbmpCNUtEOFVuV2tvdkZINEcxRVVtMXZsdXg1X0dxTHdjaW5nQWZuMi1uV3NPdTVEWXZMa3lmMUgxR1FCNWdhRHdUTWw0aTlXZ2VGb2ZqUXZZWEJrM25DN1RsTmJhSFpONG91ZklLWVI4UmdKdGs2WFFnN2lmeXJjcjY0U2ZMUEI1T2w3RURYcmZ4S1V5cG9BLUVBaTY0T1Nsc2ZWZTNITjFuTW9MaXo5NdIBwgFBVV95cUxOa082Ym9YWWNpeVhObkJ6VDNDTVVudmlTOEU2V2pjVXFvbmk2dEFNWmdDc1A1eFlzMTNfcDhmRnYzQktxYzFkVkRhdjJPc3VYUTY2RzEwbUoyQVdNbS11MWF0R0ZFeUN4SDZtMFVJRWcydTNRT25PX3huOGdxV3NxY29ValluYzA5aG52cU5LYzFsSHMyd1JWM1N3M3NEYVg4RDFfNDFmMko1UExiZUJacEVqZjJ4OUpGa09rLVlobjdVZw?oc=5"
+      },
+      "queued_at": "2026-09-28T09:16:55.939749+00:00",
+      "score": 8.0,
+      "why": "Supreme Court development on the high-profile ongoing UPI MDR legal battle."
+    },
+    {
+      "headline": "Reliance plans $1 billion securitization deal in borrowing push",
+      "post": {
+        "created_at": "2026-09-28T08:37:23+00:00",
+        "handle": "News: Tech leaders",
+        "id": "1790584643482",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Bloomberg",
+        "reposts": 0,
+        "text": "Reliance Plans $1 Billion Securitization Deal in Borrowing Push",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXRzN2s5UVNJb3JDTi1YZGpqaWpkbXM1dHE1X2lSNlF2Q3hnb0dMd0IyMy1ONDdqNjNIUHhUNmc2YUpOaFlrcVdoTkc4bks4Z2NWTHlIWXRYckNCZFpTdW1ZMmc4eHZMc3FReDIzTDF6VFRxcWMtbjJCRmF6Y3lJWXlmeGdBVEg0NmFqRzhtTzVRTlBMTV81eFNUaXZvN3JCLTBiRncySnM5NnUwcy10V3lQYw?oc=5"
+      },
+      "queued_at": "2026-09-28T09:16:55.939749+00:00",
+      "score": 7.0,
+      "why": "Significant corporate financial deal and debt arrangement by a major Indian conglomerate."
+    },
+    {
+      "headline": "Zomato co-founder Deepinder Goyal introduces wearable brain flow team",
+      "post": {
+        "created_at": "2026-09-28T08:57:03+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790585823135",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "Zomato co-founder Deepinder Goyal introduces Temple\u2019s BrainFlow team behind wearable brain blood flow...",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNT1JZOVJhaDkwNTBNWnNIVjRTdnA2clIwVWxHYm1uVXNSSWRLajBYUHVSV04tTXFtYS11elVNZURrS0l3WFAzZmRndHF6dXNHdmZaU2dNd3V0b1JiQ25YWmpqaEtCaEVKMWQ4YXZJMGp5SmJvM2FLTDVnckhEZ2xzLUVkQTZvVEx2NHFOb2dMbkkzYmRwcHFEUENSdm55TzhmNm5JME5kSGdYUUkzSkYyTDIweU92RVBGUklhTVZUZEx6WkJsX1RKS2huT2pRNUtHd003RzNpZG85OFVkZjBsOVN2bEtNeXlXUFdtdVVRUGVrQ2F6endtWnRWWURDYTM0b25vRXhOMUltV2JScm1oa1NDbTJnU0XSAZwCQVVfeXFMUDJrTDlCMmRvdFhxdmtXRjFjcG0xbDVSVjQxbi1WR050MktRWkRZMjIycmxEOXduODBGTHlKek53UmRldkpfNURZM2VBNWV2MUtla0thSk5SamxMRVdHelpnNjNiTk1iMV84Yk5ua0pnMHJsXzByTHVrZ0t2eW1BRnVZYm1MNUJYVVBNczhDVkRnR2pWOG5kNUw4eFh4ekRKaV8yTHhiamxzeVNobHdHTmY1X0NlcGpOXzNaT04wV2YxYkFXRVFXTkhLVE5aZHduR1NFVTJ1dmxYX1lHQTc3U1hHN0tuVjJIWG9ZRXc2eDBTZ05IeVBibHYweWpVeUl3QXZ1OUVteEhLcTNGd1BwOXdIQktSOTZUajBXT20?oc=5"
+      },
+      "queued_at": "2026-09-28T09:16:55.939749+00:00",
+      "score": 7.0,
+      "why": "Venture and tech announcement by a prominent Indian consumer internet founder."
     }
   ],
   "page_links": {
@@ -19279,21 +19337,21 @@
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
     "news: big tech platforms": 1790575101241,
-    "news: consumer internet india": 1790585241991,
+    "news: consumer internet india": 1790586406848,
     "news: global ai": 1790572790858,
     "news: global chips": 1790586002565,
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790577706199,
-    "news: india edtech gaming": 1790535586534,
-    "news: india fintech": 1790585208206,
+    "news: india edtech gaming": 1790581631287,
+    "news: india fintech": 1790586161314,
     "news: india semiconductors": 1790583582246,
-    "news: india tech policy": 1790582716160,
-    "news: india telecom": 1790582289368,
-    "news: indian it majors": 1790581328355,
+    "news: india tech policy": 1790586650533,
+    "news: india telecom": 1790585642825,
+    "news: indian it majors": 1790585642825,
     "news: indian it midcaps": 1790581328780,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790513205872,
-    "nvidia": 1790258450056,
+    "news: tech leaders": 1790584643482,
+    "nvidia": 1790586000398,
     "nvidia blog": 1790258450056,
     "openai": 1790362800983,
     "oracle": 1790182896113,
@@ -19311,7 +19369,7 @@
     "sarvam ai": 1790254919948,
     "swiggy": 1789214456821,
     "tata electronics": 1789738328115,
-    "trai": 1790575432199,
+    "trai": 1790586772746,
     "xai": 1790100175347,
     "zinnov": 1790318797256,
     "zoho": 1790354886793
@@ -19329,7 +19387,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T09:02:39.729285+00:00",
+    "last_server_run": "2026-09-28T09:16:56.329958+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T07:33:48.398148+00:00",
