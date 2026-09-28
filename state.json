@@ -1,139 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-21T20:32:20.408503+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Google fined $463 million by EU for location data breach",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEIwZjN5QXpTbUlhZWg4d3ZWM0RpYTBNUnQ0VS1YUmZMS2Rpd0FTeXM3bm44dWNJZHFPOHlJRHlUdHV5TG1pbGJUaE81bWlSbHBPa29MWDlYZDAxMlRiRElneHhJTDlwTFBFRmRlTzN0WklFTzVqSFVGX0xDUU5Tdlh6ZjdBdDdXVDJVN0hOSDVKTlF4SGJqY2kzQdIBoAFBVV95cUxQQTVJM1RDYXBsYlhYdTFRYjVlcmpIVU5iQ1Z4eEt0Z0hDb0RBTnVJSkMtbUNQRkJETFFIN244ZTVyQjBkbzNMbm0tWmx1SlI1aFFURU1OZDNSYmY0RktTYlgtOERJM0p1TTM2T3JxV2hLVzJEUTJHSnRLRU1uOEtZd1l3Q1BUbktEamZZU1U3aDNjOTlWOEJWd3A0YTF2NUM3?oc=5",
-      "words": [
-        "463",
-        "breach",
-        "data",
-        "fine",
-        "google",
-        "hit",
-        "location",
-        "million",
-        "rule"
-      ]
-    },
-    {
-      "at": "2026-09-22T01:32:28.287331+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Apple India revenue exceeds $10 billion for FY26",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YUXU2YTNIUnllOHpFeHNvUjJndFR4OTR3LWVFOGpDc0JZdHNGcDBRZDBtaFNBM0l4NXZNenpxMXRYZ3VUZGt1cWh2eUdWbVFMOEwxRUh1RWRJbzFvNXZ4a1ZYaFlTYUNxa2tDb1pVVU04OTY1Qm9TVVhDU3Z1eXc?oc=5",
-      "words": [
-        "apple",
-        "billion",
-        "crosses",
-        "first",
-        "fy26",
-        "revenue",
-        "time"
-      ]
-    },
-    {
-      "at": "2026-09-22T01:32:28.287331+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "India chip push gathers pace with 25 new SEMICON deals",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWFCVDRtakgxSXlBTko2Z0pEQld2YmZGY19JNVZ4OHI0Y1pKcmxzaFVMQ25pODZZalB3VndZRnNNTVNlZmM5X0syYklhdWdCSFpVZWVHNk5BcmhIUm5Wb2tSanNXcDJfems3Tm41bmlUbTNkSE50MHVfUVhBa28tNS1nVVhoXzVGVVA4RGNhT2I3ODN1R3NJNjlPTHlvTno5SGM1RVdoWnpDVE80QWVhMlg2SXpqWXc1TlFOd0d4ZHdTUGd5R3c?oc=5",
-      "words": [
-        "chemicals",
-        "chip",
-        "deals",
-        "electronics",
-        "gases",
-        "gathers",
-        "pace",
-        "packaging",
-        "power",
-        "push",
-        "semicon",
-        "target"
-      ]
-    },
-    {
-      "at": "2026-09-22T01:32:28.287331+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Karnataka warns sub-registrars against using Aadhaar as sole age proof for marriages",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbWRZdGc0U0EtZkYycXJiWjU0c3lxNm0xMjJyanl3Z2dVaGRGYzRkYk1qWkE3cm5MLTVZZUVjd01hRy1EdVR6cURSNFhLb3M4MDNRQXk3RzRGNmZyWHZ3TExNYjZkQVJsLUhtSUI1cDAxQlBEMVlLR1l0dDBsRTI2eDZRamRTajJ6cE93MV9weFI2cUl0YUEyNC1oZDRieGk4ajFYTDg4eU5vY2xUY2lDNDF0UGJQWlQ0WDU2SzVTSy1sSmlBTU4wUFRuVlAxMlp2cE95RXpaaHpHeC1ONWp6TTVNSVFfUUdTOXV6WkJiQTY0N1doMEEtRFptTlQ?oc=5",
-      "words": [
-        "aadhaar",
-        "against",
-        "age",
-        "karnataka",
-        "marriage",
-        "only",
-        "proof",
-        "registrars",
-        "registrations",
-        "sub",
-        "using",
-        "warns"
-      ]
-    },
-    {
-      "at": "2026-09-22T02:32:33.297347+00:00",
-      "handle": "News: India fintech",
-      "headline": "Maharashtra petrol dealers petition Centre for UPI MDR fee waiver",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa2NfZzBQRFhDZHBmaWZiQUtPSUZ6MkpJdWJrRTdDNmI5WExXTC1mZmtDN0p3T2s3bkp0UFNpdHFySXB5ZGdnZnFBbTd2YWVzSTBkaWk2aHd0QUtmOGZxakNGQktzS3JwVW1LeTg5MFBjN3l6ZEZFVE9WN0FDZ002dGNnaTVQdGpnd0szRXpwN3ZTMU5CazFxajF6YUdValNYS1hNanN0RGhtc0I2NURESm1MOGVFVEhhdUY4UE5vLU1MSW8wejA3MHBSbFVBQzFncksyRXRMZl9KSjQ2NzhwQlhn0gHnAUFVX3lxTE5HRHNTbWRURVc3dEN3WXFLWHNONXYzZkFWU1hjZ1ZHdWQ0NnR1UzYyZHpxcnRLcTlubmZHdFFBVjgxSDNPWk14Vm1ZN0UxWWVFcW14SE5ILV83bUc0TU1iSGlpelVOSjJ3d0JLbnVsYVl5UGFhQThjaGRfcFVzWTE3TFB4VVFlRFdaLU5iQThvRjd4ZlBtbG5FZDRJOUU0TWlxY0ZiMW9Fd1Z5UndTRFBzWVlIdkd0ajFDRUpSUjIxWWxiQWM5LWZuZlBVS2stdXAzZDZ0ejEtUS1YSktkYTg3QU5DYkE3cw?oc=5",
-      "words": [
-        "centre",
-        "dealers",
-        "fixed",
-        "leave",
-        "maharashtra",
-        "margins",
-        "mdr",
-        "petrol",
-        "room",
-        "say",
-        "seek",
-        "upi",
-        "waiver"
-      ]
-    },
-    {
-      "at": "2026-09-22T03:32:29.887307+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "ADIA offloads additional stake in Lenskart through secondary market deal",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVp3TWVUMEplRmVFdUJKaldOd0Z3ZDhKU2ZSb0ZCUTNQR1JBdjJaXzd0anRMSmJCVUVXb050MUxEc0pIQW1xNnNWZEhid0NQNERMa3ZvYkRyNTcyR1JIUmZfMkJVUUx4RWZGTEd5SzMxaElsTkR0aDVfVHFKQkZmcFN3LUdQRTYyZ2pQZFJlaUtoamtTSElfZTdfa1g0cTdBNlNuSjYzbUFfMWt6cEQ3NzROUTRYUzNBR0Nvd3BsLUo?oc=5",
-      "words": [
-        "adia",
-        "exits",
-        "hydrogen",
-        "lenskart",
-        "masdar",
-        "more",
-        "morning",
-        "offloads",
-        "omv",
-        "project"
-      ]
-    },
-    {
-      "at": "2026-09-22T03:32:29.887307+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Google to report child abuse material directly to Indian authorities",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3U0S2FfYUhfZnI2ZUVUMzl6OG9wQjdEMGlvV1pJb0J4M2xqWkhUaC1jdXZXdlFTWVFjX2VWQkdBTDQzbWVQMlpZMXBHTkEzX1pDWGthbS1PZk9iUEN4MU5YNFppTjhnR3BnUjhqMHM0cnZKamw4R19tTmlHM2oxbXJiNnpTZmt3QzlzTnJrWm94dWY3eGQ3ZjBzQ1piRmpETU5fQUY2bDdndFdvbjVpeHZwMGdUXzJxTGF1X3pwcF81cjBDNGVYN3Nn?oc=5",
-      "words": [
-        "abuse",
-        "child",
-        "directly",
-        "google",
-        "material",
-        "meta",
-        "report"
-      ]
-    },
-    {
       "at": "2026-09-22T03:32:29.887307+00:00",
       "handle": "News: India AI deeptech",
       "headline": "Sarvam and Karya join Gates Foundation language AI push",
@@ -7638,67 +7505,130 @@
         "subscription",
         "works"
       ]
+    },
+    {
+      "at": "2026-09-28T16:32:30.708286+00:00",
+      "handle": "News: Global chips",
+      "headline": "Nvidia unveils security platform for AI agents and $150bn stock buyback",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2ZDbzFoNURoVDVfazFBZVpDelc3aWRUaURxYTNTX0tWdGt4QldvYW5SLVJvNmY5TV9hX3hka3UweWIteGVZTHpxbmx1bjJsaVg3MmozZThoRzlSdXltaGRSaFpUVHZBODAwb245MnRPTExCSjl2UV9ZRGMyLWdTeTE4ZmlTZWxyc09ISjI4NEFwS1BpNFFkdXF2UG5zcms?oc=5",
+      "words": [
+        "150bn",
+        "agents",
+        "buyback",
+        "nvidia",
+        "platform",
+        "rein",
+        "security",
+        "unveils"
+      ]
+    },
+    {
+      "at": "2026-09-28T16:32:30.708286+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI, Anthropic, Microsoft leaders warn of accelerating AI development",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbkJSOGhXcjFySUpZMFdXOUpNQzRfc0lYdFpBRk5PZkhuXzlGckFHQVFlMjdfczF5RXJjU3hoMDI2WW5iNDRaNlhJNmVzeld5c21wNFJNRTV4d2p3TGxvaE9ELW1Nd1dlR3FaTjVVUXBpc1VpZDduU25HWXZoOGJnVHd4OVZEcE1WemNFb3dtWlo1U0NZNDJPR0k2MlJPS0luNWZGaWZJRkpuUGJjUVBsbFhNaWZyTVZVUl9YajNJVVJrNWNTQjRBMkxpSkNUaEtseFJCVDlDdXNmcm9Xb2xyc9IB5gFBVV95cUxOSDVobktncmxTc2gyLUN3SFlqSW9kbkRhNXYzdFBqZTh2bF9haU5NTU1Kc09rZkhodFlVd2F0N0FCNnQyQ2xuX1c5aVlIQmM0SUFqVGNRaGcwZ0lXMTVFd3lrMEszNUV1SEJyUXlseGNxU3FPRnB1bTZVa2dNMXQyb3dwTlc0VEVUQWR0LUpkYU90d2l1TFE2N0pNcGtUSjJJTk9paWlhcVJuS1JOS25YbnF0UUt1Z3plVFgwUHlTczRDRHV2d1B0ZkY1b19KbkNBUGpZQi13cUc2ZVpEcFNWcG5iUF95UQ?oc=5",
+      "words": [
+        "accelerating",
+        "action",
+        "anthropic",
+        "development",
+        "leaders",
+        "microsoft",
+        "narrowing",
+        "openai",
+        "warn",
+        "window"
+      ]
+    },
+    {
+      "at": "2026-09-28T16:32:30.708286+00:00",
+      "handle": "News: Global AI",
+      "headline": "Top AI researchers call for urgent oversight of self-improving systems",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0JIcWNSZE5CSmhjRjVCMG9rd1VpN0VhX1FtVDRfR3ZEMXowSXNvVnVsWV8tU0dtcTNlT0FZX1MtWGxoU0VmeVQ0UUJZbnFndDFsczdDRUo4RjdzV3N6MGpkYkFKR0N5UmJUWHo1NEVKYms0UzE0TnAwMFdKaW9jM3E4S0FsYjBmRTI4T3JJZmhsS1BhYzUtSURWclNnY0V2ay05V0JDSGRNR0U?oc=5",
+      "words": [
+        "call",
+        "exclusive",
+        "improving",
+        "oversight",
+        "researchers",
+        "self",
+        "systems",
+        "top",
+        "urgent"
+      ]
+    },
+    {
+      "at": "2026-09-28T16:32:30.708286+00:00",
+      "handle": "News: Global AI",
+      "headline": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTdLR2U5RVBUd2QxaTU0WGNHc1p1S2Y4Wk1nTUhqMXlTOE1zeHdWc1Y2eFNfQ2FTZFB1bzZwT2dTSHp5Z3p4RVhwZUtNRGpkQ3RNYnVkUTd2ZG1EZk5PeGZNWGN0d19wOGp1dkQyRzRWM0xFcS04bjFkakt6Um5oWTFCTXphWERMYWRzX01IQURWekNZ?oc=5",
+      "words": [
+        "45b",
+        "chip",
+        "developer",
+        "hits",
+        "physical",
+        "sima",
+        "valuation"
+      ]
+    },
+    {
+      "at": "2026-09-28T16:32:30.708286+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Cognizant\u2019s TerraLingua seeks to contain risks from autonomous AI agents",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS192TG9sT1E2WEx6LVhKUFlGdnZzLWg0WWpiZFRWRE1WemNYSTBwQ1ludm1oNEhXdVdlWUdvTlhTMjVDS1ByRVNqYWsta1FtVExwZC1oYlB3UFlvZUdEWkRuOWdpR2xJOFNvZUZSTDg0aktZWktfbVdwU1EtMUVLamFOQlNVcy1rSUU0dFYtZ0FDNDZ1Z1JrcnUwM2JpNHJGUkVzS1dERV9QSWZtcG1QLVU0WFhDSGNhN2haR3laNTNxcXdKZVRERHdWeWI0eWd4RXl6Z3BUb0ZTV2pvTmFQWdIB5gFBVV95cUxQdXRoRXBuTldSZjI1VDNqS05lY3JwVUxlNjBmSWxoYWM0WlZ5NmhNUk5fN09kQVRlamFfVk52TTlSeDZfZnA5b3Z1NUJQV2h0UXlmc0FJZlpTZ0hIcDFtNV92TmFjZXgzaWdyRldQNUtrUGNEWlRkdnV0T0ItVzdwQWZLUWdUUzJkdXBILWU2X2V1NGR3VklQWkU1Yl9TLU10RnpTa2pPZmFaSVcza0JGeXVpVnVKVm5RR2hWZWxjVzBxX0ZDbndXYVUxZWdyc0xaaHo3SXEwSWZhQVZGZHJjSWptcF9Ydw?oc=5",
+      "words": [
+        "agents",
+        "autonomous",
+        "cognizant",
+        "contain",
+        "risks",
+        "seeks",
+        "terralingua"
+      ]
+    },
+    {
+      "at": "2026-09-28T16:32:30.708286+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta launches enterprise AI business amid spending surge",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXl4S1J5V0N4UWpZbHpnUlFaQWlXWWdjZFd0ZVBOSzJXS2VQZndsTXgyM29XV083LVlySlk5eGNxTWRXUjBGdkZHa3djdVJ6MDlVNDFKWlFfbnlHeW8tRi1Kd25jQlNYanFTQ3NhMFN5aWFFaHRWV21DR01mSEtxSzRyaDc?oc=5",
+      "words": [
+        "business",
+        "cash",
+        "enterprise",
+        "launches",
+        "meta",
+        "seeking",
+        "spending",
+        "vast"
+      ]
+    },
+    {
+      "at": "2026-09-28T16:32:30.708286+00:00",
+      "handle": "News: Global AI",
+      "headline": "NYC Council Says OpenAI, Meta Officials to Attend AI Hearing",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjFmN3BjZ0I4aDBzWEZ1SnVfZmlGSERTZGpfc003QWY1ZW5KMUtuU0RPZnhIQnNjY1F5S3FlYzVYTElwYjY3clA2bDJxLWZFMEYxdkF3dXJ2c1FOcGNBcHg4cmNLYWoycHJkM1o3MkhXd2tuWWoxcWR3WEtRbllOQVVYR3NwZG01NFUyN1BJdjlDb1hJOWdUUlBFTENLUXZIbUJXU29idl9FOHFDYkZR?oc=5",
+      "words": [
+        "attend",
+        "council",
+        "hearing",
+        "meta",
+        "nyc",
+        "officials",
+        "openai"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790011569517",
-    "1790027979400",
-    "1790028286188",
-    "1789646551202",
-    "1789646551284",
-    "1789646551395",
-    "1789646551402",
-    "1789646551431",
-    "1789646551578",
-    "1789646551637",
-    "1789646551673",
-    "1789646551701",
-    "1789732800252",
-    "1789732800254",
-    "1789992853231",
-    "1790015176249",
-    "1790021801902",
-    "1790029187273",
-    "1789945497660",
-    "1789966020260",
-    "1789993728626",
-    "1789998720505",
-    "1790002488095",
-    "1790003760317",
-    "1790014980917",
-    "1790015376650",
-    "1790017200184",
-    "1790023685814",
-    "1790027116532",
-    "1790029029487",
-    "1790029614534",
-    "1790029920729",
-    "1789734129685",
-    "1789997520055",
-    "1789998720675",
-    "1790005620791",
-    "1790009673636",
-    "1790026651060",
-    "1790010037248",
-    "1790022101902",
-    "1790028580660",
-    "1790029080942",
-    "1790029591940",
-    "1790029721219",
-    "1789970535563",
-    "1789978265447",
-    "1789993440678",
-    "1790029680133",
-    "1790030129065",
-    "1789735621179",
-    "1789985164337",
-    "1790005620045",
-    "1790028774750",
-    "1789735727201",
-    "1789962340070",
-    "1789980120777",
     "1790032705603",
     "1790034428959",
     "1789992177659",
@@ -13642,10 +13572,66 @@
     "1790611247010",
     "1790611838926",
     "1790612018212",
-    "1790612094184"
+    "1790612094184",
+    "1789631212015",
+    "1789631212023",
+    "1789631212072",
+    "1789631212128",
+    "1789631212205",
+    "1789631212275",
+    "1789631212334",
+    "1789631212341",
+    "1789631212388",
+    "1789631212556",
+    "1789631212561",
+    "1789631212568",
+    "1789631212582",
+    "1789631212707",
+    "1789631212767",
+    "1789631212773",
+    "1789631212786",
+    "1789631212934",
+    "1789631212992",
+    "1789631218001",
+    "1789631218188",
+    "1789631218202",
+    "1789631218210",
+    "1789631218251",
+    "1789631218263",
+    "1789631218389",
+    "1789631218418",
+    "1789631218440",
+    "1789631218714",
+    "1789631218715",
+    "1789631218862",
+    "1789631218874",
+    "1789631219190",
+    "1789631219642",
+    "1789631219653",
+    "1789637516540",
+    "1789646400569",
+    "1789650000163",
+    "1789650055203",
+    "1789652816738",
+    "1789653605718",
+    "1789660800700",
+    "1789667198200",
+    "1789671615139",
+    "1789672821332",
+    "1789679508606",
+    "1789703363718",
+    "1789707734879",
+    "1790580446220",
+    "1790591580402",
+    "1790601767664",
+    "1790607300710",
+    "1790611563059",
+    "1790612005592",
+    "1790612933545",
+    "1790613000785"
   ],
-  "last_digest_hour": "2026-09-28T21",
-  "last_success": "2026-09-28T16:17:50.454861+00:00",
+  "last_digest_hour": "2026-09-28T22",
+  "last_success": "2026-09-28T16:32:30.765184+00:00",
   "national": {
     "alerted": [
       {
@@ -16227,6 +16213,24 @@
           "january",
           "regional"
         ]
+      },
+      {
+        "at": "2026-09-28T16:36:55.109693+00:00",
+        "handle": "SEBI",
+        "headline": "SEBI issues final order against Adani Group companies for market manipulation.",
+        "tier": 1,
+        "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1790584774.pdf",
+        "words": [
+          "adani",
+          "alleged",
+          "companies",
+          "final",
+          "group",
+          "matter",
+          "mps",
+          "order",
+          "violation"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -16619,9 +16623,10 @@
       "CG-DL-E-28092026-276552",
       "CG-DL-E-28092026-276553",
       "CG-DL-E-28092026-276547",
-      "CG-TL-E-28092026-276551"
+      "CG-TL-E-28092026-276551",
+      "CG-DL-E-28092026-276558"
     ],
-    "last_run": "2026-09-28T16:21:52.933916+00:00",
+    "last_run": "2026-09-28T16:36:55.110521+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18455,7 +18460,9 @@
       "pib:2316250",
       "pib:2316256",
       "gazette:CG-TL-E-28092026-276551",
-      "gazette:CG-DL-E-28092026-276547"
+      "gazette:CG-DL-E-28092026-276547",
+      "gazette:CG-DL-E-28092026-276558",
+      "feed:https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1790584774.pdf"
     ],
     "source_failures": {
       "CBI": {
@@ -18495,134 +18502,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Nvidia unveils security platform for AI agents and $150bn stock buyback",
-      "post": {
-        "created_at": "2026-09-28T15:32:00+00:00",
-        "handle": "News: Global chips",
-        "id": "1790609520046",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Guardian",
-        "reposts": 0,
-        "text": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2ZDbzFoNURoVDVfazFBZVpDelc3aWRUaURxYTNTX0tWdGt4QldvYW5SLVJvNmY5TV9hX3hka3UweWIteGVZTHpxbmx1bjJsaVg3MmozZThoRzlSdXltaGRSaFpUVHZBODAwb245MnRPTExCSjl2UV9ZRGMyLWdTeTE4ZmlTZWxyc09ISjI4NEFwS1BpNFFkdXF2UG5zcms?oc=5"
-      },
-      "queued_at": "2026-09-28T15:47:21.607354+00:00",
-      "score": 9.0,
-      "why": "Nvidia is a key player, and this covers both AI safety and a major financial move."
-    },
-    {
-      "headline": "Top AI researchers call for urgent oversight of self-improving systems",
-      "post": {
-        "created_at": "2026-09-28T14:00:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1790604000636",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "WSJ",
-        "reposts": 0,
-        "text": "Exclusive | Top AI Researchers Call for Urgent Oversight of Self-Improving Systems",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0JIcWNSZE5CSmhjRjVCMG9rd1VpN0VhX1FtVDRfR3ZEMXowSXNvVnVsWV8tU0dtcTNlT0FZX1MtWGxoU0VmeVQ0UUJZbnFndDFsczdDRUo4RjdzV3N6MGpkYkFKR0N5UmJUWHo1NEVKYms0UzE0TnAwMFdKaW9jM3E4S0FsYjBmRTI4T3JJZmhsS1BhYzUtSURWclNnY0V2ay05V0JDSGRNR0U?oc=5"
-      },
-      "queued_at": "2026-09-28T15:47:21.607354+00:00",
-      "score": 7.0,
-      "why": "Major AI companies are watched, and this is a significant call for oversight."
-    },
-    {
-      "headline": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
-      "post": {
-        "created_at": "2026-09-28T15:29:21+00:00",
-        "handle": "News: Global AI",
-        "id": "1790609361287",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "TechCrunch",
-        "reposts": 0,
-        "text": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTdLR2U5RVBUd2QxaTU0WGNHc1p1S2Y4Wk1nTUhqMXlTOE1zeHdWc1Y2eFNfQ2FTZFB1bzZwT2dTSHp5Z3p4RVhwZUtNRGpkQ3RNYnVkUTd2ZG1EZk5PeGZNWGN0d19wOGp1dkQyRzRWM0xFcS04bjFkakt6Um5oWTFCTXphWERMYWRzX01IQURWekNZ?oc=5"
-      },
-      "queued_at": "2026-09-28T15:47:21.607354+00:00",
-      "score": 7.0,
-      "why": "A significant valuation for an AI chip developer."
-    },
-    {
-      "headline": "Cognizant\u2019s TerraLingua seeks to contain risks from autonomous AI agents",
-      "post": {
-        "created_at": "2026-09-28T15:34:42+00:00",
-        "handle": "News: Global IT services",
-        "id": "1790609682571",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Cognizant\u2019s TerraLingua seeks to contain risks from autonomous AI agents",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS192TG9sT1E2WEx6LVhKUFlGdnZzLWg0WWpiZFRWRE1WemNYSTBwQ1ludm1oNEhXdVdlWUdvTlhTMjVDS1ByRVNqYWsta1FtVExwZC1oYlB3UFlvZUdEWkRuOWdpR2xJOFNvZUZSTDg0aktZWktfbVdwU1EtMUVLamFOQlNVcy1rSUU0dFYtZ0FDNDZ1Z1JrcnUwM2JpNHJGUkVzS1dERV9QSWZtcG1QLVU0WFhDSGNhN2haR3laNTNxcXdKZVRERHdWeWI0eWd4RXl6Z3BUb0ZTV2pvTmFQWdIB5gFBVV95cUxQdXRoRXBuTldSZjI1VDNqS05lY3JwVUxlNjBmSWxoYWM0WlZ5NmhNUk5fN09kQVRlamFfVk52TTlSeDZfZnA5b3Z1NUJQV2h0UXlmc0FJZlpTZ0hIcDFtNV92TmFjZXgzaWdyRldQNUtrUGNEWlRkdnV0T0ItVzdwQWZLUWdUUzJkdXBILWU2X2V1NGR3VklQWkU1Yl9TLU10RnpTa2pPZmFaSVcza0JGeXVpVnVKVm5RR2hWZWxjVzBxX0ZDbndXYVUxZWdyc0xaaHo3SXEwSWZhQVZGZHJjSWptcF9Ydw?oc=5"
-      },
-      "queued_at": "2026-09-28T15:47:21.607354+00:00",
-      "score": 7.0,
-      "why": "A major IT services company launching a product to address AI risks."
-    },
-    {
-      "headline": "Meta launches enterprise AI business amid spending surge",
-      "post": {
-        "created_at": "2026-09-28T15:54:34+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1790610874802",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Financial Times",
-        "reposts": 0,
-        "text": "Meta launches enterprise AI business seeking to cash in on vast spending",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXl4S1J5V0N4UWpZbHpnUlFaQWlXWWdjZFd0ZVBOSzJXS2VQZndsTXgyM29XV083LVlySlk5eGNxTWRXUjBGdkZHa3djdVJ6MDlVNDFKWlFfbnlHeW8tRi1Kd25jQlNYanFTQ3NhMFN5aWFFaHRWV21DR01mSEtxSzRyaDc?oc=5"
-      },
-      "queued_at": "2026-09-28T16:02:42.301740+00:00",
-      "score": 7.0,
-      "why": "Meta is a major AI company launching a new business line."
-    },
-    {
-      "headline": "OpenAI, Anthropic, Microsoft leaders warn of accelerating AI development",
-      "post": {
-        "created_at": "2026-09-28T16:10:38+00:00",
-        "handle": "News: Global AI",
-        "id": "1790611838926",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Firstpost",
-        "reposts": 0,
-        "text": "OpenAI, Anthropic and Microsoft leaders warn of accelerating AI development, narrowing window for action",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbkJSOGhXcjFySUpZMFdXOUpNQzRfc0lYdFpBRk5PZkhuXzlGckFHQVFlMjdfczF5RXJjU3hoMDI2WW5iNDRaNlhJNmVzeld5c21wNFJNRTV4d2p3TGxvaE9ELW1Nd1dlR3FaTjVVUXBpc1VpZDduU25HWXZoOGJnVHd4OVZEcE1WemNFb3dtWlo1U0NZNDJPR0k2MlJPS0luNWZGaWZJRkpuUGJjUVBsbFhNaWZyTVZVUl9YajNJVVJrNWNTQjRBMkxpSkNUaEtseFJCVDlDdXNmcm9Xb2xyc9IB5gFBVV95cUxOSDVobktncmxTc2gyLUN3SFlqSW9kbkRhNXYzdFBqZTh2bF9haU5NTU1Kc09rZkhodFlVd2F0N0FCNnQyQ2xuX1c5aVlIQmM0SUFqVGNRaGcwZ0lXMTVFd3lrMEszNUV1SEJyUXlseGNxU3FPRnB1bTZVa2dNMXQyb3dwTlc0VEVUQWR0LUpkYU90d2l1TFE2N0pNcGtUSjJJTk9paWlhcVJuS1JOS25YbnF0UUt1Z3plVFgwUHlTczRDRHV2d1B0ZkY1b19KbkNBUGpZQi13cUc2ZVpEcFNWcG5iUF95UQ?oc=5"
-      },
-      "queued_at": "2026-09-28T16:17:50.391465+00:00",
-      "score": 9.0,
-      "why": "Statements from top AI leaders about existential risks are highly significant."
-    },
-    {
-      "headline": "NYC Council Says OpenAI, Meta Officials to Attend AI Hearing",
-      "post": {
-        "created_at": "2026-09-28T16:00:47+00:00",
-        "handle": "News: Global AI",
-        "id": "1790611247010",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bloomberg",
-        "reposts": 0,
-        "text": "NYC Council Says OpenAI, Meta Officials to Attend AI Hearing",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjFmN3BjZ0I4aDBzWEZ1SnVfZmlGSERTZGpfc003QWY1ZW5KMUtuU0RPZnhIQnNjY1F5S3FlYzVYTElwYjY3clA2bDJxLWZFMEYxdkF3dXJ2c1FOcGNBcHg4cmNLYWoycHJkM1o3MkhXd2tuWWoxcWR3WEtRbllOQVVYR3NwZG01NFUyN1BJdjlDb1hJOWdUUlBFTENLUXZIbUJXU29idl9FOHFDYkZR?oc=5"
-      },
-      "queued_at": "2026-09-28T16:17:50.391465+00:00",
-      "score": 7.0,
-      "why": "Governmental inquiry into major AI companies is a significant regulatory move."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19628,7 +19508,7 @@
     "capgemini": 1790593026900,
     "cognizant": 1790596919369,
     "flipkart": 1790573498706,
-    "google": 1790607600694,
+    "google": 1790613000785,
     "google cloud": 1790265600814,
     "google deepmind": 1790266839037,
     "google india": 1790235000631,
@@ -19642,7 +19522,7 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790611838926,
+    "news: big tech platforms": 1790612933545,
     "news: consumer internet india": 1790608195758,
     "news: global ai": 1790611838926,
     "news: global chips": 1790609603756,
@@ -19693,7 +19573,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T16:17:50.820231+00:00",
+    "last_server_run": "2026-09-28T16:32:31.112333+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T16:03:33.579561+00:00",
@@ -20093,6 +19973,7 @@
       "CG-DL-E-28092026-276549",
       "CG-DL-E-28092026-276552",
       "CG-DL-E-28092026-276553",
+      "CG-DL-E-28092026-276558",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
