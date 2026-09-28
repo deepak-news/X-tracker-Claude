@@ -7633,12 +7633,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789999425590",
-    "1790006410312",
-    "1790006431396",
-    "1790006436520",
-    "1790006446385",
-    "1790006739944",
     "1790007027517",
     "1790007084244",
     "1790007214202",
@@ -13632,10 +13626,16 @@
     "1790576906621",
     "1790560156467",
     "1790576886416",
-    "1790577671669"
+    "1790577671669",
+    "1790557200787",
+    "1790564880451",
+    "1790569456414",
+    "1790573118440",
+    "1790578203766",
+    "1790578753964"
   ],
   "last_digest_hour": "2026-09-28T12",
-  "last_success": "2026-09-28T06:46:57.657500+00:00",
+  "last_success": "2026-09-28T07:02:40.662325+00:00",
   "national": {
     "alerted": [
       {
@@ -16008,6 +16008,26 @@
           "sep",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-09-28T07:04:22.338553+00:00",
+        "handle": "Gazette Ministry of Agriculture and Farmers Welfare",
+        "headline": "Government bans manufacture, sale and use of Paraquat Dichloride pesticide",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/276542.pdf",
+        "words": [
+          "1968",
+          "act",
+          "agriculture",
+          "department",
+          "extraordinary",
+          "farmers",
+          "gazette",
+          "insecticides",
+          "ministry",
+          "part",
+          "welfare"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -16390,9 +16410,10 @@
       "CG-DL-E-26092026-276537",
       "CG-DL-E-26092026-276539",
       "CG-DL-E-26092026-276540",
-      "CG-DL-E-26092026-276535"
+      "CG-DL-E-26092026-276535",
+      "CG-DL-E-28092026-276542"
     ],
-    "last_run": "2026-09-28T06:52:17.081473+00:00",
+    "last_run": "2026-09-28T07:04:22.349250+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18123,7 +18144,11 @@
       "pib:2315757",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tributes-to-shri-ashok-singhal-highlighting-his-spiritual-commitment-and-dedication-to-social-unity",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-good-health-as-the-foundation-for-the-four-goals-of-life",
-      "pib:2315840"
+      "pib:2315840",
+      "pib:2315847",
+      "gazette:CG-DL-E-28092026-276542",
+      "pib:2315856",
+      "pib:2315851"
     ],
     "source_failures": {
       "CBI": {
@@ -19197,7 +19222,7 @@
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
     "news: big tech platforms": 1790575101241,
-    "news: consumer internet india": 1790576886907,
+    "news: consumer internet india": 1790578753964,
     "news: global ai": 1790572790406,
     "news: global chips": 1790560268308,
     "news: global it services": 1790352234410,
@@ -19247,7 +19272,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T06:46:57.997396+00:00",
+    "last_server_run": "2026-09-28T07:02:41.073079+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T05:33:17.418885+00:00",
@@ -19376,7 +19401,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-09-28T01:02:36.474441+00:00",
+        "at": "2026-09-28T07:03:07.339185+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -19386,7 +19411,7 @@
         }
       },
       "last": {
-        "calendar": "2026-09-28T01:02:39.050738+00:00",
+        "calendar": "2026-09-28T07:03:09.825182+00:00",
         "ls_reports": "2026-09-28T05:32:52.405983+00:00",
         "rs_committee_press": "2026-09-28T05:33:03.659424+00:00",
         "rs_press": "2026-09-28T05:33:00.239261+00:00",
@@ -19638,6 +19663,7 @@
       "CG-DL-E-26092026-276537",
       "CG-DL-E-26092026-276539",
       "CG-DL-E-26092026-276540",
+      "CG-DL-E-28092026-276542",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
