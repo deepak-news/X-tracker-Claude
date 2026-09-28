@@ -7646,17 +7646,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790000400633",
-    "1790000460946",
-    "1790002829689",
-    "1790003760712",
-    "1790003975744",
-    "1790006213321",
-    "1790006838065",
-    "1790007281046",
-    "1790008114896",
-    "1790008140325",
-    "1790008203041",
     "1790008258981",
     "1790008563387",
     "1790008665761",
@@ -13645,10 +13634,21 @@
     "1790581189123",
     "1790581328780",
     "1790581438986",
-    "1790581860467"
+    "1790581860467",
+    "1790572500157",
+    "1790577671977",
+    "1790578203837",
+    "1790578636565",
+    "1790580981884",
+    "1790581073362",
+    "1790582236963",
+    "1790582289368",
+    "1790582535227",
+    "1790582716160",
+    "1790590846701"
   ],
   "last_digest_hour": "2026-09-28T13",
-  "last_success": "2026-09-28T08:02:20.640413+00:00",
+  "last_success": "2026-09-28T08:16:28.088688+00:00",
   "national": {
     "alerted": [
       {
@@ -16427,7 +16427,7 @@
       "CG-DL-E-28092026-276542",
       "CG-DL-E-28092026-276541"
     ],
-    "last_run": "2026-09-28T08:04:34.879724+00:00",
+    "last_run": "2026-09-28T08:19:28.822660+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19228,10 +19228,10 @@
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790562946127,
     "news: india edtech gaming": 1790535586534,
-    "news: india fintech": 1790581860467,
+    "news: india fintech": 1790582535227,
     "news: india semiconductors": 1790579762280,
-    "news: india tech policy": 1790574600216,
-    "news: india telecom": 1790580696648,
+    "news: india tech policy": 1790582716160,
+    "news: india telecom": 1790582289368,
     "news: indian it majors": 1790580696648,
     "news: indian it midcaps": 1790581328780,
     "news: pib releases": 1790159940641,
@@ -19250,7 +19250,7 @@
     "reg cert-in": 1788998400763,
     "salesforce": 1790276411084,
     "samsung": 1790590080284,
-    "samsung india": 1790517708864,
+    "samsung india": 1790590846701,
     "sarvam ai": 1790254919948,
     "swiggy": 1789214456821,
     "tata electronics": 1789738328115,
@@ -19272,7 +19272,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T08:02:20.906333+00:00",
+    "last_server_run": "2026-09-28T08:16:28.438496+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T07:33:48.398148+00:00",
