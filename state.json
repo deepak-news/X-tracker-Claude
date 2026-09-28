@@ -7631,8 +7631,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789999277496",
-    "1789999566282",
     "1789999740153",
     "1789999769164",
     "1790001876876",
@@ -13630,10 +13628,12 @@
     "1790555400338",
     "1790555400832",
     "1789986994125",
-    "1790485803760"
+    "1790485803760",
+    "1790555806333",
+    "1790556930764"
   ],
   "last_digest_hour": "2026-09-28T06",
-  "last_success": "2026-09-28T01:02:11.399319+00:00",
+  "last_success": "2026-09-28T01:16:46.935876+00:00",
   "national": {
     "alerted": [
       {
@@ -16390,7 +16390,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-28T01:06:11.569474+00:00",
+    "last_run": "2026-09-28T01:19:30.444222+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18116,9 +18116,6 @@
         "count": 28,
         "until": "2026-09-28T05:47:54.939652+00:00"
       },
-      "IRDAI": {
-        "count": 1
-      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -19199,17 +19196,17 @@
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
     "news: big tech platforms": 1790549280090,
-    "news: consumer internet india": 1790555400832,
+    "news: consumer internet india": 1790556930764,
     "news: global ai": 1790553000796,
     "news: global chips": 1790489220212,
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790521684752,
     "news: india edtech gaming": 1790535586534,
-    "news: india fintech": 1790549700990,
+    "news: india fintech": 1790555806333,
     "news: india semiconductors": 1790555400338,
     "news: india tech policy": 1790554911412,
     "news: india telecom": 1790517717743,
-    "news: indian it majors": 1790539783747,
+    "news: indian it majors": 1790556930764,
     "news: indian it midcaps": 1790534460213,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790513205872,
@@ -19249,17 +19246,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T01:02:11.761375+00:00",
+    "last_server_run": "2026-09-28T01:16:47.292403+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-27T23:03:33.926098+00:00",
+        "checked": "2026-09-28T01:18:11.898369+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-27T23:03:26.526339+00:00",
+        "checked": "2026-09-28T01:18:04.019807+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -19335,7 +19332,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-27T23:03:30.180638+00:00",
+        "checked": "2026-09-28T01:18:07.650725+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -19389,11 +19386,11 @@
       },
       "last": {
         "calendar": "2026-09-28T01:02:39.050738+00:00",
-        "ls_reports": "2026-09-27T23:03:11.291890+00:00",
-        "rs_committee_press": "2026-09-27T23:03:20.849530+00:00",
-        "rs_press": "2026-09-27T23:03:18.393609+00:00",
-        "rs_reports": "2026-09-27T23:03:15.291041+00:00",
-        "rs_updates": "2026-09-27T23:03:22.537011+00:00"
+        "ls_reports": "2026-09-28T01:17:48.614331+00:00",
+        "rs_committee_press": "2026-09-28T01:17:58.062736+00:00",
+        "rs_press": "2026-09-28T01:17:54.993923+00:00",
+        "rs_reports": "2026-09-28T01:17:52.230566+00:00",
+        "rs_updates": "2026-09-28T01:17:59.999596+00:00"
       }
     },
     "scanned": [
