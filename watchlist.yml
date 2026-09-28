@@ -88,6 +88,26 @@ newsworthy: |
     essays that contain no new fact or figure
   - Routine international product updates with no India angle
   - Anything already widely reported days ago
+  - Gadget and routine product launches: phones, headphones, laptops,
+    wearables, app features, price cuts. A launch is news only when it
+    changes a market (Apple Pay arriving in India, a major AI model).
+    Score 4 at most.
+  - Stock-price moves, brokerage ratings, target prices and index
+    reshuffles, and block deals by minor holders. Stake sales by founders
+    or large investors, IPO filings and listings still count. Score 4 at
+    most.
+  - Foreign stories with no India angle -- lawsuits, inquiries, speeches,
+    policies abroad -- unless they are disclosures by the major AI
+    companies described above, or a major global chip or AI move. Score 4
+    at most.
+
+  RUNNING STORIES. When a story has already been alerted and keeps running
+  (the UPI merchant fee row, for example), only a NEW OFFICIAL MOVE scores
+  7 or more: a decision or statement of fact by the government, a ministry,
+  a regulator, NPCI, the RBI or a court, or a decision by the company at
+  the centre of it. Reactions and protests (traders, trade bodies,
+  opposition parties), explainers, "analysis says" and "report estimates"
+  pieces, and opinion score 5 at most.
 
   INDIA IS THE PRIORITY. Indian companies, Indian executives, Indian policy
   and India operations of global firms matter most. Big global news still
@@ -391,19 +411,19 @@ sources:
   #    way). PIB is read from its own site instead -- see "pib:" above.
   google_news:
     - {name: Indian IT majors, q: "Infosys OR TCS OR Wipro OR HCLTech OR \"Tech Mahindra\" OR LTIMindtree OR Coforge OR Mphasis"}
-    - {name: Indian IT midcaps, q: "Persistent Systems OR Cyient OR KPIT OR \"L&T Technology\" OR \"Happiest Minds\" OR Netweb OR \"Black Box\" OR Zaggle"}
-    - {name: Global IT services, q: "Accenture OR Cognizant OR Capgemini OR \"EXL Service\" OR \"ITC Infotech\" OR Genpact layoffs OR deal OR results"}
-    - {name: Consumer internet India, q: "Flipkart OR Myntra OR Meesho OR Nykaa OR Swiggy OR Zomato OR Eternal OR Zepto OR \"Urban Company\" OR Lenskart"}
-    - {name: India fintech, q: "Paytm OR PhonePe OR CRED OR MobiKwik OR Navi OR Groww OR Razorpay OR UPI OR NPCI"}
+    - {name: Indian IT midcaps, q: "\"Persistent Systems\" OR Cyient OR KPIT OR \"L&T Technology\" OR \"Happiest Minds\" OR \"Netweb Technologies\" OR \"Black Box Limited\" OR Zaggle"}
+    - {name: Global IT services, q: "Accenture OR Cognizant OR Capgemini OR \"EXL Service\" OR \"ITC Infotech\" OR Genpact"}
+    - {name: Consumer internet India, q: "Flipkart OR Myntra OR Meesho OR Nykaa OR Swiggy OR Zomato OR \"Eternal Ltd\" OR Zepto OR \"Urban Company\" OR Lenskart"}
+    - {name: India fintech, q: "Paytm OR PhonePe OR \"CRED app\" OR MobiKwik OR \"Navi Finserv\" OR Groww OR Razorpay OR UPI OR NPCI"}
     - {name: India telecom, q: "Jio OR \"Bharti Airtel\" OR \"Vodafone Idea\" OR BSNL OR TRAI OR \"Department of Telecommunications\" OR COAI OR HFCL OR \"Tata Communications\""}
-    - {name: India semiconductors, q: "India semiconductor OR \"India Semiconductor Mission\" OR \"chip plant India\" OR \"Tata Electronics\" OR \"Micron India\" OR Foxconn India OR \"Syrma SGS\""}
+    - {name: India semiconductors, q: "\"India semiconductor\" OR \"India Semiconductor Mission\" OR \"chip plant\" India OR \"Tata Electronics\" OR \"Micron India\" OR \"Foxconn India\" OR \"Syrma SGS\""}
     - {name: India AI deeptech, q: "Sarvam OR Krutrim OR IndiaAI OR \"Fractal Analytics\" OR Zoho OR \"Pocket FM\" OR Zetwerk OR \"Piper Serica\""}
-    - {name: India edtech gaming, q: "PhysicsWallah OR NIIT OR Nazara OR \"Info Edge\" OR edtech India funding OR gaming India regulation"}
-    - {name: Global AI, q: "OpenAI OR Anthropic OR \"Google DeepMind\" OR Mistral OR xAI OR \"AI model\" launch OR AI chip deal"}
-    - {name: Global chips, q: "TSMC OR ASML OR Intel OR Qualcomm OR Micron OR Nvidia OR \"chip export\" OR semiconductor tariff"}
-    - {name: Big tech platforms, q: "Apple OR Microsoft OR \"Amazon India\" OR Meta OR Uber OR Telegram OR Truecaller OR \"Elon Musk\" X platform India"}
-    - {name: India tech policy, q: "MeitY OR \"Ministry of Electronics\" OR UIDAI OR Aadhaar OR DPDP OR \"IT rules\" India OR IAMAI OR Nasscom"}
-    - {name: Tech leaders, q: "\"Sundar Pichai\" OR \"Satya Nadella\" OR \"Sam Altman\" OR \"Jensen Huang\" OR \"Mukesh Ambani\" OR \"Nandan Nilekani\" said OR announced"}
+    - {name: India edtech gaming, q: "PhysicsWallah OR NIIT OR Nazara OR \"Info Edge\" OR edtech OR \"online gaming\""}
+    - {name: Global AI, q: "OpenAI OR Anthropic OR \"Google DeepMind\" OR \"Mistral AI\" OR xAI OR \"AI model\" OR \"AI chip\""}
+    - {name: Global chips, q: "TSMC OR ASML OR Intel OR Qualcomm OR Micron OR Nvidia OR \"chip export\" OR \"semiconductor tariff\""}
+    - {name: Big tech platforms, q: "Apple OR Microsoft OR \"Amazon India\" OR Meta OR Uber OR Telegram OR Truecaller OR \"Elon Musk\""}
+    - {name: India tech policy, q: "MeitY OR \"Ministry of Electronics\" OR UIDAI OR Aadhaar OR DPDP OR \"IT rules\" OR IAMAI OR Nasscom"}
+    - {name: Tech leaders, q: "\"Sundar Pichai\" OR \"Satya Nadella\" OR \"Sam Altman\" OR \"Jensen Huang\" OR \"Mukesh Ambani\" OR \"Nandan Nilekani\""}
 
   # Only stories from these outlets are kept from Google News; everything
   # else is dropped before the AI sees it. Write the website address, not
@@ -711,6 +731,12 @@ national:
     - State government decisions that touch a large population or carry
       national political weight -- a state cabinet's major scheme, not a
       district review meeting
+    - SEBI orders, settlements or penalties involving a large conglomerate
+      or a household name (Adani, Reliance, Tata, a major bank)
+    - Lines of credit, grants and aid India extends to another country
+    - Defence contracts and procurement deals signed by the Defence
+      Ministry
+    - NHRC taking suo motu cognizance of a serious crime or death
 
     GAZETTE NOTIFICATIONS: judge by what the notification DOES, which the
     text below the title shows. Titles are often dry ("Amendment of
@@ -758,6 +784,9 @@ national:
     - Auctions, tenders, recovery orders and routine compliance notices
     - Meetings held, visits, events attended, speeches with no decision
     - Greetings, condolences, anniversaries, quotes and awareness drives
+    - Congratulations on sporting medals and wins, including the Prime
+      Minister's posts on Asian Games, Olympic or world championship
+      medals -- the sports desk covers these. Score 3 at most.
     - Transfers and postings below the most senior level
     - Anything that matters only to one industry or to specialists --
       except the central government decisions and changes to government

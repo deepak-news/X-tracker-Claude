@@ -55,12 +55,24 @@ def _date(text: str):
     return None
 
 
+# The most one regulator may take in a run. CCI alone is eight requests;
+# at forty seconds and three tries each, a slow evening there once used up
+# the Tweets desk's whole eight minutes and GitHub stopped the step. Past
+# this, the regulator is given up on and read again next run.
+BUDGET_SECONDS = 100
+_deadline = float("inf")
+
+
 def _request(session, method: str, url: str, **kwargs):
     """A request with retries; a 4xx other than 429 is an answer, not a fault."""
     last = None
     for attempt in range(1, ATTEMPTS + 1):
+        left = _deadline - time.monotonic()
+        if left < 5:
+            raise RuntimeError(f"gave up after {BUDGET_SECONDS}s; the site is slow, "
+                               f"it is read again next run")
         try:
-            response = session.request(method, url, timeout=TIMEOUT, **kwargs)
+            response = session.request(method, url, timeout=min(TIMEOUT, left), **kwargs)
             response.raise_for_status()
             return response
         except requests.RequestException as exc:
@@ -275,8 +287,13 @@ def describe(row: dict) -> str:
 
 def read(which: str, max_age_days: int = 30) -> list:
     """One regulator's rows, minus anything too old to be news."""
+    global _deadline
     session = requests.Session()
     session.headers.update(BROWSER)
-    rows = READERS[which](session)
+    _deadline = time.monotonic() + BUDGET_SECONDS
+    try:
+        rows = READERS[which](session)
+    finally:
+        _deadline = float("inf")
     today = dt.datetime.now(IST).date()
     return [r for r in rows if r.get("date") and (today - r["date"]).days <= max_age_days]

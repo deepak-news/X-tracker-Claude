@@ -29,6 +29,11 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
+    # Print each line as it happens. Without this, a step GitHub stops for
+    # taking too long leaves an empty log, and there is no telling what it
+    # was stuck on (the Tweets desk, 28 Sep 2026).
+    env:
+      PYTHONUNBUFFERED: "1"
     steps:
       # The latest main, not the commit from when this run was queued. A
       # run that waits behind a slow one would otherwise start from memory

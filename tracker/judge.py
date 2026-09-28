@@ -167,6 +167,10 @@ _STOP = {"the","a","an","and","or","of","to","in","on","for","at","by","with",
 # alerts: two outlets writing up one launch overlapped 0.44, while
 # genuinely different stories about the same company topped out at 0.17.
 # Sitting between those catches rewordings without merging real news.
+# Tried at 0.35 on 28 Sep 2026 against a week of real alerts: it caught more
+# repeats but also merged different stories about the same company ("Altman
+# on the Nobel" with "Altman rules out an IPO"), and a merged story is dropped
+# unseen. Repeats are left to the AI's already-sent check instead.
 SAME_STORY = 0.40
 
 # When one story reaches us from several places, keep the most authoritative.
@@ -532,8 +536,12 @@ ALREADY_SENT_BLOCK = """ALREADY SENT TO THIS REPORTER IN THE LAST 48 HOURS:
   above, however differently it is worded, and whichever outlet ran it. The
   reporter has already been told; telling them again wastes their attention.
 - But if a post carries a genuine DEVELOPMENT of one of those stories -- a
-  new number, a decision taken, a person named, an outcome, a response --
-  that is fresh news: leave "seen_before" false and score it normally.
+  new number, a decision taken, a new party to a deal, an outcome -- that is
+  fresh news: leave "seen_before" false and score it normally.
+- NOT a development: the same event reported by another outlet, a later
+  stage of a deal already reported (a stake rising from 61% to 83%), more
+  background or context, reactions and protests, explainers, analysis,
+  brokerage views, and "report estimates" pieces. Set "seen_before": true.
 
 """
 
