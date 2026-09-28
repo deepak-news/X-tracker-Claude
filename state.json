@@ -1,45 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-22T05:32:39.177691+00:00",
-      "handle": "News: India fintech",
-      "headline": "Paytm CEO suggests Apple payout for Indian users over delayed Siri",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdE1VeFhtdTFVa0FUVVByTkdfSlJXQTdOUDhUUW1GM29aWTNBejN4bWhkT3Znc2VWcjV3QWRoaHJqX1NnVmNKSDBmY0YxMEJ1bmI1TkE2NnZCYXdoQzhwRV8taFpwZmJEOWtWWjVuUTVjTjFBNmVhTG9ldE5ta1hMZWhNVzJ1Y2FtRGZoa1RtYVZVN0ZLNUxsSXFHcEw5QWRmX3BGaWpGaXVvazI4eXRVckJTMWxYMlNpUFpUcy1zcERzR05oQnpXNHhZX2paYXBD0gHYAUFVX3lxTFBjZFg2X3dfX0swNXdGZG8xS0tiRkZVSFpEZXNpb2IweXhXanhLWElCZFdWWlhVZDlDZTlnQ2RETmZEeWhXWFQ2Qi1DOUE4UjBZdlU1cU1SY2J3VTBlYXpROV9rb2FVN3QxbmtFUW41anlET2U5WWJQbkdlTmFDQWVqU1J4S3k2emNaNWZuNDhURWs5VHU1MXJaNjJhRElMMnpKXzkyQ1JibVQySWVKdXpneDN1RGJnUUhxTDYtc0pjNlR6U3VMQXFXd0h0THpyM1o0S0lCMVNMRg?oc=5",
-      "words": [
-        "apple",
-        "ceo",
-        "delayed",
-        "iphone",
-        "payout",
-        "paytm",
-        "sharma",
-        "shekhar",
-        "siri",
-        "suggests",
-        "users",
-        "vijay"
-      ]
-    },
-    {
-      "at": "2026-09-22T05:32:39.177691+00:00",
-      "handle": "News: India fintech",
-      "headline": "Report estimates UPI MDR framework could create Rs 151 billion pool",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbWVzYVQ0UUxEUnY2ZEEydlU3VlBscTFzMTdBOHVDOGNIWHZNZ0Z2dUh4VnBNYjBjU2lhbDlia1loUzc4QnA0ckYzMnJFQnRBWTFyN25MYXUyLUtCNVlpMV9rX0hkenRQREctbGZEcjJtU2Nid19wQmFDU01fUl8tbmRpODNfdGY0TlNoY05jeVI3eXM5MjdMM0I1dVJqMWJManlubXFvNDY?oc=5",
-      "words": [
-        "151",
-        "could",
-        "create",
-        "framework",
-        "mdr",
-        "pool",
-        "realised",
-        "report",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-09-22T06:17:09.839004+00:00",
       "handle": "BSE Syrma SGS",
       "headline": "Syrma SGS subsidiary inaugurates new MedTech manufacturing facility in Jodhpur",
@@ -7628,22 +7589,57 @@
         "touting",
         "work"
       ]
+    },
+    {
+      "at": "2026-09-28T20:03:01.181938+00:00",
+      "handle": "Google",
+      "headline": "Google releases Gemini 3.8 Flash model with advanced reasoning",
+      "tier": 1,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
+      "words": [
+        "builders",
+        "collage",
+        "digital",
+        "dinosaur",
+        "exploded",
+        "flash",
+        "four",
+        "gemini",
+        "globe",
+        "making",
+        "maps",
+        "model",
+        "projects",
+        "satellite"
+      ]
+    },
+    {
+      "at": "2026-09-28T20:03:01.181938+00:00",
+      "handle": "xAI",
+      "headline": "xAI launches Team Bots for collaborative workplace AI",
+      "tier": 1,
+      "url": "https://x.ai/news/team-bots",
+      "words": [
+        "2026",
+        "apps",
+        "article",
+        "bot",
+        "bots",
+        "can",
+        "coworkers",
+        "expertise",
+        "files",
+        "give",
+        "grok",
+        "learn",
+        "needs",
+        "product"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790043720476",
-    "1790045533988",
-    "1790045859476",
-    "1790046246490",
-    "1790046319427",
-    "1790046785121",
-    "1790046974137",
-    "1789747200686",
-    "1790004863927",
-    "1790037000852",
-    "1790040387322",
     "1790041800715",
     "1790043240304",
     "1790044620665",
@@ -13632,10 +13628,21 @@
     "1790619545715",
     "1790622116508",
     "1790623555318",
-    "1790623740857"
+    "1790623740857",
+    "1790602080709",
+    "1790608990786",
+    "1790609603485",
+    "1790611200852",
+    "1790618502850",
+    "1790618520881",
+    "1790620490054",
+    "1790623003401",
+    "1790624880487",
+    "1790625319456",
+    "1790625723609"
   ],
   "last_digest_hour": "2026-09-29T01",
-  "last_success": "2026-09-28T19:46:59.762143+00:00",
+  "last_success": "2026-09-28T20:03:01.330444+00:00",
   "national": {
     "alerted": [
       {
@@ -16673,7 +16680,7 @@
       "CG-DL-E-28092026-276573",
       "CG-DL-E-28092026-276570"
     ],
-    "last_run": "2026-09-28T19:48:22.446037+00:00",
+    "last_run": "2026-09-28T20:05:28.032632+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18574,7 +18581,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Airtel narrows market-share gap with Jio ahead of planned IPO",
+      "post": {
+        "created_at": "2026-09-28T18:34:50+00:00",
+        "handle": "News: India telecom",
+        "id": "1790620490054",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The New Indian Express",
+        "reposts": 0,
+        "text": "Airtel closes in on Jio ahead of mega IPO, market-share gap narrows to 1.3 percentage points",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUnV5bURJbVFBaWhOc3RGWHJBSjh1ZzBQZHpQV3dQMUR3N1NSTFcyVW5rZUpUSXBzMU91aWxKUkF1WVlLeF9FWmZmZ3dibXR1UjFsQjkzaEx3QW16NlpOWE9WOHcyelphcElXMVNQc2p0OXNfR0wxeE5ZR2JkTndNazZ5Z2s3Q0syTzlpeDhYQVFKS3M5Q1prNWhMc2RidDlSV1ByVllQSkVlUlNhSGQ1TFFkaTZsdmxHQVBLTTJRbTd1NUxZVVhrY0F5ck9lcldTdlZKX3NUMTJLdURT0gHqAUFVX3lxTE1pOXZLTV9LckdGRkQxQUhxMG9PYTV4aEQyX3dZeUZfZTRCNWtlY1dxNXFMLW1GUWpJVXlwWWdDSTY4dmNvSHMwRkVnd1VPU2lYUndDblVtRlhOYk9ucnA5VUs0MllLMzhiT1JxMDdvbklHUDBGU3F3ZGtTb0JMWUZ6X09MUkVLTGllTHRTWmUwMTlUc0NZbVZtd0V5cThVcVRLVWFpb05UeVZ1eGNTTmZyZW1OcVBxZ1RoR0dBdDBma0NMOF83MkN0Y0s5by1WOUt5NW44Q3dWOW4yaTBIRjFQUG53SE9vSC1zQQ?oc=5"
+      },
+      "queued_at": "2026-09-28T20:03:01.285349+00:00",
+      "score": 8.0,
+      "why": "Significant Indian telecom market share movement and IPO context update."
+    },
+    {
+      "headline": "Trinidad and Tobago to adopt India's UPI payment system",
+      "post": {
+        "created_at": "2026-09-28T19:48:00+00:00",
+        "handle": "News: India fintech",
+        "id": "1790624880487",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "ANI News",
+        "reposts": 0,
+        "text": "Trinidad and Tobago to become first Caribbean nation to adopt India\u2019s UPI, says High Commissioner",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa1J5MHRJMTgyOExHMVp4OVdLd2Y1ZWticGdTbHNQdDk0eG1aVXRZU0xDZ2RRYTc1ZHVKM3ozZlA5Z1U3MEdtOUpxNXlfT19XOWh2UlVhVEJja2d2TnhJR2dIc2p5b3pNQTVrV096dFR4aDAybTVwbkRscWFfbXlkLXR5aVJBS0dYUWJuVzRZMTRRSHJnZmhwY3FraFVHcjMwV0wxc2U3WUZRQWs1Z3dOUUhqMXJaU2w1Q1haOXlsRTlsQTUyQ2VNYk9iODJiYzR5ekJyaDZ2bnlUVVBRV0V4ekk2UEs2SUU?oc=5"
+      },
+      "queued_at": "2026-09-28T20:03:01.285349+00:00",
+      "score": 8.0,
+      "why": "Major international expansion milestone for India's UPI public digital infrastructure."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19514,6 +19558,7 @@
       "https://x.ai/news/series-b": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/series-c": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/series-e": "2026-09-17T07:46:46.178789+00:00",
+      "https://x.ai/news/team-bots": "2026-09-28T20:02:03.961029+00:00",
       "https://x.ai/news/us-gov-dept-of-war": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/workflows": "2026-09-17T07:46:46.178789+00:00",
       "https://x.ai/news/xai-joins-spacex": "2026-09-17T07:46:46.178789+00:00"
@@ -19602,14 +19647,14 @@
     "news: global it services": 1790620773072,
     "news: india ai deeptech": 1790617892240,
     "news: india edtech gaming": 1790591410895,
-    "news: india fintech": 1790618718086,
+    "news: india fintech": 1790624880487,
     "news: india semiconductors": 1790599529769,
     "news: india tech policy": 1790618718086,
     "news: india telecom": 1790621515749,
     "news: indian it majors": 1790622715738,
-    "news: indian it midcaps": 1790617714164,
+    "news: indian it midcaps": 1790618520881,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790619545934,
+    "news: tech leaders": 1790625319456,
     "nvidia": 1790593200811,
     "nvidia blog": 1790258450056,
     "openai": 1790578800678,
@@ -19629,7 +19674,7 @@
     "swiggy": 1789214456821,
     "tata electronics": 1789738328115,
     "trai": 1790600456900,
-    "xai": 1790100175347,
+    "xai": 1790625723609,
     "zinnov": 1790318797256,
     "zoho": 1790354886793
   },
@@ -19646,17 +19691,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T19:47:00.097867+00:00",
+    "last_server_run": "2026-09-28T20:03:01.570760+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-28T18:03:57.611302+00:00",
+        "checked": "2026-09-28T20:04:55.171253+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-28T18:03:50.224688+00:00",
+        "checked": "2026-09-28T20:04:47.382672+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -19732,7 +19777,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-28T18:03:54.067355+00:00",
+        "checked": "2026-09-28T20:04:51.235525+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -19786,11 +19831,11 @@
       },
       "last": {
         "calendar": "2026-09-28T19:32:29.534235+00:00",
-        "ls_reports": "2026-09-28T18:03:35.437373+00:00",
-        "rs_committee_press": "2026-09-28T18:03:44.373925+00:00",
-        "rs_press": "2026-09-28T18:03:41.631915+00:00",
-        "rs_reports": "2026-09-28T18:03:39.239172+00:00",
-        "rs_updates": "2026-09-28T18:03:46.428900+00:00"
+        "ls_reports": "2026-09-28T20:04:31.210950+00:00",
+        "rs_committee_press": "2026-09-28T20:04:41.775301+00:00",
+        "rs_press": "2026-09-28T20:04:38.623477+00:00",
+        "rs_reports": "2026-09-28T20:04:35.722927+00:00",
+        "rs_updates": "2026-09-28T20:04:43.442972+00:00"
       }
     },
     "scanned": [
