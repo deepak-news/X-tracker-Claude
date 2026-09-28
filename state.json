@@ -7629,12 +7629,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789982289074",
-    "1789982391217",
-    "1789986780782",
-    "1789990680091",
-    "1789993500147",
-    "1789998591490",
     "1790002096900",
     "1790002155552",
     "1790002329917",
@@ -13628,10 +13622,16 @@
     "1790560268308",
     "1790555472843",
     "1790560442061",
-    "1790561078413"
+    "1790561078413",
+    "1790554075765",
+    "1790557200619",
+    "1790557860798",
+    "1790562256319",
+    "1790584200961",
+    "1790590080284"
   ],
-  "last_digest_hour": "2026-09-28T07",
-  "last_success": "2026-09-28T02:16:25.568945+00:00",
+  "last_digest_hour": "2026-09-28T08",
+  "last_success": "2026-09-28T02:32:00.119795+00:00",
   "national": {
     "alerted": [
       {
@@ -16388,7 +16388,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-28T02:21:58.651159+00:00",
+    "last_run": "2026-09-28T02:34:49.386110+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18104,7 +18104,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-sarvesh-kushare-on-winning-historic-silver-medal-in-mens-high-jump-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-abhay-singh-on-winning-silver-medal-in-mens-singles-squash-at-asian-games",
       "quake:usgs:us6000txzx",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-receives-prestigious-aryadan-muhammed-best-public-servant-award-2026-nilambur-keralam/"
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-receives-prestigious-aryadan-muhammed-best-public-servant-award-2026-nilambur-keralam/",
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-participated-in-the-inauguration-of-dr-manmohan-singh-memorial-park-and-statue-unveiling-at-wipro-junction-financial-district-hyderabad/"
     ],
     "source_failures": {
       "CBI": {
@@ -19166,9 +19167,9 @@
     "news: india edtech gaming": 1790535586534,
     "news: india fintech": 1790561078413,
     "news: india semiconductors": 1790555400338,
-    "news: india tech policy": 1790554911412,
+    "news: india tech policy": 1790557200619,
     "news: india telecom": 1790560442061,
-    "news: indian it majors": 1790560156034,
+    "news: indian it majors": 1790562256319,
     "news: indian it midcaps": 1790534460213,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790513205872,
@@ -19185,7 +19186,7 @@
     "reg cci": 1790035200936,
     "reg cert-in": 1788998400763,
     "salesforce": 1790276411084,
-    "samsung": 1790200800080,
+    "samsung": 1790590080284,
     "samsung india": 1790517708864,
     "sarvam ai": 1790254919948,
     "swiggy": 1789214456821,
@@ -19208,7 +19209,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T02:16:25.776685+00:00",
+    "last_server_run": "2026-09-28T02:32:00.472932+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T01:18:11.898369+00:00",
