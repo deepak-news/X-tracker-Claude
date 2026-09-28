@@ -13648,7 +13648,7 @@
     "1790580105856"
   ],
   "last_digest_hour": "2026-09-28T13",
-  "last_success": "2026-09-28T07:32:06.880533+00:00",
+  "last_success": "2026-09-28T07:48:22.344153+00:00",
   "national": {
     "alerted": [
       {
@@ -16427,7 +16427,7 @@
       "CG-DL-E-28092026-276542",
       "CG-DL-E-28092026-276541"
     ],
-    "last_run": "2026-09-28T07:35:30.694149+00:00",
+    "last_run": "2026-09-28T07:50:32.324084+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18166,7 +18166,8 @@
       "gazette:CG-DL-E-28092026-276541",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-indian-chess-players",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63678",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63677"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63677",
+      "pib:2315890"
     ],
     "source_failures": {
       "CBI": {
@@ -18176,9 +18177,6 @@
       "DGFT": {
         "count": 29,
         "until": "2026-09-28T12:02:56.507822+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -19274,7 +19272,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T07:32:07.185514+00:00",
+    "last_server_run": "2026-09-28T07:48:22.751095+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T07:33:48.398148+00:00",
