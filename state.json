@@ -2,45 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-21T15:32:48.103336+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Microsoft's AI infrastructure push India: Hyderabad hub goes live",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPLS1kejcxSUp6NDM0RnVSeVNHZmE1Mldja2dmTzZYNm1Ld1lTYVhKTG1OVzBza2VTc1VzaFZLMTVkWTdYQklNeUlmUGcxNFNQdGZyOFVCVjR5ZGFFZUlJczVvcEpDYmJIRy1IeVVuTnhDWVVrWGE3ZTYtZEVkdEFHSnE2TWhuWlJXbFplQ2dtZ2Vxay1fRVU4WXhPMHg1ZWdQYTVRRnJMekJHMzY5YW9FRlp4bzVoWFUyV1FOWi1iUnZsaEtxY2VfUmYtX090RWlTdmFUeG9RVzlYRzF1bEVySDc0dzVuVkpHdDNrTGMwcVRxd3duRjdOTHRJT21YMWpwTmhPUFVZOVFmRFlzeHZreDY2Z29tZjd2WElfYi1mMVlMV0hYYldIOHpLVjA?oc=5",
-      "words": [
-        "brings",
-        "businesses",
-        "capability",
-        "closer",
-        "frontier",
-        "goes",
-        "hub",
-        "hyderabad",
-        "infrastructure",
-        "live",
-        "microsoft",
-        "push"
-      ]
-    },
-    {
-      "at": "2026-09-21T15:32:48.103336+00:00",
-      "handle": "News: India telecom",
-      "headline": "Government dissolves 37-year-old Digital Communications Commission with immediate effect",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRWg2U0lNdXpuNnUwUFYzZkhRTjVDa2NrVERhUW9NNnJQM2VBaktOTzhmeFY0NTY1UE9VZVYtTEpXemU4U2w5SXVNYVR4NzVZMEdGN2V5bXpXUmprYjJmNEVpZ1ZnT0FMMDE0bjNCajBJcURySVJzN21mRkplLUtYU2VKVWdIMGx3d0FVaW5VMU55ajVsT05vUVlDVThyRUt4WWZJRF9pTGtQRndHZ1AtVUtaTFJRUTVUaWVrNkdCcnNXVHU2VkVuZXNOSWRxbDh5WnZRUjQ5V3FsT2lkaDRtb1UxNTJmVGpwVUZLOWJreldnYXNvd3VYNS1zMjNoQnN1Tm9Nc0g1VTBtZ9IBigJBVV95cUxQRWg2U0lNdXpuNnUwUFYzZkhRTjVDa2NrVERhUW9NNnJQM2VBaktOTzhmeFY0NTY1UE9VZVYtTEpXemU4U2w5SXVNYVR4NzVZMEdGN2V5bXpXUmprYjJmNEVpZ1ZnT0FMMDE0bjNCajBJcURySVJzN21mRkplLUtYU2VKVWdIMGx3d0FVaW5VMU55ajVsT05vUVlDVThyRUt4WWZJRF9pTGtQRndHZ1AtVUtaTFJRUTVUaWVrNkdCcnNXVHU2VkVuZXNOSWRxbDh5WnZRUjQ5V3FsT2lkaDRtb1UxNTJmVGpwVUZLOWJreldnYXNvd3VYNS1zMjNoQnN1Tm9Nc0g1VTBtZw?oc=5",
-      "words": [
-        "commission",
-        "communications",
-        "digital",
-        "dissolves",
-        "effect",
-        "government",
-        "immediate",
-        "old",
-        "year"
-      ]
-    },
-    {
-      "at": "2026-09-21T15:32:48.103336+00:00",
       "handle": "News: Global AI",
       "headline": "iPhone 18 Pro Can Run Massive 27B AI Model On-Device",
       "tier": 0,
@@ -7635,50 +7596,57 @@
         "opportunities",
         "tap"
       ]
+    },
+    {
+      "at": "2026-09-28T12:03:16.295295+00:00",
+      "handle": "REG CCI",
+      "headline": "CCI approves MetLife International and PNB MetLife India merger under Form I",
+      "tier": 1,
+      "url": "https://www.cci.gov.in/combination/order/details/summary/1816/0/orders-section31",
+      "words": [
+        "1475",
+        "2026",
+        "approved",
+        "cci",
+        "decision",
+        "deemed",
+        "filed",
+        "form",
+        "holdings",
+        "insurance",
+        "international",
+        "limited",
+        "llc",
+        "merger"
+      ]
+    },
+    {
+      "at": "2026-09-28T12:03:16.295295+00:00",
+      "handle": "Cognizant",
+      "headline": "Cognizant launches Agentic AI processing for TriZetto platforms",
+      "tier": 1,
+      "url": "https://news.cognizant.com/2026-09-28-Cognizant-Brings-Agentic-AI-and-MCP-tool-library-to-Core-Claims-Operations-with-Workflow-Agentic-Processing-for-TriZetto",
+      "words": [
+        "agentic",
+        "article",
+        "brings",
+        "claims",
+        "cle",
+        "cognizant",
+        "core",
+        "health",
+        "lets",
+        "library",
+        "mcp",
+        "operations",
+        "plans",
+        "processing"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790009400190",
-    "1790013771066",
-    "1790014080446",
-    "1790014200709",
-    "1782997145075",
-    "1783000554456",
-    "1783088743699",
-    "1783344628935",
-    "1783512059308",
-    "1783541700878",
-    "1783598400465",
-    "1783946248949",
-    "1784174153871",
-    "1784174390161",
-    "1784174526562",
-    "1784174722849",
-    "1784174865282",
-    "1784175469244",
-    "1784194242160",
-    "1784195100310",
-    "1784201280593",
-    "1784206800652",
-    "1784262060993",
-    "1784266800764",
-    "1784290975590",
-    "1784300411316",
-    "1784545200766",
-    "1784552400866",
-    "1784552402971",
-    "1784565454942",
-    "1784638800887",
-    "1784646990460",
-    "1784721606271",
-    "1784725200041",
-    "1784727534507",
-    "1784828700614",
-    "1784831400856",
-    "1784836860451",
-    "1785164081399",
     "1785169809756",
     "1785244897358",
     "1785254410284",
@@ -13639,10 +13607,49 @@
     "1790593227895",
     "1790593479994",
     "1790594846370",
-    "1790595313133"
+    "1790595313133",
+    "1779461308315",
+    "1779462115547",
+    "1779537626494",
+    "1779883205597",
+    "1779883255078",
+    "1779968541245",
+    "1779969609533",
+    "1779969620447",
+    "1780381800383",
+    "1780923899607",
+    "1781013753362",
+    "1781014219574",
+    "1781018185682",
+    "1781086879811",
+    "1781108651505",
+    "1781624791993",
+    "1781643600714",
+    "1781645390565",
+    "1781814660935",
+    "1782216048986",
+    "1782302430518",
+    "1782318601022",
+    "1782835360599",
+    "1782851400124",
+    "1790553600439",
+    "1790579780557",
+    "1790588160062",
+    "1790590860705",
+    "1790591400286",
+    "1790591580125",
+    "1790591917386",
+    "1790592846674",
+    "1790594686038",
+    "1790594760172",
+    "1790595316786",
+    "1790595919480",
+    "1790595989505",
+    "1790596585231",
+    "1790596919369"
   ],
   "last_digest_hour": "2026-09-28T17",
-  "last_success": "2026-09-28T11:46:53.462797+00:00",
+  "last_success": "2026-09-28T12:03:16.448537+00:00",
   "national": {
     "alerted": [
       {
@@ -16099,6 +16106,48 @@
           "subscription",
           "telecom"
         ]
+      },
+      {
+        "at": "2026-09-28T12:06:06.862872+00:00",
+        "handle": "PIB Ministry of Finance",
+        "headline": "Government extends income tax return filing deadline to November 21",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316050",
+        "words": [
+          "2026",
+          "21st",
+          "31st",
+          "act",
+          "audit",
+          "cbdt",
+          "date",
+          "due",
+          "extends",
+          "finance",
+          "furnishing",
+          "income",
+          "ministry",
+          "november"
+        ]
+      },
+      {
+        "at": "2026-09-28T12:06:06.862872+00:00",
+        "handle": "PIB Ministry of Road Transport & Highways",
+        "headline": "FASTag annual pass issuance crosses one crore milestone nationwide",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316062",
+        "words": [
+          "annual",
+          "fastag",
+          "highways",
+          "milestone",
+          "ministry",
+          "one",
+          "pass",
+          "reaches",
+          "road",
+          "transport"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -16487,7 +16536,7 @@
       "CG-DL-E-28092026-276545",
       "CG-DL-E-28092026-276546"
     ],
-    "last_run": "2026-09-28T11:53:54.226958+00:00",
+    "last_run": "2026-09-28T12:06:06.863855+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18251,7 +18300,14 @@
       "pib:2316034",
       "pib:2316042",
       "pib:2316038",
-      "pib:2316037"
+      "pib:2316037",
+      "pib:2316055",
+      "pib:2316045",
+      "pib:2316050",
+      "pib:2316051",
+      "cci-merger:C-2026/09/1475|Deemed Approved (Section 6(5))",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63680",
+      "pib:2316062"
     ],
     "source_failures": {
       "CBI": {
@@ -18259,8 +18315,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "DGFT": {
-        "count": 29,
-        "until": "2026-09-28T12:02:56.507822+00:00"
+        "count": 30,
+        "until": "2026-09-28T18:03:38.224468+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -18309,6 +18365,24 @@
       "queued_at": "2026-09-28T11:46:53.406881+00:00",
       "score": 8.0,
       "why": "Major AI safety tool release from a key watched company, aligning with recent AI security updates."
+    },
+    {
+      "headline": "Reliance Jio leads telecom additions with 24 lakh mobile subscribers in August",
+      "post": {
+        "created_at": "2026-09-28T11:35:16+00:00",
+        "handle": "News: India telecom",
+        "id": "1790595316786",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "CNBC TV18",
+        "reposts": 0,
+        "text": "Reliance Jio leads telecom additions with 24 lakh mobile subscribers in August: TRAI data",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcTV4bDdiTFR0LS03TWpjQnZrdmZ4T2gtNW9KYUs2aUpUbi1EbFVSdWJLYXZWYUFiM0FlOEdSX0RHZ2p5QkVhSWtQbjdiX0hmYzQ1c2dUSy05SDdTbVp6dEh0aVEtUkFTbklXeG53WEk3YS1uQ3dDcFJxVkdsaWx4d1VJcTNtMms1TkxtNkhwYjNkTGp5UVFNemJhUmZPX0FqeUtGNGs1UGx3T252Y2pyb1NoeF9LUkgxZkFmcExvVk5tV1MwS0lMeHlwNDBqNjNYMG56b09TVFlkWGNjaHRqUHM3WU8yQdIB6wFBVV95cUxOcWE2OTVYSW4wV3hjdHctUHFLTzRQNmpWTlpMTEdIcEMxV1ZBVEdXWmp3dm1Wc2tIcDBKQ2ZZbDBsLVN3a3haTFJZRkpUMHVzUWM2X1dWWXdmSlkwRlByOFYta0ZFbGsxQ2ZuNW5NbVdYRF9KZDZXcE90cVBVTnJlZGt1LVE4MWo2V1l0NlNBM2hnbkNVdVg4VXFDLTU5Nm42VllrZnJhUU5JeGx4c29Vby1EbnQ1UVY1NjJrcURZRkZDNHZJX1pkNU14eldaZnZ6Vk4zNTdQbkFMZzJHN1NnRmc4WGp6UWFNVHQw?oc=5"
+      },
+      "queued_at": "2026-09-28T12:03:16.401749+00:00",
+      "score": 7.0,
+      "why": "Hard TRAI subscriber data figures for major Indian telecom operator."
     }
   ],
   "page_links": {
@@ -19012,7 +19086,8 @@
       "https://news.cognizant.com/2026-09-17-Axis-Bank-and-Cognizant-Collaborate-to-Strengthen-Application-Management-with-AMS-2-0": "2026-09-17T07:46:48.537446+00:00",
       "https://news.cognizant.com/2026-09-18-Cognizant-OpenAI-Codex-Hackathon-Americas": "2026-09-18T20:02:23.621710+00:00",
       "https://news.cognizant.com/2026-09-23-Cognizant-and-Cognition-put-autonomous-AI-engineering-into-production-at-Odyssey-Logistics,-with-a-37-percent-net-cost-saving": "2026-09-23T11:02:41.840562+00:00",
-      "https://news.cognizant.com/2026-09-28-ACI-Worldwide-and-Cognizant-Demonstrate-Strong-Card-Processing-Performance-on-Amazon-Web-Services,-Inc-AWS": "2026-09-28T11:01:55.718002+00:00"
+      "https://news.cognizant.com/2026-09-28-ACI-Worldwide-and-Cognizant-Demonstrate-Strong-Card-Processing-Performance-on-Amazon-Web-Services,-Inc-AWS": "2026-09-28T11:01:55.718002+00:00",
+      "https://news.cognizant.com/2026-09-28-Cognizant-Brings-Agentic-AI-and-MCP-tool-library-to-Core-Claims-Operations-with-Workflow-Agentic-Processing-for-TriZetto": "2026-09-28T12:01:59.839756+00:00"
     },
     "Flipkart": {
       "https://stories.flipkart.com/announcement/flipkart-ads-launches-saarthi-to-help-sellers-grow-with-ai-powered-tools-and-expert-advertising-support": "2026-09-17T07:46:48.422790+00:00",
@@ -19309,7 +19384,7 @@
     "bse wipro": 1789752283470,
     "bse zaggle": 1789743436158,
     "capgemini": 1790593026900,
-    "cognizant": 1790593315486,
+    "cognizant": 1790596919369,
     "flipkart": 1790573498706,
     "google": 1790269200809,
     "google cloud": 1790265600814,
@@ -19326,18 +19401,18 @@
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
     "news: big tech platforms": 1790591410895,
-    "news: consumer internet india": 1790594846480,
+    "news: consumer internet india": 1790595989505,
     "news: global ai": 1790591043674,
     "news: global chips": 1790592702537,
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790594163659,
     "news: india edtech gaming": 1790581631287,
-    "news: india fintech": 1790595313133,
-    "news: india semiconductors": 1790588798201,
-    "news: india tech policy": 1790593613993,
-    "news: india telecom": 1790585642825,
+    "news: india fintech": 1790596585231,
+    "news: india semiconductors": 1790591917386,
+    "news: india tech policy": 1790595919480,
+    "news: india telecom": 1790595316786,
     "news: indian it majors": 1790591580177,
-    "news: indian it midcaps": 1790591400435,
+    "news: indian it midcaps": 1790594760172,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790593227895,
     "nvidia": 1790593200811,
@@ -19350,7 +19425,7 @@
     "pib science and technology": 2316004,
     "razorpay": 1790337528987,
     "redseer": 1790238736972,
-    "reg cci": 1790035200936,
+    "reg cci": 1790553600439,
     "reg cert-in": 1788998400763,
     "salesforce": 1790276411084,
     "samsung": 1790590080284,
@@ -19376,7 +19451,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T11:46:53.813986+00:00",
+    "last_server_run": "2026-09-28T12:03:16.735626+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T11:47:42.347404+00:00",
