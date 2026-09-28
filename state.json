@@ -7633,12 +7633,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790007027517",
-    "1790007084244",
-    "1790007214202",
-    "1789951140619",
-    "1789990925815",
-    "1789993500401",
     "1789993860466",
     "1789997792672",
     "1789998740550",
@@ -13632,10 +13626,16 @@
     "1790569456414",
     "1790573118440",
     "1790578203766",
-    "1790578753964"
+    "1790578753964",
+    "1790006410312",
+    "1790006446385",
+    "1790549280340",
+    "1790578660549",
+    "1790578753963",
+    "1790579146522"
   ],
   "last_digest_hour": "2026-09-28T12",
-  "last_success": "2026-09-28T07:02:40.662325+00:00",
+  "last_success": "2026-09-28T07:16:55.315618+00:00",
   "national": {
     "alerted": [
       {
@@ -16411,9 +16411,10 @@
       "CG-DL-E-26092026-276539",
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535",
-      "CG-DL-E-28092026-276542"
+      "CG-DL-E-28092026-276542",
+      "CG-DL-E-28092026-276541"
     ],
-    "last_run": "2026-09-28T07:04:22.349250+00:00",
+    "last_run": "2026-09-28T07:22:56.045210+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18148,12 +18149,17 @@
       "pib:2315847",
       "gazette:CG-DL-E-28092026-276542",
       "pib:2315856",
-      "pib:2315851"
+      "pib:2315851",
+      "gazette:CG-DL-E-28092026-276541",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-indian-chess-players"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "CERT-In": {
+        "count": 1
       },
       "DGFT": {
         "count": 29,
@@ -18206,6 +18212,42 @@
       "queued_at": "2026-09-28T06:46:57.604407+00:00",
       "score": 8.0,
       "why": "Early-stage startup funding round involving a major e-commerce player is a filable story."
+    },
+    {
+      "headline": "PhonePe targets international expansion following UAE regulatory license",
+      "post": {
+        "created_at": "2026-09-28T06:57:40+00:00",
+        "handle": "News: India fintech",
+        "id": "1790578660549",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "PhonePe\u2019s Sameer Nigam bets on international expansion even as company gets license in UAE",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbnZtelEzZXBTSzRUaUl1bXgtck40N0lnejlvWDJSMGdMSzhSdWxTQi01VjUwOXF6N2tpZTZVV205Ym5STzk4WHFpM2VsTUl3UVVVTTdsZDUzUGhPQ081TzRTMGdmd3ppWTIxRThmTnRtV0pjYU83U01yYmFZZUdidHdKSnc3emlJR1hNMFl6RXJkaHVpY2JHWllvV3otSjVPNE5NdWdSWC1DNDkyM3VaNUt6Q2o5WlBiVzRrRVAtVkVpTnlCYjN5VTNYbC1LTXJSajd3TDBkazM0WW83SDFJTlJIR09GUmPSAewBQVVfeXFMUEtsODVReHI4cUN1cDBLWUtRSGdwdjl3QlNtSnZtUUdkX0VBcjRkaXNienp4QmNIRHJnclZXSWxqSEFLeDlqSUc2X055Tm1xSjdVeGwzT3lfWjZWbVZJVV9hVjV0OG9QU1ZzQ1ZLamUzd3VmRWFmTzFSQmt6WnlibXpuRWZTOGhvdFlESWttU01OeWhHOXpVNEdjb01pWXpGeVY3TWdaS1k3QVJqNG5MYkdRSURqQ28zWUQ2TnpBM2FoVkE3cXFxdDJ3Y1hPckxtdVZodzlQRXdGamk4TS1TTUhnc1d1SmRMOWZzRVA?oc=5"
+      },
+      "queued_at": "2026-09-28T07:16:55.260677+00:00",
+      "score": 7.0,
+      "why": "PhonePe CEO's strategic move into international markets is a key industry development."
+    },
+    {
+      "headline": "Bernstein report reveals Amazon and Flipkart scaling quick-commerce dark stores",
+      "post": {
+        "created_at": "2026-09-28T07:05:46+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1790579146522",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "CNBC TV18",
+        "reposts": 0,
+        "text": "Amazon, Flipkart accelerating in quick-commerce race with nearly 1,000 dark stores, says Bernstein",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV2cwOHlQVThfdjhYbmM3ajhfcGpBT05qajlmRmVFa2I3RXM2b1JhY3J2eDlNbEs2TWk4N2hyVnMtbDY2anZhNTVJWGZXa1d6RGk0WEdILXBRYkhkX3h4SWFHbldkZ1pGa0dEc2tLU3RmUTlGTW1DRWYxNEVSSHctaGVnZzI1NnRRZmVuWFpxaHJLalc0c2JoNWg4ZklXdHVEUXFoY19Pb1Q4bU9OTUR5NF9iOGhXR0E5X1l6ODBzRC1QWHlDMVhJYUhFOWs5RU5ESXNwdU45SW1Cb3hTMDJJ0gHkAUFVX3lxTE9NT1FvNW55aTBGSkVsRlRNaWNySXZ3RElJNkg0Qk0wUUJOU2VJY1RBdm5heU5XUXV1WkcySzhBZTFjSjIwbDRacnVURVByMmhJSUpIWS1ZcnlXNnMzbnc4WjZNUWF2emRtcG9TVHdsdzZ6QmxBSUdNVzQwa2swMTZJUEt0ZHVsYnoxaW8wUzN3eUxwUHJyYjhXbW91MXdYaEo4SU41aFJqNFg5VmxEZTNnNkRmdnlCVDU5TDZseGlYaDZYTW03YlVRaEFwOUdwQ2c2a2g2aXk5alVCQVFTdEwzbEptRw?oc=5"
+      },
+      "queued_at": "2026-09-28T07:16:55.260677+00:00",
+      "score": 7.0,
+      "why": "Hard numbers and market share tracking from a named firm on the quick-commerce race."
     }
   ],
   "page_links": {
@@ -19222,13 +19264,13 @@
     "mistral ai": 1789560000798,
     "naukri": 1790234460996,
     "news: big tech platforms": 1790575101241,
-    "news: consumer internet india": 1790578753964,
+    "news: consumer internet india": 1790579146522,
     "news: global ai": 1790572790406,
     "news: global chips": 1790560268308,
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790562946127,
     "news: india edtech gaming": 1790535586534,
-    "news: india fintech": 1790576906621,
+    "news: india fintech": 1790578660549,
     "news: india semiconductors": 1790577671669,
     "news: india tech policy": 1790562840964,
     "news: india telecom": 1790575273216,
@@ -19272,7 +19314,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T07:02:41.073079+00:00",
+    "last_server_run": "2026-09-28T07:16:55.663790+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T05:33:17.418885+00:00",
@@ -19663,6 +19705,7 @@
       "CG-DL-E-26092026-276537",
       "CG-DL-E-26092026-276539",
       "CG-DL-E-26092026-276540",
+      "CG-DL-E-28092026-276541",
       "CG-DL-E-28092026-276542",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
