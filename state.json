@@ -7629,10 +7629,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790002096900",
-    "1790002155552",
-    "1790002329917",
-    "1790003321548",
     "1790003686830",
     "1790004526137",
     "2313217",
@@ -13628,10 +13624,14 @@
     "1790557860798",
     "1790562256319",
     "1790584200961",
-    "1790590080284"
+    "1790590080284",
+    "1790513040032",
+    "1790562190627",
+    "1790562840964",
+    "1790562900890"
   ],
   "last_digest_hour": "2026-09-28T08",
-  "last_success": "2026-09-28T02:32:00.119795+00:00",
+  "last_success": "2026-09-28T02:46:48.806257+00:00",
   "national": {
     "alerted": [
       {
@@ -16388,7 +16388,7 @@
       "CG-DL-E-26092026-276540",
       "CG-DL-E-26092026-276535"
     ],
-    "last_run": "2026-09-28T02:34:49.386110+00:00",
+    "last_run": "2026-09-28T02:47:59.196215+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18145,7 +18145,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "HyperVault plans Rs 70,000 crore AI data centre in Hyderabad",
+      "post": {
+        "created_at": "2026-09-28T02:35:00+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790562900890",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "ET Datacenters",
+        "reposts": 0,
+        "text": "HyperVault plans \u20b970,000 crore AI data centre campus in Hyderabad",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUFJ1bUdJMzUxM0RiSVNNaHJkTXBxOTY1ZHV4aDg3WEpFOGgzdGwzOHFES3JKMFM0bV8xS2NBVjM1YUd4aXJ0cmNNWmUtdnhxdG5VTTZMNndRVEg4cXFfZDBvdF9QUlRlOVZNMjRGVWZnUzVxTzNJOUJweVplelVxM3ZCbXRXVTM0UnB3anhJaVpjOE1YZ2ZleVRDUHNGTWd4WVVWM25Ea3dHMF8yckd0SG1QaTBSLWFQOXh3aXU0VWF2U1Bqd0JWYXVRb0JCN1ZuUzd1YnFINDZWLXhUTFNfOUZZdUt0bzFLWFlXbXFpYUwxelpqT2dId1gxTmRfSURaX2VhdUJyQ3JCRmo1Ym5TV0JrdWFud0VNVEIyemRB0gHsAUFVX3lxTE16Y29kZW92ZjNVZENxTEl3TC01LWdrVWNoYUVZNHdpWTV2YmtzQ3FqNG14c2NMN1JuWkRqMUp3MXJ2QVpjMXFjYS1RekRwZ1hrUnA3WGVyZEx4cWtIbW5kMGJPX01hMVlRUl9RZVZtaExhMkVaQ25jdXAtdWljczhKOWJ6SHF4ME9YMHJNLXgzUXdWWkpEQ21UZHR1bG8zTTlNUDlOb3U4YzhrbzBYMU82by1nblVoVmF0LVFTYUdvSFZ3NTRSSHdPTlVsYUlLOGJIblN6QjJfaTZjX1RVWFRyR0piT2VUNHRMNEFE?oc=5"
+      },
+      "queued_at": "2026-09-28T02:46:48.751659+00:00",
+      "score": 9.0,
+      "why": "Massive capital expenditure commitment and infrastructure investment in an AI data centre in India."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19160,16 +19179,16 @@
     "naukri": 1790234460996,
     "news: big tech platforms": 1790549280090,
     "news: consumer internet india": 1790556930764,
-    "news: global ai": 1790553000796,
+    "news: global ai": 1790557860798,
     "news: global chips": 1790560268308,
     "news: global it services": 1790352234410,
     "news: india ai deeptech": 1790555477592,
     "news: india edtech gaming": 1790535586534,
-    "news: india fintech": 1790561078413,
+    "news: india fintech": 1790562190627,
     "news: india semiconductors": 1790555400338,
-    "news: india tech policy": 1790557200619,
+    "news: india tech policy": 1790562840964,
     "news: india telecom": 1790560442061,
-    "news: indian it majors": 1790562256319,
+    "news: indian it majors": 1790562900890,
     "news: indian it midcaps": 1790534460213,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790513205872,
@@ -19209,7 +19228,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-28T02:32:00.472932+00:00",
+    "last_server_run": "2026-09-28T02:46:49.140297+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-28T01:18:11.898369+00:00",
