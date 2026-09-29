@@ -7639,12 +7639,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790052642525",
-    "1790052752955",
-    "1790052957860",
-    "1790053289480",
-    "1789970820184",
-    "1789988986919",
     "1789991840735",
     "1790000175168",
     "1790046065799",
@@ -13638,10 +13632,16 @@
     "1790641497338",
     "1790641800171",
     "1790641807885",
-    "1790642697528"
+    "1790642697528",
+    "1790634840262",
+    "1790636580138",
+    "1790637420676",
+    "1790641020637",
+    "1790642944134",
+    "1790643286155"
   ],
   "last_digest_hour": "2026-09-29T06",
-  "last_success": "2026-09-29T00:46:48.429162+00:00",
+  "last_success": "2026-09-29T01:02:09.281024+00:00",
   "national": {
     "alerted": [
       {
@@ -16679,7 +16679,7 @@
       "CG-DL-E-28092026-276573",
       "CG-DL-E-28092026-276570"
     ],
-    "last_run": "2026-09-29T00:49:29.533926+00:00",
+    "last_run": "2026-09-29T01:03:12.267564+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19623,12 +19623,12 @@
     "naukri": 1790234460996,
     "news: big tech platforms": 1790640000287,
     "news: consumer internet india": 1790641807885,
-    "news: global ai": 1790641269124,
+    "news: global ai": 1790642944134,
     "news: global chips": 1790642697528,
     "news: global it services": 1790629260317,
     "news: india ai deeptech": 1790617892240,
     "news: india edtech gaming": 1790591410895,
-    "news: india fintech": 1790636580134,
+    "news: india fintech": 1790643286155,
     "news: india semiconductors": 1790599529769,
     "news: india tech policy": 1790618718086,
     "news: india telecom": 1790641497338,
@@ -19672,7 +19672,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-29T00:46:48.778581+00:00",
+    "last_server_run": "2026-09-29T01:02:09.630383+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-29T00:33:20.910415+00:00",
