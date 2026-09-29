@@ -7626,19 +7626,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790057953769",
-    "1790057985954",
-    "1790058229840",
-    "1790058373956",
-    "1790058457551",
-    "1790058527410",
-    "1790058541010",
-    "1789979161660",
-    "1790001340504",
-    "1790003829919",
-    "1790010466574",
-    "1790015369709",
-    "1790017800316",
     "1790049399612",
     "1790050500912",
     "1790052817687",
@@ -13625,10 +13612,23 @@
     "1790647200464",
     "1790647242523",
     "1790651956400",
-    "1790652957050"
+    "1790652957050",
+    "1790598838812",
+    "1790648646399",
+    "1790650320269",
+    "1790651956286",
+    "1790652119358",
+    "1790653055951",
+    "1790653347977",
+    "1790653469084",
+    "1790653715827",
+    "1790653717640",
+    "1790653819331",
+    "1790653839179",
+    "1790653893884"
   ],
   "last_digest_hour": "2026-09-29T09",
-  "last_success": "2026-09-29T03:46:49.676443+00:00",
+  "last_success": "2026-09-29T04:02:16.724046+00:00",
   "national": {
     "alerted": [
       {
@@ -16666,7 +16666,7 @@
       "CG-DL-E-28092026-276573",
       "CG-DL-E-28092026-276570"
     ],
-    "last_run": "2026-09-29T03:49:16.636344+00:00",
+    "last_run": "2026-09-29T04:06:36.366393+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18569,7 +18569,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Nvidia touts software tool to contain runaway AI",
+      "post": {
+        "created_at": "2026-09-29T03:48:37+00:00",
+        "handle": "News: Global chips",
+        "id": "1790653717640",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BusinessLine",
+        "reposts": 0,
+        "text": "Nvidia is touting a software tool to contain runaway AI. How would it work?",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUmlMX1k4MkNjQUo5YzhUTjhBYS1tbkxSNnRpcXR6TnprTzVWUmRSZWlZOFlvMUVlZll0TURxR1V1UDlCUElzV3pfZDVfQlo5bEFaTENvREV6ZTVuSjZUd3djVUgyVzQwSG1Ud21CbHVqMDFuWkpGSDRwRHV3RXlSNlByMTQxaDRYNDRscWZFVFJNRDlSSFVmdGxtei1wcDYyTjhlcUFJb0FmTDBGUWxrcDNBRWkyQVpTRExVaGJMSFYzRDREOUdBazRLV0w0QlowUGtpTlRLONIB3gFBVV95cUxOTjk2dEFsVkktcWJEcm15ZzhKMmJJWVF6anFxVmhQSjFpcmIwT2JqSEI1MGd4UGUwTW9zYldUTTBGclFwTFhFMWtkYlEwMXFkME12Yl82azF1Q0pjOEJYeWNqNWNQYU5NSkJLeUJaZmQ0NzBkSXQ0bHpjU1FNd3BUTlBoamFYZksxcTNfNWZXVmgtQ1R4ZFZsdV9Nc3NVeENEMUFQY0tjMmhwYkJFRnpPUGJibjJlZGlFbUxoMWJMQnhkdFI5ejU0YkE1b2RLbW5kaXNfRkRPVVEtNmcxd2c?oc=5"
+      },
+      "queued_at": "2026-09-29T04:02:16.666504+00:00",
+      "score": 7.0,
+      "why": "Major AI company security disclosure and product release."
+    },
+    {
+      "headline": "Groww begins phased rollout of US stock investing",
+      "post": {
+        "created_at": "2026-09-29T03:51:33+00:00",
+        "handle": "News: India fintech",
+        "id": "1790653893884",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "Groww begins phased rollout of US stock investing to cash in on AI, chip wave",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHBCaENfSkpRSEFUXzFfbWNySlFPbUJXUFJFMEJMYnhlT0c4X19SNmJkRXh4ZldETGF5cEoxdjI2UXI1Wm53S1Jjc2dhVFZWZ3hnanpmTExsdnNPclY1eTFHbXlDcmJ2dU9aWjNFMW1GbFdSM1dNeWxuX3loa3pRbXJHNU9XSzJXVHk5OE9lTV8xRkpTaFdDM3BieXBGdV9NMmdibFlOV2pwemlaYVJEN3NpUGllWGRVeHBKNXdpeEFGN3Vmc0s5TFZjcW50SE14djVaY1NfVjM1NnoxM0lsaXRPMGZNUXczWi0tcm95b9IB9AFBVV95cUxPNzNBMU5ZOFNocmczZk5lM1VWNTFPUkxTQ3JkeTdWOW9yc3o1dTJ2RGtBWkp0MGdydlBPOG0xWG1Dd1c2MTFyczlsblJZLTNCZS1JbUhPamo1ZGZRM1ZSRjd5OW5LU2Z2VWVVRGNRV1hEMVNRZ3BNQ09xOU5oMjI2UDZ2T25tREdQR3Y0Q09XSFhoanFsYXVWOTFNT18zNWhkQ21Gd1VZenhfMUcwV25BNHdsNi1vQnlPd0NfSUFFbjNJRXJ3ZlFZTU1TRnRtYWJTcmlCcmFvczNIbWxnZVp2Z0RHbzM0REp0dGYxQ2VuMjRsTTJu?oc=5"
+      },
+      "queued_at": "2026-09-29T04:02:16.666504+00:00",
+      "score": 7.0,
+      "why": "Major fintech platform product rollout involving cross-border investing."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19591,21 +19628,21 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1790611079525,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790652957050,
+    "news: big tech platforms": 1790653839179,
     "news: consumer internet india": 1790651055926,
-    "news: global ai": 1790652342270,
-    "news: global chips": 1790651481528,
+    "news: global ai": 1790653347977,
+    "news: global chips": 1790653717640,
     "news: global it services": 1790629260317,
     "news: india ai deeptech": 1790617892240,
     "news: india edtech gaming": 1790591410895,
-    "news: india fintech": 1790649007122,
+    "news: india fintech": 1790653893884,
     "news: india semiconductors": 1790599529769,
     "news: india tech policy": 1790648280772,
-    "news: india telecom": 1790643619102,
-    "news: indian it majors": 1790651956400,
-    "news: indian it midcaps": 1790649364243,
+    "news: india telecom": 1790648646399,
+    "news: indian it majors": 1790653819331,
+    "news: indian it midcaps": 1790650320269,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790639474476,
+    "news: tech leaders": 1790653715827,
     "nvidia": 1790593200811,
     "nvidia blog": 1790258450056,
     "openai": 1790643600577,
@@ -19642,7 +19679,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-29T03:46:49.976578+00:00",
+    "last_server_run": "2026-09-29T04:02:17.058526+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-29T02:47:28.463429+00:00",
