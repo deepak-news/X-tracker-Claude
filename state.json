@@ -7626,20 +7626,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790062304802",
-    "1790062338222",
-    "1790062364809",
-    "1790062372382",
-    "1790062404963",
-    "1790062440634",
-    "1790062567669",
-    "1790062849324",
-    "1790062913524",
-    "2313349",
-    "1790006412180",
-    "1790039640003",
-    "1790050508887",
-    "1790052742650",
     "1790054922118",
     "1790056075858",
     "1790059068350",
@@ -13625,10 +13611,24 @@
     "1790663036360",
     "1790663215892",
     "1790663404205",
-    "1790663502453"
+    "1790663502453",
+    "1790656333569",
+    "1790656703167",
+    "1790658456536",
+    "1790659311916",
+    "1790659677398",
+    "1790659990689",
+    "1790662648516",
+    "1790662679020",
+    "1790663220150",
+    "1790663287334",
+    "1790663400342",
+    "1790663408872",
+    "1790663571338",
+    "1790663675801"
   ],
   "last_digest_hour": "2026-09-29T12",
-  "last_success": "2026-09-29T06:32:29.464241+00:00",
+  "last_success": "2026-09-29T06:46:55.748391+00:00",
   "national": {
     "alerted": [
       {
@@ -16739,7 +16739,7 @@
       "CG-DL-E-29092026-276577",
       "CG-DL-E-29092026-276578"
     ],
-    "last_run": "2026-09-29T06:35:14.938072+00:00",
+    "last_run": "2026-09-29T06:49:47.854160+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18614,7 +18614,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63685",
       "pib:2316355",
       "pib:2316357",
-      "pib:2316364"
+      "pib:2316364",
+      "pib:2316376"
     ],
     "source_failures": {
       "CBI": {
@@ -19677,16 +19678,16 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1790611079525,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790663036360,
+    "news: big tech platforms": 1790663571338,
     "news: consumer internet india": 1790656777222,
-    "news: global ai": 1790662635263,
-    "news: global chips": 1790661994285,
+    "news: global ai": 1790663675801,
+    "news: global chips": 1790663220150,
     "news: global it services": 1790629260317,
     "news: india ai deeptech": 1790649450758,
     "news: india edtech gaming": 1790649316771,
-    "news: india fintech": 1790659800564,
+    "news: india fintech": 1790663408872,
     "news: india semiconductors": 1790655085115,
-    "news: india tech policy": 1790662679728,
+    "news: india tech policy": 1790663287334,
     "news: india telecom": 1790663215892,
     "news: indian it majors": 1790662304128,
     "news: indian it midcaps": 1790656896224,
@@ -19728,17 +19729,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-29T06:32:29.807841+00:00",
+    "last_server_run": "2026-09-29T06:46:56.056859+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-09-29T04:47:36.690385+00:00",
+        "checked": "2026-09-29T06:47:46.545381+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-09-29T04:47:28.287157+00:00",
+        "checked": "2026-09-29T06:47:38.341514+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -19814,7 +19815,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-09-29T04:47:32.463964+00:00",
+        "checked": "2026-09-29T06:47:42.486583+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -19868,11 +19869,11 @@
       },
       "last": {
         "calendar": "2026-09-29T01:34:30.452485+00:00",
-        "ls_reports": "2026-09-29T04:47:12.566178+00:00",
-        "rs_committee_press": "2026-09-29T04:47:22.504672+00:00",
-        "rs_press": "2026-09-29T04:47:19.986396+00:00",
-        "rs_reports": "2026-09-29T04:47:17.052098+00:00",
-        "rs_updates": "2026-09-29T04:47:24.067412+00:00"
+        "ls_reports": "2026-09-29T06:47:22.095635+00:00",
+        "rs_committee_press": "2026-09-29T06:47:31.876673+00:00",
+        "rs_press": "2026-09-29T06:47:28.933213+00:00",
+        "rs_reports": "2026-09-29T06:47:26.426118+00:00",
+        "rs_updates": "2026-09-29T06:47:34.143948+00:00"
       }
     },
     "scanned": [
