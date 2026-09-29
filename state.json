@@ -7626,14 +7626,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790049399612",
-    "1790050500912",
-    "1790052817687",
-    "1790054783003",
-    "1790055000061",
-    "1790055900299",
-    "1790056500927",
-    "1790056800684",
     "1790058196171",
     "1790058314445",
     "1790058440163",
@@ -13625,10 +13617,18 @@
     "1790653717640",
     "1790653819331",
     "1790653839179",
-    "1790653893884"
+    "1790653893884",
+    "1790647329314",
+    "1790649450758",
+    "1790649478685",
+    "1790649608936",
+    "1790653806566",
+    "1790654198994",
+    "1790654480938",
+    "1790654712598"
   ],
   "last_digest_hour": "2026-09-29T09",
-  "last_success": "2026-09-29T04:02:16.724046+00:00",
+  "last_success": "2026-09-29T04:16:56.498562+00:00",
   "national": {
     "alerted": [
       {
@@ -16666,7 +16666,7 @@
       "CG-DL-E-28092026-276573",
       "CG-DL-E-28092026-276570"
     ],
-    "last_run": "2026-09-29T04:06:36.366393+00:00",
+    "last_run": "2026-09-29T04:21:05.998146+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18605,6 +18605,24 @@
       "queued_at": "2026-09-29T04:02:16.666504+00:00",
       "score": 7.0,
       "why": "Major fintech platform product rollout involving cross-border investing."
+    },
+    {
+      "headline": "HCLTech arm to acquire Croatia-based Robotiq.ai for 9 million euro",
+      "post": {
+        "created_at": "2026-09-29T02:37:58+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790649478685",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "HCLTech's arm to acquire Croatia-based Robotiq.ai for 9 million euro",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWtYVXROb01pYnhIa3V0OHRQb21sdzI5TDlVTlROZjNBME0zc0RvYWVmMkxsNWs1TE1EcS1TT2dzQkIwSUxBNXNheUZmUld4X1hHRW5vdWJXUXJsZXJGUE1oSGtDVjRrZXJmTEZhb0pVZmp3V2lEckh5WE1ONk5lUndHcktGVDJCOFRFVl9SZ3RtTnNuc0lZRzhFQlVka3NveFJZZkNUNFB6d1huLVd6R2U3VF9HWkFLdUhUOVBOeXpfQWo2ODdQVHprdmllN1N3UFBFR25UdWPSAdgBQVVfeXFMUDFrWFV0Tm9NaWJ4SGt1dDh0UG9tbHcyOUw5VU5UTmYzQTBNM3NEb2FlZjJMbDVrNUxNRHEtU09nc0JCMElMQTVzYXlGZlJXeF9YR0Vub3ViV1FybGVyRlBNaEhrQ1Y0a2VyZkxGYW9KVWZqd1dpRHJIeVhNTjZOZVJ3R3JLRlQyQjhURVZfUmd0bU5zbnNJWUc4RUJVZGtzb3hSWWZDVDRQendYbi1XekdlN1RfR1pBS3VIVDlQTnl6X0FqNjg3UFR6a3ZpZTdTd1BQRUduVHVj?oc=5"
+      },
+      "queued_at": "2026-09-29T04:16:56.452310+00:00",
+      "score": 8.0,
+      "why": "This is a confirmed cross-border acquisition by an Indian IT major with a disclosed deal value."
     }
   ],
   "page_links": {
@@ -19630,12 +19648,12 @@
     "naukri": 1790234460996,
     "news: big tech platforms": 1790653839179,
     "news: consumer internet india": 1790651055926,
-    "news: global ai": 1790653347977,
-    "news: global chips": 1790653717640,
+    "news: global ai": 1790654480938,
+    "news: global chips": 1790654712598,
     "news: global it services": 1790629260317,
-    "news: india ai deeptech": 1790617892240,
+    "news: india ai deeptech": 1790649450758,
     "news: india edtech gaming": 1790591410895,
-    "news: india fintech": 1790653893884,
+    "news: india fintech": 1790654198994,
     "news: india semiconductors": 1790599529769,
     "news: india tech policy": 1790648280772,
     "news: india telecom": 1790648646399,
@@ -19679,7 +19697,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-29T04:02:17.058526+00:00",
+    "last_server_run": "2026-09-29T04:16:56.749108+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-29T02:47:28.463429+00:00",
