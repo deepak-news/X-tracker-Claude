@@ -16,6 +16,24 @@ import json
 import sys
 
 
+def _latest_order(theirs: list, ours: list, cap: int) -> list:
+    """Both runs' lists as one, each item where it was LAST put.
+
+    A run moves everything a source still lists to the recent end, so that
+    trimming only ever forgets what has scrolled off. Keeping each item's
+    FIRST place instead undid that on every save: PIB releases, which stay
+    on the month's listing for weeks, slid off the old end and came back as
+    new -- the Semicon 2.0 releases were emailed ten days late on 29 Sep 2026.
+    """
+    combined, already = [], set()
+    for key in reversed(theirs + ours):
+        if key not in already:
+            already.add(key)
+            combined.append(key)
+    combined.reverse()
+    return combined[-cap:]
+
+
 def merge_watch(ours: dict, theirs: dict) -> dict:
     """The government watch keeps its own memory in the same file."""
     merged = dict(theirs)
@@ -73,13 +91,13 @@ def merge_watch(ours: dict, theirs: dict) -> dict:
 def merge_national(ours: dict, theirs: dict) -> dict:
     """The national desk's memory: what was read, and what was sent."""
     merged = dict(theirs)
-    for field, cap in (("seen", 3000), ("gazette_scanned", 2000)):
-        combined, already = [], set()
-        for key in (theirs.get(field) or []) + (ours.get(field) or []):
-            if key not in already:
-                already.add(key)
-                combined.append(key)
-        merged[field] = combined[-cap:]
+    merged["seen"] = _latest_order(theirs.get("seen") or [], ours.get("seen") or [], 3000)
+    combined, already = [], set()
+    for key in (theirs.get("gazette_scanned") or []) + (ours.get("gazette_scanned") or []):
+        if key not in already:
+            already.add(key)
+            combined.append(key)
+    merged["gazette_scanned"] = combined[-2000:]
 
     alerted, keys = [], set()
     for entry in (theirs.get("alerted") or []) + (ours.get("alerted") or []):
@@ -161,13 +179,9 @@ def merge(ours: dict, theirs: dict) -> dict:
 
     # Stories already handled. Either run's list counts: forgetting one
     # would put a story back in front of the AI and email it twice.
-    handled, already = [], set()
-    for key in (theirs.get("handled") or []) + (ours.get("handled") or []):
-        if key not in already:
-            already.add(key)
-            handled.append(key)
+    handled = _latest_order(theirs.get("handled") or [], ours.get("handled") or [], 6000)
     if handled:
-        merged["handled"] = handled[-6000:]
+        merged["handled"] = handled
 
     for field in ("last_success", "last_digest_hour"):
         latest = max(theirs.get(field, ""), ours.get(field, ""))

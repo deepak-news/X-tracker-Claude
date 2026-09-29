@@ -22,6 +22,20 @@ STATE = ROOT / "state.json"
 # max_age_hours, so this is days of headroom rather than hours.
 HANDLED_MEMORY = 6000
 
+# PIB numbers every release in one rising sequence, about 500 a day across
+# all ministries. A release more than a day's worth of numbers behind the
+# newest one already read for its ministry is old, whatever the memory says:
+# PIB's list carries no dates, and shows the whole month on every visit.
+PIB_BEHIND = 500
+
+
+def _old_pib(post, seen: dict) -> bool:
+    """A PIB release older than what was already read for that ministry."""
+    handle = post.handle.lower()
+    if not handle.startswith("pib ") or not post.id.isdigit():
+        return False
+    return int(post.id) < int(seen.get(handle, 0)) - PIB_BEHIND
+
 # How many runs in a row must fail before we email about it. Stops one blip
 # from bothering you, while a genuinely dead session still gets through.
 FAILURES_BEFORE_ALARM = 3
@@ -286,6 +300,8 @@ async def run(dry_run: bool) -> int:
     fresh = []
     for post in posts:
         if post.id in handled_ids:
+            continue
+        if _old_pib(post, seen):
             continue
         if starting_clean or post.handle.lower() not in seen:
             # The first run under this scheme, or a source never read before:
