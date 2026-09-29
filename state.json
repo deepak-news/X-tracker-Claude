@@ -2,24 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-22T09:52:07.005384+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Matters.AI and Cockroach Labs launch DPDP-compliant data security integration",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3VPNmZtY2V4RWYxcUNrUUhNelJHMnhPdzhmQ1BnZ2tWMWFmV1FHa1k2YkdXVnM0Ni1LVXJESFJYWm5ySlB3N0dzaVpMRy1XOHFTUGtkQ2dYdmVIdUU1bFZkQkRSallQX1EtUVVSekxwNkg1elpNLURMWGFPNnR5c2RsLUE2MENRc1lCejJCZTlWbjNtcHVXU2o3eGdCREJWODdmcW1IWjhGazdPUVVmUGM1a3VwR0Jtak53?oc=5",
-      "words": [
-        "cockroach",
-        "data",
-        "dpdp",
-        "integration",
-        "labs",
-        "launch",
-        "matters",
-        "regulated",
-        "security"
-      ]
-    },
-    {
-      "at": "2026-09-22T09:52:07.005384+00:00",
       "handle": "News: Tech leaders",
       "headline": "OpenAI CEO Sam Altman endorses Trump and Xi for Nobel Peace Prize",
       "tier": 0,
@@ -7624,22 +7606,32 @@
         "thirteenth",
         "trai"
       ]
+    },
+    {
+      "at": "2026-09-29T07:32:24.354048+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Meta and MeitY receive NHRC notice over Instagram political content",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZjVDOHU1VDN6aW5WXzZCYzcxaGQ5dWJ4QU8xRzdYRjVfekpDdFAtbzdzbm52amt2M1Rid0NwVHNzOElVdHFEMmxhWXBIenNGRFQ3S3IzR1JQZUY2VE1oMVJjZXdyRHhBeWFDY1dnSHNiLU1scEFhalQ2WUR2ZnRMb1RDckxTb3kza3dnR3RQZFY0eUZSa3Z2bndkVUxHZnZoRnRLaW1Nb2lSejdEaDBpYno5T2paTzR4NlNjdEVvRi1Ka2VZQTlpd29sdGRFclZqNTUxN0xSTlFsUUpmdjFlS3EyT19kRWNZRFN5SG1XNG1wd9IB9wFBVV95cUxOSEJPVkpIOHo2U3JKbEt6YjUtdmRXVmxsVzRFQUt5UEN6bjZ3aDlPVjFxWDhfcjhwRHFma1dPN25DQU9xM3VkVHI2cDdvanhwYXdTWWd2c1R6T3ZzbG9nVzhGRnpjaVBPSWFvVktrWDRCWmlER1lVbDY3MkFPWGR4U1ZNTGEyclJyV2dGbDNzTWsyclJKaGU1THhrd0k3cllCZDB0cGV1ZERJVlNkbC1FekRhMEhlTHBTdnRFWFBUb05jeVFFMGxYbGRORE1VMS1IVURxMnozeU8tWjFzMzdlSFZ3YUxncTJaLU5scDBjd2hBaWNzVjBr?oc=5",
+      "words": [
+        "anti",
+        "children",
+        "content",
+        "featuring",
+        "get",
+        "instagram",
+        "meity",
+        "meta",
+        "modi",
+        "nhrc",
+        "notice",
+        "political"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790043293156",
-    "1790048747383",
-    "1790050058050",
-    "1790050080819",
-    "1790055513032",
-    "1790059169580",
-    "1790060161905",
-    "1790060865821",
-    "1790061201212",
-    "1790061361430",
-    "1790061362262",
     "1790062933522",
     "1790063571112",
     "1790063833808",
@@ -13628,10 +13620,21 @@
     "1790663220770",
     "1790664964810",
     "1790665125561",
-    "1790665689745"
+    "1790665689745",
+    "1790612155396",
+    "1790653347735",
+    "1790661675357",
+    "1790663951335",
+    "1790665553382",
+    "1790665688069",
+    "1790665787659",
+    "1790666487463",
+    "1790666767038",
+    "1790666780748",
+    "1790666838580"
   ],
-  "last_digest_hour": "2026-09-29T12",
-  "last_success": "2026-09-29T07:16:47.965284+00:00",
+  "last_digest_hour": "2026-09-29T13",
+  "last_success": "2026-09-29T07:32:24.430534+00:00",
   "national": {
     "alerted": [
       {
@@ -16322,6 +16325,27 @@
           "states",
           "uttar"
         ]
+      },
+      {
+        "at": "2026-09-29T07:33:51.148533+00:00",
+        "handle": "PIB Ministry of Home Affairs",
+        "headline": "Two government officials arrested for taking bribes to clear FCRA registrations.",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316383",
+        "words": [
+          "affairs",
+          "apprehended",
+          "facilitate",
+          "fcra",
+          "gratification",
+          "home",
+          "illegal",
+          "ministry",
+          "officials",
+          "registration",
+          "seeking",
+          "two"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -16740,9 +16764,11 @@
       "CG-DL-E-29092026-276575",
       "CG-DL-E-29092026-276576",
       "CG-DL-E-29092026-276577",
-      "CG-DL-E-29092026-276578"
+      "CG-DL-E-29092026-276578",
+      "CG-DL-E-29092026-276580",
+      "CG-DL-E-29092026-276581"
     ],
-    "last_run": "2026-09-29T07:18:14.676256+00:00",
+    "last_run": "2026-09-29T07:33:51.149186+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18619,7 +18645,12 @@
       "pib:2316357",
       "pib:2316364",
       "pib:2316376",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63686"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63686",
+      "pib:2316405",
+      "pib:2316391",
+      "gazette:CG-DL-E-29092026-276581",
+      "gazette:CG-DL-E-29092026-276580",
+      "pib:2316383"
     ],
     "source_failures": {
       "CBI": {
@@ -18659,26 +18690,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Meta and MeitY receive NHRC notice over Instagram political content",
-      "post": {
-        "created_at": "2026-09-29T06:56:04+00:00",
-        "handle": "News: India tech policy",
-        "id": "1790664964810",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Today",
-        "reposts": 0,
-        "text": "Meta, MeitY get NHRC notice over anti-Modi political content featuring children on Instagram",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZjVDOHU1VDN6aW5WXzZCYzcxaGQ5dWJ4QU8xRzdYRjVfekpDdFAtbzdzbm52amt2M1Rid0NwVHNzOElVdHFEMmxhWXBIenNGRFQ3S3IzR1JQZUY2VE1oMVJjZXdyRHhBeWFDY1dnSHNiLU1scEFhalQ2WUR2ZnRMb1RDckxTb3kza3dnR3RQZFY0eUZSa3Z2bndkVUxHZnZoRnRLaW1Nb2lSejdEaDBpYno5T2paTzR4NlNjdEVvRi1Ka2VZQTlpd29sdGRFclZqNTUxN0xSTlFsUUpmdjFlS3EyT19kRWNZRFN5SG1XNG1wd9IB9wFBVV95cUxOSEJPVkpIOHo2U3JKbEt6YjUtdmRXVmxsVzRFQUt5UEN6bjZ3aDlPVjFxWDhfcjhwRHFma1dPN25DQU9xM3VkVHI2cDdvanhwYXdTWWd2c1R6T3ZzbG9nVzhGRnpjaVBPSWFvVktrWDRCWmlER1lVbDY3MkFPWGR4U1ZNTGEyclJyV2dGbDNzTWsyclJKaGU1THhrd0k3cllCZDB0cGV1ZERJVlNkbC1FekRhMEhlTHBTdnRFWFBUb05jeVFFMGxYbGRORE1VMS1IVURxMnozeU8tWjFzMzdlSFZ3YUxncTJaLU5scDBjd2hBaWNzVjBr?oc=5"
-      },
-      "queued_at": "2026-09-29T07:16:47.908396+00:00",
-      "score": 7.0,
-      "why": "Government and regulatory notice involving a major tech platform and ministry."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19701,18 +19713,18 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1790611079525,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790663571338,
-    "news: consumer internet india": 1790656777222,
+    "news: big tech platforms": 1790666487463,
+    "news: consumer internet india": 1790665553382,
     "news: global ai": 1790665125561,
-    "news: global chips": 1790665689745,
+    "news: global chips": 1790666838580,
     "news: global it services": 1790629260317,
     "news: india ai deeptech": 1790664544482,
     "news: india edtech gaming": 1790649316771,
     "news: india fintech": 1790663408872,
     "news: india semiconductors": 1790658061200,
-    "news: india tech policy": 1790664964810,
-    "news: india telecom": 1790663215892,
-    "news: indian it majors": 1790664254560,
+    "news: india tech policy": 1790666767038,
+    "news: india telecom": 1790665688069,
+    "news: indian it majors": 1790666780748,
     "news: indian it midcaps": 1790656896224,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790661567802,
@@ -19752,7 +19764,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-29T07:16:48.316128+00:00",
+    "last_server_run": "2026-09-29T07:32:24.686028+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-29T06:47:46.545381+00:00",
@@ -20176,6 +20188,8 @@
       "CG-DL-E-29092026-276576",
       "CG-DL-E-29092026-276577",
       "CG-DL-E-29092026-276578",
+      "CG-DL-E-29092026-276580",
+      "CG-DL-E-29092026-276581",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
@@ -20457,7 +20471,8 @@
       "gazette:CG-DL-E-28092026-276570|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-29092026-276577|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-29092026-276577|GAZETTE_DESKS:law",
-      "meeting:RS|2248"
+      "meeting:RS|2248",
+      "gazette:CG-DL-E-29092026-276581|GAZETTE_MAIL_TO"
     ]
   }
 }
