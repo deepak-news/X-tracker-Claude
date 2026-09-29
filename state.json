@@ -2,45 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-22T10:33:00.699510+00:00",
-      "handle": "News: Global IT services",
-      "headline": "NSE IPO allotment and listing details announced",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOalJtQWJIWUM5S0phRDYzMFRVdFpoRGRmdlZWUXBYMjJfVHlIMDMxeDBEUmY4cXRkZGNqTUg1aUkzc08tMUNfSHl6MFg2Qmp1YnM4bkJsaUUwcEI0SENoOUtEWEY4aGtTaWYzR3o1TUlxYkNEeEJoNmxGNjRkVGp3a01SS0Fxa2M3N3Q0RHpvd2xFcVNqeVdpMGN1REV1dlp5elZwX0JaNENTckJPYXpnZXFTZHROWG9KQUx5X0RHOHRrS2I1ODl0VVRFblNrMDBFWGw4QkYyVU91ZE95ZExhRVpJeEdvbFJSRXhQalRTOG9uRTdKTVF1bWJTTm1pQkFoa05KUWV6bw?oc=5",
-      "words": [
-        "allotment",
-        "bse",
-        "check",
-        "date",
-        "exchange",
-        "here",
-        "intime",
-        "ipo",
-        "listing",
-        "mufg",
-        "national",
-        "nse",
-        "online",
-        "status"
-      ]
-    },
-    {
-      "at": "2026-09-22T10:33:00.699510+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio Studios appoints Anu Sikka as Head of Animation",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR1lTblZWWTZHWktKV1lUcTJMU2haVnFnTFlnZnMxQmYxY3Y0ZXhQYTdZZ1l6aE9WVXoyMXJwNk5CSUhzaDJrQW9Mcy05XzlvckxZR0NvZENqZlBYSmdzTWZrclY5OWN4N2xSOThYRHd2emNyNHdZUi1MeUJhMV9kaE9xSTg2dG4zR0pHd1FKemNkb2kzdDJtN0dHMHprY2s?oc=5",
-      "words": [
-        "animation",
-        "anu",
-        "appoints",
-        "head",
-        "jio",
-        "sikka",
-        "studios"
-      ]
-    },
-    {
-      "at": "2026-09-22T10:33:00.699510+00:00",
       "handle": "News: Tech leaders",
       "headline": "Suvendu Adhikari meets Mukesh Ambani to push Reliance investment in Bengal",
       "tier": 0,
@@ -7625,32 +7586,50 @@
         "thieves",
         "trailers"
       ]
+    },
+    {
+      "at": "2026-09-29T10:16:55.150540+00:00",
+      "handle": "PIB MeitY",
+      "headline": "MeitY and Intel launch Agentic AI skilling programs for workforce",
+      "tier": 1,
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306216",
+      "words": [
+        "agentic",
+        "dialogue",
+        "era",
+        "intel",
+        "launched",
+        "leadership",
+        "national",
+        "nielit",
+        "organized",
+        "preparing",
+        "programs",
+        "skilling",
+        "workforce"
+      ]
+    },
+    {
+      "at": "2026-09-29T10:16:55.150540+00:00",
+      "handle": "PIB MeitY",
+      "headline": "BHASHINI and Kathmandu University explore Language AI collaboration",
+      "tier": 1,
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2305906",
+      "words": [
+        "bhashini",
+        "collaboration",
+        "digital",
+        "division",
+        "explore",
+        "kathmandu",
+        "language",
+        "university"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790066678671",
-    "2306435",
-    "2306939",
-    "2306981",
-    "2307088",
-    "2307127",
-    "2307169",
-    "2307289",
-    "2307380",
-    "2307420",
-    "2307502",
-    "2307629",
-    "2307681",
-    "2307871",
-    "2307889",
-    "2307962",
-    "2308145",
-    "2308285",
-    "2308334",
-    "2308398",
-    "2308606",
     "2308618",
     "2308726",
     "2308732",
@@ -13629,10 +13608,31 @@
     "1790673960662",
     "1790674455111",
     "1790675100096",
-    "1790675318855"
+    "1790675318855",
+    "1790667923948",
+    "1790670625776",
+    "1790673450940",
+    "1790675571347",
+    "1790675820857",
+    "1790676180815",
+    "1790676586710",
+    "2305475",
+    "2305508",
+    "2305689",
+    "2305906",
+    "2305915",
+    "2305917",
+    "2305938",
+    "2305981",
+    "2306102",
+    "2306171",
+    "2306216",
+    "2306390",
+    "2306405",
+    "2316460"
   ],
   "last_digest_hour": "2026-09-29T15",
-  "last_success": "2026-09-29T10:02:44.729698+00:00",
+  "last_success": "2026-09-29T10:16:55.198420+00:00",
   "national": {
     "alerted": [
       {
@@ -16765,9 +16765,15 @@
       "CG-DL-E-29092026-276578",
       "CG-DL-E-29092026-276580",
       "CG-DL-E-29092026-276581",
-      "CG-DL-E-29092026-276579"
+      "CG-DL-E-29092026-276579",
+      "CG-DL-E-29092026-276583",
+      "CG-DL-E-29092026-276584",
+      "CG-DL-E-29092026-276585",
+      "CG-DL-E-29092026-276586",
+      "CG-DL-E-29092026-276587",
+      "CG-DL-E-29092026-276588"
     ],
-    "last_run": "2026-09-29T10:03:59.447697+00:00",
+    "last_run": "2026-09-29T10:20:07.955280+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18658,7 +18664,13 @@
       "pib:2316459",
       "pib:2316460",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63687",
-      "pib:2316474"
+      "pib:2316474",
+      "gazette:CG-DL-E-29092026-276588",
+      "gazette:CG-DL-E-29092026-276584",
+      "gazette:CG-DL-E-29092026-276587",
+      "gazette:CG-DL-E-29092026-276586",
+      "gazette:CG-DL-E-29092026-276583",
+      "gazette:CG-DL-E-29092026-276585"
     ],
     "source_failures": {
       "CBI": {
@@ -18734,6 +18746,24 @@
       "queued_at": "2026-09-29T09:46:40.157636+00:00",
       "score": 7.0,
       "why": "Regulatory and government policy update affecting consumer Aadhaar verification in India."
+    },
+    {
+      "headline": "Anthropic IPO filing reveals $518 billion in non-cancellable commitments",
+      "post": {
+        "created_at": "2026-09-29T10:09:46+00:00",
+        "handle": "News: Global AI",
+        "id": "1790676586710",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Reuters",
+        "reposts": 0,
+        "text": "Anthropic's $518 billion AI buildout hinges largely on deals that cannot be canceled, filing shows",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazVCbjhpLXhaZU5LbGk2TENxV0NHbXdFSS03bVpudXJnOE84Y2ItOGxEdHRHRHYwNG80SlRsZEVLNDN4eDJNaDJJRmlxbWpyNDU4Uk9scjNCQXVzelhERzZzZUZOS1c0M3JEMFpMWjFuRGU2cHhqQk1ZSDlIMFRwZmtCYXJZajFpcEM4cFRIUF9tUWljSVRzRFN4akQyLWdaNVltTDY3anJJUkRHbWctVkNRbzNQV3FBejF4UldtcXA2QQ?oc=5"
+      },
+      "queued_at": "2026-09-29T10:16:55.152471+00:00",
+      "score": 8.0,
+      "why": "The Anthropic IPO prospectus details massive financial exposure, making it a key disclosure by a major AI firm."
     }
   ],
   "page_links": {
@@ -19758,14 +19788,14 @@
     "microsoft india": 1790671363365,
     "mistral ai": 1790611079525,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790674201269,
+    "news: big tech platforms": 1790675820857,
     "news: consumer internet india": 1790668039352,
-    "news: global ai": 1790675100096,
+    "news: global ai": 1790676586710,
     "news: global chips": 1790675318855,
     "news: global it services": 1790629260317,
     "news: india ai deeptech": 1790664544482,
     "news: india edtech gaming": 1790649316771,
-    "news: india fintech": 1790671595999,
+    "news: india fintech": 1790675571347,
     "news: india semiconductors": 1790658061200,
     "news: india tech policy": 1790674254352,
     "news: india telecom": 1790673616164,
@@ -19778,7 +19808,7 @@
     "openai": 1790643600577,
     "oracle": 1790182896113,
     "phonepe": 1790243188249,
-    "pib communications": 2316101,
+    "pib communications": 2316460,
     "pib meity": 2313324,
     "pib science and technology": 2316004,
     "razorpay": 1790337528987,
@@ -19809,7 +19839,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-29T10:02:44.983834+00:00",
+    "last_server_run": "2026-09-29T10:16:55.477091+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-29T09:03:17.094606+00:00",
@@ -20236,6 +20266,12 @@
       "CG-DL-E-29092026-276579",
       "CG-DL-E-29092026-276580",
       "CG-DL-E-29092026-276581",
+      "CG-DL-E-29092026-276583",
+      "CG-DL-E-29092026-276584",
+      "CG-DL-E-29092026-276585",
+      "CG-DL-E-29092026-276586",
+      "CG-DL-E-29092026-276587",
+      "CG-DL-E-29092026-276588",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
