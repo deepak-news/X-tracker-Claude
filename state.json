@@ -1,87 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-22T08:48:04.599343+00:00",
-      "handle": "PIB Communications",
-      "headline": "Financial Fraud Risk Indicator prevents cyber fraud transactions over Rs 5,000 crore",
-      "tier": 1,
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307871",
-      "words": [
-        "000",
-        "before",
-        "citizens",
-        "cyber",
-        "financial",
-        "fraud",
-        "fri",
-        "indicator",
-        "lost",
-        "money",
-        "prevents",
-        "risk",
-        "saved",
-        "suspected"
-      ]
-    },
-    {
-      "at": "2026-09-22T09:03:40.624160+00:00",
-      "handle": "PIB Communications",
-      "headline": "TRAI strengthens tech framework to curb unsolicited commercial communications",
-      "tier": 1,
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311989",
-      "words": [
-        "commercial",
-        "communications",
-        "consumer",
-        "curbing",
-        "driven",
-        "enforcement",
-        "enhanced",
-        "framework",
-        "protection",
-        "strengthens",
-        "technology",
-        "through",
-        "trai",
-        "unsolicited"
-      ]
-    },
-    {
-      "at": "2026-09-22T09:35:39.415653+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Applied Materials plans $5 billion India semiconductor investment",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdjZZM3B5ZHpyTVJlT3VjODZxVG13MUdTWlNVc2pCek5HVURNR2VpcUN0LVVaMVQ4OEtWSjlIRzFmTHNua0dWT0NwM3k2czhfdUdoU0kzMi16SXNwS2l1ME1VQzExaHZMbWhKY2ZqY3RUbVVyOThmZGxsZllfVU9xVkVwMXcweG1xY2lPVWZGdzgwUjFoNUFxcHZvUkwyOENZcDQzWUZtN1hBQmpCMGdHVGNoN1R5XzdoNHpyUF81cE5zN1lPcnBaaF94RkdZOEdfWXZGY1k0YUdsZlU?oc=5",
-      "words": [
-        "applied",
-        "billion",
-        "decade",
-        "investment",
-        "long",
-        "materials",
-        "plans",
-        "sector",
-        "semiconductor"
-      ]
-    },
-    {
-      "at": "2026-09-22T09:35:39.415653+00:00",
-      "handle": "News: India fintech",
-      "headline": "NPCI clarifies 96 percent of merchant transactions unaffected by GST on UPI MDR",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNFU2MHM2X3dMRzZhQjgxWnFGV0YtU1djV3Z0LWhwQTNBd2xwYlhVUjc3aGE1eUxzRU1fbzVOUGl3WFJ0eHQyaW1jclpyQVQ1Mm5MT3gwbzRram9sd3V1NVlXOXJXLVkxbTMxV2RRVUtVTXRwYVpIMDJhem1HNUpBRWNsTm9RMjRvWjlZbWh6bmxSR243LVBNWHRzd0tycEpLMTU4VDhNWEkxWjBhck9heVltLUNuNXlscG1jT1Zhc3FmMEpRV2htTUQyNNIB0AFBVV95cUxNT1c4d3Q5eTFuWDVtOVpXSEF2b3NkSVZ1bmkxVzV2QkR5c2cyWEFkT0Y2bGo1UUdvR3VKd2ItbjBzOXZWeEVobFRxdkNvZkdFOVhRNUZKMlByNklzdmNNWEVLY28yTFpQdnlHSUF0dzNmV1lhWjdRLVdtaTE0aE5CU2NNcktzRGpBYlpoUVRqaWduVzVITGtVZHp4dExUN01aRllHRmxBQmNhU0pzYUZjQy1RLW96TW5HQ09mM0pVSTZDMVpzRmMtX3lpYXNnS3JT?oc=5",
-      "words": [
-        "affected",
-        "gst",
-        "mdr",
-        "merchant",
-        "npci",
-        "transactions",
-        "upi",
-        "won"
-      ]
-    },
-    {
       "at": "2026-09-22T09:35:39.415653+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Wipro faces agitation from 400 trainees over fresher programme",
@@ -7621,27 +7540,82 @@
         "world",
         "zuckerberg"
       ]
+    },
+    {
+      "at": "2026-09-29T04:32:06.307568+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "HCLTech arm to acquire Croatia-based Robotiq.ai for 9 million euro",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWtYVXROb01pYnhIa3V0OHRQb21sdzI5TDlVTlROZjNBME0zc0RvYWVmMkxsNWs1TE1EcS1TT2dzQkIwSUxBNXNheUZmUld4X1hHRW5vdWJXUXJsZXJGUE1oSGtDVjRrZXJmTEZhb0pVZmp3V2lEckh5WE1ONk5lUndHcktGVDJCOFRFVl9SZ3RtTnNuc0lZRzhFQlVka3NveFJZZkNUNFB6d1huLVd6R2U3VF9HWkFLdUhUOVBOeXpfQWo2ODdQVHprdmllN1N3UFBFR25UdWPSAdgBQVVfeXFMUDFrWFV0Tm9NaWJ4SGt1dDh0UG9tbHcyOUw5VU5UTmYzQTBNM3NEb2FlZjJMbDVrNUxNRHEtU09nc0JCMElMQTVzYXlGZlJXeF9YR0Vub3ViV1FybGVyRlBNaEhrQ1Y0a2VyZkxGYW9KVWZqd1dpRHJIeVhNTjZOZVJ3R3JLRlQyQjhURVZfUmd0bU5zbnNJWUc4RUJVZGtzb3hSWWZDVDRQendYbi1XekdlN1RfR1pBS3VIVDlQTnl6X0FqNjg3UFR6a3ZpZTdTd1BQRUduVHVj?oc=5",
+      "words": [
+        "acquire",
+        "arm",
+        "based",
+        "croatia",
+        "euro",
+        "hcltech",
+        "million",
+        "robotiq"
+      ]
+    },
+    {
+      "at": "2026-09-29T04:32:06.307568+00:00",
+      "handle": "News: Global chips",
+      "headline": "Nvidia touts software tool to contain runaway AI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUmlMX1k4MkNjQUo5YzhUTjhBYS1tbkxSNnRpcXR6TnprTzVWUmRSZWlZOFlvMUVlZll0TURxR1V1UDlCUElzV3pfZDVfQlo5bEFaTENvREV6ZTVuSjZUd3djVUgyVzQwSG1Ud21CbHVqMDFuWkpGSDRwRHV3RXlSNlByMTQxaDRYNDRscWZFVFJNRDlSSFVmdGxtei1wcDYyTjhlcUFJb0FmTDBGUWxrcDNBRWkyQVpTRExVaGJMSFYzRDREOUdBazRLV0w0QlowUGtpTlRLONIB3gFBVV95cUxOTjk2dEFsVkktcWJEcm15ZzhKMmJJWVF6anFxVmhQSjFpcmIwT2JqSEI1MGd4UGUwTW9zYldUTTBGclFwTFhFMWtkYlEwMXFkME12Yl82azF1Q0pjOEJYeWNqNWNQYU5NSkJLeUJaZmQ0NzBkSXQ0bHpjU1FNd3BUTlBoamFYZksxcTNfNWZXVmgtQ1R4ZFZsdV9Nc3NVeENEMUFQY0tjMmhwYkJFRnpPUGJibjJlZGlFbUxoMWJMQnhkdFI5ejU0YkE1b2RLbW5kaXNfRkRPVVEtNmcxd2c?oc=5",
+      "words": [
+        "contain",
+        "nvidia",
+        "runaway",
+        "software",
+        "tool",
+        "touting",
+        "work",
+        "would"
+      ]
+    },
+    {
+      "at": "2026-09-29T04:32:06.307568+00:00",
+      "handle": "News: India fintech",
+      "headline": "Groww begins phased rollout of US stock investing",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHBCaENfSkpRSEFUXzFfbWNySlFPbUJXUFJFMEJMYnhlT0c4X19SNmJkRXh4ZldETGF5cEoxdjI2UXI1Wm53S1Jjc2dhVFZWZ3hnanpmTExsdnNPclY1eTFHbXlDcmJ2dU9aWjNFMW1GbFdSM1dNeWxuX3loa3pRbXJHNU9XSzJXVHk5OE9lTV8xRkpTaFdDM3BieXBGdV9NMmdibFlOV2pwemlaYVJEN3NpUGllWGRVeHBKNXdpeEFGN3Vmc0s5TFZjcW50SE14djVaY1NfVjM1NnoxM0lsaXRPMGZNUXczWi0tcm95b9IB9AFBVV95cUxPNzNBMU5ZOFNocmczZk5lM1VWNTFPUkxTQ3JkeTdWOW9yc3o1dTJ2RGtBWkp0MGdydlBPOG0xWG1Dd1c2MTFyczlsblJZLTNCZS1JbUhPamo1ZGZRM1ZSRjd5OW5LU2Z2VWVVRGNRV1hEMVNRZ3BNQ09xOU5oMjI2UDZ2T25tREdQR3Y0Q09XSFhoanFsYXVWOTFNT18zNWhkQ21Gd1VZenhfMUcwV25BNHdsNi1vQnlPd0NfSUFFbjNJRXJ3ZlFZTU1TRnRtYWJTcmlCcmFvczNIbWxnZVp2Z0RHbzM0REp0dGYxQ2VuMjRsTTJu?oc=5",
+      "words": [
+        "begins",
+        "cash",
+        "chip",
+        "groww",
+        "investing",
+        "phased",
+        "rollout",
+        "wave"
+      ]
+    },
+    {
+      "at": "2026-09-29T04:32:06.307568+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Chirantan Desai takes charge of Meta's new enterprise AI platform",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPeXl3NF9NdXV5YlVsU1dUWmlVMHp4R0hWR19WaWVyaU5pbG1Zb1ROc0E0OS1UTmcxNXJMN3JhR0x1V0tqRkVtRXpFY2pyM29HbUpsS0h1N3hHa1FDM0J3bDlITlFzQ3pRczlycTFoemdDYmdaa2xyRHQyRW4tQ1pibEctNkZLSHk5VWRuVnU3bnB6ajFMQWRTRlRMcFBrbVJFbWlLNE5saS1FYU9MQlpBWDc3QnhoNml1MDRJYzhGd3NaM0ZCMjhYcDBxNmhydWhwT1kzaHRVMlBmclg1SlRqeGU2ZVVDNzVqaWFoRlYxOUZWM0JQYk1UWTJhaUtKakU0TjA1MHk3d2hVdnoxU01HWVBvQdIBmAJBVV95cUxOSWUzemo2SmRwU3hkR00teG9VNU9aek1HaVFfNm9OWmZ6d3puTzJCdkJ6MTNmcFpTM0FCNE9ocEdfY1JHblJKTHQ1RHliSC1maklITjVFSDBjZ1F2ejdFc1ZabU5JZ3lCU0xoMG5XWHFVcjQwemZ3TWUzMWJEdnBhbWVpRW9nWFhpNmREcVNPeHR4QmdCNE92TEdTN0V1Q0w3U21DRmRuRll2d19QTUJ1dlJTejBqTmFnNlRGZThGellrVE1DenA5d190d1AteEdqWmZ2THFXSi1NSFNKelVwekVBdVBpblNVWG5uWlFGSW54cy1FRnY3VG5JOHFxRlZnUFZjWTZPRENmZ09aM0Mta0VJa1pLdnhU?oc=5",
+      "words": [
+        "born",
+        "charge",
+        "chirantan",
+        "desai",
+        "enterprise",
+        "executive",
+        "meet",
+        "meta",
+        "platfo",
+        "taking",
+        "tech"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790058196171",
-    "1790058314445",
-    "1790058440163",
-    "1790058838772",
-    "1790058840055",
-    "1790058987722",
-    "1790059197560",
-    "1790059200985",
-    "1790059380349",
-    "1790059382724",
-    "2313324",
-    "1789980877863",
-    "1789990380215",
-    "1789998367421",
-    "1790002860049",
-    "1790002974979",
     "1790032220207",
     "1790054142988",
     "1790054858382",
@@ -13625,10 +13599,26 @@
     "1790653806566",
     "1790654198994",
     "1790654480938",
-    "1790654712598"
+    "1790654712598",
+    "1790598180321",
+    "1790625653067",
+    "1790649060820",
+    "1790649478383",
+    "1790651956145",
+    "1790654671598",
+    "1790654880761",
+    "1790655110284",
+    "1790655115283",
+    "1790655180235",
+    "1790655266418",
+    "1790655331448",
+    "1790655420185",
+    "1790655430927",
+    "1790655691939",
+    "1790655876717"
   ],
-  "last_digest_hour": "2026-09-29T09",
-  "last_success": "2026-09-29T04:16:56.498562+00:00",
+  "last_digest_hour": "2026-09-29T10",
+  "last_success": "2026-09-29T04:32:06.353684+00:00",
   "national": {
     "alerted": [
       {
@@ -16666,7 +16656,7 @@
       "CG-DL-E-28092026-276573",
       "CG-DL-E-28092026-276570"
     ],
-    "last_run": "2026-09-29T04:21:05.998146+00:00",
+    "last_run": "2026-09-29T04:33:55.454313+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18529,7 +18519,8 @@
       "gazette:CG-DL-E-28092026-276564",
       "gazette:CG-DL-E-28092026-276570",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63683",
-      "pib:2316334"
+      "pib:2316334",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-six-qualities-that-invite-success"
     ],
     "source_failures": {
       "CBI": {
@@ -18569,62 +18560,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Nvidia touts software tool to contain runaway AI",
-      "post": {
-        "created_at": "2026-09-29T03:48:37+00:00",
-        "handle": "News: Global chips",
-        "id": "1790653717640",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "Nvidia is touting a software tool to contain runaway AI. How would it work?",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUmlMX1k4MkNjQUo5YzhUTjhBYS1tbkxSNnRpcXR6TnprTzVWUmRSZWlZOFlvMUVlZll0TURxR1V1UDlCUElzV3pfZDVfQlo5bEFaTENvREV6ZTVuSjZUd3djVUgyVzQwSG1Ud21CbHVqMDFuWkpGSDRwRHV3RXlSNlByMTQxaDRYNDRscWZFVFJNRDlSSFVmdGxtei1wcDYyTjhlcUFJb0FmTDBGUWxrcDNBRWkyQVpTRExVaGJMSFYzRDREOUdBazRLV0w0QlowUGtpTlRLONIB3gFBVV95cUxOTjk2dEFsVkktcWJEcm15ZzhKMmJJWVF6anFxVmhQSjFpcmIwT2JqSEI1MGd4UGUwTW9zYldUTTBGclFwTFhFMWtkYlEwMXFkME12Yl82azF1Q0pjOEJYeWNqNWNQYU5NSkJLeUJaZmQ0NzBkSXQ0bHpjU1FNd3BUTlBoamFYZksxcTNfNWZXVmgtQ1R4ZFZsdV9Nc3NVeENEMUFQY0tjMmhwYkJFRnpPUGJibjJlZGlFbUxoMWJMQnhkdFI5ejU0YkE1b2RLbW5kaXNfRkRPVVEtNmcxd2c?oc=5"
-      },
-      "queued_at": "2026-09-29T04:02:16.666504+00:00",
-      "score": 7.0,
-      "why": "Major AI company security disclosure and product release."
-    },
-    {
-      "headline": "Groww begins phased rollout of US stock investing",
-      "post": {
-        "created_at": "2026-09-29T03:51:33+00:00",
-        "handle": "News: India fintech",
-        "id": "1790653893884",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Groww begins phased rollout of US stock investing to cash in on AI, chip wave",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHBCaENfSkpRSEFUXzFfbWNySlFPbUJXUFJFMEJMYnhlT0c4X19SNmJkRXh4ZldETGF5cEoxdjI2UXI1Wm53S1Jjc2dhVFZWZ3hnanpmTExsdnNPclY1eTFHbXlDcmJ2dU9aWjNFMW1GbFdSM1dNeWxuX3loa3pRbXJHNU9XSzJXVHk5OE9lTV8xRkpTaFdDM3BieXBGdV9NMmdibFlOV2pwemlaYVJEN3NpUGllWGRVeHBKNXdpeEFGN3Vmc0s5TFZjcW50SE14djVaY1NfVjM1NnoxM0lsaXRPMGZNUXczWi0tcm95b9IB9AFBVV95cUxPNzNBMU5ZOFNocmczZk5lM1VWNTFPUkxTQ3JkeTdWOW9yc3o1dTJ2RGtBWkp0MGdydlBPOG0xWG1Dd1c2MTFyczlsblJZLTNCZS1JbUhPamo1ZGZRM1ZSRjd5OW5LU2Z2VWVVRGNRV1hEMVNRZ3BNQ09xOU5oMjI2UDZ2T25tREdQR3Y0Q09XSFhoanFsYXVWOTFNT18zNWhkQ21Gd1VZenhfMUcwV25BNHdsNi1vQnlPd0NfSUFFbjNJRXJ3ZlFZTU1TRnRtYWJTcmlCcmFvczNIbWxnZVp2Z0RHbzM0REp0dGYxQ2VuMjRsTTJu?oc=5"
-      },
-      "queued_at": "2026-09-29T04:02:16.666504+00:00",
-      "score": 7.0,
-      "why": "Major fintech platform product rollout involving cross-border investing."
-    },
-    {
-      "headline": "HCLTech arm to acquire Croatia-based Robotiq.ai for 9 million euro",
-      "post": {
-        "created_at": "2026-09-29T02:37:58+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1790649478685",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "HCLTech's arm to acquire Croatia-based Robotiq.ai for 9 million euro",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWtYVXROb01pYnhIa3V0OHRQb21sdzI5TDlVTlROZjNBME0zc0RvYWVmMkxsNWs1TE1EcS1TT2dzQkIwSUxBNXNheUZmUld4X1hHRW5vdWJXUXJsZXJGUE1oSGtDVjRrZXJmTEZhb0pVZmp3V2lEckh5WE1ONk5lUndHcktGVDJCOFRFVl9SZ3RtTnNuc0lZRzhFQlVka3NveFJZZkNUNFB6d1huLVd6R2U3VF9HWkFLdUhUOVBOeXpfQWo2ODdQVHprdmllN1N3UFBFR25UdWPSAdgBQVVfeXFMUDFrWFV0Tm9NaWJ4SGt1dDh0UG9tbHcyOUw5VU5UTmYzQTBNM3NEb2FlZjJMbDVrNUxNRHEtU09nc0JCMElMQTVzYXlGZlJXeF9YR0Vub3ViV1FybGVyRlBNaEhrQ1Y0a2VyZkxGYW9KVWZqd1dpRHJIeVhNTjZOZVJ3R3JLRlQyQjhURVZfUmd0bU5zbnNJWUc4RUJVZGtzb3hSWWZDVDRQendYbi1XekdlN1RfR1pBS3VIVDlQTnl6X0FqNjg3UFR6a3ZpZTdTd1BQRUduVHVj?oc=5"
-      },
-      "queued_at": "2026-09-29T04:16:56.452310+00:00",
-      "score": 8.0,
-      "why": "This is a confirmed cross-border acquisition by an Indian IT major with a disclosed deal value."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -19646,18 +19582,18 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1790611079525,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790653839179,
-    "news: consumer internet india": 1790651055926,
-    "news: global ai": 1790654480938,
+    "news: big tech platforms": 1790655420185,
+    "news: consumer internet india": 1790655180235,
+    "news: global ai": 1790655430927,
     "news: global chips": 1790654712598,
     "news: global it services": 1790629260317,
     "news: india ai deeptech": 1790649450758,
     "news: india edtech gaming": 1790591410895,
     "news: india fintech": 1790654198994,
     "news: india semiconductors": 1790599529769,
-    "news: india tech policy": 1790648280772,
-    "news: india telecom": 1790648646399,
-    "news: indian it majors": 1790653819331,
+    "news: india tech policy": 1790655876717,
+    "news: india telecom": 1790655110284,
+    "news: indian it majors": 1790655691939,
     "news: indian it midcaps": 1790650320269,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790653715827,
@@ -19697,7 +19633,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-29T04:16:56.749108+00:00",
+    "last_server_run": "2026-09-29T04:32:06.624314+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-29T02:47:28.463429+00:00",
