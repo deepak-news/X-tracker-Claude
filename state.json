@@ -7616,26 +7616,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790060532360",
-    "1790080137802",
-    "1789981132281",
-    "1789987323802",
-    "1789994370618",
-    "1790001216853",
-    "1790005016537",
-    "1790035437466",
-    "1790039413989",
-    "1790044380905",
-    "1790044690110",
-    "1790050465434",
-    "1790053385313",
-    "1790055261021",
-    "1790059020092",
-    "1790059020969",
-    "1790059200674",
-    "1790059415007",
-    "1790059785661",
-    "1790059881636",
     "1790060289956",
     "1790060406933",
     "1790060662445",
@@ -13615,10 +13595,30 @@
     "1790656703025",
     "1790656920048",
     "1790657407646",
-    "1790657623407"
+    "1790657623407",
+    "1790601158994",
+    "1790601711743",
+    "1790601726385",
+    "1790604210815",
+    "1790606407475",
+    "1790611536595",
+    "1790612120794",
+    "1790613212495",
+    "1790615355504",
+    "1790655468796",
+    "1790656110026",
+    "1790656218511",
+    "1790656593087",
+    "1790656860444",
+    "1790656920090",
+    "1790658000384",
+    "1790658437472",
+    "1790658456819",
+    "1790658456892",
+    "1790658787837"
   ],
   "last_digest_hour": "2026-09-29T10",
-  "last_success": "2026-09-29T05:02:09.944522+00:00",
+  "last_success": "2026-09-29T05:16:51.988293+00:00",
   "national": {
     "alerted": [
       {
@@ -16263,6 +16263,52 @@
           "states",
           "various"
         ]
+      },
+      {
+        "at": "2026-09-29T05:19:50.015644+00:00",
+        "handle": "Gazette Election Commission of India",
+        "headline": "Election Commission announces Rajya Sabha bye-election for West Bengal seat.",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/276578.pdf",
+        "words": [
+          "bengal",
+          "bye",
+          "commission",
+          "council",
+          "election",
+          "extraordinary",
+          "gazette",
+          "notification",
+          "part",
+          "programme",
+          "sect",
+          "section",
+          "states",
+          "sub"
+        ]
+      },
+      {
+        "at": "2026-09-29T05:19:50.015644+00:00",
+        "handle": "Gazette Ministry of Law and Justice",
+        "headline": "President calls for biennial Rajya Sabha elections in Uttar Pradesh and Uttarakhand.",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/276577.pdf",
+        "words": [
+          "2026",
+          "biennial",
+          "council",
+          "elections",
+          "extraordinary",
+          "gazette",
+          "justice",
+          "law",
+          "legislat",
+          "ministry",
+          "pradesh",
+          "state",
+          "states",
+          "uttar"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -16679,9 +16725,11 @@
       "CG-DL-E-28092026-276570",
       "CG-DL-E-29092026-276574",
       "CG-DL-E-29092026-276575",
-      "CG-DL-E-29092026-276576"
+      "CG-DL-E-29092026-276576",
+      "CG-DL-E-29092026-276577",
+      "CG-DL-E-29092026-276578"
     ],
-    "last_run": "2026-09-29T05:08:30.005350+00:00",
+    "last_run": "2026-09-29T05:19:50.036593+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18550,7 +18598,9 @@
       "gazette:CG-DL-E-29092026-276576",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63684",
       "page:https://internal.imd.gov.in/press_release/20260929_pr_5351.pdf",
-      "gazette:CG-DL-E-29092026-276575"
+      "gazette:CG-DL-E-29092026-276575",
+      "gazette:CG-DL-E-29092026-276577",
+      "gazette:CG-DL-E-29092026-276578"
     ],
     "source_failures": {
       "CBI": {
@@ -18608,6 +18658,60 @@
       "queued_at": "2026-09-29T04:46:41.311295+00:00",
       "score": 7.0,
       "why": "Major AI company IPO disclosure and listing update, scoreable under major AI disclosures."
+    },
+    {
+      "headline": "Anthropic IPO prospectus reveals $42 billion loss and massive infrastructure commitments",
+      "post": {
+        "created_at": "2026-09-29T04:17:48+00:00",
+        "handle": "News: Global AI",
+        "id": "1790655468796",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Fortune India",
+        "reposts": 0,
+        "text": "Anthropic IPO Prospectus: Revenue jumps 1,050%, but posts $42 billion loss, $518 billion infrastructure commitments and AI risks",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSkEyN0tCZGhta2lxal9ITWFNNDJMdjN3SE95YWxNR1JMaDFnVXZ3bG1NX1RoTDMtYUdSdDdxYWJRd2pua1diMkFQbEFDdUFQYm0yeWRJQ0VDME1QbWdWam1COFM2X2ZJNzVXQnVqSHdiLWM2dWxZdnNOZGxiVUNERGxaVmJzRERwZHFxblRNXzZ0dVctLUUweExHV2Fxdkd3eDNkS3M5MkxOMmZ0WU5KWlJyWkxfdnJfV3hxQzZrQ0ZkcHhodlhGU3ZHaFo0MFl6U0RiV1dSN190WDlOMTJfN1dVbmFHLVBkM051bkUzZW83RUswQldfSW9zSEbSAYoCQVVfeXFMT1ZkWkRaN3lhQTNEay1vcTlNZGpnbGxKZkxGemo2ZUlleWtXTVFOOWJyWlROdnhmN2VVaVBTUzdsVFZIeVlYcmE1VERFQmlBSjVvNzNQX2ZXRDFuMjJGWVFUNGU2YVJFaEZsTWRkRDhuY1JDWC1rUGhydFVDYjI4elFvWUxaWHJibmlDenYySm5SVUQwamVqdXR0bDE0R1EzbDVremxBZGVvRFJXT0RleGx1NXN5VkpNTjBoT2pOQ21nSlM2NXd5dm00S05ZalQ1b25kNnVxbUdJSjFhTmpXWTdNMU81YXN2d3BIWjRSb2pKUl9odjF1Q2VPR0RWMEduSGY2WlY1ZHRnVXc?oc=5"
+      },
+      "queued_at": "2026-09-29T05:16:51.928840+00:00",
+      "score": 9.0,
+      "why": "Major AI company IPO filing with hard financial disclosures and massive infrastructure commitments."
+    },
+    {
+      "headline": "AMD acquires Fei-Fei Li's World Labs for $8.2 billion",
+      "post": {
+        "created_at": "2026-09-29T04:30:18+00:00",
+        "handle": "News: Global chips",
+        "id": "1790656218511",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "South China Morning Post",
+        "reposts": 0,
+        "text": "AMD buys Li Fei-Fei\u2019s World Labs for US$8.2b, escalating rivalry with Nvidia",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUxZTkNEVk00UVg4NWdna0x4c2tEYVg1WnZ1QUw5UzZPR29KLVlPb0Q5RE1mMFFXT2JJb2lub2lBbDdCTWxId2czY0t0VEVXYU00SU9sd0xEUjBHQWRlR0czN0FGNzdqQVl1bHdpZDk2UnpQS09Idk9xaFdpcktUYnZwLU5rMnhfU3RIcGVqYXY1dF9fRlBWemV3SlFPMFFVS0J1SEpRUGdzSnRlUFo5RzRraXpTbUVSYXBsUdIBvAFBVV95cUxONjA5ZWZqWWdOLXRwNURJUDEwWklkNjI4THQ3THFVNE93cEpWRXc4MGJCRFg3alBybFBQc1g3bUpNczVxLW1Pb19WZ2RUeXhkelJmMWE2c3pURThmcUt4TmY2c20zWENNUlZyVThjc3JqTi1PUF9KSUExaWY3ZFJhZWlrZ1RHTC1QWEZpU3pPdDVEOUdYVGppenVvbmJxVmhycE9XSUF1Qmh3eEhOWUtfWTJNTkhQdldra2ExaA?oc=5"
+      },
+      "queued_at": "2026-09-29T05:16:51.928840+00:00",
+      "score": 8.0,
+      "why": "Major multi-billion dollar acquisition in the global AI and chip sector."
+    },
+    {
+      "headline": "TCS and IEM Kolkata partner to establish AI Centre of Excellence",
+      "post": {
+        "created_at": "2026-09-29T05:07:36+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1790658456892",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Tribune",
+        "reposts": 0,
+        "text": "TCS, IEM Kolkata Join Hands to set up AI Centre of Excellence",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjlpb3pSUWpKZXJyNFdRRnRLbC12djVKaTg0LTFscmczNG8yUXhsVzJKSlVIZDhFNEtFM1dJOTBydkxla3Ria2hCS1RuOGJKQTVWZlRhRHFfLXJDNHBhUW5TdlRzRVBhWnNGZ1dXVHpxVXd2RG11b1pzeGdNOWNTZndfbnotMDlYMmpZTmNOejRKbDBjVk8xV2xjQVMtZEZpQXdJMHpxZ9IBqwFBVV95cUxQMWktdlNVbm84blRkRjRxcHg4eWM4OGc3TTExT3VnQ1dlb3NMbHpyUUZiellMb2NWRkFpQW1kcGZiMWdrNDNZTjhuMkJQQklRVzhRLU5tNXdkRTNhamxUNzVkZF9rSFBJU0lPM3ZaREplM3NTN0N4ZUF2Z09tREZYTDRNV3Frd1VpaE11MkplbmtUeEhCYTVGTXJoakNZTkRQWEdKOUgxeFY0UXM?oc=5"
+      },
+      "queued_at": "2026-09-29T05:16:51.928840+00:00",
+      "score": 7.0,
+      "why": "New institutional partnership by a major Indian IT firm involving artificial intelligence."
     }
   ],
   "page_links": {
@@ -19621,7 +19725,7 @@
     "google cloud": 1790265600814,
     "google deepmind": 1790266839037,
     "google india": 1790235000631,
-    "hcltech": 1790598445316,
+    "hcltech": 1790615355504,
     "ibm": 1790247600641,
     "intel": 1788847380154,
     "lenovo": 1790601157446,
@@ -19633,8 +19737,8 @@
     "naukri": 1790234460996,
     "news: big tech platforms": 1790657623407,
     "news: consumer internet india": 1790655180235,
-    "news: global ai": 1790656920048,
-    "news: global chips": 1790657407646,
+    "news: global ai": 1790658000384,
+    "news: global chips": 1790658437472,
     "news: global it services": 1790629260317,
     "news: india ai deeptech": 1790649450758,
     "news: india edtech gaming": 1790591410895,
@@ -19642,10 +19746,10 @@
     "news: india semiconductors": 1790599529769,
     "news: india tech policy": 1790655876717,
     "news: india telecom": 1790656593098,
-    "news: indian it majors": 1790656703025,
-    "news: indian it midcaps": 1790650320269,
+    "news: indian it majors": 1790658787837,
+    "news: indian it midcaps": 1790656110026,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790653715827,
+    "news: tech leaders": 1790658437472,
     "nvidia": 1790593200811,
     "nvidia blog": 1790258450056,
     "openai": 1790643600577,
@@ -19682,7 +19786,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-29T05:02:10.290745+00:00",
+    "last_server_run": "2026-09-29T05:16:52.346350+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-29T04:47:36.690385+00:00",
@@ -20104,6 +20208,8 @@
       "CG-DL-E-29092026-276574",
       "CG-DL-E-29092026-276575",
       "CG-DL-E-29092026-276576",
+      "CG-DL-E-29092026-276577",
+      "CG-DL-E-29092026-276578",
       "CG-GJ-E-17092026-276304",
       "CG-KA-E-16092026-276251",
       "CG-MH-E-15092026-276206",
@@ -20382,7 +20488,9 @@
       "gazette:CG-DL-E-28092026-276565|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-28092026-276564|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-28092026-276570|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-28092026-276570|MHA_FINANCE_MAIL_TO"
+      "gazette:CG-DL-E-28092026-276570|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-29092026-276577|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-29092026-276577|GAZETTE_DESKS:law"
     ]
   }
 }
