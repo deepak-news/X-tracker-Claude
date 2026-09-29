@@ -1,24 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-22T09:35:39.415653+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "CoRover.ai and Tech Mahindra partner for India-origin AI solutions",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVW5KR2hhR1owRzhDc1B5UHdIZU5YU1BISWRra1UyZW1iSXpyUk1BajhXc1dOSTBycGhieE5ESWJNcmFqVmI3akNtRnJPYVBlbUJGM2J2anlZMjZxN3ZpdmlYdXc1MnJHYmF0SnZGNU14T0JUY3R2SkZmUm9fSlc1MmhXZEh2TjFLbjduZ3ZlZnNWS0NPeVdfVEp6VHF5MUVEeFlZTDhqQUNBVGhHZEl3Y0ZpQ2ZEdVBrbUFxaVR2LXdMREU?oc=5",
-      "words": [
-        "accelerate",
-        "corover",
-        "global",
-        "mahindra",
-        "markets",
-        "origin",
-        "partner",
-        "solutions",
-        "tech"
-      ]
-    },
-    {
       "at": "2026-09-22T09:52:07.005384+00:00",
       "handle": "News: India tech policy",
       "headline": "IT Ministry urges sustained AI push focused on practical applications",
@@ -7616,25 +7598,34 @@
         "set",
         "tcs"
       ]
+    },
+    {
+      "at": "2026-09-29T06:32:29.337605+00:00",
+      "handle": "Flipkart",
+      "headline": "Flipkart expands logistics capacity and adds 750 new PIN codes",
+      "tier": 1,
+      "url": "https://stories.flipkart.com/announcement/flipkart-adds-14-million-cubic-feet-of-capacity-expands-big-billion-days-reach-over-750-new-pin-codes",
+      "words": [
+        "750",
+        "adds",
+        "article",
+        "big",
+        "billion",
+        "capacity",
+        "codes",
+        "cubic",
+        "days",
+        "expands",
+        "feet",
+        "flipkart",
+        "million",
+        "pin"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1789979569459",
-    "1790000520826",
-    "1790051515701",
-    "1790057238218",
-    "1790057488902",
-    "1790057992286",
-    "1790058506888",
-    "1790059312039",
-    "1790059415421",
-    "1790061300711",
-    "1790061499048",
-    "1790061669121",
-    "1790062026959",
-    "1790062211228",
     "1790062304802",
     "1790062338222",
     "1790062364809",
@@ -13620,10 +13611,24 @@
     "1790661893148",
     "1790661994285",
     "1790662097402",
-    "1790662099891"
+    "1790662099891",
+    "1790638176752",
+    "1790658823344",
+    "1790659800564",
+    "1790661418039",
+    "1790662019257",
+    "1790662304128",
+    "1790662370456",
+    "1790662538899",
+    "1790662635263",
+    "1790662679728",
+    "1790663036360",
+    "1790663215892",
+    "1790663404205",
+    "1790663502453"
   ],
-  "last_digest_hour": "2026-09-29T11",
-  "last_success": "2026-09-29T06:16:59.584903+00:00",
+  "last_digest_hour": "2026-09-29T12",
+  "last_success": "2026-09-29T06:32:29.464241+00:00",
   "national": {
     "alerted": [
       {
@@ -16734,7 +16739,7 @@
       "CG-DL-E-29092026-276577",
       "CG-DL-E-29092026-276578"
     ],
-    "last_run": "2026-09-29T06:18:01.698473+00:00",
+    "last_run": "2026-09-29T06:35:14.938072+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -18617,8 +18622,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "DGFT": {
-        "count": 32,
-        "until": "2026-09-29T06:17:28.742598+00:00"
+        "count": 33,
+        "until": "2026-09-29T12:32:57.454825+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -19356,6 +19361,7 @@
       "https://news.cognizant.com/2026-09-28-Cognizant-Brings-Agentic-AI-and-MCP-tool-library-to-Core-Claims-Operations-with-Workflow-Agentic-Processing-for-TriZetto": "2026-09-28T12:01:59.839756+00:00"
     },
     "Flipkart": {
+      "https://stories.flipkart.com/announcement/flipkart-adds-14-million-cubic-feet-of-capacity-expands-big-billion-days-reach-over-750-new-pin-codes": "2026-09-29T06:31:42.614295+00:00",
       "https://stories.flipkart.com/announcement/flipkart-ads-launches-saarthi-to-help-sellers-grow-with-ai-powered-tools-and-expert-advertising-support": "2026-09-17T07:46:48.422790+00:00",
       "https://stories.flipkart.com/announcement/flipkart-and-bengaluru-traffic-police-bring-ai-innovators-together-to-tackle-the-citys-traffic-challenges": "2026-09-17T07:46:48.422790+00:00",
       "https://stories.flipkart.com/announcement/flipkart-and-netflix-make-world-class-entertainment-an-earned-shopping-benefit-for-millions-of-indians": "2026-09-17T07:46:48.422790+00:00",
@@ -19656,7 +19662,7 @@
     "bse zaggle": 1789743436158,
     "capgemini": 1790593026900,
     "cognizant": 1790596919369,
-    "flipkart": 1790573498706,
+    "flipkart": 1790663502453,
     "google": 1790622000581,
     "google cloud": 1790265600814,
     "google deepmind": 1790266839037,
@@ -19667,22 +19673,22 @@
     "lenovo": 1790601157446,
     "linkedin": 1790168556912,
     "meta": 1790598974414,
-    "microsoft": 1790337830994,
+    "microsoft": 1790663404205,
     "microsoft india": 1790339592994,
     "mistral ai": 1790611079525,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790662097402,
+    "news: big tech platforms": 1790663036360,
     "news: consumer internet india": 1790656777222,
-    "news: global ai": 1790662099891,
+    "news: global ai": 1790662635263,
     "news: global chips": 1790661994285,
     "news: global it services": 1790629260317,
     "news: india ai deeptech": 1790649450758,
     "news: india edtech gaming": 1790649316771,
-    "news: india fintech": 1790654198994,
+    "news: india fintech": 1790659800564,
     "news: india semiconductors": 1790655085115,
-    "news: india tech policy": 1790655876717,
-    "news: india telecom": 1790661893148,
-    "news: indian it majors": 1790660320588,
+    "news: india tech policy": 1790662679728,
+    "news: india telecom": 1790663215892,
+    "news: indian it majors": 1790662304128,
     "news: indian it midcaps": 1790656896224,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790661567714,
@@ -19722,7 +19728,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-29T06:16:59.864007+00:00",
+    "last_server_run": "2026-09-29T06:32:29.807841+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-29T04:47:36.690385+00:00",
