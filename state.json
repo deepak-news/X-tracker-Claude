@@ -7626,15 +7626,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790046926087",
-    "1790052957861",
-    "1790054788942",
-    "1790055173075",
-    "1790056501388",
-    "1790056860834",
-    "1790057728053",
-    "1790057765380",
-    "1790057840008",
     "1790057953769",
     "1790057985954",
     "1790058229840",
@@ -13625,10 +13616,19 @@
     "1790651663790",
     "1790651830761",
     "1790651940520",
-    "1790652342270"
+    "1790652342270",
+    "1790056798801",
+    "1790583430430",
+    "1790593621337",
+    "1790605150325",
+    "1790644143473",
+    "1790647200464",
+    "1790647242523",
+    "1790651956400",
+    "1790652957050"
   ],
   "last_digest_hour": "2026-09-29T09",
-  "last_success": "2026-09-29T03:32:07.790090+00:00",
+  "last_success": "2026-09-29T03:46:49.676443+00:00",
   "national": {
     "alerted": [
       {
@@ -16666,7 +16666,7 @@
       "CG-DL-E-28092026-276573",
       "CG-DL-E-28092026-276570"
     ],
-    "last_run": "2026-09-29T03:34:42.878759+00:00",
+    "last_run": "2026-09-29T03:49:16.636344+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19591,7 +19591,7 @@
     "microsoft india": 1790339592994,
     "mistral ai": 1790611079525,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790649977736,
+    "news: big tech platforms": 1790652957050,
     "news: consumer internet india": 1790651055926,
     "news: global ai": 1790652342270,
     "news: global chips": 1790651481528,
@@ -19602,7 +19602,7 @@
     "news: india semiconductors": 1790599529769,
     "news: india tech policy": 1790648280772,
     "news: india telecom": 1790643619102,
-    "news: indian it majors": 1790651940520,
+    "news: indian it majors": 1790651956400,
     "news: indian it midcaps": 1790649364243,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790639474476,
@@ -19642,7 +19642,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-29T03:32:08.050358+00:00",
+    "last_server_run": "2026-09-29T03:46:49.976578+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-29T02:47:28.463429+00:00",
