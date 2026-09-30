@@ -7637,14 +7637,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790137440479",
-    "1790139320710",
-    "1790140340785",
-    "1790140440207",
-    "1790140560051",
-    "1790140680730",
-    "1790140752674",
-    "1790140788916",
     "1790140867364",
     "1790061087032",
     "1790102723137",
@@ -11962,7 +11954,6 @@
     "1790787879997",
     "1790789339517",
     "1790793831405",
-    "1790794595193",
     "1789560000566",
     "1789981995706",
     "1789986994125",
@@ -11999,7 +11990,6 @@
     "1790772357339",
     "1790773240126",
     "1790778976211",
-    "1790790180904",
     "1790791966861",
     "1790794344583",
     "1790794761825",
@@ -12015,7 +12005,14 @@
     "1790792913759",
     "1790793720444",
     "1790798408509",
-    "1790798916619",
+    "1786702884670",
+    "1790731007676",
+    "1790770320884",
+    "1790777727372",
+    "1790791500978",
+    "1790795656851",
+    "1790799634857",
+    "1790799960388",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -12156,7 +12153,6 @@
     "1786543319053",
     "1786640658654",
     "1786694400268",
-    "1786702884670",
     "1786953600126",
     "1786963663846",
     "1786971000430",
@@ -13240,7 +13236,6 @@
     "1790728200064",
     "1790728200355",
     "1790729229540",
-    "1790731007676",
     "1790733315347",
     "1790734558838",
     "1790734846730",
@@ -13380,7 +13375,6 @@
     "1790769840667",
     "1790770016901",
     "1790770200338",
-    "1790770320884",
     "1790771035155",
     "1790771219648",
     "1790771390958",
@@ -13428,7 +13422,6 @@
     "1790777360381",
     "1790777565249",
     "1790777609545",
-    "1790777727372",
     "1790777954935",
     "1790778366409",
     "1790778814637",
@@ -13473,6 +13466,7 @@
     "1790788678275",
     "1790788680191",
     "1790788797432",
+    "1790788900169",
     "1790788920523",
     "1790788951359",
     "1790789100564",
@@ -13481,12 +13475,12 @@
     "1790789649369",
     "1790789989813",
     "1790790029126",
+    "1790790180904",
     "1790790540137",
     "1790790540948",
     "1790791087133",
     "1790791139875",
     "1790791465017",
-    "1790791500978",
     "1790791658545",
     "1790791699508",
     "1790791783769",
@@ -13506,27 +13500,33 @@
     "1790794082810",
     "1790794344567",
     "1790794502022",
+    "1790794595193",
     "1790794857734",
     "1790794929009",
     "1790795100421",
     "1790795178301",
-    "1790795656851",
     "1790795760809",
     "1790796188854",
     "1790796360896",
     "1790796362405",
+    "1790796851878",
     "1790797080077",
+    "1790798308908",
     "1790798340869",
     "1790798400343",
     "1790798505406",
     "1790798614718",
     "1790798743415",
     "1790798878345",
+    "1790798916619",
     "1790798927082",
     "1790798986842",
     "1790799318821",
-    "1790799634857",
-    "1790799960388",
+    "1790799336513",
+    "1790800106388",
+    "1790800200178",
+    "1790800416303",
+    "1790800754825",
     "1790802000774",
     "1790802000946",
     "2305475",
@@ -13639,7 +13639,7 @@
     "2317243"
   ],
   "last_digest_hour": "2026-10-01T02",
-  "last_success": "2026-09-30T20:32:11.333786+00:00",
+  "last_success": "2026-09-30T20:47:01.281527+00:00",
   "national": {
     "alerted": [
       {
@@ -17639,9 +17639,10 @@
       "CG-DL-E-01102026-276652",
       "CG-DL-E-01102026-276657",
       "CG-DL-E-01102026-276671",
-      "CG-MH-E-01102026-276666"
+      "CG-MH-E-01102026-276666",
+      "CG-DL-E-01102026-276672"
     ],
-    "last_run": "2026-09-30T20:34:05.173612+00:00",
+    "last_run": "2026-09-30T20:51:17.939899+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19453,8 +19454,8 @@
       "gazette:CG-DL-E-30092026-276629",
       "gazette:CG-KA-E-30092026-276631",
       "gazette:CG-DL-E-30092026-276630",
-      "gazette:CG-AP-E-30092026-276633",
       "gazette:CG-DL-E-30092026-276632",
+      "gazette:CG-AP-E-30092026-276633",
       "gazette:CG-DL-E-30092026-276636",
       "gazette:CG-DL-E-30092026-276637",
       "gazette:CG-DL-E-30092026-276638",
@@ -19820,7 +19821,8 @@
       "gazette:CG-DL-E-01102026-276652",
       "gazette:CG-DL-E-01102026-276657",
       "gazette:CG-MH-E-01102026-276666",
-      "gazette:CG-DL-E-01102026-276671"
+      "gazette:CG-DL-E-01102026-276671",
+      "gazette:CG-DL-E-01102026-276672"
     ],
     "source_failures": {
       "CBI": {
@@ -19860,7 +19862,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "OpenAI CEO Sam Altman declines to testify at Senate rogue AI hearing",
+      "post": {
+        "created_at": "2026-09-30T19:34:11+00:00",
+        "handle": "News: Global AI",
+        "id": "1790796851878",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "CNBC",
+        "reposts": 0,
+        "text": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pMlJfR3Q0bGZnRFJZek1YQUZ5OVJtTE5uNml3cmNqQmNaLUN5WjhyODh1WHdfcEN0aEZ0U3JGZTlTVDdiYzdoaTJEQWlKZmY4bHlhV083WHhvaFBmbUE5QzVJQ19xSU8xYmpQQTJvOHpxTnNjTUpyR0tSdWFPVkXSAX9BVV95cUxPaTJSX0d0NGxmZ0RSWXpNWEFGeTlSbUxObjZpd3JjakJjWi1DeVo4cjg4dVh3X3BDdGhGdFNyRmU5U1Q3YmM3aGkyREFpSmZmOGx5YVdPN1h4b2hQZm1BOUM1SUNfcUlPMWJqUEEybzh6cU5zY01KckdLUnVhT1ZF?oc=5"
+      },
+      "queued_at": "2026-09-30T20:47:01.234506+00:00",
+      "score": 8.0,
+      "why": "Major global AI leadership and regulatory development involving safety concerns and legislative oversight."
+    },
+    {
+      "headline": "Micron reports surging profit and revenue on memory demand",
+      "post": {
+        "created_at": "2026-09-30T20:28:26+00:00",
+        "handle": "News: Global chips",
+        "id": "1790800106388",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "WSJ",
+        "reposts": 0,
+        "text": "Micron Profit, Revenue Surge on Memory Demand",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTERLUlNXYXNnbWZ0R0tJOTVLWERGbEVFa0c5bkpQXzlvRWptTHk0WUdlVDRYNGRDWGpJOVBIVkJSS3NUMmluLTBacUwwcE1xZW80MlZIeEUyMUYxUElJOGJEcUdGdmlIdzR5OWxhd0V6RnRLT3FMeTdkWndhRkVNMUFjT2tBY3V3dld0U2paNFdwam1IN2c?oc=5"
+      },
+      "queued_at": "2026-09-30T20:47:01.234506+00:00",
+      "score": 7.0,
+      "why": "Hard quarterly financial numbers from a major semiconductor player are filable wire news."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -20886,7 +20925,7 @@
     "hcltech": 1790774719426,
     "ibm": 1790769600216,
     "intel": 1788847380154,
-    "lenovo": 1790776486647,
+    "lenovo": 1790800416303,
     "linkedin": 1790685114934,
     "meta": 1790697605515,
     "microsoft": 1790663404205,
@@ -20895,9 +20934,9 @@
     "naukri": 1790234460996,
     "news: big tech platforms": 1790798927082,
     "news: consumer internet india": 1790793720472,
-    "news: global ai": 1790798986842,
-    "news: global chips": 1790799960388,
-    "news: global it services": 1790790540948,
+    "news: global ai": 1790800754825,
+    "news: global chips": 1790800106388,
+    "news: global it services": 1790800200178,
     "news: india ai deeptech": 1790794344583,
     "news: india edtech gaming": 1790782903336,
     "news: india fintech": 1790791465017,
@@ -20907,7 +20946,7 @@
     "news: indian it majors": 1790793660237,
     "news: indian it midcaps": 1790790540948,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1790776855555,
+    "news: tech leaders": 1790796851878,
     "nvidia": 1790787621668,
     "nvidia blog": 1790787621668,
     "openai": 1790764200992,
@@ -20944,7 +20983,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-09-30T20:32:11.669948+00:00",
+    "last_server_run": "2026-09-30T20:47:01.620521+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-09-30T19:33:07.142899+00:00",
@@ -21073,7 +21112,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-09-30T14:32:32.721932+00:00",
+        "at": "2026-09-30T20:47:14.782626+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -21083,7 +21122,7 @@
         }
       },
       "last": {
-        "calendar": "2026-09-30T14:32:35.390748+00:00",
+        "calendar": "2026-09-30T20:47:20.849292+00:00",
         "ls_reports": "2026-09-30T19:02:52.011339+00:00",
         "rs_committee_press": "2026-09-30T19:32:53.734847+00:00",
         "rs_press": "2026-09-30T19:32:50.795232+00:00",
@@ -21118,6 +21157,7 @@
       "CG-DL-E-01102026-276667",
       "CG-DL-E-01102026-276670",
       "CG-DL-E-01102026-276671",
+      "CG-DL-E-01102026-276672",
       "CG-DL-E-15092026-276194",
       "CG-DL-E-15092026-276195",
       "CG-DL-E-15092026-276196",
