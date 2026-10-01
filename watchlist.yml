@@ -11,7 +11,7 @@
 mail_names:
   tech_desk: "For Tech Desk"                  # IT-beat alerts and the hourly digest (MAIL_TO)
   government_watch: "DoPT, MHA & ED Watch"    # DoPT orders, MHA gazettes, ED pages (WATCH_MAIL_TO)
-  national_desk: "Alerts for Tweets"          # screened official news (SOCIAL_MAIL_TO)
+  national_desk: "Notifications for Tweets"   # screened official news (SOCIAL_MAIL_TO)
   maintenance: "Tracker Maintenance"          # "tracker stopped", watchdog (ADMIN_MAIL_TO, else MAIL_TO)
   # The five-ministry gazette watch sets its own name further down ("mail_name").
 

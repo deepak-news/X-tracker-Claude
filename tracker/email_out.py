@@ -25,7 +25,7 @@ WATCHLIST = pathlib.Path(__file__).resolve().parent.parent / "watchlist.yml"
 DEFAULT_NAMES = {
     "tech_desk": "For Tech Desk",
     "government_watch": "DoPT, MHA & ED Watch",
-    "national_desk": "Alerts for Tweets",
+    "national_desk": "Notifications for Tweets",
     "maintenance": "Tracker Maintenance",
 }
 
