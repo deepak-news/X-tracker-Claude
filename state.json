@@ -1,120 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-23T14:32:50.389074+00:00",
-      "handle": "News: India fintech",
-      "headline": "Fuel Cycle opens Navi Mumbai GCC to scale AI teams",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQW1qVUdFMlFPX2poSDVuc2hHUTdScDNfTGU3MlE2NEdTTVVxbUFhVWl2YW1FSEVrRnlRWmFpYzFhVnBWeldnbGVsXy1vVDZOS3EtY0VlaVdvNG04Sk1MVTFCMHYxbTBPaGJOUm5GMC1tNWExcy1qVkhCekJ5WlllRGhtbVBNMDY2ay1YNlpDYmpJVEMxTUp0VHVDVkNlTWFuSm1WZkRKM05YZzNLd2NhV1MzbXJHR2NYVTV5U3UyNjlObEpIWVV2d3dRU1hCcUNaSFQtVjZfNFdvWTg0Q3dHNWVXY3pNYXPSAecBQVVfeXFMTkFtalVHRTJRT19qaEg1bnNoR1E3UnAzX0xlNzJRNjRHU01VcW1BYVVpdmFtRUhFa0Z5UVphaWMxYVZwVnpXZ2xlbF8tb1Q2TktxLWNFZWlXbzRtOEpNTFUxQjB2MW0wT2hiTlJuRjAtbTVhMXMtalZIQnpCeVpZZURobW1QTTA2NmstWDZaQ2JqSVRDMU1KdFR1Q1ZDZU1hbkptVmZESjNOWGczS3djYVdTM21yR0djWFU1eVN1MjY5TmxKSFlVdnd3UVNYQnFDWkhULVY2XzRXb1k4NEN3RzVlV2N6TWFz?oc=5",
-      "words": [
-        "cycle",
-        "fuel",
-        "gcc",
-        "mumbai",
-        "navi",
-        "opens",
-        "plans",
-        "product",
-        "scale",
-        "teams"
-      ]
-    },
-    {
-      "at": "2026-09-23T14:32:50.389074+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Accenture leases over 560,000 sq ft office space in Bengaluru",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb2JoUVU0ZmZubkZDWUtNN0g3bllXaVJDSHl5WGpDWWQ4cnJqWGUxSHVDN3ZvbVc0TFFsTmlCTmVjeTF6c0lLbTU2Zk5fX040SnN3aU9zNGlPdVYtRVdxV2lzX3A1aE9vOUc5anJkanFWcy11blZ5SUhZMkdaY1hkdFpCeUNiQ2l5ei1HOHBzMnVLYXRSTnNRRllwN1lGdUtWaEFHNG9DbEVLUDZCdmE3RUZQbnZQT2JBU0RyUmVoVWNHQ21xSVo4a0N5WWxpX3dFVWZxcGpZbmUwS1JpWnfSAd4BQVVfeXFMUG9iaFFVNGZmbm5GQ1lLTTdIN25ZV2lSQ0h5eVhqQ1lkOHJyalhlMUh1Qzd2b21XNExRbE5pQk5lY3kxenNJS201NmZOX19ONEpzd2lPczRpT3VWLUVXcVdpc19wNWhPbzlHOWpyZGpxVnMtdW5WeUlIWTJHWmNYZHRaQnlDYkNpeXotRzhwczJ1S2F0Uk5zUUZZcDdZRnVLVmhBRzRvQ2xFS1A2QnZhN0VGUG52UE9iQVNEclJlaFVjR0NtcUlaOGtDeVlsaV93RVVmcXBqWW5lMEtSaVp3?oc=5",
-      "words": [
-        "000",
-        "269",
-        "560",
-        "accenture",
-        "bengaluru",
-        "leases",
-        "office",
-        "space"
-      ]
-    },
-    {
-      "at": "2026-09-23T14:32:50.389074+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "China chipmaker CanSemi seeks to raise up to $918.5 million in Shenzhen IPO",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVhiUVg2Z3pEMUxoSzJOb0FJQWNWRS1XUlVUd3Y0aDlYX0pycHdxRFZlSlJ1cmFPYVhDOXQ3MGdGc1pVd3ZVem1OQzZlV1oyNEhNQUZ2QndBLVhBSDBUTndHVGpOY1RCV1Q3TXd1RDVPc0FtVENMelVDUWxxcFVOMHRXY2dVQUFzeDdYVGw5VlFUOFpMdjl4eFJaaktlTm90TlpNNzBjU3RhX09WNWRKa2tiMEJKQzc5bmNEZG5XTXJrN19TNHQtbWhjQ1F1bTJIUmgxM25YRnQ2djZrRGdKR09CT1ctZU3SAecBQVVfeXFMTmlYYlFYNmd6RDFMaEsyTm9BSUFjVkUtV1JVVHd2NGg5WF9KcnB3cURWZUpSdXJhT2FYQzl0NzBnRnNaVXd2VXptTkM2ZVdaMjRITUFGdkJ3QS1YQUgwVE53R1RqTmNUQldUN013dUQ1T3NBbVRDTHpVQ1FscXBVTjB0V2NnVUFBc3g3WFRsOVZRVDhaTHY5eHhSWmpLZU5vdE5aTTcwY1N0YV9PVjVkSmtrYjBCSkM3OW5jRGRuV01yazdfUzR0LW1oY0NRdW0ySFJoMTNuWEZ0NnY2a0RnSkdPQk9XLWVN?oc=5",
-      "words": [
-        "918",
-        "cansemi",
-        "china",
-        "chipmaker",
-        "listing",
-        "million",
-        "raise",
-        "seeks",
-        "shenzhen"
-      ]
-    },
-    {
-      "at": "2026-09-23T15:34:49.194711+00:00",
-      "handle": "Google",
-      "headline": "Google launches Gemini 3.8 Flash TTS models",
-      "tier": 1,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "words": [
-        "article",
-        "card",
-        "expre",
-        "flash",
-        "gemini",
-        "hello",
-        "image",
-        "introducing",
-        "lite",
-        "most",
-        "our",
-        "reading",
-        "speech",
-        "text"
-      ]
-    },
-    {
-      "at": "2026-09-23T15:34:50.787633+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "RPS Ventures sells 0.9% stake in Meesho for Rs 899.7 crore",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZTAzUmpWOGVMUmg0V3RoUVg3Z3FqZ0VZLVNoeHFKVEdYbnVKTGFZLWJPYksxSlA1bjVLYnpzOWd2RGYzOW5LeW56SlhneWpsZEtGLVJ6ZEJDX2VQWG9VbWJNcFZHWFd6RzFfSldqa09xZGVpRnk2M0hFdE13UDdDNGhIcTVJdkVSTzFQaXEwcnBiMklsSHQxcXZ5LWhaYktURHhMUEIyelptZTNBa0NaSi1kSC1uRkdIX05vNm5oVmw2ZG5GeGlkZDhjMNIBywFBVV95cUxNZTAzUmpWOGVMUmg0V3RoUVg3Z3FqZ0VZLVNoeHFKVEdYbnVKTGFZLWJPYksxSlA1bjVLYnpzOWd2RGYzOW5LeW56SlhneWpsZEtGLVJ6ZEJDX2VQWG9VbWJNcFZHWFd6RzFfSldqa09xZGVpRnk2M0hFdE13UDdDNGhIcTVJdkVSTzFQaXEwcnBiMklsSHQxcXZ5LWhaYktURHhMUEIyelptZTNBa0NaSi1kSC1uRkdIX05vNm5oVmw2ZG5GeGlkZDhjMA?oc=5",
-      "words": [
-        "899",
-        "meesho",
-        "rps",
-        "sells",
-        "stake",
-        "ventures"
-      ]
-    },
-    {
-      "at": "2026-09-23T15:34:50.787633+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "VCs cash out Rs 67,000 crore; Ultraviolette raises $85 million",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORGNhUXc3NnhsVjQ0WExZQnIwa3lxR1ZweFpraHB4Mnl3T05ud3lQdzVwLXBONEVZWDZtNVBRbF9meEFCam9xMHU2VmxIRXEtSTE5RTlQaExXcENkZ2xEd1k4aVRlRzNZVHppb2lEZkFDa2dXV3VmR280Y0ZqY2VPNzdZa0JNclhMWW52UFd2ZjRmbWxmUEhZdFdPS3RSOTRfc3Z1a2RxNENrVjNrbExOSkpfdm93ZWFoWnVySVI3MkVyd2NaR215VDV3Sk1raEZKQ3BMcGJiRmlBZkh3LWlDbXc5Nmk2MkY5VHIxSkQxQ21GT3ZNT3IwU0x4ZXZkT0RKZkxQR1l3UmRzdHM?oc=5",
-      "words": [
-        "000",
-        "block",
-        "cash",
-        "deals",
-        "funding",
-        "million",
-        "more",
-        "out",
-        "revs",
-        "tech3",
-        "ultraviolette",
-        "vcs",
-        "via"
-      ]
-    },
-    {
       "at": "2026-09-23T15:34:50.787633+00:00",
       "handle": "News: Global IT services",
       "headline": "Report finds 70 percent of Indian GCCs stuck in AI pilot mode",
@@ -7509,20 +7395,121 @@
         "paid",
         "wipro"
       ]
+    },
+    {
+      "at": "2026-10-01T07:32:04.212668+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "FSSAI inspects dark stores of Swiggy, Flipkart, Zepto in Hyderabad",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjBTS0F3YVd0N3Y5Zk1EVFlmRXVBbWMtazBIeUhGbTNtelZXYUZMQnBjeDE4SHVaeFFiS3VBUHozSllDdzFndGdJanp2ZDFlZVQwUDRINlJsZkJCdm9oYU5Md191ZlExeVRsQnEzd20xWHExUk16Wk1mM0Q3MWlhM05oVjJhSE9zck9ZaVZxUDlfc0xERjhLMzRGTmwtbUFTamM2UmwzRktqVUoyLU1lV3FrTUc3cHE3M1dZSllWMWw4NU9ZSzVmRXdfOHZVZ9IB1gFBVV95cUxQREQ3alUwcFV6Y0lFR2VWR2Izc3l0aEdiSUtBOFFYSGgzYnZ5UkdSYUREckd0dXRQb3VXWVNfaV8wdmpGM21sZVFocGJYcHRPdVo4TTNWNkhmUFgySGZIYlQ5UHRYREVueUZad0JIR3JQZ2huQUlpU19BZzNzTFJaQjhHdEpSc0ZTSzFvX0FmR1Y0bFJMZXNyenZhVjc0Z1g0TE9ONVlMbVZYNFMxZjZqWHZJX24wLU9SNWtJOWFncFNiWndQOEdycVl6Y1FhQm5NY18xX1Bn?oc=5",
+      "words": [
+        "cobwebs",
+        "cockroaches",
+        "dark",
+        "expired",
+        "flipkart",
+        "food",
+        "found",
+        "hyderabad",
+        "instamart",
+        "stores",
+        "swiggy",
+        "zepto"
+      ]
+    },
+    {
+      "at": "2026-10-01T07:32:04.212668+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic IPO pitch highlights AI promise and existential risks",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXRJODZyb28zdldTMTl2S214MlNvalV5al9YT0dZQ0R0ajZTUi1lcWxCclBPUF9ETkMydnl2aFkyWTJHY1J4OG4xSEp0cW5VdkNONVZTS3hGcVNIU2hOQlIwZlQxTTI3WTJ4LTZCaWpZNEJDSm5VMDE3OS14RGZoYVV4VG9VTVBRM3ZzT1FudktmRkFPbWkwNlBsOVZMbGlrRE1zNTl4OXNIQmJnWjJUSWNwaWotS1VuUHfSAcABQVVfeXFMTlRfT3loTVJJaThNYVl0RV9CUmFISkZfcTBVUVNrUlcycVBXQkQ0M2swTkliTkpkUVVjUUZ3blBtc2ltaUFpeXFWb2hHckdpM2lSZWxKOVlQSE9KS2dDank3WmQzSTF0VDF3NTVqclgyeDJrcC1pRVFjeFN0dllTT3JjRlhIWkFSTkt6N3F3djF2cFB1b1ZPdDU1MnJuQUtOLXQ4QkNMYXBrS3NVSkJtR3V4b3g4alJkWnVXc1EyZTd5?oc=5",
+      "words": [
+        "anthropic",
+        "embraces",
+        "ipo",
+        "peril",
+        "pitch",
+        "promise"
+      ]
+    },
+    {
+      "at": "2026-10-01T07:32:04.212668+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Delhi HC rules Meta exempt from de-indexing in right to be forgotten case",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWJRUl9pOS1BM2hOMEcxdGFnSW0wMzBoeEtGdGp6cHYydkk5UmhqNDNGYnE4cndtNWNsVjRMODVfdEVjakhFUS1Pc21KN1V3X2VjNnZ4VUUteml3cG84SV9lWnp4VWZCM0xFX1U3QWRmcy1hZWxzUm8yX0Z1NFhGWkNmT0IwczQ1b0o1UzBEQm1uTkdOQ0taNmVaT3VwV1NZOVc0NjZB?oc=5",
+      "words": [
+        "case",
+        "delhi",
+        "exempt",
+        "forgotten",
+        "indexing",
+        "meta",
+        "right"
+      ]
+    },
+    {
+      "at": "2026-10-01T07:32:04.212668+00:00",
+      "handle": "News: Global AI",
+      "headline": "xAI considers overhauling Grok and X subscriptions with new plans",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDZsRWE3SVlPU2NmUUd6c0VoQzZUc1ZWdGFJd1RrTTU2SlJaZkY4a2FQOTRjSmppX09jOG8yUlpJN2xzTml4czNuMXFVYmJMSlQ3N0FaUFQ1M0tDXzNLZnIyc2JsOTE4dzhRWjl3OFVoc05aNlFHb1c5YTdybDdOc1dpci1WUWxhX0JRSWRuSHhOSy1UTVpDTHFvbFZhUm1xT29tMnhCS0xTRVoxaXpaRlJLeWo0bWUyLVBMT2g1a21TMk9JOHR3RlcxNDZGUl9pWVHSAdcBQVVfeXFMTkFtbmRQMXdSSGtwYkJWNGZ2enlDak9tQXRJWHNBRW15ejBUZzRpM3lvTmluZmJyQ09lWjRrOW03d21yalVUa3dqYkZLYlpHb1ZHakRtNkNSWUp3WnpjaUV5a011N1RrQm9zYVZZMTlKdzZVbkJKV3BMdjJyeUc5T3NDU3o2aVktbVRnSGVEYjhacmpzR0NoTHpqeHdwckdnSGpGS1FpOUZrRjNmeWQzYmNjSE11M3RrY1dIWkdrVXNSektDZzE3Tnh6dmN3bDlCMl9WbTBGbzA?oc=5",
+      "words": [
+        "elon",
+        "grok",
+        "may",
+        "musk",
+        "overhaul",
+        "plans",
+        "subscriptions",
+        "xai"
+      ]
+    },
+    {
+      "at": "2026-10-01T07:32:04.212668+00:00",
+      "handle": "News: India fintech",
+      "headline": "Razorpay enables Apple Pay integration for online and in-store merchants",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeEo3ZDJoUE1zNWItdm9zZUV6NU1OeExfNDZRN1FPenRhZkZiQXV3UnE3VVBnOXd3ZnAyeDRrZW41dWZrX2pEU2ExOFpHQV8xZUJmTUhPdW9yZHpkb2FyakYweTljTnBFb3dKWTN3Rm1RWU9wYVJTS0VRNHgySkZISGZESnE2TzA4dnN4RFpuVjFmeERudklNVjk3Z0RfYkgtNGEwcVdmOF9kaG1UWmdneXdWR0FLNHJFSTJJZTVDMVNxNXhCcl9QZ3RiZzl4eHc5R2pjTGdEVmQ?oc=5",
+      "words": [
+        "accept",
+        "apple",
+        "can",
+        "card",
+        "entry",
+        "merchants",
+        "now",
+        "online",
+        "otps",
+        "pay",
+        "razorpay",
+        "store"
+      ]
+    },
+    {
+      "at": "2026-10-01T07:32:04.212668+00:00",
+      "handle": "News: India telecom",
+      "headline": "TRAI introduces new rules allowing one-SMS spam call blocking",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVTQwMzNfa1hiNVk3TElnSlRyWG56d21jeWdSUXZjaC1Xb3RrQzJUVnNPV1FleXZTcHlMNURwMlNHdVBDM2pTNzRYbnl3SU43aEdGXzFZbWc3RUZKbFB2dVhRYzdxZlR0RmZMOWRBQXBocHlFRDdNWXlNYVk5SnVEUWo4RGhsczhQYXFFWGh4RzBqZWsyWmJCNnRlQXotWnVnRUVpY9IBpAFBVV95cUxQVTQwMzNfa1hiNVk3TElnSlRyWG56d21jeWdSUXZjaC1Xb3RrQzJUVnNPV1FleXZTcHlMNURwMlNHdVBDM2pTNzRYbnl3SU43aEdGXzFZbWc3RUZKbFB2dVhRYzdxZlR0RmZMOWRBQXBocHlFRDdNWXlNYVk5SnVEUWo4RGhsczhQYXFFWGh4RzBqZWsyWmJCNnRlQXotWnVnRUVpYw?oc=5",
+      "words": [
+        "block",
+        "calls",
+        "let",
+        "one",
+        "rules",
+        "sms",
+        "spam",
+        "them",
+        "tired",
+        "trai",
+        "you"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790154686578",
-    "1790155042248",
-    "1790076458761",
-    "1790076463686",
-    "1790077021358",
-    "1790083838819",
-    "1790093400835",
-    "1790103300702",
-    "1790114782112",
     "1790121478515",
     "1790134846389",
     "1790143920110",
@@ -11847,7 +11834,6 @@
     "1790750748893",
     "1790769033119",
     "1790774837072",
-    "1790795178301",
     "1790823906859",
     "1790828910577",
     "1790743846873",
@@ -11926,7 +11912,6 @@
     "1790748420043",
     "1790748791006",
     "1790754922578",
-    "1790788678275",
     "1790798986842",
     "1790830753798",
     "1791849600315",
@@ -11982,13 +11967,28 @@
     "1790820384926",
     "1790823598061",
     "1790829903080",
-    "1790830382405",
     "1790831467996",
     "1790832414305",
     "1790833454076",
-    "1790836049019",
     "1790837096256",
     "1790837803287",
+    "1790752637200",
+    "1790760450087",
+    "1790781174141",
+    "1790795178702",
+    "1790798927082",
+    "1790812595917",
+    "1790819760834",
+    "1790823552776",
+    "1790825769835",
+    "1790829126287",
+    "1790832600082",
+    "1790832746685",
+    "1790834030593",
+    "1790836154386",
+    "1790837764342",
+    "1790838270944",
+    "2317474",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13201,7 +13201,6 @@
     "1790750393638",
     "1790750458519",
     "1790750483764",
-    "1790752637200",
     "1790753043362",
     "1790753614540",
     "1790753620717",
@@ -13220,7 +13219,6 @@
     "1790759830031",
     "1790759975448",
     "1790760269236",
-    "1790760450087",
     "1790760938109",
     "1790760958628",
     "1790761296247",
@@ -13307,7 +13305,6 @@
     "1790780400025",
     "1790780400157",
     "1790780587490",
-    "1790781174141",
     "1790781804667",
     "1790782033722",
     "1790782067674",
@@ -13329,6 +13326,7 @@
     "1790787621668",
     "1790787845535",
     "1790788305837",
+    "1790788678275",
     "1790788680191",
     "1790788797432",
     "1790788920523",
@@ -13353,7 +13351,7 @@
     "1790794857734",
     "1790794929009",
     "1790795100772",
-    "1790795178702",
+    "1790795178301",
     "1790796188854",
     "1790796851181",
     "1790796871851",
@@ -13364,7 +13362,6 @@
     "1790798505406",
     "1790798614718",
     "1790798878345",
-    "1790798927082",
     "1790799318821",
     "1790800200178",
     "1790800416303",
@@ -13387,7 +13384,6 @@
     "1790809561619",
     "1790810143968",
     "1790810574539",
-    "1790812595917",
     "1790812800524",
     "1790812800856",
     "1790812800998",
@@ -13407,7 +13403,7 @@
     "1790818980378",
     "1790819263453",
     "1790819754353",
-    "1790819760834",
+    "1790820240255",
     "1790820302680",
     "1790820420878",
     "1790820718827",
@@ -13422,7 +13418,6 @@
     "1790822907969",
     "1790822967209",
     "1790823124200",
-    "1790823552776",
     "1790823577111",
     "1790824226672",
     "1790824435460",
@@ -13430,7 +13425,6 @@
     "1790824968027",
     "1790825160430",
     "1790825415420",
-    "1790825769835",
     "1790826036165",
     "1790826060403",
     "1790826476093",
@@ -13457,12 +13451,12 @@
     "1790828910468",
     "1790829060068",
     "1790829100750",
-    "1790829126287",
     "1790829420215",
     "1790829540168",
     "1790829568458",
     "1790829905262",
     "1790829954151",
+    "1790830382405",
     "1790831015727",
     "1790831244282",
     "1790831460856",
@@ -13473,9 +13467,7 @@
     "1790831746943",
     "1790831964532",
     "1790832069046",
-    "1790832600082",
     "1790832641320",
-    "1790832746685",
     "1790833028306",
     "1790833071167",
     "1790833155336",
@@ -13484,7 +13476,6 @@
     "1790833590815",
     "1790833831195",
     "1790833920590",
-    "1790834030593",
     "1790834083415",
     "1790834226818",
     "1790834363722",
@@ -13493,6 +13484,8 @@
     "1790834640257",
     "1790834700182",
     "1790834824672",
+    "1790834880084",
+    "1790835102840",
     "1790835172610",
     "1790835257091",
     "1790835308285",
@@ -13500,23 +13493,26 @@
     "1790835713355",
     "1790835962976",
     "1790835995159",
-    "1790836154386",
+    "1790836049019",
+    "1790836140740",
+    "1790836154929",
     "1790836266096",
     "1790836523072",
     "1790836839824",
     "1790837062951",
     "1790837239609",
-    "1790837764342",
+    "1790837764758",
     "1790837803910",
     "1790837913333",
-    "1790838270944",
+    "1790838270479",
     "1790838493701",
     "1790838532071",
-    "1790848800118",
-    "2317474"
+    "1790839440282",
+    "1790839719585",
+    "1790848800118"
   ],
-  "last_digest_hour": "2026-10-01T12",
-  "last_success": "2026-10-01T07:17:02.932473+00:00",
+  "last_digest_hour": "2026-10-01T13",
+  "last_success": "2026-10-01T07:32:04.263217+00:00",
   "national": {
     "alerted": [
       {
@@ -17029,6 +17025,29 @@
           "pdf",
           "press"
         ]
+      },
+      {
+        "at": "2026-10-01T07:36:18.924991+00:00",
+        "handle": "PIB Ministry of Consumer Affairs, Food & Public Distribution",
+        "headline": "Government revises sugar stock holding norms to prevent hoarding and stabilize festive prices.",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317497",
+        "words": [
+          "affairs",
+          "consumer",
+          "consumers",
+          "distribution",
+          "during",
+          "ensure",
+          "festive",
+          "food",
+          "government",
+          "hoarding",
+          "holding",
+          "ministry",
+          "norms",
+          "prevent"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -17542,7 +17561,7 @@
       "CG-MH-E-01102026-276666",
       "CG-DL-E-01102026-276672"
     ],
-    "last_run": "2026-10-01T07:19:59.081503+00:00",
+    "last_run": "2026-10-01T07:36:18.926118+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19409,6 +19428,7 @@
       "cci-order:1292",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63697",
       "page:https://internal.imd.gov.in/press_release/20260816_pr_5238.pdf",
+      "pib:2317474",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -19743,11 +19763,12 @@
       "pib:2317443",
       "pib:2317440",
       "pib:2317462",
-      "pib:2317474",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63707",
       "pib:2317470",
       "page:https://internal.imd.gov.in/press_release/20261001_pr_5366.pdf",
-      "pib:2317480"
+      "pib:2317480",
+      "pib:2317497",
+      "pib:2317494"
     ],
     "source_failures": {
       "CBI": {
@@ -19791,80 +19812,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic IPO pitch highlights AI promise and existential risks",
-      "post": {
-        "created_at": "2026-10-01T06:33:06+00:00",
-        "handle": "News: Global AI",
-        "id": "1790836386606",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "Anthropic's IPO pitch embraces AI's promise and peril",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXRJODZyb28zdldTMTl2S214MlNvalV5al9YT0dZQ0R0ajZTUi1lcWxCclBPUF9ETkMydnl2aFkyWTJHY1J4OG4xSEp0cW5VdkNONVZTS3hGcVNIU2hOQlIwZlQxTTI3WTJ4LTZCaWpZNEJDSm5VMDE3OS14RGZoYVV4VG9VTVBRM3ZzT1FudktmRkFPbWkwNlBsOVZMbGlrRE1zNTl4OXNIQmJnWjJUSWNwaWotS1VuUHfSAcABQVVfeXFMTlRfT3loTVJJaThNYVl0RV9CUmFISkZfcTBVUVNrUlcycVBXQkQ0M2swTkliTkpkUVVjUUZ3blBtc2ltaUFpeXFWb2hHckdpM2lSZWxKOVlQSE9KS2dDank3WmQzSTF0VDF3NTVqclgyeDJrcC1pRVFjeFN0dllTT3JjRlhIWkFSTkt6N3F3djF2cFB1b1ZPdDU1MnJuQUtOLXQ4QkNMYXBrS3NVSkJtR3V4b3g4alJkWnVXc1EyZTd5?oc=5"
-      },
-      "queued_at": "2026-10-01T06:47:04.788452+00:00",
-      "score": 7.0,
-      "why": "Major AI company IPO disclosures and risk disclosures are primary wire stories scoring 7+."
-    },
-    {
-      "headline": "FSSAI inspects dark stores of Swiggy, Flipkart, Zepto in Hyderabad",
-      "post": {
-        "created_at": "2026-10-01T06:35:23+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1790836523072",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV",
-        "reposts": 0,
-        "text": "Expired Food, Cobwebs, Cockroaches Found At Swiggy Instamart, Flipkart, Zepto Dark Stores In Hyderabad",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjBTS0F3YVd0N3Y5Zk1EVFlmRXVBbWMtazBIeUhGbTNtelZXYUZMQnBjeDE4SHVaeFFiS3VBUHozSllDdzFndGdJanp2ZDFlZVQwUDRINlJsZkJCdm9oYU5Md191ZlExeVRsQnEzd20xWHExUk16Wk1mM0Q3MWlhM05oVjJhSE9zck9ZaVZxUDlfc0xERjhLMzRGTmwtbUFTamM2UmwzRktqVUoyLU1lV3FrTUc3cHE3M1dZSllWMWw4NU9ZSzVmRXdfOHZVZ9IB1gFBVV95cUxQREQ3alUwcFV6Y0lFR2VWR2Izc3l0aEdiSUtBOFFYSGgzYnZ5UkdSYUREckd0dXRQb3VXWVNfaV8wdmpGM21sZVFocGJYcHRPdVo4TTNWNkhmUFgySGZIYlQ5UHRYREVueUZad0JIR3JQZ2huQUlpU19BZzNzTFJaQjhHdEpSc0ZTSzFvX0FmR1Y0bFJMZXNyenZhVjc0Z1g0TE9ONVlMbVZYNFMxZjZqWHZJX24wLU9SNWtJOWFncFNiWndQOEdycVl6Y1FhQm5NY18xX1Bn?oc=5"
-      },
-      "queued_at": "2026-10-01T07:17:02.838510+00:00",
-      "score": 8.0,
-      "why": "Involves major quick commerce firms facing regulatory health and safety crackdowns."
-    },
-    {
-      "headline": "Delhi HC rules Meta exempt from de-indexing in right to be forgotten case",
-      "post": {
-        "created_at": "2026-10-01T06:58:33+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1790837913333",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "MediaNama",
-        "reposts": 0,
-        "text": "Delhi HC Says Meta Exempt From De-Indexing in Right to Be Forgotten Case",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWJRUl9pOS1BM2hOMEcxdGFnSW0wMzBoeEtGdGp6cHYydkk5UmhqNDNGYnE4cndtNWNsVjRMODVfdEVjakhFUS1Pc21KN1V3X2VjNnZ4VUUteml3cG84SV9lWnp4VWZCM0xFX1U3QWRmcy1hZWxzUm8yX0Z1NFhGWkNmT0IwczQ1b0o1UzBEQm1uTkdOQ0taNmVaT3VwV1NZOVc0NjZB?oc=5"
-      },
-      "queued_at": "2026-10-01T07:17:02.838510+00:00",
-      "score": 7.0,
-      "why": "Significant court ruling on legal liability and data privacy for big tech in India."
-    },
-    {
-      "headline": "xAI considers overhauling Grok and X subscriptions with new plans",
-      "post": {
-        "created_at": "2026-10-01T07:08:13+00:00",
-        "handle": "News: Global AI",
-        "id": "1790838493701",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Elon Musk's xAI may overhaul Grok and X subscriptions with 4 new plans",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDZsRWE3SVlPU2NmUUd6c0VoQzZUc1ZWdGFJd1RrTTU2SlJaZkY4a2FQOTRjSmppX09jOG8yUlpJN2xzTml4czNuMXFVYmJMSlQ3N0FaUFQ1M0tDXzNLZnIyc2JsOTE4dzhRWjl3OFVoc05aNlFHb1c5YTdybDdOc1dpci1WUWxhX0JRSWRuSHhOSy1UTVpDTHFvbFZhUm1xT29tMnhCS0xTRVoxaXpaRlJLeWo0bWUyLVBMT2g1a21TMk9JOHR3RlcxNDZGUl9pWVHSAdcBQVVfeXFMTkFtbmRQMXdSSGtwYkJWNGZ2enlDak9tQXRJWHNBRW15ejBUZzRpM3lvTmluZmJyQ09lWjRrOW03d21yalVUa3dqYkZLYlpHb1ZHakRtNkNSWUp3WnpjaUV5a011N1RrQm9zYVZZMTlKdzZVbkJKV3BMdjJyeUc5T3NDU3o2aVktbVRnSGVEYjhacmpzR0NoTHpqeHdwckdnSGpGS1FpOUZrRjNmeWQzYmNjSE11M3RrY1dIWkdrVXNSektDZzE3Tnh6dmN3bDlCMl9WbTBGbzA?oc=5"
-      },
-      "queued_at": "2026-10-01T07:17:02.838510+00:00",
-      "score": 7.0,
-      "why": "Major AI company product tier redesign and monetization update from a watched firm."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -20898,8 +20846,8 @@
     "microsoft india": 1790671363365,
     "mistral ai": 1790611079525,
     "naukri": 1790234460996,
-    "news: big tech platforms": 1790838493701,
-    "news: consumer internet india": 1790836523072,
+    "news: big tech platforms": 1790839440282,
+    "news: consumer internet india": 1790839719585,
     "news: global ai": 1790838493701,
     "news: global chips": 1790835674130,
     "news: global it services": 1790802060407,
@@ -20908,9 +20856,9 @@
     "news: india fintech": 1790838532071,
     "news: india semiconductors": 1790820384926,
     "news: india tech policy": 1790837239609,
-    "news: india telecom": 1790836154386,
+    "news: india telecom": 1790836154929,
     "news: indian it majors": 1790838270944,
-    "news: indian it midcaps": 1790834637536,
+    "news: indian it midcaps": 1790835102840,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790835308285,
     "nvidia": 1790787621668,
@@ -20949,7 +20897,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-01T07:17:03.174313+00:00",
+    "last_server_run": "2026-10-01T07:32:04.620541+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-01T06:19:56.626329+00:00",
