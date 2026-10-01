@@ -7520,7 +7520,7 @@
       ]
     }
   ],
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {},
   "handled": [
     "1790175514136",
@@ -17753,9 +17753,11 @@
       "CG-DL-E-01102026-276690",
       "CG-DL-E-01102026-276697",
       "CG-DL-E-01102026-276700",
-      "CG-UP-E-01102026-276698"
+      "CG-UP-E-01102026-276698",
+      "CG-DL-E-01102026-276691",
+      "CG-DL-E-01102026-276699"
     ],
-    "last_run": "2026-10-01T18:07:28.925082+00:00",
+    "last_run": "2026-10-01T18:21:17.243862+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19664,8 +19666,8 @@
       "gazette:CG-DL-E-30092026-276664",
       "gazette:CG-DL-E-30092026-276663",
       "gazette:CG-DL-E-30092026-276656",
-      "gazette:CG-DL-E-01102026-276665",
       "gazette:CG-DL-E-01102026-276652",
+      "gazette:CG-DL-E-01102026-276665",
       "gazette:CG-DL-E-01102026-276657",
       "gazette:CG-MH-E-01102026-276666",
       "certin:CIAD-2026-0044",
@@ -20130,7 +20132,9 @@
       "gazette:CG-UP-E-01102026-276698",
       "gazette:CG-DL-E-01102026-276690",
       "gazette:CG-DL-E-01102026-276697",
-      "gazette:CG-DL-E-01102026-276689"
+      "gazette:CG-DL-E-01102026-276689",
+      "gazette:CG-DL-E-01102026-276699",
+      "gazette:CG-DL-E-01102026-276691"
     ],
     "source_failures": {
       "CBI": {
@@ -21315,7 +21319,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-01T18:02:19.114389+00:00",
+    "last_server_run": "2026-10-01T18:17:46.416461+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-01T17:33:01.511608+00:00",
@@ -21506,12 +21510,14 @@
       "CG-DL-E-01102026-276688",
       "CG-DL-E-01102026-276689",
       "CG-DL-E-01102026-276690",
+      "CG-DL-E-01102026-276691",
       "CG-DL-E-01102026-276692",
       "CG-DL-E-01102026-276693",
       "CG-DL-E-01102026-276694",
       "CG-DL-E-01102026-276695",
       "CG-DL-E-01102026-276696",
       "CG-DL-E-01102026-276697",
+      "CG-DL-E-01102026-276699",
       "CG-DL-E-01102026-276700",
       "CG-DL-E-01102026-276702",
       "CG-DL-E-01102026-276703",
