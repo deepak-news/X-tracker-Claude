@@ -33,7 +33,7 @@ import yaml
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
-from . import email_out, judge, regulators, score_log, sources, watch
+from . import email_out, judge, regulators, score_log, source_health, sources, watch
 from .main import dead_models, record_dead_models
 from .sources import Post
 
@@ -771,6 +771,14 @@ def run(dry_run: bool) -> int:
 
     print("Reading official sources for the national desk...")
     posts, failed = collect(cfg, scanned, memory)
+    # Every source on the failure list counts as down, including one resting
+    # this run after failing repeatedly -- resting is not recovering.
+    source_health.check(
+        memory.setdefault("health", {}), "Tweets desk",
+        list(memory.get("source_failures") or {}),
+        where="The reason is in the log of any recent run on GitHub (Actions tab, "
+              "step \"Check official news for the national desk\").",
+        dry_run=dry_run)
 
     # A source seen for the first time is introduced quietly: what is on it
     # now is noted, not judged. Adding a site like the CBI -- 1,400 releases

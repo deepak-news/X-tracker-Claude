@@ -70,6 +70,9 @@ def _credentials(recipient_env: str = RECIPIENT_ENV):
     recipient = recipient_setting(recipient_env)
     if not recipient and recipient_env == ADMIN_ENV:
         recipient = os.environ.get(RECIPIENT_ENV, "").strip()
+    if not recipient and recipient_env == ADMIN_ENV:
+        # The Mac has neither list; its warnings go to the sending mailbox.
+        recipient = sender
     # The list may hold several addresses, separated by commas or newlines.
     recipients = [a.strip() for a in recipient.replace("\n", ",").split(",") if a.strip()]
 

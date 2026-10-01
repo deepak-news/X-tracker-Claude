@@ -55,6 +55,11 @@ def merge_watch(ours: dict, theirs: dict) -> dict:
             pages[url] = snapshot
     merged["pages"] = pages
 
+    # Each half's record of failing sources: this run's is the newer one.
+    for field in ("health_server", "health_home"):
+        if field in ours:
+            merged[field] = ours[field]
+
     # Which watches have been introduced, and every gazette looked at. Both
     # only grow. Losing "introduced" here made a watch for a new recipient
     # count as brand new on every run, so it noted gazettes and never sent.
@@ -112,6 +117,7 @@ def merge_national(ours: dict, theirs: dict) -> dict:
     # The run that finished later has the current picture of which sites fail.
     newer = ours if ours.get("last_run", "") >= theirs.get("last_run", "") else theirs
     merged["source_failures"] = newer.get("source_failures") or {}
+    merged["health"] = newer.get("health") or {}
     return merged
 
 

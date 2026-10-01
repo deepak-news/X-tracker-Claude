@@ -42,7 +42,7 @@ import urllib3
 import yaml
 from bs4 import BeautifulSoup
 
-from . import email_out, sansad
+from . import email_out, sansad, source_health
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 WATCHLIST = ROOT / "watchlist.yml"
@@ -759,7 +759,7 @@ def run(dry_run: bool) -> int:
     except ValueError:
         pass
 
-    found, failed = [], []
+    found, failed, worked = [], [], []
 
     # Watches that have run before. One added later is introduced quietly:
     # its first run notes what is already listed rather than emailing a new
@@ -804,6 +804,7 @@ def run(dry_run: bool) -> int:
                          else _dopt(entry))
             print(f"  {entry['name']}: {len(items)} row(s) on the page")
             found.extend(items)
+            worked.append(entry["name"])
         except Exception as exc:                                  # noqa: BLE001
             print(f"  ! {entry['name']} failed: {exc}")
             failed.append(entry["name"])
@@ -825,11 +826,23 @@ def run(dry_run: bool) -> int:
             item, snapshot = _try(entry["name"], lambda: _page_change(entry, pages))
             pages[entry["url"]] = snapshot
             print(f"  {entry['name']}: {'CHANGED' if item else 'unchanged'}")
+            worked.append(entry["name"])
             if item:
                 found.append(item)
         except Exception as exc:                                  # noqa: BLE001
             print(f"  ! {entry['name']} failed: {exc}")
             failed.append(entry["name"])
+
+    # A source skipped this run (checked recently, out of time) is neither:
+    # only one actually read counts as recovered. The Mac and GitHub each
+    # keep their own record, since each reads different sources.
+    source_health.check(
+        memory.setdefault(f"health_{scope}", {}), "Government watch", failed, worked,
+        where=("The reason is in the Mac's log: Library/Logs/gov-watch.log in your "
+               "home folder." if scope == "home" else
+               "The reason is in the log of any recent run on GitHub (Actions tab, "
+               "step \"Check the watched government pages\")."),
+        dry_run=dry_run)
 
     # "already" is the memory as it stood before this run started.
     #

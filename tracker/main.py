@@ -10,7 +10,7 @@ import sys
 
 import yaml
 
-from . import email_out, judge, score_log, sources
+from . import email_out, judge, score_log, source_health, sources
 from .sources import XUnavailable
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -270,6 +270,11 @@ async def run(dry_run: bool) -> int:
 
     if failed:
         print(f"  ! sources that failed this run: {', '.join(failed)}")
+    source_health.check(
+        state.setdefault("source_health", {}), "Tech Desk", failed,
+        where="The reason is in the log of any recent run on GitHub (Actions tab, "
+              "step \"Check the news sources and send any alerts\").",
+        dry_run=dry_run)
 
     # Work out what is genuinely new, per account. The new high-water marks
     # are held back until the whole run succeeds -- if scoring or email fails
