@@ -2,26 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-24T16:33:07.366314+00:00",
-      "handle": "News: India fintech",
-      "headline": "FinMin sources indicate UPI subsidy for sub-Rs 2,000 likely to continue",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVi1UMDNjWFppbjFZaXVWckFYbmVOTWhSRmtMMlE3aFhlZU9XT3B0UXBqNGtZMGQ5N0FHcXRhSzNpZDZsNHU2cEFNNHY5eVVYbkhvUGpBZE12YzZoM1ZsSDFmRnN2ZFlFWV9KU05XT0lRNXUwSkVmY1VVLTRETkpCWTBueFNMdlg5REZfWDA2NWJKX0xybEJ6eVJBczFQWEF1TVJCTFpVTHN3QzdPbUhOVE9YTFI4TTdHTW56X0VDVmdJWUl6N2JHTld3eWIzb25sdzJjemF3dVBXOG9nSm1UNmhWYkYzZ9IB6wFBVV95cUxPYVI4bEVLWnhOMWVaeG8yUlhsWVR1UHJ5RmJhZU4wNjAtOGNpWGxsQlZKTFFBQzlXRzE4OWhnY0Z1Q2NmN2lJam9ra2RzYWY5ZzhweE5LU013dDJhWDJFSGhRTW1ZYTJhSEM0R3Z2X3h2ZlBnT2syOFBkWGZvb1M1bDVMbk43Q25ObzQtbFJnUnpxRW1MbTg3NHAyZG1yZC14LXViZmtrNDhzYzJlbUJhTGpqVm16Sk9EQVNKbU5WbG9XR0NwR244VF9lZUFlU1BrTmRXdC03azlfVEFXMHZsNERCUkxkN1hndXNj?oc=5",
-      "words": [
-        "000",
-        "below",
-        "beyond",
-        "continue",
-        "finmin",
-        "likely",
-        "october",
-        "sources",
-        "subsidy",
-        "transactions",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-09-24T16:33:07.366314+00:00",
       "handle": "News: India semiconductors",
       "headline": "Piyush Goyal projects India semiconductor demand to exceed $150 billion",
       "tier": 0,
@@ -7482,21 +7462,30 @@
         "smuggling",
         "tech"
       ]
+    },
+    {
+      "at": "2026-10-02T08:32:06.313616+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Zoho launches Arattai-for-Business messaging app for healthcare and education",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcGRJblVMdF9oS0tJZXptb3RTeFRWWlhFdjNuRFlBOXBobWFGM3F6MVRsMnZIOW9FTmlkWmF0a0J4S1FTOXc4V1dPbm1YQ012SmRILW5DYXFjbFptQlhzOVZXazJVOVVuSE9LaTNRMWVLMzdoNXk0YmZtOWlqZjE5Ti0yMEZrTXE3RzB3RHhxU0FSLVFmT1FWand5OGkxeC1HN2h2bHlpbm1jWVF0Y01CYUJaUmJ2R25GaTRFdFBoTTRJZVdoNU5lTmotdXB4NEJ6SGdXbUEtWVJnbFpYMDVPalBXbmJMVUd6VmhNOXBJYVE3ZkxHUEUtM3prWWhWRWFDN3fSAYICQVVfeXFMTXBkSW5VTHRfaEtLSWV6bW90U3hUVlpYRXYzbkRZQTlwaG1hRjNxejFUbDJ2SDlvRU5pZFphdGtCeEtRUzl3OFdXT25tWENNdkpkSC1uQ2FxY2xabUJYczlWV2syVTlVbkhPS2kzUTFlSzM3aDV5NGJmbTlpamYxOU4tMjBGa01xN0cwd0R4cVNBUi1RZk9RVmp3eThpMXgtRzdodmx5aW5tY1lRdGNNQmFCWlJidkduRmk0RXRQaE00SWVXaDVOZU5qLXVweDRCekhnV21BLVlSZ2xaWDA1T2pQV25iTFVHelZoTTlwSWFRN2ZMR1BFLTN6a1loVkVhQzd3?oc=5",
+      "words": [
+        "app",
+        "arattai",
+        "business",
+        "education",
+        "free",
+        "healthcare",
+        "launches",
+        "messaging",
+        "offers",
+        "zoho"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790238067272",
-    "1790241156301",
-    "1790158569094",
-    "1790186747459",
-    "1790190860159",
-    "1790215071587",
-    "1790233211224",
-    "1790236148345",
-    "1790236277068",
-    "1790237714292",
     "1790241720614",
     "1790242772165",
     "1790188096777",
@@ -11864,7 +11853,6 @@
     "1790914712359",
     "1790831964532",
     "1790832600082",
-    "1790886015908",
     "1790834700182",
     "1790850457565",
     "1790867163077",
@@ -11925,7 +11913,6 @@
     "1790850294839",
     "1790855712069",
     "1790857257585",
-    "1790879940095",
     "1790898102535",
     "1790902607162",
     "1790904847076",
@@ -11979,10 +11966,19 @@
     "1790908315920",
     "1790916568441",
     "1790920971592",
-    "1790920996633",
     "1790922008920",
-    "1790923260034",
     "1790927114884",
+    "1790856506368",
+    "1790874840078",
+    "1790879280977",
+    "1790885643908",
+    "1790885700354",
+    "1790901033929",
+    "1790911289408",
+    "1790920996076",
+    "1790923260552",
+    "1790928622298",
+    "1790928658414",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13250,7 +13246,6 @@
     "1790856290173",
     "1790856429067",
     "1790856497407",
-    "1790856506368",
     "1790856822958",
     "1790856876647",
     "1790857324615",
@@ -13342,7 +13337,6 @@
     "1790874180090",
     "1790874430546",
     "1790874540147",
-    "1790874840078",
     "1790874900553",
     "1790876400062",
     "1790876548158",
@@ -13353,10 +13347,10 @@
     "1790878935590",
     "1790878980351",
     "1790879040570",
-    "1790879280977",
     "1790879520713",
     "1790879658279",
     "1790879880957",
+    "1790879940095",
     "1790880120567",
     "1790880900095",
     "1790880900582",
@@ -13373,9 +13367,8 @@
     "1790883753384",
     "1790885044495",
     "1790885165500",
-    "1790885643908",
-    "1790885700354",
     "1790885700765",
+    "1790886015908",
     "1790886600100",
     "1790888400056",
     "1790888654613",
@@ -13393,7 +13386,6 @@
     "1790899200409",
     "1790899380740",
     "1790901000843",
-    "1790901033929",
     "1790901042001",
     "1790901045561",
     "1790902261347",
@@ -13413,7 +13405,7 @@
     "1790910423686",
     "1790910750229",
     "1790911284457",
-    "1790911289408",
+    "1790911289547",
     "1790911500124",
     "1790911801602",
     "1790911835735",
@@ -13434,6 +13426,7 @@
     "1790915580180",
     "1790915971082",
     "1790916251526",
+    "1790916455662",
     "1790916660413",
     "1790916683861",
     "1790917011872",
@@ -13448,10 +13441,11 @@
     "1790920071971",
     "1790920138514",
     "1790920323052",
+    "1790920486079",
     "1790920561536",
     "1790920779632",
     "1790920971858",
-    "1790920996076",
+    "1790920996633",
     "1790921017229",
     "1790922062947",
     "1790922291704",
@@ -13459,7 +13453,8 @@
     "1790922707804",
     "1790922838152",
     "1790922900743",
-    "1790923260552",
+    "1790923260034",
+    "1790923366469",
     "1790923369421",
     "1790923500711",
     "1790923500797",
@@ -13478,8 +13473,12 @@
     "1790927436175",
     "1790927868030",
     "1790928360456",
-    "1790928622298",
-    "1790928658414",
+    "1790928540156",
+    "1790928622709",
+    "1790928658103",
+    "1790928739020",
+    "1790928765775",
+    "1790929231615",
     "2317509",
     "2317615",
     "2317714",
@@ -13488,8 +13487,8 @@
     "2317906",
     "2317976"
   ],
-  "last_digest_hour": "2026-10-02T13",
-  "last_success": "2026-10-02T08:16:48.258457+00:00",
+  "last_digest_hour": "2026-10-02T14",
+  "last_success": "2026-10-02T08:32:06.356986+00:00",
   "national": {
     "alerted": [
       {
@@ -17818,12 +17817,11 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
-        "IRDAI": "2026-10-02T08:20:40.798980+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       }
     },
-    "last_run": "2026-10-02T08:20:41.703396+00:00",
+    "last_run": "2026-10-02T08:33:54.220416+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20268,11 +20266,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "DGFT": {
-        "count": 44,
-        "until": "2026-10-02T08:32:57.048951+00:00"
-      },
-      "IRDAI": {
-        "count": 1
+        "count": 45,
+        "until": "2026-10-02T14:32:57.444840+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -20303,26 +20298,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Zoho launches Arattai-for-Business messaging app for healthcare and education",
-      "post": {
-        "created_at": "2026-10-02T06:41:00+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1790923260552",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Zoho launches Arattai-for-Business app; offers free messaging for healthcare, education",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcGRJblVMdF9oS0tJZXptb3RTeFRWWlhFdjNuRFlBOXBobWFGM3F6MVRsMnZIOW9FTmlkWmF0a0J4S1FTOXc4V1dPbm1YQ012SmRILW5DYXFjbFptQlhzOVZXazJVOVVuSE9LaTNRMWVLMzdoNXk0YmZtOWlqZjE5Ti0yMEZrTXE3RzB3RHhxU0FSLVFmT1FWand5OGkxeC1HN2h2bHlpbm1jWVF0Y01CYUJaUmJ2R25GaTRFdFBoTTRJZVdoNU5lTmotdXB4NEJ6SGdXbUEtWVJnbFpYMDVPalBXbmJMVUd6VmhNOXBJYVE3ZkxHUEUtM3prWWhWRWFDN3fSAYICQVVfeXFMTXBkSW5VTHRfaEtLSWV6bW90U3hUVlpYRXYzbkRZQTlwaG1hRjNxejFUbDJ2SDlvRU5pZFphdGtCeEtRUzl3OFdXT25tWENNdkpkSC1uQ2FxY2xabUJYczlWV2syVTlVbkhPS2kzUTFlSzM3aDV5NGJmbTlpamYxOU4tMjBGa01xN0cwd0R4cVNBUi1RZk9RVmp3eThpMXgtRzdodmx5aW5tY1lRdGNNQmFCWlJidkduRmk0RXRQaE00SWVXaDVOZU5qLXVweDRCekhnV21BLVlSZ2xaWDA1T2pQV25iTFVHelZoTTlwSWFRN2ZMR1BFLTN6a1loVkVhQzd3?oc=5"
-      },
-      "queued_at": "2026-10-02T08:16:48.202545+00:00",
-      "score": 7.0,
-      "why": "Major product launch by an Indian software major targeting business verticals."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -21362,16 +21338,16 @@
     "mistral ai": 1790611079525,
     "naukri": 1790833182849,
     "news: big tech platforms": 1790928658414,
-    "news: consumer internet india": 1790923500797,
+    "news: consumer internet india": 1790929231615,
     "news: global ai": 1790925395274,
     "news: global chips": 1790927868030,
     "news: global it services": 1790920996633,
-    "news: india ai deeptech": 1790928622298,
+    "news: india ai deeptech": 1790928622709,
     "news: india edtech gaming": 1790917694427,
     "news: india fintech": 1790911801602,
     "news: india semiconductors": 1790908315920,
     "news: india tech policy": 1790913720128,
-    "news: india telecom": 1790888865606,
+    "news: india telecom": 1790928739020,
     "news: indian it majors": 1790927436175,
     "news: indian it midcaps": 1790922838152,
     "news: pib releases": 1790159940641,
@@ -21422,7 +21398,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-02T08:16:48.592245+00:00",
+    "last_server_run": "2026-10-02T08:32:06.629652+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-02T08:18:07.410197+00:00",
