@@ -7492,11 +7492,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790257002743",
-    "1790262888625",
-    "1790263147473",
-    "1790245800526",
-    "1790245920083",
     "1790253137043",
     "1790254336248",
     "1790259400374",
@@ -11994,7 +11989,6 @@
     "1790865918353",
     "1790867520630",
     "1790920996076",
-    "1790923366469",
     "1790932479632",
     "1790604094512",
     "1790611200852",
@@ -12012,7 +12006,6 @@
     "1790866725261",
     "1790866740077",
     "1790872183219",
-    "1790874840078",
     "1790876736183",
     "1790878073341",
     "1790923369421",
@@ -12026,6 +12019,9 @@
     "1790942411938",
     "1790944093270",
     "1790950723307",
+    "1790908909552",
+    "1790933126927",
+    "1790952011503",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13280,6 +13276,7 @@
     "1790867699856",
     "1790867798781",
     "1790867909934",
+    "1790868097320",
     "1790868534530",
     "1790868633623",
     "1790869189585",
@@ -13306,6 +13303,7 @@
     "1790874000439",
     "1790874430546",
     "1790874540147",
+    "1790874840078",
     "1790876548158",
     "1790877055612",
     "1790877406146",
@@ -13345,7 +13343,6 @@
     "1790904600917",
     "1790905855414",
     "1790908433983",
-    "1790908909552",
     "1790910000953",
     "1790910423342",
     "1790910750512",
@@ -13383,6 +13380,7 @@
     "1790921903287",
     "1790922838152",
     "1790923260552",
+    "1790923366469",
     "1790923656240",
     "1790923740987",
     "1790923924797",
@@ -13417,7 +13415,6 @@
     "1790931783240",
     "1790932183396",
     "1790932402974",
-    "1790933126927",
     "1790933217828",
     "1790933780010",
     "1790933830370",
@@ -13452,6 +13449,7 @@
     "1790944093798",
     "1790944331836",
     "1790944745758",
+    "1790945160373",
     "1790945520447",
     "1790945999567",
     "1790946039935",
@@ -13475,12 +13473,14 @@
     "1790950156147",
     "1790950675118",
     "1790950723674",
+    "1790951280479",
     "1790951388476",
     "1790951453429",
     "1790951520721",
-    "1790952011503",
+    "1790952480791",
     "1790952959383",
     "1790953200914",
+    "1790953813162",
     "2317509",
     "2317615",
     "2317714",
@@ -13494,7 +13494,7 @@
     "2318419"
   ],
   "last_digest_hour": "2026-10-02T20",
-  "last_success": "2026-10-02T15:02:37.313486+00:00",
+  "last_success": "2026-10-02T15:16:49.256149+00:00",
   "national": {
     "alerted": [
       {
@@ -17822,12 +17822,13 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "CERT-In": "2026-10-02T15:23:34.093039+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       }
     },
-    "last_run": "2026-10-02T15:06:29.476722+00:00",
+    "last_run": "2026-10-02T15:23:35.040825+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19913,6 +19914,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-homage-to-former-prime-minister-lal-bahadur-shastri-on-his-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-harshita-tomar-and-shital-verma-on-winning-bronze-in-womens-skiff-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ankita-bhakat-kumkum-anil-mohod-and-kirti-on-historic-gold-in-womens-recurve-team-event-at-asian-games",
+      "certin:CIAD-2026-0044",
+      "certin:CIAD-2026-0045",
       "cci-order:1289",
       "cci-order:1284",
       "cci-pr:media-gallery|695",
@@ -19983,8 +19986,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
-      "certin:CIAD-2026-0044",
-      "certin:CIAD-2026-0045",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-11-years-of-inclusive-growth-and-national-empowerment",
@@ -20315,12 +20316,16 @@
       "pib:2318371",
       "pib:2318389",
       "pib:2318419",
-      "pib:2318413"
+      "pib:2318413",
+      "pib:2318441"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "CERT-In": {
+        "count": 1
       },
       "DGFT": {
         "count": 46,
@@ -21404,7 +21409,7 @@
     "mistral ai": 1790611079525,
     "naukri": 1790833182849,
     "news: big tech platforms": 1790952959383,
-    "news: consumer internet india": 1790951453429,
+    "news: consumer internet india": 1790952480791,
     "news: global ai": 1790950156147,
     "news: global chips": 1790950675118,
     "news: global it services": 1790943732915,
@@ -21412,8 +21417,8 @@
     "news: india edtech gaming": 1790917694427,
     "news: india fintech": 1790948247061,
     "news: india semiconductors": 1790947912287,
-    "news: india tech policy": 1790942863492,
-    "news: india telecom": 1790949384975,
+    "news: india tech policy": 1790945160373,
+    "news: india telecom": 1790953813162,
     "news: indian it majors": 1790950723674,
     "news: indian it midcaps": 1790937321830,
     "news: pib releases": 1790159940641,
@@ -21464,7 +21469,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-02T15:02:37.654266+00:00",
+    "last_server_run": "2026-10-02T15:16:49.536462+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-02T15:03:56.059452+00:00",
