@@ -7495,11 +7495,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790216264214",
-    "1790218923314",
-    "1790223485189",
-    "1790224678757",
-    "1790155222979",
     "1790221020787",
     "1790225612252",
     "1790227151980",
@@ -11959,7 +11954,6 @@
     "1790885643908",
     "1790907975499",
     "1790909147406",
-    "1790911289408",
     "1790827408530",
     "1790827473547",
     "1790827691158",
@@ -11990,10 +11984,8 @@
     "1790911801602",
     "1790913514959",
     "1790829420215",
-    "1790831746943",
     "1790854856192",
     "1790855310763",
-    "1790864072845",
     "1790872147098",
     "1790879389481",
     "1790891400376",
@@ -12001,6 +11993,13 @@
     "1790910423342",
     "1790913668421",
     "1790913739148",
+    "1790840108999",
+    "1790848800406",
+    "1790850600947",
+    "1790865590175",
+    "1790866793819",
+    "1790879242567",
+    "1790912295672",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13228,6 +13227,7 @@
     "1790831015727",
     "1790831533525",
     "1790831602758",
+    "1790831746943",
     "1790831964532",
     "1790832600082",
     "1790833182849",
@@ -13249,7 +13249,6 @@
     "1790838560677",
     "1790839544172",
     "1790839719349",
-    "1790840108999",
     "1790840454026",
     "1790840551455",
     "1790840845676",
@@ -13275,7 +13274,7 @@
     "1790848562260",
     "1790848667781",
     "1790848800118",
-    "1790848800406",
+    "1790849160376",
     "1790849203905",
     "1790849250631",
     "1790849295352",
@@ -13287,7 +13286,6 @@
     "1790850294839",
     "1790850457919",
     "1790850457954",
-    "1790850600947",
     "1790850649665",
     "1790850780077",
     "1790851337434",
@@ -13343,11 +13341,11 @@
     "1790863047515",
     "1790863233825",
     "1790863504298",
+    "1790864072845",
     "1790864091926",
     "1790864164257",
     "1790864391320",
     "1790865353605",
-    "1790865590175",
     "1790865690868",
     "1790866380668",
     "1790866440139",
@@ -13355,7 +13353,6 @@
     "1790866620130",
     "1790866700586",
     "1790866725261",
-    "1790866793819",
     "1790866800749",
     "1790866865760",
     "1790866907185",
@@ -13405,7 +13402,6 @@
     "1790878482997",
     "1790878935590",
     "1790879040570",
-    "1790879242567",
     "1790879280977",
     "1790879323381",
     "1790879520713",
@@ -13474,10 +13470,11 @@
     "1790910750512",
     "1790911156645",
     "1790911284457",
+    "1790911289408",
     "1790911500846",
     "1790911835735",
     "1790912229871",
-    "1790912295672",
+    "1790912304672",
     "1790913463218",
     "1790913633421",
     "1790913699545",
@@ -13487,7 +13484,10 @@
     "1790914426387",
     "1790914712359",
     "1790914830538",
+    "1790915580180",
     "1790915971082",
+    "1790916251436",
+    "1790917011872",
     "2317509",
     "2317615",
     "2317714",
@@ -13497,7 +13497,7 @@
     "2317976"
   ],
   "last_digest_hour": "2026-10-02T10",
-  "last_success": "2026-10-02T04:46:45.643765+00:00",
+  "last_success": "2026-10-02T05:02:09.084630+00:00",
   "national": {
     "alerted": [
       {
@@ -17780,11 +17780,12 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
+        "IRDAI": "2026-10-02T05:05:19.279785+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       }
     },
-    "last_run": "2026-10-02T04:49:38.936522+00:00",
+    "last_run": "2026-10-02T05:05:20.207775+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -19851,8 +19852,6 @@
       "quake:ncs:NmJ1R1hiNTBjNU4rK0lkYTgvYkV2QT09",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-centenary-celebrations-of-upsc",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-lauds-captain-smit-machchhars-courage-while-addressing-upsc-centenary-celebrations",
-      "certin:CIAD-2026-0044",
-      "certin:CIAD-2026-0045",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -19873,6 +19872,8 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
+      "certin:CIAD-2026-0044",
+      "certin:CIAD-2026-0045",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-11-years-of-inclusive-growth-and-national-empowerment",
@@ -20199,7 +20200,8 @@
       "pib:2318027",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-mahatma-gandhis-ideals-of-truth-non-violence-compassion-and-service",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tributes-to-mahatma-gandhi-on-his-jayanti-calls-for-promoting-swadeshi",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-homage-to-former-prime-minister-lal-bahadur-shastri-on-his-birth-anniversary"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-homage-to-former-prime-minister-lal-bahadur-shastri-on-his-birth-anniversary",
+      "pib:2318047"
     ],
     "source_failures": {
       "CBI": {
@@ -20209,6 +20211,9 @@
       "DGFT": {
         "count": 44,
         "until": "2026-10-02T08:32:57.048951+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -20239,7 +20244,44 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Zoho builds cloud infrastructure and offers Catalyst free to students",
+      "post": {
+        "created_at": "2026-10-02T04:33:00+00:00",
+        "handle": "News: India AI deeptech",
+        "id": "1790915580180",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "Sridhar Vembu says Zoho built its own cloud infrastructure and will offer Catalyst free to students",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbTFLZGZFbFlIWlEyWjgwMGloaHFmQW5NdnFjVGpoTEg3ME91S1Qxd1NsTnNZODVLSWVLQ1BJUFRJcE1OdWNjZmZ5eG14ZWYxZ1pHcWFNcnVQb1BkZnM2RUV0bUh4dmhHQjlVWUpzVUM3ck1JUElLUEg4UUM0WXY0YjlJQWI4MXVLRkdsV1lrWGNaZkN1TVZ5a1luS0Vqa2ZnVWdNVDlvZHpmNkNXRDF4TWZudTI0bGl1Qy16NDNBODJfc1J1aHd3ZXdiSzFvZVdQNDExSmRKNEhIRzhCRko0RE9IZXliR293dDdpZ2l6VnVrRVItYUVCNVJ3a1NxSG9wdUJZTFhUZ9IBjAJBVV95cUxPWWFsSGpTbUxmdzNOd01Ib1VpaXRpbHpKYlV2aVQ0TkZNLTRLbGZjdmVfVVhMaWpMMkJreF9HWUJ6QWxuY09yX2tfMUM4SjZMY3JudkY3Q19YU1I3YkM2SWpYVUZIbUZnMHotb21ZNFJzSmhHZDJBVDk0MmM4MVk3bjJPRXV0SUVYTVNBeHNocWxIb2lhQlA2dHFWdnFjaGR6a2VzRm5YTjJlRGttNEllcHkzbGpjOV9LZzBfLUdUUE1wdlNLUGlMZGRFc08tNW1ULXR1dVVtdGR4QmVPOTJtNmU1NkVlWFY5Z1FQdjlqQjhUS3FQa255aTl4ajVqQjY4WHE4d2hoWm9sRVRU?oc=5"
+      },
+      "queued_at": "2026-10-02T05:02:09.030175+00:00",
+      "score": 7.0,
+      "why": "Major Indian tech founder statement and developer platform initiative."
+    },
+    {
+      "headline": "Accenture plans M&A shopping spree with $5 billion for AI",
+      "post": {
+        "created_at": "2026-10-02T04:44:11+00:00",
+        "handle": "News: Global IT services",
+        "id": "1790916251436",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "NDTV Profit",
+        "reposts": 0,
+        "text": "Accenture Is Planning To Go Shopping Again \u2014 With $5 Billion Behind Its AI Bet",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzk3dFRlOVVsdkJzSEhwVGJHcU5XdTZDcVY4SzN4LVJ4cmpBX0s2cVRPUE85b0JWSV9tOW5ZOUpjb0twMFE5T2pQVE5YTGRjbDJKQlhzZ0x4YlZCV3hRb29jcnU3U3ViZmtycE9vNmZiYjg0UU9LcmdXNmlLa3NKVklsTFBUVTVyR1RYWFhnNWxHUDJySUFBYmNCN0lVYXZmaDIzdmRVS3JvcktSa3dxQkZ2RUpUYkl0UkkwTU8xaGpacUZqTnAyODhJMlhzbmI4Q2wySVppT2tQVjBOQ20tNGJHWXQyMU9nTE1XQ3J0VExuendaYS1QZ2ZLcw?oc=5"
+      },
+      "queued_at": "2026-10-02T05:02:09.030175+00:00",
+      "score": 7.0,
+      "why": "Global IT services major outlines significant acquisition and investment capital."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -21282,14 +21324,14 @@
     "news: consumer internet india": 1790911500846,
     "news: global ai": 1790915971082,
     "news: global chips": 1790914712359,
-    "news: global it services": 1790914830538,
-    "news: india ai deeptech": 1790902607258,
+    "news: global it services": 1790916251436,
+    "news: india ai deeptech": 1790915580180,
     "news: india edtech gaming": 1790843520447,
     "news: india fintech": 1790911801602,
     "news: india semiconductors": 1790906471378,
     "news: india tech policy": 1790901000843,
     "news: india telecom": 1790888865606,
-    "news: indian it majors": 1790914830538,
+    "news: indian it majors": 1790917011872,
     "news: indian it midcaps": 1790888932278,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1790908433934,
@@ -21339,7 +21381,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-02T04:46:46.003907+00:00",
+    "last_server_run": "2026-10-02T05:02:09.431955+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-02T04:03:38.198811+00:00",
