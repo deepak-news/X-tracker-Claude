@@ -7500,13 +7500,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790319196831",
-    "1790319206251",
-    "1790319235962",
-    "1790312567205",
-    "1790314547402",
-    "1790314824118",
-    "1790319150587",
     "1790313142661",
     "1790314526322",
     "1790317900461",
@@ -12017,7 +12010,6 @@
     "1790914680983",
     "1790914830122",
     "1790920996076",
-    "1790938801484",
     "1790970930507",
     "1790991160287",
     "1790996643110",
@@ -12049,9 +12041,7 @@
     "1790921851990",
     "1790922036176",
     "1790923369421",
-    "1790960487646",
     "1791001809660",
-    "1791004570181",
     "1790922838152",
     "1790923260034",
     "1790932183396",
@@ -12060,6 +12050,17 @@
     "1791001896071",
     "1791004499079",
     "1791006183448",
+    "1790923656240",
+    "1790923740987",
+    "1790923924797",
+    "1790923953370",
+    "1790962153955",
+    "1790977155732",
+    "1790990866881",
+    "1790992487415",
+    "1790999962122",
+    "1791004570441",
+    "1791006264177",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13319,10 +13320,6 @@
     "1790897400969",
     "1790898253555",
     "1790899200176",
-    "1790923656240",
-    "1790923740987",
-    "1790923924797",
-    "1790923953370",
     "1790925329768",
     "1790925395274",
     "1790925600240",
@@ -13356,6 +13353,7 @@
     "1790937321101",
     "1790938260721",
     "1790938765958",
+    "1790938801484",
     "1790939726996",
     "1790940869675",
     "1790942514142",
@@ -13396,12 +13394,13 @@
     "1790960040841",
     "1790960160724",
     "1790960458455",
+    "1790960487646",
     "1790960635743",
     "1790961030740",
     "1790961179121",
     "1790961393966",
     "1790961810431",
-    "1790962153955",
+    "1790962153526",
     "1790962411171",
     "1790962740173",
     "1790962740879",
@@ -13429,7 +13428,6 @@
     "1790975317418",
     "1790975640878",
     "1790976300630",
-    "1790977155732",
     "1790977506519",
     "1790978221273",
     "1790978488407",
@@ -13441,9 +13439,7 @@
     "1790987515056",
     "1790988339496",
     "1790990864721",
-    "1790990866881",
     "1790992013260",
-    "1790992487415",
     "1790992507588",
     "1790993580993",
     "1790994210989",
@@ -13463,7 +13459,7 @@
     "1790999112110",
     "1790999208533",
     "1790999362788",
-    "1790999962122",
+    "1790999962011",
     "1791000000128",
     "1791001809551",
     "1791001896518",
@@ -13476,19 +13472,23 @@
     "1791003611253",
     "1791003900434",
     "1791004499504",
-    "1791004570441",
+    "1791004570181",
     "1791004987768",
     "1791005049744",
     "1791005212818",
     "1791005477139",
     "1791005940043",
     "1791006183200",
-    "1791006264177",
+    "1791006264359",
     "1791007208883",
+    "1791007240507",
     "1791007483111",
     "1791008293147",
     "1791008321694",
     "1791008760457",
+    "1791009677008",
+    "1791009780194",
+    "1791010015677",
     "2317509",
     "2317615",
     "2317714",
@@ -13502,7 +13502,7 @@
     "2318419"
   ],
   "last_digest_hour": "2026-10-03T12",
-  "last_success": "2026-10-03T06:47:06.907211+00:00",
+  "last_success": "2026-10-03T07:02:18.223071+00:00",
   "national": {
     "alerted": [
       {
@@ -17322,6 +17322,29 @@
           "usgs",
           "vilyuchinsk"
         ]
+      },
+      {
+        "at": "2026-10-03T07:03:50.060418+00:00",
+        "handle": "PIB Ministry of Home Affairs",
+        "headline": "India secures deportation of international drug kingpin Navpreet Singh from Turkey",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2318575",
+        "words": [
+          "achieving",
+          "affairs",
+          "agencies",
+          "all",
+          "amit",
+          "congratulates",
+          "deportation",
+          "hardened",
+          "historic",
+          "home",
+          "kingpin",
+          "milestone",
+          "minister",
+          "ministry"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -17909,13 +17932,12 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
-        "IRDAI": "2026-10-03T06:51:21.422121+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-02T19:21:47.807361+00:00"
     },
-    "last_run": "2026-10-03T06:51:21.422800+00:00",
+    "last_run": "2026-10-03T07:03:50.061459+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20089,6 +20111,8 @@
       "gazette:CG-DL-E-02102026-276719",
       "gazette:CG-UP-E-02102026-276720",
       "gazette:CG-DL-E-02102026-276721",
+      "gazette:CG-OR-E-02102026-276722",
+      "gazette:CG-DL-E-02102026-276723",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -20109,8 +20133,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
-      "gazette:CG-OR-E-02102026-276722",
-      "gazette:CG-DL-E-02102026-276723",
       "certin:CIAD-2026-0044",
       "certin:CIAD-2026-0045",
       "page:https://internal.imd.gov.in/press_release/20260831_pr_5274.pdf",
@@ -20433,7 +20455,8 @@
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/%e0%b0%b9%e0%b0%b0%e0%b1%87%e0%b0%95%e0%b1%83%e0%b0%b7%e0%b1%8d%e0%b0%a3-%e0%b0%ab%e0%b1%8c%e0%b0%82%e0%b0%a1%e0%b1%87%e0%b0%b7%e0%b0%a8%e0%b1%8d-%e0%b0%aa%e0%b1%8d%e0%b0%b0%e0%b0%a4%e0%b0%bf%e0%b0%a8/",
       "gazette:CG-DL-E-03102026-276748",
       "pib:2318564",
-      "gazette:CG-DL-E-03102026-276749"
+      "gazette:CG-DL-E-03102026-276749",
+      "pib:2318575"
     ],
     "source_failures": {
       "CBI": {
@@ -20443,9 +20466,6 @@
       "DGFT": {
         "count": 48,
         "until": "2026-10-03T08:47:31.180494+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -20476,7 +20496,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Anthropic plans formal IPO marketing starting week of November 9",
+      "post": {
+        "created_at": "2026-10-03T06:00:40+00:00",
+        "handle": "News: Global AI",
+        "id": "1791007240507",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "ET BrandEquity",
+        "reposts": 0,
+        "text": "Anthropic Could Start Formal Marketing For Its IPO As Soon As The Week Of November 9",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnc4eXRQSFNMdldrTVBBMENnMFMtYUhORmdRWVBMU0FPTjBaVVF6ZUlUU3lDZ19hZHVwQlhqQzk5NV9qLVJVb2wzekVLVHhHZ3hIZS1rbXQ3UGNQeVZHM1JPVENBaDNEN2lwdnM2OVNQdjdjT0lCenNSeEZGM0tIUE5Fb21CbXRzSmVEdmdfTHA3bW1hQ1hUQy1XRXhkTE04Q1lMTXNiRHgwVkNETVEzaVhaWk1pR0FsQWNLbzVQaDZTRkpJWjV3aEJpeE9qYW1WZjZvMTMweU8zQzl3NEl6RDBPZTR1Ym5WYWJTWXduUmtGSU5Y?oc=5"
+      },
+      "queued_at": "2026-10-03T07:02:18.168876+00:00",
+      "score": 8.0,
+      "why": "Major AI company IPO timeline update counts as a significant wire story."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -21525,8 +21564,8 @@
     "microsoft india": 1790848562260,
     "mistral ai": 1790611079525,
     "naukri": 1790833182849,
-    "news: big tech platforms": 1791008293147,
-    "news: consumer internet india": 1791007208883,
+    "news: big tech platforms": 1791010015677,
+    "news: consumer internet india": 1791009677008,
     "news: global ai": 1791008760457,
     "news: global chips": 1791007483111,
     "news: global it services": 1791000000128,
@@ -21587,7 +21626,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-03T06:47:07.239286+00:00",
+    "last_server_run": "2026-10-03T07:02:18.520523+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-03T06:48:18.208178+00:00",
