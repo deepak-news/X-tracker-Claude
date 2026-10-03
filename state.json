@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-25T07:32:02.288085+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Supreme Court seeks MeitY action-taken report on CSAM",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42TnJ2aG1CYk9tYlJaTG5YN2RuQUJ6TlVUQWR4SGRvS3NNeWtkZWxxcVY4YnVhaHpIUEgtY3BCVzFHWHk1djhYeThLTDhoaGg5NUxmN29UQUNMbkpwMUVGMzlqUm5HQkFLQ2JRZUJ1c29wWExJUEdTY0dKWQ?oc=5",
-      "words": [
-        "action",
-        "court",
-        "csam",
-        "meity",
-        "report",
-        "seeks",
-        "supreme",
-        "taken"
-      ]
-    },
-    {
-      "at": "2026-09-25T07:32:02.288085+00:00",
       "handle": "News: India fintech",
       "headline": "FM Sitharaman explains destination of UPI MDR charges",
       "tier": 0,
@@ -7499,13 +7482,28 @@
         "syst",
         "workforce"
       ]
+    },
+    {
+      "at": "2026-10-03T13:32:02.594585+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI safety lead quits and demands nuclear-level safeguards",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMjVnaDVZZC05NnowMXJkVFVFX21rOWR0OXNFTlJlVTZWYmx2cklDY245ZkNpb0JRRFJyRzJ0VWVHM3RpbTFpN3dha2MtVUQzY3ZUVXlQV3JVWjVBXzU5emoxQm1QUVp6VnBwdXYyZmZpdHpNbFJnSDlpcnBmUE80dmQ3OXNsbmtUamVVZmtINnVzc2ljVVFBU0pZTDVSdU5pdzlVOVFUcXJ1dFl5ME9NdnNJUnc?oc=5",
+      "words": [
+        "calls",
+        "employee",
+        "level",
+        "nuclear",
+        "openai",
+        "quits",
+        "safeguards",
+        "safety"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790327400146",
-    "1790330722918",
     "1790331349501",
     "1790332547597",
     "1790334840595",
@@ -12078,9 +12076,14 @@
     "1790990864721",
     "1790996572338",
     "1791019642015",
-    "1791025200641",
-    "1791027505022",
     "1791028164758",
+    "1790947912287",
+    "1790975640878",
+    "1790997556723",
+    "1791005178549",
+    "1791005519203",
+    "1791015937261",
+    "1791027505148",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13345,7 +13348,6 @@
     "1790939726996",
     "1790942514142",
     "1790946039935",
-    "1790947912287",
     "1790949384975",
     "1790949717507",
     "1790949717576",
@@ -13395,7 +13397,6 @@
     "1790971800712",
     "1790971858658",
     "1790974986785",
-    "1790975640878",
     "1790976300630",
     "1790977506519",
     "1790977655872",
@@ -13413,7 +13414,6 @@
     "1790996452352",
     "1790996865538",
     "1790997480784",
-    "1790997556723",
     "1790999362788",
     "1790999962011",
     "1791000000128",
@@ -13431,9 +13431,7 @@
     "1791004614569",
     "1791004987768",
     "1791005049988",
-    "1791005178549",
     "1791005477139",
-    "1791005519203",
     "1791006000043",
     "1791006183200",
     "1791006264359",
@@ -13461,7 +13459,6 @@
     "1791015207844",
     "1791015318628",
     "1791015423963",
-    "1791015937261",
     "1791016806255",
     "1791018198139",
     "1791018566259",
@@ -13481,17 +13478,20 @@
     "1791024219860",
     "1791024240770",
     "1791024540036",
+    "1791025200641",
     "1791025790058",
     "1791025956952",
     "1791026100926",
     "1791026350282",
     "1791027180917",
-    "1791027505148",
+    "1791027505022",
     "1791027863979",
     "1791028555818",
     "1791028801674",
     "1791030028586",
     "1791031500292",
+    "1791033222521",
+    "1791033720950",
     "2317509",
     "2317615",
     "2317714",
@@ -13505,8 +13505,8 @@
     "2318419",
     "2318656"
   ],
-  "last_digest_hour": "2026-10-03T18",
-  "last_success": "2026-10-03T13:16:47.912936+00:00",
+  "last_digest_hour": "2026-10-03T19",
+  "last_success": "2026-10-03T13:32:02.650440+00:00",
   "national": {
     "alerted": [
       {
@@ -17980,7 +17980,7 @@
       },
       "warned": "2026-10-02T19:21:47.807361+00:00"
     },
-    "last_run": "2026-10-03T13:18:07.022197+00:00",
+    "last_run": "2026-10-03T13:34:29.544592+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -21565,7 +21565,7 @@
       "meeting:LS|22534",
       "meeting:RS|2236"
     ],
-    "sent_on": "2026-10-02"
+    "sent_on": "2026-10-03"
   },
   "seen": {
     "airtel": 1790056002703,
@@ -21629,9 +21629,9 @@
     "microsoft india": 1790848562260,
     "mistral ai": 1790611079525,
     "naukri": 1790833182849,
-    "news: big tech platforms": 1791028801674,
+    "news: big tech platforms": 1791033720950,
     "news: consumer internet india": 1791022888759,
-    "news: global ai": 1791024171477,
+    "news: global ai": 1791033222521,
     "news: global chips": 1791030028586,
     "news: global it services": 1791027505148,
     "news: india ai deeptech": 1791027180917,
@@ -21691,17 +21691,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-03T13:16:48.254308+00:00",
+    "last_server_run": "2026-10-03T13:32:02.944974+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-03T11:17:55.416006+00:00",
+        "checked": "2026-10-03T13:33:12.512125+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-03T11:17:47.700025+00:00",
+        "checked": "2026-10-03T13:33:04.868195+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -21777,7 +21777,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-03T11:17:51.672022+00:00",
+        "checked": "2026-10-03T13:33:08.663671+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -21832,10 +21832,10 @@
       "last": {
         "calendar": "2026-10-03T10:02:50.616818+00:00",
         "ls_reports": "2026-10-03T12:47:36.414913+00:00",
-        "rs_committee_press": "2026-10-03T11:17:40.906243+00:00",
-        "rs_press": "2026-10-03T11:17:38.146456+00:00",
-        "rs_reports": "2026-10-03T11:17:35.351171+00:00",
-        "rs_updates": "2026-10-03T11:17:42.796262+00:00"
+        "rs_committee_press": "2026-10-03T13:32:59.399208+00:00",
+        "rs_press": "2026-10-03T13:32:56.313201+00:00",
+        "rs_reports": "2026-10-03T13:32:53.865824+00:00",
+        "rs_updates": "2026-10-03T13:33:01.088491+00:00"
       }
     },
     "scanned": [
