@@ -1,21 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-25T10:46:40.899024+00:00",
-      "handle": "PIB Communications",
-      "headline": "TRAI Launches Digital Connectivity Rating Platform for Networks",
-      "tier": 1,
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2314867",
-      "words": [
-        "connectivity",
-        "digital",
-        "launches",
-        "platform",
-        "rating",
-        "trai"
-      ]
-    },
-    {
       "at": "2026-09-25T11:47:20.116575+00:00",
       "handle": "Razorpay",
       "headline": "EPFO hikes mandatory PF wage ceiling from Rs 15,000 to Rs 25,000",
@@ -7500,14 +7485,30 @@
         "platform",
         "seller"
       ]
+    },
+    {
+      "at": "2026-10-04T12:32:03.570643+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "DMart Q2 business update: Revenue exceeds Rs 16,000 crore",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR3RFcFpReHpZaktVNGU3OThRN1pDZl9uS3FmSl96TWpqZUEtYkk3bXduZmZ4QzNOdWloZU1tSlpud09tZWk1OWJYY2dTR296N0tqODNCdWxENERSbWlBR0I4cUhCcE9rbDdaOXRvamZQN1pTOHNoVC1STzR2bVFwWEVlM2huTkJJYkpzZFlDUVpsSnhfZnVaOFFhRW92U29oWEpYc2otNTZoTlpYN0xKY1F1cld4dlBHdkcxUzB6RmVObmU3SEhJY3NCdWw3WGFCLWtmT3FWdmpldzBqYVVv0gHnAUFVX3lxTE5NTzZOOEFnN21XWnFWRDhsYzA0ZGNxc1pQM0xkS2FTd3BHbVJmMFVTYXYtbXFKbGY1ejRUUkZvckU0RGVRRzlxZDF2NWdBak1iZm9iT2g1ZTV6TkpJS2lISUVPVGpjUzJIclk5MHVrOW96bWRDTjVsRTRYSWVBWE1oQm55cE5IdnpwNi0yQmk5LWcxbDhIaHFJMUNwVV9Yb3M2UHYtdVduS2V6Tkp6bjV2ay0yaG9xZnNfR1hWSUtBUTlVZl8tR1NZSzI1X3QxUUlZM3pYbC1HNUJRWm9hWGwxcmVhaTljaw?oc=5",
+      "words": [
+        "000",
+        "518",
+        "business",
+        "dmart",
+        "established",
+        "exceeds",
+        "operations",
+        "revenue",
+        "stores",
+        "update"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790413745511",
-    "1790417442266",
-    "1790417851355",
     "1790390040376",
     "1790408134422",
     "1790343509363",
@@ -12059,7 +12060,6 @@
     "1791023414008",
     "1791047230007",
     "1791097274317",
-    "1791098060359",
     "1791098291445",
     "1791103445248",
     "1791028164264",
@@ -12088,37 +12088,20 @@
     "1791053580961",
     "1791081408573",
     "1791083712251",
-    "1791093102567",
     "1791095410499",
     "1791100448064",
     "1791105935001",
     "1791109300526",
-    "1791110236961",
-    "1789631212015",
-    "1789631212023",
-    "1789631212072",
-    "1789631212128",
-    "1789631212205",
-    "1789631212275",
-    "1789631212334",
-    "1789631212341",
-    "1789631212388",
-    "1789631212556",
-    "1789631212561",
-    "1789631212568",
-    "1789631212767",
-    "1789631212773",
-    "1789631212786",
-    "1789631212934",
-    "1789631212992",
-    "1789637516540",
-    "1790238736972",
-    "1790599587018",
-    "1790758913523",
-    "1790829100750",
     "1791029196541",
-    "1791094448246",
     "1791112692728",
+    "1791032296930",
+    "1791041320176",
+    "1791083940064",
+    "1791093102031",
+    "1791094448277",
+    "1791098060552",
+    "1791098114665",
+    "1791105600316",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13042,6 +13025,23 @@
     "1789631210995",
     "1789631210996",
     "1789631210999",
+    "1789631212015",
+    "1789631212023",
+    "1789631212072",
+    "1789631212128",
+    "1789631212205",
+    "1789631212275",
+    "1789631212334",
+    "1789631212341",
+    "1789631212388",
+    "1789631212556",
+    "1789631212561",
+    "1789631212568",
+    "1789631212767",
+    "1789631212773",
+    "1789631212786",
+    "1789631212934",
+    "1789631212992",
     "1789631218001",
     "1789631218188",
     "1789631218202",
@@ -13061,6 +13061,7 @@
     "1789631219881",
     "1789631219895",
     "1789631219962",
+    "1789637516540",
     "1789646400569",
     "1789650055203",
     "1789652816738",
@@ -13162,6 +13163,7 @@
     "1790234460996",
     "1790235000477",
     "1790235000631",
+    "1790238736972",
     "1790243188249",
     "1790244000712",
     "1790247600641",
@@ -13201,6 +13203,7 @@
     "1790593026900",
     "1790593200811",
     "1790598974414",
+    "1790599587018",
     "1790600456900",
     "1790601157446",
     "1790611079525",
@@ -13270,6 +13273,7 @@
     "1790750458519",
     "1790750483764",
     "1790755200174",
+    "1790758913523",
     "1790762400868",
     "1790764200992",
     "1790769600216",
@@ -13308,6 +13312,7 @@
     "1790812800322",
     "1790813700948",
     "1790827260993",
+    "1790829100750",
     "1790833182849",
     "1790834363722",
     "1790835962976",
@@ -13372,7 +13377,6 @@
     "1790960458455",
     "1790961393966",
     "1791031500292",
-    "1791032296930",
     "1791034820226",
     "1791035940116",
     "1791036360274",
@@ -13382,7 +13386,6 @@
     "1791039970846",
     "1791040152156",
     "1791040991413",
-    "1791041320176",
     "1791041640080",
     "1791042720727",
     "1791043658212",
@@ -13415,7 +13418,6 @@
     "1791079038977",
     "1791080160088",
     "1791082836428",
-    "1791083940064",
     "1791085057377",
     "1791085466205",
     "1791086179697",
@@ -13428,11 +13430,11 @@
     "1791092506347",
     "1791092605456",
     "1791093048936",
-    "1791093102031",
+    "1791093102567",
     "1791093600317",
     "1791094200070",
     "1791094200542",
-    "1791094448277",
+    "1791094448246",
     "1791094520858",
     "1791094769136",
     "1791094832830",
@@ -13441,8 +13443,7 @@
     "1791096240312",
     "1791097224688",
     "1791097801311",
-    "1791098060552",
-    "1791098114665",
+    "1791098060359",
     "1791098479046",
     "1791098531045",
     "1791098841855",
@@ -13456,6 +13457,7 @@
     "1791100693153",
     "1791100698489",
     "1791100705188",
+    "1791101469314",
     "1791102120646",
     "1791102166591",
     "1791103275706",
@@ -13467,7 +13469,6 @@
     "1791105190198",
     "1791105505189",
     "1791105585179",
-    "1791105600316",
     "1791105935967",
     "1791106308683",
     "1791106357432",
@@ -13481,6 +13482,7 @@
     "1791109800286",
     "1791109827511",
     "1791110214989",
+    "1791110236961",
     "1791111424413",
     "1791111608168",
     "1791112474262",
@@ -13491,7 +13493,9 @@
     "1791113820890",
     "1791114754095",
     "1791115103461",
+    "1791115200174",
     "1791115200834",
+    "1791116045668",
     "2317509",
     "2317615",
     "2317714",
@@ -13506,8 +13510,8 @@
     "2318656",
     "2318893"
   ],
-  "last_digest_hour": "2026-10-04T17",
-  "last_success": "2026-10-04T12:17:12.492176+00:00",
+  "last_digest_hour": "2026-10-04T18",
+  "last_success": "2026-10-04T12:32:03.623946+00:00",
   "national": {
     "alerted": [
       {
@@ -18018,13 +18022,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "CERT-In": "2026-10-04T12:37:24.410215+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-03T19:37:15.846449+00:00"
     },
-    "last_run": "2026-10-04T12:21:32.548427+00:00",
+    "last_run": "2026-10-04T12:37:25.551873+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20613,12 +20618,16 @@
       "pib:2318882",
       "pib:2318888",
       "pib:2318893",
-      "pib:2318899"
+      "pib:2318899",
+      "pib:2318908"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "CERT-In": {
+        "count": 1
       },
       "DGFT": {
         "count": 53,
@@ -20653,26 +20662,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "DMart Q2 business update: Revenue exceeds Rs 16,000 crore",
-      "post": {
-        "created_at": "2026-10-04T11:58:23+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1791115103461",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV Profit",
-        "reposts": 0,
-        "text": "DMart Q2 Business Update: Revenue From Operations Exceeds Rs 16,000 Crore; Established Up To 518 Stores",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR3RFcFpReHpZaktVNGU3OThRN1pDZl9uS3FmSl96TWpqZUEtYkk3bXduZmZ4QzNOdWloZU1tSlpud09tZWk1OWJYY2dTR296N0tqODNCdWxENERSbWlBR0I4cUhCcE9rbDdaOXRvamZQN1pTOHNoVC1STzR2bVFwWEVlM2huTkJJYkpzZFlDUVpsSnhfZnVaOFFhRW92U29oWEpYc2otNTZoTlpYN0xKY1F1cld4dlBHdkcxUzB6RmVObmU3SEhJY3NCdWw3WGFCLWtmT3FWdmpldzBqYVVv0gHnAUFVX3lxTE5NTzZOOEFnN21XWnFWRDhsYzA0ZGNxc1pQM0xkS2FTd3BHbVJmMFVTYXYtbXFKbGY1ejRUUkZvckU0RGVRRzlxZDF2NWdBak1iZm9iT2g1ZTV6TkpJS2lISUVPVGpjUzJIclk5MHVrOW96bWRDTjVsRTRYSWVBWE1oQm55cE5IdnpwNi0yQmk5LWcxbDhIaHFJMUNwVV9Yb3M2UHYtdVduS2V6Tkp6bjV2ay0yaG9xZnNfR1hWSUtBUTlVZl8tR1NZSzI1X3QxUUlZM3pYbC1HNUJRWm9hWGwxcmVhaTljaw?oc=5"
-      },
-      "queued_at": "2026-10-04T12:17:12.442584+00:00",
-      "score": 8.0,
-      "why": "Quarterly revenue and business numbers from a major retail and e-commerce player constitute a filable wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -21732,7 +21722,7 @@
     "news: india semiconductors": 1791109300526,
     "news: india tech policy": 1791094832830,
     "news: india telecom": 1791113820889,
-    "news: indian it majors": 1791115103461,
+    "news: indian it majors": 1791116045668,
     "news: indian it midcaps": 1791113781196,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791115200834,
@@ -21763,7 +21753,6 @@
     "down": {
       "BSE": "2026-10-01T19:16:58.192426+00:00",
       "REG DGFT": "2026-10-01T19:16:58.192426+00:00",
-      "Redseer": "2026-10-04T12:17:11.286063+00:00",
       "Samsung India": "2026-10-04T01:32:02.287202+00:00"
     },
     "warned": "2026-10-03T19:46:21.450241+00:00"
@@ -21784,7 +21773,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-04T12:17:12.773762+00:00",
+    "last_server_run": "2026-10-04T12:32:03.971422+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-04T11:19:33.964763+00:00",
