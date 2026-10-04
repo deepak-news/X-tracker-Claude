@@ -7500,7 +7500,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790350140564",
     "1790340180042",
     "1790347309697",
     "1790348230664",
@@ -12105,6 +12104,10 @@
     "1791020170337",
     "1791046046082",
     "1791065289759",
+    "1790987515056",
+    "1790990864375",
+    "1791038706649",
+    "1791055637459",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13379,8 +13382,6 @@
     "1790957700412",
     "1790960458455",
     "1790961393966",
-    "1790987515056",
-    "1790990864375",
     "1790992487415",
     "1790993580993",
     "1790994502402",
@@ -13451,7 +13452,6 @@
     "1791037149848",
     "1791037916607",
     "1791038455213",
-    "1791038706649",
     "1791038838082",
     "1791039158304",
     "1791039970846",
@@ -13481,13 +13481,13 @@
     "1791052725482",
     "1791052889354",
     "1791053580165",
-    "1791055637459",
     "1791056125208",
     "1791057659058",
     "1791058140233",
     "1791058784535",
     "1791061980059",
     "1791062161088",
+    "1791070800774",
     "2317509",
     "2317615",
     "2317714",
@@ -13501,8 +13501,8 @@
     "2318419",
     "2318656"
   ],
-  "last_digest_hour": "2026-10-04T05",
-  "last_success": "2026-10-04T00:16:48.566817+00:00",
+  "last_digest_hour": "2026-10-04T06",
+  "last_success": "2026-10-04T00:32:12.408321+00:00",
   "national": {
     "alerted": [
       {
@@ -17991,12 +17991,13 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
+        "IRDAI": "2026-10-04T00:34:51.050922+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-03T19:37:15.846449+00:00"
     },
-    "last_run": "2026-10-04T00:19:20.581666+00:00",
+    "last_run": "2026-10-04T00:34:51.051656+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20228,8 +20229,6 @@
       "pib:2318742",
       "pib:2318741",
       "pib:2318770",
-      "certin:CIAD-2026-0044",
-      "certin:CIAD-2026-0045",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -20250,6 +20249,8 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
+      "certin:CIAD-2026-0044",
+      "certin:CIAD-2026-0045",
       "page:https://www.mha.gov.in/sites/default/files/Qatar_12072026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/UNNationPolice_16072026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/postconstableheadconstable_01092026.pdf",
@@ -20578,6 +20579,9 @@
       "DGFT": {
         "count": 51,
         "until": "2026-10-04T03:33:00.967396+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -21659,8 +21663,8 @@
     "naukri": 1790833182849,
     "news: big tech platforms": 1791058784605,
     "news: consumer internet india": 1791052725482,
-    "news: global ai": 1791061980626,
-    "news: global chips": 1791045137368,
+    "news: global ai": 1791070800774,
+    "news: global chips": 1791070800774,
     "news: global it services": 1791027505148,
     "news: india ai deeptech": 1791042720727,
     "news: india edtech gaming": 1791028555818,
@@ -21719,7 +21723,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-04T00:16:48.893470+00:00",
+    "last_server_run": "2026-10-04T00:32:12.763362+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-04T00:18:03.199136+00:00",
