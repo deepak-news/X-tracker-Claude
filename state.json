@@ -1,23 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-25T09:32:18.858006+00:00",
-      "handle": "News: India fintech",
-      "headline": "Finance Minister defends UPI MDR decision as completely professional",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdmZrR1prS056UDh4dnlGcVdQcmxvd3lCMXR1X0Q3ZHFlNW9IQ19RakQxZ2ZaZkZtbUJFRlRnajdyX3RLak5KWTVDdVJVbkdaQU05T04wUWRFZ0hQWlFhcXI5UFNyYTJMcmgtYUpmMmpGbkZGSmUxeXhXbUJTN0c0UFN3bUE3eUJaZEJ4LThoMnhPMFNvS2NIejlFUUxTc2hTTC1rOUpLNmY1bVlZOXdWZmhFUWJjSzdJUVNITHZtMUFxMjEySEtlSDVPT3F6Zi0zckg0WHBMUi1KbERwWUHSAeMBQVVfeXFMTkhnc2RiaFlHa3FLXzNCWG8wS19LRmlRaDFLWHVQMU5OX2JUNXpHc1JQN0JOMThYbmJGU0hqbktGY3Vad3lGalhrN3FUeVhja0J2S0ctbFpGQV9OZmtPeTk1RFpGNWlUR0gxY3RDU2VCN3VXY0E0dk8yZmpFMWtqZmxPR1NzUEZCV3pCYWdXLWxhVnlyekxQMGQ0UHJ1NXFMQm85Ynhfd2VTM2JFRW1TdHpPTThTVnA0azM0TkwzbGV0bl9EUVdjcjBKeWc1R0g1MGN0dWhNVWQ0TWpLN0Q4QWkxSFE?oc=5",
-      "words": [
-        "completely",
-        "decision",
-        "external",
-        "mdr",
-        "pressure",
-        "professional",
-        "sitharaman",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-09-25T09:47:30.095337+00:00",
       "handle": "PIB Science and Technology",
       "headline": "TDB-DST signs \u20b9200 cr RDI agreement with Agnikul Cosmos",
@@ -7505,20 +7488,31 @@
         "sam",
         "warns"
       ]
+    },
+    {
+      "at": "2026-10-04T06:32:03.452660+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Canon in talks with semiconductor project developers in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVkNNLWRUSkZULTJsNGRDaWctcEFyRWktXzdlLTJ0NE9kSjY3SzdhTjA3T2hEdjY1LXNXZF9jLXgwRWYzNkhzR1BoMjI0WW8wQjg2T0J2SlEzNDNGbE96N3JQTWUtald6MUVQbU9IUmdYYmFxQlJTOXU3bnkteDZmd0xiaHJ0QWlJbE8tS1o3S3lMZzRNcURUYXJlbXpYMzhlWU82WXNhRVNYdkxCTFlfR3lYaG5wX3BxRFc1cjNpOGFfTE9UZ3h1THNpa0FrVFctYVpYY180eXN0bHJBc0xlTGxiVFk4RmxOZkNjdzVsTWNFQ0ExcU1OcExLS3RIRTlkX2xBcUJ4R0REY29H0gGSAkFVX3lxTFB6VVF4U1doeE9wVGRtblBnYWVaNHk3YWRKZFlRc1dBSWVjR3ZxbHlCYzdQbUNVVnpyaDN1dDByTXlyMXY0a01NQkxydEVfcUdjQUI3ZnM0VFA1V0ZFU3FJQnRnTUdaS3BxMkdIYXRhbEsxN3RMQlZmVDZxbkhhTTh2dVFoV0ROSUhaZjdIQVNZalRyWTcyZkFLdGhianpHdHBXNGQyeHFnTUhHVnVIYnpYcm1WRGdyTGtIX1RIWVFVRTdWclVYczRPZFRNMDZ4d0k2alowMnBpcnhZdTN1X3J3dXdZOHJ4Yk52QlZ3ajVQUG55aU1pWUdXZ0taU2F6dG8zVjAxZ1JaSEFua2VCMHVQMkE?oc=5",
+      "words": [
+        "canon",
+        "centres",
+        "chip",
+        "engaged",
+        "key",
+        "local",
+        "plans",
+        "projects",
+        "service",
+        "talks",
+        "those"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790332380138",
-    "1790374368431",
-    "1790363422477",
-    "1790373840193",
-    "1790364063070",
-    "1790382360822",
-    "1790338299261",
-    "1790385360251",
-    "1790385479021",
     "1790385720864",
     "1790343163925",
     "1790348840520",
@@ -12092,7 +12086,6 @@
     "1791045884212",
     "1791001809551",
     "1791022348208",
-    "1791065289759",
     "1791002040458",
     "1791002200773",
     "1791002778825",
@@ -12125,9 +12118,13 @@
     "1791020079089",
     "1791042262897",
     "1791051540583",
-    "1791085466202",
     "1791087882277",
     "1791088284350",
+    "1791014100841",
+    "1791014400990",
+    "1791047230280",
+    "1791084364445",
+    "1791085466205",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13407,8 +13404,6 @@
     "1791010980626",
     "1791012120725",
     "1791013980752",
-    "1791014100841",
-    "1791014400990",
     "1791015207844",
     "1791016806255",
     "1791018198313",
@@ -13420,6 +13415,7 @@
     "1791022888759",
     "1791023280969",
     "1791023414008",
+    "1791024171384",
     "1791024219860",
     "1791026100531",
     "1791026215673",
@@ -13430,6 +13426,7 @@
     "1791028823270",
     "1791030028586",
     "1791031500292",
+    "1791032296930",
     "1791035940116",
     "1791036360274",
     "1791037140454",
@@ -13455,7 +13452,6 @@
     "1791045755611",
     "1791046046082",
     "1791046980299",
-    "1791047230280",
     "1791049116310",
     "1791050280815",
     "1791050953162",
@@ -13474,6 +13470,7 @@
     "1791058784535",
     "1791061980059",
     "1791062161088",
+    "1791065289759",
     "1791070800774",
     "1791074703669",
     "1791076757593",
@@ -13484,20 +13481,26 @@
     "1791079038977",
     "1791080160088",
     "1791083940064",
-    "1791084364445",
+    "1791084393805",
     "1791084446739",
-    "1791085466205",
+    "1791085466202",
     "1791086179500",
+    "1791086257715",
     "1791087210677",
     "1791087882778",
     "1791090141954",
     "1791091111100",
     "1791091815053",
     "1791091860711",
+    "1791092506294",
     "1791092605456",
     "1791093102031",
     "1791093180612",
     "1791093600317",
+    "1791094200542",
+    "1791094448246",
+    "1791094769136",
+    "1791094832830",
     "2317509",
     "2317615",
     "2317714",
@@ -13511,8 +13514,8 @@
     "2318419",
     "2318656"
   ],
-  "last_digest_hour": "2026-10-04T11",
-  "last_success": "2026-10-04T06:16:47.462028+00:00",
+  "last_digest_hour": "2026-10-04T12",
+  "last_success": "2026-10-04T06:32:03.505051+00:00",
   "national": {
     "alerted": [
       {
@@ -18006,7 +18009,7 @@
       },
       "warned": "2026-10-03T19:37:15.846449+00:00"
     },
-    "last_run": "2026-10-04T06:20:12.009743+00:00",
+    "last_run": "2026-10-04T06:34:42.048140+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20627,26 +20630,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Canon in talks with semiconductor project developers in India",
-      "post": {
-        "created_at": "2026-10-04T05:53:00+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1791093180612",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Canon in talks with those engaged in key chip projects in India, plans local service centres",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVkNNLWRUSkZULTJsNGRDaWctcEFyRWktXzdlLTJ0NE9kSjY3SzdhTjA3T2hEdjY1LXNXZF9jLXgwRWYzNkhzR1BoMjI0WW8wQjg2T0J2SlEzNDNGbE96N3JQTWUtald6MUVQbU9IUmdYYmFxQlJTOXU3bnkteDZmd0xiaHJ0QWlJbE8tS1o3S3lMZzRNcURUYXJlbXpYMzhlWU82WXNhRVNYdkxCTFlfR3lYaG5wX3BxRFc1cjNpOGFfTE9UZ3h1THNpa0FrVFctYVpYY180eXN0bHJBc0xlTGxiVFk4RmxOZkNjdzVsTWNFQ0ExcU1OcExLS3RIRTlkX2xBcUJ4R0REY29H0gGSAkFVX3lxTFB6VVF4U1doeE9wVGRtblBnYWVaNHk3YWRKZFlRc1dBSWVjR3ZxbHlCYzdQbUNVVnpyaDN1dDByTXlyMXY0a01NQkxydEVfcUdjQUI3ZnM0VFA1V0ZFU3FJQnRnTUdaS3BxMkdIYXRhbEsxN3RMQlZmVDZxbkhhTTh2dVFoV0ROSUhaZjdIQVNZalRyWTcyZkFLdGhianpHdHBXNGQyeHFnTUhHVnVIYnpYcm1WRGdyTGtIX1RIWVFVRTdWclVYczRPZFRNMDZ4d0k2alowMnBpcnhZdTN1X3J3dXdZOHJ4Yk52QlZ3ajVQUG55aU1pWUdXZ0taU2F6dG8zVjAxZ1JaSEFua2VCMHVQMkE?oc=5"
-      },
-      "queued_at": "2026-10-04T06:02:18.618713+00:00",
-      "score": 7.0,
-      "why": "Major global equipment manufacturer planning local service centres for key chip projects in India."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -21695,16 +21679,16 @@
     "microsoft india": 1790848562260,
     "mistral ai": 1790611079525,
     "naukri": 1790833182849,
-    "news: big tech platforms": 1791093600317,
+    "news: big tech platforms": 1791094769136,
     "news: consumer internet india": 1791052725482,
-    "news: global ai": 1791092605456,
+    "news: global ai": 1791094448246,
     "news: global chips": 1791093600317,
     "news: global it services": 1791027505148,
     "news: india ai deeptech": 1791042720727,
     "news: india edtech gaming": 1791028555818,
     "news: india fintech": 1791087210677,
     "news: india semiconductors": 1791093180612,
-    "news: india tech policy": 1791056125208,
+    "news: india tech policy": 1791094832830,
     "news: india telecom": 1791079038977,
     "news: indian it majors": 1791086179697,
     "news: indian it midcaps": 1791042720727,
@@ -21757,7 +21741,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-04T06:16:47.810816+00:00",
+    "last_server_run": "2026-10-04T06:32:03.850762+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-04T04:47:50.749504+00:00",
@@ -21897,7 +21881,7 @@
       },
       "last": {
         "calendar": "2026-10-04T04:17:33.360126+00:00",
-        "ls_reports": "2026-10-04T04:17:45.052777+00:00",
+        "ls_reports": "2026-10-04T06:32:53.286958+00:00",
         "rs_committee_press": "2026-10-04T04:47:37.507972+00:00",
         "rs_press": "2026-10-04T04:47:35.044429+00:00",
         "rs_reports": "2026-10-04T04:47:32.102931+00:00",
