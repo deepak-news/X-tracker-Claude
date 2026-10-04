@@ -7513,11 +7513,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790385720864",
-    "1790343163925",
-    "1790348840520",
-    "1790367673070",
-    "1790380800346",
     "1790320142559",
     "1790327579031",
     "1790387065500",
@@ -12110,7 +12105,6 @@
     "1791019642015",
     "1791038706649",
     "1791080160673",
-    "1791086179697",
     "1791007208217",
     "1791016806873",
     "1791007620500",
@@ -12121,10 +12115,15 @@
     "1791087882277",
     "1791088284350",
     "1791014100841",
-    "1791014400990",
     "1791047230280",
     "1791084364445",
     "1791085466205",
+    "1791009677008",
+    "1791046046082",
+    "1791076757593",
+    "1791084446739",
+    "1791086179500",
+    "1791090141954",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13399,11 +13398,11 @@
     "1790957700412",
     "1790960458455",
     "1790961393966",
-    "1791009677008",
     "1791010080005",
     "1791010980626",
     "1791012120725",
     "1791013980752",
+    "1791014400990",
     "1791015207844",
     "1791016806255",
     "1791018198313",
@@ -13450,7 +13449,6 @@
     "1791045000404",
     "1791045001602",
     "1791045755611",
-    "1791046046082",
     "1791046980299",
     "1791049116310",
     "1791050280815",
@@ -13473,22 +13471,20 @@
     "1791065289759",
     "1791070800774",
     "1791074703669",
-    "1791076757593",
     "1791076757826",
     "1791077040472",
     "1791077463743",
     "1791078354948",
     "1791079038977",
+    "1791079726739",
     "1791080160088",
     "1791083940064",
     "1791084393805",
-    "1791084446739",
     "1791085466202",
-    "1791086179500",
+    "1791086179697",
     "1791086257715",
     "1791087210677",
     "1791087882778",
-    "1791090141954",
     "1791091111100",
     "1791091815053",
     "1791091860711",
@@ -13499,8 +13495,12 @@
     "1791093600317",
     "1791094200542",
     "1791094448246",
+    "1791094520858",
     "1791094769136",
     "1791094832830",
+    "1791094871126",
+    "1791095410416",
+    "1791095541954",
     "2317509",
     "2317615",
     "2317714",
@@ -13515,7 +13515,7 @@
     "2318656"
   ],
   "last_digest_hour": "2026-10-04T12",
-  "last_success": "2026-10-04T06:32:03.505051+00:00",
+  "last_success": "2026-10-04T06:46:56.539578+00:00",
   "national": {
     "alerted": [
       {
@@ -18009,7 +18009,7 @@
       },
       "warned": "2026-10-03T19:37:15.846449+00:00"
     },
-    "last_run": "2026-10-04T06:34:42.048140+00:00",
+    "last_run": "2026-10-04T06:48:51.495217+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20590,7 +20590,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-antim-panghal-on-winning-silver-in-womens-53-kg-freestyle-wrestling-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-aditi-ashok-pranavi-sharath-urs-and-diksha-dagar-on-winning-silver-in-womens-team-golf-at-asian-games",
       "pib:2318842",
-      "quake:ncs:d1czWkZkeE5hZUZTamJEdC9ZaTJvZz09"
+      "quake:ncs:d1czWkZkeE5hZUZTamJEdC9ZaTJvZz09",
+      "pib:2318843"
     ],
     "source_failures": {
       "CBI": {
@@ -20630,7 +20631,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Jio Platforms IPO likely in late October at $143B-$146B valuation",
+      "post": {
+        "created_at": "2026-10-04T06:15:20+00:00",
+        "handle": "News: India telecom",
+        "id": "1791094520858",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BusinessLine",
+        "reposts": 0,
+        "text": "Jio Platforms IPO likely by Oct end at enterprise valuation of $143-146 billion",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPODI3TkkwZTZYSGtsTm5MX2pERmsyTlBiTFdkVzhLM1dqOXZBWWhLRThsVHBQV1dnaDlyQkt0cDR0QThHcGxIQVNXQkUxSHMwYnpVa1M3UEx3eGg3R2twT2lpeDVoZWI4UkJaX2pzYXNyYlVPWGV4RnltcWcyTlhOUkFMcGJlZW11T2JhVWZ5Z2JyelY2V1JEX2VBbjNSdVNTVnp5a3A5aW5VSlhGNzJ5aHdDOGcxYU9vczB6UnUwaHFXdEV3YTRXekJxT3BCa29fSW5DRmRFdUM4aFXSAeIBQVVfeXFMTVdEV1FFam9XWldwWElxRXJhNU52WXFoUXlEOTJxN0hia29MRFZ6eFdGdENhNWQ4a1d1Z3pidlJfT2N3VmVQWTd0bHE0akV5c05SaGRPQkpyUXR5dTBHRDg1QVRsV1F1NHFQa1pGN1FYVW9FRktxYXlIMFhtdHpaQkxwcjhnOG9UOFNZRnh6SzgzeVE4dXFKTktsZUR2dm5yQjVuM192eUg1MlpnQm8tcnF3VFo5WHhVTlNmRkc0V0wxMzZKNnM2SUNabm9JUmhjdU5MZlF5ZGN3T0RTX191d0V5UQ?oc=5"
+      },
+      "queued_at": "2026-10-04T06:46:56.484861+00:00",
+      "score": 9.0,
+      "why": "Major IPO timeline and valuation disclosure from India's largest telecom and tech firm."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -21679,9 +21699,9 @@
     "microsoft india": 1790848562260,
     "mistral ai": 1790611079525,
     "naukri": 1790833182849,
-    "news: big tech platforms": 1791094769136,
+    "news: big tech platforms": 1791095410416,
     "news: consumer internet india": 1791052725482,
-    "news: global ai": 1791094448246,
+    "news: global ai": 1791095541954,
     "news: global chips": 1791093600317,
     "news: global it services": 1791027505148,
     "news: india ai deeptech": 1791042720727,
@@ -21689,7 +21709,7 @@
     "news: india fintech": 1791087210677,
     "news: india semiconductors": 1791093180612,
     "news: india tech policy": 1791094832830,
-    "news: india telecom": 1791079038977,
+    "news: india telecom": 1791094520858,
     "news: indian it majors": 1791086179697,
     "news: indian it midcaps": 1791042720727,
     "news: pib releases": 1790159940641,
@@ -21741,17 +21761,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-04T06:32:03.850762+00:00",
+    "last_server_run": "2026-10-04T06:46:56.892797+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-04T04:47:50.749504+00:00",
+        "checked": "2026-10-04T06:48:16.601083+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-04T04:47:43.309889+00:00",
+        "checked": "2026-10-04T06:48:08.868306+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -21827,7 +21847,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-04T04:47:47.003263+00:00",
+        "checked": "2026-10-04T06:48:12.560747+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -21882,10 +21902,10 @@
       "last": {
         "calendar": "2026-10-04T04:17:33.360126+00:00",
         "ls_reports": "2026-10-04T06:32:53.286958+00:00",
-        "rs_committee_press": "2026-10-04T04:47:37.507972+00:00",
-        "rs_press": "2026-10-04T04:47:35.044429+00:00",
-        "rs_reports": "2026-10-04T04:47:32.102931+00:00",
-        "rs_updates": "2026-10-04T04:47:39.234543+00:00"
+        "rs_committee_press": "2026-10-04T06:47:54.824961+00:00",
+        "rs_press": "2026-10-04T06:47:51.798738+00:00",
+        "rs_reports": "2026-10-04T06:47:49.242212+00:00",
+        "rs_updates": "2026-10-04T06:47:57.113828+00:00"
       }
     },
     "scanned": [
