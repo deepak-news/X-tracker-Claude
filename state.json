@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-25T18:32:08.568703+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Perplexity AI sued over alleged wake word technology theft",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYi13OUdQcnh4R3B5ak1ueE9BVXlaVFQ3ZXVaTUxVTjZRc0tSb2YzTm04VC03ODVDbGozSDRsS1VzdF8yVUNKQjJjSUxDVkJKeWZtSXg2TlRGZVpPNHBXVVNlT29zc1FJZmk3cVhNd042WGhaY1N5dkFGcnFYaEh3eXFvMUpDeFNlaU5LczdGSXd4dVRXeU50UFJfUkZaVFN3ZzBxZXNVRHlWUElGemprelExa09SQ3UybGhxbXNkSHNlRHRfd0M1b3lVWEw5V2FvaWp2ZU5OeHhIZk9aMHlHMllzNFA1bVZRN25TOVpXTDQxUdIB8gFBVV95cUxOYi13OUdQcnh4R3B5ak1ueE9BVXlaVFQ3ZXVaTUxVTjZRc0tSb2YzTm04VC03ODVDbGozSDRsS1VzdF8yVUNKQjJjSUxDVkJKeWZtSXg2TlRGZVpPNHBXVVNlT29zc1FJZmk3cVhNd042WGhaY1N5dkFGcnFYaEh3eXFvMUpDeFNlaU5LczdGSXd4dVRXeU50UFJfUkZaVFN3ZzBxZXNVRHlWUElGemprelExa09SQ3UybGhxbXNkSHNlRHRfd0M1b3lVWEw5V2FvaWp2ZU5OeHhIZk9aMHlHMllzNFA1bVZRN25TOVpXTDQxUQ?oc=5",
-      "words": [
-        "allegedly",
-        "perplexity",
-        "startup",
-        "stealing",
-        "sued",
-        "technology",
-        "wake",
-        "word"
-      ]
-    },
-    {
-      "at": "2026-09-25T18:32:08.568703+00:00",
       "handle": "News: Global IT services",
       "headline": "CBIC eases import paperwork for UK goods under trade deal",
       "tier": 0,
@@ -7499,12 +7482,26 @@
         "survey",
         "upi"
       ]
+    },
+    {
+      "at": "2026-10-04T20:32:10.348692+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Indian enterprises raise AI infrastructure investments by 58 percent",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaTZhZEk1QVl4c0tjakNSVzRwMWtvOWM5QVVMOW9jNU10ZTAzYjZKLUdlRV9tOTRGSUxrbkFFYWl6MFFjSXAtc1NPUjV3anFmNTdkWG5WcWxCTlNLdGVFQ25IVkRua3FMNkR2MXdFNHZOYmpzajBBMVNYeGFOZnpqVU9yWXRLUjc3MDBScnhoV2Z2MHo3MS01TThmcGhyUGJvNFdGeHp1Q21wQ1Y1Tnd4cTRpQjkyR3B4RnFKeUQwdFdkOWI0Ymx5UG1BcVlZRW5iSHZvbG1HSlpISERieHBHa0NmX3p6VEw1TV9ZYtIB8wFBVV95cUxNalJUM0tCSW9Nc21KNUx3VXdnSS16TE01QXRDb2hBaUtVQnAzYnJPeTV4M0ZjQkhWaGctTG9RYjRCSDUzM3pEZlB6R3Q2RGJLcUQ1cEs1VUZHVndEWG4tUDJOR09PREtfT2swTmNUS0taNnUyM3BkLWc4dVFJb1d0Tk1FNnY0TmpHY2VGOUdZRkJ5a1FsSHBjZWlmWjEyYnRINE5oLS1NczE4ZG4xY0hhT00wX0VYY1RPbnVoNVl2bFI3LVlNOUpJVnVpamx6STJHNXowUXE5dkt5VTZZN0YwMkg4X2R5NnpncGFEdzNhSEFYc2c?oc=5",
+      "words": [
+        "enterprises",
+        "increased",
+        "infrastructure",
+        "investments",
+        "srinivasaraghavan",
+        "subhathra"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790437369102",
     "1790479470447",
     "1790483700498",
     "1790400914284",
@@ -12058,7 +12055,6 @@
     "1791051994832",
     "1791052101040",
     "1791089160683",
-    "1791091111217",
     "1791095855918",
     "1791115201726",
     "1791119225730",
@@ -12096,16 +12092,17 @@
     "1791057659058",
     "1791105505652",
     "1791107478739",
-    "1791124200826",
-    "1791133308683",
     "1791138360423",
     "1791092605456",
-    "1791094448246",
     "1791098114665",
     "1791119820289",
-    "1791123556441",
-    "1791137437413",
-    "1791138960828",
+    "1791091111100",
+    "1791094200542",
+    "1791094448277",
+    "1791100358446",
+    "1791116045038",
+    "1791124200445",
+    "1791137437900",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13391,13 +13388,12 @@
     "1791086179697",
     "1791087210417",
     "1791087882778",
-    "1791091111100",
+    "1791091111217",
     "1791091860711",
     "1791092506347",
     "1791093048936",
-    "1791094200542",
     "1791094304230",
-    "1791094448277",
+    "1791094448246",
     "1791094717397",
     "1791094832126",
     "1791095249466",
@@ -13410,7 +13406,6 @@
     "1791099660066",
     "1791099966544",
     "1791100140079",
-    "1791100358446",
     "1791100693153",
     "1791100705188",
     "1791101342212",
@@ -13440,7 +13435,6 @@
     "1791115103461",
     "1791115200174",
     "1791115855433",
-    "1791116045038",
     "1791117241755",
     "1791117583529",
     "1791118963300",
@@ -13457,11 +13451,12 @@
     "1791122326978",
     "1791122401975",
     "1791122651211",
+    "1791123556441",
     "1791123674781",
     "1791123900199",
     "1791123933496",
     "1791124097750",
-    "1791124200445",
+    "1791124200826",
     "1791124415472",
     "1791124974621",
     "1791126310205",
@@ -13470,6 +13465,7 @@
     "1791129070178",
     "1791130005842",
     "1791131692512",
+    "1791133308683",
     "1791134110115",
     "1791134184079",
     "1791134380644",
@@ -13480,17 +13476,19 @@
     "1791136807932",
     "1791137280138",
     "1791137308152",
-    "1791137437900",
+    "1791137437413",
     "1791138360916",
     "1791138378726",
     "1791138380007",
     "1791138720726",
+    "1791138960828",
     "1791139619420",
     "1791140959075",
     "1791142003313",
     "1791142327036",
     "1791144000258",
     "1791144315012",
+    "1791145180671",
     "2317509",
     "2317615",
     "2317714",
@@ -13505,8 +13503,8 @@
     "2318656",
     "2318893"
   ],
-  "last_digest_hour": "2026-10-05T01",
-  "last_success": "2026-10-04T20:16:53.188955+00:00",
+  "last_digest_hour": "2026-10-05T02",
+  "last_success": "2026-10-04T20:32:10.393403+00:00",
   "national": {
     "alerted": [
       {
@@ -18041,12 +18039,13 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
+        "IRDAI": "2026-10-04T20:34:16.755554+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-04T19:48:06.107855+00:00"
     },
-    "last_run": "2026-10-04T20:19:26.604312+00:00",
+    "last_run": "2026-10-04T20:34:16.756160+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20304,8 +20303,6 @@
       "pib:2318945",
       "pib:2318948",
       "pib:2318959",
-      "certin:CIAD-2026-0044",
-      "certin:CIAD-2026-0045",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -20326,6 +20323,8 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
+      "certin:CIAD-2026-0044",
+      "certin:CIAD-2026-0045",
       "page:https://www.mha.gov.in/sites/default/files/Qatar_12072026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/UNNationPolice_16072026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/postconstableheadconstable_01092026.pdf",
@@ -20653,6 +20652,9 @@
         "count": 54,
         "until": "2026-10-04T21:47:49.494841+00:00"
       },
+      "IRDAI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -20682,26 +20684,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Indian enterprises raise AI infrastructure investments by 58 percent",
-      "post": {
-        "created_at": "2026-10-04T17:56:16+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1791136576654",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Financial Express",
-        "reposts": 0,
-        "text": "\u2018Indian enterprises have increased investments in AI infrastructure by 58%\u2019: Subhathra Srinivasaraghavan",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaTZhZEk1QVl4c0tjakNSVzRwMWtvOWM5QVVMOW9jNU10ZTAzYjZKLUdlRV9tOTRGSUxrbkFFYWl6MFFjSXAtc1NPUjV3anFmNTdkWG5WcWxCTlNLdGVFQ25IVkRua3FMNkR2MXdFNHZOYmpzajBBMVNYeGFOZnpqVU9yWXRLUjc3MDBScnhoV2Z2MHo3MS01TThmcGhyUGJvNFdGeHp1Q21wQ1Y1Tnd4cTRpQjkyR3B4RnFKeUQwdFdkOWI0Ymx5UG1BcVlZRW5iSHZvbG1HSlpISERieHBHa0NmX3p6VEw1TV9ZYtIB8wFBVV95cUxNalJUM0tCSW9Nc21KNUx3VXdnSS16TE01QXRDb2hBaUtVQnAzYnJPeTV4M0ZjQkhWaGctTG9RYjRCSDUzM3pEZlB6R3Q2RGJLcUQ1cEs1VUZHVndEWG4tUDJOR09PREtfT2swTmNUS0taNnUyM3BkLWc4dVFJb1d0Tk1FNnY0TmpHY2VGOUdZRkJ5a1FsSHBjZWlmWjEyYnRINE5oLS1NczE4ZG4xY0hhT00wX0VYY1RPbnVoNVl2bFI3LVlNOUpJVnVpamx6STJHNXowUXE5dkt5VTZZN0YwMkg4X2R5NnpncGFEdzNhSEFYc2c?oc=5"
-      },
-      "queued_at": "2026-10-04T20:16:53.142874+00:00",
-      "score": 7.0,
-      "why": "Hard numbers on enterprise AI spending in India make this a solid wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -21750,7 +21733,7 @@
     "microsoft india": 1790848562260,
     "mistral ai": 1790611079525,
     "naukri": 1790833182849,
-    "news: big tech platforms": 1791144315012,
+    "news: big tech platforms": 1791145180671,
     "news: consumer internet india": 1791140959075,
     "news: global ai": 1791144000258,
     "news: global chips": 1791138720726,
@@ -21812,7 +21795,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-04T20:16:53.470175+00:00",
+    "last_server_run": "2026-10-04T20:32:10.660968+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-04T20:03:34.318387+00:00",
