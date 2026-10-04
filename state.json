@@ -7502,8 +7502,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790479470447",
-    "1790483700498",
     "1790400914284",
     "1790401732892",
     "1790427270061",
@@ -12092,17 +12090,18 @@
     "1791057659058",
     "1791105505652",
     "1791107478739",
-    "1791138360423",
     "1791092605456",
     "1791098114665",
     "1791119820289",
-    "1791091111100",
     "1791094200542",
     "1791094448277",
     "1791100358446",
     "1791116045038",
     "1791124200445",
     "1791137437900",
+    "1791091111217",
+    "1791095249466",
+    "1791138360916",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13388,7 +13387,7 @@
     "1791086179697",
     "1791087210417",
     "1791087882778",
-    "1791091111217",
+    "1791091111100",
     "1791091860711",
     "1791092506347",
     "1791093048936",
@@ -13396,7 +13395,6 @@
     "1791094448246",
     "1791094717397",
     "1791094832126",
-    "1791095249466",
     "1791096070671",
     "1791096089931",
     "1791096240312",
@@ -13459,6 +13457,7 @@
     "1791124200826",
     "1791124415472",
     "1791124974621",
+    "1791126184470",
     "1791126310205",
     "1791127084552",
     "1791127091401",
@@ -13477,12 +13476,13 @@
     "1791137280138",
     "1791137308152",
     "1791137437413",
-    "1791138360916",
+    "1791138360423",
     "1791138378726",
     "1791138380007",
     "1791138720726",
     "1791138960828",
     "1791139619420",
+    "1791140871058",
     "1791140959075",
     "1791142003313",
     "1791142327036",
@@ -13504,7 +13504,7 @@
     "2318893"
   ],
   "last_digest_hour": "2026-10-05T02",
-  "last_success": "2026-10-04T20:32:10.393403+00:00",
+  "last_success": "2026-10-04T20:46:56.904122+00:00",
   "national": {
     "alerted": [
       {
@@ -18039,13 +18039,12 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
-        "IRDAI": "2026-10-04T20:34:16.755554+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-04T19:48:06.107855+00:00"
     },
-    "last_run": "2026-10-04T20:34:16.756160+00:00",
+    "last_run": "2026-10-04T20:51:58.426418+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20641,7 +20640,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-homage-to-freedom-fighter-shyamji-krishna-varma-on-his-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-antim-panghal-on-winning-silver-in-womens-53-kg-freestyle-wrestling-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-aditi-ashok-pranavi-sharath-urs-and-diksha-dagar-on-winning-silver-in-womens-team-golf-at-asian-games",
-      "page:https://internal.imd.gov.in/press_release/20261004_pr_5375.pdf"
+      "page:https://internal.imd.gov.in/press_release/20261004_pr_5375.pdf",
+      "quake:ncs:ZEx1bGVaR25pWEs2MFBEeE9vM09CUT09"
     ],
     "source_failures": {
       "CBI": {
@@ -20651,9 +20651,6 @@
       "DGFT": {
         "count": 54,
         "until": "2026-10-04T21:47:49.494841+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -21741,7 +21738,7 @@
     "news: india ai deeptech": 1791139619420,
     "news: india edtech gaming": 1791094717480,
     "news: india fintech": 1791138360916,
-    "news: india semiconductors": 1791109300526,
+    "news: india semiconductors": 1791140871058,
     "news: india tech policy": 1791137308152,
     "news: india telecom": 1791124974621,
     "news: indian it majors": 1791138378726,
@@ -21795,7 +21792,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-04T20:32:10.660968+00:00",
+    "last_server_run": "2026-10-04T20:46:57.138167+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-04T20:03:34.318387+00:00",
