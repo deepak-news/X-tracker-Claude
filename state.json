@@ -7502,7 +7502,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790487750451",
     "1790488162169",
     "1790405820959",
     "1790418842518",
@@ -12091,19 +12090,20 @@
     "1791099660066",
     "1791101342212",
     "1791102166591",
-    "1791105505189",
     "1791105585179",
     "1791123556441",
     "1791126184470",
     "1791133308683",
     "1791139619420",
     "1791094448246",
-    "1791119820146",
     "1791124200445",
     "1791127084552",
     "1791093048936",
     "1791111227212",
     "1791124200826",
+    "1791105104568",
+    "1791105505652",
+    "1791106912545",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13408,12 +13408,10 @@
     "1791101469314",
     "1791102120646",
     "1791103522163",
-    "1791105104568",
-    "1791105505652",
+    "1791105505189",
     "1791105935001",
     "1791106394076",
     "1791106717233",
-    "1791106912545",
     "1791109300526",
     "1791109781680",
     "1791110214989",
@@ -13435,6 +13433,7 @@
     "1791118963300",
     "1791119243730",
     "1791119347445",
+    "1791119820146",
     "1791120227803",
     "1791120538044",
     "1791120543625",
@@ -13489,6 +13488,7 @@
     "1791146863962",
     "1791149685195",
     "1791150318234",
+    "1791151314860",
     "2317509",
     "2317615",
     "2317714",
@@ -13504,7 +13504,7 @@
     "2318893"
   ],
   "last_digest_hour": "2026-10-05T03",
-  "last_success": "2026-10-04T21:46:50.392962+00:00",
+  "last_success": "2026-10-04T22:02:11.647063+00:00",
   "national": {
     "alerted": [
       {
@@ -18044,7 +18044,7 @@
       },
       "warned": "2026-10-04T19:48:06.107855+00:00"
     },
-    "last_run": "2026-10-04T21:50:03.780838+00:00",
+    "last_run": "2026-10-04T22:06:41.099058+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20649,8 +20649,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "DGFT": {
-        "count": 54,
-        "until": "2026-10-04T21:47:49.494841+00:00"
+        "count": 55,
+        "until": "2026-10-05T04:02:59.917142+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -21446,6 +21446,7 @@
       "https://www.oracle.com/news/announcement/oracle-and-king-faisal-specialist-hospital-research-centre-to-advance-healthcare-innovation-2026-10-01": "2026-10-02T14:01:57.956178+00:00",
       "https://www.oracle.com/news/announcement/oracle-and-wild-bio-join-forces-to-advance-ai-driven-agriculture-2026-09-24": "2026-09-29T16:02:02.628944+00:00",
       "https://www.oracle.com/news/announcement/oracle-announces-commitment-to-absorb-rising-point-beach-energy-costs-2026-10-02": "2026-10-02T14:01:57.956178+00:00",
+      "https://www.oracle.com/news/announcement/oracle-announces-partnership-with-nashville-symphony-2026-10-04": "2026-10-04T22:01:54.535965+00:00",
       "https://www.oracle.com/news/announcement/oracle-brings-new-agentic-capabilities-to-the-fight-against-financial-crime-2026-09-29": "2026-09-29T16:02:02.628944+00:00",
       "https://www.oracle.com/news/announcement/oracle-expands-digital-assets-data-nexus-to-help-banks-operationalize-digital-money-2026-09-23": "2026-09-29T16:02:02.628944+00:00",
       "https://www.oracle.com/news/announcement/oracle-extends-fusion-agentic-applications-with-introduction-of-fusion-claw-2026-09-29": "2026-09-29T12:46:29.474084+00:00",
@@ -21748,7 +21749,7 @@
     "nvidia": 1790946039935,
     "nvidia blog": 1790946039935,
     "openai": 1790957700412,
-    "oracle": 1790949717882,
+    "oracle": 1791151314860,
     "phonepe": 1790243188249,
     "pib communications": 2318419,
     "pib meity": 2318656,
@@ -21792,7 +21793,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-04T21:46:50.738918+00:00",
+    "last_server_run": "2026-10-04T22:02:11.928899+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-04T20:03:34.318387+00:00",
