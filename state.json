@@ -1,117 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-25T22:32:06.739529+00:00",
-      "handle": "News: Global AI",
-      "headline": "Unsecured OpenAI agents expose 53 user images online",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5FazhISE5rN0RuT0JBOVk0UDlSTmpuelNwNjVvQ3dCR2V6V3BfWmVaMkxQUFlITWdWaXExMGxKNmpJMnVoQzVBaFZFbU9uZjhjSzhBdWZONkJtS3NUejlJMC1rZkMtSzc0R1JfMkZEbHVoTS1feXlJV1RUa19qMWx5ajJPZVFnTHJLSzZrUlpJeGgxZ3Z5UWV3ZTNRckdtakNnTUl5NzdsMVVaZHBmWEZPaHd6anlKM1l5ZEJOVUw?oc=5",
-      "words": [
-        "agents",
-        "images",
-        "internet",
-        "knowledge",
-        "lab",
-        "openai",
-        "posted",
-        "unsecured",
-        "user",
-        "without"
-      ]
-    },
-    {
-      "at": "2026-09-25T22:32:06.739529+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Consumer platforms fined by regulators for illegal herbicide sales",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb1ZYMkRUZXMxSlRhRUVXamdXcFRTU1N0ZUhNZzNmS282VEFmT01sSW9Ja1lQUmxlTHJSbUowQXBGemRVZWlWbEMweG00WUtxWWtqWkZSandtak5LNEY2SklVdUFuX3ZQclNqaF83djVfdi1jWHJRcTBqOV85SjFxaDk0YW45bFo5SnduMVJUMUFWaXBDZV9iYXVXazE5em1GVkdWUVhVZG1KeUY3Z2tIRFFKNjRBb0x2bTZxNlFXd1YxUdIBxwFBVV95cUxQdG1faW5sejFaSVNQc0NBXzAzenBnNTMwNC1WUjQ5bHFCX1pzTVdHSTR6bmZDSlN1dnp3TGZWc2ZOc01qeUR1b09QWUIwcFZNMnZTM1RZUmVINGlGWDlCZFRmUUY0YW9nR3I2WTRPUkM2MXB1NVZEYy1hQ3JqN3dhSVloNlhTUkduN2E2b1lPbTkwYzFRSHVHWDRpd2E3R251UHlTcnFxODZpbGlrMlBaS2xVLXBYRkVaSUtaeENEY0NZZU5XQk1J?oc=5",
-      "words": [
-        "amazon",
-        "fined",
-        "flipkart",
-        "herbicide",
-        "illegal",
-        "jiomart",
-        "sale"
-      ]
-    },
-    {
-      "at": "2026-09-26T00:32:06.124863+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Aequs promoter group to infuse Rs 650 crore via warrants",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFpjc19fTjhGd0lNRVZsdmVnRGRiNHllcm15UGJIUG5fRm9UWS0wei1XYklOOThkNV9TQkRNTlU5cVpSUVNvTnZjY3pQY0FieS1nU1RLalBrXzg4c2N1QnJYTjZqZ2tmbTVPMG9QYkhRQlhjZElrRFd4U0piUnlnclp4ZU1pZnJoY0ZsUXdKUzZSQXJsc3F6cGN5VzkxOWFlSDZLR3pkejE4MDdrOWJKQ3FWT2kwZmvSAb4BQVVfeXFMUE5Na0RDUFk3YV84Uk5ac0d6OVJzSkdyQmM1bHVtbDEtQkpxVEVTU2huQ3hwWTNzNHNxRVFYeldvNVNHQVZqbzRqM3Rxb2JOcVQzMTZHamRUNnliN3Z1cW40TzFIMGUtWGxvcDh6R1VJX1BiNTZabmlLUURFMmwxMnpFazJ3dXNjdEh0OU1iNUFWOG5McWE4MW5HMGpkdHZmZFExMFc3ajhlbjZEY1NteWx1dUl3bTdXSnNOLUFVdw?oc=5",
-      "words": [
-        "650",
-        "aequs",
-        "group",
-        "infuse",
-        "promoter",
-        "through",
-        "warrants"
-      ]
-    },
-    {
-      "at": "2026-09-26T04:32:08.116808+00:00",
-      "handle": "News: India telecom",
-      "headline": "Airtel AI spam tool flags 98.4 billion calls in two years",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdnN2RHVyV3FrdERzN2hsSDdRT0pFT2hHb05KNmVSVjdpeW0yMDZpUF9wVTZNUDdBQkdxYVhIZUo2NExlLWtiNVg0aDc4OW5NUFZzNHo3TDBoMlozT2NZOEVScTVJZmo4ZmhOUHlDTWVNQi1FM3Ftc2hjU3BxeUdrS0NvRDRLTm9NQmtzNzhLbHZOVUk0eXZZaG5odF9ydFE4NXpCTXJ0WTFfaXppMzc5SkZMR0FpMm1qY29RZHU4YlZuSTNzWTJXa2lxNGpIQXVPa3Fzc2xuOU5GOHEzQzVfdkJUclhaMmVjanNvNURkb1BtQjhwVGMxaXlscFM0ZU5EZkFSZNIBigJBVV95cUxNYmJib2xrMzlQdVhpZWpiX2VBeHJkWHVMVHlpcmZabXNmOWpSZFBGbnlPZ3lhbERtd3c0RE1jaGpiVnNVeldJUmY0TWxna2w5MkZIcGpQeU5wV0RiRWdIMnhDV0NxRHA4UFp6T2ZpeU9yTXRWWVNRbTNOWmVfUER1MW1QOGpSdXRUNnFMdkE0bk12TUNPR0RzTDU2QzE2TmNyZzJaZy1kZHpYOFZCdmpacElfNndtOWxkek1yem00UTUyOWxZUC1PUTlGb2UzS0NCUGlSd0tjaEIxQ3RodThqQU56Znh1SXR0RlJ2bGozd0tRVjhnQm11N2JSbTFMcFZTREhyNjVSMWRiQQ?oc=5",
-      "words": [
-        "airtel",
-        "calls",
-        "detection",
-        "flags",
-        "launch",
-        "messages",
-        "powered",
-        "solution",
-        "spam",
-        "two",
-        "years"
-      ]
-    },
-    {
-      "at": "2026-09-26T05:32:24.317606+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Open-source Bharat ABIS tool launched to tackle duplicate Aadhaar challenges",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQmdtck4yakZ0bDJuX3h1aDE5b3pnWnFBNWZyTjNORXhBTFI4OEJ0TW9JOG50aWRBcWdGQU9jYS1uNkwzT1NuYjVVS3lBV3kxcVZ3Mm14N0NYSEFHNVdVNGpHLWNnSmVVZkRzd0VwX2xLM1lXdWQxQVZqQkV2cEE4SmZNYTlNbTBYemtpUjhwRmtQNFlzNEVsclozRXZEWU4zTXdDT0JDTkEwM1lUcEFvcWJCTlh1S29pdC0xc3pKNzVJQV9qLXNPbzYyMWhJNkFhSS0tLTljSlRkNFRpN2lCSWVoNmE0SDTSAecBQVVfeXFMUEJnbXJOMmpGdGwybl94dWgxOW96Z1pxQTVmck4zTkV4QUxSODhCdE1vSThudGlkQXFnRkFPY2EtbjZMM09TbmI1VUt5QVd5MXFWdzJteDdDWEhBRzVXVTRqRy1jZ0plVWZEc3dFcF9sSzNZV3VkMUFWakJFdnBBOEpmTWE5TW0wWHpraVI4cEZrUDRZczRFbHJaM0V2RFlOM013Q09CQ05BMDNZVHBBb3FiQk5YdUtvaXQtMXN6Sjc1SUFfai1zT282MjFoSTZBYUktLS05Y0pUZDRUaTdpQkllaDZhNEg0?oc=5",
-      "words": [
-        "aadhaar",
-        "abis",
-        "bharat",
-        "big",
-        "could",
-        "duplicate",
-        "fix",
-        "help",
-        "open",
-        "problem",
-        "source",
-        "tool"
-      ]
-    },
-    {
-      "at": "2026-09-26T06:32:05.690090+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Sarvam co-founder Pratyush Kumar calls for sovereign AI defence layer",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFlnaVRjTlA3S2phV0hOb1Buejh2YzhpaXdYUS1SWk9kNTRTQmxPamY2dXFqQ09XSC1JVjhSbnpXNFZTMlEtdjNra2JkUDkxbjhlTUR4WlJGdTE2TjdSMXB3YWJqMEtvZTJQTGJuRnVwcDNlaDdPMEFvcHVoSFh3MnptT1NZTFhNSmVjUnVFNm8xal9FM0ZUUjdlY1BmVnRPdFFLamVOOU1EaGNYcFZsa2RqX1l2NWF0RTVhcmtWVmF1ZmRIOW01NEw4Xy1vRkFXSjRSNWU2bldlZHhod1gtcEt5dkt2Yk9F0gHuAUFVX3lxTE10RFVPUnVuc0FPeHpFbG1JVU5NSkM1cGRWbzlrNlRyb1ZDZWFZbXd2UnhWcjBocWxkZzdMNzlvaGdmOGUyNG9VNGN4UktiM2RIUDQ2U3kwbFpfSTJBX1doVWZ1QmtiWHJTcS1QRUhlMWZQelEybTJwa3BQWG5hZkp4TWNUbGZsNy1CZGZRTXBJUDFKMkNaV0t3dF83Snc4ZmJkSmJxWGl5clZVMnR2Q3NwSElUZ0s1UmNKNnJCd1BoV3AxbGk1bEhQaWVhUkZhUVhCV2Z5TkpiMFFRLXBuRG8zdjRsWElINUc4MVdMNFE?oc=5",
-      "words": [
-        "defence",
-        "kumar",
-        "layer",
-        "needs",
-        "now",
-        "own",
-        "pratyush",
-        "sarvam",
-        "system",
-        "weapon"
-      ]
-    },
-    {
       "at": "2026-09-26T06:32:05.690090+00:00",
       "handle": "News: India semiconductors",
       "headline": "LG India hit with \u20b9153.57-crore customs duty show-cause notice",
@@ -7504,18 +7393,122 @@
         "takes",
         "uni"
       ]
+    },
+    {
+      "at": "2026-10-05T06:32:08.316740+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Apple removes Bitchat from Indian App Store on government demand",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMUJJTTg4VmViNHNMOFM1VWhMa3prZFppb1VTN1drYlV2cE1kSzBxZFV4ejlRVGRwMUhDSnZld084LXhIbXB5YXFKVG1YY1NseTdlbS0xQTFSTW5CMmloRGVISkhHU1hEejhYMmUzcTdtcWVNb3BXV3FaZTN4UlI1VElncW5qVnkweTFoelRadG9kd1hIVFd0WnJaUkY4VE1wcHFEeUphNDBtWnBvWkhINXFibzkxd9IBuwFBVV95cUxQUFFlMENNc2N3akpHYWc0UFJMVUpuczFnUGNVeE1KdHZXQ2NYZEZwRmFZcUlWbnBrcWtrYXlpclIyNTVsdUkycWtGVmtManhjSGpZQ0FmNGlkMk1iREdaTF9GNDZGWmlZdTJ0ZVhZenVnYk1qNjJvWWVxZTE1dmVLYjBQemNjeVgxczRXRm1rNE5CY054Q0JneTdLNmdKWTFRdk52T3p4Tk5pUG9RQVRiZ29uX2ZpSl9yVDc4?oc=5",
+      "words": [
+        "app",
+        "apple",
+        "bitchat",
+        "demand",
+        "government",
+        "messaging",
+        "offline",
+        "removes",
+        "store"
+      ]
+    },
+    {
+      "at": "2026-10-05T06:32:08.316740+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic's Mythos AI uncovers HTTP file server vulnerability",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQeWNPTkdMS0VLMFM0NjhfbkRXbk51TC1meXJjMk5QY05CN19jSFJHSm0yUU9zY3hhMmtxRDY0XzVnZjFiSUFibUJpM2FpcUhDN3lObWVfQnpUeWZDNU41MVplc1JMRy1BYThiZnF2X0ZfVGRwQWVWOHpfeE1ZcG1vQThJZnJoUml1aVotUTIybEs2b3FXRFZ0SFBoNDNVdDYxMS1qcWFtY0VYLUxOTlhiQ05CLTMxTDJ4bGtUU2lBMHd5N1ZyZjV0SU9qQy1hNExmWnpUWTNhal8yaHQxR2dTYzdDLTZxTVNYdERzWEx4eHREQU1jUmFUQ0pQRkRURWpTa1A5VktJY092VGUzSDQ4ZjZFeUdFcTdTX0NzX0Q3TEdYUWlIcjFJRFAzcHllS0JkUkJIUW8wVXgwSExy0gGLAkFVX3lxTE5fZlRpSWJSdy1NMGRkVXBmdHpXTEJiYkxjRXhxcVU2MVMzZmpGRjU4bjk3ajR3SXZ5c2tfRDhHV1lYcnFOczIzZ21MaENtU0Fld0hyemNqVkI2T2QtX2RMZFZFTWdPN0ZyWXlVaUdpQkRCVWJrLWpJZHNuWWpVdU93TWhadkdHQjFmQ2JXRG9TSjBNMkpxc1M1TWZUUHZzXy1ibmxGNHp3eHh6ZFFsQjdXTloxM0Z4VTdRR042dnBSM1NQNEhoRkxIcjlHNVF0QXJJMHFyLWZ3WXhGcjZCQVFrQjJzZER4S3ZFM1lPTjNpV3R1XzVWM25mTHAtRVV5RG14VlFSQ3FpQ2VsMA?oc=5",
+      "words": [
+        "anthropic",
+        "critical",
+        "exploited",
+        "file",
+        "http",
+        "mythos",
+        "server",
+        "uncovers",
+        "vulnerability",
+        "wild"
+      ]
+    },
+    {
+      "at": "2026-10-05T06:32:08.316740+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta lays off co-founders and employees of acquired AI startup Virtue AI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQWXZIa21CdmRTcDZHZ1ZOZU1sbzkzTGFQT3ZSN0U1MjhRdk9qdWdkNEd4TVFfWEJzaGNXNlhmQTNOZkRCWmpyTnpWX1Z5UzlEb2RqdmNxcUFWeVN2NnR4M2R0bUZOckZBSGUzdGduSXlLMnFBcWJJVlloQl9VQ2djUDNQSlNfN25UR096aE01NXh3dkFfTkYxVDZoU2htc2JWMTlXaDhXTzBiOWlxVjRuVEpFYzJWaGl1eXFBT0dwWVJ6T1dKR3ZobnAwVHdISjNpYWs3SWE0TVRud2xxZ19jZW1fWV96MEVpV0tmOTdibjI4Z0x0UUxPT1RUVHg4N3VLZkRvanpzZVplRUZaTFlfQUJJY25USG1USmNMM2U1SkxWbnJXTW5jbl9fWmxoSVZPamFuZXQwVFczUmFKX3pqMzA1b19BVllfRXB2cjVjU1VNU25FeThSQXVB0gHfAkFVX3lxTE1hWjBmRVU2ZmNPbmN5UHQxVml0MTFVLVlWWTg5clNzSHM0YWVpallqcVZJYlpWSElrT0RmdDhSTXNpeVM4Z29HYXV3TV85YnNHSGV3Umxtd2FjbE8wVzE4T0xfZDduMXJlTDF4NVUxVzRMS3pXekVUbXhZOTBGNEF1Q0c5a01ERzNaVFljTF9OcmFpQzZrTjFpbElOSWZWTElJYTdxTmlYV0FLSEVmU3o1SG5GQno5cmw4c3BNWXo3TWl1YWtCWFZySHprRWZrTXBnc0Jndkg3TmUzRmVESTRnS1JLZDQ0MHFWUHItbFNXcVlaRk5ucVh5QnRodW9BQ3kxMmJ3SWNnX200LW9SVXUzUU9nS3RwNUVQY2MwM1BVWHVBNWwzTkZWRGxKT3VHZWdWVWxpREh2S2x6VlFoWUh1c1RHVDVUS2Z0MnZ6b0JoWVEtX2prXzR2TkUwSmVUTQ?oc=5",
+      "words": [
+        "company",
+        "employees",
+        "founders",
+        "four",
+        "hired",
+        "lets",
+        "meta",
+        "months",
+        "startup",
+        "them",
+        "virtue"
+      ]
+    },
+    {
+      "at": "2026-10-05T06:32:08.316740+00:00",
+      "handle": "News: Global chips",
+      "headline": "Qualcomm agrees to patent licensing deal with Huawei",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHpkeEFQNElSckZOaHJ2SVgzR090LTJ2MnZoNWUwSGhLM2d1RzdGY2xZSzdvdTVINFVsQlZQelVjYnZ6bzNIMkxCZ0dPU2NjWWpISEhhZC14cnJIZ3VQQnhCWERESnItS0MtUzJhVTZkTDZjY1Qwc1FHWnoybXFkM05waU1TMDlXSlBaZlJ3Ykp6dE5icGV3bF8xSFFDRDR4d0N1aE9ZVkpJZWVCWTFabGtyUVlkREFS?oc=5",
+      "words": [
+        "breakthrough",
+        "first",
+        "huawei",
+        "patent",
+        "pay",
+        "qualcomm",
+        "time"
+      ]
+    },
+    {
+      "at": "2026-10-05T06:32:08.316740+00:00",
+      "handle": "News: Global chips",
+      "headline": "Qualcomm licenses Huawei LogicFolding chip patents",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWpQZndsUS1QSlBNUnlLRzVHbDZtVGdRSldxZ0hKa01Nb2VCRFUxeEd5eVdSdVBHcmNPTjYwaXR2NmxZdk45aEVyS2pINGFNUmlBVXJnTTdhVDRMcWFwQkJta2o1QVhtQWxUY2Jod09DQkcyLXJMX2pEQ05HWEUzbHdzbm12QWctbVAzTG12ZEludm10LWNjTkFsRjFONDcxNmNhQm14TEpocFE1UzVNeA?oc=5",
+      "words": [
+        "chip",
+        "huawei",
+        "licenses",
+        "logicfolding",
+        "patents",
+        "qualcomm",
+        "tech"
+      ]
+    },
+    {
+      "at": "2026-10-05T06:32:08.316740+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Apple adds stricter macOS consent controls following Meta AI dispute",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WZWdMRWRoNzJNdGhNRFpoQm10MmxoYS1fVUJkS21JRDlpcUxJMEswd3h4X0RUcGh2NVY2a2h0WjJsS0ROUGVlTm16cXFFWHZSb1VnRHdQclZQcTFUVkQtWkVtNVZVQUotUHlSRDBKblMxM2JObDlLYg?oc=5",
+      "words": [
+        "access",
+        "add",
+        "apple",
+        "apps",
+        "consent",
+        "dispute",
+        "full",
+        "mac",
+        "meta",
+        "muse",
+        "privacy",
+        "seeking",
+        "stricter"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790507904590",
-    "1790515857761",
-    "1790522220039",
-    "1790524451641",
-    "1790519640701",
-    "1790502537227",
-    "1790519062205",
     "1790514947912",
     "1790521200804",
     "1790525820247",
@@ -11972,7 +11965,6 @@
     "1791114754095",
     "1791123055212",
     "1791085466205",
-    "1791100693153",
     "1791165720972",
     "1791170340038",
     "1789970643660",
@@ -12037,13 +12029,11 @@
     "1791091111100",
     "1791120720030",
     "1791134100484",
-    "1791105505189",
     "1791130005109",
     "1791144315012",
     "1791161302851",
     "1791164900754",
     "1791165580781",
-    "1791169860462",
     "1791174386153",
     "1791096240621",
     "1791098531045",
@@ -12053,15 +12043,24 @@
     "1791161654731",
     "1791169289041",
     "1791172332760",
-    "1791176511683",
     "1791096089931",
     "1791098479046",
     "1791153300883",
-    "1791168816886",
     "1791171920708",
-    "1791173293056",
     "1791175866245",
-    "1791179302426",
+    "1791094717397",
+    "1791094832126",
+    "1791105505652",
+    "1791119343730",
+    "1791134184079",
+    "1791138720726",
+    "1791169860974",
+    "1791173293337",
+    "1791173331981",
+    "1791173577071",
+    "1791174060609",
+    "1791174360663",
+    "1791174386587",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13332,17 +13331,16 @@
     "1790957700412",
     "1790960458455",
     "1790961393966",
-    "1791094717397",
-    "1791094832126",
     "1791096070671",
     "1791096240312",
     "1791097073469",
     "1791097801311",
     "1791098060359",
+    "1791100693153",
     "1791100705188",
     "1791102120646",
     "1791103843882",
-    "1791105505652",
+    "1791105505189",
     "1791105935001",
     "1791106717233",
     "1791107100701",
@@ -13358,7 +13356,6 @@
     "1791114840760",
     "1791115200174",
     "1791117583131",
-    "1791119343730",
     "1791119347445",
     "1791121015167",
     "1791122401975",
@@ -13368,7 +13365,6 @@
     "1791126310205",
     "1791129070178",
     "1791130378477",
-    "1791134184079",
     "1791134380478",
     "1791135241486",
     "1791135369456",
@@ -13381,7 +13377,6 @@
     "1791137437413",
     "1791138360423",
     "1791138378726",
-    "1791138720726",
     "1791138960828",
     "1791139595420",
     "1791140285927",
@@ -13431,11 +13426,12 @@
     "1791168194277",
     "1791168240717",
     "1791168392380",
+    "1791168816886",
     "1791168841383",
     "1791169236703",
     "1791169289518",
     "1791169740007",
-    "1791169860974",
+    "1791169860462",
     "1791169998915",
     "1791170011150",
     "1791170040553",
@@ -13455,16 +13451,12 @@
     "1791172379345",
     "1791172424692",
     "1791172579291",
-    "1791173293337",
+    "1791173293056",
     "1791173307386",
-    "1791173331981",
-    "1791173577071",
+    "1791173331248",
     "1791173700849",
     "1791173890125",
     "1791174000242",
-    "1791174060609",
-    "1791174360663",
-    "1791174386587",
     "1791174540773",
     "1791174798026",
     "1791175007187",
@@ -13475,6 +13467,7 @@
     "1791176298991",
     "1791176362404",
     "1791176394816",
+    "1791176511683",
     "1791176527318",
     "1791176679929",
     "1791177059517",
@@ -13487,15 +13480,22 @@
     "1791178914632",
     "1791178974475",
     "1791179097332",
+    "1791179302426",
     "1791179631341",
     "1791179743990",
     "1791180000708",
+    "1791180000984",
     "1791180000998",
     "1791180010595",
     "1791180053914",
     "1791180060698",
     "1791180120484",
     "1791180147246",
+    "1791180494177",
+    "1791180646674",
+    "1791181193567",
+    "1791181243307",
+    "1791181371509",
     "2317509",
     "2317615",
     "2317714",
@@ -13510,8 +13510,8 @@
     "2318656",
     "2318893"
   ],
-  "last_digest_hour": "2026-10-05T11",
-  "last_success": "2026-10-05T06:16:47.783812+00:00",
+  "last_digest_hour": "2026-10-05T12",
+  "last_success": "2026-10-05T06:32:08.377530+00:00",
   "national": {
     "alerted": [
       {
@@ -18046,12 +18046,13 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
+        "IRDAI": "2026-10-05T06:35:02.835288+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-04T19:48:06.107855+00:00"
     },
-    "last_run": "2026-10-05T06:19:56.153434+00:00",
+    "last_run": "2026-10-05T06:35:02.835837+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20314,8 +20315,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-kumkum-anil-mohod-on-winning-historic-gold-in-recurve-individual-event-at-asian-games",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63712",
-      "certin:CIAD-2026-0044",
-      "certin:CIAD-2026-0045",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -20336,6 +20335,8 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
+      "certin:CIAD-2026-0044",
+      "certin:CIAD-2026-0045",
       "page:https://www.mha.gov.in/sites/default/files/Qatar_12072026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/UNNationPolice_16072026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/postconstableheadconstable_01092026.pdf",
@@ -20666,6 +20667,9 @@
         "count": 56,
         "until": "2026-10-05T10:03:14.418060+00:00"
       },
+      "IRDAI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -20695,80 +20699,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Meta lays off co-founders and employees of acquired AI startup Virtue AI",
-      "post": {
-        "created_at": "2026-10-05T04:26:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1791174360663",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Meta lets go co-founders and employees of AI startup Virtue AI, four months after the company hired them;",
-        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQWXZIa21CdmRTcDZHZ1ZOZU1sbzkzTGFQT3ZSN0U1MjhRdk9qdWdkNEd4TVFfWEJzaGNXNlhmQTNOZkRCWmpyTnpWX1Z5UzlEb2RqdmNxcUFWeVN2NnR4M2R0bUZOckZBSGUzdGduSXlLMnFBcWJJVlloQl9VQ2djUDNQSlNfN25UR096aE01NXh3dkFfTkYxVDZoU2htc2JWMTlXaDhXTzBiOWlxVjRuVEpFYzJWaGl1eXFBT0dwWVJ6T1dKR3ZobnAwVHdISjNpYWs3SWE0TVRud2xxZ19jZW1fWV96MEVpV0tmOTdibjI4Z0x0UUxPT1RUVHg4N3VLZkRvanpzZVplRUZaTFlfQUJJY25USG1USmNMM2U1SkxWbnJXTW5jbl9fWmxoSVZPamFuZXQwVFczUmFKX3pqMzA1b19BVllfRXB2cjVjU1VNU25FeThSQXVB0gHfAkFVX3lxTE1hWjBmRVU2ZmNPbmN5UHQxVml0MTFVLVlWWTg5clNzSHM0YWVpallqcVZJYlpWSElrT0RmdDhSTXNpeVM4Z29HYXV3TV85YnNHSGV3Umxtd2FjbE8wVzE4T0xfZDduMXJlTDF4NVUxVzRMS3pXekVUbXhZOTBGNEF1Q0c5a01ERzNaVFljTF9OcmFpQzZrTjFpbElOSWZWTElJYTdxTmlYV0FLSEVmU3o1SG5GQno5cmw4c3BNWXo3TWl1YWtCWFZySHprRWZrTXBnc0Jndkg3TmUzRmVESTRnS1JLZDQ0MHFWUHItbFNXcVlaRk5ucVh5QnRodW9BQ3kxMmJ3SWNnX200LW9SVXUzUU9nS3RwNUVQY2MwM1BVWHVBNWwzTkZWRGxKT3VHZWdWVWxpREh2S2x6VlFoWUh1c1RHVDVUS2Z0MnZ6b0JoWVEtX2prXzR2TkUwSmVUTQ?oc=5"
-      },
-      "queued_at": "2026-10-05T05:47:12.951390+00:00",
-      "score": 7.0,
-      "why": "A significant leadership and staffing restructuring at a major AI firm scores well."
-    },
-    {
-      "headline": "Apple removes Bitchat from Indian App Store on government demand",
-      "post": {
-        "created_at": "2026-10-05T05:41:54+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1791178914632",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "News18",
-        "reposts": 0,
-        "text": "Apple Removes Bitchat From India's App Store After Government Demand: What Is This Offline Messaging App?",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMUJJTTg4VmViNHNMOFM1VWhMa3prZFppb1VTN1drYlV2cE1kSzBxZFV4ejlRVGRwMUhDSnZld084LXhIbXB5YXFKVG1YY1NseTdlbS0xQTFSTW5CMmloRGVISkhHU1hEejhYMmUzcTdtcWVNb3BXV3FaZTN4UlI1VElncW5qVnkweTFoelRadG9kd1hIVFd0WnJaUkY4VE1wcHFEeUphNDBtWnBvWkhINXFibzkxd9IBuwFBVV95cUxQUFFlMENNc2N3akpHYWc0UFJMVUpuczFnUGNVeE1KdHZXQ2NYZEZwRmFZcUlWbnBrcWtrYXlpclIyNTVsdUkycWtGVmtManhjSGpZQ0FmNGlkMk1iREdaTF9GNDZGWmlZdTJ0ZVhZenVnYk1qNjJvWWVxZTE1dmVLYjBQemNjeVgxczRXRm1rNE5CY054Q0JneTdLNmdKWTFRdk52T3p4Tk5pUG9RQVRiZ29uX2ZpSl9yVDc4?oc=5"
-      },
-      "queued_at": "2026-10-05T06:05:04.948540+00:00",
-      "score": 8.0,
-      "why": "Significant regulatory action involving an app ban in India."
-    },
-    {
-      "headline": "Anthropic's Mythos AI uncovers HTTP file server vulnerability",
-      "post": {
-        "created_at": "2026-10-05T06:00:53+00:00",
-        "handle": "News: Global AI",
-        "id": "1791180053914",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ET Datacenters",
-        "reposts": 0,
-        "text": "Anthropic's Mythos AI uncovers critical vulnerability in HTTP file server, exploited in the wild",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQeWNPTkdMS0VLMFM0NjhfbkRXbk51TC1meXJjMk5QY05CN19jSFJHSm0yUU9zY3hhMmtxRDY0XzVnZjFiSUFibUJpM2FpcUhDN3lObWVfQnpUeWZDNU41MVplc1JMRy1BYThiZnF2X0ZfVGRwQWVWOHpfeE1ZcG1vQThJZnJoUml1aVotUTIybEs2b3FXRFZ0SFBoNDNVdDYxMS1qcWFtY0VYLUxOTlhiQ05CLTMxTDJ4bGtUU2lBMHd5N1ZyZjV0SU9qQy1hNExmWnpUWTNhal8yaHQxR2dTYzdDLTZxTVNYdERzWEx4eHREQU1jUmFUQ0pQRkRURWpTa1A5VktJY092VGUzSDQ4ZjZFeUdFcTdTX0NzX0Q3TEdYUWlIcjFJRFAzcHllS0JkUkJIUW8wVXgwSExy0gGLAkFVX3lxTE5fZlRpSWJSdy1NMGRkVXBmdHpXTEJiYkxjRXhxcVU2MVMzZmpGRjU4bjk3ajR3SXZ5c2tfRDhHV1lYcnFOczIzZ21MaENtU0Fld0hyemNqVkI2T2QtX2RMZFZFTWdPN0ZyWXlVaUdpQkRCVWJrLWpJZHNuWWpVdU93TWhadkdHQjFmQ2JXRG9TSjBNMkpxc1M1TWZUUHZzXy1ibmxGNHp3eHh6ZFFsQjdXTloxM0Z4VTdRR042dnBSM1NQNEhoRkxIcjlHNVF0QXJJMHFyLWZ3WXhGcjZCQVFrQjJzZER4S3ZFM1lPTjNpV3R1XzVWM25mTHAtRVV5RG14VlFSQ3FpQ2VsMA?oc=5"
-      },
-      "queued_at": "2026-10-05T06:05:04.948540+00:00",
-      "score": 8.0,
-      "why": "Major AI company security disclosure involving threat intelligence and vulnerabilities."
-    },
-    {
-      "headline": "Qualcomm agrees to patent licensing deal with Huawei",
-      "post": {
-        "created_at": "2026-10-05T06:00:00+00:00",
-        "handle": "News: Global chips",
-        "id": "1791180000708",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Nikkei Asia",
-        "reposts": 0,
-        "text": "Qualcomm to pay Huawei for first time in 5G, AI patent breakthrough",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHpkeEFQNElSckZOaHJ2SVgzR090LTJ2MnZoNWUwSGhLM2d1RzdGY2xZSzdvdTVINFVsQlZQelVjYnZ6bzNIMkxCZ0dPU2NjWWpISEhhZC14cnJIZ3VQQnhCWERESnItS0MtUzJhVTZkTDZjY1Qwc1FHWnoybXFkM05waU1TMDlXSlBaZlJ3Ykp6dE5icGV3bF8xSFFDRDR4d0N1aE9ZVkpJZWVCWTFabGtyUVlkREFS?oc=5"
-      },
-      "queued_at": "2026-10-05T06:16:47.727274+00:00",
-      "score": 7.0,
-      "why": "A significant cross-licensing deal between major chip and tech players constitutes a major industry development."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -21819,8 +21750,8 @@
     "microsoft india": 1791172424692,
     "mistral ai": 1790611079525,
     "naukri": 1790833182849,
-    "news: big tech platforms": 1791180000998,
-    "news: consumer internet india": 1791179743990,
+    "news: big tech platforms": 1791181243307,
+    "news: consumer internet india": 1791181371509,
     "news: global ai": 1791180053914,
     "news: global chips": 1791180060698,
     "news: global it services": 1791179302426,
@@ -21831,7 +21762,7 @@
     "news: india tech policy": 1791178914632,
     "news: india telecom": 1791177780739,
     "news: indian it majors": 1791179302426,
-    "news: indian it midcaps": 1791180120484,
+    "news: indian it midcaps": 1791181193567,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791176159797,
     "nvidia": 1790946039935,
@@ -21881,7 +21812,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-05T06:16:48.149326+00:00",
+    "last_server_run": "2026-10-05T06:32:08.663472+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-05T04:48:06.447510+00:00",
@@ -22021,7 +21952,7 @@
       },
       "last": {
         "calendar": "2026-10-05T05:03:04.616701+00:00",
-        "ls_reports": "2026-10-05T04:17:40.757448+00:00",
+        "ls_reports": "2026-10-05T06:33:04.755682+00:00",
         "rs_committee_press": "2026-10-05T04:47:51.288423+00:00",
         "rs_press": "2026-10-05T04:47:48.130160+00:00",
         "rs_reports": "2026-10-05T04:47:45.073022+00:00",
