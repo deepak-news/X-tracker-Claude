@@ -1,24 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-25T18:32:08.568703+00:00",
-      "handle": "News: Global IT services",
-      "headline": "CBIC eases import paperwork for UK goods under trade deal",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNGZXTHJpc0RmQjAwQlRIdEZ6R3JFSG14RlpVdWlmbzJ2VWR5a0x1Nk9CWHpiV2t6OXV4RDQ4QTZLUTc0NFJzMF9FRW11MUJRY1JnWHUwRlRsN25fRHdlM3BWSGp5bkp0aHQtcDBKVGdIUkNHVHdJWHFJdVFzU0hLSGI1c1g4eUxOdVd0YjJZczdxZ0N5RHFyalVlYkNJZjlETlYzTnNlbDVWMUZsN2ppYVo0eXB2X2VSc0d5eHg0b0JXM0EtOWs3alhBbzl6aDZES01IUjF0NktHRkFnc0JKTjZBd1ROYzBTZmxEVWlYQ1hlTVR4VGF3cNIB_gFBVV95cUxPUEI5OVpQZ2tVaDBkU05Td0ZhbGNKN0RwSEhUcTFaLUNuT21WaFdCX3VJWHlwR3daNFFVTy1SU0liNFhBcV9WMlZ2WVhDUmR3d2oxYThQYU81MWxoQXhDLXlPZUQ2QTl3N1lNSmtELTY4ZzRWUWtKOEhlTGJHSG5GX20wSkZ1c3kydTVieUE3SnNZRkhZZUtjbC1oS0EwTkpuS2h0VWhad1FEWk1uLXVGbWZqblpOWk1qY3dJMXlseGtxZnNSamRuUFZnZVVtMTY3aDVvTldncHB3TEdXak9jQ1FsbmpHc3pERjduRUFYR0U1TVZFbzhMWEtJc1lLZw?oc=5",
-      "words": [
-        "cbic",
-        "deal",
-        "eases",
-        "imports",
-        "paperwork",
-        "preferential",
-        "seeking",
-        "tariffs",
-        "trade"
-      ]
-    },
-    {
       "at": "2026-09-25T19:32:58.191300+00:00",
       "handle": "News: India fintech",
       "headline": "75% traders may avoid UPI levy; No UPI Day on Oct 2",
@@ -7497,15 +7479,30 @@
         "srinivasaraghavan",
         "subhathra"
       ]
+    },
+    {
+      "at": "2026-10-05T01:32:09.118025+00:00",
+      "handle": "News: Global chips",
+      "headline": "AM Intelligence orders 20,000 Nvidia GPUs in $4 billion deal",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVGo3dDY5c01rUHoyQWhqV0VBUTVVVXZXTjU3ZFd6N1M2ZjdpVUxXNDg4RFVwelRrbUZaNlRPSmZFTWE2WmtBNmg5V2FUVU5jSHBKSkp1ak8yZEZOMnp2dDc2eWlmbnJaaFRwanplNXpxb3NuT0trcS1qcVhXb1JicmdHY05UUzN3UHY1VDVNMVpBMnd2dTFtNmxZRGZNdUFReE4tV1E2ajZUQkk0ZHdnY1F6SXVpdVVJTkd1R2l1aDZncUlQYUtCQ29iM0xrZXEzSkphN9IB2gFBVV95cUxQVFhJQlcwMG5YQU9vOXprdm5KV2RpOVBKQzJ4LTZFRy05V3g4VEdtRzZrenBFOHE1RzBVZ0tWaHR6ckQ0ckx3VDg5ZzVqOHdCNEhjZ19OZWU3TXRPc2c2blNJdFJ5Y01EWjhONXhmNHZkVDhvZkI4Mm9VaXFJb2pVMXk3UFhaUGxjNDNEVml0b2xmRWlLanA2UTNUZDNEZGFBaThJZjk1LU16bVV6QktnU0hGQXc3bXlxUkZmRzlzeE42VlUxOGdUWUJ5cWtCSTZ4Q2NUaU4wU0Jydw?oc=5",
+      "words": [
+        "000",
+        "backed",
+        "billion",
+        "deal",
+        "founders",
+        "gpus",
+        "greenko",
+        "intelligence",
+        "nvidia",
+        "orders"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790452740819",
-    "1790475550219",
-    "1790490369598",
-    "1790491563114",
     "1790487206313",
     "1790493677814",
     "1790494140210",
@@ -12002,7 +11999,6 @@
     "1791081408573",
     "1791105928937",
     "1791113820889",
-    "1791134100484",
     "1791083712251",
     "1791098841855",
     "1791055560655",
@@ -12096,7 +12092,6 @@
     "1791103522163",
     "1791119332730",
     "1791135732655",
-    "1791083940064",
     "1791085466202",
     "1791091111217",
     "1791098479046",
@@ -12104,6 +12099,10 @@
     "1791105935001",
     "1791121825730",
     "1791124200826",
+    "1791076757593",
+    "1791077463743",
+    "1791120227803",
+    "1791134110115",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13378,13 +13377,12 @@
     "1790957700412",
     "1790960458455",
     "1790961393966",
-    "1791076757593",
-    "1791077463743",
     "1791078354948",
     "1791079038977",
     "1791080160088",
     "1791080160673",
     "1791082260234",
+    "1791083940064",
     "1791085466205",
     "1791086179697",
     "1791087210417",
@@ -13426,7 +13424,6 @@
     "1791119339730",
     "1791119347445",
     "1791119820146",
-    "1791120227803",
     "1791120538044",
     "1791120543625",
     "1791120598243",
@@ -13443,7 +13440,7 @@
     "1791127084574",
     "1791129070178",
     "1791131692512",
-    "1791134110115",
+    "1791134100484",
     "1791134184079",
     "1791135241486",
     "1791135369852",
@@ -13481,7 +13478,10 @@
     "1791158400112",
     "1791158460304",
     "1791160200098",
+    "1791160200849",
+    "1791160222621",
     "1791160242028",
+    "1791160242049",
     "1791160309683",
     "1791160361432",
     "1791160405465",
@@ -13489,6 +13489,7 @@
     "1791161302533",
     "1791161654988",
     "1791161995612",
+    "1791163260352",
     "2317509",
     "2317615",
     "2317714",
@@ -13503,8 +13504,8 @@
     "2318656",
     "2318893"
   ],
-  "last_digest_hour": "2026-10-05T06",
-  "last_success": "2026-10-05T01:16:57.530477+00:00",
+  "last_digest_hour": "2026-10-05T07",
+  "last_success": "2026-10-05T01:32:09.170523+00:00",
   "national": {
     "alerted": [
       {
@@ -18038,13 +18039,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "CERT-In": "2026-10-05T01:38:44.668739+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-04T19:48:06.107855+00:00"
     },
-    "last_run": "2026-10-05T01:18:34.337310+00:00",
+    "last_run": "2026-10-05T01:38:44.669399+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20303,6 +20305,8 @@
       "pib:2318948",
       "pib:2318959",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-attends-prayer-meeting-at-gandhi-smriti-recalls-timeless-message-of-bapu",
+      "certin:CIAD-2026-0044",
+      "certin:CIAD-2026-0045",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -20323,8 +20327,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
-      "certin:CIAD-2026-0044",
-      "certin:CIAD-2026-0045",
       "page:https://www.mha.gov.in/sites/default/files/Qatar_12072026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/UNNationPolice_16072026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/postconstableheadconstable_01092026.pdf",
@@ -20649,6 +20651,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "CERT-In": {
+        "count": 1
+      },
       "DGFT": {
         "count": 55,
         "until": "2026-10-05T04:02:59.917142+00:00"
@@ -20682,26 +20687,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "AM Intelligence orders 20,000 Nvidia GPUs in $4 billion deal",
-      "post": {
-        "created_at": "2026-10-05T00:45:22+00:00",
-        "handle": "News: Global chips",
-        "id": "1791161122779",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "Greenko founders-backed AM Intelligence orders 20,000 Nvidia GPUs in $4 billion deal",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVGo3dDY5c01rUHoyQWhqV0VBUTVVVXZXTjU3ZFd6N1M2ZjdpVUxXNDg4RFVwelRrbUZaNlRPSmZFTWE2WmtBNmg5V2FUVU5jSHBKSkp1ak8yZEZOMnp2dDc2eWlmbnJaaFRwanplNXpxb3NuT0trcS1qcVhXb1JicmdHY05UUzN3UHY1VDVNMVpBMnd2dTFtNmxZRGZNdUFReE4tV1E2ajZUQkk0ZHdnY1F6SXVpdVVJTkd1R2l1aDZncUlQYUtCQ29iM0xrZXEzSkphN9IB2gFBVV95cUxQVFhJQlcwMG5YQU9vOXprdm5KV2RpOVBKQzJ4LTZFRy05V3g4VEdtRzZrenBFOHE1RzBVZ0tWaHR6ckQ0ckx3VDg5ZzVqOHdCNEhjZ19OZWU3TXRPc2c2blNJdFJ5Y01EWjhONXhmNHZkVDhvZkI4Mm9VaXFJb2pVMXk3UFhaUGxjNDNEVml0b2xmRWlLanA2UTNUZDNEZGFBaThJZjk1LU16bVV6QktnU0hGQXc3bXlxUkZmRzlzeE42VlUxOGdUWUJ5cWtCSTZ4Q2NUaU4wU0Jydw?oc=5"
-      },
-      "queued_at": "2026-10-05T01:02:14.826178+00:00",
-      "score": 8.0,
-      "why": "A major multi-billion dollar AI infrastructure chip deal involving a green energy-backed firm."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -21751,7 +21737,7 @@
     "microsoft india": 1790848562260,
     "mistral ai": 1790611079525,
     "naukri": 1790833182849,
-    "news: big tech platforms": 1791160309683,
+    "news: big tech platforms": 1791163260352,
     "news: consumer internet india": 1791140959075,
     "news: global ai": 1791160361432,
     "news: global chips": 1791161122779,
@@ -21813,7 +21799,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-05T01:16:57.758710+00:00",
+    "last_server_run": "2026-10-05T01:32:09.514750+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-05T00:33:44.571155+00:00",
