@@ -1,22 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-25T20:32:11.405425+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Microsoft reboots Copilot and shifts strategy away from personal AI chatbots",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUFk4N05aTV9pTVVFMTJXN0tLdlJkd3RMNFFQSHluRnRJZW5zckREOVhVeURPSE5mTXJEamljWThsdnFNMlpDUThuZU4zQm9PLVpKMXFuWHhOYVVWam1heU9fcDdrZFg3SUJ0WlFVVmRtTHpZaWdPdjhIY3A0TG9YeG40OEl1aHJvUFdZZWZSRnU1OUt0NHp5dHhEeGtuOHRmVzUzTTVBNWNMangyQ2JrYlpmakNoamdPWGpXbmNYNXllZ1BZR01fVWs3ckNibFdYOUd4N3daVHcxc0F3ak5fOHpZMzXSAeQBQVVfeXFMT1BZODdOWk1faU1VRTEyVzdLS3ZSZHd0TDRRUEh5bkZ0SWVuc3JERDlYVXlET0hOZk1yRGppY1k4bHZxTTJaQ1E4bmVOM0JvTy1aSjFxblh4TmFVVmptYXlPX3A3a2RYN0lCdFpRVVZkbUx6WWlnT3Y4SGNwNExvWHhuNDhJdWhyb1BXWWVmUkZ1NTlLdDR6eXR4RHhrbjh0Zlc1M001QTVjTGp4MkNia2JaZmpDaGpnT1hqV25jWDV5ZWdQWUdNX1VrN3JDYmxXWDlHeDd3WlR3MXNBd2pOXzh6WTM1?oc=5",
-      "words": [
-        "abandons",
-        "chatbot",
-        "copilot",
-        "microsoft",
-        "personal",
-        "race",
-        "reboot"
-      ]
-    },
-    {
       "at": "2026-09-25T22:32:06.739529+00:00",
       "handle": "News: Global AI",
       "headline": "Unsecured OpenAI agents expose 53 user images online",
@@ -7497,16 +7481,34 @@
         "texas",
         "tsmc"
       ]
+    },
+    {
+      "at": "2026-10-05T04:32:07.510922+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Government scraps Education Ministry Digital Uni plan for MeitY alternative",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNakhTcW83Q0w4Nm9VQ1hyXzNKa3dlUHJtamNEZWRIWWIyelY3YVpndFlsakpLT0cyTWd1SUVuZ0RCNUhOSUtodG5pY3N3SElyM2pyZ0RoYzhlUkZMU28tZGlSZzV1QmZuZlZQUW41SWJIWjdtQ0VsZTBkc2d3Z1BTOUFJWXlydjk3U3ZaVU9Bb1VPZ1E2TnRnQ0N1MHg5VVlZVzJudWpTTWdPS0dMOTRGLVVsaW1oS2JxRHhscUxTQ1FLUXFqbGRqMGhoQmdwVmdvMFFoYTdMZ0tWd9IB3wFBVV95cUxObE5pdWpuRE9RekQyVDV1MW84ckFmWE1PeGJrQ2lTLXZRZDhObEZyd2ZjSU9hbldoY05WUElreHdudDVBZFBpbGVnOER4LVVKYlc1LUkyRkpfZXRwcnY5elRkYnJlUVk2SHAwZTB0RkpCbHp3X05ydEVPNUhCREVJUDJPcVBVTVJhNEdpR0M4ZklLaXBoTXg0WTh5dVBPaVBtMTZ4UEdPUGd2eVY4b1B4MWZNU1lKc2FRZndRTVBNbUpyVWNPeF9YVzNzcXREYkptNkhtdW96VFpDZG04ZlFJ?oc=5",
+      "words": [
+        "alternative",
+        "different",
+        "digital",
+        "edu",
+        "exclusive",
+        "govt",
+        "meity",
+        "ministry",
+        "plan",
+        "quietly",
+        "route",
+        "scraps",
+        "takes",
+        "uni"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790505383675",
-    "1790509080231",
-    "1790485745536",
-    "1790493051458",
-    "1790494796556",
     "1790502464217",
     "1790503484886",
     "1790506080956",
@@ -12049,16 +12051,12 @@
     "1791160200939",
     "1791161302533",
     "1791167538123",
-    "1791108691716",
     "1791123933209",
     "1791101469314",
     "1791114754095",
     "1791123055212",
-    "1791134184574",
-    "1791165120708",
     "1791085466205",
     "1791100693153",
-    "1791163401257",
     "1791165720972",
     "1791170340038",
     "1789970643660",
@@ -12091,10 +12089,15 @@
     "1791162000530",
     "1791165580781",
     "1791166948694",
-    "1791168140548",
     "1791168240434",
     "1791168392380",
     "1791168816886",
+    "1791087882778",
+    "1791103843882",
+    "1791134184079",
+    "1791153079497",
+    "1791161995612",
+    "1791168140128",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13366,7 +13369,6 @@
     "1790957700412",
     "1790960458455",
     "1790961393966",
-    "1791087882778",
     "1791091111100",
     "1791094717397",
     "1791094832126",
@@ -13379,10 +13381,10 @@
     "1791098531045",
     "1791100705188",
     "1791102120646",
-    "1791103843882",
     "1791105505189",
     "1791105935001",
     "1791106717233",
+    "1791108691716",
     "1791109300526",
     "1791109781680",
     "1791110236705",
@@ -13408,9 +13410,10 @@
     "1791127084574",
     "1791127091900",
     "1791129070178",
+    "1791130005109",
     "1791131692306",
     "1791134100484",
-    "1791134184079",
+    "1791134184574",
     "1791135241486",
     "1791135369852",
     "1791135732120",
@@ -13439,7 +13442,6 @@
     "1791151314860",
     "1791151449515",
     "1791151756433",
-    "1791153079497",
     "1791153300883",
     "1791158460304",
     "1791160200739",
@@ -13452,24 +13454,25 @@
     "1791161302851",
     "1791161640817",
     "1791161654731",
-    "1791161995612",
     "1791162000762",
     "1791163213161",
     "1791163260782",
     "1791163266481",
+    "1791163401257",
     "1791163800256",
     "1791163801574",
     "1791163868886",
     "1791164231973",
     "1791164700405",
     "1791164900754",
+    "1791165120708",
     "1791165580650",
     "1791165640140",
     "1791165720743",
     "1791166573385",
     "1791166948715",
     "1791167042917",
-    "1791168140128",
+    "1791168140548",
     "1791168141850",
     "1791168194277",
     "1791168240717",
@@ -13488,7 +13491,11 @@
     "1791172332760",
     "1791172370889",
     "1791172424692",
+    "1791172579291",
     "1791173293337",
+    "1791173700802",
+    "1791173700849",
+    "1791173890125",
     "2317509",
     "2317615",
     "2317714",
@@ -13503,8 +13510,8 @@
     "2318656",
     "2318893"
   ],
-  "last_digest_hour": "2026-10-05T09",
-  "last_success": "2026-10-05T04:16:49.938064+00:00",
+  "last_digest_hour": "2026-10-05T10",
+  "last_success": "2026-10-05T04:32:07.567698+00:00",
   "national": {
     "alerted": [
       {
@@ -18044,7 +18051,7 @@
       },
       "warned": "2026-10-04T19:48:06.107855+00:00"
     },
-    "last_run": "2026-10-05T04:20:59.279590+00:00",
+    "last_run": "2026-10-05T04:33:31.416284+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20684,26 +20691,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Government scraps Education Ministry Digital Uni plan for MeitY alternative",
-      "post": {
-        "created_at": "2026-10-05T03:30:42+00:00",
-        "handle": "News: India tech policy",
-        "id": "1791171042125",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ThePrint",
-        "reposts": 0,
-        "text": "EXCLUSIVE: Govt quietly scraps Edu ministry\u2019s Digital Uni plan. Its alternative, by MeitY, takes different route",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNakhTcW83Q0w4Nm9VQ1hyXzNKa3dlUHJtamNEZWRIWWIyelY3YVpndFlsakpLT0cyTWd1SUVuZ0RCNUhOSUtodG5pY3N3SElyM2pyZ0RoYzhlUkZMU28tZGlSZzV1QmZuZlZQUW41SWJIWjdtQ0VsZTBkc2d3Z1BTOUFJWXlydjk3U3ZaVU9Bb1VPZ1E2TnRnQ0N1MHg5VVlZVzJudWpTTWdPS0dMOTRGLVVsaW1oS2JxRHhscUxTQ1FLUXFqbGRqMGhoQmdwVmdvMFFoYTdMZ0tWd9IB3wFBVV95cUxObE5pdWpuRE9RekQyVDV1MW84ckFmWE1PeGJrQ2lTLXZRZDhObEZyd2ZjSU9hbldoY05WUElreHdudDVBZFBpbGVnOER4LVVKYlc1LUkyRkpfZXRwcnY5elRkYnJlUVk2SHAwZTB0RkpCbHp3X05ydEVPNUhCREVJUDJPcVBVTVJhNEdpR0M4ZklLaXBoTXg0WTh5dVBPaVBtMTZ4UEdPUGd2eVY4b1B4MWZNU1lKc2FRZndRTVBNbUpyVWNPeF9YVzNzcXREYkptNkhtdW96VFpDZG04ZlFJ?oc=5"
-      },
-      "queued_at": "2026-10-05T04:16:49.882032+00:00",
-      "score": 8.0,
-      "why": "Major policy and government tech shift involving MeitY, highly relevant to Indian IT policy."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -21756,7 +21744,7 @@
     "news: big tech platforms": 1791169860462,
     "news: consumer internet india": 1791165580781,
     "news: global ai": 1791172332760,
-    "news: global chips": 1791170340038,
+    "news: global chips": 1791172579291,
     "news: global it services": 1791173293337,
     "news: india ai deeptech": 1791140940300,
     "news: india edtech gaming": 1791103843882,
@@ -21764,8 +21752,8 @@
     "news: india semiconductors": 1791140871058,
     "news: india tech policy": 1791171042125,
     "news: india telecom": 1791168194277,
-    "news: indian it majors": 1791171999758,
-    "news: indian it midcaps": 1791168140548,
+    "news: indian it majors": 1791173890125,
+    "news: indian it midcaps": 1791173700802,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791170066275,
     "nvidia": 1790946039935,
@@ -21815,7 +21803,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-05T04:16:50.273307+00:00",
+    "last_server_run": "2026-10-05T04:32:07.918759+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-05T02:47:57.824860+00:00",
