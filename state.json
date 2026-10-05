@@ -7507,11 +7507,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790600180276",
-    "1790600329282",
-    "1790600820562",
-    "1790601033480",
-    "1788267600634",
     "1788282000982",
     "1788350400835",
     "1788393600123",
@@ -11970,7 +11965,6 @@
     "1791179631341",
     "1791180010616",
     "1791182727432",
-    "1791208140025",
     "1791213866802",
     "1789646551202",
     "1789646551284",
@@ -11981,7 +11975,6 @@
     "1789646551637",
     "1789646551673",
     "1789646551701",
-    "1790337528987",
     "1790691300128",
     "1790697600111",
     "1790704800890",
@@ -12000,6 +11993,16 @@
     "1791205200153",
     "1791206280788",
     "1791209760490",
+    "1791167700937",
+    "1791182930422",
+    "1791190260135",
+    "1791193893570",
+    "1791195157088",
+    "1791196901677",
+    "1791197831204",
+    "1791198422759",
+    "1791198540396",
+    "1791202676421",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13068,6 +13071,7 @@
     "1790310715285",
     "1790318797256",
     "1790325568512",
+    "1790337528987",
     "1790337830994",
     "1790339592994",
     "1790362800983",
@@ -13265,7 +13269,6 @@
     "1791167042917",
     "1791167538491",
     "1791167693486",
-    "1791167700937",
     "1791168140128",
     "1791168816886",
     "1791168841383",
@@ -13310,7 +13313,6 @@
     "1791182763940",
     "1791182858092",
     "1791182915851",
-    "1791182930422",
     "1791183600317",
     "1791183600642",
     "1791183711776",
@@ -13336,7 +13338,6 @@
     "1791189666803",
     "1791189795453",
     "1791190077152",
-    "1791190260135",
     "1791190512211",
     "1791190523995",
     "1791190877437",
@@ -13352,12 +13353,10 @@
     "1791193465552",
     "1791193665344",
     "1791193893029",
-    "1791193893570",
     "1791194400000",
     "1791194773913",
     "1791194783710",
     "1791194857600",
-    "1791195157088",
     "1791195180615",
     "1791195309217",
     "1791195322314",
@@ -13377,16 +13376,12 @@
     "1791196534037",
     "1791196729498",
     "1791196894126",
-    "1791196901677",
     "1791196954555",
     "1791197093489",
     "1791197291555",
     "1791197579086",
     "1791197625014",
-    "1791197831204",
     "1791198001811",
-    "1791198422759",
-    "1791198540396",
     "1791198660623",
     "1791198947492",
     "1791199242649",
@@ -13411,7 +13406,6 @@
     "1791202380201",
     "1791202459425",
     "1791202470555",
-    "1791202676421",
     "1791203222396",
     "1791203335618",
     "1791203495676",
@@ -13440,6 +13434,7 @@
     "1791207180429",
     "1791207204377",
     "1791207918368",
+    "1791208140025",
     "1791208200411",
     "1791208279225",
     "1791208350964",
@@ -13468,6 +13463,7 @@
     "1791213264655",
     "1791213287720",
     "1791213767418",
+    "1791214035088",
     "1791214124208",
     "1791214226555",
     "1791214740311",
@@ -13478,6 +13474,8 @@
     "1791215484096",
     "1791215538360",
     "1791215647676",
+    "1791215775622",
+    "1791215914834",
     "1791216000055",
     "1791216000063",
     "1791216000082",
@@ -13489,6 +13487,8 @@
     "1791216000425",
     "1791216000447",
     "1791216000728",
+    "1791216293696",
+    "1791216801023",
     "2317509",
     "2317615",
     "2317714",
@@ -13509,7 +13509,7 @@
     "2319395"
   ],
   "last_digest_hour": "2026-10-05T21",
-  "last_success": "2026-10-05T16:02:30.270214+00:00",
+  "last_success": "2026-10-05T16:16:56.693686+00:00",
   "national": {
     "alerted": [
       {
@@ -17606,6 +17606,29 @@
           "ministry",
           "supreme"
         ]
+      },
+      {
+        "at": "2026-10-05T16:18:45.773870+00:00",
+        "handle": "Gazette Ministry of Rural Development",
+        "headline": "Rural development ministry amends employment guarantee act schedule for state housing schemes",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/276798.pdf",
+        "words": [
+          "2025",
+          "act",
+          "amendment",
+          "development",
+          "extraordinary",
+          "gazette",
+          "housing",
+          "inclusion",
+          "ministry",
+          "notification",
+          "ram",
+          "rural",
+          "schedule",
+          "schemes"
+        ]
       }
     ],
     "gazette_scanned": [
@@ -18233,7 +18256,8 @@
       "CG-DL-E-05102026-276795",
       "CG-DL-E-05102026-276791",
       "CG-DL-E-05102026-276792",
-      "CG-DL-E-05102026-276793"
+      "CG-DL-E-05102026-276793",
+      "CG-DL-E-05102026-276798"
     ],
     "health": {
       "down": {
@@ -18244,7 +18268,7 @@
       },
       "warned": "2026-10-04T19:48:06.107855+00:00"
     },
-    "last_run": "2026-10-05T16:05:41.339850+00:00",
+    "last_run": "2026-10-05T16:18:45.781886+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20532,12 +20556,14 @@
       "gazette:SG-DL-E-03102026-276755",
       "gazette:CG-DL-E-03102026-276754",
       "gazette:CG-DL-E-03102026-276753",
+      "gazette:SG-DL-E-03102026-276756",
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "gazette:CG-DL-E-03102026-276758",
       "gazette:CG-DL-E-03102026-276759",
       "gazette:CG-OR-E-03102026-276757",
       "gazette:CG-AP-E-03102026-276761",
       "gazette:CG-CG-E-03102026-276760",
-      "gazette:SG-DL-E-03102026-276756",
       "gazette:CG-AP-E-03102026-276762",
       "gazette:CG-CG-E-03102026-276764",
       "gazette:CG-AP-E-03102026-276763",
@@ -20552,8 +20578,6 @@
       "gazette:CG-DL-E-05102026-276774",
       "gazette:CG-DL-E-05102026-276775",
       "gazette:CG-DL-E-05102026-276771",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -20929,7 +20953,8 @@
       "pib:2319373",
       "quake:ncs:UmNENU9DMkYwdVoranI1TTNsc0h1QT09",
       "pib:2319395",
-      "pib:2319398"
+      "pib:2319398",
+      "gazette:CG-DL-E-05102026-276798"
     ],
     "source_failures": {
       "CBI": {
@@ -20969,7 +20994,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Pentagon stops using Anthropic AI tools, reports BBC",
+      "post": {
+        "created_at": "2026-10-05T16:13:21+00:00",
+        "handle": "News: Global AI",
+        "id": "1791216801023",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BBC",
+        "reposts": 0,
+        "text": "Pentagon no longer using Anthropic AI tools, BBC told",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5"
+      },
+      "queued_at": "2026-10-05T16:16:56.643634+00:00",
+      "score": 7.0,
+      "why": "Major policy and security disclosure involving a top AI lab, meeting criteria for global AI stories."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -22025,8 +22069,8 @@
     "naukri": 1790833182849,
     "news: big tech platforms": 1791213866802,
     "news: consumer internet india": 1791214124208,
-    "news: global ai": 1791214740311,
-    "news: global chips": 1791215647676,
+    "news: global ai": 1791216801023,
+    "news: global chips": 1791215775622,
     "news: global it services": 1791213132501,
     "news: india ai deeptech": 1791210050655,
     "news: india edtech gaming": 1791211293727,
@@ -22037,7 +22081,7 @@
     "news: indian it majors": 1791211989986,
     "news: indian it midcaps": 1791196894126,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1791208980384,
+    "news: tech leaders": 1791215914834,
     "nvidia": 1791205257735,
     "nvidia blog": 1791205257735,
     "openai": 1791212400691,
@@ -22085,7 +22129,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-05T16:02:30.619958+00:00",
+    "last_server_run": "2026-10-05T16:16:56.977585+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-05T15:33:19.400812+00:00",
@@ -22357,6 +22401,7 @@
       "CG-DL-E-05102026-276793",
       "CG-DL-E-05102026-276794",
       "CG-DL-E-05102026-276795",
+      "CG-DL-E-05102026-276798",
       "CG-DL-E-15092026-276194",
       "CG-DL-E-15092026-276195",
       "CG-DL-E-15092026-276196",
