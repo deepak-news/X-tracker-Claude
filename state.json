@@ -2,56 +2,6 @@
   "alerted": [
     {
       "at": "2026-09-28T16:32:30.708286+00:00",
-      "handle": "News: Global AI",
-      "headline": "Top AI researchers call for urgent oversight of self-improving systems",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0JIcWNSZE5CSmhjRjVCMG9rd1VpN0VhX1FtVDRfR3ZEMXowSXNvVnVsWV8tU0dtcTNlT0FZX1MtWGxoU0VmeVQ0UUJZbnFndDFsczdDRUo4RjdzV3N6MGpkYkFKR0N5UmJUWHo1NEVKYms0UzE0TnAwMFdKaW9jM3E4S0FsYjBmRTI4T3JJZmhsS1BhYzUtSURWclNnY0V2ay05V0JDSGRNR0U?oc=5",
-      "words": [
-        "call",
-        "exclusive",
-        "improving",
-        "oversight",
-        "researchers",
-        "self",
-        "systems",
-        "top",
-        "urgent"
-      ]
-    },
-    {
-      "at": "2026-09-28T16:32:30.708286+00:00",
-      "handle": "News: Global AI",
-      "headline": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTdLR2U5RVBUd2QxaTU0WGNHc1p1S2Y4Wk1nTUhqMXlTOE1zeHdWc1Y2eFNfQ2FTZFB1bzZwT2dTSHp5Z3p4RVhwZUtNRGpkQ3RNYnVkUTd2ZG1EZk5PeGZNWGN0d19wOGp1dkQyRzRWM0xFcS04bjFkakt6Um5oWTFCTXphWERMYWRzX01IQURWekNZ?oc=5",
-      "words": [
-        "45b",
-        "chip",
-        "developer",
-        "hits",
-        "physical",
-        "sima",
-        "valuation"
-      ]
-    },
-    {
-      "at": "2026-09-28T16:32:30.708286+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Cognizant\u2019s TerraLingua seeks to contain risks from autonomous AI agents",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS192TG9sT1E2WEx6LVhKUFlGdnZzLWg0WWpiZFRWRE1WemNYSTBwQ1ludm1oNEhXdVdlWUdvTlhTMjVDS1ByRVNqYWsta1FtVExwZC1oYlB3UFlvZUdEWkRuOWdpR2xJOFNvZUZSTDg0aktZWktfbVdwU1EtMUVLamFOQlNVcy1rSUU0dFYtZ0FDNDZ1Z1JrcnUwM2JpNHJGUkVzS1dERV9QSWZtcG1QLVU0WFhDSGNhN2haR3laNTNxcXdKZVRERHdWeWI0eWd4RXl6Z3BUb0ZTV2pvTmFQWdIB5gFBVV95cUxQdXRoRXBuTldSZjI1VDNqS05lY3JwVUxlNjBmSWxoYWM0WlZ5NmhNUk5fN09kQVRlamFfVk52TTlSeDZfZnA5b3Z1NUJQV2h0UXlmc0FJZlpTZ0hIcDFtNV92TmFjZXgzaWdyRldQNUtrUGNEWlRkdnV0T0ItVzdwQWZLUWdUUzJkdXBILWU2X2V1NGR3VklQWkU1Yl9TLU10RnpTa2pPZmFaSVcza0JGeXVpVnVKVm5RR2hWZWxjVzBxX0ZDbndXYVUxZWdyc0xaaHo3SXEwSWZhQVZGZHJjSWptcF9Ydw?oc=5",
-      "words": [
-        "agents",
-        "autonomous",
-        "cognizant",
-        "contain",
-        "risks",
-        "seeks",
-        "terralingua"
-      ]
-    },
-    {
-      "at": "2026-09-28T16:32:30.708286+00:00",
       "handle": "News: Big tech platforms",
       "headline": "Meta launches enterprise AI business amid spending surge",
       "tier": 0,
@@ -7505,25 +7455,71 @@
         "running",
         "same"
       ]
+    },
+    {
+      "at": "2026-10-06T12:32:09.669675+00:00",
+      "handle": "REG CCI",
+      "headline": "CCI approves merger filings for BCPE Wellbeing Holdco and Integral Investments",
+      "tier": 1,
+      "url": "https://www.cci.gov.in/combination/order/details/summary/1798/0/orders-section31",
+      "words": [
+        "1458",
+        "2026",
+        "approved",
+        "asia",
+        "bcpe",
+        "cci",
+        "decided",
+        "decision",
+        "filed",
+        "form",
+        "holdco",
+        "integral",
+        "investments",
+        "limited"
+      ]
+    },
+    {
+      "at": "2026-10-06T12:32:10.616412+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI officials meet Australian government following data inquiries",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYm0yckt1aUItdll6Ry1MMjQyZGZNVWlxZTdBWnNObXVnYVVfVzdobXJfUjRsQ1hqSDZYcmZqZ1VMZnBRSmJCV2l5TkdyQnZmLXFfdW81em13VTZDNDEtWkgzMDNLQlJ2LVpCS2hiR2t5U3NjRUJBODc5U1BuT1dqb2F2WHRvc0g4OVU3cVVXcmlnUGpPNm9mZE9QZkJybjctS3E5Z0c4NktTTnV4Rk92bjdfM0wxNXM3QlFpOFltTUJ6TE5mRlJlWHNMOTRCaTdmelcwTm1fZmw?oc=5",
+      "words": [
+        "answers",
+        "australian",
+        "culpa",
+        "delivers",
+        "elude",
+        "government",
+        "mea",
+        "openai",
+        "person",
+        "still"
+      ]
+    },
+    {
+      "at": "2026-10-06T12:32:10.616412+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Zaggle to establish wholly owned subsidiary in Abu Dhabi",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLW5taF9NekQ1bGgyZC1fZVhZMWotUkxTZ3A1S1N1RlhQZ2NBVzV4djZ3ejlyZmFEYkRjMTR1UGhMcTI3NzNYaTV3OHA2T3hKaGpqWTlpNEFwQ0pnVXo2Qml2YzRLaXIwdjY3ZmZhWXBNUkdJZUFkeHdFRVRteDJ2dUc3aWl4UnJtVVVReDNQZm56VnctYS1LSFV4WFdUNkYyMnRkS0NxcDRXc0doTXE0TGZfbkwyeFhUdWpkTzVYZmVzZnVI0gHEAUFVX3lxTFAtbm1oX016RDVsaDJkLV9lWFkxai1STFNncDVLU3VGWFBnY0FXNXh2Nnd6OXJmYURiRGMxNHVQaExxMjc3M1hpNXc4cDZPeEpoampZOWk0QXBDSmdVejZCaXZjNEtpcjB2NjdmZmFZcE1SR0llQWR4d0VFVG14MnZ1RzdpaXhScm1VVVF4M1BmbnpWdy1hLUtIVXhYV1Q2RjIydGRLQ3FwNFdzR2hNcTRMZl9uTDJ4WFR1amRPNVhmZXNmdUg?oc=5",
+      "words": [
+        "abu",
+        "dhabi",
+        "fintech",
+        "owned",
+        "saas",
+        "set",
+        "subsidiary",
+        "wholly",
+        "zaggle"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790672820099",
-    "1790680660349",
-    "1790683801299",
-    "1790690144274",
-    "1790606220945",
-    "1790606760798",
-    "1790617714164",
-    "1790636580138",
-    "1790644980404",
-    "1790652119358",
-    "1790658787837",
-    "1790661720601",
-    "1790676194837",
-    "1790683142749",
     "1790683620566",
     "1790607100623",
     "1790607197148",
@@ -11957,13 +11953,10 @@
     "1791256191089",
     "1791257990971",
     "1791263920457",
-    "1791270215098",
     "1791270888960",
     "1791271600951",
     "1791272940616",
     "1791275233311",
-    "1791279403460",
-    "1791281171942",
     "1791282548488",
     "1791284521550",
     "1790678457301",
@@ -11979,6 +11972,21 @@
     "1791272721297",
     "1791277020360",
     "1791287280711",
+    "1791203495676",
+    "1791225060041",
+    "1791253500708",
+    "1791260163939",
+    "1791266203712",
+    "1791270215309",
+    "1791274140254",
+    "1791277341175",
+    "1791279403355",
+    "1791281171335",
+    "1791284401566",
+    "1791285360760",
+    "1791287678032",
+    "1791287923563",
+    "1791288723156",
     "1741089600549",
     "1741280400469",
     "1742212800528",
@@ -13220,7 +13228,6 @@
     "1791197093489",
     "1791201600696",
     "1791201730364",
-    "1791203495676",
     "1791204480133",
     "1791204634329",
     "1791204715458",
@@ -13268,7 +13275,6 @@
     "1791222613430",
     "1791224500497",
     "1791224760641",
-    "1791225060041",
     "1791226560023",
     "1791229180964",
     "1791230100532",
@@ -13281,7 +13287,11 @@
     "1791243012805",
     "1791244707018",
     "1791244715088",
+    "1791244800218",
+    "1791244800764",
     "1791244800845",
+    "1791244800863",
+    "1791244800879",
     "1791246600845",
     "1791247320229",
     "1791247961626",
@@ -13298,7 +13308,6 @@
     "1791252827342",
     "1791253141812",
     "1791253187713",
-    "1791253500708",
     "1791253666211",
     "1791254366452",
     "1791254400984",
@@ -13313,7 +13322,6 @@
     "1791258480307",
     "1791259884680",
     "1791260065505",
-    "1791260163939",
     "1791260325826",
     "1791260841642",
     "1791260880057",
@@ -13324,6 +13332,7 @@
     "1791262080857",
     "1791262324765",
     "1791262416835",
+    "1791262982410",
     "1791263125733",
     "1791263580588",
     "1791263641022",
@@ -13334,7 +13343,6 @@
     "1791265670964",
     "1791265700866",
     "1791265758884",
-    "1791266203712",
     "1791266461626",
     "1791266490728",
     "1791266496650",
@@ -13359,7 +13367,7 @@
     "1791269513251",
     "1791270007568",
     "1791270025543",
-    "1791270215309",
+    "1791270215098",
     "1791270404699",
     "1791270716908",
     "1791270717747",
@@ -13385,7 +13393,6 @@
     "1791273840550",
     "1791273888436",
     "1791274059336",
-    "1791274140254",
     "1791274151588",
     "1791274248297",
     "1791274268042",
@@ -13408,7 +13415,7 @@
     "1791277140613",
     "1791277201347",
     "1791277321282",
-    "1791277341175",
+    "1791277342175",
     "1791277457844",
     "1791277526239",
     "1791277547450",
@@ -13419,14 +13426,14 @@
     "1791279075771",
     "1791279176131",
     "1791279304420",
-    "1791279403355",
+    "1791279403460",
     "1791279576052",
     "1791279774909",
     "1791279944319",
     "1791280560545",
     "1791280627391",
     "1791280800012",
-    "1791281171335",
+    "1791281171942",
     "1791281280168",
     "1791281390362",
     "1791281439029",
@@ -13451,8 +13458,8 @@
     "1791284313568",
     "1791284358733",
     "1791284359079",
-    "1791284401566",
     "1791284401584",
+    "1791284543240",
     "1791284601550",
     "1791284878451",
     "1791284940077",
@@ -13462,7 +13469,7 @@
     "1791285029434",
     "1791285106221",
     "1791285120513",
-    "1791285360760",
+    "1791285258491",
     "1791285659578",
     "1791285660456",
     "1791285696327",
@@ -13478,15 +13485,18 @@
     "1791287145672",
     "1791287213526",
     "1791287511158",
-    "1791287678032",
     "1791287793612",
-    "1791287923563",
+    "1791287923996",
     "1791288035448",
     "1791288058799",
     "1791288253419",
     "1791288295599",
-    "1791288723156",
+    "1791288723659",
     "1791288758461",
+    "1791289188195",
+    "1791289313244",
+    "1791289314713",
+    "1791289667276",
     "1791296593537",
     "1791299912128",
     "2317509",
@@ -13511,8 +13521,8 @@
     "2319560",
     "2319563"
   ],
-  "last_digest_hour": "2026-10-06T17",
-  "last_success": "2026-10-06T12:17:11.624968+00:00",
+  "last_digest_hour": "2026-10-06T18",
+  "last_success": "2026-10-06T12:32:10.672611+00:00",
   "national": {
     "alerted": [
       {
@@ -18465,13 +18475,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "CERT-In": "2026-10-06T12:37:44.717063+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-05T19:54:50.781215+00:00"
     },
-    "last_run": "2026-10-06T12:18:40.884742+00:00",
+    "last_run": "2026-10-06T12:37:52.254808+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -20895,6 +20906,10 @@
       "gazette:CG-WB-E-06102026-276831",
       "gazette:CG-DL-E-06102026-276830",
       "gazette:SG-DL-E-06102026-276829",
+      "certin:CIAD-2026-0044",
+      "certin:CIAD-2026-0045",
+      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-the-matter-of-shares-bazaar-pvt-ltd-research-analyst_104810.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-lloyd-enterprises-limited_104811.html",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -20925,8 +20940,6 @@
       "page:https://information.up.gov.in/cabinetdec/5.pdf",
       "page:https://information.up.gov.in/cabinetdec/4.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_24032026120646PN-CM-Cabinet Decisions-10 March, 2026.pdf",
-      "certin:CIAD-2026-0044",
-      "certin:CIAD-2026-0045",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -21139,8 +21152,6 @@
       "page:https://www.cbse.gov.in/cbsenew/documents/Streamling_Process_Corrections_23092026.pdf",
       "feed:http://www.niti.gov.in/node/2435",
       "feed:http://www.niti.gov.in/node/2436",
-      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-the-matter-of-shares-bazaar-pvt-ltd-research-analyst_104810.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-lloyd-enterprises-limited_104811.html",
       "feed:http://www.niti.gov.in/node/2437",
       "page:https://www.cbse.gov.in/cbsenew/documents/Press_Release_LOC_Webinar_29092026.pdf",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-the-matter-of-bao-ltd-group_104819.html",
@@ -21269,12 +21280,22 @@
       "pib:2319695",
       "gazette:CG-CG-E-06102026-276847",
       "pib:2319703",
-      "pib:2319709"
+      "pib:2319709",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-dated-05-10-2026-in-recovery-certificate-no-9273-of-2026-issued-against-manjulaben-parmar-pan-dkypp5235b-in-the-matter-of-trading-activities-of-certain-entities-in-the-scr-_105053.html",
+      "cci-merger:C-2026/08/1458|Approved",
+      "cci-merger:C-2026/05/1430|Approved",
+      "cci-merger:C-2026/08/1455|Approved",
+      "cci-merger:C-2026/07/1442|Approved",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-dated-05-10-2026-in-recovery-certificate-no-9272-of-2026-issued-against-bhaumik-parmar-pan-eqqpp8919h-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-_105051.html",
+      "pib:2319721"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "CERT-In": {
+        "count": 1
       },
       "DGFT": {
         "count": 61,
@@ -21309,44 +21330,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "OpenAI officials meet Australian government following data inquiries",
-      "post": {
-        "created_at": "2026-10-06T11:12:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1791285120513",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Guardian",
-        "reposts": 0,
-        "text": "OpenAI delivers a mea culpa to the Australian government in person \u2013 but answers still elude",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYm0yckt1aUItdll6Ry1MMjQyZGZNVWlxZTdBWnNObXVnYVVfVzdobXJfUjRsQ1hqSDZYcmZqZ1VMZnBRSmJCV2l5TkdyQnZmLXFfdW81em13VTZDNDEtWkgzMDNLQlJ2LVpCS2hiR2t5U3NjRUJBODc5U1BuT1dqb2F2WHRvc0g4OVU3cVVXcmlnUGpPNm9mZE9QZkJybjctS3E5Z0c4NktTTnV4Rk92bjdfM0wxNXM3QlFpOFltTUJ6TE5mRlJlWHNMOTRCaTdmelcwTm1fZmw?oc=5"
-      },
-      "queued_at": "2026-10-06T12:17:11.569464+00:00",
-      "score": 7.0,
-      "why": "Major AI company regulatory disclosure and official meetings regarding safety and compliance."
-    },
-    {
-      "headline": "Zaggle to establish wholly owned subsidiary in Abu Dhabi",
-      "post": {
-        "created_at": "2026-10-06T12:04:13+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1791288253419",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "Zaggle to set up wholly owned subsidiary in Abu Dhabi for FinTech, SaaS and AI",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLW5taF9NekQ1bGgyZC1fZVhZMWotUkxTZ3A1S1N1RlhQZ2NBVzV4djZ3ejlyZmFEYkRjMTR1UGhMcTI3NzNYaTV3OHA2T3hKaGpqWTlpNEFwQ0pnVXo2Qml2YzRLaXIwdjY3ZmZhWXBNUkdJZUFkeHdFRVRteDJ2dUc3aWl4UnJtVVVReDNQZm56VnctYS1LSFV4WFdUNkYyMnRkS0NxcDRXc0doTXE0TGZfbkwyeFhUdWpkTzVYZmVzZnVI0gHEAUFVX3lxTFAtbm1oX016RDVsaDJkLV9lWFkxai1STFNncDVLU3VGWFBnY0FXNXh2Nnd6OXJmYURiRGMxNHVQaExxMjc3M1hpNXc4cDZPeEpoampZOWk0QXBDSmdVejZCaXZjNEtpcjB2NjdmZmFZcE1SR0llQWR4d0VFVG14MnZ1RzdpaXhScm1VVVF4M1BmbnpWdy1hLUtIVXhYV1Q2RjIydGRLQ3FwNFdzR2hNcTRMZl9uTDJ4WFR1amRPNVhmZXNmdUg?oc=5"
-      },
-      "queued_at": "2026-10-06T12:17:11.569464+00:00",
-      "score": 7.0,
-      "why": "Indian fintech firm expanding internationally via a new subsidiary setup."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -22404,16 +22388,16 @@
     "naukri": 1790833182849,
     "news: big tech platforms": 1791288758461,
     "news: consumer internet india": 1791285029434,
-    "news: global ai": 1791288295599,
-    "news: global chips": 1791285360760,
+    "news: global ai": 1791289314713,
+    "news: global chips": 1791289667276,
     "news: global it services": 1791285659578,
     "news: india ai deeptech": 1791287145672,
     "news: india edtech gaming": 1791263125733,
-    "news: india fintech": 1791287793612,
+    "news: india fintech": 1791289188195,
     "news: india semiconductors": 1791254401946,
     "news: india tech policy": 1791284358733,
     "news: india telecom": 1791286037500,
-    "news: indian it majors": 1791287923563,
+    "news: indian it majors": 1791287923996,
     "news: indian it midcaps": 1791288253419,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791287511158,
@@ -22464,7 +22448,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-06T12:17:11.963964+00:00",
+    "last_server_run": "2026-10-06T12:32:11.036969+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-06T11:33:43.378420+00:00",
@@ -23488,7 +23472,8 @@
       "meeting:LS|22539",
       "meeting:LS|22540",
       "meeting:LS|22542",
-      "meeting:LS|22541"
+      "meeting:LS|22541",
+      "meeting:RS|2263"
     ]
   }
 }
