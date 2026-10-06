@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-09-29T00:16:52.014978+00:00",
-      "handle": "Samsung",
-      "headline": "Samsung commits $1 billion to KKR-backed AI infrastructure firm Helix",
-      "tier": 1,
-      "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix",
-      "words": [
-        "announc",
-        "billion",
-        "company",
-        "electronics",
-        "fire",
-        "helix",
-        "infrastructure",
-        "insurance",
-        "invest",
-        "life",
-        "marine",
-        "samsung",
-        "sdi",
-        "sds"
-      ]
-    },
-    {
       "at": "2026-09-29T00:31:57.322989+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic warns of existential AI risks in IPO filing",
@@ -7519,16 +7496,34 @@
         "security",
         "teams"
       ]
+    },
+    {
+      "at": "2026-10-06T21:32:03.403043+00:00",
+      "handle": "News: Global AI",
+      "headline": "Aditi Consulting achieves Anthropic Select Tier partnership status",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOVm8zUkYzQng0aG9ydE5TVk56VXluZXJyeGdlRDVRSVFIeGVsWHgwSjhMdUwtYlJqYjZWd2xBLUVfYTRfY0xLR0hBSXRJQTZXQldRelRtV0R5ZnBaMUtibjZCZmFhVDVwdjh0ZXRFcFF2cV84MnRLeWJfX1h4dDZ1LU9JWU1hV3dSREJMdzB3N1dfOTZLalJjMXh6M2xrTFZ6OFF1b0ZYMm9RV1NMYWlJZ3J5bkMxbFZmUHJCTjVrdUJINjBUcmg2eGJ1ZTlSVVRNY0tKcUNXd1N2X1VacnhlTGYta29SSWpXNTdGZTh6S3kxVmJxV3ZSWDB1NFNadHFBRzhqM1U1alJkNEszb0ZFZmc4SEhnMF8tNFNHcUpEaTRIRXRBMGFwaWY2MVhBM2lHcjJR0gG4AkFVX3lxTE1hZE54Rk1KYTJDRTIwQnNBR0hPSk00NXhCbkZVM1RaSDVWZ2o0QTFwLTNlYzBCZ0ZocW1RZkgwNC12U0hockFTWWhFdlFTemxEYW53YXNsbS1Ta0VzRlVoVXZkRndGeUNTalVtODJJZ2lUSUc2cXZhWW1qb0o5UW03UE5VQy00NzZUNXlKYWxjU1B3SGtDcFhxMlJuY2NCTEVyWi1rT0V6UUZXUUxoS0pibDBQZ3hGU2pUQ1A2XzdzMmFwc0RJV21lM296UTZ3WHM4WEdLUXA4WFIxXzFac3BweHFNaGt4WlJsWkNNS0E4N3hTWW1PV2VkSnA1STIwdTJyeTVvY3owUDRLbmVRMU04bEFqaFlseno2Q0lxZEs2YnVRYW9kY1JsNkNycExxTHhacDNQdGduaQ?oc=5",
+      "words": [
+        "achieves",
+        "across",
+        "aditi",
+        "anthropic",
+        "business",
+        "claude",
+        "client",
+        "consulting",
+        "environments",
+        "into",
+        "production",
+        "putting",
+        "select",
+        "tier"
+      ]
     }
   ],
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790711028476",
-    "1790711436316",
-    "1790639880856",
-    "1790655266418",
-    "1790658061200",
     "1790661567802",
     "1790691353452",
     "1790693126317",
@@ -11778,7 +11773,6 @@
     "1791291642646",
     "1791292629341",
     "1791295201245",
-    "1791296483073",
     "1789570829681",
     "1790870400034",
     "1791211989986",
@@ -11982,17 +11976,21 @@
     "1791246600845",
     "1791277500568",
     "1791279403460",
-    "1791291860817",
     "1791307448399",
     "1791308524933",
     "1791308760146",
     "1791313536121",
-    "1791317001550",
     "1791318665055",
-    "1791253110886",
     "1791280627391",
     "1791289314713",
     "1791310920067",
+    "1791247961626",
+    "1791257480228",
+    "1791271980123",
+    "1791273840550",
+    "1791294670598",
+    "1791296483794",
+    "1791306201550",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -13244,7 +13242,6 @@
     "1791244800863",
     "1791244800879",
     "1791244800942",
-    "1791247961626",
     "1791248132674",
     "1791248160763",
     "1791248855601",
@@ -13253,6 +13250,7 @@
     "1791251296207",
     "1791252300408",
     "1791252827342",
+    "1791253110886",
     "1791253141812",
     "1791253187713",
     "1791254400984",
@@ -13260,7 +13258,6 @@
     "1791256359134",
     "1791256744564",
     "1791257434744",
-    "1791257480228",
     "1791257975057",
     "1791258480307",
     "1791258486805",
@@ -13295,7 +13292,6 @@
     "1791270716333",
     "1791270888988",
     "1791271191032",
-    "1791271980123",
     "1791272268447",
     "1791272300826",
     "1791272337807",
@@ -13307,7 +13303,6 @@
     "1791273600633",
     "1791273709510",
     "1791273747298",
-    "1791273840550",
     "1791273888966",
     "1791274059336",
     "1791274151588",
@@ -13394,6 +13389,7 @@
     "1791291619637",
     "1791291721280",
     "1791291754178",
+    "1791291860817",
     "1791292087383",
     "1791292150584",
     "1791292380741",
@@ -13406,12 +13402,12 @@
     "1791293820459",
     "1791293925818",
     "1791293972235",
+    "1791294099396",
     "1791294142001",
     "1791294154865",
     "1791294360287",
     "1791294411233",
     "1791294479321",
-    "1791294670598",
     "1791295020131",
     "1791295113630",
     "1791295200482",
@@ -13420,8 +13416,9 @@
     "1791295225977",
     "1791295608372",
     "1791295710717",
+    "1791295817416",
     "1791296400338",
-    "1791296483794",
+    "1791296483073",
     "1791296593537",
     "1791297120397",
     "1791297143708",
@@ -13461,7 +13458,7 @@
     "1791305340213",
     "1791305409749",
     "1791306075547",
-    "1791306201550",
+    "1791306759720",
     "1791306995566",
     "1791307170546",
     "1791307182097",
@@ -13486,6 +13483,7 @@
     "1791311891053",
     "1791312180295",
     "1791312610517",
+    "1791313122667",
     "1791313288116",
     "1791313289692",
     "1791313425383",
@@ -13496,9 +13494,11 @@
     "1791316458665",
     "1791316624176",
     "1791316860168",
+    "1791317001550",
     "1791317700146",
     "1791317700444",
     "1791318665632",
+    "1791318876031",
     "1791319380866",
     "1791320863523",
     "2317509",
@@ -13525,8 +13525,8 @@
     "2319793",
     "2319821"
   ],
-  "last_digest_hour": "2026-10-07T02",
-  "last_success": "2026-10-06T21:16:51.053348+00:00",
+  "last_digest_hour": "2026-10-07T03",
+  "last_success": "2026-10-06T21:32:03.448282+00:00",
   "national": {
     "alerted": [
       {
@@ -18601,7 +18601,7 @@
       },
       "warned": "2026-10-06T20:05:10.146418+00:00"
     },
-    "last_run": "2026-10-06T21:18:55.697949+00:00",
+    "last_run": "2026-10-06T21:34:49.097130+00:00",
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -21503,26 +21503,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Aditi Consulting achieves Anthropic Select Tier partnership status",
-      "post": {
-        "created_at": "2026-10-06T18:50:10+00:00",
-        "handle": "News: Global AI",
-        "id": "1791312610517",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "Aditi Consulting Achieves Anthropic Select Tier After Putting Claude Into Production Across Its Business and Client Environments",
-        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOVm8zUkYzQng0aG9ydE5TVk56VXluZXJyeGdlRDVRSVFIeGVsWHgwSjhMdUwtYlJqYjZWd2xBLUVfYTRfY0xLR0hBSXRJQTZXQldRelRtV0R5ZnBaMUtibjZCZmFhVDVwdjh0ZXRFcFF2cV84MnRLeWJfX1h4dDZ1LU9JWU1hV3dSREJMdzB3N1dfOTZLalJjMXh6M2xrTFZ6OFF1b0ZYMm9RV1NMYWlJZ3J5bkMxbFZmUHJCTjVrdUJINjBUcmg2eGJ1ZTlSVVRNY0tKcUNXd1N2X1VacnhlTGYta29SSWpXNTdGZTh6S3kxVmJxV3ZSWDB1NFNadHFBRzhqM1U1alJkNEszb0ZFZmc4SEhnMF8tNFNHcUpEaTRIRXRBMGFwaWY2MVhBM2lHcjJR0gG4AkFVX3lxTE1hZE54Rk1KYTJDRTIwQnNBR0hPSk00NXhCbkZVM1RaSDVWZ2o0QTFwLTNlYzBCZ0ZocW1RZkgwNC12U0hockFTWWhFdlFTemxEYW53YXNsbS1Ta0VzRlVoVXZkRndGeUNTalVtODJJZ2lUSUc2cXZhWW1qb0o5UW03UE5VQy00NzZUNXlKYWxjU1B3SGtDcFhxMlJuY2NCTEVyWi1rT0V6UUZXUUxoS0pibDBQZ3hGU2pUQ1A2XzdzMmFwc0RJV21lM296UTZ3WHM4WEdLUXA4WFIxXzFac3BweHFNaGt4WlJsWkNNS0E4N3hTWW1PV2VkSnA1STIwdTJyeTVvY3owUDRLbmVRMU04bEFqaFlseno2Q0lxZEs2YnVRYW9kY1JsNkNycExxTHhacDNQdGduaQ?oc=5"
-      },
-      "queued_at": "2026-10-06T20:46:45.954587+00:00",
-      "score": 7.0,
-      "why": "Significant enterprise AI partnership deployment disclosure."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -22597,7 +22578,7 @@
     "news: india tech policy": 1791313536121,
     "news: india telecom": 1791311340890,
     "news: indian it majors": 1791318665632,
-    "news: indian it midcaps": 1791307526279,
+    "news: indian it midcaps": 1791318876031,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791309300213,
     "nvidia": 1791291619637,
@@ -22647,7 +22628,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-06T21:16:51.340750+00:00",
+    "last_server_run": "2026-10-06T21:32:03.719750+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-06T20:18:13.387780+00:00",
