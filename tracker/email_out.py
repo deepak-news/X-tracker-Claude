@@ -26,6 +26,7 @@ DEFAULT_NAMES = {
     "tech_desk": "For Tech Desk",
     "government_watch": "DoPT, MHA & ED Watch",
     "national_desk": "Notifications for Tweets",
+    "bureau_desk": "For National Bureau",
     "maintenance": "Tracker Maintenance",
 }
 
@@ -112,6 +113,7 @@ LIST_NAMES = {RECIPIENT_ENV: "Tech Desk", "WATCH_MAIL_TO": "DoPT, MHA & ED Watch
               "GAZETTE_DESKS:parliament": "Parliament Watch",
               "PARLIAMENT_WEEK_TO": "Parliament Week Ahead",
               "MHA_FINANCE_MAIL_TO": "MHA & Finance Gazettes",
+              "BUREAU_MAIL_TO": "National Bureau",
               ADMIN_ENV: "Maintenance"}
 
 

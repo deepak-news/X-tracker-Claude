@@ -118,19 +118,24 @@ def merge_national(ours: dict, theirs: dict) -> dict:
     newer = ours if ours.get("last_run", "") >= theirs.get("last_run", "") else theirs
     merged["source_failures"] = newer.get("source_failures") or {}
     merged["health"] = newer.get("health") or {}
+    # The newest PIB release number read: only ever climbs.
+    mark = max(int(ours.get("pib_mark") or 0), int(theirs.get("pib_mark") or 0))
+    if mark:
+        merged["pib_mark"] = mark
     return merged
 
 
 def merge(ours: dict, theirs: dict) -> dict:
     merged = dict(theirs)
     merged.update({k: v for k, v in ours.items()
-                   if k not in ("seen", "alerted", "dead_models", "watch", "national",
+                   if k not in ("seen", "alerted", "dead_models", "watch", "national", "bureau",
                                 "news_queue", "last_digest_hour",
                                 "page_links")})
 
-    if ours.get("national") or theirs.get("national"):
-        merged["national"] = merge_national(ours.get("national") or {},
-                                            theirs.get("national") or {})
+    # The national bureau's desk keeps the same kind of memory.
+    for desk in ("national", "bureau"):
+        if ours.get(desk) or theirs.get(desk):
+            merged[desk] = merge_national(ours.get(desk) or {}, theirs.get(desk) or {})
 
     if ours.get("watch") or theirs.get("watch"):
         merged["watch"] = merge_watch(ours.get("watch") or {},

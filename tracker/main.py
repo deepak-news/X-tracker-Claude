@@ -385,6 +385,10 @@ async def run(dry_run: bool) -> int:
         newsworthy = [r for r in newsworthy if not _is_news(r[0])]
         unscreened = [p for p in unscreened if not _is_news(p)]
 
+    # The last word on PIB: the release's own page says when it was posted.
+    newsworthy = [r for r in newsworthy if not sources.old_pib(r[0])]
+    unscreened = [p for p in unscreened if not sources.old_pib(p)]
+
     # Close to Gmail's daily limit, only MAJOR stories go out.
     if (newsworthy or unscreened) and not dry_run and email_out.pressure() == "tight":
         before = len(newsworthy) + len(unscreened)

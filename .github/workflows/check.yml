@@ -113,6 +113,25 @@ jobs:
             *)          python -m tracker.national ;;
           esac
 
+      # The fourth: every extraordinary gazette and every PIB release, from
+      # every ministry, for the national bureau head -- screened with a low
+      # bar so nothing newsworthy is missed. Its own step, like the others,
+      # and it does nothing until the BUREAU_MAIL_TO secret exists.
+      - name: Check gazettes and PIB for the national bureau
+        if: always()
+        timeout-minutes: 8
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          BUREAU_MAIL_TO: ${{ secrets.BUREAU_MAIL_TO }}
+        run: |
+          case "${{ inputs.mode }}" in
+            test-email) python -m tracker.national --bureau --test-email ;;
+            dry-run)    python -m tracker.national --bureau --dry-run ;;
+            *)          python -m tracker.national --bureau ;;
+          esac
+
       # Once a day, on the first run after 7 pm India time: every committee
       # meeting in both Houses for the week ahead (parliament_week.py). Every
       # other run it only looks at the clock and stops. Does nothing until

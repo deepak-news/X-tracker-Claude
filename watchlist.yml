@@ -12,6 +12,7 @@ mail_names:
   tech_desk: "For Tech Desk"                  # IT-beat alerts and the hourly digest (MAIL_TO)
   government_watch: "DoPT, MHA & ED Watch"    # DoPT orders, MHA gazettes, ED pages (WATCH_MAIL_TO)
   national_desk: "Notifications for Tweets"   # screened official news (SOCIAL_MAIL_TO)
+  bureau_desk: "For National Bureau"          # gazettes and PIB for the bureau head (BUREAU_MAIL_TO)
   maintenance: "Tracker Maintenance"          # "tracker stopped", watchdog (ADMIN_MAIL_TO, else MAIL_TO)
   # The five-ministry gazette watch sets its own name further down ("mail_name").
 
@@ -845,3 +846,64 @@ national:
     # UP types its cabinet decisions in the old Kruti Dev Hindi font; the PDF
     # text is converted back to real Hindi before the AI reads it.
     - {name: "State: Uttar Pradesh", url: "https://information.up.gov.in/hi_cabinet-decision-new.aspx", match: "\\.pdf$"}   # cabinet decisions, Hindi
+
+
+# ======================================================================
+#  NATIONAL BUREAU
+#  For the national bureau head (BUREAU_MAIL_TO): every extraordinary
+#  Gazette of India notification and every PIB release, from every
+#  ministry, screened by the AI with a deliberately LOW bar so nothing
+#  newsworthy is missed. PIB gets a slightly higher bar than gazettes.
+#  Only PIB releases posted in the last 36 hours are ever sent: each one's
+#  own page is checked for its "Posted On" date before it goes out.
+# ======================================================================
+bureau:
+
+  newsworthy: |
+    Anything a wire agency's national bureau might report, from any
+    central ministry or department. The bureau's reporters each cover a
+    group of ministries, so news that matters to one sector or one state
+    still counts -- it only has to be something a reporter on that beat
+    would want to know.
+
+    SEND (score 4 or more):
+    - Any Act, rules, regulations, scheme or policy brought in, changed,
+      extended or withdrawn
+    - Taxes, duties, prices, fees, benefits, deadlines, exemptions and
+      relief, even for one industry or one product of note
+    - Appointments, removals, extensions and resignations of secretaries,
+      heads of departments and organisations, members of commissions,
+      tribunals and regulators, ambassadors, governors, judges
+    - A commission, committee, authority, board, mission or company set
+      up, dissolved, merged, renamed or given new powers
+    - Bans, designations, AFSPA, "disturbed area" status, President's Rule,
+      security and law-and-order measures
+    - Elections, census, delimitation, voter rolls, reservations
+    - Cabinet decisions, MoUs and agreements with other countries, defence
+      deals, lines of credit and aid
+    - Official figures and data releases of any kind
+    - Commemorative coins and stamps, national awards, honours
+    - Minister-level announcements with a decision, number or date in them
+
+    LEAVE OUT (score 3 or less):
+    - Fortnightly tariff values, exchange rates for customs
+    - Land acquisition for a single highway or railway stretch, tolls
+    - Recruitment rules for a single post, honorary ranks, cantonment boards
+    - One product's minor customs or anti-dumping tweak, BIS standards
+    - Corrigenda that fix a typo
+    - Ministers attending events, greetings, condolences, anniversaries,
+      awareness drives, yoga days, meetings held with no decision
+    - Visits, inspections and review meetings with no announcement
+
+  # Score out of 10 needed to be emailed. Kept low on purpose. Gazettes
+  # are the primary record, so their bar is the lowest; PIB, which carries
+  # far more routine material, is a step stricter.
+  gazette_threshold: 4
+  pib_threshold: 5
+
+  # Anything published longer ago than this is ignored rather than judged.
+  max_age_hours: 12
+
+  pib: true            # every ministry, from pib.gov.in
+  gazette: true        # every extraordinary gazette, from egazette.gov.in
+  earthquakes: false   # the Tweets desk handles earthquakes

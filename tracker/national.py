@@ -43,6 +43,27 @@ STATE = ROOT / "state.json"
 
 RECIPIENT_ENV = "SOCIAL_MAIL_TO"
 
+# Two desks share this machinery. Each has its own section of watchlist.yml,
+# its own memory in state.json, its own recipients and its own instructions
+# to the AI; the sources they read are the same official stream.
+NATIONAL = {
+    "section": "national", "memory": "national", "recipient": "SOCIAL_MAIL_TO",
+    "mail": "national_desk", "log": "tweets", "name": "Tweets desk",
+    "step": "Check official news for the national desk",
+    "noun": "national stories",
+}
+BUREAU = {
+    "section": "bureau", "memory": "bureau", "recipient": "BUREAU_MAIL_TO",
+    "mail": "bureau_desk", "log": "bureau", "name": "National bureau",
+    "step": "Check gazettes and PIB for the national bureau",
+    "noun": "items for the bureau",
+}
+
+# PIB numbers every release in one rising sequence, about 500 a day. A
+# release more than a day's worth of numbers behind the newest one this
+# desk has already read is old, whatever any list or memory says.
+PIB_BEHIND = 500
+
 # Identifiers remembered. About 250 official items a day pass through here,
 # so this is roughly a fortnight -- longer than anything stays on the pages
 # that carry no dates (PIB shows one day, the gazette about two).
@@ -567,6 +588,46 @@ ITEMS:
 {items}
 """
 
+BUREAU_PROMPT = """You screen India's official releases for the NATIONAL BUREAU HEAD
+of a national news agency. The bureau covers every central ministry and
+department, and its reporters file wire copy on anything of record. Missing
+a newsworthy notification or release is a failure; being sent one that
+turns out minor is only a small cost. When in doubt, score it up.
+
+WHAT THE BUREAU WANTS:
+{rubric}
+
+Score each item 0-10:
+
+  0-2  routine with no story in it at all (the examples in the rubric)
+  3    procedural: would interest almost no reporter
+  4-5  a small story: a reporter on that ministry's beat would want to
+       know, or could file a brief on it
+  6-7  a clear story the bureau would cover
+  8-10 a major story that would lead the national file
+
+{already_sent}Rules:
+- Judge what the item DOES, not how dry its title is. A gazette's title is
+  often "Amendment of notification dated ..." while the text below it shows
+  the real change.
+- Judge the item itself, not the importance of the office that issued it.
+- If several items describe the SAME underlying event, give the fullest or
+  most authoritative one its real score and set "dupe_of" to its number on
+  all the others.
+
+For each item write a "headline": at most 14 words, plain English, saying
+what actually happened, the way a wire story would open. No jargon, no
+reference numbers.
+
+Return ONLY a JSON array, one object per item, same order:
+[{{"i": <item number>, "score": <0-10>, "headline": "<max 14 words>", "why": "<one sentence on why the bureau would care>", "dupe_of": <item number or null>, "seen_before": <true or false>}}]
+
+ITEMS:
+{items}
+"""
+
+NATIONAL["prompt"], BUREAU["prompt"] = PROMPT, BUREAU_PROMPT
+
 ALREADY_SENT = """ALREADY SENT TO THEM IN THE LAST 48 HOURS:
 {sent}
 
@@ -577,13 +638,14 @@ ALREADY_SENT = """ALREADY SENT TO THEM IN THE LAST 48 HOURS:
 """
 
 
-def _prompt(batch: list, rubric: str, sent: list) -> str:
+def _prompt(batch: list, rubric: str, sent: list, template: str = PROMPT) -> str:
     listing = "\n\n".join(f"[{i}] {p.text[:MAX_CHARS]}" for i, p in enumerate(batch))
     block = ALREADY_SENT.format(sent="\n".join(f"- {h}" for h in sent)) if sent else ""
-    return PROMPT.format(rubric=rubric, items=listing, already_sent=block)
+    return template.format(rubric=rubric, items=listing, already_sent=block)
 
 
-def score(posts: list, rubric: str, state: dict, memory: dict) -> tuple:
+def score(posts: list, rubric: str, state: dict, memory: dict,
+          template: str = PROMPT, log: str = "tweets") -> tuple:
     """Returns (rows, settled_ids).
 
     rows    = [(post, score, headline, why)] for every item actually judged
@@ -600,7 +662,7 @@ def score(posts: list, rubric: str, state: dict, memory: dict) -> tuple:
     for n, batch in enumerate(batches, 1):
         print(f"  batch {n} of {len(batches)} ({len(batch)} items)")
         try:
-            entries, newly_dead = judge.ask_json(_prompt(batch, rubric, sent), dead)
+            entries, newly_dead = judge.ask_json(_prompt(batch, rubric, sent, template), dead)
         except judge.AllModelsExhausted as exc:
             record_dead_models(state, exc.newly_dead)
             print(f"  ! no AI model is available: {exc}. The rest wait for next run.")
@@ -621,7 +683,7 @@ def score(posts: list, rubric: str, state: dict, memory: dict) -> tuple:
             post = batch[idx]
             settled.add(post.id)
             if entry.get("seen_before") is True or entry.get("dupe_of") is not None:
-                score_log.note("tweets", post,
+                score_log.note(log, post,
                                "old news" if entry.get("seen_before") is True else "duplicate",
                                entry.get("score"), str(entry.get("headline") or "").strip(),
                                str(entry.get("why") or "").strip())
@@ -683,10 +745,27 @@ def _original(post) -> str:
     return text[:260]
 
 
-def build_email(rows: list) -> tuple:
+FOOTERS = {
+    "national_desk": """Screened from official sources: PIB, the Gazette of India, central
+        ministries, regulators and agencies, and state governments. Only items
+        judged to have broad public news value are sent; routine releases are
+        left out. Earthquakes come straight from the National Centre for
+        Seismology and the USGS, by magnitude, unscreened.
+        Headlines are machine-written from
+        the official text -- check the original before publishing.""",
+    "bureau_desk": """Screened from every extraordinary Gazette of India notification and
+        every PIB release, across all ministries. The bar is set low so that
+        nothing newsworthy is missed: anything a beat reporter might want is
+        sent, with a slightly higher bar for PIB. Only releases posted in the
+        last day and a half are sent. Headlines are machine-written from the
+        official text -- check the original before publishing.""",
+}
+
+
+def build_email(rows: list, kind: str = "national_desk", noun: str = "national stories") -> tuple:
     rows = sorted(rows, key=lambda r: -r[1])
     lead = rows[0][2] or _original(rows[0][0])
-    subject = lead if len(rows) == 1 else f"{len(rows)} national stories: {lead}"
+    subject = lead if len(rows) == 1 else f"{len(rows)} {noun}: {lead}"
 
     font = "-apple-system,Segoe UI,Helvetica,Arial,sans-serif"
     cards = []
@@ -723,17 +802,11 @@ def build_email(rows: list) -> tuple:
 
     body = f"""<div style="max-width:640px;margin:0 auto;padding:24px 20px;background:#fff;">
       <div style="font:600 11px/1 {font};letter-spacing:.12em;color:#6b7280;
-                  text-transform:uppercase;margin-bottom:16px;">{html.escape(email_out.mail_name("national_desk"))}</div>
+                  text-transform:uppercase;margin-bottom:16px;">{html.escape(email_out.mail_name(kind))}</div>
       {''.join(cards)}
       <div style="color:#9ca3af;font:400 12px/1.5 {font};margin-top:20px;
                   border-top:1px solid #e5e7eb;padding-top:12px;">
-        Screened from official sources: PIB, the Gazette of India, central
-        ministries, regulators and agencies, and state governments. Only items
-        judged to have broad public news value are sent; routine releases are
-        left out. Earthquakes come straight from the National Centre for
-        Seismology and the USGS, by magnitude, unscreened.
-        Headlines are machine-written from
-        the official text -- check the original before publishing.
+        {FOOTERS.get(kind, FOOTERS["national_desk"])}
       </div>
     </div>"""
     return subject[:150], body
@@ -748,36 +821,51 @@ def _load_state() -> dict:
         return {}
 
 
-def run(dry_run: bool) -> int:
-    cfg = (yaml.safe_load(WATCHLIST.read_text()) or {}).get("national") or {}
+def _bar(post, cfg: dict) -> float:
+    """The score an item needs to be sent. A desk may set its own bar for
+    gazettes and for PIB; anything else uses its general threshold."""
+    general = float(cfg.get("threshold", 7))
+    if post.handle.startswith("Gazette "):
+        return float(cfg.get("gazette_threshold", general))
+    if post.handle.startswith("PIB "):
+        return float(cfg.get("pib_threshold", general))
+    return general
+
+
+def _prid(post) -> int:
+    return int(post.id[4:]) if post.id.startswith("pib:") and post.id[4:].isdigit() else 0
+
+
+def run(dry_run: bool, desk: dict = NATIONAL) -> int:
+    recipient = desk["recipient"]
+    cfg = (yaml.safe_load(WATCHLIST.read_text()) or {}).get(desk["section"]) or {}
     if not cfg:
-        print("No 'national:' section in watchlist.yml -- nothing to do.")
+        print(f"No '{desk['section']}:' section in watchlist.yml -- nothing to do.")
         return 0
-    if not dry_run and not os.environ.get(RECIPIENT_ENV, "").strip():
-        print(f"No {RECIPIENT_ENV} secret set yet, so there is nobody to send to. "
+    if not dry_run and not os.environ.get(recipient, "").strip():
+        print(f"No {recipient} secret set yet, so there is nobody to send to. "
               f"Skipping -- add the secret to switch this on.")
         return 0
 
     rubric = (cfg.get("newsworthy") or "").strip()
-    threshold = float(cfg.get("threshold", 7))
     max_age = float(cfg.get("max_age_hours", 12))
 
     state = _load_state()
-    memory = state.setdefault("national", {})
+    memory = state.setdefault(desk["memory"], {})
     seen_list = memory.setdefault("seen", [])
     seen = set(seen_list)
     scanned = set(memory.get("gazette_scanned") or [])
     first_ever = not seen_list
 
-    print("Reading official sources for the national desk...")
+    print(f"Reading official sources for the {desk['name']}...")
     posts, failed = collect(cfg, scanned, memory)
     # Every source on the failure list counts as down, including one resting
     # this run after failing repeatedly -- resting is not recovering.
     source_health.check(
-        memory.setdefault("health", {}), "Tweets desk",
+        memory.setdefault("health", {}), desk["name"],
         list(memory.get("source_failures") or {}),
         where="The reason is in the log of any recent run on GitHub (Actions tab, "
-              "step \"Check official news for the national desk\").",
+              f"step \"{desk['step']}\").",
         dry_run=dry_run)
 
     # A source seen for the first time is introduced quietly: what is on it
@@ -796,6 +884,7 @@ def run(dry_run: bool) -> int:
     fresh, settled, ids = [], set(), set()
     cutoff = dt.datetime.now(UTC) - dt.timedelta(hours=max_age)
     stale = 0
+    pib_mark = int(memory.get("pib_mark") or 0)
     for post in posts:
         if post.id in seen or post.id in ids:
             continue
@@ -807,9 +896,13 @@ def run(dry_run: bool) -> int:
             settled.add(post.id)       # older than anyone wants; never score it
             stale += 1
             continue
+        if _prid(post) and _prid(post) < pib_mark - PIB_BEHIND:
+            settled.add(post.id)       # an old PIB release, by its number
+            stale += 1
+            continue
         fresh.append(post)
     if stale:
-        print(f"  {stale} item(s) older than {max_age:g}h ignored")
+        print(f"  {stale} old item(s) ignored")
 
     if first_ever and not dry_run:
         # Everything is "new" the first time. Note where things stand and
@@ -853,33 +946,39 @@ def run(dry_run: bool) -> int:
                 dropped = {p.id for p in others if id(p) not in kept}
                 settled |= dropped
                 fresh = [p for p in fresh if p.id not in dropped]
-            judged_rows, judged = score(fresh, rubric, state, memory)
+            judged_rows, judged = score(fresh, rubric, state, memory,
+                                        desk["prompt"], desk["log"])
             rows += judged_rows           # the earthquakes are already in here
             settled |= judged
 
-    picks = [r for r in rows if r[1] >= threshold]
+    picks = [r for r in rows if r[1] >= _bar(r[0], cfg)]
     # Earthquakes are not the AI's judgement, so they are not in its record.
-    score_log.note_rows("tweets", [r for r in rows if not r[0].handle.startswith("Quake ")],
-                        threshold)
+    for post, value, headline, why in rows:
+        if not post.handle.startswith("Quake "):
+            score_log.note(desk["log"], post, "sent" if value >= _bar(post, cfg) else "not sent",
+                           value, headline, why)
     for post, value, headline, _ in sorted(rows, key=lambda r: -r[1]):
-        mark = "SEND" if value >= threshold else "skip"
+        mark = "SEND" if value >= _bar(post, cfg) else "skip"
         print(f"  [{mark}] {value:.0f}/10 {_badge(post)[1]} {_issuer(post)[:30]}: "
               f"{headline or _original(post)[:80]}")
 
-    if picks and not dry_run and email_out.pressure(RECIPIENT_ENV) == "tight":
+    # The last word on PIB: the release's own page says when it was posted.
+    picks = [r for r in picks if not sources.old_pib(r[0])]
+
+    if picks and not dry_run and email_out.pressure(recipient) == "tight":
         major = [r for r in picks if r[1] >= 9]
         print(f"  email budget is tight: sending only MAJOR items, "
               f"{len(picks) - len(major)} lesser one(s) left out")
         picks = major
 
     if picks:
-        subject, body = build_email(picks)
+        subject, body = build_email(picks, desk["mail"], desk["noun"])
         if dry_run:
             print(f"\n(dry run) would have emailed: {subject}")
         else:
             try:
-                email_out.send(subject, body, recipient_env=RECIPIENT_ENV,
-                               sender_name=email_out.mail_name("national_desk"))
+                email_out.send(subject, body, recipient_env=recipient,
+                               sender_name=email_out.mail_name(desk["mail"]))
                 print(f"\nEmailed: {subject}")
                 judge.remember_alerted(memory, picks)
             except Exception as exc:                              # noqa: BLE001
@@ -887,7 +986,7 @@ def run(dry_run: bool) -> int:
                 print(f"\n! the email could not be sent ({exc}); retrying next run")
                 settled -= {r[0].id for r in picks}
     else:
-        print("\nNothing with broad news value this run.")
+        print("\nNothing to send this run.")
 
     if failed:
         print(f"sources unavailable this run (will retry next time): {', '.join(failed)}")
@@ -903,6 +1002,7 @@ def run(dry_run: bool) -> int:
         memory["gazette_scanned"] = sorted(scanned)[-2000:]
         memory["sources"] = sorted(known_sources | {getattr(p, "source", "") for p in posts} - {""})
         memory["last_run"] = dt.datetime.now(UTC).isoformat()
+        memory["pib_mark"] = max([pib_mark] + [_prid(p) for p in posts])
         score_log.save()
         STATE.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
     # A government site or the AI being down is not a failure of this
@@ -910,16 +1010,18 @@ def run(dry_run: bool) -> int:
     return 0
 
 
-def test_email() -> int:
-    if not os.environ.get(RECIPIENT_ENV, "").strip():
-        print(f"No {RECIPIENT_ENV} secret set yet -- no test email for the national desk.")
+def test_email(desk: dict = NATIONAL) -> int:
+    if not os.environ.get(desk["recipient"], "").strip():
+        print(f"No {desk['recipient']} secret set yet -- no test email for the {desk['name']}.")
         return 0
     post = _blank(id="test", handle="PIB Cabinet",
                   text="Cabinet: This is a test release from the national desk",
                   url="https://www.pib.gov.in/", created_at=dt.datetime.now(UTC).isoformat())
-    subject, body = build_email([(post, 8, "Test: the national desk can send email",
-                                  "If this arrived, the settings for this prong are correct.")])
-    email_out.send(subject, body, recipient_env=RECIPIENT_ENV, sender_name=email_out.mail_name("national_desk"))
+    subject, body = build_email([(post, 8, f"Test: the {desk['name']} can send email",
+                                  "If this arrived, the settings for this prong are correct.")],
+                                desk["mail"], desk["noun"])
+    email_out.send(subject, body, recipient_env=desk["recipient"],
+                   sender_name=email_out.mail_name(desk["mail"]))
     print("Sent. Check the inbox of every address on the list.")
     return 0
 
@@ -929,11 +1031,14 @@ def main() -> int:
     parser.add_argument("--dry-run", action="store_true",
                         help="score and print, send nothing, save nothing")
     parser.add_argument("--test-email", action="store_true",
-                        help="send one test email to SOCIAL_MAIL_TO and stop")
+                        help="send one test email to this desk's list and stop")
+    parser.add_argument("--bureau", action="store_true",
+                        help="the national bureau's gazette and PIB desk (BUREAU_MAIL_TO)")
     args = parser.parse_args()
+    desk = BUREAU if args.bureau else NATIONAL
     if args.test_email:
-        return test_email()
-    return run(dry_run=args.dry_run)
+        return test_email(desk)
+    return run(dry_run=args.dry_run, desk=desk)
 
 
 if __name__ == "__main__":

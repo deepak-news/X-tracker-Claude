@@ -210,6 +210,58 @@ def _plain(markup: str) -> str:
 PIB_URL = "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1"
 
 
+# PIB's lists carry no dates, but every release page says when it was
+# posted. Checked on the releases about to be emailed -- a few a run -- as
+# the last word on whether one is old: twice, a forgotten memory let a
+# release from days earlier go out as new (Semicon 2.0, 29 Sep 2026).
+PIB_MAX_AGE_HOURS = 36
+_POSTED = re.compile(r"Posted On:\s*(\d{1,2}) ([A-Za-z]{3})[A-Za-z]* (\d{4})\s+(\d{1,2}):(\d{2})\s*([AP]M)", re.I)
+
+
+def pib_posted(url: str):
+    """When a PIB release was posted, from its own page; None if unreadable."""
+    prid = re.search(r"PRID=(\d+)", url or "")
+    if not prid:
+        return None
+    try:
+        response = requests.get(
+            f"https://www.pib.gov.in/PressReleasePage.aspx?PRID={prid.group(1)}",
+            timeout=TIMEOUT, headers={"User-Agent": UA})
+        response.raise_for_status()
+    except requests.RequestException:
+        return None
+    match = _POSTED.search(" ".join(BeautifulSoup(response.text, "html.parser").get_text(" ").split()))
+    if not match:
+        return None
+    day, month, year, hour, minute, half = match.groups()
+    try:
+        when = dt.datetime.strptime(f"{day} {month.title()} {year} {hour}:{minute} {half.upper()}",
+                                    "%d %b %Y %I:%M %p")
+    except ValueError:
+        return None
+    return when.replace(tzinfo=dt.timezone(dt.timedelta(hours=5, minutes=30)))
+
+
+def old_pib(post) -> bool:
+    """True for a PIB release whose page says it was posted too long ago.
+
+    A page that cannot be read is let through: the release-number check
+    has already stopped anything clearly old, and a slow PIB site must not
+    hold back the day's news.
+    """
+    if not post.handle.startswith(("PIB ", "pib ")) and "pib.gov.in" not in (post.url or ""):
+        return False
+    posted = pib_posted(post.url)
+    if posted is None:
+        print(f"  (could not read the posting date of {post.url}; sending on the release number)")
+        return False
+    age = (dt.datetime.now(dt.timezone.utc) - posted).total_seconds() / 3600
+    if age > PIB_MAX_AGE_HOURS:
+        print(f"  dropped an old PIB release, posted {posted:%d %b %Y %I:%M %p}: {post.url}")
+        return True
+    return False
+
+
 def _pib(ministries: list[dict]) -> list[Post]:
     """Government releases, straight from the source rather than via a paper.
 
