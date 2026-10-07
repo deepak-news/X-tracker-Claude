@@ -854,8 +854,9 @@ national:
 #  Gazette of India notification and every PIB release, from every
 #  ministry, screened by the AI with a deliberately LOW bar so nothing
 #  newsworthy is missed. PIB gets a slightly higher bar than gazettes.
-#  Only PIB releases posted in the last 36 hours are ever sent: each one's
-#  own page is checked for its "Posted On" date before it goes out.
+#  Only PIB releases posted in the last 6 hours are ever sent: each one's
+#  own page is checked for its "Posted On" date before it goes out. Only
+#  gazettes published today or yesterday are sent.
 # ======================================================================
 bureau:
 
@@ -866,7 +867,7 @@ bureau:
     still counts -- it only has to be something a reporter on that beat
     would want to know.
 
-    SEND (score 4 or more):
+    SEND:
     - Any Act, rules, regulations, scheme or policy brought in, changed,
       extended or withdrawn
     - Taxes, duties, prices, fees, benefits, deadlines, exemptions and
@@ -895,11 +896,11 @@ bureau:
       awareness drives, yoga days, meetings held with no decision
     - Visits, inspections and review meetings with no announcement
 
-  # Score out of 10 needed to be emailed. Kept low on purpose. Gazettes
+  # Score out of 10 needed to be emailed. Kept fairly low on purpose. Gazettes
   # are the primary record, so their bar is the lowest; PIB, which carries
   # far more routine material, is a step stricter.
-  gazette_threshold: 4
-  pib_threshold: 5
+  gazette_threshold: 5
+  pib_threshold: 6
 
   # Anything published longer ago than this is ignored rather than judged.
   max_age_hours: 12

@@ -756,8 +756,8 @@ FOOTERS = {
     "bureau_desk": """Screened from every extraordinary Gazette of India notification and
         every PIB release, across all ministries. The bar is set low so that
         nothing newsworthy is missed: anything a beat reporter might want is
-        sent, with a slightly higher bar for PIB. Only releases posted in the
-        last day and a half are sent. Headlines are machine-written from the
+        sent, with a slightly higher bar for PIB. Only PIB releases posted in
+        the last six hours, and gazettes published today or yesterday, are sent. Headlines are machine-written from the
         official text -- check the original before publishing.""",
 }
 
@@ -830,6 +830,30 @@ def _bar(post, cfg: dict) -> float:
     if post.handle.startswith("PIB "):
         return float(cfg.get("pib_threshold", general))
     return general
+
+
+_PUBLISHED = re.compile(r"published (\d{2}-[A-Za-z]{3}-\d{4})")
+
+
+def old_gazette(post) -> bool:
+    """True for a gazette not published today or yesterday (India time).
+
+    A gazette is often issued a week or more before it is published, so it
+    is the publication date that counts. Unreadable means not sent: missing
+    a gazette is acceptable, sending an old one is not.
+    """
+    if not post.handle.startswith("Gazette "):
+        return False
+    match = _PUBLISHED.search(post.text)
+    try:
+        published = dt.datetime.strptime(match.group(1), "%d-%b-%Y").date()
+    except (AttributeError, ValueError):
+        print(f"  ! could not read the publication date of {post.url}; not sent, to be safe")
+        return True
+    if (dt.datetime.now(IST).date() - published).days > 1:
+        print(f"  dropped an old gazette, published {published:%d %b %Y}: {post.url}")
+        return True
+    return False
 
 
 def _prid(post) -> int:
@@ -962,8 +986,9 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
         print(f"  [{mark}] {value:.0f}/10 {_badge(post)[1]} {_issuer(post)[:30]}: "
               f"{headline or _original(post)[:80]}")
 
-    # The last word on PIB: the release's own page says when it was posted.
-    picks = [r for r in picks if not sources.old_pib(r[0])]
+    # The last word on age: a PIB release's own page says when it was
+    # posted, and a gazette's listing when it was published.
+    picks = [r for r in picks if not sources.old_pib(r[0]) and not old_gazette(r[0])]
 
     if picks and not dry_run and email_out.pressure(recipient) == "tight":
         major = [r for r in picks if r[1] >= 9]
