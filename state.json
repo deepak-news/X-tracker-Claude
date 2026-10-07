@@ -3,24 +3,6 @@
     {
       "at": "2026-09-29T17:32:00.900072+00:00",
       "handle": "News: Global AI",
-      "headline": "Anthropic warns rogue AI agents pose uncertain legal risks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNam1mZHNtdF9aRFc4Wm5FOXRnb1lXYm1vUGtYcHNsQS1GbnZyUV8xNHZhbDFuMjZFN3I5Mm9MeEc1NVh0Y1hoWFM4R2RmVVJybGpIZjczcmxVYlFkOUk3VFN4NzdvUnNkZ0hQUWt4cGpjTTlOSmVuLWdqNms0bktvU3BvZ1NjQlVjRGd0U1BxN0ZDT296bmthZ0tsSDlfTkZfV3hQYWlzZ2U0TGRseFVJeUsyS05XRmZP?oc=5",
-      "words": [
-        "agents",
-        "anthropic",
-        "company",
-        "exclusive",
-        "legal",
-        "pose",
-        "risk",
-        "rogue",
-        "uncertain"
-      ]
-    },
-    {
-      "at": "2026-09-29T17:32:00.900072+00:00",
-      "handle": "News: Global AI",
       "headline": "OpenAI unveils always-on AI agent Dots and $500 tier",
       "tier": 0,
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkdWY0tGVFAtWVplbzRxRmNxdzJaQ0JVSVFTbXBEZHVvZnJRRUtGNUF4Q05kU1ZyNGNUYjgwWld3WWltZWpmSUNuX3ZFX3czSDlhbFh6S1psUU1rTkRSdjlCYUlNak53b3dCZDRqcmZFMVNOMk1NWEFSNkJCTGR2enBRckM0STVVd3I2VmMtOUxnQVJCS1dZa0tNRmhwam9wYThHcUoteWU3NUU?oc=5",
@@ -7475,6 +7457,24 @@
         "till",
         "upi"
       ]
+    },
+    {
+      "at": "2026-10-07T20:34:13.985604+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI says teen ChatGPT use poses risk",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQjdvVUZMXzVVUHE0TDExcHh2ejJWYnJFazh4QTVYSjFfQkcwU21KVjJvRUs4VktZbnpkNzVhSzNhMzZteHp2QnhxTDBXbHB2TWNNYVFocVhFRWM?oc=5",
+      "words": [
+        "chatgpt",
+        "finds",
+        "limited",
+        "openai",
+        "research",
+        "risk",
+        "teen",
+        "unacceptable",
+        "use"
+      ]
     }
   ],
   "bureau": {
@@ -7787,7 +7787,7 @@
         "PIB, all ministries": "2026-10-07T18:43:56.147942+00:00"
       }
     },
-    "last_run": "2026-10-07T20:20:35.978120+00:00",
+    "last_run": "2026-10-07T20:35:49.591091+00:00",
     "pib_mark": 2320470,
     "seen": [
       "pib:2320137",
@@ -7959,12 +7959,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790769300570",
-    "1790790540137",
-    "1790265600365",
-    "1790769754665",
-    "1790784801487",
-    "1790796360896",
     "1790798916619",
     "1790794039715",
     "1787061521588",
@@ -12469,15 +12463,17 @@
     "1790772631943",
     "1791348129740",
     "1791350040946",
-    "1791369180728",
     "1791371280590",
     "1791387016579",
     "1791387600227",
-    "1791389780479",
-    "1791398126164",
     "1791398489273",
     "1791399787268",
     "1791401248425",
+    "1791381596457",
+    "1791381660758",
+    "1791393650334",
+    "1791398542753",
+    "1791402882459",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -13811,6 +13807,7 @@
     "1791369000054",
     "1791369120198",
     "1791369180453",
+    "1791369180728",
     "1791369180964",
     "1791369209847",
     "1791369593903",
@@ -13867,10 +13864,8 @@
     "1791380457991",
     "1791381180568",
     "1791381418901",
-    "1791381596457",
     "1791381600905",
     "1791381616398",
-    "1791381660758",
     "1791382052183",
     "1791382620585",
     "1791382620923",
@@ -13908,6 +13903,7 @@
     "1791389425302",
     "1791389463047",
     "1791389760701",
+    "1791389780479",
     "1791389880862",
     "1791390750030",
     "1791390767960",
@@ -13921,7 +13917,6 @@
     "1791392435050",
     "1791392754775",
     "1791393388742",
-    "1791393650334",
     "1791394209493",
     "1791394380667",
     "1791394952916",
@@ -13941,11 +13936,11 @@
     "1791397740127",
     "1791397852712",
     "1791398094366",
+    "1791398126164",
     "1791398220874",
     "1791398287915",
     "1791398363536",
     "1791398489906",
-    "1791398542753",
     "1791398580815",
     "1791398728206",
     "1791398915947",
@@ -13955,13 +13950,18 @@
     "1791400075271",
     "1791400320393",
     "1791400903203",
+    "1791401049367",
     "1791401248871",
     "1791401340643",
-    "1791402882459",
-    "1791403359169"
+    "1791403359169",
+    "1791403917753",
+    "1791404340125",
+    "1791404518291",
+    "1791404557193",
+    "1791404927075"
   ],
-  "last_digest_hour": "2026-10-08T01",
-  "last_success": "2026-10-07T20:18:47.314169+00:00",
+  "last_digest_hour": "2026-10-08T02",
+  "last_success": "2026-10-07T20:34:14.026466+00:00",
   "national": {
     "alerted": [
       {
@@ -19371,7 +19371,7 @@
       },
       "warned": "2026-10-07T20:06:13.909027+00:00"
     },
-    "last_run": "2026-10-07T20:20:35.419432+00:00",
+    "last_run": "2026-10-07T20:35:49.124893+00:00",
     "pib_mark": 2320470,
     "seen": [
       "gazette:CG-DL-E-15092026-276183",
@@ -23492,10 +23492,10 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791371280590,
-    "news: big tech platforms": 1791403359169,
+    "news: big tech platforms": 1791404340125,
     "news: consumer internet india": 1791399311904,
-    "news: global ai": 1791402882459,
-    "news: global chips": 1791403359169,
+    "news: global ai": 1791404518291,
+    "news: global chips": 1791404927075,
     "news: global it services": 1791401340643,
     "news: india ai deeptech": 1791392274197,
     "news: india edtech gaming": 1791396373340,
@@ -23556,7 +23556,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-07T20:18:47.665966+00:00",
+    "last_server_run": "2026-10-07T20:34:14.242747+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-07T19:34:54.970412+00:00",
