@@ -7508,17 +7508,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790682414818",
-    "1790690876602",
-    "1790699520384",
-    "1790719914521",
-    "1790740588300",
-    "1790743961605",
-    "1790744507805",
-    "1790744922537",
-    "1790749777475",
-    "1790751611622",
-    "1790752727336",
     "1790754996236",
     "1790698620013",
     "1790701499637",
@@ -11960,7 +11949,6 @@
     "1791338182102",
     "1791350517310",
     "1791352954718",
-    "1791355609407",
     "1791355680542",
     "1791355693150",
     "1791356635842",
@@ -11968,6 +11956,14 @@
     "1791359153041",
     "1791359520234",
     "1791360995468",
+    "1790737444035",
+    "1791277457844",
+    "1791277547435",
+    "1791290285388",
+    "1791340379318",
+    "1791357569079",
+    "1791357781890",
+    "1791359820250",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -13080,7 +13076,6 @@
     "1790708400493",
     "1790712000039",
     "1790721986391",
-    "1790737444035",
     "1790746200917",
     "1790750458519",
     "1790755200174",
@@ -13212,9 +13207,7 @@
     "1791274706448",
     "1791276039968",
     "1791277321282",
-    "1791277457844",
     "1791277526239",
-    "1791277547435",
     "1791279304420",
     "1791279414460",
     "1791279576052",
@@ -13250,7 +13243,6 @@
     "1791289892833",
     "1791289920840",
     "1791290257495",
-    "1791290285388",
     "1791290730508",
     "1791291495750",
     "1791291600937",
@@ -13346,13 +13338,14 @@
     "1791338499196",
     "1791338746629",
     "1791338932710",
+    "1791339817956",
     "1791339826789",
     "1791339953000",
     "1791340039056",
+    "1791340080761",
     "1791340200645",
     "1791340229611",
     "1791340275916",
-    "1791340379318",
     "1791340584691",
     "1791340650558",
     "1791340897064",
@@ -13429,6 +13422,7 @@
     "1791353040391",
     "1791353446616",
     "1791353552200",
+    "1791353632963",
     "1791353787219",
     "1791353872472",
     "1791353959339",
@@ -13441,6 +13435,7 @@
     "1791355243623",
     "1791355313356",
     "1791355591414",
+    "1791355609407",
     "1791355693884",
     "1791356575744",
     "1791356635095",
@@ -13448,8 +13443,7 @@
     "1791357331037",
     "1791357423273",
     "1791357551151",
-    "1791357569079",
-    "1791357781890",
+    "1791357569472",
     "1791358226014",
     "1791358488142",
     "1791358535830",
@@ -13460,7 +13454,6 @@
     "1791359592746",
     "1791359713788",
     "1791359769113",
-    "1791359820250",
     "1791359891975",
     "1791359993492",
     "1791360030491",
@@ -13482,7 +13475,14 @@
     "1791362401036",
     "1791362498134",
     "1791362714238",
+    "1791363360324",
+    "1791363365273",
     "1791363480742",
+    "1791363495370",
+    "1791363509598",
+    "1791363617314",
+    "1791363697560",
+    "1791364154825",
     "2317509",
     "2317615",
     "2317714",
@@ -13510,7 +13510,7 @@
     "2320035"
   ],
   "last_digest_hour": "2026-10-07T14",
-  "last_success": "2026-10-07T09:02:24.480537+00:00",
+  "last_success": "2026-10-07T09:16:47.713915+00:00",
   "national": {
     "alerted": [
       {
@@ -18733,7 +18733,8 @@
       },
       "warned": "2026-10-06T20:05:10.146418+00:00"
     },
-    "last_run": "2026-10-07T09:04:27.225218+00:00",
+    "last_run": "2026-10-07T09:19:49.448156+00:00",
+    "pib_mark": 2320068,
     "seen": [
       "gazette:CG-DL-E-12092026-276151",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
@@ -21648,7 +21649,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-learning-teamwork-and-hard-work-in-governance",
       "pib:2320063",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-journey-from-incrementalism-to-ambition-and-confidence",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-energy-transition-wider-access-and-energy-security"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-energy-transition-wider-access-and-energy-security",
+      "pib:2320068"
     ],
     "source_failures": {
       "CBI": {
@@ -21742,6 +21744,24 @@
       "queued_at": "2026-10-07T09:02:24.419526+00:00",
       "score": 8.0,
       "why": "Major infrastructure deals and chip procurement by leading global tech companies are filable stories."
+    },
+    {
+      "headline": "OpenAI apologises after AI agent breaches Australian government systems",
+      "post": {
+        "created_at": "2026-10-07T08:58:15+00:00",
+        "handle": "News: Global AI",
+        "id": "1791363495370",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "News18",
+        "reposts": 0,
+        "text": "OpenAI Says Sorry After Its AI Agent Hacked Australian Government Systems: Why It Should Worry You",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkY0S2k5dEJNZEhuYm5NRk5VUG1rSWd0MVZ1ZW1STjhmTFM2a0xmbF9ubXZCTDVzd19hSzJtbG5YSzdUZ0ZDdEtaN29oOW4yUzNxMkpGTFlLLU55VnAySU0wMVlQOGdqcnpmYzF4b1pUNnBOUGpwdExPNHNuOEJ1bXlUWVYxTGdvZDFrSVZaWl9FX2ZzcFBuOEYzMEQ3RGVLVHdoQldNZUxlcmhMRmMxZTlNaHNZOVl1aEHSAb8BQVVfeXFMTXlIdXM1WmcydGNpR2hZRVJaeXM5ZEJpSWN0RllIamgtRk4wbUkyUUpPQklWTHZKUVA3OERHeHB1R2NFNnF1RzhZeG5EbUNqSDlaSEFzUERITk9DUDVFZFFNaDV5anpXdFY1cE8xaGRZNDFrR3NQNHF2VlZSX2dEVDFRUEtvRG9ETzlXUmgxemhBNUZsX2lsVjFwMmpxQ05sRDNQeGxRUXctZjN6cUI1THlWU2RKM2VqYVNNV3VGeFk?oc=5"
+      },
+      "queued_at": "2026-10-07T09:16:47.653802+00:00",
+      "score": 8.0,
+      "why": "Major AI company security disclosure regarding autonomous agent hacks, which is a key wire story."
     }
   ],
   "page_links": {
@@ -22809,17 +22829,17 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791286740039,
-    "news: big tech platforms": 1791362401036,
-    "news: consumer internet india": 1791361419274,
-    "news: global ai": 1791361667490,
-    "news: global chips": 1791363480742,
+    "news: big tech platforms": 1791363697560,
+    "news: consumer internet india": 1791363360324,
+    "news: global ai": 1791363495370,
+    "news: global chips": 1791363617314,
     "news: global it services": 1791360291891,
     "news: india ai deeptech": 1791362714238,
     "news: india edtech gaming": 1791352906746,
     "news: india fintech": 1791360999028,
     "news: india semiconductors": 1791340650558,
     "news: india tech policy": 1791355693884,
-    "news: india telecom": 1791362498134,
+    "news: india telecom": 1791364154825,
     "news: indian it majors": 1791354600760,
     "news: indian it midcaps": 1791354463691,
     "news: pib releases": 1790159940641,
@@ -22832,7 +22852,7 @@
     "pib communications": 2320035,
     "pib meity": 2319821,
     "pib science and technology": 2319563,
-    "razorpay": 1791280117943,
+    "razorpay": 1791353632963,
     "redseer": 1791359171671,
     "reg cci": 1791849600315,
     "reg cert-in": 1788998400763,
@@ -22871,17 +22891,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-07T09:02:24.815701+00:00",
+    "last_server_run": "2026-10-07T09:16:48.095348+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-07T07:17:23.640361+00:00",
+        "checked": "2026-10-07T09:17:41.924147+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-07T07:17:12.620477+00:00",
+        "checked": "2026-10-07T09:17:34.137951+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -22957,7 +22977,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-07T07:17:16.464031+00:00",
+        "checked": "2026-10-07T09:17:37.931307+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -23011,11 +23031,11 @@
       },
       "last": {
         "calendar": "2026-10-07T05:34:27.438178+00:00",
-        "ls_reports": "2026-10-07T07:16:55.312630+00:00",
-        "rs_committee_press": "2026-10-07T07:17:06.442282+00:00",
-        "rs_press": "2026-10-07T07:17:03.128958+00:00",
-        "rs_reports": "2026-10-07T07:16:59.719659+00:00",
-        "rs_updates": "2026-10-07T07:17:08.513079+00:00"
+        "ls_reports": "2026-10-07T09:17:18.371860+00:00",
+        "rs_committee_press": "2026-10-07T09:17:28.576780+00:00",
+        "rs_press": "2026-10-07T09:17:25.620339+00:00",
+        "rs_reports": "2026-10-07T09:17:22.566761+00:00",
+        "rs_updates": "2026-10-07T09:17:30.282030+00:00"
       }
     },
     "scanned": [
