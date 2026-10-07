@@ -855,8 +855,9 @@ national:
 #  ministry, screened by the AI with a deliberately LOW bar so nothing
 #  newsworthy is missed. PIB gets a slightly higher bar than gazettes.
 #  Only PIB releases posted in the last 6 hours are ever sent: each one's
-#  own page is checked for its "Posted On" date before it goes out. Only
-#  gazettes published today or yesterday are sent.
+#  own page is checked for its "Posted On" date before it goes out. A
+#  gazette is sent only if it is a new upload, judged by its upload number
+#  (the last part of its ID), never by the older date printed on it.
 # ======================================================================
 bureau:
 

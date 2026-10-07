@@ -757,7 +757,8 @@ FOOTERS = {
         every PIB release, across all ministries. The bar is set low so that
         nothing newsworthy is missed: anything a beat reporter might want is
         sent, with a slightly higher bar for PIB. Only PIB releases posted in
-        the last six hours, and gazettes published today or yesterday, are sent. Headlines are machine-written from the
+        the last six hours, and gazettes newly uploaded to the e-Gazette site,
+        are sent. Headlines are machine-written from the
         official text -- check the original before publishing.""",
 }
 
@@ -833,16 +834,39 @@ def _bar(post, cfg: dict) -> float:
 
 
 _PUBLISHED = re.compile(r"published (\d{2}-[A-Za-z]{3}-\d{4})")
+_GAZETTE_NO = re.compile(r"-E-\d{8}-(\d+)")
 
 
-def old_gazette(post) -> bool:
-    """True for a gazette not published today or yesterday (India time).
+def _gazette_no(post) -> int:
+    """The gazette's upload number: the last part of an ID such as
+    CG-DL-E-07102026-276885. One sequence across every ministry and press,
+    and the site's recent-uploads list is in exactly this order."""
+    match = _GAZETTE_NO.search(post.id)
+    return int(match.group(1)) if match else 0
 
-    A gazette is often issued a week or more before it is published, so it
-    is the publication date that counts. Unreadable means not sent: missing
-    a gazette is acceptable, sending an old one is not.
+
+def old_gazette(post, mark: int = 0) -> bool:
+    """True for a gazette that is not a new upload -- or cannot be shown to be.
+
+    Dates are no help here: a gazette carries the date it was issued, often
+    a week or two before it reaches the website. What does tell is its upload
+    number, which only ever climbs. Anything at or below the highest number
+    this desk had already read is not new, whatever its dates say.
+
+    Only before the desk has a number to go on does the publication date
+    decide instead: published today or yesterday, or not at all. Missing a
+    gazette is acceptable; sending an old one is not.
     """
     if not post.handle.startswith("Gazette "):
+        return False
+    number = _gazette_no(post)
+    if not number:
+        print(f"  ! could not read the gazette number of {post.url}; not sent, to be safe")
+        return True
+    if mark:
+        if number <= mark:
+            print(f"  dropped a gazette uploaded before the last one read ({number} <= {mark}): {post.url}")
+            return True
         return False
     match = _PUBLISHED.search(post.text)
     try:
@@ -909,6 +933,7 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
     cutoff = dt.datetime.now(UTC) - dt.timedelta(hours=max_age)
     stale = 0
     pib_mark = int(memory.get("pib_mark") or 0)
+    gazette_mark = int(memory.get("gazette_mark") or 0)
     for post in posts:
         if post.id in seen or post.id in ids:
             continue
@@ -922,6 +947,10 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
             continue
         if _prid(post) and _prid(post) < pib_mark - PIB_BEHIND:
             settled.add(post.id)       # an old PIB release, by its number
+            stale += 1
+            continue
+        if post.handle.startswith("Gazette ") and old_gazette(post, gazette_mark):
+            settled.add(post.id)       # not a new upload, by its number
             stale += 1
             continue
         fresh.append(post)
@@ -988,7 +1017,7 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
 
     # The last word on age: a PIB release's own page says when it was
     # posted, and a gazette's listing when it was published.
-    picks = [r for r in picks if not sources.old_pib(r[0]) and not old_gazette(r[0])]
+    picks = [r for r in picks if not sources.old_pib(r[0]) and not old_gazette(r[0], gazette_mark)]
 
     if picks and not dry_run and email_out.pressure(recipient) == "tight":
         major = [r for r in picks if r[1] >= 9]
@@ -1028,6 +1057,17 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
         memory["sources"] = sorted(known_sources | {getattr(p, "source", "") for p in posts} - {""})
         memory["last_run"] = dt.datetime.now(UTC).isoformat()
         memory["pib_mark"] = max([pib_mark] + [_prid(p) for p in posts])
+        # The highest gazette number now dealt with. A gazette left for the
+        # next run (the AI was down, say) holds the mark below itself, or it
+        # would be taken for old when it comes round again.
+        done = set(memory["seen"])
+        numbers = [_gazette_no(p) for p in posts if p.handle.startswith("Gazette ")]
+        waiting = [_gazette_no(p) for p in posts
+                   if p.handle.startswith("Gazette ") and p.id not in done and _gazette_no(p)]
+        new_mark = max([n for n in numbers if n] or [gazette_mark])
+        if waiting:
+            new_mark = min(new_mark, min(waiting) - 1)
+        memory["gazette_mark"] = max(gazette_mark, new_mark)
         score_log.save()
         STATE.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n")
     # A government site or the AI being down is not a failure of this

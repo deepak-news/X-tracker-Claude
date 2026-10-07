@@ -118,10 +118,11 @@ def merge_national(ours: dict, theirs: dict) -> dict:
     newer = ours if ours.get("last_run", "") >= theirs.get("last_run", "") else theirs
     merged["source_failures"] = newer.get("source_failures") or {}
     merged["health"] = newer.get("health") or {}
-    # The newest PIB release number read: only ever climbs.
-    mark = max(int(ours.get("pib_mark") or 0), int(theirs.get("pib_mark") or 0))
-    if mark:
-        merged["pib_mark"] = mark
+    # The newest PIB release and gazette numbers dealt with: only ever climb.
+    for field in ("pib_mark", "gazette_mark"):
+        mark = max(int(ours.get(field) or 0), int(theirs.get(field) or 0))
+        if mark:
+            merged[field] = mark
     return merged
 
 
