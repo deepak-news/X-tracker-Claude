@@ -1,26 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-01T13:32:06.095657+00:00",
-      "handle": "News: Global chips",
-      "headline": "Qualcomm targets $5 billion in data centre revenue next year",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcEh2bWQtV1BaWld2bDY3UmFmWlZlelFmZ0hOZlh3eldTaS01bUFQa3hPVUl0NW5fdFBFRUJDNjdqZS1vLXdRc0R6Mi15dEhuSzdMczNHVG1ocV92ZW1qaVhBdllVV0NlQk5sZWZESUU4NmU3X0V1TFowMXgzcnNMODQ5NjNFWFBlMGpvZkhzcVBoSDU0ZFhwUGhSZmpIem1fczNJbHhtUEd2UmhHelo4WWxaNkHSAboBQVVfeXFMUG5SX2hqSVVENWZDb3YyV29TaG4wand2YVV5cVRxNWRMQ0d6aXU4cUZLLTVPc0Zma3FNMEZBV3N0aDdxZXAzR18xSDNYeDRVdFhuTnU4alFZMnd4eTl4OXhxdGlULTdkNEY5N3ZkUDlnakt1dmFKMTJnSU1BUms1NV9SY3J5N3JiYklLeXA5Q0dTWGZ1LWJaRC1NY3oyNVZ4UmZaWDNKQnNNYi1BdkVFSmNLaU1ILXFiblFR?oc=5",
-      "words": [
-        "apple",
-        "billion",
-        "business",
-        "centre",
-        "data",
-        "next",
-        "qualcomm",
-        "revenue",
-        "shrinks",
-        "targets",
-        "year"
-      ]
-    },
-    {
       "at": "2026-10-01T14:32:12.765201+00:00",
       "handle": "News: India telecom",
       "headline": "Jio files DRHP for upcoming IPO after SEBI clearance",
@@ -7464,6 +7444,24 @@
         "shock",
         "today"
       ]
+    },
+    {
+      "at": "2026-10-08T21:32:13.323249+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft responds to Trump administration visa fraud allegations",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTWE1R1VCRU1lZVpZZGtraDV4RlJ1TXhEQ3JWX0dwajYxUkVRQmxLNTZscEtNQUUyTTdoYlFKYXdFUDVpMndicHZmVDhOVTNueWRRZTFKR2h4MWVfNFAzeDhDdHlBRnFqMlZtSFc1TDQzM2RTWm9zMk5QbTRXX0lZRHF2UHpCZ2FLRDVSOWdaRW1vbkdQdkxMMzlzb0pfSVotTDViYngwbXNjVVlmal9TdmdzMDhMZmczNExjVVFxQXdSZWoxY1huVWlKMmtzVC1tQzFRcUEtc29qYWJUajVjQXBDR1Rua05taDlobVFDeHI3aWM?oc=5",
+      "words": [
+        "administration",
+        "allegations",
+        "fraud",
+        "hire",
+        "microsoft",
+        "people",
+        "these",
+        "trump",
+        "visa"
+      ]
     }
   ],
   "bureau": {
@@ -8174,7 +8172,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-08T21:19:19.037618+00:00",
+    "last_run": "2026-10-08T21:34:40.418613+00:00",
     "pib_mark": 2321111,
     "seen": [
       "pib:2320137",
@@ -8464,9 +8462,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790914830538",
-    "1790916251436",
-    "1790744087958",
     "1790753043362",
     "1790754964759",
     "1790765711039",
@@ -12754,7 +12749,6 @@
     "1791453795640",
     "1791470010708",
     "1791471120636",
-    "1791471706913",
     "1791471769352",
     "1791472221492",
     "1791473280300",
@@ -12813,7 +12807,6 @@
     "1791475610387",
     "1791479880091",
     "1791480218399",
-    "1791481986920",
     "1791405228380",
     "1791453660955",
     "1791467183736",
@@ -12880,15 +12873,21 @@
     "1791485847314",
     "1791487246854",
     "1790006410312",
-    "1791460888709",
     "1791465867133",
     "1791467131152",
     "1791468919055",
     "1791470995887",
     "1791471611470",
-    "1791475748149",
     "1791476960679",
     "1791478934878",
+    "1791468000424",
+    "1791470332102",
+    "1791477855338",
+    "1791478440642",
+    "1791481723913",
+    "1791482918492",
+    "1791484138186",
+    "1791489504589",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14242,6 +14241,7 @@
     "1791460800599",
     "1791460800975",
     "1791460871931",
+    "1791460888709",
     "1791461071677",
     "1791461100388",
     "1791461175136",
@@ -14266,7 +14266,6 @@
     "1791467424182",
     "1791467560576",
     "1791467734751",
-    "1791468000424",
     "1791468000888",
     "1791468480040",
     "1791468554167",
@@ -14274,7 +14273,6 @@
     "1791469621232",
     "1791469860470",
     "1791470131489",
-    "1791470332102",
     "1791470700339",
     "1791470757273",
     "1791470820675",
@@ -14283,6 +14281,7 @@
     "1791471280405",
     "1791471420544",
     "1791471600539",
+    "1791471706913",
     "1791471714092",
     "1791471739161",
     "1791471817671",
@@ -14318,6 +14317,7 @@
     "1791475281341",
     "1791475341993",
     "1791475740768",
+    "1791475748149",
     "1791475748181",
     "1791475771428",
     "1791476110623",
@@ -14332,9 +14332,7 @@
     "1791477516494",
     "1791477600466",
     "1791477754639",
-    "1791477855338",
     "1791478404772",
-    "1791478440642",
     "1791478535708",
     "1791478660399",
     "1791478759108",
@@ -14349,9 +14347,9 @@
     "1791480580766",
     "1791480632493",
     "1791481507841",
-    "1791481723913",
     "1791481808723",
     "1791481867929",
+    "1791481986920",
     "1791482100605",
     "1791482157960",
     "1791482220955",
@@ -14364,7 +14362,6 @@
     "1791482659762",
     "1791482798476",
     "1791482880300",
-    "1791482918492",
     "1791483049313",
     "1791483055059",
     "1791483273170",
@@ -14375,7 +14372,6 @@
     "1791483490778",
     "1791483582024",
     "1791483923865",
-    "1791484138186",
     "1791484173566",
     "1791484200141",
     "1791484200207",
@@ -14405,8 +14401,8 @@
     "1791487440538",
     "1791487445067",
     "1791488789854",
+    "1791489075665",
     "1791489278887",
-    "1791489504589",
     "1791489608558",
     "1791489783095",
     "1791489866261",
@@ -14425,6 +14421,8 @@
     "1791493562344",
     "1791493595788",
     "1791493595953",
+    "1791493689309",
+    "1791494271492",
     "2317509",
     "2317615",
     "2317714",
@@ -14465,8 +14463,8 @@
     "2321002",
     "2321066"
   ],
-  "last_digest_hour": "2026-10-09T02",
-  "last_success": "2026-10-08T21:16:53.265953+00:00",
+  "last_digest_hour": "2026-10-09T03",
+  "last_success": "2026-10-08T21:32:13.390528+00:00",
   "national": {
     "alerted": [
       {
@@ -20121,7 +20119,7 @@
       },
       "warned": "2026-10-08T20:11:18.030625+00:00"
     },
-    "last_run": "2026-10-08T21:19:17.227682+00:00",
+    "last_run": "2026-10-08T21:34:39.836304+00:00",
     "pib_mark": 2321111,
     "seen": [
       "pib:2311010",
@@ -24243,7 +24241,7 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791371280590,
-    "news: big tech platforms": 1791493562344,
+    "news: big tech platforms": 1791493689309,
     "news: consumer internet india": 1791484401441,
     "news: global ai": 1791490714261,
     "news: global chips": 1791483490778,
@@ -24254,7 +24252,7 @@
     "news: india semiconductors": 1791477516494,
     "news: india tech policy": 1791486939489,
     "news: india telecom": 1791485961623,
-    "news: indian it majors": 1791492327314,
+    "news: indian it majors": 1791494271492,
     "news: indian it midcaps": 1791470700339,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791491040532,
@@ -24305,7 +24303,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-08T21:16:53.662339+00:00",
+    "last_server_run": "2026-10-08T21:32:13.697628+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-08T19:33:19.519058+00:00",
