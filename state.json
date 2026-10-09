@@ -1,66 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-03T02:32:05.235304+00:00",
-      "handle": "News: Global chips",
-      "headline": "Biren prepares BR20X AI GPU to challenge Nvidia in China",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTG1rYklkellLN1ROeExuTmNpZktRS0puMVRwVmZ3LXk2MHB6Z1BxVHFldU1jSXkyVTlKTzU3Z0RpNlNocjNBRzR4SFVwbFpEcGRVZE8xUTVwd1hpbGFLd3lINmRGNkk5THc4bzZ6aVV0RG9sMkR3RlVWZlVLbHJ0ZFZ5NU42Tk9CU3d2d3FRNA?oc=5",
-      "words": [
-        "biren",
-        "br20x",
-        "challenge",
-        "china",
-        "gpu",
-        "nvidia",
-        "readies",
-        "sharpening"
-      ]
-    },
-    {
-      "at": "2026-10-03T06:32:05.322762+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI reports review costs of $500,000 daily for government site hacks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQV9vbzIxazFuRjRrZVRqQnF1c2toZ1dMcnMxTUN4Uk5ISVNFQ1Q4aGdSd0t6aE16YjMzZ09nWGVHdUYzUE1jN0IyOThnYUNVTEdBNFlEWkJ1LVhBOU0yNGZwWnRvWGgwNTUyTTVNX1BnVkRvb2g1WFlmTDBTcGdfYUd2bGhHWFdycFY4WWFiSGxYOVR2QldpR3VnN0VsLW1JWDFBTUxlTFN6UTVwRjBVRGxjRlE3M3JSRnVV?oc=5",
-      "words": [
-        "000",
-        "500",
-        "australian",
-        "costing",
-        "day",
-        "government",
-        "hacks",
-        "including",
-        "into",
-        "openai",
-        "review",
-        "sites"
-      ]
-    },
-    {
-      "at": "2026-10-03T06:32:05.322762+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI Safety Systems team lead David Robinson leaves company",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQ1F0c2tSTWNMN0xyVTluWUxvY1FWdWwtODVyaHd2aDg0X0ZqSVFYcGNCYTJ5ODljZDl2V3RxemdLejEzS0dkcFE0T1hwV3Q1alZSOGpyMGNoTzRTY01hX3BwY2sweUllMU91amE2a0VOaXpSUHBuMDFRak1GV0FDQXdacENKRHZiSTRsWHY2OC1nZ3hFVWplanowaUNjQS1meGFQZThqa2FnMHBOS1dPbEs1Ymp4anA2Zk40VjNzYmU0bDFQd1lnX3hwRXdBQ3Njd3hRRndvd0QtdmZnTjVkYUpTMTRUUld4NW9DYXB6R1YtS3V2d01vOWJBTGI1ZTQzejEzb2J5S0hpOTZYN05Gb2k4a9IBmAJBVV95cUxNRWEyaGsxYWlJR09qMFJMWDNSaHVWZGp6V29ZbHFjZVpYXzl4eTFnSnhoWHk2VC1PRFlIX0xyOFAzWjZnYmpiLTB4UV8tYWhkNm9KZEdMQm1hd3ViLU9BdUxUTm5NVnhkU2w4M1N6R2VsU3NncUE4NHg2VmdIRXJnVmR5S2U1X0QzMG9XRS1WeFVGV3E4aW1UbTdMLWlVZ0hwRHlSU1U1bzh4RFNlR04zT1JvajVlRU9IUlpIVXZyYl94NEx1YmJqalpvWE9tM25MRW9wQXBOeGxpaWVtOTE5MGhybUZlOGdYOUZYWndhVW9LR2xtNmg3NWlldnBIMWRJdmx6WTdfVnVzUWlzSW1fOVA0Wm1ZaG1W?oc=5",
-      "words": [
-        "david",
-        "execs",
-        "firm",
-        "joining",
-        "lead",
-        "left",
-        "list",
-        "openai",
-        "robinson",
-        "safety",
-        "systems",
-        "team",
-        "year"
-      ]
-    },
-    {
       "at": "2026-10-03T07:32:06.898876+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic plans formal IPO marketing starting week of November 9",
@@ -7507,6 +7447,60 @@
         "tip",
         "website"
       ]
+    },
+    {
+      "at": "2026-10-09T21:32:08.462004+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "TCS senior staff to miss variable pay for September quarter",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWxHNzNJUF9FTlpsWm1aWU1SNDlZa2otRXVveFhzeHN3NXF0NnRfdUpVQTJBd25xZ2x3d0hld21TalhQT2o4V1E3WllFYV9qMFZQclFKNGlMeU85c3E2Y0VRbVhMYVRaQktuX2MyamN0VlFkTExmUjhyWXMzem4yWXk1bGRVMmNSRGtWa0M1aGgweEtfSFQycFItdHZBUmNNdHJsaWpSc3BwaTBieE15LTNuZXlZWFcwdnlFWFh5VGtSM2M1cHc?oc=5",
+      "words": [
+        "memo",
+        "miss",
+        "out",
+        "pay",
+        "quarter",
+        "senior",
+        "september",
+        "shows",
+        "staff",
+        "tcs",
+        "variable"
+      ]
+    },
+    {
+      "at": "2026-10-09T21:32:08.462004+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI reports $70 billion annualized run rate amid infrastructure challenges",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUnptX1Zzc0Fzak4tWUhsVjVMZ0lubTNDWUc2N3hXemUzY2J2Q3QzeGxHM3JJWFZGUTF6eGRSNzZlelZTLXlQOVRPdUpUeHlBUHFpdGh3aDk2VWlrWUZqcTJWcno0UHNvUTJCWVMxMHM0MXA2cWw2Nmd3bWZIRU5iclpyT2NMdw?oc=5",
+      "words": [
+        "70b",
+        "challenge",
+        "infrastructure",
+        "meets",
+        "openai",
+        "rate",
+        "run",
+        "watch"
+      ]
+    },
+    {
+      "at": "2026-10-09T21:32:08.462004+00:00",
+      "handle": "News: Global chips",
+      "headline": "Nvidia-backed Firmus scraps $5 bn Australia IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSldCR0JmakhfZWt4TjJueV8zME1yUEU4bjUyRUxUOXZSSDdYN1NLYmNxd181VjB6SjZoVVNlZFk0eVY5dHdLbXdFQXZqLW1lS0xycVBQejJBRzY1RnJ1cWhjRHpoVzhlV2lMYnpwS3pBNmVLOUtfRF9lQi03aW9tNENoVGo2T09UWGF3a0dkMGQ2MzhJczNMX1hIbHd6dGl1R2tzYm1mYUU0SFFyTlJDdldtbFhnZWEtV1RQYmRESVlMSW04M0d2R0VzbE9UN0YtUU9wOWFZQkJvd9IB2gFBVV95cUxPSldCR0JmakhfZWt4TjJueV8zME1yUEU4bjUyRUxUOXZSSDdYN1NLYmNxd181VjB6SjZoVVNlZFk0eVY5dHdLbXdFQXZqLW1lS0xycVBQejJBRzY1RnJ1cWhjRHpoVzhlV2lMYnpwS3pBNmVLOUtfRF9lQi03aW9tNENoVGo2T09UWGF3a0dkMGQ2MzhJczNMX1hIbHd6dGl1R2tzYm1mYUU0SFFyTlJDdldtbFhnZWEtV1RQYmRESVlMSW04M0d2R0VzbE9UN0YtUU9wOWFZQkJvdw?oc=5",
+      "words": [
+        "australia",
+        "backed",
+        "firmus",
+        "growing",
+        "ipo",
+        "nvidia",
+        "scraps",
+        "scrutiny"
+      ]
     }
   ],
   "bureau": {
@@ -8521,7 +8515,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-09T21:19:15.350128+00:00",
+    "last_run": "2026-10-09T21:33:04.828250+00:00",
     "pib_mark": 2321603,
     "seen": [
       "pib:2320137",
@@ -8913,9 +8907,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791076757826",
-    "1791084364445",
-    "1791084446739",
     "1791086179500",
     "1791087882277",
     "1791012120725",
@@ -13284,12 +13275,10 @@
     "1791542100560",
     "1791543662918",
     "1791543705668",
-    "1790859163942",
     "1791495455784",
     "1791521091958",
     "1791533700066",
     "1791542466032",
-    "1791544947234",
     "1791546179802",
     "1791560160803",
     "1791541980429",
@@ -13307,7 +13296,6 @@
     "1791569668359",
     "1791496920587",
     "1791511008920",
-    "1791526200276",
     "1791541703032",
     "1791547369514",
     "1791554772040",
@@ -13322,13 +13310,18 @@
     "1791561089703",
     "1791563001121",
     "1791573344599",
-    "1790861668785",
-    "1791529287631",
     "1791530363284",
-    "1791538448032",
     "1791539711265",
-    "1791547887833",
     "1791579338983",
+    "1784175469244",
+    "1791518533884",
+    "1791531884124",
+    "1791540848032",
+    "1791541734231",
+    "1791543059634",
+    "1791547350378",
+    "1791552360628",
+    "1791569291899",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -13417,7 +13410,6 @@
     "1783512059308",
     "1783598400465",
     "1783946248949",
-    "1784175469244",
     "1784194242160",
     "1784195100310",
     "1784201280593",
@@ -14417,9 +14409,11 @@
     "1790848800118",
     "1790852880732",
     "1790853393098",
+    "1790859163942",
     "1790859441304",
     "1790859649759",
     "1790859654879",
+    "1790861668785",
     "1790864164257",
     "1790866800749",
     "1790867007268",
@@ -14619,7 +14613,6 @@
     "1791517569699",
     "1791518160668",
     "1791518235292",
-    "1791518533884",
     "1791518712536",
     "1791518782301",
     "1791518825322",
@@ -14650,6 +14643,7 @@
     "1791525535136",
     "1791525900871",
     "1791525955450",
+    "1791526200276",
     "1791526200332",
     "1791526319168",
     "1791526647059",
@@ -14666,6 +14660,7 @@
     "1791528608202",
     "1791529200447",
     "1791529200692",
+    "1791529287631",
     "1791529571223",
     "1791529833728",
     "1791529897256",
@@ -14678,7 +14673,6 @@
     "1791530924665",
     "1791531111880",
     "1791531425058",
-    "1791531884124",
     "1791532203911",
     "1791532607621",
     "1791532800111",
@@ -14706,6 +14700,7 @@
     "1791538010598",
     "1791538227819",
     "1791538302719",
+    "1791538448032",
     "1791539161465",
     "1791539711403",
     "1791539989099",
@@ -14713,13 +14708,11 @@
     "1791540214400",
     "1791540377264",
     "1791540774347",
-    "1791540848032",
     "1791541203912",
     "1791541241295",
     "1791541281796",
     "1791541302635",
     "1791541612722",
-    "1791541734231",
     "1791541980068",
     "1791542019886",
     "1791542100080",
@@ -14727,7 +14720,6 @@
     "1791542853439",
     "1791542939701",
     "1791543006624",
-    "1791543059634",
     "1791543174212",
     "1791543199297",
     "1791543840792",
@@ -14736,16 +14728,17 @@
     "1791544606697",
     "1791544680224",
     "1791544911569",
+    "1791544947234",
     "1791545270473",
     "1791546062698",
     "1791546120727",
     "1791546526446",
     "1791546608274",
     "1791547301362",
-    "1791547350378",
     "1791547369430",
     "1791547492239",
     "1791547603940",
+    "1791547887833",
     "1791547979394",
     "1791548255575",
     "1791548587747",
@@ -14765,7 +14758,6 @@
     "1791551784486",
     "1791551983738",
     "1791552194731",
-    "1791552360628",
     "1791552555450",
     "1791552894460",
     "1791552986906",
@@ -14817,6 +14809,7 @@
     "1791565920289",
     "1791566007891",
     "1791566460102",
+    "1791566795655",
     "1791567018697",
     "1791567098336",
     "1791567160536",
@@ -14834,7 +14827,6 @@
     "1791569092645",
     "1791569160784",
     "1791569276712",
-    "1791569291899",
     "1791569640126",
     "1791569668340",
     "1791570093444",
@@ -14855,6 +14847,7 @@
     "1791574680652",
     "1791574710363",
     "1791574740578",
+    "1791575496359",
     "1791576000307",
     "1791577295156",
     "1791577320407",
@@ -14863,6 +14856,7 @@
     "1791578503594",
     "1791579430775",
     "1791579480499",
+    "1791580680071",
     "2317509",
     "2317615",
     "2317714",
@@ -14914,8 +14908,8 @@
     "2321512",
     "2321533"
   ],
-  "last_digest_hour": "2026-10-10T02",
-  "last_success": "2026-10-09T21:16:49.605202+00:00",
+  "last_digest_hour": "2026-10-10T03",
+  "last_success": "2026-10-09T21:32:08.537963+00:00",
   "national": {
     "alerted": [
       {
@@ -20929,7 +20923,7 @@
       },
       "warned": "2026-10-09T20:18:32.833982+00:00"
     },
-    "last_run": "2026-10-09T21:19:14.117875+00:00",
+    "last_run": "2026-10-09T21:33:02.491065+00:00",
     "pib_mark": 2321603,
     "seen": [
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-chief-minister-sri-a-revanth-reddy-participates-in-cpim-senior-leader-comrade-sarampally-malla-reddy-memorial-meeting-at-ravindra-bharati-hyderabad/",
@@ -23975,44 +23969,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "TCS senior staff to miss variable pay for September quarter",
-      "post": {
-        "created_at": "2026-10-09T20:41:43+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1791578503594",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Reuters",
-        "reposts": 0,
-        "text": "India's TCS senior staff will miss out on variable pay for September quarter, memo shows",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWxHNzNJUF9FTlpsWm1aWU1SNDlZa2otRXVveFhzeHN3NXF0NnRfdUpVQTJBd25xZ2x3d0hld21TalhQT2o4V1E3WllFYV9qMFZQclFKNGlMeU85c3E2Y0VRbVhMYVRaQktuX2MyamN0VlFkTExmUjhyWXMzem4yWXk1bGRVMmNSRGtWa0M1aGgweEtfSFQycFItdHZBUmNNdHJsaWpSc3BwaTBieE15LTNuZXlZWFcwdnlFWFh5VGtSM2M1cHc?oc=5"
-      },
-      "queued_at": "2026-10-09T21:02:19.672447+00:00",
-      "score": 8.0,
-      "why": "Internal memo reveals significant compensation cuts at India's top IT services firm."
-    },
-    {
-      "headline": "OpenAI reports $70 billion annualized run rate amid infrastructure challenges",
-      "post": {
-        "created_at": "2026-10-09T19:23:08+00:00",
-        "handle": "News: Global AI",
-        "id": "1791573788599",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bloomberg",
-        "reposts": 0,
-        "text": "Watch OpenAI's $70B Run Rate Meets AI's Infrastructure Challenge",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUnptX1Zzc0Fzak4tWUhsVjVMZ0lubTNDWUc2N3hXemUzY2J2Q3QzeGxHM3JJWFZGUTF6eGRSNzZlelZTLXlQOVRPdUpUeHlBUHFpdGh3aDk2VWlrWUZqcTJWcno0UHNvUTJCWVMxMHM0MXA2cWw2Nmd3bWZIRU5iclpyT2NMdw?oc=5"
-      },
-      "queued_at": "2026-10-09T21:02:19.672447+00:00",
-      "score": 7.0,
-      "why": "Major financial disclosure from a leading AI company qualifies as a key wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25099,7 +25056,7 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791577565678,
+    "news: big tech platforms": 1791580680071,
     "news: consumer internet india": 1791570765002,
     "news: global ai": 1791579430775,
     "news: global chips": 1791577320407,
@@ -25161,7 +25118,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-09T21:16:49.920420+00:00",
+    "last_server_run": "2026-10-09T21:32:08.857762+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-09T21:02:51.499716+00:00",
