@@ -1,47 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-02T16:32:05.408468+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Karnataka government selects seven startups for Innoverse deeptech scale-up programme",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbTNmdmpxeWVWOW5RaGF5bUQwdmxJZmltLXIxRVdnY2lnNVdLTnZGNm1NeU9ZWDJ0NzRtdlpmT2Y4MUZNaGNQbG1xbk1qVThac1U2WDFLQ09oOHJONzdiYm9NTzlCc0RyeWFwOU9kRW8wZGMwcUhEaXpfeE5oZC13LWpxOWQwUV92c28wbnIxTUVGcGJjeGJVeVdRZDlqNmZhcTdqS1ZGTUNDbnhPMjBqamxuSFo4NXgtdmljZ3BvUC1fRDBScS14cU5CdjdMaERac2RNbXB3MThxTWs4N21adFlwaUR4Z1lIb1Ew0gHrAUFVX3lxTFBtM2Z2anF5ZVY5blFoYXltRDB2bElmaW0tcjFFV2djaWc1V0tOdkY2bU15T1lYMnQ3NG12WmZPZjgxRk1oY1BsbXFuTWpVOFpzVTZYMUtDT2g4ck43N2Jib01POUJzRHJ5YXA5T2RFbzBkYzBxSERpel94TmhkLXctanE5ZDBRX3ZzbzBucjFNRUZwYmN4YlV5V1FkOWo2ZmFxN2pLVkZNQ0NueE8yMGpqbG5IWjg1eC12aWNncG9QLV9EMFJxLXhxTkJ2N0xoRFpzZE1tcHcxOHFNazg3bVp0WXBpRHhnWUhvUTA?oc=5",
-      "words": [
-        "deeptech",
-        "govt",
-        "identifies",
-        "innoverse",
-        "karnataka",
-        "programme",
-        "scale",
-        "seven",
-        "startups"
-      ]
-    },
-    {
-      "at": "2026-10-02T17:17:01.752471+00:00",
-      "handle": "Anthropic",
-      "headline": "Anthropic launches $100M Claude Frontier Academy to train 10,000 engineers",
-      "tier": 1,
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "words": [
-        "000",
-        "100",
-        "2026",
-        "academy",
-        "announcements",
-        "anthropic",
-        "article",
-        "engineers",
-        "enterprise",
-        "first",
-        "frontier",
-        "gap",
-        "invests",
-        "kind"
-      ]
-    },
-    {
       "at": "2026-10-02T17:32:13.954560+00:00",
       "handle": "News: India telecom",
       "headline": "Jio IPO likely to open on October 21",
@@ -7507,6 +7466,43 @@
         "subcontracting",
         "tcs"
       ]
+    },
+    {
+      "at": "2026-10-09T15:32:10.403603+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Persistent Systems acquires additional 10.79% stake in Nagarro SE",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXRRMVR1enNSTXhlVzlvWFJ5T2NiMlVuaEREQ0phVmZBb0prTWhBc0JpRXBTR0d4M0FIUkwzSDl1R284WUFLbDV3Vlh6RVJ5U18tNmJVTFAyZy1vazU3djJhWE1KR1FFbVJvOVRWWmNNM3JNV2dFMFl4a3luUTVQbEpxTFRqNXc1LUR3QlRDWGVBeXZQZ04zbVlUS0hfRS1rdEdjM3dHVENxUk9ESUoxbXI4cnY1amhaYWIyYkV2VWVjeG9rNTUxLVcwcFdBUFZPLXfSAdcBQVVfeXFMTkRfd09ScEt3bzI3SFdZOWpmajVQMklhU3pXOEk3ekxORTlOOTVDS2NMakZXNUFVTE5RdHQ5RXoyNEJ6Zm1sVTc0dXQzWGdxOWVKN0ZwQTA5VWNiX0hwV1V4LVMtMTh3T2xDMmZGX1RBcEVNRFZXNGI3WkJSVGRIeG11T3FHbVB4MVlYYWVHcUlxWFljVXA0ODU1cVl1SmdIdXhrd0d1UzZlbXRtOGx0NXdlMVJKRlUzaHUzanZzejNLQjFvZG02bTJKOWJjVGhTLWZ6WHBSdzQ?oc=5",
+      "words": [
+        "additional",
+        "bags",
+        "extended",
+        "nagarro",
+        "offer",
+        "period",
+        "persistent",
+        "stake",
+        "systems"
+      ]
+    },
+    {
+      "at": "2026-10-09T15:32:10.403603+00:00",
+      "handle": "News: Global AI",
+      "headline": "Oracle, Broadcom and SpaceX seek massive debt deals for AI chips",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQlQwOUh0Wlhtb1B1T1YxN1ItVmh1ck5xeE5Xa0FWR2ZRcjlDdGZSM1hUVTltMHp1aHhVM1FCYUZKNnIweDhKWjlxUGpGeVlJTFFlNElVQnBkT2VMaERTRTBCVXFTbk1BRFRPRVpRWVA2blBxbnMwR3Q4VUZVQU9iVEFyRExCVW5aSjl3bXFOYlZERUxTY0l4QjA1RS1BVjRQS1lCOW5kSWtqY0t3?oc=5",
+      "words": [
+        "blockbuster",
+        "broadcom",
+        "chips",
+        "deals",
+        "debt",
+        "exclusive",
+        "oracle",
+        "pay",
+        "seek",
+        "spacex"
+      ]
     }
   ],
   "bureau": {
@@ -8412,7 +8408,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-09T15:19:06.927499+00:00",
+    "last_run": "2026-10-09T15:33:41.389004+00:00",
     "pib_mark": 2321535,
     "seen": [
       "pib:2320137",
@@ -8771,11 +8767,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1790954640014",
-    "1790955180802",
-    "1790955900606",
-    "1791004273800",
-    "1791007240507",
     "1791026350282",
     "1790956380526",
     "1791024240770",
@@ -13130,13 +13121,11 @@
     "1791470700339",
     "1791475341993",
     "1791523427443",
-    "1791524445539",
     "1791541125414",
     "1791545520284",
     "1791546489774",
     "1791547301385",
     "1791548220610",
-    "1791550080260",
     "1791554810885",
     "1791555780700",
     "1791471706913",
@@ -13152,14 +13141,24 @@
     "1791532847909",
     "1791533074531",
     "1791538248797",
-    "1791542853728",
     "1791543684886",
-    "1791544790683",
     "1791545276477",
     "1791550283823",
     "1790859163942",
     "1790861668785",
     "1791544947234",
+    "1791472907123",
+    "1791473293815",
+    "1791537822136",
+    "1791542280801",
+    "1791542853439",
+    "1791546240574",
+    "1791549026342",
+    "1791551808485",
+    "1791552732043",
+    "1791555780856",
+    "1791555978161",
+    "1791558151452",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14396,8 +14395,6 @@
     "1791469860470",
     "1791471600539",
     "1791471714092",
-    "1791472907123",
-    "1791473293815",
     "1791473400373",
     "1791473577614",
     "1791473626028",
@@ -14526,6 +14523,7 @@
     "1791523549260",
     "1791523980898",
     "1791524441393",
+    "1791524445539",
     "1791525480304",
     "1791525535136",
     "1791525900871",
@@ -14587,7 +14585,6 @@
     "1791537218398",
     "1791537301987",
     "1791537477174",
-    "1791537822136",
     "1791537822481",
     "1791537900948",
     "1791538010598",
@@ -14620,9 +14617,8 @@
     "1791541734231",
     "1791542019886",
     "1791542134039",
-    "1791542280801",
     "1791542640698",
-    "1791542853439",
+    "1791542853728",
     "1791542926563",
     "1791542939701",
     "1791543006624",
@@ -14639,6 +14635,7 @@
     "1791544045784",
     "1791544377886",
     "1791544606697",
+    "1791544790683",
     "1791544911569",
     "1791545270473",
     "1791545280937",
@@ -14647,7 +14644,6 @@
     "1791546062071",
     "1791546120727",
     "1791546179802",
-    "1791546240574",
     "1791546418642",
     "1791546526446",
     "1791546608274",
@@ -14669,11 +14665,11 @@
     "1791548970347",
     "1791549000256",
     "1791549000575",
-    "1791549026342",
     "1791549090681",
     "1791549341966",
     "1791549398890",
     "1791549480197",
+    "1791550080260",
     "1791550095481",
     "1791550317047",
     "1791550620278",
@@ -14685,7 +14681,6 @@
     "1791551460181",
     "1791551608722",
     "1791551784486",
-    "1791551808485",
     "1791551820743",
     "1791551983738",
     "1791552019738",
@@ -14694,10 +14689,10 @@
     "1791552249881",
     "1791552360628",
     "1791552555450",
-    "1791552732043",
     "1791552894460",
     "1791552930822",
     "1791552986906",
+    "1791553080122",
     "1791553126818",
     "1791553934777",
     "1791554100407",
@@ -14708,9 +14703,8 @@
     "1791555095823",
     "1791555240610",
     "1791555420486",
-    "1791555780856",
+    "1791555780686",
     "1791555791218",
-    "1791555978161",
     "1791556397891",
     "1791556475776",
     "1791556599451",
@@ -14719,8 +14713,10 @@
     "1791557854640",
     "1791557934819",
     "1791558024843",
-    "1791558151452",
     "1791558525750",
+    "1791558667214",
+    "1791559789452",
+    "1791559841983",
     "2317509",
     "2317615",
     "2317714",
@@ -14772,8 +14768,8 @@
     "2321512",
     "2321533"
   ],
-  "last_digest_hour": "2026-10-09T20",
-  "last_success": "2026-10-09T15:17:00.213815+00:00",
+  "last_digest_hour": "2026-10-09T21",
+  "last_success": "2026-10-09T15:32:10.481021+00:00",
   "national": {
     "alerted": [
       {
@@ -20592,12 +20588,13 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
+        "IRDAI": "2026-10-09T15:33:40.163408+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-08T20:11:18.030625+00:00"
     },
-    "last_run": "2026-10-09T15:19:05.893867+00:00",
+    "last_run": "2026-10-09T15:33:40.164196+00:00",
     "pib_mark": 2321535,
     "seen": [
       "page:https://internal.imd.gov.in/press_release/20260827_pr_5263.pdf",
@@ -23610,6 +23607,9 @@
         "count": 73,
         "until": "2026-10-09T18:20:04.051887+00:00"
       },
+      "IRDAI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -23639,44 +23639,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Persistent Systems acquires additional 10.79% stake in Nagarro SE",
-      "post": {
-        "created_at": "2026-10-09T14:34:35+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1791556475776",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "Persistent Systems bags additional 10.79% stake in Nagarro SE in extended offer period",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXRRMVR1enNSTXhlVzlvWFJ5T2NiMlVuaEREQ0phVmZBb0prTWhBc0JpRXBTR0d4M0FIUkwzSDl1R284WUFLbDV3Vlh6RVJ5U18tNmJVTFAyZy1vazU3djJhWE1KR1FFbVJvOVRWWmNNM3JNV2dFMFl4a3luUTVQbEpxTFRqNXc1LUR3QlRDWGVBeXZQZ04zbVlUS0hfRS1rdEdjM3dHVENxUk9ESUoxbXI4cnY1amhaYWIyYkV2VWVjeG9rNTUxLVcwcFdBUFZPLXfSAdcBQVVfeXFMTkRfd09ScEt3bzI3SFdZOWpmajVQMklhU3pXOEk3ekxORTlOOTVDS2NMakZXNUFVTE5RdHQ5RXoyNEJ6Zm1sVTc0dXQzWGdxOWVKN0ZwQTA5VWNiX0hwV1V4LVMtMTh3T2xDMmZGX1RBcEVNRFZXNGI3WkJSVGRIeG11T3FHbVB4MVlYYWVHcUlxWFljVXA0ODU1cVl1SmdIdXhrd0d1UzZlbXRtOGx0NXdlMVJKRlUzaHUzanZzejNLQjFvZG02bTJKOWJjVGhTLWZ6WHBSdzQ?oc=5"
-      },
-      "queued_at": "2026-10-09T14:46:55.647810+00:00",
-      "score": 8.0,
-      "why": "A confirmed stake purchase and acquisition by a watched IT company is a core wire story."
-    },
-    {
-      "headline": "Oracle, Broadcom and SpaceX seek massive debt deals for AI chips",
-      "post": {
-        "created_at": "2026-10-09T15:02:31+00:00",
-        "handle": "News: Global AI",
-        "id": "1791558151452",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "WSJ",
-        "reposts": 0,
-        "text": "Exclusive | Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQlQwOUh0Wlhtb1B1T1YxN1ItVmh1ck5xeE5Xa0FWR2ZRcjlDdGZSM1hUVTltMHp1aHhVM1FCYUZKNnIweDhKWjlxUGpGeVlJTFFlNElVQnBkT2VMaERTRTBCVXFTbk1BRFRPRVpRWVA2blBxbnMwR3Q4VUZVQU9iVEFyRExCVW5aSjl3bXFOYlZERUxTY0l4QjA1RS1BVjRQS1lCOW5kSWtqY0t3?oc=5"
-      },
-      "queued_at": "2026-10-09T15:17:00.135155+00:00",
-      "score": 7.0,
-      "why": "Major capital expenditure and financing moves by tech giants for AI chips are hard news."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -24765,7 +24728,7 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1791555420486,
     "news: consumer internet india": 1791558024843,
-    "news: global ai": 1791558151452,
+    "news: global ai": 1791559841983,
     "news: global chips": 1791555240610,
     "news: global it services": 1791548970347,
     "news: india ai deeptech": 1791543006624,
@@ -24775,7 +24738,7 @@
     "news: india tech policy": 1791555780856,
     "news: india telecom": 1791557934819,
     "news: indian it majors": 1791557854640,
-    "news: indian it midcaps": 1791556475776,
+    "news: indian it midcaps": 1791558667214,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791554810794,
     "nvidia": 1791493595788,
@@ -24825,7 +24788,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-09T15:17:00.564983+00:00",
+    "last_server_run": "2026-10-09T15:32:10.848628+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-09T14:33:02.473959+00:00",
