@@ -1,23 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-02T20:32:12.746575+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Nscale hires Meta's Justin Osofsky as COO ahead of IPO",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc09FaFN1T2NaMG9BNjRnaDVNWTdaS09FcWYzd0hRR2hsd09PRUdfdUpzY1QzNkFPSTRPQ0VqTEtFTnlOSDhhZm9lSnZiSVUydWpWM0wxam5hM1JPWWpyWWtPaG5OVklwZ0doWUJxQTZudG5EbGt6ZUdCZnlfVGNGWTZnOFVmUTRDTlF6NExoRWJXdXE4QUFhMFUycjJtbVQ2UllVQUxoTGE0QUk3ODE4WDNReE5tdHpsZGJ0cTE0VEFYcUQ1X1dGYThJMA?oc=5",
-      "words": [
-        "ahead",
-        "coo",
-        "hires",
-        "ipo",
-        "justin",
-        "meta",
-        "nscale",
-        "osofsky"
-      ]
-    },
-    {
       "at": "2026-10-03T02:32:05.235304+00:00",
       "handle": "News: Global chips",
       "headline": "Biren prepares BR20X AI GPU to challenge Nvidia in China",
@@ -7507,6 +7490,23 @@
         "technology",
         "tejas"
       ]
+    },
+    {
+      "at": "2026-10-09T20:32:11.549278+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic AI model submits false homicide tip to police",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5",
+      "words": [
+        "anthropic",
+        "false",
+        "homicide",
+        "model",
+        "police",
+        "submits",
+        "tip",
+        "website"
+      ]
     }
   ],
   "bureau": {
@@ -8521,7 +8521,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-09T20:18:35.421198+00:00",
+    "last_run": "2026-10-09T20:34:47.370886+00:00",
     "pib_mark": 2321603,
     "seen": [
       "pib:2320137",
@@ -8913,11 +8913,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791007620500",
-    "1791008131732",
-    "1791020079089",
-    "1791051540583",
-    "1791088284350",
     "1791014100841",
     "1791047230280",
     "1791009677008",
@@ -13279,7 +13274,6 @@
     "1791549132575",
     "1791554100407",
     "1791486442871",
-    "1791539989099",
     "1791540043032",
     "1791545829229",
     "1791547221223",
@@ -13305,33 +13299,35 @@
     "1791542100560",
     "1791543662918",
     "1791543705668",
-    "1791554772040",
-    "1791568951452",
     "1790859163942",
     "1790861668785",
     "1791495455784",
     "1791521091958",
     "1791533700066",
-    "1791539711265",
-    "1791541734231",
     "1791542466032",
     "1791544947234",
     "1791546179802",
     "1791560160803",
-    "1791569668340",
-    "1791528157568",
-    "1791541143414",
     "1791541980429",
-    "1791542640698",
     "1791543436032",
     "1791547497943",
     "1791547948905",
     "1791550055575",
     "1791552360628",
     "1791559959971",
-    "1791567976005",
-    "1791568020908",
     "1791575496469",
+    "1791491040532",
+    "1791511920374",
+    "1791526882006",
+    "1791527429415",
+    "1791536220155",
+    "1791540917032",
+    "1791547332575",
+    "1791561319665",
+    "1791565607356",
+    "1791567900407",
+    "1791568894644",
+    "1791569668359",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14571,7 +14567,6 @@
     "1791479783484",
     "1791482517990",
     "1791486107373",
-    "1791491040532",
     "1791493595788",
     "1791493595953",
     "1791496920587",
@@ -14599,7 +14594,6 @@
     "1791511730229",
     "1791511810061",
     "1791511861731",
-    "1791511920374",
     "1791511920895",
     "1791511946131",
     "1791512277396",
@@ -14659,7 +14653,6 @@
     "1791526200332",
     "1791526319168",
     "1791526647059",
-    "1791526882006",
     "1791527041730",
     "1791527097129",
     "1791527123662",
@@ -14667,8 +14660,8 @@
     "1791527317683",
     "1791527322692",
     "1791527400920",
-    "1791527429415",
     "1791527580697",
+    "1791528157568",
     "1791528608202",
     "1791529200447",
     "1791529200692",
@@ -14700,7 +14693,6 @@
     "1791534980721",
     "1791535118422",
     "1791535307109",
-    "1791536220155",
     "1791536280958",
     "1791536580142",
     "1791536626918",
@@ -14714,21 +14706,26 @@
     "1791538227819",
     "1791538302719",
     "1791539161465",
+    "1791539711265",
     "1791539711403",
+    "1791539989099",
     "1791540060388",
     "1791540214400",
     "1791540377264",
     "1791540774347",
-    "1791540917032",
+    "1791541143414",
     "1791541203912",
     "1791541241295",
     "1791541281796",
     "1791541302635",
     "1791541612722",
+    "1791541703032",
+    "1791541734231",
     "1791541980068",
     "1791542019886",
     "1791542100080",
     "1791542134039",
+    "1791542640698",
     "1791542853439",
     "1791542939701",
     "1791543006624",
@@ -14747,13 +14744,13 @@
     "1791546526446",
     "1791546608274",
     "1791547301362",
-    "1791547332575",
     "1791547350378",
     "1791547369514",
     "1791547492239",
     "1791547603940",
     "1791547887833",
     "1791547979394",
+    "1791548255575",
     "1791548587747",
     "1791548890919",
     "1791548970347",
@@ -14777,6 +14774,7 @@
     "1791553126818",
     "1791553934777",
     "1791554374409",
+    "1791554772040",
     "1791554808838",
     "1791554810794",
     "1791555095823",
@@ -14805,7 +14803,6 @@
     "1791560693892",
     "1791560831185",
     "1791561089703",
-    "1791561319665",
     "1791561646534",
     "1791562125669",
     "1791562406644",
@@ -14813,13 +14810,13 @@
     "1791562742464",
     "1791562762614",
     "1791563001121",
+    "1791563061665",
     "1791563404014",
     "1791563404755",
     "1791563760440",
     "1791564469756",
     "1791564515145",
     "1791564955500",
-    "1791565607356",
     "1791565920289",
     "1791566007891",
     "1791566460102",
@@ -14829,13 +14826,14 @@
     "1791567160536",
     "1791567276250",
     "1791567300066",
-    "1791567900407",
+    "1791567976005",
+    "1791568020908",
     "1791568030083",
     "1791568207325",
     "1791568405001",
     "1791568639317",
     "1791568791304",
-    "1791568894644",
+    "1791568951452",
     "1791569004091",
     "1791569040469",
     "1791569092645",
@@ -14844,7 +14842,7 @@
     "1791569276712",
     "1791569291899",
     "1791569640126",
-    "1791569668359",
+    "1791569668340",
     "1791570093444",
     "1791570180464",
     "1791570540690",
@@ -14863,6 +14861,8 @@
     "1791574710363",
     "1791574740578",
     "1791576000307",
+    "1791577295156",
+    "1791577320407",
     "2317509",
     "2317615",
     "2317714",
@@ -14914,8 +14914,8 @@
     "2321512",
     "2321533"
   ],
-  "last_digest_hour": "2026-10-10T01",
-  "last_success": "2026-10-09T20:16:50.018328+00:00",
+  "last_digest_hour": "2026-10-10T02",
+  "last_success": "2026-10-09T20:32:11.596134+00:00",
   "national": {
     "alerted": [
       {
@@ -20031,6 +20031,25 @@
           "special",
           "window"
         ]
+      },
+      {
+        "at": "2026-10-09T20:34:42.256242+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 6.9 earthquake -- 8 km NW of R\u00edo Grande, Panama.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282001",
+        "words": [
+          "2026",
+          "deep",
+          "earthquake",
+          "grande",
+          "ist",
+          "magnitude",
+          "oct",
+          "panama",
+          "reported",
+          "usgs"
+        ]
       }
     ],
     "gazette_mark": 277020,
@@ -20891,10 +20910,9 @@
       },
       "warned": "2026-10-09T20:18:32.833982+00:00"
     },
-    "last_run": "2026-10-09T20:18:33.834176+00:00",
+    "last_run": "2026-10-09T20:34:42.256821+00:00",
     "pib_mark": 2321603,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-chairs-semiconductor-roundtable-with-leading-ceos",
       "page:https://www.cbse.gov.in/cbsenew/documents/Press_Note_9_KVS_NVS_2025_01092026.pdf",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-chief-minister-sri-a-revanth-reddy-participates-in-cpim-senior-leader-comrade-sarampally-malla-reddy-memorial-meeting-at-ravindra-bharati-hyderabad/",
       "feed:http://www.niti.gov.in/node/2421",
@@ -23893,7 +23911,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63784",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63783",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13737&Mode=0",
-      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0"
+      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0",
+      "quake:usgs:pt26282001"
     ],
     "source_failures": {
       "CBI": {
@@ -23937,26 +23956,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic AI model submits false homicide tip to police",
-      "post": {
-        "created_at": "2026-10-09T19:21:43+00:00",
-        "handle": "News: Global AI",
-        "id": "1791573703297",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Reuters",
-        "reposts": 0,
-        "text": "Anthropic AI model submits false homicide tip to police website",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5"
-      },
-      "queued_at": "2026-10-09T19:46:46.374157+00:00",
-      "score": 7.0,
-      "why": "Major AI safety and model incident disclosure by a key watched AI company."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25045,8 +25045,8 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1791576000307,
     "news: consumer internet india": 1791570765002,
-    "news: global ai": 1791574710363,
-    "news: global chips": 1791574214842,
+    "news: global ai": 1791577295156,
+    "news: global chips": 1791577320407,
     "news: global it services": 1791563404755,
     "news: india ai deeptech": 1791543006624,
     "news: india edtech gaming": 1791550277446,
@@ -25087,7 +25087,7 @@
       "REG DGFT": "2026-10-01T19:16:58.192426+00:00",
       "Samsung India": "2026-10-09T13:02:16.621085+00:00"
     },
-    "warned": "2026-10-08T20:16:56.773888+00:00"
+    "warned": "2026-10-09T20:32:08.659048+00:00"
   },
   "watch": {
     "health_server": {
@@ -25105,7 +25105,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-09T20:16:50.289590+00:00",
+    "last_server_run": "2026-10-09T20:32:11.808693+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-09T18:47:41.675687+00:00",
