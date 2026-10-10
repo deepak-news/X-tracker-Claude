@@ -1,26 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-04T06:32:03.452660+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Canon in talks with semiconductor project developers in India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVkNNLWRUSkZULTJsNGRDaWctcEFyRWktXzdlLTJ0NE9kSjY3SzdhTjA3T2hEdjY1LXNXZF9jLXgwRWYzNkhzR1BoMjI0WW8wQjg2T0J2SlEzNDNGbE96N3JQTWUtald6MUVQbU9IUmdYYmFxQlJTOXU3bnkteDZmd0xiaHJ0QWlJbE8tS1o3S3lMZzRNcURUYXJlbXpYMzhlWU82WXNhRVNYdkxCTFlfR3lYaG5wX3BxRFc1cjNpOGFfTE9UZ3h1THNpa0FrVFctYVpYY180eXN0bHJBc0xlTGxiVFk4RmxOZkNjdzVsTWNFQ0ExcU1OcExLS3RIRTlkX2xBcUJ4R0REY29H0gGSAkFVX3lxTFB6VVF4U1doeE9wVGRtblBnYWVaNHk3YWRKZFlRc1dBSWVjR3ZxbHlCYzdQbUNVVnpyaDN1dDByTXlyMXY0a01NQkxydEVfcUdjQUI3ZnM0VFA1V0ZFU3FJQnRnTUdaS3BxMkdIYXRhbEsxN3RMQlZmVDZxbkhhTTh2dVFoV0ROSUhaZjdIQVNZalRyWTcyZkFLdGhianpHdHBXNGQyeHFnTUhHVnVIYnpYcm1WRGdyTGtIX1RIWVFVRTdWclVYczRPZFRNMDZ4d0k2alowMnBpcnhZdTN1X3J3dXdZOHJ4Yk52QlZ3ajVQUG55aU1pWUdXZ0taU2F6dG8zVjAxZ1JaSEFua2VCMHVQMkE?oc=5",
-      "words": [
-        "canon",
-        "centres",
-        "chip",
-        "engaged",
-        "key",
-        "local",
-        "plans",
-        "projects",
-        "service",
-        "talks",
-        "those"
-      ]
-    },
-    {
       "at": "2026-10-04T07:34:11.071832+00:00",
       "handle": "News: India telecom",
       "headline": "Jio Platforms IPO likely in late October at $143B-$146B valuation",
@@ -7489,6 +7469,24 @@
         "typesafe",
         "valuation"
       ]
+    },
+    {
+      "at": "2026-10-10T17:32:06.475604+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Satya Nadella calls for AI accountability and failure disclosures",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkZHU2ZnbTZ0b2NuVGRUb0tQcFNqZ1VNajBUaWFZQ2xtMDBNaHBqdmQ5ejVUTnNoQnFKRU9ERFBiODNHMGxncmltejktWF85b0dSVFg0LUt6UldETHdLM2RjVURHcERadXRCZnM2WW1qUFFvNFd0cEZMV20yOFFGYnU0OVBlcnZNaTkwcE93b0pPT0tWNTZhblJUVHB5aTBkQUhxLW5MVVQ3cGlYRWpLYXhZMHV4aU51bEFrMVlBWnpiX2E4ZEZkTXpzMEN5RlJPSGfSAdoBQVVfeXFMUHUxV2VyQmpYTGE5ZkJ1dFAtdEJxM3dHVlVJc0dOeUUyUGtTR0lpV1NYVmVWZjFZMXZKcElnSUlpWFg5TXBJbUJhUC1lbUJTTDNXbHFyaF9CSzRFZlNVRV9DV1dtRVZSQi1zY3BmUXBVXy1JU1hzSlJUVHd2YVZnUzQ4ZGNXMDctU2wtNk9QQl8xeFUtY1Zob1Y3MTdlQUdqSEU3Q3dEbllxd3JEVUZGNkhfUi1IYWRSblJUT2o1NzR5YjkzZEphTUY2aXNZUXlUbl9FcjVTMGoyY2c?oc=5",
+      "words": [
+        "accountability",
+        "calls",
+        "disclosure",
+        "failures",
+        "microsoft",
+        "nadella",
+        "satya",
+        "system",
+        "timely"
+      ]
     }
   ],
   "bureau": {
@@ -8597,7 +8595,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-10T17:17:44.794068+00:00",
+    "last_run": "2026-10-10T17:33:50.838020+00:00",
     "pib_mark": 2321828,
     "seen": [
       "pib:2320137",
@@ -9051,7 +9049,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791180000791",
     "1791180646674",
     "1791184400577",
     "1791107100701",
@@ -13557,13 +13554,33 @@
     "1791610042842",
     "1791634058707",
     "1791643320596",
-    "1791644895984",
-    "1791571740702",
     "1791610585736",
     "1791619704629",
     "1791627000109",
     "1791632639282",
     "1791648808797",
+    "1790169409114",
+    "1790169409302",
+    "1790697722096",
+    "1790697722111",
+    "1790697722114",
+    "1790697722138",
+    "1790697722421",
+    "1790697722429",
+    "1790697722448",
+    "1790697722746",
+    "1790697722807",
+    "1790697722928",
+    "1790949717507",
+    "1790949717576",
+    "1790949717690",
+    "1790949717695",
+    "1790949717802",
+    "1790949717882",
+    "1791151314860",
+    "1791566820273",
+    "1791605160533",
+    "1791644895708",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14531,8 +14548,6 @@
     "1790164800965",
     "1790168400014",
     "1790168556912",
-    "1790169409114",
-    "1790169409302",
     "1790169409560",
     "1790169409959",
     "1790173800268",
@@ -14616,16 +14631,6 @@
     "1790685989014",
     "1790686838895",
     "1790697605515",
-    "1790697722096",
-    "1790697722111",
-    "1790697722114",
-    "1790697722138",
-    "1790697722421",
-    "1790697722429",
-    "1790697722448",
-    "1790697722746",
-    "1790697722807",
-    "1790697722928",
     "1790701148991",
     "1790701202836",
     "1790701257919",
@@ -14681,18 +14686,11 @@
     "1790934216888",
     "1790939726996",
     "1790946039935",
-    "1790949717507",
-    "1790949717576",
-    "1790949717690",
-    "1790949717695",
-    "1790949717802",
-    "1790949717882",
     "1790954746699",
     "1790956443310",
     "1790957700412",
     "1790960458455",
     "1790961393966",
-    "1791151314860",
     "1791172308905",
     "1791172370889",
     "1791172424692",
@@ -14845,7 +14843,6 @@
     "1791551784486",
     "1791552963003",
     "1791555502485",
-    "1791566820273",
     "1791567145749",
     "1791568030083",
     "1791568207103",
@@ -14855,6 +14852,7 @@
     "1791570540690",
     "1791570600561",
     "1791570765002",
+    "1791571740702",
     "1791571821256",
     "1791573072492",
     "1791573557920",
@@ -14887,7 +14885,6 @@
     "1791603480471",
     "1791603534169",
     "1791604790799",
-    "1791605160533",
     "1791605617962",
     "1791605979983",
     "1791606586314",
@@ -14908,6 +14905,7 @@
     "1791615144577",
     "1791616050344",
     "1791616080597",
+    "1791616197129",
     "1791617499184",
     "1791617550678",
     "1791617727101",
@@ -14984,7 +14982,7 @@
     "1791643320434",
     "1791643631330",
     "1791644593043",
-    "1791644895708",
+    "1791644895984",
     "1791645157095",
     "1791645420871",
     "1791645459943",
@@ -15052,8 +15050,8 @@
     "2321723",
     "2321784"
   ],
-  "last_digest_hour": "2026-10-10T22",
-  "last_success": "2026-10-10T17:16:51.455724+00:00",
+  "last_digest_hour": "2026-10-10T23",
+  "last_success": "2026-10-10T17:32:06.476797+00:00",
   "national": {
     "alerted": [
       {
@@ -21155,7 +21153,6 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "CERT-In": "2026-10-10T04:38:43.397924+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
         "IRDAI": "2026-10-10T12:18:19.450293+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
@@ -21163,7 +21160,7 @@
       },
       "warned": "2026-10-09T20:18:32.833982+00:00"
     },
-    "last_run": "2026-10-10T17:17:43.783734+00:00",
+    "last_run": "2026-10-10T17:33:49.839148+00:00",
     "pib_mark": 2321828,
     "seen": [
       "pib:2311312",
@@ -23737,8 +23734,6 @@
       "quake:usgs:us6000u164",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-gratitude-to-president-of-the-republic-of-zambia-for-his-wishes-on-completing-25-years-of-service-to-the-nation-as-head-of-government",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-gratitude-to-prime-minister-of-the-federal-democratic-republic-of-ethiopia-mr-abiy-ahmed-ali-for-his-wishes-on-completing-25-years-of-service-to-the-nation-as-head-of-government",
-      "certin:CIAD-2026-0045",
-      "certin:CIAD-2026-0046",
       "quake:usgs:us6000u18k",
       "gazette:CG-DL-E-09102026-276982",
       "gazette:CG-KA-E-09102026-276981",
@@ -23817,6 +23812,8 @@
       "gazette:CG-DL-E-10102026-277035",
       "gazette:CG-DL-E-10102026-277036",
       "quake:usgs:us6000u1cf",
+      "certin:CIAD-2026-0045",
+      "certin:CIAD-2026-0046",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-11-years-of-inclusive-growth-and-national-empowerment",
@@ -24172,10 +24169,6 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "CERT-In": {
-        "count": 4,
-        "until": "2026-10-10T17:17:38.570025+00:00"
-      },
       "DGFT": {
         "count": 77,
         "until": "2026-10-10T19:02:53.125363+00:00"
@@ -24213,26 +24206,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Satya Nadella calls for AI accountability and failure disclosures",
-      "post": {
-        "created_at": "2026-10-10T16:37:35+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1791650255494",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV Profit",
-        "reposts": 0,
-        "text": "Microsoft's Satya Nadella Calls For AI Accountability, Timely Disclosure Of System Failures",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkZHU2ZnbTZ0b2NuVGRUb0tQcFNqZ1VNajBUaWFZQ2xtMDBNaHBqdmQ5ejVUTnNoQnFKRU9ERFBiODNHMGxncmltejktWF85b0dSVFg0LUt6UldETHdLM2RjVURHcERadXRCZnM2WW1qUFFvNFd0cEZMV20yOFFGYnU0OVBlcnZNaTkwcE93b0pPT0tWNTZhblJUVHB5aTBkQUhxLW5MVVQ3cGlYRWpLYXhZMHV4aU51bEFrMVlBWnpiX2E4ZEZkTXpzMEN5RlJPSGfSAdoBQVVfeXFMUHUxV2VyQmpYTGE5ZkJ1dFAtdEJxM3dHVlVJc0dOeUUyUGtTR0lpV1NYVmVWZjFZMXZKcElnSUlpWFg5TXBJbUJhUC1lbUJTTDNXbHFyaF9CSzRFZlNVRV9DV1dtRVZSQi1zY3BmUXBVXy1JU1hzSlJUVHd2YVZnUzQ4ZGNXMDctU2wtNk9QQl8xeFUtY1Zob1Y3MTdlQUdqSEU3Q3dEbllxd3JEVUZGNkhfUi1IYWRSblJUT2o1NzR5YjkzZEphTUY2aXNZUXlUbl9FcjVTMGoyY2c?oc=5"
-      },
-      "queued_at": "2026-10-10T16:46:51.724979+00:00",
-      "score": 7.0,
-      "why": "Major statements by a prominent tech CEO on AI safety policies and accountability meet wire criteria."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25381,7 +25355,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-10T17:16:51.815221+00:00",
+    "last_server_run": "2026-10-10T17:32:06.775412+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-10T16:32:32.858313+00:00",
