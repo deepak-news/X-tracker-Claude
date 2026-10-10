@@ -1,47 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-03T17:32:03.450171+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI Safety Systems lead David Robinson resigns over safety concerns",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYTNieUQ4RmJmNGVQdGRvQk9FaGFFQUhhaWVEdEY2bGlZSVplTklLNzNNRl95Vnc3S1ZtamE2Wm9DX2k4eUxndm45RXdDbGZVd2lvYTRsUmIyS01CSXhuWGV4TXpHOU5HaFR1VTJqOWJPdGMzd3RjMG1ycHpLMzFYdUVLTGN6MXBaLW5QWXNIUGxQeThIVS1TVl9QWFhsRUVCOFVMMWRiRlRiTW5WaHk3SGs1V3NVQ0diR0lrMExsSEFaWkRiQUZmNlNsSC1seDlER3dkRVlZYlVRX0pBMFp0bkJsNFpiVldXSjY3VGdKb2RUc0nSAfgBQVVfeXFMTklvbWY1UkF3RnY0MV9OZlZ1RTZvbWhMeDdweWVYUVF1NmNMWnotTk9PTFhiQlZoTUpWdmttbmI4T1pYSEpBRGQzanFveFdERW44X2hZNU1sdHJtOGhTenhXenIwM3F2TjZLaTluNUtDTDVsNFlzTzI0dUh1NkRlaDlZSXNWZWgyZDF6cm5YclcyMERtV3oyWXd4SFZwN3pFalJZa05PQTVIMGliQkFtUnBhZHVRVWpJUDdiZ25VZFZES0xTR2NfYWRha3hqVjZaSm1mam42dWZvRF9ndFZSTjhsR0g5UlZGa0l0MDhVQ25zenUtSGZ1YkU?oc=5",
-      "words": [
-        "artificial",
-        "david",
-        "did",
-        "essay",
-        "grow",
-        "his",
-        "minds",
-        "openai",
-        "place",
-        "quit",
-        "robinson",
-        "write"
-      ]
-    },
-    {
-      "at": "2026-10-03T18:32:34.129760+00:00",
-      "handle": "News: India telecom",
-      "headline": "Reliance Jio commits \u20b91 lakh crore investment in Andhra Pradesh farming",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPb1d3Y1lnSC1jSk5pbWFySjh2bEt4NG9Idlc5RkkzZUFHdFQ0MHdkVm1lVHVlZHZSVnNtWldUcW1fanVHamlSR3F0ZndqNEZGSkJxcVhRVWJMRFY5Y3d6dXczQjR3cFo4ckdQN0Y4cUw2eDluR0ZkS3dfOVotQXMxYXZlTXJkVF8wZWdULWdYNVd1blpxMjNPUDNXRjMwVGVzQ0xwZmNEODc4ZFhDQ2pFcjIteVg4VllEYzRTYnlxaHdBRDFkazBzTjRJZTBfYlU0Y3VPem9fNmV1X1JnVHFicF9leEgtQ01SaHBWcFdueGRTcTB2c3fSAfsBQVVfeXFMTWdreVJYamNSMENPdEFkY3VaZ1BKLUt5eGhJWVZiN3Fkb3J2eDZHa08zNG02dFh2YldYRkVBRTQ1S08xU1htTExHY0RBZlVaRm1Vdm5wbFpUa1VqQ25vd2RPbXVTTmpqX0ZndHN2dDVnZTBFWWoxTGN2aWFmWkdTal9PLTBEaEhCZXpjU0dhWFg2MWppRWx2R1dLVHJ1WWFsVFRGbDBub1UtZVRQNEhvTDdpOFJzajV2S1NXR1NIVkQ0dFhCUjRvS3hxLWlPdXRPRUNrajQ3VFRiTUtSb0dWcTg2MTRXWjlYWmlfaDZtNWlZc2xXM3pSdmdtZ2M?oc=5",
-      "words": [
-        "ambani",
-        "anant",
-        "andhra",
-        "announces",
-        "drive",
-        "farming",
-        "investment",
-        "jio",
-        "joins",
-        "krishi",
-        "lakh"
-      ]
-    },
-    {
       "at": "2026-10-04T03:32:04.292268+00:00",
       "handle": "News: India fintech",
       "headline": "Industrial marketplace Pneucons disables UPI over MDR impact",
@@ -7500,6 +7459,43 @@
         "testing",
         "websites"
       ]
+    },
+    {
+      "at": "2026-10-10T11:32:08.169217+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Persistent Systems moves to squeeze out Nagarro shareholders",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMlNpVFlQcS1TNWRDc2FMQjUxNWU2MHJwcnd5Zi1tQW1fZ3cwek10Nlk0RjhpXzVYdDE5cGt2TnRLX2ctTUppR19uMGF4QXpuQkpmQjI2MVdPa1k0ajQ5U1l3d1hibWphWUtmN1BnZ2VaS3o1NFZnSDNTOGp4WWhKWVZiU3cyaFI3V2t5ZGxHZU90RDc4SjE5UmpwRkxfSkx2blQ4RDMzSFRVWTdDNDJ1SEEwR1B1SUZ3LW9yR196V0xFdVdSODNOZHdmUkVTOFFfODh5amVUejNqVEZJ0gHiAUFVX3lxTE54dDRmVTdaWmJyM3NNY2E1LVh3M3haNmp3NHhFSGsyS2ptMHpUTUduRDFEX3NmcklaVDR5bWFVajMyMVNzTzJ2VTZQRUdXS3ktWGFVNmltVWNOVzRVVGR2dTg3X0JfVlkzSHNGX3gxZ01URU9LcVlDTV9za0JVZFVmal9ta09weDBUeG5jcHF4ZHljT3lFcktJOFZVanoxbWttd0JtcHUyUUxZVlRFaEVjTTNkQmFDaDI1Uk1HS3pBbmJFam4xamotdjBILU1xN1JOLTRMMTdSODhSblhtaDJEYnc?oc=5",
+      "words": [
+        "become",
+        "existing",
+        "largest",
+        "nagarro",
+        "out",
+        "persistent",
+        "route",
+        "seventh",
+        "shareholders",
+        "squeeze"
+      ]
+    },
+    {
+      "at": "2026-10-10T11:32:08.169217+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "HCLTech rolls out 20 industry-specific AI solutions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZHY4ckVhNTBPb1dkelppMkFYaC02ZWF0R2ZILWZCVk9LalZheWdjYzNNNndlM2lJZGNRbmhpbDN4QllmUkZLVUREX09ObFNKcVp6Ml90MWNMT0xmX25ENDh3anpSa19GMkhNSFQ4OUNrNW5ESXRLV1pwVXpUSm1iRVp4aW5kLXFzVU5xOUhFeHVwOHFzdkZnMHE1QmplUXJhUjZRQTdFWTFlXy1mdW0wU0RfRmxwVVdtbEZoYy02SE1GTk1qTUJaQ0taSkpJXzVhYkUtUXVSbk13aEZIaGfSAeMBQVVfeXFMTnkyeTJtSXB5MkFjNkt0WldCVDZlTXprODcycHVhZG1QY3dfbTgxQzh3ZU13VGZhQXY5aVpwSWdLYnVqTFRncWdkejlwTnZPWXBtTExuQ2E2NnZxem05VFJYQkNfN1o0X1F3aUcwXzFvZ0pFQk5pdUdReUl4WXNjVUNhd0FsVWJITkU2Y01JQW9Yd0ZOc2cxX1NpX2tveFROSHh1ZUNuU1premlVWTNZdklCaW1BeGdOQ1gtWkRRQUVQUlBBY3BnNVRRNkVMQmozdVEzdHZvWmR2eVN1X3lyQ0lSV2c?oc=5",
+      "words": [
+        "across",
+        "hcltech",
+        "industry",
+        "key",
+        "out",
+        "rolls",
+        "sectors",
+        "solutions",
+        "specific"
+      ]
     }
   ],
   "bureau": {
@@ -8549,7 +8545,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-10T11:22:43.295656+00:00",
+    "last_run": "2026-10-10T11:33:03.894503+00:00",
     "pib_mark": 2321739,
     "seen": [
       "pib:2320137",
@@ -8974,12 +8970,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791082260234",
-    "1791104961300",
-    "1791118963300",
-    "1791120543625",
-    "1791120598243",
-    "1791131692512",
     "1791160200098",
     "1791160200939",
     "1791167538123",
@@ -13427,7 +13417,6 @@
     "1791556397891",
     "1791573660297",
     "1791584555482",
-    "1791587712270",
     "1791599175522",
     "1791603983911",
     "1791608515415",
@@ -13456,11 +13445,9 @@
     "1791543199297",
     "1791557434000",
     "1791559980879",
-    "1791568534032",
     "1791584100871",
     "1791600593162",
     "1791618807497",
-    "1791623674261",
     "1791543840792",
     "1791544045513",
     "1791544045784",
@@ -13474,6 +13461,17 @@
     "1791620054914",
     "1791622346482",
     "1791628682499",
+    "1791544756107",
+    "1791544790450",
+    "1791545270473",
+    "1791566795591",
+    "1791579525032",
+    "1791595195270",
+    "1791600308054",
+    "1791622346985",
+    "1791623674065",
+    "1791627800784",
+    "1791630115797",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14728,10 +14726,7 @@
     "1791532800111",
     "1791538302719",
     "1791543059634",
-    "1791544756107",
-    "1791544790450",
     "1791544947234",
-    "1791545270473",
     "1791545561713",
     "1791546120727",
     "1791546526446",
@@ -14796,11 +14791,11 @@
     "1791564193714",
     "1791564469756",
     "1791564515145",
-    "1791566795591",
     "1791566820273",
     "1791567018697",
     "1791568030083",
     "1791568207103",
+    "1791568534032",
     "1791569092645",
     "1791569276712",
     "1791569668340",
@@ -14820,26 +14815,24 @@
     "1791578005564",
     "1791578460594",
     "1791579480499",
-    "1791579525032",
     "1791581220066",
     "1791581915919",
     "1791582600690",
     "1791584580896",
     "1791584820857",
     "1791586684802",
+    "1791587712270",
     "1791588900683",
     "1791591096442",
     "1791591313367",
     "1791591512034",
     "1791592200710",
-    "1791595195270",
     "1791596100312",
     "1791597010043",
     "1791597612492",
     "1791599202767",
     "1791599296522",
     "1791599718985",
-    "1791600308054",
     "1791600415660",
     "1791600448496",
     "1791600674945",
@@ -14899,11 +14892,10 @@
     "1791620570138",
     "1791621949192",
     "1791622113666",
-    "1791622346985",
     "1791622632081",
     "1791623072013",
     "1791623500238",
-    "1791623674065",
+    "1791623674261",
     "1791623880738",
     "1791624540208",
     "1791624840794",
@@ -14913,16 +14905,20 @@
     "1791627000109",
     "1791627248653",
     "1791627553541",
-    "1791627800784",
+    "1791627800142",
+    "1791628096783",
     "1791628272178",
     "1791628806226",
     "1791629129918",
     "1791629228201",
     "1791629707630",
     "1791629732433",
+    "1791629883497",
     "1791630001663",
-    "1791630115797",
     "1791630460400",
+    "1791630965087",
+    "1791631254325",
+    "1791631270849",
     "2317509",
     "2317615",
     "2317714",
@@ -14975,8 +14971,8 @@
     "2321533",
     "2321723"
   ],
-  "last_digest_hour": "2026-10-10T16",
-  "last_success": "2026-10-10T11:17:11.284283+00:00",
+  "last_digest_hour": "2026-10-10T17",
+  "last_success": "2026-10-10T11:32:08.232522+00:00",
   "national": {
     "alerted": [
       {
@@ -21062,14 +21058,12 @@
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "CERT-In": "2026-10-10T04:38:43.397924+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
-        "IMD": "2026-10-10T11:22:33.636119+00:00",
-        "PMO": "2026-10-10T11:22:33.636119+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-09T20:18:32.833982+00:00"
     },
-    "last_run": "2026-10-10T11:22:36.785017+00:00",
+    "last_run": "2026-10-10T11:33:02.489741+00:00",
     "pib_mark": 2321739,
     "seen": [
       "pib:2311284",
@@ -24086,12 +24080,6 @@
         "count": 76,
         "until": "2026-10-10T12:47:26.118338+00:00"
       },
-      "IMD": {
-        "count": 1
-      },
-      "PMO": {
-        "count": 1
-      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -24121,26 +24109,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "HCLTech rolls out 20 industry-specific AI solutions",
-      "post": {
-        "created_at": "2026-10-10T11:07:40+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1791630460400",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "HCLTech rolls out 20 industry-specific AI solutions across key sectors",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZHY4ckVhNTBPb1dkelppMkFYaC02ZWF0R2ZILWZCVk9LalZheWdjYzNNNndlM2lJZGNRbmhpbDN4QllmUkZLVUREX09ObFNKcVp6Ml90MWNMT0xmX25ENDh3anpSa19GMkhNSFQ4OUNrNW5ESXRLV1pwVXpUSm1iRVp4aW5kLXFzVU5xOUhFeHVwOHFzdkZnMHE1QmplUXJhUjZRQTdFWTFlXy1mdW0wU0RfRmxwVVdtbEZoYy02SE1GTk1qTUJaQ0taSkpJXzVhYkUtUXVSbk13aEZIaGfSAeMBQVVfeXFMTnkyeTJtSXB5MkFjNkt0WldCVDZlTXprODcycHVhZG1QY3dfbTgxQzh3ZU13VGZhQXY5aVpwSWdLYnVqTFRncWdkejlwTnZPWXBtTExuQ2E2NnZxem05VFJYQkNfN1o0X1F3aUcwXzFvZ0pFQk5pdUdReUl4WXNjVUNhd0FsVWJITkU2Y01JQW9Yd0ZOc2cxX1NpX2tveFROSHh1ZUNuU1premlVWTNZdklCaW1BeGdOQ1gtWkRRQUVQUlBBY3BnNVRRNkVMQmozdVEzdHZvWmR2eVN1X3lyQ0lSV2c?oc=5"
-      },
-      "queued_at": "2026-10-10T11:17:11.199848+00:00",
-      "score": 7.0,
-      "why": "This is a major product and solution launch by a top-tier Indian IT services firm."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25227,9 +25196,9 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791628272178,
+    "news: big tech platforms": 1791630965087,
     "news: consumer internet india": 1791628806226,
-    "news: global ai": 1791629732433,
+    "news: global ai": 1791631270849,
     "news: global chips": 1791630115797,
     "news: global it services": 1791584987354,
     "news: india ai deeptech": 1791619903771,
@@ -25239,7 +25208,7 @@
     "news: india tech policy": 1791629129918,
     "news: india telecom": 1791620054914,
     "news: indian it majors": 1791630460400,
-    "news: indian it midcaps": 1791558667214,
+    "news: indian it midcaps": 1791631254325,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791622113666,
     "nvidia": 1791493595788,
@@ -25290,7 +25259,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-10T11:17:11.612967+00:00",
+    "last_server_run": "2026-10-10T11:32:08.487336+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-10T10:02:51.938986+00:00",
