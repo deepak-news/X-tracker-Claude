@@ -1,80 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-03T11:32:14.815243+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta builds one of the world's largest undersea cable networks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2JtUmxFS2Z4Zm5uaHVTU1NYc1FXRlVaSUNwb1dGdFVUZEpZTWpZTWFZUUZ0MmRkOENjODJoMnVmcEZuMXl3X1k4c1ZEM1haZ3FOUTdPYl9MLTlSMnNhSVlCZ2dpQWEyZFhWU1FYQUdJdW1zTEFtWFU1aDhmQXMweGZReFU3ODBXWjNnbmZtWVRCaExwT2ZscQ?oc=5",
-      "words": [
-        "biggest",
-        "building",
-        "cable",
-        "meta",
-        "networks",
-        "one",
-        "undersea",
-        "world"
-      ]
-    },
-    {
-      "at": "2026-10-03T12:32:04.508206+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio targets valuation above \u20b913 lakh crore ahead of IPO",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEJqUmpCUmY0d0VzOVk0Y1N4dVJHdTBIRnFkX3c5Z2pZUDZuV19CY1JqYlF2V3BuX2F1Z3FBRWRUcE02d0loczRNRE9SNEQxWVR2VE1vWm1kMWRUWG1kVHVnQkpTZWpzaWFSNzUyWDZ2eVNGYTE0NFhOWFVNRHFhNG1YYWRQVjE3QU50ZUppZkdiN1NPbUJfQWNRVHpWTFZwZEZzakRyaGUxLTFrY3ZVVkFoY9IBwAFBVV95cUxQT0plU2VYaEI4eGQxTXJXUmw1NWxUVVhLRUJYSy1vTXYxT0sybjlLclRrcG5sYVVTdEJPWGNXSkVFVUJQRTZsSWVXZGRnd05WM3FLT0Nwc1IwTkdqQ1pRTUpVUkRwNzJvQ1JMT0ZGbG5TZDB1WktDdVVZX3htbDIybmswbkJpb1U5T0puNU1iLU82NTAzMTVHOU5zYV9BZk9IbllVTEFYaWVvLWZMNkMydEFZX3NXNm1aZGZwdHNXME8?oc=5",
-      "words": [
-        "above",
-        "base",
-        "despite",
-        "dull",
-        "jio",
-        "lakh",
-        "market",
-        "sees",
-        "valuation"
-      ]
-    },
-    {
-      "at": "2026-10-03T12:32:04.508206+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Apple tightens macOS data controls against AI agent risks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ2ZMNnZrZDdWcFp6S2xKS0UxcVJ4NlRGVFRQZTI2VFRIQ05BSW5kcThfbzJJOGdhOG5zQlR2T3paNTRHMmd3SzRGdTU5c0hmN1M5TmRqbmFqVDdzSUF6OUZSd1p0bjhyTHdOYTFtOGJFQktnVWE4OHpBZVRSaWE5VUJvQWJobmVGNzF0eDA4aXlGT3pxMnpMQVU4T0NMUEp3QWp4LTA2XzE4eG9LcFpEallFTzhkaWw5ZFFsTl9fdGFoVlJvYjB5LVl2ZFF6VUtOUmcyNngybjViVzJSbjZRQlp30gHiAUFVX3lxTE9DZkw2dmtkN1ZwWnpLbEpLRTFxUng2VEZUVFBlMjZUVEhDTkFJbmRxOF9vMkk4Z2E4bnNCVHZPelo1NEcyZ3dLNEZ1NTlzSGY3UzlOZGpuYWpUN3NJQXo5RlJ3WnRuOHJMd05hMW04YkVCS2dVYTg4ekFlVFJpYTlVQm9BYmhuZUY3MXR4MDhpeUZPenEyekxBVThPQ0xQSndBangtMDZfMTh4b0twWkRqWUVPOGRpbDlkUWxOX190YWhWUm9iMHktWXZkUXpVS05SZzI2eDJuNWJXMlJuNlFCWnc?oc=5",
-      "words": [
-        "against",
-        "agents",
-        "apple",
-        "controls",
-        "data",
-        "guard",
-        "mac",
-        "tighten"
-      ]
-    },
-    {
-      "at": "2026-10-03T12:32:04.508206+00:00",
-      "handle": "News: India edtech gaming",
-      "headline": "Sanjit Bangar flags GST demand cuts for online gaming",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVGFLZy1MYXNyMkxuNjFqUXd1VlF0bEo3TDhuV2pDWjlDLWYzQi1keVM2V3RpQy1oR09oRjMxdElMOWZoODNsWFUwc1ZLNmppZVlwRG8wX1dScXB4UHpuVENrMmItek1xbF8xeGhNdVFhZ05OaGFzaTNBdzJsZ1FINWtPVjg0b0ZZZ0ZLakVxLXFuWldwcWMzYjkyT0IyRERNZklTYi04MjNUR1JFT3VvQnQ2dndtM1plSjQyRFhkS0UwT3hrTmNlMktwcTN4ZmxQckVSWWhraVJJX1dndzFMX2syaG96b0hHWWJWbzVjbFFEMzh40gH6AUFVX3lxTE1fMkloLWluWktISWZiRUNTbVJMMGs5Tm92N2pKUXVFWlNycGZZY2t2TEUxQndkUko1TFRmM000TGJCeDRscmRTbS1sTEoxamxTdHVFdk5xcFhnS2RtTFFwV1FyRzVTLU14Tm5ud2R6UG1xczBFQXo4RlozNUx3UEJDYnZZQVZrdUZsanVCWEpXT3JvXzlBZnJGTWtjVVpfYmI5cXRwYnMtbF8zamFKNi14MDRWdzh5OTdBYXZVblBEQXd6T3RES292eFgtMjAwUlZDOGE5cm1FRUxRc2dKQUR3eEVYcXdWTVhEZXcxTm9PUGJNSWVsNWtpNWc?oc=5",
-      "words": [
-        "bangar",
-        "big",
-        "cuts",
-        "demand",
-        "director",
-        "flags",
-        "gaming",
-        "gst",
-        "online",
-        "penalties",
-        "relief",
-        "sanjit",
-        "sharp"
-      ]
-    },
-    {
       "at": "2026-10-03T12:32:04.508206+00:00",
       "handle": "News: India semiconductors",
       "headline": "Dassault Syst\u00e8mes targets India semiconductor workforce development",
@@ -7499,6 +7425,80 @@
         "spark",
         "white"
       ]
+    },
+    {
+      "at": "2026-10-10T02:32:01.036169+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic AI agent mistakenly sent false murder tip to police",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa3YyQzYzWnYtUjg5Ry0xcnpKbGJ0eU5BX3hHaWk2X2RGVGlXVzFLTkJwNzd1UW1JbllUQjMwUjZuSzV6cFZ6VFBQZG1ZUWNONzM0VzR4eG9lYTBTcG9Tb3lxdlNwQUhNUU1RbXZYbVU5TktUNWZMNEZrRHU3MUR6MDVSajVhTVhDcjhuOXo4S1p5RUdYalpLQUJmNFdoTFJkMHJ5aDRfM18xeXN2UWtINHh0cWpVcmlkZVE2MlVva1A0WWZENVdEaFF0VkNkOWpRWkZORlpR0gHWAUFVX3lxTE5rdjJDNjNadi1SODlHLTFyekpsYnR5TkFfeEdpaTZfZEZUaVdXMUtOQnA3N3VRbUluWVRCMzBSNm5LNXpwVnpUUFBkbVlRY043MzRXNHh4b2VhMFNwb1NveXF2U3BBSE1RTVFtdlhtVTlOS1Q1Zkw0RmtEdTcxRHowNVJqNWFNWENyOG45ejhLWnlFR1hqWktBQmY0V2hMUmQwcnloNF8zXzF5c3ZRa0g0eHRxalVyaWRlUTYyVW9rUDRZZkQ1V0RoUXRWQ2Q5alFaRk5GWlE?oc=5",
+      "words": [
+        "agent",
+        "anthropic",
+        "fake",
+        "glitch",
+        "murder",
+        "police",
+        "sent",
+        "testing",
+        "tip"
+      ]
+    },
+    {
+      "at": "2026-10-10T02:32:01.036169+00:00",
+      "handle": "News: India telecom",
+      "headline": "IMC 2026: Apply same rules on satcom players using mobile spectrum, says Airtel chief",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNYWxaMWw1U05lUHhfTVNvYTNwWEV3Q2NWOU83czZQR0I4XzN2Z0tFREdVaVJMbnFzU2t4V0VzTU5SS2JGUTd5cG5uQ2lyUDJ0QzdEb21vQkk2cGN2STB3THZPRVJHMXN1WnByazMyNDJmRTVZN2luYlNMVFdSVkF5Z25MUm54UXJ0Qy1OMlNhcEkySHBGRTFlNGhvLXpsNXZJUjdZWlVsQmdSNzBELVpCbW85bGdpXzBFN2k1OE82R1RFakVSZGtxX3NGcnZDVlR1RllIcjZQR2VBMElTbUp6ZDVGWHRzbV9qWENXQTNBbW5uYXdmQS1JeHpnMERIWEJVbGRCM1c3MWtqNnZTQjJaVGRuT05rTzY1WElVTmV5ONIBpAJBVV95cUxNLXRlWVVaa0lYR3BlWGROUkJoLTd4N1FUQTBEQUVCOTlPd0ZEM1dmX09OaFg1YndhLW5NbkVxbHREUDMtM0JqQk5icjdFc2N1VnlfM2RMaUlTdzhYQXd0NWw5NFRSa3pXandIdjNPbVRUY3c3OVNpTXhPMUY0TEVvVlRYUWZ2TjFpVFNNSHliUjI2bUt4c3VtUEJnOXZGWWFnOHJ6a25hM1NuMXVic2xGeG5PdmlMbWlieVRWVEFyR1B5Q1JleEpJWnhCT19YTjhDQkRZM0FrMjVwelg5UDZoUmVrUlAyazdmeC1ER2VteFp2MDB2cVAwVHNxNWdUSllLMnppRjYtX1lybk5uS19jdUlOT1hMQzkwMmRvSlNXRXhTOHFl?oc=5",
+      "words": [
+        "2026",
+        "apply",
+        "being",
+        "imc",
+        "intending",
+        "mobile",
+        "players",
+        "rules",
+        "same",
+        "satcom",
+        "spectrum",
+        "use",
+        "used"
+      ]
+    },
+    {
+      "at": "2026-10-10T02:32:01.036169+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic AI Agents Attempt Visa Form Submissions on State Department Site",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
+      "words": [
+        "agents",
+        "anthropic",
+        "dept",
+        "fill",
+        "forms",
+        "out",
+        "state",
+        "tried",
+        "visa",
+        "website"
+      ]
+    },
+    {
+      "at": "2026-10-10T02:32:01.036169+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic cites new AI misbehavior incidents on government sites",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2RTWTd6RjNMSVZQb1hpRGVUY242T1JoTVdjcy1CQUItM0VOWnBIaC0xUjRhaTBSVW1nYXNnNnRFdWplQjU1LXQzcDR5dWt0cXJvYm1yOHNUcnF6U294Z3RuZHVxM1VoenlOazIxZ1FMSkR4NlBObVJLaklhTmlEeG1Cb19kcUZFdGVhWVNXU3gzT3ZWUWFzT1o3VGZTdXJQOTBNQXNUMkREcDg5czhjSg?oc=5",
+      "words": [
+        "anthropic",
+        "cites",
+        "government",
+        "misbehavior",
+        "sites",
+        "some"
+      ]
     }
   ],
   "bureau": {
@@ -8513,7 +8513,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-10T02:18:31.577915+00:00",
+    "last_run": "2026-10-10T02:33:43.514438+00:00",
     "pib_mark": 2321603,
     "seen": [
       "pib:2320137",
@@ -8905,12 +8905,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791093102567",
-    "1791104177716",
-    "1791106357432",
-    "1791043658212",
-    "1791104527036",
-    "1791046427212",
     "1791077040472",
     "1791086257715",
     "1791105935967",
@@ -13251,14 +13245,11 @@
     "1791585066857",
     "1791511946131",
     "1791540353032",
-    "1791574710363",
     "1791580560927",
     "1791580655148",
-    "1790859163942",
     "1791506640388",
     "1791518533884",
     "1791541209032",
-    "1791547350378",
     "1791549125575",
     "1791562762614",
     "1791568791304",
@@ -13322,8 +13313,6 @@
     "1791511920374",
     "1791511920895",
     "1791517569699",
-    "1791526882006",
-    "1791527429415",
     "1791527872866",
     "1791539989099",
     "1791543059634",
@@ -13335,6 +13324,20 @@
     "1791586350497",
     "1791587925857",
     "1791593812011",
+    "1791512277396",
+    "1791512294675",
+    "1791512429306",
+    "1791512847922",
+    "1791521578484",
+    "1791526320562",
+    "1791527317683",
+    "1791531884124",
+    "1791540578032",
+    "1791577295349",
+    "1791587712270",
+    "1791591304497",
+    "1791593751104",
+    "1791596166939",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14422,6 +14425,7 @@
     "1790848800118",
     "1790852880732",
     "1790853393098",
+    "1790859163942",
     "1790859441304",
     "1790859649759",
     "1790859654879",
@@ -14584,10 +14588,6 @@
     "1791502550179",
     "1791503369319",
     "1791504000385",
-    "1791512277396",
-    "1791512294675",
-    "1791512429306",
-    "1791512847922",
     "1791513120839",
     "1791513442971",
     "1791514075494",
@@ -14618,7 +14618,6 @@
     "1791520500426",
     "1791520620865",
     "1791521320705",
-    "1791521578484",
     "1791521711862",
     "1791522000220",
     "1791522120091",
@@ -14636,15 +14635,15 @@
     "1791526200276",
     "1791526200332",
     "1791526319168",
-    "1791526320562",
     "1791526647059",
+    "1791526882006",
     "1791527041730",
     "1791527097129",
     "1791527123662",
     "1791527193735",
-    "1791527317683",
     "1791527322692",
     "1791527400920",
+    "1791527429415",
     "1791527580697",
     "1791528608202",
     "1791529200447",
@@ -14663,7 +14662,6 @@
     "1791530924665",
     "1791531111880",
     "1791531425058",
-    "1791531884124",
     "1791532203911",
     "1791532607621",
     "1791532800111",
@@ -14698,7 +14696,6 @@
     "1791540131109",
     "1791540214400",
     "1791540377264",
-    "1791540578032",
     "1791540774347",
     "1791541143414",
     "1791541203912",
@@ -14727,8 +14724,10 @@
     "1791546608274",
     "1791547301362",
     "1791547332575",
+    "1791547350378",
     "1791547369430",
     "1791548587747",
+    "1791548779032",
     "1791548970347",
     "1791549341966",
     "1791549398890",
@@ -14814,11 +14813,11 @@
     "1791574034449",
     "1791574040758",
     "1791574214842",
+    "1791574710363",
     "1791574740205",
     "1791575496359",
     "1791576000307",
     "1791577295156",
-    "1791577295349",
     "1791577320407",
     "1791577565678",
     "1791577680665",
@@ -14839,22 +14838,23 @@
     "1791584820857",
     "1791586684802",
     "1791586892099",
-    "1791587712270",
     "1791589860927",
     "1791591096442",
-    "1791591304497",
     "1791591313367",
     "1791591512034",
     "1791591660629",
     "1791592200824",
     "1791593141672",
     "1791593496970",
-    "1791593751104",
+    "1791595195270",
     "1791595800011",
-    "1791596166939",
     "1791596855148",
+    "1791596944497",
     "1791597010043",
     "1791597798046",
+    "1791598720346",
+    "1791598834023",
+    "1791599151104",
     "2317509",
     "2317615",
     "2317714",
@@ -14906,8 +14906,8 @@
     "2321512",
     "2321533"
   ],
-  "last_digest_hour": "2026-10-10T07",
-  "last_success": "2026-10-10T02:16:51.208111+00:00",
+  "last_digest_hour": "2026-10-10T08",
+  "last_success": "2026-10-10T02:32:01.085545+00:00",
   "national": {
     "alerted": [
       {
@@ -20921,7 +20921,7 @@
       },
       "warned": "2026-10-09T20:18:32.833982+00:00"
     },
-    "last_run": "2026-10-10T02:18:30.260778+00:00",
+    "last_run": "2026-10-10T02:33:42.566446+00:00",
     "pib_mark": 2321603,
     "seen": [
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-chief-minister-sri-a-revanth-reddy-participates-in-cpim-senior-leader-comrade-sarampally-malla-reddy-memorial-meeting-at-ravindra-bharati-hyderabad/",
@@ -23967,62 +23967,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic AI agent mistakenly sent false murder tip to police",
-      "post": {
-        "created_at": "2026-10-10T00:51:36+00:00",
-        "handle": "News: Global AI",
-        "id": "1791593496970",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "South China Morning Post",
-        "reposts": 0,
-        "text": "Anthropic AI agent sent fake murder tip to US police in testing glitch",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa3YyQzYzWnYtUjg5Ry0xcnpKbGJ0eU5BX3hHaWk2X2RGVGlXVzFLTkJwNzd1UW1JbllUQjMwUjZuSzV6cFZ6VFBQZG1ZUWNONzM0VzR4eG9lYTBTcG9Tb3lxdlNwQUhNUU1RbXZYbVU5TktUNWZMNEZrRHU3MUR6MDVSajVhTVhDcjhuOXo4S1p5RUdYalpLQUJmNFdoTFJkMHJ5aDRfM18xeXN2UWtINHh0cWpVcmlkZVE2MlVva1A0WWZENVdEaFF0VkNkOWpRWkZORlpR0gHWAUFVX3lxTE5rdjJDNjNadi1SODlHLTFyekpsYnR5TkFfeEdpaTZfZEZUaVdXMUtOQnA3N3VRbUluWVRCMzBSNm5LNXpwVnpUUFBkbVlRY043MzRXNHh4b2VhMFNwb1NveXF2U3BBSE1RTVFtdlhtVTlOS1Q1Zkw0RmtEdTcxRHowNVJqNWFNWENyOG45ejhLWnlFR1hqWktBQmY0V2hMUmQwcnloNF8zXzF5c3ZRa0g0eHRxalVyaWRlUTYyVW9rUDRZZkQ1V0RoUXRWQ2Q5alFaRk5GWlE?oc=5"
-      },
-      "queued_at": "2026-10-10T01:47:11.405509+00:00",
-      "score": 8.0,
-      "why": "Major AI safety incident involving a leading AI lab is a critical wire story."
-    },
-    {
-      "headline": "Anthropic cites new AI misbehavior incidents on government sites",
-      "post": {
-        "created_at": "2026-10-10T00:21:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1791591660629",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bloomberg",
-        "reposts": 0,
-        "text": "Anthropic Cites New AI Misbehavior, Some on Government Sites",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2RTWTd6RjNMSVZQb1hpRGVUY242T1JoTVdjcy1CQUItM0VOWnBIaC0xUjRhaTBSVW1nYXNnNnRFdWplQjU1LXQzcDR5dWt0cXJvYm1yOHNUcnF6U294Z3RuZHVxM1VoenlOazIxZ1FMSkR4NlBObVJLaklhTmlEeG1Cb19kcUZFdGVhWVNXU3gzT3ZWUWFzT1o3VGZTdXJQOTBNQXNUMkREcDg5czhjSg?oc=5"
-      },
-      "queued_at": "2026-10-10T01:47:11.405509+00:00",
-      "score": 7.0,
-      "why": "Major AI company security disclosure qualifies as a high-priority wire story."
-    },
-    {
-      "headline": "IMC 2026: Apply same rules on satcom players using mobile spectrum, says Airtel chief",
-      "post": {
-        "created_at": "2026-10-10T01:50:10+00:00",
-        "handle": "News: India telecom",
-        "id": "1791597010043",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ET Telecom",
-        "reposts": 0,
-        "text": "IMC 2026: Apply same rules on satcom players intending to use spectrum being used by mobile players, says Ai..",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNYWxaMWw1U05lUHhfTVNvYTNwWEV3Q2NWOU83czZQR0I4XzN2Z0tFREdVaVJMbnFzU2t4V0VzTU5SS2JGUTd5cG5uQ2lyUDJ0QzdEb21vQkk2cGN2STB3THZPRVJHMXN1WnByazMyNDJmRTVZN2luYlNMVFdSVkF5Z25MUm54UXJ0Qy1OMlNhcEkySHBGRTFlNGhvLXpsNXZJUjdZWlVsQmdSNzBELVpCbW85bGdpXzBFN2k1OE82R1RFakVSZGtxX3NGcnZDVlR1RllIcjZQR2VBMElTbUp6ZDVGWHRzbV9qWENXQTNBbW5uYXdmQS1JeHpnMERIWEJVbGRCM1c3MWtqNnZTQjJaVGRuT05rTzY1WElVTmV5ONIBpAJBVV95cUxNLXRlWVVaa0lYR3BlWGROUkJoLTd4N1FUQTBEQUVCOTlPd0ZEM1dmX09OaFg1YndhLW5NbkVxbHREUDMtM0JqQk5icjdFc2N1VnlfM2RMaUlTdzhYQXd0NWw5NFRSa3pXandIdjNPbVRUY3c3OVNpTXhPMUY0TEVvVlRYUWZ2TjFpVFNNSHliUjI2bUt4c3VtUEJnOXZGWWFnOHJ6a25hM1NuMXVic2xGeG5PdmlMbWlieVRWVEFyR1B5Q1JleEpJWnhCT19YTjhDQkRZM0FrMjVwelg5UDZoUmVrUlAyazdmeC1ER2VteFp2MDB2cVAwVHNxNWdUSllLMnppRjYtX1lybk5uS19jdUlOT1hMQzkwMmRvSlNXRXhTOHFl?oc=5"
-      },
-      "queued_at": "2026-10-10T02:16:51.124077+00:00",
-      "score": 8.0,
-      "why": "Major policy statement from a telecom executive on satcom rules at a key industry event."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25109,9 +25054,9 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791597798046,
+    "news: big tech platforms": 1791598720346,
     "news: consumer internet india": 1791570765002,
-    "news: global ai": 1791596855148,
+    "news: global ai": 1791599151104,
     "news: global chips": 1791587925857,
     "news: global it services": 1791579480499,
     "news: india ai deeptech": 1791596166939,
@@ -25171,7 +25116,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-10T02:16:51.657054+00:00",
+    "last_server_run": "2026-10-10T02:32:01.308048+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-10T01:17:46.255016+00:00",
