@@ -8595,8 +8595,8 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-10T17:33:50.838020+00:00",
-    "pib_mark": 2321828,
+    "last_run": "2026-10-10T17:49:33.467611+00:00",
+    "pib_mark": 2321854,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -9038,7 +9038,9 @@
       "pib:2321807",
       "pib:2321808",
       "pib:2321818",
-      "pib:2321828"
+      "pib:2321828",
+      "pib:2321853",
+      "pib:2321854"
     ],
     "source_failures": {},
     "sources": [
@@ -9049,11 +9051,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791180646674",
-    "1791184400577",
-    "1791107100701",
-    "1791166573385",
-    "1791187081964",
     "1791102120646",
     "1791166948715",
     "1791168841185",
@@ -13388,7 +13385,6 @@
     "1791579525032",
     "1791622346985",
     "1791623674065",
-    "1791627800784",
     "1791630115797",
     "1791545561713",
     "1791546120727",
@@ -13549,7 +13545,6 @@
     "1791639480284",
     "1791564469756",
     "1791564515145",
-    "1791597612492",
     "1791600415660",
     "1791610042842",
     "1791634058707",
@@ -13579,8 +13574,15 @@
     "1790949717882",
     "1791151314860",
     "1791566820273",
-    "1791605160533",
     "1791644895708",
+    "1791567145749",
+    "1791598504995",
+    "1791606586314",
+    "1791616197129",
+    "1791627000753",
+    "1791627800142",
+    "1791636120285",
+    "1791645420871",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14843,7 +14845,6 @@
     "1791551784486",
     "1791552963003",
     "1791555502485",
-    "1791567145749",
     "1791568030083",
     "1791568207103",
     "1791569092645",
@@ -14874,7 +14875,7 @@
     "1791592200710",
     "1791596100312",
     "1791597010043",
-    "1791598504995",
+    "1791597612492",
     "1791599202767",
     "1791599296522",
     "1791600448496",
@@ -14885,9 +14886,9 @@
     "1791603480471",
     "1791603534169",
     "1791604790799",
+    "1791605160533",
     "1791605617962",
     "1791605979983",
-    "1791606586314",
     "1791607380201",
     "1791608793378",
     "1791609134501",
@@ -14905,7 +14906,6 @@
     "1791615144577",
     "1791616050344",
     "1791616080597",
-    "1791616197129",
     "1791617499184",
     "1791617550678",
     "1791617727101",
@@ -14927,10 +14927,9 @@
     "1791625556906",
     "1791626038871",
     "1791626783286",
-    "1791627000753",
     "1791627248653",
     "1791627553541",
-    "1791627800142",
+    "1791627800784",
     "1791628474547",
     "1791628806862",
     "1791628905109",
@@ -14964,13 +14963,13 @@
     "1791635400573",
     "1791635969741",
     "1791635989165",
-    "1791636120285",
     "1791636336736",
     "1791637070503",
     "1791637238701",
     "1791637622993",
     "1791638220622",
     "1791639480590",
+    "1791639921210",
     "1791640140834",
     "1791641140544",
     "1791641236425",
@@ -14984,7 +14983,6 @@
     "1791644593043",
     "1791644895984",
     "1791645157095",
-    "1791645420871",
     "1791645459943",
     "1791646200219",
     "1791646200738",
@@ -14997,6 +14995,9 @@
     "1791650255494",
     "1791650817598",
     "1791651503351",
+    "1791653128359",
+    "1791653346821",
+    "1791653487921",
     "2317509",
     "2317615",
     "2317714",
@@ -15048,10 +15049,11 @@
     "2321512",
     "2321533",
     "2321723",
-    "2321784"
+    "2321784",
+    "2321853"
   ],
   "last_digest_hour": "2026-10-10T23",
-  "last_success": "2026-10-10T17:32:06.476797+00:00",
+  "last_success": "2026-10-10T17:47:04.880112+00:00",
   "national": {
     "alerted": [
       {
@@ -21160,11 +21162,9 @@
       },
       "warned": "2026-10-09T20:18:32.833982+00:00"
     },
-    "last_run": "2026-10-10T17:33:49.839148+00:00",
-    "pib_mark": 2321828,
+    "last_run": "2026-10-10T17:49:31.068945+00:00",
+    "pib_mark": 2321854,
     "seen": [
-      "pib:2311312",
-      "pib:2311309",
       "pib:2311313",
       "pib:2311314",
       "pib:2311315",
@@ -24162,7 +24162,9 @@
       "pib:2321807",
       "pib:2321808",
       "pib:2321818",
-      "pib:2321828"
+      "pib:2321828",
+      "pib:2321853",
+      "pib:2321854"
     ],
     "source_failures": {
       "CBI": {
@@ -24206,7 +24208,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Nvidia corporate communications chief Anna Soellner quits after four months",
+      "post": {
+        "created_at": "2026-10-10T17:25:28+00:00",
+        "handle": "News: Global chips",
+        "id": "1791653128359",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Mint",
+        "reposts": 0,
+        "text": "Nvidia\u2019s corporate communications chief Anna Soellner quits after 4 months: Who is she?",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMFk4RE5DcE5QcFVvWEJGdVdqNVBVNy1VR0Y1d2ZJMjlvNVVTZHZIeHpiMWxjRkY0SlZDM1ZrWnk5YWUxQ0FMSF84MXNHZ0ktZkhXYWRnVGZlVjFJVGdKWVJKN1V2MlJQUmQ5SWhDUjRSMk5BeGRYOEVaYWNPdGJNVnRrTXA1bkpNQU1TWld2c2dnRVgxMEpZLURKcXRwTTN3c0NYX1NPZU4wR1Z5X3NXbTJVcTlYSVhxbEl3SlF4d21aMF8wT2FZSl9mUVE5NHpYajZBSzJxMThrazdo0gHiAUFVX3lxTE1wTGFwUU5iNDJSMDhtMmVFdW9rVEdoZ05rU19sLVd1eHVvdEhiNXBkTU1xX0JTQzhOWHJhTGFLcTY0UUZtOGdJc0ZGczFIdjlfX21qa2ZuT1E1dTh1Tjc0eURrV0tfS2d5OU9Wc0cxNHJZWFVEYVZTbkppUlAyVk5SYXVMNXA0aGIwYUxFNFlBLXpndnZzb01QN0kyYTVYYnpWSW9xWUZGQmNSZjZ0eVpUSU9jbWsyd1FHYTY1N3FnVXBmMkU0ZDVMUFlEdG80VEhFWDZ1enR6c21QTFBWeDlSdmc?oc=5"
+      },
+      "queued_at": "2026-10-10T17:47:04.829170+00:00",
+      "score": 7.0,
+      "why": "This is a high-profile executive departure at a major global chip company, directly relevant to the tech beat."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25293,10 +25314,10 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791651503351,
+    "news: big tech platforms": 1791653346821,
     "news: consumer internet india": 1791635078575,
-    "news: global ai": 1791650817598,
-    "news: global chips": 1791648808797,
+    "news: global ai": 1791653487921,
+    "news: global chips": 1791653128359,
     "news: global it services": 1791645420871,
     "news: india ai deeptech": 1791648759073,
     "news: india edtech gaming": 1791643631330,
@@ -25313,7 +25334,7 @@
     "openai": 1791529200692,
     "oracle": 1791151314860,
     "phonepe": 1791444709443,
-    "pib communications": 2321784,
+    "pib communications": 2321853,
     "pib meity": 2321282,
     "pib science and technology": 2321723,
     "razorpay": 1791543059634,
@@ -25355,7 +25376,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-10T17:32:06.775412+00:00",
+    "last_server_run": "2026-10-10T17:47:05.119619+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-10T16:32:32.858313+00:00",
