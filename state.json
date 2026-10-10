@@ -8586,7 +8586,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-10T21:33:45.708252+00:00",
+    "last_run": "2026-10-10T21:49:11.923116+00:00",
     "pib_mark": 2321854,
     "seen": [
       "pib:2320137",
@@ -9042,10 +9042,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791183182344",
-    "1791190877888",
-    "1791191622401",
-    "1791110236705",
     "1791112474262",
     "1791122401975",
     "1791164231973",
@@ -13568,19 +13564,23 @@
     "1791637238701",
     "1791648835166",
     "1791650096053",
-    "1791662437284",
     "1791598667270",
-    "1791618554206",
     "1791631254935",
     "1791655069774",
     "1791658412639",
     "1791583519485",
-    "1791588900845",
     "1791592088000",
     "1791607132197",
     "1791628474547",
     "1791648704421",
     "1791661800127",
+    "1791588900683",
+    "1791603240927",
+    "1791606586314",
+    "1791615019032",
+    "1791639921210",
+    "1791662516797",
+    "1791664274121",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14843,7 +14843,7 @@
     "1791555502485",
     "1791570600561",
     "1791584987354",
-    "1791588900683",
+    "1791588900845",
     "1791591096442",
     "1791591313367",
     "1791591512034",
@@ -14856,15 +14856,14 @@
     "1791600781924",
     "1791601581015",
     "1791601806393",
-    "1791603240927",
     "1791603480825",
     "1791603534169",
+    "1791603644927",
     "1791603780481",
     "1791604790799",
     "1791605617505",
     "1791605617962",
     "1791605979983",
-    "1791606586314",
     "1791607132407",
     "1791607177485",
     "1791607380201",
@@ -14872,13 +14871,13 @@
     "1791609134501",
     "1791609346083",
     "1791609946546",
+    "1791611680032",
     "1791613215171",
     "1791613215213",
     "1791613369104",
     "1791613563486",
     "1791614145876",
     "1791614697160",
-    "1791615019032",
     "1791615144577",
     "1791615862327",
     "1791616080597",
@@ -14889,6 +14888,7 @@
     "1791618183767",
     "1791618190794",
     "1791618305238",
+    "1791618554206",
     "1791619903771",
     "1791621000414",
     "1791621949192",
@@ -14939,7 +14939,6 @@
     "1791637622993",
     "1791638220622",
     "1791639480590",
-    "1791639921210",
     "1791640140834",
     "1791641140544",
     "1791641236425",
@@ -14985,10 +14984,11 @@
     "1791658980067",
     "1791660600612",
     "1791660824172",
-    "1791662516797",
+    "1791662437284",
     "1791663750046",
-    "1791664274121",
+    "1791664274810",
     "1791665968428",
+    "1791668490976",
     "2317509",
     "2317615",
     "2317714",
@@ -15044,7 +15044,7 @@
     "2321853"
   ],
   "last_digest_hour": "2026-10-11T03",
-  "last_success": "2026-10-10T21:32:04.822623+00:00",
+  "last_success": "2026-10-10T21:46:52.608298+00:00",
   "national": {
     "alerted": [
       {
@@ -21153,7 +21153,7 @@
       },
       "warned": "2026-10-10T20:19:58.349393+00:00"
     },
-    "last_run": "2026-10-10T21:33:44.687126+00:00",
+    "last_run": "2026-10-10T21:49:11.134705+00:00",
     "pib_mark": 2321854,
     "seen": [
       "pib:2311313",
@@ -24199,7 +24199,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "OpenAI and Anthropic brace for potential AI crisis in coming months",
+      "post": {
+        "created_at": "2026-10-10T20:31:14+00:00",
+        "handle": "News: Global AI",
+        "id": "1791664274810",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "OpenAI and Anthropic fear a major AI crisis in the next 6 to 12 months. Here\u2019s what they\u2019re preparing for",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR2hZNjB0T1pDTHVJSEJGSmw2MXFQdXRjOTFoRWJfUER6b0tYWlFVWUV5VVlJNm9CcVB0OFFtYUtacDJIRkR6eWpGeEhwOFYtLXVWcDVyaHExUk9JdzdyUEdZbnJKRThvUDZad1RmY3VUQk5NU1huS2M4WWtDRkJSS3pHUXJmWE9VX0JMUDJEVUNIQ0RXQVVaZllPaU14dF9VSHFOZ3k2VEt0OE5VTnZuU3J1TkRpOFZKR2RwRS01eFExdEdEUHVLeUpSMjNpaHJySXo3eV9aRDA4MTBwelo4ZVkxeHhXTG1ZWExyWGZSNjNSZm9BNDN2bGYtdVF4eHFtLVBEUTJGUGZmYnVK0gGGAkFVX3lxTFBUWUJCRFN4amZ4cllDa2s3dU1WQW5LcmU2Ri1ZTjAyWDFJMGNjd3lmZFFOUnQ2bUJIaWRBa2w3Ukd1Ty1wQTVJODg4UHJUSWJFWThnbFlpLUZEczBSamFoRWJ4dktYeE54Z2gzQ3k0Y1lpVXZRRTRqUnpUdTR3dmFVMDJ6bEFob1E1MElZeGdoMWpBOG1kVlNGenFmV0ExcnlQUXgtMEhETDYtbzAtblFHcWRiY0gwMGxDcVRqVUR4QWFvbWtMUk9JVVdrZWxEQjlOUVhfWHdtS25EemVONGs0ZFV2LW1fWjlCcV9LWE0yZjhBSVQzRlJjVXRZa205M3B2Qnc1a3c?oc=5"
+      },
+      "queued_at": "2026-10-10T21:46:52.560181+00:00",
+      "score": 7.0,
+      "why": "Major safety disclosures by leading AI labs constitute a key industry development."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25286,7 +25305,7 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791665968428,
+    "news: big tech platforms": 1791668490976,
     "news: consumer internet india": 1791655420167,
     "news: global ai": 1791665968428,
     "news: global chips": 1791663750046,
@@ -25348,7 +25367,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-10T21:32:05.173464+00:00",
+    "last_server_run": "2026-10-10T21:46:52.835072+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-10T20:47:38.946829+00:00",
