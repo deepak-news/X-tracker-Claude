@@ -1,24 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-03T12:32:04.508206+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Dassault Syst\u00e8mes targets India semiconductor workforce development",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUm5oTksyelZkVzl3eUVtSDlLODlTdk4zdzh5NE5VZzVRejgtb3R6RTBuS25CbmUzYll1b05zM3djYTFYMi1nM2ZaZ1M5d2pFM19QZTFUWGRQWkhrUGsySVlRZEpJaHJIQUI0dmN1VDhrcHRwX3A0Q3FWWWhEN2tBOEVjUGNaNWI2VU5RNVhfVVlFWlJsY2pCdXQtYmNzSmlidFd1Z2pndVlSbUwyUzZjU09lWnQyNDIyUXJ3b25JaHNYM3pTTnhBUXAyb1dndGVwRVBoNVFCNW1LOTFQalZodkZUT1ZGTFRiUWVtM1dEMXUtcElu0gH4AUFVX3lxTE5RTVJnZmJhQjZJN2tXbkZoeXRxU2RrQmFVMmMtSUFFVGVWVTNTVURQdnlVTXNLRnRZcXZaRGNySE5haXFtRFVvaHJmLXlCZE9VMzNMOTJHY0FoQ3lremxiUXFkcFkwNmxlRGp4a05SNkZ2a0RXY3hvU0FETEY0eHdLR3RFbnZXV2tnNXhVMXpoWWktYVJMc3FkVFUtbjVRMUFxUVFUUlY3SVhLU240WWVCWjA0OFNEenp4NHZxMktVR054aVBZMGNzdFQ1c0VCQmxaUF9aNVFmTk5kd0hCekplNHFBUUhQd0RoSkJQdHZUQmxsaUJDMmF5?oc=5",
-      "words": [
-        "building",
-        "dassault",
-        "eyes",
-        "focuses",
-        "mes",
-        "sector",
-        "semiconductor",
-        "syst",
-        "workforce"
-      ]
-    },
-    {
       "at": "2026-10-03T13:32:02.594585+00:00",
       "handle": "News: Global AI",
       "headline": "OpenAI safety lead quits and demands nuclear-level safeguards",
@@ -7499,6 +7481,23 @@
         "sites",
         "some"
       ]
+    },
+    {
+      "at": "2026-10-10T03:32:05.705848+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "TCS withholds quarterly bonuses for senior staff after missing targets",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcDllUFpIOGd6dHJBM0hndzlRU0x2QUhVaFdTdWZweDA5bEppOEVnVnVRT0l3Vk5ZVFhCM21uVl9LY1U2bEpwbmZwUVZ5WFJBQjVwdlFzWktkb1REZTNFUVd2akhKa2FoZmthbUp4UDJnTU4wSFMxYVhIc2daY3Z5eHZyeXAwNmxmckxBYUN1eUNwQ2hKNTdSemgweEJpVDdIZ1hZVHlfTHhTbnNja2pQR2E0WWNOdzRaa053T2JRYTBHXzhrc18tUGNlMHEwbHk1d2g3ZmxvRlV2bXFQT0ZKcWc0c9IB6gFBVV95cUxPMTktNGNpaTVZRWtad2MtVTR1M3hiTmk3RkFLSDhZUVRjTDRtNUljV0Y5U1pzQVkzTEg0S0Z5UUM5UVVONVF6WnhFeUkxdVgtTXdMUmZJc2hjQnVicl9HV0NCZUdlWDdoaUh0c0RIVC1DMmlpYk94aWNCTHl3a2tmUFQ2NXF5clFhWk1odlh0V2I4WkZlWS1QNkFZaC1aSkVhVkFSb3l1Sm52bFBUbVNsRkxDQ1Q3b3FJYS1Nb1RPUTZwXzcyTXRzbjJEZ0xjb0h6bnRrOW1iRTJBa2NSREVWNWtfNWJvaTNHZ1E?oc=5",
+      "words": [
+        "bonuses",
+        "missing",
+        "quarterly",
+        "senior",
+        "staff",
+        "targets",
+        "tcs",
+        "withholds"
+      ]
     }
   ],
   "bureau": {
@@ -8513,8 +8512,8 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-10T03:17:46.860929+00:00",
-    "pib_mark": 2321603,
+    "last_run": "2026-10-10T03:33:49.663416+00:00",
+    "pib_mark": 2321628,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -8894,7 +8893,8 @@
       "gazette:CG-WB-E-09102026-277017",
       "gazette:CG-WB-E-09102026-277020",
       "gazette:CG-DL-E-09102026-277018",
-      "gazette:CG-MH-E-09102026-277019"
+      "gazette:CG-MH-E-09102026-277019",
+      "pib:2321628"
     ],
     "source_failures": {},
     "sources": [
@@ -8905,11 +8905,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791036360274",
-    "1791110236785",
-    "1791037140454",
-    "1791043859268",
-    "1791070800774",
     "1791113820890",
     "1791038455213",
     "1791051825249",
@@ -13188,7 +13183,6 @@
     "1791513048997",
     "1791522021247",
     "1791567300066",
-    "1791578359358",
     "1791508654675",
     "1791533891684",
     "1791546062698",
@@ -13251,7 +13245,6 @@
     "1791508954137",
     "1791540500032",
     "1791548970431",
-    "1791563001121",
     "1791578503594",
     "1791509675304",
     "1791509936721",
@@ -13290,7 +13283,6 @@
     "1791511861731",
     "1791511920374",
     "1791511920895",
-    "1791527872866",
     "1791539989099",
     "1791547116032",
     "1791547603940",
@@ -13330,14 +13322,22 @@
     "1791515411514",
     "1791515463555",
     "1791515493802",
-    "1791519161787",
-    "1791526882006",
     "1791527317683",
     "1791531884124",
-    "1791542134039",
     "1791543320032",
     "1791565920289",
     "1791599151104",
+    "1791516275133",
+    "1791516430674",
+    "1791516540327",
+    "1791517569699",
+    "1791519161433",
+    "1791526320562",
+    "1791540131109",
+    "1791542744485",
+    "1791574710363",
+    "1791578460594",
+    "1791596855148",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14588,21 +14588,17 @@
     "1791502550179",
     "1791503369319",
     "1791504000385",
-    "1791516275133",
-    "1791516430674",
-    "1791516540327",
     "1791516780548",
     "1791516897888",
     "1791517168315",
     "1791517421197",
-    "1791517569699",
     "1791518160668",
     "1791518235292",
     "1791518712536",
     "1791518782301",
     "1791518825322",
     "1791518997771",
-    "1791519161433",
+    "1791519161787",
     "1791519351543",
     "1791519600389",
     "1791519899007",
@@ -14628,8 +14624,8 @@
     "1791526200276",
     "1791526200332",
     "1791526319168",
-    "1791526320562",
     "1791526647059",
+    "1791526882006",
     "1791527041730",
     "1791527097129",
     "1791527123662",
@@ -14638,6 +14634,7 @@
     "1791527400920",
     "1791527429415",
     "1791527580697",
+    "1791527872866",
     "1791528608202",
     "1791529200447",
     "1791529200692",
@@ -14687,7 +14684,6 @@
     "1791539711265",
     "1791539711403",
     "1791540060388",
-    "1791540131109",
     "1791540214400",
     "1791540377264",
     "1791540774347",
@@ -14700,7 +14696,7 @@
     "1791541734231",
     "1791541980068",
     "1791542100080",
-    "1791542744485",
+    "1791542134039",
     "1791542853439",
     "1791542939701",
     "1791543006624",
@@ -14771,6 +14767,7 @@
     "1791561646534",
     "1791562406644",
     "1791562742464",
+    "1791563001121",
     "1791563061665",
     "1791563404014",
     "1791563404755",
@@ -14807,7 +14804,6 @@
     "1791574034449",
     "1791574040758",
     "1791574214842",
-    "1791574710363",
     "1791574740205",
     "1791575496359",
     "1791576000307",
@@ -14815,7 +14811,7 @@
     "1791577565678",
     "1791577680665",
     "1791578005564",
-    "1791578460594",
+    "1791578359358",
     "1791579430775",
     "1791579480499",
     "1791580680071",
@@ -14836,18 +14832,20 @@
     "1791591313367",
     "1791591512034",
     "1791591660629",
+    "1791592088000",
     "1791592200824",
     "1791593141672",
     "1791593496970",
     "1791595195270",
     "1791595800011",
-    "1791596855148",
     "1791596944497",
     "1791597010043",
     "1791597798046",
+    "1791597985995",
     "1791598720346",
     "1791598834023",
     "1791599437734",
+    "1791600308054",
     "1791600415660",
     "1791600448496",
     "1791600674945",
@@ -14855,6 +14853,8 @@
     "1791601581015",
     "1791601622104",
     "1791601806393",
+    "1791602255148",
+    "1791602891563",
     "2317509",
     "2317615",
     "2317714",
@@ -14906,8 +14906,8 @@
     "2321512",
     "2321533"
   ],
-  "last_digest_hour": "2026-10-10T08",
-  "last_success": "2026-10-10T03:16:47.495315+00:00",
+  "last_digest_hour": "2026-10-10T09",
+  "last_success": "2026-10-10T03:32:05.771812+00:00",
   "national": {
     "alerted": [
       {
@@ -20921,10 +20921,9 @@
       },
       "warned": "2026-10-09T20:18:32.833982+00:00"
     },
-    "last_run": "2026-10-10T03:17:45.969482+00:00",
-    "pib_mark": 2321603,
+    "last_run": "2026-10-10T03:33:47.712434+00:00",
+    "pib_mark": 2321628,
     "seen": [
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-chief-minister-sri-a-revanth-reddy-participates-in-cpim-senior-leader-comrade-sarampally-malla-reddy-memorial-meeting-at-ravindra-bharati-hyderabad/",
       "feed:http://www.niti.gov.in/node/2421",
       "page:https://www.cbse.gov.in/cbsenew/documents/Corrigendum_DRQ2026_18122025.pdf",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/honble-cm-sri-a-revanth-reddy-participated-in-the-inauguration-of-area-hospital-laying-of-foundation-stones-for-various-developmental-works-and-addresses-the-public-meeting-at-nakrekal-nal/",
@@ -23923,7 +23922,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63783",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13737&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0",
-      "quake:usgs:us6000u19w"
+      "quake:usgs:us6000u19w",
+      "pib:2321628"
     ],
     "source_failures": {
       "CBI": {
@@ -25054,15 +25054,15 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791601806393,
+    "news: big tech platforms": 1791602891563,
     "news: consumer internet india": 1791570765002,
-    "news: global ai": 1791601622104,
+    "news: global ai": 1791602255148,
     "news: global chips": 1791587925857,
     "news: global it services": 1791584987354,
     "news: india ai deeptech": 1791601581015,
     "news: india edtech gaming": 1791550277446,
     "news: india fintech": 1791575496469,
-    "news: india semiconductors": 1791538227819,
+    "news: india semiconductors": 1791597985995,
     "news: india tech policy": 1791574740578,
     "news: india telecom": 1791601581015,
     "news: indian it majors": 1791592200824,
@@ -25116,17 +25116,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-10T03:16:47.824237+00:00",
+    "last_server_run": "2026-10-10T03:32:06.060853+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-10T01:17:46.255016+00:00",
+        "checked": "2026-10-10T03:32:58.200163+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-10T01:17:38.322582+00:00",
+        "checked": "2026-10-10T03:32:50.557479+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -25202,7 +25202,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-10T01:17:42.219745+00:00",
+        "checked": "2026-10-10T03:32:54.404093+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -25256,11 +25256,11 @@
       },
       "last": {
         "calendar": "2026-10-10T01:17:04.999515+00:00",
-        "ls_reports": "2026-10-10T01:17:21.888383+00:00",
-        "rs_committee_press": "2026-10-10T01:17:32.827632+00:00",
-        "rs_press": "2026-10-10T01:17:29.535908+00:00",
-        "rs_reports": "2026-10-10T01:17:26.647256+00:00",
-        "rs_updates": "2026-10-10T01:17:34.444338+00:00"
+        "ls_reports": "2026-10-10T03:32:35.041234+00:00",
+        "rs_committee_press": "2026-10-10T03:32:44.804242+00:00",
+        "rs_press": "2026-10-10T03:32:42.160524+00:00",
+        "rs_reports": "2026-10-10T03:32:39.331170+00:00",
+        "rs_updates": "2026-10-10T03:32:46.502287+00:00"
       }
     },
     "scanned": [
