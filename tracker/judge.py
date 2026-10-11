@@ -156,6 +156,67 @@ POSTS:
 """
 
 
+# The website's "general reader" score (site: general_scores in watchlist.yml). Each AI request
+# also asks how much an ordinary reader anywhere in India would want each item, beside the
+# desk's own score, so people on the website can have one bar judged alike for every source.
+# No extra requests; the desk's own score, and its emails, are unchanged. The scale is the
+# national desk's, whose own score is the general reader's.
+GENERAL_SCALE = """  0-3  routine administration: tenders, auctions, postings and transfers,
+       meetings and events, greetings, notices that touch almost no one
+  4-6  real but niche: matters mainly to one sector, one state or specialists
+  7-8  clear general news value: a decision, rule, ruling, figure or action
+       that affects large numbers of people, their money, safety, rights or
+       daily life; a major appointment; a significant security, diplomatic,
+       economic or legal development
+  9-10 a major national or international story that would lead a bulletin"""
+
+GENERAL_ASK = """ALSO score every entry for a GENERAL READER: "general", 0-10, how much an
+ordinary reader anywhere in India would want to know it, whoever the
+reporter above is. It is separate from "score" and does not change it.
+""" + GENERAL_SCALE + "\n\n"
+
+
+def with_general(prompt: str) -> str:
+    """The same (already filled-in) prompt, also asking for the general reader's score."""
+    marker, field = "Return ONLY a JSON array", '"score": <0-10>,'
+    if marker not in prompt or field not in prompt:
+        return prompt
+    prompt = prompt.replace(field, field + ' "general": <0-10>,', 1)
+    return prompt.replace(marker, GENERAL_ASK + marker, 1)
+
+
+def note_general(post, entry) -> None:
+    """Keeps the general reader's score on the post, for the website (website.py)."""
+    try:
+        value = float(entry.get("general"))
+    except (TypeError, ValueError, AttributeError):
+        return
+    if 0 <= value <= 10:
+        post.general = value
+
+
+# For items no desk's AI has seen (the watch pages, rows from the Mac): the general reader's
+# score alone, with a headline and a reason (site_sources.py, general_fill).
+GENERAL_PROMPT = """You screen items from Indian and international official sources for a
+national news agency. Score each item 0-10 for a GENERAL READER: how much an
+ordinary reader anywhere in India would want to know it.
+
+""" + GENERAL_SCALE.replace("{", "{{").replace("}", "}}") + """
+
+Judge what the item does, not the importance of the office that issued it.
+A list entry with only a title is judged on what the title says.
+
+For each item write a "headline": at most 14 words, plain English, saying
+what actually happened. No reference numbers.
+
+Return ONLY a JSON array, one object per item, same order:
+[{{"i": <item number>, "general": <0-10>, "headline": "<max 14 words>", "why": "<one sentence on why a reader would care>"}}]
+
+ITEMS:
+{items}
+"""
+
+
 # Words that say nothing about which story this is.
 _STOP = {"the","a","an","and","or","of","to","in","on","for","at","by","with",
          "as","is","are","was","were","after","over","from","its","it","this",
@@ -547,7 +608,7 @@ ALREADY_SENT_BLOCK = """ALREADY SENT TO THIS REPORTER IN THE LAST 48 HOURS:
 
 
 def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead: set,
-                 already_sent: list | None = None) -> list[tuple]:
+                 already_sent: list | None = None, general: bool = False) -> list[tuple]:
     listing = "\n\n".join(
         f"[{i}] {p.handle}\n{p.text[:MAX_POST_CHARS]}"
         for i, p in enumerate(batch)
@@ -557,6 +618,8 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead
         sent_block = ALREADY_SENT_BLOCK.format(
             sent="\n".join(f"- {h}" for h in already_sent))
     prompt = PROMPT.format(rubric=rubric, posts=listing, already_sent=sent_block)
+    if general:
+        prompt = with_general(prompt)
 
     response = None
     for model in models:
@@ -589,6 +652,7 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead
             score_log.note("tech", batch[idx], "duplicate", item.get("score"),
                            str(item.get("headline", "")).strip(), str(item.get("why", "")).strip())
             continue
+        note_general(batch[idx], item)
         judged.append(
             (
                 batch[idx],
@@ -606,12 +670,13 @@ def _score_batch(batch, rubric: str, models: list[str], api_key: str, newly_dead
 
 
 def score(posts, rubric: str, dead_today: set | None = None,
-          already_sent: list | None = None):
+          already_sent: list | None = None, general: bool = False):
     """Returns (judged, unscreened, newly_dead).
 
     judged     = [(post, score, headline, why), ...], duplicates removed
     unscreened = posts the AI could not look at, so the caller can surface
                  them rather than silently dropping them.
+    general    = also ask for the general reader's score (post.general; see GENERAL_ASK)
     newly_dead = model names that hit their daily quota just now -- the
                  caller should remember these so tomorrow's runs (and even
                  this run's later batches) do not waste a request re-asking.
@@ -632,7 +697,7 @@ def score(posts, rubric: str, dead_today: set | None = None,
         print(f"  batch {n} of {len(batches)} ({len(batch)} posts)")
         try:
             scored, missed = _score_batch(batch, rubric, models, api_key, newly_dead,
-                                          already_sent)
+                                          already_sent, general)
             judged.extend(scored)
             unscreened.extend(missed)
         except Exception as exc:  # noqa: BLE001

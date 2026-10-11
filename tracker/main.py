@@ -366,7 +366,8 @@ async def run(dry_run: bool) -> int:
     if candidates:
         try:
             judged, unscreened, newly_dead = judge.score(
-                candidates, rubric, dead_models(state), judge.recent_headlines(state))
+                candidates, rubric, dead_models(state), judge.recent_headlines(state),
+                general=website.general_on())
         except judge.AllModelsExhausted as exc:
             # Even a total failure teaches us which models are dead today --
             # keep that lesson so the next run (ten minutes from now) does

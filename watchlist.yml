@@ -995,6 +995,15 @@ site:
   # A company's newsroom post about a story the Tech Desk already emailed still goes to the
   # website (scored, never emailed again). Added 2026-10-11. false = dropped, as before.
   keep_emailed_newsroom: true
+  # The general reader's score (added 2026-10-12, the user's choice): the bureau's, the Tech
+  # Desk's and the website-only pages' AI also say how much an ordinary reader anywhere in India
+  # would want each item, in the same request as their own score (no extra requests; their own
+  # scores and emails are unchanged). On the website, "Judge stories for: a general reader" then
+  # applies one bar alike to every source. false = only each desk's own score.
+  general_scores: true
+  # ...and after each GitHub run, items with no general reader's score yet (the watch pages,
+  # which have no AI of their own; rows from the Mac) are scored for one, a request per 15 items.
+  general_fill: true
 
   # Pages read ONLY for the website, never emailed (tracker/site_sources.py),
   # for the aviation and corporate-affairs reporter. Remove a line to stop

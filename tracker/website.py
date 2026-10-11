@@ -51,6 +51,17 @@ def enabled() -> bool:
     return bool(_cfg().get("send"))
 
 
+def general_on() -> bool:
+    """Switch "site: general_scores": each desk's AI also gives the general reader's score
+    (judge.GENERAL_ASK), sent beside the desk's own as "general"."""
+    return enabled() and bool(_cfg().get("general_scores"))
+
+
+def _general(post):
+    value = getattr(post, "general", None)
+    return float(value) if isinstance(value, (int, float)) else None
+
+
 def _auth() -> str:
     """GitHub's signed token on GitHub; the Mac's key at home; nothing otherwise."""
     url = os.environ.get("ACTIONS_ID_TOKEN_REQUEST_URL")
@@ -137,6 +148,26 @@ def known(ids: list, sources: list) -> dict | None:
     except Exception as exc:                                          # noqa: BLE001
         print(f"  ! could not ask the website what it already has ({str(exc)[:160]})")
         return None
+
+
+def unscored(hours: int = 6, limit: int = 90) -> list:
+    """Recent items on the website (not a first list's backlog) that have no general reader's
+    score yet: the watch pages, rows from the Mac, anything a desk's AI could not get to.
+    [] when it cannot be asked. site_sources.py scores them (switch "site: general_fill")."""
+    if not enabled():
+        return []
+    try:
+        auth = _auth()
+        if not auth:
+            return []
+        url = (_cfg().get("url") or DEFAULT_URL).rstrip("/") + "/api/unscored"
+        answer = requests.post(url, json={"hours": hours, "limit": limit}, timeout=TIMEOUT,
+                               headers={"Authorization": auth, "User-Agent": "news-tracker"})
+        answer.raise_for_status()
+        return answer.json().get("items") or []
+    except Exception as exc:                                          # noqa: BLE001
+        print(f"  ! could not ask the website what still needs a score ({str(exc)[:160]})")
+        return []
 
 
 def status(group: str, results, name_of) -> list:
@@ -287,7 +318,7 @@ def official_source(post) -> tuple:
 def _title(post, source: str, sub: str) -> str:
     """The item's own title: the posts carry "Who: what" for the AI; the website shows who apart."""
     text = _clean(post.text)
-    for lead in (f"{sub}: ", f"{post.handle}: ", f"{source}: "):
+    for lead in (f"{sub}: ", f"{post.handle}: ", f"{source}: ", f"{post.handle} published: ", f"{source} published: "):
         if lead.strip(": ") and text.startswith(lead):
             text = text[len(lead):]
             break
@@ -302,7 +333,7 @@ def official_item(post, score, headline: str = "", why: str = "") -> dict:
     title, _, rest = text.partition(". ") if source in ("Gazette", "Earthquakes") else (text, "", "")
     return {"id": str(post.id), "grp": "official", "source": source, "sub": sub,
             "title": (title or text)[:500], "body": rest[:1500], "url": post.url or "",
-            "score": None if score is None else float(score),
+            "score": None if score is None else float(score), "general": _general(post),
             "headline": _clean(headline)[:300], "why": _clean(why)[:400]}
 
 
@@ -343,7 +374,7 @@ def tech_item(post, score, headline: str = "", why: str = "") -> dict | None:
         title, rest = text, ""
     return {"id": "url:" + (post.url or str(post.id)), "grp": "tech", "source": handle, "sub": "",
             "title": title[:500], "body": rest[:1500], "url": post.url or "",
-            "score": None if score is None else float(score),
+            "score": None if score is None else float(score), "general": _general(post),
             "headline": _clean(headline)[:300], "why": _clean(why)[:400]}
 
 
@@ -355,7 +386,8 @@ def regulator_item(post, score, headline: str = "", why: str = "") -> dict | Non
     if not key or not post.handle.startswith("REG ") or _cfg().get("tech_regulator_scores", True) is False:
         return None
     from types import SimpleNamespace                                  # noqa: PLC0415
-    doc = SimpleNamespace(id=key, handle=post.handle[4:], text=post.text, url=post.url)
+    doc = SimpleNamespace(id=key, handle=post.handle[4:], text=post.text, url=post.url,
+                          general=getattr(post, "general", None))
     return official_item(doc, score, headline, why)
 
 

@@ -492,20 +492,72 @@ def _screen(items: list, dry_run: bool) -> list:
                   url=it["url"], created_at="", likes=0, reposts=0, is_reply=False, is_repost=False) for it in batch]
     rubric = website._cfg().get("newsworthy") or ""
     try:
-        judged, unscreened, _ = judge.score(posts, rubric, dead_today=dead_models(load_state()))
+        judged, unscreened, _ = judge.score(posts, rubric, dead_today=dead_models(load_state()),
+                                            general=website.general_on())
     except Exception as exc:                                          # noqa: BLE001
         print(f"  ! the AI could not judge them ({str(exc)[:160]}); they wait for the next run")
         return first
     held = {p.id for p in unscreened}
-    scored = {p.id: (score, headline, why) for p, score, headline, why in judged}
+    scored = {p.id: (score, headline, why, getattr(p, "general", None)) for p, score, headline, why in judged}
     out = list(first)
     for it in batch:
         if it["id"] in held:
             continue
-        score, headline, why = scored.get(it["id"], (None, "", ""))
-        out.append({**it, "score": None if score is None else float(score),
+        score, headline, why, general = scored.get(it["id"], (None, "", "", None))
+        out.append({**it, "score": None if score is None else float(score), "general": general,
                     "headline": _clean(headline)[:300], "why": _clean(why)[:400]})
     return out
+
+
+FILL_PER_RUN = 60       # items the general reader's AI may score in one run (four requests)
+
+
+def fill_general(dry_run: bool) -> None:
+    """Switch "site: general_fill": items on the website with no general reader's score yet
+    (the watch pages have no AI of their own; rows from the Mac; anything a desk's AI missed)
+    are scored for a general reader, so a person's one bar applies alike to every source.
+    GitHub only, after every other step has handed over, so this run's rows are in."""
+    if dry_run or not website.general_on() or not website._cfg().get("general_fill"):
+        return
+    waiting = website.unscored(limit=FILL_PER_RUN)
+    if not waiting:
+        return
+    print(f"  the AI is scoring {len(waiting)} item(s) for a general reader")
+    from .main import dead_models, load_state, record_dead_models, save_state  # noqa: PLC0415
+    state = load_state()
+    dead = dead_models(state)
+    out = []
+    for n in range(0, len(waiting), judge.CHUNK):
+        batch = waiting[n:n + judge.CHUNK]
+        listing = "\n\n".join(f"[{i}] {it.get('source', '')}{' - ' + it['sub'] if it.get('sub') else ''}: "
+                               f"{it.get('title', '')}. {it.get('body', '')}"[:judge.MAX_POST_CHARS]
+                               for i, it in enumerate(batch))
+        try:
+            entries, newly_dead = judge.ask_json(judge.GENERAL_PROMPT.format(items=listing), dead)
+        except judge.AllModelsExhausted as exc:
+            record_dead_models(state, exc.newly_dead)
+            print(f"  ! no AI model is available ({str(exc)[:120]}); they wait for the next run")
+            break
+        except Exception as exc:                                      # noqa: BLE001
+            print(f"  ! the AI could not score them ({str(exc)[:160]}); they wait for the next run")
+            continue
+        record_dead_models(state, newly_dead)
+        dead |= newly_dead
+        for entry in entries:
+            try:
+                idx, value = int(entry.get("i", -1)), float(entry.get("general"))
+            except (TypeError, ValueError, AttributeError):
+                continue
+            if not (0 <= idx < len(batch) and 0 <= value <= 10):
+                continue
+            it = batch[idx]
+            out.append({"id": it["id"], "grp": it["grp"], "source": it["source"], "sub": it.get("sub", ""),
+                        "title": it["title"], "score": value,
+                        "headline": _clean(entry.get("headline"))[:300], "why": _clean(entry.get("why"))[:400]})
+    save_state(state)
+    if out:
+        # the general reader's view is the national desk's
+        website.send("general", out, view="national")
 
 
 # ---------------------------------------------------------------- sites only the Mac can read
@@ -692,6 +744,8 @@ def run(dry_run: bool = False) -> int:
     if judged:
         # the national bureau's view: "for a beat reporter"
         website.send("site", judged, view="bureau", all_listed=True, dry_run=dry_run)
+    if not home:
+        fill_general(dry_run)
     return 0
 
 

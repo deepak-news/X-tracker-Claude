@@ -761,8 +761,13 @@ def score(posts: list, rubric: str, state: dict, memory: dict,
 
     for n, batch in enumerate(batches, 1):
         print(f"  batch {n} of {len(batches)} ({len(batch)} items)")
+        prompt = _prompt(batch, rubric, sent, template)
+        # the bureau's AI also gives the general reader's score, for the website; the national
+        # desk's own score already is the general reader's (website.py, general_on)
+        if template is not PROMPT and website.general_on():
+            prompt = judge.with_general(prompt)
         try:
-            entries, newly_dead = judge.ask_json(_prompt(batch, rubric, sent, template), dead)
+            entries, newly_dead = judge.ask_json(prompt, dead)
         except judge.AllModelsExhausted as exc:
             record_dead_models(state, exc.newly_dead)
             print(f"  ! no AI model is available: {exc}. The rest wait for next run.")
@@ -792,6 +797,7 @@ def score(posts: list, rubric: str, state: dict, memory: dict,
                 value = float(entry.get("score", 0))
             except (TypeError, ValueError):
                 value = 0.0
+            judge.note_general(post, entry)
             rows.append((post, value,
                          str(entry.get("headline") or "").strip(),
                          str(entry.get("why") or "").strip()))
