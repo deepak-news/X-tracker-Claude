@@ -8585,8 +8585,8 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-11T04:51:20.188824+00:00",
-    "pib_mark": 2321857,
+    "last_run": "2026-10-11T05:07:10.862926+00:00",
+    "pib_mark": 2321859,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -9033,7 +9033,8 @@
       "gazette:CG-DL-E-10102026-277056",
       "pib:2321855",
       "pib:2321857",
-      "pib:2321856"
+      "pib:2321856",
+      "pib:2321859"
     ],
     "source_failures": {},
     "sources": [
@@ -9044,10 +9045,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791199704162",
-    "1785355620205",
-    "1790750483764",
-    "1790772902309",
     "1791137308152",
     "1791174360663",
     "1791177666763",
@@ -13559,8 +13556,6 @@
     "1791688279141",
     "1791605186702",
     "1791605617962",
-    "1791645104205",
-    "1791663750046",
     "1791684540655",
     "1791684880600",
     "1791686943462",
@@ -13581,6 +13576,11 @@
     "1791685329477",
     "1791688000602",
     "1791688915913",
+    "1791641236441",
+    "1791658378046",
+    "1791661800127",
+    "1791688000664",
+    "1791690454753",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14909,13 +14909,13 @@
     "1791639480590",
     "1791639766921",
     "1791641140544",
-    "1791641236441",
     "1791641672311",
     "1791642143604",
     "1791643276604",
     "1791643320704",
     "1791643631330",
     "1791644593043",
+    "1791645104205",
     "1791645157095",
     "1791645420871",
     "1791645459943",
@@ -14943,13 +14943,12 @@
     "1791657359104",
     "1791657360306",
     "1791657386141",
-    "1791658378046",
     "1791658380769",
     "1791658412569",
     "1791658980067",
     "1791660600612",
     "1791660824172",
-    "1791661800127",
+    "1791663750046",
     "1791664274810",
     "1791665643354",
     "1791665968428",
@@ -14981,16 +14980,18 @@
     "1791686984284",
     "1791687132782",
     "1791687576587",
-    "1791688000664",
     "1791688253297",
     "1791688620619",
     "1791689656409",
     "1791690188378",
-    "1791690454753",
+    "1791690454943",
     "1791690704008",
     "1791692956066",
     "1791693370106",
     "1791693652817",
+    "1791693780595",
+    "1791693812679",
+    "1791693939263",
     "2317509",
     "2317615",
     "2317714",
@@ -15046,7 +15047,7 @@
     "2321853"
   ],
   "last_digest_hour": "2026-10-11T10",
-  "last_success": "2026-10-11T04:46:47.749992+00:00",
+  "last_success": "2026-10-11T05:02:15.907028+00:00",
   "national": {
     "alerted": [
       {
@@ -21148,14 +21149,16 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "CERT-In": "2026-10-11T05:07:08.745320+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
         "IRDAI": "2026-10-10T12:18:19.450293+00:00",
+        "President of India": "2026-10-11T05:07:08.745320+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-10T20:19:58.349393+00:00"
     },
-    "last_run": "2026-10-11T04:51:18.248416+00:00",
+    "last_run": "2026-10-11T05:07:08.746018+00:00",
     "pib_mark": 2321857,
     "seen": [
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-semicon-india-2026",
@@ -23834,6 +23837,16 @@
       "pib:2321853",
       "pib:2321854",
       "certin:CIAD-2026-0046",
+      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-nift-paraisaraon-kae",
+      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-saikasaka-daivasa-kae-3",
+      "feed:http://www.presidentofindia.gov.in/speeches/address-honble-president-india-smt-droupadi-murmu-occasion-call-officer-trainees-indian-6",
+      "feed:http://www.presidentofindia.gov.in/speeches/address-honble-president-india-smt-droupadi-murmu-occasion-call-officer-trainees-indian-7",
+      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-national-green-tribunal",
+      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-72vaen-raasataraiya",
+      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-mahaaraajaa-sayaajairaava",
+      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-vaisava-nava-nairamaana",
+      "feed:http://www.presidentofindia.gov.in/speeches/savaisa-paraisangha-kae-raasatarapatai-mahaamahaima-sarai-gai-paaramaelaan-kae-samamaana",
+      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-emasa-bailaasapaura-kae",
       "cci-pr:media-gallery|695",
       "cci-pr:media-gallery|696",
       "cci-merger:C-2026/07/1446|Approved",
@@ -24004,14 +24017,6 @@
       "page:https://information.up.gov.in/cabinetdec/5.pdf",
       "page:https://information.up.gov.in/cabinetdec/4.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_24032026120646PN-CM-Cabinet Decisions-10 March, 2026.pdf",
-      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-nift-paraisaraon-kae",
-      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-saikasaka-daivasa-kae-3",
-      "feed:http://www.presidentofindia.gov.in/speeches/address-honble-president-india-smt-droupadi-murmu-occasion-call-officer-trainees-indian-6",
-      "feed:http://www.presidentofindia.gov.in/speeches/address-honble-president-india-smt-droupadi-murmu-occasion-call-officer-trainees-indian-7",
-      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-national-green-tribunal",
-      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-72vaen-raasataraiya",
-      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-mahaaraajaa-sayaajairaava",
-      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-vaisava-nava-nairamaana",
       "page:https://www.mha.gov.in/sites/default/files/Qatar_12072026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/UNNationPolice_16072026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/postconstableheadconstable_01092026.pdf",
@@ -24108,8 +24113,6 @@
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-advice-against-surbhi-aggarwal-defaulter-pan-bnipa1542d-in-the-matter-of-front-running-by-navnit-gadoya-surbhi-aggarwal-and-chiranggi-irish-shah-under-recovery-certificate-n-_105032.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-opens-a-local-office-in-chandigarh_105035.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-releases-samajh-se-investing-simple-campaign-under-project-jagrook-rolls-out-the-must-initiative-announces-its-presence-on-whatsapp-and-other-initiatives-for-investor-awareness-and-education_105034.html",
-      "feed:http://www.presidentofindia.gov.in/speeches/savaisa-paraisangha-kae-raasatarapatai-mahaamahaima-sarai-gai-paaramaelaan-kae-samamaana",
-      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-emasa-bailaasapaura-kae",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-dated-05-10-2026-in-recovery-certificate-no-9273-of-2026-issued-against-manjulaben-parmar-pan-dkypp5235b-in-the-matter-of-trading-activities-of-certain-entities-in-the-scr-_105053.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-dated-05-10-2026-in-recovery-certificate-no-9272-of-2026-issued-against-bhaumik-parmar-pan-eqqpp8919h-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-_105051.html",
       "page:https://www.cbse.gov.in/cbsenew/documents/21_Circular_2026_07102026.pdf",
@@ -24164,6 +24167,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "CERT-In": {
+        "count": 1
+      },
       "DGFT": {
         "count": 79,
         "until": "2026-10-11T07:23:41.607711+00:00"
@@ -24171,6 +24177,9 @@
       "IRDAI": {
         "count": 5,
         "until": "2026-10-11T07:23:41.607711+00:00"
+      },
+      "President of India": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -24201,7 +24210,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Microsoft CEO Satya Nadella warns users not to blindly trust AI",
+      "post": {
+        "created_at": "2026-10-11T04:43:00+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1791693780595",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "Microsoft CEO Satya Nadella says don\u2019t blindly trust AI; warns: Treat it like an employee who could...",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOa25HdHNlNTFXLV9jNzV1YVBOb0NiOWtrVHdZUzVxYjRaSXhqN1kwRjNfdk5UMFc2WEhSN1ZLZGFmSUZYT2pFOHQyRTdIeUh1VVhRVm9yZ3lqQi1VUHJKNU81R3h2NWJwNXdyaDRCdzBHTUQyRUZBdUpmSklLRVBsMVpOazctVGF0WGpseG45VDhmWlJweHNqclZZTnEwTFl2dEZVX0lqSG1pUXBIbC1fWTRWMUhoWE0tU0VQbHhHT1NqSnBPcG5ObXVpRlc4OUZHUEZmY19CNzdVNTVGd3Z6UHBhNEtTdHJlNS1mNTJ1VTlRVWZ3MF9ncDJMX3lrMlZlNnRfV0xocFBteTVR0gGSAkFVX3lxTE11dFpxZjZETVhrYlJNUjVrMjZhLWhLdlhuYjNlTDk5RGs4QS10YWtnOUFjVFJOWUJhNGVvUWJwSzdsdGYxdzlrbmdIRXBoc0hwR0pSZ1lnMlNCdUV6QmF2eU9pYWlqbmtOdk5xQ1VCWWlvOVI2UFFUV3RnM1JRZU5PWHl1dHUzaEUyaThYelNRVVdOdllST3g2VkxhUm1abEF4RjdfU0xYTXcwenpwcWFLOVd5QU9nYkNELW9pQTlZUlE5TFhDNW9UR2NaZ0Q3RXMxd1pMemhGbkZGY2tHT0s4ZUh5NnctSVU3R2pZaEpsdDBFTm9CUTZUQlp2R1d0OXhzNFdKSGM3dmo5MFdPVEV2WlE?oc=5"
+      },
+      "queued_at": "2026-10-11T05:02:15.826286+00:00",
+      "score": 7.0,
+      "why": "Major AI leader statement on model trustworthiness and safety disclosures."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25288,21 +25316,21 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791693652817,
+    "news: big tech platforms": 1791693812679,
     "news: consumer internet india": 1791685806923,
     "news: global ai": 1791689656409,
-    "news: global chips": 1791688915913,
+    "news: global chips": 1791693939263,
     "news: global it services": 1791665643354,
     "news: india ai deeptech": 1791667807358,
     "news: india edtech gaming": 1791643631330,
     "news: india fintech": 1791684880600,
     "news: india semiconductors": 1791633509798,
-    "news: india tech policy": 1791690454753,
+    "news: india tech policy": 1791690454943,
     "news: india telecom": 1791657360306,
     "news: indian it majors": 1791693370106,
     "news: indian it midcaps": 1791676800613,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1791688279141,
+    "news: tech leaders": 1791693812679,
     "nvidia": 1791493595788,
     "nvidia blog": 1791493595953,
     "openai": 1791529200692,
@@ -25350,7 +25378,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-11T04:46:48.029834+00:00",
+    "last_server_run": "2026-10-11T05:02:16.276158+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-11T03:17:37.072564+00:00",
@@ -25490,7 +25518,7 @@
       },
       "last": {
         "calendar": "2026-10-11T02:02:44.441003+00:00",
-        "ls_reports": "2026-10-11T02:47:22.202754+00:00",
+        "ls_reports": "2026-10-11T05:02:45.142132+00:00",
         "rs_committee_press": "2026-10-11T03:17:23.886921+00:00",
         "rs_press": "2026-10-11T03:17:20.549720+00:00",
         "rs_reports": "2026-10-11T03:17:17.734737+00:00",
