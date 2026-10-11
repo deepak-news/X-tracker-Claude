@@ -363,7 +363,8 @@ sources:
     - {name: AWS,                url: "https://aws.amazon.com/blogs/aws/feed/"}
     - {name: Salesforce,         url: "https://www.salesforce.com/news/feed/"}
     - {name: Mistral AI,         url: "https://mistral.ai/news/rss"}
-    - {name: Samsung India,      url: "https://news.samsung.com/in/feed/"}
+    # Samsung India removed 2026-10-11 (its feed was not being read); put the line back to restore:
+    # - {name: Samsung India,      url: "https://news.samsung.com/in/feed/"}
     - {name: Zoho,               url: "https://www.zoho.com/blog/feed"}
     - {name: Razorpay,           url: "https://razorpay.com/blog/feed/"}
     - {name: Swiggy,             url: "https://blog.swiggy.com/feed/"}
