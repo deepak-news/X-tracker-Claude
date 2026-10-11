@@ -870,9 +870,11 @@ def run(dry_run: bool) -> int:
         fresh = [item for item in fresh if item.source not in quiet]
 
     # The website gets every new row too, whoever its email goes to (website.py)
+    # pages read every two hours or so, so the website does not count them late in between
+    slow = {website.watch_source(e["name"])[0]: every for e in page_cfg.get("urls") or []}
     website.send("watch", website.watch_items(fresh), dry_run=dry_run,
                  sources=website.watch_sources(worked + failed), failed=failed,
-                 status=[st for st in website.status("watch", [(n, None) for n in worked] +
+                 status=[(*st, slow.get(st[1], 0)) for st in website.status("watch", [(n, None) for n in worked] +
                                                      [(n, RuntimeError("could not be read this run")) for n in failed],
                                                      lambda n: "" if website._gazette_watch(name=n) else website.watch_source(n)[0])])
 

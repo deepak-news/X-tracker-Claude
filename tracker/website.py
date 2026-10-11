@@ -76,7 +76,8 @@ def send(origin: str, items: list, *, view: str = "", sources: list | None = Non
 
     status: how each source's reading went this run, [(group, source, ok, why)] -- the
     website shows people when each source was last read and since when one has been
-    failing (status(), below, builds these).
+    failing (status(), below, builds these). A fifth value, minutes between reads, marks a
+    source not read every run (the ED pages), so it is not shown as late in between.
     """
     if not enabled():
         return
@@ -105,8 +106,9 @@ def send(origin: str, items: list, *, view: str = "", sources: list | None = Non
                     "sources": [{"grp": g, "source": s, "subs": sorted(x for x in catalogue[(g, s)] if x)}
                                 for g, s in sources] if n == 0 else [],
                     "failed": (failed or []) if n == 0 else [],
-                    "status": [{"grp": g, "source": src, "ok": bool(ok), "why": str(why or "")[:200]}
-                               for g, src, ok, why in (status or [])] if n == 0 else []}
+                    "status": [{"grp": st[0], "source": st[1], "ok": bool(st[2]), "why": str(st[3] or "")[:200],
+                                "every": int(st[4]) if len(st) > 4 and st[4] else 0}
+                               for st in (status or [])] if n == 0 else []}
             answer = requests.post(url, json=body, timeout=TIMEOUT,
                                    headers={"Authorization": auth, "User-Agent": "news-tracker"})
             answer.raise_for_status()
