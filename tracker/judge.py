@@ -156,11 +156,14 @@ POSTS:
 """
 
 
-# The website's "general reader" score (site: general_scores in watchlist.yml). Each AI request
-# also asks how much an ordinary reader anywhere in India would want each item, beside the
+# The website's "general desk" score (site: general_scores in watchlist.yml). Each AI request
+# also asks how much a journalist on a national news agency's general desk -- like the social
+# media desk, picking what goes out to a broad audience -- would want each item, beside the
 # desk's own score, so people on the website can have one bar judged alike for every source.
-# No extra requests; the desk's own score, and its emails, are unchanged. The scale is the
-# national desk's, whose own score is the general reader's.
+# It is never above the beat score: nothing matters more to the general desk than to the
+# reporter on its own beat (the user's rule, 2026-10-12; the website enforces it too). No extra
+# requests; the desk's own score, and its emails, are unchanged. The scale is the national
+# desk's, whose own score (for the head of social media) is the general desk's.
 GENERAL_SCALE = """  0-3  routine administration: tenders, auctions, postings and transfers,
        meetings and events, greetings, notices that touch almost no one
   4-6  real but niche: matters mainly to one sector, one state or specialists
@@ -170,14 +173,17 @@ GENERAL_SCALE = """  0-3  routine administration: tenders, auctions, postings an
        economic or legal development
   9-10 a major national or international story that would lead a bulletin"""
 
-GENERAL_ASK = """ALSO score every entry for a GENERAL READER: "general", 0-10, how much an
-ordinary reader anywhere in India would want to know it, whoever the
-reporter above is. It is separate from "score" and does not change it.
+GENERAL_ASK = """ALSO score every entry for the GENERAL DESK: "general", 0-10, how much a
+journalist on a national news agency's general desk -- like its social media
+desk, which picks what goes out to a broad audience across India -- would
+want it, whoever the reporter above is. It is separate from "score" and
+does not change it, and it is NEVER higher than "score": nothing matters
+more to the general desk than to the reporter on its own beat.
 """ + GENERAL_SCALE + "\n\n"
 
 
 def with_general(prompt: str) -> str:
-    """The same (already filled-in) prompt, also asking for the general reader's score."""
+    """The same (already filled-in) prompt, also asking for the general desk's score."""
     marker, field = "Return ONLY a JSON array", '"score": <0-10>,'
     if marker not in prompt or field not in prompt:
         return prompt
@@ -186,20 +192,26 @@ def with_general(prompt: str) -> str:
 
 
 def note_general(post, entry) -> None:
-    """Keeps the general reader's score on the post, for the website (website.py)."""
+    """Keeps the general desk's score on the post, for the website (website.py); never above
+    the entry's own (beat) score."""
     try:
         value = float(entry.get("general"))
     except (TypeError, ValueError, AttributeError):
         return
+    try:
+        value = min(value, float(entry.get("score")))
+    except (TypeError, ValueError):
+        pass
     if 0 <= value <= 10:
         post.general = value
 
 
-# For items no desk's AI has seen (the watch pages, rows from the Mac): the general reader's
+# For items no desk's AI has seen (the watch pages, rows from the Mac): the general desk's
 # score alone, with a headline and a reason (site_sources.py, general_fill).
-GENERAL_PROMPT = """You screen items from Indian and international official sources for a
-national news agency. Score each item 0-10 for a GENERAL READER: how much an
-ordinary reader anywhere in India would want to know it.
+GENERAL_PROMPT = """You screen items from Indian and international official sources for the
+GENERAL DESK of a national news agency: journalists, like its social media
+desk, who pick what goes out to a broad audience across India. Score each
+item 0-10 for how much they would want it.
 
 """ + GENERAL_SCALE.replace("{", "{{").replace("}", "}}") + """
 
@@ -210,7 +222,7 @@ For each item write a "headline": at most 14 words, plain English, saying
 what actually happened. No reference numbers.
 
 Return ONLY a JSON array, one object per item, same order:
-[{{"i": <item number>, "general": <0-10>, "headline": "<max 14 words>", "why": "<one sentence on why a reader would care>"}}]
+[{{"i": <item number>, "general": <0-10>, "headline": "<max 14 words>", "why": "<one sentence on why the general desk would care>"}}]
 
 ITEMS:
 {items}
@@ -676,7 +688,7 @@ def score(posts, rubric: str, dead_today: set | None = None,
     judged     = [(post, score, headline, why), ...], duplicates removed
     unscreened = posts the AI could not look at, so the caller can surface
                  them rather than silently dropping them.
-    general    = also ask for the general reader's score (post.general; see GENERAL_ASK)
+    general    = also ask for the general desk's score (post.general; see GENERAL_ASK)
     newly_dead = model names that hit their daily quota just now -- the
                  caller should remember these so tomorrow's runs (and even
                  this run's later batches) do not waste a request re-asking.

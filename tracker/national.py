@@ -762,8 +762,8 @@ def score(posts: list, rubric: str, state: dict, memory: dict,
     for n, batch in enumerate(batches, 1):
         print(f"  batch {n} of {len(batches)} ({len(batch)} items)")
         prompt = _prompt(batch, rubric, sent, template)
-        # the bureau's AI also gives the general reader's score, for the website; the national
-        # desk's own score already is the general reader's (website.py, general_on)
+        # the bureau's AI also gives the general desk's score, for the website; the national
+        # desk's own score already is the general desk's (website.py, general_on)
         if template is not PROMPT and website.general_on():
             prompt = judge.with_general(prompt)
         try:

@@ -52,7 +52,7 @@ def enabled() -> bool:
 
 
 def general_on() -> bool:
-    """Switch "site: general_scores": each desk's AI also gives the general reader's score
+    """Switch "site: general_scores": each desk's AI also gives the general desk's score
     (judge.GENERAL_ASK), sent beside the desk's own as "general"."""
     return enabled() and bool(_cfg().get("general_scores"))
 
@@ -151,7 +151,7 @@ def known(ids: list, sources: list) -> dict | None:
 
 
 def unscored(hours: int = 6, limit: int = 90) -> list:
-    """Recent items on the website (not a first list's backlog) that have no general reader's
+    """Recent items on the website (not a first list's backlog) that have no general desk's
     score yet: the watch pages, rows from the Mac, anything a desk's AI could not get to.
     [] when it cannot be asked. site_sources.py scores them (switch "site: general_fill")."""
     if not enabled():

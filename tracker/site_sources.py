@@ -2,7 +2,7 @@
 the aviation and corporate-affairs reporter.
 
     dgca_comments   DGCA: draft rules out for public comment ("Comments invited")
-    dgca_traffic    DGCA: monthly domestic air traffic data
+    dgca_traffic    DGCA: monthly domestic air traffic, city pair by city pair
     dgca_schedules  DGCA: airlines' approved domestic schedules (summer and winter)
     dgca_circulars  DGCA: circulars (general; surveillance and enforcement)
     dgca_notices    DGCA: public notices (AI-scored: "ai_pages" in watchlist.yml)
@@ -154,8 +154,21 @@ def _dgca(**form) -> str:
     return response.text
 
 
+def _dgca_json(**form) -> dict:
+    data = {"baseLocale": "", "screenId": "10000001", "classification": "", "requestType": "ApplicationRH",
+            "attachId": "", "langType": "1", "serviceName": "fetchRulebookContentDtlsList", "attr": "",
+            "actionVal": "viewStaticData", **form}
+    response = requests.post(DGCA_SCAN, headers={**HEADERS, "X-Requested-With": "XMLHttpRequest"}, timeout=TIMEOUT, data=data)
+    response.raise_for_status()
+    return response.json()
+
+
 def _dgca_static(book: str, content: str) -> BeautifulSoup:
-    html_ = _dgca(actionVal="viewStaticData", ruleBookId=book, contentId=content, serviceName="fetchRulebookContentDtlsList")
+    html_ = ""
+    for _ in range(3):             # DGCA's servers sometimes answer with a stale, empty copy
+        html_ = _dgca(actionVal="viewStaticData", ruleBookId=book, contentId=content, serviceName="fetchRulebookContentDtlsList")
+        if html_:
+            break
     if not html_:
         raise RuntimeError(f"DGCA's list {book}/{content} came back empty (it may have changed)")
     return BeautifulSoup(html_, "html.parser")
@@ -166,19 +179,37 @@ def _dgca_file(path: str) -> str:
 
 
 def dgca_traffic() -> list:
-    """Data and reports > Air traffic: a table of years and months, one PDF a month."""
-    rows, year = [], ""
-    for tr in _dgca_static("4264", "4206").find_all("tr"):
-        cells = tr.find_all("td")
-        if cells and re.fullmatch(r"\d{4}", _clean(cells[0].get_text(" "))):
-            year = _clean(cells[0].get_text(" "))
-        link = tr.find("a", attrs={"data-url": True})
-        if link and link["data-url"].lower().endswith(".pdf"):
-            month = _clean(link.get_text(" "))
-            rows.append({"key": f"dgca-traffic:{link['data-url'].strip()}", "title": f"Domestic air traffic data: {month} {year}".strip(),
-                         "detail": "DGCA's monthly figures for domestic airlines", "url": _dgca_file(link["data-url"]), "date": None})
+    """Data and reports > Monthly statistics: each year's "Domestic City Pair Traffic" table,
+    one PDF a month, the newest month added about three weeks after it ends. (The "Air traffic"
+    list, 4264/4206, stopped at July 2023; moved here 2026-10-12.)"""
+    # DGCA's servers sometimes answer with a stale one-line copy of this page: ask again
+    entries = []
+    for _ in range(4):
+        try:
+            entries = _dgca_json(ruleBookId="259", contentId="4184").get("ruleBookContentDtlsList") or []
+        except ValueError:
+            entries = []
+        if any("city pair" in str(e.get("contentName", "")).lower() for e in entries):
+            break
+    rows = []
+    this_year = dt.datetime.now(IST).year
+    for entry in entries:
+        name = _clean(entry.get("contentName"))
+        year = re.search(r"(20\d\d)", name)
+        if not name.lower().startswith("domestic city pair traffic") or not year or int(year.group(1)) < this_year - 1:
+            continue
+        soup = BeautifulSoup(entry.get("contentText") or "", "html.parser")
+        for tr in soup.find_all("tr"):
+            cells = tr.find_all("td")
+            link = next((a for a in tr.find_all("a", attrs={"data-url": True}) if a["data-url"].lower().endswith(".pdf")), None)
+            if not cells or not link:
+                continue
+            month = _clean(cells[0].get_text(" ")).title()
+            rows.append({"key": f"dgca-traffic:{link['data-url'].strip()}",
+                         "title": f"Domestic air traffic by city pair: {month} {year.group(1)}",
+                         "detail": "DGCA's monthly passenger figures for each domestic route", "url": _dgca_file(link["data-url"]), "date": None})
     if not rows:
-        raise RuntimeError("no months on DGCA's air traffic list (it may have changed)")
+        raise RuntimeError("no months on DGCA's monthly statistics (259/4184): it may have changed")
     return rows
 
 
@@ -509,20 +540,20 @@ def _screen(items: list, dry_run: bool) -> list:
     return out
 
 
-FILL_PER_RUN = 60       # items the general reader's AI may score in one run (four requests)
+FILL_PER_RUN = 60       # items the general desk's AI may score in one run (four requests)
 
 
 def fill_general(dry_run: bool) -> None:
-    """Switch "site: general_fill": items on the website with no general reader's score yet
+    """Switch "site: general_fill": items on the website with no general desk's score yet
     (the watch pages have no AI of their own; rows from the Mac; anything a desk's AI missed)
-    are scored for a general reader, so a person's one bar applies alike to every source.
+    are scored for the general desk, so a person's one bar applies alike to every source.
     GitHub only, after every other step has handed over, so this run's rows are in."""
     if dry_run or not website.general_on() or not website._cfg().get("general_fill"):
         return
     waiting = website.unscored(limit=FILL_PER_RUN)
     if not waiting:
         return
-    print(f"  the AI is scoring {len(waiting)} item(s) for a general reader")
+    print(f"  the AI is scoring {len(waiting)} item(s) for the general desk")
     from .main import dead_models, load_state, record_dead_models, save_state  # noqa: PLC0415
     state = load_state()
     dead = dead_models(state)
@@ -556,7 +587,7 @@ def fill_general(dry_run: bool) -> None:
                         "headline": _clean(entry.get("headline"))[:300], "why": _clean(entry.get("why"))[:400]})
     save_state(state)
     if out:
-        # the general reader's view is the national desk's
+        # the general desk's view is the national desk's (its head of social media)
         website.send("general", out, view="national")
 
 
@@ -653,7 +684,7 @@ def who_outbreaks() -> list:
 # name in watchlist.yml -> (reader, source on the website, list within it)
 READERS = {
     "dgca_comments": (dgca_comments, "DGCA", "Draft rules for comment"),
-    "dgca_traffic": (dgca_traffic, "DGCA", "Monthly air traffic"),
+    "dgca_traffic": (dgca_traffic, "DGCA", "Air traffic by city pair"),   # new name 2026-10-12: its first list goes in quietly
     "dgca_schedules": (dgca_schedules, "DGCA", "Airline schedules"),
     "dgca_circulars": (dgca_circulars, "DGCA", "Circulars"),
     "dgca_notices": (dgca_notices, "DGCA", "Public notices"),

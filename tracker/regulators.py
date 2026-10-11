@@ -24,6 +24,7 @@ otherwise come back as "new" once memory had moved on.
 
 import datetime as dt
 import html
+import os
 import re
 import time
 
@@ -209,7 +210,12 @@ def certin(session) -> list:
     years = [today.year] + ([today.year - 1] if today.month == 1 else [])
     out = []
     for year in years:
-        page = _request(session, "GET", CERTIN + f"s2cMainServlet?pageid=PUBADVLIST02&year={year}")
+        # CERT-In often takes over forty seconds to answer GitHub, so on GitHub its list comes
+        # through the relay, which fetches it every 15 minutes with time to wait and keeps the
+        # last good copy (switch "certin_relay"; added 2026-10-12)
+        url = CERTIN + f"s2cMainServlet?pageid=PUBADVLIST02&year={year}"
+        page = (_request(session, "GET", RELAY, params={"u": url}) if _switch("certin_relay") and os.environ.get("GITHUB_ACTIONS")
+                else _request(session, "GET", url))
         text = BeautifulSoup(page.text, "html.parser").get_text(" ", strip=True)
         found = _ADVISORY.findall(text)
         if not found and year == today.year and today.month > 1:
@@ -243,14 +249,18 @@ DGFT_ROWS = 25
 RELAY = "https://mea-relay.ptiinfographics.workers.dev/page"
 
 
-def _dgft_relay() -> bool:
+def _switch(name: str) -> bool:
     try:
         import pathlib                                                # noqa: PLC0415
         import yaml                                                   # noqa: PLC0415
         cfg = yaml.safe_load((pathlib.Path(__file__).resolve().parent.parent / "watchlist.yml").read_text()) or {}
-        return cfg.get("dgft_relay", True) is not False
+        return cfg.get(name, True) is not False
     except Exception:                                                 # noqa: BLE001
         return True
+
+
+def _dgft_relay() -> bool:
+    return _switch("dgft_relay")
 
 
 def dgft(session) -> list:

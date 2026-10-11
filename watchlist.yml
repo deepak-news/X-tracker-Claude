@@ -977,6 +977,10 @@ parallel_reads: 6
 # notices are read through the mea-relay Worker on Cloudflare (added
 # 2026-10-11). false = ask DGFT directly, as before.
 dgft_relay: true
+# CERT-In takes over forty seconds to answer GitHub on many runs, so there its advisories list
+# comes through the same relay, which fetches it every 15 minutes and keeps the last good copy.
+# Added 2026-10-12. false = ask CERT-In directly, as before.
+certin_relay: true
 
 site:
   send: true          # false = hand nothing to the website
@@ -995,14 +999,15 @@ site:
   # A company's newsroom post about a story the Tech Desk already emailed still goes to the
   # website (scored, never emailed again). Added 2026-10-11. false = dropped, as before.
   keep_emailed_newsroom: true
-  # The general reader's score (added 2026-10-12, the user's choice): the bureau's, the Tech
-  # Desk's and the website-only pages' AI also say how much an ordinary reader anywhere in India
-  # would want each item, in the same request as their own score (no extra requests; their own
-  # scores and emails are unchanged). On the website, "Judge stories for: a general reader" then
-  # applies one bar alike to every source. false = only each desk's own score.
+  # The general desk's score (added 2026-10-12, the user's choice): the bureau's, the Tech
+  # Desk's and the website-only pages' AI also say how much a general-desk journalist (like the
+  # social media desk) would want each item, never more than the beat score, in the same
+  # request as their own score (no extra requests; their own scores and emails are unchanged).
+  # On the website, "Judge stories for: the general desk" then applies one bar alike to every
+  # source. false = only each desk's own score.
   general_scores: true
-  # ...and after each GitHub run, items with no general reader's score yet (the watch pages,
-  # which have no AI of their own; rows from the Mac) are scored for one, a request per 15 items.
+  # ...and after each GitHub run, items with no general desk's score yet (the watch pages,
+  # which have no AI of their own; rows from the Mac) are scored for it, a request per 15 items.
   general_fill: true
 
   # Pages read ONLY for the website, never emailed (tracker/site_sources.py),
@@ -1062,7 +1067,9 @@ site:
     # WHO's news feed stopped in February 2026; its outbreak news is "who_outbreaks" above
     # --- Education
     - {source: UGC, url: "https://www.ugc.gov.in/", match: "/pdfnews/", ai: true}
-    - {source: CISCE, url: "https://cisce.org/", match: "/wp-content/uploads/20", exclude: "RFP|expression of interest|tender", relay: true}
+    # CISCE answers only from India (the relay reached it from the US and got 403 on every run):
+    # read by the Mac from 2026-10-12
+    - {source: CISCE, url: "https://cisce.org/", match: "/wp-content/uploads/20", exclude: "RFP|expression of interest|tender", home_only: true}
     # --- Space, disasters and pollution
     - {source: ISRO, url: "https://www.isro.gov.in/", match: "isro\\.gov\\.in/[A-Za-z0-9_]+\\.html$|/media_isro/pdf/", exclude: "YUVIKA|hackathon|selection list|robotics challenge", ai: true, new_ids: true}   # AI-scored from 2026-10-11
     - {source: CPCB, url: "https://cpcb.nic.in/", match: "openpdffile\\.php\\?id=", exclude: "recruitment|downtime|tender", ai: true}
