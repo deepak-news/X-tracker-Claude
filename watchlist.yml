@@ -957,7 +957,7 @@ bureau:
   # (or the whole list) to stop.
   # RBI, SEBI, CCI, DGFT and IRDAI added the same day, for the business reporters.
   site_extra: [MHA, PMO, NITI Aayog, President of India, "State: Telangana", "State: Uttar Pradesh",
-               RBI, RBI notifications, SEBI, IRDAI, CCI, DGFT, IMD]
+               RBI, RBI notifications, SEBI, IRDAI, CCI, DGFT, IMD, CERT-In]
 
 
 # ======================================================================
@@ -989,6 +989,9 @@ site:
   # reports, press releases, papers laid, Rajya Sabha notices, the day's agenda and
   # bulletins), added 2026-10-11. false = one Parliament source, as before.
   parliament_lists: true
+  # The Tech Desk's scores for CCI, CERT-In and DGFT documents also go to the website,
+  # beside the national desk's (no extra AI requests). Added 2026-10-11. false = not.
+  tech_regulator_scores: true
 
   # Pages read ONLY for the website, never emailed (tracker/site_sources.py),
   # for the aviation and corporate-affairs reporter. Remove a line to stop

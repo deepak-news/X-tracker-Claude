@@ -702,6 +702,7 @@ def _regulator(which: str) -> list[Post]:
         post = _make(dated, f"REG {regulators.NAMES[which]}",
                      regulators.describe(row), row.get("url", ""), row["key"])
         post.created_at = now.isoformat()
+        post.doc_key = row["key"]       # the document's own key: the website's id for it (website.py)
         posts.append(post)
     return posts
 

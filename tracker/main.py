@@ -385,6 +385,9 @@ async def run(dry_run: bool) -> int:
         website.send("tech", [i for i in (website.tech_item(*r) for r in judged) if i], view="tech",
                      sources=website.tech_sources(cfg), dry_run=dry_run,
                      failed=[f for f in failed if ("tech", f) in website.tech_sources(cfg)])
+        # and its scores for the regulators' documents, beside the national desk's
+        website.send("tech", [i for i in (website.regulator_item(*r) for r in judged) if i], view="tech",
+                     dry_run=dry_run)
 
     # Original sources go out now. Google News reports wait for the digest.
     held, held_raw = [], []

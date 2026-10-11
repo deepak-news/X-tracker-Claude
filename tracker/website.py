@@ -347,6 +347,18 @@ def tech_item(post, score, headline: str = "", why: str = "") -> dict | None:
             "headline": _clean(headline)[:300], "why": _clean(why)[:400]}
 
 
+def regulator_item(post, score, headline: str = "", why: str = "") -> dict | None:
+    """The Tech Desk's score for a CCI, CERT-In or DGFT document, as the official stream's item
+    (the national desk sends the same document under the same id), so the website shows the
+    Tech Desk's score beside the others. Switch: "site: tech_regulator_scores"."""
+    key = getattr(post, "doc_key", "")
+    if not key or not post.handle.startswith("REG ") or _cfg().get("tech_regulator_scores", True) is False:
+        return None
+    from types import SimpleNamespace                                  # noqa: PLC0415
+    doc = SimpleNamespace(id=key, handle=post.handle[4:], text=post.text, url=post.url)
+    return official_item(doc, score, headline, why)
+
+
 def tech_sources(cfg: dict) -> list:
     sources = cfg.get("sources") or {}
     return sorted(("tech", entry["name"]) for entry in (sources.get("rss") or []) + (sources.get("pages") or []))
