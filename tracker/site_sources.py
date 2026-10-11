@@ -24,6 +24,8 @@ More pages and feeds, added 2026-10-11, need no code of their own: each is one l
     home_only: true  read by the Mac's copy (run-watch.sh, WATCH_HOME=1), never on GitHub: for
                      sites that refuse GitHub and Cloudflare alike (ECI, Lokpal, NCB...)
     reader: eci      the site gives its list as data, read by a function below (HOME_READERS)
+    new_ids: true    with "ai: true", for a source that used to count every row: fresh ids, so
+                     its current list goes in quietly under the scored source
     ai: true         a busy page: each NEW row is scored by the AI against "site: newsworthy"
                      and handed over in the official stream with its score, so people's
                      score bar applies (website.known() says which rows are new, so each row
@@ -551,7 +553,9 @@ def run(dry_run: bool = False) -> int:
             continue
         print(f"  {label}: {len(found)} row(s)" + ("  [AI]" if m.get("ai") else ""))
         for row in found:
-            item = {"id": f"site:{m['source']}|{row['key']}"[:300], "grp": grp, "source": m["source"], "sub": m.get("sub") or "",
+            # "new_ids": a source moved from every-row to AI scoring takes ids of its own, so its
+            # list goes in afresh (quietly) under the scored source
+            item = {"id": f"site:{'ai:' if m.get('new_ids') else ''}{m['source']}|{row['key']}"[:300], "grp": grp, "source": m["source"], "sub": m.get("sub") or "",
                     "title": row["title"][:500], "body": row.get("detail", "")[:1500], "url": row.get("url", ""),
                     "issued": f"{row['date']:%b} {row['date'].day}, {row['date'].year}" if row.get("date") else "",
                     "date": row["date"].isoformat() if row.get("date") else "",

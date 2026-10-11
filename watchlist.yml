@@ -1022,10 +1022,11 @@ site:
     - {source: PPAC, url: "https://ppac.gov.in/", match: "download\\.php\\?file=(importantnews|rep_studies)/", exclude: "^RSP of (Petrol|Diesel) in Delhi|advertisement|tender"}
     - {source: PFRDA, url: "https://www.pfrda.org.in/", match: "/en/web/pfrda/w/", ai: true}
     - {source: IFSCA, url: "https://ifsca.gov.in/", match: "/(PressRelease|Legal|ReportPublication)/Index", ai: true}
-    # --- Courts and watchdogs
-    - {source: Supreme Court, sub: Judgments, url: "https://www.sci.gov.in/", match: "/view-pdf/\\?diary_no=.*from=latest_judg"}
+    # --- Courts and watchdogs (Supreme Court judgments and NCLAT judgments AI-scored from
+    # 2026-10-11, the user's choice; the Supreme Court's notices still count every row)
+    - {source: Supreme Court, sub: Judgments, url: "https://www.sci.gov.in/", match: "/view-pdf/\\?diary_no=.*from=latest_judg", ai: true, new_ids: true}
     - {source: Supreme Court, sub: Notices, url: "https://www.sci.gov.in/", match: "s3waas\\.gov\\.in/.+/uploads/", exclude: "listing notices|cause ?list|chamber matters|oral mentioning|nodal officer|court nos?\\.|parking|vacation"}
-    - {source: NCLAT, sub: Judgments, url: "https://nclat.nic.in/", match: "view_order_pdf\\?.*order_type=J", min: 10}
+    - {source: NCLAT, sub: Judgments, url: "https://nclat.nic.in/", match: "view_order_pdf\\?.*order_type=J", min: 10, ai: true, new_ids: true}
     - {source: NCLT, url: "https://nclt.gov.in/", match: "/sites/default/files/", exclude: "cause ?list|defect|pendency|celebrat|swachh|maintenance|disruption|power supply|shifting|closure|court no|sitting|relocation|nasha|tiranga", ai: true}
     - {source: Law Commission, url: "https://lawcommissionofindia.nic.in/", match: "/document/|/uploads/20", exclude: "internship|consultant|CPIO|transparency officer"}
     - {source: CAG, sub: Audit reports, url: "https://cag.gov.in/en/audit-report", match: "/en/audit-report/details/\\d+"}
