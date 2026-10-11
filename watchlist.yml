@@ -992,6 +992,9 @@ site:
   # The Tech Desk's scores for CCI, CERT-In and DGFT documents also go to the website,
   # beside the national desk's (no extra AI requests). Added 2026-10-11. false = not.
   tech_regulator_scores: true
+  # A company's newsroom post about a story the Tech Desk already emailed still goes to the
+  # website (scored, never emailed again). Added 2026-10-11. false = dropped, as before.
+  keep_emailed_newsroom: true
 
   # Pages read ONLY for the website, never emailed (tracker/site_sources.py),
   # for the aviation and corporate-affairs reporter. Remove a line to stop

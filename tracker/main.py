@@ -325,7 +325,19 @@ async def run(dry_run: bool) -> int:
 
     candidates = judge.prefilter(fresh, cfg)
     # Stories already emailed do not need scoring or sending a second time.
+    screened = candidates
     candidates = judge.drop_already_alerted(candidates, state)
+    # ...by email. A company's own post about one still goes to the website, scored like any
+    # other and never emailed (site: keep_emailed_newsroom, added 2026-10-11): someone who
+    # follows only that company would otherwise never see it.
+    site_only = []
+    if website.enabled() and website._cfg().get("keep_emailed_newsroom", True) is not False:
+        kept_ids = {p.id for p in candidates}
+        site_only = [p for p in screened if p.id not in kept_ids and website.tech_item(p, None)]
+        if site_only:
+            print(f"  {len(site_only)} newsroom post(s) about stories already emailed: for the website only")
+    site_ids = {p.id for p in site_only}
+    candidates = candidates + site_only
     # A news report of a story already waiting for the digest adds nothing.
     # Only reports are checked: a filing about it must still go straight out.
     waiting = [_queued_post(e) for e in state.get("news_queue") or []]
@@ -375,12 +387,16 @@ async def run(dry_run: bool) -> int:
             return 2
         record_dead_models(state, newly_dead)
         # Primary sources first, best score within each.
-        newsworthy = sorted((r for r in judged if r[1] >= threshold),
+        newsworthy = sorted((r for r in judged if r[1] >= threshold and r[0].id not in site_ids),
                             key=lambda r: (sources.tier(r[0].handle), -r[1]))
+        unscreened = [p for p in unscreened if p.id not in site_ids]
         for post, value, headline, _ in judged:
-            mark = "SEND" if value >= threshold else "skip"
+            mark = "site" if post.id in site_ids else "SEND" if value >= threshold else "skip"
             print(f"  [{mark}] {value:.0f}/10 {post.handle}: {headline}")
-        score_log.note_rows("tech", judged, threshold)
+        score_log.note_rows("tech", [r for r in judged if r[0].id not in site_ids], threshold)
+        for post, value, headline, why in judged:
+            if post.id in site_ids:
+                score_log.note("tech", post, "website only", value, headline, why)
         # The website: every newsroom post judged, sent or not (website.py drops news reports)
         website.send("tech", [i for i in (website.tech_item(*r) for r in judged) if i], view="tech",
                      sources=website.tech_sources(cfg), dry_run=dry_run,
