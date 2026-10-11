@@ -8675,8 +8675,8 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-11T12:36:38.284625+00:00",
-    "pib_mark": 2321986,
+    "last_run": "2026-10-11T12:50:01.881892+00:00",
+    "pib_mark": 2321988,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -9176,7 +9176,8 @@
       "pib:2321926",
       "pib:2321939",
       "pib:2321985",
-      "pib:2321986"
+      "pib:2321986",
+      "pib:2321988"
     ],
     "source_failures": {},
     "sources": [
@@ -9189,9 +9190,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791202459425",
-    "1791202470555",
-    "1791208200411",
     "1791208740041",
     "1791168816886",
     "1791186825353",
@@ -13571,7 +13569,6 @@
     "1791615144577",
     "1791615466884",
     "1791620054442",
-    "1791645459943",
     "1791646200738",
     "1791616050344",
     "1791616080597",
@@ -13700,7 +13697,6 @@
     "1791677808063",
     "1791705865409",
     "1791713986284",
-    "1790861668785",
     "1791634153802",
     "1791634217226",
     "1791643276604",
@@ -13710,14 +13706,20 @@
     "1791703268892",
     "1791704054333",
     "1791708586284",
-    "1791713820557",
     "1791635078575",
     "1791653128359",
     "1791688253297",
-    "1791703868692",
-    "1791708941045",
-    "1791710812925",
     "1791715706927",
+    "1791177453902",
+    "1791635969741",
+    "1791635989165",
+    "1791639766921",
+    "1791673517606",
+    "1791703868386",
+    "1791708248477",
+    "1791710812417",
+    "1791716401209",
+    "1791721220946",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14805,6 +14807,7 @@
     "1790859441304",
     "1790859649759",
     "1790859654879",
+    "1790861668785",
     "1790864164257",
     "1790866800749",
     "1790867007268",
@@ -14829,7 +14832,6 @@
     "1791172370889",
     "1791172424692",
     "1791177322592",
-    "1791177453902",
     "1791180147246",
     "1791182930422",
     "1791183711776",
@@ -14978,21 +14980,19 @@
     "1791552963003",
     "1791555502485",
     "1791570600561",
-    "1791635969741",
-    "1791635989165",
     "1791636408828",
     "1791637500531",
     "1791637882984",
     "1791638094692",
     "1791638220622",
     "1791639480590",
-    "1791639766921",
     "1791641140544",
     "1791641672311",
     "1791643631330",
     "1791644593043",
     "1791645157095",
     "1791645420871",
+    "1791645459943",
     "1791646200219",
     "1791648134629",
     "1791648759073",
@@ -15022,7 +15022,6 @@
     "1791667807358",
     "1791668871762",
     "1791670217780",
-    "1791673517606",
     "1791676331013",
     "1791676800613",
     "1791677320639",
@@ -15088,7 +15087,7 @@
     "1791703380743",
     "1791703384406",
     "1791703864932",
-    "1791703868386",
+    "1791703868692",
     "1791704093100",
     "1791704584886",
     "1791704668207",
@@ -15100,23 +15099,24 @@
     "1791707368665",
     "1791707839668",
     "1791707949518",
-    "1791708248477",
     "1791708288360",
     "1791708567034",
     "1791708930173",
+    "1791708941045",
     "1791708972374",
     "1791709080187",
     "1791709229773",
     "1791709299079",
     "1791709547524",
     "1791709894872",
-    "1791710812417",
+    "1791710812925",
     "1791711581917",
     "1791711604646",
     "1791711674058",
     "1791711900714",
     "1791713208559",
     "1791713558936",
+    "1791713820557",
     "1791714095813",
     "1791714256188",
     "1791714363017",
@@ -15126,7 +15126,7 @@
     "1791715595554",
     "1791716164524",
     "1791716168808",
-    "1791716401209",
+    "1791716401482",
     "1791716508802",
     "1791716580452",
     "1791716819008",
@@ -15135,7 +15135,8 @@
     "1791719092184",
     "1791719182410",
     "1791720403263",
-    "1791721220946",
+    "1791721220380",
+    "1791721833111",
     "2317509",
     "2317615",
     "2317714",
@@ -15191,7 +15192,7 @@
     "2321853"
   ],
   "last_digest_hour": "2026-10-11T18",
-  "last_success": "2026-10-11T12:32:01.753215+00:00",
+  "last_success": "2026-10-11T12:46:49.162086+00:00",
   "national": {
     "alerted": [
       {
@@ -21368,10 +21369,9 @@
       },
       "warned": "2026-10-10T20:19:58.349393+00:00"
     },
-    "last_run": "2026-10-11T12:36:30.657368+00:00",
-    "pib_mark": 2321986,
+    "last_run": "2026-10-11T12:49:57.696200+00:00",
+    "pib_mark": 2321988,
     "seen": [
-      "pib:2311551",
       "gazette:CG-DL-E-17092026-276292",
       "pib:2311557",
       "pib:2311571",
@@ -24370,7 +24370,8 @@
       "pib:2321939",
       "pib:2321985",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-the-launch-of-development-projects-in-chennai",
-      "pib:2321986"
+      "pib:2321986",
+      "pib:2321988"
     ],
     "source_failures": {
       "CBI": {
@@ -24416,7 +24417,26 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Genpact orders probe after employees allege workplace harassment and bias",
+      "post": {
+        "created_at": "2026-10-11T12:30:33+00:00",
+        "handle": "News: Global IT services",
+        "id": "1791721833111",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "News18",
+        "reposts": 0,
+        "text": "\u201814-Hour Shifts, Gender Bias\u2019: Genpact Employees Allege Workplace Harassment, Company Orders Probe",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmVnb3JJNTRBVUhld19FUWJ2SFBpZVo4VG9rbEFJTGFTYUdTaGtETUppVi02aTJrZVJZbjcteEhvcTcxalNiNnM2TnIybEdrczFfZ3d2RnZHSWphYmZma3VvRU15RjZQdldFdVJtV2U5TW9lb1lIQ1gwakI0YmRKM1RDeUVJTlF0S0tHcGtucFdwOFlUU0hXSW9ZSEJ3ZUNDTDJ2YnNweDZpcnM4Rk9CT2gxN2Z0Z2VxZ1dWaTBzc3F4a3I1bE00Qm1hNF9yanBuMTVCbDBNaGjSAd4BQVVfeXFMT05vZXVDYk5hSUZtd1dRQkJRTjlPM2ptaFp2d0RDYWVPSDNYQmE4d3oxWUM4VWVIcXI1MjhwUHFUTHA1T2pMbDUxRmRvQUpMdWVDRUpYdjBTR0ZQdmRETmRDMnpHNEh5LUY2dW9TQXZSWERxZmRHbXEwenpzY1NwNkRTQi1ncUVjSUIybzlVeDAwMDVFcmdYaEItSlhZT001clRYUHhlRFlMN19UYVBmQXJIMW1PcmQ1eEtMblpSZ0NNYXpiOFVoUG5IR3FBUVRDOXhWdkgwZlJiZXlwb1d3?oc=5"
+      },
+      "queued_at": "2026-10-11T12:46:49.080281+00:00",
+      "score": 7.0,
+      "why": "Major Indian IT services firm faces workplace harassment allegations and launches an internal probe."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25507,7 +25527,7 @@
     "news: consumer internet india": 1791714557628,
     "news: global ai": 1791716819008,
     "news: global chips": 1791719182410,
-    "news: global it services": 1791718544497,
+    "news: global it services": 1791721833111,
     "news: india ai deeptech": 1791719092184,
     "news: india edtech gaming": 1791718245458,
     "news: india fintech": 1791708567034,
@@ -25564,7 +25584,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-11T12:32:02.040489+00:00",
+    "last_server_run": "2026-10-11T12:46:49.523916+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-11T12:17:53.524493+00:00",
