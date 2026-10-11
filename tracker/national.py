@@ -980,10 +980,20 @@ def _prid(post) -> int:
 
 def run(dry_run: bool, desk: dict = NATIONAL) -> int:
     recipient = desk["recipient"]
-    cfg = (yaml.safe_load(WATCHLIST.read_text()) or {}).get(desk["section"]) or {}
+    whole = yaml.safe_load(WATCHLIST.read_text()) or {}
+    cfg = whole.get(desk["section"]) or {}
     if not cfg:
         print(f"No '{desk['section']}:' section in watchlist.yml -- nothing to do.")
         return 0
+    # "site_extra": the national desk's feeds and pages this desk also scores, for the website
+    # only -- a beat reporter's score beside the general one. Never emailed from here.
+    site_only: set = set()
+    if cfg.get("site_extra") and website.enabled():
+        wanted, cfg = set(cfg["site_extra"]), dict(cfg)
+        for kind in ("feeds", "pages"):
+            extra = [e for e in (whole.get("national") or {}).get(kind) or [] if e.get("name") in wanted]
+            cfg[kind] = list(cfg.get(kind) or []) + extra
+            site_only |= {e["name"] for e in extra}
     if not dry_run and not os.environ.get(recipient, "").strip():
         print(f"No {recipient} secret set yet, so there is nobody to send to. "
               f"Skipping -- add the secret to switch this on.")
@@ -1107,14 +1117,15 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
             rows += judged_rows           # the earthquakes are already in here
             settled |= judged
 
-    picks = [r for r in rows if r[1] >= _bar(r[0], cfg)]
+    web = lambda post: getattr(post, "source", "") in site_only     # scored for the website only
+    picks = [r for r in rows if r[1] >= _bar(r[0], cfg) and not web(r[0])]
     # Earthquakes are not the AI's judgement, so they are not in its record.
     for post, value, headline, why in rows:
         if not post.handle.startswith("Quake "):
-            score_log.note(desk["log"], post, "sent" if value >= _bar(post, cfg) else "not sent",
-                           value, headline, why)
+            score_log.note(desk["log"], post, "website only" if web(post) else
+                           "sent" if value >= _bar(post, cfg) else "not sent", value, headline, why)
     for post, value, headline, _ in sorted(rows, key=lambda r: -r[1]):
-        mark = "SEND" if value >= _bar(post, cfg) else "skip"
+        mark = "site" if web(post) else "SEND" if value >= _bar(post, cfg) else "skip"
         print(f"  [{mark}] {value:.0f}/10 {_badge(post)[1]} {_issuer(post)[:30]}: "
               f"{headline or _original(post)[:80]}")
 

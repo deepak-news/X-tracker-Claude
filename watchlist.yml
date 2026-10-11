@@ -948,6 +948,12 @@ bureau:
   gazette: true        # every extraordinary gazette, from egazette.gov.in
   earthquakes: false   # the Tweets desk handles earthquakes
 
+  # For the website only (added 2026-10-11, the user's choice): these national-desk
+  # sources are also scored by this desk, so a beat reporter's score sits beside the
+  # general one. Nothing from them is ever emailed to the bureau head. Remove a name
+  # (or the whole list) to stop.
+  site_extra: [MHA, PMO, NITI Aayog, President of India, "State: Telangana", "State: Uttar Pradesh"]
+
 
 # ======================================================================
 #  THE WEBSITE: PTI Source Alerts
@@ -974,6 +980,10 @@ site:
   # website offers every gazette, ministry by ministry, under the official
   # stream's "Gazette" instead. true = send the watches' rows to it as well.
   watch_gazette: false
+  # Parliament as lists people tick one by one (bills, committee meetings, committee
+  # reports, press releases, papers laid, Rajya Sabha notices, the day's agenda and
+  # bulletins), added 2026-10-11. false = one Parliament source, as before.
+  parliament_lists: true
 
   # Pages read ONLY for the website, never emailed (tracker/site_sources.py),
   # for the aviation and corporate-affairs reporter. Remove a line to stop

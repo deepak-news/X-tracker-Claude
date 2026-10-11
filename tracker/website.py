@@ -359,8 +359,27 @@ def _gazette_watch(name: str = "", key: str = "") -> bool:
     return (name.startswith("e-Gazette") or str(key).startswith("gazette:")) and not _cfg().get("watch_gazette")
 
 
+# Parliament's lists, so people can tick only some (switch "site: parliament_lists"; added
+# 2026-10-11): the part of a row's key before ":" (sansad.py) -> the list it shows under.
+PARLIAMENT_LISTS = {"bill": "Bills", "meeting": "Committee meetings", "report": "Committee reports",
+                    "pr": "Press releases", "notice": "Rajya Sabha notices", "papers": "Papers laid",
+                    "lob": "Agenda, bulletins and synopsis", "bulletin": "Agenda, bulletins and synopsis",
+                    "synopsis": "Agenda, bulletins and synopsis"}
+
+
+def _parliament_lists() -> bool:
+    return _cfg().get("parliament_lists", True) is not False
+
+
 def watch_sources(names) -> list:
-    return [("watch", *watch_source(name)) for name in names if not _gazette_watch(name=name)]
+    out = []
+    for name in names:
+        if _gazette_watch(name=name):
+            continue
+        source, sub = watch_source(name)
+        out.append(("watch", source, sorted(set(PARLIAMENT_LISTS.values())))
+                   if source == "Parliament" and _parliament_lists() else ("watch", source, sub))
+    return out
 
 
 def watch_items(items) -> list:
@@ -379,6 +398,8 @@ def watch_source(name: str) -> tuple:
 
 def watch_item(item) -> dict:
     source, sub = watch_source(item.source)
+    if source == "Parliament" and _parliament_lists():
+        sub = PARLIAMENT_LISTS.get(str(item.key).split(":")[0], "")
     body = _clean(item.detail)
     if item.lines:
         body = (body + " " + " | ".join(_clean(line) for line in item.lines[:12])).strip()
