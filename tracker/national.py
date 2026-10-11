@@ -567,8 +567,11 @@ def quakes(cfg: dict) -> list:
     return [_quake_post(row) for row in sorted(kept, key=lambda r: r["when"])]
 
 
-def collect(cfg: dict, scanned: set, memory: dict | None = None) -> tuple:
+def collect(cfg: dict, scanned: set, memory: dict | None = None, report: list | None = None) -> tuple:
     """Returns (posts, names of sources that failed).
+
+    report, if given, gets (reader name, error or None) for every source, read or resting,
+    for the website's "last read" line beside each source.
 
     Every post is tagged with the source it came from, so a source added to
     the config later can be introduced quietly rather than all at once.
@@ -604,12 +607,17 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None) -> tuple:
         if record.get("until") and dt.datetime.fromisoformat(record["until"]) > now and not free:
             print(f"  {name}: resting after {record.get('count')} failed runs, "
                   f"tried again after {record['until'][11:16]} UTC")
+            if report is not None:
+                report.append((name, RuntimeError(f"not read: failed {record.get('count')} runs in a row, "
+                                                  f"so it is tried again every few hours")))
             continue
         jobs.append((name, lambda name=name, read=read: watch._try(name, read)))
 
     # several sites at once (parallel.py); the results come back in the usual order
     for name, found, exc in parallel.run(jobs):
         record = health.get(name) or {}
+        if report is not None:
+            report.append((name, exc))
         if exc is None:
             print(f"  {name}: {len(found)} item(s)")
             for post in found:
@@ -992,7 +1000,8 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
     first_ever = not seen_list
 
     print(f"Reading official sources for the {desk['name']}...")
-    posts, failed = collect(cfg, scanned, memory)
+    report: list = []
+    posts, failed = collect(cfg, scanned, memory, report)
     # Every source on the failure list counts as down, including one resting
     # this run after failing repeatedly -- resting is not recovering.
     source_health.check(
@@ -1118,7 +1127,8 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
     # about what is decided there, by each reporter's own bar (website.py).
     website.send(desk["memory"], [website.official_item(*r) for r in rows if r[0].id not in old],
                  view=desk["memory"], sources=website.official_sources(cfg, PIB_MINISTRIES),
-                 failed=failed, dry_run=dry_run)
+                 failed=failed, dry_run=dry_run,
+                 status=website.status("official", report, website.official_name))
 
     if picks and not dry_run and email_out.pressure(recipient) == "tight":
         major = [r for r in picks if r[1] >= 9]

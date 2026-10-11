@@ -871,7 +871,10 @@ def run(dry_run: bool) -> int:
 
     # The website gets every new row too, whoever its email goes to (website.py)
     website.send("watch", website.watch_items(fresh), dry_run=dry_run,
-                 sources=website.watch_sources(worked + failed), failed=failed)
+                 sources=website.watch_sources(worked + failed), failed=failed,
+                 status=[st for st in website.status("watch", [(n, None) for n in worked] +
+                                                     [(n, RuntimeError("could not be read this run")) for n in failed],
+                                                     lambda n: "" if website._gazette_watch(name=n) else website.watch_source(n)[0])])
 
     # One email per recipient list, each under its own name: a watch can set
     # "mail_name"; otherwise the government watch's name from mail_names.

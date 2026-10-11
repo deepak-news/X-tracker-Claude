@@ -275,6 +275,11 @@ async def run(dry_run: bool) -> int:
         where="The reason is in the log of any recent run on GitHub (Actions tab, "
               "step \"Check the news sources and send any alerts\").",
         dry_run=dry_run)
+    # The website's "last read" line beside each newsroom, every run (website.py)
+    tech_names = website.tech_sources(cfg)
+    website.send("tech", [], sources=tech_names, dry_run=dry_run,
+                 status=[(g, name, name not in failed, "could not be read this run" if name in failed else "")
+                         for g, name in tech_names])
 
     # Work out what is genuinely new, per account. The new high-water marks
     # are held back until the whole run succeeds -- if scoring or email fails

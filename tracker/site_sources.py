@@ -21,6 +21,9 @@ More pages and feeds, added 2026-10-11, need no code of their own: each is one l
     {source: White House, feed: "https://www.whitehouse.gov/news/feed/", ai: true}
         an RSS or Atom feed; "only" keeps entries whose title matches
     relay: true      read through the mea-relay Worker on Cloudflare (sites refusing GitHub)
+    home_only: true  read by the Mac's copy (run-watch.sh, WATCH_HOME=1), never on GitHub: for
+                     sites that refuse GitHub and Cloudflare alike (ECI, Lokpal, NCB...)
+    reader: eci      the site gives its list as data, read by a function below (HOME_READERS)
     ai: true         a busy page: each NEW row is scored by the AI against "site: newsworthy"
                      and handed over in the official stream with its score, so people's
                      score bar applies (website.known() says which rows are new, so each row
@@ -44,6 +47,7 @@ import hashlib
 import html
 import io
 import json
+import os
 import re
 import sys
 from urllib.parse import quote, urljoin
@@ -65,7 +69,7 @@ def _clean(text) -> str:
 
 
 def _get(url: str, **kw):
-    response = requests.get(url, headers=HEADERS, timeout=TIMEOUT, **kw)
+    response = requests.get(url, **{"headers": HEADERS, "timeout": TIMEOUT, **kw})
     response.raise_for_status()
     # a page that names no character set is read as Latin-1, which garbles "Air India's"
     if (response.encoding or "").lower() in ("", "iso-8859-1"):
@@ -333,6 +337,8 @@ def _page_rows(entry) -> list:
 
 
 def read_more(entry) -> list:
+    if entry.get("reader"):
+        return HOME_READERS[entry["reader"]]()
     return _feed_rows(entry) if entry.get("feed") else _page_rows(entry)
 
 
@@ -388,6 +394,73 @@ def _screen(items: list, dry_run: bool) -> list:
     return out
 
 
+# ---------------------------------------------------------------- sites only the Mac can read
+
+ECI_API = "https://www.eci.gov.in/eci-backend/public/api/"
+# ECI's page encrypts each request parameter with a key in its own script ("4WS8851W824R456Y",
+# AES-128, ECB, PKCS7, then base64). The two this step sends never change, so they are kept
+# already encrypted: "11" (Press Releases) and "20" (how many).
+ECI_PRESS = "Y6fPfuS/XeuZJeu7qk0stw=="
+ECI_TWENTY = "qr1Y7/+72uof/ZFDh7O8Kw=="
+
+
+def eci() -> list:
+    """Press releases: the list ECI's "Press Releases" tab shows (category 11)."""
+    data = _get(ECI_API + "get-event", params={"categories": ECI_PRESS, "limit": ECI_TWENTY}).json()
+    rows = []
+    for doc in (data.get("results") or {}).get("data") or []:
+        files = doc.get("document_attachments") or []
+        when = None
+        found = re.search(r"(\d{1,2} \w{3} \d{4})", str(doc.get("date_of_creation") or ""))
+        if found:
+            when = _day(found.group(1), "%d %b %Y")
+        title = _clean(doc.get("document_title"))
+        if title.upper() == "PRESS NOTE":
+            title = "Press note" + (f" of {when:%b} {when.day}, {when.year}" if when else "")
+        if title:
+            rows.append({"key": f"eci:{doc.get('id')}", "title": title, "detail": "",
+                         "url": files[0].get("record_location") if files else "https://www.eci.gov.in/issue-details-page/press-releases",
+                         "date": when})
+    if not rows:
+        raise RuntimeError("nothing in ECI's press releases (the site may have changed)")
+    return rows
+
+
+def ncb() -> list:
+    """NCB's press releases, English ones (its site lists the Hindi versions too)."""
+    rows = []
+    for doc in _get("https://ncb.gov.in/backend/press-releases", headers={**HEADERS, "Accept": "application/json"}).json():
+        if (doc.get("langcode") or "English") != "English" or not doc.get("title"):
+            continue
+        path = doc.get("field_document") or ""
+        rows.append({"key": f"ncb:{path or doc['title'][:80]}", "title": _clean(doc["title"]), "detail": "",
+                     "url": urljoin("https://ncb.gov.in/", path) if path else "https://ncb.gov.in/media/press-releases",
+                     "date": _day(str(doc.get("field_date") or ""), "%Y-%m-%d")})
+    if not rows:
+        raise RuntimeError("nothing in NCB's press releases (the site may have changed)")
+    return rows[:40]
+
+
+def lokpal() -> list:
+    """Lokpal's circulars and notifications."""
+    data = _get("https://lokpal.gov.in/api/admin/website/circulars").json()
+    rows = []
+    for doc in data.get("data") or []:
+        pdf = (doc.get("pdf") or [""])[0]
+        title = _clean(doc.get("subject"))
+        if title:
+            rows.append({"key": f"lokpal:{doc.get('id')}", "title": title, "detail": _clean(doc.get("subject_related_to")),
+                         "url": f"https://lokpal.gov.in/api/admin/website/pdf?path={quote(pdf, safe='')}" if pdf
+                         else "https://lokpal.gov.in/circulars-notifications",
+                         "date": _day(str(doc.get("issued_on_date") or ""), "%Y-%m-%d")})
+    if not rows:
+        raise RuntimeError("nothing in Lokpal's circulars (the site may have changed)")
+    return rows
+
+
+HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal}
+
+
 # ---------------------------------------------------------------- WHO
 
 WHO_DON = "https://www.who.int/api/news/diseaseoutbreaknews"
@@ -424,14 +497,16 @@ READERS = {
 
 
 def run(dry_run: bool = False) -> int:
-    names = website._cfg().get("pages") or []
-    more = [m for m in website._cfg().get("more") or [] if m.get("source") and (m.get("url") or m.get("feed"))]
+    home = os.environ.get("WATCH_HOME") == "1"          # the Mac's copy (run-watch.sh)
+    names = [] if home else website._cfg().get("pages") or []
+    more = [m for m in website._cfg().get("more") or []
+            if m.get("source") and (m.get("url") or m.get("feed") or m.get("reader")) and bool(m.get("home_only")) == home]
     if not website.enabled() or not (names or more):
         print("No website-only pages to read (\"site:\" in watchlist.yml).")
         return 0
     print("Reading the pages kept for the website only...")
     old = dt.datetime.now(IST).date() - dt.timedelta(days=MAX_AGE_DAYS)
-    items, failed, catalogue = [], [], set()
+    items, failed, catalogue, status = [], [], set(), []
     for name in names:
         if name not in READERS:
             print(f"  ! {name}: not a page this step knows")
@@ -444,7 +519,9 @@ def run(dry_run: bool = False) -> int:
         except Exception as exc:                                      # noqa: BLE001
             print(f"  ! {label} failed: {str(exc)[:160]}")
             failed.append(label)
+            status.append((label, source, exc))
             continue
+        status.append((label, source, None))
         print(f"  {label}: {len(rows)} row(s)")
         for row in rows:
             items.append({"id": f"site:{row['key']}"[:300], "grp": "watch", "source": source, "sub": sub,
@@ -462,6 +539,7 @@ def run(dry_run: bool = False) -> int:
     for m, (label, found, exc) in zip(more, parallel.run(jobs)):
         grp = "official" if m.get("ai") else "watch"
         catalogue.add((grp, m["source"], m["sub"]) if m.get("sub") else (grp, m["source"]))
+        status.append((label, m["source"], exc, grp))
         if exc is not None:
             print(f"  ! {label} failed: {str(exc)[:160]}")
             failed.append(label)
@@ -477,7 +555,14 @@ def run(dry_run: bool = False) -> int:
         if dry_run:
             for row in found[:3]:
                 print(f"      {row.get('date') or ''} {row['title'][:90]}  {row.get('url', '')[:80]}")
-    website.send("site", items, sources=sorted(catalogue), failed=failed, all_listed=True, dry_run=dry_run)
+    # each source's reading, for the "last read" line beside it on the website
+    by_group: dict = {}
+    for entry in status:
+        label, source, exc, grp = entry if len(entry) == 4 else (*entry, "watch")
+        by_group.setdefault(grp, []).append((source, exc))
+    report = [st for grp, results in by_group.items() for st in website.status(grp, results, lambda n: n)]
+    website.send("site", items, sources=sorted(catalogue), failed=failed, all_listed=True, dry_run=dry_run,
+                 status=report)
     judged = _screen(screened, dry_run)
     if judged:
         # the national bureau's view: "for a beat reporter"

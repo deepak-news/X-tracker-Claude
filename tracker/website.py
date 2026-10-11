@@ -65,13 +65,18 @@ def _auth() -> str:
 
 
 def send(origin: str, items: list, *, view: str = "", sources: list | None = None,
-         failed: list | None = None, all_listed: bool = False, dry_run: bool = False) -> None:
+         failed: list | None = None, all_listed: bool = False, dry_run: bool = False,
+         status: list | None = None) -> None:
     """One hand-off. origin names the step ("national", "bureau", "tech", "watch", "site").
 
     sources: every (group, source) the step reads -- or (group, source, its lists or
     ministries) -- so the website can offer a source, or PIB's Ministry of Civil Aviation,
     before it has published anything. all_listed: the items are everything the pages list,
     not only what is new; the website works out what is new (site_sources.py).
+
+    status: how each source's reading went this run, [(group, source, ok, why)] -- the
+    website shows people when each source was last read and since when one has been
+    failing (status(), below, builds these).
     """
     if not enabled():
         return
@@ -84,7 +89,7 @@ def send(origin: str, items: list, *, view: str = "", sources: list | None = Non
     if dry_run:
         print(f"  (dry run) would hand {len(items)} item(s) to the website")
         return
-    if not items and not sources and not failed:
+    if not items and not sources and not failed and not status:
         return
     try:
         auth = _auth()
@@ -99,7 +104,9 @@ def send(origin: str, items: list, *, view: str = "", sources: list | None = Non
                     # the catalogue and failures once is enough
                     "sources": [{"grp": g, "source": s, "subs": sorted(x for x in catalogue[(g, s)] if x)}
                                 for g, s in sources] if n == 0 else [],
-                    "failed": (failed or []) if n == 0 else []}
+                    "failed": (failed or []) if n == 0 else [],
+                    "status": [{"grp": g, "source": src, "ok": bool(ok), "why": str(why or "")[:200]}
+                               for g, src, ok, why in (status or [])] if n == 0 else []}
             answer = requests.post(url, json=body, timeout=TIMEOUT,
                                    headers={"Authorization": auth, "User-Agent": "news-tracker"})
             answer.raise_for_status()
@@ -128,6 +135,39 @@ def known(ids: list, sources: list) -> dict | None:
     except Exception as exc:                                          # noqa: BLE001
         print(f"  ! could not ask the website what it already has ({str(exc)[:160]})")
         return None
+
+
+def status(group: str, results, name_of) -> list:
+    """[(group, source, ok, why)] from one step's [(reader name, error or None)]; name_of turns a
+    reader's name into the source people see ("PIB, all ministries" -> "PIB"). Two readers of
+    one source (RBI's press releases and notifications) report as one: failing if either did."""
+    out: dict = {}
+    for name, exc in results:
+        source = name_of(name)
+        if not source:
+            continue
+        ok, why = out.get(source, (True, ""))
+        if exc is not None:
+            ok, why = False, "; ".join(x for x in (why, f"{name}: {str(exc)[:120]}") if x)
+        out[source] = (ok, why)
+    return [(group, source, ok, why) for source, (ok, why) in out.items()]
+
+
+def official_name(name: str) -> str:
+    """A national-desk reader's name -> its source on the website."""
+    if name.startswith("PIB"):
+        return "PIB"
+    if name.startswith("Gazette"):
+        return "Gazette"
+    if name.startswith("Earthquakes"):
+        return "Earthquakes"
+    if name.startswith("State: "):
+        return "States"
+    if name in MEA_LISTS:
+        return "MEA"
+    if name.startswith("RBI"):
+        return "RBI"
+    return name
 
 
 # ---------------------------------------------------------------- what each item is
