@@ -533,6 +533,8 @@ def quakes(cfg: dict) -> list:
     world = float(settings.get("min_magnitude", 5))
     india = float(settings.get("india_min_magnitude", 4.5))
     near = float(settings.get("neighbour_min_magnitude", world))
+    # smaller quakes in India go to the website only (site_india_min_magnitude, added 2026-10-11)
+    site_india = float(settings.get("site_india_min_magnitude", india)) if website.enabled() else india
     hours = float(cfg.get("max_age_hours", 12))
 
     found, networks = [], 0
@@ -553,7 +555,9 @@ def quakes(cfg: dict) -> list:
         if row["when"] < cutoff:
             continue
         if row["magnitude"] < bar[row["region"]]:
-            continue
+            if not (row["region"] == "india" and row["magnitude"] >= site_india):
+                continue
+            row["site_only"] = True
         big.append(row)
 
     # The same tremor is on both feeds. Keep the network whose patch it is
@@ -564,7 +568,12 @@ def quakes(cfg: dict) -> list:
     for row in sorted(big, key=lambda r: (not home(r), r["when"])):
         if not any(_same_quake(row, other) for other in kept):
             kept.append(row)
-    return [_quake_post(row) for row in sorted(kept, key=lambda r: r["when"])]
+    posts = []
+    for row in sorted(kept, key=lambda r: r["when"]):
+        post = _quake_post(row)
+        post.site_only = bool(row.get("site_only"))
+        posts.append(post)
+    return posts
 
 
 def collect(cfg: dict, scanned: set, memory: dict | None = None, report: list | None = None) -> tuple:
@@ -1080,7 +1089,9 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
     # out when it is out of quota, slow, or wrong about what matters.
     tremors = [p for p in fresh if p.handle.startswith("Quake ")]
     fresh = [p for p in fresh if not p.handle.startswith("Quake ")]
-    rows = [(p, 10, p.text.split(". ")[0] + ".", "") for p in tremors]
+    # a smaller India quake kept for the website only scores 6: it reaches people at the
+    # default bar, and an Earthquakes bar of 7 or more leaves it out
+    rows = [(p, 6 if getattr(p, "site_only", False) else 10, p.text.split(". ")[0] + ".", "") for p in tremors]
     settled |= {p.id for p in tremors}
     if tremors:
         print(f"{len(tremors)} earthquake(s) over the threshold -- sent without the AI")
@@ -1120,7 +1131,7 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
             rows += judged_rows           # the earthquakes are already in here
             settled |= judged
 
-    web = lambda post: getattr(post, "source", "") in site_only     # scored for the website only
+    web = lambda post: getattr(post, "source", "") in site_only or getattr(post, "site_only", False)  # website only
     picks = [r for r in rows if r[1] >= _bar(r[0], cfg) and not web(r[0])]
     # Earthquakes are not the AI's judgement, so they are not in its record.
     for post, value, headline, why in rows:

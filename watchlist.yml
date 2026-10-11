@@ -837,6 +837,9 @@ national:
     min_magnitude: 5.7            # anywhere in the world
     india_min_magnitude: 4.5      # inside India
     neighbour_min_magnitude: 4.5  # the neighbouring countries
+    # Quakes in India from this size up to the one above go to the website only (scored
+    # 6 there), never emailed. Added 2026-10-11; remove the line to stop.
+    site_india_min_magnitude: 3.5
 
   # Any other official site that publishes an RSS feed can be added here.
   feeds:
@@ -954,7 +957,7 @@ bureau:
   # (or the whole list) to stop.
   # RBI, SEBI, CCI, DGFT and IRDAI added the same day, for the business reporters.
   site_extra: [MHA, PMO, NITI Aayog, President of India, "State: Telangana", "State: Uttar Pradesh",
-               RBI, RBI notifications, SEBI, IRDAI, CCI, DGFT]
+               RBI, RBI notifications, SEBI, IRDAI, CCI, DGFT, IMD]
 
 
 # ======================================================================
