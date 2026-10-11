@@ -42,7 +42,7 @@ import urllib3
 import yaml
 from bs4 import BeautifulSoup
 
-from . import email_out, sansad, source_health
+from . import email_out, sansad, source_health, website
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 WATCHLIST = ROOT / "watchlist.yml"
@@ -868,6 +868,10 @@ def run(dry_run: bool) -> int:
         print(f"New watch(es) {', '.join(sorted(quiet))}: noting {len(noted)} "
               f"item(s) already listed, sending nothing.")
         fresh = [item for item in fresh if item.source not in quiet]
+
+    # The website gets every new row too, whoever its email goes to (website.py)
+    website.send("watch", [website.watch_item(item) for item in fresh], dry_run=dry_run,
+                 sources=[("watch", *website.watch_source(name)) for name in worked + failed], failed=failed)
 
     # One email per recipient list, each under its own name: a watch can set
     # "mail_name"; otherwise the government watch's name from mail_names.

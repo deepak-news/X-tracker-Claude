@@ -946,3 +946,28 @@ bureau:
   pib: true            # every ministry, from pib.gov.in
   gazette: true        # every extraordinary gazette, from egazette.gov.in
   earthquakes: false   # the Tweets desk handles earthquakes
+
+
+# ======================================================================
+#  THE WEBSITE: PTI Source Alerts
+#  https://pti-source-alerts.ptiinfographics.workers.dev
+#  Every step above also hands what it found to the website -- everything
+#  each desk's AI judged, sent or not, and every new watched row -- where
+#  each reporter picks their own sources, score bar and keywords. The
+#  emails above are not changed by any of this. Added 2026-10-11.
+# ======================================================================
+site:
+  send: true          # false = hand nothing to the website
+  url: "https://pti-source-alerts.ptiinfographics.workers.dev"
+
+  # Pages read ONLY for the website, never emailed (tracker/site_sources.py),
+  # for the aviation and corporate-affairs reporter. Remove a line to stop
+  # reading that page. CCI's antitrust orders and press releases are already
+  # in the official stream (regulators: cci, above).
+  pages:
+    - dgca_comments     # DGCA: draft rules out for public comment
+    - aaib              # AAIB: investigation reports (What's new)
+    - mca_whats_new     # MCA: What's new
+    - mca_updates       # MCA: Important updates
+    - cci_whats_new     # CCI: What's new
+    - ibbi              # IBBI: What's new

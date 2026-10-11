@@ -10,7 +10,7 @@ import sys
 
 import yaml
 
-from . import email_out, judge, score_log, source_health, sources
+from . import email_out, judge, score_log, source_health, sources, website
 from .sources import XUnavailable
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -376,6 +376,10 @@ async def run(dry_run: bool) -> int:
             mark = "SEND" if value >= threshold else "skip"
             print(f"  [{mark}] {value:.0f}/10 {post.handle}: {headline}")
         score_log.note_rows("tech", judged, threshold)
+        # The website: every newsroom post judged, sent or not (website.py drops news reports)
+        website.send("tech", [i for i in (website.tech_item(*r) for r in judged) if i], view="tech",
+                     sources=website.tech_sources(cfg), dry_run=dry_run,
+                     failed=[f for f in failed if ("tech", f) in website.tech_sources(cfg)])
 
     # Original sources go out now. Google News reports wait for the digest.
     held, held_raw = [], []

@@ -25,6 +25,10 @@ concurrency:
 
 permissions:
   contents: write
+  # Lets a step ask GitHub for a token signed by GitHub that says "this is a run of this
+  # repository on main" -- how the website (PTI Source Alerts) knows the items it is handed
+  # are from here, with no shared secret to keep (tracker/website.py).
+  id-token: write
 
 jobs:
   check:
@@ -148,6 +152,22 @@ jobs:
             python -m tracker.parliament_week --dry-run
           else
             python -m tracker.parliament_week
+          fi
+
+      # The fifth: pages read only for the website (PTI Source Alerts), never emailed --
+      # DGCA, AAIB, MCA, CCI and IBBI, for the aviation and corporate-affairs reporter
+      # (site_sources.py; "site: pages:" in watchlist.yml). It needs no memory: the website
+      # knows what it has already been given. MCA refuses anything but a browser, hence
+      # curl_cffi -- installed here only, so a problem installing it touches nothing else.
+      - name: Check the website-only pages
+        if: always() && inputs.mode != 'test-email'
+        timeout-minutes: 5
+        run: |
+          pip install --quiet "curl_cffi>=0.7" || echo "curl_cffi did not install; MCA is skipped this run"
+          if [ "${{ inputs.mode }}" = "dry-run" ]; then
+            python -m tracker.site_sources --dry-run
+          else
+            python -m tracker.site_sources
           fi
 
       - name: Remember what we have already seen

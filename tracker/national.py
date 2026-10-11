@@ -33,7 +33,7 @@ import yaml
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
-from . import email_out, judge, regulators, score_log, source_health, sources, watch
+from . import email_out, judge, regulators, score_log, source_health, sources, watch, website
 from .main import dead_models, record_dead_models
 from .sources import Post
 
@@ -77,6 +77,9 @@ MAX_CHARS = 1000
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 UTC = dt.timezone.utc
 PIB_URL = "https://www.pib.gov.in/allRel.aspx?reg=3&lang=1"
+# PIB's own menu of ministries, kept from this run's visit for the website (website.py), so a
+# reporter can choose a ministry there before it has issued anything.
+PIB_MINISTRIES: list = []
 
 
 # ---------------------------------------------------------------- sources
@@ -124,6 +127,8 @@ def _pib() -> list:
     page.raise_for_status()
     soup = BeautifulSoup(page.text, "html.parser")
     posts = _pib_rows(soup)
+    menu = [" ".join(o.get_text(" ", strip=True).split()) for o in soup.select('select[id$="ddlMinistry"] option')]
+    PIB_MINISTRIES[:] = [m for m in menu if m and m != "All Ministry"] or PIB_MINISTRIES
 
     now = dt.datetime.now(IST)
     if now.hour == 0:
@@ -1101,7 +1106,14 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
 
     # The last word on age: a PIB release's own page says when it was
     # posted, and a gazette's listing when it was published.
-    picks = [r for r in picks if not sources.old_pib(r[0]) and not old_gazette(r[0], gazette_mark)]
+    old = {r[0].id for r in picks if sources.old_pib(r[0]) or old_gazette(r[0], gazette_mark)}
+    picks = [r for r in picks if r[0].id not in old]
+
+    # The website gets everything this desk judged, sent or not, with its score: who hears
+    # about what is decided there, by each reporter's own bar (website.py).
+    website.send(desk["memory"], [website.official_item(*r) for r in rows if r[0].id not in old],
+                 view=desk["memory"], sources=website.official_sources(cfg, PIB_MINISTRIES),
+                 failed=failed, dry_run=dry_run)
 
     if picks and not dry_run and email_out.pressure(recipient) == "tight":
         major = [r for r in picks if r[1] >= 9]
