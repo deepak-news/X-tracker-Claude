@@ -321,10 +321,22 @@ _MEA_ROW = re.compile(r'<span class="date">\s*([^<]+?)\s*</span>.*?<a href="(/[^
 MEA_STATEMENT = re.compile(r"^(?:Statement\b|.*\bOfficial Spokesperson\b)", re.I)
 
 
+# mea.gov.in refuses GitHub's servers (403) but answers Cloudflare's, so an
+# entry may name a relay (the mea-relay Worker), which fetches the same two
+# endpoints and nothing else: /list?publication=N and /detail?pkid=N.
+_MEA_RELAY: dict = {}
+
+
 def _mea(entry: dict) -> list:
-    response = requests.get(MEA_LIST, timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA}, params={
-        "publicationId": entry["publication"], "KeywordName": "", "SortBy": "", "page": 1,
-        "PageSize": 20, "DateRange": "", "IsInternalMEA": "false", "PLngId": 1})
+    relay = (entry.get("relay") or "").rstrip("/")
+    _MEA_RELAY[entry["name"]] = relay
+    if relay:
+        response = requests.get(f"{relay}/list", params={"publication": entry["publication"]},
+                                timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
+    else:
+        response = requests.get(MEA_LIST, timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA}, params={
+            "publicationId": entry["publication"], "KeywordName": "", "SortBy": "", "page": 1,
+            "PageSize": 20, "DateRange": "", "IsInternalMEA": "false", "PLngId": 1})
     response.raise_for_status()
     rows = _MEA_ROW.findall(response.text)
     if not rows:
@@ -353,7 +365,9 @@ def read_mea(posts: list) -> None:
             continue
         pkid = post.id.split(":", 1)[1]
         try:
-            response = requests.get(MEA_DETAIL, params={"pkid": pkid, "languageId": 1},
+            relay = _MEA_RELAY.get(post.handle, "")
+            response = requests.get(f"{relay}/detail" if relay else MEA_DETAIL,
+                                    params={"pkid": pkid} if relay else {"pkid": pkid, "languageId": 1},
                                     timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
             response.raise_for_status()
             body = re.sub(r"<script.*?</script>|<style.*?</style>", " ", response.text, flags=re.S)

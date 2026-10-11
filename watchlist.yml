@@ -863,9 +863,11 @@ national:
   # number in the page's address (press-releases?51, speeches-statements?50).
   # India's own statements ("Statement on ...", the Official Spokesperson's)
   # are sent as they appear; everything else is judged. Remove to switch off.
-  # mea:   [off: MEA refuses GitHub's servers (403, 2026-10-11); read from the Mac instead]
-  #   - {name: "MEA press releases", publication: 51}
-  #   - {name: "MEA statements", publication: 50}
+  # MEA refuses GitHub's servers (403, 2026-10-11), so it is read through the
+  # mea-relay Worker on Cloudflare, which MEA answers.
+  mea:
+    - {name: "MEA press releases", publication: 51, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+    - {name: "MEA statements", publication: 50, relay: "https://mea-relay.ptiinfographics.workers.dev"}
 
 
 # ======================================================================
@@ -886,9 +888,11 @@ bureau:
   # India's own statements ("Statement on ...", the Official Spokesperson's)
   # are sent as they appear; everything else is judged. Remove to switch off.
   mea_threshold: 6     # MEA releases other than statements: the same bar as PIB
-  # mea:   [off: MEA refuses GitHub's servers (403, 2026-10-11); read from the Mac instead]
-  #   - {name: "MEA press releases", publication: 51}
-  #   - {name: "MEA statements", publication: 50}
+  # MEA refuses GitHub's servers (403, 2026-10-11), so it is read through the
+  # mea-relay Worker on Cloudflare, which MEA answers.
+  mea:
+    - {name: "MEA press releases", publication: 51, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+    - {name: "MEA statements", publication: 50, relay: "https://mea-relay.ptiinfographics.workers.dev"}
 
   newsworthy: |
     Anything a wire agency's national bureau might report, from any
