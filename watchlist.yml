@@ -847,6 +847,14 @@ national:
     # text is converted back to real Hindi before the AI reads it.
     - {name: "State: Uttar Pradesh", url: "https://information.up.gov.in/hi_cabinet-decision-new.aspx", match: "\\.pdf$"}   # cabinet decisions, Hindi
 
+  # The Ministry of External Affairs (added 2026-10-11): "publication" is the
+  # number in the page's address (press-releases?51, speeches-statements?50).
+  # India's own statements ("Statement on ...", the Official Spokesperson's)
+  # are sent as they appear; everything else is judged. Remove to switch off.
+  mea:
+    - {name: "MEA press releases", publication: 51}
+    - {name: "MEA statements", publication: 50}
+
 
 # ======================================================================
 #  NATIONAL BUREAU
@@ -860,6 +868,15 @@ national:
 #  (the last part of its ID), never by the older date printed on it.
 # ======================================================================
 bureau:
+
+  # The Ministry of External Affairs (added 2026-10-11): "publication" is the
+  # number in the page's address (press-releases?51, speeches-statements?50).
+  # India's own statements ("Statement on ...", the Official Spokesperson's)
+  # are sent as they appear; everything else is judged. Remove to switch off.
+  mea_threshold: 6     # MEA releases other than statements: the same bar as PIB
+  mea:
+    - {name: "MEA press releases", publication: 51}
+    - {name: "MEA statements", publication: 50}
 
   newsworthy: |
     Anything a wire agency's national bureau might report, from any

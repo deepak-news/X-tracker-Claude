@@ -307,6 +307,63 @@ def _page(entry: dict) -> list:
     return posts
 
 
+# The Ministry of External Affairs. Its pages ("Press Releases", "Speeches &
+# Statements") fill their list from the browser, so the page itself is empty;
+# the list comes from the same endpoint the page calls, 20 newest first, and a
+# release's text from its detail endpoint, read only when the release is new.
+# Configured per desk under "mea:" in watchlist.yml (added 2026-10-11).
+MEA_LIST = "https://www.mea.gov.in/FrontEnd/FetchPublicationListingData"
+MEA_DETAIL = "https://www.mea.gov.in/FrontEnd/FetchPublicationDetailData"
+_MEA_ROW = re.compile(r'<span class="date">\s*([^<]+?)\s*</span>.*?<a href="(/[^"?]+\?dtl/(\d+)/[^"]*)"[^>]*>\s*(.*?)\s*</a>', re.S)
+# India's own statements -- "Statement on ...", the Official Spokesperson's --
+# go out as they appear, without the AI (the user, 2026-10-11). Joint
+# statements and everything else are judged like any other release.
+MEA_STATEMENT = re.compile(r"^(?:Statement\b|.*\bOfficial Spokesperson\b)", re.I)
+
+
+def _mea(entry: dict) -> list:
+    response = requests.get(MEA_LIST, timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA}, params={
+        "publicationId": entry["publication"], "KeywordName": "", "SortBy": "", "page": 1,
+        "PageSize": 20, "DateRange": "", "IsInternalMEA": "false", "PLngId": 1})
+    response.raise_for_status()
+    rows = _MEA_ROW.findall(response.text)
+    if not rows:
+        raise RuntimeError("no releases in MEA's list (the page may have changed)")
+    now = dt.datetime.now(UTC)
+    today = now.astimezone(IST).date()
+    posts = []
+    for day, href, pkid, title in rows:
+        title = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", title)).split())
+        try:
+            issued = dt.datetime.strptime(day.replace(",", ""), "%d %B %Y").date()
+        except ValueError:
+            issued = today
+        # The list gives a day, not a time: today's and yesterday's count as
+        # just issued, older ones by their day (and so are never sent).
+        when = now if (today - issued).days <= 1 else dt.datetime(issued.year, issued.month, issued.day, tzinfo=IST)
+        posts.append(_blank(id=f"mea:{pkid}", handle=entry["name"], text=f"{entry['name']}: {title}",
+                            url="https://www.mea.gov.in" + html.unescape(href), created_at=when.isoformat()))
+    return posts
+
+
+def read_mea(posts: list) -> None:
+    """The full text of each new MEA release, for the AI to judge by."""
+    for post in posts:
+        if not post.handle.startswith("MEA"):
+            continue
+        pkid = post.id.split(":", 1)[1]
+        try:
+            response = requests.get(MEA_DETAIL, params={"pkid": pkid, "languageId": 1},
+                                    timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
+            response.raise_for_status()
+            body = re.sub(r"<script.*?</script>|<style.*?</style>", " ", response.text, flags=re.S)
+            body = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", body)).split())
+            if body:
+                post.text = f"{post.text} TEXT: {body[:MAX_CHARS]}"
+        except Exception as exc:                                  # noqa: BLE001
+            print(f"    MEA release {pkid}: text not read ({str(exc)[:80]}); judged by its title")
+
+
 # A site that refuses GitHub's servers would otherwise cost every run its
 # full retry-and-timeout cycle. After this many failed runs in a row it is
 # left alone for a while, then tried again.
@@ -515,6 +572,8 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None) -> tuple:
         readers.append((entry["name"], lambda entry=entry: _feed(entry)))
     for entry in cfg.get("pages") or []:
         readers.append((entry["name"], lambda entry=entry: _page(entry)))
+    for entry in cfg.get("mea") or []:
+        readers.append((entry["name"], lambda entry=entry: _mea(entry)))
 
     for name, read in readers:
         record = health.get(name) or {}
@@ -718,6 +777,7 @@ BADGES = (
     ("CCI", "#1e40af", "CCI"),
     ("CERT-In", "#b91c1c", "CERT-IN"),
     ("DGFT", "#047857", "DGFT"),
+    ("MEA", "#0f766e", "MEA"),
 )
 
 
@@ -830,6 +890,8 @@ def _bar(post, cfg: dict) -> float:
         return float(cfg.get("gazette_threshold", general))
     if post.handle.startswith("PIB "):
         return float(cfg.get("pib_threshold", general))
+    if post.handle.startswith("MEA"):
+        return float(cfg.get("mea_threshold", general))
     return general
 
 
@@ -976,6 +1038,13 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
     settled |= {p.id for p in tremors}
     if tremors:
         print(f"{len(tremors)} earthquake(s) over the threshold -- sent without the AI")
+    # India's own MEA statements are sent as they appear, like earthquakes
+    statements = [p for p in fresh if p.handle.startswith("MEA") and MEA_STATEMENT.match(_original(p))]
+    if statements:
+        fresh = [p for p in fresh if p not in statements]
+        rows += [(p, 10, _original(p), "MEA statement: sent without the AI") for p in statements]
+        settled |= {p.id for p in statements}
+        print(f"{len(statements)} MEA statement(s) -- sent without the AI")
 
     if fresh:
         # No folding by similar wording here, unlike the news tracker: official
@@ -993,7 +1062,8 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
             # Everything else except PIB (whose title is the release) is
             # opened and read -- a CBI or IMD release is a PDF or a page,
             # and its title alone often says little.
-            others = [p for p in fresh if not p.handle.startswith(("PIB ", "Gazette "))]
+            read_mea(fresh)
+            others = [p for p in fresh if not p.handle.startswith(("PIB ", "Gazette ", "MEA"))]
             if others:
                 kept = {id(p) for p in sources.read_articles(others)}
                 dropped = {p.id for p in others if id(p) not in kept}
