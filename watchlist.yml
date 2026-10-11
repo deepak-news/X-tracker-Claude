@@ -851,9 +851,9 @@ national:
   # number in the page's address (press-releases?51, speeches-statements?50).
   # India's own statements ("Statement on ...", the Official Spokesperson's)
   # are sent as they appear; everything else is judged. Remove to switch off.
-  mea:
-    - {name: "MEA press releases", publication: 51}
-    - {name: "MEA statements", publication: 50}
+  # mea:   [off: MEA refuses GitHub's servers (403, 2026-10-11); read from the Mac instead]
+  #   - {name: "MEA press releases", publication: 51}
+  #   - {name: "MEA statements", publication: 50}
 
 
 # ======================================================================
@@ -874,9 +874,9 @@ bureau:
   # India's own statements ("Statement on ...", the Official Spokesperson's)
   # are sent as they appear; everything else is judged. Remove to switch off.
   mea_threshold: 6     # MEA releases other than statements: the same bar as PIB
-  mea:
-    - {name: "MEA press releases", publication: 51}
-    - {name: "MEA statements", publication: 50}
+  # mea:   [off: MEA refuses GitHub's servers (403, 2026-10-11); read from the Mac instead]
+  #   - {name: "MEA press releases", publication: 51}
+  #   - {name: "MEA statements", publication: 50}
 
   newsworthy: |
     Anything a wire agency's national bureau might report, from any
