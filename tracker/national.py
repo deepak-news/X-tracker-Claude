@@ -442,7 +442,7 @@ def _quake_post(row: dict) -> Post:
         id=f"quake:{row['source'].lower()}:{row['event']}",
         handle=f"Quake {row['source']}",
         text=(f"Magnitude {row['magnitude']:.1f} earthquake -- {row['place']}. "
-              f"{local.strftime('%d %b %Y, %H:%M')} IST{depth}. "
+              f"{local:%b} {local.day}, {local.hour % 12 or 12}:{local:%M} {'am' if local.hour < 12 else 'pm'} IST{depth}. "
               f"Reported by {row['source']}."),
         url=row["url"],
         created_at=row["when"].isoformat(),
