@@ -1049,7 +1049,7 @@ site:
     - {source: UGC, url: "https://www.ugc.gov.in/", match: "/pdfnews/", ai: true}
     - {source: CISCE, url: "https://cisce.org/", match: "/wp-content/uploads/20", exclude: "RFP|expression of interest|tender", relay: true}
     # --- Space, disasters and pollution
-    - {source: ISRO, url: "https://www.isro.gov.in/", match: "isro\\.gov\\.in/[A-Za-z0-9_]+\\.html$|/media_isro/pdf/", exclude: "YUVIKA|hackathon|selection list|robotics challenge"}
+    - {source: ISRO, url: "https://www.isro.gov.in/", match: "isro\\.gov\\.in/[A-Za-z0-9_]+\\.html$|/media_isro/pdf/", exclude: "YUVIKA|hackathon|selection list|robotics challenge", ai: true, new_ids: true}   # AI-scored from 2026-10-11
     - {source: CPCB, url: "https://cpcb.nic.in/", match: "openpdffile\\.php\\?id=", exclude: "recruitment|downtime|tender", ai: true}
     - {source: GDACS disaster alerts, feed: "https://www.gdacs.org/xml/rss.xml", only: "^(Red|Orange) "}
     # --- World
