@@ -870,8 +870,8 @@ def run(dry_run: bool) -> int:
         fresh = [item for item in fresh if item.source not in quiet]
 
     # The website gets every new row too, whoever its email goes to (website.py)
-    website.send("watch", [website.watch_item(item) for item in fresh], dry_run=dry_run,
-                 sources=[("watch", *website.watch_source(name)) for name in worked + failed], failed=failed)
+    website.send("watch", website.watch_items(fresh), dry_run=dry_run,
+                 sources=website.watch_sources(worked + failed), failed=failed)
 
     # One email per recipient list, each under its own name: a watch can set
     # "mail_name"; otherwise the government watch's name from mail_names.

@@ -113,6 +113,81 @@ def _clean(text) -> str:
     return " ".join(str(text or "").split())
 
 
+# The ministries and bodies whose extraordinary gazettes people choose from on the website, in
+# the e-Gazette site's own spelling. The site's own menu is no help: 607 names, most of them
+# long gone ("Ministry of Works") or a single rural bank. Anyone not listed here still appears
+# in the list the first time they publish a gazette.
+GAZETTE_LIST = (
+    "Ministry of Agriculture and Farmers Welfare", "Ministry of Ayush",
+    "Ministry of Chemicals and Fertilizers", "Ministry of Civil Aviation", "Ministry of Coal",
+    "Ministry of Commerce and Industry", "Ministry of Communications",
+    "Ministry of Consumer Affairs, Food and Public Distribution", "Ministry of Cooperation",
+    "Ministry of Corporate Affairs", "Ministry of Culture", "Ministry of Defence",
+    "Ministry of Development of North Eastern Region", "Ministry of Earth Sciences",
+    "Ministry of Education", "Ministry of Electronics and Information Technology",
+    "Ministry of Environment, Forest and Climate Change", "Ministry of External Affairs",
+    "Ministry of Finance", "Ministry of Fisheries, Animal Husbandry and Dairying",
+    "Ministry of Food Processing Industries", "Ministry of Health and Family Welfare",
+    "Ministry of Heavy Industries", "Ministry of Home Affairs",
+    "Ministry of Housing and Urban Affairs", "Ministry of Information and Broadcasting",
+    "Ministry of Jal Shakti", "Ministry of Labour and Employment", "Ministry of Law and Justice",
+    "Ministry of Micro, Small and Medium Enterprises", "Ministry of Mines",
+    "Ministry of Minority Affairs", "Ministry of New and Renewable Energy",
+    "Ministry of Panchayati Raj", "Ministry of Parliamentary Affairs",
+    "Ministry of Personnel, Public Grievances and Pensions", "Ministry of Petroleum and Natural Gas",
+    "Ministry of Ports, Shipping and Waterways", "Ministry of Power", "Ministry of Railways",
+    "Ministry of Road Transport and Highways", "Ministry of Rural Development",
+    "Ministry of Science and Technology", "Ministry of Skill Development and Entrepreneurship",
+    "Ministry of Social Justice and Empowerment",
+    "Ministry of Statistics and Programme Implementation", "Ministry of Steel",
+    "Ministry of Textiles", "Ministry of Tourism", "Ministry of Tribal Affairs",
+    "Ministry of Women and Child Development", "Ministry of Youth Affairs and Sports",
+    "Department of Space",
+    "Cabinet Secretariat", "Prime Ministers Office", "Presidents Secretariat",
+    "Lok Sabha Secretariat", "Rajya Sabha Secretariat",
+    "National Institution for Transforming India (NITI Aayog)", "Election Commission of India",
+    "Comptroller and Auditor General of India", "Union Public Service Commission",
+    "Central Information Commission", "Central Vigilance Commission", "Lokpal of India",
+    "National Human Rights Commission", "Government of The National Capital Territory of Delhi",
+    "Reserve Bank of India", "Securities and Exchange Board of India",
+    "Insurance Regulatory and Development Authority", "Pension Fund Regulatory and Development Authority",
+    "Insolvency and Bankruptcy Board of India", "International Financial Services Centres Authority",
+    "The Competition Commission of India", "Telecom Regulatory Authority of India",
+    "Central Electricity Regulatory Commission", "Petroleum and Natural Gas Regulatory Board",
+    "Airports Economic Regulatory Authority of India", "Airports Authority of India",
+    "Office of the Directorate General of Civil Aviation", "Atomic Energy Regulatory Board",
+    "Food Safety and Standards Authority of India", "Bureau of Indian Standards",
+    "Unique Identification Authority of India", "National Highways Authority of India",
+    "Inland Waterways Authority of India", "Tariff Authority for Major Ports",
+    "Warehousing Development and Regulatory Authority", "National Medical Commission",
+    "University Grants Commission", "Institute of Chartered Accountants of India",
+    "Institute of Company Secretaries of India", "Institute of Cost Accountants of India",
+)
+# The same issuer spelt two ways on the e-Gazette site
+GAZETTE_ALIASES = {"Ministry of Jalshakti": "Ministry of Jal Shakti",
+                   "Insurance Regulatory And Development Authority": "Insurance Regulatory and Development Authority"}
+
+# Names still on PIB's menu that no longer issue anything (merged or renamed years ago), and a
+# stray "home". One comes back by itself if a release ever carries it.
+PIB_RETIRED = {
+    "home", "Department of Ocean Development", "Ministry of Agro & Rural Industries",
+    "Ministry of Company Affairs", "Ministry of Disinvestment", "Ministry of Drinking Water & Sanitation",
+    "Ministry of Overseas Indian Affairs", "Ministry of Surface Transport", "Ministry of Urban Development",
+    "Ministry of Water Resources, River Development and Ganga Rejuvenation",
+}
+
+_SMALL = {"of", "the", "and", "for", "in", "on", "to"}
+
+
+def gazette_issuer(name: str) -> str:
+    """One spelling per issuer: spacing tidied, a SHOUTED or all-lowercase name in title case."""
+    name = _clean(name)
+    if name.isupper() or name.islower():
+        name = " ".join(w if i and w in _SMALL else w[:1].upper() + w[1:]
+                        for i, w in enumerate(name.lower().split()))
+    return GAZETTE_ALIASES.get(name, name)
+
+
 MEA_LISTS = {"MEA press releases": "Press releases", "MEA statements": "Statements"}
 CCI_LISTS = {"cci-order": "Antitrust orders", "cci-merger": "Mergers",
              "cci-pr:media-gallery": "Press releases", "cci-pr:antitrust": "Antitrust press releases"}
@@ -124,7 +199,7 @@ def official_source(post) -> tuple:
     if handle.startswith("PIB "):
         return "PIB", handle[4:]
     if handle.startswith("Gazette "):
-        return "Gazette", handle[8:]
+        return "Gazette", gazette_issuer(handle[8:])
     if handle.startswith("Quake "):
         return "Earthquakes", ""
     if handle in MEA_LISTS:
@@ -168,12 +243,13 @@ def official_item(post, score, headline: str = "", why: str = "") -> dict:
 
 def official_sources(cfg: dict, pib_ministries=()) -> list:
     """Every (group, source) the official stream reads, from its section of watchlist.yml,
-    with PIB's whole list of ministries (from its own menu) when this run has read it."""
+    with PIB's list of ministries (from its own menu, when this run has read it) and the
+    gazettes' list. A list sent here replaces the one on the website."""
     out = set()
     if cfg.get("pib", True):
-        out.add(("official", "PIB", tuple(pib_ministries)))
+        out.add(("official", "PIB", tuple(m for m in pib_ministries if m not in PIB_RETIRED)))
     if cfg.get("gazette", True):
-        out.add(("official", "Gazette"))
+        out.add(("official", "Gazette", GAZETTE_LIST))
     if cfg.get("earthquakes") is not False:
         out.add(("official", "Earthquakes"))
     from . import regulators                                          # noqa: PLC0415
@@ -209,6 +285,21 @@ def tech_item(post, score, headline: str = "", why: str = "") -> dict | None:
 def tech_sources(cfg: dict) -> list:
     sources = cfg.get("sources") or {}
     return sorted(("tech", entry["name"]) for entry in (sources.get("rss") or []) + (sources.get("pages") or []))
+
+
+def _gazette_watch(name: str = "", key: str = "") -> bool:
+    """The e-Gazette watches are mail lists -- whose gazettes go to whom -- not sources. The
+    website offers every gazette, ministry by ministry, as the official stream's "Gazette".
+    Switch: "site: watch_gazette: true" sends them as well."""
+    return (name.startswith("e-Gazette") or str(key).startswith("gazette:")) and not _cfg().get("watch_gazette")
+
+
+def watch_sources(names) -> list:
+    return [("watch", *watch_source(name)) for name in names if not _gazette_watch(name=name)]
+
+
+def watch_items(items) -> list:
+    return [watch_item(item) for item in items if not _gazette_watch(key=item.key)]
 
 
 def watch_source(name: str) -> tuple:

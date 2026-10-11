@@ -959,6 +959,10 @@ bureau:
 site:
   send: true          # false = hand nothing to the website
   url: "https://pti-source-alerts.ptiinfographics.workers.dev"
+  # The e-Gazette watches above are mail lists (whose gazettes go to whom). The
+  # website offers every gazette, ministry by ministry, under the official
+  # stream's "Gazette" instead. true = send the watches' rows to it as well.
+  watch_gazette: false
 
   # Pages read ONLY for the website, never emailed (tracker/site_sources.py),
   # for the aviation and corporate-affairs reporter. Remove a line to stop
