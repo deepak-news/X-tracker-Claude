@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-05T07:32:31.104588+00:00",
-      "handle": "News: India fintech",
-      "headline": "Razorpay partners with OpenAI to enable brand advertising on ChatGPT in India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX2F0UGhXY1BmT01PSVRUX2czRm91cEZwM05UbEExdzljVHpLZ2d1NUlUSWk1WjNILU9JTHNTR3lrWVZuVmV0NWNjMEtZZ3Z1bjdhMDNZbERJQWdvNEVMZ1hyZmQwSmJJaXFuNkUtZW9jYm9RcGJ0N013eUxTRjRCQmV6Ql8tbldTREdJdmc1dWhmdGFlTGJuMk85VThwUGpCaF9BanBCME1xeDgyazhyX9IBsAFBVV95cUxOX2F0UGhXY1BmT01PSVRUX2czRm91cEZwM05UbEExdzljVHpLZ2d1NUlUSWk1WjNILU9JTHNTR3lrWVZuVmV0NWNjMEtZZ3Z1bjdhMDNZbERJQWdvNEVMZ1hyZmQwSmJJaXFuNkUtZW9jYm9RcGJ0N013eUxTRjRCQmV6Ql8tbldTREdJdmc1dWhmdGFlTGJuMk85VThwUGpCaF9BanBCME1xeDgyazhyXw?oc=5",
-      "words": [
-        "ads",
-        "brands",
-        "chatgpt",
-        "help",
-        "openai",
-        "partners",
-        "razorpay",
-        "run"
-      ]
-    },
-    {
-      "at": "2026-10-05T07:32:31.104588+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic's Claude adds local processing in India via Amazon Bedrock",
       "tier": 0,
@@ -7480,6 +7463,25 @@
         "report",
         "staff"
       ]
+    },
+    {
+      "at": "2026-10-11T17:31:17.953154+00:00",
+      "handle": "News: Global AI",
+      "headline": "Google DeepMind executive calls for balancing safety and innovation in AI regulation",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5",
+      "words": [
+        "balance",
+        "chief",
+        "deepmind",
+        "google",
+        "innovation",
+        "must",
+        "officer",
+        "readiness",
+        "regulation",
+        "safety"
+      ]
     }
   ],
   "bureau": {
@@ -8671,12 +8673,13 @@
     ],
     "health": {
       "down": {
+        "CERT-In": "2026-10-11T17:37:15.379930+00:00",
         "IRDAI": "2026-10-11T15:38:26.647659+00:00",
         "NITI Aayog": "2026-10-11T15:20:40.490606+00:00"
       }
     },
-    "last_run": "2026-10-11T17:18:14.469702+00:00",
-    "pib_mark": 2322028,
+    "last_run": "2026-10-11T17:37:17.939152+00:00",
+    "pib_mark": 2322060,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -9101,6 +9104,7 @@
       "pib:2321828",
       "pib:2321853",
       "pib:2321854",
+      "certin:CIAD-2026-0046",
       "gazette:CG-DL-E-10102026-277038",
       "gazette:CG-WB-E-10102026-277037",
       "gazette:CG-DL-E-10102026-277039",
@@ -9414,9 +9418,13 @@
       "page:https://internal.imd.gov.in/press_release/20260906_pr_5294.pdf",
       "page:https://internal.imd.gov.in/press_release/20261011_pr_5394.pdf",
       "page:https://internal.imd.gov.in/press_release/20261004_pr_5375.pdf",
-      "certin:CIAD-2026-0046"
+      "pib:2322059",
+      "pib:2322060"
     ],
     "source_failures": {
+      "CERT-In": {
+        "count": 1
+      },
       "IRDAI": {
         "count": 3,
         "until": "2026-10-11T22:06:49.222124+00:00"
@@ -9448,9 +9456,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791224639035",
-    "1791205788434",
-    "1791209760490",
     "1791214080411",
     "1791219843086",
     "1791222057621",
@@ -13916,7 +13921,6 @@
     "1791711900714",
     "1791714405102",
     "1791721833111",
-    "1791724733162",
     "1791725491927",
     "1791645420871",
     "1791645459943",
@@ -13951,19 +13955,19 @@
     "1791707368665",
     "1791728992230",
     "1791729245841",
-    "1791654060314",
     "1791654227367",
-    "1791654891175",
     "1791698158923",
     "1791698168948",
     "1791707949518",
     "1791724283012",
-    "1791655069774",
     "1791664274810",
     "1791697130623",
-    "1791699650636",
     "1791703059502",
     "1791734088248",
+    "1791653419503",
+    "1791725491851",
+    "1791731900162",
+    "1791735483345",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -15226,10 +15230,12 @@
     "1791552963003",
     "1791555502485",
     "1791570600561",
-    "1791653419503",
     "1791653580406",
+    "1791654060314",
     "1791654674817",
+    "1791654891175",
     "1791655020040",
+    "1791655069774",
     "1791655260270",
     "1791655420167",
     "1791656068991",
@@ -15284,6 +15290,7 @@
     "1791698598453",
     "1791699081504",
     "1791699281673",
+    "1791699650636",
     "1791700327810",
     "1791700489764",
     "1791700592433",
@@ -15359,7 +15366,7 @@
     "1791724283296",
     "1791724440080",
     "1791724533463",
-    "1791725491851",
+    "1791724733162",
     "1791725705131",
     "1791726020943",
     "1791726042812",
@@ -15382,8 +15389,8 @@
     "1791730860298",
     "1791731163699",
     "1791731666789",
-    "1791731900162",
     "1791732331068",
+    "1791732431851",
     "1791732681561",
     "1791732954654",
     "1791733308426",
@@ -15392,9 +15399,10 @@
     "1791734554342",
     "1791734760051",
     "1791735298147",
-    "1791735483345",
+    "1791735483922",
     "1791736395531",
     "1791737307927",
+    "1791738540970",
     "2317509",
     "2317615",
     "2317714",
@@ -15449,8 +15457,8 @@
     "2321784",
     "2321853"
   ],
-  "last_digest_hour": "2026-10-11T22",
-  "last_success": "2026-10-11T17:16:03.667426+00:00",
+  "last_digest_hour": "2026-10-11T23",
+  "last_success": "2026-10-11T17:31:18.046806+00:00",
   "national": {
     "alerted": [
       {
@@ -20753,6 +20761,29 @@
           "sse",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-10-11T17:32:38.844675+00:00",
+        "handle": "PIB Ministry of Finance",
+        "headline": "Revenue Intelligence seizes foreign gold worth nine crore rupees hidden inside car",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2322059",
+        "words": [
+          "around",
+          "arrested",
+          "car",
+          "cavity",
+          "crores",
+          "dri",
+          "finance",
+          "foreign",
+          "gold",
+          "ministry",
+          "modus",
+          "operandi",
+          "origin",
+          "secret"
+        ]
       }
     ],
     "gazette_mark": 277056,
@@ -21649,11 +21680,9 @@
       },
       "warned": "2026-10-10T20:19:58.349393+00:00"
     },
-    "last_run": "2026-10-11T17:18:00.996979+00:00",
-    "pib_mark": 2322028,
+    "last_run": "2026-10-11T17:32:38.845709+00:00",
+    "pib_mark": 2322060,
     "seen": [
-      "gazette:CG-DL-E-17092026-276298",
-      "pib:2311593",
       "pib:2311596",
       "gazette:CG-MH-E-17092026-276297",
       "pib:2311628",
@@ -24651,7 +24680,9 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-golden-jubilee-celebrations-of-jaigopal-garodia-hindu-vidyalaya",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-lays-the-foundation-stone-inaugurates-and-dedicates-various-development-projects-worth-over-%e2%82%b913000-crore-in-chennai-tamil-nadu",
       "quake:usgs:us6000u1kv",
-      "pib:2322028"
+      "pib:2322028",
+      "pib:2322060",
+      "pib:2322059"
     ],
     "source_failures": {
       "CBI": {
@@ -24701,26 +24732,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Google DeepMind executive calls for balancing safety and innovation in AI regulation",
-      "post": {
-        "created_at": "2026-10-11T16:33:15+00:00",
-        "handle": "News: Global AI",
-        "id": "1791736395531",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV Profit",
-        "reposts": 0,
-        "text": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5"
-      },
-      "queued_at": "2026-10-11T17:01:32.792074+00:00",
-      "score": 7.0,
-      "why": "Major AI lab executive statement on global AI regulation and safety policy."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25807,21 +25819,21 @@
     "microsoft india": 1791703384406,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791734760580,
+    "news: big tech platforms": 1791738540970,
     "news: consumer internet india": 1791732954654,
     "news: global ai": 1791737307927,
     "news: global chips": 1791724533463,
     "news: global it services": 1791722880752,
     "news: india ai deeptech": 1791725705475,
     "news: india edtech gaming": 1791719210512,
-    "news: india fintech": 1791730634189,
+    "news: india fintech": 1791732431851,
     "news: india semiconductors": 1791732681561,
     "news: india tech policy": 1791729528603,
-    "news: india telecom": 1791735483345,
+    "news: india telecom": 1791735483922,
     "news: indian it majors": 1791730867461,
     "news: indian it midcaps": 1791708941045,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1791734554342,
+    "news: tech leaders": 1791738540970,
     "nvidia": 1791493595788,
     "nvidia blog": 1791493595953,
     "openai": 1791529200692,
@@ -25865,7 +25877,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-11T17:16:04.044857+00:00",
+    "last_server_run": "2026-10-11T17:31:18.587800+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-11T16:46:56.268948+00:00",
