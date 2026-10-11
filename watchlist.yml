@@ -1078,7 +1078,9 @@ site:
     - {source: AICTE, sub: Notices, url: "https://www.aicte.gov.in/", match: "/sites/default/files/", exclude: "selected|FDP|VAANI|tender", home_only: true}
     - {source: NCERT, url: "https://ncert.nic.in/", match: "pdf/announcement/", exclude: "brochure|seminar|conference|workshop|camp|olympiad", home_only: true}
     - {source: NDMA, url: "https://ndma.gov.in/", match: "/sites/default/files/20\\d\\d-\\d\\d/", exclude: "sample|format|tender|calendar", home_only: true}
-    - {source: UN News, feed: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", home_only: true}
+    # UN News is AI-scored from 2026-10-11 (the user's choice): the Mac needs GEMINI_API_KEY in
+    # ~/.watch-env for that; until then its new stories wait unjudged and nothing new is sent.
+    - {source: UN News, feed: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", home_only: true, ai: true, new_ids: true}
     # --- Sports
     - {source: BCCI, url: "https://www.bcci.tv/", match: "/news/article/", only: "^Press Releases", strip: "^Press Releases\\s*|\\s+\\d+[mhd] ago$"}
     - {source: ICC, url: "https://www.icc-cricket.com/media-releases", match: "/media-releases/[a-z0-9-]+$", strip: "^(Media Release|Online Media Zone)\\s*|\\s+\\d+[mhd]$", ai: true}
