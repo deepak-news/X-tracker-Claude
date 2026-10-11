@@ -8,6 +8,23 @@ the aviation and corporate-affairs reporter.
     cci_whats_new   CCI: What's new (its antitrust orders and press releases are already
                     in the official stream, read by regulators.py)
     ibbi            IBBI: What's new -- resolution plans, orders, notices
+    who_outbreaks   WHO: Disease Outbreak News (the page fills itself from WHO's own data)
+
+More pages and feeds, added 2026-10-11, need no code of their own: each is one line under
+"site: more:" in watchlist.yml, read by read_more() below --
+
+    {source: GST Council, url: "https://gstcouncil.gov.in/", match: "/sites/default/files/"}
+        every link on the page whose address matches "match" (a regular expression) is a row;
+        "only" keeps rows whose title matches, "exclude" drops them, "strip" cuts a matching
+        part out of the title (BCCI's "Press Releases" label); "within" (a CSS selector)
+        reads only part of the page; "min" is the shortest title kept (default 20)
+    {source: White House, feed: "https://www.whitehouse.gov/news/feed/", ai: true}
+        an RSS or Atom feed; "only" keeps entries whose title matches
+    relay: true      read through the mea-relay Worker on Cloudflare (sites refusing GitHub)
+    ai: true         a busy page: each NEW row is scored by the AI against "site: newsworthy"
+                     and handed over in the official stream with its score, so people's
+                     score bar applies (website.known() says which rows are new, so each row
+                     is judged once; a page's first list goes in unjudged and quietly)
 
 Every row each page lists goes to the website on every run, and the website keeps track of
 what it has already seen: this step needs no memory, and a page's first reading is noted
@@ -31,10 +48,11 @@ import re
 import sys
 from urllib.parse import quote, urljoin
 
+import feedparser
 import requests
 from bs4 import BeautifulSoup
 
-from . import regulators, website
+from . import judge, regulators, website
 
 TIMEOUT = 40
 MAX_AGE_DAYS = 21
@@ -228,6 +246,168 @@ def ibbi() -> list:
     return rows
 
 
+# ---------------------------------------------------------------- the pages and feeds in "site: more:"
+
+RELAY = "https://mea-relay.ptiinfographics.workers.dev/page"
+MORE_ROWS = 60          # the newest this many entries of each feed
+PAGE_LINKS = 150        # the first this many matching links on each page (menus come first)
+AI_PER_RUN = 90         # rows the AI may judge in one run (six requests); the rest wait a run
+
+
+def _text(entry) -> bytes:
+    url = entry.get("url") or entry.get("feed")
+    if entry.get("relay"):
+        response = requests.get(RELAY, params={"u": url}, headers=HEADERS, timeout=TIMEOUT)
+        response.raise_for_status()
+        return response.content
+    return _get(url).content
+
+
+def _when(parsed):
+    if not parsed:
+        return None
+    try:
+        return dt.datetime(*parsed[:6], tzinfo=dt.timezone.utc).astimezone(IST).date()
+    except (TypeError, ValueError):
+        return None
+
+
+def _feed_rows(entry) -> list:
+    parsed = feedparser.parse(_text(entry))
+    only = re.compile(entry["only"], re.I) if entry.get("only") else None
+    rows = []
+    for item in parsed.entries[:MORE_ROWS]:
+        title, link = _clean(item.get("title")), (item.get("link") or "").strip()
+        if not title or not link or (only and not only.search(title)):
+            continue
+        detail = _clean(item.get("summary"))
+        rows.append({"key": link, "title": title, "detail": "" if detail == title else detail[:1200], "url": link,
+                     "date": _when(item.get("published_parsed") or item.get("updated_parsed"))})
+    if not parsed.entries:
+        raise RuntimeError("the feed came back empty (it may have moved)")
+    return rows
+
+
+def _slug_title(href: str) -> str:
+    """PFRDA cuts its titles short on the page ("Clarification regarding applicability of
+    incentive..."); the address carries the whole of it."""
+    slug = href.rstrip("/").rsplit("/", 1)[-1].split("?")[0]
+    words = re.sub(r"[-_]+", " ", re.sub(r"\.\w{2,4}$", "", slug)).strip()
+    return words[:1].upper() + words[1:]
+
+
+def _page_rows(entry) -> list:
+    base = entry["url"]
+    soup = BeautifulSoup(_text(entry), "html.parser")
+    scope = soup.select_one(entry["within"]) if entry.get("within") else soup
+    if scope is None:
+        raise RuntimeError(f"no {entry['within']} on the page (it may have changed)")
+    match = re.compile(entry["match"]) if entry.get("match") else None
+    exclude = re.compile(entry["exclude"], re.I) if entry.get("exclude") else None
+    only = re.compile(entry["only"], re.I) if entry.get("only") else None
+    strip = re.compile(entry["strip"], re.I) if entry.get("strip") else None
+    shortest = int(entry.get("min", 20))
+    rows, seen = [], set()
+    for link in scope.find_all("a", href=True):
+        href = link["href"].strip()
+        if href.startswith(("javascript:", "mailto:", "#")):
+            continue
+        url = urljoin(base, href.replace(" ", "%20"))
+        title = _clean(link.get("title") if entry.get("title") == "attr" else link.get_text(" "))
+        if entry.get("title") == "slug" or (title.endswith(("...", "…")) and entry.get("title") != "text"):
+            title = _slug_title(url) or title
+        if len(title) < shortest or url in seen:
+            continue
+        if (match and not match.search(url)) or (exclude and exclude.search(title)) or (only and not only.search(title)):
+            continue
+        if strip:
+            title = strip.sub("", title).strip()
+        seen.add(url)
+        rows.append({"key": url, "title": title, "detail": "", "url": url, "date": None})
+        if len(rows) >= PAGE_LINKS:
+            break
+    if not rows:
+        raise RuntimeError("no rows on the page (it may have changed)")
+    return rows
+
+
+def read_more(entry) -> list:
+    return _feed_rows(entry) if entry.get("feed") else _page_rows(entry)
+
+
+def _more_label(entry) -> str:
+    return f"{entry['source']} {entry.get('sub') or ''}".strip()
+
+
+def _screen(items: list, dry_run: bool) -> list:
+    """The "ai: true" rows: only those the website does not have yet are judged, and only for
+    a source whose first list is already in. A row the AI could not get to is held back, to
+    be judged next run; one it skipped (a duplicate) goes in unscored, so it is not asked again."""
+    if not items:
+        return []
+    keys = sorted({f"official|{it['source']}" for it in items})
+    if dry_run:
+        print(f"  (dry run) {len(items)} row(s) from {len(keys)} AI-screened source(s); nothing judged")
+        return []
+    have = website.known([it["id"] for it in items], keys)
+    if have is None:
+        return []
+    new = [it for it in items if it["id"] not in have["known"]]
+    first = [it for it in new if f"official|{it['source']}" not in have["started"]]
+    waiting = [it for it in new if f"official|{it['source']}" in have["started"]]
+    for it in first:
+        it["quiet"] = True
+    hourly = website._cfg().get("ai_hourly", True)
+    if waiting and hourly and dt.datetime.now(IST).minute >= 15 and len(waiting) < judge.CHUNK:
+        print(f"  {len(waiting)} new row(s) wait for the AI's hourly look")
+        waiting = []
+    if not waiting:
+        return first
+    batch, later = waiting[:AI_PER_RUN], len(waiting) - AI_PER_RUN
+    print(f"  the AI is judging {len(batch)} new row(s)" + (f"; {later} wait for the next run" if later > 0 else ""))
+    from .main import dead_models, load_state                        # noqa: PLC0415
+    from .sources import Post                                         # noqa: PLC0415
+    posts = [Post(id=it["id"], handle=it["source"], text=f"{it['source']}: {it['title']}. {it['body']}".strip(),
+                  url=it["url"], created_at="", likes=0, reposts=0, is_reply=False, is_repost=False) for it in batch]
+    rubric = website._cfg().get("newsworthy") or ""
+    try:
+        judged, unscreened, _ = judge.score(posts, rubric, dead_today=dead_models(load_state()))
+    except Exception as exc:                                          # noqa: BLE001
+        print(f"  ! the AI could not judge them ({str(exc)[:160]}); they wait for the next run")
+        return first
+    held = {p.id for p in unscreened}
+    scored = {p.id: (score, headline, why) for p, score, headline, why in judged}
+    out = list(first)
+    for it in batch:
+        if it["id"] in held:
+            continue
+        score, headline, why = scored.get(it["id"], (None, "", ""))
+        out.append({**it, "score": None if score is None else float(score),
+                    "headline": _clean(headline)[:300], "why": _clean(why)[:400]})
+    return out
+
+
+# ---------------------------------------------------------------- WHO
+
+WHO_DON = "https://www.who.int/api/news/diseaseoutbreaknews"
+
+
+def who_outbreaks() -> list:
+    data = _get(WHO_DON, params={"$top": 20, "$orderby": "PublicationDate desc"}).json()
+    rows = []
+    for item in data.get("value") or []:
+        title = _clean(item.get("OverrideTitle") if item.get("UseOverrideTitle") else item.get("Title"))
+        name = item.get("UrlName") or ""
+        if not title or not name:
+            continue
+        rows.append({"key": f"who-don:{name}", "title": title, "detail": _clean(item.get("Summary"))[:1200],
+                     "url": f"https://www.who.int/emergencies/disease-outbreak-news/item/{name}",
+                     "date": _day(str(item.get("PublicationDate") or "")[:10], "%Y-%m-%d")})
+    if not rows:
+        raise RuntimeError("nothing in WHO's Disease Outbreak News (the address may have changed)")
+    return rows
+
+
 # ---------------------------------------------------------------- the step
 
 # name in watchlist.yml -> (reader, source on the website, list within it)
@@ -238,12 +418,14 @@ READERS = {
     "mca_updates": (mca_updates, "MCA", "Important updates"),
     "cci_whats_new": (cci_whats_new, "CCI What's new", ""),
     "ibbi": (ibbi, "IBBI", "What's new"),
+    "who_outbreaks": (who_outbreaks, "WHO outbreak news", ""),
 }
 
 
 def run(dry_run: bool = False) -> int:
     names = website._cfg().get("pages") or []
-    if not website.enabled() or not names:
+    more = [m for m in website._cfg().get("more") or [] if m.get("source") and (m.get("url") or m.get("feed"))]
+    if not website.enabled() or not (names or more):
         print("No website-only pages to read (\"site:\" in watchlist.yml).")
         return 0
     print("Reading the pages kept for the website only...")
@@ -272,7 +454,33 @@ def run(dry_run: bool = False) -> int:
         if dry_run:
             for row in rows[:3]:
                 print(f"      {row.get('date') or ''} {row['title'][:90]}  {row.get('url', '')[:80]}")
+    # "site: more:" -- read several at once, as the desks do
+    from . import parallel                                            # noqa: PLC0415
+    screened = []
+    jobs = [(_more_label(m), lambda m=m: read_more(m)) for m in more]
+    for m, (label, found, exc) in zip(more, parallel.run(jobs)):
+        grp = "official" if m.get("ai") else "watch"
+        catalogue.add((grp, m["source"], m["sub"]) if m.get("sub") else (grp, m["source"]))
+        if exc is not None:
+            print(f"  ! {label} failed: {str(exc)[:160]}")
+            failed.append(label)
+            continue
+        print(f"  {label}: {len(found)} row(s)" + ("  [AI]" if m.get("ai") else ""))
+        for row in found:
+            item = {"id": f"site:{m['source']}|{row['key']}"[:300], "grp": grp, "source": m["source"], "sub": m.get("sub") or "",
+                    "title": row["title"][:500], "body": row.get("detail", "")[:1500], "url": row.get("url", ""),
+                    "issued": f"{row['date']:%b} {row['date'].day}, {row['date'].year}" if row.get("date") else "",
+                    "date": row["date"].isoformat() if row.get("date") else "",
+                    "quiet": bool(row.get("date") and row["date"] < old)}
+            (screened if m.get("ai") else items).append(item)
+        if dry_run:
+            for row in found[:3]:
+                print(f"      {row.get('date') or ''} {row['title'][:90]}  {row.get('url', '')[:80]}")
     website.send("site", items, sources=sorted(catalogue), failed=failed, all_listed=True, dry_run=dry_run)
+    judged = _screen(screened, dry_run)
+    if judged:
+        # the national bureau's view: "for a beat reporter"
+        website.send("site", judged, view="bureau", all_listed=True, dry_run=dry_run)
     return 0
 
 

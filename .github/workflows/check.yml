@@ -155,13 +155,16 @@ jobs:
           fi
 
       # The fifth: pages read only for the website (PTI Source Alerts), never emailed --
-      # DGCA, AAIB, MCA, CCI and IBBI, for the aviation and corporate-affairs reporter
-      # (site_sources.py; "site: pages:" in watchlist.yml). It needs no memory: the website
-      # knows what it has already been given. MCA refuses anything but a browser, hence
-      # curl_cffi -- installed here only, so a problem installing it touches nothing else.
+      # DGCA, AAIB, MCA, CCI and IBBI, for the aviation and corporate-affairs reporter, and
+      # (from 2026-10-11) about 40 more under "site: more:", the busy ones screened by the
+      # AI once an hour (site_sources.py; "site:" in watchlist.yml). It needs no memory: the
+      # website knows what it has already been given. MCA refuses anything but a browser,
+      # hence curl_cffi -- installed here only, so a problem installing it touches nothing else.
       - name: Check the website-only pages
         if: always() && inputs.mode != 'test-email'
-        timeout-minutes: 5
+        timeout-minutes: 8
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           pip install --quiet "curl_cffi>=0.7" || echo "curl_cffi did not install; MCA is skipped this run"
           if [ "${{ inputs.mode }}" = "dry-run" ]; then

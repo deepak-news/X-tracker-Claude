@@ -11,6 +11,8 @@ there, not here.
                ("national" view) and by the bureau ("bureau" view)
     watch      the government watch pages (watch.py), and the pages read only for the
                website (site_sources.py): no AI, every new row counts
+    official   also the website-only pages marked "ai: true" (site_sources.py), each new row
+               scored by the AI against "site: newsworthy" before it is handed over
     tech       the Tech Desk's company and AI-lab newsrooms (main.py) -- primary sources
                only; Google News reports are never sent, and PIB and the regulators are
                already in the official stream
@@ -105,6 +107,27 @@ def send(origin: str, items: list, *, view: str = "", sources: list | None = Non
         print(f"  website: handed over {len(items)} item(s), {fresh} new there")
     except Exception as exc:                                          # noqa: BLE001
         print(f"  ! website hand-off failed ({str(exc)[:160]}); the emails are not affected")
+
+
+def known(ids: list, sources: list) -> dict | None:
+    """Which of these item ids the website already has, and which sources ("official|White
+    House") have had their first list taken in. None when it cannot be asked: the caller then
+    judges nothing this run (site_sources.py, the pages its AI screens)."""
+    if not enabled():
+        return None
+    try:
+        auth = _auth()
+        if not auth:
+            return None
+        url = (_cfg().get("url") or DEFAULT_URL).rstrip("/") + "/api/known"
+        answer = requests.post(url, json={"ids": ids, "sources": sources}, timeout=TIMEOUT,
+                               headers={"Authorization": auth, "User-Agent": "news-tracker"})
+        answer.raise_for_status()
+        data = answer.json()
+        return {"known": set(data.get("known") or []), "started": set(data.get("started") or [])}
+    except Exception as exc:                                          # noqa: BLE001
+        print(f"  ! could not ask the website what it already has ({str(exc)[:160]})")
+        return None
 
 
 # ---------------------------------------------------------------- what each item is
