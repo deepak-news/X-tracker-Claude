@@ -237,10 +237,28 @@ DGFT_LISTS = {"notification": "Notification", "public-notice": "Public Notice",
 DGFT_ROWS = 25
 
 
+# DGFT refuses GitHub's servers (403 on every run since about 2026-09-27) but answers
+# Cloudflare's, so on GitHub it is read through the mea-relay Worker. Switch: "dgft_relay"
+# in watchlist.yml (true by default; false = ask DGFT directly, as before).
+RELAY = "https://mea-relay.ptiinfographics.workers.dev/page"
+
+
+def _dgft_relay() -> bool:
+    try:
+        import pathlib                                                # noqa: PLC0415
+        import yaml                                                   # noqa: PLC0415
+        cfg = yaml.safe_load((pathlib.Path(__file__).resolve().parent.parent / "watchlist.yml").read_text()) or {}
+        return cfg.get("dgft_relay", True) is not False
+    except Exception:                                                 # noqa: BLE001
+        return True
+
+
 def dgft(session) -> list:
     out = []
+    relay = _dgft_relay()
     for opt, kind in DGFT_LISTS.items():
-        page = _request(session, "GET", DGFT + opt)
+        page = (_request(session, "GET", RELAY, params={"u": DGFT + opt}) if relay
+                else _request(session, "GET", DGFT + opt))
         table = BeautifulSoup(page.text, "html.parser").find("table", id="metaTable")
         if table is None:
             raise RuntimeError(f"DGFT {kind.lower()}s: the table was not where it usually is")
@@ -285,6 +303,12 @@ def describe(row: dict) -> str:
     return f"{kind}: {row['title']}. {row.get('detail', '')}".strip()
 
 
+# DGFT puts its documents up within a day or two of the date on them, unlike CCI. A week is
+# plenty, and it kept the fortnight DGFT could not be read (until 2026-10-11) from arriving
+# as "new" when reading resumed.
+MAX_AGE_DAYS = {"dgft": 7}
+
+
 def read(which: str, max_age_days: int = 30) -> list:
     """One regulator's rows, minus anything too old to be news."""
     global _deadline
@@ -296,4 +320,5 @@ def read(which: str, max_age_days: int = 30) -> list:
     finally:
         _deadline = float("inf")
     today = dt.datetime.now(IST).date()
+    max_age_days = min(max_age_days, MAX_AGE_DAYS.get(which, max_age_days))
     return [r for r in rows if r.get("date") and (today - r["date"]).days <= max_age_days]

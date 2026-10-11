@@ -961,6 +961,11 @@ bureau:
 # wait, not added to everyone else's. 1 = one after another, as before.
 parallel_reads: 6
 
+# DGFT refuses GitHub's servers, so its notifications, public notices and trade
+# notices are read through the mea-relay Worker on Cloudflare (added
+# 2026-10-11). false = ask DGFT directly, as before.
+dgft_relay: true
+
 site:
   send: true          # false = hand nothing to the website
   url: "https://pti-source-alerts.ptiinfographics.workers.dev"
