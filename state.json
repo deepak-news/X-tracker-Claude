@@ -1,23 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-04T17:32:03.978285+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Bhavish Aggarwal pledges 4.32% stake for Ola Electric rights issue",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZFhudjVaWTAwckdhcno0MmRjMjMzemRJVEFMYkh1OFJMOFZWczE5QzF1YklEdjRacFNtdXd4ZzZpLWdoT2ZqZEczQ3JRTDJEa1lBNXpTOFFNc29yWHFBelcxUVFkVXVIdm5wb2diSUlOblZLcDk5N0s1WmtfRG5BQW8zallWbEJIUE5XTG45OFdfMEJaeF9KX0Y5bHJFcXJLOF9TMGZLU0VUalJ1VTRyYVFnaDRSaFU3MGR5b3RBanZ6SmRHa3JDSFd5eU82MXhH0gHQAUFVX3lxTE1kWG52NVpZMDByR2FyejQyZGMyMzN6ZElUQUxiSHU4Ukw4VlZzMTlDMXViSUR2NFpwU211d3hnNmktZ2hPZmpkRzNDclFMMkRrWUE1elM4UU1zb3JYcUF6VzFRUWRVdUh2bnBvZ2JJSU5uVktwOTk3SzVaa19EbkFBbzNqWVZsQkhQTldMbjk4V18wQlp4X0pfRjlsckVxcks4X1MwZktTRVRqUnVVNHJhUWdoNFJoVTcwZHlvdEFqdnpKZEdrckNIV3l5TzYxeEc?oc=5",
-      "words": [
-        "aggarwal",
-        "bhavish",
-        "electric",
-        "issue",
-        "ola",
-        "pledges",
-        "rights",
-        "stake"
-      ]
-    },
-    {
       "at": "2026-10-04T18:32:03.443597+00:00",
       "handle": "News: India fintech",
       "headline": "Survey reveals consumer shift to cards if UPI MDR is passed on",
@@ -7478,6 +7461,29 @@
         "trust",
         "warns"
       ]
+    },
+    {
+      "at": "2026-10-11T06:32:04.174311+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Parliamentary IT Panel chief Nishikant Dubey dismisses Elon Musk's Starlink pressure",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOOTI2ZzMzallaOHFEdjJ1SVhCZ3BoNXFIVGZWZ2lRWHN2Z3RuYUNMbG1WRFhSNTRaWEx1TEc5ZVRxQ1N1ZlJ5YmktT0c5MGlpbWNXTW1iTWRNUVAwTTFpWVIwX3hzZlhCUHVnaTY2ZVRpck1FNnFaLXhaQWhHYlFDV0EyMUliYjdwWDBHM3FQUFhWaXZobS1HMVBQUWZ5bEZpSVJvNWQ0OGZ5SmVINXN4bWVNd3I5RkZDRGdFa0ZEQnpqTlNTYlFhcmxMUDhpbGJxQnBPaTB5enNaODFCWU5WNXk0ekRSdC1jNmZ5NzVTU1RhemlnTXhLWTZKd1Zza1psQzB4QVpfWkhFaC15N3UtMFhNT2FKU1VGaGpJUU5rVVY?oc=5",
+      "words": [
+        "change",
+        "chief",
+        "dubey",
+        "elon",
+        "musk",
+        "nishikant",
+        "panel",
+        "parliamentary",
+        "policy",
+        "pressure",
+        "row",
+        "security",
+        "slams",
+        "starlink"
+      ]
     }
   ],
   "bureau": {
@@ -8606,9 +8612,12 @@
       "CG-DL-E-10102026-277056"
     ],
     "health": {
-      "down": {}
+      "down": {
+        "MEA press releases": "2026-10-11T06:35:35.139288+00:00",
+        "MEA statements": "2026-10-11T06:35:35.139288+00:00"
+      }
     },
-    "last_run": "2026-10-11T06:17:39.470500+00:00",
+    "last_run": "2026-10-11T06:35:35.139584+00:00",
     "pib_mark": 2321873,
     "seen": [
       "pib:2320137",
@@ -9062,7 +9071,14 @@
       "pib:2321864",
       "pib:2321873"
     ],
-    "source_failures": {},
+    "source_failures": {
+      "MEA press releases": {
+        "count": 1
+      },
+      "MEA statements": {
+        "count": 1
+      }
+    },
     "sources": [
       "Gazette of India (Extraordinary)",
       "PIB, all ministries"
@@ -9071,12 +9087,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791187203012",
-    "1791188037802",
-    "1791190522499",
-    "1791191400075",
-    "1791196895984",
-    "1791198329774",
     "1791199320384",
     "1787058040492",
     "1791168240717",
@@ -13233,7 +13243,6 @@
     "1791546120727",
     "1791553126818",
     "1791619850691",
-    "1791620054442",
     "1791631270849",
     "1791547301362",
     "1791551146725",
@@ -13586,11 +13595,8 @@
     "1791609946546",
     "1791615001344",
     "1791610914117",
-    "1791626783286",
     "1791632757932",
     "1791634020610",
-    "1791651720421",
-    "1791693182619",
     "1791612077377",
     "1791623709378",
     "1791629732433",
@@ -13599,15 +13605,25 @@
     "1791653346821",
     "1791653487215",
     "1791654227367",
-    "1791679863030",
     "1791681473797",
     "1791686280909",
-    "1791688000664",
     "1791693780572",
     "1791634715395",
     "1791690188870",
     "1791690454753",
     "1791694985284",
+    "1791613215171",
+    "1791613215213",
+    "1791613369104",
+    "1791613563486",
+    "1791627068044",
+    "1791633070327",
+    "1791685281700",
+    "1791686984284",
+    "1791690442042",
+    "1791693652817",
+    "1791695877073",
+    "1791698598453",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14869,10 +14885,6 @@
     "1791552963003",
     "1791555502485",
     "1791570600561",
-    "1791613215171",
-    "1791613215213",
-    "1791613369104",
-    "1791613563486",
     "1791614145876",
     "1791614697160",
     "1791615144577",
@@ -14886,15 +14898,16 @@
     "1791618183767",
     "1791618305238",
     "1791619903771",
+    "1791620054442",
     "1791621000414",
     "1791621949192",
     "1791622113666",
     "1791623831783",
     "1791624841615",
     "1791626038871",
+    "1791626783286",
     "1791626872520",
     "1791627000109",
-    "1791627068044",
     "1791627323528",
     "1791628474785",
     "1791628806862",
@@ -14909,7 +14922,6 @@
     "1791631291511",
     "1791632182862",
     "1791632196066",
-    "1791633070327",
     "1791633509798",
     "1791633628607",
     "1791633632595",
@@ -14942,6 +14954,7 @@
     "1791648759073",
     "1791650255539",
     "1791650817598",
+    "1791651720421",
     "1791653128359",
     "1791653170591",
     "1791653487549",
@@ -14975,6 +14988,7 @@
     "1791676800613",
     "1791677704828",
     "1791678660556",
+    "1791679863030",
     "1791682201512",
     "1791683476980",
     "1791683914292",
@@ -14983,32 +14997,29 @@
     "1791684677466",
     "1791684880357",
     "1791684941293",
-    "1791685281700",
     "1791685353202",
     "1791685806923",
     "1791686280048",
     "1791686820834",
     "1791686879304",
-    "1791686984284",
     "1791687132782",
     "1791687576587",
     "1791688000602",
+    "1791688000664",
     "1791688253297",
     "1791688620619",
     "1791688915913",
     "1791689656409",
     "1791690188378",
-    "1791690442042",
     "1791690454943",
     "1791690704008",
     "1791692956066",
+    "1791693182619",
     "1791693370106",
-    "1791693652817",
     "1791693780595",
     "1791693812679",
     "1791693939263",
     "1791695580755",
-    "1791695877073",
     "1791696025998",
     "1791696256688",
     "1791696638181",
@@ -15016,8 +15027,13 @@
     "1791697139410",
     "1791697145919",
     "1791697186092",
+    "1791697676909",
     "1791698168948",
-    "1791698598453",
+    "1791698598565",
+    "1791699081504",
+    "1791699281673",
+    "1791699540364",
+    "1791699650636",
     "2317509",
     "2317615",
     "2317714",
@@ -15072,8 +15088,8 @@
     "2321784",
     "2321853"
   ],
-  "last_digest_hour": "2026-10-11T11",
-  "last_success": "2026-10-11T06:16:42.443219+00:00",
+  "last_digest_hour": "2026-10-11T12",
+  "last_success": "2026-10-11T06:32:04.234662+00:00",
   "national": {
     "alerted": [
       {
@@ -21245,12 +21261,14 @@
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
         "IRDAI": "2026-10-10T12:18:19.450293+00:00",
+        "MEA press releases": "2026-10-11T06:35:17.887894+00:00",
+        "MEA statements": "2026-10-11T06:35:17.887894+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-10T20:19:58.349393+00:00"
     },
-    "last_run": "2026-10-11T06:17:33.329627+00:00",
+    "last_run": "2026-10-11T06:35:17.888740+00:00",
     "pib_mark": 2321873,
     "seen": [
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-how-dialogue-is-replacing-disputes-and-trust-is-strengthening-centre-state-relations",
@@ -24267,6 +24285,12 @@
         "count": 5,
         "until": "2026-10-11T07:23:41.607711+00:00"
       },
+      "MEA press releases": {
+        "count": 1
+      },
+      "MEA statements": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -25383,21 +25407,21 @@
     "microsoft india": 1791287213526,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791698168948,
+    "news: big tech platforms": 1791699540364,
     "news: consumer internet india": 1791696638181,
     "news: global ai": 1791689656409,
     "news: global chips": 1791694985284,
-    "news: global it services": 1791665643354,
+    "news: global it services": 1791693370106,
     "news: india ai deeptech": 1791667807358,
     "news: india edtech gaming": 1791690442042,
-    "news: india fintech": 1791684880600,
+    "news: india fintech": 1791699081504,
     "news: india semiconductors": 1791633509798,
     "news: india tech policy": 1791690454943,
     "news: india telecom": 1791697139410,
-    "news: indian it majors": 1791697145919,
+    "news: indian it majors": 1791699650636,
     "news: indian it midcaps": 1791676800613,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1791698598453,
+    "news: tech leaders": 1791698598565,
     "nvidia": 1791493595788,
     "nvidia blog": 1791493595953,
     "openai": 1791529200692,
@@ -25445,7 +25469,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-11T06:16:42.817548+00:00",
+    "last_server_run": "2026-10-11T06:32:04.484745+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-11T05:33:03.127522+00:00",
