@@ -705,6 +705,16 @@ national:
       diplomatic moves
     - RBI decisions on interest rates, banks, UPI or money that people
       use; SEBI actions that affect ordinary investors
+    - RBI measures for the markets, which a wire agency always reports:
+      new rules or steps for the foreign exchange market and the rupee
+      (limits, reserve requirements, special dollar windows, curbs on
+      speculation), changes to banks' cash reserve or liquidity rules, and
+      special liquidity or bond-market measures announced as a policy
+      step (an OMO purchase or sale programme, a special repo window).
+      Score these 8 or higher, even when the title is technical. The
+      routine weekly or daily auctions stay below (added 2026-10-11, after
+      "RBI Announces Regulatory Measures for the Foreign Exchange Market"
+      scored 4)
     - Elections, disasters, major accidents, and official responses to them
     - Landmark numbers: GDP, inflation, record achievements, milestones
     - Changes to the machinery of government that a wire agency reports as
@@ -783,6 +793,8 @@ national:
 
     LEAVE OUT:
     - Auctions, tenders, recovery orders and routine compliance notices
+      (including the RBI's regular T-bill, state bond and VRR/VRRR
+      auctions -- but not the market measures above)
     - Meetings held, visits, events attended, speeches with no decision
     - Greetings, condolences, anniversaries, quotes and awareness drives
     - Congratulations on sporting medals and wins, including the Prime
