@@ -956,6 +956,11 @@ bureau:
 #  each reporter picks their own sources, score bar and keywords. The
 #  emails above are not changed by any of this. Added 2026-10-11.
 # ======================================================================
+# How many sources are read at the same time (tracker/parallel.py), for the
+# national desk and the Tech Desk. A slow site then delays a run by its own
+# wait, not added to everyone else's. 1 = one after another, as before.
+parallel_reads: 6
+
 site:
   send: true          # false = hand nothing to the website
   url: "https://pti-source-alerts.ptiinfographics.workers.dev"

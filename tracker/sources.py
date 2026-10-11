@@ -29,7 +29,7 @@ import requests
 from pypdf import PdfReader
 from bs4 import BeautifulSoup
 
-from . import krutidev, regulators
+from . import krutidev, parallel, regulators
 
 
 @dataclass
@@ -748,45 +748,34 @@ def collect(cfg: dict, page_memory: dict | None = None):
             print(f"  ! PIB failed: {exc}")
             failed.append("PIB")
 
+    # Feeds, company pages, regulators and news searches, several at once (parallel.py).
+    # Each job: (name, reader, its summary line, the name it fails under).
+    jobs = []
     for feed in sources.get("rss") or []:
-        try:
-            found = _rss(feed["url"], feed["name"])
-            posts.extend(found)
-            print(f"  {feed['name']}: {len(found)} items")
-        except Exception as exc:  # noqa: BLE001
-            print(f"  ! {feed['name']} failed: {exc}")
-            failed.append(feed["name"])
-
+        jobs.append((feed["name"], lambda feed=feed: _rss(feed["url"], feed["name"]),
+                     lambda n, feed=feed: f"  {feed['name']}: {n} items", feed["name"]))
     for entry in sources.get("pages") or []:
-        try:
-            found = _page(entry, page_memory)
-            posts.extend(found)
-            print(f"  {entry['name']}: {len(found)} article links")
-        except Exception as exc:  # noqa: BLE001
-            print(f"  ! {entry['name']} failed: {str(exc)[:120]}")
-            failed.append(entry["name"])
-
+        jobs.append((entry["name"], lambda entry=entry: _page(entry, page_memory),
+                     lambda n, entry=entry: f"  {entry['name']}: {n} article links", entry["name"]))
     for which in sources.get("regulators") or []:
-        label = f"REG {regulators.NAMES[which]}"
-        try:
-            found = _regulator(which)
-            posts.extend(found)
-            print(f"  {regulators.NAMES[which]}: {len(found)} documents in the last 30 days")
-        except Exception as exc:  # noqa: BLE001
-            print(f"  ! {regulators.NAMES[which]} failed: {str(exc)[:120]}")
-            failed.append(label)
-
+        jobs.append((regulators.NAMES[which], lambda which=which: _regulator(which),
+                     lambda n, which=which: f"  {regulators.NAMES[which]}: {n} documents in the last 30 days",
+                     f"REG {regulators.NAMES[which]}"))
     # Only the outlets listed in watchlist.yml ("news_outlets").
     outlets = {str(o).lower().strip() for o in (sources.get("news_outlets") or [])}
     for topic in sources.get("google_news") or []:
         label = f"News: {topic['name']}"
-        try:
-            found = _google_news(topic["q"], label, outlets)
+        jobs.append((label, lambda topic=topic, label=label: _google_news(topic["q"], label, outlets),
+                     lambda n, label=label: f"  {label}: {n} items", label))
+
+    results = parallel.run([(name, read) for name, read, _, _ in jobs])
+    for (name, _, line, fail_as), (_, found, exc) in zip(jobs, results):
+        if exc is None:
             posts.extend(found)
-            print(f"  {label}: {len(found)} items")
-        except Exception as exc:  # noqa: BLE001
-            print(f"  ! {label} failed: {exc}")
-            failed.append(label)
+            print(line(len(found)))
+        else:
+            print(f"  ! {name} failed: {str(exc)[:120]}")
+            failed.append(fail_as)
 
     if not posts:
         raise XUnavailable(

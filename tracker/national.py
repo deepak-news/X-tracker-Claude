@@ -33,7 +33,7 @@ import yaml
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
-from . import email_out, judge, regulators, score_log, source_health, sources, watch, website
+from . import email_out, judge, parallel, regulators, score_log, source_health, sources, watch, website
 from .main import dead_models, record_dead_models
 from .sources import Post
 
@@ -594,6 +594,7 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None) -> tuple:
     for entry in cfg.get("mea") or []:
         readers.append((entry["name"], lambda entry=entry: _mea(entry)))
 
+    jobs = []
     for name, read in readers:
         record = health.get(name) or {}
         # A source that keeps failing is rested for a few hours. The gazette
@@ -604,14 +605,18 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None) -> tuple:
             print(f"  {name}: resting after {record.get('count')} failed runs, "
                   f"tried again after {record['until'][11:16]} UTC")
             continue
-        try:
-            found = watch._try(name, read)
+        jobs.append((name, lambda name=name, read=read: watch._try(name, read)))
+
+    # several sites at once (parallel.py); the results come back in the usual order
+    for name, found, exc in parallel.run(jobs):
+        record = health.get(name) or {}
+        if exc is None:
             print(f"  {name}: {len(found)} item(s)")
             for post in found:
                 post.source = name
             posts.extend(found)
             health.pop(name, None)
-        except Exception as exc:                                  # noqa: BLE001
+        else:
             print(f"  ! {name} failed: {str(exc)[:160]}")
             failed.append(name)
             count = int(record.get("count", 0)) + 1
