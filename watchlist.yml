@@ -1086,6 +1086,10 @@ site:
     - {source: ICC, url: "https://www.icc-cricket.com/media-releases", match: "/media-releases/[a-z0-9-]+$", strip: "^(Media Release|Online Media Zone)\\s*|\\s+\\d+[mhd]$", ai: true}
     - {source: AIFF, url: "https://www.the-aiff.com/", match: "/article/", ai: true}
     - {source: Hockey India, url: "https://www.hockeyindia.org/", match: "hockeyindia\\.org/news/(?!category/)", ai: true}
+    # Added 2026-10-11, the user's choice
+    - {source: IOA, url: "https://olympic.ind.in/", match: "olympic\\.ind\\.in/wp-content/uploads/20\\d\\d/\\d\\d/.+\\.pdf$", strip: "^\\d+\\s+", exclude: "tender|quotation"}
+    - {source: BAI, url: "https://www.badmintonindia.org/", match: "/download/news/", exclude: "advertisement|tender"}
+    - {source: AFI, url: "https://indianathletics.in/", match: "indianathletics\\.in/[a-z0-9]+(-[a-z0-9]+){4,}/?$", ai: true}
 
   # The AI judges these once an hour (in the run after the hour, India time),
   # or sooner when 15 rows are waiting -- one request either way. false = in
