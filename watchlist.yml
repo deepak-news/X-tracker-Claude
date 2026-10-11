@@ -288,45 +288,49 @@ sources:
 
   # 1. Exchange filings - the primary document, usually ahead of any tweet.
   #    All 37 codes verified: the API returns the company BSE has on file.
-  bse:
-    - {code: 532454, name: Bharti Airtel}
-    - {code: 500463, name: Black Box}
-    - {code: 532541, name: Coforge}
-    - {code: 532175, name: Cyient}
-    - {code: 544700, name: Fractal Analytics}
-    - {code: 543227, name: Happiest Minds}
-    - {code: 532281, name: HCLTech}
-    - {code: 500183, name: HFCL}
-    - {code: 532777, name: Info Edge}
-    - {code: 500209, name: Infosys}
-    - {code: 542651, name: KPIT Technologies}
-    - {code: 540115, name: LTTS}
-    - {code: 544600, name: Lenskart}
-    - {code: 540005, name: LTIMindtree}
-    - {code: 544632, name: Meesho}
-    - {code: 544305, name: MobiKwik}
-    - {code: 543280, name: Nazara}
-    - {code: 543945, name: Netweb}
-    - {code: 500304, name: NIIT}
-    - {code: 543952, name: NIIT Learning Systems}
-    - {code: 543384, name: Nykaa}
-    - {code: 543396, name: Paytm}
-    - {code: 533179, name: Persistent}
-    - {code: 544285, name: Swiggy}
-    - {code: 543573, name: Syrma SGS}
-    - {code: 500483, name: Tata Communications}
-    - {code: 532540, name: TCS}
-    - {code: 532755, name: Tech Mahindra}
-    - {code: 544515, name: Urban Company}
-    - {code: 532822, name: Vodafone Idea}
-    - {code: 507685, name: Wipro}
-    - {code: 543985, name: Zaggle}
-    # kept from before - remove any you do not want
-    - {code: 543320, name: Eternal/Zomato}
-    - {code: 544225, name: Ola Electric}
-    - {code: 526299, name: Mphasis}
-    - {code: 500408, name: Tata Elxsi}
-    - {code: 500325, name: Reliance}
+  # OFF since 2026-10-11: BSE's filings API answers every script with "Access
+  # Denied" (from GitHub and from a home line alike, with or without browser
+  # cookies); its public RSS lists only the latest 14 filings exchange-wide.
+  # Nothing was read from it all of the past week. Uncomment if BSE reopens it.
+  # bse:
+  #   - {code: 532454, name: Bharti Airtel}
+  #   - {code: 500463, name: Black Box}
+  #   - {code: 532541, name: Coforge}
+  #   - {code: 532175, name: Cyient}
+  #   - {code: 544700, name: Fractal Analytics}
+  #   - {code: 543227, name: Happiest Minds}
+  #   - {code: 532281, name: HCLTech}
+  #   - {code: 500183, name: HFCL}
+  #   - {code: 532777, name: Info Edge}
+  #   - {code: 500209, name: Infosys}
+  #   - {code: 542651, name: KPIT Technologies}
+  #   - {code: 540115, name: LTTS}
+  #   - {code: 544600, name: Lenskart}
+  #   - {code: 540005, name: LTIMindtree}
+  #   - {code: 544632, name: Meesho}
+  #   - {code: 544305, name: MobiKwik}
+  #   - {code: 543280, name: Nazara}
+  #   - {code: 543945, name: Netweb}
+  #   - {code: 500304, name: NIIT}
+  #   - {code: 543952, name: NIIT Learning Systems}
+  #   - {code: 543384, name: Nykaa}
+  #   - {code: 543396, name: Paytm}
+  #   - {code: 533179, name: Persistent}
+  #   - {code: 544285, name: Swiggy}
+  #   - {code: 543573, name: Syrma SGS}
+  #   - {code: 500483, name: Tata Communications}
+  #   - {code: 532540, name: TCS}
+  #   - {code: 532755, name: Tech Mahindra}
+  #   - {code: 544515, name: Urban Company}
+  #   - {code: 532822, name: Vodafone Idea}
+  #   - {code: 507685, name: Wipro}
+  #   - {code: 543985, name: Zaggle}
+  #   # kept from before - remove any you do not want
+  #   - {code: 543320, name: Eternal/Zomato}
+  #   - {code: 544225, name: Ola Electric}
+  #   - {code: 526299, name: Mphasis}
+  #   - {code: 500408, name: Tata Elxsi}
+  #   - {code: 500325, name: Reliance}
 
   # 2. Company newsrooms - the company speaking for itself.
   #    Only feeds that actually returned dated items are listed; the rest
