@@ -257,7 +257,8 @@ AI_PER_RUN = 90         # rows the AI may judge in one run (six requests); the r
 def _text(entry) -> bytes:
     url = entry.get("url") or entry.get("feed")
     if entry.get("relay"):
-        response = requests.get(RELAY, params={"u": url}, headers=HEADERS, timeout=TIMEOUT)
+        # the relay waits on a slow site itself (the State Department: 10 seconds and more)
+        response = requests.get(RELAY, params={"u": url}, headers=HEADERS, timeout=70)
         response.raise_for_status()
         return response.content
     return _get(url).content
