@@ -8585,7 +8585,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-11T05:07:10.862926+00:00",
+    "last_run": "2026-10-11T05:20:42.339759+00:00",
     "pib_mark": 2321859,
     "seen": [
       "pib:2320137",
@@ -9045,8 +9045,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791137308152",
-    "1791174360663",
     "1791177666763",
     "1791181853316",
     "1791191765178",
@@ -13537,7 +13535,6 @@
     "1791642421393",
     "1791651503351",
     "1791603240927",
-    "1791629732433",
     "1791631254935",
     "1791665945487",
     "1791673322497",
@@ -13556,7 +13553,6 @@
     "1791688279141",
     "1791605186702",
     "1791605617962",
-    "1791684540655",
     "1791684880600",
     "1791686943462",
     "1791605979983",
@@ -13574,13 +13570,15 @@
     "1791654973455",
     "1791684004284",
     "1791685329477",
-    "1791688000602",
     "1791688915913",
     "1791641236441",
     "1791658378046",
     "1791661800127",
-    "1791688000664",
     "1791690454753",
+    "1791608793378",
+    "1791609229531",
+    "1791684540983",
+    "1791693780595",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14842,9 +14840,8 @@
     "1791552963003",
     "1791555502485",
     "1791570600561",
-    "1791608793378",
-    "1791609229531",
     "1791609946546",
+    "1791610914117",
     "1791612077377",
     "1791613215171",
     "1791613215213",
@@ -14881,6 +14878,7 @@
     "1791629129918",
     "1791629220201",
     "1791629707630",
+    "1791629732433",
     "1791630001663",
     "1791630460400",
     "1791630604274",
@@ -14968,7 +14966,7 @@
     "1791683476980",
     "1791683914292",
     "1791684385410",
-    "1791684540983",
+    "1791684540655",
     "1791684677466",
     "1791684880357",
     "1791684941293",
@@ -14980,6 +14978,8 @@
     "1791686984284",
     "1791687132782",
     "1791687576587",
+    "1791688000602",
+    "1791688000664",
     "1791688253297",
     "1791688620619",
     "1791689656409",
@@ -14989,7 +14989,7 @@
     "1791692956066",
     "1791693370106",
     "1791693652817",
-    "1791693780595",
+    "1791693780572",
     "1791693812679",
     "1791693939263",
     "2317509",
@@ -15047,7 +15047,7 @@
     "2321853"
   ],
   "last_digest_hour": "2026-10-11T10",
-  "last_success": "2026-10-11T05:02:15.907028+00:00",
+  "last_success": "2026-10-11T05:16:46.692762+00:00",
   "national": {
     "alerted": [
       {
@@ -21149,24 +21149,16 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "CERT-In": "2026-10-11T05:07:08.745320+00:00",
         "DGFT": "2026-10-01T19:20:11.147171+00:00",
         "IRDAI": "2026-10-10T12:18:19.450293+00:00",
-        "President of India": "2026-10-11T05:07:08.745320+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-10T20:19:58.349393+00:00"
     },
-    "last_run": "2026-10-11T05:07:08.746018+00:00",
-    "pib_mark": 2321857,
+    "last_run": "2026-10-11T05:20:38.984329+00:00",
+    "pib_mark": 2321859,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-semicon-india-2026",
-      "pib:2311316",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-remarks-during-the-release-of-instalment-under-the-annapurna-yojana-in-west-bengal-via-vc",
-      "pib:2311342",
-      "pib:2311348",
-      "gazette:CG-DL-E-17092026-276286",
       "gazette:CG-OR-E-17092026-276285",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-coalition-building-approach-in-a-fractured-world",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-rapidly-evolving-deep-tech-capabilities",
@@ -23836,6 +23828,11 @@
       "pib:2321828",
       "pib:2321853",
       "pib:2321854",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-gratitude-to-prime-minister-of-the-republic-of-trinidad-and-tobago-for-her-wishes-on-completing-25-years-of-service-to-the-nation-as-head-of-government",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-welcomes-gst-councils-recommendations-for-simpler-trust-based-tax-administration",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-emphasizing-on-virtues-of-dignity-and-humility",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-lesson-for-governance-for-viksit-bharat-2047",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-team-india-representatives-at-48th-worldskills-competition",
       "certin:CIAD-2026-0046",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-nift-paraisaraon-kae",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-saikasaka-daivasa-kae-3",
@@ -23967,12 +23964,7 @@
       "page:https://internal.imd.gov.in/press_release/20261008_pr_5387.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-inauguration-of-10th-edition-of-the-india-mobile-congress",
       "page:https://internal.imd.gov.in/press_release/20261008_pr_5389.pdf",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-gratitude-to-prime-minister-of-the-republic-of-trinidad-and-tobago-for-her-wishes-on-completing-25-years-of-service-to-the-nation-as-head-of-government",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-welcomes-gst-councils-recommendations-for-simpler-trust-based-tax-administration",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-emphasizing-on-virtues-of-dignity-and-humility",
       "page:https://internal.imd.gov.in/press_release/20261009_pr_5390.pdf",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-lesson-for-governance-for-viksit-bharat-2047",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-team-india-representatives-at-48th-worldskills-competition",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-kutch-gujarat",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-chairs-valedictory-session-of-national-departmental-summit-on-women-and-child-development",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-passing-of-mr-kuchi-rangkau-zeliang",
@@ -24160,15 +24152,18 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0",
       "pib:2321856",
       "pib:2321857",
-      "pib:2321855"
+      "pib:2321855",
+      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-manipur-meets-the-pm",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-loknayak-jayaprakash-narayan-on-his-birth-anniversary-highlights-his-ideals-of-good-governance",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-homage-to-nanaji-deshmukh-on-his-birth-anniversary-highlights-his-contribution-to-rural-development",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-offers-prayers-to-maa-shailputri-on-the-first-day-of-navratri",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tribute-to-maharaja-agrasen-ji-2",
+      "pib:2321859"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "CERT-In": {
-        "count": 1
       },
       "DGFT": {
         "count": 79,
@@ -24177,9 +24172,6 @@
       "IRDAI": {
         "count": 5,
         "until": "2026-10-11T07:23:41.607711+00:00"
-      },
-      "President of India": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -25378,7 +25370,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-11T05:02:16.276158+00:00",
+    "last_server_run": "2026-10-11T05:16:47.058464+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-11T03:17:37.072564+00:00",
