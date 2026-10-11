@@ -2,6 +2,10 @@
 the aviation and corporate-affairs reporter.
 
     dgca_comments   DGCA: draft rules out for public comment ("Comments invited")
+    dgca_traffic    DGCA: monthly domestic air traffic data
+    dgca_schedules  DGCA: airlines' approved domestic schedules (summer and winter)
+    dgca_circulars  DGCA: circulars (general; surveillance and enforcement)
+    dgca_notices    DGCA: public notices (AI-scored: "ai_pages" in watchlist.yml)
     aaib            AAIB: What's new -- accident and incident investigation reports
     mca_whats_new   MCA: What's new
     mca_updates     MCA: Important updates
@@ -128,6 +132,114 @@ def dgca_comments() -> list:
                      "url": DGCA_FILES + quote(path.replace("jsp/dgca/", "", 1)), "date": None})
     if not content:
         raise RuntimeError("DGCA's Comments invited page came back empty (it may have changed)")
+    return rows
+
+
+# DGCA's other lists (added 2026-10-11, the user's choice): monthly air traffic, airlines'
+# approved schedules, circulars, and public notices (the last scored by the AI). The site
+# fills each list from one request to "scan"; documents sit on S3 or behind "Upload".
+DGCA_ATTACH = "https://www.dgca.gov.in/digigov-portal/Upload?flag=iframeAttachView&attachId="
+DGCA_NOTICE_DAYS = 60     # the public notices go back years; older ones are no news
+
+
+def _dgca(**form) -> str:
+    data = {"baseLocale": "", "screenId": "10000001", "classification": "", "requestType": "ApplicationRH",
+            "attachId": "", "langType": "1", "serviceName": "", "attr": "", **form}
+    url = DGCA_SCAN + ("requestType=ApplicationRH&actionVal=viewAllService" if form.get("actionVal") == "viewAllService" else "")
+    response = requests.post(url, headers={**HEADERS, "X-Requested-With": "XMLHttpRequest"}, timeout=TIMEOUT, data=data)
+    response.raise_for_status()
+    if form.get("serviceName"):
+        data = response.json()
+        return data.get("contentText") or ((data.get("ruleBookContentDtlsList") or [{}])[0] or {}).get("contentText") or ""
+    return response.text
+
+
+def _dgca_static(book: str, content: str) -> BeautifulSoup:
+    html_ = _dgca(actionVal="viewStaticData", ruleBookId=book, contentId=content, serviceName="fetchRulebookContentDtlsList")
+    if not html_:
+        raise RuntimeError(f"DGCA's list {book}/{content} came back empty (it may have changed)")
+    return BeautifulSoup(html_, "html.parser")
+
+
+def _dgca_file(path: str) -> str:
+    return DGCA_FILES + quote(path.strip().replace("jsp/dgca/", "", 1))
+
+
+def dgca_traffic() -> list:
+    """Data and reports > Air traffic: a table of years and months, one PDF a month."""
+    rows, year = [], ""
+    for tr in _dgca_static("4264", "4206").find_all("tr"):
+        cells = tr.find_all("td")
+        if cells and re.fullmatch(r"\d{4}", _clean(cells[0].get_text(" "))):
+            year = _clean(cells[0].get_text(" "))
+        link = tr.find("a", attrs={"data-url": True})
+        if link and link["data-url"].lower().endswith(".pdf"):
+            month = _clean(link.get_text(" "))
+            rows.append({"key": f"dgca-traffic:{link['data-url'].strip()}", "title": f"Domestic air traffic data: {month} {year}".strip(),
+                         "detail": "DGCA's monthly figures for domestic airlines", "url": _dgca_file(link["data-url"]), "date": None})
+    if not rows:
+        raise RuntimeError("no months on DGCA's air traffic list (it may have changed)")
+    return rows
+
+
+def dgca_schedules() -> list:
+    """Each airline's approved domestic schedule (summer "SS" or winter "WS"), one PDF each."""
+    rows = []
+    for link in _dgca_static("4201", "4200").find_all("a", attrs={"data-url": True}):
+        path = link["data-url"].strip()
+        if not path.lower().endswith(".pdf"):
+            continue
+        season = "winter" if re.search(r"_WS_", path) else "summer" if re.search(r"_SS_", path) else ""
+        year = (re.findall(r"20\d\d", path) or [""])[-1]
+        when = f", {season} schedule {year}".rstrip() if season else f", {year}" if year else ""
+        rows.append({"key": f"dgca-schedule:{path}", "title": f"{_clean(link.get_text(' '))}: approved domestic flight schedule{when}",
+                     "detail": "", "url": _dgca_file(path), "date": None})
+    if not rows:
+        raise RuntimeError("no airlines on DGCA's domestic schedule list (it may have changed)")
+    return rows
+
+
+def _dgca_attachments(soup) -> list:
+    out = []
+    for link in soup.find_all("a", attrs={"data-url": True}):
+        ref = link["data-url"].strip()
+        if "dynamicPdf/" in ref:
+            out.append((link, ref.split("dynamicPdf/", 1)[1].split("&main")[0]))
+    return out
+
+
+def dgca_circulars() -> list:
+    """Circulars: the general ones and the surveillance and enforcement ones."""
+    rows = []
+    for content, attr in (("3328", "circularsRulesGen"), ("3319", "circularsRulesEnforcement")):
+        soup = BeautifulSoup(_dgca(actionVal="viewDynamicRuleContLvl2", ruleBookId="7", contentId=content, attr=attr), "html.parser")
+        for link, attach in _dgca_attachments(soup):
+            title = _clean(link.get_text(" "))
+            if title:
+                rows.append({"key": f"dgca-circular:{attach}", "title": title, "detail": "", "url": DGCA_ATTACH + attach, "date": None})
+    if not rows:
+        raise RuntimeError("no circulars on DGCA's lists (they may have changed)")
+    return rows
+
+
+def dgca_notices() -> list:
+    """Public notices, with their dates; the last DGCA_NOTICE_DAYS only."""
+    soup = BeautifulSoup(_dgca(actionVal="viewAllService", classification="publicNotices"), "html.parser")
+    since = dt.datetime.now(IST).date() - dt.timedelta(days=DGCA_NOTICE_DAYS)
+    rows, listed = [], 0
+    for tr in soup.find_all("tr"):
+        found = _dgca_attachments(tr)
+        if not found:
+            continue
+        listed += 1
+        link, attach = found[0]
+        texts = [_clean(td.get_text(" ")) for td in tr.find_all("td")]
+        day = next((d for d in (_day(t, "%d/%m/%Y") for t in texts if t) if d), None)
+        title = _clean(link.get_text(" ")) or max(texts, key=len, default="")
+        if title and (day is None or day >= since):
+            rows.append({"key": f"dgca-notice:{attach}", "title": title, "detail": "", "url": DGCA_ATTACH + attach, "date": day})
+    if not listed:
+        raise RuntimeError("no public notices on DGCA's list (it may have changed)")
     return rows
 
 
@@ -489,6 +601,10 @@ def who_outbreaks() -> list:
 # name in watchlist.yml -> (reader, source on the website, list within it)
 READERS = {
     "dgca_comments": (dgca_comments, "DGCA", "Draft rules for comment"),
+    "dgca_traffic": (dgca_traffic, "DGCA", "Monthly air traffic"),
+    "dgca_schedules": (dgca_schedules, "DGCA", "Airline schedules"),
+    "dgca_circulars": (dgca_circulars, "DGCA", "Circulars"),
+    "dgca_notices": (dgca_notices, "DGCA", "Public notices"),
     "aaib": (aaib, "AAIB", "What's new"),
     "mca_whats_new": (mca_whats_new, "MCA", "What's new"),
     "mca_updates": (mca_updates, "MCA", "Important updates"),

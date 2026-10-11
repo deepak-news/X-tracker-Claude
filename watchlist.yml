@@ -993,6 +993,10 @@ site:
   # in the official stream (regulators: cci, above).
   pages:
     - dgca_comments     # DGCA: draft rules out for public comment
+    - dgca_traffic      # DGCA: monthly domestic air traffic (added 2026-10-11)
+    - dgca_schedules    # DGCA: airlines' approved domestic schedules
+    - dgca_circulars    # DGCA: circulars, general and enforcement
+    - dgca_notices      # DGCA: public notices (AI-scored, see ai_pages)
     - aaib              # AAIB: investigation reports (What's new)
     - mca_whats_new     # MCA: What's new
     - mca_updates       # MCA: Important updates
@@ -1002,7 +1006,7 @@ site:
   # Of the pages above, these are busy enough for the AI to score each new row (beat
   # view), so people's score bar applies -- like "ai: true" below. Added 2026-10-11, the
   # user's choice. Remove a name to have every new row count again.
-  ai_pages: [mca_whats_new, mca_updates, ibbi]
+  ai_pages: [mca_whats_new, mca_updates, ibbi, dgca_notices]
 
   # More pages and feeds for the website only (added 2026-10-11), never emailed.
   # Each line is one source; delete the line to stop reading it. How the fields
