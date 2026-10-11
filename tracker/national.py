@@ -994,6 +994,9 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
             extra = [e for e in (whole.get("national") or {}).get(kind) or [] if e.get("name") in wanted]
             cfg[kind] = list(cfg.get(kind) or []) + extra
             site_only |= {e["name"] for e in extra}
+        regs = [w for w in (whole.get("national") or {}).get("regulators") or [] if regulators.NAMES.get(w) in wanted]
+        cfg["regulators"] = list(cfg.get("regulators") or []) + regs
+        site_only |= {regulators.NAMES[w] for w in regs}
     if not dry_run and not os.environ.get(recipient, "").strip():
         print(f"No {recipient} secret set yet, so there is nobody to send to. "
               f"Skipping -- add the secret to switch this on.")

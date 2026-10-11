@@ -952,7 +952,9 @@ bureau:
   # sources are also scored by this desk, so a beat reporter's score sits beside the
   # general one. Nothing from them is ever emailed to the bureau head. Remove a name
   # (or the whole list) to stop.
-  site_extra: [MHA, PMO, NITI Aayog, President of India, "State: Telangana", "State: Uttar Pradesh"]
+  # RBI, SEBI, CCI, DGFT and IRDAI added the same day, for the business reporters.
+  site_extra: [MHA, PMO, NITI Aayog, President of India, "State: Telangana", "State: Uttar Pradesh",
+               RBI, RBI notifications, SEBI, IRDAI, CCI, DGFT]
 
 
 # ======================================================================
@@ -997,6 +999,10 @@ site:
     - cci_whats_new     # CCI: What's new
     - ibbi              # IBBI: What's new
     - who_outbreaks     # WHO: Disease Outbreak News (added 2026-10-11)
+  # Of the pages above, these are busy enough for the AI to score each new row (beat
+  # view), so people's score bar applies -- like "ai: true" below. Added 2026-10-11, the
+  # user's choice. Remove a name to have every new row count again.
+  ai_pages: [mca_whats_new, mca_updates, ibbi]
 
   # More pages and feeds for the website only (added 2026-10-11), never emailed.
   # Each line is one source; delete the line to stop reading it. How the fields

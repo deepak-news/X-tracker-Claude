@@ -507,24 +507,30 @@ def run(dry_run: bool = False) -> int:
     print("Reading the pages kept for the website only...")
     old = dt.datetime.now(IST).date() - dt.timedelta(days=MAX_AGE_DAYS)
     items, failed, catalogue, status = [], [], set(), []
+    # "site: ai_pages": named pages whose rows the AI scores, like "ai: true" below (MCA and
+    # IBBI, the user's choice 2026-10-11); remove a name to have every row count again
+    ai_pages = set(website._cfg().get("ai_pages") or [])
+    screened = []
     for name in names:
         if name not in READERS:
             print(f"  ! {name}: not a page this step knows")
             continue
         read, source, sub = READERS[name]
         label = f"{source} {sub}".strip()
-        catalogue.add(("watch", source, sub) if sub else ("watch", source))
+        grp = "official" if name in ai_pages else "watch"
+        catalogue.add((grp, source, sub) if sub else (grp, source))
         try:
             rows = read()
         except Exception as exc:                                      # noqa: BLE001
             print(f"  ! {label} failed: {str(exc)[:160]}")
             failed.append(label)
-            status.append((label, source, exc))
+            status.append((label, source, exc, grp))
             continue
-        status.append((label, source, None))
-        print(f"  {label}: {len(rows)} row(s)")
+        status.append((label, source, None, grp))
+        print(f"  {label}: {len(rows)} row(s)" + ("  [AI]" if grp == "official" else ""))
         for row in rows:
-            items.append({"id": f"site:{row['key']}"[:300], "grp": "watch", "source": source, "sub": sub,
+            # a scored page gets ids of its own, so its first list goes in (quietly) at once
+            (screened if grp == "official" else items).append({"id": f"site:{'ai:' if grp == 'official' else ''}{row['key']}"[:300], "grp": grp, "source": source, "sub": sub,
                           "title": row["title"][:500], "body": row.get("detail", "")[:1500], "url": row.get("url", ""),
                           "issued": f"{row['date']:%b} {row['date'].day}, {row['date'].year}" if row.get("date") else "",
                           "date": row["date"].isoformat() if row.get("date") else "",
@@ -534,7 +540,6 @@ def run(dry_run: bool = False) -> int:
                 print(f"      {row.get('date') or ''} {row['title'][:90]}  {row.get('url', '')[:80]}")
     # "site: more:" -- read several at once, as the desks do
     from . import parallel                                            # noqa: PLC0415
-    screened = []
     jobs = [(_more_label(m), lambda m=m: read_more(m)) for m in more]
     for m, (label, found, exc) in zip(more, parallel.run(jobs)):
         grp = "official" if m.get("ai") else "watch"
