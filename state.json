@@ -2,42 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-05T06:32:08.316740+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta lays off co-founders and employees of acquired AI startup Virtue AI",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQWXZIa21CdmRTcDZHZ1ZOZU1sbzkzTGFQT3ZSN0U1MjhRdk9qdWdkNEd4TVFfWEJzaGNXNlhmQTNOZkRCWmpyTnpWX1Z5UzlEb2RqdmNxcUFWeVN2NnR4M2R0bUZOckZBSGUzdGduSXlLMnFBcWJJVlloQl9VQ2djUDNQSlNfN25UR096aE01NXh3dkFfTkYxVDZoU2htc2JWMTlXaDhXTzBiOWlxVjRuVEpFYzJWaGl1eXFBT0dwWVJ6T1dKR3ZobnAwVHdISjNpYWs3SWE0TVRud2xxZ19jZW1fWV96MEVpV0tmOTdibjI4Z0x0UUxPT1RUVHg4N3VLZkRvanpzZVplRUZaTFlfQUJJY25USG1USmNMM2U1SkxWbnJXTW5jbl9fWmxoSVZPamFuZXQwVFczUmFKX3pqMzA1b19BVllfRXB2cjVjU1VNU25FeThSQXVB0gHfAkFVX3lxTE1hWjBmRVU2ZmNPbmN5UHQxVml0MTFVLVlWWTg5clNzSHM0YWVpallqcVZJYlpWSElrT0RmdDhSTXNpeVM4Z29HYXV3TV85YnNHSGV3Umxtd2FjbE8wVzE4T0xfZDduMXJlTDF4NVUxVzRMS3pXekVUbXhZOTBGNEF1Q0c5a01ERzNaVFljTF9OcmFpQzZrTjFpbElOSWZWTElJYTdxTmlYV0FLSEVmU3o1SG5GQno5cmw4c3BNWXo3TWl1YWtCWFZySHprRWZrTXBnc0Jndkg3TmUzRmVESTRnS1JLZDQ0MHFWUHItbFNXcVlaRk5ucVh5QnRodW9BQ3kxMmJ3SWNnX200LW9SVXUzUU9nS3RwNUVQY2MwM1BVWHVBNWwzTkZWRGxKT3VHZWdWVWxpREh2S2x6VlFoWUh1c1RHVDVUS2Z0MnZ6b0JoWVEtX2prXzR2TkUwSmVUTQ?oc=5",
-      "words": [
-        "company",
-        "employees",
-        "founders",
-        "four",
-        "hired",
-        "lets",
-        "meta",
-        "months",
-        "startup",
-        "them",
-        "virtue"
-      ]
-    },
-    {
-      "at": "2026-10-05T06:32:08.316740+00:00",
-      "handle": "News: Global chips",
-      "headline": "Qualcomm agrees to patent licensing deal with Huawei",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHpkeEFQNElSckZOaHJ2SVgzR090LTJ2MnZoNWUwSGhLM2d1RzdGY2xZSzdvdTVINFVsQlZQelVjYnZ6bzNIMkxCZ0dPU2NjWWpISEhhZC14cnJIZ3VQQnhCWERESnItS0MtUzJhVTZkTDZjY1Qwc1FHWnoybXFkM05waU1TMDlXSlBaZlJ3Ykp6dE5icGV3bF8xSFFDRDR4d0N1aE9ZVkpJZWVCWTFabGtyUVlkREFS?oc=5",
-      "words": [
-        "breakthrough",
-        "first",
-        "huawei",
-        "patent",
-        "pay",
-        "qualcomm",
-        "time"
-      ]
-    },
-    {
-      "at": "2026-10-05T06:32:08.316740+00:00",
       "handle": "News: Global chips",
       "headline": "Qualcomm licenses Huawei LogicFolding chip patents",
       "tier": 0,
@@ -7482,6 +7446,43 @@
         "stake",
         "startup"
       ]
+    },
+    {
+      "at": "2026-10-11T12:32:01.684430+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft CEO Satya Nadella calls for AI kill switches",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObFFtN2JvRktsajNkbVRPLXFKVTZHcVdEUzlWSlJEYnV3N29DMW9MOEZZbW5mSF9yekxNbnNrV0twQUxjV2ZBeFJkTHMwNkhnQ3F0M09hcWx3WTM1MFlybTVQVTZELTdfLW1rWVgyc0JJSnZRd0dRSS1ZOXNmLTRjZHBJb2xSZ1lfbW9UX3llRFdLOTVtQnNKT3FJNmVzVVhwRHJyUTdmWnd6YzR5U1N1UzBqZk5KSXl3WFJ1Z1hUX1hMdElEd09ZbFNBclUyNXpNckJwQUlGUFXSAd8BQVVfeXFMTjlDbE1TRmRRSzAwZGhoQmRXbUt3NUh5d25ITlBHalN2ekY5UVJWb0pPR1MyM3ZBTF85VV9ZUmNrVUdPeG5aVTBncEhNQTJoOFZnSGVfalZSU0l6WWxSampXVk9CYnZKQ3g1dTIxSXdaT0hkeG8tdEFPSjUxcG10ZW5NOGhNRE5yLWpnLUlHTmcxekJIZ1BNUmxYWi1SRG9Bb2hjc05ucld1ZlNVZkNlN1pHQVpBS256ckNJTFBqTlNYcEtJM3VWaWxxaVdsUURlUzlvbGt4RDdsTkpIQnVTUQ?oc=5",
+      "words": [
+        "advanced",
+        "ceo",
+        "demands",
+        "insider",
+        "kill",
+        "mechanism",
+        "microsoft",
+        "models",
+        "risks",
+        "switch"
+      ]
+    },
+    {
+      "at": "2026-10-11T12:32:01.684430+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Zetwerk revises IPO issue size to Rs 2,830 crore in RHP",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDZ5V2x5OGROQ204TVVCNThQVlBkZldZN2o3TGhCOXhOOUh4MVlQdmx2WV9aVmtDZ3ctck9IQjNqMjVkUUdVYW83X1A2QWNSa1drTnVtSzZuc2ZKdm14ZGZNMjlZbkxOMUlwc183UGxIRTFZVXU2dUdQblpPTmx1T0RoX2V4WGxKc0dyWnVuYm8yTkVFYkJQdThZUG1SWWp1c08zNm1aNmNOXzTSAasBQVVfeXFMT0w2eVdseThkTkNtOE1VQjU4UFZQZGZXWTdqN0xoQjl4TjlIeDFZUHZsdllfWlZrQ2d3LXJPSEIzajI1ZFFHVWFvN19QNkFjUmtXa051bUs2bnNmSnZteGRmTTI5WW5MTjFJcHNfN1BsSEUxWVV1NnVHUG5aT05sdU9EaF9leFhsSnNHclp1bmJvMk5FRWJCUHU4WVBtUllqdXNPMzZtWjZjTl80?oc=5",
+      "words": [
+        "830",
+        "component",
+        "fresh",
+        "issue",
+        "ofs",
+        "raises",
+        "rhp",
+        "size",
+        "zetwerk"
+      ]
     }
   ],
   "bureau": {
@@ -8435,6 +8436,29 @@
           "ship",
           "vladivostok"
         ]
+      },
+      {
+        "at": "2026-10-11T12:36:38.283954+00:00",
+        "handle": "PIB Prime Minister's Office",
+        "headline": "Prime Minister Modi inaugurates development projects worth over thirteen thousand crore rupees in Chennai",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2321985",
+        "words": [
+          "000",
+          "chennai",
+          "dedicates",
+          "development",
+          "foundation",
+          "inaugurates",
+          "lays",
+          "minister",
+          "modi",
+          "nadu",
+          "narendra",
+          "office",
+          "prime",
+          "projects"
+        ]
       }
     ],
     "gazette_mark": 277056,
@@ -8651,8 +8675,8 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-11T12:20:36.134049+00:00",
-    "pib_mark": 2321939,
+    "last_run": "2026-10-11T12:36:38.284625+00:00",
+    "pib_mark": 2321986,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -9150,7 +9174,9 @@
       "pib:2321918",
       "pib:2321924",
       "pib:2321926",
-      "pib:2321939"
+      "pib:2321939",
+      "pib:2321985",
+      "pib:2321986"
     ],
     "source_failures": {},
     "sources": [
@@ -9163,9 +9189,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791192711794",
-    "1791201000205",
-    "1791201976157",
     "1791202459425",
     "1791202470555",
     "1791208200411",
@@ -13637,7 +13660,6 @@
     "1791686280048",
     "1791700693571",
     "1791703059620",
-    "1791703868386",
     "1791704584629",
     "1791708288705",
     "1791709229595",
@@ -13677,7 +13699,6 @@
     "1791658412569",
     "1791677808063",
     "1791705865409",
-    "1791710812417",
     "1791713986284",
     "1790861668785",
     "1791634153802",
@@ -13690,7 +13711,13 @@
     "1791704054333",
     "1791708586284",
     "1791713820557",
-    "1791714256188",
+    "1791635078575",
+    "1791653128359",
+    "1791688253297",
+    "1791703868692",
+    "1791708941045",
+    "1791710812925",
+    "1791715706927",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -14951,7 +14978,6 @@
     "1791552963003",
     "1791555502485",
     "1791570600561",
-    "1791635078575",
     "1791635969741",
     "1791635989165",
     "1791636408828",
@@ -14974,7 +15000,6 @@
     "1791650255539",
     "1791650817598",
     "1791651720421",
-    "1791653128359",
     "1791653419503",
     "1791653487549",
     "1791653580406",
@@ -15017,7 +15042,6 @@
     "1791687132782",
     "1791687576587",
     "1791688000664",
-    "1791688253297",
     "1791688560283",
     "1791688620619",
     "1791688915913",
@@ -15064,7 +15088,7 @@
     "1791703380743",
     "1791703384406",
     "1791703864932",
-    "1791703868692",
+    "1791703868386",
     "1791704093100",
     "1791704584886",
     "1791704668207",
@@ -15076,17 +15100,17 @@
     "1791707368665",
     "1791707839668",
     "1791707949518",
+    "1791708248477",
     "1791708288360",
     "1791708567034",
     "1791708930173",
-    "1791708941045",
     "1791708972374",
     "1791709080187",
     "1791709229773",
     "1791709299079",
     "1791709547524",
     "1791709894872",
-    "1791710812925",
+    "1791710812417",
     "1791711581917",
     "1791711604646",
     "1791711674058",
@@ -15094,11 +15118,12 @@
     "1791713208559",
     "1791713558936",
     "1791714095813",
+    "1791714256188",
     "1791714363017",
     "1791714405472",
     "1791714557628",
+    "1791714600642",
     "1791715595554",
-    "1791715706927",
     "1791716164524",
     "1791716168808",
     "1791716401209",
@@ -15110,6 +15135,7 @@
     "1791719092184",
     "1791719182410",
     "1791720403263",
+    "1791721220946",
     "2317509",
     "2317615",
     "2317714",
@@ -15164,8 +15190,8 @@
     "2321784",
     "2321853"
   ],
-  "last_digest_hour": "2026-10-11T17",
-  "last_success": "2026-10-11T12:17:02.602249+00:00",
+  "last_digest_hour": "2026-10-11T18",
+  "last_success": "2026-10-11T12:32:01.753215+00:00",
   "national": {
     "alerted": [
       {
@@ -21342,12 +21368,9 @@
       },
       "warned": "2026-10-10T20:19:58.349393+00:00"
     },
-    "last_run": "2026-10-11T12:20:32.319866+00:00",
-    "pib_mark": 2321939,
+    "last_run": "2026-10-11T12:36:30.657368+00:00",
+    "pib_mark": 2321986,
     "seen": [
-      "pib:2311538",
-      "pib:2311540",
-      "gazette:CG-DL-E-17092026-276293",
       "pib:2311551",
       "gazette:CG-DL-E-17092026-276292",
       "pib:2311557",
@@ -23969,6 +23992,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-lesson-for-governance-for-viksit-bharat-2047",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-team-india-representatives-at-48th-worldskills-competition",
       "page:https://internal.imd.gov.in/press_release/20260827_pr_5262.pdf",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-kutch-gujarat",
       "certin:CIAD-2026-0046",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-nift-paraisaraon-kae",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-saikasaka-daivasa-kae-3",
@@ -24100,7 +24124,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-inauguration-of-10th-edition-of-the-india-mobile-congress",
       "page:https://internal.imd.gov.in/press_release/20261008_pr_5389.pdf",
       "page:https://internal.imd.gov.in/press_release/20261009_pr_5390.pdf",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-kutch-gujarat",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-chairs-valedictory-session-of-national-departmental-summit-on-women-and-child-development",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-passing-of-mr-kuchi-rangkau-zeliang",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-on-the-occasion-of-mahalaya",
@@ -24344,7 +24367,10 @@
       "page:https://internal.imd.gov.in/press_release/20261011_pr_5394.pdf",
       "pib:2321924",
       "pib:2321926",
-      "pib:2321939"
+      "pib:2321939",
+      "pib:2321985",
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-the-launch-of-development-projects-in-chennai",
+      "pib:2321986"
     ],
     "source_failures": {
       "CBI": {
@@ -24390,44 +24416,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Microsoft CEO Satya Nadella calls for AI kill switches",
-      "post": {
-        "created_at": "2026-10-11T07:34:14+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1791704054333",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Financial Express",
-        "reposts": 0,
-        "text": "\u2018Insider risks\u2019: Microsoft CEO demands kill switch mechanism for advanced AI models",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObFFtN2JvRktsajNkbVRPLXFKVTZHcVdEUzlWSlJEYnV3N29DMW9MOEZZbW5mSF9yekxNbnNrV0twQUxjV2ZBeFJkTHMwNkhnQ3F0M09hcWx3WTM1MFlybTVQVTZELTdfLW1rWVgyc0JJSnZRd0dRSS1ZOXNmLTRjZHBJb2xSZ1lfbW9UX3llRFdLOTVtQnNKT3FJNmVzVVhwRHJyUTdmWnd6YzR5U1N1UzBqZk5KSXl3WFJ1Z1hUX1hMdElEd09ZbFNBclUyNXpNckJwQUlGUFXSAd8BQVVfeXFMTjlDbE1TRmRRSzAwZGhoQmRXbUt3NUh5d25ITlBHalN2ekY5UVJWb0pPR1MyM3ZBTF85VV9ZUmNrVUdPeG5aVTBncEhNQTJoOFZnSGVfalZSU0l6WWxSampXVk9CYnZKQ3g1dTIxSXdaT0hkeG8tdEFPSjUxcG10ZW5NOGhNRE5yLWpnLUlHTmcxekJIZ1BNUmxYWi1SRG9Bb2hjc05ucld1ZlNVZkNlN1pHQVpBS256ckNJTFBqTlNYcEtJM3VWaWxxaVdsUURlUzlvbGt4RDdsTkpIQnVTUQ?oc=5"
-      },
-      "queued_at": "2026-10-11T12:02:18.279623+00:00",
-      "score": 8.0,
-      "why": "Major AI safety and governance disclosure by a top tech executive, meeting the criteria for AI lab policy announcements."
-    },
-    {
-      "headline": "Zetwerk revises IPO issue size to Rs 2,830 crore in RHP",
-      "post": {
-        "created_at": "2026-10-11T11:44:52+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1791719092184",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Entrackr",
-        "reposts": 0,
-        "text": "Zetwerk raises fresh issue size to Rs 2,830 Cr, OFS component up 49% in RHP",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDZ5V2x5OGROQ204TVVCNThQVlBkZldZN2o3TGhCOXhOOUh4MVlQdmx2WV9aVmtDZ3ctck9IQjNqMjVkUUdVYW83X1A2QWNSa1drTnVtSzZuc2ZKdm14ZGZNMjlZbkxOMUlwc183UGxIRTFZVXU2dUdQblpPTmx1T0RoX2V4WGxKc0dyWnVuYm8yTkVFYkJQdThZUG1SWWp1c08zNm1aNmNOXzTSAasBQVVfeXFMT0w2eVdseThkTkNtOE1VQjU4UFZQZGZXWTdqN0xoQjl4TjlIeDFZUHZsdllfWlZrQ2d3LXJPSEIzajI1ZFFHVWFvN19QNkFjUmtXa051bUs2bnNmSnZteGRmTTI5WW5MTjFJcHNfN1BsSEUxWVV1NnVHUG5aT05sdU9EaF9leFhsSnNHclp1bmJvMk5FRWJCUHU4WVBtUllqdXNPMzZtWjZjTl80?oc=5"
-      },
-      "queued_at": "2026-10-11T12:02:18.279623+00:00",
-      "score": 8.0,
-      "why": "Significant update on an upcoming major tech IPO with hard financial figures."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25525,7 +25514,7 @@
     "news: india semiconductors": 1791713820557,
     "news: india tech policy": 1791690454943,
     "news: india telecom": 1791714405472,
-    "news: indian it majors": 1791716508802,
+    "news: indian it majors": 1791721220946,
     "news: indian it midcaps": 1791708941045,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791716819008,
@@ -25575,7 +25564,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-11T12:17:02.958102+00:00",
+    "last_server_run": "2026-10-11T12:32:02.040489+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-11T12:17:53.524493+00:00",
