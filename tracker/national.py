@@ -18,6 +18,7 @@ specialist". Official sources only, by design: no Google News.
 
 import argparse
 import datetime as dt
+import faulthandler
 import html
 import io
 import json
@@ -225,7 +226,12 @@ def read_gazettes(posts: list) -> None:
         if time.monotonic() - started > GAZETTE_BUDGET_SECONDS:
             print("  (gazette reading stopped at the time limit; the rest are judged on their subject)")
             break
-        text = _gazette_text(post.url)
+        try:
+            with sources.time_limit():
+                text = _gazette_text(post.url)
+        except sources.Overtime as exc:
+            print(f"    gazette {exc} to open {post.url[:100]}; judged on its subject")
+            continue
         if len(text) > 80:
             post.text = f"{post.text} TEXT: {text}"
             read += 1
@@ -402,15 +408,16 @@ def read_mea(posts: list) -> None:
             continue
         pkid = post.id.split(":", 1)[1]
         try:
-            relay = _MEA_RELAY.get(post.handle, "")
-            response = requests.get(f"{relay}/detail" if relay else MEA_DETAIL,
-                                    params={"pkid": pkid} if relay else {"pkid": pkid, "languageId": 1},
-                                    timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
-            response.raise_for_status()
-            body = re.sub(r"<script.*?</script>|<style.*?</style>", " ", response.text, flags=re.S)
-            body = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", body)).split())
-            if body:
-                post.text = f"{post.text} TEXT: {body[:MAX_CHARS]}"
+            with sources.time_limit():
+                relay = _MEA_RELAY.get(post.handle, "")
+                response = requests.get(f"{relay}/detail" if relay else MEA_DETAIL,
+                                        params={"pkid": pkid} if relay else {"pkid": pkid, "languageId": 1},
+                                        timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
+                response.raise_for_status()
+                body = re.sub(r"<script.*?</script>|<style.*?</style>", " ", response.text, flags=re.S)
+                body = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", body)).split())
+                if body:
+                    post.text = f"{post.text} TEXT: {body[:MAX_CHARS]}"
         except Exception as exc:                                  # noqa: BLE001
             print(f"    MEA release {pkid}: text not read ({str(exc)[:80]}); judged by its title")
 
@@ -1284,6 +1291,10 @@ def main() -> int:
     parser.add_argument("--bureau", action="store_true",
                         help="the national bureau's gazette and PIB desk (BUREAU_MAIL_TO)")
     args = parser.parse_args()
+    if os.environ.get("GITHUB_ACTIONS"):
+        # GitHub stops a desk's step at 8 minutes without saying where it was; this prints
+        # what the step is stuck on just before then (added Oct 12)
+        faulthandler.dump_traceback_later(450, exit=False)
     desk = BUREAU if args.bureau else NATIONAL
     if args.test_email:
         return test_email(desk)

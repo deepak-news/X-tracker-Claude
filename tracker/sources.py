@@ -14,12 +14,15 @@ Three kinds of source, cheapest and most authoritative first:
                       once a publication has reported it.
 """
 
+import contextlib
 import datetime as dt
 import hashlib
 import html
 import io
 import json
 import re
+import signal
+import threading
 import time
 from dataclasses import dataclass
 from urllib.parse import quote_plus, urljoin, urlparse
@@ -617,6 +620,35 @@ def _article(url: str) -> tuple[str, object]:
     return " ".join(text.split())[:ARTICLE_CHARS], when
 
 
+# Opening one item -- the download and reading a PDF together -- may take at most this long.
+# The time limits above are checked only between items, so a server that trickles a file or a
+# PDF the reader cannot finish held a desk's whole step until GitHub stopped it at 8 minutes
+# (Oct 12, 4:15 pm on). Such an item is judged on its headline. 0 turns the limit off.
+ITEM_SECONDS = 40
+
+
+class Overtime(Exception):
+    pass
+
+
+@contextlib.contextmanager
+def time_limit(seconds: float = ITEM_SECONDS):
+    """Stop whatever runs inside after this many seconds (raises Overtime). Only on the main
+    thread, where the alarm signal arrives; elsewhere it does nothing."""
+    if not seconds or not hasattr(signal, "SIGALRM") or threading.current_thread() is not threading.main_thread():
+        yield
+        return
+    def stop(*_):
+        raise Overtime(f"took over {seconds:.0f}s")
+    before = signal.signal(signal.SIGALRM, stop)
+    signal.setitimer(signal.ITIMER_REAL, seconds)
+    try:
+        yield
+    finally:
+        signal.setitimer(signal.ITIMER_REAL, 0)
+        signal.signal(signal.SIGALRM, before)
+
+
 def read_articles(posts: list) -> list:
     """Read company posts in full before they are judged. Returns the posts
     still worth judging: a page link whose own date shows it is old is
@@ -631,7 +663,12 @@ def read_articles(posts: list) -> list:
             kept.append(post)
             continue
         try:
-            body, when = _article(post.url)
+            with time_limit():
+                body, when = _article(post.url)
+        except Overtime as exc:
+            print(f"    {post.handle}: {exc} to open {post.url[:100]}; judged on its headline")
+            kept.append(post)
+            continue
         except Exception:  # noqa: BLE001 - blocked or broken: judge the headline
             kept.append(post)
             continue
