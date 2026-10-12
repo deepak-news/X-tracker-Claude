@@ -9075,7 +9075,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-12T23:32:27.027100+00:00",
+    "last_run": "2026-10-12T23:46:43.050621+00:00",
     "pib_mark": 2322586,
     "seen": [
       "pib:2320137",
@@ -14611,13 +14611,14 @@
     "1791781124479",
     "1791825554945",
     "1791830689947",
-    "1791831626002",
     "1790861668785",
     "1791789826650",
-    "1791808743946",
     "1791820107413",
     "1791824513945",
-    "1791839878702",
+    "1791771871856",
+    "1791807300944",
+    "1791837600784",
+    "1791838891607",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -15844,7 +15845,6 @@
     "1791770455497",
     "1791771404230",
     "1791771558170",
-    "1791771871856",
     "1791772396658",
     "1791773074247",
     "1791773724854",
@@ -15988,11 +15988,11 @@
     "1791806736547",
     "1791806996442",
     "1791807293407",
-    "1791807300944",
     "1791807420664",
     "1791807960408",
     "1791808050893",
     "1791808200372",
+    "1791808743946",
     "1791810000234",
     "1791810000303",
     "1791810000515",
@@ -16091,6 +16091,7 @@
     "1791830482483",
     "1791830878610",
     "1791831480134",
+    "1791831626002",
     "1791832378565",
     "1791832506675",
     "1791832684579",
@@ -16112,9 +16113,8 @@
     "1791837073600",
     "1791837420652",
     "1791837480417",
-    "1791837600784",
     "1791837780044",
-    "1791838891607",
+    "1791839878702",
     "1791839940991",
     "1791841226750",
     "1791844487553",
@@ -16184,7 +16184,7 @@
     "2322388"
   ],
   "last_digest_hour": "2026-10-13T05",
-  "last_success": "2026-10-12T23:31:15.166557+00:00",
+  "last_success": "2026-10-12T23:45:53.849639+00:00",
   "national": {
     "alerted": [
       {
@@ -21729,6 +21729,24 @@
           "year",
           "youth"
         ]
+      },
+      {
+        "at": "2026-10-12T23:46:33.495588+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 6.1 earthquake -- 18 km W of R\u00edo Grande, Panama.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
+        "words": [
+          "deep",
+          "earthquake",
+          "grande",
+          "ist",
+          "magnitude",
+          "oct",
+          "panama",
+          "reported",
+          "usgs"
+        ]
       }
     ],
     "gazette_mark": 277092,
@@ -22655,10 +22673,9 @@
       },
       "warned": "2026-10-12T20:32:07.666137+00:00"
     },
-    "last_run": "2026-10-12T23:32:16.800797+00:00",
+    "last_run": "2026-10-12T23:46:33.496808+00:00",
     "pib_mark": 2322586,
     "seen": [
-      "page:https://www.cbse.gov.in/cbsenew/documents/affiliation-Bye-Laws.pdf",
       "pib:2313066",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63636",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13705&Mode=0",
@@ -25260,6 +25277,7 @@
       "site:Delhi Police press releases|dp-newpressrelease:12/10/2026|SNATCHING CASE WORKED OUT BY ANTI SNATCHING AND BURGLARY CELL",
       "site:Delhi Police press releases|dp-newpressrelease:12/10/2026|MAJOR BREAKTHROUGH BY STAFF OF PS RANHOLA IN UNEARTHING A HIGH PROFILE EXTORTION AND HONEY TRAP CONSPIRACY, THREE ACCUSED, INCLUDING MAIN CONSPIRATOR, ARRESTED.",
       "site:Delhi Police press releases|dp-newpressrelease:12/10/2026|CRIME BRANCH, DELHI POLICE APPREHENDS CONVICTED NDPS OFFENDER ABSCONDING AFTER EXPIRY OF COVID 19 PAROLE",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168574",
       "feed:http://www.niti.gov.in/node/2432",
       "feed:http://www.niti.gov.in/node/2431",
       "feed:http://www.niti.gov.in/node/2434",
@@ -25615,7 +25633,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63790",
       "gazette:CG-OR-E-12102026-277077",
       "gazette:CG-CG-E-12102026-277075",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168574",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63791",
       "watch:meeting:LS|22559",
       "gazette:CG-DL-E-12102026-277078",
@@ -25657,7 +25674,8 @@
       "gazette:CG-MH-E-12102026-277092",
       "gazette:CG-UP-E-12102026-277087",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0",
-      "pib:2322586"
+      "pib:2322586",
+      "quake:usgs:us6000u1wn"
     ],
     "source_failures": {
       "CBI": {
@@ -26851,7 +26869,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-12T23:31:15.485046+00:00",
+    "last_server_run": "2026-10-12T23:45:54.280421+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-12T23:32:06.187410+00:00",
