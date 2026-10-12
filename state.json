@@ -1,44 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-05T09:16:46.209610+00:00",
-      "handle": "PIB Communications",
-      "headline": "Sanchar Saathi portal crosses 30 crore visits amid anti-fraud drive",
-      "tier": 1,
-      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2319087",
-      "words": [
-        "against",
-        "citizens",
-        "crosses",
-        "cyber",
-        "fraud",
-        "portal",
-        "saathi",
-        "sanchar",
-        "telecom",
-        "turn",
-        "visits",
-        "warriors"
-      ]
-    },
-    {
-      "at": "2026-10-05T09:32:12.855523+00:00",
-      "handle": "News: India edtech gaming",
-      "headline": "PhysicsWallah sells loan portfolio and partially shuts lending",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFA5NHhGNmk3cWVwUTdBa0FJVUNxdFZVZ2FldEVzcG1HSDdCaWtZSzdpMGxJZWVyaDIzR2NIaW5mSklFRkZqdC0tZW1xSUVCekdydXpTeHl0RkFZSVEtci1VcENIaEFrNVpSQ2U5UVRMV2hrYWUwRHhaWjBPZ1M1UTctVGZoZmNkS1pXeTBPUEEtcnp1ZDZmMUpfZ0loRlNERWxuRjlmUm15SXI0NnpvMXdDa09zcTVsZjc3dEgxVdIBxAFBVV95cUxPY2h2TmJKM1B6cEJXcTQzUUE5YldyM1prbzR0blRJNE5qTHpEM1gyTEVqY09kZkZQMGt5Z2xWZE5iQXF2N0J2UVM2OWxjRlRvajhxVWVjYnhuYnotT1RYRmRvRWplYkFCQUhRdExJU0dZNEpCZFpac1N5YVphZmNzWFMyUHlySDZ4YWpNMEE2ZUlRY1RHcFlxN0ZwM283Q2xHTzBWZndHUFVMbTFwX0JiNU1UY2FIRDBlNmhZTlJfNkk5dDdf?oc=5",
-      "words": [
-        "lending",
-        "loan",
-        "ops",
-        "partially",
-        "physicswallah",
-        "portfolio",
-        "sells",
-        "shuts"
-      ]
-    },
-    {
       "at": "2026-10-05T09:32:12.855523+00:00",
       "handle": "News: Global chips",
       "headline": "Foxconn reports 47% revenue surge driven by AI server demand",
@@ -7488,6 +7450,43 @@
         "tip",
         "visa"
       ]
+    },
+    {
+      "at": "2026-10-12T03:31:15.494605+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "TCS CEO says AI revenue will offset traditional services deflation",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcnMtdDZ1T2s4b0cyVW9FbTNQNWVUd1owZGxYMXN4aGRpMWtuQ2ZvNE5xTTdfREl0MWc5UDFZZTNzY0FFNHhsM01ZUWp6QVctczBXeG05LW9lOVZDa2N0RGdQOWFQYlZnZFptVFh3ZTZhTktfNWFTT0JkQWJPdndIRmtDN04zYWtfd0lpYnNJaE1XVkZRMVd0emhpZWdFbVVGSnFDQ0JKaHV4SHFWUW5tT2FtZE9wcmVIR0hqVEM5VklOYVBwOGhiZldWX3ZaTjhLb1gySll6bW9MZVZJYVNwOTVLZWpDYjZ4?oc=5",
+      "words": [
+        "ceo",
+        "deflation",
+        "krithivasan",
+        "offset",
+        "revenue",
+        "services",
+        "should",
+        "tcs",
+        "traditional"
+      ]
+    },
+    {
+      "at": "2026-10-12T03:31:15.494605+00:00",
+      "handle": "News: Global AI",
+      "headline": "Google DeepMind COO discusses AI extinction risks and safety safeguards",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUHB4MElZRzYxTWhkclN4QWdqSDdKbWl0NXhmM01WSVp2Z2VRNzRGM1FLU3o5VTVZVFoxbVBqRHdjQl92WHlXTHc3WTdpdVNFc1VyNzBVUXQ0UDVoVGEwVWVheE1waUxnUjlyNEhta1B6ZzZob19TaFc0WWU2Rkw0WDJRd2YzdFhYVElKeG10SjFldW1MOHhyY0NHeVIxQVpSVVhwZmExSmRpMFplZGk0YzV6YmFTRTJ2VnlkOWotcVVBYTE1M1lMX0NaZnlJM2p0Sm1uSGFxTHhkVVVfLXlvUtIB6AFBVV95cUxNc0dUVmFvTm5GUHZPVUFTX0w1OWEtMUczU05lUG9oZmRzckZDdWI4MmFiOURmYW1qY04zVEgzMVJ0a3c0WkxoTXdxdzE2YmFiMWV0emRMb3AydWo3ak1haW9CX0V3a3cyZGdIUnpkVnpXTXZINmx0YXVQaFVoS1hSV25qRU40LUJsVHNGQWxnTzBKTXE1T3FxU08xMU9BWk5Ta29WRTRoX1dYXzQ3cTRQejJrdG9YTlZPQmdqLW4xTlJ2WWpFM21yVnJNYjdCYjVDT1dGbkhMYVZEOWt3OExPeWs0QUIyWmc1?oc=5",
+      "words": [
+        "can",
+        "deepmind",
+        "drive",
+        "extinction",
+        "google",
+        "humanity",
+        "ibrahim",
+        "lila",
+        "risks",
+        "safeguards"
+      ]
     }
   ],
   "bureau": {
@@ -8700,7 +8699,7 @@
         "IRDAI": "2026-10-11T15:38:26.647659+00:00"
       }
     },
-    "last_run": "2026-10-12T03:16:43.676109+00:00",
+    "last_run": "2026-10-12T03:32:05.131443+00:00",
     "pib_mark": 2322060,
     "seen": [
       "pib:2320137",
@@ -9149,6 +9148,7 @@
       "pib:2322028",
       "pib:2322059",
       "pib:2322060",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63775",
       "certin:CIAD-2026-0046",
       "gazette:CG-DL-E-10102026-277038",
       "gazette:CG-WB-E-10102026-277037",
@@ -9366,7 +9366,6 @@
       "cci-pr:media-gallery|695",
       "cci-pr:media-gallery|697",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13737&Mode=0",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63775",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7079-of-2026-filed-by-sandesh-ranjit-sakhalkar_105109.html",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63776",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-dated-09-10-2026-against-kapil-wadhawan-pan-aaopw6145l-defaulter-in-the-matter-of-dewan-housing-finance-corporation-ltd-dhfl-under-recovery-certificate-no-9277-of-2026_105128.html",
@@ -9452,7 +9451,8 @@
       "feed:http://www.niti.gov.in/node/2432",
       "feed:http://www.niti.gov.in/node/2434",
       "feed:http://www.niti.gov.in/node/2431",
-      "feed:http://www.niti.gov.in/node/2439"
+      "feed:http://www.niti.gov.in/node/2439",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63785"
     ],
     "source_failures": {
       "IRDAI": {
@@ -9483,13 +9483,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791207180128",
-    "1791213287720",
-    "1791222780161",
-    "1791224731816",
-    "1791225856904",
-    "1791229140970",
-    "1791251682096",
     "1791252358707",
     "1791256968252",
     "1791174000242",
@@ -13852,7 +13845,6 @@
     "1791731900162",
     "1791653580406",
     "1791654060314",
-    "1791729183593",
     "1791731163699",
     "1791654674817",
     "1791654891175",
@@ -13880,7 +13872,6 @@
     "1791735483345",
     "1791658380769",
     "1791677704828",
-    "1791705214057",
     "1791703864932",
     "1791711581757",
     "1791660824172",
@@ -13988,7 +13979,6 @@
     "1791686820834",
     "1791732331809",
     "1791771103969",
-    "1791772080546",
     "1790232537762",
     "1791697145919",
     "1791704584886",
@@ -14000,16 +13990,21 @@
     "1791690704008",
     "1791697676909",
     "1791705734492",
-    "1791719645546",
-    "1791722921031",
     "1791728992230",
-    "1791729960444",
     "1791749102577",
     "1791768875526",
     "1791769337363",
     "1791769525708",
     "1791771871989",
     "1791773074362",
+    "1791695877073",
+    "1791704460090",
+    "1791712119792",
+    "1791719645171",
+    "1791721105536",
+    "1791729960574",
+    "1791765050352",
+    "1791772284698",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -15278,7 +15273,6 @@
     "1791693780595",
     "1791693812679",
     "1791695580735",
-    "1791695877073",
     "1791696025998",
     "1791696638181",
     "1791697139410",
@@ -15301,9 +15295,9 @@
     "1791703868692",
     "1791704054333",
     "1791704093100",
-    "1791704460090",
     "1791704668207",
     "1791704868080",
+    "1791705214057",
     "1791705865409",
     "1791705972281",
     "1791706086364",
@@ -15317,7 +15311,6 @@
     "1791709894872",
     "1791711604646",
     "1791712020662",
-    "1791712119792",
     "1791713208559",
     "1791713220875",
     "1791714363017",
@@ -15332,14 +15325,14 @@
     "1791718544497",
     "1791719092184",
     "1791719210512",
-    "1791719645171",
+    "1791719645546",
     "1791719917477",
     "1791721026374",
-    "1791721105536",
     "1791721220946",
     "1791721833086",
     "1791722716151",
     "1791722880752",
+    "1791722921031",
     "1791723000066",
     "1791724116675",
     "1791724283296",
@@ -15355,9 +15348,10 @@
     "1791727366259",
     "1791728174757",
     "1791728793330",
+    "1791729183593",
     "1791729245841",
     "1791729528603",
-    "1791729960574",
+    "1791729960444",
     "1791730634189",
     "1791730867380",
     "1791732331068",
@@ -15383,6 +15377,7 @@
     "1791743724452",
     "1791743727248",
     "1791743992589",
+    "1791744540094",
     "1791744717366",
     "1791744960336",
     "1791746794276",
@@ -15402,7 +15397,6 @@
     "1791765000338",
     "1791765000707",
     "1791765000739",
-    "1791765050352",
     "1791765060292",
     "1791766165486",
     "1791769447131",
@@ -15411,18 +15405,23 @@
     "1791769530221",
     "1791769536393",
     "1791769620005",
+    "1791769776191",
+    "1791770155932",
     "1791770160886",
+    "1791770351723",
     "1791770400840",
     "1791770618248",
     "1791770622601",
     "1791771404230",
+    "1791771406551",
     "1791771584975",
+    "1791771585335",
     "1791771590337",
     "1791771847820",
     "1791771871856",
     "1791771896047",
     "1791771989975",
-    "1791772284698",
+    "1791772080546",
     "1791772380943",
     "1791773074247",
     "1791773402479",
@@ -15430,6 +15429,7 @@
     "1791773801262",
     "1791774117785",
     "1791774293330",
+    "1791775509753",
     "2317509",
     "2317615",
     "2317714",
@@ -15484,8 +15484,8 @@
     "2321784",
     "2321853"
   ],
-  "last_digest_hour": "2026-10-12T08",
-  "last_success": "2026-10-12T03:16:01.559484+00:00",
+  "last_digest_hour": "2026-10-12T09",
+  "last_success": "2026-10-12T03:31:15.617415+00:00",
   "national": {
     "alerted": [
       {
@@ -21723,10 +21723,9 @@
       },
       "warned": "2026-10-11T20:31:40.478359+00:00"
     },
-    "last_run": "2026-10-12T03:16:37.044973+00:00",
+    "last_run": "2026-10-12T03:31:52.816543+00:00",
     "pib_mark": 2322060,
     "seen": [
-      "pib:2311623",
       "pib:2311630",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/interim-order-in-the-matter-of-kore-digital-limited_104570.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/samuhik-prativedan-manch-a-technology-based-common-reporting-mechanism-extended-to-members-of-clearing-corporations_104568.html",
@@ -24361,6 +24360,7 @@
       "pib:2322060",
       "pib:2322059",
       "quake:usgs:us6000u1kv",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63775",
       "feed:http://www.niti.gov.in/node/2432",
       "feed:http://www.niti.gov.in/node/2433",
       "feed:http://www.niti.gov.in/node/2431",
@@ -24652,7 +24652,6 @@
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7080-of-2026-filed-by-saurabh-kumar_105110.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/-appeal-no-7081-of-2026-filed-by-smita-shreenath-bhivandkar_105111.html",
       "page:https://www.cbse.gov.in/cbsenew/documents/Date_Sheet_Special_Examinations_09102026.pdf",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63775",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63776",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63777",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63779",
@@ -24725,7 +24724,8 @@
       "mea:41869",
       "dgft-notification:f67e8803-e13d-4412-b876-de08538d437d",
       "dgft-public-notice:d7c80b33-7750-4e7e-a9e3-e5487f6a7df0",
-      "quake:ncs:dTdsQzZSVWl4TnhoNndUVTlZTjRBUT09"
+      "quake:ncs:dTdsQzZSVWl4TnhoNndUVTlZTjRBUT09",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63785"
     ],
     "source_failures": {
       "CBI": {
@@ -24768,44 +24768,7 @@
       "State: Uttar Pradesh"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "TCS CEO says AI revenue will offset traditional services deflation",
-      "post": {
-        "created_at": "2026-10-12T02:24:07+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1791771847820",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "AI revenue should offset traditional services deflation: TCS CEO K Krithivasan",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcnMtdDZ1T2s4b0cyVW9FbTNQNWVUd1owZGxYMXN4aGRpMWtuQ2ZvNE5xTTdfREl0MWc5UDFZZTNzY0FFNHhsM01ZUWp6QVctczBXeG05LW9lOVZDa2N0RGdQOWFQYlZnZFptVFh3ZTZhTktfNWFTT0JkQWJPdndIRmtDN04zYWtfd0lpYnNJaE1XVkZRMVd0emhpZWdFbVVGSnFDQ0JKaHV4SHFWUW5tT2FtZE9wcmVIR0hqVEM5VklOYVBwOGhiZldWX3ZaTjhLb1gySll6bW9MZVZJYVNwOTVLZWpDYjZ4?oc=5"
-      },
-      "queued_at": "2026-10-12T02:46:04.853821+00:00",
-      "score": 8.0,
-      "why": "A direct statement by a major Indian IT CEO on industry direction counts as a key story."
-    },
-    {
-      "headline": "Google DeepMind COO discusses AI extinction risks and safety safeguards",
-      "post": {
-        "created_at": "2026-10-12T02:24:56+00:00",
-        "handle": "News: Global AI",
-        "id": "1791771896047",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV Profit",
-        "reposts": 0,
-        "text": "Can AI Drive Humanity To Extinction? Google DeepMind's Lila Ibrahim On Risks And Safeguards",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUHB4MElZRzYxTWhkclN4QWdqSDdKbWl0NXhmM01WSVp2Z2VRNzRGM1FLU3o5VTVZVFoxbVBqRHdjQl92WHlXTHc3WTdpdVNFc1VyNzBVUXQ0UDVoVGEwVWVheE1waUxnUjlyNEhta1B6ZzZob19TaFc0WWU2Rkw0WDJRd2YzdFhYVElKeG10SjFldW1MOHhyY0NHeVIxQVpSVVhwZmExSmRpMFplZGk0YzV6YmFTRTJ2VnlkOWotcVVBYTE1M1lMX0NaZnlJM2p0Sm1uSGFxTHhkVVVfLXlvUtIB6AFBVV95cUxNc0dUVmFvTm5GUHZPVUFTX0w1OWEtMUczU05lUG9oZmRzckZDdWI4MmFiOURmYW1qY04zVEgzMVJ0a3c0WkxoTXdxdzE2YmFiMWV0emRMb3AydWo3ak1haW9CX0V3a3cyZGdIUnpkVnpXTXZINmx0YXVQaFVoS1hSV25qRU40LUJsVHNGQWxnTzBKTXE1T3FxU08xMU9BWk5Ta29WRTRoX1dYXzQ3cTRQejJrdG9YTlZPQmdqLW4xTlJ2WWpFM21yVnJNYjdCYjVDT1dGbkhMYVZEOWt3OExPeWs0QUIyWmc1?oc=5"
-      },
-      "queued_at": "2026-10-12T02:46:04.853821+00:00",
-      "score": 7.0,
-      "why": "Major AI company leadership disclosures on safety and risks are wire stories."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -25901,9 +25864,9 @@
     "news: india edtech gaming": 1791765000707,
     "news: india fintech": 1791772284698,
     "news: india semiconductors": 1791732681889,
-    "news: india tech policy": 1791769536830,
+    "news: india tech policy": 1791771406551,
     "news: india telecom": 1791771871989,
-    "news: indian it majors": 1791774117785,
+    "news: indian it majors": 1791775509753,
     "news: indian it midcaps": 1791773801262,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791774293330,
@@ -25950,7 +25913,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-12T03:16:01.866069+00:00",
+    "last_server_run": "2026-10-12T03:31:15.981468+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-12T01:32:06.042257+00:00",
