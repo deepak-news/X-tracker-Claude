@@ -328,6 +328,13 @@ def _title(post, source: str, sub: str) -> str:
 
 
 def official_item(post, score, headline: str = "", why: str = "") -> dict:
+    site = getattr(post, "site_item", None)
+    if site:
+        # a website-only list a desk also judges (national.py, site_readers): the website's own item
+        return {"id": str(post.id), "grp": site["grp"], "source": site["source"], "sub": site["sub"],
+                "title": site["title"][:500], "body": site["body"][:1500], "url": post.url or "",
+                "score": None if score is None else float(score), "general": _general(post),
+                "headline": _clean(headline)[:300], "why": _clean(why)[:400]}
     source, sub = official_source(post)
     text = _title(post, source, sub)
     title, _, rest = text.partition(". ") if source in ("Gazette", "Earthquakes") else (text, "", "")

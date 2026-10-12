@@ -721,7 +721,7 @@ def dp_whatsnew() -> list:
     return rows
 
 
-HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
+HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "dgca_traffic": dgca_traffic, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
                 "dp_notifications": dp_notifications, "dp_gazette": dp_gazette, "dp_press": dp_press, "dp_whatsnew": dp_whatsnew}
 
 

@@ -822,6 +822,9 @@ national:
   # CCI, CERT-In and DGFT -- the same documents the Tech Desk reads,
   # judged here by this desk's own rubric.
   regulators: [cci, certin, dgft]
+  # Lists the website-only step reads ("site: more:" below) that this desk also judges for its
+  # email, by source name. Added 2026-10-12, the user's choice. Remove a name to stop.
+  site_readers: ["Delhi Police", "Delhi Police press releases"]
 
   # --- Earthquakes -------------------------------------------------
   # Read from the National Centre for Seismology (riseq.seismo.gov.in) for
@@ -956,6 +959,10 @@ bureau:
   # general one. Nothing from them is ever emailed to the bureau head. Remove a name
   # (or the whole list) to stop.
   # RBI, SEBI, CCI, DGFT and IRDAI added the same day, for the business reporters.
+  # Delhi Police, judged for this desk's email too (as on the national desk above; 2026-10-12),
+  # with the same bar as PIB
+  site_readers: ["Delhi Police", "Delhi Police press releases"]
+  site_reader_threshold: 6
   site_extra: [MHA, PMO, NITI Aayog, President of India, "State: Telangana", "State: Uttar Pradesh",
                RBI, RBI notifications, SEBI, IRDAI, CCI, DGFT, IMD, CERT-In]
 
@@ -1016,7 +1023,7 @@ site:
   # in the official stream (regulators: cci, above).
   pages:
     - dgca_comments     # DGCA: draft rules out for public comment
-    - dgca_traffic      # DGCA: monthly domestic air traffic (added 2026-10-11)
+    # dgca_traffic: read by the Mac from 2026-10-12 (DGCA gives GitHub a stale copy); see "more"
     - dgca_schedules    # DGCA: airlines' approved domestic schedules
     - dgca_circulars    # DGCA: circulars, general and enforcement
     - dgca_notices      # DGCA: public notices (AI-scored, see ai_pages)
@@ -1098,6 +1105,8 @@ site:
     # --- Read by the Mac only ("home_only": these refuse GitHub and Cloudflare alike;
     # chosen by the user 2026-10-11). Checks pause while the Mac is off or asleep.
     - {source: ECI, sub: Press releases, reader: eci, home_only: true}
+    # DGCA's monthly traffic tables: DGCA answers GitHub with a stale copy every time (2026-10-12)
+    - {source: DGCA, sub: Air traffic by city pair, reader: dgca_traffic, home_only: true}
     - {source: Lokpal, sub: Circulars and notifications, reader: lokpal, home_only: true}
     - {source: CBI, sub: Press releases, url: "https://cbi.gov.in/press-releases", match: "/press-detail/", home_only: true}
     - {source: NCB, sub: Press releases, reader: ncb, home_only: true}

@@ -290,6 +290,39 @@ def _feed(entry: dict) -> list:
     return posts
 
 
+# Lists the website-only step reads (site_sources.py, "site: more:" in watchlist.yml) that a
+# desk also judges for its email: "site_readers" names their sources. Added 2026-10-12 for Delhi
+# Police (the user's choice: also mailed to the bureau and the social media desk). Each post
+# keeps the website's own id, group and source, so the website holds one item with every
+# desk's score beside the others.
+SITE_READER = "site list: "
+
+
+def site_reader_entries(cfg: dict) -> list:
+    wanted = set(cfg.get("site_readers") or [])
+    return [m for m in website._cfg().get("more") or [] if m.get("source") in wanted and m.get("reader")]
+
+
+def _site_list(entry: dict) -> list:
+    from . import site_sources                                        # noqa: PLC0415
+    today = dt.datetime.now(IST).date()
+    label = f"{entry['source']} {entry.get('sub') or ''}".strip()
+    posts = []
+    for row in site_sources.HOME_READERS[entry["reader"]]():
+        when = row.get("date")
+        # a list that prints only a day: a recent day counts as now (an order dated yesterday
+        # may go up today); an old one keeps its day, so the age limit leaves it out
+        created = (dt.datetime.combine(when, dt.time(12), tzinfo=IST) if when and when < today - dt.timedelta(days=2)
+                   else dt.datetime.now(UTC))
+        post = _blank(id=f"site:{'ai:' if entry.get('new_ids') else ''}{entry['source']}|{row['key']}"[:300],
+                      handle=entry["source"], url=row.get("url") or "", created_at=created.isoformat(),
+                      text=f"{label}: {row['title']}. {row.get('detail') or ''}".strip())
+        post.site_item = {"grp": "official" if entry.get("ai") else "watch", "source": entry["source"],
+                          "sub": entry.get("sub") or "", "title": row["title"], "body": row.get("detail") or ""}
+        posts.append(post)
+    return posts
+
+
 def _page(entry: dict) -> list:
     """A government page with no feed: its current list of releases.
 
@@ -605,6 +638,9 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None, report: list | 
         readers.append((entry["name"], lambda entry=entry: _page(entry)))
     for entry in cfg.get("mea") or []:
         readers.append((entry["name"], lambda entry=entry: _mea(entry)))
+    for entry in site_reader_entries(cfg):
+        label = f"{SITE_READER}{entry['source']} {entry.get('sub') or ''}".strip()
+        readers.append((label, lambda entry=entry: _site_list(entry)))
 
     jobs = []
     for name, read in readers:
@@ -625,7 +661,8 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None, report: list | 
     # several sites at once (parallel.py); the results come back in the usual order
     for name, found, exc in parallel.run(jobs):
         record = health.get(name) or {}
-        if report is not None:
+        # the website-only step reports these lists' reading itself
+        if report is not None and not name.startswith(SITE_READER):
             report.append((name, exc))
         if exc is None:
             print(f"  {name}: {len(found)} item(s)")
@@ -857,11 +894,13 @@ FOOTERS = {
         ministries, regulators and agencies, and state governments. Only items
         judged to have broad public news value are sent; routine releases are
         left out. Earthquakes come straight from the National Centre for
-        Seismology and the USGS, by magnitude, unscreened.
+        Seismology and the USGS, by magnitude, unscreened. Delhi Police's orders,
+        circulars and press releases are screened the same way.
         Headlines are machine-written from
         the official text -- check the original before publishing.""",
     "bureau_desk": """Screened from every extraordinary Gazette of India notification and
-        every PIB release, across all ministries. The bar is set low so that
+        every PIB release, across all ministries, and Delhi Police's orders,
+        circulars and press releases. The bar is set low so that
         nothing newsworthy is missed: anything a beat reporter might want is
         sent, with a slightly higher bar for PIB. Only PIB releases posted in
         the last six hours, and gazettes newly uploaded to the e-Gazette site,
@@ -939,6 +978,8 @@ def _bar(post, cfg: dict) -> float:
         return float(cfg.get("pib_threshold", general))
     if post.handle.startswith("MEA"):
         return float(cfg.get("mea_threshold", general))
+    if getattr(post, "site_item", None):
+        return float(cfg.get("site_reader_threshold", general))
     return general
 
 
