@@ -178,38 +178,53 @@ def _dgca_file(path: str) -> str:
     return DGCA_FILES + quote(path.strip().replace("jsp/dgca/", "", 1))
 
 
-def dgca_traffic() -> list:
-    """Data and reports > Monthly statistics: each year's "Domestic City Pair Traffic" table,
-    one PDF a month, the newest month added about three weeks after it ends. (The "Air traffic"
-    list, 4264/4206, stopped at July 2023; moved here 2026-10-12.)"""
-    # DGCA's servers sometimes answer with a stale one-line copy of this page: ask again
-    entries = []
-    for _ in range(4):
+# DGCA's "Domestic City Pair Traffic" table for each year has a number of its own (2026: 9645).
+# Its "Monthly statistics" page (259/4184) is unreliable to read whole, so the table is read
+# directly, the way the site's own page asks for it ("getParentData"). A newer year's table is
+# looked for among the numbers that page links to, above the newest known.
+DGCA_CITY_PAIR = 9645
+
+
+def _dgca_part(content) -> list:
+    for _ in range(3):
         try:
-            entries = _dgca_json(ruleBookId="259", contentId="4184").get("ruleBookContentDtlsList") or []
+            entries = _dgca_json(ruleBookId="259", contentId=str(content), serviceName="getParentData").get("ruleBookContentDtlsList") or []
         except ValueError:
             entries = []
-        if any("city pair" in str(e.get("contentName", "")).lower() for e in entries):
-            break
+        if entries:
+            return entries
+    return []
+
+
+def dgca_traffic() -> list:
+    """Data and reports > Monthly statistics: the year's "Domestic City Pair Traffic" table,
+    one PDF a month, the newest about three weeks after the month ends. (The "Air traffic" list,
+    4264/4206, stopped at July 2023; moved here 2026-10-12.)"""
+    tables = [DGCA_CITY_PAIR]
+    try:
+        main = " ".join(e.get("contentText") or "" for e in _dgca_part(4184))
+        tables += sorted({int(n) for n in re.findall(r"/259/(\d+)/html", main) if int(n) > DGCA_CITY_PAIR})[:4]
+    except Exception:                                                 # noqa: BLE001
+        pass
     rows = []
-    this_year = dt.datetime.now(IST).year
-    for entry in entries:
-        name = _clean(entry.get("contentName"))
-        year = re.search(r"(20\d\d)", name)
-        if not name.lower().startswith("domestic city pair traffic") or not year or int(year.group(1)) < this_year - 1:
-            continue
-        soup = BeautifulSoup(entry.get("contentText") or "", "html.parser")
-        for tr in soup.find_all("tr"):
-            cells = tr.find_all("td")
-            link = next((a for a in tr.find_all("a", attrs={"data-url": True}) if a["data-url"].lower().endswith(".pdf")), None)
-            if not cells or not link:
+    for content in tables:
+        for entry in _dgca_part(content):
+            name = _clean(entry.get("contentName") or entry.get("contentIdentifier"))
+            year = re.search(r"(20\d\d)", name)
+            if "city pair" not in name.lower() or not year:
                 continue
-            month = _clean(cells[0].get_text(" ")).title()
-            rows.append({"key": f"dgca-traffic:{link['data-url'].strip()}",
-                         "title": f"Domestic air traffic by city pair: {month} {year.group(1)}",
-                         "detail": "DGCA's monthly passenger figures for each domestic route", "url": _dgca_file(link["data-url"]), "date": None})
+            soup = BeautifulSoup(entry.get("contentText") or "", "html.parser")
+            for tr in soup.find_all("tr"):
+                cells = tr.find_all("td")
+                link = next((a for a in tr.find_all("a", attrs={"data-url": True}) if a["data-url"].lower().endswith(".pdf")), None)
+                if not cells or not link:
+                    continue
+                month = _clean(cells[0].get_text(" ")).title()
+                rows.append({"key": f"dgca-traffic:{link['data-url'].strip()}",
+                             "title": f"Domestic air traffic by city pair: {month} {year.group(1)}",
+                             "detail": "DGCA's monthly passenger figures for each domestic route", "url": _dgca_file(link["data-url"]), "date": None})
     if not rows:
-        raise RuntimeError("no months on DGCA's monthly statistics (259/4184): it may have changed")
+        raise RuntimeError(f"DGCA's city pair table ({DGCA_CITY_PAIR}) came back empty (it may have changed)")
     return rows
 
 
