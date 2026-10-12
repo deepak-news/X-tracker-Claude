@@ -655,7 +655,74 @@ def lokpal() -> list:
     return rows
 
 
-HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal}
+# ---------------------------------------------------------------- Delhi Police
+
+# Delhi Police (delhipolice.gov.in, added 2026-10-12): its lists are ASP.NET grids whose rows
+# open only by a form post, so each row is known by its date and title, and links to its list.
+# Standing orders (the protest guidelines of Oct 11), circulars, prohibitory orders
+# ("Notifications", BNSS 163), the monthly Delhi Police Gazette, the home page's "What's new"
+# box, and the district press releases (busy: AI-scored, a source of their own).
+DP = "https://delhipolice.gov.in/"
+
+
+def _dp_grid(page: str, date_at: int | None, title_at: int, formats=("%d/%m/%Y",), more=None) -> list:
+    soup = BeautifulSoup(_get(DP + page).text, "html.parser")
+    rows = []
+    for tr in soup.find_all("tr"):
+        if tr.find("table"):             # the pager: a table of page numbers inside a row
+            continue
+        cells = [_clean(c.get_text(" ")) for c in tr.find_all("td", recursive=False)]
+        if len(cells) <= title_at or not cells[0].rstrip(".").isdigit() or not cells[title_at] or cells[title_at].isdigit():
+            continue
+        when = _day(cells[date_at], *formats) if date_at is not None else None
+        stamp = cells[date_at] if date_at is not None else ""
+        rows.append({"key": f"dp-{page.split('.')[0].lower()}:{stamp}|{cells[title_at][:200]}",
+                     "title": cells[title_at], "detail": more(cells) if more else (stamp if date_at is not None else ""),
+                     "url": DP + page, "date": when})
+    if not rows:
+        raise RuntimeError(f"nothing in Delhi Police's {page} (the page may have changed)")
+    return rows
+
+
+def dp_standing() -> list:
+    return _dp_grid("standingorderNew.aspx", 1, 2, ("%Y-%m-%d",), lambda c: f"Standing order dated {c[1]}")
+
+
+def dp_circulars() -> list:
+    return _dp_grid("circulars.aspx", None, 2, more=lambda c: f"Circular, {c[1]}")
+
+
+def dp_notifications() -> list:
+    return _dp_grid("notification.aspx", 1, 2, more=lambda c: f"Dated {c[1]}")
+
+
+def dp_gazette() -> list:
+    return _dp_grid("Gazette.aspx", 2, 1, more=lambda c: f"Dated {c[2]}")
+
+
+def dp_press() -> list:
+    return _dp_grid("newpressrelease.aspx", 1, 2,
+                    more=lambda c: " | ".join(x for x in (c[3] if len(c) > 3 else "", f"PS {c[4]}" if len(c) > 4 and c[4] else "",
+                                                          c[5].title() if len(c) > 5 else "") if x))
+
+
+def dp_whatsnew() -> list:
+    """The home page's "What's new" box: documents put up as PDFs (the protest guidelines first)."""
+    soup = BeautifulSoup(_get(DP).text, "html.parser")
+    rows = []
+    for link in soup.find_all("a", href=True):
+        href = link["href"].strip()
+        title = _clean(link.get_text(" ")).rstrip(".")
+        if "whatsnewfile/" in href.lower() and title:
+            url = urljoin(DP, quote(href, safe="/:%?=&"))
+            rows.append({"key": f"dp-whatsnew:{href}", "title": title, "detail": "", "url": url, "date": None})
+    if not rows:
+        raise RuntimeError("nothing in Delhi Police's What's new box (the page may have changed)")
+    return rows
+
+
+HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
+                "dp_notifications": dp_notifications, "dp_gazette": dp_gazette, "dp_press": dp_press, "dp_whatsnew": dp_whatsnew}
 
 
 # ---------------------------------------------------------------- WHO

@@ -1086,6 +1086,15 @@ site:
     - {source: WTO, feed: "https://www.wto.org/library/rss/latest_news_e.xml"}
     - {source: China foreign ministry, url: "https://www.fmprc.gov.cn/eng/xw/fyrbt/", match: "/(lxjzh|fyrbt)/\\d{6}/t\\d+_\\d+\\.html$"}
     - {source: Sri Lanka foreign ministry, url: "https://mfa.gov.lk/en/", match: "/en/news/[a-z0-9-]{30,}"}
+    # --- Delhi Police (added 2026-10-12, the user's choice: nothing like the Oct 11 protest
+    # guidelines should be missed). Its lists, each row known by date and title; the district
+    # press releases are busy, so the AI scores them, as a source of their own.
+    - {source: Delhi Police, sub: Standing orders, reader: dp_standing}
+    - {source: Delhi Police, sub: What's new, reader: dp_whatsnew}
+    - {source: Delhi Police, sub: Prohibitory orders, reader: dp_notifications}
+    - {source: Delhi Police, sub: Circulars, reader: dp_circulars}
+    - {source: Delhi Police, sub: Gazette, reader: dp_gazette}
+    - {source: Delhi Police press releases, reader: dp_press, ai: true}
     # --- Read by the Mac only ("home_only": these refuse GitHub and Cloudflare alike;
     # chosen by the user 2026-10-11). Checks pause while the Mac is off or asleep.
     - {source: ECI, sub: Press releases, reader: eci, home_only: true}
