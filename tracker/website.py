@@ -150,6 +150,26 @@ def known(ids: list, sources: list) -> dict | None:
         return None
 
 
+def recent(sources: list, hours: float = 12) -> list | None:
+    """Recent items (not a first list's backlog) from these website sources ("watch|Parliament"),
+    for the national desks to judge for their email (national.py, from_site). None when the
+    website cannot be asked."""
+    if not enabled() or not sources:
+        return [] if enabled() else None
+    try:
+        auth = _auth()
+        if not auth:
+            return None
+        url = (_cfg().get("url") or DEFAULT_URL).rstrip("/") + "/api/recent"
+        answer = requests.post(url, json={"sources": sources, "hours": hours}, timeout=TIMEOUT,
+                               headers={"Authorization": auth, "User-Agent": "news-tracker"})
+        answer.raise_for_status()
+        return answer.json().get("items") or []
+    except Exception as exc:                                          # noqa: BLE001
+        print(f"  ! could not ask the website for its recent items ({str(exc)[:160]})")
+        return None
+
+
 def unscored(hours: int = 6, limit: int = 90) -> list:
     """Recent items on the website (not a first list's backlog) that have no general desk's
     score yet: the watch pages, rows from the Mac, anything a desk's AI could not get to.
@@ -330,7 +350,7 @@ def _title(post, source: str, sub: str) -> str:
 def official_item(post, score, headline: str = "", why: str = "") -> dict:
     site = getattr(post, "site_item", None)
     if site:
-        # a website-only list a desk also judges (national.py, site_readers): the website's own item
+        # a website source a desk also judges (national.py, from_site): the website's own item
         return {"id": str(post.id), "grp": site["grp"], "source": site["source"], "sub": site["sub"],
                 "title": site["title"][:500], "body": site["body"][:1500], "url": post.url or "",
                 "score": None if score is None else float(score), "general": _general(post),

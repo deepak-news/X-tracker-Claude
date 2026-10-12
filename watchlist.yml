@@ -822,9 +822,30 @@ national:
   # CCI, CERT-In and DGFT -- the same documents the Tech Desk reads,
   # judged here by this desk's own rubric.
   regulators: [cci, certin, dgft]
-  # Lists the website-only step reads ("site: more:" below) that this desk also judges for its
-  # email, by source name. Added 2026-10-12, the user's choice. Remove a name to stop.
-  site_readers: ["Delhi Police", "Delhi Police press releases"]
+  # Sources this desk takes from the website and judges for its email, by their key there
+  # (national.py, from_site). Whoever reads them -- the watch pages, the website-only step,
+  # the office Mac -- this desk sees every new item. Chosen by the user 2026-10-12; remove a
+  # line to stop.
+  from_site: &from_site
+    - watch|Delhi Police
+    - official|Delhi Police press releases
+    - watch|ECI
+    - watch|Parliament
+    - watch|CAG
+    - watch|NHRC
+    - official|CIC
+    - watch|Lokpal
+    - watch|Law Commission
+    - watch|GST Council
+    - watch|WHO outbreak news
+    - official|ISRO
+    - watch|GDACS disaster alerts
+    - watch|NDMA
+    - official|CPCB
+    - official|UN News
+    - watch|WTO
+    - watch|BCCI
+    - official|ICC
 
   # --- Earthquakes -------------------------------------------------
   # Read from the National Centre for Seismology (riseq.seismo.gov.in) for
@@ -959,10 +980,12 @@ bureau:
   # general one. Nothing from them is ever emailed to the bureau head. Remove a name
   # (or the whole list) to stop.
   # RBI, SEBI, CCI, DGFT and IRDAI added the same day, for the business reporters.
-  # Delhi Police, judged for this desk's email too (as on the national desk above; 2026-10-12),
-  # with the same bar as PIB
-  site_readers: ["Delhi Police", "Delhi Police press releases"]
+  # The same sources from the website, judged for this desk's email (as on the national desk
+  # above; 2026-10-12), with the same bar as PIB
+  from_site: *from_site
   site_reader_threshold: 6
+  # Of site_extra below, these are emailed to this desk too (the user's choice, 2026-10-12)
+  mail_extra: [MHA, PMO, NITI Aayog, President of India, IMD, CERT-In]
   site_extra: [MHA, PMO, NITI Aayog, President of India, "State: Telangana", "State: Uttar Pradesh",
                RBI, RBI notifications, SEBI, IRDAI, CCI, DGFT, IMD, CERT-In]
 

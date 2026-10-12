@@ -290,35 +290,34 @@ def _feed(entry: dict) -> list:
     return posts
 
 
-# Lists the website-only step reads (site_sources.py, "site: more:" in watchlist.yml) that a
-# desk also judges for its email: "site_readers" names their sources. Added 2026-10-12 for Delhi
-# Police (the user's choice: also mailed to the bureau and the social media desk). Each post
-# keeps the website's own id, group and source, so the website holds one item with every
-# desk's score beside the others.
-SITE_READER = "site list: "
+# Sources this desk takes from the website (PTI Source Alerts) rather than reading the sites
+# itself: "from_site" lists their keys there ("watch|Parliament"). Whatever read them -- the
+# watch pages, the website-only step, the office Mac -- hands each new item to the website;
+# this desk judges it by its own rubric and bar for its email, and its score joins the
+# website's own item (same id). Added 2026-10-12, the user's choices: Delhi Police, ECI,
+# Parliament, the watchdogs, GST Council, WHO, ISRO, disasters, UN, WTO, cricket. An item
+# reaches this desk on the run after the website has it (within 15 minutes; the Mac's when the
+# Mac hands it over).
+FROM_SITE = "site: "
+_SITE_ITEMS: dict = {}
 
 
-def site_reader_entries(cfg: dict) -> list:
-    wanted = set(cfg.get("site_readers") or [])
-    return [m for m in website._cfg().get("more") or [] if m.get("source") in wanted and m.get("reader")]
-
-
-def _site_list(entry: dict) -> list:
-    from . import site_sources                                        # noqa: PLC0415
-    today = dt.datetime.now(IST).date()
-    label = f"{entry['source']} {entry.get('sub') or ''}".strip()
+def _from_site(cfg: dict, key: str) -> list:
+    if "items" not in _SITE_ITEMS:
+        found = website.recent(list(cfg.get("from_site") or []), hours=float(cfg.get("max_age_hours", 12)))
+        if found is None:
+            raise RuntimeError("the website could not be asked for its recent items")
+        _SITE_ITEMS["items"] = found
     posts = []
-    for row in site_sources.HOME_READERS[entry["reader"]]():
-        when = row.get("date")
-        # a list that prints only a day: a recent day counts as now (an order dated yesterday
-        # may go up today); an old one keeps its day, so the age limit leaves it out
-        created = (dt.datetime.combine(when, dt.time(12), tzinfo=IST) if when and when < today - dt.timedelta(days=2)
-                   else dt.datetime.now(UTC))
-        post = _blank(id=f"site:{'ai:' if entry.get('new_ids') else ''}{entry['source']}|{row['key']}"[:300],
-                      handle=entry["source"], url=row.get("url") or "", created_at=created.isoformat(),
-                      text=f"{label}: {row['title']}. {row.get('detail') or ''}".strip())
-        post.site_item = {"grp": "official" if entry.get("ai") else "watch", "source": entry["source"],
-                          "sub": entry.get("sub") or "", "title": row["title"], "body": row.get("detail") or ""}
+    for it in _SITE_ITEMS["items"]:
+        if f"{it.get('grp')}|{it.get('source')}" != key:
+            continue
+        label = f"{it['source']} {it.get('sub') or ''}".strip()
+        at = dt.datetime.fromtimestamp(int(it["at"]) / 1000, UTC)
+        post = _blank(id=str(it["id"]), handle=it["source"], url=it.get("url") or "", created_at=at.isoformat(),
+                      text=f"{label}: {it['title']}. {it.get('body') or ''}".strip())
+        post.site_item = {"grp": it["grp"], "source": it["source"], "sub": it.get("sub") or "",
+                          "title": it["title"], "body": it.get("body") or ""}
         posts.append(post)
     return posts
 
@@ -638,9 +637,9 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None, report: list | 
         readers.append((entry["name"], lambda entry=entry: _page(entry)))
     for entry in cfg.get("mea") or []:
         readers.append((entry["name"], lambda entry=entry: _mea(entry)))
-    for entry in site_reader_entries(cfg):
-        label = f"{SITE_READER}{entry['source']} {entry.get('sub') or ''}".strip()
-        readers.append((label, lambda entry=entry: _site_list(entry)))
+    _SITE_ITEMS.clear()
+    for key in cfg.get("from_site") or []:
+        readers.append((FROM_SITE + key.split("|", 1)[-1], lambda key=key: _from_site(cfg, key)))
 
     jobs = []
     for name, read in readers:
@@ -661,8 +660,8 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None, report: list | 
     # several sites at once (parallel.py); the results come back in the usual order
     for name, found, exc in parallel.run(jobs):
         record = health.get(name) or {}
-        # the website-only step reports these lists' reading itself
-        if report is not None and not name.startswith(SITE_READER):
+        # the website shows how these sources' own readers are doing
+        if report is not None and not name.startswith(FROM_SITE):
             report.append((name, exc))
         if exc is None:
             print(f"  {name}: {len(found)} item(s)")
@@ -1053,6 +1052,8 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
         regs = [w for w in (whole.get("national") or {}).get("regulators") or [] if regulators.NAMES.get(w) in wanted]
         cfg["regulators"] = list(cfg.get("regulators") or []) + regs
         site_only |= {regulators.NAMES[w] for w in regs}
+        # "mail_extra": of those, the ones this desk now emails too (the user's choice, 2026-10-12)
+        site_only -= set(cfg.get("mail_extra") or [])
     if not dry_run and not os.environ.get(recipient, "").strip():
         print(f"No {recipient} secret set yet, so there is nobody to send to. "
               f"Skipping -- add the secret to switch this on.")
