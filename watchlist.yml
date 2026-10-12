@@ -1141,7 +1141,7 @@ site:
     # ~/.watch-env for that; until then its new stories wait unjudged and nothing new is sent.
     - {source: UN News, feed: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", home_only: true, ai: true, new_ids: true}
     # --- Sports
-    - {source: BCCI, url: "https://www.bcci.tv/", match: "/news/article/", only: "^Press Releases", strip: "^Press Releases\\s*|\\s+\\d+[mhd] ago$"}
+    - {source: BCCI, url: "https://www.bcci.tv/", match: "/news/article/", only: "^Press Releases", strip: "^Press Releases\\s*|\\s+(?:\\d+\\s*(?:[mhd]|mins?|hours?|days?) ago|just now)$"}
     - {source: ICC, url: "https://www.icc-cricket.com/media-releases", match: "/media-releases/[a-z0-9-]+$", strip: "^(Media Release|Online Media Zone)\\s*|\\s+\\d+[mhd]$", ai: true}
     - {source: AIFF, url: "https://www.the-aiff.com/", match: "/article/", ai: true}
     - {source: Hockey India, url: "https://www.hockeyindia.org/", match: "hockeyindia\\.org/news/(?!category/)", ai: true}
