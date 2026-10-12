@@ -335,9 +335,16 @@ def official_source(post) -> tuple:
     return handle, ""
 
 
+# What the tracker adds to a post for the AI -- an article's or a release's own text, read
+# before judging -- is not part of its title (it showed there until 2026-10-12)
+_ADDED = re.compile(r"\s+(?:ARTICLE|TEXT): .*$", re.S)
+
+
 def _title(post, source: str, sub: str) -> str:
     """The item's own title: the posts carry "Who: what" for the AI; the website shows who apart."""
     text = _clean(post.text)
+    if source not in ("Gazette", "Earthquakes"):
+        text = _ADDED.sub("", text)
     for lead in (f"{sub}: ", f"{post.handle}: ", f"{source}: ", f"{post.handle} published: ", f"{source} published: "):
         if lead.strip(": ") and text.startswith(lead):
             text = text[len(lead):]
@@ -390,7 +397,7 @@ def tech_item(post, score, headline: str = "", why: str = "") -> dict | None:
     handle = post.handle
     if handle.lower().startswith(("news:", "pib ", "reg ", "bse ")):
         return None
-    text = _clean(post.text)
+    text = _ADDED.sub("", _clean(post.text))
     for lead in (f"{handle} published: ", f"{handle}: "):
         if text.startswith(lead):
             text = text[len(lead):]

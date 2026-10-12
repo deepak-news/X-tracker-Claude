@@ -340,6 +340,10 @@ def _page(entry: dict) -> list:
     # only the top of the list is worth watching; remembering all of it
     # would overflow this desk's memory and bring old releases back as new.
     posts = sources._page(entry, {})[:int(entry.get("max_links", 60))]
+    # "strip" cuts what the link carries besides the title -- a date, a summary, the Hindi
+    # copy -- once the date has been read from it (added 2026-10-12)
+    strip = re.compile(entry["strip"], re.I) if entry.get("strip") else None
+    lead = f"{entry['name']} published: "
     for post in posts:
         post.id = f"page:{post.url}"
         # If the listing prints a date, that is when it was issued. Anything
@@ -347,6 +351,9 @@ def _page(entry: dict) -> list:
         # which is what stops a list of last month's bulletins going out.
         issued = sources.date_in_text(post.text)
         post.created_at = min(issued, dt.datetime.now(UTC)).isoformat() if issued else now
+        if strip and post.text.startswith(lead):
+            title = strip.sub("", post.text[len(lead):]).strip()
+            post.text = lead + (title or post.text[len(lead):])
     return posts
 
 
@@ -466,7 +473,9 @@ def _region(place: str) -> str:
     """Where a quake happened: "india", "neighbour" or "world"."""
     text = place.lower()
     parts = [p.strip() for p in text.split(",") if p.strip()]
-    if parts and (parts[-1] in STATES or "india" in parts[-1]):
+    # "india" as a word: the "Mid-Indian Ridge", in the open ocean, counted as India until
+    # 2026-10-12 -- which, with India's lower figure, would have emailed its frequent quakes
+    if parts and (parts[-1] in STATES or re.search(r"\bindia\b", parts[-1])):
         return "india"
     if any(re.search(rf"\b{name}\b", text) for name in NEIGHBOURS):
         return "neighbour"

@@ -859,10 +859,11 @@ national:
   # switch the whole thing off.
   earthquakes:
     min_magnitude: 5.7            # anywhere in the world
-    india_min_magnitude: 4.5      # inside India
+    india_min_magnitude: 3.5      # inside India (was 4.5; lowered 2026-10-12, the user's choice)
     neighbour_min_magnitude: 4.5  # the neighbouring countries
     # Quakes in India from this size up to the one above go to the website only (scored
-    # 6 there), never emailed. Added 2026-10-11; remove the line to stop.
+    # 6 there), never emailed. Added 2026-10-11; remove the line to stop. With India's
+    # figure above at 3.5 too, every India quake from 3.5 is emailed and none is site-only.
     site_india_min_magnitude: 3.5
 
   # Any other official site that publishes an RSS feed can be added here.
@@ -882,9 +883,9 @@ national:
   # A site failing three runs running is skipped for six hours, then retried.
   # All checked against the live sites on 2026-09-17.
   pages:
-    - {name: PMO, url: "https://www.pmindia.gov.in/en/news-updates/", match: "^/en/news_updates/[^/]+"}
-    - {name: IMD, url: "https://internal.imd.gov.in/pages/press_release_mausam.php", match: "^/press_release/.+\\.pdf$", exclude: "[\\u0900-\\u097F]"}   # English copies only
-    - {name: IRDAI, url: "https://irdai.gov.in/press-releases", match: "^/documents/37343/366347/"}
+    - {name: PMO, url: "https://www.pmindia.gov.in/en/news-updates/", match: "^/en/news_updates/[^/]+", strip: "\\s+\\d{1,2}\\s+[A-Z][a-z]{2,8},?\\s+\\d{4}\\b.*$"}
+    - {name: IMD, url: "https://internal.imd.gov.in/pages/press_release_mausam.php", match: "^/press_release/.+\\.pdf$", exclude: "[\\u0900-\\u097F]", strip: "^\\d{1,2}\\s+[A-Z][a-z]{2}\\s+\\d{4}\\s+|\\s*\\(pdf\\)\\s*$"}   # English copies only
+    - {name: IRDAI, url: "https://irdai.gov.in/press-releases", match: "^/documents/37343/366347/", strip: "^(?:Non-Archived\\s+)?[^/]*[ऀ-ॿ][^/]*/\\s*|\\s+\\d{2}-\\d{2}-\\d{4}\\b.*$"}
     - {name: MHA, url: "https://www.mha.gov.in/en/media/whats-new", match: "^/sites/default/files/.+\\.pdf$"}
     - {name: CBSE, url: "https://www.cbse.gov.in/cbsenew/cbse.html", match: "^/cbsenew/documents/.+\\.pdf$"}
     # UP types its cabinet decisions in the old Kruti Dev Hindi font; the PDF
@@ -1076,23 +1077,23 @@ site:
     - {source: Office of the Economic Adviser, url: "https://eaindustry.nic.in/", match: "\\.pdf$", only: "press release"}
     - {source: GST Council, url: "https://gstcouncil.gov.in/", match: "/sites/default/files/20\\d\\d-\\d\\d/|pib\\.gov\\.in/", exclude: "vacancy|consultant|newsletter|appointment of the officers"}
     - {source: CGA, url: "https://cga.nic.in/", match: "/Circular/Published/\\d+", ai: true}
-    - {source: PPAC, url: "https://ppac.gov.in/", match: "download\\.php\\?file=(importantnews|rep_studies)/", exclude: "^RSP of (Petrol|Diesel) in Delhi|advertisement|tender"}
+    - {source: PPAC, url: "https://ppac.gov.in/", match: "download\\.php\\?file=(importantnews|rep_studies)/", exclude: "^RSP of (Petrol|Diesel) in Delhi|advertisement|tender", strip: "\\s*\\(\\s*pdf\\s*,\\s*[\\d.]+\\s*[KM]B\\s*\\)\\s*$"}
     - {source: PFRDA, url: "https://www.pfrda.org.in/", match: "/en/web/pfrda/w/", ai: true}
     - {source: IFSCA, url: "https://ifsca.gov.in/", match: "/(PressRelease|Legal|ReportPublication)/Index", ai: true}
     # --- Courts and watchdogs (Supreme Court judgments and NCLAT judgments AI-scored from
     # 2026-10-11, the user's choice; the Supreme Court's notices still count every row)
-    - {source: Supreme Court, sub: Judgments, url: "https://www.sci.gov.in/", match: "/view-pdf/\\?diary_no=.*from=latest_judg", ai: true, new_ids: true}
-    - {source: Supreme Court, sub: Notices, url: "https://www.sci.gov.in/", match: "s3waas\\.gov\\.in/.+/uploads/", exclude: "listing notices|cause ?list|chamber matters|oral mentioning|nodal officer|court nos?\\.|parking|vacation"}
+    - {source: Supreme Court, sub: Judgments, url: "https://www.sci.gov.in/", match: "/view-pdf/\\?diary_no=.*from=latest_judg", strip: "\\s*\\(Uploaded On [^)]*\\)?\\s*$", ai: true, new_ids: true}
+    - {source: Supreme Court, sub: Notices, url: "https://www.sci.gov.in/", match: "s3waas\\.gov\\.in/.+/uploads/", exclude: "listing notices|cause ?list|chamber matters|oral mentioning|nodal officer|court nos?\\.|parking|vacation", strip: "^Latest Updates\\s+|\\s+-\\s+\\d{1,2}\\s+[A-Z][a-z]{2,8},?\\s+\\d{4}$"}
     - {source: NCLAT, sub: Judgments, url: "https://nclat.nic.in/", match: "view_order_pdf\\?.*order_type=J", min: 10, ai: true, new_ids: true}
     - {source: NCLT, url: "https://nclt.gov.in/", match: "/sites/default/files/", exclude: "cause ?list|defect|pendency|celebrat|swachh|maintenance|disruption|power supply|shifting|closure|court no|sitting|relocation|nasha|tiranga", ai: true}
-    - {source: Law Commission, url: "https://lawcommissionofindia.nic.in/", match: "/document/|/uploads/20", exclude: "internship|consultant|CPIO|transparency officer"}
+    - {source: Law Commission, url: "https://lawcommissionofindia.nic.in/", match: "/document/|/uploads/20", exclude: "internship|consultant|CPIO|transparency officer", strip: "\\s+New!?$"}
     - {source: CAG, sub: Audit reports, url: "https://cag.gov.in/en/audit-report", match: "/en/audit-report/details/\\d+"}
     - {source: NHRC, url: "https://nhrc.nic.in/media/press-release", match: "/media/press-release/.", exclude: "internship"}
     - {source: CIC, url: "https://cic.gov.in/", match: "cic\\.gov\\.in/(node/\\d+|circular|notice)", ai: true}
     # --- Health
     - {source: CDSCO, url: "https://cdsco.gov.in/opencms/opencms/en/Home/", match: "Pdf-documents/.+\\.pdf", ai: true}
     - {source: ICMR, url: "https://www.icmr.gov.in/", match: "/post/|/uploads/(WhatsNew|Call)/", exclude: "recruitment|advertisement|admission|walk-in", ai: true}
-    - {source: NMC, url: "https://www.nmc.org.in/", match: "whats-new/download/\\d+", ai: true}
+    - {source: NMC, url: "https://www.nmc.org.in/", match: "whats-new/download/\\d+", strip: "^\\d{2}/\\d{2}/\\d{4}\\s*-\\s*|\\s+New!?$", ai: true}
     - {source: NCDC, url: "https://ncdc.mohfw.gov.in/", match: "/uploads/announcements/", exclude: "post of|posts of|recruit|vacanc|walk-in|engagement", ai: true}
     # WHO's news feed stopped in February 2026; its outbreak news is "who_outbreaks" above
     # --- Education
@@ -1141,14 +1142,14 @@ site:
     # ~/.watch-env for that; until then its new stories wait unjudged and nothing new is sent.
     - {source: UN News, feed: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", home_only: true, ai: true, new_ids: true}
     # --- Sports
-    - {source: BCCI, url: "https://www.bcci.tv/", match: "/news/article/", only: "^Press Releases", strip: "^Press Releases\\s*|\\s+(?:\\d+\\s*(?:[mhd]|mins?|hours?|days?) ago|just now)$"}
-    - {source: ICC, url: "https://www.icc-cricket.com/media-releases", match: "/media-releases/[a-z0-9-]+$", strip: "^(Media Release|Online Media Zone)\\s*|\\s+\\d+[mhd]$", ai: true}
+    - {source: BCCI, url: "https://www.bcci.tv/", match: "/news/article/", only: "^Press Releases", strip: "^Press Releases\\s*|\\s+(?:\\d+\\s*(?:[mhd]|mins?|hours?|days?) ago|just now|(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\\s+\\d{1,2}\\s+[A-Z][a-z]{2}\\s+\\d{4},\\s+\\d{1,2}:\\d{2}\\s*[ap]m)$"}
+    - {source: ICC, url: "https://www.icc-cricket.com/media-releases", match: "/media-releases/[a-z0-9-]+$", strip: "^(Media Release|Online Media Zone)\\s*|\\s+\\d+[mhd]$|\\s+\\d{1,2}\\s+[A-Z][a-z]{2,8},?\\s+\\d{4}$", ai: true}
     - {source: AIFF, url: "https://www.the-aiff.com/", match: "/article/", ai: true}
     - {source: Hockey India, url: "https://www.hockeyindia.org/", match: "hockeyindia\\.org/news/(?!category/)", ai: true}
     # Added 2026-10-11, the user's choice
     - {source: IOA, url: "https://olympic.ind.in/", match: "olympic\\.ind\\.in/wp-content/uploads/20\\d\\d/\\d\\d/.+\\.pdf$", strip: "^\\d+\\s+", exclude: "tender|quotation"}
     - {source: BAI, url: "https://www.badmintonindia.org/", match: "/download/news/", exclude: "advertisement|tender"}
-    - {source: AFI, url: "https://indianathletics.in/", match: "indianathletics\\.in/[a-z0-9]+(-[a-z0-9]+){4,}/?$", ai: true}
+    - {source: AFI, url: "https://indianathletics.in/", match: "indianathletics\\.in/[a-z0-9]+(-[a-z0-9]+){4,}/?$", strip: "\\s+Read More$", ai: true}
 
   # The AI judges these once an hour (in the run after the hour, India time),
   # or sooner when 15 rows are waiting -- one request either way. false = in
