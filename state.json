@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-07T14:04:03.205797+00:00",
-      "handle": "Google",
-      "headline": "Google launches global standalone SynthID Detector for AI media verification",
-      "tier": 1,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
-      "words": [
-        "content",
-        "created",
-        "easier",
-        "easily",
-        "generated",
-        "globally",
-        "google",
-        "help",
-        "identify",
-        "launching",
-        "making",
-        "online",
-        "platform",
-        "standalone"
-      ]
-    },
-    {
       "at": "2026-10-07T14:32:15.570748+00:00",
       "handle": "News: Big tech platforms",
       "headline": "Meta removes 5.3 million CSAM pieces in India with direct I4C reporting",
@@ -7461,6 +7438,21 @@
         "openai",
         "saudi"
       ]
+    },
+    {
+      "at": "2026-10-13T22:33:22.902257+00:00",
+      "handle": "News: Global AI",
+      "headline": "IIT-Mandi develops new AI model for forensic identification",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZXROVzE5bEUyLXFSOVVsX2stOWQyTU1Hb0tRLWcyVXA3OWlSTHRJNW0zZjdfQkFqWkU4ZE85bTQ4ckVFQkduN2d3WHFDR3JsbE8wY1NZZk00VVZhZFBLZFJOaWZvOHgyYW5XYlc1RE9acHdwWmZFQ0dtWUZxbjJXdkRkTzBQNXNoX2VkTDJnSlIxMTYzbzBqS3NB0gGeAUFVX3lxTFBJdk5sSVlJQ19yaWVqczFsWG50VnRRMHRlOG9teDAzNHZsTGV6NWthUlJfRlN0QXVyaHNUUlVhZ1FMZkJxSUc4TWs5dEVDNE1wNmJ4Z09LYzZhM29UWGZiTFYxT2I4YlBuQ1kycTQxSkpSbGE5NVJFb0xJcUdRUGpIZF9CU3FKSnhsMU9wc3BmcGMwWEN6WXJQWkVMVFZ3?oc=5",
+      "words": [
+        "aid",
+        "forensic",
+        "identification",
+        "iit",
+        "mandi",
+        "model"
+      ]
     }
   ],
   "bureau": {
@@ -9587,7 +9579,7 @@
         "CCI": "2026-10-13T18:46:49.673792+00:00"
       }
     },
-    "last_run": "2026-10-13T22:19:07.951360+00:00",
+    "last_run": "2026-10-13T22:34:15.330743+00:00",
     "pib_mark": 2323025,
     "seen": [
       "pib:2320137",
@@ -11051,11 +11043,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791435280144",
-    "1791435724445",
-    "1790772631943",
-    "1791355693150",
-    "1791364417838",
     "1791369593903",
     "1791373873220",
     "1791380436747",
@@ -15418,7 +15405,6 @@
     "1791867223133",
     "1791872201926",
     "1791890068601",
-    "1791896400001",
     "1791898800627",
     "1791903827680",
     "1791910831744",
@@ -15440,12 +15426,10 @@
     "1791907200674",
     "1791912229128",
     "1791922531231",
-    "1791924900209",
     "1791855007445",
     "1791879776608",
     "1791881546002",
     "1791898586094",
-    "1791917220788",
     "1791926342828",
     "1791182930422",
     "1791280117943",
@@ -15463,6 +15447,17 @@
     "1791917628237",
     "1791917760626",
     "1791925083258",
+    "1791867956075",
+    "1791882655629",
+    "1791886283241",
+    "1791892140774",
+    "1791898196001",
+    "1791899220364",
+    "1791915510927",
+    "1791922020694",
+    "1791923820788",
+    "1791924960209",
+    "1791929160320",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -16688,7 +16683,7 @@
     "1791866794497",
     "1791866880370",
     "1791867631456",
-    "1791867956075",
+    "1791867956254",
     "1791868206656",
     "1791868380716",
     "1791868740010",
@@ -16768,7 +16763,6 @@
     "1791882378013",
     "1791882477599",
     "1791882551571",
-    "1791882655629",
     "1791882900847",
     "1791882997466",
     "1791883212819",
@@ -16790,7 +16784,6 @@
     "1791885894031",
     "1791886176348",
     "1791886189142",
-    "1791886283241",
     "1791886498666",
     "1791886742775",
     "1791886977242",
@@ -16821,7 +16814,6 @@
     "1791891595569",
     "1791891623931",
     "1791891632748",
-    "1791892140774",
     "1791892280957",
     "1791892310346",
     "1791892800696",
@@ -16847,6 +16839,7 @@
     "1791896290345",
     "1791896314603",
     "1791896356666",
+    "1791896400001",
     "1791896413255",
     "1791896524536",
     "1791896739986",
@@ -16857,12 +16850,10 @@
     "1791897700988",
     "1791897818262",
     "1791898154414",
-    "1791898196001",
     "1791898200810",
     "1791898453511",
     "1791898910256",
     "1791898911857",
-    "1791899220364",
     "1791899463400",
     "1791899708812",
     "1791899767144",
@@ -16935,11 +16926,11 @@
     "1791914745071",
     "1791915068276",
     "1791915480535",
-    "1791915510927",
     "1791915721038",
     "1791915783799",
     "1791915969931",
     "1791916140856",
+    "1791917220788",
     "1791917580745",
     "1791917817618",
     "1791920100578",
@@ -16951,38 +16942,39 @@
     "1791921540534",
     "1791921700851",
     "1791921778799",
-    "1791922020694",
     "1791922077761",
     "1791922560139",
     "1791923100627",
     "1791923400134",
     "1791923804578",
-    "1791923820788",
     "1791923880993",
     "1791923890032",
     "1791924325091",
     "1791924360862",
     "1791924824802",
     "1791924898840",
+    "1791924900209",
     "1791924912355",
     "1791924941442",
-    "1791924960209",
     "1791924960523",
     "1791925080904",
     "1791925151490",
     "1791925200151",
+    "1791925294607",
     "1791926342557",
     "1791926485845",
     "1791926546729",
     "1791926741258",
     "1791926764231",
     "1791926846193",
+    "1791927077456",
     "1791927720374",
     "1791927769828",
     "1791928440238",
     "1791928504820",
+    "1791928860743",
+    "1791928885549",
     "1791929054307",
-    "1791929160320",
     "1791929340382",
     "2317509",
     "2317615",
@@ -17052,8 +17044,8 @@
     "2322766",
     "2322833"
   ],
-  "last_digest_hour": "2026-10-14T03",
-  "last_success": "2026-10-13T22:18:06.711961+00:00",
+  "last_digest_hour": "2026-10-14T04",
+  "last_success": "2026-10-13T22:33:22.988046+00:00",
   "national": {
     "alerted": [
       {
@@ -23868,7 +23860,7 @@
       },
       "warned": "2026-10-13T20:34:09.346463+00:00"
     },
-    "last_run": "2026-10-13T22:18:53.875501+00:00",
+    "last_run": "2026-10-13T22:34:05.489195+00:00",
     "pib_mark": 2323025,
     "seen": [
       "pib:2314488",
@@ -26937,26 +26929,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "IIT-Mandi develops new AI model for forensic identification",
-      "post": {
-        "created_at": "2026-10-13T19:51:02+00:00",
-        "handle": "News: Global AI",
-        "id": "1791921062072",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Tribune",
-        "reposts": 0,
-        "text": "IIT-Mandi\u2019s AI model to aid forensic identification",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZXROVzE5bEUyLXFSOVVsX2stOWQyTU1Hb0tRLWcyVXA3OWlSTHRJNW0zZjdfQkFqWkU4ZE85bTQ4ckVFQkduN2d3WHFDR3JsbE8wY1NZZk00VVZhZFBLZFJOaWZvOHgyYW5XYlc1RE9acHdwWmZFQ0dtWUZxbjJXdkRkTzBQNXNoX2VkTDJnSlIxMTYzbzBqS3NB0gGeAUFVX3lxTFBJdk5sSVlJQ19yaWVqczFsWG50VnRRMHRlOG9teDAzNHZsTGV6NWthUlJfRlN0QXVyaHNUUlVhZ1FMZkJxSUc4TWs5dEVDNE1wNmJ4Z09LYzZhM29UWGZiTFYxT2I4YlBuQ1kycTQxSkpSbGE5NVJFb0xJcUdRUGpIZF9CU3FKSnhsMU9wc3BmcGMwWEN6WXJQWkVMVFZ3?oc=5"
-      },
-      "queued_at": "2026-10-13T22:18:06.623179+00:00",
-      "score": 7.0,
-      "why": "It is a significant domestic AI research development involving an Indian institution."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -28098,7 +28071,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-13T22:18:07.098340+00:00",
+    "last_server_run": "2026-10-13T22:33:23.346720+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-13T21:04:24.129985+00:00",
