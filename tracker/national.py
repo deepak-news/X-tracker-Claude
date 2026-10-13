@@ -1055,7 +1055,7 @@ def _gazette_no(post) -> int:
     return int(match.group(1)) if match else 0
 
 
-def old_gazette(post, mark: int = 0) -> bool:
+def old_gazette(post, mark: int = 0, behind: int = 0) -> bool:
     """True for a gazette that is not a new upload -- or cannot be shown to be.
 
     Dates are no help here: a gazette carries the date it was issued, often
@@ -1074,10 +1074,16 @@ def old_gazette(post, mark: int = 0) -> bool:
         print(f"  ! could not read the gazette number of {post.url}; not sent, to be safe")
         return True
     if mark:
-        if number <= mark:
+        # "gazette_behind" (2026-10-14): the site does not always list uploads in number order --
+        # 277123 came before 277118, the India-Mauritius tax protocol, which was then dropped as
+        # old with 16 others on Oct 13. A number this close below the mark is judged by its
+        # publication date instead, below; anything further back is old, as before.
+        if number <= mark - behind:
             print(f"  dropped a gazette uploaded before the last one read ({number} <= {mark}): {post.url}")
             return True
-        return False
+        if number > mark:
+            return False
+        print(f"  gazette {number} listed after {mark}: kept if published today or yesterday")
     match = _PUBLISHED.search(post.text)
     try:
         published = dt.datetime.strptime(match.group(1), "%d-%b-%Y").date()
@@ -1160,6 +1166,7 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
     stale = 0
     pib_mark = int(memory.get("pib_mark") or 0)
     gazette_mark = int(memory.get("gazette_mark") or 0)
+    gazette_behind = int(cfg.get("gazette_behind") or 0)
     for post in posts:
         if post.id in seen or post.id in ids:
             continue
@@ -1175,7 +1182,7 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
             settled.add(post.id)       # an old PIB release, by its number
             stale += 1
             continue
-        if post.handle.startswith("Gazette ") and old_gazette(post, gazette_mark):
+        if post.handle.startswith("Gazette ") and old_gazette(post, gazette_mark, gazette_behind):
             settled.add(post.id)       # not a new upload, by its number
             stale += 1
             continue
@@ -1254,7 +1261,7 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
 
     # The last word on age: a PIB release's own page says when it was
     # posted, and a gazette's listing when it was published.
-    old = {r[0].id for r in picks if sources.old_pib(r[0]) or old_gazette(r[0], gazette_mark)}
+    old = {r[0].id for r in picks if sources.old_pib(r[0]) or old_gazette(r[0], gazette_mark, gazette_behind)}
     picks = [r for r in picks if r[0].id not in old]
 
     # The website gets everything this desk judged, sent or not, with its score: who hears

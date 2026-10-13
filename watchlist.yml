@@ -820,6 +820,10 @@ national:
 
   pib: true         # every ministry, from pib.gov.in
   gazette: true     # every extraordinary gazette, from egazette.gov.in
+  # A gazette numbered up to this far below the newest one read is still new when it was
+  # published today or yesterday: the site lists uploads a little out of order (17 new ones,
+  # 1-16 numbers back, were dropped as old on Oct 13). 0 = the old rule. Added 2026-10-14.
+  gazette_behind: 60
   # CCI, CERT-In and DGFT -- the same documents the Tech Desk reads,
   # judged here by this desk's own rubric.
   regulators: [cci, certin, dgft, npci]
@@ -982,6 +986,7 @@ bureau:
 
   pib: true            # every ministry, from pib.gov.in
   gazette: true        # every extraordinary gazette, from egazette.gov.in
+  gazette_behind: 60   # out-of-order uploads: see the national desk's note (added 2026-10-14)
   earthquakes: false   # the Tweets desk handles earthquakes
 
   # For the website only (added 2026-10-11, the user's choice): these national-desk
