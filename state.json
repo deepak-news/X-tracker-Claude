@@ -1,63 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-07T00:32:11.531947+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Flipkart former founders write to Walmart board over cash out",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUnA4QWNIaVRmTTdpcUNheUNib3VDT05iTXBndE8xNnlCM1lrOEk2a1pZY253aTRvZGF6Sm5SOVNoWG1RcVRkMTV2SkJLZjdEcHREMFlDX0U3b3pyYm9RTkhzMjdSU0RsRndiTnRFeUdtTVZfNXY3Tk41NGlRSUwtS3g5dVk2ZEJ1c3FWbDZjUFFLUi1mRlJkWXh4ZHRMei1nYy1obTZNMEozSTVSTHU1alU4eUZrUTZMV0dYa0ZidjlCTkRXX3VGR0RYSUJDQndja0JXeWI5YVZEa2tEWmVmbWx2QVFvbEtMc2xaSHFtaG0tc2ZEWkNUektiLUlFUHZZUnpPLUJsa1BoQzJpSDNZTGRyNUVWbEZFQjFyRnhRQkNBbUXSAagCQVVfeXFMTkJfcnAwNVRBd1lFRF9Ba2NkOUlmdWQtSGZPQno2Tmwxd2djMjNkb0pnb1FjY0hzeHdmMFhrNmpzNkctYXl1V3V6NExQVTJ4NnJJM3hQX08td3JQZmtNQmhtSEZXYjhDYTRuX3QxUGJNT2VSV3lrY2I4UVh3SUZpWk9lNy1jWXVnTlh5YTVkTmtMZ2NSYWpxREczUmNKR2xGY2dBWDJMMWZhVkRqb1YybVc5Y05OT0xjZi03VWxuT0pwM2VMVnFzMlAtYmtuZmhQQnNJNmo0YU9sYjJ4YTlYb3dyVDFUZmVaQ25PWmtQb2N3a3dUMlJMZ1ZJY1pFV0JSSDlYZW1rd3ZCRlhnbkJBeUlJazlBb2xFS2FuQUhzcHdaOVJxX2Vaazk?oc=5",
-      "words": [
-        "board",
-        "cash",
-        "exclusive",
-        "fair",
-        "flipkart",
-        "former",
-        "full",
-        "out",
-        "seek",
-        "suites",
-        "treatment",
-        "walmart",
-        "write"
-      ]
-    },
-    {
-      "at": "2026-10-07T01:32:01.353708+00:00",
-      "handle": "News: India tech policy",
-      "headline": "MeitY mandates local sourcing for ISM 2.0 semiconductor subsidy",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1pyTUkwUTdxeXUzemRleVlENDVHbGMyeTNPUi1LWTVWUjhIeUN1V2tyTGs0MG4tTnVVVmtKU3dObVdJWG9kcWRwTGZvZ1RQb3dhM0w0QWdPMnV2MHNfYlRHV0diaG04anpjQUQxcUZVMlV0bFhjNEpjZmNJWEZPbmtoaW1BTE9od0t2QUtCNHJVajQteFhGYnRQQ0VNclU3ZUFISHJXSzhzTVhFaVp3cEFOSm1MYUxwbHBTTGdEdTZheExEOUxtVE1ENzI2RllCb1HSAdcBQVVfeXFMT0lDV0Y1M3hRUUlSeHVFUVEzckhYdkRsNkE5MnpXcXQtWGZHLXNIQnRvV2QtS2RlSlB6WUpQTU55UUZpN0JIekZZZmdYaHNWS2RNRzJiWV9EUktnZDA5Y0FrcjdFcGsxLUtiSk15S0lBcXJ2MzltenlHcnB6dFBJLWJpSEJFLXhVdV83QklGSUpkUi0zaUNVa3B2TTgxQ0xVaGJIRXRHM2hIM1hKakQyOFl3ekU1OUhPRHhiTDNHc3ZuUGhFejNSZXhOVnFZbXoyRHB3RVFpM0E?oc=5",
-      "words": [
-        "chip",
-        "companies",
-        "ism",
-        "local",
-        "meity",
-        "must",
-        "sourcing",
-        "subsidy",
-        "tells"
-      ]
-    },
-    {
-      "at": "2026-10-07T02:31:57.821680+00:00",
-      "handle": "News: Global AI",
-      "headline": "Sam Altman says OpenAI entering new era with math results",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNHhvVm1KN3k0U0ZMNWN3cExzX1VwTVhoUHhfMGxfaE9DcVlobjAyNjBwbTBadnhDa29CbUZJdE80WncwcG9ZWHdrZ1VRRlI3X3R6NjQ1UkxRcWxhNWYxVGVHVWdtdDhCY25scFZYa2laNHBPUUNhbDR0YzBXelVDc0c1ZWkyWGstUUNxYllXSWl5T0M1N0JaRDJNYU9Kb0gyand6NU0wSW1uaXlISDVaYW5QNmxOTF9jX296MDFJams5YXd2WWl1StIBzgFBVV95cUxOYmctVGg2eHk4SGVYTFJCUThZN2c2SDlPQXQ3aEFEMDdHU1hmZDFOTXBJRVBIMWdEZlJObExLVFNwNXVTV25Id3loV1p2UzJmeHVpR1ljZ2w2MlN6M2s3dWRQdFFHUnc0N1NUWXduUHkzYzhLREtkZURaQWlfWmpNMUF6X3phMFpGeTVSZ3kyaVhla05EREZLNm9YVmo0c0xXMWp1dXVFUEVTcVRHRGt4bnlFbF9QcTV2Y1cxc1c3VnczN1FDSUJvdU1uY2pyQQ?oc=5",
-      "words": [
-        "altman",
-        "discovery",
-        "entering",
-        "era",
-        "mathematics",
-        "openai",
-        "results",
-        "sam"
-      ]
-    },
-    {
       "at": "2026-10-07T02:31:57.821680+00:00",
       "handle": "News: India telecom",
       "headline": "Jio Platforms uses UBR for international broadband expansion",
@@ -7426,6 +7369,62 @@
         "raises",
         "school"
       ]
+    },
+    {
+      "at": "2026-10-13T10:31:18.263680+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Nandan Nilekani-backed F2A raises \u20b93,000 cr for AI and deeptech fund",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPODQtcERGRjd4NmdhTGxVWVFvN1ZVOWJQLW1YX3czb3lmSTNmUDZ5TjY1RDNGNVRqUDVacUtfTzZEQlJIbXlEVUlfd3BoUV9GWHd2dkVKRVhUWVE1TEtVWGoxR21INFV6SzRUbnRvREt1SGQ5WUFXUnEwZFBQQTZ6QS1sWHdzRm9XTHdSQkx6dFlHeG00OUFSazZ6YmVtaVhGZS1tb2ItejN5NXdqNnVyMVhWeWpVYzNybmx4OVA5a0FzQ0FVTmktakRENzhqYkN2UW5DbkZZUTA5THVrdFljWmhIWmpqWmdSYUU5SEtadDNGRldfQjZZ0gH-AUFVX3lxTE9QbTRVNER0UHZ1Mm90TlZiYWhXODNHSXdZWFFuSW9QRkJlNEZuR2xVSldLWGtxT2dLbWZxSllVbmZ5alBkUTRxRGdDY1B4X2NVXzdLMFowaHZlSzFrRkJUczhPNlc1MUJPNXYyeUs3eDlyWnpZTkFfWnU5RXRab01QZVk4TVBQWmZqX0dDOFI5aE1EUkZNLXd2OWpneUlRODgzeG02OEtiYkt4djdEd2FtdFJLdzkyZUI3U0JFT1c2UkhOSjAtRTdNUWhCWEpldkFwSExZWWw2alBGN1NRNm9EeTEyQ1NFdzNOWm1KaV85SGFRdVN3bXFsSTB2MVhR?oc=5",
+      "words": [
+        "000",
+        "500",
+        "backed",
+        "cap",
+        "deeptech",
+        "f2a",
+        "fund",
+        "hard",
+        "nandan",
+        "nilekani",
+        "raised",
+        "raises"
+      ]
+    },
+    {
+      "at": "2026-10-13T10:31:18.263680+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic invests $100 million to build new AI workforce tools",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWEhLN3pPbHlNdkdCTlRWTEMyeTJYN2NvOG1RRDdzdFlxZThXNWlDdExhVUNNM1NVZWlzLXB5RU14b19qeU5iWEtCcW9fdFZwZ1ZfZF8xMmg0YWM2UVloVzdnTTZqU0VlVUZsQWNSVUdSN2stNWkzeU9LMGRHSUZ5SUlneUNPRV9fcHV3OHVFUmdzRmVMSnBZR2FDbzBFRFl4U09EU2xEelRXUGRBWjRtanFEQ1UtUzZuaHVGRXZWMERhSjVDbVZXeFhyV3VfWWQ3RG80TVo1c9IB1wFBVV95cUxQWEhLN3pPbHlNdkdCTlRWTEMyeTJYN2NvOG1RRDdzdFlxZThXNWlDdExhVUNNM1NVZWlzLXB5RU14b19qeU5iWEtCcW9fdFZwZ1ZfZF8xMmg0YWM2UVloVzdnTTZqU0VlVUZsQWNSVUdSN2stNWkzeU9LMGRHSUZ5SUlneUNPRV9fcHV3OHVFUmdzRmVMSnBZR2FDbzBFRFl4U09EU2xEelRXUGRBWjRtanFEQ1UtUzZuaHVGRXZWMERhSjVDbVZXeFhyV3VfWWQ3RG80TVo1cw?oc=5",
+      "words": [
+        "100",
+        "anthropic",
+        "build",
+        "kind",
+        "million",
+        "spending",
+        "workforce"
+      ]
+    },
+    {
+      "at": "2026-10-13T10:31:18.263680+00:00",
+      "handle": "News: Global AI",
+      "headline": "Report reveals internal AI industry battles over independent reviews",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5",
+      "words": [
+        "behind",
+        "call",
+        "exclusive",
+        "fight",
+        "gets",
+        "independent",
+        "industry",
+        "made",
+        "public",
+        "reviews"
+      ]
     }
   ],
   "bureau": {
@@ -8985,9 +8984,51 @@
           "through",
           "trusts"
         ]
+      },
+      {
+        "at": "2026-10-13T10:36:05.585538+00:00",
+        "handle": "Gazette Ministry of Road Transport and Highways",
+        "headline": "Government declares new national highways through an official gazette notification",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277113.pdf",
+        "words": [
+          "deptt",
+          "extraordinary",
+          "gazette",
+          "highways",
+          "ministry",
+          "part",
+          "road",
+          "section",
+          "sub",
+          "transport"
+        ]
+      },
+      {
+        "at": "2026-10-13T10:36:05.585538+00:00",
+        "handle": "Gazette Ministry of Environment, Forest and Climate Change",
+        "headline": "Environment ministry amends final notification for Amchang Wildlife Sanctuary eco-sensitive zone",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277112.pdf",
+        "words": [
+          "amchang",
+          "amendment",
+          "around",
+          "assam",
+          "change",
+          "climate",
+          "environment",
+          "esz",
+          "extraordinary",
+          "final",
+          "forest",
+          "gazette",
+          "ministry",
+          "notification"
+        ]
       }
     ],
-    "gazette_mark": 277106,
+    "gazette_mark": 277117,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -9243,13 +9284,19 @@
       "CG-DL-E-13102026-277105",
       "CG-RJ-E-13102026-277102",
       "CG-RJ-E-13102026-277103",
-      "CG-RJ-E-13102026-277106"
+      "CG-RJ-E-13102026-277106",
+      "CG-DL-E-13102026-277112",
+      "CG-DL-E-13102026-277113",
+      "CG-DL-E-13102026-277114",
+      "CG-DL-E-13102026-277115",
+      "CG-DL-E-13102026-277116",
+      "CG-DL-E-13102026-277117"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-13T10:18:35.233641+00:00",
-    "pib_mark": 2322766,
+    "last_run": "2026-10-13T10:36:05.598108+00:00",
+    "pib_mark": 2322772,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -10005,6 +10052,7 @@
       "gazette:CG-DL-E-12102026-277070",
       "gazette:CG-RJ-E-12102026-277068",
       "gazette:CG-TL-E-12102026-277069",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63788",
       "gazette:CG-TL-E-12102026-277071",
       "gazette:CG-MH-E-12102026-277072",
       "gazette:CG-TL-E-12102026-277074",
@@ -10280,7 +10328,6 @@
       "page:https://internal.imd.gov.in/press_release/20261004_pr_5375.pdf",
       "mea:41869",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_dbf1be66-c31c-4fd1-af0a-4eb7b26aaf4d.pdf",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63788",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-offers-prayers-to-maa-brahmacharini-on-the-second-day-of-navratri",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-praying-to-maa-ambika-for-the-well-being-and-prosperity-of-all",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-homage-to-rajmata-vijayraje-scindia-ji",
@@ -10387,7 +10434,16 @@
       "gazette:CG-DL-E-13102026-277104",
       "gazette:CG-RJ-E-13102026-277102",
       "gazette:CG-RJ-E-13102026-277106",
-      "gazette:CG-DL-E-13102026-277105"
+      "gazette:CG-DL-E-13102026-277105",
+      "gazette:CG-DL-E-13102026-277115",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
+      "gazette:CG-DL-E-13102026-277113",
+      "gazette:CG-DL-E-13102026-277117",
+      "gazette:CG-DL-E-13102026-277116",
+      "pib:2322772",
+      "gazette:CG-DL-E-13102026-277114",
+      "gazette:CG-DL-E-13102026-277112",
+      "pib:2322767"
     ],
     "source_failures": {},
     "sources": [
@@ -10428,16 +10484,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791364154825",
-    "1791366937859",
-    "1791368350121",
-    "1791369473620",
-    "1791373906288",
-    "1791374400388",
-    "1791375180439",
-    "1791376800668",
-    "1791377249432",
-    "1791379478425",
     "1791380409157",
     "1791380457513",
     "1791381660232",
@@ -14749,9 +14795,6 @@
     "1791832506675",
     "1791871934029",
     "1791873015095",
-    "1791879146720",
-    "1791879180732",
-    "1791879343716",
     "1791879480912",
     "1791879840070",
     "1791879928571",
@@ -14770,7 +14813,6 @@
     "1791874248234",
     "1791874412870",
     "1791878234874",
-    "1791879257680",
     "1791879922816",
     "1791883487399",
     "1791799495678",
@@ -14787,12 +14829,9 @@
     "1791873105060",
     "1791875544296",
     "1791877550263",
-    "1791877920595",
-    "1791878192186",
     "1791878581598",
     "1791879146174",
     "1791879277355",
-    "1791879429182",
     "1791879480484",
     "1791881348159",
     "1791881640782",
@@ -14802,6 +14841,29 @@
     "1791885236501",
     "1791885356784",
     "1791885375030",
+    "1791800267393",
+    "1791800523867",
+    "1791818942465",
+    "1791822300856",
+    "1791829920940",
+    "1791829935046",
+    "1791855824400",
+    "1791860334804",
+    "1791866245209",
+    "1791867120736",
+    "1791876060528",
+    "1791876375394",
+    "1791876764788",
+    "1791877807409",
+    "1791877920641",
+    "1791879146714",
+    "1791879180345",
+    "1791879257564",
+    "1791879429987",
+    "1791881546002",
+    "1791882060552",
+    "1791884754587",
+    "1791885936880",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -16034,12 +16096,10 @@
     "1791795082551",
     "1791795601824",
     "1791795988530",
-    "1791800267393",
     "1791800303512",
     "1791800304651",
     "1791800426917",
     "1791800452549",
-    "1791800523867",
     "1791801168362",
     "1791801203385",
     "1791801319977",
@@ -16085,13 +16145,11 @@
     "1791818463784",
     "1791818893477",
     "1791818936821",
-    "1791818942465",
     "1791819471956",
     "1791820080079",
     "1791820898187",
     "1791820980487",
     "1791822200308",
-    "1791822300856",
     "1791823712104",
     "1791823980793",
     "1791824425857",
@@ -16103,8 +16161,6 @@
     "1791826380653",
     "1791827580572",
     "1791827669361",
-    "1791829920940",
-    "1791829935046",
     "1791832684579",
     "1791832810598",
     "1791833446110",
@@ -16129,7 +16185,6 @@
     "1791853200157",
     "1791855001621",
     "1791855043445",
-    "1791855824400",
     "1791856106967",
     "1791856401026",
     "1791857160048",
@@ -16147,7 +16202,6 @@
     "1791859921303",
     "1791860190847",
     "1791860240546",
-    "1791860334804",
     "1791860437626",
     "1791860739945",
     "1791861480807",
@@ -16186,11 +16240,9 @@
     "1791865766824",
     "1791866116816",
     "1791866216848",
-    "1791866245209",
     "1791866372994",
     "1791866794497",
     "1791866880370",
-    "1791867120736",
     "1791867156455",
     "1791867223133",
     "1791867537564",
@@ -16256,11 +16308,8 @@
     "1791875363468",
     "1791875538444",
     "1791875677401",
-    "1791876060528",
     "1791876343314",
-    "1791876375394",
     "1791876459223",
-    "1791876764788",
     "1791876908373",
     "1791876998973",
     "1791877469956",
@@ -16268,10 +16317,10 @@
     "1791877625680",
     "1791877694600",
     "1791877720295",
-    "1791877807409",
     "1791877809261",
-    "1791877920641",
+    "1791877920595",
     "1791877979693",
+    "1791878192186",
     "1791878219780",
     "1791878234770",
     "1791878322139",
@@ -16293,13 +16342,14 @@
     "1791879060915",
     "1791879097855",
     "1791879114930",
-    "1791879146714",
-    "1791879180345",
+    "1791879146720",
+    "1791879180732",
     "1791879190508",
-    "1791879257564",
+    "1791879257680",
     "1791879277583",
     "1791879280025",
-    "1791879429987",
+    "1791879343716",
+    "1791879429182",
     "1791879561367",
     "1791879682553",
     "1791879720541",
@@ -16322,20 +16372,20 @@
     "1791881109835",
     "1791881175773",
     "1791881280856",
-    "1791881546002",
+    "1791881348453",
     "1791881573538",
     "1791881663906",
     "1791881704443",
     "1791881730135",
     "1791882004058",
     "1791882024263",
-    "1791882060552",
     "1791882378798",
     "1791882551571",
     "1791882704178",
     "1791882720179",
     "1791882720345",
     "1791882780450",
+    "1791882900847",
     "1791882997466",
     "1791883355266",
     "1791883487638",
@@ -16347,7 +16397,7 @@
     "1791884520294",
     "1791884544154",
     "1791884729109",
-    "1791884754587",
+    "1791884754373",
     "1791884836301",
     "1791884915851",
     "1791884983598",
@@ -16360,8 +16410,14 @@
     "1791885552933",
     "1791885615082",
     "1791885636462",
+    "1791885659039",
     "1791885742088",
-    "1791885936880",
+    "1791885943931",
+    "1791886176348",
+    "1791886223880",
+    "1791886283241",
+    "1791886399382",
+    "1791886800660",
     "2317509",
     "2317615",
     "2317714",
@@ -16429,8 +16485,8 @@
     "2322743",
     "2322766"
   ],
-  "last_digest_hour": "2026-10-13T15",
-  "last_success": "2026-10-13T10:16:07.437559+00:00",
+  "last_digest_hour": "2026-10-13T16",
+  "last_success": "2026-10-13T10:31:18.338274+00:00",
   "national": {
     "alerted": [
       {
@@ -22143,9 +22199,28 @@
           "sciences",
           "support"
         ]
+      },
+      {
+        "at": "2026-10-13T10:33:48.502776+00:00",
+        "handle": "RBI",
+        "headline": "RBI conducts open market operation sale of government securities",
+        "tier": 1,
+        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
+        "words": [
+          "2026",
+          "auction",
+          "detailed",
+          "held",
+          "oct",
+          "omo",
+          "rbi",
+          "result",
+          "sale",
+          "settlement"
+        ]
       }
     ],
-    "gazette_mark": 277106,
+    "gazette_mark": 277117,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -23073,7 +23148,13 @@
       "CG-DL-E-13102026-277105",
       "CG-RJ-E-13102026-277102",
       "CG-RJ-E-13102026-277103",
-      "CG-RJ-E-13102026-277106"
+      "CG-RJ-E-13102026-277106",
+      "CG-DL-E-13102026-277112",
+      "CG-DL-E-13102026-277113",
+      "CG-DL-E-13102026-277114",
+      "CG-DL-E-13102026-277115",
+      "CG-DL-E-13102026-277116",
+      "CG-DL-E-13102026-277117"
     ],
     "health": {
       "down": {
@@ -23083,18 +23164,9 @@
       },
       "warned": "2026-10-12T20:32:07.666137+00:00"
     },
-    "last_run": "2026-10-13T10:17:38.247555+00:00",
-    "pib_mark": 2322766,
+    "last_run": "2026-10-13T10:33:48.503548+00:00",
+    "pib_mark": 2322772,
     "seen": [
-      "pib:2313321",
-      "pib:2313343",
-      "pib:2313349",
-      "pib:2313351",
-      "pib:2313358",
-      "pib:2313362",
-      "pib:2313359",
-      "pib:2313367",
-      "pib:2313375",
       "pib:2313376",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63643",
       "pib:2313381",
@@ -25641,6 +25713,7 @@
       "gazette:CG-DL-E-12102026-277070",
       "gazette:CG-RJ-E-12102026-277068",
       "gazette:CG-TL-E-12102026-277069",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63788",
       "gazette:CG-TL-E-12102026-277071",
       "gazette:CG-MH-E-12102026-277072",
       "gazette:CG-TL-E-12102026-277074",
@@ -25976,7 +26049,6 @@
       "mea:41869",
       "dgft-notification:f67e8803-e13d-4412-b876-de08538d437d",
       "dgft-public-notice:d7c80b33-7750-4e7e-a9e3-e5487f6a7df0",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63788",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-praying-to-maa-ambika-for-the-well-being-and-prosperity-of-all",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-homage-to-rajmata-vijayraje-scindia-ji",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-offers-prayers-to-maa-brahmacharini-on-the-second-day-of-navratri",
@@ -26085,7 +26157,16 @@
       "gazette:CG-RJ-E-13102026-277103",
       "gazette:CG-RJ-E-13102026-277106",
       "gazette:CG-DL-E-13102026-277104",
-      "gazette:CG-RJ-E-13102026-277102"
+      "gazette:CG-RJ-E-13102026-277102",
+      "gazette:CG-DL-E-13102026-277114",
+      "pib:2322772",
+      "gazette:CG-DL-E-13102026-277116",
+      "gazette:CG-DL-E-13102026-277112",
+      "pib:2322767",
+      "gazette:CG-DL-E-13102026-277115",
+      "gazette:CG-DL-E-13102026-277117",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
+      "gazette:CG-DL-E-13102026-277113"
     ],
     "source_failures": {
       "CBI": {
@@ -26138,62 +26219,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Nandan Nilekani-backed F2A raises \u20b93,000 cr for AI and deeptech fund",
-      "post": {
-        "created_at": "2026-10-13T09:26:24+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1791883584537",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "Nandan Nilekani-backed F2A raises \u20b93,000 cr for AI, deeptech fund; hard cap raised to \u20b93,500 cr",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPODQtcERGRjd4NmdhTGxVWVFvN1ZVOWJQLW1YX3czb3lmSTNmUDZ5TjY1RDNGNVRqUDVacUtfTzZEQlJIbXlEVUlfd3BoUV9GWHd2dkVKRVhUWVE1TEtVWGoxR21INFV6SzRUbnRvREt1SGQ5WUFXUnEwZFBQQTZ6QS1sWHdzRm9XTHdSQkx6dFlHeG00OUFSazZ6YmVtaVhGZS1tb2ItejN5NXdqNnVyMVhWeWpVYzNybmx4OVA5a0FzQ0FVTmktakRENzhqYkN2UW5DbkZZUTA5THVrdFljWmhIWmpqWmdSYUU5SEtadDNGRldfQjZZ0gH-AUFVX3lxTE9QbTRVNER0UHZ1Mm90TlZiYWhXODNHSXdZWFFuSW9QRkJlNEZuR2xVSldLWGtxT2dLbWZxSllVbmZ5alBkUTRxRGdDY1B4X2NVXzdLMFowaHZlSzFrRkJUczhPNlc1MUJPNXYyeUs3eDlyWnpZTkFfWnU5RXRab01QZVk4TVBQWmZqX0dDOFI5aE1EUkZNLXd2OWpneUlRODgzeG02OEtiYkt4djdEd2FtdFJLdzkyZUI3U0JFT1c2UkhOSjAtRTdNUWhCWEpldkFwSExZWWw2alBGN1NRNm9EeTEyQ1NFdzNOWm1KaV85SGFRdVN3bXFsSTB2MVhR?oc=5"
-      },
-      "queued_at": "2026-10-13T09:45:59.962049+00:00",
-      "score": 8.0,
-      "why": "Major funding round and large investment in domestic deeptech and AI venture capital."
-    },
-    {
-      "headline": "Anthropic invests $100 million to build new AI workforce tools",
-      "post": {
-        "created_at": "2026-10-13T10:02:22+00:00",
-        "handle": "News: Global AI",
-        "id": "1791885742088",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Anthropic is spending $100 million to build a new kind of AI workforce",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWEhLN3pPbHlNdkdCTlRWTEMyeTJYN2NvOG1RRDdzdFlxZThXNWlDdExhVUNNM1NVZWlzLXB5RU14b19qeU5iWEtCcW9fdFZwZ1ZfZF8xMmg0YWM2UVloVzdnTTZqU0VlVUZsQWNSVUdSN2stNWkzeU9LMGRHSUZ5SUlneUNPRV9fcHV3OHVFUmdzRmVMSnBZR2FDbzBFRFl4U09EU2xEelRXUGRBWjRtanFEQ1UtUzZuaHVGRXZWMERhSjVDbVZXeFhyV3VfWWQ3RG80TVo1c9IB1wFBVV95cUxQWEhLN3pPbHlNdkdCTlRWTEMyeTJYN2NvOG1RRDdzdFlxZThXNWlDdExhVUNNM1NVZWlzLXB5RU14b19qeU5iWEtCcW9fdFZwZ1ZfZF8xMmg0YWM2UVloVzdnTTZqU0VlVUZsQWNSVUdSN2stNWkzeU9LMGRHSUZ5SUlneUNPRV9fcHV3OHVFUmdzRmVMSnBZR2FDbzBFRFl4U09EU2xEelRXUGRBWjRtanFEQ1UtUzZuaHVGRXZWMERhSjVDbVZXeFhyV3VfWWQ3RG80TVo1cw?oc=5"
-      },
-      "queued_at": "2026-10-13T10:16:07.352312+00:00",
-      "score": 8.0,
-      "why": "Major capital commitment and strategic product move by a leading AI company."
-    },
-    {
-      "headline": "Report reveals internal AI industry battles over independent reviews",
-      "post": {
-        "created_at": "2026-10-13T10:05:36+00:00",
-        "handle": "News: Global AI",
-        "id": "1791885936880",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Reuters",
-        "reposts": 0,
-        "text": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5"
-      },
-      "queued_at": "2026-10-13T10:16:07.352312+00:00",
-      "score": 7.0,
-      "why": "Significant investigative disclosure regarding transparency policies among major AI labs."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -27277,21 +27303,21 @@
     "microsoft india": 1791873604613,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791885615082,
+    "news: big tech platforms": 1791886800660,
     "news: consumer internet india": 1791882378798,
-    "news: global ai": 1791885936880,
-    "news: global chips": 1791884836301,
+    "news: global ai": 1791886283241,
+    "news: global chips": 1791886800660,
     "news: global it services": 1791880007648,
     "news: india ai deeptech": 1791885552933,
     "news: india edtech gaming": 1791880663293,
     "news: india fintech": 1791885375030,
     "news: india semiconductors": 1791881102547,
-    "news: india tech policy": 1791876998973,
+    "news: india tech policy": 1791886399382,
     "news: india telecom": 1791885636462,
-    "news: indian it majors": 1791884915851,
+    "news: indian it majors": 1791885659039,
     "news: indian it midcaps": 1791882551571,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1791885248686,
+    "news: tech leaders": 1791886176348,
     "nvidia": 1791868380716,
     "nvidia blog": 1791867631456,
     "openai": 1791529200692,
@@ -27335,23 +27361,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-13T10:16:07.830813+00:00",
+    "last_server_run": "2026-10-13T10:31:18.591532+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-13T08:16:55.881759+00:00",
-        "hash": "ec3607de5eb87a94b3d8c2a981879fa86c02e571a8ab4a4f23011c74e35bfb95",
+        "checked": "2026-10-13T10:32:16.494080+00:00",
+        "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
-          "A",
-          "-",
-          "A",
-          "A",
-          "+",
-          "English",
-          "\u0939\u093f\u0928\u094d\u0926\u0940"
+          "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-13T08:16:48.500892+00:00",
+        "checked": "2026-10-13T10:32:07.150385+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -27427,7 +27447,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-13T08:16:52.394395+00:00",
+        "checked": "2026-10-13T10:32:12.546862+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -27482,10 +27502,10 @@
       "last": {
         "calendar": "2026-10-13T09:31:41.011891+00:00",
         "ls_reports": "2026-10-13T09:02:07.376161+00:00",
-        "rs_committee_press": "2026-10-13T08:16:42.654070+00:00",
-        "rs_press": "2026-10-13T08:16:39.526093+00:00",
-        "rs_reports": "2026-10-13T08:16:36.831670+00:00",
-        "rs_updates": "2026-10-13T08:16:44.389742+00:00"
+        "rs_committee_press": "2026-10-13T10:32:00.734745+00:00",
+        "rs_press": "2026-10-13T10:31:57.305784+00:00",
+        "rs_reports": "2026-10-13T10:31:54.242900+00:00",
+        "rs_updates": "2026-10-13T10:32:02.816696+00:00"
       }
     },
     "scanned": [
@@ -27815,6 +27835,12 @@
       "CG-DL-E-13102026-277100",
       "CG-DL-E-13102026-277104",
       "CG-DL-E-13102026-277105",
+      "CG-DL-E-13102026-277112",
+      "CG-DL-E-13102026-277113",
+      "CG-DL-E-13102026-277114",
+      "CG-DL-E-13102026-277115",
+      "CG-DL-E-13102026-277116",
+      "CG-DL-E-13102026-277117",
       "CG-DL-E-15092026-276194",
       "CG-DL-E-15092026-276195",
       "CG-DL-E-15092026-276196",
@@ -28698,7 +28724,8 @@
       "meeting:RS|2291",
       "page:https://www.enforcementdirectorate.gov.in/performance/performance-summary/|ec3607de5eb87a94",
       "meeting:LS|22561",
-      "meeting:LS|22560"
+      "meeting:LS|22560",
+      "page:https://www.enforcementdirectorate.gov.in/performance/performance-summary/|eac6b26a5cd6e9ac"
     ]
   }
 }
