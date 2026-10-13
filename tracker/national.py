@@ -376,10 +376,49 @@ MEA_STATEMENT = re.compile(r"^(?:Statement\b|.*\bOfficial Spokesperson\b)", re.I
 # endpoints and nothing else: /list?publication=N and /detail?pkid=N.
 _MEA_RELAY: dict = {}
 
+# MEA's travel advisories are a page of their own, not a publication list: ten
+# newest first, each "Issued on" a day, its text on its own page (added
+# 2026-10-13, with the rest of MEA's lists). An entry with "advisories: true".
+MEA_ADVISORIES = "https://www.mea.gov.in/FrontEnd/GetUserTravelAdvisoryListing"
+_ADVISORY_ROW = re.compile(r'<a href="(https://www\.mea\.gov\.in/advisories-details\?(\d+))"[^>]*>\s*(.*?)\s*</a>'
+                           r'.*?Issued on:\s*([^<]+?)\s*<', re.S)
+
+
+def _mea_when(day: str, now, today):
+    """The list gives a day, not a time: today's and yesterday's count as just
+    issued, older ones by their day (and so are never sent)."""
+    try:
+        issued = dt.datetime.strptime(day.replace(",", ""), "%d %B %Y").date()
+    except ValueError:
+        issued = today
+    return now if (today - issued).days <= 1 else dt.datetime(issued.year, issued.month, issued.day, tzinfo=IST)
+
+
+def _mea_advisories(entry: dict, relay: str) -> list:
+    if relay:
+        response = requests.get(f"{relay}/advisories", timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
+    else:
+        response = requests.get(MEA_ADVISORIES, params={"countryId": 0, "page": 1, "PLngId": 1},
+                                timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
+    response.raise_for_status()
+    rows = _ADVISORY_ROW.findall(response.text)
+    if not rows:
+        raise RuntimeError("no advisories in MEA's list (the page may have changed)")
+    now = dt.datetime.now(UTC)
+    today = now.astimezone(IST).date()
+    posts = []
+    for href, number, title, day in rows:
+        title = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", title)).split())
+        posts.append(_blank(id=f"mea-ta:{number}", handle=entry["name"], text=f"{entry['name']}: {title}",
+                            url=html.unescape(href), created_at=_mea_when(day, now, today).isoformat()))
+    return posts
+
 
 def _mea(entry: dict) -> list:
     relay = (entry.get("relay") or "").rstrip("/")
     _MEA_RELAY[entry["name"]] = relay
+    if entry.get("advisories"):
+        return _mea_advisories(entry, relay)
     if relay:
         response = requests.get(f"{relay}/list", params={"publication": entry["publication"]},
                                 timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
@@ -396,13 +435,7 @@ def _mea(entry: dict) -> list:
     posts = []
     for day, href, pkid, title in rows:
         title = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", title)).split())
-        try:
-            issued = dt.datetime.strptime(day.replace(",", ""), "%d %B %Y").date()
-        except ValueError:
-            issued = today
-        # The list gives a day, not a time: today's and yesterday's count as
-        # just issued, older ones by their day (and so are never sent).
-        when = now if (today - issued).days <= 1 else dt.datetime(issued.year, issued.month, issued.day, tzinfo=IST)
+        when = _mea_when(day, now, today)
         posts.append(_blank(id=f"mea:{pkid}", handle=entry["name"], text=f"{entry['name']}: {title}",
                             url="https://www.mea.gov.in" + html.unescape(href), created_at=when.isoformat()))
     return posts
@@ -413,16 +446,27 @@ def read_mea(posts: list) -> None:
     for post in posts:
         if not post.handle.startswith("MEA"):
             continue
-        pkid = post.id.split(":", 1)[1]
+        kind, pkid = post.id.split(":", 1)
         try:
             with sources.time_limit():
                 relay = _MEA_RELAY.get(post.handle, "")
-                response = requests.get(f"{relay}/detail" if relay else MEA_DETAIL,
-                                        params={"pkid": pkid} if relay else {"pkid": pkid, "languageId": 1},
-                                        timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
+                if kind == "mea-ta":              # a travel advisory: its own page
+                    response = requests.get(f"{relay}/advisory" if relay else post.url,
+                                            params={"id": pkid} if relay else None,
+                                            timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
+                else:
+                    response = requests.get(f"{relay}/detail" if relay else MEA_DETAIL,
+                                            params={"pkid": pkid} if relay else {"pkid": pkid, "languageId": 1},
+                                            timeout=sources.TIMEOUT, headers={"User-Agent": sources.UA})
                 response.raise_for_status()
-                body = re.sub(r"<script.*?</script>|<style.*?</style>", " ", response.text, flags=re.S)
+                page = response.text
+                if kind == "mea-ta":              # just the advisory, not the site's menus and footer
+                    start = page.find('class="advisory-content"')
+                    end = page.find("<footer", start)
+                    page = page[start:end if end > 0 else None] if start >= 0 else ""
+                body = re.sub(r"<script.*?</script>|<style.*?</style>", " ", page, flags=re.S)
                 body = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", body)).split())
+                body = re.sub(r'^class="advisory-content"> ?', "", body)
                 if body:
                     post.text = f"{post.text} TEXT: {body[:MAX_CHARS]}"
         except Exception as exc:                                  # noqa: BLE001

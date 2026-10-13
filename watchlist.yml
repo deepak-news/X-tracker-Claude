@@ -898,9 +898,18 @@ national:
   # are sent as they appear; everything else is judged. Remove to switch off.
   # MEA refuses GitHub's servers (403, 2026-10-11), so it is read through the
   # mea-relay Worker on Cloudflare, which MEA answers.
-  mea:
+  # every list MEA publishes (the rest added 2026-10-13); MEA's own numbers, from its page code
+  mea: &mea
     - {name: "MEA press releases", publication: 51, relay: "https://mea-relay.ptiinfographics.workers.dev"}
     - {name: "MEA statements", publication: 50, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+    - {name: "MEA responses to media queries", publication: 69, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+    - {name: "MEA media briefings", publication: 49, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+    - {name: "MEA media advisories", publication: 60, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+    - {name: "MEA documents", publication: 53, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+    - {name: "MEA interviews", publication: 52, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+    - {name: "MEA Lok Sabha answers", publication: 61, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+    - {name: "MEA Rajya Sabha answers", publication: 62, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+    - {name: "MEA travel advisories", advisories: true, relay: "https://mea-relay.ptiinfographics.workers.dev"}
 
 
 # ======================================================================
@@ -923,9 +932,7 @@ bureau:
   mea_threshold: 6     # MEA releases other than statements: the same bar as PIB
   # MEA refuses GitHub's servers (403, 2026-10-11), so it is read through the
   # mea-relay Worker on Cloudflare, which MEA answers.
-  mea:
-    - {name: "MEA press releases", publication: 51, relay: "https://mea-relay.ptiinfographics.workers.dev"}
-    - {name: "MEA statements", publication: 50, relay: "https://mea-relay.ptiinfographics.workers.dev"}
+  mea: *mea
 
   newsworthy: |
     Anything a wire agency's national bureau might report, from any

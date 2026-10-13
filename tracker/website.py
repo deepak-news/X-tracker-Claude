@@ -304,7 +304,13 @@ def gazette_issuer(name: str) -> str:
     return GAZETTE_ALIASES.get(name, name)
 
 
-MEA_LISTS = {"MEA press releases": "Press releases", "MEA statements": "Statements"}
+MEA_LISTS = {"MEA press releases": "Press releases", "MEA statements": "Statements",
+             # the rest of MEA's lists, added 2026-10-13
+             "MEA responses to media queries": "Responses to media queries",
+             "MEA media briefings": "Media briefings", "MEA media advisories": "Media advisories",
+             "MEA documents": "Bilateral and multilateral documents",
+             "MEA interviews": "Interviews and articles", "MEA travel advisories": "Travel advisories",
+             "MEA Lok Sabha answers": "Lok Sabha answers", "MEA Rajya Sabha answers": "Rajya Sabha answers"}
 CCI_LISTS = {"cci-order": "Antitrust orders", "cci-merger": "Mergers",
              "cci-pr:media-gallery": "Press releases", "cci-pr:antitrust": "Antitrust press releases"}
 
