@@ -406,9 +406,10 @@ sources:
   #            decisions, press releases
   #    certin  CERT-In security advisories
   #    dgft    DGFT notifications, public notices and trade notices
+  #    npci    NPCI press releases -- UPI, RuPay, FASTag (added 2026-10-13)
   #    The Tweets desk reads the same three and judges them by its own
   #    rubric (see "national:" below).
-  regulators: [cci, certin, dgft]
+  regulators: [cci, certin, dgft, npci]
 
   # 4. Google News - everything with no feed of its own, including
   #    unlisted startups, foreign private companies, and what people SAID.
@@ -821,7 +822,7 @@ national:
   gazette: true     # every extraordinary gazette, from egazette.gov.in
   # CCI, CERT-In and DGFT -- the same documents the Tech Desk reads,
   # judged here by this desk's own rubric.
-  regulators: [cci, certin, dgft]
+  regulators: [cci, certin, dgft, npci]
   # Sources this desk takes from the website and judges for its email, by their key there
   # (national.py, from_site). Whoever reads them -- the watch pages, the website-only step,
   # the office Mac -- this desk sees every new item. Chosen by the user 2026-10-12; remove a

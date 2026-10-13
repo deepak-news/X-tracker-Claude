@@ -1,10 +1,12 @@
-"""Three regulators whose documents appear before anyone writes about them.
+"""Four regulators whose documents appear before anyone writes about them.
 
     CCI       Competition Commission of India -- antitrust orders, merger
               filings and approvals, and its two lists of press releases
     CERT-In   the national cyber-security agency's advisories
     DGFT      Directorate General of Foreign Trade -- notifications (changes
               to import and export policy), public notices, trade notices
+    NPCI      National Payments Corporation of India -- press releases (UPI,
+              RuPay, FASTag; added 2026-10-13)
 
 About fifty items a month between the three, each the primary document
 itself. They are read by BOTH desks and judged by each desk's own AI
@@ -294,8 +296,66 @@ def dgft(session) -> list:
     return out
 
 
-READERS = {"cci": cci, "certin": certin, "dgft": dgft}
-NAMES = {"cci": "CCI", "certin": "CERT-In", "dgft": "DGFT"}
+# ----------------------------------------------------------------------
+#  NPCI -- National Payments Corporation of India (UPI, RuPay, FASTag).
+#  Its press-release page is an app that fills itself from NPCI's own
+#  data address, which answers a year's releases newest first, each with
+#  the moment it was put up and its PDF. Akamai refuses any client that is
+#  not a browser (403), so it is read with curl_cffi, as MCA is. Added
+#  2026-10-13 at the user's request, after the UPI MDR postponement.
+# ----------------------------------------------------------------------
+NPCI = "https://www.npci.org.in"
+NPCI_ROWS = 20
+
+
+def npci(session) -> list:
+    from curl_cffi import requests as browserlike                      # noqa: PLC0415
+    client = browserlike.Session(impersonate="chrome")
+    today = dt.datetime.now(IST).date()
+    years = [today.year] + ([today.year - 1] if today.month == 1 else [])
+    out = []
+    for year in years:
+        answer = None
+        for attempt in range(2):          # its first answer of a run is sometimes very slow
+            left = _deadline - time.monotonic()
+            if left < 5:
+                raise RuntimeError(f"gave up after {BUDGET_SECONDS}s; the site is slow, it is read again next run")
+            try:
+                answer = client.get(f"{NPCI}/api/press-release-details", timeout=min(TIMEOUT, left),
+                                    params={"year": year, "tabSlug": "press-releases"},
+                                    headers={"Accept": "application/json",
+                                             "Referer": f"{NPCI}/media/press-release"})
+                answer.raise_for_status()
+                break
+            except Exception:                                         # noqa: BLE001
+                if attempt:
+                    raise
+                time.sleep(RETRY_PAUSE)
+        results = (answer.json().get("data") or {}).get("results")
+        if not isinstance(results, list):
+            raise RuntimeError("the press releases did not read as they usually do")
+        for item in results[:NPCI_ROWS]:
+            title = _tidy(item.get("title"))
+            # the Hindi copy of a release already listed in English says nothing new
+            if not title or re.search(r"[-(]\s*Hindi\)?$", title, re.I):
+                continue
+            try:
+                when = dt.datetime.fromisoformat(str(item["createdAt"]).replace("Z", "+00:00")).astimezone(IST)
+            except (KeyError, ValueError):
+                continue
+            link = ((item.get("media") or {}).get("url") or "")
+            out.append({
+                "key": f"npci:{item['id']}",
+                "title": title,
+                "detail": f"put up {when.strftime('%b %-d, %Y, %-I:%M %p').replace('AM', 'am').replace('PM', 'pm')} IST",
+                "url": NPCI + link if link.startswith("/") else (link or f"{NPCI}/media/press-release"),
+                "date": when.date(),
+            })
+    return out
+
+
+READERS = {"cci": cci, "certin": certin, "dgft": dgft, "npci": npci}
+NAMES = {"cci": "CCI", "certin": "CERT-In", "dgft": "DGFT", "npci": "NPCI"}
 
 # What each row is, in words, for the AI and for the email.
 KINDS = {"cci-order": "CCI antitrust order",
@@ -304,7 +364,8 @@ KINDS = {"cci-order": "CCI antitrust order",
          "certin": "CERT-In security advisory",
          "dgft-notification": "DGFT notification (import/export policy)",
          "dgft-public-notice": "DGFT public notice",
-         "dgft-trade-notice": "DGFT trade notice"}
+         "dgft-trade-notice": "DGFT trade notice",
+         "npci": "NPCI (UPI, RuPay) press release"}
 
 
 def describe(row: dict) -> str:
@@ -316,7 +377,7 @@ def describe(row: dict) -> str:
 # DGFT puts its documents up within a day or two of the date on them, unlike CCI. A week is
 # plenty, and it kept the fortnight DGFT could not be read (until 2026-10-11) from arriving
 # as "new" when reading resumed.
-MAX_AGE_DAYS = {"dgft": 7}
+MAX_AGE_DAYS = {"dgft": 7, "npci": 7}
 
 
 def read(which: str, max_age_days: int = 30) -> list:

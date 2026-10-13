@@ -53,6 +53,9 @@ jobs:
           cache: pip
 
       - run: pip install -r requirements.txt
+      # NPCI and MCA refuse anything but a browser; curl_cffi connects the way Chrome does.
+      # Installed on its own line, so a problem installing it skips only those two.
+      - run: pip install --quiet "curl_cffi>=0.7" || echo "curl_cffi did not install; NPCI and MCA are skipped this run"
 
       - name: Check the news sources and send any alerts
         # A hang here (a slow source, an AI request that never returns)

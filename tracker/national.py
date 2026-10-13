@@ -920,6 +920,7 @@ BADGES = (
     ("CCI", "#1e40af", "CCI"),
     ("CERT-In", "#b91c1c", "CERT-IN"),
     ("DGFT", "#047857", "DGFT"),
+    ("NPCI", "#065f46", "NPCI"),
     ("MEA", "#0f766e", "MEA"),
 )
 

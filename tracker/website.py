@@ -357,6 +357,8 @@ def _title(post, source: str, sub: str) -> str:
             break
     if source == "Gazette":
         text = re.sub(r"^Gazette of India \(Extraordinary\), [^:]+: ", "", text)
+    if source == "NPCI":                  # the AI's "what it is" and "put up" time are not the title
+        text = re.sub(r"\. put up [^.]*$", "", re.sub(r"^NPCI \(UPI, RuPay\) press release: ", "", text))
     return text
 
 
