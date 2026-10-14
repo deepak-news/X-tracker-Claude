@@ -34,7 +34,7 @@ import yaml
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
-from . import email_out, judge, parallel, regulators, score_log, source_health, sources, watch, website, xfeed
+from . import email_out, judge, parallel, regulators, score_log, source_health, sources, watch, website
 from .main import dead_models, record_dead_models
 from .sources import Post
 
@@ -87,12 +87,6 @@ PIB_MINISTRIES: list = []
 
 def _blank(**fields) -> Post:
     return Post(likes=0, reposts=0, is_reply=False, is_repost=False, **fields)
-
-
-def _tagged(post: Post) -> Post:
-    """An X post under this desk's own identifier scheme, labelled by its account."""
-    post.id, post.handle = f"x:{post.id}", f"{post.origin} on X"
-    return post
 
 
 def _pib_rows(soup: BeautifulSoup) -> list:
@@ -703,9 +697,6 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None, report: list | 
         readers.append((entry["name"], lambda entry=entry: _page(entry)))
     for entry in cfg.get("mea") or []:
         readers.append((entry["name"], lambda entry=entry: _mea(entry)))
-    # Official accounts' own posts on X, by way of the Google Sheet (xfeed.py).
-    if cfg.get("x_accounts") and xfeed.enabled():
-        readers.append(("X (bell feed)", lambda: [_tagged(p) for p in xfeed.posts(cfg["x_accounts"])]))
     _SITE_ITEMS.clear()
     for key in cfg.get("from_site") or []:
         readers.append((FROM_SITE + key.split("|", 1)[-1], lambda key=key: _from_site(cfg, key)))
@@ -931,7 +922,6 @@ BADGES = (
     ("DGFT", "#047857", "DGFT"),
     ("NPCI", "#065f46", "NPCI"),
     ("MEA", "#0f766e", "MEA"),
-    ("@", "#111827", "X POST"),        # an official account's own post (xfeed.py)
 )
 
 

@@ -21,9 +21,12 @@ X refuses GitHub's servers but answers Google's. So a small script inside a
 Google Sheet (`apps-script/x_feed.gs`) reads the burner account's
 bell-notification feed every five minutes and keeps the posts, and the
 tracker asks the sheet for them on each run (`tracker/xfeed.py`). Only
-accounts the burner follows with the bell on appear. The Tech Desk takes the
-`accounts:` list; the Tweets desk takes `national: x_accounts:`. The sheet's
-web address is the `X_FEED_URL` secret. When X logs the burner out, copy
+accounts @DeepakatPTI follows with the bell on appear.
+
+On trial: `tracker/xdesk.py` judges them (the `accounts:` list by the Tech
+Desk's bar, `x_test: official:` by the Tweets desk's) and emails the result
+to `X_TEST_MAIL_TO` only -- not to either desk. Secrets: `X_FEED_URL` (the
+sheet's web address) and `X_TEST_MAIL_TO`. When X logs the account out, copy
 fresh `auth_token` and `ct0` into the sheet's Script properties.
 
 ## Where the news comes from

@@ -69,7 +69,6 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
           ADMIN_MAIL_TO: ${{ secrets.ADMIN_MAIL_TO }}
-          X_FEED_URL: ${{ secrets.X_FEED_URL }}   # the Google Sheet that reads X (tracker/xfeed.py)
         run: |
           case "${{ inputs.mode }}" in
             test-email) python -m tracker.main --test-email ;;
@@ -114,13 +113,32 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           SOCIAL_MAIL_TO: ${{ secrets.SOCIAL_MAIL_TO }}
-          X_FEED_URL: ${{ secrets.X_FEED_URL }}
         run: |
           case "${{ inputs.mode }}" in
             test-email) python -m tracker.national --test-email ;;
             dry-run)    python -m tracker.national --dry-run ;;
             *)          python -m tracker.national ;;
           esac
+
+      # X alerts on trial (tracker/xdesk.py): posts from the Google Sheet that
+      # reads X, judged and emailed to X_TEST_MAIL_TO only. Its own step, so it
+      # cannot touch the others. Does nothing until X_FEED_URL and
+      # X_TEST_MAIL_TO both exist.
+      - name: Check X posts (trial, to Deepak only)
+        if: always() && inputs.mode != 'test-email'
+        timeout-minutes: 6
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          X_FEED_URL: ${{ secrets.X_FEED_URL }}
+          X_TEST_MAIL_TO: ${{ secrets.X_TEST_MAIL_TO }}
+        run: |
+          if [ "${{ inputs.mode }}" = "dry-run" ]; then
+            python -m tracker.xdesk --dry-run
+          else
+            python -m tracker.xdesk
+          fi
 
       # The fourth: every extraordinary gazette and every PIB release, from
       # every ministry, for the national bureau head -- screened with a low

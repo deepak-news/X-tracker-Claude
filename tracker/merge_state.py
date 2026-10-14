@@ -129,12 +129,12 @@ def merge_national(ours: dict, theirs: dict) -> dict:
 def merge(ours: dict, theirs: dict) -> dict:
     merged = dict(theirs)
     merged.update({k: v for k, v in ours.items()
-                   if k not in ("seen", "alerted", "dead_models", "watch", "national", "bureau",
+                   if k not in ("seen", "alerted", "dead_models", "watch", "national", "bureau", "x_test",
                                 "news_queue", "last_digest_hour",
                                 "page_links")})
 
-    # The national bureau's desk keeps the same kind of memory.
-    for desk in ("national", "bureau"):
+    # The national bureau's desk, and the X trial (xdesk.py), keep the same kind of memory.
+    for desk in ("national", "bureau", "x_test"):
         if ours.get(desk) or theirs.get(desk):
             merged[desk] = merge_national(ours.get(desk) or {}, theirs.get(desk) or {})
 

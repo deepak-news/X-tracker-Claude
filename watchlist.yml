@@ -153,10 +153,7 @@ priority: []
 
 # ============================================================
 #  ACCOUNTS
-#  Read again from 2026-10-14, through the Google Sheet (apps-script/x_feed.gs).
-#  The burner (@deepeywho) must FOLLOW each one AND switch its bell on --
-#  only belled accounts reach the sheet. Add about 10 a day, no faster, or X
-#  limits the burner. An account listed here but not belled is simply silent.
+#  The burner account must FOLLOW every one of these.
 # ============================================================
 accounts:
   # --- Global tech CEOs ---
@@ -278,6 +275,35 @@ accounts:
   - GoI_MeitY           # Ministry of Electronics & IT
   - letsblinkit         # Blinkit
   - _groww              # Groww
+
+# ----------------------------------------------------------------------
+#  X ALERTS, ON TRIAL (tracker/xdesk.py, from 2026-10-14)
+#  X posts read through the Google Sheet (apps-script/x_feed.gs), emailed to
+#  X_TEST_MAIL_TO only -- never to the desks -- until Deepak says it works.
+#  The "accounts:" list above is judged as the Tech Desk would; "official"
+#  below as the Tweets desk would. @DeepakatPTI must follow each account
+#  with the bell on, or its posts never reach the sheet.
+# ----------------------------------------------------------------------
+x_test:
+  official:
+    - PMOIndia
+    - narendramodi
+    - PIB_India
+    - PIBFactCheck
+    - MEAIndia
+    - DrSJaishankar
+    - SpokespersonMoD
+    - FinMinIndia
+    - NITIAayog
+    - MIB_India
+    - IndiaDST
+    - JM_Scindia
+    - LokSabhaSectt
+    - loksabhaspeaker
+    - mygovindia
+    - MyGovHindi
+    - transformIndia
+    - DelhiPolice
 
 # ----------------------------------------------------------------------
 #  WHERE THE NEWS COMES FROM
@@ -873,29 +899,6 @@ national:
     # 6 there), never emailed. Added 2026-10-11; remove the line to stop. With India's
     # figure above at 3.5 too, every India quake from 3.5 is emailed and none is site-only.
     site_india_min_magnitude: 3.5
-
-  # Official accounts' own posts on X, through the Google Sheet (apps-script/x_feed.gs).
-  # The burner (@deepeywho) must follow each with the bell on. Reposts and
-  # replies are ignored. Added 2026-10-14 from the accounts already belled.
-  x_accounts:
-    - PMOIndia
-    - narendramodi
-    - PIB_India
-    - PIBFactCheck
-    - MEAIndia
-    - DrSJaishankar
-    - SpokespersonMoD
-    - FinMinIndia
-    - NITIAayog
-    - MIB_India
-    - IndiaDST
-    - JM_Scindia
-    - LokSabhaSectt
-    - loksabhaspeaker
-    - mygovindia
-    - MyGovHindi
-    - transformIndia
-    - DelhiPolice
 
   # Any other official site that publishes an RSS feed can be added here.
   feeds:

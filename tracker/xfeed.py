@@ -1,14 +1,11 @@
 """Posts from X, by way of a Google Sheet.
 
 X refuses GitHub's servers but answers Google's (tested 14 Oct 2026). So a
-small script inside a Google Sheet (apps-script/x_feed.gs) reads the burner
-account's bell-notification feed every five minutes and keeps what it finds,
-and this asks it for the recent posts. Only accounts the burner follows with
-the bell on ever appear.
-
-Each desk takes the accounts it lists: the Tech Desk the "accounts:" list in
-watchlist.yml, the Tweets desk "national: x_accounts:". Reposts and replies
-to other people are dropped here; the account's own post is what counts.
+small script inside a Google Sheet (apps-script/x_feed.gs) reads
+@DeepakatPTI's bell-notification feed every five minutes and keeps what it
+finds, and this asks it for the recent posts. Only accounts followed with
+the bell on ever appear. Reposts and replies to other people are dropped
+here; the account's own post is what counts. Used by xdesk.py.
 
 The sheet's address is the X_FEED_URL secret. Without it, nothing is read.
 """
@@ -21,7 +18,7 @@ import requests
 from . import sources
 
 # The sheet reads X every five minutes. Longer than this without a good read
-# and X has stopped answering -- nearly always the burner's login expiring.
+# and X has stopped answering -- nearly always the login expiring.
 STALE_MINUTES = 30
 HOURS = 12
 
@@ -47,7 +44,7 @@ def _feed() -> list:
     if behind is None or behind > dt.timedelta(minutes=STALE_MINUTES):
         raise RuntimeError(
             f"the Google Sheet has not read X since {last_ok[:16] or 'it was set up'} "
-            f"({data.get('error') or 'no reason given'}). Usually the @deepeywho login has "
+            f"({data.get('error') or 'no reason given'}). Usually the @DeepakatPTI login has "
             "expired: copy fresh auth_token and ct0 into the sheet's Script properties.")
     return data.get("posts") or []
 

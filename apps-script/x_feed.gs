@@ -2,7 +2,7 @@
 //
 // X refuses GitHub's servers but answers Google's (tested 14 Oct 2026), so
 // this does the one job GitHub cannot: every five minutes it reads the
-// bell-notification feed of the burner account (@deepeywho) and adds any new
+// bell-notification feed of @DeepakatPTI and adds any new
 // post to the "X feed" tab. The tracker on GitHub asks for the recent ones
 // on every run (doGet below) and judges them like any other source
 // (tracker/xfeed.py). Only accounts the burner follows WITH THE BELL ON
@@ -10,7 +10,7 @@
 //
 // The login codes are kept in Project Settings > Script properties, never
 // in the sheet: AUTH_TOKEN and CT0, copied from x.com's cookies while
-// logged in as @deepeywho. When X logs the burner out, refresh those two.
+// logged in as @DeepakatPTI. When X logs it out, refresh those two.
 //
 // First time: run setup() once. It makes the tab, starts the five-minute
 // timer and does a first read.
@@ -95,7 +95,7 @@ function readFeed_(props) {
   const code = res.getResponseCode();
   if (code !== 200) {
     throw new Error('X replied ' + code + (code === 401 || code === 403
-      ? ' -- the @deepeywho login has probably expired; refresh AUTH_TOKEN and CT0'
+      ? ' -- the @DeepakatPTI login has probably expired; refresh AUTH_TOKEN and CT0'
       : '') + ': ' + res.getContentText().slice(0, 150));
   }
   const data = JSON.parse(res.getContentText()).globalObjects || {};

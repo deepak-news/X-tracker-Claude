@@ -32,7 +32,7 @@ import requests
 from pypdf import PdfReader
 from bs4 import BeautifulSoup
 
-from . import krutidev, parallel, regulators, xfeed
+from . import krutidev, parallel, regulators
 
 
 @dataclass
@@ -157,8 +157,6 @@ def describe(post) -> tuple[str, str]:
         name = post.origin          # the outlet that actually ran it
     if post.handle.lower().startswith("reg "):
         return "REGULATOR", name    # CCI, CERT-In, DGFT -- not PIB
-    if post.handle == "X":
-        return "X POST", post.origin  # the account itself (xfeed.py)
     return KIND_NAMES[level], name
 
 
@@ -755,8 +753,6 @@ def labels(cfg: dict) -> list[str]:
     names += [f"PIB {m['name']}" for m in (sources.get("pib") or [])]
     names += [p["name"] for p in (sources.get("pages") or [])]
     names += [f"REG {regulators.NAMES[r]}" for r in (sources.get("regulators") or [])]
-    if cfg.get("accounts") and xfeed.enabled():
-        names.append("X")
     return names
 
 
@@ -809,13 +805,6 @@ def collect(cfg: dict, page_memory: dict | None = None):
         label = f"News: {topic['name']}"
         jobs.append((label, lambda topic=topic, label=label: _google_news(topic["q"], label, outlets),
                      lambda n, label=label: f"  {label}: {n} items", label))
-
-    # X posts from the "accounts:" list, by way of the Google Sheet (xfeed.py).
-    # All of them sit under the one label "X", so a newly belled account's
-    # first post is not swallowed as "a source never read before".
-    if cfg.get("accounts") and xfeed.enabled():
-        jobs.append(("X", lambda: xfeed.posts(cfg["accounts"]),
-                     lambda n: f"  X (bell feed): {n} posts from watched accounts", "X"))
 
     results = parallel.run([(name, read) for name, read, _, _ in jobs])
     for (name, _, line, fail_as), (_, found, exc) in zip(jobs, results):
