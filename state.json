@@ -1,37 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-07T15:32:19.660093+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Swish pilots Swish Go to compete with Swiggy and Zomato",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVpuZnd3akJlYkpYeFdHamd0U0FYbGJFRjZmWmtwbnJyOXhwTXowc0FDcWpPcGhlMkxuX1VmUlowZnhmY1ZkNDVUZzhFbWt0el9tNXJ3U2MzTDlnOWQwYjdWY0Jqa0VIMl9mblloR292M1FLdUhqWGhvQ1JWWDVYUDBQa2NiWWs?oc=5",
-      "words": [
-        "exclusive",
-        "pilots",
-        "swiggy",
-        "swish",
-        "take",
-        "zomato"
-      ]
-    },
-    {
-      "at": "2026-10-07T16:32:25.207233+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI mathematical findings release draws expert concerns",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjVNeDR2NUxVRFo4bkJ0U2J6SFFJNEcwTklDck9DVkJTS0J3OFVsdUtuMTdKVTdJZFNtWGxkQURwY1BSamJNZGduanB1N3d5ZFJqbkFFM1UxS3NSVndpMlFrVjQ3eG5VNUIwUS1kc2FIazh0TjlXcm5sbk9GT0UyUzNsYm0wTVFCNzdDQmtmR0s5UQ?oc=5",
-      "words": [
-        "concerns",
-        "draws",
-        "experts",
-        "findings",
-        "mathematical",
-        "openai",
-        "release"
-      ]
-    },
-    {
       "at": "2026-10-07T16:32:25.207233+00:00",
       "handle": "News: Big tech platforms",
       "headline": "Musk alleges monopolistic chokehold blocks Starlink in India",
@@ -7457,6 +7426,43 @@
         "models",
         "protect"
       ]
+    },
+    {
+      "at": "2026-10-14T03:33:19.899337+00:00",
+      "handle": "News: Global AI",
+      "headline": "Apple gains access to OpenAI interview records in trade secrets lawsuit",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTlwVzlBM0I4dzQ4TzZ5M3pTM3Q2MU1ObUVxRnFUaTJKM0xTd1pDR1ZURjBYbVRQOG1IZHNEQk5mWC1fQkFUcWVVeU9lTnBWTjViMC1KYnJ5QVBhbUxaZUlOMGtPYUx6bm1hVUFKOXBoLVZERE1sOVcxamRSV0dTaVFZMlQ1R1NUbVZNOTVxU3lSY3MxdlM2QmM5WWtYcEdqRHBUNl93OFM0eVdTdWp5Wmh4YldFSXRsQTBYWDI0Y0dnU1Qx0gHKAUFVX3lxTFBTRHkySThRc3FlaUxENWJrT29DcTVpdVFSWE85dnA3Q2swcndGRUxyRmM4b0JWLTFzaGxZbTFYaThUc1FvY0ZmU0lteVBkSHZqMmsySnMwT1BfYWFTWGU3R0REOGNLbzZnQmg2OWxRU3IwMGZzZi13RDhUQmxrekVDV0ZJM0NoY0tUalZRQkR2Mi01Q0FQMGxXbHgxVHFVaWxDVUtDcDJXd0JTSHNQSU4tSXZnMVc5SmpFSzRnelE0UEdmc3MyYVVZcUE?oc=5",
+      "words": [
+        "access",
+        "alleged",
+        "apple",
+        "case",
+        "gets",
+        "interview",
+        "openai",
+        "records",
+        "secrets",
+        "theft",
+        "trade"
+      ]
+    },
+    {
+      "at": "2026-10-14T03:33:19.899337+00:00",
+      "handle": "News: Global chips",
+      "headline": "KYEC signs advanced payment deal with Nvidia",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnQ3T05VYzRpay1nT0psUFRFNjJGZ09TbDBKZlJWcElUNE1ueUt0bWFGc2xMSFEzS21PVHdrYXdiSTM2aXVkb0MzdkVINDdZSEhndDdlcGVfcXJBWlBRaldEMkRmV1I3V19XMEl2OE1VWE5IRzg2REFtbnhTVjZDNnVhNjNWaXhkWDRBeXhEd3RsazFYTHU0bUdR?oc=5",
+      "words": [
+        "advanced",
+        "deal",
+        "expansion",
+        "kyec",
+        "nvidia",
+        "payment",
+        "signs",
+        "testing"
+      ]
     }
   ],
   "bureau": {
@@ -9583,7 +9589,7 @@
         "CCI": "2026-10-13T18:46:49.673792+00:00"
       }
     },
-    "last_run": "2026-10-14T03:18:48.230904+00:00",
+    "last_run": "2026-10-14T03:34:15.143416+00:00",
     "pib_mark": 2323025,
     "seen": [
       "pib:2320137",
@@ -10541,6 +10547,7 @@
       "watch:bulletin:RS|2026-10-13|Bulletin Part-II",
       "watch:bulletin:LS|2026-10-13|Bulletin-II",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/serv_07oct26_512_e.htm",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63791",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%AA%E0%A5%88%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%80%E0%A4%9F%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%8B+%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95+%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%A3%E0%A4%BE%E0%A4%AE%E0%A5%8B%E0%A4%82+%E0%A4%94%E0%A4%B0+%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BF%E0%A4%A4%E0%A4%BE+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%BE%E0%A4%A5+%E0%A4%B8%E0%A5%81%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE+_+Aligning+Performance+Parameters+with+Customer+Outcomes+and+Transparency.pdf/fec879d9-95d5-568f-5f7a-dae8c6cfc29f",
@@ -10570,7 +10577,6 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13734&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13737&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13730&Mode=0",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63791",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63792",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63793",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0",
@@ -10992,7 +10998,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168587",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168585",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168588",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168586"
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168586",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63801"
     ],
     "source_failures": {
       "CCI": {
@@ -11047,8 +11054,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791445443720",
-    "1791362714277",
     "1791384235717",
     "1791417782850",
     "1791431662182",
@@ -15074,7 +15079,6 @@
     "1791820898187",
     "1791853620489",
     "1791878580329",
-    "1791881109835",
     "1791883950974",
     "1791884580435",
     "1791887771868",
@@ -15353,7 +15357,6 @@
     "1791908692341",
     "1791936075108",
     "1791880380968",
-    "1791898154414",
     "1791911092796",
     "1791917220788",
     "1791922158803",
@@ -15443,14 +15446,11 @@
     "1790949717802",
     "1790949717882",
     "1791151314860",
-    "1791182930422",
     "1791859767355",
     "1791867956075",
     "1791879917706",
     "1791880511980",
-    "1791881663906",
     "1791884754373",
-    "1791910052423",
     "1791922560139",
     "1791935557651",
     "1791941244575",
@@ -15458,18 +15458,29 @@
     "1791941401573",
     "1791945008209",
     "1791945600120",
-    "1791280117943",
     "1791860739945",
     "1791861000087",
     "1791871807399",
     "1791879146975",
     "1791884544154",
-    "1791889807241",
-    "1791891632748",
     "1791922531999",
-    "1791925080904",
     "1791925493193",
     "1791937575589",
+    "1791862260120",
+    "1791878995467",
+    "1791886189142",
+    "1791889807529",
+    "1791892140774",
+    "1791893427231",
+    "1791893480595",
+    "1791923400134",
+    "1791924325091",
+    "1791926760579",
+    "1791941400539",
+    "1791942023006",
+    "1791942770842",
+    "1791942829973",
+    "1791943055548",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -16515,6 +16526,7 @@
     "1791172424692",
     "1791177322592",
     "1791180147246",
+    "1791182930422",
     "1791183711776",
     "1791194400000",
     "1791196301343",
@@ -16528,6 +16540,7 @@
     "1791277321282",
     "1791277526239",
     "1791279576052",
+    "1791280117943",
     "1791280800783",
     "1791283738110",
     "1791286740039",
@@ -16664,7 +16677,6 @@
     "1791849600102",
     "1791849600177",
     "1791849600884",
-    "1791862260120",
     "1791862697001",
     "1791863369729",
     "1791863703259",
@@ -16720,7 +16732,6 @@
     "1791878428279",
     "1791878535987",
     "1791878581598",
-    "1791878995467",
     "1791879060915",
     "1791879114930",
     "1791879180906",
@@ -16736,9 +16747,11 @@
     "1791880845574",
     "1791880980792",
     "1791881096003",
+    "1791881109835",
     "1791881175773",
     "1791881317973",
     "1791881348453",
+    "1791881663906",
     "1791881704443",
     "1791881730135",
     "1791881947611",
@@ -16766,7 +16779,6 @@
     "1791885659746",
     "1791885894031",
     "1791886176348",
-    "1791886189142",
     "1791886498666",
     "1791886742775",
     "1791886977242",
@@ -16779,7 +16791,7 @@
     "1791889576961",
     "1791889613225",
     "1791889653812",
-    "1791889807529",
+    "1791889807241",
     "1791889853423",
     "1791889999985",
     "1791890068495",
@@ -16796,7 +16808,7 @@
     "1791891203813",
     "1791891595569",
     "1791891623931",
-    "1791892140774",
+    "1791891632748",
     "1791892280957",
     "1791892310346",
     "1791892800696",
@@ -16804,8 +16816,6 @@
     "1791892857008",
     "1791893171299",
     "1791893341899",
-    "1791893427231",
-    "1791893480595",
     "1791893520408",
     "1791893572833",
     "1791893700409",
@@ -16831,6 +16841,7 @@
     "1791897293995",
     "1791897700988",
     "1791897818262",
+    "1791898154414",
     "1791898200810",
     "1791898453511",
     "1791898911857",
@@ -16878,6 +16889,7 @@
     "1791908700564",
     "1791908728635",
     "1791909998623",
+    "1791910052423",
     "1791910800323",
     "1791910800422",
     "1791910800514",
@@ -16905,19 +16917,17 @@
     "1791922077761",
     "1791922500192",
     "1791923100627",
-    "1791923400134",
     "1791923880993",
     "1791923890032",
-    "1791924325091",
     "1791924360862",
     "1791924898840",
     "1791924912355",
     "1791924960209",
+    "1791925080904",
     "1791925151490",
     "1791925200485",
     "1791926546729",
     "1791926741258",
-    "1791926760579",
     "1791927720374",
     "1791928246931",
     "1791928440238",
@@ -16948,15 +16958,11 @@
     "1791940731483",
     "1791941244580",
     "1791941258749",
-    "1791941400539",
     "1791941475534",
     "1791941602456",
-    "1791942023006",
     "1791942731353",
     "1791942736816",
-    "1791942770842",
-    "1791942829973",
-    "1791943055548",
+    "1791942770507",
     "1791943071286",
     "1791943081826",
     "1791943110995",
@@ -16979,6 +16985,7 @@
     "1791946456816",
     "1791947124958",
     "1791947308194",
+    "1791948455548",
     "1791964800979",
     "2317509",
     "2317615",
@@ -17048,8 +17055,8 @@
     "2322766",
     "2322833"
   ],
-  "last_digest_hour": "2026-10-14T08",
-  "last_success": "2026-10-14T03:17:58.580552+00:00",
+  "last_digest_hour": "2026-10-14T09",
+  "last_success": "2026-10-14T03:33:19.986197+00:00",
   "national": {
     "alerted": [
       {
@@ -23864,10 +23871,9 @@
       },
       "warned": "2026-10-13T20:34:09.346463+00:00"
     },
-    "last_run": "2026-10-14T03:18:39.009801+00:00",
+    "last_run": "2026-10-14T03:34:02.143891+00:00",
     "pib_mark": 2323025,
     "seen": [
-      "pib:2314488",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/order-in-the-matter-of-certain-research-analysts_104713.html",
       "pib:2314481",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-september-24-2026-issued-under-rc-no-9201-of-2026-drawn-against-dhaval-vinodbhai-gadani-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-tech-_104690.html",
@@ -26353,6 +26359,7 @@
       "watch:bulletin:RS|2026-10-13|Bulletin Part-II",
       "quake:usgs:us6000u214",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/serv_07oct26_512_e.htm",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63791",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -26383,7 +26390,6 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13736&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13737&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63791",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63792",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63793",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0",
@@ -26866,7 +26872,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168587",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168585",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168586",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168588"
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168588",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63801"
     ],
     "source_failures": {
       "CBI": {
@@ -26933,44 +26940,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Apple gains access to OpenAI interview records in trade secrets lawsuit",
-      "post": {
-        "created_at": "2026-10-14T02:34:44+00:00",
-        "handle": "News: Global AI",
-        "id": "1791945284243",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Firstpost",
-        "reposts": 0,
-        "text": "Apple gets access to OpenAI interview records in alleged trade secrets theft case",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTlwVzlBM0I4dzQ4TzZ5M3pTM3Q2MU1ObUVxRnFUaTJKM0xTd1pDR1ZURjBYbVRQOG1IZHNEQk5mWC1fQkFUcWVVeU9lTnBWTjViMC1KYnJ5QVBhbUxaZUlOMGtPYUx6bm1hVUFKOXBoLVZERE1sOVcxamRSV0dTaVFZMlQ1R1NUbVZNOTVxU3lSY3MxdlM2QmM5WWtYcEdqRHBUNl93OFM0eVdTdWp5Wmh4YldFSXRsQTBYWDI0Y0dnU1Qx0gHKAUFVX3lxTFBTRHkySThRc3FlaUxENWJrT29DcTVpdVFSWE85dnA3Q2swcndGRUxyRmM4b0JWLTFzaGxZbTFYaThUc1FvY0ZmU0lteVBkSHZqMmsySnMwT1BfYWFTWGU3R0REOGNLbzZnQmg2OWxRU3IwMGZzZi13RDhUQmxrekVDV0ZJM0NoY0tUalZRQkR2Mi01Q0FQMGxXbHgxVHFVaWxDVUtDcDJXd0JTSHNQSU4tSXZnMVc5SmpFSzRnelE0UEdmc3MyYVVZcUE?oc=5"
-      },
-      "queued_at": "2026-10-14T02:48:02.147872+00:00",
-      "score": 7.0,
-      "why": "Significant legal development involving major tech firms OpenAI and Apple."
-    },
-    {
-      "headline": "KYEC signs advanced payment deal with Nvidia",
-      "post": {
-        "created_at": "2026-10-14T01:31:15+00:00",
-        "handle": "News: Global chips",
-        "id": "1791941475534",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Digitimes",
-        "reposts": 0,
-        "text": "KYEC signs advanced payment deal with Nvidia for US testing expansion",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnQ3T05VYzRpay1nT0psUFRFNjJGZ09TbDBKZlJWcElUNE1ueUt0bWFGc2xMSFEzS21PVHdrYXdiSTM2aXVkb0MzdkVINDdZSEhndDdlcGVfcXJBWlBRaldEMkRmV1I3V19XMEl2OE1VWE5IRzg2REFtbnhTVjZDNnVhNjNWaXhkWDRBeXhEd3RsazFYTHU0bUdR?oc=5"
-      },
-      "queued_at": "2026-10-14T03:17:58.498155+00:00",
-      "score": 7.0,
-      "why": "It is a hardware and chip supply deal involving Nvidia."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -28053,7 +28023,7 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1791945533075,
     "news: consumer internet india": 1791945008570,
-    "news: global ai": 1791947308194,
+    "news: global ai": 1791948455548,
     "news: global chips": 1791945439689,
     "news: global it services": 1791925200485,
     "news: india ai deeptech": 1791942023006,
@@ -28112,7 +28082,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-14T03:17:58.963311+00:00",
+    "last_server_run": "2026-10-14T03:33:20.357021+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-14T01:37:52.859423+00:00",
