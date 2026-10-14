@@ -90,7 +90,11 @@ def run(dry_run: bool) -> int:
 
     print("Reading X posts from the Google Sheet...")
     try:
-        tech = [_tag(p, "tech") for p in xfeed.posts(whole.get("accounts") or [])]
+        # An account on both lists (PIB, the PMO) is judged by the Tweets desk's
+        # broader bar only, so the same post is never scored or sent twice.
+        listed = {str(h).lower() for h in official}
+        tech_accounts = [h for h in whole.get("accounts") or [] if str(h).lower() not in listed]
+        tech = [_tag(p, "tech") for p in xfeed.posts(tech_accounts)]
         gov = [_tag(p, "tweets") for p in xfeed.posts(official)]
     except Exception as exc:                                    # noqa: BLE001
         # The sheet itself raises the alarm by name: usually an expired login.
