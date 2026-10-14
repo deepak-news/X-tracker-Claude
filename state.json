@@ -9683,6 +9683,29 @@
           "level",
           "ministry"
         ]
+      },
+      {
+        "at": "2026-10-14T12:46:48.786934+00:00",
+        "handle": "PIB Ministry of Consumer Affairs, Food & Public Distribution",
+        "headline": "Government constitutes committee to examine issues relating to sugarcane farmers and sugar sector.",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323450",
+        "words": [
+          "affairs",
+          "committee",
+          "constitutes",
+          "consumer",
+          "distribution",
+          "examine",
+          "farmers",
+          "food",
+          "government",
+          "issues",
+          "ministry",
+          "public",
+          "relating",
+          "sector"
+        ]
       }
     ],
     "gazette_mark": 277141,
@@ -9985,8 +10008,8 @@
         "IMD": "2026-10-14T09:29:57.624693+00:00"
       }
     },
-    "last_run": "2026-10-14T12:33:10.367501+00:00",
-    "pib_mark": 2323430,
+    "last_run": "2026-10-14T12:46:48.787951+00:00",
+    "pib_mark": 2323450,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -11489,7 +11512,9 @@
       "watch:bulletin:RS|2026-10-14|Bulletin Part-II",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-14-2026-issued-against-jalaj-agrawal-pan-audpa0226h-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-ornaments-limited-rc-no-9304-of-2-_105253.html",
       "site:Delhi Police press releases|dp-newpressrelease:14/10/2026|ROBBERY CASES SOLVED BY PS SHAHBAD DAIRY OF OUTER NORTH DISTRICT.",
-      "site:ICC|https://www.icc-cricket.com/media-releases/zazai-found-guilty-of-breaching-the-icc-code-of-conduct-x3418"
+      "site:ICC|https://www.icc-cricket.com/media-releases/zazai-found-guilty-of-breaching-the-icc-code-of-conduct-x3418",
+      "pib:2323442",
+      "pib:2323450"
     ],
     "source_failures": {
       "CCI": {
@@ -11548,14 +11573,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791439940709",
-    "1791448378889",
-    "1791451735379",
-    "1791454986085",
-    "1791456848842",
-    "1791458072446",
-    "1791458769178",
-    "1791459453747",
     "1791462720452",
     "1791463406571",
     "1791465438828",
@@ -15899,7 +15916,6 @@
     "1791901260302",
     "1791924960209",
     "1791939300458",
-    "1791943742932",
     "1791950641714",
     "1791952469269",
     "1791959062740",
@@ -15908,7 +15924,6 @@
     "1791969924494",
     "1791972660774",
     "1791973336072",
-    "1791977284771",
     "1790810143968",
     "1791291600937",
     "1791471600539",
@@ -15942,7 +15957,6 @@
     "1791911820224",
     "1791939545624",
     "1791943168638",
-    "1791944387069",
     "1791960627248",
     "1791963718161",
     "1791966399307",
@@ -15951,16 +15965,13 @@
     "1791968640484",
     "1791970532808",
     "1791972918188",
-    "1791973980152",
     "1791975600136",
     "1791976200134",
     "1790310715285",
     "1791893955940",
     "1791894105669",
-    "1791899463400",
     "1791943740925",
     "1791946456816",
-    "1791951600548",
     "1791952544404",
     "1791952847054",
     "1791961528866",
@@ -15973,6 +15984,15 @@
     "1791973980695",
     "1791978998238",
     "1791979774277",
+    "1791894824670",
+    "1791895461221",
+    "1791895500331",
+    "1791895549925",
+    "1791899463917",
+    "1791956769655",
+    "1791969152151",
+    "1791977284295",
+    "1791977365602",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -17195,10 +17215,6 @@
     "1791892800696",
     "1791892849021",
     "1791893427231",
-    "1791894824670",
-    "1791895461221",
-    "1791895500331",
-    "1791895549925",
     "1791895588014",
     "1791895947233",
     "1791895990001",
@@ -17213,7 +17229,7 @@
     "1791897818262",
     "1791898200810",
     "1791898911857",
-    "1791899463917",
+    "1791899463400",
     "1791899708812",
     "1791899767144",
     "1791899837023",
@@ -17288,7 +17304,9 @@
     "1791943081826",
     "1791943214561",
     "1791943688132",
+    "1791943742932",
     "1791944162662",
+    "1791944387069",
     "1791945008570",
     "1791945480429",
     "1791945540348",
@@ -17309,6 +17327,7 @@
     "1791950842467",
     "1791951103794",
     "1791951360398",
+    "1791951600548",
     "1791952228128",
     "1791952438160",
     "1791952449556",
@@ -17333,7 +17352,7 @@
     "1791956134998",
     "1791956580156",
     "1791956688646",
-    "1791956769655",
+    "1791956769043",
     "1791957628160",
     "1791957660462",
     "1791957660672",
@@ -17405,7 +17424,6 @@
     "1791968813123",
     "1791968856295",
     "1791968858300",
-    "1791969152151",
     "1791969360335",
     "1791969420490",
     "1791969442009",
@@ -17439,17 +17457,21 @@
     "1791973757140",
     "1791973800196",
     "1791973917509",
+    "1791973980152",
     "1791973980303",
+    "1791973980498",
     "1791974065030",
     "1791974250274",
     "1791974400774",
     "1791974654054",
     "1791974700623",
     "1791975264606",
+    "1791975630769",
     "1791975690432",
     "1791975803404",
     "1791975837892",
     "1791975933808",
+    "1791975980634",
     "1791976006751",
     "1791976066569",
     "1791976152616",
@@ -17460,8 +17482,7 @@
     "1791977070531",
     "1791977234557",
     "1791977244398",
-    "1791977284295",
-    "1791977365602",
+    "1791977284771",
     "1791977760200",
     "1791977972366",
     "1791978143743",
@@ -17478,6 +17499,9 @@
     "1791980157073",
     "1791980462973",
     "1791981075560",
+    "1791981134638",
+    "1791981306312",
+    "1791981600135",
     "1791992131559",
     "2317509",
     "2317615",
@@ -17547,10 +17571,11 @@
     "2322766",
     "2322833",
     "2323134",
-    "2323430"
+    "2323430",
+    "2323442"
   ],
   "last_digest_hour": "2026-10-14T18",
-  "last_success": "2026-10-14T12:31:27.492265+00:00",
+  "last_success": "2026-10-14T12:46:00.934525+00:00",
   "national": {
     "alerted": [
       {
@@ -24614,11 +24639,9 @@
       },
       "warned": "2026-10-13T20:34:09.346463+00:00"
     },
-    "last_run": "2026-10-14T12:32:45.732929+00:00",
-    "pib_mark": 2323430,
+    "last_run": "2026-10-14T12:46:38.335203+00:00",
+    "pib_mark": 2323450,
     "seen": [
-      "pib:2314896",
-      "pib:2314894",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63666",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63667",
       "pib:2314915",
@@ -27616,7 +27639,9 @@
       "watch:bulletin:RS|2026-10-14|Bulletin Part-II",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/exemption-order-in-the-matter-of-allcargo-logistics-limited_105250.html",
       "pib:2323430",
-      "pib:2323425"
+      "pib:2323425",
+      "pib:2323450",
+      "pib:2323442"
     ],
     "source_failures": {
       "CBI": {
@@ -27687,7 +27712,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Researchers find OpenAI and Google models tricked into generating explicit content",
+      "post": {
+        "created_at": "2026-10-14T11:00:30+00:00",
+        "handle": "News: Global AI",
+        "id": "1791975630769",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Ars Technica",
+        "reposts": 0,
+        "text": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSU5EeklRRTJXTjhZRlRpaVBYWHpaOHF3b0otZXNmNmZFLVpwR2RRR0JXY0tXTWQ3YmJ3YURWazRqT2ZuTkhUcXB2ZUxidFotR2N3ZUpvT3lDQ3FjSDNoS3dqb2FZVWw2NVBLT3JEQXN2eHIxYTctRTJGU2pORHlLTFZTbjExM2wtd0d4UHdNbU5mOGpPWHVIeTlocjItZlBtLVJmMWxOa3BhMW1lRW1iSXJPRlNIaVk2VF9kbkEwdjFVRnBaZG1BVg?oc=5"
+      },
+      "queued_at": "2026-10-14T12:46:00.851116+00:00",
+      "score": 7.0,
+      "why": "This is a significant safety and security disclosure regarding major AI models from OpenAI and Google."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -28772,8 +28816,8 @@
     "microsoft india": 1791873604613,
     "mistral ai": 1791288027050,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1791980462973,
-    "news: consumer internet india": 1791976066569,
+    "news: big tech platforms": 1791981600135,
+    "news: consumer internet india": 1791981306312,
     "news: global ai": 1791980157073,
     "news: global chips": 1791979260928,
     "news: global it services": 1791925200485,
@@ -28781,7 +28825,7 @@
     "news: india edtech gaming": 1791899463917,
     "news: india fintech": 1791979197524,
     "news: india semiconductors": 1791969924494,
-    "news: india tech policy": 1791979636648,
+    "news: india tech policy": 1791981134638,
     "news: india telecom": 1791979350779,
     "news: indian it majors": 1791978998536,
     "news: indian it midcaps": 1791977365602,
@@ -28792,7 +28836,7 @@
     "openai": 1791936000122,
     "oracle": 1791151314860,
     "phonepe": 1791444709443,
-    "pib communications": 2323430,
+    "pib communications": 2323442,
     "pib meity": 2322621,
     "pib science and technology": 2323134,
     "razorpay": 1791893427231,
@@ -28831,7 +28875,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-14T12:31:27.868001+00:00",
+    "last_server_run": "2026-10-14T12:46:01.319955+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-14T12:16:54.948988+00:00",
@@ -30245,7 +30289,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-14T12:32:51.275854+00:00",
+    "last_run": "2026-10-14T12:46:40.510407+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
