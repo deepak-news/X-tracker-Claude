@@ -1,26 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-08T11:32:17.762666+00:00",
-      "handle": "News: India tech policy",
-      "headline": "India plans AI consultation paper focusing on deepfakes and safety",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRmtoQzltUFhpSlZfMjd2R0I3Wk1qSGg3SlhVd2RmQ29UYUdaMzVKeHJHcXAwYl9aMFFiUnhyNkZzX0Z3NEg5S0Mtc1ZkUk9uMnBSR2pNbkxEdjNNdDdha2tTbm9sUWUyUFpDbVp2alVqd1lJZmljS3R4Q0gyeHdMN242SVNQRGd0SUNHVjdUTFc5LWxUaW5JZGw3bElTdVJ1RzlTRDJvT0FNNmljNzlZT1F6QmJlTWVEekZiUEtockpRT3Z3aGJGNWFVYWstWWpfbmUxTFdZdER0ZXY1aDk1bNIB5gFBVV95cUxQMGRRTnRPVURfMV84enhvdHZ4LVdHLTFjbmJIN1ExVk5TR1BudjVZdmFfY1h2bjM1TTJYeFdfZ0l1dk11a3V5OXJBSkdlQU5qTElPWS1WdVpMZUtidXN1cE5sdXBSWmZ2QzJBRm5CQ19aaGNYS1NDS1AtRWh6OFlJV1JhbVQ4Zl9QOU1NdzFXci1IVUhMSHVsYWhNSWx3d3RDNGE1cnRTZFRUNHR2TjAzWDIxbGdkMDFKQ1NpU2Y5NzdMQnlVWE1QSFBla2Y0NnhjRS1FTENoMEVoODgtajZ1UTVRclhPdw?oc=5",
-      "words": [
-        "consultation",
-        "deepfakes",
-        "focus",
-        "likely",
-        "month",
-        "next",
-        "paper",
-        "push",
-        "regulation",
-        "safety",
-        "steps"
-      ]
-    },
-    {
       "at": "2026-10-08T12:16:50.775842+00:00",
       "handle": "Google",
       "headline": "Google Cloud launches enterprise Gemini agent for automated workflows",
@@ -7467,6 +7447,24 @@
         "revenue",
         "third"
       ]
+    },
+    {
+      "at": "2026-10-14T23:31:34.203414+00:00",
+      "handle": "News: Global AI",
+      "headline": "Apple and OpenAI head to court in trade secret legal battle",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkZXOGQtY20wYks4cjUyN3lSZEFCNDJvYWVlSGxra0IyOHQ5bEVUTC1jU0E5aU1WY1Y4NFZuT3lvX2JOdjhIeHJyaWVwWG5QVExsUjZSeUhQS2tObzM2Wlg1RjY4bGtzaWhOclRDNnRqMXdINTI4bGJtNkxYOEEtUFo0VDNwUWFuT3Z4b2tFRGIxWlNwXzhnTzI1Mnl5OGl3WXZxS25rblVrbTZtdlNjNFVRbXI?oc=5",
+      "words": [
+        "apple",
+        "court",
+        "fight",
+        "head",
+        "high",
+        "openai",
+        "secret",
+        "stakes",
+        "trade"
+      ]
     }
   ],
   "bureau": {
@@ -10260,7 +10258,7 @@
         "IMD": "2026-10-14T09:29:57.624693+00:00"
       }
     },
-    "last_run": "2026-10-14T23:17:05.401434+00:00",
+    "last_run": "2026-10-14T23:32:50.321780+00:00",
     "pib_mark": 2323590,
     "seen": [
       "pib:2320137",
@@ -11879,12 +11877,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791489366358",
-    "1791491160582",
-    "1791496015123",
-    "1791497666155",
-    "1791471280405",
-    "1791497065587",
     "1791497592651",
     "1791501240423",
     "1791435268154",
@@ -16234,7 +16226,6 @@
     "1791986474501",
     "1791988936693",
     "1791991690577",
-    "1791994392744",
     "1792001203065",
     "1792001806320",
     "1792003769298",
@@ -16267,14 +16258,23 @@
     "1792004340783",
     "1792012856181",
     "1789603200238",
-    "1787137200740",
     "1791367200282",
     "1791948796386",
     "1791990701349",
     "1791992820193",
     "1792006433793",
     "1792014085117",
-    "1792016566679",
+    "1791948796489",
+    "1791949956562",
+    "1791954896476",
+    "1791956040513",
+    "1791985594530",
+    "1791991996706",
+    "1791992503956",
+    "1791993960744",
+    "1791997732847",
+    "1791999309001",
+    "1792044000549",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -16392,6 +16392,7 @@
     "1786640658654",
     "1786971000430",
     "1787085000491",
+    "1787137200740",
     "1787170500318",
     "1787212800085",
     "1787212800520",
@@ -17520,10 +17521,9 @@
     "1791947760713",
     "1791948367528",
     "1791948687680",
-    "1791948796489",
+    "1791948796848",
     "1791949178605",
     "1791949873160",
-    "1791949956562",
     "1791950665753",
     "1791950842467",
     "1791951103794",
@@ -17540,12 +17540,10 @@
     "1791954120711",
     "1791954376355",
     "1791954420494",
-    "1791954896476",
     "1791955437885",
     "1791955455267",
     "1791955545875",
     "1791956009358",
-    "1791956040513",
     "1791956580156",
     "1791956688646",
     "1791956769655",
@@ -17664,7 +17662,6 @@
     "1791985205342",
     "1791985449027",
     "1791985574293",
-    "1791985594530",
     "1791985804989",
     "1791986082170",
     "1791986146634",
@@ -17689,11 +17686,9 @@
     "1791991552492",
     "1791991680024",
     "1791991800863",
-    "1791991996706",
     "1791992103908",
     "1791992131559",
     "1791992280134",
-    "1791992503956",
     "1791992520340",
     "1791992813090",
     "1791992905140",
@@ -17711,10 +17706,10 @@
     "1791993915980",
     "1791993923006",
     "1791993948530",
-    "1791993960744",
     "1791994060261",
     "1791994098260",
     "1791994200097",
+    "1791994392744",
     "1791994441744",
     "1791994487129",
     "1791994500519",
@@ -17737,7 +17732,6 @@
     "1791997287826",
     "1791997674870",
     "1791997732557",
-    "1791997732847",
     "1791997920182",
     "1791997925477",
     "1791998100890",
@@ -17750,7 +17744,6 @@
     "1791999021049",
     "1791999061585",
     "1791999287956",
-    "1791999309001",
     "1791999569378",
     "1791999653126",
     "1791999909507",
@@ -17780,6 +17773,7 @@
     "1792007520883",
     "1792008000711",
     "1792008325203",
+    "1792008977626",
     "1792008982207",
     "1792009080162",
     "1792009432464",
@@ -17801,11 +17795,15 @@
     "1792015591702",
     "1792015764463",
     "1792016089056",
+    "1792016388912",
+    "1792016566679",
     "1792016568216",
     "1792017508913",
     "1792018103808",
+    "1792018216293",
     "1792018860784",
-    "1792044000549",
+    "1792019474334",
+    "1792019978842",
     "2317509",
     "2317615",
     "2317714",
@@ -17880,8 +17878,8 @@
     "2323482",
     "2323546"
   ],
-  "last_digest_hour": "2026-10-15T04",
-  "last_success": "2026-10-14T23:16:21.694067+00:00",
+  "last_digest_hour": "2026-10-15T05",
+  "last_success": "2026-10-14T23:31:34.284922+00:00",
   "national": {
     "alerted": [
       {
@@ -25045,7 +25043,7 @@
       },
       "warned": "2026-10-14T20:46:56.926014+00:00"
     },
-    "last_run": "2026-10-14T23:16:57.080568+00:00",
+    "last_run": "2026-10-14T23:32:40.988144+00:00",
     "pib_mark": 2323590,
     "seen": [
       "gazette:CG-DL-E-25092026-276502",
@@ -28115,26 +28113,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Apple and OpenAI head to court in trade secret legal battle",
-      "post": {
-        "created_at": "2026-10-14T21:59:36+00:00",
-        "handle": "News: Global AI",
-        "id": "1792015176196",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bloomberg",
-        "reposts": 0,
-        "text": "Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkZXOGQtY20wYks4cjUyN3lSZEFCNDJvYWVlSGxra0IyOHQ5bEVUTC1jU0E5aU1WY1Y4NFZuT3lvX2JOdjhIeHJyaWVwWG5QVExsUjZSeUhQS2tObzM2Wlg1RjY4bGtzaWhOclRDNnRqMXdINTI4bGJtNkxYOEEtUFo0VDNwUWFuT3Z4b2tFRGIxWlNwXzhnTzI1Mnl5OGl3WXZxS25rblVrbTZtdlNjNFVRbXI?oc=5"
-      },
-      "queued_at": "2026-10-14T23:01:41.967726+00:00",
-      "score": 7.0,
-      "why": "Major AI company legal dispute involving trade secrets constitutes a significant wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -29220,11 +29199,11 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1792015202613,
     "news: consumer internet india": 1792004220992,
-    "news: global ai": 1792018103808,
-    "news: global chips": 1792016566679,
+    "news: global ai": 1792019978842,
+    "news: global chips": 1792019474334,
     "news: global it services": 1792011420268,
     "news: india ai deeptech": 1792003533826,
-    "news: india edtech gaming": 1791993369516,
+    "news: india edtech gaming": 1792018216293,
     "news: india fintech": 1792000922909,
     "news: india semiconductors": 1792007520883,
     "news: india tech policy": 1792001580953,
@@ -29279,17 +29258,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-14T23:16:22.087289+00:00",
+    "last_server_run": "2026-10-14T23:31:34.696242+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-14T21:17:18.771327+00:00",
+        "checked": "2026-10-14T23:32:28.622453+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-14T21:17:11.328797+00:00",
+        "checked": "2026-10-14T23:32:20.786364+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -29365,7 +29344,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-14T21:17:15.174181+00:00",
+        "checked": "2026-10-14T23:32:24.577752+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -29419,11 +29398,11 @@
       },
       "last": {
         "calendar": "2026-10-14T22:16:25.624608+00:00",
-        "ls_reports": "2026-10-14T21:16:55.585895+00:00",
-        "rs_committee_press": "2026-10-14T21:17:05.603471+00:00",
-        "rs_press": "2026-10-14T21:17:02.281221+00:00",
-        "rs_reports": "2026-10-14T21:16:59.627549+00:00",
-        "rs_updates": "2026-10-14T21:17:07.422218+00:00"
+        "ls_reports": "2026-10-14T23:32:04.352305+00:00",
+        "rs_committee_press": "2026-10-14T23:32:14.451728+00:00",
+        "rs_press": "2026-10-14T23:32:11.470319+00:00",
+        "rs_reports": "2026-10-14T23:32:08.598629+00:00",
+        "rs_updates": "2026-10-14T23:32:16.521383+00:00"
       }
     },
     "scanned": [
@@ -30775,7 +30754,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-14T23:16:59.181915+00:00",
+    "last_run": "2026-10-14T23:32:43.430507+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
