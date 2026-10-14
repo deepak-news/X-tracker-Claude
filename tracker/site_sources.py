@@ -220,6 +220,14 @@ def dgca_traffic() -> list:
                 if not cells or not link:
                     continue
                 month = _clean(cells[0].get_text(" ")).title()
+                # only recent months: DGCA linking its 2020-2024 tables overnight (2026-10-15)
+                # sent 60 old months as news. A month's figures come out about three weeks after it
+                try:
+                    start = dt.datetime.strptime(f"{month[:3]} {year.group(1)}", "%b %Y").date()
+                except ValueError:
+                    continue
+                if (dt.date.today() - start).days > 120:
+                    continue
                 rows.append({"key": f"dgca-traffic:{link['data-url'].strip()}",
                              "title": f"Domestic air traffic by city pair: {month} {year.group(1)}",
                              "detail": "DGCA's monthly passenger figures for each domestic route", "url": _dgca_file(link["data-url"]), "date": None})
