@@ -23,9 +23,10 @@ bell-notification feed every five minutes and keeps the posts, and the
 tracker asks the sheet for them on each run (`tracker/xfeed.py`). Only
 accounts @DeepakatPTI follows with the bell on appear.
 
-On trial: `tracker/xdesk.py` judges them (the `accounts:` list by the Tech
-Desk's bar, `x_test: official:` by the Tweets desk's) and emails the result
-to `X_TEST_MAIL_TO` only -- not to either desk. Secrets: `X_FEED_URL` (the
+On trial: `tracker/xdesk.py` judges every post by the Tweets desk's bar
+(the `accounts:` list by the Tech Desk's as well), folds the same
+announcement posted by several accounts into one, and emails the result to
+`X_TEST_MAIL_TO` only -- not to either desk. Secrets: `X_FEED_URL` (the
 sheet's web address) and `X_TEST_MAIL_TO`. When X logs the account out, copy
 fresh `auth_token` and `ct0` into the sheet's Script properties.
 

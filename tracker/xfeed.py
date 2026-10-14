@@ -49,13 +49,15 @@ def _feed() -> list:
     return data.get("posts") or []
 
 
-def posts(handles, label: str = "X") -> list:
-    """Posts from the accounts in handles."""
-    wanted = {str(h).lower().lstrip("@") for h in handles or []}
+def posts(handles=None, label: str = "X") -> list:
+    """Posts from the accounts in handles, or from every account when it is None."""
+    wanted = None if handles is None else {str(h).lower().lstrip("@") for h in handles}
     found = []
     for item in _feed():
         handle = str(item.get("handle") or "")
-        if handle.lower() not in wanted or item.get("repost") or item.get("reply"):
+        if item.get("repost") or item.get("reply"):
+            continue
+        if wanted is not None and handle.lower() not in wanted:
             continue
         name = item.get("name") or handle
         found.append(sources.Post(

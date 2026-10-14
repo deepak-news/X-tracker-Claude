@@ -278,38 +278,12 @@ accounts:
 
 # ----------------------------------------------------------------------
 #  X ALERTS, ON TRIAL (tracker/xdesk.py, from 2026-10-14)
-#  X posts read through the Google Sheet (apps-script/x_feed.gs), emailed to
-#  X_TEST_MAIL_TO only -- never to the desks -- until Deepak says it works.
-#  The "accounts:" list above is judged as the Tech Desk would; "official"
-#  below as the Tweets desk would. @DeepakatPTI must follow each account
-#  with the bell on, or its posts never reach the sheet.
+#  Every account @DeepakatPTI follows with the bell on is read, through the
+#  Google Sheet (apps-script/x_feed.gs), and judged by the Tweets desk's bar;
+#  the "accounts:" list above is judged by the Tech Desk's bar as well. One
+#  email, to X_TEST_MAIL_TO only -- never to the desks -- until Deepak says
+#  it works. To add an account: follow it on X and switch its bell on.
 # ----------------------------------------------------------------------
-x_test:
-  official:
-    - PMOIndia
-    - narendramodi
-    - rashtrapatibhvn
-    - VPIndia
-    - HMOIndia
-    - RailMinIndia
-    - PIB_India
-    - DG_PIB
-    - PIBFactCheck
-    - MEAIndia
-    - DrSJaishankar
-    - SpokespersonMoD
-    - FinMinIndia
-    - NITIAayog
-    - MIB_India
-    - IndiaDST
-    - JM_Scindia
-    - LokSabhaSectt
-    - loksabhaspeaker
-    - mygovindia
-    - MyGovHindi
-    - transformIndia
-    - DelhiPolice
-
 # ----------------------------------------------------------------------
 #  WHERE THE NEWS COMES FROM
 #  X blocks servers now, so these are read instead. All free, all

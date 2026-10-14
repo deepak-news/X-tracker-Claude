@@ -1,12 +1,22 @@
 """X alerts, on trial: one email, to Deepak only.
 
-Posts come from the Google Sheet that reads X (xfeed.py). Two kinds of
-account, each judged the way its desk would judge it if X were added there
-later:
-  - the "accounts:" list   -- by the Tech Desk's rubric and threshold
-  - "x_test: official:"    -- by the Tweets desk's rubric and threshold
-Neither desk's own emails, memory or score log is touched. Everything that
-clears its bar goes in one email to X_TEST_MAIL_TO, and nobody else.
+Posts come from the Google Sheet that reads X (xfeed.py): every account
+@DeepakatPTI follows with the bell on, so following a new account is all it
+takes to add it. Each post is judged the way a desk would judge it if X were
+added there later:
+  - every post            -- by the Tweets desk's rubric and threshold
+  - the "accounts:" list  -- ALSO by the Tech Desk's, so a story that matters
+                             to the beat but not to the general public still
+                             gets through
+A post is sent if it clears either bar. Neither desk's own emails, memory or
+score log is touched; everything goes to X_TEST_MAIL_TO, and nobody else.
+
+One announcement is usually posted by several accounts -- the PMO, the
+minister, PIB and the ministry, often over an hour or so. So before the AI
+sees anything, a post telling the same story as another one in this run, or
+as anything already emailed in the last 48 hours (by this trial or by the
+Tech Desk), is dropped. The AI is then shown those headlines too and asked to
+mark repeats; what is left is one alert per story.
 
     python -m tracker.xdesk              check, score, email
     python -m tracker.xdesk --dry-run    score and print, send nothing, save nothing
@@ -31,18 +41,45 @@ WATCHLIST = pathlib.Path(__file__).resolve().parent.parent / "watchlist.yml"
 RECIPIENT = "X_TEST_MAIL_TO"
 SENDER_NAME = "X Alerts (test)"
 MEMORY = 3000       # post ids remembered: several days at the current pace
+SENT_HOURS = 48     # how long a story counts as already sent, as on the desks
+MIN_LENGTH = 25
 
 
-def _tag(post, desk: str):
-    """A post labelled by its account, and which desk's bar it is judged by."""
+def _tag(post):
+    """A post labelled by its account, under this trial's identifier scheme."""
     post.id, post.handle = f"x:{post.id}", f"{post.origin} on X"
-    post.desk = desk
     return post
 
 
-def _recent(posts: list, hours: float) -> list:
-    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=hours)
-    return [p for p in posts if dt.datetime.fromisoformat(p.created_at) >= cutoff]
+def _words(post) -> set:
+    """What the post says, without the label put in front of it."""
+    return judge._fingerprint(post.text.split(" on X: ", 1)[-1][:300])
+
+
+def _alike(a: set, b: set) -> bool:
+    return bool(a and b) and len(a & b) / min(len(a), len(b)) >= judge.SAME_STORY
+
+
+def _sent_before(state: dict, memory: dict) -> list:
+    """Every story emailed in the last two days: this trial's and the Tech Desk's."""
+    cutoff = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=SENT_HOURS)).isoformat()
+    entries = (state.get("alerted") or []) + (memory.get("alerted") or [])
+    return [e for e in entries if e.get("at", "") >= cutoff]
+
+
+def fold(posts: list, sent: list) -> tuple:
+    """(posts to judge, posts dropped as a story already in hand)."""
+    earlier = [set(e.get("words") or []) for e in sent]
+    urls = {e.get("url") for e in sent if e.get("url")}
+    kept, dropped, kept_words = [], [], []
+    for post in sorted(posts, key=lambda p: p.created_at):      # the first to post it wins
+        words = _words(post)
+        if post.url in urls or any(_alike(words, w) for w in earlier + kept_words):
+            dropped.append(post)
+            continue
+        kept.append(post)
+        kept_words.append(words)
+    return kept, dropped
 
 
 def build_email(rows: list) -> tuple:
@@ -81,7 +118,7 @@ def run(dry_run: bool) -> int:
 
     whole = yaml.safe_load(WATCHLIST.read_text()) or {}
     tweets_cfg = whole.get("national") or {}
-    official = (whole.get("x_test") or {}).get("official") or []
+    tech_accounts = {str(h).lower() for h in whole.get("accounts") or []}
 
     state = load_state()
     memory = state.setdefault("x_test", {})
@@ -90,19 +127,14 @@ def run(dry_run: bool) -> int:
 
     print("Reading X posts from the Google Sheet...")
     try:
-        # An account on both lists (PIB, the PMO) is judged by the Tweets desk's
-        # broader bar only, so the same post is never scored or sent twice.
-        listed = {str(h).lower() for h in official}
-        tech_accounts = [h for h in whole.get("accounts") or [] if str(h).lower() not in listed]
-        tech = [_tag(p, "tech") for p in xfeed.posts(tech_accounts)]
-        gov = [_tag(p, "tweets") for p in xfeed.posts(official)]
+        everything = [_tag(p) for p in xfeed.posts()]
     except Exception as exc:                                    # noqa: BLE001
         # The sheet itself raises the alarm by name: usually an expired login.
         print(f"  ! {exc}")
         return 1
-    print(f"  {len(tech)} tech post(s), {len(gov)} official post(s) in the last {xfeed.HOURS}h")
+    print(f"  {len(everything)} post(s) from {len({p.origin for p in everything})} accounts "
+          f"in the last {xfeed.HOURS}h")
 
-    everything = tech + gov
     if not seen_list:
         print("  first run: noting what is there now, sending nothing")
         if not dry_run:
@@ -111,53 +143,76 @@ def run(dry_run: bool) -> int:
         return 0
 
     new = [p for p in everything if p.id not in seen]
-    tech = judge.prefilter([p for p in new if p.desk == "tech"], whole)
-    gov = _recent([p for p in new if p.desk == "tweets"], float(tweets_cfg.get("max_age_hours", 12)))
-    print(f"  new: {len(tech)} tech, {len(gov)} official")
+    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=float(tweets_cfg.get("max_age_hours", 12)))
+    current = [p for p in new if len(p.text.split(" on X: ", 1)[-1]) >= MIN_LENGTH
+               and dt.datetime.fromisoformat(p.created_at) >= cutoff]
+    sent = _sent_before(state, memory)
+    candidates, repeats = fold(current, sent)
+    print(f"  new: {len(new)}; worth judging: {len(current)}; "
+          f"same story as another post or an earlier alert: {len(repeats)}")
+    for post in repeats:
+        print(f"    repeat: {post.origin}: {post.text.split(' on X: ', 1)[-1][:70]}")
 
-    # Whatever the cheap filters dropped (too old, too short, a duplicate) is
-    # done with now; what goes to the AI is done with once the AI has seen it.
-    waiting = {p.id for p in tech + gov}
-    rows, settled = [], {p.id for p in new} - waiting
+    # Whatever the cheap checks dropped is done with now; what goes to the AI
+    # is done with once each bar it is judged by has seen it.
+    done = {p.id for p in new} - {p.id for p in candidates}
+    headlines = [e.get("headline", "") for e in sent if e.get("headline")]
+    best: dict = {}                       # post id -> (post, score, headline, desk)
+
+    def consider(post, value, headline, desk, bar):
+        if value >= bar and value > best.get(post.id, (None, -1))[1]:
+            best[post.id] = (post, value, headline, desk)
+
+    tweets_done = set()
+    if candidates:
+        judged, tweets_done = national.score(candidates, (tweets_cfg.get("newsworthy") or "").strip(),
+                                             state, {"alerted": sent}, log="x_test")
+        for post, value, headline, _ in judged:
+            consider(post, value, headline, "tweets", float(tweets_cfg.get("threshold", 7)))
+
+    tech_age = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=float(whole.get("max_age_hours", 6)))
+    tech = [p for p in candidates if p.origin[1:].lower() in tech_accounts
+            and dt.datetime.fromisoformat(p.created_at) >= tech_age]
+    tech_done = {p.id for p in candidates if p not in tech}
     if tech:
         try:
             judged, missed, newly_dead = judge.score(tech, (whole.get("newsworthy") or "").strip(),
-                                                     dead_models(state))
+                                                     dead_models(state), already_sent=headlines)
             record_dead_models(state, newly_dead)
-            bar = float(whole.get("threshold", 7))
             for post, value, headline, _why in judged:
-                if value >= bar:
-                    rows.append((post, value, headline, "tech"))
-            settled |= {p.id for p in tech} - {p.id for p in missed}
+                consider(post, value, headline, "tech", float(whole.get("threshold", 7)))
+            tech_done |= {p.id for p in tech} - {p.id for p in missed}
         except judge.AllModelsExhausted as exc:
             record_dead_models(state, exc.newly_dead)
             print(f"  ! no AI model is available: {exc}. Tried again next run.")
-    if gov:
-        judged, done = national.score(gov, (tweets_cfg.get("newsworthy") or "").strip(),
-                                      state, memory, log="x_test")
-        settled |= done
-        bar = float(tweets_cfg.get("threshold", 7))
-        rows += [(post, value, headline, "tweets") for post, value, headline, _ in judged if value >= bar]
+    done |= tweets_done & tech_done
 
+    # The AI judged each post on its own; two accounts telling one story in
+    # this run still fold to the higher-scored one.
+    rows = []
+    for row in sorted(best.values(), key=lambda r: -r[1]):
+        if not any(_alike(_words(row[0]), _words(kept[0])) for kept in rows):
+            rows.append(row)
     for post, value, headline, desk in rows:
         print(f"  SEND {value:g} [{desk}] {post.origin}: {headline}")
+
     if rows and not dry_run:
-        rows.sort(key=lambda r: -r[1])
         subject, body = build_email(rows)
         try:
             email_out.send(subject, body, recipient_env=RECIPIENT, sender_name=SENDER_NAME)
         except Exception as exc:                                # noqa: BLE001
             print(f"  ! email failed ({exc}); these are tried again next run")
-            settled -= {r[0].id for r in rows}
+            done -= {r[0].id for r in rows}
         else:
-            alerted = memory.setdefault("alerted", [])
-            now = dt.datetime.now(dt.timezone.utc).isoformat()
-            alerted += [{"at": now, "headline": r[2]} for r in rows]
-            memory["alerted"] = alerted[-400:]
+            done |= {r[0].id for r in rows}
+            now = dt.datetime.now(dt.timezone.utc)
+            cutoff = (now - dt.timedelta(hours=SENT_HOURS)).isoformat()
+            memory["alerted"] = [e for e in memory.get("alerted") or [] if e.get("at", "") >= cutoff]
+            memory["alerted"] += [{"at": now.isoformat(), "headline": r[2], "url": r[0].url,
+                                   "words": sorted(_words(r[0]))} for r in rows]
 
     if not dry_run:
-        # Everything settled, plus whatever has aged out of the window, is done with.
-        memory["seen"] = (seen_list + sorted(settled))[-MEMORY:]
+        memory["seen"] = (seen_list + sorted(done))[-MEMORY:]
         memory["last_run"] = dt.datetime.now(dt.timezone.utc).isoformat()
         save_state(state)
     return 0
