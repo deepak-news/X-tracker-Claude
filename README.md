@@ -15,6 +15,17 @@ gone, and X's own API has had no free tier since February 2026.
 So it reads the sources X posts were usually *about* instead — which for
 company and government news arrive earlier and carry more authority.
 
+## X, through a Google Sheet (from 14 Oct 2026)
+
+X refuses GitHub's servers but answers Google's. So a small script inside a
+Google Sheet (`apps-script/x_feed.gs`) reads the burner account's
+bell-notification feed every five minutes and keeps the posts, and the
+tracker asks the sheet for them on each run (`tracker/xfeed.py`). Only
+accounts the burner follows with the bell on appear. The Tech Desk takes the
+`accounts:` list; the Tweets desk takes `national: x_accounts:`. The sheet's
+web address is the `X_FEED_URL` secret. When X logs the burner out, copy
+fresh `auth_token` and `ct0` into the sheet's Script properties.
+
 ## Where the news comes from
 
 1. **BSE filings** — what an Indian listed company formally told the exchange.

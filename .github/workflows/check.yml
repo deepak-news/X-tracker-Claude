@@ -69,6 +69,7 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
           ADMIN_MAIL_TO: ${{ secrets.ADMIN_MAIL_TO }}
+          X_FEED_URL: ${{ secrets.X_FEED_URL }}   # the Google Sheet that reads X (tracker/xfeed.py)
         run: |
           case "${{ inputs.mode }}" in
             test-email) python -m tracker.main --test-email ;;
@@ -113,6 +114,7 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           SOCIAL_MAIL_TO: ${{ secrets.SOCIAL_MAIL_TO }}
+          X_FEED_URL: ${{ secrets.X_FEED_URL }}
         run: |
           case "${{ inputs.mode }}" in
             test-email) python -m tracker.national --test-email ;;
