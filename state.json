@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-07T15:32:19.660093+00:00",
-      "handle": "News: Global chips",
-      "headline": "SpaceX reported in talks for $40 billion Nvidia chip financing",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2w1Vk5HOHNxd29sTUpGTE5XYUdUNHJnQWh4dzlLWEoxQWs4ZUxieEtSTVloeHdFX01LQmtZMDRuZzZnSXRUaVZ2alk3TnFaeUlDTUh5XzdIUDFaUWZVWURwNE9SdGxBa3QtU0I0dDkwN0stM3FwdEQ3YTRoaDhZNEpFZ3lxdHBGZWNWNTBteDFjMlRiSGFEeFNxSUtqdXZsMmtzY25MVVVzeEU?oc=5",
-      "words": [
-        "billion",
-        "chip",
-        "financing",
-        "nvidia",
-        "reported",
-        "spacex",
-        "talks",
-        "watch"
-      ]
-    },
-    {
-      "at": "2026-10-07T15:32:19.660093+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Swish pilots Swish Go to compete with Swiggy and Zomato",
       "tier": 0,
@@ -7451,6 +7434,29 @@
         "toilet",
         "wrapped"
       ]
+    },
+    {
+      "at": "2026-10-14T02:04:05.892100+00:00",
+      "handle": "Google DeepMind",
+      "headline": "Google DeepMind and Singapore partner on on-device Gemma scam protection",
+      "tier": 1,
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "words": [
+        "against",
+        "announce",
+        "citizens",
+        "deepmind",
+        "device",
+        "gemma",
+        "google",
+        "government",
+        "govtech",
+        "intercept",
+        "learn",
+        "lightweight",
+        "models",
+        "protect"
+      ]
     }
   ],
   "bureau": {
@@ -9574,10 +9580,11 @@
     ],
     "health": {
       "down": {
-        "CCI": "2026-10-13T18:46:49.673792+00:00"
+        "CCI": "2026-10-13T18:46:49.673792+00:00",
+        "IRDAI": "2026-10-14T02:05:45.776964+00:00"
       }
     },
-    "last_run": "2026-10-14T01:50:00.929851+00:00",
+    "last_run": "2026-10-14T02:05:47.282389+00:00",
     "pib_mark": 2323025,
     "seen": [
       "pib:2320137",
@@ -10992,6 +10999,9 @@
       "CCI": {
         "count": 4,
         "until": "2026-10-14T07:24:13.199825+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       }
     },
     "sources": [
@@ -11041,13 +11051,6 @@
   "consecutive_failures": 0,
   "dead_models": {},
   "handled": [
-    "1791402420693",
-    "1791422342745",
-    "1791426634695",
-    "1791432304297",
-    "1791434040291",
-    "1791439148650",
-    "1791353872472",
     "1791359891975",
     "1791360044491",
     "1791378588846",
@@ -15444,26 +15447,33 @@
     "1791932634410",
     "1791937800820",
     "1791938938939",
-    "1791866116816",
     "1791884058197",
     "1791886283241",
     "1791897346114",
     "1791928906238",
     "1791931098560",
     "1791931440743",
-    "1787040000004",
     "1791182930422",
-    "1791280117943",
     "1791863369600",
-    "1791875538444",
     "1791882378798",
     "1791898196001",
     "1791907632999",
     "1791925200151",
     "1791936084108",
-    "1791937800102",
     "1791938506794",
     "1791941400364",
+    "1777273206170",
+    "1791863640776",
+    "1791874849748",
+    "1791875538934",
+    "1791893427231",
+    "1791907519072",
+    "1791921364247",
+    "1791931265536",
+    "1791937800357",
+    "1791938569548",
+    "1791941258984",
+    "1791964800979",
     "1741280400469",
     "1742212800528",
     "1744200000775",
@@ -15500,7 +15510,6 @@
     "1773763200851",
     "1774281600344",
     "1774958400263",
-    "1777273206170",
     "1777291223435",
     "1777551255091",
     "1778064229646",
@@ -15583,6 +15592,7 @@
     "1786543319053",
     "1786640658654",
     "1786971000430",
+    "1787040000004",
     "1787085000491",
     "1787131800181",
     "1787137200740",
@@ -16523,6 +16533,7 @@
     "1791277321282",
     "1791277526239",
     "1791279576052",
+    "1791280117943",
     "1791280800783",
     "1791283738110",
     "1791286740039",
@@ -16666,15 +16677,16 @@
     "1791859767355",
     "1791859921303",
     "1791860739945",
+    "1791861000087",
     "1791862260120",
     "1791862697001",
     "1791863369729",
-    "1791863640776",
     "1791863703259",
     "1791864010988",
     "1791864425176",
     "1791864539043",
     "1791864706627",
+    "1791866116816",
     "1791866880370",
     "1791867631456",
     "1791867956075",
@@ -16702,12 +16714,11 @@
     "1791874397313",
     "1791874568894",
     "1791874737865",
-    "1791874849748",
     "1791874857613",
     "1791875025840",
     "1791875285427",
     "1791875363468",
-    "1791875538934",
+    "1791875538444",
     "1791876375394",
     "1791876459223",
     "1791877470559",
@@ -16813,7 +16824,6 @@
     "1791892849021",
     "1791893171299",
     "1791893341899",
-    "1791893427231",
     "1791893520408",
     "1791893572833",
     "1791893700409",
@@ -16880,7 +16890,6 @@
     "1791907229552",
     "1791907312985",
     "1791907318055",
-    "1791907519072",
     "1791907932588",
     "1791908692040",
     "1791908700564",
@@ -16913,7 +16922,6 @@
     "1791920100578",
     "1791920460929",
     "1791920587440",
-    "1791921364247",
     "1791921700851",
     "1791922020694",
     "1791922077761",
@@ -16947,7 +16955,6 @@
     "1791929280382",
     "1791929400864",
     "1791931080761",
-    "1791931265536",
     "1791931647845",
     "1791932334263",
     "1791932520581",
@@ -16958,10 +16965,9 @@
     "1791936000108",
     "1791936540546",
     "1791937575589",
-    "1791937800357",
+    "1791937800102",
     "1791938115456",
     "1791938181222",
-    "1791938569548",
     "1791938938113",
     "1791939000013",
     "1791939300458",
@@ -16971,9 +16977,13 @@
     "1791940440743",
     "1791940731483",
     "1791941244575",
-    "1791941258984",
+    "1791941258749",
     "1791941400539",
-    "1791964800979",
+    "1791942731353",
+    "1791942736816",
+    "1791942770842",
+    "1791943055548",
+    "1791943214561",
     "2317509",
     "2317615",
     "2317714",
@@ -17043,7 +17053,7 @@
     "2322833"
   ],
   "last_digest_hour": "2026-10-14T07",
-  "last_success": "2026-10-14T01:49:07.060375+00:00",
+  "last_success": "2026-10-14T02:04:05.967614+00:00",
   "national": {
     "alerted": [
       {
@@ -23853,12 +23863,13 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "CCI": "2026-10-13T18:40:14.667006+00:00",
+        "IRDAI": "2026-10-14T02:05:09.608496+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-13T20:34:09.346463+00:00"
     },
-    "last_run": "2026-10-14T01:49:51.771813+00:00",
+    "last_run": "2026-10-14T02:05:11.543301+00:00",
     "pib_mark": 2323025,
     "seen": [
       "pib:2314488",
@@ -26346,7 +26357,6 @@
       "watch:bulletin:LS|2026-10-13|Bulletin-II",
       "watch:bulletin:RS|2026-10-13|Bulletin Part-II",
       "quake:usgs:us6000u214",
-      "quake:usgs:us6000u24c",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -26367,6 +26377,7 @@
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
+      "quake:usgs:us6000u24c",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13730&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13733&Mode=0",
@@ -26870,6 +26881,9 @@
       "CCI": {
         "count": 4,
         "until": "2026-10-14T07:18:35.562032+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -27996,7 +28010,7 @@
     "flipkart": 1791551784486,
     "google": 1791914400160,
     "google cloud": 1791532800111,
-    "google deepmind": 1791920587440,
+    "google deepmind": 1791943214561,
     "google india": 1791907200258,
     "hcltech": 1791904418509,
     "ibm": 1791408600561,
@@ -28010,7 +28024,7 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1791941244575,
     "news: consumer internet india": 1791906900986,
-    "news: global ai": 1791941258984,
+    "news: global ai": 1791943055548,
     "news: global chips": 1791940141351,
     "news: global it services": 1791925200485,
     "news: india ai deeptech": 1791938181222,
@@ -28019,7 +28033,7 @@
     "news: india semiconductors": 1791914009995,
     "news: india tech policy": 1791920460929,
     "news: india telecom": 1791915721206,
-    "news: indian it majors": 1791941400539,
+    "news: indian it majors": 1791942736816,
     "news: indian it midcaps": 1791906937645,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1791931098560,
@@ -28069,7 +28083,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-14T01:49:07.496449+00:00",
+    "last_server_run": "2026-10-14T02:04:06.273264+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-14T01:37:52.859423+00:00",
