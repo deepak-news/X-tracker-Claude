@@ -744,8 +744,77 @@ def dp_whatsnew() -> list:
     return rows
 
 
+# ---------------------------------------------------------------- DoT's Documents tabs
+
+DOT_API = "https://www.dot.gov.in/cms/wp-json/wp/v2/"
+# the tabs under dot.gov.in/documents -> the category number in DoT's own data (children count)
+DOT_TABS = {"dot_reports": 107, "dot_orders": 140, "dot_acts": 136, "dot_publications": 142,
+            "dot_press": 144, "dot_gazettes": 146, "dot_guidelines": 147}
+DOT_PAGE = {107: "documents", 140: "documents/orders-and-notices", 136: "documents/acts-and-policies",
+            142: "documents/publications", 144: "documents/press-release", 146: "documents/gazettes-notifications",
+            147: "documents/guidelines"}
+
+
+def _dot_json(kind: str, **params):
+    """DoT's site is a web app that fills its lists from this open data feed. Read directly; if
+    DoT refuses GitHub's servers, through the relay (mea-relay, which lists www.dot.gov.in)."""
+    url = DOT_API + kind
+    try:
+        return _get(url, params=params, headers={**HEADERS, "Accept": "application/json"}).json()
+    except Exception as first:                                        # noqa: BLE001
+        query = "&".join(f"{k}={quote(str(v), safe=',')}" for k, v in params.items())
+        try:
+            response = requests.get(RELAY, params={"u": f"{url}?{query}"}, headers=HEADERS, timeout=70)
+            response.raise_for_status()
+            return response.json()
+        except Exception:                                             # noqa: BLE001
+            raise first
+
+
+def _dot(category: int) -> list:
+    """The newest documents of one tab: each tab is a category (with its sub-categories) of
+    DoT's "documents". The row links to the PDF itself when it can be found (document ->
+    its file record in central_documents -> the media file), else to the tab. Rows are dated
+    by when DoT put them up (the document's own date can be weeks older)."""
+    items = _dot_json("documents", documents_category=category, per_page=30, orderby="date", order="desc",
+                      _fields="id,date,title,acf")
+    if not isinstance(items, list):
+        raise RuntimeError("DoT's documents list did not come back as a list (the site may have changed)")
+    files = {}
+    for it in items:
+        for f in (it.get("acf") or {}).get("file") or []:
+            for n in f.get("file") or []:
+                files.setdefault(it["id"], n)
+    pdf = {}
+    try:
+        if files:
+            ids = ",".join(str(n) for n in sorted(set(files.values())))
+            recs = _dot_json("central_documents", include=ids, per_page=100, _fields="id,acf")
+            media = {r["id"]: (r.get("acf") or {}).get("pdf") for r in recs if isinstance(r, dict)}
+            ids = ",".join(str(m) for m in sorted({m for m in media.values() if m}))
+            if ids:
+                urls = {m["id"]: m["source_url"] for m in _dot_json("media", include=ids, per_page=100, _fields="id,source_url")}
+                pdf = {doc: urls.get(media.get(n)) for doc, n in files.items()}
+    except Exception:                                                 # noqa: BLE001
+        pdf = {}                                                      # the link falls back to the tab
+    rows = []
+    for it in items:
+        title = _clean((it.get("title") or {}).get("rendered"))
+        if not title:
+            continue
+        rows.append({"key": f"dot:{it['id']}", "title": title, "detail": "",
+                     "url": pdf.get(it["id"]) or "https://www.dot.gov.in/" + DOT_PAGE[category],
+                     "date": _day(str(it.get("date") or "")[:10], "%Y-%m-%d")})
+    return rows
+
+
+def _dot_reader(category: int):
+    return lambda: _dot(category)
+
+
 HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "dgca_traffic": dgca_traffic, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
-                "dp_notifications": dp_notifications, "dp_gazette": dp_gazette, "dp_press": dp_press, "dp_whatsnew": dp_whatsnew}
+                "dp_notifications": dp_notifications, "dp_gazette": dp_gazette, "dp_press": dp_press, "dp_whatsnew": dp_whatsnew,
+                **{name: _dot_reader(cat) for name, cat in DOT_TABS.items()}}
 
 
 # ---------------------------------------------------------------- WHO

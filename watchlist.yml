@@ -1147,6 +1147,17 @@ site:
     - {source: Delhi Police, sub: Circulars, reader: dp_circulars}
     - {source: Delhi Police, sub: Gazette, reader: dp_gazette}
     - {source: Delhi Police press releases, reader: dp_press, ai: true}
+    # --- DoT (Department of Telecommunications), every tab of dot.gov.in/documents (added
+    # 2026-10-15, the user's choice: the Oct 13 amendment to the Unified Licence's definition of
+    # "Calling Line Identification" went unnoticed). About four new documents a day, so every row
+    # counts (no AI). Read from the site's open data feed; through the relay if DoT refuses GitHub.
+    - {source: DoT, sub: Orders and notices, reader: dot_orders}
+    - {source: DoT, sub: Acts and policies, reader: dot_acts}
+    - {source: DoT, sub: Press releases, reader: dot_press}
+    - {source: DoT, sub: Reports, reader: dot_reports}
+    - {source: DoT, sub: Publications, reader: dot_publications}
+    - {source: DoT, sub: Gazette notifications, reader: dot_gazettes}
+    - {source: DoT, sub: Guidelines, reader: dot_guidelines}
     # --- Read by the Mac only ("home_only": these refuse GitHub and Cloudflare alike;
     # chosen by the user 2026-10-11). Checks pause while the Mac is off or asleep.
     - {source: ECI, sub: Press releases, reader: eci, home_only: true}
