@@ -11478,6 +11478,29 @@
           "kashmir",
           "pib"
         ]
+      },
+      {
+        "at": "2026-10-17T06:52:32.582519+00:00",
+        "handle": "Gazette Ministry of Commerce and Industry",
+        "headline": "Government notifies Special Economic Zones Fourth Amendment Rules 2026",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277245.pdf",
+        "words": [
+          "2026",
+          "amendment",
+          "commerc",
+          "commerce",
+          "department",
+          "extraordinary",
+          "fourth",
+          "gazette",
+          "industry",
+          "ministry",
+          "notification",
+          "publication",
+          "rules",
+          "sezs"
+        ]
       }
     ],
     "gazette_mark": 277246,
@@ -11866,7 +11889,9 @@
       "CG-DL-E-17102026-277236",
       "CG-DL-E-17102026-277238",
       "CG-DL-E-17102026-277237",
-      "CG-OR-E-17102026-277246"
+      "CG-OR-E-17102026-277246",
+      "CG-DL-E-17102026-277245",
+      "CG-TL-E-17102026-277244"
     ],
     "health": {
       "down": {
@@ -11874,7 +11899,7 @@
         "State: Uttar Pradesh": "2026-10-16T14:03:44.445933+00:00"
       }
     },
-    "last_run": "2026-10-17T06:38:41.852272+00:00",
+    "last_run": "2026-10-17T06:52:32.594762+00:00",
     "pib_mark": 2324629,
     "seen": [
       "pib:2320137",
@@ -13793,7 +13818,9 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-offers-prayers-to-maa-kalaratri-during-navratri",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ONE DESPERATE SNATCHER THIEF ARRESTED BY THE STAFF OF P.S. VIJAY VIHAR.",
       "pib:2324629",
-      "gazette:CG-OR-E-17102026-277246"
+      "gazette:CG-OR-E-17102026-277246",
+      "gazette:CG-TL-E-17102026-277244",
+      "gazette:CG-DL-E-17102026-277245"
     ],
     "source_failures": {
       "CERT-In": {
@@ -13858,11 +13885,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791702660932",
-    "1791743992589",
-    "1791746794276",
-    "1791770155932",
-    "1791770400840",
     "1791772380023",
     "1791775980356",
     "1791777817517",
@@ -18205,7 +18227,6 @@
     "1792162819601",
     "1792190957048",
     "1792198045108",
-    "1792204200557",
     "1792126080895",
     "1792126358878",
     "1792126504994",
@@ -18251,21 +18272,17 @@
     "1792131214083",
     "1792134017536",
     "1792136357721",
-    "1792146720682",
     "1792149006319",
     "1792154601443",
-    "1792164829881",
     "1792210333819",
     "1792210419264",
     "1792210625839",
     "1792131404337",
     "1792131970688",
     "1792132175167",
-    "1792139620000",
     "1792141020693",
     "1792142092201",
     "1792145907537",
-    "1792148230209",
     "1792153634850",
     "1792156379593",
     "1792156871747",
@@ -18274,10 +18291,17 @@
     "1792178415415",
     "1792189533115",
     "1792191957735",
-    "1792204676160",
-    "1792209300999",
     "1792211823083",
     "1792214646109",
+    "1791504000385",
+    "1791936000447",
+    "1791936000514",
+    "1792022400459",
+    "1792144159816",
+    "1792148230655",
+    "1792166497185",
+    "1792204200080",
+    "1792209300033",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -19368,7 +19392,6 @@
     "1791482517990",
     "1791486107373",
     "1791493595788",
-    "1791504000385",
     "1791529200447",
     "1791529200692",
     "1791531884124",
@@ -19446,8 +19469,6 @@
     "1791914400160",
     "1791920587440",
     "1791936000122",
-    "1791936000447",
-    "1791936000514",
     "1791943214561",
     "1791957628160",
     "1791957660462",
@@ -19488,7 +19509,6 @@
     "1792011600719",
     "1792018860784",
     "1792022400425",
-    "1792022400459",
     "1792022400648",
     "1792025450282",
     "1792040412324",
@@ -19555,9 +19575,11 @@
     "1792138957196",
     "1792139093822",
     "1792139140775",
+    "1792139620000",
     "1792140894472",
     "1792141207333",
     "1792141592486",
+    "1792141620610",
     "1792141778525",
     "1792141926574",
     "1792142242931",
@@ -19567,7 +19589,6 @@
     "1792143519380",
     "1792143660965",
     "1792143727754",
-    "1792144159816",
     "1792144549133",
     "1792144929134",
     "1792145105699",
@@ -19579,7 +19600,9 @@
     "1792145924909",
     "1792146034701",
     "1792146691406",
+    "1792146720682",
     "1792146991603",
+    "1792147077816",
     "1792147099806",
     "1792147375045",
     "1792147489229",
@@ -19587,7 +19610,7 @@
     "1792147560119",
     "1792147788514",
     "1792147833143",
-    "1792148230655",
+    "1792148230209",
     "1792148401668",
     "1792148663381",
     "1792148810213",
@@ -19601,6 +19624,7 @@
     "1792150336159",
     "1792150639625",
     "1792150725733",
+    "1792150981793",
     "1792151155750",
     "1792151241692",
     "1792151491807",
@@ -19650,11 +19674,11 @@
     "1792164023307",
     "1792164063958",
     "1792164119006",
+    "1792164829881",
     "1792165012384",
     "1792165382182",
     "1792166400181",
     "1792166451803",
-    "1792166497185",
     "1792166700962",
     "1792167240058",
     "1792167910659",
@@ -19669,6 +19693,7 @@
     "1792172695281",
     "1792173193130",
     "1792173540947",
+    "1792173615630",
     "1792174258506",
     "1792174420610",
     "1792174495865",
@@ -19715,8 +19740,9 @@
     "1792202405935",
     "1792202669749",
     "1792204200062",
-    "1792204200080",
+    "1792204200557",
     "1792204479240",
+    "1792204676160",
     "1792204726020",
     "1792205145379",
     "1792205422004",
@@ -19735,7 +19761,7 @@
     "1792208690998",
     "1792208921234",
     "1792208927233",
-    "1792209300033",
+    "1792209300999",
     "1792209857816",
     "1792210285762",
     "1792210333221",
@@ -19774,6 +19800,7 @@
     "1792217764729",
     "1792218079156",
     "1792218267226",
+    "1792218915848",
     "2317509",
     "2317615",
     "2317714",
@@ -19860,7 +19887,7 @@
     "2324336"
   ],
   "last_digest_hour": "2026-10-17T12",
-  "last_success": "2026-10-17T06:31:19.950615+00:00",
+  "last_success": "2026-10-17T06:45:57.603530+00:00",
   "national": {
     "alerted": [
       {
@@ -27785,24 +27812,24 @@
       "CG-DL-E-17102026-277236",
       "CG-DL-E-17102026-277238",
       "CG-DL-E-17102026-277237",
-      "CG-OR-E-17102026-277246"
+      "CG-OR-E-17102026-277246",
+      "CG-DL-E-17102026-277245",
+      "CG-TL-E-17102026-277244"
     ],
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "CERT-In": "2026-10-17T06:37:13.964633+00:00",
-        "IRDAI": "2026-10-17T06:37:13.964633+00:00",
+        "NPCI": "2026-10-17T06:51:26.660978+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00",
         "State: Uttar Pradesh": "2026-10-16T14:02:43.760546+00:00"
       },
       "warned": "2026-10-16T21:06:57.994520+00:00"
     },
-    "last_run": "2026-10-17T06:37:40.015435+00:00",
+    "last_run": "2026-10-17T06:51:47.842793+00:00",
     "pib_mark": 2324629,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63689",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63690",
       "gazette:CG-DL-E-29092026-276605",
       "gazette:CG-DL-E-29092026-276607",
       "gazette:CG-DL-E-29092026-276606",
@@ -30266,6 +30293,11 @@
       "certin:CIAD-2026-0047",
       "certin:CIAD-2026-0048",
       "certin:CIAD-2026-0049",
+      "gazette:CG-DL-E-16102026-277200",
+      "gazette:CG-DL-E-16102026-277201",
+      "npci:617",
+      "npci:620",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168614",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -30286,9 +30318,7 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
-      "gazette:CG-DL-E-16102026-277200",
       "gazette:CG-DL-E-16102026-277202",
-      "gazette:CG-DL-E-16102026-277201",
       "gazette:CG-DL-E-16102026-277203",
       "gazette:CG-OR-E-16102026-277206",
       "gazette:CG-DL-E-16102026-277210",
@@ -30715,7 +30745,6 @@
       "mea:41667",
       "mea-ta:79",
       "mea:41665",
-      "npci:617",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-s-sengolancy-beaula-under-rc-no-7711-of-2024-in-the-matter-of-arvind-remedies-ltd-_105228.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-subhalakshmi-m-s-under-rc-no-7712-of-2024-in-the-matter-of-arvind-remedies-ltd-_105230.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sethujanani-under-rc-no-7709-of-2024-in-the-matter-of-arvind-remedies-ltd-_105226.html",
@@ -30733,7 +30762,6 @@
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-s-policytwin-prototype-wins-first-place-at-the-c-dir-global-agentic-regulator-hackathon_105265.html",
       "mea:41879",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-of-attachment-on-immovable-property-under-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105270.html",
-      "npci:620",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/honble-cm-sri-a-revanth-reddy-participated-in-the-launch-of-samakhya-chamber-of-commerce-scc-samakhya-2026-global-business-meet-at-hitex-hyd/",
       "mea:41880",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_2_Submission_LOC_15102026.pdf",
@@ -30769,7 +30797,6 @@
       "gazette:CG-DL-E-16102026-277221",
       "gazette:CG-UP-E-16102026-277227",
       "gazette:CG-DL-E-16102026-277229",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168614",
       "gazette:CG-WB-E-17102026-277231",
       "gazette:CG-DL-E-17102026-277225",
       "gazette:CG-DL-E-17102026-277233",
@@ -30800,7 +30827,9 @@
       "quake:ncs:cndveTViYnUycG1wN1pnbHlPRUVGZz09",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ONE DESPERATE SNATCHER THIEF ARRESTED BY THE STAFF OF P.S. VIJAY VIHAR.",
       "pib:2324629",
-      "gazette:CG-OR-E-17102026-277246"
+      "gazette:CG-OR-E-17102026-277246",
+      "gazette:CG-TL-E-17102026-277244",
+      "gazette:CG-DL-E-17102026-277245"
     ],
     "source_failures": {
       "CBI": {
@@ -30808,9 +30837,9 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "CERT-In": {
-        "count": 1
+        "count": 2
       },
-      "IRDAI": {
+      "NPCI": {
         "count": 1
       },
       "State: Maharashtra": {
@@ -31968,8 +31997,8 @@
     "news: global chips": 1792205820836,
     "news: global it services": 1792184077457,
     "news: india ai deeptech": 1792212496471,
-    "news: india edtech gaming": 1792144159816,
-    "news: india fintech": 1792213024069,
+    "news: india edtech gaming": 1792147077816,
+    "news: india fintech": 1792218915848,
     "news: india semiconductors": 1792155591236,
     "news: india tech policy": 1792210918888,
     "news: india telecom": 1792218079156,
@@ -32003,7 +32032,9 @@
     "zoho": 1791992131559
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG CERT-In": "2026-10-17T06:45:53.556656+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -32021,7 +32052,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-17T06:31:20.371081+00:00",
+    "last_server_run": "2026-10-17T06:45:58.018146+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-16T16:53:51.019876+00:00",
@@ -32665,6 +32696,7 @@
       "CG-DL-E-17102026-277236",
       "CG-DL-E-17102026-277237",
       "CG-DL-E-17102026-277238",
+      "CG-DL-E-17102026-277245",
       "CG-DL-E-18092026-276306",
       "CG-DL-E-18092026-276311",
       "CG-DL-E-18092026-276316",
@@ -33082,6 +33114,7 @@
       "CG-TL-E-16092026-276267",
       "CG-TL-E-16092026-276268",
       "CG-TL-E-17102026-277235",
+      "CG-TL-E-17102026-277244",
       "CG-TL-E-18092026-276314",
       "CG-TL-E-23092026-276406",
       "CG-TL-E-28092026-276551",
@@ -34514,11 +34547,26 @@
           "union",
           "vk7doxnzy"
         ]
+      },
+      {
+        "at": "2026-10-17T06:51:54.826806+00:00",
+        "headline": "Open your National Pension System account digitally in three clicks using popular apps.",
+        "url": "https://x.com/MyGovHindi/status/2111334224305500340",
+        "words": [
+          "bhim",
+          "digitalindia",
+          "https",
+          "nps",
+          "nsuidwuv2u",
+          "phonepe",
+          "tatkal",
+          "tatkalnps"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-17T06:37:42.291109+00:00",
+    "last_run": "2026-10-17T06:51:54.826881+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -35321,7 +35369,12 @@
       "x:2111333721022386393",
       "x:2111335883219911094",
       "x:2111336570297213189",
-      "x:2111341137885798617"
+      "x:2111341137885798617",
+      "x:2111334224305500340",
+      "x:2111346789408542848",
+      "x:2111347237338902559",
+      "x:2111347341102080285",
+      "x:2111348035166867649"
     ],
     "source_failures": {},
     "sources": []
