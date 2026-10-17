@@ -11922,8 +11922,8 @@
         "State: Uttar Pradesh": "2026-10-16T14:03:44.445933+00:00"
       }
     },
-    "last_run": "2026-10-17T08:37:08.676205+00:00",
-    "pib_mark": 2324637,
+    "last_run": "2026-10-17T08:50:48.484696+00:00",
+    "pib_mark": 2324638,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -13397,6 +13397,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168617",
+      "site:GDACS disaster alerts|https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
@@ -13831,7 +13832,6 @@
       "gazette:CG-DL-E-17102026-277236",
       "gazette:CG-DL-E-17102026-277237",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-national-security-guard-personnel-on-raising-day",
-      "site:GDACS disaster alerts|https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
       "pib:2324612",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7114-of-2026-filed-by-a-balamurugan_105319.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7105-of-2026-filed-by-bharat-bhushan-singh_105306.html",
@@ -13854,7 +13854,8 @@
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|CENTRAL DISTRICT TIGHTENS NOOSE AROUND ILLEGAL ACTIVITIES AT SPAS, JOINT CRACKDOWN BY PS NABI KARIM AND PS PAHARGANJ.",
       "page:https://internal.imd.gov.in/press_release/20261017_pr_5413.pdf",
       "dgft-public-notice:30f7da90-cb2f-4ef6-aa9b-77cf7767702d",
-      "pib:2324637"
+      "pib:2324637",
+      "pib:2324638"
     ],
     "source_failures": {
       "CERT-In": {
@@ -13919,8 +13920,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791770160886",
-    "1791772080546",
     "1791775980897",
     "1791777038738",
     "1791785113263",
@@ -18274,7 +18273,6 @@
     "1792166504061",
     "1792178415415",
     "1792191957735",
-    "1792214646109",
     "1792144159816",
     "1792204200080",
     "1792209300033",
@@ -18313,7 +18311,6 @@
     "1792156871747",
     "1792159553460",
     "1792189533115",
-    "1792210484678",
     "1792212054318",
     "1792141020693",
     "1792157303371",
@@ -18324,19 +18321,20 @@
     "1792217760370",
     "1792138957196",
     "1792139140775",
-    "1792140894472",
     "1792143519380",
     "1792148230209",
     "1792166700962",
-    "1792168200213",
     "1792170584029",
     "1792172695281",
     "1792198144108",
     "1792211164460",
     "1792217284083",
-    "1792220801751",
     "1792221140434",
-    "1792221544857",
+    "1792169820779",
+    "1792182488622",
+    "1792193474493",
+    "1792214646126",
+    "1792221544768",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -19600,6 +19598,7 @@
     "1792137600691",
     "1792138885976",
     "1792139093822",
+    "1792140894472",
     "1792141207333",
     "1792141429476",
     "1792141620610",
@@ -19700,8 +19699,8 @@
     "1792166451803",
     "1792167240058",
     "1792167910659",
+    "1792168200213",
     "1792168723919",
-    "1792169820779",
     "1792170177570",
     "1792170584350",
     "1792170585223",
@@ -19728,7 +19727,6 @@
     "1792178932745",
     "1792180474314",
     "1792181101908",
-    "1792182488622",
     "1792182795277",
     "1792184044228",
     "1792184341088",
@@ -19742,7 +19740,6 @@
     "1792192860694",
     "1792192922692",
     "1792193277225",
-    "1792193474493",
     "1792193700003",
     "1792194124721",
     "1792195200994",
@@ -19784,6 +19781,7 @@
     "1792210285762",
     "1792210333221",
     "1792210419110",
+    "1792210484678",
     "1792210578292",
     "1792210600771",
     "1792210625687",
@@ -19806,9 +19804,10 @@
     "1792214255905",
     "1792214391011",
     "1792214520372",
-    "1792214646126",
+    "1792214646109",
     "1792215046943",
     "1792215070246",
+    "1792216235738",
     "1792216396793",
     "1792216712134",
     "1792216800993",
@@ -19824,7 +19823,8 @@
     "1792219327467",
     "1792220314867",
     "1792220760337",
-    "1792221544768",
+    "1792220801751",
+    "1792221544857",
     "1792221776584",
     "1792221864372",
     "1792222070757",
@@ -19835,6 +19835,7 @@
     "1792224570396",
     "1792225065407",
     "1792225437427",
+    "1792225680077",
     "2317509",
     "2317615",
     "2317714",
@@ -19921,7 +19922,7 @@
     "2324336"
   ],
   "last_digest_hour": "2026-10-17T14",
-  "last_success": "2026-10-17T08:31:34.344545+00:00",
+  "last_success": "2026-10-17T08:46:01.161321+00:00",
   "national": {
     "alerted": [
       {
@@ -27883,10 +27884,9 @@
       },
       "warned": "2026-10-16T21:06:57.994520+00:00"
     },
-    "last_run": "2026-10-17T08:36:45.781716+00:00",
-    "pib_mark": 2324637,
+    "last_run": "2026-10-17T08:50:33.751535+00:00",
+    "pib_mark": 2324638,
     "seen": [
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E2%80%93+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+%E0%A4%89%E0%A4%AA-%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A4%BE+%E0%A4%97%E0%A4%A0%E0%A4%A8+_+Constitution+of+Insurance+Advisory+Committee+-+Sub-committee+on+Health+Insurance.pdf/c0b1710b-6547-15fc-12a3-0c3b4e654fad",
       "gazette:CG-DL-E-29092026-276608",
       "gazette:CG-DL-E-29092026-276609",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-six-qualities-that-invite-success",
@@ -30364,6 +30364,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168617",
+      "site:GDACS disaster alerts|https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "npci:617",
@@ -30860,7 +30861,6 @@
       "gazette:CG-DL-E-17102026-277238",
       "gazette:CG-DL-E-17102026-277237",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-national-security-guard-personnel-on-raising-day",
-      "site:GDACS disaster alerts|https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
       "quake:ncs:dVBmeEQxeCtQSWo5YU5VYm5VVS9YQT09",
       "pib:2324612",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7112-of-2026-filed-by-ranjeet-kumar-swain_105317.html",
@@ -30885,7 +30885,8 @@
       "page:https://internal.imd.gov.in/press_release/20261017_pr_5413.pdf",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|CENTRAL DISTRICT TIGHTENS NOOSE AROUND ILLEGAL ACTIVITIES AT SPAS, JOINT CRACKDOWN BY PS NABI KARIM AND PS PAHARGANJ.",
       "dgft-public-notice:30f7da90-cb2f-4ef6-aa9b-77cf7767702d",
-      "pib:2324637"
+      "pib:2324637",
+      "pib:2324638"
     ],
     "source_failures": {
       "CBI": {
@@ -32048,7 +32049,7 @@
     "news: big tech platforms": 1792224570396,
     "news: consumer internet india": 1792217778752,
     "news: global ai": 1792225065407,
-    "news: global chips": 1792220801751,
+    "news: global chips": 1792225680077,
     "news: global it services": 1792214255905,
     "news: india ai deeptech": 1792212496471,
     "news: india edtech gaming": 1792147077816,
@@ -32104,7 +32105,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-17T08:31:34.738807+00:00",
+    "last_server_run": "2026-10-17T08:46:01.594351+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-16T16:53:51.019876+00:00",
@@ -34618,7 +34619,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-17T08:36:53.494330+00:00",
+    "last_run": "2026-10-17T08:50:36.602511+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
