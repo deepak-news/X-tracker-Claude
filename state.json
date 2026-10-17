@@ -11524,6 +11524,50 @@
           "restricting",
           "six"
         ]
+      },
+      {
+        "at": "2026-10-17T10:07:03.844926+00:00",
+        "handle": "PIB Ministry of Defence",
+        "headline": "Vice Admiral Sanjay Vatsayan inaugurates new infrastructure under Project Seabird",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324655",
+        "words": [
+          "admiral",
+          "defence",
+          "foc",
+          "inauguration",
+          "infrastructure",
+          "ministry",
+          "project",
+          "sanjay",
+          "seabird",
+          "vatsayan",
+          "vice",
+          "wnc"
+        ]
+      },
+      {
+        "at": "2026-10-17T10:07:03.844926+00:00",
+        "handle": "PIB Ministry of Health and Family Welfare",
+        "headline": "FSSAI proposes new science-based pesticide residue limits for tea",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324656",
+        "words": [
+          "based",
+          "commitment",
+          "consumer",
+          "family",
+          "fssai",
+          "health",
+          "limits",
+          "ministry",
+          "pesticide",
+          "proposes",
+          "reaffirming",
+          "residue",
+          "safety",
+          "science"
+        ]
       }
     ],
     "gazette_mark": 277246,
@@ -11921,8 +11965,8 @@
         "CERT-In": "2026-10-17T06:07:41.976450+00:00"
       }
     },
-    "last_run": "2026-10-17T09:51:46.163231+00:00",
-    "pib_mark": 2324638,
+    "last_run": "2026-10-17T10:07:03.846084+00:00",
+    "pib_mark": 2324656,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -13860,7 +13904,9 @@
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAM OF PS RAJ PARK",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|OUTER DISTRICT CRACKDOWN ON PROCLAIMED OFFENDERS.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|PS SHAHBAD DAIRY SOLVES ROBBERY CASE, TWO ACCUSED ARRESTED, 11 MOBILE PHONES AND ILLEGAL KNIFE RECOVERED.",
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|METRO VIHAR TEAM BUSTS ILLICIT LIQUOR TRANSPORTATION RACKET, 52 CARTONS OF LIQUOR RECOVERED, VEHICLE SEIZED, ONE ACCUSED ARRESTED."
+      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|METRO VIHAR TEAM BUSTS ILLICIT LIQUOR TRANSPORTATION RACKET, 52 CARTONS OF LIQUOR RECOVERED, VEHICLE SEIZED, ONE ACCUSED ARRESTED.",
+      "pib:2324656",
+      "pib:2324655"
     ],
     "source_failures": {
       "CERT-In": {
@@ -13921,9 +13967,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791790857661",
-    "1791792540161",
-    "1789631212934",
     "1791707839668",
     "1791708307777",
     "1791779895551",
@@ -18335,9 +18378,6 @@
     "1792143727754",
     "1792144363163",
     "1792147077816",
-    "1792153634850",
-    "1792156379593",
-    "1792156871747",
     "1792162814910",
     "1792174420610",
     "1792193040855",
@@ -18346,10 +18386,17 @@
     "1792210333221",
     "1792211469147",
     "1792219085020",
-    "1792222926709",
-    "1792223367490",
-    "1792224115647",
     "1792228060266",
+    "1791450114089",
+    "1791462448045",
+    "1791531884124",
+    "1792157804444",
+    "1792162857068",
+    "1792167240058",
+    "1792191797647",
+    "1792219680705",
+    "1792222954133",
+    "1792225215020",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -19421,14 +19468,12 @@
     "1791439200039",
     "1791444709443",
     "1791445746402",
-    "1791450114089",
     "1791460560128",
     "1791460620291",
     "1791460680349",
     "1791460740060",
     "1791460800150",
     "1791460800970",
-    "1791462448045",
     "1791464344633",
     "1791464446338",
     "1791469860470",
@@ -19443,7 +19488,6 @@
     "1791504000385",
     "1791529200447",
     "1791529200692",
-    "1791531884124",
     "1791532800111",
     "1791538302719",
     "1791543059634",
@@ -19661,6 +19705,7 @@
     "1792153031362",
     "1792153191752",
     "1792153241400",
+    "1792153634850",
     "1792154190185",
     "1792154580537",
     "1792154970425",
@@ -19671,10 +19716,11 @@
     "1792156091378",
     "1792156286424",
     "1792156303470",
+    "1792156379593",
     "1792156540393",
     "1792156708216",
     "1792156708454",
-    "1792157804444",
+    "1792156871747",
     "1792158001340",
     "1792158396936",
     "1792158799915",
@@ -19687,7 +19733,6 @@
     "1792161323078",
     "1792162173721",
     "1792162800202",
-    "1792162857068",
     "1792163498647",
     "1792164023307",
     "1792164063958",
@@ -19696,7 +19741,6 @@
     "1792165382182",
     "1792166400181",
     "1792166451803",
-    "1792167240058",
     "1792167910659",
     "1792168723919",
     "1792170177570",
@@ -19732,7 +19776,6 @@
     "1792185878639",
     "1792188516859",
     "1792190957048",
-    "1792191797647",
     "1792192578115",
     "1792192860694",
     "1792192922692",
@@ -19812,7 +19855,6 @@
     "1792218925893",
     "1792219279199",
     "1792219327467",
-    "1792219680705",
     "1792220314867",
     "1792220760337",
     "1792220801751",
@@ -19823,17 +19865,21 @@
     "1792222214978",
     "1792222346025",
     "1792222401414",
-    "1792222954133",
+    "1792222926709",
+    "1792222983074",
     "1792223336816",
+    "1792223367490",
     "1792224094271",
+    "1792224115647",
+    "1792224450000",
     "1792224570396",
     "1792224720965",
     "1792225065407",
-    "1792225215020",
     "1792225437427",
     "1792225680077",
     "1792226683943",
     "1792226940682",
+    "1792227783266",
     "1792228175345",
     "1792228680960",
     "1792228786742",
@@ -19923,7 +19969,7 @@
     "2324336"
   ],
   "last_digest_hour": "2026-10-17T15",
-  "last_success": "2026-10-17T09:46:02.380409+00:00",
+  "last_success": "2026-10-17T10:01:39.367289+00:00",
   "national": {
     "alerted": [
       {
@@ -27884,11 +27930,9 @@
       },
       "warned": "2026-10-16T21:06:57.994520+00:00"
     },
-    "last_run": "2026-10-17T09:51:08.041002+00:00",
-    "pib_mark": 2324638,
+    "last_run": "2026-10-17T10:06:44.286656+00:00",
+    "pib_mark": 2324656,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-delhi-meets-pm-2",
-      "page:https://internal.imd.gov.in/press_release/20260813_pr_5232.pdf",
       "page:https://internal.imd.gov.in/press_release/20260814_pr_5234.pdf",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63693",
       "page:https://internal.imd.gov.in/press_release/20260815_pr_5236.pdf",
@@ -30886,7 +30930,9 @@
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAM OF PS RAJ PARK",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|METRO VIHAR TEAM BUSTS ILLICIT LIQUOR TRANSPORTATION RACKET, 52 CARTONS OF LIQUOR RECOVERED, VEHICLE SEIZED, ONE ACCUSED ARRESTED.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|SPECIAL STAFF OF OUTER DISTRICT CRACKDOWN ON ILLEGAL TRADE OF DRUGS.",
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|OUTER DISTRICT CRACKDOWN ON PROCLAIMED OFFENDERS."
+      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|OUTER DISTRICT CRACKDOWN ON PROCLAIMED OFFENDERS.",
+      "pib:2324656",
+      "pib:2324655"
     ],
     "source_failures": {
       "CBI": {
@@ -32101,7 +32147,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-17T09:46:02.803515+00:00",
+    "last_server_run": "2026-10-17T10:01:39.759534+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-16T16:53:51.019876+00:00",
@@ -34648,7 +34694,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-17T09:51:13.071390+00:00",
+    "last_run": "2026-10-17T10:06:47.889929+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -35486,7 +35532,8 @@
       "x:2111388755542380742",
       "x:2111389574165627377",
       "x:2111384748413026812",
-      "x:2111392770661421467"
+      "x:2111392770661421467",
+      "x:2111394091246424498"
     ],
     "source_failures": {},
     "sources": []
