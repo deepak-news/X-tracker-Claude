@@ -2,24 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-11T19:31:14.021066+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "TCS COO says Tata Sons board tussle has no impact",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRlpkSjJEQjV5V1Rtc1Vzam1KUXNlb3ZaMXFrZEx6OTFXQmtJWExRb0VjRzB0RjZMWDJsLUp5d0E0MFd4b1l6V1FYWmNfbXJWNFV1b0liVGZySWtvbVhISUlYRWVtRXplQUM4dUF5REljTTZuYjlSRkdlRnpORUswUmFHQXhhcHl4dW1FQXd6bEc5Q1JWUkdmZnlXUEt2VjBRR1Fia0N5dm53d0RvMXJjUEctbDJHcEI1MlVRaGVNOUlrSGo3cE9LREdRcG5mWXdnaGfSAdcBQVVfeXFMTkJMdTNFMG81bV9iYkVNQmhOVmhBOTdNT3UtQnF0bjhzNzQtWDA4RkxReGFwYWM2Si02OUp0SFhyeFptUklNUEg4aS1nNFZ5NDFMSEpUUnFyRnM4aVpLOTU5c1paMFBmd19kUFV3cWNKdmlWYXJXRjR3TEpNY0s3YnlBZXVpT1FkME84WG5zeEViaE56NjJyQ1IzcFltRDNURWRGeWQ5RGNvZlcyRURuSGpmLVpCcEdIR00tblphZ0l1WUJ0X29BZ1NLMkdQcnRWSU9uMUZNclU?oc=5",
-      "words": [
-        "aarthi",
-        "board",
-        "coo",
-        "impact",
-        "sons",
-        "subramanian",
-        "tata",
-        "tcs",
-        "tussle"
-      ]
-    },
-    {
-      "at": "2026-10-11T19:31:14.021066+00:00",
       "handle": "News: India tech policy",
       "headline": "AEROs allege pressure to clear regulatory notices without hearings",
       "tier": 0,
@@ -7432,6 +7414,23 @@
         "offers",
         "yield"
       ]
+    },
+    {
+      "at": "2026-10-17T02:31:14.584787+00:00",
+      "handle": "News: Global AI",
+      "headline": "Silicon Valley braces for espionage threats before OpenAI arrest",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnBiNmtxZnVTNHNrVEt3d1F4U015UHZaYS0xV1BVWmZMRjFRcFFUNmp5WjBOaExjWkxOaEZEUktxOUt4bFR5ekFGSWUzRTl4NGNCSXVwMTczUXpQTkVlMUZTeU1UaWNkdzRUWWV3Tng1ei1rWVpaYkl0NHQ1SDFJc0FzMGlkRUFPYkpwTERwYjZsU3UyNWZMTlRNY1RKdUxRMkE?oc=5",
+      "words": [
+        "arrest",
+        "before",
+        "bracing",
+        "even",
+        "openai",
+        "silicon",
+        "spies",
+        "valley"
+      ]
     }
   ],
   "bureau": {
@@ -11852,7 +11851,7 @@
         "State: Uttar Pradesh": "2026-10-16T14:03:44.445933+00:00"
       }
     },
-    "last_run": "2026-10-17T02:21:32.278197+00:00",
+    "last_run": "2026-10-17T02:37:32.664145+00:00",
     "pib_mark": 2324612,
     "seen": [
       "pib:2320137",
@@ -13302,6 +13301,14 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168610",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sasikala-under-rc-no-7699-of-2024-in-the-matter-of-arvind-remedies-ltd-_105220.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-shreyanse-finance-ltd-under-rc-no-7708-of-2024-in-the-matter-of-arvind-remedies-ltd-_105224.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-solomon-y-under-rc-no-7706-of-2024-in-the-matter-of-arvind-remedies-ltd-_105218.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-murali-prakash-naidu-under-rc-no-7707-of-2024-in-the-matter-of-arvind-remedies-ltd-_105222.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-raja-p-under-rc-no-7704-of-2024-in-the-matter-of-arvind-remedies-ltd-_105216.html",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168611",
+      "site:Delhi Police press releases|dp-newpressrelease:16/10/2026|SWIFT ACTION BY PS MAYAPURI LEADS TO ARREST OF TWO ROBBERY ACCUSED ROBBED MOBILE PHONE RECOVERED",
+      "site:Delhi Police press releases|dp-newpressrelease:16/10/2026|GAMBLING DEN BUSTED AT A HOTEL IN TILAK NAGAR BY SPECIAL STAFF SEVEN PERSONS APPREHENDED, 1,57,920 CASH , 104 PLAYING CARDS RECOVERED",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
@@ -13680,13 +13687,8 @@
       "mea:41343",
       "mea-ta:73",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sethujanani-under-rc-no-7709-of-2024-in-the-matter-of-arvind-remedies-ltd-_105226.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sasikala-under-rc-no-7699-of-2024-in-the-matter-of-arvind-remedies-ltd-_105220.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-s-sengolancy-beaula-under-rc-no-7711-of-2024-in-the-matter-of-arvind-remedies-ltd-_105228.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-shreyanse-finance-ltd-under-rc-no-7708-of-2024-in-the-matter-of-arvind-remedies-ltd-_105224.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-solomon-y-under-rc-no-7706-of-2024-in-the-matter-of-arvind-remedies-ltd-_105218.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-murali-prakash-naidu-under-rc-no-7707-of-2024-in-the-matter-of-arvind-remedies-ltd-_105222.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-subhalakshmi-m-s-under-rc-no-7712-of-2024-in-the-matter-of-arvind-remedies-ltd-_105230.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-raja-p-under-rc-no-7704-of-2024-in-the-matter-of-arvind-remedies-ltd-_105216.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-under-recovery-certificate-number-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-investigation-in-the-matter-of-market-manipulatio-_105240.html",
       "feed:http://www.niti.gov.in/node/2442",
       "feed:http://www.niti.gov.in/node/2443",
@@ -13725,12 +13727,9 @@
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7099-of-2026-filed-by-vikram-aggarwal_105303.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7111-of-2026-filed-by-bidish-das_105307.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7104-of-2026-filed-by-sunil-kumar_105304.html",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168611",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7113-of-2026-filed-by-s-srinivas_105312.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7097-of-2026-filed-by-surendra-champalaji-jain_105301.html",
       "mea:41884",
-      "site:Delhi Police press releases|dp-newpressrelease:16/10/2026|SWIFT ACTION BY PS MAYAPURI LEADS TO ARREST OF TWO ROBBERY ACCUSED ROBBED MOBILE PHONE RECOVERED",
-      "site:Delhi Police press releases|dp-newpressrelease:16/10/2026|GAMBLING DEN BUSTED AT A HOTEL IN TILAK NAGAR BY SPECIAL STAFF SEVEN PERSONS APPREHENDED, 1,57,920 CASH , 104 PLAYING CARDS RECOVERED",
       "mea:41886",
       "site:ai:ISRO|https://www.isro.gov.in/LOX_Methane_engine.html",
       "site:ai:ISRO|https://www.isro.gov.in/Aditya_L1_Mission_soliciting_proposals_for_the_fourth_AO_cycle_observations.html",
@@ -13761,7 +13760,12 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-national-security-guard-personnel-on-raising-day",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168617",
       "site:GDACS disaster alerts|https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
-      "pib:2324612"
+      "pib:2324612",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7114-of-2026-filed-by-a-balamurugan_105319.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7105-of-2026-filed-by-bharat-bhushan-singh_105306.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7115-of-2026-filed-by-prem-kumar-gurusamy_105311.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7112-of-2026-filed-by-ranjeet-kumar-swain_105317.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7107-of-2026-filed-by-deepali-singhal_105321.html"
     ],
     "source_failures": {
       "State: Uttar Pradesh": {
@@ -18215,13 +18219,22 @@
     "1791450114089",
     "1791462448045",
     "1791531884124",
-    "1792125003845",
-    "1792160875582",
-    "1792162814910",
-    "1792165444053",
     "1792173671523",
     "1792192922692",
     "1792193373303",
+    "1792117740865",
+    "1792117811149",
+    "1792136573937",
+    "1792139514738",
+    "1792140780403",
+    "1792145914515",
+    "1792153331181",
+    "1792157303371",
+    "1792160875823",
+    "1792164991628",
+    "1792165435535",
+    "1792170981979",
+    "1792198676583",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -19477,8 +19490,6 @@
     "1792087200822",
     "1792090800062",
     "1792108800380",
-    "1792117740865",
-    "1792117811149",
     "1792117873305",
     "1792118576923",
     "1792119120726",
@@ -19498,6 +19509,7 @@
     "1792124533236",
     "1792124655944",
     "1792124700327",
+    "1792125003845",
     "1792125060420",
     "1792125451849",
     "1792125607579",
@@ -19540,7 +19552,6 @@
     "1792135682345",
     "1792135785203",
     "1792135840508",
-    "1792136573937",
     "1792137064008",
     "1792137561435",
     "1792137600691",
@@ -19549,9 +19560,7 @@
     "1792139093822",
     "1792139140775",
     "1792139400131",
-    "1792139514738",
     "1792139620000",
-    "1792140780403",
     "1792140894472",
     "1792141020513",
     "1792141207333",
@@ -19575,7 +19584,6 @@
     "1792145340968",
     "1792145425297",
     "1792145907537",
-    "1792145914515",
     "1792145924909",
     "1792146034701",
     "1792146475881",
@@ -19620,7 +19628,6 @@
     "1792153169933",
     "1792153191752",
     "1792153241400",
-    "1792153331181",
     "1792153634850",
     "1792154190185",
     "1792154580537",
@@ -19638,7 +19645,6 @@
     "1792156540393",
     "1792156708216",
     "1792156871747",
-    "1792157303371",
     "1792157804444",
     "1792158001340",
     "1792158396936",
@@ -19647,11 +19653,12 @@
     "1792159869461",
     "1792159980240",
     "1792160058484",
-    "1792160875823",
+    "1792160875582",
     "1792161323078",
     "1792162161128",
     "1792162173721",
     "1792162800202",
+    "1792162814910",
     "1792162819601",
     "1792162857068",
     "1792163498647",
@@ -19659,10 +19666,9 @@
     "1792164063958",
     "1792164119006",
     "1792164829881",
-    "1792164991628",
     "1792165012384",
     "1792165382182",
-    "1792165435535",
+    "1792165444053",
     "1792166400181",
     "1792166451803",
     "1792166497185",
@@ -19676,7 +19682,6 @@
     "1792170584029",
     "1792170585223",
     "1792170927023",
-    "1792170981979",
     "1792171186059",
     "1792171260682",
     "1792171759355",
@@ -19730,7 +19735,6 @@
     "1792197960344",
     "1792198045108",
     "1792198620818",
-    "1792198676583",
     "1792199887758",
     "1792200188154",
     "1792200604042",
@@ -19823,8 +19827,8 @@
     "2324335",
     "2324336"
   ],
-  "last_digest_hour": "2026-10-17T07",
-  "last_success": "2026-10-17T02:16:00.783832+00:00",
+  "last_digest_hour": "2026-10-17T08",
+  "last_success": "2026-10-17T02:31:14.586156+00:00",
   "national": {
     "alerted": [
       {
@@ -27759,14 +27763,9 @@
       },
       "warned": "2026-10-16T21:06:57.994520+00:00"
     },
-    "last_run": "2026-10-17T02:21:10.534452+00:00",
+    "last_run": "2026-10-17T02:36:39.841586+00:00",
     "pib_mark": 2324612,
     "seen": [
-      "gazette:CG-DL-E-29092026-276596",
-      "gazette:CG-DL-E-29092026-276599",
-      "gazette:CG-DL-E-29092026-276598",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63686",
-      "gazette:CG-DL-E-29092026-276600",
       "gazette:CG-DL-E-29092026-276601",
       "gazette:CG-DL-E-29092026-276602",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63687",
@@ -30239,6 +30238,14 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168610",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sasikala-under-rc-no-7699-of-2024-in-the-matter-of-arvind-remedies-ltd-_105220.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-solomon-y-under-rc-no-7706-of-2024-in-the-matter-of-arvind-remedies-ltd-_105218.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-raja-p-under-rc-no-7704-of-2024-in-the-matter-of-arvind-remedies-ltd-_105216.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-shreyanse-finance-ltd-under-rc-no-7708-of-2024-in-the-matter-of-arvind-remedies-ltd-_105224.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-murali-prakash-naidu-under-rc-no-7707-of-2024-in-the-matter-of-arvind-remedies-ltd-_105222.html",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168611",
+      "site:Delhi Police press releases|dp-newpressrelease:16/10/2026|SWIFT ACTION BY PS MAYAPURI LEADS TO ARREST OF TWO ROBBERY ACCUSED ROBBED MOBILE PHONE RECOVERED",
+      "site:Delhi Police press releases|dp-newpressrelease:16/10/2026|GAMBLING DEN BUSTED AT A HOTEL IN TILAK NAGAR BY SPECIAL STAFF SEVEN PERSONS APPREHENDED, 1,57,920 CASH , 104 PLAYING CARDS RECOVERED",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "certin:CIAD-2026-0046",
@@ -30676,13 +30683,8 @@
       "mea:41665",
       "npci:617",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-s-sengolancy-beaula-under-rc-no-7711-of-2024-in-the-matter-of-arvind-remedies-ltd-_105228.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sasikala-under-rc-no-7699-of-2024-in-the-matter-of-arvind-remedies-ltd-_105220.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-solomon-y-under-rc-no-7706-of-2024-in-the-matter-of-arvind-remedies-ltd-_105218.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-raja-p-under-rc-no-7704-of-2024-in-the-matter-of-arvind-remedies-ltd-_105216.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-subhalakshmi-m-s-under-rc-no-7712-of-2024-in-the-matter-of-arvind-remedies-ltd-_105230.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-shreyanse-finance-ltd-under-rc-no-7708-of-2024-in-the-matter-of-arvind-remedies-ltd-_105224.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sethujanani-under-rc-no-7709-of-2024-in-the-matter-of-arvind-remedies-ltd-_105226.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-murali-prakash-naidu-under-rc-no-7707-of-2024-in-the-matter-of-arvind-remedies-ltd-_105222.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-under-recovery-certificate-number-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-investigation-in-the-matter-of-market-manipulatio-_105240.html",
       "feed:http://www.niti.gov.in/node/2442",
       "feed:http://www.niti.gov.in/node/2443",
@@ -30722,13 +30724,10 @@
       "mea:41884",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7097-of-2026-filed-by-surendra-champalaji-jain_105301.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7099-of-2026-filed-by-vikram-aggarwal_105303.html",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168611",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7111-of-2026-filed-by-bidish-das_105307.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7110-of-2026-filed-by-vikram-aggarwal_105309.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7104-of-2026-filed-by-sunil-kumar_105304.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7113-of-2026-filed-by-s-srinivas_105312.html",
-      "site:Delhi Police press releases|dp-newpressrelease:16/10/2026|SWIFT ACTION BY PS MAYAPURI LEADS TO ARREST OF TWO ROBBERY ACCUSED ROBBED MOBILE PHONE RECOVERED",
-      "site:Delhi Police press releases|dp-newpressrelease:16/10/2026|GAMBLING DEN BUSTED AT A HOTEL IN TILAK NAGAR BY SPECIAL STAFF SEVEN PERSONS APPREHENDED, 1,57,920 CASH , 104 PLAYING CARDS RECOVERED",
       "mea:41886",
       "site:BCCI|https://www.bcci.tv/news/article/indias-odi-and-test-squads-for-new-zealand-tour-announced",
       "site:ai:ISRO|https://www.isro.gov.in/Aditya_L1_Mission_soliciting_proposals_for_the_fourth_AO_cycle_observations.html",
@@ -30761,7 +30760,12 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168617",
       "site:GDACS disaster alerts|https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
       "quake:ncs:dVBmeEQxeCtQSWo5YU5VYm5VVS9YQT09",
-      "pib:2324612"
+      "pib:2324612",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7112-of-2026-filed-by-ranjeet-kumar-swain_105317.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7115-of-2026-filed-by-prem-kumar-gurusamy_105311.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7105-of-2026-filed-by-bharat-bhushan-singh_105306.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7114-of-2026-filed-by-a-balamurugan_105319.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7107-of-2026-filed-by-deepali-singhal_105321.html"
     ],
     "source_failures": {
       "CBI": {
@@ -30832,26 +30836,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Silicon Valley braces for espionage threats before OpenAI arrest",
-      "post": {
-        "created_at": "2026-10-16T23:29:33+00:00",
-        "handle": "News: Global AI",
-        "id": "1792193373303",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "WSJ",
-        "reposts": 0,
-        "text": "Even Before OpenAI Arrest, Silicon Valley Was Bracing for Spies",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnBiNmtxZnVTNHNrVEt3d1F4U015UHZaYS0xV1BVWmZMRjFRcFFUNmp5WjBOaExjWkxOaEZEUktxOUt4bFR5ekFGSWUzRTl4NGNCSXVwMTczUXpQTkVlMUZTeU1UaWNkdzRUWWV3Tng1ei1rWVpaYkl0NHQ1SDFJc0FzMGlkRUFPYkpwTERwYjZsU3UyNWZMTlRNY1RKdUxRMkE?oc=5"
-      },
-      "queued_at": "2026-10-17T02:01:25.513448+00:00",
-      "score": 7.0,
-      "why": "It is a significant security disclosure regarding AI industry espionage."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -31995,7 +31980,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-17T02:16:01.403756+00:00",
+    "last_server_run": "2026-10-17T02:31:14.993219+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-16T16:53:51.019876+00:00",
@@ -34429,7 +34414,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-17T02:21:13.394147+00:00",
+    "last_run": "2026-10-17T02:36:53.707083+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -35199,7 +35184,9 @@
       "x:2111157586716422554",
       "x:2111166842207404487",
       "x:2111276011560301025",
-      "x:2111276014299132285"
+      "x:2111276014299132285",
+      "x:2111283559239406021",
+      "x:2111283569905840279"
     ],
     "source_failures": {},
     "sources": []
