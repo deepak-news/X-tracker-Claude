@@ -1,24 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-12T04:31:18.508205+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "HCLTech and 18 firms report Q2 earnings today",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ18wSXFnSnd6UkZqUG9DM0tNVzZQSl9adEZRQUdWcGxkemQwWklPXzRYMGEzNy1uOGp1MTAtbjRnZUNUQlkxMlVGSUJDRWNuUlZLTENtM0l5cllJbTB6Vk1aRkZPczU0dG1wYXZpRHcyWHVqN3pITFFFTTE3a3dmQm1hc0RBX0dYQk1fV2lrdkJYU2QwMGxKX0tLTU5HUm9nanBqeERiNUJxOXh5RHZfSTRuMXRIaHNBSDlKaEdRRUsxX1M0UUVkQVhDdW56RUpHVE05d1M3UjZ1dmZ1YXl3cHVSWVfSAeoBQVVfeXFMUFJ4UExIT0tJVGlicGt5bFQ0Y1g4SG9kZnBDSWN4anc4QmRralg0NDdqQXd3bFREU0paYTNqUDFFRWRzNHpXbVRXRVhobjZQYVhUUjNCM05NMFlQRHJ3cnQ2b2NfREZTZUlnX3VNdFMwb2tRODlRV3k1TXZRM0dpWEx6ZDhxMTgtWjM2aGwxTlVzSVpKS0JCU3BUaW84MWlLalJEQkZSUGcwR29RZHhKb3d3aXBWaFVKeFZCN3RTcmZMOXNOZWlqZmo4TnpOc2pJc2FfcXdNblNGeGlIdk5tUHhXQ0ZFajlHNnhR?oc=5",
-      "words": [
-        "among",
-        "earnings",
-        "firms",
-        "hcltech",
-        "icici",
-        "pru",
-        "report",
-        "results",
-        "today"
-      ]
-    },
-    {
       "at": "2026-10-12T05:31:36.267778+00:00",
       "handle": "PIB Science and Technology",
       "headline": "TDB-DST signs Rs 86 crore agreement with Peptris for AI drug discovery",
@@ -7436,6 +7418,25 @@
         "times",
         "work"
       ]
+    },
+    {
+      "at": "2026-10-17T10:31:26.838685+00:00",
+      "handle": "News: Global chips",
+      "headline": "TSMC 3nm Kumamoto plant wins Japanese approval and $4.1B aid",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcklRS1E0NlZkUVQxemRmNmtXazhvSzFNSFJVYzkxRGVZMkh1THZkdmlYc01GbVNfV0diSlFQZzBxakdYa0hpcGNubXZvcVo5WjYzTnBYNWhLNkI0YUJmSm5pX3A4c1YxY1NUdHdlVFpHX1VGek9fdy1fLW1qbWpiUTM5Y3o2bVQ2VjZheUJ3?oc=5",
+      "words": [
+        "3nm",
+        "aid",
+        "approval",
+        "billion",
+        "japan",
+        "kumamoto",
+        "plan",
+        "qualifying",
+        "tsmc",
+        "wins"
+      ]
     }
   ],
   "bureau": {
@@ -11568,9 +11569,32 @@
           "safety",
           "science"
         ]
+      },
+      {
+        "at": "2026-10-17T10:37:50.864397+00:00",
+        "handle": "PIB Department of Space",
+        "headline": "India's space economy projected to reach USD 40-45 billion in 7-8 years",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324662",
+        "words": [
+          "billion",
+          "department",
+          "economy",
+          "following",
+          "increasing",
+          "investments",
+          "jitendra",
+          "modi",
+          "private",
+          "reach",
+          "singh",
+          "space",
+          "underlines",
+          "unlocking"
+        ]
       }
     ],
-    "gazette_mark": 277252,
+    "gazette_mark": 277253,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -11960,15 +11984,18 @@
       "CG-DL-E-17102026-277245",
       "CG-TL-E-17102026-277244",
       "CG-MP-E-17102026-277252",
-      "CG-WB-E-17102026-277251"
+      "CG-WB-E-17102026-277251",
+      "CG-DL-E-17102026-277253",
+      "CG-TL-E-17102026-277250",
+      "CG-WB-E-17102026-277249"
     ],
     "health": {
       "down": {
         "CERT-In": "2026-10-17T06:07:41.976450+00:00"
       }
     },
-    "last_run": "2026-10-17T10:23:29.650240+00:00",
-    "pib_mark": 2324660,
+    "last_run": "2026-10-17T10:37:50.865602+00:00",
+    "pib_mark": 2324663,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -13396,12 +13423,12 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "gazette:CG-OR-E-16102026-277206",
+      "gazette:CG-DL-E-16102026-277205",
+      "gazette:CG-DL-E-16102026-277204",
       "gazette:CG-DL-E-16102026-277209",
       "gazette:CG-DL-E-16102026-277208",
       "gazette:CG-DL-E-16102026-277210",
-      "gazette:CG-DL-E-16102026-277205",
       "gazette:CG-DL-E-16102026-277207",
-      "gazette:CG-DL-E-16102026-277204",
       "gazette:CG-DL-E-16102026-277212",
       "gazette:CG-DL-E-16102026-277211",
       "gazette:CG-OR-E-16102026-277215",
@@ -13912,7 +13939,12 @@
       "gazette:CG-WB-E-17102026-277251",
       "gazette:CG-MP-E-17102026-277252",
       "pib:2324660",
-      "pib:2324658"
+      "pib:2324658",
+      "gazette:CG-DL-E-17102026-277253",
+      "gazette:CG-TL-E-17102026-277250",
+      "gazette:CG-WB-E-17102026-277249",
+      "pib:2324663",
+      "pib:2324662"
     ],
     "source_failures": {
       "CERT-In": {
@@ -13973,11 +14005,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791709229773",
-    "1791714405472",
-    "1791769511485",
-    "1791770351723",
-    "1791786500057",
     "1791786885931",
     "1791786885934",
     "1790591381589",
@@ -18126,7 +18153,6 @@
     "1792141022486",
     "1792187353633",
     "1792192944493",
-    "1792162635715",
     "1792178458747",
     "1792184077457",
     "1792122877297",
@@ -18278,7 +18304,6 @@
     "1792131214083",
     "1792134017536",
     "1792210419264",
-    "1792210625839",
     "1792131404337",
     "1792131970688",
     "1792132175167",
@@ -18328,14 +18353,11 @@
     "1792166497185",
     "1792210364250",
     "1792214341721",
-    "1792217760370",
     "1792138957196",
     "1792139140775",
     "1792143519380",
     "1792148230209",
     "1792166700962",
-    "1792170584029",
-    "1792198144108",
     "1792211164460",
     "1792217284083",
     "1792221140434",
@@ -18379,14 +18401,12 @@
     "1792210333221",
     "1792211469147",
     "1792219085020",
-    "1792228060266",
     "1791450114089",
     "1791462448045",
     "1791531884124",
     "1792157804444",
     "1792162857068",
     "1792167240058",
-    "1792219680705",
     "1792144929134",
     "1792145116457",
     "1792145269934",
@@ -18400,9 +18420,18 @@
     "1792213701632",
     "1792218925893",
     "1792219327467",
-    "1792224115647",
-    "1792224450000",
     "1792225680077",
+    "1792146034701",
+    "1792146057881",
+    "1792151422162",
+    "1792164063958",
+    "1792170584350",
+    "1792191797647",
+    "1792198045108",
+    "1792205145379",
+    "1792217778752",
+    "1792225215020",
+    "1792227783266",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -19665,8 +19694,6 @@
     "1792139093822",
     "1792141778525",
     "1792145105699",
-    "1792146034701",
-    "1792146057881",
     "1792146691406",
     "1792146991603",
     "1792147099806",
@@ -19693,7 +19720,6 @@
     "1792150981793",
     "1792151155750",
     "1792151241692",
-    "1792151422162",
     "1792151491807",
     "1792151871454",
     "1792152000154",
@@ -19734,10 +19760,10 @@
     "1792161244737",
     "1792161323078",
     "1792162173721",
+    "1792162635715",
     "1792162800202",
     "1792163498647",
     "1792164023307",
-    "1792164063958",
     "1792164119006",
     "1792165012384",
     "1792165382182",
@@ -19746,7 +19772,7 @@
     "1792167910659",
     "1792168723919",
     "1792170177570",
-    "1792170584350",
+    "1792170584029",
     "1792170585223",
     "1792170720639",
     "1792170927023",
@@ -19777,7 +19803,6 @@
     "1792185878639",
     "1792188516859",
     "1792190957048",
-    "1792191797647",
     "1792192578115",
     "1792192860694",
     "1792192922692",
@@ -19785,7 +19810,7 @@
     "1792194124721",
     "1792195200870",
     "1792195200994",
-    "1792198045108",
+    "1792198144108",
     "1792198620818",
     "1792198676583",
     "1792199887021",
@@ -19800,7 +19825,6 @@
     "1792204200557",
     "1792204479240",
     "1792204676160",
-    "1792205145379",
     "1792205422004",
     "1792205806239",
     "1792205820836",
@@ -19823,6 +19847,7 @@
     "1792210484678",
     "1792210578292",
     "1792210600771",
+    "1792210625839",
     "1792210730137",
     "1792210918888",
     "1792211231709",
@@ -19850,13 +19875,14 @@
     "1792216712134",
     "1792216800993",
     "1792217179802",
+    "1792217760370",
     "1792217764729",
-    "1792217778752",
     "1792218079156",
     "1792218267226",
     "1792218915848",
     "1792219248852",
     "1792219279199",
+    "1792219680705",
     "1792220314867",
     "1792220760337",
     "1792220801751",
@@ -19874,21 +19900,27 @@
     "1792223336816",
     "1792223367490",
     "1792224094271",
+    "1792224115647",
+    "1792224450000",
     "1792224570396",
     "1792224720965",
     "1792225065407",
-    "1792225215020",
+    "1792225215120",
     "1792225437427",
     "1792225680942",
     "1792226683943",
     "1792226940682",
-    "1792227783266",
+    "1792228060266",
     "1792228175345",
+    "1792228520088",
     "1792228680960",
     "1792228786742",
     "1792229596081",
+    "1792229808245",
     "1792230600048",
     "1792231195393",
+    "1792231845465",
+    "1792232306525",
     "2317509",
     "2317615",
     "2317714",
@@ -19974,8 +20006,8 @@
     "2324335",
     "2324336"
   ],
-  "last_digest_hour": "2026-10-17T15",
-  "last_success": "2026-10-17T10:16:10.200544+00:00",
+  "last_digest_hour": "2026-10-17T16",
+  "last_success": "2026-10-17T10:31:26.910437+00:00",
   "national": {
     "alerted": [
       {
@@ -26863,9 +26895,32 @@
           "restricting",
           "six"
         ]
+      },
+      {
+        "at": "2026-10-17T10:37:04.182125+00:00",
+        "handle": "PIB Department of Space",
+        "headline": "India's space economy projected to reach up to $45 billion in years",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324662",
+        "words": [
+          "billion",
+          "department",
+          "economy",
+          "following",
+          "increasing",
+          "investments",
+          "jitendra",
+          "modi",
+          "private",
+          "reach",
+          "singh",
+          "space",
+          "underlines",
+          "unlocking"
+        ]
       }
     ],
-    "gazette_mark": 277252,
+    "gazette_mark": 277253,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -27927,26 +27982,23 @@
       "CG-DL-E-17102026-277245",
       "CG-TL-E-17102026-277244",
       "CG-MP-E-17102026-277252",
-      "CG-WB-E-17102026-277251"
+      "CG-WB-E-17102026-277251",
+      "CG-DL-E-17102026-277253",
+      "CG-TL-E-17102026-277250",
+      "CG-WB-E-17102026-277249"
     ],
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "CERT-In": "2026-10-17T06:37:13.964633+00:00",
-        "IRDAI": "2026-10-17T10:21:59.707733+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-16T21:06:57.994520+00:00"
     },
-    "last_run": "2026-10-17T10:22:29.054819+00:00",
-    "pib_mark": 2324660,
+    "last_run": "2026-10-17T10:37:04.183456+00:00",
+    "pib_mark": 2324663,
     "seen": [
-      "page:https://internal.imd.gov.in/press_release/20260930_pr_5355.pdf",
-      "page:https://internal.imd.gov.in/press_release/20260930_pr_5360.pdf",
-      "page:https://internal.imd.gov.in/press_release/20260930_pr_5358.pdf",
-      "page:https://internal.imd.gov.in/press_release/20260930_pr_5359.pdf",
-      "feed:https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1790589438.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-gulveer-singh-on-winning-bronze-in-mens-5000m-at-asian-games",
       "pib:2317323",
       "gazette:CG-DL-E-29092026-276611",
@@ -30359,6 +30411,9 @@
       "site:GDACS disaster alerts|https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001339",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
+      "gazette:CG-OR-E-16102026-277206",
+      "gazette:CG-DL-E-16102026-277205",
+      "gazette:CG-DL-E-16102026-277204",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -30379,13 +30434,10 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
-      "gazette:CG-OR-E-16102026-277206",
       "gazette:CG-DL-E-16102026-277210",
       "gazette:CG-DL-E-16102026-277208",
       "gazette:CG-DL-E-16102026-277209",
       "gazette:CG-DL-E-16102026-277207",
-      "gazette:CG-DL-E-16102026-277205",
-      "gazette:CG-DL-E-16102026-277204",
       "gazette:CG-DL-E-16102026-277212",
       "gazette:CG-DL-E-16102026-277211",
       "gazette:CG-OR-E-16102026-277215",
@@ -30941,7 +30993,12 @@
       "pib:2324660",
       "gazette:CG-MP-E-17102026-277252",
       "gazette:CG-WB-E-17102026-277251",
-      "pib:2324658"
+      "pib:2324658",
+      "pib:2324662",
+      "gazette:CG-TL-E-17102026-277250",
+      "gazette:CG-WB-E-17102026-277249",
+      "gazette:CG-DL-E-17102026-277253",
+      "pib:2324663"
     ],
     "source_failures": {
       "CBI": {
@@ -30951,9 +31008,6 @@
       "CERT-In": {
         "count": 3,
         "until": "2026-10-17T13:06:23.525536+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -31015,26 +31069,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "TSMC 3nm Kumamoto plant wins Japanese approval and $4.1B aid",
-      "post": {
-        "created_at": "2026-10-17T09:59:55+00:00",
-        "handle": "News: Global chips",
-        "id": "1792231195393",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Digitimes",
-        "reposts": 0,
-        "text": "TSMC\u2019s 3nm Kumamoto plan wins Japan\u2019s approval, qualifying for up to $4.1 billion in aid",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcklRS1E0NlZkUVQxemRmNmtXazhvSzFNSFJVYzkxRGVZMkh1THZkdmlYc01GbVNfV0diSlFQZzBxakdYa0hpcGNubXZvcVo5WjYzTnBYNWhLNkI0YUJmSm5pX3A4c1YxY1NUdHdlVFpHX1VGek9fdy1fLW1qbWpiUTM5Y3o2bVQ2VjZheUJ3?oc=5"
-      },
-      "queued_at": "2026-10-17T10:16:10.125555+00:00",
-      "score": 8.0,
-      "why": "Major semiconductor fab investment, capex commitment, and government aid by a top chipmaker count as a high-priority wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -32120,8 +32155,8 @@
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
     "news: big tech platforms": 1792229596081,
-    "news: consumer internet india": 1792217778752,
-    "news: global ai": 1792228175345,
+    "news: consumer internet india": 1792232306525,
+    "news: global ai": 1792228520088,
     "news: global chips": 1792231195393,
     "news: global it services": 1792224720965,
     "news: india ai deeptech": 1792222209649,
@@ -32130,8 +32165,8 @@
     "news: india semiconductors": 1792218925893,
     "news: india tech policy": 1792221544857,
     "news: india telecom": 1792225437427,
-    "news: indian it majors": 1792222954133,
-    "news: indian it midcaps": 1792224115647,
+    "news: indian it majors": 1792231845465,
+    "news: indian it midcaps": 1792229808245,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792228680960,
     "nvidia": 1792152000154,
@@ -32178,7 +32213,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-17T10:16:10.586047+00:00",
+    "last_server_run": "2026-10-17T10:31:27.275690+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-16T16:53:51.019876+00:00",
@@ -32318,7 +32353,7 @@
       },
       "last": {
         "calendar": "2026-10-17T05:46:10.858763+00:00",
-        "ls_reports": "2026-10-17T08:18:59.784106+00:00",
+        "ls_reports": "2026-10-17T10:34:12.409766+00:00",
         "rs_committee_press": "2026-10-16T16:53:37.472023+00:00",
         "rs_press": "2026-10-16T16:53:34.602742+00:00",
         "rs_reports": "2026-10-16T16:53:31.637473+00:00",
@@ -32823,6 +32858,7 @@
       "CG-DL-E-17102026-277237",
       "CG-DL-E-17102026-277238",
       "CG-DL-E-17102026-277245",
+      "CG-DL-E-17102026-277253",
       "CG-DL-E-18092026-276306",
       "CG-DL-E-18092026-276311",
       "CG-DL-E-18092026-276316",
@@ -33242,6 +33278,7 @@
       "CG-TL-E-16092026-276268",
       "CG-TL-E-17102026-277235",
       "CG-TL-E-17102026-277244",
+      "CG-TL-E-17102026-277250",
       "CG-TL-E-18092026-276314",
       "CG-TL-E-23092026-276406",
       "CG-TL-E-28092026-276551",
@@ -33285,6 +33322,7 @@
       "CG-WB-E-17102026-277228",
       "CG-WB-E-17102026-277230",
       "CG-WB-E-17102026-277231",
+      "CG-WB-E-17102026-277249",
       "CG-WB-E-17102026-277251",
       "CG-WB-E-21092026-276362",
       "CG-WB-E-21092026-276363",
@@ -34723,11 +34761,43 @@
           "well",
           "yara"
         ]
+      },
+      {
+        "at": "2026-10-17T10:37:10.751586+00:00",
+        "headline": "FSSAI proposes banning sugar in baby food products for infants under six months",
+        "url": "https://x.com/PIB_India/status/2111401732219736527",
+        "words": [
+          "addition",
+          "amendment",
+          "authority",
+          "draft",
+          "food",
+          "fructose",
+          "fssai",
+          "fssaiindia",
+          "https",
+          "infant",
+          "infants",
+          "months",
+          "moves",
+          "notifies",
+          "nutrition",
+          "products",
+          "proposing",
+          "regulations",
+          "restricting",
+          "safety",
+          "six",
+          "smivnba3ng",
+          "standards",
+          "strengthen",
+          "sucrose"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-17T10:22:32.502816+00:00",
+    "last_run": "2026-10-17T10:37:10.751647+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -35567,7 +35637,10 @@
       "x:2111384748413026812",
       "x:2111392770661421467",
       "x:2111394091246424498",
-      "x:2111398375446954384"
+      "x:2111398375446954384",
+      "x:2111375522148282560",
+      "x:2111401396159631434",
+      "x:2111401732219736527"
     ],
     "source_failures": {},
     "sources": []
