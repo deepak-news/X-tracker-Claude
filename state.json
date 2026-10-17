@@ -11678,9 +11678,53 @@
           "security",
           "social"
         ]
+      },
+      {
+        "at": "2026-10-17T12:07:42.551376+00:00",
+        "handle": "PIB Ministry of Home Affairs",
+        "headline": "Supreme Court committee probes violence incidents at Jantar Mantar and other places",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324691",
+        "words": [
+          "affairs",
+          "all",
+          "aspects",
+          "ble",
+          "committee",
+          "constituted",
+          "court",
+          "enquire",
+          "enquiry",
+          "had",
+          "high",
+          "home",
+          "hon",
+          "hpec"
+        ]
+      },
+      {
+        "at": "2026-10-17T12:07:42.551376+00:00",
+        "handle": "Gazette National Medical Commission",
+        "headline": "National Medical Commission de-notifies the Maintenance of Standards of Medical Education Regulations 2023",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277270.pdf",
+        "words": [
+          "2019",
+          "act",
+          "commissio",
+          "commission",
+          "conferred",
+          "exercise",
+          "extraordinary",
+          "gazette",
+          "medical",
+          "national",
+          "powers",
+          "section"
+        ]
       }
     ],
-    "gazette_mark": 277269,
+    "gazette_mark": 277270,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -12089,7 +12133,9 @@
       "CG-DL-E-17102026-277267",
       "CG-DL-E-17102026-277268",
       "CG-DL-E-17102026-277269",
-      "SG-DL-E-17102026-277259"
+      "SG-DL-E-17102026-277259",
+      "CG-DL-E-17102026-277265",
+      "CG-DL-E-17102026-277270"
     ],
     "health": {
       "down": {
@@ -12097,8 +12143,8 @@
         "IMD": "2026-10-17T10:51:46.387225+00:00"
       }
     },
-    "last_run": "2026-10-17T11:52:58.274723+00:00",
-    "pib_mark": 2324685,
+    "last_run": "2026-10-17T12:07:42.563692+00:00",
+    "pib_mark": 2324691,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -13604,6 +13650,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "gazette:CG-UP-E-16102026-277227",
+      "gazette:CG-DL-E-16102026-277229",
+      "gazette:CG-DL-E-17102026-277222",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
@@ -13991,7 +14039,6 @@
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7097-of-2026-filed-by-surendra-champalaji-jain_105301.html",
       "mea:41884",
       "mea:41886",
-      "gazette:CG-DL-E-16102026-277229",
       "gazette:CG-DL-E-17102026-277225",
       "gazette:CG-WB-E-17102026-277230",
       "gazette:CG-DL-E-17102026-277233",
@@ -14003,7 +14050,6 @@
       "gazette:CG-TL-E-17102026-277235",
       "gazette:CG-DL-E-17102026-277234",
       "gazette:CG-WB-E-17102026-277228",
-      "gazette:CG-DL-E-17102026-277222",
       "gazette:CG-DL-E-17102026-277238",
       "gazette:CG-DL-E-17102026-277236",
       "gazette:CG-DL-E-17102026-277237",
@@ -14070,7 +14116,10 @@
       "gazette:SG-DL-E-17102026-277259",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ANTF/SHAHDARA ARRESTS A WOMAN DRUG PEDDLER.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|AATS/SHAHDARA CRACKS A UNIQUE CASE OF PRE PLANNED CAR THEFT, TWO ACCUSED ARRESTED.",
-      "pib:2324685"
+      "pib:2324685",
+      "gazette:CG-DL-E-17102026-277265",
+      "pib:2324691",
+      "gazette:CG-DL-E-17102026-277270"
     ],
     "source_failures": {
       "CERT-In": {
@@ -14135,11 +14184,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791793646190",
-    "1791794246648",
-    "1791796906110",
-    "1791712020662",
-    "1791713208559",
     "1791719210512",
     "1791765060292",
     "1791781555646",
@@ -18514,7 +18558,6 @@
     "1792176722200",
     "1792193700003",
     "1792210680478",
-    "1792213701632",
     "1792219327467",
     "1792225680077",
     "1792146034701",
@@ -18571,15 +18614,21 @@
     "1792150336159",
     "1792150639625",
     "1792150981793",
-    "1792170720639",
     "1792170927023",
     "1792178415755",
-    "1792179832864",
     "1792195200870",
-    "1792218691808",
-    "1792224655133",
     "1792228175345",
     "1792234004567",
+    "1792151155750",
+    "1792151241692",
+    "1792151871454",
+    "1792156016896",
+    "1792176360955",
+    "1792192922692",
+    "1792218925893",
+    "1792220760337",
+    "1792221140434",
+    "1792237176734",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -19844,10 +19893,7 @@
     "1792145105699",
     "1792146691406",
     "1792149329439",
-    "1792151155750",
-    "1792151241692",
     "1792151491807",
-    "1792151871454",
     "1792152000154",
     "1792152114558",
     "1792152120889",
@@ -19866,7 +19912,6 @@
     "1792155591236",
     "1792155618497",
     "1792155841777",
-    "1792156016896",
     "1792156091378",
     "1792156286424",
     "1792156303470",
@@ -19897,6 +19942,7 @@
     "1792170177570",
     "1792170584029",
     "1792170585223",
+    "1792170720639",
     "1792170927668",
     "1792171759355",
     "1792172441571",
@@ -19910,10 +19956,10 @@
     "1792175499725",
     "1792175864266",
     "1792176326157",
-    "1792176360955",
     "1792177200590",
     "1792177286851",
     "1792178932745",
+    "1792179832864",
     "1792180474314",
     "1792180477603",
     "1792181101908",
@@ -19928,7 +19974,6 @@
     "1792191957735",
     "1792192578115",
     "1792192860694",
-    "1792192922692",
     "1792193277225",
     "1792194124721",
     "1792195200994",
@@ -19984,6 +20029,7 @@
     "1792212686641",
     "1792213024069",
     "1792213308393",
+    "1792213701632",
     "1792214040062",
     "1792214057821",
     "1792214255905",
@@ -20000,14 +20046,13 @@
     "1792217882926",
     "1792218079156",
     "1792218267226",
+    "1792218691808",
     "1792218915848",
-    "1792218925893",
     "1792219279199",
     "1792219680705",
+    "1792220154529",
     "1792220314867",
-    "1792220760337",
     "1792220801751",
-    "1792221140434",
     "1792221544857",
     "1792221776584",
     "1792221864372",
@@ -20023,6 +20068,7 @@
     "1792224115647",
     "1792224450000",
     "1792224570396",
+    "1792224655133",
     "1792224720965",
     "1792225065407",
     "1792225215020",
@@ -20031,6 +20077,7 @@
     "1792226683943",
     "1792226940682",
     "1792226954039",
+    "1792228159274",
     "1792228175157",
     "1792228520088",
     "1792228680960",
@@ -20050,7 +20097,9 @@
     "1792234483387",
     "1792234620925",
     "1792236109228",
-    "1792237176734",
+    "1792237176563",
+    "1792237730023",
+    "1792238184661",
     "2317509",
     "2317615",
     "2317714",
@@ -20137,7 +20186,7 @@
     "2324336"
   ],
   "last_digest_hour": "2026-10-17T17",
-  "last_success": "2026-10-17T11:46:03.105297+00:00",
+  "last_success": "2026-10-17T12:01:31.012638+00:00",
   "national": {
     "alerted": [
       {
@@ -27073,7 +27122,7 @@
         ]
       }
     ],
-    "gazette_mark": 277269,
+    "gazette_mark": 277270,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -28154,7 +28203,9 @@
       "CG-DL-E-17102026-277267",
       "CG-DL-E-17102026-277268",
       "CG-DL-E-17102026-277269",
-      "SG-DL-E-17102026-277259"
+      "SG-DL-E-17102026-277259",
+      "CG-DL-E-17102026-277265",
+      "CG-DL-E-17102026-277270"
     ],
     "health": {
       "down": {
@@ -28166,12 +28217,9 @@
       },
       "warned": "2026-10-16T21:06:57.994520+00:00"
     },
-    "last_run": "2026-10-17T11:51:57.883249+00:00",
-    "pib_mark": 2324685,
+    "last_run": "2026-10-17T12:07:00.123863+00:00",
+    "pib_mark": 2324691,
     "seen": [
-      "pib:2316851",
-      "pib:2316848",
-      "pib:2316858",
       "pib:2316864",
       "pib:2316863",
       "pib:2316869",
@@ -30638,6 +30686,8 @@
       "gazette:CG-DL-E-16102026-277219",
       "gazette:CG-DL-E-16102026-277221",
       "gazette:CG-UP-E-16102026-277227",
+      "gazette:CG-DL-E-16102026-277229",
+      "gazette:CG-DL-E-17102026-277222",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
@@ -31087,7 +31137,6 @@
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7113-of-2026-filed-by-s-srinivas_105312.html",
       "mea:41886",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_3_Submission_LOC_16102026.pdf",
-      "gazette:CG-DL-E-16102026-277229",
       "gazette:CG-WB-E-17102026-277231",
       "gazette:CG-DL-E-17102026-277225",
       "gazette:CG-DL-E-17102026-277233",
@@ -31098,7 +31147,6 @@
       "gazette:CG-MH-E-17102026-277223",
       "gazette:CG-TL-E-17102026-277235",
       "gazette:CG-DL-E-17102026-277234",
-      "gazette:CG-DL-E-17102026-277222",
       "gazette:CG-WB-E-17102026-277228",
       "gazette:CG-DL-E-17102026-277236",
       "gazette:CG-DL-E-17102026-277238",
@@ -31168,7 +31216,10 @@
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|AATS/DWARKA BUSTS GANJA SUPPLY NETWORK, 54.375 KG GANJA RECOVERED IN THREE PHASE OPERATION, TWO ACCUSED ARRESTED, ABANDONED SCOOTY ALSO SEIZED.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|HABITUAL THIEF ARRESTED BY PS MOTI NAGAR, SEVEN THEFT CASES WORKED OUT.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ANTF/SHAHDARA ARRESTS A WOMAN DRUG PEDDLER.",
-      "gazette:CG-DL-E-17102026-277266"
+      "gazette:CG-DL-E-17102026-277266",
+      "pib:2324691",
+      "gazette:CG-DL-E-17102026-277270",
+      "gazette:CG-DL-E-17102026-277265"
     ],
     "source_failures": {
       "CBI": {
@@ -31243,7 +31294,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Axis Bank's Freecharge receives in-principle RBI payment aggregator nod",
+      "post": {
+        "created_at": "2026-10-17T11:48:50+00:00",
+        "handle": "News: India fintech",
+        "id": "1792237730023",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "Axis Bank's Freecharge gets in-principle RBI nod to operate as payment aggregator",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYTkwWXNJZFMzSDNPRDhzQnNfbFVOSmNZNDNjWlJIdDl5NTB0UHBZTW1EeWRuVC1MTHAtalN6S0RNbUlFd2ZkcU9QaFJtZC00VjctS2lhcmkzYkIxUWN2alNYRjc1c0pQeEdMUU9yN3h4XzNmTUp5R0h0ek1PTmN6SWZxU0lTVENISHVVbFZwQzhGWk9mTWR2aTVUUVNOWjdEek1rRTFTZjRJb1hDVlF4OFJpSW9TQ2pzc0F3Q1ZoOFBFcUVVVVFWYTQ1b0JRVHpWeDh3enRHOG00SUNIRkFMNW9pazBjVDlJMXM4bE9PNTNlTUtuTlZnbW81QQ?oc=5"
+      },
+      "queued_at": "2026-10-17T12:01:30.937796+00:00",
+      "score": 8.0,
+      "why": "It is a major regulatory and fintech development involving a key banking subsidiary."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -32328,14 +32398,14 @@
     "microsoft india": 1792044074016,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792236109228,
+    "news: big tech platforms": 1792238184661,
     "news: consumer internet india": 1792232306525,
     "news: global ai": 1792228520088,
     "news: global chips": 1792233865104,
     "news: global it services": 1792224720965,
     "news: india ai deeptech": 1792233925005,
     "news: india edtech gaming": 1792223336816,
-    "news: india fintech": 1792233092751,
+    "news: india fintech": 1792237730023,
     "news: india semiconductors": 1792218925893,
     "news: india tech policy": 1792234483387,
     "news: india telecom": 1792234036567,
@@ -32387,7 +32457,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-17T11:46:03.513019+00:00",
+    "last_server_run": "2026-10-17T12:01:31.426820+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-16T16:53:51.019876+00:00",
@@ -33033,10 +33103,12 @@
       "CG-DL-E-17102026-277238",
       "CG-DL-E-17102026-277245",
       "CG-DL-E-17102026-277253",
+      "CG-DL-E-17102026-277265",
       "CG-DL-E-17102026-277266",
       "CG-DL-E-17102026-277267",
       "CG-DL-E-17102026-277268",
       "CG-DL-E-17102026-277269",
+      "CG-DL-E-17102026-277270",
       "CG-DL-E-18092026-276306",
       "CG-DL-E-18092026-276311",
       "CG-DL-E-18092026-276316",
@@ -35019,7 +35091,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-17T11:52:01.657464+00:00",
+    "last_run": "2026-10-17T12:07:02.636097+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -35876,7 +35948,8 @@
       "x:2111417821246968058",
       "x:2111418985535451622",
       "x:2111420302936903927",
-      "x:2111423260172996860"
+      "x:2111423260172996860",
+      "x:2111427008819499131"
     ],
     "source_failures": {},
     "sources": []
