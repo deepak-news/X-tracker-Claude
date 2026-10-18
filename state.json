@@ -12339,7 +12339,7 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T19:03:33.769635+00:00",
+    "last_run": "2026-10-18T19:17:33.362861+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2320137",
@@ -14435,10 +14435,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791825653152",
-    "1791831600543",
-    "1791771590337",
-    "1791808671493",
     "1791821340069",
     "1791822147239",
     "1791823712691",
@@ -18955,7 +18951,6 @@
     "1792312459930",
     "1792319400652",
     "1792340256343",
-    "1792343455878",
     "1792281600672",
     "1792303259754",
     "1792307280208",
@@ -18966,7 +18961,17 @@
     "1792299913132",
     "1792341420092",
     "1792342887814",
-    "1792344056520",
+    "1792301429606",
+    "1792305051742",
+    "1792306996935",
+    "1792311143174",
+    "1792341386769",
+    "1792341845091",
+    "1792342512489",
+    "1792342945785",
+    "1792343455501",
+    "1792344056333",
+    "1792344339622",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20222,7 +20227,6 @@
     "1792298595194",
     "1792300260229",
     "1792301208073",
-    "1792301429606",
     "1792301439342",
     "1792302380629",
     "1792302516436",
@@ -20235,7 +20239,6 @@
     "1792304733073",
     "1792304743160",
     "1792304880842",
-    "1792305051742",
     "1792305065360",
     "1792305104068",
     "1792305381009",
@@ -20245,7 +20248,6 @@
     "1792306473936",
     "1792306575528",
     "1792306646028",
-    "1792306996935",
     "1792307700386",
     "1792308092815",
     "1792308300319",
@@ -20256,7 +20258,6 @@
     "1792310267434",
     "1792310560568",
     "1792311141680",
-    "1792311143174",
     "1792311233771",
     "1792312459533",
     "1792313619741",
@@ -20329,26 +20330,25 @@
     "1792339481067",
     "1792340105849",
     "1792340256775",
-    "1792341386769",
     "1792341420436",
-    "1792341845091",
+    "1792341845720",
     "1792342002587",
-    "1792342512489",
     "1792342568661",
     "1792342887927",
-    "1792342945785",
     "1792343164395",
-    "1792343455501",
+    "1792343455878",
     "1792343897972",
     "1792343988183",
-    "1792344056333",
-    "1792344339622",
+    "1792344056520",
+    "1792344339318",
     "1792345265895",
     "1792346162384",
     "1792346583069",
+    "1792346950087",
     "1792347345536",
     "1792347530868",
     "1792347581286",
+    "1792349460684",
     "2317509",
     "2317615",
     "2317714",
@@ -20437,7 +20437,7 @@
     "2324940"
   ],
   "last_digest_hour": "2026-10-19T00",
-  "last_success": "2026-10-18T19:01:32.678649+00:00",
+  "last_success": "2026-10-18T19:16:00.546572+00:00",
   "national": {
     "alerted": [
       {
@@ -28561,7 +28561,7 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T19:03:22.842977+00:00",
+    "last_run": "2026-10-18T19:17:25.517104+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2317229",
@@ -31108,8 +31108,8 @@
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
       "npci:617",
       "npci:620",
-      "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_4_Submission_LOC_17102026.pdf",
+      "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -31646,7 +31646,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Govt issues advisory to Meta over edited visuals and misleading claims",
+      "post": {
+        "created_at": "2026-10-18T18:09:10+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1792346950087",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Mint",
+        "reposts": 0,
+        "text": "Meta social media platforms told to act on edited visuals, misleading claims amid SIR protests \u2014 What Govt advisory says",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUDVMSTF1Ukd5bjJac00yX3BVMjJmMlNKWm95RTdfSmc2UXFtbElJZzQwVzYtVVY4RzBYRlFsN2ktMXdfMDUyUFU3dHVsTEU2XzFUbEtKczlvNFpUcDlCSERKeEdvWExhSE9kaEU3Y3lXdmZFM2F1VzBYdzY1ZXFmbnE2UHJzLVhCWnZ6QkxyU1RUVVFGVFJjem56WnZwQnQ0RUtzZnI3ejVibU9pWVJEbjZKWnFLc2hGSGZ1ZlRranBCbDZyV0tJc1J4bDB4bjB1SWtkQVFIWHVUaEtuVzlrb1V0UHFqWDNWOUQwRE51eWNwNFAwWldEUmRkRU9yWnl6bnhHNUN1aVDSAYgCQVVfeXFMT1A1TEkxdVJHeW4yWnNNMl9wVTIyZjJTSlpveUU3X0pnNlFxbWxJSWc0MFc2LVVWOEcwWEZRbDdpLTF3XzA1MlBVN3R1bExFNl8xVGxLSnM5bzRaVHA5QkhESnhHb1hMYUhPZGhFN2N5V3ZmRTNhdVcwWHc2NWVxZm5xNlBycy1YQlp2ekJMclNUVFVRRlRSY3puelp2cEJ0NEVLc2ZyN3o1Ym1PaVlSRG42SlpxS3NoRkhmdWZUa2pwQmw2cldLSXNSeGwweG4wdUlrZEFRSFh1VGhLblc5a29VdFBxalgzVjlEMEROdXljcDRQMFpXRFJkZEVPclp5em54RzVDdWlQ?oc=5"
+      },
+      "queued_at": "2026-10-18T19:16:00.498751+00:00",
+      "score": 7.0,
+      "why": "Government and regulatory moves regarding tech platforms score well for the IT beat and general news."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -32732,7 +32751,7 @@
     "microsoft india": 1792044074016,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792346162384,
+    "news: big tech platforms": 1792349460684,
     "news: consumer internet india": 1792342568661,
     "news: global ai": 1792347581286,
     "news: global chips": 1792343164395,
@@ -32741,7 +32760,7 @@
     "news: india edtech gaming": 1792332586655,
     "news: india fintech": 1792345265895,
     "news: india semiconductors": 1792311141680,
-    "news: india tech policy": 1792343897972,
+    "news: india tech policy": 1792346950087,
     "news: india telecom": 1792344056520,
     "news: indian it majors": 1792337213402,
     "news: indian it midcaps": 1792329855544,
@@ -32799,7 +32818,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T19:01:33.082913+00:00",
+    "last_server_run": "2026-10-18T19:16:00.801478+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -35620,7 +35639,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T19:03:27.334059+00:00",
+    "last_run": "2026-10-18T19:17:28.518236+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
