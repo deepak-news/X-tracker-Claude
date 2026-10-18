@@ -12290,7 +12290,7 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T09:32:22.928164+00:00",
+    "last_run": "2026-10-18T09:47:13.475989+00:00",
     "pib_mark": 2324891,
     "seen": [
       "pib:2320137",
@@ -14296,7 +14296,13 @@
       "pib:2324872",
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
       "pib:2324875",
-      "pib:2324891"
+      "pib:2324891",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|INTER STATE AUTO LIFTER GANG BUSTED BY TEAM OF AATS,SOUTH WEST DISTRICT",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MURDER CASE OF PS SONIA VIHAR SOLVED",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAMS OF PS RAJ PARK AND SULTANPURI",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|FIRING AT BUSINESSMAN\u2019S RESIDENCE FOLLOWED BY EXTORTION DEMAND SOLVED BY JOINT TEAM OF PS NEW USMANPUR AND SPECIAL STAFF/NORTH EAST DISTRICT, FOUR ACCUSED ARRESTED",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|01 AUTOLIFTER ARRESTED BY THE STAFF OF PS NIHAL VIHAR",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|DELHI TRAFFIC POLICE, ZONE I, INTENSIFIES MOTORCYCLE PATROLLING THROUGH MOTORCYCLE UNIT TO ENSURE SMOOTH TRAFFIC FLOW DURING FESTIVE SEASON"
     ],
     "source_failures": {
       "MHA": {
@@ -14357,11 +14363,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791796479765",
-    "1791797389765",
-    "1791802200124",
-    "1791803459558",
-    "1791807360900",
     "1791808393296",
     "1791810000874",
     "1791810136277",
@@ -18868,10 +18869,12 @@
     "1792246289021",
     "1792260498743",
     "1792264440072",
-    "1792299478599",
-    "1792307700386",
-    "1792309980700",
     "1792311233074",
+    "1792229808245",
+    "1792229942374",
+    "1792308337207",
+    "1792308600430",
+    "1792310007991",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20143,8 +20146,6 @@
     "1792180474314",
     "1792184044228",
     "1792195200994",
-    "1792229808245",
-    "1792229942374",
     "1792231411518",
     "1792231822798",
     "1792231845651",
@@ -20222,6 +20223,7 @@
     "1792298231324",
     "1792298317119",
     "1792298595194",
+    "1792299478599",
     "1792299826654",
     "1792299913132",
     "1792300260229",
@@ -20253,18 +20255,21 @@
     "1792306575528",
     "1792306646028",
     "1792307280208",
+    "1792307700386",
     "1792308092815",
     "1792308300319",
-    "1792308337207",
-    "1792308600430",
+    "1792308600030",
     "1792308698009",
     "1792308704032",
     "1792309123404",
     "1792309688425",
-    "1792310007991",
+    "1792309980700",
     "1792310267434",
     "1792310560568",
+    "1792311025023",
+    "1792311143174",
     "1792311752920",
+    "1792312200983",
     "1792312270543",
     "1792312459930",
     "1792313738681",
@@ -20272,6 +20277,7 @@
     "1792314253439",
     "1792314979220",
     "1792315059730",
+    "1792316163582",
     "2317509",
     "2317615",
     "2317714",
@@ -20359,7 +20365,7 @@
     "2324850"
   ],
   "last_digest_hour": "2026-10-18T15",
-  "last_success": "2026-10-18T09:31:25.974380+00:00",
+  "last_success": "2026-10-18T09:45:58.809422+00:00",
   "national": {
     "alerted": [
       {
@@ -28480,15 +28486,9 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T09:32:07.705456+00:00",
+    "last_run": "2026-10-18T09:46:37.990281+00:00",
     "pib_mark": 2324891,
     "seen": [
-      "pib:2317044",
-      "pib:2317061",
-      "pib:2317093",
-      "pib:2317084",
-      "pib:2317090",
-      "pib:2317100",
       "pib:2317106",
       "pib:2317123",
       "pib:2317142",
@@ -31482,7 +31482,13 @@
       "pib:2324872",
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
       "pib:2324875",
-      "pib:2324891"
+      "pib:2324891",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|DELHI TRAFFIC POLICE, ZONE I, INTENSIFIES MOTORCYCLE PATROLLING THROUGH MOTORCYCLE UNIT TO ENSURE SMOOTH TRAFFIC FLOW DURING FESTIVE SEASON",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|FIRING AT BUSINESSMAN\u2019S RESIDENCE FOLLOWED BY EXTORTION DEMAND SOLVED BY JOINT TEAM OF PS NEW USMANPUR AND SPECIAL STAFF/NORTH EAST DISTRICT, FOUR ACCUSED ARRESTED",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|01 AUTOLIFTER ARRESTED BY THE STAFF OF PS NIHAL VIHAR",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAMS OF PS RAJ PARK AND SULTANPURI",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|INTER STATE AUTO LIFTER GANG BUSTED BY TEAM OF AATS,SOUTH WEST DISTRICT",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MURDER CASE OF PS SONIA VIHAR SOLVED"
     ],
     "source_failures": {
       "CBI": {
@@ -32642,7 +32648,7 @@
     "news: consumer internet india": 1792308704032,
     "news: global ai": 1792312459930,
     "news: global chips": 1792300813604,
-    "news: global it services": 1792310267434,
+    "news: global it services": 1792311025023,
     "news: india ai deeptech": 1792308600430,
     "news: india edtech gaming": 1792256040737,
     "news: india fintech": 1792309688425,
@@ -32650,7 +32656,7 @@
     "news: india tech policy": 1792312241914,
     "news: india telecom": 1792315059730,
     "news: indian it majors": 1792311233074,
-    "news: indian it midcaps": 1792304625738,
+    "news: indian it midcaps": 1792316163582,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792305065360,
     "nvidia": 1792270813883,
@@ -32697,7 +32703,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T09:31:26.372220+00:00",
+    "last_server_run": "2026-10-18T09:45:59.082528+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T08:02:23.040876+00:00",
@@ -35483,7 +35489,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T09:32:10.572889+00:00",
+    "last_run": "2026-10-18T09:46:41.449472+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36476,7 +36482,9 @@
       "x:2111737947397800007",
       "x:2111741574371856718",
       "x:2111742056607732025",
-      "x:2111743110388834535"
+      "x:2111743110388834535",
+      "x:2111753070124159030",
+      "x:2111753103200714810"
     ],
     "source_failures": {},
     "sources": []
