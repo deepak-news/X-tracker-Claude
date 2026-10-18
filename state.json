@@ -12339,7 +12339,7 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T18:48:37.725992+00:00",
+    "last_run": "2026-10-18T19:03:33.769635+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2320137",
@@ -14430,15 +14430,11 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 1,
+  "consecutive_failures": 0,
   "dead_models": {
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791824568945",
-    "1791824580710",
-    "1791817586261",
-    "1791821815040",
     "1791825653152",
     "1791831600543",
     "1791771590337",
@@ -18950,7 +18946,6 @@
     "1792340238149",
     "1792287858802",
     "1792300129974",
-    "1792305051742",
     "1792305679764",
     "1792331147814",
     "1792337802344",
@@ -18966,6 +18961,12 @@
     "1792307280208",
     "1792331760237",
     "1792342002989",
+    "1792268479712",
+    "1792298231324",
+    "1792299913132",
+    "1792341420092",
+    "1792342887814",
+    "1792344056520",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20199,7 +20200,6 @@
     "1792261064957",
     "1792264740968",
     "1792267094513",
-    "1792268479712",
     "1792269600279",
     "1792270813883",
     "1792273093723",
@@ -20218,10 +20218,8 @@
     "1792296047174",
     "1792297438640",
     "1792297860877",
-    "1792298231324",
     "1792298317119",
     "1792298595194",
-    "1792299913132",
     "1792300260229",
     "1792301208073",
     "1792301429606",
@@ -20237,6 +20235,7 @@
     "1792304733073",
     "1792304743160",
     "1792304880842",
+    "1792305051742",
     "1792305065360",
     "1792305104068",
     "1792305381009",
@@ -20331,17 +20330,18 @@
     "1792340105849",
     "1792340256775",
     "1792341386769",
-    "1792341420092",
     "1792341420436",
     "1792341845091",
+    "1792342002587",
+    "1792342512489",
     "1792342568661",
-    "1792342887814",
+    "1792342887927",
     "1792342945785",
     "1792343164395",
     "1792343455501",
     "1792343897972",
     "1792343988183",
-    "1792344056520",
+    "1792344056333",
     "1792344339622",
     "1792345265895",
     "1792346162384",
@@ -20437,7 +20437,7 @@
     "2324940"
   ],
   "last_digest_hour": "2026-10-19T00",
-  "last_success": "2026-10-18T18:31:27.107878+00:00",
+  "last_success": "2026-10-18T19:01:32.678649+00:00",
   "national": {
     "alerted": [
       {
@@ -28561,7 +28561,7 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T18:48:08.187473+00:00",
+    "last_run": "2026-10-18T19:03:22.842977+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2317229",
@@ -31108,6 +31108,7 @@
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
       "npci:617",
       "npci:620",
+      "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_4_Submission_LOC_17102026.pdf",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
@@ -31129,7 +31130,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
-      "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-s-sengolancy-beaula-under-rc-no-7711-of-2024-in-the-matter-of-arvind-remedies-ltd-_105228.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-subhalakshmi-m-s-under-rc-no-7712-of-2024-in-the-matter-of-arvind-remedies-ltd-_105230.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sethujanani-under-rc-no-7709-of-2024-in-the-matter-of-arvind-remedies-ltd-_105226.html",
@@ -32799,7 +32799,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T18:45:59.369235+00:00",
+    "last_server_run": "2026-10-18T19:01:33.082913+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -32939,11 +32939,11 @@
       },
       "last": {
         "calendar": "2026-10-18T18:31:51.805408+00:00",
-        "ls_reports": "2026-10-18T16:46:38.071368+00:00",
+        "ls_reports": "2026-10-18T19:01:59.962905+00:00",
         "rs_committee_press": "2026-10-18T14:32:08.357651+00:00",
         "rs_press": "2026-10-18T14:32:05.447479+00:00",
-        "rs_reports": "2026-10-18T16:46:42.301503+00:00",
-        "rs_updates": "2026-10-18T16:47:00.893304+00:00"
+        "rs_reports": "2026-10-18T19:02:03.667576+00:00",
+        "rs_updates": "2026-10-18T19:02:21.310854+00:00"
       }
     },
     "scanned": [
@@ -35620,7 +35620,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T18:48:10.854437+00:00",
+    "last_run": "2026-10-18T19:03:27.334059+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36684,7 +36684,8 @@
       "x:2111873108403699976",
       "x:2111876294145356005",
       "x:2111885323479527489",
-      "x:2111887362179637406"
+      "x:2111887362179637406",
+      "x:2111895699583558109"
     ],
     "source_failures": {},
     "sources": []
