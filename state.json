@@ -12307,8 +12307,8 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T12:32:23.240008+00:00",
-    "pib_mark": 2324914,
+    "last_run": "2026-10-18T12:47:06.233272+00:00",
+    "pib_mark": 2324916,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14323,7 +14323,10 @@
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|IFSO\u2019s Proactive Victim Identification and Protection Team Rescues Multiple Senior Citizens from \u201cDigital Arrest\u201d, Saves \u20b91 53 Crore from Cyber Fraudsters Across Five States",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, ONE ABSCONDERS APPREHENDED.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP.",
-      "pib:2324914"
+      "pib:2324914",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|Thana Divas,Jansunwai",
+      "pib:2324916",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASESPS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES"
     ],
     "source_failures": {
       "MHA": {
@@ -14384,10 +14387,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791810227261",
-    "1791813000620",
-    "1791820448649",
-    "1791764794826",
     "1791770618248",
     "1791799530122",
     "1791799570570",
@@ -18891,6 +18890,9 @@
     "1792288892627",
     "1792295532802",
     "1792299478599",
+    "1792290365582",
+    "1792320171248",
+    "1792324097689",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20205,6 +20207,7 @@
     "1792274666606",
     "1792278240731",
     "1792280891601",
+    "1792281600672",
     "1792283407622",
     "1792283465105",
     "1792284392066",
@@ -20213,7 +20216,6 @@
     "1792288792823",
     "1792288920069",
     "1792290310226",
-    "1792290365582",
     "1792291038965",
     "1792291562812",
     "1792292289090",
@@ -20286,7 +20288,6 @@
     "1792319143427",
     "1792319357284",
     "1792319783548",
-    "1792320171248",
     "1792320200025",
     "1792320460183",
     "1792320670798",
@@ -20296,9 +20297,11 @@
     "1792322414491",
     "1792323420300",
     "1792323925301",
-    "1792324097689",
+    "1792324097754",
     "1792324801500",
     "1792325383856",
+    "1792327047062",
+    "1792327278871",
     "2317509",
     "2317615",
     "2317714",
@@ -20386,7 +20389,7 @@
     "2324850"
   ],
   "last_digest_hour": "2026-10-18T18",
-  "last_success": "2026-10-18T12:31:31.159832+00:00",
+  "last_success": "2026-10-18T12:46:05.665275+00:00",
   "national": {
     "alerted": [
       {
@@ -28507,12 +28510,9 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T12:32:10.850185+00:00",
-    "pib_mark": 2324914,
+    "last_run": "2026-10-18T12:46:47.494989+00:00",
+    "pib_mark": 2324916,
     "seen": [
-      "pib:2317134",
-      "pib:2317151",
-      "pib:2317170",
       "pib:2317160",
       "pib:2317164",
       "pib:2317169",
@@ -31509,7 +31509,10 @@
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, ONE ABSCONDERS APPREHENDED.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|IFSO\u2019s Proactive Victim Identification and Protection Team Rescues Multiple Senior Citizens from \u201cDigital Arrest\u201d, Saves \u20b91 53 Crore from Cyber Fraudsters Across Five States",
-      "pib:2324914"
+      "pib:2324914",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|Thana Divas,Jansunwai",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASESPS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES",
+      "pib:2324916"
     ],
     "source_failures": {
       "CBI": {
@@ -32665,17 +32668,17 @@
     "microsoft india": 1792044074016,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792324801500,
+    "news: big tech platforms": 1792327278871,
     "news: consumer internet india": 1792320670798,
     "news: global ai": 1792312459930,
     "news: global chips": 1792325383856,
-    "news: global it services": 1792324097689,
+    "news: global it services": 1792324097754,
     "news: india ai deeptech": 1792323925301,
     "news: india edtech gaming": 1792295532802,
     "news: india fintech": 1792319783548,
     "news: india semiconductors": 1792311141680,
     "news: india tech policy": 1792312241914,
-    "news: india telecom": 1792321548255,
+    "news: india telecom": 1792327047062,
     "news: indian it majors": 1792311233771,
     "news: indian it midcaps": 1792323420300,
     "news: pib releases": 1790159940641,
@@ -32724,7 +32727,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T12:31:31.568918+00:00",
+    "last_server_run": "2026-10-18T12:46:06.049221+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T12:17:07.901031+00:00",
@@ -35545,7 +35548,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T12:32:14.462041+00:00",
+    "last_run": "2026-10-18T12:46:51.602706+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36574,7 +36577,13 @@
       "x:2111792127189631252",
       "x:2111792669097910410",
       "x:2111793658156749137",
-      "x:2111795461690392872"
+      "x:2111795461690392872",
+      "x:2111796865729794234",
+      "x:2111797632326938885",
+      "x:2111797720629608460",
+      "x:2111798318502388078",
+      "x:2111798945383170450",
+      "x:2111800195910619485"
     ],
     "source_failures": {},
     "sources": []
