@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-12T08:32:28.021959+00:00",
-      "handle": "News: Global AI",
-      "headline": "Hexaview joins Anthropic and OpenAI partner programs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbUF4RmJRNjV0UkYwaXlYcHlpamJGeEdGcENQUXY4YmR5MkdIM3hDX2RWVDFET0tNNVZmRjRUMVpZbHQwVjhWdFpIT2tydGZHYWh2RVFxWjgzV2xlX2wzYjFqQTUtRk5FQ2Zrek5TR3Mtc2g4dzg1d0VUOWhKSEpSM3kxcTViRHJCNkRUSE9KMnlnaTlJa2d0em1CR0xHeUdDM3dzRUg4RXAxNlZDN3dxMlhKRGthSVZUYkY3dWhibEFUa0V5R0ktMlZRVWJtaExscXQ2b2ZNRVgtemxic3RmWHZiMVU4Nk1ZSWdDaDNjRFZxNmNUUzR4MDVHUEpRN2U5aDBmbVZVdUtLdw?oc=5",
-      "words": [
-        "agarwal",
-        "ankit",
-        "anthropic",
-        "backed",
-        "founder",
-        "hexaview",
-        "joins",
-        "led",
-        "legacy",
-        "openai",
-        "partner",
-        "playbook",
-        "programs",
-        "transformation"
-      ]
-    },
-    {
       "at": "2026-10-12T09:31:21.373449+00:00",
       "handle": "News: India AI deeptech",
       "headline": "Zetwerk sets IPO size at Rs 5,012 crore for October 15 opening",
@@ -7426,6 +7403,26 @@
         "operations",
         "sell"
       ]
+    },
+    {
+      "at": "2026-10-18T11:31:31.517833+00:00",
+      "handle": "News: India telecom",
+      "headline": "Airtel launches voice-only prepaid plans following TRAI directive",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWlU1akJZckphVFFNcE9ZTjZWTHM5cXVSRjFaMzNWRGVZLU54MWxsSE5qcTE2X2FETm15Y1Q1bzN5Z2xZWG0zQThBQ1hfUG1BNEtKZnlzaWtiU1hVYWRrRFQ4WjJyV3JCYm1WLXZBMnJiZE9hc1JScWdlMlgxNU5hblg2VGdVcXNtMm8xSmRxbkhNU1ZVdzhaNjdfVXpUTDBWcXMwUHBpOU5QdUs5NnFycC05TnBVckEzS1ZJOTlDaHVLV05yLXFKUWpIQjJNbWh6QXpfLUo5Yll1ZkpaaHhsNUVBTWvSAeoBQVVfeXFMUGkydE1DaHVsVUJxLXZmbGZFbGhSN2FkM3FWTzA2SGtIc093bm53cjMtbjVlUno1QkY4SnZHWDZBeUw1cnJGM0NhM3RxNEpEUnZKS3BqM01pM2FoYWZ0b3BIMDRDZHVvUUQzUy1hcTBfcTBJdDBkS3owSTdtM3Ntb0ZMSVFvZUFEZW9wQmNOYm8tYkVQM2tCWHFZcU1aN3hRUXltd3hUNEgwYXJ4TFQ3Y1ZfempxcDI3VzhpUEdVb1p0c0FoU2tHd1RKWGtQN0x2cmF3T0RhNnVFYzdhSV9kd0VHXy01c01JX3Nn?oc=5",
+      "words": [
+        "airtel",
+        "data",
+        "directive",
+        "needed",
+        "out",
+        "packs",
+        "prepaid",
+        "rolls",
+        "sms",
+        "trai",
+        "voice"
+      ]
     }
   ],
   "bureau": {
@@ -12287,7 +12284,7 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T11:16:50.952192+00:00",
+    "last_run": "2026-10-18T11:32:32.134964+00:00",
     "pib_mark": 2324891,
     "seen": [
       "pib:2320137",
@@ -14360,11 +14357,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791801120360",
-    "1791804659324",
-    "1791805265964",
-    "1791807520522",
-    "1791809941289",
     "1791810185120",
     "1791816207788",
     "1791816641868",
@@ -18873,8 +18865,9 @@
     "1792294249998",
     "1792301450086",
     "1792309980700",
-    "1792313619741",
-    "1792313738681",
+    "1792236221830",
+    "1792301429606",
+    "1792317703183",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20146,7 +20139,6 @@
     "1792180474314",
     "1792184044228",
     "1792195200994",
-    "1792236221830",
     "1792237176563",
     "1792237176734",
     "1792237730337",
@@ -20217,7 +20209,6 @@
     "1792300129974",
     "1792300260229",
     "1792301208073",
-    "1792301429606",
     "1792301439342",
     "1792302380629",
     "1792302516436",
@@ -20248,6 +20239,7 @@
     "1792307700386",
     "1792308092815",
     "1792308300319",
+    "1792308337663",
     "1792308600030",
     "1792308698930",
     "1792308704032",
@@ -20261,20 +20253,25 @@
     "1792312200983",
     "1792312270543",
     "1792312459930",
+    "1792313619741",
+    "1792313738681",
     "1792314979220",
     "1792315059730",
     "1792316163582",
     "1792316355169",
     "1792317366022",
     "1792317609377",
-    "1792317703183",
     "1792318075823",
     "1792318939809",
     "1792319357284",
     "1792319783548",
     "1792320171248",
+    "1792320460183",
+    "1792320670798",
     "1792320702739",
     "1792321209400",
+    "1792321548255",
+    "1792322414491",
     "2317509",
     "2317615",
     "2317714",
@@ -20361,8 +20358,8 @@
     "2324336",
     "2324850"
   ],
-  "last_digest_hour": "2026-10-18T16",
-  "last_success": "2026-10-18T11:16:03.628817+00:00",
+  "last_digest_hour": "2026-10-18T17",
+  "last_success": "2026-10-18T11:31:31.595128+00:00",
   "national": {
     "alerted": [
       {
@@ -28483,7 +28480,7 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T11:16:40.359995+00:00",
+    "last_run": "2026-10-18T11:32:13.417340+00:00",
     "pib_mark": 2324891,
     "seen": [
       "pib:2317106",
@@ -32642,16 +32639,16 @@
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
     "news: big tech platforms": 1792321209400,
-    "news: consumer internet india": 1792319357284,
+    "news: consumer internet india": 1792320670798,
     "news: global ai": 1792312459930,
     "news: global chips": 1792300813604,
     "news: global it services": 1792320702739,
-    "news: india ai deeptech": 1792317366022,
+    "news: india ai deeptech": 1792322414491,
     "news: india edtech gaming": 1792256040737,
     "news: india fintech": 1792319783548,
     "news: india semiconductors": 1792311141680,
     "news: india tech policy": 1792312241914,
-    "news: india telecom": 1792318939809,
+    "news: india telecom": 1792321548255,
     "news: indian it majors": 1792311233771,
     "news: indian it midcaps": 1792316163872,
     "news: pib releases": 1790159940641,
@@ -32700,7 +32697,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T11:16:03.888019+00:00",
+    "last_server_run": "2026-10-18T11:31:31.940851+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T10:16:52.966848+00:00",
@@ -35521,7 +35518,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T11:16:44.311631+00:00",
+    "last_run": "2026-10-18T11:32:23.053072+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36533,7 +36530,10 @@
       "x:2111769467336237191",
       "x:2111771481030226427",
       "x:2111773031500554351",
-      "x:2111775720611385780"
+      "x:2111775720611385780",
+      "x:2111777696091189415",
+      "x:2111779454469247291",
+      "x:2111781277603082308"
     ],
     "source_failures": {},
     "sources": []
