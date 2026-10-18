@@ -2,22 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-12T09:31:21.373449+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "LTTS launches AI-native manufacturing lab in India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX0p4SVVuUURZZk5kaTlmTTUwQkFQRVdVOXpoZGdrLTNfSDNoRWNUTnhQOXJpc3J2QmJYdW9uOV9hc01GdTh6YVBpaEdtR2ZYVVF6UlExX3NuR2VQZVdCZnZpbDlkZnVNQkk0TllJMHQ3cFNybzNtWkNfNjNHdVlGdXFBSXNyX0ZYaGJ1WUl3eHRkNTFJd1ViWG11QUVNMVlfVDlvNU93dHJuUXp1eWZ0NHR1aDVvUFFTNWRyemx6T0h6RkRLSzZYWmVoamhIdmpFLUNXTnZPTERiWlZK0gHiAUFVX3lxTE5hbUlyVTZvc280Wk5fR2x2d2s0dEJWVm5JU2h1U3Y1Z2ZUVnhkSzVEZWtubzUyV21tOWktdjNMb1dnTXhzU0JsRWFjLVl5SkIwZ0llRnQwM2pPZFlZLU5mSHB2ZGJPVjZmLW9ld1dUeGtPOXZ5c1MzUzNBbDVIdHpPUUlHRWpnMk9ocExoNHlMNGlVanRoMk56b1lCd0U2WURWQW1Fd1VnU014T3FqY3J0dHg4blR6SVBaWHJzY1lnR3Z3Zm5TT2VBUmhLR203cmdSelRiZTdwblcyQUh1S1B4V1E?oc=5",
-      "words": [
-        "facility",
-        "lab",
-        "launches",
-        "ltts",
-        "manufacturing",
-        "native",
-        "plans"
-      ]
-    },
-    {
-      "at": "2026-10-12T09:31:21.373449+00:00",
       "handle": "News: Indian IT majors",
       "headline": "TCS asserts artificial intelligence drives growth rather than cannibalizing existing revenues",
       "tier": 0,
@@ -7422,6 +7406,25 @@
         "plug",
         "pulls"
       ]
+    },
+    {
+      "at": "2026-10-18T15:31:17.524792+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic's new safety intervention thresholds raise industry questions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ3o5TjVmelhEQi01eTdsSXhVMklEa3ZhOFRiUXZyZndEOGphSlZVSUM4MjJQTFJrRTZJcHEwWkRMOC16amdRalRXVlVRTFhjSjlUNlpfTzlLeEFGQ0s3Y0dUX21tNzVMbWJQcW94amVhSU5WZXZEUnRPX0pxNUJOTUFvRG40bmJnVWdjLS04eW9meElLTnZsVE5iZEdVaEJ6THRXeTVRV3B5aFBkdlh4ZlpTNHFwQUZ1V2d4LTY2emNmanlNdmd0YVozSFBOSS1sR2QxQg?oc=5",
+      "words": [
+        "anthropic",
+        "injuring",
+        "intervention",
+        "more",
+        "people",
+        "questions",
+        "raises",
+        "safety",
+        "than",
+        "threshold"
+      ]
     }
   ],
   "bureau": {
@@ -12306,7 +12309,7 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T15:17:05.358497+00:00",
+    "last_run": "2026-10-18T15:32:09.979074+00:00",
     "pib_mark": 2324958,
     "seen": [
       "pib:2320137",
@@ -14391,8 +14394,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791765000739",
-    "1791814143954",
     "1791816103412",
     "1791807476065",
     "1791807714100",
@@ -18882,10 +18883,12 @@
     "1792334132528",
     "1792249348521",
     "1792256527047",
-    "1792258380938",
-    "1792301429606",
     "1792303225597",
     "1792335169311",
+    "1792258380069",
+    "1792278240731",
+    "1792330824543",
+    "1792331676806",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20170,7 +20173,7 @@
     "1792256100969",
     "1792258080787",
     "1792258080796",
-    "1792258380069",
+    "1792258380938",
     "1792258719709",
     "1792260498260",
     "1792261064957",
@@ -20184,7 +20187,6 @@
     "1792273093723",
     "1792273571142",
     "1792274666606",
-    "1792278240731",
     "1792280891601",
     "1792281600672",
     "1792283407622",
@@ -20208,6 +20210,7 @@
     "1792300129974",
     "1792300260229",
     "1792301208073",
+    "1792301429606",
     "1792301439342",
     "1792302380629",
     "1792302516436",
@@ -20293,10 +20296,8 @@
     "1792330442386",
     "1792330546865",
     "1792330603028",
-    "1792330824543",
     "1792331090199",
     "1792331147814",
-    "1792331676806",
     "1792331807404",
     "1792331995021",
     "1792332001826",
@@ -20304,7 +20305,9 @@
     "1792334621267",
     "1792335169172",
     "1792335330007",
+    "1792335614543",
     "1792336140200",
+    "1792336320283",
     "2317509",
     "2317615",
     "2317714",
@@ -20392,8 +20395,8 @@
     "2324850",
     "2324940"
   ],
-  "last_digest_hour": "2026-10-18T20",
-  "last_success": "2026-10-18T15:16:04.962142+00:00",
+  "last_digest_hour": "2026-10-18T21",
+  "last_success": "2026-10-18T15:31:17.596761+00:00",
   "national": {
     "alerted": [
       {
@@ -28514,7 +28517,7 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T15:16:51.361306+00:00",
+    "last_run": "2026-10-18T15:31:54.941745+00:00",
     "pib_mark": 2324958,
     "seen": [
       "pib:2317191",
@@ -31587,26 +31590,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic's new safety intervention thresholds raise industry questions",
-      "post": {
-        "created_at": "2026-10-18T14:35:32+00:00",
-        "handle": "News: Global AI",
-        "id": "1792334132583",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Firstpost",
-        "reposts": 0,
-        "text": "\u2018Injuring more than 50 people\u2019: Anthropic\u2019s threshold for AI safety intervention raises questions",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ3o5TjVmelhEQi01eTdsSXhVMklEa3ZhOFRiUXZyZndEOGphSlZVSUM4MjJQTFJrRTZJcHEwWkRMOC16amdRalRXVlVRTFhjSjlUNlpfTzlLeEFGQ0s3Y0dUX21tNzVMbWJQcW94amVhSU5WZXZEUnRPX0pxNUJOTUFvRG40bmJnVWdjLS04eW9meElLTnZsVE5iZEdVaEJ6THRXeTVRV3B5aFBkdlh4ZlpTNHFwQUZ1V2d4LTY2emNmanlNdmd0YVozSFBOSS1sR2QxQg?oc=5"
-      },
-      "queued_at": "2026-10-18T15:01:27.847369+00:00",
-      "score": 7.0,
-      "why": "Major AI lab disclosure on safety frameworks and thresholds."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -32691,7 +32675,7 @@
     "microsoft india": 1792044074016,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792335169311,
+    "news: big tech platforms": 1792336320283,
     "news: consumer internet india": 1792330084016,
     "news: global ai": 1792336140200,
     "news: global chips": 1792325383856,
@@ -32750,7 +32734,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T15:16:05.354715+00:00",
+    "last_server_run": "2026-10-18T15:31:17.966922+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -35571,7 +35555,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T15:16:54.750573+00:00",
+    "last_run": "2026-10-18T15:31:58.698201+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36623,7 +36607,10 @@
       "x:2111830160190365968",
       "x:2111830913042858079",
       "x:2111833094529679763",
-      "x:2111834410660360248"
+      "x:2111834410660360248",
+      "x:2111838464165437880",
+      "x:2111839360010399959",
+      "x:2111840665432916212"
     ],
     "source_failures": {},
     "sources": []
