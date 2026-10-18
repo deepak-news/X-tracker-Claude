@@ -12364,7 +12364,7 @@
       },
       "warned": "2026-10-18T19:47:32.561212+00:00"
     },
-    "last_run": "2026-10-18T21:32:52.601856+00:00",
+    "last_run": "2026-10-18T21:47:29.607604+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2320137",
@@ -14012,6 +14012,12 @@
       "pib:2324965",
       "pib:2324968",
       "pib:2324975",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|INTER STATE AUTO LIFTER GANG BUSTED BY TEAM OF AATS,SOUTH WEST DISTRICT",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MURDER CASE OF PS SONIA VIHAR SOLVED",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAMS OF PS RAJ PARK AND SULTANPURI",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|FIRING AT BUSINESSMAN\u2019S RESIDENCE FOLLOWED BY EXTORTION DEMAND SOLVED BY JOINT TEAM OF PS NEW USMANPUR AND SPECIAL STAFF/NORTH EAST DISTRICT, FOUR ACCUSED ARRESTED",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|01 AUTOLIFTER ARRESTED BY THE STAFF OF PS NIHAL VIHAR",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|DELHI TRAFFIC POLICE, ZONE I, INTENSIFIES MOTORCYCLE PATROLLING THROUGH MOTORCYCLE UNIT TO ENSURE SMOOTH TRAFFIC FLOW DURING FESTIVE SEASON",
       "gazette:CG-MP-E-17102026-277252",
       "gazette:CG-DL-E-17102026-277253",
       "gazette:SG-DL-E-17102026-277257",
@@ -14380,12 +14386,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-morbis-rajmata-vijaykunwarba",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-stampede-in-kolkata",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-gwalior-madhya-pradesh",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|INTER STATE AUTO LIFTER GANG BUSTED BY TEAM OF AATS,SOUTH WEST DISTRICT",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MURDER CASE OF PS SONIA VIHAR SOLVED",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAMS OF PS RAJ PARK AND SULTANPURI",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|FIRING AT BUSINESSMAN\u2019S RESIDENCE FOLLOWED BY EXTORTION DEMAND SOLVED BY JOINT TEAM OF PS NEW USMANPUR AND SPECIAL STAFF/NORTH EAST DISTRICT, FOUR ACCUSED ARRESTED",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|01 AUTOLIFTER ARRESTED BY THE STAFF OF PS NIHAL VIHAR",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|DELHI TRAFFIC POLICE, ZONE I, INTENSIFIES MOTORCYCLE PATROLLING THROUGH MOTORCYCLE UNIT TO ENSURE SMOOTH TRAFFIC FLOW DURING FESTIVE SEASON",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|IFSO\u2019s Proactive Victim Identification and Protection Team Rescues Multiple Senior Citizens from \u201cDigital Arrest\u201d, Saves \u20b91 53 Crore from Cyber Fraudsters Across Five States",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, ONE ABSCONDERS APPREHENDED.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP.",
@@ -14461,7 +14461,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791821461322",
     "1791824701189",
     "1791761299687",
     "1791797248824",
@@ -18952,7 +18951,6 @@
     "1792308300319",
     "1792341845720",
     "1792344339318",
-    "1792346773450",
     "1792267094513",
     "1792340105849",
     "1792342887814",
@@ -18990,6 +18988,8 @@
     "1792156540393",
     "1792332001548",
     "1792346583069",
+    "1792273093723",
+    "1792346773124",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20218,7 +20218,6 @@
     "1792252493712",
     "1792261064957",
     "1792270813883",
-    "1792273093723",
     "1792273571142",
     "1792280891601",
     "1792283400527",
@@ -20363,13 +20362,14 @@
     "1792344056520",
     "1792345265895",
     "1792346162384",
-    "1792346773124",
+    "1792346773450",
     "1792346950894",
     "1792347345536",
     "1792347581286",
     "1792349460165",
     "1792350060720",
     "1792350697868",
+    "1792352586905",
     "1792353396069",
     "1792354070030",
     "1792355860654",
@@ -20463,7 +20463,7 @@
     "2324940"
   ],
   "last_digest_hour": "2026-10-19T03",
-  "last_success": "2026-10-18T21:31:16.391647+00:00",
+  "last_success": "2026-10-18T21:45:58.354617+00:00",
   "national": {
     "alerted": [
       {
@@ -28578,7 +28578,6 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "CBSE": "2026-10-18T21:32:43.131422+00:00",
         "CCI": "2026-10-18T16:32:24.562138+00:00",
         "IMD": "2026-10-18T16:32:24.562138+00:00",
         "MHA": "2026-10-17T19:46:48.716156+00:00",
@@ -28588,7 +28587,7 @@
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-18T21:32:44.301470+00:00",
+    "last_run": "2026-10-18T21:47:22.095462+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2317226",
@@ -31150,6 +31149,12 @@
       "pib:2324968",
       "pib:2324975",
       "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|DELHI TRAFFIC POLICE, ZONE I, INTENSIFIES MOTORCYCLE PATROLLING THROUGH MOTORCYCLE UNIT TO ENSURE SMOOTH TRAFFIC FLOW DURING FESTIVE SEASON",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|FIRING AT BUSINESSMAN\u2019S RESIDENCE FOLLOWED BY EXTORTION DEMAND SOLVED BY JOINT TEAM OF PS NEW USMANPUR AND SPECIAL STAFF/NORTH EAST DISTRICT, FOUR ACCUSED ARRESTED",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|01 AUTOLIFTER ARRESTED BY THE STAFF OF PS NIHAL VIHAR",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAMS OF PS RAJ PARK AND SULTANPURI",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|INTER STATE AUTO LIFTER GANG BUSTED BY TEAM OF AATS,SOUTH WEST DISTRICT",
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MURDER CASE OF PS SONIA VIHAR SOLVED",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_4_Submission_LOC_17102026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Date_Sheet_Special_Examinations_09102026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_1_Following_accuracy_timeliness_LOC_2627_09102026.pdf",
@@ -31578,12 +31583,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-morbis-rajmata-vijaykunwarba",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-stampede-in-kolkata",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-gwalior-madhya-pradesh",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|DELHI TRAFFIC POLICE, ZONE I, INTENSIFIES MOTORCYCLE PATROLLING THROUGH MOTORCYCLE UNIT TO ENSURE SMOOTH TRAFFIC FLOW DURING FESTIVE SEASON",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|FIRING AT BUSINESSMAN\u2019S RESIDENCE FOLLOWED BY EXTORTION DEMAND SOLVED BY JOINT TEAM OF PS NEW USMANPUR AND SPECIAL STAFF/NORTH EAST DISTRICT, FOUR ACCUSED ARRESTED",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|01 AUTOLIFTER ARRESTED BY THE STAFF OF PS NIHAL VIHAR",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAMS OF PS RAJ PARK AND SULTANPURI",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|INTER STATE AUTO LIFTER GANG BUSTED BY TEAM OF AATS,SOUTH WEST DISTRICT",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MURDER CASE OF PS SONIA VIHAR SOLVED",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, ONE ABSCONDERS APPREHENDED.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|IFSO\u2019s Proactive Victim Identification and Protection Team Rescues Multiple Senior Citizens from \u201cDigital Arrest\u201d, Saves \u20b91 53 Crore from Cyber Fraudsters Across Five States",
@@ -31596,9 +31595,6 @@
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "CBSE": {
-        "count": 1
       },
       "CCI": {
         "count": 3,
@@ -32829,7 +32825,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T21:31:16.802887+00:00",
+    "last_server_run": "2026-10-18T21:45:58.814695+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -35650,7 +35646,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T21:32:46.744757+00:00",
+    "last_run": "2026-10-18T21:47:24.367493+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
