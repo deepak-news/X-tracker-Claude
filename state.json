@@ -12224,7 +12224,7 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T03:32:56.052216+00:00",
+    "last_run": "2026-10-18T03:47:28.270128+00:00",
     "pib_mark": 2324835,
     "seen": [
       "pib:2320137",
@@ -14283,9 +14283,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791776089737",
-    "1791786737077",
-    "1791792200861",
     "1791798051283",
     "1791799946514",
     "1791802991100",
@@ -18504,7 +18501,6 @@
     "1792151422162",
     "1792161076198",
     "1792162800202",
-    "1792222209649",
     "1792229596081",
     "1792148576372",
     "1792148663381",
@@ -18761,13 +18757,11 @@
     "1792204676160",
     "1792277178405",
     "1792204330749",
-    "1792214646126",
     "1792284066574",
     "1792205806239",
     "1792205820836",
     "1792205966095",
     "1792205993453",
-    "1792210730137",
     "1792248008290",
     "1792257540494",
     "1792258380069",
@@ -18777,7 +18771,15 @@
     "1792218691808",
     "1792254201739",
     "1792262400157",
-    "1792264440072",
+    "1792207919160",
+    "1792208690998",
+    "1792210333819",
+    "1792234036567",
+    "1792237176563",
+    "1792239541763",
+    "1792284524018",
+    "1792287858802",
+    "1792288792876",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20049,14 +20051,12 @@
     "1792180474314",
     "1792184044228",
     "1792195200994",
-    "1792207919160",
-    "1792208690998",
     "1792208921234",
     "1792209674681",
-    "1792210333819",
     "1792210419110",
     "1792210578292",
     "1792210600771",
+    "1792210730137",
     "1792210918888",
     "1792211231709",
     "1792211586121",
@@ -20071,6 +20071,7 @@
     "1792214341721",
     "1792214391011",
     "1792214520372",
+    "1792214646126",
     "1792216125909",
     "1792216235738",
     "1792216246711",
@@ -20088,6 +20089,7 @@
     "1792221544857",
     "1792221776584",
     "1792222070757",
+    "1792222209649",
     "1792222214978",
     "1792222346025",
     "1792222926709",
@@ -20118,18 +20120,16 @@
     "1792233180709",
     "1792233865104",
     "1792233925005",
-    "1792234036567",
     "1792234483787",
     "1792234620925",
     "1792236221830",
-    "1792237176563",
+    "1792237176477",
     "1792237176734",
     "1792237194088",
     "1792237730337",
     "1792238184108",
     "1792238812966",
     "1792239259546",
-    "1792239541763",
     "1792239863357",
     "1792242058890",
     "1792243260086",
@@ -20171,6 +20171,7 @@
     "1792261064957",
     "1792261530830",
     "1792262888622",
+    "1792264440072",
     "1792264607951",
     "1792264618095",
     "1792264740968",
@@ -20188,17 +20189,16 @@
     "1792280891601",
     "1792283407622",
     "1792283465105",
-    "1792284524018",
     "1792287858669",
-    "1792287858802",
     "1792288607305",
-    "1792288792876",
     "1792288920069",
     "1792290310226",
     "1792290365582",
     "1792291038965",
     "1792291562812",
     "1792292289090",
+    "1792293763152",
+    "1792294249998",
     "2317509",
     "2317615",
     "2317714",
@@ -20285,7 +20285,7 @@
     "2324336"
   ],
   "last_digest_hour": "2026-10-18T09",
-  "last_success": "2026-10-18T03:31:14.441614+00:00",
+  "last_success": "2026-10-18T03:45:59.945389+00:00",
   "national": {
     "alerted": [
       {
@@ -28354,14 +28354,13 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "IRDAI": "2026-10-18T03:32:18.340474+00:00",
         "MHA": "2026-10-17T19:46:48.716156+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T03:32:23.777265+00:00",
+    "last_run": "2026-10-18T03:47:07.555455+00:00",
     "pib_mark": 2324835,
     "seen": [
       "pib:2316978",
@@ -30843,6 +30842,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "page:https://www.pmindia.gov.in/en/news_updates/lieutenant-governor-of-delhi-meets-pm-2",
+      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-rajasthan-meets-pm",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -30863,7 +30863,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
-      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-rajasthan-meets-pm",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "certin:CIAD-2026-0046",
@@ -31369,9 +31368,6 @@
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "MHA": {
         "count": 4,
@@ -32522,7 +32518,7 @@
     "microsoft india": 1792044074016,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792290365582,
+    "news: big tech platforms": 1792294249998,
     "news: consumer internet india": 1792267094513,
     "news: global ai": 1792291562812,
     "news: global chips": 1792264618095,
@@ -32533,7 +32529,7 @@
     "news: india semiconductors": 1792273571142,
     "news: india tech policy": 1792287858802,
     "news: india telecom": 1792290310226,
-    "news: indian it majors": 1792288792876,
+    "news: indian it majors": 1792293763152,
     "news: indian it midcaps": 1792292289090,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792291562812,
@@ -32581,17 +32577,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T03:31:14.866056+00:00",
+    "last_server_run": "2026-10-18T03:46:00.244322+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-18T01:32:15.556761+00:00",
+        "checked": "2026-10-18T03:46:52.810926+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-18T01:32:07.557658+00:00",
+        "checked": "2026-10-18T03:46:45.333956+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -32667,7 +32663,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-18T01:32:11.606027+00:00",
+        "checked": "2026-10-18T03:46:49.176167+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -32721,11 +32717,11 @@
       },
       "last": {
         "calendar": "2026-10-18T00:02:04.969881+00:00",
-        "ls_reports": "2026-10-18T01:31:50.735807+00:00",
-        "rs_committee_press": "2026-10-18T01:32:01.696538+00:00",
-        "rs_press": "2026-10-18T01:31:58.765464+00:00",
-        "rs_reports": "2026-10-18T01:31:55.748402+00:00",
-        "rs_updates": "2026-10-18T01:32:03.725828+00:00"
+        "ls_reports": "2026-10-18T03:46:28.981350+00:00",
+        "rs_committee_press": "2026-10-18T03:46:39.715299+00:00",
+        "rs_press": "2026-10-18T03:46:36.493800+00:00",
+        "rs_reports": "2026-10-18T03:46:33.455865+00:00",
+        "rs_updates": "2026-10-18T03:46:41.319792+00:00"
       }
     },
     "scanned": [
@@ -35283,7 +35279,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T03:32:26.191343+00:00",
+    "last_run": "2026-10-18T03:47:10.901916+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36219,7 +36215,9 @@
       "x:2111638398846820606",
       "x:2111645944458645574",
       "x:2111647202426884161",
-      "x:2111657269473714248"
+      "x:2111657269473714248",
+      "x:2111661635874214206",
+      "x:2111663560287723581"
     ],
     "source_failures": {},
     "sources": []
