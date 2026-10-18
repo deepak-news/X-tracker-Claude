@@ -12307,8 +12307,8 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T11:47:11.315076+00:00",
-    "pib_mark": 2324891,
+    "last_run": "2026-10-18T12:02:43.019489+00:00",
+    "pib_mark": 2324914,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14322,7 +14322,8 @@
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|DELHI TRAFFIC POLICE, ZONE I, INTENSIFIES MOTORCYCLE PATROLLING THROUGH MOTORCYCLE UNIT TO ENSURE SMOOTH TRAFFIC FLOW DURING FESTIVE SEASON",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|IFSO\u2019s Proactive Victim Identification and Protection Team Rescues Multiple Senior Citizens from \u201cDigital Arrest\u201d, Saves \u20b91 53 Crore from Cyber Fraudsters Across Five States",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, ONE ABSCONDERS APPREHENDED.",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP."
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP.",
+      "pib:2324914"
     ],
     "source_failures": {
       "MHA": {
@@ -14383,12 +14384,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791803940807",
-    "1791811163639",
-    "1791811720179",
-    "1791813360120",
-    "1791784860855",
-    "1791791881399",
     "1791799225760",
     "1791801857103",
     "1791805533453",
@@ -18886,10 +18881,16 @@
     "1792309980700",
     "1792236221830",
     "1792317703183",
-    "1792145105699",
-    "1792149329439",
     "1792237176563",
     "1792237176734",
+    "1792237730337",
+    "1792243680024",
+    "1792254201739",
+    "1792299478599",
+    "1792314051693",
+    "1792314855948",
+    "1792319170919",
+    "1792323459623",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20141,7 +20142,9 @@
     "1792128671124",
     "1792137600691",
     "1792141778525",
+    "1792145105699",
     "1792146691406",
+    "1792149329439",
     "1792151491807",
     "1792152000154",
     "1792152114558",
@@ -20159,13 +20162,14 @@
     "1792180474314",
     "1792184044228",
     "1792195200994",
-    "1792237730337",
     "1792238812966",
     "1792239259546",
     "1792239863357",
+    "1792241858986",
     "1792242058890",
+    "1792242385556",
+    "1792242609683",
     "1792243260086",
-    "1792243680024",
     "1792245132289",
     "1792245870271",
     "1792246260798",
@@ -20179,10 +20183,11 @@
     "1792252910647",
     "1792253148068",
     "1792254051356",
-    "1792254201739",
     "1792254698586",
     "1792255461440",
+    "1792255553551",
     "1792256040737",
+    "1792256100969",
     "1792256527047",
     "1792256813738",
     "1792258080787",
@@ -20224,7 +20229,6 @@
     "1792298231324",
     "1792298317119",
     "1792298595194",
-    "1792299478599",
     "1792299826654",
     "1792300129974",
     "1792300260229",
@@ -20276,8 +20280,6 @@
     "1792312459930",
     "1792313619741",
     "1792313738681",
-    "1792314051693",
-    "1792314855948",
     "1792314979220",
     "1792315059730",
     "1792316163582",
@@ -20286,7 +20288,6 @@
     "1792317609377",
     "1792318075823",
     "1792318939809",
-    "1792319170919",
     "1792319357284",
     "1792319783548",
     "1792320171248",
@@ -20297,7 +20298,7 @@
     "1792321548255",
     "1792322414491",
     "1792323420300",
-    "1792323459623",
+    "1792324097689",
     "2317509",
     "2317615",
     "2317714",
@@ -20385,7 +20386,7 @@
     "2324850"
   ],
   "last_digest_hour": "2026-10-18T17",
-  "last_success": "2026-10-18T11:46:05.337868+00:00",
+  "last_success": "2026-10-18T12:01:39.236493+00:00",
   "national": {
     "alerted": [
       {
@@ -28506,10 +28507,9 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T11:46:46.538247+00:00",
-    "pib_mark": 2324891,
+    "last_run": "2026-10-18T12:02:25.341628+00:00",
+    "pib_mark": 2324914,
     "seen": [
-      "pib:2317152",
       "pib:2317134",
       "pib:2317151",
       "pib:2317170",
@@ -31508,7 +31508,8 @@
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MURDER CASE OF PS SONIA VIHAR SOLVED",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, ONE ABSCONDERS APPREHENDED.",
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|IFSO\u2019s Proactive Victim Identification and Protection Team Rescues Multiple Senior Citizens from \u201cDigital Arrest\u201d, Saves \u20b91 53 Crore from Cyber Fraudsters Across Five States"
+      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|IFSO\u2019s Proactive Victim Identification and Protection Team Rescues Multiple Senior Citizens from \u201cDigital Arrest\u201d, Saves \u20b91 53 Crore from Cyber Fraudsters Across Five States",
+      "pib:2324914"
     ],
     "source_failures": {
       "CBI": {
@@ -32668,7 +32669,7 @@
     "news: consumer internet india": 1792320670798,
     "news: global ai": 1792312459930,
     "news: global chips": 1792300813604,
-    "news: global it services": 1792323459623,
+    "news: global it services": 1792324097689,
     "news: india ai deeptech": 1792322414491,
     "news: india edtech gaming": 1792284586067,
     "news: india fintech": 1792319783548,
@@ -32723,7 +32724,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T11:46:05.724177+00:00",
+    "last_server_run": "2026-10-18T12:01:39.643904+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T10:16:52.966848+00:00",
@@ -35544,7 +35545,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T11:46:50.525943+00:00",
+    "last_run": "2026-10-18T12:02:29.970987+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36562,7 +36563,11 @@
       "x:2111781277603082308",
       "x:2111781342237388898",
       "x:2111781948993757184",
-      "x:2111784598942404918"
+      "x:2111784598942404918",
+      "x:2111786808715415881",
+      "x:2111787016149229774",
+      "x:2111788685230555177",
+      "x:2111788826238841316"
     ],
     "source_failures": {},
     "sources": []
