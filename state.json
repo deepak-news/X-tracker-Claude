@@ -11816,6 +11816,29 @@
           "singh",
           "tajikistan"
         ]
+      },
+      {
+        "at": "2026-10-18T08:02:59.587085+00:00",
+        "handle": "PIB Ministry of Finance",
+        "headline": "Revenue intelligence seizes 137 kg of crystal meth and busts coastal drug syndicate",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324872",
+        "words": [
+          "137",
+          "arrested",
+          "busts",
+          "coastal",
+          "consignment",
+          "crystal",
+          "dri",
+          "drug",
+          "finance",
+          "massive",
+          "meth",
+          "ministry",
+          "nadu",
+          "network"
+        ]
       }
     ],
     "gazette_mark": 277271,
@@ -12237,8 +12260,8 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T07:47:03.149591+00:00",
-    "pib_mark": 2324852,
+    "last_run": "2026-10-18T08:02:59.588133+00:00",
+    "pib_mark": 2324872,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14239,7 +14262,8 @@
       "pib:2324842",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-gwalior-madhya-pradesh",
       "pib:2324850",
-      "pib:2324852"
+      "pib:2324852",
+      "pib:2324872"
     ],
     "source_failures": {
       "MHA": {
@@ -14300,10 +14324,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791806234493",
-    "1791807476352",
-    "1791810553122",
-    "1791811751906",
     "1791781796417",
     "1791795143629",
     "1791803105530",
@@ -18807,8 +18827,13 @@
     "1792296009174",
     "1792300813604",
     "1792301450086",
-    "1792304280535",
     "1792305679764",
+    "1792223472998",
+    "1792233865104",
+    "1792297438640",
+    "1792299478599",
+    "1792303750212",
+    "1792304280601",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20080,7 +20105,6 @@
     "1792180474314",
     "1792184044228",
     "1792195200994",
-    "1792223472998",
     "1792224217708",
     "1792224655133",
     "1792224720965",
@@ -20100,7 +20124,6 @@
     "1792232306525",
     "1792233092751",
     "1792233180709",
-    "1792233865104",
     "1792233925005",
     "1792234036567",
     "1792234483787",
@@ -20173,13 +20196,12 @@
     "1792293720990",
     "1792294249998",
     "1792295340992",
+    "1792296018035",
     "1792296047174",
-    "1792297438640",
     "1792297860877",
     "1792298231324",
     "1792298317119",
     "1792298595194",
-    "1792299478599",
     "1792299826654",
     "1792300260229",
     "1792301208073",
@@ -20192,8 +20214,7 @@
     "1792303225597",
     "1792303259754",
     "1792303640402",
-    "1792303750212",
-    "1792304280601",
+    "1792304280535",
     "1792304733073",
     "1792304880842",
     "1792305065360",
@@ -20208,13 +20229,16 @@
     "1792306619997",
     "1792306646028",
     "1792307280208",
+    "1792307569086",
     "1792308092815",
     "1792308300319",
     "1792308337207",
     "1792308540444",
+    "1792308600430",
     "1792308698930",
     "1792308704032",
     "1792309123404",
+    "1792309688425",
     "2317509",
     "2317615",
     "2317714",
@@ -20302,7 +20326,7 @@
     "2324850"
   ],
   "last_digest_hour": "2026-10-18T13",
-  "last_success": "2026-10-18T07:46:04.620308+00:00",
+  "last_success": "2026-10-18T08:01:29.825090+00:00",
   "national": {
     "alerted": [
       {
@@ -27303,6 +27327,29 @@
           "published",
           "shri"
         ]
+      },
+      {
+        "at": "2026-10-18T08:02:41.088115+00:00",
+        "handle": "PIB Ministry of Finance",
+        "headline": "DRI seizes 137 kg of crystal meth and busts coastal drug network",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324872",
+        "words": [
+          "137",
+          "arrested",
+          "busts",
+          "coastal",
+          "consignment",
+          "crystal",
+          "dri",
+          "drug",
+          "finance",
+          "massive",
+          "meth",
+          "ministry",
+          "nadu",
+          "network"
+        ]
       }
     ],
     "gazette_mark": 277271,
@@ -28400,10 +28447,9 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T07:46:46.547911+00:00",
-    "pib_mark": 2324852,
+    "last_run": "2026-10-18T08:02:41.089567+00:00",
+    "pib_mark": 2324872,
     "seen": [
-      "pib:2317012",
       "pib:2317011",
       "pib:2317034",
       "pib:2317073",
@@ -31402,7 +31448,8 @@
       "pib:2324842",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-gwalior-madhya-pradesh",
       "pib:2324850",
-      "pib:2324852"
+      "pib:2324852",
+      "pib:2324872"
     ],
     "source_failures": {
       "CBI": {
@@ -32582,9 +32629,9 @@
     "news: global ai": 1792305422961,
     "news: global chips": 1792300813604,
     "news: global it services": 1792277178405,
-    "news: india ai deeptech": 1792308092815,
+    "news: india ai deeptech": 1792308600430,
     "news: india edtech gaming": 1792256040737,
-    "news: india fintech": 1792273093723,
+    "news: india fintech": 1792309688425,
     "news: india semiconductors": 1792273571142,
     "news: india tech policy": 1792308540444,
     "news: india telecom": 1792308698930,
@@ -32636,17 +32683,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T07:46:05.056178+00:00",
+    "last_server_run": "2026-10-18T08:01:30.226266+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-18T05:47:18.436139+00:00",
+        "checked": "2026-10-18T08:02:23.040876+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-18T05:47:10.898634+00:00",
+        "checked": "2026-10-18T08:02:15.169661+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -32722,7 +32769,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-18T05:47:14.640430+00:00",
+        "checked": "2026-10-18T08:02:18.960970+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -32776,11 +32823,11 @@
       },
       "last": {
         "calendar": "2026-10-18T06:16:13.835855+00:00",
-        "ls_reports": "2026-10-18T05:46:55.117989+00:00",
-        "rs_committee_press": "2026-10-18T05:47:05.175901+00:00",
-        "rs_press": "2026-10-18T05:47:02.217205+00:00",
-        "rs_reports": "2026-10-18T05:46:58.995272+00:00",
-        "rs_updates": "2026-10-18T05:47:06.873221+00:00"
+        "ls_reports": "2026-10-18T08:01:59.662044+00:00",
+        "rs_committee_press": "2026-10-18T08:02:09.646170+00:00",
+        "rs_press": "2026-10-18T08:02:06.713711+00:00",
+        "rs_reports": "2026-10-18T08:02:03.875802+00:00",
+        "rs_updates": "2026-10-18T08:02:11.330664+00:00"
       }
     },
     "scanned": [
@@ -35373,11 +35420,56 @@
           "their",
           "trade"
         ]
+      },
+      {
+        "at": "2026-10-18T08:02:46.536371+00:00",
+        "headline": "DRI seizes 137 kg of crystal meth and busts coastal drug syndicate in Tamil Nadu.",
+        "url": "https://x.com/FinMinIndia/status/2111728058457792906",
+        "words": [
+          "137",
+          "2324",
+          "arrested",
+          "aspx",
+          "attempt",
+          "busts",
+          "coastal",
+          "consignment",
+          "crystal",
+          "dri",
+          "drug",
+          "foils",
+          "gov",
+          "https",
+          "intelligence",
+          "lanka",
+          "led",
+          "major",
+          "maritime",
+          "massive",
+          "meth",
+          "more",
+          "nadu",
+          "network",
+          "operation",
+          "pib",
+          "pressreleasepage",
+          "prid",
+          "read",
+          "route",
+          "seizes",
+          "smuggle",
+          "sri",
+          "suspected",
+          "tamil",
+          "through",
+          "trafficking",
+          "www"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T07:46:52.749309+00:00",
+    "last_run": "2026-10-18T08:02:46.536473+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36361,7 +36453,9 @@
       "x:2111721513733021845",
       "x:2111721866989867496",
       "x:2111722700079264191",
-      "x:2111723327928807605"
+      "x:2111723327928807605",
+      "x:2111725216455962699",
+      "x:2111728058457792906"
     ],
     "source_failures": {},
     "sources": []
