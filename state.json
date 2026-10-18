@@ -11780,6 +11780,29 @@
           "off",
           "plymouth"
         ]
+      },
+      {
+        "at": "2026-10-18T03:32:56.023475+00:00",
+        "handle": "PMO",
+        "headline": "Prime Minister announces ex-gratia compensation for victims of Kolkata stampede",
+        "tier": 1,
+        "url": "https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-stampede-in-kolkata",
+        "words": [
+          "article",
+          "expressed",
+          "expresses",
+          "grief",
+          "kolkata",
+          "lives",
+          "loss",
+          "minister",
+          "modi",
+          "narendra",
+          "pmo",
+          "prime",
+          "published",
+          "shri"
+        ]
       }
     ],
     "gazette_mark": 277271,
@@ -12201,7 +12224,7 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T03:16:50.524018+00:00",
+    "last_run": "2026-10-18T03:32:56.052216+00:00",
     "pib_mark": 2324835,
     "seen": [
       "pib:2320137",
@@ -13741,6 +13764,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "page:https://www.pmindia.gov.in/en/news_updates/lieutenant-governor-of-delhi-meets-pm-2",
+      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-rajasthan-meets-pm",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
@@ -13884,7 +13908,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-golden-jubilee-celebrations-of-jaigopal-garodia-hindu-vidyalaya",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-all-the-padma-awardees-of-2025",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-bloomberg-new-economy-forum-in-new-delhi",
-      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-rajasthan-meets-pm",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-five-development-projects-worth-%e2%82%b93350-crore-in-ladakh",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-the-launch-of-development-projects-in-ladakh-via-video-conferencing",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-interaction-with-the-participants-of-asian-games-2026",
@@ -14198,7 +14221,8 @@
       "gazette:CG-DL-E-17102026-277271",
       "page:https://internal.imd.gov.in/press_release/20261017_pr_5414.pdf",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168619",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-morbis-rajmata-vijaykunwarba"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-morbis-rajmata-vijaykunwarba",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-stampede-in-kolkata"
     ],
     "source_failures": {
       "MHA": {
@@ -14259,7 +14283,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791771394985",
     "1791776089737",
     "1791786737077",
     "1791792200861",
@@ -18639,7 +18662,6 @@
     "1792251455933",
     "1792261530219",
     "1792178932745",
-    "1792232836203",
     "1792254000904",
     "1792179832864",
     "1792192860694",
@@ -18730,7 +18752,6 @@
     "1792248008361",
     "1792201874435",
     "1792202405935",
-    "1792219248852",
     "1792242935585",
     "1792202669749",
     "1792214646109",
@@ -18741,8 +18762,6 @@
     "1792277178405",
     "1792204330749",
     "1792214646126",
-    "1792234036567",
-    "1792254201874",
     "1792284066574",
     "1792205806239",
     "1792205820836",
@@ -18752,11 +18771,13 @@
     "1792248008290",
     "1792257540494",
     "1792258380069",
-    "1792287858802",
     "1792206720686",
     "1792212900503",
     "1792222346398",
-    "1792284524018",
+    "1792218691808",
+    "1792254201739",
+    "1792262400157",
+    "1792264440072",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20058,9 +20079,9 @@
     "1792217760370",
     "1792217882926",
     "1792218079156",
-    "1792218691808",
     "1792218915848",
     "1792218925893",
+    "1792219248852",
     "1792219279199",
     "1792220154529",
     "1792220314867",
@@ -20092,10 +20113,12 @@
     "1792231822798",
     "1792231845651",
     "1792232306525",
+    "1792232836203",
     "1792233092751",
     "1792233180709",
     "1792233865104",
     "1792233925005",
+    "1792234036567",
     "1792234483787",
     "1792234620925",
     "1792236221830",
@@ -20131,7 +20154,7 @@
     "1792252980160",
     "1792253148068",
     "1792254051356",
-    "1792254201739",
+    "1792254201874",
     "1792254698586",
     "1792255098300",
     "1792255461440",
@@ -20147,9 +20170,7 @@
     "1792260498260",
     "1792261064957",
     "1792261530830",
-    "1792262400157",
     "1792262888622",
-    "1792264440072",
     "1792264607951",
     "1792264618095",
     "1792264740968",
@@ -20167,8 +20188,11 @@
     "1792280891601",
     "1792283407622",
     "1792283465105",
+    "1792284524018",
     "1792287858669",
+    "1792287858802",
     "1792288607305",
+    "1792288792876",
     "1792288920069",
     "1792290310226",
     "1792290365582",
@@ -20260,8 +20284,8 @@
     "2324335",
     "2324336"
   ],
-  "last_digest_hour": "2026-10-18T08",
-  "last_success": "2026-10-18T03:15:59.479149+00:00",
+  "last_digest_hour": "2026-10-18T09",
+  "last_success": "2026-10-18T03:31:14.441614+00:00",
   "national": {
     "alerted": [
       {
@@ -27216,6 +27240,29 @@
           "rationalisation",
           "trade"
         ]
+      },
+      {
+        "at": "2026-10-18T03:32:23.748795+00:00",
+        "handle": "PMO",
+        "headline": "PM Modi announces compensation for victims of Kolkata stampede",
+        "tier": 1,
+        "url": "https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-stampede-in-kolkata",
+        "words": [
+          "article",
+          "expressed",
+          "expresses",
+          "grief",
+          "kolkata",
+          "lives",
+          "loss",
+          "minister",
+          "modi",
+          "narendra",
+          "pmo",
+          "prime",
+          "published",
+          "shri"
+        ]
       }
     ],
     "gazette_mark": 277271,
@@ -28307,16 +28354,16 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "IRDAI": "2026-10-18T03:32:18.340474+00:00",
         "MHA": "2026-10-17T19:46:48.716156+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T03:16:39.411091+00:00",
+    "last_run": "2026-10-18T03:32:23.777265+00:00",
     "pib_mark": 2324835,
     "seen": [
-      "pib:2316964",
       "pib:2316978",
       "pib:2316983",
       "pib:2316981",
@@ -30796,12 +30843,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "page:https://www.pmindia.gov.in/en/news_updates/lieutenant-governor-of-delhi-meets-pm-2",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
-      "certin:CIAD-2026-0046",
-      "certin:CIAD-2026-0047",
-      "certin:CIAD-2026-0048",
-      "certin:CIAD-2026-0049",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -30822,6 +30863,13 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
+      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-rajasthan-meets-pm",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
+      "certin:CIAD-2026-0046",
+      "certin:CIAD-2026-0047",
+      "certin:CIAD-2026-0048",
+      "certin:CIAD-2026-0049",
       "page:https://internal.imd.gov.in/press_release/20260910_pr_5304.pdf",
       "page:https://internal.imd.gov.in/press_release/20260916_pr_5319.pdf",
       "page:https://internal.imd.gov.in/press_release/20260915_pr_5317.pdf",
@@ -30921,7 +30969,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-the-launch-of-development-projects-in-chennai",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-golden-jubilee-celebrations-of-jaigopal-garodia-hindu-vidyalaya",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-bloomberg-new-economy-forum-in-new-delhi",
-      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-rajasthan-meets-pm",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-the-launch-of-development-projects-in-ladakh-via-video-conferencing",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-five-development-projects-worth-%e2%82%b93350-crore-in-ladakh",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-interaction-with-the-participants-of-asian-games-2026",
@@ -31315,12 +31362,16 @@
       "gazette:CG-DL-E-17102026-277271",
       "page:https://internal.imd.gov.in/press_release/20261017_pr_5414.pdf",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168619",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-morbis-rajmata-vijaykunwarba"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-morbis-rajmata-vijaykunwarba",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-stampede-in-kolkata"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "MHA": {
         "count": 4,
@@ -32482,7 +32533,7 @@
     "news: india semiconductors": 1792273571142,
     "news: india tech policy": 1792287858802,
     "news: india telecom": 1792290310226,
-    "news: indian it majors": 1792280891601,
+    "news: indian it majors": 1792288792876,
     "news: indian it midcaps": 1792292289090,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792291562812,
@@ -32530,7 +32581,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T03:15:59.805964+00:00",
+    "last_server_run": "2026-10-18T03:31:14.866056+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T01:32:15.556761+00:00",
@@ -35232,7 +35283,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T03:16:42.256650+00:00",
+    "last_run": "2026-10-18T03:32:26.191343+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36167,7 +36218,8 @@
       "x:2111634884334903381",
       "x:2111638398846820606",
       "x:2111645944458645574",
-      "x:2111647202426884161"
+      "x:2111647202426884161",
+      "x:2111657269473714248"
     ],
     "source_failures": {},
     "sources": []
