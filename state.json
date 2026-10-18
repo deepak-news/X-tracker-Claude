@@ -1,25 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-12T09:31:21.373449+00:00",
-      "handle": "News: India telecom",
-      "headline": "India financial services deal value reaches $7.3 billion in Q3 driven by Jio and NSE",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbmJMR2lVMl9IMndkbzh1dzFGa24wZURhS3dGblMwWXBwQ0stMVQ5NXFPdFVOa2VFR0l0bE9zYmlkUUhxZTcwWEUtcEFkMjF1OTJxZUVqQS1yOUdxU0ZMZUtUMUVCN3g0bC0tV2lfNDRhbjdfU1dYVjFlZGpBTUtiTkVsM25INmFTRWp6ZUNqU012Y2ViYjVFV2d5U2ZmTGxyU09UemZjUllLNDJfZGZ3bUdGUWVZUWJoZTBuZng2MTk2SE5iRkRTbkFNaXQ1ZV9xa2JacDNXMkdCYjcwTTBn0gHkAUFVX3lxTE1WaXBoZ2xzYTBpSXBrVTRHTzYwU2ZSMHY3VGV1dXNreTZEUUR3UVkxQXR0Xzdyc0xINFRJX2dOc0x5djEya1J0cEpFaThoazlQblgzTmNUblYtaUl1dTFSQTZMeU96eVZMNlE2UDRHTjk1VzItZHA0eHdsSFdFeHotTU03aUpVb2x2Wm14Ymd0NGlnMG8tcndyNDhFMk92REIwSHhONHpWOTRJZk1KX2ljeHB6eG5rbzhuTktNSUJBcDZISGRzWUZ1REY4cVRyUm9jLVY1OU0tOERPby02WmJwSmtRZw?oc=5",
-      "words": [
-        "billion",
-        "credit",
-        "deal",
-        "financial",
-        "ipo",
-        "jio",
-        "nse",
-        "propel",
-        "services",
-        "value"
-      ]
-    },
-    {
       "at": "2026-10-12T10:31:25.976626+00:00",
       "handle": "News: Global AI",
       "headline": "Amazon in talks to acquire Decart for $7 billion",
@@ -7430,6 +7411,29 @@
         "tech",
         "technologies"
       ]
+    },
+    {
+      "at": "2026-10-18T19:31:26.406754+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Govt issues advisory to Meta over edited visuals and misleading claims",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUDVMSTF1Ukd5bjJac00yX3BVMjJmMlNKWm95RTdfSmc2UXFtbElJZzQwVzYtVVY4RzBYRlFsN2ktMXdfMDUyUFU3dHVsTEU2XzFUbEtKczlvNFpUcDlCSERKeEdvWExhSE9kaEU3Y3lXdmZFM2F1VzBYdzY1ZXFmbnE2UHJzLVhCWnZ6QkxyU1RUVVFGVFJjem56WnZwQnQ0RUtzZnI3ejVibU9pWVJEbjZKWnFLc2hGSGZ1ZlRranBCbDZyV0tJc1J4bDB4bjB1SWtkQVFIWHVUaEtuVzlrb1V0UHFqWDNWOUQwRE51eWNwNFAwWldEUmRkRU9yWnl6bnhHNUN1aVDSAYgCQVVfeXFMT1A1TEkxdVJHeW4yWnNNMl9wVTIyZjJTSlpveUU3X0pnNlFxbWxJSWc0MFc2LVVWOEcwWEZRbDdpLTF3XzA1MlBVN3R1bExFNl8xVGxLSnM5bzRaVHA5QkhESnhHb1hMYUhPZGhFN2N5V3ZmRTNhdVcwWHc2NWVxZm5xNlBycy1YQlp2ekJMclNUVFVRRlRSY3puelp2cEJ0NEVLc2ZyN3o1Ym1PaVlSRG42SlpxS3NoRkhmdWZUa2pwQmw2cldLSXNSeGwweG4wdUlrZEFRSFh1VGhLblc5a29VdFBxalgzVjlEMEROdXljcDRQMFpXRFJkZEVPclp5em54RzVDdWlQ?oc=5",
+      "words": [
+        "act",
+        "advisory",
+        "claims",
+        "edited",
+        "govt",
+        "media",
+        "meta",
+        "misleading",
+        "platforms",
+        "protests",
+        "sir",
+        "social",
+        "told",
+        "visuals"
+      ]
     }
   ],
   "bureau": {
@@ -12339,7 +12343,7 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T19:17:33.362861+00:00",
+    "last_run": "2026-10-18T19:32:59.982395+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2320137",
@@ -13972,6 +13976,21 @@
       "cci-pr:media-gallery|709",
       "page:https://internal.imd.gov.in/press_release/20261017_pr_5414.pdf",
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
+      "pib:2324842",
+      "pib:2324850",
+      "pib:2324852",
+      "pib:2324872",
+      "pib:2324875",
+      "pib:2324891",
+      "pib:2324914",
+      "pib:2324916",
+      "pib:2324922",
+      "pib:2324937",
+      "pib:2324940",
+      "pib:2324958",
+      "pib:2324965",
+      "pib:2324968",
+      "pib:2324975",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -14339,13 +14358,7 @@
       "gazette:CG-DL-E-17102026-277271",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-morbis-rajmata-vijaykunwarba",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-stampede-in-kolkata",
-      "pib:2324842",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-gwalior-madhya-pradesh",
-      "pib:2324850",
-      "pib:2324852",
-      "pib:2324872",
-      "pib:2324875",
-      "pib:2324891",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|INTER STATE AUTO LIFTER GANG BUSTED BY TEAM OF AATS,SOUTH WEST DISTRICT",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MURDER CASE OF PS SONIA VIHAR SOLVED",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAMS OF PS RAJ PARK AND SULTANPURI",
@@ -14355,18 +14368,9 @@
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|IFSO\u2019s Proactive Victim Identification and Protection Team Rescues Multiple Senior Citizens from \u201cDigital Arrest\u201d, Saves \u20b91 53 Crore from Cyber Fraudsters Across Five States",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, ONE ABSCONDERS APPREHENDED.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP.",
-      "pib:2324914",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|Thana Divas,Jansunwai",
-      "pib:2324916",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASESPS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES",
-      "pib:2324922",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026",
-      "pib:2324937",
-      "pib:2324940",
-      "pib:2324958",
-      "pib:2324965",
-      "pib:2324968",
-      "pib:2324975"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026"
     ],
     "source_failures": {
       "CCI": {
@@ -14435,8 +14439,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791821340069",
-    "1791822147239",
     "1791823712691",
     "1791825068157",
     "1791829920133",
@@ -18958,20 +18960,19 @@
     "1792342002989",
     "1792268479712",
     "1792298231324",
-    "1792299913132",
     "1792341420092",
     "1792342887814",
-    "1792301429606",
     "1792305051742",
-    "1792306996935",
-    "1792311143174",
     "1792341386769",
-    "1792341845091",
-    "1792342512489",
     "1792342945785",
     "1792343455501",
     "1792344056333",
     "1792344339622",
+    "1792264740968",
+    "1792308300319",
+    "1792315651895",
+    "1792331400908",
+    "1792341845720",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20203,7 +20204,6 @@
     "1792195200994",
     "1792252493712",
     "1792261064957",
-    "1792264740968",
     "1792267094513",
     "1792269600279",
     "1792270813883",
@@ -20225,8 +20225,10 @@
     "1792297860877",
     "1792298317119",
     "1792298595194",
+    "1792299913132",
     "1792300260229",
     "1792301208073",
+    "1792301429606",
     "1792301439342",
     "1792302380629",
     "1792302516436",
@@ -20248,9 +20250,10 @@
     "1792306473936",
     "1792306575528",
     "1792306646028",
+    "1792306996935",
     "1792307700386",
     "1792308092815",
-    "1792308300319",
+    "1792308300256",
     "1792308600030",
     "1792308698930",
     "1792308704032",
@@ -20258,12 +20261,12 @@
     "1792310267434",
     "1792310560568",
     "1792311141680",
+    "1792311143174",
     "1792311233771",
     "1792312459533",
     "1792313619741",
     "1792314979220",
     "1792315059730",
-    "1792315651895",
     "1792316163582",
     "1792316355169",
     "1792317366022",
@@ -20303,7 +20306,6 @@
     "1792330546692",
     "1792330603028",
     "1792331090199",
-    "1792331400908",
     "1792331518435",
     "1792331676806",
     "1792331807404",
@@ -20331,8 +20333,9 @@
     "1792340105849",
     "1792340256775",
     "1792341420436",
-    "1792341845720",
+    "1792341845091",
     "1792342002587",
+    "1792342512489",
     "1792342568661",
     "1792342887927",
     "1792343164395",
@@ -20344,6 +20347,7 @@
     "1792345265895",
     "1792346162384",
     "1792346583069",
+    "1792346773450",
     "1792346950087",
     "1792347345536",
     "1792347530868",
@@ -20436,8 +20440,8 @@
     "2324850",
     "2324940"
   ],
-  "last_digest_hour": "2026-10-19T00",
-  "last_success": "2026-10-18T19:16:00.546572+00:00",
+  "last_digest_hour": "2026-10-19T01",
+  "last_success": "2026-10-18T19:31:26.479755+00:00",
   "national": {
     "alerted": [
       {
@@ -28561,7 +28565,7 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T19:17:25.517104+00:00",
+    "last_run": "2026-10-18T19:32:51.008816+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2317229",
@@ -31109,6 +31113,21 @@
       "npci:617",
       "npci:620",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_4_Submission_LOC_17102026.pdf",
+      "pib:2324842",
+      "pib:2324850",
+      "pib:2324852",
+      "pib:2324872",
+      "pib:2324875",
+      "pib:2324891",
+      "pib:2324914",
+      "pib:2324916",
+      "pib:2324922",
+      "pib:2324937",
+      "pib:2324940",
+      "pib:2324958",
+      "pib:2324965",
+      "pib:2324968",
+      "pib:2324975",
       "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
@@ -31536,13 +31555,7 @@
       "gazette:CG-DL-E-17102026-277271",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-the-demise-of-morbis-rajmata-vijaykunwarba",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-stampede-in-kolkata",
-      "pib:2324842",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-gwalior-madhya-pradesh",
-      "pib:2324850",
-      "pib:2324852",
-      "pib:2324872",
-      "pib:2324875",
-      "pib:2324891",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|DELHI TRAFFIC POLICE, ZONE I, INTENSIFIES MOTORCYCLE PATROLLING THROUGH MOTORCYCLE UNIT TO ENSURE SMOOTH TRAFFIC FLOW DURING FESTIVE SEASON",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|FIRING AT BUSINESSMAN\u2019S RESIDENCE FOLLOWED BY EXTORTION DEMAND SOLVED BY JOINT TEAM OF PS NEW USMANPUR AND SPECIAL STAFF/NORTH EAST DISTRICT, FOUR ACCUSED ARRESTED",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|01 AUTOLIFTER ARRESTED BY THE STAFF OF PS NIHAL VIHAR",
@@ -31552,18 +31565,9 @@
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, ONE ABSCONDERS APPREHENDED.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|IFSO\u2019s Proactive Victim Identification and Protection Team Rescues Multiple Senior Citizens from \u201cDigital Arrest\u201d, Saves \u20b91 53 Crore from Cyber Fraudsters Across Five States",
-      "pib:2324914",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|Thana Divas,Jansunwai",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASESPS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES",
-      "pib:2324916",
-      "pib:2324922",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026",
-      "pib:2324937",
-      "pib:2324940",
-      "pib:2324958",
-      "pib:2324965",
-      "pib:2324968",
-      "pib:2324975"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026"
     ],
     "source_failures": {
       "CBI": {
@@ -31646,26 +31650,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Govt issues advisory to Meta over edited visuals and misleading claims",
-      "post": {
-        "created_at": "2026-10-18T18:09:10+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1792346950087",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "Meta social media platforms told to act on edited visuals, misleading claims amid SIR protests \u2014 What Govt advisory says",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUDVMSTF1Ukd5bjJac00yX3BVMjJmMlNKWm95RTdfSmc2UXFtbElJZzQwVzYtVVY4RzBYRlFsN2ktMXdfMDUyUFU3dHVsTEU2XzFUbEtKczlvNFpUcDlCSERKeEdvWExhSE9kaEU3Y3lXdmZFM2F1VzBYdzY1ZXFmbnE2UHJzLVhCWnZ6QkxyU1RUVVFGVFJjem56WnZwQnQ0RUtzZnI3ejVibU9pWVJEbjZKWnFLc2hGSGZ1ZlRranBCbDZyV0tJc1J4bDB4bjB1SWtkQVFIWHVUaEtuVzlrb1V0UHFqWDNWOUQwRE51eWNwNFAwWldEUmRkRU9yWnl6bnhHNUN1aVDSAYgCQVVfeXFMT1A1TEkxdVJHeW4yWnNNMl9wVTIyZjJTSlpveUU3X0pnNlFxbWxJSWc0MFc2LVVWOEcwWEZRbDdpLTF3XzA1MlBVN3R1bExFNl8xVGxLSnM5bzRaVHA5QkhESnhHb1hMYUhPZGhFN2N5V3ZmRTNhdVcwWHc2NWVxZm5xNlBycy1YQlp2ekJMclNUVFVRRlRSY3puelp2cEJ0NEVLc2ZyN3o1Ym1PaVlSRG42SlpxS3NoRkhmdWZUa2pwQmw2cldLSXNSeGwweG4wdUlrZEFRSFh1VGhLblc5a29VdFBxalgzVjlEMEROdXljcDRQMFpXRFJkZEVPclp5em54RzVDdWlQ?oc=5"
-      },
-      "queued_at": "2026-10-18T19:16:00.498751+00:00",
-      "score": 7.0,
-      "why": "Government and regulatory moves regarding tech platforms score well for the IT beat and general news."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -32818,7 +32803,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T19:16:00.801478+00:00",
+    "last_server_run": "2026-10-18T19:31:26.850118+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -35639,7 +35624,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T19:17:28.518236+00:00",
+    "last_run": "2026-10-18T19:32:53.515768+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36704,7 +36689,8 @@
       "x:2111876294145356005",
       "x:2111885323479527489",
       "x:2111887362179637406",
-      "x:2111895699583558109"
+      "x:2111895699583558109",
+      "x:2111901789746614503"
     ],
     "source_failures": {},
     "sources": []
