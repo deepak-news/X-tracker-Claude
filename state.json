@@ -12335,10 +12335,11 @@
       "down": {
         "CCI": "2026-10-18T16:33:02.828141+00:00",
         "IMD": "2026-10-18T16:33:02.828141+00:00",
+        "IRDAI": "2026-10-18T16:49:06.458899+00:00",
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T16:33:04.004567+00:00",
+    "last_run": "2026-10-18T16:49:07.652403+00:00",
     "pib_mark": 2324968,
     "seen": [
       "pib:2320137",
@@ -14368,9 +14369,12 @@
     ],
     "source_failures": {
       "CCI": {
-        "count": 1
+        "count": 2
       },
       "IMD": {
+        "count": 2
+      },
+      "IRDAI": {
         "count": 1
       },
       "MHA": {
@@ -14431,10 +14435,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791820834014",
-    "1791821356453",
-    "1791821460591",
-    "1791823140637",
     "1791825104283",
     "1791825194133",
     "1791830366084",
@@ -18897,11 +18897,9 @@
     "1792278240731",
     "1792330824543",
     "1792251742478",
-    "1792330546865",
     "1792334621267",
     "1792336140200",
     "1792252128079",
-    "1792301429606",
     "1792303750212",
     "1792321548904",
     "1792331807404",
@@ -18956,6 +18954,13 @@
     "1792291038965",
     "1792305679764",
     "1792337213402",
+    "1792254698586",
+    "1792255461440",
+    "1792266420183",
+    "1792283407622",
+    "1792305615511",
+    "1792330546692",
+    "1792331676806",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20189,8 +20194,6 @@
     "1792184044228",
     "1792195200994",
     "1792252493712",
-    "1792254698586",
-    "1792255461440",
     "1792255553551",
     "1792256040737",
     "1792256100969",
@@ -20202,7 +20205,6 @@
     "1792261064957",
     "1792262888622",
     "1792264740968",
-    "1792266420183",
     "1792267094513",
     "1792268479712",
     "1792269600279",
@@ -20213,7 +20215,6 @@
     "1792280891601",
     "1792281600672",
     "1792283400527",
-    "1792283407622",
     "1792283465105",
     "1792284392066",
     "1792284586067",
@@ -20233,6 +20234,7 @@
     "1792300129974",
     "1792300260229",
     "1792301208073",
+    "1792301429606",
     "1792301439342",
     "1792302380629",
     "1792302516436",
@@ -20243,13 +20245,13 @@
     "1792303640402",
     "1792304625738",
     "1792304733073",
+    "1792304743160",
     "1792304880842",
     "1792305051178",
     "1792305065360",
     "1792305104068",
     "1792305381009",
     "1792305422961",
-    "1792305615511",
     "1792305679250",
     "1792306140714",
     "1792306473936",
@@ -20278,6 +20280,7 @@
     "1792313619741",
     "1792314979220",
     "1792315059730",
+    "1792315651895",
     "1792316163582",
     "1792316355169",
     "1792317366022",
@@ -20315,13 +20318,12 @@
     "1792330200634",
     "1792330380924",
     "1792330442386",
-    "1792330546692",
+    "1792330546865",
     "1792330603028",
     "1792331090199",
     "1792331147814",
     "1792331400908",
     "1792331518435",
-    "1792331676806",
     "1792331760237",
     "1792331995021",
     "1792332001826",
@@ -20331,6 +20333,8 @@
     "1792335169172",
     "1792335330007",
     "1792335614543",
+    "1792335763563",
+    "1792335777893",
     "1792335839183",
     "1792336320283",
     "1792337400771",
@@ -20433,7 +20437,7 @@
     "2324940"
   ],
   "last_digest_hour": "2026-10-18T22",
-  "last_success": "2026-10-18T16:31:18.358915+00:00",
+  "last_success": "2026-10-18T16:46:01.093307+00:00",
   "national": {
     "alerted": [
       {
@@ -28556,7 +28560,7 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T16:32:25.766939+00:00",
+    "last_run": "2026-10-18T16:48:10.834806+00:00",
     "pib_mark": 2324968,
     "seen": [
       "pib:2317223",
@@ -31013,7 +31017,6 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168619",
       "page:https://internal.imd.gov.in/press_release/20260903_pr_5285.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-five-development-projects-worth-%e2%82%b93350-crore-in-ladakh",
-      "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "page:https://internal.imd.gov.in/press_release/20260910_pr_5304.pdf",
       "page:https://internal.imd.gov.in/press_release/20260916_pr_5319.pdf",
       "page:https://internal.imd.gov.in/press_release/20260915_pr_5317.pdf",
@@ -31104,6 +31107,7 @@
       "page:https://internal.imd.gov.in/press_release/20261017_pr_5414.pdf",
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_4_Submission_LOC_17102026.pdf",
+      "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -31566,10 +31570,10 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "CCI": {
-        "count": 1
+        "count": 2
       },
       "IMD": {
-        "count": 1
+        "count": 2
       },
       "MHA": {
         "count": 6,
@@ -31635,7 +31639,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "HCL and Tech Mahindra overtake TCS in quarterly net hiring",
+      "post": {
+        "created_at": "2026-10-18T15:02:43+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1792335763563",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BusinessLine",
+        "reposts": 0,
+        "text": "HCL Technologies, Tech Mahindra overtake TCS in net hiring adds",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2lBMW9sWEdvMm5SaXlHNnN3blkxckF5Y191eVJtQk1WMG5aVEFCNDFTOHpVNVBFQ1hPTFlFbVVGLXZMRDJTSEphVXd1eE9lNUlUVk1rR19zbFMtb2RpbWFZdGVvN1VZRGhObkFlOVZVemVKaGhfVWhEamVmYThWeUp0YzFSeXZHeFN3UTVjckFQazJjTzNGUThjNU1RSnVZeEg4RmFUT0NqeVNjbnE3Unl4eWhReksta0h5cE51UHZ2a20yT1ZOWNIBzwFBVV95cUxORkNpbk42Tml1NDhfM2Z0Wk9nRTJDNTlocjAxWlJMbmpRQk1fVGVuWXZPNUJmemhteEpjZ1BKc3RlX3NqMGc3RlhEWkNfVDFCcGVHdHJXYkd2T1BFR29XcTd5cU1HU2lzY2NNWUF1Q24wajZGSjdfSGozVmwzZU1LU3FaUUhrX3NtXzRQWnBQTXpvSENfWkZ0RjNsSU1kUUtSd0h5ZEk5d3JIN20xU1pWR2JVTmxjbWFfbjJMWldvZGxHajVxSFZiREFUcUpRbE0?oc=5"
+      },
+      "queued_at": "2026-10-18T16:46:00.952364+00:00",
+      "score": 7.0,
+      "why": "Significant headcount and hiring trends for major Indian IT firms."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -32768,7 +32791,11 @@
   },
   "watch": {
     "health_server": {
-      "down": {}
+      "down": {
+        "ED - performance summary": "2026-10-18T16:47:32.080017+00:00",
+        "ED - restitution of properties and assets": "2026-10-18T16:47:32.080017+00:00",
+        "ED - statistics": "2026-10-18T16:47:32.080017+00:00"
+      }
     },
     "introduced": [
       "DoPT EO - appointments and extensions (30 days)",
@@ -32782,7 +32809,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T16:31:18.763169+00:00",
+    "last_server_run": "2026-10-18T16:46:01.622847+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -32922,11 +32949,11 @@
       },
       "last": {
         "calendar": "2026-10-18T12:16:25.395972+00:00",
-        "ls_reports": "2026-10-18T14:31:58.562517+00:00",
+        "ls_reports": "2026-10-18T16:46:38.071368+00:00",
         "rs_committee_press": "2026-10-18T14:32:08.357651+00:00",
         "rs_press": "2026-10-18T14:32:05.447479+00:00",
-        "rs_reports": "2026-10-18T14:32:02.590052+00:00",
-        "rs_updates": "2026-10-18T14:32:09.879327+00:00"
+        "rs_reports": "2026-10-18T16:46:42.301503+00:00",
+        "rs_updates": "2026-10-18T16:47:00.893304+00:00"
       }
     },
     "scanned": [
@@ -35603,7 +35630,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T16:32:30.019862+00:00",
+    "last_run": "2026-10-18T16:48:14.326674+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36661,7 +36688,8 @@
       "x:2111840665432916212",
       "x:2111847270811582814",
       "x:2111848404074860665",
-      "x:2111852350860394899"
+      "x:2111852350860394899",
+      "x:2111857337640358292"
     ],
     "source_failures": {},
     "sources": []
