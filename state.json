@@ -12307,8 +12307,8 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T13:17:35.071565+00:00",
-    "pib_mark": 2324922,
+    "last_run": "2026-10-18T13:32:21.920607+00:00",
+    "pib_mark": 2324937,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14328,7 +14328,8 @@
       "pib:2324916",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASESPS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES",
       "pib:2324922",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026",
+      "pib:2324937"
     ],
     "source_failures": {
       "MHA": {
@@ -14389,9 +14390,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791803758935",
-    "1791805184633",
-    "1791806162187",
     "1791820447649",
     "1791756720042",
     "1791773402808",
@@ -18895,7 +18893,9 @@
     "1792324097754",
     "1792242385556",
     "1792242609683",
-    "1792323950766",
+    "1792243260086",
+    "1792256813738",
+    "1792301429606",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20167,7 +20167,6 @@
     "1792180474314",
     "1792184044228",
     "1792195200994",
-    "1792243260086",
     "1792245132289",
     "1792245870271",
     "1792246260798",
@@ -20187,7 +20186,6 @@
     "1792256040737",
     "1792256100969",
     "1792256527047",
-    "1792256813738",
     "1792258080787",
     "1792258080796",
     "1792258380938",
@@ -20229,7 +20227,6 @@
     "1792300129974",
     "1792300260229",
     "1792301208073",
-    "1792301429606",
     "1792301439342",
     "1792302380629",
     "1792302516436",
@@ -20296,6 +20293,7 @@
     "1792322414491",
     "1792323420300",
     "1792323925301",
+    "1792323950766",
     "1792324097689",
     "1792324801500",
     "1792325383856",
@@ -20303,7 +20301,9 @@
     "1792327278871",
     "1792327387475",
     "1792327991435",
+    "1792328100381",
     "1792328608774",
+    "1792329360674",
     "2317509",
     "2317615",
     "2317714",
@@ -20388,10 +20388,11 @@
     "2324307",
     "2324335",
     "2324336",
-    "2324850"
+    "2324850",
+    "2324940"
   ],
-  "last_digest_hour": "2026-10-18T18",
-  "last_success": "2026-10-18T13:15:57.102399+00:00",
+  "last_digest_hour": "2026-10-18T19",
+  "last_success": "2026-10-18T13:31:17.128918+00:00",
   "national": {
     "alerted": [
       {
@@ -28512,10 +28513,9 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T13:17:12.892559+00:00",
-    "pib_mark": 2324922,
+    "last_run": "2026-10-18T13:31:57.965800+00:00",
+    "pib_mark": 2324937,
     "seen": [
-      "pib:2317169",
       "pib:2317165",
       "pib:2317206",
       "pib:2317191",
@@ -31514,7 +31514,8 @@
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASESPS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES",
       "pib:2324916",
       "pib:2324922",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026",
+      "pib:2324937"
     ],
     "source_failures": {
       "CBI": {
@@ -32606,7 +32607,7 @@
       "meeting:RS|2288",
       "meeting:RS|2294"
     ],
-    "sent_on": "2026-10-17"
+    "sent_on": "2026-10-18"
   },
   "seen": {
     "airtel": 1791353787219,
@@ -32670,7 +32671,7 @@
     "microsoft india": 1792044074016,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792327991435,
+    "news: big tech platforms": 1792329360674,
     "news: consumer internet india": 1792320670798,
     "news: global ai": 1792312459930,
     "news: global chips": 1792325383856,
@@ -32690,7 +32691,7 @@
     "openai": 1792177200590,
     "oracle": 1791151314860,
     "phonepe": 1791444709443,
-    "pib communications": 2323785,
+    "pib communications": 2324940,
     "pib meity": 2324850,
     "pib science and technology": 2324336,
     "razorpay": 1792156871747,
@@ -32729,7 +32730,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T13:15:57.494709+00:00",
+    "last_server_run": "2026-10-18T13:31:17.440331+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T12:17:07.901031+00:00",
@@ -35550,7 +35551,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T13:17:15.788573+00:00",
+    "last_run": "2026-10-18T13:32:02.021504+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36588,7 +36589,8 @@
       "x:2111800195910619485",
       "x:2111801149171085374",
       "x:2111802906823577970",
-      "x:2111805747780628851"
+      "x:2111805747780628851",
+      "x:2111808704270200919"
     ],
     "source_failures": {},
     "sources": []
