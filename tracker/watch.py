@@ -42,7 +42,7 @@ import urllib3
 import yaml
 from bs4 import BeautifulSoup
 
-from . import email_out, sansad, source_health, website
+from . import email_out, sansad, source_health, tls, website
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 WATCHLIST = ROOT / "watchlist.yml"
@@ -300,8 +300,8 @@ def _next_page(session, url: str, soup: BeautifulSoup, grid: str, page: int):
     for name in [n for n in form if "imgbtndownload" in n]:
         form.pop(name)
     form["__EVENTTARGET"], form["__EVENTARGUMENT"] = grid, f"Page${page}"
-    response = session.post(url, data=form, timeout=TIMEOUT, verify=False,
-                            headers={**BROWSER, "Referer": url})
+    response = tls.get(session, "POST", url, data=form, timeout=TIMEOUT,
+                       headers={**BROWSER, "Referer": url})
     response.raise_for_status()
     return BeautifulSoup(response.text, "html.parser")
 
@@ -425,7 +425,7 @@ def _gazette_listing(category: int, scanned: set, max_pages: int = 5) -> list:
 def _read_gazette_listing(category: int, scanned: set, max_pages: int) -> list:
     session = requests.Session()
     session.headers.update(BROWSER)
-    home = session.get("https://egazette.gov.in/", timeout=TIMEOUT, verify=False)
+    home = tls.get(session, "GET", "https://egazette.gov.in/", timeout=TIMEOUT)
     home.raise_for_status()
     base = home.url.rsplit("/", 1)[0]        # carries the (S(...)) session part
     url = f"{base}/RecentUploads.aspx?Category={category}"

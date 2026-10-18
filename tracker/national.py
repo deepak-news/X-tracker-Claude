@@ -34,7 +34,7 @@ import yaml
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
-from . import email_out, judge, parallel, regulators, score_log, source_health, sources, watch, website
+from . import email_out, judge, parallel, regulators, score_log, source_health, sources, tls, watch, website
 from .main import dead_models, record_dead_models
 from .sources import Post
 
@@ -198,8 +198,8 @@ def _gazette_text(url: str) -> str:
     if not url.lower().endswith(".pdf"):
         return ""
     try:
-        response = requests.get(url, timeout=40, verify=False,
-                                headers={"User-Agent": sources.UA})
+        response = tls.get(requests, "GET", url, timeout=40,
+                           headers={"User-Agent": sources.UA})
         response.raise_for_status()
         reader = PdfReader(io.BytesIO(response.content))
         raw = " ".join((page.extract_text() or "") for page in reader.pages[:3])
@@ -548,8 +548,8 @@ def _ncs_quakes() -> list:
     the data: each event in the side list holds its own details in a
     data-json attribute. Times there are IST.
     """
-    response = requests.get(NCS_URL, timeout=sources.TIMEOUT,
-                            headers=sources.PAGE_HEADERS, verify=False)
+    response = tls.get(requests, "GET", NCS_URL, timeout=sources.TIMEOUT,
+                       headers=sources.PAGE_HEADERS)
     response.raise_for_status()
     found = []
     for raw in re.findall(r"data-json='([^']+)'", response.text):
