@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-12T09:31:21.373449+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "TCS plans to hire 80% freshers equipped with specialized artificial intelligence skills",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFMzNzBsRXpTclZUQjJ1RFlaSGhvYUlXUzNWa1BkZXZ4OEcwWC13NDUyUW1aU2VDS0lVWlVKN2JoYW9IWnRqS0JzT0JTRUI2NHNtX3FFU05feGlWVWVSUEY0UW9VcVR1WmViZW1YUnZWeVpYOUFKcEJrVG12WEVoT1lkX3JFWVhYN1hWSll5MTVXck9SV1ROOVJKRkRXb0Faam9EOTdwbENUNENYcmI2cWgyU3FJWHA0Mk1MatIBxAFBVV95cUxNYmI4RUx6RW9rTHF3RmhPS2RBY1dkbUgxb3QzWWZ5Q3h2dzMyZVFSbkJfcnhVYkQ5WTlOWFlMLUVQdUlsN0xESXRHRzBMV0lBZ1dOS2pmZ2ZjZWhUWHhfTDE2aU03WWgtRFJDS1BFX0FERmxfUmtQMnNqbmtxTTZ5YkpUWXFlMjFxU240bnlEYWViT3liXzJUcTlZOE1meGs3dlVsZm1RN0ctVHctNkE2dDhlNGlETWFETlVSY3ZZbW02VWhT?oc=5",
-      "words": [
-        "alone",
-        "chatgpt",
-        "enough",
-        "freshers",
-        "hire",
-        "skills",
-        "tcs",
-        "these"
-      ]
-    },
-    {
-      "at": "2026-10-12T09:31:21.373449+00:00",
       "handle": "News: India telecom",
       "headline": "India financial services deal value reaches $7.3 billion in Q3 driven by Jio and NSE",
       "tier": 0,
@@ -7429,6 +7412,24 @@
         "tech",
         "warns"
       ]
+    },
+    {
+      "at": "2026-10-18T17:31:29.185389+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "HCL and Tech Mahindra overtake TCS in quarterly net hiring",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2lBMW9sWEdvMm5SaXlHNnN3blkxckF5Y191eVJtQk1WMG5aVEFCNDFTOHpVNVBFQ1hPTFlFbVVGLXZMRDJTSEphVXd1eE9lNUlUVk1rR19zbFMtb2RpbWFZdGVvN1VZRGhObkFlOVZVemVKaGhfVWhEamVmYThWeUp0YzFSeXZHeFN3UTVjckFQazJjTzNGUThjNU1RSnVZeEg4RmFUT0NqeVNjbnE3Unl4eWhReksta0h5cE51UHZ2a20yT1ZOWNIBzwFBVV95cUxORkNpbk42Tml1NDhfM2Z0Wk9nRTJDNTlocjAxWlJMbmpRQk1fVGVuWXZPNUJmemhteEpjZ1BKc3RlX3NqMGc3RlhEWkNfVDFCcGVHdHJXYkd2T1BFR29XcTd5cU1HU2lzY2NNWUF1Q24wajZGSjdfSGozVmwzZU1LU3FaUUhrX3NtXzRQWnBQTXpvSENfWkZ0RjNsSU1kUUtSd0h5ZEk5d3JIN20xU1pWR2JVTmxjbWFfbjJMWldvZGxHajVxSFZiREFUcUpRbE0?oc=5",
+      "words": [
+        "adds",
+        "hcl",
+        "hiring",
+        "mahindra",
+        "net",
+        "overtake",
+        "tcs",
+        "tech",
+        "technologies"
+      ]
     }
   ],
   "bureau": {
@@ -12338,8 +12339,8 @@
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       }
     },
-    "last_run": "2026-10-18T17:17:55.665614+00:00",
-    "pib_mark": 2324968,
+    "last_run": "2026-10-18T17:33:22.717610+00:00",
+    "pib_mark": 2324975,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14364,7 +14365,8 @@
       "pib:2324940",
       "pib:2324958",
       "pib:2324965",
-      "pib:2324968"
+      "pib:2324968",
+      "pib:2324975"
     ],
     "source_failures": {
       "CCI": {
@@ -14433,9 +14435,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1780381800383",
-    "1791747489139",
-    "1791775834925",
     "1791819903948",
     "1791823159120",
     "1791814680188",
@@ -18891,7 +18890,6 @@
     "1792252910647",
     "1792253148068",
     "1792299913132",
-    "1792304280535",
     "1792320460183",
     "1792324801500",
     "1792331090130",
@@ -18955,13 +18953,19 @@
     "1791849600884",
     "1792022400425",
     "1792262888622",
-    "1792274666606",
     "1792283407622",
     "1792308337663",
     "1792334132583",
-    "1792340105849",
     "1792341386075",
     "1792341944596",
+    "1792258080787",
+    "1792258080796",
+    "1792283465105",
+    "1792312200622",
+    "1792331147814",
+    "1792335777728",
+    "1792337213402",
+    "1792337802344",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20193,8 +20197,6 @@
     "1792184044228",
     "1792195200994",
     "1792252493712",
-    "1792258080787",
-    "1792258080796",
     "1792258380938",
     "1792258719709",
     "1792260498260",
@@ -20206,10 +20208,10 @@
     "1792270813883",
     "1792273093723",
     "1792273571142",
+    "1792274666606",
     "1792280891601",
     "1792281600672",
     "1792283400527",
-    "1792283465105",
     "1792284392066",
     "1792284586067",
     "1792287858802",
@@ -20237,6 +20239,7 @@
     "1792302879338",
     "1792303259754",
     "1792303640402",
+    "1792304280535",
     "1792304625738",
     "1792304733073",
     "1792304743160",
@@ -20264,7 +20267,6 @@
     "1792311141680",
     "1792311143174",
     "1792311233771",
-    "1792312200622",
     "1792312459930",
     "1792313619741",
     "1792314979220",
@@ -20310,7 +20312,6 @@
     "1792330546692",
     "1792330603028",
     "1792331090199",
-    "1792331147814",
     "1792331400908",
     "1792331518435",
     "1792331676806",
@@ -20324,12 +20325,10 @@
     "1792335330007",
     "1792335614543",
     "1792335763563",
-    "1792335777728",
+    "1792335777570",
     "1792335839183",
     "1792336320283",
-    "1792337213402",
     "1792337400771",
-    "1792337802344",
     "1792338004797",
     "1792338370656",
     "1792338415200",
@@ -20337,6 +20336,7 @@
     "1792339117453",
     "1792339273229",
     "1792339481067",
+    "1792340105849",
     "1792340238149",
     "1792340256343",
     "1792341386769",
@@ -20344,9 +20344,11 @@
     "1792341845091",
     "1792342002989",
     "1792342568661",
+    "1792342887814",
     "1792342945785",
     "1792343164395",
     "1792343455501",
+    "1792343897972",
     "2317509",
     "2317615",
     "2317714",
@@ -20434,8 +20436,8 @@
     "2324850",
     "2324940"
   ],
-  "last_digest_hour": "2026-10-18T22",
-  "last_success": "2026-10-18T17:16:06.701693+00:00",
+  "last_digest_hour": "2026-10-18T23",
+  "last_success": "2026-10-18T17:31:29.289245+00:00",
   "national": {
     "alerted": [
       {
@@ -28559,10 +28561,9 @@
       },
       "warned": "2026-10-17T21:17:05.787579+00:00"
     },
-    "last_run": "2026-10-18T17:17:46.875330+00:00",
-    "pib_mark": 2324968,
+    "last_run": "2026-10-18T17:33:13.014543+00:00",
+    "pib_mark": 2324975,
     "seen": [
-      "pib:2317223",
       "pib:2317229",
       "pib:2317226",
       "pib:2317224",
@@ -31105,10 +31106,10 @@
       "cci-pr:media-gallery|707",
       "page:https://internal.imd.gov.in/press_release/20261017_pr_5414.pdf",
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
-      "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "npci:617",
       "npci:620",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_4_Submission_LOC_17102026.pdf",
+      "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -31561,7 +31562,8 @@
       "pib:2324940",
       "pib:2324958",
       "pib:2324965",
-      "pib:2324968"
+      "pib:2324968",
+      "pib:2324975"
     ],
     "source_failures": {
       "CBI": {
@@ -31581,7 +31583,7 @@
         "until": "2026-10-18T20:32:23.326822+00:00"
       },
       "NPCI": {
-        "count": 1
+        "count": 2
       },
       "State: Maharashtra": {
         "count": 19,
@@ -31643,26 +31645,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "HCL and Tech Mahindra overtake TCS in quarterly net hiring",
-      "post": {
-        "created_at": "2026-10-18T15:02:43+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1792335763563",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "HCL Technologies, Tech Mahindra overtake TCS in net hiring adds",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2lBMW9sWEdvMm5SaXlHNnN3blkxckF5Y191eVJtQk1WMG5aVEFCNDFTOHpVNVBFQ1hPTFlFbVVGLXZMRDJTSEphVXd1eE9lNUlUVk1rR19zbFMtb2RpbWFZdGVvN1VZRGhObkFlOVZVemVKaGhfVWhEamVmYThWeUp0YzFSeXZHeFN3UTVjckFQazJjTzNGUThjNU1RSnVZeEg4RmFUT0NqeVNjbnE3Unl4eWhReksta0h5cE51UHZ2a20yT1ZOWNIBzwFBVV95cUxORkNpbk42Tml1NDhfM2Z0Wk9nRTJDNTlocjAxWlJMbmpRQk1fVGVuWXZPNUJmemhteEpjZ1BKc3RlX3NqMGc3RlhEWkNfVDFCcGVHdHJXYkd2T1BFR29XcTd5cU1HU2lzY2NNWUF1Q24wajZGSjdfSGozVmwzZU1LU3FaUUhrX3NtXzRQWnBQTXpvSENfWkZ0RjNsSU1kUUtSd0h5ZEk5d3JIN20xU1pWR2JVTmxjbWFfbjJMWldvZGxHajVxSFZiREFUcUpRbE0?oc=5"
-      },
-      "queued_at": "2026-10-18T16:46:00.952364+00:00",
-      "score": 7.0,
-      "why": "Significant headcount and hiring trends for major Indian IT firms."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -32747,7 +32730,7 @@
     "microsoft india": 1792044074016,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792342945785,
+    "news: big tech platforms": 1792343897972,
     "news: consumer internet india": 1792342568661,
     "news: global ai": 1792339117453,
     "news: global chips": 1792343164395,
@@ -32756,7 +32739,7 @@
     "news: india edtech gaming": 1792332586655,
     "news: india fintech": 1792327387475,
     "news: india semiconductors": 1792311141680,
-    "news: india tech policy": 1792341944596,
+    "news: india tech policy": 1792343897972,
     "news: india telecom": 1792343455501,
     "news: indian it majors": 1792337213402,
     "news: indian it midcaps": 1792329855544,
@@ -32814,7 +32797,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T17:16:07.158472+00:00",
+    "last_server_run": "2026-10-18T17:31:29.717541+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -35635,7 +35618,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T17:17:49.353319+00:00",
+    "last_run": "2026-10-18T17:33:15.883496+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36694,7 +36677,9 @@
       "x:2111847270811582814",
       "x:2111848404074860665",
       "x:2111852350860394899",
-      "x:2111857337640358292"
+      "x:2111857337640358292",
+      "x:2111868891253367267",
+      "x:2111873108403699976"
     ],
     "source_failures": {},
     "sources": []
