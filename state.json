@@ -12360,12 +12360,11 @@
       "down": {
         "CCI": "2026-10-18T16:33:02.828141+00:00",
         "IMD": "2026-10-18T16:33:02.828141+00:00",
-        "IRDAI": "2026-10-18T22:33:36.583336+00:00",
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       },
       "warned": "2026-10-18T19:47:32.561212+00:00"
     },
-    "last_run": "2026-10-18T22:33:37.934706+00:00",
+    "last_run": "2026-10-18T22:47:29.873011+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2320137",
@@ -14393,7 +14392,8 @@
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|Thana Divas,Jansunwai",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASESPS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168618"
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168618",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168608"
     ],
     "source_failures": {
       "CCI": {
@@ -14403,9 +14403,6 @@
       "IMD": {
         "count": 3,
         "until": "2026-10-18T23:03:21.871809+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "MHA": {
         "count": 7,
@@ -14465,7 +14462,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791797248824",
     "1791803703514",
     "1791832511936",
     "1788187525292",
@@ -18999,7 +18995,10 @@
     "1792342002587",
     "1792345265895",
     "1792299913132",
-    "1792308092815",
+    "1792290310226",
+    "1792340256775",
+    "1792347581286",
+    "1792352586905",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20235,7 +20234,6 @@
     "1792288792823",
     "1792288920069",
     "1792289817865",
-    "1792290310226",
     "1792291562812",
     "1792292289090",
     "1792293720990",
@@ -20271,6 +20269,7 @@
     "1792306646028",
     "1792306996935",
     "1792307700386",
+    "1792308092815",
     "1792308300256",
     "1792308600030",
     "1792308698930",
@@ -20294,6 +20293,7 @@
     "1792317366022",
     "1792317609377",
     "1792318075823",
+    "1792318330590",
     "1792318939809",
     "1792319357284",
     "1792319783548",
@@ -20351,7 +20351,6 @@
     "1792339117829",
     "1792339273229",
     "1792339481067",
-    "1792340256775",
     "1792341420436",
     "1792341845091",
     "1792342512489",
@@ -20369,11 +20368,9 @@
     "1792346773124",
     "1792346950894",
     "1792347345536",
-    "1792347581286",
     "1792349460165",
     "1792350060720",
     "1792350697868",
-    "1792352586905",
     "1792353396069",
     "1792354070030",
     "1792355860654",
@@ -20467,7 +20464,7 @@
     "2324940"
   ],
   "last_digest_hour": "2026-10-19T04",
-  "last_success": "2026-10-18T22:31:17.537139+00:00",
+  "last_success": "2026-10-18T22:45:57.682893+00:00",
   "national": {
     "alerted": [
       {
@@ -28591,10 +28588,9 @@
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-18T22:32:43.901818+00:00",
+    "last_run": "2026-10-18T22:47:20.121845+00:00",
     "pib_mark": 2324975,
     "seen": [
-      "pib:2317226",
       "pib:2317224",
       "pib:2317233",
       "pib:2317251",
@@ -31158,8 +31154,8 @@
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAMS OF PS RAJ PARK AND SULTANPURI",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|INTER STATE AUTO LIFTER GANG BUSTED BY TEAM OF AATS,SOUTH WEST DISTRICT",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MURDER CASE OF PS SONIA VIHAR SOLVED",
-      "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_4_Submission_LOC_17102026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
+      "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_4_Submission_LOC_17102026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Date_Sheet_Special_Examinations_09102026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_1_Following_accuracy_timeliness_LOC_2627_09102026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_1_Submission_LOC_14102026.pdf",
@@ -31593,7 +31589,8 @@
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|Thana Divas,Jansunwai",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASESPS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168618"
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168618",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168608"
     ],
     "source_failures": {
       "CBI": {
@@ -32829,7 +32826,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-18T22:31:17.933623+00:00",
+    "last_server_run": "2026-10-18T22:45:58.181542+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -35650,7 +35647,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-18T22:32:46.384336+00:00",
+    "last_run": "2026-10-18T22:47:22.798296+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
