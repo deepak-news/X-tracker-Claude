@@ -1,65 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-12T13:16:09.916949+00:00",
-      "handle": "Microsoft",
-      "headline": "Microsoft expands Azure Maia custom AI chip deployments for multi-gigawatt scaling",
-      "tier": 1,
-      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
-      "words": [
-        "200",
-        "2027",
-        "300",
-        "article",
-        "azure",
-        "coming",
-        "deployments",
-        "era",
-        "expand",
-        "gigawatt",
-        "intelligence",
-        "into",
-        "maia",
-        "microsoft"
-      ]
-    },
-    {
-      "at": "2026-10-12T13:31:39.563346+00:00",
-      "handle": "News: Global AI",
-      "headline": "HCLTech and Anthropic partner to expand enterprise AI deployment using Claude",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYzRxMjFuV01LWTFNYm1ONmxaNEZvRHVibkY2VkNzaV94VXVWd0RtRjlxZUNqQ2FxWE1tZ3pQeUZsRTNhblJuelBPTEdYakR3aDJGRFBadjBXWlpIMzIxUlpLQmZtYkZSdnhLZzRteGVZRmZxZ1p1Tm5RZkdudkhRSTU2WFczQkpqOFhZaUZGU0JJeTlfQXFiYk04dzF6dDh2U1lGV2ZOYndiMWZrS2VFVjItNm9KX2lKamxvRVhzRlVOd25tcGw1OHNn0gHKAUFVX3lxTE5jNHEyMW5XTUtZMU1ibU42bFo0Rm9EdWJuRjZWQ3NpX3hVdVZ3RG1GOXFlQ2pDYXFYTW1nelB5RmxFM2FuUm56UE9MR1hqRHdoMkZEUFp2MFdaWkgzMjFSWktCZm1iRlJ2eEtnNG14ZVlGZnFnWnVOblFmR252SFFJNTZYVzNCSmo4WFlpRkZTQkl5OV9BcWJiTTh3MXp0OHZTWUZXZk5id2IxZmtLZUVWMi02b0pfaUpqbG9FWHNGVU53bm1wbDU4c2c?oc=5",
-      "words": [
-        "anthropic",
-        "claude",
-        "deployment",
-        "enterprise",
-        "expand",
-        "hcltech",
-        "partner",
-        "using"
-      ]
-    },
-    {
-      "at": "2026-10-12T13:31:39.563346+00:00",
-      "handle": "News: India edtech gaming",
-      "headline": "Nazara founder Nitish Mittersain steps down as MD",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVEJnbmRTa2tXb1p6WkxlSDNZWmViMUR1T1pnU05YMWxueVRHZWR1eDcyaE1BdnQtaktYTDJyVHFRekgtQW1Vakp1U3NFNDdsaFJqc0JhTllhcHBTSGR0aWs3Ti1XeVFNY1VhNDVSMWdQZDRGS1JhVGJDY01xYVZOaEdaVzZiTDdfSDg2Uk1pR0NBc0k2bGQyV29tUnhvbkxjaTVnUjlvdV82TWoyVU91X25CQU1uQkJ0SU9lQ3pFVkYyOGkyUUJ0ZVo1dWc5d09aVW9HRm5JcGZJNVdVNENHbFVRUGlxejI1VjVqZGlTY9IB9AFBVV95cUxOTTRONURWSVNmYktlZnVGaUVYNi1od1I0bVZTdE5xSmMzZXBPWm8yQ21NTkpBTm5MM2dEb2luZUJrWTBkTUI3MXBIanFNbnFDZjJHYmhxdHF6Z05wN0tyWFNJSGJ2QmxTaFFrSzhXVDBRT0J2aFM3aUNjcUxGcE9qeFBBcDFuVmR6MHI3N0NEX1dUYm83dF9ydTRHN3RfeTBuVjB1OU5XemR0NHJhV0JtYm1zczFhQVoyb3ZsOHl4Zlh2eF9rT1l0SUdRVy1fWmZPVHYwMlFzNGZHYmFCMHFzNFAtLWZVaDJfVkVUWlVDMmpxcU1V?oc=5",
-      "words": [
-        "becomes",
-        "director",
-        "executive",
-        "founder",
-        "mithun",
-        "mittersain",
-        "nazara",
-        "nitish",
-        "sacheti",
-        "step"
-      ]
-    },
-    {
       "at": "2026-10-12T13:31:39.563346+00:00",
       "handle": "News: Indian IT majors",
       "headline": "TCS plans for 80% of new hires to possess AI skills",
@@ -7423,6 +7364,59 @@
         "provider",
         "replit"
       ]
+    },
+    {
+      "at": "2026-10-19T07:31:37.714907+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Truecaller faces $91 million tax claim in India over transfer pricing",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONFZsT25WRnptT0xlVk9Sc0NjZnB3dDZfaEpKMjY1eDFKRERDZ1lFUG43NmlBN1JiNjBtM0F1RUxnamZRRktTbHFLcmNYakkwZmFoamNnQ1FXV0FLcDZtZnpFSFJxcW5aa0xPelJ5d2Z1clRuYWZqdjhEVnFmcXpDdko2ZTVEbjRvc1hsZHc5VkR4VFRpbkNVSktqdE5IYXBycm1FMXY5U3dxdlh0ZTJXdjBmRlYySDNDWWFrbGhYT1hVemZzbUpvTU93RWRkMEV1blo0WjdVQWfSAd4BQVVfeXFMTjJmN0xVZnNCZHljamd5X2JTeFRCaVl1TTVsY09jNkpKNXl3bE04R1RGZVpqNWx5aldvZmtja1VMR1dDRFMwaUxDaXBNeDdNWXN5MlJxSzJzVjI4cXM3QzE2X0RUR0M0bUc5VXZXejJnaTRTU1lSa2tDdTdmaHJwNTRJOUItLWxsZ3BMNUhSUHVjTnRLdXU5THVhTjM3UXRnbWl3WUJvUUMwT0E1SGxlaEdwM3dDZ25MbWVaQlE5VXJxbVcyRnRQMUlZS1FKMTcxUFZrRzlsLXlNOF9Bb25R?oc=5",
+      "words": [
+        "claim",
+        "expects",
+        "million",
+        "pricing",
+        "tax",
+        "transfer",
+        "truecaller"
+      ]
+    },
+    {
+      "at": "2026-10-19T07:31:37.714907+00:00",
+      "handle": "News: India telecom",
+      "headline": "HFCL Q2 profit and revenue surge drives stock to upper circuit",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUZGUUhTV1dmVHFKN2FCekpJUWp0SExQdlZxOXJuT1h1OXFjMGRXcmh3MXB4cDZ3SEpQeTdUR1pkSXQxVGJOQTNwcGZCSTNmdXNIZENsV1FXamxiQXZvR0FEbEkxZWV1NGpFOFo4Z0lEQ3JXREwtaXRXWndpbzF5a2ZVTkV4LXBjTS1BNm91U0hTRlZtTXZnem55NUROblFwUU1NY01nSFFMd2NNOUtYNF9ZQ2ZvdG9zS2t0SlI4Y0t0NGRrbnpEVDdSQ25rRkRWaFItVmJoaWdUV29XR19HUjVRck5Sd9IB6wFBVV95cUxPeTBsZHhTcVVNb0Q3ZVhLOXdRNVZCWFRFTE9TUEhBSzV0dC14YVozUHI5TEZwemppODk3Tkd3TkVibWFOeVBBZ0k4Y3Q4RzlmVFFLNkxmWUdqeDFuZ3lWMVRwaGNzcWN3NG1ja0p5cjhSb1J6MzBldHlrVDBrMGh1NU1TNGdBZEM3b2dkTHZsN3hNY0xpS01icTh0ekRabmZlMkQ1TmJoWWw3ZG9veE5sTVZqN0dtVmwwZXJHYVVVano5V0hNdUtkSFVqZGVOUHhmY3JUUjJNQ1R1RmNuamFBQnlPenJRZFhQUmlJ?oc=5",
+      "words": [
+        "circuit",
+        "fold",
+        "hfcl",
+        "jump",
+        "multi",
+        "operating",
+        "profit",
+        "results",
+        "topline",
+        "upper"
+      ]
+    },
+    {
+      "at": "2026-10-19T07:31:37.714907+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Sam Altman's biometric startup develops tool to identify AI agents",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRWlDRmdmV3ExaExPb3JnZGJib0lzVUNPdjdSVVhkZlZkN3hFMThxSnJ0VXJLS1pzaHM0Z1pqUHJaenYyUmRyYVpyNS1QTEliQmFEVDA5QUtJb3JVREtOTWVIWmNuajJQLTFIV0VUeG1XYm9HV0hqd3QyLWNMYWcwT2Zzam80S0hrN2RMU2d5Q3A2cWNrYU1wa1BuMVA4dHJTbm40NmRxSDYyT3VDSVFMSWFDVVd2alBEUmluSkh1ZVpubFRoc2fSAcwBQVVfeXFMTXdOdGhtWVpnNllyV3FJTjlTOHVpQUlCRmRraHhMUXUyRlBBUmdyVUt2ZHBoTHVSVTQwc1FFdDh1TFZ2WEhtcEpRTlFwRXJyNS1BZi1taHIzbXFrei1JM1V1UUNTd1laR290dm5QMzV1Tzc2bk5tbzgtR0Y0WjNyUmtGbC1wdVlyZUdqZ0VKaEZ1WS1JSlBLQldvT3JsdUpIT3NPMm1hSWE3Uk9TU1RRMXFRU0pQZFBfRG13bGJMcHdUN3ZoTk13dU9qaDF3?oc=5",
+      "words": [
+        "agents",
+        "altman",
+        "banks",
+        "biometric",
+        "help",
+        "identify",
+        "sam",
+        "startup",
+        "work"
+      ]
     }
   ],
   "bureau": {
@@ -12379,8 +12373,8 @@
       },
       "warned": "2026-10-18T19:47:32.561212+00:00"
     },
-    "last_run": "2026-10-19T07:17:49.206661+00:00",
-    "pib_mark": 2325024,
+    "last_run": "2026-10-19T07:33:13.770908+00:00",
+    "pib_mark": 2325030,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14425,7 +14419,8 @@
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-announces-the-10-winners-of-its-online-human-rights-quiz-2026-organised-ahead-of-its-33rd-foundation-day-in-collaboration-with-mygov",
       "site:Delhi Police|dp-notification:16/10/2026|ORDER US 163 BNSS BY ACP SHALIMAR BAGH DATED 16 OCTOBER 2026",
       "pib:2325012",
-      "pib:2325024"
+      "pib:2325024",
+      "pib:2325030"
     ],
     "source_failures": {
       "CCI": {
@@ -14494,16 +14489,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791855000774",
-    "1791858497901",
-    "1791863188572",
-    "1791865766303",
-    "1791869465500",
-    "1791873105135",
-    "1791873582437",
-    "1791789248760",
-    "1791801585732",
-    "1791806029462",
     "1791823980269",
     "1791824211059",
     "1791852840891",
@@ -18956,7 +18941,6 @@
     "1792357200188",
     "1792368000010",
     "1792368000051",
-    "1792373675335",
     "1792377673930",
     "1792381524931",
     "1792381962231",
@@ -18981,13 +18965,31 @@
     "1792368860450",
     "1792375200253",
     "1792375764231",
-    "1792376775982",
-    "1792381800072",
-    "1792387500323",
     "1792389271376",
     "1792389860329",
-    "1792390367251",
     "1792390973540",
+    "1792308600030",
+    "1792369800079",
+    "1792371034308",
+    "1792373675423",
+    "1792376845477",
+    "1792377127982",
+    "1792377780840",
+    "1792381038724",
+    "1792381800254",
+    "1792383153579",
+    "1792383164366",
+    "1792386399003",
+    "1792386399728",
+    "1792386693164",
+    "1792387677386",
+    "1792388738612",
+    "1792388865289",
+    "1792389271277",
+    "1792389894273",
+    "1792390367128",
+    "1792393013739",
+    "1792393212025",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20214,7 +20216,6 @@
     "1792252493712",
     "1792261064957",
     "1792270813883",
-    "1792308600030",
     "1792308704032",
     "1792309688425",
     "1792310267434",
@@ -20274,7 +20275,6 @@
     "1792367994195",
     "1792368900484",
     "1792368919018",
-    "1792369800079",
     "1792369800558",
     "1792369800774",
     "1792369804537",
@@ -20282,7 +20282,6 @@
     "1792370115539",
     "1792370418557",
     "1792370589951",
-    "1792371034308",
     "1792371600632",
     "1792371720983",
     "1792371840450",
@@ -20293,7 +20292,7 @@
     "1792373433088",
     "1792373461835",
     "1792373581386",
-    "1792373675423",
+    "1792373675335",
     "1792374240165",
     "1792374720489",
     "1792375527517",
@@ -20301,15 +20300,14 @@
     "1792376561008",
     "1792376708559",
     "1792376762010",
-    "1792376845477",
+    "1792376775982",
     "1792377011317",
-    "1792377127982",
+    "1792377252779",
     "1792377403526",
     "1792377467714",
     "1792377474729",
     "1792377646337",
     "1792377780685",
-    "1792377780840",
     "1792377998888",
     "1792378078745",
     "1792378255038",
@@ -20323,13 +20321,12 @@
     "1792380660039",
     "1792380737807",
     "1792380900126",
-    "1792381038724",
     "1792381051698",
     "1792381380351",
     "1792381524120",
     "1792381532670",
     "1792381593990",
-    "1792381800254",
+    "1792381800072",
     "1792381993990",
     "1792382002878",
     "1792382060205",
@@ -20341,8 +20338,6 @@
     "1792382576069",
     "1792382641211",
     "1792382659346",
-    "1792383153579",
-    "1792383164366",
     "1792383164444",
     "1792383306209",
     "1792383316949",
@@ -20357,39 +20352,37 @@
     "1792385506527",
     "1792385700567",
     "1792386383030",
-    "1792386399003",
-    "1792386399728",
+    "1792386399622",
     "1792386540048",
-    "1792386693164",
     "1792387020936",
     "1792387265387",
     "1792387329408",
+    "1792387500323",
     "1792387620291",
-    "1792387677386",
     "1792387677669",
     "1792388014433",
     "1792388069566",
     "1792388214144",
     "1792388685380",
-    "1792388738612",
-    "1792388865289",
+    "1792388738965",
+    "1792388865582",
     "1792388892709",
     "1792389038164",
-    "1792389271277",
+    "1792389271930",
     "1792389562619",
     "1792389783613",
     "1792389829339",
     "1792389860045",
-    "1792389894273",
     "1792389960945",
     "1792390130098",
     "1792390277684",
-    "1792390367128",
+    "1792390367251",
     "1792390421790",
     "1792390521285",
     "1792390554399",
     "1792390609775",
     "1792390640555",
+    "1792390920562",
     "1792391128706",
     "1792391476337",
     "1792391797391",
@@ -20401,13 +20394,15 @@
     "1792392323837",
     "1792392571458",
     "1792392796479",
-    "1792393013739",
     "1792393121410",
-    "1792393212025",
+    "1792393212261",
     "1792393291622",
     "1792393420211",
     "1792393552358",
     "1792393554982",
+    "1792393934535",
+    "1792394146583",
+    "1792394795822",
     "2317509",
     "2317615",
     "2317714",
@@ -20495,8 +20490,8 @@
     "2324850",
     "2324940"
   ],
-  "last_digest_hour": "2026-10-19T12",
-  "last_success": "2026-10-19T07:16:08.921311+00:00",
+  "last_digest_hour": "2026-10-19T13",
+  "last_success": "2026-10-19T07:31:37.764540+00:00",
   "national": {
     "alerted": [
       {
@@ -28620,10 +28615,9 @@
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-19T07:17:36.096985+00:00",
-    "pib_mark": 2325024,
+    "last_run": "2026-10-19T07:33:02.228544+00:00",
+    "pib_mark": 2325030,
     "seen": [
-      "pib:2317327",
       "pib:2317336",
       "pib:2317338",
       "pib:2317346",
@@ -31622,7 +31616,8 @@
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-announces-the-10-winners-of-its-online-human-rights-quiz-2026-organised-ahead-of-its-33rd-foundation-day-in-collaboration-with-mygov",
       "site:Delhi Police|dp-notification:16/10/2026|ORDER US 163 BNSS BY ACP SHALIMAR BAGH DATED 16 OCTOBER 2026",
       "pib:2325012",
-      "pib:2325024"
+      "pib:2325024",
+      "pib:2325030"
     ],
     "source_failures": {
       "CBI": {
@@ -31705,62 +31700,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Truecaller faces $91 million tax claim in India over transfer pricing",
-      "post": {
-        "created_at": "2026-10-19T06:06:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1792389960945",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "Truecaller expects $91 million tax claim from India over transfer pricing",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONFZsT25WRnptT0xlVk9Sc0NjZnB3dDZfaEpKMjY1eDFKRERDZ1lFUG43NmlBN1JiNjBtM0F1RUxnamZRRktTbHFLcmNYakkwZmFoamNnQ1FXV0FLcDZtZnpFSFJxcW5aa0xPelJ5d2Z1clRuYWZqdjhEVnFmcXpDdko2ZTVEbjRvc1hsZHc5VkR4VFRpbkNVSktqdE5IYXBycm1FMXY5U3dxdlh0ZTJXdjBmRlYySDNDWWFrbGhYT1hVemZzbUpvTU93RWRkMEV1blo0WjdVQWfSAd4BQVVfeXFMTjJmN0xVZnNCZHljamd5X2JTeFRCaVl1TTVsY09jNkpKNXl3bE04R1RGZVpqNWx5aldvZmtja1VMR1dDRFMwaUxDaXBNeDdNWXN5MlJxSzJzVjI4cXM3QzE2X0RUR0M0bUc5VXZXejJnaTRTU1lSa2tDdTdmaHJwNTRJOUItLWxsZ3BMNUhSUHVjTnRLdXU5THVhTjM3UXRnbWl3WUJvUUMwT0E1SGxlaEdwM3dDZ25MbWVaQlE5VXJxbVcyRnRQMUlZS1FKMTcxUFZrRzlsLXlNOF9Bb25R?oc=5"
-      },
-      "queued_at": "2026-10-19T07:01:36.443302+00:00",
-      "score": 7.0,
-      "why": "A massive tax dispute involving a major platform operating in India is a significant regulatory and financial story."
-    },
-    {
-      "headline": "HFCL Q2 profit and revenue surge drives stock to upper circuit",
-      "post": {
-        "created_at": "2026-10-19T07:01:31+00:00",
-        "handle": "News: India telecom",
-        "id": "1792393291622",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "HFCL Q2 Results: Stock in 5% upper circuit after multi-fold jump in topline, operating profit",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOUZGUUhTV1dmVHFKN2FCekpJUWp0SExQdlZxOXJuT1h1OXFjMGRXcmh3MXB4cDZ3SEpQeTdUR1pkSXQxVGJOQTNwcGZCSTNmdXNIZENsV1FXamxiQXZvR0FEbEkxZWV1NGpFOFo4Z0lEQ3JXREwtaXRXWndpbzF5a2ZVTkV4LXBjTS1BNm91U0hTRlZtTXZnem55NUROblFwUU1NY01nSFFMd2NNOUtYNF9ZQ2ZvdG9zS2t0SlI4Y0t0NGRrbnpEVDdSQ25rRkRWaFItVmJoaWdUV29XR19HUjVRck5Sd9IB6wFBVV95cUxPeTBsZHhTcVVNb0Q3ZVhLOXdRNVZCWFRFTE9TUEhBSzV0dC14YVozUHI5TEZwemppODk3Tkd3TkVibWFOeVBBZ0k4Y3Q4RzlmVFFLNkxmWUdqeDFuZ3lWMVRwaGNzcWN3NG1ja0p5cjhSb1J6MzBldHlrVDBrMGh1NU1TNGdBZEM3b2dkTHZsN3hNY0xpS01icTh0ekRabmZlMkQ1TmJoWWw3ZG9veE5sTVZqN0dtVmwwZXJHYVVVano5V0hNdUtkSFVqZGVOUHhmY3JUUjJNQ1R1RmNuamFBQnlPenJRZFhQUmlJ?oc=5"
-      },
-      "queued_at": "2026-10-19T07:16:08.844033+00:00",
-      "score": 7.0,
-      "why": "This is a major quarterly financial results and performance update from a tracked telecom and tech firm."
-    },
-    {
-      "headline": "Sam Altman's biometric startup develops tool to identify AI agents",
-      "post": {
-        "created_at": "2026-10-19T07:05:54+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1792393554982",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Indian Express",
-        "reposts": 0,
-        "text": "Sam Altman\u2019s biometric startup to help banks identify AI agents: How will it work?",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRWlDRmdmV3ExaExPb3JnZGJib0lzVUNPdjdSVVhkZlZkN3hFMThxSnJ0VXJLS1pzaHM0Z1pqUHJaenYyUmRyYVpyNS1QTEliQmFEVDA5QUtJb3JVREtOTWVIWmNuajJQLTFIV0VUeG1XYm9HV0hqd3QyLWNMYWcwT2Zzam80S0hrN2RMU2d5Q3A2cWNrYU1wa1BuMVA4dHJTbm40NmRxSDYyT3VDSVFMSWFDVVd2alBEUmluSkh1ZVpubFRoc2fSAcwBQVVfeXFMTXdOdGhtWVpnNllyV3FJTjlTOHVpQUlCRmRraHhMUXUyRlBBUmdyVUt2ZHBoTHVSVTQwc1FFdDh1TFZ2WEhtcEpRTlFwRXJyNS1BZi1taHIzbXFrei1JM1V1UUNTd1laR290dm5QMzV1Tzc2bk5tbzgtR0Y0WjNyUmtGbC1wdVlyZUdqZ0VKaEZ1WS1JSlBLQldvT3JsdUpIT3NPMm1hSWE3Uk9TU1RRMXFRU0pQZFBfRG13bGJMcHdUN3ZoTk13dU9qaDF3?oc=5"
-      },
-      "queued_at": "2026-10-19T07:16:08.844033+00:00",
-      "score": 7.0,
-      "why": "This is a significant product and security disclosure by a major AI leader involving agent authentication."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -32847,7 +32787,7 @@
     "microsoft india": 1792378078745,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792393212025,
+    "news: big tech platforms": 1792393212261,
     "news: consumer internet india": 1792393121410,
     "news: global ai": 1792392571458,
     "news: global chips": 1792391942533,
@@ -32856,8 +32796,8 @@
     "news: india edtech gaming": 1792377646337,
     "news: india fintech": 1792393420211,
     "news: india semiconductors": 1792387500323,
-    "news: india tech policy": 1792390521285,
-    "news: india telecom": 1792393552358,
+    "news: india tech policy": 1792390920562,
+    "news: india telecom": 1792394795822,
     "news: indian it majors": 1792391797391,
     "news: indian it midcaps": 1792388214144,
     "news: pib releases": 1790159940641,
@@ -32914,7 +32854,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T07:16:09.326300+00:00",
+    "last_server_run": "2026-10-19T07:31:38.000751+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -35804,7 +35744,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T07:17:42.916436+00:00",
+    "last_run": "2026-10-19T07:33:07.567050+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36937,7 +36877,10 @@
       "x:2112070864133095533",
       "x:2112077268101239218",
       "x:2112077968604348917",
-      "x:2112079112328425872"
+      "x:2112079112328425872",
+      "x:2112080594331205957",
+      "x:2112080815517786527",
+      "x:2112083045885116666"
     ],
     "source_failures": {},
     "sources": []
