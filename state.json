@@ -1,99 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-13T01:31:30.434369+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Sarvam in talks for $300 million funding at $3 billion valuation",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVDJoa25TWDVHMTBzMENRdkxoQ05Md0R6aURhU3hGVkViMi1pM0szUW1jbHcwRUhteUp0Mk02RzZaOXB0Z0RiSklVekd3TUhmejRlM3JvaWRLTTdCZVNjaERueUs1empoUHpQMGNVbkx6RDAxRVppZVBsVWZMWkNiQWxJSDk2elM3b3ZvNXJaOVZKZHlfMk01X191a3VfalN5NWJLdms0anhuTEVnRjRmV0FRUVBqdlpIRzUwelhKUGdYTi1EdGplU1E3NHlycC1qemxrLURJOTF6REU0aWFJTnk4c1Y5cFN4RHpoby1TR3phejlGY05HddIB6gFBVV95cUxQQkhDYXRkSFd1VkxDWFBuc0dfVmtuTTVoNGl6cFRtRnBBUE1WMng0WG9qbUZDMHJwa2lKenVNT09kX1FyTVBVNnJhSFZKOUpIeXJHX2RQZEdMaUgxOXFyV0gybm1RWjhTNmxBMjgwcDZJcTVrOEJXaUN0VkdBeDBqX2ZFVFNNM0ZzbkNlM3paY2FzZ2RfYVU2SGJEekEzdzRzN2dERm5rMTRENFJDUW1jRUdaVDRvN0xYOWpEdm90dlRENzNZOWlxZzBUSUNhVVRuNTg2aldOVzBRQ2UyTXdOdlNxenQ4cUlfSXc?oc=5",
-      "words": [
-        "300",
-        "billion",
-        "double",
-        "may",
-        "million",
-        "sarvam",
-        "startup",
-        "talks",
-        "top",
-        "valuation"
-      ]
-    },
-    {
-      "at": "2026-10-13T01:31:30.434369+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Zoho pauses pay hikes due to AI costs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHZ5ODUzWXNwbnpPY1RaelIydTNFTmZmLXlLM1dILUVwbnJMZGV4b2d5V0hqR3MyV3Z0LXo5eG52VHdlRnpROTNwOUlYd1pDSlVhMVlnWE9qdUxfRVpESzI1d2xRX1J6VUNPUGRJZkZsck5iWEcwcDNwY0Vhd2o1TE02a2xER25fWjZRemExMVd4bXJEMnhfSUFQaHh4dTFqU3ZPTnNIaXdhMlhMZ2V0VjF30gG3AUFVX3lxTFBCMGNPLVdRSHU2NDBSb1hEWnIzNkI3WGpKeDZhUWN4TElQR1NMRm1MV1E3Wm5VVHZnbF9xbWJhN2t3WjBfTnl3amVTY0E5NmhiclhUdzVuMXlTZGQ5SlVTRi1TYURzWGUtMGE0aFdWOHFUSUVMQXBjU0VwenVlR3l4QkhNc0diQzYyZS1nbjVRSUZEdUo5YnlNMEVSZVlJVnVoR1hYRzA4QjdicDRoU2FWRVYxX0NQWQ?oc=5",
-      "words": [
-        "apologise",
-        "cost",
-        "hikes",
-        "pay",
-        "pressures",
-        "sridhar",
-        "vembu",
-        "year",
-        "zoho"
-      ]
-    },
-    {
-      "at": "2026-10-13T01:31:30.434369+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic introduces new safeguards to reduce AI distillation attacks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZuUXZob1BWeEV1WEZOdWIwRW9ucW92UFVueWd3clAxbHNSUHh1VXFuX1dTalVxLWgyX3Y5ZmZhYzIxc1BNRGN4Y3JUOXBIQjhZUUlDMlNyZ2Q1WW4zOThMbF85R1NGZ0RrWnRLVWMyNjdFWmswb2hrMmNlQWttOUZVOGFjUnRaUzduMDVKMnI1ODlUaWJuTkZ1M3U5N3haQWIzMzNyNzNNUUt1eW5ZVk5EV1pPczA?oc=5",
-      "words": [
-        "anthropic",
-        "attacks",
-        "distillation",
-        "reduce",
-        "safeguards",
-        "sharply"
-      ]
-    },
-    {
-      "at": "2026-10-13T02:31:26.021310+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta unveils Muse Wonder AI models for personal superintelligence push",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmYtaGVTZUNEQUR0b015WUtTVU1FX2ZHdTRiZmlNMFdMbENlclBWaHR1aWtBRjN0TmpIaEdPNDI4RjZmMnh0cUZzSXpXY0UtZDV4MDVPWS1DVVNjSjZDY0RFRHFtV0VYemxvWlpkZkdaVzlJX1VTeUZZU3JfbEZfcVdHMERlcnhEOTllM2U2ZUgtem44NnNwLXRHc1VmOVphcjMtQVR1QWdkblhUeGRXRjBFN1VwMm1WbzhsN3lfZXBONTZPU1ZCZF9sQTBQT2haUGc?oc=5",
-      "words": [
-        "advance",
-        "meta",
-        "models",
-        "muse",
-        "personal",
-        "push",
-        "superintelligence",
-        "unveils",
-        "wonder"
-      ]
-    },
-    {
-      "at": "2026-10-13T02:31:26.021310+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Zoho's Sridhar Vembu warns software job market faces AI pressure",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVzhGREF2OEdsWnRSZTBqMjUzUVd6UEhsbm9WYU5pUndzdHJHcHlQd01IZ3E1bUVhS1JMdWZfbmxWM0VFbURja0NDSjF4LWhxdFFmQUR6MTNOU3ltZlNvRHY0N2haRzVaS2trMHhWMHRQcG9sczE3ZGJiSkxWTlJobWpzQXdYZWMzODFHaFk2a0F0S215dWhjSXJuc1dsa3VRZ1JzZEFuLWpRQ0ZCRU1RY19QamJrQzloTVBhelJEcXZybXJpcmxVd3ByOHhvVmlaT09ZRk5hc0hKUTd1eHUzVjkxYjFvN1lqNkFnRW530gH2AUFVX3lxTE5tZUJ3VFJNTFN5cnBWZ3pDb0tjcnZkNWZ0ZmVLX0R2aDA0UTBKd2ZlaEhZcmxRTzRqTE9rU240YVdvdW9CWV9iSkIybEVPUnN0Q25Cc3NkYXZJYXloVWs4TlpmWFB3WGJOSF9uTHZ0NFhacTNERjk0LVJMLVZob3Y1MFF4aDlqZFhhdzMwNlJFQ2JReVpKcFFMYy1idS1iYTN6T0lrSlRDcW9LV2JjX2FtZW5nWGJRTHJiVFFmN0pFVWlQQVVsQUVIVDhaTzRqOFByUzlBZ2NXVFVKMC14alEteE5pRHlpUm9kcUpLRTlfNHozNnhQUQ?oc=5",
-      "words": [
-        "avoid",
-        "cost",
-        "flags",
-        "grim",
-        "hard",
-        "jobs",
-        "layoffs",
-        "mass",
-        "outlook",
-        "software",
-        "sridhar",
-        "surge",
-        "vembu",
-        "warns"
-      ]
-    },
-    {
       "at": "2026-10-13T02:31:26.021310+00:00",
       "handle": "News: Indian IT majors",
       "headline": "HCL Tech management adopts cautious stance amid global upheavals and AI deflation",
@@ -7430,6 +7337,103 @@
         "expand",
         "frontier"
       ]
+    },
+    {
+      "at": "2026-10-19T16:31:35.421482+00:00",
+      "handle": "Redseer",
+      "headline": "Redseer projects India online retail to cross USD 90 billion in 2026",
+      "tier": 1,
+      "url": "https://redseer.com/articles/online-retail-heads-for-usd-90-bn-in-2026-its-fastest-growth-in-five-years",
+      "words": [
+        "2026",
+        "accoun",
+        "article",
+        "fastest",
+        "five",
+        "good",
+        "growth",
+        "heads",
+        "judged",
+        "mobile",
+        "mobiles",
+        "online",
+        "published",
+        "reason"
+      ]
+    },
+    {
+      "at": "2026-10-19T16:31:37.278494+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Infosys expands Truist GCC partnership in Hyderabad",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc0U2MGo5RFg1MGYwczNjalk1OTY0cFFrYTZUcFNacU5LQzRjVlpSNXhvb0pkb0lEMVEyRjI4WVY3YURwUmdWWG01QjlRZlI3Mlh2bk83c25iRnNWUVduamlDMUZ5MlYzSk14Q1VHWThjRkUtSGpHUmc5elJaVkVCbnlWRmQ3LTdoQzF4Z2NheDlmR0tkelVxckNLelAxZTd5RjZDalJCclJocjRwVkprNTRLejJ6RkdYQTVSR0RTUHNna2FSY0N5VHZKeDd5XzJKRm1fa3BLb01yZ9IB3wFBVV95cUxPd1ZLenp3MVNwYU1BTFdJSXBnOVVfUXhYZkwxNEdmZmdFRmlhZXJ5WkNlU241SFNLU3p3N2N6TlRGa0VTVFBhWWlLQ3dDaTVpNlNJZmNnRnV0bU93bWZJYnl5YTJtTUxPVXRkY2pIYmpiWmVNRTZVdkU0Q2RzYjAzQTY1THU0MzQ2VDlyRHNUdXF4aWM2NVBFekxPcEtmVFE2dWQySjMtTmtnQW5iTEx3SlROMWxWS2JKZVh5bm1KQ0JjUE02c0c3VGVTVmY5dW9IUGVGbHNrYzFEbWYycFhF?oc=5",
+      "words": [
+        "000",
+        "adds",
+        "expands",
+        "gcc",
+        "hyd",
+        "infosys",
+        "staff",
+        "tie",
+        "truist"
+      ]
+    },
+    {
+      "at": "2026-10-19T16:31:37.278494+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "LTTS reports Q2 net profit surge to Rs 548.2 crore",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM0hBQmlMM1dQY1NqVWdCbWhPZzhPeFdsWXdVQlVxcFkwM0QyVGVKcWRVNEI3M0MyNDlkTV92Mm01RS1EQkNRVTlOaU1qYW9MdEg2RGljYkgxU2NLTzBtZUhqRHpUdm1aOVJtSXRENjNodVRhdkNBTzdfanh4UERCQWxWRldqUVhnbDdHbTE1RXhpQ0lLaVVfR3JVUXlqaThSdFZ6OUE2M25qdVVKSGNxNGoydE01WTJjNmQ1OFlKMXZDalBzdzZBb2MyS0VvX29ySU1ELU93NG5rSDl5MEVxN3JVZ3JJeUJKV0dmUnNCVdIB6AFBVV95cUxNTDluQURpOC1zUzY2N3NtdnAtbkV3M2laWXkteG8yaFNfeXd1QXNmVEpKbHlXVnV6aXlXMVlTdTJtaWxEcEQ0LV9yWEpUSlVuTlltYngzMHVpLTJxZjFHb1R1QlN6dG1NZUh0Ull5YVR6WXVPSFdPRXJ1ZkgteXBOSURyb25uV0JVMF95WGNfdWRnTWluTkFVeVZxN0pfd0RVU09zTTVZaFQ2YWtONFNCRzRTZ25FNWhjNTVWYXRtbzAyUmxaSXlrRWZBNzB6aUhSU2YxZnZLamF0LUFEMS12dmxidEJ3bE5S?oc=5",
+      "words": [
+        "548",
+        "business",
+        "driven",
+        "ltts",
+        "net",
+        "profit",
+        "reports",
+        "surge",
+        "swc"
+      ]
+    },
+    {
+      "at": "2026-10-19T16:31:37.278494+00:00",
+      "handle": "News: Global AI",
+      "headline": "DOJ calls for detaining OpenAI engineer citing Saudi ties",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRTRiR1pUdnNEdktkVl92OHdEYlVrTEF4TjBsWWhqM2lNVVFxLVFNWk5RamVFRldRdFBiREc1MElOMFFtU0F2X3ZUT3Q4aXRsS05WMV8wUEZQa3pqeU51cHRobHZHRTd1ZmVSaC1sVW40SkV2ZjdyZkF0eUs0RXFtOTI3WG0zWDBUUWw5aEc1N2JQMGFuTW8tOVJuMnVROFJOQllKT3ZCZ1hoMTVO?oc=5",
+      "words": [
+        "calls",
+        "citing",
+        "detaining",
+        "doj",
+        "engineer",
+        "openai",
+        "saudi",
+        "ties"
+      ]
+    },
+    {
+      "at": "2026-10-19T16:31:37.278494+00:00",
+      "handle": "News: Global AI",
+      "headline": "Google DeepMind unveils Gemini 4 Argon agents beating Minecraft",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbHZ2R0lNbXozUnBiYzY1ZUxKaVZzcGFsX0ROY1hiUmg2bVRVRjFuS1BCNjB2ZE83bFA2R3dWaWVFMTdoVHhOZzROOHJLMzItLTZkWlo0YmFQWV8xN2pudnZLTGE4cEVtUE1YMWlELXpIc0h1Q0tIMWVfM2dYNUc1WXpUQWtlbDRVT2xaWmpDQmhzNXlXN25TS1N3R3JKN01NdkptUVRwRFBkclRKNVhKSEZzU1Z2Wk9aUzhIWk9ha0lIWHh6WDluM2FvMGhiNi1IeFV1eEtoQUhuLVNjN1VIMGRFZE5lR1pmb2wxa2dheklncDRzQWNEdkFMMHJ1SkptQ281WnlhQ2tzZE1melctRDFzdXpHUkREdGRmdWJ6ZUXSAaYCQVVfeXFMUE1xX200QXBaTGQ0OWFtUHVOd0FONlB4OVZRVF9HYURqelVydTF1QnI0Qm1OR1liNS1WZ3Q1S09GX2ZzOFFTd05fZEtNQlEwVzZuUmoyQVU0UTBVVXQ0UV9FeThtNWtNSUNtUU55akdiNEY5cVljSWNCZm5jbEVXQ0lJcnFnSFNTQ3VUVE5ld2ZORHN3V2dFcVVOOTZ6RWZBbW1JQVRacDJmVndVU0xINmNtUXZaMUhBeVk2Tmx1TURrUzdRYTFlV1BZZWo1Q2dNZEVJQkRIeUtDUUI4RmZWUW1lVExObE1tWmd3Y256d1BQS3ZlVVVqTzFCZlk5a0tqd1VvUWVyMWtYUU84LUhRUWxVRWx2Q2NIc3paNnhzTzFFRWJfTEpB?oc=5",
+      "words": [
+        "agents",
+        "another",
+        "argon",
+        "beat",
+        "company",
+        "deepmind",
+        "game",
+        "gemini",
+        "google",
+        "minecraft",
+        "scratch",
+        "wins"
+      ]
     }
   ],
   "bureau": {
@@ -12501,9 +12505,55 @@
           "syntel",
           "technolog"
         ]
+      },
+      {
+        "at": "2026-10-19T16:34:22.422770+00:00",
+        "handle": "Gazette Ministry of Finance",
+        "headline": "Government announces auction for re-issue of government stock",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277291.pdf",
+        "words": [
+          "2031",
+          "2066",
+          "53pc",
+          "71pc",
+          "affairs",
+          "auction",
+          "budget",
+          "department",
+          "division",
+          "economic",
+          "extraordinary",
+          "finance",
+          "gazette",
+          "issue"
+        ]
+      },
+      {
+        "at": "2026-10-19T16:34:22.422770+00:00",
+        "handle": "Gazette Ministry of Commerce and Industry",
+        "headline": "Commerce Ministry notifies partial denotification of Tata Steel SEZ in Odisha",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277289.pdf",
+        "words": [
+          "commerce",
+          "denotifica",
+          "district",
+          "extraordinary",
+          "ganjam",
+          "gazette",
+          "gopalpur",
+          "industry",
+          "limited",
+          "ministry",
+          "multi",
+          "notification",
+          "odisha",
+          "partial"
+        ]
       }
     ],
-    "gazette_mark": 277286,
+    "gazette_mark": 277292,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -12929,15 +12979,20 @@
       "CG-DL-E-19102026-277283",
       "CG-TL-E-19102026-277284",
       "CG-DL-E-19102026-277285",
-      "CG-DL-E-19102026-277286"
+      "CG-DL-E-19102026-277286",
+      "CG-DL-E-19102026-277289",
+      "CG-DL-E-19102026-277291",
+      "CG-DL-E-19102026-277292",
+      "SG-DL-E-19102026-277287"
     ],
     "health": {
       "down": {
         "CCI": "2026-10-18T16:33:02.828141+00:00",
         "IMD": "2026-10-18T16:33:02.828141+00:00"
-      }
+      },
+      "warned": "2026-10-19T16:33:49.810914+00:00"
     },
-    "last_run": "2026-10-19T16:18:38.595211+00:00",
+    "last_run": "2026-10-19T16:34:22.443039+00:00",
     "pib_mark": 2325288,
     "seen": [
       "pib:2320137",
@@ -14625,9 +14680,9 @@
       "gazette:CG-TL-E-17102026-277244",
       "gazette:CG-OR-E-17102026-277246",
       "gazette:CG-DL-E-17102026-277245",
-      "gazette:CG-TL-E-17102026-277250",
       "gazette:CG-WB-E-17102026-277249",
       "gazette:CG-WB-E-17102026-277248",
+      "gazette:CG-TL-E-17102026-277250",
       "gazette:CG-WB-E-17102026-277251",
       "gazette:CG-MP-E-17102026-277252",
       "gazette:CG-DL-E-17102026-277253",
@@ -15094,7 +15149,11 @@
       "gazette:CG-DL-E-19102026-277283",
       "gazette:CG-TL-E-19102026-277284",
       "gazette:CG-DL-E-19102026-277285",
-      "gazette:CG-DL-E-19102026-277286"
+      "gazette:CG-DL-E-19102026-277286",
+      "gazette:SG-DL-E-19102026-277287",
+      "gazette:CG-DL-E-19102026-277289",
+      "gazette:CG-DL-E-19102026-277292",
+      "gazette:CG-DL-E-19102026-277291"
     ],
     "source_failures": {
       "CCI": {
@@ -15159,17 +15218,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791873856157",
-    "1791877979780",
-    "1791884070301",
-    "1791887762770",
-    "1791896919655",
-    "1791899743931",
-    "1790674204488",
-    "1791815260211",
-    "1791863426274",
-    "1791867537564",
-    "1791882477213",
     "1791886399382",
     "1791887520392",
     "1791887580038",
@@ -19498,7 +19546,6 @@
     "1792405680469",
     "1792405800557",
     "1792405980096",
-    "1792411618166",
     "1792413349464",
     "1792413868001",
     "1792370418557",
@@ -19583,7 +19630,6 @@
     "1792404785368",
     "1792405560250",
     "1792406392259",
-    "1792407840014",
     "1792411200867",
     "1792419700760",
     "1792423709595",
@@ -19591,7 +19637,6 @@
     "1792378715884",
     "1792383791793",
     "1792386960814",
-    "1792412447213",
     "1792412688572",
     "1792413720323",
     "1792414261405",
@@ -19605,8 +19650,21 @@
     "1792415033801",
     "1792415532028",
     "1792415978263",
-    "1792419988713",
     "1792424976441",
+    "1789631212334",
+    "1791914400160",
+    "1792340256775",
+    "1792340942501",
+    "1792388069566",
+    "1792404720770",
+    "1792405920561",
+    "1792412447870",
+    "1792414574632",
+    "1792415899105",
+    "1792416720216",
+    "1792418460219",
+    "1792422249739",
+    "1792424466501",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20415,7 +20473,6 @@
     "1789631210996",
     "1789631210999",
     "1789631212128",
-    "1789631212334",
     "1789631212341",
     "1789631212388",
     "1789631212556",
@@ -20743,7 +20800,6 @@
     "1791910800323",
     "1791913470057",
     "1791913986499",
-    "1791914400160",
     "1791920587440",
     "1791936000122",
     "1791936000447",
@@ -20851,8 +20907,6 @@
     "1792195200994",
     "1792270813883",
     "1792314855948",
-    "1792340256775",
-    "1792340942501",
     "1792341420436",
     "1792341793775",
     "1792342583706",
@@ -20892,7 +20946,6 @@
     "1792387020936",
     "1792387265612",
     "1792388014433",
-    "1792388069566",
     "1792388187144",
     "1792388685380",
     "1792388744762",
@@ -20953,14 +21006,12 @@
     "1792404517033",
     "1792404540185",
     "1792404543871",
-    "1792404720770",
     "1792404932955",
     "1792404943074",
     "1792405049190",
     "1792405617594",
     "1792405800553",
     "1792405825476",
-    "1792405920561",
     "1792405980371",
     "1792406083377",
     "1792406222452",
@@ -20973,6 +21024,7 @@
     "1792407392569",
     "1792407600650",
     "1792407639707",
+    "1792407840014",
     "1792407900413",
     "1792408643347",
     "1792408652437",
@@ -20999,8 +21051,9 @@
     "1792411500945",
     "1792411569004",
     "1792411580415",
+    "1792411618166",
     "1792412397147",
-    "1792412447870",
+    "1792412447213",
     "1792412744147",
     "1792412748636",
     "1792412803060",
@@ -21013,7 +21066,6 @@
     "1792414012758",
     "1792414306528",
     "1792414487575",
-    "1792414574632",
     "1792414802125",
     "1792414840095",
     "1792414846074",
@@ -21023,30 +21075,28 @@
     "1792415646089",
     "1792415835312",
     "1792415863448",
-    "1792415899105",
     "1792415899176",
     "1792416550061",
-    "1792416720216",
     "1792416720577",
     "1792416900121",
     "1792417697331",
     "1792417740015",
     "1792418111366",
     "1792418220555",
-    "1792418460219",
     "1792419000800",
+    "1792419008287",
     "1792419033895",
     "1792419173898",
     "1792419302049",
     "1792419738706",
     "1792419988643",
+    "1792419988713",
     "1792421172731",
     "1792421391079",
     "1792422031371",
     "1792422086752",
     "1792422157794",
     "1792422240240",
-    "1792422249739",
     "1792422441862",
     "1792422460480",
     "1792422496344",
@@ -21054,21 +21104,30 @@
     "1792422950988",
     "1792422991697",
     "1792423044109",
+    "1792423496760",
     "1792423527356",
     "1792423852605",
     "1792423984177",
     "1792423997259",
     "1792424099760",
     "1792424229955",
-    "1792424466501",
     "1792424525857",
     "1792424580470",
     "1792424762901",
+    "1792425169338",
+    "1792425193463",
     "1792425240385",
     "1792425600188",
     "1792425600727",
+    "1792425600933",
+    "1792425814198",
     "1792425989708",
     "1792426081116",
+    "1792426212607",
+    "1792426408153",
+    "1792426932286",
+    "1792426974410",
+    "1792427473272",
     "1792430400524",
     "2317509",
     "2317615",
@@ -21160,8 +21219,8 @@
     "2325103",
     "2325239"
   ],
-  "last_digest_hour": "2026-10-19T21",
-  "last_success": "2026-10-19T16:16:14.946119+00:00",
+  "last_digest_hour": "2026-10-19T22",
+  "last_success": "2026-10-19T16:31:37.352454+00:00",
   "national": {
     "alerted": [
       {
@@ -28381,7 +28440,7 @@
         ]
       }
     ],
-    "gazette_mark": 277286,
+    "gazette_mark": 277292,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -29479,25 +29538,26 @@
       "CG-DL-E-19102026-277283",
       "CG-TL-E-19102026-277284",
       "CG-DL-E-19102026-277285",
-      "CG-DL-E-19102026-277286"
+      "CG-DL-E-19102026-277286",
+      "CG-DL-E-19102026-277289",
+      "CG-DL-E-19102026-277291",
+      "CG-DL-E-19102026-277292",
+      "SG-DL-E-19102026-277287"
     ],
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "CCI": "2026-10-18T16:32:24.562138+00:00",
         "IMD": "2026-10-18T16:32:24.562138+00:00",
+        "NPCI": "2026-10-19T16:32:34.596838+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-19T16:17:55.291779+00:00",
+    "last_run": "2026-10-19T16:33:22.968598+00:00",
     "pib_mark": 2325288,
     "seen": [
-      "cci-pr:media-gallery|690",
-      "cci-pr:media-gallery|689",
-      "gazette:CG-MH-E-01102026-276666",
-      "gazette:CG-DL-E-01102026-276667",
       "gazette:CG-TL-E-01102026-276668",
       "gazette:CG-DL-E-01102026-276670",
       "gazette:CG-TL-E-01102026-276669",
@@ -31958,15 +32018,15 @@
       "gazette:CG-DL-E-17102026-277237",
       "gazette:CG-DL-E-17102026-277238",
       "gazette:CG-TL-E-17102026-277244",
-      "quake:usgs:us6000u3bc",
-      "quake:usgs:us6000u3c7",
       "npci:617",
       "npci:620",
       "gazette:CG-OR-E-17102026-277246",
       "gazette:CG-DL-E-17102026-277245",
-      "gazette:CG-TL-E-17102026-277250",
       "gazette:CG-WB-E-17102026-277249",
       "gazette:CG-WB-E-17102026-277248",
+      "quake:usgs:us6000u3bc",
+      "quake:usgs:us6000u3c7",
+      "gazette:CG-TL-E-17102026-277250",
       "gazette:CG-WB-E-17102026-277251",
       "gazette:CG-MP-E-17102026-277252",
       "gazette:CG-DL-E-17102026-277253",
@@ -32493,7 +32553,11 @@
       "gazette:CG-DL-E-19102026-277283",
       "gazette:CG-TL-E-19102026-277284",
       "gazette:CG-DL-E-19102026-277285",
-      "gazette:CG-DL-E-19102026-277286"
+      "gazette:CG-DL-E-19102026-277286",
+      "gazette:CG-DL-E-19102026-277289",
+      "gazette:CG-DL-E-19102026-277291",
+      "gazette:SG-DL-E-19102026-277287",
+      "gazette:CG-DL-E-19102026-277292"
     ],
     "source_failures": {
       "CBI": {
@@ -32507,6 +32571,9 @@
       "IMD": {
         "count": 6,
         "until": "2026-10-19T17:02:52.608422+00:00"
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -32568,80 +32635,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Infosys expands Truist GCC partnership in Hyderabad",
-      "post": {
-        "created_at": "2026-10-19T15:43:00+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1792424580470",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Infosys expands Truist GCC tie-up, adds 1,000 staff in Hyd",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc0U2MGo5RFg1MGYwczNjalk1OTY0cFFrYTZUcFNacU5LQzRjVlpSNXhvb0pkb0lEMVEyRjI4WVY3YURwUmdWWG01QjlRZlI3Mlh2bk83c25iRnNWUVduamlDMUZ5MlYzSk14Q1VHWThjRkUtSGpHUmc5elJaVkVCbnlWRmQ3LTdoQzF4Z2NheDlmR0tkelVxckNLelAxZTd5RjZDalJCclJocjRwVkprNTRLejJ6RkdYQTVSR0RTUHNna2FSY0N5VHZKeDd5XzJKRm1fa3BLb01yZ9IB3wFBVV95cUxPd1ZLenp3MVNwYU1BTFdJSXBnOVVfUXhYZkwxNEdmZmdFRmlhZXJ5WkNlU241SFNLU3p3N2N6TlRGa0VTVFBhWWlLQ3dDaTVpNlNJZmNnRnV0bU93bWZJYnl5YTJtTUxPVXRkY2pIYmpiWmVNRTZVdkU0Q2RzYjAzQTY1THU0MzQ2VDlyRHNUdXF4aWM2NVBFekxPcEtmVFE2dWQySjMtTmtnQW5iTEx3SlROMWxWS2JKZVh5bm1KQ0JjUE02c0c3VGVTVmY5dW9IUGVGbHNrYzFEbWYycFhF?oc=5"
-      },
-      "queued_at": "2026-10-19T15:51:43.432624+00:00",
-      "score": 8.0,
-      "why": "This is a confirmed expansion of an Indian IT major's global capability center operations."
-    },
-    {
-      "headline": "LTTS reports Q2 net profit surge to Rs 548.2 crore",
-      "post": {
-        "created_at": "2026-10-19T15:49:36+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1792424976441",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "LTTS reports 67% net profit surge to Rs 548.2 crore, driven by SWC business",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM0hBQmlMM1dQY1NqVWdCbWhPZzhPeFdsWXdVQlVxcFkwM0QyVGVKcWRVNEI3M0MyNDlkTV92Mm01RS1EQkNRVTlOaU1qYW9MdEg2RGljYkgxU2NLTzBtZUhqRHpUdm1aOVJtSXRENjNodVRhdkNBTzdfanh4UERCQWxWRldqUVhnbDdHbTE1RXhpQ0lLaVVfR3JVUXlqaThSdFZ6OUE2M25qdVVKSGNxNGoydE01WTJjNmQ1OFlKMXZDalBzdzZBb2MyS0VvX29ySU1ELU93NG5rSDl5MEVxN3JVZ3JJeUJKV0dmUnNCVdIB6AFBVV95cUxNTDluQURpOC1zUzY2N3NtdnAtbkV3M2laWXkteG8yaFNfeXd1QXNmVEpKbHlXVnV6aXlXMVlTdTJtaWxEcEQ0LV9yWEpUSlVuTlltYngzMHVpLTJxZjFHb1R1QlN6dG1NZUh0Ull5YVR6WXVPSFdPRXJ1ZkgteXBOSURyb25uV0JVMF95WGNfdWRnTWluTkFVeVZxN0pfd0RVU09zTTVZaFQ2YWtONFNCRzRTZ25FNWhjNTVWYXRtbzAyUmxaSXlrRWZBNzB6aUhSU2YxZnZLamF0LUFEMS12dmxidEJ3bE5S?oc=5"
-      },
-      "queued_at": "2026-10-19T16:01:52.291105+00:00",
-      "score": 8.0,
-      "why": "It is a direct corporate earnings report with hard financial figures from an IT major."
-    },
-    {
-      "headline": "DOJ calls for detaining OpenAI engineer citing Saudi ties",
-      "post": {
-        "created_at": "2026-10-19T15:15:50+00:00",
-        "handle": "News: Global AI",
-        "id": "1792422950988",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bloomberg",
-        "reposts": 0,
-        "text": "DOJ Calls for Detaining OpenAI Engineer, Citing Saudi Ties",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRTRiR1pUdnNEdktkVl92OHdEYlVrTEF4TjBsWWhqM2lNVVFxLVFNWk5RamVFRldRdFBiREc1MElOMFFtU0F2X3ZUT3Q4aXRsS05WMV8wUEZQa3pqeU51cHRobHZHRTd1ZmVSaC1sVW40SkV2ZjdyZkF0eUs0RXFtOTI3WG0zWDBUUWw5aEc1N2JQMGFuTW8tOVJuMnVROFJOQllKT3ZCZ1hoMTVO?oc=5"
-      },
-      "queued_at": "2026-10-19T16:01:52.291105+00:00",
-      "score": 7.0,
-      "why": "It is a significant national security and legal development involving a major AI lab executive."
-    },
-    {
-      "headline": "Google DeepMind unveils Gemini 4 Argon agents beating Minecraft",
-      "post": {
-        "created_at": "2026-10-19T15:54:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1792425240385",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Google DeepMind\u2019s AI wins another game, company says Gemini 4 Argon agents beat Minecraft from scratch in",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbHZ2R0lNbXozUnBiYzY1ZUxKaVZzcGFsX0ROY1hiUmg2bVRVRjFuS1BCNjB2ZE83bFA2R3dWaWVFMTdoVHhOZzROOHJLMzItLTZkWlo0YmFQWV8xN2pudnZLTGE4cEVtUE1YMWlELXpIc0h1Q0tIMWVfM2dYNUc1WXpUQWtlbDRVT2xaWmpDQmhzNXlXN25TS1N3R3JKN01NdkptUVRwRFBkclRKNVhKSEZzU1Z2Wk9aUzhIWk9ha0lIWHh6WDluM2FvMGhiNi1IeFV1eEtoQUhuLVNjN1VIMGRFZE5lR1pmb2wxa2dheklncDRzQWNEdkFMMHJ1SkptQ281WnlhQ2tzZE1melctRDFzdXpHUkREdGRmdWJ6ZUXSAaYCQVVfeXFMUE1xX200QXBaTGQ0OWFtUHVOd0FONlB4OVZRVF9HYURqelVydTF1QnI0Qm1OR1liNS1WZ3Q1S09GX2ZzOFFTd05fZEtNQlEwVzZuUmoyQVU0UTBVVXQ0UV9FeThtNWtNSUNtUU55akdiNEY5cVljSWNCZm5jbEVXQ0lJcnFnSFNTQ3VUVE5ld2ZORHN3V2dFcVVOOTZ6RWZBbW1JQVRacDJmVndVU0xINmNtUXZaMUhBeVk2Tmx1TURrUzdRYTFlV1BZZWo1Q2dNZEVJQkRIeUtDUUI4RmZWUW1lVExObE1tWmd3Y256d1BQS3ZlVVVqTzFCZlk5a0tqd1VvUWVyMWtYUU84LUhRUWxVRWx2Q2NIc3paNnhzTzFFRWJfTEpB?oc=5"
-      },
-      "queued_at": "2026-10-19T16:01:52.291105+00:00",
-      "score": 7.0,
-      "why": "It is a major AI model and capability disclosure from a leading AI lab."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -33469,6 +33463,7 @@
       "https://redseer.com/articles/indias-biggest-ipo-year-is-about-to-be-beaten-in-six-months": "2026-09-17T07:46:52.560284+00:00",
       "https://redseer.com/articles/indonesia-bnpl-market-growth-meets-credit-discipline": "2026-09-17T07:46:52.560284+00:00",
       "https://redseer.com/articles/micro-dramas-rs-5000-crore-ad-market": "2026-10-16T02:31:13.549296+00:00",
+      "https://redseer.com/articles/online-retail-heads-for-usd-90-bn-in-2026-its-fastest-growth-in-five-years": "2026-10-19T16:31:13.429090+00:00",
       "https://redseer.com/articles/sea-food-consumption-where-the-meal-earns-the-bill": "2026-09-17T07:46:52.560284+00:00",
       "https://redseer.com/articles/southeast-asia-apparel-market-local-fashion-brands-regional-expansion": "2026-09-17T07:46:52.560284+00:00",
       "https://redseer.com/articles/the-150-billion-family-wallet-children-influence": "2026-09-17T07:46:52.560284+00:00",
@@ -33713,7 +33708,7 @@
     "capgemini": 1792413676981,
     "cognizant": 1791997287826,
     "flipkart": 1791551784486,
-    "google": 1792411200752,
+    "google": 1792425600933,
     "google cloud": 1792425600727,
     "google deepmind": 1792080483451,
     "google india": 1792062000898,
@@ -33727,14 +33722,14 @@
     "microsoft india": 1792378078745,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792426081116,
-    "news: consumer internet india": 1792422157794,
-    "news: global ai": 1792425240385,
-    "news: global chips": 1792424229955,
+    "news: big tech platforms": 1792426212607,
+    "news: consumer internet india": 1792426974410,
+    "news: global ai": 1792426932286,
+    "news: global chips": 1792425169338,
     "news: global it services": 1792406222452,
     "news: india ai deeptech": 1792423984177,
     "news: india edtech gaming": 1792377646337,
-    "news: india fintech": 1792423044109,
+    "news: india fintech": 1792425814198,
     "news: india semiconductors": 1792410258814,
     "news: india tech policy": 1792415532722,
     "news: india telecom": 1792422802619,
@@ -33751,7 +33746,7 @@
     "pib meity": 2324850,
     "pib science and technology": 2325239,
     "razorpay": 1792156871747,
-    "redseer": 1792422086752,
+    "redseer": 1792427473272,
     "reg cci": 1791849600751,
     "reg cert-in": 1792022400459,
     "reg dgft": 1792195200994,
@@ -33788,7 +33783,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T16:16:15.387058+00:00",
+    "last_server_run": "2026-10-19T16:31:37.794589+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-19T16:17:00.518024+00:00",
@@ -34465,6 +34460,9 @@
       "CG-DL-E-19102026-277283",
       "CG-DL-E-19102026-277285",
       "CG-DL-E-19102026-277286",
+      "CG-DL-E-19102026-277289",
+      "CG-DL-E-19102026-277291",
+      "CG-DL-E-19102026-277292",
       "CG-DL-E-21092026-276330",
       "CG-DL-E-21092026-276332",
       "CG-DL-E-21092026-276333",
@@ -34974,6 +34972,7 @@
       "SG-DL-E-17102026-277261",
       "SG-DL-E-17102026-277262",
       "SG-DL-E-18092026-276327",
+      "SG-DL-E-19102026-277287",
       "SG-DL-E-21092026-276375",
       "SG-DL-E-22092026-276386",
       "SG-DL-E-22092026-276398",
@@ -35379,7 +35378,9 @@
       "bulletin:RS|2026-10-19|Bulletin Part-II",
       "gazette:CG-DL-E-19102026-277283|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-19102026-277283|MHA_FINANCE_MAIL_TO",
-      "gazette:CG-DL-E-19102026-277286|MAIL_TO"
+      "gazette:CG-DL-E-19102026-277286|MAIL_TO",
+      "gazette:CG-DL-E-19102026-277291|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-19102026-277291|MHA_FINANCE_MAIL_TO"
     ]
   },
   "x_test": {
@@ -36943,7 +36944,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T16:17:58.301402+00:00",
+    "last_run": "2026-10-19T16:33:43.109361+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -38207,7 +38208,10 @@
       "x:2112207917726498986",
       "x:2112208164942934039",
       "x:2112208341745500204",
-      "x:2112202330242453804"
+      "x:2112202330242453804",
+      "x:2112216202882027531",
+      "x:2112218758303596962",
+      "x:2112219169630654761"
     ],
     "source_failures": {},
     "sources": []
