@@ -1,66 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-12T11:31:37.197593+00:00",
-      "handle": "News: Global AI",
-      "headline": "UK reverses previous plans regarding OpenAI and Anthropic model oversight",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFNDcUJ6c1JhdEw2SjZ3TmNoZ1FSMzRXcWNrUjlxeFk2N3dHbEk2N01YN0UwSlBxVm9YQnA3TWVwU3lud1lldHQ0SV9NbWxLd2tadmRDWTM4NXIzWF9mV0d0c0tLOUk1eGRNd0QwZ21HSnlCbjJiS0dvUVh4SGljWWxxU1J2T2dIR18yaExLQWktV0pjMUFzUXZJZXhaU2xJclc1WVBMLXdRM0hvazhqdw?oc=5",
-      "words": [
-        "anthropic",
-        "back",
-        "keep",
-        "models",
-        "openai",
-        "plans",
-        "reverses",
-        "trump"
-      ]
-    },
-    {
-      "at": "2026-10-12T12:01:36.422790+00:00",
-      "handle": "Salesforce",
-      "headline": "Salesforce signs definitive agreement to acquire AI analytics startup Loops",
-      "tier": 1,
-      "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-loops/",
-      "words": [
-        "acquire",
-        "agreement",
-        "analytics",
-        "announced",
-        "continuo",
-        "crm",
-        "definitive",
-        "loops",
-        "platform",
-        "powered",
-        "salesforce",
-        "signed",
-        "signs",
-        "today"
-      ]
-    },
-    {
-      "at": "2026-10-12T12:31:34.268537+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "HCLTech reports Q2 net profit up 11% to Rs 5,132 crore",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZC1DSkF4V2RCX2txclI0bTdhbkExYTFXN215RGlRbmgwWEFjeGpPLXRBd0ZZcm84VUszdGpmQi1fN0dMVTU3cFZITXptbjRtVm1uLWZfQTNQbzF5Uy1nNDZwSkk1eEV6SzRscUY3WVdNWC1aN1ZDRnVLMjVhNk9WZ3d3UG1tVE9ub2dHT0d0UWpRanQwZjNGTEVsbG0zMlR2RGt6UTBVSVFmN1I1MngtaTVmclJtb1VubFRka3EzcVA0VkppenpZN2h5T1RHQmxNZllmd3dIYlh6cmExOVJ4ODZlRXpkZ0xuZkF0ak9iZjHSAfYBQVVfeXFMUFpQYjluMEU1bFBrVGVBVFY0ME9QbWpLeHZrTEVvaU1Hb19wbnMwb0dDTTgzbW5iMVY3ZnRVS1F0bkdyWkxlb2swcndyVDlKMGtxMVZsMGdONWxQT2lWbmYtbnI5S0JmMDFTOS1FSmUzUDZMVDhOcjlncVFwRkI5V2w4U21kb3E3OTM2TG9haVNNS1RPUlcxdmNLeXQwZi1LNTlFMHBZSXVfTXRfVnh6Z2VlQW4xVmFJY1NhUkI2aHc3cmNHQnRKSFRwTnRyR0pobGpHLS0tZ0RVcjB4OW1jdl91cGJFNUNRaExMWkd0U3lmRzF0cmlB?oc=5",
-      "words": [
-        "132",
-        "declares",
-        "dividend",
-        "firm",
-        "hcl",
-        "net",
-        "profit",
-        "qoq",
-        "results",
-        "rises",
-        "tech"
-      ]
-    },
-    {
       "at": "2026-10-12T12:31:34.268537+00:00",
       "handle": "News: Indian IT majors",
       "headline": "HCLTech partners with Anthropic to set up a dedicated business unit",
@@ -7431,6 +7371,62 @@
         "targets",
         "wide"
       ]
+    },
+    {
+      "at": "2026-10-19T04:31:24.515821+00:00",
+      "handle": "News: Global chips",
+      "headline": "Micron develops robot memory as Samsung and SK Hynix target physical AI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcU5ycjNWN0JuUlh6WGFkWTdUUDJacDNzWnNudVpDOVZIYTVvQlkxSV9lUGtQNlNfQjVwTDI1cUZzdE9yMUEzaXFiRThpcVlzSE1QZlZxdFNEOHdtWk5TakU1Ti1kT2laYnk4c3NZcm9QcEtRUXJyV3ZCQWV2YmxBRjJMNXpna1M4aXpWeFJR?oc=5",
+      "words": [
+        "develops",
+        "hynix",
+        "memory",
+        "micron",
+        "physical",
+        "robot",
+        "samsung",
+        "target"
+      ]
+    },
+    {
+      "at": "2026-10-19T04:31:24.515821+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI builds humanoid robots and Sam Altman teases demo timeline",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWg1MURybEM2bWRJVjNkM0hET0xtUE04LXEzTFE1NGItbTQ2clpFV0tSMzR2OWI1RTFaSEF3YVVZMG5mWVpvYWt0SGxsREhfOVFnakRtSFg5R3dNRm80dzJkMmlZeWJmdXFZWjM4YUJvRTU2XzdCSUNhYWRSZ3pRbnFDeG1UNzMyMDBVSG8waDNKYUNNT1A5LW02MUttcmtyb2I2OXBLTUNUNjdDMXZqM1loQjh0MzctaFB0cG9EdnEyWE5yakZLcU9GRGNDV2lOc04w0gHTAUFVX3lxTE9laDUxRHJsQzZtZElWM2QzSERPTG1QTTgtcTNMUTU0Yi1tNDZyWkVXS1IzNHY5YjVFMVpIQXdhVVkwbmZZWm9ha3RIbGxESF85UWdqRG1IWDlHd01GbzR3MmQyaVl5YmZ1cVlaMzhhQm9FNTZfN0JJQ2FhZFJnelFucUN4bVQ3MzIwMFVIbzBoM0phQ01PUDktbTYxS21ya3JvYjY5cEtNQ1Q2N0MxdmozWWhCOHQzNy1oUHRwb0R2cTJYTnJqRktxT0ZEY0NXaU5zTjA?oc=5",
+      "words": [
+        "altman",
+        "building",
+        "demo",
+        "humanoid",
+        "openai",
+        "robots",
+        "sam",
+        "teases",
+        "timeline"
+      ]
+    },
+    {
+      "at": "2026-10-19T04:31:24.515821+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Accenture Hires JPMorgan to Explore $1.5B Greater China Sale",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSlNVS19EalVLNUpHUGNudGYwd1Jha1l3UjhpYzgyWGVJeHVZalhVdzVrcDVWVXY3XzJTanVLRGs0MVlHYmhkSkp2dDJhTGVzeWxuN1diM2QyTUlDbGZDT3RpYlNCdU9yMXFXeGpYUk1oVUM1d3cxTndKZVp0UEtqSkdJUXVMU1k0ZzFRWkdwVmM1SFoxSmpVZWdReC0tck0yM3E4YkZnc1ZsNjBUOE5mTU9VV3lJdkVncS1Jd1IteWRwaVJMNUFxRzFoemdRYUJrckVXWTZoY0dGVWlxUE5OREN5SlQyLXRXaGRQN3Nha0txV3N1NEFiOTJQTGpEWDlyTmfSAYICQVVfeXFMUEpTVUtfRGpVSzVKR1BjbnRmMHdSYWtZd1I4aWM4MlhlSXh1WWpYVXc1a3A1VlV2N18yU2p1S0RrNDFZR2JoZEpKdnQyYUxlc3lsbjdXYjNkMk1JQ2xmQ090aWJTQnVPcjFxV3hqWFJNaFVDNXd3MU53SmVadFBLakpHSVF1TFNZNGcxUVpHcFZjNUhaMUpqVWVnUXgtLXJNMjNxOGJGZ3NWbDYwVDhOZk1PVVd5SXZFZ3EtSXdSLXlkcGlSTDVBcUcxaHpnUWFCa3JFV1k2aGNHRlVpcVBOTkRDeUpUMi10V2hkUDdzYWtLcVdzdTRBYjkyUExqRFg5ck5n?oc=5",
+      "words": [
+        "accenture",
+        "billion",
+        "china",
+        "greater",
+        "hires",
+        "jpmorgan",
+        "operations",
+        "report",
+        "review",
+        "sale",
+        "shift",
+        "weighs"
+      ]
     }
   ],
   "bureau": {
@@ -12364,7 +12360,7 @@
       },
       "warned": "2026-10-18T19:47:32.561212+00:00"
     },
-    "last_run": "2026-10-19T04:19:28.793866+00:00",
+    "last_run": "2026-10-19T04:32:55.334048+00:00",
     "pib_mark": 2324984,
     "seen": [
       "pib:2320137",
@@ -14468,16 +14464,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791777780518",
-    "1791777907413",
-    "1791777934951",
-    "1791777956824",
-    "1791777960197",
-    "1791805402823",
-    "1791806736547",
-    "1791806996442",
-    "1791820320752",
-    "1791841226750",
     "1791850547263",
     "1791795818172",
     "1791798039950",
@@ -18917,7 +18903,6 @@
     "1792368900351",
     "1792369800739",
     "1792370461596",
-    "1789992000313",
     "1792289817865",
     "1792305381009",
     "1792316355169",
@@ -18959,7 +18944,6 @@
     "1792376109849",
     "1792376762201",
     "1792377701378",
-    "1792378475816",
     "1792300129974",
     "1792302380629",
     "1792352586905",
@@ -18973,20 +18957,26 @@
     "1792340238600",
     "1792345265360",
     "1792349460165",
-    "1792352586826",
     "1792373640298",
     "1792375527658",
     "1792377780196",
     "1792304880842",
-    "1792317366022",
     "1792321158427",
     "1792338415200",
     "1792339117829",
     "1792339481067",
-    "1792340105849",
     "1792343988183",
     "1792371600191",
     "1792377011287",
+    "1789992000699",
+    "1792311143174",
+    "1792313619741",
+    "1792314979220",
+    "1792346162384",
+    "1792352586604",
+    "1792355908467",
+    "1792374240165",
+    "1792378475648",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -19845,7 +19835,7 @@
     "1789887586415",
     "1789957561980",
     "1789988988474",
-    "1789992000699",
+    "1789992000313",
     "1789992053034",
     "1790005601317",
     "1790007084244",
@@ -20231,13 +20221,11 @@
     "1792309688425",
     "1792310267434",
     "1792311141680",
-    "1792311143174",
-    "1792313619741",
     "1792314051693",
     "1792314855948",
-    "1792314979220",
     "1792315059730",
     "1792316163582",
+    "1792317366022",
     "1792317609377",
     "1792317660183",
     "1792318075823",
@@ -20278,8 +20266,10 @@
     "1792335763563",
     "1792335777570",
     "1792337213402",
+    "1792338345347",
     "1792338370656",
     "1792339273229",
+    "1792340105849",
     "1792341420436",
     "1792341845091",
     "1792342568661",
@@ -20290,17 +20280,16 @@
     "1792343897972",
     "1792344056520",
     "1792345265895",
-    "1792346162384",
     "1792346773124",
     "1792346950894",
     "1792347345536",
     "1792347480868",
     "1792350000720",
-    "1792352586604",
+    "1792352586826",
     "1792353396069",
     "1792354070030",
     "1792355860654",
-    "1792355908467",
+    "1792355937512",
     "1792356247202",
     "1792357200188",
     "1792364148163",
@@ -20334,7 +20323,7 @@
     "1792373640827",
     "1792373769835",
     "1792373823917",
-    "1792374240165",
+    "1792374240469",
     "1792374720489",
     "1792375200253",
     "1792375527517",
@@ -20361,9 +20350,10 @@
     "1792378078745",
     "1792378255038",
     "1792378387026",
-    "1792378475648",
+    "1792378475816",
     "1792378980879",
     "1792379081999",
+    "1792379689906",
     "1792379982929",
     "1792380532724",
     "1792380581019",
@@ -20382,6 +20372,12 @@
     "1792382400654",
     "1792382400756",
     "1792382572318",
+    "1792383153579",
+    "1792383306209",
+    "1792383316949",
+    "1792383745064",
+    "1792383780612",
+    "1792383878825",
     "2317509",
     "2317615",
     "2317714",
@@ -20469,8 +20465,8 @@
     "2324850",
     "2324940"
   ],
-  "last_digest_hour": "2026-10-19T09",
-  "last_success": "2026-10-19T04:16:02.365325+00:00",
+  "last_digest_hour": "2026-10-19T10",
+  "last_success": "2026-10-19T04:31:24.577379+00:00",
   "national": {
     "alerted": [
       {
@@ -28587,7 +28583,6 @@
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "CCI": "2026-10-18T16:32:24.562138+00:00",
         "IMD": "2026-10-18T16:32:24.562138+00:00",
-        "IRDAI": "2026-10-19T04:18:26.541661+00:00",
         "MHA": "2026-10-17T19:46:48.716156+00:00",
         "NPCI": "2026-10-18T17:17:45.689193+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
@@ -28595,7 +28590,7 @@
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-19T04:18:27.724943+00:00",
+    "last_run": "2026-10-19T04:32:47.796949+00:00",
     "pib_mark": 2324984,
     "seen": [
       "pib:2317257",
@@ -31612,9 +31607,6 @@
         "count": 4,
         "until": "2026-10-19T05:02:48.205214+00:00"
       },
-      "IRDAI": {
-        "count": 1
-      },
       "MHA": {
         "count": 8,
         "until": "2026-10-19T08:32:36.510053+00:00"
@@ -31683,62 +31675,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Micron develops robot memory as Samsung and SK Hynix target physical AI",
-      "post": {
-        "created_at": "2026-10-19T02:10:05+00:00",
-        "handle": "News: Global chips",
-        "id": "1792375805883",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Digitimes",
-        "reposts": 0,
-        "text": "Micron develops robot memory as Samsung, SK Hynix target physical AI",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcU5ycjNWN0JuUlh6WGFkWTdUUDJacDNzWnNudVpDOVZIYTVvQlkxSV9lUGtQNlNfQjVwTDI1cUZzdE9yMUEzaXFiRThpcVlzSE1QZlZxdFNEOHdtWk5TakU1Ti1kT2laYnk4c3NZcm9QcEtRUXJyV3ZCQWV2YmxBRjJMNXpna1M4aXpWeFJR?oc=5"
-      },
-      "queued_at": "2026-10-19T03:46:04.200460+00:00",
-      "score": 7.0,
-      "why": "Major semiconductor and physical AI memory developments by leading chipmakers constitute a strong global tech story."
-    },
-    {
-      "headline": "OpenAI builds humanoid robots and Sam Altman teases demo timeline",
-      "post": {
-        "created_at": "2026-10-19T03:37:31+00:00",
-        "handle": "News: Global AI",
-        "id": "1792381051698",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "OpenAI is building humanoid robots, Sam Altman teases demo timeline",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWg1MURybEM2bWRJVjNkM0hET0xtUE04LXEzTFE1NGItbTQ2clpFV0tSMzR2OWI1RTFaSEF3YVVZMG5mWVpvYWt0SGxsREhfOVFnakRtSFg5R3dNRm80dzJkMmlZeWJmdXFZWjM4YUJvRTU2XzdCSUNhYWRSZ3pRbnFDeG1UNzMyMDBVSG8waDNKYUNNT1A5LW02MUttcmtyb2I2OXBLTUNUNjdDMXZqM1loQjh0MzctaFB0cG9EdnEyWE5yakZLcU9GRGNDV2lOc04w0gHTAUFVX3lxTE9laDUxRHJsQzZtZElWM2QzSERPTG1QTTgtcTNMUTU0Yi1tNDZyWkVXS1IzNHY5YjVFMVpIQXdhVVkwbmZZWm9ha3RIbGxESF85UWdqRG1IWDlHd01GbzR3MmQyaVl5YmZ1cVlaMzhhQm9FNTZfN0JJQ2FhZFJnelFucUN4bVQ3MzIwMFVIbzBoM0phQ01PUDktbTYxS21ya3JvYjY5cEtNQ1Q2N0MxdmozWWhCOHQzNy1oUHRwb0R2cTJYTnJqRktxT0ZEY0NXaU5zTjA?oc=5"
-      },
-      "queued_at": "2026-10-19T03:46:04.200460+00:00",
-      "score": 7.0,
-      "why": "Major product and hardware direction disclosures by top AI labs are wire stories scoreable at 7 or higher."
-    },
-    {
-      "headline": "Accenture Hires JPMorgan to Explore $1.5B Greater China Sale",
-      "post": {
-        "created_at": "2026-10-19T02:30:11+00:00",
-        "handle": "News: Global IT services",
-        "id": "1792377011317",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "Accenture weighs $1.5 billion sale of Greater China operations amid AI shift, hires JPMorgan for review: Report",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSlNVS19EalVLNUpHUGNudGYwd1Jha1l3UjhpYzgyWGVJeHVZalhVdzVrcDVWVXY3XzJTanVLRGs0MVlHYmhkSkp2dDJhTGVzeWxuN1diM2QyTUlDbGZDT3RpYlNCdU9yMXFXeGpYUk1oVUM1d3cxTndKZVp0UEtqSkdJUXVMU1k0ZzFRWkdwVmM1SFoxSmpVZWdReC0tck0yM3E4YkZnc1ZsNjBUOE5mTU9VV3lJdkVncS1Jd1IteWRwaVJMNUFxRzFoemdRYUJrckVXWTZoY0dGVWlxUE5OREN5SlQyLXRXaGRQN3Nha0txV3N1NEFiOTJQTGpEWDlyTmfSAYICQVVfeXFMUEpTVUtfRGpVSzVKR1BjbnRmMHdSYWtZd1I4aWM4MlhlSXh1WWpYVXc1a3A1VlV2N18yU2p1S0RrNDFZR2JoZEpKdnQyYUxlc3lsbjdXYjNkMk1JQ2xmQ090aWJTQnVPcjFxV3hqWFJNaFVDNXd3MU53SmVadFBLakpHSVF1TFNZNGcxUVpHcFZjNUhaMUpqVWVnUXgtLXJNMjNxOGJGZ3NWbDYwVDhOZk1PVVd5SXZFZ3EtSXdSLXlkcGlSTDVBcUcxaHpnUWFCa3JFV1k2aGNHRlVpcVBOTkRDeUpUMi10V2hkUDdzYWtLcVdzdTRBYjkyUExqRFg5ck5n?oc=5"
-      },
-      "queued_at": "2026-10-19T04:16:02.313208+00:00",
-      "score": 7.0,
-      "why": "It is a major multinational IT services restructuring move that matches a reported global development."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -32824,9 +32761,9 @@
     "microsoft india": 1792378078745,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792382400654,
-    "news: consumer internet india": 1792382572318,
-    "news: global ai": 1792382400756,
+    "news: big tech platforms": 1792383316949,
+    "news: consumer internet india": 1792383780612,
+    "news: global ai": 1792383878825,
     "news: global chips": 1792381800254,
     "news: global it services": 1792378255038,
     "news: india ai deeptech": 1792381532670,
@@ -32834,8 +32771,8 @@
     "news: india fintech": 1792376775982,
     "news: india semiconductors": 1792368919018,
     "news: india tech policy": 1792378387026,
-    "news: india telecom": 1792381993990,
-    "news: indian it majors": 1792382002878,
+    "news: india telecom": 1792383153579,
+    "news: indian it majors": 1792383306209,
     "news: indian it midcaps": 1792381593990,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792381051698,
@@ -32891,7 +32828,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T04:16:02.607020+00:00",
+    "last_server_run": "2026-10-19T04:31:24.867789+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -35712,7 +35649,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T04:18:32.838711+00:00",
+    "last_run": "2026-10-19T04:32:50.027930+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
