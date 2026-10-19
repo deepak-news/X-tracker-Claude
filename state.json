@@ -12455,9 +12455,32 @@
           "regulatory",
           "section"
         ]
+      },
+      {
+        "at": "2026-10-19T16:04:55.258028+00:00",
+        "handle": "Gazette Ministry of Finance",
+        "headline": "Government exempts New Development Bank Maharajah INR bonds from tax deduction at source.",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277283.pdf",
+        "words": [
+          "bank",
+          "bond",
+          "deduction",
+          "development",
+          "exemption",
+          "extraordinary",
+          "finance",
+          "gazette",
+          "inr",
+          "interest",
+          "maharajah",
+          "mini",
+          "ministry",
+          "ndb"
+        ]
       }
     ],
-    "gazette_mark": 277282,
+    "gazette_mark": 277284,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -12879,7 +12902,9 @@
       "CG-DL-E-19102026-277279",
       "CG-DL-E-19102026-277281",
       "CG-TL-E-19102026-277278",
-      "CG-DL-E-19102026-277282"
+      "CG-DL-E-19102026-277282",
+      "CG-DL-E-19102026-277283",
+      "CG-TL-E-19102026-277284"
     ],
     "health": {
       "down": {
@@ -12887,7 +12912,7 @@
         "IMD": "2026-10-18T16:33:02.828141+00:00"
       }
     },
-    "last_run": "2026-10-19T15:53:19.351999+00:00",
+    "last_run": "2026-10-19T16:04:55.269508+00:00",
     "pib_mark": 2325288,
     "seen": [
       "pib:2320137",
@@ -14569,9 +14594,9 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63823",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
-      "gazette:CG-DL-E-17102026-277238",
       "gazette:CG-DL-E-17102026-277236",
       "gazette:CG-DL-E-17102026-277237",
+      "gazette:CG-DL-E-17102026-277238",
       "gazette:CG-OR-E-17102026-277246",
       "gazette:CG-TL-E-17102026-277244",
       "gazette:CG-DL-E-17102026-277245",
@@ -15040,7 +15065,9 @@
       "pib:2325281",
       "pib:2325279",
       "gazette:CG-DL-E-19102026-277282",
-      "pib:2325288"
+      "pib:2325288",
+      "gazette:CG-DL-E-19102026-277283",
+      "gazette:CG-TL-E-19102026-277284"
     ],
     "source_failures": {
       "CCI": {
@@ -15105,15 +15132,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791820980487",
-    "1791826380653",
-    "1791867156455",
-    "1791871934024",
-    "1791878219780",
-    "1791881045767",
-    "1791882704178",
-    "1791882780450",
-    "1791890084515",
     "1791893171481",
     "1791819471956",
     "1791825864887",
@@ -19359,7 +19377,6 @@
     "1792324921577",
     "1792371840450",
     "1792373769835",
-    "1792379081999",
     "1792387677669",
     "1792392324963",
     "1792394981819",
@@ -19536,7 +19553,6 @@
     "1792397220816",
     "1792406453347",
     "1792409822143",
-    "1792412447870",
     "1792417809862",
     "1792418820469",
     "1788991307573",
@@ -19546,15 +19562,22 @@
     "1792394747607",
     "1792399630177",
     "1792404785368",
-    "1792405116677",
     "1792405560250",
     "1792406392259",
     "1792407840014",
     "1792411200867",
-    "1792415033801",
-    "1792415532722",
     "1792419700760",
     "1792423709595",
+    "1792339010272",
+    "1792378715884",
+    "1792383791793",
+    "1792386960814",
+    "1792405920561",
+    "1792412447213",
+    "1792412688572",
+    "1792413720323",
+    "1792414261405",
+    "1792419988643",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20802,10 +20825,10 @@
     "1792195200994",
     "1792270813883",
     "1792314855948",
-    "1792339010272",
     "1792340256775",
     "1792340942501",
     "1792341420436",
+    "1792341793775",
     "1792342583706",
     "1792342988837",
     "1792343897972",
@@ -20827,7 +20850,7 @@
     "1792378078745",
     "1792378255038",
     "1792378387026",
-    "1792378715884",
+    "1792379081999",
     "1792381051237",
     "1792381532670",
     "1792382329713",
@@ -20836,13 +20859,11 @@
     "1792383164444",
     "1792383306209",
     "1792383745561",
-    "1792383791793",
     "1792384179962",
     "1792384329947",
     "1792384768826",
     "1792386383030",
     "1792386399622",
-    "1792386960814",
     "1792387020936",
     "1792387265612",
     "1792388014433",
@@ -20911,10 +20932,10 @@
     "1792404932955",
     "1792404943074",
     "1792405049190",
+    "1792405116677",
     "1792405617594",
     "1792405800553",
     "1792405825476",
-    "1792405920561",
     "1792405980371",
     "1792406083377",
     "1792406222452",
@@ -20955,19 +20976,17 @@
     "1792411580415",
     "1792411618548",
     "1792412397147",
-    "1792412447213",
-    "1792412688572",
+    "1792412447870",
     "1792412744147",
+    "1792412748636",
     "1792412803060",
     "1792412808605",
     "1792413055938",
     "1792413420794",
     "1792413466661",
     "1792413676981",
-    "1792413720323",
     "1792413868468",
     "1792414012758",
-    "1792414261405",
     "1792414306528",
     "1792414487575",
     "1792414574632",
@@ -20975,8 +20994,10 @@
     "1792414840095",
     "1792414846074",
     "1792414876135",
+    "1792415033801",
     "1792415511666",
     "1792415532028",
+    "1792415532722",
     "1792415646089",
     "1792415835312",
     "1792415863448",
@@ -20995,7 +21016,7 @@
     "1792419173898",
     "1792419302049",
     "1792419738706",
-    "1792419988643",
+    "1792419988713",
     "1792421172731",
     "1792421391079",
     "1792422031371",
@@ -21006,6 +21027,7 @@
     "1792422460480",
     "1792422496344",
     "1792422802619",
+    "1792422950988",
     "1792422991697",
     "1792423044109",
     "1792423527356",
@@ -21014,7 +21036,12 @@
     "1792423997259",
     "1792424099760",
     "1792424229955",
+    "1792424466501",
+    "1792424525857",
     "1792424580470",
+    "1792424762901",
+    "1792424976441",
+    "1792425240385",
     "1792430400524",
     "2317509",
     "2317615",
@@ -21107,7 +21134,7 @@
     "2325239"
   ],
   "last_digest_hour": "2026-10-19T21",
-  "last_success": "2026-10-19T15:51:43.508474+00:00",
+  "last_success": "2026-10-19T16:01:52.402988+00:00",
   "national": {
     "alerted": [
       {
@@ -28327,7 +28354,7 @@
         ]
       }
     ],
-    "gazette_mark": 277282,
+    "gazette_mark": 277284,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -29421,23 +29448,24 @@
       "CG-DL-E-19102026-277279",
       "CG-DL-E-19102026-277281",
       "CG-TL-E-19102026-277278",
-      "CG-DL-E-19102026-277282"
+      "CG-DL-E-19102026-277282",
+      "CG-DL-E-19102026-277283",
+      "CG-TL-E-19102026-277284"
     ],
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "CCI": "2026-10-18T16:32:24.562138+00:00",
         "IMD": "2026-10-18T16:32:24.562138+00:00",
+        "NPCI": "2026-10-19T16:03:16.012544+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-19T15:52:44.560062+00:00",
+    "last_run": "2026-10-19T16:03:52.340471+00:00",
     "pib_mark": 2325288,
     "seen": [
-      "gazette:CG-DL-E-01102026-276665",
-      "gazette:CG-DL-E-01102026-276657",
       "cci-merger:C-2026/07/1440|Approved",
       "cci-merger:C-2026/06/1436|Approved",
       "cci-pr:media-gallery|690",
@@ -31901,8 +31929,10 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "gazette:CG-DL-E-17102026-277236",
-      "gazette:CG-DL-E-17102026-277238",
       "gazette:CG-DL-E-17102026-277237",
+      "npci:617",
+      "npci:620",
+      "gazette:CG-DL-E-17102026-277238",
       "gazette:CG-OR-E-17102026-277246",
       "gazette:CG-TL-E-17102026-277244",
       "gazette:CG-DL-E-17102026-277245",
@@ -31919,8 +31949,6 @@
       "gazette:SG-DL-E-17102026-277258",
       "gazette:SG-DL-E-17102026-277259",
       "gazette:SG-DL-E-17102026-277260",
-      "npci:617",
-      "npci:620",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_4_Submission_LOC_17102026.pdf",
@@ -32435,7 +32463,9 @@
       "pib:2325281",
       "pib:2325279",
       "gazette:CG-DL-E-19102026-277282",
-      "pib:2325288"
+      "pib:2325288",
+      "gazette:CG-DL-E-19102026-277283",
+      "gazette:CG-TL-E-19102026-277284"
     ],
     "source_failures": {
       "CBI": {
@@ -32449,6 +32479,9 @@
       "IMD": {
         "count": 6,
         "until": "2026-10-19T17:02:52.608422+00:00"
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -32528,6 +32561,60 @@
       "queued_at": "2026-10-19T15:51:43.432624+00:00",
       "score": 8.0,
       "why": "This is a confirmed expansion of an Indian IT major's global capability center operations."
+    },
+    {
+      "headline": "LTTS reports Q2 net profit surge to Rs 548.2 crore",
+      "post": {
+        "created_at": "2026-10-19T15:49:36+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1792424976441",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "LTTS reports 67% net profit surge to Rs 548.2 crore, driven by SWC business",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM0hBQmlMM1dQY1NqVWdCbWhPZzhPeFdsWXdVQlVxcFkwM0QyVGVKcWRVNEI3M0MyNDlkTV92Mm01RS1EQkNRVTlOaU1qYW9MdEg2RGljYkgxU2NLTzBtZUhqRHpUdm1aOVJtSXRENjNodVRhdkNBTzdfanh4UERCQWxWRldqUVhnbDdHbTE1RXhpQ0lLaVVfR3JVUXlqaThSdFZ6OUE2M25qdVVKSGNxNGoydE01WTJjNmQ1OFlKMXZDalBzdzZBb2MyS0VvX29ySU1ELU93NG5rSDl5MEVxN3JVZ3JJeUJKV0dmUnNCVdIB6AFBVV95cUxNTDluQURpOC1zUzY2N3NtdnAtbkV3M2laWXkteG8yaFNfeXd1QXNmVEpKbHlXVnV6aXlXMVlTdTJtaWxEcEQ0LV9yWEpUSlVuTlltYngzMHVpLTJxZjFHb1R1QlN6dG1NZUh0Ull5YVR6WXVPSFdPRXJ1ZkgteXBOSURyb25uV0JVMF95WGNfdWRnTWluTkFVeVZxN0pfd0RVU09zTTVZaFQ2YWtONFNCRzRTZ25FNWhjNTVWYXRtbzAyUmxaSXlrRWZBNzB6aUhSU2YxZnZLamF0LUFEMS12dmxidEJ3bE5S?oc=5"
+      },
+      "queued_at": "2026-10-19T16:01:52.291105+00:00",
+      "score": 8.0,
+      "why": "It is a direct corporate earnings report with hard financial figures from an IT major."
+    },
+    {
+      "headline": "DOJ calls for detaining OpenAI engineer citing Saudi ties",
+      "post": {
+        "created_at": "2026-10-19T15:15:50+00:00",
+        "handle": "News: Global AI",
+        "id": "1792422950988",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Bloomberg",
+        "reposts": 0,
+        "text": "DOJ Calls for Detaining OpenAI Engineer, Citing Saudi Ties",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRTRiR1pUdnNEdktkVl92OHdEYlVrTEF4TjBsWWhqM2lNVVFxLVFNWk5RamVFRldRdFBiREc1MElOMFFtU0F2X3ZUT3Q4aXRsS05WMV8wUEZQa3pqeU51cHRobHZHRTd1ZmVSaC1sVW40SkV2ZjdyZkF0eUs0RXFtOTI3WG0zWDBUUWw5aEc1N2JQMGFuTW8tOVJuMnVROFJOQllKT3ZCZ1hoMTVO?oc=5"
+      },
+      "queued_at": "2026-10-19T16:01:52.291105+00:00",
+      "score": 7.0,
+      "why": "It is a significant national security and legal development involving a major AI lab executive."
+    },
+    {
+      "headline": "Google DeepMind unveils Gemini 4 Argon agents beating Minecraft",
+      "post": {
+        "created_at": "2026-10-19T15:54:00+00:00",
+        "handle": "News: Global AI",
+        "id": "1792425240385",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "Google DeepMind\u2019s AI wins another game, company says Gemini 4 Argon agents beat Minecraft from scratch in",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbHZ2R0lNbXozUnBiYzY1ZUxKaVZzcGFsX0ROY1hiUmg2bVRVRjFuS1BCNjB2ZE83bFA2R3dWaWVFMTdoVHhOZzROOHJLMzItLTZkWlo0YmFQWV8xN2pudnZLTGE4cEVtUE1YMWlELXpIc0h1Q0tIMWVfM2dYNUc1WXpUQWtlbDRVT2xaWmpDQmhzNXlXN25TS1N3R3JKN01NdkptUVRwRFBkclRKNVhKSEZzU1Z2Wk9aUzhIWk9ha0lIWHh6WDluM2FvMGhiNi1IeFV1eEtoQUhuLVNjN1VIMGRFZE5lR1pmb2wxa2dheklncDRzQWNEdkFMMHJ1SkptQ281WnlhQ2tzZE1melctRDFzdXpHUkREdGRmdWJ6ZUXSAaYCQVVfeXFMUE1xX200QXBaTGQ0OWFtUHVOd0FONlB4OVZRVF9HYURqelVydTF1QnI0Qm1OR1liNS1WZ3Q1S09GX2ZzOFFTd05fZEtNQlEwVzZuUmoyQVU0UTBVVXQ0UV9FeThtNWtNSUNtUU55akdiNEY5cVljSWNCZm5jbEVXQ0lJcnFnSFNTQ3VUVE5ld2ZORHN3V2dFcVVOOTZ6RWZBbW1JQVRacDJmVndVU0xINmNtUXZaMUhBeVk2Tmx1TURrUzdRYTFlV1BZZWo1Q2dNZEVJQkRIeUtDUUI4RmZWUW1lVExObE1tWmd3Y256d1BQS3ZlVVVqTzFCZlk5a0tqd1VvUWVyMWtYUU84LUhRUWxVRWx2Q2NIc3paNnhzTzFFRWJfTEpB?oc=5"
+      },
+      "queued_at": "2026-10-19T16:01:52.291105+00:00",
+      "score": 7.0,
+      "why": "It is a major AI model and capability disclosure from a leading AI lab."
     }
   ],
   "page_links": {
@@ -33616,8 +33703,8 @@
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
     "news: big tech platforms": 1792423997259,
-    "news: consumer internet india": 1792419988643,
-    "news: global ai": 1792423852605,
+    "news: consumer internet india": 1792419988713,
+    "news: global ai": 1792425240385,
     "news: global chips": 1792424229955,
     "news: global it services": 1792406222452,
     "news: india ai deeptech": 1792423984177,
@@ -33626,7 +33713,7 @@
     "news: india semiconductors": 1792410258814,
     "news: india tech policy": 1792415532722,
     "news: india telecom": 1792422802619,
-    "news: indian it majors": 1792424580470,
+    "news: indian it majors": 1792424976441,
     "news: indian it midcaps": 1792412397615,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792414306528,
@@ -33674,7 +33761,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T15:51:43.963982+00:00",
+    "last_server_run": "2026-10-19T16:01:52.827951+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-19T14:02:41.155352+00:00",
@@ -34348,6 +34435,7 @@
       "CG-DL-E-19102026-277280",
       "CG-DL-E-19102026-277281",
       "CG-DL-E-19102026-277282",
+      "CG-DL-E-19102026-277283",
       "CG-DL-E-21092026-276330",
       "CG-DL-E-21092026-276332",
       "CG-DL-E-21092026-276333",
@@ -34757,6 +34845,7 @@
       "CG-TL-E-17102026-277250",
       "CG-TL-E-18092026-276314",
       "CG-TL-E-19102026-277278",
+      "CG-TL-E-19102026-277284",
       "CG-TL-E-23092026-276406",
       "CG-TL-E-28092026-276551",
       "CG-TL-E-28092026-276556",
@@ -35258,7 +35347,9 @@
       "bulletin:LS|2026-10-19|Bulletin-II",
       "meeting:LS|22572",
       "meeting:LS|22573",
-      "bulletin:RS|2026-10-19|Bulletin Part-II"
+      "bulletin:RS|2026-10-19|Bulletin Part-II",
+      "gazette:CG-DL-E-19102026-277283|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-19102026-277283|MHA_FINANCE_MAIL_TO"
     ]
   },
   "x_test": {
@@ -36822,7 +36913,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T15:52:53.276459+00:00",
+    "last_run": "2026-10-19T16:03:57.264169+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -38085,7 +38176,8 @@
       "x:2112207142291968358",
       "x:2112207917726498986",
       "x:2112208164942934039",
-      "x:2112208341745500204"
+      "x:2112208341745500204",
+      "x:2112202330242453804"
     ],
     "source_failures": {},
     "sources": []
