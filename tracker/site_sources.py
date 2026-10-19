@@ -647,14 +647,15 @@ def eci() -> list:
 
 
 def ncb() -> list:
-    """NCB's press releases, English ones (its site lists the Hindi versions too)."""
+    """NCB's press releases, English ones (its site lists the Hindi versions too). At ncb.mha.gov.in
+    since Oct 19 2026: ncb.gov.in now answers with that address's certificate."""
     rows = []
-    for doc in _get("https://ncb.gov.in/backend/press-releases", headers={**HEADERS, "Accept": "application/json"}).json():
+    for doc in _get("https://ncb.mha.gov.in/backend/press-releases", headers={**HEADERS, "Accept": "application/json"}).json():
         if (doc.get("langcode") or "English") != "English" or not doc.get("title"):
             continue
         path = doc.get("field_document") or ""
         rows.append({"key": f"ncb:{path or doc['title'][:80]}", "title": _clean(doc["title"]), "detail": "",
-                     "url": urljoin("https://ncb.gov.in/", path) if path else "https://ncb.gov.in/media/press-releases",
+                     "url": urljoin("https://ncb.mha.gov.in/", path) if path else "https://ncb.mha.gov.in/media/press-releases",
                      "date": _day(str(doc.get("field_date") or ""), "%Y-%m-%d")})
     if not rows:
         raise RuntimeError("nothing in NCB's press releases (the site may have changed)")

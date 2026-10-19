@@ -511,6 +511,12 @@ def _page(entry: dict, memory: dict) -> list[Post]:
     # twice, in Hindi and English, and only one copy is wanted.
     unwanted = re.compile(entry["exclude"]) if entry.get("exclude") else None
 
+    # "row" (a CSS selector): the block holding one item, whose text is its title when the link
+    # says only "VIEW" -- MHA's What's new since Oct 2026; "title" (a regular expression) picks
+    # the title out of that text
+    rows = set(map(id, soup.select(entry["row"]))) if entry.get("row") else set()
+    title_re = re.compile(entry["title"]) if entry.get("title") else None
+
     found = {}
     for anchor in soup.find_all("a", href=True):
         url = urljoin(response.url, anchor["href"]).split("#")[0].split("?")[0].rstrip("/")
@@ -519,6 +525,11 @@ def _page(entry: dict, memory: dict) -> list[Post]:
         if not wanted.search(urlparse(url).path):
             continue
         title = _link_title(anchor, url)
+        block = next((p for p in anchor.parents if id(p) in rows), None) if rows else None
+        if block is not None:
+            text = " ".join(block.get_text(" ", strip=True).split())
+            got = title_re.search(text) if title_re else None
+            title = (got.group(1) if got else text)[:300]
         if unwanted and unwanted.search(title):
             continue
         if url not in found or len(title) > len(found[url]):
@@ -530,8 +541,13 @@ def _page(entry: dict, memory: dict) -> list[Post]:
     label = entry["name"]
     known = memory.setdefault(label, {})
     now = dt.datetime.now(dt.timezone.utc)
+    # A page that knew links and now lists none of them has moved (MHA's What's new, Oct 2026):
+    # what it lists is its backlog, dated a month back so no desk sends it as news
+    moved = bool(known) and not any(url in known for url in found)
+    if moved:
+        print(f"    {label}: every link is new -- the page has moved; noting {len(found)} as old")
     for url in found:
-        known.setdefault(url, now.isoformat())
+        known.setdefault(url, (now - dt.timedelta(days=30) if moved else now).isoformat())
     if len(known) > PAGE_MEMORY:
         for url in sorted(known, key=known.get)[:len(known) - PAGE_MEMORY]:
             if url not in found:

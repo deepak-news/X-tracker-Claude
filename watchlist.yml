@@ -899,7 +899,8 @@ national:
     - {name: PMO, url: "https://www.pmindia.gov.in/en/news-updates/", match: "^/en/news_updates/[^/]+", strip: "\\s+\\d{1,2}\\s+[A-Z][a-z]{2,8},?\\s+\\d{4}\\b.*$"}
     - {name: IMD, url: "https://internal.imd.gov.in/pages/press_release_mausam.php", match: "^/press_release/.+\\.pdf$", exclude: "[\\u0900-\\u097F]", strip: "^\\d{1,2}\\s+[A-Z][a-z]{2}\\s+\\d{4}\\s+|\\s*\\(pdf\\)\\s*$"}   # English copies only
     - {name: IRDAI, url: "https://irdai.gov.in/press-releases", match: "^/documents/37343/366347/", strip: "^(?:Non-Archived\\s+)?[^/]*[ऀ-ॿ][^/]*/\\s*|\\s+\\d{2}-\\d{2}-\\d{4}\\b.*$"}
-    - {name: MHA, url: "https://www.mha.gov.in/en/media/whats-new", match: "^/sites/default/files/.+\\.pdf$"}
+    # MHA moved What's new on Oct 18 2026; each item's title is in its block, not its "VIEW" link
+    - {name: MHA, url: "https://www.mha.gov.in/whats-new", match: "^/files/whats_new_documents/.+\\.pdf$", row: ".row.align-items-lg-center", title: "Title:\\s*(.+?)\\s+Start Date:"}
     - {name: CBSE, url: "https://www.cbse.gov.in/cbsenew/cbse.html", match: "^/cbsenew/documents/.+\\.pdf$"}
     # UP types its cabinet decisions in the old Kruti Dev Hindi font; the PDF
     # text is converted back to real Hindi before the AI reads it.
