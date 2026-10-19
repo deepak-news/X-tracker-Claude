@@ -1,44 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-12T21:31:23.908479+00:00",
-      "handle": "News: Global AI",
-      "headline": "Meta launches Wonder AI models to rival ChatGPT and Claude",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdFNjYjF1N0l3cURxSkU3X2ZNWlVmTFB1eGl0ZVFCSGszQWNWMEp5OWVNdjZtTWplNXN0RlR1RGQ2SkJfX1A0cVAyei0xQjd0OG52REpST200bU5MNVM4Tnd0U0ptSHdsS1dBTWRHaHR6bDlLVmJKczd4TVoyT0RocEE1RVBVTDBuaVY3Sm0tVU1BUklDTmtQc1F4TnZPMmdERXBFRnozY2lIelIzaTBGME9CVjVJUGR1UFBOLVdGZ1RfRXNtTUpwNS1DV3V3OVRtWlp2SkJjajlweVBzdmpkQS1n0gHiAUFVX3lxTE90U2NiMXU3SXdxRHFKRTdfZk1aVWZMUHV4aXRlUUJIazNBY1YwSnk5ZU12Nm1NamU1c3RGVHVEZDZKQl9fUDRxUDJ6LTFCN3Q4bnZESlJPbTRtTkw1UzhOd3RTSm1Id2xLV0FNZEdodHpsOUtWYkpzN3hNWjJPRGhwQTVFUFVMMG5pVjdKbS1VTUFSSUNOa1BzUXhOdk8yZ0RFcEVGejNjaUh6UjNpMEYwT0JWNUlQZHVQUE4tV0ZnVF9Fc21NSnA1LUNXdXc5VG1aWnZKQmNqOXB5UHN2amRBLWc?oc=5",
-      "words": [
-        "chatgpt",
-        "claude",
-        "launches",
-        "meta",
-        "models",
-        "race",
-        "rival",
-        "steps",
-        "wonder",
-        "zuckerberg"
-      ]
-    },
-    {
-      "at": "2026-10-12T21:31:23.908479+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Microsoft departing science president to join Mercedes F1",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpOOXV3YTJXN0R6ZWl3WjFaeVh3ekR5cUk4dWNjX2ZSZXlQc2EzTXRFRWxGa0ZEY1VPQ0hNVGJlWi1fbU5ZMnNTU280MFdIVmJCRkk5eDQzSHpBV1ZrX0hpN1hiWVJiaGNPVGZrbERydWpLRzVPYUZLdDBQZWFoTDJ2WklOdWctR1RsTW13ZVpoNTNWclY2MWZ1b0I0NXFTVko1QXpHNURJUzEya1A2bkkwelEweUxpOHI1S3ZXc01Rdw?oc=5",
-      "words": [
-        "advisor",
-        "departing",
-        "exclusive",
-        "join",
-        "mercedes",
-        "microsoft",
-        "plans",
-        "president",
-        "science",
-        "team"
-      ]
-    },
-    {
       "at": "2026-10-13T01:31:30.434369+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic Red Team warns frontier AI models near self-replication",
@@ -7428,6 +7390,46 @@
         "say",
         "users"
       ]
+    },
+    {
+      "at": "2026-10-19T15:31:20.083758+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft warns of insider AI threats and expands Project Perception",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNVBNTmFyTkJUWDRZTnNDdi1sRVJLb053Ykw0c1hEOGdvd29jV2M1Q3ZyRS1ka3lYaFVYNUwxSXIzeFdmODJzaFlGLTZHeGdneUVpTVdONGd0Y21GYTJWY2pRNmZpN2U1Qkw5NkpkaXJjZF91RC1BRVJWS2dZVVBtaEJBaGtXbEc3Zms1MWlfbGQzOVdIeDBjc0lkMDgyelFwYTBJSWxFUmFMR3ZVc1p2em5vZHVIQjBvWTRrZzQ4bzdQSjBfOHBUTjRNV0lIRVU0THI1ZkFnWmFkeWctdG1kZm1SVnktSDNh0gHuAUFVX3lxTFBiRy1VU2hlTjB6SUZCeVlWR0dhUnZSTDkxRGRISDBXbjZmR2ZQdndoZzhqVjBERlZGY3c1Q2VCUGpBWllMWFVHdnJVWFJwdXMwRUNUcmpLOW1GVmd2bktfN2szTGhGRkprMEREOFFCNzNhRy1yVTc2ZmMtQXFRQVBKNFRYWlpHQzNVR1M0clFNRGdyblNxV1ZFVU9NNlZwa21pYm0zbUtXR0F2NkRoRFRtT0RUTzJFMzhTQ2E2ZnJzMVppMVNlUlJ4UW5zTlJGY3dvYURnWXd0S1QwV0QtbzFtbGFEbHdHcjhtVng3VkE?oc=5",
+      "words": [
+        "cannot",
+        "expands",
+        "insider",
+        "microsoft",
+        "models",
+        "perception",
+        "project",
+        "threats",
+        "trusted",
+        "warns"
+      ]
+    },
+    {
+      "at": "2026-10-19T15:31:20.083758+00:00",
+      "handle": "News: India fintech",
+      "headline": "Cybercrime unit flags fake welfare deepfake ads of PM Modi",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaEthVlFQbF9kLWRTcWZXYUFHbWNlOWxlcUVVX29odVlhVTRmUXhFbHEzdXlZTU1tRFFJbnpheGRtYWlQNlZ2bmFDclM2c2lYZXNnSFhQT2J2ZzRsd19TQjhPSlRrdUVsOWlYUThkcXJqUmxwT1ctSFBtVUdNVXJCUk81Y2diTUthYWZjNFlDVWZlQWxwTVhyZWFOLXRkTHg4WWNKLVpwSGphUkNYa1QwRkxJMC16cVNnQTZiSjZ5UmR5V0hCRVFUNG9kRzlLbThiVTVVLUtWVdIB5AFBVV95cUxPNEc5dUFVM0o5MEliZEVNZTZRRFhoMkdZWm9HZXBocEl2RjVCS04xSTRRbXJQcUJDVTktbWdrTEhKOE1STV9vNUxxQm9MWGptQ3pqNjljRGJ3WWluMEEwVFlWUlJTNjdKQ2kzZ18xNUhjSGx4WE1rb1dWRVFPYUtKN0JaSUs2S1NScktFbmJHdnp6d1FDZUJsUk1hRTVfcHc3REw3WFdDZGRDOFpmaVFYbXVMNWh6U0V0eG40cS1YcUk2Z0UxYTdlYXZwcHVSZWlxQVBfcEJXV0JLLXlqU25rU05NOGI?oc=5",
+      "words": [
+        "ads",
+        "cybercrime",
+        "deepfake",
+        "fake",
+        "flags",
+        "modi",
+        "scheme",
+        "sitharaman",
+        "unit",
+        "using",
+        "videos",
+        "welfare"
+      ]
     }
   ],
   "bureau": {
@@ -12366,6 +12368,51 @@
           "ministry",
           "thiruvananthapuram"
         ]
+      },
+      {
+        "at": "2026-10-19T15:32:22.689829+00:00",
+        "handle": "PIB Ministry of Finance",
+        "headline": "Revenue intelligence seizes 591 kg of smuggled cannabis from Nepal",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325281",
+        "words": [
+          "591",
+          "attempt",
+          "cannabis",
+          "dri",
+          "finance",
+          "foils",
+          "ganja",
+          "major",
+          "ministry",
+          "nepal",
+          "seizes",
+          "smuggled",
+          "trafficking"
+        ]
+      },
+      {
+        "at": "2026-10-19T15:32:22.689829+00:00",
+        "handle": "PIB Ministry of Finance",
+        "headline": "Revenue intelligence seizes smuggled foreign cigarettes worth over eight crore rupees in Mizoram",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325279",
+        "words": [
+          "arrested",
+          "cigarettes",
+          "dri",
+          "finance",
+          "foreign",
+          "lakh",
+          "ministry",
+          "mizoram",
+          "more",
+          "one",
+          "origin",
+          "seizes",
+          "smuggled",
+          "than"
+        ]
       }
     ],
     "gazette_mark": 277281,
@@ -12797,8 +12844,8 @@
         "IMD": "2026-10-18T16:33:02.828141+00:00"
       }
     },
-    "last_run": "2026-10-19T15:17:28.679312+00:00",
-    "pib_mark": 2325268,
+    "last_run": "2026-10-19T15:32:22.691050+00:00",
+    "pib_mark": 2325281,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14946,7 +14993,9 @@
       "page:https://www.mha.gov.in/files/whats_new_documents/RunUnity.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse2026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/postconstableheadconstable_01092026.pdf",
-      "page:https://www.mha.gov.in/files/whats_new_documents/finallistmhawebsite.pdf"
+      "page:https://www.mha.gov.in/files/whats_new_documents/finallistmhawebsite.pdf",
+      "pib:2325281",
+      "pib:2325279"
     ],
     "source_failures": {
       "CCI": {
@@ -15011,13 +15060,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791889132307",
-    "1791889653146",
-    "1791890365665",
-    "1791890507181",
-    "1791890800092",
-    "1791892587890",
-    "1791893340626",
     "1791818352876",
     "1791818936821",
     "1791866372994",
@@ -19273,7 +19315,6 @@
     "1792324097689",
     "1792347480868",
     "1792351821962",
-    "1792389562619",
     "1792395360539",
     "1792396491828",
     "1792398313165",
@@ -19290,7 +19331,6 @@
     "1792399924056",
     "1792407145592",
     "1792408575453",
-    "1792409822129",
     "1792330084016",
     "1792377252779",
     "1792379982333",
@@ -19373,10 +19413,8 @@
     "1792406580954",
     "1792406829925",
     "1792411580903",
-    "1792415033801",
     "1792331807404",
     "1792335763563",
-    "1792373433088",
     "1792373496835",
     "1792384269347",
     "1792387677386",
@@ -19437,7 +19475,6 @@
     "1792408695102",
     "1792409400121",
     "1792412397615",
-    "1792412447213",
     "1792419033289",
     "1789631212015",
     "1791849600884",
@@ -19460,13 +19497,21 @@
     "1792364148163",
     "1792386660441",
     "1792392323837",
-    "1792394747607",
     "1792408643193",
-    "1792410346078",
     "1792414487223",
-    "1792415532722",
     "1792416900121",
-    "1792421172731",
+    "1792389637957",
+    "1792394747606",
+    "1792397220816",
+    "1792405920561",
+    "1792406453347",
+    "1792409822143",
+    "1792412447870",
+    "1792413720323",
+    "1792416720216",
+    "1792417697331",
+    "1792417809862",
+    "1792418820469",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20727,6 +20772,7 @@
     "1792368919018",
     "1792370065249",
     "1792371600191",
+    "1792373433088",
     "1792374720489",
     "1792375527517",
     "1792377011287",
@@ -20761,7 +20807,7 @@
     "1792388685380",
     "1792388744762",
     "1792389271277",
-    "1792389637957",
+    "1792389562619",
     "1792389783613",
     "1792390226861",
     "1792390277684",
@@ -20779,14 +20825,13 @@
     "1792393420211",
     "1792393496200",
     "1792393554982",
-    "1792394747606",
+    "1792394747607",
     "1792394814077",
     "1792394864944",
     "1792395718055",
     "1792396200086",
     "1792396351456",
     "1792396497620",
-    "1792397220816",
     "1792397418333",
     "1792397715731",
     "1792398506459",
@@ -20828,12 +20873,10 @@
     "1792405617594",
     "1792405800553",
     "1792405825476",
-    "1792405920561",
     "1792405980371",
     "1792406083377",
     "1792406222452",
     "1792406392259",
-    "1792406453347",
     "1792406580088",
     "1792406820155",
     "1792406891541",
@@ -20854,12 +20897,13 @@
     "1792409400463",
     "1792409511546",
     "1792409640161",
-    "1792409822143",
+    "1792409822129",
     "1792410195340",
     "1792410199963",
     "1792410231988",
     "1792410292851",
     "1792410317353",
+    "1792410346078",
     "1792410448035",
     "1792410511931",
     "1792411200602",
@@ -20872,7 +20916,7 @@
     "1792411580415",
     "1792411618548",
     "1792412397147",
-    "1792412447870",
+    "1792412447213",
     "1792412688572",
     "1792412744147",
     "1792412803060",
@@ -20881,7 +20925,6 @@
     "1792413420794",
     "1792413466661",
     "1792413676981",
-    "1792413720323",
     "1792413868468",
     "1792414012758",
     "1792414261405",
@@ -20892,22 +20935,20 @@
     "1792414840095",
     "1792414846074",
     "1792414876135",
+    "1792415033801",
     "1792415511666",
     "1792415532028",
+    "1792415532722",
     "1792415646089",
     "1792415835312",
     "1792415863448",
     "1792415899176",
     "1792415978263",
     "1792416550061",
-    "1792416720216",
     "1792416720577",
-    "1792417697331",
     "1792417740015",
-    "1792417809862",
     "1792418111366",
     "1792418220555",
-    "1792418820469",
     "1792419000800",
     "1792419033895",
     "1792419173898",
@@ -20915,12 +20956,20 @@
     "1792419700760",
     "1792419738706",
     "1792419988643",
+    "1792421172731",
     "1792421391079",
     "1792422031371",
     "1792422086752",
     "1792422240240",
     "1792422249739",
+    "1792422441862",
     "1792422460480",
+    "1792422496344",
+    "1792422802619",
+    "1792422991697",
+    "1792423044109",
+    "1792423527356",
+    "1792423709595",
     "1792430400524",
     "2317509",
     "2317615",
@@ -21012,8 +21061,8 @@
     "2325103",
     "2325239"
   ],
-  "last_digest_hour": "2026-10-19T20",
-  "last_success": "2026-10-19T15:16:11.421615+00:00",
+  "last_digest_hour": "2026-10-19T21",
+  "last_success": "2026-10-19T15:31:20.155736+00:00",
   "national": {
     "alerted": [
       {
@@ -29314,17 +29363,14 @@
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "CCI": "2026-10-18T16:32:24.562138+00:00",
         "IMD": "2026-10-18T16:32:24.562138+00:00",
-        "NPCI": "2026-10-19T15:02:49.810559+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-19T15:17:03.330987+00:00",
-    "pib_mark": 2325268,
+    "last_run": "2026-10-19T15:32:01.760320+00:00",
+    "pib_mark": 2325281,
     "seen": [
-      "gazette:CG-DL-E-30092026-276664",
-      "gazette:CG-DL-E-30092026-276663",
       "gazette:CG-DL-E-30092026-276656",
       "gazette:CG-DL-E-01102026-276652",
       "gazette:CG-DL-E-01102026-276665",
@@ -32322,7 +32368,9 @@
       "page:https://www.mha.gov.in/files/whats_new_documents/postconstableheadconstable_01092026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/Police2_22092026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/UNWorkP2_09102026.pdf",
-      "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse.pdf"
+      "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse.pdf",
+      "pib:2325281",
+      "pib:2325279"
     ],
     "source_failures": {
       "CBI": {
@@ -32336,9 +32384,6 @@
       "IMD": {
         "count": 6,
         "until": "2026-10-19T17:02:52.608422+00:00"
-      },
-      "NPCI": {
-        "count": 2
       },
       "State: Maharashtra": {
         "count": 19,
@@ -33486,18 +33531,18 @@
     "microsoft india": 1792378078745,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792422460480,
+    "news: big tech platforms": 1792423709595,
     "news: consumer internet india": 1792419988643,
-    "news: global ai": 1792422249739,
+    "news: global ai": 1792423527356,
     "news: global chips": 1792422240240,
     "news: global it services": 1792406222452,
     "news: india ai deeptech": 1792419988643,
     "news: india edtech gaming": 1792377646337,
-    "news: india fintech": 1792418111366,
+    "news: india fintech": 1792423044109,
     "news: india semiconductors": 1792410258814,
     "news: india tech policy": 1792415532722,
-    "news: india telecom": 1792419738706,
-    "news: indian it majors": 1792421391079,
+    "news: india telecom": 1792422802619,
+    "news: indian it majors": 1792422991697,
     "news: indian it midcaps": 1792412397615,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792414306528,
@@ -33547,7 +33592,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T15:16:11.886646+00:00",
+    "last_server_run": "2026-10-19T15:31:20.608017+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-19T14:02:41.155352+00:00",
@@ -36694,7 +36739,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T15:17:07.164389+00:00",
+    "last_run": "2026-10-19T15:32:06.532320+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -37946,7 +37991,8 @@
       "x:2112192043048923470",
       "x:2112197075920171339",
       "x:2112197082689765491",
-      "x:2112199592368603540"
+      "x:2112199592368603540",
+      "x:2112202627975197007"
     ],
     "source_failures": {},
     "sources": []
