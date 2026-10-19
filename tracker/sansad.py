@@ -49,6 +49,7 @@ import re
 import time
 
 import requests
+from urllib.parse import quote
 
 # The website's two back ends. The Lok Sabha one also serves the pages that
 # cover both Houses -- committees, and the joint list of bills.
@@ -670,6 +671,12 @@ def read(entry: dict, memory: dict, out_of_time=lambda: False) -> list:
             return []
         if minutes:
             _mark(mine, name)
+        # sansad.in names its files as typed -- "Estimates/Meeting_notice/REVISED NOTICE 30.10.2026.pdf".
+        # A space breaks the link in the email and the website drops it, so each address is
+        # encoded once here (Oct 19 2026: 13 committee meetings in two weeks had no link)
+        for r in rows:
+            if r.get("url"):
+                r["url"] = quote(r["url"].strip(), safe=":/?&=%#+,;@~!$'()*[]")
         # The age window. Anything older is dropped here and never reaches
         # the watch's memory, which is what keeps that memory small enough
         # to be trustworthy. A date in the future -- a meeting called for

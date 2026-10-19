@@ -39,7 +39,7 @@ def bundle() -> str | bool:
     if not _switch("tls_verify", True):
         return False
     if _bundle is None:
-        extra = (_HERE / "certs" / "extra-chain.pem").read_text()
+        extra = "\n".join(p.read_text() for p in sorted((_HERE / "certs").glob("*.pem")))
         out = tempfile.NamedTemporaryFile("w", suffix=".pem", delete=False)
         out.write(pathlib.Path(certifi.where()).read_text() + "\n" + extra)
         out.close()
@@ -57,3 +57,13 @@ def get(session_or_requests, method: str, url: str, **kw) -> requests.Response:
             raise
         print(f"tls: {url.split('/')[2]} failed the certificate check ({str(err)[:120]}); read without it this time")
         return call(url, verify=False, **kw)
+
+
+def trust_everywhere() -> None:
+    """Every other read (requests' plain verify=True) uses the same trust store, through
+    REQUESTS_CA_BUNDLE: certifi 2026.10.18 dropped eMudhra's emSign roots, which most Indian
+    government sites chain to (certs/emsign-roots.pem puts them back; Oct 19 2026)."""
+    import os
+    path = bundle()
+    if path and not os.environ.get("REQUESTS_CA_BUNDLE"):
+        os.environ["REQUESTS_CA_BUNDLE"] = path
