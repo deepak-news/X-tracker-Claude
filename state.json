@@ -1,79 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-13T03:31:17.909732+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic CEO Dario Amodei discusses AI chip supply crunch with Elon Musk",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWU5ai1lVFpKMjNOUGRsWW5ZX3ZZdVlod3cwUGd5RlFhcHhsSUpNeGtKQU1nNktWSDBGeHJORnFRaWpDTkc0QU9rUWpFSm9wdjNUQkNSd3BabnV0YjQyemxPQV9PQzVaWkNzTUp0UkZ5cTdwQV9TZk9kSU13YjJ2SGg1RTJvOWlhMXVSSVA5QWhrdk8yODU2NkZlSkluM1lSbk10aFlEdE4yQzJmYUthSk9sVTFLSkIyVGg2cHlpVWpjQdIBxwFBVV95cUxOOHRTZFAtNjc4cWNpUV9SbVFORXVNZ1RGbXUyMUNkak0yUXRCOVQ2d3J4T1FobDVqVEJBbjg5T001VkhTMWxQT0pIaHFoM1dOYnotNlVfenVPRUNDZ2dHSDdoY2lUdFBUVnBGMXVJN3pnelFzdlhUZmRFVWE5bXlNUmRub2dRVEpYTkZ1TnVLd3lRN05CWWNuS2N2UWZPVWZSejNFbjNZaDVQc1NZNGt4aFJ4Ul9idlA1NnRoZUl2RUhqNWZ0VFRN?oc=5",
-      "words": [
-        "amodei",
-        "anthropic",
-        "ceo",
-        "chip",
-        "crunch",
-        "dario",
-        "elon",
-        "huge",
-        "musk",
-        "shortage",
-        "turns"
-      ]
-    },
-    {
-      "at": "2026-10-13T04:31:24.160018+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Zoho pauses pay hikes and cuts marketing amid rising AI costs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZTJIOEpuaHJDeklaNmFVN0J5ODhWRWNkRDVhNS15aFRvbS0tbWFjbTRTbDAxc1hsT3VuU19EQWVKcWl6ZUF6dmJBWV9BQXU1VldnR2p0RnJNQjNVQ1AxRzc1TldxVm16U0Y2VXg0dzlhWFkyeUJzNUFOOWxzQmpya2hyemZhbkJ2Mk5EVVFrNGt0aFRiT3NzbW8tTUpkMWJNSGVwTEtfaFVTY0RMODhzTHc5NkxPNmQyN203LTN1NFNJUUN5b3hxU1B4Sy1pX2R3dlpqVNIB2gFBVV95cUxPZGc5TFp1cVBYaUFGdFdibFJRRnpsWHhzbUZPRWxBekVPbVhpRTRZX19nVzhDZTVlQVB5M0k4Y2dGT0pDSG5wZVZIam5FYkkxTEZOY2RKX0k0UmNJWmZ0RjgyR1ZoZkdHYXVndlZEdm1sOG9CbDNpSW9OTWhzY1hXN1V4WnpHRjd4Ny1aOTlkN0l3Z28yUlFXNmVoRE9QY2FBNDk5elpYRU1vVk1IanVVNzNYeWFub0pINmt2WUJjeGdGaUZBR1ZWMnJFQjhSWXA2SnNScmpMM0lrdw?oc=5",
-      "words": [
-        "costs",
-        "cuts",
-        "hikes",
-        "marketing",
-        "pauses",
-        "pay",
-        "rising",
-        "spend",
-        "zoho"
-      ]
-    },
-    {
-      "at": "2026-10-13T04:31:24.160018+00:00",
-      "handle": "News: Global AI",
-      "headline": "Ex-OpenAI researcher in talks to raise $15 million from Peak XV and Bessemer",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmtrQ21MZG5lNGQyWkU4M2JPMDhtYXlocTJSclRWRG5uUTNFc21qMG5hS0o4LUdkTHZ0YTRMQk1SSzhZOVBwUmVieFVoeWxzNGRseEQ5Um1rM2N3NlJyU1FRdXZJNUp3R2hzMHhXUTZZaTdpcXV6ZUI2ZXpxcFNzaW54VTFocHJDcjJDLWJRTzlqYW5Gb0JvVnVvTTR0U3ZKRjM4OTV4QUQwYWVlaUpuNVdTS2cwQm9LSi1xMGItOExnOHRwLWdNcWEwMXBWYUxfbVpadlRlVWYwNlptUFVFTEVDbGRadW9zak5R0gHwAUFVX3lxTE1lNy1fanVoMHNrMEdHX3EyZUJndURaLURDWVpqeHN2LWlQTXNnRW1zdmhiSExmanZpb3ViZHJ2b0VoaHlyblpaTXJzNWdZamlsckQxMF9VNFlBZVFkT2QwRmVFMk1NOFp0ZzlzcGtwY2dlTC0tSGNKcVRiWk9vX0hSTS16eFM5cFphOFFfMk5lQ04teDhfdEl3VllkaFBsMlBvcUhPNXNRSW1FcENnMmx5Mlp0WmZnUFVrRjFtQ1FuNHdQWEMxWENhVWdzTndFWTZWemN3bTExbjFvT2I0bTZ3amxpZkR2bzBwWjVmaDZlMw?oc=5",
-      "words": [
-        "bessemer",
-        "million",
-        "openai",
-        "peak",
-        "raise",
-        "researcher",
-        "startup",
-        "talks"
-      ]
-    },
-    {
-      "at": "2026-10-13T05:31:26.610637+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic reveals Houthis used Claude for missile development",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS1pBZXFfUThVbzNtcUNUUkhFdV9yRGxlNG8yZFo4MEo5QXFzN0NSckVjbEN5MHRqRkV6VnJUeHlzMXJnVHg0LVp2QUxUdVdIV2pWVmRLeVdUNUM1LVhNNHE0N1NDY2FtdjJwS0xEQVpXVldJOXZQNXB6RWdpaFRUdHJwNWxET24xRy1adFJXZUFvcFQtRXZCTDZnTlJ2b2d5elJQTU9vVEQ2Nm02LUhkMDZFb3YtRGQ2Q1RSaUxNM3FmX0VIN0hXVW5aMWZuY1V6WmszLTZZUFJWMG5HLTFxbXRPTFoxYmtINTRLT9IB8gFBVV95cUxQeG5CVG1jZVlJa2ZDdUdFZFN3ZVIxQ2FZYi1Ia21LbHA0VjAtYVdYZi12Sl9BSVZ6c1RUM0lwU2VWWW9sLXBLUGtRelRIaFFKOFpUWWhFa2xrRHVlNFFNOVdSdUViYXhUdF9HSnFyYzhpR0IyalVYbEpVSWxRWUlFMDRwY015QjRtUDRHTWRKZmV5ekdiZUJCQ0tTOVhPT0kxdTFycDVodTNXdldqRXVVejU1Z1lpRHd5TXk1a1YwVldBUF9uUEJNVEphUFpFLXZmVm40amZmdGljQ1AzZ0l3R2RIN0NBcE1fMmJuNlRBR3RKQQ?oc=5",
-      "words": [
-        "anthropic",
-        "claude",
-        "develop",
-        "fired",
-        "houthis",
-        "missiles",
-        "rocket",
-        "test",
-        "used"
-      ]
-    },
-    {
       "at": "2026-10-13T05:31:26.610637+00:00",
       "handle": "News: India AI deeptech",
       "headline": "IndiaAI Mission GPU bidders permitted to sell capacity globally",
@@ -7447,6 +7374,86 @@
         "record",
         "runs"
       ]
+    },
+    {
+      "at": "2026-10-19T18:31:36.111403+00:00",
+      "handle": "News: Global chips",
+      "headline": "Nvidia acquires AI startup Modal for new central processors",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVTFwVm5iUGR2ZldVV051dHg3ckx2alZEbHZNRHNwMUw2UmMzanEyZnFBX3NqTjE1cFlnZ3dOdWk0R2NucU1FWE84TmprQU9jVjQyUkZzci12YTExa1pqWEpvR3dud25ua0YtcWNCdFZuRmo4MVpIVXlMZVpJX09zMENaZlZNNDU3NXZUeFZhNzZqZENvMDhQa21KQjc0VFdNUmhvLVVSS3RCaFRkaS1YbnpqQkNoTnQ1ZHlkcUdRUVF2czFQS2JiTXk2U1RVWFExV3hPbHlXcnB3NmwxVXc3VNIB2gFBVV95cUxQSzdyZHNQT19uVnpzaTBrRDNqWUIxVzlELVFmcHgxRmFpM0Rabmt3M2MtYmR0eEV0RkptMFY2dUNtNGg4RHA0RFBqeDgyUFpoN2lBbXk0U3ZaZjIzWFlKamJvZmVYTzdQaGlXTDY2Sk9aYUYxbGtnQnU3UFRnNmhuQk5Tc2xDRVlWUHQ3TE9yZTBzb2RxeTQ4eTBRV3Y5dWs0ZWNXandzZ1pXU0RZTF9nVmNUOGNXRFNIa2ZTMlRkV3lxNUN4M0hWRDFLQ3hxWmphMS0xcFRUMmNSQQ?oc=5",
+      "words": [
+        "central",
+        "fast",
+        "growing",
+        "modal",
+        "nvidia",
+        "processors",
+        "startup",
+        "wins"
+      ]
+    },
+    {
+      "at": "2026-10-19T18:31:36.111403+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft details security risks of enterprise AI agents",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNb1dEZFRlQUlUQmZyb2NsZHlmbko4ajNORWJ3LWxHX1BGenhJNTdaWEh0VnkwT0QyQ0xRTW5SVmdNUWRIT0ozaE85b1dOSlhjTklOaURKeHVaRDB0MG5mN0E3bVhBWWp4MWhiUzhIZzdKMHdrMm9iMlAyci1nNE9KVmFmc05yTTFGQldRdENVeTVtYXlJcEd4VVp2RU1QdFJLbXlCRzZfeFBLek83TFNGZC1nZWJfREtDYkJSeFhTTVJQNXRiV3hfMlBpSE9BaW1fZE9zZ1pKRzVrYkdIUV81RWRKNE13Q0swbm9LaU1WZ0pkQXdaLU1mNkp3cU5kRS1jRFpLZmZ3eVEwMFA3ODBxS9IBlgJBVV95cUxNT3JVM1BqWGxrWlc3R2prTnduRk1aVDZvd09ieXJIZ0Z1N2hoVmIwbnZOUm1mZzVFWXdoaW8zLUZQS09YXzBQTVYtSlNtaV9xWFBXcGlIWFQ1X19vb2RCbjMydmVTa09tbGhTY2NrUXZOdW5HaG5wMGtPeTJoVmNISkJNV0dYZERWaGR5clJVVVR4b1J0VkpDc1EwMkQySnlwWTZhRGhEdVZsOUE2ejJ2VVNwdnozMUhCWmhJanNUdjF3eUpIUUZIdWlNSmRxbmRNM1ljcTNWSmswVmhnWTVtZ3VqbzhrTm1UbnJFazJOb2QzQXhwSk9JeTNES081ekN3TkZlVi1lNFBPMWdPM25ORDNEc19Hdw?oc=5",
+      "words": [
+        "agents",
+        "can",
+        "companies",
+        "guardian",
+        "inside",
+        "microsoft",
+        "moves",
+        "their",
+        "trusted",
+        "wants",
+        "watch"
+      ]
+    },
+    {
+      "at": "2026-10-19T18:31:36.111403+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta blames bot-detection glitch for 'No Kings' account suspension",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMzFGMkNqdHVNWktwendjS3l5SGlia0d6c1RORFBydzAwemF3elM1T3JSbmxzc0RrVXNoMHR3Q2VRcWV3LTl0SnQ3ei1WdDNMSklyc3hzRmhKbEZ4MmdKTVVHM2hIRkhMNEpZNmVEY2RQRTlxSUVDQlJsOGtSM195N29IQWFlUEFwUG02MEQtb3RoOEdPZTNveG1rajlvam9PMURuYXM0ZGZ0czN3bkVHNTRScFZNaVpvQzRtdm1RR0FDWU1IMnfSAc4BQVVfeXFMTThYYUV4MjBHcTc3c2owOUFpUDkwTFd6N204SlI5Sld2OFR4bnI0d3NxU2RnUm9rN3hhdTV0Zk1Ed1ZqaWlqSDk5Sm9wZHo4NTNOTE5aNWRxZGtzX192bGROTTQ3NVRSU1hlNWlUTFZzUE4zNVAwbzNaajh6OTR0Q1U2ZTBEaGpfLWl1azBJenVEeUlPLUpmOEp1OWhka2NfZjdnVHQyU0NKS2Z0QWV1Qm50VmtuTjFWWGNmd2IyQ2dPTmtwbnpZR3dCNWZmSmc?oc=5",
+      "words": [
+        "account",
+        "blames",
+        "bot",
+        "detection",
+        "during",
+        "glitch",
+        "kings",
+        "mass",
+        "meta",
+        "protests",
+        "suspending"
+      ]
+    },
+    {
+      "at": "2026-10-19T18:31:36.111403+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic highlights human attention as bottleneck in AI workplace",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbl9PcUp2RThiUVVvSVgxQnJ0bEtHaTVpUVRIX3JHbkVCbW5GUkxjYWhnXzBTeV84SVdESHJuVmFMLU1DM1NSZV9pREVsUS1DanFqelQ5ck5aSHk3MFEyZnk2aHpkNmI0NlA2Zl9oSk1aZmF4TUNPSDBxZjN4eW42N0M2bWxyN2VlNUE?oc=5",
+      "words": [
+        "anthropic",
+        "army",
+        "asking",
+        "attention",
+        "botsitting",
+        "bottleneck",
+        "claudes",
+        "every",
+        "filled",
+        "first",
+        "future",
+        "heavy",
+        "human",
+        "meeting"
+      ]
     }
   ],
   "bureau": {
@@ -13053,7 +13060,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-19T18:17:22.306836+00:00",
+    "last_run": "2026-10-19T18:32:56.985892+00:00",
     "pib_mark": 2325320,
     "seen": [
       "pib:2320137",
@@ -14690,6 +14697,8 @@
       "gazette:CG-DL-E-19102026-277276",
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-announces-the-10-winners-of-its-online-human-rights-quiz-2026-organised-ahead-of-its-33rd-foundation-day-in-collaboration-with-mygov",
       "site:Delhi Police|dp-notification:16/10/2026|ORDER US 163 BNSS BY ACP SHALIMAR BAGH DATED 16 OCTOBER 2026",
+      "dgft-notification:87f5c021-25d2-41ce-98dd-d70d9514c4ce",
+      "dgft-notification:a273f9da-f0f4-48e2-a394-1069cb6a4dd7",
       "page:https://internal.imd.gov.in/press_release/20260920_pr_5328.pdf",
       "page:https://internal.imd.gov.in/press_release/20261005_pr_5381.pdf",
       "page:https://internal.imd.gov.in/press_release/20261003_pr_5373.pdf",
@@ -14924,8 +14933,6 @@
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-national-green-tribunal",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-emasa-bailaasapaura-kae",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-vaisava-nava-nairamaana",
-      "dgft-notification:87f5c021-25d2-41ce-98dd-d70d9514c4ce",
-      "dgft-notification:a273f9da-f0f4-48e2-a394-1069cb6a4dd7",
       "mea:41872",
       "mea:41871",
       "mea:41873",
@@ -15292,15 +15299,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791878545281",
-    "1791888163403",
-    "1791890602462",
-    "1791890820067",
-    "1791902325994",
-    "1791795601824",
-    "1791892870773",
-    "1791895217969",
-    "1791896739246",
     "1791897960918",
     "1791899993931",
     "1788206014114",
@@ -19607,7 +19605,6 @@
     "1791151314860",
     "1792345265895",
     "1792392571458",
-    "1792394932750",
     "1792402203637",
     "1792408695102",
     "1792409400121",
@@ -19718,8 +19715,6 @@
     "1792415646089",
     "1792416900121",
     "1792422157794",
-    "1791849600884",
-    "1792022400425",
     "1792405980371",
     "1792412808605",
     "1792414574632",
@@ -19728,20 +19723,29 @@
     "1792427167277",
     "1791817200538",
     "1792346950894",
-    "1792370065249",
     "1792378387026",
-    "1792383306209",
     "1792403220299",
-    "1792404932955",
-    "1792405800553",
     "1792407639707",
-    "1792408643347",
-    "1792412447213",
-    "1792415519543",
     "1792424525962",
     "1792427751167",
-    "1792428060435",
     "1792431293338",
+    "1791763200600",
+    "1791763200678",
+    "1792378715884",
+    "1792392960059",
+    "1792394747606",
+    "1792399170807",
+    "1792399733072",
+    "1792404932393",
+    "1792409232803",
+    "1792411500365",
+    "1792413466661",
+    "1792415646211",
+    "1792422460480",
+    "1792422496344",
+    "1792423711595",
+    "1792428292362",
+    "1792428340404",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20817,8 +20821,6 @@
     "1791561635953",
     "1791570600561",
     "1791703384406",
-    "1791763200600",
-    "1791763200678",
     "1791773771502",
     "1791780460130",
     "1791790037727",
@@ -20847,6 +20849,7 @@
     "1791849600404",
     "1791849600656",
     "1791849600751",
+    "1791849600884",
     "1791863703259",
     "1791867631456",
     "1791868380716",
@@ -20917,6 +20920,7 @@
     "1792008000711",
     "1792011600719",
     "1792018860784",
+    "1792022400425",
     "1792022400459",
     "1792022400648",
     "1792025450282",
@@ -20985,6 +20989,7 @@
     "1792342988837",
     "1792347345536",
     "1792368919018",
+    "1792370065249",
     "1792371600191",
     "1792374720489",
     "1792375527517",
@@ -20997,12 +21002,12 @@
     "1792377780685",
     "1792378078745",
     "1792378255038",
-    "1792378715884",
     "1792381051237",
     "1792381532670",
     "1792382329713",
     "1792382659346",
     "1792383164444",
+    "1792383306209",
     "1792383745561",
     "1792384179962",
     "1792384329947",
@@ -21027,16 +21032,15 @@
     "1792391797391",
     "1792391914369",
     "1792392208443",
-    "1792392960059",
     "1792393121410",
     "1792393291622",
     "1792393297030",
     "1792393420211",
     "1792393496200",
     "1792393554982",
-    "1792394747606",
     "1792394814077",
     "1792394864944",
+    "1792394932750",
     "1792396200086",
     "1792396351456",
     "1792396497620",
@@ -21049,13 +21053,11 @@
     "1792398802645",
     "1792398927715",
     "1792398985499",
-    "1792399170807",
     "1792399194542",
     "1792399218313",
     "1792399268307",
     "1792399560570",
     "1792399575795",
-    "1792399733072",
     "1792399772917",
     "1792402203741",
     "1792402589223",
@@ -21067,10 +21069,11 @@
     "1792404517033",
     "1792404540185",
     "1792404543871",
-    "1792404932393",
+    "1792404932955",
     "1792404943074",
     "1792405049190",
     "1792405617594",
+    "1792405800553",
     "1792405825476",
     "1792405920877",
     "1792406083377",
@@ -21083,9 +21086,9 @@
     "1792407150967",
     "1792407392569",
     "1792407600650",
+    "1792408643347",
     "1792408652437",
     "1792408695080",
-    "1792409232803",
     "1792409340252",
     "1792409400463",
     "1792409511546",
@@ -21099,13 +21102,13 @@
     "1792411200602",
     "1792411200752",
     "1792411363781",
-    "1792411500365",
     "1792411500945",
     "1792412397147",
+    "1792412447213",
     "1792412744147",
     "1792412748636",
     "1792412803060",
-    "1792413466661",
+    "1792413396464",
     "1792413676981",
     "1792413868468",
     "1792414012758",
@@ -21115,8 +21118,8 @@
     "1792414840095",
     "1792414846074",
     "1792414876135",
+    "1792415519543",
     "1792415532722",
-    "1792415646211",
     "1792415835312",
     "1792415863448",
     "1792415899176",
@@ -21140,13 +21143,10 @@
     "1792422157398",
     "1792422240240",
     "1792422441862",
-    "1792422460480",
-    "1792422496344",
     "1792422802619",
     "1792422991697",
     "1792423044109",
     "1792423527356",
-    "1792423711595",
     "1792423984177",
     "1792423997259",
     "1792424099760",
@@ -21176,8 +21176,7 @@
     "1792427473272",
     "1792427698531",
     "1792427751077",
-    "1792428292362",
-    "1792428340404",
+    "1792428060435",
     "1792428381501",
     "1792428540928",
     "1792428637297",
@@ -21198,11 +21197,19 @@
     "1792431201687",
     "1792431409733",
     "1792432315925",
+    "1792432560384",
     "1792432800087",
     "1792433211632",
+    "1792433280240",
+    "1792433287226",
     "1792433331698",
+    "1792433344547",
     "1792433400344",
     "1792433540890",
+    "1792433565496",
+    "1792433889054",
+    "1792434281624",
+    "1792434284663",
     "2317509",
     "2317615",
     "2317714",
@@ -21293,8 +21300,8 @@
     "2325103",
     "2325239"
   ],
-  "last_digest_hour": "2026-10-19T23",
-  "last_success": "2026-10-19T18:16:12.068835+00:00",
+  "last_digest_hour": "2026-10-20T00",
+  "last_success": "2026-10-19T18:31:36.188335+00:00",
   "national": {
     "alerted": [
       {
@@ -29656,7 +29663,7 @@
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-19T18:17:08.066814+00:00",
+    "last_run": "2026-10-19T18:32:43.719723+00:00",
     "pib_mark": 2325320,
     "seen": [
       "pib:2317552",
@@ -32048,10 +32055,12 @@
       "gazette:CG-WB-E-19102026-277275",
       "npci:617",
       "npci:620",
-      "quake:usgs:us6000u3bc",
-      "quake:usgs:us6000u3c7",
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-announces-the-10-winners-of-its-online-human-rights-quiz-2026-organised-ahead-of-its-33rd-foundation-day-in-collaboration-with-mygov",
       "site:Delhi Police|dp-notification:16/10/2026|ORDER US 163 BNSS BY ACP SHALIMAR BAGH DATED 16 OCTOBER 2026",
+      "dgft-notification:87f5c021-25d2-41ce-98dd-d70d9514c4ce",
+      "dgft-notification:a273f9da-f0f4-48e2-a394-1069cb6a4dd7",
+      "quake:usgs:us6000u3bc",
+      "quake:usgs:us6000u3c7",
       "page:https://internal.imd.gov.in/press_release/20260910_pr_5304.pdf",
       "page:https://internal.imd.gov.in/press_release/20260916_pr_5319.pdf",
       "page:https://internal.imd.gov.in/press_release/20260915_pr_5317.pdf",
@@ -32366,8 +32375,6 @@
       "mea:41860",
       "mea:41869",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/%e0%b0%8e%e0%b0%b2%e0%b1%8d%e0%b0%a8%e0%b0%bf%e0%b0%a8%e0%b1%8b-%e0%b0%b5%e0%b0%b0%e0%b1%8d%e0%b0%b7%e0%b0%be%e0%b0%ad%e0%b0%be%e0%b0%b5-%e0%b0%aa%e0%b0%b0%e0%b0%bf%e0%b0%b8%e0%b1%8d/",
-      "dgft-notification:87f5c021-25d2-41ce-98dd-d70d9514c4ce",
-      "dgft-notification:a273f9da-f0f4-48e2-a394-1069cb6a4dd7",
       "mea:41872",
       "mea:41871",
       "mea:41873",
@@ -32729,62 +32736,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Nvidia acquires AI startup Modal for new central processors",
-      "post": {
-        "created_at": "2026-10-19T15:37:24+00:00",
-        "handle": "News: Global chips",
-        "id": "1792424244456",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Nvidia wins fast-growing AI startup Modal for new central processors",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVTFwVm5iUGR2ZldVV051dHg3ckx2alZEbHZNRHNwMUw2UmMzanEyZnFBX3NqTjE1cFlnZ3dOdWk0R2NucU1FWE84TmprQU9jVjQyUkZzci12YTExa1pqWEpvR3dud25ua0YtcWNCdFZuRmo4MVpIVXlMZVpJX09zMENaZlZNNDU3NXZUeFZhNzZqZENvMDhQa21KQjc0VFdNUmhvLVVSS3RCaFRkaS1YbnpqQkNoTnQ1ZHlkcUdRUVF2czFQS2JiTXk2U1RVWFExV3hPbHlXcnB3NmwxVXc3VNIB2gFBVV95cUxQSzdyZHNQT19uVnpzaTBrRDNqWUIxVzlELVFmcHgxRmFpM0Rabmt3M2MtYmR0eEV0RkptMFY2dUNtNGg4RHA0RFBqeDgyUFpoN2lBbXk0U3ZaZjIzWFlKamJvZmVYTzdQaGlXTDY2Sk9aYUYxbGtnQnU3UFRnNmhuQk5Tc2xDRVlWUHQ3TE9yZTBzb2RxeTQ4eTBRV3Y5dWs0ZWNXandzZ1pXU0RZTF9nVmNUOGNXRFNIa2ZTMlRkV3lxNUN4M0hWRDFLQ3hxWmphMS0xcFRUMmNSQQ?oc=5"
-      },
-      "queued_at": "2026-10-19T18:01:38.498685+00:00",
-      "score": 8.0,
-      "why": "A significant acquisition by a major semiconductor company counts as a core wire story."
-    },
-    {
-      "headline": "Meta blames bot-detection glitch for 'No Kings' account suspension",
-      "post": {
-        "created_at": "2026-10-19T17:51:55+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1792432315925",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV Profit",
-        "reposts": 0,
-        "text": "Meta Blames Bot-Detection Glitch For Suspending 'No Kings\u2019 Account During Mass Protests",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMzFGMkNqdHVNWktwendjS3l5SGlia0d6c1RORFBydzAwemF3elM1T3JSbmxzc0RrVXNoMHR3Q2VRcWV3LTl0SnQ3ei1WdDNMSklyc3hzRmhKbEZ4MmdKTVVHM2hIRkhMNEpZNmVEY2RQRTlxSUVDQlJsOGtSM195N29IQWFlUEFwUG02MEQtb3RoOEdPZTNveG1rajlvam9PMURuYXM0ZGZ0czN3bkVHNTRScFZNaVpvQzRtdm1RR0FDWU1IMnfSAc4BQVVfeXFMTThYYUV4MjBHcTc3c2owOUFpUDkwTFd6N204SlI5Sld2OFR4bnI0d3NxU2RnUm9rN3hhdTV0Zk1Ed1ZqaWlqSDk5Sm9wZHo4NTNOTE5aNWRxZGtzX192bGROTTQ3NVRSU1hlNWlUTFZzUE4zNVAwbzNaajh6OTR0Q1U2ZTBEaGpfLWl1azBJenVEeUlPLUpmOEp1OWhka2NfZjdnVHQyU0NKS2Z0QWV1Qm50VmtuTjFWWGNmd2IyQ2dPTmtwbnpZR3dCNWZmSmc?oc=5"
-      },
-      "queued_at": "2026-10-19T18:01:38.498685+00:00",
-      "score": 7.0,
-      "why": "Major platform policy explanations and incident disclosures by leading AI/tech giants are wire stories."
-    },
-    {
-      "headline": "Anthropic highlights human attention as bottleneck in AI workplace",
-      "post": {
-        "created_at": "2026-10-19T18:10:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1792433400344",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Fortune",
-        "reposts": 0,
-        "text": "\u2018An army of Claudes, with every one asking for my attention\u2019: Anthropic sees \u2018human attention\u2019 as the bottleneck in the meeting-heavy, botsitting-filled AI-first workplace of the future",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbl9PcUp2RThiUVVvSVgxQnJ0bEtHaTVpUVRIX3JHbkVCbW5GUkxjYWhnXzBTeV84SVdESHJuVmFMLU1DM1NSZV9pREVsUS1DanFqelQ5ck5aSHk3MFEyZnk2aHpkNmI0NlA2Zl9oSk1aZmF4TUNPSDBxZjN4eW42N0M2bWxyN2VlNUE?oc=5"
-      },
-      "queued_at": "2026-10-19T18:16:11.996567+00:00",
-      "score": 7.0,
-      "why": "Significant commentary and research insights from a major AI lab regarding workplace transformation."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -33871,9 +33823,9 @@
     "microsoft india": 1792378078745,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792433331698,
+    "news: big tech platforms": 1792433889054,
     "news: consumer internet india": 1792428637297,
-    "news: global ai": 1792433400344,
+    "news: global ai": 1792434281624,
     "news: global chips": 1792430005137,
     "news: global it services": 1792406222452,
     "news: india ai deeptech": 1792423984177,
@@ -33881,7 +33833,7 @@
     "news: india fintech": 1792425814198,
     "news: india semiconductors": 1792428540928,
     "news: india tech policy": 1792420772030,
-    "news: india telecom": 1792433540890,
+    "news: india telecom": 1792434284663,
     "news: indian it majors": 1792431201687,
     "news: indian it midcaps": 1792412397615,
     "news: pib releases": 1790159940641,
@@ -33912,9 +33864,7 @@
     "zoho": 1791992131559
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-10-19T18:01:31.502249+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -33932,17 +33882,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T18:16:12.512915+00:00",
+    "last_server_run": "2026-10-19T18:31:36.539562+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-19T16:17:00.518024+00:00",
+        "checked": "2026-10-19T18:32:26.782702+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-19T16:16:52.728966+00:00",
+        "checked": "2026-10-19T18:32:19.244694+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -34018,7 +33968,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-19T16:16:56.573820+00:00",
+        "checked": "2026-10-19T18:32:23.134954+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -34073,8 +34023,8 @@
       "last": {
         "calendar": "2026-10-19T13:02:34.654169+00:00",
         "ls_reports": "2026-10-19T16:46:51.079184+00:00",
-        "rs_committee_press": "2026-10-19T16:16:48.838521+00:00",
-        "rs_press": "2026-10-19T16:16:45.883924+00:00",
+        "rs_committee_press": "2026-10-19T18:32:15.329645+00:00",
+        "rs_press": "2026-10-19T18:32:12.186222+00:00",
         "rs_reports": "2026-10-19T16:46:54.507700+00:00",
         "rs_updates": "2026-10-19T16:46:56.543750+00:00"
       }
@@ -37101,7 +37051,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T18:17:12.088303+00:00",
+    "last_run": "2026-10-19T18:32:47.170809+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
