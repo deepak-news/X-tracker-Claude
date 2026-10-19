@@ -2,29 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-13T01:31:30.434369+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic Red Team warns frontier AI models near self-replication",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDhBdl9OMm1aOTh0UmlORVpWX0VfQ0lqcW12dGUySzlMb3BtdFhQM08tUV9yRF9hMHBjNEEzSHNGMW8wR2IzVTlKQ05pTUpoZzlmUW1kT2dtU3BOb2RqelA5NzdKTnhZb0FMRWVEb0pyV0VRNDdPcEtFUVhvTC1Dbk9OUFFlR1JMMVc3Q1NobHdubU1kSEN3VUhKaVBMcjVhX1pBalNLMFc2WWEy?oc=5",
-      "words": [
-        "anthropic",
-        "away",
-        "being",
-        "capable",
-        "enough",
-        "frontier",
-        "may",
-        "models",
-        "months",
-        "red",
-        "replicate",
-        "self",
-        "some",
-        "suggests"
-      ]
-    },
-    {
-      "at": "2026-10-13T01:31:30.434369+00:00",
       "handle": "News: India AI deeptech",
       "headline": "Sarvam in talks for $300 million funding at $3 billion valuation",
       "tier": 0,
@@ -7430,6 +7407,29 @@
         "videos",
         "welfare"
       ]
+    },
+    {
+      "at": "2026-10-19T16:16:14.436777+00:00",
+      "handle": "Google Cloud",
+      "headline": "Cognizant and Google Cloud expand partnership to accelerate agentic AI",
+      "tier": 1,
+      "url": "https://www.googlecloudpresscorner.com/2026-10-19-Cognizant-and-Google-Cloud-Expand-Alliance-to-Accelerate-Agentic-Enterprise-Transformation",
+      "words": [
+        "000",
+        "accelerate",
+        "agentic",
+        "alliance",
+        "article",
+        "capability",
+        "cloud",
+        "cognizant",
+        "dedicating",
+        "engineers",
+        "enterprise",
+        "establishes",
+        "expand",
+        "frontier"
+      ]
     }
   ],
   "bureau": {
@@ -12478,9 +12478,32 @@
           "ministry",
           "ndb"
         ]
+      },
+      {
+        "at": "2026-10-19T16:18:38.579041+00:00",
+        "handle": "Gazette Ministry of Commerce and Industry",
+        "headline": "Commerce ministry fully denotifies 16 hectares of IT special economic zone in Pune",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277285.pdf",
+        "words": [
+          "commerce",
+          "extraordinary",
+          "gazette",
+          "industry",
+          "information",
+          "international",
+          "limited",
+          "ministry",
+          "notification",
+          "private",
+          "publication",
+          "respect",
+          "syntel",
+          "technolog"
+        ]
       }
     ],
-    "gazette_mark": 277284,
+    "gazette_mark": 277286,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -12904,7 +12927,9 @@
       "CG-TL-E-19102026-277278",
       "CG-DL-E-19102026-277282",
       "CG-DL-E-19102026-277283",
-      "CG-TL-E-19102026-277284"
+      "CG-TL-E-19102026-277284",
+      "CG-DL-E-19102026-277285",
+      "CG-DL-E-19102026-277286"
     ],
     "health": {
       "down": {
@@ -12912,7 +12937,7 @@
         "IMD": "2026-10-18T16:33:02.828141+00:00"
       }
     },
-    "last_run": "2026-10-19T16:04:55.269508+00:00",
+    "last_run": "2026-10-19T16:18:38.595211+00:00",
     "pib_mark": 2325288,
     "seen": [
       "pib:2320137",
@@ -14597,8 +14622,8 @@
       "gazette:CG-DL-E-17102026-277236",
       "gazette:CG-DL-E-17102026-277237",
       "gazette:CG-DL-E-17102026-277238",
-      "gazette:CG-OR-E-17102026-277246",
       "gazette:CG-TL-E-17102026-277244",
+      "gazette:CG-OR-E-17102026-277246",
       "gazette:CG-DL-E-17102026-277245",
       "gazette:CG-TL-E-17102026-277250",
       "gazette:CG-WB-E-17102026-277249",
@@ -15067,7 +15092,9 @@
       "gazette:CG-DL-E-19102026-277282",
       "pib:2325288",
       "gazette:CG-DL-E-19102026-277283",
-      "gazette:CG-TL-E-19102026-277284"
+      "gazette:CG-TL-E-19102026-277284",
+      "gazette:CG-DL-E-19102026-277285",
+      "gazette:CG-DL-E-19102026-277286"
     ],
     "source_failures": {
       "CCI": {
@@ -15132,12 +15159,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791893171481",
-    "1791819471956",
-    "1791825864887",
-    "1791861480807",
-    "1791862260426",
-    "1791867629408",
     "1791873856157",
     "1791877979780",
     "1791884070301",
@@ -19324,7 +19345,6 @@
     "1792398985114",
     "1792399575805",
     "1792399938981",
-    "1792404540185",
     "1792406216061",
     "1791298800436",
     "1792325383856",
@@ -19548,7 +19568,6 @@
     "1792386660441",
     "1792408643193",
     "1792414487223",
-    "1792416900121",
     "1792389637957",
     "1792397220816",
     "1792406453347",
@@ -19572,12 +19591,22 @@
     "1792378715884",
     "1792383791793",
     "1792386960814",
-    "1792405920561",
     "1792412447213",
     "1792412688572",
     "1792413720323",
     "1792414261405",
-    "1792419988643",
+    "1791460620291",
+    "1791849600884",
+    "1792022400425",
+    "1792379081999",
+    "1792399380242",
+    "1792405116677",
+    "1792411618548",
+    "1792415033801",
+    "1792415532028",
+    "1792415978263",
+    "1792419988713",
+    "1792424976441",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20629,7 +20658,6 @@
     "1791439200039",
     "1791444709443",
     "1791445746402",
-    "1791460620291",
     "1791460680349",
     "1791460740060",
     "1791460800150",
@@ -20686,7 +20714,6 @@
     "1791849600404",
     "1791849600656",
     "1791849600751",
-    "1791849600884",
     "1791863703259",
     "1791867631456",
     "1791868380716",
@@ -20760,7 +20787,6 @@
     "1792008000711",
     "1792011600719",
     "1792018860784",
-    "1792022400425",
     "1792022400459",
     "1792022400648",
     "1792025450282",
@@ -20850,7 +20876,6 @@
     "1792378078745",
     "1792378255038",
     "1792378387026",
-    "1792379081999",
     "1792381051237",
     "1792381532670",
     "1792382329713",
@@ -20911,7 +20936,6 @@
     "1792399218313",
     "1792399253718",
     "1792399268914",
-    "1792399380242",
     "1792399560570",
     "1792399575795",
     "1792399733072",
@@ -20927,15 +20951,16 @@
     "1792404186278",
     "1792404436369",
     "1792404517033",
+    "1792404540185",
     "1792404543871",
     "1792404720770",
     "1792404932955",
     "1792404943074",
     "1792405049190",
-    "1792405116677",
     "1792405617594",
     "1792405800553",
     "1792405825476",
+    "1792405920561",
     "1792405980371",
     "1792406083377",
     "1792406222452",
@@ -20974,7 +20999,6 @@
     "1792411500945",
     "1792411569004",
     "1792411580415",
-    "1792411618548",
     "1792412397147",
     "1792412447870",
     "1792412744147",
@@ -20994,18 +21018,17 @@
     "1792414840095",
     "1792414846074",
     "1792414876135",
-    "1792415033801",
     "1792415511666",
-    "1792415532028",
     "1792415532722",
     "1792415646089",
     "1792415835312",
     "1792415863448",
+    "1792415899105",
     "1792415899176",
-    "1792415978263",
     "1792416550061",
     "1792416720216",
     "1792416720577",
+    "1792416900121",
     "1792417697331",
     "1792417740015",
     "1792418111366",
@@ -21016,11 +21039,12 @@
     "1792419173898",
     "1792419302049",
     "1792419738706",
-    "1792419988713",
+    "1792419988643",
     "1792421172731",
     "1792421391079",
     "1792422031371",
     "1792422086752",
+    "1792422157794",
     "1792422240240",
     "1792422249739",
     "1792422441862",
@@ -21040,8 +21064,11 @@
     "1792424525857",
     "1792424580470",
     "1792424762901",
-    "1792424976441",
     "1792425240385",
+    "1792425600188",
+    "1792425600727",
+    "1792425989708",
+    "1792426081116",
     "1792430400524",
     "2317509",
     "2317615",
@@ -21134,7 +21161,7 @@
     "2325239"
   ],
   "last_digest_hour": "2026-10-19T21",
-  "last_success": "2026-10-19T16:01:52.402988+00:00",
+  "last_success": "2026-10-19T16:16:14.946119+00:00",
   "national": {
     "alerted": [
       {
@@ -28354,7 +28381,7 @@
         ]
       }
     ],
-    "gazette_mark": 277284,
+    "gazette_mark": 277286,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -29450,24 +29477,23 @@
       "CG-TL-E-19102026-277278",
       "CG-DL-E-19102026-277282",
       "CG-DL-E-19102026-277283",
-      "CG-TL-E-19102026-277284"
+      "CG-TL-E-19102026-277284",
+      "CG-DL-E-19102026-277285",
+      "CG-DL-E-19102026-277286"
     ],
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "CCI": "2026-10-18T16:32:24.562138+00:00",
         "IMD": "2026-10-18T16:32:24.562138+00:00",
-        "NPCI": "2026-10-19T16:03:16.012544+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-19T16:03:52.340471+00:00",
+    "last_run": "2026-10-19T16:17:55.291779+00:00",
     "pib_mark": 2325288,
     "seen": [
-      "cci-merger:C-2026/07/1440|Approved",
-      "cci-merger:C-2026/06/1436|Approved",
       "cci-pr:media-gallery|690",
       "cci-pr:media-gallery|689",
       "gazette:CG-MH-E-01102026-276666",
@@ -31930,11 +31956,13 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "gazette:CG-DL-E-17102026-277236",
       "gazette:CG-DL-E-17102026-277237",
+      "gazette:CG-DL-E-17102026-277238",
+      "gazette:CG-TL-E-17102026-277244",
+      "quake:usgs:us6000u3bc",
+      "quake:usgs:us6000u3c7",
       "npci:617",
       "npci:620",
-      "gazette:CG-DL-E-17102026-277238",
       "gazette:CG-OR-E-17102026-277246",
-      "gazette:CG-TL-E-17102026-277244",
       "gazette:CG-DL-E-17102026-277245",
       "gazette:CG-TL-E-17102026-277250",
       "gazette:CG-WB-E-17102026-277249",
@@ -32360,7 +32388,6 @@
       "pib:2325038",
       "pib:2325040",
       "pib:2325041",
-      "quake:usgs:us6000u3bc",
       "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-second-amendment-regulations-2026_105329.html",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-citizens-on-maha-navami",
       "page:https://www.pmindia.gov.in/en/news_updates/governor-of-assam-meets-pm",
@@ -32409,7 +32436,6 @@
       "pib:2325131",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
       "pib:2325144",
-      "quake:usgs:us6000u3c7",
       "gazette:CG-TL-E-19102026-277278",
       "mea:41891",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|01 OVERSTAYING IVORY COAST NATIONAL APPREHENDED AND SENT TO DETENTION CENTER BY THE TEAM OF PS BINDAPUR, DWARKA DISTRICT",
@@ -32465,7 +32491,9 @@
       "gazette:CG-DL-E-19102026-277282",
       "pib:2325288",
       "gazette:CG-DL-E-19102026-277283",
-      "gazette:CG-TL-E-19102026-277284"
+      "gazette:CG-TL-E-19102026-277284",
+      "gazette:CG-DL-E-19102026-277285",
+      "gazette:CG-DL-E-19102026-277286"
     ],
     "source_failures": {
       "CBI": {
@@ -32479,9 +32507,6 @@
       "IMD": {
         "count": 6,
         "until": "2026-10-19T17:02:52.608422+00:00"
-      },
-      "NPCI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -33689,7 +33714,7 @@
     "cognizant": 1791997287826,
     "flipkart": 1791551784486,
     "google": 1792411200752,
-    "google cloud": 1792411200602,
+    "google cloud": 1792425600727,
     "google deepmind": 1792080483451,
     "google india": 1792062000898,
     "hcltech": 1792419302049,
@@ -33702,8 +33727,8 @@
     "microsoft india": 1792378078745,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792423997259,
-    "news: consumer internet india": 1792419988713,
+    "news: big tech platforms": 1792426081116,
+    "news: consumer internet india": 1792422157794,
     "news: global ai": 1792425240385,
     "news: global chips": 1792424229955,
     "news: global it services": 1792406222452,
@@ -33743,7 +33768,9 @@
     "zoho": 1791992131559
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-10-19T16:15:57.081570+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -33761,17 +33788,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T16:01:52.827951+00:00",
+    "last_server_run": "2026-10-19T16:16:15.387058+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-19T14:02:41.155352+00:00",
+        "checked": "2026-10-19T16:17:00.518024+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-19T14:02:33.218226+00:00",
+        "checked": "2026-10-19T16:16:52.728966+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -33847,7 +33874,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-19T14:02:37.214712+00:00",
+        "checked": "2026-10-19T16:16:56.573820+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -33902,8 +33929,8 @@
       "last": {
         "calendar": "2026-10-19T13:02:34.654169+00:00",
         "ls_reports": "2026-10-19T14:32:22.539213+00:00",
-        "rs_committee_press": "2026-10-19T14:02:29.275686+00:00",
-        "rs_press": "2026-10-19T14:02:25.827423+00:00",
+        "rs_committee_press": "2026-10-19T16:16:48.838521+00:00",
+        "rs_press": "2026-10-19T16:16:45.883924+00:00",
         "rs_reports": "2026-10-19T14:32:26.414062+00:00",
         "rs_updates": "2026-10-19T14:32:27.905743+00:00"
       }
@@ -34436,6 +34463,8 @@
       "CG-DL-E-19102026-277281",
       "CG-DL-E-19102026-277282",
       "CG-DL-E-19102026-277283",
+      "CG-DL-E-19102026-277285",
+      "CG-DL-E-19102026-277286",
       "CG-DL-E-21092026-276330",
       "CG-DL-E-21092026-276332",
       "CG-DL-E-21092026-276333",
@@ -35349,7 +35378,8 @@
       "meeting:LS|22573",
       "bulletin:RS|2026-10-19|Bulletin Part-II",
       "gazette:CG-DL-E-19102026-277283|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-19102026-277283|MHA_FINANCE_MAIL_TO"
+      "gazette:CG-DL-E-19102026-277283|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-19102026-277286|MAIL_TO"
     ]
   },
   "x_test": {
@@ -36913,7 +36943,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T16:03:57.264169+00:00",
+    "last_run": "2026-10-19T16:17:58.301402+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
