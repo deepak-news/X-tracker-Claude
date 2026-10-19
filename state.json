@@ -11938,6 +11938,29 @@
           "secretary",
           "war"
         ]
+      },
+      {
+        "at": "2026-10-19T06:04:41.664321+00:00",
+        "handle": "PIB Ministry of Consumer Affairs, Food & Public Distribution",
+        "headline": "India to host International Committee of Legal Metrology meeting in New Delhi",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324997",
+        "words": [
+          "2026",
+          "61st",
+          "affairs",
+          "committee",
+          "consumer",
+          "delhi",
+          "distribution",
+          "first",
+          "food",
+          "host",
+          "international",
+          "legal",
+          "meeting",
+          "metrology"
+        ]
       }
     ],
     "gazette_mark": 277271,
@@ -12358,12 +12381,13 @@
       "down": {
         "CCI": "2026-10-18T16:33:02.828141+00:00",
         "IMD": "2026-10-18T16:33:02.828141+00:00",
+        "IRDAI": "2026-10-19T06:04:36.599183+00:00",
         "MHA": "2026-10-17T19:47:08.595488+00:00"
       },
       "warned": "2026-10-18T19:47:32.561212+00:00"
     },
-    "last_run": "2026-10-19T05:47:55.281227+00:00",
-    "pib_mark": 2324992,
+    "last_run": "2026-10-19T06:04:41.665687+00:00",
+    "pib_mark": 2324997,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14403,7 +14427,8 @@
       "pib:2324988",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63827",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63826",
-      "pib:2324992"
+      "pib:2324992",
+      "pib:2324997"
     ],
     "source_failures": {
       "CCI": {
@@ -14413,6 +14438,9 @@
       "IMD": {
         "count": 5,
         "until": "2026-10-19T11:03:34.151902+00:00"
+      },
+      "IRDAI": {
+        "count": 1
       },
       "MHA": {
         "count": 8,
@@ -14472,14 +14500,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791783598099",
-    "1791783823788",
-    "1791786544518",
-    "1791797043811",
-    "1791828540393",
-    "1791829531933",
-    "1791830482483",
-    "1791832378565",
     "1791860280120",
     "1791867638047",
     "1791867733455",
@@ -18939,7 +18959,6 @@
     "1792318075823",
     "1792319400652",
     "1792331760237",
-    "1792339117829",
     "1792350000720",
     "1792352586826",
     "1792355937512",
@@ -18962,33 +18981,26 @@
     "1792379081999",
     "1792381800254",
     "1792382158474",
-    "1792382659346",
     "1792385388857",
     "1792331518435",
-    "1792334700483",
     "1792335330007",
     "1792338370656",
-    "1792347480868",
     "1792355860654",
     "1792367994195",
     "1792373640827",
     "1792379982929",
-    "1792383745883",
-    "1791299912128",
-    "1791390013188",
-    "1791394150226",
-    "1791801168362",
-    "1791812789330",
-    "1791825466083",
-    "1791882000714",
-    "1791900811837",
-    "1791907932588",
-    "1791992131559",
-    "1792376708559",
     "1792381524931",
-    "1792383164444",
     "1792383878825",
     "1792384768975",
+    "1792317660183",
+    "1792335777570",
+    "1792341845091",
+    "1792380825724",
+    "1792382329713",
+    "1792382659748",
+    "1792383745064",
+    "1792386522798",
+    "1792386960814",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -19997,6 +20009,7 @@
     "1791288027050",
     "1791291619637",
     "1791298800436",
+    "1791299912128",
     "1791302400682",
     "1791302976175",
     "1791313289692",
@@ -20016,6 +20029,8 @@
     "1791382620585",
     "1791385200380",
     "1791385200988",
+    "1791390013188",
+    "1791394150226",
     "1791397002320",
     "1791398728206",
     "1791406918086",
@@ -20060,16 +20075,19 @@
     "1791790037727",
     "1791794750061",
     "1791795988530",
+    "1791801168362",
     "1791802303815",
     "1791806400458",
     "1791810000950",
     "1791810089770",
     "1791810262994",
+    "1791812789330",
     "1791813589085",
     "1791816412290",
     "1791817200538",
     "1791817225143",
     "1791824885756",
+    "1791825466083",
     "1791833520206",
     "1791844487553",
     "1791845149831",
@@ -20080,6 +20098,7 @@
     "1791868380716",
     "1791873138731",
     "1791873604613",
+    "1791882000714",
     "1791886189142",
     "1791891075350",
     "1791892800696",
@@ -20091,6 +20110,7 @@
     "1791896290345",
     "1791896356666",
     "1791900042779",
+    "1791900811837",
     "1791903195302",
     "1791903600603",
     "1791907146918",
@@ -20098,6 +20118,7 @@
     "1791907229552",
     "1791907312985",
     "1791907318055",
+    "1791907932588",
     "1791910800323",
     "1791910800422",
     "1791913470057",
@@ -20132,6 +20153,7 @@
     "1791984912437",
     "1791987877211",
     "1791990000872",
+    "1791992131559",
     "1791993395877",
     "1791993657325",
     "1791994200097",
@@ -20224,7 +20246,6 @@
     "1792316163582",
     "1792317366022",
     "1792317609377",
-    "1792317660183",
     "1792318330590",
     "1792319040427",
     "1792319357284",
@@ -20250,15 +20271,15 @@
     "1792331807404",
     "1792331995021",
     "1792332001826",
+    "1792334700483",
     "1792335600800",
     "1792335614543",
     "1792335763563",
-    "1792335777570",
     "1792337213402",
+    "1792339117829",
     "1792339273229",
     "1792340105849",
     "1792341420436",
-    "1792341845091",
     "1792342568661",
     "1792342583706",
     "1792342887814",
@@ -20270,6 +20291,7 @@
     "1792346773124",
     "1792346950894",
     "1792347345536",
+    "1792347480868",
     "1792353396069",
     "1792354070030",
     "1792355908467",
@@ -20300,6 +20322,7 @@
     "1792372901468",
     "1792373039552",
     "1792373088579",
+    "1792373433088",
     "1792373461835",
     "1792373581386",
     "1792373675423",
@@ -20313,6 +20336,7 @@
     "1792375970241",
     "1792376109862",
     "1792376561008",
+    "1792376708559",
     "1792376762010",
     "1792376775982",
     "1792376845477",
@@ -20339,8 +20363,8 @@
     "1792379982333",
     "1792380660039",
     "1792380737807",
-    "1792380825724",
     "1792380900126",
+    "1792381038724",
     "1792381051698",
     "1792381380351",
     "1792381524120",
@@ -20353,18 +20377,18 @@
     "1792382002878",
     "1792382060205",
     "1792382164814",
-    "1792382329713",
     "1792382400654",
     "1792382400756",
     "1792382572771",
     "1792382641211",
-    "1792382659748",
+    "1792382659346",
     "1792383153579",
     "1792383164366",
+    "1792383164444",
     "1792383306209",
     "1792383316949",
     "1792383706908",
-    "1792383745064",
+    "1792383745883",
     "1792383791591",
     "1792384179962",
     "1792384258450",
@@ -20376,16 +20400,20 @@
     "1792385700567",
     "1792385865498",
     "1792386383030",
-    "1792386522798",
+    "1792386399728",
     "1792386540048",
     "1792386693164",
-    "1792386960814",
     "1792387265387",
     "1792387329408",
     "1792387677669",
     "1792388014433",
     "1792388069566",
     "1792388214144",
+    "1792388536086",
+    "1792388685380",
+    "1792388865289",
+    "1792389038164",
+    "1792389271277",
     "2317509",
     "2317615",
     "2317714",
@@ -20474,7 +20502,7 @@
     "2324940"
   ],
   "last_digest_hour": "2026-10-19T11",
-  "last_success": "2026-10-19T05:46:09.165221+00:00",
+  "last_success": "2026-10-19T06:01:37.574253+00:00",
   "national": {
     "alerted": [
       {
@@ -28591,6 +28619,7 @@
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "CCI": "2026-10-18T16:32:24.562138+00:00",
         "IMD": "2026-10-18T16:32:24.562138+00:00",
+        "IRDAI": "2026-10-19T06:03:52.696564+00:00",
         "MHA": "2026-10-17T19:46:48.716156+00:00",
         "NPCI": "2026-10-18T17:17:45.689193+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
@@ -28598,10 +28627,9 @@
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-19T05:47:41.382078+00:00",
-    "pib_mark": 2324992,
+    "last_run": "2026-10-19T06:03:55.548049+00:00",
+    "pib_mark": 2324997,
     "seen": [
-      "pib:2317305",
       "pib:2317308",
       "pib:2317301",
       "pib:2317318",
@@ -31164,7 +31192,6 @@
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_4_Submission_LOC_17102026.pdf",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63816",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63817",
-      "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -31185,6 +31212,7 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
+      "page:https://www.cbse.gov.in/cbsenew/documents/Public Advisory.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Date_Sheet_Special_Examinations_09102026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_1_Following_accuracy_timeliness_LOC_2627_09102026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_1_Submission_LOC_14102026.pdf",
@@ -31600,7 +31628,8 @@
       "pib:2324987",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63827",
       "pib:2324992",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63826"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63826",
+      "pib:2324997"
     ],
     "source_failures": {
       "CBI": {
@@ -31615,13 +31644,16 @@
         "count": 5,
         "until": "2026-10-19T11:02:51.011327+00:00"
       },
+      "IRDAI": {
+        "count": 1
+      },
       "MHA": {
         "count": 8,
         "until": "2026-10-19T08:32:36.510053+00:00"
       },
       "NPCI": {
-        "count": 4,
-        "until": "2026-10-19T06:02:52.682497+00:00"
+        "count": 5,
+        "until": "2026-10-19T12:03:00.209564+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -31701,6 +31733,24 @@
       "queued_at": "2026-10-19T05:46:09.088459+00:00",
       "score": 7.0,
       "why": "Company quarterly or yearly results provide hard numbers for the IT and engineering beat."
+    },
+    {
+      "headline": "Replit chooses OpenAI over Anthropic as its primary AI provider",
+      "post": {
+        "created_at": "2026-10-19T05:47:45+00:00",
+        "handle": "News: Global AI",
+        "id": "1792388865289",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "India Today",
+        "reposts": 0,
+        "text": "Replit picks OpenAI over Anthropic as primary AI provider, says ChatGPT is better now",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ195dHNLcXc0NFNDYnAzc2s1QnhseGJpMGE5RDM1enl5TDNXX2NiZWtDVTQ0MnNWSkxqekdPVVdZS09zRTY2UGFXU1BTX3lIYVpNMmcweHhjeExHRzU5bnREOFluWHhGckRpZkYxVFdRX1hmZnNiLUhPNXFDM25JaVNpVXVkcF9mTXVLY0xTM2lLUEIxcE9WdkxISkpVaUtkVGlOV1RKX0FKOW1XWUhGZldSYU53U0hBd0R4ajR1X1ktc3FhRWQyOHFxZWM0M3JxLTZXZW1tcVVQYmZxaDZFeENYbTh5QdIB6wFBVV95cUxQOFV5U3N3TDVlWmJyS295U2IyeGQ2UzhJVk9KeFU1T0dFUHRKWnV2R1dKWjhucnQ1S0k0bHhFemVtck1NS1BiT2cwaUEwN05xV09QOWEwT0VTYTVOQ0tVQmtSVE5RSXhOckJiMVpDMlZJNXg1NHo3NFVZWkNpVlU0M2t2ZjRJZ1ExcmpmTmFLcWljSGMzeGtGdGJ1Q19sdnZibExhNU00LXJoSzg5UmtLNVY2ZF9WbmYzbzZoQ21uOTlzMTlpSnlvLTFtU1J3QklvelZVUWRyWW9MV0JabWtyWXBhb25venpmSkJ3?oc=5"
+      },
+      "queued_at": "2026-10-19T06:01:37.499668+00:00",
+      "score": 7.0,
+      "why": "This is a major platform shift by a prominent development platform choosing between leading AI labs."
     }
   ],
   "page_links": {
@@ -32789,17 +32839,17 @@
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
     "news: big tech platforms": 1792386540048,
-    "news: consumer internet india": 1792388069566,
-    "news: global ai": 1792387329408,
+    "news: consumer internet india": 1792388685380,
+    "news: global ai": 1792388865289,
     "news: global chips": 1792387677669,
     "news: global it services": 1792378255038,
-    "news: india ai deeptech": 1792381532670,
+    "news: india ai deeptech": 1792389271277,
     "news: india edtech gaming": 1792377646337,
-    "news: india fintech": 1792387265387,
+    "news: india fintech": 1792388536086,
     "news: india semiconductors": 1792368919018,
     "news: india tech policy": 1792378387026,
-    "news: india telecom": 1792384329947,
-    "news: indian it majors": 1792385506527,
+    "news: india telecom": 1792389038164,
+    "news: indian it majors": 1792386399728,
     "news: indian it midcaps": 1792388214144,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792384258450,
@@ -32832,8 +32882,7 @@
     "down": {
       "REG CCI": "2026-10-18T16:31:12.752350+00:00",
       "REG NPCI": "2026-10-18T17:16:01.796322+00:00",
-      "TRAI": "2026-10-18T16:31:12.752350+00:00",
-      "Zoho": "2026-10-19T05:46:03.823683+00:00"
+      "TRAI": "2026-10-18T16:31:12.752350+00:00"
     }
   },
   "watch": {
@@ -32856,7 +32905,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T05:46:09.594538+00:00",
+    "last_server_run": "2026-10-19T06:01:37.979887+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -32999,8 +33048,8 @@
         "ls_reports": "2026-10-19T05:46:39.643668+00:00",
         "rs_committee_press": "2026-10-18T14:32:08.357651+00:00",
         "rs_press": "2026-10-18T14:32:05.447479+00:00",
-        "rs_reports": "2026-10-19T03:46:39.799382+00:00",
-        "rs_updates": "2026-10-19T03:46:57.540156+00:00"
+        "rs_reports": "2026-10-19T06:02:09.845533+00:00",
+        "rs_updates": "2026-10-19T06:02:27.530728+00:00"
       }
     },
     "scanned": [
@@ -35677,7 +35726,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T05:47:45.797987+00:00",
+    "last_run": "2026-10-19T06:04:02.123197+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36785,7 +36834,13 @@
       "x:2112049855543808465",
       "x:2112053684146463113",
       "x:2112054888893218816",
-      "x:2112056732365295682"
+      "x:2112056732365295682",
+      "x:2112057405391733017",
+      "x:2112057641933611302",
+      "x:2112058684474114268",
+      "x:2112059494536773978",
+      "x:2112060685756858393",
+      "x:2112060956834701460"
     ],
     "source_failures": {},
     "sources": []
