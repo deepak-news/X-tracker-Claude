@@ -12364,7 +12364,7 @@
       },
       "warned": "2026-10-18T19:47:32.561212+00:00"
     },
-    "last_run": "2026-10-19T01:03:05.185925+00:00",
+    "last_run": "2026-10-19T01:17:36.123285+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2320137",
@@ -14462,11 +14462,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791802920016",
-    "1791781168654",
-    "1791826628954",
-    "1791828480089",
-    "1791777522214",
     "1791807420664",
     "1791807960408",
     "1791829296123",
@@ -18981,12 +18976,9 @@
     "1792337400771",
     "1792337802606",
     "1792283400527",
-    "1792295532802",
     "1792304280535",
     "1792306473936",
     "1792327278871",
-    "1792339010272",
-    "1792365911425",
     "1792284392066",
     "1792284586067",
     "1792296047174",
@@ -18997,6 +18989,8 @@
     "1792350697868",
     "1792369800079",
     "1792369800558",
+    "1792296066174",
+    "1792335169172",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20230,7 +20224,7 @@
     "1792291562812",
     "1792292289090",
     "1792293720990",
-    "1792296066174",
+    "1792295532802",
     "1792297438640",
     "1792297860877",
     "1792298317119",
@@ -20316,7 +20310,6 @@
     "1792334132528",
     "1792334621489",
     "1792334700483",
-    "1792335169172",
     "1792335330007",
     "1792335600800",
     "1792335614543",
@@ -20327,6 +20320,7 @@
     "1792338004797",
     "1792338370656",
     "1792338415200",
+    "1792339010272",
     "1792339117829",
     "1792339273229",
     "1792339481067",
@@ -20360,6 +20354,7 @@
     "1792364148163",
     "1792364778868",
     "1792365780544",
+    "1792365911425",
     "1792365911863",
     "1792366932624",
     "1792367207291",
@@ -20376,6 +20371,11 @@
     "1792370418557",
     "1792370461596",
     "1792371000005",
+    "1792371600191",
+    "1792371600632",
+    "1792371720983",
+    "1792371840450",
+    "1792371867457",
     "2317509",
     "2317615",
     "2317714",
@@ -20464,7 +20464,7 @@
     "2324940"
   ],
   "last_digest_hour": "2026-10-19T06",
-  "last_success": "2026-10-19T01:01:30.420223+00:00",
+  "last_success": "2026-10-19T01:16:05.453931+00:00",
   "national": {
     "alerted": [
       {
@@ -28588,7 +28588,7 @@
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-19T01:02:56.958067+00:00",
+    "last_run": "2026-10-19T01:17:28.268112+00:00",
     "pib_mark": 2324975,
     "seen": [
       "pib:2317224",
@@ -31673,7 +31673,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "New research explores AI model behavior under observation",
+      "post": {
+        "created_at": "2026-10-19T01:02:00+00:00",
+        "handle": "News: Global AI",
+        "id": "1792371720983",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BusinessLine",
+        "reposts": 0,
+        "text": "When an AI model knows it is being watched",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjVZSXhESFRKYURLTFByR3N6Tk1fSXJQUjVQZ2NvQkhLQ0hOSXUxUVJIUVNrRUZGTnlHSDZ2UHpNZmZiaXJsZkx1T3VLaXktb1FFeWVSdUVjVlJyZUFuX242Um1sdDI0cUJlODQtbHlhaE1DQXgwLXlYVXlQZWFOVmQ5LXJENWFBeGZScHFVQ0Z6MnQ3ckJHaDctV3kzUkVPVjhMUjZKSG53eXpoNkJaNGhLVdIBugFBVV95cUxNVjJ3R2VOUjk3QkNnX2k3b0dQM2dmOHFtRUxCWnRBeHNEem9NcDRHY0l5SWQ0bTVHbTM5WGZmLVhyUDhxTXFtWjVhRWRhdk1JZkp2emFsemJUM2p6aHJqY25NVEU3UExuX1pwRklIX1oyMzlJNHV6YlhtWVNkWWxncWlwTnF3cjNUY0FfQUZJdkx4Y1F4cTdCTmVDQUlHMWQzRlZhN0QzMTA4bG05c0NZemp0TUdUX3c3OUE?oc=5"
+      },
+      "queued_at": "2026-10-19T01:16:05.375705+00:00",
+      "score": 7.0,
+      "why": "Significant global AI research finding regarding model awareness and safety implications."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -32761,10 +32780,10 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1792367994195,
     "news: consumer internet india": 1792370115236,
-    "news: global ai": 1792370461596,
-    "news: global chips": 1792368860450,
+    "news: global ai": 1792371720983,
+    "news: global chips": 1792371867457,
     "news: global it services": 1792354070030,
-    "news: india ai deeptech": 1792323925301,
+    "news: india ai deeptech": 1792371840450,
     "news: india edtech gaming": 1792369804537,
     "news: india fintech": 1792345265895,
     "news: india semiconductors": 1792368000893,
@@ -32773,7 +32792,7 @@
     "news: indian it majors": 1792370418557,
     "news: indian it midcaps": 1792329855544,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1792305065360,
+    "news: tech leaders": 1792371600191,
     "nvidia": 1792270813883,
     "nvidia blog": 1792270813883,
     "openai": 1792177200590,
@@ -32826,7 +32845,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T01:01:30.675888+00:00",
+    "last_server_run": "2026-10-19T01:16:05.888857+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -35647,7 +35666,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T01:02:59.686246+00:00",
+    "last_run": "2026-10-19T01:17:30.617960+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36714,7 +36733,8 @@
       "x:2111887362179637406",
       "x:2111895699583558109",
       "x:2111901789746614503",
-      "x:2111905405660213497"
+      "x:2111905405660213497",
+      "x:2111985689516515660"
     ],
     "source_failures": {},
     "sources": []
