@@ -12379,8 +12379,8 @@
       },
       "warned": "2026-10-18T19:47:32.561212+00:00"
     },
-    "last_run": "2026-10-19T06:33:04.267780+00:00",
-    "pib_mark": 2324997,
+    "last_run": "2026-10-19T06:47:48.833883+00:00",
+    "pib_mark": 2325012,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14423,7 +14423,8 @@
       "pib:2324992",
       "pib:2324997",
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-announces-the-10-winners-of-its-online-human-rights-quiz-2026-organised-ahead-of-its-33rd-foundation-day-in-collaboration-with-mygov",
-      "site:Delhi Police|dp-notification:16/10/2026|ORDER US 163 BNSS BY ACP SHALIMAR BAGH DATED 16 OCTOBER 2026"
+      "site:Delhi Police|dp-notification:16/10/2026|ORDER US 163 BNSS BY ACP SHALIMAR BAGH DATED 16 OCTOBER 2026",
+      "pib:2325012"
     ],
     "source_failures": {
       "CCI": {
@@ -14487,7 +14488,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
@@ -28618,10 +28619,9 @@
       },
       "warned": "2026-10-18T21:17:21.757190+00:00"
     },
-    "last_run": "2026-10-19T06:32:54.523227+00:00",
-    "pib_mark": 2324997,
+    "last_run": "2026-10-19T06:47:35.823728+00:00",
+    "pib_mark": 2325012,
     "seen": [
-      "pib:2317318",
       "pib:2317322",
       "pib:2317327",
       "pib:2317336",
@@ -31620,7 +31620,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63826",
       "pib:2324997",
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-announces-the-10-winners-of-its-online-human-rights-quiz-2026-organised-ahead-of-its-33rd-foundation-day-in-collaboration-with-mygov",
-      "site:Delhi Police|dp-notification:16/10/2026|ORDER US 163 BNSS BY ACP SHALIMAR BAGH DATED 16 OCTOBER 2026"
+      "site:Delhi Police|dp-notification:16/10/2026|ORDER US 163 BNSS BY ACP SHALIMAR BAGH DATED 16 OCTOBER 2026",
+      "pib:2325012"
     ],
     "source_failures": {
       "CBI": {
@@ -32857,7 +32858,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T06:31:32.663747+00:00",
+    "last_server_run": "2026-10-19T06:46:07.359030+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-18T14:32:21.555280+00:00",
@@ -32986,7 +32987,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-10-19T00:46:14.909989+00:00",
+        "at": "2026-10-19T06:46:20.856438+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -32996,7 +32997,7 @@
         }
       },
       "last": {
-        "calendar": "2026-10-19T00:46:19.565891+00:00",
+        "calendar": "2026-10-19T06:46:23.899510+00:00",
         "ls_reports": "2026-10-19T05:46:39.643668+00:00",
         "rs_committee_press": "2026-10-18T14:32:08.357651+00:00",
         "rs_press": "2026-10-18T14:32:05.447479+00:00",
@@ -35678,7 +35679,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T06:32:57.442143+00:00",
+    "last_run": "2026-10-19T06:47:42.140548+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -36793,7 +36794,13 @@
       "x:2112059494536773978",
       "x:2112060685756858393",
       "x:2112060956834701460",
-      "x:2112064096833257797"
+      "x:2112064096833257797",
+      "x:2112067825171124389",
+      "x:2112068870441967622",
+      "x:2112069055662391638",
+      "x:2112069988634738854",
+      "x:2112070450172063878",
+      "x:2112070603176087656"
     ],
     "source_failures": {},
     "sources": []
