@@ -13058,9 +13058,11 @@
       "CG-UP-E-19102026-277293"
     ],
     "health": {
-      "down": {}
+      "down": {
+        "IRDAI": "2026-10-20T00:03:34.969979+00:00"
+      }
     },
-    "last_run": "2026-10-19T23:46:57.034708+00:00",
+    "last_run": "2026-10-20T00:03:36.186624+00:00",
     "pib_mark": 2325320,
     "seen": [
       "pib:2320137",
@@ -14786,6 +14788,7 @@
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
+      "watch:bulletin:LS|2026-10-19|Bulletin-II",
       "page:https://internal.imd.gov.in/press_release/20260920_pr_5328.pdf",
       "page:https://internal.imd.gov.in/press_release/20261005_pr_5381.pdf",
       "page:https://internal.imd.gov.in/press_release/20261003_pr_5373.pdf",
@@ -15194,7 +15197,6 @@
       "mea:41891",
       "mea:41890",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
-      "watch:bulletin:LS|2026-10-19|Bulletin-II",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
       "watch:meeting:LS|22572",
       "watch:meeting:LS|22573",
@@ -15245,7 +15247,11 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-kokila-on-winning-silver-in-womens-j2-52kg-judo-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-radha-venkatesh-on-winning-silver-in-womens-1500m-t12-13-at-asian-para-games-2026"
     ],
-    "source_failures": {},
+    "source_failures": {
+      "IRDAI": {
+        "count": 1
+      }
+    },
     "sources": [
       "CCI",
       "CERT-In",
@@ -15299,9 +15305,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791908460303",
-    "1791909873841",
-    "1791910744591",
     "1791855001621",
     "1791858480901",
     "1791868440812",
@@ -19742,12 +19745,14 @@
     "1792435128488",
     "1792447187889",
     "1792447922773",
-    "1792426700316",
     "1792428381501",
     "1792433889054",
     "1792449343055",
     "1792450397342",
-    "1792452137239",
+    "1791849600884",
+    "1792022400425",
+    "1792415519543",
+    "1792444260219",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20845,7 +20850,6 @@
     "1791849600404",
     "1791849600656",
     "1791849600751",
-    "1791849600884",
     "1791863703259",
     "1791867631456",
     "1791868380716",
@@ -20915,7 +20919,6 @@
     "1792008000711",
     "1792011600719",
     "1792018860784",
-    "1792022400425",
     "1792022400459",
     "1792022400648",
     "1792025450282",
@@ -21101,7 +21104,6 @@
     "1792414802125",
     "1792414840095",
     "1792414846074",
-    "1792415519543",
     "1792415532722",
     "1792415863448",
     "1792416720577",
@@ -21134,7 +21136,9 @@
     "1792425600727",
     "1792425600933",
     "1792425600938",
+    "1792425869474",
     "1792426212607",
+    "1792426700316",
     "1792426974410",
     "1792427473272",
     "1792427751077",
@@ -21192,7 +21196,6 @@
     "1792443283071",
     "1792443480713",
     "1792443960842",
-    "1792444260219",
     "1792444309621",
     "1792444662547",
     "1792444680748",
@@ -21207,8 +21210,11 @@
     "1792447775802",
     "1792448852310",
     "1792450397146",
+    "1792450500219",
     "1792450781889",
     "1792450785019",
+    "1792452137239",
+    "1792452607594",
     "1792453178240",
     "2317509",
     "2317615",
@@ -21301,7 +21307,7 @@
     "2325239"
   ],
   "last_digest_hour": "2026-10-20T05",
-  "last_success": "2026-10-19T23:46:03.585615+00:00",
+  "last_success": "2026-10-20T00:01:37.246009+00:00",
   "national": {
     "alerted": [
       {
@@ -29704,7 +29710,7 @@
       },
       "warned": "2026-10-19T21:32:28.205846+00:00"
     },
-    "last_run": "2026-10-19T23:46:44.018299+00:00",
+    "last_run": "2026-10-20T00:02:56.458998+00:00",
     "pib_mark": 2325320,
     "seen": [
       "pib:2317553",
@@ -33865,7 +33871,7 @@
     "microsoft india": 1792378078745,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792447922773,
+    "news: big tech platforms": 1792452607594,
     "news: consumer internet india": 1792437113626,
     "news: global ai": 1792453178240,
     "news: global chips": 1792450781889,
@@ -33906,7 +33912,9 @@
     "zoho": 1791992131559
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-10-20T00:01:32.003118+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -33924,7 +33932,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-19T23:46:03.879500+00:00",
+    "last_server_run": "2026-10-20T00:01:37.693155+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-19T23:02:18.759092+00:00",
@@ -37093,7 +37101,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-19T23:46:46.790970+00:00",
+    "last_run": "2026-10-20T00:02:59.072360+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
