@@ -2,41 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-13T11:31:27.358661+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio Platforms reportedly draws over $20 billion in IPO bids",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc25zVF9jN18wVVdMdVNwYklvUHRYV0FCYmpPdW9MN05ZeWNwSkszbHM2cXNZNm5meGhqOFI5ZXRTT0ZlUm1Xb01RNDZ3S2puNE5sWlFxTmNCWWhaMXEtRzh4VTFIbXB0dFh5ajdFLTVoLTA0eWhKVGRoWXk3eWV5b3JzRkx3R29hdGNSN2dJaHB5amZMUVpRTFpESXFTbUxodUpmeFAzR2tEbno0S1FnNW9ZOEg?oc=5",
-      "words": [
-        "bids",
-        "billion",
-        "draw",
-        "ipo",
-        "jio",
-        "more",
-        "platforms",
-        "than"
-      ]
-    },
-    {
-      "at": "2026-10-13T11:31:27.358661+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic warns of security risks from AI agents in smart homes",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOQ0lyMlBsSXB5b3lVUzFyWS1NMThocjZtWjNLUTg3TmV1QXMxSThrTUlKUVpfRGlaYzVuMEVHZEo2LUFFWHJVOGpyU0dsMHpTNkhQSjJNRThqYTduWFBfdUNyVHA3aU1oM0I4Zlg1NXotNkY1VkIteHpTTWo1Tzc1ZFQwM3VQcGx6S25oRTJOTkpRRDFsV2Jzcl9jRnk2dFEzQWlYWmxzRGdXZ2RpRWpQZjlaUTFXN1R2Mno1cGNoS0g3bVVQbjBXdGZqWktCSVEtN1lEa0FOZ0JzeFNSMEZSSXBsaVdpRjdWNXcweWVsUWt4UDBCTkU3LTZPcGRCWXR0YXpPMjlYLWwyU3pUckZXbENHZ2diaDAxNVRNaUdhZnh5a01uNGRzS1h6cXpNc3k5NHhZSGJ1VWxyTm5rbEpRU3hUQVBxMkdQMGU4YTRR0gHTAkFVX3lxTE1KNjZjQ1RwTm9sckEyM000R0paTTZGeXhNd2txYVU3WTAxcTJaQ0NUWkNOTE8tTHd6Nl9SU2pONVA5X1ZfYXVoWkhQZUhUOWVUc0lrRmlhRUhiQWFkTDZSYkhzOTNnWVJyNFZONDNKV0pGTVgwVnFaZkxFN0toTDRYemoxMFZqNEVvY2l3T2Nhb2tEQXFCU0NIRkoxc2p5UE9mRDlERGJqYlNiVlpVV05yN2NGV1dQSXJSc2Y4OEttcXdfN09JX1ZXNG1UUFc3T3haVVFiT3lZQUlJQnIwdnBNemVFdXhLZmtBd2lPZjJqczRRZFA4M0U1TnBaanlkN0tSRVdCUS1fRVNFeWNTTDh4NUQwRzNqS00tc2I2SUxhVlB6dFRYdmY4RW5hUENLRW13RXFrLUxQclZKSDZrUFhITkxEbDVrQ3RURVZpanpwNE5OWQ?oc=5",
-      "words": [
-        "agents",
-        "another",
-        "anthropic",
-        "difficult",
-        "homes",
-        "our",
-        "sends",
-        "time",
-        "warning"
-      ]
-    },
-    {
-      "at": "2026-10-13T11:31:27.358661+00:00",
       "handle": "News: India semiconductors",
       "headline": "Tata Sons Chairman Chandrasekaran hails India's semiconductor supply chain potential",
       "tier": 0,
@@ -7454,6 +7419,42 @@
         "shift",
         "training"
       ]
+    },
+    {
+      "at": "2026-10-20T06:31:21.198920+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "IndiaAI Mission awards Rs 1,058 cr in compute subsidy to model builders",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUFQWEZEU1lqajlyaVBWczlZWW13SzJpQWVXQ21jcGExWVZSSjZHRW9RTXc0UUtObUhDWWdXMUpFTTJGQ2JlMkpUOW4zaDNVb0FrNW0xaGVGb3ZzLTd4V20yMFdxNFFPd0NIT0Fja3BYWGhHbENvNDZEYUVaalZudlFDaVg2Q2ZIOUpJQjZJT2REVGpwS3JWQnFhTWdKbWc3MW1VNFhvSU9KaG1ReFVNTXFHblVXSHJjek8xcjhfQUp3Y3lMU08yNzI3cUHSAdIBQVVfeXFMTlk0LW5UbmRIMkM1Z05vRFJ2Yk9yZkIxRTVRSktsS3Z5bW11RlZiMkhlZnZRSE9SMFNNV0xSZ2VFTjVkVmNoV3diVlVNWXprMXJTME95bVB5ZWlweE0yN1MzQUNhQUx6cUZSZWV3dWlzQ2dYNEdiWU1IZlp0QTVIakhuejFPZnZEeEJBYnhNckx5bDRZU2FuZ0tFbElYZV9zWVVuZlA2bVdIdlB1TE5DcmhQTDh4TE5aNUlsdS1Dbnd0eFZJeDNXRkFhY2tnMXN5T3Z3?oc=5",
+      "words": [
+        "058",
+        "builders",
+        "compute",
+        "get",
+        "govt",
+        "indiaai",
+        "mission",
+        "model",
+        "only",
+        "researchers",
+        "subsidy"
+      ]
+    },
+    {
+      "at": "2026-10-20T06:31:21.198920+00:00",
+      "handle": "News: India telecom",
+      "headline": "HFCL doubles FY27 revenue growth target following strong Q2 results",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVh1ZzhmUVNaRjFOS3FESldhUWNyR3pmamZPZFVHbk8yNE5KdmJLZG1DMXJUSnM1X20wR2ZNcEhoWUI5VWV6MjR1Zm5uT3diV3dCVlNvampZa3ZXUW9JdXhGRXJhUWZEX2txNEFjY2JvdjFoQ0laak42dGdTeTM4X3F4WUJaZG5QdGp6YmYtdDdHcHVHYkd2dnJfRkVIM1E30gGoAUFVX3lxTFBFY21lWUxiRW1Ebm1VLWN3Z2dCUU90RDVKdGdtYTJjaDJYUG9EWExmenlramRfeUJnbE92dElqbThncjRDQTE1c082dXpqSWtzb3k3RXdjTU5PWnNKX0xjWVA3d2s3aEFVdXhmNlN1SlJZRDZCRzJRc2NHUWlQcnI4cDhFQTFKVENyaWtEOUNTbnZQc3BWT3JNR1dRYUxweWRsZWF6OERrZg?oc=5",
+      "words": [
+        "doubles",
+        "fy27",
+        "growth",
+        "hfcl",
+        "revenue",
+        "strong",
+        "target"
+      ]
     }
   ],
   "bureau": {
@@ -13078,10 +13079,12 @@
       "CG-UP-E-19102026-277293"
     ],
     "health": {
-      "down": {}
+      "down": {
+        "IRDAI": "2026-10-20T06:32:55.732452+00:00"
+      }
     },
-    "last_run": "2026-10-20T06:17:01.828810+00:00",
-    "pib_mark": 2325381,
+    "last_run": "2026-10-20T06:32:59.204250+00:00",
+    "pib_mark": 2325389,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14799,6 +14802,26 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-avani-lekhara-on-winning-silver-in-womens-10m-air-rifle-standing-sh1-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-asian-para-games-record",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168622",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
+      "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A4+%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88%28%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%B8%E0%A5%80%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE+%E0%A4%94%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3+%E0%A4%A8%E0%A4%BF%E0%A4%A7%E0%A4%BF%29%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2026+%E0%A4%B8%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%BF%E0%A4%A4+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%A8%E0%A5%80_Press+Release+on+Consultation+Paper-Exposure+Draft+on+proposed+IRDAI+%28POLICYHOLDERS%E2%80%99+EDUCATION+AND+PROTECTION+FUND%29REGULATIONS%2C+2026.pdf/13013bdd-2ea0-f9f0-0a20-715168986bd6",
+      "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8+%E0%A4%B0%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%9F+%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%A8%E0%A5%88%E0%A4%82%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%B2+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%9C%E0%A4%BC+%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A5%87%E0%A4%9F+%E0%A4%B2%E0%A4%BF+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Order+in+the+matter+of+Nissan+Renault+Financial+Services+India+Pvt+Ltd.pdf/c343b66f-18c5-d5aa-99bf-d959030323c8",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A4%B0%E0%A4%BE+%E0%A4%8F%E0%A4%9A%E0%A4%8F%E0%A4%B8%E0%A4%AC%E0%A5%80%E0%A4%B8%E0%A5%80+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+10.09.2026+_+Press+Release+-+Order+in+the+matter+of+Canara+HSBC+Life+Insurance+10.09.2026.pdf/b4a26c30-5ea7-061e-e8e5-9840db08c65d",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B8%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%28%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F+%E0%A4%8F%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%9F%29+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+IndusInd+Bank+Limited+%28Corporate+Agent%29.pdf/be033d50-6a09-7f0e-2e37-46b184959412",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AF%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%A8%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+%E0%A4%8F%E0%A4%A1%E0%A4%B2%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%B8+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82.+%E0%A4%B2%E0%A4%BF.+%E0%A4%94%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B2%E0%A4%BF.+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%8B%E0%A4%82+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6_Orders+in+the+matters+of+Edelweiss+Life+Insurance+Co.+Ltd+and+Pramerica+Life+Insurance+Ltd.+for+non-compliance+with+EoM+li.pdf/0663a590-e411-110e-1f8e-6dd2dd47a1eb",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+%E0%A4%86%E0%A4%88%E0%A4%8F%E0%A4%B8%E0%A5%80+%E0%A4%89%E0%A4%AA-%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A5%80+%E0%A4%A4%E0%A5%80%E0%A4%B8%E0%A4%B0%E0%A5%80+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+Release+-+3rd+Meeting+of+IAC+Sub-Committee+on+Health+Insurance.pdf/abe249c3-5d28-ef34-006d-e8c149a4c0e5",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%85%E0%A4%B8%E0%A4%AE+%E0%A4%95%E0%A5%87+%E0%A4%9A%E0%A4%BE%E0%A4%B0+%E0%A4%9C%E0%A4%BC%E0%A4%BF%E0%A4%B2%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%8B+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87+%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95+%E0%A4%86%E0%A4%AA%E0%A4%A6%E0%A4%BE+Press+Release+-+Natural+disaster+affecting+four+districts+of+Assam.pdf/d3bbec2d-443e-b211-6e93-92d79d70ac16",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%8B+%E0%A4%B8%E0%A5%81%E0%A4%95%E0%A4%B0+%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+_+IRDAI+facilitates+implementation+of+Ind+AS.pdf/6ce46d9c-d09c-d51d-8c1c-ec8f1a9695b9",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A8%E0%A5%87+%E0%A4%A8%E0%A4%8F+%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%85%E0%A4%B2%E0%A5%8B%E0%A4%A8+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE+%E0%A4%95%E0%A5%8B+%E0%A4%AA%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A4%BE%E0%A4%A8+%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+_+IRDAI+Grants+Registration+to+New+Standalone+Health+Insurer.pdf/8dd9c65a-70c4-314b-17be-7ce59d7b0e0e",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AF%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%A8%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8+%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+_+Press+Release-+Non+Compliance+with+Expenses+of+Management+limits.pdf/6300d74c-666e-e82a-1eeb-3998b8128fb7",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
+      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
       "page:https://internal.imd.gov.in/press_release/20260920_pr_5328.pdf",
       "page:https://internal.imd.gov.in/press_release/20261005_pr_5381.pdf",
       "page:https://internal.imd.gov.in/press_release/20261003_pr_5373.pdf",
@@ -14889,26 +14912,6 @@
       "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
-      "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A4+%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88%28%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%B8%E0%A5%80%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%95%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE+%E0%A4%94%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3+%E0%A4%A8%E0%A4%BF%E0%A4%A7%E0%A4%BF%29%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%2C+2026+%E0%A4%B8%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%BF%E0%A4%A4+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%A8%E0%A5%80_Press+Release+on+Consultation+Paper-Exposure+Draft+on+proposed+IRDAI+%28POLICYHOLDERS%E2%80%99+EDUCATION+AND+PROTECTION+FUND%29REGULATIONS%2C+2026.pdf/13013bdd-2ea0-f9f0-0a20-715168986bd6",
-      "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8+%E0%A4%B0%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%9F+%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%A8%E0%A5%88%E0%A4%82%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%B2+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%9C%E0%A4%BC+%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A5%87%E0%A4%9F+%E0%A4%B2%E0%A4%BF+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Order+in+the+matter+of+Nissan+Renault+Financial+Services+India+Pvt+Ltd.pdf/c343b66f-18c5-d5aa-99bf-d959030323c8",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A4%B0%E0%A4%BE+%E0%A4%8F%E0%A4%9A%E0%A4%8F%E0%A4%B8%E0%A4%AC%E0%A5%80%E0%A4%B8%E0%A5%80+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+10.09.2026+_+Press+Release+-+Order+in+the+matter+of+Canara+HSBC+Life+Insurance+10.09.2026.pdf/b4a26c30-5ea7-061e-e8e5-9840db08c65d",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B8%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%28%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F+%E0%A4%8F%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%9F%29+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+IndusInd+Bank+Limited+%28Corporate+Agent%29.pdf/be033d50-6a09-7f0e-2e37-46b184959412",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AF%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%A8%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+%E0%A4%8F%E0%A4%A1%E0%A4%B2%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%B8+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82.+%E0%A4%B2%E0%A4%BF.+%E0%A4%94%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B2%E0%A4%BF.+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%8B%E0%A4%82+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6_Orders+in+the+matters+of+Edelweiss+Life+Insurance+Co.+Ltd+and+Pramerica+Life+Insurance+Ltd.+for+non-compliance+with+EoM+li.pdf/0663a590-e411-110e-1f8e-6dd2dd47a1eb",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+%E0%A4%86%E0%A4%88%E0%A4%8F%E0%A4%B8%E0%A5%80+%E0%A4%89%E0%A4%AA-%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A5%80+%E0%A4%A4%E0%A5%80%E0%A4%B8%E0%A4%B0%E0%A5%80+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+Release+-+3rd+Meeting+of+IAC+Sub-Committee+on+Health+Insurance.pdf/abe249c3-5d28-ef34-006d-e8c149a4c0e5",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%85%E0%A4%B8%E0%A4%AE+%E0%A4%95%E0%A5%87+%E0%A4%9A%E0%A4%BE%E0%A4%B0+%E0%A4%9C%E0%A4%BC%E0%A4%BF%E0%A4%B2%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%8B+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87+%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%95+%E0%A4%86%E0%A4%AA%E0%A4%A6%E0%A4%BE+Press+Release+-+Natural+disaster+affecting+four+districts+of+Assam.pdf/d3bbec2d-443e-b211-6e93-92d79d70ac16",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%8B+%E0%A4%B8%E0%A5%81%E0%A4%95%E0%A4%B0+%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+_+IRDAI+facilitates+implementation+of+Ind+AS.pdf/6ce46d9c-d09c-d51d-8c1c-ec8f1a9695b9",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A8%E0%A5%87+%E0%A4%A8%E0%A4%8F+%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%85%E0%A4%B2%E0%A5%8B%E0%A4%A8+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE+%E0%A4%95%E0%A5%8B+%E0%A4%AA%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A4%BE%E0%A4%A8+%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+_+IRDAI+Grants+Registration+to+New+Standalone+Health+Insurer.pdf/8dd9c65a-70c4-314b-17be-7ce59d7b0e0e",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AF%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%A8%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8+%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+_+Press+Release-+Non+Compliance+with+Expenses+of+Management+limits.pdf/6300d74c-666e-e82a-1eeb-3998b8128fb7",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
       "cci-pr:media-gallery|699",
       "cci-merger:C-2026/08/1454|Approved",
       "cci-pr:media-gallery|701",
@@ -15274,9 +15277,14 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168623",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168628",
       "pib:2325359",
-      "pib:2325381"
+      "pib:2325381",
+      "pib:2325389"
     ],
-    "source_failures": {},
+    "source_failures": {
+      "IRDAI": {
+        "count": 1
+      }
+    },
     "sources": [
       "CCI",
       "CERT-In",
@@ -15330,10 +15338,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791917760626",
-    "1791928860743",
-    "1791929340382",
-    "1791849600267",
     "1791849600962",
     "1791867956254",
     "1791896400001",
@@ -19704,7 +19708,6 @@
     "1792390554399",
     "1792399627637",
     "1792434201495",
-    "1792465081700",
     "1792386960814",
     "1792387020936",
     "1792405980956",
@@ -19741,7 +19744,6 @@
     "1792388187144",
     "1792397418333",
     "1792398572393",
-    "1792405980371",
     "1792467736953",
     "1792061468476",
     "1792389271277",
@@ -19755,7 +19757,6 @@
     "1792462108100",
     "1792463532568",
     "1792465200103",
-    "1792470075417",
     "1792470466701",
     "1792474208326",
     "1792390226194",
@@ -19765,7 +19766,6 @@
     "1792393554982",
     "1792395718374",
     "1792405980401",
-    "1792408643347",
     "1792410316132",
     "1792422802619",
     "1792424400406",
@@ -19774,11 +19774,19 @@
     "1792463051737",
     "1792467736125",
     "1792468800802",
-    "1792469574686",
     "1792470775543",
     "1792471759279",
     "1792471866957",
     "1792472318828",
+    "1791849600884",
+    "1792022400425",
+    "1792408643193",
+    "1792445495221",
+    "1792465081741",
+    "1792467184113",
+    "1792469151199",
+    "1792472385019",
+    "1792475912645",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20872,7 +20880,6 @@
     "1791849600404",
     "1791849600656",
     "1791849600751",
-    "1791849600884",
     "1791863703259",
     "1791867631456",
     "1791868380716",
@@ -20942,7 +20949,6 @@
     "1792008000711",
     "1792011600719",
     "1792018860784",
-    "1792022400425",
     "1792022400459",
     "1792022400648",
     "1792025450282",
@@ -21055,6 +21061,7 @@
     "1792405800553",
     "1792405825476",
     "1792405920877",
+    "1792405980371",
     "1792406083377",
     "1792406222452",
     "1792406580088",
@@ -21064,7 +21071,7 @@
     "1792407150967",
     "1792407410569",
     "1792407600650",
-    "1792408643193",
+    "1792408643347",
     "1792409373192",
     "1792409400463",
     "1792410292851",
@@ -21162,7 +21169,6 @@
     "1792444309621",
     "1792444350286",
     "1792444680748",
-    "1792445495221",
     "1792447218972",
     "1792447775802",
     "1792448852310",
@@ -21197,11 +21203,10 @@
     "1792464240037",
     "1792464288532",
     "1792464378273",
-    "1792465081741",
+    "1792465081700",
     "1792465200706",
     "1792465583814",
     "1792467062758",
-    "1792467184113",
     "1792467369012",
     "1792467600028",
     "1792468080170",
@@ -21213,9 +21218,10 @@
     "1792468980340",
     "1792469058018",
     "1792469076315",
-    "1792469151199",
+    "1792469574686",
     "1792469698677",
     "1792469940506",
+    "1792470075417",
     "1792470151112",
     "1792470269198",
     "1792470600120",
@@ -21225,7 +21231,6 @@
     "1792471835969",
     "1792471866148",
     "1792471980065",
-    "1792472385019",
     "1792472400592",
     "1792473571530",
     "1792473622423",
@@ -21235,10 +21240,13 @@
     "1792474212778",
     "1792474747392",
     "1792475252809",
+    "1792475327019",
     "1792475520849",
     "1792475782378",
-    "1792475912645",
+    "1792475912299",
     "1792476030262",
+    "1792477025184",
+    "1792477388666",
     "1792483200491",
     "1792483231693",
     "2317509",
@@ -21331,8 +21339,8 @@
     "2325103",
     "2325239"
   ],
-  "last_digest_hour": "2026-10-20T11",
-  "last_success": "2026-10-20T06:16:02.034287+00:00",
+  "last_digest_hour": "2026-10-20T12",
+  "last_success": "2026-10-20T06:31:21.271523+00:00",
   "national": {
     "alerted": [
       {
@@ -29768,16 +29776,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-10-19T17:47:21.219157+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-19T21:32:28.205846+00:00"
     },
-    "last_run": "2026-10-20T06:16:47.269393+00:00",
-    "pib_mark": 2325381,
+    "last_run": "2026-10-20T06:32:14.411517+00:00",
+    "pib_mark": 2325389,
     "seen": [
-      "pib:2317637",
       "pib:2317644",
       "pib:2317642",
       "pib:2317650",
@@ -32149,8 +32155,6 @@
       "gazette:CG-RJ-E-19102026-277273",
       "gazette:CG-DL-E-19102026-277276",
       "gazette:CG-WB-E-19102026-277275",
-      "npci:617",
-      "npci:620",
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-announces-the-10-winners-of-its-online-human-rights-quiz-2026-organised-ahead-of-its-33rd-foundation-day-in-collaboration-with-mygov",
       "site:Delhi Police|dp-notification:16/10/2026|ORDER US 163 BNSS BY ACP SHALIMAR BAGH DATED 16 OCTOBER 2026",
       "dgft-notification:87f5c021-25d2-41ce-98dd-d70d9514c4ce",
@@ -32237,6 +32241,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-avani-lekhara-on-winning-silver-in-womens-10m-air-rifle-standing-sh1-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-asian-para-games-record",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168622",
+      "npci:617",
+      "npci:620",
       "quake:usgs:us6000u3ge",
       "quake:usgs:us6000u3ga",
       "quake:usgs:us6000u3j5",
@@ -32776,16 +32782,13 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168628",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168623",
       "pib:2325359",
-      "pib:2325381"
+      "pib:2325381",
+      "pib:2325389"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 4,
-        "until": "2026-10-20T06:31:48.182288+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -32847,44 +32850,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "IndiaAI Mission awards Rs 1,058 cr in compute subsidy to model builders",
-      "post": {
-        "created_at": "2026-10-20T05:20:22+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1792473622423",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ThePrint",
-        "reposts": 0,
-        "text": "IndiaAI Mission: 9 model builders get Rs 1,058 cr of govt\u2019s compute subsidy, researchers only Rs 10 cr",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUFQWEZEU1lqajlyaVBWczlZWW13SzJpQWVXQ21jcGExWVZSSjZHRW9RTXc0UUtObUhDWWdXMUpFTTJGQ2JlMkpUOW4zaDNVb0FrNW0xaGVGb3ZzLTd4V20yMFdxNFFPd0NIT0Fja3BYWGhHbENvNDZEYUVaalZudlFDaVg2Q2ZIOUpJQjZJT2REVGpwS3JWQnFhTWdKbWc3MW1VNFhvSU9KaG1ReFVNTXFHblVXSHJjek8xcjhfQUp3Y3lMU08yNzI3cUHSAdIBQVVfeXFMTlk0LW5UbmRIMkM1Z05vRFJ2Yk9yZkIxRTVRSktsS3Z5bW11RlZiMkhlZnZRSE9SMFNNV0xSZ2VFTjVkVmNoV3diVlVNWXprMXJTME95bVB5ZWlweE0yN1MzQUNhQUx6cUZSZWV3dWlzQ2dYNEdiWU1IZlp0QTVIakhuejFPZnZEeEJBYnhNckx5bDRZU2FuZ0tFbElYZV9zWVVuZlA2bVdIdlB1TE5DcmhQTDh4TE5aNUlsdS1Dbnd0eFZJeDNXRkFhY2tnMXN5T3Z3?oc=5"
-      },
-      "queued_at": "2026-10-20T06:01:30.243291+00:00",
-      "score": 9.0,
-      "why": "Major government funding deployment under the IndiaAI Mission."
-    },
-    {
-      "headline": "HFCL doubles FY27 revenue growth target following strong Q2 results",
-      "post": {
-        "created_at": "2026-10-20T05:47:32+00:00",
-        "handle": "News: India telecom",
-        "id": "1792475252809",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV Profit",
-        "reposts": 0,
-        "text": "HFCL Doubles FY27 Revenue Growth Target After Strong Q2",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVh1ZzhmUVNaRjFOS3FESldhUWNyR3pmamZPZFVHbk8yNE5KdmJLZG1DMXJUSnM1X20wR2ZNcEhoWUI5VWV6MjR1Zm5uT3diV3dCVlNvampZa3ZXUW9JdXhGRXJhUWZEX2txNEFjY2JvdjFoQ0laak42dGdTeTM4X3F4WUJaZG5QdGp6YmYtdDdHcHVHYkd2dnJfRkVIM1E30gGoAUFVX3lxTFBFY21lWUxiRW1Ebm1VLWN3Z2dCUU90RDVKdGdtYTJjaDJYUG9EWExmenlramRfeUJnbE92dElqbThncjRDQTE1c082dXpqSWtzb3k3RXdjTU5PWnNKX0xjWVA3d2s3aEFVdXhmNlN1SlJZRDZCRzJRc2NHUWlQcnI4cDhFQTFKVENyaWtEOUNTbnZQc3BWT3JNR1dRYUxweWRsZWF6OERrZg?oc=5"
-      },
-      "queued_at": "2026-10-20T06:01:30.243291+00:00",
-      "score": 8.0,
-      "why": "Major financial guidance update from a key telecom and tech hardware firm."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -33974,8 +33940,8 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1792475912645,
     "news: consumer internet india": 1792476030262,
-    "news: global ai": 1792475520849,
-    "news: global chips": 1792471759279,
+    "news: global ai": 1792477025184,
+    "news: global chips": 1792477388666,
     "news: global it services": 1792443480713,
     "news: india ai deeptech": 1792473622423,
     "news: india edtech gaming": 1792377646337,
@@ -34013,7 +33979,9 @@
     "zoho": 1791992131559
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-10-20T06:31:14.934192+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -34031,7 +33999,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-20T06:16:02.375598+00:00",
+    "last_server_run": "2026-10-20T06:31:21.730066+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-20T05:47:03.608014+00:00",
@@ -37302,7 +37270,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-20T06:16:53.374918+00:00",
+    "last_run": "2026-10-20T06:32:21.064994+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -38650,7 +38618,28 @@
       "x:2112426193601593829",
       "x:2112426266704159128",
       "x:2112426355182981546",
-      "x:2112426437739532546"
+      "x:2112426437739532546",
+      "x:2112417745090556153",
+      "x:2112417975445971212",
+      "x:2112418060099629084",
+      "x:2112418180681674762",
+      "x:2112418583280259393",
+      "x:2112419001108418828",
+      "x:2112419113553596552",
+      "x:2112419236278829542",
+      "x:2112419392009162967",
+      "x:2112419511286796583",
+      "x:2112419636314767733",
+      "x:2112419761967808852",
+      "x:2112419832650203457",
+      "x:2112420024887689355",
+      "x:2112420135541907862",
+      "x:2112420309181878737",
+      "x:2112420745079050370",
+      "x:2112420807523901515",
+      "x:2112420931687850035",
+      "x:2112427343025246465",
+      "x:2112429029382922421"
     ],
     "source_failures": {},
     "sources": []
