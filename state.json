@@ -2,92 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-13T14:33:27.528020+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic and OpenAI face scrutiny over independent AI evaluations",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdXE3a04zS2VEbmg5Z2VnenJwU0hoaXZfbmJZWUpvVDFCMVAzRG9KN2w0YlZtV2JNV2lYR1JuNmhCZFdHZnU4XzM0R2dscERCOEJiWTFhT2hiVlFEWk9VZXg3ajV3NTRzdmVRakZYZFhvRE9fYThsWV9oTkFDNzd0V0hrQkhoaG90WVc5UkdacXNnOWJzRjNMaUpYWGxlTW5YaU9NOWVqdk5PU3VBVXctZ25WY0JJWlRtYTNCcjZUZ2ZWb2dyWG5kNWdqVlZFZ2RhbG1GdFBEQjN1Q0J2LS000gHfAUFVX3lxTE11cTdrTjNLZURuaDlnZWd6cnBTSGhpdl9uYllZSm9UMUIxUDNEb0o3bDRiVm1XYk1XaVhHUm42aEJkV0dmdThfMzRHZ2xwREI4QmJZMWFPaGJWUURaT1VleDdqNXc1NHN2ZVFqRlhkWG9ET19hOGxZX2hOQUM3N3RXSGtCSGhob3RZVzlSR1pxc2c5YnNGM0xpSlhYbGVNblhpT005ZWp2Tk9TdUFVdy1nblZjQklaVG1hM0JyNlRnZlZvZ3JYbmQ1Z2pWVkVnZGFsbUZ0UERCM3VDQnYtLTQ?oc=5",
-      "words": [
-        "anthropic",
-        "evaluations",
-        "face",
-        "independent",
-        "openai",
-        "scrutiny"
-      ]
-    },
-    {
-      "at": "2026-10-13T14:33:27.528020+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Infosys CEO sees AI hitting half of revenue, warns on infra",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZXVEVjZOQnJ5NURRMEw3Vmczb2FYRVc5MEJrdno3SjF0OGhLQjVZTGE0SGtSajZKN1AzQXZ1Z1VVbnZDcmlnbGt5Z2VZa3NVVzdJUzJsOTZBT2RyWHRSRUdkUG1vNFlaR1hDbmRFR1E0WHBnb1JKMnpLUEI4X2Y2R0Y4Mjl2MjY1cFN0czZWX0E0WVZESXBQaWYwNVYxU1Z0Z0pjU1Y1TTFPVVpwNk9BeGJMTzRLT2YyVkdRZV9hQm02MW5BeTJmRnVHTURrWmRTOEZObkFrQl9yblROZF9ySUh3R3dEMmxyTWZDWGFB0gHuAUFVX3lxTFBldURWNk5Ccnk1RFEwTDdWZzNvYVhFVzkwQmt2ejdKMXQ4aEtCNVlMYTRIa1JqNko3UDNBdnVnVVVudkNyaWdsa3lnZVlrc1VXN0lTMmw5NkFPZHJYdFJFR2RQbW80WVpHWENuZEVHUTRYcGdvUkoyektQQjhfZjZHRjgyOXYyNjVwU3RzNlZfQTRZVkRJcFBpZjA1VjFTVnRnSmNTVjVNMU9VWnA2T0F4YkxPNEtPZjJWR1FlX2FCbTYxbkF5MmZGdUdNRGtaZFM4Rk5uQWtCX3JuVE5kX3JJSHdHd0QybHJNZkNYYUE?oc=5",
-      "words": [
-        "account",
-        "backlash",
-        "ceo",
-        "could",
-        "extending",
-        "half",
-        "infosys",
-        "infra",
-        "revenue",
-        "warns",
-        "years"
-      ]
-    },
-    {
-      "at": "2026-10-13T14:33:27.528020+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic warns of self-replicating AI worms targeting smart gadgets",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaVhWUy1qRlZmMXA4QXhIdGpuc1FMQklIY2pGSFJPUGl4TVVpYkhfYzl5YnBRTzBBb2wwRkw2LWlWR296a0g3RUxTY2dCV0I1RXFLWHBsUHFiclFvNGRuc1ZLT2xQZnBGbGowcngtY0FNdjdtRVVLbkh6OEZyUnZIUW95TVNlQ1laT0ZrYTk4cFVKXzNHS0NhdllrSlNRWW5KRDN2UkRHQXQ0cGZ2NEV6Qk5HMENsZUUwMUZXMUFpTmFBQWlURlVibU9RMlhuRGNoY1o3RmxTLXXSAd4BQVVfeXFMT2h0UVJqNkMtU0lxcFBfZWNGaFhrb0UzSTNZR1hPalBjT1JhSU0xY0NuWW85Z054eDN6TDVoSGlpQk5yanN6S2gxTld2RUdwNlM1WE91aVRhMUd5S3pack8tQVF0V052R3Zfb0JEV0xGeU9rMDlzcW5rQVpnZW1udVRKelJEVmNkNFlsV045M1czUHA1NFcyLWVsMUFDZG5pM3V1NlNpdXNBYzQzVFJ2RnBOVkVTdm5sT3pfWHFoSWVYejM4WnpEZ0lGR2tpRE1jN0I4Q0MtQm9qUzNDYkZR?oc=5",
-      "words": [
-        "across",
-        "anthropic",
-        "gadgets",
-        "smart",
-        "spreading",
-        "warns",
-        "worms"
-      ]
-    },
-    {
-      "at": "2026-10-13T14:33:27.528020+00:00",
-      "handle": "News: India fintech",
-      "headline": "NPCI defers MDR on select UPI merchant transactions",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS3EyZTNZM2JHWTI0eWRDM284eWJkd21aVG10bkg5clltbk4wVUZSWGN1MGlvMVVJNTZST3NUWHRkSGp2X2FySEhjZzdJSDU3ek9DZmt2eTBvMjdPcGl4a1JKZ2ZHNHZYUlJZOVQ5Yy1IbzZRdHZELURfQV95cnJWeFR0Qk5kRG1JbHBHdHhpcVEtZlhGX05MU3BjSnZOLU1fMEQzNEl5UXBiRWljejFzWFFOSzg0NlMwZ3JzY0RtekVoLWRWQVRrZlNTcFV2TnJURGlGLWVR0gHbAUFVX3lxTE5zZE1rbWE4QUpxNWVYM293T1QyQTliSWRHMFdjNGw5S05IRXJxdnFWU3dLRjl0VkduTTdRU3ZlNi11Z0NCLW5wLVUxamJ6NXhXODgxbmowNXhyUmp4NVhSajlUcGl2UzhiblcwSF9ZbVdVTFRINVFCUUFpMXkwNEREdnFkYzZOTDZLNEZYeTFRNmxZb1ZBTDlYS2VGbG1SUDFtSm80WV9KMWYxcWJ1WjYtR0ZFMXVuSkxnbWR0c1JITG14SnRWT1B1dDZHSWVVVnoyRmRKZ0hmZ3dGYw?oc=5",
-      "words": [
-        "defers",
-        "diwali",
-        "mdr",
-        "merchant",
-        "npci",
-        "post",
-        "select",
-        "transactions",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-10-13T14:33:27.528020+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Sridhar Vembu says India cannot trust Elon Musk and Starlink",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUXFOc0RpSEZ0YnRrakF4QzhERTdtcXJGUEFaV3h2Q2tkYXo2X3MzcGtkZENuSlVrQVFUbVk4VEVVOFJOYlA1d2ZwWUNXWnlvelRrckt4a3hPY1RYcDdrdm80clJhdVBubnNNTU1iUzNaQ0JZZkVQUkg1a2lnUi1vbWNnVGlzcUM0ekdlZ3N3X2dBcHluUzZDclktaXlkU1F0aFp1dk9SeXRnckp0OEFKYUVpWkNjdzI3cGpaQkRpWkJCNVV6bDhZUnRYUDQ1UUdYU3ZIMkktdUR0bjFQMjZPcUhicGE0LV9Wb1g4adIB8gFBVV95cUxNNW1PdWJ0eUc0a20xeFl2cnRGdXlrWHFNMjV5TzVqaE5oYXFQMU1qdnZjUVY4YnNpTnVNaEZMeHJEZE1zaC1hWHBsdFN6YUpTSW5JWVQ3VDhDM1JIVWVFTkw0OEZteDVvdDNfa3huQ3Bvbnlyb01rRWxnVWxoQWZVYk5HQktfRGZGSnUzaFJISXgtYnJjNVlISUQ3cW9DYjI3TUZWSG1rdHJpb1hWSThkZ0pkTEt3MW5NUmJkeVNlampmM0RpcXAwMmdnbTZPcG9xR0lfTEp4YTFsaWY3VkNkc1B4YnNuZUt6dFpocjhsZVlIUQ?oc=5",
-      "words": [
-        "can",
-        "elon",
-        "musk",
-        "option",
-        "sridhar",
-        "starlink",
-        "trust",
-        "vembu"
-      ]
-    },
-    {
-      "at": "2026-10-13T14:33:27.528020+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Infosys CEO Salil Parekh sees strong AI demand with profitability",
       "tier": 0,
@@ -7437,6 +7351,94 @@
         "raise",
         "resolution"
       ]
+    },
+    {
+      "at": "2026-10-20T13:31:20.824498+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Sarvam plans major fundraise and HCLTech reports Q2 profit jump",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG1ITE05Vk92VVVQZHVBNUwxMXVuTmVTaE5PbnFhTWtxT2p0SDIzNXJXOTBFZDlmczBzU25JMkJ1cE1icndZdEJBYUg2UkxZWTJrM3ZwV3dOVTU2LUNxaHYxT01ncmdFR3FGWFZOa0JrcDlKTzF6RjZidVBnSkhiZjM3N0dxdEhPV1FhMmFmai1yd1N1UnpOSXVSWTcyaFZUWk93NnIzYU9GUUpiQUVIdzJ2UkxoSGp1NUpGS1NBNjRHazM1UEt4YlRfc2JDUFVDUjNneGxR0gHbAUFVX3lxTE5jUGZNaUhrZnFuNDdpbEpsbUZKbUFDM3VaQkRGYWJjM2JjN0hfYy0zcEp3VF9XZWhNWFBCeEtzRWZSVjJFdzZodXdjSnAzcHk4Sk0ta0lMSTlZTzVRcDJ5bldQQ09yekVxSzlTWXpHNDJkOUxENDIwdFhIS0gzUUVjak1SZmpjTXZfOEtKTDRMSHFCMkF0SHhERHVMZ1FLczNYc1lOUWNlUVJyUEU4N0NyTW1tTmQxMURVV01Oak5QWTdpZWlIdTZHR09INXB3WGxPZHRKa3VFNVhBTQ?oc=5",
+      "words": [
+        "big",
+        "fundraise",
+        "hcltech",
+        "jumps",
+        "plans",
+        "profit",
+        "sarvam"
+      ]
+    },
+    {
+      "at": "2026-10-20T13:31:20.824498+00:00",
+      "handle": "News: Global AI",
+      "headline": "Eka valued at $1.45B following physical AI model launch",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5",
+      "words": [
+        "45b",
+        "eka",
+        "experts",
+        "model",
+        "physical",
+        "raving",
+        "thanks",
+        "worth"
+      ]
+    },
+    {
+      "at": "2026-10-20T13:31:20.824498+00:00",
+      "handle": "News: Global AI",
+      "headline": "Ex-OpenAI executive builds $1.5B U.S. manufacturing AI startup",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2N6RnNWNDJZcjRxRFBHRFlITXVQSi11LXB3cjlZUURzeDhvMWF4czYwMno5UUdaSG5tLXVmNU0wUUFicDB4eHFfQi1JYm5QSEt3Umh5UmZ3SkJ4dnNPVUNob2UtSVBlcWowQXJWX1F1NzYwMXJPbVMxUDdFMmpjNHZzZEQya1p5b3NKaXlQajRIaUUtTmc1a2ttTFdEOEhxUWlwZDJSYjlfV29ZYWfSAbMBQVVfeXFMUEF5akpwN3FvZmh2OThfczI5THlMVUJhRXZMTFZ5eEdlWkRvQU84OVA0bkZYdUFoTi01SlB2cFk5Z2pzRk9mc0tXVDhIVGs5Z1gzY3NjMEJVVi1mNHhMU0tsSnBmZ1g1N1lZTmZyVG53bHN1QUVhcDQ2a3NjQmRZZnJSUl9udENoR05fYWRNYnJnOXptZlZob0FZbzBYVWtxNmU3aTF0SjN4MmI5Uk95VTlyYjg?oc=5",
+      "words": [
+        "betting",
+        "billion",
+        "built",
+        "can",
+        "exec",
+        "former",
+        "manufacturing",
+        "openai",
+        "quietly",
+        "revive",
+        "startup"
+      ]
+    },
+    {
+      "at": "2026-10-20T13:31:20.824498+00:00",
+      "handle": "News: Global AI",
+      "headline": "Former OpenAI employees raise capital for $1.5B defense startup",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWNKVTJOZjZPWGtuNHdCWlFYd3Z2dnlBNmtGajNjekZFeDlaUFJGNmR3RjhqV3dtXy1hWFdzSnpNTGRQWTY5ajh0bWkwel9DZktUNk5sNFU3VkFzUWR3d3lPZEZtR2o3OHlISlBNeURpMUdDXzZYNHdkMXZyYjZLYTBFeTdBZW9jNEVXc1JOUDQxYllzN0hHb3VHeDRCdDRJdTByTVZKQTVFSUEtZFU1OXhBOWNTTVlZRWRlZGJHdjE4UQ?oc=5",
+      "words": [
+        "capital",
+        "defense",
+        "employees",
+        "former",
+        "openai",
+        "raises",
+        "startup",
+        "top",
+        "valued"
+      ]
+    },
+    {
+      "at": "2026-10-20T13:31:20.824498+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft details security rules and least-privilege access for enterprise AI agents",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ3BPdmtBS3lXSWwzQ3ZDX2dUNHozVDRrRUUzcHRBUlU5SWdYTm1WVDlLemJCdTExS0pFMHIybmE3R0RGRlM1elY0ZFQ0bnJLc01lV0pVVDZuRlFURlBxWG9xcEh1QmZFaGJMY2IyWmRMMHdNN1lNMVNVdlVWcGpReEFCVV9wVVNjalZYblVEM0tkRVZLdkV1VWk3VG1KZGItTnk3QTVzc2pqaFN2S2l4aXVDaFdUb09kUzZmb0dmU0FQSGgyejRncTY1TXlGUDFQMDVqcWlrTG5pVTDSAeABQVVfeXFMTW9RV2VWN0JKMW5fVG95bnR1bk5qYnZpcE4tTHJtRkJnUl9tajFoUW9zZDRtZmpOUF9MRHRSVkRhd3VMZTJTM2p2WGlNYzFzcnEzTERFb0QxYmxZazVBR05rb3RQdWY0bHJPbU9qUWl2ajNaLXU5N2szZzdPSWZvb1ZsTGNEQ0RVR0oyZDRSckhLV21QbUhiVVFWa19weDkyU3hVX0pYUDNlRm4yM0V0XzFjVXVoc2ZfZDZkU3ptRmt6a0pUOTQwOVVwUHdnQlpIZm9pSlM3OTl0WXlUdW4wLTU?oc=5",
+      "words": [
+        "access",
+        "agents",
+        "least",
+        "limited",
+        "microsoft",
+        "must",
+        "network",
+        "privilege"
+      ]
     }
   ],
   "bureau": {
@@ -13155,8 +13157,8 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-20T13:17:10.254566+00:00",
-    "pib_mark": 2325494,
+    "last_run": "2026-10-20T13:33:27.266432+00:00",
+    "pib_mark": 2325498,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -15361,7 +15363,10 @@
       "mea:41892",
       "pib:2325463",
       "pib:2325493",
-      "pib:2325494"
+      "pib:2325494",
+      "pib:2325497",
+      "pib:2325496",
+      "pib:2325498"
     ],
     "source_failures": {},
     "sources": [
@@ -15417,18 +15422,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791943110995",
-    "1791946893825",
-    "1791948796439",
-    "1791948973700",
-    "1791952730864",
-    "1791955260722",
-    "1791955500203",
-    "1791955560773",
-    "1790130622802",
-    "1790175632981",
-    "1790586000398",
-    "1790593200811",
     "1791871356771",
     "1791872092390",
     "1791872465565",
@@ -19723,7 +19716,6 @@
     "1792400446059",
     "1792404932393",
     "1792465583814",
-    "1792478802736",
     "1792485633275",
     "1792402705378",
     "1792409232803",
@@ -19861,7 +19853,6 @@
     "1792415532028",
     "1792419173898",
     "1792432440015",
-    "1792441800998",
     "1792442032421",
     "1792444309621",
     "1792455977965",
@@ -19871,9 +19862,7 @@
     "1792463267547",
     "1792467057510",
     "1792474212693",
-    "1792477388666",
     "1792480166853",
-    "1792480276849",
     "1792481906863",
     "1792482702732",
     "1792485633683",
@@ -19881,6 +19870,14 @@
     "1792490940016",
     "1792494578230",
     "1792496509179",
+    "1792415863448",
+    "1792428637297",
+    "1792434505226",
+    "1792438852487",
+    "1792478034338",
+    "1792478802635",
+    "1792480276311",
+    "1792491240246",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -21122,8 +21119,8 @@
     "1792414802125",
     "1792414840095",
     "1792414846074",
-    "1792415863448",
     "1792416720577",
+    "1792417683643",
     "1792419302049",
     "1792419813427",
     "1792419988713",
@@ -21150,7 +21147,7 @@
     "1792428126553",
     "1792428292362",
     "1792428540928",
-    "1792428637297",
+    "1792428637701",
     "1792429200506",
     "1792430400524",
     "1792431201687",
@@ -21160,19 +21157,20 @@
     "1792433744931",
     "1792434180811",
     "1792434276094",
-    "1792434505226",
     "1792434724607",
     "1792435479903",
     "1792435842030",
     "1792437113626",
+    "1792437632447",
     "1792437846002",
     "1792438028571",
     "1792438200021",
-    "1792438852487",
+    "1792438852830",
     "1792440064051",
     "1792440564303",
     "1792440900848",
     "1792441800326",
+    "1792441800998",
     "1792441871457",
     "1792442492892",
     "1792443480713",
@@ -21231,16 +21229,17 @@
     "1792476020518",
     "1792476030805",
     "1792477025184",
+    "1792477388666",
     "1792477800912",
-    "1792478034338",
     "1792478372902",
     "1792478379252",
-    "1792478802635",
+    "1792478802736",
     "1792478996080",
     "1792479000112",
     "1792479153132",
     "1792479358837",
-    "1792480276311",
+    "1792479662292",
+    "1792480276849",
     "1792480800527",
     "1792481756871",
     "1792481906481",
@@ -21288,7 +21287,6 @@
     "1792490810941",
     "1792490820976",
     "1792491154325",
-    "1792491240246",
     "1792492080673",
     "1792492134695",
     "1792492523517",
@@ -21307,6 +21305,7 @@
     "1792495759113",
     "1792495936008",
     "1792496616951",
+    "1792496640510",
     "1792497600528",
     "1792497600561",
     "1792497602298",
@@ -21319,6 +21318,7 @@
     "1792499372170",
     "1792499468048",
     "1792499760016",
+    "1792499760246",
     "1792500728372",
     "1792500763289",
     "1792500864948",
@@ -21328,6 +21328,11 @@
     "1792501405996",
     "1792501465074",
     "1792501800991",
+    "1792502085314",
+    "1792502090286",
+    "1792502353397",
+    "1792502353981",
+    "1792502779898",
     "2317509",
     "2317615",
     "2317714",
@@ -21418,8 +21423,8 @@
     "2325103",
     "2325239"
   ],
-  "last_digest_hour": "2026-10-20T18",
-  "last_success": "2026-10-20T13:16:09.186286+00:00",
+  "last_digest_hour": "2026-10-20T19",
+  "last_success": "2026-10-20T13:31:20.896765+00:00",
   "national": {
     "alerted": [
       {
@@ -29883,12 +29888,9 @@
       },
       "warned": "2026-10-19T21:32:28.205846+00:00"
     },
-    "last_run": "2026-10-20T13:16:53.047779+00:00",
-    "pib_mark": 2325494,
+    "last_run": "2026-10-20T13:32:17.457600+00:00",
+    "pib_mark": 2325498,
     "seen": [
-      "pib:2317676",
-      "pib:2317657",
-      "pib:2317680",
       "pib:2317696",
       "pib:2317686",
       "pib:2317672",
@@ -32885,7 +32887,10 @@
       "mea:41893",
       "mea:41892",
       "pib:2325493",
-      "pib:2325494"
+      "pib:2325494",
+      "pib:2325497",
+      "pib:2325498",
+      "pib:2325496"
     ],
     "source_failures": {
       "CBI": {
@@ -32952,80 +32957,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Sarvam plans major fundraise and HCLTech reports Q2 profit jump",
-      "post": {
-        "created_at": "2026-10-20T12:31:08+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1792499468048",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Sarvam plans big fundraise; HCLTech's Q2 profit jumps",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG1ITE05Vk92VVVQZHVBNUwxMXVuTmVTaE5PbnFhTWtxT2p0SDIzNXJXOTBFZDlmczBzU25JMkJ1cE1icndZdEJBYUg2UkxZWTJrM3ZwV3dOVTU2LUNxaHYxT01ncmdFR3FGWFZOa0JrcDlKTzF6RjZidVBnSkhiZjM3N0dxdEhPV1FhMmFmai1yd1N1UnpOSXVSWTcyaFZUWk93NnIzYU9GUUpiQUVIdzJ2UkxoSGp1NUpGS1NBNjRHazM1UEt4YlRfc2JDUFVDUjNneGxR0gHbAUFVX3lxTE5jUGZNaUhrZnFuNDdpbEpsbUZKbUFDM3VaQkRGYWJjM2JjN0hfYy0zcEp3VF9XZWhNWFBCeEtzRWZSVjJFdzZodXdjSnAzcHk4Sk0ta0lMSTlZTzVRcDJ5bldQQ09yekVxSzlTWXpHNDJkOUxENDIwdFhIS0gzUUVjak1SZmpjTXZfOEtKTDRMSHFCMkF0SHhERHVMZ1FLczNYc1lOUWNlUVJyUEU4N0NyTW1tTmQxMURVV01Oak5QWTdpZWlIdTZHR09INXB3WGxPZHRKa3VFNVhBTQ?oc=5"
-      },
-      "queued_at": "2026-10-20T12:46:00.052581+00:00",
-      "score": 8.0,
-      "why": "Significant funding and earnings updates from key Indian tech players."
-    },
-    {
-      "headline": "Eka valued at $1.45B following physical AI model launch",
-      "post": {
-        "created_at": "2026-10-20T13:00:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1792501200282",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "TechCrunch",
-        "reposts": 0,
-        "text": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2RTNGFabk4zWi05dEYtdUY3TWNrZl9nMzVuVXozLXk4dDlzNTBoMkhONmZhMy1SUlhKVW1vVHdLQk1EOWJjcjMzdkVuRjVFQlY3WV95elo5cTBuZFZTQVdqdWhzeU9GZUdPMF9UZnFZWWp2Y0RIMEdRSDVTZ3NHRHAyWHFReEtaZXcycFNHblVjSy1CT0RLN2Y2dUlCTXl6RlNoVV9XcWhkUlNzU0dRUldqWEQ?oc=5"
-      },
-      "queued_at": "2026-10-20T13:16:09.107839+00:00",
-      "score": 7.0,
-      "why": "Valuation and significant physical AI model launch by a startup."
-    },
-    {
-      "headline": "Ex-OpenAI executive builds $1.5B U.S. manufacturing AI startup",
-      "post": {
-        "created_at": "2026-10-20T13:00:01+00:00",
-        "handle": "News: Global AI",
-        "id": "1792501201834",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC",
-        "reposts": 0,
-        "text": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2N6RnNWNDJZcjRxRFBHRFlITXVQSi11LXB3cjlZUURzeDhvMWF4czYwMno5UUdaSG5tLXVmNU0wUUFicDB4eHFfQi1JYm5QSEt3Umh5UmZ3SkJ4dnNPVUNob2UtSVBlcWowQXJWX1F1NzYwMXJPbVMxUDdFMmpjNHZzZEQya1p5b3NKaXlQajRIaUUtTmc1a2ttTFdEOEhxUWlwZDJSYjlfV29ZYWfSAbMBQVVfeXFMUEF5akpwN3FvZmh2OThfczI5THlMVUJhRXZMTFZ5eEdlWkRvQU84OVA0bkZYdUFoTi01SlB2cFk5Z2pzRk9mc0tXVDhIVGs5Z1gzY3NjMEJVVi1mNHhMU0tsSnBmZ1g1N1lZTmZyVG53bHN1QUVhcDQ2a3NjQmRZZnJSUl9udENoR05fYWRNYnJnOXptZlZob0FZbzBYVWtxNmU3aTF0SjN4MmI5Uk95VTlyYjg?oc=5"
-      },
-      "queued_at": "2026-10-20T13:16:09.107839+00:00",
-      "score": 7.0,
-      "why": "Major funding and founding round for an AI startup by prominent former executives."
-    },
-    {
-      "headline": "Former OpenAI employees raise capital for $1.5B defense startup",
-      "post": {
-        "created_at": "2026-10-20T13:02:44+00:00",
-        "handle": "News: Global AI",
-        "id": "1792501364335",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC",
-        "reposts": 0,
-        "text": "Former top OpenAI employees raises capital for defense startup valued at $1.5B",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWNKVTJOZjZPWGtuNHdCWlFYd3Z2dnlBNmtGajNjekZFeDlaUFJGNmR3RjhqV3dtXy1hWFdzSnpNTGRQWTY5ajh0bWkwel9DZktUNk5sNFU3VkFzUWR3d3lPZEZtR2o3OHlISlBNeURpMUdDXzZYNHdkMXZyYjZLYTBFeTdBZW9jNEVXc1JOUDQxYllzN0hHb3VHeDRCdDRJdTByTVZKQTVFSUEtZFU1OXhBOWNTTVlZRWRlZGJHdjE4UQ?oc=5"
-      },
-      "queued_at": "2026-10-20T13:16:09.107839+00:00",
-      "score": 7.0,
-      "why": "Major funding round for defense tech startup by ex-OpenAI figures."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -34049,7 +33981,7 @@
       "meeting:RS|2288",
       "meeting:RS|2294"
     ],
-    "sent_on": "2026-10-19"
+    "sent_on": "2026-10-20"
   },
   "seen": {
     "airtel": 1791353787219,
@@ -34113,21 +34045,21 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792501800991,
+    "news: big tech platforms": 1792502353397,
     "news: consumer internet india": 1792500763289,
     "news: global ai": 1792501405996,
-    "news: global chips": 1792500728372,
+    "news: global chips": 1792502353981,
     "news: global it services": 1792495502271,
     "news: india ai deeptech": 1792499468048,
     "news: india edtech gaming": 1792493632713,
     "news: india fintech": 1792480276849,
     "news: india semiconductors": 1792428540928,
     "news: india tech policy": 1792482191506,
-    "news: india telecom": 1792500864948,
+    "news: india telecom": 1792502085314,
     "news: indian it majors": 1792494025593,
-    "news: indian it midcaps": 1792493040545,
+    "news: indian it midcaps": 1792496640510,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1792499760016,
+    "news: tech leaders": 1792502779898,
     "nvidia": 1792472400592,
     "nvidia blog": 1792472400592,
     "openai": 1792411200295,
@@ -34172,7 +34104,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-20T13:16:09.446794+00:00",
+    "last_server_run": "2026-10-20T13:31:21.358898+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-20T12:32:21.388782+00:00",
@@ -37582,7 +37514,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-20T13:16:58.032797+00:00",
+    "last_run": "2026-10-20T13:32:39.176929+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -39076,7 +39008,17 @@
       "x:2112529052976501091",
       "x:2112531363467542742",
       "x:2112531505524412469",
-      "x:2112532502862758033"
+      "x:2112532502862758033",
+      "x:2112532572924412104",
+      "x:2112532786309701926",
+      "x:2112532994976104840",
+      "x:2112533077259853841",
+      "x:2112533430408040798",
+      "x:2112533830603251765",
+      "x:2112535182511370611",
+      "x:2112535421112746453",
+      "x:2112535595348287853",
+      "x:2112536311286690258"
     ],
     "source_failures": {},
     "sources": []
