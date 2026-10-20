@@ -2,27 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-13T15:31:51.545017+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "Nandan Nilekani proposes last-minute AI generation to prevent exam paper leaks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc2V0eW03MEwyRFRVQi1TSXJPWFBrVkc0c1FTb3RVLXJ0cFhqN01aWUFtaWhydHFIMEx3aDVxYk1wOTdYNTAxT3NBRzZOS09HZ01fYTVWU1RDdU9NZ2l0MzJZckU2SGRMbjRFa1FhME1yOE1ZdWZlOUUya2puY0h6Xy1WWGpuMjduZUtNSzV0MUpoUlZBZzluSVBpNXo1c2NBODZSMTlqVHpIbzlDMXF3OWhrWlNHdzdGV0xOcmlFaUtwYkRyZEE?oc=5",
-      "words": [
-        "generate",
-        "implement",
-        "keen",
-        "last",
-        "leaks",
-        "minute",
-        "nandan",
-        "nilekani",
-        "our",
-        "paper",
-        "report",
-        "solution"
-      ]
-    },
-    {
-      "at": "2026-10-13T15:31:51.545017+00:00",
       "handle": "News: India AI deeptech",
       "headline": "MeitY invites industry proposals for 10,000 GPUs under IndiaAI Mission",
       "tier": 0,
@@ -7440,6 +7419,25 @@
         "teamwork",
         "upgrades"
       ]
+    },
+    {
+      "at": "2026-10-20T17:31:42.657160+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Joel Kaplan to leave Meta after 15 years",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdldKTFc3UDFuMWFhQzRmcWFGd2hDX0pRdlhQaE1RT21Xd3lwNHlLR082OExWQndGYXczUjJheUhHMndaNzNhdEVNaDFwS0V3VFJ1eUxJT2tDTExqN1RRNXZKNUNmMVEwNDNIb0NrME5JSUg1VzJJcEpzUkVacHd6eEpBMXM2OXpxSXJzV1B4dXBqTk1EenFWemNFNUc4NEVna3czY1VMTzJXNFBXZ2hCejhYdUY2R3RiTVQ1VXRxRnRMak04SG53eURWTU4ySWxWSWZVaNIB2gFBVV95cUxQNzBGVFg3NF9oQ1BvX3JjWEs4MkdRTU1mUjVnTm4xNTdKUEk3aEsxVVE5ZkRnR0Z3elhhTGRobXpPcFRNc2loQnJLSmR3QW5wX2Y4MUhsM19fRnBnRnN3NnR1VkN2MjkybkNBOXVjeTBrOVA4czd1c05NNUltNkFBZldFWGVhRmpGVVRKN19DeW9kaDBPS2lPdDVTd0RuT3h4WUdmVXhzVFVabEt1TVNmbW5wTlVoNmVCQktWYnJHMnpaVkJHOGl5SkJPeFRFVTRweUVELUJGbFJJQQ?oc=5",
+      "words": [
+        "joel",
+        "kaplan",
+        "leave",
+        "meta",
+        "overseeing",
+        "policy",
+        "report",
+        "strategy",
+        "washington",
+        "years"
+      ]
     }
   ],
   "bureau": {
@@ -13204,7 +13202,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-20T17:18:14.220461+00:00",
+    "last_run": "2026-10-20T17:33:38.875709+00:00",
     "pib_mark": 2325620,
     "seen": [
       "pib:2320137",
@@ -15514,11 +15512,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791951596743",
-    "1791953934772",
-    "1791954720176",
-    "1791956520722",
-    "1791961054499",
     "1791965148402",
     "1791880662060",
     "1791880663293",
@@ -19960,19 +19953,23 @@
     "1789631206838",
     "1789631206899",
     "1789631206973",
-    "1791849600884",
-    "1792022400425",
     "1792456389510",
     "1792461999034",
     "1792479662292",
     "1792492834298",
     "1792494184004",
-    "1792499056882",
     "1792502688812",
     "1792502975673",
     "1792503833705",
     "1792507959294",
     "1792509679498",
+    "1790035200866",
+    "1792434276094",
+    "1792482120877",
+    "1792487155796",
+    "1792499056629",
+    "1792508375673",
+    "1792511680797",
     "1744200000775",
     "1746619200351",
     "1746619200551",
@@ -20815,7 +20812,6 @@
     "1790035200004",
     "1790035200400",
     "1790035200591",
-    "1790035200866",
     "1790035200881",
     "1790035200936",
     "1790056002703",
@@ -21050,6 +21046,7 @@
     "1791849600404",
     "1791849600656",
     "1791849600751",
+    "1791849600884",
     "1791863703259",
     "1791867631456",
     "1791868380716",
@@ -21116,6 +21113,7 @@
     "1792008000711",
     "1792011600719",
     "1792018860784",
+    "1792022400425",
     "1792022400459",
     "1792022400648",
     "1792025450282",
@@ -21215,7 +21213,6 @@
     "1792432800087",
     "1792433744931",
     "1792434180811",
-    "1792434276094",
     "1792434724607",
     "1792435479903",
     "1792435842030",
@@ -21282,7 +21279,6 @@
     "1792481400535",
     "1792481756871",
     "1792481906481",
-    "1792482120877",
     "1792482191506",
     "1792482480661",
     "1792482702732",
@@ -21301,7 +21297,6 @@
     "1792486622230",
     "1792486860036",
     "1792486905314",
-    "1792487155796",
     "1792487700759",
     "1792487801500",
     "1792488000483",
@@ -21315,6 +21310,7 @@
     "1792489283778",
     "1792489484821",
     "1792490159322",
+    "1792490400634",
     "1792490460010",
     "1792490520453",
     "1792490580534",
@@ -21326,6 +21322,7 @@
     "1792492589588",
     "1792493016241",
     "1792493040545",
+    "1792493238697",
     "1792493632713",
     "1792494025593",
     "1792494246319",
@@ -21343,7 +21340,7 @@
     "1792497823254",
     "1792498403977",
     "1792498806315",
-    "1792499056629",
+    "1792499056882",
     "1792499384760",
     "1792499468048",
     "1792500728372",
@@ -21385,10 +21382,10 @@
     "1792508139482",
     "1792508250710",
     "1792508362683",
-    "1792508375673",
     "1792508400394",
     "1792508614584",
     "1792509145235",
+    "1792509228673",
     "1792509434486",
     "1792509531102",
     "1792509679898",
@@ -21398,7 +21395,6 @@
     "1792510440854",
     "1792510801044",
     "1792511480002",
-    "1792511680797",
     "1792511913395",
     "1792512000143",
     "1792512000270",
@@ -21408,6 +21404,7 @@
     "1792512103712",
     "1792512228758",
     "1792512320746",
+    "1792512540816",
     "1792512600623",
     "1792513012895",
     "1792513206314",
@@ -21415,6 +21412,7 @@
     "1792513564998",
     "1792513750294",
     "1792515818832",
+    "1792515946409",
     "1792516368947",
     "1792516552080",
     "1792516552132",
@@ -21515,8 +21513,8 @@
     "2325103",
     "2325239"
   ],
-  "last_digest_hour": "2026-10-20T22",
-  "last_success": "2026-10-20T17:16:23.553105+00:00",
+  "last_digest_hour": "2026-10-20T23",
+  "last_success": "2026-10-20T17:31:42.723573+00:00",
   "national": {
     "alerted": [
       {
@@ -29998,13 +29996,12 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-10-20T17:17:15.919833+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-19T21:32:28.205846+00:00"
     },
-    "last_run": "2026-10-20T17:17:28.291754+00:00",
+    "last_run": "2026-10-20T17:32:24.394528+00:00",
     "pib_mark": 2325620,
     "seen": [
       "pib:2317976",
@@ -32434,9 +32431,9 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168628",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168623",
       "mea:41853",
+      "mea:41855",
       "npci:617",
       "npci:620",
-      "mea:41855",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -33012,9 +33009,6 @@
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -34187,10 +34181,10 @@
     "news: indian it majors": 1792505441025,
     "news: indian it midcaps": 1792503003047,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1792512320746,
+    "news: tech leaders": 1792512540816,
     "nvidia": 1792472400592,
     "nvidia blog": 1792472400592,
-    "openai": 1792411200295,
+    "openai": 1792490400634,
     "oracle": 1791151314860,
     "phonepe": 1792391476337,
     "pib communications": 2324940,
@@ -34214,9 +34208,7 @@
     "zoho": 1791992131559
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-10-20T17:15:59.067304+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -34234,7 +34226,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-20T17:16:23.993241+00:00",
+    "last_server_run": "2026-10-20T17:31:43.170605+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-20T16:33:04.056592+00:00",
@@ -37654,7 +37646,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-20T17:17:51.719330+00:00",
+    "last_run": "2026-10-20T17:33:28.929094+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -39243,7 +39235,13 @@
       "x:2112582105121386879",
       "x:2112586770705764729",
       "x:2112587932792209695",
-      "x:2112589313863213431"
+      "x:2112589313863213431",
+      "x:2112594058841604387",
+      "x:2112594778567458994",
+      "x:2112595209356009631",
+      "x:2112595875705028824",
+      "x:2112596441965449610",
+      "x:2112596623973085376"
     ],
     "source_failures": {},
     "sources": []
