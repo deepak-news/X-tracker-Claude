@@ -13081,7 +13081,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-20T07:32:14.720542+00:00",
+    "last_run": "2026-10-20T07:47:07.987666+00:00",
     "pib_mark": 2325389,
     "seen": [
       "pib:2320137",
@@ -15277,7 +15277,8 @@
       "pib:2325359",
       "pib:2325381",
       "pib:2325389",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-on-rss-sthapana-divas"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-on-rss-sthapana-divas",
+      "site:ICC|https://www.icc-cricket.com/media-releases/verma-reprimanded-for-breaching-icc-code-of-conduct"
     ],
     "source_failures": {},
     "sources": [
@@ -15333,13 +15334,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1789631206102",
-    "1791861705055",
-    "1791864077988",
-    "1791866794497",
-    "1791868206656",
-    "1791879566224",
-    "1791880091833",
     "1791897371753",
     "1791926310927",
     "1791926846193",
@@ -19538,7 +19532,6 @@
     "1792441860219",
     "1792444092776",
     "1792383306209",
-    "1792424229955",
     "1792431780488",
     "1792436207445",
     "1791478851872",
@@ -19765,8 +19758,6 @@
     "1792393420211",
     "1792393554587",
     "1792394747607",
-    "1792405980371",
-    "1792405980401",
     "1792406820155",
     "1792426212607",
     "1792428780860",
@@ -19775,13 +19766,21 @@
     "1792453178240",
     "1792461800006",
     "1792462500321",
-    "1792464062775",
     "1792468080170",
     "1792469076315",
-    "1792469698677",
     "1792471472392",
     "1792473622423",
     "1792476020364",
+    "1792398506459",
+    "1792405980398",
+    "1792409373192",
+    "1792438241109",
+    "1792457148765",
+    "1792463532568",
+    "1792474212778",
+    "1792475976648",
+    "1792477282111",
+    "1792478802736",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -21022,7 +21021,6 @@
     "1792396351456",
     "1792397715731",
     "1792398379704",
-    "1792398506459",
     "1792398577738",
     "1792398802645",
     "1792398927715",
@@ -21050,7 +21048,8 @@
     "1792405800553",
     "1792405825476",
     "1792405920877",
-    "1792405980398",
+    "1792405980371",
+    "1792405980401",
     "1792406083377",
     "1792406222452",
     "1792406580088",
@@ -21061,7 +21060,6 @@
     "1792407600650",
     "1792408643193",
     "1792409232803",
-    "1792409373192",
     "1792410292851",
     "1792410317353",
     "1792410448035",
@@ -21097,6 +21095,7 @@
     "1792423984177",
     "1792424099760",
     "1792424203801",
+    "1792424229955",
     "1792424580470",
     "1792424762901",
     "1792424976441",
@@ -21137,7 +21136,6 @@
     "1792437846002",
     "1792438028571",
     "1792438200021",
-    "1792438241109",
     "1792440064051",
     "1792440564303",
     "1792440900848",
@@ -21163,7 +21161,6 @@
     "1792455067679",
     "1792455977965",
     "1792456216014",
-    "1792457148765",
     "1792459448783",
     "1792459649582",
     "1792459800005",
@@ -21180,8 +21177,9 @@
     "1792462560757",
     "1792462901163",
     "1792463022528",
-    "1792463532568",
     "1792463671441",
+    "1792463671574",
+    "1792464062775",
     "1792464240037",
     "1792464288532",
     "1792464378273",
@@ -21203,6 +21201,7 @@
     "1792468980340",
     "1792469058018",
     "1792469574686",
+    "1792469698677",
     "1792469940506",
     "1792470151112",
     "1792470269198",
@@ -21216,32 +21215,34 @@
     "1792473780051",
     "1792474020227",
     "1792474208992",
-    "1792474212778",
+    "1792474212693",
     "1792474747392",
     "1792475252809",
     "1792475327019",
     "1792475520849",
     "1792475782378",
     "1792475912645",
-    "1792475976648",
     "1792476000384",
     "1792476020518",
     "1792476030805",
     "1792477025184",
-    "1792477282111",
     "1792477388666",
     "1792477800912",
     "1792477809640",
     "1792478034338",
     "1792478372902",
     "1792478379779",
-    "1792478802736",
+    "1792478802635",
     "1792478996080",
     "1792479153899",
     "1792479358837",
     "1792480065978",
     "1792480166853",
     "1792480276849",
+    "1792481400535",
+    "1792481906863",
+    "1792481961780",
+    "1792482191025",
     "1792483200491",
     "1792483231693",
     "2317509",
@@ -21335,7 +21336,7 @@
     "2325239"
   ],
   "last_digest_hour": "2026-10-20T13",
-  "last_success": "2026-10-20T07:31:13.629110+00:00",
+  "last_success": "2026-10-20T07:46:00.295631+00:00",
   "national": {
     "alerted": [
       {
@@ -29776,10 +29777,9 @@
       },
       "warned": "2026-10-19T21:32:28.205846+00:00"
     },
-    "last_run": "2026-10-20T07:31:57.076025+00:00",
+    "last_run": "2026-10-20T07:46:46.088185+00:00",
     "pib_mark": 2325389,
     "seen": [
-      "pib:2317650",
       "pib:2317641",
       "pib:2317639",
       "pib:2317602",
@@ -32778,7 +32778,8 @@
       "pib:2325381",
       "pib:2325389",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-on-rss-sthapana-divas",
-      "quake:ncs:blVJbmNGVUR6ZXJYMXBNYmEzTDVvUT09"
+      "quake:ncs:blVJbmNGVUR6ZXJYMXBNYmEzTDVvUT09",
+      "site:ICC|https://www.icc-cricket.com/media-releases/verma-reprimanded-for-breaching-icc-code-of-conduct"
     ],
     "source_failures": {
       "CBI": {
@@ -32845,7 +32846,44 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Persistent Systems plans up to $450M QIP for Nagarro acquisition",
+      "post": {
+        "created_at": "2026-10-20T07:38:26+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1792481906863",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Moneycontrol",
+        "reposts": 0,
+        "text": "Persistent Systems may soon launch up to $450 million QIP; proceeds part of financing plan for Nagarro...",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQalVQekNQOVg5Uzd2Q0NvWjdYdzBnY3VDX1E2TkVaM2xDVUZiN1FWSmhwM29BY05YdEV4LUNUMWdGNjBia0kxY18xRlpxanNDRDY2MWRyb095NkZ5dVJDWHZtM2VkVWxLU3ZIbjNrMnlrNDg4SElVazNtV2tRTFM3ZjFHUy1WRWlHc2tOSFREX29maFIyWlNIZl9pVTl3SzF0RWZDZ3RsaUdkYjBhZXhnTkxTWk9LNW9ibGlzOVpBV1JUcnBOOGtyREdubXlqR1FFeUNpblFMQ0Y0ZlZzUl9wQmRqZUVVLVF2Q0dqdFhEOXJzVU1qZkJ1c1VlMUJPd9IBgwJBVV95cUxOQi1QbjIzNERNSkhhaDc1V19IdTRZRWdTZHlPYmZLQzNHeHpNek01WDctRVRLcGIxYVA0Si01UjlVRWUwWHFkZUFsVE93ZHhUYU9PYUgxRVJTMFZWckRIeTZfMDdfQVk0VzQwYm5TZ3Noeml3UVVUVnlWeFhhdXNET3JvNDJodk1qaHpLTlk4V1hoOGlLZUdRcEJxbHdQSHQ2OXRUVGV4LWdkWElIQUg4STR4YkVfcmk4N2NWdDFfc0xaYmVvSjRQX3NLSFJhU1NpX3BaZ0NWeDBLcjJJOHpoSmVXbmktQlFKX2N5OFJ5dExQZGRfUlY2RWhmMXJGdTJOREw0?oc=5"
+      },
+      "queued_at": "2026-10-20T07:46:00.187504+00:00",
+      "score": 7.0,
+      "why": "Major fundraising and acquisition financing plan by a watched Indian IT firm."
+    },
+    {
+      "headline": "Jio Platforms IPO commands 22% grey market premium ahead of launch",
+      "post": {
+        "created_at": "2026-10-20T07:39:21+00:00",
+        "handle": "News: India telecom",
+        "id": "1792481961780",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Hindustan Times",
+        "reposts": 0,
+        "text": "Jio Platforms shares command 22.16% grey market premium ahead of \u20b930,213-crore IPO issue | Business News",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVzg4b2RTQXE5bjRxTjhDSTM2N2lwbmZSd0Q4WHN4YnE1MFlWem9VaDc0LTlvWkZidV9vcVllTVlERWpCdkdZUnVfM3MzZVhYaG53c1RfS1YzQWhBd1BqLTB5T09WOWZzeEVFYTZCaVpVal9ieF9lQnlRQnEzbzYxWG80OUNJbmxKS243NWtTNmU1LVZKelF6RFl0QXhYX1QyeldHNDdwUVhZbkRaMmhRZlVwcTZNdlNPYzJIcWZETXdBcjJRSVgyU3NXOHZLT0RfdDBWWVVJc3QyZkVsUEhhSNIB5gFBVV95cUxPbldFM05Yc3VzV0ZDMWRhcGxwQTZvQWg2dHlxRnpxRFI0Um5uLWt4cm1sb0U1TVd2bk5Uem8zWHFEY3E3STVWSjJDU0FCa1J4ZGV5STNoN3RaZW9UNDVxcnkxdWpUQVBBd3lxcEVzZEE4d2Z5ajlOdFRNWDhyd1JEclBzMjRuOG5OWEV1YzdQVWpJenJyMjF1QXdtNld5QnFZSFZSd3BTa3VYMGVydXlwcEZvcVZ0N3RFR0x6dWRfQkxlQURkcU9RbnF0c2xXT1pxcV9jMXRFc3FuUGdMaG1oaTZmZVBpQQ?oc=5"
+      },
+      "queued_at": "2026-10-20T07:46:00.187504+00:00",
+      "score": 7.0,
+      "why": "Important update on the high-profile Reliance Jio IPO running story."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -33933,7 +33971,7 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792480166853,
+    "news: big tech platforms": 1792481400535,
     "news: consumer internet india": 1792479358837,
     "news: global ai": 1792480065978,
     "news: global chips": 1792478996080,
@@ -33942,10 +33980,10 @@
     "news: india edtech gaming": 1792377646337,
     "news: india fintech": 1792480276849,
     "news: india semiconductors": 1792428540928,
-    "news: india tech policy": 1792435842030,
-    "news: india telecom": 1792478372902,
+    "news: india tech policy": 1792482191025,
+    "news: india telecom": 1792481961780,
     "news: indian it majors": 1792469574686,
-    "news: indian it midcaps": 1792412397615,
+    "news: indian it midcaps": 1792481906863,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792476020518,
     "nvidia": 1792472400592,
@@ -33992,7 +34030,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-20T07:31:14.076994+00:00",
+    "last_server_run": "2026-10-20T07:46:00.636130+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-20T05:47:03.608014+00:00",
@@ -34121,7 +34159,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-10-20T01:31:28.537002+00:00",
+        "at": "2026-10-20T07:46:12.129692+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -34131,7 +34169,7 @@
         }
       },
       "last": {
-        "calendar": "2026-10-20T01:31:31.266882+00:00",
+        "calendar": "2026-10-20T07:46:14.972096+00:00",
         "ls_reports": "2026-10-20T05:46:38.594533+00:00",
         "rs_committee_press": "2026-10-20T05:46:49.120846+00:00",
         "rs_press": "2026-10-20T05:46:46.087326+00:00",
@@ -37299,7 +37337,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-20T07:32:03.527402+00:00",
+    "last_run": "2026-10-20T07:46:54.244557+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -38678,7 +38716,14 @@
       "x:2112441334690894251",
       "x:2112442945643188536",
       "x:2112443675905294621",
-      "x:2112445071530524779"
+      "x:2112445071530524779",
+      "x:2112446218592825514",
+      "x:2112446219784233121",
+      "x:2112447142862422174",
+      "x:2112447155495751857",
+      "x:2112447855403384987",
+      "x:2112448167635783865",
+      "x:2112448609199501528"
     ],
     "source_failures": {},
     "sources": []
