@@ -13079,11 +13079,9 @@
       "CG-UP-E-19102026-277293"
     ],
     "health": {
-      "down": {
-        "IRDAI": "2026-10-20T06:32:55.732452+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-10-20T06:32:59.204250+00:00",
+    "last_run": "2026-10-20T06:47:07.322276+00:00",
     "pib_mark": 2325389,
     "seen": [
       "pib:2320137",
@@ -14802,6 +14800,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-avani-lekhara-on-winning-silver-in-womens-10m-air-rifle-standing-sh1-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-asian-para-games-record",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168622",
+      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-gujarat-meets-pm-3",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -15233,7 +15232,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63832",
-      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-gujarat-meets-pm-3",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
       "page:https://www.mha.gov.in/files/whats_new_documents/Lists_withF_05092026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse.pdf",
@@ -15278,13 +15276,10 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168628",
       "pib:2325359",
       "pib:2325381",
-      "pib:2325389"
+      "pib:2325389",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-on-rss-sthapana-divas"
     ],
-    "source_failures": {
-      "IRDAI": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -15338,13 +15333,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791849600962",
-    "1791867956254",
-    "1791896400001",
-    "1791915617079",
-    "1791923820788",
-    "1791925294607",
-    "1791864671489",
     "1791930286810",
     "1791851400881",
     "1791855043445",
@@ -19502,7 +19490,6 @@
     "1791763200678",
     "1792378715884",
     "1792392960059",
-    "1792409232803",
     "1792413466661",
     "1792415646211",
     "1792422496344",
@@ -19710,7 +19697,6 @@
     "1792434201495",
     "1792386960814",
     "1792387020936",
-    "1792405980956",
     "1792418111366",
     "1792419000800",
     "1792422441862",
@@ -19777,16 +19763,26 @@
     "1792470775543",
     "1792471759279",
     "1792471866957",
-    "1792472318828",
-    "1791849600884",
-    "1792022400425",
     "1792408643193",
     "1792445495221",
     "1792465081741",
     "1792467184113",
     "1792469151199",
     "1792472385019",
-    "1792475912645",
+    "1792391797391",
+    "1792391914369",
+    "1792393291622",
+    "1792397220816",
+    "1792405980371",
+    "1792409400463",
+    "1792428780860",
+    "1792433344547",
+    "1792443960842",
+    "1792455900895",
+    "1792470075417",
+    "1792471759064",
+    "1792475912299",
+    "1792476030262",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -20880,6 +20876,7 @@
     "1791849600404",
     "1791849600656",
     "1791849600751",
+    "1791849600884",
     "1791863703259",
     "1791867631456",
     "1791868380716",
@@ -20949,6 +20946,7 @@
     "1792008000711",
     "1792011600719",
     "1792018860784",
+    "1792022400425",
     "1792022400459",
     "1792022400648",
     "1792025450282",
@@ -21017,11 +21015,8 @@
     "1792347345536",
     "1792378078745",
     "1792391476337",
-    "1792391797391",
-    "1792391914369",
     "1792392208443",
     "1792393121410",
-    "1792393291622",
     "1792393297030",
     "1792393420211",
     "1792393496200",
@@ -21030,7 +21025,6 @@
     "1792394814077",
     "1792396200086",
     "1792396351456",
-    "1792397220816",
     "1792397715731",
     "1792398379704",
     "1792398506459",
@@ -21061,7 +21055,7 @@
     "1792405800553",
     "1792405825476",
     "1792405920877",
-    "1792405980371",
+    "1792405980956",
     "1792406083377",
     "1792406222452",
     "1792406580088",
@@ -21072,8 +21066,8 @@
     "1792407410569",
     "1792407600650",
     "1792408643347",
+    "1792409232803",
     "1792409373192",
-    "1792409400463",
     "1792410292851",
     "1792410317353",
     "1792410448035",
@@ -21124,7 +21118,6 @@
     "1792428292362",
     "1792428540928",
     "1792428637297",
-    "1792428780860",
     "1792429200506",
     "1792430002836",
     "1792430323623",
@@ -21135,7 +21128,6 @@
     "1792431409733",
     "1792432440015",
     "1792432800087",
-    "1792433344547",
     "1792433400344",
     "1792433540890",
     "1792433744931",
@@ -21165,7 +21157,6 @@
     "1792442492892",
     "1792443026727",
     "1792443480713",
-    "1792443960842",
     "1792444309621",
     "1792444350286",
     "1792444680748",
@@ -21178,7 +21169,6 @@
     "1792454400061",
     "1792454436453",
     "1792455067679",
-    "1792455900895",
     "1792455977965",
     "1792456216014",
     "1792457148765",
@@ -21194,6 +21184,7 @@
     "1792461812419",
     "1792461960520",
     "1792462080512",
+    "1792462393722",
     "1792462450125",
     "1792462500321",
     "1792462560757",
@@ -21206,6 +21197,7 @@
     "1792465081700",
     "1792465200706",
     "1792465583814",
+    "1792466100351",
     "1792467062758",
     "1792467369012",
     "1792467600028",
@@ -21221,16 +21213,15 @@
     "1792469574686",
     "1792469698677",
     "1792469940506",
-    "1792470075417",
     "1792470151112",
     "1792470269198",
     "1792470600120",
     "1792470602104",
     "1792471472392",
-    "1792471759064",
     "1792471835969",
     "1792471866148",
     "1792471980065",
+    "1792472318828",
     "1792472400592",
     "1792473571530",
     "1792473622423",
@@ -21243,10 +21234,14 @@
     "1792475327019",
     "1792475520849",
     "1792475782378",
-    "1792475912299",
-    "1792476030262",
+    "1792475912645",
+    "1792476030805",
     "1792477025184",
     "1792477388666",
+    "1792477800912",
+    "1792477809640",
+    "1792478034338",
+    "1792478379779",
     "1792483200491",
     "1792483231693",
     "2317509",
@@ -21340,7 +21335,7 @@
     "2325239"
   ],
   "last_digest_hour": "2026-10-20T12",
-  "last_success": "2026-10-20T06:31:21.271523+00:00",
+  "last_success": "2026-10-20T06:46:03.473797+00:00",
   "national": {
     "alerted": [
       {
@@ -29781,10 +29776,9 @@
       },
       "warned": "2026-10-19T21:32:28.205846+00:00"
     },
-    "last_run": "2026-10-20T06:32:14.411517+00:00",
+    "last_run": "2026-10-20T06:46:49.668039+00:00",
     "pib_mark": 2325389,
     "seen": [
-      "pib:2317644",
       "pib:2317642",
       "pib:2317650",
       "pib:2317641",
@@ -32241,6 +32235,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-avani-lekhara-on-winning-silver-in-womens-10m-air-rifle-standing-sh1-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-asian-para-games-record",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168622",
+      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-gujarat-meets-pm-3",
       "npci:617",
       "npci:620",
       "quake:usgs:us6000u3ge",
@@ -32737,7 +32732,6 @@
       "mea:41890",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
-      "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-gujarat-meets-pm-3",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63832",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
       "page:https://www.mha.gov.in/files/whats_new_documents/UnitednationFlageEnglish_15102026_0.pdf",
@@ -32783,7 +32777,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168623",
       "pib:2325359",
       "pib:2325381",
-      "pib:2325389"
+      "pib:2325389",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-on-rss-sthapana-divas"
     ],
     "source_failures": {
       "CBI": {
@@ -33938,10 +33933,10 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792065600782,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792475912645,
-    "news: consumer internet india": 1792476030262,
-    "news: global ai": 1792477025184,
-    "news: global chips": 1792477388666,
+    "news: big tech platforms": 1792477809640,
+    "news: consumer internet india": 1792476030805,
+    "news: global ai": 1792478379779,
+    "news: global chips": 1792478034338,
     "news: global it services": 1792443480713,
     "news: india ai deeptech": 1792473622423,
     "news: india edtech gaming": 1792377646337,
@@ -33979,9 +33974,7 @@
     "zoho": 1791992131559
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-10-20T06:31:14.934192+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -33999,7 +33992,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-20T06:31:21.730066+00:00",
+    "last_server_run": "2026-10-20T06:46:03.908505+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-20T05:47:03.608014+00:00",
@@ -37270,7 +37263,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-20T06:32:21.064994+00:00",
+    "last_run": "2026-10-20T06:46:52.833074+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
