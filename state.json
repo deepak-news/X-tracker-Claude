@@ -1,45 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-13T08:31:30.201766+00:00",
-      "handle": "News: India telecom",
-      "headline": "TRAI reports India internet subscriptions top 1.11 billion",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYXVCV2ZJeERlSmo2SU55UHpONnVHUmdlWHRaRGhka0VFdTUzZUgxZ05yaHZlc2FLRmU4U0xvN05JY0FtcFZHWDhYcFZYZlVJVm5IMV9rbUx0Yy1Ta2tFbUJVSEJuUmlpcEZQdGdLZ1QybU5ucEliX3JwUWNKMDUyY0hPRmVJWHlidElQVjljejRIMzQydjUzRkw1QW9OQXBkSEl4QzJFNkNnbTJ0MDNpUU1sWjVqNTlEWnpKeldLdUdZRFptbjdyUmwxQmJVTzZ4RmgzeWk4RDdGWjBfSndRNDZTSkQ4TEXSAewBQVVfeXFMTmg2azZkWnpwTHRvSXE3NDJxZ3Q4NzhqZEJDNjJJUldmaVlKbnptSDROcjhMNFM3cm1OZmQ3M0wzdm4tV2xMZHpPYlMwdDhzMUlpSHFSTHRlVUpYQnV4VS1oUV80Q1IyUFFWbndyQXZpUzBnOWJUcUNUaF9pajdqVFNvLTZJVlhfOW42SXR1VGNjS2pfN1NKcDdydnA4VHhlRkFsajJ3TEhiOWhpRUxNeGFUYkpXQlBpSTMyekFnNmxCbjdqbHVZNkVLbE9ab3JxcTVuNVhwcUE1b250WFZuMzJVMW5CLUpKVFd3Nko?oc=5",
-      "words": [
-        "100",
-        "billion",
-        "internet",
-        "just",
-        "people",
-        "per",
-        "rural",
-        "subscriptions",
-        "top",
-        "trai"
-      ]
-    },
-    {
-      "at": "2026-10-13T09:31:23.619893+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "Nandan Nilekani calls for AI-based testing to prevent exam leaks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb05nZ0dTbFhNOXcxZzB6aW15dDhieUFKYXVWNjVkTjdoZXBRcHFfeUFublp6UUlvNjJLZGNJcGxqQ0tCclVuWnk3TkdYaVJOak5OS1NKVjJ1U0tYczRQS1JtV3RQNnJXc3dPOVVRa0hpRjlaaS01YWpzaHZjS3lYOFJDUXVhMWJlZWhYQVZXTGpFSExSYXFDSFlYMmlIUmxFalI5dFoxY3dTTG1kY1Zpb3d6REYtYkJQT1VqbXVTcEFwaVpPSEg2Ukk3TmRVRUhYb2lLZG1WVEhMU01DRXVTNkNrUjJ5cUFJWUHSAe8BQVVfeXFMTnVIUlBCTi1ONDRwc0R6Yk1ub1dYeFFRem9IMkJiakhnSUxhSGVDT1BGYzh3WFBsVEQ1ek5rWnlRcm9IeGJuN2Z1M3R5dGE5d0lKTGtPWnFjN051VEh1dU1ac0ZUd1podm1lc3FBcHRucjlXSVpBSklUdEhpeWVNY2xuTmtIOVE1Mi1HdkRERERxMWUtMU0zSmNsR0FoNXc1VS1ia1RlUkVWaWJqaG8yV1ZLWVJHTmxLaFBucXNVcndEdkQwLUVNWVdncXR6ZjUydGZ0RG9NdTliem9HSnhsUTRvYkVTMWZ3RGpvYldPOUE?oc=5",
-      "words": [
-        "digital",
-        "exam",
-        "focus",
-        "leaks",
-        "nandan",
-        "nilekani",
-        "paper",
-        "puts",
-        "stop",
-        "testing",
-        "vision"
-      ]
-    },
-    {
       "at": "2026-10-13T09:31:23.619893+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Mesa School of Business raises \u20b9110 crore for AI-focused programmes",
@@ -7457,6 +7418,43 @@
         "pakistan",
         "scheme"
       ]
+    },
+    {
+      "at": "2026-10-20T03:31:17.997213+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Government considers new security framework for foreign satcom firms",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeENSNFBfZXdiY2JBVWJLUjJTQ3NtYXN0dXlaSlNpc3FGcFF2djNUQVJHWUZ4Wl9yNVBRbzRNaVpxekdhZjN6N0RNQlloWTVWSldmbG05V1phdG9hanVsaGxSVUxSMDFjLV9kS0Rua2RYR205QkRGc0RPakVuZFgyVlpDU0lMOFRma3hBdWFJWVVLMjNqN2pPQXRsaFQ2alVnaUhVQ1F1TUluUGdXdElWQzV1cjJaRUpEUVRuYnptQS1ETEVRQkVxZnFNYnpHVHFFQWxZU1NfNk0zVmdGeWxyVXRrZGRkYW5oajdqQ2d30gHzAUFVX3lxTFBqeFhwSmgzLXgzZjVqcTdiN1g4aERhNlBKRUlpaVVjeGtZcXZ3NWRpcENjRV9haHZDSEh1dmt3RnJIaHJocHUtMk9aempnZGF3Zk1NMnAxRm43SVM0UlpxUC1xRkc2WlhPelFDaEEzZWxsQVBlN2Q2SnR0NjNtMUZtSkVhTFd4d2VuaDVabXhNMDdlSjByUWY3Z0FnSXNqazkwV2Q4VngzYkszcVJ1MUI4Q1ZPWmxqTmhhbTZMSG1uTHFYZnQtaVBERU1CNGRjT3JJdHZ1WEw0S2E2RFNRQ1psZmFyT2lJa2c3YVM3U1REc0pOUQ?oc=5",
+      "words": [
+        "another",
+        "elon",
+        "firms",
+        "foreign",
+        "govt",
+        "mulls",
+        "musk",
+        "roadblock",
+        "satcom",
+        "security",
+        "starlink",
+        "system"
+      ]
+    },
+    {
+      "at": "2026-10-20T03:31:17.997213+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI cuts API prices as ChatGPT hits 60,000 advertisers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmVIdFpDS3RJUUtTM0lvTG9jWUpFd0M2TzZrQ3NMZGswdlBOcDJHRDZtZDlXSi1nSC13NllYcHV5MF9WMHN5dC1sNWpnbDQ2WTVEYzBqVVNvRjU3ZkFEdUJxNlFiMjI1LW9tUzVmQVFrblQ4bGdobzJEc2RRS1pHNVVnSGhFQk96cFJqa19PZmQ4UkltMFE?oc=5",
+      "words": [
+        "000",
+        "advertisers",
+        "chatgpt",
+        "cuts",
+        "hits",
+        "openai",
+        "prices"
+      ]
     }
   ],
   "bureau": {
@@ -13061,10 +13059,12 @@
       "CG-UP-E-19102026-277293"
     ],
     "health": {
-      "down": {}
+      "down": {
+        "SEBI": "2026-10-20T03:35:13.929542+00:00"
+      }
     },
-    "last_run": "2026-10-20T03:17:16.628296+00:00",
-    "pib_mark": 2325351,
+    "last_run": "2026-10-20T03:35:16.288908+00:00",
+    "pib_mark": 2325352,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -14779,6 +14779,36 @@
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|TWO SNATCHING ACCUSED APPREHENDED BY PP MADIPUR FOUR MOBILE PHONES AND ONE MOTORCYCLE RECOVERED",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/impl_15oct26_518_e.htm",
       "site:ICC|https://www.icc-cricket.com/media-releases/pakistan-and-sri-lanka-fined-for-slow-over-rates",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-14-2026-issued-against-jalaj-agrawal-pan-audpa0226h-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-ornaments-limited-rc-no-9304-of-2-_105253.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/confirmatory-order-in-the-matter-of-rajesh-exports-limited_105261.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105259.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-for-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105263.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-s-policytwin-prototype-wins-first-place-at-the-c-dir-global-agentic-regulator-hackathon_105265.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-teams-win-at-iosco-techsprint-2026-on-investor-education-in-the-age-of-artificial-intelligence-ai-_105266.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-of-attachment-on-immovable-property-under-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105270.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-capital-stroke-investment-services-pvt-ltd-_105285.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-dated-october-15-2026-for-rc-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105289.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-rc-no-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105287.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1576-2026-issued-against-r-s-ramani-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8709-of-2025_105290.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1575-2026-issued-against-venkatachari-suresh-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8710-of-2025_105292.html",
+      "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7110-of-2026-filed-by-vikram-aggarwal_105309.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7099-of-2026-filed-by-vikram-aggarwal_105303.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7111-of-2026-filed-by-bidish-das_105307.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7104-of-2026-filed-by-sunil-kumar_105304.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7113-of-2026-filed-by-s-srinivas_105312.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7097-of-2026-filed-by-surendra-champalaji-jain_105301.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7114-of-2026-filed-by-a-balamurugan_105319.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7105-of-2026-filed-by-bharat-bhushan-singh_105306.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7115-of-2026-filed-by-prem-kumar-gurusamy_105311.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7112-of-2026-filed-by-ranjeet-kumar-swain_105317.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7107-of-2026-filed-by-deepali-singhal_105321.html",
+      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-second-amendment-regulations-2026_105329.html",
+      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html",
+      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
+      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -14889,30 +14919,6 @@
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-14-2026-issued-against-jalaj-agrawal-pan-audpa0226h-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-ornaments-limited-rc-no-9304-of-2-_105253.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/confirmatory-order-in-the-matter-of-rajesh-exports-limited_105261.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105259.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-for-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105263.html",
-      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-s-policytwin-prototype-wins-first-place-at-the-c-dir-global-agentic-regulator-hackathon_105265.html",
-      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-teams-win-at-iosco-techsprint-2026-on-investor-education-in-the-age-of-artificial-intelligence-ai-_105266.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-of-attachment-on-immovable-property-under-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105270.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-capital-stroke-investment-services-pvt-ltd-_105285.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-dated-october-15-2026-for-rc-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105289.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-rc-no-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105287.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1576-2026-issued-against-r-s-ramani-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8709-of-2025_105290.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1575-2026-issued-against-venkatachari-suresh-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8710-of-2025_105292.html",
-      "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7110-of-2026-filed-by-vikram-aggarwal_105309.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7099-of-2026-filed-by-vikram-aggarwal_105303.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7111-of-2026-filed-by-bidish-das_105307.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7104-of-2026-filed-by-sunil-kumar_105304.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7113-of-2026-filed-by-s-srinivas_105312.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7097-of-2026-filed-by-surendra-champalaji-jain_105301.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7114-of-2026-filed-by-a-balamurugan_105319.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7105-of-2026-filed-by-bharat-bhushan-singh_105306.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7115-of-2026-filed-by-prem-kumar-gurusamy_105311.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7112-of-2026-filed-by-ranjeet-kumar-swain_105317.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7107-of-2026-filed-by-deepali-singhal_105321.html",
       "feed:https://www.telangana.gov.in/videos/2026/09/honble-cm-sri-a-revanth-reddy-participated-in-padayatra-interacts-with-locals-in-sircilla-town-rajanna-sircilla-district-2/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/honble-governor-sri-shiv-pratap-shukla-and-honble-chief-minister-sri-a-revanth-reddy-pay-floral-tributes-to-mahatma-gandhi-at-bapu-ghat-langar-house-hyd/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/%e0%b0%b9%e0%b0%b0%e0%b1%87%e0%b0%95%e0%b1%83%e0%b0%b7%e0%b1%8d%e0%b0%a3-%e0%b0%ab%e0%b1%8c%e0%b0%82%e0%b0%a1%e0%b1%87%e0%b0%b7%e0%b0%a8%e0%b1%8d-%e0%b0%aa%e0%b1%8d%e0%b0%b0%e0%b0%a4%e0%b0%bf%e0%b0%a8/",
@@ -15186,10 +15192,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63827",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63826",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-avani-lekhara-on-winning-silver-in-womens-10m-air-rifle-standing-sh1-at-asian-para-games-2026",
-      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-second-amendment-regulations-2026_105329.html",
-      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html",
-      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
-      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-asian-para-games-record",
       "mea:41887",
       "mea:41888",
@@ -15210,8 +15212,6 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63832",
       "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-gujarat-meets-pm-3",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
       "page:https://www.mha.gov.in/files/whats_new_documents/Lists_withF_05092026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse.pdf",
@@ -15247,9 +15247,14 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nishad-kumar-on-winning-gold-in-mens-long-jump-t47-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-kokila-on-winning-silver-in-womens-j2-52kg-judo-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-radha-venkatesh-on-winning-silver-in-womens-1500m-t12-13-at-asian-para-games-2026",
-      "pib:2325351"
+      "pib:2325351",
+      "pib:2325352"
     ],
-    "source_failures": {},
+    "source_failures": {
+      "SEBI": {
+        "count": 1
+      }
+    },
     "sources": [
       "CCI",
       "CERT-In",
@@ -15303,11 +15308,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791865643142",
-    "1791909028207",
-    "1791909092058",
-    "1791915899523",
-    "1791921746231",
     "1791874849437",
     "1791887580861",
     "1791889200089",
@@ -19751,12 +19751,17 @@
     "1792395718374",
     "1792406891541",
     "1792446660936",
-    "1792404932393",
     "1792411500365",
-    "1792419000800",
-    "1792424203801",
     "1792429090450",
-    "1792461960520",
+    "1792388014433",
+    "1792404932955",
+    "1792405980401",
+    "1792409340252",
+    "1792444662547",
+    "1792447468818",
+    "1792461585019",
+    "1792463421569",
+    "1792463520959",
     "1742212800528",
     "1744200000775",
     "1746619200351",
@@ -21000,7 +21005,6 @@
     "1792386399622",
     "1792387020936",
     "1792387265612",
-    "1792388014433",
     "1792388187144",
     "1792388685380",
     "1792389038484",
@@ -21051,13 +21055,13 @@
     "1792404517033",
     "1792404540185",
     "1792404543871",
-    "1792404932955",
+    "1792404932393",
     "1792404943074",
     "1792405049190",
     "1792405800553",
     "1792405825476",
     "1792405920877",
-    "1792405980401",
+    "1792405980398",
     "1792406083377",
     "1792406222452",
     "1792406580088",
@@ -21067,7 +21071,6 @@
     "1792407150967",
     "1792407410569",
     "1792407600650",
-    "1792409340252",
     "1792409400463",
     "1792409640161",
     "1792410292851",
@@ -21091,6 +21094,7 @@
     "1792415532722",
     "1792415863448",
     "1792416720577",
+    "1792419000800",
     "1792419173898",
     "1792419302049",
     "1792419738706",
@@ -21108,6 +21112,7 @@
     "1792423984177",
     "1792423997259",
     "1792424099760",
+    "1792424203801",
     "1792424525857",
     "1792424580470",
     "1792424762901",
@@ -21169,12 +21174,10 @@
     "1792443480713",
     "1792443960842",
     "1792444309621",
-    "1792444662547",
     "1792444680748",
     "1792445495221",
     "1792445700231",
     "1792447218972",
-    "1792447468818",
     "1792447775802",
     "1792448852310",
     "1792450500219",
@@ -21195,16 +21198,17 @@
     "1792460237065",
     "1792460580297",
     "1792461545498",
-    "1792461585019",
     "1792461600504",
     "1792461800006",
     "1792461812419",
+    "1792461960520",
     "1792462080512",
+    "1792462108100",
     "1792462450125",
     "1792462560757",
     "1792463051737",
-    "1792463421569",
-    "1792463520959",
+    "1792463266547",
+    "1792463532633",
     "1792463671441",
     "1792464240037",
     "1792464288532",
@@ -21212,6 +21216,7 @@
     "1792465081700",
     "1792465200103",
     "1792465583814",
+    "1792466985019",
     "1792483200491",
     "1792483231693",
     "2317509",
@@ -21304,8 +21309,8 @@
     "2325103",
     "2325239"
   ],
-  "last_digest_hour": "2026-10-20T08",
-  "last_success": "2026-10-20T03:16:01.796830+00:00",
+  "last_digest_hour": "2026-10-20T09",
+  "last_success": "2026-10-20T03:31:18.045898+00:00",
   "national": {
     "alerted": [
       {
@@ -29722,15 +29727,15 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "NPCI": "2026-10-19T17:47:21.219157+00:00",
+        "SEBI": "2026-10-20T03:33:41.922220+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-19T21:32:28.205846+00:00"
     },
-    "last_run": "2026-10-20T03:17:02.798495+00:00",
-    "pib_mark": 2325351,
+    "last_run": "2026-10-20T03:33:44.469016+00:00",
+    "pib_mark": 2325352,
     "seen": [
-      "pib:2317567",
       "pib:2317578",
       "pib:2317586",
       "pib:2317580",
@@ -32198,6 +32203,36 @@
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|WEST DISTRICT POLICE COMBINES FESTIVE SECURITY WITH PUBLIC OUTREACH AT RAMLEELA AND DANDIYA EVENTS Dedicated police kiosks established at various Ramleela and Dandiya venues.",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/impl_15oct26_518_e.htm",
       "site:ICC|https://www.icc-cricket.com/media-releases/pakistan-and-sri-lanka-fined-for-slow-over-rates",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-14-2026-issued-against-jalaj-agrawal-pan-audpa0226h-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-ornaments-limited-rc-no-9304-of-2-_105253.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-for-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105263.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-teams-win-at-iosco-techsprint-2026-on-investor-education-in-the-age-of-artificial-intelligence-ai-_105266.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/confirmatory-order-in-the-matter-of-rajesh-exports-limited_105261.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105259.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-s-policytwin-prototype-wins-first-place-at-the-c-dir-global-agentic-regulator-hackathon_105265.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-of-attachment-on-immovable-property-under-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105270.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-capital-stroke-investment-services-pvt-ltd-_105285.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-dated-october-15-2026-for-rc-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105289.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-rc-no-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105287.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1575-2026-issued-against-venkatachari-suresh-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8710-of-2025_105292.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1576-2026-issued-against-r-s-ramani-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8709-of-2025_105290.html",
+      "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7097-of-2026-filed-by-surendra-champalaji-jain_105301.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7099-of-2026-filed-by-vikram-aggarwal_105303.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7111-of-2026-filed-by-bidish-das_105307.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7110-of-2026-filed-by-vikram-aggarwal_105309.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7104-of-2026-filed-by-sunil-kumar_105304.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7113-of-2026-filed-by-s-srinivas_105312.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7112-of-2026-filed-by-ranjeet-kumar-swain_105317.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7115-of-2026-filed-by-prem-kumar-gurusamy_105311.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7105-of-2026-filed-by-bharat-bhushan-singh_105306.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7114-of-2026-filed-by-a-balamurugan_105319.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7107-of-2026-filed-by-deepali-singhal_105321.html",
+      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-second-amendment-regulations-2026_105329.html",
+      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
+      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html",
+      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
       "quake:usgs:us6000u3ge",
       "quake:usgs:us6000u3ga",
       "quake:usgs:us6000u3j5",
@@ -32370,30 +32405,6 @@
       "page:https://www.cbse.gov.in/cbsenew/documents/SUBMISSION_FORMS_PRIVATE_X_2627_07102026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_2_Submission_LOC_15102026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_3_Submission_LOC_16102026.pdf",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-14-2026-issued-against-jalaj-agrawal-pan-audpa0226h-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-ornaments-limited-rc-no-9304-of-2-_105253.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-for-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105263.html",
-      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-teams-win-at-iosco-techsprint-2026-on-investor-education-in-the-age-of-artificial-intelligence-ai-_105266.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/confirmatory-order-in-the-matter-of-rajesh-exports-limited_105261.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105259.html",
-      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-s-policytwin-prototype-wins-first-place-at-the-c-dir-global-agentic-regulator-hackathon_105265.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-of-attachment-on-immovable-property-under-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105270.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-capital-stroke-investment-services-pvt-ltd-_105285.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-dated-october-15-2026-for-rc-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105289.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-rc-no-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105287.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1575-2026-issued-against-venkatachari-suresh-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8710-of-2025_105292.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1576-2026-issued-against-r-s-ramani-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8709-of-2025_105290.html",
-      "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7097-of-2026-filed-by-surendra-champalaji-jain_105301.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7099-of-2026-filed-by-vikram-aggarwal_105303.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7111-of-2026-filed-by-bidish-das_105307.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7110-of-2026-filed-by-vikram-aggarwal_105309.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7104-of-2026-filed-by-sunil-kumar_105304.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7113-of-2026-filed-by-s-srinivas_105312.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7112-of-2026-filed-by-ranjeet-kumar-swain_105317.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7115-of-2026-filed-by-prem-kumar-gurusamy_105311.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7105-of-2026-filed-by-bharat-bhushan-singh_105306.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7114-of-2026-filed-by-a-balamurugan_105319.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7107-of-2026-filed-by-deepali-singhal_105321.html",
       "certin:CIAD-2026-0046",
       "certin:CIAD-2026-0047",
       "certin:CIAD-2026-0048",
@@ -32666,12 +32677,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63825",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63827",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63826",
-      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-second-amendment-regulations-2026_105329.html",
-      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
-      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-avani-lekhara-on-winning-silver-in-womens-10m-air-rifle-standing-sh1-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-asian-para-games-record",
-      "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
       "page:https://www.cbse.gov.in/cbsenew/documents/Reminder_5_Submission_LOC_19102026.pdf",
       "mea:41887",
       "mea:41888",
@@ -32692,8 +32699,6 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
       "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-gujarat-meets-pm-3",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63832",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-16-2026-under-recovery-certificate-no-9305-of-2026-issued-against-amesh-surajlal-jaiswal-afzpj0067q-arvind-shukla-iszps7481g-and-jalaj-agrawal-audpa0226h-jointly-_105333.html",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
       "page:https://www.mha.gov.in/files/whats_new_documents/UnitednationFlageEnglish_15102026_0.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/WhatsappMBBSSeat_02092026.pdf",
@@ -32729,7 +32734,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ravi-k-budigina-on-winning-silver-in-mens-100m-freestyle-s13-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-soumya-on-winning-gold-in-womens-1500m-t12-13-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ajeet-singh-on-winning-silver-in-mens-javelin-throw-f46-at-asian-para-games-2026",
-      "pib:2325351"
+      "pib:2325351",
+      "pib:2325352"
     ],
     "source_failures": {
       "CBI": {
@@ -32739,6 +32745,9 @@
       "NPCI": {
         "count": 4,
         "until": "2026-10-20T06:31:48.182288+00:00"
+      },
+      "SEBI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -32800,26 +32809,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Government considers new security framework for foreign satcom firms",
-      "post": {
-        "created_at": "2026-10-20T02:24:11+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1792463051737",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Today",
-        "reposts": 0,
-        "text": "Another roadblock for Elon Musk's Starlink? Govt mulls security system for foreign satcom firms",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeENSNFBfZXdiY2JBVWJLUjJTQ3NtYXN0dXlaSlNpc3FGcFF2djNUQVJHWUZ4Wl9yNVBRbzRNaVpxekdhZjN6N0RNQlloWTVWSldmbG05V1phdG9hanVsaGxSVUxSMDFjLV9kS0Rua2RYR205QkRGc0RPakVuZFgyVlpDU0lMOFRma3hBdWFJWVVLMjNqN2pPQXRsaFQ2alVnaUhVQ1F1TUluUGdXdElWQzV1cjJaRUpEUVRuYnptQS1ETEVRQkVxZnFNYnpHVHFFQWxZU1NfNk0zVmdGeWxyVXRrZGRkYW5oajdqQ2d30gHzAUFVX3lxTFBqeFhwSmgzLXgzZjVqcTdiN1g4aERhNlBKRUlpaVVjeGtZcXZ3NWRpcENjRV9haHZDSEh1dmt3RnJIaHJocHUtMk9aempnZGF3Zk1NMnAxRm43SVM0UlpxUC1xRkc2WlhPelFDaEEzZWxsQVBlN2Q2SnR0NjNtMUZtSkVhTFd4d2VuaDVabXhNMDdlSjByUWY3Z0FnSXNqazkwV2Q4VngzYkszcVJ1MUI4Q1ZPWmxqTmhhbTZMSG1uTHFYZnQtaVBERU1CNGRjT3JJdHZ1WEw0S2E2RFNRQ1psZmFyT2lJa2c3YVM3U1REc0pOUQ?oc=5"
-      },
-      "queued_at": "2026-10-20T02:46:03.233972+00:00",
-      "score": 7.0,
-      "why": "This is a significant regulatory development concerning foreign satellite communication companies in India."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -33909,8 +33899,8 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1792465583814,
     "news: consumer internet india": 1792461600504,
-    "news: global ai": 1792465200103,
-    "news: global chips": 1792463520959,
+    "news: global ai": 1792466985019,
+    "news: global chips": 1792463532633,
     "news: global it services": 1792443480713,
     "news: india ai deeptech": 1792460580297,
     "news: india edtech gaming": 1792377646337,
@@ -33966,17 +33956,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-20T03:16:02.236972+00:00",
+    "last_server_run": "2026-10-20T03:31:18.329589+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-20T01:16:57.588065+00:00",
+        "checked": "2026-10-20T03:32:13.304385+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-20T01:16:49.968913+00:00",
+        "checked": "2026-10-20T03:32:05.610436+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -34052,7 +34042,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-20T01:16:53.790282+00:00",
+        "checked": "2026-10-20T03:32:09.454483+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -34106,11 +34096,11 @@
       },
       "last": {
         "calendar": "2026-10-20T01:31:31.266882+00:00",
-        "ls_reports": "2026-10-20T01:16:33.262057+00:00",
-        "rs_committee_press": "2026-10-20T01:16:43.706151+00:00",
-        "rs_press": "2026-10-20T01:16:40.607575+00:00",
-        "rs_reports": "2026-10-20T01:16:37.447743+00:00",
-        "rs_updates": "2026-10-20T01:16:45.628818+00:00"
+        "ls_reports": "2026-10-20T03:31:49.652571+00:00",
+        "rs_committee_press": "2026-10-20T03:32:00.094699+00:00",
+        "rs_press": "2026-10-20T03:31:57.200655+00:00",
+        "rs_reports": "2026-10-20T03:31:54.392274+00:00",
+        "rs_updates": "2026-10-20T03:32:01.704389+00:00"
       }
     },
     "scanned": [
@@ -37135,7 +37125,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-20T03:17:05.410833+00:00",
+    "last_run": "2026-10-20T03:33:48.885507+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -38429,7 +38419,12 @@
       "x:2112371776567365822",
       "x:2112371978229428513",
       "x:2112372006851403833",
-      "x:2112372495252910511"
+      "x:2112372495252910511",
+      "x:2112363173315825786",
+      "x:2112378280024424652",
+      "x:2112382044814836123",
+      "x:2112383340015919405",
+      "x:2112385568864932124"
     ],
     "source_failures": {},
     "sources": []
