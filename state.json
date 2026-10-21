@@ -1,71 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-13T19:30:08.553408+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Uber executive overseeing robotaxi expansion to depart",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUhpWDVleDJ4T0VHNUpEM29TYWZxcmZORTEyMndfb1pLQ1ExSjgybEZuMm1LZjRqaTVKei1McE9FSW5QQURIS2dHYkpWRWFNekEtMDdRazg2LXJsOFJ1LVE5Wjg2OEV1QVQxbnBydXVmVUxqM09Wc1hoMXRXMDU3TnpoVHlRQkRwMllGQ1h0aDBQUUJ6TmY2dkxrRnlHWWdpQUF2cVd2QjlzRC01cTRFeUU5dw?oc=5",
-      "words": [
-        "depart",
-        "executive",
-        "expansion",
-        "overseeing",
-        "robotaxi",
-        "uber"
-      ]
-    },
-    {
-      "at": "2026-10-13T20:33:28.871666+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI and Anthropic urge British lawmakers for formal regulation",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaDJMY1hCMEJlRTJiNnNuY2xsV1FVN0dtME52djVacVF2R2pTRnhVNlpXeno5X05Fa2lENlNzemR4dnlYRkU2Z1RqVDNlMjBZbkFFcEc0R3pETmY0TDVuRFpuLThITkt5aDNnbndwOW05Y0dlQUJWWDFmUUhXa2tYUzVKblFBdDF2OUNaTA?oc=5",
-      "words": [
-        "anthropic",
-        "british",
-        "lawmakers",
-        "openai",
-        "regulate",
-        "tell"
-      ]
-    },
-    {
-      "at": "2026-10-13T20:33:28.871666+00:00",
-      "handle": "News: Global AI",
-      "headline": "FBI arrests former OpenAI employee for planting listening device",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
-      "words": [
-        "arrests",
-        "device",
-        "employee",
-        "fbi",
-        "former",
-        "listening",
-        "openai",
-        "planting"
-      ]
-    },
-    {
-      "at": "2026-10-13T21:33:25.575349+00:00",
-      "handle": "News: Global AI",
-      "headline": "Saudi national charged with planting listening device in OpenAI office",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6MjNkNW5WYWhlZE43SWlVQ1VwOERnZm9Va0szcWtwSDZGZ3RmSEZvUGdJSzg5dmpwSll1cUxOSi1zdkZDRm5Nb0ZoMzdKbFpZcnp6UGhyejhnaGM?oc=5",
-      "words": [
-        "charged",
-        "device",
-        "national",
-        "office",
-        "openai",
-        "planting",
-        "recording",
-        "saudi",
-        "secretly"
-      ]
-    },
-    {
       "at": "2026-10-13T21:33:25.575349+00:00",
       "handle": "News: Global AI",
       "headline": "US indicts Saudi employee of OpenAI for bugging its offices",
@@ -7418,6 +7353,89 @@
         "suddenly",
         "ukraine"
       ]
+    },
+    {
+      "at": "2026-10-21T03:31:25.873967+00:00",
+      "handle": "News: India telecom",
+      "headline": "Reliance Jio IPO opens for public subscription with \u20b930,213 cr issue",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNa00wOTd3Z1Q2aHAyZ0J3dk03TWJyVkF0Nnlpdkl4eWdJX0VXcWRQek1TWVNqNDAwWFNGTzFDT2tnNkpGNFJGRFR3UE5ybnhHQldDZ0F3TDFUNVplMF9DdjVUbUUwYVVRZjBxWWhxd3BvY2VnX19CYWM5MDRobDB0dWhzT0w3S0JNMXFUMUdFSkd1ZHp1S2w2ZERYaVRNOVN5ZnlwU2d3UEVfNC1FSjh5c01NUFhPcVljZk15VGNQME5QU1BzcVQyZlFQLXJsS1YtRWdkQjdyb1lsMi14YXdKMC1hbHV3ZWd0WWVlX01FN2NucmFocHN5VGdwejVrLW1LeXpzcFVFOFQ1TkJNUFVF0gGUAkFVX3lxTFBBX2xrZmYxb2FOdXZKclJodlhLVTdlQVVDa0QzUHBqQ0EyX1FuWVBVSjNwdS0tbXVnNVFlRHhMb3NieVloM3BnNlN3T0E1NmdzWktqT2Vud2V2QW9QVE1uMS1GaXZVVVhVUVh6Q2pyRVlrMXNOb0RWekprVkt6S0Z3ZzNpU08wRkJFUHp0X0xZNVhHTkNyVWMyWV9NYnZqdHRnZVR4bFR0SkVkSlI0UmdzWGlhbG9maEl3dlBXSUtUM0JMa1l3WDBaNlVQS3Ezd0xsNGtaVWRRSGZzWjNqTkhwWnRlTlJidFNxQ3VBT2lYN2FYVkh1c0h5UU9VTjVuUUFBakYxYXRUY0JVMmF0YUpDMHJTNQ?oc=5",
+      "words": [
+        "213",
+        "gmp",
+        "ipo",
+        "issue",
+        "jio",
+        "latest",
+        "listing",
+        "massive",
+        "opens",
+        "prediction",
+        "price",
+        "reliance",
+        "review",
+        "subscription"
+      ]
+    },
+    {
+      "at": "2026-10-21T03:31:25.873967+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio Platforms IPO subscription opens today",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcWNyeFJBS1htdk5ZQnp3MG4zNlctOHJ5QzAyNDBpNlA0Z1NNaVktYTgwTVFYSjZwYU1EZEtuTTdER1J1NHdqcFFpSG8zNk5kM2V2Nmdyd3FheFFvYkxSdDNVVnRESWxubXo2a0RtN01kcWcwMmpXZ05ORXFZeWdib2N3UVZ0QVA3cHZoSk1QUXFnblpmdFRvUUo2NDY5a3dSeU9CLV9TM1pGMnoyd0ozVDZVTmNMN2ZwdG96UWxMQXFDYXZ0alZiUVpuNkNpR3doS0ZyUjQ0a25nZ2J5RGJqNG44VzZOZE8wbTVTVVlKaTJMbU9PREVj0gH8AUFVX3lxTE1qeDBiT2JZTHNMbUNsSG1ieGZvRnFFcEs4OWQwMGZMcjVmZmsxLXZmM19IMGNpeHFnc1BzTldvanZRVy02TXRuMWxsVndDR3dPSU5pZTdtQUY1VHAxT2ptZkVpQW1saTBRbmVDOXNWbS1DV2JLMVNrdUZKN3A4ZUlrSlJSdGhsMVV5Q01FMUtBZVlwSE1HUW9JV2F2VGY3NGNmdUR0LXo3eXFtYzNwMlBUeFIyNWZTM0Q1a21ST2ZNV1ozNDM3TktIbEZjV0J6bDExMTNSTF9GUmJCOXVsM2lRcHR3b2lzcjJ1YXlqOVh6Mlp2cGlvTDdscnJDXw?oc=5",
+      "words": [
+        "begins",
+        "gains",
+        "gift",
+        "higher",
+        "ipo",
+        "jio",
+        "nifty",
+        "open",
+        "platforms",
+        "sensex",
+        "signals",
+        "subscription",
+        "today"
+      ]
+    },
+    {
+      "at": "2026-10-21T03:31:25.873967+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta board signals election content moderation failures",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3F3SjMwSXQ5ejlpMUkxMlZaZzNudTVTTXNkTGtYUUR1bWotQ0pOTFV3a0RqWmtzTTQxOGhESFl6eTFvcU5WY2wxcmxIck9Xb0RRRWFiMmc4WnEydjlHR2h2UGhwOWFSTzhHZW94XzBSUXJWcGp0UTZ5OE5mVEhZV0dkUFF2SlpjOUdCNzl1NU02QnZ2cTRXbk4ydE5Mc3JsMG1GZUMzY0lidXpMUW53N1YyMWpCbXNqR19BNVA4QW0xOFpjdjZxT3drdnlUQVdBbUxGcWo0Z1kybmZvRHU4WlNB0gHbAUFVX3lxTFBsZVFYT2hXemw0cl9Rem9RcnlGS3ZORkdqTWh5ZThFY3FWNUM2Y0tPUUx5YjVFTzd4TzRxczk0RVZwUzlacTBTRjNrT1NDSmE3YnNQcFNyUU9LUEVKQzc5SXM4dmpHdDF4akJKNUhwOWJVZEFPYkswWVJGMkJlcTczNlFNRjFRcU53RFg1dGtKdHdLWmdOazNpR05MMjBGOVV5RlBtNU1uczdSVV9yWmYtV0w2aFNOd0RxYmJ6UWxrMFRjVGh3Z1BDbHpSWXY5YkFKZ3FYRWFTZHVEWQ?oc=5",
+      "words": [
+        "board",
+        "content",
+        "election",
+        "failures",
+        "meta",
+        "moderation",
+        "recurring",
+        "signals"
+      ]
+    },
+    {
+      "at": "2026-10-21T03:31:25.873967+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Google and Apple block eMudhra keys over security weaknesses",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQjNGRWZjZnhIY2YwbEdPMUdqY2loRTloVDd1QU1nNUYzZTNtak1uT0pBUlZsYzZYQlFoc0gtOHU4d0swYmtmcXdCOExVOGljV1AtWEpJVlNYREJnZmxNSGhlSG1HU2FlTTNUampwR3hNamhySmtjbFRDaVhOeHJKb191cURLZUw2X2RHcFJ2SmxPMVFVNGF1dUp6aUxUbXVmTU5yNEhYM3dPcEEwODJ3QWRuQnRZbFVRMWNXNWxqM1VMR2MtNkpXX2dtNjhoZkJ4YzdHMEgycVYxeUdHalk0ZktVOWM0QVpnZjQ2ZThPTEx1QdIB9wFBVV95cUxOQVAyR0xfVm1fUmV3MF9FNVJzbENpNFlidi1WazUyRUF0SFUzT0JNZVZpN1ZtYm9GWmpaOGVoUHVMTG1Ja0U2SlBGT3hDcjU5amJ0UHhCbG04ay1uOVJNYldrSXJLX2pldW84Rm11SnpRVEZhdVFQVGc5TFZSNFR2a3FEVnBWcjBfVmk0YUJWaGhQMGp4TnBkRmxENzB1UUtYM2pnNzljSzMxbDlfd0V5U1k4SDdLRmpmNHhscjBaNFVwdGRuTGVDd1E2T2pEaGJqdzlpUDBqN190YzBHMjMtZ0FEdk9SZXNiS2tDSUM3QUl1eHFuOUNJ?oc=5",
+      "words": [
+        "alert",
+        "apple",
+        "block",
+        "emudhra",
+        "google",
+        "internet",
+        "keys",
+        "rush",
+        "shockingly",
+        "them",
+        "uses",
+        "weak"
+      ]
     }
   ],
   "bureau": {
@@ -13182,7 +13200,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-21T03:16:46.977106+00:00",
+    "last_run": "2026-10-21T03:32:48.844238+00:00",
     "pib_mark": 2325655,
     "seen": [
       "pib:2320137",
@@ -14979,6 +14997,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-manish-narwal-on-winning-silver-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-praveen-sharma-on-winning-bronze-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ashok-on-winning-silver-at-the-asian-para-games",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63824",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -15381,7 +15400,6 @@
       "mea:41884",
       "mea:41886",
       "dgft-public-notice:30f7da90-cb2f-4ef6-aa9b-77cf7767702d",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63824",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63825",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63827",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63826",
@@ -15452,7 +15470,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168630",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168636",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168631",
-      "pib:2325655"
+      "pib:2325655",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63834"
     ],
     "source_failures": {},
     "sources": [
@@ -15508,17 +15527,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791955888903",
-    "1791969442009",
-    "1791980462973",
-    "1787738337619",
-    "1791897293995",
-    "1791962400267",
-    "1791974400774",
-    "1791897700988",
-    "1791898200810",
-    "1791899463917",
-    "1791899708812",
     "1791904558315",
     "1791929280382",
     "1791961081499",
@@ -19892,7 +19900,6 @@
     "1792539450725",
     "1792540815007",
     "1792460580297",
-    "1792505760142",
     "1792507925991",
     "1792533397038",
     "1792535580303",
@@ -19934,27 +19941,23 @@
     "1792542600372",
     "1792547380827",
     "1792548163726",
-    "1792469151199",
-    "1792469574686",
     "1792470151112",
-    "1792471920758",
-    "1792485781133",
-    "1792486622230",
-    "1792490159322",
-    "1792490520453",
-    "1792496640510",
     "1792500840614",
-    "1792503003047",
-    "1792503240366",
-    "1792517580159",
-    "1792518160467",
     "1792519918243",
-    "1792536420604",
     "1792538687878",
     "1792545480730",
     "1792546801239",
     "1792549234077",
     "1792550400589",
+    "1792499593894",
+    "1792504133238",
+    "1792518380478",
+    "1792537500402",
+    "1792539274725",
+    "1792548660524",
+    "1792549357701",
+    "1792550188375",
+    "1792551154779",
     "1744200000775",
     "1746619200351",
     "1746619200551",
@@ -21197,9 +21200,12 @@
     "1792468235350",
     "1792468740924",
     "1792468800186",
+    "1792469151199",
+    "1792469574686",
     "1792469580105",
     "1792471835969",
     "1792471866957",
+    "1792471920758",
     "1792472400592",
     "1792473622423",
     "1792474747392",
@@ -21223,8 +21229,10 @@
     "1792484082272",
     "1792484402433",
     "1792484507638",
+    "1792485781133",
     "1792486212080",
     "1792486461562",
+    "1792486622230",
     "1792486860036",
     "1792486905314",
     "1792487460567",
@@ -21236,8 +21244,10 @@
     "1792488960927",
     "1792489055392",
     "1792489283778",
+    "1792490159322",
     "1792490400634",
     "1792490460010",
+    "1792490520453",
     "1792490580534",
     "1792490700537",
     "1792490760682",
@@ -21252,20 +21262,21 @@
     "1792495502059",
     "1792496509179",
     "1792496616951",
+    "1792496640510",
     "1792497600528",
     "1792497600561",
     "1792497622383",
     "1792497622769",
     "1792497848637",
     "1792499384760",
-    "1792499593894",
     "1792500728372",
     "1792500882289",
     "1792501200185",
     "1792501201834",
     "1792502640812",
+    "1792503003047",
+    "1792503240366",
     "1792503918630",
-    "1792504133238",
     "1792504226907",
     "1792504395898",
     "1792504490001",
@@ -21273,6 +21284,7 @@
     "1792504673112",
     "1792505441025",
     "1792505558210",
+    "1792505760142",
     "1792505790187",
     "1792506049848",
     "1792507055683",
@@ -21307,8 +21319,9 @@
     "1792516552489",
     "1792516552523",
     "1792516552884",
+    "1792517580159",
     "1792517928351",
-    "1792518380478",
+    "1792518160467",
     "1792520025243",
     "1792520040246",
     "1792521069770",
@@ -21344,15 +21357,14 @@
     "1792533742180",
     "1792534491832",
     "1792535042808",
+    "1792536420604",
     "1792536600530",
     "1792537020016",
     "1792537283680",
     "1792537320126",
     "1792537459158",
-    "1792537500402",
     "1792538956975",
     "1792539240682",
-    "1792539274725",
     "1792539455648",
     "1792539600371",
     "1792540792789",
@@ -21380,6 +21392,7 @@
     "1792546440730",
     "1792546507012",
     "1792546801127",
+    "1792546911382",
     "1792547046292",
     "1792547702509",
     "1792547760726",
@@ -21390,13 +21403,11 @@
     "1792548480464",
     "1792548480945",
     "1792548595831",
-    "1792548660524",
     "1792548953261",
     "1792549014591",
     "1792549052992",
     "1792549234783",
     "1792549319805",
-    "1792549357701",
     "1792549533833",
     "1792549577936",
     "1792549762025",
@@ -21407,15 +21418,23 @@
     "1792550100176",
     "1792550100553",
     "1792550105778",
-    "1792550188375",
     "1792550391089",
     "1792550689626",
     "1792551102462",
-    "1792551154779",
     "1792551480718",
     "1792551540404",
+    "1792551617252",
     "1792551778795",
     "1792552020008",
+    "1792552138618",
+    "1792552191417",
+    "1792552228195",
+    "1792552534571",
+    "1792552588868",
+    "1792552694638",
+    "1792552786996",
+    "1792552806712",
+    "1792553159701",
     "1792569600029",
     "1792569600074",
     "1792569600732",
@@ -21509,8 +21528,8 @@
     "2325103",
     "2325239"
   ],
-  "last_digest_hour": "2026-10-21T08",
-  "last_success": "2026-10-21T03:15:57.177212+00:00",
+  "last_digest_hour": "2026-10-21T09",
+  "last_success": "2026-10-21T03:31:25.932030+00:00",
   "national": {
     "alerted": [
       {
@@ -30018,10 +30037,9 @@
       },
       "warned": "2026-10-20T21:46:56.793644+00:00"
     },
-    "last_run": "2026-10-21T03:16:35.949804+00:00",
+    "last_run": "2026-10-21T03:32:34.755873+00:00",
     "pib_mark": 2325655,
     "seen": [
-      "gazette:CG-DL-E-01102026-276683",
       "gazette:CG-DL-E-01102026-276685",
       "gazette:CG-DL-E-01102026-276686",
       "gazette:CG-DL-E-01102026-276687",
@@ -32485,6 +32503,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-praveen-sharma-on-winning-bronze-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-manish-narwal-on-winning-silver-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-himanshu-nandal-on-winning-bronze-at-the-asian-para-games",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63824",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -32946,7 +32965,6 @@
       "mea:41884",
       "mea:41886",
       "dgft-public-notice:30f7da90-cb2f-4ef6-aa9b-77cf7767702d",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63824",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63825",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63827",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63826",
@@ -33020,7 +33038,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168631",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168636",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168632",
-      "pib:2325655"
+      "pib:2325655",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63834"
     ],
     "source_failures": {
       "CBI": {
@@ -33091,26 +33110,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Reliance Jio IPO opens for public subscription with \u20b930,213 cr issue",
-      "post": {
-        "created_at": "2026-10-21T02:26:17+00:00",
-        "handle": "News: India telecom",
-        "id": "1792549577936",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "Reliance Jio IPO: Massive \u20b930,213 cr issue opens for subscription today | Latest GMP, review, listing price prediction",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNa00wOTd3Z1Q2aHAyZ0J3dk03TWJyVkF0Nnlpdkl4eWdJX0VXcWRQek1TWVNqNDAwWFNGTzFDT2tnNkpGNFJGRFR3UE5ybnhHQldDZ0F3TDFUNVplMF9DdjVUbUUwYVVRZjBxWWhxd3BvY2VnX19CYWM5MDRobDB0dWhzT0w3S0JNMXFUMUdFSkd1ZHp1S2w2ZERYaVRNOVN5ZnlwU2d3UEVfNC1FSjh5c01NUFhPcVljZk15VGNQME5QU1BzcVQyZlFQLXJsS1YtRWdkQjdyb1lsMi14YXdKMC1hbHV3ZWd0WWVlX01FN2NucmFocHN5VGdwejVrLW1LeXpzcFVFOFQ1TkJNUFVF0gGUAkFVX3lxTFBBX2xrZmYxb2FOdXZKclJodlhLVTdlQVVDa0QzUHBqQ0EyX1FuWVBVSjNwdS0tbXVnNVFlRHhMb3NieVloM3BnNlN3T0E1NmdzWktqT2Vud2V2QW9QVE1uMS1GaXZVVVhVUVh6Q2pyRVlrMXNOb0RWekprVkt6S0Z3ZzNpU08wRkJFUHp0X0xZNVhHTkNyVWMyWV9NYnZqdHRnZVR4bFR0SkVkSlI0UmdzWGlhbG9maEl3dlBXSUtUM0JMa1l3WDBaNlVQS3Ezd0xsNGtaVWRRSGZzWjNqTkhwWnRlTlJidFNxQ3VBT2lYN2FYVkh1c0h5UU9VTjVuUUFBakYxYXRUY0JVMmF0YUpDMHJTNQ?oc=5"
-      },
-      "queued_at": "2026-10-21T02:45:56.332255+00:00",
-      "score": 10.0,
-      "why": "Major milestone for the previously tracked Jio Platforms IPO as public bidding officially opens."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -34209,7 +34209,7 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792497622383,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792551480718,
+    "news: big tech platforms": 1792553159701,
     "news: consumer internet india": 1792549850900,
     "news: global ai": 1792551778795,
     "news: global chips": 1792550400589,
@@ -34219,8 +34219,8 @@
     "news: india fintech": 1792548595831,
     "news: india semiconductors": 1792550080181,
     "news: india tech policy": 1792501200185,
-    "news: india telecom": 1792552020008,
-    "news: indian it majors": 1792549319805,
+    "news: india telecom": 1792552694638,
+    "news: indian it majors": 1792552786996,
     "news: indian it midcaps": 1792550689626,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792537459158,
@@ -34268,17 +34268,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-21T03:15:57.513376+00:00",
+    "last_server_run": "2026-10-21T03:31:26.265181+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-21T01:32:08.495748+00:00",
+        "checked": "2026-10-21T03:32:20.547215+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-21T01:32:00.627939+00:00",
+        "checked": "2026-10-21T03:32:12.705546+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -34354,7 +34354,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-21T01:32:04.419369+00:00",
+        "checked": "2026-10-21T03:32:16.597869+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -34408,11 +34408,11 @@
       },
       "last": {
         "calendar": "2026-10-21T02:01:58.900077+00:00",
-        "ls_reports": "2026-10-21T01:31:47.008607+00:00",
-        "rs_committee_press": "2026-10-21T01:31:55.338748+00:00",
-        "rs_press": "2026-10-21T01:31:52.800559+00:00",
-        "rs_reports": "2026-10-21T01:31:50.452695+00:00",
-        "rs_updates": "2026-10-21T01:31:56.790947+00:00"
+        "ls_reports": "2026-10-21T03:31:55.972029+00:00",
+        "rs_committee_press": "2026-10-21T03:32:06.814972+00:00",
+        "rs_press": "2026-10-21T03:32:03.206122+00:00",
+        "rs_reports": "2026-10-21T03:31:59.980554+00:00",
+        "rs_updates": "2026-10-21T03:32:08.583782+00:00"
       }
     },
     "scanned": [
@@ -37717,7 +37717,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-21T03:16:39.317210+00:00",
+    "last_run": "2026-10-21T03:32:38.574683+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -39328,7 +39328,12 @@
       "x:2112716711338389973",
       "x:2112733107635802559",
       "x:2112733111335174200",
-      "x:2112741677362561202"
+      "x:2112741677362561202",
+      "x:2112744432357286073",
+      "x:2112746052680069209",
+      "x:2112747071983989218",
+      "x:2112747353073488147",
+      "x:2112747566362468751"
     ],
     "source_failures": {},
     "sources": []
