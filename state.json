@@ -13189,9 +13189,11 @@
       "CG-UP-E-19102026-277293"
     ],
     "health": {
-      "down": {}
+      "down": {
+        "IRDAI": "2026-10-21T01:18:28.168885+00:00"
+      }
     },
-    "last_run": "2026-10-21T01:02:25.811050+00:00",
+    "last_run": "2026-10-21T01:18:29.569563+00:00",
     "pib_mark": 2325620,
     "seen": [
       "pib:2320137",
@@ -15447,7 +15449,11 @@
       "mea:41895",
       "mea:41896"
     ],
-    "source_failures": {},
+    "source_failures": {
+      "IRDAI": {
+        "count": 1
+      }
+    },
     "sources": [
       "CCI",
       "CERT-In",
@@ -15501,12 +15507,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791890165532",
-    "1791890165703",
-    "1791890237398",
-    "1791890546628",
-    "1791890602061",
-    "1791932520581",
     "1791936000912",
     "1791936084108",
     "1791942736816",
@@ -19952,16 +19952,19 @@
     "1792521990583",
     "1792537160701",
     "1792538641812",
-    "1792471920758",
     "1792489200146",
     "1792533123222",
     "1792537693126",
     "1792468235119",
     "1792509679898",
     "1792522549180",
-    "1792534140908",
     "1792537920977",
-    "1792540815007",
+    "1790100000357",
+    "1792458376028",
+    "1792464660748",
+    "1792492834298",
+    "1792497602298",
+    "1792522842070",
     "1744200000775",
     "1746619200351",
     "1746619200551",
@@ -20812,7 +20815,6 @@
     "1790064000172",
     "1790081961621",
     "1790094721495",
-    "1790100000357",
     "1790100175347",
     "1790110800092",
     "1790115673468",
@@ -21202,7 +21204,6 @@
     "1792441871457",
     "1792447218972",
     "1792454400048",
-    "1792458376028",
     "1792459800174",
     "1792459800703",
     "1792460580297",
@@ -21211,7 +21212,6 @@
     "1792462450125",
     "1792464240037",
     "1792464360580",
-    "1792464660748",
     "1792464720248",
     "1792465081700",
     "1792467057510",
@@ -21226,6 +21226,7 @@
     "1792470151112",
     "1792471835969",
     "1792471866957",
+    "1792471920758",
     "1792472400592",
     "1792473622423",
     "1792474747392",
@@ -21235,6 +21236,7 @@
     "1792479000112",
     "1792479153899",
     "1792479358837",
+    "1792479600354",
     "1792480276849",
     "1792480800527",
     "1792481756871",
@@ -21274,7 +21276,6 @@
     "1792490820976",
     "1792491154325",
     "1792492589588",
-    "1792492834298",
     "1792493040545",
     "1792493632713",
     "1792494025593",
@@ -21286,7 +21287,6 @@
     "1792496640510",
     "1792497600528",
     "1792497600561",
-    "1792497602298",
     "1792497622383",
     "1792497622769",
     "1792497848637",
@@ -21360,7 +21360,6 @@
     "1792521504120",
     "1792521660114",
     "1792521990308",
-    "1792522842070",
     "1792523016030",
     "1792523523916",
     "1792523761925",
@@ -21388,6 +21387,7 @@
     "1792532101661",
     "1792533099439",
     "1792533397038",
+    "1792534140908",
     "1792534491832",
     "1792535042808",
     "1792535580303",
@@ -21402,9 +21402,11 @@
     "1792538956975",
     "1792538959126",
     "1792539240682",
+    "1792539450725",
     "1792539455648",
     "1792539600371",
     "1792540807035",
+    "1792540815007",
     "1792541372787",
     "1792541520498",
     "1792541552624",
@@ -21412,6 +21414,10 @@
     "1792542600372",
     "1792542601625",
     "1792543149274",
+    "1792543547698",
+    "1792544289385",
+    "1792544326870",
+    "1792544400126",
     "2317509",
     "2317615",
     "2317714",
@@ -21503,7 +21509,7 @@
     "2325239"
   ],
   "last_digest_hour": "2026-10-21T06",
-  "last_success": "2026-10-21T01:01:23.708872+00:00",
+  "last_success": "2026-10-21T01:16:08.410942+00:00",
   "national": {
     "alerted": [
       {
@@ -30005,16 +30011,15 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-10-21T01:02:13.915738+00:00",
+        "IRDAI": "2026-10-21T01:17:09.837418+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-20T21:46:56.793644+00:00"
     },
-    "last_run": "2026-10-21T01:02:15.323158+00:00",
+    "last_run": "2026-10-21T01:17:15.405225+00:00",
     "pib_mark": 2325620,
     "seen": [
-      "pib:2317992",
       "pib:2317994",
       "pib:2317993",
       "pib:2317998",
@@ -32484,7 +32489,6 @@
       "pib:2325620",
       "site:ICC|https://www.icc-cricket.com/media-releases/verma-reprimanded-for-breaching-icc-code-of-conduct",
       "site:ICC|https://www.icc-cricket.com/media-releases/nandani-and-kranti-climb-icc-women-s-t20i-bowling-rankings-as-australia-stars-make-odi-gains",
-      "npci:620",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -32505,6 +32509,7 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
+      "npci:620",
       "page:https://internal.imd.gov.in/press_release/20260910_pr_5304.pdf",
       "page:https://internal.imd.gov.in/press_release/20260916_pr_5319.pdf",
       "page:https://internal.imd.gov.in/press_release/20260915_pr_5317.pdf",
@@ -33013,14 +33018,15 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-himanshu-nandal-on-winning-bronze-at-the-asian-para-games",
       "mea:41895",
       "mea:41896",
-      "quake:usgs:us6000u3r1"
+      "quake:usgs:us6000u3r1",
+      "quake:ncs:V0hSeC9ydE9Fd0hzMVk4c2pGTGpTZz09"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "NPCI": {
+      "IRDAI": {
         "count": 1
       },
       "State: Maharashtra": {
@@ -34218,17 +34224,17 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792497622383,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792543149274,
+    "news: big tech platforms": 1792544326870,
     "news: consumer internet india": 1792508614584,
-    "news: global ai": 1792541520498,
-    "news: global chips": 1792539600371,
+    "news: global ai": 1792544289385,
+    "news: global chips": 1792543547698,
     "news: global it services": 1792529880536,
     "news: india ai deeptech": 1792514580886,
     "news: india edtech gaming": 1792514580909,
     "news: india fintech": 1792540807035,
     "news: india semiconductors": 1792428540928,
     "news: india tech policy": 1792501200185,
-    "news: india telecom": 1792541552624,
+    "news: india telecom": 1792544400126,
     "news: indian it majors": 1792542601625,
     "news: indian it midcaps": 1792541372787,
     "news: pib releases": 1790159940641,
@@ -34277,7 +34283,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-21T01:01:23.981191+00:00",
+    "last_server_run": "2026-10-21T01:16:08.848250+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-20T23:16:59.800189+00:00",
@@ -37726,7 +37732,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-21T01:02:18.018599+00:00",
+    "last_run": "2026-10-21T01:17:19.238034+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
