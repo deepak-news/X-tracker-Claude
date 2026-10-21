@@ -13460,6 +13460,29 @@
           "sandbox",
           "telecommunications"
         ]
+      },
+      {
+        "at": "2026-10-21T18:03:53.536995+00:00",
+        "handle": "Gazette Ministry of Road Transport and Highways",
+        "headline": "Government amends Central Motor Vehicles Rules through an extraordinary official notification.",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277325.pdf",
+        "words": [
+          "1989",
+          "2026",
+          "amendment",
+          "cmvr",
+          "extraordinary",
+          "gazette",
+          "highways",
+          "issued",
+          "ministry",
+          "oct",
+          "part",
+          "road",
+          "section",
+          "sub"
+        ]
       }
     ],
     "gazette_mark": 277326,
@@ -13928,15 +13951,15 @@
       "CG-TL-E-21102026-277306",
       "CG-DL-E-21102026-277323",
       "CG-DL-E-21102026-277324",
-      "CG-DL-E-21102026-277326"
+      "CG-DL-E-21102026-277326",
+      "CG-DL-E-21102026-277325"
     ],
     "health": {
       "down": {
-        "CERT-In": "2026-10-21T12:33:36.032318+00:00",
-        "IRDAI": "2026-10-21T17:49:19.389508+00:00"
+        "CERT-In": "2026-10-21T12:33:36.032318+00:00"
       }
     },
-    "last_run": "2026-10-21T17:50:11.932944+00:00",
+    "last_run": "2026-10-21T18:03:53.544457+00:00",
     "pib_mark": 2326348,
     "seen": [
       "pib:2320137",
@@ -15785,6 +15808,7 @@
       "gazette:CG-TL-E-19102026-277284",
       "gazette:CG-DL-E-19102026-277285",
       "gazette:CG-DL-E-19102026-277286",
+      "gazette:SG-DL-E-19102026-277287",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -16196,7 +16220,6 @@
       "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse2026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/postconstableheadconstable_01092026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/finallistmhawebsite.pdf",
-      "gazette:SG-DL-E-19102026-277287",
       "gazette:CG-DL-E-19102026-277289",
       "gazette:CG-DL-E-19102026-277292",
       "gazette:CG-DL-E-19102026-277291",
@@ -16354,15 +16377,13 @@
       "gazette:CG-DL-E-21102026-277324",
       "gazette:CG-DL-E-21102026-277326",
       "pib:2326348",
-      "gazette:CG-DL-E-21102026-277323"
+      "gazette:CG-DL-E-21102026-277323",
+      "gazette:CG-DL-E-21102026-277325"
     ],
     "source_failures": {
       "CERT-In": {
         "count": 3,
         "until": "2026-10-21T19:03:45.460818+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       }
     },
     "sources": [
@@ -16418,14 +16439,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791973500057",
-    "1792033319666",
-    "1792033388943",
-    "1792034268314",
-    "1792036376863",
-    "1792043640961",
-    "1792052040886",
-    "1790258450056",
     "1791971217864",
     "1791971641260",
     "1791993960744",
@@ -20802,19 +20815,13 @@
     "1792594660456",
     "1792594862644",
     "1792597238465",
-    "1792601851013",
     "1792517928351",
     "1792546224712",
     "1792547702509",
-    "1792554938639",
     "1792555204902",
-    "1792557207721",
     "1792560352100",
     "1792567929944",
-    "1792572169878",
     "1792574389448",
-    "1792578780715",
-    "1792578780817",
     "1792580393259",
     "1792581413493",
     "1792587923758",
@@ -20824,8 +20831,22 @@
     "1792593064757",
     "1792593936507",
     "1792595245456",
-    "1792596492723",
     "1792597285594",
+    "1792022400425",
+    "1792554422021",
+    "1792554938022",
+    "1792578780688",
+    "1792580866868",
+    "1792583801095",
+    "1792585020035",
+    "1792595852846",
+    "1792595975964",
+    "1792596834823",
+    "1792598425413",
+    "1792600698172",
+    "1792601851784",
+    "1792603667700",
+    "1792603713172",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -21935,7 +21956,6 @@
     "1792008000711",
     "1792011600719",
     "1792018860784",
-    "1792022400425",
     "1792022400459",
     "1792022400648",
     "1792025450282",
@@ -22090,8 +22110,7 @@
     "1792553640539",
     "1792553698467",
     "1792554240558",
-    "1792554422021",
-    "1792554938022",
+    "1792554938639",
     "1792555029573",
     "1792555200299",
     "1792555200817",
@@ -22103,6 +22122,7 @@
     "1792556573011",
     "1792556760730",
     "1792557000474",
+    "1792557207721",
     "1792557476345",
     "1792558200166",
     "1792559100307",
@@ -22146,6 +22166,7 @@
     "1792570090789",
     "1792570380191",
     "1792571773599",
+    "1792572169878",
     "1792572480295",
     "1792572862651",
     "1792572863912",
@@ -22187,7 +22208,8 @@
     "1792578641570",
     "1792578720879",
     "1792578780677",
-    "1792578780688",
+    "1792578780715",
+    "1792578780817",
     "1792579200682",
     "1792579467935",
     "1792579517584",
@@ -22200,7 +22222,6 @@
     "1792580445196",
     "1792580700313",
     "1792580785247",
-    "1792580866868",
     "1792581224176",
     "1792581568158",
     "1792581631051",
@@ -22217,7 +22238,6 @@
     "1792582740917",
     "1792582760496",
     "1792583640155",
-    "1792583801095",
     "1792583820330",
     "1792584000664",
     "1792584000771",
@@ -22226,7 +22246,6 @@
     "1792584129989",
     "1792584235740",
     "1792584256647",
-    "1792585020035",
     "1792585654093",
     "1792585881826",
     "1792586191025",
@@ -22278,24 +22297,23 @@
     "1792594450948",
     "1792594780713",
     "1792594800182",
+    "1792594800224",
     "1792594920940",
     "1792595640789",
     "1792595653583",
-    "1792595852846",
+    "1792595852607",
     "1792595880004",
     "1792595956831",
-    "1792595975964",
     "1792596048619",
     "1792596120166",
     "1792596304701",
+    "1792596492723",
     "1792596720698",
-    "1792596834823",
     "1792596891123",
     "1792596900195",
     "1792597626672",
     "1792597692295",
     "1792597920554",
-    "1792598425413",
     "1792598536888",
     "1792598638644",
     "1792598660717",
@@ -22306,13 +22324,12 @@
     "1792600320085",
     "1792600503275",
     "1792600548502",
-    "1792600698172",
     "1792600819927",
     "1792601156549",
     "1792601192834",
     "1792601280193",
     "1792601316090",
-    "1792601851784",
+    "1792601851013",
     "1792602005682",
     "1792602120862",
     "1792602190309",
@@ -22322,12 +22339,16 @@
     "1792603261502",
     "1792603326757",
     "1792603328549",
-    "1792603667700",
-    "1792603713172",
+    "1792603713831",
     "1792603736301",
     "1792603860968",
     "1792604160632",
+    "1792604220035",
     "1792604338328",
+    "1792604467942",
+    "1792604520904",
+    "1792604671976",
+    "1792605068991",
     "2317509",
     "2317615",
     "2317714",
@@ -22420,7 +22441,7 @@
     "2326032"
   ],
   "last_digest_hour": "2026-10-21T23",
-  "last_success": "2026-10-21T17:46:04.932862+00:00",
+  "last_success": "2026-10-21T18:01:40.505941+00:00",
   "national": {
     "alerted": [
       {
@@ -31166,7 +31187,8 @@
       "CG-TL-E-21102026-277306",
       "CG-DL-E-21102026-277323",
       "CG-DL-E-21102026-277324",
-      "CG-DL-E-21102026-277326"
+      "CG-DL-E-21102026-277326",
+      "CG-DL-E-21102026-277325"
     ],
     "health": {
       "down": {
@@ -31177,10 +31199,9 @@
       },
       "warned": "2026-10-20T21:46:56.793644+00:00"
     },
-    "last_run": "2026-10-21T17:48:05.593075+00:00",
+    "last_run": "2026-10-21T18:03:05.486520+00:00",
     "pib_mark": 2326348,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-captain-smit-machchhar",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-lovlina-borgohain-on-winning-gold-in-womens-75-kg-boxing-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-indian-mens-quadrant-team-on-winning-historic-bronze-in-sepaktakraw-at-asian-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nethra-kumanan-on-winning-bronze-in-womens-dinghy-event-at-asian-games",
@@ -33545,6 +33566,7 @@
       "gazette:CG-TL-E-19102026-277284",
       "gazette:CG-DL-E-19102026-277285",
       "gazette:CG-DL-E-19102026-277286",
+      "gazette:SG-DL-E-19102026-277287",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -34022,7 +34044,6 @@
       "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse.pdf",
       "gazette:CG-DL-E-19102026-277289",
       "gazette:CG-DL-E-19102026-277291",
-      "gazette:SG-DL-E-19102026-277287",
       "gazette:CG-DL-E-19102026-277292",
       "gazette:CG-DL-E-19102026-277290",
       "gazette:CG-DL-E-19102026-277288",
@@ -34179,7 +34200,8 @@
       "gazette:CG-DL-E-21102026-277323",
       "gazette:CG-DL-E-21102026-277326",
       "gazette:CG-DL-E-21102026-277324",
-      "pib:2326348"
+      "pib:2326348",
+      "gazette:CG-DL-E-21102026-277325"
     ],
     "source_failures": {
       "CBI": {
@@ -34187,7 +34209,7 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "NPCI": {
-        "count": 1
+        "count": 2
       },
       "State: Maharashtra": {
         "count": 19,
@@ -35351,19 +35373,19 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792604160632,
+    "news: big tech platforms": 1792604671976,
     "news: consumer internet india": 1792600503275,
-    "news: global ai": 1792603326757,
-    "news: global chips": 1792603260020,
+    "news: global ai": 1792604520904,
+    "news: global chips": 1792604338328,
     "news: global it services": 1792596720698,
     "news: india ai deeptech": 1792592202970,
     "news: india edtech gaming": 1792556027468,
-    "news: india fintech": 1792594450948,
+    "news: india fintech": 1792605068991,
     "news: india semiconductors": 1792587375642,
     "news: india tech policy": 1792603736301,
-    "news: india telecom": 1792603713172,
+    "news: india telecom": 1792603713831,
     "news: indian it majors": 1792595956831,
-    "news: indian it midcaps": 1792603860968,
+    "news: indian it midcaps": 1792604467942,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792604338328,
     "nvidia": 1792579837435,
@@ -35392,7 +35414,9 @@
     "zoho": 1792579467935
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-10-21T18:01:34.463382+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -35410,7 +35434,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-21T17:46:05.387389+00:00",
+    "last_server_run": "2026-10-21T18:01:40.847255+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-21T16:17:05.909214+00:00",
@@ -36147,6 +36171,7 @@
       "CG-DL-E-21102026-277322",
       "CG-DL-E-21102026-277323",
       "CG-DL-E-21102026-277324",
+      "CG-DL-E-21102026-277325",
       "CG-DL-E-21102026-277326",
       "CG-DL-E-22092026-276358",
       "CG-DL-E-22092026-276359",
@@ -39208,7 +39233,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-21T17:48:09.934717+00:00",
+    "last_run": "2026-10-21T18:03:12.393444+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -41146,7 +41171,9 @@
       "x:2112955958217576576",
       "x:2112956479007559909",
       "x:2112956920965566578",
-      "x:2112960838202277899"
+      "x:2112960838202277899",
+      "x:2112963266460930528",
+      "x:2112963693764030683"
     ],
     "source_failures": {},
     "sources": []
