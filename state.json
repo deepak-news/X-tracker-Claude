@@ -1,92 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-14T16:46:21.822090+00:00",
-      "handle": "xAI",
-      "headline": "xAI launches Grok Voice 3.0 speech-to-speech model",
-      "tier": 1,
-      "url": "https://x.ai/news/grok-voice-3",
-      "words": [
-        "2026",
-        "announcing",
-        "article",
-        "grok",
-        "intelligent",
-        "introducing",
-        "model",
-        "more",
-        "most",
-        "oct",
-        "published",
-        "read",
-        "today",
-        "voice"
-      ]
-    },
-    {
-      "at": "2026-10-14T17:01:54.587333+00:00",
-      "handle": "Cognizant",
-      "headline": "Cognizant named Leader in 2026 Gartner Magic Quadrant",
-      "tier": 1,
-      "url": "https://news.cognizant.com/2026-10-14-Cognizant-Named-a-Leader-in-the-2026-Gartner-R-Magic-Quadrant-TM-for-Custom-Software-Development-Services",
-      "words": [
-        "2026",
-        "article",
-        "cognizant",
-        "custom",
-        "development",
-        "feel",
-        "gartner",
-        "governance",
-        "leader",
-        "magic",
-        "named",
-        "native",
-        "prop",
-        "published"
-      ]
-    },
-    {
-      "at": "2026-10-14T17:31:39.899467+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Zetwerk raises Rs 2,251 crore from anchor investors ahead of IPO",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOalFBWXdSZkotWFFRQVUyUnJmaExjYWo0OUk1eENMcVlEMzVZb1YtSmxuZGlGWnhkengwV2EtZkFUaFR3djhzMmdQbm03TUI1VjY3WU03LVRManF4TmdOMmZ5ZGE3WDlNS0J3a1dsZk1rQV9mVXl4clhuZTNGX2o0OXlncjFKQ1ROWjVqVHNOcFBLMmlNV3dma2lpOEc1R0NndDZyUjZIdzcwM2tIUHlMTGh4bHVaQXBwbURhWFpMeTFRNnpITmhudVN3X3RFaUEzOUh2YUJoMXpUclpqUkxCdlQwNi10cWZWcW5hZDN1WTkzQUxTQnZUMjlvTG5pMzlJdTlWUF9nY1ptM2dsNUxYZVBnNGtoOFFQaGRmdW130gGjAkFVX3lxTE82c1p5V0lBNDd0cWR5dnhkNUdSUlUwWUh0S3BpMjVkNXlsUmE0UWVvRm1vbnFHWEtLb2NidzA2MTFid1dpeFlHWkNycTBqRnh3ZmNhREcwTTBpeXpJWGloT3RBNldQTUpzVEdPRFVNV3FTYW1zdl9MMVVKSVBEc3FqWTh5RXFrZTYzQmFoMS1nWVU4SjUtYWhOZk5PZVRKakZUVldpTFpfSFJLRk9uaUwybzR6VDM3X2tGSlJVSTR4aUFYbVhFNm5YSU0wSndrY0JsbEp0T0RpQm1jZFVHenFPblBETkRMLU1RazFXc3JNQkVlSjV5QlYza3BjNWlpUDQ1V2kzRUdTS2hXLXZHZVNNbXJDOE4yZEpQUGVZSHdMYUR6WQ?oc=5",
-      "words": [
-        "251",
-        "among",
-        "anchor",
-        "bidding",
-        "blackrock",
-        "goldman",
-        "investors",
-        "key",
-        "mops",
-        "nomura",
-        "sachs",
-        "zetwerk"
-      ]
-    },
-    {
-      "at": "2026-10-14T17:31:39.899467+00:00",
-      "handle": "News: Global AI",
-      "headline": "Uday Ruddarraju replaces Sachin Katti as OpenAI infrastructure chief",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOVl3Rk45LWRFWjBaZ0p1TDZQZV9ud1BmYUxtYkVjck1GWWE3amtxamxINVExRVhsVlg5RkFPTF9SSXJrX2R5X29Jb1h5dmllVzdkVmU1M1ZnbnlPWXMtVmpLOTNkUmRrOXFNQnlTbU9JZ1BnbENIMThlVEt6UDc3YldocDNsTHNNeHpvVGVNTEk4LWVJdWVtWVFGSmFWNk5hbFYzSHI3VjZYWllqdzJZSEFHQnUtUWVjN1k2azJyLUhWMmRkMWRlMFJwTDBZZllsa3ZaMm04QlJ1UdIB3wFBVV95cUxQbU5ZVERFMXRXUXBqUGtVaHRaZmlneV8tdmhhMnpFY3htX0NkOUxMZXFMQW5jdUpLRkVpUlB1YUFUS1VydmdjMWhjUDBZMmpYQ1lOSDZfTUs1SDlfbmNaVlRIaERQRGlsZU5RM1Zac0llY0RibkpDZWJ0Z29IdWRFVHY3SzJOdkJKaHlSTTExLU83WENvU2pKT2lxUERXU1FuM1pKUmRvSmZiNy0xc2xzVVI2RDdINXoxNm9LdkZ5cWRDUnhDMzFwalRNYmx5MEtuU3I3cEFtaUFoaG40Snkw?oc=5",
-      "words": [
-        "chief",
-        "compute",
-        "infrastructure",
-        "katti",
-        "openai",
-        "origin",
-        "replace",
-        "ruddarraju",
-        "sachin",
-        "uday"
-      ]
-    },
-    {
       "at": "2026-10-14T17:31:39.899467+00:00",
       "handle": "News: Indian IT majors",
       "headline": "FDE postings jump significantly in India as engineering demand shifts",
@@ -7520,6 +7434,82 @@
         "state",
         "visits"
       ]
+    },
+    {
+      "at": "2026-10-21T15:31:32.160467+00:00",
+      "handle": "News: India tech policy",
+      "headline": "MeitY and CERT-In probe eMudhra security incident and certificate flaws",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMk1OenN5dkhtdTNmcUVJQjF2XzlOOU1NdzE3Q2otYTdTUUEyTlhEVHByeFYzNkxxUHVvUkw1R0Y0TUx0RDFzUTFvOGZBUlA1NXdDN045TWN2dFpVSnp4UW9raEpHcU1KS3pOWGRpX21wcEdvd3gxS29pTG94Z1BQSzcxNDh4REtMN1FnaDVabDFoaFRmLUxuRUp5Wno1ek9MVEQ3YzhxS3BkallqRGNoWDBscENWR2dhZVlPdzhacTVERGlYVFphbUcyZ0JKcU95YW1pdW5WbTFDX0nSAeMBQVVfeXFMUDlpOVNENHY2SHY1WnhmLUU5V2pweElrckNUcElPRGJRRnNMaVVpTk1rLWRMUXNSQnpqTnVBQ2g2b1FaWWc4eE9WRGNiTHFHcElrLVdfM21odm1BR2hZQmt4LXJvMnVybVBGR2JQeHVlQXpqQW9wQlFkN2cyMmU5MHM0RF9zQk5LRXEtQjFVOFVocVhnTnRKT3c2Y1p0ckQ1TjJudWpjcGcxd0FrM0FITHhSTzRIOE12SXNrVzduQXExVlFzX19meUdrY25ucHQxSFZSU0ZGMGVJTEh5UFVzcnRjQjQ?oc=5",
+      "words": [
+        "cert",
+        "emudhra",
+        "flags",
+        "glitch",
+        "incident",
+        "meity",
+        "mitigations",
+        "panel",
+        "probe",
+        "security",
+        "sets"
+      ]
+    },
+    {
+      "at": "2026-10-21T15:31:32.160467+00:00",
+      "handle": "News: India tech policy",
+      "headline": "MeitY calls eMudhra security incident impact very limited",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNjBXUXBxVl9Kamc5Q3JzakNva3FVOUYtQXhkTllZX1pjb3cwN2xOWWtQU3BQSXJ2aVhCWVVmMS12MHQ4cmFwR1JqM1ZvZjdoWk9WUUtJanE1SkpVd0E2ZDM1V2dtYUhkSFNMdGtqTmJHN1dmMDgwbmhuMWY3c0QxNXJTSS1zZGlqd094VHhuSDFQMUdFV3V2MEw2djUwTlNSZmRWR0x2eU9LbVpxLTlZZW9TN1ZWRGlVVjhsNnJYbHp1TkVKUnh3Sk9uSktSWERWT3RmVjZLV0xjTmlBdEZsWnFoWGlibnc2STFHdWdJellrSk5YVGY40gH8AUFVX3lxTE1JVG5DbTluWXZHQ1BHTWw1X09samI4VEc0cWMtaGNkRy05UDl1eXVndGhpdDJiRWJmTm9uZFRiY1JIaGp4S1N6ZFFhNlZYeGYtUE5KeXNlX3huUWxsWkJaYzJhSks4M3U2VWFyUmpnY0pNNUtIRUNuZWhZVkdsRnI4b2xyNlJPRmhFZXFJWXVQWDlqeEJoZkJLU2hOcGZPOG9mVnRhX1VDZ3piYXRUSFBtcUlGSDY0YXRUZXhxdzk1RHZYdGt6VExQV2d2YTY3MUpJNkw4OXhJRG9UaXh2LWtpdzRObUJqR3haTTFpYmhxTTNwSHhYWnJxUm5IOA?oc=5",
+      "words": [
+        "been",
+        "dsc",
+        "emudhra",
+        "esign",
+        "impact",
+        "incident",
+        "limited",
+        "meity",
+        "security",
+        "unaffected",
+        "very"
+      ]
+    },
+    {
+      "at": "2026-10-21T15:31:32.160467+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Persistent Systems launches \u20b94,265-crore QIP at \u20b95,550 floor price",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZUxEQzFPNng4Rkh2V2h3SXFzelRucEUtcHZsYWdGYi0wQmpKYWdncGh2SVNnWFRuQUVqUEx5MWF0R041ZDNnUmg2R1VEaTFmVUtqR3pBczlzamwtZXFqdmFFLUFodjVKbHB4XzdwZTJXNmRrVTd5YVZkcjlscTk1VXkwd2pta04yZ3pzQTFUXzV0UGN2ZVVmNTJVMXlWeVo2RU9hckRPX2gycGEwLVJ1R1hhTGRfelliV3IzeU1jX1FJN1JIVXV1a0NCSmRINl9Sd3J3QThwWElGV21B0gHcAUFVX3lxTE9lTERDMU82eDhGSHZXaHdJcXN6VG5wRS1wdmxhZ0ZiLTBCakphZ2dwaHZJU2dYVG5BRWpQTHkxYXRHTjVkM2dSaDZHVURpMWZVS2pHekFzOXNqbC1lcWp2YUUtQWh2NUpscHhfN3BlMlc2ZGtVN3lhVmRyOWxxOTVVeTB3am1rTjJnenNBMVRfNXRQY3ZlVWY1MlUxeVZ5WjZFT2FyRE9faDJwYTAtUnVHWGFMZF96WWJXcjN5TWNfUUk3UkhVdXVrQ0JKZEg2X1J3cndBOHBYSUZXbUE?oc=5",
+      "words": [
+        "265",
+        "550",
+        "floor",
+        "launches",
+        "per",
+        "persistent",
+        "price",
+        "qip",
+        "sets",
+        "systems"
+      ]
+    },
+    {
+      "at": "2026-10-21T15:31:32.160467+00:00",
+      "handle": "News: Global chips",
+      "headline": "Nvidia targets 14-day AI data centre deployment with modular system",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMzhfcjZqNDRyeGJJU3l1UVdCUUgyUFYwOTN1U3JYRTQzd3U2R19qWDV4azRJS0RfeFhzczFnRkIxc2F6YXNSVDJQbDF2SnI2Q0RuODRFR2FPQ3cyNFhXTkhQbThfdm1QWWx2U09OUEp5dnM0WVJpdWFvU3ZkWks0RXN3b0ZYd1htQ0FkZ09JRGhOM05kR3A1aEVEeFA2dnFoTjZYbnhPRzN4WHFvd0hyeHhYMEtQdGE4OUxpVE5ybThzY2MxSjNQLU1n?oc=5",
+      "words": [
+        "centre",
+        "data",
+        "day",
+        "deployment",
+        "modular",
+        "nvidia",
+        "system",
+        "targets"
+      ]
     }
   ],
   "bureau": {
@@ -13788,7 +13778,7 @@
         "IRDAI": "2026-10-21T15:23:00.029670+00:00"
       }
     },
-    "last_run": "2026-10-21T15:23:01.400365+00:00",
+    "last_run": "2026-10-21T15:34:50.672793+00:00",
     "pib_mark": 2326184,
     "seen": [
       "pib:2320137",
@@ -16162,7 +16152,8 @@
       "pib:2326161",
       "pib:2326163",
       "pib:2326184",
-      "pib:2326165"
+      "pib:2326165",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168638"
     ],
     "source_failures": {
       "CERT-In": {
@@ -16170,7 +16161,7 @@
         "until": "2026-10-21T19:03:45.460818+00:00"
       },
       "IRDAI": {
-        "count": 1
+        "count": 2
       }
     },
     "sources": [
@@ -16226,18 +16217,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791999909507",
-    "1792003740442",
-    "1792009080162",
-    "1792038697462",
-    "1792038919133",
-    "1792041068597",
-    "1790318797256",
-    "1791964569166",
-    "1791974700623",
-    "1791996421170",
-    "1792011300322",
-    "1792025527533",
     "1792034640370",
     "1792044937979",
     "1792045230169",
@@ -20529,7 +20508,6 @@
     "1792577531128",
     "1792578404456",
     "1792578720117",
-    "1792578780688",
     "1792580047178",
     "1792580316422",
     "1792583040387",
@@ -20606,7 +20584,6 @@
     "1792592220525",
     "1792512066826",
     "1792549577936",
-    "1792554938022",
     "1792562827247",
     "1792563266336",
     "1792567757914",
@@ -20622,12 +20599,10 @@
     "1792584180853",
     "1792584242519",
     "1792587349893",
-    "1792588725880",
     "1792589260456",
     "1792589533090",
     "1792593720069",
     "1790157600740",
-    "1792547760726",
     "1792553640957",
     "1792563780027",
     "1792568191750",
@@ -20636,14 +20611,31 @@
     "1792573116415",
     "1792575588827",
     "1792576475786",
-    "1792578728163",
-    "1792580700313",
-    "1792586570877",
     "1792590943814",
     "1792593153948",
     "1792593865474",
     "1792594132414",
     "1792594660456",
+    "1792554938639",
+    "1792559254933",
+    "1792560602462",
+    "1792563166726",
+    "1792563517354",
+    "1792564599119",
+    "1792567043500",
+    "1792569039047",
+    "1792578780817",
+    "1792580620458",
+    "1792582536095",
+    "1792583100944",
+    "1792583700977",
+    "1792583731853",
+    "1792584235740",
+    "1792586570132",
+    "1792587720266",
+    "1792587825827",
+    "1792587839497",
+    "1792593415948",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -21900,6 +21892,7 @@
     "1792541520498",
     "1792546224712",
     "1792547702509",
+    "1792547760726",
     "1792548595831",
     "1792548953261",
     "1792549319805",
@@ -21913,7 +21906,7 @@
     "1792553640539",
     "1792553698467",
     "1792554422021",
-    "1792554938639",
+    "1792554938022",
     "1792555029573",
     "1792555200299",
     "1792555200817",
@@ -21932,26 +21925,22 @@
     "1792558200166",
     "1792559012450",
     "1792559100307",
-    "1792559254933",
     "1792560352100",
     "1792560573801",
-    "1792560602462",
     "1792560921145",
     "1792560963720",
     "1792560975944",
     "1792561067326",
     "1792561451971",
     "1792561860036",
+    "1792561891853",
     "1792562100364",
     "1792562573300",
     "1792562640933",
     "1792562662077",
     "1792562990958",
-    "1792563166726",
     "1792563220851",
-    "1792563517354",
     "1792564247262",
-    "1792564599119",
     "1792564782065",
     "1792565053982",
     "1792565711435",
@@ -21963,7 +21952,6 @@
     "1792566477257",
     "1792566709378",
     "1792566714355",
-    "1792567043500",
     "1792567176428",
     "1792567929944",
     "1792567960964",
@@ -21972,7 +21960,6 @@
     "1792568313767",
     "1792568520714",
     "1792568527248",
-    "1792569039047",
     "1792569600029",
     "1792569600074",
     "1792569600732",
@@ -22028,8 +22015,9 @@
     "1792578640910",
     "1792578641570",
     "1792578720879",
+    "1792578728163",
     "1792578780677",
-    "1792578780817",
+    "1792578780688",
     "1792579200682",
     "1792579467935",
     "1792579517584",
@@ -22041,7 +22029,7 @@
     "1792580393259",
     "1792580393905",
     "1792580445196",
-    "1792580620458",
+    "1792580700313",
     "1792580739340",
     "1792580785247",
     "1792581224176",
@@ -22059,22 +22047,17 @@
     "1792582305069",
     "1792582435855",
     "1792582514126",
-    "1792582536095",
     "1792582643792",
     "1792582699929",
     "1792582760496",
-    "1792583100944",
     "1792583209229",
     "1792583640155",
-    "1792583700977",
-    "1792583731853",
     "1792583820330",
     "1792584000664",
     "1792584000771",
     "1792584002843",
     "1792584020171",
     "1792584129989",
-    "1792584235740",
     "1792584256647",
     "1792584293045",
     "1792585020035",
@@ -22082,23 +22065,25 @@
     "1792585836584",
     "1792585881826",
     "1792586191025",
-    "1792586570132",
+    "1792586570877",
     "1792587024488",
     "1792587375642",
     "1792587600088",
     "1792587600930",
     "1792587601370",
     "1792587694944",
-    "1792587720266",
-    "1792587825827",
-    "1792587839497",
     "1792587862944",
+    "1792587923758",
     "1792587964935",
     "1792588118507",
     "1792588160482",
     "1792588166001",
     "1792588225650",
+    "1792588485786",
     "1792588521204",
+    "1792588704836",
+    "1792588725880",
+    "1792589020827",
     "1792589039121",
     "1792589081969",
     "1792589626153",
@@ -22110,6 +22095,7 @@
     "1792590603499",
     "1792590731456",
     "1792590796422",
+    "1792590943212",
     "1792590943253",
     "1792591024561",
     "1792591063312",
@@ -22129,13 +22115,18 @@
     "1792593064757",
     "1792593105543",
     "1792593318625",
-    "1792593415948",
     "1792593483874",
     "1792593582833",
     "1792593805644",
     "1792593936095",
+    "1792594450948",
     "1792594780713",
     "1792594920940",
+    "1792595571302",
+    "1792595640789",
+    "1792595880004",
+    "1792595935699",
+    "1792596492723",
     "2317509",
     "2317615",
     "2317714",
@@ -22227,8 +22218,8 @@
     "2325239",
     "2326032"
   ],
-  "last_digest_hour": "2026-10-21T20",
-  "last_success": "2026-10-21T15:16:34.796978+00:00",
+  "last_digest_hour": "2026-10-21T21",
+  "last_success": "2026-10-21T15:31:32.212236+00:00",
   "national": {
     "alerted": [
       {
@@ -30936,15 +30927,16 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "IRDAI": "2026-10-21T15:33:14.584173+00:00",
+        "NPCI": "2026-10-21T15:33:14.584173+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-20T21:46:56.793644+00:00"
     },
-    "last_run": "2026-10-21T15:17:33.320890+00:00",
+    "last_run": "2026-10-21T15:33:23.586960+00:00",
     "pib_mark": 2326184,
     "seen": [
-      "pib:2318498",
       "pib:2318504",
       "pib:2318501",
       "pib:2318516",
@@ -33341,7 +33333,6 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168636",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168632",
       "npci:620",
-      "certin:CIAD-2026-0050",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -33362,6 +33353,7 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
+      "certin:CIAD-2026-0050",
       "certin:CIAD-2026-0046",
       "certin:CIAD-2026-0047",
       "certin:CIAD-2026-0048",
@@ -33943,12 +33935,19 @@
       "pib:2326161",
       "pib:2326163",
       "pib:2326165",
-      "pib:2326184"
+      "pib:2326184",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168638"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "IRDAI": {
+        "count": 1
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -34010,80 +34009,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "MeitY and CERT-In probe eMudhra security incident and certificate flaws",
-      "post": {
-        "created_at": "2026-10-21T14:27:39+00:00",
-        "handle": "News: India tech policy",
-        "id": "1792592859437",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV Profit",
-        "reposts": 0,
-        "text": "eMudhra Security Incident: MeitY Sets Up Panel To Probe Security Glitch; CERT-In Flags Mitigations",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMk1OenN5dkhtdTNmcUVJQjF2XzlOOU1NdzE3Q2otYTdTUUEyTlhEVHByeFYzNkxxUHVvUkw1R0Y0TUx0RDFzUTFvOGZBUlA1NXdDN045TWN2dFpVSnp4UW9raEpHcU1KS3pOWGRpX21wcEdvd3gxS29pTG94Z1BQSzcxNDh4REtMN1FnaDVabDFoaFRmLUxuRUp5Wno1ek9MVEQ3YzhxS3BkallqRGNoWDBscENWR2dhZVlPdzhacTVERGlYVFphbUcyZ0JKcU95YW1pdW5WbTFDX0nSAeMBQVVfeXFMUDlpOVNENHY2SHY1WnhmLUU5V2pweElrckNUcElPRGJRRnNMaVVpTk1rLWRMUXNSQnpqTnVBQ2g2b1FaWWc4eE9WRGNiTHFHcElrLVdfM21odm1BR2hZQmt4LXJvMnVybVBGR2JQeHVlQXpqQW9wQlFkN2cyMmU5MHM0RF9zQk5LRXEtQjFVOFVocVhnTnRKT3c2Y1p0ckQ1TjJudWpjcGcxd0FrM0FITHhSTzRIOE12SXNrVzduQXExVlFzX19meUdrY25ucHQxSFZSU0ZGMGVJTEh5UFVzcnRjQjQ?oc=5"
-      },
-      "queued_at": "2026-10-21T14:46:26.635597+00:00",
-      "score": 8.0,
-      "why": "Government regulatory and cybersecurity interventions involving certification authorities constitute a major tech policy story."
-    },
-    {
-      "headline": "MeitY calls eMudhra security incident impact very limited",
-      "post": {
-        "created_at": "2026-10-21T14:39:42+00:00",
-        "handle": "News: India tech policy",
-        "id": "1792593582833",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Today",
-        "reposts": 0,
-        "text": "'Impact has been very limited': MeitY on eMudhra security incident, says Indian DSC and eSign unaffected",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNjBXUXBxVl9Kamc5Q3JzakNva3FVOUYtQXhkTllZX1pjb3cwN2xOWWtQU3BQSXJ2aVhCWVVmMS12MHQ4cmFwR1JqM1ZvZjdoWk9WUUtJanE1SkpVd0E2ZDM1V2dtYUhkSFNMdGtqTmJHN1dmMDgwbmhuMWY3c0QxNXJTSS1zZGlqd094VHhuSDFQMUdFV3V2MEw2djUwTlNSZmRWR0x2eU9LbVpxLTlZZW9TN1ZWRGlVVjhsNnJYbHp1TkVKUnh3Sk9uSktSWERWT3RmVjZLV0xjTmlBdEZsWnFoWGlibnc2STFHdWdJellrSk5YVGY40gH8AUFVX3lxTE1JVG5DbTluWXZHQ1BHTWw1X09samI4VEc0cWMtaGNkRy05UDl1eXVndGhpdDJiRWJmTm9uZFRiY1JIaGp4S1N6ZFFhNlZYeGYtUE5KeXNlX3huUWxsWkJaYzJhSks4M3U2VWFyUmpnY0pNNUtIRUNuZWhZVkdsRnI4b2xyNlJPRmhFZXFJWXVQWDlqeEJoZkJLU2hOcGZPOG9mVnRhX1VDZ3piYXRUSFBtcUlGSDY0YXRUZXhxdzk1RHZYdGt6VExQV2d2YTY3MUpJNkw4OXhJRG9UaXh2LWtpdzRObUJqR3haTTFpYmhxTTNwSHhYWnJxUm5IOA?oc=5"
-      },
-      "queued_at": "2026-10-21T15:02:22.129651+00:00",
-      "score": 8.0,
-      "why": "A direct official government statement and regulatory move regarding a major security incident involving eMudhra certificates."
-    },
-    {
-      "headline": "Persistent Systems launches \u20b94,265-crore QIP at \u20b95,550 floor price",
-      "post": {
-        "created_at": "2026-10-21T14:45:36+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1792593936095",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "Persistent Systems launches \u20b94,265-crore QIP; sets floor price at \u20b95,550 per share",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZUxEQzFPNng4Rkh2V2h3SXFzelRucEUtcHZsYWdGYi0wQmpKYWdncGh2SVNnWFRuQUVqUEx5MWF0R041ZDNnUmg2R1VEaTFmVUtqR3pBczlzamwtZXFqdmFFLUFodjVKbHB4XzdwZTJXNmRrVTd5YVZkcjlscTk1VXkwd2pta04yZ3pzQTFUXzV0UGN2ZVVmNTJVMXlWeVo2RU9hckRPX2gycGEwLVJ1R1hhTGRfelliV3IzeU1jX1FJN1JIVXV1a0NCSmRINl9Sd3J3QThwWElGV21B0gHcAUFVX3lxTE9lTERDMU82eDhGSHZXaHdJcXN6VG5wRS1wdmxhZ0ZiLTBCakphZ2dwaHZJU2dYVG5BRWpQTHkxYXRHTjVkM2dSaDZHVURpMWZVS2pHekFzOXNqbC1lcWp2YUUtQWh2NUpscHhfN3BlMlc2ZGtVN3lhVmRyOWxxOTVVeTB3am1rTjJnenNBMVRfNXRQY3ZlVWY1MlUxeVZ5WjZFT2FyRE9faDJwYTAtUnVHWGFMZF96WWJXcjN5TWNfUUk3UkhVdXVrQ0JKZEg2X1J3cndBOHBYSUZXbUE?oc=5"
-      },
-      "queued_at": "2026-10-21T15:02:22.129651+00:00",
-      "score": 8.0,
-      "why": "A major capital-raising exercise and QIP launch by a listed Indian IT company."
-    },
-    {
-      "headline": "Nvidia targets 14-day AI data centre deployment with modular system",
-      "post": {
-        "created_at": "2026-10-21T13:55:43+00:00",
-        "handle": "News: Global chips",
-        "id": "1792590943814",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Hindu",
-        "reposts": 0,
-        "text": "NVIDIA targets 14-day AI data centre deployment with modular system",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMzhfcjZqNDRyeGJJU3l1UVdCUUgyUFYwOTN1U3JYRTQzd3U2R19qWDV4azRJS0RfeFhzczFnRkIxc2F6YXNSVDJQbDF2SnI2Q0RuODRFR2FPQ3cyNFhXTkhQbThfdm1QWWx2U09OUEp5dnM0WVJpdWFvU3ZkWks0RXN3b0ZYd1htQ0FkZ09JRGhOM05kR3A1aEVEeFA2dnFoTjZYbnhPRzN4WHFvd0hyeHhYMEtQdGE4OUxpVE5ybThzY2MxSjNQLU1n?oc=5"
-      },
-      "queued_at": "2026-10-21T15:02:22.129651+00:00",
-      "score": 7.0,
-      "why": "A major global hardware and infrastructure product and deployment move by Nvidia."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -35184,18 +35110,18 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792594660456,
+    "news: big tech platforms": 1792596492723,
     "news: consumer internet india": 1792593483874,
     "news: global ai": 1792594780713,
     "news: global chips": 1792592420741,
     "news: global it services": 1792580393259,
     "news: india ai deeptech": 1792592202970,
     "news: india edtech gaming": 1792556027468,
-    "news: india fintech": 1792593415948,
+    "news: india fintech": 1792594450948,
     "news: india semiconductors": 1792587375642,
     "news: india tech policy": 1792593865474,
-    "news: india telecom": 1792593318625,
-    "news: indian it majors": 1792591024561,
+    "news: india telecom": 1792595880004,
+    "news: indian it majors": 1792595935699,
     "news: indian it midcaps": 1792593936095,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792594920940,
@@ -35243,7 +35169,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-21T15:16:35.189376+00:00",
+    "last_server_run": "2026-10-21T15:31:32.487145+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-21T14:03:38.627455+00:00",
@@ -38982,7 +38908,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-21T15:22:07.184328+00:00",
+    "last_run": "2026-10-21T15:33:32.488900+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -40871,7 +40797,11 @@
       "x:2112919831108571482",
       "x:2112920381799772304",
       "x:2112921864959930708",
-      "x:2112923556137111986"
+      "x:2112923556137111986",
+      "x:2112925723438772349",
+      "x:2112926515340181770",
+      "x:2112927149879603542",
+      "x:2112928161080160479"
     ],
     "source_failures": {},
     "sources": []
