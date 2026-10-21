@@ -13191,7 +13191,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-21T00:32:18.103557+00:00",
+    "last_run": "2026-10-21T00:46:54.257308+00:00",
     "pib_mark": 2325620,
     "seen": [
       "pib:2320137",
@@ -15501,11 +15501,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1791890068495",
-    "1791949140562",
-    "1791949544726",
-    "1791955455457",
-    "1791964002049",
     "1791969924492",
     "1791890165532",
     "1791890165703",
@@ -19901,7 +19896,6 @@
     "1792520030243",
     "1792526661364",
     "1792527622190",
-    "1792467057510",
     "1792505091532",
     "1792522435246",
     "1792526040325",
@@ -19942,7 +19936,6 @@
     "1792510260235",
     "1792512914892",
     "1792520875180",
-    "1792509679898",
     "1792513318409",
     "1792519332070",
     "1792462560757",
@@ -19953,15 +19946,20 @@
     "1792533540829",
     "1792535987364",
     "1792456200314",
-    "1792468235119",
     "1792504604515",
     "1792507055419",
     "1792510801044",
     "1792514580481",
     "1792521990583",
-    "1792522842070",
     "1792537160701",
     "1792538641812",
+    "1792022400425",
+    "1792471920758",
+    "1792489200146",
+    "1792492834298",
+    "1792502085314",
+    "1792533123222",
+    "1792537693126",
     "1744200000775",
     "1746619200351",
     "1746619200551",
@@ -21101,7 +21099,6 @@
     "1792008000711",
     "1792011600719",
     "1792018860784",
-    "1792022400425",
     "1792022400459",
     "1792022400648",
     "1792025450282",
@@ -21214,7 +21211,9 @@
     "1792464660748",
     "1792464720248",
     "1792465081700",
+    "1792467057510",
     "1792467600028",
+    "1792468235119",
     "1792468235350",
     "1792468740924",
     "1792468800186",
@@ -21225,7 +21224,6 @@
     "1792470151112",
     "1792471835969",
     "1792471866957",
-    "1792471920758",
     "1792472400592",
     "1792473622423",
     "1792474747392",
@@ -21262,7 +21260,6 @@
     "1792488424155",
     "1792488960927",
     "1792489055392",
-    "1792489200146",
     "1792489283778",
     "1792489484821",
     "1792490159322",
@@ -21275,7 +21272,6 @@
     "1792490820976",
     "1792491154325",
     "1792492589588",
-    "1792492834298",
     "1792493040545",
     "1792493632713",
     "1792494025593",
@@ -21298,7 +21294,6 @@
     "1792500882289",
     "1792501200185",
     "1792501201834",
-    "1792502085314",
     "1792502640812",
     "1792503003047",
     "1792503240366",
@@ -21326,6 +21321,7 @@
     "1792509145235",
     "1792509434486",
     "1792509531102",
+    "1792509679898",
     "1792510234606",
     "1792510440854",
     "1792511480002",
@@ -21362,6 +21358,7 @@
     "1792521660114",
     "1792521990308",
     "1792522549180",
+    "1792522842070",
     "1792523016030",
     "1792523523916",
     "1792523761925",
@@ -21388,7 +21385,6 @@
     "1792531817816",
     "1792532101661",
     "1792533099439",
-    "1792533123222",
     "1792533397038",
     "1792534140908",
     "1792534491832",
@@ -21401,17 +21397,21 @@
     "1792537283680",
     "1792537459158",
     "1792537500402",
-    "1792537693126",
     "1792537920977",
     "1792538956975",
+    "1792538959126",
     "1792539240682",
     "1792539455648",
     "1792539600371",
     "1792540807035",
     "1792540815007",
     "1792541372787",
+    "1792541520498",
     "1792541552624",
     "1792542359701",
+    "1792542600372",
+    "1792542601625",
+    "1792543149274",
     "2317509",
     "2317615",
     "2317714",
@@ -21503,7 +21503,7 @@
     "2325239"
   ],
   "last_digest_hour": "2026-10-21T06",
-  "last_success": "2026-10-21T00:31:19.312906+00:00",
+  "last_success": "2026-10-21T00:46:03.475942+00:00",
   "national": {
     "alerted": [
       {
@@ -30005,13 +30005,12 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-10-20T18:02:24.082252+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-20T21:46:56.793644+00:00"
     },
-    "last_run": "2026-10-21T00:32:02.888131+00:00",
+    "last_run": "2026-10-21T00:46:43.228734+00:00",
     "pib_mark": 2325620,
     "seen": [
       "pib:2317992",
@@ -32442,7 +32441,6 @@
       "mea:41853",
       "mea:41855",
       "npci:617",
-      "npci:620",
       "dgft-trade-notice:c4e3175a-92a8-4958-86c4-04fe8de32ec3",
       "quake:ncs:blVJbmNGVUR6ZXJYMXBNYmEzTDVvUT09",
       "pib:2325351",
@@ -32485,6 +32483,7 @@
       "pib:2325620",
       "site:ICC|https://www.icc-cricket.com/media-releases/verma-reprimanded-for-breaching-icc-code-of-conduct",
       "site:ICC|https://www.icc-cricket.com/media-releases/nandani-and-kranti-climb-icc-women-s-t20i-bowling-rankings-as-australia-stars-make-odi-gains",
+      "npci:620",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -33020,10 +33019,6 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "NPCI": {
-        "count": 3,
-        "until": "2026-10-21T00:32:36.643215+00:00"
-      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -33084,7 +33079,44 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "OpenAI says its AI agents weakened safety flagging systems",
+      "post": {
+        "created_at": "2026-10-21T00:12:00+00:00",
+        "handle": "News: Global AI",
+        "id": "1792541520498",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Bloomberg",
+        "reposts": 0,
+        "text": "OpenAI Says Its Agents Weakened System That Flags AI Misbehavior",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFJGc1FVd25OZmcxblB2OXpjc1d2WWFLMmJyUXIzRU5HQnVLbHF5VnFhRXNUTFIzOXIwMjRJOXhhRkk5ZmJ3dGlvWnI0SkM1djQ3ZlpXalFNckdnM19DQ2VSeks1LUNBRVZ1SDRJZ1cxclFwRmdIVFpqUmprOUdFc05wSXc0dUFzWTRYRDZBeDRVRm9faTFfdmNRckM4UzZueWRNdEgtdW1vRThqRFdGSEZtX0FZQQ?oc=5"
+      },
+      "queued_at": "2026-10-21T00:46:03.418929+00:00",
+      "score": 8.0,
+      "why": "Major AI company safety disclosure by OpenAI scores high per guidelines."
+    },
+    {
+      "headline": "Wipro GE HealthCare considers fifth India plant and exports",
+      "post": {
+        "created_at": "2026-10-21T00:30:00+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1792542600372",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "Wipro GE HealthCare considering fifth India plant, plans to double exports",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1k0bE5iaUxkemFwZFFvdWF6d0hKRHRHZklfOUJFR2RpU0pCNFI4b2lTWm1sa2ZuR0JPZEZhbVZFVUhVVVZVaHNMRTNyNldtVXBjclRyNnJ6TV9CWWxPTl9OdjhlTTh3aDAtQ1dmbUxHNXlfN3o5QUUyaUlxTElRc1FRNVNhYU5VX3J5d2ZNYjVEWVI1Y0N0UklpV0NodEprTUJySFVJMHV5TDhyenlTOGpPUmZ5S190VEhyUVRMcXpmZUlscjhadlA1UDhLMEJPY084WXlRWFpZVkXSAeABQVVfeXFMT1JHSE1EQ3FhcVFCZmxObWxldFBaMWZUd2xGSm1ReWszbGVJMnF3TmI3UUx5TmI0TUsxTkNCZUllQWgyRHM1Y2FhREQ5NUh2RTRKVU1jWVZQRUZXN2tKcUdrMWttWnBLUEpJS0dBYkNCNjZEMEpiczYzeWt4WWxDRVVteVRKNlBFT3NfdmRxcUFRTEttMnhseDhJa2dpV05hMWhaRE1GaGlxcUgzbzBSX0RfaFhEeUNvM3hPdUt3OEdmU1NKanZkTlQ4cTBrS2lUZXRoVzV2ajNkZV8xYlpSbnc?oc=5"
+      },
+      "queued_at": "2026-10-21T00:46:03.418929+00:00",
+      "score": 8.0,
+      "why": "New manufacturing capex and expansion plans by a major tech-linked company."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -34182,9 +34214,9 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792497622383,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792542359701,
+    "news: big tech platforms": 1792543149274,
     "news: consumer internet india": 1792508614584,
-    "news: global ai": 1792540815007,
+    "news: global ai": 1792541520498,
     "news: global chips": 1792539600371,
     "news: global it services": 1792529880536,
     "news: india ai deeptech": 1792514580886,
@@ -34193,7 +34225,7 @@
     "news: india semiconductors": 1792428540928,
     "news: india tech policy": 1792501200185,
     "news: india telecom": 1792541552624,
-    "news: indian it majors": 1792531380497,
+    "news: indian it majors": 1792542601625,
     "news: indian it midcaps": 1792541372787,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792537459158,
@@ -34223,7 +34255,9 @@
     "zoho": 1791992131559
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-10-21T00:45:58.947452+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -34241,7 +34275,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-21T00:31:19.785853+00:00",
+    "last_server_run": "2026-10-21T00:46:03.813803+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-20T23:16:59.800189+00:00",
@@ -37690,7 +37724,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-21T00:32:06.068040+00:00",
+    "last_run": "2026-10-21T00:46:46.310233+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
