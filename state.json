@@ -2,27 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-15T10:31:34.296055+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Apple Intelligence gains China regulatory approval for October beta release",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeHhPMTdyUm1vd3NDcEViT21CLVh1SGE3a2FvRV9pTnBnUnB0YzN1X1pibS1FMGlBU3pKS0ctNDMtOGx5QUZ1MUJBZzkySkdUcWx3VG9NOGVMQy15TzQ0Y3RYRUNmaXpBRkk1blVUa0hlYWY1UHdyZlNkbEM2YTBmNWpmOG5ScTJ6MzNsUVZKMDdMZUNVUkZvNXFESzFmd0Y1cWlDX2lpU3huUFVzaDgtQzhxUmFZV2o5VE9ISVZ2TS00YUtoMEgwOGRTMWdIOVhmOXA5WjAtOTVKTzRDdE53MUd30gHnAUFVX3lxTE1tTkF1SWgxN2xFdkhNWFpma3BscWQtVWUxUTZkckZtckNnelJVUmdES3NqM2Z0aGhwZkk4d1RzZVVGd2NMOER5d29WSHF6dnpWTk5TVVJDS3dFd2pNc3JXcHFXR2NDeTduRmZyRkFkTVp1M25xektwRmFMM2NmOGJEX3JUeWhHZ0ctWDlMQ0RsbXBDUmp2UFkxUDJTcUstaG5qbHhqRktIWGFxQ3dUQWRSVGFHUXFtbUFDQkd3Ukp0REhsNXZoSzNmUDVyZ3gwOG9kSTlONkUxR3Rld1Z1WUpZX0NYajhJaw?oc=5",
-      "words": [
-        "apple",
-        "approval",
-        "beta",
-        "china",
-        "coming",
-        "cook",
-        "gets",
-        "intelligence",
-        "later",
-        "october",
-        "tim",
-        "version"
-      ]
-    },
-    {
-      "at": "2026-10-15T10:31:34.296055+00:00",
       "handle": "News: India telecom",
       "headline": "Analysis of Reliance Jio's $3.2B IPO filing reveals debt and growth",
       "tier": 0,
@@ -7526,6 +7505,25 @@
         "writes",
         "zomato"
       ]
+    },
+    {
+      "at": "2026-10-22T08:31:26.839763+00:00",
+      "handle": "News: Global chips",
+      "headline": "Samsung Electro-Mechanics secures $2.8 billion chip investment from Tesla and Nvidia",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTVKdGwtT1Q1eW9NVV8zZG9kakgxTk5vendNTS1NcEZYMEZGNE5ERVNCRkM3Qk5XMlZaY0xMeXIwQlYwMzJvQmpxc2M5SVlMbEVKYWpCMEsxSjA1Y1k5b1RkcXRKSFRSeUhQSmVhV2JvZ2V4STZzdmg2YURIOXd2dUVkTDdLQllVTmlNYjB3b0xkY09YMmd0b2ZNcTZSb00xc0R0VW5yZ1l6UkdTREIyTk1zZnVCS3RqcDE4Q0llaGF1UFEtanVTc1VLcF9XVVJyQ0wycmUzbnJZRTQ?oc=5",
+      "words": [
+        "billion",
+        "chip",
+        "electro",
+        "gets",
+        "investment",
+        "mechanics",
+        "nvidia",
+        "report",
+        "samsung",
+        "tesla"
+      ]
     }
   ],
   "bureau": {
@@ -14003,15 +14001,14 @@
       "CG-DL-E-21102026-277325",
       "CG-DL-E-22102026-277328",
       "CG-DL-E-22102026-277329",
-      "CG-DL-E-22102026-277330"
+      "CG-DL-E-22102026-277330",
+      "CG-DL-E-22102026-277327"
     ],
     "health": {
-      "down": {
-        "RBI notifications": "2026-10-22T08:17:43.132654+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-10-22T08:18:19.716061+00:00",
-    "pib_mark": 2326511,
+    "last_run": "2026-10-22T08:33:33.595806+00:00",
+    "pib_mark": 2326519,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -15958,6 +15955,8 @@
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/honble-cm-sri-a-revanth-reddy-participated-in-the-inauguration-of-future-city-police-commissionerate-at-ibrahimpatnam-rangareddy-district/",
       "page:https://internal.imd.gov.in/press_release/20260906_pr_5294.pdf",
       "mea:41826",
+      "page:https://internal.imd.gov.in/press_release/20261022_pr_5423.pdf",
+      "gazette:CG-DL-E-19102026-277291",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13736&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13733&Mode=0",
@@ -15968,9 +15967,7 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13740&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
-      "page:https://internal.imd.gov.in/press_release/20261022_pr_5423.pdf",
       "gazette:CG-DL-E-19102026-277292",
-      "gazette:CG-DL-E-19102026-277291",
       "gazette:CG-DL-E-19102026-277295",
       "gazette:CG-AS-E-19102026-277294",
       "gazette:CG-UP-E-19102026-277293",
@@ -16462,13 +16459,12 @@
       "page:https://internal.imd.gov.in/press_release/20261022_pr_5424.pdf",
       "gazette:CG-DL-E-22102026-277329",
       "gazette:CG-DL-E-22102026-277330",
-      "gazette:CG-DL-E-22102026-277328"
+      "gazette:CG-DL-E-22102026-277328",
+      "certin:CIAD-2026-0051",
+      "pib:2326519",
+      "gazette:CG-DL-E-22102026-277327"
     ],
-    "source_failures": {
-      "RBI notifications": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -16523,14 +16519,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792077873344",
-    "1792078895288",
-    "1792079050384",
-    "1792080420521",
-    "1792083714409",
-    "1792007040223",
-    "1792045440322",
-    "1792055560601",
     "1792065866067",
     "1792067262510",
     "1792067758158",
@@ -20642,7 +20630,6 @@
     "1792622701429",
     "1792627066456",
     "1792633458992",
-    "1792634340941",
     "1792636633465",
     "1792552020008",
     "1792553698467",
@@ -20828,7 +20815,6 @@
     "1792648110351",
     "1792649628240",
     "1792649864561",
-    "1792651020952",
     "1792651230345",
     "1792651290107",
     "1792651746152",
@@ -20844,27 +20830,21 @@
     "1792652893065",
     "1792568169620",
     "1792568313767",
-    "1792582201605",
     "1792607109225",
     "1792614517413",
     "1792626697682",
     "1792635300386",
     "1792635389566",
-    "1792640338523",
     "1792641483523",
     "1792643270456",
     "1792644914974",
-    "1792645737352",
-    "1792645894496",
     "1792649162982",
     "1792652375879",
     "1789631212786",
-    "1792022400425",
     "1792569039047",
     "1792577665053",
     "1792582192565",
     "1792587024488",
-    "1792591029086",
     "1792595956831",
     "1792606319030",
     "1792611880814",
@@ -20872,9 +20852,7 @@
     "1792629000986",
     "1792629120214",
     "1792634616162",
-    "1792636822077",
     "1792637880385",
-    "1792646400490",
     "1792648670456",
     "1792648821799",
     "1792649627224",
@@ -20897,22 +20875,37 @@
     "1792587964935",
     "1792590577267",
     "1792603326757",
-    "1792603620907",
-    "1792613040207",
-    "1792616220188",
     "1792623843119",
     "1792634405232",
     "1792638075991",
     "1792639880222",
     "1792641454809",
     "1792641564618",
-    "1792647034442",
     "1792647586222",
     "1792650078202",
     "1792650278322",
     "1792653980043",
     "1792655078474",
     "1792656084848",
+    "1792576792888",
+    "1792582418334",
+    "1792613142207",
+    "1792613760303",
+    "1792616220547",
+    "1792626600389",
+    "1792626988617",
+    "1792634065383",
+    "1792636822622",
+    "1792640338286",
+    "1792642184072",
+    "1792643897020",
+    "1792645737645",
+    "1792645894691",
+    "1792647034687",
+    "1792649280944",
+    "1792649520601",
+    "1792649612646",
+    "1792655827702",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -22013,6 +22006,7 @@
     "1792008000711",
     "1792011600719",
     "1792018860784",
+    "1792022400425",
     "1792022400459",
     "1792022400648",
     "1792025450282",
@@ -22155,7 +22149,6 @@
     "1792576213593",
     "1792576440662",
     "1792576742453",
-    "1792576792888",
     "1792576807385",
     "1792576860328",
     "1792577068286",
@@ -22183,7 +22176,7 @@
     "1792581224176",
     "1792581724854",
     "1792582192017",
-    "1792582418334",
+    "1792582201605",
     "1792582435543",
     "1792582740917",
     "1792582760496",
@@ -22204,6 +22197,7 @@
     "1792590213620",
     "1792590360061",
     "1792591024561",
+    "1792591029086",
     "1792591200114",
     "1792591482930",
     "1792592192506",
@@ -22237,6 +22231,7 @@
     "1792602000077",
     "1792602190309",
     "1792603328549",
+    "1792603620907",
     "1792603736301",
     "1792603740554",
     "1792603820881",
@@ -22256,17 +22251,16 @@
     "1792610210854",
     "1792611093827",
     "1792612400892",
+    "1792613040207",
     "1792613100712",
-    "1792613142207",
     "1792613221771",
     "1792613280828",
-    "1792613760303",
     "1792613820792",
     "1792614335750",
     "1792615262773",
     "1792616100770",
     "1792616220077",
-    "1792616220547",
+    "1792616220188",
     "1792616400458",
     "1792617259699",
     "1792617427644",
@@ -22280,8 +22274,7 @@
     "1792625225071",
     "1792626120156",
     "1792626399627",
-    "1792626600389",
-    "1792626988617",
+    "1792627200321",
     "1792627480045",
     "1792627917700",
     "1792628064752",
@@ -22295,9 +22288,10 @@
     "1792631218024",
     "1792632480342",
     "1792632601300",
+    "1792633260618",
     "1792633285676",
-    "1792634065383",
     "1792634219712",
+    "1792634340941",
     "1792634580496",
     "1792635119905",
     "1792635967681",
@@ -22307,7 +22301,7 @@
     "1792636210804",
     "1792636505429",
     "1792636633856",
-    "1792636822622",
+    "1792636822077",
     "1792636868612",
     "1792637015017",
     "1792637520847",
@@ -22329,7 +22323,7 @@
     "1792639538472",
     "1792639589003",
     "1792639815570",
-    "1792640338286",
+    "1792640338523",
     "1792640723341",
     "1792640894703",
     "1792641192508",
@@ -22339,7 +22333,6 @@
     "1792641586828",
     "1792641864258",
     "1792642113065",
-    "1792642184072",
     "1792642249381",
     "1792642593972",
     "1792642782960",
@@ -22349,7 +22342,6 @@
     "1792643176850",
     "1792643296957",
     "1792643792786",
-    "1792643897020",
     "1792644169180",
     "1792644780025",
     "1792644914002",
@@ -22363,14 +22355,16 @@
     "1792645227416",
     "1792645256641",
     "1792645380044",
-    "1792645737645",
-    "1792645894691",
+    "1792645737352",
+    "1792645894496",
     "1792645949204",
     "1792646311799",
+    "1792646400490",
     "1792646935977",
-    "1792647034687",
+    "1792647034442",
     "1792647075904",
     "1792647531174",
+    "1792647586683",
     "1792647698188",
     "1792647759992",
     "1792648110167",
@@ -22384,10 +22378,7 @@
     "1792649160042",
     "1792649162232",
     "1792649173732",
-    "1792649280944",
-    "1792649520601",
     "1792649571831",
-    "1792649612646",
     "1792649625367",
     "1792649627581",
     "1792650013295",
@@ -22395,6 +22386,7 @@
     "1792650060804",
     "1792650385240",
     "1792650623048",
+    "1792651020952",
     "1792651208555",
     "1792651320228",
     "1792651334698",
@@ -22429,10 +22421,14 @@
     "1792655061966",
     "1792655100150",
     "1792655558543",
-    "1792655827702",
+    "1792655953872",
     "1792656342059",
+    "1792656414802",
+    "1792656860112",
+    "1792656927043",
     "1792656948850",
     "1792656952190",
+    "1792657531558",
     "2317509",
     "2317615",
     "2317714",
@@ -22524,8 +22520,8 @@
     "2325239",
     "2326032"
   ],
-  "last_digest_hour": "2026-10-22T13",
-  "last_success": "2026-10-22T08:16:01.356610+00:00",
+  "last_digest_hour": "2026-10-22T14",
+  "last_success": "2026-10-22T08:31:26.905427+00:00",
   "national": {
     "alerted": [
       {
@@ -31275,7 +31271,8 @@
       "CG-DL-E-21102026-277325",
       "CG-DL-E-22102026-277328",
       "CG-DL-E-22102026-277329",
-      "CG-DL-E-22102026-277330"
+      "CG-DL-E-22102026-277330",
+      "CG-DL-E-22102026-277327"
     ],
     "health": {
       "down": {
@@ -31286,12 +31283,9 @@
       },
       "warned": "2026-10-21T22:02:29.905771+00:00"
     },
-    "last_run": "2026-10-22T08:17:23.650649+00:00",
-    "pib_mark": 2326511,
+    "last_run": "2026-10-22T08:32:47.420093+00:00",
+    "pib_mark": 2326519,
     "seen": [
-      "quake:ncs:bHpjbGEyRThLeFFCaXBZYUFvVjF2dz09",
-      "page:https://internal.imd.gov.in/press_release/20260820_pr_5247.pdf",
-      "quake:usgs:us6000tzer",
       "quake:ncs:d1czWkZkeE5hZUZTamJEdC9ZaTJvZz09",
       "pib:2318811",
       "pib:2318817",
@@ -34288,7 +34282,10 @@
       "pib:2326511",
       "gazette:CG-DL-E-22102026-277329",
       "gazette:CG-DL-E-22102026-277330",
-      "gazette:CG-DL-E-22102026-277328"
+      "gazette:CG-DL-E-22102026-277328",
+      "pib:2326519",
+      "gazette:CG-DL-E-22102026-277327",
+      "certin:CIAD-2026-0051"
     ],
     "source_failures": {
       "CBI": {
@@ -34296,7 +34293,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "NPCI": {
-        "count": 2
+        "count": 3,
+        "until": "2026-10-22T14:32:05.862372+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -34359,26 +34357,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Samsung Electro-Mechanics secures $2.8 billion chip investment from Tesla and Nvidia",
-      "post": {
-        "created_at": "2026-10-22T07:25:43+00:00",
-        "handle": "News: Global chips",
-        "id": "1792653943856",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Reuters",
-        "reposts": 0,
-        "text": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTVKdGwtT1Q1eW9NVV8zZG9kakgxTk5vendNTS1NcEZYMEZGNE5ERVNCRkM3Qk5XMlZaY0xMeXIwQlYwMzJvQmpxc2M5SVlMbEVKYWpCMEsxSjA1Y1k5b1RkcXRKSFRSeUhQSmVhV2JvZ2V4STZzdmg2YURIOXd2dUVkTDdLQllVTmlNYjB3b0xkY09YMmd0b2ZNcTZSb00xc0R0VW5yZ1l6UkdTREIyTk1zZnVCS3RqcDE4Q0llaGF1UFEtanVTc1VLcF9XVVJyQ0wycmUzbnJZRTQ?oc=5"
-      },
-      "queued_at": "2026-10-22T07:46:03.756047+00:00",
-      "score": 7.0,
-      "why": "It is a major semiconductor capital commitment and supply chain deal involving top industry players."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -35485,21 +35464,21 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792656342059,
+    "news: big tech platforms": 1792657531558,
     "news: consumer internet india": 1792654381626,
     "news: global ai": 1792656342059,
-    "news: global chips": 1792654671856,
+    "news: global chips": 1792656927043,
     "news: global it services": 1792648838541,
     "news: india ai deeptech": 1792651657499,
     "news: india edtech gaming": 1792556027468,
     "news: india fintech": 1792655100150,
     "news: india semiconductors": 1792642113065,
-    "news: india tech policy": 1792652752059,
-    "news: india telecom": 1792655827702,
+    "news: india tech policy": 1792656414802,
+    "news: india telecom": 1792655953872,
     "news: indian it majors": 1792650278322,
     "news: indian it midcaps": 1792651573824,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1792652070213,
+    "news: tech leaders": 1792656860112,
     "nvidia": 1792645256641,
     "nvidia blog": 1792645256641,
     "openai": 1792616400458,
@@ -35511,7 +35490,7 @@
     "razorpay": 1792156871747,
     "redseer": 1792656948850,
     "reg cci": 1792540800839,
-    "reg cert-in": 1792540800902,
+    "reg cert-in": 1792627200321,
     "reg dgft": 1792540800664,
     "reg npci": 1792022400425,
     "salesforce": 1792497600528,
@@ -35526,9 +35505,7 @@
     "zoho": 1792579467935
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-10-22T08:01:40.185136+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -35546,7 +35523,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-22T08:16:01.846816+00:00",
+    "last_server_run": "2026-10-22T08:31:27.336768+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-22T07:32:22.967945+00:00",
@@ -35675,7 +35652,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-10-22T02:16:53.518479+00:00",
+        "at": "2026-10-22T08:31:45.725190+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -35685,7 +35662,7 @@
         }
       },
       "last": {
-        "calendar": "2026-10-22T02:16:56.465597+00:00",
+        "calendar": "2026-10-22T08:31:48.268544+00:00",
         "ls_reports": "2026-10-22T07:31:58.822704+00:00",
         "rs_committee_press": "2026-10-22T07:32:08.706706+00:00",
         "rs_press": "2026-10-22T07:32:05.477227+00:00",
@@ -36304,6 +36281,7 @@
       "CG-DL-E-22092026-276401",
       "CG-DL-E-22092026-276402",
       "CG-DL-E-22092026-276405",
+      "CG-DL-E-22102026-277327",
       "CG-DL-E-22102026-277328",
       "CG-DL-E-22102026-277329",
       "CG-DL-E-22102026-277330",
@@ -39422,7 +39400,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-22T08:17:28.424766+00:00",
+    "last_run": "2026-10-22T08:32:51.988187+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -41534,7 +41512,21 @@
       "x:2113179183623053787",
       "x:2113179678966272337",
       "x:2113180462298624219",
-      "x:2113181082384498804"
+      "x:2113181082384498804",
+      "x:2113088419715031327",
+      "x:2113094404328263731",
+      "x:2113108050899005590",
+      "x:2113117866598023229",
+      "x:2113121342644212082",
+      "x:2113129107760591188",
+      "x:2113181637962002723",
+      "x:2113182252431790171",
+      "x:2113182695266345075",
+      "x:2113183308070957065",
+      "x:2113183660761571500",
+      "x:2113183711311413649",
+      "x:2113184474607558921",
+      "x:2113185038795935788"
     ],
     "source_failures": {},
     "sources": []
