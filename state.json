@@ -2,61 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-15T14:31:55.938259+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Wipro large deal bookings drop to 19-quarter low",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSzdwSU5idlZPRGV4TUVyMzZHNHBMSkRlaFpoOVlWNVZ4ZlExb2xPdEMyNll6UlJPOWhPN0s3ZVBqbmNyTkozMnhGRDNJLUlNQWMyZlQ2bWJrdE5PSXhKTGc4RUpRMlczcXl1Z0w3RUxUZW5HTXVKWmNuOHcwSXhxY1pHUWZXdWRtRV94ejZmMXhieENQeXZ3RzZZQ3VPWHlPMzVJbGN4Mk91WWRQZmZ4aGhJQVBLaEZxWVhsUzJhQWNoamdaMk9mODFlNjk5ek56MThTOGZ3TDFzdC1yUTRrQQ?oc=5",
-      "words": [
-        "bookings",
-        "ceo",
-        "deal",
-        "expects",
-        "hit",
-        "large",
-        "low",
-        "quarter",
-        "rebound",
-        "wipro"
-      ]
-    },
-    {
-      "at": "2026-10-15T14:31:55.938259+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic in talks with MeitY for AI safety testing and transparency",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUy00aVlQRmxVLWo0RFpMTWRIVFRWUzdxYmFpRXd2dTdsQmFaaXdUWXMzZDZkYmNZYTREZEg3Vms1aXgwcHlRb3V6VkJKZFVLOGNCN21WYXNhcW95d0RiUC1qbkNVcnB6YlA2b3ZJTzBJM1BGNkFHb3o2NDFobVVXU1QyUjVoend0MTJyZDEyam5Wbi04LUhXbGxCSFZZbmgtX3NQdjFJaFlXc0pSR1NPWWtlRVhUQU1vQ05ubzg0Rkc5Zkh3b1hZa0wwc0hQZW83R2040gHYAUFVX3lxTE1iZjFqX2N5OHJEY25ncmVSTnVtSVZiRlFoajhGRmtVUWRhdFBZeXBVajFpYktEVXB6Yk9OUGVKSEpuVUpiRGZTZGRkckgwdXdwSU5SZndiV0pOUF9wWVRGc0RJSUZGUkprcG1RR2xjU3hBUkw0Qk1YX0stM0U3TlpuV2Y5V092TzV6bm1XS2xFOTVrclFrOTc2QWVDYmJkUUNEUlNfd2o1Y1pqdTdCbVlKRzVLaEVWRnZQcUgyNWgxMjduazREWHNmUXkxVlNQMWdYUTRCX1lQLQ?oc=5",
-      "words": [
-        "anthropic",
-        "available",
-        "binding",
-        "make",
-        "meity",
-        "models",
-        "safety",
-        "talks",
-        "testing",
-        "transparency",
-        "wants"
-      ]
-    },
-    {
-      "at": "2026-10-15T14:31:55.938259+00:00",
-      "handle": "News: India fintech",
-      "headline": "Groww building in-house AI stack amid rising compute costs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mdUdiUS0xeVU4VHZIRFJQeG1oeGF1OFFZVHVZNS10YWdTQUMxN2NBOVZ3R1pQUE9ndWw3ZFVqaHh3TTkxY0EzRFU1MW9zTlE5WGxyQkpXd3RkckJ3bU1zMGd4Qno0X2g0SWV0a09ZNGFvZktSTVE?oc=5",
-      "words": [
-        "building",
-        "compute",
-        "costs",
-        "groww",
-        "house",
-        "rising",
-        "stack"
-      ]
-    },
-    {
-      "at": "2026-10-15T14:31:55.938259+00:00",
       "handle": "News: India fintech",
       "headline": "Bureau launches silent mobile verification for UPI device binding",
       "tier": 0,
@@ -7519,6 +7464,57 @@
         "platforms",
         "published"
       ]
+    },
+    {
+      "at": "2026-10-22T18:31:38.630112+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI identifies critical cyber vulnerability",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzJFS2w2NlI0VVpZN3NFbHRDcWRLbUdJYlRTcXhPdjNVM1BnaVEtUk5iZ1FnXzRDTjlRNTJ4RjdkRUpHLXdaaGpjcWJhTjZhQnpFeFJ5bEJEMVBSVXhwMmpZLXhxbmozc3RqRV95WGg1d1VEYTlyWW14REFnYTI5a2NfdFNjS3QzUE1YMF82T1B3c0NnTlo5ZExxOGNSU1pHcy1JYlc0WnN4Mi1Oa1E?oc=5",
+      "words": [
+        "catastrophic",
+        "cyber",
+        "find",
+        "flaw",
+        "helped",
+        "openai",
+        "potentially",
+        "watch"
+      ]
+    },
+    {
+      "at": "2026-10-22T18:31:38.630112+00:00",
+      "handle": "News: Global AI",
+      "headline": "Vectorial raises $3 million in funding for consumer behavior AI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNHNJTlhZSlg5ckV6SUU3R21tT0stZlgzVHlqNnBlTDZFb21Ld0lNQ0Z2NUhKRlJXb3BhUG92bkczSnllbnUxLTh4a2p5V0RHV2VBZnlJZG5LLVVYaTc3RFJaa2FJa0J4d0FaaVJUS2x6YkdOUmxuOGxxZ1JMajdpY1pmWTRSUUVlSGxBUndpa1NDd29nWU02VEdYY0Z5VzVvcnJpQXBfSjlfczBjT3FIdkVPc3piRWFXZFZUd2ZzNURhZm15SzV2MmVEMWVUUDRIN2huazEyblkwS3BYaFRwWkZSdW5wNUh60gHuAUFVX3lxTE1heVY4eUpuaTdtdUktWUo4UXdqcEVKVUVBWWw1eDB5ajM3ZEp2QVhZTVFtd3hqVWNFUmhlUlAtZndwOXUyX0VZNy1MV2dTMjdSRUh3SmZWeVV5V2RsbGZkN2VhbEhoSWFrTExydUJMeHlodjR4ZXFHQlFFOEZNN1R4S2Q0ZjZxSXAxUTdwUFo5a29ZUDFySkFJSEI2RTBicEVDQlptdkZrZndOU2d5ZFphUGlSZlRYTDdpcGJvTXd2M18ta3Fqdm0zaDlsdHZzdzR5LTZUTGZ0dEhhdVE5NzJ3VUQ5dU1zY003YVZPWEE?oc=5",
+      "words": [
+        "behaviour",
+        "consumer",
+        "expand",
+        "funding",
+        "million",
+        "model",
+        "predicts",
+        "raises",
+        "vectorial"
+      ]
+    },
+    {
+      "at": "2026-10-22T18:31:38.630112+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta ordered to pay $25 billion penalty",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVo0VXhGV1NWYmpHNDNMSjBraFNpNVdRQXEyVWhMRUlxVFA2Sk5pbE9OdURMS1Y4QnI3aGVqVUJZYjZobUxPRl90bVFCbDFaY2R2N3gxckVyampmZEZBcGdrMUZ6WkpxTlp1MFN1SjBRNmxyRWNuX1VtcWh3TDBhV0xqRTVGUDU3b1pZ?oc=5",
+      "words": [
+        "billion",
+        "facebook",
+        "hit",
+        "meta",
+        "misleading",
+        "penalty",
+        "users"
+      ]
     }
   ],
   "bureau": {
@@ -14696,7 +14692,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-22T18:17:10.744157+00:00",
+    "last_run": "2026-10-22T18:33:27.637731+00:00",
     "pib_mark": 2327053,
     "seen": [
       "pib:2320137",
@@ -16753,6 +16749,11 @@
       "gazette:CG-DL-E-22102026-277335",
       "gazette:CG-DL-E-22102026-277333",
       "gazette:CG-DL-E-22102026-277334",
+      "cci-pr:media-gallery|698",
+      "cci-merger:C-2026/06/1434|Approved",
+      "cci-merger:C-2026/07/1437|Approved",
+      "cci-merger:C-2026/08/1452|Exempt/Not a Combination",
+      "cci-pr:media-gallery|697",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -16907,15 +16908,10 @@
       "cci-pr:media-gallery|706",
       "cci-merger:C-2026/10/1480|Deemed Approved (Section 6(5))",
       "cci-merger:C-2026/08/1451|Approved",
-      "cci-pr:media-gallery|698",
       "cci-pr:media-gallery|703",
-      "cci-merger:C-2026/06/1434|Approved",
-      "cci-merger:C-2026/07/1437|Approved",
       "cci-merger:C-2026/07/1442|Approved",
-      "cci-merger:C-2026/08/1452|Exempt/Not a Combination",
       "cci-pr:media-gallery|702",
       "cci-pr:media-gallery|704",
-      "cci-pr:media-gallery|697",
       "cci-pr:media-gallery|705",
       "cci-merger:C-2026/08/1455|Approved",
       "cci-pr:media-gallery|700",
@@ -17317,7 +17313,9 @@
       "gazette:CG-DL-E-22102026-277351",
       "gazette:CG-WB-E-22102026-277344",
       "mea:41905",
-      "gazette:CG-DL-E-22102026-277355"
+      "gazette:CG-DL-E-22102026-277355",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168646",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168647"
     ],
     "source_failures": {},
     "sources": [
@@ -17374,14 +17372,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792114228724",
-    "1792116657309",
-    "1792119415865",
-    "1792120527754",
-    "1792123087239",
-    "1792124149798",
-    "1792125149113",
-    "1792125324900",
     "1792127870400",
     "1792128049187",
     "1792134195645",
@@ -21480,7 +21470,6 @@
     "1792638540057",
     "1792645949204",
     "1792647923692",
-    "1792649162982",
     "1792653033803",
     "1792662146488",
     "1792665120126",
@@ -21619,7 +21608,6 @@
     "1792669454426",
     "1792674696053",
     "1792678285636",
-    "1792610210854",
     "1792640338497",
     "1792657800269",
     "1792666921449",
@@ -21639,7 +21627,6 @@
     "1792664400198",
     "1792666055390",
     "1792675598695",
-    "1792680389323",
     "1792682052007",
     "1790179200902",
     "1790676000740",
@@ -21669,7 +21656,6 @@
     "1792658641638",
     "1792665780609",
     "1792666188114",
-    "1792666839963",
     "1792667405665",
     "1792667896015",
     "1792677240985",
@@ -21719,14 +21705,11 @@
     "1792410448035",
     "1792419302049",
     "1792420475467",
-    "1792641564618",
     "1792647034442",
     "1792649173732",
-    "1792653881122",
     "1792662187061",
     "1792663892728",
     "1792665610117",
-    "1792669808322",
     "1792670431220",
     "1792677180787",
     "1792679131535",
@@ -21740,7 +21723,6 @@
     "1792638075594",
     "1792658702124",
     "1792658738794",
-    "1792659744108",
     "1792667843725",
     "1792670603493",
     "1792671805503",
@@ -21748,6 +21730,25 @@
     "1792678899642",
     "1792687748536",
     "1792689240082",
+    "1790035200004",
+    "1790035200400",
+    "1790035200591",
+    "1790035200881",
+    "1790035200936",
+    "1792022400425",
+    "1792606677679",
+    "1792606767374",
+    "1792610210332",
+    "1792652979105",
+    "1792659060243",
+    "1792680389690",
+    "1792682054055",
+    "1792682374705",
+    "1792685982363",
+    "1792687500523",
+    "1792689107758",
+    "1792691325243",
+    "1792692403322",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -22567,11 +22568,6 @@
     "1789992053034",
     "1790005601317",
     "1790007084244",
-    "1790035200004",
-    "1790035200400",
-    "1790035200591",
-    "1790035200881",
-    "1790035200936",
     "1790056002703",
     "1790056798801",
     "1790060532360",
@@ -22832,7 +22828,6 @@
     "1792008000711",
     "1792011600719",
     "1792018860784",
-    "1792022400425",
     "1792022400459",
     "1792022400648",
     "1792025450282",
@@ -22983,9 +22978,7 @@
     "1792591200114",
     "1792601156549",
     "1792602000077",
-    "1792606677679",
-    "1792606767374",
-    "1792610210332",
+    "1792610210854",
     "1792613280828",
     "1792616100770",
     "1792616220188",
@@ -23020,6 +23013,7 @@
     "1792640723341",
     "1792640894703",
     "1792641454809",
+    "1792641564618",
     "1792641580988",
     "1792641586828",
     "1792641864258",
@@ -23054,6 +23048,7 @@
     "1792649127517",
     "1792649156715",
     "1792649160042",
+    "1792649162982",
     "1792649280944",
     "1792649864561",
     "1792650058398",
@@ -23076,7 +23071,7 @@
     "1792652752291",
     "1792652760110",
     "1792652893126",
-    "1792652979105",
+    "1792653881122",
     "1792654381549",
     "1792654403308",
     "1792655884512",
@@ -23091,9 +23086,9 @@
     "1792657861290",
     "1792658040581",
     "1792658713103",
-    "1792659060243",
     "1792659424472",
     "1792659586614",
+    "1792659744108",
     "1792660131176",
     "1792660441554",
     "1792660800281",
@@ -23130,6 +23125,7 @@
     "1792666678846",
     "1792666680534",
     "1792666800716",
+    "1792666839963",
     "1792666921898",
     "1792666965608",
     "1792667023516",
@@ -23154,6 +23150,7 @@
     "1792669454873",
     "1792669468917",
     "1792669783847",
+    "1792669808322",
     "1792669934109",
     "1792670116996",
     "1792670355715",
@@ -23212,7 +23209,7 @@
     "1792679877551",
     "1792679914740",
     "1792680355329",
-    "1792680389690",
+    "1792680389323",
     "1792680745361",
     "1792680952744",
     "1792681090469",
@@ -23225,10 +23222,9 @@
     "1792681385978",
     "1792681406641",
     "1792681496318",
-    "1792682054055",
+    "1792682054674",
     "1792682160300",
     "1792682337399",
-    "1792682374705",
     "1792682400426",
     "1792683000291",
     "1792683010515",
@@ -23251,20 +23247,18 @@
     "1792685792251",
     "1792685889886",
     "1792685929465",
-    "1792685982363",
+    "1792685993363",
     "1792686099127",
     "1792686198871",
     "1792686588695",
     "1792686600709",
     "1792686640158",
     "1792686732452",
-    "1792687500523",
     "1792687655592",
     "1792688213459",
     "1792688483627",
     "1792688528918",
     "1792688893779",
-    "1792689107758",
     "1792689716448",
     "1792689795642",
     "1792689859490",
@@ -23272,13 +23266,17 @@
     "1792690116342",
     "1792690500972",
     "1792690598200",
+    "1792690957523",
     "1792691249051",
-    "1792691325243",
     "1792691352794",
     "1792691383861",
     "1792692029651",
     "1792692083301",
-    "1792692403322",
+    "1792692115602",
+    "1792692403253",
+    "1792692832445",
+    "1792692920696",
+    "1792693028949",
     "1792699200319",
     "2317509",
     "2317615",
@@ -23375,8 +23373,8 @@
     "2326639",
     "2326768"
   ],
-  "last_digest_hour": "2026-10-22T23",
-  "last_success": "2026-10-22T18:16:07.855923+00:00",
+  "last_digest_hour": "2026-10-23T00",
+  "last_success": "2026-10-22T18:31:38.698452+00:00",
   "national": {
     "alerted": [
       {
@@ -32389,11 +32387,9 @@
       },
       "warned": "2026-10-21T22:02:29.905771+00:00"
     },
-    "last_run": "2026-10-22T18:16:52.673602+00:00",
+    "last_run": "2026-10-22T18:33:00.948688+00:00",
     "pib_mark": 2327053,
     "seen": [
-      "gazette:CG-DL-E-06102026-276811",
-      "gazette:CG-DL-E-06102026-276810",
       "gazette:CG-DL-E-06102026-276812",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-the-matter-of-shares-bazaar-pvt-ltd-research-analyst_104810.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-lloyd-enterprises-limited_104811.html",
@@ -34752,6 +34748,11 @@
       "gazette:CG-DL-E-22102026-277333",
       "gazette:CG-DL-E-22102026-277334",
       "npci:620",
+      "cci-merger:C-2026/07/1437|Approved",
+      "cci-merger:C-2026/06/1434|Approved",
+      "cci-pr:media-gallery|697",
+      "cci-pr:media-gallery|698",
+      "cci-merger:C-2026/08/1452|Exempt/Not a Combination",
       "certin:CIAD-2026-0050",
       "certin:CIAD-2026-0046",
       "certin:CIAD-2026-0047",
@@ -34892,11 +34893,6 @@
       "page:https://internal.imd.gov.in/press_release/20261017_pr_5414.pdf",
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
       "page:https://internal.imd.gov.in/press_release/20261019_pr_5417.pdf",
-      "cci-merger:C-2026/07/1437|Approved",
-      "cci-merger:C-2026/06/1434|Approved",
-      "cci-pr:media-gallery|697",
-      "cci-pr:media-gallery|698",
-      "cci-merger:C-2026/08/1452|Exempt/Not a Combination",
       "cci-merger:C-2026/09/1475|Deemed Approved (Section 6(5))",
       "cci-merger:C-2026/07/1445|Approved",
       "cci-merger:C-2026/06/1435|Approved",
@@ -35391,7 +35387,9 @@
       "gazette:CG-DL-E-22102026-277355",
       "gazette:CG-WB-E-22102026-277344",
       "mea:41905",
-      "quake:ncs:UHBXUURyU3Jlb0F4VTV3bkwzb0s3Zz09"
+      "quake:ncs:UHBXUURyU3Jlb0F4VTV3bkwzb0s3Zz09",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168647",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168646"
     ],
     "source_failures": {
       "CBI": {
@@ -35459,62 +35457,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "OpenAI identifies critical cyber vulnerability",
-      "post": {
-        "created_at": "2026-10-22T17:48:45+00:00",
-        "handle": "News: Global AI",
-        "id": "1792691325243",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bloomberg",
-        "reposts": 0,
-        "text": "Watch OpenAI Helped Find Potentially Catastrophic Cyber Flaw",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzJFS2w2NlI0VVpZN3NFbHRDcWRLbUdJYlRTcXhPdjNVM1BnaVEtUk5iZ1FnXzRDTjlRNTJ4RjdkRUpHLXdaaGpjcWJhTjZhQnpFeFJ5bEJEMVBSVXhwMmpZLXhxbmozc3RqRV95WGg1d1VEYTlyWW14REFnYTI5a2NfdFNjS3QzUE1YMF82T1B3c0NnTlo5ZExxOGNSU1pHcy1JYlc0WnN4Mi1Oa1E?oc=5"
-      },
-      "queued_at": "2026-10-22T18:01:57.208920+00:00",
-      "score": 8.0,
-      "why": "Major AI lab disclosure regarding security/threat intelligence, which is a priority alert."
-    },
-    {
-      "headline": "Vectorial raises $3 million in funding for consumer behavior AI",
-      "post": {
-        "created_at": "2026-10-22T17:49:43+00:00",
-        "handle": "News: Global AI",
-        "id": "1792691383861",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "Vectorial raises $3 million in funding to expand its AI model that predicts consumer behaviour",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNHNJTlhZSlg5ckV6SUU3R21tT0stZlgzVHlqNnBlTDZFb21Ld0lNQ0Z2NUhKRlJXb3BhUG92bkczSnllbnUxLTh4a2p5V0RHV2VBZnlJZG5LLVVYaTc3RFJaa2FJa0J4d0FaaVJUS2x6YkdOUmxuOGxxZ1JMajdpY1pmWTRSUUVlSGxBUndpa1NDd29nWU02VEdYY0Z5VzVvcnJpQXBfSjlfczBjT3FIdkVPc3piRWFXZFZUd2ZzNURhZm15SzV2MmVEMWVUUDRIN2huazEyblkwS3BYaFRwWkZSdW5wNUh60gHuAUFVX3lxTE1heVY4eUpuaTdtdUktWUo4UXdqcEVKVUVBWWw1eDB5ajM3ZEp2QVhZTVFtd3hqVWNFUmhlUlAtZndwOXUyX0VZNy1MV2dTMjdSRUh3SmZWeVV5V2RsbGZkN2VhbEhoSWFrTExydUJMeHlodjR4ZXFHQlFFOEZNN1R4S2Q0ZjZxSXAxUTdwUFo5a29ZUDFySkFJSEI2RTBicEVDQlptdkZrZndOU2d5ZFphUGlSZlRYTDdpcGJvTXd2M18ta3Fqdm0zaDlsdHZzdzR5LTZUTGZ0dEhhdVE5NzJ3VUQ5dU1zY003YVZPWEE?oc=5"
-      },
-      "queued_at": "2026-10-22T18:01:57.208920+00:00",
-      "score": 7.0,
-      "why": "Startup funding round is a standard wire alert for the IT/startup beat."
-    },
-    {
-      "headline": "Meta ordered to pay $25 billion penalty",
-      "post": {
-        "created_at": "2026-10-22T14:11:57+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1792678317665",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Axios",
-        "reposts": 0,
-        "text": "Meta hit with $25 billion penalty for misleading Facebook users",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVo0VXhGV1NWYmpHNDNMSjBraFNpNVdRQXEyVWhMRUlxVFA2Sk5pbE9OdURMS1Y4QnI3aGVqVUJZYjZobUxPRl90bVFCbDFaY2R2N3gxckVyampmZEZBcGdrMUZ6WkpxTlp1MFN1SjBRNmxyRWNuX1VtcWh3TDBhV0xqRTVGUDU3b1pZ?oc=5"
-      },
-      "queued_at": "2026-10-22T18:16:07.784702+00:00",
-      "score": 7.0,
-      "why": "Major legal penalty against a big tech company falls under regulatory enforcement disclosures."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -36629,7 +36572,7 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792692403322,
+    "news: big tech platforms": 1792693028949,
     "news: consumer internet india": 1792688213459,
     "news: global ai": 1792691383861,
     "news: global chips": 1792689795642,
@@ -36670,7 +36613,9 @@
     "zoho": 1792579467935
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-10-22T18:31:28.682192+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -36688,17 +36633,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-22T18:16:08.372226+00:00",
+    "last_server_run": "2026-10-22T18:31:39.193885+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-22T16:17:31.284859+00:00",
+        "checked": "2026-10-22T18:32:34.567744+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-22T16:17:23.578957+00:00",
+        "checked": "2026-10-22T18:32:26.732261+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -36774,7 +36719,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-22T16:17:27.520936+00:00",
+        "checked": "2026-10-22T18:32:31.026310+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -36829,10 +36774,10 @@
       "last": {
         "calendar": "2026-10-22T14:31:57.331221+00:00",
         "ls_reports": "2026-10-22T18:02:31.323097+00:00",
-        "rs_committee_press": "2026-10-22T16:17:17.954521+00:00",
-        "rs_press": "2026-10-22T16:17:14.478698+00:00",
-        "rs_reports": "2026-10-22T16:17:11.266948+00:00",
-        "rs_updates": "2026-10-22T16:17:19.643509+00:00"
+        "rs_committee_press": "2026-10-22T18:32:20.899865+00:00",
+        "rs_press": "2026-10-22T18:32:17.456608+00:00",
+        "rs_reports": "2026-10-22T18:32:14.489049+00:00",
+        "rs_updates": "2026-10-22T18:32:22.633900+00:00"
       }
     },
     "scanned": [
@@ -40998,7 +40943,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-22T18:17:00.660571+00:00",
+    "last_run": "2026-10-22T18:33:09.787338+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -43592,7 +43537,11 @@
       "x:2113327494866866587",
       "x:2113331620707258392",
       "x:2113332413615292780",
-      "x:2113332470578041229"
+      "x:2113332470578041229",
+      "x:2113329720637133034",
+      "x:2113333825015332918",
+      "x:2113335997383725190",
+      "x:2113336583063789858"
     ],
     "source_failures": {},
     "sources": []
