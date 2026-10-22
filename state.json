@@ -1,79 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-15T06:31:39.850299+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic prepares Claude with new safeguards ahead of US mid-term elections",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUncwdzVLRnF2N082RVAxTV9hY0tNeGpLbWNhT0VrdGtBSS1CcUR1M3djQ3hrdGFKZ1JWdjl2MzZNZXdrTW5BRUV2aW90cUJpQnNYQzNxVUNxRmFxc0ZEMVpFLThzb2JvZ2J6R1FNbEF6ZFlta2pBOERjeFBIaVQtb0NNRWZCUG9OdEtLZjZvRmRkMXNWZ0h5SEtJQ3dfVWxQRDJjSndUQUJjZy1idXVGem5telJRX3kzcXNRNm1uRU1Cd2kza1I2YXQtSG80UDVFMU91dGNaRVBFYjdnTW5yZE1wd0J4YjREaDVIaENQVWdZa1REOXYxc0NVdFRnZ24tVThBZC11YVU1bHBjZGgwQdIBlgJBVV95cUxOM0tuR1h3bVdlYzREei1MelIwU252bk9HdHJRSmxTZVpFNDc4RVMyV0dGOE1pY2RDclM1eTJwTnMyamtiVGxhVU5UYXNRY1hEa2RLWlFab3JPWUowMEd3SWkxd0U1b2ZLSGthMmNMUlVFNmQ4ZmhheTg4T2VuVDJCbkc2RTBTR19vUWRlWk5za2NIdDRDbjI3OFc3NjZ3Ym5xTjRid1NXcUJGallodlE0NzhJUDRqVTJFOWF0elc0US1WakFjWWFHTktoUWdSRGdIbFpjcGpuSmk4YUp4bnFoZDZidklvMEhWMG0tT01WWkFNdjFsY0hldFJSMDlrRmhxZlNnak9PQWJiN1NhRjcyZjh3UGctQQ?oc=5",
-      "words": [
-        "anthropic",
-        "claude",
-        "company",
-        "election",
-        "goal",
-        "making",
-        "mid",
-        "near",
-        "polls",
-        "prevent",
-        "ready",
-        "term"
-      ]
-    },
-    {
-      "at": "2026-10-15T06:31:39.850299+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Zetwerk IPO opens with 2% subscription and 15% GMP",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHRkZXhTeEFCNGhsNHo1alFkdmZOSUItLVNLRUJwclJCV2poT1pwb1JOYUdvTktoSHgydzAzR0lmZ2Fwa3VseGZuUTNCT2VHa28wZXF1RHNYazduMmpxVTk0TUR1Qzc4SlplY3hXTDRtYmMwRmZMMzFKcnlETWdTRWhzckFFdW5JeFNFYzdXY2swR09sRk01d01YUmlEaUpjX0t5X3lWU0kxRGlWMmlkSWtkaHBUcWNIQ3ExNjcwaVhhMGQybTM1YdIBzgFBVV95cUxNZlNDeEs0aWRaN3Q1Vlo2cGwyRy1SbEZNUnRWTzd5UkJVanRpdEZBd0RRaXJNVWpZRS0tWHZNbVA0YnNZRWczTVZpdzVuQ1N6dncyNlhYZkRfUWl1MzNTLVVzLXVVOTkwQXhWRXFScW0zbHZHbWtyWjJ4aHBvcWlnSlVjM21CczIwLS0wNzkwbWtZWm5SSEtvT0FMRG10NllYUU84TGpKQ1hzUV9NWDFQdlVSNGFNS0otQlJrX2ZDWENsRWp3VjhZay1xX3A2dw?oc=5",
-      "words": [
-        "booked",
-        "day",
-        "far",
-        "gmp",
-        "ipo",
-        "issue",
-        "opening",
-        "zetwerk"
-      ]
-    },
-    {
-      "at": "2026-10-15T06:31:39.850299+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Figma expands AI features and partners with Indian startup Sarvam",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSTZUd1lFYzRIX3FZektxaUlKa2lBRHR6dlMxQ2M3YmJvMFNfMUE1bjNCdjhpT2RESURkUWtmZU0yQzhjRzN4RnZkaUk3SGQ1dkcxRTR0X0FsQUVHekhrQ3o2aW1ia0FwUDV6NE5yT1U1QkIxcXUzcHRoaTJlSTM3cFZ2VU1CUHJqaXBEOFhxcFR4c0VxX3lrOWxaVmlOcEhXbnh4dGZmaTVWdEdnX0pnQ3NWaTRRRUhRZXUySlhYZVlCUjFmQTBCc3VSUDZGNDVxUk13aVA0RlRLUEN0MENsdFFWTGZlVFnSAewBQVVfeXFMTlhVYzFXUUlTMFRwX2F4Q1A4SXZ4dkJQZW9JM3pmSzJvNS1Fd3F5UWhYMDBhMUdTWUdpaTE5MFUySGo2U2NjMVRWUndFbzFBeF9fRC1PcFRPZmVOWjFsTjJCa2dCcVNCb1pnUFkxZ3ppdmxfVkxTZGg5TXVOazlkSHYtRG5Oams3MThWTDlmUGswRnRqY2NzTEY5RVJoY3FkSy05YXoxYzlVeGx3cjZoQnVKaVdLMFRJU3pwUFlacVN0aTlueXR3bUpJT1pOV1U1VElaWHRMSW1ON0NMNGIyNnRITEhObE5rNGdGUVQ?oc=5",
-      "words": [
-        "adds",
-        "expands",
-        "features",
-        "figma",
-        "including",
-        "mcp",
-        "partners",
-        "push",
-        "sarvam"
-      ]
-    },
-    {
-      "at": "2026-10-15T07:31:44.472876+00:00",
-      "handle": "News: Global AI",
-      "headline": "Google DeepMind partners with ICRISAT for agricultural AI project",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTFlSQS0wZnZVY0JxVk5ocGVFalg2TVNvSmZNbncyYzhMeklac19qWDdGVVoyY0Q0NGZ2VW9pYlZXVE9VWmtIMVJTSjRvY3pEb1l5ekFlWjJGQy1XX09XVFM1NmkyUzVnYjlSU0tCUzdrQWlLRXBVTTZtdHNuQWxQQ2ZrZWFSR0N6LXFVVXF1REh6cnFYcFM5a19TMXBxYmJhX1doUlVid0M4ZkVxQ25YVzFvVDNLbTZNRHlwVUIyaDE0SklLbncwUVJFNVJfRWp00gHWAUFVX3lxTE1ickZWQklTeDZfT0ViMk1aOXRNdFdmZTdnOWNqODJFT3pmc0ExNmRsaVotQ1lDOHVNSk1MVFJmY3hRZ283MHRiY0JYRThoTENreFFRbldCMHlKZjh0aDNOWEZfcjFkQjFxS0FiYUZld2JueFAzRUNnbW5sbTRWRlFvXy1INHc0NXpWTVBqSWlSVWxqeWhhN3JqOENzUGZqd0FiUkJNRlZ3WkE4T3FUanRDQV83X09BaFNEZFdnXzBQRlB5eGtyamN2QlNNRXZhNTFKQ0pIdWc?oc=5",
-      "words": [
-        "atlas",
-        "deepmind",
-        "develop",
-        "genome",
-        "google",
-        "icrisat",
-        "plant",
-        "ties"
-      ]
-    },
-    {
       "at": "2026-10-15T07:31:44.472876+00:00",
       "handle": "News: Indian IT midcaps",
       "headline": "LTTS chief says physical AI can counter deflation in engineering services",
@@ -7525,6 +7452,81 @@
         "microsoft",
         "target"
       ]
+    },
+    {
+      "at": "2026-10-22T01:31:19.958978+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio IPO day 1 bids hit Rs 70,000 crore",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb0dNVVJ5VjVjdExlZHdHajV5aWRUelB2MW1MYl9XVnpvMzN5eHRCOXlMNGxLaEdnb21mVXV6NTkwdngyZW9FWk5FNXJqSWZPS09pLUVpRWYyUURlSjJ6ekVac28zeElfd2NTRmJUY2otcHNSd1JuSER5dnZyQzhNR05WRkhoMzhhTU5ablVDaFh1NGd6d2xHeTlfaHVDbk9CN2NCNTlXcDRmekJQMzNpWl9UcmQyUHdZbVU5QlhHNlFKVGNoV19ESkRqelg0MmJGMndCX3pR0gHbAUFVX3lxTE1WTlFTbkVSS3loSTBSWFRUa3VoaGZnMEdBbThyamhGVTZER2tVclA3RXEwVEJaWFJLLWRoQmVqLTJfRHl3X3VuR1FHVGd4X1ZKT2t6V1pZTTQ3WVV5cFhUZTRFMGNPaGhUelBSUG00MlJWN2NucVdQVl8tem9ZNDB1eU5ZYy1pSmVmY0l3TkxuenRVbFZINnVjYmJtMnRCSzUxMWhuVFhvOGkyaHhVWm5TUmJPbzljQU5haXllQllFRDF3MDFHUGhLYTFnNzI5dXQ5N3R4TWw1RElIaw?oc=5",
+      "words": [
+        "000",
+        "bids",
+        "day",
+        "gic",
+        "hit",
+        "ipo",
+        "issues",
+        "jio",
+        "lic",
+        "nse",
+        "outpaces"
+      ]
+    },
+    {
+      "at": "2026-10-22T01:31:19.958978+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Software majors cut 24,000 jobs across IT in a year",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMk80S3N5UmYybjdTZU5OYy1NenRGQm9JZWhtaHU5SzQ4VTRhOHZwRmxTQU5ael91c1NXeW5TNmJZejVRT2gxNUVUQTM4UUZ6WGdWazlyb3RDdE45Z2hwTGFKOVlYdVdhUjJfOHdYWjhLTmZWMDdNYVlubzNDU3N2NnZPbF9tTnZ3RzEwRDJOSHpGd0RUYWRNb2FVQkVGUHIzaG5jdEtFaXA2Rm4tamhxUThoQ1ZQbFlVWXAwelhQN20tbllLbU0ycUtIa2ZPX0lBcTNhakFBVTc0VFRLYjR1ZHkwNThic19SWXY2alhaZWdzT3c3d3VkcDFSTdIBgAJBVV95cUxQWmJDT3JpVXVJODRXbTQtVDU0cHlkZE9VdmhaVTBvVUo1VEdOTnplS2VMaEZpOE9oOFZIXzFkbjhTaVE4RkExcDhGXy1lV0F4LUdHSGk1cGltRWhKc3JvRXZab1o0eWlTaHpwSmNydy16Wm5LQzMtcFUxS2dKRmp3dUo2TWpyb2FRN2lubHBwd25DUzJDMnl6ZmM1NFBXUFNxVWoxWEMxM1JUY1hVVjFUdkJkWnFMMUF3NFVMNmZ3cHpLOXJNbmZFN2EyVTEzUmJjS0JqZk9sY0NLVWtfUHpfZ1oxTmcwODFzRklHU28wN3pXZXdpMDNyZm1XUTZHSGhP?oc=5",
+      "words": [
+        "000",
+        "across",
+        "delete",
+        "engineering",
+        "jobs",
+        "majors",
+        "software",
+        "year"
+      ]
+    },
+    {
+      "at": "2026-10-22T01:31:19.958978+00:00",
+      "handle": "News: Global chips",
+      "headline": "Qualcomm may cut 600-1,200 jobs in India operations",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWVhZE1YdDJYYklmSmp4Ylo5blZ6alhkbllCdGI2SnRlS2lDTGpVY1hwTWlMZUJYdk1ob1VKSzE2cnlGZE8tZDVkYTRxMUFrRkJ5Y2psVTNZamJRRXUtcERoZlJSLTFpN0x1WmRxd3FaS1NsRU5hN0N6aDluVjBMbkNmOE1WdXZabzRvbFhFWlh4N2w1MVc0REhCc1pMNU0wNnNfa3ZPOWpOQnYtWkxGTjFjRDdOUXYtT1FZbFFNQnF5Z1JaeF9ib2sxQWU5di1Y0gHWAUFVX3lxTFBaTUFvMENZNnBnNEFPUkdFdkNTeGVpVkhVTUFmNThnVmhVTFBkYmdrUWlEbzdjNE0tQ2xqM2dPRXQwZ0lKVGxLY0pkSmVoQlhULTFmeEFidlNHR0FFU09zLWdlU1M5UGZfc2E2ekJoRVpVcWxfVmVET3NIWTNFdklhNWZtNHZzekpfSnBQemFyU3JiRDBVQXN3STJqdVVCTDhYRUdzRFhTazl1VGREYzJfbUx2WkVrVERSWnc3TzhVZU4yRWFra212bTZkZUZ4TmoxMWhja3c?oc=5",
+      "words": [
+        "200",
+        "600",
+        "cut",
+        "global",
+        "jobs",
+        "may",
+        "part",
+        "qualcomm",
+        "restructuring"
+      ]
+    },
+    {
+      "at": "2026-10-22T01:31:19.958978+00:00",
+      "handle": "News: Global AI",
+      "headline": "Critical web security flaws spark global response from Google and OpenAI",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVW9GbzJYU2tyRUZaZXhuYVZLUzNKaURYMF96UUxGelZEQlJuS05hd3V2ajZXYThmYS1nZm1fRTFEZ1RlYzJxY0RDSnd2c0dCTTJ5RTRYa2daejlQYVQzNGhsazViYnk0LTRUQzhobnkwMU5pV0lDMzc1ONIBgAFBVV95cUxPWU1MOW5DRUpvWXNVNExyUzRMdVhsUHVyUWdPcUJmY19wMVVEaDNuVFczazh1VWZ5RE85Z0hOQjZWVm9GTS1pd3BOMjhyZ1dRMzdSM1Y3MHBCS3dYaHlhOVBPMHotVmp0ZVNQbE4wZjdKcVcwQnBwVUd5MlJ0VUZuUg?oc=5",
+      "words": [
+        "alarm",
+        "amazon",
+        "critical",
+        "flaws",
+        "global",
+        "google",
+        "openai",
+        "respond",
+        "security",
+        "spark",
+        "web"
+      ]
     }
   ],
   "bureau": {
@@ -13967,7 +13969,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-22T01:17:03.427695+00:00",
+    "last_run": "2026-10-22T01:32:35.608724+00:00",
     "pib_mark": 2326348,
     "seen": [
       "pib:2320137",
@@ -16442,12 +16444,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792062015019",
-    "1792064309605",
-    "1792064548284",
-    "1788977740878",
-    "1790780400157",
-    "1791810000303",
     "1791983520967",
     "1791991680024",
     "1792048845267",
@@ -20780,7 +20776,6 @@
     "1792553640539",
     "1792563166726",
     "1792578780688",
-    "1792584418745",
     "1792591029086",
     "1792614090303",
     "1792614556254",
@@ -20824,9 +20819,7 @@
     "1792555812113",
     "1792560602462",
     "1792566709415",
-    "1792582058635",
     "1792582192565",
-    "1792587024488",
     "1792592808485",
     "1792595956831",
     "1792612584723",
@@ -20838,11 +20831,16 @@
     "1792578780745",
     "1792581960025",
     "1792601769519",
-    "1792603133155",
-    "1792606295624",
-    "1792609144102",
     "1792614366847",
     "1792615505802",
+    "1792549319805",
+    "1792558124891",
+    "1792561451971",
+    "1792600819927",
+    "1792609509962",
+    "1792616220547",
+    "1792619509048",
+    "1792620448429",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -22083,7 +22081,6 @@
     "1792540800902",
     "1792548595831",
     "1792548953261",
-    "1792549319805",
     "1792549850900",
     "1792550042563",
     "1792551540404",
@@ -22098,7 +22095,6 @@
     "1792557000474",
     "1792557207721",
     "1792557476345",
-    "1792558124891",
     "1792558200166",
     "1792559100307",
     "1792559254933",
@@ -22108,7 +22104,6 @@
     "1792560963720",
     "1792560975944",
     "1792561067326",
-    "1792561451971",
     "1792561739034",
     "1792561860036",
     "1792561902853",
@@ -22191,6 +22186,7 @@
     "1792581224176",
     "1792581720799",
     "1792581724854",
+    "1792582058635",
     "1792582192017",
     "1792582201605",
     "1792582514126",
@@ -22204,9 +22200,11 @@
     "1792584002843",
     "1792584020171",
     "1792584129989",
+    "1792584418745",
     "1792584707900",
     "1792585881826",
     "1792586570877",
+    "1792587024488",
     "1792587375642",
     "1792587600088",
     "1792587600930",
@@ -22256,18 +22254,19 @@
     "1792600147161",
     "1792600320085",
     "1792600503275",
-    "1792600819927",
     "1792601156549",
     "1792601192428",
     "1792601316090",
     "1792601851013",
     "1792602000077",
     "1792602190309",
+    "1792603133155",
     "1792603260020",
     "1792603261372",
     "1792603326757",
     "1792603328549",
     "1792603620907",
+    "1792603620976",
     "1792603713172",
     "1792603736301",
     "1792603740554",
@@ -22282,6 +22281,7 @@
     "1792605430386",
     "1792605552289",
     "1792605661219",
+    "1792606295624",
     "1792606319030",
     "1792606682970",
     "1792606729177",
@@ -22292,8 +22292,8 @@
     "1792607253974",
     "1792607640415",
     "1792608702761",
+    "1792609144102",
     "1792609236743",
-    "1792609509962",
     "1792610210332",
     "1792610210854",
     "1792611880814",
@@ -22306,7 +22306,7 @@
     "1792614335750",
     "1792616100770",
     "1792616220077",
-    "1792616220547",
+    "1792616220188",
     "1792616400458",
     "1792617259699",
     "1792617360666",
@@ -22317,11 +22317,10 @@
     "1792618860341",
     "1792618974757",
     "1792619268093",
-    "1792619509048",
+    "1792619347416",
     "1792619922761",
     "1792620089961",
     "1792620325847",
-    "1792620448429",
     "1792621965367",
     "1792622712773",
     "1792622734245",
@@ -22333,6 +22332,7 @@
     "1792625225071",
     "1792625407986",
     "1792626120156",
+    "1792626331962",
     "1792626399627",
     "1792626600389",
     "1792626697682",
@@ -22347,11 +22347,13 @@
     "1792629050831",
     "1792629053984",
     "1792629225214",
+    "1792629245062",
     "1792630216919",
     "1792630560880",
     "1792630637173",
     "1792631100227",
     "1792631218064",
+    "1792631353559",
     "2317509",
     "2317615",
     "2317714",
@@ -22443,8 +22445,8 @@
     "2325239",
     "2326032"
   ],
-  "last_digest_hour": "2026-10-22T06",
-  "last_success": "2026-10-22T01:16:04.622913+00:00",
+  "last_digest_hour": "2026-10-22T07",
+  "last_success": "2026-10-22T01:31:20.035714+00:00",
   "national": {
     "alerted": [
       {
@@ -31201,7 +31203,7 @@
       },
       "warned": "2026-10-21T22:02:29.905771+00:00"
     },
-    "last_run": "2026-10-22T01:16:42.414689+00:00",
+    "last_run": "2026-10-22T01:32:11.026320+00:00",
     "pib_mark": 2326348,
     "seen": [
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-indian-mens-quadrant-team-on-winning-historic-bronze-in-sepaktakraw-at-asian-games",
@@ -34270,80 +34272,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Software majors cut 24,000 jobs across IT in a year",
-      "post": {
-        "created_at": "2026-10-22T00:30:00+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1792629000803",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Software majors delete 24,000 jobs across IT and engineering in a year",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMk80S3N5UmYybjdTZU5OYy1NenRGQm9JZWhtaHU5SzQ4VTRhOHZwRmxTQU5ael91c1NXeW5TNmJZejVRT2gxNUVUQTM4UUZ6WGdWazlyb3RDdE45Z2hwTGFKOVlYdVdhUjJfOHdYWjhLTmZWMDdNYVlubzNDU3N2NnZPbF9tTnZ3RzEwRDJOSHpGd0RUYWRNb2FVQkVGUHIzaG5jdEtFaXA2Rm4tamhxUThoQ1ZQbFlVWXAwelhQN20tbllLbU0ycUtIa2ZPX0lBcTNhakFBVTc0VFRLYjR1ZHkwNThic19SWXY2alhaZWdzT3c3d3VkcDFSTdIBgAJBVV95cUxQWmJDT3JpVXVJODRXbTQtVDU0cHlkZE9VdmhaVTBvVUo1VEdOTnplS2VMaEZpOE9oOFZIXzFkbjhTaVE4RkExcDhGXy1lV0F4LUdHSGk1cGltRWhKc3JvRXZab1o0eWlTaHpwSmNydy16Wm5LQzMtcFUxS2dKRmp3dUo2TWpyb2FRN2lubHBwd25DUzJDMnl6ZmM1NFBXUFNxVWoxWEMxM1JUY1hVVjFUdkJkWnFMMUF3NFVMNmZ3cHpLOXJNbmZFN2EyVTEzUmJjS0JqZk9sY0NLVWtfUHpfZ1oxTmcwODFzRklHU28wN3pXZXdpMDNyZm1XUTZHSGhP?oc=5"
-      },
-      "queued_at": "2026-10-22T00:46:03.153051+00:00",
-      "score": 8.0,
-      "why": "Major aggregate headcount and layoff figures for the Indian IT sector."
-    },
-    {
-      "headline": "Qualcomm may cut 600-1,200 jobs in India operations",
-      "post": {
-        "created_at": "2026-10-22T00:30:00+00:00",
-        "handle": "News: Global chips",
-        "id": "1792629000986",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Qualcomm may cut 600-1,200 jobs in India as part of global restructuring",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWVhZE1YdDJYYklmSmp4Ylo5blZ6alhkbllCdGI2SnRlS2lDTGpVY1hwTWlMZUJYdk1ob1VKSzE2cnlGZE8tZDVkYTRxMUFrRkJ5Y2psVTNZamJRRXUtcERoZlJSLTFpN0x1WmRxd3FaS1NsRU5hN0N6aDluVjBMbkNmOE1WdXZabzRvbFhFWlh4N2w1MVc0REhCc1pMNU0wNnNfa3ZPOWpOQnYtWkxGTjFjRDdOUXYtT1FZbFFNQnF5Z1JaeF9ib2sxQWU5di1Y0gHWAUFVX3lxTFBaTUFvMENZNnBnNEFPUkdFdkNTeGVpVkhVTUFmNThnVmhVTFBkYmdrUWlEbzdjNE0tQ2xqM2dPRXQwZ0lKVGxLY0pkSmVoQlhULTFmeEFidlNHR0FFU09zLWdlU1M5UGZfc2E2ekJoRVpVcWxfVmVET3NIWTNFdklhNWZtNHZzekpfSnBQemFyU3JiRDBVQXN3STJqdVVCTDhYRUdzRFhTazl1VGREYzJfbUx2WkVrVERSWnc3TzhVZU4yRWFra212bTZkZUZ4TmoxMWhja3c?oc=5"
-      },
-      "queued_at": "2026-10-22T00:46:03.153051+00:00",
-      "score": 8.0,
-      "why": "Significant specific job cut numbers for India operations from a major chip firm."
-    },
-    {
-      "headline": "Jio IPO day 1 bids hit Rs 70,000 crore",
-      "post": {
-        "created_at": "2026-10-22T00:56:00+00:00",
-        "handle": "News: India telecom",
-        "id": "1792630560880",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Jio IPO bids hit 70,000 crore on day 1; outpaces NSE, LIC, GIC issues",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb0dNVVJ5VjVjdExlZHdHajV5aWRUelB2MW1MYl9XVnpvMzN5eHRCOXlMNGxLaEdnb21mVXV6NTkwdngyZW9FWk5FNXJqSWZPS09pLUVpRWYyUURlSjJ6ekVac28zeElfd2NTRmJUY2otcHNSd1JuSER5dnZyQzhNR05WRkhoMzhhTU5ablVDaFh1NGd6d2xHeTlfaHVDbk9CN2NCNTlXcDRmekJQMzNpWl9UcmQyUHdZbVU5QlhHNlFKVGNoV19ESkRqelg0MmJGMndCX3pR0gHbAUFVX3lxTE1WTlFTbkVSS3loSTBSWFRUa3VoaGZnMEdBbThyamhGVTZER2tVclA3RXEwVEJaWFJLLWRoQmVqLTJfRHl3X3VuR1FHVGd4X1ZKT2t6V1pZTTQ3WVV5cFhUZTRFMGNPaGhUelBSUG00MlJWN2NucVdQVl8tem9ZNDB1eU5ZYy1pSmVmY0l3TkxuenRVbFZINnVjYmJtMnRCSzUxMWhuVFhvOGkyaHhVWm5TUmJPbzljQU5haXllQllFRDF3MDFHUGhLYTFnNzI5dXQ5N3R4TWw1RElIaw?oc=5"
-      },
-      "queued_at": "2026-10-22T01:01:38.381594+00:00",
-      "score": 9.0,
-      "why": "It provides significant hard numbers on a major ongoing mega-IPO."
-    },
-    {
-      "headline": "Critical web security flaws spark global response from Google and OpenAI",
-      "post": {
-        "created_at": "2026-10-22T01:05:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1792631100227",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC",
-        "reposts": 0,
-        "text": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVW9GbzJYU2tyRUZaZXhuYVZLUzNKaURYMF96UUxGelZEQlJuS05hd3V2ajZXYThmYS1nZm1fRTFEZ1RlYzJxY0RDSnd2c0dCTTJ5RTRYa2daejlQYVQzNGhsazViYnk0LTRUQzhobnkwMU5pV0lDMzc1ONIBgAFBVV95cUxPWU1MOW5DRUpvWXNVNExyUzRMdVhsUHVyUWdPcUJmY19wMVVEaDNuVFczazh1VWZ5RE85Z0hOQjZWVm9GTS1pd3BOMjhyZ1dRMzdSM1Y3MHBCS3dYaHlhOVBPMHotVmp0ZVNQbE4wZjdKcVcwQnBwVUd5MlJ0VUZuUg?oc=5"
-      },
-      "queued_at": "2026-10-22T01:16:04.572610+00:00",
-      "score": 7.0,
-      "why": "Major vulnerability disclosure involving top AI companies meets the security reporting criteria."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -35447,8 +35376,8 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792630637173,
-    "news: consumer internet india": 1792629000547,
+    "news: big tech platforms": 1792631353559,
+    "news: consumer internet india": 1792629245062,
     "news: global ai": 1792631100227,
     "news: global chips": 1792629000986,
     "news: global it services": 1792616220547,
@@ -35459,7 +35388,7 @@
     "news: india tech policy": 1792616100770,
     "news: india telecom": 1792630560880,
     "news: indian it majors": 1792629053984,
-    "news: indian it midcaps": 1792627917700,
+    "news: indian it midcaps": 1792629245062,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792626988617,
     "nvidia": 1792579837435,
@@ -35506,7 +35435,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-22T01:16:04.898916+00:00",
+    "last_server_run": "2026-10-22T01:31:20.530434+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-22T01:02:34.776986+00:00",
@@ -39305,7 +39234,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-22T01:16:47.010454+00:00",
+    "last_run": "2026-10-22T01:32:14.659775+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
@@ -41249,7 +41178,8 @@
       "x:2112969345429377156",
       "x:2113065297284681731",
       "x:2113069071642087450",
-      "x:2113072849070313954"
+      "x:2113072849070313954",
+      "x:2113076621230108933"
     ],
     "source_failures": {},
     "sources": []
