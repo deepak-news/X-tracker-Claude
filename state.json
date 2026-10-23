@@ -2,46 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-16T16:35:04.784812+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI discloses four rogue incidents involving data breaches",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc29talhBWQ?oc=5",
-      "words": [
-        "data",
-        "discloses",
-        "financial",
-        "four",
-        "government",
-        "incidents",
-        "involving",
-        "medical",
-        "more",
-        "openai",
-        "rogue"
-      ]
-    },
-    {
-      "at": "2026-10-16T16:35:04.784812+00:00",
-      "handle": "News: India fintech",
-      "headline": "UPI scam losses: When banks may cover customer costs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMTB1MGRZdjFMMGFjMVI3OWlXS0NtZUNRWXFoT29xazJyMHFQSzVkNDVnMkFRVThvc0VuTnBpYVhGRjRDd19Wbm5mdFlMLTRRaWlrMmxHek5OdWpvaWZwVWVXWEFHdWEyWktsNVA5Q3pQYXZGTWhHMTZOUkIxZzNSZkowM1FlbUNaTEVXU2VQUksycjc5eHpBOExZaU1tRUstSzRlc2lGNEFJdTRrNHp6b0ZGYW02VDg0MUhPWEE5X29rekN6U2NvenJ2c1MtaE1ZR2w0YnBOeFhUc0x4WUp1MV92T2J3Zjl3dXZ2Vy1VeFJlUdIB8gFBVV95cUxPMTB1MGRZdjFMMGFjMVI3OWlXS0NtZUNRWXFoT29xazJyMHFQSzVkNDVnMkFRVThvc0VuTnBpYVhGRjRDd19Wbm5mdFlMLTRRaWlrMmxHek5OdWpvaWZwVWVXWEFHdWEyWktsNVA5Q3pQYXZGTWhHMTZOUkIxZzNSZkowM1FlbUNaTEVXU2VQUksycjc5eHpBOExZaU1tRUstSzRlc2lGNEFJdTRrNHp6b0ZGYW02VDg0MUhPWEE5X29rekN6U2NvenJ2c1MtaE1ZR2w0YnBOeFhUc0x4WUp1MV92T2J3Zjl3dXZ2Vy1VeFJlUQ?oc=5",
-      "words": [
-        "account",
-        "bank",
-        "cover",
-        "emptied",
-        "here",
-        "loss",
-        "may",
-        "scam",
-        "upi",
-        "when",
-        "your"
-      ]
-    },
-    {
-      "at": "2026-10-16T16:35:04.784812+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Urban Company announces entry into residential AC segment",
       "tier": 0,
@@ -7471,6 +7431,37 @@
         "resumes",
         "security",
         "training"
+      ]
+    },
+    {
+      "at": "2026-10-23T21:31:34.915484+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Instacart in talks with DoorDash and Uber for sale",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFhIZ0lVMTlGNkdkWGFJRTVKSVhYUDhYZXBJWGRRSVFOeU5IYWdzbEdDblloYk1pUUhVTXFkZUVnR2lzLXNZelNxc25PRVNocDZiODV5LXBGYVVCNzBtb2JHNHBwc1BCREdUSE9PcUQxNjVXRkl4T2ZIYXVDVTBqeGNVTmM2ejN1Y3cxbUF3?oc=5",
+      "words": [
+        "doordash",
+        "information",
+        "instacart",
+        "reports",
+        "sale",
+        "talks",
+        "uber"
+      ]
+    },
+    {
+      "at": "2026-10-23T21:31:34.915484+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta acquires AI data platform Sundial",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yaUIwQVJsYmpVanBJTkF0M1g4RWZDeGh3X1NYbzVINFY4M2wxTUtTWmRZdkYtY0tlU2dBcXNXY1JxU1JNeUJsZTc5c2czQzFwX0ZOcndNekd0WE5XQXc0QzVjWHdWek9nbXZkZUZXNA?oc=5",
+      "words": [
+        "acquires",
+        "data",
+        "exclusive",
+        "meta",
+        "platform",
+        "sundial"
       ]
     }
   ],
@@ -15278,7 +15269,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-23T21:17:00.292340+00:00",
+    "last_run": "2026-10-23T21:32:29.842740+00:00",
     "pib_mark": 2327741,
     "seen": [
       "pib:2320137",
@@ -18141,10 +18132,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792208927233",
-    "1792209857816",
-    "1792217764729",
-    "1792238400663",
     "1792206153929",
     "1792207852137",
     "1792221864372",
@@ -22456,7 +22443,6 @@
     "1792784040764",
     "1792701360010",
     "1792752679635",
-    "1792754700505",
     "1792771068503",
     "1792776502213",
     "1792717299051",
@@ -22497,11 +22483,15 @@
     "1792731298263",
     "1792761759945",
     "1792771285805",
-    "1792775713718",
     "1792779485529",
     "1792784086586",
     "1792784357934",
     "1792788546744",
+    "1792762352730",
+    "1792773691571",
+    "1792777629444",
+    "1792784689136",
+    "1792786667684",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -23901,6 +23891,7 @@
     "1792753860565",
     "1792753896130",
     "1792754469870",
+    "1792754700505",
     "1792754976051",
     "1792755010877",
     "1792755132680",
@@ -23942,7 +23933,6 @@
     "1792761398494",
     "1792761491451",
     "1792762060091",
-    "1792762352730",
     "1792762767635",
     "1792762939980",
     "1792763137450",
@@ -23974,6 +23964,7 @@
     "1792768381754",
     "1792768447083",
     "1792768567603",
+    "1792768597486",
     "1792768634748",
     "1792768645502",
     "1792769042567",
@@ -23996,7 +23987,6 @@
     "1792773180270",
     "1792773401195",
     "1792773480935",
-    "1792773691571",
     "1792774105461",
     "1792774260668",
     "1792774308741",
@@ -24009,13 +23999,13 @@
     "1792775222064",
     "1792775620976",
     "1792775675721",
+    "1792775713718",
     "1792775940971",
     "1792776005195",
     "1792776238693",
     "1792776334840",
     "1792776540679",
     "1792777560955",
-    "1792777629444",
     "1792777805743",
     "1792777904654",
     "1792778509126",
@@ -24028,19 +24018,20 @@
     "1792781902213",
     "1792781942648",
     "1792782452705",
-    "1792784689136",
     "1792785416503",
     "1792786064332",
+    "1792786143744",
     "1792786361063",
     "1792786373699",
-    "1792786667684",
     "1792786948607",
     "1792787417934",
     "1792787760626",
     "1792787835423",
     "1792788720528",
+    "1792788854931",
     "1792789226726",
     "1792789867129",
+    "1792790089136",
     "2317509",
     "2317615",
     "2317714",
@@ -24142,8 +24133,8 @@
     "2327568",
     "2327710"
   ],
-  "last_digest_hour": "2026-10-24T02",
-  "last_success": "2026-10-23T21:15:57.123235+00:00",
+  "last_digest_hour": "2026-10-24T03",
+  "last_success": "2026-10-23T21:31:34.996132+00:00",
   "national": {
     "alerted": [
       {
@@ -33526,13 +33517,12 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-10-23T21:02:28.018900+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-22T22:02:37.530371+00:00"
     },
-    "last_run": "2026-10-23T21:16:45.362564+00:00",
+    "last_run": "2026-10-23T21:32:16.677456+00:00",
     "pib_mark": 2327741,
     "seen": [
       "pib:2319900",
@@ -36541,9 +36531,6 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "NPCI": {
-        "count": 2
-      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -36605,26 +36592,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Instacart in talks with DoorDash and Uber for sale",
-      "post": {
-        "created_at": "2026-10-23T20:49:06+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1792788546744",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Reuters",
-        "reposts": 0,
-        "text": "Instacart in talks with DoorDash and Uber for sale, The Information reports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFhIZ0lVMTlGNkdkWGFJRTVKSVhYUDhYZXBJWGRRSVFOeU5IYWdzbEdDblloYk1pUUhVTXFkZUVnR2lzLXNZelNxc25PRVNocDZiODV5LXBGYVVCNzBtb2JHNHBwc1BCREdUSE9PcUQxNjVXRkl4T2ZIYXVDVTBqeGNVTmM2ejN1Y3cxbUF3?oc=5"
-      },
-      "queued_at": "2026-10-23T21:01:36.038415+00:00",
-      "score": 8.0,
-      "why": "M&A talks involving a major tech platform constitute a significant market story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -37750,7 +37718,7 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1792789226726,
     "news: consumer internet india": 1792770230709,
-    "news: global ai": 1792789867129,
+    "news: global ai": 1792790089136,
     "news: global chips": 1792787835423,
     "news: global it services": 1792763137450,
     "news: india ai deeptech": 1792769760834,
@@ -37807,7 +37775,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-23T21:15:57.616741+00:00",
+    "last_server_run": "2026-10-23T21:31:35.483705+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-23T20:17:38.677898+00:00",
@@ -42389,7 +42357,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-23T21:16:48.428670+00:00",
+    "last_run": "2026-10-23T21:32:20.222878+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
