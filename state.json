@@ -15287,11 +15287,9 @@
       "CG-MH-E-23102026-277380"
     ],
     "health": {
-      "down": {
-        "IRDAI": "2026-10-24T05:33:25.990641+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-10-24T05:33:29.001830+00:00",
+    "last_run": "2026-10-24T05:46:54.702657+00:00",
     "pib_mark": 2327812,
     "seen": [
       "pib:2320137",
@@ -17625,6 +17623,8 @@
       "site:WTO|https://www.wto.org/english/news_e/news26_e/fac_21oct26_522_e.htm",
       "site:BCCI|https://www.bcci.tv/news/article/ishan-kishan-ruled-out-of-second-t20i-kumar-kushagra-added-as-cover",
       "mea:41872",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-world-record-at-the-asian-para-games",
+      "site:who-don:2026-DON622",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -17645,7 +17645,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-world-record-at-the-asian-para-games",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -18095,7 +18094,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nimisha-chakkungalparambil-suresh-on-winning-silver-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-hails-historic-podium-sweep-by-indian-athletes-in-mens-javelin-throw-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-rakeshbhai-bhatt-on-winning-bronze-at-the-asian-para-games-2",
-      "site:who-don:2026-DON622",
       "gazette:CG-MH-E-23102026-277380",
       "mea:41908",
       "pib:2327771",
@@ -18111,11 +18109,7 @@
       "pib:2327812",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-itbp-personnel-on-their-raising-day"
     ],
-    "source_failures": {
-      "IRDAI": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -18170,14 +18164,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792210600771",
-    "1792210918888",
-    "1792211231709",
-    "1792212631821",
-    "1792258995035",
-    "1792284524018",
-    "1792211586121",
-    "1792211739823",
     "1792211880279",
     "1792212054610",
     "1792222209649",
@@ -22516,12 +22502,10 @@
     "1792730367867",
     "1792731442157",
     "1792731986032",
-    "1792737361650",
     "1792737819499",
     "1792746781145",
     "1792749359405",
     "1792749718083",
-    "1792752689439",
     "1792754700507",
     "1792730893640",
     "1792731240423",
@@ -22562,16 +22546,26 @@
     "1792758222377",
     "1792760714144",
     "1792769760586",
-    "1792774744277",
     "1792779960936",
     "1792786373706",
-    "1792790322202",
-    "1792793216246",
     "1792801414114",
-    "1792806770185",
-    "1792814343100",
     "1792814984789",
     "1792815300576",
+    "1792733646428",
+    "1792734140159",
+    "1792734180828",
+    "1792748586387",
+    "1792749780868",
+    "1792755771910",
+    "1792762380091",
+    "1792769235567",
+    "1792774744836",
+    "1792776334840",
+    "1792785960332",
+    "1792786373699",
+    "1792801831114",
+    "1792812702458",
+    "1792813893771",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -23832,9 +23826,6 @@
     "1792713600912",
     "1792720813215",
     "1792729758378",
-    "1792733646428",
-    "1792734140159",
-    "1792734180828",
     "1792734540207",
     "1792734720337",
     "1792734896399",
@@ -23842,6 +23833,7 @@
     "1792736548509",
     "1792736562876",
     "1792736880897",
+    "1792737361650",
     "1792737651931",
     "1792737908290",
     "1792738537414",
@@ -23874,7 +23866,6 @@
     "1792747800765",
     "1792747804579",
     "1792747920388",
-    "1792748586387",
     "1792748640916",
     "1792748659176",
     "1792748667746",
@@ -23884,7 +23875,6 @@
     "1792749555493",
     "1792749600487",
     "1792749718676",
-    "1792749780868",
     "1792750214700",
     "1792750334182",
     "1792750491988",
@@ -23895,6 +23885,7 @@
     "1792751994065",
     "1792752349582",
     "1792752387244",
+    "1792752689439",
     "1792752692635",
     "1792752913286",
     "1792753159456",
@@ -23911,7 +23902,6 @@
     "1792755010877",
     "1792755132680",
     "1792755719127",
-    "1792755771910",
     "1792755850176",
     "1792755969204",
     "1792756102777",
@@ -23943,7 +23933,6 @@
     "1792761307724",
     "1792761398494",
     "1792762020722",
-    "1792762380091",
     "1792763137450",
     "1792763289593",
     "1792763371618",
@@ -23972,7 +23961,6 @@
     "1792768597486",
     "1792768634748",
     "1792769042567",
-    "1792769235567",
     "1792769760834",
     "1792770230709",
     "1792770327092",
@@ -23992,14 +23980,14 @@
     "1792774260668",
     "1792774308741",
     "1792774611455",
-    "1792774744836",
+    "1792774744277",
     "1792774800957",
     "1792775620976",
     "1792775873607",
     "1792775963076",
     "1792776005195",
     "1792776238716",
-    "1792776334840",
+    "1792776357840",
     "1792776540679",
     "1792777680642",
     "1792777805743",
@@ -24015,10 +24003,9 @@
     "1792784040586",
     "1792785416503",
     "1792785877307",
-    "1792785960332",
     "1792786361678",
-    "1792786373699",
     "1792786866799",
+    "1792787065053",
     "1792787417934",
     "1792787760626",
     "1792787835423",
@@ -24026,9 +24013,11 @@
     "1792788720528",
     "1792789620922",
     "1792789867129",
+    "1792790322202",
     "1792792759083",
     "1792792800719",
     "1792793215744",
+    "1792793216246",
     "1792793756292",
     "1792794480049",
     "1792794826502",
@@ -24039,27 +24028,29 @@
     "1792800720915",
     "1792801800088",
     "1792801800272",
-    "1792801831114",
     "1792803902541",
     "1792804740694",
     "1792806259190",
     "1792806750502",
+    "1792806770185",
     "1792807280326",
     "1792808143993",
     "1792808434853",
     "1792809450726",
     "1792809915188",
     "1792809968536",
+    "1792810270817",
     "1792810440561",
     "1792810446589",
     "1792811280695",
+    "1792811465179",
     "1792811901947",
     "1792812000296",
-    "1792812702458",
     "1792813300079",
     "1792813340553",
     "1792813349604",
-    "1792813893771",
+    "1792814343100",
+    "1792814984442",
     "1792816191845",
     "1792816318641",
     "1792816418457",
@@ -24069,7 +24060,10 @@
     "1792817845724",
     "1792817880851",
     "1792818136431",
+    "1792819165619",
     "1792819506361",
+    "1792819579757",
+    "1792820144670",
     "2317509",
     "2317615",
     "2317714",
@@ -24172,7 +24166,7 @@
     "2327710"
   ],
   "last_digest_hour": "2026-10-24T11",
-  "last_success": "2026-10-24T05:31:18.782493+00:00",
+  "last_success": "2026-10-24T05:45:57.233274+00:00",
   "national": {
     "alerted": [
       {
@@ -32449,6 +32443,26 @@
           "usgs",
           "vanuatu"
         ]
+      },
+      {
+        "at": "2026-10-24T05:46:40.570933+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.8 earthquake -- 182 km NW of Port-Olry, Vanuatu.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
+        "words": [
+          "182",
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "oct",
+          "olry",
+          "port",
+          "reported",
+          "usgs",
+          "vanuatu"
+        ]
       }
     ],
     "gazette_mark": 277387,
@@ -33656,16 +33670,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "IRDAI": "2026-10-24T05:17:40.877547+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-23T22:16:53.565524+00:00"
     },
-    "last_run": "2026-10-24T05:32:29.523826+00:00",
+    "last_run": "2026-10-24T05:46:40.572227+00:00",
     "pib_mark": 2327812,
     "seen": [
-      "pib:2319996",
       "pib:2320035",
       "pib:2320049",
       "pib:2320063",
@@ -36111,6 +36123,9 @@
       "site:WTO|https://www.wto.org/english/news_e/news26_e/fac_21oct26_522_e.htm",
       "site:BCCI|https://www.bcci.tv/news/article/ishan-kishan-ruled-out-of-second-t20i-kumar-kushagra-added-as-cover",
       "mea:41872",
+      "quake:ncs:SkwyT2Q5VCtPTVhLYkFWT3NZekladz09",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-world-record-at-the-asian-para-games",
+      "site:who-don:2026-DON622",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -36131,8 +36146,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
-      "quake:ncs:SkwyT2Q5VCtPTVhLYkFWT3NZekladz09",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-world-record-at-the-asian-para-games",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -36642,7 +36655,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nitesh-kumar-and-thulasimathi-murugesan-on-winning-silver-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-thulasimathi-murugesan-and-manasi-joshi-on-winning-gold-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-pranav-soorma-and-dharambir-on-winning-gold-and-bronze-at-the-asian-para-games",
-      "site:who-don:2026-DON622",
       "gazette:CG-MH-E-23102026-277380",
       "mea:41908",
       "quake:ncs:cXVJRk9PSCsxLzZWOXRHWmtheTRBUT09",
@@ -36664,15 +36676,13 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168662",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168654",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-itbp-personnel-on-their-raising-day",
-      "pib:2327812"
+      "pib:2327812",
+      "quake:usgs:us6000u4k6"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "IRDAI": {
-        "count": 2
       },
       "State: Maharashtra": {
         "count": 19,
@@ -36735,7 +36745,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Infosys cuts annual growth outlook due to rising pricing pressure",
+      "post": {
+        "created_at": "2026-10-24T05:26:19+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1792819579757",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Telegraph India",
+        "reposts": 0,
+        "text": "Infosys cuts FY27 growth outlook as pricing pressure mounts",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNenlmWUg1RWlfWXVuVU9meGJnVGdaU01HSVhNcDl4Z3IzdW9FVXd4M0hIM21XMGxxeGdjaGtQQjdaNHRuUFo5eUZKTktmbGhqWmFESWJvODhFVTlXNkRaRnJzY21UdnduWGpZa3pLYlJZaGdmR1ZZWnFtMDJqS3FLMjBiSm53dG40QXR5ekx3VzBZYjBrZXROaEdzN1R0SUZMWXZpWW5yMVM0M3hxMTBWS2xrdmxTNGvSAbwBQVVfeXFMTXhGVzhkU2dILUxNVThwSXFPQmJ5WmRKUmpaX1FfZjVZSnpEX3ZvaVVOX3pIdkY4SkFRVm9MUEh4WmFrS1ZkYkhxcks3Q09ZS1JtZHdOMGFCZXFMSk0tTXNGeEY2RzhLTlJDLWtkRnRBYlBkWm5QUG1uUWIyamJiQTdmWVVNNjdBdDUxOTl0YmxTLXpUUko2ejRaellTLTdtNXBCQXA5ZlVMcFRrbUlCQ2pOdHg1azNEVWIyaGg?oc=5"
+      },
+      "queued_at": "2026-10-24T05:45:57.150397+00:00",
+      "score": 9.0,
+      "why": "Quarterly guidance cuts by top-tier Indian IT majors are major beat stories."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -37859,7 +37888,7 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792817880851,
+    "news: big tech platforms": 1792819165619,
     "news: consumer internet india": 1792770230709,
     "news: global ai": 1792817131685,
     "news: global chips": 1792819506361,
@@ -37869,8 +37898,8 @@
     "news: india fintech": 1792787884863,
     "news: india semiconductors": 1792813300079,
     "news: india tech policy": 1792779256261,
-    "news: india telecom": 1792817459143,
-    "news: indian it majors": 1792817845724,
+    "news: india telecom": 1792820144670,
+    "news: indian it majors": 1792819579757,
     "news: indian it midcaps": 1792818136431,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792812000296,
@@ -37918,7 +37947,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-24T05:31:19.271622+00:00",
+    "last_server_run": "2026-10-24T05:45:57.726333+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-24T05:02:20.170496+00:00",
@@ -42570,11 +42599,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-24T05:32:34.115020+00:00",
+    "last_run": "2026-10-24T05:46:45.622434+00:00",
     "seen": [
-      "x:2110321132511387700",
-      "x:2110318793809674547",
-      "x:2110317704481747214",
       "x:2110308174146539759",
       "x:2110306618403602633",
       "x:2110306518893801664",
@@ -45571,7 +45597,10 @@
       "x:2113861794821517683",
       "x:2113863954950922575",
       "x:2113864254734434422",
-      "x:2113864636454129796"
+      "x:2113864636454129796",
+      "x:2113862834253947076",
+      "x:2113866175168024915",
+      "x:2113867314366144989"
     ],
     "source_failures": {},
     "sources": []
