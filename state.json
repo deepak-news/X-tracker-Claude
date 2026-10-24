@@ -15267,7 +15267,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-24T00:16:46.920071+00:00",
+    "last_run": "2026-10-24T00:32:37.089372+00:00",
     "pib_mark": 2327741,
     "seen": [
       "pib:2320137",
@@ -17595,6 +17595,7 @@
       "site:ai:ISRO|https://www.isro.gov.in/SPADEX_Satellites_Re_entry_into_Earths_Atmosphere.html",
       "watch:meeting:RS|2300",
       "watch:meeting:LS|22580",
+      "watch:meeting:LS|22581",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -18028,7 +18029,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63857",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63858",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
-      "watch:meeting:LS|22581",
       "dgft-public-notice:48221271-6844-4069-9a0a-3fe0f55983a9",
       "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-regulatory-requirement-for-maintenance-of-call-records-of-institutional-clients-by-research-analysts-or-research-entities_105400.html",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63859",
@@ -18130,9 +18130,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792181101908",
-    "1792181262408",
-    "1792214040062",
     "1792193032078",
     "1792224570396",
     "1792232960955",
@@ -22429,7 +22426,6 @@
     "1792749359405",
     "1792756496374",
     "1792756924045",
-    "1792762767635",
     "1792786064332",
     "1792717745709",
     "1792727086559",
@@ -22460,7 +22456,6 @@
     "1792757028000",
     "1792763234355",
     "1792767780006",
-    "1792768597486",
     "1792776540153",
     "1792790089136",
     "1792719000394",
@@ -22488,8 +22483,16 @@
     "1792774105461",
     "1792786143744",
     "1792786667684",
-    "1792774744277",
     "1792794826502",
+    "1792719000659",
+    "1792723284058",
+    "1792731298263",
+    "1792738537414",
+    "1792751280453",
+    "1792774744836",
+    "1792788854931",
+    "1792790520808",
+    "1792794826488",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -23753,7 +23756,6 @@
     "1792717200051",
     "1792717745347",
     "1792719000148",
-    "1792719000659",
     "1792719001953",
     "1792719182912",
     "1792719325163",
@@ -23761,7 +23763,6 @@
     "1792720813215",
     "1792721936320",
     "1792723227929",
-    "1792723284058",
     "1792724105820",
     "1792724361818",
     "1792724914977",
@@ -23809,7 +23810,6 @@
     "1792730367867",
     "1792730893640",
     "1792731240423",
-    "1792731298263",
     "1792731360539",
     "1792731578185",
     "1792731779115",
@@ -23831,7 +23831,6 @@
     "1792737110710",
     "1792737651833",
     "1792737908290",
-    "1792738537414",
     "1792739750977",
     "1792739836128",
     "1792740077357",
@@ -23872,7 +23871,6 @@
     "1792750214700",
     "1792750334182",
     "1792750491988",
-    "1792751280453",
     "1792751341550",
     "1792751519642",
     "1792751994065",
@@ -23927,6 +23925,7 @@
     "1792761307724",
     "1792761398494",
     "1792761491451",
+    "1792762767635",
     "1792762939980",
     "1792763137450",
     "1792763289593",
@@ -23954,6 +23953,7 @@
     "1792768381754",
     "1792768447083",
     "1792768567603",
+    "1792768597486",
     "1792768634748",
     "1792768645502",
     "1792769042567",
@@ -23979,7 +23979,7 @@
     "1792774260668",
     "1792774611455",
     "1792774645915",
-    "1792774744836",
+    "1792774744277",
     "1792774800957",
     "1792775220013",
     "1792775620976",
@@ -23993,6 +23993,7 @@
     "1792777560955",
     "1792777805743",
     "1792778509126",
+    "1792778880047",
     "1792778942618",
     "1792779256261",
     "1792779485571",
@@ -24013,23 +24014,22 @@
     "1792787835423",
     "1792787884863",
     "1792788720528",
-    "1792788854931",
     "1792789226726",
     "1792789620922",
     "1792789867129",
+    "1792790290931",
     "1792790322202",
-    "1792790520808",
     "1792792759083",
     "1792792800719",
     "1792793215744",
     "1792793216246",
     "1792793756292",
     "1792794480049",
-    "1792794826488",
     "1792795915607",
     "1792796460196",
     "1792796460415",
     "1792796749783",
+    "1792798207446",
     "2317509",
     "2317615",
     "2317714",
@@ -24131,8 +24131,8 @@
     "2327568",
     "2327710"
   ],
-  "last_digest_hour": "2026-10-24T05",
-  "last_success": "2026-10-24T00:15:53.447675+00:00",
+  "last_digest_hour": "2026-10-24T06",
+  "last_success": "2026-10-24T00:31:17.501576+00:00",
   "national": {
     "alerted": [
       {
@@ -32308,6 +32308,26 @@
           "reported",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-10-24T00:32:23.733955+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 4.9 earthquake -- 209 km ENE of Nagqu, China.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
+        "words": [
+          "209",
+          "china",
+          "deep",
+          "earthquake",
+          "ene",
+          "ist",
+          "magnitude",
+          "nagqu",
+          "oct",
+          "reported",
+          "usgs"
+        ]
       }
     ],
     "gazette_mark": 277387,
@@ -33520,10 +33540,9 @@
       },
       "warned": "2026-10-23T22:16:53.565524+00:00"
     },
-    "last_run": "2026-10-24T00:16:33.211627+00:00",
+    "last_run": "2026-10-24T00:32:23.735212+00:00",
     "pib_mark": 2327741,
     "seen": [
-      "pib:2319908",
       "pib:2319929",
       "pib:2319925",
       "pib:2319931",
@@ -35977,6 +35996,7 @@
       "site:ai:ISRO|https://www.isro.gov.in/SPADEX_Satellites_Re_entry_into_Earths_Atmosphere.html",
       "watch:meeting:RS|2300",
       "watch:meeting:LS|22580",
+      "watch:meeting:LS|22581",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -36470,7 +36490,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63857",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
       "dgft-public-notice:48221271-6844-4069-9a0a-3fe0f55983a9",
-      "watch:meeting:LS|22581",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63858",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63859",
       "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-regulatory-requirement-for-maintenance-of-call-records-of-institutional-clients-by-research-analysts-or-research-entities_105400.html",
@@ -36522,7 +36541,8 @@
       "quake:usgs:us6000u4dk",
       "quake:ncs:cXVJRk9PSCsxLzZWOXRHWmtheTRBUT09",
       "quake:ncs:S3JnN3QxNmV0NWZ4UkZVcHRzWjVmdz09",
-      "quake:ncs:eU1CaHpyQlhVNmJuS0QvUUtkVXM4QT09"
+      "quake:ncs:eU1CaHpyQlhVNmJuS0QvUUtkVXM4QT09",
+      "quake:usgs:us6000u4i8"
     ],
     "source_failures": {
       "CBI": {
@@ -37724,7 +37744,7 @@
     "news: india fintech": 1792787884863,
     "news: india semiconductors": 1792758283066,
     "news: india tech policy": 1792779256261,
-    "news: india telecom": 1792794826502,
+    "news: india telecom": 1792798207446,
     "news: indian it majors": 1792790520808,
     "news: indian it midcaps": 1792781443824,
     "news: pib releases": 1790159940641,
@@ -37773,17 +37793,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-24T00:15:53.969830+00:00",
+    "last_server_run": "2026-10-24T00:31:18.005678+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-23T22:32:01.427518+00:00",
+        "checked": "2026-10-24T00:32:07.608042+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-23T22:31:54.031864+00:00",
+        "checked": "2026-10-24T00:32:00.075103+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -37859,7 +37879,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-23T22:31:57.780194+00:00",
+        "checked": "2026-10-24T00:32:04.031605+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -37914,10 +37934,10 @@
       "last": {
         "calendar": "2026-10-23T21:46:18.940595+00:00",
         "ls_reports": "2026-10-24T00:16:18.525776+00:00",
-        "rs_committee_press": "2026-10-23T22:31:48.323335+00:00",
-        "rs_press": "2026-10-23T22:31:45.136466+00:00",
-        "rs_reports": "2026-10-23T22:31:42.332727+00:00",
-        "rs_updates": "2026-10-23T22:31:50.199500+00:00"
+        "rs_committee_press": "2026-10-24T00:31:54.479884+00:00",
+        "rs_press": "2026-10-24T00:31:51.490637+00:00",
+        "rs_reports": "2026-10-24T00:31:48.381066+00:00",
+        "rs_updates": "2026-10-24T00:31:56.297274+00:00"
       }
     },
     "scanned": [
@@ -42355,7 +42375,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-24T00:16:35.787582+00:00",
+    "last_run": "2026-10-24T00:32:26.441772+00:00",
     "seen": [
       "x:2110324007023382653",
       "x:2110323994801180681",
