@@ -15828,11 +15828,9 @@
       "CG-WB-E-24102026-277404"
     ],
     "health": {
-      "down": {
-        "IRDAI": "2026-10-25T11:35:10.247735+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-10-25T11:35:16.085110+00:00",
+    "last_run": "2026-10-25T11:46:54.485374+00:00",
     "pib_mark": 2328201,
     "seen": [
       "pib:2320137",
@@ -18236,6 +18234,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-the-launch-of-development-projects-in-ladakh-via-video-conferencing",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-himanshu-nandal-on-winning-bronze-at-the-asian-para-games-3",
       "page:https://internal.imd.gov.in/press_release/20260910_pr_5306.pdf",
+      "mea:41844",
+      "mea:41378",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -18256,8 +18256,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
       "page:https://irdai.gov.in/documents/37343/366347/Extension+of+Last+Date+for+Submission+of+Feedback+on+the+Consultation+Paper+on+Distribution+Reforms+till+31st+October+2026.pdf/3b80fbba-b3e6-937a-bd06-b1dbed936ed2",
-      "mea:41844",
-      "mea:41378",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -18724,11 +18722,7 @@
       "mea:41912",
       "mea:41911"
     ],
-    "source_failures": {
-      "IRDAI": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -18783,11 +18777,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792376561008",
-    "1792379386354",
-    "1792380660039",
-    "1792383153579",
-    "1792386399003",
     "1792339273229",
     "1792342512725",
     "1792376775982",
@@ -23272,7 +23261,6 @@
     "1792839401772",
     "1792839601796",
     "1792839839833",
-    "1792849448252",
     "1792873961148",
     "1792891338109",
     "1792894196338",
@@ -23290,12 +23278,11 @@
     "1792916782915",
     "1792840980976",
     "1792841122483",
-    "1792850400308",
-    "1792854605354",
-    "1792900586235",
-    "1792914784683",
     "1792920208368",
     "1792923243425",
+    "1792841600699",
+    "1792889144670",
+    "1792919191793",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -24573,7 +24560,6 @@
     "1792773520770",
     "1792774800957",
     "1792800000302",
-    "1792841600699",
     "1792842865318",
     "1792844806648",
     "1792845023033",
@@ -24584,12 +24570,15 @@
     "1792848807113",
     "1792848962644",
     "1792849155627",
+    "1792849448252",
     "1792849622034",
+    "1792850400308",
     "1792852580581",
     "1792852648995",
     "1792852899225",
     "1792854068180",
     "1792854448607",
+    "1792854605354",
     "1792854892487",
     "1792855191698",
     "1792855319883",
@@ -24613,7 +24602,6 @@
     "1792872825712",
     "1792885664402",
     "1792888099077",
-    "1792889144670",
     "1792889580008",
     "1792891020970",
     "1792892044677",
@@ -24624,6 +24612,7 @@
     "1792898781141",
     "1792899608756",
     "1792899882828",
+    "1792900586235",
     "1792900817031",
     "1792901448243",
     "1792901807172",
@@ -24656,32 +24645,37 @@
     "1792913419638",
     "1792913598099",
     "1792913792755",
+    "1792914784683",
     "1792914912500",
     "1792915171371",
     "1792915498976",
     "1792916754776",
     "1792916782793",
+    "1792916833899",
     "1792917442442",
     "1792917690315",
     "1792917771950",
     "1792917780410",
     "1792918027461",
-    "1792919191793",
     "1792919463823",
     "1792920208272",
     "1792920600848",
+    "1792920960881",
     "1792921098567",
     "1792921496851",
     "1792922237081",
     "1792923180144",
+    "1792923286194",
     "1792923300336",
     "1792924080155",
     "1792924380723",
     "1792924605870",
     "1792924798472",
     "1792925034008",
+    "1792925460700",
     "1792925563605",
     "1792926149998",
+    "1792927494976",
     "2317509",
     "2317615",
     "2317714",
@@ -24785,7 +24779,7 @@
     "2328087"
   ],
   "last_digest_hour": "2026-10-25T17",
-  "last_success": "2026-10-25T11:31:27.202356+00:00",
+  "last_success": "2026-10-25T11:46:01.200203+00:00",
   "national": {
     "alerted": [
       {
@@ -34467,16 +34461,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "IRDAI": "2026-10-25T11:33:31.816902+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-24T22:16:56.493262+00:00"
     },
-    "last_run": "2026-10-25T11:33:36.731963+00:00",
+    "last_run": "2026-10-25T11:46:41.971874+00:00",
     "pib_mark": 2328201,
     "seen": [
-      "gazette:CG-DL-E-07102026-276888",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-shri-l-k-advani-and-seeks-his-blessings",
       "gazette:CG-DL-E-07102026-276891",
       "gazette:CG-KA-E-07102026-276890",
@@ -36926,6 +36918,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-the-launch-of-development-projects-in-ladakh-via-video-conferencing",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-himanshu-nandal-on-winning-bronze-at-the-asian-para-games-3",
       "page:https://internal.imd.gov.in/press_release/20260910_pr_5306.pdf",
+      "mea:41844",
+      "mea:41378",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -36946,8 +36940,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B0%E0%A5%80%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80++%E0%A4%AA%E0%A4%B0+%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B0++Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
       "page:https://irdai.gov.in/documents/37343/366347/Extension+of+Last+Date+for+Submission+of+Feedback+on+the+Consultation+Paper+on+Distribution+Reforms+till+31st+October+2026.pdf/3b80fbba-b3e6-937a-bd06-b1dbed936ed2",
-      "mea:41844",
-      "mea:41378",
       "gazette:CG-DL-E-24102026-277400",
       "gazette:CG-DL-E-24102026-277398",
       "gazette:CG-DL-E-24102026-277399",
@@ -37475,15 +37467,13 @@
       "pib:2328201",
       "pib:2328200",
       "mea:41912",
-      "mea:41911"
+      "mea:41911",
+      "quake:ncs:KzMxQmJQbVg1SHhnSURzNmU3WU01Zz09"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "IRDAI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -38670,7 +38660,7 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792925563605,
+    "news: big tech platforms": 1792927494976,
     "news: consumer internet india": 1792918027461,
     "news: global ai": 1792924380723,
     "news: global chips": 1792926149998,
@@ -38682,7 +38672,7 @@
     "news: india tech policy": 1792924798472,
     "news: india telecom": 1792925034008,
     "news: indian it majors": 1792924605870,
-    "news: indian it midcaps": 1792905498389,
+    "news: indian it midcaps": 1792925460700,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792904820388,
     "nvidia": 1792720813215,
@@ -38729,7 +38719,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-25T11:31:27.678190+00:00",
+    "last_server_run": "2026-10-25T11:46:01.574190+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-25T11:32:18.389461+00:00",
@@ -43538,18 +43528,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-25T11:33:43.010819+00:00",
+    "last_run": "2026-10-25T11:46:46.261750+00:00",
     "seen": [
-      "x:2110682484694511666",
-      "x:2110682821895622906",
-      "x:2110683026464383337",
-      "x:2110683054184489169",
-      "x:2110683064745812340",
-      "x:2110683095951450551",
-      "x:2110683126011965821",
-      "x:2110683161130635297",
-      "x:2110683278730825960",
-      "x:2110683323278487738",
       "x:2110683782798004288",
       "x:2110684316972028017",
       "x:2110684394461806612",
@@ -46539,7 +46519,17 @@
       "x:2114318127597260840",
       "x:2114318182408450455",
       "x:2114318599934636168",
-      "x:2114318719329665354"
+      "x:2114318719329665354",
+      "x:2114319334608978108",
+      "x:2114319438598316050",
+      "x:2114320281808597149",
+      "x:2114320523442434052",
+      "x:2114320795740819541",
+      "x:2114320837398704544",
+      "x:2114320900627800299",
+      "x:2114321119172063741",
+      "x:2114321352866087153",
+      "x:2114321831578464545"
     ],
     "source_failures": {},
     "sources": []
