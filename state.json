@@ -1,23 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-17T13:31:23.640344+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Ekart FY26 loss narrows sharply to Rs 26 crore",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDNtUE9TQWhRWllJMVZPbXZ6eDNvdloyN1RBMHA2N0hMTTl1QXlzUVJCeUdUekVZX18tVzFRVGpLV21sdUtONFBZSGQtMTRhbFB1V0lPSktwSVFHQ1Vtc1JaSm5pY01vY3V3WTR3RXBJc0VMXy05NmlqV28tZUlvMElIbUFoRjFJY2I3Yms0TXB4VEYtVHlsaTREell6RUE?oc=5",
-      "words": [
-        "despite",
-        "ekart",
-        "fall",
-        "fy26",
-        "line",
-        "loss",
-        "narrows",
-        "top"
-      ]
-    },
-    {
       "at": "2026-10-17T16:31:37.649699+00:00",
       "handle": "News: Global AI",
       "headline": "DeepSeek releases faster and leaner updated artificial intelligence model",
@@ -7463,6 +7446,22 @@
         "sensitive",
         "spacex",
         "tracking"
+      ]
+    },
+    {
+      "at": "2026-10-25T13:31:21.167026+00:00",
+      "handle": "News: India fintech",
+      "headline": "Financeminister says UPI handles nearly 80 crore daily transactions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS2E0VVBoVmFqS2xkVFoxRDNsUGtnczZfT1djNEgybVYtX0VndkdfTE94eG5OU3R0Zm0teFVBZWJIZXlsYktQRVZ5akdndVpxMU54YUc4empSc3dIUC1MajlWLU9QUUtWelh2OHVWUkxURVFHWXI1N1NmQ2J1WG52Z0U5ZXdTY3RsYjVNZDg4Ry0tbURRdWhsSy1sTXlrSGlReXdNa3BOWEtGWkwyMVVtWjBDVUw4OTVWNm1PQ3FveXJiaUlUWTNCWUJxMjRvbEN3Zko2a3MteUZMd1BEQXNz?oc=5",
+      "words": [
+        "daily",
+        "handles",
+        "nearly",
+        "nirmala",
+        "sitharaman",
+        "transactions",
+        "upi"
       ]
     }
   ],
@@ -15850,7 +15849,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-25T13:17:12.034208+00:00",
+    "last_run": "2026-10-25T13:32:26.307267+00:00",
     "pib_mark": 2328234,
     "seen": [
       "pib:2320137",
@@ -18798,12 +18797,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792388214144",
-    "1792390367128",
-    "1792393013739",
-    "1792395033710",
-    "1792399772320",
-    "1792316163582",
     "1792376708559",
     "1792377011317",
     "1792380737807",
@@ -23248,7 +23241,6 @@
     "1792901324978",
     "1792915498641",
     "1792916782042",
-    "1792918860930",
     "1792838887087",
     "1792839108115",
     "1792839124005",
@@ -23281,14 +23273,12 @@
     "1792872825712",
     "1792902295634",
     "1792914784683",
-    "1792922237081",
     "1792924080155",
     "1792924798472",
     "1792929600141",
     "1792844806648",
     "1792845023033",
     "1792854068180",
-    "1792920960881",
     "1792924605870",
     "1792925034008",
     "1792846730131",
@@ -23297,9 +23287,6 @@
     "1792908077076",
     "1792920208272",
     "1792847275007",
-    "1792857348856",
-    "1792872825511",
-    "1792892044677",
     "1792894800076",
     "1792898781141",
     "1792909990924",
@@ -23310,8 +23297,10 @@
     "1792924798190",
     "1792925460700",
     "1792926149998",
-    "1792928381039",
     "1792929360618",
+    "1792903348084",
+    "1792917771950",
+    "1792928381912",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -24606,6 +24595,7 @@
     "1792856028969",
     "1792856183463",
     "1792856955785",
+    "1792857348856",
     "1792857600880",
     "1792858185649",
     "1792858440022",
@@ -24618,11 +24608,13 @@
     "1792865461988",
     "1792865824444",
     "1792867798369",
+    "1792872825511",
     "1792885664402",
     "1792888099077",
     "1792889144670",
     "1792889580008",
     "1792891020970",
+    "1792892044677",
     "1792895422904",
     "1792895996490",
     "1792897440267",
@@ -24634,7 +24626,6 @@
     "1792902180722",
     "1792902517088",
     "1792903204395",
-    "1792903348084",
     "1792904135978",
     "1792904812177",
     "1792904820388",
@@ -24652,6 +24643,7 @@
     "1792910895073",
     "1792911069574",
     "1792912329071",
+    "1792913364950",
     "1792913419638",
     "1792913598099",
     "1792913792755",
@@ -24663,15 +24655,17 @@
     "1792916833899",
     "1792917442442",
     "1792917690315",
-    "1792917771950",
     "1792917780410",
     "1792918027461",
+    "1792918860930",
     "1792919191793",
     "1792919463823",
     "1792920208368",
     "1792920600848",
+    "1792920960881",
     "1792921098567",
     "1792921496851",
+    "1792922237081",
     "1792923180144",
     "1792923243425",
     "1792923300336",
@@ -24680,13 +24674,14 @@
     "1792924605145",
     "1792924609180",
     "1792924798165",
+    "1792924985338",
     "1792925034634",
     "1792925413338",
     "1792925501263",
     "1792925563605",
     "1792926149179",
     "1792927494976",
-    "1792928381912",
+    "1792928381039",
     "1792929248412",
     "1792929318664",
     "1792929360994",
@@ -24696,7 +24691,11 @@
     "1792929900257",
     "1792930888787",
     "1792931310666",
+    "1792931310874",
+    "1792933800008",
     "1792933898100",
+    "1792933903236",
+    "1792934800312",
     "2317509",
     "2317615",
     "2317714",
@@ -24799,8 +24798,8 @@
     "2327710",
     "2328087"
   ],
-  "last_digest_hour": "2026-10-25T18",
-  "last_success": "2026-10-25T13:16:05.075109+00:00",
+  "last_digest_hour": "2026-10-25T19",
+  "last_success": "2026-10-25T13:31:21.249082+00:00",
   "national": {
     "alerted": [
       {
@@ -34482,12 +34481,13 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-10-25T13:32:08.515791+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-24T22:16:56.493262+00:00"
     },
-    "last_run": "2026-10-25T13:16:49.265177+00:00",
+    "last_run": "2026-10-25T13:32:09.657471+00:00",
     "pib_mark": 2328234,
     "seen": [
       "gazette:CG-DL-E-07102026-276891",
@@ -37496,6 +37496,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "NPCI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -37557,26 +37560,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Financeminister says UPI handles nearly 80 crore daily transactions",
-      "post": {
-        "created_at": "2026-10-25T12:21:28+00:00",
-        "handle": "News: India fintech",
-        "id": "1792930888787",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "UPI handles nearly 80 crore transactions daily, says Nirmala Sitharaman",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS2E0VVBoVmFqS2xkVFoxRDNsUGtnczZfT1djNEgybVYtX0VndkdfTE94eG5OU3R0Zm0teFVBZWJIZXlsYktQRVZ5akdndVpxMU54YUc4empSc3dIUC1MajlWLU9QUUtWelh2OHVWUkxURVFHWXI1N1NmQ2J1WG52Z0U5ZXdTY3RsYjVNZDg4Ry0tbURRdWhsSy1sTXlrSGlReXdNa3BOWEtGWkwyMVVtWjBDVUw4OTVWNm1PQ3FveXJiaUlUWTNCWUJxMjRvbEN3Zko2a3MteUZMd1BEQXNz?oc=5"
-      },
-      "queued_at": "2026-10-25T12:46:00.800286+00:00",
-      "score": 7.0,
-      "why": "This provides official high-level operational statistics for India's primary payments network from a cabinet minister."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -38636,7 +38620,7 @@
       "meeting:LS|22571",
       "meeting:RS|2300"
     ],
-    "sent_on": "2026-10-24"
+    "sent_on": "2026-10-25"
   },
   "seen": {
     "airtel": 1791353787219,
@@ -38700,8 +38684,8 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792929660141,
-    "news: consumer internet india": 1792933898100,
+    "news: big tech platforms": 1792934800312,
+    "news: consumer internet india": 1792933903236,
     "news: global ai": 1792929900257,
     "news: global chips": 1792931310666,
     "news: global it services": 1792910781752,
@@ -38714,7 +38698,7 @@
     "news: indian it majors": 1792924605870,
     "news: indian it midcaps": 1792929318664,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1792931310666,
+    "news: tech leaders": 1792931310874,
     "nvidia": 1792720813215,
     "nvidia blog": 1792720813215,
     "openai": 1792774800957,
@@ -38759,7 +38743,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-25T13:16:05.573108+00:00",
+    "last_server_run": "2026-10-25T13:31:21.768319+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-25T11:32:18.389461+00:00",
@@ -43579,14 +43563,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-25T13:16:57.767330+00:00",
+    "last_run": "2026-10-25T13:32:15.317165+00:00",
     "seen": [
-      "x:2110704492727640408",
-      "x:2110704661087084976",
-      "x:2110705632970199471",
-      "x:2110706089281065198",
-      "x:2110706162521804885",
-      "x:2110706324904521882",
       "x:2110706512884900196",
       "x:2110706764211785954",
       "x:2110707557048389912",
@@ -46580,7 +46558,13 @@
       "x:2114341785975885948",
       "x:2114342061587771667",
       "x:2114342976881332654",
-      "x:2114344046277910754"
+      "x:2114344046277910754",
+      "x:2114338971874734119",
+      "x:2114344111021191250",
+      "x:2114344978893718000",
+      "x:2114345063312470322",
+      "x:2114346508711841995",
+      "x:2114347337414037957"
     ],
     "source_failures": {},
     "sources": []
