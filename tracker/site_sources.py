@@ -528,8 +528,9 @@ def _screen(items: list, dry_run: bool) -> list:
     if have is None:
         return []
     new = [it for it in items if it["id"] not in have["known"]]
-    first = [it for it in new if f"official|{it['source']}" not in have["started"]]
-    waiting = [it for it in new if f"official|{it['source']}" in have["started"]]
+    # a source's first list, and rows a reader marks "settle" (a rebuilt site's first readings), go in quietly, unjudged
+    first = [it for it in new if f"official|{it['source']}" not in have["started"] or it.get("settle")]
+    waiting = [it for it in new if f"official|{it['source']}" in have["started"] and not it.get("settle")]
     for it in first:
         it["quiet"] = True
     hourly = website._cfg().get("ai_hourly", True)
@@ -681,65 +682,80 @@ def lokpal() -> list:
 
 # ---------------------------------------------------------------- Delhi Police
 
-# Delhi Police (delhipolice.gov.in, added 2026-10-12): its lists are ASP.NET grids whose rows
-# open only by a form post, so each row is known by its date and title, and links to its list.
-# Standing orders (the protest guidelines of Oct 11), circulars, prohibitory orders
-# ("Notifications", BNSS 163), the monthly Delhi Police Gazette, the home page's "What's new"
-# box, and the district press releases (busy: AI-scored, a source of their own).
+# Delhi Police (delhipolice.gov.in, added 2026-10-12): standing orders (the protest guidelines of Oct 11),
+# circulars, prohibitory orders ("Notifications", BNSS 163), the monthly Delhi Police Gazette, the home page's
+# "What's new" box, and the district press releases (busy: AI-scored, a source of their own).
+# The site was rebuilt around Oct 20, 2026: the old ASP.NET grids (standingorderNew.aspx, circulars.aspx ...)
+# answer 404, and each list is now a plain table on an .html page, every row with its own PDF.
 DP = "https://delhipolice.gov.in/"
+# The new site dates rows differently from the old one (a press release of Oct 18 there is "10 Oct" here), so
+# the old ids do not carry over. Until DP_SETTLE_UNTIL every row the new pages list goes in quietly, with no
+# alert and no AI: what is there now is not news. A row that appears after it is.
+DP_SETTLE_UNTIL = dt.datetime(2026, 10, 26, 0, 0, tzinfo=IST)
 
 
-def _dp_grid(page: str, date_at: int | None, title_at: int, formats=("%d/%m/%Y",), more=None) -> list:
+def _dp_table(page: str, kind: str, more=None) -> list:
+    """One of the new site's lists: a table of numbered rows, each with a title, a date (or a year) and a PDF."""
     soup = BeautifulSoup(_get(DP + page).text, "html.parser")
+    table = soup.find("table")
+    if table is None:
+        raise RuntimeError(f"no list on Delhi Police's {page} (the page may have changed)")
+    head = [_clean(th.get_text(" ")).lower() for th in table.find_all("th")]
+    title_at = next((i for i, h in enumerate(head) if h in ("title", "notification", "subject")), 1)
+    date_at = next((i for i, h in enumerate(head) if "date" in h), None)
+    settle = dt.datetime.now(IST) < DP_SETTLE_UNTIL
     rows = []
-    for tr in soup.find_all("tr"):
-        if tr.find("table"):             # the pager: a table of page numbers inside a row
-            continue
-        cells = [_clean(c.get_text(" ")) for c in tr.find_all("td", recursive=False)]
+    for tr in table.find_all("tr"):
+        cells = [_clean(td.get_text(" ")) for td in tr.find_all("td", recursive=False)]
         if len(cells) <= title_at or not cells[0].rstrip(".").isdigit() or not cells[title_at] or cells[title_at].isdigit():
             continue
-        when = _day(cells[date_at], *formats) if date_at is not None else None
-        stamp = cells[date_at] if date_at is not None else ""
-        rows.append({"key": f"dp-{page.split('.')[0].lower()}:{stamp}|{cells[title_at][:200]}",
-                     "title": cells[title_at], "detail": more(cells) if more else (stamp if date_at is not None else ""),
-                     "url": DP + page, "date": when})
+        stamp = cells[date_at] if date_at is not None and date_at < len(cells) else ""
+        link = tr.find("a", href=True)
+        url = urljoin(DP, quote(link["href"].strip(), safe="/:%?=&")) if link else DP + page
+        rows.append({"key": f"dp-{kind}:{stamp}|{cells[title_at][:200]}", "title": cells[title_at],
+                     "detail": more(dict(zip(head, cells))) if more else (f"Dated {stamp}" if stamp else ""),
+                     "url": url, "date": _day(stamp, "%d %b, %Y", "%d %b %Y", "%d/%m/%Y") if stamp else None, "settle": settle})
     if not rows:
         raise RuntimeError(f"nothing in Delhi Police's {page} (the page may have changed)")
     return rows
 
 
 def dp_standing() -> list:
-    return _dp_grid("standingorderNew.aspx", 1, 2, ("%Y-%m-%d",), lambda c: f"Standing order dated {c[1]}")
+    return _dp_table("standing-orders.html", "standing", lambda c: f"Standing order dated {c.get('order date', '')}".strip())
 
 
 def dp_circulars() -> list:
-    return _dp_grid("circulars.aspx", None, 2, more=lambda c: f"Circular, {c[1]}")
+    return _dp_table("circulars.html", "circulars", lambda c: f"Circular, {c['year']}" if c.get("year") else "Circular")
 
 
 def dp_notifications() -> list:
-    return _dp_grid("notification.aspx", 1, 2, more=lambda c: f"Dated {c[1]}")
+    return _dp_table("notifications.html", "notification")
 
 
 def dp_gazette() -> list:
-    return _dp_grid("Gazette.aspx", 2, 1, more=lambda c: f"Dated {c[2]}")
+    return _dp_table("delhi-police-gazette.html", "gazette")
 
 
 def dp_press() -> list:
-    return _dp_grid("newpressrelease.aspx", 1, 2,
-                    more=lambda c: " | ".join(x for x in (c[3] if len(c) > 3 else "", f"PS {c[4]}" if len(c) > 4 and c[4] else "",
-                                                          c[5].title() if len(c) > 5 else "") if x))
+    return _dp_table("press-releases.html", "press",
+                     lambda c: " | ".join(x for x in (c.get("category", ""), f"PS {c['police station']}" if c.get("police station") else "",
+                                                      c.get("district", "").title()) if x))
 
 
 def dp_whatsnew() -> list:
-    """The home page's "What's new" box: documents put up as PDFs (the protest guidelines first)."""
+    """The home page's "What's new" box: the documents and pages it points to (the protest guidelines first)."""
     soup = BeautifulSoup(_get(DP).text, "html.parser")
+    box = soup.select_one(".news-scroll")
+    if box is None:
+        raise RuntimeError("no What's new box on Delhi Police's home page (the page may have changed)")
+    settle = dt.datetime.now(IST) < DP_SETTLE_UNTIL
     rows = []
-    for link in soup.find_all("a", href=True):
+    for link in box.find_all("a", href=True):
         href = link["href"].strip()
         title = _clean(link.get_text(" ")).rstrip(".")
-        if "whatsnewfile/" in href.lower() and title:
-            url = urljoin(DP, quote(href, safe="/:%?=&"))
-            rows.append({"key": f"dp-whatsnew:{href}", "title": title, "detail": "", "url": url, "date": None})
+        if title and not href.startswith(("#", "mailto:", "tel:", "javascript:")):
+            rows.append({"key": f"dp-whatsnew:{href}", "title": title, "detail": "",
+                         "url": urljoin(DP, quote(href, safe="/:%?=&")), "date": None, "settle": settle})
     if not rows:
         raise RuntimeError("nothing in Delhi Police's What's new box (the page may have changed)")
     return rows
@@ -895,7 +911,8 @@ def run(dry_run: bool = False) -> int:
                           "title": row["title"][:500], "body": row.get("detail", "")[:1500], "url": row.get("url", ""),
                           "issued": f"{row['date']:%b} {row['date'].day}, {row['date'].year}" if row.get("date") else "",
                           "date": row["date"].isoformat() if row.get("date") else "",
-                          "quiet": bool(row.get("date") and row["date"] < old)})
+                          "quiet": bool(row.get("settle") or (row.get("date") and row["date"] < old)),
+                          **({"settle": True} if row.get("settle") else {})})
         if dry_run:
             for row in rows[:3]:
                 print(f"      {row.get('date') or ''} {row['title'][:90]}  {row.get('url', '')[:80]}")
@@ -918,7 +935,8 @@ def run(dry_run: bool = False) -> int:
                     "title": row["title"][:500], "body": row.get("detail", "")[:1500], "url": row.get("url", ""),
                     "issued": f"{row['date']:%b} {row['date'].day}, {row['date'].year}" if row.get("date") else "",
                     "date": row["date"].isoformat() if row.get("date") else "",
-                    "quiet": bool(row.get("date") and row["date"] < old)}
+                    "quiet": bool(row.get("settle") or (row.get("date") and row["date"] < old)),
+                    **({"settle": True} if row.get("settle") else {})}
             (screened if m.get("ai") else items).append(item)
         if dry_run:
             for row in found[:3]:
