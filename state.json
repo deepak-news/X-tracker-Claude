@@ -15291,6 +15291,29 @@
           "rbi",
           "text"
         ]
+      },
+      {
+        "at": "2026-10-25T14:16:53.728613+00:00",
+        "handle": "PIB Prime Minister's Office",
+        "headline": "Prime Minister Narendra Modi inaugurates RBI Data Centre and Cybersecurity Training Institute",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328250",
+        "words": [
+          "bhubaneswar",
+          "centre",
+          "cybersecurity",
+          "data",
+          "established",
+          "inaugurates",
+          "institute",
+          "minister",
+          "modi",
+          "narendra",
+          "newly",
+          "odisha",
+          "office",
+          "prime"
+        ]
       }
     ],
     "gazette_mark": 277417,
@@ -15849,8 +15872,8 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-25T14:03:19.524486+00:00",
-    "pib_mark": 2328248,
+    "last_run": "2026-10-25T14:16:53.729757+00:00",
+    "pib_mark": 2328250,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -18742,7 +18765,8 @@
       "mea:41911",
       "pib:2328234",
       "pib:2328248",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-inauguration-key-rbi-facilities-in-bhubaneswar"
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-inauguration-key-rbi-facilities-in-bhubaneswar",
+      "pib:2328250"
     ],
     "source_failures": {},
     "sources": [
@@ -18799,7 +18823,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792384258450",
     "1792389960945",
     "1792393212261",
     "1792393461303",
@@ -23290,7 +23313,6 @@
     "1792924798190",
     "1792903348084",
     "1792917771950",
-    "1792928381912",
     "1792848685239",
     "1792848807113",
     "1792848962644",
@@ -23305,7 +23327,17 @@
     "1792931310874",
     "1792850400308",
     "1792901807172",
-    "1792925501263",
+    "1792857348856",
+    "1792872825511",
+    "1792892044677",
+    "1792898781141",
+    "1792921496851",
+    "1792924080155",
+    "1792925460700",
+    "1792927494976",
+    "1792927863428",
+    "1792928381039",
+    "1792933800008",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -24593,7 +24625,6 @@
     "1792855319883",
     "1792856028969",
     "1792856955785",
-    "1792857348856",
     "1792857600880",
     "1792858185649",
     "1792858440022",
@@ -24606,17 +24637,14 @@
     "1792865461988",
     "1792865824444",
     "1792867798369",
-    "1792872825511",
     "1792885664402",
     "1792888099077",
     "1792889144670",
     "1792889580008",
     "1792891020970",
-    "1792892044677",
     "1792895422904",
     "1792895996490",
     "1792897440267",
-    "1792898781141",
     "1792899882828",
     "1792900586235",
     "1792900817031",
@@ -24662,12 +24690,10 @@
     "1792920208368",
     "1792920600848",
     "1792921098567",
-    "1792921496851",
     "1792922237081",
     "1792923180144",
     "1792923243425",
     "1792923300336",
-    "1792924080155",
     "1792924380723",
     "1792924560196",
     "1792924605145",
@@ -24676,12 +24702,10 @@
     "1792924985338",
     "1792925034634",
     "1792925413338",
-    "1792925460700",
+    "1792925501263",
     "1792925563605",
     "1792926149998",
-    "1792927494976",
-    "1792927863428",
-    "1792928381039",
+    "1792928381912",
     "1792929248412",
     "1792929318664",
     "1792929360618",
@@ -24692,7 +24716,7 @@
     "1792930080523",
     "1792930888787",
     "1792931310666",
-    "1792933800008",
+    "1792933558785",
     "1792933898100",
     "1792933903236",
     "1792934436510",
@@ -24801,7 +24825,7 @@
     "2328087"
   ],
   "last_digest_hour": "2026-10-25T19",
-  "last_success": "2026-10-25T14:01:34.615918+00:00",
+  "last_success": "2026-10-25T14:16:01.719965+00:00",
   "national": {
     "alerted": [
       {
@@ -34485,10 +34509,9 @@
       },
       "warned": "2026-10-24T22:16:56.493262+00:00"
     },
-    "last_run": "2026-10-25T14:02:54.590511+00:00",
-    "pib_mark": 2328248,
+    "last_run": "2026-10-25T14:16:38.819438+00:00",
+    "pib_mark": 2328250,
     "seen": [
-      "gazette:CG-AP-E-07102026-276889",
       "gazette:CG-WB-E-07102026-276895",
       "gazette:CG-DL-E-07102026-276893",
       "gazette:CG-TL-E-07102026-276894",
@@ -36937,6 +36960,7 @@
       "mea:41844",
       "mea:41378",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-navdeep-on-winning-bronze-at-the-asian-para-games",
+      "quake:usgs:us6000u4r9",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -37463,7 +37487,6 @@
       "gazette:CG-DL-E-24102026-277417",
       "gazette:CG-WB-E-24102026-277404",
       "gazette:CG-MH-E-24102026-277406",
-      "quake:usgs:us6000u4r9",
       "quake:usgs:us6000u4rf",
       "pib:2328126",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-hails-indias-historic-best-ever-performance-and-record-114-medals-at-the-asian-para-games-2026",
@@ -37487,7 +37510,8 @@
       "quake:ncs:KzMxQmJQbVg1SHhnSURzNmU3WU01Zz09",
       "pib:2328234",
       "pib:2328248",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-inauguration-key-rbi-facilities-in-bhubaneswar"
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-inauguration-key-rbi-facilities-in-bhubaneswar",
+      "pib:2328250"
     ],
     "source_failures": {
       "CBI": {
@@ -38681,7 +38705,7 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1792936801641,
     "news: consumer internet india": 1792933903236,
-    "news: global ai": 1792929900257,
+    "news: global ai": 1792933558785,
     "news: global chips": 1792931310666,
     "news: global it services": 1792910781752,
     "news: india ai deeptech": 1792854448607,
@@ -38738,7 +38762,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-25T14:01:35.014661+00:00",
+    "last_server_run": "2026-10-25T14:16:02.097438+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-25T13:46:53.342091+00:00",
@@ -43558,13 +43582,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-25T14:02:59.329117+00:00",
+    "last_run": "2026-10-25T14:16:42.683786+00:00",
     "seen": [
-      "x:2110708080355016804",
-      "x:2110709049758973957",
-      "x:2110709865916281187",
-      "x:2110710204744827252",
-      "x:2110711073498366219",
       "x:2110712054642540996",
       "x:2110670326686511139",
       "x:2110691808074432960",
@@ -46559,7 +46578,12 @@
       "x:2114351082512208032",
       "x:2114352528565354807",
       "x:2114353167630750134",
-      "x:2114355367295713460"
+      "x:2114355367295713460",
+      "x:2114356307683877243",
+      "x:2114357541564281021",
+      "x:2114357662276272532",
+      "x:2114357933840744950",
+      "x:2114358296820043880"
     ],
     "source_failures": {},
     "sources": []
