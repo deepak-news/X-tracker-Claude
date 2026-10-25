@@ -1,24 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-17T11:31:43.657465+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "IndiaAI Fellowship Programme 2026-27 applications open with stipend details",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRGtDdmlXeE5JR0lCdHU1MTJqaFNkUTF3d2p6aTV0V1JVWExKZENzU3U0SGQ2RWNOSmgzVzlYTWl3dWRHN00xeldOYjA0WmVYVFc0OTc3VVBKaGlEVjA0cGFVN2EwbU9DenN6eXBTc0cxQjVtc3BPS1Q5OUhvZlE2am5QX3M3aC1WOWVxOU5WXzRuNjJuQXg3MVh2ZE9RMnRubzJkLUhBLTNsTmdtWkR6ODBtUDY1LUp2Q0NTTUpRcHZEamw3OXN2c1NpMFRwTFc3bWVfWXdQM3hIUdIB3wFBVV95cUxQb1RCQXB5U29DSkJ3bjNWaVBZbEdoZ2k5a3R3UFJIYU13U0FmZ2FBSE1ma2pkNDEyT3h4ODdjMkUtUUttRzJqelpoTFhXM1hsR2hhdExuZW0yYkFtZTNCeHhfaDB0QUVDN1dfRFlaU1BVZ0xtY3NOVVpHZmNEQ2NHQ1djeWdUazZOWVBhVWJTOS1iVnktUERITDlTS29xeWF5UW5Vb1VKaVR0SGVQV2tTSm1SVlIxT3lIU3M2SmUwaG0zLUlCZjRld3ZDUUd0d0FaMTdWRlFQNmZKUkFUcFhn?oc=5",
-      "words": [
-        "2026",
-        "check",
-        "deadline",
-        "eligibility",
-        "fellowship",
-        "funding",
-        "indiaai",
-        "opens",
-        "programme"
-      ]
-    },
-    {
       "at": "2026-10-17T12:31:31.475921+00:00",
       "handle": "News: India fintech",
       "headline": "Axis Bank's Freecharge receives in-principle RBI payment aggregator nod",
@@ -7464,6 +7446,24 @@
         "shar",
         "xbox",
         "years"
+      ]
+    },
+    {
+      "at": "2026-10-25T10:31:18.783135+00:00",
+      "handle": "News: Global AI",
+      "headline": "AI-found software flaw signals chaos ahead",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHhlZjhQWEg4aGZVWG0tMC1tWmFEdThmb0M1alJmdzluZXgxX0E4WklYOHpVRDJZR092eGxRTEdpUFROdXcyTl9lNE1aaC10dTNjQVNBZjBIb2FPTi1WZlktc1VjLXVkVU5rREJZLXBXSXprTEluZ1NwNjU0Tl92WmEwWm9Ncmlpbk14SVJaZ3pIWU9TRXY3dHBSdXc1eVlZekpzblhFRWZHUk5UNHJndUE4eVk0MGQ0ejZfVGVkX0hYQWNjdzJHZUJpZ0gzZC1xdFI40gHYAUFVX3lxTE15WlpkeWlXR2R4TUVJVUd2cExkekZKaXVFUTNzWVVpRmU1U25FVGM2MGF5bUxWdDM0UmVhQ29QNmdOQjZ3VE1uU3JBQXZoZlRqeWs5dU14blV6elVaLV82bm9YMEQwYXZhclJqYk9XenM2RFpPcFdXV3d5c1QtUU5wSEs5Q1RsWC1BeS1rTWJ6NUVOZ0hNUzNSN2FTejBSaVVGRTIxSUZwa0gyeDhYQmdza0JmQ1Q0b2czWkZsLTM5TDlZUWFJMDBDeW5DamZkMk42Wkd2Z2FZeg?oc=5",
+      "words": [
+        "ahead",
+        "chaos",
+        "coming",
+        "debt",
+        "due",
+        "flaw",
+        "found",
+        "signals",
+        "tech"
       ]
     }
   ],
@@ -15764,8 +15764,8 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-25T10:17:01.183548+00:00",
-    "pib_mark": 2328181,
+    "last_run": "2026-10-25T10:32:35.173897+00:00",
+    "pib_mark": 2328185,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -18648,7 +18648,8 @@
       "pib:2328149",
       "page:https://internal.imd.gov.in/press_release/20261025_pr_5432.pdf",
       "pib:2328168",
-      "pib:2328181"
+      "pib:2328181",
+      "pib:2328185"
     ],
     "source_failures": {},
     "sources": [
@@ -18705,13 +18706,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792386693164",
-    "1792388738612",
-    "1792389894273",
-    "1792393212025",
-    "1792308704032",
-    "1792340105849",
-    "1792344056520",
     "1792375805883",
     "1792381051698",
     "1792381800072",
@@ -23193,7 +23187,6 @@
     "1792915171932",
     "1792915960899",
     "1792834306521",
-    "1792841600875",
     "1792862699190",
     "1792835400974",
     "1792835490339",
@@ -23201,20 +23194,24 @@
     "1792896130606",
     "1792900586235",
     "1792914784922",
-    "1792917771950",
-    "1792839124005",
     "1792845832678",
-    "1792847275007",
     "1792850400239",
     "1792868220055",
     "1792873961148",
     "1792896130553",
     "1792904135978",
     "1792904812370",
-    "1792910591767",
-    "1792913598099",
-    "1792914784683",
     "1792916782915",
+    "1792841600699",
+    "1792849448252",
+    "1792861620640",
+    "1792891338109",
+    "1792909990924",
+    "1792914784261",
+    "1792915498976",
+    "1792916782402",
+    "1792917427029",
+    "1792917720498",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -24498,22 +24495,23 @@
     "1792838613942",
     "1792838887087",
     "1792839108115",
+    "1792839124005",
     "1792839401772",
     "1792839601796",
     "1792839839833",
     "1792840464713",
     "1792840980976",
     "1792841122483",
-    "1792841600699",
+    "1792841600875",
     "1792842865318",
     "1792844806648",
     "1792846730131",
     "1792846860855",
+    "1792847275007",
     "1792848685239",
     "1792848807113",
     "1792848962644",
     "1792849155627",
-    "1792849448252",
     "1792849622034",
     "1792850400308",
     "1792852580581",
@@ -24534,7 +24532,6 @@
     "1792858959395",
     "1792859353732",
     "1792860647002",
-    "1792861620640",
     "1792862699447",
     "1792865138172",
     "1792865461988",
@@ -24546,7 +24543,6 @@
     "1792889144670",
     "1792889580008",
     "1792891020970",
-    "1792891338109",
     "1792892044677",
     "1792894196338",
     "1792894800076",
@@ -24578,7 +24574,7 @@
     "1792908010074",
     "1792908077076",
     "1792909560154",
-    "1792909990924",
+    "1792910591767",
     "1792910748104",
     "1792910748196",
     "1792910781752",
@@ -24587,23 +24583,28 @@
     "1792911069574",
     "1792912329071",
     "1792913419638",
+    "1792913598099",
     "1792913792755",
-    "1792914784261",
+    "1792914784683",
     "1792914912500",
-    "1792915498976",
+    "1792915498641",
     "1792916754776",
-    "1792916782402",
-    "1792917427029",
+    "1792916782042",
     "1792917442442",
     "1792917690315",
-    "1792917720498",
+    "1792917771950",
     "1792917780410",
     "1792918027461",
     "1792918860930",
     "1792919463823",
+    "1792920208368",
     "1792920600848",
     "1792921496851",
     "1792922237081",
+    "1792923180144",
+    "1792923243425",
+    "1792923300336",
+    "1792923702155",
     "2317509",
     "2317615",
     "2317714",
@@ -24706,8 +24707,8 @@
     "2327710",
     "2328087"
   ],
-  "last_digest_hour": "2026-10-25T15",
-  "last_success": "2026-10-25T10:15:57.473863+00:00",
+  "last_digest_hour": "2026-10-25T16",
+  "last_success": "2026-10-25T10:31:18.860771+00:00",
   "national": {
     "alerted": [
       {
@@ -34391,16 +34392,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-10-25T10:02:34.139281+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-24T22:16:56.493262+00:00"
     },
-    "last_run": "2026-10-25T10:16:48.627955+00:00",
-    "pib_mark": 2328181,
+    "last_run": "2026-10-25T10:32:19.351996+00:00",
+    "pib_mark": 2328185,
     "seen": [
-      "gazette:CG-DL-E-07102026-276884",
       "gazette:CG-UP-E-07102026-276887",
       "gazette:SG-DL-E-07102026-276886",
       "page:https://internal.imd.gov.in/press_release/20260823_pr_5254.pdf",
@@ -37399,15 +37398,13 @@
       "quake:ncs:ejQ1Qm1CMG9PNnd3UWJTYXFWNm5UUT09",
       "page:https://internal.imd.gov.in/press_release/20261025_pr_5432.pdf",
       "pib:2328168",
-      "pib:2328181"
+      "pib:2328181",
+      "pib:2328185"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 2
       },
       "State: Maharashtra": {
         "count": 19,
@@ -38594,9 +38591,9 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792922237081,
+    "news: big tech platforms": 1792923702155,
     "news: consumer internet india": 1792918027461,
-    "news: global ai": 1792918860930,
+    "news: global ai": 1792923243425,
     "news: global chips": 1792904812370,
     "news: global it services": 1792910781752,
     "news: india ai deeptech": 1792854448607,
@@ -38604,7 +38601,7 @@
     "news: india fintech": 1792914784922,
     "news: india semiconductors": 1792855191698,
     "news: india tech policy": 1792913598099,
-    "news: india telecom": 1792915498976,
+    "news: india telecom": 1792920208368,
     "news: indian it majors": 1792913792755,
     "news: indian it midcaps": 1792905498389,
     "news: pib releases": 1790159940641,
@@ -38655,7 +38652,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-25T10:15:57.760022+00:00",
+    "last_server_run": "2026-10-25T10:31:19.364976+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-25T09:32:04.065356+00:00",
@@ -38784,7 +38781,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-10-25T04:31:32.779928+00:00",
+        "at": "2026-10-25T10:31:45.898385+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -38794,7 +38791,7 @@
         }
       },
       "last": {
-        "calendar": "2026-10-25T04:31:35.441034+00:00",
+        "calendar": "2026-10-25T10:31:48.583584+00:00",
         "ls_reports": "2026-10-25T09:01:55.078576+00:00",
         "rs_committee_press": "2026-10-25T09:31:50.630300+00:00",
         "rs_press": "2026-10-25T09:31:47.631140+00:00",
@@ -43464,12 +43461,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-25T10:16:53.845753+00:00",
+    "last_run": "2026-10-25T10:32:24.076565+00:00",
     "seen": [
-      "x:2110665293702033673",
-      "x:2110666283410997627",
-      "x:2110666771669880919",
-      "x:2110666871217537293",
       "x:2110667125459235030",
       "x:2110667795717316969",
       "x:2110668134948688177",
@@ -46465,7 +46458,11 @@
       "x:2114297667908141525",
       "x:2114297753815912791",
       "x:2114298399742906634",
-      "x:2114298608619303186"
+      "x:2114298608619303186",
+      "x:2114301085863321977",
+      "x:2114301098978689254",
+      "x:2114301276209000857",
+      "x:2114302194484912499"
     ],
     "source_failures": {},
     "sources": []
