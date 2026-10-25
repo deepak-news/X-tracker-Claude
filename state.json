@@ -15871,8 +15871,8 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-25T16:32:10.077595+00:00",
-    "pib_mark": 2328288,
+    "last_run": "2026-10-25T16:47:13.583863+00:00",
+    "pib_mark": 2328291,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -18279,6 +18279,8 @@
       "mea:41378",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-navdeep-on-winning-bronze-at-the-asian-para-games",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63852",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168663",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168665",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%82+%28%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%8F%E0%A4%8F%E0%A4%B8%29+%E0%A4%95%E0%A5%87+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82++%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+_+IRDAI+Organises+Workshop+on+Implementation+of+Indian+Accounting+Standards+%28Ind+AS%29+for+Insurance+Sector.pdf/2a88fa65-87e7-2f75-3c81-39c4545fc4cb",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -18747,8 +18749,6 @@
       "pib:2328126",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-hails-indias-historic-best-ever-performance-and-record-114-medals-at-the-asian-para-games-2026",
       "pib:2328132",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168663",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168665",
       "pib:2328141",
       "pib:2328142",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-in-the-139th-episode-of-mann-ki-baat",
@@ -18770,7 +18770,8 @@
       "pib:2328254",
       "pib:2328253",
       "pib:2328265",
-      "pib:2328288"
+      "pib:2328288",
+      "pib:2328291"
     ],
     "source_failures": {},
     "sources": [
@@ -18827,12 +18828,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792373581386",
-    "1792379322211",
-    "1792382164814",
-    "1792397890483",
-    "1792399924893",
-    "1792400100691",
     "1792403593254",
     "1787241600357",
     "1792320670798",
@@ -23261,7 +23256,6 @@
     "1792845023033",
     "1792854068180",
     "1792924605870",
-    "1792925034008",
     "1792846730131",
     "1792861972830",
     "1792899608756",
@@ -23297,7 +23291,6 @@
     "1792905180816",
     "1792917442442",
     "1792928381912",
-    "1792930080523",
     "1792854448607",
     "1792854892487",
     "1792872825511",
@@ -23324,20 +23317,32 @@
     "1792858185649",
     "1792858440022",
     "1792910895073",
-    "1792916754807",
     "1792919872514",
-    "1792920600848",
-    "1792924985338",
     "1792926149340",
     "1792940081319",
     "1792858959395",
     "1792859353732",
     "1792895422904",
     "1792901807172",
-    "1792923180144",
     "1792930860399",
     "1792930888409",
-    "1792938164312",
+    "1792867980883",
+    "1792892860388",
+    "1792897440267",
+    "1792902076870",
+    "1792910781752",
+    "1792919259459",
+    "1792920960881",
+    "1792922237081",
+    "1792923300336",
+    "1792924080155",
+    "1792925034634",
+    "1792926888045",
+    "1792935600149",
+    "1792940812523",
+    "1792942188123",
+    "1792943280717",
+    "1792944368713",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -24622,21 +24627,17 @@
     "1792865824444",
     "1792867798369",
     "1792867980780",
-    "1792867980883",
     "1792872825712",
     "1792885664402",
     "1792888099077",
     "1792889580008",
     "1792891020970",
     "1792892044677",
-    "1792892860388",
     "1792895996490",
-    "1792897440267",
     "1792899882828",
     "1792900586235",
     "1792900817031",
     "1792901448243",
-    "1792902076870",
     "1792902180722",
     "1792902517088",
     "1792903204395",
@@ -24651,7 +24652,6 @@
     "1792910591767",
     "1792910748104",
     "1792910748196",
-    "1792910781752",
     "1792911069574",
     "1792912329071",
     "1792913364950",
@@ -24660,6 +24660,7 @@
     "1792913792755",
     "1792914784683",
     "1792915498976",
+    "1792916754807",
     "1792916782793",
     "1792916833899",
     "1792917442886",
@@ -24668,26 +24669,24 @@
     "1792918027461",
     "1792918860930",
     "1792919191793",
-    "1792919259459",
     "1792919463823",
+    "1792919872075",
     "1792919945813",
     "1792920208368",
-    "1792920960881",
+    "1792920600848",
     "1792921098567",
-    "1792922237081",
+    "1792923180144",
     "1792923243425",
-    "1792923300336",
-    "1792924080155",
     "1792924380723",
     "1792924609180",
     "1792924798165",
-    "1792925034634",
+    "1792924985338",
+    "1792925034008",
     "1792925413338",
     "1792925501323",
     "1792925563605",
     "1792925728834",
     "1792926149998",
-    "1792926888045",
     "1792927494976",
     "1792927863428",
     "1792928135122",
@@ -24699,6 +24698,7 @@
     "1792929603489",
     "1792929660141",
     "1792929900257",
+    "1792930080523",
     "1792930888340",
     "1792931310666",
     "1792931766329",
@@ -24711,21 +24711,22 @@
     "1792934800312",
     "1792935086476",
     "1792935127548",
-    "1792935600149",
     "1792936103459",
     "1792936143113",
     "1792936801641",
+    "1792938164312",
+    "1792938600057",
+    "1792938900597",
     "1792940081181",
     "1792940100093",
     "1792940222542",
-    "1792940812523",
-    "1792942188123",
+    "1792942188179",
     "1792942673589",
     "1792942835943",
     "1792942860604",
-    "1792943280717",
+    "1792943280465",
     "1792943573733",
-    "1792944368713",
+    "1792945737713",
     "2317509",
     "2317615",
     "2317714",
@@ -24829,7 +24830,7 @@
     "2328087"
   ],
   "last_digest_hour": "2026-10-25T22",
-  "last_success": "2026-10-25T16:31:19.108133+00:00",
+  "last_success": "2026-10-25T16:46:00.551602+00:00",
   "national": {
     "alerted": [
       {
@@ -34508,15 +34509,15 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-10-25T16:46:54.249302+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-10-24T22:16:56.493262+00:00"
     },
-    "last_run": "2026-10-25T16:31:57.808556+00:00",
-    "pib_mark": 2328288,
+    "last_run": "2026-10-25T16:46:56.868195+00:00",
+    "pib_mark": 2328291,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-international-conference-on-the-future-of-environment-and-climate-dynamics",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-gratitude-to-president-of-south-korea-lee-jae-myung-for-his-wishes-on-completing-25-years-of-service-to-the-nation-as-head-of-government",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-gratitude-to-former-president-shri-ram-nath-kovind-ji-for-his-wishes-on-completing-25-years-of-service-to-the-nation-as-head-of-government",
       "gazette:CG-DL-E-07102026-276897",
@@ -36962,6 +36963,8 @@
       "quake:usgs:us6000u4r9",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63852",
       "quake:usgs:us6000u4rf",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168665",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168663",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF+%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95+%E0%A4%B8%E0%A4%B2%E0%A4%BE%E0%A4%B9%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%A1%E0%A5%89.+%E0%A4%B5%E0%A5%80.+%E0%A4%8F.+%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%A8+%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A5%8B%E0%A4%A7%E0%A4%A8+_+Address+by+CEA+Dr.+V+A+Nageswaran.pdf/b29c0f1e-d1b3-6198-8083-7bd41b4e92c4",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -37490,8 +37493,6 @@
       "pib:2328126",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-hails-indias-historic-best-ever-performance-and-record-114-medals-at-the-asian-para-games-2026",
       "pib:2328132",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168665",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168663",
       "pib:2328141",
       "pib:2328142",
       "pib:2328149",
@@ -37515,12 +37516,16 @@
       "pib:2328253",
       "pib:2328254",
       "pib:2328265",
-      "pib:2328288"
+      "pib:2328288",
+      "pib:2328291"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -37583,7 +37588,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "MicroPort Scientific appoints Jonathan Chen as CEO",
+      "post": {
+        "created_at": "2026-10-25T14:30:00+00:00",
+        "handle": "News: Indian IT midcaps",
+        "id": "1792938600057",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "MicroPort Scientific appoints Jonathan Chen as CEO, says a director resigned",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTHY3ODJGeEN0UXpEZFdkakpRbDNnN011VFRTOHpjQy1IM0RiczY5U3U1ZnlVN3ZIT3JaSV8zTm0waEdBMGNyLWtpTWR6VmcwR29FWks3V3Zzc2IzTTVORk0ya3JvUkd6aDVxX0ZBTzBZVzRkQ2JQTVM5ME94ZTEzQVhtUzdVbWM1dzRJY0xsNXRJaUpfNXZCY0l4ckRHWDlpM0pjN2V0WTM2Vk5meV95UzNneVI4UWk3bDAycUFXUWFaR3VTV1J3UGE0cmYyckFpcEE2Q0podnk1cHN5cUdGbDRqVdIB4wFBVV95cUxPTHY3ODJGeEN0UXpEZFdkakpRbDNnN011VFRTOHpjQy1IM0RiczY5U3U1ZnlVN3ZIT3JaSV8zTm0waEdBMGNyLWtpTWR6VmcwR29FWks3V3Zzc2IzTTVORk0ya3JvUkd6aDVxX0ZBTzBZVzRkQ2JQTVM5ME94ZTEzQVhtUzdVbWM1dzRJY0xsNXRJaUpfNXZCY0l4ckRHWDlpM0pjN2V0WTM2Vk5meV95UzNneVI4UWk3bDAycUFXUWFaR3VTV1J3UGE0cmYyckFpcEE2Q0podnk1cHN5cUdGbDRqVQ?oc=5"
+      },
+      "queued_at": "2026-10-25T16:46:00.421105+00:00",
+      "score": 7.0,
+      "why": ""
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -38707,7 +38731,7 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792944368713,
+    "news: big tech platforms": 1792945737713,
     "news: consumer internet india": 1792940812523,
     "news: global ai": 1792933558785,
     "news: global chips": 1792935127548,
@@ -38719,7 +38743,7 @@
     "news: india tech policy": 1792936103459,
     "news: india telecom": 1792942673589,
     "news: indian it majors": 1792932268173,
-    "news: indian it midcaps": 1792942188123,
+    "news: indian it midcaps": 1792942188179,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792931310874,
     "nvidia": 1792720813215,
@@ -38766,7 +38790,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-25T16:31:19.409580+00:00",
+    "last_server_run": "2026-10-25T16:46:01.076923+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-25T16:02:25.263245+00:00",
@@ -38895,7 +38919,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-10-25T10:31:45.898385+00:00",
+        "at": "2026-10-25T16:46:13.108080+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -38905,7 +38929,7 @@
         }
       },
       "last": {
-        "calendar": "2026-10-25T10:31:48.583584+00:00",
+        "calendar": "2026-10-25T16:46:15.684816+00:00",
         "ls_reports": "2026-10-25T15:31:56.395390+00:00",
         "rs_committee_press": "2026-10-25T16:02:11.290013+00:00",
         "rs_press": "2026-10-25T16:02:08.046123+00:00",
@@ -43586,10 +43610,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-25T16:32:01.371880+00:00",
+    "last_run": "2026-10-25T16:47:00.628817+00:00",
     "seen": [
-      "x:2110731920619569161",
-      "x:2110724509225677204",
       "x:2110732718736822757",
       "x:2110733391436067292",
       "x:2110733680675320148",
@@ -46587,7 +46609,9 @@
       "x:2114388173237469290",
       "x:2114389175080493066",
       "x:2114392571288203628",
-      "x:2114393337772052742"
+      "x:2114393337772052742",
+      "x:2114395562204369176",
+      "x:2114396638735487301"
     ],
     "source_failures": {},
     "sources": []
