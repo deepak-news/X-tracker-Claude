@@ -1,116 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-19T10:31:25.216014+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "TCS to deploy treasury platform at Indian Bank Sri Lanka branch",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUVnNU1vdG90d3liTVVfcEYzY1dMYVJZVWVIZzlyRm5lUlZYQ19NUEZaZ1dZN0pQVEg2N2VkTlRZTkFsMGloN19NTENVemxfSEk4elhJRDMwbGdwaW14V3B0YU5jOUdOcW1EYllFc1EtNTdQTDY1cVVSZ3R4RG1SYndqcjhhNEZvWlh5bExVbzJZdFY5clE1bzdqaDJuRzFSaFVOOEpFQ0xLOXQ5cjNmNFZmTmUzQQ?oc=5",
-      "words": [
-        "bank",
-        "branch",
-        "deploy",
-        "lanka",
-        "platform",
-        "sri",
-        "tcs",
-        "treasury"
-      ]
-    },
-    {
-      "at": "2026-10-19T11:31:36.889794+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "L&T Technology Services Q2 net profit surges 53%",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3owQ1F5dS1oUGtDOWtJT1NET0FnSVkxektobnIyX1YxUDNTX2ZkVHFiSFZlOXAzMzZfcU9fOWZMTExEMXZ6djNOSEZEZDl6eFBLWXFRVUlWWHRxV1pUZFpxamR1OEhNMlRsM1NnTjlENm01RFM4RWhjQTJOTGxoN2xNQTlUaWhGbWhzTERUcTRmUkhSVF84SDA3dUkxXzc0c1dnTm1pd2d4OWpGd3NuNTVFdWZhRElvaFRQeGxpcUdaTTNT0gHMAUFVX3lxTFA2SU9QRFBzNmZZblFieDVtend4N1BxWlZENnNaRlJfRDEzejVXV2k3NWRwZktoTFZEVkxhYktQM0djeWJsQmVvQXBvTUJqMEdmZ09BUjhEM0JmZ0QwSUFTa181UXNRSG1uNWZ6TVdTRXJPVHMzY29LR3lKdVNlSDJMMjEtQTV1eExEOTlXTVgwS3lMd05SaVJRa1c3WEdCYkV5OVR0N1VxNDQ5VFBCbmxPZXYxdUd2dFBwak5JOWYzZE5pQlppYjVVR3JiRw?oc=5",
-      "words": [
-        "548",
-        "net",
-        "profit",
-        "results",
-        "revenue",
-        "sequentially",
-        "surges",
-        "tech"
-      ]
-    },
-    {
-      "at": "2026-10-19T11:31:36.889794+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "FSSAI scrutinizes Zepto over misleading claims on cream rolls and juice",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ0FlRjkxRDZNNHRzSFVUT0JrcDdLUWFmMXRFTERlLU02R0JWUG9SczNHamQ4bnI1ZHFQU2xVNkZEMkxERE4zVlFfTngzZVNKUVNyVkltTk5RX0p6eXNQOGNxSkdLWHlNTmw2QTcyNXFFX1VPbTI2OGpfel9qWTFsdGx4RXBCTVlIbkkwRGc3Q0ljMFVveHRCN0xyUUhGV1FGaTR1WTE1UW5nbmpOS21qQ1BiTFRNRmtHcklnbEZ3MEZhdTB4MWhwSmdiSEVSdk9j0gHYAUFVX3lxTE9jZm1nQ25QbzdXT2Q1TFJoXzlfSm82N2pJdlg1NkpqcER1Q0U1Zkc2eW43NWhnaFlYa0pnUmtsYVEzOHBEN1Vta3loODEzdktJMW5kZDR4SW5zN0Nvdk91TkV2LWJwQTBWWlBobm01Z0NZOFAtbnBTYlVBYW1DU09XYkJYbmlfdFpsVjZUYk52VDFQYmJrSnBjNE5BcVA3TU8tTGJJMzB4amFIV3RFTWtMbkcyNVMzV29aalNMX04yalg3dkFFcHFiM1pmZHUtQVV0YWhacDQwaw?oc=5",
-      "words": [
-        "claims",
-        "commerce",
-        "cream",
-        "face",
-        "fssai",
-        "juice",
-        "misleading",
-        "quick",
-        "rolls",
-        "scrutiny",
-        "sold",
-        "storia",
-        "zepto"
-      ]
-    },
-    {
-      "at": "2026-10-19T12:31:25.387255+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "L&T Technology Services reports Q2 net profit of Rs 548 crore",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVElPZzg5VV93ZUpFYUxvTG8tYkphNThYdWpxaFU0eGdtdU9JY2xoZWVITzVZTldUZkZiZ0Y2NmxWbnNvQ282NVQybmhxSlFnMmZnM3hUaXpMeWU1NEdnbXEtbFpmcFJ5WkVlQU5FNllyLUxFYThReFJmS1ktMTV0eEZGZFNHVGx0VnJfTVFsd2JiSWtNTm9wazY2Q2o5MnNQYXlHMW5NZ2gxSEw3a01VdU9BRDlJRXZ3S2lHVGRWX1lWNkdhdjFRSVYtZFJzaEZ2WUh3Ny1jZnNWOHdFSWExTTd6c9IB6AFBVV95cUxQRVJhUlhHUXF5ZXV4X0lCQ1dpYlZ0eXMwUDNzekdRRU9PVUZwcERnYmNYX3lUdGlxMnQzVVR1aVVEcFJ1NnJjV3F5bmFUdW5qWk1sNDFfenh0OF93cEpxS3BsXzg5YjNBOHJldjk1VkFORnV3Q0R6Q3J4QWo2OFh0NE1neTVDNndPUjZLQ3VIdjdDaE9Mc0llOG5HV1B1cVhxeXl2MnFaM3FUTFVWdURQUjNKRGZPWEN6U0plNWhOZGRjQ2JIaXhDaTFabHpCaWs5NFFkc2RLRGlDWEZXWXliRHNoV0xLdlhn?oc=5",
-      "words": [
-        "548",
-        "declares",
-        "dividend",
-        "posts",
-        "profit",
-        "services",
-        "technology"
-      ]
-    },
-    {
-      "at": "2026-10-19T12:31:25.387255+00:00",
-      "handle": "News: Global AI",
-      "headline": "AI chip startup Tenstorrent doubles valuation to $6.2 billion in funding",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEZuZHdVV1dZN3BpaFczenc4QkhZYjdjblNqRHd5UnllS3otOS04MUtCYjJtejZYbENlaE9nUFljbmdJN1RDaEdxZkxpSlhoMlMxdFhYWmdGaW4xejVjZ2hwS0U3b2lJNUJRUVRvak51Mzk4N3B0M3duMGQydWtYNHUwMG43d2hNS21mYV9jcXRQSjdRRFRXZkZPdVRmaUV1dlE4cEhQN18xcE9Yb1ZnTkF6Y3g4OU9waG1yV0dvOHBnM0lldTczYjgzVmdtTEd1UGxVNVdGYVhfNVpR?oc=5",
-      "words": [
-        "billion",
-        "chip",
-        "doubles",
-        "funding",
-        "more",
-        "round",
-        "startup",
-        "tenstorrent",
-        "than",
-        "valuation"
-      ]
-    },
-    {
-      "at": "2026-10-19T12:31:25.387255+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "L&T Technology Services expects robust H2 growth following revenue rise",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYUNEaVRFR2NFYXo2YjMyb2NpMjBBaDNKNTZ2X1VycTNjRTZsVW80WmZGdUJpT1diZ2JoTGdTaGxMUjIxZGhhRUtHNzFFWnJhV1JrZjZIRlc2RGd2QW5zZXBlQUU0WS1DNWoyck4zTi1rT2I1QWhEdDZRajJfU1pvS2FLdURRLUd4X2hoZjZ1d2R1QV9GNkJFMVdZanFmVnJyMmw4NXlXZHNtOVJBcEkwNkJvVUItMk9SY19hdURFSWRmWnhTdGc?oc=5",
-      "words": [
-        "deals",
-        "expects",
-        "half",
-        "quarterly",
-        "ramp",
-        "revenue",
-        "rises",
-        "robust",
-        "second",
-        "technology"
-      ]
-    },
-    {
       "at": "2026-10-19T12:31:25.387255+00:00",
       "handle": "News: Indian IT majors",
       "headline": "Infosys scales Truist's Hyderabad GCC to 1,400 employees",
@@ -7497,6 +7387,107 @@
         "published",
         "registration",
         "sec"
+      ]
+    },
+    {
+      "at": "2026-10-26T13:31:47.784031+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic unveils details of planned historic stock market debut",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRThpZzljUDVhR2FLUnEzald0ZTRNU09RTDIyazJvSDVmazJ4NGtleVFjY0dXRFNBX0gzQkZzTFNBQ1N5cEdxbG1jeU1DMXpYRGNTUS1kSHhiNHM?oc=5",
+      "words": [
+        "anthropic",
+        "debut",
+        "details",
+        "historic",
+        "market",
+        "planned",
+        "unveils"
+      ]
+    },
+    {
+      "at": "2026-10-26T13:31:47.784031+00:00",
+      "handle": "News: India edtech gaming",
+      "headline": "Google launches Google Play Arena gaming competition platform in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdEdmdXpfdGJ3TmtKbEtNSko5Qm9FdV9fSFVTWWx4dGZRZ2xhck1GSWZyRUlYbXNXVFNHcUljWlJpMkhMcE1HTC15QUJSNHpRdTB3clFFZnFaMFk3cFNrYll6WHlYWjZHdVF1TkVzeWV2ZkdRcGExaU95Vy1wOWJYUmFuWFF1MUdPNGxhVE1oN0JDOVpGajFNdHpsNVltcUVaX1poX1Ytb1M3SEZ5TkhrTzd1Ny0tUXV5amZlZGszN0ZNcTQ?oc=5",
+      "words": [
+        "arena",
+        "competition",
+        "gaming",
+        "google",
+        "launches",
+        "online",
+        "platform",
+        "play"
+      ]
+    },
+    {
+      "at": "2026-10-26T13:31:47.784031+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta launches Business Agent to turn WhatsApp into D2C storefront",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hcDgxc3Nfa1ZYemR1NVZ6N19FRnkxNTBzOGE2ek80dTIwT2VDRDB4XzY1T3lCc3lFRXZMYzVzTHVLUzJMRENRd1BoYVRxSVFWVWNrVnYzS044dEZxUmI3OVdzTEtVSzN3R2IwRVIxMFVrQ0lhekQ4OA?oc=5",
+      "words": [
+        "agent",
+        "aims",
+        "brands",
+        "business",
+        "d2c",
+        "into",
+        "meta",
+        "storefront",
+        "turn",
+        "whatsapp"
+      ]
+    },
+    {
+      "at": "2026-10-26T13:31:47.784031+00:00",
+      "handle": "News: Global AI",
+      "headline": "Fanatics partners with OpenAI for AI shopping suggestions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHJaQ1NDV05GMUZYdFVWdUhBTlZEN0l1Q3l5VWVMRVNzVWUtZEd4M0VXYlV3dnkwOWtEQ1hkS1M3QWQzMUZpemZ6RFVZbEtBcmE2QXBueHJlZ05mNmVXMGZYVVU0SGdWZ2dlUF80c2FkQ3dkaTF3cnpETUM3ZGk2eHVUanJfYjMwQ1UxUWgza9IBlAFBVV95cUxPbEZHSVc4Z2QwOG15V2F6MFAzcU9udXNWSUhqWTZxaG15TjVvRzlmdkphRnJyS2JJd3JjcmRIR3YzQjlZN3p2djhLeDlkZzhLNWp0RmlBOUtKeUVtX3pVZGg5Zk8yLXpaV05MVUc0UDg0Y3ZHbEtveHFlQXhwZTh0Qmg2MlZtYWN1VHEzVGJhendLMDRT?oc=5",
+      "words": [
+        "fanatics",
+        "feature",
+        "openai",
+        "powered",
+        "shopping",
+        "suggestion",
+        "teams"
+      ]
+    },
+    {
+      "at": "2026-10-26T13:31:47.784031+00:00",
+      "handle": "News: Global chips",
+      "headline": "Dell expands AI factory with Nvidia and agentic solutions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPS0QyaU9jaFlkVkhRaU51RWNWbFppWmVRVmpmS2xxZmhGVXpLRExHN0pndkRyQ3lRa3VEbVZ0SlV3c2JyU3MxY2dLb3dOMXQxdjM5VFY0UlRueUFZSkdrNVMxdnVSTjROV3YtQXBCSFpKWTlZSUhMTkpFZmM2bGVQNDBnZHJTS2FCX1gwdUVZNzlTbjA3RjlmRW5mTC03VVJRbXBXQlFiSU9xN1NwcG1KV0N2UFRaU3owSTVHNWRqY1p1Q1VtNF81MWt5cXNpZVpyNlh3QUF2THNfYVJBc0hkT1NBUFNJYXlVeVVXZWVLamVDU1ZQS0hOU050WE1VV0x2d1HSAYcCQVVfeXFMTzNlbjJSdXJsSHZtWGlFMWtkM1cxM0hnRF9OZmFXNFp1aVB5eWVPVXlocUhBN1MwaHR6SDh3ZlVxTWdrUHg2bVA4QUl4anB6NlQ2alNpN2FETlBBU2ppVWhUVVhOdV9QSzIzSHg2RDRYRjY4T19PZFNWOW8yV0NhenRDVnk3OVlKemRuVlM0Q0MyMkpVMTFsY0VEU3RCX3BnaDNKUGJvSWs2eDU4QVlyeHV5eHhCQ01jOFBRelJBcU12Z0ltdjVmMFVjTGdSUjg0eUx3ek9Ib3hBYm1GYk04OXNkc0RoZjBVZ2cyNXdRU1RJVl9PcXlYejRuVW1GTlZFRDZpNG5GR3M?oc=5",
+      "words": [
+        "agentic",
+        "announces",
+        "dell",
+        "expands",
+        "factory",
+        "infrastructure",
+        "nvidia",
+        "solutions"
+      ]
+    },
+    {
+      "at": "2026-10-26T13:31:47.784031+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic reports 14-fold growth ahead of IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15X01NR0d1bVA3X25zMWQ4SFdxbVRhTko3TGRIVVI5cmRlM2FSSjVxb2pjMmdWMWZwNmVDM1BuTXk3eEM4V0p3SjhucVFZZm5uR3dPVV9QWmZLTURqNlpRbkdiZ2g3TkFDdWt4Zi16bEppNXF6LXBGWVZmUEtHdw?oc=5",
+      "words": [
+        "anthropic",
+        "blockbuster",
+        "fold",
+        "growth",
+        "increase",
+        "prepares",
+        "reveals"
       ]
     }
   ],
@@ -15862,6 +15853,26 @@
           "releases",
           "text"
         ]
+      },
+      {
+        "at": "2026-10-26T13:34:03.178621+00:00",
+        "handle": "PIB Prime Minister's Office",
+        "headline": "Prime Minister to inaugurate Emerging Science, Technology and Innovation Conclave",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328654",
+        "words": [
+          "2026",
+          "conclave",
+          "emerging",
+          "inaugurate",
+          "innovation",
+          "minister",
+          "october",
+          "office",
+          "prime",
+          "science",
+          "technology"
+        ]
       }
     ],
     "gazette_mark": 277427,
@@ -16430,8 +16441,8 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-10-26T13:26:58.383621+00:00",
-    "pib_mark": 2328646,
+    "last_run": "2026-10-26T13:34:03.180019+00:00",
+    "pib_mark": 2328655,
     "seen": [
       "pib:2320137",
       "gazette:CG-DL-E-06102026-276852",
@@ -19424,7 +19435,9 @@
       "mea:41914",
       "pib:2328646",
       "pib:2328642",
-      "pib:2328643"
+      "pib:2328643",
+      "pib:2328655",
+      "pib:2328654"
     ],
     "source_failures": {},
     "sources": [
@@ -19482,17 +19495,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792430689850",
-    "1792434995360",
-    "1792444012607",
-    "1792463671574",
-    "1792467369012",
-    "1792467736125",
-    "1792473780051",
-    "1792402203741",
-    "1792424229955",
-    "1792433540890",
-    "1792433873760",
     "1792437840494",
     "1792447775802",
     "1792469698677",
@@ -23727,7 +23729,6 @@
     "1792931354899",
     "1792931548246",
     "1792971127427",
-    "1792976419235",
     "1792985180858",
     "1792989395353",
     "1793008560276",
@@ -23820,19 +23821,16 @@
     "1792982163277",
     "1792985340976",
     "1792985425850",
-    "1792993671546",
     "1792998651059",
     "1792999120404",
     "1792999859440",
     "1793000772044",
-    "1793002933133",
     "1793004288942",
     "1793007927789",
     "1793010765817",
     "1793012244921",
     "1793012581220",
     "1792761286412",
-    "1792980660311",
     "1792982312259",
     "1792989967364",
     "1792993026907",
@@ -23846,7 +23844,6 @@
     "1793012640787",
     "1793013845732",
     "1793016805705",
-    "1793017425487",
     "1792080000164",
     "1792761292966",
     "1792761294086",
@@ -23868,14 +23865,11 @@
     "1792933903236",
     "1792934155100",
     "1792972200912",
-    "1792985053207",
     "1792987435324",
     "1792990584568",
     "1792990601586",
-    "1792994165169",
     "1792996825310",
     "1792996835253",
-    "1792997393865",
     "1792998995313",
     "1793003469930",
     "1793003978785",
@@ -23892,8 +23886,29 @@
     "1793011588924",
     "1793015100678",
     "1793015452056",
-    "1793015572762",
     "1793017812865",
+    "1792979305627",
+    "1792986466832",
+    "1792987234542",
+    "1792989607802",
+    "1792993026731",
+    "1792993725169",
+    "1792993879784",
+    "1792994545738",
+    "1792994611992",
+    "1792999140006",
+    "1793003238962",
+    "1793005021827",
+    "1793006880560",
+    "1793010600433",
+    "1793010607634",
+    "1793010672117",
+    "1793010720052",
+    "1793013890590",
+    "1793015572840",
+    "1793018824734",
+    "1793020050871",
+    "1793020268935",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -25166,12 +25181,13 @@
     "1792950541482",
     "1792972800114",
     "1792974639276",
+    "1792976419235",
     "1792976828012",
     "1792977278273",
     "1792978881846",
-    "1792979305627",
     "1792980106900",
     "1792980240143",
+    "1792980660311",
     "1792981227707",
     "1792981290768",
     "1792981593346",
@@ -25182,15 +25198,14 @@
     "1792984178124",
     "1792984920388",
     "1792984980917",
+    "1792985053207",
     "1792985400477",
     "1792985584983",
     "1792985677580",
     "1792986322206",
-    "1792986466832",
     "1792986600592",
     "1792986847642",
     "1792986877401",
-    "1792987234542",
     "1792987404572",
     "1792987476796",
     "1792987514581",
@@ -25199,7 +25214,6 @@
     "1792987945805",
     "1792989180317",
     "1792989540330",
-    "1792989607802",
     "1792989691771",
     "1792989986364",
     "1792990264099",
@@ -25209,15 +25223,12 @@
     "1792992402987",
     "1792992414610",
     "1792992783567",
-    "1792993026731",
     "1792993087150",
     "1792993591850",
-    "1792993725169",
-    "1792993879784",
+    "1792993671546",
+    "1792994165169",
     "1792994320284",
-    "1792994545738",
     "1792994554994",
-    "1792994611992",
     "1792994710471",
     "1792995003219",
     "1792995120089",
@@ -25230,6 +25241,7 @@
     "1792996260126",
     "1792996772664",
     "1792997100757",
+    "1792997393865",
     "1792997486149",
     "1792997575806",
     "1792998120259",
@@ -25240,7 +25252,6 @@
     "1792998795181",
     "1792998906995",
     "1792998971283",
-    "1792999140006",
     "1792999472547",
     "1792999885342",
     "1793000040053",
@@ -25254,7 +25265,7 @@
     "1793001147252",
     "1793001150553",
     "1793001600557",
-    "1793003238962",
+    "1793002933133",
     "1793003285607",
     "1793003380626",
     "1793003455085",
@@ -25269,14 +25280,12 @@
     "1793004767701",
     "1793004822689",
     "1793004860686",
-    "1793005021827",
     "1793005335810",
     "1793005445070",
     "1793005743431",
     "1793006409620",
     "1793006510158",
     "1793006734174",
-    "1793006880560",
     "1793007188674",
     "1793007606842",
     "1793007757551",
@@ -25300,12 +25309,8 @@
     "1793010120214",
     "1793010208010",
     "1793010302531",
-    "1793010600433",
     "1793010600928",
     "1793010600949",
-    "1793010607634",
-    "1793010672117",
-    "1793010720052",
     "1793010780702",
     "1793011020437",
     "1793011185121",
@@ -25321,14 +25326,15 @@
     "1793012640809",
     "1793013350543",
     "1793013840688",
-    "1793013890590",
+    "1793013890884",
     "1793014053094",
     "1793014104984",
     "1793014313752",
     "1793014482224",
     "1793014968885",
     "1793015452787",
-    "1793015572840",
+    "1793015508544",
+    "1793015572762",
     "1793015598019",
     "1793015618317",
     "1793015787566",
@@ -25341,6 +25347,7 @@
     "1793016960787",
     "1793017020678",
     "1793017317804",
+    "1793017425487",
     "1793017466705",
     "1793017699569",
     "1793017866465",
@@ -25349,7 +25356,6 @@
     "1793018657364",
     "1793018661290",
     "1793018820125",
-    "1793018824734",
     "1793018921541",
     "1793019403560",
     "1793019556261",
@@ -25359,23 +25365,30 @@
     "1793019789105",
     "1793019829018",
     "1793019960840",
-    "1793020050871",
     "1793020083265",
     "1793020260538",
-    "1793020268935",
     "1793020320178",
+    "1793020349232",
+    "1793020365871",
     "1793020395638",
     "1793020486708",
     "1793020498034",
     "1793020500267",
     "1793020515657",
+    "1793020608305",
     "1793020626986",
+    "1793020680937",
     "1793020741470",
     "1793020750692",
+    "1793020783367",
     "1793020819354",
     "1793020832186",
     "1793020835172",
+    "1793020865500",
+    "1793020922899",
     "1793020980902",
+    "1793021187914",
+    "1793021263328",
     "2317509",
     "2317615",
     "2317714",
@@ -25483,8 +25496,8 @@
     "2328480",
     "2328495"
   ],
-  "last_digest_hour": "2026-10-26T18",
-  "last_success": "2026-10-26T13:24:25.709767+00:00",
+  "last_digest_hour": "2026-10-26T19",
+  "last_success": "2026-10-26T13:31:47.863470+00:00",
   "national": {
     "alerted": [
       {
@@ -35221,11 +35234,9 @@
       },
       "warned": "2026-10-25T22:31:58.869039+00:00"
     },
-    "last_run": "2026-10-26T13:25:51.318448+00:00",
-    "pib_mark": 2328646,
+    "last_run": "2026-10-26T13:33:11.976472+00:00",
+    "pib_mark": 2328655,
     "seen": [
-      "pib:2320855",
-      "pib:2320862",
       "pib:2320866",
       "pib:2320883",
       "pib:2320876",
@@ -38223,7 +38234,9 @@
       "pib:2328640",
       "pib:2328646",
       "mea:41914",
-      "pib:2328643"
+      "pib:2328643",
+      "pib:2328655",
+      "pib:2328654"
     ],
     "source_failures": {
       "CBI": {
@@ -38296,98 +38309,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Google launches Google Play Arena gaming competition platform in India",
-      "post": {
-        "created_at": "2026-10-26T12:21:57+00:00",
-        "handle": "News: India edtech gaming",
-        "id": "1793017317804",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Deccan Herald",
-        "reposts": 0,
-        "text": "Google Play Arena: Google launches online gaming competition platform in India",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdEdmdXpfdGJ3TmtKbEtNSko5Qm9FdV9fSFVTWWx4dGZRZ2xhck1GSWZyRUlYbXNXVFNHcUljWlJpMkhMcE1HTC15QUJSNHpRdTB3clFFZnFaMFk3cFNrYll6WHlYWjZHdVF1TkVzeWV2ZkdRcGExaU95Vy1wOWJYUmFuWFF1MUdPNGxhVE1oN0JDOVpGajFNdHpsNVltcUVaX1poX1Ytb1M3SEZ5TkhrTzd1Ny0tUXV5amZlZGszN0ZNcTQ?oc=5"
-      },
-      "queued_at": "2026-10-26T12:46:52.680738+00:00",
-      "score": 7.0,
-      "why": "A major new product and platform launch by Google in the Indian gaming market."
-    },
-    {
-      "headline": "Meta launches Business Agent to turn WhatsApp into D2C storefront",
-      "post": {
-        "created_at": "2026-10-26T12:31:06+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1793017866465",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "YourStory",
-        "reposts": 0,
-        "text": "Meta Business Agent aims to turn WhatsApp into a 24/7 storefront for D2C brands",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hcDgxc3Nfa1ZYemR1NVZ6N19FRnkxNTBzOGE2ek80dTIwT2VDRDB4XzY1T3lCc3lFRXZMYzVzTHVLUzJMRENRd1BoYVRxSVFWVWNrVnYzS044dEZxUmI3OVdzTEtVSzN3R2IwRVIxMFVrQ0lhekQ4OA?oc=5"
-      },
-      "queued_at": "2026-10-26T12:46:52.680738+00:00",
-      "score": 7.0,
-      "why": "A significant product feature launch from Meta transforming WhatsApp commerce capabilities."
-    },
-    {
-      "headline": "Fanatics partners with OpenAI for AI shopping suggestions",
-      "post": {
-        "created_at": "2026-10-26T13:02:37+00:00",
-        "handle": "News: Global AI",
-        "id": "1793019757519",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC",
-        "reposts": 0,
-        "text": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHJaQ1NDV05GMUZYdFVWdUhBTlZEN0l1Q3l5VWVMRVNzVWUtZEd4M0VXYlV3dnkwOWtEQ1hkS1M3QWQzMUZpemZ6RFVZbEtBcmE2QXBueHJlZ05mNmVXMGZYVVU0SGdWZ2dlUF80c2FkQ3dkaTF3cnpETUM3ZGk2eHVUanJfYjMwQ1UxUWgza9IBlAFBVV95cUxPbEZHSVc4Z2QwOG15V2F6MFAzcU9udXNWSUhqWTZxaG15TjVvRzlmdkphRnJyS2JJd3JjcmRIR3YzQjlZN3p2djhLeDlkZzhLNWp0RmlBOUtKeUVtX3pVZGg5Zk8yLXpaV05MVUc0UDg0Y3ZHbEtveHFlQXhwZTh0Qmg2MlZtYWN1VHEzVGJhendLMDRT?oc=5"
-      },
-      "queued_at": "2026-10-26T13:24:25.630786+00:00",
-      "score": 7.0,
-      "why": "A major consumer brand partnership utilizing OpenAI technology."
-    },
-    {
-      "headline": "Dell expands AI factory with Nvidia and agentic solutions",
-      "post": {
-        "created_at": "2026-10-26T13:06:00+00:00",
-        "handle": "News: Global chips",
-        "id": "1793019960840",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Dell expands AI factory with NVIDIA, announces new agentic AI solutions and infrastructure",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPS0QyaU9jaFlkVkhRaU51RWNWbFppWmVRVmpmS2xxZmhGVXpLRExHN0pndkRyQ3lRa3VEbVZ0SlV3c2JyU3MxY2dLb3dOMXQxdjM5VFY0UlRueUFZSkdrNVMxdnVSTjROV3YtQXBCSFpKWTlZSUhMTkpFZmM2bGVQNDBnZHJTS2FCX1gwdUVZNzlTbjA3RjlmRW5mTC03VVJRbXBXQlFiSU9xN1NwcG1KV0N2UFRaU3owSTVHNWRqY1p1Q1VtNF81MWt5cXNpZVpyNlh3QUF2THNfYVJBc0hkT1NBUFNJYXlVeVVXZWVLamVDU1ZQS0hOU050WE1VV0x2d1HSAYcCQVVfeXFMTzNlbjJSdXJsSHZtWGlFMWtkM1cxM0hnRF9OZmFXNFp1aVB5eWVPVXlocUhBN1MwaHR6SDh3ZlVxTWdrUHg2bVA4QUl4anB6NlQ2alNpN2FETlBBU2ppVWhUVVhOdV9QSzIzSHg2RDRYRjY4T19PZFNWOW8yV0NhenRDVnk3OVlKemRuVlM0Q0MyMkpVMTFsY0VEU3RCX3BnaDNKUGJvSWs2eDU4QVlyeHV5eHhCQ01jOFBRelJBcU12Z0ltdjVmMFVjTGdSUjg0eUx3ek9Ib3hBYm1GYk04OXNkc0RoZjBVZ2cyNXdRU1RJVl9PcXlYejRuVW1GTlZFRDZpNG5GR3M?oc=5"
-      },
-      "queued_at": "2026-10-26T13:24:25.630786+00:00",
-      "score": 7.0,
-      "why": "Major hardware infrastructure expansion involving Nvidia chips."
-    },
-    {
-      "headline": "Anthropic reports 14-fold growth ahead of IPO",
-      "post": {
-        "created_at": "2026-10-26T13:20:32+00:00",
-        "handle": "News: Global AI",
-        "id": "1793020832186",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The New York Times",
-        "reposts": 0,
-        "text": "Anthropic Reveals 14-Fold Increase in Growth as It Prepares for Blockbuster I.P.O.",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15X01NR0d1bVA3X25zMWQ4SFdxbVRhTko3TGRIVVI5cmRlM2FSSjVxb2pjMmdWMWZwNmVDM1BuTXk3eEM4V0p3SjhucVFZZm5uR3dPVV9QWmZLTURqNlpRbkdiZ2g3TkFDdWt4Zi16bEppNXF6LXBGWVZmUEtHdw?oc=5"
-      },
-      "queued_at": "2026-10-26T13:24:25.630786+00:00",
-      "score": 7.0,
-      "why": "Major AI company financial and growth disclosure ahead of its public offering."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -39449,10 +39371,16 @@
       "meeting:LS|22563",
       "meeting:LS|22565",
       "meeting:LS|22566",
+      "meeting:LS|22567",
+      "meeting:LS|22568",
       "meeting:LS|22571",
+      "meeting:LS|22572",
+      "meeting:LS|22573",
+      "meeting:LS|22584",
+      "meeting:RS|2257",
       "meeting:RS|2300"
     ],
-    "sent_on": "2026-10-25"
+    "sent_on": "2026-10-26"
   },
   "seen": {
     "airtel": 1791353787219,
@@ -39516,9 +39444,9 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793020515657,
+    "news: big tech platforms": 1793020865500,
     "news: consumer internet india": 1793019789105,
-    "news: global ai": 1793020832186,
+    "news: global ai": 1793021263328,
     "news: global chips": 1793019960840,
     "news: global it services": 1792996260126,
     "news: india ai deeptech": 1793003580470,
@@ -39526,7 +39454,7 @@
     "news: india fintech": 1793011542114,
     "news: india semiconductors": 1793011185121,
     "news: india tech policy": 1793018921541,
-    "news: india telecom": 1793017699569,
+    "news: india telecom": 1793020608305,
     "news: indian it majors": 1793016544598,
     "news: indian it midcaps": 1793019556261,
     "news: pib releases": 1790159940641,
@@ -39557,7 +39485,9 @@
     "zoho": 1792773520770
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-10-26T13:31:17.028151+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -39575,17 +39505,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-26T13:24:26.213799+00:00",
+    "last_server_run": "2026-10-26T13:31:48.364835+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-10-26T11:32:19.870791+00:00",
+        "checked": "2026-10-26T13:32:39.560436+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-10-26T11:32:11.929981+00:00",
+        "checked": "2026-10-26T13:32:31.921901+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -39661,7 +39591,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-10-26T11:32:15.872850+00:00",
+        "checked": "2026-10-26T13:32:35.624945+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -39716,10 +39646,10 @@
       "last": {
         "calendar": "2026-10-26T11:02:11.861030+00:00",
         "ls_reports": "2026-10-26T13:02:35.312241+00:00",
-        "rs_committee_press": "2026-10-26T11:32:05.885799+00:00",
-        "rs_press": "2026-10-26T11:32:02.715875+00:00",
-        "rs_reports": "2026-10-26T11:31:59.746750+00:00",
-        "rs_updates": "2026-10-26T11:32:07.426463+00:00"
+        "rs_committee_press": "2026-10-26T13:32:25.561582+00:00",
+        "rs_press": "2026-10-26T13:32:22.234388+00:00",
+        "rs_reports": "2026-10-26T13:32:19.607522+00:00",
+        "rs_updates": "2026-10-26T13:32:27.665377+00:00"
       }
     },
     "scanned": [
@@ -44608,15 +44538,46 @@
           "tracks",
           "worth"
         ]
+      },
+      {
+        "at": "2026-10-26T13:33:40.723668+00:00",
+        "headline": "Multi-agency Operation Trident arrests 18 and freezes 1,424 bank accounts over drug network",
+        "url": "https://x.com/mygovindia/status/2114709618220060683",
+        "words": [
+          "100",
+          "424",
+          "accounts",
+          "across",
+          "against",
+          "agency",
+          "arrests",
+          "assam",
+          "bank",
+          "blockbuster",
+          "cartel",
+          "coordinated",
+          "crackdown",
+          "drug",
+          "frozen",
+          "https",
+          "k43zmzsuyb",
+          "locations",
+          "manipur",
+          "mizoram",
+          "multi",
+          "nearly",
+          "networks",
+          "operation",
+          "targets",
+          "transnational",
+          "trident"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-26T13:26:26.630295+00:00",
+    "last_run": "2026-10-26T13:33:40.723842+00:00",
     "seen": [
-      "x:2111093182713008353",
-      "x:2111093609038750162",
-      "x:2111094280106434874",
       "x:2111091942595682582",
       "x:2111094825399341476",
       "x:2111095492373631176",
@@ -47613,7 +47574,10 @@
       "x:2114706032639590739",
       "x:2114706550178869747",
       "x:2114707087960031424",
-      "x:2114707897456431508"
+      "x:2114707897456431508",
+      "x:2114709618220060683",
+      "x:2114711145731014943",
+      "x:2114711442360512970"
     ],
     "source_failures": {},
     "sources": []
