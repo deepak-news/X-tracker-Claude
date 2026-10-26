@@ -1,41 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-18T10:31:19.375282+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Accenture explores sale of Chinese operations for up to $1.5bn",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXQ2WWNXcnlFYXJ0S1I1SHBXYkU2NG10emhydEt3UFZET1hnUWd6M2xRU29uQlZfWDhGQUloMG83eWh1RWNEY2JfTDNVMVhyNk1naHhKbVdrZjNERC1nUTFhLVcyOVdxVjNwdjFKcGVPa2doRVhGdUpzV0lQaGRKZC1QcU0?oc=5",
-      "words": [
-        "5bn",
-        "accenture",
-        "chinese",
-        "looks",
-        "operations",
-        "sell"
-      ]
-    },
-    {
-      "at": "2026-10-18T11:31:31.517833+00:00",
-      "handle": "News: India telecom",
-      "headline": "Airtel launches voice-only prepaid plans following TRAI directive",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWlU1akJZckphVFFNcE9ZTjZWTHM5cXVSRjFaMzNWRGVZLU54MWxsSE5qcTE2X2FETm15Y1Q1bzN5Z2xZWG0zQThBQ1hfUG1BNEtKZnlzaWtiU1hVYWRrRFQ4WjJyV3JCYm1WLXZBMnJiZE9hc1JScWdlMlgxNU5hblg2VGdVcXNtMm8xSmRxbkhNU1ZVdzhaNjdfVXpUTDBWcXMwUHBpOU5QdUs5NnFycC05TnBVckEzS1ZJOTlDaHVLV05yLXFKUWpIQjJNbWh6QXpfLUo5Yll1ZkpaaHhsNUVBTWvSAeoBQVVfeXFMUGkydE1DaHVsVUJxLXZmbGZFbGhSN2FkM3FWTzA2SGtIc093bm53cjMtbjVlUno1QkY4SnZHWDZBeUw1cnJGM0NhM3RxNEpEUnZKS3BqM01pM2FoYWZ0b3BIMDRDZHVvUUQzUy1hcTBfcTBJdDBkS3owSTdtM3Ntb0ZMSVFvZUFEZW9wQmNOYm8tYkVQM2tCWHFZcU1aN3hRUXltd3hUNEgwYXJ4TFQ3Y1ZfempxcDI3VzhpUEdVb1p0c0FoU2tHd1RKWGtQN0x2cmF3T0RhNnVFYzdhSV9kd0VHXy01c01JX3Nn?oc=5",
-      "words": [
-        "airtel",
-        "data",
-        "directive",
-        "needed",
-        "out",
-        "packs",
-        "prepaid",
-        "rolls",
-        "sms",
-        "trai",
-        "voice"
-      ]
-    },
-    {
       "at": "2026-10-18T14:31:27.271532+00:00",
       "handle": "News: Big tech platforms",
       "headline": "Microsoft cancels data centre partnership with Nscale",
@@ -7460,6 +7425,42 @@
         "paywall",
         "voter",
         "without"
+      ]
+    },
+    {
+      "at": "2026-10-26T01:31:20.387859+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "SpaceX raises $40 billion in debt for AI chips",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDlyOUNydjYxVER4amZUbGdwSDlEQ2NBb0hYNVhBZzdyY2I2VDNFVV9EeWlSNkZnT3VKeEpkVURZelRFMEdHY0h1ME5ERUQ1RHNUTTBTOWdiTllqdUY0bVZiU29hVnJuaXdkZF9fTkFtNi1jV0ZyQ3ZMcmdoWFlFUFgzYm5hSERMTHhZTGMzd201ZUc00gGaAUFVX3lxTE40Z3lMMFktR1JJSnE2Sy1vM1V5OWFGZVk3RnJPQzBkQnZ6RDltQnRrUGdENlU2RmUyN1NVRVhjM0J4SnVOUjBCMEdvcG1Mc29USzE1QzFvMi1kRHF2RUJ1VUZfem9ud0E3N1puUWtzZmJkU3NuYTFtSjBsWl9NWVVXWkhPSXZ5QXBKQWlaT0pEaUk2UWtwWFJFQ0E?oc=5",
+      "words": [
+        "billion",
+        "chips",
+        "debt",
+        "does",
+        "musk",
+        "next",
+        "plan",
+        "raises",
+        "spacex"
+      ]
+    },
+    {
+      "at": "2026-10-26T01:31:20.387859+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Flipkart plans to launch Earth for sustainable products",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQXh6dFhaQ1d1OFdITXNCOUYwWERMdm0tTkN2ckI3RzhjOGVnOVFKd1N2OEdqYWw4U0NVMmc1ejNxQ1pNSms3UEJoREhjTUdsd3dER1RCZ0J2ZHJ1YjEtZC1aSkJjVG5icnc5dnp2cFdxLW92bDhiMUxING1jUzBKQVFqVjg5cmpKdkxsMmFQNGpNQ3VXRkk3R0N5cC1MUDZxWktCQURJd1dHcm40RHVYM3NDZFdiVzh3TkJyalJpNk1aX005blREaUdSeHFfMk5odDlLcEVkeFlPaHl0eGfSAeMBQVVfeXFMTVYtcEQyMnBtTXRJR1F4UEdVVEVkdmU5MlVkc3ZGbEVTN3BHRC11N0I5TmZSUU54V2tRYmstbldQTlRSYXVTQV8yYWlpaHQ5QXhyUWVyeFdHQU1FNkxvYWNzTU9yOGNxRVF4eVJISWtMdnYyWU9rZ2l0dTJMYkpxS2pSZWJReEUybFVPejR1ZUtmTjh4eFREb1poNzRyX18yY0Q1R3hlc2FWUEVTblg2Q2hUN1FsSHpVOWJUSnk3b1R5VWV0NUdsd0tUUUhCZlpVNTgxT3J2R1d1ZG5BZFhwQUN1VWs?oc=5",
+      "words": [
+        "demand",
+        "earth",
+        "flipkart",
+        "launch",
+        "plans",
+        "premium",
+        "products",
+        "sustainable",
+        "tap"
       ]
     }
   ],
@@ -15868,11 +15869,9 @@
       "CG-WB-E-24102026-277404"
     ],
     "health": {
-      "down": {
-        "IRDAI": "2026-10-26T01:18:11.841030+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-10-26T01:18:13.030819+00:00",
+    "last_run": "2026-10-26T01:32:21.266390+00:00",
     "pib_mark": 2328291,
     "seen": [
       "pib:2320137",
@@ -18775,11 +18774,7 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63862",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-rbis-newly-established-data-centre-and-cybersecurity-training-institute-in-bhubaneswar-odisha"
     ],
-    "source_failures": {
-      "IRDAI": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -18834,11 +18829,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1792384515850",
-    "1792392613293",
-    "1792393535399",
-    "1792398180396",
-    "1792398535896",
     "1792399938455",
     "1792406686495",
     "1792412808938",
@@ -23284,7 +23274,6 @@
     "1792957762354",
     "1792960569713",
     "1792923243425",
-    "1792960090595",
     "1792967262363",
     "1792931766329",
     "1792938900597",
@@ -23306,7 +23295,6 @@
     "1792940859459",
     "1792952160919",
     "1792971035780",
-    "1792946992263",
     "1792970875641",
     "1792971127069",
     "1792971460111",
@@ -23314,19 +23302,24 @@
     "1792927863428",
     "1792967938466",
     "1787702400464",
-    "1792901067840",
-    "1792913598099",
     "1792925899660",
-    "1792925899919",
-    "1792935086476",
-    "1792936103459",
-    "1792940222542",
     "1792943280465",
-    "1792951273696",
-    "1792951676668",
-    "1792957288763",
-    "1792957288947",
-    "1792974600378",
+    "1792891020970",
+    "1792900586235",
+    "1792905721928",
+    "1792929660141",
+    "1792935127155",
+    "1792937686802",
+    "1792938600057",
+    "1792946259459",
+    "1792947600346",
+    "1792949733271",
+    "1792960090261",
+    "1792967963153",
+    "1792972800767",
+    "1792974239405",
+    "1792974600070",
+    "1792974903332",
     "1746619200351",
     "1746619200551",
     "1747828800890",
@@ -24603,12 +24596,11 @@
     "1792773520770",
     "1792774800957",
     "1792800000302",
-    "1792891020970",
     "1792892044677",
     "1792895996490",
     "1792899882828",
-    "1792900586235",
     "1792900817031",
+    "1792901067840",
     "1792901448243",
     "1792901807444",
     "1792902076870",
@@ -24619,7 +24611,6 @@
     "1792904812177",
     "1792904820388",
     "1792905498389",
-    "1792905721928",
     "1792905839003",
     "1792906222689",
     "1792908010074",
@@ -24631,6 +24622,7 @@
     "1792911069574",
     "1792912329670",
     "1792913419638",
+    "1792913598099",
     "1792913792755",
     "1792914784683",
     "1792915498976",
@@ -24647,6 +24639,7 @@
     "1792925034008",
     "1792925413338",
     "1792925501323",
+    "1792925899919",
     "1792926149998",
     "1792926493730",
     "1792926716100",
@@ -24657,7 +24650,6 @@
     "1792929318664",
     "1792929360618",
     "1792929603489",
-    "1792929660141",
     "1792929900257",
     "1792930099960",
     "1792930888340",
@@ -24672,12 +24664,12 @@
     "1792933800008",
     "1792933903236",
     "1792934155100",
-    "1792935127155",
+    "1792935086476",
+    "1792936103459",
     "1792936143113",
-    "1792937686802",
-    "1792938600057",
     "1792940081181",
     "1792940100093",
+    "1792940222542",
     "1792940812523",
     "1792941526403",
     "1792942027847",
@@ -24691,14 +24683,14 @@
     "1792943573733",
     "1792945759586",
     "1792946116963",
-    "1792946259459",
     "1792946604345",
     "1792946965157",
+    "1792946992263",
     "1792947243416",
-    "1792947600346",
-    "1792949733271",
     "1792950541482",
     "1792951239039",
+    "1792951273696",
+    "1792951676668",
     "1792951915112",
     "1792952310226",
     "1792952448600",
@@ -24707,31 +24699,34 @@
     "1792954080546",
     "1792956838328",
     "1792957020182",
+    "1792957288763",
+    "1792957288947",
     "1792957762173",
     "1792958505543",
-    "1792960090261",
+    "1792960090595",
     "1792963204449",
     "1792965660010",
     "1792967915363",
-    "1792967963153",
     "1792969359713",
     "1792970122689",
     "1792971035865",
     "1792971127427",
     "1792971460857",
-    "1792972800767",
-    "1792974239405",
+    "1792972200925",
+    "1792972800065",
     "1792974600048",
-    "1792974600070",
     "1792974600376",
+    "1792974600378",
     "1792974621641",
     "1792974639276",
     "1792974653440",
-    "1792974903332",
     "1792975020170",
     "1792975342101",
     "1792976419150",
     "1792976419611",
+    "1792976828012",
+    "1792977278273",
+    "1792977408493",
     "1793001600557",
     "2317509",
     "2317615",
@@ -24835,8 +24830,8 @@
     "2327710",
     "2328087"
   ],
-  "last_digest_hour": "2026-10-26T06",
-  "last_success": "2026-10-26T01:16:01.780203+00:00",
+  "last_digest_hour": "2026-10-26T07",
+  "last_success": "2026-10-26T01:31:20.465999+00:00",
   "national": {
     "alerted": [
       {
@@ -34521,7 +34516,7 @@
       },
       "warned": "2026-10-25T22:31:58.869039+00:00"
     },
-    "last_run": "2026-10-26T01:17:33.640088+00:00",
+    "last_run": "2026-10-26T01:32:07.443681+00:00",
     "pib_mark": 2328291,
     "seen": [
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63749",
@@ -37531,7 +37526,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "NPCI": {
-        "count": 2
+        "count": 3,
+        "until": "2026-10-26T07:31:44.782222+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -37594,44 +37590,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "SpaceX raises $40 billion in debt for AI chips",
-      "post": {
-        "created_at": "2026-10-26T00:23:59+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1792974239405",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Firstpost",
-        "reposts": 0,
-        "text": "SpaceX raises $40 billion in debt for AI chips. What does Musk plan next?",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDlyOUNydjYxVER4amZUbGdwSDlEQ2NBb0hYNVhBZzdyY2I2VDNFVV9EeWlSNkZnT3VKeEpkVURZelRFMEdHY0h1ME5ERUQ1RHNUTTBTOWdiTllqdUY0bVZiU29hVnJuaXdkZF9fTkFtNi1jV0ZyQ3ZMcmdoWFlFUFgzYm5hSERMTHhZTGMzd201ZUc00gGaAUFVX3lxTE40Z3lMMFktR1JJSnE2Sy1vM1V5OWFGZVk3RnJPQzBkQnZ6RDltQnRrUGdENlU2RmUyN1NVRVhjM0J4SnVOUjBCMEdvcG1Mc29USzE1QzFvMi1kRHF2RUJ1VUZfem9ud0E3N1puUWtzZmJkU3NuYTFtSjBsWl9NWVVXWkhPSXZ5QXBKQWlaT0pEaUk2UWtwWFJFQ0E?oc=5"
-      },
-      "queued_at": "2026-10-26T00:46:01.538280+00:00",
-      "score": 7.0,
-      "why": "A massive debt raise by a major aerospace and AI player for chip infrastructure is a major global tech development."
-    },
-    {
-      "headline": "Flipkart plans to launch Earth for sustainable products",
-      "post": {
-        "created_at": "2026-10-26T00:30:00+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1792974600048",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Flipkart plans to launch \u2018Earth\u2019 to tap demand for premium, sustainable products",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQXh6dFhaQ1d1OFdITXNCOUYwWERMdm0tTkN2ckI3RzhjOGVnOVFKd1N2OEdqYWw4U0NVMmc1ejNxQ1pNSms3UEJoREhjTUdsd3dER1RCZ0J2ZHJ1YjEtZC1aSkJjVG5icnc5dnp2cFdxLW92bDhiMUxING1jUzBKQVFqVjg5cmpKdkxsMmFQNGpNQ3VXRkk3R0N5cC1MUDZxWktCQURJd1dHcm40RHVYM3NDZFdiVzh3TkJyalJpNk1aX005blREaUdSeHFfMk5odDlLcEVkeFlPaHl0eGfSAeMBQVVfeXFMTVYtcEQyMnBtTXRJR1F4UEdVVEVkdmU5MlVkc3ZGbEVTN3BHRC11N0I5TmZSUU54V2tRYmstbldQTlRSYXVTQV8yYWlpaHQ5QXhyUWVyeFdHQU1FNkxvYWNzTU9yOGNxRVF4eVJISWtMdnYyWU9rZ2l0dTJMYkpxS2pSZWJReEUybFVPejR1ZUtmTjh4eFREb1poNzRyX18yY0Q1R3hlc2FWUEVTblg2Q2hUN1FsSHpVOWJUSnk3b1R5VWV0NUdsd0tUUUhCZlpVNTgxT3J2R1d1ZG5BZFhwQUN1VWs?oc=5"
-      },
-      "queued_at": "2026-10-26T00:46:01.538280+00:00",
-      "score": 7.0,
-      "why": "A major strategic product line expansion by a top Indian e-commerce player is a filable business story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -38755,9 +38714,9 @@
     "microsoft india": 1792462450125,
     "mistral ai": 1792584020171,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1792975342101,
+    "news: big tech platforms": 1792977408493,
     "news: consumer internet india": 1792974903332,
-    "news: global ai": 1792972200912,
+    "news: global ai": 1792972200925,
     "news: global chips": 1792967938466,
     "news: global it services": 1792946116963,
     "news: india ai deeptech": 1792942027847,
@@ -38765,8 +38724,8 @@
     "news: india fintech": 1792952448600,
     "news: india semiconductors": 1792942835943,
     "news: india tech policy": 1792951273696,
-    "news: india telecom": 1792971035865,
-    "news: indian it majors": 1792976419611,
+    "news: india telecom": 1792977278273,
+    "news: indian it majors": 1792976828012,
     "news: indian it midcaps": 1792969452557,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1792931310874,
@@ -38796,9 +38755,7 @@
     "zoho": 1792773520770
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-10-26T01:15:56.547631+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -38816,7 +38773,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-10-26T01:16:02.216830+00:00",
+    "last_server_run": "2026-10-26T01:31:20.964879+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-10-26T01:02:12.777807+00:00",
@@ -43636,7 +43593,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-10-26T01:17:36.594000+00:00",
+    "last_run": "2026-10-26T01:32:10.480410+00:00",
     "seen": [
       "x:2110710896456609882",
       "x:2110739779151364581",
