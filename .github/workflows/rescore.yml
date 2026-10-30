@@ -1,0 +1,43 @@
+name: Rescore website items (one-off)
+
+# The general desk's score again for the website's recent items (tracker/rescore.py). Writes
+# a file only; nothing is sent to the website or by email.
+on:
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: "Source keys, comma separated (grp|source)"
+        required: true
+      hours:
+        description: "How many hours back"
+        default: "24"
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  rescore:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - timeout-minutes: 15
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          RESCORE_SOURCES: ${{ inputs.sources }}
+          RESCORE_HOURS: ${{ inputs.hours }}
+        run: python -m tracker.rescore
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rescore
+          path: rescore.json
+          retention-days: 3
