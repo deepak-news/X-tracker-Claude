@@ -818,6 +818,19 @@ national:
     - Anything that matters only to one industry or to specialists --
       except the central government decisions and changes to government
       bodies described above, which are news whatever the sector
+    Added 2026-10-30 (the user's ask, from a week of website alerts) -- score
+    these 3 at most:
+    - Admit cards, exam schedules and results of recruitment exams for
+      particular posts (national exams like NEET, JEE, UPSC stay above)
+    - Designation of special courts, public prosecutors or officers;
+      office orders and postings
+    - Rules, orders or notifications only published again: the year in the
+      title is past and nothing in the text is new
+    - Courtesy visits and joint statements that announce no agreement,
+      money or decision
+    - Another country's own affairs with no India link: its fact sheets,
+      proclamations, speeches and domestic decisions, unless world-scale
+      (a war, a government falling, a global market shock, mass casualties)
 
   # Score out of 10 needed to be emailed. Raise to 8 if it sends too much,
   # drop to 6 if it misses things.
@@ -1208,7 +1221,8 @@ site:
     - Outbreaks, safety alerts, drug and food recalls
 
     LEAVE OUT (score 3 or less):
-    - Recruitment, vacancies, tenders, bids, internships, admissions
+    - Recruitment, vacancies, tenders, bids, internships, admissions, admit
+      cards and exam schedules for posts (added 2026-10-30)
     - Workshops, webinars, celebrations, campaigns, awareness days, visits
     - Office orders, transfers and postings below the top, court-room and
       sitting arrangements, website notices

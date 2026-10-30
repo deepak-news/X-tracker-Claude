@@ -164,14 +164,35 @@ POSTS:
 # reporter on its own beat (the user's rule, 2026-10-12; the website enforces it too). No extra
 # requests; the desk's own score, and its emails, are unchanged. The scale is the national
 # desk's, whose own score (for the head of social media) is the general desk's.
-GENERAL_SCALE = """  0-3  routine administration: tenders, auctions, postings and transfers,
-       meetings and events, greetings, notices that touch almost no one
-  4-6  real but niche: matters mainly to one sector, one state or specialists
-  7-8  clear general news value: a decision, rule, ruling, figure or action
-       that affects large numbers of people, their money, safety, rights or
-       daily life; a major appointment; a significant security, diplomatic,
-       economic or legal development
-  9-10 a major national or international story that would lead a bulletin"""
+# 2026-10-30 (the user's ask, from a week of website alerts): written for an audience in
+# India -- foreign items with no India link and no world-scale impact at most 3; admit cards,
+# postings, court designations and re-published rules at the bottom; 6+ means a story.
+GENERAL_SCALE = """The audience is in India. A score of 6 or more means the agency would file a
+news story on this item today; 4-5 means a specialist might note it, but it
+is not a story on its own.
+  0-2  routine administration: admit cards, exam dates and results of
+       recruitment exams, vacancies, tenders, auctions, postings, transfers
+       and office orders, designation of courts or officers, fee waivers and
+       extended filing deadlines, meetings and events, greetings, awareness
+       days, notices that touch almost no one; rules or orders that are only
+       published again, not new
+  3-5  real but niche: matters mainly to one sector, one state or
+       specialists; routine data releases; courtesy visits and joint
+       statements with little in them
+  6-8  a story: a decision, rule, ruling, figure or action that affects large
+       numbers of people, their money, safety, rights or daily life; a major
+       appointment; a significant security, diplomatic, economic or legal
+       development
+  9-10 a major national or international story that would lead a bulletin
+
+FOREIGN ITEMS -- another country's government or regulator, the UN, the EU,
+foreign companies: at most 3 when nothing in it involves India (Indian
+people, companies, trade, tariffs, visas, money, security or diplomacy),
+unless it is a world event big enough to lead bulletins in India too -- a
+war starting or ending, a head of government falling, a central-bank move
+that shakes world markets, a disaster with mass casualties -- then 6-9.
+Fact sheets, proclamations, daily news round-ups, speeches and statements
+about another country's own affairs score 0-3 unless they name India."""
 
 GENERAL_ASK = """ALSO score every entry for the GENERAL DESK: "general", 0-10, how much a
 journalist on a national news agency's general desk -- like its social media

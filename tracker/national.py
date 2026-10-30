@@ -664,8 +664,25 @@ def quakes(cfg: dict) -> list:
     for row in sorted(kept, key=lambda r: r["when"]):
         post = _quake_post(row)
         post.site_only = bool(row.get("site_only"))
+        post.region, post.magnitude = row["region"], row["magnitude"]
         posts.append(post)
     return posts
+
+
+def quake_site_score(post) -> float:
+    """An earthquake's score on the website, by where it was and how big (2026-10-30, the user's
+    ask: every quake over the email threshold had gone there as 10, so a 4.5 deep in Tibet or a
+    5.8 off Vanuatu reached people like a Delhi tremor). The desk's email is unchanged.
+    India: news from 3.5. The neighbourhood ("china" is all of it, Xinjiang included): from
+    5.5, as it is felt in India. Elsewhere: only the very large ones."""
+    m, region = getattr(post, "magnitude", None), getattr(post, "region", "")
+    if m is None:
+        return 6 if getattr(post, "site_only", False) else 10
+    if region == "india":
+        return 10 if m >= 5 else 8 if m >= 4 else 6
+    if region == "neighbour":
+        return 9 if m >= 6.5 else 7 if m >= 5.5 else 4 if m >= 5 else 2
+    return 10 if m >= 7.5 else 7 if m >= 7 else 4 if m >= 6.5 else 2
 
 
 def collect(cfg: dict, scanned: set, memory: dict | None = None, report: list | None = None) -> tuple:
@@ -1266,7 +1283,9 @@ def run(dry_run: bool, desk: dict = NATIONAL) -> int:
 
     # The website gets everything this desk judged, sent or not, with its score: who hears
     # about what is decided there, by each reporter's own bar (website.py).
-    website.send(desk["memory"], [website.official_item(*r) for r in rows if r[0].id not in old],
+    # earthquakes go to the website with their own graded score (quake_site_score)
+    site_rows = [(r[0], quake_site_score(r[0]), *r[2:]) if r[0].handle.startswith("Quake ") else r for r in rows]
+    website.send(desk["memory"], [website.official_item(*r) for r in site_rows if r[0].id not in old],
                  view=desk["memory"], sources=website.official_sources(cfg, PIB_MINISTRIES),
                  failed=failed, dry_run=dry_run,
                  status=website.status("official", report, website.official_name))
