@@ -1115,6 +1115,11 @@ site:
     - {source: PPAC, url: "https://ppac.gov.in/", match: "download\\.php\\?file=(importantnews|rep_studies)/", exclude: "^RSP of (Petrol|Diesel) in Delhi|advertisement|tender", strip: "\\s*\\(\\s*pdf\\s*,\\s*[\\d.]+\\s*[KM]B\\s*\\)\\s*$"}
     - {source: PFRDA, url: "https://www.pfrda.org.in/", match: "/en/web/pfrda/w/", ai: true}
     - {source: IFSCA, url: "https://ifsca.gov.in/", match: "/(PressRelease|Legal|ReportPublication)/Index", ai: true}
+    # NSE: what listed companies tell the exchange (added 2026-11-01, the user's choice), from its
+    # public RSS files: the newest ~120 announcements, board meetings called for more than the
+    # results, and IPO documents. Routine filings are dropped before the AI (NSE_SKIP in
+    # site_sources.py), and each new filing is read before it is judged.
+    - {source: NSE company filings, reader: nse_filings, ai: true}
     # --- Courts and watchdogs (Supreme Court judgments and NCLAT judgments AI-scored from
     # 2026-10-11, the user's choice; the Supreme Court's notices still count every row)
     - {source: Supreme Court, sub: Judgments, url: "https://www.sci.gov.in/", match: "/view-pdf/\\?diary_no=.*from=latest_judg", strip: "\\s*\\(Uploaded On [^)]*\\)?\\s*$", ai: true, new_ids: true}
@@ -1219,6 +1224,12 @@ site:
     - Statements by heads of government, ministers or the body itself on a
       matter of public interest; India-related statements score higher
     - Outbreaks, safety alerts, drug and food recalls
+    - Company filings: results of listed companies people know; big orders,
+      deals, mergers, acquisitions, fund raising, buybacks and bonus issues;
+      chairmen, chief executives and managing directors joining or leaving;
+      big companies' monthly sales and production; defaults, frauds, raids,
+      penalties, and court or regulator action against a company (added
+      2026-11-01)
 
     LEAVE OUT (score 3 or less):
     - Recruitment, vacancies, tenders, bids, internships, admissions, admit
@@ -1227,3 +1238,6 @@ site:
     - Office orders, transfers and postings below the top, court-room and
       sitting arrangements, website notices
     - Match previews and results of routine fixtures; event promotion
+    - Routine company filings: small companies' small orders, ESG ratings,
+      independent directors' terms ending, managers below the board retiring
+      or moving, compliance letters, store openings (added 2026-11-01)

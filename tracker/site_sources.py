@@ -13,6 +13,9 @@ the aviation and corporate-affairs reporter.
                     in the official stream, read by regulators.py)
     ibbi            IBBI: What's new -- resolution plans, orders, notices
     who_outbreaks   WHO: Disease Outbreak News (the page fills itself from WHO's own data)
+    nse_filings     NSE: company announcements, board meetings and IPO documents (its public RSS
+                    files; added 2026-11-01). Each new announcement's filing is read before the
+                    AI judges it ("doc" on a row, _read_docs)
 
 More pages and feeds, added 2026-10-11, need no code of their own: each is one line under
 "site: more:" in watchlist.yml, read by read_more() below --
@@ -514,6 +517,56 @@ def _more_label(entry) -> str:
     return f"{entry['source']} {entry.get('sub') or ''}".strip()
 
 
+DOCS_PER_RUN = 40       # filings read before the AI judges them; any beyond are judged on their titles
+XBRL_SKIP = {"identifier", "explicitMember", "startDate", "endDate", "instant", "measure", "ISIN", "MSEISymbol", "NSESymbol",
+             "BSEScripCode", "ScripCode", "NameOfTheCompany"}
+
+
+def _fair(rows: list) -> list:
+    """One row from each source in turn, so a busy source (NSE's filings) cannot keep the
+    others from the AI's per-run share."""
+    by: dict = {}
+    for it in rows:
+        by.setdefault(it["source"], []).append(it)
+    return [lst[n] for n in range(max(map(len, by.values()), default=0)) for lst in by.values() if n < len(lst)]
+
+
+def _xbrl_text(url: str) -> str:
+    """An exchange's XBRL filing (an order, a deal, a change in management) as "Field: value"."""
+    found = []
+    for tag, value in re.findall(r"<(?:[\w-]+:)?(\w+)[^>/]*>([^<]{1,600})</", _get(url, headers=NSE_HEADERS).text):
+        value = _clean(value)
+        if tag in XBRL_SKIP or re.fullmatch(r"[\d.\-:T+ ]{6,}|true|false|INR|pure|shares|0|NOTLISTED|N\.?A\.?|Not applicable|\w+(Domain\d*|Member)",
+                                            value, re.I):
+            continue
+        if tag.startswith("TypeOfAnnouncement"):                     # "New"
+            continue
+        # "TypeOfEventAsPerRegulation30ParaBOfPartAOfScheduleIII" reads "Type of event"
+        name = re.sub(r"\s*(As Per|Pertaining To) Regulation.*$", "", re.sub(r"(?<=[a-z])(?=[A-Z])", " ", tag))
+        found.append(f"{name[:1]}{name[1:].lower()}: {value}")
+    return "; ".join(found)
+
+
+def _doc_text(url: str) -> str:
+    from .sources import _filing_text                                 # noqa: PLC0415
+    return _xbrl_text(url) if url.lower().endswith(".xml") else _filing_text(url, NSE_HEADERS)
+
+
+def _read_docs(batch: list) -> None:
+    """A row a reader marks "doc" (an exchange filing) says little in its title: the filing's
+    first pages are added to it before the AI judges it, and the website keeps them."""
+    todo = [it for it in batch if it.get("doc")][:DOCS_PER_RUN]
+    if not todo:
+        return
+    from . import parallel                                            # noqa: PLC0415
+    done = 0
+    for it, (_, text, _) in zip(todo, parallel.run([(it["id"], lambda u=it["doc"]: _doc_text(u)) for it in todo])):
+        if text and len(text) > 120:                                  # a scan with no text layer adds nothing
+            it["body"] = f"{it['body']} The filing: {text}"[:1500]
+            done += 1
+    print(f"  read {done} of {len(todo)} filing(s) for the AI")
+
+
 def _screen(items: list, dry_run: bool) -> list:
     """The "ai: true" rows: only those the website does not have yet are judged, and only for
     a source whose first list is already in. A row the AI could not get to is held back, to
@@ -539,8 +592,9 @@ def _screen(items: list, dry_run: bool) -> list:
         waiting = []
     if not waiting:
         return first
-    batch, later = waiting[:AI_PER_RUN], len(waiting) - AI_PER_RUN
+    batch, later = _fair(waiting)[:AI_PER_RUN], len(waiting) - AI_PER_RUN
     print(f"  the AI is judging {len(batch)} new row(s)" + (f"; {later} wait for the next run" if later > 0 else ""))
+    _read_docs(batch)
     from .main import dead_models, load_state                        # noqa: PLC0415
     from .sources import Post                                         # noqa: PLC0415
     posts = [Post(id=it["id"], handle=it["source"], text=f"{it['source']}: {it['title']}. {it['body']}".strip(),
@@ -829,7 +883,103 @@ def _dot_reader(category: int):
     return lambda: _dot(category)
 
 
-HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "dgca_traffic": dgca_traffic, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
+# ---------------------------------------------------------------- NSE: what listed companies tell the exchange
+
+# NSE's public RSS files, added 2026-11-01 (the user's choice: 239 PTI stories in six days came
+# from company filings, and BSE's data has refused us since Oct 11). Plain requests only: the
+# exchange's data pages behind its bot check are not read.
+NSE_RSS = "https://nsearchives.nseindia.com/content/RSS/"
+NSE_BIG = "https://nsearchives.nseindia.com/content/indices/ind_nifty500list.csv"
+NSE_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PTI-Source-Alerts/1.0)"}
+# Filings the law requires that are never news, by the heading NSE files them under, and the
+# same said in an update's own words. Dropped here, so the AI's daily budget goes on the rest.
+NSE_SKIP = re.compile(r"declaration of nav|newspaper|analyst|esop|esos|trading window|certificate|record date|"
+                      r"book closure|shareholders meeting|voting result|scrutini[sz]er|postal ballot|investor complaint|"
+                      r"shareholding pattern|corporate governance|annual (disclosure|report)|investor presentation|"
+                      r"registered office|insider trading|encumbrance|pledge|\bsast\b", re.I)
+NSE_SKIP_SAID = re.compile(r"esg rating|newspaper|loss of share|duplicate share|trading window|(earnings|conference) call|"
+                           r"investors? meet|\banalysts?\b|transcript|(audio|video) recording|certificate under", re.I)
+# a board meeting called for the quarter's results alone is no news; one for a dividend, a bonus or fund raising may be
+NSE_MEETING_NEWS = re.compile(r"dividend|bonus|split|sub-?division|buy ?-?back|fund|rais|\bQIP\b|\bNCDs?\b|debenture|"
+                              r"preferential|rights issue|warrant|merger|amalgamation|demerger|acquisition|scheme|delist", re.I)
+NSE_IPO_DOC = {"PROSP": "prospectus", "RHP": "red herring prospectus", "DRHP": "draft red herring prospectus",
+               "ADV": "advertisement"}
+
+
+def _nse_company(name) -> str:
+    name = _clean(name)
+    if name.isupper():
+        name = name.title()
+    return re.sub(r"\s+(Limited|Ltd\.?)$", "", name, flags=re.I)
+
+
+def _nse_norm(name) -> str:
+    """"ICICI Bank Ltd." and "ICICI BANK LIMITED" alike: "icicibank" (a filing's file name is not always its symbol)."""
+    return re.sub(r"[^a-z0-9]", "", re.sub(r"\b(limited|ltd)\b", "", _clean(name).lower()))
+
+
+def _nse_day(text):
+    return _day((text or "")[:11], "%d-%b-%Y")
+
+
+def _nse_feed(name: str) -> list:
+    return feedparser.parse(_get(NSE_RSS + name, headers=NSE_HEADERS).content).entries
+
+
+def nse_filings() -> list:
+    """The newest online announcements (about 120 at a time), board meetings called for more
+    than the results, and IPO documents. An announcement's "doc" is the filing itself (a PDF,
+    or XBRL for orders, deals and management changes): the AI reads it before judging the row
+    (_read_docs)."""
+    try:
+        listed = list(csv.DictReader(io.StringIO(_get(NSE_BIG, headers=NSE_HEADERS).text)))
+        big = {r.get("Symbol", "").strip() for r in listed} | {_nse_norm(r.get("Company Name")) for r in listed}
+    except Exception:                                                 # noqa: BLE001 -- only a hint for the AI
+        big = set()
+    rows = []
+    for item in _nse_feed("Online_announcements.xml"):
+        link, company = (item.get("link") or "").strip(), _nse_company(item.get("title"))
+        said, _, subject = _clean(item.get("summary")).partition("|SUBJECT:")
+        said, subject = said.strip(), subject.strip()
+        if not company or not link or NSE_SKIP.search(subject) or NSE_SKIP_SAID.search(said):
+            continue
+        # 'a press release dated November 01, 2026, titled "Maruti Suzuki sales in October 2026".'
+        what = re.search(r"titled\s+[\"“'‘](.+?)[\"”'’]?\.?$", said) or \
+            re.search(r"has (?:informed|submitted to) the Exchange,?\s*(?:about|regarding|that)?\s*(.+)$", said, re.I)
+        what = re.sub(r"^press release titled\s*", "", what.group(1) if what else said, flags=re.I).strip(" .'\"“”‘’")
+        if what.lower() in ("", "updates", "general updates", "press release"):
+            what = subject or "Filing"
+        symbol = (re.search(r"/corporate/([^/_]+)_\d{8}", link) or [None, ""])[1]
+        size = "in the Nifty 500" if symbol in big or _nse_norm(item.get("title")) in big else "outside the Nifty 500"
+        rows.append({"key": link, "title": f"{company}: {what[:1].upper()}{what[1:]}"[:300],
+                     "detail": f"NSE filing by {company} ({symbol or 'NSE'}, {size}), filed as \"{subject}\". {said}"[:1200],
+                     "url": link, "date": _nse_day(item.get("published")), "doc": link})
+    for item in _nse_feed("Board_Meetings.xml"):
+        link, company = (item.get("link") or "").strip(), _nse_company(item.get("title"))
+        purpose, _, when = _clean(item.get("summary")).partition("|Meeting Date:")
+        if not company or not link or not NSE_MEETING_NEWS.search(purpose):
+            continue
+        day, purpose = _nse_day(when.strip()), purpose.strip()
+        # "Fund Raising" reads "fund raising"; a sentence keeps its own capitals after the first word
+        purpose = purpose.lower() if len(purpose.split()) <= 4 else purpose[:1].lower() + purpose[1:]
+        rows.append({"key": link, "title": f"{company}: board meets {f'on {day:%b} {day.day}' if day else 'soon'} to consider {purpose}"[:300],
+                     "detail": f"NSE: {company} has called a board meeting. Purpose: {purpose}"[:1200],
+                     "url": link, "date": _nse_day(item.get("published"))})
+    for item in _nse_feed("Offer_Documents.xml"):
+        link, company = (item.get("link") or "").strip(), _nse_company(item.get("title"))
+        said = _clean(item.get("summary"))
+        kind = re.search(r"has fil+ed (\w+) for its IPO", said)
+        if not company or not link or not kind:
+            continue
+        doc = NSE_IPO_DOC.get(kind.group(1).upper().rsplit("_", 1)[-1], kind.group(1))      # "DP_DRHP" is a DRHP
+        rows.append({"key": link, "title": f"{company} IPO: {doc} filed with NSE", "detail": f"NSE offer documents: {said}",
+                     "url": link, "date": _nse_day(item.get("published"))})
+    if not rows:
+        raise RuntimeError("nothing in NSE's announcements (the feed may have moved)")
+    return rows
+
+
+HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "nse_filings": nse_filings, "dgca_traffic": dgca_traffic, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
                 "dp_notifications": dp_notifications, "dp_gazette": dp_gazette, "dp_press": dp_press, "dp_whatsnew": dp_whatsnew,
                 **{name: _dot_reader(cat) for name, cat in DOT_TABS.items()}}
 
@@ -936,7 +1086,7 @@ def run(dry_run: bool = False) -> int:
                     "issued": f"{row['date']:%b} {row['date'].day}, {row['date'].year}" if row.get("date") else "",
                     "date": row["date"].isoformat() if row.get("date") else "",
                     "quiet": bool(row.get("settle") or (row.get("date") and row["date"] < old)),
-                    **({"settle": True} if row.get("settle") else {})}
+                    **({"settle": True} if row.get("settle") else {}), **({"doc": row["doc"]} if row.get("doc") else {})}
             (screened if m.get("ai") else items).append(item)
         if dry_run:
             for row in found[:3]:

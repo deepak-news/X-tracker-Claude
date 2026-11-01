@@ -327,13 +327,14 @@ FILING_PAGES = 5
 FILING_MAX_BYTES = 12_000_000
 
 
-def _filing_text(url: str) -> str:
-    """The readable part of an attached filing, or "" if there isn't one."""
+def _filing_text(url: str, headers: dict | None = None) -> str:
+    """The readable part of an attached filing, or "" if there isn't one. headers: the
+    exchange's own (NSE's filings, read for the website by site_sources.py)."""
     if not url.lower().endswith(".pdf"):
         return ""
     try:
         response = requests.get(url, timeout=TIMEOUT,
-                                headers={"User-Agent": UA, "Referer": "https://www.bseindia.com/"})
+                                headers=headers or {"User-Agent": UA, "Referer": "https://www.bseindia.com/"})
         response.raise_for_status()
         if len(response.content) > FILING_MAX_BYTES:
             return ""
@@ -345,7 +346,7 @@ def _filing_text(url: str) -> str:
     body = " ".join(text.split())
     # Everything before the subject line is letterhead: address, CIN, the
     # exchange's own postal address. Start where the company starts talking.
-    marker = re.search(r"\b(Sub(?:ject)?\s*[:\-])", body, re.I)
+    marker = re.search(r"\b(Sub(?:ject)?\s*[:\-])", body, re.I) or re.search(r"\bDear Sir", body, re.I)
     if marker:
         body = body[marker.start():]
     return body[:FILING_CHARS]
