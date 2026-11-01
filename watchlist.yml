@@ -1124,6 +1124,12 @@ site:
     # 2026-10-11, the user's choice; the Supreme Court's notices still count every row)
     - {source: Supreme Court, sub: Judgments, url: "https://www.sci.gov.in/", match: "/view-pdf/\\?diary_no=.*from=latest_judg", strip: "\\s*\\(Uploaded On [^)]*\\)?\\s*$", ai: true, new_ids: true}
     - {source: Supreme Court, sub: Notices, url: "https://www.sci.gov.in/", match: "s3waas\\.gov\\.in/.+/uploads/", exclude: "listing notices|cause ?list|chamber matters|oral mentioning|nodal officer|court nos?\\.|parking|vacation", strip: "^Latest Updates\\s+|\\s+-\\s+\\d{1,2}\\s+[A-Z][a-z]{2,8},?\\s+\\d{4}$"}
+    # Added 2026-11-01, the user's choice. Delhi High Court: its Latest Judgments table, each new
+    # judgment's opening and decision read before the AI judges it; its lists of verdicts due.
+    # The Supreme Court collegium's statements (appointments of judges) count every row.
+    - {source: Delhi High Court, sub: Judgments, url: "https://delhihighcourt.nic.in/web/judgement/fetch-data", match: "showFileJudgment/", title: row, cells: "{3} v {4} ({1})", min: 10, doc: true, ai: true}
+    - {source: Delhi High Court, sub: Verdicts due, url: "https://delhihighcourt.nic.in/web/", match: "/files/20\\d\\d-\\d\\d/announcements/", strip: "\\s*\\(\\s*[\\d.]+\\s*[KM]B\\s*\\)\\s*$", doc: true, ai: true}
+    - {source: Supreme Court collegium, url: "https://www.sci.gov.in/collegium-resolutions/", match: "s3waas\\.gov\\.in/.+/uploads/20\\d\\d/\\d\\d/", only: "^Statement"}
     - {source: NCLAT, sub: Judgments, url: "https://nclat.nic.in/", match: "view_order_pdf\\?.*order_type=J", min: 10, ai: true, new_ids: true}
     - {source: NCLT, url: "https://nclt.gov.in/", match: "/sites/default/files/", exclude: "cause ?list|defect|pendency|celebrat|swachh|maintenance|disruption|power supply|shifting|closure|court no|sitting|relocation|nasha|tiranga", ai: true}
     - {source: Law Commission, url: "https://lawcommissionofindia.nic.in/", match: "/document/|/uploads/20", exclude: "internship|consultant|CPIO|transparency officer", strip: "\\s+New!?$"}

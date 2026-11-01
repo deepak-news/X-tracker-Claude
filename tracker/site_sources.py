@@ -31,6 +31,11 @@ More pages and feeds, added 2026-10-11, need no code of their own: each is one l
     home_only: true  read by the Mac's copy (run-watch.sh, WATCH_HOME=1), never on GitHub: for
                      sites that refuse GitHub and Cloudflare alike (ECI, Lokpal, NCB...)
     reader: eci      the site gives its list as data, read by a function below (HOME_READERS)
+    title: row       a table's rows: the title is the link's row ("Download" says nothing), its
+                     cells put together by "cells" ("{3} v {4} ({1})", counting from 0), and the
+                     row's own date is kept (added 2026-11-01, for the Delhi High Court)
+    doc: true        with "ai: true", each new row's PDF is read before the AI judges it: a
+                     judgment's opening and its last lines (_read_docs)
     new_ids: true    with "ai: true", for a source that used to count every row: fresh ids, so
                      its current list goes in quietly under the scored source
     ai: true         a busy page: each NEW row is scored by the AI against "site: newsworthy"
@@ -464,6 +469,14 @@ def _feed_rows(entry) -> list:
     return rows
 
 
+def _row_day(text: str):
+    """The first date in a table row: "31 Oct 2026", "31.10.2026", "31-10-2026" or "31/10/2026"."""
+    found = re.search(r"\b(\d{1,2})[ .\-/]([A-Za-z]{3}|\d{1,2})[ .\-/,]+(20\d\d)\b", text)
+    if not found:
+        return None
+    return _day(" ".join(found.groups()), "%d %b %Y", "%d %m %Y")
+
+
 def _slug_title(href: str) -> str:
     """PFRDA cuts its titles short on the page ("Clarification regarding applicability of
     incentive..."); the address carries the whole of it."""
@@ -490,6 +503,18 @@ def _page_rows(entry) -> list:
             continue
         url = urljoin(base, href.replace(" ", "%20"))
         title = _clean(link.get("title") if entry.get("title") == "attr" else link.get_text(" "))
+        day = None
+        if entry.get("title") == "row":
+            tr = link.find_parent("tr")
+            if tr is None:
+                continue
+            cells = [_clean(td.get_text(" ")) for td in tr.find_all(["td", "th"])]
+            try:
+                title = entry["cells"].format(*cells) if entry.get("cells") else " · ".join(
+                    c for c in cells if c and not c.isdigit() and c != title)
+            except (IndexError, KeyError):
+                continue
+            day = _row_day(" ".join(cells))
         if entry.get("title") == "slug" or (title.endswith(("...", "…")) and entry.get("title") != "text"):
             title = _slug_title(url) or title
         if len(title) < shortest or url in seen:
@@ -499,7 +524,8 @@ def _page_rows(entry) -> list:
         if strip:
             title = strip.sub("", title).strip()
         seen.add(url)
-        rows.append({"key": url, "title": title, "detail": "", "url": url, "date": None})
+        rows.append({"key": url, "title": title, "detail": "", "url": url, "date": day,
+                     **({"doc": url} if entry.get("doc") else {})})
         if len(rows) >= PAGE_LINKS:
             break
     if not rows:
@@ -547,9 +573,30 @@ def _xbrl_text(url: str) -> str:
     return "; ".join(found)
 
 
+PDF_MAX_BYTES = 8_000_000
+
+
+def _pdf_text(url: str) -> str:
+    """A document's opening and its last lines: for a judgment, what the case is about (after
+    the cover's court, case numbers and counsel) and what the court decided."""
+    from pypdf import PdfReader                                       # noqa: PLC0415
+    response = _get(url)
+    if len(response.content) > PDF_MAX_BYTES:
+        return ""
+    pages = PdfReader(io.BytesIO(response.content)).pages
+    first = " ".join(" ".join((page.extract_text() or "") for page in pages[:3]).split())
+    last = " ".join((pages[-1].extract_text() or "").split()) if len(pages) > 3 else ""
+    cover = re.search(r"CORAM.{0,800}?\b(J\s?U\s?D\s?G\s?E?\s?M\s?E\s?N\s?T|O\s?R\s?D\s?E\s?R)\b", first, re.S)
+    if cover:
+        first = first[cover.end():].strip(" :.-")
+    return f"{first[:900]} ... The end: {last[-500:]}" if last else first[:1400]
+
+
 def _doc_text(url: str) -> str:
     from .sources import _filing_text                                 # noqa: PLC0415
-    return _xbrl_text(url) if url.lower().endswith(".xml") else _filing_text(url, NSE_HEADERS)
+    if "nseindia.com" in url:
+        return _xbrl_text(url) if url.lower().endswith(".xml") else _filing_text(url, NSE_HEADERS)
+    return _pdf_text(url)
 
 
 def _read_docs(batch: list) -> None:
@@ -562,7 +609,7 @@ def _read_docs(batch: list) -> None:
     done = 0
     for it, (_, text, _) in zip(todo, parallel.run([(it["id"], lambda u=it["doc"]: _doc_text(u)) for it in todo])):
         if text and len(text) > 120:                                  # a scan with no text layer adds nothing
-            it["body"] = f"{it['body']} The filing: {text}"[:1500]
+            it["body"] = f"{it['body']} {'The filing' if 'nseindia.com' in it['doc'] else 'The document'}: {text}".strip()[:1500]
             done += 1
     print(f"  read {done} of {len(todo)} filing(s) for the AI")
 
