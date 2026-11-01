@@ -1,26 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-25T05:31:23.007516+00:00",
-      "handle": "News: India telecom",
-      "headline": "Five IPOs to raise Rs 2,581 crore next week",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY0hLaDFqOFhiR2x5SWxrdU1YNnRPa1Y2SF84WTVyZUgyclpVTjRjekpxWjVIX3U0dEJBVjZ2RjJtRXFUNXhrWTZEdkJuWFdldDFINlQxRkp5cTQyamQxUmdDdWtnMnVZbmtqNFJIREN1VzJlSk4wSWc4MERWWlk4TUJSUW5rdzdtTzJIRVVZVldCN0ZvWGNiVTVNV3pGZFRVS2w1eDJTZnZqLTJ5VGtpRnFTN0d3azNzOC1pS1MtaDFiN2Z0SmtqaHRaQmcxOFNDTENTaTJxb081aldqZmlxd3ZmNXVPdmFYSmlCN1E5bGY?oc=5",
-      "words": [
-        "581",
-        "alongside",
-        "biggest",
-        "boost",
-        "ipos",
-        "jio",
-        "listing",
-        "next",
-        "post",
-        "raise",
-        "week"
-      ]
-    },
-    {
       "at": "2026-10-25T07:31:13.716457+00:00",
       "handle": "News: Big tech platforms",
       "headline": "Xbox COO Helen Chiang exits Microsoft",
@@ -7409,33 +7389,28 @@
         "transactions",
         "upi"
       ]
+    },
+    {
+      "at": "2026-11-01T11:31:14.325974+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio delays tariff hikes and targets overseas partnerships",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQckFfRVZOU3haLVdJZjM0dHcxOGxuYUZUcTBQZDZseXp4WEV3V2RKY3pNVjNRMVdsb3NwSDBUSEVHamR2Smp0anF6WGVfdG9DX2duaDBCSHlMMzZTNXFCRjBGUE83WnphNDYtc25vY0t1RGZSWFgwdmNYbXRjY0h0d3IxdXpFS3MwWk1LeTBaMy1lZ1VDS1NPZnZZV3Jwa3dLVUJCRzhoTmJWU3V2YzI40gG0AUFVX3lxTE1kb3diY1BESjNQRnVHRU9hUVFneXRKRGl2amxYRmQ3ek5pb1p4a3RPODU5Q3oteDZqMGliRVNTaUlOMUxWdnNaM2lPY2p4NUZmUFhoRms1WXRWNWNRRkNJTDRRUjlaeFhDdG51YUpONzVfSTItWF9YMDlzOXR6M0hNSi1JRFliS0NGeHp4WWdWV3U0SHJEYUlXT25jYmdhQXgxbzhFblVLc0VqUm5xU21lNTZHQg?oc=5",
+      "words": [
+        "can",
+        "eyes",
+        "hikes",
+        "jio",
+        "overseas",
+        "partners",
+        "play",
+        "tariff",
+        "wait"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-10-15T13:18:42.753218+00:00",
-        "handle": "PIB Ministry of Finance",
-        "headline": "Customs officers seize nearly 149 kg of hydroponic weed at Delhi airport",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324043",
-        "words": [
-          "148",
-          "air",
-          "airport",
-          "bangkok",
-          "cargo",
-          "complex",
-          "customs",
-          "detect",
-          "finance",
-          "hydroponic",
-          "igi",
-          "ministry",
-          "officers",
-          "weed"
-        ]
-      },
       {
         "at": "2026-10-15T13:18:42.753218+00:00",
         "handle": "PIB Ministry of Finance",
@@ -16175,6 +16150,26 @@
           "ist",
           "murasu"
         ]
+      },
+      {
+        "at": "2026-11-01T11:32:15.667617+00:00",
+        "handle": "PIB Ministry of Civil Aviation",
+        "headline": "Digi Yatra begins international passenger trials across seven major Indian airports",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331200",
+        "words": [
+          "airports",
+          "aviation",
+          "begins",
+          "civil",
+          "digi",
+          "international",
+          "ministry",
+          "passenger",
+          "seven",
+          "trials",
+          "yatra"
+        ]
       }
     ],
     "gazette_mark": 277573,
@@ -16886,10 +16881,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-01T11:17:50.709045+00:00",
-    "pib_mark": 2331193,
+    "last_run": "2026-11-01T11:32:15.668813+00:00",
+    "pib_mark": 2331200,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:12/10/2026|02 ACCUSED ARRESTED IN A MOTORCYCLE THEFT CASE, 03 STOLEN MOTORCYCLES RECOVERED BY THE TEAM OF PS DABRI, DWARKA DISTRICT.",
       "site:Delhi Police press releases|dp-newpressrelease:12/10/2026|ILLEGAL FIRECRACKER STOCK APPROXIMATELY 570 KG RECOVERED, 01 PERSON BOOKED BY THE TEAM OF PS DWARKA NORTH,",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168574",
       "site:Delhi Police press releases|dp-newpressrelease:12/10/2026|MAJOR BREAKTHROUGH BY STAFF OF PS RANHOLA IN UNEARTHING A HIGH PROFILE EXTORTION AND HONEY TRAP CONSPIRACY, THREE ACCUSED, INCLUDING MAIN CONSPIRATOR, ARRESTED.",
@@ -19888,7 +19882,8 @@
       "pib:2331174",
       "pib:2331156",
       "pib:2331193",
-      "page:https://internal.imd.gov.in/press_release/20261101_pr_5457.pdf"
+      "page:https://internal.imd.gov.in/press_release/20261101_pr_5457.pdf",
+      "pib:2331200"
     ],
     "source_failures": {},
     "sources": [
@@ -19947,9 +19942,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1793039102703",
-    "1793039179726",
-    "1793044860383",
     "1793046542630",
     "1793049081748",
     "1793051131963",
@@ -24471,7 +24463,6 @@
     "1793428860441",
     "1793432372882",
     "1793436994165",
-    "1793451483651",
     "1793470020982",
     "1793430535028",
     "1793430757393",
@@ -24528,8 +24519,6 @@
     "1793506983219",
     "1793440091959",
     "1793476680334",
-    "1793480763705",
-    "1793492574901",
     "1793514842688",
     "1793521590105",
     "1793522970904",
@@ -24537,19 +24526,31 @@
     "1793440403588",
     "1793440860282",
     "1793473578828",
-    "1793511707774",
     "1793523473968",
     "1793442803628",
     "1793446834620",
     "1793449842436",
     "1793485380081",
     "1793492640403",
-    "1793499023113",
-    "1793504880659",
     "1793508432758",
     "1793512145328",
     "1793512333869",
     "1793516246053",
+    "1793441938215",
+    "1793445541274",
+    "1793446380934",
+    "1793451483359",
+    "1793474467918",
+    "1793478712414",
+    "1793494800776",
+    "1793499328560",
+    "1793500726989",
+    "1793505532083",
+    "1793510960064",
+    "1793514960731",
+    "1793519817018",
+    "1793524036688",
+    "1793525407054",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25831,17 +25832,14 @@
     "1793387231720",
     "1793391300704",
     "1793393153018",
-    "1793441938215",
     "1793442872274",
     "1793444401833",
     "1793444416809",
     "1793444559483",
     "1793444616465",
     "1793444923247",
-    "1793445541274",
     "1793445761976",
     "1793446207438",
-    "1793446380934",
     "1793446389048",
     "1793447055877",
     "1793447152447",
@@ -25854,10 +25852,11 @@
     "1793450070928",
     "1793450550638",
     "1793450820267",
-    "1793451483359",
+    "1793451483651",
     "1793451742659",
     "1793451961756",
     "1793455140042",
+    "1793455863983",
     "1793457611477",
     "1793458560847",
     "1793459125030",
@@ -25873,28 +25872,26 @@
     "1793465629767",
     "1793468460861",
     "1793474239579",
-    "1793474467918",
     "1793474820177",
     "1793476583161",
-    "1793478712414",
     "1793479500058",
+    "1793480763705",
     "1793482860703",
+    "1793492574901",
     "1793493480381",
     "1793493902251",
-    "1793494800776",
     "1793494920110",
     "1793497781211",
     "1793498400262",
-    "1793499328560",
+    "1793499023113",
     "1793499331200",
     "1793500507828",
     "1793500594924",
     "1793500620685",
     "1793500726011",
-    "1793500726989",
     "1793503860597",
     "1793504809845",
-    "1793505532083",
+    "1793504880659",
     "1793505627371",
     "1793506339556",
     "1793506983524",
@@ -25904,8 +25901,8 @@
     "1793509413590",
     "1793509472968",
     "1793509979200",
-    "1793510960064",
     "1793511197399",
+    "1793511707774",
     "1793511716385",
     "1793511840957",
     "1793512145147",
@@ -25917,7 +25914,6 @@
     "1793514330494",
     "1793514707224",
     "1793514960371",
-    "1793514960731",
     "1793515951279",
     "1793516246049",
     "1793516920069",
@@ -25925,14 +25921,11 @@
     "1793518700684",
     "1793519141443",
     "1793519498350",
-    "1793519817018",
     "1793522690954",
     "1793522966636",
     "1793522970603",
     "1793523473275",
     "1793523931118",
-    "1793524036688",
-    "1793525407054",
     "1793526073347",
     "1793526120961",
     "1793526322536",
@@ -25946,31 +25939,14 @@
     "1793528280092",
     "1793529420458",
     "1793530068002",
-    "1793530770341"
+    "1793530770341",
+    "1793531457258",
+    "1793531584228"
   ],
-  "last_digest_hour": "2026-11-01T16",
-  "last_success": "2026-11-01T11:16:03.756505+00:00",
+  "last_digest_hour": "2026-11-01T17",
+  "last_success": "2026-11-01T11:31:14.413769+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-09-26T19:04:49.686708+00:00",
-        "handle": "Quake USGS",
-        "headline": "Magnitude 4.7 earthquake -- 5 km N of Bowangshan, China.",
-        "tier": 1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj",
-        "words": [
-          "2026",
-          "bowangshan",
-          "china",
-          "deep",
-          "earthquake",
-          "ist",
-          "magnitude",
-          "reported",
-          "sep",
-          "usgs"
-        ]
-      },
       {
         "at": "2026-09-27T10:23:18.737816+00:00",
         "handle": "PIB Ministry of Home Affairs",
@@ -34470,6 +34446,26 @@
           "ist",
           "murasu"
         ]
+      },
+      {
+        "at": "2026-11-01T11:31:56.761560+00:00",
+        "handle": "PIB Ministry of Civil Aviation",
+        "headline": "Digi Yatra starts international passenger trials at seven major airports",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331200",
+        "words": [
+          "airports",
+          "aviation",
+          "begins",
+          "civil",
+          "digi",
+          "international",
+          "ministry",
+          "passenger",
+          "seven",
+          "trials",
+          "yatra"
+        ]
       }
     ],
     "gazette_mark": 277573,
@@ -35858,10 +35854,9 @@
       },
       "warned": "2026-10-31T23:02:16.614563+00:00"
     },
-    "last_run": "2026-11-01T11:17:20.710117+00:00",
-    "pib_mark": 2331193,
+    "last_run": "2026-11-01T11:31:56.762882+00:00",
+    "pib_mark": 2331200,
     "seen": [
-      "pib:2322953",
       "pib:2322955",
       "pib:2322967",
       "pib:2322968",
@@ -38860,7 +38855,8 @@
       "pib:2331174",
       "pib:2331193",
       "quake:ncs:UytndXAxMFlPYmFSN2pnbmVQaUdlUT09",
-      "page:https://internal.imd.gov.in/press_release/20261101_pr_5457.pdf"
+      "page:https://internal.imd.gov.in/press_release/20261101_pr_5457.pdf",
+      "pib:2331200"
     ],
     "source_failures": {
       "CBI": {
@@ -40091,7 +40087,7 @@
     "microsoft india": 1793240992281,
     "mistral ai": 1793275207548,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793529420458,
+    "news: big tech platforms": 1793531457258,
     "news: consumer internet india": 1793523473968,
     "news: global ai": 1793530068002,
     "news: global chips": 1793527832023,
@@ -40101,7 +40097,7 @@
     "news: india fintech": 1793530770341,
     "news: india semiconductors": 1793514330494,
     "news: india tech policy": 1793525407054,
-    "news: india telecom": 1793519141946,
+    "news: india telecom": 1793531584228,
     "news: indian it majors": 1793526073347,
     "news: indian it midcaps": 1793512557215,
     "news: pib releases": 1790159940641,
@@ -40150,7 +40146,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-01T11:16:04.276541+00:00",
+    "last_server_run": "2026-11-01T11:31:14.894212+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-01T11:16:54.379275+00:00",
@@ -48127,19 +48123,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-01T11:17:27.023596+00:00",
+    "last_run": "2026-11-01T11:32:01.599822+00:00",
     "seen": [
-      "x:2113321476686569754",
-      "x:2113321896959992058",
-      "x:2113322212342260111",
-      "x:2113322608246833371",
-      "x:2113323068752011663",
-      "x:2113324209237827894",
-      "x:2113324270394953913",
-      "x:2113325874523378046",
-      "x:2113326389252468918",
-      "x:2113326537143697829",
-      "x:2113326630328562071",
       "x:2113326635915284708",
       "x:2113326931483763169",
       "x:2113327230399205743",
@@ -51128,7 +51113,18 @@
       "x:2116848845049221443",
       "x:2116848900216934695",
       "x:2116848939714613593",
-      "x:2116849321044025736"
+      "x:2116849321044025736",
+      "x:2116851340463014343",
+      "x:2116851698304270722",
+      "x:2116852006417531355",
+      "x:2116852306218258845",
+      "x:2116852624016466142",
+      "x:2116852972303130827",
+      "x:2116853183318536534",
+      "x:2116853375484809614",
+      "x:2116853878344077405",
+      "x:2116854532827189307",
+      "x:2116854549684359648"
     ],
     "source_failures": {},
     "sources": []
