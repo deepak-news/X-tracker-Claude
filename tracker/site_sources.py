@@ -34,6 +34,7 @@ More pages and feeds, added 2026-10-11, need no code of their own: each is one l
     title: row       a table's rows: the title is the link's row ("Download" says nothing), its
                      cells put together by "cells" ("{3} v {4} ({1})", counting from 0), and the
                      row's own date is kept (added 2026-11-01, for the Delhi High Court)
+    title: parent    the title is the text around the link ("Read More" says nothing; NTA)
     doc: true        with "ai: true", each new row's PDF is read before the AI judges it: a
                      judgment's opening and its last lines (_read_docs)
     new_ids: true    with "ai: true", for a source that used to count every row: fresh ids, so
@@ -64,7 +65,7 @@ import json
 import os
 import re
 import sys
-from urllib.parse import quote, urljoin
+from urllib.parse import quote, unquote, urljoin
 
 import feedparser
 import requests
@@ -480,7 +481,7 @@ def _row_day(text: str):
 def _slug_title(href: str) -> str:
     """PFRDA cuts its titles short on the page ("Clarification regarding applicability of
     incentive..."); the address carries the whole of it."""
-    slug = href.rstrip("/").rsplit("/", 1)[-1].split("?")[0]
+    slug = unquote(href.rstrip("/").rsplit("/", 1)[-1].split("?")[0])
     words = re.sub(r"[-_]+", " ", re.sub(r"\.\w{2,4}$", "", slug)).strip()
     return words[:1].upper() + words[1:]
 
@@ -504,6 +505,8 @@ def _page_rows(entry) -> list:
         url = urljoin(base, href.replace(" ", "%20"))
         title = _clean(link.get("title") if entry.get("title") == "attr" else link.get_text(" "))
         day = None
+        if entry.get("title") == "parent":                            # "Read More" beside the title (NTA)
+            title = _clean(link.parent.get_text(" ").replace(link.get_text(" "), " "))
         if entry.get("title") == "row":
             tr = link.find_parent("tr")
             if tr is None:
@@ -930,6 +933,36 @@ def _dot_reader(category: int):
     return lambda: _dot(category)
 
 
+# ---------------------------------------------------------------- Madhya Pradesh: the government's news service
+
+# mpinfo.org fills its pages from its own web service (added 2026-11-02, the user's choice): the
+# top state news, the chief minister's and the departments'. In Hindi; the AI writes the headline.
+MP_NEWS = "https://www.mpinfo.org/IndexWebService.asmx/"
+MP_LISTS = ("TopNews", "TopCMNews", "TopIMPNews", "TopDepartmentalNews", "Get_Top3LatestNews", "BreakingNews")
+
+
+def mp_news() -> list:
+    rows, seen = [], set()
+    for name in MP_LISTS:
+        try:
+            found = _get(MP_NEWS + name, params={"fontname": "Mangal"}).json()
+        except Exception:                                             # noqa: BLE001 -- the other lists still count
+            continue
+        for item in found if isinstance(found, list) else []:
+            title, link = _clean(item.get("fullNewsTitle") or item.get("NewsTitle")), str(item.get("NewsURL") or "")
+            news_id = re.search(r"newsid=(\d{8}N\d+)", link)
+            if not title or not news_id or news_id.group(1) in seen:
+                continue                                              # some lists give the id in an old font's code
+            seen.add(news_id.group(1))
+            rows.append({"key": f"mp:{news_id.group(1)}", "title": title,
+                         "detail": _clean(item.get("NewsSubTitle"))[:1200],
+                         "url": urljoin("https://www.mpinfo.org/Home/", link),
+                         "date": _day(str(item.get("NewsDate") or "")[:10], "%d/%m/%Y")})
+    if not rows:
+        raise RuntimeError("nothing from mpinfo.org's news service (it may have changed)")
+    return rows
+
+
 # ---------------------------------------------------------------- NSE: what listed companies tell the exchange
 
 # NSE's public RSS files, added 2026-11-01 (the user's choice: 239 PTI stories in six days came
@@ -1020,7 +1053,7 @@ def nse_filings() -> list:
     return rows
 
 
-HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "nse_filings": nse_filings, "dgca_traffic": dgca_traffic, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
+HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "nse_filings": nse_filings, "mp_news": mp_news, "dgca_traffic": dgca_traffic, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
                 "dp_notifications": dp_notifications, "dp_gazette": dp_gazette, "dp_press": dp_press, "dp_whatsnew": dp_whatsnew,
                 **{name: _dot_reader(cat) for name, cat in DOT_TABS.items()}}
 

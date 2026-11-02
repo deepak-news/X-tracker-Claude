@@ -1130,6 +1130,7 @@ site:
     # judges each new release and writes its headline in English.
     - {source: States, sub: Maharashtra, feed: "https://mahasamvad.in/feed/", relay: true, ai: true}   # refuses GitHub (403)
     - {source: States, sub: Kerala, feed: "https://prd.kerala.gov.in/rss.xml", exclude: "^Council of Ministers$|ടെന്‍ഡര്‍|ടെൻഡർ|ലേലം|താത്കാലിക നിയമനം|ക്വട്ടേഷന്‍", ai: true}
+    - {source: States, sub: Madhya Pradesh, reader: mp_news, ai: true}   # mpinfo.org's news service, Hindi
     # Karnataka's and Gujarat's CM sites refuse GitHub and Cloudflare alike: read by the Mac, as
     # every-row sources the general desk's AI scores afterwards (general_fill), not under "States"
     - {source: Karnataka CM, url: "https://cm.karnataka.gov.in/", match: "cm\\.karnataka\\.gov\\.in/\\d{3,}/[^/]{30,}", home_only: true}
@@ -1137,6 +1138,12 @@ site:
     # Parties and elections (added 2026-11-02, the user's choice)
     - {source: Congress, sub: Press releases, url: "https://www.inc.in/media/press-releases", match: "/media/press-releases/[a-z0-9-]{20,}", strip: "^(?:\\d{1,2} [A-Z][a-z]{2} 20\\d\\d\\s+)?(?:(?:Shri|Smt\\.?|Dr\\.?)\\s+[A-Za-z. ]+?\\s+(?=(?:Shri|Smt|Dr)\\b))?", ai: true}
     - {source: CEO Uttar Pradesh, url: "https://ceouttarpradesh.nic.in/", match: "/ImportantIntruction/", home_only: true}   # refuses GitHub and Cloudflare
+    # Exams and data bodies (added 2026-11-02, the user's choice). UPSC: results and schedules of
+    # the big examinations only, not single-post recruitment. NTA: every notice (JEE, NEET, CUET, UGC-NET).
+    - {source: UPSC, url: "https://upsc.gov.in/", match: "/whats-new/.", only: "Civil Services|Engineering Services|Defence|Naval Academy|Forest Service|Medical Services|Economic Service|Statistical Service|Geo-Scientist|CAPF|Central Armed Police", exclude: "Posts? of|Interview Details|Time Table|Admit", ai: true}
+    - {source: NTA, url: "https://nta.ac.in/", match: "/Download/Notice/Notice_\\d+\\.pdf", title: parent, ai: true}
+    - {source: NIA, sub: Press releases, url: "https://nia.mha.gov.in/en/press-releases", match: ".", within: ".view-content", title: row, cells: "{1}", min: 10}   # every one counts
+    - {source: FADA, url: "https://www.fada.in/", match: "/images/press-release/", title: slug, strip: "^\\d[0-9a-z]{9,}?(?=FADA)", ai: true}   # vehicle retail sales, monthly
     # --- Courts and watchdogs (Supreme Court judgments and NCLAT judgments AI-scored from
     # 2026-10-11, the user's choice; the Supreme Court's notices still count every row)
     - {source: Supreme Court, sub: Judgments, url: "https://www.sci.gov.in/", match: "/view-pdf/\\?diary_no=.*from=latest_judg", strip: "\\s*\\(Uploaded On [^)]*\\)?\\s*$", ai: true, new_ids: true}
