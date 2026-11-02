@@ -2,22 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-26T09:31:24.788318+00:00",
-      "handle": "News: Global chips",
-      "headline": "AMD and Intel collaborate to simplify AI development on x86 CPUs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUHFoZHVTbURtYzhFRWY0YjRIblAtVFVEOVBwdU11ZGJsTGdGY2NFMzVxSk1TYlNSUFZmVGZSRjlBejlsdXJqb3JjcjhjbHhwOTRZblhYNXpWUUVqVFZhMHZ3c3R1RV9ndTdlRmtHNnRUX0xHOXhWVmxNOHN6U3pyMVVaUTlMWmo4OTdzbUw3bTNyVFVpM0l5M1VLakNUWExjUEhrT2s4MnRXV2dIZm1lV0VxVnU5QmpoYW00OXd4V1VuQ2V6RzluMUItMndVbWVOZ25mRGZDWUIyZFN2bkVhNWJoQl85bktBbzFzdmhBd1Jxd2tqREdkbF9RRXBUNHdFYUR0MUZKRThFUzTSAdoBQVVfeXFMUFFzRTZONEwzYVl5T005ZmFraFFwVXF6YXVHSVJ6T1VXR3hyV3lFMkdSclJTQUNfbmtyZ0Nzemx6bjFzLU40Tl9icklCR0xwaDJGSFo0Uy1sTFllMmhSSjJ3QmFMT1E4R1JfdEN3Z1g3UVBNNHhFMjhnSGpKbXU1R1daVzV1R1RwUTFMTER4S0swU0dzdWlESHB4TzlQNi1LV3E4b2VHeHlKTG5hSWRGUGdzUmZNQm1vU2dDdTBMdUZldjFpTjBqc0hFRTdzOTFvRnhOU0JkbUZWbkE?oc=5",
-      "words": [
-        "amd",
-        "collaborate",
-        "cpus",
-        "development",
-        "intel",
-        "simplify",
-        "x86"
-      ]
-    },
-    {
-      "at": "2026-10-26T09:31:24.788318+00:00",
       "handle": "News: India edtech gaming",
       "headline": "Unacademy founders plan \u20b9700-crore fund for AI and deeptech startups",
       "tier": 0,
@@ -7390,33 +7374,33 @@
         "push",
         "raghav"
       ]
+    },
+    {
+      "at": "2026-11-02T15:16:16.310325+00:00",
+      "handle": "OpenAI",
+      "headline": "OpenAI launches Grid Protectors Program for data center power management",
+      "tier": 1,
+      "url": "https://openai.com/index/grid-protectors-program",
+      "words": [
+        "artic",
+        "campuses",
+        "compute",
+        "consumer",
+        "costs",
+        "electricity",
+        "future",
+        "grid",
+        "help",
+        "introducing",
+        "openai",
+        "program",
+        "protect",
+        "protectors"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-10-16T11:21:37.324537+00:00",
-        "handle": "Gazette Ministry of Civil Aviation",
-        "headline": "Government notifies new Aircraft Carriage of Dangerous Goods Rules delegating powers",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277209.pdf",
-        "words": [
-          "2026",
-          "aircraft",
-          "aviation",
-          "carriage",
-          "civil",
-          "dangerous",
-          "dated",
-          "extraordinary",
-          "gazette",
-          "goods",
-          "ministry",
-          "notification",
-          "part",
-          "regarding"
-        ]
-      },
       {
         "at": "2026-10-16T11:34:53.578976+00:00",
         "handle": "PIB Ministry of Youth Affairs and Sports",
@@ -16172,6 +16156,28 @@
           "union",
           "upsc"
         ]
+      },
+      {
+        "at": "2026-11-02T15:20:25.921410+00:00",
+        "handle": "PIB Ministry of New and Renewable Energy",
+        "headline": "Prime Minister Narendra Modi inaugurates Bharat Renewable Energy Summit and Expo",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331789",
+        "words": [
+          "2026",
+          "bharat",
+          "energy",
+          "expo",
+          "inaugurates",
+          "minister",
+          "ministry",
+          "modi",
+          "narendra",
+          "prime",
+          "renewable",
+          "shri",
+          "summit"
+        ]
       }
     ],
     "gazette_mark": 277582,
@@ -16890,6 +16896,7 @@
     ],
     "health": {
       "down": {
+        "State: Uttar Pradesh": "2026-11-02T15:20:17.963389+00:00",
         "site: BCCI": "2026-11-02T14:48:52.223916+00:00",
         "site: CAG": "2026-11-02T14:48:52.223916+00:00",
         "site: CIC": "2026-11-02T14:48:52.223916+00:00",
@@ -16911,11 +16918,9 @@
         "site: WTO": "2026-11-02T14:48:52.223916+00:00"
       }
     },
-    "last_run": "2026-11-02T15:04:32.830220+00:00",
-    "pib_mark": 2331786,
+    "last_run": "2026-11-02T15:20:25.922780+00:00",
+    "pib_mark": 2331789,
     "seen": [
-      "pib:2322793",
-      "pib:2322795",
       "pib:2322801",
       "pib:2322814",
       "pib:2322808",
@@ -19389,25 +19394,6 @@
       "site:ICC|https://www.icc-cricket.com/media-releases/icc-receives-120-million-ticket-requests-for-men-s-cricket-world-cup-2027",
       "site:ICC|https://www.icc-cricket.com/media-releases/test-icc-receives-120-million-ticket-requests-for-men-s-cricket-world-cup-2027",
       "site:ICC|https://www.icc-cricket.com/media-releases/icc-receives-120-million-ticket-requests-for-men-s-cricket-world-cup-2027-x4369",
-      "gazette:CG-DL-E-31102026-277567",
-      "gazette:CG-DL-E-31102026-277564",
-      "gazette:CG-DL-E-31102026-277568",
-      "gazette:CG-DL-E-31102026-277566",
-      "gazette:CG-DL-E-31102026-277565",
-      "gazette:CG-DL-E-31102026-277569",
-      "gazette:CG-DL-E-31102026-277563",
-      "gazette:CG-DL-E-31102026-277570",
-      "gazette:CG-MH-E-31102026-277573",
-      "gazette:CG-AP-E-31102026-277562",
-      "gazette:CG-AP-E-31102026-277572",
-      "gazette:CG-AP-E-31102026-277571",
-      "gazette:CG-DL-E-01112026-277574",
-      "gazette:CG-DL-E-02112026-277575",
-      "gazette:CG-DL-E-02112026-277577",
-      "gazette:CG-AP-E-02112026-277578",
-      "gazette:CG-DL-E-02112026-277576",
-      "gazette:CG-DL-E-02112026-277579",
-      "gazette:CG-DL-E-02112026-277580",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -19438,6 +19424,25 @@
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_17052025023902PN-CM-Cabinet Decisions-06 May, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_dbf1be66-c31c-4fd1-af0a-4eb7b26aaf4d.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_abf4006d-c3da-463a-a04e-421c002bc6a1.pdf",
+      "gazette:CG-DL-E-31102026-277567",
+      "gazette:CG-DL-E-31102026-277564",
+      "gazette:CG-DL-E-31102026-277568",
+      "gazette:CG-DL-E-31102026-277566",
+      "gazette:CG-DL-E-31102026-277565",
+      "gazette:CG-DL-E-31102026-277569",
+      "gazette:CG-DL-E-31102026-277563",
+      "gazette:CG-DL-E-31102026-277570",
+      "gazette:CG-MH-E-31102026-277573",
+      "gazette:CG-AP-E-31102026-277562",
+      "gazette:CG-AP-E-31102026-277572",
+      "gazette:CG-AP-E-31102026-277571",
+      "gazette:CG-DL-E-01112026-277574",
+      "gazette:CG-DL-E-02112026-277575",
+      "gazette:CG-DL-E-02112026-277577",
+      "gazette:CG-AP-E-02112026-277578",
+      "gazette:CG-DL-E-02112026-277576",
+      "gazette:CG-DL-E-02112026-277579",
+      "gazette:CG-DL-E-02112026-277580",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13740&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
@@ -19913,65 +19918,89 @@
       "pib:2331775",
       "pib:2331778",
       "pib:2331780",
-      "pib:2331786"
+      "pib:2331786",
+      "pib:2331788",
+      "pib:2331789"
     ],
     "source_failures": {
+      "State: Uttar Pradesh": {
+        "count": 1
+      },
       "site: BCCI": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: CAG": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: CIC": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: CPCB": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: Delhi Police": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: Delhi Police press releases": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: ECI": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: GDACS disaster alerts": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: GST Council": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: ICC": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: ISRO": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: Law Commission": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: Lokpal": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: NDMA": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: NHRC": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: Parliament": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: UN News": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: WHO outbreak news": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       },
       "site: WTO": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:18:50.474353+00:00"
       }
     },
     "sources": [
@@ -20030,15 +20059,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1793100581566",
-    "1793104491826",
-    "1793104679809",
-    "1793105125625",
-    "1793108327933",
-    "1793058780684",
-    "1793067927074",
-    "1793084529252",
-    "1793085307233",
     "1793091000903",
     "1793091996941",
     "1793095020079",
@@ -24372,7 +24392,6 @@
     "1793592450223",
     "1793594358099",
     "1793597700304",
-    "1793607402277",
     "1793611346256",
     "1793613540847",
     "1786019424432",
@@ -24505,18 +24524,15 @@
     "1793589293139",
     "1793619900676",
     "1793544060120",
-    "1793559062964",
     "1793591622471",
     "1793593241601",
     "1793593241993",
     "1793598480925",
     "1793600813323",
-    "1793611800890",
     "1793612044497",
     "1793619280894",
     "1793620170105",
     "1793621890003",
-    "1793623101194",
     "1793625783291",
     "1793626516427",
     "1793578720802",
@@ -24532,18 +24548,14 @@
     "1793600928265",
     "1793602112123",
     "1793605611847",
-    "1793605853079",
     "1793606540058",
     "1793606648276",
-    "1793607127694",
     "1793607454198",
     "1793607619762",
     "1793607686118",
     "1793609631886",
     "1793611163007",
     "1793612576224",
-    "1793614260603",
-    "1793617963092",
     "1793619389393",
     "1793619825338",
     "1793620284105",
@@ -24553,23 +24565,34 @@
     "1793577600126",
     "1793585277957",
     "1793586943258",
-    "1793588606647",
-    "1793590816829",
-    "1793595176804",
-    "1793596688074",
     "1793599323589",
-    "1793602794865",
-    "1793604895946",
-    "1793615520583",
     "1793616120910",
     "1793616240220",
-    "1793617047459",
     "1793620856343",
     "1793622517386",
     "1793623363890",
     "1793623730741",
     "1793625740314",
     "1793628960173",
+    "1791417600986",
+    "1792065594216",
+    "1793548426968",
+    "1793562729130",
+    "1793587448376",
+    "1793588327110",
+    "1793588921300",
+    "1793589082240",
+    "1793590980909",
+    "1793596108205",
+    "1793596688871",
+    "1793605034854",
+    "1793617047709",
+    "1793617080287",
+    "1793619301852",
+    "1793626453062",
+    "1793627111279",
+    "1793627559513",
+    "1793631214841",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25443,7 +25466,6 @@
     "1791377954779",
     "1791397002320",
     "1791406918086",
-    "1791417600986",
     "1791439200039",
     "1791444709443",
     "1791445746402",
@@ -25526,7 +25548,6 @@
     "1792051200125",
     "1792058400255",
     "1792062000898",
-    "1792065594216",
     "1792065600782",
     "1792069168636",
     "1792069200304",
@@ -25825,10 +25846,9 @@
     "1793387231720",
     "1793391300704",
     "1793393153018",
-    "1793548426968",
     "1793552358995",
+    "1793559062964",
     "1793560680679",
-    "1793562729130",
     "1793572228877",
     "1793577600706",
     "1793579401619",
@@ -25839,21 +25859,19 @@
     "1793586865439",
     "1793586963903",
     "1793587435944",
-    "1793587448376",
     "1793587548854",
     "1793588147800",
     "1793588280555",
-    "1793588327110",
-    "1793588921300",
-    "1793589082240",
+    "1793588606647",
     "1793589920480",
     "1793590271094",
-    "1793590980909",
+    "1793590816829",
     "1793591070658",
     "1793591146902",
     "1793591335048",
     "1793591400154",
     "1793591451047",
+    "1793591626820",
     "1793591794243",
     "1793592000092",
     "1793592000417",
@@ -25867,10 +25885,10 @@
     "1793593241959",
     "1793593260815",
     "1793594754504",
+    "1793595176804",
     "1793595383956",
-    "1793596108205",
     "1793596340251",
-    "1793596688871",
+    "1793596688074",
     "1793596733768",
     "1793596802376",
     "1793596958414",
@@ -25892,6 +25910,7 @@
     "1793601895280",
     "1793602112259",
     "1793602201070",
+    "1793602794865",
     "1793602803717",
     "1793602808090",
     "1793602811614",
@@ -25899,16 +25918,19 @@
     "1793603184446",
     "1793603263192",
     "1793604039327",
-    "1793605034854",
+    "1793604895946",
     "1793605250504",
+    "1793605853079",
     "1793605920131",
     "1793605963829",
     "1793606237047",
     "1793606400033",
     "1793606635366",
+    "1793607127694",
     "1793607142094",
     "1793607246884",
     "1793607360031",
+    "1793607402277",
     "1793607619058",
     "1793608260207",
     "1793608399540",
@@ -25926,6 +25948,7 @@
     "1793611441202",
     "1793611523847",
     "1793611758935",
+    "1793611800890",
     "1793612044055",
     "1793612540018",
     "1793612540025",
@@ -25933,6 +25956,7 @@
     "1793612618716",
     "1793613210979",
     "1793613453257",
+    "1793614260603",
     "1793614354951",
     "1793614653162",
     "1793614750705",
@@ -25940,7 +25964,9 @@
     "1793615074374",
     "1793615234476",
     "1793615241819",
+    "1793615520583",
     "1793615525648",
+    "1793615580169",
     "1793615580345",
     "1793615580568",
     "1793615583330",
@@ -25957,11 +25983,11 @@
     "1793616290024",
     "1793616471938",
     "1793616648656",
-    "1793617047709",
-    "1793617080287",
+    "1793617047459",
     "1793617328762",
     "1793617731128",
     "1793617862426",
+    "1793617963092",
     "1793617963479",
     "1793617975495",
     "1793617975691",
@@ -25970,9 +25996,9 @@
     "1793618400200",
     "1793618784090",
     "1793619096890",
-    "1793619301852",
     "1793619418687",
     "1793619489177",
+    "1793619639722",
     "1793619840538",
     "1793619850291",
     "1793620451543",
@@ -25992,6 +26018,7 @@
     "1793622679464",
     "1793622854591",
     "1793622989907",
+    "1793623101194",
     "1793623740897",
     "1793624760250",
     "1793624940556",
@@ -26010,10 +26037,8 @@
     "1793626187805",
     "1793626242350",
     "1793626273341",
-    "1793626453062",
-    "1793627111279",
+    "1793626749533",
     "1793627499740",
-    "1793627559513",
     "1793627640174",
     "1793627873461",
     "1793628141684",
@@ -26026,13 +26051,17 @@
     "1793630545119",
     "1793630553458",
     "1793630572224",
+    "1793630745950",
     "1793631103681",
-    "1793631214841",
+    "1793631214661",
+    "1793631345412",
+    "1793631600692",
+    "1793631997280",
     "2331589",
     "2331704"
   ],
   "last_digest_hour": "2026-11-02T20",
-  "last_success": "2026-11-02T15:02:00.574470+00:00",
+  "last_success": "2026-11-02T15:16:16.670174+00:00",
   "national": {
     "alerted": [
       {
@@ -35959,6 +35988,7 @@
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00",
+        "State: Uttar Pradesh": "2026-11-02T15:18:40.318642+00:00",
         "site: BCCI": "2026-11-02T14:47:58.267619+00:00",
         "site: CAG": "2026-11-02T14:47:58.267619+00:00",
         "site: CIC": "2026-11-02T14:47:58.267619+00:00",
@@ -35981,11 +36011,9 @@
       },
       "warned": "2026-11-01T23:16:35.567677+00:00"
     },
-    "last_run": "2026-11-02T15:03:29.278646+00:00",
-    "pib_mark": 2331786,
+    "last_run": "2026-11-02T15:18:43.562132+00:00",
+    "pib_mark": 2331789,
     "seen": [
-      "pib:2323398",
-      "pib:2323400",
       "pib:2323397",
       "pib:2323428",
       "pib:2323430",
@@ -38397,27 +38425,6 @@
       "site:ICC|https://www.icc-cricket.com/media-releases/icc-receives-120-million-ticket-requests-for-men-s-cricket-world-cup-2027",
       "site:ICC|https://www.icc-cricket.com/media-releases/test-icc-receives-120-million-ticket-requests-for-men-s-cricket-world-cup-2027",
       "site:ICC|https://www.icc-cricket.com/media-releases/icc-receives-120-million-ticket-requests-for-men-s-cricket-world-cup-2027-x4369",
-      "npci:623",
-      "npci:624",
-      "gazette:CG-DL-E-31102026-277567",
-      "gazette:CG-DL-E-31102026-277565",
-      "gazette:CG-DL-E-31102026-277564",
-      "gazette:CG-DL-E-31102026-277568",
-      "gazette:CG-DL-E-31102026-277566",
-      "gazette:CG-DL-E-31102026-277563",
-      "gazette:CG-DL-E-31102026-277569",
-      "gazette:CG-DL-E-31102026-277570",
-      "gazette:CG-MH-E-31102026-277573",
-      "gazette:CG-AP-E-31102026-277562",
-      "gazette:CG-AP-E-31102026-277572",
-      "gazette:CG-AP-E-31102026-277571",
-      "gazette:CG-DL-E-01112026-277574",
-      "gazette:CG-DL-E-02112026-277575",
-      "gazette:CG-DL-E-02112026-277577",
-      "gazette:CG-DL-E-02112026-277580",
-      "gazette:CG-AP-E-02112026-277578",
-      "gazette:CG-DL-E-02112026-277579",
-      "gazette:CG-DL-E-02112026-277576",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -38448,6 +38455,27 @@
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_24032026120646PN-CM-Cabinet Decisions-10 March, 2026.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_dbf1be66-c31c-4fd1-af0a-4eb7b26aaf4d.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_abf4006d-c3da-463a-a04e-421c002bc6a1.pdf",
+      "npci:623",
+      "npci:624",
+      "gazette:CG-DL-E-31102026-277567",
+      "gazette:CG-DL-E-31102026-277565",
+      "gazette:CG-DL-E-31102026-277564",
+      "gazette:CG-DL-E-31102026-277568",
+      "gazette:CG-DL-E-31102026-277566",
+      "gazette:CG-DL-E-31102026-277563",
+      "gazette:CG-DL-E-31102026-277569",
+      "gazette:CG-DL-E-31102026-277570",
+      "gazette:CG-MH-E-31102026-277573",
+      "gazette:CG-AP-E-31102026-277562",
+      "gazette:CG-AP-E-31102026-277572",
+      "gazette:CG-AP-E-31102026-277571",
+      "gazette:CG-DL-E-01112026-277574",
+      "gazette:CG-DL-E-02112026-277575",
+      "gazette:CG-DL-E-02112026-277577",
+      "gazette:CG-DL-E-02112026-277580",
+      "gazette:CG-AP-E-02112026-277578",
+      "gazette:CG-DL-E-02112026-277579",
+      "gazette:CG-DL-E-02112026-277576",
       "dgft-trade-notice:20cb2f32-41ec-44eb-8f62-6e7fbe2bd4de",
       "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
       "dgft-trade-notice:54c588a7-0fc0-4f2e-9229-a027c4f4f8b2",
@@ -38983,7 +39011,9 @@
       "pib:2331776",
       "pib:2331786",
       "pib:2331780",
-      "pib:2331778"
+      "pib:2331778",
+      "pib:2331789",
+      "pib:2331788"
     ],
     "source_failures": {
       "CBI": {
@@ -38998,62 +39028,84 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "State: Uttar Pradesh": {
+        "count": 1
+      },
       "site: BCCI": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: CAG": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: CIC": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: CPCB": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: Delhi Police": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: Delhi Police press releases": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: ECI": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: GDACS disaster alerts": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: GST Council": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: ICC": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: ISRO": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: Law Commission": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: Lokpal": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: NDMA": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: NHRC": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: Parliament": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: UN News": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: WHO outbreak news": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       },
       "site: WTO": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-02T21:17:11.294537+00:00"
       }
     },
     "sources": [
@@ -39146,6 +39198,24 @@
       "queued_at": "2026-11-02T14:46:31.037900+00:00",
       "score": 8.0,
       "why": "IPO filings and financial updates from major AI companies are top-priority wire alerts."
+    },
+    {
+      "headline": "MeitY unblocks Gamban after inter-ministerial hearing under Section 69A",
+      "post": {
+        "created_at": "2026-11-02T14:45:45+00:00",
+        "handle": "News: India tech policy",
+        "id": "1793630745950",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "MediaNama",
+        "reposts": 0,
+        "text": "MeitY unblocks Gamban after Inter-ministerial hearing, reverses Section 69A blocking order",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN18yV0JMRmF4d1BrRkQ2d25vYXY2RHprQ3Q4eWNiMXVlNmJMVDBHaEF2TXhSNVZmNDZVcEJjajN4Zk12S21FT0NwdzZkNVdzeURuV2M0RWNTQVBSODlPcFpMaGRiWnYtbXBMeWl2R0lZYklFOWRFNDM4dFZaRmJPZVRyVXE?oc=5"
+      },
+      "queued_at": "2026-11-02T15:16:16.572973+00:00",
+      "score": 8.0,
+      "why": "Significant government regulatory and policy reversal involving IT blocking orders."
     }
   ],
   "page_links": {
@@ -40306,22 +40376,22 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1793630245713,
     "news: consumer internet india": 1793625783291,
-    "news: global ai": 1793631214841,
+    "news: global ai": 1793631997280,
     "news: global chips": 1793630553458,
     "news: global it services": 1793601900722,
     "news: india ai deeptech": 1793627499740,
     "news: india edtech gaming": 1793616126906,
     "news: india fintech": 1793630003041,
     "news: india semiconductors": 1793611041346,
-    "news: india tech policy": 1793623101194,
-    "news: india telecom": 1793625788047,
+    "news: india tech policy": 1793630745950,
+    "news: india telecom": 1793631345412,
     "news: indian it majors": 1793626789733,
     "news: indian it midcaps": 1793615820309,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793625960919,
     "nvidia": 1793372410067,
     "nvidia blog": 1793372410067,
-    "openai": 1793352600132,
+    "openai": 1793631600692,
     "oracle": 1792758669661,
     "phonepe": 1793171753713,
     "pib communications": 2331704,
@@ -40363,17 +40433,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-02T15:02:01.019902+00:00",
+    "last_server_run": "2026-11-02T15:16:17.163998+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-02T13:04:55.534479+00:00",
+        "checked": "2026-11-02T15:17:08.956303+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-02T13:04:47.446090+00:00",
+        "checked": "2026-11-02T15:17:00.367350+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40449,7 +40519,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-02T13:04:51.519522+00:00",
+        "checked": "2026-11-02T15:17:04.759343+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -40504,10 +40574,10 @@
       "last": {
         "calendar": "2026-11-02T09:33:21.493919+00:00",
         "ls_reports": "2026-11-02T14:17:00.338380+00:00",
-        "rs_committee_press": "2026-11-02T13:04:41.700026+00:00",
-        "rs_press": "2026-11-02T13:04:38.968113+00:00",
-        "rs_reports": "2026-11-02T13:04:36.086848+00:00",
-        "rs_updates": "2026-11-02T13:04:43.136835+00:00"
+        "rs_committee_press": "2026-11-02T15:16:53.575238+00:00",
+        "rs_press": "2026-11-02T15:16:50.227267+00:00",
+        "rs_reports": "2026-11-02T15:16:47.263811+00:00",
+        "rs_updates": "2026-11-02T15:16:55.669332+00:00"
       }
     },
     "scanned": [
@@ -48720,18 +48790,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-02T15:03:36.453021+00:00",
+    "last_run": "2026-11-02T15:18:49.920819+00:00",
     "seen": [
-      "x:2113847807056740600",
-      "x:2113848005241802859",
-      "x:2113848318539542630",
-      "x:2113848469446414415",
-      "x:2113848648866144274",
-      "x:2113848859499880628",
-      "x:2113849147858235433",
-      "x:2113849551505461317",
-      "x:2113849786113880466",
-      "x:2113850471303492010",
       "x:2113851561566998726",
       "x:2113851874441097632",
       "x:2113855572198219949",
@@ -51721,7 +51781,17 @@
       "x:2117270519510880448",
       "x:2117270599689253078",
       "x:2117270673802535067",
-      "x:2117271169816731820"
+      "x:2117271169816731820",
+      "x:2117262901392351384",
+      "x:2117271323240177851",
+      "x:2117271522381554098",
+      "x:2117271682960572792",
+      "x:2117272890160955855",
+      "x:2117273104179446235",
+      "x:2117273173767102590",
+      "x:2117273183095251055",
+      "x:2117273195002863777",
+      "x:2117274264386912459"
     ],
     "source_failures": {},
     "sources": []
