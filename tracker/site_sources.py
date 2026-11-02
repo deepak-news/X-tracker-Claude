@@ -1028,6 +1028,16 @@ NSE_TOPICS = [
 ]
 
 
+# XBRL twins removed from the website by hand on Nov 2, whose PDF twin was in an earlier feed;
+# kept out so they do not come back as new
+NSE_REMOVED = {
+    "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_121_WebXMLFile_20261102_145654672.xml",
+    "https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_1852_WebXMLFile_20261102_131308439.xml",
+    "https://nsearchives.nseindia.com/corporate/xbrl/CIM_2902_WebXMLFile_20261102_124222411.xml",
+    "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_233_WebXMLFile_20261102_114122106.xml",
+}
+
+
 def _nse_topic(subject: str) -> str:
     return next((name for name, pattern in NSE_TOPICS if re.search(pattern, subject or "", re.I)), "")
 
@@ -1067,6 +1077,8 @@ def nse_filings() -> list:
         if not company or not link or NSE_SKIP.search(subject) or NSE_SKIP_SAID.search(said):
             continue
         xbrl = "/xbrl/" in link
+        if link in NSE_REMOVED:
+            continue
         if xbrl:
             twin = (_nse_norm(item.get("title")), re.sub(r"[\s-]*XBRL$|\s*\(Sub-para.*$", "", subject, flags=re.I).lower())
             if (twin[0], _nse_topic(subject) or "-") in with_pdf or twin in seen:
