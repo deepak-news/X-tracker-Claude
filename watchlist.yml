@@ -996,6 +996,10 @@ bureau:
     - Ministers attending events, greetings, condolences, anniversaries,
       awareness drives, yoga days, meetings held with no decision
     - Visits, inspections and review meetings with no announcement
+    - RBI's daily money-market operations, auction notices and cut-offs,
+      weekly statistical supplements; texts of speeches already reported;
+      officers retiring on superannuation; lists of medals (added
+      2026-11-02, from a week of website alerts)
 
   # Score out of 10 needed to be emailed. Kept fairly low on purpose. Gazettes
   # are the primary record, so their bar is the lowest; PIB, which carries
@@ -1247,3 +1251,19 @@ site:
     - Routine company filings: small companies' small orders, ESG ratings,
       independent directors' terms ending, managers below the board retiring
       or moving, compliance letters, store openings (added 2026-11-01)
+
+    From the alerts sent Oct 29 - Nov 2 (added 2026-11-02, the user's ask):
+    - FOREIGN SOURCES (another country's government or regulator, the EU,
+      the UN, foreign sports bodies): the reporter works for an Indian
+      agency. 7 or more only when India, Indian people or Indian companies
+      are involved, or the news would lead bulletins in India too. Meetings
+      and MoU signings between other countries, daily news round-ups,
+      remarks, and licences or rulings about other countries' own affairs
+      score 3 or less.
+    - Companies on the SME platform or outside the Nifty 500: results,
+      orders and updates score 4 or less, unless the sums are large or the
+      company is a household name. A board meeting merely called (to
+      "consider" fund raising or results) scores 4 or less: the decision is
+      the news, when it comes.
+    - Ceremony: texts of speeches already reported, officers retiring on
+      superannuation, lists of medals and awards, courtesy calls: 3 or less.

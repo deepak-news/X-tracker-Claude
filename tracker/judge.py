@@ -167,6 +167,8 @@ POSTS:
 # 2026-10-30 (the user's ask, from a week of website alerts): written for an audience in
 # India -- foreign items with no India link and no world-scale impact at most 3; admit cards,
 # postings, court designations and re-published rules at the bottom; 6+ means a story.
+# 2026-11-02 (the user's ask, from the alerts of Oct 29 - Nov 2): companies (only household names
+# and the largest reach 6), and RBI's daily operations, speech texts, retirements and medals at the bottom.
 GENERAL_SCALE = """The audience is in India. A score of 6 or more means the agency would file a
 news story on this item today; 4-5 means a specialist might note it, but it
 is not a story on its own.
@@ -192,7 +194,19 @@ unless it is a world event big enough to lead bulletins in India too -- a
 war starting or ending, a head of government falling, a central-bank move
 that shakes world markets, a disaster with mass casualties -- then 6-9.
 Fact sheets, proclamations, daily news round-ups, speeches and statements
-about another country's own affairs score 0-3 unless they name India."""
+about another country's own affairs score 0-3 unless they name India.
+
+COMPANIES -- stock-exchange filings and company news: 6 or more only for
+household names and the largest listed companies (a Nifty 50 company's
+results, a takeover worth thousands of crores, a chairman or chief
+executive leaving, fraud, default or a raid at a big company) and the big
+carmakers' monthly sales. Other companies' results, orders, board meetings,
+appointments and updates score 0-4.
+
+ROUTINE ALSO MEANS 0-2: the central bank's daily money-market operations,
+auction notices and results, weekly statistical supplements; texts of
+speeches already reported; officers retiring on superannuation; lists of
+medals and awards."""
 
 GENERAL_ASK = """ALSO score every entry for the GENERAL DESK: "general", 0-10, how much a
 journalist on a national news agency's general desk -- like its social media

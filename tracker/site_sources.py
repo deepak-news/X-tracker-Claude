@@ -937,6 +937,7 @@ def _dot_reader(category: int):
 # exchange's data pages behind its bot check are not read.
 NSE_RSS = "https://nsearchives.nseindia.com/content/RSS/"
 NSE_BIG = "https://nsearchives.nseindia.com/content/indices/ind_nifty500list.csv"
+NSE_MAIN = "https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv"   # the main board; SME companies are not on it
 NSE_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PTI-Source-Alerts/1.0)"}
 # Filings the law requires that are never news, by the heading NSE files them under, and the
 # same said in an update's own words. Dropped here, so the AI's daily budget goes on the rest.
@@ -946,9 +947,6 @@ NSE_SKIP = re.compile(r"declaration of nav|newspaper|analyst|esop|esos|trading w
                       r"registered office|insider trading|encumbrance|pledge|\bsast\b", re.I)
 NSE_SKIP_SAID = re.compile(r"esg rating|newspaper|loss of share|duplicate share|trading window|(earnings|conference) call|"
                            r"investors? meet|\banalysts?\b|transcript|(audio|video) recording|certificate under", re.I)
-# a board meeting called for the quarter's results alone is no news; one for a dividend, a bonus or fund raising may be
-NSE_MEETING_NEWS = re.compile(r"dividend|bonus|split|sub-?division|buy ?-?back|fund|rais|\bQIP\b|\bNCDs?\b|debenture|"
-                              r"preferential|rights issue|warrant|merger|amalgamation|demerger|acquisition|scheme|delist", re.I)
 NSE_IPO_DOC = {"PROSP": "prospectus", "RHP": "red herring prospectus", "DRHP": "draft red herring prospectus",
                "ADV": "advertisement"}
 
@@ -974,8 +972,7 @@ def _nse_feed(name: str) -> list:
 
 
 def nse_filings() -> list:
-    """The newest online announcements (about 120 at a time), board meetings called for more
-    than the results, and IPO documents. An announcement's "doc" is the filing itself (a PDF,
+    """The newest online announcements (about 120 at a time), and IPO documents. An announcement's "doc" is the filing itself (a PDF,
     or XBRL for orders, deals and management changes): the AI reads it before judging the row
     (_read_docs)."""
     try:
@@ -983,6 +980,11 @@ def nse_filings() -> list:
         big = {r.get("Symbol", "").strip() for r in listed} | {_nse_norm(r.get("Company Name")) for r in listed}
     except Exception:                                                 # noqa: BLE001 -- only a hint for the AI
         big = set()
+    try:
+        listed = list(csv.DictReader(io.StringIO(_get(NSE_MAIN, headers=NSE_HEADERS).text)))
+        main = {r.get("SYMBOL", "").strip() for r in listed} | {_nse_norm(r.get("NAME OF COMPANY")) for r in listed}
+    except Exception:                                                 # noqa: BLE001
+        main = set()
     rows = []
     for item in _nse_feed("Online_announcements.xml"):
         link, company = (item.get("link") or "").strip(), _nse_company(item.get("title"))
@@ -997,21 +999,13 @@ def nse_filings() -> list:
         if what.lower() in ("", "updates", "general updates", "press release"):
             what = subject or "Filing"
         symbol = (re.search(r"/corporate/([^/_]+)_\d{8}", link) or [None, ""])[1]
-        size = "in the Nifty 500" if symbol in big or _nse_norm(item.get("title")) in big else "outside the Nifty 500"
+        name = _nse_norm(item.get("title"))
+        size = ("in the Nifty 500" if symbol in big or name in big else
+                "outside the Nifty 500" if not main or symbol in main or name in main else "a small company, outside the main board")
         rows.append({"key": link, "title": f"{company}: {what[:1].upper()}{what[1:]}"[:300],
                      "detail": f"NSE filing by {company} ({symbol or 'NSE'}, {size}), filed as \"{subject}\". {said}"[:1200],
                      "url": link, "date": _nse_day(item.get("published")), "doc": link})
-    for item in _nse_feed("Board_Meetings.xml"):
-        link, company = (item.get("link") or "").strip(), _nse_company(item.get("title"))
-        purpose, _, when = _clean(item.get("summary")).partition("|Meeting Date:")
-        if not company or not link or not NSE_MEETING_NEWS.search(purpose):
-            continue
-        day, purpose = _nse_day(when.strip()), purpose.strip()
-        # "Fund Raising" reads "fund raising"; a sentence keeps its own capitals after the first word
-        purpose = purpose.lower() if len(purpose.split()) <= 4 else purpose[:1].lower() + purpose[1:]
-        rows.append({"key": link, "title": f"{company}: board meets {f'on {day:%b} {day.day}' if day else 'soon'} to consider {purpose}"[:300],
-                     "detail": f"NSE: {company} has called a board meeting. Purpose: {purpose}"[:1200],
-                     "url": link, "date": _nse_day(item.get("published"))})
+    # Board_Meetings.xml is not read (2026-11-02): each meeting also comes as an announcement, so it arrived twice
     for item in _nse_feed("Offer_Documents.xml"):
         link, company = (item.get("link") or "").strip(), _nse_company(item.get("title"))
         said = _clean(item.get("summary"))
