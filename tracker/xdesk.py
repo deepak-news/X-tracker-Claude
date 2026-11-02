@@ -1,4 +1,5 @@
-"""X alerts, on trial: one email, to Deepak only.
+"""X alerts, on trial: one email, to Deepak only -- and, from 2026-11-02, every judged post to
+the website (PTI Source Alerts) under "X", where each person's own bar applies (to_site).
 
 Posts come from the Google Sheet that reads X (xfeed.py): every account
 @DeepakatPTI follows with the bell on, so following a new account is all it
@@ -33,7 +34,7 @@ import sys
 
 import yaml
 
-from . import email_out, judge, national, xfeed
+from . import email_out, judge, national, website, xfeed
 from .main import dead_models, load_state, record_dead_models, save_state
 
 WATCHLIST = pathlib.Path(__file__).resolve().parent.parent / "watchlist.yml"
@@ -108,6 +109,24 @@ def build_email(rows: list) -> tuple:
     return f"[X test] {subject}"[:150], body
 
 
+def to_site(judged: list, everything: list, dry_run: bool) -> None:
+    """The website (PTI Source Alerts) gets every post the Tweets desk's AI judged, with its
+    score, under "X", one list per account, so each person's own bar applies (the user's
+    choice, 2026-11-02). The Tweets desk's score is the general desk's ("national")."""
+    if not website.enabled():
+        return
+    items = [{"id": post.id, "grp": "official", "source": "X", "sub": post.origin,
+              "title": post.text.split(" on X: ", 1)[-1][:500], "body": "", "url": post.url,
+              "score": float(value), "headline": _clean(headline)[:300], "why": _clean(why)[:400]}
+             for post, value, headline, why in judged]
+    accounts = sorted({p.origin for p in everything})
+    website.send("x", items, view="national", sources=[("official", "X", accounts)], dry_run=dry_run)
+
+
+def _clean(text) -> str:
+    return " ".join(html.unescape(str(text or "")).split())
+
+
 def run(dry_run: bool) -> int:
     if not xfeed.enabled():
         print("No X_FEED_URL secret yet -- nothing to read.")
@@ -169,6 +188,7 @@ def run(dry_run: bool) -> int:
                                              state, {"alerted": sent}, log="x_test")
         for post, value, headline, _ in judged:
             consider(post, value, headline, "tweets", float(tweets_cfg.get("threshold", 7)))
+        to_site(judged, everything, dry_run)
 
     tech_age = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=float(whole.get("max_age_hours", 6)))
     tech = [p for p in candidates if p.origin[1:].lower() in tech_accounts
