@@ -1124,6 +1124,17 @@ site:
     # results, and IPO documents. Routine filings are dropped before the AI (NSE_SKIP in
     # site_sources.py), and each new filing is read before it is judged.
     - {source: NSE company filings, reader: nse_filings, ai: true}
+    # --- State governments (added 2026-11-02, the user's choice): website only, under the same
+    # "States" source as Telangana and UP (those two come from the national desk, which also emails
+    # them; these do not). In the state's own language where that is all it publishes; the AI
+    # judges each new release and writes its headline in English.
+    - {source: States, sub: Maharashtra, feed: "https://mahasamvad.in/feed/", ai: true}
+    - {source: States, sub: Kerala, feed: "https://prd.kerala.gov.in/rss.xml", exclude: "^Council of Ministers$|ടെന്‍ഡര്‍|ടെൻഡർ|ലേലം|താത്കാലിക നിയമനം|ക്വട്ടേഷന്‍", ai: true}
+    - {source: States, sub: Karnataka, url: "https://cm.karnataka.gov.in/", match: "cm\\.karnataka\\.gov\\.in/\\d{3,}/[^/]{30,}", ai: true}
+    - {source: States, sub: Gujarat, url: "https://cmogujarat.gov.in/en", match: "/en/(latest-news|important-decisions)/.", ai: true}
+    # Parties and elections (added 2026-11-02, the user's choice)
+    - {source: Congress, sub: Press releases, url: "https://www.inc.in/media/press-releases", match: "/media/press-releases/[a-z0-9-]{20,}", strip: "^(?:\\d{1,2} [A-Z][a-z]{2} 20\\d\\d\\s+)?(?:(?:Shri|Smt\\.?|Dr\\.?)\\s+[A-Za-z. ]+?\\s+(?=(?:Shri|Smt|Dr)\\b))?", ai: true}
+    - {source: CEO Uttar Pradesh, url: "https://ceouttarpradesh.nic.in/", match: "/ImportantIntruction/", ai: true}
     # --- Courts and watchdogs (Supreme Court judgments and NCLAT judgments AI-scored from
     # 2026-10-11, the user's choice; the Supreme Court's notices still count every row)
     - {source: Supreme Court, sub: Judgments, url: "https://www.sci.gov.in/", match: "/view-pdf/\\?diary_no=.*from=latest_judg", strip: "\\s*\\(Uploaded On [^)]*\\)?\\s*$", ai: true, new_ids: true}
