@@ -169,6 +169,9 @@ POSTS:
 # postings, court designations and re-published rules at the bottom; 6+ means a story.
 # 2026-11-02 (the user's ask, from the alerts of Oct 29 - Nov 2): companies (only household names
 # and the largest reach 6), and RBI's daily operations, speech texts, retirements and medals at the bottom.
+# 2026-11-02, later (the user: NSE "still too overwhelmingly present" for the general beat): results,
+# monthly sales, orders and the like 0-4 for the general desk even at the largest companies;
+# NSE rows outside the Nifty 100 are also held to 4 in code (site_sources.NSE_GENERAL_MAX).
 GENERAL_SCALE = """The audience is in India. A score of 6 or more means the agency would file a
 news story on this item today; 4-5 means a specialist might note it, but it
 is not a story on its own.
@@ -196,12 +199,14 @@ that shakes world markets, a disaster with mass casualties -- then 6-9.
 Fact sheets, proclamations, daily news round-ups, speeches and statements
 about another country's own affairs score 0-3 unless they name India.
 
-COMPANIES -- stock-exchange filings and company news: 6 or more only for
-household names and the largest listed companies (a Nifty 50 company's
-results, a takeover worth thousands of crores, a chairman or chief
-executive leaving, fraud, default or a raid at a big company) and the big
-carmakers' monthly sales. Other companies' results, orders, board meetings,
-appointments and updates score 0-4.
+COMPANIES -- stock-exchange filings and company news are mostly business-desk
+material. For the general desk, quarterly results, monthly sales, orders and
+contracts, expansion plans, board meetings, fund raising, appointments and
+updates score 0-4, even for the largest companies; 5 at most when the
+figures are unusually large. 6 or more only when a broad audience would
+notice: a takeover or deal worth Rs 10,000 crore or more, the chairman or
+chief executive of a Nifty 50 company leaving, fraud, default, a raid or a
+regulator's penalty at a big company, a household name filing for an IPO.
 
 ROUTINE ALSO MEANS 0-2: the central bank's daily money-market operations,
 auction notices and results, weekly statistical supplements; texts of

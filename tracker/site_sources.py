@@ -663,6 +663,8 @@ def _screen(items: list, dry_run: bool) -> list:
         if it["id"] in held:
             continue
         score, headline, why, general = scored.get(it["id"], (None, "", "", None))
+        if general is not None and "general_max" in it:
+            general = min(general, it["general_max"])
         out.append({**it, "score": None if score is None else float(score), "general": general,
                     "headline": _clean(headline)[:300], "why": _clean(why)[:400]})
     return out
@@ -970,6 +972,8 @@ def mp_news() -> list:
 # exchange's data pages behind its bot check are not read.
 NSE_RSS = "https://nsearchives.nseindia.com/content/RSS/"
 NSE_BIG = "https://nsearchives.nseindia.com/content/indices/ind_nifty500list.csv"
+NSE_TOP = "https://nsearchives.nseindia.com/content/indices/ind_nifty100list.csv"
+NSE_GENERAL_MAX = 4    # the general desk's score for a company outside the Nifty 100 (the user, Nov 2)
 NSE_MAIN = "https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv"   # the main board; SME companies are not on it
 NSE_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PTI-Source-Alerts/1.0)"}
 # Filings the law requires that are never news, by the heading NSE files them under, and the
@@ -1014,6 +1018,11 @@ def nse_filings() -> list:
     except Exception:                                                 # noqa: BLE001 -- only a hint for the AI
         big = set()
     try:
+        listed = list(csv.DictReader(io.StringIO(_get(NSE_TOP, headers=NSE_HEADERS).text)))
+        top = {r.get("Symbol", "").strip() for r in listed} | {_nse_norm(r.get("Company Name")) for r in listed}
+    except Exception:                                                 # noqa: BLE001 -- then no cap
+        top = None
+    try:
         listed = list(csv.DictReader(io.StringIO(_get(NSE_MAIN, headers=NSE_HEADERS).text)))
         main = {r.get("SYMBOL", "").strip() for r in listed} | {_nse_norm(r.get("NAME OF COMPANY")) for r in listed}
     except Exception:                                                 # noqa: BLE001
@@ -1033,11 +1042,13 @@ def nse_filings() -> list:
             what = subject or "Filing"
         symbol = (re.search(r"/corporate/([^/_]+)_\d{8}", link) or [None, ""])[1]
         name = _nse_norm(item.get("title"))
-        size = ("in the Nifty 500" if symbol in big or name in big else
+        size = ("in the Nifty 100" if top and (symbol in top or name in top) else
+                "in the Nifty 500" if symbol in big or name in big else
                 "outside the Nifty 500" if not main or symbol in main or name in main else "a small company, outside the main board")
         rows.append({"key": link, "title": f"{company}: {what[:1].upper()}{what[1:]}"[:300],
                      "detail": f"NSE filing by {company} ({symbol or 'NSE'}, {size}), filed as \"{subject}\". {said}"[:1200],
-                     "url": link, "date": _nse_day(item.get("published")), "doc": link})
+                     "url": link, "date": _nse_day(item.get("published")), "doc": link,
+                     **({"general_max": NSE_GENERAL_MAX} if top and size != "in the Nifty 100" else {})})
     # Board_Meetings.xml is not read (2026-11-02): each meeting also comes as an announcement, so it arrived twice
     for item in _nse_feed("Offer_Documents.xml"):
         link, company = (item.get("link") or "").strip(), _nse_company(item.get("title"))
@@ -1160,7 +1171,8 @@ def run(dry_run: bool = False) -> int:
                     "issued": f"{row['date']:%b} {row['date'].day}, {row['date'].year}" if row.get("date") else "",
                     "date": row["date"].isoformat() if row.get("date") else "",
                     "quiet": bool(row.get("settle") or (row.get("date") and row["date"] < old)),
-                    **({"settle": True} if row.get("settle") else {}), **({"doc": row["doc"]} if row.get("doc") else {})}
+                    **({"settle": True} if row.get("settle") else {}), **({"doc": row["doc"]} if row.get("doc") else {}),
+                    **({"general_max": row["general_max"]} if "general_max" in row else {})}
             (screened if m.get("ai") else items).append(item)
         if dry_run:
             for row in found[:3]:
