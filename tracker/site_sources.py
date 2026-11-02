@@ -972,6 +972,8 @@ def mp_news() -> list:
 # exchange's data pages behind its bot check are not read.
 NSE_RSS = "https://nsearchives.nseindia.com/content/RSS/"
 NSE_BIG = "https://nsearchives.nseindia.com/content/indices/ind_nifty500list.csv"
+NSE_QUOTE = "https://www.nseindia.com/get-quotes/equity?symbol="
+NSE_FILINGS = "https://www.nseindia.com/companies-listing/corporate-filings-announcements"
 NSE_TOP = "https://nsearchives.nseindia.com/content/indices/ind_nifty100list.csv"
 NSE_GENERAL_MAX = 4    # the general desk's score for a company outside the Nifty 100 (the user, Nov 2)
 NSE_MAIN = "https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv"   # the main board; SME companies are not on it
@@ -1025,29 +1027,43 @@ def nse_filings() -> list:
     try:
         listed = list(csv.DictReader(io.StringIO(_get(NSE_MAIN, headers=NSE_HEADERS).text)))
         main = {r.get("SYMBOL", "").strip() for r in listed} | {_nse_norm(r.get("NAME OF COMPANY")) for r in listed}
+        symbols = {_nse_norm(r.get("NAME OF COMPANY")): r.get("SYMBOL", "").strip() for r in listed}
     except Exception:                                                 # noqa: BLE001
-        main = set()
-    rows = []
-    for item in _nse_feed("Online_announcements.xml"):
+        main, symbols = set(), {}
+    rows, seen = [], set()
+    entries = _nse_feed("Online_announcements.xml")
+    # An XBRL filing is the machine-readable twin of a PDF the company files too, and some
+    # companies send it several times (Jyoti Structures' one order came 5 times on Nov 2). It is
+    # left out when the company has a PDF in the feed; of the rest, only the newest goes in.
+    with_pdf = {_nse_norm(e.get("title")) for e in entries if (e.get("link") or "").strip().lower().endswith(".pdf")}
+    for item in entries:
         link, company = (item.get("link") or "").strip(), _nse_company(item.get("title"))
         said, _, subject = _clean(item.get("summary")).partition("|SUBJECT:")
         said, subject = said.strip(), subject.strip()
         if not company or not link or NSE_SKIP.search(subject) or NSE_SKIP_SAID.search(said):
             continue
+        xbrl = "/xbrl/" in link
+        if xbrl:
+            twin = (_nse_norm(item.get("title")), re.sub(r"[\s-]*XBRL$|\s*\(Sub-para.*$", "", subject, flags=re.I).lower())
+            if twin[0] in with_pdf or twin in seen:
+                continue
+            seen.add(twin)
         # 'a press release dated November 01, 2026, titled "Maruti Suzuki sales in October 2026".'
         what = re.search(r"titled\s+[\"“'‘](.+?)[\"”'’]?\.?$", said) or \
             re.search(r"has (?:informed|submitted to) the Exchange,?\s*(?:about|regarding|that)?\s*(.+)$", said, re.I)
         what = re.sub(r"^press release titled\s*", "", what.group(1) if what else said, flags=re.I).strip(" .'\"“”‘’")
         if what.lower() in ("", "updates", "general updates", "press release"):
             what = subject or "Filing"
-        symbol = (re.search(r"/corporate/([^/_]+)_\d{8}", link) or [None, ""])[1]
         name = _nse_norm(item.get("title"))
+        symbol = (re.search(r"/corporate/([^/_]+)_\d{8}", link) or [None, ""])[1] or symbols.get(name, "")
         size = ("in the Nifty 100" if top and (symbol in top or name in top) else
                 "in the Nifty 500" if symbol in big or name in big else
                 "outside the Nifty 500" if not main or symbol in main or name in main else "a small company, outside the main board")
         rows.append({"key": link, "title": f"{company}: {what[:1].upper()}{what[1:]}"[:300],
                      "detail": f"NSE filing by {company} ({symbol or 'NSE'}, {size}), filed as \"{subject}\". {said}"[:1200],
-                     "url": link, "date": _nse_day(item.get("published")), "doc": link,
+                     # the XBRL file opens as code in a browser: the link goes to the company's NSE page, whose "Announcements XBRL" tab has it
+                     "url": (NSE_QUOTE + symbol if symbol else NSE_FILINGS) if xbrl else link,
+                     "date": _nse_day(item.get("published")), "doc": link,
                      **({"general_max": NSE_GENERAL_MAX} if top and size != "in the Nifty 100" else {})})
     # Board_Meetings.xml is not read (2026-11-02): each meeting also comes as an announcement, so it arrived twice
     for item in _nse_feed("Offer_Documents.xml"):
