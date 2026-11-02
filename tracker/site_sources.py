@@ -1010,6 +1010,28 @@ def _nse_feed(name: str) -> list:
     return feedparser.parse(_get(NSE_RSS + name, headers=NSE_HEADERS).content).entries
 
 
+# What an NSE filing is about, so an XBRL filing is matched to the company's PDF on the same
+# matter ("Change in Directors/KMP/SMP/Auditor/RTA" is the twin of "Change in Director(s)" or
+# "Resignation", not of "Board Meeting Intimation"). A subject in none of these is never a twin.
+NSE_TOPICS = [
+    ("meet", r"analyst|investor meet|con\. call"),
+    ("shareholders", r"shareholders"),
+    ("board", r"board meeting intimation|intimation of board meeting"),
+    ("people", r"change in (director|auditor|company secretary|management|senior)|kmp|appointment|resignation|cessation|outcome of board meeting"),
+    ("orders", r"bagging|receiving of (purchase )?orders"),
+    ("actions", r"action\(?s?\)? (initiated|taken)|orders passed"),
+    ("agreements", r"agreement|mou"),
+    ("litigation", r"litigation|dispute"),
+    ("capacity", r"capacity"),
+    ("deals", r"acquisition|scheme|sale|disposal|amalgamation|merger"),
+    ("restructuring", r"restructuring|closure"),
+]
+
+
+def _nse_topic(subject: str) -> str:
+    return next((name for name, pattern in NSE_TOPICS if re.search(pattern, subject or "", re.I)), "")
+
+
 def nse_filings() -> list:
     """The newest online announcements (about 120 at a time), and IPO documents. An announcement's "doc" is the filing itself (a PDF,
     or XBRL for orders, deals and management changes): the AI reads it before judging the row
@@ -1034,8 +1056,10 @@ def nse_filings() -> list:
     entries = _nse_feed("Online_announcements.xml")
     # An XBRL filing is the machine-readable twin of a PDF the company files too, and some
     # companies send it several times (Jyoti Structures' one order came 5 times on Nov 2). It is
-    # left out when the company has a PDF in the feed; of the rest, only the newest goes in.
-    with_pdf = {_nse_norm(e.get("title")) for e in entries if (e.get("link") or "").strip().lower().endswith(".pdf")}
+    # left out when the company has a PDF on the same matter in the feed (_nse_topic); of the
+    # rest, only the newest goes in.
+    with_pdf = {(_nse_norm(e.get("title")), _nse_topic(_clean(e.get("summary")).partition("|SUBJECT:")[2]))
+                for e in entries if (e.get("link") or "").strip().lower().endswith(".pdf")}
     for item in entries:
         link, company = (item.get("link") or "").strip(), _nse_company(item.get("title"))
         said, _, subject = _clean(item.get("summary")).partition("|SUBJECT:")
@@ -1045,7 +1069,7 @@ def nse_filings() -> list:
         xbrl = "/xbrl/" in link
         if xbrl:
             twin = (_nse_norm(item.get("title")), re.sub(r"[\s-]*XBRL$|\s*\(Sub-para.*$", "", subject, flags=re.I).lower())
-            if twin[0] in with_pdf or twin in seen:
+            if (twin[0], _nse_topic(subject) or "-") in with_pdf or twin in seen:
                 continue
             seen.add(twin)
         # 'a press release dated November 01, 2026, titled "Maruti Suzuki sales in October 2026".'
