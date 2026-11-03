@@ -1117,8 +1117,108 @@ def nse_filings() -> list:
     return rows
 
 
+# ---------------------------------------------------------------- CBIC, DIPAM, Income Tax, GSTN (Nov 3)
+
+CBIC_UPDATES = "https://taxinformation.cbic.gov.in/api/cbic-notification-msts/fetchUpdatesByTaxId/"
+CBIC_PORTAL = "https://taxinformation.cbic.gov.in/"
+
+
+def _cbic_reader(tax_id: int):
+    """CBIC's Tax Information Portal: the newest notifications and circulars for one tax (GST
+    1000001, Customs 1000002, Central Excise 1000003), four at a time, as its "updates" box
+    lists them. Its documents open only inside the portal, so each row links to the portal."""
+    def read() -> list:
+        rows = []
+        for doc in _get(CBIC_UPDATES + str(tax_id)).json() or []:
+            number, name = _clean(doc.get("notificationNo")), _clean(doc.get("notificationName"))
+            kind = _clean(doc.get("updateType")) or "Notification"
+            if not (doc.get("id") and (number or name)):
+                continue
+            rows.append({"key": f"cbic:{doc['id']}", "title": f"{kind} {number}: {name}".strip(" :"),
+                         "detail": _clean(doc.get("updateCategory")), "url": CBIC_PORTAL,
+                         "date": _day(str(doc.get("updatedDate") or ""), "%d-%b-%Y")})
+        if not rows:
+            raise RuntimeError("nothing in CBIC's updates (the portal may have changed)")
+        return rows
+    return read
+
+
+DIPAM_CIRCULARS = "https://dipam.gov.in/circular"
+
+
+def dipam_circulars() -> list:
+    """DIPAM's circulars and office memoranda: each sits in the page as a "View PDF file about ..."
+    button and a PDF viewer, not a link."""
+    soup = BeautifulSoup(_get(DIPAM_CIRCULARS).text, "html.parser")
+    rows = []
+    for button in soup.find_all("a", attrs={"aria-label": re.compile(r"^View PDF file about ")}):
+        title = _clean(button["aria-label"][len("View PDF file about "):])
+        box = soup.select_one(str(button.get("data-target") or "#none"))
+        pdf = box.find("object") if box else None
+        row = button.find_parent("tr")
+        found = re.search(r"(\d{1,2})(?:st|nd|rd|th)? (\w+),? (\d{4})\s*$", _clean(row.get_text(" ")) if row else "")
+        when = _day(" ".join(found.groups()), "%d %B %Y", "%d %b %Y") if found else None
+        if title and pdf is not None and pdf.get("data"):
+            url = urljoin(DIPAM_CIRCULARS, pdf["data"])
+            rows.append({"key": f"dipam:{url}", "title": title, "detail": "", "url": url, "date": when})
+    if not rows:
+        raise RuntimeError("no circulars on DIPAM's page (it may have changed)")
+    return rows
+
+
+INCOME_TAX_NEWS = "https://www.incometax.gov.in/iec/foportal/latest-news"
+
+
+def income_tax_news() -> list:
+    """The Income Tax Department's "Latest News": each entry is a date, a few sentences (a
+    notification, a circular, a deadline extended) and a link to its PDF."""
+    soup = BeautifulSoup(_get(INCOME_TAX_NEWS).text, "html.parser")
+    block = soup.select_one("#block-views-block-latest-news-view-block-2")
+    if block is None:
+        raise RuntimeError("no Latest News list on the page (it may have changed)")
+    rows = []
+    for entry in block.select(".views-row"):
+        text = _clean(entry.get_text(" "))
+        found = re.match(r"(\d{1,2}-\w{3}-\d{4})\s*", text)
+        text = re.sub(r"\s*click here\.?\s*$", "", text[found.end():] if found else text, flags=re.I)
+        link = next((a["href"] for a in entry.find_all("a", href=True) if not a["href"].startswith("#")), "")
+        if not text:
+            continue
+        url = urljoin(INCOME_TAX_NEWS, link) if link else INCOME_TAX_NEWS
+        title = text if len(text) <= 300 else text[:text.rfind(" ", 0, 300)] + "…"
+        rows.append({"key": f"incometax:{url if link else text[:120]}", "title": title, "detail": text if len(text) > 300 else "",
+                     "url": url, "date": _day(found.group(1), "%d-%b-%Y") if found else None})
+    if not rows:
+        raise RuntimeError("nothing in the Income Tax Department's Latest News (the page may have changed)")
+    return rows
+
+
+GST_NEWS = "https://www.gst.gov.in/fomessage/newsupdates"
+
+
+def gst_advisories() -> list:
+    """The GST Network's advisories and news ("News and Updates"), the list its advisories page
+    reads; about twenty, newest first."""
+    data = _get(GST_NEWS, headers={**HEADERS, "Accept": "application/json"}).json().get("data") or []
+    rows = []
+    for doc in data:
+        title = _clean(doc.get("title"))
+        if not (doc.get("id") and title):
+            continue
+        link = str(doc.get("linkURl") or "").strip()
+        url = link if link.startswith("http") else f"https://www.gst.gov.in/newsandupdates/read/{doc['id']}"
+        body = _clean(BeautifulSoup(str(doc.get("content") or ""), "html.parser").get_text(" "))
+        rows.append({"key": f"gstn:{doc['id']}", "title": title, "detail": body[:1200], "url": url,
+                     "date": _day(str(doc.get("date") or ""), "%d/%m/%Y")})
+    if not rows:
+        raise RuntimeError("nothing in the GST portal's News and Updates (it may have changed)")
+    return rows
+
+
 HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "nse_filings": nse_filings, "mp_news": mp_news, "dgca_traffic": dgca_traffic, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
                 "dp_notifications": dp_notifications, "dp_gazette": dp_gazette, "dp_press": dp_press, "dp_whatsnew": dp_whatsnew,
+                "cbic_gst": _cbic_reader(1000001), "cbic_customs": _cbic_reader(1000002), "cbic_excise": _cbic_reader(1000003),
+                "dipam_circulars": dipam_circulars, "income_tax_news": income_tax_news, "gst_advisories": gst_advisories,
                 **{name: _dot_reader(cat) for name, cat in DOT_TABS.items()}}
 
 

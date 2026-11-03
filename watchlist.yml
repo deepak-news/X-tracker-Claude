@@ -1114,6 +1114,14 @@ site:
     - {source: RBI speeches and publications, sub: Speeches, feed: "https://www.rbi.org.in/speeches_rss.xml"}
     - {source: RBI speeches and publications, sub: Publications, feed: "https://www.rbi.org.in/Publication_rss.xml"}
     - {source: Office of the Economic Adviser, url: "https://eaindustry.nic.in/", match: "\\.pdf$", only: "press release"}
+    # tax departments, Nov 3 (the user's list): CBIC's newest notifications and circulars per tax,
+    # the Income Tax Department's Latest News, the GST Network's advisories, DIPAM's circulars
+    - {source: CBIC, sub: GST, reader: cbic_gst, ai: true}
+    - {source: CBIC, sub: Customs, reader: cbic_customs, ai: true}
+    - {source: CBIC, sub: Central Excise, reader: cbic_excise, ai: true}
+    - {source: Income Tax Department, reader: income_tax_news, ai: true}
+    - {source: GST Network, sub: Advisories, reader: gst_advisories, ai: true}
+    - {source: DIPAM, sub: Circulars, reader: dipam_circulars, ai: true}
     - {source: GST Council, url: "https://gstcouncil.gov.in/", match: "/sites/default/files/20\\d\\d-\\d\\d/|pib\\.gov\\.in/", exclude: "vacancy|consultant|newsletter|appointment of the officers"}
     - {source: CGA, url: "https://cga.nic.in/", match: "/Circular/Published/\\d+", ai: true}
     - {source: PPAC, url: "https://ppac.gov.in/", match: "download\\.php\\?file=(importantnews|rep_studies)/", exclude: "^RSP of (Petrol|Diesel) in Delhi|advertisement|tender", strip: "\\s*\\(\\s*pdf\\s*,\\s*[\\d.]+\\s*[KM]B\\s*\\)\\s*$"}
