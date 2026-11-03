@@ -1,41 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-26T16:31:57.505464+00:00",
-      "handle": "News: Global AI",
-      "headline": "Elvis Presley estate sues Anthropic over copyright infringement",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX09XVmlSS01jT3lubFZUV2pxODhTM3JaOFpwX2k1cVNEdkItaFNCcGtNU3dRSnV3eXVTZ19JRm5pcGRFcDIxLVNLb3U0QkxZNlhSU3k2U05vZndadGNtb3FrUzhoUFNhVWpPYUVpX1FxV0hjejJiRzB1M2w3MzJSdUlDb1oxZENReEFmdE1qUU5HUQ?oc=5",
-      "words": [
-        "anthropic",
-        "copyright",
-        "elvis",
-        "infringement",
-        "music",
-        "owners",
-        "presley",
-        "sue"
-      ]
-    },
-    {
-      "at": "2026-10-26T17:32:01.388572+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic S-1 IPO filing reveals rapid growth and spiraling costs",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1UzRjJ6M0VaSXoydWlIZ2pzc2tGcUZtMjlzR1JhUE9UR0llUERrRWRJNUdTRWNNQU9IUUEycmZUVk40cEtCSjZ5TzRqZVRWT1JvMEtmQmlENklzd19LLWlDREZZakJ0MWdTOTZleEdBN1FVRFJGMGxHWnpkY2owdVFSQ0FWWHNFcWlPTUtpb1ZDRkZrY0tUMkZrdHRJMnFJZEZveXVQaG41OHFibWFyMWpfNG9jTlR0aTM1enNKT18?oc=5",
-      "words": [
-        "anthropic",
-        "close",
-        "costs",
-        "frontrunner",
-        "growth",
-        "ipo",
-        "look",
-        "rapid",
-        "spiraling"
-      ]
-    },
-    {
       "at": "2026-10-26T18:31:29.045518+00:00",
       "handle": "News: India fintech",
       "headline": "Paytm reports Q2 net profit of Rs 225 crore with 28% revenue growth",
@@ -7434,6 +7399,41 @@
         "safety",
         "time",
         "trial"
+      ]
+    },
+    {
+      "at": "2026-11-03T14:31:39.676382+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic warns AI could outpace human control in successor development",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUVFiODJmT0N6em5XTXBYck9PaEoyTHlEVnZ5Y01JbzM5Y3hiRTlnYkNva2pOOW5FZkJXbXktblVMYVVIQnNWaDF6S0k2cExWWTQzaFpkSGRNaDZ3UVloc3hwU29zeVdBVmM1ZmFRbnFUd0hIQ0MxN2YtVDQxRy01VGZoMURjS0JHWFpuZ1R4b01qVE9XM216OEc1SGJiWndkZGY0SWRxNnMxd09jVEVHRjRwcFhfOTBIMEhnb25Ya0lSRENCUmlCaEc1TFZsVmUwX2ZZdWVUMNIB3gFBVV95cUxOTzd6MDdQV21adkROOXhMT2tIaEJNV1ZxWnRuRGV5R1Y1VFJJUXY5ZHR2aWZEMDVoWGJ0b29LczI5R0c1ck8yRWtzWTNPT3lBbHVPN1BPeXdBMUxUdXhCQ3oyVVdLZVBHdjNTUmRuV1phaG1lQ08zcURQdlh6SWVPb2lKemNWWXVDRjl3N1U2UjFweDdkeVBSTzlmZ293X19jaHVsbnpFU2pRQ3lZZmxtYTZ2b1QwSVZuMG90QU1RQm5CMUdvNzlDcFJyejNCaHhaU25Rb0NSbXdWYlJ3c3c?oc=5",
+      "words": [
+        "anthropic",
+        "control",
+        "could",
+        "developing",
+        "human",
+        "models",
+        "outpace",
+        "successor",
+        "warns"
+      ]
+    },
+    {
+      "at": "2026-11-03T14:31:39.676382+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta kicks off debt offering to fund AI investments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0x3bUYydl9CYlNVOHlNaVZrMFgxU29fQVo4Yko3SVZvUUxZVkJZOVZUenRyZkxIREoxdE50MUFoY2FlMHY1Tm1xRmNKOW1FQ1phSkdoc1d5dGV2ZlV1ejVPNUI4b0dWeTMtVWV6WEh4bFZIcnlTNG9SZ3pOSzhxaDJleFdYVnVTV2RSSVRsQ21SUktPd2Z1TmtGLVF0RjNrSTI4Z1BkR2Q0YjFaSkdv?oc=5",
+      "words": [
+        "debt",
+        "fund",
+        "investments",
+        "kicks",
+        "meta",
+        "off",
+        "offering",
+        "push"
       ]
     }
   ],
@@ -16949,7 +16949,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-03T14:18:31.627955+00:00",
+    "last_run": "2026-11-03T14:35:03.375971+00:00",
     "pib_mark": 2332247,
     "seen": [
       "pib:2323048",
@@ -20011,13 +20011,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1793102549383",
-    "1793109480569",
-    "1793114040600",
-    "1793118282055",
-    "1793124878945",
-    "1793153495606",
-    "1793153644357",
     "1793156602567",
     "1793156662981",
     "1793159144586",
@@ -24381,7 +24374,6 @@
     "1793676918059",
     "1793679788207",
     "1793684655503",
-    "1793685173597",
     "1793686896448",
     "1793696368414",
     "1793697980969",
@@ -24446,7 +24438,6 @@
     "1793707921174",
     "1789631206452",
     "1793625740314",
-    "1793657690540",
     "1793662213757",
     "1793675468517",
     "1793684925493",
@@ -24482,7 +24473,6 @@
     "1793627880931",
     "1793631345412",
     "1793637277638",
-    "1793674260650",
     "1793680291246",
     "1793692080055",
     "1793696284776",
@@ -24530,11 +24520,8 @@
     "1793674740061",
     "1793675460333",
     "1793680800638",
-    "1793682013398",
-    "1793687940727",
     "1793690270038",
     "1793694060196",
-    "1793695228468",
     "1793701884067",
     "1793701980851",
     "1793702280292",
@@ -24548,9 +24535,27 @@
     "1793709013394",
     "1793709251555",
     "1793709876117",
-    "1793711836773",
     "1793712351383",
-    "1793714081460",
+    "1793232000741",
+    "1793232000937",
+    "1793630003166",
+    "1793647991714",
+    "1793655041696",
+    "1793655060267",
+    "1793660820463",
+    "1793682064398",
+    "1793685173459",
+    "1793692992047",
+    "1793693460844",
+    "1793695228934",
+    "1793695320676",
+    "1793695813112",
+    "1793700139914",
+    "1793701800355",
+    "1793702242428",
+    "1793710482021",
+    "1793714081389",
+    "1793714858756",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25702,9 +25707,7 @@
     "1793219954177",
     "1793221200206",
     "1793229351470",
-    "1793232000741",
     "1793232000882",
-    "1793232000937",
     "1793240992281",
     "1793244600934",
     "1793250957275",
@@ -25789,7 +25792,6 @@
     "1793616073439",
     "1793616257523",
     "1793616471938",
-    "1793630003166",
     "1793630360786",
     "1793630362574",
     "1793630745950",
@@ -25815,16 +25817,13 @@
     "1793644116322",
     "1793644362641",
     "1793644639722",
-    "1793647991714",
     "1793649683165",
     "1793650076974",
     "1793653200593",
     "1793654326331",
     "1793654326996",
     "1793655004241",
-    "1793655041696",
-    "1793655060267",
-    "1793660820463",
+    "1793657690540",
     "1793662200346",
     "1793664000037",
     "1793664000414",
@@ -25839,6 +25838,7 @@
     "1793671767599",
     "1793673762043",
     "1793674027093",
+    "1793674260650",
     "1793674676773",
     "1793675479333",
     "1793676246396",
@@ -25864,7 +25864,7 @@
     "1793680756085",
     "1793680975079",
     "1793681870602",
-    "1793682064398",
+    "1793682013398",
     "1793682283010",
     "1793682540817",
     "1793682590308",
@@ -25876,12 +25876,13 @@
     "1793684340967",
     "1793684529261",
     "1793684750624",
-    "1793685173459",
+    "1793685173597",
     "1793685770366",
     "1793686504047",
     "1793686686949",
     "1793687160540",
     "1793687652011",
+    "1793687940727",
     "1793688057244",
     "1793688189120",
     "1793688228976",
@@ -25906,20 +25907,16 @@
     "1793692740812",
     "1793692800152",
     "1793692800183",
-    "1793692992047",
     "1793693040249",
     "1793693411781",
-    "1793693460844",
     "1793693488875",
     "1793693894176",
     "1793694161715",
     "1793694216634",
     "1793694383458",
-    "1793695228934",
-    "1793695320676",
+    "1793695228468",
     "1793695573482",
     "1793695807814",
-    "1793695813112",
     "1793696284790",
     "1793697052640",
     "1793697366067",
@@ -25929,18 +25926,15 @@
     "1793699431739",
     "1793699640021",
     "1793699669475",
-    "1793700139914",
     "1793700884201",
     "1793701032789",
     "1793701318375",
     "1793701610338",
     "1793701610655",
     "1793701800067",
-    "1793701800355",
     "1793701800814",
     "1793701920191",
     "1793702242143",
-    "1793702242428",
     "1793702316265",
     "1793702861791",
     "1793703120357",
@@ -25966,6 +25960,7 @@
     "1793705700862",
     "1793706001510",
     "1793706197212",
+    "1793706720024",
     "1793707201670",
     "1793707860102",
     "1793707895031",
@@ -25986,34 +25981,39 @@
     "1793709953629",
     "1793710140172",
     "1793710435098",
-    "1793710482021",
     "1793710681302",
     "1793711251807",
     "1793711590866",
     "1793711831298",
+    "1793711836773",
     "1793711869958",
     "1793712060796",
     "1793712285064",
     "1793712315293",
     "1793712421014",
     "1793712770484",
-    "1793714081389",
+    "1793712780355",
+    "1793714081460",
+    "1793714160710",
     "1793714278383",
     "1793714400073",
     "1793714400116",
     "1793714400176",
     "1793714400318",
     "1793714400426",
-    "1793714858756",
+    "1793714400641",
+    "1793714858918",
     "1793714866105",
+    "1793715388540",
+    "1793715568561",
     "2331589",
     "2331704",
     "2331803",
     "2331935",
     "2331941"
   ],
-  "last_digest_hour": "2026-11-03T19",
-  "last_success": "2026-11-03T14:16:22.318703+00:00",
+  "last_digest_hour": "2026-11-03T20",
+  "last_success": "2026-11-03T14:31:39.766691+00:00",
   "national": {
     "alerted": [
       {
@@ -35966,10 +35966,9 @@
       },
       "warned": "2026-11-02T23:16:52.231385+00:00"
     },
-    "last_run": "2026-11-03T14:17:41.177193+00:00",
-    "pib_mark": 2332241,
+    "last_run": "2026-11-03T14:33:02.025939+00:00",
+    "pib_mark": 2332247,
     "seen": [
-      "gazette:CG-DL-E-14102026-277148",
       "gazette:CG-OR-E-14102026-277149",
       "gazette:CG-DL-E-14102026-277151",
       "gazette:CG-DL-E-14102026-277150",
@@ -38968,7 +38967,8 @@
       "mea:41928",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/fish_29oct26_539_e.htm",
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-takes-suo-motu-cognizance-of-the-reported-sale-and-trafficking-of-girl-children-from-border-districts-of-madhya-pradesh-and-rajasthan-to-cities-in-maharashtra",
-      "pib:2332241"
+      "pib:2332241",
+      "pib:2332247"
     ],
     "source_failures": {
       "CBI": {
@@ -39039,44 +39039,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic warns AI could outpace human control in successor development",
-      "post": {
-        "created_at": "2026-11-03T13:25:15+00:00",
-        "handle": "News: Global AI",
-        "id": "1793712315293",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Hindu",
-        "reposts": 0,
-        "text": "Anthropic warns AI could outpace human control in developing successor models",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUVFiODJmT0N6em5XTXBYck9PaEoyTHlEVnZ5Y01JbzM5Y3hiRTlnYkNva2pOOW5FZkJXbXktblVMYVVIQnNWaDF6S0k2cExWWTQzaFpkSGRNaDZ3UVloc3hwU29zeVdBVmM1ZmFRbnFUd0hIQ0MxN2YtVDQxRy01VGZoMURjS0JHWFpuZ1R4b01qVE9XM216OEc1SGJiWndkZGY0SWRxNnMxd09jVEVHRjRwcFhfOTBIMEhnb25Ya0lSRENCUmlCaEc1TFZsVmUwX2ZZdWVUMNIB3gFBVV95cUxOTzd6MDdQV21adkROOXhMT2tIaEJNV1ZxWnRuRGV5R1Y1VFJJUXY5ZHR2aWZEMDVoWGJ0b29LczI5R0c1ck8yRWtzWTNPT3lBbHVPN1BPeXdBMUxUdXhCQ3oyVVdLZVBHdjNTUmRuV1phaG1lQ08zcURQdlh6SWVPb2lKemNWWXVDRjl3N1U2UjFweDdkeVBSTzlmZ293X19jaHVsbnpFU2pRQ3lZZmxtYTZ2b1QwSVZuMG90QU1RQm5CMUdvNzlDcFJyejNCaHhaU25Rb0NSbXdWYlJ3c3c?oc=5"
-      },
-      "queued_at": "2026-11-03T13:46:09.743895+00:00",
-      "score": 8.0,
-      "why": "Major safety disclosure by an AI leader."
-    },
-    {
-      "headline": "Meta kicks off debt offering to fund AI investments",
-      "post": {
-        "created_at": "2026-11-03T13:25:51+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1793712351383",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bloomberg",
-        "reposts": 0,
-        "text": "Meta Kicks Off Debt Offering in Push to Fund AI Investments",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0x3bUYydl9CYlNVOHlNaVZrMFgxU29fQVo4Yko3SVZvUUxZVkJZOVZUenRyZkxIREoxdE50MUFoY2FlMHY1Tm1xRmNKOW1FQ1phSkdoc1d5dGV2ZlV1ejVPNUI4b0dWeTMtVWV6WEh4bFZIcnlTNG9SZ3pOSzhxaDJleFdYVnVTV2RSSVRsQ21SUktPd2Z1TmtGLVF0RjNrSTI4Z1BkR2Q0YjFaSkdv?oc=5"
-      },
-      "queued_at": "2026-11-03T13:46:09.743895+00:00",
-      "score": 8.0,
-      "why": "Major AI capital commitment by a top tech company."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40233,18 +40196,18 @@
     "microsoft india": 1793240992281,
     "mistral ai": 1793275207548,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793714278383,
+    "news: big tech platforms": 1793714400641,
     "news: consumer internet india": 1793705424006,
-    "news: global ai": 1793714858756,
+    "news: global ai": 1793714858918,
     "news: global chips": 1793714866105,
     "news: global it services": 1793693894176,
-    "news: india ai deeptech": 1793712770484,
+    "news: india ai deeptech": 1793715568561,
     "news: india edtech gaming": 1793704938751,
-    "news: india fintech": 1793709768847,
+    "news: india fintech": 1793715388540,
     "news: india semiconductors": 1793685173597,
     "news: india tech policy": 1793710052992,
     "news: india telecom": 1793712421014,
-    "news: indian it majors": 1793712285064,
+    "news: indian it majors": 1793715388540,
     "news: indian it midcaps": 1793711702963,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793714081460,
@@ -40274,7 +40237,9 @@
     "zoho": 1793644362641
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-03T14:31:15.266480+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40292,7 +40257,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-03T14:16:22.647775+00:00",
+    "last_server_run": "2026-11-03T14:31:40.284932+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-03T13:02:53.177274+00:00",
@@ -40302,7 +40267,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-03T12:32:10.653743+00:00",
+        "checked": "2026-11-03T14:32:20.664442+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40378,7 +40343,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-03T12:32:15.133222+00:00",
+        "checked": "2026-11-03T14:32:24.609483+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -40433,10 +40398,10 @@
       "last": {
         "calendar": "2026-11-03T10:03:53.872898+00:00",
         "ls_reports": "2026-11-03T14:02:28.231254+00:00",
-        "rs_committee_press": "2026-11-03T12:32:03.811327+00:00",
-        "rs_press": "2026-11-03T12:32:00.503196+00:00",
-        "rs_reports": "2026-11-03T12:31:57.675309+00:00",
-        "rs_updates": "2026-11-03T12:32:05.726846+00:00"
+        "rs_committee_press": "2026-11-03T14:32:14.809016+00:00",
+        "rs_press": "2026-11-03T14:32:11.318983+00:00",
+        "rs_reports": "2026-11-03T14:32:08.335193+00:00",
+        "rs_updates": "2026-11-03T14:32:16.367791+00:00"
       }
     },
     "scanned": [
@@ -49082,19 +49047,31 @@
           "strengthen",
           "union"
         ]
+      },
+      {
+        "at": "2026-11-03T14:34:51.691991+00:00",
+        "headline": "CBI arrests office assistant and accomplice in Rs. 10.24 Crore PNB fraud case",
+        "url": "https://x.com/CBIHeadquarters/status/2117624068619010327",
+        "words": [
+          "8ny4dmonyj",
+          "accomplice",
+          "arrests",
+          "assistant",
+          "case",
+          "cbi",
+          "fraud",
+          "greater",
+          "https",
+          "noida",
+          "office",
+          "pnb"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-03T14:17:53.783891+00:00",
+    "last_run": "2026-11-03T14:34:51.692207+00:00",
     "seen": [
-      "x:2114338298818908594",
-      "x:2114284231056937045",
-      "x:2114319480511926596",
-      "x:2114330669891645924",
-      "x:2114333033490997355",
-      "x:2114340715501383770",
-      "x:2114341785975885948",
       "x:2114342061587771667",
       "x:2114342976881332654",
       "x:2114344046277910754",
@@ -52087,7 +52064,14 @@
       "x:2117619381626917324",
       "x:2117619748095803628",
       "x:2117619972432380408",
-      "x:2117620217060929716"
+      "x:2117620217060929716",
+      "x:2117616886745812993",
+      "x:2117621569602109677",
+      "x:2117621913954738237",
+      "x:2117622209552539652",
+      "x:2117623031904477211",
+      "x:2117624068619010327",
+      "x:2117624399964811530"
     ],
     "source_failures": {},
     "sources": []
