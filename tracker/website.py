@@ -62,6 +62,11 @@ def _general(post):
     return float(value) if isinstance(value, (int, float)) else None
 
 
+def _event(post) -> str:
+    """The AI's few words on what the news is (judge.note_general), shown under the title."""
+    return _clean(getattr(post, "event", "") or "")[:120]
+
+
 def _auth() -> str:
     """GitHub's signed token on GitHub; the Mac's key at home; nothing otherwise."""
     url = os.environ.get("ACTIONS_ID_TOKEN_REQUEST_URL")
@@ -369,14 +374,14 @@ def official_item(post, score, headline: str = "", why: str = "") -> dict:
         return {"id": str(post.id), "grp": site["grp"], "source": site["source"], "sub": site["sub"],
                 "title": site["title"][:500], "body": site["body"][:1500], "url": post.url or "",
                 "score": None if score is None else float(score), "general": _general(post),
-                "headline": _clean(headline)[:300], "why": _clean(why)[:400]}
+                "headline": _clean(headline)[:300], "why": _clean(why)[:400], "event": _event(post)}
     source, sub = official_source(post)
     text = _title(post, source, sub)
     title, _, rest = text.partition(". ") if source in ("Gazette", "Earthquakes") else (text, "", "")
     return {"id": str(post.id), "grp": "official", "source": source, "sub": sub,
             "title": (title or text)[:500], "body": rest[:1500], "url": post.url or "",
             "score": None if score is None else float(score), "general": _general(post),
-            "headline": _clean(headline)[:300], "why": _clean(why)[:400]}
+            "headline": _clean(headline)[:300], "why": _clean(why)[:400], "event": _event(post)}
 
 
 def official_sources(cfg: dict, pib_ministries=()) -> list:
@@ -417,7 +422,7 @@ def tech_item(post, score, headline: str = "", why: str = "") -> dict | None:
     return {"id": "url:" + (post.url or str(post.id)), "grp": "tech", "source": handle, "sub": "",
             "title": title[:500], "body": rest[:1500], "url": post.url or "",
             "score": None if score is None else float(score), "general": _general(post),
-            "headline": _clean(headline)[:300], "why": _clean(why)[:400]}
+            "headline": _clean(headline)[:300], "why": _clean(why)[:400], "event": _event(post)}
 
 
 def regulator_item(post, score, headline: str = "", why: str = "") -> dict | None:

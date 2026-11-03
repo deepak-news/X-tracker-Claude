@@ -117,7 +117,8 @@ def to_site(judged: list, everything: list, dry_run: bool) -> None:
         return
     items = [{"id": post.id, "grp": "official", "source": "X", "sub": post.origin,
               "title": post.text.split(" on X: ", 1)[-1][:500], "body": "", "url": post.url,
-              "score": float(value), "headline": _clean(headline)[:300], "why": _clean(why)[:400]}
+              "score": float(value), "headline": _clean(headline)[:300], "why": _clean(why)[:400],
+              "event": _clean(getattr(post, "event", "") or "")[:120]}
              for post, value, headline, why in judged]
     accounts = sorted({p.origin for p in everything})
     website.send("x", items, view="national", sources=[("official", "X", accounts)], dry_run=dry_run)

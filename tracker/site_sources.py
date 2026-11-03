@@ -657,16 +657,16 @@ def _screen(items: list, dry_run: bool) -> list:
         print(f"  ! the AI could not judge them ({str(exc)[:160]}); they wait for the next run")
         return first
     held = {p.id for p in unscreened}
-    scored = {p.id: (score, headline, why, getattr(p, "general", None)) for p, score, headline, why in judged}
+    scored = {p.id: (score, headline, why, getattr(p, "general", None), getattr(p, "event", "")) for p, score, headline, why in judged}
     out = list(first)
     for it in batch:
         if it["id"] in held:
             continue
-        score, headline, why, general = scored.get(it["id"], (None, "", "", None))
+        score, headline, why, general, event = scored.get(it["id"], (None, "", "", None, ""))
         if general is not None and "general_max" in it:
             general = min(general, it["general_max"])
         out.append({**it, "score": None if score is None else float(score), "general": general,
-                    "headline": _clean(headline)[:300], "why": _clean(why)[:400]})
+                    "headline": _clean(headline)[:300], "why": _clean(why)[:400], "event": _clean(event or "")[:120]})
     return out
 
 
@@ -714,7 +714,8 @@ def fill_general(dry_run: bool) -> None:
             it = batch[idx]
             out.append({"id": it["id"], "grp": it["grp"], "source": it["source"], "sub": it.get("sub", ""),
                         "title": it["title"], "score": value,
-                        "headline": _clean(entry.get("headline"))[:300], "why": _clean(entry.get("why"))[:400]})
+                        "headline": _clean(entry.get("headline"))[:300], "why": _clean(entry.get("why"))[:400],
+                        "event": _clean(entry.get("event"))[:120]})
     save_state(state)
     if out:
         # the general desk's view is the national desk's (its head of social media)

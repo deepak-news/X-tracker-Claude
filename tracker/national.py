@@ -794,8 +794,16 @@ For each item write a "headline": at most 14 words, plain English, saying
 what actually happened, the way it could open a social media post. No
 jargon, no reference numbers.
 
+For each item also write an "event": the news event in 3 to 10 words, who
+and then what kind of event, e.g. "Indogulf Cropsciences Q2 results",
+"Amit Shah on Cyclone Murasu relief", "Delhi HC order on collegium plea".
+Keep a figure only when it is the event itself (a 6.1 quake, Rs 583 crore
+orders, GST cut to 5 per cent), copied exactly from the item; leave out
+figures that describe how it went (profit up 24 per cent). No judging words
+(strong, major, big, record), nothing that is not in the item.
+
 Return ONLY a JSON array, one object per item, same order:
-[{{"i": <item number>, "score": <0-10>, "headline": "<max 14 words>", "why": "<one sentence on why the public would care>", "dupe_of": <item number or null>, "seen_before": <true or false>}}]
+[{{"i": <item number>, "score": <0-10>, "headline": "<max 14 words>", "event": "<3-10 words>", "why": "<one sentence on why the public would care>", "dupe_of": <item number or null>, "seen_before": <true or false>}}]
 
 ITEMS:
 {items}
@@ -832,8 +840,16 @@ For each item write a "headline": at most 14 words, plain English, saying
 what actually happened, the way a wire story would open. No jargon, no
 reference numbers.
 
+For each item also write an "event": the news event in 3 to 10 words, who
+and then what kind of event, e.g. "Indogulf Cropsciences Q2 results",
+"Amit Shah on Cyclone Murasu relief", "Delhi HC order on collegium plea".
+Keep a figure only when it is the event itself (a 6.1 quake, Rs 583 crore
+orders, GST cut to 5 per cent), copied exactly from the item; leave out
+figures that describe how it went (profit up 24 per cent). No judging words
+(strong, major, big, record), nothing that is not in the item.
+
 Return ONLY a JSON array, one object per item, same order:
-[{{"i": <item number>, "score": <0-10>, "headline": "<max 14 words>", "why": "<one sentence on why the bureau would care>", "dupe_of": <item number or null>, "seen_before": <true or false>}}]
+[{{"i": <item number>, "score": <0-10>, "headline": "<max 14 words>", "event": "<3-10 words>", "why": "<one sentence on why the bureau would care>", "dupe_of": <item number or null>, "seen_before": <true or false>}}]
 
 ITEMS:
 {items}

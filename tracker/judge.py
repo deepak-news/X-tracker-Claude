@@ -148,8 +148,16 @@ Score each post 0-10 for whether it needs a wire alert.
   authoritative one its real score and set "dupe_of" to that post's number on
   all the others.
 
+For each post also write an "event": the news event in 3 to 10 words, who
+and then what kind of event, e.g. "Indogulf Cropsciences Q2 results",
+"Amit Shah on Cyclone Murasu relief", "Delhi HC order on collegium plea".
+Keep a figure only when it is the event itself (a 6.1 quake, Rs 583 crore
+orders, GST cut to 5 per cent), copied exactly from the post; leave out
+figures that describe how it went (profit up 24 per cent). No judging words
+(strong, major, big, record), nothing that is not in the post.
+
 Return ONLY a JSON array, one object per post, same order:
-[{{"i": <post number>, "score": <0-10>, "headline": "<max 12 words, what actually happened>", "why": "<one short sentence>", "dupe_of": <post number or null>, "seen_before": <true or false>}}]
+[{{"i": <post number>, "score": <0-10>, "headline": "<max 12 words, what actually happened>", "event": "<3-10 words>", "why": "<one short sentence>", "dupe_of": <post number or null>, "seen_before": <true or false>}}]
 
 POSTS:
 {posts}
@@ -233,7 +241,11 @@ def with_general(prompt: str) -> str:
 
 def note_general(post, entry) -> None:
     """Keeps the general desk's score on the post, for the website (website.py); never above
-    the entry's own (beat) score."""
+    the entry's own (beat) score. Also the AI's "event" (what the news is, in a few words),
+    which the website shows under each title (Nov 3)."""
+    event = entry.get("event") if isinstance(entry, dict) else None
+    if isinstance(event, str) and event.strip():
+        post.event = event.strip()
     try:
         value = float(entry.get("general"))
     except (TypeError, ValueError, AttributeError):
@@ -261,8 +273,16 @@ A list entry with only a title is judged on what the title says.
 For each item write a "headline": at most 14 words, plain English, saying
 what actually happened. No reference numbers.
 
+For each item also write an "event": the news event in 3 to 10 words, who
+and then what kind of event, e.g. "Indogulf Cropsciences Q2 results",
+"Amit Shah on Cyclone Murasu relief", "Delhi HC order on collegium plea".
+Keep a figure only when it is the event itself (a 6.1 quake, Rs 583 crore
+orders, GST cut to 5 per cent), copied exactly from the item; leave out
+figures that describe how it went (profit up 24 per cent). No judging words
+(strong, major, big, record), nothing that is not in the item.
+
 Return ONLY a JSON array, one object per item, same order:
-[{{"i": <item number>, "general": <0-10>, "headline": "<max 14 words>", "why": "<one sentence on why the general desk would care>"}}]
+[{{"i": <item number>, "general": <0-10>, "headline": "<max 14 words>", "event": "<3-10 words>", "why": "<one sentence on why the general desk would care>"}}]
 
 ITEMS:
 {items}
