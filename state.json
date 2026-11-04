@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-27T18:32:31.317502+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic warns of severe AI safety risks in pre-IPO filings",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUzE2SVZvcG43VU1JdzgtczJtQmRHZjRkSFZ6UHB0NEJQUW5pNFJHWDB2WF9Pc2o5d05lXzlab01vVUpPemFHbDAzSlpTOGZtNXA4UWZIWlVhbzBJZ1lKR0RzLUlqa3RZTV9KT2hWUHpqZEdQRnduU21fSmwzTG1BMUowZVRBNTdUOVc1WGkxWDFFNEc1dDJrNjRzQy1aelRnUVkwZExfdHN1ZTJCcFHSAbYBQVVfeXFMUGdjSU4xUzlmQjVEdzJQUnlhNDItczVpdmY4TTJodTV4VFBWZWpmRnhVT3lSam55bDZrNkppUmx5XzczNmJKUWw0N1hXZ1VhV19PMng0bE5oZEZmNENVYWxRSkF6blJLTkl5WkdELWJEbDk4QlFqcjlObE4xUVJJc1FyOHVXaXVPMkVzWVB5S2N0SUh0YjMyODJvcXNDNm4zb1JTd195aGNJRVJxSXZSRllTRE1WNEE?oc=5",
-      "words": [
-        "anthropic",
-        "bioweapons",
-        "blackmail",
-        "humanity",
-        "ipo",
-        "pre",
-        "risks",
-        "warning"
-      ]
-    },
-    {
-      "at": "2026-10-27T18:32:31.317502+00:00",
       "handle": "News: India fintech",
       "headline": "PhonePe CEO Sameer Nigam says 600 million users left to acquire on UPI",
       "tier": 0,
@@ -7379,6 +7362,23 @@
         "smartphone",
         "strength",
         "upbeat"
+      ]
+    },
+    {
+      "at": "2026-11-04T23:31:19.089857+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio Platforms shares soar after India's largest-ever IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVZvSjFSblExVkxhUmRybmR6N19xb3BuWlRtRF9ISXBXT3ZMd2tQY2V0SUFiQnRXdURIcEJsVlZiNGszc01GRHVvaTZHTkZURE1lZEJ0cEE4SldwNlpnTzg5QldCQWlqYjlyRDNKalF4VV83dTZ1VkEwR3h4Y09nR1E5a2J6b2JPY1lTamRuZzl5OXdSdk1JUXVSblRWMlEtYlpaZGhBcVc1Q3RHOUZhbDliWFg?oc=5",
+      "words": [
+        "ever",
+        "initial",
+        "jio",
+        "largest",
+        "offering",
+        "platforms",
+        "public",
+        "soar"
       ]
     }
   ],
@@ -16978,7 +16978,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-04T23:17:09.568458+00:00",
+    "last_run": "2026-11-04T23:33:04.399300+00:00",
     "pib_mark": 2332827,
     "seen": [
       "pib:2323811",
@@ -24508,7 +24508,6 @@
     "1793743140095",
     "1793763415312",
     "1793790120810",
-    "1793791708904",
     "1793797654658",
     "1793805420097",
     "1793811095076",
@@ -24527,9 +24526,6 @@
     "1793816280524",
     "1793820676292",
     "1793826096053",
-    "1793232000741",
-    "1793232000937",
-    "1793750400772",
     "1793794236861",
     "1793815957229",
     "1793818807034",
@@ -24537,13 +24533,17 @@
     "1793826621334",
     "1793828855204",
     "1793759806765",
-    "1793772554134",
-    "1793772873639",
-    "1793773424758",
     "1793790158677",
     "1793805113170",
     "1793827020293",
     "1793828240985",
+    "1792069460883",
+    "1792153634850",
+    "1792156379593",
+    "1793788380358",
+    "1793788941667",
+    "1793804145970",
+    "1793817580194",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25468,7 +25468,6 @@
     "1792062000898",
     "1792065600782",
     "1792069168636",
-    "1792069460883",
     "1792073758342",
     "1792080483451",
     "1792085476577",
@@ -25477,8 +25476,6 @@
     "1792108800897",
     "1792117873305",
     "1792141778525",
-    "1792153634850",
-    "1792156379593",
     "1792156871747",
     "1792177200590",
     "1792347345536",
@@ -25663,7 +25660,9 @@
     "1793219954177",
     "1793221200206",
     "1793229351470",
+    "1793232000741",
     "1793232000882",
+    "1793232000937",
     "1793240992281",
     "1793250957275",
     "1793257200328",
@@ -25794,6 +25793,7 @@
     "1793749843516",
     "1793750400038",
     "1793750400397",
+    "1793750400772",
     "1793752200050",
     "1793752228570",
     "1793753500701",
@@ -25832,7 +25832,10 @@
     "1793772012551",
     "1793772388433",
     "1793772540991",
+    "1793772554134",
     "1793772737651",
+    "1793772873639",
+    "1793773424758",
     "1793773886273",
     "1793774141893",
     "1793775478092",
@@ -25884,13 +25887,11 @@
     "1793788193121",
     "1793788233818",
     "1793788233929",
-    "1793788380358",
     "1793788489039",
     "1793788502782",
     "1793788589369",
     "1793788590301",
     "1793788590481",
-    "1793788941667",
     "1793789001323",
     "1793789133034",
     "1793789451807",
@@ -25900,6 +25901,7 @@
     "1793790238939",
     "1793790655075",
     "1793791320556",
+    "1793791708904",
     "1793792007515",
     "1793792024038",
     "1793792723975",
@@ -25960,7 +25962,6 @@
     "1793803537408",
     "1793803561465",
     "1793804054824",
-    "1793804145970",
     "1793804497421",
     "1793804678756",
     "1793804856151",
@@ -25994,7 +25995,6 @@
     "1793816760855",
     "1793816882065",
     "1793816940082",
-    "1793817580194",
     "1793817978779",
     "1793818946963",
     "1793819340954",
@@ -26041,8 +26041,8 @@
     "2332607",
     "2332613"
   ],
-  "last_digest_hour": "2026-11-05T04",
-  "last_success": "2026-11-04T23:16:08.221978+00:00",
+  "last_digest_hour": "2026-11-05T05",
+  "last_success": "2026-11-04T23:31:19.091061+00:00",
   "national": {
     "alerted": [
       {
@@ -36070,13 +36070,12 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-04T23:16:56.397525+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
-      "warned": "2026-11-03T23:32:17.574389+00:00"
+      "warned": "2026-11-04T23:32:44.622861+00:00"
     },
-    "last_run": "2026-11-04T23:16:57.703551+00:00",
+    "last_run": "2026-11-04T23:32:47.438474+00:00",
     "pib_mark": 2332827,
     "seen": [
       "pib:2324307",
@@ -38527,10 +38526,10 @@
       "pib:2332827",
       "site:ICC|https://www.icc-cricket.com/media-releases/starc-back-as-no-1-in-icc-men-s-test-bowling-rankings",
       "watch:meeting:LS|22624",
+      "site:ICC|https://www.icc-cricket.com/media-releases/record-global-audience-and-93-8m-impact-cap-landmark-women-s-t20-world-cup",
       "npci:623",
       "npci:624",
       "npci:629",
-      "site:ICC|https://www.icc-cricket.com/media-releases/record-global-audience-and-93-8m-impact-cap-landmark-women-s-t20-world-cup",
       "cci-merger:C-2026/10/1480|Deemed Approved (Section 6(5))",
       "cci-merger:C-2026/08/1458|Approved",
       "cci-merger:C-2026/08/1455|Approved",
@@ -39085,9 +39084,6 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "NPCI": {
-        "count": 1
-      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -39152,26 +39148,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Jio Platforms shares soar after India's largest-ever IPO",
-      "post": {
-        "created_at": "2026-11-04T21:59:51+00:00",
-        "handle": "News: India telecom",
-        "id": "1793829591064",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "WSJ",
-        "reposts": 0,
-        "text": "Jio Platforms Soar After India\u2019s Largest-Ever Initial Public Offering",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVZvSjFSblExVkxhUmRybmR6N19xb3BuWlRtRF9ISXBXT3ZMd2tQY2V0SUFiQnRXdURIcEJsVlZiNGszc01GRHVvaTZHTkZURE1lZEJ0cEE4SldwNlpnTzg5QldCQWlqYjlyRDNKalF4VV83dTZ1VkEwR3h4Y09nR1E5a2J6b2JPY1lTamRuZzl5OXdSdk1JUXVSblRWMlEtYlpaZGhBcVc1Q3RHOUZhbDliWFg?oc=5"
-      },
-      "queued_at": "2026-11-04T23:16:08.070158+00:00",
-      "score": 8.0,
-      "why": "Major IPO listing milestone for India's largest telecom and digital platform."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40371,9 +40348,7 @@
     "zoho": 1793786400148
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-04T23:01:45.683273+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40391,7 +40366,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-04T23:16:08.660926+00:00",
+    "last_server_run": "2026-11-04T23:31:19.483894+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-04T21:32:02.810612+00:00",
@@ -49840,9 +49815,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-04T23:17:00.776683+00:00",
+    "last_run": "2026-11-04T23:32:53.456739+00:00",
     "seen": [
-      "x:2115091817083625830",
       "x:2115093279238930642",
       "x:2115096190576710138",
       "x:2115096357581262865",
@@ -52841,7 +52815,8 @@
       "x:2118039247055978633",
       "x:2118056084846022740",
       "x:2118069457444827503",
-      "x:2118112753483481486"
+      "x:2118112753483481486",
+      "x:2118122527709122639"
     ],
     "source_failures": {},
     "sources": []
