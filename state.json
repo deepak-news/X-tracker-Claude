@@ -1,64 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-27T06:31:35.138613+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Sarvam to build AI framework for Indian Armed Forces",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOHEwMjZKYVpsdG9SQnQtTmNvR180R3NjakVRVTRGamlZXzZFSzV5cDNTNmhXV2NOaHV6eUQ2blpUS2NZanpKd0ZIWDBaQmlZOHMxMEx4WnNNc0pqOWZMeGVfNEJXa0V5eWFrU0dpVDBLT3NNb2hFRlF2VjdsQTB1Vng3U3gtUHpmSjlxWTZWNVBTU0N6UG9sT2xLNkdReEhSUHNfc0pMWHhnbHhlelR2LW11TC1GNnl1XzdqUGRTdF8zbE9vWEhuTG5oZUN5OHAzWVhOTm9tVE1fZ9IB3wFBVV95cUxNTl9EX3EyZ1ZDeGxFaDlMZUVZRDZNbXpqSm1BejVHYk4zRTQtZHd1WkFlbmhJY2Z1SXpnc25tYnk5TjVuR3FPYnhGQV9OallLRnpxdVVGc3l0eTBER1J6QUtKcldocG9xdUhRTS0tUVA5MVRkTEdVMkh5Zi11V01RdFMza2tZelVING9BTkNZT19yekJBZVREaXpHQnpvd3lMZlNmSTNnTjBONC1hb3g4MUhBMEVJLTlWMGgwRXA0RjNrM2Y4Y1ZScE1jZU43dkJEOThZZkExRGhoeXJwNlRR?oc=5",
-      "words": [
-        "air",
-        "army",
-        "build",
-        "force",
-        "framework",
-        "ids",
-        "navy",
-        "sarvam",
-        "under"
-      ]
-    },
-    {
-      "at": "2026-10-27T06:31:35.138613+00:00",
-      "handle": "News: India fintech",
-      "headline": "PFRDA defers revised NPS charges to December 1",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVE51aFl5cWdXSENPdVF1ME9JM0VORWxaMVZRQUNJb3VJcGNOSTBwdDd5WElseEtGdm9sWmlBc2tTcjlGQ1JPZk9ScXBTb21KQWJpbWlKWmFKV0NYUktZMVdyYzNZMTVBb2Y4Q2ZKaDJ5R3hLSFNzSE1LNUpXMXNManF1cDR1Z19qaklGR3hCZXRnWkJUa0hjQXNXbHZCakV2Rm1QZFAzeVg2clZobnlLaU1hM3phQjFwaE96MDQ4TEFNdEdwM2RqYXVZSDRVLU9JNUNCdXF5UEc2cGJLOVRiZzlta2RtNUpKT3d4RktYalFlSXEtNUk2VnR1UXlzZG_SAf8BQVVfeXFMTlROdWhZeXFnV0hDT3VRdTBPSTNFTkVsWjFWUUFDSW91SXBjTkkwcHQ3eVhJbHhLRnZvbFppQXNrU3I5RkNST2ZPUnFwU29tSkFiaW1pSlphSldDWFJLWTFXcmMzWTE1QW9mOENmSmgyeUd4S0hTc0hNSzVKVzFzTGpxdXA0dWdfampJRkd4QmV0Z1pCVGtIY0FzV2x2QmpFdkZtUGRQM3lYNnJWaG55S2lNYTN6YUIxcGhPejA0OExBTXRHcDNkamF1WUg0VS1PSTVDQnVxeVBHNnBiSzlUYmc5bWtkbTVKSk93eEZLWGpRZUlxLTVJNlZ0dVF5c2Rv?oc=5",
-      "words": [
-        "account",
-        "charges",
-        "december",
-        "defers",
-        "digital",
-        "facility",
-        "launches",
-        "nps",
-        "opening",
-        "pfrda",
-        "phonepe",
-        "revised"
-      ]
-    },
-    {
-      "at": "2026-10-27T07:31:22.646385+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Sarvam signs pact with Defence Ministry for Tri-Service AI initiatives",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRW9laU9uaG5xTzVzQ3k0Ty1WMEthWDR1U0E0VFJVbzZzSEpUVGdHUTdiVmN5NGp1bEdKdmJhTGx0QkMtaEIwbm0taHdJa25QRkJwRWFOaDZKbzd1SUpDc0tMQTlQZ2VZOEpNTklPWkVKQU9ZVWozbHpDZmNQOVR0WmVlVXJnUW5kRmx5Vmt3SVhJNUFnSTJUY0FPajMwanVSMFdfM2p0OGZvaXQ1SXVkbWc5TU1hRURW0gHAAUFVX3lxTFBKeEVkc05nYk9IUHBSdjRIbkNTOTVVUU1JV0RRMXdJZEJaUFh6THFBbEZUVlFFampmOGVlQm9Pb294UGFOOXJqSFptd0tlOUtUMzdDMEx0NDBkSFdKb3Atemw5VnRkLUdERDNCZDB2dFZjaUtzbjgwQXVWVEdZZWJROXp1M3RtTDRhNUl1QnMzQm1ZYkEzOGs3cVkteG9vUVoxOXJOOXhBeTRXbHNLaEFneEN3NFRPaXRoNllZdmI3ag?oc=5",
-      "words": [
-        "arm",
-        "defence",
-        "firm",
-        "initiatives",
-        "ministry",
-        "pact",
-        "sarvam",
-        "service",
-        "sign",
-        "tri"
-      ]
-    },
-    {
       "at": "2026-10-27T07:31:22.646385+00:00",
       "handle": "News: India fintech",
       "headline": "Paytm reports continued profitability with sharp quarterly profit jump",
@@ -7413,6 +7355,57 @@
         "model",
         "mythos",
         "secures"
+      ]
+    },
+    {
+      "at": "2026-11-04T04:32:07.094473+00:00",
+      "handle": "News: India tech policy",
+      "headline": "MeitY weighs sector-specific approach for upcoming AI consultation paper",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeW5nOWdGUGJDVnZuLUQ4VXU1OXZvS2FBeFNtQlpyamFmNHItWURkcXF3QW1kYnF0UGNiYTVMMjd2bTRLLU9nLVdneUMySkhUTHNlZkp5d2tDY2tkY1JSZXBmWjRfeGp1eTd6bThBYktSWDJrS050UF9jclhSUTRBQ19kRUhZVF9QUEdmc2VXNGN3S1RtZ1ZSRHRFOGNkYVF0UWd3ek9POC1mUHl4MU5MUENxem1qQk12bnVTcHI2QnNUbEdVaTRYLWZDS2d4dDTSAdQBQVVfeXFMTlNJSmRxQkNWbkVmTEJ6bjQ5ZndoOHItUmE2SW5rbkFaVGZzYm5zRkhKWkhCTW1HUmotV29VcENpenpjRHlvcmdnN0xwSGgyb0Z3WXAtXzV0dUQzZTk4WDBocndVQU5BYmdNYWljWGFjRkVwTllfNkFpcEs0ZWk5VXg4Tkh4T1F1bnh1ZkRsWUliTU95RHo0V1ViZ3dGN2l5OXZCUTc5RG9fYjN4VkFqSmsyRWhKLU1FcU8yVHB0aVJiZmNybHpEZENIV09kWEJSVGthcWE?oc=5",
+      "words": [
+        "approach",
+        "business",
+        "consultation",
+        "meity",
+        "news",
+        "paper",
+        "readies",
+        "sector",
+        "specific",
+        "weighs"
+      ]
+    },
+    {
+      "at": "2026-11-04T04:32:07.094473+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic introduces FlashProve tool to verify AI models",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZnZKOFFkX2YtTGlCSG8zVm9BY1M4VG53dUgtOVpnYkZrSUN2TXJCZy16UW80MlFHWDIxcU0yUEJWQ2dXV3NlMHVRRm12YWtZUERkQjJmOG5uZElkQ29INHlkRzh1MmtuMVAxR3BkbXFMVmJFWmJhTzJuTWdIVmFKV1g0eXJFMmFzZzNTcmFxcXF0Uk82MlFNb2wxM19WQjV1OEp1b2s0NkJoZF9DOHBldUhQSmVoY1JMNUJYZGJrR2ZVQkZ1UUNQNE1RTUhITm1maWFsTFVNcnnSAd4BQVVfeXFMT3Juamh3NFk0VkVVUk8tZTV3bGg1YW9PcnU3azBBYmVIcUVRSlBTVmVvZVp5blBPUkNmdi1EWm9ya0VkREFlQzN6UjRoWjUyQjR1NUNRUTBmVXh6NVp5RXVuLW1uaWEtLUNidUxBMzQtZzlwcHJfcFNFakJSUENDbFRxOU5qcGlIeDNOc2RtTnlxUi10Z0Q5RHlEVVRYQWtPNk83azdOcU9qNWtaVDFXbjE5QkZWdUlPMThpbzh6aFZLQkkzVW9ZcTZ6NU9DZjVQX3J0Y0lIV2syTU9EVFBB?oc=5",
+      "words": [
+        "anthropic",
+        "flashprove",
+        "introduces",
+        "models",
+        "open",
+        "source",
+        "tool",
+        "verify"
+      ]
+    },
+    {
+      "at": "2026-11-04T04:32:07.094473+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Fractal Analytics reports Q2 results with strong profit growth",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXM5LWVFc1NSMURySDJJbkRpaWZITXl4MXNVZ2RUdmVVN0hFb2hhNng4VXhJOE0ybkRyczNpRDhFNEN0UmdmWmJRellvUXFqV3JzT3hGajRGdEprMGItS1IwQ0pXYy05eDVKeU5nbDdybmM2NDQzY2hjQWJDZTg0dGNxUEpBaHgzY2tWQnJMOGt2NWhDNjA3N1ZBMHNENWM2dUxON2RrR285VG5EdEptaHQ0MNIBuwFBVV95cUxNZTRsV0dqTWRQT3AxRFR5SnhtczZlNEMyVE5jVTlpaXB5N0UzVHpyaF9zZk1iYVp2LUVSb0t1S1B2ZmZrWUxvMHAzTElKdXJNZ2FZelNOanFpb1FvVTc2WkY4WEdCSk1BMGYzMThSTUd3MkdvQllnTzB3cjdia1FJUzREalFfSTZWeW51bHNhaEdLSU9ocEVicE1JMHZHaHdnRzRBdkNCaW1laHNGS2NwbHJUU2hxUDRONktF?oc=5",
+      "words": [
+        "analytics",
+        "fractal",
+        "more",
+        "soars",
+        "than",
+        "zooms"
       ]
     }
   ],
@@ -16960,7 +16953,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-04T04:17:05.358777+00:00",
+    "last_run": "2026-11-04T04:33:08.889748+00:00",
     "pib_mark": 2332335,
     "seen": [
       "pib:2323442",
@@ -20022,13 +20015,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1793182646147",
-    "1793191933595",
-    "1792018860784",
-    "1792440900848",
-    "1793109316699",
-    "1793167977355",
-    "1793168088296",
     "1793174400892",
     "1793178109148",
     "1793181942007",
@@ -24514,27 +24500,44 @@
     "1793678235656",
     "1793678512475",
     "1793684100624",
-    "1793685173459",
     "1793689720953",
-    "1793690270038",
     "1793695228468",
-    "1793695573482",
     "1793701980821",
-    "1793709752899",
     "1793717555036",
-    "1793725428186",
-    "1793735458297",
     "1793740814765",
     "1793741460160",
     "1793742300153",
     "1793757503918",
     "1793679105872",
     "1793690517963",
-    "1793709251071",
     "1793714400998",
-    "1793726684246",
     "1793744494846",
     "1793749355823",
+    "1793232000741",
+    "1793232000937",
+    "1793683552256",
+    "1793685173597",
+    "1793688856166",
+    "1793701800814",
+    "1793701920191",
+    "1793701980211",
+    "1793701980295",
+    "1793701980669",
+    "1793706960073",
+    "1793709251555",
+    "1793709752271",
+    "1793711345273",
+    "1793714550321",
+    "1793723950084",
+    "1793725463823",
+    "1793729386522",
+    "1793729640032",
+    "1793732264865",
+    "1793735400699",
+    "1793735458644",
+    "1793739762349",
+    "1793742279655",
+    "1793748866449",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25674,9 +25677,7 @@
     "1793219954177",
     "1793221200206",
     "1793229351470",
-    "1793232000741",
     "1793232000882",
-    "1793232000937",
     "1793240992281",
     "1793244600934",
     "1793250957275",
@@ -25794,19 +25795,17 @@
     "1793682013398",
     "1793682283010",
     "1793682733855",
-    "1793683552256",
     "1793684167288",
     "1793684308680",
     "1793684340967",
     "1793684750624",
-    "1793685173597",
+    "1793685173459",
     "1793686686949",
     "1793687652011",
     "1793688057244",
     "1793688189812",
     "1793688228976",
     "1793688660060",
-    "1793688856166",
     "1793688901650",
     "1793689212725",
     "1793689433767",
@@ -25815,6 +25814,7 @@
     "1793690021257",
     "1793690029212",
     "1793690076944",
+    "1793690270038",
     "1793690623635",
     "1793690978446",
     "1793691006237",
@@ -25831,6 +25831,7 @@
     "1793694161715",
     "1793694483154",
     "1793695228934",
+    "1793695573482",
     "1793695807814",
     "1793696284790",
     "1793697366067",
@@ -25841,11 +25842,6 @@
     "1793701032789",
     "1793701318375",
     "1793701610655",
-    "1793701800814",
-    "1793701920191",
-    "1793701980211",
-    "1793701980295",
-    "1793701980669",
     "1793703741237",
     "1793703863004",
     "1793704476274",
@@ -25860,20 +25856,18 @@
     "1793705424006",
     "1793705700862",
     "1793706001510",
-    "1793706960073",
     "1793707200059",
     "1793707895031",
     "1793707921861",
     "1793708154642",
     "1793709003927",
-    "1793709251555",
+    "1793709251071",
     "1793709452713",
-    "1793709752271",
+    "1793709752899",
     "1793709768847",
     "1793709953629",
     "1793710435098",
     "1793710482432",
-    "1793711345273",
     "1793711869958",
     "1793712285064",
     "1793712603093",
@@ -25884,7 +25878,6 @@
     "1793714400176",
     "1793714400318",
     "1793714400426",
-    "1793714550321",
     "1793715388540",
     "1793715568561",
     "1793715880430",
@@ -25909,20 +25902,18 @@
     "1793722830516",
     "1793722845660",
     "1793722975825",
-    "1793723950084",
     "1793724457724",
     "1793725309117",
-    "1793725463823",
+    "1793725428186",
     "1793725531164",
     "1793725786316",
     "1793725930723",
     "1793726376532",
+    "1793726684246",
     "1793726860088",
     "1793729048250",
     "1793729100212",
-    "1793729386522",
     "1793729400355",
-    "1793729640032",
     "1793729880215",
     "1793730298690",
     "1793730458063",
@@ -25931,21 +25922,17 @@
     "1793731781212",
     "1793732134658",
     "1793732160823",
-    "1793732264865",
     "1793733960417",
     "1793734680007",
-    "1793735400699",
-    "1793735458644",
+    "1793735458297",
     "1793736060738",
     "1793736641499",
     "1793739058795",
     "1793739600531",
-    "1793739762349",
     "1793739840764",
     "1793740169200",
     "1793740500542",
     "1793741235383",
-    "1793742279655",
     "1793743140095",
     "1793743184688",
     "1793743315224",
@@ -25961,11 +25948,11 @@
     "1793747166367",
     "1793747435993",
     "1793748607474",
-    "1793748866449",
     "1793749116263",
     "1793749195606",
     "1793749781222",
     "1793749843516",
+    "1793751075522",
     "1793752200050",
     "1793752200592",
     "1793752200897",
@@ -25999,12 +25986,15 @@
     "1793760621640",
     "1793760719872",
     "1793760910521",
+    "1793760956776",
     "1793761194098",
     "1793761236234",
     "1793761410514",
+    "1793761417869",
     "1793761442972",
     "1793761446757",
     "1793761934734",
+    "1793761966880",
     "1793762040307",
     "1793762181961",
     "1793762482901",
@@ -26015,6 +26005,9 @@
     "1793763873235",
     "1793764600361",
     "1793765276067",
+    "1793765786799",
+    "1793765872120",
+    "1793766442566",
     "2331589",
     "2331704",
     "2331803",
@@ -26023,8 +26016,8 @@
     "2332312",
     "2332315"
   ],
-  "last_digest_hour": "2026-11-04T09",
-  "last_success": "2026-11-04T04:16:08.805989+00:00",
+  "last_digest_hour": "2026-11-04T10",
+  "last_success": "2026-11-04T04:32:07.151274+00:00",
   "national": {
     "alerted": [
       {
@@ -36000,7 +35993,7 @@
       },
       "warned": "2026-11-03T23:32:17.574389+00:00"
     },
-    "last_run": "2026-11-04T04:16:54.323780+00:00",
+    "last_run": "2026-11-04T04:32:55.562209+00:00",
     "pib_mark": 2332335,
     "seen": [
       "pib:2323872",
@@ -39073,44 +39066,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "MeitY weighs sector-specific approach for upcoming AI consultation paper",
-      "post": {
-        "created_at": "2026-11-04T03:37:58+00:00",
-        "handle": "News: India tech policy",
-        "id": "1793763478423",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Hindustan Times",
-        "reposts": 0,
-        "text": "As it readies AI consultation paper, MeitY weighs sector-specific approach | Business News",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeW5nOWdGUGJDVnZuLUQ4VXU1OXZvS2FBeFNtQlpyamFmNHItWURkcXF3QW1kYnF0UGNiYTVMMjd2bTRLLU9nLVdneUMySkhUTHNlZkp5d2tDY2tkY1JSZXBmWjRfeGp1eTd6bThBYktSWDJrS050UF9jclhSUTRBQ19kRUhZVF9QUEdmc2VXNGN3S1RtZ1ZSRHRFOGNkYVF0UWd3ek9POC1mUHl4MU5MUENxem1qQk12bnVTcHI2QnNUbEdVaTRYLWZDS2d4dDTSAdQBQVVfeXFMTlNJSmRxQkNWbkVmTEJ6bjQ5ZndoOHItUmE2SW5rbkFaVGZzYm5zRkhKWkhCTW1HUmotV29VcENpenpjRHlvcmdnN0xwSGgyb0Z3WXAtXzV0dUQzZTk4WDBocndVQU5BYmdNYWljWGFjRkVwTllfNkFpcEs0ZWk5VXg4Tkh4T1F1bnh1ZkRsWUliTU95RHo0V1ViZ3dGN2l5OXZCUTc5RG9fYjN4VkFqSmsyRWhKLU1FcU8yVHB0aVJiZmNybHpEZENIV09kWEJSVGthcWE?oc=5"
-      },
-      "queued_at": "2026-11-04T03:46:08.189468+00:00",
-      "score": 7.0,
-      "why": "Official government policy move on artificial intelligence regulation in India."
-    },
-    {
-      "headline": "Anthropic introduces FlashProve tool to verify AI models",
-      "post": {
-        "created_at": "2026-11-04T03:40:40+00:00",
-        "handle": "News: Global AI",
-        "id": "1793763640238",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Anthropic introduces FlashProve, a new open-source tool to verify AI models",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZnZKOFFkX2YtTGlCSG8zVm9BY1M4VG53dUgtOVpnYkZrSUN2TXJCZy16UW80MlFHWDIxcU0yUEJWQ2dXV3NlMHVRRm12YWtZUERkQjJmOG5uZElkQ29INHlkRzh1MmtuMVAxR3BkbXFMVmJFWmJhTzJuTWdIVmFKV1g0eXJFMmFzZzNTcmFxcXF0Uk82MlFNb2wxM19WQjV1OEp1b2s0NkJoZF9DOHBldUhQSmVoY1JMNUJYZGJrR2ZVQkZ1UUNQNE1RTUhITm1maWFsTFVNcnnSAd4BQVVfeXFMT3Juamh3NFk0VkVVUk8tZTV3bGg1YW9PcnU3azBBYmVIcUVRSlBTVmVvZVp5blBPUkNmdi1EWm9ya0VkREFlQzN6UjRoWjUyQjR1NUNRUTBmVXh6NVp5RXVuLW1uaWEtLUNidUxBMzQtZzlwcHJfcFNFakJSUENDbFRxOU5qcGlIeDNOc2RtTnlxUi10Z0Q5RHlEVVRYQWtPNk83azdOcU9qNWtaVDFXbjE5QkZWdUlPMThpbzh6aFZLQkkzVW9ZcTZ6NU9DZjVQX3J0Y0lIV2syTU9EVFBB?oc=5"
-      },
-      "queued_at": "2026-11-04T03:46:08.189468+00:00",
-      "score": 7.0,
-      "why": "Major AI company product and tool launch from Anthropic."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40267,12 +40223,12 @@
     "microsoft india": 1793746786658,
     "mistral ai": 1793275207548,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793765276067,
+    "news: big tech platforms": 1793765786799,
     "news: consumer internet india": 1793759887611,
     "news: global ai": 1793763873235,
     "news: global chips": 1793762040307,
     "news: global it services": 1793743140095,
-    "news: india ai deeptech": 1793764600361,
+    "news: india ai deeptech": 1793766442566,
     "news: india edtech gaming": 1793704938751,
     "news: india fintech": 1793763415312,
     "news: india semiconductors": 1793757832982,
@@ -40308,7 +40264,9 @@
     "zoho": 1793644362641
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-04T04:32:00.438259+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40326,10 +40284,10 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-04T04:16:09.279364+00:00",
+    "last_server_run": "2026-11-04T04:32:07.429051+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-04T02:16:55.135411+00:00",
+        "checked": "2026-11-04T04:32:40.218269+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
@@ -40455,7 +40413,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-11-03T22:17:18.926425+00:00",
+        "at": "2026-11-04T04:32:20.243083+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -40465,7 +40423,7 @@
         }
       },
       "last": {
-        "calendar": "2026-11-03T22:17:21.849847+00:00",
+        "calendar": "2026-11-04T04:32:23.204560+00:00",
         "ls_reports": "2026-11-04T02:46:35.973209+00:00",
         "rs_committee_press": "2026-11-04T03:46:43.667683+00:00",
         "rs_press": "2026-11-04T03:46:40.855317+00:00",
@@ -49200,7 +49158,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-04T04:16:56.577784+00:00",
+    "last_run": "2026-11-04T04:32:58.321440+00:00",
     "seen": [
       "x:2114600594048786577",
       "x:2114601670412009829",
