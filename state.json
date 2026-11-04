@@ -1,24 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-27T16:31:56.099214+00:00",
-      "handle": "News: India fintech",
-      "headline": "NPCI partners with IIIT Hyderabad for payment security",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcnM5ZzI2cDZqbU4yRk1hNzJSUGNObFMxTHkweUxpc0RtMGNNRzFDdjFZWDZvWjFKeXVVNm52aEFnRzFhckJUZ0hldlF1S3ZKVnFVWjF1Y0t3dVd5Xy1mLUpQQnkxa2dVZ3VEYjBfXzRMMkZIZEtXQnRXZFNyQkNVRDcycksxMWdGMXY5WVJOeGhsTXZPOEhwblQ3TF9hREd0OGhYWTBqZ3ZHbVJFQVdVZko2M3h1bl9mN1BsOTlGcVMwZ1JJbXlmZDlUWjVnQ0ZYQmU1LWJzSkl3OFdBVWfSAeMBQVVfeXFMT2VKZEFzSWh2TVdlOERvdHpjd0ptRmlxS2hTWVVlOTZBU0tHNl8tdGdLQVBOTnVUUHZIYkpLei1GSjRCS1oxRklMNUt3bE9Bc3VSM2RMWmhQRFA0T1haTzZjM19sRWE5S2lwaVlCeV9LUlV4RHV0TnQyQWp5TGdoaVJISW8zeDNZSFlqVDhicFJvQlRrWnE3VEU0WHN6ejNlNDFIX3hLeVBFVDVTR181MGZzRUNsMGpUSFlPX2p3N19oTFF6d29sWC1INi13YXFNb0YxZllZRFBKZEtqZ0pQTFM3dW8?oc=5",
-      "words": [
-        "boost",
-        "digital",
-        "hyderabad",
-        "iiit",
-        "inks",
-        "mou",
-        "npci",
-        "payments",
-        "security"
-      ]
-    },
-    {
       "at": "2026-10-27T17:31:37.946864+00:00",
       "handle": "News: Global chips",
       "headline": "L&T targets January 2027 for 10,000-GPU Nvidia AI factory",
@@ -7382,6 +7364,28 @@
         "technology",
         "through",
         "ubr"
+      ]
+    },
+    {
+      "at": "2026-11-04T18:33:58.265892+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio launches \u20b915 unlimited 5G data pack",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX254S3ppRzFTcWtOR2xlNGVPeW9JWndFRlNwY290MWFONWE4dUZ3a013UHJwc2V0U1dycTZjNVFaRmwtQjhfZGVyWnhkT3BFVzZrZm9WdnY2d1cyc0RaQW1MQ05lbVFRcTJxb0RHZDNwbmFPT29XaHVvZzI5dzhGY2F6emZ6cjhTTTFPWUZCR3Y1YXZrRGhEZ0ZNMVZtYmM3Y3pqRjVtSjJEQ0lnRTlkRlZTNTNVSzBKOVdzdmllUzVBWVlCSUFtWTZpQmctVm4wWHdTQ3Z6RXNFRDFhbFdWWGozOVZDazhWSDVGY1B5RUhXWUNEUUHSAfsBQVVfeXFMTzFjOUdFSVpsTl9SQkM3LUpYZ2hCcWx2VWIxOG1RX3ZMTnlUanV3RUl1X3pTeDNNZWdIUDR2U0VpMHJKODdER2luc3QxVUEyS1ZpUnpUR09Nenc5YXRzYjlXdEdCLThfZm1RcnBrSUNWU0NCV29jZlJjOUJCU0VVTVVaX25uMEZQSlJaVGJsRTBSZVBuUWVfREtueGVtUzJab2NGV1U3c1REc3hONXdtMFF5SXp4OER1Y0UxelgwdUtyMEtMQlJFSWNNOG1tQmpOMDZVTk85cldLcGowVzAwQWdSaEtXT0JDdUN4UHVOQ1RMT0oySzFFTUtaMVU?oc=5",
+      "words": [
+        "benefits",
+        "check",
+        "data",
+        "get",
+        "high",
+        "hours",
+        "internet",
+        "jio",
+        "launches",
+        "pack",
+        "speed",
+        "unlimited",
+        "validity"
       ]
     }
   ],
@@ -16981,7 +16985,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-04T18:17:15.764901+00:00",
+    "last_run": "2026-11-04T18:35:22.727336+00:00",
     "pib_mark": 2332827,
     "seen": [
       "pib:2323811",
@@ -20043,11 +20047,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1793167025259",
-    "1793175658067",
-    "1793177533164",
-    "1793182973411",
-    "1793183651966",
     "1793186258998",
     "1793190811076",
     "1793207057260",
@@ -24530,6 +24529,14 @@
     "1793803888481",
     "1793804478988",
     "1793812425067",
+    "1793772236194",
+    "1793788201206",
+    "1793791874946",
+    "1793804576988",
+    "1793806549328",
+    "1793807964262",
+    "1793808360515",
+    "1793811677067",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25828,7 +25835,6 @@
     "1793770873645",
     "1793771684439",
     "1793772012551",
-    "1793772236194",
     "1793772388433",
     "1793772540991",
     "1793772554134",
@@ -25883,7 +25889,6 @@
     "1793787683517",
     "1793787981292",
     "1793788072292",
-    "1793788201206",
     "1793788220901",
     "1793788233818",
     "1793788233929",
@@ -25906,7 +25911,6 @@
     "1793790655075",
     "1793791320556",
     "1793791708904",
-    "1793791874946",
     "1793792024038",
     "1793792328670",
     "1793792723975",
@@ -25983,7 +25987,6 @@
     "1793804145970",
     "1793804160855",
     "1793804497421",
-    "1793804576988",
     "1793804678756",
     "1793804760082",
     "1793804856151",
@@ -25992,19 +25995,17 @@
     "1793805180439",
     "1793805420097",
     "1793805823300",
-    "1793806549328",
     "1793806620462",
     "1793806632638",
+    "1793806807683",
     "1793806980993",
     "1793807229616",
     "1793807472055",
     "1793807681692",
     "1793807698545",
     "1793807761986",
-    "1793807964262",
     "1793807989064",
     "1793808221861",
-    "1793808360515",
     "1793808361079",
     "1793808481516",
     "1793808660334",
@@ -26015,7 +26016,6 @@
     "1793811095076",
     "1793811255065",
     "1793811600254",
-    "1793811677067",
     "1793811844422",
     "1793812070658",
     "1793812414988",
@@ -26025,12 +26025,16 @@
     "1793814177569",
     "1793814240602",
     "1793814606547",
+    "1793814611224",
     "1793814672602",
+    "1793814881628",
     "1793815139742",
     "1793815200031",
     "1793815200194",
     "1793815230414",
+    "1793815749726",
     "1793815870292",
+    "1793816730274",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26044,8 +26048,8 @@
     "2332607",
     "2332613"
   ],
-  "last_digest_hour": "2026-11-04T23",
-  "last_success": "2026-11-04T18:16:19.413375+00:00",
+  "last_digest_hour": "2026-11-05T00",
+  "last_success": "2026-11-04T18:33:58.341221+00:00",
   "national": {
     "alerted": [
       {
@@ -36078,7 +36082,7 @@
       },
       "warned": "2026-11-03T23:32:17.574389+00:00"
     },
-    "last_run": "2026-11-04T18:16:59.719977+00:00",
+    "last_run": "2026-11-04T18:35:06.189755+00:00",
     "pib_mark": 2332827,
     "seen": [
       "pib:2324307",
@@ -40310,7 +40314,7 @@
     "microsoft india": 1793780368318,
     "mistral ai": 1793275207548,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793815139742,
+    "news: big tech platforms": 1793815749726,
     "news: consumer internet india": 1793808660334,
     "news: global ai": 1793815870292,
     "news: global chips": 1793808394855,
@@ -40320,7 +40324,7 @@
     "news: india fintech": 1793814177569,
     "news: india semiconductors": 1793814606547,
     "news: india tech policy": 1793808481516,
-    "news: india telecom": 1793814006524,
+    "news: india telecom": 1793816730274,
     "news: indian it majors": 1793807710824,
     "news: indian it midcaps": 1793784704057,
     "news: pib releases": 1790159940641,
@@ -40369,7 +40373,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-04T18:16:19.909721+00:00",
+    "last_server_run": "2026-11-04T18:33:58.658155+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-04T17:02:58.697018+00:00",
@@ -40510,10 +40514,10 @@
       "last": {
         "calendar": "2026-11-04T16:46:32.831537+00:00",
         "ls_reports": "2026-11-04T17:33:47.510439+00:00",
-        "rs_committee_press": "2026-11-04T16:32:21.105710+00:00",
-        "rs_press": "2026-11-04T16:32:17.728073+00:00",
-        "rs_reports": "2026-11-04T16:32:14.890945+00:00",
-        "rs_updates": "2026-11-04T16:32:22.683889+00:00"
+        "rs_committee_press": "2026-11-04T18:34:42.827511+00:00",
+        "rs_press": "2026-11-04T18:34:39.787200+00:00",
+        "rs_reports": "2026-11-04T18:34:36.685963+00:00",
+        "rs_updates": "2026-11-04T18:34:44.464229+00:00"
       }
     },
     "scanned": [
@@ -49818,7 +49822,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-04T18:17:03.525866+00:00",
+    "last_run": "2026-11-04T18:35:09.448050+00:00",
     "seen": [
       "x:2115089099401138507",
       "x:2115089319270781357",
