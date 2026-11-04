@@ -1,26 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-27T03:31:27.588366+00:00",
-      "handle": "News: Global AI",
-      "headline": "AI agents breach Anthropic internal records in under 12 hours",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNE1RX0Z3aGpiSjl5QUlhY00zaHVLaEtRZlRadHhlN1BHT01WQzBndXYxbDA1cGxobk03Wm53emNhWVZEZG9Za1NOZ1dSN015VFlONlktdVQyQWZ1eGcta2gzaWhLSGhoanQwNENSNDFHbmxpdFpqUldEUDRSem1WYW4wQWFHUE1nNW05RE5WaTVnNGVPNEUzRFN2TkpOWl9ZS19yV0gzeDBQVUlTOHRiQkdVTmduam9lckxhX3VON2lHUHlhMV9ENmRPR0NXOXZQcTlxU1N4Y9IB3AFBVV95cUxQbDBFcFNUVDNoYldFci15OEh4SHpqdnV2S1RJWDV3enFxbkVOOS1OT2hwTjFFNzlZVUtqak5HTzUtM2xvOGRqaXpxZDhwYU52TzZjaGV4WFZBcTk0Y1RNcUtNVzcwbDB5RndBcUh6TmZxeDBsSkltc0ZhcUd3UHNKVHZveXhOcjZ6d3hld01POGF4bVgwOUNRUVZkeXM3Ym82bkRKNGsza0xqXzhLakk4bThPTTVmdkhVWjZ1V19mVmp1SVA2X3g4ZWR5XzA1NHByTWFnajJFWUxfcFZa?oc=5",
-      "words": [
-        "accessed",
-        "agents",
-        "anthropic",
-        "claims",
-        "hours",
-        "messages",
-        "records",
-        "report",
-        "salary",
-        "slack",
-        "under"
-      ]
-    },
-    {
       "at": "2026-10-27T04:31:21.802714+00:00",
       "handle": "News: Global AI",
       "headline": "OpenAI launches GPT-6.1 Terra with advanced computer and coding capabilities",
@@ -7424,6 +7404,27 @@
         "mediatek",
         "nvidia",
         "targets"
+      ]
+    },
+    {
+      "at": "2026-11-04T01:31:56.621937+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Happiest Minds says growth below expectations due to delayed deals",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT3RVcGVwVDRhWWc4MHF3N3hZaVctVWhIc0swc2JOclZpSVk3NllzZV9rTVMxQ1JndTNzOC0taFVvbWFwTlVHT0tWeGxBaWpwR3RUVmp2RkxGQTV5X2hZWE0ycDZLS01JT3hNRU8zV3QtTFFQMW53d0x5T1FQeFBwOW9BYm1hWnZkLXg1RG51aDg0QmNjN01xc3E0eU85Y3VTTzRXZzFmZ1JFbkpMbmNqRUp3Q0J4czk2VDRzSl9fZ0JMdm9fbE5BcEpEUEIza25kT2EwMHlBV1JBX0l0OHc2ZjhmcWpSWkszazdvcVJ0dFk4ZWppS1psbUM3ZHlyYS1teXdya9IBigJBVV95cUxOeWpfOTU1SE1iUVphMVEycGNDS0VKMW1DN3dQMUllNnJ1bTZwUEFkTFdESXNNclVLQXdKaE4xT2dReEZPekx3aDBDWDNQRDN5aUIxQXJkZjdiOWtIWUhuSDhmUXVrSGRPNl85czJEMUlGVjF3QWdyS1FTWW9WRjRENlhkR2p6bG5wVVdOOVlCREl6Zk1jN3J3TkJkdlJ6X3FmUDdKUkZHaGlORWY2MEs3RVlMVDNQLW5sT09nOXYybnloQzdGU2draXhtWGdfT0xtZUthVU5HU3FlYUxHMklXWEFqSUd5VmJLQ1p1RUp3Nk5VcDhlbGwyWjNfWG1MYkN2SGFFZ0pFT3hfUQ?oc=5",
+      "words": [
+        "below",
+        "deals",
+        "deferred",
+        "expectations",
+        "get",
+        "growth",
+        "happiest",
+        "key",
+        "minds",
+        "platform",
+        "revenues",
+        "slip"
       ]
     }
   ],
@@ -16971,7 +16972,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-04T01:17:57.229841+00:00",
+    "last_run": "2026-11-04T01:33:13.603914+00:00",
     "pib_mark": 2332335,
     "seen": [
       "pib:2323397",
@@ -20033,11 +20034,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1793108106257",
-    "1793161173988",
-    "1793161213360",
-    "1793163531478",
-    "1793181441464",
     "1793182476580",
     "1793185355866",
     "1793104291848",
@@ -24528,7 +24524,6 @@
     "1793747747533",
     "1793675468517",
     "1793690623666",
-    "1793721731639",
     "1793724887710",
     "1793742300091",
     "1793746938409",
@@ -24546,17 +24541,12 @@
     "1793232000741",
     "1793232000937",
     "1793673104556",
-    "1793690517963",
-    "1793695228934",
     "1793712315293",
     "1793714081460",
-    "1793721067789",
-    "1793722845633",
     "1793668028641",
     "1793671767599",
     "1793677761003",
     "1793682540817",
-    "1793684100624",
     "1793685173459",
     "1793690270038",
     "1793690600071",
@@ -24570,6 +24560,42 @@
     "1793742300153",
     "1793745600729",
     "1793746628119",
+    "1789631218001",
+    "1789631218188",
+    "1789631218202",
+    "1789631218210",
+    "1789631218263",
+    "1789631218389",
+    "1789631218418",
+    "1789631218440",
+    "1789631218714",
+    "1789631218862",
+    "1793022352958",
+    "1793076354131",
+    "1793169075895",
+    "1793336484027",
+    "1793349954270",
+    "1793674676773",
+    "1793678106889",
+    "1793680726393",
+    "1793683552256",
+    "1793689720953",
+    "1793695228468",
+    "1793701800814",
+    "1793701920191",
+    "1793701980295",
+    "1793701980669",
+    "1793704237034",
+    "1793708154642",
+    "1793720618871",
+    "1793723950084",
+    "1793725200613",
+    "1793725463823",
+    "1793732264865",
+    "1793733788435",
+    "1793736977741",
+    "1793749116776",
+    "1793752228068",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25300,16 +25326,6 @@
     "1789631212556",
     "1789631212561",
     "1789631212568",
-    "1789631218001",
-    "1789631218188",
-    "1789631218202",
-    "1789631218210",
-    "1789631218263",
-    "1789631218389",
-    "1789631218418",
-    "1789631218440",
-    "1789631218714",
-    "1789631218862",
     "1789631219642",
     "1789631219653",
     "1789637516540",
@@ -25637,7 +25653,6 @@
     "1793019622137",
     "1793020980902",
     "1793022300435",
-    "1793022352958",
     "1793025000551",
     "1793026944369",
     "1793028836603",
@@ -25650,7 +25665,6 @@
     "1793059200557",
     "1793059200915",
     "1793073660309",
-    "1793076354131",
     "1793080320351",
     "1793081617702",
     "1793082675043",
@@ -25683,7 +25697,6 @@
     "1793145600348",
     "1793145603970",
     "1793169073640",
-    "1793169075895",
     "1793171753713",
     "1793175681363",
     "1793177931296",
@@ -25754,9 +25767,7 @@
     "1793318400920",
     "1793318400921",
     "1793318400955",
-    "1793336484027",
     "1793349165507",
-    "1793349954270",
     "1793350086934",
     "1793350800346",
     "1793352600132",
@@ -25816,7 +25827,6 @@
     "1793664000534",
     "1793664000820",
     "1793674027093",
-    "1793674676773",
     "1793675460333",
     "1793676060002",
     "1793676600768",
@@ -25824,7 +25834,6 @@
     "1793677189341",
     "1793677724673",
     "1793677761935",
-    "1793678106889",
     "1793678235656",
     "1793678512475",
     "1793678927334",
@@ -25833,13 +25842,12 @@
     "1793680531495",
     "1793680586005",
     "1793680617617",
-    "1793680726393",
     "1793680756085",
     "1793680975079",
     "1793682013398",
     "1793682283010",
     "1793682733855",
-    "1793683552256",
+    "1793684100624",
     "1793684167288",
     "1793684308680",
     "1793684340967",
@@ -25853,12 +25861,12 @@
     "1793688901650",
     "1793689212725",
     "1793689433767",
-    "1793689720953",
     "1793689784982",
     "1793689880135",
     "1793690021257",
     "1793690029212",
     "1793690076944",
+    "1793690517963",
     "1793690623635",
     "1793690978446",
     "1793691006237",
@@ -25873,7 +25881,8 @@
     "1793693488875",
     "1793693894176",
     "1793694161715",
-    "1793695228468",
+    "1793694483154",
+    "1793695228934",
     "1793695573482",
     "1793695807814",
     "1793696284790",
@@ -25885,14 +25894,9 @@
     "1793701032789",
     "1793701318375",
     "1793701610655",
-    "1793701800814",
-    "1793701920191",
     "1793701980211",
-    "1793701980295",
-    "1793701980669",
     "1793703741237",
     "1793703863004",
-    "1793704237034",
     "1793704476274",
     "1793704478451",
     "1793704493064",
@@ -25908,7 +25912,6 @@
     "1793707200059",
     "1793707895031",
     "1793707921861",
-    "1793708154642",
     "1793709003927",
     "1793709251071",
     "1793709452713",
@@ -25948,20 +25951,19 @@
     "1793719657237",
     "1793719980787",
     "1793720580281",
-    "1793720618871",
+    "1793721067789",
     "1793721645022",
+    "1793721731639",
     "1793722287037",
     "1793722560448",
     "1793722694496",
     "1793722830516",
+    "1793722845633",
     "1793722975825",
-    "1793723950084",
     "1793724457724",
-    "1793725200613",
     "1793725309117",
     "1793725380865",
     "1793725428186",
-    "1793725463823",
     "1793725531164",
     "1793725786316",
     "1793725930723",
@@ -25980,16 +25982,13 @@
     "1793730642455",
     "1793730829566",
     "1793731781212",
-    "1793732264865",
     "1793733720970",
-    "1793733788435",
     "1793734291533",
     "1793735362528",
     "1793735458644",
     "1793736060738",
     "1793736608417",
     "1793736641499",
-    "1793736977741",
     "1793739058795",
     "1793739600531",
     "1793739762349",
@@ -26002,6 +26001,7 @@
     "1793743140095",
     "1793743184688",
     "1793743315224",
+    "1793744494389",
     "1793744580972",
     "1793744880552",
     "1793745000829",
@@ -26014,7 +26014,7 @@
     "1793747435993",
     "1793748607474",
     "1793748866449",
-    "1793749116776",
+    "1793749116263",
     "1793749195606",
     "1793749355823",
     "1793749781222",
@@ -26023,9 +26023,10 @@
     "1793752200050",
     "1793752200592",
     "1793752200897",
-    "1793752228068",
+    "1793752228570",
     "1793753500701",
     "1793754058699",
+    "1793755160951",
     "2331589",
     "2331704",
     "2331803",
@@ -26034,8 +26035,8 @@
     "2332312",
     "2332315"
   ],
-  "last_digest_hour": "2026-11-04T06",
-  "last_success": "2026-11-04T01:16:52.134335+00:00",
+  "last_digest_hour": "2026-11-04T07",
+  "last_success": "2026-11-04T01:31:56.696048+00:00",
   "national": {
     "alerted": [
       {
@@ -36006,12 +36007,13 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-04T01:33:00.970417+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-03T23:32:17.574389+00:00"
     },
-    "last_run": "2026-11-04T01:17:31.350507+00:00",
+    "last_run": "2026-11-04T01:33:02.215247+00:00",
     "pib_mark": 2332335,
     "seen": [
       "pib:2323830",
@@ -39020,6 +39022,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "NPCI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -39084,26 +39089,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Happiest Minds says growth below expectations due to delayed deals",
-      "post": {
-        "created_at": "2026-11-04T00:30:28+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1793752228068",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Happiest Minds says growth below expectations as key deals slip, platform revenues get deferred",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT3RVcGVwVDRhWWc4MHF3N3hZaVctVWhIc0swc2JOclZpSVk3NllzZV9rTVMxQ1JndTNzOC0taFVvbWFwTlVHT0tWeGxBaWpwR3RUVmp2RkxGQTV5X2hZWE0ycDZLS01JT3hNRU8zV3QtTFFQMW53d0x5T1FQeFBwOW9BYm1hWnZkLXg1RG51aDg0QmNjN01xc3E0eU85Y3VTTzRXZzFmZ1JFbkpMbmNqRUp3Q0J4czk2VDRzSl9fZ0JMdm9fbE5BcEpEUEIza25kT2EwMHlBV1JBX0l0OHc2ZjhmcWpSWkszazdvcVJ0dFk4ZWppS1psbUM3ZHlyYS1teXdya9IBigJBVV95cUxOeWpfOTU1SE1iUVphMVEycGNDS0VKMW1DN3dQMUllNnJ1bTZwUEFkTFdESXNNclVLQXdKaE4xT2dReEZPekx3aDBDWDNQRDN5aUIxQXJkZjdiOWtIWUhuSDhmUXVrSGRPNl85czJEMUlGVjF3QWdyS1FTWW9WRjRENlhkR2p6bG5wVVdOOVlCREl6Zk1jN3J3TkJkdlJ6X3FmUDdKUkZHaGlORWY2MEs3RVlMVDNQLW5sT09nOXYybnloQzdGU2draXhtWGdfT0xtZUthVU5HU3FlYUxHMklXWEFqSUd5VmJLQ1p1RUp3Nk5VcDhlbGwyWjNfWG1MYkN2SGFFZ0pFT3hfUQ?oc=5"
-      },
-      "queued_at": "2026-11-04T00:46:29.289081+00:00",
-      "score": 7.0,
-      "why": "This provides company-specific financial commentary and revenue performance data from management."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40260,7 +40246,7 @@
     "microsoft india": 1793746786658,
     "mistral ai": 1793275207548,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793749781222,
+    "news: big tech platforms": 1793755160951,
     "news: consumer internet india": 1793752200897,
     "news: global ai": 1793751342409,
     "news: global chips": 1793749116776,
@@ -40272,7 +40258,7 @@
     "news: india tech policy": 1793749843516,
     "news: india telecom": 1793754058699,
     "news: indian it majors": 1793744580972,
-    "news: indian it midcaps": 1793752228068,
+    "news: indian it midcaps": 1793752228570,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793753500701,
     "nvidia": 1793721645022,
@@ -40302,7 +40288,8 @@
   },
   "source_health": {
     "down": {
-      "REG NPCI": "2026-11-04T01:01:29.346072+00:00"
+      "REG NPCI": "2026-11-04T01:01:29.346072+00:00",
+      "Zinnov": "2026-11-04T01:31:51.276154+00:00"
     }
   },
   "watch": {
@@ -40321,7 +40308,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-04T01:16:52.527129+00:00",
+    "last_server_run": "2026-11-04T01:31:57.077628+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-04T00:02:27.824273+00:00",
@@ -40331,7 +40318,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-03T23:31:59.225236+00:00",
+        "checked": "2026-11-04T01:32:34.797104+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40407,7 +40394,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-03T23:32:03.632480+00:00",
+        "checked": "2026-11-04T01:32:38.827032+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -40462,10 +40449,10 @@
       "last": {
         "calendar": "2026-11-03T22:17:21.849847+00:00",
         "ls_reports": "2026-11-04T00:32:18.271023+00:00",
-        "rs_committee_press": "2026-11-03T23:31:52.195723+00:00",
-        "rs_press": "2026-11-03T23:31:49.114751+00:00",
-        "rs_reports": "2026-11-03T23:31:46.569089+00:00",
-        "rs_updates": "2026-11-03T23:31:54.442292+00:00"
+        "rs_committee_press": "2026-11-04T01:32:29.085680+00:00",
+        "rs_press": "2026-11-04T01:32:26.118177+00:00",
+        "rs_reports": "2026-11-04T01:32:23.109302+00:00",
+        "rs_updates": "2026-11-04T01:32:30.622081+00:00"
       }
     },
     "scanned": [
@@ -49195,7 +49182,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-04T01:17:48.569674+00:00",
+    "last_run": "2026-11-04T01:33:05.447008+00:00",
     "seen": [
       "x:2114582798715478181",
       "x:2114582856978907401",
