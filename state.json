@@ -1,47 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-27T17:31:37.946864+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta director Rohit Patel departs for Microsoft after eight years",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNenBXenBKaW9oQ1R5bGVxbWNzYko0NTRSQkNfS1ZNMVZsWW84Y1JHQmtZMmVHcWNwU042b1ZmUEl2bTJfUnRhc05sMl9WUm1OZ1g3a2MySWJtYVVSc0FndURSQms3ZHBMVUZ3Mm4xQ3NfVnZRWk00cWhFR0VTVFZaTUFONzVjVEdCXzRfaDFQc3JrbjA4Q3N6a2xuU2FENlJBSEJzWGprdHdteVYxVXNUSEJfWWN0OXFsMFYw?oc=5",
-      "words": [
-        "departs",
-        "director",
-        "exclusive",
-        "meta",
-        "microsoft",
-        "office",
-        "patel",
-        "rohit",
-        "suite",
-        "take",
-        "years"
-      ]
-    },
-    {
-      "at": "2026-10-27T18:32:31.317502+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Centre considers new policy targeting child pornography and deepfake nudes",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQajNSM3FzTzZiZXVGQ0xxa3ZVeHZOMU5jM2ZyZm5EbzF2R0xGYzl1dUJnODRmbXlzQUVaSXlwemE0WmZ4eWRlZ1lYZkJsNTFoQWt6LWVfbmdVNmJSOXVsNlFJQlZSLUUydEZvQTA2MEQ2bXZ1ck11ZHFXa1dKUzVtTG5OLW5iWklGdlBQYWJMbXpydl9sRkJqT3pmUVhPQmsxWlR6LXpTNmNBbElKQlJHZm42bzVBbWlKUFUway0yZ3RkT25UWU83T3BURklyTW9zNjVENlFhVHU4NDJjY25nWTFn0gHvAUFVX3lxTE5UaUlKYUZnYlJzY3V5LUJlYU13MUd2NWxueG1fWFdVOW5YcFl4cGhPRmZDc0E0TmpHNk5yYXVjbldJOEdQZEl6YXFXQlZiYkNzRHQzQmt5Y0xqa0FmWFE3NXlDTVNwVGlUeFllNmJQdWJTRVpiazRtUjZVckhFU2gydzBRTjFSRV9jRTZRdHQzUW5ndmV3ckpHQWUwejhCYVhQREhEdk5FNzhhcjJsUThERHRyc21SYlVjMS1YMmRWQU53dWQ2WVlTT0ppUTFMeUFHR0VMRThkR25oLUtSTy1MMVdUZFdPREJUN0U5ZFBF?oc=5",
-      "words": [
-        "centre",
-        "child",
-        "deepfake",
-        "details",
-        "mulls",
-        "nudes",
-        "policy",
-        "pornography",
-        "seeks",
-        "steps",
-        "tackle",
-        "taken"
-      ]
-    },
-    {
       "at": "2026-10-27T18:32:31.317502+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic warns of severe AI safety risks in pre-IPO filings",
@@ -7388,6 +7347,38 @@
         "holdings",
         "nasdaq",
         "nov"
+      ]
+    },
+    {
+      "at": "2026-11-04T21:31:23.229391+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI moves to shape the 2028 election strategy",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVElzb3RuOGpILUxZNGYtcXM1bGRTaXVNM1Q1VUJJQ0ZrYnVJYUxxNWkyLXZHUDU1YlNNcjU2Z1dLWGlDaEVhWThiY3JZaXNIWVZ0YVBHbUVzSHV6dGhJdWMwSVpMX2pPeHQ1Qi1TSFRpRlBPWktIMHRJTGJMaFU5cV9KMTNITHpXR3pxVmtCTQ?oc=5",
+      "words": [
+        "2028",
+        "already",
+        "election",
+        "openai",
+        "shape",
+        "trying"
+      ]
+    },
+    {
+      "at": "2026-11-04T21:31:23.229391+00:00",
+      "handle": "News: Global chips",
+      "headline": "Qualcomm forecasts upbeat sales on strength in non-smartphone segments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1J5TU1haGNMUk9CVzZLSmN4d09oZXdTLUFSTEJOMVAxZURhWE5JRVgzVU41TXdHSV92TEJkODQ2Q1NFLUdLSjh6UThlVUVFTUJUS3gxb25ta1VHYjJEMWQ5LUxwTTRzNXpfaUdPOVJxeGhQaDhqMzg5eDRkTENkeUhNa3lwT1k1cEVQQWR6SEl1R1dkVUtFalp2eHVMTDR5VUhiM1JHUjNPRkt5MW1Td2U2UE9SejRBUTJJR0cyaWE?oc=5",
+      "words": [
+        "forecasts",
+        "non",
+        "qualcomm",
+        "sales",
+        "segments",
+        "smartphone",
+        "strength",
+        "upbeat"
       ]
     }
   ],
@@ -16987,7 +16978,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-04T21:17:02.603629+00:00",
+    "last_run": "2026-11-04T21:32:34.278586+00:00",
     "pib_mark": 2332827,
     "seen": [
       "pib:2323811",
@@ -20049,11 +20040,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1793169093217",
-    "1793169267542",
-    "1793169900250",
-    "1793169900859",
-    "1793170740021",
     "1793179751510",
     "1793187452746",
     "1793195136941",
@@ -24337,7 +24323,6 @@
     "1793774721916",
     "1793774828897",
     "1793776627385",
-    "1793776790259",
     "1793780606996",
     "1793780838507",
     "1793783580318",
@@ -24440,9 +24425,6 @@
     "1793800819521",
     "1793809380946",
     "1793809884067",
-    "1792069460883",
-    "1792153634850",
-    "1792156379593",
     "1793726860088",
     "1793782563589",
     "1793801531065",
@@ -24525,7 +24507,6 @@
     "1793754058699",
     "1793777116542",
     "1793788220901",
-    "1793794254287",
     "1793816280051",
     "1793758320543",
     "1793763415312",
@@ -24536,13 +24517,27 @@
     "1788832825652",
     "1788832833709",
     "1793762040307",
-    "1793788489039",
-    "1793789664564",
     "1793799902393",
     "1793815749726",
     "1793817421462",
-    "1793819340954",
     "1793823445067",
+    "1793744580972",
+    "1793772554134",
+    "1793772873639",
+    "1793773424758",
+    "1793776790656",
+    "1793789820153",
+    "1793789957721",
+    "1793791135649",
+    "1793792328670",
+    "1793792761664",
+    "1793794140287",
+    "1793805956538",
+    "1793806617116",
+    "1793809080562",
+    "1793809201368",
+    "1793819398507",
+    "1793826369204",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25467,6 +25462,7 @@
     "1792062000898",
     "1792065600782",
     "1792069168636",
+    "1792069460883",
     "1792073758342",
     "1792080483451",
     "1792085476577",
@@ -25477,6 +25473,8 @@
     "1792108800897",
     "1792117873305",
     "1792141778525",
+    "1792153634850",
+    "1792156379593",
     "1792156871747",
     "1792177200590",
     "1792347345536",
@@ -25791,7 +25789,6 @@
     "1793743140095",
     "1793743315224",
     "1793744280005",
-    "1793744580972",
     "1793745000829",
     "1793746786658",
     "1793749843516",
@@ -25835,10 +25832,7 @@
     "1793772012551",
     "1793772388433",
     "1793772540991",
-    "1793772554134",
     "1793772737651",
-    "1793772873639",
-    "1793773424758",
     "1793773886273",
     "1793774141893",
     "1793774467831",
@@ -25846,7 +25840,7 @@
     "1793775600239",
     "1793775831963",
     "1793775979744",
-    "1793776790656",
+    "1793776790259",
     "1793777116501",
     "1793777160207",
     "1793777875952",
@@ -25890,6 +25884,7 @@
     "1793788233818",
     "1793788233929",
     "1793788380358",
+    "1793788489039",
     "1793788502782",
     "1793788589369",
     "1793788590301",
@@ -25898,30 +25893,26 @@
     "1793789001323",
     "1793789133034",
     "1793789451807",
+    "1793789664564",
     "1793789726810",
-    "1793789820153",
     "1793789926445",
-    "1793789957721",
     "1793790120810",
     "1793790158677",
     "1793790655075",
-    "1793791135649",
     "1793791320556",
     "1793791708904",
     "1793792007515",
     "1793792024038",
-    "1793792328670",
     "1793792723975",
     "1793792761583",
-    "1793792761664",
     "1793792940859",
     "1793793257941",
     "1793793400142",
     "1793793420232",
     "1793793758397",
     "1793793996533",
-    "1793794140287",
     "1793794236861",
+    "1793794254287",
     "1793794531965",
     "1793794645143",
     "1793794849805",
@@ -25983,8 +25974,6 @@
     "1793805113170",
     "1793805420097",
     "1793805823300",
-    "1793805956538",
-    "1793806617116",
     "1793806632638",
     "1793807472055",
     "1793807681692",
@@ -25992,8 +25981,6 @@
     "1793807761986",
     "1793808361079",
     "1793808660334",
-    "1793809080562",
-    "1793809201368",
     "1793810228766",
     "1793811095076",
     "1793811600254",
@@ -26022,7 +26009,7 @@
     "1793817978779",
     "1793818807034",
     "1793818946963",
-    "1793819398507",
+    "1793819340954",
     "1793819400946",
     "1793820424036",
     "1793820600605",
@@ -26034,9 +26021,13 @@
     "1793824183366",
     "1793824260947",
     "1793825572224",
+    "1793826096053",
     "1793826305889",
     "1793826348114",
-    "1793826369204",
+    "1793826366973",
+    "1793826656126",
+    "1793826726204",
+    "1793827544813",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26050,8 +26041,8 @@
     "2332607",
     "2332613"
   ],
-  "last_digest_hour": "2026-11-05T02",
-  "last_success": "2026-11-04T21:16:08.933983+00:00",
+  "last_digest_hour": "2026-11-05T03",
+  "last_success": "2026-11-04T21:31:23.323178+00:00",
   "national": {
     "alerted": [
       {
@@ -36084,7 +36075,7 @@
       },
       "warned": "2026-11-03T23:32:17.574389+00:00"
     },
-    "last_run": "2026-11-04T21:16:51.617941+00:00",
+    "last_run": "2026-11-04T21:32:17.331971+00:00",
     "pib_mark": 2332827,
     "seen": [
       "pib:2324307",
@@ -39157,26 +39148,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Qualcomm forecasts upbeat sales on strength in non-smartphone segments",
-      "post": {
-        "created_at": "2026-11-04T21:06:09+00:00",
-        "handle": "News: Global chips",
-        "id": "1793826369204",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Reuters",
-        "reposts": 0,
-        "text": "Qualcomm forecasts upbeat sales on strength in non-smartphone segments",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1J5TU1haGNMUk9CVzZLSmN4d09oZXdTLUFSTEJOMVAxZURhWE5JRVgzVU41TXdHSV92TEJkODQ2Q1NFLUdLSjh6UThlVUVFTUJUS3gxb25ta1VHYjJEMWQ5LUxwTTRzNXpfaUdPOVJxeGhQaDhqMzg5eDRkTENkeUhNa3lwT1k1cEVQQWR6SEl1R1dkVUtFalp2eHVMTDR5VUhiM1JHUjNPRkt5MW1Td2U2UE9SejRBUTJJR0cyaWE?oc=5"
-      },
-      "queued_at": "2026-11-04T21:16:08.854938+00:00",
-      "score": 7.0,
-      "why": "Major semiconductor vendor earnings forecast is a key story for the semiconductor beat."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40335,10 +40307,10 @@
     "microsoft india": 1793780368318,
     "mistral ai": 1793275207548,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793825572224,
+    "news: big tech platforms": 1793826656126,
     "news: consumer internet india": 1793814409384,
-    "news: global ai": 1793815870292,
-    "news: global chips": 1793826369204,
+    "news: global ai": 1793827544813,
+    "news: global chips": 1793826726204,
     "news: global it services": 1793768505364,
     "news: india ai deeptech": 1793799503111,
     "news: india edtech gaming": 1793814409399,
@@ -40394,17 +40366,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-04T21:16:09.274619+00:00",
+    "last_server_run": "2026-11-04T21:31:23.726490+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-04T19:16:50.416844+00:00",
+        "checked": "2026-11-04T21:32:02.810612+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-04T19:16:41.736936+00:00",
+        "checked": "2026-11-04T21:31:54.121177+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40480,7 +40452,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-04T19:16:46.081259+00:00",
+        "checked": "2026-11-04T21:31:58.366620+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -49843,7 +49815,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-04T21:16:54.505642+00:00",
+    "last_run": "2026-11-04T21:32:21.178263+00:00",
     "seen": [
       "x:2115089863313903806",
       "x:2115091817083625830",
