@@ -16978,7 +16978,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-04T23:02:52.339442+00:00",
+    "last_run": "2026-11-04T23:17:09.568458+00:00",
     "pib_mark": 2332827,
     "seen": [
       "pib:2323811",
@@ -19492,6 +19492,7 @@
       "pib:2332827",
       "site:ICC|https://www.icc-cricket.com/media-releases/starc-back-as-no-1-in-icc-men-s-test-bowling-rankings",
       "watch:meeting:LS|22624",
+      "site:ICC|https://www.icc-cricket.com/media-releases/record-global-audience-and-93-8m-impact-cap-landmark-women-s-t20-world-cup",
       "cci-merger:C-2026/08/1458|Approved",
       "cci-pr:media-gallery|706",
       "cci-merger:C-2026/10/1480|Deemed Approved (Section 6(5))",
@@ -19941,7 +19942,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-the-centrally-sponsored-scheme-for-fast-track-special-courts-ftscs-for-expeditious-trial-of-cases-of-rape-and-pocso-protection-of-children-from-sexual-offences-act",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-viksit-bharat-initiative-for-statistical-transformation-analytics-research-vistar-a-central-sector-scheme-for-the-period-2026-27-to-2030-31",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-capex-support-scheme-to-promote-critical-mineral-processing-with-an-outlay-of-rs-2814-crore-for-lithium-and-nickel-processing",
-      "site:ICC|https://www.icc-cricket.com/media-releases/record-global-audience-and-93-8m-impact-cap-landmark-women-s-t20-world-cup",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/cotpt_29oct26_540_e.htm",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-7413-of-2023-yadunath-singh-thakur-proprietor-of-the-apex-global-in-the-matter-of-the-apex-global-_105605.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-swastika-investmart-limited_105600.html",
@@ -20040,10 +20040,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1793171310539",
-    "1793171398767",
-    "1793173988199",
-    "1793175557790",
     "1793177491352",
     "1793236264414",
     "1793245567850",
@@ -24418,7 +24414,6 @@
     "1793808394855",
     "1793106000812",
     "1793782680482",
-    "1793790238939",
     "1793802618192",
     "1793803888481",
     "1793812425067",
@@ -24503,7 +24498,6 @@
     "1793819398507",
     "1793826369204",
     "1793774467831",
-    "1793788941667",
     "1793794254287",
     "1793799503111",
     "1793800151201",
@@ -24518,7 +24512,6 @@
     "1793797654658",
     "1793805420097",
     "1793811095076",
-    "1793819400946",
     "1793826726204",
     "1793827663938",
     "1793828040985",
@@ -24534,9 +24527,6 @@
     "1793816280524",
     "1793820676292",
     "1793826096053",
-    "1792069460883",
-    "1792153634850",
-    "1792156379593",
     "1793232000741",
     "1793232000937",
     "1793750400772",
@@ -24546,6 +24536,14 @@
     "1793819599855",
     "1793826621334",
     "1793828855204",
+    "1793759806765",
+    "1793772554134",
+    "1793772873639",
+    "1793773424758",
+    "1793790158677",
+    "1793805113170",
+    "1793827020293",
+    "1793828240985",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25470,6 +25468,7 @@
     "1792062000898",
     "1792065600782",
     "1792069168636",
+    "1792069460883",
     "1792073758342",
     "1792080483451",
     "1792085476577",
@@ -25478,6 +25477,8 @@
     "1792108800897",
     "1792117873305",
     "1792141778525",
+    "1792153634850",
+    "1792156379593",
     "1792156871747",
     "1792177200590",
     "1792347345536",
@@ -25801,7 +25802,6 @@
     "1793758380833",
     "1793758660098",
     "1793759251652",
-    "1793759806765",
     "1793760086260",
     "1793760360065",
     "1793760621640",
@@ -25832,10 +25832,7 @@
     "1793772012551",
     "1793772388433",
     "1793772540991",
-    "1793772554134",
     "1793772737651",
-    "1793772873639",
-    "1793773424758",
     "1793773886273",
     "1793774141893",
     "1793775478092",
@@ -25893,13 +25890,14 @@
     "1793788589369",
     "1793788590301",
     "1793788590481",
+    "1793788941667",
     "1793789001323",
     "1793789133034",
     "1793789451807",
     "1793789664564",
     "1793789726810",
     "1793789926445",
-    "1793790158677",
+    "1793790238939",
     "1793790655075",
     "1793791320556",
     "1793792007515",
@@ -25967,7 +25965,6 @@
     "1793804678756",
     "1793804856151",
     "1793805079789",
-    "1793805113170",
     "1793805823300",
     "1793807472055",
     "1793807681692",
@@ -26001,11 +25998,13 @@
     "1793817978779",
     "1793818946963",
     "1793819340954",
+    "1793819400946",
     "1793820424036",
     "1793820600605",
     "1793821063545",
     "1793821260883",
     "1793821500656",
+    "1793821676005",
     "1793824183366",
     "1793826300895",
     "1793826305889",
@@ -26013,17 +26012,18 @@
     "1793826366973",
     "1793826600131",
     "1793826656126",
-    "1793827020293",
     "1793827166224",
     "1793827544813",
     "1793827980325",
     "1793828107638",
-    "1793828240985",
+    "1793828259985",
     "1793828421053",
     "1793828700169",
     "1793829282938",
+    "1793829300097",
     "1793829361480",
     "1793829427534",
+    "1793829591064",
     "1793829733204",
     "1793829780523",
     "1793830832323",
@@ -26042,7 +26042,7 @@
     "2332613"
   ],
   "last_digest_hour": "2026-11-05T04",
-  "last_success": "2026-11-04T23:01:47.341188+00:00",
+  "last_success": "2026-11-04T23:16:08.221978+00:00",
   "national": {
     "alerted": [
       {
@@ -36070,12 +36070,13 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-04T23:16:56.397525+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-03T23:32:17.574389+00:00"
     },
-    "last_run": "2026-11-04T23:02:33.888847+00:00",
+    "last_run": "2026-11-04T23:16:57.703551+00:00",
     "pib_mark": 2332827,
     "seen": [
       "pib:2324307",
@@ -38526,6 +38527,10 @@
       "pib:2332827",
       "site:ICC|https://www.icc-cricket.com/media-releases/starc-back-as-no-1-in-icc-men-s-test-bowling-rankings",
       "watch:meeting:LS|22624",
+      "npci:623",
+      "npci:624",
+      "npci:629",
+      "site:ICC|https://www.icc-cricket.com/media-releases/record-global-audience-and-93-8m-impact-cap-landmark-women-s-t20-world-cup",
       "cci-merger:C-2026/10/1480|Deemed Approved (Section 6(5))",
       "cci-merger:C-2026/08/1458|Approved",
       "cci-merger:C-2026/08/1455|Approved",
@@ -38557,8 +38562,6 @@
       "cci-pr:media-gallery|715",
       "cci-pr:media-gallery|718",
       "cci-pr:media-gallery|717",
-      "npci:623",
-      "npci:624",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -39032,13 +39035,11 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63918",
       "certin:CIAD-2026-0058",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-to-interact-with-indian-contingent-that-participated-in-asian-para-games-2026-on-5-november",
-      "npci:629",
       "page:https://internal.imd.gov.in/press_release/20261104_pr_5468.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-the-centrally-sponsored-scheme-for-fast-track-special-courts-ftscs-for-expeditious-trial-of-cases-of-rape-and-pocso-protection-of-children-from-sexual-offences-act",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-rs-14500-crore-viability-gap-funding-scheme-for-development-of-92-gwh-grid-scale-energy-storage-systems",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-capex-support-scheme-to-promote-critical-mineral-processing-with-an-outlay-of-rs-2814-crore-for-lithium-and-nickel-processing",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-viksit-bharat-initiative-for-statistical-transformation-analytics-research-vistar-a-central-sector-scheme-for-the-period-2026-27-to-2030-31",
-      "site:ICC|https://www.icc-cricket.com/media-releases/record-global-audience-and-93-8m-impact-cap-landmark-women-s-t20-world-cup",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/cotpt_29oct26_540_e.htm",
       "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-know-your-client-process-for-individual-person-resident-outside-india-clients_105603.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-7413-of-2023-yadunath-singh-thakur-proprietor-of-the-apex-global-in-the-matter-of-the-apex-global-_105605.html",
@@ -39083,6 +39084,9 @@
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39148,7 +39152,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Jio Platforms shares soar after India's largest-ever IPO",
+      "post": {
+        "created_at": "2026-11-04T21:59:51+00:00",
+        "handle": "News: India telecom",
+        "id": "1793829591064",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "WSJ",
+        "reposts": 0,
+        "text": "Jio Platforms Soar After India\u2019s Largest-Ever Initial Public Offering",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVZvSjFSblExVkxhUmRybmR6N19xb3BuWlRtRF9ISXBXT3ZMd2tQY2V0SUFiQnRXdURIcEJsVlZiNGszc01GRHVvaTZHTkZURE1lZEJ0cEE4SldwNlpnTzg5QldCQWlqYjlyRDNKalF4VV83dTZ1VkEwR3h4Y09nR1E5a2J6b2JPY1lTamRuZzl5OXdSdk1JUXVSblRWMlEtYlpaZGhBcVc1Q3RHOUZhbDliWFg?oc=5"
+      },
+      "queued_at": "2026-11-04T23:16:08.070158+00:00",
+      "score": 8.0,
+      "why": "Major IPO listing milestone for India's largest telecom and digital platform."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40317,7 +40340,7 @@
     "news: india fintech": 1793817978779,
     "news: india semiconductors": 1793814606547,
     "news: india tech policy": 1793820600605,
-    "news: india telecom": 1793818946963,
+    "news: india telecom": 1793829591064,
     "news: indian it majors": 1793807710824,
     "news: indian it midcaps": 1793819398507,
     "news: pib releases": 1790159940641,
@@ -40368,7 +40391,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-04T23:01:47.651029+00:00",
+    "last_server_run": "2026-11-04T23:16:08.660926+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-04T21:32:02.810612+00:00",
@@ -49817,7 +49840,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-04T23:02:40.085710+00:00",
+    "last_run": "2026-11-04T23:17:00.776683+00:00",
     "seen": [
       "x:2115091817083625830",
       "x:2115093279238930642",
