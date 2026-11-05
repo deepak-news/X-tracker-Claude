@@ -16126,7 +16126,7 @@
         ]
       }
     ],
-    "gazette_mark": 277705,
+    "gazette_mark": 277712,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -16956,18 +16956,17 @@
       "CG-UP-E-05112026-277699",
       "CG-DL-E-05112026-277701",
       "CG-DL-E-05112026-277703",
-      "CG-DL-E-05112026-277705"
+      "CG-DL-E-05112026-277705",
+      "CG-DL-E-05112026-277708",
+      "CG-DL-E-05112026-277712",
+      "CG-MH-E-05112026-277698"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-05T17:03:27.957413+00:00",
+    "last_run": "2026-11-05T17:18:20.177934+00:00",
     "pib_mark": 2333378,
     "seen": [
-      "gazette:CG-MH-E-15102026-277185",
-      "gazette:SG-DL-E-15102026-277183",
-      "cci-merger:C-2026/09/1469|Deemed Approved (Section 6(5))",
-      "dgft-notification:f67e8803-e13d-4412-b876-de08538d437d",
       "dgft-public-notice:d7c80b33-7750-4e7e-a9e3-e5487f6a7df0",
       "site:CAG|https://cag.gov.in/en/audit-report/details/125836",
       "watch:meeting:LS|22566",
@@ -19963,7 +19962,11 @@
       "pib:2333357",
       "gazette:CG-DL-E-05112026-277703",
       "pib:2333378",
-      "gazette:CG-DL-E-05112026-277705"
+      "gazette:CG-DL-E-05112026-277705",
+      "site:WTO|https://www.wto.org/english/news_e/news26_e/envir_05nov26_541_e.htm",
+      "gazette:CG-MH-E-05112026-277698",
+      "gazette:CG-DL-E-05112026-277708",
+      "gazette:CG-DL-E-05112026-277712"
     ],
     "source_failures": {},
     "sources": [
@@ -20024,18 +20027,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793214349542",
-    "1793239860289",
-    "1793261821045",
-    "1793269980777",
-    "1793272479612",
-    "1793278289312",
-    "1793283960228",
-    "1793295320319",
-    "1790640000080",
-    "1790640000284",
-    "1790640000335",
-    "1790640000439",
     "1790640000504",
     "1790640000531",
     "1790640000590",
@@ -24503,7 +24494,6 @@
     "1792579837435",
     "1792645202256",
     "1793814606547",
-    "1793854816372",
     "1793870529426",
     "1793873778630",
     "1793878380225",
@@ -24525,10 +24515,29 @@
     "1793289600576",
     "1793851200920",
     "1793857573506",
-    "1793876569475",
-    "1793878797622",
     "1793887300613",
     "1793890920896",
+    "1778917991403",
+    "1792156871747",
+    "1792662737873",
+    "1793232000741",
+    "1793232000937",
+    "1793289600084",
+    "1793289600117",
+    "1793289635953",
+    "1793750400772",
+    "1793853998997",
+    "1793862463926",
+    "1793870991631",
+    "1793872800207",
+    "1793874048372",
+    "1793874600667",
+    "1793876399421",
+    "1793883601852",
+    "1793885376927",
+    "1793890309283",
+    "1793890860690",
+    "1793890922187",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -24561,7 +24570,6 @@
     "1774281600344",
     "1774958400263",
     "1777291223435",
-    "1778917991403",
     "1778918415508",
     "1778918924099",
     "1778919366889",
@@ -25454,7 +25462,6 @@
     "1792108800661",
     "1792117873305",
     "1792141778525",
-    "1792156871747",
     "1792177200590",
     "1792347345536",
     "1792378078745",
@@ -25526,7 +25533,6 @@
     "1792645256641",
     "1792648800012",
     "1792656948850",
-    "1792662737873",
     "1792664152667",
     "1792670355715",
     "1792672275017",
@@ -25631,9 +25637,7 @@
     "1793219954177",
     "1793221200206",
     "1793229351470",
-    "1793232000741",
     "1793232000882",
-    "1793232000937",
     "1793240992281",
     "1793250957275",
     "1793257200328",
@@ -25644,9 +25648,6 @@
     "1793275200372",
     "1793275207548",
     "1793278816183",
-    "1793289600084",
-    "1793289600117",
-    "1793289635953",
     "1793290500311",
     "1793291400488",
     "1793293200374",
@@ -25755,7 +25756,6 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
-    "1793750400772",
     "1793769854663",
     "1793772554134",
     "1793772873639",
@@ -25816,15 +25816,16 @@
     "1793850364956",
     "1793850513614",
     "1793851286920",
+    "1793851304817",
     "1793851625625",
     "1793851846949",
     "1793852358100",
     "1793852900433",
     "1793853311426",
-    "1793853998997",
     "1793854020070",
     "1793854036352",
     "1793854225145",
+    "1793854816372",
     "1793855025574",
     "1793855143050",
     "1793855270810",
@@ -25845,7 +25846,6 @@
     "1793860980026",
     "1793861915182",
     "1793861952509",
-    "1793862463926",
     "1793862852937",
     "1793863414739",
     "1793864182308",
@@ -25868,10 +25868,8 @@
     "1793869857882",
     "1793870122217",
     "1793870296964",
-    "1793870991631",
     "1793871414217",
     "1793871780982",
-    "1793872800207",
     "1793872800891",
     "1793872801148",
     "1793873236962",
@@ -25879,22 +25877,21 @@
     "1793873519036",
     "1793873968796",
     "1793874043563",
-    "1793874048372",
     "1793874175322",
     "1793874240622",
     "1793874471117",
-    "1793874600667",
     "1793874901914",
     "1793874942850",
     "1793874949074",
     "1793876214275",
     "1793876289941",
-    "1793876399421",
     "1793876400080",
     "1793876400787",
     "1793876493450",
+    "1793876569475",
     "1793876682471",
     "1793876682725",
+    "1793876815690",
     "1793876824278",
     "1793877249514",
     "1793877250011",
@@ -25906,6 +25903,7 @@
     "1793878320898",
     "1793878341955",
     "1793878463492",
+    "1793878797622",
     "1793878800391",
     "1793878842714",
     "1793878951355",
@@ -25930,11 +25928,10 @@
     "1793883429456",
     "1793883449816",
     "1793883600845",
-    "1793883601852",
     "1793883794111",
     "1793883936630",
+    "1793884654065",
     "1793884987269",
-    "1793885376927",
     "1793885654595",
     "1793886300656",
     "1793886448471",
@@ -25959,14 +25956,12 @@
     "1793889571962",
     "1793889590505",
     "1793889763351",
-    "1793890309283",
+    "1793890303283",
     "1793890325447",
     "1793890455630",
     "1793890761809",
     "1793890808569",
     "1793890845645",
-    "1793890860690",
-    "1793890922187",
     "1793891136735",
     "1793891533599",
     "1793891640229",
@@ -26002,7 +25997,15 @@
     "1793897123648",
     "1793897418138",
     "1793897533318",
+    "1793897761908",
+    "1793898000023",
     "1793898000038",
+    "1793898000197",
+    "1793898000852",
+    "1793898035953",
+    "1793898060576",
+    "1793898116287",
+    "1793898316800",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26026,32 +26029,9 @@
     "2333279"
   ],
   "last_digest_hour": "2026-11-05T22",
-  "last_success": "2026-11-05T17:01:45.288812+00:00",
+  "last_success": "2026-11-05T17:16:17.261113+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-09-30T18:04:34.233703+00:00",
-        "handle": "Gazette Ministry of Finance",
-        "headline": "Saurabh Kumar Tiwari appointed Whole Time Member of PFRDA for five years",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/276664.pdf",
-        "words": [
-          "2026",
-          "department",
-          "extraordinary",
-          "finance",
-          "financial",
-          "gazette",
-          "issued",
-          "ministry",
-          "notification",
-          "part",
-          "publication",
-          "section",
-          "sep",
-          "services"
-        ]
-      },
       {
         "at": "2026-10-01T07:19:59.033703+00:00",
         "handle": "IMD",
@@ -34562,9 +34542,27 @@
           "upsc",
           "written"
         ]
+      },
+      {
+        "at": "2026-11-05T17:17:28.006205+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.0 earthquake -- 130 km NE of Thang, India.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p",
+        "words": [
+          "130",
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "nov",
+          "reported",
+          "thang",
+          "usgs"
+        ]
       }
     ],
-    "gazette_mark": 277705,
+    "gazette_mark": 277712,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -36066,7 +36064,10 @@
       "CG-UP-E-05112026-277699",
       "CG-DL-E-05112026-277701",
       "CG-DL-E-05112026-277703",
-      "CG-DL-E-05112026-277705"
+      "CG-DL-E-05112026-277705",
+      "CG-DL-E-05112026-277708",
+      "CG-DL-E-05112026-277712",
+      "CG-MH-E-05112026-277698"
     ],
     "health": {
       "down": {
@@ -36076,14 +36077,9 @@
       },
       "warned": "2026-11-04T23:32:44.622861+00:00"
     },
-    "last_run": "2026-11-05T17:03:05.555485+00:00",
+    "last_run": "2026-11-05T17:17:28.007715+00:00",
     "pib_mark": 2333378,
     "seen": [
-      "pib:2324616",
-      "pib:2324629",
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ONE SATTA OPERATOR APPREHENDED BY PS NAND NAGRI, CASH AND SATTA MATERIAL RECOVERED.",
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|MINOR GIRL SAFELY TRACED WITHIN TWO HOURS AND REUNITED WITH HER FAMILY BY PS I.P ESTATE, CENTRAL DISTRICT",
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ONE ILLICIT LIQUOR SUPPLIER ARRESTED BY THE SPECIAL STAFF, ROHINI.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|AATS, SOUTH DISTRICT APPREHENDS ACTIVE AUTO LIFTER, THREE STOLEN TWO WHEELERS RECOVERED, THREE CASES WORKED OUT.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ONE ACCUSED, ARMED WITH AN ILLEGAL PISTOL AND TWO LIVE CARTRIDGES ARRESTED BY PS DAYALPUR.",
       "pib:2324637",
@@ -39078,7 +39074,12 @@
       "pib:2333352",
       "gazette:CG-DL-E-05112026-277701",
       "gazette:CG-DL-E-05112026-277705",
-      "pib:2333378"
+      "pib:2333378",
+      "quake:usgs:us7000tw8p",
+      "gazette:CG-DL-E-05112026-277712",
+      "gazette:CG-DL-E-05112026-277708",
+      "site:WTO|https://www.wto.org/english/news_e/news26_e/envir_05nov26_541_e.htm",
+      "gazette:CG-MH-E-05112026-277698"
     ],
     "source_failures": {
       "CBI": {
@@ -39185,6 +39186,42 @@
       "queued_at": "2026-11-05T17:01:45.174143+00:00",
       "score": 7.0,
       "why": "This is a significant official development in the ongoing UPI merchant fee row."
+    },
+    {
+      "headline": "OpenAI says new cybersecurity model improves defensive capabilities",
+      "post": {
+        "created_at": "2026-11-05T17:00:00+00:00",
+        "handle": "News: Global AI",
+        "id": "1793898000852",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Verge",
+        "reposts": 0,
+        "text": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVJhXzNhR2ZJZ19kVm5FVkQ4dVVwUDlRV2ZZUGZKZ2ZZai1HQ3VzSTV4RHQ3UlhRNjNZbjhCcUFRMmFIN21PMmpKNGpzanZqSE5xZ3VZeUtMc3o1M0NidFpvV3VWSlR3YWdYV2RycTdXZGtYazNsYW9OZGljZFJHdzl4bi1valBMT0cyd3N3?oc=5"
+      },
+      "queued_at": "2026-11-05T17:16:17.145955+00:00",
+      "score": 8.0,
+      "why": "Significant research/model disclosure by a major AI lab regarding safety and security."
+    },
+    {
+      "headline": "Canada's Avenir acquires communications firms serving Nvidia and Meta",
+      "post": {
+        "created_at": "2026-11-05T13:17:34+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1793884654065",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Bloomberg",
+        "reposts": 0,
+        "text": "Canada\u2019s Avenir Snaps Up Communications Firms That Serve Nvidia, Meta",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUzRZX3pRcXFjQ2hENTVfcGZYa28wR0pMN28zbURmRGlLU2xJSTgtckplTEQzWS1hYjRMWGk5UEVnX0RLTVBwY2l3N3dZYkl4S2VkY3d3TklMVHh0ajRDQ09MOVI4TV9hcUZ5T1JFTzlkY0dHUmlkdWVBczRLazNDaVppUTdib3pzU3dtemNsV2Y4TjVwR2dRSko5SVlMZHM3cTZJLVJSWnRWY3hGd2wtLXZEYmtaRTg1bUxfeUFDMjBTODRuSWc?oc=5"
+      },
+      "queued_at": "2026-11-05T17:16:17.145955+00:00",
+      "score": 7.0,
+      "why": "Acquisition involving major tech ecosystem players."
     }
   ],
   "page_links": {
@@ -40331,9 +40368,9 @@
     "capgemini": 1793797728275,
     "cognizant": 1793295075860,
     "flipkart": 1792587694944,
-    "google": 1793898000038,
+    "google": 1793898000197,
     "google cloud": 1793802540553,
-    "google deepmind": 1793725309117,
+    "google deepmind": 1793898316800,
     "google india": 1793676600768,
     "hcltech": 1793818765138,
     "ibm": 1793883600845,
@@ -40347,7 +40384,7 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1793897008096,
     "news: consumer internet india": 1793892392328,
-    "news: global ai": 1793896860876,
+    "news: global ai": 1793898116287,
     "news: global chips": 1793897044456,
     "news: global it services": 1793876289941,
     "news: india ai deeptech": 1793874942850,
@@ -40355,13 +40392,13 @@
     "news: india fintech": 1793897418138,
     "news: india semiconductors": 1793850688171,
     "news: india tech policy": 1793889527068,
-    "news: india telecom": 1793897533318,
+    "news: india telecom": 1793897761908,
     "news: indian it majors": 1793897123648,
     "news: indian it midcaps": 1793861179483,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793891640229,
     "nvidia": 1793894405609,
-    "nvidia blog": 1793894405609,
+    "nvidia blog": 1793898035953,
     "openai": 1793844000135,
     "oracle": 1792758669661,
     "phonepe": 1793171753713,
@@ -40386,7 +40423,9 @@
     "zoho": 1793800451825
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-05T17:16:09.021141+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40404,7 +40443,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-05T17:01:45.780919+00:00",
+    "last_server_run": "2026-11-05T17:16:17.789454+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-05T16:47:03.364725+00:00",
@@ -40533,7 +40572,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-11-05T11:16:27.196259+00:00",
+        "at": "2026-11-05T17:16:33.627034+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -40543,7 +40582,7 @@
         }
       },
       "last": {
-        "calendar": "2026-11-05T11:16:30.213651+00:00",
+        "calendar": "2026-11-05T17:16:36.354691+00:00",
         "ls_reports": "2026-11-05T16:46:49.886992+00:00",
         "rs_committee_press": "2026-11-05T15:32:13.415684+00:00",
         "rs_press": "2026-11-05T15:32:10.620670+00:00",
@@ -40821,6 +40860,8 @@
       "CG-DL-E-05112026-277702",
       "CG-DL-E-05112026-277703",
       "CG-DL-E-05112026-277705",
+      "CG-DL-E-05112026-277708",
+      "CG-DL-E-05112026-277712",
       "CG-DL-E-06102026-276808",
       "CG-DL-E-06102026-276809",
       "CG-DL-E-06102026-276810",
@@ -41676,6 +41717,7 @@
       "CG-MH-E-05102026-276804",
       "CG-MH-E-05102026-276805",
       "CG-MH-E-05112026-277685",
+      "CG-MH-E-05112026-277698",
       "CG-MH-E-06102026-276820",
       "CG-MH-E-06102026-276832",
       "CG-MH-E-06102026-276850",
@@ -50472,17 +50514,43 @@
           "reforms",
           "threshold"
         ]
+      },
+      {
+        "at": "2026-11-05T17:17:44.954447+00:00",
+        "headline": "Allegations of irregularities surface in Punjab Civil Services Mains examination results",
+        "url": "https://x.com/BJP4India/status/2118389402166862210",
+        "words": [
+          "absent",
+          "all",
+          "away",
+          "candidates",
+          "centre",
+          "https",
+          "list",
+          "mains",
+          "mass",
+          "merit",
+          "numbers",
+          "one",
+          "out",
+          "pcs",
+          "pharmacy",
+          "results",
+          "roll",
+          "rooms",
+          "seats",
+          "selection",
+          "sequential",
+          "single",
+          "walked",
+          "wjpp3u2cua"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-05T17:03:13.181012+00:00",
+    "last_run": "2026-11-05T17:17:44.954726+00:00",
     "seen": [
-      "x:2115827041346179580",
-      "x:2115828377710161967",
-      "x:2115828706711372095",
-      "x:2115834342144622718",
-      "x:2115838319682789666",
       "x:2115838570501910608",
       "x:2115843603993870776",
       "x:2115852318457688191",
@@ -53477,7 +53545,12 @@
       "x:2118383666040873171",
       "x:2118385046721810536",
       "x:2118385533655392405",
-      "x:2118385814338183249"
+      "x:2118385814338183249",
+      "x:2118387616899039572",
+      "x:2118389402166862210",
+      "x:2118390227073118223",
+      "x:2118390672491487633",
+      "x:2118391181239587105"
     ],
     "source_failures": {},
     "sources": []
