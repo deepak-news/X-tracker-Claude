@@ -744,7 +744,7 @@ def collect(cfg: dict, scanned: set, memory: dict | None = None, report: list | 
         if record.get("until") and dt.datetime.fromisoformat(record["until"]) > now and not free:
             print(f"  {name}: resting after {record.get('count')} failed runs, "
                   f"tried again after {record['until'][11:16]} UTC")
-            if report is not None:
+            if report is not None and not name.startswith(FROM_SITE):
                 report.append((name, RuntimeError(f"not read: failed {record.get('count')} runs in a row, "
                                                   f"so it is tried again every few hours")))
             continue

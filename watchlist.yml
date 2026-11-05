@@ -1148,7 +1148,7 @@ site:
     - {source: CEO Uttar Pradesh, url: "https://ceouttarpradesh.nic.in/", match: "/ImportantIntruction/", home_only: true}   # refuses GitHub and Cloudflare
     # Exams and data bodies (added 2026-11-02, the user's choice). UPSC: results and schedules of
     # the big examinations only, not single-post recruitment. NTA: every notice (JEE, NEET, CUET, UGC-NET).
-    - {source: UPSC, url: "https://upsc.gov.in/", match: "/whats-new/.", only: "Civil Services|Engineering Services|Defence|Naval Academy|Forest Service|Medical Services|Economic Service|Statistical Service|Geo-Scientist|CAPF|Central Armed Police", exclude: "Posts? of|Interview Details|Time Table|Admit", ai: true}
+    - {source: UPSC, url: "https://upsc.gov.in/", match: "/whats-new/.", only: "Civil Services|Engineering Services|Defence|Naval Academy|Forest Service|Medical Services|Economic Service|Statistical Service|Geo-Scientist|CAPF|Central Armed Police", exclude: "Posts? of|Interview Details|Time Table|Admit", home_only: true}   # refuses GitHub and Cloudflare (Nov 5)
     - {source: NTA, url: "https://nta.ac.in/", match: "/Download/Notice/Notice_\\d+\\.pdf", title: parent, ai: true}
     - {source: NIA, sub: Press releases, url: "https://nia.mha.gov.in/en/press-releases", match: ".", within: ".view-content", title: row, cells: "{1}", min: 10}   # every one counts
     - {source: FADA, url: "https://www.fada.in/", match: "/images/press-release/", title: slug, strip: "^\\d[0-9a-z]{9,}?(?=FADA)", ai: true}   # vehicle retail sales, monthly
@@ -1169,7 +1169,7 @@ site:
     - {source: NHRC, url: "https://nhrc.nic.in/media/press-release", match: "/media/press-release/.", exclude: "internship"}
     - {source: CIC, url: "https://cic.gov.in/", match: "cic\\.gov\\.in/(node/\\d+|circular|notice)", ai: true}
     # --- Health
-    - {source: CDSCO, url: "https://cdsco.gov.in/opencms/opencms/en/Home/", match: "Pdf-documents/.+\\.pdf", ai: true}
+    - {source: CDSCO, url: "https://cdsco.gov.in/opencms/opencms/en/Home/", match: "Pdf-documents/.+\\.pdf", ai: true, relay: true}   # refuses GitHub (Nov 4)
     - {source: ICMR, url: "https://www.icmr.gov.in/", match: "/post/|/uploads/(WhatsNew|Call)/", exclude: "recruitment|advertisement|admission|walk-in", ai: true}
     - {source: NMC, url: "https://www.nmc.org.in/", match: "whats-new/download/\\d+", strip: "^\\d{2}/\\d{2}/\\d{4}\\s*-\\s*|\\s+New!?$", ai: true}
     - {source: NCDC, url: "https://ncdc.mohfw.gov.in/", match: "/uploads/announcements/", exclude: "post of|posts of|recruit|vacanc|walk-in|engagement", ai: true}
@@ -1182,7 +1182,7 @@ site:
     # --- Space, disasters and pollution
     - {source: ISRO, url: "https://www.isro.gov.in/", match: "isro\\.gov\\.in/[A-Za-z0-9_]+\\.html$|/media_isro/pdf/", exclude: "YUVIKA|hackathon|selection list|robotics challenge", ai: true, new_ids: true}   # AI-scored from 2026-10-11
     - {source: CPCB, url: "https://cpcb.nic.in/", match: "openpdffile\\.php\\?id=", exclude: "recruitment|downtime|tender", ai: true}
-    - {source: GDACS disaster alerts, feed: "https://www.gdacs.org/xml/rss.xml", only: "^(Red|Orange) "}
+    - {source: GDACS disaster alerts, feed: "https://www.gdacs.org/xml/rss.xml", only: "^(Red|Orange) ", agent: "PTI-Source-Alerts/1.0 (news agency feed reader)"}   # our browser name gets its bot check (Nov 3)
     # --- World
     - {source: White House, feed: "https://www.whitehouse.gov/news/feed/", ai: true}
     - {source: US Federal Reserve, feed: "https://www.federalreserve.gov/feeds/press_all.xml"}

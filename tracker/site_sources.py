@@ -28,6 +28,7 @@ More pages and feeds, added 2026-10-11, need no code of their own: each is one l
     {source: White House, feed: "https://www.whitehouse.gov/news/feed/", ai: true}
         an RSS or Atom feed; "only" keeps entries whose title matches
     relay: true      read through the mea-relay Worker on Cloudflare (sites refusing GitHub)
+    agent: "..."     the reader's name to give the site, in place of the usual browser one
     home_only: true  read by the Mac's copy (run-watch.sh, WATCH_HOME=1), never on GitHub: for
                      sites that refuse GitHub and Cloudflare alike (ECI, Lokpal, NCB...)
     reader: eci      the site gives its list as data, read by a function below (HOME_READERS)
@@ -71,7 +72,7 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
-from . import judge, regulators, website
+from . import judge, regulators, tls, website
 
 TIMEOUT = 40
 MAX_AGE_DAYS = 21
@@ -84,7 +85,8 @@ def _clean(text) -> str:
 
 
 def _get(url: str, **kw):
-    response = requests.get(url, **{"headers": HEADERS, "timeout": TIMEOUT, **kw})
+    # verify: the usual trust store plus tracker/certs, for sites that leave part of their chain out (NCERT)
+    response = requests.get(url, **{"headers": HEADERS, "timeout": TIMEOUT, "verify": tls.bundle(), **kw})
     response.raise_for_status()
     # a page that names no character set is read as Latin-1, which garbles "Air India's"
     if (response.encoding or "").lower() in ("", "iso-8859-1"):
@@ -442,7 +444,8 @@ def _text(entry) -> bytes:
         response = requests.get(RELAY, params={"u": url}, headers=HEADERS, timeout=70)
         response.raise_for_status()
         return response.content
-    return _get(url).content
+    # "agent": a site that answers our browser name with its bot check is asked under our own name
+    return _get(url, **({"headers": {"User-Agent": entry["agent"]}} if entry.get("agent") else {})).content
 
 
 def _when(parsed):
