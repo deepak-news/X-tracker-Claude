@@ -7,7 +7,10 @@ on:
     inputs:
       sources:
         description: "Source keys, comma separated (grp|source)"
-        required: true
+        default: ""
+      ids:
+        description: "Or gazette ids to read again and judge by both desks (comma separated)"
+        default: ""
       hours:
         description: "How many hours back"
         default: "24"
@@ -35,6 +38,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           RESCORE_SOURCES: ${{ inputs.sources }}
           RESCORE_HOURS: ${{ inputs.hours }}
+          RESCORE_IDS: ${{ inputs.ids }}
         run: python -m tracker.rescore
       - uses: actions/upload-artifact@v4
         with:

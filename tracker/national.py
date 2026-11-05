@@ -219,7 +219,13 @@ def _gazette_text(url: str) -> str:
     # and start where the notification itself starts.
     english = " ".join(word for word in raw.split() if _ENGLISH.fullmatch(word))
     opening = _OPENING.search(english)
-    return english[opening.start():][:GAZETTE_CHARS] if opening else english[:GAZETTE_CHARS]
+    text = english[opening.start():][:GAZETTE_CHARS] if opening else english[:GAZETTE_CHARS]
+    # never hand the AI leftovers (numbers and stops from Hindi pages): it would judge
+    # the gazette empty. Without real English words it is judged on its subject line.
+    if len(re.findall(r"[A-Za-z]{3,}", text)) < 40:
+        print(f"    gazette's English text not found in {url[-40:]}; judged on its subject")
+        return ""
+    return text
 
 
 def read_gazettes(posts: list) -> None:

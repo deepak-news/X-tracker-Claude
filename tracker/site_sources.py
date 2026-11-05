@@ -577,6 +577,13 @@ def _xbrl_text(url: str) -> str:
 
 
 PDF_MAX_BYTES = 8_000_000
+PDF_PAGES = 12
+
+
+def mostly_english(text: str) -> bool:
+    """A page that is mostly English words (not a Hindi page with an English masthead)."""
+    words = text.split()
+    return len(words) >= 20 and sum(1 for w in words if re.search(r"[A-Za-z]{2}", w)) >= 0.6 * len(words)
 
 
 def _pdf_text(url: str) -> str:
@@ -587,7 +594,11 @@ def _pdf_text(url: str) -> str:
     if len(response.content) > PDF_MAX_BYTES:
         return ""
     pages = PdfReader(io.BytesIO(response.content)).pages
-    first = " ".join(" ".join((page.extract_text() or "") for page in pages[:3]).split())
+    # a bilingual document can put pages of Hindi first: start at its first English page
+    texts = [page.extract_text() or "" for page in pages[:PDF_PAGES]]
+    start = next((i for i, t in enumerate(texts) if mostly_english(t)), 0)
+    lead = texts[start - 1][texts[start - 1].rfind("MINISTRY OF"):] if start and "MINISTRY OF" in texts[start - 1] else ""
+    first = " ".join(" ".join([lead] + texts[start:start + 3]).split())
     last = " ".join((pages[-1].extract_text() or "").split()) if len(pages) > 3 else ""
     cover = re.search(r"CORAM.{0,800}?\b(J\s?U\s?D\s?G\s?E?\s?M\s?E\s?N\s?T|O\s?R\s?D\s?E\s?R)\b", first, re.S)
     if cover:
