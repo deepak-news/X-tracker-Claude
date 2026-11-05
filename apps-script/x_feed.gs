@@ -98,9 +98,24 @@ function readFeed_(props) {
       ? ' -- the @DeepakatPTI login has probably expired; refresh AUTH_TOKEN and CT0'
       : '') + ': ' + res.getContentText().slice(0, 150));
   }
-  const data = JSON.parse(res.getContentText()).globalObjects || {};
+  const body = JSON.parse(res.getContentText());
+  const data = body.globalObjects || {};
   const users = data.users || {};
-  return Object.values(data.tweets || {}).map(t => {
+  // globalObjects also carries every post a notified post reposts, quotes or
+  // replies to -- often by accounts @DeepakatPTI does not follow (Nov 5: ANI,
+  // SBI, a DCP's posts reposted by followed accounts). Keep only the posts the
+  // notifications themselves point at.
+  const tweets = Object.values(data.tweets || {});
+  const notified = notifiedIds_(body.timeline);
+  const embedded = new Set();
+  tweets.forEach(t => {
+    if (t.retweeted_status_id_str) embedded.add(t.retweeted_status_id_str);
+    if (t.quoted_status_id_str) embedded.add(t.quoted_status_id_str);
+  });
+  const keep = notified.size
+    ? tweets.filter(t => notified.has(t.id_str))
+    : tweets.filter(t => !embedded.has(t.id_str));
+  return keep.map(t => {
     const user = users[t.user_id_str] || {};
     const handle = user.screen_name || t.user_id_str;
     let text = t.full_text || t.text || '';
@@ -120,6 +135,18 @@ function readFeed_(props) {
       reply: Boolean(t.in_reply_to_status_id_str) && t.in_reply_to_user_id_str !== t.user_id_str,
     };
   });
+}
+
+// The ids of the posts the notification entries point at.
+function notifiedIds_(timeline) {
+  const ids = new Set();
+  const walk = (x, depth) => {
+    if (!x || typeof x !== 'object' || depth > 12) return;
+    if (x.tweet && x.tweet.id) ids.add(String(x.tweet.id));
+    Object.keys(x).forEach(k => walk(x[k], depth + 1));
+  };
+  walk(timeline, 0);
+  return ids;
 }
 
 // What the tracker reads: ?hours=12 gives every post from the last 12 hours,
