@@ -1,41 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-27T19:31:28.897754+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Chandigarh reinstates Rapido and Uber licences after 45-day suspension",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWjF5UWhITjlHMEJfVVc4Umdqd2FSeGd2cTZGTlgzY29QNWRQcXQzcnItOTFRWVo2bkcxcUR5RXZvVGtIS25HLXllRU53OEpoUXc4bEphQ1FReWN1cFFnUGxmTV9FSFh2Zkw5aEdkdm5PSEc1R2FPbldvUXQydGJ5akoxMjNaQmhManZfRTBYRUdHazRqOE5fSXhkTkxGV2x5THhmOWRpNFY4RzhRVVlKa2tpTENCdEZhQU43Qk53V2E3b2NTcUNjMWtJeVliQ3RtVTBUems0ZXEtcG1l0gHiAUFVX3lxTE5kSURhMzc3TFZndEU5YVVVV0JnWEw0RzVFZjJHelZsTDZfVmNobERscXpoUVgyb3NxOV9WUmpCYnpvTGxTYzlHQS1BdU5QanpDd2VtSWRzb3pLMGN1WmdaN3Rxc0lBc1VWNjJBbVhFWU4zYlVNMTMwdmY2RzJxRzhlNTM5RlFrdldOVnJYWVhTZWc2a0xTNDdtSzcxa0kyT2tOX3JBUHBUcTVvdVFGdFpQd01tT1NUQ21ibnlSdDZhNk1EZXNwR25Od0lZNVNPa2hrdXJJby14YnluUVZRQnd4RUE?oc=5",
-      "words": [
-        "chandigarh",
-        "day",
-        "licences",
-        "rapido",
-        "reinstates",
-        "suspension",
-        "uber"
-      ]
-    },
-    {
-      "at": "2026-10-27T20:31:23.067583+00:00",
-      "handle": "News: Global AI",
-      "headline": "Oracle expands partnership with OpenAI for business applications",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQlpGZnZ0UDc0djVDMHhaUVFWemRua2xSeVFnNXQxMFFEeXpfdHplNWZPUUVhaXdraDhYZzdId1gzVWlpbm9hWERoNEh3ZUVFeVlZWE81MHVXSGNqd2tTdjFXb0FHai1naUJDa200ZWtCU0VKbHRoM1poblczUjg1eWdHVzZrWm14d1h1SDZUT0JRRDZaOGdKajdJSFAtd0hMSHA0d0ZDVjlOdmZHX3AzZmFBNEVYZWJVSTJDYUlIVWJySFpESmJJSWpuYzIxdThwWlHSAdIBQVVfeXFMTkJaRmZ2dFA3NHY1QzB4WlFRVnpkbmtsUnlRZzV0MTBRRHl6X3R6ZTVmT1FFYWl3a2g4WGc3SHdYM1VpaW5vYVhEaDRId2VFRXlZWVhPNTB1V0hjandrU3YxV29BR2otZ2lCQ2ttNGVrQlNFSmx0aDNaaG5XM1I4NXlnR1c2a1pteHdYdUg2VE9CUUQ2WjhnSmo3SUhQLXdITEhwNHdGQ1Y5TnZmR19wM2ZhQTRFWGViVUkyQ2FJSFVickhaREpiSUlqbmMyMXU4cFpR?oc=5",
-      "words": [
-        "applications",
-        "bring",
-        "business",
-        "chatgpt",
-        "codex",
-        "expands",
-        "into",
-        "openai",
-        "oracle",
-        "partnership"
-      ]
-    },
-    {
       "at": "2026-10-27T22:31:22.197645+00:00",
       "handle": "Anthropic",
       "headline": "Anthropic expands GSA partnership with 40% public sector discount",
@@ -7378,6 +7343,46 @@
         "openai",
         "ready",
         "sales"
+      ]
+    },
+    {
+      "at": "2026-11-05T04:31:27.790949+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic executive Cat Wu joins OpenAI to lead product management",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVWx0cDhLQkRiR3JZX0VOaGxLelllRlRBbVhQZW82RFlvNkxZanpGdWNmSHI0M2NRbDN0UnpUWFFpaDUtTkM4LWpYMVM3a2hBREZ3ZUg2elpETS1WVElBSG1xWnFIYm1oZVpzbmpXbDQ1dTJFWFl3Mk91QXloQlJxTVVKTlNQTDZ3YzUzaU9MaU95TEdsMk1KQTFpeDZqRVRaaGxrNkE5TncyTXg3Vk8tTXVwUldXTDBhUG1vUlF1a2dfU1lYOEpFNjlZTEF3WXNnLWtJLTFrLUNVRnJFOWQwNVZZZTR6c1MxOVA40gHrAUFVX3lxTE5VbHRwOEtCRGJHcllfRU5obEt6WWVGVEFtWFBlbzZEWW82TFlqekZ1Y2ZIcjQzY1FsM3RSelRYUWloNS1OQzgtalgxUzdraEFERndlSDZ6WkRNLVZUSUFIbXFacUhibWhlWnNualdsNDV1MkVYWXcyT3VBeWhCUnFNVUpOU1BMNndjNTNpT0xpT3lMR2wyTUpBMWl4NmpFVFpobGs2QTlOdzJNeDdWTy1NdXBSV1dMMGFQbW9SUXVrZ19TWVg4SkU2OVlMQXdZc2cta0ktMWstQ1VGckU5ZDA1VlllNHpzUzE5UDg?oc=5",
+      "words": [
+        "anthropic",
+        "cat",
+        "core",
+        "executive",
+        "joins",
+        "lead",
+        "management",
+        "openai",
+        "product",
+        "products"
+      ]
+    },
+    {
+      "at": "2026-11-05T04:31:27.790949+00:00",
+      "handle": "News: Global chips",
+      "headline": "Moreh claims AMD MI355X outperforms Nvidia B200 in inference throughput",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVm10UnhhUWMxaVB2YzVMSFZEYkRaWnotVzI4WG80WmhZWEFBZFA3NnFMY3RrbV9KN0RCU3ZMWWdibGtYSW5heHJLZFNDSVJKc0VSWmxHNkxtMS0tM3RwQldjNENUVGFYVEE0U2Z3TExmWVZHeEM2QkpRR0E3ZXozUDYtQmV1aTNUM0xjamo2WFc?oc=5",
+      "words": [
+        "amd",
+        "b200",
+        "claims",
+        "delivers",
+        "inference",
+        "korea",
+        "mi355x",
+        "moreh",
+        "nvidia",
+        "south",
+        "throughput",
+        "twice"
       ]
     }
   ],
@@ -16973,7 +16978,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-05T04:17:08.756590+00:00",
+    "last_run": "2026-11-05T04:32:28.540687+00:00",
     "pib_mark": 2332841,
     "seen": [
       "pib:2323813",
@@ -20035,10 +20040,6 @@
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
   },
   "handled": [
-    "1793200040180",
-    "1793209600375",
-    "1793214858757",
-    "1793215863556",
     "1793228092507",
     "1793248398900",
     "1793252940692",
@@ -24523,16 +24524,18 @@
     "1793764600361",
     "1793765118818",
     "1793779367757",
-    "1793790120810",
     "1793804678756",
-    "1793822492927",
     "1793827980325",
     "1793845105204",
     "1793845655422",
     "1793848388974",
-    "1793789133034",
     "1793828259985",
     "1793848139599",
+    "1793765872120",
+    "1793766171147",
+    "1793804054824",
+    "1793846615030",
+    "1793848328292",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25782,8 +25785,6 @@
     "1793750400772",
     "1793762964568",
     "1793765622684",
-    "1793765872120",
-    "1793766171147",
     "1793766964386",
     "1793767850042",
     "1793768359575",
@@ -25849,8 +25850,10 @@
     "1793788589369",
     "1793788590301",
     "1793789001323",
+    "1793789133034",
     "1793789451807",
     "1793789926445",
+    "1793790120810",
     "1793790655075",
     "1793791708904",
     "1793792024038",
@@ -25891,6 +25894,7 @@
     "1793799969672",
     "1793800017218",
     "1793800020863",
+    "1793800260741",
     "1793800456807",
     "1793800500163",
     "1793800525041",
@@ -25909,7 +25913,6 @@
     "1793803466120",
     "1793803537408",
     "1793803561465",
-    "1793804054824",
     "1793804497421",
     "1793804856151",
     "1793805079789",
@@ -25948,6 +25951,7 @@
     "1793820600605",
     "1793821063545",
     "1793821500656",
+    "1793822492927",
     "1793824183366",
     "1793826300895",
     "1793826305889",
@@ -25999,11 +26003,9 @@
     "1793846202842",
     "1793846263546",
     "1793846332838",
-    "1793846615030",
     "1793847129562",
     "1793848139493",
     "1793848180176",
-    "1793848328292",
     "1793848388911",
     "1793848437779",
     "1793848723513",
@@ -26022,6 +26024,9 @@
     "1793851200920",
     "1793851304490",
     "1793851625876",
+    "1793851846949",
+    "1793852235143",
+    "1793852776523",
     "1793865600231",
     "1795996800387",
     "2331589",
@@ -26036,8 +26041,8 @@
     "2332607",
     "2332613"
   ],
-  "last_digest_hour": "2026-11-05T09",
-  "last_success": "2026-11-05T04:16:06.841218+00:00",
+  "last_digest_hour": "2026-11-05T10",
+  "last_success": "2026-11-05T04:31:27.898943+00:00",
   "national": {
     "alerted": [
       {
@@ -36070,7 +36075,7 @@
       },
       "warned": "2026-11-04T23:32:44.622861+00:00"
     },
-    "last_run": "2026-11-05T04:16:46.654483+00:00",
+    "last_run": "2026-11-05T04:32:06.684243+00:00",
     "pib_mark": 2332841,
     "seen": [
       "pib:2324319",
@@ -39143,44 +39148,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic executive Cat Wu joins OpenAI to lead product management",
-      "post": {
-        "created_at": "2026-11-05T03:32:36+00:00",
-        "handle": "News: Global AI",
-        "id": "1793849556044",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Anthropic executive Cat Wu joins OpenAI to lead product management for core products",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVWx0cDhLQkRiR3JZX0VOaGxLelllRlRBbVhQZW82RFlvNkxZanpGdWNmSHI0M2NRbDN0UnpUWFFpaDUtTkM4LWpYMVM3a2hBREZ3ZUg2elpETS1WVElBSG1xWnFIYm1oZVpzbmpXbDQ1dTJFWFl3Mk91QXloQlJxTVVKTlNQTDZ3YzUzaU9MaU95TEdsMk1KQTFpeDZqRVRaaGxrNkE5TncyTXg3Vk8tTXVwUldXTDBhUG1vUlF1a2dfU1lYOEpFNjlZTEF3WXNnLWtJLTFrLUNVRnJFOWQwNVZZZTR6c1MxOVA40gHrAUFVX3lxTE5VbHRwOEtCRGJHcllfRU5obEt6WWVGVEFtWFBlbzZEWW82TFlqekZ1Y2ZIcjQzY1FsM3RSelRYUWloNS1OQzgtalgxUzdraEFERndlSDZ6WkRNLVZUSUFIbXFacUhibWhlWnNualdsNDV1MkVYWXcyT3VBeWhCUnFNVUpOU1BMNndjNTNpT0xpT3lMR2wyTUpBMWl4NmpFVFpobGs2QTlOdzJNeDdWTy1NdXBSV1dMMGFQbW9SUXVrZ19TWVg4SkU2OVlMQXdZc2cta0ktMWstQ1VGckU5ZDA1VlllNHpzUzE5UDg?oc=5"
-      },
-      "queued_at": "2026-11-05T04:01:49.232967+00:00",
-      "score": 7.0,
-      "why": "Senior leadership movement at a major AI company."
-    },
-    {
-      "headline": "Moreh claims AMD MI355X outperforms Nvidia B200 in inference throughput",
-      "post": {
-        "created_at": "2026-11-05T03:28:21+00:00",
-        "handle": "News: Global chips",
-        "id": "1793849301191",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Digitimes",
-        "reposts": 0,
-        "text": "South Korea's Moreh claims AMD MI355X delivers over twice Nvidia B200's inference throughput",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVm10UnhhUWMxaVB2YzVMSFZEYkRaWnotVzI4WG80WmhZWEFBZFA3NnFMY3RrbV9KN0RCU3ZMWWdibGtYSW5heHJLZFNDSVJKc0VSWmxHNkxtMS0tM3RwQldjNENUVGFYVEE0U2Z3TExmWVZHeEM2QkpRR0E3ZXozUDYtQmV1aTNUM0xjamo2WFc?oc=5"
-      },
-      "queued_at": "2026-11-05T04:16:06.747597+00:00",
-      "score": 7.0,
-      "why": "Major chip performance benchmarks and competitive moves involving global AI hardware score 7."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40339,14 +40307,14 @@
     "microsoft india": 1793780368318,
     "mistral ai": 1793275207548,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793850540903,
-    "news: consumer internet india": 1793851304490,
+    "news: big tech platforms": 1793852776523,
+    "news: consumer internet india": 1793852235143,
     "news: global ai": 1793851200920,
     "news: global chips": 1793850925707,
     "news: global it services": 1793829420670,
     "news: india ai deeptech": 1793851625876,
     "news: india edtech gaming": 1793845811294,
-    "news: india fintech": 1793849300176,
+    "news: india fintech": 1793851846949,
     "news: india semiconductors": 1793814606547,
     "news: india tech policy": 1793841520316,
     "news: india telecom": 1793848723513,
@@ -40398,7 +40366,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-05T04:16:07.223824+00:00",
+    "last_server_run": "2026-11-05T04:31:28.397041+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-05T04:02:33.704284+00:00",
@@ -49894,11 +49862,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-05T04:16:56.899349+00:00",
+    "last_run": "2026-11-05T04:32:17.613625+00:00",
     "seen": [
-      "x:2115142704049082690",
-      "x:2115304680960192584",
-      "x:2115305196985434541",
       "x:2115307392602964220",
       "x:2115308675967717377",
       "x:2115309759972934037",
@@ -52895,7 +52860,10 @@
       "x:2118193326390419630",
       "x:2118193633585500410",
       "x:2118194091565457871",
-      "x:2118194723362107802"
+      "x:2118194723362107802",
+      "x:2118194912126787657",
+      "x:2118196709780341201",
+      "x:2118196859835457688"
     ],
     "source_failures": {},
     "sources": []
