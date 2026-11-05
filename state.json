@@ -7387,25 +7387,6 @@
     "alerted": [
       {
         "at": "2026-10-19T15:53:19.338422+00:00",
-        "handle": "PIB UPSC",
-        "headline": "UPSC declares written exam results for Combined Defence Services Examination II 2026",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325288",
-        "words": [
-          "2026",
-          "combined",
-          "declaration",
-          "defence",
-          "examination",
-          "result",
-          "services",
-          "thereof",
-          "upsc",
-          "written"
-        ]
-      },
-      {
-        "at": "2026-10-19T15:53:19.338422+00:00",
         "handle": "Gazette Petroleum and Natural Gas Regulatory Board",
         "headline": "Petroleum and Natural Gas Regulatory Board issues extraordinary notification regarding regulatory amendments",
         "tier": 1,
@@ -16150,6 +16131,29 @@
           "school",
           "sexual"
         ]
+      },
+      {
+        "at": "2026-11-05T12:17:19.525126+00:00",
+        "handle": "PIB Ministry of Finance",
+        "headline": "Union government releases 1,09,019 crore rupees as tax devolution to states",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333166",
+        "words": [
+          "accelerate",
+          "capital",
+          "development",
+          "enable",
+          "expenditure",
+          "festive",
+          "finance",
+          "government",
+          "ministry",
+          "regula",
+          "related",
+          "releases",
+          "season",
+          "spending"
+        ]
       }
     ],
     "gazette_mark": 277697,
@@ -16979,18 +16983,11 @@
       "CG-UP-E-05112026-277694"
     ],
     "health": {
-      "down": {
-        "President of India": "2026-11-05T12:03:43.998862+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-05T12:04:00.097788+00:00",
-    "pib_mark": 2333177,
+    "last_run": "2026-11-05T12:17:19.527032+00:00",
+    "pib_mark": 2333194,
     "seen": [
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168604",
-      "gazette:CG-DL-E-14102026-277155",
-      "gazette:CG-DL-E-14102026-277156",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63808",
-      "gazette:CG-RJ-E-15102026-277157",
       "gazette:CG-TL-E-15102026-277158",
       "gazette:CG-DL-E-15102026-277159",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/09/%e0%b0%ae%e0%b1%81%e0%b0%96%e0%b1%8d%e0%b0%af%e0%b0%ae%e0%b0%82%e0%b0%a4%e0%b1%8d%e0%b0%b0%e0%b0%bf-%e0%b0%b6%e0%b1%8d%e0%b0%b0%e0%b1%80-%e0%b0%8e-%e0%b0%b0%e0%b1%87%e0%b0%b5%e0%b0%82%e0%b0%a4-2/",
@@ -19454,6 +19451,9 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63915",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63916",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63917",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63918",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63919",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63920",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-emasa-bailaasapaura-kae",
       "feed:http://www.presidentofindia.gov.in/speeches/address-honble-president-india-smt-droupadi-murmu-occasion-call-members-66-th-ndc-course",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-kaenadaraiya-garaamaina",
@@ -19464,9 +19464,6 @@
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-naasaika",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-haraiyaanaa-kai",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-savaamai-saradadhaananada",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63918",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63919",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63920",
       "gazette:CG-DL-E-04112026-277678",
       "gazette:CG-DL-E-04112026-277682",
       "gazette:SG-DL-E-04112026-277680",
@@ -19985,13 +19982,14 @@
       "watch:pr:LS|3258",
       "pib:2333177",
       "pib:2333162",
-      "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-takes-suo-motu-cognizance-of-the-reported-sexual-abuse-of-two-teachers-at-a-private-school-by-the-owners-brother-in-aligarh-district,-uttar-pradesh"
+      "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-takes-suo-motu-cognizance-of-the-reported-sexual-abuse-of-two-teachers-at-a-private-school-by-the-owners-brother-in-aligarh-district,-uttar-pradesh",
+      "pib:2333194",
+      "watch:bulletin:LS|2026-11-05|Bulletin-II",
+      "pib:2333191",
+      "pib:2333166",
+      "pib:2333193"
     ],
-    "source_failures": {
-      "President of India": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20050,16 +20048,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793281050825",
-    "1746619200551",
-    "1793196292294",
-    "1793196313339",
-    "1793196900254",
-    "1793207716480",
-    "1793249717628",
-    "1793253600427",
-    "1793263852951",
-    "1793264760065",
     "1793269980910",
     "1793274652105",
     "1793197422088",
@@ -24522,7 +24510,6 @@
     "1793863001366",
     "1793870030880",
     "1793870550372",
-    "1793874600432",
     "1793791708904",
     "1793794849805",
     "1793812445996",
@@ -24566,10 +24553,17 @@
     "1793866334737",
     "1793867220147",
     "1793873936344",
-    "1793874649564",
-    "1793876569475",
-    "1793876682725",
-    "1793878797622",
+    "1792156871747",
+    "1792662737873",
+    "1793793996311",
+    "1793822492927",
+    "1793846202842",
+    "1793848723513",
+    "1793853216670",
+    "1793874600667",
+    "1793876682471",
+    "1793878788416",
+    "1793879666219",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25497,7 +25491,6 @@
     "1792108800661",
     "1792117873305",
     "1792141778525",
-    "1792156871747",
     "1792177200590",
     "1792347345536",
     "1792378078745",
@@ -25573,7 +25566,6 @@
     "1792645256641",
     "1792648800012",
     "1792656948850",
-    "1792662737873",
     "1792664152667",
     "1792670355715",
     "1792672275017",
@@ -25820,7 +25812,6 @@
     "1793786400148",
     "1793786400641",
     "1793788921825",
-    "1793793996311",
     "1793794645143",
     "1793794982709",
     "1793795049963",
@@ -25870,11 +25861,11 @@
     "1793819398507",
     "1793820600605",
     "1793821500656",
-    "1793822492927",
     "1793826305889",
     "1793826348114",
     "1793826366973",
     "1793829420670",
+    "1793833530515",
     "1793835292066",
     "1793835612204",
     "1793837115573",
@@ -25892,12 +25883,10 @@
     "1793845295519",
     "1793845450204",
     "1793845811294",
-    "1793846202842",
     "1793846615237",
     "1793848180176",
     "1793848260292",
     "1793848437779",
-    "1793848723513",
     "1793848903244",
     "1793849263273",
     "1793849300176",
@@ -25914,7 +25903,6 @@
     "1793852358100",
     "1793852900433",
     "1793852912782",
-    "1793853216670",
     "1793853311426",
     "1793853998997",
     "1793854020070",
@@ -25997,11 +25985,13 @@
     "1793874175322",
     "1793874240622",
     "1793874471117",
-    "1793874600667",
+    "1793874600432",
+    "1793874649564",
     "1793874900360",
     "1793874901914",
     "1793874942850",
     "1793874949074",
+    "1793875140174",
     "1793875359043",
     "1793876049653",
     "1793876214275",
@@ -26010,13 +26000,15 @@
     "1793876400787",
     "1793876493450",
     "1793876498955",
-    "1793876682471",
+    "1793876569475",
+    "1793876682725",
     "1793876700690",
     "1793876824278",
     "1793877065952",
     "1793877249188",
     "1793877249514",
     "1793877250011",
+    "1793877480703",
     "1793877504952",
     "1793877781928",
     "1793877795124",
@@ -26026,13 +26018,16 @@
     "1793878462794",
     "1793878463492",
     "1793878664886",
-    "1793878788416",
+    "1793878797622",
     "1793878800391",
     "1793878842714",
     "1793878918672",
+    "1793878943387",
     "1793879207220",
+    "1793879320034",
     "1793879359986",
-    "1793879666219",
+    "1793880021964",
+    "1793880142158",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26049,10 +26044,13 @@
     "2333145",
     "2333149",
     "2333152",
-    "2333177"
+    "2333177",
+    "2333191",
+    "2333193",
+    "2333194"
   ],
   "last_digest_hour": "2026-11-05T17",
-  "last_success": "2026-11-05T12:01:53.567583+00:00",
+  "last_success": "2026-11-05T12:16:03.263306+00:00",
   "national": {
     "alerted": [
       {
@@ -36098,21 +36096,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "President of India": "2026-11-05T12:03:03.994764+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-04T23:32:44.622861+00:00"
     },
-    "last_run": "2026-11-05T12:03:18.222805+00:00",
-    "pib_mark": 2333162,
+    "last_run": "2026-11-05T12:16:50.410204+00:00",
+    "pib_mark": 2333194,
     "seen": [
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-murali-prakash-naidu-under-rc-no-7707-of-2024-in-the-matter-of-arvind-remedies-ltd-_105222.html",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168611",
-      "site:Delhi Police press releases|dp-newpressrelease:16/10/2026|SWIFT ACTION BY PS MAYAPURI LEADS TO ARREST OF TWO ROBBERY ACCUSED ROBBED MOBILE PHONE RECOVERED",
-      "site:Delhi Police press releases|dp-newpressrelease:16/10/2026|GAMBLING DEN BUSTED AT A HOTEL IN TILAK NAGAR BY SPECIAL STAFF SEVEN PERSONS APPREHENDED, 1,57,920 CASH , 104 PLAYING CARDS RECOVERED",
-      "site:BCCI|https://www.bcci.tv/news/article/indias-odi-and-test-squads-for-new-zealand-tour-announced",
-      "site:ai:ISRO|https://www.isro.gov.in/Aditya_L1_Mission_soliciting_proposals_for_the_fourth_AO_cycle_observations.html",
       "site:ai:ISRO|https://www.isro.gov.in/LOX_Methane_engine.html",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-offers-prayers-to-maa-skandamata-during-navratri",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168612",
@@ -38513,6 +38504,9 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63915",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63916",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63917",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63918",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63919",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63920",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-emasa-bailaasapaura-kae",
       "feed:http://www.presidentofindia.gov.in/speeches/address-honble-president-india-smt-droupadi-murmu-occasion-call-members-66-th-ndc-course",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-kaenadaraiya-garaamaina",
@@ -38523,9 +38517,6 @@
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-naasaika",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-haraiyaanaa-kai",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-savaamai-saradadhaananada",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63918",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63919",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63920",
       "gazette:CG-DL-E-04112026-277678",
       "gazette:CG-DL-E-04112026-277682",
       "gazette:CG-MH-E-04112026-277684",
@@ -39106,15 +39097,18 @@
       "pib:2333162",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63928",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63930",
-      "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-takes-suo-motu-cognizance-of-the-reported-sexual-abuse-of-two-teachers-at-a-private-school-by-the-owners-brother-in-aligarh-district,-uttar-pradesh"
+      "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-takes-suo-motu-cognizance-of-the-reported-sexual-abuse-of-two-teachers-at-a-private-school-by-the-owners-brother-in-aligarh-district,-uttar-pradesh",
+      "pib:2333177",
+      "pib:2333194",
+      "pib:2333166",
+      "watch:bulletin:LS|2026-11-05|Bulletin-II",
+      "pib:2333191",
+      "pib:2333193"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "President of India": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39198,6 +39192,24 @@
       "queued_at": "2026-11-05T11:46:07.601059+00:00",
       "score": 7.0,
       "why": "Acquisition by a major AI company is a wire story."
+    },
+    {
+      "headline": "Bharti Airtel Q2 net profit rises 31% to Rs 8,888 crore",
+      "post": {
+        "created_at": "2026-11-05T11:48:40+00:00",
+        "handle": "News: India telecom",
+        "id": "1793879320034",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Today",
+        "reposts": 0,
+        "text": "Bharti Airtel Q2 net profit rises 31% to Rs 8,888 crore; ARPU climbs to Rs 271",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWFg2ejc1S200eGprQ1JMeE5MaG45TmNlMjVTdnZwVTRoUkhQVFJLZzlCbFJZNkV1RWdiUmdVSC1rXzlqUG11X3hBazN2UmNFTVRZRjhnMXYxdTRCYm5rWDFZZkhFR0FCZmpmbFBncW1DeEJxOVplWHo5Qk5NU21MRVdZTlkxRzZwZ1lBRmVPcURrZExEN3ZWNlFmVnRxQkRHWmpxUW1ESlB0U2paaXZsV01KRXlJUmFTS28taVNQV2JZVWFjUkR0MzJPOGMyLVp2emNvdlAzMHV5dkXSAeABQVVfeXFMUGYzWFNVU1g3LS1BU3pDZ0tGU2pzUHJEbVJuNUw2ZWdmLXdhWU5uLU43OVJQZXRSdWJSemtLM2lsQnU1SVJOVUwtdERURU51VFBCbERQa0xWZUwzYXNmazNLMXBBeFhqYXhLb2JUeGZEQ2lON0U0N0ZPR2w2SHNWaEEwTEIwVFl4U0xHWGtXMTFqam04QUpoRWpIc1pQNkRDR0tWc2ZLLVJlWEZCbzFvRTZGX0JRTkdzcDF4STBvMDR1RFhwZW9LMDQ4R0lEOHZBQk9HbzBYejMxLUc3bUh4cUE?oc=5"
+      },
+      "queued_at": "2026-11-05T12:16:03.154211+00:00",
+      "score": 8.0,
+      "why": "Major quarterly results for a leading Indian telecom operator."
     }
   ],
   "page_links": {
@@ -40361,15 +40373,15 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1793879359986,
     "news: consumer internet india": 1793873519036,
-    "news: global ai": 1793878173416,
-    "news: global chips": 1793879666219,
+    "news: global ai": 1793880142158,
+    "news: global chips": 1793880021964,
     "news: global it services": 1793829420670,
     "news: india ai deeptech": 1793874942850,
     "news: india edtech gaming": 1793873236962,
     "news: india fintech": 1793878842714,
     "news: india semiconductors": 1793850688171,
     "news: india tech policy": 1793878788416,
-    "news: india telecom": 1793877795124,
+    "news: india telecom": 1793879320034,
     "news: indian it majors": 1793879207220,
     "news: indian it midcaps": 1793861179483,
     "news: pib releases": 1790159940641,
@@ -40379,9 +40391,9 @@
     "openai": 1793844000135,
     "oracle": 1792758669661,
     "phonepe": 1793171753713,
-    "pib communications": 2333152,
+    "pib communications": 2333194,
     "pib meity": 2333177,
-    "pib science and technology": 2332613,
+    "pib science and technology": 2333193,
     "razorpay": 1793878797622,
     "redseer": 1793795481710,
     "reg cci": 1795996800387,
@@ -40418,7 +40430,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-05T12:01:54.070333+00:00",
+    "last_server_run": "2026-11-05T12:16:03.762795+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-05T10:32:13.580383+00:00",
@@ -42571,7 +42583,8 @@
       "meeting:LS|22628",
       "meeting:LS|22629",
       "pr:LS|3256",
-      "pr:LS|3258"
+      "pr:LS|3258",
+      "bulletin:LS|2026-11-05|Bulletin-II"
     ]
   },
   "x_test": {
@@ -50376,15 +50389,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-05T12:03:31.155210+00:00",
+    "last_run": "2026-11-05T12:17:03.086559+00:00",
     "seen": [
-      "x:2115690793868620186",
-      "x:2115693530341589410",
-      "x:2115693867244601822",
-      "x:2115697766970347674",
-      "x:2115701144345563162",
-      "x:2115701323752693903",
-      "x:2115701624324931631",
       "x:2115701849433227587",
       "x:2115702675295646161",
       "x:2115702743688183922",
@@ -53377,7 +53383,14 @@
       "x:2118312373673140709",
       "x:2118312375715872935",
       "x:2118312386155225244",
-      "x:2118312679479914571"
+      "x:2118312679479914571",
+      "x:2118313346370027958",
+      "x:2118313805465985329",
+      "x:2118313913096036859",
+      "x:2118313921845305453",
+      "x:2118314761968554484",
+      "x:2118314840062366018",
+      "x:2118315058908328321"
     ],
     "source_failures": {},
     "sources": []
