@@ -16967,12 +16967,13 @@
       "CG-TL-E-04112026-277676"
     ],
     "health": {
-      "down": {}
+      "down": {
+        "Gazette of India (Extraordinary)": "2026-11-05T08:08:26.384959+00:00"
+      }
     },
-    "last_run": "2026-11-05T07:52:55.561191+00:00",
+    "last_run": "2026-11-05T08:08:31.696349+00:00",
     "pib_mark": 2332934,
     "seen": [
-      "pib:2323944",
       "pib:2323953",
       "pib:2323959",
       "pib:2323996",
@@ -19482,6 +19483,27 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168732",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63913",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63914",
+      "page:https://internal.imd.gov.in/press_release/20260926_pr_5343.pdf",
+      "gazette:CG-DL-E-04112026-277665",
+      "gazette:CG-DL-E-04112026-277668",
+      "gazette:CG-TL-E-04112026-277671",
+      "gazette:CG-DL-E-04112026-277673",
+      "gazette:CG-DL-E-04112026-277672",
+      "gazette:CG-DL-E-04112026-277678",
+      "gazette:CG-TL-E-04112026-277669",
+      "gazette:CG-TL-E-04112026-277670",
+      "gazette:CG-DL-E-04112026-277667",
+      "gazette:CG-DL-E-04112026-277682",
+      "gazette:CG-DL-E-04112026-277666",
+      "gazette:SG-DL-E-04112026-277680",
+      "gazette:CG-MH-E-04112026-277684",
+      "gazette:CG-DL-E-04112026-277681",
+      "gazette:CG-MH-E-04112026-277683",
+      "gazette:CG-DL-E-04112026-277674",
+      "gazette:CG-DL-E-04112026-277679",
+      "gazette:CG-TL-E-04112026-277677",
+      "gazette:CG-DL-E-04112026-277675",
+      "gazette:CG-TL-E-04112026-277676",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -19596,7 +19618,6 @@
       "page:https://internal.imd.gov.in/press_release/20261005_pr_5381.pdf",
       "page:https://internal.imd.gov.in/press_release/20261003_pr_5373.pdf",
       "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf",
-      "page:https://internal.imd.gov.in/press_release/20260926_pr_5343.pdf",
       "page:https://internal.imd.gov.in/press_release/20261008_pr_5389.pdf",
       "page:https://internal.imd.gov.in/press_release/20261007_pr_5385.pdf",
       "page:https://internal.imd.gov.in/press_release/20261001_pr_5368.pdf",
@@ -19935,26 +19956,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63919",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
       "page:https://www.pmindia.gov.in/en/news_updates/governor-of-keralam-meets-pm",
-      "gazette:CG-DL-E-04112026-277665",
-      "gazette:CG-DL-E-04112026-277668",
-      "gazette:CG-TL-E-04112026-277671",
-      "gazette:CG-DL-E-04112026-277673",
-      "gazette:CG-DL-E-04112026-277672",
-      "gazette:CG-DL-E-04112026-277678",
-      "gazette:CG-TL-E-04112026-277669",
-      "gazette:CG-TL-E-04112026-277670",
-      "gazette:CG-DL-E-04112026-277667",
-      "gazette:CG-DL-E-04112026-277682",
-      "gazette:CG-DL-E-04112026-277666",
-      "gazette:SG-DL-E-04112026-277680",
-      "gazette:CG-MH-E-04112026-277684",
-      "gazette:CG-DL-E-04112026-277681",
-      "gazette:CG-MH-E-04112026-277683",
-      "gazette:CG-DL-E-04112026-277674",
-      "gazette:CG-DL-E-04112026-277679",
-      "gazette:CG-TL-E-04112026-277677",
-      "gazette:CG-DL-E-04112026-277675",
-      "gazette:CG-TL-E-04112026-277676",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63920",
       "pib:2332841",
       "mea:41929",
@@ -19971,9 +19972,14 @@
       "watch:meeting:LS|22627",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63924",
       "pib:2332932",
-      "pib:2332934"
+      "pib:2332934",
+      "page:https://internal.imd.gov.in/press_release/20261105_pr_5469.pdf"
     ],
-    "source_failures": {},
+    "source_failures": {
+      "Gazette of India (Extraordinary)": {
+        "count": 1
+      }
+    },
     "sources": [
       "CCI",
       "CERT-In",
@@ -20032,10 +20038,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793246584740",
-    "1793258196240",
-    "1793262120776",
-    "1793263565007",
     "1793264048763",
     "1793264511342",
     "1793185773061",
@@ -24485,7 +24487,6 @@
     "1793798435038",
     "1793815200869",
     "1793816230217",
-    "1793816882065",
     "1793828700169",
     "1793845553684",
     "1793853780910",
@@ -24507,10 +24508,7 @@
     "1793844300628",
     "1793856590672",
     "1793859620492",
-    "1793232000741",
-    "1793232000937",
     "1793707895031",
-    "1793750400772",
     "1793772388433",
     "1793776627385",
     "1793776790259",
@@ -24527,7 +24525,13 @@
     "1793845991120",
     "1793848260292",
     "1793851304490",
-    "1793857843861",
+    "1793778842580",
+    "1793795283244",
+    "1793800260741",
+    "1793813164549",
+    "1793849970387",
+    "1793857843113",
+    "1793858487067",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25638,7 +25642,9 @@
     "1793219954177",
     "1793221200206",
     "1793229351470",
+    "1793232000741",
     "1793232000882",
+    "1793232000937",
     "1793240992281",
     "1793250957275",
     "1793257200328",
@@ -25762,6 +25768,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793769854663",
     "1793772554134",
     "1793772873639",
@@ -25769,7 +25776,6 @@
     "1793775600239",
     "1793778242689",
     "1793778272302",
-    "1793778842580",
     "1793779200564",
     "1793779449078",
     "1793779657197",
@@ -25821,7 +25827,6 @@
     "1793794849805",
     "1793794982709",
     "1793795049963",
-    "1793795283244",
     "1793795481710",
     "1793795577977",
     "1793795604307",
@@ -25843,7 +25848,6 @@
     "1793799969672",
     "1793800017218",
     "1793800020863",
-    "1793800260741",
     "1793800451825",
     "1793800456807",
     "1793800525041",
@@ -25861,6 +25865,7 @@
     "1793803773867",
     "1793804497421",
     "1793805079789",
+    "1793808480434",
     "1793808660334",
     "1793809829967",
     "1793810228766",
@@ -25868,7 +25873,6 @@
     "1793811600254",
     "1793812445996",
     "1793813040251",
-    "1793813164549",
     "1793814006939",
     "1793814177569",
     "1793814240602",
@@ -25881,6 +25885,7 @@
     "1793815870292",
     "1793816280051",
     "1793816730274",
+    "1793816882065",
     "1793816940082",
     "1793817978779",
     "1793818765138",
@@ -25909,6 +25914,7 @@
     "1793835612204",
     "1793837115573",
     "1793838600602",
+    "1793839514643",
     "1793840760523",
     "1793841520316",
     "1793841852846",
@@ -25943,7 +25949,6 @@
     "1793849405969",
     "1793849425794",
     "1793849556044",
-    "1793849970387",
     "1793850300958",
     "1793850364956",
     "1793850513614",
@@ -25980,10 +25985,9 @@
     "1793857558846",
     "1793857573506",
     "1793857583884",
-    "1793857843113",
+    "1793857843861",
     "1793858154879",
     "1793858220970",
-    "1793858487067",
     "1793858546896",
     "1793858648800",
     "1793858983075",
@@ -26019,6 +26023,8 @@
     "1793863558254",
     "1793863994349",
     "1793864182841",
+    "1793864460183",
+    "1793864574821",
     "1793865600231",
     "1795996800387",
     "2331589",
@@ -26034,7 +26040,7 @@
     "2332613"
   ],
   "last_digest_hour": "2026-11-05T13",
-  "last_success": "2026-11-05T07:46:41.344002+00:00",
+  "last_success": "2026-11-05T08:01:31.695900+00:00",
   "national": {
     "alerted": [
       {
@@ -36073,17 +36079,15 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-05T07:52:28.000984+00:00",
+        "Gazette of India (Extraordinary)": "2026-11-05T08:05:18.413836+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-04T23:32:44.622861+00:00"
     },
-    "last_run": "2026-11-05T07:52:30.599668+00:00",
-    "pib_mark": 2332932,
+    "last_run": "2026-11-05T08:05:23.541739+00:00",
+    "pib_mark": 2332934,
     "seen": [
-      "pib:2324400",
-      "pib:2324393",
       "pib:2324416",
       "pib:2324407",
       "pib:2324413",
@@ -38530,9 +38534,6 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168732",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63913",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63914",
-      "npci:623",
-      "npci:624",
-      "npci:629",
       "gazette:CG-DL-E-04112026-277665",
       "gazette:CG-DL-E-04112026-277668",
       "gazette:CG-TL-E-04112026-277671",
@@ -38553,6 +38554,10 @@
       "gazette:CG-DL-E-04112026-277674",
       "gazette:CG-DL-E-04112026-277679",
       "gazette:CG-TL-E-04112026-277676",
+      "page:https://internal.imd.gov.in/press_release/20260926_pr_5343.pdf",
+      "npci:623",
+      "npci:624",
+      "npci:629",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -38666,7 +38671,6 @@
       "feed:http://www.niti.gov.in/node/2450",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
-      "page:https://internal.imd.gov.in/press_release/20260926_pr_5343.pdf",
       "page:https://internal.imd.gov.in/press_release/20260926_pr_5345.pdf",
       "page:https://internal.imd.gov.in/press_release/20260927_pr_5347.pdf",
       "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf",
@@ -39081,14 +39085,16 @@
       "pib:2332894",
       "watch:meeting:LS|22627",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63924",
-      "pib:2332932"
+      "pib:2332932",
+      "pib:2332934",
+      "page:https://internal.imd.gov.in/press_release/20261105_pr_5469.pdf"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "NPCI": {
+      "Gazette of India (Extraordinary)": {
         "count": 1
       },
       "State: Maharashtra": {
@@ -40351,7 +40357,7 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793275207548,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793863456952,
+    "news: big tech platforms": 1793864460183,
     "news: consumer internet india": 1793864182841,
     "news: global ai": 1793863558254,
     "news: global chips": 1793862060065,
@@ -40360,10 +40366,10 @@
     "news: india edtech gaming": 1793859892978,
     "news: india fintech": 1793863994349,
     "news: india semiconductors": 1793850572165,
-    "news: india tech policy": 1793861952509,
+    "news: india tech policy": 1793864574821,
     "news: india telecom": 1793857843861,
     "news: indian it majors": 1793859493711,
-    "news: indian it midcaps": 1793837115573,
+    "news: indian it midcaps": 1793839514643,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793848903244,
     "nvidia": 1793721645022,
@@ -40392,9 +40398,7 @@
     "zoho": 1793800451825
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-05T07:32:33.760020+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40418,7 +40422,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-05T07:46:41.726333+00:00",
+    "last_server_run": "2026-11-05T08:01:32.073173+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-05T06:04:29.830201+00:00",
@@ -50119,20 +50123,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-05T07:52:39.011378+00:00",
+    "last_run": "2026-11-05T08:05:48.335726+00:00",
     "seen": [
-      "x:2115398171585364362",
-      "x:2115398718132531346",
-      "x:2115399786849591353",
-      "x:2115400309061419281",
-      "x:2115401524923048311",
-      "x:2115402176432635966",
-      "x:2115403390549369090",
-      "x:2115403576210329846",
-      "x:2115405456114098625",
-      "x:2115405500674367807",
-      "x:2115405723446456508",
-      "x:2115407330733146561",
       "x:2115408838715429306",
       "x:2115404241779224775",
       "x:2115404379213971934",
@@ -53120,7 +53112,19 @@
       "x:2118245929727967629",
       "x:2118245947503444409",
       "x:2118247347201425709",
-      "x:2118248804164198411"
+      "x:2118248804164198411",
+      "x:2118233472833847485",
+      "x:2118249158461251802",
+      "x:2118249483939242278",
+      "x:2118249727670026554",
+      "x:2118250050841358601",
+      "x:2118250266877403502",
+      "x:2118250454337593737",
+      "x:2118251290530881551",
+      "x:2118251541257957620",
+      "x:2118251973585858839",
+      "x:2118251994846806119",
+      "x:2118252366046875734"
     ],
     "source_failures": {},
     "sources": []
