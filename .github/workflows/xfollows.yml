@@ -1,0 +1,28 @@
+name: X follow list to the website
+
+# The accounts @DeepakatPTI follows, for the website's Admin page (tracker/xfollows.py).
+on:
+  schedule:
+    - cron: "30 1 * * *"     # 7 am India, after the sheet's own 6 am read
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  follows:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - timeout-minutes: 5
+        env:
+          X_FEED_URL: ${{ secrets.X_FEED_URL }}
+        run: python -m tracker.xfollows

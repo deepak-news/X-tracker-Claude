@@ -195,6 +195,23 @@ def unscored(hours: int = 6, limit: int = 90) -> list:
         return []
 
 
+def follows(accounts: list, read_at: str, error: str) -> bool:
+    """The X accounts @DeepakatPTI follows, for the Admin page (xfollows.py)."""
+    try:
+        auth = _auth()
+        if not auth:
+            return False
+        url = (_cfg().get("url") or DEFAULT_URL).rstrip("/") + "/api/xfollows"
+        answer = requests.post(url, json={"accounts": accounts, "read_at": read_at, "error": error}, timeout=TIMEOUT,
+                               headers={"Authorization": auth, "User-Agent": "news-tracker"})
+        answer.raise_for_status()
+        print(f"  website: {answer.json()}")
+        return True
+    except Exception as exc:                                          # noqa: BLE001
+        print(f"  ! could not hand the follow list to the website ({str(exc)[:160]})")
+        return False
+
+
 def status(group: str, results, name_of) -> list:
     """[(group, source, ok, why)] from one step's [(reader name, error or None)]; name_of turns a
     reader's name into the source people see ("PIB, all ministries" -> "PIB"). Two readers of

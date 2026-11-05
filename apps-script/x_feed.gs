@@ -14,6 +14,11 @@
 //
 // First time: run setup() once. It makes the tab, starts the five-minute
 // timer and does a first read.
+//
+// The follow list: run setupFollowing() once. Every day it copies the accounts
+// @DeepakatPTI follows, and whether each has the bell on, to the "X following"
+// tab. The tracker asks for them with ?following=1 (tracker/xfollows.py), for
+// the website's Admin page. A failure here never touches the five-minute feed.
 
 const SHEET = 'X feed';
 const KEEP_ROWS = 3000;          // about a week at the current pace
@@ -23,6 +28,13 @@ const FEED_URL =
 const WEB_BEARER =
   'AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA';
 const HEADERS = ['id', 'posted (UTC)', 'handle', 'name', 'text', 'link', 'repost', 'reply'];
+const FOLLOW_SHEET = 'X following';
+const FOLLOW_HEADERS = ['handle', 'name', 'bell'];
+const ACCOUNT = 'DeepakatPTI';
+const FOLLOW_URLS = [
+  'https://x.com/i/api/1.1/friends/list.json',
+  'https://api.x.com/1.1/friends/list.json',
+];
 
 function setup() {
   const book = SpreadsheetApp.getActive();
@@ -149,9 +161,86 @@ function notifiedIds_(timeline) {
   return ids;
 }
 
+function setupFollowing() {
+  const book = SpreadsheetApp.getActive();
+  const sheet = book.getSheetByName(FOLLOW_SHEET) || book.insertSheet(FOLLOW_SHEET);
+  sheet.getRange(1, 1, 1, FOLLOW_HEADERS.length).setValues([FOLLOW_HEADERS]).setFontWeight('bold');
+  sheet.setFrozenRows(1);
+
+  ScriptApp.getProjectTriggers()
+    .filter(t => t.getHandlerFunction() === 'checkFollowing')
+    .forEach(t => ScriptApp.deleteTrigger(t));
+  ScriptApp.newTrigger('checkFollowing').timeBased().everyDays(1).atHour(6).create();
+
+  checkFollowing();
+  const props = PropertiesService.getScriptProperties();
+  Logger.log(props.getProperty('follow_error')
+    ? 'PROBLEM: ' + props.getProperty('follow_error')
+    : 'Working. ' + (sheet.getLastRow() - 1) + ' accounts in the "' + FOLLOW_SHEET + '" tab.');
+}
+
+function checkFollowing() {
+  const props = PropertiesService.getScriptProperties();
+  try {
+    const list = readFollowing_(props);
+    if (!list.length) throw new Error('X gave an empty list');
+    const sheet = SpreadsheetApp.getActive().getSheetByName(FOLLOW_SHEET);
+    if (sheet.getLastRow() > 1) sheet.getRange(2, 1, sheet.getLastRow() - 1, FOLLOW_HEADERS.length).clearContent();
+    sheet.getRange(2, 1, list.length, FOLLOW_HEADERS.length).setValues(list.map(a => [a.handle, a.name, a.bell]));
+    props.setProperties({ follow_ok: new Date().toISOString(), follow_error: '' });
+  } catch (err) {
+    props.setProperty('follow_error', String(err).slice(0, 300));
+  }
+}
+
+// Every account followed, page by page: { handle, name, bell }. bell is true,
+// false, or '' when X does not say.
+function readFollowing_(props) {
+  const ct0 = props.getProperty('CT0');
+  const auth = props.getProperty('AUTH_TOKEN');
+  if (!ct0 || !auth) throw new Error('AUTH_TOKEN and CT0 are missing from Script properties');
+  const options = {
+    muteHttpExceptions: true,
+    headers: {
+      authorization: 'Bearer ' + WEB_BEARER,
+      'x-csrf-token': ct0,
+      cookie: 'auth_token=' + auth + '; ct0=' + ct0,
+      'x-twitter-active-user': 'yes',
+      'x-twitter-auth-type': 'OAuth2Session',
+    },
+  };
+  const page = (base, cursor) => UrlFetchApp.fetch(base + '?screen_name=' + ACCOUNT +
+    '&count=200&skip_status=true&include_user_entities=false&cursor=' + cursor, options);
+
+  let base = '', res = null;
+  const tried = [];
+  for (const url of FOLLOW_URLS) {
+    res = page(url, '-1');
+    if (res.getResponseCode() === 200) { base = url; break; }
+    tried.push(url + ' replied ' + res.getResponseCode() + ': ' + res.getContentText().slice(0, 100));
+  }
+  if (!base) throw new Error(tried.join(' | '));
+
+  const list = [];
+  for (let n = 0; n < 50; n++) {
+    if (res.getResponseCode() !== 200) throw new Error('X replied ' + res.getResponseCode() + ' on page ' + (n + 1));
+    const data = JSON.parse(res.getContentText());
+    (data.users || []).forEach(u => list.push({
+      handle: u.screen_name,
+      name: u.name || '',
+      bell: typeof u.notifications === 'boolean' ? u.notifications : '',
+    }));
+    const next = data.next_cursor_str;
+    if (!next || next === '0') return list;
+    res = page(base, next);
+  }
+  return list;
+}
+
 // What the tracker reads: ?hours=12 gives every post from the last 12 hours,
 // plus when X was last read successfully, so a dead login is noticed.
 function doGet(e) {
+  if (e && e.parameter && e.parameter.following) return followingOut_();
   const hours = Number((e && e.parameter && e.parameter.hours) || 12);
   const since = Date.now() - hours * 3600 * 1000;
   const props = PropertiesService.getScriptProperties();
@@ -169,5 +258,18 @@ function doGet(e) {
     last_try: props.getProperty('last_try') || '',
     error: props.getProperty('error') || '',
     posts: posts,
+  })).setMimeType(ContentService.MimeType.JSON);
+}
+
+// ?following=1: the follow list, when it was last read, and any problem
+function followingOut_() {
+  const props = PropertiesService.getScriptProperties();
+  const sheet = SpreadsheetApp.getActive().getSheetByName(FOLLOW_SHEET);
+  const count = sheet ? sheet.getLastRow() - 1 : 0;
+  const rows = count > 0 ? sheet.getRange(2, 1, count, FOLLOW_HEADERS.length).getValues() : [];
+  return ContentService.createTextOutput(JSON.stringify({
+    following_ok: props.getProperty('follow_ok') || '',
+    error: props.getProperty('follow_error') || '',
+    accounts: rows.map(r => ({ handle: r[0], name: r[1], bell: r[2] === '' ? null : r[2] === true })),
   })).setMimeType(ContentService.MimeType.JSON);
 }
