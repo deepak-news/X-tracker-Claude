@@ -16978,7 +16978,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-05T01:02:42.236569+00:00",
+    "last_run": "2026-11-05T01:17:08.129896+00:00",
     "pib_mark": 2332827,
     "seen": [
       "pib:2323811",
@@ -19496,6 +19496,7 @@
       "site:WTO|https://www.wto.org/english/news_e/news26_e/cotpt_29oct26_540_e.htm",
       "watch:bulletin:LS|2026-11-04|Bulletin-II",
       "watch:meeting:LS|22625",
+      "watch:meeting:RS|2313",
       "cci-merger:C-2026/08/1458|Approved",
       "cci-pr:media-gallery|706",
       "cci-merger:C-2026/10/1480|Deemed Approved (Section 6(5))",
@@ -19952,7 +19953,6 @@
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/order-in-the-matter-of-certain-investment-advisers_105587.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-6147-of-2022-the-apex-global-proprietor-yadunath-singh-thakur-in-the-matter-of-covidh-technologies-limited-_105607.html",
       "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-know-your-client-process-for-individual-person-resident-outside-india-clients_105603.html",
-      "watch:meeting:RS|2313",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63919",
       "site:ICC|https://www.icc-cricket.com/media-releases/oman-secure-spot-at-icc-men-s-cricket-world-cup-qualifier-2027",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168725",
@@ -24476,7 +24476,6 @@
     "1793825572224",
     "1793743140095",
     "1793763415312",
-    "1793790120810",
     "1793797654658",
     "1793805420097",
     "1793826726204",
@@ -24529,8 +24528,6 @@
     "1793807710824",
     "1793813040251",
     "1793816506217",
-    "1793827166224",
-    "1793834992064",
     "1793835585385",
     "1793835766116",
     "1793756610866",
@@ -24539,18 +24536,19 @@
     "1793816230217",
     "1793821260883",
     "1793826600131",
-    "1793828259985",
     "1793828421053",
-    "1793834575067",
     "1793835529960",
     "1793836592921",
-    "1793865600231",
     "1793753500701",
     "1793759251652",
     "1793801291010",
     "1793835254549",
     "1793835531700",
     "1793836860403",
+    "1788253200230",
+    "1793814326301",
+    "1793828040985",
+    "1793829591064",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -24658,7 +24656,6 @@
     "1787835556068",
     "1787847092225",
     "1788174900103",
-    "1788253200230",
     "1788256800058",
     "1788282531266",
     "1788363000105",
@@ -25896,6 +25893,7 @@
     "1793789451807",
     "1793789664564",
     "1793789926445",
+    "1793790120810",
     "1793790655075",
     "1793791320556",
     "1793791708904",
@@ -25977,7 +25975,6 @@
     "1793814006939",
     "1793814177569",
     "1793814240602",
-    "1793814326301",
     "1793814409384",
     "1793814409399",
     "1793814606547",
@@ -26009,25 +26006,28 @@
     "1793826348114",
     "1793826366973",
     "1793826656126",
+    "1793827166224",
     "1793827544813",
     "1793827980325",
-    "1793828040985",
     "1793828107638",
+    "1793828259985",
     "1793828700169",
     "1793829282938",
     "1793829300097",
     "1793829361480",
     "1793829427534",
-    "1793829591064",
     "1793829780523",
     "1793830832323",
     "1793832135223",
     "1793833757053",
+    "1793834575067",
+    "1793834992064",
     "1793835292066",
     "1793835612204",
     "1793835913944",
     "1793837115573",
     "1793838600602",
+    "1793865600231",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26042,7 +26042,7 @@
     "2332613"
   ],
   "last_digest_hour": "2026-11-05T06",
-  "last_success": "2026-11-05T01:01:34.203930+00:00",
+  "last_success": "2026-11-05T01:15:59.225595+00:00",
   "national": {
     "alerted": [
       {
@@ -36070,12 +36070,13 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-05T01:16:48.777388+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-04T23:32:44.622861+00:00"
     },
-    "last_run": "2026-11-05T01:02:29.066666+00:00",
+    "last_run": "2026-11-05T01:16:49.895121+00:00",
     "pib_mark": 2332827,
     "seen": [
       "pib:2324307",
@@ -38533,6 +38534,7 @@
       "npci:623",
       "npci:624",
       "npci:629",
+      "watch:meeting:RS|2313",
       "cci-merger:C-2026/10/1480|Deemed Approved (Section 6(5))",
       "cci-merger:C-2026/08/1458|Approved",
       "cci-merger:C-2026/08/1455|Approved",
@@ -39049,7 +39051,6 @@
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-som-distilleries-and-breweries-ltd_105598.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-7413-of-2023-yadunath-singh-thakur-proprietor-of-the-apex-global-in-the-matter-of-the-apex-global-_105609.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-6147-of-2022-the-apex-global-proprietor-yadunath-singh-thakur-in-the-matter-of-covidh-technologies-limited-_105607.html",
-      "watch:meeting:RS|2313",
       "site:ICC|https://www.icc-cricket.com/media-releases/oman-secure-spot-at-icc-men-s-cricket-world-cup-qualifier-2027",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168725",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63919",
@@ -39083,6 +39084,9 @@
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -40366,7 +40370,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-05T01:01:34.616711+00:00",
+    "last_server_run": "2026-11-05T01:15:59.809043+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-04T23:46:41.010212+00:00",
@@ -49815,11 +49819,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-05T01:02:32.678381+00:00",
+    "last_run": "2026-11-05T01:16:56.423174+00:00",
     "seen": [
-      "x:2115096357581262865",
-      "x:2115097654292353289",
-      "x:2115100485699178825",
       "x:2115101595666911677",
       "x:2115102962116895227",
       "x:2115102569580445698",
@@ -52816,7 +52817,10 @@
       "x:2118112753483481486",
       "x:2118122527709122639",
       "x:2118136602035953943",
-      "x:2118138727444946974"
+      "x:2118138727444946974",
+      "x:2118146281793036447",
+      "x:2118146493613740066",
+      "x:2118146531769684378"
     ],
     "source_failures": {},
     "sources": []
