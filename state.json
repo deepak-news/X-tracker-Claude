@@ -2,26 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-28T01:31:26.279815+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic taps JPMorgan to lead US retail share sale for IPO",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNW91aDZycWFoYlpoS2h2aXNNdXBWc0Foc3VGMlg3aEZRbWJJeC04bWFpNkthWEpzQTltaDVsTzlqMHJ3d0s0c0NUYlVxdkhORS12M0NpQkhYSnpwbWt2dFJYSzZVcEJ1SHRFRGdlczRxMVkzVjlINkhfMGljdlRPT3ZRcF91UmVtcVQwT21HdzdIdXFRbEkxTmlzVFVNRVJYXzB6YXdGM05KZzk2ek1NMHVkUl8zbkQ5YTlXaVpEU29BaURXWkNDek5PeGdERlVCNDZ0OG9mak9CUGpxekJ4UE5NRTBHTlZLZEpWbdIB8gFBVV95cUxPX2ZwRXFOWmlYWmNpMFdQYjhGQlA1OXBINkFrMTFRN28xZ21aaVRzTEJMUEFieC10MGVNTlI0bHk1MndValpaYnRUMHhxNWNCdzBfeERNWDJVOTVkZ1FoOUlJNXlLaWI2NU1WSWNJdFZqVVVPZ3pBOWswNlBxWDhYc1Ewd3V6cXpsRE5aWnBVcjd0dFdTYVJ6MHh2eFdrNXlFN2ZSWDg1WGU3emw1Uk92SHNVRk1STFBPZERrRFhrb0pHdFlRLXNKN3dWTTcxMVhxSjBXd3hnVGl2WmZhbFllUzZPOENJNEtBMHJUemNYQXhtdw?oc=5",
-      "words": [
-        "allocation",
-        "anthropic",
-        "claude",
-        "ipo",
-        "jpmorgan",
-        "lead",
-        "maker",
-        "retail",
-        "sale",
-        "tapped",
-        "weighs"
-      ]
-    },
-    {
-      "at": "2026-10-28T01:31:26.279815+00:00",
       "handle": "News: Global chips",
       "headline": "SK Hynix reports record Q3 profit and shareholder return plan",
       "tier": 0,
@@ -7375,6 +7355,25 @@
         "lenskart",
         "results",
         "time"
+      ]
+    },
+    {
+      "at": "2026-11-05T07:32:50.740705+00:00",
+      "handle": "News: Global AI",
+      "headline": "India proposes new AI security audit rules for major labs",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUHpiWWpYUjNqNjhFNF9TS3ZRRE9seS0zdU91YjgtOWE0dk11MTBhZ005U2trSl9pNU1Bb2JRLUVqS2JWTU9nS3lsZlN6WmpyVE5kS3lheXJ0WUVUM3pacG5qVWFRN0l6Z2pPSW1ZWlczbVozQUI5VkM4RnN3NDRPd0VVWVVwWHFjQ3JjWGlvakgxVVNYV0ZoSFZ2UXBGV3hRWEdWMHNkRlhIWXFDcHV5UzU5RHNWclp3ZU42R3JxWkhaeUFsNWVrVzh1dUpHUdIB0wFBVV95cUxNWE8xLVhGQVBuSGRPRUtNXzdFUS1iMkNzTjA3NU15WnFreHNrSkRtcFFucGw1ZTFweFprNUlrbm1abENXdUhKOFhwOGNSM1NzSjd1bVBxNGs0dE4zZUdxaGxjN3BpWGtjdXZLTS1LZUIzUUNGUGo2ZGJZWDZENl9IOEpTdWcxTUtfekI3alFMdzF1b3NYd1hPYktvd2hnOEpLWFVRLVFzWnJwa2xBWWFOaV9IRVk1c09HWDM3ZkppZFNfVy1QNWFMbHpfeFRqUTBEVFJj?oc=5",
+      "words": [
+        "anthropic",
+        "audit",
+        "could",
+        "greater",
+        "openai",
+        "put",
+        "rules",
+        "scrutiny",
+        "security",
+        "under"
       ]
     }
   ],
@@ -16970,10 +16969,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-05T07:18:02.349294+00:00",
+    "last_run": "2026-11-05T07:34:40.579918+00:00",
     "pib_mark": 2332894,
     "seen": [
-      "pib:2323919",
       "pib:2323918",
       "pib:2323912",
       "pib:2323944",
@@ -19485,6 +19483,7 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63912",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168732",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63913",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63914",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -19915,7 +19914,6 @@
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-front-running-of-the-trades-of-axis-mutual-fund_105574.html",
       "mea:41928",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-crpf-achievement-of-zero-casualties-in-12-consecutive-months-for-the-first-time-in-47-years",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63914",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-self-realisation-and-inner-strength",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63915",
       "page:https://internal.imd.gov.in/press_release/20261104_pr_5465.pdf",
@@ -19972,7 +19970,8 @@
       "pib:2332858",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-truth-knowledge-and-virtuous-conduct",
       "pib:2332894",
-      "watch:meeting:LS|22627"
+      "watch:meeting:LS|22627",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63924"
     ],
     "source_failures": {},
     "sources": [
@@ -20029,17 +20028,10 @@
   },
   "consecutive_failures": 0,
   "dead_models": {
-    "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00"
+    "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00",
+    "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793244155666",
-    "1793257320166",
-    "1793259584016",
-    "1793264859897",
-    "1793269620763",
-    "1793269699105",
-    "1791277526239",
-    "1793184404265",
     "1793184634749",
     "1793186839431",
     "1793187086693",
@@ -24522,11 +24514,20 @@
     "1793860380011",
     "1793775831963",
     "1793775979744",
-    "1793790120810",
     "1793844300628",
     "1793856590672",
     "1793859620492",
-    "1793861520523",
+    "1793232000741",
+    "1793232000937",
+    "1793707895031",
+    "1793750400772",
+    "1793772388433",
+    "1793776627385",
+    "1793776790259",
+    "1793777116501",
+    "1793779368588",
+    "1793817246217",
+    "1793829361480",
     "1746619200351",
     "1747828800890",
     "1748347200342",
@@ -25637,9 +25638,7 @@
     "1793219954177",
     "1793221200206",
     "1793229351470",
-    "1793232000741",
     "1793232000882",
-    "1793232000937",
     "1793240992281",
     "1793250957275",
     "1793257200328",
@@ -25743,7 +25742,6 @@
     "1793692800526",
     "1793697366067",
     "1793707200059",
-    "1793707895031",
     "1793708154642",
     "1793709953629",
     "1793710435098",
@@ -25764,21 +25762,15 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
-    "1793750400772",
     "1793769854663",
-    "1793772388433",
     "1793772554134",
     "1793772873639",
     "1793773424758",
     "1793775600239",
-    "1793776627385",
-    "1793776790259",
-    "1793777116501",
     "1793778242689",
     "1793778272302",
     "1793778842580",
     "1793779200564",
-    "1793779368588",
     "1793779449078",
     "1793779657197",
     "1793779779905",
@@ -25816,6 +25808,7 @@
     "1793789001323",
     "1793789133034",
     "1793789926445",
+    "1793790120810",
     "1793790158677",
     "1793790655075",
     "1793791708904",
@@ -25894,7 +25887,6 @@
     "1793816280051",
     "1793816730274",
     "1793816940082",
-    "1793817246217",
     "1793817978779",
     "1793818765138",
     "1793818946963",
@@ -25913,7 +25905,6 @@
     "1793828040985",
     "1793829282938",
     "1793829300097",
-    "1793829361480",
     "1793829420670",
     "1793829997323",
     "1793831220174",
@@ -26013,12 +26004,21 @@
     "1793860085606",
     "1793860236291",
     "1793860708798",
+    "1793860976011",
     "1793860980026",
+    "1793861520523",
+    "1793861910658",
     "1793861915182",
     "1793861952509",
     "1793862000637",
     "1793862053527",
+    "1793862060065",
     "1793862463926",
+    "1793862618240",
+    "1793862852998",
+    "1793863001366",
+    "1793863413383",
+    "1793863414739",
     "1793865600231",
     "1795996800387",
     "2331589",
@@ -26033,33 +26033,10 @@
     "2332607",
     "2332613"
   ],
-  "last_digest_hour": "2026-11-05T12",
-  "last_success": "2026-11-05T07:16:02.415270+00:00",
+  "last_digest_hour": "2026-11-05T13",
+  "last_success": "2026-11-05T07:32:50.848150+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-09-30T12:19:35.070544+00:00",
-        "handle": "RBI",
-        "headline": "RBI data shows banks' weighted average lending rate declined marginally in August.",
-        "tier": 1,
-        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63702",
-        "words": [
-          "2026",
-          "banks",
-          "commercial",
-          "data",
-          "deposit",
-          "excluding",
-          "finance",
-          "lending",
-          "rates",
-          "rbi",
-          "regional",
-          "rural",
-          "scbs",
-          "scheduled"
-        ]
-      },
       {
         "at": "2026-09-30T12:19:35.070544+00:00",
         "handle": "RBI",
@@ -34582,6 +34559,29 @@
           "neutral",
           "nhrc"
         ]
+      },
+      {
+        "at": "2026-11-05T07:34:17.629834+00:00",
+        "handle": "RBI",
+        "headline": "RBI extends withdrawal and business restrictions on Pusad Urban Co-operative Bank",
+        "tier": 1,
+        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63924",
+        "words": [
+          "1949",
+          "35a",
+          "act",
+          "bank",
+          "banking",
+          "directions",
+          "dist",
+          "extension",
+          "maharashtra",
+          "operative",
+          "period",
+          "pusad",
+          "rbi",
+          "read"
+        ]
       }
     ],
     "gazette_mark": 277684,
@@ -36078,10 +36078,9 @@
       },
       "warned": "2026-11-04T23:32:44.622861+00:00"
     },
-    "last_run": "2026-11-05T07:17:16.383197+00:00",
+    "last_run": "2026-11-05T07:34:17.636019+00:00",
     "pib_mark": 2332894,
     "seen": [
-      "pib:2324383",
       "pib:2324380",
       "pib:2324400",
       "pib:2324393",
@@ -38530,6 +38529,7 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63912",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168732",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63913",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63914",
       "gazette:CG-DL-E-04112026-277665",
       "gazette:CG-DL-E-04112026-277668",
       "gazette:CG-TL-E-04112026-277671",
@@ -39043,7 +39043,6 @@
       "feed:https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_embil.pdf",
       "mea:41928",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-crpf-achievement-of-zero-casualties-in-12-consecutive-months-for-the-first-time-in-47-years",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63914",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-self-realisation-and-inner-strength",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63915",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63916",
@@ -39080,7 +39079,8 @@
       "pib:2332857",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-truth-knowledge-and-virtuous-conduct",
       "pib:2332894",
-      "watch:meeting:LS|22627"
+      "watch:meeting:LS|22627",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63924"
     ],
     "source_failures": {
       "CBI": {
@@ -39151,26 +39151,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "India proposes new AI security audit rules for major labs",
-      "post": {
-        "created_at": "2026-11-05T06:28:05+00:00",
-        "handle": "News: Global AI",
-        "id": "1793860085606",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "India\u2019s new AI security audit rules could put OpenAI, Anthropic under greater scrutiny",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUHpiWWpYUjNqNjhFNF9TS3ZRRE9seS0zdU91YjgtOWE0dk11MTBhZ005U2trSl9pNU1Bb2JRLUVqS2JWTU9nS3lsZlN6WmpyVE5kS3lheXJ0WUVUM3pacG5qVWFRN0l6Z2pPSW1ZWlczbVozQUI5VkM4RnN3NDRPd0VVWVVwWHFjQ3JjWGlvakgxVVNYV0ZoSFZ2UXBGV3hRWEdWMHNkRlhIWXFDcHV5UzU5RHNWclp3ZU42R3JxWkhaeUFsNWVrVzh1dUpHUdIB0wFBVV95cUxNWE8xLVhGQVBuSGRPRUtNXzdFUS1iMkNzTjA3NU15WnFreHNrSkRtcFFucGw1ZTFweFprNUlrbm1abENXdUhKOFhwOGNSM1NzSjd1bVBxNGs0dE4zZUdxaGxjN3BpWGtjdXZLTS1LZUIzUUNGUGo2ZGJZWDZENl9IOEpTdWcxTUtfekI3alFMdzF1b3NYd1hPYktvd2hnOEpLWFVRLVFzWnJwa2xBWWFOaV9IRVk1c09HWDM3ZkppZFNfVy1QNWFMbHpfeFRqUTBEVFJj?oc=5"
-      },
-      "queued_at": "2026-11-05T06:46:17.042693+00:00",
-      "score": 7.0,
-      "why": "Government and regulatory moves on AI and security score high for the IT beat."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40329,10 +40310,10 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793275207548,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793862053527,
+    "news: big tech platforms": 1793863001366,
     "news: consumer internet india": 1793861915182,
     "news: global ai": 1793862463926,
-    "news: global chips": 1793859564436,
+    "news: global chips": 1793862060065,
     "news: global it services": 1793829420670,
     "news: india ai deeptech": 1793860236291,
     "news: india edtech gaming": 1793859892978,
@@ -40364,13 +40345,15 @@
     "sarvam ai": 1793709953629,
     "swiggy": 1793616471938,
     "tata electronics": 1789738328115,
-    "trai": 1793800557845,
+    "trai": 1793863414739,
     "xai": 1793649683165,
     "zinnov": 1793708154642,
     "zoho": 1793800451825
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-05T07:32:33.760020+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40388,7 +40371,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-05T07:16:02.787351+00:00",
+    "last_server_run": "2026-11-05T07:32:51.388237+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-05T06:04:29.830201+00:00",
@@ -50089,18 +50072,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-05T07:17:39.071245+00:00",
+    "last_run": "2026-11-05T07:34:25.523428+00:00",
     "seen": [
-      "x:2115391306432389384",
-      "x:2115391342939701735",
-      "x:2115389853315760415",
-      "x:2115391668061196743",
-      "x:2115391837355790706",
-      "x:2115392215682003414",
-      "x:2115393197727969606",
-      "x:2115393337436061932",
-      "x:2115393827666317671",
-      "x:2115394085762781662",
       "x:2115394368098160693",
       "x:2115394807745089870",
       "x:2115396394932658674",
@@ -53090,7 +53063,17 @@
       "x:2118238207385162083",
       "x:2118238260489281842",
       "x:2118239361250541672",
-      "x:2118239972700659732"
+      "x:2118239972700659732",
+      "x:2118240407255712155",
+      "x:2118241444863545632",
+      "x:2118241480200577282",
+      "x:2118241694592487435",
+      "x:2118242132612022472",
+      "x:2118242671655530506",
+      "x:2118242890832871433",
+      "x:2118244559922807256",
+      "x:2118244942946693324",
+      "x:2118245018662302056"
     ],
     "source_failures": {},
     "sources": []
