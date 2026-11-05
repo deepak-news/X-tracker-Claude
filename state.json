@@ -1,76 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-28T07:31:23.579504+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI faces lawsuit over GPT-4o's alleged role in woman's death",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcUtXb0p1UzhJN0k2MzRZYTh5WmE3bUJ5NTFudGJnS0FMMjBkR1l4TXNOdW5CN2MxM01MLTVnVVVVTDduWDhTZnBHNXZiYkdlTlNfdG50OHZPNjJ2ZGdhTWNzV1JJVE5wM0pPRXhzTEQ1UHlQMmMwZUNoLWo4RnJTRWRwcDM5NnRtMzVIZ21lbVc0MjdNQTdySmp1TEttcE9PRTBXVUZBLU9kNVhGcTFuNk1kM1o1TGthdEs0U2g5XzZIZFR6c1J1ZmxyR21sb0FiVlpYdG5WNUEzUdIB3wFBVV95cUxQUDlOMWM0ZUstR1JweFc0UGRfRnVyN2JzN1FsQk5ZdDl6VVh2akpMSUxYRVZuZ29YYmtmcFljdVlIRkpfUW1fQ2NNcEE2cDRlSUhIYUxDdUx5dHdLNEZsM0VCcWVMTGoySDY3SDlxVFpsWUg4QXBvVnFaSEk0em1SdEpVSnNrcVB0M05MYk5pY2dQWFhkUFlpcDIzVnNuSGRCZGhDZ182U2xGZnVubEEwTVZRLTRxVHVBcG1xRlEwQWNmbmJFUGtwUWp5MzlqdDlrbUlvT0luczRic3kwUFhZ?oc=5",
-      "words": [
-        "alleged",
-        "death",
-        "drug",
-        "epilepsy",
-        "faces",
-        "gpt",
-        "lawsuit",
-        "openai",
-        "reduction",
-        "role",
-        "woman"
-      ]
-    },
-    {
-      "at": "2026-10-28T07:31:23.579504+00:00",
-      "handle": "News: Global AI",
-      "headline": "SEBI exploring India-specific AI model for securities market oversight",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2JEekxlSmh1YmxVNE1wcGhWSkFRa09rejBmZlBaUE9vSW9HZ2pSUC1yX2FpNDEtRlFNbjRYS3M2NGtqUk1kdHd6blI0ZVpPNXdZVWxmb1RTU0VzSTYtVUpPQzFISmRKTFQ4RXZPeGJfWHRhcTRHZDhLd2poUXBvNUVGRlNzazNGMFNaTzMyRFRIOXVKN2thcVQzaUNET0JSVUNjRkk3S2FLMVdnSzVieXQ0NVFYNFJSZnNHMFhTSFRQS1ljaFZFUnl4c2YwWWJvMldnb29pS29VYmd0YUxuStIB5gFBVV95cUxQVFRLZUxNMlVjc2t0R0ZzVS1uaW5pcTctWnBSeDZobUNTQ08xNUpfZkQ0M2xsZU0tdEQ5UGttVkJQN09VTEFYS09YZmpUcXlGVHhObXFycWJXY202aVdZUFR6VDJYbGltY1VaVEl2Sm1jRFh4V2Y0eGdqRzZObnVKVjZWU1h0VTFlcVp6bkhOTE5rdG9KeEV4MTZuTEJKNG9VV095bktNRjd2U0g1U0pUVEZROVRNejdPWk02ZUY5cjEyMVhLQVhYak5hQ1FHbXFvOWdqTEdMWWo2N2RrV0xGRkNnTWxiUQ?oc=5",
-      "words": [
-        "exploring",
-        "market",
-        "model",
-        "oversight",
-        "securities",
-        "specific"
-      ]
-    },
-    {
-      "at": "2026-10-28T07:31:23.579504+00:00",
-      "handle": "News: India telecom",
-      "headline": "Isha Ambani reports Jio clocks $15.5 billion revenue, $8 billion earnings",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNzF3V3ZacmFuNFAybEpkQ2RZUi1nOEhKOE1sZVNGd1dkR3BhVEItTjFjVU9HVkJPQllMQWlqZDBSdXZrUk11TXZxS1FzYmVBcGh5WXB0UzR5d2s4dEN5cG9WTl9uNWFndFNvbldXOWNyVWtFM3BCaTI1a1BVaEM1LVNvbHpSVVlHMDY5NHZqNUZhdGZnQk1fM2RSS2VSVk1uNm50cXlfRG1hZExQcFBvc3FkZjRUZ3pSMWZNSnJ3YUFaRmtNaUtxOUJGeFlOdTVVRHpPaUtUQ0_SAd4BQVVfeXFMUHJMOVhLQ050SWZKQlJrVUVHcFhmX0VwLTVra0tNVXAySUlvc1hCLXlfRDRQV0pRWUFuaFhmVV9HXzVLcTVMbFVId2RheV9GaFBuMUJ5bk5GVGpaTDJwQV9Dc3pyRnNUb2VJWDkwNi1nUjctMmNOR2ZpdlVSbVpOaWEwbVlIY2FhSERXZU1YdFhYR2h6UkJmeXI2ODcyWmN1b0hkaXBIaDA3WHlUaGw1TzNaWlU1akU2SHhUN04zaFV5bHdVclJBZTRuZ2daOF9wMXRob0c3RWFnY1hWTHp3?oc=5",
-      "words": [
-        "ambani",
-        "billion",
-        "clocks",
-        "earnings",
-        "isha",
-        "jio",
-        "revenue",
-        "year"
-      ]
-    },
-    {
-      "at": "2026-10-28T08:31:27.032430+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio IPO surge makes Reliance India's most valuable group",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejJBT1JKRkxtTzRCRERpdzJWdkxHdnd1Q3MyX29TVk5mT0R1ekZYMGN3YWlrX2cta0JsbVI1b1JPRVdyYzF1Z2hvUXA4RFNYZmlPRDJRSS15dXlBMzlqMXBQc21MS2ExZ2FONmdYc28yNjlxc3VGdm15X0JYVVEyOE1zQndsbEllTjk5Q1BhYzc1bEJDTWFCN292dHBJOEZYc3pqTWR2RjFPdnluQ0luVElHYw?oc=5",
-      "words": [
-        "ends",
-        "group",
-        "ipo",
-        "jio",
-        "most",
-        "reign",
-        "surge",
-        "tata",
-        "valuable"
-      ]
-    },
-    {
       "at": "2026-10-28T08:31:27.032430+00:00",
       "handle": "News: Global AI",
       "headline": "Parents sue OpenAI alleging ChatGPT encouraged daughter to stop medication",
@@ -7366,33 +7296,80 @@
         "satcom",
         "trai"
       ]
+    },
+    {
+      "at": "2026-11-05T17:31:26.180509+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI says new cybersecurity model improves defensive capabilities",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVJhXzNhR2ZJZ19kVm5FVkQ4dVVwUDlRV2ZZUGZKZ2ZZai1HQ3VzSTV4RHQ3UlhRNjNZbjhCcUFRMmFIN21PMmpKNGpzanZqSE5xZ3VZeUtMc3o1M0NidFpvV3VWSlR3YWdYV2RycTdXZGtYazNsYW9OZGljZFJHdzl4bi1valBMT0cyd3N3?oc=5",
+      "words": [
+        "better",
+        "companies",
+        "cybersecurity",
+        "hacking",
+        "model",
+        "openai",
+        "other"
+      ]
+    },
+    {
+      "at": "2026-11-05T17:31:26.180509+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic introduces employee Claude usage monitoring for managers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQzZnTnhoaVhvaXhSbmxYcFFQN0hLdDduWmJMNjhzUEhCRV9CcVBhOVJyQnc1LTI0X2JqSTRpSkdvbmdwSTJHT0hNLUlOcGpSckU3TTVOYmE4WHNQbnR2RFNmU29GWjVrUlRkSzlnTDhROVNSVEllUUVfY1ctSTdydTdXLWVCdUFRSUpGU3VkRERzRjl5Ri1sYzNoOV95TVBMMUFHVGJLWGFCcllwMzI5b3pBaUdEM3pHQ0pkb0FSMy1lbU9DMkp0TExHbEJSZDFodFhQRHB6aU9hdGFPODN3dzE4QWZmNUYtRk1WWDVPTlMzcUdkLXpBbmJuekV5c2FBNTAtVdIBigJBVV95cUxONDVXRGl4WDBTMWtTb1pTTzBWcnZxX1B1MGNkVFRhS1k5SWtlV2RDMnQza3FNNU1kU2VVVll2bXM5WmExN0FvNmlNX3FheHd1MVMxR09ucG5QMi01VkstZk4zR25jQko4WEtITVFyX2dvdFVOTmhnN3M3eDVzUDFwVHhKV2ZSb1F6WDBiODFNaUY3SmxCUHRLbVJUOW52eDQwMTJSQkhhNDFUM1Jqa3k3WnlNc1NpU1JfWV84ekxQVFo0eUFMTWE4R21HTGVxN0FJb25wUnlPNW15MmJVTEc3anJlUmlwVGNfa2ZiMTZLdW1zLWZ2d183ZXJ1Z1JvWk82YnRpUDktWUozQQ?oc=5",
+      "words": [
+        "allows",
+        "anthropic",
+        "claude",
+        "company",
+        "employees",
+        "managers",
+        "monitor",
+        "report",
+        "usage"
+      ]
+    },
+    {
+      "at": "2026-11-05T17:31:26.180509+00:00",
+      "handle": "News: India fintech",
+      "headline": "NPCI defends UPI MDR in Supreme Court hearing",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3NqdXIzT0tDaDI2NElBektNR2xBdWRWSHV1a3FaTUVZSTR6NktDRzk1NndvTUQ4OUhTS0hVeGFlWGdDX1pmSjZ5Tk9tbDBUekJuYTlFQXpVcVJlVVBIMEpKRnFpNW9ja0JOUDZoWGdIUXJybUdPYk5nLUczLVRISl9FMFhGWVVzUDBrWUd5NFhYRkNqZVpEcHRYYUk0Q0lwUVI4YUczb3BESGZ6UnJYSmxoSlVuV01MU0FDckNyNzg?oc=5",
+      "words": [
+        "court",
+        "defends",
+        "hits",
+        "levy",
+        "mdr",
+        "merchant",
+        "npci",
+        "only",
+        "supreme",
+        "transactions"
+      ]
+    },
+    {
+      "at": "2026-11-05T17:31:26.180509+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Canada's Avenir acquires communications firms serving Nvidia and Meta",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUzRZX3pRcXFjQ2hENTVfcGZYa28wR0pMN28zbURmRGlLU2xJSTgtckplTEQzWS1hYjRMWGk5UEVnX0RLTVBwY2l3N3dZYkl4S2VkY3d3TklMVHh0ajRDQ09MOVI4TV9hcUZ5T1JFTzlkY0dHUmlkdWVBczRLazNDaVppUTdib3pzU3dtemNsV2Y4TjVwR2dRSko5SVlMZHM3cTZJLVJSWnRWY3hGd2wtLXZEYmtaRTg1bUxfeUFDMjBTODRuSWc?oc=5",
+      "words": [
+        "avenir",
+        "canada",
+        "communications",
+        "firms",
+        "meta",
+        "nvidia",
+        "serve",
+        "snaps"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-10-19T17:04:45.577851+00:00",
-        "handle": "Gazette Ministry of External Affairs",
-        "headline": "External Affairs Ministry notifies implementation of UN Security Council sanctions",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277295.pdf",
-        "words": [
-          "1267",
-          "1988",
-          "affairs",
-          "division",
-          "external",
-          "extraordinary",
-          "gazette",
-          "implementation",
-          "ministry",
-          "part",
-          "related",
-          "sanctions",
-          "section",
-          "sub"
-        ]
-      },
       {
         "at": "2026-10-20T05:03:00.793510+00:00",
         "handle": "PIB PIB Backgrounder",
@@ -16124,9 +16101,32 @@
           "upsc",
           "written"
         ]
+      },
+      {
+        "at": "2026-11-05T17:33:07.052862+00:00",
+        "handle": "Gazette Ministry of Law and Justice",
+        "headline": "Hardeep Singh Puri elected to Rajya Sabha from Madhya Pradesh",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277714.pdf",
+        "words": [
+          "bye",
+          "council",
+          "election",
+          "extraordinary",
+          "gazette",
+          "justice",
+          "law",
+          "legislativ",
+          "madhya",
+          "ministry",
+          "pradesh",
+          "publication",
+          "result",
+          "state"
+        ]
       }
     ],
-    "gazette_mark": 277712,
+    "gazette_mark": 277714,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -16959,18 +16959,18 @@
       "CG-DL-E-05112026-277705",
       "CG-DL-E-05112026-277708",
       "CG-DL-E-05112026-277712",
-      "CG-MH-E-05112026-277698"
+      "CG-MH-E-05112026-277698",
+      "CG-DL-E-05112026-277707",
+      "CG-DL-E-05112026-277709",
+      "CG-DL-E-05112026-277711",
+      "CG-DL-E-05112026-277714"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-05T17:18:20.177934+00:00",
+    "last_run": "2026-11-05T17:33:07.083268+00:00",
     "pib_mark": 2333378,
     "seen": [
-      "dgft-public-notice:d7c80b33-7750-4e7e-a9e3-e5487f6a7df0",
-      "site:CAG|https://cag.gov.in/en/audit-report/details/125836",
-      "watch:meeting:LS|22566",
-      "gazette:CG-DL-E-15102026-277188",
       "gazette:CG-DL-E-15102026-277189",
       "gazette:CG-DL-E-15102026-277187",
       "gazette:CG-MH-E-15102026-277190",
@@ -19385,12 +19385,12 @@
       "gazette:CG-DL-E-04112026-277663",
       "gazette:CG-DL-E-04112026-277665",
       "gazette:CG-DL-E-04112026-277668",
-      "gazette:CG-TL-E-04112026-277671",
-      "gazette:CG-DL-E-04112026-277672",
       "gazette:CG-TL-E-04112026-277669",
-      "gazette:CG-TL-E-04112026-277670",
       "gazette:CG-DL-E-04112026-277667",
       "gazette:CG-DL-E-04112026-277666",
+      "gazette:CG-TL-E-04112026-277671",
+      "gazette:CG-DL-E-04112026-277672",
+      "gazette:CG-TL-E-04112026-277670",
       "gazette:CG-DL-E-04112026-277673",
       "gazette:CG-DL-E-04112026-277674",
       "gazette:CG-DL-E-04112026-277675",
@@ -19966,7 +19966,11 @@
       "site:WTO|https://www.wto.org/english/news_e/news26_e/envir_05nov26_541_e.htm",
       "gazette:CG-MH-E-05112026-277698",
       "gazette:CG-DL-E-05112026-277708",
-      "gazette:CG-DL-E-05112026-277712"
+      "gazette:CG-DL-E-05112026-277712",
+      "gazette:CG-DL-E-05112026-277711",
+      "gazette:CG-DL-E-05112026-277714",
+      "gazette:CG-DL-E-05112026-277709",
+      "gazette:CG-DL-E-05112026-277707"
     ],
     "source_failures": {},
     "sources": [
@@ -20027,12 +20031,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1790640000504",
-    "1790640000531",
-    "1790640000590",
-    "1790640000874",
-    "1793249717289",
-    "1793267613014",
     "1793274193419",
     "1793275703229",
     "1793276364430",
@@ -24431,7 +24429,6 @@
     "1793863413383",
     "1793872543071",
     "1793875140174",
-    "1793875359043",
     "1793877249188",
     "1793878788416",
     "1793883936455",
@@ -24482,13 +24479,11 @@
     "1793882580876",
     "1746619200351",
     "1793113200018",
-    "1793839514643",
     "1793865598553",
     "1793873968013",
     "1793876400189",
     "1793877900165",
     "1793883420809",
-    "1793884505100",
     "1793886252334",
     "1793886300878",
     "1792579837435",
@@ -24520,24 +24515,27 @@
     "1778917991403",
     "1792156871747",
     "1792662737873",
-    "1793232000741",
-    "1793232000937",
     "1793289600084",
     "1793289600117",
     "1793289635953",
-    "1793750400772",
     "1793853998997",
     "1793862463926",
-    "1793870991631",
     "1793872800207",
-    "1793874048372",
-    "1793874600667",
     "1793876399421",
-    "1793883601852",
     "1793885376927",
     "1793890309283",
     "1793890860690",
-    "1793890922187",
+    "1793851304817",
+    "1793854816372",
+    "1793857081316",
+    "1793882648141",
+    "1793884654065",
+    "1793887079639",
+    "1793892900809",
+    "1793893335329",
+    "1793893663398",
+    "1793894909352",
+    "1793898060576",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25637,7 +25635,9 @@
     "1793219954177",
     "1793221200206",
     "1793229351470",
+    "1793232000741",
     "1793232000882",
+    "1793232000937",
     "1793240992281",
     "1793250957275",
     "1793257200328",
@@ -25756,6 +25756,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793769854663",
     "1793772554134",
     "1793772873639",
@@ -25801,6 +25802,7 @@
     "1793829420670",
     "1793835292066",
     "1793837115573",
+    "1793839514643",
     "1793841520316",
     "1793843395210",
     "1793844000135",
@@ -25816,7 +25818,6 @@
     "1793850364956",
     "1793850513614",
     "1793851286920",
-    "1793851304817",
     "1793851625625",
     "1793851846949",
     "1793852358100",
@@ -25825,7 +25826,6 @@
     "1793854020070",
     "1793854036352",
     "1793854225145",
-    "1793854816372",
     "1793855025574",
     "1793855143050",
     "1793855270810",
@@ -25833,7 +25833,6 @@
     "1793855829709",
     "1793855971334",
     "1793856768911",
-    "1793857081316",
     "1793857583884",
     "1793858220970",
     "1793858546896",
@@ -25868,6 +25867,7 @@
     "1793869857882",
     "1793870122217",
     "1793870296964",
+    "1793870991631",
     "1793871414217",
     "1793871780982",
     "1793872800891",
@@ -25877,12 +25877,15 @@
     "1793873519036",
     "1793873968796",
     "1793874043563",
+    "1793874048372",
     "1793874175322",
     "1793874240622",
     "1793874471117",
+    "1793874600667",
     "1793874901914",
     "1793874942850",
     "1793874949074",
+    "1793875359043",
     "1793876214275",
     "1793876289941",
     "1793876400080",
@@ -25923,21 +25926,20 @@
     "1793881975387",
     "1793881976645",
     "1793882333673",
-    "1793882648141",
     "1793882761992",
     "1793883429456",
     "1793883449816",
     "1793883600845",
+    "1793883601852",
     "1793883794111",
     "1793883936630",
-    "1793884654065",
+    "1793884505100",
     "1793884987269",
     "1793885654595",
     "1793886300656",
     "1793886448471",
     "1793886549678",
     "1793886796109",
-    "1793887079639",
     "1793887200102",
     "1793887200108",
     "1793887200550",
@@ -25962,6 +25964,7 @@
     "1793890761809",
     "1793890808569",
     "1793890845645",
+    "1793890922187",
     "1793891136735",
     "1793891533599",
     "1793891640229",
@@ -25973,24 +25976,22 @@
     "1793892700613",
     "1793892846189",
     "1793892876895",
-    "1793892900809",
     "1793892957661",
     "1793893036355",
     "1793893260592",
-    "1793893335329",
     "1793893599898",
-    "1793893663398",
     "1793894400412",
     "1793894400632",
     "1793894400873",
     "1793894405609",
+    "1793894416329",
     "1793894754635",
     "1793894756066",
     "1793894760437",
-    "1793894909352",
     "1793894933057",
     "1793895981864",
     "1793896560600",
+    "1793896800809",
     "1793896860876",
     "1793897008096",
     "1793897044456",
@@ -26003,9 +26004,12 @@
     "1793898000197",
     "1793898000852",
     "1793898035953",
-    "1793898060576",
+    "1793898060902",
     "1793898116287",
     "1793898316800",
+    "1793898341190",
+    "1793898581352",
+    "1793898641022",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26028,33 +26032,10 @@
     "2333194",
     "2333279"
   ],
-  "last_digest_hour": "2026-11-05T22",
-  "last_success": "2026-11-05T17:16:17.261113+00:00",
+  "last_digest_hour": "2026-11-05T23",
+  "last_success": "2026-11-05T17:31:26.273049+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-01T07:19:59.033703+00:00",
-        "handle": "IMD",
-        "headline": "IMD announces further withdrawal of southwest monsoon from northwest and central India",
-        "tier": 1,
-        "url": "https://internal.imd.gov.in/press_release/20261001_pr_5366.pdf",
-        "words": [
-          "01st",
-          "2026",
-          "article",
-          "date",
-          "department",
-          "earth",
-          "government",
-          "imd",
-          "meteorological",
-          "ministry",
-          "oct",
-          "october",
-          "pdf",
-          "press"
-        ]
-      },
       {
         "at": "2026-10-01T07:36:18.924991+00:00",
         "handle": "PIB Ministry of Consumer Affairs, Food & Public Distribution",
@@ -34560,9 +34541,32 @@
           "thang",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-11-05T17:32:32.458512+00:00",
+        "handle": "Gazette Ministry of Law and Justice",
+        "headline": "Hardeep Singh Puri officially elected to Rajya Sabha from Madhya Pradesh",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277714.pdf",
+        "words": [
+          "bye",
+          "council",
+          "election",
+          "extraordinary",
+          "gazette",
+          "justice",
+          "law",
+          "legislativ",
+          "madhya",
+          "ministry",
+          "pradesh",
+          "publication",
+          "result",
+          "state"
+        ]
       }
     ],
-    "gazette_mark": 277712,
+    "gazette_mark": 277714,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -36067,7 +36071,11 @@
       "CG-DL-E-05112026-277705",
       "CG-DL-E-05112026-277708",
       "CG-DL-E-05112026-277712",
-      "CG-MH-E-05112026-277698"
+      "CG-MH-E-05112026-277698",
+      "CG-DL-E-05112026-277707",
+      "CG-DL-E-05112026-277709",
+      "CG-DL-E-05112026-277711",
+      "CG-DL-E-05112026-277714"
     ],
     "health": {
       "down": {
@@ -36077,13 +36085,9 @@
       },
       "warned": "2026-11-04T23:32:44.622861+00:00"
     },
-    "last_run": "2026-11-05T17:17:28.007715+00:00",
+    "last_run": "2026-11-05T17:32:32.485494+00:00",
     "pib_mark": 2333378,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|AATS, SOUTH DISTRICT APPREHENDS ACTIVE AUTO LIFTER, THREE STOLEN TWO WHEELERS RECOVERED, THREE CASES WORKED OUT.",
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ONE ACCUSED, ARMED WITH AN ILLEGAL PISTOL AND TWO LIVE CARTRIDGES ARRESTED BY PS DAYALPUR.",
-      "pib:2324637",
-      "pib:2324638",
       "pib:2324656",
       "pib:2324655",
       "pib:2324660",
@@ -38434,12 +38438,12 @@
       "gazette:CG-DL-E-04112026-277663",
       "gazette:CG-DL-E-04112026-277665",
       "gazette:CG-DL-E-04112026-277668",
-      "gazette:CG-TL-E-04112026-277671",
-      "gazette:CG-DL-E-04112026-277672",
-      "gazette:CG-TL-E-04112026-277670",
       "gazette:CG-TL-E-04112026-277669",
       "gazette:CG-DL-E-04112026-277667",
       "gazette:CG-DL-E-04112026-277666",
+      "gazette:CG-TL-E-04112026-277671",
+      "gazette:CG-DL-E-04112026-277672",
+      "gazette:CG-TL-E-04112026-277670",
       "gazette:CG-DL-E-04112026-277673",
       "gazette:CG-DL-E-04112026-277675",
       "gazette:CG-DL-E-04112026-277674",
@@ -39079,7 +39083,11 @@
       "gazette:CG-DL-E-05112026-277712",
       "gazette:CG-DL-E-05112026-277708",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/envir_05nov26_541_e.htm",
-      "gazette:CG-MH-E-05112026-277698"
+      "gazette:CG-MH-E-05112026-277698",
+      "gazette:CG-DL-E-05112026-277714",
+      "gazette:CG-DL-E-05112026-277707",
+      "gazette:CG-DL-E-05112026-277709",
+      "gazette:CG-DL-E-05112026-277711"
     ],
     "source_failures": {
       "CBI": {
@@ -39150,80 +39158,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic introduces employee Claude usage monitoring for managers",
-      "post": {
-        "created_at": "2026-11-05T16:41:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1793896860876",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Anthropic allows managers to monitor employees\u2019 Claude usage; company says: It will report on ...",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQzZnTnhoaVhvaXhSbmxYcFFQN0hLdDduWmJMNjhzUEhCRV9CcVBhOVJyQnc1LTI0X2JqSTRpSkdvbmdwSTJHT0hNLUlOcGpSckU3TTVOYmE4WHNQbnR2RFNmU29GWjVrUlRkSzlnTDhROVNSVEllUUVfY1ctSTdydTdXLWVCdUFRSUpGU3VkRERzRjl5Ri1sYzNoOV95TVBMMUFHVGJLWGFCcllwMzI5b3pBaUdEM3pHQ0pkb0FSMy1lbU9DMkp0TExHbEJSZDFodFhQRHB6aU9hdGFPODN3dzE4QWZmNUYtRk1WWDVPTlMzcUdkLXpBbmJuekV5c2FBNTAtVdIBigJBVV95cUxONDVXRGl4WDBTMWtTb1pTTzBWcnZxX1B1MGNkVFRhS1k5SWtlV2RDMnQza3FNNU1kU2VVVll2bXM5WmExN0FvNmlNX3FheHd1MVMxR09ucG5QMi01VkstZk4zR25jQko4WEtITVFyX2dvdFVOTmhnN3M3eDVzUDFwVHhKV2ZSb1F6WDBiODFNaUY3SmxCUHRLbVJUOW52eDQwMTJSQkhhNDFUM1Jqa3k3WnlNc1NpU1JfWV84ekxQVFo0eUFMTWE4R21HTGVxN0FJb25wUnlPNW15MmJVTEc3anJlUmlwVGNfa2ZiMTZLdW1zLWZ2d183ZXJ1Z1JvWk82YnRpUDktWUozQQ?oc=5"
-      },
-      "queued_at": "2026-11-05T17:01:45.174143+00:00",
-      "score": 7.0,
-      "why": "This is a new policy disclosure by a major AI company regarding their model usage."
-    },
-    {
-      "headline": "NPCI defends UPI MDR in Supreme Court hearing",
-      "post": {
-        "created_at": "2026-11-05T16:50:18+00:00",
-        "handle": "News: India fintech",
-        "id": "1793897418138",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Deccan Herald",
-        "reposts": 0,
-        "text": "NPCI defends MDR in Supreme Court, says levy hits only 4% of merchant transactions",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3NqdXIzT0tDaDI2NElBektNR2xBdWRWSHV1a3FaTUVZSTR6NktDRzk1NndvTUQ4OUhTS0hVeGFlWGdDX1pmSjZ5Tk9tbDBUekJuYTlFQXpVcVJlVVBIMEpKRnFpNW9ja0JOUDZoWGdIUXJybUdPYk5nLUczLVRISl9FMFhGWVVzUDBrWUd5NFhYRkNqZVpEcHRYYUk0Q0lwUVI4YUczb3BESGZ6UnJYSmxoSlVuV01MU0FDckNyNzg?oc=5"
-      },
-      "queued_at": "2026-11-05T17:01:45.174143+00:00",
-      "score": 7.0,
-      "why": "This is a significant official development in the ongoing UPI merchant fee row."
-    },
-    {
-      "headline": "OpenAI says new cybersecurity model improves defensive capabilities",
-      "post": {
-        "created_at": "2026-11-05T17:00:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1793898000852",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Verge",
-        "reposts": 0,
-        "text": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVJhXzNhR2ZJZ19kVm5FVkQ4dVVwUDlRV2ZZUGZKZ2ZZai1HQ3VzSTV4RHQ3UlhRNjNZbjhCcUFRMmFIN21PMmpKNGpzanZqSE5xZ3VZeUtMc3o1M0NidFpvV3VWSlR3YWdYV2RycTdXZGtYazNsYW9OZGljZFJHdzl4bi1valBMT0cyd3N3?oc=5"
-      },
-      "queued_at": "2026-11-05T17:16:17.145955+00:00",
-      "score": 8.0,
-      "why": "Significant research/model disclosure by a major AI lab regarding safety and security."
-    },
-    {
-      "headline": "Canada's Avenir acquires communications firms serving Nvidia and Meta",
-      "post": {
-        "created_at": "2026-11-05T13:17:34+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1793884654065",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bloomberg",
-        "reposts": 0,
-        "text": "Canada\u2019s Avenir Snaps Up Communications Firms That Serve Nvidia, Meta",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUzRZX3pRcXFjQ2hENTVfcGZYa28wR0pMN28zbURmRGlLU2xJSTgtckplTEQzWS1hYjRMWGk5UEVnX0RLTVBwY2l3N3dZYkl4S2VkY3d3TklMVHh0ajRDQ09MOVI4TV9hcUZ5T1JFTzlkY0dHUmlkdWVBczRLazNDaVppUTdib3pzU3dtemNsV2Y4TjVwR2dRSko5SVlMZHM3cTZJLVJSWnRWY3hGd2wtLXZEYmtaRTg1bUxfeUFDMjBTODRuSWc?oc=5"
-      },
-      "queued_at": "2026-11-05T17:16:17.145955+00:00",
-      "score": 7.0,
-      "why": "Acquisition involving major tech ecosystem players."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40382,14 +40317,14 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793897008096,
+    "news: big tech platforms": 1793898581352,
     "news: consumer internet india": 1793892392328,
-    "news: global ai": 1793898116287,
+    "news: global ai": 1793898341190,
     "news: global chips": 1793897044456,
     "news: global it services": 1793876289941,
     "news: india ai deeptech": 1793874942850,
     "news: india edtech gaming": 1793894754635,
-    "news: india fintech": 1793897418138,
+    "news: india fintech": 1793898641022,
     "news: india semiconductors": 1793850688171,
     "news: india tech policy": 1793889527068,
     "news: india telecom": 1793897761908,
@@ -40423,9 +40358,7 @@
     "zoho": 1793800451825
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-05T17:16:09.021141+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40443,7 +40376,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-05T17:16:17.789454+00:00",
+    "last_server_run": "2026-11-05T17:31:26.668816+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-05T16:47:03.364725+00:00",
@@ -40860,8 +40793,12 @@
       "CG-DL-E-05112026-277702",
       "CG-DL-E-05112026-277703",
       "CG-DL-E-05112026-277705",
+      "CG-DL-E-05112026-277707",
       "CG-DL-E-05112026-277708",
+      "CG-DL-E-05112026-277709",
+      "CG-DL-E-05112026-277711",
       "CG-DL-E-05112026-277712",
+      "CG-DL-E-05112026-277714",
       "CG-DL-E-06102026-276808",
       "CG-DL-E-06102026-276809",
       "CG-DL-E-06102026-276810",
@@ -42609,7 +42546,9 @@
       "bulletin:LS|2026-11-05|Bulletin-II",
       "meeting:LS|22630",
       "meeting:LS|22631",
-      "meeting:RS|2316"
+      "meeting:RS|2316",
+      "gazette:CG-DL-E-05112026-277714|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-05112026-277714|GAZETTE_DESKS:law"
     ]
   },
   "x_test": {
@@ -50549,12 +50488,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-05T17:17:44.954726+00:00",
+    "last_run": "2026-11-05T17:32:39.003128+00:00",
     "seen": [
-      "x:2115838570501910608",
-      "x:2115843603993870776",
-      "x:2115852318457688191",
-      "x:2115853127215874208",
       "x:2115786709938184646",
       "x:2115825340031655975",
       "x:2115857632867303625",
@@ -53550,7 +53485,11 @@
       "x:2118389402166862210",
       "x:2118390227073118223",
       "x:2118390672491487633",
-      "x:2118391181239587105"
+      "x:2118391181239587105",
+      "x:2118391771562676591",
+      "x:2118393873877840269",
+      "x:2118393926319243290",
+      "x:2118394043323576564"
     ],
     "source_failures": {},
     "sources": []
