@@ -1,0 +1,29 @@
+name: X accounts audit (one-off)
+
+# Which accounts in the X sheet are really followed (tracker/xaudit.py). Reads only.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - timeout-minutes: 5
+        env:
+          X_FEED_URL: ${{ secrets.X_FEED_URL }}
+        run: python -m tracker.xaudit
+      - uses: actions/upload-artifact@v4
+        with:
+          name: xaudit
+          path: xaudit.json
