@@ -187,7 +187,10 @@ def _gazette(scanned: set) -> list:
 
 # A gazette's subject line is often just "Publication of notification". The
 # notification itself -- the English half of the PDF -- says what it does.
-GAZETTE_CHARS = 600
+GAZETTE_CHARS = 2000
+GAZETTE_PAGES = 12
+# where the English notification starts: "S.O. 6027(E).—", "G.S.R. 812(E).—"
+_ENGLISH_START = re.compile(r"\b(?:S\.\s?O\.|G\.\s?S\.\s?R\.)\s*\d+\s*\(E\)")
 GAZETTE_BUDGET_SECONDS = 150
 _ENGLISH = re.compile(r"[\x20-\x7E\u2013\u2014\u2018\u2019\u201c\u201d]+")
 _OPENING = re.compile(r"\b(NOTIFICATION|ORDER|RESOLUTION|CORRIGENDUM|NOTICE)\b")
@@ -202,9 +205,16 @@ def _gazette_text(url: str) -> str:
                            headers={"User-Agent": sources.UA})
         response.raise_for_status()
         reader = PdfReader(io.BytesIO(response.content))
-        raw = " ".join((page.extract_text() or "") for page in reader.pages[:3])
+        raw = " ".join((page.extract_text() or "") for page in reader.pages[:GAZETTE_PAGES])
     except Exception:                                             # noqa: BLE001
         return ""
+    # Bilingual gazettes can run the Hindi over several pages; the English
+    # starts at its own S.O./G.S.R. number, with the ministry and "ORDER" above it.
+    start = _ENGLISH_START.search(raw)
+    if start:
+        head = raw[max(0, start.start() - 200):start.start()]
+        ministry = head.rfind("MINISTRY OF")
+        raw = raw[start.start() - 200 + ministry if ministry >= 0 and start.start() >= 200 else start.start():]
     # Gazettes print Hindi first, then English. Keep the English words only,
     # and start where the notification itself starts.
     english = " ".join(word for word in raw.split() if _ENGLISH.fullmatch(word))
@@ -867,8 +877,13 @@ ALREADY_SENT = """ALREADY SENT TO THEM IN THE LAST 48 HOURS:
 """
 
 
+def _room(post) -> int:
+    """How much of an item the AI reads: a gazette's own wording needs more."""
+    return MAX_CHARS + GAZETTE_CHARS if post.handle.startswith("Gazette ") else MAX_CHARS
+
+
 def _prompt(batch: list, rubric: str, sent: list, template: str = PROMPT) -> str:
-    listing = "\n\n".join(f"[{i}] {p.text[:MAX_CHARS]}" for i, p in enumerate(batch))
+    listing = "\n\n".join(f"[{i}] {p.text[:_room(p)]}" for i, p in enumerate(batch))
     block = ALREADY_SENT.format(sent="\n".join(f"- {h}" for h in sent)) if sent else ""
     return template.format(rubric=rubric, items=listing, already_sent=block)
 
