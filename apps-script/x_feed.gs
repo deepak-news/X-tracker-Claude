@@ -15,10 +15,8 @@
 // First time: run setup() once. It makes the tab, starts the five-minute
 // timer and does a first read.
 //
-// The follow list: run setupFollowing() once. Every day it copies the accounts
-// @DeepakatPTI follows, and whether each has the bell on, to the "X following"
-// tab. The tracker asks for them with ?following=1 (tracker/xfollows.py), for
-// the website's Admin page. A failure here never touches the five-minute feed.
+// setupFollowing() and what goes with it: X answers friends/list with 404 since
+// Nov 5, so nothing uses them; the Admin page goes by the feed (tracker/xfollows.py).
 
 const SHEET = 'X feed';
 const KEEP_ROWS = 3000;          // about a week at the current pace

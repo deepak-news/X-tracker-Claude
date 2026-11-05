@@ -1,9 +1,9 @@
-name: X follow list to the website
+name: Live X accounts to the website
 
-# The accounts @DeepakatPTI follows, for the website's Admin page (tracker/xfollows.py).
+# The X accounts seen in the sheet, for the website's Admin page (tracker/xfollows.py).
 on:
   schedule:
-    - cron: "30 1 * * *"     # 7 am India, after the sheet's own 6 am read
+    - cron: "30 1 * * *"     # 7 am India
   workflow_dispatch:
 
 permissions:
