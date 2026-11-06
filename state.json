@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-28T09:31:21.218605+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Travelport and Cognizant partner to build AI-native travel platform",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOb0FLUmhRVWNIcnhNeTdBLTVwaFF0TC0yWjVoRXRvU3gxX0E0UTJPMVdrUjdLUjhYVkU4V1BVZVRVREp6VTNxbVVEUjZMRVFBNnBPVlNOWEFqOEZHcXAwMEx5c1g1VWJPTERDWTZuVW1oNVdhZGxZTTRzcjJ3TEdXamhqS1U2UzQ1QXB1Sm1hXzBoWVE3NXg5eVVRWklJck83dWFfTmFuaHJGWEp4NU50bHV4UzlfZFFQMDBnQjZoel9aVE9PcGVuZE1WM0cxMUI4U01BQkhsUUxQR25BUXhrYWtZRGJFTmx6ak5SZ1FBelFGTllEQVJ0ZE05YmFTSkVvZ0VQZWZrU2tNODh4aFV6a0pxR1YtZ9IB4AFBVV95cUxPS0NxNHJjWEtUbW5WS2swRFM2RVk0TmdTdWo3ckRRVHgtTkw0TGhCWEp2Y0YzUHhTYTg2V1BnSV92ZXZJejdNQ0VORDMzWFdIWTZubk04ZFVVclZaT19hRnRQLUhGM1Z1Qlo2YkZpTnZoMndqaFc3MzJheGlFbWRNMVNUN1NXcmVTTkZhM0ZZb0lERHlhYnlZaWRpNE1yX2dPbzUwdVUyeW5qN1AxLVVBdTJ3bzNFZjJ5Sm9sakRsMnc5VVpLOVo0ZjBfWVNVRF9aUDRRMDZNUERCaWlsNDY0Sg?oc=5",
-      "words": [
-        "build",
-        "cognizant",
-        "deepen",
-        "native",
-        "partnership",
-        "platform",
-        "travel",
-        "travelport"
-      ]
-    },
-    {
-      "at": "2026-10-28T09:31:21.218605+00:00",
       "handle": "News: India telecom",
       "headline": "Airtel holds 61.16% of India M2M cellular connections in September 2026",
       "tier": 0,
@@ -7385,6 +7368,25 @@
         "plans",
         "push",
         "spending"
+      ]
+    },
+    {
+      "at": "2026-11-06T03:31:20.429436+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI launches engagement campaign regarding data center projects",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc1NVeVh6em9CV3pPVUtCVmwzcEVhbF9KMGFvejBfYjFMc2FSSHh4VnNrNWhkbTBuQ3ktMnduSEdCVHhrQ2pNLVBtNkVjSGl0Y2NIMC01bGRod3lpNWs4OERySTMwNUhGSWt0WjVzV29CbDBPVkc1ZmVPdE9YbDFQV1dOV3RPNlF6RWk4bi1WcFRIcGo4Uk1Jd0pNRUNmcTZDSFJMTjJnTHJtQzNad2k0MnMxcWpQWWJLV0RsT184WElXVlZUUHk2RGlzcXRCcDNzaVhzOFd5Nlp1VE9ibHJvVjE0bnlUMnVJaGJUS1BzT3NRNU1F?oc=5",
+      "words": [
+        "centers",
+        "change",
+        "charm",
+        "data",
+        "kicks",
+        "off",
+        "offensive",
+        "openai",
+        "view",
+        "voters"
       ]
     }
   ],
@@ -16996,11 +16998,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T03:17:03.792529+00:00",
-    "pib_mark": 2333401,
+    "last_run": "2026-11-06T03:32:20.062285+00:00",
+    "pib_mark": 2333403,
     "seen": [
-      "pib:2324228",
-      "pib:2324240",
       "pib:2324232",
       "pib:2324270",
       "pib:2324281",
@@ -19524,6 +19524,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-crpf-achievement-of-zero-casualties-in-12-consecutive-months-for-the-first-time-in-47-years",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-self-realisation-and-inner-strength",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-to-interact-with-indian-contingent-that-participated-in-asian-para-games-2026-on-5-november",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63923",
       "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
       "dgft-trade-notice:54c588a7-0fc0-4f2e-9229-a027c4f4f8b2",
       "dgft-public-notice:28624e0e-f35a-4ec1-9c04-6ece1f9af4f3",
@@ -19537,7 +19538,6 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13748&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63923",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63924",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63927",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63925",
@@ -19998,7 +19998,9 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-interaction-with-indias-asian-para-games-champions",
       "pib:2333401",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-indian-contingent-that-participated-in-asian-para-games-2026",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-indias-remarkable-rise-from-14-to-114-medals-at-asian-para-games"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-indias-remarkable-rise-from-14-to-114-medals-at-asian-para-games",
+      "pib:2333403",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933"
     ],
     "source_failures": {},
     "sources": [
@@ -20059,10 +20061,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793323945319",
-    "1793288364653",
-    "1793309804578",
-    "1793317719852",
     "1793325564189",
     "1793244911668",
     "1793245260958",
@@ -24516,7 +24514,6 @@
     "1793879320034",
     "1793901747525",
     "1793927341465",
-    "1793929201030",
     "1792490400634",
     "1793844581891",
     "1793864574821",
@@ -24551,6 +24548,11 @@
     "1793879672588",
     "1793899648184",
     "1793933435048",
+    "1793848903244",
+    "1793849263273",
+    "1793872801148",
+    "1793890455630",
+    "1793927874542",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25794,8 +25796,6 @@
     "1793836800128",
     "1793839515913",
     "1793844000135",
-    "1793848903244",
-    "1793849263273",
     "1793850364956",
     "1793850513614",
     "1793851304817",
@@ -25846,7 +25846,6 @@
     "1793870296964",
     "1793871780982",
     "1793872800207",
-    "1793872801148",
     "1793873236962",
     "1793873266470",
     "1793873519036",
@@ -25905,7 +25904,6 @@
     "1793889571962",
     "1793890048918",
     "1793890138175",
-    "1793890455630",
     "1793890845645",
     "1793890922187",
     "1793891136851",
@@ -26014,10 +26012,11 @@
     "1793926743727",
     "1793927341910",
     "1793927446381",
-    "1793927874542",
+    "1793927874382",
     "1793928600153",
     "1793928677814",
     "1793928740691",
+    "1793929201030",
     "1793929443138",
     "1793929524948",
     "1793929965365",
@@ -26035,9 +26034,12 @@
     "1793933041730",
     "1793933087286",
     "1793933100921",
+    "1793933237529",
     "1793933435988",
     "1793934052816",
+    "1793934250814",
     "1793934264867",
+    "1793935579587",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26060,8 +26062,8 @@
     "2333194",
     "2333279"
   ],
-  "last_digest_hour": "2026-11-06T08",
-  "last_success": "2026-11-06T03:16:07.432875+00:00",
+  "last_digest_hour": "2026-11-06T09",
+  "last_success": "2026-11-06T03:31:20.537570+00:00",
   "national": {
     "alerted": [
       {
@@ -36114,11 +36116,9 @@
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T03:16:46.917135+00:00",
-    "pib_mark": 2333401,
+    "last_run": "2026-11-06T03:32:00.986675+00:00",
+    "pib_mark": 2333403,
     "seen": [
-      "pib:2324727",
-      "pib:2324739",
       "pib:2324743",
       "pib:2324751",
       "pib:2324757",
@@ -38579,6 +38579,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-crpf-achievement-of-zero-casualties-in-12-consecutive-months-for-the-first-time-in-47-years",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-self-realisation-and-inner-strength",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-to-interact-with-indian-contingent-that-participated-in-asian-para-games-2026-on-5-november",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63923",
       "page:https://www.cbse.gov.in/cbsenew/documents/FINAL_Circular_Marks_Bifrucation_05112026.pdf",
       "npci:629",
       "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
@@ -39062,7 +39063,6 @@
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
       "page:https://www.pmindia.gov.in/en/news_updates/governor-of-keralam-meets-pm",
       "mea:41929",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63923",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-truth-knowledge-and-virtuous-conduct",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63924",
       "page:https://internal.imd.gov.in/press_release/20261105_pr_5469.pdf",
@@ -39116,7 +39116,9 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-indias-remarkable-rise-from-14-to-114-medals-at-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-interaction-with-indias-asian-para-games-champions",
       "pib:2333401",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-indian-contingent-that-participated-in-asian-para-games-2026"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-indian-contingent-that-participated-in-asian-para-games-2026",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
+      "pib:2333403"
     ],
     "source_failures": {
       "CBI": {
@@ -39187,26 +39189,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "OpenAI launches engagement campaign regarding data center projects",
-      "post": {
-        "created_at": "2026-11-06T02:50:35+00:00",
-        "handle": "News: Global AI",
-        "id": "1793933435048",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "OpenAI kicks off charm offensive to change voters' view of data centers",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc1NVeVh6em9CV3pPVUtCVmwzcEVhbF9KMGFvejBfYjFMc2FSSHh4VnNrNWhkbTBuQ3ktMnduSEdCVHhrQ2pNLVBtNkVjSGl0Y2NIMC01bGRod3lpNWs4OERySTMwNUhGSWt0WjVzV29CbDBPVkc1ZmVPdE9YbDFQV1dOV3RPNlF6RWk4bi1WcFRIcGo4Uk1Jd0pNRUNmcTZDSFJMTjJnTHJtQzNad2k0MnMxcWpQWWJLV0RsT184WElXVlZUUHk2RGlzcXRCcDNzaVhzOFd5Nlp1VE9ibHJvVjE0bnlUMnVJaGJUS1BzT3NRNU1F?oc=5"
-      },
-      "queued_at": "2026-11-06T03:01:41.084304+00:00",
-      "score": 7.0,
-      "why": "Confirmed corporate strategy shift by a major AI lab regarding infrastructure expansion."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40367,14 +40350,14 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1793934264867,
     "news: consumer internet india": 1793921412158,
-    "news: global ai": 1793933435988,
+    "news: global ai": 1793935579587,
     "news: global chips": 1793929443138,
     "news: global it services": 1793919789872,
     "news: india ai deeptech": 1793874942850,
     "news: india edtech gaming": 1793932934602,
     "news: india fintech": 1793899382283,
     "news: india semiconductors": 1793850688171,
-    "news: india tech policy": 1793933041730,
+    "news: india tech policy": 1793933237529,
     "news: india telecom": 1793934052816,
     "news: indian it majors": 1793917380739,
     "news: indian it midcaps": 1793903011745,
@@ -40424,7 +40407,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T03:16:07.888735+00:00",
+    "last_server_run": "2026-11-06T03:31:21.059645+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T01:46:45.526059+00:00",
@@ -50606,18 +50589,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T03:16:55.237017+00:00",
+    "last_run": "2026-11-06T03:32:08.050633+00:00",
     "seen": [
-      "x:2116055433890889907",
-      "x:2116056951817896436",
-      "x:2116057006968824074",
-      "x:2116057654930063802",
-      "x:2116057711603548580",
-      "x:2116057749230616629",
-      "x:2116057985785155781",
-      "x:2116058592105373976",
-      "x:2116058817255608424",
-      "x:2116058880581284245",
       "x:2116059211675374040",
       "x:2116059557088858465",
       "x:2116059620192186463",
@@ -53607,7 +53580,17 @@
       "x:2118540516665233648",
       "x:2118540952898056288",
       "x:2118541306045816861",
-      "x:2118541545326674298"
+      "x:2118541545326674298",
+      "x:2118542421479071874",
+      "x:2118542639397994703",
+      "x:2118542691030147576",
+      "x:2118542883880096020",
+      "x:2118544040949952661",
+      "x:2118544449550856302",
+      "x:2118544493146497084",
+      "x:2118544884709863443",
+      "x:2118545162418987422",
+      "x:2118545928651206943"
     ],
     "source_failures": {},
     "sources": []
