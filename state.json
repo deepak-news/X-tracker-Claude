@@ -1,60 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-28T11:32:35.322761+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "HCLTech launches AI-powered nano GCC offering on AWS",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkdGRGdzcnNzc2NPMkx4bndTVGJwVVlqOHlWWFdBTGlQNXd0ZG42T0lzNDBqQ3JvUWUwb2I2ZzAxNjVqcEY0dGRCWlI2eFZWVzloUENXcktYR2xKSmlPZmNmQkNZa21wZlJXZUh1dHVCZDV6VWxkNGxPOXd4aHVDeWEyYnpJcWd4LXhWQ1ZzLXVzdlhQTmhuSThBSHdfOEY4ZEV4NmgtaXNYVnR0bmdBcWR0ektQUdIBvAFBVV95cUxQR19vUEVKREZjdEpKbERGQjhmcHYwcWpyQ21yd1BrbGlqMGVHMi12U3JzS3FQSlpNUDB5T3hOWk5uVzJVZlhTUTFaUDREQnBFRzA0djBJRWNPYUlRVWtob292c0k2TkhNU3lodndtQ3lfZm1DcHVTaXZEcVBKb2s3d29DbWVxRGVxNnpibWhFUVVuNFR0bTd3OUIwOTlUMGdkMmNPWnhmaXhYMU41R0xxcHR2VDNZYW1vei0tSw?oc=5",
-      "words": [
-        "aws",
-        "gcc",
-        "hcltech",
-        "launches",
-        "nano",
-        "offering",
-        "powered"
-      ]
-    },
-    {
-      "at": "2026-10-28T11:32:35.322761+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Telangana consumer commission orders Zepto to pay Rs 57,000",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU0NlUkh5bld2YTBVeDdLVlZJOXBaYm1MWGxDanM1ZUlVRDY3M2F4NTY5d1EtWktsUzJWcEN2LTRjSXBsUm1UaGY0WU14UExaalVrUmFFV1R6LVotdTd1M0JqRHJ1TXZobTFOdXdiRWh0djJVQnFVZm9wNmxqZHRxZ1NOZmdIZm5BbVBrdGNUNll2bkNiMjA3VV9fenEyMXI0U2RBcjBXZVM2RXg1MTdBclY0OVZSa25SUEp5ZlJZWWZFaXp4TG9qSjk0ZzdmQUI2ZkZWd3VydEJkVlVCYUVGMFB6TWjSAeQBQVVfeXFMTlNDZVJIeW5XdmEwVXg3S1ZWSTlwWmJtTFhsQ2pzNWVJVUQ2NzNheDU2OXdRLVpLbFMyVnBDdi00Y0lwbFJtVGhmNFlNeFBMWmpVa1JhRVdUei1aLXU3dTNCakRydU12aG0xTnV3YkVodHYyVUJxVWZvcDZsamR0cWdTTmZnSGZuQW1Qa3RjVDZZdm5DYjIwN1VfX3pxMjFyNFNkQXIwV2VTNkV4NTE3QXJWNDlWUmtuUlBKeWZSWVlmRWl6eExvako5NGc3ZkFCNmZGVnd1cnRCZFZVQmFFRjBQek1o?oc=5",
-      "words": [
-        "000",
-        "commission",
-        "consumer",
-        "delivery",
-        "goes",
-        "minute",
-        "orders",
-        "pay",
-        "telangana",
-        "wrong",
-        "zepto"
-      ]
-    },
-    {
-      "at": "2026-10-28T12:31:25.887429+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "FCC approves Amazon-backed $11.5B acquisition of Globalstar",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZUJIUUlsVGQ3REpiRXJ2SXJqeWZsV1A4Z0xaakJYa25zaGNITzdkNXpTTnFYbTAycjEyYVEybldEUGhyM3BBazJyVzFuUWx3NVdFZWdDRkhHdzVySmEzRm9XczhRNjlqbXdiTU5KUjNwLUpnTERBVE1FTEQwYjZkMU5OdXRPMXNhU1BSdmdrRllBeXJOV0xOYlNEQ0Q3V1lmRmZsTng4S21INU5sNFZuRDhhR3BnbTFmX1gtZG8tQWxuc0RGZm9wRDhCdDF4LW1qdnhaQk9NRDVBWDNNVnktamU1SWV1SjA2Wlh5UGwySEpWbW5uRlVkLXRHbmpkOVF1WUJKSHZaYnowdGY2bUpFVENpLWgxaTdiRWdTTVI5anNsTUl5Z1oyT0RiYmJ1VnlEYlFrdnE5NDVPM0hUWF8yVGJwcU5CSnd3Z0JXQdIB0gJBVV95cUxQRXRJOWhQTGNiTUJXc0JEMFJnX3h4UGtEc2lBM1ROd0dqOWhrYmE3RVYxTXVqMm9RdldLMnVSTnVobmM2UzlUVkgzbVhYUVpBV1dFZGlXdXlhWHlPMmEtbkNDdVNqUkJ6UUFyYU9YNW45OTBPbk5vcUJWclZIYlhEZzJoSnZwOHRhQVlZbHpRS2szRlMzM0FFbV9sRHRkSU9zcnNtZENMMUF2QmpEQVgxSGdNWTJneGJFemllbTdxSHJFVnU4dWJVeW9PMHFpVzdhZHV5VUtRNXJhWmdHMngyNVF0WGE1WUxMUkFoMnJzdjdfTjdkcHl6QktMYkRSSnNYMUY5QXU3WWtNQjVDYmc1bW01QkpvZ0lUb0lXQnV3cHUwVmlvNlhIamVCQlNQajJUb0FNbjA4RTZjZVczZWQ0Uzc4UGhwNkVmekw3dlpXM19zUQ?oc=5",
-      "words": [
-        "acquisition",
-        "amazon",
-        "approves",
-        "fcc",
-        "globalstar",
-        "leo",
-        "operator",
-        "satellite",
-        "setting"
-      ]
-    },
-    {
       "at": "2026-10-28T12:31:25.887429+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Meesho reports Rs 4,132 crore Q2 FY27 revenue and narrowed losses",
@@ -7379,6 +7325,60 @@
         "slams",
         "voter",
         "welfare"
+      ]
+    },
+    {
+      "at": "2026-11-06T10:31:21.953807+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Ashwini Vaishnaw directs MeitY to cancel 18-19 non-serious ECMS projects",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa3hpSlItSTYtSi1Vd0tDdVo2T05MRDk0eXBaNF9EaTZoV0xMNGdZYlU4dWFjX0pUeE5PRDlpWGNfUHpjb0lOUDJEc0VscE9TM1Q5d2lwX3VUVWFFeTU4d3hldHozdGp0eUxZbkpYV0QxTV9VNEZ6NWd1SEhkajlGdWJvQ3lEQWFiUEFNX3VCbW9LbklBTDg3eHFDTUlLNloySFVjYW1taHRfbzFmX3NrdlV6VXgzLTc0QUhaQWkzdlJFOE5rbzlsM0Fpa3VBTkpUSFHSAdcBQVVfeXFMUEl2MmRIMUl2bW1FVkItbElPM1JndHhHWnpmak4xTU9ISGdtYkRmeVM2TFBHc3RpRzAyNUd4VUdKQTRYSDAwYkNrVWdlWnVTZmNLdkNKOTFSdGpBVWl0dHo0OXV5UnVIbzdEUVB1ZV9KRkNzSGxVdUpEdkNvZnhiU25idEFUdmFwOWI3X3lQcnF4czZNNGJ4SHloRVdhTE5xS3F0MUJJNS1JS3VDTE84ZUtHNF9oY3REdGNWWDdiNmtCekFDLTFYSENNSDVUelhPZURTYnE0cVE?oc=5",
+      "words": [
+        "approvals",
+        "ashwini",
+        "asks",
+        "cancel",
+        "ecms",
+        "meity",
+        "non",
+        "projects",
+        "serious",
+        "vaishnaw"
+      ]
+    },
+    {
+      "at": "2026-11-06T10:31:21.953807+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Ashwini Vaishnaw says Semicon 2.0 needs large equipment and chemical makers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNQkYweXJ5TU45Sk5XRzNrbEJWeWhxOTczLVdCNlpSLWFiQW5pcmRfbUppWEZJSUQ0d0FKMkZHX2EwNnNuRXJwUUNKeDFjR2VoRVlZNUZMWVdpRVBGd1VzWl9rRlZERU5UekVsYXYtZVduSW9rb29ITFRVNGNCMlVJLWRJeVZUMDQ5N3RIYV9BV1llTmZHdmxJMUdFZUNIYmcxeHlCS0xrMlQwMFpYNjV6dDBYdHl6N3pTdmxXN0s1bVRVUERuRHpaWFhmSU5Qb0lYSFJpbzJSMUIxaE96UzFPOXl0eVpqV0tFSmpfTmJNU050VXpadFlrSFNUVlBwT0FTN3pWZ19HNDFCOUVMMkw2Q29zUTkxeGlpR01sbFpEZFBDRGFxRjlwRGJnalJyNFcxRWNEOUh2OHZDNDlQaUQwaXkxSHFnemIy0gGXAkFVX3lxTE9FQThCeEMzNllPOFZ1LTR4ZzVkOFZTaXpZUEdhRlZHbzdyOHBucnZHVm5iblg5WlB3dUQwQkhVdUVFRUhNWDBKMmEzU2pubS1FSGxrY2VDYTRwZ3EwbGttQS1xZ191aW1TTnBQS2hzTTZrRnF3R2lOUzZiZUsxR3B5UzNOQkNPU19iYU8yRW53cEhUSVpRdnhxbnpqUlN5aGZUUkswYmR3TzlZemE4TFd0bzQya0N2Smlvak9tcWcxdFh0dkZxakk0bkhBTHFkaEpTcWpEblVUUDVkcTZ2dUNHQ2MteXpyUnpTQlFvYWJKR0dxVUhKMjNRWWt2YlEwY2NLbVFLb1A2SjgxZkx0SWlvdExpVVQ4OA?oc=5",
+      "words": [
+        "ashwini",
+        "attracts",
+        "chemicals",
+        "equipment",
+        "gases",
+        "large",
+        "makers",
+        "semicon",
+        "successful",
+        "vaishnaw"
+      ]
+    },
+    {
+      "at": "2026-11-06T10:31:21.953807+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Tech Mahindra to acquire more shares in Pininfarina, raising stake to 92.59%",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNnhscTgybFM0NVkxTXVEcVJOVVY2ZnhaazVxSjRycXZSQTNPNjlmRjF3MjY5WnBvRC1JWDBQUi1iR0xuX0ZfQkZqTjVuNldCcThhZFhxaHYzR1BkbmhxcDJEQXBWVjY5Y3dwSTU1eEVqdHM3NTR1empXa1JMcW85dVFOZXNvUXdkMXlpSktuZmNENWpob2J1bVc1UnRrLXk2RTcxdXVBU3ZpNlZDMHVkRjJZSlpKMERPNC1qaENiU1UySmR5Wm9na1E2OFY1OWdkV0x3aEtDZjTSAd4BQVVfeXFMUGpyVHo4TVVyMjM4XzB0Q2paT1pGeFZWTUVaQk1IYlFhYXZoeDI0MExxQWZfSmN6enB6SlQzaEdDOTJEam5Lb0hlQUZJeFVXa2I5VWhVYWxiUTFiQU8tcVNlRzYzSk92bl94S2p2RU9JR2Jyc1BoQkVBVFpqTzd3dC1GRkJYaFI3WmdkMHVQMzhZa0RhSi1vMVktRDlacDVZd0hlc2hJQzJuT0lOZHlDZHNncTVZV05TOVVwT2o0VDFvMmt3aXN3WlRTMVhMLWFGaF96SVZIUXFIalAyaE5R?oc=5",
+      "words": [
+        "acquire",
+        "mahindra",
+        "more",
+        "pininfarina",
+        "raise",
+        "stake",
+        "tech"
       ]
     }
   ],
@@ -16983,11 +16983,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T10:17:29.691945+00:00",
-    "pib_mark": 2333564,
+    "last_run": "2026-11-06T10:32:33.722341+00:00",
+    "pib_mark": 2333590,
     "seen": [
-      "pib:2324555",
-      "pib:2324560",
       "pib:2324557",
       "pib:2324581",
       "pib:2324593",
@@ -19985,7 +19983,9 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168743",
       "pib:2333562",
       "pib:2333564",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-ayurveda-and-the-importance-of-preventive-healthcare"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-ayurveda-and-the-importance-of-preventive-healthcare",
+      "pib:2333587",
+      "pib:2333590"
     ],
     "source_failures": {},
     "sources": [
@@ -20046,16 +20046,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793340720875",
-    "1793261757154",
-    "1793264115802",
-    "1793264386091",
-    "1793269980138",
-    "1793281884667",
-    "1793284268668",
-    "1793296426000",
-    "1793314807032",
-    "1793326697642",
     "1793336900578",
     "1793337461319",
     "1793337960305",
@@ -24522,8 +24512,6 @@
     "1793942310009",
     "1793944449714",
     "1793881976645",
-    "1792156871747",
-    "1792662737873",
     "1793873236962",
     "1793873266470",
     "1793873519036",
@@ -24536,6 +24524,13 @@
     "1793941826976",
     "1793951679292",
     "1793954951506",
+    "1793876569475",
+    "1793878797622",
+    "1793912726336",
+    "1793936250505",
+    "1793941412018",
+    "1793944844929",
+    "1793953365490",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25451,6 +25446,7 @@
     "1792085476577",
     "1792117873305",
     "1792141778525",
+    "1792156871747",
     "1792347345536",
     "1792378078745",
     "1792391476337",
@@ -25516,6 +25512,7 @@
     "1792645256641",
     "1792648800012",
     "1792656948850",
+    "1792662737873",
     "1792664152667",
     "1792670355715",
     "1792672275017",
@@ -25785,7 +25782,6 @@
     "1793874942850",
     "1793874949074",
     "1793876214275",
-    "1793876569475",
     "1793877250011",
     "1793877480703",
     "1793878223585",
@@ -25793,7 +25789,6 @@
     "1793878341955",
     "1793878463492",
     "1793878590739",
-    "1793878797622",
     "1793878842714",
     "1793879207220",
     "1793880014180",
@@ -25862,7 +25857,6 @@
     "1793909143190",
     "1793909263524",
     "1793911140000",
-    "1793912726336",
     "1793912952053",
     "1793912996659",
     "1793912996810",
@@ -25922,7 +25916,6 @@
     "1793935749564",
     "1793935911272",
     "1793935993225",
-    "1793936250505",
     "1793936340540",
     "1793936522900",
     "1793936736020",
@@ -25951,7 +25944,6 @@
     "1793941204291",
     "1793941216945",
     "1793941339086",
-    "1793941412018",
     "1793941488164",
     "1793941708238",
     "1793941897374",
@@ -25973,7 +25965,6 @@
     "1793944312437",
     "1793944320881",
     "1793944412104",
-    "1793944844929",
     "1793945354714",
     "1793945441514",
     "1793945620367",
@@ -26001,6 +25992,7 @@
     "1793949389963",
     "1793949944058",
     "1793950258644",
+    "1793950616603",
     "1793950640234",
     "1793950763451",
     "1793950918431",
@@ -26011,18 +26003,26 @@
     "1793953030313",
     "1793953206913",
     "1793953329381",
-    "1793953365490",
+    "1793953365704",
     "1793953395083",
     "1793953438673",
     "1793953626309",
     "1793954250174",
+    "1793954387133",
     "1793955206426",
+    "1793955583206",
     "1793955770074",
     "1793955933009",
+    "1793956690688",
+    "1793956952007",
     "1793957525895",
     "1793957690089",
+    "1793957985797",
     "1793958195351",
     "1793958629118",
+    "1793959291454",
+    "1793959399030",
+    "1793959417215",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26047,8 +26047,8 @@
     "2333541",
     "2333549"
   ],
-  "last_digest_hour": "2026-11-06T15",
-  "last_success": "2026-11-06T10:16:09.707897+00:00",
+  "last_digest_hour": "2026-11-06T16",
+  "last_success": "2026-11-06T10:31:22.060164+00:00",
   "national": {
     "alerted": [
       {
@@ -36101,11 +36101,9 @@
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T10:17:12.622363+00:00",
-    "pib_mark": 2333564,
+    "last_run": "2026-11-06T10:32:05.694947+00:00",
+    "pib_mark": 2333590,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|VIGILANT STAFF OF PS TILAK NAGAR APPREHEND HABITUAL OFFENDER, THREE THEFT CASES WORKED OUT.",
-      "page:https://www.pmindia.gov.in/en/news_updates/lieutenant-governor-of-delhi-meets-pm-2",
       "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-rajasthan-meets-pm",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168619",
       "page:https://internal.imd.gov.in/press_release/20260903_pr_5285.pdf",
@@ -39103,7 +39101,9 @@
       "pib:2333564",
       "page:https://www.cbse.gov.in/cbsenew/documents/Circular_Marks_Bifurcation_06112026 -.pdf",
       "pib:2333562",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-ayurveda-and-the-importance-of-preventive-healthcare"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-ayurveda-and-the-importance-of-preventive-healthcare",
+      "pib:2333587",
+      "pib:2333590"
     ],
     "source_failures": {
       "CBI": {
@@ -39174,44 +39174,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Ashwini Vaishnaw directs MeitY to cancel 18-19 non-serious ECMS projects",
-      "post": {
-        "created_at": "2026-11-06T09:34:50+00:00",
-        "handle": "News: India tech policy",
-        "id": "1793957690089",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Ashwini Vaishnaw asks MeitY to cancel approvals of 18-19 \u2018non-serious\u2019 ECMS projects",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa3hpSlItSTYtSi1Vd0tDdVo2T05MRDk0eXBaNF9EaTZoV0xMNGdZYlU4dWFjX0pUeE5PRDlpWGNfUHpjb0lOUDJEc0VscE9TM1Q5d2lwX3VUVWFFeTU4d3hldHozdGp0eUxZbkpYV0QxTV9VNEZ6NWd1SEhkajlGdWJvQ3lEQWFiUEFNX3VCbW9LbklBTDg3eHFDTUlLNloySFVjYW1taHRfbzFmX3NrdlV6VXgzLTc0QUhaQWkzdlJFOE5rbzlsM0Fpa3VBTkpUSFHSAdcBQVVfeXFMUEl2MmRIMUl2bW1FVkItbElPM1JndHhHWnpmak4xTU9ISGdtYkRmeVM2TFBHc3RpRzAyNUd4VUdKQTRYSDAwYkNrVWdlWnVTZmNLdkNKOTFSdGpBVWl0dHo0OXV5UnVIbzdEUVB1ZV9KRkNzSGxVdUpEdkNvZnhiU25idEFUdmFwOWI3X3lQcnF4czZNNGJ4SHloRVdhTE5xS3F0MUJJNS1JS3VDTE84ZUtHNF9oY3REdGNWWDdiNmtCekFDLTFYSENNSDVUelhPZURTYnE0cVE?oc=5"
-      },
-      "queued_at": "2026-11-06T10:16:09.602030+00:00",
-      "score": 7.0,
-      "why": "A direct policy order by a union minister concerning electronics and IT manufacturing is a strong story for the beat."
-    },
-    {
-      "headline": "Ashwini Vaishnaw says Semicon 2.0 needs large equipment and chemical makers",
-      "post": {
-        "created_at": "2026-11-06T09:50:29+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1793958629118",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Electronics",
-        "reposts": 0,
-        "text": "Semicon 2.0 to be successful if India attracts large equipment, chemicals & gases makers: Ashwini Vaishnaw",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNQkYweXJ5TU45Sk5XRzNrbEJWeWhxOTczLVdCNlpSLWFiQW5pcmRfbUppWEZJSUQ0d0FKMkZHX2EwNnNuRXJwUUNKeDFjR2VoRVlZNUZMWVdpRVBGd1VzWl9rRlZERU5UekVsYXYtZVduSW9rb29ITFRVNGNCMlVJLWRJeVZUMDQ5N3RIYV9BV1llTmZHdmxJMUdFZUNIYmcxeHlCS0xrMlQwMFpYNjV6dDBYdHl6N3pTdmxXN0s1bVRVUERuRHpaWFhmSU5Qb0lYSFJpbzJSMUIxaE96UzFPOXl0eVpqV0tFSmpfTmJNU050VXpadFlrSFNUVlBwT0FTN3pWZ19HNDFCOUVMMkw2Q29zUTkxeGlpR01sbFpEZFBDRGFxRjlwRGJnalJyNFcxRWNEOUh2OHZDNDlQaUQwaXkxSHFnemIy0gGXAkFVX3lxTE9FQThCeEMzNllPOFZ1LTR4ZzVkOFZTaXpZUEdhRlZHbzdyOHBucnZHVm5iblg5WlB3dUQwQkhVdUVFRUhNWDBKMmEzU2pubS1FSGxrY2VDYTRwZ3EwbGttQS1xZ191aW1TTnBQS2hzTTZrRnF3R2lOUzZiZUsxR3B5UzNOQkNPU19iYU8yRW53cEhUSVpRdnhxbnpqUlN5aGZUUkswYmR3TzlZemE4TFd0bzQya0N2Smlvak9tcWcxdFh0dkZxakk0bkhBTHFkaEpTcWpEblVUUDVkcTZ2dUNHQ2MteXpyUnpTQlFvYWJKR0dxVUhKMjNRWWt2YlEwY2NLbVFLb1A2SjgxZkx0SWlvdExpVVQ4OA?oc=5"
-      },
-      "queued_at": "2026-11-06T10:16:09.602030+00:00",
-      "score": 7.0,
-      "why": "Statements by a minister on industry direction and policy for semiconductors are filable stories."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40371,17 +40334,17 @@
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
     "news: big tech platforms": 1793953438673,
-    "news: consumer internet india": 1793953626309,
-    "news: global ai": 1793951160613,
-    "news: global chips": 1793953206913,
+    "news: consumer internet india": 1793956952007,
+    "news: global ai": 1793959417215,
+    "news: global chips": 1793959399030,
     "news: global it services": 1793941204291,
     "news: india ai deeptech": 1793958195351,
     "news: india edtech gaming": 1793951700459,
     "news: india fintech": 1793951679292,
     "news: india semiconductors": 1793958629118,
     "news: india tech policy": 1793957690089,
-    "news: india telecom": 1793955770074,
-    "news: indian it majors": 1793955933009,
+    "news: india telecom": 1793956690688,
+    "news: indian it majors": 1793959291454,
     "news: indian it midcaps": 1793954951506,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793953206913,
@@ -40429,7 +40392,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T10:16:10.202727+00:00",
+    "last_server_run": "2026-11-06T10:31:22.542449+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T10:16:49.016159+00:00",
@@ -50733,22 +50696,45 @@
           "via",
           "www"
         ]
+      },
+      {
+        "at": "2026-11-06T10:32:21.660749+00:00",
+        "headline": "Trade margins capped on 137 cancer medicines to make treatment cheaper",
+        "url": "https://x.com/PIB_India/status/2118648146179850688",
+        "words": [
+          "137",
+          "2026",
+          "affordable",
+          "authority",
+          "cancer",
+          "cap",
+          "capped",
+          "care",
+          "cheaper",
+          "every",
+          "family",
+          "government",
+          "https",
+          "lk0n2eva5e",
+          "margin",
+          "means",
+          "medicines",
+          "national",
+          "nppa",
+          "october",
+          "patients",
+          "pharmaceutical",
+          "pricing",
+          "priority",
+          "quality",
+          "trade"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T10:17:20.194821+00:00",
+    "last_run": "2026-11-06T10:32:21.661059+00:00",
     "seen": [
-      "x:2116178937265152309",
-      "x:2116179567589339383",
-      "x:2116180292226723840",
-      "x:2116180522800144621",
-      "x:2116181768143266247",
-      "x:2116183350725472749",
-      "x:2116183370220617988",
-      "x:2116186672924885030",
-      "x:2116187118426820717",
-      "x:2116189176806916490",
       "x:2116189787896103354",
       "x:2116190811297870161",
       "x:2116190894126751925",
@@ -53738,7 +53724,17 @@
       "x:2118646611433910619",
       "x:2118647047628988871",
       "x:2118647333391147203",
-      "x:2118647619392246062"
+      "x:2118647619392246062",
+      "x:2118648146179850688",
+      "x:2118648268590907783",
+      "x:2118648501316002139",
+      "x:2118649371030065311",
+      "x:2118649513674227950",
+      "x:2118649772106186910",
+      "x:2118649779521761604",
+      "x:2118650216325009426",
+      "x:2118650799408758915",
+      "x:2118651466215010333"
     ],
     "source_failures": {},
     "sources": []
