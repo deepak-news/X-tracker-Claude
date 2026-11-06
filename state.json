@@ -1,41 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-28T17:32:17.214269+00:00",
-      "handle": "News: Global AI",
-      "headline": "US Senator Elizabeth Warren questions Anthropic on existential AI risks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYktCNVFvYUdKVHlVdnBGeWI0MWNyZW5OMkpVNk11OVBISmdxVXRyUFM4RUsxenRHUWVTTU9OQUd0aGY3ZHUtRmVNUlR4UzdvelJVb1FyTWI3MHNQQ09iUVlkLVVRVjlDOTJ3OEtZaXJLVnYtakRMMFBCTk1TcXRqRFpmQ3pibS1XSklhNlFvLWNQajRCS1h0akVZa0k0STNnTHhlalNFWVViNVlGUmY0MkUyZ0p3a0E?oc=5",
-      "words": [
-        "answers",
-        "anthropic",
-        "demands",
-        "elizabeth",
-        "exclusive",
-        "existential",
-        "risks",
-        "warren"
-      ]
-    },
-    {
-      "at": "2026-10-28T18:31:57.402433+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Allahabad High Court bars Aadhaar as age proof for marriage registration",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTZFQjUxamJzRU5nNkthazBFclB4Wk9sWVJPZzBfdldaM1RWOEx2VHhBVU1rWXpodnR6ZW1SM1RCa0QzWmozVi1MNjFRYU5KaXljM252WklGZTA5Vlp6NWMyTXhob1ZXRnQwWGE0NTZEWlFSRFV0V3loV1V3b1ljZHhXenZhWl84X3VXYXFEek5RQlk3bXFaV3o2VXY4X2dZclYwQmN3N3FYS1V3X0tHRkFnMDNpWFF4WmNYOHpJRm4xaEYyZjJhUHVzRXlmZk3SAdQBQVVfeXFMTXBpV2tyX2RMMm52cWswcHc1alV2NURNZWtVN0hxMFUxQzhzbkZRZWRiNFVVVWpHUmxFdWZORUkzNnZnNDd6TmdTMGtXR0tvX3UwMlF3NFlWeWl1SWRZSzRkcGRjeFhBNndBM0hXa3paUXcwZFpCWVc0TThSNE0wRVFRUktvUTJvcEZselNuSWNzSjZtYlp3Y29YMVhGVWFULV9nSVVBWGllMk1jNExxX0hXcVl3dXBQU0I4THpzaXRvb0R0c3UyWEtiaTZ3OWNySVB2cW8?oc=5",
-      "words": [
-        "aadhaar",
-        "age",
-        "allahabad",
-        "bars",
-        "court",
-        "high",
-        "marriage",
-        "proof",
-        "registration"
-      ]
-    },
-    {
       "at": "2026-10-28T18:31:57.402433+00:00",
       "handle": "News: Big tech platforms",
       "headline": "US FTC demands Walmart, Uber and others hand over pricing data",
@@ -7393,6 +7358,40 @@
         "model",
         "models",
         "moment"
+      ]
+    },
+    {
+      "at": "2026-11-06T16:31:54.686028+00:00",
+      "handle": "News: India telecom",
+      "headline": "Government working on telecom PLI with local value focus",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPNEUyMF9LamVoa05HVjVSekFvbG4tbU4yUjhPYTVIUERidXV5VGdDUjVPTnR3VmFNZEJYRmJid1hJWm5xdW5URFUwc1RidEQ5MzFfaFQ2blZqOFA1djN3Q3pHSVpkdUlJcXpuNU40NV9xTExYMkI1OGI4d2QyeFNZd3RITTJLdERXTDUxRU9FU29ZcjhrSmpIa3llSktrQzZJZElxLVBUcWt2UnN2Tjh0bU1OOFpCZC1QbXRvNnNtMFNVN0pheFVCa0JONjBPbjdYa0MwZmFkUkpORGhYMk12emZQQ0JXTEg4UXNMbFB2SmRUWk9BcUpUTURESW9ubkhkbVdzd1R0MHNWcEJQU0FCYV94dGFuMXFFSmVtQmRiQkFYNHQ5ck92NDF1M3hMY3RZX21jTTlHT05pOHRKWU5ReHBUUGpsN3RfNWU2MXEzT2VNUQ?oc=5",
+      "words": [
+        "addition",
+        "focus",
+        "govt",
+        "higher",
+        "local",
+        "pli",
+        "telecom",
+        "value",
+        "working"
+      ]
+    },
+    {
+      "at": "2026-11-06T16:31:54.686028+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio Launches Industry-First 3-Year Plan at \u20b910,000",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWt5Y2NQZHJEQ25pWkJjWGZZX1dpdzJaWmFmcVgtXzJnVEtVRzVrOXJGcFlpcU5Cc3RtY3Vnd3liQ1d1b3h6TENfMTBJZ2Q4OG9rUHJaVWk3NVFJMFZvb2xTUTBWWGl3R01uaExrSXdWR25FQmZaU25ldHdEdkM4UFhydXhVU0hsdldtdjc3azR2eXl5ZUU1OFR2NWk3S3EwY19LMVU4RDFCYVgtYlp0VG5lbWN5Z9IBvAFBVV95cUxNNGhBRENRRkdSdi10SVc0YlhXUkh1SWxzTXV0WXBPbEJDTkZZZzFmS3dPeTI3T0VSMm84alpac0RXUEt2S3dqeThLOHJoYXVULUdEZFFyUWdPWWJkOWRvVEhvVVZWelhvcDVwZUFpZE41LU15VEdCVmxNeTZiNWZxYm92UVQtTWxUSlA5YUVqYUVUZHhXMzBqcmlPYjFPcjNOd3ctdm1JM2NFd2tIZTRzZFFoOGRRSER4clV4RA?oc=5",
+      "words": [
+        "000",
+        "first",
+        "industry",
+        "jio",
+        "launches",
+        "plan",
+        "year"
       ]
     }
   ],
@@ -17008,14 +17007,11 @@
       "CG-DL-E-06112026-277720"
     ],
     "health": {
-      "down": {
-        "Gazette of India (Extraordinary)": "2026-11-06T16:22:37.084378+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-06T16:22:38.337720+00:00",
+    "last_run": "2026-11-06T16:34:07.705695+00:00",
     "pib_mark": 2333803,
     "seen": [
-      "cci-merger:C-2026/08/1447|Approved",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|AATS, SOUTH DISTRICT APPREHENDS TWO SUSPECTED MOBILE PHONE THIEVES.",
       "pib:2324612",
       "pib:2324616",
@@ -20014,13 +20010,10 @@
       "pib:2333799",
       "pib:2333803",
       "page:https://www.pmindia.gov.in/en/news_updates/governor-of-tamil-nadu-meets-pm-2",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-adorable-moment-with-indian-cricketer-suryakumar-yadav-and-his-family"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-adorable-moment-with-indian-cricketer-suryakumar-yadav-and-his-family",
+      "site:ai:ISRO|https://www.isro.gov.in/ISRO_delegation_in_the_32nd_Session_of_APRSAF.html"
     ],
-    "source_failures": {
-      "Gazette of India (Extraordinary)": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20079,13 +20072,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793356193171",
-    "1793275671779",
-    "1793276129891",
-    "1793319960663",
-    "1793357162281",
-    "1793357866634",
-    "1793359883664",
     "1793360260533",
     "1793361295890",
     "1793277022605",
@@ -24476,7 +24462,6 @@
     "1793933558793",
     "1793958629118",
     "1793964732920",
-    "1793967478752",
     "1793971320233",
     "1793886796109",
     "1793933087286",
@@ -24528,7 +24513,6 @@
     "1793925000442",
     "1793927187063",
     "1793939835793",
-    "1793970523898",
     "1793892392328",
     "1793936736020",
     "1793943271112",
@@ -24542,7 +24526,6 @@
     "1793964028392",
     "1793964341106",
     "1793968680335",
-    "1793969649736",
     "1793971813315",
     "1793972858883",
     "1793977740070",
@@ -24555,10 +24538,8 @@
     "1793969836181",
     "1793970182828",
     "1792645223413",
-    "1793750400772",
     "1793894754635",
     "1793894933057",
-    "1793947642883",
     "1793962259651",
     "1793965576561",
     "1793966225932",
@@ -24567,8 +24548,17 @@
     "1793968415707",
     "1793970297736",
     "1793975397133",
-    "1793976660652",
-    "1793979761259",
+    "1793923080160",
+    "1793934052221",
+    "1793946650858",
+    "1793969242883",
+    "1793970132920",
+    "1793970295312",
+    "1793971744931",
+    "1793972249968",
+    "1793972649063",
+    "1793973679513",
+    "1793981580202",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25768,6 +25758,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25854,7 +25845,6 @@
     "1793921412158",
     "1793921967381",
     "1793922060274",
-    "1793923080160",
     "1793923200697",
     "1793923729096",
     "1793924700370",
@@ -25872,7 +25862,6 @@
     "1793933041730",
     "1793933074307",
     "1793933237529",
-    "1793934052221",
     "1793935911272",
     "1793936340540",
     "1793936522900",
@@ -25913,10 +25902,10 @@
     "1793945692616",
     "1793946620747",
     "1793946648258",
-    "1793946650858",
     "1793946816649",
     "1793947031230",
     "1793947389158",
+    "1793947642883",
     "1793947817040",
     "1793947920974",
     "1793947932133",
@@ -25988,18 +25977,18 @@
     "1793966441269",
     "1793966859927",
     "1793967343219",
+    "1793967478752",
     "1793967750829",
     "1793967789353",
     "1793968488579",
     "1793968826544",
     "1793969092287",
     "1793969150209",
-    "1793969242883",
+    "1793969649736",
     "1793970023117",
     "1793970088339",
-    "1793970132920",
     "1793970199263",
-    "1793970295312",
+    "1793970523898",
     "1793970690288",
     "1793971020213",
     "1793971020961",
@@ -26007,17 +25996,13 @@
     "1793971527799",
     "1793971550138",
     "1793971743031",
-    "1793971744931",
     "1793971813507",
-    "1793972249968",
-    "1793972649063",
     "1793973000561",
     "1793973021828",
     "1793973060455",
     "1793973557911",
     "1793973600318",
     "1793973660266",
-    "1793973679513",
     "1793973694631",
     "1793974222676",
     "1793974560131",
@@ -26030,8 +26015,10 @@
     "1793976227410",
     "1793976353081",
     "1793976497133",
+    "1793976660652",
     "1793977019317",
     "1793977216919",
+    "1793977548931",
     "1793977635987",
     "1793977680551",
     "1793977920871",
@@ -26046,14 +26033,20 @@
     "1793978905487",
     "1793979060527",
     "1793979180117",
+    "1793979714773",
+    "1793979761259",
     "1793979921233",
     "1793980080477",
     "1793980487305",
     "1793980800223",
     "1793980800839",
     "1793980835839",
+    "1793981090924",
+    "1793981177063",
     "1793981250053",
-    "1793981580202",
+    "1793981640202",
+    "1793981646662",
+    "1793982167137",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26080,8 +26073,8 @@
     "2333683",
     "2333716"
   ],
-  "last_digest_hour": "2026-11-06T21",
-  "last_success": "2026-11-06T16:17:03.319520+00:00",
+  "last_digest_hour": "2026-11-06T22",
+  "last_success": "2026-11-06T16:31:54.772032+00:00",
   "national": {
     "alerted": [
       {
@@ -36137,16 +36130,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "Gazette of India (Extraordinary)": "2026-11-06T16:20:49.652287+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T16:20:50.823121+00:00",
+    "last_run": "2026-11-06T16:33:47.758385+00:00",
     "pib_mark": 2333803,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-citizens-on-maha-navami",
       "page:https://www.pmindia.gov.in/en/news_updates/governor-of-assam-meets-pm",
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-announces-the-10-winners-of-its-online-human-rights-quiz-2026-organised-ahead-of-its-33rd-foundation-day-in-collaboration-with-mygov",
       "site:Delhi Police|dp-notification:16/10/2026|ORDER US 163 BNSS BY ACP SHALIMAR BAGH DATED 16 OCTOBER 2026",
@@ -39145,15 +39136,13 @@
       "pib:2333803",
       "pib:2333799",
       "page:https://www.pmindia.gov.in/en/news_updates/governor-of-tamil-nadu-meets-pm-2",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-adorable-moment-with-indian-cricketer-suryakumar-yadav-and-his-family"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-adorable-moment-with-indian-cricketer-suryakumar-yadav-and-his-family",
+      "site:ai:ISRO|https://www.isro.gov.in/ISRO_delegation_in_the_32nd_Session_of_APRSAF.html"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "Gazette of India (Extraordinary)": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39219,26 +39208,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Government working on telecom PLI with local value focus",
-      "post": {
-        "created_at": "2026-11-06T15:26:11+00:00",
-        "handle": "News: India telecom",
-        "id": "1793978771399",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Govt working on telecom PLI with focus on higher local value addition",
-        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPNEUyMF9LamVoa05HVjVSekFvbG4tbU4yUjhPYTVIUERidXV5VGdDUjVPTnR3VmFNZEJYRmJid1hJWm5xdW5URFUwc1RidEQ5MzFfaFQ2blZqOFA1djN3Q3pHSVpkdUlJcXpuNU40NV9xTExYMkI1OGI4d2QyeFNZd3RITTJLdERXTDUxRU9FU29ZcjhrSmpIa3llSktrQzZJZElxLVBUcWt2UnN2Tjh0bU1OOFpCZC1QbXRvNnNtMFNVN0pheFVCa0JONjBPbjdYa0MwZmFkUkpORGhYMk12emZQQ0JXTEg4UXNMbFB2SmRUWk9BcUpUTURESW9ubkhkbVdzd1R0MHNWcEJQU0FCYV94dGFuMXFFSmVtQmRiQkFYNHQ5ck92NDF1M3hMY3RZX21jTTlHT05pOHRKWU5ReHBUUGpsN3RfNWU2MXEzT2VNUQ?oc=5"
-      },
-      "queued_at": "2026-11-06T15:46:03.566594+00:00",
-      "score": 7.0,
-      "why": "Government policy moves on telecom and manufacturing incentives are core wire stories."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40403,9 +40373,9 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793981580202,
-    "news: consumer internet india": 1793979180117,
-    "news: global ai": 1793980487305,
+    "news: big tech platforms": 1793981640202,
+    "news: consumer internet india": 1793982167137,
+    "news: global ai": 1793981177063,
     "news: global chips": 1793981250053,
     "news: global it services": 1793962380053,
     "news: india ai deeptech": 1793971813507,
@@ -40413,8 +40383,8 @@
     "news: india fintech": 1793966128319,
     "news: india semiconductors": 1793969242883,
     "news: india tech policy": 1793968488579,
-    "news: india telecom": 1793978794860,
-    "news: indian it majors": 1793979060527,
+    "news: india telecom": 1793981646662,
+    "news: indian it majors": 1793979714773,
     "news: indian it midcaps": 1793954951506,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793962560379,
@@ -40444,19 +40414,11 @@
     "zoho": 1793800451825
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-06T16:16:56.741789+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
-      "down": {
-        "e-Gazette - Home, Finance, Defence, Law, I&B": "2026-11-06T16:19:08.193353+00:00",
-        "e-Gazette - Law ministry": "2026-11-06T16:19:08.193353+00:00",
-        "e-Gazette - MHA and Finance": "2026-11-06T16:19:08.193353+00:00",
-        "e-Gazette - MHA extraordinary": "2026-11-06T16:19:08.193353+00:00",
-        "e-Gazette - MeitY": "2026-11-06T16:19:08.193353+00:00"
-      }
+      "down": {}
     },
     "introduced": [
       "DoPT EO - appointments and extensions (30 days)",
@@ -40470,17 +40432,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T16:17:03.709580+00:00",
+    "last_server_run": "2026-11-06T16:31:55.150827+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-06T14:32:08.612299+00:00",
+        "checked": "2026-11-06T16:32:33.760627+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-06T14:31:59.098935+00:00",
+        "checked": "2026-11-06T16:32:25.108932+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40556,7 +40518,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-06T14:32:04.118264+00:00",
+        "checked": "2026-11-06T16:32:29.255024+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -51072,13 +51034,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T16:20:57.444377+00:00",
+    "last_run": "2026-11-06T16:33:56.303260+00:00",
     "seen": [
-      "x:2116356987084497112",
-      "x:2116421230844842045",
-      "x:2116428280794394939",
-      "x:2116428978747756884",
-      "x:2116429065649611231",
       "x:2116429380410851656",
       "x:2116430691936399430",
       "x:2116432114812158397",
@@ -54073,7 +54030,12 @@
       "x:2118738409200230592",
       "x:2118738722716041314",
       "x:2118739222094090245",
-      "x:2118739618292187335"
+      "x:2118739618292187335",
+      "x:2118739927550873768",
+      "x:2118740266115113057",
+      "x:2118740629299806718",
+      "x:2118741237972996113",
+      "x:2118742039651303515"
     ],
     "source_failures": {},
     "sources": []
