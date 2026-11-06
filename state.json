@@ -16990,9 +16990,12 @@
       "CG-DL-E-05112026-277717"
     ],
     "health": {
-      "down": {}
+      "down": {
+        "RBI": "2026-11-06T07:47:27.210760+00:00",
+        "RBI notifications": "2026-11-06T07:47:27.210760+00:00"
+      }
     },
-    "last_run": "2026-11-06T07:33:05.257615+00:00",
+    "last_run": "2026-11-06T07:47:28.405023+00:00",
     "pib_mark": 2333487,
     "seen": [
       "pib:2324360",
@@ -19508,10 +19511,6 @@
       "site:WTO|https://www.wto.org/english/news_e/news26_e/envir_05nov26_541_e.htm",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-rs-14500-crore-viability-gap-funding-scheme-for-development-of-92-gwh-grid-scale-energy-storage-systems",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-capex-support-scheme-to-promote-critical-mineral-processing-with-an-outlay-of-rs-2814-crore-for-lithium-and-nickel-processing",
-      "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
-      "dgft-trade-notice:54c588a7-0fc0-4f2e-9229-a027c4f4f8b2",
-      "dgft-public-notice:28624e0e-f35a-4ec1-9c04-6ece1f9af4f3",
-      "dgft-public-notice:b1bcd894-5ab1-4614-be70-7f565e764348",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0",
@@ -19529,6 +19528,13 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63931",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63932",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63934",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63935",
+      "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
+      "dgft-trade-notice:54c588a7-0fc0-4f2e-9229-a027c4f4f8b2",
+      "dgft-public-notice:28624e0e-f35a-4ec1-9c04-6ece1f9af4f3",
+      "dgft-public-notice:b1bcd894-5ab1-4614-be70-7f565e764348",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-emasa-bailaasapaura-kae",
       "feed:http://www.presidentofindia.gov.in/speeches/address-honble-president-india-smt-droupadi-murmu-occasion-call-members-66-th-ndc-course",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-kaenadaraiya-garaamaina",
@@ -19978,14 +19984,11 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-indian-contingent-that-participated-in-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-indias-remarkable-rise-from-14-to-114-medals-at-asian-para-games",
       "pib:2333403",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
       "pib:2333404",
       "pib:2333411",
       "watch:bulletin:RS|2026-11-05|Bulletin Part-II",
       "pib:2333413",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63934",
       "pib:2333414",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63935",
       "site:CPCB|https://cpcb.gov.in/openpdffile.php?id=UmVwb3J0RmlsZXMvMTkwOV8xNzkzOTQyMjc4X21lZGlhcGhvdG84ODEwLnBkZg==",
       "dgft-public-notice:cf25d3dd-70a2-435b-9951-440dbf7f5792",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-dhanteras-greetings-to-all-citizens",
@@ -19996,7 +19999,14 @@
       "pib:2333480",
       "pib:2333487"
     ],
-    "source_failures": {},
+    "source_failures": {
+      "RBI": {
+        "count": 1
+      },
+      "RBI notifications": {
+        "count": 1
+      }
+    },
     "sources": [
       "CCI",
       "CERT-In",
@@ -20055,8 +20065,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793325107637",
-    "1793327511678",
     "1793331472105",
     "1793257409063",
     "1793270600180",
@@ -24480,7 +24488,6 @@
     "1793903880695",
     "1793905572207",
     "1793914218789",
-    "1793916069765",
     "1793927341910",
     "1793927446381",
     "1793936843044",
@@ -24512,7 +24519,6 @@
     "1793893599898",
     "1793915400808",
     "1793916720165",
-    "1793940108056",
     "1793861179239",
     "1793861910346",
     "1793861915182",
@@ -24527,6 +24533,15 @@
     "1793869197134",
     "1793897761908",
     "1793939640563",
+    "1793864182308",
+    "1793881762944",
+    "1793901979941",
+    "1793910000813",
+    "1793911140000",
+    "1793942747687",
+    "1793943701393",
+    "1793944372537",
+    "1793947642883",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25763,7 +25778,6 @@
     "1793844000135",
     "1793855270810",
     "1793858977042",
-    "1793864182308",
     "1793865368338",
     "1793865600201",
     "1793865600231",
@@ -25808,7 +25822,6 @@
     "1793881222872",
     "1793881477208",
     "1793881500300",
-    "1793881762944",
     "1793881819345",
     "1793881900785",
     "1793881965062",
@@ -25868,7 +25881,6 @@
     "1793901730139",
     "1793901784032",
     "1793901824373",
-    "1793901979941",
     "1793903011745",
     "1793903401558",
     "1793903458794",
@@ -25890,9 +25902,7 @@
     "1793909143190",
     "1793909263524",
     "1793909503326",
-    "1793910000813",
     "1793910780297",
-    "1793911140000",
     "1793911195038",
     "1793912726336",
     "1793912952053",
@@ -25905,6 +25915,7 @@
     "1793914500049",
     "1793914617297",
     "1793915340318",
+    "1793916069765",
     "1793917380739",
     "1793917699730",
     "1793919789872",
@@ -25985,6 +25996,7 @@
     "1793939958320",
     "1793940063510",
     "1793940107528",
+    "1793940108056",
     "1793940522339",
     "1793940744496",
     "1793941136014",
@@ -26000,14 +26012,12 @@
     "1793941945436",
     "1793942048099",
     "1793942310009",
-    "1793942747687",
     "1793942760448",
     "1793943271112",
     "1793943608980",
     "1793943626586",
     "1793943669217",
     "1793943684917",
-    "1793943701393",
     "1793943834119",
     "1793943836271",
     "1793943981318",
@@ -26016,7 +26026,6 @@
     "1793944101876",
     "1793944312437",
     "1793944320881",
-    "1793944372537",
     "1793944412104",
     "1793944449714",
     "1793945023961",
@@ -26030,8 +26039,9 @@
     "1793946929628",
     "1793946944767",
     "1793947389158",
-    "1793947642883",
     "1793947805972",
+    "1793947979317",
+    "1793948984035",
     "1793949016293",
     "1793949241500",
     "1795996800387",
@@ -26057,7 +26067,7 @@
     "2333279"
   ],
   "last_digest_hour": "2026-11-06T13",
-  "last_success": "2026-11-06T07:31:27.246732+00:00",
+  "last_success": "2026-11-06T07:46:19.515039+00:00",
   "national": {
     "alerted": [
       {
@@ -36105,13 +36115,13 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-06T07:32:44.930283+00:00",
+        "RBI notifications": "2026-11-06T07:47:04.736134+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T07:32:48.988929+00:00",
+    "last_run": "2026-11-06T07:47:05.977679+00:00",
     "pib_mark": 2333487,
     "seen": [
       "page:https://www.mha.gov.in/sites/default/files/Certificate-of-MHA.pdf",
@@ -38566,12 +38576,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-rs-14500-crore-viability-gap-funding-scheme-for-development-of-92-gwh-grid-scale-energy-storage-systems",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-capex-support-scheme-to-promote-critical-mineral-processing-with-an-outlay-of-rs-2814-crore-for-lithium-and-nickel-processing",
       "page:https://www.cbse.gov.in/cbsenew/documents/Public_Alert_NEP_13092023.pdf",
-      "npci:629",
-      "page:https://www.cbse.gov.in/cbsenew/documents/FINAL_Circular_Marks_Bifrucation_05112026.pdf",
-      "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
-      "dgft-trade-notice:54c588a7-0fc0-4f2e-9229-a027c4f4f8b2",
-      "dgft-public-notice:28624e0e-f35a-4ec1-9c04-6ece1f9af4f3",
-      "dgft-public-notice:b1bcd894-5ab1-4614-be70-7f565e764348",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0",
@@ -38582,6 +38586,12 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
+      "npci:629",
+      "page:https://www.cbse.gov.in/cbsenew/documents/FINAL_Circular_Marks_Bifrucation_05112026.pdf",
+      "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
+      "dgft-trade-notice:54c588a7-0fc0-4f2e-9229-a027c4f4f8b2",
+      "dgft-public-notice:28624e0e-f35a-4ec1-9c04-6ece1f9af4f3",
+      "dgft-public-notice:b1bcd894-5ab1-4614-be70-7f565e764348",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-emasa-bailaasapaura-kae",
       "feed:http://www.presidentofindia.gov.in/speeches/address-honble-president-india-smt-droupadi-murmu-occasion-call-members-66-th-ndc-course",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-kaenadaraiya-garaamaina",
@@ -39120,7 +39130,7 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "NPCI": {
+      "RBI notifications": {
         "count": 1
       },
       "State: Maharashtra": {
@@ -40346,7 +40356,7 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793946944767,
+    "news: big tech platforms": 1793948984035,
     "news: consumer internet india": 1793937409781,
     "news: global ai": 1793947805972,
     "news: global chips": 1793946893800,
@@ -40357,7 +40367,7 @@
     "news: india semiconductors": 1793947642883,
     "news: india tech policy": 1793933237529,
     "news: india telecom": 1793945692616,
-    "news: indian it majors": 1793944101876,
+    "news: indian it majors": 1793947979317,
     "news: indian it midcaps": 1793945023961,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793946816649,
@@ -40405,7 +40415,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T07:31:27.696766+00:00",
+    "last_server_run": "2026-11-06T07:46:20.040002+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T06:02:16.343756+00:00",
@@ -50688,20 +50698,33 @@
           "www",
           "youtube"
         ]
+      },
+      {
+        "at": "2026-11-06T07:47:16.049791+00:00",
+        "headline": "Three Indian classic texts earn official recognition from UNESCO.",
+        "url": "https://x.com/PMOIndia/status/2118607504116740246",
+        "words": [
+          "app",
+          "arthashastra",
+          "classics",
+          "earn",
+          "https",
+          "mahabharata",
+          "namo",
+          "news",
+          "ozbti4rizq",
+          "recognition",
+          "tribuneindia",
+          "unesco",
+          "via",
+          "www"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T07:32:55.035786+00:00",
+    "last_run": "2026-11-06T07:47:16.050040+00:00",
     "seen": [
-      "x:2116118405808033943",
-      "x:2116118556530381013",
-      "x:2116118723040084002",
-      "x:2116118764186157525",
-      "x:2116119476265713852",
-      "x:2116121132575412386",
-      "x:2116122146246430908",
-      "x:2116122267239485491",
       "x:2116122421606711597",
       "x:2116122622111203512",
       "x:2116123441778835832",
@@ -53693,7 +53716,15 @@
       "x:2118603085794943144",
       "x:2118603117281640557",
       "x:2118603433158828213",
-      "x:2118604059905232940"
+      "x:2118604059905232940",
+      "x:2118606810991264184",
+      "x:2118606996907946144",
+      "x:2118607504116740246",
+      "x:2118607720576413781",
+      "x:2118608139146994061",
+      "x:2118609678557229407",
+      "x:2118610022280397228",
+      "x:2118610052114432171"
     ],
     "source_failures": {},
     "sources": []
