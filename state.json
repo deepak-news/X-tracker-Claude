@@ -16989,11 +16989,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T08:32:33.259814+00:00",
-    "pib_mark": 2333529,
+    "last_run": "2026-11-06T08:47:10.036568+00:00",
+    "pib_mark": 2333536,
     "seen": [
-      "pib:2324407",
-      "pib:2324400",
       "pib:2324416",
       "pib:2324413",
       "pib:2324434",
@@ -19991,7 +19989,9 @@
       "pib:2333529",
       "pib:2333527",
       "page:https://internal.imd.gov.in/press_release/20261106_pr_5471.pdf",
-      "pib:2333526"
+      "pib:2333526",
+      "pib:2333530",
+      "pib:2333536"
     ],
     "source_failures": {},
     "sources": [
@@ -20052,12 +20052,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793315143549",
-    "1793259350856",
-    "1793259780743",
-    "1793259860164",
-    "1793260020510",
-    "1793260626125",
     "1793268006231",
     "1793292432672",
     "1793299851098",
@@ -24339,7 +24333,6 @@
     "1793839514643",
     "1793917206049",
     "1793872800891",
-    "1793873968013",
     "1793901593132",
     "1792454400048",
     "1792479600354",
@@ -24506,10 +24499,8 @@
     "1793881762944",
     "1793910000813",
     "1793942747687",
-    "1793944372537",
     "1793865368338",
     "1793881900785",
-    "1793890138175",
     "1793898000852",
     "1793901784032",
     "1793904188063",
@@ -24531,14 +24522,20 @@
     "1793867400940",
     "1793909503326",
     "1793910780297",
-    "1793930009236",
     "1793932208513",
     "1793943684917",
     "1793943701393",
     "1793944372640",
     "1793945023961",
     "1793945692616",
-    "1793947642883",
+    "1793750400772",
+    "1793873968796",
+    "1793892910661",
+    "1793904360690",
+    "1793914260826",
+    "1793930009013",
+    "1793947280132",
+    "1793947932133",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25741,7 +25738,6 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
-    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25789,7 +25785,7 @@
     "1793873236962",
     "1793873266470",
     "1793873519036",
-    "1793873968796",
+    "1793873968013",
     "1793874043563",
     "1793874175322",
     "1793874471117",
@@ -25838,6 +25834,7 @@
     "1793888961443",
     "1793889000198",
     "1793889527068",
+    "1793890138175",
     "1793890845645",
     "1793890922187",
     "1793891136851",
@@ -25846,7 +25843,6 @@
     "1793891926547",
     "1793892310684",
     "1793892392328",
-    "1793892910661",
     "1793893036355",
     "1793894400412",
     "1793894400632",
@@ -25873,7 +25869,6 @@
     "1793903401558",
     "1793903458794",
     "1793904000478",
-    "1793904360690",
     "1793905672674",
     "1793906082192",
     "1793907241111",
@@ -25892,7 +25887,6 @@
     "1793912996659",
     "1793912996810",
     "1793913547447",
-    "1793914260826",
     "1793914320437",
     "1793914500049",
     "1793914617297",
@@ -25925,7 +25919,7 @@
     "1793928677814",
     "1793928740691",
     "1793929965365",
-    "1793930009013",
+    "1793930009236",
     "1793930151885",
     "1793930323858",
     "1793930490662",
@@ -26004,6 +25998,7 @@
     "1793944101876",
     "1793944312437",
     "1793944320881",
+    "1793944372537",
     "1793944412104",
     "1793944449714",
     "1793944844929",
@@ -26017,10 +26012,11 @@
     "1793946893800",
     "1793946929628",
     "1793946944767",
-    "1793947280132",
     "1793947389158",
+    "1793947642883",
     "1793947805972",
-    "1793947932133",
+    "1793947817040",
+    "1793947932336",
     "1793947979317",
     "1793948629437",
     "1793948914172",
@@ -26030,7 +26026,11 @@
     "1793949389963",
     "1793949944058",
     "1793950258644",
+    "1793950640234",
+    "1793950763451",
     "1793950918431",
+    "1793951160613",
+    "1793952503170",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26054,27 +26054,9 @@
     "2333279"
   ],
   "last_digest_hour": "2026-11-06T14",
-  "last_success": "2026-11-06T08:31:24.374960+00:00",
+  "last_success": "2026-11-06T08:46:05.814132+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-01T11:20:47.649258+00:00",
-        "handle": "PIB Ministry of Education",
-        "headline": "Government extends NMMSS scholarship application deadline to October 31",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317657",
-        "words": [
-          "2026",
-          "application",
-          "deadline",
-          "education",
-          "extended",
-          "ministry",
-          "nmmss",
-          "october",
-          "scholarship"
-        ]
-      },
       {
         "at": "2026-10-01T11:37:34.742234+00:00",
         "handle": "PIB Ministry of Road Transport & Highways",
@@ -34581,6 +34563,24 @@
           "sabha",
           "secretariat"
         ]
+      },
+      {
+        "at": "2026-11-06T08:46:50.162750+00:00",
+        "handle": "PIB PIB Backgrounder",
+        "headline": "Government explains how new price caps make cancer medicines more affordable",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333536",
+        "words": [
+          "backgrounder",
+          "cancer",
+          "cap",
+          "cheaper",
+          "margin",
+          "means",
+          "medicines",
+          "patients",
+          "pib"
+        ]
       }
     ],
     "gazette_mark": 277717,
@@ -36107,11 +36107,9 @@
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T08:32:10.151761+00:00",
-    "pib_mark": 2333529,
+    "last_run": "2026-11-06T08:46:50.164100+00:00",
+    "pib_mark": 2333536,
     "seen": [
-      "page:https://www.mha.gov.in/sites/default/files/Police2_22092026_0.pdf",
-      "page:https://www.mha.gov.in/sites/default/files/RunForUnity_25092026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/MTS_Gen_2025_finalresult_05102026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/UNWorkP2_09102026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/UnitednationFlageEnglish_15102026_0.pdf",
@@ -39109,7 +39107,9 @@
       "pib:2333527",
       "pib:2333526",
       "pib:2333529",
-      "page:https://internal.imd.gov.in/press_release/20261106_pr_5471.pdf"
+      "page:https://internal.imd.gov.in/press_release/20261106_pr_5471.pdf",
+      "pib:2333536",
+      "pib:2333530"
     ],
     "source_failures": {
       "CBI": {
@@ -39180,7 +39180,44 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "TRAI backs direct-to-device satellite connectivity and proposes authorisation framework",
+      "post": {
+        "created_at": "2026-11-06T07:37:20+00:00",
+        "handle": "News: India telecom",
+        "id": "1793950640234",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Inc42",
+        "reposts": 0,
+        "text": "TRAI Backs Direct-To-Device Satellite Connectivity, Proposes New Authorisation Framework",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2dudHM3UWFGVHBHaXpEN0NIbjczZHRKdDJMU21Jc3I4TDdIcnVwVFpKdEM1T3BnOUZvUUhGYlZkaTNWVFhRZ0Izc05MeUE5TU8wRV9Bb2ZaWkNrbjlyUXVXN0xsd1J0bTlfcVRIRFJabTNjZmtaQWsxVkxhZkVSdFRnTkQ0VzBjSFRZSEsyamxpRU16NWhMVmJhd05VZFlicTYxb0h1Wnp3TFl6TER4aQ?oc=5"
+      },
+      "queued_at": "2026-11-06T08:46:05.706284+00:00",
+      "score": 8.0,
+      "why": "This is a major regulatory move by TRAI concerning telecom and satellite connectivity."
+    },
+    {
+      "headline": "Coforge joins SpaceX partner network to deploy Grok AI tools",
+      "post": {
+        "created_at": "2026-11-06T07:46:00+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1793951160613",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Reuters",
+        "reposts": 0,
+        "text": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm1rN0dhNG5aaDhDRVRyQVpMaXVROE8wbUFRVUJLZnYwaUQwZF9jMGtfX0doQjVZM3JaRFZHd2FSNFRvODVIUy1TeXJ3d09OZEZPMDB6cEE0eWhHdDNGa3FTRWRCRkhjaERjTnhudVNMTDV6RmdBX0ZqOTNjbDZFblljUE9INGpzN05KSV81YzdHTlVFS1lKeExydFBaaHVLV0pzR2tyQTBSbHV5SUF3VEY3STZHX0gzZzM1S1VYOWtpSEZsRXhKWjl3YzhQQUpy?oc=5"
+      },
+      "queued_at": "2026-11-06T08:46:05.706284+00:00",
+      "score": 7.0,
+      "why": "This is a partnership deal involving a watched Indian IT company and AI tools."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40339,9 +40376,9 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793948984035,
-    "news: consumer internet india": 1793946648258,
-    "news: global ai": 1793949389963,
+    "news: big tech platforms": 1793950763451,
+    "news: consumer internet india": 1793952503170,
+    "news: global ai": 1793951160613,
     "news: global chips": 1793950258644,
     "news: global it services": 1793941204291,
     "news: india ai deeptech": 1793945441514,
@@ -40349,9 +40386,9 @@
     "news: india fintech": 1793950918431,
     "news: india semiconductors": 1793947642883,
     "news: india tech policy": 1793933237529,
-    "news: india telecom": 1793948629437,
-    "news: indian it majors": 1793949944058,
-    "news: indian it midcaps": 1793947932133,
+    "news: india telecom": 1793950640234,
+    "news: indian it majors": 1793951160613,
+    "news: indian it midcaps": 1793947932336,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793946816649,
     "nvidia": 1793908841642,
@@ -40380,7 +40417,9 @@
     "zoho": 1793800451825
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-06T08:46:00.556793+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40398,7 +40437,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T08:31:24.881746+00:00",
+    "last_server_run": "2026-11-06T08:46:06.364627+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T08:16:43.092988+00:00",
@@ -50706,19 +50745,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T08:32:16.873362+00:00",
+    "last_run": "2026-11-06T08:46:58.049566+00:00",
     "seen": [
-      "x:2116141087941328945",
-      "x:2116142621974470804",
-      "x:2116142960660430944",
-      "x:2116143076842578071",
-      "x:2116143467399405819",
-      "x:2116143826805104696",
-      "x:2116146010145874353",
-      "x:2116146710640775655",
-      "x:2116148110611406931",
-      "x:2116148623235039428",
-      "x:2116149567267983689",
       "x:2116151404066939128",
       "x:2116151627484975153",
       "x:2116149906675306913",
@@ -53707,7 +53735,18 @@
       "x:2118617567107670443",
       "x:2118618224057372785",
       "x:2118618254361166263",
-      "x:2118620160361939429"
+      "x:2118620160361939429",
+      "x:2118617819483116006",
+      "x:2118618865311813997",
+      "x:2118619351385289005",
+      "x:2118621722761159111",
+      "x:2118621912108814405",
+      "x:2118622310660010342",
+      "x:2118623747934720290",
+      "x:2118623898178859501",
+      "x:2118624202144305205",
+      "x:2118624415760138484",
+      "x:2118624555619205462"
     ],
     "source_failures": {},
     "sources": []
