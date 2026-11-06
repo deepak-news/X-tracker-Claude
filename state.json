@@ -1,26 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-28T18:31:57.402433+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "US FTC demands Walmart, Uber and others hand over pricing data",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaEVnZk9RTG5VLXktTVZic0h2NUk0aGQwcjRxcUZCcmxlNERPSVZMOFBMb2ZtM1dVWDdsTDZ1R0VJVDNKMmt6MU1PRHpSM181aW1mWkJZZ2dqNWRlSkExdm55S3ZKclRhYV9ibmJlZDQ1NUhyaFBzbzVEc2xYWXg5M3VrU1NCaXVlQklaaEh4aUIyRHZ5TXJHYUN0SEQ4eGdpLXlnOEZncW1KZjdfcW8yaWpBYlROZ2Zza0xnLVB3?oc=5",
-      "words": [
-        "data",
-        "delta",
-        "demands",
-        "exclusive",
-        "ftc",
-        "hand",
-        "others",
-        "personalized",
-        "pricing",
-        "uber",
-        "walmart"
-      ]
-    },
-    {
       "at": "2026-10-28T19:31:33.585771+00:00",
       "handle": "News: Global chips",
       "headline": "US DOJ inquires about Nvidia's acquisition of Hugging Face",
@@ -7392,6 +7372,26 @@
         "launches",
         "plan",
         "year"
+      ]
+    },
+    {
+      "at": "2026-11-06T17:31:27.326039+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI to continue AI data center investments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bWpvVi13alRsTVY0VGFfT0dUS3JtMG4yYVZtNDhkN2lIUndZeFVvVEdwZExsNjNPeXR1aEVVZzNSZjlBS1lSdUdoeUg4RmpWc3VqcDREUzA0RGlxZ2kzaC1KYVNzX3pxTlBLSGJtUlA0LUVq0gF6QVVfeXFMUEZaU3cwQVBvMmNCQmROc3lERDZDVHNUNXZHYVlxREdrRlZHYWwtVVV3NW5USzNoaXJXdldxejRWSUI5RklJMVlwRlBXZlRjdGg0cnlhUld3ZzVycGdOZ1o0Uk1Ja3ROV3JwMGxsQzhGa2FUbzFYa1p4aXc?oc=5",
+      "words": [
+        "centers",
+        "cfo",
+        "cnbc",
+        "data",
+        "despite",
+        "election",
+        "investing",
+        "keep",
+        "openai",
+        "results",
+        "tells"
       ]
     }
   ],
@@ -17012,16 +17012,16 @@
       "CG-MH-E-06112026-277742",
       "CG-TL-E-06112026-277741",
       "CG-TL-E-06112026-277743",
-      "CG-TL-E-06112026-277744"
+      "CG-TL-E-06112026-277744",
+      "CG-DL-E-06112026-277736",
+      "CG-MH-E-06112026-277737"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T17:17:49.277860+00:00",
+    "last_run": "2026-11-06T17:32:49.892886+00:00",
     "pib_mark": 2333803,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ONE ACCUSED, ARMED WITH AN ILLEGAL PISTOL AND TWO LIVE CARTRIDGES ARRESTED BY PS DAYALPUR.",
-      "pib:2324637",
       "pib:2324638",
       "pib:2324656",
       "pib:2324655",
@@ -19458,9 +19458,10 @@
       "gazette:CG-DL-E-05112026-277693",
       "gazette:CG-DL-E-05112026-277697",
       "gazette:CG-DL-E-05112026-277695",
-      "gazette:CG-DL-E-05112026-277700",
       "gazette:CG-UP-E-05112026-277699",
       "gazette:CG-MH-E-05112026-277698",
+      "site:CPCB|https://cpcb.gov.in/openpdffile.php?id=UmVwb3J0RmlsZXMvMTkwOV8xNzkzOTQyMjc4X21lZGlhcGhvdG84ODEwLnBkZg==",
+      "gazette:CG-DL-E-05112026-277700",
       "gazette:CG-DL-E-05112026-277702",
       "gazette:CG-DL-E-05112026-277701",
       "gazette:CG-DL-E-05112026-277703",
@@ -19899,7 +19900,6 @@
       "pib:2333411",
       "pib:2333413",
       "pib:2333414",
-      "site:CPCB|https://cpcb.gov.in/openpdffile.php?id=UmVwb3J0RmlsZXMvMTkwOV8xNzkzOTQyMjc4X21lZGlhcGhvdG84ODEwLnBkZg==",
       "dgft-public-notice:cf25d3dd-70a2-435b-9951-440dbf7f5792",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-dhanteras-greetings-to-all-citizens",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-khunti-jharkhand",
@@ -20019,7 +20019,9 @@
       "gazette:CG-TL-E-06112026-277743",
       "gazette:CG-DL-E-06112026-277734",
       "gazette:CG-TL-E-06112026-277744",
-      "gazette:CG-MH-E-06112026-277742"
+      "gazette:CG-MH-E-06112026-277742",
+      "gazette:CG-DL-E-06112026-277736",
+      "gazette:CG-MH-E-06112026-277737"
     ],
     "source_failures": {},
     "sources": [
@@ -20080,13 +20082,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793287702810",
-    "1793292004044",
-    "1793307720124",
-    "1793310933695",
-    "1793318400305",
-    "1793321788773",
-    "1793327647931",
     "1793342706642",
     "1793354281122",
     "1793355456894",
@@ -24473,7 +24468,6 @@
     "1793955881217",
     "1793959332920",
     "1793961420176",
-    "1793964000640",
     "1793964714004",
     "1793967031599",
     "1793968740213",
@@ -24488,7 +24482,6 @@
     "1793967478149",
     "1793972647962",
     "1793938064007",
-    "1793941368581",
     "1793964059287",
     "1793966772225",
     "1793968642702",
@@ -24508,7 +24501,6 @@
     "1793922177305",
     "1793922207066",
     "1793933100921",
-    "1793964028392",
     "1793964341106",
     "1793968680335",
     "1793971813315",
@@ -24543,7 +24535,6 @@
     "1793979180117",
     "1793897418138",
     "1793898641022",
-    "1793926743727",
     "1793936522900",
     "1793938875894",
     "1793942760448",
@@ -24566,6 +24557,17 @@
     "1793966588611",
     "1793967789353",
     "1793982169247",
+    "1793899382283",
+    "1793926260891",
+    "1793926816727",
+    "1793937409781",
+    "1793939760581",
+    "1793957545761",
+    "1793959486318",
+    "1793963340077",
+    "1793964028960",
+    "1793969092287",
+    "1793983180677",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25834,7 +25836,6 @@
     "1793898000862",
     "1793898035953",
     "1793898316800",
-    "1793899382283",
     "1793901979941",
     "1793903011745",
     "1793903458794",
@@ -25853,8 +25854,7 @@
     "1793923200697",
     "1793923729096",
     "1793926219800",
-    "1793926260891",
-    "1793926816727",
+    "1793926743727",
     "1793927116063",
     "1793927874542",
     "1793928677814",
@@ -25869,19 +25869,19 @@
     "1793936919139",
     "1793937000207",
     "1793937253457",
-    "1793937409781",
+    "1793937409351",
     "1793938648886",
     "1793938875591",
     "1793939171909",
     "1793939436066",
     "1793939738201",
-    "1793939760581",
     "1793939958320",
     "1793940063510",
     "1793940107528",
     "1793940522339",
     "1793941204291",
     "1793941216945",
+    "1793941368581",
     "1793941412018",
     "1793941488164",
     "1793941708238",
@@ -25935,7 +25935,6 @@
     "1793957108951",
     "1793957525895",
     "1793957539315",
-    "1793957545761",
     "1793957626847",
     "1793957690089",
     "1793957985797",
@@ -25946,7 +25945,6 @@
     "1793959349353",
     "1793959399030",
     "1793959417215",
-    "1793959486318",
     "1793959614806",
     "1793960160850",
     "1793960351835",
@@ -25958,9 +25956,9 @@
     "1793962380053",
     "1793962560355",
     "1793962664301",
-    "1793963340077",
     "1793963844876",
-    "1793964028960",
+    "1793964000640",
+    "1793964028392",
     "1793964038143",
     "1793964264001",
     "1793964668123",
@@ -25980,7 +25978,6 @@
     "1793968189117",
     "1793968488579",
     "1793968826544",
-    "1793969092287",
     "1793969150209",
     "1793969242883",
     "1793969649736",
@@ -26029,6 +26026,7 @@
     "1793978900106",
     "1793978905487",
     "1793979060527",
+    "1793979145761",
     "1793979180080",
     "1793979714773",
     "1793979761259",
@@ -26039,6 +26037,7 @@
     "1793980800839",
     "1793980835839",
     "1793981090924",
+    "1793981169595",
     "1793981177063",
     "1793981250053",
     "1793981640202",
@@ -26050,11 +26049,14 @@
     "1793982600771",
     "1793982744610",
     "1793982998452",
-    "1793983180677",
+    "1793983154677",
     "1793983314339",
+    "1793983486287",
     "1793983816175",
     "1793983905132",
     "1793984728933",
+    "1793985202036",
+    "1793985775507",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26081,8 +26083,8 @@
     "2333683",
     "2333716"
   ],
-  "last_digest_hour": "2026-11-06T22",
-  "last_success": "2026-11-06T17:16:03.323688+00:00",
+  "last_digest_hour": "2026-11-06T23",
+  "last_success": "2026-11-06T17:31:27.427851+00:00",
   "national": {
     "alerted": [
       {
@@ -36141,7 +36143,9 @@
       "CG-MH-E-06112026-277742",
       "CG-TL-E-06112026-277741",
       "CG-TL-E-06112026-277743",
-      "CG-TL-E-06112026-277744"
+      "CG-TL-E-06112026-277744",
+      "CG-DL-E-06112026-277736",
+      "CG-MH-E-06112026-277737"
     ],
     "health": {
       "down": {
@@ -36151,11 +36155,9 @@
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T17:17:10.537398+00:00",
+    "last_run": "2026-11-06T17:32:22.765235+00:00",
     "pib_mark": 2333803,
     "seen": [
-      "pib:2324987",
-      "pib:2324992",
       "pib:2324997",
       "pib:2325012",
       "pib:2325024",
@@ -38529,9 +38531,10 @@
       "gazette:CG-DL-E-05112026-277693",
       "gazette:CG-DL-E-05112026-277697",
       "gazette:CG-DL-E-05112026-277695",
-      "gazette:CG-DL-E-05112026-277700",
       "gazette:CG-UP-E-05112026-277699",
       "gazette:CG-MH-E-05112026-277698",
+      "site:CPCB|https://cpcb.gov.in/openpdffile.php?id=UmVwb3J0RmlsZXMvMTkwOV8xNzkzOTQyMjc4X21lZGlhcGhvdG84ODEwLnBkZg==",
+      "gazette:CG-DL-E-05112026-277700",
       "gazette:CG-DL-E-05112026-277702",
       "gazette:CG-DL-E-05112026-277703",
       "gazette:CG-DL-E-05112026-277701",
@@ -39028,7 +39031,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63935",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63934",
       "pib:2333414",
-      "site:CPCB|https://cpcb.gov.in/openpdffile.php?id=UmVwb3J0RmlsZXMvMTkwOV8xNzkzOTQyMjc4X21lZGlhcGhvdG84ODEwLnBkZg==",
       "dgft-public-notice:cf25d3dd-70a2-435b-9951-440dbf7f5792",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-khunti-jharkhand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-dhanteras-greetings-to-all-citizens",
@@ -39153,7 +39155,9 @@
       "gazette:CG-TL-E-06112026-277743",
       "gazette:CG-DL-E-06112026-277734",
       "gazette:CG-MH-E-06112026-277742",
-      "gazette:CG-TL-E-06112026-277744"
+      "gazette:CG-TL-E-06112026-277744",
+      "gazette:CG-DL-E-06112026-277736",
+      "gazette:CG-MH-E-06112026-277737"
     ],
     "source_failures": {
       "CBI": {
@@ -39224,26 +39228,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "OpenAI to continue AI data center investments",
-      "post": {
-        "created_at": "2026-11-06T16:22:49+00:00",
-        "handle": "News: Global AI",
-        "id": "1793982169421",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC",
-        "reposts": 0,
-        "text": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bWpvVi13alRsTVY0VGFfT0dUS3JtMG4yYVZtNDhkN2lIUndZeFVvVEdwZExsNjNPeXR1aEVVZzNSZjlBS1lSdUdoeUg4RmpWc3VqcDREUzA0RGlxZ2kzaC1KYVNzX3pxTlBLSGJtUlA0LUVq0gF6QVVfeXFMUEZaU3cwQVBvMmNCQmROc3lERDZDVHNUNXZHYVlxREdrRlZHYWwtVVV3NW5USzNoaXJXdldxejRWSUI5RklJMVlwRlBXZlRjdGg0cnlhUld3ZzVycGdOZ1o0Uk1Ja3ROV3JwMGxsQzhGa2FUbzFYa1p4aXc?oc=5"
-      },
-      "queued_at": "2026-11-06T16:46:00.011858+00:00",
-      "score": 7.0,
-      "why": "Major AI company leadership statement on infrastructure commitments, fitting major AI disclosure criteria."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40408,15 +40393,15 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793982998452,
-    "news: consumer internet india": 1793982732633,
+    "news: big tech platforms": 1793985202036,
+    "news: consumer internet india": 1793985775507,
     "news: global ai": 1793983816175,
     "news: global chips": 1793984728933,
     "news: global it services": 1793962380053,
     "news: india ai deeptech": 1793971813507,
     "news: india edtech gaming": 1793978076857,
     "news: india fintech": 1793966128319,
-    "news: india semiconductors": 1793969242883,
+    "news: india semiconductors": 1793979145761,
     "news: india tech policy": 1793968488579,
     "news: india telecom": 1793981646662,
     "news: indian it majors": 1793983905132,
@@ -40467,7 +40452,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T17:16:03.625451+00:00",
+    "last_server_run": "2026-11-06T17:31:27.935621+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T16:32:33.760627+00:00",
@@ -40947,6 +40932,7 @@
       "CG-DL-E-06112026-277733",
       "CG-DL-E-06112026-277734",
       "CG-DL-E-06112026-277735",
+      "CG-DL-E-06112026-277736",
       "CG-DL-E-06112026-277740",
       "CG-DL-E-07102026-276582",
       "CG-DL-E-07102026-276880",
@@ -41775,6 +41761,7 @@
       "CG-MH-E-06102026-276870",
       "CG-MH-E-06102026-276871",
       "CG-MH-E-06102026-276872",
+      "CG-MH-E-06112026-277737",
       "CG-MH-E-06112026-277742",
       "CG-MH-E-08102026-276922",
       "CG-MH-E-08102026-276943",
@@ -51080,9 +51067,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T17:17:14.479446+00:00",
+    "last_run": "2026-11-06T17:32:26.446226+00:00",
     "seen": [
-      "x:2116438661810253842",
       "x:2116439153596604473",
       "x:2116386589320556943",
       "x:2116439054476812322",
@@ -54081,7 +54067,8 @@
       "x:2118749641684701536",
       "x:2118749861327863974",
       "x:2118750258989813899",
-      "x:2118751779387224359"
+      "x:2118751779387224359",
+      "x:2118753937105076588"
     ],
     "source_failures": {},
     "sources": []
