@@ -7393,29 +7393,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-10-20T08:47:02.981093+00:00",
-        "handle": "IMD",
-        "headline": "Weather office issues heavy rainfall warnings for southern states until October 26.",
-        "tier": 1,
-        "url": "https://internal.imd.gov.in/press_release/20261020_pr_5420.pdf",
-        "words": [
-          "1340",
-          "2026",
-          "20th",
-          "article",
-          "date",
-          "dated",
-          "department",
-          "earth",
-          "government",
-          "imd",
-          "issue",
-          "meteorological",
-          "ministry",
-          "october"
-        ]
-      },
-      {
         "at": "2026-10-20T11:32:59.204896+00:00",
         "handle": "MEA press releases",
         "headline": "Defence Minister Rajnath Singh addresses SCO meeting in Tajikistan",
@@ -16149,6 +16126,25 @@
           "sabha",
           "secretariat"
         ]
+      },
+      {
+        "at": "2026-11-06T04:03:18.750905+00:00",
+        "handle": "PIB Ministry of Defence",
+        "headline": "Navy receives Amini, an anti-submarine warfare shallow water craft.",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333404",
+        "words": [
+          "amini",
+          "anti",
+          "craft",
+          "defence",
+          "delivery",
+          "ministry",
+          "shallow",
+          "submarine",
+          "warfare",
+          "water"
+        ]
       }
     ],
     "gazette_mark": 277717,
@@ -16998,10 +16994,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T03:46:59.197090+00:00",
-    "pib_mark": 2333403,
+    "last_run": "2026-11-06T04:03:18.751866+00:00",
+    "pib_mark": 2333404,
     "seen": [
-      "pib:2324232",
       "pib:2324270",
       "pib:2324281",
       "pib:2324289",
@@ -20000,7 +19995,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-indian-contingent-that-participated-in-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-indias-remarkable-rise-from-14-to-114-medals-at-asian-para-games",
       "pib:2333403",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
+      "pib:2333404"
     ],
     "source_failures": {},
     "sources": [
@@ -20061,16 +20057,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793269980555",
-    "1793323951578",
-    "1793245808689",
-    "1793246215359",
-    "1793247203371",
-    "1793250697496",
-    "1793259505572",
-    "1793269920641",
-    "1793298152103",
-    "1793308857404",
     "1793327769034",
     "1793329610528",
     "1793331305138",
@@ -24542,15 +24528,23 @@
     "1793849263273",
     "1793872801148",
     "1793890455630",
-    "1793927874542",
-    "1793852900433",
-    "1793876569475",
-    "1793878797622",
     "1793893260592",
     "1793909263524",
     "1793925420338",
     "1793928740691",
     "1793935579587",
+    "1792156871747",
+    "1792662737873",
+    "1793850364956",
+    "1793850513614",
+    "1793876682725",
+    "1793878800391",
+    "1793887200550",
+    "1793889571962",
+    "1793890138175",
+    "1793912450922",
+    "1793917699730",
+    "1793927874382",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25466,7 +25460,6 @@
     "1792085476577",
     "1792117873305",
     "1792141778525",
-    "1792156871747",
     "1792347345536",
     "1792378078745",
     "1792391476337",
@@ -25532,7 +25525,6 @@
     "1792645256641",
     "1792648800012",
     "1792656948850",
-    "1792662737873",
     "1792664152667",
     "1792670355715",
     "1792672275017",
@@ -25796,12 +25788,12 @@
     "1793836800128",
     "1793839515913",
     "1793844000135",
-    "1793850364956",
-    "1793850513614",
     "1793851304817",
     "1793851625625",
     "1793851846949",
+    "1793852319589",
     "1793852358100",
+    "1793852900433",
     "1793853311426",
     "1793854058352",
     "1793854225145",
@@ -25857,7 +25849,7 @@
     "1793874949074",
     "1793876214275",
     "1793876400787",
-    "1793876682725",
+    "1793876569475",
     "1793876824278",
     "1793877250011",
     "1793877480703",
@@ -25866,7 +25858,7 @@
     "1793878320898",
     "1793878341955",
     "1793878463492",
-    "1793878800391",
+    "1793878797622",
     "1793878842714",
     "1793879207220",
     "1793880014180",
@@ -25889,7 +25881,6 @@
     "1793886549678",
     "1793886796109",
     "1793887200108",
-    "1793887200550",
     "1793887234088",
     "1793887692772",
     "1793887889711",
@@ -25898,9 +25889,7 @@
     "1793888961895",
     "1793889000198",
     "1793889527068",
-    "1793889571962",
     "1793890048918",
-    "1793890138175",
     "1793890845645",
     "1793890922187",
     "1793891136851",
@@ -25968,7 +25957,6 @@
     "1793910780297",
     "1793911140000",
     "1793911195038",
-    "1793912450922",
     "1793912726336",
     "1793912952053",
     "1793912996810",
@@ -25985,7 +25973,6 @@
     "1793916069765",
     "1793916720165",
     "1793917380739",
-    "1793917699730",
     "1793919789872",
     "1793919940329",
     "1793920620581",
@@ -26008,7 +25995,7 @@
     "1793926743727",
     "1793927341910",
     "1793927446381",
-    "1793927874382",
+    "1793927874542",
     "1793928600153",
     "1793928677814",
     "1793928740161",
@@ -26040,6 +26027,15 @@
     "1793935579654",
     "1793935749564",
     "1793935906205",
+    "1793935993225",
+    "1793936250505",
+    "1793936340540",
+    "1793936522900",
+    "1793936736020",
+    "1793936751905",
+    "1793936843044",
+    "1793936919139",
+    "1793937409781",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26063,7 +26059,7 @@
     "2333279"
   ],
   "last_digest_hour": "2026-11-06T09",
-  "last_success": "2026-11-06T03:46:03.196748+00:00",
+  "last_success": "2026-11-06T04:01:31.010845+00:00",
   "national": {
     "alerted": [
       {
@@ -36116,10 +36112,9 @@
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T03:46:43.699357+00:00",
-    "pib_mark": 2333403,
+    "last_run": "2026-11-06T04:02:59.082813+00:00",
+    "pib_mark": 2333404,
     "seen": [
-      "pib:2324743",
       "pib:2324751",
       "pib:2324757",
       "pib:2324755",
@@ -38575,12 +38570,12 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168742",
       "site:BCCI|https://www.bcci.tv/news/article/first-odi-between-india-and-sri-lanka-shifted-from-delhi-to-visakhapatnam",
       "watch:meeting:RS|2316",
-      "page:https://www.cbse.gov.in/cbsenew/documents/Public_Alert_NEP_13092023.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-crpf-achievement-of-zero-casualties-in-12-consecutive-months-for-the-first-time-in-47-years",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-self-realisation-and-inner-strength",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-to-interact-with-indian-contingent-that-participated-in-asian-para-games-2026-on-5-november",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63923",
       "page:https://www.cbse.gov.in/cbsenew/documents/FINAL_Circular_Marks_Bifrucation_05112026.pdf",
+      "page:https://www.cbse.gov.in/cbsenew/documents/Public_Alert_NEP_13092023.pdf",
       "npci:629",
       "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
       "dgft-trade-notice:54c588a7-0fc0-4f2e-9229-a027c4f4f8b2",
@@ -39118,7 +39113,8 @@
       "pib:2333401",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-indian-contingent-that-participated-in-asian-para-games-2026",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
-      "pib:2333403"
+      "pib:2333403",
+      "pib:2333404"
     ],
     "source_failures": {
       "CBI": {
@@ -40348,9 +40344,9 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793935906205,
-    "news: consumer internet india": 1793921412158,
-    "news: global ai": 1793935749564,
+    "news: big tech platforms": 1793936250505,
+    "news: consumer internet india": 1793937409781,
+    "news: global ai": 1793936843044,
     "news: global chips": 1793929443138,
     "news: global it services": 1793919789872,
     "news: india ai deeptech": 1793874942850,
@@ -40359,8 +40355,8 @@
     "news: india semiconductors": 1793850688171,
     "news: india tech policy": 1793933237529,
     "news: india telecom": 1793934052816,
-    "news: indian it majors": 1793917380739,
-    "news: indian it midcaps": 1793903011745,
+    "news: indian it majors": 1793936919139,
+    "news: indian it midcaps": 1793936751905,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793928677814,
     "nvidia": 1793908841642,
@@ -40407,17 +40403,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T03:46:03.645510+00:00",
+    "last_server_run": "2026-11-06T04:01:31.301781+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-06T01:46:45.526059+00:00",
+        "checked": "2026-11-06T04:02:10.352647+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-06T01:46:37.337753+00:00",
+        "checked": "2026-11-06T04:02:00.255451+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40493,7 +40489,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-06T01:46:41.383781+00:00",
+        "checked": "2026-11-06T04:02:05.401681+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -50589,13 +50585,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T03:46:50.009870+00:00",
+    "last_run": "2026-11-06T04:03:05.191536+00:00",
     "seen": [
-      "x:2116060829770805729",
-      "x:2116060978345652229",
-      "x:2116061077570228367",
-      "x:2116061297448272073",
-      "x:2116061916686922040",
       "x:2116063178476208185",
       "x:2116063317781623064",
       "x:2116063611823268249",
@@ -53590,7 +53581,12 @@
       "x:2118548037975118231",
       "x:2118548607997804923",
       "x:2118548929813840195",
-      "x:2118549199432380592"
+      "x:2118549199432380592",
+      "x:2118549833225314719",
+      "x:2118550174331191644",
+      "x:2118551355824709641",
+      "x:2118551446182650134",
+      "x:2118553109014385028"
     ],
     "source_failures": {},
     "sources": []
