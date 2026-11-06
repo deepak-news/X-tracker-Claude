@@ -7398,29 +7398,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-10-21T11:48:10.577127+00:00",
-        "handle": "PIB Ministry of Finance",
-        "headline": "India and New Zealand sign agreement for electronic origin data exchange",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
-        "words": [
-          "agreement",
-          "bilateral",
-          "cooperation",
-          "data",
-          "electronic",
-          "exchange",
-          "facilitate",
-          "finance",
-          "free",
-          "fta",
-          "memorandum",
-          "ministry",
-          "moc",
-          "origin"
-        ]
-      },
-      {
         "at": "2026-10-21T12:17:44.600132+00:00",
         "handle": "PIB Ministry of Commerce & Industry",
         "headline": "Commerce Minister Piyush Goyal visits Germany and the Netherlands to boost trade",
@@ -16146,6 +16123,29 @@
           "hbp",
           "industry"
         ]
+      },
+      {
+        "at": "2026-11-06T18:48:14.975675+00:00",
+        "handle": "Gazette Ministry of Culture",
+        "headline": "Centre declares Raniwas Mound in Bihar's East Champaran as a monument of national importance",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277747.pdf",
+        "words": [
+          "archaeological",
+          "bihar",
+          "champaran",
+          "culture",
+          "east",
+          "extraordinary",
+          "gazette",
+          "kesariya",
+          "ministry",
+          "mound",
+          "notification",
+          "part",
+          "raniwas",
+          "respect"
+        ]
       }
     ],
     "gazette_mark": 277761,
@@ -17025,17 +17025,17 @@
       "CG-DL-E-06112026-277760",
       "CG-DL-E-06112026-277761",
       "CG-DL-E-06112026-277759",
-      "CG-TL-E-06112026-277758"
+      "CG-TL-E-06112026-277758",
+      "CG-AP-E-07112026-277757",
+      "CG-DL-E-07112026-277747",
+      "CG-DL-E-07112026-277748"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T18:33:03.938339+00:00",
+    "last_run": "2026-11-06T18:48:15.014901+00:00",
     "pib_mark": 2333803,
     "seen": [
-      "pib:2324710",
-      "pib:2324707",
-      "pib:2324727",
       "pib:2324739",
       "pib:2324743",
       "pib:2324751",
@@ -20032,7 +20032,10 @@
       "gazette:CG-DL-E-06112026-277760",
       "gazette:CG-DL-E-06112026-277739",
       "gazette:CG-DL-E-06112026-277759",
-      "gazette:CG-TL-E-06112026-277758"
+      "gazette:CG-TL-E-06112026-277758",
+      "gazette:CG-DL-E-07112026-277747",
+      "gazette:CG-AP-E-07112026-277757",
+      "gazette:CG-DL-E-07112026-277748"
     ],
     "source_failures": {},
     "sources": [
@@ -20093,16 +20096,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793281148741",
-    "1793336203418",
-    "1793342413810",
-    "1793347529631",
-    "1793359572769",
-    "1793360717538",
-    "1793289566182",
-    "1793326697818",
-    "1793327511053",
-    "1793328584495",
     "1793337999509",
     "1793340874017",
     "1793341557156",
@@ -24560,13 +24553,11 @@
     "1793929228063",
     "1793957545761",
     "1793961409880",
-    "1793979180080",
     "1793982998452",
     "1793318400122",
     "1793318400489",
     "1793903011745",
     "1793922060274",
-    "1793941204291",
     "1793941368581",
     "1793970199263",
     "1793971020213",
@@ -24577,6 +24568,21 @@
     "1793986495656",
     "1793987373783",
     "1793988407668",
+    "1793750400772",
+    "1793904000478",
+    "1793937253457",
+    "1793941478291",
+    "1793943000976",
+    "1793959417215",
+    "1793968415922",
+    "1793971311395",
+    "1793975417397",
+    "1793978068201",
+    "1793978900106",
+    "1793979180117",
+    "1793979921233",
+    "1793980560376",
+    "1793988686065",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25770,7 +25776,6 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
-    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25840,7 +25845,6 @@
     "1793898035953",
     "1793898316800",
     "1793903458794",
-    "1793904000478",
     "1793906082192",
     "1793908800780",
     "1793908800866",
@@ -25861,6 +25865,7 @@
     "1793928677814",
     "1793928740691",
     "1793931576361",
+    "1793932440489",
     "1793932934602",
     "1793933041730",
     "1793933074307",
@@ -25869,7 +25874,6 @@
     "1793936340540",
     "1793936919139",
     "1793937000207",
-    "1793937253457",
     "1793937409351",
     "1793938648886",
     "1793938875591",
@@ -25881,15 +25885,14 @@
     "1793940063510",
     "1793940107528",
     "1793940522339",
+    "1793941204291",
     "1793941216945",
     "1793941412018",
-    "1793941478291",
     "1793941488164",
     "1793941708238",
     "1793941897374",
     "1793941945436",
     "1793942048099",
-    "1793943000976",
     "1793943608980",
     "1793943701393",
     "1793943834119",
@@ -25947,7 +25950,6 @@
     "1793959291454",
     "1793959349353",
     "1793959399030",
-    "1793959417215",
     "1793959614806",
     "1793960160850",
     "1793960351835",
@@ -25979,7 +25981,6 @@
     "1793967478752",
     "1793967750829",
     "1793968189117",
-    "1793968415922",
     "1793968488579",
     "1793968826544",
     "1793969150209",
@@ -25989,7 +25990,6 @@
     "1793970088339",
     "1793970182828",
     "1793971020961",
-    "1793971311395",
     "1793971527799",
     "1793971550138",
     "1793971813507",
@@ -26002,7 +26002,6 @@
     "1793973694631",
     "1793974222676",
     "1793974681131",
-    "1793975417397",
     "1793975704016",
     "1793976091370",
     "1793976204636",
@@ -26013,23 +26012,19 @@
     "1793977635987",
     "1793977680551",
     "1793977920871",
-    "1793978068201",
     "1793978076857",
     "1793978220335",
     "1793978583800",
     "1793978771399",
     "1793978794860",
-    "1793978900106",
     "1793979060527",
     "1793979145761",
-    "1793979180117",
+    "1793979180080",
     "1793979714773",
     "1793979761259",
-    "1793979921233",
     "1793979969983",
     "1793980080477",
     "1793980487305",
-    "1793980560376",
     "1793980800223",
     "1793980800839",
     "1793980835839",
@@ -26067,7 +26062,15 @@
     "1793987946268",
     "1793988010504",
     "1793988058664",
-    "1793988686065",
+    "1793988768508",
+    "1793989076567",
+    "1793989556766",
+    "1793989639114",
+    "1793989860900",
+    "1793989892969",
+    "1793989920376",
+    "1793990061312",
+    "1793990253007",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26095,52 +26098,9 @@
     "2333716"
   ],
   "last_digest_hour": "2026-11-07T00",
-  "last_success": "2026-11-06T18:31:17.864812+00:00",
+  "last_success": "2026-11-06T18:46:34.568456+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-01T17:19:51.983274+00:00",
-        "handle": "Gazette Ministry of Law and Justice",
-        "headline": "Government notifies new rules for the selection and service conditions of tribunal members.",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/276693.pdf",
-        "words": [
-          "chairperson",
-          "commission",
-          "conditions",
-          "extraordinary",
-          "gazette",
-          "justice",
-          "law",
-          "members",
-          "ministry",
-          "national",
-          "publication",
-          "qualification",
-          "selection",
-          "service"
-        ]
-      },
-      {
-        "at": "2026-10-01T18:36:07.455068+00:00",
-        "handle": "Gazette Election Commission of India",
-        "headline": "Election Commission merges Thanlon assembly constituency into Manipur's Churachandpur district",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/276701.pdf",
-        "words": [
-          "amalgamation",
-          "churachandpur",
-          "commission",
-          "district",
-          "election",
-          "extraordinary",
-          "gazette",
-          "issue",
-          "notification",
-          "publication",
-          "thanlon"
-        ]
-      },
       {
         "at": "2026-10-02T05:50:18.636105+00:00",
         "handle": "PIB Ministry of Commerce & Industry",
@@ -34616,6 +34576,49 @@
           "sheet",
           "xii"
         ]
+      },
+      {
+        "at": "2026-11-06T18:47:50.681676+00:00",
+        "handle": "Gazette Ministry of Environment, Forest and Climate Change",
+        "headline": "Government reconstitutes Environment Impact Assessment Authority and Expert Appraisal Committee for Lakshadwee",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277748.pdf",
+        "words": [
+          "change",
+          "climate",
+          "environment",
+          "extraordinary",
+          "forest",
+          "gazette",
+          "lakshadweep",
+          "ministry",
+          "reconstitution",
+          "uteac",
+          "uteiaa"
+        ]
+      },
+      {
+        "at": "2026-11-06T18:47:50.681676+00:00",
+        "handle": "Gazette Ministry of Culture",
+        "headline": "Centre declares Raniwas Mound archaeological site in Bihar as a monument of national importance",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277747.pdf",
+        "words": [
+          "archaeological",
+          "bihar",
+          "champaran",
+          "culture",
+          "east",
+          "extraordinary",
+          "gazette",
+          "kesariya",
+          "ministry",
+          "mound",
+          "notification",
+          "part",
+          "raniwas",
+          "respect"
+        ]
       }
     ],
     "gazette_mark": 277761,
@@ -36167,7 +36170,10 @@
       "CG-DL-E-06112026-277760",
       "CG-DL-E-06112026-277761",
       "CG-DL-E-06112026-277759",
-      "CG-TL-E-06112026-277758"
+      "CG-TL-E-06112026-277758",
+      "CG-AP-E-07112026-277757",
+      "CG-DL-E-07112026-277747",
+      "CG-DL-E-07112026-277748"
     ],
     "health": {
       "down": {
@@ -36177,12 +36183,9 @@
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T18:32:21.953100+00:00",
+    "last_run": "2026-11-06T18:47:50.768237+00:00",
     "pib_mark": 2333803,
     "seen": [
-      "pib:2325126",
-      "pib:2325128",
-      "pib:2325129",
       "pib:2325130",
       "pib:2325142",
       "pib:2325131",
@@ -38558,10 +38561,10 @@
       "gazette:CG-DL-E-05112026-277711",
       "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
       "dgft-trade-notice:54c588a7-0fc0-4f2e-9229-a027c4f4f8b2",
-      "npci:629",
       "gazette:CG-DL-E-05112026-277712",
       "gazette:CG-DL-E-05112026-277714",
       "gazette:CG-DL-E-05112026-277713",
+      "npci:629",
       "gazette:CG-DL-E-05112026-277715",
       "gazette:CG-DL-E-05112026-277717",
       "gazette:CG-DL-E-06112026-277733",
@@ -39179,7 +39182,10 @@
       "gazette:CG-DL-E-06112026-277760",
       "gazette:CG-DL-E-06112026-277761",
       "gazette:CG-DL-E-06112026-277759",
-      "gazette:CG-TL-E-06112026-277758"
+      "gazette:CG-TL-E-06112026-277758",
+      "gazette:CG-AP-E-07112026-277757",
+      "gazette:CG-DL-E-07112026-277748",
+      "gazette:CG-DL-E-07112026-277747"
     ],
     "source_failures": {
       "CBI": {
@@ -39250,7 +39256,44 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Microsoft winds down Oracle AI computing rental arrangement",
+      "post": {
+        "created_at": "2026-11-06T18:17:56+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1793989076567",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "BusinessLine",
+        "reposts": 0,
+        "text": "Microsoft winds down Oracle AI computing rental arrangement",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRDY0R2ZnODU4OFpVb0V4a3NvT0thaUxqZkpOdlB4SHRQX053QXFPSFdaUDdPNDZRTnZGY0tXR2ZOODVDcVM1XzFBUW9JZkpjZzlLLVFwTGVXQklwNHpPRVRPcVZqblo3TUV2XzhJZ2d0N2hZeXFQSnVITEhmN0FFN0tBYVZvbVhteExoV3B3VzJ4eGFLaXAwRDdHdEs4ZFlScHFnTUdWUFNYNGR3eEhGWkxmdjFYV2U0TnBmZW92NTZOc0Y4TFgtZWFPUVZXQ3MxS2VobUVmSEFtbGNLVXl3VFFiQnBIZ9IB7AFBVV95cUxPQWxBQW1wcE1wQjljeWpVUFgwcmFUM1lpcWlQdXoySDNVTGVySW9USjhMU2V1T1hSSEktNzM3VGxPWmpRbDZxS2MtelEtTkd0QnZ5el9QZE8wdXpPNnpteUp6bkt5ZWZaOWkzQ1lvcjk0M3VkMmd3TW9SNkp3MHo1SEZKSmhVMms5M0liQjh5SGk1OTFXbXpHTUJlcFNJVGIyR3QtYVMzU3NMQ0tFYWxVSElfVXp6MFRjY2ZianlkMFZSS2x5c2daUktjS1FCM3B6MV83THMtUHlQUlU1VWpCSEJTaEl0cHMwTk5fdg?oc=5"
+      },
+      "queued_at": "2026-11-06T18:46:34.474728+00:00",
+      "score": 7.0,
+      "why": "Major partnership wind-down between two major tech players."
+    },
+    {
+      "headline": "OpenAI partners with Hacktron for vulnerability detection",
+      "post": {
+        "created_at": "2026-11-06T18:25:56+00:00",
+        "handle": "News: Global AI",
+        "id": "1793989556766",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "OpenAI partners with Hacktron to find vulnerabilities in OpenAI's systems",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUHI0dl95SXFJT1JqLXFXNGlLWUloQTlBTERWdGVpM1kyRzdfVkV2Z0s5cFdYQTNrdDNJTlMyUU1hcmVFU3RZaTJoSy05NzVEZXpweTVkRHFIbWdOZUprQ2x2ZTU2bUlHd0NidnBrSmFWaHF1bndjOEJPQ3ZjaTk1NU5sYXhMdkhyVWVYV3cyVmU4ZXNXckhuQlB6cC04UDQwRDRaSnRabUZPM09JR1hNakVWUG9RVVZRLUFSMzhITkZXdlgtNDNWRG1DXzBqcFUzRzQ2NUhBTm1sUdIB3wFBVV95cUxOanUtOVpUcTlEQ0d2WERoX04xNlZIRGRiSzdnenFYVE9nMnlVV0R2VkV0M0dXbHh4Rmtza3hfNzRVSi00NUd5ZGNNSVhnNmJ2dnBoQmdWTzZyakhER1V5TlptZXk1ak55T0FKUlFwN2YzMlFwS3d2cXdLaDctVXVmSmpJdFRNZl9lRjJSazJUZl81TGt6bDdScFlTR0dibm1CZU1mdVIzcXV1YnIxcXJ2RHphb1hmVmxWZU9QZ3NwVHFiSDZrSk1ULWtodlNnNFdjYlFlRU5SSWJMMzhva3ZF?oc=5"
+      },
+      "queued_at": "2026-11-06T18:46:34.474728+00:00",
+      "score": 7.0,
+      "why": "Partnership involving a major AI lab for security."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40415,10 +40458,10 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793988010504,
+    "news: big tech platforms": 1793989920376,
     "news: consumer internet india": 1793986268360,
-    "news: global ai": 1793988407668,
-    "news: global chips": 1793984728933,
+    "news: global ai": 1793989639114,
+    "news: global chips": 1793990061312,
     "news: global it services": 1793962380053,
     "news: india ai deeptech": 1793971813507,
     "news: india edtech gaming": 1793978076857,
@@ -40426,7 +40469,7 @@
     "news: india semiconductors": 1793979145761,
     "news: india tech policy": 1793968488579,
     "news: india telecom": 1793986702793,
-    "news: indian it majors": 1793988686065,
+    "news: indian it majors": 1793990253007,
     "news: indian it midcaps": 1793954951506,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1793962560379,
@@ -40456,7 +40499,9 @@
     "zoho": 1793800451825
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-06T18:46:28.894285+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40474,17 +40519,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T18:31:18.209656+00:00",
+    "last_server_run": "2026-11-06T18:46:34.964380+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-06T16:32:33.760627+00:00",
+        "checked": "2026-11-06T18:47:16.465095+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-06T16:32:25.108932+00:00",
+        "checked": "2026-11-06T18:47:08.338471+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40560,7 +40605,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-06T16:32:29.255024+00:00",
+        "checked": "2026-11-06T18:47:12.335646+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -40634,6 +40679,7 @@
       "CG-AP-E-06112026-277756",
       "CG-AP-E-07102026-276889",
       "CG-AP-E-07102026-276896",
+      "CG-AP-E-07112026-277757",
       "CG-AP-E-08102026-276937",
       "CG-AP-E-08102026-276953",
       "CG-AP-E-09102026-276992",
@@ -40990,6 +41036,8 @@
       "CG-DL-E-07102026-276916",
       "CG-DL-E-07102026-276917",
       "CG-DL-E-07102026-276918",
+      "CG-DL-E-07112026-277747",
+      "CG-DL-E-07112026-277748",
       "CG-DL-E-08102026-276919",
       "CG-DL-E-08102026-276920",
       "CG-DL-E-08102026-276921",
@@ -51103,7 +51151,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T18:32:24.964789+00:00",
+    "last_run": "2026-11-06T18:47:53.778632+00:00",
     "seen": [
       "x:2116445181109240156",
       "x:2116449177165250877",
