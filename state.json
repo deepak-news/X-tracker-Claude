@@ -16995,10 +16995,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T01:47:18.776316+00:00",
-    "pib_mark": 2333392,
+    "last_run": "2026-11-06T02:03:52.178676+00:00",
+    "pib_mark": 2333399,
     "seen": [
-      "gazette:CG-DL-E-15102026-277193",
       "gazette:CG-DL-E-15102026-277194",
       "pib:2324193",
       "pib:2324191",
@@ -19997,7 +19996,8 @@
       "gazette:CG-DL-E-05112026-277713",
       "gazette:CG-DL-E-05112026-277715",
       "gazette:CG-DL-E-05112026-277717",
-      "gazette:CG-DL-E-05112026-277710"
+      "gazette:CG-DL-E-05112026-277710",
+      "pib:2333399"
     ],
     "source_failures": {},
     "sources": [
@@ -20058,10 +20058,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793280624612",
-    "1793320471105",
-    "1793240307423",
-    "1793240400584",
     "1793240720439",
     "1793240850908",
     "1793241035820",
@@ -24549,12 +24545,18 @@
     "1793890761809",
     "1793923834797",
     "1793924700578",
-    "1793927341910",
     "1793848317733",
     "1793904689639",
     "1793904692129",
     "1793917080574",
     "1793926765727",
+    "1793843395210",
+    "1793849263273",
+    "1793879320034",
+    "1793899648184",
+    "1793901747525",
+    "1793927341465",
+    "1793929201030",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25799,14 +25801,12 @@
     "1793835292066",
     "1793836800128",
     "1793839515913",
-    "1793843395210",
     "1793844000135",
     "1793844581891",
     "1793845450204",
     "1793845811294",
     "1793848437779",
     "1793848903244",
-    "1793849263273",
     "1793849300176",
     "1793850364956",
     "1793850513614",
@@ -25886,7 +25886,6 @@
     "1793878800391",
     "1793878842714",
     "1793879207220",
-    "1793879320034",
     "1793879672588",
     "1793880014180",
     "1793880878609",
@@ -25952,7 +25951,6 @@
     "1793898316800",
     "1793898641022",
     "1793899382283",
-    "1793899648184",
     "1793899807095",
     "1793899940337",
     "1793900090384",
@@ -25960,7 +25958,6 @@
     "1793901511528",
     "1793901600328",
     "1793901600891",
-    "1793901747525",
     "1793901784032",
     "1793901824373",
     "1793901979941",
@@ -26032,11 +26029,14 @@
     "1793925469343",
     "1793926219800",
     "1793926260891",
+    "1793926740925",
     "1793926743727",
-    "1793927341465",
+    "1793927341910",
     "1793928600153",
     "1793928677814",
-    "1793929201030",
+    "1793929524948",
+    "1793929965365",
+    "1793930151885",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26060,7 +26060,7 @@
     "2333279"
   ],
   "last_digest_hour": "2026-11-06T07",
-  "last_success": "2026-11-06T01:46:10.924706+00:00",
+  "last_success": "2026-11-06T02:02:30.977343+00:00",
   "national": {
     "alerted": [
       {
@@ -36108,15 +36108,15 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-06T02:03:20.176878+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T01:47:01.812485+00:00",
-    "pib_mark": 2333392,
+    "last_run": "2026-11-06T02:03:36.132077+00:00",
+    "pib_mark": 2333399,
     "seen": [
-      "pib:2324685",
       "pib:2324691",
       "pib:2324699",
       "pib:2324710",
@@ -38579,6 +38579,7 @@
       "watch:meeting:LS|22630",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168742",
       "site:BCCI|https://www.bcci.tv/news/article/first-odi-between-india-and-sri-lanka-shifted-from-delhi-to-visakhapatnam",
+      "npci:629",
       "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
       "dgft-trade-notice:54c588a7-0fc0-4f2e-9229-a027c4f4f8b2",
       "dgft-public-notice:28624e0e-f35a-4ec1-9c04-6ece1f9af4f3",
@@ -38603,7 +38604,6 @@
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-naasaika",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-haraiyaanaa-kai",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-savaamai-saradadhaananada",
-      "npci:629",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -39115,12 +39115,16 @@
       "gazette:SG-DL-E-05112026-277704",
       "gazette:CG-DL-E-05112026-277715",
       "gazette:CG-DL-E-05112026-277710",
-      "gazette:CG-DL-E-05112026-277717"
+      "gazette:CG-DL-E-05112026-277717",
+      "pib:2333399"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -40355,7 +40359,7 @@
     "news: india fintech": 1793899382283,
     "news: india semiconductors": 1793850688171,
     "news: india tech policy": 1793926219800,
-    "news: india telecom": 1793925000845,
+    "news: india telecom": 1793930151885,
     "news: indian it majors": 1793917380739,
     "news: indian it midcaps": 1793903011745,
     "news: pib releases": 1790159940641,
@@ -40406,7 +40410,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T01:46:11.420986+00:00",
+    "last_server_run": "2026-11-06T02:02:31.498169+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T01:46:45.526059+00:00",
@@ -50553,10 +50557,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T01:47:08.677920+00:00",
+    "last_run": "2026-11-06T02:03:39.745937+00:00",
     "seen": [
-      "x:2116038803781726584",
-      "x:2116039607649480944",
       "x:2116039897773654373",
       "x:2116040559186043309",
       "x:2116040981179257009",
@@ -53554,7 +53556,9 @@
       "x:2118512870870937936",
       "x:2118513079793414162",
       "x:2118516214200672349",
-      "x:2118519455269666997"
+      "x:2118519455269666997",
+      "x:2118523766191870152",
+      "x:2118523769409200525"
     ],
     "source_failures": {},
     "sources": []
