@@ -2,24 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-28T10:31:38.183225+00:00",
-      "handle": "News: India fintech",
-      "headline": "PhonePe rebrands Indus Appstore and crosses 200 million devices",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS3l2VzBxQlR4VkJHcnUxMFNjTmJLTGFJX0dBdVhBOHVoYm1zV0pvNUxQYnF0TmpvVE13MGl0NmVYRVdrU3o1WjVZeWNQLXBZOTM2cExjbVU1UTNYdjRRQzZXbjRnZHFCaU9ka0dxQUFGcjk0NmZHR29lQndoanVjVXg3MTAxUkU4ZG5TdW85ZmpLVXc3R1dqSEplVFJXcU4tSVQ5NlVDR3k5MjVVaGVLUzUwTmhleHhJTXN0cnZfNE5TV1psckFfVzJhTHBTOWpiWWM0cC1lb25nMmhw0gHiAUFVX3lxTFBiV2dWYWxoNjlCOE93Z2hMTGVDWmVvUjZSU2lUYmdwMnJCSEp1RHdwRWtvdWRuVE5UQzRHLUs1NVBPbTdZWjAwaUp2ODVoQ1Y3SUpwVlFFcEEzWXllSmpaTHZJeXJEMVFLX2xBLUFiMEZEV2dneGFVZTJYNV9iUTF3NzIyZ1JXVHI2clBEYWFscnc1TVc5eW5Xblc0WVlGYkhYSVh5NWN4NU9QTl9tQ090T0xzXzZid1BXNTY1dHkzYS1vMVhPYnEzV2dWRzhIVEVPZzhvR0lEM05PU0R3OWdBMmc?oc=5",
-      "words": [
-        "200",
-        "appstore",
-        "crosses",
-        "devices",
-        "indus",
-        "million",
-        "now",
-        "phonepe",
-        "platform"
-      ]
-    },
-    {
-      "at": "2026-10-28T10:31:38.183225+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic reports Claude wrote over 90% of code in September",
       "tier": 0,
@@ -7388,6 +7370,24 @@
         "subsidiary",
         "tap",
         "tech"
+      ]
+    },
+    {
+      "at": "2026-11-06T07:16:11.421246+00:00",
+      "handle": "TRAI",
+      "headline": "TRAI releases The Register of Interconnect Agreements Fourth Amendment Regulations 2026",
+      "tier": 1,
+      "url": "http://www.trai.gov.in/notifications/press-release/trai-released-register-interconnect-agreements-fourth-amendment",
+      "words": [
+        "2026",
+        "agreements",
+        "amendment",
+        "fourth",
+        "interconnect",
+        "register",
+        "regulations",
+        "released",
+        "trai"
       ]
     }
   ],
@@ -16995,10 +16995,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T07:03:06.892635+00:00",
-    "pib_mark": 2333451,
+    "last_run": "2026-11-06T07:17:08.726280+00:00",
+    "pib_mark": 2333462,
     "seen": [
-      "pib:2324336",
       "pib:2324350",
       "pib:2324355",
       "pib:2324360",
@@ -19997,7 +19996,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-dhanteras-greetings-to-all-citizens",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-khunti-jharkhand",
       "pib:2333448",
-      "pib:2333451"
+      "pib:2333451",
+      "pib:2333462"
     ],
     "source_failures": {},
     "sources": [
@@ -20058,12 +20058,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793325372619",
-    "1793327677931",
-    "1793330919131",
-    "1793333226595",
-    "1793340427882",
-    "1793256697762",
     "1793256816716",
     "1793257647787",
     "1793260276039",
@@ -24533,12 +24527,13 @@
     "1793861915182",
     "1793861952509",
     "1793867345963",
-    "1793890138175",
     "1793890543644",
-    "1793910000813",
-    "1793917699730",
     "1793930009236",
     "1793945620746",
+    "1793863414739",
+    "1793915820118",
+    "1793936751905",
+    "1793940108901",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25775,7 +25770,6 @@
     "1793844000135",
     "1793855270810",
     "1793858977042",
-    "1793863414739",
     "1793864182308",
     "1793865368338",
     "1793865600201",
@@ -25849,6 +25843,7 @@
     "1793888961443",
     "1793889000198",
     "1793889527068",
+    "1793890138175",
     "1793890845645",
     "1793890922187",
     "1793891136851",
@@ -25904,6 +25899,7 @@
     "1793909143190",
     "1793909263524",
     "1793909503326",
+    "1793910000813",
     "1793910780297",
     "1793911140000",
     "1793911195038",
@@ -25918,8 +25914,8 @@
     "1793914500049",
     "1793914617297",
     "1793915340318",
-    "1793915820118",
     "1793917380739",
+    "1793917699730",
     "1793919789872",
     "1793919940329",
     "1793921412158",
@@ -25978,7 +25974,6 @@
     "1793936340540",
     "1793936522900",
     "1793936736020",
-    "1793936751905",
     "1793936919139",
     "1793937000207",
     "1793937253457",
@@ -25999,7 +25994,6 @@
     "1793939958320",
     "1793940063510",
     "1793940107528",
-    "1793940108901",
     "1793940522339",
     "1793940744496",
     "1793941136014",
@@ -26027,16 +26021,22 @@
     "1793944028396",
     "1793944038391",
     "1793944101876",
+    "1793944312437",
     "1793944320881",
+    "1793944372537",
     "1793944412104",
     "1793944449714",
     "1793945023961",
     "1793945441514",
     "1793945620367",
+    "1793945692616",
     "1793946364186",
     "1793946620747",
+    "1793946816649",
     "1793946929628",
     "1793946944767",
+    "1793947389158",
+    "1793949016293",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26060,7 +26060,7 @@
     "2333279"
   ],
   "last_digest_hour": "2026-11-06T12",
-  "last_success": "2026-11-06T07:01:53.709101+00:00",
+  "last_success": "2026-11-06T07:16:11.492193+00:00",
   "national": {
     "alerted": [
       {
@@ -36113,10 +36113,9 @@
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T07:02:49.601800+00:00",
-    "pib_mark": 2333451,
+    "last_run": "2026-11-06T07:16:53.306118+00:00",
+    "pib_mark": 2333462,
     "seen": [
-      "page:https://www.mha.gov.in/sites/default/files/Instruction15AugustE_10082026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/FormulationREBE202728_14082026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/finallistAwards_14082026.pdf",
       "page:https://www.mha.gov.in/sites/default/files/Certificate-of-MHA.pdf",
@@ -39115,7 +39114,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-khunti-jharkhand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-dhanteras-greetings-to-all-citizens",
       "pib:2333448",
-      "pib:2333451"
+      "pib:2333451",
+      "pib:2333462"
     ],
     "source_failures": {
       "CBI": {
@@ -40367,18 +40367,18 @@
     "news: big tech platforms": 1793946944767,
     "news: consumer internet india": 1793937409781,
     "news: global ai": 1793946364186,
-    "news: global chips": 1793944449714,
+    "news: global chips": 1793946816649,
     "news: global it services": 1793941204291,
     "news: india ai deeptech": 1793945441514,
     "news: india edtech gaming": 1793945441514,
-    "news: india fintech": 1793946620747,
+    "news: india fintech": 1793947389158,
     "news: india semiconductors": 1793850688171,
     "news: india tech policy": 1793933237529,
-    "news: india telecom": 1793943669217,
+    "news: india telecom": 1793945692616,
     "news: indian it majors": 1793944101876,
     "news: indian it midcaps": 1793945023961,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1793944038391,
+    "news: tech leaders": 1793946816649,
     "nvidia": 1793908841642,
     "nvidia blog": 1793908841642,
     "openai": 1793908800866,
@@ -40399,7 +40399,7 @@
     "sarvam ai": 1793709953629,
     "swiggy": 1793616471938,
     "tata electronics": 1789738328115,
-    "trai": 1793878223585,
+    "trai": 1793949016293,
     "xai": 1793649683165,
     "zinnov": 1793869285215,
     "zoho": 1793800451825
@@ -40423,7 +40423,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T07:01:54.203194+00:00",
+    "last_server_run": "2026-11-06T07:16:11.813679+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T06:02:16.343756+00:00",
@@ -50710,15 +50710,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T07:02:57.518717+00:00",
+    "last_run": "2026-11-06T07:17:00.130577+00:00",
     "seen": [
-      "x:2116112023021121984",
-      "x:2116112865673216415",
-      "x:2116114057623441493",
-      "x:2116115578918457812",
-      "x:2116115659419738357",
-      "x:2116115728051163374",
-      "x:2116115813866578311",
       "x:2116116295146193329",
       "x:2116116456547226006",
       "x:2116117127950471295",
@@ -53711,7 +53704,14 @@
       "x:2118596566764151091",
       "x:2118597102871908413",
       "x:2118598222323290442",
-      "x:2118598576662249706"
+      "x:2118598576662249706",
+      "x:2118599267439067465",
+      "x:2118599374553116793",
+      "x:2118599764912615805",
+      "x:2118600470881337484",
+      "x:2118600747826716754",
+      "x:2118601321398047082",
+      "x:2118601476771815688"
     ],
     "source_failures": {},
     "sources": []
