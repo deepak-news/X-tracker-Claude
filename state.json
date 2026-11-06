@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-28T20:16:17.287929+00:00",
-      "handle": "Anthropic",
-      "headline": "Anthropic expands AI for Science program with 20 global partners",
-      "tier": 1,
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "words": [
-        "anthropic",
-        "around",
-        "arti",
-        "expansion",
-        "foundations",
-        "groups",
-        "highlighting",
-        "institutions",
-        "our",
-        "partnered",
-        "program",
-        "published",
-        "research",
-        "science"
-      ]
-    },
-    {
       "at": "2026-10-28T20:31:25.277871+00:00",
       "handle": "News: India edtech gaming",
       "headline": "Info Edge reports 12.6% growth in recruitment billings with AI products",
@@ -7384,6 +7361,22 @@
         "sells",
         "softbank",
         "worth"
+      ]
+    },
+    {
+      "at": "2026-11-06T21:31:22.744308+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI completes $11 billion funding portion at $1.25 trillion valuation",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUs1X0RZcHpSM0pJZVlZOHZrWEppOG5oemNaUHFVUGZYV1ZSQ2lVVVhxZENDQWVDTkVPRkN5XzRxT3JGVDExWFVVQ2VWejZ3a21tb2NCNlFrc29DVW11OC1ZRXdJX1lDNWp6Tk90STljUDdBMmltdEgyTVFJQTI5cEJFRkdHMno0Ni1CU2NFQ2M2dXRBdjFMTl8zZ1dZM1p5R2kyT2lGZmF1OGhoQm9zTDNYeWk2NG44SVlnUQ?oc=5",
+      "words": [
+        "billion",
+        "completes",
+        "funding",
+        "openai",
+        "portion",
+        "trillion",
+        "value"
       ]
     }
   ],
@@ -17034,7 +17027,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T21:17:01.420425+00:00",
+    "last_run": "2026-11-06T21:32:43.986324+00:00",
     "pib_mark": 2333803,
     "seen": [
       "pib:2324835",
@@ -20097,11 +20090,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793353419203",
-    "1793359801537",
-    "1793359937744",
-    "1793364163459",
-    "1793366220822",
     "1793366747769",
     "1793366994171",
     "1792578625173",
@@ -24540,7 +24528,6 @@
     "1793990000900",
     "1793937253457",
     "1793948629437",
-    "1793951160613",
     "1793957545761",
     "1793982520397",
     "1793986268360",
@@ -24573,12 +24560,17 @@
     "1793986080105",
     "1793912996810",
     "1793922024063",
-    "1793966225932",
-    "1793966588611",
     "1793980866397",
     "1793984100202",
     "1793986292784",
-    "1793988897528",
+    "1793004929015",
+    "1793005599965",
+    "1793954004613",
+    "1793971020213",
+    "1793973060455",
+    "1793987628999",
+    "1793988092784",
+    "1793995161292",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25585,8 +25577,6 @@
     "1792998000432",
     "1792998000688",
     "1793001600557",
-    "1793004929015",
-    "1793005599965",
     "1793008800283",
     "1793019622137",
     "1793020980902",
@@ -25913,6 +25903,7 @@
     "1793949944058",
     "1793950640234",
     "1793950918431",
+    "1793951160613",
     "1793951700459",
     "1793952000534",
     "1793952503170",
@@ -25923,7 +25914,6 @@
     "1793953365704",
     "1793953410555",
     "1793953626309",
-    "1793954004613",
     "1793954115002",
     "1793954250174",
     "1793954700358",
@@ -25966,6 +25956,8 @@
     "1793966128319",
     "1793966200791",
     "1793966216856",
+    "1793966225932",
+    "1793966588611",
     "1793966859927",
     "1793967750829",
     "1793967789353",
@@ -25976,12 +25968,10 @@
     "1793969800849",
     "1793970023117",
     "1793970182828",
-    "1793971020213",
     "1793971020961",
     "1793971550138",
     "1793971813507",
     "1793973000561",
-    "1793973060455",
     "1793973557911",
     "1793973660266",
     "1793973694631",
@@ -26038,16 +26028,16 @@
     "1793986740489",
     "1793986980456",
     "1793987573614",
-    "1793987628999",
     "1793987946268",
     "1793988010504",
     "1793988058664",
-    "1793988092784",
     "1793988407668",
     "1793988610408",
     "1793988768508",
+    "1793988897528",
     "1793989018160",
     "1793989076567",
+    "1793989391784",
     "1793989556766",
     "1793989639114",
     "1793989682106",
@@ -26061,17 +26051,20 @@
     "1793991600376",
     "1793991720900",
     "1793992472673",
+    "1793992569999",
     "1793993394753",
     "1793994120529",
     "1793994720477",
     "1793994960162",
-    "1793995161292",
     "1793995902328",
     "1793996220189",
     "1793997135920",
     "1793998051871",
     "1793998721516",
     "1793998809786",
+    "1793998814460",
+    "1793999623832",
+    "1794000180816",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26098,8 +26091,8 @@
     "2333683",
     "2333716"
   ],
-  "last_digest_hour": "2026-11-07T02",
-  "last_success": "2026-11-06T21:16:05.135209+00:00",
+  "last_digest_hour": "2026-11-07T03",
+  "last_success": "2026-11-06T21:31:22.817945+00:00",
   "national": {
     "alerted": [
       {
@@ -36190,12 +36183,13 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-06T21:32:31.802555+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T21:16:47.391931+00:00",
+    "last_run": "2026-11-06T21:32:32.930386+00:00",
     "pib_mark": 2333803,
     "seen": [
       "pib:2325210",
@@ -39204,6 +39198,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "NPCI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -39268,26 +39265,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "OpenAI completes $11 billion funding portion at $1.25 trillion valuation",
-      "post": {
-        "created_at": "2026-11-06T20:58:41+00:00",
-        "handle": "News: Global AI",
-        "id": "1793998721516",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Bloomberg",
-        "reposts": 0,
-        "text": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUs1X0RZcHpSM0pJZVlZOHZrWEppOG5oemNaUHFVUGZYV1ZSQ2lVVVhxZENDQWVDTkVPRkN5XzRxT3JGVDExWFVVQ2VWejZ3a21tb2NCNlFrc29DVW11OC1ZRXdJX1lDNWp6Tk90STljUDdBMmltdEgyTVFJQTI5cEJFRkdHMno0Ni1CU2NFQ2M2dXRBdjFMTl8zZ1dZM1p5R2kyT2lGZmF1OGhoQm9zTDNYeWk2NG44SVlnUQ?oc=5"
-      },
-      "queued_at": "2026-11-06T21:16:05.033644+00:00",
-      "score": 7.0,
-      "why": "Major funding milestone from a leading AI company, meeting disclosure criteria."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40454,10 +40432,10 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1793995902328,
     "news: consumer internet india": 1793986268360,
-    "news: global ai": 1793998809786,
+    "news: global ai": 1793999623832,
     "news: global chips": 1793994720477,
     "news: global it services": 1793962380053,
-    "news: india ai deeptech": 1793971813507,
+    "news: india ai deeptech": 1794000180816,
     "news: india edtech gaming": 1793978076857,
     "news: india fintech": 1793990615900,
     "news: india semiconductors": 1793990842883,
@@ -40511,7 +40489,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T21:16:05.630110+00:00",
+    "last_server_run": "2026-11-06T21:31:23.164966+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T21:02:22.048302+00:00",
@@ -51154,7 +51132,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T21:16:51.531490+00:00",
+    "last_run": "2026-11-06T21:32:35.839430+00:00",
     "seen": [
       "x:2116445181109240156",
       "x:2116449177165250877",
