@@ -1,69 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-28T17:02:08.865755+00:00",
-      "handle": "Google",
-      "headline": "Google DeepMind unveils Gemini 4 Carbon with advanced cybersecurity capabilities",
-      "tier": 1,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "words": [
-        "art",
-        "article",
-        "carbon",
-        "crystal",
-        "cybersecurity",
-        "faceted",
-        "floating",
-        "frontier",
-        "gemini",
-        "iridescent",
-        "long",
-        "model",
-        "next",
-        "number"
-      ]
-    },
-    {
-      "at": "2026-10-28T17:02:08.865755+00:00",
-      "handle": "Microsoft",
-      "headline": "Microsoft launches Copilot multi-model agent harness on Foundry",
-      "tier": 1,
-      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
-      "words": [
-        "advantage",
-        "agentic",
-        "article",
-        "compete",
-        "copilot",
-        "harness",
-        "introducing",
-        "microsoft",
-        "model",
-        "multi",
-        "need",
-        "potential",
-        "take",
-        "truly"
-      ]
-    },
-    {
-      "at": "2026-10-28T17:32:17.214269+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Meesho reports Q2 festive and tech costs alongside margin improvements",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeVlZWnFUOGpSVnVYYkZMWTJEbllFV0g1WDFsMkhxOFlTMTZPWDFhYUs4OXBKdnNZb19OS0ZXaXl0TDRYR2VlVG1WcWZBbElUWjM1MEZlT29ITWl1TUJScFlYY0gxNUF4ZDdid2RoaVA1aGpGLWtUSEc0SG9Zd0t5QXNmZlhjMmdSalJiWUpydVBFSGF4Mk41ZWJHVmZNcXJYLThYcm53Szd0d1lIOGxsMDA4NVJsc0hiY2poMkphZ0NsNE0yb05PZWdfZlZWbmFYS3VmN9IB2gFBVV95cUxQXzByU09yRENqTllrY0pFd1lIUGtpMjN1SlZjTVVaYXpnYkh4TmpoMy1xVXVpUVFZSXJWaG81MFVvUy02aEJ1c04xdnpUeFh6ektwMEFvYnJfQndlUHBEUVVrS3JPNW12WUd4cWhJTm1vOG5UTUc4cHRKNE9mcU9fV3dRMUZTdVJma3M3c0dEaFc4Tmd4Uk02Q1N6dVl6Wks3dGFRZDRFN1g2d2JucHkwMTdsWUJHcnJ4Z3VobTZQQW9Xd2NOZzdwWk9yTlU3b0U0RUFxVGtSUkJrdw?oc=5",
-      "words": [
-        "costs",
-        "festive",
-        "flags",
-        "higher",
-        "improve",
-        "margins",
-        "meesho",
-        "tech"
-      ]
-    },
-    {
       "at": "2026-10-28T17:32:17.214269+00:00",
       "handle": "News: Global AI",
       "headline": "OpenAI gathers staff to monitor election interference ahead of midterms",
@@ -7397,6 +7334,61 @@
         "restores",
         "slow",
         "withdrawn"
+      ]
+    },
+    {
+      "at": "2026-11-06T15:31:39.589458+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Wipro brings back former Birlasoft CEO Angan Guha to lead Americas 2",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSzBXN0NBR3BOUGp4NllmOTZiczFMWHBMcmRkbUkzX09Sc0t5SEJSVEx2aGVsSDFuMmtRNGVVMHFBQ3JGQ3hhZEVQSHNnQTYySHpqcGh4NVlGN3N1eFBOTGd1LUs2VHBmaUtjRVVhemRUcTl2Mk9FLXMxSHg3WEVRUWVzdDBySnNkcHJZemZFLV9mSGhGUnBIYUJGMDFQc05HcU1BN3N3R0tvNVktOGtfNkdWa2hMT0t1aTBBS2dhSFM4dndqd0tDQjF0b0NGSTh2UUFfQV9n0gHbAUFVX3lxTE1VOUJhU0k4MVJrWXJiNXhKWlJubF9WcHpGU1QxWmZYejQ4OUo4NWo1Y0N1d3RzQXNuZmZqbnM4X2xHU0REWUJubkJiN0JLSWhxejlfLTE5cDQ4bS1fWFY1Z05MQWJlX2s0aVIxVXVkczBWRzFGbEt5R1JmY0Fja1RKOEkwR3Jkd2lXMzdvVTdiYWZxOU9hZlF6RDF2Uzk2UmFiYUZuQTd0T0NWV1ZxaVJQNUlJU3lIVEpZRTR1eHU2UTdCdVRCZi0zTG1ibHZnSnZXYXJjbjY1NWtVTQ?oc=5",
+      "words": [
+        "americas",
+        "angan",
+        "back",
+        "birlasoft",
+        "brings",
+        "business",
+        "ceo",
+        "former",
+        "guha",
+        "lead",
+        "wipro"
+      ]
+    },
+    {
+      "at": "2026-11-06T15:31:39.589458+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "TCS and Sastra launch training centre for Japan IT market",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajYtdTlTeV83OFI4ekxDRXducDVsUUZnb2N3MURhNDV4U1FPTVV2a1luTVF3a0lRUXFWR3VldUtNeEdVMC1Ga0gzWWZyc1NtX3FrLTlpYTZxbTc3ZFVPd3BNOUlWOC1BaDNFRXQ4MkFObjJXUXhMTXhFenJTWkJ6WkxmS0hOdFgxT2htZkZCTXZqeTlJUGxMUUw2cHl3WGU1V1JYd0VScDNoOTJOZUpqMGRoVnozcTNhNWk0bmpBN2E2d0J6SVpqaHdqci1PZW5YTkZN0gHYAUFVX3lxTFBKV0xtWE02Z2p3d2lTQ0tBbHNxMXpFYkhKVnNyWmEyUmh0b0RvSnZyLU1KamxsZzFWOUUtQU1TcFpkRElURVMySGtuTk9VRE9zWjZlblhORUV2MXlCVHhfcllRS2JEUDBqMGh0elhwbVluaThIbUNZSzRJQi05TlZIWDBBVzdRZUc2NEw0WVRFUW9YWmF5Vmx3dFZ1UFZoRHRBUFpjZERhSEo0S1h4cXA0R2RlYVRNOXlVR1JfMzZMR01wMVRta3pIVXhHaElodDdmcVpZRFoyNg?oc=5",
+      "words": [
+        "centre",
+        "japan",
+        "launch",
+        "market",
+        "sastra",
+        "students",
+        "tcs",
+        "train"
+      ]
+    },
+    {
+      "at": "2026-11-06T15:31:39.589458+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Maharashtra FDA takes action against Blinkit, Zepto and others",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHVNemppbVJtRjQ5R3pjdVlxU2VuZjhwMFdoRi04SUpCUEdzdmMzbDNBRENHclpZcmdFSC1GbDBZT05OdnNrT1RlQkg2T2NYM3F0UE83Y1Z4LW1QWVVQMkRreGozUXp5aXBRd2FXc2dPQkQ4bXV1Y3F0UG91bEV2d1RwclhMckhRSDBNNWJkdTBRenIweUI1Um9wbUg0ZWFOZ29yYXZJLTJwdTJnX1FSR09aVjF1VVHSAbcBQVVfeXFMT3B1TXpqaW1SbUY0OUd6Y3VZcVNlbmY4cDBXaEYtOElKQlBHc3ZjM2wzQURDR3JaWXJnRUgtRmwwWU9OTnZza09UZUJINk9jWDNxdFBPN2NWeC1tUFlVUDJEa3hqM1F6eWlwUXdhV3NnT0JEOG11dWNxdFBvdWxFdndUcHJYTHJIUUgwTTViZHUwUXpyMHlCNVJvcG1INGVhTmdvcmF2SS0ycHUyZ19RUkdPWlYxdVVR?oc=5",
+      "words": [
+        "105",
+        "action",
+        "among",
+        "blinkit",
+        "facing",
+        "fda",
+        "maharashtra",
+        "outlets",
+        "zepto"
       ]
     }
   ],
@@ -17014,11 +17006,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T15:17:14.281315+00:00",
-    "pib_mark": 2333782,
+    "last_run": "2026-11-06T15:32:54.573448+00:00",
+    "pib_mark": 2333803,
     "seen": [
-      "cci-merger:C-2026/07/1446|Approved",
-      "cci-merger:C-2026/07/1444|Approved",
       "cci-pr:media-gallery|696",
       "cci-pr:media-gallery|695",
       "cci-merger:C-2026/08/1447|Approved",
@@ -20016,7 +20006,9 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168752",
       "mea:41932",
       "pib:2333782",
-      "site:WTO|https://www.wto.org/english/news_e/news26_e/safe_eec_06nov26_542_e.htm"
+      "site:WTO|https://www.wto.org/english/news_e/news26_e/safe_eec_06nov26_542_e.htm",
+      "pib:2333799",
+      "pib:2333803"
     ],
     "source_failures": {},
     "sources": [
@@ -20077,14 +20069,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793304120458",
-    "1793329635421",
-    "1793329983702",
-    "1793335252407",
-    "1793339082228",
-    "1793339626439",
-    "1793340658668",
-    "1793343374932",
     "1793346579129",
     "1793354348064",
     "1793273717671",
@@ -24552,7 +24536,6 @@
     "1793897123648",
     "1793953395168",
     "1793954115281",
-    "1793956690688",
     "1793962434882",
     "1793963844594",
     "1793967478149",
@@ -24564,7 +24547,6 @@
     "1793967343219",
     "1793968642702",
     "1793970777063",
-    "1793971813315",
     "1793890922187",
     "1793891640229",
     "1793925000442",
@@ -24575,6 +24557,14 @@
     "1793970132920",
     "1793970182828",
     "1793970523898",
+    "1793892392328",
+    "1793936736020",
+    "1793943271112",
+    "1793946650858",
+    "1793951679292",
+    "1793962500871",
+    "1793964300105",
+    "1793971813507",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25836,7 +25826,6 @@
     "1793887547146",
     "1793888285038",
     "1793890845645",
-    "1793892392328",
     "1793893036355",
     "1793894127467",
     "1793894400412",
@@ -25894,7 +25883,6 @@
     "1793935911272",
     "1793936340540",
     "1793936522900",
-    "1793936736020",
     "1793936919139",
     "1793937000207",
     "1793937253457",
@@ -25918,7 +25906,6 @@
     "1793941945436",
     "1793942048099",
     "1793942760448",
-    "1793943271112",
     "1793943608980",
     "1793943701393",
     "1793943834119",
@@ -25932,7 +25919,6 @@
     "1793945692616",
     "1793946620747",
     "1793946648258",
-    "1793946650858",
     "1793946816649",
     "1793947031230",
     "1793947389158",
@@ -25949,7 +25935,6 @@
     "1793950640234",
     "1793950918431",
     "1793951160613",
-    "1793951679292",
     "1793951700459",
     "1793952503170",
     "1793953030313",
@@ -25965,6 +25950,7 @@
     "1793955206426",
     "1793955770074",
     "1793956075604",
+    "1793956690688",
     "1793956952007",
     "1793957091212",
     "1793957108951",
@@ -25989,7 +25975,6 @@
     "1793962242721",
     "1793962259651",
     "1793962380053",
-    "1793962500871",
     "1793962560355",
     "1793962664301",
     "1793963340077",
@@ -25997,7 +25982,6 @@
     "1793964028392",
     "1793964038143",
     "1793964264001",
-    "1793964300105",
     "1793964341106",
     "1793964668123",
     "1793964848162",
@@ -26033,7 +26017,7 @@
     "1793971550138",
     "1793971743031",
     "1793971744931",
-    "1793971813507",
+    "1793971813315",
     "1793972249968",
     "1793972649063",
     "1793972858883",
@@ -26044,14 +26028,22 @@
     "1793973660266",
     "1793973679513",
     "1793973694631",
+    "1793974222676",
     "1793974560603",
     "1793975397133",
     "1793975704016",
+    "1793976091370",
     "1793976204636",
     "1793976353081",
     "1793976660652",
     "1793977019317",
     "1793977216919",
+    "1793977635987",
+    "1793977680551",
+    "1793977740070",
+    "1793977920871",
+    "1793978076857",
+    "1793978583800",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26078,8 +26070,8 @@
     "2333683",
     "2333716"
   ],
-  "last_digest_hour": "2026-11-06T20",
-  "last_success": "2026-11-06T15:16:06.157509+00:00",
+  "last_digest_hour": "2026-11-06T21",
+  "last_success": "2026-11-06T15:31:39.679123+00:00",
   "national": {
     "alerted": [
       {
@@ -36140,8 +36132,8 @@
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T15:16:57.092309+00:00",
-    "pib_mark": 2333782,
+    "last_run": "2026-11-06T15:32:30.281629+00:00",
+    "pib_mark": 2333803,
     "seen": [
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-gwalior-madhya-pradesh",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-best-wishes-to-indian-contingent-for-asian-para-games-2026",
@@ -39213,44 +39205,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Wipro brings back former Birlasoft CEO Angan Guha to lead Americas 2",
-      "post": {
-        "created_at": "2026-11-06T14:35:04+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1793975704016",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Wipro brings back former Birlasoft CEO Angan Guha to lead Americas 2 business",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSzBXN0NBR3BOUGp4NllmOTZiczFMWHBMcmRkbUkzX09Sc0t5SEJSVEx2aGVsSDFuMmtRNGVVMHFBQ3JGQ3hhZEVQSHNnQTYySHpqcGh4NVlGN3N1eFBOTGd1LUs2VHBmaUtjRVVhemRUcTl2Mk9FLXMxSHg3WEVRUWVzdDBySnNkcHJZemZFLV9mSGhGUnBIYUJGMDFQc05HcU1BN3N3R0tvNVktOGtfNkdWa2hMT0t1aTBBS2dhSFM4dndqd0tDQjF0b0NGSTh2UUFfQV9n0gHbAUFVX3lxTE1VOUJhU0k4MVJrWXJiNXhKWlJubF9WcHpGU1QxWmZYejQ4OUo4NWo1Y0N1d3RzQXNuZmZqbnM4X2xHU0REWUJubkJiN0JLSWhxejlfLTE5cDQ4bS1fWFY1Z05MQWJlX2s0aVIxVXVkczBWRzFGbEt5R1JmY0Fja1RKOEkwR3Jkd2lXMzdvVTdiYWZxOU9hZlF6RDF2Uzk2UmFiYUZuQTd0T0NWV1ZxaVJQNUlJU3lIVEpZRTR1eHU2UTdCdVRCZi0zTG1ibHZnSnZXYXJjbjY1NWtVTQ?oc=5"
-      },
-      "queued_at": "2026-11-06T15:01:45.364445+00:00",
-      "score": 8.0,
-      "why": "Major leadership change at an Indian IT major is a core story for the beat."
-    },
-    {
-      "headline": "TCS and Sastra launch training centre for Japan IT market",
-      "post": {
-        "created_at": "2026-11-06T14:51:00+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1793976660652",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "TCS, Sastra launch centre to train students for Japan\u2019s IT market",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajYtdTlTeV83OFI4ekxDRXducDVsUUZnb2N3MURhNDV4U1FPTVV2a1luTVF3a0lRUXFWR3VldUtNeEdVMC1Ga0gzWWZyc1NtX3FrLTlpYTZxbTc3ZFVPd3BNOUlWOC1BaDNFRXQ4MkFObjJXUXhMTXhFenJTWkJ6WkxmS0hOdFgxT2htZkZCTXZqeTlJUGxMUUw2cHl3WGU1V1JYd0VScDNoOTJOZUpqMGRoVnozcTNhNWk0bmpBN2E2d0J6SVpqaHdqci1PZW5YTkZN0gHYAUFVX3lxTFBKV0xtWE02Z2p3d2lTQ0tBbHNxMXpFYkhKVnNyWmEyUmh0b0RvSnZyLU1KamxsZzFWOUUtQU1TcFpkRElURVMySGtuTk9VRE9zWjZlblhORUV2MXlCVHhfcllRS2JEUDBqMGh0elhwbVluaThIbUNZSzRJQi05TlZIWDBBVzdRZUc2NEw0WVRFUW9YWmF5Vmx3dFZ1UFZoRHRBUFpjZERhSEo0S1h4cXA0R2RlYVRNOXlVR1JfMzZMR01wMVRta3pIVXhHaElodDdmcVpZRFoyNg?oc=5"
-      },
-      "queued_at": "2026-11-06T15:16:06.066654+00:00",
-      "score": 7.0,
-      "why": "It is a new partnership and training initiative by a major Indian IT company."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40415,13 +40370,13 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793976353081,
-    "news: consumer internet india": 1793969150209,
-    "news: global ai": 1793977019317,
-    "news: global chips": 1793977019317,
+    "news: big tech platforms": 1793978583800,
+    "news: consumer internet india": 1793977740070,
+    "news: global ai": 1793977680551,
+    "news: global chips": 1793977920871,
     "news: global it services": 1793962380053,
     "news: india ai deeptech": 1793971813507,
-    "news: india edtech gaming": 1793951700459,
+    "news: india edtech gaming": 1793978076857,
     "news: india fintech": 1793966128319,
     "news: india semiconductors": 1793958629118,
     "news: india tech policy": 1793968488579,
@@ -40474,7 +40429,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T15:16:06.547042+00:00",
+    "last_server_run": "2026-11-06T15:31:40.073002+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T14:32:08.612299+00:00",
@@ -40615,10 +40570,10 @@
       "last": {
         "calendar": "2026-11-06T11:46:47.138547+00:00",
         "ls_reports": "2026-11-06T14:02:02.558554+00:00",
-        "rs_committee_press": "2026-11-06T13:32:10.390464+00:00",
-        "rs_press": "2026-11-06T13:32:07.586112+00:00",
-        "rs_reports": "2026-11-06T13:32:04.789141+00:00",
-        "rs_updates": "2026-11-06T13:32:12.110684+00:00"
+        "rs_committee_press": "2026-11-06T15:32:13.938340+00:00",
+        "rs_press": "2026-11-06T15:32:10.842173+00:00",
+        "rs_reports": "2026-11-06T15:32:07.997996+00:00",
+        "rs_updates": "2026-11-06T15:32:15.385793+00:00"
       }
     },
     "scanned": [
@@ -51066,13 +51021,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T15:17:05.833066+00:00",
+    "last_run": "2026-11-06T15:32:43.615710+00:00",
     "seen": [
-      "x:2116417927650107521",
-      "x:2116417946193182953",
-      "x:2116418923814113691",
-      "x:2116419283068781012",
-      "x:2116421395857170440",
       "x:2116422278439465205",
       "x:2116422301239636155",
       "x:2116423090431279220",
@@ -54067,7 +54017,12 @@
       "x:2118721525935448545",
       "x:2118722886102077738",
       "x:2118723354060562890",
-      "x:2118723389615693904"
+      "x:2118723389615693904",
+      "x:2118723515784589618",
+      "x:2118724546392211926",
+      "x:2118726512149147691",
+      "x:2118726630638285127",
+      "x:2118726649894388175"
     ],
     "source_failures": {},
     "sources": []
