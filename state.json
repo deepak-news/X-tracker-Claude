@@ -7406,22 +7406,6 @@
     "alerted": [
       {
         "at": "2026-10-21T09:47:26.565084+00:00",
-        "handle": "PIB Ministry of Defence",
-        "headline": "Army Commanders' Conference commences to discuss operational and strategic defense matters",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325911",
-        "words": [
-          "army",
-          "commanders",
-          "commences",
-          "conference",
-          "defence",
-          "ministry",
-          "today"
-        ]
-      },
-      {
-        "at": "2026-10-21T09:47:26.565084+00:00",
         "handle": "MEA press releases",
         "headline": "Shri Chinmoy Naik concurrently accredited as Ambassador and High Commissioner to Caribbean nations",
         "tier": 1,
@@ -16146,6 +16130,29 @@
           "principal",
           "scientific"
         ]
+      },
+      {
+        "at": "2026-11-06T13:47:31.485019+00:00",
+        "handle": "PIB Ministry of Defence",
+        "headline": "IAF signs agreement for indigenous digital secure communication system for airborne applications",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333748",
+        "words": [
+          "agreement",
+          "airborne",
+          "applications",
+          "communication",
+          "defence",
+          "digital",
+          "foundation",
+          "iaf",
+          "iit",
+          "iitm",
+          "indigenous",
+          "madras",
+          "memorandum",
+          "ministry"
+        ]
       }
     ],
     "gazette_mark": 277733,
@@ -17009,13 +17016,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-06T13:32:49.833103+00:00",
-    "pib_mark": 2333744,
+    "last_run": "2026-11-06T13:47:31.486828+00:00",
+    "pib_mark": 2333748,
     "seen": [
-      "gazette:CG-DL-E-16102026-277218",
-      "gazette:CG-MH-E-16102026-277220",
-      "gazette:CG-DL-E-16102026-277219",
-      "gazette:CG-DL-E-16102026-277221",
       "gazette:CG-UP-E-16102026-277227",
       "gazette:CG-DL-E-16102026-277229",
       "gazette:CG-DL-E-17102026-277222",
@@ -19480,6 +19483,7 @@
       "gazette:CG-DL-E-05112026-277707",
       "gazette:SG-DL-E-05112026-277704",
       "gazette:CG-DL-E-05112026-277710",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0",
@@ -19490,7 +19494,6 @@
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63934",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63935",
       "dgft-notification:c60ba995-92dc-4908-bae0-25b2bf4d1956",
@@ -20011,7 +20014,11 @@
       "watch:meeting:LS|22633",
       "pib:2333736",
       "pib:2333744",
-      "pib:2333743"
+      "pib:2333743",
+      "watch:meeting:LS|22634",
+      "pib:2333748",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
+      "watch:meeting:LS|22635"
     ],
     "source_failures": {},
     "sources": [
@@ -20072,11 +20079,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793278515433",
-    "1793344048672",
-    "1793344878258",
-    "1793350680911",
-    "1793356120538",
     "1793186406799",
     "1793186482546",
     "1793271401550",
@@ -24504,7 +24506,6 @@
     "1793952011735",
     "1793953395168",
     "1793955933009",
-    "1793959332920",
     "1793965362113",
     "1793965919325",
     "1793966225932",
@@ -24539,7 +24540,6 @@
     "1793968680653",
     "1793969340968",
     "1793969400736",
-    "1793750400772",
     "1793912996659",
     "1793925000845",
     "1793931119052",
@@ -24549,13 +24549,17 @@
     "1793939366617",
     "1793952000854",
     "1793954115002",
-    "1793957626847",
     "1793957805751",
     "1793961539921",
     "1793965140659",
-    "1793967478149",
-    "1793968680335",
     "1793969961885",
+    "1793886300010",
+    "1793919940329",
+    "1793933558793",
+    "1793958629118",
+    "1793964732920",
+    "1793967478752",
+    "1793971320233",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25757,6 +25761,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25810,7 +25815,6 @@
     "1793882024155",
     "1793883600845",
     "1793885235923",
-    "1793886300010",
     "1793886796109",
     "1793887184694",
     "1793887200108",
@@ -25857,7 +25861,6 @@
     "1793916069765",
     "1793917699730",
     "1793919789872",
-    "1793919940329",
     "1793921412158",
     "1793921967381",
     "1793922060274",
@@ -25886,7 +25889,6 @@
     "1793933087286",
     "1793933100921",
     "1793933237529",
-    "1793933558793",
     "1793934000254",
     "1793934052221",
     "1793934250814",
@@ -25938,6 +25940,7 @@
     "1793946648258",
     "1793946650858",
     "1793946816649",
+    "1793947031230",
     "1793947389158",
     "1793947642883",
     "1793947817040",
@@ -25975,12 +25978,14 @@
     "1793957108951",
     "1793957525895",
     "1793957539315",
+    "1793957545761",
+    "1793957626847",
     "1793957690089",
     "1793957985797",
     "1793958195545",
-    "1793958629118",
     "1793958900335",
     "1793959291454",
+    "1793959332920",
     "1793959399030",
     "1793959417215",
     "1793959489732",
@@ -26010,11 +26015,11 @@
     "1793964341106",
     "1793964668123",
     "1793964714004",
-    "1793964732920",
     "1793964848162",
     "1793965140751",
     "1793965424035",
     "1793965576561",
+    "1793966119869",
     "1793966128319",
     "1793966200791",
     "1793966216856",
@@ -26025,12 +26030,13 @@
     "1793966859927",
     "1793967031599",
     "1793967343219",
-    "1793967478752",
+    "1793967478149",
     "1793967750829",
     "1793967789353",
     "1793968415987",
     "1793968488579",
     "1793968642702",
+    "1793968680335",
     "1793968740213",
     "1793968826544",
     "1793969150209",
@@ -26046,7 +26052,8 @@
     "1793970690288",
     "1793970777063",
     "1793971020961",
-    "1793971320233",
+    "1793971743031",
+    "1793971813315",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26074,7 +26081,7 @@
     "2333716"
   ],
   "last_digest_hour": "2026-11-06T19",
-  "last_success": "2026-11-06T13:31:34.160666+00:00",
+  "last_success": "2026-11-06T13:46:04.465862+00:00",
   "national": {
     "alerted": [
       {
@@ -36135,13 +36142,9 @@
       },
       "warned": "2026-11-05T23:46:46.063021+00:00"
     },
-    "last_run": "2026-11-06T13:32:27.969804+00:00",
-    "pib_mark": 2333744,
+    "last_run": "2026-11-06T13:47:02.646771+00:00",
+    "pib_mark": 2333748,
     "seen": [
-      "gazette:CG-DL-E-17102026-277245",
-      "gazette:CG-WB-E-17102026-277249",
-      "gazette:CG-WB-E-17102026-277248",
-      "gazette:CG-TL-E-17102026-277250",
       "gazette:CG-WB-E-17102026-277251",
       "gazette:CG-MP-E-17102026-277252",
       "gazette:CG-DL-E-17102026-277253",
@@ -38544,6 +38547,7 @@
       "gazette:CG-DL-E-05112026-277709",
       "gazette:SG-DL-E-05112026-277704",
       "gazette:CG-DL-E-05112026-277710",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
       "npci:629",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13742&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
@@ -39014,7 +39018,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-interaction-with-indias-asian-para-games-champions",
       "pib:2333401",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-interacts-with-indian-contingent-that-participated-in-asian-para-games-2026",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
       "pib:2333403",
       "pib:2333404",
       "pib:2333411",
@@ -39137,7 +39140,11 @@
       "page:https://www.cbse.gov.in/cbsenew/documents/Notification_Result_XII_Special Examination_West Asia_06112026.pdf",
       "pib:2333736",
       "pib:2333743",
-      "pib:2333744"
+      "pib:2333744",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
+      "pib:2333748",
+      "watch:meeting:LS|22634",
+      "watch:meeting:LS|22635"
     ],
     "source_failures": {
       "CBI": {
@@ -40373,12 +40380,12 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1793970523898,
+    "news: big tech platforms": 1793971743031,
     "news: consumer internet india": 1793969150209,
     "news: global ai": 1793970777063,
     "news: global chips": 1793970088339,
     "news: global it services": 1793962380053,
-    "news: india ai deeptech": 1793963844876,
+    "news: india ai deeptech": 1793971813315,
     "news: india edtech gaming": 1793951700459,
     "news: india fintech": 1793966128319,
     "news: india semiconductors": 1793958629118,
@@ -40414,9 +40421,7 @@
     "zoho": 1793800451825
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-06T13:31:27.459739+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40434,7 +40439,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-06T13:31:34.652858+00:00",
+    "last_server_run": "2026-11-06T13:46:04.994102+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T12:17:05.277791+00:00",
@@ -42635,7 +42640,9 @@
       "meeting:RS|2319",
       "bulletin:RS|2026-11-06|Bulletin Part-II",
       "meeting:LS|22632",
-      "meeting:LS|22633"
+      "meeting:LS|22633",
+      "meeting:LS|22634",
+      "meeting:LS|22635"
     ]
   },
   "x_test": {
@@ -51024,17 +51031,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-06T13:32:37.501534+00:00",
+    "last_run": "2026-11-06T13:47:09.760077+00:00",
     "seen": [
-      "x:2116391671672025512",
-      "x:2116392392941330476",
-      "x:2116392485874450788",
-      "x:2116393106157269493",
-      "x:2116394092808769919",
-      "x:2116395461477298636",
-      "x:2116397372364456279",
-      "x:2116397461925466390",
-      "x:2116379908117266639",
       "x:2116391402041188638",
       "x:2116399111599747180",
       "x:2116399228104962369",
@@ -54025,7 +54023,16 @@
       "x:2118695917952131178",
       "x:2118696155853074602",
       "x:2118696717688393879",
-      "x:2118696891542348248"
+      "x:2118696891542348248",
+      "x:2118697276642402647",
+      "x:2118697369437155714",
+      "x:2118697410428112983",
+      "x:2118697413804507254",
+      "x:2118697881339302094",
+      "x:2118698809291387193",
+      "x:2118699927081795667",
+      "x:2118700062918484298",
+      "x:2118700736955683083"
     ],
     "source_failures": {},
     "sources": []
