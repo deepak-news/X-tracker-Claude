@@ -16123,7 +16123,7 @@
         ]
       }
     ],
-    "gazette_mark": 277784,
+    "gazette_mark": 277791,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -17025,15 +17025,15 @@
       "CG-DL-E-07112026-277777",
       "CG-DL-E-07112026-277778",
       "CG-DL-E-07112026-277779",
-      "CG-DL-E-07112026-277780"
+      "CG-DL-E-07112026-277780",
+      "CG-DL-E-07112026-277791"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T08:32:30.287864+00:00",
+    "last_run": "2026-11-07T08:47:46.718734+00:00",
     "pib_mark": 2333923,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|METRO VIHAR TEAM BUSTS ILLICIT LIQUOR TRANSPORTATION RACKET, 52 CARTONS OF LIQUOR RECOVERED, VEHICLE SEIZED, ONE ACCUSED ARRESTED.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|PS MAYAPURI ARRESTS CYBER FRAUD ACCUSED FROM KERALA, BANK ACCOUNT LINKED TO SIX COMPLAINTS",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|AATS/DWARKA BUSTS GANJA SUPPLY NETWORK, 54.375 KG GANJA RECOVERED IN THREE PHASE OPERATION, TWO ACCUSED ARRESTED, ABANDONED SCOOTY ALSO SEIZED.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|HABITUAL THIEF ARRESTED BY PS MOTI NAGAR, SEVEN THEFT CASES WORKED OUT.",
@@ -19525,17 +19525,18 @@
       "gazette:CG-DL-E-06112026-277730",
       "gazette:CG-DL-E-06112026-277729",
       "gazette:CG-DL-E-06112026-277734",
-      "gazette:CG-TL-E-06112026-277745",
       "gazette:CG-DL-E-06112026-277740",
       "gazette:CG-DL-E-06112026-277735",
-      "gazette:CG-TL-E-06112026-277741",
-      "gazette:CG-TL-E-06112026-277743",
-      "gazette:CG-TL-E-06112026-277744",
-      "gazette:CG-MH-E-06112026-277742",
       "gazette:CG-DL-E-06112026-277736",
       "gazette:CG-MH-E-06112026-277737",
       "gazette:CG-DL-E-06112026-277738",
       "gazette:CG-DL-E-06112026-277739",
+      "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf",
+      "gazette:CG-TL-E-06112026-277745",
+      "gazette:CG-TL-E-06112026-277741",
+      "gazette:CG-TL-E-06112026-277743",
+      "gazette:CG-TL-E-06112026-277744",
+      "gazette:CG-MH-E-06112026-277742",
       "gazette:CG-DL-E-06112026-277754",
       "gazette:CG-DL-E-06112026-277753",
       "gazette:CG-DL-E-06112026-277751",
@@ -19550,7 +19551,6 @@
       "gazette:CG-TL-E-07112026-277746",
       "gazette:CG-DL-E-07112026-277721",
       "gazette:CG-DL-E-07112026-277722",
-      "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -20032,7 +20032,8 @@
       "pib:2333919",
       "page:https://internal.imd.gov.in/press_release/20261107_pr_5475.pdf",
       "pib:2333922",
-      "pib:2333923"
+      "pib:2333923",
+      "gazette:CG-DL-E-07112026-277791"
     ],
     "source_failures": {},
     "sources": [
@@ -20093,9 +20094,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793385763677",
-    "1793379018324",
-    "1793116800193",
     "1793330400659",
     "1793367201435",
     "1793378700303",
@@ -24567,8 +24565,6 @@
     "1793947932133",
     "1793959869110",
     "1794004503905",
-    "1793004929015",
-    "1793005599965",
     "1793948545587",
     "1793949944058",
     "1793962320764",
@@ -24612,18 +24608,23 @@
     "1793953365704",
     "1793953626309",
     "1793966216856",
-    "1793968488114",
-    "1793975141371",
     "1793981250053",
     "1793982169247",
     "1793983486287",
     "1793988010504",
     "1793988610408",
     "1793991720900",
-    "1794002340396",
-    "1794018806358",
     "1794023177544",
     "1794032122023",
+    "1793954115002",
+    "1793954250927",
+    "1793954700358",
+    "1793954743484",
+    "1793966225932",
+    "1793966588611",
+    "1793967750829",
+    "1793968488579",
+    "1794018837358",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25629,6 +25630,8 @@
     "1792998000432",
     "1792998000688",
     "1793001600557",
+    "1793004929015",
+    "1793005599965",
     "1793008800283",
     "1793019622137",
     "1793020980902",
@@ -25882,10 +25885,6 @@
     "1793949016293",
     "1793949241500",
     "1793952000534",
-    "1793954115002",
-    "1793954250927",
-    "1793954700358",
-    "1793954743484",
     "1793954951506",
     "1793957091212",
     "1793957108951",
@@ -25917,12 +25916,9 @@
     "1793965140751",
     "1793966128319",
     "1793966200791",
-    "1793966225932",
-    "1793966588611",
     "1793966859927",
     "1793967478752",
-    "1793967750829",
-    "1793968488579",
+    "1793968488114",
     "1793969058544",
     "1793969150209",
     "1793969800849",
@@ -25939,6 +25935,7 @@
     "1793974222676",
     "1793974230671",
     "1793974562983",
+    "1793975141371",
     "1793975704016",
     "1793976091370",
     "1793976204636",
@@ -26003,6 +26000,7 @@
     "1794001085937",
     "1794001275516",
     "1794002280194",
+    "1794002340396",
     "1794002400616",
     "1794003840882",
     "1794003900007",
@@ -26025,7 +26023,7 @@
     "1794018080751",
     "1794018548018",
     "1794018593180",
-    "1794018837358",
+    "1794018806358",
     "1794019417915",
     "1794019668883",
     "1794020100498",
@@ -26067,6 +26065,9 @@
     "1794037857292",
     "1794038518721",
     "1794038803440",
+    "1794039919550",
+    "1794040092844",
+    "1794040167427",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26095,7 +26096,7 @@
     "2333903"
   ],
   "last_digest_hour": "2026-11-07T14",
-  "last_success": "2026-11-07T08:31:34.916444+00:00",
+  "last_success": "2026-11-07T08:46:25.351985+00:00",
   "national": {
     "alerted": [
       {
@@ -34618,7 +34619,7 @@
         ]
       }
     ],
-    "gazette_mark": 277784,
+    "gazette_mark": 277791,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -36192,7 +36193,8 @@
       "CG-DL-E-07112026-277777",
       "CG-DL-E-07112026-277778",
       "CG-DL-E-07112026-277779",
-      "CG-DL-E-07112026-277780"
+      "CG-DL-E-07112026-277780",
+      "CG-DL-E-07112026-277791"
     ],
     "health": {
       "down": {
@@ -36202,10 +36204,9 @@
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T08:32:14.142259+00:00",
+    "last_run": "2026-11-07T08:47:18.574962+00:00",
     "pib_mark": 2333923,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|SNATCHER APPREHENDED BY ANTI SNATCHING AND BURGLARY CELL, EAST DISTRICT TWO CASES WORKED OUT WITH RECOVERY OF STOLEN SCOOTY AND SAMSUNG GALAXY S24 ULTRA MOBILE PHONE",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|TWO BIKE BORNE SNATCHERS APPREHENDED BY PS NEW ASHOK NAGAR STAFF SNATCHED MOBILE PHONE AND MOTORCYCLE RECOVERED",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|RAILWAY UNIT PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES AND RECOVERED 2 LAPTOPS, 1 APPLE I PAD, 1 CAMERA ARRESTED 2 ACCUSED PERSONS",
       "site:ICC|https://www.icc-cricket.com/media-releases/zimbabwe-venues-make-progress-as-icc-men-s-cricket-world-cup-2027-preparations-gather-pace",
@@ -38636,17 +38637,18 @@
       "gazette:CG-DL-E-06112026-277730",
       "gazette:CG-DL-E-06112026-277729",
       "gazette:CG-DL-E-06112026-277734",
-      "gazette:CG-TL-E-06112026-277745",
       "gazette:CG-DL-E-06112026-277740",
       "gazette:CG-DL-E-06112026-277735",
-      "gazette:CG-TL-E-06112026-277741",
-      "gazette:CG-TL-E-06112026-277743",
-      "gazette:CG-MH-E-06112026-277742",
-      "gazette:CG-TL-E-06112026-277744",
       "gazette:CG-DL-E-06112026-277736",
       "gazette:CG-MH-E-06112026-277737",
       "gazette:CG-DL-E-06112026-277738",
       "gazette:CG-DL-E-06112026-277739",
+      "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf",
+      "gazette:CG-TL-E-06112026-277745",
+      "gazette:CG-TL-E-06112026-277741",
+      "gazette:CG-TL-E-06112026-277743",
+      "gazette:CG-MH-E-06112026-277742",
+      "gazette:CG-TL-E-06112026-277744",
       "gazette:CG-DL-E-06112026-277751",
       "gazette:CG-DL-E-06112026-277753",
       "gazette:CG-DL-E-06112026-277754",
@@ -38661,7 +38663,6 @@
       "gazette:CG-TL-E-07112026-277746",
       "gazette:CG-DL-E-07112026-277721",
       "gazette:CG-DL-E-07112026-277722",
-      "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -39204,7 +39205,8 @@
       "pib:2333919",
       "page:https://internal.imd.gov.in/press_release/20261107_pr_5475.pdf",
       "pib:2333922",
-      "pib:2333923"
+      "pib:2333923",
+      "gazette:CG-DL-E-07112026-277791"
     ],
     "source_failures": {
       "CBI": {
@@ -39275,7 +39277,44 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Tech Mahindra Asia head shot dead in Faridabad",
+      "post": {
+        "created_at": "2026-11-07T08:25:19+00:00",
+        "handle": "News: Indian IT majors",
+        "id": "1794039919550",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Tribune",
+        "reposts": 0,
+        "text": "Tech Mahindra Asia head shot dead in Faridabad over parking dispute",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHVyYmRWdloydGlicjlJRlVVeDVtY3BuS3FlNDZna0ZyYXlrcHljaEgxSTJmRDV2cGtOVFRsQ3djQkMxTVRUeXBId0dLeWR2RWdjWFlZUFdjSUM2VFBZaDU5QUFhZWhWbHlCczNEM3liN0JhOWdqZ0dYa2thM3FtUzBTN0NlQ1Fkc2ktVEY3ckhLR25kVklXVmxSQzVXUXRfdWQ5Zi1udXh1Q1Z6bEZla0p30gG2AUFVX3lxTE9vdlZ1YjRQbk5qTUhQRHJIeF9lZ3ZvYUZYX3ZGT2xmOE9VTDYzVGJNcWJWUklJcmhFdks0NHoxdnBqellGMXFDSFVVMkpLUXVBajR6OWgtSVlaZ21pbFlhOFduNThwQmpESUMyeWs2b2treU1VZHRSZWhvNnU5WkNNejlMVE1hcDhaYjU1U09LaU5maTBGb0dJTjdoMkR1c2FUSUY5OGhtYjM5ZUF5OVA5aE5ROEpB?oc=5"
+      },
+      "queued_at": "2026-11-07T08:46:25.251470+00:00",
+      "score": 9.0,
+      "why": "The murder of a senior executive at a major IT firm is a high-impact national news story."
+    },
+    {
+      "headline": "Microsoft AI researcher John Langford resigns",
+      "post": {
+        "created_at": "2026-11-07T08:29:27+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1794040167427",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "India Today",
+        "reposts": 0,
+        "text": "Microsoft AI research clash: John Langford quits, declares AI Frontiers over",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUWsyeHZkR2xSNUVObDdpemxvTjRyaFVJN29nTm96NGZSZ2ZsaGJMcldRTUNzcHFTbER1S19CM2szSXN4Y2V6QTlSX003Zjd0UGdwNzZaZ29QN0hIQ2hETUdubThqNUdJSUUzYm1QNk9STjJfTGZiamxLak9CVXNoTFdONlNDRWVNbDNmc2I2TXRnUXJKTkxQYllQcUhscU9iZU14WkVjYTJPNG40R2VQWDE4cC1zM0VPQnhBUFZydDFGTEhxQzdNQ2EyVVVEMTVLRzRkZ05fQljSAd4BQVVfeXFMTmZiZ1E0alpDM28tZWllcmgwbzFmYll3eHhfb1hmbFk5TFVJRFhtR25WU3FpLW5icUFTVE1YWHpIeG13TUlzX1ltWlFzSTIyV2dPM3hoajlfVmpXeFpGaGZkUjBtRzlnMWtmRm9pcC1wT3NmVmMyS1R2LS1reVZDX1FReTNDc2NFRjJxN25HUTczZ053TFh3TnA1bDJUZWlfOWRYbE1LQ1dyNU9EZDlxOXFndEt2dlZrT2hIOGJyRU9OREZRQTlyLUxSQUNweTJzdElmOXlIckRRZDZ6cHNB?oc=5"
+      },
+      "queued_at": "2026-11-07T08:46:25.251470+00:00",
+      "score": 7.0,
+      "why": "Leadership change at a major AI company is a core beat requirement for the IT reporter."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40440,10 +40479,10 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794036720195,
+    "news: big tech platforms": 1794040167427,
     "news: consumer internet india": 1794035192755,
     "news: global ai": 1794038518721,
-    "news: global chips": 1794038803440,
+    "news: global chips": 1794040092844,
     "news: global it services": 1794002280194,
     "news: india ai deeptech": 1794000180816,
     "news: india edtech gaming": 1793978076857,
@@ -40451,7 +40490,7 @@
     "news: india semiconductors": 1794023434110,
     "news: india tech policy": 1794006404380,
     "news: india telecom": 1794030805150,
-    "news: indian it majors": 1794032719045,
+    "news: indian it majors": 1794039919550,
     "news: indian it midcaps": 1794025755272,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1794037512786,
@@ -40501,7 +40540,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T08:31:35.352830+00:00",
+    "last_server_run": "2026-11-07T08:46:25.857821+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-07T08:02:26.632110+00:00",
@@ -41041,6 +41080,7 @@
       "CG-DL-E-07112026-277782",
       "CG-DL-E-07112026-277783",
       "CG-DL-E-07112026-277784",
+      "CG-DL-E-07112026-277791",
       "CG-DL-E-08102026-276919",
       "CG-DL-E-08102026-276920",
       "CG-DL-E-08102026-276921",
@@ -51199,12 +51239,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T08:32:20.578866+00:00",
+    "last_run": "2026-11-07T08:47:31.859132+00:00",
     "seen": [
-      "x:2116533120103301525",
-      "x:2116533831348224077",
-      "x:2116533080387469751",
-      "x:2116534419830067216",
       "x:2116534471134777513",
       "x:2116534672130023610",
       "x:2116534677385437664",
@@ -54200,7 +54236,11 @@
       "x:2118981456559321328",
       "x:2118981579204927679",
       "x:2118981584326107521",
-      "x:2118981883749085237"
+      "x:2118981883749085237",
+      "x:2118984298384576666",
+      "x:2118984301811286345",
+      "x:2118986009803198625",
+      "x:2118986714824032688"
     ],
     "source_failures": {},
     "sources": []
