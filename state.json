@@ -7377,27 +7377,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-10-21T13:47:30.728153+00:00",
-        "handle": "PIB Ministry of Defence",
-        "headline": "India, Brazil and South Africa conclude ninth edition of IBSAMAR maritime exercise",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326117",
-        "words": [
-          "2026",
-          "africa",
-          "brazil",
-          "conclusion",
-          "defence",
-          "edition",
-          "exercise",
-          "ibsamar",
-          "maritime",
-          "ministry",
-          "ninth",
-          "south"
-        ]
-      },
-      {
         "at": "2026-10-21T14:07:58.230816+00:00",
         "handle": "PIB Prime Minister's Office",
         "headline": "Prime Minister congratulates Dilip Gavit on winning gold at Asian Para Games",
@@ -16124,9 +16103,32 @@
           "pharmaceuticals",
           "prices"
         ]
+      },
+      {
+        "at": "2026-11-07T11:07:37.185058+00:00",
+        "handle": "Gazette Ministry of Commerce and Industry",
+        "headline": "Directorate General of Trade Remedies issues final findings on Soda Ash imports",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277795.pdf",
+        "words": [
+          "ash",
+          "commerce",
+          "directorate",
+          "extraordinary",
+          "final",
+          "finding",
+          "gazette",
+          "general",
+          "industry",
+          "issu",
+          "ministry",
+          "part",
+          "remedies",
+          "section"
+        ]
       }
     ],
-    "gazette_mark": 277794,
+    "gazette_mark": 277797,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -17038,17 +17040,17 @@
       "CG-DL-E-07112026-277786",
       "CG-DL-E-07112026-277792",
       "CG-DL-E-07112026-277794",
-      "CG-RJ-E-07112026-277793"
+      "CG-RJ-E-07112026-277793",
+      "CG-DL-E-07112026-277795",
+      "CG-TL-E-07112026-277796",
+      "CG-TL-E-07112026-277797"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T10:47:19.776687+00:00",
+    "last_run": "2026-11-07T11:07:37.206159+00:00",
     "pib_mark": 2333949,
     "seen": [
-      "page:https://internal.imd.gov.in/press_release/20260903_pr_5287.pdf",
-      "pib:2324842",
-      "pib:2324850",
       "pib:2324852",
       "pib:2324872",
       "pib:2324875",
@@ -19543,10 +19545,10 @@
       "gazette:CG-DL-E-06112026-277753",
       "gazette:CG-TL-E-06112026-277755",
       "gazette:CG-AP-E-06112026-277756",
-      "gazette:CG-DL-E-06112026-277761",
-      "gazette:CG-DL-E-06112026-277760",
       "gazette:CG-DL-E-06112026-277759",
       "gazette:CG-TL-E-06112026-277758",
+      "gazette:CG-DL-E-06112026-277761",
+      "gazette:CG-DL-E-06112026-277760",
       "gazette:CG-DL-E-07112026-277747",
       "gazette:CG-DL-E-07112026-277748",
       "gazette:CG-TL-E-07112026-277746",
@@ -20045,7 +20047,10 @@
       "gazette:CG-DL-E-07112026-277794",
       "gazette:CG-DL-E-07112026-277792",
       "gazette:CG-RJ-E-07112026-277793",
-      "pib:2333949"
+      "pib:2333949",
+      "gazette:CG-TL-E-07112026-277796",
+      "gazette:CG-DL-E-07112026-277795",
+      "gazette:CG-TL-E-07112026-277797"
     ],
     "source_failures": {},
     "sources": [
@@ -20106,10 +20111,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793368680193",
-    "1793373874664",
-    "1793376274185",
-    "1793378700166",
     "1793380564023",
     "1793385619433",
     "1793372427284",
@@ -24592,8 +24593,6 @@
     "1793954250927",
     "1793954700358",
     "1793954743484",
-    "1793004929015",
-    "1793005599965",
     "1793954951506",
     "1794002340396",
     "1794019417915",
@@ -24631,7 +24630,6 @@
     "1793987573614",
     "1794001790671",
     "1794045310656",
-    "1793750400772",
     "1793961095975",
     "1793964038143",
     "1793967750829",
@@ -24642,6 +24640,22 @@
     "1793993394753",
     "1794001085937",
     "1794023177544",
+    "1793887184694",
+    "1793887547146",
+    "1793888285038",
+    "1793940522339",
+    "1793948546968",
+    "1793949125962",
+    "1793951428401",
+    "1793962380053",
+    "1793962560355",
+    "1793964028960",
+    "1793966225932",
+    "1793966588611",
+    "1793968330200",
+    "1793991098866",
+    "1793991936281",
+    "1794037857292",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25647,6 +25661,8 @@
     "1792998000432",
     "1792998000688",
     "1793001600557",
+    "1793004929015",
+    "1793005599965",
     "1793008800283",
     "1793019622137",
     "1793020980902",
@@ -25831,6 +25847,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25878,11 +25895,8 @@
     "1793878797622",
     "1793880014180",
     "1793883600845",
-    "1793887184694",
     "1793887200108",
     "1793887234088",
-    "1793887547146",
-    "1793888285038",
     "1793890845645",
     "1793894400412",
     "1793894400632",
@@ -25899,28 +25913,19 @@
     "1793908841642",
     "1793923200277",
     "1793923200697",
-    "1793940522339",
-    "1793948546968",
     "1793949016293",
-    "1793949125962",
     "1793949241500",
-    "1793951428401",
     "1793952000534",
-    "1793962380053",
-    "1793962560355",
     "1793963844876",
-    "1793964028960",
     "1793964264001",
+    "1793964300318",
     "1793964668123",
     "1793964848162",
     "1793965140751",
     "1793966128319",
     "1793966200791",
-    "1793966225932",
-    "1793966588611",
     "1793966859927",
     "1793967478752",
-    "1793968330200",
     "1793968488114",
     "1793969058544",
     "1793969150209",
@@ -25984,8 +25989,6 @@
     "1793990253007",
     "1793990615900",
     "1793990660064",
-    "1793991098866",
-    "1793991936281",
     "1793991960128",
     "1793992569999",
     "1793993394160",
@@ -26001,6 +26004,7 @@
     "1794000650807",
     "1794001275516",
     "1794001826671",
+    "1794001830447",
     "1794002280194",
     "1794002400616",
     "1794003840882",
@@ -26036,6 +26040,7 @@
     "1794025425714",
     "1794025755272",
     "1794026467147",
+    "1794026509839",
     "1794027070503",
     "1794027478881",
     "1794028499768",
@@ -26062,7 +26067,6 @@
     "1794036720195",
     "1794037512786",
     "1794037642950",
-    "1794037857292",
     "1794038803440",
     "1794039919550",
     "1794040092844",
@@ -26080,6 +26084,7 @@
     "1794045614936",
     "1794045640871",
     "1794046920193",
+    "1794049080905",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26108,7 +26113,7 @@
     "2333903"
   ],
   "last_digest_hour": "2026-11-07T16",
-  "last_success": "2026-11-07T10:46:12.406252+00:00",
+  "last_success": "2026-11-07T11:03:29.053641+00:00",
   "national": {
     "alerted": [
       {
@@ -34631,7 +34636,7 @@
         ]
       }
     ],
-    "gazette_mark": 277794,
+    "gazette_mark": 277797,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -36215,22 +36220,23 @@
       "CG-DL-E-07112026-277786",
       "CG-DL-E-07112026-277792",
       "CG-DL-E-07112026-277794",
-      "CG-RJ-E-07112026-277793"
+      "CG-RJ-E-07112026-277793",
+      "CG-DL-E-07112026-277795",
+      "CG-TL-E-07112026-277796",
+      "CG-TL-E-07112026-277797"
     ],
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-07T11:04:50.335071+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T10:47:02.103882+00:00",
+    "last_run": "2026-11-07T11:05:34.854850+00:00",
     "pib_mark": 2333949,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|01 OVERSTAYING IVORY COAST NATIONAL APPREHENDED AND SENT TO DETENTION CENTER BY THE TEAM OF PS BINDAPUR, DWARKA DISTRICT",
-      "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|WOMAN ACCUSED EVADING TRIAL IN A DELHI EXCISE ACT CASE, TURNED PROCLAIMED OFFENDER, ARRESTED BY THE TEAM OF ANTI BURGLARY CELL, DWARKA DISTRICT.",
-      "site:ICC|https://www.icc-cricket.com/media-releases/bangladesh-fined-for-slow-over-rate-in-first-uae-tri-series-odi",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168620",
       "watch:bulletin:LS|2026-10-19|Bulletin-II",
       "watch:meeting:LS|22573",
@@ -38664,10 +38670,11 @@
       "gazette:CG-DL-E-06112026-277754",
       "gazette:CG-TL-E-06112026-277755",
       "gazette:CG-AP-E-06112026-277756",
-      "gazette:CG-DL-E-06112026-277760",
-      "gazette:CG-DL-E-06112026-277761",
       "gazette:CG-DL-E-06112026-277759",
       "gazette:CG-TL-E-06112026-277758",
+      "npci:629",
+      "gazette:CG-DL-E-06112026-277760",
+      "gazette:CG-DL-E-06112026-277761",
       "gazette:CG-DL-E-07112026-277748",
       "gazette:CG-DL-E-07112026-277747",
       "gazette:CG-TL-E-07112026-277746",
@@ -38683,7 +38690,6 @@
       "gazette:CG-DL-E-07112026-277767",
       "gazette:CG-DL-E-07112026-277762",
       "gazette:CG-DL-E-07112026-277750",
-      "npci:629",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -39227,12 +39233,18 @@
       "gazette:CG-DL-E-07112026-277792",
       "gazette:CG-DL-E-07112026-277794",
       "gazette:CG-RJ-E-07112026-277793",
-      "pib:2333949"
+      "pib:2333949",
+      "gazette:CG-DL-E-07112026-277795",
+      "gazette:CG-TL-E-07112026-277796",
+      "gazette:CG-TL-E-07112026-277797"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -40466,10 +40478,10 @@
     "news: big tech platforms": 1794045614936,
     "news: consumer internet india": 1794040974690,
     "news: global ai": 1794043918721,
-    "news: global chips": 1794045640871,
+    "news: global chips": 1794049080905,
     "news: global it services": 1794002280194,
     "news: india ai deeptech": 1794043355205,
-    "news: india edtech gaming": 1793978076857,
+    "news: india edtech gaming": 1794001830447,
     "news: india fintech": 1794043355205,
     "news: india semiconductors": 1794023434110,
     "news: india tech policy": 1794006404380,
@@ -40505,7 +40517,7 @@
   },
   "source_health": {
     "down": {
-      "REG NPCI": "2026-11-07T10:46:10.696006+00:00"
+      "HCLTech": "2026-11-07T11:01:44.765312+00:00"
     }
   },
   "watch": {
@@ -40524,7 +40536,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T10:46:12.938354+00:00",
+    "last_server_run": "2026-11-07T11:03:29.347144+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-07T10:17:20.189123+00:00",
@@ -40664,11 +40676,11 @@
       },
       "last": {
         "calendar": "2026-11-07T06:16:20.377620+00:00",
-        "ls_reports": "2026-11-07T09:02:36.897548+00:00",
-        "rs_committee_press": "2026-11-07T09:02:46.151037+00:00",
-        "rs_press": "2026-11-07T09:02:43.471881+00:00",
-        "rs_reports": "2026-11-07T09:02:40.486001+00:00",
-        "rs_updates": "2026-11-07T09:02:47.462240+00:00"
+        "ls_reports": "2026-11-07T11:04:01.676108+00:00",
+        "rs_committee_press": "2026-11-07T11:04:10.640176+00:00",
+        "rs_press": "2026-11-07T11:04:07.839348+00:00",
+        "rs_reports": "2026-11-07T11:04:04.913640+00:00",
+        "rs_updates": "2026-11-07T11:04:12.162565+00:00"
       }
     },
     "scanned": [
@@ -41072,6 +41084,7 @@
       "CG-DL-E-07112026-277791",
       "CG-DL-E-07112026-277792",
       "CG-DL-E-07112026-277794",
+      "CG-DL-E-07112026-277795",
       "CG-DL-E-08102026-276919",
       "CG-DL-E-08102026-276920",
       "CG-DL-E-08102026-276921",
@@ -42036,6 +42049,8 @@
       "CG-TL-E-07102026-276892",
       "CG-TL-E-07102026-276894",
       "CG-TL-E-07112026-277746",
+      "CG-TL-E-07112026-277796",
+      "CG-TL-E-07112026-277797",
       "CG-TL-E-09102026-277004",
       "CG-TL-E-09102026-277005",
       "CG-TL-E-12102026-277063",
@@ -51299,19 +51314,51 @@
           "when",
           "yxdtvvr"
         ]
+      },
+      {
+        "at": "2026-11-07T11:05:54.002898+00:00",
+        "headline": "Defence Minister urges forces to boost preparedness against new threats",
+        "url": "https://x.com/SpokespersonMoD/status/2119020288864399573",
+        "words": [
+          "air",
+          "awareness",
+          "called",
+          "counter",
+          "cyber",
+          "d0by2oecbm",
+          "defence",
+          "domain",
+          "emerging",
+          "focus",
+          "force",
+          "forces",
+          "highest",
+          "https",
+          "iaf",
+          "information",
+          "integrity",
+          "interacting",
+          "level",
+          "maintain",
+          "mantri",
+          "personnel",
+          "preparedness",
+          "rajnath",
+          "raksha",
+          "resilience",
+          "sharp",
+          "shri",
+          "singh",
+          "station",
+          "threats",
+          "upon"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T10:47:09.713179+00:00",
+    "last_run": "2026-11-07T11:05:54.003106+00:00",
     "seen": [
-      "x:2116553484015391106",
-      "x:2116553743445717355",
-      "x:2116554055665516631",
-      "x:2116554303884398782",
-      "x:2116554507090071904",
-      "x:2116554870631313870",
-      "x:2116556209465757753",
       "x:2116556523317162316",
       "x:2116556665390866855",
       "x:2116556844596662724",
@@ -54304,7 +54351,14 @@
       "x:2119014499886010847",
       "x:2119015949235806288",
       "x:2119016351700513143",
-      "x:2119016845030424665"
+      "x:2119016845030424665",
+      "x:2119019279001571509",
+      "x:2119020288864399573",
+      "x:2119020531072835685",
+      "x:2119020805669732683",
+      "x:2119021399734165946",
+      "x:2119022054280446161",
+      "x:2119022843589427227"
     ],
     "source_failures": {},
     "sources": []
