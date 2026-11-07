@@ -17061,7 +17061,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T17:46:56.494527+00:00",
+    "last_run": "2026-11-07T18:03:19.115875+00:00",
     "pib_mark": 2334045,
     "seen": [
       "pib:2324975",
@@ -20124,8 +20124,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793330490778",
-    "1793337122320",
     "1793383834098",
     "1793386192767",
     "1793398279881",
@@ -24679,10 +24677,10 @@
     "1793986702793",
     "1793986980456",
     "1793989892923",
-    "1794017164495",
     "1794018837358",
     "1794057110940",
     "1794071776153",
+    "1794040167427",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25971,6 +25969,7 @@
     "1793998809786",
     "1793998814460",
     "1794000180816",
+    "1794000633670",
     "1794000650807",
     "1794001275516",
     "1794001826671",
@@ -25995,6 +25994,7 @@
     "1794016316190",
     "1794016806358",
     "1794017164102",
+    "1794017164495",
     "1794018080751",
     "1794018548990",
     "1794018806358",
@@ -26036,7 +26036,6 @@
     "1794038803440",
     "1794039919550",
     "1794040092844",
-    "1794040167427",
     "1794040974690",
     "1794041131461",
     "1794041651857",
@@ -26098,6 +26097,7 @@
     "1794071776596",
     "1794072522750",
     "1794073081421",
+    "1794073876933",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26126,7 +26126,7 @@
     "2333903"
   ],
   "last_digest_hour": "2026-11-07T23",
-  "last_success": "2026-11-07T17:46:02.289239+00:00",
+  "last_success": "2026-11-07T18:01:53.502785+00:00",
   "national": {
     "alerted": [
       {
@@ -36247,7 +36247,7 @@
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T17:46:42.494877+00:00",
+    "last_run": "2026-11-07T18:03:05.531739+00:00",
     "pib_mark": 2334045,
     "seen": [
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-asian-para-games-record",
@@ -39320,7 +39320,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Meta CSO Dave Wehner joins AI startup Fireworks as CFO",
+      "post": {
+        "created_at": "2026-11-07T17:51:16+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1794073876933",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "CNBC",
+        "reposts": 0,
+        "text": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Sb1hhMXlCOTNYWFJTOFIzRVZpeEM2MDQtUVpoSnk0ZVNlVWktUHp5d1V3STE1SW9vNkxabXBQQlFXc21ha2RnU3JnZGhGeXI4RUpJaUhuSUdTb2V2djEzR3FzRnJpc0Z0TmpVT1FRSFNabmFqbVE?oc=5"
+      },
+      "queued_at": "2026-11-07T18:01:53.440480+00:00",
+      "score": 7.0,
+      "why": "Significant leadership change involving a major tech executive moving to an AI infrastructure startup."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40484,7 +40503,7 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794073081421,
+    "news: big tech platforms": 1794073876933,
     "news: consumer internet india": 1794056971696,
     "news: global ai": 1794064845602,
     "news: global chips": 1794071375905,
@@ -40543,7 +40562,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T17:46:02.695095+00:00",
+    "last_server_run": "2026-11-07T18:01:53.787040+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-07T16:46:37.566511+00:00",
@@ -51476,11 +51495,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T17:46:49.140279+00:00",
+    "last_run": "2026-11-07T18:03:11.418742+00:00",
     "seen": [
-      "x:2116771151691309181",
-      "x:2116771560208163194",
-      "x:2116774080330547603",
       "x:2116775318916915387",
       "x:2116775543001743478",
       "x:2116775693963157681",
@@ -54477,7 +54493,10 @@
       "x:2119119782939406714",
       "x:2119120850087817681",
       "x:2119121910806237379",
-      "x:2119123477160759596"
+      "x:2119123477160759596",
+      "x:2119125113304142317",
+      "x:2119125407492649171",
+      "x:2119126811699540275"
     ],
     "source_failures": {},
     "sources": []
