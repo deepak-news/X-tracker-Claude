@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-28T21:16:24.983193+00:00",
-      "handle": "Google",
-      "headline": "Alphabet Q3 2026 revenue grows 25% with cloud up 103%",
-      "tier": 1,
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
-      "words": [
-        "2026",
-        "alphabet",
-        "article",
-        "call",
-        "ceo",
-        "during",
-        "earnings",
-        "google",
-        "our",
-        "pichai",
-        "read",
-        "recap",
-        "remarks",
-        "sundar"
-      ]
-    },
-    {
       "at": "2026-10-28T21:31:26.826651+00:00",
       "handle": "Google",
       "headline": "Google expands AI Mode ads to India and nine other markets",
@@ -7374,6 +7351,24 @@
         "join",
         "negotiations",
         "programme"
+      ]
+    },
+    {
+      "at": "2026-11-07T06:31:37.961410+00:00",
+      "handle": "News: India telecom",
+      "headline": "BSNL plans inter-circle roaming pact with Vodafone Idea",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRHNQdjlCY1pDb0J6d3BoNFNFbDFhYjlzaFRCbHdpUHRLQWRYOE50Q3N5ZTRXZ0dIbjR2YW5JdVlROHdya0hEcm9zU1FnTVhCUW43TjhUNmkwZnZ0YUhJdHlTT2EwTW1Kd09PYU44MXNkT3RlcUhfUWg5eXlWYnNNQWNucUFVVUdTX2xtWDhYSk1lOHk5M09MVWNRemx1RjQ3TFRydXlHTGhNRjlGREs5SzA5Z29BYlJhTXFsYVZOXy10VF9ZUmxZWDBmM291eENpQnVRMmpR0gHcAUFVX3lxTE40cVNldWx0bndtbE9YTFN5UVZkNlB3Y2pMTGVNbXFwWXVFaklWUjhfQkVLTkcwOHNldFQ4S3JUUTI0MFo0MThCdFJGb2pYSTVtM1Fic2I4WVNQdV9IZlFoMFlqeGd6RHJlUmxONFB3TmxrZGFJSlJZYVM4aVI4dG5UdUtfM0RoakRXeGJMd1VDc2R6aE9GbWNGb2ZabXZ1SGpXNlhHTkw0Vmc0Uzd5ZlhpdjhnMWtSRnB2TVk2T1JzOHh2TUV0bU5mYWVFYUxubjA1ZldEcGoxRjFBcm0?oc=5",
+      "words": [
+        "bsnl",
+        "circle",
+        "circles",
+        "idea",
+        "inter",
+        "pact",
+        "plans",
+        "roaming",
+        "vodafone"
       ]
     }
   ],
@@ -17033,10 +17028,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T06:17:17.065785+00:00",
-    "pib_mark": 2333903,
+    "last_run": "2026-11-07T06:33:11.556506+00:00",
+    "pib_mark": 2333905,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|CENTRAL DISTRICT TIGHTENS NOOSE AROUND ILLEGAL ACTIVITIES AT SPAS, JOINT CRACKDOWN BY PS NABI KARIM AND PS PAHARGANJ.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|SPECIAL STAFF OF OUTER DISTRICT CRACKDOWN ON ILLEGAL TRADE OF DRUGS.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|PS RANI BAGH CRACKDOWN HARD ON ORGANIZED CRIME",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAM OF PS RAJ PARK",
@@ -20035,7 +20029,8 @@
       "gazette:CG-DL-E-07112026-277780",
       "pib:2333903",
       "gazette:CG-DL-E-07112026-277779",
-      "gazette:CG-DL-E-07112026-277778"
+      "gazette:CG-DL-E-07112026-277778",
+      "pib:2333905"
     ],
     "source_failures": {},
     "sources": [
@@ -20096,9 +20091,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793346750289",
-    "1793368243680",
-    "1793370120570",
     "1793376086865",
     "1793378295759",
     "1793301581358",
@@ -24561,7 +24553,6 @@
     "1793966119869",
     "1794001500205",
     "1794007800500",
-    "1794010740260",
     "1794022706306",
     "1793004929015",
     "1793005599965",
@@ -24576,8 +24567,6 @@
     "1793944372537",
     "1793944412104",
     "1793967789353",
-    "1793968488114",
-    "1793975141371",
     "1794018806358",
     "1794023669603",
     "1793945023961",
@@ -24586,13 +24575,31 @@
     "1793973662631",
     "1793985419009",
     "1793988407668",
-    "1793993394753",
     "1794000480105",
     "1794001790671",
     "1794019048761",
     "1794019380626",
     "1794020400900",
     "1794029520703",
+    "1793887184694",
+    "1793887547146",
+    "1793888285038",
+    "1793940522339",
+    "1793946579096",
+    "1793947920974",
+    "1793947979317",
+    "1793948546968",
+    "1793949125962",
+    "1793951428401",
+    "1793959399030",
+    "1793967750829",
+    "1793968330200",
+    "1793968488579",
+    "1793991098866",
+    "1793991936281",
+    "1794010872260",
+    "1794020457900",
+    "1794023434110",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25831,11 +25838,8 @@
     "1793878797622",
     "1793880014180",
     "1793883600845",
-    "1793887184694",
     "1793887200108",
     "1793887234088",
-    "1793887547146",
-    "1793888285038",
     "1793890845645",
     "1793894400412",
     "1793894400632",
@@ -25852,26 +25856,19 @@
     "1793908841642",
     "1793923200277",
     "1793923200697",
-    "1793940522339",
-    "1793946579096",
     "1793946816649",
     "1793947031230",
     "1793947389158",
     "1793947403747",
     "1793947817040",
-    "1793947920974",
     "1793947932133",
-    "1793947979317",
     "1793948545587",
-    "1793948546968",
     "1793949016293",
-    "1793949125962",
     "1793949241500",
     "1793949480277",
     "1793949944058",
     "1793950918431",
     "1793951160613",
-    "1793951428401",
     "1793951679292",
     "1793951700459",
     "1793952000534",
@@ -25902,8 +25899,8 @@
     "1793959200207",
     "1793959200540",
     "1793959291454",
-    "1793959399030",
     "1793959614806",
+    "1793959869110",
     "1793960160850",
     "1793960351570",
     "1793960364910",
@@ -25927,9 +25924,7 @@
     "1793966588611",
     "1793966859927",
     "1793967478752",
-    "1793967750829",
-    "1793968330200",
-    "1793968488579",
+    "1793968488114",
     "1793969058544",
     "1793969150209",
     "1793969800849",
@@ -25945,6 +25940,7 @@
     "1793974230671",
     "1793974560603",
     "1793974562983",
+    "1793975141371",
     "1793975704016",
     "1793976091370",
     "1793976204636",
@@ -25999,11 +25995,10 @@
     "1793990253007",
     "1793990615900",
     "1793990660064",
-    "1793991098866",
     "1793991720900",
-    "1793991936281",
     "1793991960128",
     "1793992569999",
+    "1793993394753",
     "1793994960162",
     "1793996220189",
     "1793996460335",
@@ -26029,7 +26024,7 @@
     "1794007187832",
     "1794008778787",
     "1794009642100",
-    "1794010872260",
+    "1794010740260",
     "1794011400584",
     "1794011400686",
     "1794014226411",
@@ -26044,13 +26039,11 @@
     "1794019417915",
     "1794019668883",
     "1794020100498",
-    "1794020457900",
     "1794021180687",
     "1794022276518",
     "1794022706246",
     "1794022888603",
     "1794023177544",
-    "1794023434110",
     "1794023806242",
     "1794024360345",
     "1794025425714",
@@ -26070,6 +26063,8 @@
     "1794030805150",
     "1794031430114",
     "1794031708024",
+    "1794032122767",
+    "1794032719045",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26097,8 +26092,8 @@
     "2333716",
     "2333903"
   ],
-  "last_digest_hour": "2026-11-07T11",
-  "last_success": "2026-11-07T06:16:03.147836+00:00",
+  "last_digest_hour": "2026-11-07T12",
+  "last_success": "2026-11-07T06:31:38.069459+00:00",
   "national": {
     "alerted": [
       {
@@ -36205,10 +36200,9 @@
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T06:16:55.581412+00:00",
-    "pib_mark": 2333903,
+    "last_run": "2026-11-07T06:32:24.034827+00:00",
+    "pib_mark": 2333905,
     "seen": [
-      "pib:2325320",
       "pib:2325319",
       "site:ICC|https://www.icc-cricket.com/media-releases/icc-launches-media-rights-sales-process-for-bangladesh-afghanistan-nepal-and-south-east-asia",
       "quake:usgs:us6000u3bc",
@@ -39207,7 +39201,8 @@
       "gazette:CG-DL-E-07112026-277780",
       "gazette:CG-DL-E-07112026-277779",
       "gazette:CG-DL-E-07112026-277777",
-      "gazette:CG-DL-E-07112026-277778"
+      "gazette:CG-DL-E-07112026-277778",
+      "pib:2333905"
     ],
     "source_failures": {
       "CBI": {
@@ -39278,26 +39273,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "BSNL plans inter-circle roaming pact with Vodafone Idea",
-      "post": {
-        "created_at": "2026-11-07T05:53:25+00:00",
-        "handle": "News: India telecom",
-        "id": "1794030805150",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "BSNL plans inter-circle roaming pact with Vodafone Idea in 12-13 circles",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRHNQdjlCY1pDb0J6d3BoNFNFbDFhYjlzaFRCbHdpUHRLQWRYOE50Q3N5ZTRXZ0dIbjR2YW5JdVlROHdya0hEcm9zU1FnTVhCUW43TjhUNmkwZnZ0YUhJdHlTT2EwTW1Kd09PYU44MXNkT3RlcUhfUWg5eXlWYnNNQWNucUFVVUdTX2xtWDhYSk1lOHk5M09MVWNRemx1RjQ3TFRydXlHTGhNRjlGREs5SzA5Z29BYlJhTXFsYVZOXy10VF9ZUmxZWDBmM291eENpQnVRMmpR0gHcAUFVX3lxTE40cVNldWx0bndtbE9YTFN5UVZkNlB3Y2pMTGVNbXFwWXVFaklWUjhfQkVLTkcwOHNldFQ4S3JUUTI0MFo0MThCdFJGb2pYSTVtM1Fic2I4WVNQdV9IZlFoMFlqeGd6RHJlUmxONFB3TmxrZGFJSlJZYVM4aVI4dG5UdUtfM0RoakRXeGJMd1VDc2R6aE9GbWNGb2ZabXZ1SGpXNlhHTkw0Vmc0Uzd5ZlhpdjhnMWtSRnB2TVk2T1JzOHh2TUV0bU5mYWVFYUxubjA1ZldEcGoxRjFBcm0?oc=5"
-      },
-      "queued_at": "2026-11-07T06:16:03.046121+00:00",
-      "score": 8.0,
-      "why": "Major telecom partnership between state-run BSNL and private operator Vi in multiple circles."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40473,10 +40449,10 @@
     "news: india semiconductors": 1794023434110,
     "news: india tech policy": 1794006404380,
     "news: india telecom": 1794030805150,
-    "news: indian it majors": 1794025892819,
+    "news: indian it majors": 1794032719045,
     "news: indian it midcaps": 1794025755272,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794029400151,
+    "news: tech leaders": 1794032122767,
     "nvidia": 1793980800839,
     "nvidia blog": 1793980835839,
     "openai": 1793952000534,
@@ -40503,7 +40479,9 @@
     "zoho": 1793800451825
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "HCLTech": "2026-11-07T06:31:32.132035+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40521,7 +40499,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T06:16:03.635788+00:00",
+    "last_server_run": "2026-11-07T06:31:38.619851+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-07T05:47:28.322519+00:00",
@@ -51175,13 +51153,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T06:17:06.162506+00:00",
+    "last_run": "2026-11-07T06:32:30.897795+00:00",
     "seen": [
-      "x:2116519150512463883",
-      "x:2116519764218757520",
-      "x:2116520102204162202",
-      "x:2116520624512446689",
-      "x:2116521175191032150",
       "x:2116521623427944814",
       "x:2116504449330106827",
       "x:2116522770855309422",
@@ -54176,7 +54149,12 @@
       "x:2118948242503111066",
       "x:2118948475996197294",
       "x:2118948774878089301",
-      "x:2118949555559710937"
+      "x:2118949555559710937",
+      "x:2118950010406772949",
+      "x:2118950293400645980",
+      "x:2118953113034101079",
+      "x:2118953488298447217",
+      "x:2118953498847174999"
     ],
     "source_failures": {},
     "sources": []
