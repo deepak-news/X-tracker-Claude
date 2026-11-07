@@ -2,22 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-29T03:31:39.256096+00:00",
-      "handle": "News: India telecom",
-      "headline": "Reliance overtakes Tata Group to become India's biggest conglomerate",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFZGb1lkeW5uUW5PTmRCTnNuRHl5RVk3VFJSSkVrMWVkaWlWWi1wSlNrRjBkZURRYzk5b1lIZ1I1V3k5MjQ5dFVQV2Z6TFF1T0pDdTRnLVNSRnNlWVZVNENVUU01bkpzYzZmQkhVSVp1dEVFdk9QcXpPQlJ5QVNRYWEwRDFCWlJsRFYyNGktMGlQdXB6VzZHTlh6OGxYX3IxZnhMbjlWaWczaGJDUTN6N0FzMWZzMUVOZjlGcDVxczhXVnQtSXFONWtTZ2VFaTVEVjVVd3c4S0PSAd4BQVVfeXFMTThZMlk2VDNwbm1KNUxnNS1WcnkxdzNGbmRSaE1ESTA4SUdGT1AzSWV5cmdNdmpRS2Y1ek05WHljSlZkTlZnYm1hWTJfLWNtZmVOT0Q2OHRkTU1ad2FtYW9NNVIwNUhQMDVRMDh1MlBWcEVRUDZmOXVqcm5jazFtOTFTeXlXU3ZjWTRUMk1GNFZ6cXdTMU5JWXQzOUNKMVZKa1VqUU94VE1iTHY5NjZGLVE2MTdiNUdzSl9GQzMwZWNKZ2xncEk4NTJ6RFZmS21RaW9VcTlvY3lXRW55SzdB?oc=5",
-      "words": [
-        "become",
-        "biggest",
-        "conglomerate",
-        "group",
-        "overtakes",
-        "reliance",
-        "tata"
-      ]
-    },
-    {
-      "at": "2026-10-29T03:31:39.256096+00:00",
       "handle": "News: Indian IT midcaps",
       "headline": "KPIT Technologies reports Q2 net profit down 29%",
       "tier": 0,
@@ -7376,6 +7360,26 @@
         "development",
         "report",
         "researchers"
+      ]
+    },
+    {
+      "at": "2026-11-07T17:31:46.316894+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Indian Army and MeitY debunk fake reports of Chinese incursions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPNjVxSzl0RHB5d09LNHRqUUN1ZS00VURUSmtPeUZrYm5rMy1telFKSDcxN0hfRkl5clJoQkszXzRReGVKUVJZS2IwT1ZCZFpqZFBYVFBaYTE2b2lCTUxvZkNEbGU0U0pfcFBCSmRSUGdwWU1YVDlmcFJ5cEpWQkNBVmMtRVZ3emVsYUJVZW1lLWxUcy0zbnE3VHVxWkEwSURNdVFlY0Rta3Q0ZUhVZnJzZnU1LWxQYzZYTTNockxjNlVOUzhFbkVHTEZmTXBzSkxiV2FYYWhydzAtVTd4LWxjSmhCdFIxSzVTQ2FKcGRCcmFKYW43eWZsMWhhQkhkT0c2SkJ5OXFBRWg3QTdTNUZMWjZ2R19DODVRVDRMb2trb1pMY0U4RGZ0cG8xV19CbnluSTNTLUNR0gG7AkFVX3lxTE03ZWRhcC04eWdVaFVaVmEzbFlmUXVYUjJBNk40S21NVDNzYTZCbnI0TF9IQ1BrS0xiWnU3aUpTRjNobkJQQURxZmRPZDViazJEYTZRLUlENmhxV1VyeVlFc1U0bjlRZzZMUVNwd0ZtYkdZMVJSQ3FXbUdtZXJxZmMzYmJQODNzVlRxeGNPOFpDWUpDdFpqMDlqNGNuSFZraXE5V211ZHdERk1FODR3ME5KRU83cUROY3FTTGxlb1I5RHEyREpkR0pfeUhnZzN5M0cxY29NaXNnaU44S2dvRkNzMkw4VFQ4Zm13a1N0SWdDbGJRQjJpYmdneTN2NjRLVlJWa1NPMXZTcmlZWHR0LWlEeUd5QVI0VHBzR3RCVGRjb2J4Zl9yMjlzRTR3Wm5LNUpWdFowamkzRko3aw?oc=5",
+      "words": [
+        "50km",
+        "army",
+        "arunachal",
+        "chinese",
+        "claims",
+        "debunk",
+        "fake",
+        "incursions",
+        "meity",
+        "reports",
+        "series"
       ]
     }
   ],
@@ -17057,7 +17061,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T17:17:30.067038+00:00",
+    "last_run": "2026-11-07T17:33:04.310670+00:00",
     "pib_mark": 2334045,
     "seen": [
       "pib:2324975",
@@ -20120,7 +20124,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793403107405",
     "1793323800138",
     "1793323832101",
     "1793380459684",
@@ -24671,35 +24674,13 @@
     "1793984111133",
     "1793993394753",
     "1794011400160",
-    "1794017164495",
     "1794017922807",
-    "1794040167427",
     "1794057745236",
-    "2331589",
-    "2331704",
-    "2331803",
-    "2331935",
-    "2331941",
-    "2332312",
-    "2332315",
-    "2332389",
-    "2332534",
-    "2332607",
-    "2332613",
-    "2332944",
-    "2333145",
-    "2333149",
-    "2333152",
-    "2333177",
-    "2333191",
-    "2333193",
-    "2333194",
-    "2333279",
-    "2333541",
-    "2333549",
-    "2333683",
-    "2333716",
-    "2333903",
+    "1793985775507",
+    "1793989018160",
+    "1794023177544",
+    "1794023324097",
+    "1794027070503",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25973,7 +25954,6 @@
     "1793980800223",
     "1793980800839",
     "1793980835839",
-    "1793985775507",
     "1793986268209",
     "1793986383769",
     "1793986702793",
@@ -25981,7 +25961,6 @@
     "1793988058664",
     "1793988686065",
     "1793988768508",
-    "1793989018160",
     "1793989892923",
     "1793990253007",
     "1793990615242",
@@ -26019,6 +25998,7 @@
     "1794016316190",
     "1794016806358",
     "1794017164102",
+    "1794017164495",
     "1794018080751",
     "1794018548990",
     "1794018837358",
@@ -26029,8 +26009,6 @@
     "1794022276518",
     "1794022706246",
     "1794022888603",
-    "1794023177544",
-    "1794023324097",
     "1794023806242",
     "1794023855982",
     "1794024360345",
@@ -26040,7 +26018,6 @@
     "1794025800110",
     "1794026467147",
     "1794026509839",
-    "1794027070503",
     "1794027478881",
     "1794028499768",
     "1794029400151",
@@ -26062,6 +26039,7 @@
     "1794038803440",
     "1794039919550",
     "1794040092844",
+    "1794040167427",
     "1794040974690",
     "1794041131461",
     "1794041651857",
@@ -26119,10 +26097,36 @@
     "1794069619763",
     "1794069840248",
     "1794071375905",
-    "1795996800387"
+    "1794071776153",
+    "1795996800387",
+    "2331589",
+    "2331704",
+    "2331803",
+    "2331935",
+    "2331941",
+    "2332312",
+    "2332315",
+    "2332389",
+    "2332534",
+    "2332607",
+    "2332613",
+    "2332944",
+    "2333145",
+    "2333149",
+    "2333152",
+    "2333177",
+    "2333191",
+    "2333193",
+    "2333194",
+    "2333279",
+    "2333541",
+    "2333549",
+    "2333683",
+    "2333716",
+    "2333903"
   ],
-  "last_digest_hour": "2026-11-07T22",
-  "last_success": "2026-11-07T17:16:36.666466+00:00",
+  "last_digest_hour": "2026-11-07T23",
+  "last_success": "2026-11-07T17:31:46.411971+00:00",
   "national": {
     "alerted": [
       {
@@ -36243,7 +36247,7 @@
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T17:17:17.154277+00:00",
+    "last_run": "2026-11-07T17:32:44.934847+00:00",
     "pib_mark": 2334045,
     "seen": [
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-asian-para-games-record",
@@ -39316,26 +39320,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Indian Army and MeitY debunk fake reports of Chinese incursions",
-      "post": {
-        "created_at": "2026-11-07T16:44:00+00:00",
-        "handle": "News: India tech policy",
-        "id": "1794069840248",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "'Claims of 50km Arunachal incursions by Chinese army fake': Indian Army, MeitY debunk series of reports b",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPNjVxSzl0RHB5d09LNHRqUUN1ZS00VURUSmtPeUZrYm5rMy1telFKSDcxN0hfRkl5clJoQkszXzRReGVKUVJZS2IwT1ZCZFpqZFBYVFBaYTE2b2lCTUxvZkNEbGU0U0pfcFBCSmRSUGdwWU1YVDlmcFJ5cEpWQkNBVmMtRVZ3emVsYUJVZW1lLWxUcy0zbnE3VHVxWkEwSURNdVFlY0Rta3Q0ZUhVZnJzZnU1LWxQYzZYTTNockxjNlVOUzhFbkVHTEZmTXBzSkxiV2FYYWhydzAtVTd4LWxjSmhCdFIxSzVTQ2FKcGRCcmFKYW43eWZsMWhhQkhkT0c2SkJ5OXFBRWg3QTdTNUZMWjZ2R19DODVRVDRMb2trb1pMY0U4RGZ0cG8xV19CbnluSTNTLUNR0gG7AkFVX3lxTE03ZWRhcC04eWdVaFVaVmEzbFlmUXVYUjJBNk40S21NVDNzYTZCbnI0TF9IQ1BrS0xiWnU3aUpTRjNobkJQQURxZmRPZDViazJEYTZRLUlENmhxV1VyeVlFc1U0bjlRZzZMUVNwd0ZtYkdZMVJSQ3FXbUdtZXJxZmMzYmJQODNzVlRxeGNPOFpDWUpDdFpqMDlqNGNuSFZraXE5V211ZHdERk1FODR3ME5KRU83cUROY3FTTGxlb1I5RHEyREpkR0pfeUhnZzN5M0cxY29NaXNnaU44S2dvRkNzMkw4VFQ4Zm13a1N0SWdDbGJRQjJpYmdneTN2NjRLVlJWa1NPMXZTcmlZWHR0LWlEeUd5QVI0VHBzR3RCVGRjb2J4Zl9yMjlzRTR3Wm5LNUpWdFowamkzRko3aw?oc=5"
-      },
-      "queued_at": "2026-11-07T17:01:34.398683+00:00",
-      "score": 7.0,
-      "why": "Official government and military clarification on national security and misinformation is a significant development."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40499,7 +40484,7 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794067932980,
+    "news: big tech platforms": 1794071776153,
     "news: consumer internet india": 1794056971696,
     "news: global ai": 1794057786996,
     "news: global chips": 1794071375905,
@@ -40540,9 +40525,7 @@
     "zoho": 1793973136004
   },
   "source_health": {
-    "down": {
-      "PIB": "2026-11-07T17:16:25.810401+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40560,7 +40543,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T17:16:37.172100+00:00",
+    "last_server_run": "2026-11-07T17:31:46.925925+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-07T16:46:37.566511+00:00",
@@ -40700,11 +40683,11 @@
       },
       "last": {
         "calendar": "2026-11-07T12:16:34.531322+00:00",
-        "ls_reports": "2026-11-07T15:31:58.033193+00:00",
-        "rs_committee_press": "2026-11-07T15:32:07.780070+00:00",
-        "rs_press": "2026-11-07T15:32:04.739344+00:00",
-        "rs_reports": "2026-11-07T15:32:01.813009+00:00",
-        "rs_updates": "2026-11-07T15:32:09.263942+00:00"
+        "ls_reports": "2026-11-07T17:32:18.492097+00:00",
+        "rs_committee_press": "2026-11-07T17:32:28.098727+00:00",
+        "rs_press": "2026-11-07T17:32:24.955939+00:00",
+        "rs_reports": "2026-11-07T17:32:21.889086+00:00",
+        "rs_updates": "2026-11-07T17:32:29.950758+00:00"
       }
     },
     "scanned": [
@@ -51493,10 +51476,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T17:17:20.030835+00:00",
+    "last_run": "2026-11-07T17:32:51.062391+00:00",
     "seen": [
-      "x:2116765931192135815",
-      "x:2116768358624600508",
       "x:2116768620374323226",
       "x:2116769387906744361",
       "x:2116771018220192019",
@@ -54494,7 +54475,9 @@
       "x:2119110844911128578",
       "x:2119112417175367960",
       "x:2119112826136711311",
-      "x:2119115928436944935"
+      "x:2119115928436944935",
+      "x:2119117525233647972",
+      "x:2119119782939406714"
     ],
     "source_failures": {},
     "sources": []
