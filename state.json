@@ -1,29 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-28T21:31:26.826651+00:00",
-      "handle": "Google",
-      "headline": "Google expands AI Mode ads to India and nine other markets",
-      "tier": 1,
-      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
-      "words": [
-        "ads",
-        "article",
-        "canada",
-        "countries",
-        "expand",
-        "expanding",
-        "experience",
-        "google",
-        "improve",
-        "including",
-        "markets",
-        "mode",
-        "relevant",
-        "results"
-      ]
-    },
-    {
       "at": "2026-10-28T21:31:27.801587+00:00",
       "handle": "News: Big tech platforms",
       "headline": "Microsoft reports accelerating cloud growth and increased capital spending",
@@ -7369,6 +7346,28 @@
         "plans",
         "roaming",
         "vodafone"
+      ]
+    },
+    {
+      "at": "2026-11-07T08:31:34.820213+00:00",
+      "handle": "News: Global AI",
+      "headline": "US man sues OpenAI, claims ChatGPT helped wife plan murder",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMDFCUUYyREgtdmluVDhGZllZSVBKMGlsMDMyYWlwbHJRaGFreFZ4a2owZTIteDVJRWNOeTQ5cXhVVmhWcGt1dm0tS043NlFDdVNSb2dKaHZhLUZsLWNuZ29kNTlGRldhSjVzYlBJZ0llS3dLMWlYT0M3aEE0Z1RPQWtWSHlacGJfTzlJRXlvdEpmS1dla2FwaWJHX2ZvdWFnSWN3RGY5dEdMcXV0NFl2eTJta19uM2x2OXVZeWgtblJmRDdpc1BEN2NDNWpWVmNGX3RmSktxYUNqT25WOVVBMkJsY9IB6AFBVV95cUxObnNGXzQwV21zV2NBOWtzNXZaNVRYMHdCbGpQQ3FBVlNlZFhxTGZMX2YxczVrTmhodF9CWVRJdkRBb0JMc2RjeDlEZ21kRVkzV0R6YVgza0R4X0pKbEh1SUhOUllIQkpJUEhhVmtmcnI3ZjRRUTRkVEszdnIwQ3NyVlVJTUJmYzVZOFdYaVVlcDRXREJQS1BnUnNTS2V2YnhZeVl1SjlZd3NoWlh4WTl3VTFiSjhXWHA1ZjFIeUVLdTVYbW9Ia0FSWHFGQ3RIRmxGRmdmNVhuUFgtT2N6OG1LSWI5RUJIZ2Qw?oc=5",
+      "words": [
+        "chamber",
+        "chatgpt",
+        "claims",
+        "craft",
+        "echo",
+        "helped",
+        "him",
+        "kill",
+        "man",
+        "openai",
+        "plan",
+        "sues",
+        "wife"
       ]
     }
   ],
@@ -17031,10 +17030,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T08:19:49.244629+00:00",
-    "pib_mark": 2333922,
+    "last_run": "2026-11-07T08:32:30.287864+00:00",
+    "pib_mark": 2333923,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|PS SHAHBAD DAIRY SOLVES ROBBERY CASE, TWO ACCUSED ARRESTED, 11 MOBILE PHONES AND ILLEGAL KNIFE RECOVERED.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|METRO VIHAR TEAM BUSTS ILLICIT LIQUOR TRANSPORTATION RACKET, 52 CARTONS OF LIQUOR RECOVERED, VEHICLE SEIZED, ONE ACCUSED ARRESTED.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|PS MAYAPURI ARRESTS CYBER FRAUD ACCUSED FROM KERALA, BANK ACCOUNT LINKED TO SIX COMPLAINTS",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|AATS/DWARKA BUSTS GANJA SUPPLY NETWORK, 54.375 KG GANJA RECOVERED IN THREE PHASE OPERATION, TWO ACCUSED ARRESTED, ABANDONED SCOOTY ALSO SEIZED.",
@@ -20033,7 +20031,8 @@
       "pib:2333906",
       "pib:2333919",
       "page:https://internal.imd.gov.in/press_release/20261107_pr_5475.pdf",
-      "pib:2333922"
+      "pib:2333922",
+      "pib:2333923"
     ],
     "source_failures": {},
     "sources": [
@@ -20094,7 +20093,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793372163483",
     "1793385763677",
     "1793379018324",
     "1793116800193",
@@ -24395,7 +24393,6 @@
     "1794002401616",
     "1794002942602",
     "1793924700370",
-    "1793982169421",
     "1793957985797",
     "1793998721516",
     "1793999899832",
@@ -24586,8 +24583,6 @@
     "1794030805150",
     "1793950918431",
     "1793974560603",
-    "1794018837358",
-    "1794032122767",
     "1793887184694",
     "1793887547146",
     "1793888285038",
@@ -24599,21 +24594,36 @@
     "1793951679292",
     "1793951700459",
     "1793952011735",
-    "1793967750829",
     "1793968330200",
-    "1793968488579",
     "1793977740070",
     "1793987946268",
     "1793991098866",
     "1793991936281",
     "1794033049292",
-    "1793750400772",
     "1793952503170",
     "1793952540140",
     "1793955206426",
     "1793993394160",
     "1794006720065",
     "1794033118721",
+    "1793953030313",
+    "1793953206913",
+    "1793953329381",
+    "1793953365704",
+    "1793953626309",
+    "1793966216856",
+    "1793968488114",
+    "1793975141371",
+    "1793981250053",
+    "1793982169247",
+    "1793983486287",
+    "1793988010504",
+    "1793988610408",
+    "1793991720900",
+    "1794002340396",
+    "1794018806358",
+    "1794023177544",
+    "1794032122023",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25803,6 +25813,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25871,11 +25882,6 @@
     "1793949016293",
     "1793949241500",
     "1793952000534",
-    "1793953030313",
-    "1793953206913",
-    "1793953329381",
-    "1793953365704",
-    "1793953626309",
     "1793954115002",
     "1793954250927",
     "1793954700358",
@@ -25911,12 +25917,12 @@
     "1793965140751",
     "1793966128319",
     "1793966200791",
-    "1793966216856",
     "1793966225932",
     "1793966588611",
     "1793966859927",
     "1793967478752",
-    "1793968488114",
+    "1793967750829",
+    "1793968488579",
     "1793969058544",
     "1793969150209",
     "1793969800849",
@@ -25933,7 +25939,6 @@
     "1793974222676",
     "1793974230671",
     "1793974562983",
-    "1793975141371",
     "1793975704016",
     "1793976091370",
     "1793976204636",
@@ -25955,14 +25960,12 @@
     "1793981090924",
     "1793981169595",
     "1793981177063",
-    "1793981250053",
     "1793981646662",
     "1793982167137",
-    "1793982169247",
+    "1793982169421",
     "1793982600771",
     "1793982732751",
     "1793982744610",
-    "1793983486287",
     "1793983705872",
     "1793983905132",
     "1793984111133",
@@ -25976,9 +25979,7 @@
     "1793986980456",
     "1793987573614",
     "1793987820784",
-    "1793988010504",
     "1793988058664",
-    "1793988610408",
     "1793988768508",
     "1793989018160",
     "1793989682106",
@@ -25986,7 +25987,6 @@
     "1793990253007",
     "1793990615900",
     "1793990660064",
-    "1793991720900",
     "1793991960128",
     "1793992569999",
     "1793993394753",
@@ -26003,7 +26003,6 @@
     "1794001085937",
     "1794001275516",
     "1794002280194",
-    "1794002340396",
     "1794002400616",
     "1794003840882",
     "1794003900007",
@@ -26026,7 +26025,7 @@
     "1794018080751",
     "1794018548018",
     "1794018593180",
-    "1794018806358",
+    "1794018837358",
     "1794019417915",
     "1794019668883",
     "1794020100498",
@@ -26034,7 +26033,6 @@
     "1794022276518",
     "1794022706246",
     "1794022888603",
-    "1794023177544",
     "1794023434110",
     "1794023806242",
     "1794024360345",
@@ -26054,7 +26052,7 @@
     "1794030592082",
     "1794031430114",
     "1794031708024",
-    "1794032122023",
+    "1794032122767",
     "1794032661010",
     "1794032719045",
     "1794033765514",
@@ -26068,6 +26066,7 @@
     "1794037512786",
     "1794037857292",
     "1794038518721",
+    "1794038803440",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26095,8 +26094,8 @@
     "2333716",
     "2333903"
   ],
-  "last_digest_hour": "2026-11-07T13",
-  "last_success": "2026-11-07T08:16:56.455916+00:00",
+  "last_digest_hour": "2026-11-07T14",
+  "last_success": "2026-11-07T08:31:34.916444+00:00",
   "national": {
     "alerted": [
       {
@@ -36203,11 +36202,9 @@
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T08:17:52.738799+00:00",
-    "pib_mark": 2333919,
+    "last_run": "2026-11-07T08:32:14.142259+00:00",
+    "pib_mark": 2333923,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|THREE ILLEGAL FIRECRACKERS SUPPLIERS, INCLUDING TWO WOMEN, APPREHENDED BY PS NAND NAGRI 98 KG OF FIRECRACKERS AND A HYUNDAI XCENT CAR RECOVERED",
-      "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|CYBER ROHINI CRACKS RS 30,686 CREDIT CARD FRAUD",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|SNATCHER APPREHENDED BY ANTI SNATCHING AND BURGLARY CELL, EAST DISTRICT TWO CASES WORKED OUT WITH RECOVERY OF STOLEN SCOOTY AND SAMSUNG GALAXY S24 ULTRA MOBILE PHONE",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|TWO BIKE BORNE SNATCHERS APPREHENDED BY PS NEW ASHOK NAGAR STAFF SNATCHED MOBILE PHONE AND MOTORCYCLE RECOVERED",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|RAILWAY UNIT PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES AND RECOVERED 2 LAPTOPS, 1 APPLE I PAD, 1 CAMERA ARRESTED 2 ACCUSED PERSONS",
@@ -39205,7 +39202,9 @@
       "pib:2333905",
       "pib:2333906",
       "pib:2333919",
-      "page:https://internal.imd.gov.in/press_release/20261107_pr_5475.pdf"
+      "page:https://internal.imd.gov.in/press_release/20261107_pr_5475.pdf",
+      "pib:2333922",
+      "pib:2333923"
     ],
     "source_failures": {
       "CBI": {
@@ -39276,26 +39275,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "US man sues OpenAI, claims ChatGPT helped wife plan murder",
-      "post": {
-        "created_at": "2026-11-07T05:44:58+00:00",
-        "handle": "News: Global AI",
-        "id": "1794030298642",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Mint",
-        "reposts": 0,
-        "text": "\u2018An echo chamber\u2019: US man sues OpenAI, claims ChatGPT helped wife craft plan on how to kill him",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMDFCUUYyREgtdmluVDhGZllZSVBKMGlsMDMyYWlwbHJRaGFreFZ4a2owZTIteDVJRWNOeTQ5cXhVVmhWcGt1dm0tS043NlFDdVNSb2dKaHZhLUZsLWNuZ29kNTlGRldhSjVzYlBJZ0llS3dLMWlYT0M3aEE0Z1RPQWtWSHlacGJfTzlJRXlvdEpmS1dla2FwaWJHX2ZvdWFnSWN3RGY5dEdMcXV0NFl2eTJta19uM2x2OXVZeWgtblJmRDdpc1BEN2NDNWpWVmNGX3RmSktxYUNqT25WOVVBMkJsY9IB6AFBVV95cUxObnNGXzQwV21zV2NBOWtzNXZaNVRYMHdCbGpQQ3FBVlNlZFhxTGZMX2YxczVrTmhodF9CWVRJdkRBb0JMc2RjeDlEZ21kRVkzV0R6YVgza0R4X0pKbEh1SUhOUllIQkpJUEhhVmtmcnI3ZjRRUTRkVEszdnIwQ3NyVlVJTUJmYzVZOFdYaVVlcDRXREJQS1BnUnNTS2V2YnhZeVl1SjlZd3NoWlh4WTl3VTFiSjhXWHA1ZjFIeUVLdTVYbW9Ia0FSWHFGQ3RIRmxGRmdmNVhuUFgtT2N6OG1LSWI5RUJIZ2Qw?oc=5"
-      },
-      "queued_at": "2026-11-07T08:16:56.373066+00:00",
-      "score": 7.0,
-      "why": "A lawsuit against OpenAI alleges that ChatGPT provided instructions for a murder, raising significant safety and ethical concerns about AI capabilities."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40463,7 +40443,7 @@
     "news: big tech platforms": 1794036720195,
     "news: consumer internet india": 1794035192755,
     "news: global ai": 1794038518721,
-    "news: global chips": 1794037512786,
+    "news: global chips": 1794038803440,
     "news: global it services": 1794002280194,
     "news: india ai deeptech": 1794000180816,
     "news: india edtech gaming": 1793978076857,
@@ -40502,8 +40482,7 @@
   },
   "source_health": {
     "down": {
-      "HCLTech": "2026-11-07T08:01:44.489124+00:00",
-      "REG NPCI": "2026-11-07T08:16:37.665215+00:00"
+      "HCLTech": "2026-11-07T08:01:44.489124+00:00"
     }
   },
   "watch": {
@@ -40522,7 +40501,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T08:16:56.840849+00:00",
+    "last_server_run": "2026-11-07T08:31:35.352830+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-07T08:02:26.632110+00:00",
@@ -51220,12 +51199,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T08:19:19.713497+00:00",
+    "last_run": "2026-11-07T08:32:20.578866+00:00",
     "seen": [
-      "x:2116531651765522769",
-      "x:2116531752982532465",
-      "x:2116531908272386233",
-      "x:2116532498763247843",
       "x:2116533120103301525",
       "x:2116533831348224077",
       "x:2116533080387469751",
@@ -54221,7 +54196,11 @@
       "x:2118978790818980158",
       "x:2118978805700456710",
       "x:2118979525090701679",
-      "x:2118979783170408538"
+      "x:2118979783170408538",
+      "x:2118981456559321328",
+      "x:2118981579204927679",
+      "x:2118981584326107521",
+      "x:2118981883749085237"
     ],
     "source_failures": {},
     "sources": []
