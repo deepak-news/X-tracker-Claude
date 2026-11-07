@@ -17049,13 +17049,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T12:02:30.894926+00:00",
-    "pib_mark": 2333949,
+    "last_run": "2026-11-07T12:17:45.872672+00:00",
+    "pib_mark": 2333965,
     "seen": [
-      "pib:2324872",
-      "pib:2324875",
-      "pib:2324891",
-      "pib:2324914",
       "pib:2324916",
       "pib:2324922",
       "pib:2324937",
@@ -19568,6 +19564,8 @@
       "gazette:CG-DL-E-07112026-277775",
       "gazette:CG-DL-E-07112026-277777",
       "gazette:CG-DL-E-07112026-277778",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-truth-knowledge-and-virtuous-conduct",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-expansion-of-indias-metro-network-from-248-km-in-2014-to-nearly-1200-km-today",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/honble-cm-sri-a-revanth-reddy-participated-in-raksha-expo-2026-curtain-raiser-at-falaknuma-palace-hyderabad/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/%e0%b0%a4%e0%b1%81%e0%b0%ae%e0%b1%8d%e0%b0%ae%e0%b0%bf%e0%b0%a1%e0%b0%bf%e0%b0%b9%e0%b1%86%e0%b0%9f%e0%b1%8d%e0%b0%9f%e0%b0%bf-%e0%b0%a8%e0%b1%80%e0%b0%9f%e0%b0%bf%e0%b0%aa%e0%b0%be%e0%b0%b0%e0%b1%81/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/honble-cm-sri-a-revanth-reddy-invited-honble-maharashtra-cm-sri-devendra-fadnavis-to-participate-in-the-invest-telangana-global-summit/",
@@ -19959,12 +19957,10 @@
       "certin:CIAD-2026-0058",
       "page:https://internal.imd.gov.in/press_release/20261104_pr_5468.pdf",
       "mea:41929",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-truth-knowledge-and-virtuous-conduct",
       "page:https://internal.imd.gov.in/press_release/20261105_pr_5469.pdf",
       "feed:http://www.niti.gov.in/node/2451",
       "feed:http://www.niti.gov.in/node/2452",
       "feed:http://www.niti.gov.in/node/2453",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-expansion-of-indias-metro-network-from-248-km-in-2014-to-nearly-1200-km-today",
       "mea:41930",
       "page:https://internal.imd.gov.in/press_release/20261105_pr_5470.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-interaction-with-indias-asian-para-games-champions",
@@ -20051,7 +20047,11 @@
       "gazette:CG-TL-E-07112026-277796",
       "gazette:CG-DL-E-07112026-277795",
       "gazette:CG-TL-E-07112026-277797",
-      "gazette:CG-DL-E-07112026-277799"
+      "gazette:CG-DL-E-07112026-277799",
+      "pib:2333965",
+      "pib:2333964",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-vice-president-thiru-c-p-radhakrishnan-exchanges-diwali-greetings",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-diwali-greetings-to-citizens-says-festival-symbolises-resolve-against-darkness"
     ],
     "source_failures": {},
     "sources": [
@@ -20112,8 +20112,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793385875135",
-    "1793323809101",
     "1793337872068",
     "1793348700353",
     "1793376780742",
@@ -24607,7 +24605,6 @@
     "1793959614806",
     "1793974230671",
     "1793984728933",
-    "1793989682106",
     "1794030805150",
     "1793960160850",
     "1793960351570",
@@ -24646,11 +24643,16 @@
     "1794048578012",
     "1793966128319",
     "1793966200791",
-    "1793967750829",
-    "1793968488579",
     "1794018806358",
     "1794030507412",
     "1794030592082",
+    "1793750400772",
+    "1793966859927",
+    "1793968488114",
+    "1793975141371",
+    "1793987820784",
+    "1793994120529",
+    "1793994960162",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25840,7 +25842,6 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
-    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25919,10 +25920,10 @@
     "1793964668123",
     "1793966225932",
     "1793966588611",
-    "1793966859927",
     "1793967478752",
+    "1793967750829",
     "1793968330200",
-    "1793968488114",
+    "1793968488579",
     "1793969058544",
     "1793969150209",
     "1793969800849",
@@ -25936,7 +25937,6 @@
     "1793973660266",
     "1793974222676",
     "1793974562983",
-    "1793975141371",
     "1793975704016",
     "1793976091370",
     "1793976204636",
@@ -25975,10 +25975,10 @@
     "1793986383769",
     "1793986702793",
     "1793986980456",
-    "1793987820784",
     "1793988058664",
     "1793988768508",
     "1793989018160",
+    "1793989682106",
     "1793989892969",
     "1793990253007",
     "1793990615900",
@@ -25988,8 +25988,6 @@
     "1793991960128",
     "1793992569999",
     "1793993394753",
-    "1793994120529",
-    "1793994960162",
     "1793996220189",
     "1793996460335",
     "1793998051871",
@@ -26086,6 +26084,8 @@
     "1794050460382",
     "1794050700122",
     "1794051319001",
+    "1794052831346",
+    "1794052832884",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26114,7 +26114,7 @@
     "2333903"
   ],
   "last_digest_hour": "2026-11-07T17",
-  "last_success": "2026-11-07T12:01:32.813778+00:00",
+  "last_success": "2026-11-07T12:16:17.821171+00:00",
   "national": {
     "alerted": [
       {
@@ -36235,13 +36235,9 @@
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T12:02:13.131984+00:00",
-    "pib_mark": 2333949,
+    "last_run": "2026-11-07T12:17:07.396297+00:00",
+    "pib_mark": 2333965,
     "seen": [
-      "watch:bulletin:LS|2026-10-19|Bulletin-II",
-      "watch:meeting:LS|22573",
-      "watch:meeting:LS|22572",
-      "watch:bulletin:RS|2026-10-19|Bulletin Part-II",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|PS HARI NAGAR ARRESTS WOMAN ACCUSED IN BURGLARY SIX THEFT BURGLARY CASES WORKED OUT",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|AUTO LIFTER ARRESTED BY PP TILAK VIHAR TWO STOLEN TWO WHEELERS RECOVERED",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|TWO SNATCHING ACCUSED APPREHENDED BY PP MADIPUR FOUR MOBILE PHONES AND ONE MOTORCYCLE RECOVERED",
@@ -38693,6 +38689,8 @@
       "gazette:CG-DL-E-07112026-277775",
       "gazette:CG-DL-E-07112026-277777",
       "gazette:CG-DL-E-07112026-277778",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-truth-knowledge-and-virtuous-conduct",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-expansion-of-indias-metro-network-from-248-km-in-2014-to-nearly-1200-km-today",
       "npci:629",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
@@ -39135,13 +39133,11 @@
       "certin:CIAD-2026-0058",
       "page:https://internal.imd.gov.in/press_release/20261104_pr_5468.pdf",
       "mea:41929",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-truth-knowledge-and-virtuous-conduct",
       "page:https://internal.imd.gov.in/press_release/20261105_pr_5469.pdf",
       "feed:http://www.niti.gov.in/node/2451",
       "feed:http://www.niti.gov.in/node/2453",
       "feed:http://www.niti.gov.in/node/2452",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-sri-krishna-sadar-sammelanam-at-ntr-stadium-hyderabad/",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-highlights-expansion-of-indias-metro-network-from-248-km-in-2014-to-nearly-1200-km-today",
       "page:https://www.cbse.gov.in/cbsenew/documents/Circular_Practical_Examination_Winter_Bound_05112026.pdf",
       "mea:41930",
       "page:https://internal.imd.gov.in/press_release/20261105_pr_5470.pdf",
@@ -39237,7 +39233,11 @@
       "gazette:CG-DL-E-07112026-277795",
       "gazette:CG-TL-E-07112026-277796",
       "gazette:CG-TL-E-07112026-277797",
-      "gazette:CG-DL-E-07112026-277799"
+      "gazette:CG-DL-E-07112026-277799",
+      "pib:2333965",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-diwali-greetings-to-citizens-says-festival-symbolises-resolve-against-darkness",
+      "pib:2333964",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-vice-president-thiru-c-p-radhakrishnan-exchanges-diwali-greetings"
     ],
     "source_failures": {
       "CBI": {
@@ -40473,7 +40473,7 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794050460382,
+    "news: big tech platforms": 1794052832884,
     "news: consumer internet india": 1794040974690,
     "news: global ai": 1794049318721,
     "news: global chips": 1794049080905,
@@ -40514,7 +40514,9 @@
     "zoho": 1793973136004
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-07T12:16:09.653713+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40532,7 +40534,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T12:01:33.336101+00:00",
+    "last_server_run": "2026-11-07T12:16:18.130804+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-07T10:17:20.189123+00:00",
@@ -40661,7 +40663,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-11-07T06:16:17.452354+00:00",
+        "at": "2026-11-07T12:16:31.153680+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -40671,7 +40673,7 @@
         }
       },
       "last": {
-        "calendar": "2026-11-07T06:16:20.377620+00:00",
+        "calendar": "2026-11-07T12:16:34.531322+00:00",
         "ls_reports": "2026-11-07T11:04:01.676108+00:00",
         "rs_committee_press": "2026-11-07T11:04:10.640176+00:00",
         "rs_press": "2026-11-07T11:04:07.839348+00:00",
@@ -51387,20 +51389,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T12:02:21.061629+00:00",
+    "last_run": "2026-11-07T12:17:35.730868+00:00",
     "seen": [
-      "x:2116569577677267145",
-      "x:2116569747496317216",
-      "x:2116571844564467952",
-      "x:2116573033053990965",
-      "x:2116575174296510915",
-      "x:2116576885987791228",
-      "x:2116577187683811407",
-      "x:2116577946135834909",
-      "x:2116578281747071028",
-      "x:2116578333416903124",
-      "x:2116579391597686797",
-      "x:2116579476071125264",
       "x:2116579561706320167",
       "x:2116580889291575517",
       "x:2116582205095100430",
@@ -54388,7 +54378,19 @@
       "x:2119035887837471003",
       "x:2119036212342399287",
       "x:2119036668934037666",
-      "x:2119036703658922200"
+      "x:2119036703658922200",
+      "x:2119036804313891179",
+      "x:2119036814883279321",
+      "x:2119036824459026714",
+      "x:2119036834298970271",
+      "x:2119037148213199044",
+      "x:2119037161823748219",
+      "x:2119037880962322926",
+      "x:2119038042426261586",
+      "x:2119038153877279157",
+      "x:2119038599102640178",
+      "x:2119039139001794834",
+      "x:2119039315611427143"
     ],
     "source_failures": {},
     "sources": []
