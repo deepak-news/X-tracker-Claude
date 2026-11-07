@@ -17067,7 +17067,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T23:32:16.444705+00:00",
+    "last_run": "2026-11-07T23:47:06.654953+00:00",
     "pib_mark": 2334045,
     "seen": [
       "pib:2324975",
@@ -20130,8 +20130,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793383987096",
-    "1793394417286",
     "1793405102143",
     "1793411683405",
     "1793327549230",
@@ -24696,7 +24694,6 @@
     "1794011400160",
     "1794023855982",
     "1794003900007",
-    "1794018806358",
     "1794004503340",
     "1794011400686",
     "1794040167427",
@@ -24705,13 +24702,11 @@
     "1794006404380",
     "1794049530496",
     "1794068794175",
-    "1793750400772",
     "1794007187832",
-    "1794021978778",
-    "1794029520966",
-    "1794029940855",
-    "1794034380591",
     "1794082142602",
+    "1794018593180",
+    "1794018853358",
+    "1794075656602",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25901,6 +25896,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -26001,12 +25997,12 @@
     "1794017923807",
     "1794018080751",
     "1794018548990",
-    "1794018593180",
-    "1794018853358",
+    "1794018806358",
     "1794019201101",
     "1794019668883",
     "1794020100498",
     "1794021180687",
+    "1794021978778",
     "1794022276518",
     "1794022706246",
     "1794022888603",
@@ -26025,7 +26021,9 @@
     "1794029352671",
     "1794029400151",
     "1794029414986",
+    "1794029520966",
     "1794029700367",
+    "1794029940855",
     "1794030298642",
     "1794031430114",
     "1794031708024",
@@ -26034,6 +26032,7 @@
     "1794032719045",
     "1794033765514",
     "1794034095453",
+    "1794034380591",
     "1794035192755",
     "1794035484071",
     "1794037380182",
@@ -26095,7 +26094,6 @@
     "1794073081421",
     "1794073735408",
     "1794073876933",
-    "1794075656602",
     "1794078463554",
     "1794078991908",
     "1794079017414",
@@ -26103,7 +26101,9 @@
     "1794081600743",
     "1794085605542",
     "1794086228306",
+    "1794086561602",
     "1794089242523",
+    "1794090985225",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26132,32 +26132,9 @@
     "2333903"
   ],
   "last_digest_hour": "2026-11-08T05",
-  "last_success": "2026-11-07T23:31:23.635932+00:00",
+  "last_success": "2026-11-07T23:46:05.269585+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-02T06:20:57.581428+00:00",
-        "handle": "RBI notifications",
-        "headline": "RBI removes remittance amount limits for online submission of Form A2",
-        "tier": 1,
-        "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13724&Mode=0",
-        "words": [
-          "2026",
-          "279",
-          "all",
-          "amount",
-          "authorised",
-          "circular",
-          "dealers",
-          "dir",
-          "exch",
-          "foreign",
-          "form",
-          "limits",
-          "notifications",
-          "october"
-        ]
-      },
       {
         "at": "2026-10-02T16:48:29.041102+00:00",
         "handle": "PIB Ministry of Finance",
@@ -34653,6 +34630,26 @@
           "pharmaceuticals",
           "prices"
         ]
+      },
+      {
+        "at": "2026-11-07T23:46:52.819893+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.9 earthquake -- central Mid-Atlantic Ridge.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun",
+        "words": [
+          "atlantic",
+          "central",
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "mid",
+          "nov",
+          "reported",
+          "ridge",
+          "usgs"
+        ]
       }
     ],
     "gazette_mark": 277799,
@@ -36253,10 +36250,9 @@
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T23:32:06.489864+00:00",
+    "last_run": "2026-11-07T23:46:52.821357+00:00",
     "pib_mark": 2334045,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-asian-para-games-record",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168622",
       "page:https://www.pmindia.gov.in/en/news_updates/chief-minister-of-gujarat-meets-pm-3",
       "quake:usgs:us6000u3ge",
@@ -39255,7 +39251,8 @@
       "gazette:CG-TL-E-07112026-277797",
       "gazette:CG-DL-E-07112026-277799",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-diwali-greetings-to-citizens-says-festival-symbolises-resolve-against-darkness",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-vice-president-thiru-c-p-radhakrishnan-exchanges-diwali-greetings"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-vice-president-thiru-c-p-radhakrishnan-exchanges-diwali-greetings",
+      "quake:usgs:us7000twun"
     ],
     "source_failures": {
       "CBI": {
@@ -40490,9 +40487,9 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794089242523,
+    "news: big tech platforms": 1794090985225,
     "news: consumer internet india": 1794059071626,
-    "news: global ai": 1794082142602,
+    "news: global ai": 1794086561602,
     "news: global chips": 1794086228306,
     "news: global it services": 1794002280194,
     "news: india ai deeptech": 1794049530496,
@@ -40531,9 +40528,7 @@
     "zoho": 1793973136004
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-07T23:31:21.961878+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40551,7 +40546,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T23:31:23.955038+00:00",
+    "last_server_run": "2026-11-07T23:46:05.783246+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-07T23:02:38.154583+00:00",
@@ -51484,7 +51479,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T23:32:09.564552+00:00",
+    "last_run": "2026-11-07T23:46:56.073559+00:00",
     "seen": [
       "x:2116777978382426471",
       "x:2116778295194943923",
