@@ -2,25 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-28T20:31:25.277871+00:00",
-      "handle": "News: India edtech gaming",
-      "headline": "Info Edge reports 12.6% growth in recruitment billings with AI products",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPaFJ5NkFjQlBnVFJNd2xkMjJHazBqNmZkdkVobno0SWNJUC0xT2dZVzI2dmVUZzdZc01XYnpYU3VJN2ZSTnE1NHJWUy1GWjNaWEc1Y2dPTWkwWGdBM3Fyb0MweTViZ0xJV0FtQzBMcWpVcnJZYlBTOUZKblRnWVh0UFpxb0RhNVlUWVdxNzhnX1ZlZ0psSnkyNThQdWlDY0U2X3EwMHFPRmktb1gwMVlwWU55VERzdl8tNnpBbWFOcTBhZFVQeFJVMjZ6ZmotMllWYU8ycFJEeW0za2ViR2tpWW43alV5UVFBMmp5b0JwcThmR1FQR0NvNVNoeVQ4eWpxU2cxUFlPd3A1dENDcHVlWWtzVFpKMVo0TDU3T0p2ZE43U0pQT013akIzSHBRUlBLNjhfblo5VEM2R2_SAfgBQVVfeXFMTkpMVlFvTGtCaEROUUJIRFhHNlNwLXRGZUJ5MHpRX3pac0FMazJnNzFJTDhiRE9CSXpkNWJMZnpYTE16WllqR3JqRWd6YVhhLURqQnBTa2E2bDI4cEtYQ2F4dFJaUHJDbzVVd1o3SHZLSFBDRWZMaXFpYXBFSXdrQ2NrdjZINk56ZGtrUC1PekNuSEc1VWh6Z3dGdEVjUmdtenBDNDdaQnB1UHkwM0JzUjh5bEpRLWt2Rmd6SWhHajEtb3g3aGh3cGtzX0c3aUNIcG1aOXZoLTFlZnBlejJSM2t1V051UGxUTy1xZE9Qalg3Q3NEX2VORWw?oc=5",
-      "words": [
-        "240",
-        "annualised",
-        "billings",
-        "edge",
-        "generate",
-        "grow",
-        "info",
-        "products",
-        "recruitment",
-        "revenue"
-      ]
-    },
-    {
-      "at": "2026-10-28T20:31:25.277871+00:00",
       "handle": "News: Big tech platforms",
       "headline": "Microsoft reports quarterly cloud sales that beat estimates",
       "tier": 0,
@@ -7377,6 +7358,23 @@
         "portion",
         "trillion",
         "value"
+      ]
+    },
+    {
+      "at": "2026-11-07T00:31:31.209738+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI sued over allegations ChatGPT drafted lethal poisoning plan",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3VlVEd4RWFnTnFSdEQ5bEg1Zl9DSGJZQW5tSHRTTGtBU1NkdFZ3VUxGSmlEQlMxUnRxQjlVa1FaZ0M0YnBNVEVVU2F6b3BHVWZNWU1vSjJTMU9LbWxVdjRGNU9yUFFkS091MU8tMFVVMEdlWkhPa1piZ0RPdlU5RWR6OFVLcXZiUlA1MFRwTl85TXVSY2gwbmxXa0xKdkZSeHFmd0V0dmlhLUZvQWNqaU1sQURaS0hIejhMWk5DT1ZheUZJQjM2WTJzSzlaRjhBZ2fSAdcBQVVfeXFMT1o2UHFuWW10TXlVcjJnVnJndV95MnM1Yi1BOXdQWUxaRkFxaWRUNFhBTGxkVG1ucndGTUE2UHhnTVNrR2lvQzJ6T2NHUUNaYTdZRHI0V0lkZTJsYkhNNTlCNS1VQXhaSTByU0F6eDU3TG5SUjUyWmxjMldlemwzQXp1Y25PWUhvUmdPVFdfUlFQN1VsNEZ2R3pfYlpYU2I4QWhnT3lkdFJBMXFPd0d0a0dKQVFWZUtaN2VhMkFZSXBlQWFkSTBTeG5GV21uRDIyYi1jeS0zZTg?oc=5",
+      "words": [
+        "chatgpt",
+        "claim",
+        "drafted",
+        "lethal",
+        "openai",
+        "plan",
+        "poisoning",
+        "sued"
       ]
     }
   ],
@@ -17027,7 +17025,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T00:17:24.217740+00:00",
+    "last_run": "2026-11-07T00:32:33.094844+00:00",
     "pib_mark": 2333803,
     "seen": [
       "pib:2324835",
@@ -20090,9 +20088,6 @@
     "gemini-3.5-flash-lite": "2026-11-05T07:32:47.753493+00:00"
   },
   "handled": [
-    "1793290920943",
-    "1793292744722",
-    "1793293805446",
     "1793332290024",
     "1793337660740",
     "1793341512296",
@@ -24554,13 +24549,17 @@
     "1794002468616",
     "1793923729096",
     "1793929228063",
-    "1793971550138",
     "1793986292784",
     "1793989927196",
     "1793993394160",
     "1793997135920",
     "1794004003007",
     "1794005984721",
+    "1793990061594",
+    "1793991600376",
+    "1793999700612",
+    "1794000707832",
+    "1794004503905",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25952,6 +25951,7 @@
     "1793970023117",
     "1793970182828",
     "1793971020961",
+    "1793971550138",
     "1793971813507",
     "1793973000561",
     "1793973557911",
@@ -26020,13 +26020,11 @@
     "1793989639114",
     "1793989682106",
     "1793989892969",
-    "1793990061594",
     "1793990240922",
     "1793990253007",
     "1793990615900",
     "1793990660064",
     "1793990842883",
-    "1793991600376",
     "1793991720900",
     "1793992569999",
     "1793993394753",
@@ -26038,13 +26036,11 @@
     "1793998051871",
     "1793998809786",
     "1793998814460",
-    "1793999700612",
     "1794000180816",
     "1794000240477",
     "1794000480105",
     "1794000650807",
     "1794000658616",
-    "1794000707832",
     "1794000745761",
     "1794000840206",
     "1794001085937",
@@ -26057,12 +26053,14 @@
     "1794003069725",
     "1794003505602",
     "1794003840882",
-    "1794004503905",
+    "1794004503340",
     "1794005626350",
     "1794005736552",
     "1794006044202",
     "1794006404380",
     "1794006539721",
+    "1794006720065",
+    "1794007187832",
     "1794008778787",
     "1794009642100",
     "1795996800387",
@@ -26091,8 +26089,8 @@
     "2333683",
     "2333716"
   ],
-  "last_digest_hour": "2026-11-07T05",
-  "last_success": "2026-11-07T00:15:59.797173+00:00",
+  "last_digest_hour": "2026-11-07T06",
+  "last_success": "2026-11-07T00:31:31.275558+00:00",
   "national": {
     "alerted": [
       {
@@ -36188,7 +36186,7 @@
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T00:17:10.947444+00:00",
+    "last_run": "2026-11-07T00:32:23.950048+00:00",
     "pib_mark": 2333803,
     "seen": [
       "pib:2325210",
@@ -40485,7 +40483,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T00:16:00.290046+00:00",
+    "last_server_run": "2026-11-07T00:31:31.571518+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-06T23:16:50.110008+00:00",
@@ -40625,11 +40623,11 @@
       },
       "last": {
         "calendar": "2026-11-07T00:16:14.575307+00:00",
-        "ls_reports": "2026-11-06T22:31:43.672893+00:00",
-        "rs_committee_press": "2026-11-06T22:16:37.344022+00:00",
-        "rs_press": "2026-11-06T22:16:34.614717+00:00",
-        "rs_reports": "2026-11-06T22:16:32.025635+00:00",
-        "rs_updates": "2026-11-06T22:16:38.914566+00:00"
+        "ls_reports": "2026-11-07T00:32:00.579542+00:00",
+        "rs_committee_press": "2026-11-07T00:32:09.944798+00:00",
+        "rs_press": "2026-11-07T00:32:07.095513+00:00",
+        "rs_reports": "2026-11-07T00:32:03.755630+00:00",
+        "rs_updates": "2026-11-07T00:32:11.757101+00:00"
       }
     },
     "scanned": [
@@ -51128,7 +51126,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T00:17:13.976598+00:00",
+    "last_run": "2026-11-07T00:32:26.617221+00:00",
     "seen": [
       "x:2116449177165250877",
       "x:2116450358981738947",
