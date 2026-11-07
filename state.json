@@ -17026,17 +17026,16 @@
       "CG-DL-E-07112026-277778",
       "CG-DL-E-07112026-277779",
       "CG-DL-E-07112026-277780",
-      "CG-DL-E-07112026-277791"
+      "CG-DL-E-07112026-277791",
+      "CG-DL-E-07112026-277789",
+      "CG-DL-E-07112026-277790"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T08:47:46.718734+00:00",
+    "last_run": "2026-11-07T09:03:50.509800+00:00",
     "pib_mark": 2333923,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|PS MAYAPURI ARRESTS CYBER FRAUD ACCUSED FROM KERALA, BANK ACCOUNT LINKED TO SIX COMPLAINTS",
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|AATS/DWARKA BUSTS GANJA SUPPLY NETWORK, 54.375 KG GANJA RECOVERED IN THREE PHASE OPERATION, TWO ACCUSED ARRESTED, ABANDONED SCOOTY ALSO SEIZED.",
-      "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|HABITUAL THIEF ARRESTED BY PS MOTI NAGAR, SEVEN THEFT CASES WORKED OUT.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|ANTF/SHAHDARA ARRESTS A WOMAN DRUG PEDDLER.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|AATS/SHAHDARA CRACKS A UNIQUE CASE OF PRE PLANNED CAR THEFT, TWO ACCUSED ARRESTED.",
       "site:Delhi Police press releases|dp-newpressrelease:17/10/2026|VIGILANT STAFF OF PS TILAK NAGAR APPREHEND HABITUAL OFFENDER, THREE THEFT CASES WORKED OUT.",
@@ -19532,11 +19531,11 @@
       "gazette:CG-DL-E-06112026-277738",
       "gazette:CG-DL-E-06112026-277739",
       "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf",
-      "gazette:CG-TL-E-06112026-277745",
       "gazette:CG-TL-E-06112026-277741",
+      "gazette:CG-MH-E-06112026-277742",
+      "gazette:CG-TL-E-06112026-277745",
       "gazette:CG-TL-E-06112026-277743",
       "gazette:CG-TL-E-06112026-277744",
-      "gazette:CG-MH-E-06112026-277742",
       "gazette:CG-DL-E-06112026-277754",
       "gazette:CG-DL-E-06112026-277753",
       "gazette:CG-DL-E-06112026-277751",
@@ -20033,7 +20032,10 @@
       "page:https://internal.imd.gov.in/press_release/20261107_pr_5475.pdf",
       "pib:2333922",
       "pib:2333923",
-      "gazette:CG-DL-E-07112026-277791"
+      "gazette:CG-DL-E-07112026-277791",
+      "gazette:CG-DL-E-07112026-277790",
+      "watch:meeting:LS|22636",
+      "gazette:CG-DL-E-07112026-277789"
     ],
     "source_failures": {},
     "sources": [
@@ -20094,9 +20096,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793330400659",
-    "1793367201435",
-    "1793378700303",
     "1793380800920",
     "1793382797105",
     "1790685114934",
@@ -24591,7 +24590,6 @@
     "1793951700459",
     "1793952011735",
     "1793968330200",
-    "1793977740070",
     "1793987946268",
     "1793991098866",
     "1793991936281",
@@ -24620,11 +24618,17 @@
     "1793954250927",
     "1793954700358",
     "1793954743484",
-    "1793966225932",
-    "1793966588611",
     "1793967750829",
     "1793968488579",
     "1794018837358",
+    "1793004929015",
+    "1793005599965",
+    "1793750400772",
+    "1793954951506",
+    "1793964038143",
+    "1793974230671",
+    "1794002340396",
+    "1794019417915",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25630,8 +25634,6 @@
     "1792998000432",
     "1792998000688",
     "1793001600557",
-    "1793004929015",
-    "1793005599965",
     "1793008800283",
     "1793019622137",
     "1793020980902",
@@ -25816,7 +25818,6 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
-    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25885,7 +25886,7 @@
     "1793949016293",
     "1793949241500",
     "1793952000534",
-    "1793954951506",
+    "1793957059105",
     "1793957091212",
     "1793957108951",
     "1793957525895",
@@ -25909,13 +25910,14 @@
     "1793962560355",
     "1793963844876",
     "1793964028960",
-    "1793964038143",
     "1793964264001",
     "1793964668123",
     "1793964848162",
     "1793965140751",
     "1793966128319",
     "1793966200791",
+    "1793966225932",
+    "1793966588611",
     "1793966859927",
     "1793967478752",
     "1793968488114",
@@ -25933,7 +25935,6 @@
     "1793973660266",
     "1793973679513",
     "1793974222676",
-    "1793974230671",
     "1793974562983",
     "1793975141371",
     "1793975704016",
@@ -25942,6 +25943,7 @@
     "1793976660652",
     "1793977019317",
     "1793977216919",
+    "1793977740070",
     "1793977920871",
     "1793978076857",
     "1793978794860",
@@ -25999,8 +26001,8 @@
     "1794000650807",
     "1794001085937",
     "1794001275516",
+    "1794001826671",
     "1794002280194",
-    "1794002340396",
     "1794002400616",
     "1794003840882",
     "1794003900007",
@@ -26024,7 +26026,6 @@
     "1794018548018",
     "1794018593180",
     "1794018806358",
-    "1794019417915",
     "1794019668883",
     "1794020100498",
     "1794021180687",
@@ -26068,6 +26069,7 @@
     "1794039919550",
     "1794040092844",
     "1794040167427",
+    "1794040974690",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26096,7 +26098,7 @@
     "2333903"
   ],
   "last_digest_hour": "2026-11-07T14",
-  "last_success": "2026-11-07T08:46:25.351985+00:00",
+  "last_success": "2026-11-07T09:02:05.336837+00:00",
   "national": {
     "alerted": [
       {
@@ -36194,7 +36196,9 @@
       "CG-DL-E-07112026-277778",
       "CG-DL-E-07112026-277779",
       "CG-DL-E-07112026-277780",
-      "CG-DL-E-07112026-277791"
+      "CG-DL-E-07112026-277791",
+      "CG-DL-E-07112026-277789",
+      "CG-DL-E-07112026-277790"
     ],
     "health": {
       "down": {
@@ -36204,12 +36208,9 @@
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T08:47:18.574962+00:00",
+    "last_run": "2026-11-07T09:03:16.142027+00:00",
     "pib_mark": 2333923,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|TWO BIKE BORNE SNATCHERS APPREHENDED BY PS NEW ASHOK NAGAR STAFF SNATCHED MOBILE PHONE AND MOTORCYCLE RECOVERED",
-      "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|RAILWAY UNIT PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES AND RECOVERED 2 LAPTOPS, 1 APPLE I PAD, 1 CAMERA ARRESTED 2 ACCUSED PERSONS",
-      "site:ICC|https://www.icc-cricket.com/media-releases/zimbabwe-venues-make-progress-as-icc-men-s-cricket-world-cup-2027-preparations-gather-pace",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|PS NABI KARIM ARRESTED ACCUSED FROM MADHYA PRADESH IN A 2011 CASE INVOLVING FORCED CHILD LABOUR NBW EXECUTED",
       "watch:meeting:LS|22569",
       "site:Delhi Police press releases|dp-newpressrelease:19/10/2026|GOOD WORK OF PS NARELA INDUSTRIAL AREA, OUTER NORTH DISTRICT, DELHI, BURGLARY CASE WORKED OUT WITHIN 24 HOURS THREE ACCUSED ARRESTED STOLEN CASH AND IDOL RECOVERED TWO LAPTOPS RECOVERED IN ANOTHER",
@@ -38644,10 +38645,10 @@
       "gazette:CG-DL-E-06112026-277738",
       "gazette:CG-DL-E-06112026-277739",
       "page:https://internal.imd.gov.in/press_release/20260928_pr_5349.pdf",
-      "gazette:CG-TL-E-06112026-277745",
       "gazette:CG-TL-E-06112026-277741",
-      "gazette:CG-TL-E-06112026-277743",
       "gazette:CG-MH-E-06112026-277742",
+      "gazette:CG-TL-E-06112026-277745",
+      "gazette:CG-TL-E-06112026-277743",
       "gazette:CG-TL-E-06112026-277744",
       "gazette:CG-DL-E-06112026-277751",
       "gazette:CG-DL-E-06112026-277753",
@@ -39206,7 +39207,10 @@
       "page:https://internal.imd.gov.in/press_release/20261107_pr_5475.pdf",
       "pib:2333922",
       "pib:2333923",
-      "gazette:CG-DL-E-07112026-277791"
+      "gazette:CG-DL-E-07112026-277791",
+      "gazette:CG-DL-E-07112026-277790",
+      "gazette:CG-DL-E-07112026-277789",
+      "watch:meeting:LS|22636"
     ],
     "source_failures": {
       "CBI": {
@@ -40480,7 +40484,7 @@
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
     "news: big tech platforms": 1794040167427,
-    "news: consumer internet india": 1794035192755,
+    "news: consumer internet india": 1794040974690,
     "news: global ai": 1794038518721,
     "news: global chips": 1794040092844,
     "news: global it services": 1794002280194,
@@ -40521,7 +40525,8 @@
   },
   "source_health": {
     "down": {
-      "HCLTech": "2026-11-07T08:01:44.489124+00:00"
+      "HCLTech": "2026-11-07T08:01:44.489124+00:00",
+      "REG NPCI": "2026-11-07T09:02:00.758429+00:00"
     }
   },
   "watch": {
@@ -40540,7 +40545,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T08:46:25.857821+00:00",
+    "last_server_run": "2026-11-07T09:02:05.833722+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-07T08:02:26.632110+00:00",
@@ -40680,11 +40685,11 @@
       },
       "last": {
         "calendar": "2026-11-07T06:16:20.377620+00:00",
-        "ls_reports": "2026-11-07T07:02:25.375848+00:00",
-        "rs_committee_press": "2026-11-07T07:02:35.105605+00:00",
-        "rs_press": "2026-11-07T07:02:32.008389+00:00",
-        "rs_reports": "2026-11-07T07:02:28.995264+00:00",
-        "rs_updates": "2026-11-07T07:02:36.875926+00:00"
+        "ls_reports": "2026-11-07T09:02:36.897548+00:00",
+        "rs_committee_press": "2026-11-07T09:02:46.151037+00:00",
+        "rs_press": "2026-11-07T09:02:43.471881+00:00",
+        "rs_reports": "2026-11-07T09:02:40.486001+00:00",
+        "rs_updates": "2026-11-07T09:02:47.462240+00:00"
       }
     },
     "scanned": [
@@ -41080,6 +41085,8 @@
       "CG-DL-E-07112026-277782",
       "CG-DL-E-07112026-277783",
       "CG-DL-E-07112026-277784",
+      "CG-DL-E-07112026-277789",
+      "CG-DL-E-07112026-277790",
       "CG-DL-E-07112026-277791",
       "CG-DL-E-08102026-276919",
       "CG-DL-E-08102026-276920",
@@ -42796,7 +42803,8 @@
       "gazette:CG-DL-E-06112026-277740|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-06112026-277761",
       "gazette:CG-DL-E-06112026-277761|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-06112026-277761|MHA_FINANCE_MAIL_TO"
+      "gazette:CG-DL-E-06112026-277761|MHA_FINANCE_MAIL_TO",
+      "meeting:LS|22636"
     ]
   },
   "x_test": {
@@ -51239,14 +51247,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T08:47:31.859132+00:00",
+    "last_run": "2026-11-07T09:03:23.430169+00:00",
     "seen": [
-      "x:2116534471134777513",
-      "x:2116534672130023610",
-      "x:2116534677385437664",
-      "x:2116535065119519093",
-      "x:2116535196531163549",
-      "x:2116536362530935038",
       "x:2116536491837157831",
       "x:2116537291787366523",
       "x:2116537319570522120",
@@ -54240,7 +54242,13 @@
       "x:2118984298384576666",
       "x:2118984301811286345",
       "x:2118986009803198625",
-      "x:2118986714824032688"
+      "x:2118986714824032688",
+      "x:2118988644933595552",
+      "x:2118989423266443623",
+      "x:2118989618825838881",
+      "x:2118989797079330990",
+      "x:2118989960569291012",
+      "x:2118990577681469506"
     ],
     "source_failures": {},
     "sources": []
