@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-29T03:31:39.256096+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Ashwini Vaishnaw seeks editor discussions on DPDP concerns",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYUZtcFJpaGdDeV9JUnhoM2RIZ21GZ2xiZmpVbG80Z1ZJUU1DWHVqTE03UjhTVXlfbHh2SjQ1ZERITVNFOFMyYjI5ekxlMlRzOWhmN01jMjM5bTJrWnZOX19iVXYydGFsWjVBQU9WSnN1ZFl6d2lBQ2paTDkwNFBucUhjd3RiQkp6Z1ZlZWl0Tk1hVzdjV1d6RmpMSURyTnhBMWZsaE5BTnBOak9iTXgzbG5oZTZxbENsUVVUc3VzZDZ6aGlsVVdZ0gHHAUFVX3lxTE1hRm1wUmloZ0N5X0lSeGgzZEhnbUZnbGJmalVsbzRnVklRTUNYdWpMTTdSOFNVeV9seHZKNDVkREhNU0U4UzJiMjl6TGUyVHM5aGY3TWMyMzltMmtadk5fX2JVdjJ0YWxaNUFBT1ZKc3VkWXp3aUFDalpMOTA0UG5xSGN3dGJCSnpnVmVlaXROTWFXN2NXV3pGakxJRHJOeEExZmxoTkFOcE5qT2JNeDNsbmhlNnFsQ2xRVVRzdXNkNnpoaWxVV1k?oc=5",
-      "words": [
-        "concerns",
-        "discussions",
-        "dpdp",
-        "editors",
-        "news",
-        "open",
-        "seeks",
-        "vaishnaw"
-      ]
-    },
-    {
-      "at": "2026-10-29T03:31:39.256096+00:00",
       "handle": "News: Big tech platforms",
       "headline": "Microsoft beats expectations fueled by Azure cloud",
       "tier": 0,
@@ -7385,6 +7368,24 @@
         "startup",
         "strategy",
         "wehner"
+      ]
+    },
+    {
+      "at": "2026-11-07T21:31:13.845632+00:00",
+      "handle": "News: Global chips",
+      "headline": "Megaspeed executive accused of spying on Nvidia CEO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblhxWWdEY0JEZlc2amlOek0xZFFnb01uTkxrSGJJOG9lcGt4Nm4yNFV3djlDMERUU3hkc0pqWjhvTTVmUlpxUkJpMUd6bGhsWFpUVHhjaTJVZ2ZhV1ROOVAtaklZc2NYTS1OQWhZYktfVHlSaVYweV8xWWtRR0FJT2ppRGowMk81ajlnRVEtOGQwam5NdmMyaEstbDA4dnJHLXN4SWNaZGRmcFFxY3dwTF8xU1ZXb0k?oc=5",
+      "words": [
+        "according",
+        "ceo",
+        "exec",
+        "intelligence",
+        "megaspeed",
+        "memo",
+        "nvidia",
+        "recruited",
+        "spy"
       ]
     }
   ],
@@ -17066,7 +17067,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-07T21:16:50.873597+00:00",
+    "last_run": "2026-11-07T21:32:01.491451+00:00",
     "pib_mark": 2334045,
     "seen": [
       "pib:2324975",
@@ -20129,8 +20130,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793411813119",
-    "1793326951266",
     "1793327448166",
     "1793329011889",
     "1793337122751",
@@ -24684,7 +24683,6 @@
     "1794011400584",
     "1794011400686",
     "1794045310656",
-    "1794049530496",
     "1794050460382",
     "1794003840882",
     "1794000650807",
@@ -24694,9 +24692,11 @@
     "1793998814460",
     "1794018837358",
     "1794025892028",
-    "1793750400772",
     "1794051319001",
-    "1794051419885",
+    "1794000180816",
+    "1794000633670",
+    "1794048578750",
+    "1794078991908",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25886,6 +25886,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25973,8 +25974,6 @@
     "1793991098866",
     "1793991936281",
     "1793996220189",
-    "1794000180816",
-    "1794000633670",
     "1794001275516",
     "1794001830447",
     "1794002280194",
@@ -26054,11 +26053,12 @@
     "1794046920193",
     "1794048090780",
     "1794048120156",
-    "1794048578750",
     "1794049080097",
+    "1794049530496",
     "1794050211832",
     "1794050700122",
     "1794051300001",
+    "1794051419885",
     "1794052831346",
     "1794052832884",
     "1794053583129",
@@ -26090,6 +26090,7 @@
     "1794067507925",
     "1794067932980",
     "1794068736979",
+    "1794068794175",
     "1794069619763",
     "1794069840248",
     "1794071375905",
@@ -26098,11 +26099,11 @@
     "1794073735408",
     "1794073876933",
     "1794078463554",
-    "1794078991908",
     "1794079017414",
     "1794079020878",
     "1794081600743",
     "1794085605542",
+    "1794086228306",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26130,8 +26131,8 @@
     "2333716",
     "2333903"
   ],
-  "last_digest_hour": "2026-11-08T02",
-  "last_success": "2026-11-07T21:15:59.219306+00:00",
+  "last_digest_hour": "2026-11-08T03",
+  "last_success": "2026-11-07T21:31:13.908972+00:00",
   "national": {
     "alerted": [
       {
@@ -36252,7 +36253,7 @@
       },
       "warned": "2026-11-07T00:02:25.804243+00:00"
     },
-    "last_run": "2026-11-07T21:16:40.859343+00:00",
+    "last_run": "2026-11-07T21:31:50.976936+00:00",
     "pib_mark": 2334045,
     "seen": [
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-mona-agarwal-on-winning-gold-and-setting-a-new-asian-para-games-record",
@@ -40492,7 +40493,7 @@
     "news: big tech platforms": 1794081600743,
     "news: consumer internet india": 1794059071626,
     "news: global ai": 1794064845602,
-    "news: global chips": 1794085605542,
+    "news: global chips": 1794086228306,
     "news: global it services": 1794002280194,
     "news: india ai deeptech": 1794049530496,
     "news: india edtech gaming": 1794078463554,
@@ -40501,7 +40502,7 @@
     "news: india tech policy": 1794073735408,
     "news: india telecom": 1794066523704,
     "news: indian it majors": 1794078991908,
-    "news: indian it midcaps": 1794025755272,
+    "news: indian it midcaps": 1794068794175,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1794085605542,
     "nvidia": 1793980800839,
@@ -40530,9 +40531,7 @@
     "zoho": 1793973136004
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-07T21:15:55.022473+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40550,7 +40549,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-07T21:15:59.534363+00:00",
+    "last_server_run": "2026-11-07T21:31:14.197964+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-07T21:02:22.115552+00:00",
@@ -51483,7 +51482,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-07T21:16:43.667937+00:00",
+    "last_run": "2026-11-07T21:31:54.582104+00:00",
     "seen": [
       "x:2116777978382426471",
       "x:2116778295194943923",
