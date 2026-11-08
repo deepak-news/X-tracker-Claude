@@ -17075,12 +17075,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-08T09:17:30.028321+00:00",
-    "pib_mark": 2334086,
+    "last_run": "2026-11-08T09:32:42.113960+00:00",
+    "pib_mark": 2334105,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63814",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-interaction-with-the-participants-of-asian-games-2026",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63815",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63816",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63817",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sethujanani-under-rc-no-7709-of-2024-in-the-matter-of-arvind-remedies-ltd-_105226.html",
@@ -20077,7 +20074,10 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-appreciates-maharashtra-cm-devendra-fadnaviss-gesture-of-celebrating-diwali-with-farmers-in-nagpur",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-to-celebrate-diwali-with-security-personnel-in-bastar",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-conveys-diwali-greetings-to-all-citizens",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-greets-bharat-ratna-shri-l-k-advani-ji-as-he-enters-his-100th-year"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-greets-bharat-ratna-shri-l-k-advani-ji-as-he-enters-his-100th-year",
+      "pib:2334104",
+      "pib:2334105",
+      "pib:2334101"
     ],
     "source_failures": {},
     "sources": [
@@ -20138,8 +20138,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793418026136",
-    "1793336603892",
     "1793336817754",
     "1793337265592",
     "1793346064098",
@@ -24740,8 +24738,11 @@
     "1794073081421",
     "1794042540610",
     "1794042818650",
-    "1794051419885",
     "1794108189542",
+    "1794043355205",
+    "1794043385440",
+    "1794079017414",
+    "1794085646542",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26020,8 +26021,6 @@
     "1793991936281",
     "1793996220189",
     "1794025425714",
-    "1794043355205",
-    "1794043385440",
     "1794043932325",
     "1794045641871",
     "1794046920193",
@@ -26029,8 +26028,10 @@
     "1794048120156",
     "1794049080097",
     "1794050211832",
+    "1794050440368",
     "1794050700122",
     "1794051300001",
+    "1794051419885",
     "1794051436883",
     "1794052831346",
     "1794053583129",
@@ -26065,11 +26066,10 @@
     "1794073735408",
     "1794078463554",
     "1794078991908",
-    "1794079017414",
     "1794079020878",
     "1794080893693",
-    "1794085646542",
     "1794086228306",
+    "1794086596542",
     "1794087665358",
     "1794089242523",
     "1794098771757",
@@ -26139,8 +26139,8 @@
     "2333716",
     "2333903"
   ],
-  "last_digest_hour": "2026-11-08T14",
-  "last_success": "2026-11-08T09:15:56.497155+00:00",
+  "last_digest_hour": "2026-11-08T15",
+  "last_success": "2026-11-08T09:31:13.272701+00:00",
   "national": {
     "alerted": [
       {
@@ -36258,12 +36258,9 @@
       },
       "warned": "2026-11-08T00:02:31.572081+00:00"
     },
-    "last_run": "2026-11-08T09:17:12.440826+00:00",
-    "pib_mark": 2334086,
+    "last_run": "2026-11-08T09:32:23.171697+00:00",
+    "pib_mark": 2334105,
     "seen": [
-      "mea:41824",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-radha-venkatesh-on-winning-silver-in-womens-1500m-t12-13-at-asian-para-games-2026",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-soumya-on-winning-gold-in-womens-1500m-t12-13-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-lord-rama-as-the-living-embodiment-of-righteousness",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-greets-everyone-on-the-occasion-of-vijayadashami",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-on-rss-sthapana-divas",
@@ -39260,7 +39257,10 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-greets-bharat-ratna-shri-l-k-advani-ji-as-he-enters-his-100th-year",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-conveys-diwali-greetings-to-all-citizens",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-appreciates-maharashtra-cm-devendra-fadnaviss-gesture-of-celebrating-diwali-with-farmers-in-nagpur",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-to-celebrate-diwali-with-security-personnel-in-bastar"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-to-celebrate-diwali-with-security-personnel-in-bastar",
+      "pib:2334104",
+      "pib:2334101",
+      "pib:2334105"
     ],
     "source_failures": {
       "CBI": {
@@ -40558,7 +40558,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-08T09:15:56.821564+00:00",
+    "last_server_run": "2026-11-08T09:31:13.571723+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -51536,14 +51536,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-08T09:17:18.754878+00:00",
+    "last_run": "2026-11-08T09:32:31.490036+00:00",
     "seen": [
-      "x:2116871740865540603",
-      "x:2116921324895711537",
-      "x:2116922453201215847",
-      "x:2116867985264853170",
-      "x:2116877147281244638",
-      "x:2116924573770027258",
       "x:2116924665495248975",
       "x:2116924944487735778",
       "x:2116925058719588823",
@@ -54537,7 +54531,13 @@
       "x:2119354117319786828",
       "x:2119354236081443043",
       "x:2119354502088364310",
-      "x:2119355359622279533"
+      "x:2119355359622279533",
+      "x:2119358037031100910",
+      "x:2119358513512317248",
+      "x:2119360480376750417",
+      "x:2119360773525012789",
+      "x:2119361198596788346",
+      "x:2119361397330980970"
     ],
     "source_failures": {},
     "sources": []
