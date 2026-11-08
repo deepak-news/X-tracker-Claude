@@ -17073,10 +17073,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-08T06:16:59.554977+00:00",
-    "pib_mark": 2334073,
+    "last_run": "2026-11-08T06:33:06.955551+00:00",
+    "pib_mark": 2334086,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|DELHI TRAFFIC POLICE, ZONE I, INTENSIFIES MOTORCYCLE PATROLLING THROUGH MOTORCYCLE UNIT TO ENSURE SMOOTH TRAFFIC FLOW DURING FESTIVE SEASON",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|IFSO\u2019s Proactive Victim Identification and Protection Team Rescues Multiple Senior Citizens from \u201cDigital Arrest\u201d, Saves \u20b91 53 Crore from Cyber Fraudsters Across Five States",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, ONE ABSCONDERS APPREHENDED.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP.",
@@ -20075,7 +20074,8 @@
       "pib:2334064",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168759",
       "pib:2334072",
-      "pib:2334073"
+      "pib:2334073",
+      "pib:2334086"
     ],
     "source_failures": {},
     "sources": [
@@ -20136,9 +20136,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793336701614",
-    "1793363814522",
-    "1793379934882",
     "1793381610187",
     "1793406780054",
     "1793334431209",
@@ -24733,6 +24730,11 @@
     "1794032122767",
     "1794110357295",
     "1794114081038",
+    "1794032661010",
+    "1794032719045",
+    "1794051419885",
+    "1794105265536",
+    "1794112008905",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26011,8 +26013,6 @@
     "1793991936281",
     "1793996220189",
     "1794025425714",
-    "1794032661010",
-    "1794032719045",
     "1794033765514",
     "1794034095453",
     "1794034497661",
@@ -26037,7 +26037,6 @@
     "1794050211832",
     "1794050700122",
     "1794051300001",
-    "1794051419885",
     "1794051436883",
     "1794052831346",
     "1794053583129",
@@ -26084,7 +26083,6 @@
     "1794098210542",
     "1794098771757",
     "1794100170199",
-    "1794105265536",
     "1794105420916",
     "1794105780552",
     "1794106037762",
@@ -26094,10 +26092,10 @@
     "1794108765749",
     "1794108900632",
     "1794110100993",
+    "1794110160771",
     "1794110357824",
     "1794111420360",
     "1794111900236",
-    "1794112008905",
     "1794113220362",
     "1794113242835",
     "1794114011038",
@@ -26110,6 +26108,8 @@
     "1794115863805",
     "1794116815837",
     "1794117693277",
+    "1794118391640",
+    "1794118917836",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26137,8 +26137,8 @@
     "2333716",
     "2333903"
   ],
-  "last_digest_hour": "2026-11-08T11",
-  "last_success": "2026-11-08T06:16:03.848630+00:00",
+  "last_digest_hour": "2026-11-08T12",
+  "last_success": "2026-11-08T06:31:21.744197+00:00",
   "national": {
     "alerted": [
       {
@@ -36256,10 +36256,9 @@
       },
       "warned": "2026-11-08T00:02:31.572081+00:00"
     },
-    "last_run": "2026-11-08T06:16:40.646064+00:00",
-    "pib_mark": 2334073,
+    "last_run": "2026-11-08T06:32:48.614432+00:00",
+    "pib_mark": 2334086,
     "seen": [
-      "mea:41821",
       "quake:usgs:us6000u3j5",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-kokila-on-winning-silver-in-womens-j2-52kg-judo-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nishad-kumar-on-winning-gold-in-mens-long-jump-t47-at-asian-para-games-2026",
@@ -39258,7 +39257,8 @@
       "pib:2334064",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168759",
       "pib:2334073",
-      "pib:2334072"
+      "pib:2334072",
+      "pib:2334086"
     ],
     "source_failures": {
       "CBI": {
@@ -40502,9 +40502,9 @@
     "news: india edtech gaming": 1794078463554,
     "news: india fintech": 1794111900236,
     "news: india semiconductors": 1794051436883,
-    "news: india tech policy": 1794108180137,
+    "news: india tech policy": 1794118917836,
     "news: india telecom": 1794069649273,
-    "news: indian it majors": 1794116815837,
+    "news: indian it majors": 1794118391640,
     "news: indian it midcaps": 1794110357824,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1794110100993,
@@ -40552,7 +40552,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-08T06:16:04.362234+00:00",
+    "last_server_run": "2026-11-08T06:31:22.216175+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -40692,11 +40692,11 @@
       },
       "last": {
         "calendar": "2026-11-08T00:46:14.208064+00:00",
-        "ls_reports": "2026-11-08T04:31:45.969317+00:00",
-        "rs_committee_press": "2026-11-08T04:31:54.747529+00:00",
-        "rs_press": "2026-11-08T04:31:51.953581+00:00",
-        "rs_reports": "2026-11-08T04:31:49.363296+00:00",
-        "rs_updates": "2026-11-08T04:31:56.433250+00:00"
+        "ls_reports": "2026-11-08T06:31:53.138638+00:00",
+        "rs_committee_press": "2026-11-08T06:32:02.201301+00:00",
+        "rs_press": "2026-11-08T06:31:59.522808+00:00",
+        "rs_reports": "2026-11-08T06:31:56.639094+00:00",
+        "rs_updates": "2026-11-08T06:32:03.812690+00:00"
       }
     },
     "scanned": [
@@ -51520,17 +51520,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-08T06:16:49.832026+00:00",
+    "last_run": "2026-11-08T06:32:54.926734+00:00",
     "seen": [
-      "x:2116848508276011360",
-      "x:2116848845049221443",
-      "x:2116848900216934695",
-      "x:2116848939714613593",
-      "x:2116849321044025736",
-      "x:2116851340463014343",
-      "x:2116851698304270722",
-      "x:2116852006417531355",
-      "x:2116852306218258845",
       "x:2116852624016466142",
       "x:2116852972303130827",
       "x:2116853183318536534",
@@ -54521,7 +54512,16 @@
       "x:2119311568739647621",
       "x:2119311823883342097",
       "x:2119311832988918081",
-      "x:2119311984441303533"
+      "x:2119311984441303533",
+      "x:2119312336628674739",
+      "x:2119312712438345895",
+      "x:2119312906122850366",
+      "x:2119314085670224245",
+      "x:2119314362091577720",
+      "x:2119314613778968650",
+      "x:2119314708956131421",
+      "x:2119315692415803743",
+      "x:2119315844283224126"
     ],
     "source_failures": {},
     "sources": []
