@@ -17073,10 +17073,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-08T07:17:23.530726+00:00",
+    "last_run": "2026-11-08T07:32:43.303126+00:00",
     "pib_mark": 2334086,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, ONE ABSCONDERS APPREHENDED.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MISSING MINOR BOY TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAP.",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|Thana Divas,Jansunwai",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|PS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASESPS ANAND VIHAR RAILWAY STATION SUCCESSFULLY WORKED OUT 4 THEFT CASES",
@@ -19597,6 +19596,7 @@
       "pib:2334033",
       "pib:2334045",
       "watch:meeting:LS|22636",
+      "page:https://internal.imd.gov.in/press_release/20260929_pr_5351.pdf",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/honble-cm-sri-a-revanth-reddy-participated-in-raksha-expo-2026-curtain-raiser-at-falaknuma-palace-hyderabad/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/%e0%b0%a4%e0%b1%81%e0%b0%ae%e0%b1%8d%e0%b0%ae%e0%b0%bf%e0%b0%a1%e0%b0%bf%e0%b0%b9%e0%b1%86%e0%b0%9f%e0%b1%8d%e0%b0%9f%e0%b0%bf-%e0%b0%a8%e0%b1%80%e0%b0%9f%e0%b0%bf%e0%b0%aa%e0%b0%be%e0%b0%b0%e0%b1%81/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/honble-cm-sri-a-revanth-reddy-invited-honble-maharashtra-cm-sri-devendra-fadnavis-to-participate-in-the-invest-telangana-global-summit/",
@@ -19718,7 +19718,6 @@
       "page:https://internal.imd.gov.in/press_release/20261010_pr_5392.pdf",
       "page:https://internal.imd.gov.in/press_release/20261002_pr_5369.pdf",
       "page:https://internal.imd.gov.in/press_release/20261006_pr_5383.pdf",
-      "page:https://internal.imd.gov.in/press_release/20260929_pr_5351.pdf",
       "page:https://internal.imd.gov.in/press_release/20260930_pr_5361.pdf",
       "page:https://internal.imd.gov.in/press_release/20260930_pr_5363.pdf",
       "page:https://internal.imd.gov.in/press_release/20260930_pr_5356.pdf",
@@ -20075,7 +20074,8 @@
       "pib:2334072",
       "pib:2334073",
       "pib:2334086",
-      "site:BCCI|https://www.bcci.tv/news/article/india-a-squad-for-acc-rising-stars-asia-cup-update"
+      "site:BCCI|https://www.bcci.tv/news/article/india-a-squad-for-acc-rising-stars-asia-cup-update",
+      "page:https://internal.imd.gov.in/press_release/20261108_pr_5476.pdf"
     ],
     "source_failures": {},
     "sources": [
@@ -20136,10 +20136,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793334827316",
-    "1793335500554",
-    "1793339960943",
-    "1793372634648",
     "1793381964429",
     "1793398280881",
     "1793411300865",
@@ -24726,7 +24722,6 @@
     "1794112008905",
     "1794033765514",
     "1794114011263",
-    "1793750400772",
     "1794034095453",
     "1794034497661",
     "1794040092844",
@@ -24735,10 +24730,15 @@
     "1794105265536",
     "1794035192755",
     "1794035484071",
-    "1794055660896",
     "1794071776153",
-    "1794106623192",
     "1794117693277",
+    "1794045600649",
+    "1794051419885",
+    "1794053874243",
+    "1794054600705",
+    "1794055660446",
+    "1794106623494",
+    "1794120246616",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25928,6 +25928,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -26026,7 +26027,6 @@
     "1794042540610",
     "1794042818650",
     "1794043385440",
-    "1794045600649",
     "1794045641871",
     "1794046920193",
     "1794048090780",
@@ -26035,16 +26035,13 @@
     "1794050211832",
     "1794050700122",
     "1794051300001",
-    "1794051419885",
     "1794051436883",
     "1794052831346",
     "1794053583129",
     "1794053865636",
-    "1794053874243",
-    "1794054600705",
     "1794054801779",
     "1794054911080",
-    "1794055660446",
+    "1794055660896",
     "1794056088804",
     "1794056220240",
     "1794056340940",
@@ -26082,7 +26079,7 @@
     "1794105420916",
     "1794105780552",
     "1794106037762",
-    "1794106623494",
+    "1794106623192",
     "1794107280584",
     "1794108180137",
     "1794108189542",
@@ -26108,8 +26105,11 @@
     "1794118391640",
     "1794118917836",
     "1794119362773",
-    "1794120246616",
+    "1794120246345",
     "1794120337734",
+    "1794121849838",
+    "1794122106271",
+    "1794122520850",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26137,8 +26137,8 @@
     "2333716",
     "2333903"
   ],
-  "last_digest_hour": "2026-11-08T12",
-  "last_success": "2026-11-08T07:16:01.882434+00:00",
+  "last_digest_hour": "2026-11-08T13",
+  "last_success": "2026-11-08T07:31:17.454226+00:00",
   "national": {
     "alerted": [
       {
@@ -36251,16 +36251,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-08T07:16:50.080596+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-08T00:02:31.572081+00:00"
     },
-    "last_run": "2026-11-08T07:16:51.194455+00:00",
+    "last_run": "2026-11-08T07:32:24.607409+00:00",
     "pib_mark": 2334086,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-kokila-on-winning-silver-in-womens-j2-52kg-judo-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nishad-kumar-on-winning-gold-in-mens-long-jump-t47-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-rinku-hooda-on-winning-gold-in-mens-javelin-throw-f46-at-asian-para-games-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ravi-k-budigina-on-winning-silver-in-mens-100m-freestyle-s13-at-asian-para-games-2026",
@@ -38719,6 +38717,7 @@
       "pib:2334033",
       "pib:2334045",
       "watch:meeting:LS|22636",
+      "page:https://internal.imd.gov.in/press_release/20260929_pr_5351.pdf",
       "npci:629",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
@@ -38828,7 +38827,6 @@
       "feed:http://www.niti.gov.in/node/2450",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
-      "page:https://internal.imd.gov.in/press_release/20260929_pr_5351.pdf",
       "page:https://internal.imd.gov.in/press_release/20260930_pr_5356.pdf",
       "page:https://internal.imd.gov.in/press_release/20260930_pr_5361.pdf",
       "page:https://internal.imd.gov.in/press_release/20260930_pr_5363.pdf",
@@ -39259,15 +39257,13 @@
       "pib:2334073",
       "pib:2334072",
       "pib:2334086",
-      "site:BCCI|https://www.bcci.tv/news/article/india-a-squad-for-acc-rising-stars-asia-cup-update"
+      "site:BCCI|https://www.bcci.tv/news/article/india-a-squad-for-acc-rising-stars-asia-cup-update",
+      "page:https://internal.imd.gov.in/press_release/20261108_pr_5476.pdf"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -40497,17 +40493,17 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794120337734,
+    "news: big tech platforms": 1794122520850,
     "news: consumer internet india": 1794117693712,
     "news: global ai": 1794110100993,
     "news: global chips": 1794108189542,
     "news: global it services": 1794034497661,
     "news: india ai deeptech": 1794108765749,
     "news: india edtech gaming": 1794078463554,
-    "news: india fintech": 1794120246616,
+    "news: india fintech": 1794121849838,
     "news: india semiconductors": 1794051436883,
     "news: india tech policy": 1794118917836,
-    "news: india telecom": 1794069649273,
+    "news: india telecom": 1794122106271,
     "news: indian it majors": 1794118391640,
     "news: indian it midcaps": 1794110357824,
     "news: pib releases": 1790159940641,
@@ -40538,9 +40534,7 @@
     "zoho": 1793973136004
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-08T07:01:59.011802+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40558,7 +40552,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-08T07:16:02.384602+00:00",
+    "last_server_run": "2026-11-08T07:31:17.907370+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -51536,22 +51530,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-08T07:17:13.599997+00:00",
+    "last_run": "2026-11-08T07:32:31.704380+00:00",
     "seen": [
-      "x:2116863458843234373",
-      "x:2116864377135517860",
-      "x:2116864688835408173",
-      "x:2116864781177225723",
-      "x:2116865498529063227",
-      "x:2116865560097308766",
-      "x:2116865911126978747",
-      "x:2116866154027507821",
-      "x:2116866678709747971",
-      "x:2116866695726043307",
-      "x:2116866893076406302",
-      "x:2116867863634215265",
-      "x:2116869406693396989",
-      "x:2116869508724130174",
       "x:2116855048051532081",
       "x:2116870055548059804",
       "x:2116870104764105093",
@@ -54537,7 +54517,21 @@
       "x:2119326093455118557",
       "x:2119326638894981449",
       "x:2119326955288105232",
-      "x:2119327144426041443"
+      "x:2119327144426041443",
+      "x:2119327815460172278",
+      "x:2119327947983331586",
+      "x:2119328679897747838",
+      "x:2119328989298958712",
+      "x:2119329396385575283",
+      "x:2119329454065639426",
+      "x:2119329710278836274",
+      "x:2119329821226619322",
+      "x:2119330181923930386",
+      "x:2119330274832187778",
+      "x:2119330649836597328",
+      "x:2119330724159574311",
+      "x:2119331091379372138",
+      "x:2119331092234989877"
     ],
     "source_failures": {},
     "sources": []
