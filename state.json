@@ -17073,10 +17073,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-08T03:47:47.330029+00:00",
-    "pib_mark": 2334063,
+    "last_run": "2026-11-08T04:02:24.919848+00:00",
+    "pib_mark": 2334064,
     "seen": [
-      "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|MURDER CASE OF PS SONIA VIHAR SOLVED",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|ACTION UNDER NDPS ACT BY PATROL TEAMS OF PS RAJ PARK AND SULTANPURI",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|FIRING AT BUSINESSMAN\u2019S RESIDENCE FOLLOWED BY EXTORTION DEMAND SOLVED BY JOINT TEAM OF PS NEW USMANPUR AND SPECIAL STAFF/NORTH EAST DISTRICT, FOUR ACCUSED ARRESTED",
       "site:Delhi Police press releases|dp-newpressrelease:18/10/2026|01 AUTOLIFTER ARRESTED BY THE STAFF OF PS NIHAL VIHAR",
@@ -20075,7 +20074,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-vice-president-thiru-c-p-radhakrishnan-exchanges-diwali-greetings",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-diwali-greetings-to-citizens-says-festival-symbolises-resolve-against-darkness",
       "pib:2334060",
-      "pib:2334063"
+      "pib:2334063",
+      "pib:2334064"
     ],
     "source_failures": {},
     "sources": [
@@ -20136,7 +20136,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793403087865",
     "1793392712459",
     "1793411204136",
     "1793331305353",
@@ -24726,10 +24725,13 @@
     "1794022276518",
     "1794022706246",
     "1794022888603",
-    "1794029352671",
     "1794043355205",
-    "1794055374763",
     "1794086561602",
+    "1794023806242",
+    "1794023940938",
+    "1794028135342",
+    "1794086530542",
+    "1794105265536",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26007,8 +26009,6 @@
     "1793991098866",
     "1793991936281",
     "1793996220189",
-    "1794023806242",
-    "1794023940938",
     "1794024360345",
     "1794025425714",
     "1794025500540",
@@ -26018,8 +26018,8 @@
     "1794026467147",
     "1794026467516",
     "1794027478881",
-    "1794028135342",
     "1794028499768",
+    "1794029352671",
     "1794029400151",
     "1794029414986",
     "1794029700367",
@@ -26060,6 +26060,7 @@
     "1794053874243",
     "1794054600705",
     "1794054911080",
+    "1794055374763",
     "1794055660446",
     "1794056088357",
     "1794056220240",
@@ -26095,14 +26096,13 @@
     "1794079020878",
     "1794081600743",
     "1794086228306",
-    "1794086530542",
     "1794087665358",
     "1794089242523",
+    "1794098210542",
     "1794098771757",
     "1794099590779",
     "1794100170199",
     "1794105052225",
-    "1794105265536",
     "1794105420916",
     "1794105780552",
     "1794106037762",
@@ -26138,7 +26138,7 @@
     "2333903"
   ],
   "last_digest_hour": "2026-11-08T09",
-  "last_success": "2026-11-08T03:46:18.617608+00:00",
+  "last_success": "2026-11-08T04:01:25.750557+00:00",
   "national": {
     "alerted": [
       {
@@ -36256,10 +36256,9 @@
       },
       "warned": "2026-11-08T00:02:31.572081+00:00"
     },
-    "last_run": "2026-11-08T03:47:00.969277+00:00",
-    "pib_mark": 2334063,
+    "last_run": "2026-11-08T04:02:08.664663+00:00",
+    "pib_mark": 2334064,
     "seen": [
-      "quake:usgs:us6000u3ge",
       "quake:usgs:us6000u3ga",
       "page:https://internal.imd.gov.in/press_release/20260904_pr_5290.pdf",
       "mea:41851",
@@ -39258,7 +39257,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-vice-president-thiru-c-p-radhakrishnan-exchanges-diwali-greetings",
       "quake:usgs:us7000twun",
       "pib:2334060",
-      "pib:2334063"
+      "pib:2334063",
+      "pib:2334064"
     ],
     "source_failures": {
       "CBI": {
@@ -40552,7 +40552,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-08T03:46:18.999483+00:00",
+    "last_server_run": "2026-11-08T04:01:26.229598+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T03:31:58.692563+00:00",
@@ -51520,13 +51520,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-08T03:47:36.192935+00:00",
+    "last_run": "2026-11-08T04:02:15.105295+00:00",
     "seen": [
-      "x:2116808043791081721",
-      "x:2116809610413944878",
-      "x:2116809892837404692",
-      "x:2116810333159576033",
-      "x:2116810420602482805",
       "x:2116810522968703260",
       "x:2116811756710588846",
       "x:2116812194495283514",
@@ -54521,7 +54516,12 @@
       "x:2119273126890754060",
       "x:2119273705457189124",
       "x:2119274172430135549",
-      "x:2119274283889516664"
+      "x:2119274283889516664",
+      "x:2119274912535990317",
+      "x:2119276222043861071",
+      "x:2119276414713340085",
+      "x:2119276952892973449",
+      "x:2119277875048378396"
     ],
     "source_failures": {},
     "sources": []
