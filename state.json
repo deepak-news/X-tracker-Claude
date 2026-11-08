@@ -17071,10 +17071,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-08T13:32:36.950303+00:00",
-    "pib_mark": 2334133,
+    "last_run": "2026-11-08T13:47:29.787279+00:00",
+    "pib_mark": 2334176,
     "seen": [
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-under-recovery-certificate-number-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-investigation-in-the-matter-of-market-manipulatio-_105240.html",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-offers-prayers-to-maa-katyayani-during-navratri",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-praising-the-divine-presence-of-maa-jagadambika-in-all-forms",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-national-security-guard-personnel-on-raising-day",
@@ -20073,7 +20072,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-distributes-sweets-and-celebrates-diwali-with-jawans-at-cobra-operations-base-at-bastar",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-interaction-with-the-security-forces-in-bastar-chhattisgarh",
       "pib:2334133",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-celebrates-diwali-with-the-security-forces-at-cobra-operations-base-at-karanpur-in-bastar-chhattisgarh"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-celebrates-diwali-with-the-security-forces-at-cobra-operations-base-at-karanpur-in-bastar-chhattisgarh",
+      "pib:2334176"
     ],
     "source_failures": {},
     "sources": [
@@ -20134,8 +20134,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793388698889",
-    "1793409605885",
     "1793344023880",
     "1793344048978",
     "1793344200710",
@@ -24734,16 +24732,16 @@
     "1794086683542",
     "1794115863805",
     "1794056854991",
-    "1794068794175",
     "1794132360323",
     "1794057745743",
     "1794057786996",
     "1794108180137",
     "1794114480947",
     "1794121061096",
-    "1794124861939",
     "1794126735905",
     "1794136396032",
+    "1794122520850",
+    "1794139809971",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26032,6 +26030,7 @@
     "1794066523704",
     "1794067507925",
     "1794068736979",
+    "1794068794175",
     "1794069619763",
     "1794069649273",
     "1794069840248",
@@ -26080,8 +26079,9 @@
     "1794120337136",
     "1794121849838",
     "1794122106271",
-    "1794122520850",
+    "1794122520338",
     "1794123054494",
+    "1794124861939",
     "1794126472578",
     "1794127078569",
     "1794131040540",
@@ -26103,7 +26103,7 @@
     "1794138501562",
     "1794139200027",
     "1794139220562",
-    "1794139809971",
+    "1794139800109",
     "1794140477402",
     "1794140771019",
     "1794141921613",
@@ -26136,7 +26136,7 @@
     "2333903"
   ],
   "last_digest_hour": "2026-11-08T19",
-  "last_success": "2026-11-08T13:31:14.397164+00:00",
+  "last_success": "2026-11-08T13:45:57.703081+00:00",
   "national": {
     "alerted": [
       {
@@ -36254,10 +36254,9 @@
       },
       "warned": "2026-11-08T00:02:31.572081+00:00"
     },
-    "last_run": "2026-11-08T13:32:27.029361+00:00",
-    "pib_mark": 2334133,
+    "last_run": "2026-11-08T13:47:13.709558+00:00",
+    "pib_mark": 2334176,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-bhavina-patel-on-winning-bronze-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-pradeep-kumar-on-winning-silver-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-sonalben-patel-on-winning-bronze-at-the-asian-para-games",
       "quake:usgs:pt26293000",
@@ -39256,7 +39255,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-distributes-sweets-and-celebrates-diwali-with-jawans-at-cobra-operations-base-at-bastar",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-interaction-with-the-security-forces-in-bastar-chhattisgarh",
       "pib:2334133",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-celebrates-diwali-with-the-security-forces-at-cobra-operations-base-at-karanpur-in-bastar-chhattisgarh"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-celebrates-diwali-with-the-security-forces-at-cobra-operations-base-at-karanpur-in-bastar-chhattisgarh",
+      "pib:2334176"
     ],
     "source_failures": {
       "CBI": {
@@ -40554,7 +40554,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-08T13:31:14.812394+00:00",
+    "last_server_run": "2026-11-08T13:45:58.063035+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -51532,14 +51532,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-08T13:32:30.007399+00:00",
+    "last_run": "2026-11-08T13:47:19.900698+00:00",
     "seen": [
-      "x:2117175258394525736",
-      "x:2117175691301310652",
-      "x:2117175987570090405",
-      "x:2117176187579511153",
-      "x:2117176721711788141",
-      "x:2117176998825275548",
       "x:2117177106736222276",
       "x:2117136116138869147",
       "x:2117181107217314135",
@@ -54533,7 +54527,13 @@
       "x:2119414646709092359",
       "x:2119414687096004949",
       "x:2119415757515952524",
-      "x:2119415958095966588"
+      "x:2119415958095966588",
+      "x:2119422186846925236",
+      "x:2119422187769647284",
+      "x:2119422516620062880",
+      "x:2119424280769474788",
+      "x:2119425089901056038",
+      "x:2119425134624928033"
     ],
     "source_failures": {},
     "sources": []
