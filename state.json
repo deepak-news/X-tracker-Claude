@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-29T05:31:26.152449+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio dethrones Airtel as largest Indian telecom player on debut",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzFqendfbWgzNTFmaHM5bkdycmg2N1pXWDJYb3M4Mnl5NUtEQ3NFS0ppWU55WVVVM0k3azRJbmlVRU1ycmozWExSamRDRWRpTWtQNk5COFd3TF9sSlpGV0I5M2owSjlQVlFHVC13bzMyTDFldHZwZEFSSnhkSWhqb2xTMzl4a0I4ekV1MXZtNjVfYnlQaUkw0gGcAUFVX3lxTE4zTnk2emIxblNHUkJQV0ZuVll1U3lNcmlFdUZURWhBN3VJUzlOdEdpdHRqYWY0U2I2NE9nRUJveWVERm1fTVVaMnRBd3J0enh1Q1NGZ0FpX1FQQ1ktMXJjVS1kd0FvZTVUQURtSHplc0oxYkJfa3lWS09hVlFrYTJhbWRkcHQzQy01dDc2aVdtUmxBMVBQQm1tUFhZZA?oc=5",
-      "words": [
-        "airtel",
-        "debut",
-        "dethrones",
-        "jio",
-        "largest",
-        "market",
-        "player",
-        "telecom"
-      ]
-    },
-    {
-      "at": "2026-10-29T05:31:26.152449+00:00",
       "handle": "News: Big tech platforms",
       "headline": "Microsoft posts strong quarterly results driven by AI boom",
       "tier": 0,
@@ -7392,6 +7375,22 @@
         "paramjeet",
         "tech",
         "threats"
+      ]
+    },
+    {
+      "at": "2026-11-08T08:31:40.224999+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "CAM advises 21 selling shareholders in Zetwerk's \u20b95,012 crore IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSV93aHR6bGQyOU5mRHBXNFlsSU1QSDBBeHRQOEd3ZUFwOVZOeFFQc09UNnlsYURxTVN2YkVJWFA3dFZOQ0hsLVBnd09rNWZXMDM3WW1GMW5POEM3QUxabFhPUURhNUJKYmxLUDBzLUxVRFdOSHBWVWRoSHY2ekhIRW12MGVYSE44Wm9wYk1rQlYxNWo1TVR3dzN1R2lwZXpSc3BfV0ltRFR0VUVnYUJYSjl4U01zSkdCeUtQeXI2dUJyYzhXekd6Y2pLVXU3ZFRySlZ4dWN30gHaAUFVX3lxTE5tN0ViakFhZlRUV0x6RTZVSnJHS294VC1Nel9mOWhMZG11NmZpVklQQ2J6UV9nQ2hFb0ZwWXhyeWFENFpsOEFsSHF3R0s3NkZCa1ZEQWt1YjNkcHpVMDBGX3BFVzR4Z2x1NlZVaGY0UXRwYS1KM3NSVjR4X3ZnS215c1BEMkVTelhnYVp2VUoxQVE3UDliRmRvbTVBQ2xMTFNqbG5UNzJYQ0NtZnM5UmJrLUtmSGdQcVBSbU1OdFMxR1pwNXR4aVR6dXc0WHBDTkJtRUtBcENJYjNR?oc=5",
+      "words": [
+        "012",
+        "advises",
+        "cam",
+        "ipo",
+        "selling",
+        "shareholders",
+        "zetwerk"
       ]
     }
   ],
@@ -17074,11 +17073,9 @@
       "CG-DL-E-07112026-277799"
     ],
     "health": {
-      "down": {
-        "IMD": "2026-11-08T08:20:04.607250+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-08T08:20:05.837558+00:00",
+    "last_run": "2026-11-08T08:33:24.826326+00:00",
     "pib_mark": 2334086,
     "seen": [
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63814",
@@ -20082,11 +20079,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-conveys-diwali-greetings-to-all-citizens",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-greets-bharat-ratna-shri-l-k-advani-ji-as-he-enters-his-100th-year"
     ],
-    "source_failures": {
-      "IMD": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20145,9 +20138,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793340540287",
-    "1793375404148",
-    "1793408352064",
     "1793413907405",
     "1793418026136",
     "1793336603892",
@@ -24703,7 +24693,6 @@
     "1794025892819",
     "1794026467147",
     "1794026467516",
-    "1794057745743",
     "1794027478881",
     "1794029352671",
     "1794062626751",
@@ -24718,7 +24707,6 @@
     "1794031708024",
     "1794032122767",
     "1794110357295",
-    "1794114081038",
     "1794032661010",
     "1794032719045",
     "1794112008905",
@@ -24746,6 +24734,13 @@
     "1794051419885",
     "1794056088804",
     "1794114011263",
+    "1793750400772",
+    "1794039919550",
+    "1794040092411",
+    "1794043385440",
+    "1794057745236",
+    "1794068794175",
+    "1794114011038",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25935,7 +25930,6 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
-    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -26024,13 +26018,10 @@
     "1793991936281",
     "1793996220189",
     "1794025425714",
-    "1794039919550",
-    "1794040092411",
     "1794040974690",
     "1794041651857",
     "1794042540610",
     "1794042818650",
-    "1794043385440",
     "1794045641871",
     "1794046920193",
     "1794048090780",
@@ -26053,19 +26044,19 @@
     "1794056340940",
     "1794056401038",
     "1794056854991",
-    "1794057745236",
+    "1794057745743",
     "1794057786996",
     "1794060660956",
     "1794061229478",
     "1794061372077",
     "1794062567116",
     "1794063973750",
+    "1794064196071",
     "1794066225962",
     "1794066523704",
     "1794067507925",
     "1794067980839",
     "1794068736979",
-    "1794068794175",
     "1794069619763",
     "1794069649273",
     "1794069840248",
@@ -26098,7 +26089,7 @@
     "1794111900236",
     "1794113220362",
     "1794113242835",
-    "1794114011038",
+    "1794114081038",
     "1794114213263",
     "1794114240387",
     "1794114406994",
@@ -26119,6 +26110,8 @@
     "1794122106271",
     "1794122520850",
     "1794123054494",
+    "1794126300133",
+    "1794126472578",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26146,8 +26139,8 @@
     "2333716",
     "2333903"
   ],
-  "last_digest_hour": "2026-11-08T13",
-  "last_success": "2026-11-08T08:16:02.313670+00:00",
+  "last_digest_hour": "2026-11-08T14",
+  "last_success": "2026-11-08T08:31:40.311841+00:00",
   "national": {
     "alerted": [
       {
@@ -36260,13 +36253,12 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "IMD": "2026-11-08T08:18:28.337088+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-08T00:02:31.572081+00:00"
     },
-    "last_run": "2026-11-08T08:18:30.410064+00:00",
+    "last_run": "2026-11-08T08:33:08.368331+00:00",
     "pib_mark": 2334086,
     "seen": [
       "mea:41824",
@@ -39275,9 +39267,6 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "IMD": {
-        "count": 1
-      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -40506,12 +40495,12 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794123054494,
+    "news: big tech platforms": 1794126300133,
     "news: consumer internet india": 1794117693712,
     "news: global ai": 1794110100993,
     "news: global chips": 1794108189542,
     "news: global it services": 1794034497661,
-    "news: india ai deeptech": 1794108765749,
+    "news: india ai deeptech": 1794126472578,
     "news: india edtech gaming": 1794078463554,
     "news: india fintech": 1794121849838,
     "news: india semiconductors": 1794080893693,
@@ -40547,7 +40536,9 @@
     "zoho": 1793973136004
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-08T08:31:34.503820+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40569,7 +40560,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-08T08:16:02.712314+00:00",
+    "last_server_run": "2026-11-08T08:31:40.761122+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -40709,11 +40700,11 @@
       },
       "last": {
         "calendar": "2026-11-08T07:02:29.951401+00:00",
-        "ls_reports": "2026-11-08T06:31:53.138638+00:00",
-        "rs_committee_press": "2026-11-08T06:32:02.201301+00:00",
-        "rs_press": "2026-11-08T06:31:59.522808+00:00",
-        "rs_reports": "2026-11-08T06:31:56.639094+00:00",
-        "rs_updates": "2026-11-08T06:32:03.812690+00:00"
+        "ls_reports": "2026-11-08T08:32:12.247787+00:00",
+        "rs_committee_press": "2026-11-08T08:32:21.848437+00:00",
+        "rs_press": "2026-11-08T08:32:18.757647+00:00",
+        "rs_reports": "2026-11-08T08:32:15.630555+00:00",
+        "rs_updates": "2026-11-08T08:32:23.627669+00:00"
       }
     },
     "scanned": [
@@ -51547,15 +51538,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-08T08:18:38.452653+00:00",
+    "last_run": "2026-11-08T08:33:15.358706+00:00",
     "seen": [
-      "x:2116898118667243992",
-      "x:2116899684166123894",
-      "x:2116899726402687021",
-      "x:2116900357154669013",
-      "x:2116900568778289598",
-      "x:2116900853089177733",
-      "x:2116902097027531052",
       "x:2116902391274717210",
       "x:2116902758775459929",
       "x:2116904736364626028",
@@ -54548,7 +54532,14 @@
       "x:2119342381489148144",
       "x:2119342858373361852",
       "x:2119343326998519845",
-      "x:2119343435278934025"
+      "x:2119343435278934025",
+      "x:2119344351939907596",
+      "x:2119344579883544944",
+      "x:2119344729959854131",
+      "x:2119344807105683908",
+      "x:2119345380970098991",
+      "x:2119345773741756479",
+      "x:2119346299585937794"
     ],
     "source_failures": {},
     "sources": []
