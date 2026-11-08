@@ -17075,10 +17075,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-08T11:03:03.042573+00:00",
+    "last_run": "2026-11-08T11:17:39.687535+00:00",
     "pib_mark": 2334133,
     "seen": [
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-subhalakshmi-m-s-under-rc-no-7712-of-2024-in-the-matter-of-arvind-remedies-ltd-_105230.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-under-recovery-certificate-number-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-investigation-in-the-matter-of-market-manipulatio-_105240.html",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-offers-prayers-to-maa-katyayani-during-navratri",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-praising-the-divine-presence-of-maa-jagadambika-in-all-forms",
@@ -19594,6 +19593,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-dhanteras-greetings-to-all-citizens",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-khunti-jharkhand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-ayurveda-and-the-importance-of-preventive-healthcare",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-adorable-moment-with-indian-cricketer-suryakumar-yadav-and-his-family",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63934",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63935",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63936",
@@ -20036,7 +20036,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+IRDAI+16+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%A3+%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%B0+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%97%E0%A4%BE+Press+Release-IRDAI+to+organize+16+Grievance+Redressal+Camps.pdf/0e29a3e6-924e-1b82-f5a6-97ca5bc3b64f",
       "mea:41932",
       "page:https://www.pmindia.gov.in/en/news_updates/governor-of-tamil-nadu-meets-pm-2",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-adorable-moment-with-indian-cricketer-suryakumar-yadav-and-his-family",
       "gazette:CG-DL-E-07112026-277783",
       "gazette:CG-DL-E-07112026-277784",
       "gazette:CG-DL-E-07112026-277781",
@@ -20077,7 +20076,8 @@
       "pib:2334114",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-distributes-sweets-and-celebrates-diwali-with-jawans-at-cobra-operations-base-at-bastar",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-interaction-with-the-security-forces-in-bastar-chhattisgarh",
-      "pib:2334133"
+      "pib:2334133",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-celebrates-diwali-with-the-security-forces-at-cobra-operations-base-at-karanpur-in-bastar-chhattisgarh"
     ],
     "source_failures": {},
     "sources": [
@@ -20138,8 +20138,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793340093755",
-    "1793340144660",
     "1793340874148",
     "1793340896900",
     "1793341500047",
@@ -24730,7 +24728,6 @@
     "1794054600705",
     "1794067980839",
     "1794046920193",
-    "1794051419885",
     "1794086596542",
     "1794087665358",
     "1794089242523",
@@ -24738,11 +24735,11 @@
     "1794048120156",
     "1794050440368",
     "1794108900632",
-    "1793750400772",
     "1794049080097",
-    "1794056220240",
     "1794114011038",
     "1794114011263",
+    "1794056220769",
+    "1794068794175",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25932,6 +25929,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -26023,6 +26021,7 @@
     "1794050211832",
     "1794050700122",
     "1794051300001",
+    "1794051419885",
     "1794051436883",
     "1794053583129",
     "1794053865636",
@@ -26031,7 +26030,7 @@
     "1794054911080",
     "1794055660896",
     "1794056088357",
-    "1794056220769",
+    "1794056220240",
     "1794056401038",
     "1794056854991",
     "1794057745743",
@@ -26046,7 +26045,6 @@
     "1794066523704",
     "1794067507925",
     "1794068736979",
-    "1794068794175",
     "1794069619763",
     "1794069649273",
     "1794069840248",
@@ -26107,6 +26105,8 @@
     "1794131040540",
     "1794132000533",
     "1794132060125",
+    "1794132336393",
+    "1794133301667",
     "1794133500727",
     "1794133884404",
     "1794135000236",
@@ -26140,7 +26140,7 @@
     "2333903"
   ],
   "last_digest_hour": "2026-11-08T16",
-  "last_success": "2026-11-08T11:01:30.333570+00:00",
+  "last_success": "2026-11-08T11:16:01.535252+00:00",
   "national": {
     "alerted": [
       {
@@ -36258,10 +36258,9 @@
       },
       "warned": "2026-11-08T00:02:31.572081+00:00"
     },
-    "last_run": "2026-11-08T11:02:43.683040+00:00",
+    "last_run": "2026-11-08T11:17:18.181654+00:00",
     "pib_mark": 2334133,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ravanni-valasanaini-on-winning-bronze-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-bhavina-patel-on-winning-bronze-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-pradeep-kumar-on-winning-silver-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-sonalben-patel-on-winning-bronze-at-the-asian-para-games",
@@ -38715,6 +38714,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-dhanteras-greetings-to-all-citizens",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-grief-over-loss-of-lives-in-mishap-in-khunti-jharkhand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-ayurveda-and-the-importance-of-preventive-healthcare",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-adorable-moment-with-indian-cricketer-suryakumar-yadav-and-his-family",
       "page:https://internal.imd.gov.in/press_release/20260930_pr_5356.pdf",
       "page:https://internal.imd.gov.in/press_release/20260930_pr_5361.pdf",
       "page:https://internal.imd.gov.in/press_release/20260930_pr_5363.pdf",
@@ -39218,7 +39218,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+IRDAI+16+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%A3+%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%B0+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%97%E0%A4%BE+Press+Release-IRDAI+to+organize+16+Grievance+Redressal+Camps.pdf/0e29a3e6-924e-1b82-f5a6-97ca5bc3b64f",
       "mea:41932",
       "page:https://www.pmindia.gov.in/en/news_updates/governor-of-tamil-nadu-meets-pm-2",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-adorable-moment-with-indian-cricketer-suryakumar-yadav-and-his-family",
       "gazette:CG-DL-E-07112026-277784",
       "gazette:CG-DL-E-07112026-277783",
       "gazette:CG-DL-E-07112026-277781",
@@ -39260,7 +39259,8 @@
       "pib:2334114",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-distributes-sweets-and-celebrates-diwali-with-jawans-at-cobra-operations-base-at-bastar",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-interaction-with-the-security-forces-in-bastar-chhattisgarh",
-      "pib:2334133"
+      "pib:2334133",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-celebrates-diwali-with-the-security-forces-at-cobra-operations-base-at-karanpur-in-bastar-chhattisgarh"
     ],
     "source_failures": {
       "CBI": {
@@ -40524,7 +40524,7 @@
     "news: india fintech": 1794133884404,
     "news: india semiconductors": 1794080893693,
     "news: india tech policy": 1794118917836,
-    "news: india telecom": 1794131040540,
+    "news: india telecom": 1794132336393,
     "news: indian it majors": 1794135191833,
     "news: indian it midcaps": 1794126735905,
     "news: pib releases": 1790159940641,
@@ -40555,9 +40555,7 @@
     "zoho": 1793973136004
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-08T11:01:25.451580+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40579,7 +40577,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-08T11:01:30.839184+00:00",
+    "last_server_run": "2026-11-08T11:16:02.048210+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -51557,17 +51555,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-08T11:02:50.478760+00:00",
+    "last_run": "2026-11-08T11:17:26.578164+00:00",
     "seen": [
-      "x:2117117580184039543",
-      "x:2117118234683949298",
-      "x:2117118441916445054",
-      "x:2117119617764356589",
-      "x:2117121921120878965",
-      "x:2117123285821374509",
-      "x:2117123846486864061",
-      "x:2117124952302473543",
-      "x:2117128963038572911",
       "x:2117132093797040219",
       "x:2117133391208616160",
       "x:2117133799184363698",
@@ -54558,7 +54547,16 @@
       "x:2119381778607837311",
       "x:2119382941113741655",
       "x:2119383933003677857",
-      "x:2119383942713442434"
+      "x:2119383942713442434",
+      "x:2119384437586538578",
+      "x:2119384439176519741",
+      "x:2119384587466076596",
+      "x:2119384895147626785",
+      "x:2119385659505058135",
+      "x:2119385787137728699",
+      "x:2119385867647164573",
+      "x:2119386019128656070",
+      "x:2119386162011783270"
     ],
     "source_failures": {},
     "sources": []
