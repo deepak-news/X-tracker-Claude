@@ -7405,26 +7405,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-10-21T14:19:06.093027+00:00",
-        "handle": "PIB Prime Minister's Office",
-        "headline": "Prime Minister congratulates Mohammad Basil M for winning silver at Asian Para Games.",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326140",
-        "words": [
-          "asian",
-          "basil",
-          "congratulates",
-          "games",
-          "minister",
-          "mohammad",
-          "office",
-          "para",
-          "prime",
-          "silver",
-          "winning"
-        ]
-      },
-      {
         "at": "2026-10-21T15:09:01.380809+00:00",
         "handle": "PIB Prime Minister's Office",
         "headline": "Prime Minister congratulates Simran on winning gold at the Asian Para Games",
@@ -16164,6 +16144,28 @@
           "pharmaceuticals",
           "revised"
         ]
+      },
+      {
+        "at": "2026-11-09T07:17:28.804455+00:00",
+        "handle": "PIB Ministry of Defence",
+        "headline": "India and Myanmar conclude inaugural tri-services humanitarian assistance and disaster relief exercise Rahat M",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334306",
+        "words": [
+          "bilateral",
+          "chennai",
+          "concludes",
+          "defence",
+          "exercise",
+          "hadr",
+          "inaugural",
+          "ministry",
+          "mitra",
+          "myanmar",
+          "rahat",
+          "services",
+          "tri"
+        ]
       }
     ],
     "gazette_mark": 277799,
@@ -17087,10 +17089,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-09T07:03:31.596518+00:00",
-    "pib_mark": 2334268,
+    "last_run": "2026-11-09T07:17:28.805797+00:00",
+    "pib_mark": 2334306,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63821",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/exemption-order-in-the-matter-of-allcargo-logistics-limited_105250.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1555-of-2026-in-the-matter-of-hbn-dairies-and-allied-limited-under-recovery-certificate-no-1216-of-2017-_105255.html",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63822",
@@ -20089,7 +20090,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63947",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63946",
       "pib:2334268",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168756"
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168756",
+      "pib:2334306"
     ],
     "source_failures": {},
     "sources": [
@@ -20150,16 +20152,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "2321282",
-    "2321379",
-    "2321418",
-    "2321436",
-    "2321441",
-    "2321480",
-    "2321510",
-    "2321511",
-    "2321512",
-    "2321533",
     "2321723",
     "2321784",
     "2321853",
@@ -24676,7 +24668,6 @@
     "1794202772176",
     "1794203676717",
     "1794204152945",
-    "1793750400772",
     "1794120246345",
     "1794131040540",
     "1794147251623",
@@ -24695,12 +24686,19 @@
     "1793196354316",
     "1794184020056",
     "1794194343109",
-    "1794194835343",
     "1794195060440",
     "1794200801172",
     "1794202772594",
     "1794205626470",
     "1794206486015",
+    "1794121849838",
+    "1794122106271",
+    "1794179493132",
+    "1794199680026",
+    "1794200970338",
+    "1794203415756",
+    "1794205197866",
+    "1794205932863",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25883,6 +25881,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25971,8 +25970,6 @@
     "1793991936281",
     "1793996220189",
     "1794025425714",
-    "1794121849838",
-    "1794122106271",
     "1794126472578",
     "1794127078569",
     "1794132000207",
@@ -26003,7 +26000,6 @@
     "1794171720478",
     "1794172575871",
     "1794179318016",
-    "1794179493132",
     "1794181246251",
     "1794182714154",
     "1794184200241",
@@ -26037,6 +26033,7 @@
     "1794193844646",
     "1794194383515",
     "1794194806398",
+    "1794194835343",
     "1794195216830",
     "1794195318060",
     "1794195480635",
@@ -26055,6 +26052,7 @@
     "1794197954178",
     "1794198060540",
     "1794198120375",
+    "1794198344194",
     "1794198436027",
     "1794198768834",
     "1794198824761",
@@ -26064,7 +26062,6 @@
     "1794199422023",
     "1794199478100",
     "1794199560776",
-    "1794199680026",
     "1794199708297",
     "1794199744452",
     "1794199744960",
@@ -26081,7 +26078,6 @@
     "1794200700406",
     "1794200812575",
     "1794200902577",
-    "1794200970338",
     "1794201178957",
     "1794201270378",
     "1794201360514",
@@ -26094,14 +26090,15 @@
     "1794202851864",
     "1794203067036",
     "1794203308529",
-    "1794203415756",
     "1794203416393",
     "1794203460395",
     "1794203520021",
     "1794203600663",
     "1794203636554",
     "1794203676855",
+    "1794203707554",
     "1794203737822",
+    "1794204199568",
     "1794204255862",
     "1794204372370",
     "1794204449742",
@@ -26109,20 +26106,25 @@
     "1794204796483",
     "1794205080985",
     "1794205159281",
-    "1794205197866",
+    "1794205197779",
     "1794205200516",
     "1794205296086",
+    "1794205380436",
     "1794205440440",
     "1794205547229",
     "1794205624681",
     "1794205626103",
     "1794205672916",
     "1794205710945",
-    "1794205932863",
+    "1794205850831",
     "1794205941084",
     "1794206188776",
     "1794206400842",
     "1794206486235",
+    "1794207604823",
+    "1794207731128",
+    "1794207838455",
+    "1794208087136",
     "1794217677705",
     "1795996800387",
     "2331589",
@@ -26152,7 +26154,7 @@
     "2333903"
   ],
   "last_digest_hour": "2026-11-09T12",
-  "last_success": "2026-11-09T07:02:08.482479+00:00",
+  "last_success": "2026-11-09T07:16:01.755073+00:00",
   "national": {
     "alerted": [
       {
@@ -36266,10 +36268,9 @@
       },
       "warned": "2026-11-09T00:02:59.795075+00:00"
     },
-    "last_run": "2026-11-09T07:03:15.596346+00:00",
-    "pib_mark": 2334268,
+    "last_run": "2026-11-09T07:17:08.583016+00:00",
+    "pib_mark": 2334306,
     "seen": [
-      "pib:2325504",
       "pib:2325511",
       "pib:2325509",
       "pib:2325512",
@@ -39268,7 +39269,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63946",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63947",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168756",
-      "pib:2334268"
+      "pib:2334268",
+      "pib:2334306"
     ],
     "source_failures": {
       "CBI": {
@@ -40505,7 +40507,7 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1794206486235,
     "news: consumer internet india": 1794197800301,
-    "news: global ai": 1794206400842,
+    "news: global ai": 1794207604823,
     "news: global chips": 1794205941084,
     "news: global it services": 1794188564423,
     "news: india ai deeptech": 1794132000207,
@@ -40513,11 +40515,11 @@
     "news: india fintech": 1794204372370,
     "news: india semiconductors": 1794203676855,
     "news: india tech policy": 1794168079422,
-    "news: india telecom": 1794204449742,
+    "news: india telecom": 1794207731128,
     "news: indian it majors": 1794200812575,
     "news: indian it midcaps": 1794136380293,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794206486235,
+    "news: tech leaders": 1794208087136,
     "nvidia": 1794200440659,
     "nvidia blog": 1794200440659,
     "openai": 1793952000534,
@@ -40544,9 +40546,7 @@
     "zoho": 1794217677705
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-09T06:46:09.448422+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40568,7 +40568,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-09T07:02:08.978186+00:00",
+    "last_server_run": "2026-11-09T07:16:02.248560+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -51543,21 +51543,45 @@
           "duty",
           "narendramodi"
         ]
+      },
+      {
+        "at": "2026-11-09T07:17:17.035400+00:00",
+        "headline": "Government approves \u20b914,500 crore funding scheme to develop large-scale electricity storage systems",
+        "url": "https://x.com/PIB_India/status/2119686159131648088",
+        "words": [
+          "500",
+          "600",
+          "adding",
+          "approved",
+          "av2fe68pyb",
+          "capacity",
+          "develop",
+          "electricity",
+          "energy",
+          "estimated",
+          "funding",
+          "future",
+          "gap",
+          "government",
+          "gwh",
+          "https",
+          "investment",
+          "large",
+          "powering",
+          "reliable",
+          "scale",
+          "scheme",
+          "secure",
+          "storage",
+          "systems",
+          "viability"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-09T07:03:22.204150+00:00",
+    "last_run": "2026-11-09T07:17:17.035687+00:00",
     "seen": [
-      "x:2117203794291515432",
-      "x:2117205804474568782",
-      "x:2117208393077375305",
-      "x:2117215348692815902",
-      "x:2117220675333304699",
-      "x:2117223733127709076",
-      "x:2117225531339116586",
-      "x:2117230585173377501",
-      "x:2117250324486590563",
       "x:2117250456305140079",
       "x:2117250660907602381",
       "x:2117251211221148147",
@@ -54548,7 +54572,16 @@
       "x:2119681694668300547",
       "x:2119682199721296084",
       "x:2119682650009202777",
-      "x:2119684497184829483"
+      "x:2119684497184829483",
+      "x:2119686159131648088",
+      "x:2119686560618799338",
+      "x:2119686651769471009",
+      "x:2119688116781093318",
+      "x:2119688186683134079",
+      "x:2119688695519580567",
+      "x:2119688790125981700",
+      "x:2119688891032830186",
+      "x:2119688897932488801"
     ],
     "source_failures": {},
     "sources": []
