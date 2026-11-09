@@ -2,24 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-29T08:31:36.502335+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Myntra Beauty adds Kylie Cosmetics to premium portfolio",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaUNoc3YyZWszZHhOOXVVMktXVGJoS0dXQm53V2RMaEsyRi1pX00zb0JEcTVTdkNXdXJQWS1KaEJBQkR2S2wtU0tnZ1RpbU9YRDI3QmZMbFZWRkNuc21hSXdSMGVOMnhyRjNxSWZNbnRIQVBpWDRuZHRTOXdEMVdNSVc1bC1oSmRhR2hBMUVuN2VBdGlhblhYOGpXS1NwVnRxdTZ1Mk4tcEJIT21ZUFFzSTJPN04xZERPcjlVUk1LaEZUZU51RWFpMUg4NHk1bnhEWVB4V293UE9aRzV0M0Iw0gHjAUFVX3lxTFBnZlV6c1dFLVlKV1hGeGNINGhESG9vMERUb2IwWEJvdm10TnpUV3lsb044S1NoOVA0RGRBTUFKcU9UQ05MVHlsbzdaUERBYXdBVF9aUUR6MURVWGhNVnpOS2lmWk1sRVJXUWxWQlFtWGhfTGNzU1MtUXIyMzhqVHctaEVjTFdHS080eXVjSGlBeV8xYlBDTTFxckt2NXl6NDFXLW1LbGV3OHYyS0xvZ29wWTZmQWlQRnZpRmxYUUJybFJpZThuakdYemJIVDBSbmY5ZmE4Q1pJaFhrT2twQjN2NDRz?oc=5",
-      "words": [
-        "106",
-        "adds",
-        "beauty",
-        "cosmetics",
-        "kylie",
-        "myntra",
-        "portfolio",
-        "premium",
-        "skus"
-      ]
-    },
-    {
-      "at": "2026-10-29T08:31:36.502335+00:00",
       "handle": "News: Global chips",
       "headline": "LB Semicon expands PMIC capacity in 10-year Qualcomm deal",
       "tier": 0,
@@ -7402,6 +7384,26 @@
         "sarvam",
         "sashikumar",
         "sreedharan"
+      ]
+    },
+    {
+      "at": "2026-11-09T10:31:26.433438+00:00",
+      "handle": "News: India edtech gaming",
+      "headline": "PhysicsWallah cuts jobs citing AI efficiencies and earmarks $20 Mn for M&A",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbzNFdVJTYVhfc1Nqd2dVNUpXSmF4QkhxQ2p4U0xFUWVOQzZIYWNwdFg2ZE5LWW1JZ0xLc0t2VFIwSGlZSjF0MGJXOHFSejlGYUdaLWRVN1cyQmdoZVdKcnlidU04Q0lXVE80UG9mSjhSMGVwMHl0N1FfQzBoQ0tKTXh2b0lqZDdjM0xUSWdVamxWY1FlQjZ5U29DdWVjbmE4amIzbXQwZzQ3eDVYMTNjY0lWTzFwLS1rSHZ5M2Rac0RSWHZmT1dKVUYzUnlobGhnejN2eHVR0gHWAUFVX3lxTFBvM0V1UlNhWF9zU2p3Z1U1SldKYXhCSHFDanhTTEVRZU5DNkhhY3B0WDZkTktZbUlnTEtzS3ZUUjBIaVlKMXQwYlc4cVJ6OUZhR1otZFU3VzJCZ2hlV0pyeWJ1TThDSVdUTzRQb2ZKOFIwZXAweXQ3UV9DMGhDS0pNeHZvSWpkN2MzTFRJZ1VqbFZjUWVCNnlTb0N1ZWNuYThqYjNtdDBnNDd4NVgxM2NjSVZPMXAtLWtIdnkzZFpzRFJYdmZPV0pVRjNSeWhsaGd6M3Z4dVE?oc=5",
+      "words": [
+        "biz",
+        "cites",
+        "cuts",
+        "earmarks",
+        "efficiencies",
+        "faces",
+        "job",
+        "offline",
+        "physicswallah",
+        "pressure",
+        "profit"
       ]
     }
   ],
@@ -17094,10 +17096,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-09T10:17:24.978712+00:00",
+    "last_run": "2026-11-09T10:33:02.937428+00:00",
     "pib_mark": 2334344,
     "seen": [
-      "gazette:CG-DL-E-17102026-277236",
       "gazette:CG-DL-E-17102026-277237",
       "gazette:CG-DL-E-17102026-277238",
       "gazette:CG-TL-E-17102026-277244",
@@ -20096,7 +20097,8 @@
       "pib:2334316",
       "pib:2334330",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63948",
-      "pib:2334344"
+      "pib:2334344",
+      "watch:meeting:LS|22640"
     ],
     "source_failures": {},
     "sources": [
@@ -20157,19 +20159,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793464940995",
-    "1793468750541",
-    "1793419394578",
-    "1793420032136",
-    "1793494807379",
-    "1793504809348",
-    "1793420341548",
-    "1793420431402",
-    "1793421660421",
-    "1793463477921",
-    "1793506699270",
-    "1793422080594",
-    "1793422380734",
     "1793422662220",
     "1793433790819",
     "1793447529251",
@@ -24559,7 +24548,6 @@
     "1794122106271",
     "1794179493132",
     "1794200970338",
-    "1794205197866",
     "1794205932863",
     "1794197004155",
     "1794197400310",
@@ -24586,7 +24574,6 @@
     "1794202851864",
     "1794203707554",
     "1794204255862",
-    "1794205941084",
     "1794209080311",
     "1794209465308",
     "1794209500900",
@@ -24660,7 +24647,6 @@
     "1794160340971",
     "1794184439148",
     "1794193587393",
-    "1794193957750",
     "1794204552272",
     "1794205440440",
     "1794205626470",
@@ -24671,7 +24657,6 @@
     "1794141921613",
     "1794161012433",
     "1794168062148",
-    "1794181246251",
     "1794195060440",
     "1794197460691",
     "1794199744452",
@@ -24679,6 +24664,21 @@
     "1794205932350",
     "1794211371373",
     "1794212509396",
+    "1794138501562",
+    "1794160996020",
+    "1794172575871",
+    "1794184020056",
+    "1794199860118",
+    "1794205197779",
+    "1794205547229",
+    "1794208980406",
+    "1794209256115",
+    "1794209557060",
+    "1794209930084",
+    "1794210793101",
+    "1794214260643",
+    "1794214490728",
+    "1794214565283",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25952,7 +25952,6 @@
     "1794135191833",
     "1794135609301",
     "1794136380293",
-    "1794138501562",
     "1794139220562",
     "1794139809971",
     "1794142120463",
@@ -25963,14 +25962,12 @@
     "1794145706186",
     "1794145782730",
     "1794150001860",
-    "1794160996020",
     "1794162661552",
     "1794168000279",
     "1794168079422",
     "1794171720478",
-    "1794172575871",
+    "1794181246251",
     "1794182714154",
-    "1794184020056",
     "1794184200241",
     "1794184200350",
     "1794184200404",
@@ -25995,6 +25992,7 @@
     "1794192984477",
     "1794193256203",
     "1794193844646",
+    "1794193957750",
     "1794194383515",
     "1794194806398",
     "1794194835343",
@@ -26018,7 +26016,6 @@
     "1794199422023",
     "1794199478100",
     "1794199708238",
-    "1794199860118",
     "1794200400023",
     "1794200400506",
     "1794200404623",
@@ -26041,10 +26038,10 @@
     "1794203737822",
     "1794204372370",
     "1794205080985",
-    "1794205197779",
+    "1794205197866",
     "1794205380436",
-    "1794205547229",
     "1794205624681",
+    "1794205941084",
     "1794206400842",
     "1794206486015",
     "1794207000093",
@@ -26055,16 +26052,13 @@
     "1794208211842",
     "1794208487741",
     "1794208606123",
-    "1794208980406",
     "1794209075571",
     "1794209225692",
-    "1794209256115",
+    "1794209256432",
     "1794209341395",
     "1794209400909",
     "1794209511674",
-    "1794209557060",
     "1794209566852",
-    "1794209930084",
     "1794210182615",
     "1794210212520",
     "1794210297227",
@@ -26072,7 +26066,6 @@
     "1794210351673",
     "1794210609230",
     "1794210780758",
-    "1794210793101",
     "1794210866371",
     "1794210944311",
     "1794210983432",
@@ -26097,16 +26090,15 @@
     "1794213904685",
     "1794214020031",
     "1794214064695",
-    "1794214260643",
     "1794214260793",
-    "1794214490728",
     "1794214512982",
     "1794214531921",
-    "1794214565283",
     "1794214800318",
     "1794214865308",
     "1794214914203",
     "1794215148273",
+    "1794215222406",
+    "1794215520643",
     "1794215537297",
     "1794215756462",
     "1794215920600",
@@ -26130,7 +26122,17 @@
     "1794218400629",
     "1794218520230",
     "1794218540432",
+    "1794218753993",
+    "1794218800082",
     "1794219004815",
+    "1794219117980",
+    "1794219256582",
+    "1794219293086",
+    "1794219326282",
+    "1794219607388",
+    "1794219714900",
+    "1794219731211",
+    "1794219968298",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26158,8 +26160,8 @@
     "2333716",
     "2333903"
   ],
-  "last_digest_hour": "2026-11-09T15",
-  "last_success": "2026-11-09T10:16:03.652423+00:00",
+  "last_digest_hour": "2026-11-09T16",
+  "last_success": "2026-11-09T10:31:26.528251+00:00",
   "national": {
     "alerted": [
       {
@@ -36273,10 +36275,9 @@
       },
       "warned": "2026-11-09T00:02:59.795075+00:00"
     },
-    "last_run": "2026-11-09T10:17:08.833786+00:00",
+    "last_run": "2026-11-09T10:32:41.232732+00:00",
     "pib_mark": 2334344,
     "seen": [
-      "pib:2325519",
       "pib:2325520",
       "pib:2325526",
       "pib:2325534",
@@ -39275,7 +39276,8 @@
       "pib:2334316",
       "pib:2334330",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63948",
-      "pib:2334344"
+      "pib:2334344",
+      "watch:meeting:LS|22640"
     ],
     "source_failures": {
       "CBI": {
@@ -39346,26 +39348,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "PhysicsWallah cuts jobs citing AI efficiencies and earmarks $20 Mn for M&A",
-      "post": {
-        "created_at": "2026-11-09T10:02:20+00:00",
-        "handle": "News: India edtech gaming",
-        "id": "1794218540432",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Entrackr",
-        "reposts": 0,
-        "text": "PhysicsWallah cites AI efficiencies for job cuts; offline biz faces profit pressure, earmarks $20 Mn for M&A",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbzNFdVJTYVhfc1Nqd2dVNUpXSmF4QkhxQ2p4U0xFUWVOQzZIYWNwdFg2ZE5LWW1JZ0xLc0t2VFIwSGlZSjF0MGJXOHFSejlGYUdaLWRVN1cyQmdoZVdKcnlidU04Q0lXVE80UG9mSjhSMGVwMHl0N1FfQzBoQ0tKTXh2b0lqZDdjM0xUSWdVamxWY1FlQjZ5U29DdWVjbmE4amIzbXQwZzQ3eDVYMTNjY0lWTzFwLS1rSHZ5M2Rac0RSWHZmT1dKVUYzUnlobGhnejN2eHVR0gHWAUFVX3lxTFBvM0V1UlNhWF9zU2p3Z1U1SldKYXhCSHFDanhTTEVRZU5DNkhhY3B0WDZkTktZbUlnTEtzS3ZUUjBIaVlKMXQwYlc4cVJ6OUZhR1otZFU3VzJCZ2hlV0pyeWJ1TThDSVdUTzRQb2ZKOFIwZXAweXQ3UV9DMGhDS0pNeHZvSWpkN2MzTFRJZ1VqbFZjUWVCNnlTb0N1ZWNuYThqYjNtdDBnNDd4NVgxM2NjSVZPMXAtLWtIdnkzZFpzRFJYdmZPV0pVRjNSeWhsaGd6M3Z4dVE?oc=5"
-      },
-      "queued_at": "2026-11-09T10:16:03.557497+00:00",
-      "score": 8.0,
-      "why": "It is a major Indian edtech layoff and restructuring announcement with hard figures."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40530,12 +40513,12 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794218400629,
-    "news: consumer internet india": 1794214490728,
+    "news: big tech platforms": 1794219731211,
+    "news: consumer internet india": 1794218753993,
     "news: global ai": 1794219004815,
-    "news: global chips": 1794217657946,
+    "news: global chips": 1794219968298,
     "news: global it services": 1794218177822,
-    "news: india ai deeptech": 1794212523435,
+    "news: india ai deeptech": 1794219293086,
     "news: india edtech gaming": 1794218540432,
     "news: india fintech": 1794217135652,
     "news: india semiconductors": 1794203676855,
@@ -40544,7 +40527,7 @@
     "news: indian it majors": 1794213078331,
     "news: indian it midcaps": 1794136380293,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794218520230,
+    "news: tech leaders": 1794219714900,
     "nvidia": 1794211253826,
     "nvidia blog": 1794211253826,
     "openai": 1793952000534,
@@ -40594,7 +40577,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-09T10:16:04.145254+00:00",
+    "last_server_run": "2026-11-09T10:31:27.015816+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -42865,7 +42848,8 @@
       "gazette:CG-DL-E-06112026-277761|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-06112026-277761|MHA_FINANCE_MAIL_TO",
       "meeting:LS|22636",
-      "meeting:LS|22639"
+      "meeting:LS|22639",
+      "meeting:LS|22640"
     ]
   },
   "x_test": {
@@ -51602,14 +51586,43 @@
           "systems",
           "viability"
         ]
+      },
+      {
+        "at": "2026-11-09T10:32:49.050421+00:00",
+        "headline": "President Droupadi Murmu will present the Swachh Survekshan 2025-26 awards on November 11.",
+        "url": "https://x.com/PIB_India/status/2119738521850098025",
+        "words": [
+          "10th",
+          "11th",
+          "2025",
+          "2026",
+          "awards",
+          "cities",
+          "cleanest",
+          "confer",
+          "droupadi",
+          "edition",
+          "honour",
+          "honoured",
+          "https",
+          "jodi",
+          "murmu",
+          "november",
+          "part",
+          "performers",
+          "president",
+          "shehar",
+          "survekshan",
+          "swachh",
+          "top",
+          "vwyn0cvq01"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-09T10:17:15.548574+00:00",
+    "last_run": "2026-11-09T10:32:49.050710+00:00",
     "seen": [
-      "x:2117283895096029375",
-      "x:2117284311812784517",
       "x:2117284798062546946",
       "x:2117285193870635259",
       "x:2117183881980121388",
@@ -54607,7 +54620,9 @@
       "x:2119731478410277025",
       "x:2119732041336168449",
       "x:2119733647712690377",
-      "x:2119734477274710470"
+      "x:2119734477274710470",
+      "x:2119736232565784578",
+      "x:2119738521850098025"
     ],
     "source_failures": {},
     "sources": []
