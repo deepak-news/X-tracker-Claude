@@ -1,95 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-29T08:31:36.502335+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic warns potential US visa curbs on staff could disrupt AI operations",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV0U2RlVOeDR4SXR2QXphbkRoVVFNUjh0ZlE3MnRqQ051RmlEYm41MnM4aGtZeG1ZeHpZVm9ORC1tcUZPRUQwTlFsbGI1TU5pLVRIWWFQRGpGMnhUUEtfcE9GYVAxNjl5eTlHaWNCTFpVdlpGSzU5TXJ3eVc0cWxxaTIxVzlxYkhvUy1UVkhHVEJxTWNUNC1oWFdHeXp0SnVSbkt5ZGRvVmJJdkV0UFhSTWI1eFNILXBUNVprNm1JMHd2T0psWkx3TkhGR0piUjhfUkFWNm01WDV0ZHpZQl9iWW1CMnU5NlRBUHpF?oc=5",
-      "words": [
-        "administration",
-        "anthropic",
-        "could",
-        "dispute",
-        "policy",
-        "staff",
-        "target",
-        "trump",
-        "visas",
-        "warns"
-      ]
-    },
-    {
-      "at": "2026-10-29T08:31:36.502335+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Meesho expects merchandise value growth to exceed 30% in December quarter",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPalh2Rm0yWDNBQkg3YkhyeGs0Z3otTFp6T1RHdk9fMm5iUXliSlJKVExjT3l5aEFhTDlobmlNMm96Z0xsVGRRNzI0ZHVwZTBheDRiakRWUDlIUVZVU1RwYXVmMXBXaF9TdmFxenFqLVRMeUVmNVpNRlgyd0pBNlY1UnExTjVHTUN2dmZxNVVHaFMycVdodTVoUnhWUy1qeEFLYXpfdnl3RjFXUFByS3dJOHAxYUt4NXY4ZGQwYlRxV0dKeTBId3ZHRDNuc0ZuZWNNSlRLNnhB0gHbAUFVX3lxTE5nUmdBMEVCVHdqSERETjJGcDNfaWhnTnhfYjdIVUFPbU9OTmRTMUtiRE5temk1RzVUN2pJcXhSS1JuRU1FMl9kRmdnOUpmMDVHX29xVjZQNnZJSkFoZC1CV0pOUWpNS21wX3duZlFFcXU4NmF4VGxlU3NlM2djTmJzdUdDMFNpQ2tjNWlaMHc3VklvRzlYNFZBMUhfTXlkbW9LVXc5Rk5VS1BDWDlDbm9hX0JyNExHOTJNMnRtQzRTOWdZRlVpV2FKNWZxeTZtdG1VMWJ4WXV6UHF3NA?oc=5",
-      "words": [
-        "december",
-        "expects",
-        "growth",
-        "meesho",
-        "merchandise",
-        "quarter",
-        "top",
-        "value"
-      ]
-    },
-    {
-      "at": "2026-10-29T09:31:38.162544+00:00",
-      "handle": "News: Global chips",
-      "headline": "AUO sells Taichung plant to TSMC for NT$38.8B",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHFKQnhmdk55bzlGZW8yZmgxczlYeW1wX3duS21DVzBFU0pHQXdFblUwUDY2dW9VMElpQ2lEdXRGWDlwRl9TM0E3RDNJX21VZDJHWmxDUXpDaURqOUdOdC1kcjZIQnFrZWtxeW8wWFQ5RXpKRlZ6M1BBX25pSUViNndKNzdKdXhsMXBNQ3BfT2h0MkhDTy1Z?oc=5",
-      "words": [
-        "auo",
-        "deal",
-        "plant",
-        "quanta",
-        "scraps",
-        "sells",
-        "taichung",
-        "tsmc"
-      ]
-    },
-    {
-      "at": "2026-10-29T10:31:24.035675+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Meesho appoints former GCPL CEO Sudhir Sitapati as independent director",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVVLX3JjQlc1Y1JGTzI3a29GU240YVZsOEJRc1hueGdRSlNCaGxNRnFVanRKbFY0NU9lOEw5Z0RCczZGa2pXbUhqeXVpb1lWeldzRTJrc0tScGlDMm82b1B0bk41YnFkWkZyQmZnZEktSmUxcDNlbHlzbUxBSU8xdHRkcEZGUXc2ZHl0MEZBbTEzUy11QnQ0aTU4blZuOUpmcmU4LTB3OU1ONTZmX0tXbWxVRlJXZklHR0RTbmtYdlBSWnR1Qkl3RTE2a2Jmd0dTMEtTeFo4Sm5KMGtoM0YzX2lQR3BHZ9IB6gFBVV95cUxOb3JDRnBsVEJJN3NEMG1XY3J2TEZDUmJiWkRveWJrWUktRVR0dm1ZZ1JPMTl4N3ZyZjNGQ29LU2Q4SkhNS2dvd2IyVzU4MTZ2NnNlQ2ZEaU1seXRYR01YaEJXWFo0SndzRElBbllVaHhzZzM0eXFENlBEeUljSnNnalEyZUEyQUlObjVESW5wVDlaLTczSDhMbllHbkhPdVQxVEZZRU9pNEprZ3E4aUFZUk5zeEZETXN0cWMyNUk4QldOZ1lfVXVnS0xTcGg3bFMwZ3gyYkQ0Qm5yNUJYV2xsV2RWSE5SWERCMGc?oc=5",
-      "words": [
-        "appoints",
-        "ceo",
-        "director",
-        "former",
-        "gcpl",
-        "independent",
-        "meesho",
-        "sitapati",
-        "sudhir"
-      ]
-    },
-    {
-      "at": "2026-10-29T10:31:24.035675+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio leads September telecom user additions with 1.9 million",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMjdVdU5Ya1pHY3R6c083VU1qYkF3M05oVGtTbnMxQWJZMF8wNlA0VVNmbkFVX3g3dzBNUE1yN19hWGpHZVo4bTQ4V1Q1d0dnNWQ2cGszd2pKWFR3S0xjTVBIYk1qb2xoVXFEX21UWl85M3UtWXQwaVA4WklnUktPcjhsY2k3R05jNEhNcS01R0NxZ3FBNC1fUjV6cHpXU0lYc1Z1Y1F3eGF5S3YyeVlEMTZQY2J0TzNjUEl6aHItdmc0aE1NZWNPYWJkVnU4Q2M0Zl9Eekh1MVIwa1dBU1ZWN2pPWXc3MHfSAecBQVVfeXFMTTI3VXVOWGtaR2N0enNPN1VNamJBdzNOaFRrU25zMUFiWTBfMDZQNFVTZm5BVV94N3cwTVBNcjdfYVhqR2VaOG00OFdUNXdHZzVkNnBrM3dqSlhUd0tMY01QSGJNam9saFVxRF9tVFpfOTN1LVl0MGlQOFpJZ1JLT3I4bGNpN0dOYzRITXEtNUdDcWdxQTQtX1I1enB6V1NJWHNWdWNRd3hheUt2MnlZRDE2UGNidE8zY1BJemhyLXZnNGhNTWVjT2FiZFZ1OENjNGZfRHpIdTFSMGtXQVNWVjdqT1l3NzB3?oc=5",
-      "words": [
-        "additions",
-        "adds",
-        "jio",
-        "leads",
-        "million",
-        "mobile",
-        "net",
-        "september",
-        "subscribers"
-      ]
-    },
-    {
       "at": "2026-10-29T11:31:29.448226+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic discloses unreleased Claude model found attack chains in browsers",
@@ -7411,6 +7322,97 @@
         "newest",
         "our",
         "portfolio"
+      ]
+    },
+    {
+      "at": "2026-11-09T14:31:37.801470+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Sarvam AI appoints former Google Cloud India MD Sashikumar Sreedharan as President and CBO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0I2RmViV04yUkg5Mkd0WDBNc1dsSnJoRkxqQmV4RVpyT0QybFBRTGlDLXZzQ2dncW1BZ2VWZ2w0c3k2SlQ1bFk1dkY2WE9CTVp3QloyTzJWQm5va2VhdUFsaGJpMi1sTWZUMVNtSWYtSGdDMmg2VXZVdUtJMUpQRmJibWVFaWkyeU92Y1FJQk1xSEZXcFR4cjJKVFEtc21KYTVWbk5xYmJmQld2MmZMbFE5WFF5M1d2aF9zb0NiU0YwbGEteUhqVzdKMEF6RGVFRzVjdkZ6TERnejFVV3p4dEZDeUhodw?oc=5",
+      "words": [
+        "appoints",
+        "cbo",
+        "cloud",
+        "former",
+        "google",
+        "president",
+        "sarvam",
+        "sashikumar"
+      ]
+    },
+    {
+      "at": "2026-11-09T14:31:37.801470+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic IPO waiting period expires as public offering approaches",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR18tUkxpWXdHY2ltZ01ybEpIbWJYWHpmQmxkTWozQkxadVBFeGExUGJHZ3pCSXhNLThmTGJvTjNiU0h2bmZ3dEhmZjQ3ODliTks5Y1J2bDBLNGJ6WWo0aDFFOEZtN1pRZXlCRk9TV1pmb1k2alIwcDhwSVA2V3ktTGNtd2ZGTHBuMzg4aG9nRHZqSzItNlF0RVZzN3VsdmFGTm5McEtHOU55cXZZVW1uOXJ6cnU?oc=5",
+      "words": [
+        "anthropic",
+        "expires",
+        "ipo",
+        "moment",
+        "nears",
+        "period",
+        "truth",
+        "waiting"
+      ]
+    },
+    {
+      "at": "2026-11-09T14:31:37.801470+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Mphasis deploys more talent onsite in early stages due to AI projects",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX1hLd1gtX09RRWRCTWpYNEh5Tm9xTU5vTXhyb1hPU01mcmhMZk9yWjdqMlNjSkRoVlZBd0Z5WmdZUXh2cGpOVEwzWV9EdnpPcFdQa0pyelh1d3Rja0lKVG9zX2hpdk40dkRwRXhJWlNQVjBicFVqckhfYTJ4SG4xOXBtWk1lX3ZTSm9fMktVZl9zTU9fWUR0c1NXc2lGVGZzeWhRdHBsNnhiQXFtWXZNY1FhN25HYjBOWkR6RzNURTdVLV80N0ttR19Xd0lmUdIB0wFBVV95cUxNdmdFZlFtUzdXazE4bzcyTFR1VGItaWRfRHJ6SXUyMFY4clI1ejVnOHJfVFEyaV9BQTYzTGRBTXJvOVFlaGFoN3d3UnlHU1M0ZDhPX1RqTjJSTXk0Zm1vQm1zbGpJeU1FZ2ZEcHRSdnFrVnprTDN2dHR1amdOODdzZVRQTkZVTWlXMVNLUUZqZXljd0JXeFQ5YU5saHRhV1Nmekw0a0c1ZWdtX3p1QWRIUnlMeDNZMDVrRHFNbVpDdndWZWJBMzF1WjFpbUdxNElXWUdR?oc=5",
+      "words": [
+        "deploy",
+        "early",
+        "more",
+        "mphasis",
+        "onsite",
+        "projects",
+        "push",
+        "stages",
+        "talent"
+      ]
+    },
+    {
+      "at": "2026-11-09T14:31:37.801470+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta to expand AI age detection globally and protect teen Instagram accounts",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX1NUWjV0SkZXeGtWTUdSbTVaYWdlZGZhXzVhd3oyblBKdW96cU0zTUxnbWFqUVIxekwxbG1sVzdwNnp5TlNPSEplVl9BcGIwQ0J4dGU4cUI5X3FVVWU1Wm5EM216YzBZNlJFV3Y3OW9PM3AtdXhlTF9OcGxncTdpSjYwQTdIb0R4V05MTFR5MHdNZFR3ekNqcHdPdl9EWWhCZXhzZncwT0RIamZOT2Uza3lnQXZOb2xqcjdsa2hodE80T3VLcVp1X2FUaFppQ25BeXNUWW56bDbSAd4BQVVfeXFMTVJ3aUhZT25CNF9tUnJYNnZPOXpIbkZkNk9GdWIxc2ZncnBhQV9mS01fNzNVMFRIRzFFMkpyQjFXemFldk9DZnlfSnRRSVhIMFE2OWlRUF9JeXUxdkpjaV8xTnJseTBhZHprajBxTjA0bmlqY3pnaHFVVjdpc1pvdEp6UGNuYlhSMEE2TGVUWlhkaEx1STFZQUFhRFFNVGVmRDN1NWJ2SmQzRVA0ZFVPaVdBbHU0U3BVODlIQmVLVHZkQndvVW9aSGNwREl4eFg5TWtXdUVaQ0lUeUhMU3dR?oc=5",
+      "words": [
+        "accounts",
+        "age",
+        "detection",
+        "expand",
+        "globally",
+        "instagram",
+        "meta",
+        "millions",
+        "move",
+        "protected",
+        "teens"
+      ]
+    },
+    {
+      "at": "2026-11-09T14:31:37.801470+00:00",
+      "handle": "News: India telecom",
+      "headline": "TRAI sets port charge ceilings for IP-based interconnection from 2027",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFotbjhFODJZdktCQ19yMjhPb3Rtc0x6S0dRZUpfR3BUeUJhM252R2NycFQ1aWkzYi1WdzRKUzkteTNNcjQza2VFb19GOGFfVUNjOHB5OUUzdTNEOG11cFVyX3FJQ1VxRmtEZGtKVkZ5bmRpRjRZYWhZVU9LcVo1bkdJa0Q2M2RXYktNbE12dDhfUjRQc0IzYzljN1ZGRG1IWmg3YnZzemVCcnJraE5lTVlOWVA1SzVRRVBVQlRjX1VkN2ZseXluSmF2ZHFsdXd5bzJyd193MkRXZVFPNnB3cG1kZ9IB4wFBVV95cUxPOFotbjhFODJZdktCQ19yMjhPb3Rtc0x6S0dRZUpfR3BUeUJhM252R2NycFQ1aWkzYi1WdzRKUzkteTNNcjQza2VFb19GOGFfVUNjOHB5OUUzdTNEOG11cFVyX3FJQ1VxRmtEZGtKVkZ5bmRpRjRZYWhZVU9LcVo1bkdJa0Q2M2RXYktNbE12dDhfUjRQc0IzYzljN1ZGRG1IWmg3YnZzemVCcnJraE5lTVlOWVA1SzVRRVBVQlRjX1VkN2ZseXluSmF2ZHFsdXd5bzJyd193MkRXZVFPNnB3cG1kZw?oc=5",
+      "words": [
+        "2027",
+        "based",
+        "ceilings",
+        "charge",
+        "effective",
+        "interconnection",
+        "jan",
+        "port",
+        "sets",
+        "trai"
       ]
     }
   ],
@@ -17098,7 +17100,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-09T14:17:43.453868+00:00",
+    "last_run": "2026-11-09T14:32:59.956481+00:00",
     "pib_mark": 2334453,
     "seen": [
       "pib:2324997",
@@ -20161,20 +20163,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793531457258",
-    "1793541204907",
-    "1793463620415",
-    "1793506339556",
-    "1793507950148",
-    "1793512333248",
-    "1793541670907",
-    "1793548524134",
-    "1793548710508",
-    "1793464940472",
-    "1793476757776",
-    "1793502240824",
-    "1793507762246",
-    "1793525407054",
     "1793553924134",
     "1793465629767",
     "1793554803146",
@@ -24586,7 +24574,6 @@
     "1794209256432",
     "1794219117980",
     "1794221924619",
-    "1794223346791",
     "1794225840648",
     "1794145805126",
     "1794150001860",
@@ -24595,7 +24582,6 @@
     "1794194806398",
     "1794202200299",
     "1794205941084",
-    "1794215222406",
     "1794219968298",
     "1794220493925",
     "1794220632983",
@@ -24674,7 +24660,6 @@
     "1788451294798",
     "1792720813215",
     "1793116800066",
-    "1794160996020",
     "1794184516148",
     "1794197852783",
     "1794210983432",
@@ -24683,11 +24668,19 @@
     "1794217260698",
     "1794219799900",
     "1794222479780",
-    "1794223440541",
     "1794225540531",
-    "1794225600714",
     "1794228205311",
     "1794231130495",
+    "1794207917306",
+    "1794213107917",
+    "1794214490728",
+    "1794223416868",
+    "1794226254457",
+    "1794226651838",
+    "1794227521756",
+    "1794227571859",
+    "1794227584337",
+    "1794227928055",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25946,6 +25939,7 @@
     "1793991936281",
     "1793996220189",
     "1794025425714",
+    "1794160996020",
     "1794163024056",
     "1794168000279",
     "1794171720478",
@@ -25993,7 +25987,6 @@
     "1794207000093",
     "1794207720358",
     "1794207731128",
-    "1794207917306",
     "1794208487741",
     "1794208517871",
     "1794208606099",
@@ -26007,10 +26000,10 @@
     "1794210609230",
     "1794210780758",
     "1794211253826",
+    "1794212100112",
     "1794212488467",
     "1794212523435",
     "1794213078352",
-    "1794213107917",
     "1794213143025",
     "1794213300704",
     "1794213754455",
@@ -26018,9 +26011,10 @@
     "1794214064695",
     "1794214260793",
     "1794214261044",
-    "1794214490728",
+    "1794214490470",
     "1794214914002",
     "1794215148273",
+    "1794215222406",
     "1794215537297",
     "1794215756462",
     "1794217007258",
@@ -26037,6 +26031,7 @@
     "1794219711860",
     "1794219767315",
     "1794219834540",
+    "1794219866934",
     "1794219990619",
     "1794220060265",
     "1794220127117",
@@ -26059,7 +26054,8 @@
     "1794222900039",
     "1794223196029",
     "1794223206432",
-    "1794223416868",
+    "1794223346791",
+    "1794223440541",
     "1794223510387",
     "1794223696815",
     "1794223912298",
@@ -26080,24 +26076,20 @@
     "1794225447841",
     "1794225600150",
     "1794225600194",
+    "1794225600714",
     "1794225601511",
     "1794225608465",
     "1794225645103",
     "1794226080196",
     "1794226154527",
-    "1794226254457",
-    "1794226651838",
     "1794226740028",
     "1794226980648",
     "1794226984910",
     "1794227400947",
     "1794227401084",
-    "1794227521756",
-    "1794227571859",
-    "1794227584337",
+    "1794227584156",
     "1794227743441",
     "1794227748732",
-    "1794227928055",
     "1794228060230",
     "1794228108081",
     "1794228279432",
@@ -26111,10 +26103,13 @@
     "1794229860736",
     "1794229986866",
     "1794230256597",
+    "1794230327520",
+    "1794230378503",
     "1794230400698",
     "1794230497363",
     "1794230534809",
     "1794230553830",
+    "1794230683852",
     "1794230710905",
     "1794231000148",
     "1794231004016",
@@ -26126,6 +26121,7 @@
     "1794231443088",
     "1794231574122",
     "1794231658112",
+    "1794232140996",
     "1794232236103",
     "1794232444894",
     "1794232763965",
@@ -26133,6 +26129,12 @@
     "1794232800573",
     "1794232801701",
     "1794232837223",
+    "1794232938884",
+    "1794233163511",
+    "1794233280129",
+    "1794233316104",
+    "1794233548326",
+    "1794234012380",
     "1795996800387",
     "2331589",
     "2331704",
@@ -26162,8 +26164,8 @@
     "2334364",
     "2334365"
   ],
-  "last_digest_hour": "2026-11-09T19",
-  "last_success": "2026-11-09T14:16:02.842147+00:00",
+  "last_digest_hour": "2026-11-09T20",
+  "last_success": "2026-11-09T14:31:37.893433+00:00",
   "national": {
     "alerted": [
       {
@@ -36271,7 +36273,7 @@
       },
       "warned": "2026-11-09T00:02:59.795075+00:00"
     },
-    "last_run": "2026-11-09T14:17:18.185425+00:00",
+    "last_run": "2026-11-09T14:32:46.915393+00:00",
     "pib_mark": 2334453,
     "seen": [
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63825",
@@ -39344,62 +39346,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Sarvam AI appoints former Google Cloud India MD Sashikumar Sreedharan as President and CBO",
-      "post": {
-        "created_at": "2026-11-09T11:51:44+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1794225104751",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Sarvam appoints former Google Cloud India MD Sashikumar as President & CBO",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0I2RmViV04yUkg5Mkd0WDBNc1dsSnJoRkxqQmV4RVpyT0QybFBRTGlDLXZzQ2dncW1BZ2VWZ2w0c3k2SlQ1bFk1dkY2WE9CTVp3QloyTzJWQm5va2VhdUFsaGJpMi1sTWZUMVNtSWYtSGdDMmg2VXZVdUtJMUpQRmJibWVFaWkyeU92Y1FJQk1xSEZXcFR4cjJKVFEtc21KYTVWbk5xYmJmQld2MmZMbFE5WFF5M1d2aF9zb0NiU0YwbGEteUhqVzdKMEF6RGVFRzVjdkZ6TERnejFVV3p4dEZDeUhodw?oc=5"
-      },
-      "queued_at": "2026-11-09T13:46:04.493961+00:00",
-      "score": 8.0,
-      "why": "Senior leadership change at a prominent Indian AI startup is a key story for the beat."
-    },
-    {
-      "headline": "Mphasis deploys more talent onsite in early stages due to AI projects",
-      "post": {
-        "created_at": "2026-11-09T12:56:57+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1794229017873",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ETHRWorld",
-        "reposts": 0,
-        "text": "AI projects push Mphasis to deploy more talent onsite in early stages",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX1hLd1gtX09RRWRCTWpYNEh5Tm9xTU5vTXhyb1hPU01mcmhMZk9yWjdqMlNjSkRoVlZBd0Z5WmdZUXh2cGpOVEwzWV9EdnpPcFdQa0pyelh1d3Rja0lKVG9zX2hpdk40dkRwRXhJWlNQVjBicFVqckhfYTJ4SG4xOXBtWk1lX3ZTSm9fMktVZl9zTU9fWUR0c1NXc2lGVGZzeWhRdHBsNnhiQXFtWXZNY1FhN25HYjBOWkR6RzNURTdVLV80N0ttR19Xd0lmUdIB0wFBVV95cUxNdmdFZlFtUzdXazE4bzcyTFR1VGItaWRfRHJ6SXUyMFY4clI1ejVnOHJfVFEyaV9BQTYzTGRBTXJvOVFlaGFoN3d3UnlHU1M0ZDhPX1RqTjJSTXk0Zm1vQm1zbGpJeU1FZ2ZEcHRSdnFrVnprTDN2dHR1amdOODdzZVRQTkZVTWlXMVNLUUZqZXljd0JXeFQ5YU5saHRhV1Nmekw0a0c1ZWdtX3p1QWRIUnlMeDNZMDVrRHFNbVpDdndWZWJBMzF1WjFpbUdxNElXWUdR?oc=5"
-      },
-      "queued_at": "2026-11-09T13:46:04.493961+00:00",
-      "score": 7.0,
-      "why": "Provides operational insights into how IT majors are handling AI project execution."
-    },
-    {
-      "headline": "Meta to expand AI age detection globally and protect teen Instagram accounts",
-      "post": {
-        "created_at": "2026-11-09T13:39:34+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1794231574130",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Firstpost",
-        "reposts": 0,
-        "text": "Meta to expand AI age detection globally, move millions of teens to Instagram's protected accounts",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX1NUWjV0SkZXeGtWTUdSbTVaYWdlZGZhXzVhd3oyblBKdW96cU0zTUxnbWFqUVIxekwxbG1sVzdwNnp5TlNPSEplVl9BcGIwQ0J4dGU4cUI5X3FVVWU1Wm5EM216YzBZNlJFV3Y3OW9PM3AtdXhlTF9OcGxncTdpSjYwQTdIb0R4V05MTFR5MHdNZFR3ekNqcHdPdl9EWWhCZXhzZncwT0RIamZOT2Uza3lnQXZOb2xqcjdsa2hodE80T3VLcVp1X2FUaFppQ25BeXNUWW56bDbSAd4BQVVfeXFMTVJ3aUhZT25CNF9tUnJYNnZPOXpIbkZkNk9GdWIxc2ZncnBhQV9mS01fNzNVMFRIRzFFMkpyQjFXemFldk9DZnlfSnRRSVhIMFE2OWlRUF9JeXUxdkpjaV8xTnJseTBhZHprajBxTjA0bmlqY3pnaHFVVjdpc1pvdEp6UGNuYlhSMEE2TGVUWlhkaEx1STFZQUFhRFFNVGVmRDN1NWJ2SmQzRVA0ZFVPaVdBbHU0U3BVODlIQmVLVHZkQndvVW9aSGNwREl4eFg5TWtXdUVaQ0lUeUhMU3dR?oc=5"
-      },
-      "queued_at": "2026-11-09T13:46:04.493961+00:00",
-      "score": 7.0,
-      "why": "Major policy and safety update from a top-tier tech platform affecting millions of users."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40566,12 +40513,12 @@
     "microsoft india": 1793855270810,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794232800059,
-    "news: consumer internet india": 1794218753993,
-    "news: global ai": 1794229181809,
-    "news: global chips": 1794232236103,
+    "news: big tech platforms": 1794233163511,
+    "news: consumer internet india": 1794233316104,
+    "news: global ai": 1794234012380,
+    "news: global chips": 1794232938884,
     "news: global it services": 1794218177822,
-    "news: india ai deeptech": 1794230710905,
+    "news: india ai deeptech": 1794233548326,
     "news: india edtech gaming": 1794224125095,
     "news: india fintech": 1794224070950,
     "news: india semiconductors": 1794225600714,
@@ -40580,7 +40527,7 @@
     "news: indian it majors": 1794230256597,
     "news: indian it midcaps": 1794136380293,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794232763965,
+    "news: tech leaders": 1794233280129,
     "nvidia": 1794232801701,
     "nvidia blog": 1794232801701,
     "openai": 1793952000534,
@@ -40630,7 +40577,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-09T14:16:03.150818+00:00",
+    "last_server_run": "2026-11-09T14:31:38.385216+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -51830,9 +51777,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-09T14:17:34.389146+00:00",
+    "last_run": "2026-11-09T14:32:50.354608+00:00",
     "seen": [
-      "x:2117460280615866869",
       "x:2117460508122984681",
       "x:2117461766007341461",
       "x:2117462478305317278",
@@ -54831,7 +54777,8 @@
       "x:2119794833573486757",
       "x:2119794875839427020",
       "x:2119794966587396106",
-      "x:2119795228651700725"
+      "x:2119795228651700725",
+      "x:2119795897135469009"
     ],
     "source_failures": {},
     "sources": []
