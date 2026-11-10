@@ -1,43 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-30T13:31:26.760398+00:00",
-      "handle": "News: India telecom",
-      "headline": "TRAI proposes board-approved AI policies and mandatory incident reporting for telcos",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQWk3OUI5cURhSUo1b2VrVVhEbENrc1Vqd25kRGdPcXJNNlh4enAwZEtGenJnSEoyN3JiSjBJTUFSYVJZT0szOUMxMEwzUDVEUEtDdEhJeTVneUUzeG45anB6UEVXTjRWZW5YclhRQ1plOXJibGY0SG9OVll3OW93enlndFhYdUZHM2F5ay0wQmItejB5cW5WbXl3Qk84QmxlRGVHSEdoZ2lxSWxEQlpOcDBPS0xUcHdFY1hvakdSLUFBSEpTT3NkU25HcUs1eG9LVWUyVmtOYmpncVNpQ1E?oc=5",
-      "words": [
-        "approved",
-        "board",
-        "incidents",
-        "mandatory",
-        "policies",
-        "proposes",
-        "reporting",
-        "serious",
-        "telcos",
-        "trai"
-      ]
-    },
-    {
-      "at": "2026-10-30T13:31:26.760398+00:00",
-      "handle": "News: India telecom",
-      "headline": "Tata Communications launches voice AI Commotion tested in eight Indian languages",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa1dURmh4VVVrR01JSTJvb3Ntc0U4T09hcm1YVGpIdk4xSkNMQmdicTAxZXZBU1hzeVE1cFJzZFZRYW82RjN0SHNXb0o2R2FSakFkRzNKaUNTbW11MkVpM1ZNSkU5cFgyTGgtMEY4Y2V3MFNQbHZpVmEybDhyQmcxX0pkQTAzVEVMT0RqTXE1SlVNb1FjSV9LUUZ1RzhfZGN4ZWhOQlI4RFYtMFlqMG1ucWZkY1ljUEdiZi1KQUNIZmJzRURadXItS2pBalBUMGYyVFB4ZWxtZWVhaWxnRU8ybHk2VUQ0bVZSUGNRcXpUbWk3UjJDdlh0NEZGcmphUdIB_gFBVV95cUxPa1dURmh4VVVrR01JSTJvb3Ntc0U4T09hcm1YVGpIdk4xSkNMQmdicTAxZXZBU1hzeVE1cFJzZFZRYW82RjN0SHNXb0o2R2FSakFkRzNKaUNTbW11MkVpM1ZNSkU5cFgyTGgtMEY4Y2V3MFNQbHZpVmEybDhyQmcxX0pkQTAzVEVMT0RqTXE1SlVNb1FjSV9LUUZ1RzhfZGN4ZWhOQlI4RFYtMFlqMG1ucWZkY1ljUEdiZi1KQUNIZmJzRURadXItS2pBalBUMGYyVFB4ZWxtZWVhaWxnRU8ybHk2VUQ0bVZSUGNRcXpUbWk3UjJDdlh0NEZGcmphUQ?oc=5",
-      "words": [
-        "across",
-        "built",
-        "commotion",
-        "communications",
-        "eight",
-        "languages",
-        "tata",
-        "tested",
-        "voice"
-      ]
-    },
-    {
       "at": "2026-10-30T14:31:27.950363+00:00",
       "handle": "News: India telecom",
       "headline": "Jio Platforms posts 14 percent profit rise in first post-IPO results",
@@ -7420,6 +7383,38 @@
         "founders",
         "ipo",
         "out"
+      ]
+    },
+    {
+      "at": "2026-11-10T21:31:27.376383+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic ties itself closer to Nvidia with giant IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40WWRMa0xmRm9vTGdfM2E0MXRhQUtaMmc1QnZzdm4tVG5zSlJsMWxnRzJsMXhxdlJHcC1hb0NTTF8tU25OODhVdjd4Z2JpYnpHQ3BnNktJbUZQcnFrbEJ4UW5EOXR4YVI2TXU5SnhWWXp1Y3AyeVpwVQ?oc=5",
+      "words": [
+        "anthropic",
+        "closer",
+        "giant",
+        "itself",
+        "nvidia",
+        "ties"
+      ]
+    },
+    {
+      "at": "2026-11-10T21:31:27.376383+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI acquires travel startup Odessia created by Sonder founder",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnlSclk3NV81R05vWFNYbUZUTWh1Y3Voc3lqQ1k4aVhldHBXWVdFUVpTMTZJVS16WUw3Sllwd1dsWnJQclExMG5uU29mX2lpNlotQ1lTdXJkNUMtbDZYcnVWQVJ3aDRJRE9EVElkVENSMHlEN29rc1FwMDN3X1d3RVV6TG1XRmJoRkE5aU9KQm12R0dLQmsxUVpVbUZlTENq?oc=5",
+      "words": [
+        "acquires",
+        "created",
+        "founder",
+        "odessia",
+        "openai",
+        "sonder",
+        "startup",
+        "travel"
       ]
     }
   ],
@@ -17171,7 +17166,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-10T21:17:24.996544+00:00",
+    "last_run": "2026-11-10T21:32:48.371390+00:00",
     "pib_mark": 2334866,
     "seen": [
       "pib:2325463",
@@ -20234,13 +20229,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793648540288",
-    "1793722693381",
-    "1793727600246",
-    "1793665800940",
-    "1793702242143",
-    "1793712060796",
-    "1793712780355",
     "1793720433365",
     "1793728596032",
     "1793728906094",
@@ -24759,7 +24747,6 @@
     "1794339821131",
     "1794341159153",
     "1794292209006",
-    "1794295800737",
     "1794309240328",
     "1794322811268",
     "1794328824648",
@@ -24769,6 +24756,16 @@
     "1794334406062",
     "1794335940979",
     "1794339584028",
+    "1794281225257",
+    "1794302069423",
+    "1794317400092",
+    "1794320844241",
+    "1794324240996",
+    "1794332700862",
+    "1794333679808",
+    "1794341021624",
+    "1794344790574",
+    "1794345241073",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26001,7 +25998,6 @@
     "1794277500210",
     "1794278272418",
     "1794280592812",
-    "1794281225257",
     "1794281673185",
     "1794284880792",
     "1794285614514",
@@ -26021,6 +26017,7 @@
     "1794294039290",
     "1794294120567",
     "1794295418185",
+    "1794295800737",
     "1794298095508",
     "1794298163786",
     "1794299182790",
@@ -26028,7 +26025,6 @@
     "1794301200626",
     "1794301671766",
     "1794302041268",
-    "1794302069423",
     "1794302745274",
     "1794303891003",
     "1794304244837",
@@ -26076,7 +26072,6 @@
     "1794316519062",
     "1794316748720",
     "1794316753050",
-    "1794317400092",
     "1794318120780",
     "1794318483402",
     "1794319159778",
@@ -26088,7 +26083,6 @@
     "1794319299767",
     "1794320169096",
     "1794320520727",
-    "1794320844241",
     "1794321404250",
     "1794321503892",
     "1794321511932",
@@ -26098,7 +26092,6 @@
     "1794322785227",
     "1794323280217",
     "1794323465356",
-    "1794324240996",
     "1794324280746",
     "1794326116492",
     "1794326400332",
@@ -26146,17 +26139,16 @@
     "1794332105200",
     "1794332337825",
     "1794332401280",
-    "1794332700862",
     "1794332906733",
     "1794333114588",
     "1794333326758",
     "1794333372571",
     "1794333517135",
     "1794333600044",
-    "1794333679808",
     "1794333682441",
     "1794334322317",
     "1794334936118",
+    "1794335024808",
     "1794335460387",
     "1794335758414",
     "1794336060497",
@@ -26192,19 +26184,22 @@
     "1794340640825",
     "1794340672635",
     "1794340882304",
-    "1794341021624",
     "1794341280694",
     "1794341295097",
     "1794342106153",
+    "1794342234328",
     "1794342665703",
     "1794342757411",
     "1794342780156",
     "1794343201525",
+    "1794343404062",
     "1794344400175",
-    "1794344790574",
+    "1794344790513",
     "1794344822429",
     "1794344932067",
-    "1794345241073",
+    "1794345136274",
+    "1794345180073",
+    "1794345756572",
     "2331589",
     "2331704",
     "2331803",
@@ -26235,8 +26230,8 @@
     "2334710",
     "2334716"
   ],
-  "last_digest_hour": "2026-11-11T02",
-  "last_success": "2026-11-10T21:16:01.683971+00:00",
+  "last_digest_hour": "2026-11-11T03",
+  "last_success": "2026-11-10T21:31:27.437625+00:00",
   "national": {
     "alerted": [
       {
@@ -36382,7 +36377,7 @@
       },
       "warned": "2026-11-10T00:17:41.583883+00:00"
     },
-    "last_run": "2026-11-10T21:17:13.819102+00:00",
+    "last_run": "2026-11-10T21:32:36.649070+00:00",
     "pib_mark": 2334866,
     "seen": [
       "pib:2326113",
@@ -39455,44 +39450,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic ties itself closer to Nvidia with giant IPO",
-      "post": {
-        "created_at": "2026-11-10T20:32:37+00:00",
-        "handle": "News: Global AI",
-        "id": "1794342757411",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The New York Times",
-        "reposts": 0,
-        "text": "With Its Giant I.P.O., Anthropic Ties Itself Closer to Nvidia",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40WWRMa0xmRm9vTGdfM2E0MXRhQUtaMmc1QnZzdm4tVG5zSlJsMWxnRzJsMXhxdlJHcC1hb0NTTF8tU25OODhVdjd4Z2JpYnpHQ3BnNktJbUZQcnFrbEJ4UW5EOXR4YVI2TXU5SnhWWXp1Y3AyeVpwVQ?oc=5"
-      },
-      "queued_at": "2026-11-10T21:01:38.237592+00:00",
-      "score": 8.0,
-      "why": "Major AI company IPO development involving Nvidia."
-    },
-    {
-      "headline": "OpenAI acquires travel startup Odessia created by Sonder founder",
-      "post": {
-        "created_at": "2026-11-10T21:08:52+00:00",
-        "handle": "News: Global AI",
-        "id": "1794344932067",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "TechCrunch",
-        "reposts": 0,
-        "text": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnlSclk3NV81R05vWFNYbUZUTWh1Y3Voc3lqQ1k4aVhldHBXWVdFUVpTMTZJVS16WUw3Sllwd1dsWnJQclExMG5uU29mX2lpNlotQ1lTdXJkNUMtbDZYcnVWQVJ3aDRJRE9EVElkVENSMHlEN29rc1FwMDN3X1d3RVV6TG1XRmJoRkE5aU9KQm12R0dLQmsxUVpVbUZlTENq?oc=5"
-      },
-      "queued_at": "2026-11-10T21:16:01.620337+00:00",
-      "score": 8.0,
-      "why": "It is an acquisition by a major AI company, which counts as a wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40673,7 +40631,7 @@
     "news: big tech platforms": 1794337658235,
     "news: consumer internet india": 1794340638646,
     "news: global ai": 1794344932067,
-    "news: global chips": 1794343201525,
+    "news: global chips": 1794345756572,
     "news: global it services": 1794315813066,
     "news: india ai deeptech": 1794316748720,
     "news: india edtech gaming": 1794328227404,
@@ -40684,7 +40642,7 @@
     "news: indian it majors": 1794331606261,
     "news: indian it midcaps": 1794320520727,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794345241073,
+    "news: tech leaders": 1794345756572,
     "nvidia": 1794337620585,
     "nvidia blog": 1794326403583,
     "openai": 1794312000113,
@@ -40734,7 +40692,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-10T21:16:01.983895+00:00",
+    "last_server_run": "2026-11-10T21:31:27.778987+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -52227,7 +52185,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-10T21:17:16.973450+00:00",
+    "last_run": "2026-11-10T21:32:40.399089+00:00",
     "seen": [
       "x:2117807796179890193",
       "x:2117810992566673587",
