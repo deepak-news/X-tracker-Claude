@@ -2,25 +2,6 @@
   "alerted": [
     {
       "at": "2026-10-30T14:31:27.950363+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio Platforms posts 14 percent profit rise in first post-IPO results",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQW9vdmNhck9yMWlTc3daNE5iY2NOeVBsWUJBWVlRTHd2Rk82N0szTGtCb0JRbVlWU09YZjM4VWRMQUxlMExfUVQ4bl9hRmFvdmN2QkhUS2p5akQ4dGtnSHBIVmpySmg2T0hHSVE4U2xzTjlDUk9JTFdnNktlNkxHUnU3aTZjaDI5enE3Uk00ejhKX0lVSGVUYjNWLW1GbDRaS0NQRkZoSTZnTnRYYjNQd0NENmZGTFBpcko4TTFkWVR2MHRUdUlyVkprc0M2aGtqUDNiSHBtNVlWaXk1dVJ3ZTBBaGNlb2lIVUHSAe8BQVVfeXFMUEdHZmFyZndBNXhieWFua3N0SV9SdXZqaGpMTWtndXlkWk94SUkyd0RfYjFiUkg4eXlhZ1FuTmFObm1oVEQzVm4xOHZ2Vlc1ZnZybVF5cHBDU1ZvbFNNaDJrWGwzTU80S29zYnd6Y2owYnJwSURFSWE5aTVZUEtYMmpJT2p3Q1Axc3dpMGNPMGw4d2R4VTMxSVVKZEk2dVpuV1psUTJqeHlxTWhGZDRSZkJBZFhCeG9ZYkNsRzVqTy1XN1RRUnp5c2oxZXdTNVJIY09ma09OcXBVSlM5RDBlZGNyRGhsU3ptektvSmxGMkk?oc=5",
-      "words": [
-        "about",
-        "blockbuster",
-        "debut",
-        "first",
-        "jio",
-        "posts",
-        "profit",
-        "results",
-        "rise",
-        "since"
-      ]
-    },
-    {
-      "at": "2026-10-30T14:31:27.950363+00:00",
       "handle": "News: Global AI",
       "headline": "OpenAI details plans to prevent AI agents from unauthorized actions",
       "tier": 0,
@@ -7415,6 +7396,24 @@
         "sonder",
         "startup",
         "travel"
+      ]
+    },
+    {
+      "at": "2026-11-10T23:31:25.068770+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI reports revenue rising to $10 billion alongside heavy losses",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1Z2WGlSZFF1REswbldRM3lQRXJJNWdHVEFlNDNPNFhRRXRzSEdySWZFa281U1lzVFBiNVU0bE5GUlNTLU9YT1ZuV2VOa2VobmpRVmh4eGs2LTJVSzZKRWJwTWxKNzBRZGpZeHU2VV9GUTlfemk5all2aDM2RE9ENWowMGgtcnFXMEJSQ3dZTHVHMkpoT2tOTGpGOWRWdU8tUVdRT3JEVVcxTy1yUU5GYU9GcWtCZFdI?oc=5",
+      "words": [
+        "billion",
+        "continues",
+        "exclusive",
+        "heavy",
+        "losses",
+        "openai",
+        "revenue",
+        "rises",
+        "suffer"
       ]
     }
   ],
@@ -17166,7 +17165,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-10T23:18:00.700134+00:00",
+    "last_run": "2026-11-10T23:32:49.538321+00:00",
     "pib_mark": 2334866,
     "seen": [
       "pib:2325463",
@@ -20229,11 +20228,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793733600656",
-    "1793702316265",
-    "1793721600529",
-    "1793722972187",
-    "1793726981064",
     "1784828700614",
     "1793654326331",
     "1793654326996",
@@ -24754,7 +24748,6 @@
     "1791913470057",
     "1794275822861",
     "1794281225257",
-    "1794319299767",
     "1794328046339",
     "1794335460387",
     "1794338570759",
@@ -24774,6 +24767,16 @@
     "1794344560898",
     "1794345180073",
     "1794348744209",
+    "1794283282973",
+    "1794287612253",
+    "1794312377582",
+    "1794332337825",
+    "1794333517135",
+    "1794336236622",
+    "1794339360512",
+    "1794340672635",
+    "1794341021624",
+    "1794342234328",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26003,12 +26006,10 @@
     "1794278272418",
     "1794280592812",
     "1794281673185",
-    "1794283282973",
     "1794284880792",
     "1794285614514",
     "1794286903574",
     "1794287582736",
-    "1794287612253",
     "1794287752807",
     "1794288180164",
     "1794290252814",
@@ -26052,7 +26053,6 @@
     "1794312001158",
     "1794312021216",
     "1794312148900",
-    "1794312377582",
     "1794312390531",
     "1794312600146",
     "1794313054408",
@@ -26084,6 +26084,7 @@
     "1794319200182",
     "1794319200198",
     "1794319200535",
+    "1794319299767",
     "1794320169096",
     "1794320520727",
     "1794321404250",
@@ -26131,13 +26132,11 @@
     "1794331930612",
     "1794332100749",
     "1794332105200",
-    "1794332337825",
     "1794332401280",
     "1794332906733",
     "1794333114588",
     "1794333326758",
     "1794333372571",
-    "1794333517135",
     "1794333600044",
     "1794333682441",
     "1794334322317",
@@ -26145,7 +26144,6 @@
     "1794334936118",
     "1794335758414",
     "1794336060497",
-    "1794336236622",
     "1794336338854",
     "1794336559327",
     "1794336592562",
@@ -26162,19 +26160,15 @@
     "1794338867953",
     "1794338879656",
     "1794339216758",
-    "1794339360512",
     "1794339397007",
     "1794340020083",
     "1794340020893",
     "1794340519621",
     "1794340638646",
     "1794340640825",
-    "1794340672635",
     "1794340882304",
-    "1794341021624",
     "1794341280694",
     "1794341295097",
-    "1794342234328",
     "1794342780156",
     "1794343201525",
     "1794343787153",
@@ -26197,9 +26191,14 @@
     "1794349948698",
     "1794349986791",
     "1794350128295",
+    "1794351135624",
     "1794351396406",
     "1794351720304",
     "1794351861406",
+    "1794351921328",
+    "1794352294000",
+    "1794353307635",
+    "1794353398164",
     "2331589",
     "2331704",
     "2331803",
@@ -26230,8 +26229,8 @@
     "2334710",
     "2334716"
   ],
-  "last_digest_hour": "2026-11-11T04",
-  "last_success": "2026-11-10T23:16:34.141838+00:00",
+  "last_digest_hour": "2026-11-11T05",
+  "last_success": "2026-11-10T23:31:25.153666+00:00",
   "national": {
     "alerted": [
       {
@@ -36377,7 +36376,7 @@
       },
       "warned": "2026-11-10T00:17:41.583883+00:00"
     },
-    "last_run": "2026-11-10T23:17:47.452086+00:00",
+    "last_run": "2026-11-10T23:32:36.453230+00:00",
     "pib_mark": 2334866,
     "seen": [
       "pib:2326113",
@@ -39450,26 +39449,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "OpenAI reports revenue rising to $10 billion alongside heavy losses",
-      "post": {
-        "created_at": "2026-11-10T23:02:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1794351720304",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "WSJ",
-        "reposts": 0,
-        "text": "Exclusive | OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1Z2WGlSZFF1REswbldRM3lQRXJJNWdHVEFlNDNPNFhRRXRzSEdySWZFa281U1lzVFBiNVU0bE5GUlNTLU9YT1ZuV2VOa2VobmpRVmh4eGs2LTJVSzZKRWJwTWxKNzBRZGpZeHU2VV9GUTlfemk5all2aDM2RE9ENWowMGgtcnFXMEJSQ3dZTHVHMkpoT2tOTGpGOWRWdU8tUVdRT3JEVVcxTy1yUU5GYU9GcWtCZFdI?oc=5"
-      },
-      "queued_at": "2026-11-10T23:16:34.046166+00:00",
-      "score": 7.0,
-      "why": "Major AI company financial disclosure qualifies as a wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40650,7 +40630,7 @@
     "news: big tech platforms": 1794346740584,
     "news: consumer internet india": 1794340638646,
     "news: global ai": 1794351861406,
-    "news: global chips": 1794349948698,
+    "news: global chips": 1794353398164,
     "news: global it services": 1794315813066,
     "news: india ai deeptech": 1794316748720,
     "news: india edtech gaming": 1794328227404,
@@ -40661,7 +40641,7 @@
     "news: indian it majors": 1794331606261,
     "news: indian it midcaps": 1794320520727,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794349948698,
+    "news: tech leaders": 1794353398164,
     "nvidia": 1794337620585,
     "nvidia blog": 1794326403583,
     "openai": 1794312000113,
@@ -40713,7 +40693,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-10T23:16:34.680754+00:00",
+    "last_server_run": "2026-11-10T23:31:25.637722+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -52206,7 +52186,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-10T23:17:50.707609+00:00",
+    "last_run": "2026-11-10T23:32:39.908569+00:00",
     "seen": [
       "x:2117807796179890193",
       "x:2117810992566673587",
