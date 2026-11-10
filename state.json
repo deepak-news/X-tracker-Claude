@@ -1,88 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-30T12:46:16.547131+00:00",
-      "handle": "REG CCI",
-      "headline": "CCI approves MIH Payments Holdings merger deal",
-      "tier": 1,
-      "url": "https://www.cci.gov.in/combination/order/details/summary/1797/0/orders-section31",
-      "words": [
-        "1457",
-        "2026",
-        "approved",
-        "cci",
-        "decided",
-        "decision",
-        "filed",
-        "form",
-        "holdings",
-        "merger",
-        "mih",
-        "payments"
-      ]
-    },
-    {
-      "at": "2026-10-30T13:01:49.516592+00:00",
-      "handle": "REG CCI",
-      "headline": "CCI approves Vega SAS acquisition of stake in Vodafone Group",
-      "tier": 1,
-      "url": "https://www.cci.gov.in/media-gallery/press-release/details/714/0",
-      "words": [
-        "2026",
-        "acquisition",
-        "approves",
-        "certain",
-        "commission",
-        "dated",
-        "group",
-        "plc",
-        "sas",
-        "stake",
-        "vega",
-        "vodafone"
-      ]
-    },
-    {
-      "at": "2026-10-30T13:01:49.516592+00:00",
-      "handle": "Redseer",
-      "headline": "Redseer and Google report 17X shopper headroom for quick commerce in non-metros",
-      "tier": 1,
-      "url": "https://redseer.com/articles/how-quick-commerce-can-win-bharat",
-      "words": [
-        "2025",
-        "accounted",
-        "article",
-        "bharat",
-        "can",
-        "commerce",
-        "festive",
-        "gmv",
-        "good",
-        "judged",
-        "mobile",
-        "mobiles",
-        "mor",
-        "online"
-      ]
-    },
-    {
-      "at": "2026-10-30T13:31:26.760398+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Centre constitutes social security board for gig and unorganised workers",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUGtzVTJ0VEpKWGtTdzNRLWJFa3FhNjNuUllLUG9XQmJnYWF6b0liNG84VEdqTzAzcHpGcjdBWmpaMlRnT2Qzc2lFREhrWFBubGwwNUxZZFd3RVJqZk9uUlJXdTlId1k1S1dPYnlJOU9IekZkdnYtR0N4Si11OXF1Q29CT1Exa0MzYUhoMTJSU1N3ODM5MjZGQU41ZHJKSlN3R2pUaEVQejRmbHlfY3VGdUw2UENvT3dLMFZVMTZpSUZaTFJqaFhYZThyR0g1ZE5pM0HSAdcBQVVfeXFMTmhlaXl1eWNNSDd2ek1vclFrXzdLM2VQWEQtYW9NUDZvallBUGpoVGJBUzFTN0FQczNLYUx3SlZLZ1hPRXA5b243Zmk3dnNwYXRmMFN3eEwyalJxRENWczUzdDFWTklVNjlxaEJoLTM0MmlyUDBFc05GS0NvOElSb0QxS0RBLUdVNUtQOTFnOHhLM3N1SWlSZXJ2SmVGaVFrZllrWHFmMVNaQ0hVTFV6MmhENkplcTRGWjM3SHNUemYxdDVabF80U2lUa1RPTzY5ZFcwbzdGcmc?oc=5",
-      "words": [
-        "board",
-        "centre",
-        "constitutes",
-        "gig",
-        "security",
-        "social",
-        "unorganised",
-        "workers"
-      ]
-    },
-    {
       "at": "2026-10-30T13:31:26.760398+00:00",
       "handle": "News: India telecom",
       "headline": "TRAI proposes board-approved AI policies and mandatory incident reporting for telcos",
@@ -7437,6 +7355,71 @@
         "takes",
         "tools",
         "video"
+      ]
+    },
+    {
+      "at": "2026-11-10T20:31:39.504481+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Lam Research highlights need for new semiconductor systems engineers in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaS10T2x1eU5MRllTMXBTVy1yRE5qVUI5aWNRME15YVAwTUxsbDUyS3FhRUg1c2FNdUY4dWd0b2ZZTWZyaVVCNzdvby0wSVQ2SFlfY19jTHZ2UWl0VXJxR2l0S2k1dUZPWGVpdDVNaEtFT2trMUpvLVl1N3dBR2RmYmVxcC1lYXMwMFNuell4b2hpV3hzQldNNTNzbGJjZC1pNGh1LS1TZWJNTTY3VmNqM085c0pwYXAwLU41aG1mZXVLWi1lMnVDSnNxUTlhZEt3a2F4YUMta01hTGg1NzZ0b0RPN3IwN0dreHNCOTFn0gHzAUFVX3lxTFBsdjdkWTlUN2pQako1YzA0bHJlcm81NzJJWWFIY0ticHRZc3dQa1JzMjdfOWNEcFBMajJwVXAtb3BicEYxN2hyV24yTmFHd1MtNVJhVldqTFdnRjA2MENQZWo4LWViZmNseEhram9yNEVQMk95dFE3OFIxcUxWWFhrQ2NJaFJQRUdKTjZxbjlrRktCaHBBLXVNWGhxX1dnQXFoUy1tTHJRb0Y3c2swdk9vS0xqWEVMTHNBcVQtUDlOMFJoTUZSV0NlQ2NGRHV5Q0ZIUDA1RW5Gb0JkbzFDYlZyRDlOQklrUDE5Y1lHeXJoaERYUQ?oc=5",
+      "words": [
+        "engineers",
+        "generation",
+        "lam",
+        "needs",
+        "research",
+        "semiconductor",
+        "systems"
+      ]
+    },
+    {
+      "at": "2026-11-10T20:31:39.504481+00:00",
+      "handle": "News: Global AI",
+      "headline": "Traders bet on strong market debut for Anthropic IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb1M4d1VnRm5QRlJjRUREb0tQZXpUYXVDdkQ4RVVFeEotck1JUlZkcFUwYlFDdGtycFhqaHFReENVYy1PcWRDS3ZfVnhmdUo0dUdONXd1Zmc4TVQ3NldrUG5RY3JCN0lKQUVqbjJnTlg5SGhMazVzYmhaeTR3czhqY19XTldxOUpuaTAtMVF3?oc=5",
+      "words": [
+        "anthropic",
+        "bet",
+        "historic",
+        "ipo",
+        "pop",
+        "traders"
+      ]
+    },
+    {
+      "at": "2026-11-10T20:31:39.504481+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "SoftBank reports Lenskart and Meesho drive $394 million valuation gains",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlA2d2F3MW5qc3BlTUFGSG5sd3hCM3M0enBKd0QtckJIZVZmZmlCM0pFWEVIQm5mc2d2YWtmNm00Q2pyTDlpUGlKbU1CekFGRzZRalFEZDNHWXV6N3NkM3Q0WGQ3Q0RhQUpEcGo3cW1fYkJySWNCMUNYd19wVU1WVTNWU082SGR6TXhObGREV2ZCM3R1R1VkU3poTFc3RFR2?oc=5",
+      "words": [
+        "394",
+        "drive",
+        "gains",
+        "lenskart",
+        "meesho",
+        "softbank",
+        "valuation"
+      ]
+    },
+    {
+      "at": "2026-11-10T20:31:39.504481+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic founders to cash out $250M each in IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMjJoMFk5cWxCTmNuUDFDbkFYSUxFUzk3ZFYwYmk5WGhhcGNOdlBRbUxidU9QZVJ4bEpQajFIWlE1Ym1adXk1LTM1dW9yUE5xX0ZEREZPQXlYVDhhWUFGd1Vqa3IwZU9hVExxNG1NU0dUcnlnLVFRWDEtaHowaXEtMjVIemxfY3ljUHNQS1YzNDhQejdCelFzWnM1bkc?oc=5",
+      "words": [
+        "250m",
+        "about",
+        "all",
+        "anthropic",
+        "cash",
+        "each",
+        "founders",
+        "ipo",
+        "out"
       ]
     }
   ],
@@ -17188,7 +17171,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-10T20:18:02.175198+00:00",
+    "last_run": "2026-11-10T20:33:03.890308+00:00",
     "pib_mark": 2334866,
     "seen": [
       "pib:2325463",
@@ -20251,10 +20234,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793657690540",
-    "1793699640021",
-    "1793708123957",
-    "1793711411487",
     "1793712960032",
     "1793716160776",
     "1793716179064",
@@ -24680,7 +24659,6 @@
     "1794328573044",
     "1794328671539",
     "1794273720149",
-    "1794283282973",
     "1794292020600",
     "1794313572610",
     "1794315815119",
@@ -24733,7 +24711,6 @@
     "1794319614531",
     "1794325200497",
     "1794325704822",
-    "1794326116492",
     "1794327480694",
     "1794328181592",
     "1794328673822",
@@ -24754,7 +24731,6 @@
     "1794278272614",
     "1794280040641",
     "1794289305509",
-    "1794309552328",
     "1794316023669",
     "1794320880534",
     "1794322811160",
@@ -24764,7 +24740,6 @@
     "1794332275621",
     "1794333257808",
     "1790525772410",
-    "1794292209006",
     "1794309078854",
     "1794321300233",
     "1794328839825",
@@ -24778,12 +24753,24 @@
     "1794274200007",
     "1794281225257",
     "1794281280551",
-    "1794322414638",
-    "1794327135822",
     "1794328824880",
     "1794330246994",
     "1794335940979",
     "1794335959404",
+    "1793750400772",
+    "1794256193558",
+    "1794262396112",
+    "1794292209496",
+    "1794309240328",
+    "1794312021216",
+    "1794312720301",
+    "1794314345803",
+    "1794330879153",
+    "1794336338854",
+    "1794336824267",
+    "1794339258635",
+    "1794340640825",
+    "1794341233994",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25903,7 +25890,6 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
-    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -26005,8 +25991,6 @@
     "1794251750798",
     "1794251750977",
     "1794253907243",
-    "1794256193558",
-    "1794262396112",
     "1794266825490",
     "1794268800212",
     "1794268800884",
@@ -26018,6 +26002,7 @@
     "1794278272418",
     "1794280592812",
     "1794281673185",
+    "1794283282973",
     "1794284880792",
     "1794285614514",
     "1794286903574",
@@ -26030,7 +26015,7 @@
     "1794290252814",
     "1794290253858",
     "1794291454539",
-    "1794292209496",
+    "1794292209006",
     "1794292635903",
     "1794293613793",
     "1794294000430",
@@ -26061,7 +26046,7 @@
     "1794307260460",
     "1794308409340",
     "1794308962841",
-    "1794309240328",
+    "1794309552328",
     "1794309747015",
     "1794309953894",
     "1794310811896",
@@ -26071,12 +26056,10 @@
     "1794312000114",
     "1794312000472",
     "1794312001158",
-    "1794312021216",
     "1794312148900",
     "1794312377582",
     "1794312390531",
     "1794312600146",
-    "1794312720301",
     "1794313054408",
     "1794313059821",
     "1794313061129",
@@ -26084,7 +26067,6 @@
     "1794313065564",
     "1794313716376",
     "1794313789119",
-    "1794314345803",
     "1794315420808",
     "1794315600115",
     "1794315600523",
@@ -26115,6 +26097,7 @@
     "1794321600217",
     "1794321906755",
     "1794322327145",
+    "1794322414638",
     "1794322785227",
     "1794322811268",
     "1794323280217",
@@ -26123,6 +26106,7 @@
     "1794324280746",
     "1794324290430",
     "1794324335063",
+    "1794326116492",
     "1794326400332",
     "1794326400353",
     "1794326400482",
@@ -26133,6 +26117,7 @@
     "1794326627700",
     "1794327059234",
     "1794327088525",
+    "1794327135822",
     "1794327840089",
     "1794327852569",
     "1794328046339",
@@ -26156,7 +26141,6 @@
     "1794330647973",
     "1794330670842",
     "1794330846032",
-    "1794330879153",
     "1794330889379",
     "1794331200179",
     "1794331243979",
@@ -26190,11 +26174,10 @@
     "1794335758414",
     "1794336060497",
     "1794336236622",
-    "1794336338854",
     "1794336559327",
     "1794336592562",
-    "1794336824267",
     "1794337070759",
+    "1794337178680",
     "1794337200334",
     "1794337200544",
     "1794337200635",
@@ -26209,18 +26192,18 @@
     "1794338867953",
     "1794339104500",
     "1794339216758",
-    "1794339258635",
     "1794339397007",
+    "1794339584028",
     "1794339726234",
     "1794340020083",
     "1794340020893",
     "1794340278042",
     "1794340519621",
     "1794340638646",
-    "1794340640825",
+    "1794340672635",
     "1794340882304",
     "1794341021624",
-    "1794341233994",
+    "1794341159153",
     "1794344400175",
     "2331589",
     "2331704",
@@ -26252,8 +26235,8 @@
     "2334710",
     "2334716"
   ],
-  "last_digest_hour": "2026-11-11T01",
-  "last_success": "2026-11-10T20:16:15.941029+00:00",
+  "last_digest_hour": "2026-11-11T02",
+  "last_success": "2026-11-10T20:31:39.588801+00:00",
   "national": {
     "alerted": [
       {
@@ -36399,7 +36382,7 @@
       },
       "warned": "2026-11-10T00:17:41.583883+00:00"
     },
-    "last_run": "2026-11-10T20:17:47.586197+00:00",
+    "last_run": "2026-11-10T20:32:50.839577+00:00",
     "pib_mark": 2334866,
     "seen": [
       "pib:2326113",
@@ -39472,62 +39455,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Lam Research highlights need for new semiconductor systems engineers in India",
-      "post": {
-        "created_at": "2026-11-10T18:45:38+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1794336338854",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Electronics",
-        "reposts": 0,
-        "text": "India needs new generation of semiconductor systems engineers: Lam Research",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaS10T2x1eU5MRllTMXBTVy1yRE5qVUI5aWNRME15YVAwTUxsbDUyS3FhRUg1c2FNdUY4dWd0b2ZZTWZyaVVCNzdvby0wSVQ2SFlfY19jTHZ2UWl0VXJxR2l0S2k1dUZPWGVpdDVNaEtFT2trMUpvLVl1N3dBR2RmYmVxcC1lYXMwMFNuell4b2hpV3hzQldNNTNzbGJjZC1pNGh1LS1TZWJNTTY3VmNqM085c0pwYXAwLU41aG1mZXVLWi1lMnVDSnNxUTlhZEt3a2F4YUMta01hTGg1NzZ0b0RPN3IwN0dreHNCOTFn0gHzAUFVX3lxTFBsdjdkWTlUN2pQako1YzA0bHJlcm81NzJJWWFIY0ticHRZc3dQa1JzMjdfOWNEcFBMajJwVXAtb3BicEYxN2hyV24yTmFHd1MtNVJhVldqTFdnRjA2MENQZWo4LWViZmNseEhram9yNEVQMk95dFE3OFIxcUxWWFhrQ2NJaFJQRUdKTjZxbjlrRktCaHBBLXVNWGhxX1dnQXFoUy1tTHJRb0Y3c2swdk9vS0xqWEVMTHNBcVQtUDlOMFJoTUZSV0NlQ2NGRHV5Q0ZIUDA1RW5Gb0JkbzFDYlZyRDlOQklrUDE5Y1lHeXJoaERYUQ?oc=5"
-      },
-      "queued_at": "2026-11-10T20:01:34.594763+00:00",
-      "score": 7.0,
-      "why": "Important industry development concerning India's growing semiconductor talent ecosystem."
-    },
-    {
-      "headline": "Traders bet on strong market debut for Anthropic IPO",
-      "post": {
-        "created_at": "2026-11-10T19:51:18+00:00",
-        "handle": "News: Global AI",
-        "id": "1794340278042",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC",
-        "reposts": 0,
-        "text": "Traders bet on a pop for Anthropic's historic IPO",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb1M4d1VnRm5QRlJjRUREb0tQZXpUYXVDdkQ4RVVFeEotck1JUlZkcFUwYlFDdGtycFhqaHFReENVYy1PcWRDS3ZfVnhmdUo0dUdONXd1Zmc4TVQ3NldrUG5RY3JCN0lKQUVqbjJnTlg5SGhMazVzYmhaeTR3czhqY19XTldxOUpuaTAtMVF3?oc=5"
-      },
-      "queued_at": "2026-11-10T20:01:34.594763+00:00",
-      "score": 7.0,
-      "why": "Major AI company market listing development matching major disclosures criteria."
-    },
-    {
-      "headline": "SoftBank reports Lenskart and Meesho drive $394 million valuation gains",
-      "post": {
-        "created_at": "2026-11-10T19:57:18+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1794340638646",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Inc42",
-        "reposts": 0,
-        "text": "SoftBank Q2: Lenskart & Meesho Drive $394 Mn In Valuation Gains",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlA2d2F3MW5qc3BlTUFGSG5sd3hCM3M0enBKd0QtckJIZVZmZmlCM0pFWEVIQm5mc2d2YWtmNm00Q2pyTDlpUGlKbU1CekFGRzZRalFEZDNHWXV6N3NkM3Q0WGQ3Q0RhQUpEcGo3cW1fYkJySWNCMUNYd19wVU1WVTNWU082SGR6TXhObGREV2ZCM3R1R1VkU3poTFc3RFR2?oc=5"
-      },
-      "queued_at": "2026-11-10T20:16:15.846405+00:00",
-      "score": 7.0,
-      "why": "It discloses specific valuation gains driven by Indian portfolio companies Lenskart and Meesho."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40707,8 +40635,8 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1794337658235,
     "news: consumer internet india": 1794340638646,
-    "news: global ai": 1794340519621,
-    "news: global chips": 1794340020083,
+    "news: global ai": 1794340672635,
+    "news: global chips": 1794341159153,
     "news: global it services": 1794315813066,
     "news: india ai deeptech": 1794316748720,
     "news: india edtech gaming": 1794328227404,
@@ -40746,7 +40674,9 @@
     "zoho": 1794301671766
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-10T20:31:23.560087+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40769,7 +40699,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-10T20:16:16.435814+00:00",
+    "last_server_run": "2026-11-10T20:31:40.087141+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -52262,7 +52192,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-10T20:17:51.425702+00:00",
+    "last_run": "2026-11-10T20:32:54.379502+00:00",
     "seen": [
       "x:2117807796179890193",
       "x:2117810992566673587",
