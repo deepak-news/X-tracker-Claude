@@ -1,70 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-30T15:31:25.592140+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio Platforms CEO outlines digital services and enterprise as growth engines",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQzVycU04Z3NyeEM3a1FCbU0yaHV4WXlDd2xYdUhqRUZMUGg0X1RJd1UxdUJyc0NuRHk4REprLWFqWnppRGtFNXRoaFlxWnZaUHpFNzlhX2pySWM1VDlyVmFXRTlreUZfMXlBXzZTSElNc0RuaTdKS2lwcXZHYk51V2xheDZRa0RxaEcySk1xWDVpQVczLXBZNUx2NllWQzU0a05qRzVTbGk2blN2NzhLMDBwX3JGVjRVMkZiY3d0V1ZGemJwUTBMX0l5aGh4bDNITm5hT3ZuTTduYXVyR3pBekxkZDNFbXRuTlpRU3pn0gHzAUFVX3lxTE1ROEZ1TVlIcEJrSVNDQzcyZnN5WDdxRDVVZEZiaUlQQjFDZmZUbncybDBoaEUyOTNLbGh4QU5mQVY0U1p5SElZUEtScHJneEpveDVBWnc4b0NYempNcmJZYkhNU09rY09TalRhUWZoUGs5Z0dNZjBaeHRNaTRQS25XNGQ1X3VadWN4LWh6UUE5dHlTT3lPdkRZYW8zNmYxUkw2R04zdUE2bjc0SHcteUdLN1JyN3B5elR4ZngyMGpobzNCUDdMaHQ3NmZoQUdFRUJFd1B3YlZZMzh1cWNlMndNR3VGSzBheHpUcUhnZ2hyTm8yTQ?oc=5",
-      "words": [
-        "beyond",
-        "business",
-        "ceo",
-        "connectivity",
-        "digital",
-        "engines",
-        "enterprise",
-        "growth",
-        "jio",
-        "key",
-        "platforms",
-        "sees",
-        "services"
-      ]
-    },
-    {
-      "at": "2026-10-30T15:31:25.592140+00:00",
-      "handle": "News: India semiconductors",
-      "headline": "Avendus Capital report unlocks manufacturing opportunities across six Indian sectors",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQmdNWEE1dnU0NUZLT21HRUVITkpZR0N1bThRb1BOZVBSZk11VzVsejJQOFh3endtazI3X21qVTdpWkFHemtUbnh5R1RrRW03NEJoY18zNXA1WWwxUEw5MVdkT0wyUnhNTzg2Nk9MSy1ybllFeVI4UlhyRmJVS2lqVWZZSGRHNVRHbjd3M3JseWoyMTg5WnpCeDFYRTMtUGNnMkpCNTJPeGtab2cyUF93UzFDVUlrOFA1NnlTa1pZRFBJSjZtQ0JwWHZpS2VaY0x4dnBuMlRhMzFVR3NqeDBhakxCcEZsNV9pN3dBRlBoSHk4UUlheXMydnFMWmRxLXBfbElhY0l1RFR6R0V3RElwM9IBkAJBVV95cUxPQmdNWEE1dnU0NUZLT21HRUVITkpZR0N1bThRb1BOZVBSZk11VzVsejJQOFh3endtazI3X21qVTdpWkFHemtUbnh5R1RrRW03NEJoY18zNXA1WWwxUEw5MVdkT0wyUnhNTzg2Nk9MSy1ybllFeVI4UlhyRmJVS2lqVWZZSGRHNVRHbjd3M3JseWoyMTg5WnpCeDFYRTMtUGNnMkpCNTJPeGtab2cyUF93UzFDVUlrOFA1NnlTa1pZRFBJSjZtQ0JwWHZpS2VaY0x4dnBuMlRhMzFVR3NqeDBhakxCcEZsNV9pN3dBRlBoSHk4UUlheXMydnFMWmRxLXBfbElhY0l1RFR6R0V3RElwMw?oc=5",
-      "words": [
-        "across",
-        "avendus",
-        "capital",
-        "cycle",
-        "global",
-        "investment",
-        "manufacturing",
-        "opportunities",
-        "sectors",
-        "six",
-        "unlocks"
-      ]
-    },
-    {
-      "at": "2026-10-30T15:31:25.592140+00:00",
-      "handle": "News: India fintech",
-      "headline": "UPI accepted for ticket bookings at major global attractions",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbTQ4cHUxTjc1WmE1NHVETUVNWTdEUVd0STc1bk5LaUQzVmktdGNQUkVKQ0JsamM4SC1xWVV5aXpyc3FrZk5Ja3dxdUNlWWdibTRfR3lxb0dxZk1MMXRiR1ozUmFMTEV6Z1BMNjQ3UGtSVk9MT2RQQk1YZHJteGI0eWRNMmprRWs3UlNTaGtMTzFDWFg0MjJORG1Zenc1ZlZxVUk2aXJiTl8xVG9EOThycUkxb0VPLTlWVW0xZzhiQmlZNVZ1Rl9XaUtNN1hjUlFJemRjS211aHhLVGxlWUo0cV9sY3NNN0hBc0xzd1EyYkExN1hTTDFDaWk4bW12STl50gGAAkFVX3lxTFBtNDhwdTFONzVaYTU0dURNRU1ZN0RRV3RJNzVuTktpRDNWaS10Y1BSRUpDQmxqYzhILXFZVXlpenJzcWtmTklrd3F1Q2VZZ2JtNF9HeXFvR3FmTUwxdGJHWjNSYUxMRXpnUEw2NDdQa1JWT0xPZFBCTVhkcm14YjR5ZE0yamtFazdSU1Noa0xPMUNYWDQyMk5EbVl6dzVmVnFVSTZpcmJOXzFUb0Q5OHJxSTFvRU8tOVZVbTFnOGJCaVk1VnVGX1dpS003WGNSUUl6ZGNLbXVoeEtUbGVZSjRxX2xjc003SEFzTHN3UTJiQTE3WFNMMUNpaThtbXZJOXk?oc=5",
-      "words": [
-        "accepted",
-        "attractions",
-        "bookings",
-        "burj",
-        "khalifa",
-        "major",
-        "now",
-        "online",
-        "other",
-        "singapore",
-        "studios",
-        "universal",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-10-30T16:32:01.100749+00:00",
       "handle": "News: India AI deeptech",
       "headline": "CoRover BharatGPT models listed on IndiaAI AIKosh platform",
@@ -7419,6 +7355,65 @@
         "stop",
         "system",
         "within"
+      ]
+    },
+    {
+      "at": "2026-11-11T05:31:19.642828+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic AI progress analysis projects intelligence explosion in 2027",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPam5JVXg5cnc0VXlPS0pEM0ZmVG1FaU1VbTFuQWJTb2xiQ2dBS21qMWpRU2lyZUQ1T3R1NTQxUjRsNzRySXVFVFJMY0FUd1VWRUdMcUhVeWZtQV9BdGI4NXNLY2xFWFFhNWdsTWFaV0drYVhNbjR5Tm5CcnNaUEFVaFk3OE96UTlBSk9KaDhYcUJBSVlELW5VU2Z0NHpmZVdjMURWS09CM3JjR0ZoUmY5aDVCTzVDWThpbjFkZExBSzVvcW5FN1pJeU9HSzF5Z3dNbWRkSG5zMVAzZm8?oc=5",
+      "words": [
+        "2027",
+        "anthropic",
+        "doubles",
+        "expected",
+        "explosion",
+        "intelligence",
+        "now",
+        "progress"
+      ]
+    },
+    {
+      "at": "2026-11-11T05:31:19.642828+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI to discontinue old ChatGPT voice modes on December 11",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWxWVGN6MEVqdVk4T21ZUVMxLUs0eGo5cVliblZTRTUydEFxZngtMmxmSXV4MUFkV1Z2S2ZqSUZrQ0F0R2s2LVBfVmNKeGZNQk9mNE1ubXpEUjdCXzAwNmVBUERaMDB5RGJhckQyT3N2MENkeEdzeElMOVhBdmZVTDREQkJSdHozVEt5RzJOUmduTjQyU2RXRFZDRkdKOTh2X3NtS0dRdnFENGdWU2tPc04zOXFCSjJhdnI0NlpHUDdHb2trRjNzYkJZSFFyVFNfRlM0aWh5d2RwZw?oc=5",
+      "words": [
+        "chatgpt",
+        "dec",
+        "discontinue",
+        "live",
+        "mode",
+        "modes",
+        "old",
+        "openai",
+        "shift",
+        "users",
+        "voice"
+      ]
+    },
+    {
+      "at": "2026-11-11T05:31:19.642828+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "IBM to end green card sponsorship for US consulting roles",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSUlrR092LXB5U19uM192NnQtS0dpQmxLMWtJek5rbm9jOXhGMHVZMHQzclc1R3hKUm45V0wwUVpIQVoybFlaMGpqYTZnZURaZjcyemNhYmhScV9kOWQ2Q0RrRWVKd1E3dE1DYV9NeDMxOVJhblk5QzJZaWNVbldGcGVNQm1QRXRwdXhtdDFDa3lrYjV0X1l1dTBGdjkxUWwxbVNwcnZyN3FBWUZQdW1sM1NOWTZ3dDY3ZnBiaDh0U3hheXgxdDZUcGVQSnBscXROM0VOckdGWUZMNnBkVXVpVlFlMTZBdGRoUTZJamJGYlBwT0tnVTJuWDRNREpDd0REamE0atIBigJBVV95cUxPYzBPd2dHNEZsM3FmOTdUalFVdDN6bl80VnJxN2loLWdaa1lfTVR5SGotRXM5Zy1tRW9TNkY3eTBTdWkwQzhzMmpJUUNFT29hZHZhcTlmMmNldmpBVHNUM2NyWFE4OHVxR1VXZXphZFEteDFzY2Etc1FfUFNaeVRPSktBT3BoVUFjajBOMWtjR1hnb09yQWJmWTMybHh3M3RoLVpFVUN6VVQteGJYTTktSWNRYXF5NkdfWTlJNVVET3J3MkZJVjdBbU0tWEVRRXozbkJmR3ExcjA1RjhQZHN3bGc0ZUo4MDh5NUZQY21nb0wzY2tQNlJzLTc1SHRZQnhvcV9BUEVBTTdNZw?oc=5",
+      "words": [
+        "card",
+        "consulting",
+        "end",
+        "green",
+        "ibm",
+        "infosys",
+        "microsoft",
+        "most",
+        "news",
+        "roles",
+        "sponsorship",
+        "tcs",
+        "visa"
       ]
     }
   ],
@@ -17168,10 +17163,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-11T05:17:41.703305+00:00",
+    "last_run": "2026-11-11T05:33:10.545945+00:00",
     "pib_mark": 2334888,
     "seen": [
-      "pib:2325503",
       "pib:2325504",
       "pib:2325512",
       "pib:2325509",
@@ -20170,7 +20164,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-foundation-of-a-progressive-nations-strength-and-power",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-the-nation-on-the-occasion-of-bhai-dooj",
       "pib:2334877",
-      "pib:2334888"
+      "pib:2334888",
+      "site:ICC|https://www.icc-cricket.com/media-releases/icc-board-and-committee-meetings-begin-in-bali"
     ],
     "source_failures": {},
     "sources": [
@@ -20231,20 +20226,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793763546068",
-    "1793700000540",
-    "1793709752271",
-    "1793732134658",
-    "1793749195606",
-    "1793755810156",
-    "1793759441323",
-    "1793760277368",
-    "1793770677067",
-    "1793770765565",
-    "1793771805260",
-    "1793630360786",
-    "1793630362574",
-    "1793637464014",
     "1793650076974",
     "1793677724673",
     "1793678927334",
@@ -24593,7 +24574,6 @@
     "1794341021624",
     "1794342234328",
     "1794316320633",
-    "1794336592562",
     "1794342780156",
     "1794343787153",
     "1794351135624",
@@ -24648,7 +24628,6 @@
     "1794281225257",
     "1794312390531",
     "1794341295097",
-    "1794349986791",
     "1794353520233",
     "1794362494783",
     "1794278272418",
@@ -24706,7 +24685,6 @@
     "1794337658235",
     "1794342284563",
     "1794347719782",
-    "1794358080197",
     "1794332401280",
     "1794350128295",
     "1794357300630",
@@ -24735,7 +24713,6 @@
     "1794346503129",
     "1794349009134",
     "1794350880396",
-    "1794351873406",
     "1794361113901",
     "1794363276761",
     "1794363602111",
@@ -24745,7 +24722,6 @@
     "1794286903574",
     "1794287520736",
     "1794287752807",
-    "1794309747015",
     "1794326400926",
     "1794330647973",
     "1794331701618",
@@ -24764,6 +24740,23 @@
     "1794373020258",
     "1794373080011",
     "1794373133635",
+    "1794297423793",
+    "1794309747794",
+    "1794321511932",
+    "1794321600217",
+    "1794344560898",
+    "1794355366662",
+    "1794358620791",
+    "1794360480808",
+    "1794360741352",
+    "1794366048404",
+    "1794366780853",
+    "1794368384159",
+    "1794370972244",
+    "1794373222200",
+    "1794373298780",
+    "1794374001338",
+    "1794374067635",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25994,7 +25987,6 @@
     "1794294864414",
     "1794295418185",
     "1794296602046",
-    "1794297423793",
     "1794298095508",
     "1794298163786",
     "1794301200626",
@@ -26012,7 +26004,7 @@
     "1794306600229",
     "1794307260460",
     "1794308962841",
-    "1794309747794",
+    "1794309747015",
     "1794309953894",
     "1794311153063",
     "1794311931666",
@@ -26048,8 +26040,6 @@
     "1794319200198",
     "1794319200535",
     "1794320520727",
-    "1794321511932",
-    "1794321600217",
     "1794322327145",
     "1794322785227",
     "1794323280217",
@@ -26082,6 +26072,7 @@
     "1794334322317",
     "1794336060497",
     "1794336338854",
+    "1794336592562",
     "1794337200334",
     "1794337200544",
     "1794337200635",
@@ -26097,7 +26088,6 @@
     "1794340882304",
     "1794341280694",
     "1794344400175",
-    "1794344560898",
     "1794344932067",
     "1794345756572",
     "1794346740584",
@@ -26105,27 +26095,26 @@
     "1794348218411",
     "1794349500601",
     "1794349948698",
+    "1794349986791",
     "1794351060831",
     "1794351396406",
+    "1794351873406",
     "1794352294000",
     "1794354103132",
     "1794354395950",
     "1794354516193",
     "1794354840394",
-    "1794355366662",
     "1794355920065",
     "1794356702998",
     "1794356823625",
     "1794357025957",
     "1794357038319",
-    "1794358620791",
+    "1794358080197",
     "1794358713871",
     "1794359250766",
     "1794359640973",
     "1794360360848",
-    "1794360480808",
     "1794360664024",
-    "1794360741352",
     "1794361486423",
     "1794361607358",
     "1794361841013",
@@ -26155,13 +26144,13 @@
     "1794365900048",
     "1794366000615",
     "1794366020384",
-    "1794366048404",
+    "1794366055464",
     "1794366155213",
     "1794366332264",
     "1794366360685",
+    "1794366458011",
     "1794366480694",
     "1794366771466",
-    "1794366780853",
     "1794366930511",
     "1794367043296",
     "1794367140787",
@@ -26169,13 +26158,11 @@
     "1794367895384",
     "1794367973552",
     "1794368117954",
-    "1794368384159",
     "1794368682678",
     "1794369000946",
     "1794369214030",
     "1794369742866",
     "1794369749031",
-    "1794370972244",
     "1794371040912",
     "1794371096902",
     "1794371133429",
@@ -26194,12 +26181,20 @@
     "1794372708793",
     "1794372904310",
     "1794373153189",
-    "1794373222200",
-    "1794373298780",
+    "1794373241200",
     "1794373507039",
+    "1794373610692",
     "1794373775058",
-    "1794374001338",
-    "1794374067635",
+    "1794373805994",
+    "1794373906577",
+    "1794373952993",
+    "1794373968159",
+    "1794374027575",
+    "1794374031017",
+    "1794374225824",
+    "1794374256338",
+    "1794374340799",
+    "1794374370118",
     "1794441600464",
     "2331589",
     "2331704",
@@ -26232,8 +26227,8 @@
     "2334716",
     "2334888"
   ],
-  "last_digest_hour": "2026-11-11T10",
-  "last_success": "2026-11-11T05:16:01.764949+00:00",
+  "last_digest_hour": "2026-11-11T11",
+  "last_success": "2026-11-11T05:31:19.728462+00:00",
   "national": {
     "alerted": [
       {
@@ -36379,10 +36374,9 @@
       },
       "warned": "2026-11-11T00:32:29.531772+00:00"
     },
-    "last_run": "2026-11-11T05:17:21.319903+00:00",
+    "last_run": "2026-11-11T05:32:51.586124+00:00",
     "pib_mark": 2334888,
     "seen": [
-      "pib:2326129",
       "pib:2326133",
       "pib:2326140",
       "pib:2326142",
@@ -39381,7 +39375,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-the-nation-on-the-occasion-of-bhai-dooj",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-foundation-of-a-progressive-nations-strength-and-power",
       "pib:2334877",
-      "pib:2334888"
+      "pib:2334888",
+      "site:ICC|https://www.icc-cricket.com/media-releases/icc-board-and-committee-meetings-begin-in-bali"
     ],
     "source_failures": {
       "CBI": {
@@ -39452,62 +39447,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic AI progress analysis projects intelligence explosion in 2027",
-      "post": {
-        "created_at": "2026-11-11T04:51:48+00:00",
-        "handle": "News: Global AI",
-        "id": "1794372708511",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Intelligence explosion now expected in 2027 as Anthropic AI progress doubles",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPam5JVXg5cnc0VXlPS0pEM0ZmVG1FaU1VbTFuQWJTb2xiQ2dBS21qMWpRU2lyZUQ1T3R1NTQxUjRsNzRySXVFVFJMY0FUd1VWRUdMcUhVeWZtQV9BdGI4NXNLY2xFWFFhNWdsTWFaV0drYVhNbjR5Tm5CcnNaUEFVaFk3OE96UTlBSk9KaDhYcUJBSVlELW5VU2Z0NHpmZVdjMURWS09CM3JjR0ZoUmY5aDVCTzVDWThpbjFkZExBSzVvcW5FN1pJeU9HSzF5Z3dNbWRkSG5zMVAzZm8?oc=5"
-      },
-      "queued_at": "2026-11-11T05:01:35.771965+00:00",
-      "score": 7.0,
-      "why": "This contains significant research findings and progress metrics from a major AI lab."
-    },
-    {
-      "headline": "OpenAI to discontinue old ChatGPT voice modes on December 11",
-      "post": {
-        "created_at": "2026-11-11T04:57:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1794373020258",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ANI News",
-        "reposts": 0,
-        "text": "OpenAI to discontinue old ChatGPT voice modes from Dec 11; users to shift to live voice mode",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWxWVGN6MEVqdVk4T21ZUVMxLUs0eGo5cVliblZTRTUydEFxZngtMmxmSXV4MUFkV1Z2S2ZqSUZrQ0F0R2s2LVBfVmNKeGZNQk9mNE1ubXpEUjdCXzAwNmVBUERaMDB5RGJhckQyT3N2MENkeEdzeElMOVhBdmZVTDREQkJSdHozVEt5RzJOUmduTjQyU2RXRFZDRkdKOTh2X3NtS0dRdnFENGdWU2tPc04zOXFCSjJhdnI0NlpHUDdHb2trRjNzYkJZSFFyVFNfRlM0aWh5d2RwZw?oc=5"
-      },
-      "queued_at": "2026-11-11T05:01:35.771965+00:00",
-      "score": 7.0,
-      "why": "This is a major product and platform change announcement by a key AI company."
-    },
-    {
-      "headline": "IBM to end green card sponsorship for US consulting roles",
-      "post": {
-        "created_at": "2026-11-11T01:53:16+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1794361996553",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ET Now",
-        "reposts": 0,
-        "text": "H1-B Visa, Green Card News: After Microsoft, Infosys and TCS, IBM to end green card sponsorship for most US Consulting roles",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSUlrR092LXB5U19uM192NnQtS0dpQmxLMWtJek5rbm9jOXhGMHVZMHQzclc1R3hKUm45V0wwUVpIQVoybFlaMGpqYTZnZURaZjcyemNhYmhScV9kOWQ2Q0RrRWVKd1E3dE1DYV9NeDMxOVJhblk5QzJZaWNVbldGcGVNQm1QRXRwdXhtdDFDa3lrYjV0X1l1dTBGdjkxUWwxbVNwcnZyN3FBWUZQdW1sM1NOWTZ3dDY3ZnBiaDh0U3hheXgxdDZUcGVQSnBscXROM0VOckdGWUZMNnBkVXVpVlFlMTZBdGRoUTZJamJGYlBwT0tnVTJuWDRNREpDd0REamE0atIBigJBVV95cUxPYzBPd2dHNEZsM3FmOTdUalFVdDN6bl80VnJxN2loLWdaa1lfTVR5SGotRXM5Zy1tRW9TNkY3eTBTdWkwQzhzMmpJUUNFT29hZHZhcTlmMmNldmpBVHNUM2NyWFE4OHVxR1VXZXphZFEteDFzY2Etc1FfUFNaeVRPSktBT3BoVUFjajBOMWtjR1hnb09yQWJmWTMybHh3M3RoLVpFVUN6VVQteGJYTTktSWNRYXF5NkdfWTlJNVVET3J3MkZJVjdBbU0tWEVRRXozbkJmR3ExcjA1RjhQZHN3bGc0ZUo4MDh5NUZQY21nb0wzY2tQNlJzLTc1SHRZQnhvcV9BUEVBTTdNZw?oc=5"
-      },
-      "queued_at": "2026-11-11T05:16:01.708956+00:00",
-      "score": 7.0,
-      "why": "Major US visa policy shift by an IT major affecting Indian tech workers."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40685,10 +40625,10 @@
     "microsoft india": 1794337593792,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794372618441,
+    "news: big tech platforms": 1794373805994,
     "news: consumer internet india": 1794365325671,
-    "news: global ai": 1794373298780,
-    "news: global chips": 1794374067635,
+    "news: global ai": 1794374225824,
+    "news: global chips": 1794374370118,
     "news: global it services": 1794357038319,
     "news: india ai deeptech": 1794316748720,
     "news: india edtech gaming": 1794328227404,
@@ -40699,7 +40639,7 @@
     "news: indian it majors": 1794371928047,
     "news: indian it midcaps": 1794320520727,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794374067635,
+    "news: tech leaders": 1794374256338,
     "nvidia": 1794366020384,
     "nvidia blog": 1794366020384,
     "openai": 1794441600464,
@@ -40749,7 +40689,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-11T05:16:02.069061+00:00",
+    "last_server_run": "2026-11-11T05:31:20.220188+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -52280,18 +52220,23 @@
         "words": [
           "prtc"
         ]
+      },
+      {
+        "at": "2026-11-11T05:32:58.510077+00:00",
+        "headline": "CRPF to acquire kamikaze drones and deploy CoBRA battalions to strengthen anti-terror operations.",
+        "url": "https://x.com/girirajsinghbjp/status/2120385479552200979",
+        "words": [
+          "cobra",
+          "crpf",
+          "h2endc5vtt",
+          "https"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-11T05:17:32.053094+00:00",
+    "last_run": "2026-11-11T05:32:58.510294+00:00",
     "seen": [
-      "x:2117880712741470396",
-      "x:2117882094873702592",
-      "x:2117882157666611624",
-      "x:2117882220648280067",
-      "x:2117882420985024709",
-      "x:2117882813299011887",
       "x:2117883507519406551",
       "x:2117884089705594920",
       "x:2117885169583657103",
@@ -55285,7 +55230,13 @@
       "x:2120383168872432107",
       "x:2120383258076893531",
       "x:2120383712533880993",
-      "x:2120383792447975729"
+      "x:2120383792447975729",
+      "x:2120384837827903607",
+      "x:2120385430927683671",
+      "x:2120385479552200979",
+      "x:2120385919350137301",
+      "x:2120385970038305086",
+      "x:2120386975442305516"
     ],
     "source_failures": {},
     "sources": []
