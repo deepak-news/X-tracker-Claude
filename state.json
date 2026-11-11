@@ -1,59 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-30T20:31:28.429092+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI tightens ChatGPT teen safeguards and weapons info limits",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUk9mSktIV0dQaVNBTDBUUW4yYVQ5dE9oQ1haeGR0dUVWMjZWVmZJbEpsTWM4UWZkV2lHaUxDNENQM0ZyT2VYOFBEcmhkaEJsc3E5YUlKaU8zbDBEMjdIc3RCU280WGhkNnoxRC1rLXRKTllwM0NfUkQxQTEtanE0VlFYZm1hRDF0ZnBCcFpNOEpBM0RVVVI4a3JlQWhwNFVFSWpUYXBDdWNjb3F2OGxFN2l3a19SOXJtMkVpUmdJVnN1TzJIaDBkZmtxb9IBywFBVV95cUxNUk9mSktIV0dQaVNBTDBUUW4yYVQ5dE9oQ1haeGR0dUVWMjZWVmZJbEpsTWM4UWZkV2lHaUxDNENQM0ZyT2VYOFBEcmhkaEJsc3E5YUlKaU8zbDBEMjdIc3RCU280WGhkNnoxRC1rLXRKTllwM0NfUkQxQTEtanE0VlFYZm1hRDF0ZnBCcFpNOEpBM0RVVVI4a3JlQWhwNFVFSWpUYXBDdWNjb3F2OGxFN2l3a19SOXJtMkVpUmdJVnN1TzJIaDBkZmtxbw?oc=5",
-      "words": [
-        "chatgpt",
-        "information",
-        "openai",
-        "related",
-        "restricts",
-        "safeguards",
-        "teens",
-        "tightens",
-        "weapons"
-      ]
-    },
-    {
-      "at": "2026-10-30T21:31:15.839080+00:00",
-      "handle": "News: Global AI",
-      "headline": "Malicious Anthropic Claude extensions found in supply chain attack",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ25XT1VwZ0xkZDJHT014UWlQbFAwaXFrUGxSaG9EY3BidHd2b3VsN2lzTm1jSjd0VGR5dmFqNnhHR2ZxMDR4RFd1QjVUVE80eFpUX2NqeGVaZGxmdXZ4RGdnNUIwU1JSUmpWdGFaY3ZXaXR2VmRUaFN5QnJKT0wzakdtTWY2b0kwZGlKLVpiU25NSkRwT1JXbDFwbV95NVhW?oc=5",
-      "words": [
-        "anthropic",
-        "attack",
-        "chain",
-        "claude",
-        "devices",
-        "extensions",
-        "malicious",
-        "put",
-        "supply",
-        "thousands"
-      ]
-    },
-    {
-      "at": "2026-10-30T21:31:15.839080+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic VS code extension on Cursor compromised for 12 hours",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1lMUGhmc3dMOElMYW41ZG1LLXdnbGZFZ3BNV2F5by1rNWpkSUpoMXhMUGVhUVBCVDZmaVVqbklrT0FFVjlieERXeDdsMVp1Ql9IX0FVOVM3T1ZBeUVBdXRiSmtKd1RzSll1N0Zsd0VJTEUwNHVhcGpGdEx2VE9JUHlxNkNpUThOSExsVVhGYUVTN1lCd0FtclUxZ3F5UDFRYWtBN0VQSlhKOW1BQVRv?oc=5",
-      "words": [
-        "anthropic",
-        "backdoored",
-        "code",
-        "cursor",
-        "extension",
-        "hours",
-        "nearly"
-      ]
-    },
-    {
       "at": "2026-10-30T21:31:15.839080+00:00",
       "handle": "News: Indian IT midcaps",
       "headline": "Ministry of Defence outlines 2047 vision for Indian semiconductor industry",
@@ -7420,6 +7367,61 @@
         "nightmare",
         "security",
         "spiraled"
+      ]
+    },
+    {
+      "at": "2026-11-11T14:31:42.614484+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI rolls out features for US business listings in ChatGPT",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN29ic1pqdld3MkM0UEFzV2U5N1BwRFJDNG5aNk5hVm8wMm9RT1hJSURBZDNOTEFfQ25UT05aS2taY0t6akYtRkxONWZXT3VIZVIyVDlwRjdDa2RpanQ4Z1NCTVM2eEhxdS1ma04wamEtY09kQzBQbUJQeDE5SjlxZ2IwM1JFQ1lDNlRBdTkzNmVydFNETjRGd2VIb2FHaUhjY0x4WW1idVM4UjI5TWdtZjBCSlpFcXk2V19QNnUzQ2FOZnpUdUNYX2ZfZ3c4MWJ5YXNkblZGcGItX0hzQWfSAeQBQVVfeXFMT0RnWVFBVEE2UXBwTmdSY3pOVElwb0FlSnV4WkpQVGVxdGp5U2FkSWRWLW9SZEROUHpMR3B5azVqX1RuZlRlalVnbFlJUk5IQVUyemtMc1BBX2xRanlYT0ZFM1BfOUNGWGRRWDNMYVhPYXFmVjN2Y0JKWDFOckhpWXlsSGNmZ0I5UFhKMXk2dHdTeWYzU1RwcUEtdlhwaGItTllHQUZqdlNvX0tNVWxUa1lkM1FpbWlZQ1BGTEdOQXZhbm9FTjhLNjRxWUd2SFFQX3dCYUNGUDJIYzFvMWNicndObV9W?oc=5",
+      "words": [
+        "businesses",
+        "chatgpt",
+        "features",
+        "help",
+        "list",
+        "openai",
+        "out",
+        "rolls",
+        "themselves"
+      ]
+    },
+    {
+      "at": "2026-11-11T14:31:42.614484+00:00",
+      "handle": "News: Global AI",
+      "headline": "Cisco adds Anthropic Claude Mythos to AI Defense security platform",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSzVhYldteUltSlBLcUVCRUdlRmR0TlhoRUJrbFNNWTlxV0hoYm1qVmlLM3FLNWlXLUFPWnR4U3JwZEU5eUFZUC1ONWZISk9UUTZVd29Fc3lqblNQbDNVdFhTRC1CQVdTSjIycFM3T0pualZ2OXRzcm1RczZzMEVmSDBFOTJ5Ny1LWVBfZkRYNC1PbzQ2QkNFRlVpU0pnX28wZzdvMTBabU5SM3pBLUdVczUxbU91WnFoN25QeUhxWDNnZHNQV0tEM3RTQWNQZWxqTTlCYTNDZVJCWm1sZXd3eEVQd251aDJMSHVMQVZDQ2ZmbUJQc2JDVGZhLTBpNEdY0gGGAkFVX3lxTE5wVGtLQVBvUi1fenN1WTJHVzcwQnFWcW5fcnNkaXpqaHVmbWNuMmVwWWZaMnF5LVM4dWpPZjM4SjBFeFRKc1QycnFIWjVjdUlFd2x4SnRhQUZmd0xKQlhNOGxPQjB3cTFwQ1hUeE1OSHBrenR4aUsyQ3I4aHh3aEJKcHJSdlVDWGs0WHlybnJKa0NvTEJaOERNd1ZVaXBQZ3JNeUI2Slk1TTBJa282R25Nb0lQLWRzTm9WWXVfVXNvVFA5R29xRkdINTZHZVJHdGF5ZU9tVWM5Vlh4c2ljZmtaTHJNN01VQlJmclJ4Zy1haFhfUE9wbW5zVUhfdDhITVAyRWJyZEE?oc=5",
+      "words": [
+        "adds",
+        "agents",
+        "anthropic",
+        "cisco",
+        "claude",
+        "companies",
+        "defense",
+        "help",
+        "mythos",
+        "test",
+        "their"
+      ]
+    },
+    {
+      "at": "2026-11-11T14:31:42.614484+00:00",
+      "handle": "News: India fintech",
+      "headline": "Pine Labs set to unlock Rs 80-230 cr annual revenue from UPI MDR",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14OFByd005djUxbVpxZkdjRmFNdUNDXzlzdUctWndsajd5blpUSkJIT0V2VURpMzA1ZnU2Tm9zdkszZlZTOEoxVjgwYURSS05TSW5kNVFKN0ExODFIaHY0ZmF6ejRtbEJqQnl6d3Rxc2R6eGYwbkRVdlVCcw?oc=5",
+      "words": [
+        "230",
+        "annual",
+        "labs",
+        "mdr",
+        "pine",
+        "revenue",
+        "unlock",
+        "upi"
       ]
     }
   ],
@@ -17151,17 +17153,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-11T14:19:37.935392+00:00",
-    "pib_mark": 2335187,
+    "last_run": "2026-11-11T14:33:35.418588+00:00",
+    "pib_mark": 2335192,
     "seen": [
-      "gazette:CG-DL-E-17102026-277270",
-      "gazette:CG-DL-E-17102026-277271",
-      "gazette:CG-RJ-E-19102026-277273",
-      "gazette:CG-DL-E-19102026-277274",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-devender-kumar-on-winning-gold-at-the-asian-para-games",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-hokato-hotozhe-sema-on-winning-bronze-at-the-asian-para-games",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-pradeep-kumar-on-winning-bronze-at-the-asian-para-games",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-rakesh-on-winning-silver-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nishad-kumar-on-winning-gold-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-enduring-gratitude-and-benevolence-of-noble-individuals",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tributes-to-brave-police-personnel-on-police-commemoration-day",
@@ -19629,6 +19623,11 @@
       "gazette:CG-DL-E-10112026-277810",
       "gazette:CG-RJ-E-10112026-277809",
       "gazette:CG-MH-E-10112026-277813",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-satyen-bhupendra-dalal-pan-aacpd0426f-in-the-matter-of-veerkrupa-jewellers-limited-under-rc-no-9320-of-2026_105654.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-7694-of-2024-dated-november-06-2026-issued-to-sathish-kumar-n-in-the-matter-of-arvind-remedies-ltd-_105648.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-for-recovery-certificate-no-7694-of-2026-against-sathish-kumar-n-pan-duwps2496m-in-the-matter-of-arvind-remedies-limited_105650.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-natasha-sinha-aaups3146b-in-the-matter-of-mideast-integrated-steel-limited-misl-under-rc-no-9321-of-2026_105656.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-issued-under-rc-no-9319-of-2026-drawn-against-investowryght-research-analytics-private-limited-in-the-matter-of-investowryght-research-analytics-private-limit-_105652.html",
       "gazette:CG-DL-E-10112026-277814",
       "gazette:CG-DL-E-10112026-277815",
       "gazette:CG-DL-E-10112026-277816",
@@ -19644,22 +19643,17 @@
       "gazette:CG-DL-E-10112026-277826",
       "gazette:SG-DL-E-10112026-277825",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1580-2026-issued-against-k-s-chakravarthi-in-the-matter-of-ranklin-solutions-ltd-under-recovery-certificate-no-2826-of-2020-and-2827-of-2020_105659.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-satyen-bhupendra-dalal-pan-aacpd0426f-in-the-matter-of-veerkrupa-jewellers-limited-under-rc-no-9320-of-2026_105654.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-7694-of-2024-dated-november-06-2026-issued-to-sathish-kumar-n-in-the-matter-of-arvind-remedies-ltd-_105648.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-trading-activities-of-certain-client-of-inventure-growth-and-securities-limited-suspected-to-be-front-running-to-the-trades-of-axis-mutual-fund_105664.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-first-overseas-capital-limited-aaacl4737a-in-the-matter-of-veerkrupa-jewellers-limited-under-rc-no-9322-of-2026_105658.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9229-of-2026-dated-29-07-2026-issued-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105669.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7141-of-2026-filed-by-yogesh-hagavane_105660.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7143-of-2026-filed-by-ashok-kumar-saini_105661.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9229-of-2026-drawn-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-se-_105677.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-for-recovery-certificate-no-7694-of-2026-against-sathish-kumar-n-pan-duwps2496m-in-the-matter-of-arvind-remedies-limited_105650.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7145-of-2026-filed-by-vikram-aggarwal_105663.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9230-of-2026-drawn-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrat-_105675.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/commencement-of-sebi-settlement-of-administrative-and-civil-proceedings-regulations-2026_105680.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9230-of-2026-dated-29-07-2026-issued-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited-_105671.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-natasha-sinha-aaups3146b-in-the-matter-of-mideast-integrated-steel-limited-misl-under-rc-no-9321-of-2026_105656.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9267of-2026-dated-29-07-2026-issued-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-servi-_105673.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-issued-under-rc-no-9319-of-2026-drawn-against-investowryght-research-analytics-private-limited-in-the-matter-of-investowryght-research-analytics-private-limit-_105652.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9227-of-2026-against-lataben-narotambhai-rangi-pan-ayrpr7467f-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105668.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7144-of-2026-filed-by-dhanni-devi-panwar_105662.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9267-of-2026-drawn-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-s-_105679.html",
@@ -20153,7 +20147,15 @@
       "pib:2335168",
       "pib:2335187",
       "pib:2335179",
-      "pib:2335182"
+      "pib:2335182",
+      "pib:2335192",
+      "pib:2335191",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9228-of-2026-issued-against-fulabhai-bhitor-pan-dylpb2813q-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105708.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/summary-settlement-order-in-the-matte-of-eight-innovate-fund-ii-scheme-of-eight-innovate-investment-trust-i_103642.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9290-of-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-babulal-khalas-pan-bzvpk9515p-_105712.html",
+      "pib:2335189",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-november-11-2026-issued-under-rc-no-9228-of-2026-drawn-against-fulabhai-bhitor-pan-dylpb2813q-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105706.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-november-11-2026-issued-under-rc-no-9290-of-2026-drawn-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-babulal-khalas-_105710.html"
     ],
     "source_failures": {},
     "sources": [
@@ -20214,14 +20216,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793796338165",
-    "1793796978399",
-    "1793802540553",
-    "1792022400648",
-    "1792069200304",
-    "1793718996085",
-    "1793732160823",
-    "1793742300153",
     "1793757954307",
     "1793769420070",
     "1793772473758",
@@ -24724,7 +24718,6 @@
     "1794395907073",
     "1794397080328",
     "1794403807428",
-    "1794308569233",
     "1794318483402",
     "1794319159778",
     "1794366480694",
@@ -24738,7 +24731,6 @@
     "1794401460619",
     "1794403849765",
     "1794404412428",
-    "1793750400772",
     "1793876569475",
     "1794373212780",
     "1794373241200",
@@ -24749,6 +24741,14 @@
     "1794396934632",
     "1794398171613",
     "1794401748845",
+    "1794308569475",
+    "1794376149892",
+    "1794385575200",
+    "1794389625295",
+    "1794389835095",
+    "1794390245481",
+    "1794392696280",
+    "1794398301428",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25845,6 +25845,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -25949,7 +25950,7 @@
     "1794304504147",
     "1794304800516",
     "1794306365907",
-    "1794308569475",
+    "1794308569233",
     "1794311153063",
     "1794311644863",
     "1794312000113",
@@ -26048,7 +26049,6 @@
     "1794375740819",
     "1794375767828",
     "1794375960167",
-    "1794376149892",
     "1794376737950",
     "1794376832619",
     "1794377447421",
@@ -26079,7 +26079,6 @@
     "1794384752094",
     "1794384847582",
     "1794385073595",
-    "1794385575200",
     "1794385800454",
     "1794385980494",
     "1794386212554",
@@ -26093,10 +26092,8 @@
     "1794388292547",
     "1794389017239",
     "1794389439837",
-    "1794389625295",
-    "1794389835095",
+    "1794390047295",
     "1794390179594",
-    "1794390245481",
     "1794390642681",
     "1794390801908",
     "1794390987071",
@@ -26107,7 +26104,6 @@
     "1794392376774",
     "1794392395352",
     "1794392629898",
-    "1794392696280",
     "1794392820615",
     "1794393193857",
     "1794393220303",
@@ -26132,7 +26128,6 @@
     "1794397793603",
     "1794397980391",
     "1794398220395",
-    "1794398301428",
     "1794398400390",
     "1794398400405",
     "1794398880803",
@@ -26178,8 +26173,15 @@
     "1794404500650",
     "1794404935473",
     "1794405180685",
+    "1794405384705",
     "1794405420097",
     "1794405600473",
+    "1794406010389",
+    "1794406707196",
+    "1794406800225",
+    "1794407048808",
+    "1794407160287",
+    "1794407319428",
     "1794441600464",
     "2331589",
     "2331704",
@@ -26215,8 +26217,8 @@
     "2335141",
     "2335168"
   ],
-  "last_digest_hour": "2026-11-11T19",
-  "last_success": "2026-11-11T14:16:05.271458+00:00",
+  "last_digest_hour": "2026-11-11T20",
+  "last_success": "2026-11-11T14:31:42.676954+00:00",
   "national": {
     "alerted": [
       {
@@ -36366,23 +36368,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-11T14:02:53.923697+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-11T00:32:29.531772+00:00"
     },
-    "last_run": "2026-11-11T14:18:22.638759+00:00",
-    "pib_mark": 2335187,
+    "last_run": "2026-11-11T14:32:48.517910+00:00",
+    "pib_mark": 2335192,
     "seen": [
-      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-teams-win-at-iosco-techsprint-2026-on-investor-education-in-the-age-of-artificial-intelligence-ai-_105266.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/confirmatory-order-in-the-matter-of-rajesh-exports-limited_105261.html",
-      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-s-policytwin-prototype-wins-first-place-at-the-c-dir-global-agentic-regulator-hackathon_105265.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-of-attachment-on-immovable-property-under-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105270.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-capital-stroke-investment-services-pvt-ltd-_105285.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-dated-october-15-2026-for-rc-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105289.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-rc-no-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105287.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1575-2026-issued-against-venkatachari-suresh-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8710-of-2025_105292.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1576-2026-issued-against-r-s-ramani-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8709-of-2025_105290.html",
       "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
       "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
@@ -38789,6 +38782,11 @@
       "gazette:CG-UP-E-10112026-277808",
       "gazette:CG-DL-E-10112026-277810",
       "gazette:CG-MH-E-10112026-277813",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-satyen-bhupendra-dalal-pan-aacpd0426f-in-the-matter-of-veerkrupa-jewellers-limited-under-rc-no-9320-of-2026_105654.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-issued-under-rc-no-9319-of-2026-drawn-against-investowryght-research-analytics-private-limited-in-the-matter-of-investowryght-research-analytics-private-limit-_105652.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-for-recovery-certificate-no-7694-of-2026-against-sathish-kumar-n-pan-duwps2496m-in-the-matter-of-arvind-remedies-limited_105650.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-natasha-sinha-aaups3146b-in-the-matter-of-mideast-integrated-steel-limited-misl-under-rc-no-9321-of-2026_105656.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-7694-of-2024-dated-november-06-2026-issued-to-sathish-kumar-n-in-the-matter-of-arvind-remedies-ltd-_105648.html",
       "npci:629",
       "gazette:CG-DL-E-10112026-277814",
       "gazette:CG-DL-E-10112026-277815",
@@ -38837,21 +38835,16 @@
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7143-of-2026-filed-by-ashok-kumar-saini_105661.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9229-of-2026-dated-29-07-2026-issued-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105669.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9267-of-2026-drawn-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-s-_105679.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-satyen-bhupendra-dalal-pan-aacpd0426f-in-the-matter-of-veerkrupa-jewellers-limited-under-rc-no-9320-of-2026_105654.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-issued-under-rc-no-9319-of-2026-drawn-against-investowryght-research-analytics-private-limited-in-the-matter-of-investowryght-research-analytics-private-limit-_105652.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-for-recovery-certificate-no-7694-of-2026-against-sathish-kumar-n-pan-duwps2496m-in-the-matter-of-arvind-remedies-limited_105650.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7141-of-2026-filed-by-yogesh-hagavane_105660.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9230-of-2026-drawn-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrat-_105675.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9229-of-2026-drawn-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-se-_105677.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7145-of-2026-filed-by-vikram-aggarwal_105663.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9227-of-2026-against-lataben-narotambhai-rangi-pan-ayrpr7467f-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105668.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-first-overseas-capital-limited-aaacl4737a-in-the-matter-of-veerkrupa-jewellers-limited-under-rc-no-9322-of-2026_105658.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-natasha-sinha-aaups3146b-in-the-matter-of-mideast-integrated-steel-limited-misl-under-rc-no-9321-of-2026_105656.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9230-of-2026-dated-29-07-2026-issued-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited-_105671.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1580-2026-issued-against-k-s-chakravarthi-in-the-matter-of-ranklin-solutions-ltd-under-recovery-certificate-no-2826-of-2020-and-2827-of-2020_105659.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/commencement-of-sebi-settlement-of-administrative-and-civil-proceedings-regulations-2026_105680.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9267of-2026-dated-29-07-2026-issued-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-servi-_105673.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-7694-of-2024-dated-november-06-2026-issued-to-sathish-kumar-n-in-the-matter-of-arvind-remedies-ltd-_105648.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7144-of-2026-filed-by-dhanni-devi-panwar_105662.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-trading-activities-of-certain-client-of-inventure-growth-and-securities-limited-suspected-to-be-front-running-to-the-trades-of-axis-mutual-fund_105664.html",
       "page:https://internal.imd.gov.in/press_release/20261001_pr_5366.pdf",
@@ -39374,15 +39367,20 @@
       "pib:2335167",
       "pib:2335187",
       "pib:2335182",
-      "pib:2335179"
+      "pib:2335179",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9290-of-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-babulal-khalas-pan-bzvpk9515p-_105712.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-november-11-2026-issued-under-rc-no-9290-of-2026-drawn-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-babulal-khalas-_105710.html",
+      "pib:2335191",
+      "pib:2335189",
+      "pib:2335192",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9228-of-2026-issued-against-fulabhai-bhitor-pan-dylpb2813q-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105708.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/summary-settlement-order-in-the-matte-of-eight-innovate-fund-ii-scheme-of-eight-innovate-investment-trust-i_103642.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-november-11-2026-issued-under-rc-no-9228-of-2026-drawn-against-fulabhai-bhitor-pan-dylpb2813q-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105706.html"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 2
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39448,44 +39446,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "OpenAI rolls out features for US business listings in ChatGPT",
-      "post": {
-        "created_at": "2026-11-11T13:32:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1794403920508",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "OpenAI rolls out new features to help US businesses list themselves in ChatGPT",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN29ic1pqdld3MkM0UEFzV2U5N1BwRFJDNG5aNk5hVm8wMm9RT1hJSURBZDNOTEFfQ25UT05aS2taY0t6akYtRkxONWZXT3VIZVIyVDlwRjdDa2RpanQ4Z1NCTVM2eEhxdS1ma04wamEtY09kQzBQbUJQeDE5SjlxZ2IwM1JFQ1lDNlRBdTkzNmVydFNETjRGd2VIb2FHaUhjY0x4WW1idVM4UjI5TWdtZjBCSlpFcXk2V19QNnUzQ2FOZnpUdUNYX2ZfZ3c4MWJ5YXNkblZGcGItX0hzQWfSAeQBQVVfeXFMT0RnWVFBVEE2UXBwTmdSY3pOVElwb0FlSnV4WkpQVGVxdGp5U2FkSWRWLW9SZEROUHpMR3B5azVqX1RuZlRlalVnbFlJUk5IQVUyemtMc1BBX2xRanlYT0ZFM1BfOUNGWGRRWDNMYVhPYXFmVjN2Y0JKWDFOckhpWXlsSGNmZ0I5UFhKMXk2dHdTeWYzU1RwcUEtdlhwaGItTllHQUZqdlNvX0tNVWxUa1lkM1FpbWlZQ1BGTEdOQXZhbm9FTjhLNjRxWUd2SFFQX3dCYUNGUDJIYzFvMWNicndObV9W?oc=5"
-      },
-      "queued_at": "2026-11-11T14:01:40.723968+00:00",
-      "score": 7.0,
-      "why": "Major AI company product updates count as wire stories in their own right."
-    },
-    {
-      "headline": "Cisco adds Anthropic Claude Mythos to AI Defense security platform",
-      "post": {
-        "created_at": "2026-11-11T13:53:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1794405180685",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Cisco adds Anthropic\u2019s Claude Mythos to AI Defense to help companies test their AI agents",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSzVhYldteUltSlBLcUVCRUdlRmR0TlhoRUJrbFNNWTlxV0hoYm1qVmlLM3FLNWlXLUFPWnR4U3JwZEU5eUFZUC1ONWZISk9UUTZVd29Fc3lqblNQbDNVdFhTRC1CQVdTSjIycFM3T0pualZ2OXRzcm1RczZzMEVmSDBFOTJ5Ny1LWVBfZkRYNC1PbzQ2QkNFRlVpU0pnX28wZzdvMTBabU5SM3pBLUdVczUxbU91WnFoN25QeUhxWDNnZHNQV0tEM3RTQWNQZWxqTTlCYTNDZVJCWm1sZXd3eEVQd251aDJMSHVMQVZDQ2ZmbUJQc2JDVGZhLTBpNEdY0gGGAkFVX3lxTE5wVGtLQVBvUi1fenN1WTJHVzcwQnFWcW5fcnNkaXpqaHVmbWNuMmVwWWZaMnF5LVM4dWpPZjM4SjBFeFRKc1QycnFIWjVjdUlFd2x4SnRhQUZmd0xKQlhNOGxPQjB3cTFwQ1hUeE1OSHBrenR4aUsyQ3I4aHh3aEJKcHJSdlVDWGs0WHlybnJKa0NvTEJaOERNd1ZVaXBQZ3JNeUI2Slk1TTBJa282R25Nb0lQLWRzTm9WWXVfVXNvVFA5R29xRkdINTZHZVJHdGF5ZU9tVWM5Vlh4c2ljZmtaTHJNN01VQlJmclJ4Zy1haFhfUE9wbW5zVUhfdDhITVAyRWJyZEE?oc=5"
-      },
-      "queued_at": "2026-11-11T14:16:05.216399+00:00",
-      "score": 7.0,
-      "why": "Major product integration involving an AI leader counts as a wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40666,18 +40627,18 @@
     "microsoft india": 1794337593792,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794405420097,
+    "news: big tech platforms": 1794406800225,
     "news: consumer internet india": 1794392395570,
-    "news: global ai": 1794405180685,
-    "news: global chips": 1794404935473,
+    "news: global ai": 1794407319428,
+    "news: global chips": 1794407160287,
     "news: global it services": 1794401072736,
     "news: india ai deeptech": 1794381662407,
     "news: india edtech gaming": 1794384847582,
-    "news: india fintech": 1794404030723,
+    "news: india fintech": 1794405384705,
     "news: india semiconductors": 1794395907260,
     "news: india tech policy": 1794400196983,
     "news: india telecom": 1794392820615,
-    "news: indian it majors": 1794396381025,
+    "news: indian it majors": 1794406010389,
     "news: indian it midcaps": 1794399422282,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1794404255507,
@@ -40708,7 +40669,6 @@
   },
   "source_health": {
     "down": {
-      "REG NPCI": "2026-11-11T14:15:59.971179+00:00",
       "Zinnov": "2026-11-11T10:01:45.000466+00:00"
     }
   },
@@ -40728,7 +40688,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-11T14:16:05.658021+00:00",
+    "last_server_run": "2026-11-11T14:31:43.175908+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-11T14:16:48.416082+00:00",
@@ -52791,20 +52751,77 @@
           "training",
           "vinay"
         ]
+      },
+      {
+        "at": "2026-11-11T14:32:57.082986+00:00",
+        "headline": "Income Tax Department releases direct tax collection data for the financial year.",
+        "url": "https://x.com/IncomeTaxIndia/status/2120521275328356671",
+        "words": [
+          "2026",
+          "available",
+          "been",
+          "collection",
+          "collections",
+          "data",
+          "department",
+          "direct",
+          "documents",
+          "following",
+          "gov",
+          "gross",
+          "guest",
+          "https",
+          "income",
+          "incometaxindia",
+          "link",
+          "national",
+          "net",
+          "refunds",
+          "released",
+          "tax",
+          "website",
+          "www"
+        ]
+      },
+      {
+        "at": "2026-11-11T14:32:57.082986+00:00",
+        "headline": "Cabinet extends Stand-Up India Scheme until March 2031 with a credit guarantee corpus.",
+        "url": "https://x.com/JPNadda/status/2120522093557412195",
+        "words": [
+          "111",
+          "2031",
+          "additional",
+          "aims",
+          "approved",
+          "ble",
+          "cabinet",
+          "chaired",
+          "continuation",
+          "corpus",
+          "credit",
+          "entrepreneurs",
+          "guarantee",
+          "hon",
+          "https",
+          "lakh",
+          "least",
+          "march",
+          "narendramodi",
+          "scheme",
+          "shri",
+          "skf1jhuezj",
+          "stand",
+          "support",
+          "till",
+          "union",
+          "women"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-11T14:19:14.474448+00:00",
+    "last_run": "2026-11-11T14:32:57.083301+00:00",
     "seen": [
-      "x:2117987004189434305",
-      "x:2117987322843271191",
-      "x:2117987326265840024",
-      "x:2117987734552039683",
-      "x:2117987853066273033",
-      "x:2117988545898189311",
-      "x:2117989012233425317",
-      "x:2117989397949977056",
       "x:2117989407630504342",
       "x:2117990228929696218",
       "x:2117990984646832219",
@@ -55796,7 +55813,15 @@
       "x:2120517817145659846",
       "x:2120518461613117643",
       "x:2120518882150748402",
-      "x:2120520071164613119"
+      "x:2120520071164613119",
+      "x:2120520758275588349",
+      "x:2120521092205060283",
+      "x:2120521275328356671",
+      "x:2120521930994286678",
+      "x:2120522093557412195",
+      "x:2120522167003890147",
+      "x:2120523070142390309",
+      "x:2120523534929994021"
     ],
     "source_failures": {},
     "sources": []
