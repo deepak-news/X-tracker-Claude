@@ -1,25 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-30T18:31:28.676842+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Supreme Court directs Centre to curb online misuse of court video feeds",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT24yNDBGTTlMQ3VRQzVlOXA4bGY1Y2FUdi1mRGNnc21nZDJjUnZJdWlCdGpvanFWVGh5Y1ZpQzNiR2l0Vlo3Ulp1SlFsbkk0U1ZKZWNqMTc3V1lXbHBneDM3V01nNnRYZXRzZHU4ZDl3U1oxbmJLLTFtVmR6QmQtdy1iRHFwUmREVFpEcTJxSE42UmtHSF9vZm1SejFFUDJKZGdhbDJTd2p3REZ0Umpoc3RIZGN3bm1IRW9qZXo4aXY1ZVd1bWkwNjluSDlmNmlqNlEtVkJEbDNoSVHSAdsBQVVfeXFMTU9uMjQwRk05TEN1UUM1ZTlwOGxmNWNhVHYtZkRjZ3NtZ2QyY1J2SXVpQnRqb2pxVlRoeWNWaUMzYkdpdFZaN1JadUpRbG5JNFNWSmVjajE3N1dZV2xwZ3gzN1dNZzZ0WGV0c2R1OGQ5d1NaMW5iSy0xbVZkekJkLXctYkRxcFJkRFRaRHEycUhONlJrR0hfb2ZtUnoxRVAySmRnYWwyU3dqd0RGdFJqaHN0SGRjd25tSEVvamV6OGl2NWVXdW1pMDY5bkg5ZjZpajZRLVZCRGwzaElR?oc=5",
-      "words": [
-        "against",
-        "asks",
-        "centre",
-        "court",
-        "feeds",
-        "measures",
-        "misuse",
-        "online",
-        "supreme",
-        "take"
-      ]
-    },
-    {
       "at": "2026-10-30T19:31:24.606747+00:00",
       "handle": "News: India telecom",
       "headline": "Jio Platforms reports Q2 net profit of Rs 8,389 crore",
@@ -7429,50 +7410,26 @@
         "solution",
         "streamline"
       ]
+    },
+    {
+      "at": "2026-11-11T10:31:25.356103+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "TCS secures technology deal for the Rio Marathon",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQllYZ0x6WlVJWi1FMXpVc3JXdWdwRnEtdDBnUzNyZXlobTg3YmMzTUFVZHplQXZTOTBJTnFGUm92VUhQV2RwY0pQekFRNmxGVElEYnA3ZXhwM3ZZR2VuZklwX1NVQ3BuRmxtOUlfLTJldFV0LTFOcXN3MV9tSFQ1UWk3N3hFZmNTMDBxajZBbzFwbjFFTWdZNHZGNjVxWl9QTllzSkhWUE9MT0w4Mkgw0gG2AUFVX3lxTFBYUGlNcUJiWm84RnRDSXFaQWE0cXBya2l6X3RZYWU4aWNreTZNREIwcDlwQjNTZXg3eHFrMHJ0dy1POWhIY3Q3NmZGZGpIQ21KYXIwQ3lYSU5EWXhESzdxdXFLMjlsVmRlVEtTZGxNMWZpMXE5RU5SYkZhUDl4cFhEOF90bkRhWW9NeGRkeno5N2xGa2RwUDBkenNHTWo0YkxqRzVldVBrcVN5LU5HWmtfaEc1bUN3?oc=5",
+      "words": [
+        "bags",
+        "deal",
+        "marathon",
+        "red",
+        "rio",
+        "tcs",
+        "tech"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-10-22T16:19:40.099258+00:00",
-        "handle": "PIB Prime Minister's Office",
-        "headline": "Prime Minister Narendra Modi delivers keynote address at NDTV World Summit",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326985",
-        "words": [
-          "address",
-          "during",
-          "minister",
-          "ndtv",
-          "office",
-          "participation",
-          "prime",
-          "summit",
-          "text",
-          "world"
-        ]
-      },
-      {
-        "at": "2026-10-22T17:49:08.364048+00:00",
-        "handle": "Gazette Indian Nursing Council",
-        "headline": "Indian Nursing Council notifies new residential postgraduate diploma specialty regulations",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277351.pdf",
-        "words": [
-          "act",
-          "conferred",
-          "council",
-          "exercise",
-          "extraordinary",
-          "gazette",
-          "iii",
-          "nursing",
-          "part",
-          "powers",
-          "section",
-          "sub"
-        ]
-      },
       {
         "at": "2026-10-22T18:05:14.701480+00:00",
         "handle": "Gazette Ministry of Commerce and Industry",
@@ -16207,6 +16164,50 @@
           "scheme",
           "stand"
         ]
+      },
+      {
+        "at": "2026-11-11T10:33:27.366799+00:00",
+        "handle": "PIB Ministry of Finance",
+        "headline": "Central Bureau of Narcotics dismantles mephedrone clandestine laboratory in Mau, Uttar Pradesh",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334998",
+        "words": [
+          "bureau",
+          "cbn",
+          "central",
+          "chemicals",
+          "clan",
+          "clandestine",
+          "dismantles",
+          "finance",
+          "lab",
+          "laborat",
+          "laboratory",
+          "mau",
+          "mephedrone",
+          "ministry"
+        ]
+      },
+      {
+        "at": "2026-11-11T10:33:27.366799+00:00",
+        "handle": "MEA press releases",
+        "headline": "India and Moldova hold third round of Foreign Office Consultations in New Delhi",
+        "tier": 1,
+        "url": "https://www.mea.gov.in/press-releases?dtl/41939/3rd_IndiaMoldova_Foreign_Office_Consultations_November_11_2026",
+        "words": [
+          "2026",
+          "3rd",
+          "consultations",
+          "foreign",
+          "mea",
+          "moldova",
+          "november",
+          "office",
+          "press",
+          "releases",
+          "round",
+          "text"
+        ]
       }
     ],
     "gazette_mark": 277827,
@@ -17159,15 +17160,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-11T10:18:20.550254+00:00",
-    "pib_mark": 2334980,
+    "last_run": "2026-11-11T10:33:27.379450+00:00",
+    "pib_mark": 2334998,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-prachi-pandey-on-winning-bronze-at-the-asian-para-games",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-manish-narwal-on-winning-silver-at-the-asian-para-games",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-praveen-sharma-on-winning-bronze-at-the-asian-para-games",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ashok-on-winning-silver-at-the-asian-para-games",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63824",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168629",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/acc_10oct26_519_e.htm",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63825",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-tejalben-damor-on-winning-bronze-at-the-asian-para-games",
@@ -19662,6 +19657,11 @@
       "pib:2334923",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63946",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+IRDAI+16+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%A3+%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%B0+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%97%E0%A4%BE+Press+Release-IRDAI+to+organize+16+Grievance+Redressal+Camps.pdf/0e29a3e6-924e-1b82-f5a6-97ca5bc3b64f",
+      "mea:41906",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-former-president-shri-ram-nath-kovind-and-his-family-conveys-diwali-greetings",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-calls-on-president-and-conveys-diwali-greetings",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-the-people-of-uttarakhand-on-statehood-day",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-virtues-of-impartiality-selflessness-and-justice",
       "gazette:CG-DL-E-10112026-277814",
       "gazette:CG-MH-E-10112026-277813",
       "gazette:CG-DL-E-10112026-277812",
@@ -20040,7 +20040,6 @@
       "mea:41902",
       "mea:41901",
       "mea:41905",
-      "mea:41906",
       "mea:41907",
       "mea:41908",
       "mea:41909",
@@ -20082,10 +20081,6 @@
       "mea:41931",
       "mea:41932",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-interaction-with-the-security-forces-in-bastar-chhattisgarh",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-former-president-shri-ram-nath-kovind-and-his-family-conveys-diwali-greetings",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-calls-on-president-and-conveys-diwali-greetings",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-the-people-of-uttarakhand-on-statehood-day",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-virtues-of-impartiality-selflessness-and-justice",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63947",
       "page:https://internal.imd.gov.in/press_release/20261109_pr_5478.pdf",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63948",
@@ -20161,7 +20156,13 @@
       "watch:meeting:LS|22646",
       "watch:meeting:LS|22644",
       "site:ICC|https://www.icc-cricket.com/media-releases/icc-congratulates-reiffel-for-officiating-in-100-odis",
-      "watch:meeting:LS|22645"
+      "watch:meeting:LS|22645",
+      "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-extension-of-aqua-line-metro-rail-corridor-from-noida-sector-51-to-greater-noida-sector-04-of-route-length-of-8-449-km-with-5-stations",
+      "mea:41939",
+      "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-stand-up-india-scheme",
+      "pib:2334998",
+      "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-credit-guarantee-fund-for-micro-units",
+      "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-nutrient-based-subsidy-nbs-rates-for-rabi-2026-27-from-01-10-2026-to-31-03-2027-on-phosphatic-and-potassic-pk-fertilizers"
     ],
     "source_failures": {},
     "sources": [
@@ -20222,12 +20223,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793751250522",
-    "1793757796014",
-    "1793757801960",
-    "1793759579559",
-    "1793761236234",
-    "1793768211217",
     "1793776297033",
     "1793776549995",
     "1793777799794",
@@ -24513,7 +24508,6 @@
     "1794310811896",
     "1794329053344",
     "1794338692655",
-    "1794340640825",
     "1794340824602",
     "1794341160328",
     "1794343201525",
@@ -24667,7 +24661,6 @@
     "1794383340392",
     "1794384020765",
     "1794321397106",
-    "1794337803305",
     "1794364262982",
     "1794369304394",
     "1794372618441",
@@ -24731,7 +24724,6 @@
     "1793349954270",
     "1793708154642",
     "1793869285215",
-    "1793876569475",
     "1794331268725",
     "1794344932067",
     "1794357025957",
@@ -24747,14 +24739,22 @@
     "1794390208428",
     "1794305045709",
     "1794305683046",
-    "1794362494264",
     "1794372449514",
-    "1794378785277",
     "1794378833880",
-    "1794378891855",
     "1794383100751",
     "1794387742635",
     "1794391056428",
+    "1794306117709",
+    "1794306180498",
+    "1794306600229",
+    "1794308569475",
+    "1794350128295",
+    "1794372140883",
+    "1794373020258",
+    "1794374760886",
+    "1794380205081",
+    "1794386855164",
+    "1794390031635",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25881,6 +25881,7 @@
     "1793865600201",
     "1793865600231",
     "1793869200026",
+    "1793876569475",
     "1793878797622",
     "1793880014180",
     "1793883600845",
@@ -25963,11 +25964,7 @@
     "1794304244837",
     "1794304504147",
     "1794304800516",
-    "1794306117709",
-    "1794306180498",
     "1794306365907",
-    "1794306600229",
-    "1794308569475",
     "1794308962841",
     "1794309747015",
     "1794311153063",
@@ -26030,11 +26027,12 @@
     "1794337200635",
     "1794337593792",
     "1794337620585",
+    "1794337803305",
     "1794340638646",
+    "1794340640825",
     "1794340882304",
     "1794344400175",
     "1794349500601",
-    "1794350128295",
     "1794351396406",
     "1794352294000",
     "1794354300494",
@@ -26050,6 +26048,7 @@
     "1794360480808",
     "1794361607358",
     "1794361996553",
+    "1794362494264",
     "1794362841384",
     "1794364638545",
     "1794364738362",
@@ -26073,12 +26072,10 @@
     "1794371580140",
     "1794371928047",
     "1794372129933",
-    "1794372140883",
     "1794372165369",
     "1794372180419",
     "1794372660563",
     "1794372904310",
-    "1794373020258",
     "1794373153189",
     "1794373222200",
     "1794373378780",
@@ -26088,7 +26085,6 @@
     "1794373952993",
     "1794373980017",
     "1794374027575",
-    "1794374760886",
     "1794374821726",
     "1794374997951",
     "1794375003695",
@@ -26107,16 +26103,17 @@
     "1794378333535",
     "1794378641897",
     "1794378648137",
+    "1794378785277",
     "1794378830911",
     "1794378831540",
     "1794378840674",
+    "1794378891855",
     "1794378911398",
     "1794379089595",
     "1794379192743",
     "1794379260121",
     "1794379724485",
     "1794379740653",
-    "1794380205081",
     "1794380342527",
     "1794380616550",
     "1794380753732",
@@ -26164,7 +26161,6 @@
     "1794386216368",
     "1794386720496",
     "1794386836436",
-    "1794386855164",
     "1794386907098",
     "1794387013063",
     "1794387060049",
@@ -26179,7 +26175,7 @@
     "1794389715698",
     "1794389723764",
     "1794389827095",
-    "1794390031635",
+    "1794390274954",
     "1794390642587",
     "1794390649044",
     "1794390801908",
@@ -26189,6 +26185,11 @@
     "1794391409180",
     "1794391420918",
     "1794391812821",
+    "1794392055449",
+    "1794392376774",
+    "1794392395570",
+    "1794392687428",
+    "1794392696280",
     "1794405600473",
     "1794441600464",
     "2331589",
@@ -26223,33 +26224,10 @@
     "2334888",
     "2334953"
   ],
-  "last_digest_hour": "2026-11-11T15",
-  "last_success": "2026-11-11T10:16:10.136691+00:00",
+  "last_digest_hour": "2026-11-11T16",
+  "last_success": "2026-11-11T10:31:25.428081+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-06T11:36:21.480100+00:00",
-        "handle": "RBI",
-        "headline": "RBI data shows NBFC credit grew by 15.8 percent in August",
-        "tier": 1,
-        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63739",
-        "words": [
-          "2026",
-          "august",
-          "banking",
-          "collected",
-          "companies",
-          "credit",
-          "data",
-          "deployment",
-          "financial",
-          "major",
-          "month",
-          "nbfc",
-          "nbfcs",
-          "non"
-        ]
-      },
       {
         "at": "2026-10-06T13:18:34.402931+00:00",
         "handle": "PIB Ministry of Defence",
@@ -34740,6 +34718,29 @@
           "scheme",
           "stand"
         ]
+      },
+      {
+        "at": "2026-11-11T10:32:55.368444+00:00",
+        "handle": "PIB Ministry of Finance",
+        "headline": "Central Bureau of Narcotics dismantles mephedrone laboratory in Uttar Pradesh and seizes drugs",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334998",
+        "words": [
+          "bureau",
+          "cbn",
+          "central",
+          "chemicals",
+          "clan",
+          "clandestine",
+          "dismantles",
+          "finance",
+          "lab",
+          "laborat",
+          "laboratory",
+          "mau",
+          "mephedrone",
+          "ministry"
+        ]
       }
     ],
     "gazette_mark": 277827,
@@ -36364,21 +36365,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-11T10:17:38.095250+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-11T00:32:29.531772+00:00"
     },
-    "last_run": "2026-11-11T10:17:48.540501+00:00",
-    "pib_mark": 2334980,
+    "last_run": "2026-11-11T10:32:55.370022+00:00",
+    "pib_mark": 2334998,
     "seen": [
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/10/%e0%b0%b9%e0%b0%b0%e0%b1%87%e0%b0%95%e0%b1%83%e0%b0%b7%e0%b1%8d%e0%b0%a3-%e0%b0%ab%e0%b1%8c%e0%b0%82%e0%b0%a1%e0%b1%87%e0%b0%b7%e0%b0%a8%e0%b1%8d-%e0%b0%aa%e0%b1%8d%e0%b0%b0%e0%b0%a4%e0%b0%bf%e0%b0%a8/",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/10/honble-cm-sri-a-revanth-reddy-and-honble-chief-justice-of-telangana-high-court-justice-aparesh-kumar-singh-participate-in-the-south-zone-regional-conference-of-the-national-legal-se/",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ravi-rongali-on-winning-bronze-at-the-asian-para-games",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63832",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168638",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-dilip-gavit-on-winning-gold-at-the-asian-para-games",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/safe_phl_21oct26_520_e.htm",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168640",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168639",
@@ -38812,6 +38806,11 @@
       "pib:2334923",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63946",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+IRDAI+16+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%A3+%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%B0+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%97%E0%A4%BE+Press+Release-IRDAI+to+organize+16+Grievance+Redressal+Camps.pdf/0e29a3e6-924e-1b82-f5a6-97ca5bc3b64f",
+      "mea:41906",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-former-president-shri-ram-nath-kovind-and-his-family-conveys-diwali-greetings",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-calls-on-president-and-conveys-diwali-greetings",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-virtues-of-impartiality-selflessness-and-justice",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-the-people-of-uttarakhand-on-statehood-day",
       "npci:629",
       "gazette:CG-DL-E-10112026-277814",
       "gazette:CG-MH-E-10112026-277813",
@@ -39246,7 +39245,6 @@
       "mea:41901",
       "mea:41902",
       "mea:41905",
-      "mea:41906",
       "mea:41907",
       "mea:41908",
       "mea:41909",
@@ -39292,10 +39290,6 @@
       "page:https://www.cbse.gov.in/cbsenew/documents/Notification_Result_XII_Special Examination_West Asia_06112026.pdf",
       "mea:41932",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-during-interaction-with-the-security-forces-in-bastar-chhattisgarh",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-former-president-shri-ram-nath-kovind-and-his-family-conveys-diwali-greetings",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-calls-on-president-and-conveys-diwali-greetings",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-virtues-of-impartiality-selflessness-and-justice",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-the-people-of-uttarakhand-on-statehood-day",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-government-junior-college-at-doulatabad-kodangal-vikarabad-district/",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63947",
       "page:https://internal.imd.gov.in/press_release/20261109_pr_5478.pdf",
@@ -39372,15 +39366,18 @@
       "watch:meeting:LS|22645",
       "site:ICC|https://www.icc-cricket.com/media-releases/icc-congratulates-reiffel-for-officiating-in-100-odis",
       "watch:meeting:LS|22646",
-      "watch:meeting:LS|22644"
+      "watch:meeting:LS|22644",
+      "pib:2334998",
+      "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-stand-up-india-scheme",
+      "mea:41939",
+      "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-extension-of-aqua-line-metro-rail-corridor-from-noida-sector-51-to-greater-noida-sector-04-of-route-length-of-8-449-km-with-5-stations",
+      "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-credit-guarantee-fund-for-micro-units",
+      "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-nutrient-based-subsidy-nbs-rates-for-rabi-2026-27-from-01-10-2026-to-31-03-2027-on-phosphatic-and-potassic-pk-fertilizers"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39446,26 +39443,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "TCS secures technology deal for the Rio Marathon",
-      "post": {
-        "created_at": "2026-11-11T08:45:20+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1794386720496",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "TCS bags Rio Marathon tech deal; stocks in red",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQllYZ0x6WlVJWi1FMXpVc3JXdWdwRnEtdDBnUzNyZXlobTg3YmMzTUFVZHplQXZTOTBJTnFGUm92VUhQV2RwY0pQekFRNmxGVElEYnA3ZXhwM3ZZR2VuZklwX1NVQ3BuRmxtOUlfLTJldFV0LTFOcXN3MV9tSFQ1UWk3N3hFZmNTMDBxajZBbzFwbjFFTWdZNHZGNjVxWl9QTllzSkhWUE9MT0w4Mkgw0gG2AUFVX3lxTFBYUGlNcUJiWm84RnRDSXFaQWE0cXBya2l6X3RZYWU4aWNreTZNREIwcDlwQjNTZXg3eHFrMHJ0dy1POWhIY3Q3NmZGZGpIQ21KYXIwQ3lYSU5EWXhESzdxdXFLMjlsVmRlVEtTZGxNMWZpMXE5RU5SYkZhUDl4cFhEOF90bkRhWW9NeGRkeno5N2xGa2RwUDBkenNHTWo0YkxqRzVldVBrcVN5LU5HWmtfaEc1bUN3?oc=5"
-      },
-      "queued_at": "2026-11-11T09:46:47.834126+00:00",
-      "score": 7.0,
-      "why": "A contract win by an Indian IT major is a core news item for the IT beat."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40644,8 +40622,8 @@
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
     "news: big tech platforms": 1794391812821,
-    "news: consumer internet india": 1794386836436,
-    "news: global ai": 1794391420918,
+    "news: consumer internet india": 1794392395570,
+    "news: global ai": 1794392687428,
     "news: global chips": 1794391409180,
     "news: global it services": 1794384869736,
     "news: india ai deeptech": 1794381662407,
@@ -40654,10 +40632,10 @@
     "news: india semiconductors": 1794365325235,
     "news: india tech policy": 1794385073595,
     "news: india telecom": 1794384446943,
-    "news: indian it majors": 1794386720496,
+    "news: indian it majors": 1794392395570,
     "news: indian it midcaps": 1794376832619,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794390649044,
+    "news: tech leaders": 1794392696280,
     "nvidia": 1794366020384,
     "nvidia blog": 1794366020384,
     "openai": 1794441600464,
@@ -40709,7 +40687,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-11T10:16:10.630006+00:00",
+    "last_server_run": "2026-11-11T10:31:25.815797+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -52382,15 +52360,69 @@
           "yugeen",
           "yybm"
         ]
+      },
+      {
+        "at": "2026-11-11T10:33:11.713302+00:00",
+        "headline": "Cabinet approves extension of Noida-Greater Noida metro rail corridor",
+        "url": "https://x.com/PIB_India/status/2120461271292362789",
+        "words": [
+          "449",
+          "approves",
+          "aqua",
+          "bzsmzeddcd",
+          "cabinet",
+          "city",
+          "corridor",
+          "elevated",
+          "extension",
+          "greater",
+          "https",
+          "length",
+          "line",
+          "metro",
+          "noida",
+          "operationalization",
+          "project",
+          "rail",
+          "sector",
+          "stations"
+        ]
+      },
+      {
+        "at": "2026-11-11T10:33:11.713302+00:00",
+        "headline": "Cabinet approves fertilizer subsidy rates for Rabi season",
+        "url": "https://x.com/PIB_India/status/2120462371940663642",
+        "words": [
+          "2026",
+          "2027",
+          "370",
+          "4bpfwa5jmx",
+          "approves",
+          "approximately",
+          "availability",
+          "based",
+          "benefits",
+          "budgetary",
+          "cabinet",
+          "fertilizers",
+          "https",
+          "nbs",
+          "nutrient",
+          "phosphatic",
+          "potassic",
+          "rabi",
+          "rates",
+          "requirement",
+          "subsidy",
+          "tentative",
+          "would"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-11T10:18:00.119372+00:00",
+    "last_run": "2026-11-11T10:33:11.713590+00:00",
     "seen": [
-      "x:2117926721441903078",
-      "x:2117927337375211586",
-      "x:2117927556255306036",
       "x:2117927713914982447",
       "x:2117927882488168459",
       "x:2117924822978335096",
@@ -55387,7 +55419,10 @@
       "x:2120459015742538188",
       "x:2120459111087349795",
       "x:2120459295053758711",
-      "x:2120459809581572303"
+      "x:2120459809581572303",
+      "x:2120460133641879801",
+      "x:2120461271292362789",
+      "x:2120462371940663642"
     ],
     "source_failures": {},
     "sources": []
