@@ -1,46 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-10-30T17:01:44.532093+00:00",
-      "handle": "Google",
-      "headline": "Google runs first AI inference on orbital TPU using Gemma 4",
-      "tier": 1,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
-      "words": [
-        "article",
-        "explaining",
-        "first",
-        "generated",
-        "haiku",
-        "our",
-        "project",
-        "prototype",
-        "reacting",
-        "received",
-        "response",
-        "satellite",
-        "showing",
-        "suncatcher"
-      ]
-    },
-    {
-      "at": "2026-10-30T17:31:21.456873+00:00",
-      "handle": "News: India telecom",
-      "headline": "Reliance Q2 net profit jumps 41% on refining and Jio",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3F1YnFaLTBTLUs5bS1sUk1jVE9lYlFqS2ZQZDJibUpxbC1fSW5udUpITDFnUVhsWU5BekF4UUtjNm0za1VkeTZFSGstZGd1bnZ3cXZIdTZmeG5Ob0l3WFdWZm1zYy14Zy1PdkdSM29MZ29Qa0d6MUNBXzh3ME5fRG1ZNldhbGJxcjNfZDc5bzhOUFJQV2dHLW00X0pNUkw5UUlwZ3BhNjJ3THdYZllWbTB6SlM?oc=5",
-      "words": [
-        "ambani",
-        "jio",
-        "jumps",
-        "owned",
-        "profit",
-        "refining",
-        "reliance",
-        "strength"
-      ]
-    },
-    {
       "at": "2026-10-30T17:31:21.456873+00:00",
       "handle": "News: India telecom",
       "headline": "Reliance posts record Q2 profit and revenue driven by Jio",
@@ -7421,33 +7381,45 @@
         "show",
         "university"
       ]
+    },
+    {
+      "at": "2026-11-11T07:31:25.454528+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta partners with Google Cloud to add AI models",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSkJ0VHcxd3REUGYxXzhMbGhYYkxzaTNac0hsalQteWF5dUFaRjhKX291d2JHdWJoYXYyckVGbWs1TElVYUxsVUtHTHJpa0dHMGg2VnVjbnFwV3dnZkxxWUQ5b1gxUzFEWVFfcUU3OC1WS3hiay1WNFdPNlZneC1rV3hUbUt3X0tjZG9MZjY1MGlZMktrQXlCbUJvVWdWTXM0aFoxOGJROEdfN3h2Y3FFbTFKTVJFdU5HUWtjektR0gHLAUFVX3lxTE5PSUZ2aGIxY2RmQlZ2cXUzWlNmZko1bzZuLUI3MVlVUjlLMDJVTWMzakNqM3hidXJ1MlF6LVhTYmtReDhRbnlPcGQzd0E4VE1SeEhfcG44eW53RkJGNjg0LVc4V2xJSTU4VHJlLVBvVHZza0dFaDJqUmh3aVR4NGJwbm5kZURhWjdNNW9IZmtWSDVuTXhPbkJkdDc1RFphOXBaV0ZDOTUtNUtZV3RMbmhHSF90dG50Z1NYcTRhZ2RBTDZVejdLNTRKZS13?oc=5",
+      "words": [
+        "adds",
+        "cloud",
+        "garden",
+        "google",
+        "meta",
+        "model",
+        "models",
+        "takes",
+        "three"
+      ]
+    },
+    {
+      "at": "2026-11-11T07:31:25.454528+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI launches Business Hub with company profiles and analytics",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTkluOTlMQ2w1VWszLXBpSkN4dFZEc2pQcU5YTlIyT2NINkVWYm8xSV9RYUZmLUliYlcxS0x1bXFhR3oyaU0taDU0Zm5WM0c1NHdvVDhfY1BNeVF1SVFHT0NKNG9UQWVBTTlaVjllMmhKRGdtZE9WdTRwR093MXNuV3BVQ2d3N3c0X0FLaXBDM2RtRU8tNmtkbVVtRDJSSFh3QUYxZ0tyT2hzRlV1andpZGdzNXdLS29TeGVST3ZtT01vYjk5OWFDUmRjcVY0NnBIY0JvOdIB2gFBVV95cUxOSEtVUWFQRjlJMFB6c2N6b2o2d1RudkRDLUNiSkZNbXNnMkZZZTVDM1lTZ0pNWU4zUzBaVU5NU2xwYnViaVlTYWV0YzJfSm5YQ2NRWmJ1a0xRU0t2Q1VfVFRfeUxEWWNmYktxZzBHeXZVeVAweVFoZ0RTSTBqMktTTTJBSm5XMHQ5T1ZOT0NSQUs2Q3Jsb25TQ3c2M2g3QlhPTTMwcjJBZTZtSFJ3bEhBbUgwN3JfM191SVN1dE9qN2xkdTNpZ1Vzd2hsQjhkcGYyZXA3UEFLb3lpdw?oc=5",
+      "words": [
+        "analytics",
+        "business",
+        "chatgpt",
+        "company",
+        "hub",
+        "launches",
+        "openai",
+        "profiles"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-10-22T13:19:27.195099+00:00",
-        "handle": "PMO",
-        "headline": "Prime Minister Modi discusses West Asian developments with Israeli counterpart Benjamin Netanyahu",
-        "tier": 1,
-        "url": "https://www.pmindia.gov.in/en/news_updates/pm-receives-a-telephone-call-from-prime-minister-netanyahu",
-        "words": [
-          "article",
-          "both",
-          "call",
-          "commitment",
-          "further",
-          "leaders",
-          "minister",
-          "netanyahu",
-          "pmo",
-          "prime",
-          "published",
-          "reaffirm",
-          "receives",
-          "strength"
-        ]
-      },
       {
         "at": "2026-10-22T15:10:24.909871+00:00",
         "handle": "MEA press releases",
@@ -16217,6 +16189,28 @@
           "strengthen",
           "welfare"
         ]
+      },
+      {
+        "at": "2026-11-11T07:33:28.588526+00:00",
+        "handle": "PIB Ministry of Culture",
+        "headline": "Government plans major Yuge Yugeen Bharat Museum development at North and South Block",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334923",
+        "words": [
+          "bharat",
+          "block",
+          "complex",
+          "culture",
+          "delhi",
+          "development",
+          "ministry",
+          "museum",
+          "north",
+          "south",
+          "yuge",
+          "yugeen",
+          "yybm"
+        ]
       }
     ],
     "gazette_mark": 277827,
@@ -17169,12 +17163,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-11T07:17:34.003453+00:00",
-    "pib_mark": 2334910,
+    "last_run": "2026-11-11T07:33:28.589883+00:00",
+    "pib_mark": 2334923,
     "seen": [
-      "pib:2325519",
-      "pib:2325517",
-      "pib:2325520",
       "pib:2325526",
       "pib:2325573",
       "pib:2325589",
@@ -19692,6 +19683,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63944",
       "dgft-notification:8fdc092d-832f-42d3-b9cd-be0106c20224",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%92%e0%b0%95%e0%b0%b5%e0%b1%88%e0%b0%aa%e0%b1%81-%e0%b0%a6%e0%b1%80%e0%b0%aa%e0%b0%be%e0%b0%b5%e0%b0%b3%e0%b0%bf-%e0%b0%aa%e0%b0%b0%e0%b1%8d%e0%b0%b5%e0%b0%a6%e0%b0%bf%e0%b0%a8%e0%b0%82/",
+      "page:https://internal.imd.gov.in/press_release/20260930_pr_5363.pdf",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63945",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-government-junior-college-at-doulatabad-kodangal-vikarabad-district/",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1580-2026-issued-against-k-s-chakravarthi-in-the-matter-of-ranklin-solutions-ltd-under-recovery-certificate-no-2826-of-2020-and-2827-of-2020_105659.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-satyen-bhupendra-dalal-pan-aacpd0426f-in-the-matter-of-veerkrupa-jewellers-limited-under-rc-no-9320-of-2026_105654.html",
@@ -19724,7 +19717,6 @@
       "page:https://internal.imd.gov.in/press_release/20261010_pr_5392.pdf",
       "page:https://internal.imd.gov.in/press_release/20261002_pr_5369.pdf",
       "page:https://internal.imd.gov.in/press_release/20261006_pr_5383.pdf",
-      "page:https://internal.imd.gov.in/press_release/20260930_pr_5363.pdf",
       "page:https://internal.imd.gov.in/press_release/20261001_pr_5366.pdf",
       "page:https://internal.imd.gov.in/press_release/20261008_pr_5387.pdf",
       "page:https://internal.imd.gov.in/press_release/20261011_pr_5394.pdf",
@@ -20098,7 +20090,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-calls-on-president-and-conveys-diwali-greetings",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-the-people-of-uttarakhand-on-statehood-day",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-virtues-of-impartiality-selflessness-and-justice",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63945",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63947",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63946",
       "page:https://internal.imd.gov.in/press_release/20261109_pr_5478.pdf",
@@ -20171,7 +20162,10 @@
       "watch:meeting:LS|22643",
       "dgft-notification:58145d8f-19de-4e3a-b7ba-95fdb2ed5ea4",
       "pib:2334910",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-valedictory-ceremony-of-the-second-batch-of-deputy-superintendent-of-police-dsp-2025-at-dr-mcr-hrd-institute-hyd/"
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-valedictory-ceremony-of-the-second-batch-of-deputy-superintendent-of-police-dsp-2025-at-dr-mcr-hrd-institute-hyd/",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63955",
+      "page:https://internal.imd.gov.in/press_release/20261111_pr_5481.pdf",
+      "pib:2334923"
     ],
     "source_failures": {},
     "sources": [
@@ -20232,16 +20226,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793759251539",
-    "1793764786064",
-    "1793770873807",
-    "1793695807814",
-    "1793696284790",
-    "1793701980763",
-    "1793725531164",
-    "1793730642455",
-    "1793760183767",
-    "1793760454170",
     "1793760910521",
     "1793767850418",
     "1793772737533",
@@ -24667,7 +24651,6 @@
     "1794309747794",
     "1794344560898",
     "1794355366662",
-    "1794358620791",
     "1794360741352",
     "1794366048404",
     "1794366780853",
@@ -24681,7 +24664,6 @@
     "1794341280694",
     "1794347677703",
     "1794351873406",
-    "1794361607358",
     "1794361841013",
     "1794362513304",
     "1794363153169",
@@ -24733,7 +24715,6 @@
     "1794362718796",
     "1794369414429",
     "1794371705276",
-    "1794371940399",
     "1788363000105",
     "1794268800212",
     "1794293613793",
@@ -24744,12 +24725,10 @@
     "1794363273312",
     "1794364200049",
     "1794368682678",
-    "1794373622299",
     "1794374997951",
     "1794375683635",
     "1794375725828",
     "1794378641994",
-    "1793750400772",
     "1794220677938",
     "1794220956700",
     "1794290252814",
@@ -24761,6 +24740,16 @@
     "1794373378780",
     "1794376647563",
     "1794378446529",
+    "1794312377582",
+    "1794339397007",
+    "1794349986791",
+    "1794351060831",
+    "1794365668495",
+    "1794366055464",
+    "1794373031652",
+    "1794373228358",
+    "1794374340799",
+    "1794380980635",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25872,6 +25861,7 @@
     "1793750400038",
     "1793750400397",
     "1793750400637",
+    "1793750400772",
     "1793772554134",
     "1793772873639",
     "1793773424758",
@@ -26004,7 +25994,6 @@
     "1794312000114",
     "1794312000472",
     "1794312148900",
-    "1794312377582",
     "1794313054408",
     "1794313059821",
     "1794313061129",
@@ -26067,7 +26056,6 @@
     "1794337593792",
     "1794337620585",
     "1794338368022",
-    "1794339397007",
     "1794340638646",
     "1794340882304",
     "1794344400175",
@@ -26076,8 +26064,6 @@
     "1794346740584",
     "1794349500601",
     "1794349948698",
-    "1794349986791",
-    "1794351060831",
     "1794351396406",
     "1794352294000",
     "1794354300494",
@@ -26086,10 +26072,12 @@
     "1794355920065",
     "1794357025957",
     "1794357038319",
+    "1794358620791",
     "1794359640973",
     "1794360360848",
     "1794360480808",
     "1794361486423",
+    "1794361607358",
     "1794361996553",
     "1794362494264",
     "1794362841384",
@@ -26104,10 +26092,8 @@
     "1794365158479",
     "1794365417671",
     "1794365540189",
-    "1794365668495",
     "1794365900048",
     "1794366020384",
-    "1794366055464",
     "1794366100615",
     "1794366155213",
     "1794366332264",
@@ -26133,6 +26119,7 @@
     "1794371616847",
     "1794371709826",
     "1794371928047",
+    "1794371940399",
     "1794371976039",
     "1794372129933",
     "1794372140883",
@@ -26140,15 +26127,15 @@
     "1794372180419",
     "1794372449514",
     "1794372618441",
+    "1794372697908",
     "1794372708793",
     "1794372904310",
-    "1794373031652",
     "1794373153189",
     "1794373167154",
     "1794373212780",
     "1794373222200",
-    "1794373228358",
     "1794373610692",
+    "1794373622299",
     "1794373775058",
     "1794373805994",
     "1794373906577",
@@ -26157,7 +26144,6 @@
     "1794373980017",
     "1794374027575",
     "1794374225824",
-    "1794374340799",
     "1794374370191",
     "1794374821726",
     "1794374940951",
@@ -26171,6 +26157,7 @@
     "1794376042198",
     "1794376091316",
     "1794376149892",
+    "1794376260406",
     "1794376600981",
     "1794376832619",
     "1794377095616",
@@ -26178,6 +26165,7 @@
     "1794377288041",
     "1794377447421",
     "1794377534688",
+    "1794377580751",
     "1794377991976",
     "1794378333535",
     "1794378641897",
@@ -26192,13 +26180,19 @@
     "1794379260121",
     "1794379724485",
     "1794379740653",
+    "1794379832180",
     "1794380205081",
     "1794380616550",
     "1794380753732",
     "1794380757442",
     "1794380760848",
     "1794380870920",
-    "1794380980635",
+    "1794380894114",
+    "1794381240264",
+    "1794381363208",
+    "1794381393795",
+    "1794381999058",
+    "1794382042635",
     "1794384000574",
     "1794405600473",
     "1794441600464",
@@ -26233,8 +26227,8 @@
     "2334716",
     "2334888"
   ],
-  "last_digest_hour": "2026-11-11T12",
-  "last_success": "2026-11-11T07:16:07.748557+00:00",
+  "last_digest_hour": "2026-11-11T13",
+  "last_success": "2026-11-11T07:31:25.541662+00:00",
   "national": {
     "alerted": [
       {
@@ -36380,12 +36374,9 @@
       },
       "warned": "2026-11-11T00:32:29.531772+00:00"
     },
-    "last_run": "2026-11-11T07:17:16.559978+00:00",
-    "pib_mark": 2334910,
+    "last_run": "2026-11-11T07:33:02.795418+00:00",
+    "pib_mark": 2334923,
     "seen": [
-      "pib:2326148",
-      "pib:2326152",
-      "pib:2326161",
       "pib:2326163",
       "pib:2326165",
       "pib:2326184",
@@ -38842,6 +38833,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63944",
       "dgft-notification:8fdc092d-832f-42d3-b9cd-be0106c20224",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%92%e0%b0%95%e0%b0%b5%e0%b1%88%e0%b0%aa%e0%b1%81-%e0%b0%a6%e0%b1%80%e0%b0%aa%e0%b0%be%e0%b0%b5%e0%b0%b3%e0%b0%bf-%e0%b0%aa%e0%b0%b0%e0%b1%8d%e0%b0%b5%e0%b0%a6%e0%b0%bf%e0%b0%a8%e0%b0%82/",
+      "page:https://internal.imd.gov.in/press_release/20260930_pr_5363.pdf",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63945",
       "npci:629",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
@@ -38895,7 +38888,6 @@
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-7694-of-2024-dated-november-06-2026-issued-to-sathish-kumar-n-in-the-matter-of-arvind-remedies-ltd-_105648.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7144-of-2026-filed-by-dhanni-devi-panwar_105662.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-trading-activities-of-certain-client-of-inventure-growth-and-securities-limited-suspected-to-be-front-running-to-the-trades-of-axis-mutual-fund_105664.html",
-      "page:https://internal.imd.gov.in/press_release/20260930_pr_5363.pdf",
       "page:https://internal.imd.gov.in/press_release/20261001_pr_5366.pdf",
       "page:https://internal.imd.gov.in/press_release/20261001_pr_5368.pdf",
       "page:https://internal.imd.gov.in/press_release/20261002_pr_5369.pdf",
@@ -39308,7 +39300,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-calls-on-president-and-conveys-diwali-greetings",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-virtues-of-impartiality-selflessness-and-justice",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-the-people-of-uttarakhand-on-statehood-day",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63945",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-government-junior-college-at-doulatabad-kodangal-vikarabad-district/",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63946",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63947",
@@ -39382,7 +39373,10 @@
       "pib:2334910",
       "dgft-notification:58145d8f-19de-4e3a-b7ba-95fdb2ed5ea4",
       "watch:meeting:LS|22643",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-valedictory-ceremony-of-the-second-batch-of-deputy-superintendent-of-police-dsp-2025-at-dr-mcr-hrd-institute-hyd/"
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-valedictory-ceremony-of-the-second-batch-of-deputy-superintendent-of-police-dsp-2025-at-dr-mcr-hrd-institute-hyd/",
+      "pib:2334923",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63955",
+      "page:https://internal.imd.gov.in/press_release/20261111_pr_5481.pdf"
     ],
     "source_failures": {
       "CBI": {
@@ -39453,26 +39447,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Meta partners with Google Cloud to add AI models",
-      "post": {
-        "created_at": "2026-11-11T06:38:09+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1794379089595",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Fortune India",
-        "reposts": 0,
-        "text": "Meta takes its AI models to Google Cloud, adds three models to Model Garden",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSkJ0VHcxd3REUGYxXzhMbGhYYkxzaTNac0hsalQteWF5dUFaRjhKX291d2JHdWJoYXYyckVGbWs1TElVYUxsVUtHTHJpa0dHMGg2VnVjbnFwV3dnZkxxWUQ5b1gxUzFEWVFfcUU3OC1WS3hiay1WNFdPNlZneC1rV3hUbUt3X0tjZG9MZjY1MGlZMktrQXlCbUJvVWdWTXM0aFoxOGJROEdfN3h2Y3FFbTFKTVJFdU5HUWtjektR0gHLAUFVX3lxTE5PSUZ2aGIxY2RmQlZ2cXUzWlNmZko1bzZuLUI3MVlVUjlLMDJVTWMzakNqM3hidXJ1MlF6LVhTYmtReDhRbnlPcGQzd0E4VE1SeEhfcG44eW53RkJGNjg0LVc4V2xJSTU4VHJlLVBvVHZza0dFaDJqUmh3aVR4NGJwbm5kZURhWjdNNW9IZmtWSDVuTXhPbkJkdDc1RFphOXBaV0ZDOTUtNUtZV3RMbmhHSF90dG50Z1NYcTRhZ2RBTDZVejdLNTRKZS13?oc=5"
-      },
-      "queued_at": "2026-11-11T06:46:00.927334+00:00",
-      "score": 7.0,
-      "why": "This is a significant platform and infrastructure partnership involving major AI labs."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40651,10 +40626,10 @@
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
     "news: big tech platforms": 1794380870920,
-    "news: consumer internet india": 1794375740819,
-    "news: global ai": 1794379740653,
-    "news: global chips": 1794380980635,
-    "news: global it services": 1794357038319,
+    "news: consumer internet india": 1794380894114,
+    "news: global ai": 1794381363208,
+    "news: global chips": 1794382042635,
+    "news: global it services": 1794381393795,
     "news: india ai deeptech": 1794364200049,
     "news: india edtech gaming": 1794328227404,
     "news: india fintech": 1794375725832,
@@ -40664,7 +40639,7 @@
     "news: indian it majors": 1794375740819,
     "news: indian it midcaps": 1794376832619,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794380980635,
+    "news: tech leaders": 1794382042635,
     "nvidia": 1794366020384,
     "nvidia blog": 1794366020384,
     "openai": 1794441600464,
@@ -40691,9 +40666,7 @@
     "zoho": 1794301671766
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-11T07:15:57.228605+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40716,7 +40689,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-11T07:16:08.143803+00:00",
+    "last_server_run": "2026-11-11T07:31:26.032275+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-08T05:32:17.872397+00:00",
@@ -52294,18 +52267,22 @@
           "watch",
           "your"
         ]
+      },
+      {
+        "at": "2026-11-11T07:33:11.949131+00:00",
+        "headline": "Mother Dairy hikes milk prices by up to four rupees per litre in Delhi NCR",
+        "url": "https://x.com/INCIndia/status/2120415655472320575",
+        "words": [
+          "https",
+          "ncr",
+          "qihizkehzc"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-11T07:17:25.723888+00:00",
+    "last_run": "2026-11-11T07:33:11.949380+00:00",
     "seen": [
-      "x:2117905002798944690",
-      "x:2117868188633649388",
-      "x:2117903026229035065",
-      "x:2117904917813686699",
-      "x:2117905506446835952",
-      "x:2117905708163252491",
       "x:2117905834055516202",
       "x:2117905896500347202",
       "x:2117905924925075835",
@@ -55299,7 +55276,13 @@
       "x:2120412410389701014",
       "x:2120412606200778813",
       "x:2120412862074204653",
-      "x:2120412865001820227"
+      "x:2120412865001820227",
+      "x:2120415579513524423",
+      "x:2120415655472320575",
+      "x:2120416864912490506",
+      "x:2120417357709341148",
+      "x:2120417459010257329",
+      "x:2120417798417719356"
     ],
     "source_failures": {},
     "sources": []
