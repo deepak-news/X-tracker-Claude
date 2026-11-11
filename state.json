@@ -7435,28 +7435,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-10-23T11:48:24.632393+00:00",
-        "handle": "Gazette Ministry of Road Transport and Highways",
-        "headline": "Government constitutes National Road Safety Council to advise on road safety",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277361.pdf",
-        "words": [
-          "constitution",
-          "council",
-          "extraordinary",
-          "gazette",
-          "highways",
-          "ministry",
-          "national",
-          "part",
-          "road",
-          "safety",
-          "section",
-          "sub",
-          "transport"
-        ]
-      },
-      {
         "at": "2026-10-23T12:04:21.019065+00:00",
         "handle": "CERT-In",
         "headline": "CERT-In issues security advisory over compromised LiteLLM PyPI package and Docker images",
@@ -16204,6 +16182,29 @@
           "section",
           "sub"
         ]
+      },
+      {
+        "at": "2026-11-11T17:48:20.308673+00:00",
+        "handle": "UN News",
+        "headline": "UN chief Ant\u00f3nio Guterres urges fossil fuel tax for climate justice at COP31.",
+        "tier": 1,
+        "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
+        "words": [
+          "agreement",
+          "ant",
+          "bake",
+          "called",
+          "chief",
+          "climate",
+          "cop31",
+          "gather",
+          "global",
+          "guterres",
+          "justice",
+          "leaders",
+          "make",
+          "news"
+        ]
       }
     ],
     "gazette_mark": 277846,
@@ -17170,11 +17171,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-11T17:34:16.029949+00:00",
+    "last_run": "2026-11-11T17:48:20.311775+00:00",
     "pib_mark": 2335224,
     "seen": [
-      "pib:2325772",
-      "pib:2325768",
       "pib:2325820",
       "pib:2325852",
       "pib:2325853",
@@ -19627,10 +19626,10 @@
       "gazette:CG-DL-E-10112026-277817",
       "gazette:CG-DL-E-10112026-277819",
       "gazette:CG-OR-E-10112026-277818",
-      "gazette:CG-DL-E-10112026-277822",
-      "gazette:CG-DL-E-10112026-277823",
       "gazette:CG-DL-E-10112026-277821",
       "gazette:CG-DL-E-10112026-277820",
+      "gazette:CG-DL-E-10112026-277822",
+      "gazette:CG-DL-E-10112026-277823",
       "gazette:CG-DL-E-10112026-277827",
       "gazette:SG-DL-E-10112026-277824",
       "gazette:CG-DL-E-10112026-277826",
@@ -20172,7 +20171,9 @@
       "gazette:CG-DL-E-11112026-277846",
       "gazette:CG-DL-E-11112026-277845",
       "gazette:CG-DL-E-11112026-277843",
-      "gazette:CG-DL-E-11112026-277844"
+      "gazette:CG-DL-E-11112026-277844",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168783",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168784"
     ],
     "source_failures": {},
     "sources": [
@@ -20233,13 +20234,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793273580029",
-    "1793762795305",
-    "1793788860186",
-    "1793791872515",
-    "1793808394855",
-    "1793106000812",
-    "1793782680482",
     "1793802618192",
     "1793803888481",
     "1793812425067",
@@ -24726,8 +24720,6 @@
     "1793898000023",
     "1793898000038",
     "1793908800780",
-    "1794308569233",
-    "1794381240264",
     "1794397316593",
     "1794404500880",
     "1794412885428",
@@ -24756,9 +24748,20 @@
     "1794383081660",
     "1794386907098",
     "1794394819270",
-    "1794395907260",
     "1794409647041",
     "1794413859164",
+    "1794308569475",
+    "1794337803305",
+    "1794358920304",
+    "1794367140787",
+    "1794373222200",
+    "1794385800454",
+    "1794394140184",
+    "1794394261719",
+    "1794395907073",
+    "1794408300781",
+    "1794413074393",
+    "1794413849428",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25968,7 +25971,7 @@
     "1794304504147",
     "1794304800516",
     "1794306365907",
-    "1794308569475",
+    "1794308569233",
     "1794311153063",
     "1794311644863",
     "1794312000113",
@@ -26015,7 +26018,6 @@
     "1794337200635",
     "1794337593792",
     "1794337620585",
-    "1794337803305",
     "1794340638646",
     "1794340882304",
     "1794344400175",
@@ -26024,7 +26026,6 @@
     "1794351396406",
     "1794356891957",
     "1794357038496",
-    "1794358920304",
     "1794359640973",
     "1794360664024",
     "1794361607358",
@@ -26037,7 +26038,6 @@
     "1794366020384",
     "1794366360685",
     "1794367140394",
-    "1794367140787",
     "1794367560666",
     "1794371040912",
     "1794371928047",
@@ -26045,7 +26045,6 @@
     "1794372660563",
     "1794372778358",
     "1794373212780",
-    "1794373222200",
     "1794373622299",
     "1794373775058",
     "1794373980017",
@@ -26063,6 +26062,7 @@
     "1794380757442",
     "1794380760848",
     "1794380894114",
+    "1794381240264",
     "1794381393795",
     "1794381567441",
     "1794381662043",
@@ -26076,7 +26076,6 @@
     "1794384752094",
     "1794384847582",
     "1794385073595",
-    "1794385800454",
     "1794385980494",
     "1794386212554",
     "1794386720496",
@@ -26097,12 +26096,10 @@
     "1794393935159",
     "1794394031359",
     "1794394121597",
-    "1794394140184",
-    "1794394261719",
     "1794395123015",
     "1794395164778",
     "1794395497278",
-    "1794395907073",
+    "1794395907260",
     "1794396381025",
     "1794396481798",
     "1794397793603",
@@ -26117,6 +26114,7 @@
     "1794399955261",
     "1794400064898",
     "1794400196983",
+    "1794400200590",
     "1794400200919",
     "1794400214998",
     "1794401090878",
@@ -26152,7 +26150,6 @@
     "1794407972243",
     "1794408102890",
     "1794408191698",
-    "1794408300781",
     "1794408467910",
     "1794408493871",
     "1794408646167",
@@ -26184,21 +26181,25 @@
     "1794412930981",
     "1794413035240",
     "1794413050478",
-    "1794413074393",
     "1794413368849",
     "1794413684690",
     "1794413685986",
     "1794413767613",
-    "1794413849428",
     "1794414420600",
     "1794414739110",
     "1794415574229",
     "1794415672393",
+    "1794415688082",
     "1794416400080",
     "1794416400116",
     "1794416400198",
     "1794416400922",
+    "1794416401290",
     "1794416898837",
+    "1794417240544",
+    "1794417829273",
+    "1794418344556",
+    "1794418804428",
     "1794441600464",
     "2331589",
     "2331704",
@@ -26235,7 +26236,7 @@
     "2335168"
   ],
   "last_digest_hour": "2026-11-11T23",
-  "last_success": "2026-11-11T17:31:21.969782+00:00",
+  "last_success": "2026-11-11T17:46:24.623484+00:00",
   "national": {
     "alerted": [
       {
@@ -36393,17 +36394,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-11T17:33:17.297193+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-11T00:32:29.531772+00:00"
     },
-    "last_run": "2026-11-11T17:33:40.542420+00:00",
+    "last_run": "2026-11-11T17:47:19.580303+00:00",
     "pib_mark": 2335224,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-pramod-bhagat-and-manisha-ramadass-on-winning-bronze-at-the-asian-para-games",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-bhavina-patel-and-shubham-wadhwa-on-winning-bronze-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-sanjana-kumari-on-winning-bronze-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-suvarna-raj-on-her-magnificent-victory-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-receives-a-telephone-call-from-prime-minister-netanyahu",
@@ -38775,7 +38773,6 @@
       "gazette:SG-DL-E-09112026-277800",
       "gazette:CG-DL-E-10112026-277801",
       "gazette:CG-DL-E-10112026-277749",
-      "npci:629",
       "site:ICC|https://www.icc-cricket.com/media-releases/icc-board-and-committee-meetings-begin-in-bali",
       "gazette:CG-DL-E-10112026-277802",
       "gazette:CG-DL-E-10112026-277803",
@@ -38795,10 +38792,11 @@
       "gazette:CG-DL-E-10112026-277819",
       "gazette:CG-DL-E-10112026-277817",
       "gazette:CG-OR-E-10112026-277818",
-      "gazette:CG-DL-E-10112026-277823",
-      "gazette:CG-DL-E-10112026-277822",
       "gazette:CG-DL-E-10112026-277820",
       "gazette:CG-DL-E-10112026-277821",
+      "npci:629",
+      "gazette:CG-DL-E-10112026-277823",
+      "gazette:CG-DL-E-10112026-277822",
       "gazette:CG-DL-E-10112026-277826",
       "gazette:SG-DL-E-10112026-277824",
       "gazette:CG-DL-E-10112026-277827",
@@ -39401,15 +39399,14 @@
       "gazette:CG-DL-E-11112026-277846",
       "gazette:CG-DL-E-11112026-277845",
       "gazette:CG-DL-E-11112026-277843",
-      "gazette:CG-DL-E-11112026-277844"
+      "gazette:CG-DL-E-11112026-277844",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168783",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168784"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39475,7 +39472,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "US Senator calls for Nvidia CEO Jensen Huang to resign",
+      "post": {
+        "created_at": "2026-11-11T16:48:08+00:00",
+        "handle": "News: Tech leaders",
+        "id": "1794415688082",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "CNBC",
+        "reposts": 0,
+        "text": "Senate Republican calls for Jensen Huang to resign from Nvidia amid spy scandal",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmZUVnlLRGRSRXJyZ0tGTWlEZTVTM3BwSHV0YnVrNkhqbUdnRXhQYk5JbWc1MEZJYkdkTm9fTXp4eU5sam1xbDZwVDkyV2lkMW9xajBlSUJIWU5XUGxWWEUzcThWQ19aS0RKNHVzMm5BcFRzLXNVbnpxX3JRNm9HMTFaY2xKTnBCWVBNVXBuZkYwZFVWcWRfbmFKQjJ5RXBsOXhwNURJeTk4aWdiOTRQelpJWC1nRGJqTDJINDV1cw?oc=5"
+      },
+      "queued_at": "2026-11-11T17:46:24.563274+00:00",
+      "score": 7.0,
+      "why": "This is a significant development in the ongoing national security investigation involving a major global chip company."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40658,8 +40674,8 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1794413050478,
     "news: consumer internet india": 1794410837819,
-    "news: global ai": 1794416898837,
-    "news: global chips": 1794415574229,
+    "news: global ai": 1794418804428,
+    "news: global chips": 1794418344556,
     "news: global it services": 1794411873736,
     "news: india ai deeptech": 1794410610535,
     "news: india edtech gaming": 1794384847582,
@@ -40670,7 +40686,7 @@
     "news: indian it majors": 1794406010389,
     "news: indian it midcaps": 1794399422282,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794415672393,
+    "news: tech leaders": 1794418344556,
     "nvidia": 1794366020384,
     "nvidia blog": 1794366020384,
     "openai": 1794441600464,
@@ -40715,7 +40731,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-11T17:31:22.336470+00:00",
+    "last_server_run": "2026-11-11T17:46:25.068265+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-11T16:19:14.692946+00:00",
@@ -52919,12 +52935,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-11T17:33:47.104594+00:00",
+    "last_run": "2026-11-11T17:47:39.180436+00:00",
     "seen": [
-      "x:2118031416026104140",
-      "x:2118033267152830943",
-      "x:2118035367744118894",
-      "x:2118039247055978633",
       "x:2118056084846022740",
       "x:2118069457444827503",
       "x:2118112753483481486",
@@ -55920,7 +55932,11 @@
       "x:2120563436434358382",
       "x:2120566293409808437",
       "x:2120566734486987061",
-      "x:2120569302814498833"
+      "x:2120569302814498833",
+      "x:2120570901104369899",
+      "x:2120571509437841917",
+      "x:2120571577154887753",
+      "x:2120571987487777126"
     ],
     "source_failures": {},
     "sources": []
