@@ -1,55 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-01T05:31:17.398479+00:00",
-      "handle": "News: Global AI",
-      "headline": "DeepSeek launches enhanced coding agent to compete with Anthropic.",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGJoZUdrNzFHTjRVcm9OOVZ5a1Z4dVB4ME1aNjlmYmdjX1ZOTXNWTFJTNFFFUkQ2UUxxTGV4UDlOS0RjMnRlWlFUZ04yemVtQU9zU3FZbHlWY1YxMi1YSVBGb3k5cGszYnptNnZVZk1mR1NmS0RvLUhOeS1QUmxZamtoNGgzR21CR2tmY0JUd1c3YXBBMlc0SDhkZm9kOFRtZ3NvQ2RLNVZOYnFaV2x5Vy1ra3ZNUQ?oc=5",
-      "words": [
-        "agent",
-        "aim",
-        "anthropic",
-        "coding",
-        "deepseek",
-        "drops",
-        "enhanced",
-        "rival"
-      ]
-    },
-    {
-      "at": "2026-11-01T07:31:13.171656+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Tech Mahindra focuses on aggressive growth following margin expansion",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ1hoaVZQTmtOZTZSRjdpSE1jamtidVYtTXNLeUIwLU5qMXQzWmhSakJwUFNGSnZmRXkxNU92VURVb3hTVU0xektBemxjS3J1QzJWZ09uaEVVLXlfYzZvbF9zTTlRekV1NUFaT0NySnZmclFSUDUwc1ZvYWdkM09WVzFyc0ZKVlpLTy0wM0trWkhUR0lRRXlFNFQ3eGVsY1A4NVBVcU84ZHBVWXZsZWpyTDBKNzZMVE5jWGVjUGhpVEdlTDDSAcgBQVVfeXFMTWc0amMyZlRieHY5SjRTeXdOeFdKYy0ycmh0T2FBUmNJZDBkeGFCRG4tdGhKY0d5WnpLQUNwQzI5Tm5FNjdQVmYyV0FUbDVmaERnUm8xVUxJdFVmZVlWR0dJeEx6WUVhalRIMW1PdXl0YUU1eHdvbk53VXlaQXQ0cU93YjB2LTJHYnpfMkRCaHEzeWhBMnJQRmQwakozTWl2VVBHeFdYanNPSkpuUklxSF9WZTZ2WmZHaWt5S2p4dXBJWV9lazhBVUE?oc=5",
-      "words": [
-        "blitz",
-        "boom",
-        "growth",
-        "mahindra",
-        "margin",
-        "prioritises",
-        "tech"
-      ]
-    },
-    {
-      "at": "2026-11-01T07:31:13.171656+00:00",
-      "handle": "News: India fintech",
-      "headline": "Festive spending drives record UPI transaction volumes in October",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcE1ZNkpOSllwVVd3SFNyTDR3SEdkUXk3UjRmTXdacWFyTm1UcVJwX3piVEYzVDFlSjE4UGxpelBEYTVvcWdTSl9YOHQyOFJRZ0J3X0ZVZVRRNUNuWU81cWlOT19GZUM1cmZVNjFscnU3TEtHY3JQVHQyUVRPMFRTeHFmOHFxWWFFZVVqLXNoMTRrTGJFemRqaHdISkM4N3BSX3dmQ1U4Yk80RVZ2REZkZkNTcTNCSHFibkhEWHBXX3RyWDFoRlZR0gHMAUFVX3lxTFBSM19WbWFqX2RFZUpiejhCTHU3M1JCODMyWnFWdlpXMmFSX2FtTmRETklZTGZoSUYyT0RwVFo5QzVzcjNzdWlReHQzN0NHQ2RiMGo2dC1zYm13YndhRHZBbi14NG9PS21zS0tYN2V2WHJ3Zkctb3RENEFOMWR2Vjc4WHZ5dzhob0h4amFSZ2lLaEJDWk1fOVdJN2dFRlNmNFVHT1FRbHJHOXBDM3B1OWk0R3ZWbWg3dEt3RFliaFlLN1ptYVY3OEotbUtIRQ?oc=5",
-      "words": [
-        "drives",
-        "festive",
-        "october",
-        "record",
-        "spending",
-        "transactions",
-        "upi"
-      ]
-    },
-    {
       "at": "2026-11-01T11:31:14.325974+00:00",
       "handle": "News: India telecom",
       "headline": "Jio delays tariff hikes and targets overseas partnerships",
@@ -7420,32 +7371,74 @@
         "orders",
         "secures"
       ]
+    },
+    {
+      "at": "2026-11-12T07:31:39.003577+00:00",
+      "handle": "PIB Science and Technology",
+      "headline": "TDB-DST signs agreement with Astrome for Rs 64.05 crore RDI support",
+      "tier": 1,
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335322",
+      "words": [
+        "agreement",
+        "astrome",
+        "based",
+        "constellation",
+        "develop",
+        "dst",
+        "elint",
+        "rdi",
+        "signs",
+        "sovereign",
+        "space",
+        "support",
+        "tdb"
+      ]
+    },
+    {
+      "at": "2026-11-12T07:31:40.085927+00:00",
+      "handle": "News: India fintech",
+      "headline": "NPCI notifies UPI Vyapaar Saksham scheme funded from UPI MDR",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeWROOWZheW81QjE3cGtydGg5OW9TUXphdTRzM3g5c1B1cm5IaUdpQ2FXNzV0LVNCM2E4R0QteVlPV3ZCdHVzYk5GMGtMeVdaQllIX3Bvbnh2ejdvTnp2ZVdGZnF3b3VxQ3YwdnNwNEl3OGp1Y3hTdmthdjdlajczVW10N0lkV184bUZDYmIzS19rdjI4TnozcV94TWdUM2poUURSM0RoX3NiNW5SR0pXR3dIYkRlSExvenJZWldkRUhaZ0p5THpNeVFZX1NPR1dVbzJwQUFSNUNOcW5XRXpYbTJuSDJxeVA4LUVJ0gHwAUFVX3lxTFBjT25LQ2JZaHRxS0lMRThRYjNqcFl6WENCVUpOOTd6U0JGU1d0V2tnOEVqTU9OQzV4Zmh3YUE4dTF4WG50ZjRsTmdMUnFpX1dNUXF5VGs2RXlhcmxTSnVJZHR0dzBJZHpVNGJLNGRIeDVqYURXZVIwZmxOU1Nxd24yYXpESC05RDV5RFpoaF83OEY4N3BfdXlsLUtjRXVVaFVQZUhWb3ZDYXFuQkI1OEotUm8xQ3N1RTRqR0JLRG16QVdvalMySzdZeWFTMy1VcEFUSHFnU2lvQ1hKeFF0VkxtRzRNeEstQ3UtSDh0SF9NSg?oc=5",
+      "words": [
+        "acceptance",
+        "funded",
+        "mdr",
+        "merchant",
+        "notifies",
+        "npci",
+        "push",
+        "saksham",
+        "scheme",
+        "small",
+        "upi",
+        "vyapaar"
+      ]
+    },
+    {
+      "at": "2026-11-12T07:31:40.085927+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta plans major India payments push under Kunal Shah",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRVplVjVDYWVHaC1aU0hnaHFibWdscTRvV2tJWU1CN1A3R2p1TEFybWdwMEN1SjVaQTI5cUE0bC1QRGVMVFBLY3ctSGNsbS1rX3BZWjYybjZKYXcyMDdoMVM5dklobUZpbDVwSzM1eG1CVGJlbGstNTFvMTk1QkZxUWdBMnU2bTRJa2stTkkwTVlPTVdoODR1U3htNUttMzd4VGpqVWhZNlNvbkRhLXFjdXJtVk5ZZVN6b1J6bVF0alRTSDNoRTFfemNKbVRyQW1yQjJlaFFuV19GR2hjaEdvcUt4QWZpVFFsNDBKbTVpNDZIWklm0gH6AUFVX3lxTE1iNHktaFl2N3hHYzRxdEhMTVBiVzhBZTNxQ25nc1ZUa2JwT0pUWGpFT3lWTmNrS0RIYlFMa2h6RXMtOVBvUXBTX0RNMXFJWVZsc3BId1pWTTlmZG53V2dzYU9SeHNMYlZpbHZHOGpXQkxiaFZsNE1Ra28wNUJsaXRTd3JHNnZRRkpZMmFuWFpCSlJ4VlFBUXZ2WVFBUnRRckozUTQ2cTV6RHVtMW5jMmFXaVZOQnh0SWRFNkJiX2hDcXRYc24wNTNoVjFpX1VMUkpIc0Q3TVNIREhlaGwzeXZ2eE9NbUtPWVEzSDRsUzhtZUVUUm9zZzgwS1E?oc=5",
+      "words": [
+        "arun",
+        "country",
+        "head",
+        "kunal",
+        "meta",
+        "payments",
+        "plans",
+        "push",
+        "serious",
+        "shah",
+        "srinivas",
+        "under"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-10-23T12:04:21.019065+00:00",
-        "handle": "CERT-In",
-        "headline": "CERT-In issues security advisory over compromised LiteLLM PyPI package and Docker images",
-        "tier": 1,
-        "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2026-0053",
-        "words": [
-          "0053",
-          "2026",
-          "advisory",
-          "cert",
-          "ciad",
-          "compromise",
-          "docker",
-          "images",
-          "litellm",
-          "october",
-          "package",
-          "pypi",
-          "security"
-        ]
-      },
       {
         "at": "2026-10-23T13:17:43.076832+00:00",
         "handle": "PIB Ministry of Chemicals and Fertilizers - Department of Pharmaceuticals",
@@ -16195,6 +16188,29 @@
           "make",
           "news"
         ]
+      },
+      {
+        "at": "2026-11-12T07:34:25.629836+00:00",
+        "handle": "PIB Ministry of Science & Technology",
+        "headline": "TDB and DST sign 64.05 crore rupee agreement to support Astrome space AI project",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335322",
+        "words": [
+          "agreement",
+          "astrome",
+          "based",
+          "constellation",
+          "develop",
+          "dst",
+          "elint",
+          "ministry",
+          "rdi",
+          "science",
+          "signs",
+          "sovereign",
+          "space",
+          "support"
+        ]
       }
     ],
     "gazette_mark": 277846,
@@ -17159,15 +17175,11 @@
       "CG-DL-E-11112026-277844"
     ],
     "health": {
-      "down": {
-        "Gazette of India (Extraordinary)": "2026-11-12T06:53:12.102979+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-12T07:22:43.672317+00:00",
-    "pib_mark": 2335313,
+    "last_run": "2026-11-12T07:34:25.631153+00:00",
+    "pib_mark": 2335323,
     "seen": [
-      "pib:2326033",
-      "pib:2326032",
       "pib:2326038",
       "pib:2326043",
       "pib:2326056",
@@ -20165,14 +20177,11 @@
       "pib:2335306",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63963",
       "pib:2335304",
-      "pib:2335313"
+      "pib:2335313",
+      "pib:2335322",
+      "pib:2335323"
     ],
-    "source_failures": {
-      "Gazette of India (Extraordinary)": {
-        "count": 3,
-        "until": "2026-11-12T13:20:33.840971+00:00"
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20231,19 +20240,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793800456807",
-    "1793800765739",
-    "1793858648800",
-    "1793862060065",
-    "1793868692143",
-    "1793874600432",
-    "1793885654436",
-    "1793885898114",
-    "1792579517584",
-    "1793801030581",
-    "1793801400592",
-    "1793821500656",
-    "1793822492927",
     "1793826366973",
     "1793857843861",
     "1793873936533",
@@ -24584,7 +24580,6 @@
     "1794433391384",
     "1794436990418",
     "1794444832677",
-    "1794445336330",
     "1794447288562",
     "1794449619363",
     "1794450780648",
@@ -24690,7 +24685,6 @@
     "1794459534229",
     "1794459661207",
     "1794459825510",
-    "1794463887446",
     "1793387231720",
     "1793644362641",
     "1793720811440",
@@ -24702,7 +24696,6 @@
     "1794428789247",
     "1794429120265",
     "1794435082666",
-    "1794441900808",
     "1794451263716",
     "1794451920340",
     "1794458140576",
@@ -24716,10 +24709,28 @@
     "1794455476233",
     "1794456922102",
     "1794457372688",
-    "1794460914753",
-    "1794461380527",
     "1794461820273",
     "1794462780312",
+    "1794381393795",
+    "1794381567441",
+    "1794381662407",
+    "1794412811471",
+    "1794444254907",
+    "1794445200330",
+    "1794447720992",
+    "1794448665191",
+    "1794448860696",
+    "1794459600167",
+    "1794460800725",
+    "1794460914592",
+    "1794461380878",
+    "1794462768047",
+    "1794463887809",
+    "1794464250295",
+    "1794466200573",
+    "1794466268042",
+    "1794466348308",
+    "1794466799025",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25970,9 +25981,6 @@
     "1794380753732",
     "1794380757442",
     "1794380760848",
-    "1794381393795",
-    "1794381567441",
-    "1794381662407",
     "1794383404764",
     "1794384000574",
     "1794384263238",
@@ -26017,7 +26025,6 @@
     "1794411741341",
     "1794412800342",
     "1794412800395",
-    "1794412811471",
     "1794413368849",
     "1794414078981",
     "1794414526910",
@@ -26053,15 +26060,15 @@
     "1794441196381",
     "1794441360749",
     "1794441600464",
+    "1794441900808",
     "1794442323781",
     "1794442620630",
     "1794443400056",
     "1794443400507",
     "1794444191470",
-    "1794444254907",
     "1794444300677",
     "1794445140850",
-    "1794445200330",
+    "1794445336330",
     "1794446134532",
     "1794446195352",
     "1794446400751",
@@ -26071,12 +26078,10 @@
     "1794447050976",
     "1794447236494",
     "1794447316154",
-    "1794447720992",
+    "1794447720235",
     "1794448380126",
     "1794448585414",
-    "1794448665191",
     "1794448672782",
-    "1794448860696",
     "1794448920161",
     "1794448980489",
     "1794449005975",
@@ -26132,7 +26137,6 @@
     "1794459022390",
     "1794459224691",
     "1794459505437",
-    "1794459600167",
     "1794459600684",
     "1794459622207",
     "1794459800847",
@@ -26140,9 +26144,8 @@
     "1794459960837",
     "1794460163316",
     "1794460182140",
-    "1794460800725",
-    "1794460914592",
-    "1794461380878",
+    "1794460914753",
+    "1794461380527",
     "1794461451726",
     "1794461460019",
     "1794461531236",
@@ -26151,8 +26154,8 @@
     "1794462037416",
     "1794462146683",
     "1794462337459",
+    "1794462620273",
     "1794462727041",
-    "1794462768047",
     "1794463080508",
     "1794463200567",
     "1794463224733",
@@ -26161,18 +26164,19 @@
     "1794463709153",
     "1794463740211",
     "1794463831073",
-    "1794463887809",
+    "1794463887446",
     "1794463904312",
     "1794464102089",
-    "1794464250295",
     "1794464280398",
     "1794464282961",
     "1794464406656",
+    "1794464460093",
     "1794464460240",
     "1794464460345",
     "1794464559609",
     "1794464636567",
     "1794464760662",
+    "1794464762968",
     "1794464787469",
     "1794464896248",
     "1794465044926",
@@ -26183,17 +26187,20 @@
     "1794465881699",
     "1794465903497",
     "1794465960573",
-    "1794466200573",
-    "1794466268042",
-    "1794466348308",
+    "1794466268246",
+    "1794466340308",
     "1794466500737",
     "1794466583733",
     "1794466650161",
     "1794466655092",
-    "1794466799025",
+    "1794466799561",
+    "1794466833377",
     "1794467181140",
     "1794467215570",
+    "1794467313843",
     "1794467439249",
+    "1794467460856",
+    "1794467863010",
     "1794470400044",
     "1794481002855",
     "1794483625260",
@@ -26230,10 +26237,12 @@
     "2334888",
     "2334953",
     "2335141",
-    "2335168"
+    "2335168",
+    "2335322",
+    "2335323"
   ],
-  "last_digest_hour": "2026-11-12T12",
-  "last_success": "2026-11-12T07:16:37.663004+00:00",
+  "last_digest_hour": "2026-11-12T13",
+  "last_success": "2026-11-12T07:31:40.145780+00:00",
   "national": {
     "alerted": [
       {
@@ -36391,17 +36400,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "Gazette of India (Extraordinary)": "2026-11-12T06:51:12.592645+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-12T00:46:35.307706+00:00"
     },
-    "last_run": "2026-11-12T07:20:25.264848+00:00",
-    "pib_mark": 2335313,
+    "last_run": "2026-11-12T07:33:49.873421+00:00",
+    "pib_mark": 2335323,
     "seen": [
-      "site:ECI|eci:18821",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-manisha-ramadass-on-winning-bronze-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-kapil-kumar-on-winning-silver-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-varun-singh-bhati-on-winning-silver-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-anjanaben-on-winning-gold-at-the-asian-para-games",
@@ -39399,16 +39405,14 @@
       "pib:2335304",
       "pib:2335306",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63963",
-      "pib:2335313"
+      "pib:2335313",
+      "pib:2335323",
+      "pib:2335322"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "Gazette of India (Extraordinary)": {
-        "count": 3,
-        "until": "2026-11-12T13:18:42.269046+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39474,26 +39478,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Meta plans major India payments push under Kunal Shah",
-      "post": {
-        "created_at": "2026-11-12T06:30:44+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1794465044926",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Meta plans serious India payments push under Kunal Shah, says country head Arun Srinivas",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRVplVjVDYWVHaC1aU0hnaHFibWdscTRvV2tJWU1CN1A3R2p1TEFybWdwMEN1SjVaQTI5cUE0bC1QRGVMVFBLY3ctSGNsbS1rX3BZWjYybjZKYXcyMDdoMVM5dklobUZpbDVwSzM1eG1CVGJlbGstNTFvMTk1QkZxUWdBMnU2bTRJa2stTkkwTVlPTVdoODR1U3htNUttMzd4VGpqVWhZNlNvbkRhLXFjdXJtVk5ZZVN6b1J6bVF0alRTSDNoRTFfemNKbVRyQW1yQjJlaFFuV19GR2hjaEdvcUt4QWZpVFFsNDBKbTVpNDZIWklm0gH6AUFVX3lxTE1iNHktaFl2N3hHYzRxdEhMTVBiVzhBZTNxQ25nc1ZUa2JwT0pUWGpFT3lWTmNrS0RIYlFMa2h6RXMtOVBvUXBTX0RNMXFJWVZsc3BId1pWTTlmZG53V2dzYU9SeHNMYlZpbHZHOGpXQkxiaFZsNE1Ra28wNUJsaXRTd3JHNnZRRkpZMmFuWFpCSlJ4VlFBUXZ2WVFBUnRRckozUTQ2cTV6RHVtMW5jMmFXaVZOQnh0SWRFNkJiX2hDcXRYc24wNTNoVjFpX1VMUkpIc0Q3TVNIREhlaGwzeXZ2eE9NbUtPWVEzSDRsUzhtZUVUUm9zZzgwS1E?oc=5"
-      },
-      "queued_at": "2026-11-12T06:46:06.128002+00:00",
-      "score": 7.0,
-      "why": "Country head statements on major strategic payments expansion represent a new policy and market move."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40675,19 +40660,19 @@
     "microsoft india": 1794453440706,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794466655092,
+    "news: big tech platforms": 1794467460856,
     "news: consumer internet india": 1794467215570,
-    "news: global ai": 1794466799025,
+    "news: global ai": 1794466799561,
     "news: global chips": 1794466500737,
     "news: global it services": 1794438875736,
     "news: india ai deeptech": 1794461531236,
     "news: india edtech gaming": 1794384847992,
-    "news: india fintech": 1794464787469,
+    "news: india fintech": 1794467313843,
     "news: india semiconductors": 1794457281184,
     "news: india tech policy": 1794464896248,
     "news: india telecom": 1794462037416,
     "news: indian it majors": 1794464559609,
-    "news: indian it midcaps": 1794437268637,
+    "news: indian it midcaps": 1794467863010,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1794467439249,
     "nvidia": 1794366020384,
@@ -40697,7 +40682,7 @@
     "phonepe": 1793171753713,
     "pib communications": 2335168,
     "pib meity": 2333716,
-    "pib science and technology": 2334953,
+    "pib science and technology": 2335323,
     "razorpay": 1794308569475,
     "redseer": 1793964668123,
     "reg cci": 1795996800387,
@@ -40716,19 +40701,11 @@
     "zoho": 1794484711441
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-12T07:01:26.583693+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
-      "down": {
-        "e-Gazette - Home, Finance, Defence, Law, I&B": "2026-11-12T06:34:33.513625+00:00",
-        "e-Gazette - Law ministry": "2026-11-12T06:34:33.513625+00:00",
-        "e-Gazette - MHA and Finance": "2026-11-12T06:34:33.513625+00:00",
-        "e-Gazette - MHA extraordinary": "2026-11-12T06:34:33.513625+00:00",
-        "e-Gazette - MeitY": "2026-11-12T06:34:33.513625+00:00"
-      }
+      "down": {}
     },
     "introduced": [
       "DoPT EO - appointments and extensions (30 days)",
@@ -40742,7 +40719,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-12T07:16:38.182683+00:00",
+    "last_server_run": "2026-11-12T07:31:40.599516+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-12T05:47:19.338687+00:00",
@@ -53053,17 +53030,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-12T07:20:33.230467+00:00",
+    "last_run": "2026-11-12T07:34:11.866741+00:00",
     "seen": [
-      "x:2118242890832871433",
-      "x:2118244559922807256",
-      "x:2118244942946693324",
-      "x:2118245018662302056",
-      "x:2118245681945358741",
-      "x:2118245929727967629",
-      "x:2118245947503444409",
-      "x:2118247347201425709",
-      "x:2118248804164198411",
       "x:2118233472833847485",
       "x:2118249158461251802",
       "x:2118249483939242278",
@@ -56054,7 +56022,16 @@
       "x:2120776952659452129",
       "x:2120777061564637480",
       "x:2120777200869998938",
-      "x:2120778035339346030"
+      "x:2120778035339346030",
+      "x:2120778978189553912",
+      "x:2120779295010574555",
+      "x:2120779323775012938",
+      "x:2120779431220560277",
+      "x:2120779529560174610",
+      "x:2120779976580743647",
+      "x:2120780491007852929",
+      "x:2120781026956108159",
+      "x:2120781543585030183"
     ],
     "source_failures": {},
     "sources": []
