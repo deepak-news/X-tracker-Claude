@@ -1,48 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-01T13:31:15.932539+00:00",
-      "handle": "News: India fintech",
-      "headline": "Delhi Police rescue kidnapped teen within three hours using UPI trail",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQ242MUM5WVFndWlRdjBhZXVXVFBPbHphb1ljY1d0RlR1Q1c4QzhBaGhKcU1vSXlCQmp0a0w5T0R6cHJ4Y3RsWEtNdjBmOUdCQ2NOMUxxVXFlZHpLNEtJMnl2SFRRTzROVk5DZng0QUVqd1ZnZWFOSEJKZm1aLUx0c3d4Y29zSEI3a1dhT0t4a0dLMWxSSnJTM2ljQkVsRUpESmVJYWE5YWRGMUh1bjRFWllveHo3TThQS0NtQllSTmZwQmpBVHp0ajZNaWlxQmtnS1NhbTl6cHZsN3lsdS1BUEk0aFNKeDhobW9veHRB0gHzAUFVX3lxTE1JRVdaYkZkTFUzYzNoMi0xVFZPMEVMbnRzTkM5eEpNcGdfWEdzS0VRb0poWTVRSWY3VFRicFhsdmFrZkd0SzdzYU1oS0w2QjBsWDFlbmhkV1cta1hURW9IbDVhOWlCQ1ZFLU53OXhzdHU0SDRfb1RpQ2V4c0Q0aG5BOEZsaDk5SE9FbUFrcG5wU3MtdFNIQS0tV2VFRjY5QjRoWXZ6MmliOEc5VW11QkFaR2d2SjFkTHN6ZGtVTkwyLW0xYllHVlhRbk1QVjNZbklTdTY5Y2lsbVhHTVkzVnBWUkR4LXB1cGxCZlBVOVpTZ19jZw?oc=5",
-      "words": [
-        "000",
-        "cctv",
-        "cybercafe",
-        "delhi",
-        "help",
-        "hours",
-        "old",
-        "police",
-        "rescue",
-        "trail",
-        "upi",
-        "within",
-        "year"
-      ]
-    },
-    {
-      "at": "2026-11-01T15:31:27.819904+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic restricts Claude usage for reverse-engineering video games",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSXBhOXIzTkpXLXkxRWVPdVNVMTNYWUN1aDgyWkhzajJnLXdUUGRlQ3pQZ2ZNZS1YOWpJUzVrclZJRzY0RGhIR01ZYW9ycm9CUkxDTTNUODFfZlZoUVVHSnNmV1lBZnZjcTVJRjFiVTg0LVh3dmlHWjd6OEJfWFBkZWtNNEhRWmxWcENoajUxaEhITlA0NGhvNDZSVWNZV1RVVzBDOWJ4S0pUcFJJUGYtR0o1YVpWOW5LbFU5WFVROVdoVHRZbVVEa1JQejZhQQ?oc=5",
-      "words": [
-        "anthropic",
-        "claude",
-        "engineering",
-        "games",
-        "including",
-        "rea",
-        "restricts",
-        "reverse",
-        "through",
-        "tool",
-        "use"
-      ]
-    },
-    {
       "at": "2026-11-01T15:31:27.819904+00:00",
       "handle": "News: India AI deeptech",
       "headline": "Apax co-CEO plans faster investments targeting India's AI strengths",
@@ -7440,6 +7398,43 @@
         "related",
         "study",
         "upwork"
+      ]
+    },
+    {
+      "at": "2026-11-12T09:31:14.211599+00:00",
+      "handle": "News: Global chips",
+      "headline": "Investors worry Jensen Huang's exit could weaken Nvidia's AI investment push",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSW51dnpFRy1RYXFPTG92eDY0VXY3Qmpic21WT0NpNlcxa0J0RWY0VDM1ckktQ2EtRFEyZGp0SElaYlNmSEVrLUhnUzRNenNKaVlXWE9YSktQdEl6QTRpM3NvSDRfbzJ2N0ZMQTFlUXhQUmpQbG5VNjY2NXlpdmVLZDExbXhWLVVuSFJoVEYzZGw2dXgwUURkaXViVzVRV29jb3drUGhJNE01ZkdiYkxkejNkWDAyd1FlM3NvU2kwaXoxa2R40gHKAUFVX3lxTE5UNjg2YTJRTEFzYVFCYzc5U2ZFRmVhSXJpa1prWVo2SFZYdkFnbmZJVUhGbmRMY2djUE1vNHRaOUwyQTdzcXlwMlZVQWFJVjhYNTdJcXVlOXFoTmJkN3g3Q2VPaUlXOWZKTGFIcEFHcWw2TFE4cFhQWEg2SlhkeXlLUlNQaEJRbFllSjNEX3FmU00yMlV5MGV0NFR4ek5xV2E4bDF6QmEwUklhaFdud1k4ZXhybVVIM2dGRnNlQWx5U094U0dxT2xJX2c?oc=5",
+      "words": [
+        "could",
+        "exit",
+        "huang",
+        "investment",
+        "investors",
+        "jensen",
+        "nvidia",
+        "push",
+        "weaken",
+        "worry"
+      ]
+    },
+    {
+      "at": "2026-11-12T09:31:14.211599+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "Nvidia scouts Jensen Huang replacement as scandals wipe out $600bn in stocks",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNelZ1dFZvdF9Odkt3ajJWckZXclYyM25Pa0ZRaDhjQzNSWko4amlnOWIyNXNua3F0NUo2WERPeDliekVBdThJSHBGNURtVEdweXg3TmZyY2RGOWJ4SXBSUFdUa2xyN05UWlR1ZE9pMkhldy1obWZWQ2ZwTkpBeGJzWDdWWGlZTFQ5WWx6TzZPMVIyT2NJNUZxcF9lRnZKMlV6R2Fhem5PWFQ5Y3lUUVYzV0w2YTZUMnZWcENGU3BUUGx2OUpKOEE?oc=5",
+      "words": [
+        "600bn",
+        "huang",
+        "jensen",
+        "nvidia",
+        "out",
+        "replacement",
+        "scandals",
+        "scouts",
+        "wipe"
       ]
     }
   ],
@@ -17195,11 +17190,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-12T09:17:10.618733+00:00",
-    "pib_mark": 2335351,
+    "last_run": "2026-11-12T09:33:06.651659+00:00",
+    "pib_mark": 2335368,
     "seen": [
-      "pib:2326112",
-      "pib:2326103",
       "pib:2326116",
       "pib:2326119",
       "pib:2326123",
@@ -20197,7 +20190,9 @@
       "page:https://internal.imd.gov.in/press_release/20261112_pr_5483.pdf",
       "site:Delhi Police|dp-whatsnew:newpressrelease.aspx",
       "site:Delhi Police|dp-whatsnew:/hi/newpressrelease.aspx",
-      "pib:2335351"
+      "pib:2335351",
+      "pib:2335368",
+      "pib:2335366"
     ],
     "source_failures": {},
     "sources": [
@@ -20258,15 +20253,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793886300965",
-    "1793888693634",
-    "1793891094114",
-    "1793892420165",
-    "1793892859069",
-    "1793893292929",
-    "1793810228766",
-    "1793880960873",
-    "1793883967668",
     "1793890676066",
     "1793891717745",
     "1793289600576",
@@ -24691,7 +24677,6 @@
     "1794384263238",
     "1794384752094",
     "1794384847992",
-    "1794412811471",
     "1794447720235",
     "1794448654612",
     "1794449220772",
@@ -24722,7 +24707,6 @@
     "1794469311222",
     "1790867798781",
     "1794386836436",
-    "1794392395352",
     "1794392646839",
     "1794421500393",
     "1794439140232",
@@ -24733,7 +24717,6 @@
     "1794462620273",
     "1794464636567",
     "1794467882126",
-    "1794468021892",
     "1794468120331",
     "1794468813965",
     "1794472138208",
@@ -24744,6 +24727,12 @@
     "1794466268246",
     "1794467439249",
     "1794473105601",
+    "1794389017239",
+    "1794447050976",
+    "1794463740211",
+    "1794464282961",
+    "1794470109563",
+    "1794470591416",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25994,9 +25983,9 @@
     "1794384000574",
     "1794387600489",
     "1794388292547",
-    "1794389017239",
     "1794390987071",
     "1794391200540",
+    "1794392395352",
     "1794392646685",
     "1794392820313",
     "1794393180087",
@@ -26027,6 +26016,7 @@
     "1794411741341",
     "1794412800342",
     "1794412800395",
+    "1794412811471",
     "1794413368849",
     "1794414078981",
     "1794414526910",
@@ -26072,7 +26062,6 @@
     "1794446400751",
     "1794446760245",
     "1794446762589",
-    "1794447050976",
     "1794447316154",
     "1794448380126",
     "1794448585414",
@@ -26142,12 +26131,10 @@
     "1794463080508",
     "1794463200567",
     "1794463224733",
-    "1794463740211",
     "1794463831073",
     "1794463887446",
     "1794464102089",
     "1794464280398",
-    "1794464282961",
     "1794464406656",
     "1794464460345",
     "1794464559609",
@@ -26177,6 +26164,7 @@
     "1794467460744",
     "1794467778499",
     "1794467863985",
+    "1794468021892",
     "1794468183784",
     "1794468353453",
     "1794468480054",
@@ -26189,6 +26177,7 @@
     "1794468978172",
     "1794469010921",
     "1794469020553",
+    "1794469161628",
     "1794469226597",
     "1794469445336",
     "1794469484054",
@@ -26196,14 +26185,13 @@
     "1794469535201",
     "1794469800692",
     "1794469889825",
-    "1794470109563",
+    "1794470092563",
     "1794470155983",
     "1794470280126",
     "1794470368627",
     "1794470393094",
     "1794470400044",
     "1794470514426",
-    "1794470591416",
     "1794471148696",
     "1794471258269",
     "1794471387958",
@@ -26215,11 +26203,18 @@
     "1794472950007",
     "1794473037942",
     "1794473255913",
+    "1794473610515",
     "1794473651887",
     "1794473730748",
     "1794474080139",
     "1794474130062",
+    "1794474232804",
     "1794474257234",
+    "1794474726413",
+    "1794474861808",
+    "1794474925632",
+    "1794474987572",
+    "1794475583836",
     "1794481002855",
     "1794483625260",
     "1794484711441",
@@ -26259,8 +26254,8 @@
     "2335322",
     "2335323"
   ],
-  "last_digest_hour": "2026-11-12T14",
-  "last_success": "2026-11-12T09:16:05.207217+00:00",
+  "last_digest_hour": "2026-11-12T15",
+  "last_success": "2026-11-12T09:31:14.272668+00:00",
   "national": {
     "alerted": [
       {
@@ -36434,16 +36429,15 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-12T09:32:35.740158+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-12T00:46:35.307706+00:00"
     },
-    "last_run": "2026-11-12T09:16:52.745016+00:00",
-    "pib_mark": 2335351,
+    "last_run": "2026-11-12T09:32:45.127149+00:00",
+    "pib_mark": 2335368,
     "seen": [
-      "cci-merger:C-2026/08/1452|Exempt/Not a Combination",
-      "watch:meeting:LS|22574",
       "pib:2326359",
       "pib:2326360",
       "pib:2326437",
@@ -39441,12 +39435,17 @@
       "page:https://internal.imd.gov.in/press_release/20261112_pr_5483.pdf",
       "site:Delhi Police|dp-whatsnew:newpressrelease.aspx",
       "site:Delhi Police|dp-whatsnew:/hi/newpressrelease.aspx",
-      "pib:2335351"
+      "pib:2335351",
+      "pib:2335366",
+      "pib:2335368"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39512,44 +39511,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Investors worry Jensen Huang's exit could weaken Nvidia's AI investment push",
-      "post": {
-        "created_at": "2026-11-12T07:36:18+00:00",
-        "handle": "News: Global chips",
-        "id": "1794468978172",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Telegraph India",
-        "reposts": 0,
-        "text": "Investors worry Jensen Huang's exit could weaken Nvidia's AI investment push",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSW51dnpFRy1RYXFPTG92eDY0VXY3Qmpic21WT0NpNlcxa0J0RWY0VDM1ckktQ2EtRFEyZGp0SElaYlNmSEVrLUhnUzRNenNKaVlXWE9YSktQdEl6QTRpM3NvSDRfbzJ2N0ZMQTFlUXhQUmpQbG5VNjY2NXlpdmVLZDExbXhWLVVuSFJoVEYzZGw2dXgwUURkaXViVzVRV29jb3drUGhJNE01ZkdiYkxkejNkWDAyd1FlM3NvU2kwaXoxa2R40gHKAUFVX3lxTE5UNjg2YTJRTEFzYVFCYzc5U2ZFRmVhSXJpa1prWVo2SFZYdkFnbmZJVUhGbmRMY2djUE1vNHRaOUwyQTdzcXlwMlZVQWFJVjhYNTdJcXVlOXFoTmJkN3g3Q2VPaUlXOWZKTGFIcEFHcWw2TFE4cFhQWEg2SlhkeXlLUlNQaEJRbFllSjNEX3FmU00yMlV5MGV0NFR4ek5xV2E4bDF6QmEwUklhaFdud1k4ZXhybVVIM2dGRnNlQWx5U094U0dxT2xJX2c?oc=5"
-      },
-      "queued_at": "2026-11-12T09:01:56.745748+00:00",
-      "score": 7.0,
-      "why": "This is a direct development in the ongoing Nvidia leadership crisis involving a major global chipmaker."
-    },
-    {
-      "headline": "Nvidia scouts Jensen Huang replacement as scandals wipe out $600bn in stocks",
-      "post": {
-        "created_at": "2026-11-12T08:28:58+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1794472138342",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Indian Express",
-        "reposts": 0,
-        "text": "Nvidia scouts Jensen Huang replacement as scandals wipe out $600bn stocks",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNelZ1dFZvdF9Odkt3ajJWckZXclYyM25Pa0ZRaDhjQzNSWko4amlnOWIyNXNua3F0NUo2WERPeDliekVBdThJSHBGNURtVEdweXg3TmZyY2RGOWJ4SXBSUFdUa2xyN05UWlR1ZE9pMkhldy1obWZWQ2ZwTkpBeGJzWDdWWGlZTFQ5WWx6TzZPMVIyT2NJNUZxcF9lRnZKMlV6R2Fhem5PWFQ5Y3lUUVYzV0w2YTZUMnZWcENGU3BUUGx2OUpKOEE?oc=5"
-      },
-      "queued_at": "2026-11-12T09:01:56.745748+00:00",
-      "score": 7.0,
-      "why": "This is a major leadership development regarding the CEO of a critical global semiconductor company."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40733,18 +40695,18 @@
     "microsoft india": 1794453440706,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794473255913,
+    "news: big tech platforms": 1794475583836,
     "news: consumer internet india": 1794473037942,
     "news: global ai": 1794474257234,
-    "news: global chips": 1794474130062,
+    "news: global chips": 1794474861808,
     "news: global it services": 1794469484054,
     "news: india ai deeptech": 1794468619747,
-    "news: india edtech gaming": 1794459505437,
+    "news: india edtech gaming": 1794474987572,
     "news: india fintech": 1794467313843,
     "news: india semiconductors": 1794457281184,
     "news: india tech policy": 1794464896248,
     "news: india telecom": 1794469445336,
-    "news: indian it majors": 1794473651887,
+    "news: indian it majors": 1794474232804,
     "news: indian it midcaps": 1794467863985,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1794474130062,
@@ -40792,7 +40754,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-12T09:16:05.702690+00:00",
+    "last_server_run": "2026-11-12T09:31:14.748676+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-12T08:04:23.152078+00:00",
@@ -53113,24 +53075,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-12T09:17:01.027363+00:00",
+    "last_run": "2026-11-12T09:32:53.947900+00:00",
     "seen": [
-      "x:2118271093492593026",
-      "x:2118271697665319210",
-      "x:2118272728931385569",
-      "x:2118273500511363215",
-      "x:2118268139733684581",
-      "x:2118271799976775790",
-      "x:2118274217884180617",
-      "x:2118274622940450894",
-      "x:2118275050692563119",
-      "x:2118275274542334205",
-      "x:2118275491140649439",
-      "x:2118275656626659431",
-      "x:2118276057887617082",
-      "x:2118276068994138322",
-      "x:2118276332190892177",
-      "x:2118276535291703803",
       "x:2118276677491212423",
       "x:2118276926720581903",
       "x:2118264349156376789",
@@ -56114,7 +56060,23 @@
       "x:2120805598925033964",
       "x:2120806070407033163",
       "x:2120806559223841032",
-      "x:2120807035319050670"
+      "x:2120807035319050670",
+      "x:2120807562828198133",
+      "x:2120807837102461209",
+      "x:2120807891892687109",
+      "x:2120808042547884334",
+      "x:2120808136659325326",
+      "x:2120808233426403807",
+      "x:2120808263164006685",
+      "x:2120808558946324813",
+      "x:2120808758674866255",
+      "x:2120808953991049365",
+      "x:2120809136661381404",
+      "x:2120809140792803433",
+      "x:2120809545983512764",
+      "x:2120809909877129391",
+      "x:2120810146016170357",
+      "x:2120810520693641320"
     ],
     "source_failures": {},
     "sources": []
