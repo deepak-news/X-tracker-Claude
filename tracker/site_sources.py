@@ -806,75 +806,113 @@ def lokpal() -> list:
 # Delhi Police (delhipolice.gov.in, added 2026-10-12): standing orders (the protest guidelines of Oct 11),
 # circulars, prohibitory orders ("Notifications", BNSS 163), the monthly Delhi Police Gazette, the home page's
 # "What's new" box, and the district press releases (busy: AI-scored, a source of their own).
-# The site was rebuilt around Oct 20, 2026: the old ASP.NET grids (standingorderNew.aspx, circulars.aspx ...)
-# answer 404, and each list is now a plain table on an .html page, every row with its own PDF.
+# The site has two layouts and has swapped between them: around Oct 20, 2026 it was rebuilt as plain .html
+# pages (each row with its own PDF), and on Nov 12 the older ASP.NET pages (standingorderNew.aspx ...) were
+# back and the .html ones answered 404. Each list is therefore read from whichever of its two pages answers.
 DP = "https://delhipolice.gov.in/"
-# The new site dates rows differently from the old one (a press release of Oct 18 there is "10 Oct" here), so
-# the old ids do not carry over. Until DP_SETTLE_UNTIL every row the new pages list goes in quietly, with no
-# alert and no AI: what is there now is not news. A row that appears after it is.
-DP_SETTLE_UNTIL = dt.datetime(2026, 10, 26, 0, 0, tzinfo=IST)
+# The two layouts date rows differently (a press release of Oct 18 on one is "10 Oct" on the other), so ids
+# do not carry over a swap. Until DP_SETTLE_UNTIL every row the pages list goes in quietly, with no alert
+# and no AI: what is there now is not news. A row that appears after it is. Move it on after each swap.
+DP_SETTLE_UNTIL = dt.datetime(2026, 11, 14, 0, 0, tzinfo=IST)
+DP_DATES = ("%m/%d/%Y %I:%M:%S %p", "%d %b, %Y", "%d %b %Y", "%d/%m/%Y", "%Y-%m-%d")
 
 
-def _dp_table(page: str, kind: str, more=None) -> list:
-    """One of the new site's lists: a table of numbered rows, each with a title, a date (or a year) and a PDF."""
-    soup = BeautifulSoup(_get(DP + page).text, "html.parser")
-    table = soup.find("table")
-    if table is None:
+def _dp_numbered(table) -> list:
+    """A table's numbered rows as lists of cell text, with the row itself."""
+    out = []
+    for tr in table.find_all("tr"):
+        if tr.find("table"):             # a pager: a table of page numbers inside a row
+            continue
+        cells = [_clean(td.get_text(" ")) for td in tr.find_all("td", recursive=False)]
+        if len(cells) > 1 and cells[0].rstrip(".").isdigit():
+            out.append((cells, tr))
+    return out
+
+
+def _dp_table(pages, kind: str, more=None) -> list:
+    """One of Delhi Police's lists: a table of numbered rows, each with a title and a date (or a year).
+    pages: the list's address in each layout, tried in turn."""
+    pages = [pages] if isinstance(pages, str) else list(pages)
+    soup, page, problem = None, pages[0], None
+    for page in pages:
+        try:
+            soup = BeautifulSoup(_get(DP + page).text, "html.parser")
+            break
+        except Exception as e:           # not at this address: the other layout may be up
+            problem = e
+    if soup is None:
+        raise problem
+    tables = sorted(soup.find_all("table"), key=lambda t: len(_dp_numbered(t)), reverse=True)
+    if not tables:
         raise RuntimeError(f"no list on Delhi Police's {page} (the page may have changed)")
+    table = tables[0]
     head = [_clean(th.get_text(" ")).lower() for th in table.find_all("th")]
-    title_at = next((i for i, h in enumerate(head) if h in ("title", "notification", "subject")), 1)
+    title_at = next((i for i, h in enumerate(head) if h in ("title", "notification", "subject")), None)
     date_at = next((i for i, h in enumerate(head) if "date" in h), None)
     settle = dt.datetime.now(IST) < DP_SETTLE_UNTIL
     rows = []
-    for tr in table.find_all("tr"):
-        cells = [_clean(td.get_text(" ")) for td in tr.find_all("td", recursive=False)]
-        if len(cells) <= title_at or not cells[0].rstrip(".").isdigit() or not cells[title_at] or cells[title_at].isdigit():
+    for cells, tr in _dp_numbered(table):
+        at = title_at
+        if at is None:                   # no heading says which: the longest cell of the row is its title
+            at = max(range(1, len(cells)), key=lambda i: len(cells[i]))
+        if len(cells) <= at or not cells[at] or cells[at].isdigit():
             continue
         stamp = cells[date_at] if date_at is not None and date_at < len(cells) else ""
         link = tr.find("a", href=True)
-        url = urljoin(DP, quote(link["href"].strip(), safe="/:%?=&")) if link else DP + page
-        rows.append({"key": f"dp-{kind}:{stamp}|{cells[title_at][:200]}", "title": cells[title_at],
+        href = link["href"].strip() if link else ""
+        url = urljoin(DP, quote(href, safe="/:%?=&")) if href and not href.lower().startswith("javascript:") else DP + page
+        rows.append({"key": f"dp-{kind}:{stamp}|{cells[at][:200]}", "title": cells[at],
                      "detail": more(dict(zip(head, cells))) if more else (f"Dated {stamp}" if stamp else ""),
-                     "url": url, "date": _day(stamp, "%d %b, %Y", "%d %b %Y", "%d/%m/%Y") if stamp else None, "settle": settle})
+                     "url": url, "date": _day(stamp, *DP_DATES) if stamp else None, "settle": settle})
     if not rows:
         raise RuntimeError(f"nothing in Delhi Police's {page} (the page may have changed)")
     return rows
 
 
 def dp_standing() -> list:
-    return _dp_table("standing-orders.html", "standing", lambda c: f"Standing order dated {c.get('order date', '')}".strip())
+    return _dp_table(("standing-orders.html", "standingorderNew.aspx"), "standing",
+                     lambda c: f"Standing order dated {c.get('order date') or c.get('date', '')}".strip())
 
 
 def dp_circulars() -> list:
-    return _dp_table("circulars.html", "circulars", lambda c: f"Circular, {c['year']}" if c.get("year") else "Circular")
+    return _dp_table(("circulars.html", "circulars.aspx"), "circulars", lambda c: f"Circular, {c['year']}" if c.get("year") else "Circular")
 
 
 def dp_notifications() -> list:
-    return _dp_table("notifications.html", "notification")
+    return _dp_table(("notifications.html", "notification.aspx"), "notification")
 
 
 def dp_gazette() -> list:
-    return _dp_table("delhi-police-gazette.html", "gazette")
+    return _dp_table(("delhi-police-gazette.html", "Gazette.aspx"), "gazette")
 
 
 def dp_press() -> list:
-    return _dp_table("press-releases.html", "press",
+    return _dp_table(("press-releases.html", "newpressrelease.aspx"), "press",
                      lambda c: " | ".join(x for x in (c.get("category", ""), f"PS {c['police station']}" if c.get("police station") else "",
                                                       c.get("district", "").title()) if x))
 
 
 def dp_whatsnew() -> list:
-    """The home page's "What's new" box: the documents and pages it points to (the protest guidelines first)."""
+    """The home page's "What's new" box: the documents and pages it points to (the protest guidelines first).
+    The older layout has no such box: there, the documents (PDFs) its English home page links."""
     soup = BeautifulSoup(_get(DP).text, "html.parser")
     box = soup.select_one(".news-scroll")
     if box is None:
-        raise RuntimeError("no What's new box on Delhi Police's home page (the page may have changed)")
+        try:
+            box = BeautifulSoup(_get(DP + "index.aspx").text, "html.parser")
+        except Exception:
+            box = soup
+        links = [a for a in box.find_all("a", href=True)
+                 if "whatsnewfile/" in a["href"].lower() or a["href"].lower().split("?")[0].endswith(".pdf")]
+    else:
+        links = box.find_all("a", href=True)
     settle = dt.datetime.now(IST) < DP_SETTLE_UNTIL
-    rows = []
-    for link in box.find_all("a", href=True):
+    rows, seen = [], set()
+    for link in links:
         href = link["href"].strip()
         title = _clean(link.get_text(" ")).rstrip(".")
-        if title and not href.startswith(("#", "mailto:", "tel:", "javascript:")):
+        if title and href not in seen and not href.startswith(("#", "mailto:", "tel:", "javascript:")):
+            seen.add(href)
             rows.append({"key": f"dp-whatsnew:{href}", "title": title, "detail": "",
                          "url": urljoin(DP, quote(href, safe="/:%?=&")), "date": None, "settle": settle})
     if not rows:

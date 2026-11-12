@@ -33,7 +33,12 @@ def live(posts: list) -> dict:
     found = {}
     for p in posts:
         handle, text = str(p.get("handle") or ""), str(p.get("text") or "")
-        at = dt.datetime.fromisoformat(str(p.get("at")).replace("Z", "+00:00"))
+        try:
+            at = dt.datetime.fromisoformat(str(p.get("at")).replace("Z", "+00:00"))
+            if at.tzinfo is None:
+                at = at.replace(tzinfo=dt.timezone.utc)
+        except ValueError:               # a row the sheet saved without its time: left out, not a failed run
+            continue
         flat, low = squeeze(text), handle.lower()
         explained = (any(flat.startswith(x) for x in reposted.get(low, []) if x)
                      or str(p.get("id")) in quoted or low in replied)
