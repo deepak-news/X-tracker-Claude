@@ -17175,7 +17175,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-12T22:02:59.700592+00:00",
+    "last_run": "2026-11-12T22:17:02.155519+00:00",
     "pib_mark": 2335665,
     "seen": [
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-rc-no-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105287.html",
@@ -19700,6 +19700,7 @@
       "pib:2335665",
       "site:Delhi Police|dp-whatsnew:newpressrelease.aspx",
       "site:Delhi Police|dp-whatsnew:/hi/newpressrelease.aspx",
+      "site:ICC|https://www.icc-cricket.com/media-releases/icc-women-s-emerging-nations-trophy-2026-broadcast-details-announced",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-an-interaction-with-women-self-help-group-members-at-mega-rythu-mela-meeting-hall-hakeempet-kodangal-vikarabad-district-2/",
@@ -20128,7 +20129,6 @@
       "mea:41942",
       "page:https://internal.imd.gov.in/press_release/20261112_pr_5483.pdf",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-ekalavaya-maodala",
-      "site:ICC|https://www.icc-cricket.com/media-releases/icc-women-s-emerging-nations-trophy-2026-broadcast-details-announced",
       "watch:meeting:LS|22653",
       "feed:http://www.niti.gov.in/node/2454",
       "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
@@ -20238,16 +20238,6 @@
     "gemini-3.5-flash-lite": "2026-11-07T07:03:14.844960+00:00"
   },
   "handled": [
-    "1793937000207",
-    "1793959349353",
-    "1793965140659",
-    "1793974681131",
-    "1793989920376",
-    "1793929965365",
-    "1793930009013",
-    "1793934052221",
-    "1793943836271",
-    "1793945692616",
     "1793968415922",
     "1793970199263",
     "1793977064403",
@@ -24703,7 +24693,6 @@
     "1794515510312",
     "1794459960837",
     "1794477060044",
-    "1794483889082",
     "1794484731886",
     "1794484732573",
     "1794492000880",
@@ -24732,16 +24721,25 @@
     "1794514080776",
     "1794514486736",
     "1794434136612",
-    "1794460914753",
     "1794478828188",
     "1794491704687",
     "1794493147745",
     "1794500250481",
     "1794501153504",
-    "1794511107643",
     "1794515580579",
     "1794516540628",
     "1794516862944",
+    "1794460914592",
+    "1794491843108",
+    "1794493920749",
+    "1794494652900",
+    "1794505620605",
+    "1794509690155",
+    "1794510441244",
+    "1794513306670",
+    "1794513660117",
+    "1794519067814",
+    "1794519660515",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26010,7 +26008,7 @@
     "1794458882891",
     "1794459022390",
     "1794459505437",
-    "1794460914592",
+    "1794460914753",
     "1794461380527",
     "1794461451726",
     "1794461531236",
@@ -26057,6 +26055,7 @@
     "1794482883499",
     "1794483040868",
     "1794483625260",
+    "1794483889082",
     "1794484251789",
     "1794484711441",
     "1794484807896",
@@ -26078,7 +26077,6 @@
     "1794491280434",
     "1794491618342",
     "1794491790893",
-    "1794491843108",
     "1794492000425",
     "1794492000478",
     "1794492000669",
@@ -26091,8 +26089,6 @@
     "1794493286775",
     "1794493656635",
     "1794493739978",
-    "1794493920749",
-    "1794494652900",
     "1794494671994",
     "1794494690904",
     "1794495407252",
@@ -26129,7 +26125,6 @@
     "1794504540660",
     "1794504718824",
     "1794505320722",
-    "1794505620605",
     "1794505827609",
     "1794505860665",
     "1794506220261",
@@ -26146,23 +26141,20 @@
     "1794508725742",
     "1794508763722",
     "1794509580724",
-    "1794509690155",
     "1794509700291",
     "1794510219445",
-    "1794510441244",
     "1794510720057",
     "1794510726755",
     "1794510891572",
+    "1794511107643",
     "1794511670676",
     "1794511800615",
     "1794512017643",
     "1794512071732",
     "1794513052837",
-    "1794513306670",
     "1794513496310",
     "1794513600791",
     "1794513660059",
-    "1794513660117",
     "1794514249144",
     "1794514440559",
     "1794514473842",
@@ -26176,6 +26168,7 @@
     "1794515749222",
     "1794515871048",
     "1794515989658",
+    "1794516182244",
     "1794516286338",
     "1794516360628",
     "1794516415870",
@@ -26194,13 +26187,20 @@
     "1794518117486",
     "1794518580786",
     "1794518828936",
-    "1794519067814",
     "1794519094588",
+    "1794519300135",
+    "1794519300464",
     "1794519358250",
     "1794519540514",
     "1794519576903",
-    "1794519660515",
+    "1794519752515",
+    "1794520193030",
+    "1794520500605",
     "1794520630275",
+    "1794520876235",
+    "1794520889583",
+    "1794521280479",
+    "1794521447419",
     "1794524400964",
     "2331589",
     "2331704",
@@ -26240,7 +26240,7 @@
     "2335423"
   ],
   "last_digest_hour": "2026-11-13T03",
-  "last_success": "2026-11-12T22:01:56.890766+00:00",
+  "last_success": "2026-11-12T22:15:58.769228+00:00",
   "national": {
     "alerted": [
       {
@@ -36444,13 +36444,12 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-12T22:02:47.356216+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-12T00:46:35.307706+00:00"
     },
-    "last_run": "2026-11-12T22:02:48.410773+00:00",
+    "last_run": "2026-11-12T22:16:50.823409+00:00",
     "pib_mark": 2335665,
     "seen": [
       "site:WTO|https://www.wto.org/english/news_e/news26_e/bop_12oct26_521_e.htm",
@@ -38913,6 +38912,7 @@
       "pib:2335665",
       "site:Delhi Police|dp-whatsnew:newpressrelease.aspx",
       "site:Delhi Police|dp-whatsnew:/hi/newpressrelease.aspx",
+      "site:ICC|https://www.icc-cricket.com/media-releases/icc-women-s-emerging-nations-trophy-2026-broadcast-details-announced",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9267-of-2026-drawn-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-s-_105679.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9230-of-2026-drawn-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrat-_105675.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9229-of-2026-drawn-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-se-_105677.html",
@@ -39401,7 +39401,6 @@
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-thammidikunta-cheruvu-restored-by-hydraa-at-madhapur-hyderabad/",
       "page:https://internal.imd.gov.in/press_release/20261112_pr_5483.pdf",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-ekalavaya-maodala",
-      "site:ICC|https://www.icc-cricket.com/media-releases/icc-women-s-emerging-nations-trophy-2026-broadcast-details-announced",
       "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
       "watch:meeting:LS|22653",
       "feed:http://www.niti.gov.in/node/2454",
@@ -39458,9 +39457,6 @@
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -40715,10 +40711,10 @@
     "microsoft india": 1794453440706,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794516862965,
+    "news: big tech platforms": 1794521280479,
     "news: consumer internet india": 1794499811974,
-    "news: global ai": 1794520630275,
-    "news: global chips": 1794519540514,
+    "news: global ai": 1794520876235,
+    "news: global chips": 1794521447419,
     "news: global it services": 1794514486736,
     "news: india ai deeptech": 1794501961104,
     "news: india edtech gaming": 1794476352875,
@@ -40729,7 +40725,7 @@
     "news: indian it majors": 1794506640155,
     "news: indian it midcaps": 1794467863985,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794519660515,
+    "news: tech leaders": 1794520500605,
     "nvidia": 1794492059604,
     "nvidia blog": 1794492059604,
     "openai": 1794513600791,
@@ -40756,9 +40752,7 @@
     "zoho": 1794484711441
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-12T21:45:58.823782+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40776,7 +40770,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-12T22:01:57.269912+00:00",
+    "last_server_run": "2026-11-12T22:15:59.208306+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-12T21:32:01.538167+00:00",
@@ -40905,7 +40899,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-11-12T16:02:23.446343+00:00",
+        "at": "2026-11-12T22:16:11.402764+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -40915,12 +40909,12 @@
         }
       },
       "last": {
-        "calendar": "2026-11-12T16:02:26.429453+00:00",
-        "ls_reports": "2026-11-12T20:02:41.526553+00:00",
-        "rs_committee_press": "2026-11-12T20:02:49.888042+00:00",
-        "rs_press": "2026-11-12T20:02:47.082263+00:00",
-        "rs_reports": "2026-11-12T20:02:44.550103+00:00",
-        "rs_updates": "2026-11-12T20:02:51.402168+00:00"
+        "calendar": "2026-11-12T22:16:13.597149+00:00",
+        "ls_reports": "2026-11-12T22:16:28.059517+00:00",
+        "rs_committee_press": "2026-11-12T22:16:36.875439+00:00",
+        "rs_press": "2026-11-12T22:16:33.832219+00:00",
+        "rs_reports": "2026-11-12T22:16:31.313813+00:00",
+        "rs_updates": "2026-11-12T22:16:38.627115+00:00"
       }
     },
     "scanned": [
@@ -53392,7 +53386,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-12T22:02:51.958443+00:00",
+    "last_run": "2026-11-12T22:16:54.745611+00:00",
     "seen": [
       "x:2118512870870937936",
       "x:2118513079793414162",
