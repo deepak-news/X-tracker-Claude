@@ -1,128 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-03T14:31:39.676382+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic warns AI could outpace human control in successor development",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUVFiODJmT0N6em5XTXBYck9PaEoyTHlEVnZ5Y01JbzM5Y3hiRTlnYkNva2pOOW5FZkJXbXktblVMYVVIQnNWaDF6S0k2cExWWTQzaFpkSGRNaDZ3UVloc3hwU29zeVdBVmM1ZmFRbnFUd0hIQ0MxN2YtVDQxRy01VGZoMURjS0JHWFpuZ1R4b01qVE9XM216OEc1SGJiWndkZGY0SWRxNnMxd09jVEVHRjRwcFhfOTBIMEhnb25Ya0lSRENCUmlCaEc1TFZsVmUwX2ZZdWVUMNIB3gFBVV95cUxOTzd6MDdQV21adkROOXhMT2tIaEJNV1ZxWnRuRGV5R1Y1VFJJUXY5ZHR2aWZEMDVoWGJ0b29LczI5R0c1ck8yRWtzWTNPT3lBbHVPN1BPeXdBMUxUdXhCQ3oyVVdLZVBHdjNTUmRuV1phaG1lQ08zcURQdlh6SWVPb2lKemNWWXVDRjl3N1U2UjFweDdkeVBSTzlmZ293X19jaHVsbnpFU2pRQ3lZZmxtYTZ2b1QwSVZuMG90QU1RQm5CMUdvNzlDcFJyejNCaHhaU25Rb0NSbXdWYlJ3c3c?oc=5",
-      "words": [
-        "anthropic",
-        "control",
-        "could",
-        "developing",
-        "human",
-        "models",
-        "outpace",
-        "successor",
-        "warns"
-      ]
-    },
-    {
-      "at": "2026-11-03T14:31:39.676382+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta kicks off debt offering to fund AI investments",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0x3bUYydl9CYlNVOHlNaVZrMFgxU29fQVo4Yko3SVZvUUxZVkJZOVZUenRyZkxIREoxdE50MUFoY2FlMHY1Tm1xRmNKOW1FQ1phSkdoc1d5dGV2ZlV1ejVPNUI4b0dWeTMtVWV6WEh4bFZIcnlTNG9SZ3pOSzhxaDJleFdYVnVTV2RSSVRsQ21SUktPd2Z1TmtGLVF0RjNrSTI4Z1BkR2Q0YjFaSkdv?oc=5",
-      "words": [
-        "debt",
-        "fund",
-        "investments",
-        "kicks",
-        "meta",
-        "off",
-        "offering",
-        "push"
-      ]
-    },
-    {
-      "at": "2026-11-03T15:31:47.322263+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Soket Labs and ZenteiQ launch indigenous foundation models under IndiaAI Mission",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSVdYVGtPZ19JNV9zNU14bnl3aFVlSlNrTUczS1JOcGJqMFZ5TVp1YTVIOGJYTW5fVG5KSk53Qk83cWxwb3FtVllKN0xoMFZSb2l4c3NOTldOdjNibXRUZ1hwS1pRVUtPVTNHX2h1NVJKU3RwcUR0TXJYY1VQNnZuOFJkaVJGT2lPNThMTFhtblNqTDhrS003Nk9sUS1FdUNoRGhZU2xrZG5wVHRuMTRSNjdnV1lkaW9sRENQMzBVZUNsdHlWa2p1RTgzOUd1V0F1TEhiZW03ZnRfMFp2WHfSAeMBQVVfeXFMUEt6NTh1cEgxY2ZXUFYwcWlnTXQ3TEJrS1FrUld2VzFKYUNlQUJQa2ZldXotMS11dG5rYV9SNjhtSEF3Y2tWakhSaFA4a1M4UERrMG5hX2hXYUNCeUpEMnFQYnJJOEhjeTVHcU4yTWpGN3dRSlMxaF9ZQ2dKVEdqcjhLcGp1QmhPbEdoQWx1aUg4VENWcm56Slg4U1d2cmRGdWd6bVNqZ3NwckIxRGJYUjl2LWtIaXlFMV8wNGdGSnVrdFpad0ZNYlhTeHlHencxaW1pekcwNUV3YzJaY21iUGVzRXM?oc=5",
-      "words": [
-        "foundation",
-        "indiaai",
-        "indigenous",
-        "labs",
-        "launch",
-        "mission",
-        "models",
-        "soket",
-        "under",
-        "zenteiq"
-      ]
-    },
-    {
-      "at": "2026-11-03T15:31:47.322263+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Happiest Minds-ITC Infotech merger on track, listing expected in a year",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFBXOHBsemJza0lsdUFtejVBV0xsMkY1YnhNT2pvS0QyWUI2N2xPdHdOY28wUEl4ZlhKdkRIX1hRRWMyRVFOQnlvMEpqVHRNOVBVTlNWUGhoVG0wRjFuNnV2SS1qSmtFN2o3Z2dNWHdUZFZPT1REblFkbHVjOUxUY1EwNHdlQXJhYjQ1bkljLVFKYmZkWEtpVU1vWEVvVUxxRVpDR2didUgxdFVBdUxfNTE0eXNnZWUxLV85RHZFbmlsUE1kRE9tZnlQM0Ftc2pDZjJXOXF30gHbAUFVX3lxTE9yUXBSQU4wd21BdjNMSkRtTWl3MWlNb0l4cTJhejFNMVZLQjdiUWZXTkhRNU1RalJnaWNod0xaR0lXOE1QZTlsYWJ6ODBmZXI1Tjd5bWY2bHlZeVBWTnJ3RDNhUS1RQkx5UGxQcVhNdDhnTXRENklJb3VWZlJQNU1CbHNYT0RmRFp3LURnOTZGRmVVOWliR0VEQll0TEEzSWpTaEhFeC1FWEZrazVuS0VlN2J4RjhUNl9ralRYT1V5b0VXN25DN0RYN3dvaERJVDY5WE9BcHFKVEZ6aw?oc=5",
-      "words": [
-        "expected",
-        "happiest",
-        "infotech",
-        "itc",
-        "listing",
-        "merger",
-        "minds",
-        "track",
-        "year"
-      ]
-    },
-    {
-      "at": "2026-11-03T15:31:47.322263+00:00",
-      "handle": "News: India fintech",
-      "headline": "Razorpay gets Sebi nod for Rs 5,000-6,000 crore IPO",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdHhlVUwzX1ExbjZoRWluZjVidEVMYnN1bDQ1ZXFDN21XbmFlc3ZEUDd5aWdMUEYxYUd1NUVIcDZGeTlJS2V5WWdKU1RfN1JYWVg2T2dQR3pBMlF4QWdYMXVDa1dhY3VHckFrZEFPaFlkcGlmOHk2TnVKeVJBamR1dXVPajB6Qmg2ZE1oMGxjTGVoNWVvQ0U4M1MyTWwta1ZJLXhfUjlqWnJwcDNIYVAxQ3V5TVJlUndWZVdPUHBzMmhWVzjSAcgBQVVfeXFMUG9VV3VWZGd1QjY1NGZpN1dZVXFnam9PWkZxVU9JcWthZmo0Uk9tZzZwSHJNbGswU1dRcDRWa3JuTDFHVmloUGpOOGdoSW1qZzFSbHM3MjRORmM4ZkN2RUdOYkVteHJZajV2aVdvQW1mTmdPSzhFdGVKcnljWFBldkRjaExsVEp3Z0dyYWlKSkdzRkFoV3o5dVZ6WlVRNjdUYU1xbzRWa3gyYXQ4QnRUbjRBb296ZjJhTXJBQXVUX3JmNEs2REhsTks?oc=5",
-      "words": [
-        "000",
-        "gets",
-        "ipo",
-        "nod",
-        "razorpay",
-        "sources"
-      ]
-    },
-    {
-      "at": "2026-11-03T15:31:47.322263+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Happiest Minds CEO says AI is replacing otherwise lost revenues",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR0FSR2lEQkR4V3JwU1dNNDcxZ1M1Um96MGlkdmg2eElJdDhqWlVYM3JrNUt2UHMzc01UYVRBSEU4VkdOT0d2dlBaSUVsN0hJUnctNzVtVlUtODRHcGdCRDB0d1Z5X2lEckhCVU16R3Jnem9yd25JR0paeDdQSVFDa1BqaGstLUVRSHA4VV9uSkZuUHQ0UHZoSU43clRRdFJiU1oyYWFwdkYxb0MySEVaUDJweEFPMWloVzFQbUZBc0x1VFBnX0N2dnd6WWJlQmpNa2ZhUF9Ib2lqVWNJS1BDeGE4bw?oc=5",
-      "words": [
-        "ceo",
-        "happiest",
-        "lost",
-        "minds",
-        "otherwise",
-        "replacing",
-        "revenues",
-        "would"
-      ]
-    },
-    {
-      "at": "2026-11-03T15:31:47.322263+00:00",
-      "handle": "News: India fintech",
-      "headline": "Haryana police arrests four in Rs 90,000 UPI fraud case",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHk4bm1IS2VlSThvcVJCRkozdjNKem5yN0h3ZnRWZGF0cmJKcVo4dEdQbDNRRFNVXy04VUFxMDVUSEdBVVBSWnpZc1VLOGdEY2lZVjJmQlFhaGM0U1ZBM2hvbWRoQ3cxc3VBeEx6RklqZmQ1VlpGMFBCclJFemd5VXdJUFY5bVVZeTk2NkVMdFhqNTN2ZlY0Sllsa0RHVWxIQVYxTHhLY2ZvSFUxc0hCZWI1eW12MHhYcW1ZYWhxaWFIZWNfUjRwUUZRSdIBywFBVV95cUxNeHk4bm1IS2VlSThvcVJCRkozdjNKem5yN0h3ZnRWZGF0cmJKcVo4dEdQbDNRRFNVXy04VUFxMDVUSEdBVVBSWnpZc1VLOGdEY2lZVjJmQlFhaGM0U1ZBM2hvbWRoQ3cxc3VBeEx6RklqZmQ1VlpGMFBCclJFemd5VXdJUFY5bVVZeTk2NkVMdFhqNTN2ZlY0Sllsa0RHVWxIQVYxTHhLY2ZvSFUxc0hCZWI1eW12MHhYcW1ZYWhxaWFIZWNfUjRwUUZRSQ?oc=5",
-      "words": [
-        "000",
-        "arrests",
-        "four",
-        "fraud",
-        "haryana",
-        "police",
-        "traced",
-        "upi",
-        "uttarakhand"
-      ]
-    },
-    {
       "at": "2026-11-03T16:31:28.838614+00:00",
       "handle": "News: Global AI",
       "headline": "CERT-In gains access to Anthropic Mythos AI for cyber testing",
@@ -7386,6 +7264,127 @@
         "november",
         "ransomware",
         "security"
+      ]
+    },
+    {
+      "at": "2026-11-13T15:31:26.544025+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Widespread Microsoft outage disrupts global businesses and governments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmhaT0diNlVIZzI4Mm1nSUpIV0RSeDJrM0RYYVIydVRzUzNHM2ZmcW40UjE2eW5xeEc4ZVROeGlBaTlUbl9hUXN5N0VrVHlHRnpvQ09odWw4RVNCZFBXTUxhWHNvWm1MSG1nV0doS191NHIyeXFMT09wbDY2YldsTDB3?oc=5",
+      "words": [
+        "businesses",
+        "governments",
+        "microsoft",
+        "outage",
+        "roils",
+        "widespread"
+      ]
+    },
+    {
+      "at": "2026-11-13T15:31:26.544025+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI launches ChatGPT Wallet for AI agent purchases",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+      "words": [
+        "agents",
+        "allowing",
+        "chatgpt",
+        "dots",
+        "launches",
+        "make",
+        "openai",
+        "purchases",
+        "users",
+        "wallet"
+      ]
+    },
+    {
+      "at": "2026-11-13T15:31:26.544025+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Elon Musk's xAI cuts Grok video generation team",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHVlMmkxWGNtSXFvTWktZzFWV1BfTUo3ZnVTck54QmtjOWRTaVNpQjJKLWF4TmZJN1ZpRjhDNUphTUcydHBJQ29ZWWxvN2dfV1R6eXR0d0NTTWdvNmhwWG1hQThURWcydDVkdURKLWd5bk13d0VNQnMyN2o0OUlldDBKR2JSZ2l6NTAzcmJNQ0k3dDdlaXc?oc=5",
+      "words": [
+        "elon",
+        "generation",
+        "grok",
+        "group",
+        "guts",
+        "musk",
+        "team",
+        "video"
+      ]
+    },
+    {
+      "at": "2026-11-13T15:31:26.544025+00:00",
+      "handle": "News: Global chips",
+      "headline": "US Treasury blames Commerce Department over Nvidia-Megaspeed scandal",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSjNqSHJCMXJuNW9SdU5xWTJSejBIbmtrQnhUbzgyT2dMdnlmNTItZTFNTDZ1ZGVaR3Y0SzR0Z0JKd3dYNzJ6VC1nclBrUUVPOFlTV2ZNYi02el9uOWpNQVgyald6UFFnWW5EZ3pXWUhfX1M1UGl4YnZmMUJ1UlVoVnNWaTBaTjN2MHZtY09IV1ZPWVJMVjBVSThkV1M1UG9RYkJmcDhuR2ktR184QmFXOWNDU2p6bHZlMmZIWXZHMmZ0SHQ3UExNU0YyNNIB0AFBVV95cUxQTkNSNFB0U1FjTjVyeFBWQ09jUWNEcGY2Y2s1UmFNaURLbmlPLURkbkl1SFQ5WnB0QUNiaGJzQnRGb1BObno2MzBoMTNDWGVoa2NCajk3ZGNoVV9ySXpBWlg5OS1TRUxxTVlsMEdkMjYybG1xRlF3b1RCby1SRWl4Y29ieVZCWlh5eU9vWW53Mm02XzFkcEVzWnNYZ0tkZ3dBdVZiYkx4RTJvbFJjN3FxUmkyZUNLYnFQRm9wNEI0VzNZVGFNVE5DZHk1SkNDQVhy?oc=5",
+      "words": [
+        "blames",
+        "chief",
+        "commerce",
+        "department",
+        "megaspeed",
+        "nvidia",
+        "scandal",
+        "treasury"
+      ]
+    },
+    {
+      "at": "2026-11-13T15:31:26.544025+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Zetwerk H1FY27 revenue grows 33% to \u20b98,717 crore",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQkkxLXN1aHlTNjJESmI5UWV4S1VKY3VZZlNhcXhlLTcwZGNUS25HSFBablJDcWE0RExsZTVuSnpYTEh0cUxldjVaakRmWklsRW1MTldDNWw1cnhncXZyMUYzaDhrN1JFMHMzNWE0WWRJX1VlVTdzV1lCdHJOOHVwREFGdFZnWWhMZ3ZWQWxudkNCUmRKNGVsc21peXhkRGk0QWU3SmlKbTFQQ0ZFZXpaaGdNdHNKRjJGd2c3U1JKNFBhWDkwOWl2SmJBcC1pNnR4RW8telYyNmRia1pm0gHiAUFVX3lxTFBZUG1HUVU4eW5CUXJ3N3dqWlNJVzhCSlE4a28tTFdvNmY2c0ZBSk54N3RDYnNTVUw5bXVEaUpGSzZIS0IxekFBZDJHQTZwM0RvLTNBVzFHZm9IakxrTEtLempZdTY5QnB3eU8wZkVJVnBOa0lORXRGT2M1Vi1QNXZwZWxWblR0VWZabDZ4dDRwaVoxaHh0QkNFaFA1aHVQVEs3bW1sUV9yb0JsUHZ4ZnVjZW9wODMtS3QyWUxVM2JQMTgtb2dtcDJxYVdsNXRsei1YU0ZlYzNVV2NGSm53dEtfX1E?oc=5",
+      "words": [
+        "717",
+        "ebitda",
+        "h1fy27",
+        "jumps",
+        "revenue",
+        "rises",
+        "zetwerk"
+      ]
+    },
+    {
+      "at": "2026-11-13T15:31:26.544025+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio Financial targets 100 million customers in one year",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRG4xTTNsT0F2N01yMDVYSEREUGFGeWIwbVdwbklmNVo4Zy1QaEZoLS03eUxRR2hGT0RwNDV1TlBodmNnSk5mNGZHX3ZBNmQ4eWpvTzRCNDFfZnJEYVlSR2J0WVNqSWNGemdlWE5jcGFtUlFtSjhqOWtSTG5ZTkhZdDNzTFBLTmRPbm9kWXlndGVfMmlGN1R0MzBTN3dET21BOE4zR21aUlZ3V29SVFNFdWh6V2gzMTA1TDM1V3ZoTVZBbk5UbU9HVnpSLWQ0bTJsc1BNLVBYNnVneDDSAegBQVVfeXFMT0RwYUd5WW9objREQXdMaUdMZVQ0dEZ0alhUYkE2bzMxVTFQcjRzNVlRdTVzWFFPVEZfdmlMRWZEMVJIeTJXOVdkVlJTUGtVRVVMd1VPZmdqck5BOHVXU3NzMmJ3MmVtSzdvMklYUy13ZElQZGlqay16YkJ2cm5EcThlQWxDN1R4UERiRGdFN0hwWS1uWHo2VHlwbWRQU0VsYUdRazl6dF9lQU1JeFEybVZsYk1jWDRkRjlmbk9fTmNkeEN2OUpzV0VtaVVYeEZqdGhYUkJKcGVlNzBCMU5qOFFXQXBuOWNrcA?oc=5",
+      "words": [
+        "100",
+        "accelerate",
+        "customers",
+        "financial",
+        "jio",
+        "million",
+        "one",
+        "target",
+        "year",
+        "years"
+      ]
+    },
+    {
+      "at": "2026-11-13T15:31:26.544025+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Zaggle Prepaid Q2 profit falls as expenses rise 40%",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR1AxSDdaZ1hkcWtRelpJZHNxNnplMGwxMTNON2ltNUhVUHc0c0kzaFRxalpsOHA4RkVUdDFBSEV3aFNWV29UbkpVR0VQRkpCb3dfTWtmUXpkdnplNWNqdmRiRTJYenlhWE53eVJMS0lnbzg1VFlVTHhGQ0hBZExac3BaMlZ4cG5oaGtOeE9VVnJuUXdWbkVFSl8yRnlHTk4yZGEtZzhvMUd1dTg0YlFCcGlGSVNCQW1SZHE2SGt3SGFpdkxvTWM1RFJWZTVmUdIB0wFBVV95cUxOMXE4aFlubWJ3aXRtcHM5TC0zN0lHT0pWSjB1YWFvcUdaTGlFbklzSHlpcHB1ZW9zZlNlUUlTMFVESHVfOFlqeEZXQ1ViTTZSckJfb3JyZndsTi1aLVQtMHlMSk03WFd3bGxpRFQ2RkxxTDVOMi1jRGFtYjBNblZJTEZiajVNMVNBa2FLNEJhYmlrRzlZamFWc1pWemF5enJaUF9PVUhCTy1ISzJkNGlHbkhpSzJyWi1id0NrdTM5dFljZnB4WmVyZk0ydVdBcFEwRGdz?oc=5",
+      "words": [
+        "expenses",
+        "falls",
+        "nearly",
+        "prepaid",
+        "profit",
+        "results",
+        "surge",
+        "year",
+        "zaggle"
       ]
     }
   ],
@@ -17175,10 +17174,9 @@
         "State: Uttar Pradesh": "2026-11-13T10:06:01.722606+00:00"
       }
     },
-    "last_run": "2026-11-13T15:18:40.016563+00:00",
+    "last_run": "2026-11-13T15:32:54.743035+00:00",
     "pib_mark": 2336031,
     "seen": [
-      "pib:2326828",
       "pib:2326841",
       "pib:2326852",
       "pib:2326901",
@@ -19682,6 +19680,7 @@
       "gazette:CG-DL-E-13112026-277870",
       "gazette:CG-DL-E-13112026-277872",
       "gazette:CG-DL-E-13112026-277871",
+      "page:https://www.pmindia.gov.in/en/news_updates/visit-of-pm-to-manila-philippines",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9228-of-2026-issued-against-fulabhai-bhitor-pan-dylpb2813q-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105708.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9290-of-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-babulal-khalas-pan-bzvpk9515p-_105712.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-november-11-2026-issued-under-rc-no-9290-of-2026-drawn-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-babulal-khalas-_105710.html",
@@ -20062,7 +20061,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-warm-greetings-to-the-nation-on-the-commencement-of-the-four-day-chhath-mahaparv",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63967",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-importance-of-properly-assimilating-dharma-wealth-food-a-gurus-teachings-and-medicine",
-      "page:https://www.pmindia.gov.in/en/news_updates/visit-of-pm-to-manila-philippines",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63968",
       "pib:2335680",
       "watch:meeting:LS|22655",
@@ -20177,7 +20175,8 @@
       "certin:CIAD-2026-0060",
       "site:ai:ISRO|https://www.isro.gov.in/Hosting_of_20th_International_Committee_on_GNSS.html",
       "pib:2336031",
-      "pib:2336026"
+      "pib:2336026",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-the-loss-of-lives-in-the-mishap-in-golaghat-district-of-assam"
     ],
     "source_failures": {
       "State: Uttar Pradesh": {
@@ -20243,18 +20242,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794136744538",
-    "1794183061934",
-    "1794185992903",
-    "1794191733528",
-    "1794192599636",
-    "1794192800663",
-    "1794193274382",
-    "1794193836310",
-    "1794112560988",
-    "1794135000236",
-    "1794153600134",
-    "1794169758934",
     "1794184200781",
     "1794191638433",
     "1794191714048",
@@ -24616,7 +24603,6 @@
     "1794534874333",
     "1794535268209",
     "1794537000057",
-    "1794546143700",
     "1794547440067",
     "1794554599408",
     "1794554760263",
@@ -24641,7 +24627,6 @@
     "1794575358662",
     "1794575825604",
     "1794576540187",
-    "1794578880040",
     "1794494671994",
     "1794494690904",
     "1794528000965",
@@ -24683,6 +24668,26 @@
     "1794578400855",
     "1794578915568",
     "1794579560018",
+    "1794508320658",
+    "1794519067814",
+    "1794537000291",
+    "1794556980342",
+    "1794557280793",
+    "1794561448294",
+    "1794567610307",
+    "1794567720529",
+    "1794569695457",
+    "1794573322715",
+    "1794573660103",
+    "1794574808794",
+    "1794575820336",
+    "1794576010391",
+    "1794577878822",
+    "1794579113965",
+    "1794580321366",
+    "1794580846258",
+    "1794582300416",
+    "1794582663153",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25929,6 +25934,7 @@
     "1794499200802",
     "1794499202090",
     "1794499811974",
+    "1794500100558",
     "1794500178096",
     "1794501698489",
     "1794501961104",
@@ -25945,7 +25951,6 @@
     "1794506450578",
     "1794506580555",
     "1794506640155",
-    "1794508320658",
     "1794511620231",
     "1794511800615",
     "1794513600731",
@@ -25953,7 +25958,6 @@
     "1794515400885",
     "1794515749222",
     "1794517214229",
-    "1794519067814",
     "1794519358250",
     "1794520800273",
     "1794523078201",
@@ -25976,7 +25980,6 @@
     "1794535200209",
     "1794535866241",
     "1794536616530",
-    "1794537000291",
     "1794537080028",
     "1794537549609",
     "1794537949727",
@@ -26003,6 +26006,7 @@
     "1794545580898",
     "1794545852330",
     "1794545872689",
+    "1794546143700",
     "1794546417040",
     "1794547166889",
     "1794547352277",
@@ -26048,8 +26052,6 @@
     "1794556070528",
     "1794556491867",
     "1794556799532",
-    "1794556980342",
-    "1794557280793",
     "1794558360645",
     "1794558924271",
     "1794559008433",
@@ -26066,7 +26068,6 @@
     "1794560798103",
     "1794560810087",
     "1794561045466",
-    "1794561448294",
     "1794561745412",
     "1794561840361",
     "1794562080678",
@@ -26096,23 +26097,22 @@
     "1794566772008",
     "1794567280261",
     "1794567420594",
-    "1794567610307",
-    "1794567720529",
     "1794567910407",
     "1794568475791",
     "1794568996395",
     "1794569295572",
     "1794569354391",
     "1794569455970",
-    "1794569695457",
     "1794569814032",
     "1794570437879",
+    "1794570485641",
     "1794570748422",
     "1794571092695",
     "1794571111896",
     "1794571151109",
     "1794571202459",
     "1794571232814",
+    "1794571250286",
     "1794571321924",
     "1794571343274",
     "1794571379306",
@@ -26132,15 +26132,12 @@
     "1794572903443",
     "1794572912048",
     "1794573172877",
-    "1794573322715",
     "1794573534654",
-    "1794573660103",
     "1794573860725",
     "1794574339605",
     "1794574393479",
     "1794574483106",
     "1794574560030",
-    "1794574808794",
     "1794574842347",
     "1794574855246",
     "1794575340317",
@@ -26150,10 +26147,8 @@
     "1794575700472",
     "1794575720398",
     "1794575818587",
-    "1794575820336",
     "1794575825674",
     "1794575867180",
-    "1794576010391",
     "1794576026464",
     "1794576171984",
     "1794576174538",
@@ -26168,7 +26163,6 @@
     "1794577256375",
     "1794577541675",
     "1794577615366",
-    "1794577878822",
     "1794578021289",
     "1794578347964",
     "1794578409477",
@@ -26176,17 +26170,16 @@
     "1794578820954",
     "1794578863393",
     "1794578868600",
+    "1794578880040",
     "1794578880044",
+    "1794578880103",
     "1794579000603",
-    "1794579113965",
     "1794579145901",
     "1794579458662",
     "1794579540300",
     "1794579589485",
     "1794579765482",
     "1794579776302",
-    "1794580321366",
-    "1794580846258",
     "1794580942641",
     "1794580980015",
     "1794581010559",
@@ -26194,14 +26187,20 @@
     "1794581388155",
     "1794581389882",
     "1794581758051",
+    "1794581972398",
     "1794582001447",
     "1794582122558",
     "1794582225774",
+    "1794582300056",
     "1794582300058",
-    "1794582300416",
+    "1794582420681",
     "1794582544393",
     "1794582566325",
-    "1794582663153",
+    "1794582663834",
+    "1794582899617",
+    "1794583243352",
+    "1794583260406",
+    "1794583278822",
     "2331589",
     "2331704",
     "2331803",
@@ -26244,27 +26243,10 @@
     "2335818",
     "2335968"
   ],
-  "last_digest_hour": "2026-11-13T20",
-  "last_success": "2026-11-13T15:16:42.943589+00:00",
+  "last_digest_hour": "2026-11-13T21",
+  "last_success": "2026-11-13T15:31:26.587750+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-09T05:21:56.472422+00:00",
-        "handle": "CBSE",
-        "headline": "CBSE releases date sheet for special board examinations",
-        "tier": 1,
-        "url": "https://www.cbse.gov.in/cbsenew/documents/Date_Sheet_Special_Examinations_09102026.pdf",
-        "words": [
-          "2026",
-          "cbse",
-          "date",
-          "examinations",
-          "published",
-          "reg",
-          "sheet",
-          "special"
-        ]
-      },
       {
         "at": "2026-10-09T05:49:47.155210+00:00",
         "handle": "PIB Ministry of Health and Family Welfare",
@@ -34787,6 +34769,29 @@
           "ransomware",
           "security"
         ]
+      },
+      {
+        "at": "2026-11-13T15:32:11.013440+00:00",
+        "handle": "PMO",
+        "headline": "PM Modi announces compensation for victims of the Golaghat district mishap in Assam",
+        "tier": 1,
+        "url": "https://www.pmindia.gov.in/en/news_updates/pm-condoles-the-loss-of-lives-in-the-mishap-in-golaghat-district-of-assam",
+        "words": [
+          "article",
+          "assam",
+          "condoles",
+          "district",
+          "golaghat",
+          "lives",
+          "loss",
+          "minister",
+          "mishap",
+          "narendra",
+          "pmo",
+          "prime",
+          "published",
+          "shri"
+        ]
       }
     ],
     "gazette_mark": 277893,
@@ -36485,10 +36490,9 @@
       },
       "warned": "2026-11-13T00:46:40.541582+00:00"
     },
-    "last_run": "2026-11-13T15:18:13.365772+00:00",
+    "last_run": "2026-11-13T15:32:11.021544+00:00",
     "pib_mark": 2336031,
     "seen": [
-      "pib:2327349",
       "pib:2327353",
       "pib:2327351",
       "pib:2327362",
@@ -38932,6 +38936,7 @@
       "gazette:CG-DL-E-13112026-277870",
       "gazette:CG-DL-E-13112026-277871",
       "gazette:CG-DL-E-13112026-277872",
+      "page:https://www.pmindia.gov.in/en/news_updates/visit-of-pm-to-manila-philippines",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9290-of-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-babulal-khalas-pan-bzvpk9515p-_105712.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-november-11-2026-issued-under-rc-no-9290-of-2026-drawn-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-babulal-khalas-_105710.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9228-of-2026-issued-against-fulabhai-bhitor-pan-dylpb2813q-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105708.html",
@@ -39371,7 +39376,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63967",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-importance-of-properly-assimilating-dharma-wealth-food-a-gurus-teachings-and-medicine",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-warm-greetings-to-the-nation-on-the-commencement-of-the-four-day-chhath-mahaparv",
-      "page:https://www.pmindia.gov.in/en/news_updates/visit-of-pm-to-manila-philippines",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63968",
       "pib:2335680",
       "watch:meeting:LS|22655",
@@ -39487,7 +39491,8 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-cosmos-mysuru-planetarium-indias-first-led-dome-planetarium-in-mysuru-karnataka",
       "site:ai:ISRO|https://www.isro.gov.in/Hosting_of_20th_International_Committee_on_GNSS.html",
       "pib:2336026",
-      "pib:2336031"
+      "pib:2336031",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-the-loss-of-lives-in-the-mishap-in-golaghat-district-of-assam"
     ],
     "source_failures": {
       "CBI": {
@@ -39562,116 +39567,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Widespread Microsoft outage disrupts global businesses and governments",
-      "post": {
-        "created_at": "2026-11-13T13:41:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1794577260058",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "WSJ",
-        "reposts": 0,
-        "text": "Widespread Microsoft Outage Roils Businesses, Governments",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmhaT0diNlVIZzI4Mm1nSUpIV0RSeDJrM0RYYVIydVRzUzNHM2ZmcW40UjE2eW5xeEc4ZVROeGlBaTlUbl9hUXN5N0VrVHlHRnpvQ09odWw4RVNCZFBXTUxhWHNvWm1MSG1nV0doS191NHIyeXFMT09wbDY2YldsTDB3?oc=5"
-      },
-      "queued_at": "2026-11-13T14:46:02.927524+00:00",
-      "score": 8.0,
-      "why": "Significant global infrastructure disruption affecting multiple sectors."
-    },
-    {
-      "headline": "Elon Musk's xAI cuts Grok video generation team",
-      "post": {
-        "created_at": "2026-11-13T14:00:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1794578400855",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Information",
-        "reposts": 0,
-        "text": "Elon Musk\u2019s AI Group Guts Grok Video Generation Team",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHVlMmkxWGNtSXFvTWktZzFWV1BfTUo3ZnVTck54QmtjOWRTaVNpQjJKLWF4TmZJN1ZpRjhDNUphTUcydHBJQ29ZWWxvN2dfV1R6eXR0d0NTTWdvNmhwWG1hQThURWcydDVkdURKLWd5bk13d0VNQnMyN2o0OUlldDBKR2JSZ2l6NTAzcmJNQ0k3dDdlaXc?oc=5"
-      },
-      "queued_at": "2026-11-13T15:03:20.222278+00:00",
-      "score": 7.0,
-      "why": "This is a significant restructuring and layoff event at a major AI company."
-    },
-    {
-      "headline": "US Treasury blames Commerce Department over Nvidia-Megaspeed scandal",
-      "post": {
-        "created_at": "2026-11-13T14:49:48+00:00",
-        "handle": "News: Global chips",
-        "id": "1794581388155",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "US Treasury chief blames Commerce Department over Nvidia-Megaspeed scandal",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSjNqSHJCMXJuNW9SdU5xWTJSejBIbmtrQnhUbzgyT2dMdnlmNTItZTFNTDZ1ZGVaR3Y0SzR0Z0JKd3dYNzJ6VC1nclBrUUVPOFlTV2ZNYi02el9uOWpNQVgyald6UFFnWW5EZ3pXWUhfX1M1UGl4YnZmMUJ1UlVoVnNWaTBaTjN2MHZtY09IV1ZPWVJMVjBVSThkV1M1UG9RYkJmcDhuR2ktR184QmFXOWNDU2p6bHZlMmZIWXZHMmZ0SHQ3UExNU0YyNNIB0AFBVV95cUxQTkNSNFB0U1FjTjVyeFBWQ09jUWNEcGY2Y2s1UmFNaURLbmlPLURkbkl1SFQ5WnB0QUNiaGJzQnRGb1BObno2MzBoMTNDWGVoa2NCajk3ZGNoVV9ySXpBWlg5OS1TRUxxTVlsMEdkMjYybG1xRlF3b1RCby1SRWl4Y29ieVZCWlh5eU9vWW53Mm02XzFkcEVzWnNYZ0tkZ3dBdVZiYkx4RTJvbFJjN3FxUmkyZUNLYnFQRm9wNEI0VzNZVGFNVE5DZHk1SkNDQVhy?oc=5"
-      },
-      "queued_at": "2026-11-13T15:03:20.222278+00:00",
-      "score": 7.0,
-      "why": "This is a significant political development regarding the ongoing Nvidia regulatory investigation."
-    },
-    {
-      "headline": "OpenAI launches ChatGPT Wallet for AI agent purchases",
-      "post": {
-        "created_at": "2026-11-13T15:00:01+00:00",
-        "handle": "News: Global AI",
-        "id": "1794582001447",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC",
-        "reposts": 0,
-        "text": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5"
-      },
-      "queued_at": "2026-11-13T15:16:42.885690+00:00",
-      "score": 8.0,
-      "why": "A significant new product launch from a major AI company is a wire story."
-    },
-    {
-      "headline": "Zetwerk H1FY27 revenue grows 33% to \u20b98,717 crore",
-      "post": {
-        "created_at": "2026-11-13T14:49:49+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1794581389882",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "Zetwerk H1FY27 revenue rises 33% to \u20b98,717 crore, Ebitda jumps 69%",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQkkxLXN1aHlTNjJESmI5UWV4S1VKY3VZZlNhcXhlLTcwZGNUS25HSFBablJDcWE0RExsZTVuSnpYTEh0cUxldjVaakRmWklsRW1MTldDNWw1cnhncXZyMUYzaDhrN1JFMHMzNWE0WWRJX1VlVTdzV1lCdHJOOHVwREFGdFZnWWhMZ3ZWQWxudkNCUmRKNGVsc21peXhkRGk0QWU3SmlKbTFQQ0ZFZXpaaGdNdHNKRjJGd2c3U1JKNFBhWDkwOWl2SmJBcC1pNnR4RW8telYyNmRia1pm0gHiAUFVX3lxTFBZUG1HUVU4eW5CUXJ3N3dqWlNJVzhCSlE4a28tTFdvNmY2c0ZBSk54N3RDYnNTVUw5bXVEaUpGSzZIS0IxekFBZDJHQTZwM0RvLTNBVzFHZm9IakxrTEtLempZdTY5QnB3eU8wZkVJVnBOa0lORXRGT2M1Vi1QNXZwZWxWblR0VWZabDZ4dDRwaVoxaHh0QkNFaFA1aHVQVEs3bW1sUV9yb0JsUHZ4ZnVjZW9wODMtS3QyWUxVM2JQMTgtb2dtcDJxYVdsNXRsei1YU0ZlYzNVV2NGSm53dEtfX1E?oc=5"
-      },
-      "queued_at": "2026-11-13T15:16:42.885690+00:00",
-      "score": 7.0,
-      "why": "Quarterly financial results for a significant manufacturing and tech-enabled firm are reportable."
-    },
-    {
-      "headline": "Jio Financial targets 100 million customers in one year",
-      "post": {
-        "created_at": "2026-11-13T15:03:45+00:00",
-        "handle": "News: India telecom",
-        "id": "1794582225774",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Fortune India",
-        "reposts": 0,
-        "text": "32 million customers in 3 years: Jio Financial to accelerate to 100 million target in one year",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRG4xTTNsT0F2N01yMDVYSEREUGFGeWIwbVdwbklmNVo4Zy1QaEZoLS03eUxRR2hGT0RwNDV1TlBodmNnSk5mNGZHX3ZBNmQ4eWpvTzRCNDFfZnJEYVlSR2J0WVNqSWNGemdlWE5jcGFtUlFtSjhqOWtSTG5ZTkhZdDNzTFBLTmRPbm9kWXlndGVfMmlGN1R0MzBTN3dET21BOE4zR21aUlZ3V29SVFNFdWh6V2gzMTA1TDM1V3ZoTVZBbk5UbU9HVnpSLWQ0bTJsc1BNLVBYNnVneDDSAegBQVVfeXFMT0RwYUd5WW9objREQXdMaUdMZVQ0dEZ0alhUYkE2bzMxVTFQcjRzNVlRdTVzWFFPVEZfdmlMRWZEMVJIeTJXOVdkVlJTUGtVRVVMd1VPZmdqck5BOHVXU3NzMmJ3MmVtSzdvMklYUy13ZElQZGlqay16YkJ2cm5EcThlQWxDN1R4UERiRGdFN0hwWS1uWHo2VHlwbWRQU0VsYUdRazl6dF9lQU1JeFEybVZsYk1jWDRkRjlmbk9fTmNkeEN2OUpzV0VtaVVYeEZqdGhYUkJKcGVlNzBCMU5qOFFXQXBuOWNrcA?oc=5"
-      },
-      "queued_at": "2026-11-13T15:16:42.885690+00:00",
-      "score": 7.0,
-      "why": "A major Indian financial services firm setting aggressive growth targets is news for the IT/Fintech beat."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40864,8 +40760,8 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1794582300416,
     "news: consumer internet india": 1794572784673,
-    "news: global ai": 1794582566325,
-    "news: global chips": 1794581388155,
+    "news: global ai": 1794583278822,
+    "news: global chips": 1794582663834,
     "news: global it services": 1794579776302,
     "news: india ai deeptech": 1794581389882,
     "news: india edtech gaming": 1794575345720,
@@ -40874,9 +40770,9 @@
     "news: india tech policy": 1794572422024,
     "news: india telecom": 1794582225774,
     "news: indian it majors": 1794565980218,
-    "news: indian it midcaps": 1794571111896,
+    "news: indian it midcaps": 1794571250286,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794582663153,
+    "news: tech leaders": 1794582663834,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794513600791,
@@ -40921,7 +40817,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-13T15:16:43.344781+00:00",
+    "last_server_run": "2026-11-13T15:31:26.908146+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-13T14:46:44.737338+00:00",
@@ -54309,7 +54205,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-13T15:18:29.277472+00:00",
+    "last_run": "2026-11-13T15:32:14.840411+00:00",
     "seen": [
       "x:2118963257126084941",
       "x:2118964165603987789",
