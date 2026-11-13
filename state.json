@@ -1,66 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-02T15:31:24.814616+00:00",
-      "handle": "News: India tech policy",
-      "headline": "News body seeks legal shield for journalists under DPDP law",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnIwNzZCcGhfMkI3VGNzQXBaNXNDRFo3NEpaRVh6Ukk2UGFoZzZOcHU4VUh0ZVpidmJJM2hUZlh1VUg5TUtIcGN2V1dWRFR0QUxySVZpdkdMT3VMY1VHUUtibVdMakpGMk5kWGxYdElVcEhES3dIX0tuN19aVXpuSGM5ZXQ1emRTcXptc1RENmxUTzF4alBoakFzMmZNN2hBOGpzangxUXEyZUh3MFNOcGhrQjkwR1AwMk13eDh30gHDAUFVX3lxTE9XcmVQQXFFUUswVDdJZ0ZVQWVPLVN0VTZRcjRaOXNmQzkyTW9adFJFWWJTYnpycC1BRThtTkF5UlRFbmNjc3BrdmRWNUtNSEJCcC16dHlYRTktWkxrLXpIQTJRSThGQjBkQm5CU3ZuaU5sdUFsRFBzMU9NOVFtRmJhTUV6cWJ6Y2lmRE1aOVhsaXpITzdCUmNvenc4VUh4Tjlua0ZoSEgzSWVRZnNFYlp4RXE0SGxoTVREVXR0dUlCTnFacw?oc=5",
-      "words": [
-        "body",
-        "can",
-        "data",
-        "hamper",
-        "journalists",
-        "law",
-        "legal",
-        "news",
-        "reporting",
-        "seeks",
-        "shield",
-        "under"
-      ]
-    },
-    {
-      "at": "2026-11-02T15:31:24.814616+00:00",
-      "handle": "News: India fintech",
-      "headline": "MobiKwik expects UPI MDR to add Rs 100 crore in FY28",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOc3BBVE0zSmFQYXV3NmdJUFdNb05LemlUcFoyUmcyeFk2X2tud1M5VkFnNXk1U3JORDZxUFIwWjhMbFpodXdpS19HbVJPYXZYNVh5S0JlQWYtNjAtVVQ2akYxUmUtQWJnZnJMbXkwbEdDc1RucThHTVloVDFkRGhhUzEwSEtsT2E3QWV6am80Q2gtM1ZiQnk0M1pLUGpDNDh6RUhZbUoyQWhfa0xZd0VfNnpidTNKb25YVkQ0STVLT0RLR2VQcFdXY0htSHBRTk10YXdIb21oeHVTRFVM0gHiAUFVX3lxTE9BaEF0S0dhQjkwVV9icW40MXh1RW9ONW1IZ3F1aDlMTlhHc3YxUFU5NUN0cHVoamdlTlI2dTRIMEpoRXNhOW13X29rYTJRR1lfY1AwNHlnakYtbWE3bVpOSU0zeENrMEtUaE9Bb1F2Y3dGYnNtWlJTRHlsSGVwcUhkRDY3OFRjb2ExZDRLdW1kTkEybTVUVDBCVDdXNEJtbmpLMWhHUkY2VzRJNTZGMUZ3bHItX2YydVNEV2VEVllQMDhTQTZ2U0V5LVBQTUsxbFBsNWZaV1RWVlBvTkJrdGw5MXc?oc=5",
-      "words": [
-        "100",
-        "add",
-        "expects",
-        "fy28",
-        "mdr",
-        "mobikwik",
-        "payment",
-        "revenue",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-11-02T16:31:37.269949+00:00",
-      "handle": "News: India telecom",
-      "headline": "TRAI amends consumer framework with fines up to \u20b920 lakh for telcos",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOS1yTFAtbUlZSF9tQUxNSk0xVXRwdk5RcjJNSVZHSjZKVXhuSlMtRkhycjVWRmloajdPZ2VCZ2tRcUJ3OVVKNWIza0R4bGxfODBnTVZMUGZ5aXRkNHJjOVdCM2h3MEJMVGNUU3BqUmhaYjIycVdrYjUwUXBUQ0lEc3VYQlJ6OHRxdzduVkJMU2NUWXJNTG5kV3VWby1mSVJONzZTb19fMm5EZzRvdEM1RDZOMkJMcnVHNzRvelIwUXc1Zm9Hdl9kWmNCdUowRlpobFBIS2tBWXJRcU1sT29BQ3dKWHhpNDhXUk9tTTcxY1BvTkdjVVJMNWlvV3VCWUJh0gGHAkFVX3lxTE5nX2xNV2t0QzJjUGVicVJId1FKaE1LSEFmUHNpaFFES2pCRDRFUU5nSms0YTdYbmVJSmtralk1dEY1MGg5amJ4R0ZuYkFHXzJBbDhmUWdlU2MybmExeDdFMmkyS2xQVjF5U1FyVlNZbHJReFU0dUFyQkJod3U1RDFvdjd1cDlLamFMOFNrNzY4ODNVMFBMU29UQ3VrRmZ6aVJJWnJmY0o0TE94c0poSHBmMWVRYlVrOFBIYlJSTWRNYlZvSmZFeGpYQjZtelNFQkgxTDJXSWctWEFmSFdTZ0NDangyZUZXVXEwc05mZm5SeTB6QUJLbDQyQkcxUTBqWE5DYzZ6dE1V?oc=5",
-      "words": [
-        "amends",
-        "area",
-        "consumer",
-        "fine",
-        "framework",
-        "lakh",
-        "per",
-        "quarter",
-        "redressal",
-        "service",
-        "telcos",
-        "trai"
-      ]
-    },
-    {
       "at": "2026-11-02T16:31:37.269949+00:00",
       "handle": "News: India AI deeptech",
       "headline": "Defence Ministry signs Rs 54,000 crore corvette deal",
@@ -7407,6 +7347,61 @@
         "physical",
         "use",
         "woes"
+      ]
+    },
+    {
+      "at": "2026-11-13T03:32:03.960762+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "India pushes for indigenous naval systems including electronics",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVEzejh0UTladjI4M3FQNW9QVlJzOVRGM0lVcFFaSFJFY2hXLS1MenlyazNiSDRsVUQxSDhSTHdxSEVWNGFBMG9hXzdLOW5hM3RjUmZTdU5CeTNiN2d3MmlLQzZzaDlSVkNUdDBETXFYVFdxV1dxTVFLWW9NTVpVZkZOZFdUaEtUNVkzVDcyR25QeHF0aFVoUVItTzRKeDhlWTROQnNyNXJ4U1ZHdUpXajExa3hhem_SAb8BQVVfeXFMTnk3Ny1QNzVCb0p3N2ZrRFNsaTFqOUhjd2kwSnBtZnJOQzFCX1QxN09SY3NKbkpQVlFUSEM5VDdLNkc3eGhuczBvcHhvMTFfekprOS1PenRwclBKT0NfTXYxWUl2bkE2am5IR1RFaU1fUkFXOTdLQWhBS0EzN1VhZDNpTDRzeDNHOTFiRmNsS2NxeWFVdy11blhDMWkxWno3a3NralFaR2xkcjdCcWt4UlhZcEtLUVBNNnFVbGM1amc?oc=5",
+      "words": [
+        "electronics",
+        "hulls",
+        "indigenous",
+        "naval",
+        "pushes",
+        "systems",
+        "warship"
+      ]
+    },
+    {
+      "at": "2026-11-13T03:32:03.960762+00:00",
+      "handle": "News: Tech leaders",
+      "headline": "US probes Alice Huang links to China smuggling",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWU0yVktfakx2QVNaSm9qWDVLb1dEenNWbkZ3MkpORnBXM1B5WThWeXBsS2VMZjBXa1hCdVVDRFlvWlJpcnZjMGt3QlVQSmNqcFhpcTF0YTRaRVJieWxSYk9uZVBnY1R6NjRObmVNQ1c5b3ZYWHdHOW1ERzhYUmVrN1hUNk1WeTQ0U2k4alRLQzRsd3BqdmtjOW1qcTNXM3p2eVJSSTFpRlJrbTh5akRPSG9BVXRfZVlzUEszRHdzQ2xvYlpPZmUzOXpsYnhXNmtuRVdwbGd2RV9sZVB1TUlTRUQ2SjcwYWpCZDN0SWdSTdIB9AFBVV95cUxPYVdSMmdIckpvbThKRWhhV2loUm1OSEg4T3FkQm1uY3ZHYzJZSFJyaUQ0NTM3cVVQMU9PcWs1ZXZTdDVsak1TdzF3RHY3SDFSMFZPX0d4M2hzU2NlTTJ1LTJnMnZ4Z3pxa3ZXYm9KQzktYUVRY0ZtV2JWTUNqeU9yRlBmYi1WOTRzWk93T2tVUHFKOWtFQTE5X2FOYldLMU12eUNGOWlWYUFKMTJzRXB4TmU5cmtHVnB4eHdFa1pXd09rU0JBVmh5T1NXTUdFME45a3ZiSWFqc195TDRyTFdZSExZVTU5VlcwN1g3N1JIdlViZ3NN?oc=5",
+      "words": [
+        "alice",
+        "china",
+        "huang",
+        "into",
+        "jensen",
+        "links",
+        "micro",
+        "probes",
+        "scandal",
+        "smuggling",
+        "super",
+        "suspected",
+        "widens"
+      ]
+    },
+    {
+      "at": "2026-11-13T03:32:03.960762+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft outage impacts Australian intelligence and federal police agencies",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0x3UHpOT2FfZW9tc1Zia0F3NmNsZzUzUUJqd25Kcl9JdUFlOVhOMEFXR2ctazRoVXlkMFF4V1hIbGlLdnNQc3ZMRlBTeGZBVmxwSGx6a2cxVXgtZDhFUE80WFkxLUhfRjNMRmhtcGZvaGxlWjItSXpibmVXSkxrT1N4eWI4U3JzRDJnTXQ0SzBTMkFTYnBKT3JBWEQ1V0RMNzFoRDR6ckdvSTVRekw1SlU5SQ?oc=5",
+      "words": [
+        "agency",
+        "australia",
+        "federal",
+        "hit",
+        "microsoft",
+        "outage",
+        "police",
+        "spy"
       ]
     }
   ],
@@ -17161,10 +17156,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-13T03:17:03.368558+00:00",
+    "last_run": "2026-11-13T03:33:15.071887+00:00",
     "pib_mark": 2335665,
     "seen": [
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-rc-no-8924-of-2025-issued-against-yuvika-tradewing-llp-pan-aabfy4620r-in-the-matter-of-cressanda-solutions-limited_105287.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1576-2026-issued-against-r-s-ramani-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8709-of-2025_105290.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1575-2026-issued-against-venkatachari-suresh-in-the-matter-of-securekloud-technologies-ltd-under-rc-no-8710-of-2025_105292.html",
       "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
@@ -19695,6 +19689,7 @@
       "watch:bulletin:RS|2026-11-12|Bulletin Part-II",
       "site:ai:ISRO|https://www.isro.gov.in/Ground_test_of_third_stage_of_PSLV_PS3.html",
       "site:ICC|https://www.icc-cricket.com/media-releases/sri-lanka-scotland-start-with-dominant-wins-on-day-1-of-icc-women-s-emerging-nations-trophy-2026",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63956",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-an-interaction-with-women-self-help-group-members-at-mega-rythu-mela-meeting-hall-hakeempet-kodangal-vikarabad-district-2/",
@@ -20100,7 +20095,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-the-nation-on-the-occasion-of-bhai-dooj",
       "dgft-notification:58145d8f-19de-4e3a-b7ba-95fdb2ed5ea4",
       "page:https://internal.imd.gov.in/press_release/20261111_pr_5481.pdf",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63956",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%B9+2026+%E0%A4%95%E0%A5%87+%E0%A4%A6%E0%A5%8C%E0%A4%B0%E0%A4%BE%E0%A4%A8+%E0%A4%A6%E0%A5%87%E0%A4%B6+%E0%A4%AD%E0%A4%B0+%E0%A4%AE%E0%A5%87%E0%A4%82+16+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%A3+%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%B0+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%97%E0%A4%BE+_+IRDAI+to+organise+16+Grievance+Redressal+Camps+across+the+country+during+Grievance+Resolution+Month+2026.pdf/0e29a3e6-924e-1b82-f5a6-97ca5bc3b64f",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-extension-of-aqua-line-metro-rail-corridor-from-noida-sector-51-to-greater-noida-sector-04-of-route-length-of-8-449-km-with-5-stations",
       "mea:41939",
@@ -20163,7 +20157,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168789",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-kisan-tak-bharat-agriculture-conference",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-kisan-tak-bharat-agriculture-conference-2026",
-      "mea:41945"
+      "mea:41945",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63966"
     ],
     "source_failures": {},
     "sources": [
@@ -20224,18 +20219,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1793945023961",
-    "1793945441514",
-    "1793947228063",
-    "1793985419009",
-    "1793988407668",
-    "1794000480105",
-    "1794019048761",
-    "1794019380626",
-    "1794020400900",
-    "1794029520703",
-    "1793946579096",
-    "1793947920974",
     "1793947979317",
     "1793959399030",
     "1794010872260",
@@ -24650,7 +24633,6 @@
     "1794516557231",
     "1794519300135",
     "1794519752515",
-    "1794524220678",
     "1794527240148",
     "1794529860223",
     "1794530021284",
@@ -24695,13 +24677,25 @@
     "1794536863283",
     "1794453037487",
     "1794492000478",
-    "1794520800273",
     "1794528300933",
     "1794533272826",
     "1794534339750",
     "1794535200583",
     "1794536760897",
     "1794537482118",
+    "1794453701080",
+    "1794493286775",
+    "1794502501787",
+    "1794510726755",
+    "1794513491986",
+    "1794518580786",
+    "1794520320430",
+    "1794522240449",
+    "1794533215666",
+    "1794535200328",
+    "1794536159067",
+    "1794536740610",
+    "1794538440799",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25940,7 +25934,6 @@
     "1794441600801",
     "1794448980489",
     "1794453440706",
-    "1794453701080",
     "1794454520001",
     "1794455293443",
     "1794455476920",
@@ -26021,7 +26014,6 @@
     "1794492478889",
     "1794492533130",
     "1794493205296",
-    "1794493286775",
     "1794493656635",
     "1794493739978",
     "1794494671994",
@@ -26041,7 +26033,6 @@
     "1794500178096",
     "1794500384166",
     "1794501961104",
-    "1794502501787",
     "1794502800264",
     "1794502800518",
     "1794502800754",
@@ -26065,11 +26056,9 @@
     "1794510219445",
     "1794510501744",
     "1794510720057",
-    "1794510726755",
     "1794511620231",
     "1794511800615",
     "1794512071174",
-    "1794513491986",
     "1794513496310",
     "1794513600731",
     "1794513660059",
@@ -26091,27 +26080,27 @@
     "1794517860899",
     "1794517920034",
     "1794517937263",
-    "1794518580786",
     "1794519067814",
     "1794519358250",
     "1794519660515",
-    "1794520320430",
     "1794520500605",
     "1794520630275",
+    "1794520800273",
     "1794520860997",
     "1794521168319",
     "1794521280479",
-    "1794522240449",
     "1794522540791",
     "1794523078201",
     "1794524100792",
     "1794524161785",
+    "1794524220678",
     "1794524400964",
     "1794524520776",
     "1794524880303",
     "1794525296265",
     "1794525420591",
     "1794525437059",
+    "1794525621634",
     "1794525853244",
     "1794525986421",
     "1794526511992",
@@ -26138,7 +26127,6 @@
     "1794531634377",
     "1794532465380",
     "1794532620302",
-    "1794533215666",
     "1794533320883",
     "1794533411188",
     "1794533411394",
@@ -26149,15 +26137,17 @@
     "1794534728397",
     "1794534780059",
     "1794534874333",
+    "1794534900267",
     "1794534939186",
     "1794534960219",
     "1794534981271",
     "1794535020294",
     "1794535063717",
+    "1794535138543",
     "1794535200209",
-    "1794535200328",
     "1794535260727",
     "1794535320239",
+    "1794535353328",
     "1794535380033",
     "1794535380988",
     "1794535680622",
@@ -26165,29 +26155,34 @@
     "1794536090264",
     "1794536100324",
     "1794536153650",
-    "1794536159067",
     "1794536170383",
     "1794536616530",
+    "1794536640090",
     "1794536733184",
-    "1794536740610",
     "1794536760390",
     "1794536807837",
     "1794536960108",
     "1794537000291",
     "1794537080028",
     "1794537171454",
+    "1794537171493",
     "1794537549430",
     "1794537949727",
     "1794537967514",
     "1794538112615",
     "1794538204424",
     "1794538228594",
-    "1794538440799",
     "1794538749118",
     "1794538769360",
     "1794538818812",
     "1794538991060",
+    "1794539280805",
+    "1794539354495",
     "1794539533083",
+    "1794539640979",
+    "1794540141282",
+    "1794540146601",
+    "1794540240786",
     "2331589",
     "2331704",
     "2331803",
@@ -26225,8 +26220,8 @@
     "2335323",
     "2335423"
   ],
-  "last_digest_hour": "2026-11-13T08",
-  "last_success": "2026-11-13T03:16:04.016717+00:00",
+  "last_digest_hour": "2026-11-13T09",
+  "last_success": "2026-11-13T03:32:04.010007+00:00",
   "national": {
     "alerted": [
       {
@@ -36435,10 +36430,9 @@
       },
       "warned": "2026-11-13T00:46:40.541582+00:00"
     },
-    "last_run": "2026-11-13T03:16:43.377181+00:00",
+    "last_run": "2026-11-13T03:32:56.585723+00:00",
     "pib_mark": 2335665,
     "seen": [
-      "quake:ncs:Tnp2YzQzY2E3dGo4RURKNVVaTm5WZz09",
       "quake:usgs:us6000u44n",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
       "site:GDACS disaster alerts|http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573141",
@@ -38905,6 +38899,7 @@
       "watch:bulletin:RS|2026-11-12|Bulletin Part-II",
       "site:ai:ISRO|https://www.isro.gov.in/Ground_test_of_third_stage_of_PSLV_PS3.html",
       "site:ICC|https://www.icc-cricket.com/media-releases/sri-lanka-scotland-start-with-dominant-wins-on-day-1-of-icc-women-s-emerging-nations-trophy-2026",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63956",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9267-of-2026-drawn-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-s-_105679.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9230-of-2026-drawn-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrat-_105675.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9229-of-2026-drawn-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-se-_105677.html",
@@ -39377,7 +39372,6 @@
       "dgft-notification:58145d8f-19de-4e3a-b7ba-95fdb2ed5ea4",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-valedictory-ceremony-of-the-second-batch-of-deputy-superintendent-of-police-dsp-2025-at-dr-mcr-hrd-institute-hyd/",
       "page:https://internal.imd.gov.in/press_release/20261111_pr_5481.pdf",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63956",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%B9+2026+%E0%A4%95%E0%A5%87+%E0%A4%A6%E0%A5%8C%E0%A4%B0%E0%A4%BE%E0%A4%A8+%E0%A4%A6%E0%A5%87%E0%A4%B6+%E0%A4%AD%E0%A4%B0+%E0%A4%AE%E0%A5%87%E0%A4%82+16+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%A3+%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%B0+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%97%E0%A4%BE+_+IRDAI+to+organise+16+Grievance+Redressal+Camps+across+the+country+during+Grievance+Resolution+Month+2026.pdf/0e29a3e6-924e-1b82-f5a6-97ca5bc3b64f",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-stand-up-india-scheme",
       "mea:41939",
@@ -39437,7 +39431,8 @@
       "quake:ncs:LzZ5cUVDNFVHQ3NEbThES1ZMb25RUT09",
       "quake:usgs:us7000txvw",
       "quake:usgs:us7000txwp",
-      "quake:ncs:RVBtb01VbmljZ0t6NHcyWFY3WVdpZz09"
+      "quake:ncs:RVBtb01VbmljZ0t6NHcyWFY3WVdpZz09",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63966"
     ],
     "source_failures": {
       "CBI": {
@@ -39508,44 +39503,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "India pushes for indigenous naval systems including electronics",
-      "post": {
-        "created_at": "2026-11-13T02:25:40+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1794536740610",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV",
-        "reposts": 0,
-        "text": "Warship Hulls To Electronics: India Pushes For Indigenous Naval Systems",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVEzejh0UTladjI4M3FQNW9QVlJzOVRGM0lVcFFaSFJFY2hXLS1MenlyazNiSDRsVUQxSDhSTHdxSEVWNGFBMG9hXzdLOW5hM3RjUmZTdU5CeTNiN2d3MmlLQzZzaDlSVkNUdDBETXFYVFdxV1dxTVFLWW9NTVpVZkZOZFdUaEtUNVkzVDcyR25QeHF0aFVoUVItTzRKeDhlWTROQnNyNXJ4U1ZHdUpXajExa3hhem_SAb8BQVVfeXFMTnk3Ny1QNzVCb0p3N2ZrRFNsaTFqOUhjd2kwSnBtZnJOQzFCX1QxN09SY3NKbkpQVlFUSEM5VDdLNkc3eGhuczBvcHhvMTFfekprOS1PenRwclBKT0NfTXYxWUl2bkE2am5IR1RFaU1fUkFXOTdLQWhBS0EzN1VhZDNpTDRzeDNHOTFiRmNsS2NxeWFVdy11blhDMWkxWno3a3NralFaR2xkcjdCcWt4UlhZcEtLUVBNNnFVbGM1amc?oc=5"
-      },
-      "queued_at": "2026-11-13T02:46:10.517678+00:00",
-      "score": 7.0,
-      "why": "Government policy push for indigenous defense electronics and systems."
-    },
-    {
-      "headline": "US probes Alice Huang links to China smuggling",
-      "post": {
-        "created_at": "2026-11-13T02:59:29+00:00",
-        "handle": "News: Tech leaders",
-        "id": "1794538769360",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Jensen Huang scandal widens: US probes Alice Huang links to suspected Super Micro smuggling into China",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWU0yVktfakx2QVNaSm9qWDVLb1dEenNWbkZ3MkpORnBXM1B5WThWeXBsS2VMZjBXa1hCdVVDRFlvWlJpcnZjMGt3QlVQSmNqcFhpcTF0YTRaRVJieWxSYk9uZVBnY1R6NjRObmVNQ1c5b3ZYWHdHOW1ERzhYUmVrN1hUNk1WeTQ0U2k4alRLQzRsd3BqdmtjOW1qcTNXM3p2eVJSSTFpRlJrbTh5akRPSG9BVXRfZVlzUEszRHdzQ2xvYlpPZmUzOXpsYnhXNmtuRVdwbGd2RV9sZVB1TUlTRUQ2SjcwYWpCZDN0SWdSTdIB9AFBVV95cUxPYVdSMmdIckpvbThKRWhhV2loUm1OSEg4T3FkQm1uY3ZHYzJZSFJyaUQ0NTM3cVVQMU9PcWs1ZXZTdDVsak1TdzF3RHY3SDFSMFZPX0d4M2hzU2NlTTJ1LTJnMnZ4Z3pxa3ZXYm9KQzktYUVRY0ZtV2JWTUNqeU9yRlBmYi1WOTRzWk93T2tVUHFKOWtFQTE5X2FOYldLMU12eUNGOWlWYUFKMTJzRXB4TmU5cmtHVnB4eHdFa1pXd09rU0JBVmh5T1NXTUdFME45a3ZiSWFqc195TDRyTFdZSExZVTU5VlcwN1g3N1JIdlViZ3NN?oc=5"
-      },
-      "queued_at": "2026-11-13T03:16:03.949596+00:00",
-      "score": 7.0,
-      "why": "A significant development in the ongoing Nvidia/China-related national security investigation."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40735,20 +40693,20 @@
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
     "news: big tech platforms": 1794539533083,
-    "news: consumer internet india": 1794538749118,
-    "news: global ai": 1794538991060,
-    "news: global chips": 1794538818812,
+    "news: consumer internet india": 1794540141282,
+    "news: global ai": 1794540146601,
+    "news: global chips": 1794540240786,
     "news: global it services": 1794532478380,
     "news: india ai deeptech": 1794501961104,
     "news: india edtech gaming": 1794525437059,
     "news: india fintech": 1794538112615,
     "news: india semiconductors": 1794505827609,
-    "news: india tech policy": 1794537549430,
+    "news: india tech policy": 1794539354495,
     "news: india telecom": 1794536153650,
     "news: indian it majors": 1794538991060,
     "news: indian it midcaps": 1794536740610,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794538818812,
+    "news: tech leaders": 1794540240786,
     "nvidia": 1794492059604,
     "nvidia blog": 1794492059604,
     "openai": 1794513600791,
@@ -40775,7 +40733,9 @@
     "zoho": 1794484711441
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-13T03:31:56.370391+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40793,7 +40753,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-13T03:16:04.505233+00:00",
+    "last_server_run": "2026-11-13T03:32:04.339664+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-13T01:33:03.896119+00:00",
@@ -53444,12 +53404,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-13T03:16:53.017665+00:00",
+    "last_run": "2026-11-13T03:33:02.386372+00:00",
     "seen": [
-      "x:2118544449550856302",
-      "x:2118544493146497084",
-      "x:2118544884709863443",
-      "x:2118545162418987422",
       "x:2118545928651206943",
       "x:2118546439618093363",
       "x:2118546642794357116",
@@ -56445,7 +56401,11 @@
       "x:2121077202196570536",
       "x:2121077451375915144",
       "x:2121078514413973659",
-      "x:2121078920330228044"
+      "x:2121078920330228044",
+      "x:2121079354734399788",
+      "x:2121079538398666862",
+      "x:2121079581688176728",
+      "x:2121081653854683370"
     ],
     "source_failures": {},
     "sources": []
