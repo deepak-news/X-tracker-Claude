@@ -1,175 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-02T23:31:23.375782+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Apple posts strong Q4 revenue under new CEO John Ternus",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNC1QQUxNVG5GNHdHNWRMZFhydGtCTnlwcmhFOEgtTzZuMXN1QnBUOXVIeW1EWDBrZy15enZwdXloYVFLVjR3UEhsUU16RmpiWDdSLXR4T0RmcnJKdVgxUFJXYi1rQ250SVpVWHdPV2pETEhOM2VVX3BMLXFZeU9XSng4enU4VWhBZDdNVlRSTVM?oc=5",
-      "words": [
-        "apple",
-        "ceo",
-        "earnings",
-        "expected",
-        "first",
-        "john",
-        "posts",
-        "report",
-        "revenue",
-        "stronger",
-        "ternus",
-        "than"
-      ]
-    },
-    {
-      "at": "2026-11-02T23:31:23.375782+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic appoints Macquarie and CommSec for Australian IPO retail offer",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFVoMTZZOUNjaTJVTkxTNFRWR2pwTWVPZmx4QkxoU2JzcTdZdmFjMjl3dmMySEN5ZjNNdFp5NFRqZ2FJeFc5OHJDZlRjWHJQNXptUWpmVnEtMzVhT1NJck5TSlRTN0tmLUxRSmhyYWVYaFl0dkVNUHQwQVRKeGhKLVJXeVA2VUN5U1N2Vmo0bkNZOV9KYllrYUtRcHZ0aUF5SFZidktLNWUxQkU4YmdWN3JlWUI?oc=5",
-      "words": [
-        "anthropic",
-        "australia",
-        "commsec",
-        "ipo",
-        "macquarie",
-        "offer",
-        "retail",
-        "taps"
-      ]
-    },
-    {
-      "at": "2026-11-02T23:31:23.375782+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI hires former US Army secretary for military AI expansion",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVIwNmtWSjgyZ3BiQUV2akNTSzVrQnQyeTVVSEtua3BBVXpiQURSQmsyVzVwY2R3QTdOTWZER24xTTBPay0ybXl6RzBPdmtzOVdPbnR4dmtDOEliZWtyQUZwVjhtN1h4VVo4c09iVTMweVVYUmdSdjUyeEtNZXpOYXdFTk4?oc=5",
-      "words": [
-        "army",
-        "expand",
-        "former",
-        "hires",
-        "military",
-        "openai",
-        "secretary",
-        "seeks",
-        "use"
-      ]
-    },
-    {
-      "at": "2026-11-03T02:31:25.019668+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI India user base doubles alongside Rapido growth",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdUtNQmlFQmphOWl3Q0xrZHQtb184Z3l4bkloTi0xemNoV1ZvaWhrLVNRUVBqUmt6bmdkY3BDYlpQWktOV2NQVFhzeHBLUnRfN3dwMXVJNVNscGNiVmhGemZoVmZWVGlFMzJ4c3hSWXJMSUtqSVBFWERxU3Y3bWZLTUZEdUdmLVJocTl2RlBCZVVkdnFBcEx2QjdQRDUxNFNlTUtDWjFPQ2pTb1Z1S1JHbTFqQnJaT3VHNmpYbkZtSFhsaVkyN3QtUndFMGtKZ1dTdXJweGl2V0PSAd4BQVVfeXFMT2FwclU5VVBNNDJBM1VQbGtMNUlpdHdEVmZTN0pBODJTcDdwaE1INGFGOUtPeU1oWXpSTmpyY05LMWlzVm9HNGMxd0RSWnlKSWszUXBQQTRZWTc3VVAtX282aGlxa3UwZVhrOU04eUN2c2xUb2t1ekRwTll6eE5DUnNmSFB5RFBPbVZwTS1HS0w5Ny1LSjlwbkxUZENLZFFqMmdDY2tFOGFBMlA3RjVKNEFITzMwak9IdHQtNy1Nbl8wQWhPR0xhd3d0VXhTU2pFUm9PRWJnX2ttVVYxMk1B?oc=5",
-      "words": [
-        "base",
-        "doubles",
-        "gov",
-        "openai",
-        "quadruples",
-        "rapido",
-        "user"
-      ]
-    },
-    {
-      "at": "2026-11-03T02:31:25.019668+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Apple posts all-time revenue record in India",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdmZkZk1mbWMzX2JFcGpQYUItV0p4Nzc4akQyZ2dUcjdtdGxfTHlwdERUdGlucnVpczg4dGNCbVpTa19FanNxWFJXLXJSZV9rWUpRU0NsVVJ2c01OY3dlakJVWWRXZ3Bfd0xLVDBtVGhnMDF6LUpzZ0dCcTNFZmtJMWJFOUpoMlgteXlOSFRGaTlxQTE2enN1elVVSk1vLUhva3RpdUhFYmYwRXNqWTRRU1h4Zk5JTC1sQlpVdzZnWm5kb0RSRnQ2dzhFb1ZOSERVXzJmT1c0eWpxUdIB3wFBVV95cUxQV29uU1d2QkJ3TmZLMEJiWFNyVl9PRF9rdEluZ1NGYTkyWWlKRjFwWWQ4Yzc2Y0stMXJqZl81a2NSMkl6TDlzcFBjV1dxZkdncmFUMnlfTVd6YXh3VnhPb3puTUQ1WjNMT2VkdmRWMXR2NUtMVXRIMThFWmZDQUFCRlFWRS1sMlktUTRoRjVuZUtxR2NnMXZ4cWFYVm1pTFNHbl9ncXpqVjhvT2o4djJ6b0tyVFRzcHlhTDA3MnNoS2pidTY4aWtXQkwyM0ZiZDZFVFZXYXFBWDZqR1J2ZnpZ?oc=5",
-      "words": [
-        "114",
-        "all",
-        "apple",
-        "billion",
-        "global",
-        "posts",
-        "record",
-        "revenue",
-        "rise",
-        "sales",
-        "time"
-      ]
-    },
-    {
-      "at": "2026-11-03T03:31:22.175623+00:00",
-      "handle": "News: India fintech",
-      "headline": "MobiKwik posts Q2 net profit of Rs 11.83 crore",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcnFJTWpBdFhZNUl4aVBhcktaeHpFcVJtWEZQSjBwZWVqQnlicy1tVXhiOHlsSlYyM2dpQXJaVG9oZlNBRHJNYWlINGYzNmRvbG1DaHFKWEphMmZSNFFBZDlZaGNTTFdtaW5UcGpDTEhlV1NmN2dnZGxoUXZFSFFKanRma2dGdThZRENGT2xTUTNueDJTRS1XWmI0X3FWZmkwOTVYdkVBSTUteHphekY0Y2hBSmdxMFE0?oc=5",
-      "words": [
-        "female",
-        "growth",
-        "jobs",
-        "lacks",
-        "mobikwik",
-        "profit",
-        "quality",
-        "reports",
-        "workforce"
-      ]
-    },
-    {
-      "at": "2026-11-03T04:31:39.998434+00:00",
-      "handle": "News: India fintech",
-      "headline": "Agrani Labs in talks to raise $100M from Stargazer, Google, Peak XV",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbWxtSHFteWlwS0xGckd5ZFIxSXpvV3lucDNraVZmU1k3UjlVNXMxdkhmc3B2bDZrNm12dWxISVlnbUNlWDlRWjc5UzdFcnB6T09WOXJISTl3enZJMkJ3MFpnYWoxMGpWOU1GSVhmSldOSEpFX05ORDFHM2xVQ2MxQWNITlR0RXlpYW04QU5LM3E4aHV6R2didm56NjBRZk5xRUpHZ1gyTkFBbzlnWFFpNmh1bTBtb2VYcThKVEZhR1paWmJGQ2U0Yk9lajd4dk43MDUyeElTdm1xV210LXp4UlJGQ3FvTFZNOEQtY3E3TTNZb0N3dVHSAfsBQVVfeXFMUDRKTkt0MWFWQlVvMnFaM1otLUdLY2JSV1phM2UtcUdZQ0NSNmRxZmZmcFhwei1BeGQyNzljcnZZbEt3ZUphMWxnVW9IeFNGaUVPZXlsWm1CQkd6SDloRng4dmFBc1d0eE8yczE4bF92bUhTdC1YbUJSVWN3VEJpQjh0ekdHdjIwS2xKcnVNcGt5RE9VaWdDQ0J3bk84ZnB5OGtqREFHTFZTUmM3OHA0ZWJmVVBCZkZCQW5yRkVRQWNmVG1uX0d4cUJ2ZmVZdmZLV2NpNmFIWmJVeVJPaXktam9MRjQtdy0ySWsxN2t1U2ZGbmt5a1YtSHpkME0?oc=5",
-      "words": [
-        "100",
-        "agrani",
-        "founders",
-        "fund",
-        "google",
-        "groww",
-        "labs",
-        "million",
-        "others",
-        "peak",
-        "raise",
-        "stargazer",
-        "talks"
-      ]
-    },
-    {
-      "at": "2026-11-03T04:31:39.998434+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI partners with Cathedral to accelerate AI vulnerability detection",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcUNidDVZME1jcVpWc0VlY0lxUmR5c1huSjZ2MDNKcUJxLU9XZWdyM250clRkTm1WejZHeDhNcWlRclpXa3FlUld1dF9QRXJtTmMwMzJfZ1FxTGxKb2JvNnd0SXF2Y21Da3BKRGVfM3BFTmFQNlRwUFUyRGFCS29OeU13aUNjdmlzMVB3Sk1UN3lIYlNPdUxFZjRkUTROYWV6VWtGSVlNUDRVVjlWOGF1V2k5TFowM3JscnZDV1pXeEdfS1V1b3BoRXpaNFB0b0toekZza1FJdWp0a0ZkaEVFN3FOZ9IB6AFBVV95cUxNeFNRdXR4eW1jSXhZc1FoRUVwZFhmZWx4cE9GMzJjQVo3bHNWeEVVVm1CV0h1el92MWpEemR4MER6N00xR3pHcHZRZVFiVF81aGlVRTlxZjVlMjJiT2EzUlk4RUZINlliYTZnUWF6STNCZjVFRGZqS25mUGtRVXJYWkF1MFo1eVhNR3kxaE1OUUVXeXkyRmR1WGN5NTQwbVdOa3M1MDlYVEpLZjZReld5WHR4YllGQksyRkRFVGRvZWtSY0llT3ZTWlJjU2xwbnIwcjdOREVhclF0VDYwNlZjVmc1aVJwNl9l?oc=5",
-      "words": [
-        "boosts",
-        "bounties",
-        "bug",
-        "cathedral",
-        "faster",
-        "find",
-        "fix",
-        "flaws",
-        "openai",
-        "teams"
-      ]
-    },
-    {
-      "at": "2026-11-03T04:31:39.998434+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI launches LifeVal benchmark for everyday AI task evaluation",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYzZKcENpTENjb0pxNENuTzVXa25qRi1MZ0dpNFh3WGRwNlhNNVR1MGM0WDUtY0RsRFJ0NGd2SzlaUzYtVjRVaDcwckJVaUkxd1ZTYkg0NHMxa2Y4YUNpSWx1ZnMyX25pTWRqbG1maGV6cGFKUm5MNmQ1cklaLTZXTDFCaU1tMEVYSElVX0dEY1BtSjA5djZFV1UySzYySmY5SENueHQ2ZUFJbnI4cExCSHEzczlnd0pSVU5weXladkQ2cUVGaWFha3ltT0FyZkt2TVhj?oc=5",
-      "words": [
-        "benchmark",
-        "everyday",
-        "handles",
-        "introduces",
-        "lifeval",
-        "openai",
-        "tasks",
-        "test",
-        "well"
-      ]
-    },
-    {
       "at": "2026-11-03T05:31:24.268127+00:00",
       "handle": "News: Global AI",
       "headline": "OpenAI hires former US Army secretary Dan Driscoll for security role",
@@ -7409,6 +7240,169 @@
         "skai",
         "support",
         "urgent"
+      ]
+    },
+    {
+      "at": "2026-11-13T07:31:35.871579+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Vishay Intertechnology and Kaynes Semicon form India chip manufacturing JV",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSkxTSHgxbC1wbDY1eHNCMmpLS3F2ZHk0Ti1qVWktRmFWVVNVbkVDSkc3d3FhM2hvcmNiUEhQM2tFdERuQ3FCT0trMDVLY05OM1dIenZMU3F5UlYyNm9nSHRKamR4a3JvX0lpeE5saGVhVEd0ajVOWk9LTmduV3VSejBlNHg4dXdycHNNQ3FBN2w3OXpJbDNqNUhSc05TME82OF8zMVFFYTlUMHU0TmVyaVVGZjZGZUtHZG5zLUhRR0ppMUZVNE5IUTRvbUxPOFpFSUYwRms4UThrbWN6OVpVYjYtblVIVl9Fb3dWVdIB8AFBVV95cUxOZEk1NEk0UmRmTGgyQWJfNGFUN09wblZSOU5sWC1BclRLNzZpVmZsVDF1dWkzTEdBZEZHMnhlYnJIaGxxOEMtd3ZMWTZ2d3BST3A3dVZPUlBESURvVU9EU1llNnRYck8zNlIzaWtrVXZuT2RDajdSR25oSktaVndyR2t1RTd3Q2wwRjZjSDBjY1k0c1AzeW1MNzN2bkh6TTU2WXlHbll1N2J0b2J3a3luODRKekxlLW5ONUlIRjlzYlc4TnFDcjRGdUpWbXdHZnlkMDRKd0pIRTNCZ0o2amM4dTk2cm5tdHhWOVZjWHIwMmY?oc=5",
+      "words": [
+        "chip",
+        "form",
+        "intertechnology",
+        "kaynes",
+        "manufacturing",
+        "semicon",
+        "vishay"
+      ]
+    },
+    {
+      "at": "2026-11-13T07:31:35.871579+00:00",
+      "handle": "News: Global AI",
+      "headline": "Microsoft 365 outage causes global disruptions to AI services",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbnFJdVlmSTBqeTgxVGJ0X0t6emhsU0ZMeUZGV0w2ZDhKcncwRkNNOTNtZTIyS3ZoMlpoakJtc3hPRE5nUU9ORDBtT3JjTmpQNmdaOEZKX2VBNS1DXy1zaXJxWnhhRmk2QjlPR2ZKNFNoU0plUnY2NFNxS0ZmYUZiQ3NOcENUVXhLZWU0Vms2ajBiTngxZ3V3YWxRakhZYV94OEdNSGRiYmYtOHJjT0dVNDNmQUJwLS1TTXRCRVhYQmx1THQzT2dENm9iLWZJTl9menfSAdcBQVVfeXFMTU1mVmN3cVhJQUFoWWZsRFd1YUxBeG0wTHhJckh6ZFotQWY0ZG9ENFVBNWp5U3RNYW9XemRlXzVTUkJ0cmtmTGRodWhvRzJLQ0pVeElsaEtnemNZT3hZSjJ5X1V1TTJKWGNBWkNtbXY5bXNaY1JuaTJZbUtJYklGbnNvRkFMQ0ZyUTB3bG9zUktPalA4eWdhY0wzVGlwa29CeWlQaFVBdFpEOXlxWW5rbTU0eW5HdnBZQUdfWTZuVjZEQmpqMlRpMVRWM0xIa0t3WTBPZmdhekE?oc=5",
+      "words": [
+        "365",
+        "anthropic",
+        "disruptions",
+        "face",
+        "hit",
+        "microsoft",
+        "openai",
+        "outage",
+        "services",
+        "take",
+        "thousands"
+      ]
+    },
+    {
+      "at": "2026-11-13T07:31:35.871579+00:00",
+      "handle": "News: India fintech",
+      "headline": "Razorpay AI stops 8x more international card fraud",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSlJFSDd6T1VUWU5sWFRfNTkyd0g3SVdHdnFabkFyY0Q5bkpEQzVZRk01VHdjaXZpbHVqMVdSVWxyQnBJNVNTZXA1bXFCcl9uV0YxLUx2ZzZ1V1dFejhGaEhIekZ0Z3kzUF8weEROOHlybmhrM0JQdFdjRzhRVUlhTVliUjVDNWE1LU5Lc053VDVNbjlZQzNHSFpqcDMybVZNeDRTYUduVzRQVDVBRE9PRFdPUVJJcVMzVTdRNmJueVQ5RjhJUmlyYkRTT2x2Z2taMF9JcFVKT0oycGFHWEE?oc=5",
+      "words": [
+        "card",
+        "early",
+        "fraud",
+        "international",
+        "model",
+        "more",
+        "payments",
+        "razorpay",
+        "results",
+        "stopped",
+        "vulcan"
+      ]
+    },
+    {
+      "at": "2026-11-13T07:31:35.871579+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft outage disrupts Delhi airport operations, three flights cancelled",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNblV6SExqQlg4ck41ZFdhRU5KOXI2b2Nha28zT0dGcU0zWlZ0dzJ1RHFOdW5TQW5JR015Vmtjd0ZacjdIT2dxS1NVNldydmhwUi1NQnItcUt6Z0FQb00tSHhJb0VRbE5VNFJMaXU0WVhZdU01M05HVHY4dkxGRnU5WHlKRHlNYmxXY1E5VTdDSHVuZmkySG5BVUNNeVdkWlFpbXBRRmRJR0hIZVdnVXUwMElhY9IBuwFBVV95cUxPdkp4SERnSk1PZUxBdHdwek9Wbk1MU3dmdTJRYnFidXRZbUlsNW9OWWdpaUExbkJ3aTljazA3dElPQ2Y0eERxbmlRTWtkdVZxQ1Nub0Q0cTdRYUtqMUNQYjBscXRLZkNCV2ZjRS1haVkwMnhyQllDeFppN2IxSjg3Qm1yaWV5M0c4NVdwYmpKMWM0Z0FIREt6em5NTU4wVFpPcWVoR041UFhQUEJ3QUs1NHEwYTVtdGE1SXl3?oc=5",
+      "words": [
+        "airline",
+        "cancelled",
+        "delayed",
+        "delhi",
+        "flights",
+        "hits",
+        "microsoft",
+        "ops",
+        "outage"
+      ]
+    },
+    {
+      "at": "2026-11-13T07:31:35.871579+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft reveals technical cause behind worldwide service disruption",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRThvZnVfdDdjQVNLVDFtT0o5RHVmeUJ2RUVpazdySEJRd0dNd2VUZERLMTNHSzVfRWVQMS04ZmREUE9JcVdHcENvdmhuNkhiazNIQmJTZGFBTkI4YlM2LUJ2OGI5LTJwdkxIdFVvU1I4Y0RWMGtKZ1FabUc5REdMQ3NWeTVYNHpteHRLSDE2VndsdUdQV0JzeHRGSExZMHRyVXkycEtxYUg0MV9Ma281cTlEVHpUN09FMG90d1lBUHhteEI1dldBc3Q1QmZoYTZvQWlPeGJ5bnVxNmJH0gHiAUFVX3lxTE0yLWtNRHhjal9yM0c1OGdycGNLMzAzeElDaXNfV2pBZ2g2MHczc2NTcjNaaVNGOEtqSzJ2OE41cTZJUjhhSkZqMnhtdE13dC1aSm5BQy1xUXdmT1FVNWhTOGFwWElkMEVfeGt6eTNwemFQTWlmTlcxSTU5RFdRaEs1czRMWUs0Ym52LUFvME5ITWRpSkU5aEJicDlSTUREZERIc0xFb0ZLNUJHMDZVTzkzVjhjWTBqTS1CVktUbU9WbEtKUUlYdHpuTE8xQUx4VDltSWpVd3lCa0E3a0JIWGNtNWc?oc=5",
+      "words": [
+        "caused",
+        "disruption",
+        "here",
+        "microsoft",
+        "outage",
+        "reason",
+        "went",
+        "worldwide",
+        "wrong"
+      ]
+    },
+    {
+      "at": "2026-11-13T07:31:35.871579+00:00",
+      "handle": "News: Global AI",
+      "headline": "Samsung secures additional AI chip orders from US cloud providers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbXVLQzd3VDM1eUxxUjVTWVl2ZjY3b05ZdHdRS1daeE45elo0M1RaVjFsYlFINmZJWU5yREhvSjVQSWQ4MGtZMDg2WXo0WjlXRk44MjJ0bFZoamhKMTFNcHBGNTR4SFBDSEhac2V1TC1TczROWkpJV3ptc3NRUDhPUGo1T3l6UERmRDJBY0o3RTZ1MXZPbE05VkM2UUQ0QQ?oc=5",
+      "words": [
+        "chip",
+        "cloud",
+        "firms",
+        "more",
+        "orders",
+        "reportedly",
+        "samsung",
+        "wins"
+      ]
+    },
+    {
+      "at": "2026-11-13T07:31:35.871579+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft EVP Charles Lamanna clarifies cause of global outage",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNSDE5NjZJX2RQNlhvZUx0SW9vQ0E4UTFjTFFKUDluSXZuV2g3LVF0M2FGZm8xMlZQUXdMTVBXX2JuYlYtWlN2STc5dV92RGE1UmgwYVhodDZJZjd4dEdiaXNaUlJjVU1UOWtjNW1zUlV4WS1WVU9KMGpJTUJjZ2NST0d1dWRIa2dxMjctZlhOVVNvck4zdXhKaUZnQlRwekx3ZkVwOUEzc0ZqU2RSNDJHVG5uSVI2a0ZjbDFaaUQ1VVNrSU5Uc0N3Yk5YaEVia1VSaU8wdEdVcmc5NFhwYUZNc3FQVkNtQWlSTFJramNiVHBFY1RFTTdEODV2SldWdXJGSndiMUE4ZFRNMm53ZVQ2S3d2WGduOW5HdDMtMW9pYnpZN1hiTG5rc2FBZHZESHRwSU1UNWstOVBNNkowTk1XUTdIZDRaWjVoYkx2MnBpUEUxNldC0gHaAkFVX3lxTE5Ia2M5d2xvX3YxUm80amU0TEpKYkVndXd6NmtLdFU4X2xRRHM2TThyaHRfdEx5a0R6RXFwZlpvU2pxcXZnaHh4ZDRoazRHb2pfeGt5Sk9IZzhqTHB1dFBoREI4clhLRTJzRC1Jc0tiSXFuYlNrNEx3S2I4M2N3dWlfZWpKOTk0TVNXXzRfb2NPMEFIWmxUSTJNdERXb0dwbGphLWozRGxLQ2Q5NFVtdWlWdWZudXZMX05lSjBaYjNieW0tNndaSVRTaUd5OFFjbHZuYlVKRUQ1bUU0bkVSbHFnS3p4emt1UUpWRy05djdfeV9yUW01c0NTSGRVTXhRUGtEbldYc0JrUXFnYnhSdnhIeGNET016TXNYQ3NFa2ZsbF9ScEFUbjhWeGRfLXNoTjM4T3g1Z3o1di1xTXJxdVBra1dUSFBzZG9SaUZ2RHc3R2V6RXItZHJfOGc?oc=5",
+      "words": [
+        "charles",
+        "copilot",
+        "cyberattack",
+        "evp",
+        "lamanna",
+        "microsoft",
+        "outage",
+        "reveals",
+        "rogue",
+        "theories",
+        "viral"
+      ]
+    },
+    {
+      "at": "2026-11-13T07:31:35.871579+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft outage disrupts global markets and trading operations",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTRrc2phRjRxQzA1Q2h0QWMwZXNqT3VSd1hTWHVTT0w3alpOODhxM1FvYy1KYlhpUjE5V2N1aERhU2VNbkVLMktXcGgxeFVhempSYkdPWG9JbUdmNFBIYjVtWDBBY3h6eENWNVU0UjRjUWNnS3BpTks4TEQ5MFpVRzY3R2drTm1BeXJXMjQxVUxSUWZSbkZtUTRjSTRSZXkwX1hnMnkzd2hTVU5GZEVJSXV3?oc=5",
+      "words": [
+        "forces",
+        "gums",
+        "markets",
+        "microsoft",
+        "outage",
+        "phones",
+        "traders",
+        "use"
+      ]
+    },
+    {
+      "at": "2026-11-13T07:31:35.871579+00:00",
+      "handle": "News: Global IT services",
+      "headline": "Accenture India offers 26% bonuses while pausing salary hikes",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMkhwSFdEbGxwNFpUR1ZZSU9BaHByQUJPLTJWcE5qb0NJZHBMdDN0M1ZYV1RreEZKM0tXVl9WaGxYSWkwRlFBd2k3QWFkV25qSFFRWlVQTGc1eUtabGsySklFZkpiUTVuSnNKeTNRVzRPei1xX3lMZU5xcV9PMXFTak5RUzZpdXVmMmQweGp0ZkNCSVAwRmlfMmNINTQxSk80OGRaWkRBczM3a1NFcEZyZVJLaXBPUlVZUjVqQmVXTkladHQ4MHZMMDFOVQ?oc=5",
+      "words": [
+        "accenture",
+        "bonuses",
+        "hikes",
+        "hold",
+        "largely",
+        "out",
+        "rolls",
+        "salary"
       ]
     }
   ],
@@ -17162,9 +17156,11 @@
       "CG-DL-E-13112026-277870"
     ],
     "health": {
-      "down": {}
+      "down": {
+        "NITI Aayog": "2026-11-13T07:35:11.954362+00:00"
+      }
     },
-    "last_run": "2026-11-13T07:17:58.893492+00:00",
+    "last_run": "2026-11-13T07:35:13.091834+00:00",
     "pib_mark": 2335722,
     "seen": [
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ravi-kartik-budigina-on-winning-silver-at-the-asian-para-games",
@@ -19697,6 +19693,16 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168789",
       "pib:2335690",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-at-the-launch-of-development-projects-in-banaskantha-gujarat",
+      "feed:http://www.niti.gov.in/node/2446",
+      "feed:http://www.niti.gov.in/whats-new/newsletter-nitisandhan-october-2026",
+      "feed:http://www.niti.gov.in/node/2448",
+      "feed:http://www.niti.gov.in/node/2449",
+      "feed:http://www.niti.gov.in/node/2450",
+      "feed:http://www.niti.gov.in/node/2451",
+      "feed:http://www.niti.gov.in/node/2452",
+      "feed:http://www.niti.gov.in/node/2453",
+      "feed:http://www.niti.gov.in/node/2454",
+      "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-an-interaction-with-women-self-help-group-members-at-mega-rythu-mela-meeting-hall-hakeempet-kodangal-vikarabad-district-2/",
@@ -19846,11 +19852,6 @@
       "cci-pr:media-gallery|712",
       "cci-pr:media-gallery|718",
       "cci-pr:media-gallery|717",
-      "feed:http://www.niti.gov.in/node/2446",
-      "feed:http://www.niti.gov.in/whats-new/newsletter-nitisandhan-october-2026",
-      "feed:http://www.niti.gov.in/node/2448",
-      "feed:http://www.niti.gov.in/node/2449",
-      "feed:http://www.niti.gov.in/node/2450",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
@@ -20076,9 +20077,6 @@
       "mea:41928",
       "certin:CIAD-2026-0058",
       "mea:41929",
-      "feed:http://www.niti.gov.in/node/2451",
-      "feed:http://www.niti.gov.in/node/2452",
-      "feed:http://www.niti.gov.in/node/2453",
       "mea:41930",
       "dgft-public-notice:cf25d3dd-70a2-435b-9951-440dbf7f5792",
       "mea:41931",
@@ -20117,8 +20115,6 @@
       "mea:41942",
       "page:https://internal.imd.gov.in/press_release/20261112_pr_5483.pdf",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-ekalavaya-maodala",
-      "feed:http://www.niti.gov.in/node/2454",
-      "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
       "gazette:CG-DL-E-12112026-277855",
       "gazette:CG-DL-E-12112026-277853",
       "gazette:CG-DL-E-12112026-277852",
@@ -20168,7 +20164,11 @@
       "watch:meeting:LS|22655",
       "pib:2335722"
     ],
-    "source_failures": {},
+    "source_failures": {
+      "NITI Aayog": {
+        "count": 1
+      }
+    },
     "sources": [
       "CCI",
       "CERT-In",
@@ -20227,15 +20227,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1793989018160",
-    "1794023324097",
-    "1794027070503",
-    "1793986268209",
-    "1793986383769",
-    "1793986702793",
-    "1793986980456",
-    "1793989892923",
-    "1794057110940",
     "1793988686065",
     "1793988768508",
     "1793992569999",
@@ -24486,7 +24477,6 @@
     "1794522240449",
     "1794533215666",
     "1794536159067",
-    "1794536740610",
     "1794538440799",
     "1794454520001",
     "1794492533130",
@@ -24681,8 +24671,6 @@
     "1794551580928",
     "1794467215570",
     "1794467313843",
-    "1794499740630",
-    "1794500178096",
     "1794505380785",
     "1794515754809",
     "1794519660515",
@@ -24693,6 +24681,17 @@
     "1794548244907",
     "1794551959704",
     "1794552562004",
+    "1794467863985",
+    "1794468619747",
+    "1794499576630",
+    "1794528900916",
+    "1794541980307",
+    "1794544094128",
+    "1794544096030",
+    "1794548367850",
+    "1794549827615",
+    "1794550867928",
+    "1794553930662",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25918,8 +25917,6 @@
     "1794448980489",
     "1794453440706",
     "1794463200567",
-    "1794467863985",
-    "1794468619747",
     "1794469484054",
     "1794469800692",
     "1794470155983",
@@ -25986,8 +25983,9 @@
     "1794498021927",
     "1794499200802",
     "1794499202090",
-    "1794499576630",
+    "1794499740630",
     "1794499811974",
+    "1794500178096",
     "1794500384166",
     "1794501360869",
     "1794501698489",
@@ -26043,7 +26041,6 @@
     "1794528453826",
     "1794528473636",
     "1794528791622",
-    "1794528900916",
     "1794529800071",
     "1794529800765",
     "1794530011599",
@@ -26072,6 +26069,7 @@
     "1794535866241",
     "1794536153650",
     "1794536616530",
+    "1794536740610",
     "1794537000057",
     "1794537000291",
     "1794537000724",
@@ -26095,7 +26093,6 @@
     "1794541452656",
     "1794541500885",
     "1794541743956",
-    "1794541980307",
     "1794542054539",
     "1794542070526",
     "1794542100430",
@@ -26112,8 +26109,6 @@
     "1794543360732",
     "1794543650314",
     "1794543801662",
-    "1794544094128",
-    "1794544096030",
     "1794544274809",
     "1794544320867",
     "1794544401056",
@@ -26139,7 +26134,6 @@
     "1794547440067",
     "1794547448456",
     "1794547727963",
-    "1794548367850",
     "1794548400058",
     "1794548729853",
     "1794548968599",
@@ -26154,8 +26148,8 @@
     "1794549551061",
     "1794549660752",
     "1794549672113",
+    "1794549806615",
     "1794549808989",
-    "1794549827615",
     "1794549841766",
     "1794550192012",
     "1794550254138",
@@ -26169,11 +26163,11 @@
     "1794550664067",
     "1794550757033",
     "1794550836118",
-    "1794550867928",
     "1794550892103",
     "1794550951205",
     "1794551071223",
     "1794551078219",
+    "1794551160572",
     "1794551474619",
     "1794551546996",
     "1794551640228",
@@ -26186,10 +26180,16 @@
     "1794552950671",
     "1794553072460",
     "1794553080735",
+    "1794553200306",
     "1794553240877",
     "1794553440667",
     "1794553740383",
-    "1794553930662",
+    "1794553857882",
+    "1794553868028",
+    "1794553871696",
+    "1794553985729",
+    "1794554297714",
+    "1794554541214",
     "2331589",
     "2331704",
     "2331803",
@@ -26228,8 +26228,8 @@
     "2335423",
     "2335690"
   ],
-  "last_digest_hour": "2026-11-13T12",
-  "last_success": "2026-11-13T07:16:30.181198+00:00",
+  "last_digest_hour": "2026-11-13T13",
+  "last_success": "2026-11-13T07:31:35.920985+00:00",
   "national": {
     "alerted": [
       {
@@ -36437,12 +36437,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NITI Aayog": "2026-11-13T07:33:36.172314+00:00",
+        "NPCI": "2026-11-13T07:33:36.172314+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-13T00:46:40.541582+00:00"
     },
-    "last_run": "2026-11-13T07:17:35.058077+00:00",
+    "last_run": "2026-11-13T07:33:37.276559+00:00",
     "pib_mark": 2335722,
     "seen": [
       "quake:usgs:us6000u451",
@@ -38912,6 +38914,16 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168790",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-at-the-launch-of-development-projects-in-banaskantha-gujarat",
       "quake:ncs:LzZ5cUVDNFVHQ3NEbThES1ZMb25RUT09",
+      "feed:http://www.niti.gov.in/node/2446",
+      "feed:http://www.niti.gov.in/whats-new/newsletter-nitisandhan-october-2026",
+      "feed:http://www.niti.gov.in/node/2449",
+      "feed:http://www.niti.gov.in/node/2448",
+      "feed:http://www.niti.gov.in/node/2450",
+      "feed:http://www.niti.gov.in/node/2451",
+      "feed:http://www.niti.gov.in/node/2453",
+      "feed:http://www.niti.gov.in/node/2452",
+      "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
+      "feed:http://www.niti.gov.in/node/2454",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9267-of-2026-drawn-against-s-s-traders-prop-mr-marvadi-parsotambhai-in-the-matter-of-trading-activity-in-the-s-_105679.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9230-of-2026-drawn-against-sonalben-amitbhai-khalas-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrat-_105675.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-dated-november-06-2026-issued-under-rc-no-9229-of-2026-drawn-against-rakeshbhai-k-pandya-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-se-_105677.html",
@@ -39080,11 +39092,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%60%E0%A4%B2%E0%A5%8B%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E2%80%99+%28%E0%A4%AA%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%29+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+%28%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95%29+%E0%A4%95%E0%A5%87+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A4%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%95%E0%A5%80+%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%AE+%E0%A4%A4%E0%A4%BF%E0%A4%A5%E0%A4%BF+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B5%E0%A4%A7%E0%A4%BF-%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B0+_+Press+Release+-+Extension+of+Last+Date+for+Submission+of+Feedback+on+Public+Insurance+Registry.pdf/48d94f36-bee8-e5bb-1853-4ed72bf72124",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF+%28%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%95%29+%E0%A4%95%E0%A5%87+%E0%A4%B0%E0%A5%82%E0%A4%AA+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%B6+%E0%A4%AA%E0%A4%82%E0%A4%A4+%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%BE+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%AD%E0%A4%BE%E0%A4%B0+%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%A3+_+Press+Release+-+Joining+of+Member+%28Actuary%29+-+Shri.+Dinesh+Pant.pdf/213483de-df84-0395-ac23-c276230ffd5e",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A8%E0%A5%87+%27%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%B9+%E0%A4%95%E0%A5%80+%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%86%E0%A4%A4+%E0%A4%95%E0%A5%80+_+Press+release+-+IRDAI+launches+Grievance+Resolution+Month.pdf/8ce3c236-bcac-e322-b3dc-551eda474012",
-      "feed:http://www.niti.gov.in/node/2446",
-      "feed:http://www.niti.gov.in/whats-new/newsletter-nitisandhan-october-2026",
-      "feed:http://www.niti.gov.in/node/2449",
-      "feed:http://www.niti.gov.in/node/2448",
-      "feed:http://www.niti.gov.in/node/2450",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "certin:CIAD-2026-0050",
@@ -39347,9 +39354,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A8%E0%A5%87+%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3%2C+%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%89%E0%A4%95%E0%A4%B0+%E0%A4%94%E0%A4%B0+%E0%A4%A1%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95+%E0%A4%AA%E0%A5%88%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%A8+%E0%A4%AA%E0%A4%B0+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B6%E0%A4%BE%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8+%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+_+IRDAI+organizes+Workshop+on+Aadhaar+Authentication%2C+DigiLocker+and+Dark+Patterns.pdf/a2c4ef83-aab2-1a67-e9b0-5eff1c400e9b",
       "mea:41928",
       "certin:CIAD-2026-0058",
-      "feed:http://www.niti.gov.in/node/2451",
-      "feed:http://www.niti.gov.in/node/2453",
-      "feed:http://www.niti.gov.in/node/2452",
       "page:https://www.cbse.gov.in/cbsenew/documents/Circular_Practical_Examination_Winter_Bound_05112026.pdf",
       "mea:41930",
       "dgft-public-notice:cf25d3dd-70a2-435b-9951-440dbf7f5792",
@@ -39402,8 +39406,6 @@
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-thammidikunta-cheruvu-restored-by-hydraa-at-madhapur-hyderabad/",
       "page:https://internal.imd.gov.in/press_release/20261112_pr_5483.pdf",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-ekalavaya-maodala",
-      "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
-      "feed:http://www.niti.gov.in/node/2454",
       "gazette:CG-DL-E-12112026-277855",
       "gazette:CG-DL-E-12112026-277852",
       "gazette:CG-DL-E-12112026-277853",
@@ -39450,6 +39452,12 @@
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "NITI Aayog": {
+        "count": 1
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39515,134 +39523,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Razorpay AI stops 8x more international card fraud",
-      "post": {
-        "created_at": "2026-11-13T06:33:00+00:00",
-        "handle": "News: India fintech",
-        "id": "1794551580928",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ANI News",
-        "reposts": 0,
-        "text": "8x More International Card Fraud Stopped: Early Results from Razorpay's Vulcan AI Payments Model",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSlJFSDd6T1VUWU5sWFRfNTkyd0g3SVdHdnFabkFyY0Q5bkpEQzVZRk01VHdjaXZpbHVqMVdSVWxyQnBJNVNTZXA1bXFCcl9uV0YxLUx2ZzZ1V1dFejhGaEhIekZ0Z3kzUF8weEROOHlybmhrM0JQdFdjRzhRVUlhTVliUjVDNWE1LU5Lc053VDVNbjlZQzNHSFpqcDMybVZNeDRTYUduVzRQVDVBRE9PRFdPUVJJcVMzVTdRNmJueVQ5RjhJUmlyYkRTT2x2Z2taMF9JcFVKT0oycGFHWEE?oc=5"
-      },
-      "queued_at": "2026-11-13T06:46:18.329267+00:00",
-      "score": 7.0,
-      "why": "This is a significant development in AI-powered fraud detection for the fintech sector in India, with quantifiable results."
-    },
-    {
-      "headline": "Vishay Intertechnology and Kaynes Semicon form India chip manufacturing JV",
-      "post": {
-        "created_at": "2026-11-13T02:57:25+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1794538645372",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Electronics",
-        "reposts": 0,
-        "text": "US' Vishay Intertechnology, Kaynes Semicon form India JV for chip manufacturing",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSkxTSHgxbC1wbDY1eHNCMmpLS3F2ZHk0Ti1qVWktRmFWVVNVbkVDSkc3d3FhM2hvcmNiUEhQM2tFdERuQ3FCT0trMDVLY05OM1dIenZMU3F5UlYyNm9nSHRKamR4a3JvX0lpeE5saGVhVEd0ajVOWk9LTmduV3VSejBlNHg4dXdycHNNQ3FBN2w3OXpJbDNqNUhSc05TME82OF8zMVFFYTlUMHU0TmVyaVVGZjZGZUtHZG5zLUhRR0ppMUZVNE5IUTRvbUxPOFpFSUYwRms4UThrbWN6OVpVYjYtblVIVl9Fb3dWVdIB8AFBVV95cUxOZEk1NEk0UmRmTGgyQWJfNGFUN09wblZSOU5sWC1BclRLNzZpVmZsVDF1dWkzTEdBZEZHMnhlYnJIaGxxOEMtd3ZMWTZ2d3BST3A3dVZPUlBESURvVU9EU1llNnRYck8zNlIzaWtrVXZuT2RDajdSR25oSktaVndyR2t1RTd3Q2wwRjZjSDBjY1k0c1AzeW1MNzN2bkh6TTU2WXlHbll1N2J0b2J3a3luODRKekxlLW5ONUlIRjlzYlc4TnFDcjRGdUpWbXdHZnlkMDRKd0pIRTNCZ0o2amM4dTk2cm5tdHhWOVZjWHIwMmY?oc=5"
-      },
-      "queued_at": "2026-11-13T07:01:27.472680+00:00",
-      "score": 8.0,
-      "why": "This is a significant new semiconductor manufacturing partnership in India."
-    },
-    {
-      "headline": "Microsoft outage disrupts Delhi airport operations, three flights cancelled",
-      "post": {
-        "created_at": "2026-11-13T06:49:22+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1794552562004",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV",
-        "reposts": 0,
-        "text": "Microsoft Outage Hits Airline Ops In Delhi, 3 Flights Cancelled, 2 Delayed",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNblV6SExqQlg4ck41ZFdhRU5KOXI2b2Nha28zT0dGcU0zWlZ0dzJ1RHFOdW5TQW5JR015Vmtjd0ZacjdIT2dxS1NVNldydmhwUi1NQnItcUt6Z0FQb00tSHhJb0VRbE5VNFJMaXU0WVhZdU01M05HVHY4dkxGRnU5WHlKRHlNYmxXY1E5VTdDSHVuZmkySG5BVUNNeVdkWlFpbXBRRmRJR0hIZVdnVXUwMElhY9IBuwFBVV95cUxPdkp4SERnSk1PZUxBdHdwek9Wbk1MU3dmdTJRYnFidXRZbUlsNW9OWWdpaUExbkJ3aTljazA3dElPQ2Y0eERxbmlRTWtkdVZxQ1Nub0Q0cTdRYUtqMUNQYjBscXRLZkNCV2ZjRS1haVkwMnhyQllDeFppN2IxSjg3Qm1yaWV5M0c4NVdwYmpKMWM0Z0FIREt6em5NTU4wVFpPcWVoR041UFhQUEJ3QUs1NHEwYTVtdGE1SXl3?oc=5"
-      },
-      "queued_at": "2026-11-13T07:01:27.472680+00:00",
-      "score": 7.0,
-      "why": "This is a direct, significant impact of the ongoing Microsoft outage on Indian infrastructure."
-    },
-    {
-      "headline": "Microsoft 365 outage causes global disruptions to AI services",
-      "post": {
-        "created_at": "2026-11-13T02:02:37+00:00",
-        "handle": "News: Global AI",
-        "id": "1794535357466",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Telegraph India",
-        "reposts": 0,
-        "text": "Microsoft 365 outage: Thousands face disruptions as OpenAI, Anthropic services take a hit",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbnFJdVlmSTBqeTgxVGJ0X0t6emhsU0ZMeUZGV0w2ZDhKcncwRkNNOTNtZTIyS3ZoMlpoakJtc3hPRE5nUU9ORDBtT3JjTmpQNmdaOEZKX2VBNS1DXy1zaXJxWnhhRmk2QjlPR2ZKNFNoU0plUnY2NFNxS0ZmYUZiQ3NOcENUVXhLZWU0Vms2ajBiTngxZ3V3YWxRakhZYV94OEdNSGRiYmYtOHJjT0dVNDNmQUJwLS1TTXRCRVhYQmx1THQzT2dENm9iLWZJTl9menfSAdcBQVVfeXFMTU1mVmN3cVhJQUFoWWZsRFd1YUxBeG0wTHhJckh6ZFotQWY0ZG9ENFVBNWp5U3RNYW9XemRlXzVTUkJ0cmtmTGRodWhvRzJLQ0pVeElsaEtnemNZT3hZSjJ5X1V1TTJKWGNBWkNtbXY5bXNaY1JuaTJZbUtJYklGbnNvRkFMQ0ZyUTB3bG9zUktPalA4eWdhY0wzVGlwa29CeWlQaFVBdFpEOXlxWW5rbTU0eW5HdnBZQUdfWTZuVjZEQmpqMlRpMVRWM0xIa0t3WTBPZmdhekE?oc=5"
-      },
-      "queued_at": "2026-11-13T07:16:30.126980+00:00",
-      "score": 8.0,
-      "why": "Significant global tech infrastructure failure affecting major AI platforms."
-    },
-    {
-      "headline": "Microsoft reveals technical cause behind worldwide service disruption",
-      "post": {
-        "created_at": "2026-11-13T06:20:36+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1794550836118",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Microsoft outage reason: Here\u2019s what went wrong and caused the worldwide disruption",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRThvZnVfdDdjQVNLVDFtT0o5RHVmeUJ2RUVpazdySEJRd0dNd2VUZERLMTNHSzVfRWVQMS04ZmREUE9JcVdHcENvdmhuNkhiazNIQmJTZGFBTkI4YlM2LUJ2OGI5LTJwdkxIdFVvU1I4Y0RWMGtKZ1FabUc5REdMQ3NWeTVYNHpteHRLSDE2VndsdUdQV0JzeHRGSExZMHRyVXkycEtxYUg0MV9Ma281cTlEVHpUN09FMG90d1lBUHhteEI1dldBc3Q1QmZoYTZvQWlPeGJ5bnVxNmJH0gHiAUFVX3lxTE0yLWtNRHhjal9yM0c1OGdycGNLMzAzeElDaXNfV2pBZ2g2MHczc2NTcjNaaVNGOEtqSzJ2OE41cTZJUjhhSkZqMnhtdE13dC1aSm5BQy1xUXdmT1FVNWhTOGFwWElkMEVfeGt6eTNwemFQTWlmTlcxSTU5RFdRaEs1czRMWUs0Ym52LUFvME5ITWRpSkU5aEJicDlSTUREZERIc0xFb0ZLNUJHMDZVTzkzVjhjWTBqTS1CVktUbU9WbEtKUUlYdHpuTE8xQUx4VDltSWpVd3lCa0E3a0JIWGNtNWc?oc=5"
-      },
-      "queued_at": "2026-11-13T07:16:30.126980+00:00",
-      "score": 7.0,
-      "why": "Official technical explanation for a major global infrastructure outage."
-    },
-    {
-      "headline": "Samsung secures additional AI chip orders from US cloud providers",
-      "post": {
-        "created_at": "2026-11-13T06:44:47+00:00",
-        "handle": "News: Global AI",
-        "id": "1794552287739",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Digitimes",
-        "reposts": 0,
-        "text": "Samsung reportedly wins more AI chip orders from US cloud firms",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbXVLQzd3VDM1eUxxUjVTWVl2ZjY3b05ZdHdRS1daeE45elo0M1RaVjFsYlFINmZJWU5yREhvSjVQSWQ4MGtZMDg2WXo0WjlXRk44MjJ0bFZoamhKMTFNcHBGNTR4SFBDSEhac2V1TC1TczROWkpJV3ptc3NRUDhPUGo1T3l6UERmRDJBY0o3RTZ1MXZPbE05VkM2UUQ0QQ?oc=5"
-      },
-      "queued_at": "2026-11-13T07:16:30.126980+00:00",
-      "score": 7.0,
-      "why": "Significant business development in the global semiconductor supply chain."
-    },
-    {
-      "headline": "Microsoft EVP Charles Lamanna clarifies cause of global outage",
-      "post": {
-        "created_at": "2026-11-13T06:58:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1794553080735",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Microsoft outage: As cyberattack and rogue AI theories go viral, Copilot EVP Charles Lamanna reveals what",
-        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNSDE5NjZJX2RQNlhvZUx0SW9vQ0E4UTFjTFFKUDluSXZuV2g3LVF0M2FGZm8xMlZQUXdMTVBXX2JuYlYtWlN2STc5dV92RGE1UmgwYVhodDZJZjd4dEdiaXNaUlJjVU1UOWtjNW1zUlV4WS1WVU9KMGpJTUJjZ2NST0d1dWRIa2dxMjctZlhOVVNvck4zdXhKaUZnQlRwekx3ZkVwOUEzc0ZqU2RSNDJHVG5uSVI2a0ZjbDFaaUQ1VVNrSU5Uc0N3Yk5YaEVia1VSaU8wdEdVcmc5NFhwYUZNc3FQVkNtQWlSTFJramNiVHBFY1RFTTdEODV2SldWdXJGSndiMUE4ZFRNMm53ZVQ2S3d2WGduOW5HdDMtMW9pYnpZN1hiTG5rc2FBZHZESHRwSU1UNWstOVBNNkowTk1XUTdIZDRaWjVoYkx2MnBpUEUxNldC0gHaAkFVX3lxTE5Ia2M5d2xvX3YxUm80amU0TEpKYkVndXd6NmtLdFU4X2xRRHM2TThyaHRfdEx5a0R6RXFwZlpvU2pxcXZnaHh4ZDRoazRHb2pfeGt5Sk9IZzhqTHB1dFBoREI4clhLRTJzRC1Jc0tiSXFuYlNrNEx3S2I4M2N3dWlfZWpKOTk0TVNXXzRfb2NPMEFIWmxUSTJNdERXb0dwbGphLWozRGxLQ2Q5NFVtdWlWdWZudXZMX05lSjBaYjNieW0tNndaSVRTaUd5OFFjbHZuYlVKRUQ1bUU0bkVSbHFnS3p4emt1UUpWRy05djdfeV9yUW01c0NTSGRVTXhRUGtEbldYc0JrUXFnYnhSdnhIeGNET016TXNYQ3NFa2ZsbF9ScEFUbjhWeGRfLXNoTjM4T3g1Z3o1di1xTXJxdVBra1dUSFBzZG9SaUZ2RHc3R2V6RXItZHJfOGc?oc=5"
-      },
-      "queued_at": "2026-11-13T07:16:30.126980+00:00",
-      "score": 7.0,
-      "why": "Official statement from a senior executive regarding a major service disruption."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40831,12 +40712,12 @@
     "microsoft india": 1794453440706,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794553930662,
+    "news: big tech platforms": 1794554297714,
     "news: consumer internet india": 1794552950671,
     "news: global ai": 1794552287739,
-    "news: global chips": 1794553740383,
-    "news: global it services": 1794547352277,
-    "news: india ai deeptech": 1794501961104,
+    "news: global chips": 1794553871696,
+    "news: global it services": 1794553868028,
+    "news: india ai deeptech": 1794554541214,
     "news: india edtech gaming": 1794525437059,
     "news: india fintech": 1794551959704,
     "news: india semiconductors": 1794538645372,
@@ -40845,7 +40726,7 @@
     "news: indian it majors": 1794545872689,
     "news: indian it midcaps": 1794544274809,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794553440667,
+    "news: tech leaders": 1794553985729,
     "nvidia": 1794492059604,
     "nvidia blog": 1794492059604,
     "openai": 1794513600791,
@@ -40892,7 +40773,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-13T07:16:30.566484+00:00",
+    "last_server_run": "2026-11-13T07:31:36.262384+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-13T06:02:43.000996+00:00",
@@ -53683,31 +53564,85 @@
           "1182",
           "151a"
         ]
+      },
+      {
+        "at": "2026-11-13T07:33:47.462420+00:00",
+        "headline": "Taxpayers with audited accounts must file income tax returns by 21 November 2026",
+        "url": "https://x.com/IncomeTaxIndia/status/2121140015602553052",
+        "words": [
+          "2026",
+          "accounts",
+          "audit",
+          "audited",
+          "completed",
+          "day",
+          "don",
+          "file",
+          "filing",
+          "gov",
+          "https",
+          "income",
+          "incometax",
+          "itr",
+          "klha8pv1ge",
+          "last",
+          "must",
+          "next",
+          "november",
+          "required",
+          "return",
+          "tax",
+          "taxpayers",
+          "their",
+          "until",
+          "visit",
+          "wait",
+          "whose",
+          "www",
+          "your"
+        ]
+      },
+      {
+        "at": "2026-11-13T07:33:47.462420+00:00",
+        "headline": "NPPA mandates strict price monitoring for 137 anti-cancer drugs",
+        "url": "https://x.com/PIB_India/status/2121144128339931332",
+        "words": [
+          "137",
+          "action",
+          "anticancerdrugs",
+          "authority",
+          "based",
+          "companies",
+          "controllers",
+          "directs",
+          "drug",
+          "https",
+          "implementation",
+          "latest",
+          "lists",
+          "monitoring",
+          "national",
+          "november",
+          "pharmaceutical",
+          "price",
+          "pricing",
+          "received",
+          "report",
+          "revised",
+          "state",
+          "strict",
+          "submissions",
+          "submit",
+          "taken",
+          "tmr",
+          "zx4dzfsmn6"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-13T07:17:43.955269+00:00",
+    "last_run": "2026-11-13T07:33:47.462640+00:00",
     "seen": [
-      "x:2118616142554280387",
-      "x:2118616160245862430",
-      "x:2118616718688075787",
-      "x:2118616917758116310",
-      "x:2118617203579002991",
-      "x:2118617279051231691",
-      "x:2118617380825993381",
-      "x:2118617534773760270",
-      "x:2118617567107670443",
-      "x:2118618224057372785",
-      "x:2118618254361166263",
-      "x:2118620160361939429",
-      "x:2118617819483116006",
-      "x:2118618865311813997",
-      "x:2118619351385289005",
-      "x:2118621722761159111",
-      "x:2118621912108814405",
-      "x:2118622310660010342",
-      "x:2118623747934720290",
       "x:2118623898178859501",
       "x:2118624202144305205",
       "x:2118624415760138484",
@@ -56688,7 +56623,26 @@
       "x:2121137716666716238",
       "x:2121137809339957708",
       "x:2121138310433443851",
-      "x:2121138444546261203"
+      "x:2121138444546261203",
+      "x:2121140015602553052",
+      "x:2121140262764523707",
+      "x:2121140715065639169",
+      "x:2121141230155542681",
+      "x:2121141258106310724",
+      "x:2121141280533307417",
+      "x:2121141317942264157",
+      "x:2121141457021260207",
+      "x:2121141752291876882",
+      "x:2121141968923459747",
+      "x:2121142243805553145",
+      "x:2121142476568465909",
+      "x:2121142898901008419",
+      "x:2121142994271338983",
+      "x:2121143234256932960",
+      "x:2121144011180421309",
+      "x:2121144031749263642",
+      "x:2121144128339931332",
+      "x:2121144281276789114"
     ],
     "source_failures": {},
     "sources": []
