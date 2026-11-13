@@ -7392,29 +7392,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-10-25T10:02:59.030624+00:00",
-        "handle": "PIB Ministry of Home Affairs",
-        "headline": "Narcotics Control Bureau launches major multi-state drug crackdown across the northeast",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328181",
-        "words": [
-          "across",
-          "affairs",
-          "against",
-          "assam",
-          "blow",
-          "drugs",
-          "government",
-          "home",
-          "launches",
-          "lethal",
-          "locations",
-          "manipur",
-          "ministry",
-          "mizoram"
-        ]
-      },
-      {
         "at": "2026-10-25T11:02:34.129786+00:00",
         "handle": "PIB Lok Sabha Secretariat",
         "headline": "Lok Sabha to host the 12th BRICS Parliamentary Forum in New Delhi.",
@@ -16148,9 +16125,30 @@
           "swachh",
           "urban"
         ]
+      },
+      {
+        "at": "2026-11-13T17:03:47.304952+00:00",
+        "handle": "Gazette Government of The National Capital Territory of Delhi",
+        "headline": "Delhi government mandates Aadhaar authentication for digital governance and service delivery platforms",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277900.pdf",
+        "words": [
+          "aadhaar",
+          "authentication",
+          "capital",
+          "delhi",
+          "extraordinary",
+          "gazette",
+          "good",
+          "governance",
+          "government",
+          "informa",
+          "national",
+          "territory"
+        ]
       }
     ],
-    "gazette_mark": 277896,
+    "gazette_mark": 277900,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -17165,17 +17163,17 @@
       "CG-DL-E-13112026-277892",
       "CG-DL-E-13112026-277893",
       "CG-MH-E-13112026-277895",
-      "CG-MH-E-13112026-277896"
+      "CG-MH-E-13112026-277896",
+      "CG-DL-E-13112026-277899",
+      "CG-UP-E-13112026-277897",
+      "SG-DL-E-13112026-277900"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-13T16:48:45.416930+00:00",
+    "last_run": "2026-11-13T17:03:47.373613+00:00",
     "pib_mark": 2336069,
     "seen": [
-      "pib:2327001",
-      "pib:2326994",
-      "pib:2327003",
       "pib:2326998",
       "pib:2326997",
       "pib:2327006",
@@ -19621,6 +19619,9 @@
       "gazette:CG-DL-E-12112026-277853",
       "gazette:CG-DL-E-12112026-277854",
       "page:https://www.pmindia.gov.in/en/news_updates/visit-of-pm-to-manila-philippines",
+      "gazette:CG-DL-E-12112026-277855",
+      "gazette:CG-DL-E-12112026-277857",
+      "gazette:CG-DL-E-12112026-277856",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -19651,10 +19652,7 @@
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_17052025023902PN-CM-Cabinet Decisions-06 May, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_dbf1be66-c31c-4fd1-af0a-4eb7b26aaf4d.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_abf4006d-c3da-463a-a04e-421c002bc6a1.pdf",
-      "gazette:CG-DL-E-12112026-277855",
-      "gazette:CG-DL-E-12112026-277857",
       "gazette:CG-DL-E-12112026-277858",
-      "gazette:CG-DL-E-12112026-277856",
       "gazette:CG-DL-E-12112026-277859",
       "gazette:CG-WB-E-12112026-277861",
       "gazette:CG-WB-E-12112026-277862",
@@ -20172,7 +20170,10 @@
       "site:ICC|https://www.icc-cricket.com/media-releases/sri-lanka-pakistan-maintain-winning-starts-on-day-2-of-icc-women-s-emerging-nations-trophy-2026",
       "pib:2336069",
       "gazette:CG-MH-E-13112026-277896",
-      "gazette:CG-MH-E-13112026-277895"
+      "gazette:CG-MH-E-13112026-277895",
+      "gazette:CG-UP-E-13112026-277897",
+      "gazette:SG-DL-E-13112026-277900",
+      "gazette:CG-DL-E-13112026-277899"
     ],
     "source_failures": {},
     "sources": [
@@ -20233,14 +20234,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794196858572",
-    "1794199834308",
-    "1794118727035",
-    "1794118917836",
-    "1794181707025",
-    "1794185593373",
-    "1794189963771",
-    "1794192180655",
     "1794193101791",
     "1794193909828",
     "1794194846343",
@@ -24654,7 +24647,6 @@
     "1794500178096",
     "1794535268209",
     "1794550050752",
-    "1794550664067",
     "1794553355924",
     "1794561045466",
     "1794565579721",
@@ -24677,11 +24669,21 @@
     "1794576893662",
     "1794578863393",
     "1794579719191",
-    "1794581388155",
     "1794582544393",
     "1794582566325",
     "1794583761771",
     "1794583820621",
+    "1794563940561",
+    "1794568475791",
+    "1794569455970",
+    "1794571232814",
+    "1794574393479",
+    "1794577099207",
+    "1794578640324",
+    "1794579113965",
+    "1794580980015",
+    "1794585612155",
+    "1794585986231",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26003,6 +26005,7 @@
     "1794550328131",
     "1794550424910",
     "1794550597295",
+    "1794550664067",
     "1794551078219",
     "1794551640228",
     "1794552765901",
@@ -26045,7 +26048,6 @@
     "1794563535479",
     "1794563563761",
     "1794563770072",
-    "1794563940561",
     "1794564108590",
     "1794564162719",
     "1794564276624",
@@ -26066,11 +26068,9 @@
     "1794567420594",
     "1794567653757",
     "1794567910407",
-    "1794568475791",
     "1794568996395",
     "1794569295572",
     "1794569354391",
-    "1794569455970",
     "1794569814032",
     "1794570437879",
     "1794570748422",
@@ -26078,7 +26078,6 @@
     "1794571111896",
     "1794571151109",
     "1794571202459",
-    "1794571232814",
     "1794571250286",
     "1794571343274",
     "1794571379306",
@@ -26099,7 +26098,6 @@
     "1794573172877",
     "1794573534654",
     "1794573860725",
-    "1794574393479",
     "1794574483106",
     "1794574842347",
     "1794574855246",
@@ -26116,7 +26114,7 @@
     "1794576300886",
     "1794576420639",
     "1794576425592",
-    "1794577099207",
+    "1794577087207",
     "1794577256375",
     "1794577541675",
     "1794577615366",
@@ -26125,13 +26123,11 @@
     "1794578409477",
     "1794578423653",
     "1794578520883",
-    "1794578640324",
     "1794578820954",
     "1794578868600",
     "1794578880044",
     "1794578880103",
     "1794579000603",
-    "1794579113965",
     "1794579145901",
     "1794579560018",
     "1794579589485",
@@ -26139,9 +26135,9 @@
     "1794579765482",
     "1794579776302",
     "1794580942641",
-    "1794580980015",
     "1794581040300",
     "1794581145342",
+    "1794581388155",
     "1794581389882",
     "1794581940292",
     "1794581972398",
@@ -26171,17 +26167,18 @@
     "1794584298267",
     "1794584315129",
     "1794584350916",
+    "1794584628814",
+    "1794584640502",
     "1794584724377",
     "1794585413618",
     "1794585419522",
     "1794585444951",
     "1794585480510",
     "1794585480816",
+    "1794585513612",
     "1794585600487",
     "1794585602888",
-    "1794585612155",
     "1794585964566",
-    "1794585986231",
     "1794586015297",
     "1794586213457",
     "1794586301393",
@@ -26192,6 +26189,10 @@
     "1794587326325",
     "1794587489416",
     "1794587785501",
+    "1794587820883",
+    "1794588060480",
+    "1794588295114",
+    "1794588901965",
     "2331589",
     "2331704",
     "2331803",
@@ -26235,55 +26236,9 @@
     "2335968"
   ],
   "last_digest_hour": "2026-11-13T22",
-  "last_success": "2026-11-13T16:46:24.398727+00:00",
+  "last_success": "2026-11-13T17:01:42.901871+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-09T12:20:53.452128+00:00",
-        "handle": "PIB Ministry of Communications",
-        "headline": "India partners with ITU for joint trials to combat cross-border telecom fraud",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2321418",
-        "words": [
-          "border",
-          "chandra",
-          "combat",
-          "communications",
-          "cross",
-          "fraud",
-          "itu",
-          "joint",
-          "minister",
-          "ministry",
-          "pemmasani",
-          "proposal",
-          "sekhar",
-          "state"
-        ]
-      },
-      {
-        "at": "2026-10-09T12:48:42.338679+00:00",
-        "handle": "RBI notifications",
-        "headline": "RBI changes daily minimum cash reserve maintenance requirement for scheduled banks",
-        "tier": 1,
-        "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13736&Mode=0",
-        "words": [
-          "001",
-          "1934",
-          "2026",
-          "247",
-          "290",
-          "act",
-          "bank",
-          "cash",
-          "change",
-          "daily",
-          "dor",
-          "maintenance",
-          "minimum",
-          "notifications"
-        ]
-      },
       {
         "at": "2026-10-09T14:03:44.380297+00:00",
         "handle": "PIB Ministry of Defence",
@@ -34774,9 +34729,49 @@
           "reported",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-11-13T17:03:11.882426+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.8 earthquake -- 79 km WSW of Changuillo, Peru.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a",
+        "words": [
+          "changuillo",
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "nov",
+          "peru",
+          "reported",
+          "usgs",
+          "wsw"
+        ]
+      },
+      {
+        "at": "2026-11-13T17:03:11.882426+00:00",
+        "handle": "Gazette Government of The National Capital Territory of Delhi",
+        "headline": "Delhi government makes Aadhaar authentication mandatory for various digital governance services",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/277900.pdf",
+        "words": [
+          "aadhaar",
+          "authentication",
+          "capital",
+          "delhi",
+          "extraordinary",
+          "gazette",
+          "good",
+          "governance",
+          "government",
+          "informa",
+          "national",
+          "territory"
+        ]
       }
     ],
-    "gazette_mark": 277896,
+    "gazette_mark": 277900,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -36463,7 +36458,10 @@
       "CG-DL-E-13112026-277892",
       "CG-DL-E-13112026-277893",
       "CG-MH-E-13112026-277895",
-      "CG-MH-E-13112026-277896"
+      "CG-MH-E-13112026-277896",
+      "CG-DL-E-13112026-277899",
+      "CG-UP-E-13112026-277897",
+      "SG-DL-E-13112026-277900"
     ],
     "health": {
       "down": {
@@ -36473,13 +36471,9 @@
       },
       "warned": "2026-11-13T00:46:40.541582+00:00"
     },
-    "last_run": "2026-11-13T16:47:41.440420+00:00",
+    "last_run": "2026-11-13T17:03:11.951900+00:00",
     "pib_mark": 2336069,
     "seen": [
-      "pib:2327457",
-      "pib:2327468",
-      "pib:2327480",
-      "pib:2327476",
       "pib:2327474",
       "pib:2327498",
       "pib:2327521",
@@ -38864,9 +38858,9 @@
       "gazette:CG-DL-E-12112026-277854",
       "page:https://www.pmindia.gov.in/en/news_updates/visit-of-pm-to-manila-philippines",
       "gazette:CG-DL-E-12112026-277855",
-      "gazette:CG-DL-E-12112026-277858",
       "gazette:CG-DL-E-12112026-277857",
       "gazette:CG-DL-E-12112026-277856",
+      "gazette:CG-DL-E-12112026-277858",
       "gazette:CG-DL-E-12112026-277859",
       "gazette:CG-WB-E-12112026-277862",
       "gazette:CG-WB-E-12112026-277861",
@@ -39475,7 +39469,11 @@
       "pib:2336069",
       "quake:usgs:us7000ty14",
       "gazette:CG-MH-E-13112026-277895",
-      "gazette:CG-MH-E-13112026-277896"
+      "gazette:CG-MH-E-13112026-277896",
+      "gazette:SG-DL-E-13112026-277900",
+      "gazette:CG-DL-E-13112026-277899",
+      "quake:usgs:us7000ty1a",
+      "gazette:CG-UP-E-13112026-277897"
     ],
     "source_failures": {
       "CBI": {
@@ -39582,6 +39580,24 @@
       "queued_at": "2026-11-13T16:46:24.346010+00:00",
       "score": 7.0,
       "why": "This is a significant secondary market transaction involving a major startup."
+    },
+    {
+      "headline": "Vi in advanced talks with public-sector banks for raising funds",
+      "post": {
+        "created_at": "2026-11-13T13:38:07+00:00",
+        "handle": "News: India telecom",
+        "id": "1794577087207",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Business Standard",
+        "reposts": 0,
+        "text": "Vi in advanced talks with public-sector banks for raising funds: CEO",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXRNbm9vNm9yazhzcWZhZzRsbnNtbkV1dm15Vll4UnZWX1liR2diTXZKRVNvUUFJRTNTUTVSWEtTSXNaUG01MUFPS0lEWTV6bTRvUjlSeFdVVnZDTGg1WVpockQ5TFFja040dk1IM3V4bC1CYndYbUpYWUViNzVOcG1VZk1seWRxQldPOHg5anE2anhTaUt5dU9DQTJSeloxV0pZLW0xX01pbVJBUW1KQ2N1aDVfT3dIUXloUTFaZ0ZHS2tNNFlFRUdwM25lRTY2MGfSAdcBQVVfeXFMUFJ4amlhbTJ0ZmhZMXhmRm41Y25oTXlORENIUkQzRDItVF9CUE5UQ0tOdUYtRG1sMFJ1Q2lCLTJrbzY4dEhPblNNSEZaNm1PMWxLaWlPM00wcGc1VEtBYmdWUVZiVG1idks4YTB6NVJZLXQ0Y25oSUsxdHNhRFNHWHJYU2VmMUZrdWhTTFA4NGNPRGhWQ3JLZTlteTBQa0VSZGYyMUkwT0lzZldjbEhVcjJTem9TUUZ3UmlHMXd6N2lma0dyWmZrOS1ZTVU2eWtkaUY0d2VyUkU?oc=5"
+      },
+      "queued_at": "2026-11-13T17:01:42.833546+00:00",
+      "score": 8.0,
+      "why": "Significant financial development for a major Indian telecom operator."
     }
   ],
   "page_links": {
@@ -40774,14 +40790,14 @@
     "microsoft india": 1794453440706,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794586631771,
-    "news: consumer internet india": 1794587785501,
-    "news: global ai": 1794587326325,
+    "news: big tech platforms": 1794588295114,
+    "news: consumer internet india": 1794588901965,
+    "news: global ai": 1794587820883,
     "news: global chips": 1794585645330,
     "news: global it services": 1794583820621,
     "news: india ai deeptech": 1794586860981,
     "news: india edtech gaming": 1794575345720,
-    "news: india fintech": 1794587489416,
+    "news: india fintech": 1794588060480,
     "news: india semiconductors": 1794571642009,
     "news: india tech policy": 1794572422024,
     "news: india telecom": 1794587314828,
@@ -40833,7 +40849,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-13T16:46:24.748648+00:00",
+    "last_server_run": "2026-11-13T17:01:43.414781+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-13T16:47:02.674604+00:00",
@@ -41585,6 +41601,7 @@
       "CG-DL-E-13112026-277891",
       "CG-DL-E-13112026-277892",
       "CG-DL-E-13112026-277893",
+      "CG-DL-E-13112026-277899",
       "CG-DL-E-14102026-277108",
       "CG-DL-E-14102026-277128",
       "CG-DL-E-14102026-277129",
@@ -42485,6 +42502,7 @@
       "CG-UP-E-12102026-277081",
       "CG-UP-E-12102026-277087",
       "CG-UP-E-13112026-277880",
+      "CG-UP-E-13112026-277897",
       "CG-UP-E-14102026-277127",
       "CG-UP-E-16102026-277227",
       "CG-UP-E-17092026-276295",
@@ -42577,6 +42595,7 @@
       "SG-DL-E-12112026-277833",
       "SG-DL-E-12112026-277834",
       "SG-DL-E-13112026-277887",
+      "SG-DL-E-13112026-277900",
       "SG-DL-E-14102026-277132",
       "SG-DL-E-14102026-277152",
       "SG-DL-E-15092026-276193",
@@ -43262,7 +43281,9 @@
       "gazette:CG-DL-E-13112026-277892|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-13112026-277892|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-13112026-277893|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-13112026-277893|MHA_FINANCE_MAIL_TO"
+      "gazette:CG-DL-E-13112026-277893|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-13112026-277899|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-13112026-277899|MHA_FINANCE_MAIL_TO"
     ]
   },
   "x_test": {
@@ -54282,11 +54303,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-13T16:48:06.141452+00:00",
+    "last_run": "2026-11-13T17:03:19.183721+00:00",
     "seen": [
-      "x:2118981579204927679",
-      "x:2118981584326107521",
-      "x:2118981883749085237",
       "x:2118984298384576666",
       "x:2118984301811286345",
       "x:2118986009803198625",
@@ -57283,7 +57301,10 @@
       "x:2121281266872189119",
       "x:2121281885112582350",
       "x:2121281886152740937",
-      "x:2121282175748431963"
+      "x:2121282175748431963",
+      "x:2121283190161899560",
+      "x:2121283196364943366",
+      "x:2121286115873509856"
     ],
     "source_failures": {},
     "sources": []
