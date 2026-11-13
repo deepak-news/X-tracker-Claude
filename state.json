@@ -7409,44 +7409,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-10-24T08:47:36.740798+00:00",
-        "handle": "PIB Ministry of Agriculture & Farmers Welfare",
-        "headline": "Government creates eleven crore farmer IDs five months ahead of schedule",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2327905",
-        "words": [
-          "agriculture",
-          "ahead",
-          "chouhan",
-          "created",
-          "digital",
-          "farmer",
-          "farmers",
-          "five",
-          "ids",
-          "major",
-          "marking",
-          "milestone",
-          "ministry",
-          "months"
-        ]
-      },
-      {
-        "at": "2026-10-24T09:46:53.740295+00:00",
-        "handle": "MEA statements",
-        "headline": "Statement on the attack at a Church in Jordan",
-        "tier": 1,
-        "url": "https://www.mea.gov.in/speeches-statements?dtl/41910/Statement_on_the_attack_at_a_Church_in_Jordan",
-        "words": [
-          "attack",
-          "church",
-          "jordan",
-          "mea",
-          "statement",
-          "statements"
-        ]
-      },
-      {
         "at": "2026-10-24T10:18:00.192290+00:00",
         "handle": "PIB Ministry of Earth Sciences",
         "headline": "Union Minister Dr Jitendra Singh inaugurates world's first air pollution analysis facility for Delhi NCR",
@@ -16160,6 +16122,52 @@
           "pharmaceuticals",
           "strict"
         ]
+      },
+      {
+        "at": "2026-11-13T07:47:55.063001+00:00",
+        "handle": "PIB Ministry of Consumer Affairs, Food & Public Distribution",
+        "headline": "Consumer protection authority fines Ola 10 lakh rupees over mandatory pre-ride tipping feature",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335741",
+        "words": [
+          "affairs",
+          "ccpa",
+          "consumer",
+          "directs",
+          "discontinue",
+          "distribution",
+          "feature",
+          "food",
+          "imposes",
+          "lakh",
+          "ministry",
+          "ola",
+          "penalty",
+          "platform"
+        ]
+      },
+      {
+        "at": "2026-11-13T07:47:55.063001+00:00",
+        "handle": "IMD",
+        "headline": "IMD forecasts formation of new cyclonic storm over Bay of Bengal by November 16",
+        "tier": 1,
+        "url": "https://internal.imd.gov.in/press_release/20261113_pr_5486.pdf",
+        "words": [
+          "1310",
+          "13th",
+          "2026",
+          "article",
+          "date",
+          "department",
+          "earth",
+          "government",
+          "imd",
+          "issue",
+          "meteorological",
+          "ministry",
+          "november",
+          "press"
+        ]
       }
     ],
     "gazette_mark": 277870,
@@ -17156,17 +17164,11 @@
       "CG-DL-E-13112026-277870"
     ],
     "health": {
-      "down": {
-        "NITI Aayog": "2026-11-13T07:35:11.954362+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-13T07:35:13.091834+00:00",
-    "pib_mark": 2335722,
+    "last_run": "2026-11-13T07:47:55.149752+00:00",
+    "pib_mark": 2335742,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ravi-kartik-budigina-on-winning-silver-at-the-asian-para-games",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-shailesh-kumar-on-winning-bronze-at-the-asian-para-games",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-importance-of-humility-and-continuous-learning",
-      "page:https://www.pmindia.gov.in/en/news_updates/list-of-outcomes-official-visit-of-prime-minister-of-poland-to-india",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-press-statement-during-joint-press-statement-with-the-prime-minister-of-poland",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63838",
       "page:https://internal.imd.gov.in/press_release/20260907_pr_5298.pdf",
@@ -19693,6 +19695,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168789",
       "pib:2335690",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-at-the-launch-of-development-projects-in-banaskantha-gujarat",
+      "page:https://internal.imd.gov.in/press_release/20261002_pr_5369.pdf",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63959",
       "feed:http://www.niti.gov.in/node/2446",
       "feed:http://www.niti.gov.in/whats-new/newsletter-nitisandhan-october-2026",
       "feed:http://www.niti.gov.in/node/2448",
@@ -19740,7 +19744,6 @@
       "page:https://internal.imd.gov.in/press_release/20261007_pr_5385.pdf",
       "page:https://internal.imd.gov.in/press_release/20261009_pr_5390.pdf",
       "page:https://internal.imd.gov.in/press_release/20261010_pr_5392.pdf",
-      "page:https://internal.imd.gov.in/press_release/20261002_pr_5369.pdf",
       "page:https://internal.imd.gov.in/press_release/20261006_pr_5383.pdf",
       "page:https://internal.imd.gov.in/press_release/20261008_pr_5387.pdf",
       "page:https://internal.imd.gov.in/press_release/20261011_pr_5394.pdf",
@@ -20107,7 +20110,6 @@
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-dasavaen-savacacha",
       "mea:41941",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-selfless-devotion-of-noble-people-to-the-welfare-of-others",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63959",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63960",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63962",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
@@ -20162,13 +20164,13 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63968",
       "pib:2335680",
       "watch:meeting:LS|22655",
-      "pib:2335722"
+      "pib:2335722",
+      "page:https://internal.imd.gov.in/press_release/20261113_pr_5486.pdf",
+      "pib:2335741",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63969",
+      "pib:2335742"
     ],
-    "source_failures": {
-      "NITI Aayog": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20227,18 +20229,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1793988686065",
-    "1793988768508",
-    "1793992569999",
-    "1794049318721",
-    "1794072522750",
-    "1793994120197",
-    "1794001826671",
-    "1794055310940",
-    "1794071776596",
-    "1793990253007",
-    "1793990615242",
-    "1793993394160",
     "1794054940484",
     "1794041131461",
     "1793991960128",
@@ -24548,7 +24538,6 @@
     "1794513660059",
     "1794533623314",
     "1794534900267",
-    "1794537171493",
     "1794537282635",
     "1794538204424",
     "1794540180694",
@@ -24651,7 +24640,6 @@
     "1794526511992",
     "1794532620302",
     "1794542177530",
-    "1794544593603",
     "1794544869071",
     "1794548040532",
     "1794549817206",
@@ -24676,7 +24664,6 @@
     "1794519660515",
     "1794522540791",
     "1794535260727",
-    "1794540422622",
     "1794544404035",
     "1794548244907",
     "1794551959704",
@@ -24687,11 +24674,22 @@
     "1794528900916",
     "1794541980307",
     "1794544094128",
-    "1794544096030",
     "1794548367850",
     "1794549827615",
     "1794550867928",
     "1794553930662",
+    "1794469484054",
+    "1794528791622",
+    "1794536740610",
+    "1794538645372",
+    "1794545213883",
+    "1794546417040",
+    "1794546559458",
+    "1794546934956",
+    "1794547440067",
+    "1794548729853",
+    "1794549551061",
+    "1794554297714",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25917,7 +25915,6 @@
     "1794448980489",
     "1794453440706",
     "1794463200567",
-    "1794469484054",
     "1794469800692",
     "1794470155983",
     "1794470400044",
@@ -26040,7 +26037,6 @@
     "1794528180933",
     "1794528453826",
     "1794528473636",
-    "1794528791622",
     "1794529800071",
     "1794529800765",
     "1794530011599",
@@ -26069,16 +26065,15 @@
     "1794535866241",
     "1794536153650",
     "1794536616530",
-    "1794536740610",
     "1794537000057",
     "1794537000291",
     "1794537000724",
     "1794537080028",
+    "1794537171493",
     "1794537549609",
     "1794537949727",
     "1794538112615",
     "1794538228594",
-    "1794538645372",
     "1794538749062",
     "1794538991060",
     "1794539280805",
@@ -26090,6 +26085,7 @@
     "1794540240763",
     "1794540240786",
     "1794540375126",
+    "1794540422622",
     "1794541452656",
     "1794541500885",
     "1794541743956",
@@ -26109,13 +26105,14 @@
     "1794543360732",
     "1794543650314",
     "1794543801662",
+    "1794544096030",
     "1794544274809",
     "1794544320867",
     "1794544401056",
+    "1794544593603",
     "1794544800634",
     "1794545129782",
     "1794545160157",
-    "1794545213883",
     "1794545546371",
     "1794545580540",
     "1794545580898",
@@ -26125,17 +26122,12 @@
     "1794546028802",
     "1794546143700",
     "1794546240760",
-    "1794546417040",
-    "1794546559458",
-    "1794546934956",
     "1794547166889",
     "1794547221360",
     "1794547352277",
-    "1794547440067",
     "1794547448456",
     "1794547727963",
     "1794548400058",
-    "1794548729853",
     "1794548968599",
     "1794549094510",
     "1794549094747",
@@ -26145,7 +26137,6 @@
     "1794549429957",
     "1794549432104",
     "1794549454363",
-    "1794549551061",
     "1794549660752",
     "1794549672113",
     "1794549806615",
@@ -26182,14 +26173,25 @@
     "1794553080735",
     "1794553200306",
     "1794553240877",
+    "1794553316630",
     "1794553440667",
+    "1794553620818",
     "1794553740383",
+    "1794553748692",
     "1794553857882",
     "1794553868028",
     "1794553871696",
+    "1794553960502",
     "1794553985729",
-    "1794554297714",
     "1794554541214",
+    "1794554685968",
+    "1794554955305",
+    "1794555000564",
+    "1794555000971",
+    "1794555047391",
+    "1794555177565",
+    "1794555251477",
+    "1794555420947",
     "2331589",
     "2331704",
     "2331803",
@@ -26229,29 +26231,9 @@
     "2335690"
   ],
   "last_digest_hour": "2026-11-13T13",
-  "last_success": "2026-11-13T07:31:35.920985+00:00",
+  "last_success": "2026-11-13T07:46:10.688802+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-08T09:20:57.044308+00:00",
-        "handle": "Quake USGS",
-        "headline": "Magnitude 6.3 earthquake -- 102 km NE of Norsup, Vanuatu.",
-        "tier": 1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
-        "words": [
-          "102",
-          "2026",
-          "deep",
-          "earthquake",
-          "ist",
-          "magnitude",
-          "norsup",
-          "oct",
-          "reported",
-          "usgs",
-          "vanuatu"
-        ]
-      },
       {
         "at": "2026-10-08T10:06:26.699085+00:00",
         "handle": "Gazette Ministry of Home Affairs",
@@ -34767,6 +34749,29 @@
           "pharmaceuticals",
           "strict"
         ]
+      },
+      {
+        "at": "2026-11-13T07:47:12.542392+00:00",
+        "handle": "PIB Ministry of Consumer Affairs, Food & Public Distribution",
+        "headline": "Consumer watchdog fines Ola 10 lakh rupees for mandatory pre-ride tipping feature",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335741",
+        "words": [
+          "affairs",
+          "ccpa",
+          "consumer",
+          "directs",
+          "discontinue",
+          "distribution",
+          "feature",
+          "food",
+          "imposes",
+          "lakh",
+          "ministry",
+          "ola",
+          "penalty",
+          "platform"
+        ]
       }
     ],
     "gazette_mark": 277870,
@@ -36437,19 +36442,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NITI Aayog": "2026-11-13T07:33:36.172314+00:00",
-        "NPCI": "2026-11-13T07:33:36.172314+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-13T00:46:40.541582+00:00"
     },
-    "last_run": "2026-11-13T07:33:37.276559+00:00",
-    "pib_mark": 2335722,
+    "last_run": "2026-11-13T07:47:12.544084+00:00",
+    "pib_mark": 2335742,
     "seen": [
-      "quake:usgs:us6000u451",
-      "quake:ncs:MndBMk1qUmkxWWEvbWI0ekpJUkoyQT09",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63841",
       "quake:ncs:S3dob0JLd2NRaDBqZDJodExSL3Erdz09",
       "quake:ncs:SWhiY3RxNzRBQm9SZml0dUM0dHh3QT09",
       "quake:ncs:L1Iwd3JyWm5yUzk0TTJzc29HSXdDQT09",
@@ -38914,6 +38914,7 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168790",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-speech-at-the-launch-of-development-projects-in-banaskantha-gujarat",
       "quake:ncs:LzZ5cUVDNFVHQ3NEbThES1ZMb25RUT09",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63959",
       "feed:http://www.niti.gov.in/node/2446",
       "feed:http://www.niti.gov.in/whats-new/newsletter-nitisandhan-october-2026",
       "feed:http://www.niti.gov.in/node/2449",
@@ -39395,7 +39396,6 @@
       "mea:41940",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-dasavaen-savacacha",
       "mea:41941",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63959",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-selfless-devotion-of-noble-people-to-the-welfare-of-others",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63960",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
@@ -39446,18 +39446,15 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63968",
       "pib:2335680",
       "watch:meeting:LS|22655",
-      "pib:2335722"
+      "pib:2335722",
+      "pib:2335741",
+      "pib:2335742",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63969"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NITI Aayog": {
-        "count": 1
-      },
-      "NPCI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39523,7 +39520,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "MeitY probes home services platforms over AI data collection",
+      "post": {
+        "created_at": "2026-11-13T07:24:45+00:00",
+        "handle": "News: India tech policy",
+        "id": "1794554685968",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "MediaNama",
+        "reposts": 0,
+        "text": "Is footage from Indian homes going abroad to train robots? MeitY questions Pronto and other platforms",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1g3b3p4LU4wS0lRSHMzQ19GbUkwLWlCSVdNR0t0aUJJY3RHSG5IQk1Oai1xNjY5R05Nam92cnRhTnFRdS0zOEl3SGZReFB3RTVSY2JPRXlNSkVSaDlXUzJuOF9lTk5JS215amxoN1NKZzVzNGVLT3ZmWTFfcnZTSl9zdUpTY2ZxN0NHWFln?oc=5"
+      },
+      "queued_at": "2026-11-13T07:46:10.622715+00:00",
+      "score": 8.0,
+      "why": "This is a new regulatory move by the government regarding data privacy."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40713,20 +40729,20 @@
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
     "news: big tech platforms": 1794554297714,
-    "news: consumer internet india": 1794552950671,
-    "news: global ai": 1794552287739,
-    "news: global chips": 1794553871696,
+    "news: consumer internet india": 1794553960502,
+    "news: global ai": 1794555000971,
+    "news: global chips": 1794555420947,
     "news: global it services": 1794553868028,
     "news: india ai deeptech": 1794554541214,
     "news: india edtech gaming": 1794525437059,
-    "news: india fintech": 1794551959704,
+    "news: india fintech": 1794555000564,
     "news: india semiconductors": 1794538645372,
-    "news: india tech policy": 1794539354495,
+    "news: india tech policy": 1794555251477,
     "news: india telecom": 1794551546996,
     "news: indian it majors": 1794545872689,
     "news: indian it midcaps": 1794544274809,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794553985729,
+    "news: tech leaders": 1794555420947,
     "nvidia": 1794492059604,
     "nvidia blog": 1794492059604,
     "openai": 1794513600791,
@@ -40753,9 +40769,7 @@
     "zoho": 1794501698489
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-13T07:16:24.446721+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40773,7 +40787,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-13T07:31:36.262384+00:00",
+    "last_server_run": "2026-11-13T07:46:11.190367+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-13T06:02:43.000996+00:00",
@@ -53637,21 +53651,62 @@
           "tmr",
           "zx4dzfsmn6"
         ]
+      },
+      {
+        "at": "2026-11-13T07:47:34.121880+00:00",
+        "headline": "Home Ministry extends ban on Islamic Research Foundation under UAPA",
+        "url": "https://x.com/HMOIndia/status/2121145037304037685",
+        "words": [
+          "activities",
+          "adherence",
+          "anti",
+          "association",
+          "ban",
+          "extends",
+          "foundation",
+          "fugitive",
+          "islamic",
+          "led",
+          "mha",
+          "naik",
+          "narendramodi",
+          "national",
+          "preacher",
+          "research",
+          "shri",
+          "steadfast",
+          "terror",
+          "terrorism",
+          "tolerance",
+          "towards",
+          "uapa",
+          "under",
+          "unlawful",
+          "vision",
+          "zakir",
+          "zero"
+        ]
+      },
+      {
+        "at": "2026-11-13T07:47:34.121880+00:00",
+        "headline": "IMD warns of low pressure area forming over Bay of Bengal",
+        "url": "https://x.com/Indiametdept/status/2121145873178730685",
+        "words": [
+          "area",
+          "depression",
+          "https",
+          "low",
+          "marked",
+          "pressure",
+          "t2d8csuqz",
+          "well"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-13T07:33:47.462640+00:00",
+    "last_run": "2026-11-13T07:47:34.122174+00:00",
     "seen": [
-      "x:2118623898178859501",
-      "x:2118624202144305205",
-      "x:2118624415760138484",
-      "x:2118624555619205462",
-      "x:2118626232460021872",
-      "x:2118626593027609057",
-      "x:2118627761690648952",
-      "x:2118628423467979229",
-      "x:2118629426649014379",
       "x:2118629488494039470",
       "x:2118629979114308071",
       "x:2118632204842770906",
@@ -56642,7 +56697,16 @@
       "x:2121144011180421309",
       "x:2121144031749263642",
       "x:2121144128339931332",
-      "x:2121144281276789114"
+      "x:2121144281276789114",
+      "x:2121144502719074697",
+      "x:2121144655182287154",
+      "x:2121144657677820187",
+      "x:2121145037304037685",
+      "x:2121145213305716762",
+      "x:2121145288731848834",
+      "x:2121145485436375360",
+      "x:2121145630999584778",
+      "x:2121145873178730685"
     ],
     "source_failures": {},
     "sources": []
