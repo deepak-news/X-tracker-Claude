@@ -17165,7 +17165,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-13T22:02:42.531178+00:00",
+    "last_run": "2026-11-13T22:17:09.485820+00:00",
     "pib_mark": 2336069,
     "seen": [
       "watch:meeting:LS|22576",
@@ -19686,6 +19686,7 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168793",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168796",
       "site:WTO|https://www.wto.org/english/news_e/pres26_e/pr998_551_e.htm",
+      "site:ICC|https://www.icc-cricket.com/media-releases/jansen-and-sharma-win-icc-player-of-the-month-awards-for-october",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -20096,7 +20097,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-in-the-golden-jubilee-celebrations-of-prashanti-kutiram-in-bengaluru",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
-      "site:ICC|https://www.icc-cricket.com/media-releases/jansen-and-sharma-win-icc-player-of-the-month-awards-for-october",
       "certin:CIAD-2026-0059",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-golden-jubilee-celebrations-of-prashanti-kutiram-in-bengaluru-karnataka",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-by-union-minister-shri-jagat-prakash-nadda-highlighting-indias-steps-towards-easing-the-burden-of-cancer-treatment-and-ensuring-affordable-healthcare",
@@ -20228,11 +20228,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794219824211",
-    "1794222178579",
-    "1793376000877",
-    "1794139220562",
-    "1794186333644",
     "1794191220169",
     "1794208606123",
     "1794211538527",
@@ -24641,7 +24636,6 @@
     "1794602992659",
     "1794583260406",
     "1794585413618",
-    "1794590825196",
     "1794594060086",
     "1794595080502",
     "1794595963325",
@@ -24653,7 +24647,6 @@
     "1794535268209",
     "1794550597295",
     "1794569295572",
-    "1794578423653",
     "1794592740020",
     "1794593567907",
     "1794595017662",
@@ -24672,6 +24665,14 @@
     "1794591013443",
     "1794599915995",
     "1794601058662",
+    "1794578520883",
+    "1794579560018",
+    "1794585017566",
+    "1794586612785",
+    "1794591234451",
+    "1794596707131",
+    "1794598720188",
+    "1794601846330",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26008,6 +26009,7 @@
     "1794563535479",
     "1794563563761",
     "1794563770072",
+    "1794564026350",
     "1794564108590",
     "1794564434164",
     "1794564866791",
@@ -26059,10 +26061,9 @@
     "1794577541675",
     "1794578347964",
     "1794578409477",
-    "1794578520883",
+    "1794578423653",
     "1794578880044",
     "1794579319482",
-    "1794579560018",
     "1794579776302",
     "1794581389882",
     "1794582000389",
@@ -26076,12 +26077,10 @@
     "1794584247881",
     "1794584298514",
     "1794584724377",
-    "1794585017566",
     "1794585038274",
     "1794585480816",
     "1794585600487",
     "1794586301393",
-    "1794586612785",
     "1794586860981",
     "1794586928862",
     "1794587160981",
@@ -26094,6 +26093,7 @@
     "1794588060480",
     "1794588240157",
     "1794588797511",
+    "1794588840018",
     "1794588862764",
     "1794588901965",
     "1794589200041",
@@ -26102,9 +26102,9 @@
     "1794590100580",
     "1794590341901",
     "1794590760140",
+    "1794590825196",
     "1794591000087",
     "1794591090315",
-    "1794591234451",
     "1794591262814",
     "1794591493669",
     "1794591660628",
@@ -26135,7 +26135,6 @@
     "1794596113922",
     "1794596640300",
     "1794596666068",
-    "1794596707131",
     "1794596804596",
     "1794596880186",
     "1794597089824",
@@ -26145,7 +26144,6 @@
     "1794598153512",
     "1794598236257",
     "1794598379531",
-    "1794598720188",
     "1794598800444",
     "1794598886029",
     "1794599153518",
@@ -26167,7 +26165,6 @@
     "1794601508622",
     "1794601680627",
     "1794601800347",
-    "1794601846330",
     "1794601920692",
     "1794602256066",
     "1794602446701",
@@ -26186,7 +26183,10 @@
     "1794605580058",
     "1794605946791",
     "1794606064664",
+    "1794606478168",
     "1794606723498",
+    "1794607499007",
+    "1794607776078",
     "2331589",
     "2331704",
     "2331803",
@@ -26230,7 +26230,7 @@
     "2335968"
   ],
   "last_digest_hour": "2026-11-14T03",
-  "last_success": "2026-11-13T22:01:32.289812+00:00",
+  "last_success": "2026-11-13T22:16:16.134203+00:00",
   "national": {
     "alerted": [
       {
@@ -36474,7 +36474,7 @@
       },
       "warned": "2026-11-13T00:46:40.541582+00:00"
     },
-    "last_run": "2026-11-13T22:02:28.583147+00:00",
+    "last_run": "2026-11-13T22:16:56.164582+00:00",
     "pib_mark": 2336069,
     "seen": [
       "pib:2327556",
@@ -38933,6 +38933,7 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168793",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168792",
       "site:WTO|https://www.wto.org/english/news_e/pres26_e/pr998_551_e.htm",
+      "site:ICC|https://www.icc-cricket.com/media-releases/jansen-and-sharma-win-icc-player-of-the-month-awards-for-october",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -39402,7 +39403,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-in-the-golden-jubilee-celebrations-of-prashanti-kutiram-in-bengaluru",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
-      "site:ICC|https://www.icc-cricket.com/media-releases/jansen-and-sharma-win-icc-player-of-the-month-awards-for-october",
       "certin:CIAD-2026-0059",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-golden-jubilee-celebrations-of-prashanti-kutiram-in-bengaluru-karnataka",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-by-union-minister-shri-jagat-prakash-nadda-highlighting-indias-steps-towards-easing-the-burden-of-cancer-treatment-and-ensuring-affordable-healthcare",
@@ -40739,13 +40739,13 @@
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
     "news: big tech platforms": 1794605580058,
-    "news: consumer internet india": 1794588901965,
-    "news: global ai": 1794606723498,
-    "news: global chips": 1794606064664,
+    "news: consumer internet india": 1794607776078,
+    "news: global ai": 1794607499007,
+    "news: global chips": 1794606478168,
     "news: global it services": 1794597089824,
     "news: india ai deeptech": 1794596040089,
     "news: india edtech gaming": 1794575345720,
-    "news: india fintech": 1794588060480,
+    "news: india fintech": 1794588840018,
     "news: india semiconductors": 1794595231008,
     "news: india tech policy": 1794592740702,
     "news: india telecom": 1794594516513,
@@ -40779,7 +40779,9 @@
     "zoho": 1794501698489
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-13T22:16:11.755447+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40797,7 +40799,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-13T22:01:32.782246+00:00",
+    "last_server_run": "2026-11-13T22:16:16.465432+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-13T21:16:39.241368+00:00",
@@ -54267,7 +54269,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-13T22:02:31.866947+00:00",
+    "last_run": "2026-11-13T22:17:02.338087+00:00",
     "seen": [
       "x:2118995143038500949",
       "x:2118995544769274090",
