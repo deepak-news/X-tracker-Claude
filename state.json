@@ -1,22 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-03T13:31:23.774176+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI safety employee resigns over safety concerns",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUWlBek5zUC0tMjBVbjVIYzJHZEEtczdDMVEzX0NOM2JRSTlYNm95MkVULUptNGVWWlR6NmJhVmRkYkRKbXg5Q0xER3N2ZjRCWEtOX2xCbGNBbjM0QXFZdDBDN01xUHRGRFNsSFc5b3JOUmJXYUVQUVQyd3pvaVNlNWZfZTJKbzhNSVBFYXBaS2hTdTQ5VE9FdC1xZnMzODBMQjNtaVM0T0xKYS1TenFaQlIwSmRzYm9DUklaU2o1dFR0RGloVjc2Z1hjTFJ5RnlfMVd3WkpiMWxqSXJ4eHZjUHF1QjZpN256QWU0VnZVcTJBUTNsdDNxRGRfZWc0cnB0MUkyblkwcjYwN1RkRkhfakxB?oc=5",
-      "words": [
-        "employee",
-        "error",
-        "openai",
-        "quits",
-        "safety",
-        "time",
-        "trial"
-      ]
-    },
-    {
       "at": "2026-11-03T14:31:39.676382+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic warns AI could outpace human control in successor development",
@@ -7384,6 +7368,24 @@
         "outage",
         "recover",
         "services"
+      ]
+    },
+    {
+      "at": "2026-11-13T14:46:02.927001+00:00",
+      "handle": "REG CERT-In",
+      "headline": "CERT-In issues security advisory for The Gentlemen Ransomware",
+      "tier": 1,
+      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2026-0060",
+      "words": [
+        "0060",
+        "2026",
+        "advisory",
+        "cert",
+        "ciad",
+        "gentlemen",
+        "november",
+        "ransomware",
+        "security"
       ]
     }
   ],
@@ -16153,7 +16155,7 @@
         ]
       }
     ],
-    "gazette_mark": 277892,
+    "gazette_mark": 277893,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -17165,19 +17167,17 @@
       "CG-DL-E-13112026-277890",
       "CG-DL-E-13112026-277891",
       "CG-DL-E-13112026-277888",
-      "CG-DL-E-13112026-277892"
+      "CG-DL-E-13112026-277892",
+      "CG-DL-E-13112026-277893"
     ],
     "health": {
       "down": {
         "State: Uttar Pradesh": "2026-11-13T10:06:01.722606+00:00"
       }
     },
-    "last_run": "2026-11-13T14:33:52.641477+00:00",
+    "last_run": "2026-11-13T14:48:19.371284+00:00",
     "pib_mark": 2336006,
     "seen": [
-      "pib:2326792",
-      "pib:2326793",
-      "pib:2326795",
       "pib:2326831",
       "pib:2326836",
       "pib:2326832",
@@ -19663,9 +19663,10 @@
       "gazette:CG-DL-E-12112026-277849",
       "gazette:CG-DL-E-12112026-277850",
       "gazette:CG-RJ-E-12112026-277851",
+      "gazette:CG-DL-E-12112026-277852",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-kisan-tak-bharat-agriculture-conference-2026",
       "gazette:CG-DL-E-12112026-277855",
       "gazette:CG-DL-E-12112026-277853",
-      "gazette:CG-DL-E-12112026-277852",
       "gazette:CG-DL-E-12112026-277854",
       "gazette:CG-DL-E-12112026-277857",
       "gazette:CG-DL-E-12112026-277858",
@@ -20055,7 +20056,6 @@
       "mea:41943",
       "mea:41944",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-kisan-tak-bharat-agriculture-conference",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-kisan-tak-bharat-agriculture-conference-2026",
       "mea:41945",
       "pib:2335673",
       "pib:2335672",
@@ -20174,7 +20174,10 @@
       "gazette:CG-DL-E-13112026-277892",
       "pib:2336005",
       "gazette:CG-DL-E-13112026-277888",
-      "pib:2336006"
+      "pib:2336006",
+      "gazette:CG-DL-E-13112026-277893",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-cosmos-mysuru-planetarium-indias-first-led-dome-planetarium-in-mysuru-karnataka",
+      "certin:CIAD-2026-0060"
     ],
     "source_failures": {
       "State: Uttar Pradesh": {
@@ -20240,16 +20243,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794175227821",
-    "1794182400456",
-    "1794185781714",
-    "1794187952945",
-    "1794188356218",
-    "1794188640308",
-    "1794190877150",
-    "1794192671311",
-    "1794108182776",
-    "1794168741934",
     "1794169142617",
     "1794173160889",
     "1794181897530",
@@ -24263,7 +24256,6 @@
     "1794465070761",
     "1794465331554",
     "1794526511992",
-    "1794532620302",
     "1794542177530",
     "1794544869071",
     "1794548040532",
@@ -24567,7 +24559,6 @@
     "1794501360869",
     "1794524100792",
     "1794535357466",
-    "1794558900409",
     "1794561029607",
     "1794561045150",
     "1794562552730",
@@ -24672,12 +24663,9 @@
     "1794571202265",
     "1794573480033",
     "1794574653343",
-    "1794576702478",
     "1794493205296",
     "1794493656635",
     "1794493739978",
-    "1794498021820",
-    "1794528791622",
     "1794533623314",
     "1794534728397",
     "1794542100430",
@@ -24685,7 +24673,6 @@
     "1794553022633",
     "1794553080208",
     "1794555780200",
-    "1794556500818",
     "1794565900013",
     "1794567396814",
     "1794569444330",
@@ -24694,6 +24681,23 @@
     "1794576026464",
     "1794576540187",
     "1794578880040",
+    "1794494671994",
+    "1794494690904",
+    "1794498021927",
+    "1794528000965",
+    "1794539245397",
+    "1794540422622",
+    "1794551071223",
+    "1794552540004",
+    "1794569981901",
+    "1794570357993",
+    "1794574236185",
+    "1794574874058",
+    "1794575580895",
+    "1794578280523",
+    "1794578423653",
+    "1794578652622",
+    "1794579420300",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25909,6 +25913,7 @@
     "1794423644318",
     "1794441600464",
     "1794441600801",
+    "1794441600965",
     "1794448980489",
     "1794453440706",
     "1794463200567",
@@ -25934,13 +25939,11 @@
     "1794492000425",
     "1794492000669",
     "1794492059604",
-    "1794494671994",
-    "1794494690904",
     "1794495407252",
     "1794495669769",
     "1794495851269",
     "1794496493777",
-    "1794498021927",
+    "1794498021820",
     "1794499200802",
     "1794499202090",
     "1794499811974",
@@ -25974,13 +25977,15 @@
     "1794523078201",
     "1794524400964",
     "1794525437059",
+    "1794528000353",
     "1794528000671",
     "1794528000674",
-    "1794528000965",
     "1794528180933",
+    "1794528791622",
     "1794529800765",
     "1794531634377",
     "1794532478380",
+    "1794532620302",
     "1794533623072",
     "1794534445792",
     "1794534939186",
@@ -25998,12 +26003,10 @@
     "1794538645372",
     "1794538749062",
     "1794538991060",
-    "1794539245397",
     "1794539354495",
     "1794540141282",
     "1794540240763",
     "1794540375126",
-    "1794540422622",
     "1794541500885",
     "1794542054539",
     "1794542070526",
@@ -26035,10 +26038,8 @@
     "1794550664067",
     "1794550757033",
     "1794550892103",
-    "1794551071223",
     "1794551078219",
     "1794551640228",
-    "1794552540004",
     "1794552765901",
     "1794552921935",
     "1794552927475",
@@ -26063,15 +26064,18 @@
     "1794556049434",
     "1794556070528",
     "1794556491867",
+    "1794556500818",
     "1794556799532",
     "1794556980342",
     "1794557280793",
+    "1794558900409",
     "1794558924271",
     "1794559008433",
     "1794559020338",
     "1794559361658",
     "1794559754240",
     "1794559873805",
+    "1794559908322",
     "1794559939903",
     "1794560036570",
     "1794560194037",
@@ -26120,8 +26124,6 @@
     "1794569714515",
     "1794569814032",
     "1794569827901",
-    "1794569981901",
-    "1794570357993",
     "1794570437879",
     "1794570685633",
     "1794570748422",
@@ -26155,7 +26157,6 @@
     "1794573534654",
     "1794573660103",
     "1794573860725",
-    "1794574236185",
     "1794574339605",
     "1794574393479",
     "1794574483106",
@@ -26164,11 +26165,9 @@
     "1794574808794",
     "1794574842347",
     "1794574855246",
-    "1794574874058",
     "1794575340317",
     "1794575345720",
     "1794575361335",
-    "1794575580895",
     "1794575700472",
     "1794575717384",
     "1794575720398",
@@ -26180,25 +26179,29 @@
     "1794576420639",
     "1794576425592",
     "1794576631336",
+    "1794576702478",
     "1794576720556",
     "1794576893662",
     "1794577099207",
+    "1794577260058",
     "1794577541675",
     "1794577615366",
     "1794577878822",
     "1794578021289",
-    "1794578280523",
     "1794578347964",
     "1794578409477",
-    "1794578423653",
-    "1794578652622",
     "1794578820954",
+    "1794578863393",
     "1794578868600",
     "1794579000603",
-    "1794579420300",
+    "1794579145901",
     "1794579458662",
+    "1794579540300",
+    "1794579560018",
+    "1794579589485",
     "1794579765482",
     "1794579776302",
+    "1794580859258",
     "2331589",
     "2331704",
     "2331803",
@@ -26242,32 +26245,9 @@
     "2335968"
   ],
   "last_digest_hour": "2026-11-13T20",
-  "last_success": "2026-11-13T14:31:26.692333+00:00",
+  "last_success": "2026-11-13T14:46:02.984342+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-08T16:48:42.720054+00:00",
-        "handle": "PMO",
-        "headline": "PM Modi welcomes GST Council reforms removing arrest provisions and simplifying taxes",
-        "tier": 1,
-        "url": "https://www.pmindia.gov.in/en/news_updates/pm-welcomes-gst-councils-recommendations-for-simpler-trust-based-tax-administration",
-        "words": [
-          "2026",
-          "administration",
-          "appro",
-          "based",
-          "council",
-          "gst",
-          "minister",
-          "modi",
-          "narendra",
-          "oct",
-          "pmo",
-          "prime",
-          "published",
-          "recommendations"
-        ]
-      },
       {
         "at": "2026-10-09T05:21:56.472422+00:00",
         "handle": "CBSE",
@@ -34789,9 +34769,27 @@
           "merchandise",
           "ministry"
         ]
+      },
+      {
+        "at": "2026-11-13T14:47:10.368943+00:00",
+        "handle": "CERT-In",
+        "headline": "CERT-In issues security alert regarding new Gentlemen ransomware threat",
+        "tier": 1,
+        "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES02&VLCODE=CIAD-2026-0060",
+        "words": [
+          "0060",
+          "2026",
+          "advisory",
+          "cert",
+          "ciad",
+          "gentlemen",
+          "november",
+          "ransomware",
+          "security"
+        ]
       }
     ],
-    "gazette_mark": 277892,
+    "gazette_mark": 277893,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -36475,7 +36473,8 @@
       "CG-DL-E-13112026-277890",
       "CG-DL-E-13112026-277891",
       "CG-DL-E-13112026-277888",
-      "CG-DL-E-13112026-277892"
+      "CG-DL-E-13112026-277892",
+      "CG-DL-E-13112026-277893"
     ],
     "health": {
       "down": {
@@ -36486,12 +36485,9 @@
       },
       "warned": "2026-11-13T00:46:40.541582+00:00"
     },
-    "last_run": "2026-11-13T14:32:26.322263+00:00",
+    "last_run": "2026-11-13T14:47:10.370171+00:00",
     "pib_mark": 2336006,
     "seen": [
-      "pib:2327317",
-      "pib:2327332",
-      "pib:2327334",
       "pib:2327341",
       "pib:2327340",
       "pib:2327336",
@@ -38917,8 +38913,9 @@
       "gazette:CG-DL-E-12112026-277849",
       "gazette:CG-DL-E-12112026-277850",
       "gazette:CG-RJ-E-12112026-277851",
-      "gazette:CG-DL-E-12112026-277855",
       "gazette:CG-DL-E-12112026-277852",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-kisan-tak-bharat-agriculture-conference-2026",
+      "gazette:CG-DL-E-12112026-277855",
       "gazette:CG-DL-E-12112026-277853",
       "gazette:CG-DL-E-12112026-277854",
       "gazette:CG-DL-E-12112026-277858",
@@ -39367,7 +39364,6 @@
       "page:https://internal.imd.gov.in/press_release/20261112_pr_5485.pdf",
       "mea:41943",
       "mea:41944",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-kisan-tak-bharat-agriculture-conference-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-kisan-tak-bharat-agriculture-conference",
       "mea:41945",
       "gazette:CG-DL-E-13112026-277870",
@@ -39488,7 +39484,10 @@
       "gazette:CG-DL-E-13112026-277888",
       "pib:2336005",
       "pib:2336006",
-      "gazette:CG-DL-E-13112026-277892"
+      "gazette:CG-DL-E-13112026-277892",
+      "certin:CIAD-2026-0060",
+      "gazette:CG-DL-E-13112026-277893",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-cosmos-mysuru-planetarium-indias-first-led-dome-planetarium-in-mysuru-karnataka"
     ],
     "source_failures": {
       "CBI": {
@@ -39563,7 +39562,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Widespread Microsoft outage disrupts global businesses and governments",
+      "post": {
+        "created_at": "2026-11-13T13:41:00+00:00",
+        "handle": "News: Big tech platforms",
+        "id": "1794577260058",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "WSJ",
+        "reposts": 0,
+        "text": "Widespread Microsoft Outage Roils Businesses, Governments",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmhaT0diNlVIZzI4Mm1nSUpIV0RSeDJrM0RYYVIydVRzUzNHM2ZmcW40UjE2eW5xeEc4ZVROeGlBaTlUbl9hUXN5N0VrVHlHRnpvQ09odWw4RVNCZFBXTUxhWHNvWm1MSG1nV0doS191NHIyeXFMT09wbDY2YldsTDB3?oc=5"
+      },
+      "queued_at": "2026-11-13T14:46:02.927524+00:00",
+      "score": 8.0,
+      "why": "Significant global infrastructure disruption affecting multiple sectors."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40756,12 +40774,12 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1794579458662,
     "news: consumer internet india": 1794572784673,
-    "news: global ai": 1794578868600,
-    "news: global chips": 1794579765482,
+    "news: global ai": 1794579589485,
+    "news: global chips": 1794580859258,
     "news: global it services": 1794579776302,
     "news: india ai deeptech": 1794571343274,
     "news: india edtech gaming": 1794575345720,
-    "news: india fintech": 1794577541675,
+    "news: india fintech": 1794579560018,
     "news: india semiconductors": 1794571642009,
     "news: india tech policy": 1794572422024,
     "news: india telecom": 1794577099207,
@@ -40795,9 +40813,7 @@
     "zoho": 1794501698489
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-13T14:31:17.411333+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40815,17 +40831,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-13T14:31:27.195986+00:00",
+    "last_server_run": "2026-11-13T14:46:03.389452+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-13T12:32:53.530950+00:00",
+        "checked": "2026-11-13T14:46:44.737338+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-13T12:32:45.043003+00:00",
+        "checked": "2026-11-13T14:46:36.242961+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40901,7 +40917,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-13T12:32:49.702087+00:00",
+        "checked": "2026-11-13T14:46:40.566999+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -41566,6 +41582,7 @@
       "CG-DL-E-13112026-277890",
       "CG-DL-E-13112026-277891",
       "CG-DL-E-13112026-277892",
+      "CG-DL-E-13112026-277893",
       "CG-DL-E-14102026-277108",
       "CG-DL-E-14102026-277128",
       "CG-DL-E-14102026-277129",
@@ -43239,7 +43256,9 @@
       "gazette:CG-DL-E-13112026-277891|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-13112026-277890|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-13112026-277892|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-13112026-277892|MHA_FINANCE_MAIL_TO"
+      "gazette:CG-DL-E-13112026-277892|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-13112026-277893|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-13112026-277893|MHA_FINANCE_MAIL_TO"
     ]
   },
   "x_test": {
@@ -54141,17 +54160,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-13T14:33:17.632085+00:00",
+    "last_run": "2026-11-13T14:47:18.289752+00:00",
     "seen": [
-      "x:2118950010406772949",
-      "x:2118950293400645980",
-      "x:2118953113034101079",
-      "x:2118953488298447217",
-      "x:2118953498847174999",
-      "x:2118953861432119583",
-      "x:2118954099677020244",
-      "x:2118954100541063495",
-      "x:2118954577521508821",
       "x:2118954854559441092",
       "x:2118956306690154592",
       "x:2118957403035279537",
@@ -57142,7 +57152,16 @@
       "x:2121247721730568489",
       "x:2121247866933100980",
       "x:2121248180621005174",
-      "x:2121248628358738217"
+      "x:2121248628358738217",
+      "x:2121249091292455279",
+      "x:2121249208422498629",
+      "x:2121249222695739832",
+      "x:2121249222993580538",
+      "x:2121249308158959994",
+      "x:2121249430443888759",
+      "x:2121249977947074885",
+      "x:2121250466361426002",
+      "x:2121250589799788561"
     ],
     "source_failures": {},
     "sources": []
