@@ -17195,7 +17195,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-14T16:32:26.455434+00:00",
+    "last_run": "2026-11-14T16:47:43.688119+00:00",
     "pib_mark": 2336357,
     "seen": [
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168648",
@@ -19683,6 +19683,7 @@
       "gazette:SG-DL-E-13112026-277898",
       "gazette:CG-MH-E-13112026-277894",
       "site:BCCI|https://www.bcci.tv/news/article/gurnoor-brar-added-to-indias-test-squad-kuldeep-yadav-released",
+      "site:who-don:2026-DON626",
       "gazette:CG-DL-E-13112026-277902",
       "gazette:CG-DL-E-13112026-277903",
       "gazette:CG-WB-E-13112026-277901",
@@ -20142,7 +20143,6 @@
       "pib:2336099",
       "pib:2336101",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tribute-to-former-pm-pandit-jawaharlal-nehru-on-his-birth-anniversary",
-      "site:who-don:2026-DON626",
       "pib:2336125",
       "pib:2336126",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168803",
@@ -20258,11 +20258,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794261334691",
-    "1794261900250",
-    "1794262598010",
-    "1794262680595",
-    "1794262800682",
     "1794264449371",
     "1794264792846",
     "1794239528378",
@@ -24738,7 +24733,6 @@
     "1794615426204",
     "1794632437596",
     "1794636057692",
-    "1794644936064",
     "1794648855236",
     "1794651026650",
     "1794655440087",
@@ -24783,10 +24777,20 @@
     "1794587314828",
     "1794620581345",
     "1794622073251",
-    "1794633228231",
     "1794649140076",
-    "1794664291521",
     "1794668038539",
+    "1794587489416",
+    "1794587785143",
+    "1794588060480",
+    "1794588797511",
+    "1794615060171",
+    "1794619951359",
+    "1794623640277",
+    "1794633019596",
+    "1794650766175",
+    "1794660242848",
+    "1794660300478",
+    "1794672131469",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26058,10 +26062,6 @@
     "1794574842347",
     "1794578347964",
     "1794582000389",
-    "1794587489416",
-    "1794587785143",
-    "1794588060480",
-    "1794588797511",
     "1794588840018",
     "1794588862764",
     "1794588901965",
@@ -26084,10 +26084,8 @@
     "1794612655007",
     "1794613166461",
     "1794614400587",
-    "1794615060171",
     "1794618057190",
     "1794618678088",
-    "1794619951359",
     "1794621038176",
     "1794621504092",
     "1794621600692",
@@ -26097,7 +26095,6 @@
     "1794623192014",
     "1794623400932",
     "1794623460120",
-    "1794623640277",
     "1794623846303",
     "1794625593059",
     "1794625872971",
@@ -26115,8 +26112,8 @@
     "1794632154486",
     "1794632253567",
     "1794632526821",
-    "1794633019596",
     "1794633041571",
+    "1794633228231",
     "1794633520341",
     "1794633932363",
     "1794635100987",
@@ -26138,6 +26135,7 @@
     "1794643697346",
     "1794644039457",
     "1794644790950",
+    "1794644936064",
     "1794645050504",
     "1794645350717",
     "1794645501385",
@@ -26148,7 +26146,6 @@
     "1794648855516",
     "1794650160111",
     "1794650562721",
-    "1794650766175",
     "1794650824038",
     "1794651000084",
     "1794651241371",
@@ -26179,8 +26176,6 @@
     "1794658560039",
     "1794658620016",
     "1794658893656",
-    "1794660242848",
-    "1794660300478",
     "1794660420073",
     "1794660600838",
     "1794661261204",
@@ -26191,6 +26186,7 @@
     "1794662807430",
     "1794663290162",
     "1794663787745",
+    "1794664291521",
     "1794664860955",
     "1794664981773",
     "1794665160596",
@@ -26199,6 +26195,7 @@
     "1794666000343",
     "1794667200956",
     "1794667571619",
+    "1794667680680",
     "1794668005142",
     "1794668055815",
     "1794668140149",
@@ -26212,8 +26209,11 @@
     "1794671443261",
     "1794671878976",
     "1794671885207",
-    "1794672131469",
     "1794673052660",
+    "1794673275936",
+    "1794673380070",
+    "1794674055055",
+    "1794674270469",
     "2331589",
     "2331704",
     "2331803",
@@ -26260,7 +26260,7 @@
     "2336254"
   ],
   "last_digest_hour": "2026-11-14T22",
-  "last_success": "2026-11-14T16:31:18.463495+00:00",
+  "last_success": "2026-11-14T16:46:01.697681+00:00",
   "national": {
     "alerted": [
       {
@@ -36532,12 +36532,13 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-14T16:47:26.480008+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-14T16:32:10.359831+00:00",
+    "last_run": "2026-11-14T16:47:27.811958+00:00",
     "pib_mark": 2336357,
     "seen": [
       "gazette:CG-DL-E-23102026-277358",
@@ -38962,6 +38963,7 @@
       "gazette:CG-MH-E-13112026-277894",
       "quake:ncs:SkNoM1RqeU5hYVRoYkpQNDAzK1hZZz09",
       "site:BCCI|https://www.bcci.tv/news/article/gurnoor-brar-added-to-indias-test-squad-kuldeep-yadav-released",
+      "site:who-don:2026-DON626",
       "gazette:CG-DL-E-13112026-277903",
       "gazette:CG-DL-E-13112026-277902",
       "gazette:CG-WB-E-13112026-277901",
@@ -39480,7 +39482,6 @@
       "mea:41947",
       "pib:2336099",
       "pib:2336101",
-      "site:who-don:2026-DON626",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tribute-to-former-pm-pandit-jawaharlal-nehru-on-his-birth-anniversary",
       "quake:ncs:UmltQnExSVE2TGw4VWtaMnJMV3NNUT09",
       "pib:2336126",
@@ -39546,6 +39547,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "NPCI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -39610,7 +39614,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Ashwini Vaishnaw calls for domestic semiconductor manufacturing machine development",
+      "post": {
+        "created_at": "2026-11-14T14:48:00+00:00",
+        "handle": "News: India semiconductors",
+        "id": "1794667680680",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "India must develop its own semiconductor manufacturing machines, precision...: Ashwini Vaishnaw",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV3diemtvVF9iSGltS2tDZUFEdEItZUp3enkyYzJLLUFwZ1lZMXJfbERiZ0hZQTlURUp4WnoyODFnQVg2d05wQ19qQjV5TFktdENyVU8zSUt1dFpHWGRkeTZvV0pvLUc5MlVGa0gxZjBnUVdaMS1McjVMMDFHa0ZtX051UG9uN2NMaXRuYlM2eklZV243WHU1UFlpdmdPblRHV3dvQzRhZm5SOTRfQU95LW56d3Y3elplX2FWaF9hbzdONUh2NzBKeEdJRXZReG5tZ1VSWFdPUkJTdXN6WWN0eXhSNFMwZDljWE9xZmpn0gHuAUFVX3lxTE9Xd2J6a29UX2JIaW1La0NlQUR0Qi1lSnd6eTJjMkstQXBnWVkxcl9sRGJnSFlBOVRFSnhaejI4MWdBWDZ3TnBDX2pCNXlMWS10Q3JVTzNJS3V0WkdYZGR5Nm9XSm8tRzkyVUZrSDFmMGdRV1oxLUxyNUwwMUdrRm1fTnVQb243Y0xpdG5iUzZ6SVlXbjdYdTVQWWl2Z09uVEdXd29DNGFmblI5NF9BT3ktbnp3djd6WmVfYVZoX2FvN041SHY3MEp4R0lFdlF4bm1nVVJYV09SQlN1c3pZY3R5eFI0UzBkOWNYT3Fmamc?oc=5"
+      },
+      "queued_at": "2026-11-14T16:46:01.640640+00:00",
+      "score": 7.0,
+      "why": "Minister statement on industry direction for semiconductors."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40805,21 +40828,21 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794673052660,
+    "news: big tech platforms": 1794673275936,
     "news: consumer internet india": 1794667571619,
     "news: global ai": 1794667200956,
-    "news: global chips": 1794672131469,
+    "news: global chips": 1794674270469,
     "news: global it services": 1794625593059,
     "news: india ai deeptech": 1794648855516,
     "news: india edtech gaming": 1794575345720,
     "news: india fintech": 1794657735516,
-    "news: india semiconductors": 1794623130272,
+    "news: india semiconductors": 1794667680680,
     "news: india tech policy": 1794668055815,
     "news: india telecom": 1794651241371,
     "news: indian it majors": 1794660426084,
     "news: indian it midcaps": 1794663787745,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794672131469,
+    "news: tech leaders": 1794674270469,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40864,7 +40887,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-14T16:31:18.903151+00:00",
+    "last_server_run": "2026-11-14T16:46:02.093300+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-14T16:31:54.812501+00:00",
@@ -54600,12 +54623,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-14T16:32:16.552242+00:00",
+    "last_run": "2026-11-14T16:47:34.354008+00:00",
     "seen": [
-      "x:2119341320263385594",
-      "x:2119341584286351370",
-      "x:2119342381489148144",
-      "x:2119342858373361852",
       "x:2119343326998519845",
       "x:2119343435278934025",
       "x:2119344351939907596",
@@ -57601,7 +57620,11 @@
       "x:2121636986528432410",
       "x:2121638954231603380",
       "x:2121640270802678124",
-      "x:2121640841894891794"
+      "x:2121640841894891794",
+      "x:2121643038955262323",
+      "x:2121643972946985286",
+      "x:2121644721470890178",
+      "x:2121644832984813756"
     ],
     "source_failures": {},
     "sources": []
