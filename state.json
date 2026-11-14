@@ -2,24 +2,6 @@
   "alerted": [
     {
       "at": "2026-11-04T02:31:39.561259+00:00",
-      "handle": "News: India tech policy",
-      "headline": "India plans indigenous GPU chips in 24 months, says MeitY Secretary",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZkQ4RDB2Y1JyN3Jwd3RNZUFoNUpIQnMwektMQlBaZWw2dmRCZElwNmNJaGdYNG45SWJRYndweXNHZlVDaGFHVGxwZVVqSDlHTDVfUnhHaDVjMjczS0dPb0lpNWtuRmgzSkp0OXczNkdWdmU1elhrUkc5SjJTOUt5OXRnWDlSdGpFNW9XcWpJbDFiUWZYTzQ2OU9sSVRqZV9EV1ZZbTRoRmczd3lwRGFnUmpEZVBOZGFwR2FvazZ2bnJPT1RDbjM1SEF3NjZFYjdNdWRhWFdwU2h3RjRNV1hTSk1VaGdRVXJ4SEc5ZGRyR3dWdWhxX08wVm11QnHSAYICQVVfeXFMTkVGOWF2Y3gyX2xCTmcxWHFWem4zTnRqcDU0V0ZXS1V3eWJNVVdpdGlJX0gzWTBmVzd4aE9DUE1XeER0X1JmUGg5eDNTa25VN2Q4R1E5bnVPRUhSekd2eHZjcEl6eWV0VDB3ekk3OEZtY2p0MlROVU9UdEZCM2xVZmJ0cXNoQmZrYjl1b1RTY3hnUmRnOXlmVGdleHVzNHNuOGx3dVhsaERoejRrbWRobmpZakh6cTNzSUhPeWVtMUpKaEpDNnFkM2Mtak1NTU1wbHhIc1lPOXVPcVhHeWVldG83eFVJdUxtX2lla19hUHE1cWZITWNxbzB4cW9NTG1lcE5R?oc=5",
-      "words": [
-        "chips",
-        "gpu",
-        "indigenous",
-        "krishnan",
-        "meity",
-        "months",
-        "plans",
-        "secretary",
-        "strategy"
-      ]
-    },
-    {
-      "at": "2026-11-04T02:31:39.561259+00:00",
       "handle": "News: Big tech platforms",
       "headline": "AMD reports $1 billion quarterly charge on OpenAI and Meta chip deals",
       "tier": 0,
@@ -7385,33 +7367,32 @@
         "dilemma",
         "power"
       ]
+    },
+    {
+      "at": "2026-11-14T09:46:11.844794+00:00",
+      "handle": "PIB Science and Technology",
+      "headline": "India commits 7 million Euros for Elettra 2.0 synchrotron project",
+      "tier": 1,
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336192",
+      "words": [
+        "beamlines",
+        "commits",
+        "development",
+        "elettra",
+        "euros",
+        "generation",
+        "italy",
+        "jitendra",
+        "million",
+        "next",
+        "partner",
+        "singh",
+        "synchrotron"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-10-26T08:33:07.384559+00:00",
-        "handle": "PIB Ministry of Commerce & Industry",
-        "headline": "Commerce ministry extends export promotion relief initiative until March 2027",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328402",
-        "words": [
-          "2027",
-          "commerce",
-          "department",
-          "export",
-          "extends",
-          "industry",
-          "initiative",
-          "march",
-          "ministry",
-          "mission",
-          "promotion",
-          "relief",
-          "under",
-          "until"
-        ]
-      },
       {
         "at": "2026-10-26T08:33:07.384559+00:00",
         "handle": "PIB Ministry of Defence",
@@ -16144,6 +16125,29 @@
           "ncr",
           "pollution"
         ]
+      },
+      {
+        "at": "2026-11-14T09:47:51.493882+00:00",
+        "handle": "PIB Ministry of Science & Technology",
+        "headline": "India commits over 7 million Euros for Elettra 2.0 synchrotron project in Italy",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336192",
+        "words": [
+          "beamlines",
+          "commits",
+          "development",
+          "elettra",
+          "euros",
+          "generation",
+          "italy",
+          "jitendra",
+          "million",
+          "ministry",
+          "next",
+          "partner",
+          "science",
+          "singh"
+        ]
       }
     ],
     "gazette_mark": 277910,
@@ -17175,10 +17179,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-14T09:32:44.454568+00:00",
-    "pib_mark": 2336181,
+    "last_run": "2026-11-14T09:47:51.494927+00:00",
+    "pib_mark": 2336192,
     "seen": [
-      "page:https://internal.imd.gov.in/press_release/20260909_pr_5302.pdf",
       "mea:41871",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63845",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13734&Mode=0",
@@ -20177,7 +20180,8 @@
       "page:https://internal.imd.gov.in/press_release/20261114_pr_5489.pdf",
       "pib:2336168",
       "gazette:CG-DL-E-14112026-277910",
-      "pib:2336181"
+      "pib:2336181",
+      "pib:2336192"
     ],
     "source_failures": {},
     "sources": [
@@ -20238,13 +20242,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794244020022",
-    "1794244750556",
-    "1794246998050",
-    "1794247716640",
-    "1789631206667",
-    "1792441871457",
-    "1792540800517",
     "1793295075299",
     "1793295075557",
     "1793295075860",
@@ -24647,7 +24644,6 @@
     "1794595839384",
     "1794611398641",
     "1794613680016",
-    "1794622379458",
     "1794630658698",
     "1794635638539",
     "1794638547659",
@@ -24669,7 +24665,6 @@
     "1794632054329",
     "1794559448514",
     "1794580050365",
-    "1794590100580",
     "1794619753383",
     "1794632489380",
     "1794632727917",
@@ -24697,7 +24692,6 @@
     "1793772554134",
     "1793772873639",
     "1794560194037",
-    "1794574483106",
     "1794590409924",
     "1794595132943",
     "1794595560262",
@@ -24705,13 +24699,10 @@
     "1794618005190",
     "1794619716383",
     "1794628076627",
-    "1794632437596",
     "1794560810087",
     "1794585600487",
-    "1794600725970",
     "1794620581345",
     "1794636694280",
-    "1794638973541",
     "1794639575873",
     "1794561745412",
     "1794562080678",
@@ -24727,6 +24718,24 @@
     "1794643697674",
     "1794645982106",
     "1794647298209",
+    "1794562673301",
+    "1794563040496",
+    "1794563563761",
+    "1794565857424",
+    "1794591840273",
+    "1794597780111",
+    "1794599481009",
+    "1794622020160",
+    "1794622031251",
+    "1794633019596",
+    "1794634800174",
+    "1794635926762",
+    "1794639647330",
+    "1794641634541",
+    "1794647714660",
+    "1794647806948",
+    "1794648060524",
+    "1794648450209",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25990,10 +25999,7 @@
     "1794556800697",
     "1794559939903",
     "1794560480511",
-    "1794562673301",
-    "1794563040496",
     "1794563535479",
-    "1794563563761",
     "1794564108590",
     "1794564434164",
     "1794564866791",
@@ -26001,7 +26007,6 @@
     "1794565146854",
     "1794565595305",
     "1794565800856",
-    "1794565857424",
     "1794565920000",
     "1794565980218",
     "1794566756860",
@@ -26026,6 +26031,7 @@
     "1794573172877",
     "1794573226009",
     "1794573861784",
+    "1794574483106",
     "1794574842347",
     "1794575345720",
     "1794575760396",
@@ -26054,10 +26060,10 @@
     "1794588901965",
     "1794589200041",
     "1794589500716",
+    "1794590100580",
     "1794590745069",
     "1794591090315",
     "1794591660628",
-    "1794591840273",
     "1794592740177",
     "1794592800513",
     "1794593040925",
@@ -26073,13 +26079,12 @@
     "1794596880186",
     "1794597089824",
     "1794597499857",
-    "1794597780111",
     "1794598479203",
     "1794598886029",
     "1794599280775",
     "1794599411462",
-    "1794599481009",
     "1794599580240",
+    "1794600725970",
     "1794601066615",
     "1794601800347",
     "1794602710418",
@@ -26108,8 +26113,8 @@
     "1794619951359",
     "1794621504092",
     "1794621628798",
-    "1794622020160",
-    "1794622031251",
+    "1794622073251",
+    "1794622379458",
     "1794622710786",
     "1794622760244",
     "1794623400932",
@@ -26138,16 +26143,14 @@
     "1794632154486",
     "1794632253567",
     "1794632437498",
+    "1794632437596",
     "1794632526821",
     "1794632809181",
-    "1794633019596",
     "1794633041571",
     "1794633520341",
     "1794633932363",
-    "1794634800174",
     "1794635100987",
     "1794635519238",
-    "1794635926762",
     "1794636001495",
     "1794636016984",
     "1794637209564",
@@ -26157,12 +26160,12 @@
     "1794638642880",
     "1794638708183",
     "1794638885197",
+    "1794638973541",
     "1794639120902",
     "1794639600171",
     "1794639600421",
     "1794639600539",
     "1794639645875",
-    "1794639647330",
     "1794640264735",
     "1794640658378",
     "1794640921583",
@@ -26171,7 +26174,6 @@
     "1794641280866",
     "1794641400398",
     "1794641582906",
-    "1794641634541",
     "1794642300043",
     "1794642402876",
     "1794642561953",
@@ -26191,11 +26193,12 @@
     "1794646406703",
     "1794646422109",
     "1794647127173",
-    "1794647714660",
-    "1794647806948",
+    "1794647806083",
     "1794648047184",
-    "1794648060524",
-    "1794648450209",
+    "1794648703209",
+    "1794648704328",
+    "1794648755067",
+    "1794648855236",
     "2331589",
     "2331704",
     "2331803",
@@ -26237,10 +26240,11 @@
     "2335781",
     "2335818",
     "2335968",
-    "2336151"
+    "2336151",
+    "2336192"
   ],
   "last_digest_hour": "2026-11-14T15",
-  "last_success": "2026-11-14T09:31:34.007056+00:00",
+  "last_success": "2026-11-14T09:46:11.886711+00:00",
   "national": {
     "alerted": [
       {
@@ -36494,10 +36498,9 @@
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-14T09:32:13.868680+00:00",
-    "pib_mark": 2336181,
+    "last_run": "2026-11-14T09:47:22.731370+00:00",
+    "pib_mark": 2336192,
     "seen": [
-      "pib:2327738",
       "pib:2327739",
       "pib:2327740",
       "pib:2327729",
@@ -39496,7 +39499,8 @@
       "pib:2336168",
       "gazette:CG-DL-E-14112026-277910",
       "quake:ncs:TW5RQ3NpamNFY1F4U2lpMUFlSFp3dz09",
-      "pib:2336181"
+      "pib:2336181",
+      "pib:2336192"
     ],
     "source_failures": {
       "CBI": {
@@ -40765,18 +40769,18 @@
     "news: big tech platforms": 1794647806948,
     "news: consumer internet india": 1794647127173,
     "news: global ai": 1794645350717,
-    "news: global chips": 1794648450209,
+    "news: global chips": 1794648704328,
     "news: global it services": 1794625593059,
-    "news: india ai deeptech": 1794633520341,
+    "news: india ai deeptech": 1794648855236,
     "news: india edtech gaming": 1794575345720,
     "news: india fintech": 1794623846303,
     "news: india semiconductors": 1794623130272,
-    "news: india tech policy": 1794648060524,
+    "news: india tech policy": 1794648755067,
     "news: india telecom": 1794645501385,
     "news: indian it majors": 1794637295747,
     "news: indian it midcaps": 1794643208554,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794648450209,
+    "news: tech leaders": 1794648704328,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40784,7 +40788,7 @@
     "phonepe": 1793171753713,
     "pib communications": 2335968,
     "pib meity": 2336151,
-    "pib science and technology": 2335781,
+    "pib science and technology": 2336192,
     "razorpay": 1794570581307,
     "redseer": 1794560480511,
     "reg cci": 1795996800387,
@@ -40803,7 +40807,9 @@
     "zoho": 1794501698489
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-14T09:45:53.630137+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40821,17 +40827,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-14T09:31:34.302291+00:00",
+    "last_server_run": "2026-11-14T09:46:12.192184+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-14T07:46:44.589564+00:00",
+        "checked": "2026-11-14T09:46:50.665437+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-14T07:46:35.703244+00:00",
+        "checked": "2026-11-14T09:46:41.720509+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40907,7 +40913,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-14T07:46:39.951109+00:00",
+        "checked": "2026-11-14T09:46:46.257320+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -54483,17 +54489,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-14T09:32:19.278291+00:00",
+    "last_run": "2026-11-14T09:47:35.887258+00:00",
     "seen": [
-      "x:2119254234151727194",
-      "x:2119254300983496801",
-      "x:2119256089162322333",
-      "x:2119256091360199157",
-      "x:2119256091787923558",
-      "x:2119256096007168473",
-      "x:2119256125929578859",
-      "x:2119256223451406337",
-      "x:2119256791477613024",
       "x:2119257157971644545",
       "x:2119257328147161259",
       "x:2119257348019523675",
@@ -57484,7 +57481,16 @@
       "x:2121533735204209083",
       "x:2121534197668163819",
       "x:2121534233613365290",
-      "x:2121535357904638138"
+      "x:2121535357904638138",
+      "x:2121536460352610463",
+      "x:2121536866948403244",
+      "x:2121536954806505760",
+      "x:2121537096913735916",
+      "x:2121537251385733314",
+      "x:2121538493646319659",
+      "x:2121538765156212827",
+      "x:2121539120778592421",
+      "x:2121539442766917697"
     ],
     "source_failures": {},
     "sources": []
