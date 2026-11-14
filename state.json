@@ -17194,11 +17194,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-14T21:02:27.713017+00:00",
+    "last_run": "2026-11-14T21:16:51.820195+00:00",
     "pib_mark": 2336357,
     "seen": [
-      "gazette:CG-DL-E-22102026-277338",
-      "gazette:CG-DL-E-22102026-277339",
       "gazette:CG-DL-E-22102026-277340",
       "gazette:CG-DL-E-22102026-277342",
       "gazette:CG-DL-E-22102026-277341",
@@ -19731,6 +19729,7 @@
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|TWO BANGLADESHI NATIONALS APPREHENDED FOR VIOLATION OF VISA CONDITIONS, DEPORTATION PROCEEDINGS INITIATED.",
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|ACTION UNDER NDPS ACT BY PATROL TEAM OF PS RAJ PARK ,One accused arrested by the team 65 Grams ganja recovered and seized",
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|ACTION UNDER ARMS ACT BY OUTER DISTRICT POLICE ,02 Accused arrested by the teams",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-golden-jubilee-celebrations-of-prashanti-kutiram-in-bengaluru-karnataka",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-eco-palm-factory-foundation-plaque-unveiling-and-addresses-mega-rythu-mela-public-meeting-at-lagacherla-industrial-corridor-kodangal-vikarabad/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist-2/",
@@ -20153,7 +20152,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
       "certin:CIAD-2026-0059",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-golden-jubilee-celebrations-of-prashanti-kutiram-in-bengaluru-karnataka",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-by-union-minister-shri-jagat-prakash-nadda-highlighting-indias-steps-towards-easing-the-burden-of-cancer-treatment-and-ensuring-affordable-healthcare",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-laying-of-the-foundation-stone-and-inauguration-of-various-development-projects-in-bengaluru",
       "dgft-public-notice:768cd243-7a87-4e5b-a78a-691d64512816",
@@ -20196,7 +20194,9 @@
       "gazette:CG-DL-E-14112026-277919",
       "gazette:CG-MH-E-14112026-277923",
       "gazette:CG-DL-E-14112026-277916",
-      "gazette:CG-DL-E-14112026-277922"
+      "gazette:CG-DL-E-14112026-277922",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-indian-mens-u-19-cricket-team-on-winning-mens-u-19-asia-cup-2026",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-the-loss-of-lives-due-to-a-mishap-in-tarn-taran-punjab"
     ],
     "source_failures": {},
     "sources": [
@@ -24718,7 +24718,6 @@
     "1794658620016",
     "1794599340462",
     "1794605580058",
-    "1794673788936",
     "1794674270469",
     "1794677171104",
     "1794592025475",
@@ -24802,13 +24801,16 @@
     "1794638708183",
     "1794641803217",
     "1794643697346",
-    "1794651327212",
     "1794656640957",
     "1794658893656",
     "1794680208324",
     "1794681064183",
     "1794685084541",
     "1794687702170",
+    "1794623400932",
+    "1794633228231",
+    "1794662100212",
+    "1794681287798",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26089,7 +26091,6 @@
     "1794621628798",
     "1794622710786",
     "1794622760244",
-    "1794623400932",
     "1794623460120",
     "1794623846303",
     "1794625593059",
@@ -26109,7 +26110,6 @@
     "1794632253567",
     "1794632526821",
     "1794633041571",
-    "1794633228231",
     "1794633520341",
     "1794633932363",
     "1794636001495",
@@ -26140,6 +26140,7 @@
     "1794651000525",
     "1794651241371",
     "1794651300562",
+    "1794651327212",
     "1794652200402",
     "1794652265360",
     "1794653520210",
@@ -26158,7 +26159,6 @@
     "1794658560039",
     "1794659026692",
     "1794660600838",
-    "1794662100212",
     "1794662143760",
     "1794662389833",
     "1794662807430",
@@ -26184,6 +26184,7 @@
     "1794673275936",
     "1794673380070",
     "1794673657048",
+    "1794673788936",
     "1794673946928",
     "1794674055055",
     "1794674385992",
@@ -26204,7 +26205,6 @@
     "1794680995736",
     "1794681064559",
     "1794681116328",
-    "1794681287798",
     "1794683854660",
     "1794684000622",
     "1794684399105",
@@ -26259,7 +26259,7 @@
     "2336254"
   ],
   "last_digest_hour": "2026-11-15T02",
-  "last_success": "2026-11-14T21:01:33.516760+00:00",
+  "last_success": "2026-11-14T21:15:57.474657+00:00",
   "national": {
     "alerted": [
       {
@@ -36536,11 +36536,9 @@
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-14T21:02:15.186733+00:00",
+    "last_run": "2026-11-14T21:16:37.344014+00:00",
     "pib_mark": 2336357,
     "seen": [
-      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-national-green-tribunal",
-      "gazette:CG-DL-E-23102026-277363",
       "gazette:CG-DL-E-23102026-277361",
       "gazette:CG-DL-E-23102026-277364",
       "gazette:CG-CG-E-23102026-277362",
@@ -39011,6 +39009,8 @@
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|ACTION UNDER NDPS ACT BY PATROL TEAM OF PS RAJ PARK ,One accused arrested by the team 65 Grams ganja recovered and seized",
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|ACTION UNDER ARMS ACT BY OUTER DISTRICT POLICE ,02 Accused arrested by the teams",
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|TWO BANGLADESHI NATIONALS APPREHENDED FOR VIOLATION OF VISA CONDITIONS, DEPORTATION PROCEEDINGS INITIATED.",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-golden-jubilee-celebrations-of-prashanti-kutiram-in-bengaluru-karnataka",
+      "quake:ncs:TW5RQ3NpamNFY1F4U2lpMUFlSFp3dz09",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-eco-palm-factory-foundation-plaque-unveiling-and-addresses-mega-rythu-mela-public-meeting-at-lagacherla-industrial-corridor-kodangal-vikarabad/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist-2/",
@@ -39490,7 +39490,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
       "certin:CIAD-2026-0059",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-golden-jubilee-celebrations-of-prashanti-kutiram-in-bengaluru-karnataka",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-by-union-minister-shri-jagat-prakash-nadda-highlighting-indias-steps-towards-easing-the-burden-of-cancer-treatment-and-ensuring-affordable-healthcare",
       "page:https://www.cbse.gov.in/cbsenew/documents/IPS_Spot_Evalu_2526_13112026.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-laying-of-the-foundation-stone-and-inauguration-of-various-development-projects-in-bengaluru",
@@ -39527,7 +39526,6 @@
       "mea:41947",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tribute-to-former-pm-pandit-jawaharlal-nehru-on-his-birth-anniversary",
       "page:https://internal.imd.gov.in/press_release/20261114_pr_5489.pdf",
-      "quake:ncs:TW5RQ3NpamNFY1F4U2lpMUFlSFp3dz09",
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|01 ACTIVE THIEF ARRESTED WITH RECOVERY OF A STOLEN MOTORCYCLE, BY THE TEAM OF PS SECTOR 23, DWARKA",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-to-participate-in-janjatiya-gaurav-diwas-programme-on-15-november",
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|MAJOR CRACKDOWN ON ORGANIZED CRIME NETWORK, SPECIAL CELL ARRESTS KEY SHOOTERS, PREVENTS TWO MAJOR SHOOTOUT AND ONE SHOOTING CASE WORKOUT",
@@ -39538,7 +39536,9 @@
       "gazette:CG-MH-E-14112026-277923",
       "gazette:CG-DL-E-14112026-277919",
       "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-lok-sabha-sri-rahul-gandhi-participates-in-valedictory-session-of-bharat-summit-2026-at-hicc-madhapur-hyd/",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-foundation-laying-ceremony-of-the-phfi-institute-of-public-health-sciences-campus-in-hyd/"
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-foundation-laying-ceremony-of-the-phfi-institute-of-public-health-sciences-campus-in-hyd/",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-the-loss-of-lives-due-to-a-mishap-in-tarn-taran-punjab",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-indian-mens-u-19-cricket-team-on-winning-mens-u-19-asia-cup-2026"
     ],
     "source_failures": {
       "CBI": {
@@ -40863,7 +40863,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-14T21:01:34.005667+00:00",
+    "last_server_run": "2026-11-14T21:15:57.881253+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-14T20:47:02.650123+00:00",
@@ -54599,7 +54599,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-14T21:02:18.432588+00:00",
+    "last_run": "2026-11-14T21:16:40.267053+00:00",
     "seen": [
       "x:2119351200332284006",
       "x:2119353327150608399",
