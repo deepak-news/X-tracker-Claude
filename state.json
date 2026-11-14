@@ -17192,11 +17192,9 @@
       "CG-MH-E-14112026-277923"
     ],
     "health": {
-      "down": {
-        "State: Telangana": "2026-11-14T18:18:17.201034+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-14T18:18:18.482473+00:00",
+    "last_run": "2026-11-14T18:33:22.684040+00:00",
     "pib_mark": 2336357,
     "seen": [
       "gazette:CG-DL-E-22102026-277338",
@@ -19686,6 +19684,8 @@
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-government-junior-college-at-doulatabad-kodangal-vikarabad-district-2/",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168803",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist/",
+      "certin:CIAD-2026-0049",
+      "site:Delhi Police press releases|dp-press:11/13/2026 12:00:00 AM|MURDER CASE IN THE AREA OF PS NAND NAGRI SOLVED. TWO CCLs APPREHENDED. WEAPON OF OFFANCE RECOVERED.",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-eco-palm-factory-foundation-plaque-unveiling-and-addresses-mega-rythu-mela-public-meeting-at-lagacherla-industrial-corridor-kodangal-vikarabad/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist-2/",
@@ -19869,7 +19869,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "certin:CIAD-2026-0050",
-      "certin:CIAD-2026-0049",
       "certin:CIAD-2026-0051",
       "certin:CIAD-2026-0052",
       "certin:CIAD-2026-0053",
@@ -20150,7 +20149,6 @@
       "pib:2336126",
       "pib:2336127",
       "pib:2336134",
-      "site:Delhi Police press releases|dp-press:11/13/2026 12:00:00 AM|MURDER CASE IN THE AREA OF PS NAND NAGRI SOLVED. TWO CCLs APPREHENDED. WEAPON OF OFFANCE RECOVERED.",
       "watch:bulletin:RS|2026-11-14|Bulletin Part-II",
       "pib:2336151",
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|SNATCHING CASE DETECTED BY PS MAYUR VIHAR",
@@ -20200,11 +20198,7 @@
       "pib:2336340",
       "pib:2336357"
     ],
-    "source_failures": {
-      "State: Telangana": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20263,12 +20257,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794184200821",
-    "1794242880005",
-    "1794245233724",
-    "1794247620144",
-    "1794261695139",
-    "1794266801698",
     "1794269163201",
     "1794241423546",
     "1794245328724",
@@ -24787,10 +24775,8 @@
     "1794653115656",
     "1794661732230",
     "1794662100212",
-    "1794664981773",
     "1794674700179",
     "1794677456209",
-    "1794595560262",
     "1794618678088",
     "1794641400398",
     "1794657340544",
@@ -24798,6 +24784,19 @@
     "1794665893254",
     "1794666000343",
     "1794668005142",
+    "1792022400459",
+    "1794594516513",
+    "1794621504092",
+    "1794623400932",
+    "1794628080594",
+    "1794632637638",
+    "1794643326531",
+    "1794651277520",
+    "1794663290162",
+    "1794673140052",
+    "1794674716597",
+    "1794676440867",
+    "1794679592591",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25648,7 +25647,6 @@
     "1792006248150",
     "1792007150500",
     "1792011600719",
-    "1792022400459",
     "1792044000549",
     "1792047686584",
     "1792051200125",
@@ -26070,8 +26068,8 @@
     "1794578347964",
     "1794582000389",
     "1794589200041",
-    "1794594516513",
     "1794595231008",
+    "1794595560262",
     "1794596040340",
     "1794597089824",
     "1794598479203",
@@ -26085,12 +26083,10 @@
     "1794614400587",
     "1794618005190",
     "1794621038176",
-    "1794621504092",
     "1794621628798",
     "1794622710786",
     "1794622760244",
     "1794623192014",
-    "1794623400932",
     "1794623460120",
     "1794623846303",
     "1794625593059",
@@ -26099,7 +26095,6 @@
     "1794626869740",
     "1794627006418",
     "1794627360880",
-    "1794628080594",
     "1794628544076",
     "1794630465860",
     "1794630816692",
@@ -26109,7 +26104,6 @@
     "1794632154486",
     "1794632253567",
     "1794632526821",
-    "1794632637638",
     "1794633041571",
     "1794633228231",
     "1794633520341",
@@ -26125,7 +26119,6 @@
     "1794641582906",
     "1794641803217",
     "1794642561953",
-    "1794643326531",
     "1794643329867",
     "1794643697346",
     "1794644790950",
@@ -26143,7 +26136,6 @@
     "1794650824038",
     "1794651000525",
     "1794651241371",
-    "1794651277520",
     "1794651300562",
     "1794651327212",
     "1794652200402",
@@ -26175,10 +26167,10 @@
     "1794661261204",
     "1794662143760",
     "1794662807430",
-    "1794663290162",
     "1794663787745",
     "1794664291521",
     "1794664860955",
+    "1794664981773",
     "1794665160596",
     "1794665332590",
     "1794667200956",
@@ -26198,15 +26190,14 @@
     "1794671878976",
     "1794671945176",
     "1794673052660",
-    "1794673140052",
     "1794673275936",
     "1794673380070",
     "1794673657048",
     "1794673946928",
     "1794674055055",
     "1794674385992",
-    "1794674716597",
-    "1794676440867",
+    "1794674716133",
+    "1794676440023",
     "1794676492516",
     "1794677100148",
     "1794677171801",
@@ -26216,9 +26207,12 @@
     "1794677751016",
     "1794678416209",
     "1794678891142",
-    "1794679592591",
     "1794679620035",
+    "1794679736290",
     "1794679925235",
+    "1794680119567",
+    "1794680208324",
+    "1794680471784",
     "2331589",
     "2331704",
     "2331803",
@@ -26264,8 +26258,8 @@
     "2336192",
     "2336254"
   ],
-  "last_digest_hour": "2026-11-14T23",
-  "last_success": "2026-11-14T18:16:10.713165+00:00",
+  "last_digest_hour": "2026-11-15T00",
+  "last_success": "2026-11-14T18:31:21.575577+00:00",
   "national": {
     "alerted": [
       {
@@ -36542,7 +36536,7 @@
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-14T18:16:48.434568+00:00",
+    "last_run": "2026-11-14T18:33:03.819016+00:00",
     "pib_mark": 2336357,
     "seen": [
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-national-green-tribunal",
@@ -38970,6 +38964,8 @@
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-government-junior-college-at-doulatabad-kodangal-vikarabad-district-2/",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168803",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist/",
+      "certin:CIAD-2026-0049",
+      "site:Delhi Police press releases|dp-press:11/13/2026 12:00:00 AM|MURDER CASE IN THE AREA OF PS NAND NAGRI SOLVED. TWO CCLs APPREHENDED. WEAPON OF OFFANCE RECOVERED.",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-eco-palm-factory-foundation-plaque-unveiling-and-addresses-mega-rythu-mela-public-meeting-at-lagacherla-industrial-corridor-kodangal-vikarabad/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist-2/",
@@ -39154,7 +39150,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "certin:CIAD-2026-0050",
-      "certin:CIAD-2026-0049",
       "certin:CIAD-2026-0051",
       "certin:CIAD-2026-0052",
       "certin:CIAD-2026-0053",
@@ -39492,7 +39487,6 @@
       "pib:2336125",
       "pib:2336127",
       "pib:2336134",
-      "site:Delhi Police press releases|dp-press:11/13/2026 12:00:00 AM|MURDER CASE IN THE AREA OF PS NAND NAGRI SOLVED. TWO CCLs APPREHENDED. WEAPON OF OFFANCE RECOVERED.",
       "watch:bulletin:RS|2026-11-14|Bulletin Part-II",
       "pib:2336151",
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|AATS, SOUTH DISTRICT APPREHENDS PROLIFICAUTO LIFTER AND MOBILE PHONE THIEF",
@@ -40812,8 +40806,8 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1794679925235,
     "news: consumer internet india": 1794673946928,
-    "news: global ai": 1794677400646,
-    "news: global chips": 1794679620035,
+    "news: global ai": 1794680471784,
+    "news: global chips": 1794680208324,
     "news: global it services": 1794625593059,
     "news: india ai deeptech": 1794648855516,
     "news: india edtech gaming": 1794575345720,
@@ -40821,10 +40815,10 @@
     "news: india semiconductors": 1794667680680,
     "news: india tech policy": 1794674716597,
     "news: india telecom": 1794674385992,
-    "news: indian it majors": 1794660426084,
+    "news: indian it majors": 1794680119567,
     "news: indian it midcaps": 1794663787745,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794679620035,
+    "news: tech leaders": 1794679736290,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40869,17 +40863,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-14T18:16:11.054568+00:00",
+    "last_server_run": "2026-11-14T18:31:21.964856+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-14T16:31:54.812501+00:00",
+        "checked": "2026-11-14T18:32:17.928115+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-14T16:31:46.803162+00:00",
+        "checked": "2026-11-14T18:32:09.687809+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40955,7 +40949,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-14T16:31:50.799336+00:00",
+        "checked": "2026-11-14T18:32:13.832513+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -54605,9 +54599,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-14T18:16:52.482060+00:00",
+    "last_run": "2026-11-14T18:33:10.528151+00:00",
     "seen": [
-      "x:2119349423411171660",
       "x:2119349889398432009",
       "x:2119350286443761935",
       "x:2119350461077602476",
@@ -57606,7 +57599,8 @@
       "x:2121655767195652101",
       "x:2121660128390996314",
       "x:2121660365415301430",
-      "x:2121663482626224614"
+      "x:2121663482626224614",
+      "x:2121671377614950627"
     ],
     "source_failures": {},
     "sources": []
