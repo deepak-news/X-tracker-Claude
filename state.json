@@ -17169,11 +17169,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-14T05:32:58.338095+00:00",
-    "pib_mark": 2336126,
+    "last_run": "2026-11-14T05:47:29.507281+00:00",
+    "pib_mark": 2336127,
     "seen": [
-      "site:GDACS disaster alerts|http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573141",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-ravi-karthik-budigina-on-winning-bronze-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-rahul-on-winning-bronze-at-the-asian-para-games",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63840",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63841",
@@ -19698,6 +19696,7 @@
       "site:ICC|https://www.icc-cricket.com/media-releases/sri-lanka-pakistan-maintain-winning-starts-on-day-2-of-icc-women-s-emerging-nations-trophy-2026",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-importance-of-properly-assimilating-dharma-wealth-food-a-gurus-teachings-and-medicine",
       "pib:2336117",
+      "site:ai:ISRO|https://www.isro.gov.in/Thirtieth_Session_of_the_Intergovernmental_Consultative_Committee.html",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -20160,7 +20159,6 @@
       "gazette:CG-DL-E-13112026-277902",
       "gazette:CG-MH-E-13112026-277894",
       "gazette:CG-DL-E-13112026-277903",
-      "site:ai:ISRO|https://www.isro.gov.in/Thirtieth_Session_of_the_Intergovernmental_Consultative_Committee.html",
       "gazette:CG-WB-E-13112026-277901",
       "mea:41947",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168804",
@@ -20171,7 +20169,9 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tribute-to-former-pm-pandit-jawaharlal-nehru-on-his-birth-anniversary",
       "site:who-don:2026-DON626",
       "pib:2336125",
-      "pib:2336126"
+      "pib:2336126",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168803",
+      "pib:2336127"
     ],
     "source_failures": {},
     "sources": [
@@ -20232,8 +20232,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794225447841",
-    "1794227400947",
     "1794227748732",
     "1794229017873",
     "1794199380807",
@@ -24655,7 +24653,6 @@
     "1794606766201",
     "1794615450199",
     "1794616200666",
-    "1794618057190",
     "1794627360384",
     "1794628630207",
     "1794543360732",
@@ -24684,10 +24681,8 @@
     "1794617096287",
     "1794617927055",
     "1794630238539",
-    "1794559448514",
     "1794576174538",
     "1794585480816",
-    "1794595963325",
     "1794597600775",
     "1794598255692",
     "1794599521040",
@@ -24696,23 +24691,26 @@
     "1794618780891",
     "1794619951359",
     "1794622968353",
-    "1794631620228",
     "1794547166889",
     "1794547352726",
     "1794566637977",
-    "1794583440728",
     "1794587788297",
     "1794595646262",
-    "1794596040063",
     "1794603655692",
-    "1794603883545",
     "1794618105449",
     "1794619716383",
     "1794621959199",
     "1794622222235",
-    "1794622710786",
     "1794622737922",
     "1794631097889",
+    "1794551546996",
+    "1794596040340",
+    "1794604722692",
+    "1794608187736",
+    "1794618005190",
+    "1794623130272",
+    "1794624313027",
+    "1794631620070",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25977,7 +25975,6 @@
     "1794550328131",
     "1794550424910",
     "1794551078219",
-    "1794551546996",
     "1794551898434",
     "1794552765901",
     "1794552921935",
@@ -25993,6 +25990,7 @@
     "1794556800697",
     "1794558924271",
     "1794559008433",
+    "1794559448514",
     "1794559939903",
     "1794560194037",
     "1794560480511",
@@ -26054,6 +26052,7 @@
     "1794582001447",
     "1794582152178",
     "1794582225774",
+    "1794583440728",
     "1794583820621",
     "1794584247881",
     "1794584298514",
@@ -26092,8 +26091,9 @@
     "1794595132943",
     "1794595231008",
     "1794595560262",
+    "1794595963325",
     "1794596028342",
-    "1794596040340",
+    "1794596040063",
     "1794596113922",
     "1794596880186",
     "1794597089824",
@@ -26112,16 +26112,15 @@
     "1794602710418",
     "1794603313855",
     "1794603618739",
+    "1794603883545",
     "1794604336695",
     "1794604383255",
-    "1794604722692",
     "1794605512937",
     "1794605580058",
     "1794605946791",
     "1794606723498",
     "1794607776078",
     "1794607894667",
-    "1794608187736",
     "1794609040212",
     "1794609780556",
     "1794609780625",
@@ -26134,7 +26133,7 @@
     "1794615426204",
     "1794615900833",
     "1794617640234",
-    "1794618005190",
+    "1794618057190",
     "1794618075192",
     "1794618143230",
     "1794618588894",
@@ -26148,15 +26147,14 @@
     "1794622020160",
     "1794622038262",
     "1794622039251",
+    "1794622710786",
     "1794622760244",
-    "1794623130272",
     "1794623192014",
     "1794623400932",
     "1794623460120",
     "1794623460300",
     "1794623640277",
     "1794623846303",
-    "1794624313027",
     "1794624564838",
     "1794625593059",
     "1794625872971",
@@ -26179,7 +26177,7 @@
     "1794630816692",
     "1794631025359",
     "1794631610380",
-    "1794631620070",
+    "1794631620228",
     "1794631745108",
     "1794631758246",
     "1794632054329",
@@ -26191,6 +26189,8 @@
     "1794632526821",
     "1794632727917",
     "1794633520341",
+    "1794633932363",
+    "1794634363585",
     "2331589",
     "2331704",
     "2331803",
@@ -26234,7 +26234,7 @@
     "2335968"
   ],
   "last_digest_hour": "2026-11-14T11",
-  "last_success": "2026-11-14T05:31:35.418454+00:00",
+  "last_success": "2026-11-14T05:46:21.393673+00:00",
   "national": {
     "alerted": [
       {
@@ -36473,17 +36473,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-14T05:32:39.369562+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-14T05:32:41.952958+00:00",
-    "pib_mark": 2336126,
+    "last_run": "2026-11-14T05:47:12.740661+00:00",
+    "pib_mark": 2336127,
     "seen": [
-      "pib:2327589",
-      "pib:2327573",
       "pib:2327596",
       "pib:2327597",
       "pib:2327594",
@@ -38946,6 +38943,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-importance-of-properly-assimilating-dharma-wealth-food-a-gurus-teachings-and-medicine",
       "quake:usgs:us7000ty1a",
       "pib:2336117",
+      "site:ai:ISRO|https://www.isro.gov.in/Thirtieth_Session_of_the_Intergovernmental_Consultative_Committee.html",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -39468,7 +39466,6 @@
       "gazette:CG-MH-E-13112026-277894",
       "gazette:CG-DL-E-13112026-277903",
       "gazette:CG-DL-E-13112026-277902",
-      "site:ai:ISRO|https://www.isro.gov.in/Thirtieth_Session_of_the_Intergovernmental_Consultative_Committee.html",
       "gazette:CG-WB-E-13112026-277901",
       "mea:41947",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168802",
@@ -39481,15 +39478,14 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tribute-to-former-pm-pandit-jawaharlal-nehru-on-his-birth-anniversary",
       "quake:ncs:UmltQnExSVE2TGw4VWtaMnJMV3NNUT09",
       "pib:2336126",
-      "pib:2336125"
+      "pib:2336125",
+      "pib:2336127",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168803"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39555,7 +39551,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "TRAI disconnects over 1.24 lakh mobile connections for spam",
+      "post": {
+        "created_at": "2026-11-14T05:32:43+00:00",
+        "handle": "News: India telecom",
+        "id": "1794634363585",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Mint",
+        "reposts": 0,
+        "text": "TRAI crackdown on spam: Over 1.24 lakh mobile connections barred or disconnected in Jul-Sep",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcUQzb0JlLXJEcFZDNW1GMU5YbnYyMW5Bc2syeG1uNzNFeGpNWTNUUEJGOUZzcUYwXzVRSlFoOTRvTjhIc1Z3LW1PTWx6bGtSWGNzeDJEcERwMXFUN3lzblN6TUpRNHFBN0FYS3JZWlFGTEJvNFE3SWwwYlZobk9SZjYxQjN4QV9SMGhEOU9ZNTJ6cF85MHp0YmZYTXlTVDZ0M2hqLTE4Q1FGek43ZWI0bFRoYmdiMWctd1NlenZmOUVsemJHU1gza2lqMzRDcTlVWmhQQ09PQQ?oc=5"
+      },
+      "queued_at": "2026-11-14T05:46:21.352477+00:00",
+      "score": 7.0,
+      "why": "Major telecom regulatory action affecting consumers and operators directly."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40747,7 +40762,7 @@
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
     "news: big tech platforms": 1794632054329,
-    "news: consumer internet india": 1794632526821,
+    "news: consumer internet india": 1794633932363,
     "news: global ai": 1794633520341,
     "news: global chips": 1794632727917,
     "news: global it services": 1794625593059,
@@ -40756,7 +40771,7 @@
     "news: india fintech": 1794623846303,
     "news: india semiconductors": 1794623130272,
     "news: india tech policy": 1794630465860,
-    "news: india telecom": 1794625872971,
+    "news: india telecom": 1794634363585,
     "news: indian it majors": 1794631758246,
     "news: indian it midcaps": 1794584298514,
     "news: pib releases": 1790159940641,
@@ -40807,7 +40822,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-14T05:31:35.744215+00:00",
+    "last_server_run": "2026-11-14T05:46:21.686267+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-14T05:32:16.522236+00:00",
@@ -54295,16 +54310,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-14T05:32:49.300443+00:00",
+    "last_run": "2026-11-14T05:47:20.732742+00:00",
     "seen": [
-      "x:2119057448380268707",
-      "x:2119057752865837413",
-      "x:2119059797546762480",
-      "x:2119060180059173136",
-      "x:2119060518421905519",
-      "x:2119063481026847069",
-      "x:2119063650531201212",
-      "x:2119064729943466412",
       "x:2119065031942017463",
       "x:2119065082651181505",
       "x:2119067357989552513",
@@ -57296,7 +57303,15 @@
       "x:2121472637734109633",
       "x:2121472798434701524",
       "x:2121473335372722287",
-      "x:2121475098196484325"
+      "x:2121475098196484325",
+      "x:2121475512354943469",
+      "x:2121475679858671856",
+      "x:2121475693431406861",
+      "x:2121476874547367961",
+      "x:2121477155045740900",
+      "x:2121477984565772613",
+      "x:2121478216741507573",
+      "x:2121478425311690879"
     ],
     "source_failures": {},
     "sources": []
