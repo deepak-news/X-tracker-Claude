@@ -1,43 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-04T02:31:39.561259+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "AMD reports $1 billion quarterly charge on OpenAI and Meta chip deals",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3RKZ3JJTFBHVzJUVXg5b3plRk1ia1FPSFhZNE9FUEtPd3pBQ2ZSa2psVmphTk43UEs2cUxxc1ZfMDRYOUFzMHhROXN5WmoxZURqU29xRDVhS05CRnFJZjZwTHNySkJGbzd1Z0ZadDdlcUdxaV9CSE1xUERDQXZ4S1hWT0dZME1mV1VpTW45dXVMRzNiRmcyZHN0Ql9mbHlpdzBZd216czZCY29ydzdZbGtWSFByRDdvcGc?oc=5",
-      "words": [
-        "amd",
-        "billion",
-        "charge",
-        "chip",
-        "deals",
-        "meta",
-        "openai",
-        "quarterly",
-        "trigger"
-      ]
-    },
-    {
-      "at": "2026-11-04T03:31:36.435771+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Sarvam launches open weights AI decision model with 44-millisecond response time",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeXhUbXJEZzI4VFduaWtPWlRGZEZvNzlPTFlaRDM5VWhUUHFqVGhBclJLcWE2U0NhbjFGMHNIVUxmVnFMVDJWbHdWdHllaFVmUEg3UlhmVTJKM0k0Qmp0MnFWWE16UGhXVzZOUUVwMm01cS0wemdyUDVGdEw3TTU1X3RrYlpBWEFuQ1BESEVsU3htdEw3X3dDRlpiZHB1TURiXzMwY1g5RGlrN0xROEV5RDNrWmlNUTE1eUNYZ2NQN05JU01mZW5teVF6STQwOC12ZnNPZ3hYdEZRM1lodUhTQg?oc=5",
-      "words": [
-        "decision",
-        "enterprises",
-        "launches",
-        "millisecond",
-        "model",
-        "open",
-        "response",
-        "sarvam",
-        "time",
-        "weights"
-      ]
-    },
-    {
       "at": "2026-11-04T03:31:36.435771+00:00",
       "handle": "News: India AI deeptech",
       "headline": "Fractal Analytics crosses $100 million in quarterly revenue",
@@ -7388,6 +7351,46 @@
         "partner",
         "singh",
         "synchrotron"
+      ]
+    },
+    {
+      "at": "2026-11-14T10:31:30.722395+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Gautam Bhatia wins the Infosys Prize for humanities",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNmw3NDd6ZXRKZ2htTVBBZUVqOWdQNGppR25RQUYxbHJFR1djVDFzaGltSjItdjNCS3JZaTJMNTJNTmI2czRkcGVkUEpDSDc1aXdtOXZ0NHVINXZBc3NqSGlfSWNoVVRHdHllVUp0U1NjNGFOU2xXSmxfaktoVFdabFI1YkptMWkwb19QdlBNYmVLcV9VMzBEeVFwczc0S1lkRlY4UV9DUjNMcktYU05NMUx1QVJRVjJiRnZhZVJHeG91M2pfSXNSUXN6N01FQ29uMlU2S2VIeW5yR2J4TXVZV3RwYm1DT1l2YU9URkFzWWdzQdIB8gFBVV95cUxPNmw3NDd6ZXRKZ2htTVBBZUVqOWdQNGppR25RQUYxbHJFR1djVDFzaGltSjItdjNCS3JZaTJMNTJNTmI2czRkcGVkUEpDSDc1aXdtOXZ0NHVINXZBc3NqSGlfSWNoVVRHdHllVUp0U1NjNGFOU2xXSmxfaktoVFdabFI1YkptMWkwb19QdlBNYmVLcV9VMzBEeVFwczc0S1lkRlY4UV9DUjNMcktYU05NMUx1QVJRVjJiRnZhZVJHeG91M2pfSXNSUXN6N01FQ29uMlU2S2VIeW5yR2J4TXVZV3RwYm1DT1l2YU9URkFzWWdzQQ?oc=5",
+      "words": [
+        "about",
+        "bhatia",
+        "free",
+        "gautam",
+        "infosys",
+        "now",
+        "prize",
+        "sci",
+        "speech",
+        "won",
+        "writes"
+      ]
+    },
+    {
+      "at": "2026-11-14T10:31:30.722395+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft warns hackers are exploiting global outage for phishing",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYzZzdEhsSmhtY3Q0V2xac1NWQ0luOVV5SjJCamo5aUpwQzlwY25pWUpMOTUwclliYUl2Z0l4M0k0MlQwSEFRMHFZLU5kbzhJYVBzaEJmeGdpNlh1eU5wMC1nbEJoSTVQaTYzcVJJLXJPQjBGT3g1QldkNTcyUVVwai1OV1JNWjBEMGZNd3lpb2Y1UFFvcFltdkJMYzZWU1pfSFdoRGdVUTJ6b1BfZzQxODFWczQwd1FDQWFQdUViVldoS2RtRjVpUUlhR1VOSGw1dmw2djljYlg5Q29wa0c5NTlQd3ZIM214MkNyek5OMmNJZEt1dWcwMNIB_gFBVV95cUxPdUVOZ3VSTjJiUkhZRWhVVHVCYUZoNTVBWWxBbnNtXzZJMHdOenFYWHpzeFhBUFdQMzNOR2x4YW43ZVllUlZiM1BoX21LaUJCTXUtWk9TWGlFOExlZlpJNWpodjc0eEJ5Tzl3VGdlbExBelhTY0Vtb3RVSHRrUmdQd1Jpc250UC1vekxpZEdpWl92X0htYUhHdUhOeUVXVXdwQUdoNEpyOXo2dnhEX0RYSTE3NW1kS29DcjdOcDdxS0tjNm1GMmVoTWxZdlMwS3dEN0M3Vlg3RXJUZVFZRUw4LXdXWUl6VERwelktS3FzdHRUanhkUGs2YmMtSzc1UQ?oc=5",
+      "words": [
+        "credentials",
+        "emails",
+        "exploiting",
+        "hackers",
+        "microsoft",
+        "outage",
+        "phishing",
+        "recent",
+        "send",
+        "steal",
+        "warns"
       ]
     }
   ],
@@ -17175,17 +17178,15 @@
       "CG-MH-E-13112026-277894",
       "CG-WB-E-13112026-277901",
       "CG-DL-E-14112026-277910",
-      "CG-OR-E-14112026-277909"
+      "CG-OR-E-14112026-277909",
+      "CG-DL-E-14112026-277908"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-14T10:17:18.203518+00:00",
-    "pib_mark": 2336193,
+    "last_run": "2026-11-14T10:33:15.718594+00:00",
+    "pib_mark": 2336206,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63845",
-      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13734&Mode=0",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63846",
       "gazette:CG-DL-E-21102026-277324",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63847",
       "gazette:CG-DL-E-21102026-277326",
@@ -19671,8 +19672,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168804",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168802",
       "gazette:CG-DL-E-12112026-277864",
-      "gazette:CG-DL-E-12112026-277866",
       "gazette:CG-DL-E-12112026-277865",
+      "gazette:CG-DL-E-12112026-277866",
       "gazette:CG-DL-E-12112026-277868",
       "gazette:CG-DL-E-12112026-277867",
       "gazette:CG-DL-E-12112026-277869",
@@ -20182,7 +20183,10 @@
       "gazette:CG-DL-E-14112026-277910",
       "pib:2336181",
       "pib:2336192",
-      "pib:2336193"
+      "pib:2336193",
+      "gazette:CG-OR-E-14112026-277909",
+      "gazette:CG-DL-E-14112026-277908",
+      "pib:2336206"
     ],
     "source_failures": {},
     "sources": [
@@ -20243,17 +20247,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794197264103",
-    "1794224949743",
-    "1794225601511",
-    "1794241991189",
-    "1794244236010",
-    "1794247260848",
-    "1794249498010",
-    "1794203520021",
-    "1794215756462",
-    "1794222289828",
-    "1794232800059",
     "1794235449209",
     "1794236220677",
     "1794236735157",
@@ -24680,7 +24673,6 @@
     "1794590409924",
     "1794595132943",
     "1794609040212",
-    "1794619716383",
     "1794628076627",
     "1794560810087",
     "1794620581345",
@@ -24702,7 +24694,6 @@
     "1794563563761",
     "1794565857424",
     "1794599481009",
-    "1794622020160",
     "1794622031251",
     "1794633019596",
     "1794635926762",
@@ -24722,7 +24713,6 @@
     "1794627652290",
     "1794638708183",
     "1794638973541",
-    "1794639600171",
     "1794643208554",
     "1794643619252",
     "1794648703209",
@@ -24730,10 +24720,7 @@
     "1794564434164",
     "1794564866791",
     "1794598886029",
-    "1794602450324",
-    "1794612011393",
     "1794618057190",
-    "1794622379458",
     "1794628080594",
     "1794639645875",
     "1794641634541",
@@ -24741,6 +24728,21 @@
     "1794647423252",
     "1794648755067",
     "1794650227111",
+    "1794565051370",
+    "1794565146854",
+    "1794565595305",
+    "1794565800856",
+    "1794582544393",
+    "1794591840273",
+    "1794600725970",
+    "1794601066615",
+    "1794619376056",
+    "1794622073251",
+    "1794632809181",
+    "1794644137559",
+    "1794650562721",
+    "1794651000525",
+    "1794651250785",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26004,10 +26006,6 @@
     "1794556800697",
     "1794559939903",
     "1794560480511",
-    "1794565051370",
-    "1794565146854",
-    "1794565595305",
-    "1794565800856",
     "1794565920000",
     "1794565980218",
     "1794566756860",
@@ -26047,7 +26045,6 @@
     "1794582001447",
     "1794582152178",
     "1794582225774",
-    "1794582544393",
     "1794583820621",
     "1794584247881",
     "1794584298514",
@@ -26066,7 +26063,6 @@
     "1794590745069",
     "1794591090315",
     "1794591660628",
-    "1794591840273",
     "1794592740177",
     "1794592800513",
     "1794593040925",
@@ -26087,9 +26083,8 @@
     "1794599280775",
     "1794599411462",
     "1794599580240",
-    "1794600725970",
-    "1794601066615",
     "1794601800347",
+    "1794602450324",
     "1794602710418",
     "1794603313855",
     "1794603618739",
@@ -26101,6 +26096,7 @@
     "1794609780556",
     "1794609780625",
     "1794611515830",
+    "1794612011393",
     "1794612655007",
     "1794613166461",
     "1794615060171",
@@ -26111,12 +26107,13 @@
     "1794618075192",
     "1794618678088",
     "1794619316662",
-    "1794619376056",
+    "1794619716383",
     "1794619808479",
     "1794619951359",
     "1794621504092",
     "1794621628798",
-    "1794622073251",
+    "1794622020160",
+    "1794622379458",
     "1794622710786",
     "1794622760244",
     "1794623400932",
@@ -26142,7 +26139,6 @@
     "1794632437498",
     "1794632437596",
     "1794632526821",
-    "1794632809181",
     "1794633041571",
     "1794633520341",
     "1794633932363",
@@ -26158,6 +26154,7 @@
     "1794638642880",
     "1794638885197",
     "1794639120902",
+    "1794639600171",
     "1794639600421",
     "1794639600539",
     "1794640264735",
@@ -26177,7 +26174,6 @@
     "1794643329867",
     "1794643697674",
     "1794644039457",
-    "1794644137559",
     "1794644518008",
     "1794644790950",
     "1794644936064",
@@ -26195,11 +26191,19 @@
     "1794649140076",
     "1794649500476",
     "1794650160111",
-    "1794650562721",
+    "1794650528544",
+    "1794650562999",
+    "1794650669469",
     "1794650766175",
-    "1794651000525",
+    "1794650824038",
+    "1794651000084",
+    "1794651026650",
     "1794651117261",
-    "1794651250785",
+    "1794651241371",
+    "1794651300562",
+    "1794651436258",
+    "1794651560427",
+    "1794651780824",
     "2331589",
     "2331704",
     "2331803",
@@ -26244,8 +26248,8 @@
     "2336151",
     "2336192"
   ],
-  "last_digest_hour": "2026-11-14T15",
-  "last_success": "2026-11-14T10:16:07.631519+00:00",
+  "last_digest_hour": "2026-11-14T16",
+  "last_success": "2026-11-14T10:31:30.773866+00:00",
   "national": {
     "alerted": [
       {
@@ -36490,21 +36494,21 @@
       "CG-MH-E-13112026-277894",
       "CG-WB-E-13112026-277901",
       "CG-DL-E-14112026-277910",
-      "CG-OR-E-14112026-277909"
+      "CG-OR-E-14112026-277909",
+      "CG-DL-E-14112026-277908"
     ],
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-14T10:32:35.276152+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-14T10:16:51.795430+00:00",
-    "pib_mark": 2336193,
+    "last_run": "2026-11-14T10:32:43.155731+00:00",
+    "pib_mark": 2336206,
     "seen": [
-      "pib:2327729",
-      "pib:2327735",
       "pib:2327741",
       "site:ai:ISRO|https://www.isro.gov.in/Curtain_Raiser_for_ESTIC_2026_Space_Technologies_Thematic_Session.html",
       "site:BCCI|https://www.bcci.tv/news/article/parvinder-awana-appointed-chairperson-of-junior-selection-committee",
@@ -38927,8 +38931,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168802",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168804",
       "gazette:CG-DL-E-12112026-277864",
-      "gazette:CG-DL-E-12112026-277866",
       "gazette:CG-DL-E-12112026-277865",
+      "gazette:CG-DL-E-12112026-277866",
       "gazette:CG-DL-E-12112026-277868",
       "gazette:CG-DL-E-12112026-277867",
       "gazette:CG-DL-E-12112026-277869",
@@ -39502,12 +39506,17 @@
       "pib:2336181",
       "pib:2336192",
       "pib:2336193",
-      "gazette:CG-OR-E-14112026-277909"
+      "gazette:CG-OR-E-14112026-277909",
+      "gazette:CG-DL-E-14112026-277908",
+      "pib:2336206"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -39573,26 +39582,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Gautam Bhatia wins the Infosys Prize for humanities",
-      "post": {
-        "created_at": "2026-11-14T10:10:00+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1794651000525",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "He writes about free speech and sci-fi. Now, Gautam Bhatia has won the Infosys Prize",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNmw3NDd6ZXRKZ2htTVBBZUVqOWdQNGppR25RQUYxbHJFR1djVDFzaGltSjItdjNCS3JZaTJMNTJNTmI2czRkcGVkUEpDSDc1aXdtOXZ0NHVINXZBc3NqSGlfSWNoVVRHdHllVUp0U1NjNGFOU2xXSmxfaktoVFdabFI1YkptMWkwb19QdlBNYmVLcV9VMzBEeVFwczc0S1lkRlY4UV9DUjNMcktYU05NMUx1QVJRVjJiRnZhZVJHeG91M2pfSXNSUXN6N01FQ29uMlU2S2VIeW5yR2J4TXVZV3RwYm1DT1l2YU9URkFzWWdzQdIB8gFBVV95cUxPNmw3NDd6ZXRKZ2htTVBBZUVqOWdQNGppR25RQUYxbHJFR1djVDFzaGltSjItdjNCS3JZaTJMNTJNTmI2czRkcGVkUEpDSDc1aXdtOXZ0NHVINXZBc3NqSGlfSWNoVVRHdHllVUp0U1NjNGFOU2xXSmxfaktoVFdabFI1YkptMWkwb19QdlBNYmVLcV9VMzBEeVFwczc0S1lkRlY4UV9DUjNMcktYU05NMUx1QVJRVjJiRnZhZVJHeG91M2pfSXNSUXN6N01FQ29uMlU2S2VIeW5yR2J4TXVZV3RwYm1DT1l2YU9URkFzWWdzQQ?oc=5"
-      },
-      "queued_at": "2026-11-14T10:16:07.577814+00:00",
-      "score": 7.0,
-      "why": "Major national award win by a prominent writer and lawyer."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40787,7 +40777,7 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794650227111,
+    "news: big tech platforms": 1794651780824,
     "news: consumer internet india": 1794647127173,
     "news: global ai": 1794645350717,
     "news: global chips": 1794651250785,
@@ -40796,12 +40786,12 @@
     "news: india edtech gaming": 1794575345720,
     "news: india fintech": 1794623846303,
     "news: india semiconductors": 1794623130272,
-    "news: india tech policy": 1794650562721,
-    "news: india telecom": 1794647423252,
+    "news: india tech policy": 1794650824038,
+    "news: india telecom": 1794651241371,
     "news: indian it majors": 1794651000525,
     "news: indian it midcaps": 1794643329867,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794651250785,
+    "news: tech leaders": 1794651436258,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40846,7 +40836,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-14T10:16:08.017008+00:00",
+    "last_server_run": "2026-11-14T10:31:31.117729+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-14T09:46:50.665437+00:00",
@@ -41618,6 +41608,7 @@
       "CG-DL-E-14102026-277154",
       "CG-DL-E-14102026-277155",
       "CG-DL-E-14102026-277156",
+      "CG-DL-E-14112026-277908",
       "CG-DL-E-14112026-277910",
       "CG-DL-E-15092026-276194",
       "CG-DL-E-15092026-276195",
@@ -54509,14 +54500,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-14T10:16:59.491118+00:00",
+    "last_run": "2026-11-14T10:32:47.999248+00:00",
     "seen": [
-      "x:2119264040262492507",
-      "x:2119264190351470668",
-      "x:2119264653939540091",
-      "x:2119265401288974712",
-      "x:2119266156628562218",
-      "x:2119266910831579244",
       "x:2119266942624374796",
       "x:2119267280437887470",
       "x:2119268463269343440",
@@ -57510,7 +57495,13 @@
       "x:2121545602987442400",
       "x:2121545656137568696",
       "x:2121546464057045476",
-      "x:2121546588086849553"
+      "x:2121546588086849553",
+      "x:2121547853285954006",
+      "x:2121548090348089625",
+      "x:2121548180097728660",
+      "x:2121548697389715666",
+      "x:2121549373146636340",
+      "x:2121550243246559397"
     ],
     "source_failures": {},
     "sources": []
