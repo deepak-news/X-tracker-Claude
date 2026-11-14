@@ -2,25 +2,6 @@
   "alerted": [
     {
       "at": "2026-11-04T04:32:07.094473+00:00",
-      "handle": "News: India tech policy",
-      "headline": "MeitY weighs sector-specific approach for upcoming AI consultation paper",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeW5nOWdGUGJDVnZuLUQ4VXU1OXZvS2FBeFNtQlpyamFmNHItWURkcXF3QW1kYnF0UGNiYTVMMjd2bTRLLU9nLVdneUMySkhUTHNlZkp5d2tDY2tkY1JSZXBmWjRfeGp1eTd6bThBYktSWDJrS050UF9jclhSUTRBQ19kRUhZVF9QUEdmc2VXNGN3S1RtZ1ZSRHRFOGNkYVF0UWd3ek9POC1mUHl4MU5MUENxem1qQk12bnVTcHI2QnNUbEdVaTRYLWZDS2d4dDTSAdQBQVVfeXFMTlNJSmRxQkNWbkVmTEJ6bjQ5ZndoOHItUmE2SW5rbkFaVGZzYm5zRkhKWkhCTW1HUmotV29VcENpenpjRHlvcmdnN0xwSGgyb0Z3WXAtXzV0dUQzZTk4WDBocndVQU5BYmdNYWljWGFjRkVwTllfNkFpcEs0ZWk5VXg4Tkh4T1F1bnh1ZkRsWUliTU95RHo0V1ViZ3dGN2l5OXZCUTc5RG9fYjN4VkFqSmsyRWhKLU1FcU8yVHB0aVJiZmNybHpEZENIV09kWEJSVGthcWE?oc=5",
-      "words": [
-        "approach",
-        "business",
-        "consultation",
-        "meity",
-        "news",
-        "paper",
-        "readies",
-        "sector",
-        "specific",
-        "weighs"
-      ]
-    },
-    {
-      "at": "2026-11-04T04:32:07.094473+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic introduces FlashProve tool to verify AI models",
       "tier": 0,
@@ -7396,6 +7377,24 @@
         "notifies",
         "platform",
         "unified"
+      ]
+    },
+    {
+      "at": "2026-11-14T17:31:38.978947+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Ashwini Vaishnaw calls for domestic semiconductor manufacturing machine development",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV3diemtvVF9iSGltS2tDZUFEdEItZUp3enkyYzJLLUFwZ1lZMXJfbERiZ0hZQTlURUp4WnoyODFnQVg2d05wQ19qQjV5TFktdENyVU8zSUt1dFpHWGRkeTZvV0pvLUc5MlVGa0gxZjBnUVdaMS1McjVMMDFHa0ZtX051UG9uN2NMaXRuYlM2eklZV243WHU1UFlpdmdPblRHV3dvQzRhZm5SOTRfQU95LW56d3Y3elplX2FWaF9hbzdONUh2NzBKeEdJRXZReG5tZ1VSWFdPUkJTdXN6WWN0eXhSNFMwZDljWE9xZmpn0gHuAUFVX3lxTE9Xd2J6a29UX2JIaW1La0NlQUR0Qi1lSnd6eTJjMkstQXBnWVkxcl9sRGJnSFlBOVRFSnhaejI4MWdBWDZ3TnBDX2pCNXlMWS10Q3JVTzNJS3V0WkdYZGR5Nm9XSm8tRzkyVUZrSDFmMGdRV1oxLUxyNUwwMUdrRm1fTnVQb243Y0xpdG5iUzZ6SVlXbjdYdTVQWWl2Z09uVEdXd29DNGFmblI5NF9BT3ktbnp3djd6WmVfYVZoX2FvN041SHY3MEp4R0lFdlF4bm1nVVJYV09SQlN1c3pZY3R5eFI0UzBkOWNYT3Fmamc?oc=5",
+      "words": [
+        "ashwini",
+        "develop",
+        "machines",
+        "manufacturing",
+        "must",
+        "own",
+        "precision",
+        "semiconductor",
+        "vaishnaw"
       ]
     }
   ],
@@ -17195,7 +17194,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-14T17:16:57.236600+00:00",
+    "last_run": "2026-11-14T17:33:34.731085+00:00",
     "pib_mark": 2336357,
     "seen": [
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168648",
@@ -20258,11 +20257,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794259860735",
-    "1794260482379",
-    "1794261131160",
-    "1794261543481",
-    "1794262472008",
     "1794262920356",
     "1794263133163",
     "1794266926972",
@@ -24782,20 +24776,19 @@
     "1794633019596",
     "1794650766175",
     "1794660242848",
-    "1794660300478",
     "1794672131469",
     "1794588840018",
     "1794588862764",
     "1794588901965",
-    "1794599340462",
-    "1794621600692",
     "1794635100987",
     "1794642900424",
     "1794656403381",
     "1794618057190",
     "1794639600171",
-    "1794667680680",
     "1794671885207",
+    "1794607894667",
+    "1794644039457",
+    "1794658620016",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26077,10 +26070,10 @@
     "1794596508009",
     "1794597089824",
     "1794598479203",
+    "1794599340462",
     "1794601800347",
     "1794605580058",
     "1794607776078",
-    "1794607894667",
     "1794609780556",
     "1794612011393",
     "1794612655007",
@@ -26090,6 +26083,7 @@
     "1794618678088",
     "1794621038176",
     "1794621504092",
+    "1794621600692",
     "1794621628798",
     "1794622710786",
     "1794622760244",
@@ -26131,7 +26125,6 @@
     "1794642561953",
     "1794643329867",
     "1794643697346",
-    "1794644039457",
     "1794644790950",
     "1794644936064",
     "1794645050504",
@@ -26172,8 +26165,8 @@
     "1794657735516",
     "1794658558922",
     "1794658560039",
-    "1794658620016",
     "1794658893656",
+    "1794660300478",
     "1794660420073",
     "1794660600838",
     "1794661261204",
@@ -26194,6 +26187,7 @@
     "1794667200956",
     "1794667469898",
     "1794667571619",
+    "1794667680680",
     "1794668005142",
     "1794668055815",
     "1794668140149",
@@ -26206,14 +26200,19 @@
     "1794670241718",
     "1794671443261",
     "1794671878976",
+    "1794671945176",
     "1794673052660",
     "1794673275936",
     "1794673380070",
+    "1794673788936",
     "1794673946928",
     "1794674055055",
     "1794674270469",
     "1794674385992",
     "1794674716597",
+    "1794676440867",
+    "1794676492516",
+    "1794677171104",
     "2331589",
     "2331704",
     "2331803",
@@ -26259,8 +26258,8 @@
     "2336192",
     "2336254"
   ],
-  "last_digest_hour": "2026-11-14T22",
-  "last_success": "2026-11-14T17:16:01.031321+00:00",
+  "last_digest_hour": "2026-11-14T23",
+  "last_success": "2026-11-14T17:31:39.028044+00:00",
   "national": {
     "alerted": [
       {
@@ -36533,11 +36532,12 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
-        "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
+        "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00",
+        "State: Telangana": "2026-11-14T17:33:07.603538+00:00"
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-14T17:16:43.829231+00:00",
+    "last_run": "2026-11-14T17:33:08.752100+00:00",
     "pib_mark": 2336357,
     "seen": [
       "gazette:CG-DL-E-23102026-277358",
@@ -38964,6 +38964,16 @@
       "site:BCCI|https://www.bcci.tv/news/article/gurnoor-brar-added-to-indias-test-squad-kuldeep-yadav-released",
       "site:who-don:2026-DON626",
       "quake:ncs:UmltQnExSVE2TGw4VWtaMnJMV3NNUT09",
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist/",
+      "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-eco-palm-factory-foundation-plaque-unveiling-and-addresses-mega-rythu-mela-public-meeting-at-lagacherla-industrial-corridor-kodangal-vikarabad/",
+      "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist-2/",
+      "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-government-junior-college-at-doulatabad-kodangal-vikarabad-district-2/",
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-valedictory-ceremony-of-the-second-batch-of-deputy-superintendent-of-police-dsp-2025-at-dr-mcr-hrd-institute-hyd/",
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-national-education-day-minorities-welfare-day-program-on-the-occasion-of-maulana-abul-kalam-azad-jayanti-at-sevalal-banjara-bhavan-banjara-hi/",
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%a6%e0%b1%8d%e0%b0%af%e0%b0%be-%e0%b0%b6%e0%b0%be%e0%b0%96%e0%b0%aa%e0%b1%88-%e0%b0%8e%e0%b0%82%e0%b0%b8%e0%b1%80%e0%b0%86%e0%b0%b0%e0%b1%8d%e0%b0%b9%e0%b1%86/",
+      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-thammidikunta-cheruvu-restored-by-hydraa-at-madhapur-hyderabad/",
+      "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-the-lok-sabha-sri-rahul-gandhi-participates-in-the-launch-of-telangana-gig-workers-social-security-and-welfar/",
       "gazette:CG-DL-E-13112026-277903",
       "gazette:CG-DL-E-13112026-277902",
       "gazette:CG-WB-E-13112026-277901",
@@ -39406,30 +39416,21 @@
       "mea:41933",
       "mea:41934",
       "mea:41935",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist/",
       "page:https://internal.imd.gov.in/press_release/20261110_pr_5479.pdf",
-      "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-eco-palm-factory-foundation-plaque-unveiling-and-addresses-mega-rythu-mela-public-meeting-at-lagacherla-industrial-corridor-kodangal-vikarabad/",
-      "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist-2/",
-      "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-government-junior-college-at-doulatabad-kodangal-vikarabad-district-2/",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-vasa-2025-batch-kaeips",
       "cci-pr:media-gallery|719",
       "mea:41936",
       "mea:41937",
       "mea:41938",
       "dgft-notification:58145d8f-19de-4e3a-b7ba-95fdb2ed5ea4",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-valedictory-ceremony-of-the-second-batch-of-deputy-superintendent-of-police-dsp-2025-at-dr-mcr-hrd-institute-hyd/",
       "page:https://internal.imd.gov.in/press_release/20261111_pr_5481.pdf",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%B9+2026+%E0%A4%95%E0%A5%87+%E0%A4%A6%E0%A5%8C%E0%A4%B0%E0%A4%BE%E0%A4%A8+%E0%A4%A6%E0%A5%87%E0%A4%B6+%E0%A4%AD%E0%A4%B0+%E0%A4%AE%E0%A5%87%E0%A4%82+16+%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%A4+%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%A3+%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%B0+%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%97%E0%A4%BE+_+IRDAI+to+organise+16+Grievance+Redressal+Camps+across+the+country+during+Grievance+Resolution+Month+2026.pdf/0e29a3e6-924e-1b82-f5a6-97ca5bc3b64f",
       "mea:41939",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-national-education-day-minorities-welfare-day-program-on-the-occasion-of-maulana-abul-kalam-azad-jayanti-at-sevalal-banjara-bhavan-banjara-hi/",
       "mea:41940",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-dasavaen-savacacha",
       "mea:41941",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%a6%e0%b1%8d%e0%b0%af%e0%b0%be-%e0%b0%b6%e0%b0%be%e0%b0%96%e0%b0%aa%e0%b1%88-%e0%b0%8e%e0%b0%82%e0%b0%b8%e0%b1%80%e0%b0%86%e0%b0%b0%e0%b1%8d%e0%b0%b9%e0%b1%86/",
       "mea:41942",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-thammidikunta-cheruvu-restored-by-hydraa-at-madhapur-hyderabad/",
       "page:https://internal.imd.gov.in/press_release/20261112_pr_5483.pdf",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-ekalavaya-maodala",
       "page:https://internal.imd.gov.in/press_release/20261112_pr_5485.pdf",
@@ -39510,7 +39511,6 @@
       "pib:2336192",
       "pib:2336193",
       "pib:2336206",
-      "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-the-lok-sabha-sri-rahul-gandhi-participates-in-the-launch-of-telangana-gig-workers-social-security-and-welfar/",
       "pib:2336212",
       "pib:2336214",
       "site:Delhi Police press releases|dp-press:11/14/2026 12:00:00 AM|01 ACTIVE THIEF ARRESTED WITH RECOVERY OF A STOLEN MOTORCYCLE, BY THE TEAM OF PS SECTOR 23, DWARKA",
@@ -39553,6 +39553,9 @@
       "State: Tamil Nadu": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "State: Telangana": {
+        "count": 1
       }
     },
     "sources": [
@@ -39610,26 +39613,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Ashwini Vaishnaw calls for domestic semiconductor manufacturing machine development",
-      "post": {
-        "created_at": "2026-11-14T14:48:00+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1794667680680",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "India must develop its own semiconductor manufacturing machines, precision...: Ashwini Vaishnaw",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV3diemtvVF9iSGltS2tDZUFEdEItZUp3enkyYzJLLUFwZ1lZMXJfbERiZ0hZQTlURUp4WnoyODFnQVg2d05wQ19qQjV5TFktdENyVU8zSUt1dFpHWGRkeTZvV0pvLUc5MlVGa0gxZjBnUVdaMS1McjVMMDFHa0ZtX051UG9uN2NMaXRuYlM2eklZV243WHU1UFlpdmdPblRHV3dvQzRhZm5SOTRfQU95LW56d3Y3elplX2FWaF9hbzdONUh2NzBKeEdJRXZReG5tZ1VSWFdPUkJTdXN6WWN0eXhSNFMwZDljWE9xZmpn0gHuAUFVX3lxTE9Xd2J6a29UX2JIaW1La0NlQUR0Qi1lSnd6eTJjMkstQXBnWVkxcl9sRGJnSFlBOVRFSnhaejI4MWdBWDZ3TnBDX2pCNXlMWS10Q3JVTzNJS3V0WkdYZGR5Nm9XSm8tRzkyVUZrSDFmMGdRV1oxLUxyNUwwMUdrRm1fTnVQb243Y0xpdG5iUzZ6SVlXbjdYdTVQWWl2Z09uVEdXd29DNGFmblI5NF9BT3ktbnp3djd6WmVfYVZoX2FvN041SHY3MEp4R0lFdlF4bm1nVVJYV09SQlN1c3pZY3R5eFI0UzBkOWNYT3Fmamc?oc=5"
-      },
-      "queued_at": "2026-11-14T16:46:01.640640+00:00",
-      "score": 7.0,
-      "why": "Minister statement on industry direction for semiconductors."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40824,10 +40808,10 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794673275936,
+    "news: big tech platforms": 1794677171104,
     "news: consumer internet india": 1794673946928,
-    "news: global ai": 1794667200956,
-    "news: global chips": 1794674270469,
+    "news: global ai": 1794671945176,
+    "news: global chips": 1794676492516,
     "news: global it services": 1794625593059,
     "news: india ai deeptech": 1794648855516,
     "news: india edtech gaming": 1794575345720,
@@ -40838,7 +40822,7 @@
     "news: indian it majors": 1794660426084,
     "news: indian it midcaps": 1794663787745,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794674270469,
+    "news: tech leaders": 1794676492516,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40865,9 +40849,7 @@
     "zoho": 1794501698489
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-14T17:15:59.342863+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40885,7 +40867,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-14T17:16:01.517340+00:00",
+    "last_server_run": "2026-11-14T17:31:39.397368+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-14T16:31:54.812501+00:00",
@@ -41025,11 +41007,11 @@
       },
       "last": {
         "calendar": "2026-11-14T17:16:16.471376+00:00",
-        "ls_reports": "2026-11-14T15:16:50.417543+00:00",
-        "rs_committee_press": "2026-11-14T15:17:00.112395+00:00",
-        "rs_press": "2026-11-14T15:16:57.017002+00:00",
-        "rs_reports": "2026-11-14T15:16:54.530679+00:00",
-        "rs_updates": "2026-11-14T15:17:02.114163+00:00"
+        "ls_reports": "2026-11-14T17:32:07.796288+00:00",
+        "rs_committee_press": "2026-11-14T17:32:17.207795+00:00",
+        "rs_press": "2026-11-14T17:32:14.403075+00:00",
+        "rs_reports": "2026-11-14T17:32:11.496091+00:00",
+        "rs_updates": "2026-11-14T17:32:18.623853+00:00"
       }
     },
     "scanned": [
@@ -54621,9 +54603,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-14T17:16:49.585973+00:00",
+    "last_run": "2026-11-14T17:33:14.608809+00:00",
     "seen": [
-      "x:2119345773741756479",
       "x:2119346299585937794",
       "x:2119347033870159915",
       "x:2119349152098418861",
@@ -57622,7 +57603,8 @@
       "x:2121648098137264353",
       "x:2121649457624404384",
       "x:2121650308208378310",
-      "x:2121652401338044693"
+      "x:2121652401338044693",
+      "x:2121655767195652101"
     ],
     "source_failures": {},
     "sources": []
