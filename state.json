@@ -16154,7 +16154,7 @@
         ]
       }
     ],
-    "gazette_mark": 277913,
+    "gazette_mark": 277915,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -17181,16 +17181,15 @@
       "CG-DL-E-14112026-277910",
       "CG-OR-E-14112026-277909",
       "CG-DL-E-14112026-277908",
-      "CG-DL-E-14112026-277913"
+      "CG-DL-E-14112026-277913",
+      "CG-DL-E-14112026-277915"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-14T10:47:14.843029+00:00",
-    "pib_mark": 2336212,
+    "last_run": "2026-11-14T11:03:08.718925+00:00",
+    "pib_mark": 2336214,
     "seen": [
-      "gazette:CG-DL-E-21102026-277325",
-      "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63848",
       "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-regulations-2012-last-amended-on-october-15-2026-_105357.html",
       "feed:https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-regulations-2015-last-amended-on-october-15-2026-_105365.html",
@@ -19674,8 +19673,8 @@
       "gazette:CG-DL-E-12112026-277865",
       "gazette:CG-DL-E-12112026-277866",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-an-interaction-with-women-self-help-group-members-at-mega-rythu-mela-meeting-hall-hakeempet-kodangal-vikarabad-district-2/",
-      "gazette:CG-DL-E-12112026-277868",
       "gazette:CG-DL-E-12112026-277867",
+      "gazette:CG-DL-E-12112026-277868",
       "gazette:CG-DL-E-12112026-277869",
       "gazette:CG-DL-E-13112026-277870",
       "gazette:CG-DL-E-13112026-277872",
@@ -20188,7 +20187,9 @@
       "pib:2336206",
       "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-the-lok-sabha-sri-rahul-gandhi-participates-in-the-launch-of-telangana-gig-workers-social-security-and-welfar/",
       "gazette:CG-DL-E-14112026-277913",
-      "pib:2336212"
+      "pib:2336212",
+      "gazette:CG-DL-E-14112026-277915",
+      "pib:2336214"
     ],
     "source_failures": {},
     "sources": [
@@ -20249,11 +20250,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794241136782",
-    "1794244269180",
-    "1794244272574",
-    "1794245887303",
-    "1794246004896",
     "1794247668144",
     "1794212488467",
     "1794214260793",
@@ -24595,7 +24591,6 @@
     "1794637122625",
     "1794551898434",
     "1794575825674",
-    "1794587820439",
     "1794592336212",
     "1794618588894",
     "1794631610380",
@@ -24678,7 +24673,6 @@
     "1794639575873",
     "1794561745412",
     "1794562080678",
-    "1794599340462",
     "1794604383255",
     "1794606087058",
     "1794632525498",
@@ -24686,7 +24680,6 @@
     "1794635426628",
     "1794637122797",
     "1794645982106",
-    "1794647298209",
     "1794562673301",
     "1794563040496",
     "1794563563761",
@@ -24709,7 +24702,6 @@
     "1794627588806",
     "1794627639562",
     "1794627652290",
-    "1794638708183",
     "1794638973541",
     "1794643208554",
     "1794643619252",
@@ -24732,9 +24724,7 @@
     "1794565800856",
     "1794582544393",
     "1794591840273",
-    "1794600725970",
     "1794619376056",
-    "1794622073251",
     "1794632809181",
     "1794650562721",
     "1794651000525",
@@ -24753,6 +24743,19 @@
     "1794640264735",
     "1794650669469",
     "1794651780824",
+    "1794566756860",
+    "1794566772008",
+    "1794587314828",
+    "1794588797511",
+    "1794591090315",
+    "1794599411462",
+    "1794602710418",
+    "1794603313855",
+    "1794619753383",
+    "1794622379458",
+    "1794641280866",
+    "1794642300043",
+    "1794645501385",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26016,8 +26019,6 @@
     "1794556800697",
     "1794559939903",
     "1794560480511",
-    "1794566756860",
-    "1794566772008",
     "1794567838707",
     "1794569814032",
     "1794570388466",
@@ -26058,16 +26059,14 @@
     "1794584298514",
     "1794584724377",
     "1794586860981",
-    "1794587314828",
     "1794587489416",
     "1794587785143",
+    "1794587820439",
     "1794588060480",
-    "1794588797511",
     "1794588862764",
     "1794588901965",
     "1794589200041",
     "1794589500716",
-    "1794591090315",
     "1794591660628",
     "1794592740177",
     "1794592800513",
@@ -26086,12 +26085,11 @@
     "1794597499857",
     "1794598479203",
     "1794599280775",
-    "1794599411462",
+    "1794599340462",
     "1794599580240",
+    "1794600725970",
     "1794601066615",
     "1794601800347",
-    "1794602710418",
-    "1794603313855",
     "1794603618739",
     "1794605580058",
     "1794607776078",
@@ -26111,12 +26109,11 @@
     "1794618075192",
     "1794618678088",
     "1794619316662",
-    "1794619753383",
     "1794619808479",
     "1794619951359",
     "1794621504092",
     "1794621628798",
-    "1794622379458",
+    "1794622073251",
     "1794622710786",
     "1794622760244",
     "1794623400932",
@@ -26154,6 +26151,7 @@
     "1794637553900",
     "1794638340158",
     "1794638462845",
+    "1794638708183",
     "1794638885197",
     "1794639120902",
     "1794639600171",
@@ -26163,10 +26161,8 @@
     "1794640921583",
     "1794640986016",
     "1794641212460",
-    "1794641280866",
     "1794641400398",
     "1794641582906",
-    "1794642300043",
     "1794642402876",
     "1794642561953",
     "1794642630317",
@@ -26179,16 +26175,18 @@
     "1794644790950",
     "1794644936064",
     "1794645350717",
-    "1794645501385",
+    "1794645501592",
     "1794645982285",
     "1794646406703",
     "1794646422109",
     "1794647077792",
     "1794647127173",
+    "1794647298209",
     "1794647806083",
     "1794648047184",
     "1794648704328",
     "1794648855236",
+    "1794649020505",
     "1794649140076",
     "1794649500476",
     "1794650160111",
@@ -26206,6 +26204,9 @@
     "1794652200402",
     "1794652265341",
     "1794652509541",
+    "1794652511319",
+    "1794653520210",
+    "1794653699005",
     "2331589",
     "2331704",
     "2331803",
@@ -26251,7 +26252,7 @@
     "2336192"
   ],
   "last_digest_hour": "2026-11-14T16",
-  "last_success": "2026-11-14T10:45:58.387397+00:00",
+  "last_success": "2026-11-14T11:01:36.131500+00:00",
   "national": {
     "alerted": [
       {
@@ -34802,7 +34803,7 @@
         ]
       }
     ],
-    "gazette_mark": 277913,
+    "gazette_mark": 277915,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -36501,7 +36502,8 @@
       "CG-DL-E-14112026-277910",
       "CG-OR-E-14112026-277909",
       "CG-DL-E-14112026-277908",
-      "CG-DL-E-14112026-277913"
+      "CG-DL-E-14112026-277913",
+      "CG-DL-E-14112026-277915"
     ],
     "health": {
       "down": {
@@ -36511,11 +36513,9 @@
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-14T10:46:51.211089+00:00",
-    "pib_mark": 2336212,
+    "last_run": "2026-11-14T11:02:47.324143+00:00",
+    "pib_mark": 2336214,
     "seen": [
-      "quake:usgs:us6000u4bk",
-      "site:ai:ISRO|https://www.isro.gov.in/SPADEX_Satellites_Re_entry_into_Earths_Atmosphere.html",
       "watch:meeting:RS|2300",
       "watch:meeting:LS|22580",
       "watch:meeting:LS|22581",
@@ -38936,8 +38936,8 @@
       "gazette:CG-DL-E-12112026-277865",
       "gazette:CG-DL-E-12112026-277866",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-an-interaction-with-women-self-help-group-members-at-mega-rythu-mela-meeting-hall-hakeempet-kodangal-vikarabad-district-2/",
-      "gazette:CG-DL-E-12112026-277868",
       "gazette:CG-DL-E-12112026-277867",
+      "gazette:CG-DL-E-12112026-277868",
       "gazette:CG-DL-E-12112026-277869",
       "gazette:CG-DL-E-13112026-277870",
       "gazette:CG-DL-E-13112026-277871",
@@ -39513,7 +39513,9 @@
       "pib:2336206",
       "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-the-lok-sabha-sri-rahul-gandhi-participates-in-the-launch-of-telangana-gig-workers-social-security-and-welfar/",
       "gazette:CG-DL-E-14112026-277913",
-      "pib:2336212"
+      "pib:2336212",
+      "gazette:CG-DL-E-14112026-277915",
+      "pib:2336214"
     ],
     "source_failures": {
       "CBI": {
@@ -39584,7 +39586,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Swiggy leases 2.62 lakh sq ft office space in Bengaluru",
+      "post": {
+        "created_at": "2026-11-14T10:54:59+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1794653699005",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Hindustan Times",
+        "reposts": 0,
+        "text": "Swiggy leases 2.62 lakh sq ft office space in Bengaluru's Whitefield area for 10 years at a total rent outgo of \u20b9241 crore | Real Estate News",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcjlmTXN6cVBuNWc5bmxQUkEzUVAyT3B2VlNYaTA5OFFTRklkRFlQM0VQLXdnRTFad0ttaGY3dkxLUnQ2TjZ3NGVSYWZ3OGFxaTBYa1V1WkFlSzJ2dFozSUxJLVM5OU5xZVhMUWRKMURud0ZPb29pZ21icFpvYTNFdk5PUGRaWGl4OXpTZmRZVWxRdmFWbHdnYUFEdG9jbjVGR1p2TjNTaTYxOXNsUHBHZnlQN2x2S3pLcEVxUVFSdnVLUURWM2ZGb1UwTXI0QllfcmdlSzhIaW5SNFR2SFgzdGpKREhGaFR5UlZsMUlkWEF4Ui16T3ppcHdLZlNaSUZ2RkJTODl5RFBTd1IwTE9DWmRB0gGXAkFVX3lxTE9HUmlVbTMxNnQ0M3Vjbl9PcFRIUlQ0dGVrOS1yQy1lbkNmUmh5WlRzcDhTTzkxSGF0ZDBBNl9jQ1IxMzY0cXhlanZRQ19LTUZVOFF2dTVQNTF5NURtWnJNUjlhaDFXUVp2NjJfU2FIT1FmV2d2eVNKbWR0LS05RjV2dW1fSWFFNGtvTm13eUxHcFNwWENBUmJRWGZwNXpscWFYRTNsTUR3T2huV1VvbFhWTnk3c2pNU0Jjdzd2eWhjTE1mQkVtbGNGM002Nml4aG5NcmhlTWw3a0JNNGJDYVhWTlowal9pRnNWYndXUk55eWxXLVlkR2h4UWFHall5dFp4NHdCempqZzU5UEFqVTdIdGhCekNNZw?oc=5"
+      },
+      "queued_at": "2026-11-14T11:01:36.064560+00:00",
+      "score": 7.0,
+      "why": "Real estate lease expansion by a major Indian consumer internet company is a filable business story."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40779,8 +40800,8 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794651780824,
-    "news: consumer internet india": 1794652265341,
+    "news: big tech platforms": 1794653520210,
+    "news: consumer internet india": 1794653699005,
     "news: global ai": 1794645350717,
     "news: global chips": 1794651250785,
     "news: global it services": 1794625593059,
@@ -40793,7 +40814,7 @@
     "news: indian it majors": 1794651000525,
     "news: indian it midcaps": 1794643329867,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794652509541,
+    "news: tech leaders": 1794652511319,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40838,7 +40859,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-14T10:45:58.721195+00:00",
+    "last_server_run": "2026-11-14T11:01:36.631677+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-14T09:46:50.665437+00:00",
@@ -40967,7 +40988,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-11-14T04:46:24.738338+00:00",
+        "at": "2026-11-14T11:01:50.632336+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -40977,12 +40998,12 @@
         }
       },
       "last": {
-        "calendar": "2026-11-14T04:46:27.408609+00:00",
-        "ls_reports": "2026-11-14T08:47:12.896351+00:00",
-        "rs_committee_press": "2026-11-14T08:47:21.574542+00:00",
-        "rs_press": "2026-11-14T08:47:18.634480+00:00",
-        "rs_reports": "2026-11-14T08:47:15.883842+00:00",
-        "rs_updates": "2026-11-14T08:47:22.946912+00:00"
+        "calendar": "2026-11-14T11:01:53.396792+00:00",
+        "ls_reports": "2026-11-14T11:02:09.116080+00:00",
+        "rs_committee_press": "2026-11-14T11:02:19.671290+00:00",
+        "rs_press": "2026-11-14T11:02:16.335496+00:00",
+        "rs_reports": "2026-11-14T11:02:13.568841+00:00",
+        "rs_updates": "2026-11-14T11:02:21.613178+00:00"
       }
     },
     "scanned": [
@@ -41613,6 +41634,7 @@
       "CG-DL-E-14112026-277908",
       "CG-DL-E-14112026-277910",
       "CG-DL-E-14112026-277913",
+      "CG-DL-E-14112026-277915",
       "CG-DL-E-15092026-276194",
       "CG-DL-E-15092026-276195",
       "CG-DL-E-15092026-276196",
@@ -54503,11 +54525,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-14T10:46:59.051059+00:00",
+    "last_run": "2026-11-14T11:02:52.756426+00:00",
     "seen": [
-      "x:2119272447354560798",
-      "x:2119273126890754060",
-      "x:2119273705457189124",
       "x:2119274172430135549",
       "x:2119274283889516664",
       "x:2119274912535990317",
@@ -57504,7 +57523,10 @@
       "x:2121553914931908733",
       "x:2121554282352906612",
       "x:2121554540331942336",
-      "x:2121554554927898858"
+      "x:2121554554927898858",
+      "x:2121554710494876132",
+      "x:2121557173553730032",
+      "x:2121558224214352248"
     ],
     "source_failures": {},
     "sources": []
