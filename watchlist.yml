@@ -402,6 +402,12 @@ sources:
     - {name: Oracle,           url: "https://www.oracle.com/news/", match: "^/news/announcement/[^/]+$"}
     - {name: Tata Electronics, url: "https://www.tataelectronics.com/newsroom/", match: "^/w/[^/]+$"}
 
+  # Service status pages, read by tracker/sources.py _status (added 2026-11-14): one item per
+  # incident on Microsoft 365, Outlook, Teams, OneDrive, Copilot, Azure and the admin centres.
+  # Delete these lines to stop.
+  status:
+    - {name: Microsoft service status, url: "https://status.cloud.microsoft"}
+
   # 3. Government releases, straight from PIB (no English feed exists,
   #    so the ministry dropdown on their English page is driven directly)
   pib:

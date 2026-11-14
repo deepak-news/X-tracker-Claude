@@ -457,7 +457,7 @@ def regulator_item(post, score, headline: str = "", why: str = "") -> dict | Non
 
 def tech_sources(cfg: dict) -> list:
     sources = cfg.get("sources") or {}
-    return sorted(("tech", entry["name"]) for entry in (sources.get("rss") or []) + (sources.get("pages") or []))
+    return sorted(("tech", entry["name"]) for entry in (sources.get("rss") or []) + (sources.get("pages") or []) + (sources.get("status") or []))
 
 
 def _gazette_watch(name: str = "", key: str = "") -> bool:

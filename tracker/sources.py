@@ -761,6 +761,54 @@ def _regulator(which: str) -> list[Post]:
     return posts
 
 
+# Service status pages (watchlist "sources: status", added 2026-11-14): Microsoft's
+# status.cloud.microsoft loads its incidents by script from a few JSON addresses, so those are
+# read directly. One item per incident -- a service plus its title -- stamped when first seen,
+# so an incident's later updates are not news again. Each gets its own address on the page
+# (a #fragment), because the website tells items apart by their link.
+STATUS_QUIET = {"", "operational", "available"}
+
+
+def _status(entry: dict, memory: dict) -> list[Post]:
+    base = entry["url"].rstrip("/")
+    label = entry["name"]
+    known = memory.setdefault(label, {})
+    now = dt.datetime.now(dt.timezone.utc)
+    rows, errors = [], []
+    for part in entry.get("parts") or ["m365Consumer", "azure", "mac", "ppac"]:
+        try:
+            r = requests.get(f"{base}/api/posts/{part}", timeout=TIMEOUT, headers=PAGE_HEADERS)
+            r.raise_for_status()
+            got = r.json()
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"{part}: {str(exc)[:80]}")
+            continue
+        for x in got if isinstance(got, list) else [got]:
+            if isinstance(x, dict):
+                rows.append((part, x))
+    if errors and not rows:
+        raise RuntimeError("; ".join(errors))
+    names = {"azure": "Azure", "mac": "Microsoft 365 admin center", "ppac": "Power Platform admin center"}
+    posts = []
+    for part, x in rows:
+        status = str(x.get("Status") or "").strip()
+        title = " ".join(str(x.get("Title") or "").split())
+        body = _plain(str(x.get("Message") or ""))
+        if status.lower() in STATUS_QUIET or not (title or body):
+            continue
+        service = str(x.get("ServiceDisplayName") or names.get(part, part))
+        key = f"{part}|{x.get('ServiceWorkloadName') or service}|{title or body[:80]}"
+        if key not in known:
+            known[key] = now.isoformat()
+        slug = re.sub(r"[^a-z0-9]+", "-", f"{service} {title or body[:80]}".lower()).strip("-")[:120]
+        text = f"{label} published: {service}: {title or body[:200]}. Status: {status}. {body}"
+        posts.append(_make(dt.datetime.fromisoformat(known[key]), label, text, f"{base}/#{slug}", key))
+    if len(known) > PAGE_MEMORY:
+        for k in sorted(known, key=known.get)[:len(known) - PAGE_MEMORY]:
+            del known[k]
+    return posts
+
+
 def labels(cfg: dict) -> list[str]:
     """Every source label this config can produce, for pruning old state."""
     sources = cfg.get("sources") or {}
@@ -769,6 +817,7 @@ def labels(cfg: dict) -> list[str]:
     names += [f"News: {q['name']}" for q in (sources.get("google_news") or [])]
     names += [f"PIB {m['name']}" for m in (sources.get("pib") or [])]
     names += [p["name"] for p in (sources.get("pages") or [])]
+    names += [p["name"] for p in (sources.get("status") or [])]
     names += [f"REG {regulators.NAMES[r]}" for r in (sources.get("regulators") or [])]
     return names
 
@@ -812,6 +861,9 @@ def collect(cfg: dict, page_memory: dict | None = None):
     for entry in sources.get("pages") or []:
         jobs.append((entry["name"], lambda entry=entry: _page(entry, page_memory),
                      lambda n, entry=entry: f"  {entry['name']}: {n} article links", entry["name"]))
+    for entry in sources.get("status") or []:
+        jobs.append((entry["name"], lambda entry=entry: _status(entry, page_memory),
+                     lambda n, entry=entry: f"  {entry['name']}: {n} open or recent incidents", entry["name"]))
     for which in sources.get("regulators") or []:
         jobs.append((regulators.NAMES[which], lambda which=which: _regulator(which),
                      lambda n, which=which: f"  {regulators.NAMES[which]}: {n} documents in the last 30 days",
