@@ -7388,29 +7388,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-10-26T06:04:43.900597+00:00",
-        "handle": "Gazette Election Commission of India",
-        "headline": "Election Commission announces Rajya Sabha by-election for Madhya Pradesh seat",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277419.pdf",
-        "words": [
-          "bye",
-          "commission",
-          "council",
-          "election",
-          "extraordinary",
-          "gazette",
-          "madhya",
-          "notification",
-          "part",
-          "pradesh",
-          "programme",
-          "section",
-          "states",
-          "sub"
-        ]
-      },
-      {
         "at": "2026-10-26T06:32:27.529899+00:00",
         "handle": "PIB Prime Minister's Office",
         "headline": "Prime Minister congratulates Luiz In\u00e1cio Lula da Silva on Brazil election victory",
@@ -16140,6 +16117,29 @@
           "postal",
           "seizes"
         ]
+      },
+      {
+        "at": "2026-11-14T07:02:36.934893+00:00",
+        "handle": "Parliament",
+        "headline": "Union Minister Hardeep Singh Puri resigns from Rajya Sabha",
+        "tier": 1,
+        "url": "https://sansad.in/getFile/dms/fetch/f1b8767c-47d1-4351-acb5-fe13a6b648ed?source=dsp2rs",
+        "words": [
+          "2026",
+          "66843",
+          "agenda",
+          "article",
+          "bulletin",
+          "bulletins",
+          "nov",
+          "november14",
+          "office",
+          "parliament",
+          "parliamentary",
+          "part",
+          "partii",
+          "rajya"
+        ]
       }
     ],
     "gazette_mark": 277903,
@@ -17170,10 +17170,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-14T06:46:53.989799+00:00",
+    "last_run": "2026-11-14T07:02:36.937976+00:00",
     "pib_mark": 2336134,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63841",
       "gazette:CG-DL-E-21102026-277321",
       "gazette:CG-DL-E-21102026-277320",
       "gazette:CG-DL-E-21102026-277322",
@@ -20172,7 +20171,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168803",
       "pib:2336127",
       "pib:2336134",
-      "site:Delhi Police press releases|dp-press:11/13/2026 12:00:00 AM|MURDER CASE IN THE AREA OF PS NAND NAGRI SOLVED. TWO CCLs APPREHENDED. WEAPON OF OFFANCE RECOVERED."
+      "site:Delhi Police press releases|dp-press:11/13/2026 12:00:00 AM|MURDER CASE IN THE AREA OF PS NAND NAGRI SOLVED. TWO CCLs APPREHENDED. WEAPON OF OFFANCE RECOVERED.",
+      "watch:bulletin:RS|2026-11-14|Bulletin Part-II"
     ],
     "source_failures": {},
     "sources": [
@@ -20233,14 +20233,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794231058956",
-    "1794235139958",
-    "1794242022818",
-    "1794242075728",
-    "1793391300704",
-    "1794200902577",
-    "1794207000093",
-    "1794222488561",
     "1794224305040",
     "1794226080196",
     "1794234097115",
@@ -24604,7 +24596,6 @@
     "1794588840018",
     "1794621038176",
     "1794621600692",
-    "1794622041160",
     "1794542054539",
     "1794542070526",
     "1794567420594",
@@ -24697,8 +24688,6 @@
     "1794602450324",
     "1794551546996",
     "1794583440728",
-    "1794599580240",
-    "1794603618739",
     "1794620581345",
     "1794605946791",
     "1794618143230",
@@ -24712,6 +24701,24 @@
     "1794618588894",
     "1794631610380",
     "1794632437596",
+    "1794552765901",
+    "1794552921935",
+    "1794552927475",
+    "1794553216038",
+    "1794572851453",
+    "1794575720398",
+    "1794587970369",
+    "1794590220739",
+    "1794590341901",
+    "1794599651240",
+    "1794601680627",
+    "1794606723498",
+    "1794613680016",
+    "1794622020160",
+    "1794629520750",
+    "1794634947779",
+    "1794637295747",
+    "1794638462845",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25973,10 +25980,6 @@
     "1794550325041",
     "1794550328131",
     "1794551078219",
-    "1794552765901",
-    "1794552921935",
-    "1794552927475",
-    "1794553216038",
     "1794553355924",
     "1794553868028",
     "1794553960502",
@@ -25986,6 +25989,7 @@
     "1794555925596",
     "1794556491867",
     "1794556800697",
+    "1794558615038",
     "1794558924271",
     "1794559008433",
     "1794559448514",
@@ -26024,7 +26028,6 @@
     "1794572422024",
     "1794572784673",
     "1794572847972",
-    "1794572851453",
     "1794572912048",
     "1794573172877",
     "1794573226009",
@@ -26032,7 +26035,6 @@
     "1794574483106",
     "1794574842347",
     "1794575345720",
-    "1794575720398",
     "1794575760396",
     "1794577105207",
     "1794577541675",
@@ -26056,7 +26058,6 @@
     "1794587314828",
     "1794587489416",
     "1794587785143",
-    "1794587970369",
     "1794588060480",
     "1794588797511",
     "1794588862764",
@@ -26064,8 +26065,6 @@
     "1794589200041",
     "1794589500716",
     "1794590100580",
-    "1794590220739",
-    "1794590341901",
     "1794590409924",
     "1794590745069",
     "1794590760140",
@@ -26095,28 +26094,27 @@
     "1794599280775",
     "1794599340462",
     "1794599481009",
-    "1794599651240",
+    "1794599580240",
     "1794600725970",
     "1794601066615",
-    "1794601680627",
     "1794601800347",
     "1794601887444",
     "1794602710418",
     "1794603313855",
+    "1794603618739",
     "1794604336695",
     "1794604383255",
     "1794605512937",
     "1794605580058",
-    "1794606723498",
     "1794607776078",
     "1794607894667",
     "1794609780556",
     "1794609780625",
+    "1794610887692",
     "1794611515830",
     "1794612011393",
     "1794612655007",
     "1794613166461",
-    "1794613680016",
     "1794615060171",
     "1794615426204",
     "1794615900833",
@@ -26130,9 +26128,9 @@
     "1794619808479",
     "1794621504092",
     "1794621628798",
-    "1794622020160",
     "1794622031251",
     "1794622038262",
+    "1794622041160",
     "1794622710786",
     "1794622760244",
     "1794623192014",
@@ -26158,7 +26156,6 @@
     "1794628076608",
     "1794628080594",
     "1794629082286",
-    "1794629520750",
     "1794630465860",
     "1794630658698",
     "1794630816692",
@@ -26178,7 +26175,6 @@
     "1794633041571",
     "1794633520341",
     "1794634800174",
-    "1794634947779",
     "1794635100987",
     "1794635426628",
     "1794635519238",
@@ -26189,9 +26185,13 @@
     "1794636694280",
     "1794637122797",
     "1794637209564",
-    "1794637295747",
     "1794637553900",
-    "1794638462845",
+    "1794638340158",
+    "1794638547659",
+    "1794638708183",
+    "1794638885197",
+    "1794638973541",
+    "1794639120902",
     "2331589",
     "2331704",
     "2331803",
@@ -26235,32 +26235,9 @@
     "2335968"
   ],
   "last_digest_hour": "2026-11-14T12",
-  "last_success": "2026-11-14T06:46:00.826209+00:00",
+  "last_success": "2026-11-14T07:01:27.622796+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-09T18:05:12.188633+00:00",
-        "handle": "Gazette Ministry of Finance",
-        "headline": "Government issues one hundred rupees commemorative coin for Ghanshyam Dass Jain centenary",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277018.pdf",
-        "words": [
-          "affa",
-          "birth",
-          "centenary",
-          "coin",
-          "commemorative",
-          "dass",
-          "department",
-          "economic",
-          "extraordinary",
-          "finance",
-          "gazette",
-          "ghanshyam",
-          "issue",
-          "jain"
-        ]
-      },
       {
         "at": "2026-10-09T18:19:36.934257+00:00",
         "handle": "Quake USGS",
@@ -34775,6 +34752,29 @@
           "postal",
           "seizes"
         ]
+      },
+      {
+        "at": "2026-11-14T07:02:12.211147+00:00",
+        "handle": "Parliament",
+        "headline": "Union Minister Hardeep Singh Puri resigns from Rajya Sabha seat",
+        "tier": 1,
+        "url": "https://sansad.in/getFile/dms/fetch/f1b8767c-47d1-4351-acb5-fe13a6b648ed?source=dsp2rs",
+        "words": [
+          "2026",
+          "66843",
+          "agenda",
+          "article",
+          "bulletin",
+          "bulletins",
+          "nov",
+          "november14",
+          "office",
+          "parliament",
+          "parliamentary",
+          "part",
+          "partii",
+          "rajya"
+        ]
       }
     ],
     "gazette_mark": 277903,
@@ -36482,10 +36482,9 @@
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-14T06:46:41.111028+00:00",
+    "last_run": "2026-11-14T07:02:12.214312+00:00",
     "pib_mark": 2336134,
     "seen": [
-      "pib:2327594",
       "pib:2327586",
       "pib:2327590",
       "pib:2327610",
@@ -39484,7 +39483,8 @@
       "pib:2336127",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168803",
       "pib:2336134",
-      "site:Delhi Police press releases|dp-press:11/13/2026 12:00:00 AM|MURDER CASE IN THE AREA OF PS NAND NAGRI SOLVED. TWO CCLs APPREHENDED. WEAPON OF OFFANCE RECOVERED."
+      "site:Delhi Police press releases|dp-press:11/13/2026 12:00:00 AM|MURDER CASE IN THE AREA OF PS NAND NAGRI SOLVED. TWO CCLs APPREHENDED. WEAPON OF OFFANCE RECOVERED.",
+      "watch:bulletin:RS|2026-11-14|Bulletin Part-II"
     ],
     "source_failures": {
       "CBI": {
@@ -40750,10 +40750,10 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794638462845,
+    "news: big tech platforms": 1794639120902,
     "news: consumer internet india": 1794633932363,
     "news: global ai": 1794633520341,
-    "news: global chips": 1794637209564,
+    "news: global chips": 1794638885197,
     "news: global it services": 1794625593059,
     "news: india ai deeptech": 1794633520341,
     "news: india edtech gaming": 1794575345720,
@@ -40764,7 +40764,7 @@
     "news: indian it majors": 1794637295747,
     "news: indian it midcaps": 1794584298514,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794637209564,
+    "news: tech leaders": 1794638973541,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40791,9 +40791,7 @@
     "zoho": 1794501698489
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-14T06:45:56.173465+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40811,7 +40809,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-14T06:46:01.222559+00:00",
+    "last_server_run": "2026-11-14T07:01:28.030802+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-14T05:32:16.522236+00:00",
@@ -43250,7 +43248,8 @@
       "gazette:CG-DL-E-13112026-277893|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-13112026-277893|MHA_FINANCE_MAIL_TO",
       "gazette:CG-DL-E-13112026-277899|GAZETTE_MAIL_TO",
-      "gazette:CG-DL-E-13112026-277899|MHA_FINANCE_MAIL_TO"
+      "gazette:CG-DL-E-13112026-277899|MHA_FINANCE_MAIL_TO",
+      "bulletin:RS|2026-11-14|Bulletin Part-II"
     ]
   },
   "x_test": {
@@ -54326,15 +54325,38 @@
           "welfare",
           "workers"
         ]
+      },
+      {
+        "at": "2026-11-14T07:02:25.431702+00:00",
+        "headline": "Telangana announces Rs 5 lakh accidental insurance and Rs 10 lakh health insurance for gig workers.",
+        "url": "https://x.com/INCIndia/status/2121496280799326397",
+        "words": [
+          "accidental",
+          "b4dpv5fcjm",
+          "health",
+          "https",
+          "insurance",
+          "rahulgandhi"
+        ]
+      },
+      {
+        "at": "2026-11-14T07:02:25.431702+00:00",
+        "headline": "Telangana government will set up Wi-Fi enabled rest zones for gig workers in cities.",
+        "url": "https://x.com/INCIndia/status/2121494674657706463",
+        "words": [
+          "dz3nyivtdy",
+          "enabled",
+          "https",
+          "rahulgandhi",
+          "rest",
+          "zone"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-14T06:46:46.523319+00:00",
+    "last_run": "2026-11-14T07:02:25.431996+00:00",
     "seen": [
-      "x:2119088942033379473",
-      "x:2119089126607867947",
-      "x:2119089192387084438",
       "x:2119089418225246269",
       "x:2119089788997554646",
       "x:2119089996443406840",
@@ -57331,7 +57353,10 @@
       "x:2121492073031381118",
       "x:2121492221182754843",
       "x:2121493345747026114",
-      "x:2121493946022899849"
+      "x:2121493946022899849",
+      "x:2121494674657706463",
+      "x:2121496280799326397",
+      "x:2121497135824994642"
     ],
     "source_failures": {},
     "sources": []
