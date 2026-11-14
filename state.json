@@ -7398,25 +7398,6 @@
     "alerted": [
       {
         "at": "2026-10-26T08:33:07.384559+00:00",
-        "handle": "PIB Ministry of Defence",
-        "headline": "Defence Minister to lead Indian delegation at ADMM-Plus meeting in Philippines",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328397",
-        "words": [
-          "13th",
-          "admm",
-          "defence",
-          "delegation",
-          "lead",
-          "mantri",
-          "ministry",
-          "philippines",
-          "plus",
-          "raksha"
-        ]
-      },
-      {
-        "at": "2026-10-26T08:33:07.384559+00:00",
         "handle": "PIB Ministry of Science & Technology",
         "headline": "DST signs agreement to provide major funding for green propulsion technology",
         "tier": 1,
@@ -16151,9 +16132,29 @@
           "science",
           "singh"
         ]
+      },
+      {
+        "at": "2026-11-14T10:47:14.842188+00:00",
+        "handle": "PIB Ministry of Railways",
+        "headline": "Indian Railways approves new weekly train service connecting Ayodhya and Janakpur Dham",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336212",
+        "words": [
+          "approves",
+          "ayodhya",
+          "connecting",
+          "dham",
+          "janakpur",
+          "ministry",
+          "nepal",
+          "railways",
+          "service",
+          "train",
+          "weekly"
+        ]
       }
     ],
-    "gazette_mark": 277910,
+    "gazette_mark": 277913,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -17179,17 +17180,15 @@
       "CG-WB-E-13112026-277901",
       "CG-DL-E-14112026-277910",
       "CG-OR-E-14112026-277909",
-      "CG-DL-E-14112026-277908"
+      "CG-DL-E-14112026-277908",
+      "CG-DL-E-14112026-277913"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-14T10:33:15.718594+00:00",
-    "pib_mark": 2336206,
+    "last_run": "2026-11-14T10:47:14.843029+00:00",
+    "pib_mark": 2336212,
     "seen": [
-      "gazette:CG-DL-E-21102026-277324",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63847",
-      "gazette:CG-DL-E-21102026-277326",
       "gazette:CG-DL-E-21102026-277325",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63848",
@@ -19674,6 +19673,7 @@
       "gazette:CG-DL-E-12112026-277864",
       "gazette:CG-DL-E-12112026-277865",
       "gazette:CG-DL-E-12112026-277866",
+      "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-an-interaction-with-women-self-help-group-members-at-mega-rythu-mela-meeting-hall-hakeempet-kodangal-vikarabad-district-2/",
       "gazette:CG-DL-E-12112026-277868",
       "gazette:CG-DL-E-12112026-277867",
       "gazette:CG-DL-E-12112026-277869",
@@ -19723,7 +19723,6 @@
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_abf4006d-c3da-463a-a04e-421c002bc6a1.pdf",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
-      "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-an-interaction-with-women-self-help-group-members-at-mega-rythu-mela-meeting-hall-hakeempet-kodangal-vikarabad-district-2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-eco-palm-factory-foundation-plaque-unveiling-and-addresses-mega-rythu-mela-public-meeting-at-lagacherla-industrial-corridor-kodangal-vikarabad/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist-2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-government-junior-college-at-doulatabad-kodangal-vikarabad-district-2/",
@@ -20186,7 +20185,10 @@
       "pib:2336193",
       "gazette:CG-OR-E-14112026-277909",
       "gazette:CG-DL-E-14112026-277908",
-      "pib:2336206"
+      "pib:2336206",
+      "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-the-lok-sabha-sri-rahul-gandhi-participates-in-the-launch-of-telangana-gig-workers-social-security-and-welfar/",
+      "gazette:CG-DL-E-14112026-277913",
+      "pib:2336212"
     ],
     "source_failures": {},
     "sources": [
@@ -20247,9 +20249,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794235449209",
-    "1794236220677",
-    "1794236735157",
     "1794241136782",
     "1794244269180",
     "1794244272574",
@@ -24644,7 +24643,6 @@
     "1794629082286",
     "1794632054329",
     "1794559448514",
-    "1794619753383",
     "1794632489380",
     "1794632727917",
     "1794642630938",
@@ -24735,14 +24733,26 @@
     "1794582544393",
     "1794591840273",
     "1794600725970",
-    "1794601066615",
     "1794619376056",
     "1794622073251",
     "1794632809181",
-    "1794644137559",
     "1794650562721",
     "1794651000525",
     "1794651250785",
+    "1794565920000",
+    "1794565980218",
+    "1794585600487",
+    "1794590745069",
+    "1794597780111",
+    "1794602450324",
+    "1794604336695",
+    "1794619716383",
+    "1794622020160",
+    "1794638642880",
+    "1794639600421",
+    "1794640264735",
+    "1794650669469",
+    "1794651780824",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26006,8 +26016,6 @@
     "1794556800697",
     "1794559939903",
     "1794560480511",
-    "1794565920000",
-    "1794565980218",
     "1794566756860",
     "1794566772008",
     "1794567838707",
@@ -26049,7 +26057,6 @@
     "1794584247881",
     "1794584298514",
     "1794584724377",
-    "1794585600487",
     "1794586860981",
     "1794587314828",
     "1794587489416",
@@ -26060,7 +26067,6 @@
     "1794588901965",
     "1794589200041",
     "1794589500716",
-    "1794590745069",
     "1794591090315",
     "1794591660628",
     "1794592740177",
@@ -26078,17 +26084,15 @@
     "1794596880186",
     "1794597089824",
     "1794597499857",
-    "1794597780111",
     "1794598479203",
     "1794599280775",
     "1794599411462",
     "1794599580240",
+    "1794601066615",
     "1794601800347",
-    "1794602450324",
     "1794602710418",
     "1794603313855",
     "1794603618739",
-    "1794604336695",
     "1794605580058",
     "1794607776078",
     "1794607894667",
@@ -26107,12 +26111,11 @@
     "1794618075192",
     "1794618678088",
     "1794619316662",
-    "1794619716383",
+    "1794619753383",
     "1794619808479",
     "1794619951359",
     "1794621504092",
     "1794621628798",
-    "1794622020160",
     "1794622379458",
     "1794622710786",
     "1794622760244",
@@ -26151,13 +26154,10 @@
     "1794637553900",
     "1794638340158",
     "1794638462845",
-    "1794638642880",
     "1794638885197",
     "1794639120902",
     "1794639600171",
-    "1794639600421",
     "1794639600539",
-    "1794640264735",
     "1794640658378",
     "1794640921321",
     "1794640921583",
@@ -26174,6 +26174,7 @@
     "1794643329867",
     "1794643697674",
     "1794644039457",
+    "1794644137559",
     "1794644518008",
     "1794644790950",
     "1794644936064",
@@ -26193,7 +26194,6 @@
     "1794650160111",
     "1794650528544",
     "1794650562999",
-    "1794650669469",
     "1794650766175",
     "1794650824038",
     "1794651000084",
@@ -26203,7 +26203,9 @@
     "1794651300562",
     "1794651436258",
     "1794651560427",
-    "1794651780824",
+    "1794652200402",
+    "1794652265341",
+    "1794652509541",
     "2331589",
     "2331704",
     "2331803",
@@ -26249,49 +26251,9 @@
     "2336192"
   ],
   "last_digest_hour": "2026-11-14T16",
-  "last_success": "2026-11-14T10:31:30.773866+00:00",
+  "last_success": "2026-11-14T10:45:58.387397+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-09T20:03:10.465069+00:00",
-        "handle": "RBI",
-        "headline": "RBI opens special dollar window for public sector oil marketing companies",
-        "tier": 1,
-        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63784",
-        "words": [
-          "announces",
-          "companies",
-          "dollar",
-          "marketing",
-          "meet",
-          "oil",
-          "public",
-          "rbi",
-          "requirements",
-          "sector",
-          "special",
-          "window"
-        ]
-      },
-      {
-        "at": "2026-10-09T20:34:42.256242+00:00",
-        "handle": "Quake USGS",
-        "headline": "Magnitude 6.9 earthquake -- 8 km NW of R\u00edo Grande, Panama.",
-        "tier": 1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282001",
-        "words": [
-          "2026",
-          "deep",
-          "earthquake",
-          "grande",
-          "ist",
-          "magnitude",
-          "oct",
-          "panama",
-          "reported",
-          "usgs"
-        ]
-      },
       {
         "at": "2026-10-09T20:50:13.612515+00:00",
         "handle": "Quake USGS",
@@ -34795,9 +34757,52 @@
           "november",
           "press"
         ]
+      },
+      {
+        "at": "2026-11-14T10:46:51.153788+00:00",
+        "handle": "PIB Ministry of Railways",
+        "headline": "New weekly train service connects Ayodhya in India with Janakpur Dham in Nepal.",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336212",
+        "words": [
+          "approves",
+          "ayodhya",
+          "connecting",
+          "dham",
+          "janakpur",
+          "ministry",
+          "nepal",
+          "railways",
+          "service",
+          "train",
+          "weekly"
+        ]
+      },
+      {
+        "at": "2026-11-14T10:46:51.153788+00:00",
+        "handle": "State: Telangana",
+        "headline": "Telangana launches a new social security and welfare scheme for gig workers.",
+        "tier": 1,
+        "url": "https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-the-lok-sabha-sri-rahul-gandhi-participates-in-the-launch-of-telangana-gig-workers-social-security-and-welfar/",
+        "words": [
+          "along",
+          "ble",
+          "gandhi",
+          "gig",
+          "hon",
+          "launch",
+          "leader",
+          "lok",
+          "opposition",
+          "participates",
+          "rahul",
+          "reddy",
+          "revanth",
+          "sabha"
+        ]
       }
     ],
-    "gazette_mark": 277910,
+    "gazette_mark": 277913,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -36495,23 +36500,20 @@
       "CG-WB-E-13112026-277901",
       "CG-DL-E-14112026-277910",
       "CG-OR-E-14112026-277909",
-      "CG-DL-E-14112026-277908"
+      "CG-DL-E-14112026-277908",
+      "CG-DL-E-14112026-277913"
     ],
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-14T10:32:35.276152+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-14T10:32:43.155731+00:00",
-    "pib_mark": 2336206,
+    "last_run": "2026-11-14T10:46:51.211089+00:00",
+    "pib_mark": 2336212,
     "seen": [
-      "pib:2327741",
-      "site:ai:ISRO|https://www.isro.gov.in/Curtain_Raiser_for_ESTIC_2026_Space_Technologies_Thematic_Session.html",
-      "site:BCCI|https://www.bcci.tv/news/article/parvinder-awana-appointed-chairperson-of-junior-selection-committee",
       "quake:usgs:us6000u4bk",
       "site:ai:ISRO|https://www.isro.gov.in/SPADEX_Satellites_Re_entry_into_Earths_Atmosphere.html",
       "watch:meeting:RS|2300",
@@ -38933,6 +38935,7 @@
       "gazette:CG-DL-E-12112026-277864",
       "gazette:CG-DL-E-12112026-277865",
       "gazette:CG-DL-E-12112026-277866",
+      "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-an-interaction-with-women-self-help-group-members-at-mega-rythu-mela-meeting-hall-hakeempet-kodangal-vikarabad-district-2/",
       "gazette:CG-DL-E-12112026-277868",
       "gazette:CG-DL-E-12112026-277867",
       "gazette:CG-DL-E-12112026-277869",
@@ -39380,7 +39383,6 @@
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist/",
       "page:https://internal.imd.gov.in/press_release/20261110_pr_5479.pdf",
-      "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-an-interaction-with-women-self-help-group-members-at-mega-rythu-mela-meeting-hall-hakeempet-kodangal-vikarabad-district-2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-eco-palm-factory-foundation-plaque-unveiling-and-addresses-mega-rythu-mela-public-meeting-at-lagacherla-industrial-corridor-kodangal-vikarabad/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-rally-from-yellamma-temple-to-mega-rythu-mela-venue-at-lagacherla-kodangal-vikarabad-dist-2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-government-junior-college-at-doulatabad-kodangal-vikarabad-district-2/",
@@ -39508,15 +39510,15 @@
       "pib:2336193",
       "gazette:CG-OR-E-14112026-277909",
       "gazette:CG-DL-E-14112026-277908",
-      "pib:2336206"
+      "pib:2336206",
+      "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-the-lok-sabha-sri-rahul-gandhi-participates-in-the-launch-of-telangana-gig-workers-social-security-and-welfar/",
+      "gazette:CG-DL-E-14112026-277913",
+      "pib:2336212"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -40778,7 +40780,7 @@
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
     "news: big tech platforms": 1794651780824,
-    "news: consumer internet india": 1794647127173,
+    "news: consumer internet india": 1794652265341,
     "news: global ai": 1794645350717,
     "news: global chips": 1794651250785,
     "news: global it services": 1794625593059,
@@ -40791,7 +40793,7 @@
     "news: indian it majors": 1794651000525,
     "news: indian it midcaps": 1794643329867,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794651436258,
+    "news: tech leaders": 1794652509541,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40836,7 +40838,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-14T10:31:31.117729+00:00",
+    "last_server_run": "2026-11-14T10:45:58.721195+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-14T09:46:50.665437+00:00",
@@ -41610,6 +41612,7 @@
       "CG-DL-E-14102026-277156",
       "CG-DL-E-14112026-277908",
       "CG-DL-E-14112026-277910",
+      "CG-DL-E-14112026-277913",
       "CG-DL-E-15092026-276194",
       "CG-DL-E-15092026-276195",
       "CG-DL-E-15092026-276196",
@@ -54500,19 +54503,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-14T10:32:47.999248+00:00",
+    "last_run": "2026-11-14T10:46:59.051059+00:00",
     "seen": [
-      "x:2119266942624374796",
-      "x:2119267280437887470",
-      "x:2119268463269343440",
-      "x:2119269828125159917",
-      "x:2119270178135650781",
-      "x:2119270425645723833",
-      "x:2119270519359058215",
-      "x:2119271191081058713",
-      "x:2119271191462760563",
-      "x:2119271237042196904",
-      "x:2119271251361595802",
       "x:2119272447354560798",
       "x:2119273126890754060",
       "x:2119273705457189124",
@@ -57501,7 +57493,18 @@
       "x:2121548180097728660",
       "x:2121548697389715666",
       "x:2121549373146636340",
-      "x:2121550243246559397"
+      "x:2121550243246559397",
+      "x:2121551213779202283",
+      "x:2121551447401832500",
+      "x:2121552200204014015",
+      "x:2121552245498233103",
+      "x:2121553371324612893",
+      "x:2121553525499216245",
+      "x:2121553756404007249",
+      "x:2121553914931908733",
+      "x:2121554282352906612",
+      "x:2121554540331942336",
+      "x:2121554554927898858"
     ],
     "source_failures": {},
     "sources": []
