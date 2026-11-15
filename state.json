@@ -17195,7 +17195,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-15T16:03:17.411100+00:00",
+    "last_run": "2026-11-15T16:17:08.828215+00:00",
     "pib_mark": 2336674,
     "seen": [
       "pib:2327568",
@@ -20258,10 +20258,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794284619945",
-    "1794287883945",
-    "1794291054617",
-    "1794291432450",
     "1794291469551",
     "1794294904672",
     "1794295591456",
@@ -24796,7 +24792,6 @@
     "1794726736186",
     "1794727102418",
     "1794735249686",
-    "1794736246730",
     "1794736800327",
     "1794718982656",
     "1794727102843",
@@ -24823,8 +24818,18 @@
     "1794729840117",
     "1794736984848",
     "1794739823109",
-    "1794744006155",
-    "1794746640428",
+    "1794727252792",
+    "1794731663809",
+    "1794736926389",
+    "1794736989780",
+    "1794739142225",
+    "1794743237219",
+    "1794744006102",
+    "1794744041537",
+    "1794744240449",
+    "1794751046402",
+    "1794753189382",
+    "1794757904174",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26137,12 +26142,10 @@
     "1794726571055",
     "1794727204665",
     "1794727223674",
-    "1794727252792",
     "1794729600305",
     "1794730015567",
     "1794730851202",
     "1794731488965",
-    "1794731663809",
     "1794731889346",
     "1794732924047",
     "1794733232658",
@@ -26151,16 +26154,14 @@
     "1794735000866",
     "1794736080115",
     "1794736167928",
+    "1794736246730",
     "1794736351829",
     "1794736586041",
     "1794736800473",
     "1794736917160",
-    "1794736926389",
     "1794736941470",
-    "1794736989780",
     "1794738367297",
     "1794738600060",
-    "1794739142225",
     "1794739886476",
     "1794740115523",
     "1794740137751",
@@ -26172,31 +26173,27 @@
     "1794742844870",
     "1794742986422",
     "1794743040660",
-    "1794743237219",
     "1794743415484",
     "1794743580267",
     "1794744001758",
     "1794744005875",
-    "1794744006102",
-    "1794744041537",
-    "1794744240449",
+    "1794744006155",
     "1794745350478",
     "1794745796289",
     "1794746400512",
+    "1794746640428",
     "1794746760361",
     "1794747420935",
     "1794747742391",
     "1794749202105",
     "1794750000190",
     "1794750167332",
-    "1794751046402",
     "1794751200764",
     "1794751209872",
     "1794751474660",
     "1794751491914",
     "1794751506452",
     "1794752700136",
-    "1794753189382",
     "1794753491232",
     "1794753820733",
     "1794754137168",
@@ -26210,8 +26207,11 @@
     "1794755806353",
     "1794756454316",
     "1794756975794",
-    "1794757904174",
     "1794758100486",
+    "1794758158047",
+    "1794758269111",
+    "1794758405322",
+    "1794758589382",
     "2331589",
     "2331704",
     "2331803",
@@ -26260,7 +26260,7 @@
     "2336519"
   ],
   "last_digest_hour": "2026-11-15T21",
-  "last_success": "2026-11-15T16:01:57.977706+00:00",
+  "last_success": "2026-11-15T16:16:01.672573+00:00",
   "national": {
     "alerted": [
       {
@@ -36530,7 +36530,7 @@
       },
       "warned": "2026-11-15T01:02:42.167422+00:00"
     },
-    "last_run": "2026-11-15T16:03:03.155256+00:00",
+    "last_run": "2026-11-15T16:16:53.373661+00:00",
     "pib_mark": 2336674,
     "seen": [
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-navdeep-on-winning-bronze-at-the-asian-para-games",
@@ -39603,7 +39603,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Urban Company shareholders approve Rs 2,500 crore fundraise plan",
+      "post": {
+        "created_at": "2026-11-15T15:55:58+00:00",
+        "handle": "News: Consumer internet India",
+        "id": "1794758158047",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Economic Times",
+        "reposts": 0,
+        "text": "Urban Company shareholders approve Rs 2,500 crore fundraise plan",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWG1iTnZzMFZST3lqaUR1R0g4a0owTzYzRWpvTTlValBycGRYZHd0VDA3NjNmcVdZNlR4dWxPVFpqSEpkTDAtbjBLTHlUdUo3SjJwYnhWVnp4WW56b1NFWFRYdzY3VThvUWxCOHRoRmtybW5PcnBLMHFiSVlaTTIybnFJSHdGYkxKNkQwby0wU2FTWHNDODJzby1GdlpzUWlPQWVyd25yNy1CUjkteXBYaFpBX2tCZTZraGtocWl4M2M3VFlrR09qOUc1cWRUZ9IB0wFBVV95cUxQMUUwRVhOSjdRbnB6TVhqM1NRNXJ2ZE8taVNFRmxaNnRvcjA5MDJpZnpvVHRXckVPNlUtNDdDMjZSc1ZyY0hST3JiRUNYaGV5c1BqQmlNUWpraWZBVzJ5dDhPMjF2aUI1SVRpdm03Wkp4dXJtWkhjSHg0cWE0TWMyX3FDSDZsb2xxZ1RtQzZha05QcmpGVEtNOUMteTR5V3lXd05pQnhBZHNiWFdEdUhsSHB6X0xjRUQ5TUlRU0w1TzZ1RnJjQUhjenZzVkppSVllSkww?oc=5"
+      },
+      "queued_at": "2026-11-15T16:16:01.601320+00:00",
+      "score": 7.0,
+      "why": "A significant funding round and capex commitment by a watched consumer internet startup."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40798,10 +40817,10 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794754801372,
-    "news: consumer internet india": 1794733402892,
-    "news: global ai": 1794751506452,
-    "news: global chips": 1794758100486,
+    "news: big tech platforms": 1794758269111,
+    "news: consumer internet india": 1794758158047,
+    "news: global ai": 1794758405322,
+    "news: global chips": 1794758589382,
     "news: global it services": 1794746640428,
     "news: india ai deeptech": 1794747742391,
     "news: india edtech gaming": 1794741193195,
@@ -40857,17 +40876,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-15T16:01:58.315739+00:00",
+    "last_server_run": "2026-11-15T16:16:02.166294+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-15T14:02:47.549474+00:00",
+        "checked": "2026-11-15T16:16:39.065774+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-15T14:02:38.127897+00:00",
+        "checked": "2026-11-15T16:16:30.624367+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40943,7 +40962,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-15T14:02:42.873319+00:00",
+        "checked": "2026-11-15T16:16:34.621904+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -54509,21 +54528,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-15T16:03:08.625528+00:00",
+    "last_run": "2026-11-15T16:16:59.823784+00:00",
     "seen": [
-      "x:2120038286291046697",
-      "x:2120039128888938858",
-      "x:2120039828813472223",
-      "x:2120040489554711033",
-      "x:2120041347457650877",
-      "x:2120043138920448334",
-      "x:2120043419464769630",
-      "x:2120043955794640947",
-      "x:2120044099508306374",
-      "x:2120044785604202874",
-      "x:2120044962695819748",
-      "x:2120045457577816548",
-      "x:2120046014208115109",
       "x:2120047437138276438",
       "x:2120048461987127573",
       "x:2120048815336001745",
@@ -57510,7 +57516,20 @@
       "x:2121994491938906313",
       "x:2121994506316984462",
       "x:2121995022501543965",
-      "x:2121995785772699847"
+      "x:2121995785772699847",
+      "x:2121996649732219336",
+      "x:2121996734352269585",
+      "x:2121996911863537799",
+      "x:2121996974249677254",
+      "x:2121997044357484944",
+      "x:2121997123948568655",
+      "x:2121997281549533384",
+      "x:2121997466673561711",
+      "x:2121997532784152766",
+      "x:2121997870555693129",
+      "x:2121998020225183967",
+      "x:2121998830619267321",
+      "x:2121999128351875170"
     ],
     "source_failures": {},
     "sources": []
