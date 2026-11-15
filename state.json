@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-11-04T04:32:07.094473+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic introduces FlashProve tool to verify AI models",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZnZKOFFkX2YtTGlCSG8zVm9BY1M4VG53dUgtOVpnYkZrSUN2TXJCZy16UW80MlFHWDIxcU0yUEJWQ2dXV3NlMHVRRm12YWtZUERkQjJmOG5uZElkQ29INHlkRzh1MmtuMVAxR3BkbXFMVmJFWmJhTzJuTWdIVmFKV1g0eXJFMmFzZzNTcmFxcXF0Uk82MlFNb2wxM19WQjV1OEp1b2s0NkJoZF9DOHBldUhQSmVoY1JMNUJYZGJrR2ZVQkZ1UUNQNE1RTUhITm1maWFsTFVNcnnSAd4BQVVfeXFMT3Juamh3NFk0VkVVUk8tZTV3bGg1YW9PcnU3azBBYmVIcUVRSlBTVmVvZVp5blBPUkNmdi1EWm9ya0VkREFlQzN6UjRoWjUyQjR1NUNRUTBmVXh6NVp5RXVuLW1uaWEtLUNidUxBMzQtZzlwcHJfcFNFakJSUENDbFRxOU5qcGlIeDNOc2RtTnlxUi10Z0Q5RHlEVVRYQWtPNk83azdOcU9qNWtaVDFXbjE5QkZWdUlPMThpbzh6aFZLQkkzVW9ZcTZ6NU9DZjVQX3J0Y0lIV2syTU9EVFBB?oc=5",
-      "words": [
-        "anthropic",
-        "flashprove",
-        "introduces",
-        "models",
-        "open",
-        "source",
-        "tool",
-        "verify"
-      ]
-    },
-    {
-      "at": "2026-11-04T04:32:07.094473+00:00",
       "handle": "News: India AI deeptech",
       "headline": "Fractal Analytics reports Q2 results with strong profit growth",
       "tier": 0,
@@ -7395,6 +7378,23 @@
         "precision",
         "semiconductor",
         "vaishnaw"
+      ]
+    },
+    {
+      "at": "2026-11-15T00:31:13.964910+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Semiconductor boom expected to create 100k jobs in three years",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd3pxdTJBNzBERm5UajNXc1doc1NET1lLcFEyd1JZZWstVGJwUjRTTWlmNTJVVVZrUlByOGduRUxKQ3UyTngwdnZwMEtSSFEtS2tPaVo1TVRZVDNyaHpmbEFoMUxkblhiZE1paTRtVTlTaWQ0MEhzd2FLSXVBQlc1S2ViY05FTUFWUUJDNlY2VkFObVVUbTVwampHTkRkbUgxYi1pN2ZvZm9McXV6QlNXd3RNYlV3MmI1SjNLYmVMbTRtbzU5NVV4ZERkMTViTlBsUGV1Q25UM0Fsbkc0bnFRT9IB5gFBVV95cUxNajdCb1JpU0xoRVpVTUZhOEowbEp1R3FGZnFSbGFiLVE4Uzl2Rl9wenRtQ0NwV2syOWFOdnZHMWRmb3dXdGZ2SzRCS2V1ZWs1bW9nV1JOa3ctcGMxM0ZMVEQ5cEJGcmowdjJvUmJlM3ZVeF9DNVN6T1hJb2FoWGpLQ01BQlBUWlRFYnBVWjI4RkNJQlRveGJwQlhKNzcwZjJEZUllMk9ubmJKWUY3MzRvc21XcEw5UWc0SXQ4VHZnMW1JbkRabUVpTmh5VE1HMGMwX2lJbmxDaGtoVXQwcEo5WFJ5ZjNGdw?oc=5",
+      "words": [
+        "100k",
+        "boom",
+        "expected",
+        "jobs",
+        "power",
+        "semicon",
+        "three",
+        "years"
       ]
     }
   ],
@@ -17194,7 +17194,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-15T00:17:09.398684+00:00",
+    "last_run": "2026-11-15T00:32:12.830345+00:00",
     "pib_mark": 2336357,
     "seen": [
       "gazette:CG-DL-E-22102026-277340",
@@ -20257,8 +20257,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794245768147",
-    "1794246833926",
     "1794253122169",
     "1794256484387",
     "1794266824490",
@@ -24778,7 +24776,6 @@
     "1794662389833",
     "1794673657048",
     "1794692735804",
-    "1794657601056",
     "1794667765459",
     "1794671896984",
     "1794673167096",
@@ -24805,26 +24802,16 @@
     "1794697562622",
     "1794618005190",
     "1794674385992",
-    "1789631218001",
-    "1789631218188",
-    "1789631218202",
-    "1789631218210",
-    "1789631218263",
-    "1789631218389",
-    "1789631218418",
-    "1789631218440",
-    "1789631218714",
-    "1789631218862",
-    "1793336484027",
-    "1793349954270",
-    "1793708154642",
-    "1793869285215",
     "1794632154486",
     "1794633041571",
     "1794661732230",
     "1794668494940",
     "1794698709512",
-    "1794729600305",
+    "1788508800775",
+    "1794641400398",
+    "1794655455056",
+    "1794657601861",
+    "1794662143760",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -24926,7 +24913,6 @@
     "1788366264820",
     "1788447728948",
     "1788508800337",
-    "1788508800775",
     "1788557400061",
     "1788768000222",
     "1788771600797",
@@ -25528,6 +25514,16 @@
     "1789631212388",
     "1789631212556",
     "1789631212568",
+    "1789631218001",
+    "1789631218188",
+    "1789631218202",
+    "1789631218210",
+    "1789631218263",
+    "1789631218389",
+    "1789631218418",
+    "1789631218440",
+    "1789631218714",
+    "1789631218862",
     "1789631219642",
     "1789631219653",
     "1789637516540",
@@ -25816,7 +25812,9 @@
     "1793318400920",
     "1793318400921",
     "1793318400955",
+    "1793336484027",
     "1793349165507",
+    "1793349954270",
     "1793350086934",
     "1793350800346",
     "1793352600132",
@@ -25861,6 +25859,7 @@
     "1793692800526",
     "1793697366067",
     "1793707200059",
+    "1793708154642",
     "1793709953629",
     "1793710435098",
     "1793721645022",
@@ -25897,6 +25896,7 @@
     "1793865600201",
     "1793865600231",
     "1793869200026",
+    "1793869285215",
     "1793878797622",
     "1793880014180",
     "1793887234088",
@@ -26115,7 +26115,6 @@
     "1794639600421",
     "1794640264735",
     "1794640658378",
-    "1794641400398",
     "1794641803217",
     "1794642445017",
     "1794642561953",
@@ -26146,16 +26145,15 @@
     "1794654000422",
     "1794654009712",
     "1794655440454",
-    "1794655455056",
     "1794655713626",
     "1794656253856",
     "1794657351354",
     "1794657525004",
-    "1794657601861",
+    "1794657601056",
     "1794657735516",
     "1794658560039",
     "1794660600838",
-    "1794662143760",
+    "1794662700725",
     "1794662807430",
     "1794663787745",
     "1794664291521",
@@ -26181,6 +26179,7 @@
     "1794673946928",
     "1794674055055",
     "1794674716133",
+    "1794676317668",
     "1794676440023",
     "1794676492516",
     "1794677100148",
@@ -26213,6 +26212,7 @@
     "1794699000106",
     "1794700800761",
     "1794701287200",
+    "1794729600305",
     "2331589",
     "2331704",
     "2331803",
@@ -26258,8 +26258,8 @@
     "2336192",
     "2336254"
   ],
-  "last_digest_hour": "2026-11-15T05",
-  "last_success": "2026-11-15T00:16:22.890994+00:00",
+  "last_digest_hour": "2026-11-15T06",
+  "last_success": "2026-11-15T00:31:13.966072+00:00",
   "national": {
     "alerted": [
       {
@@ -36536,7 +36536,7 @@
       },
       "warned": "2026-11-14T01:02:04.593045+00:00"
     },
-    "last_run": "2026-11-15T00:16:59.666733+00:00",
+    "last_run": "2026-11-15T00:31:53.483533+00:00",
     "pib_mark": 2336357,
     "seen": [
       "gazette:CG-DL-E-23102026-277361",
@@ -39609,26 +39609,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Semiconductor boom expected to create 100k jobs in three years",
-      "post": {
-        "created_at": "2026-11-15T00:00:00+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1794700800761",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Semicon boom expected to power up 100k jobs in three years",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd3pxdTJBNzBERm5UajNXc1doc1NET1lLcFEyd1JZZWstVGJwUjRTTWlmNTJVVVZrUlByOGduRUxKQ3UyTngwdnZwMEtSSFEtS2tPaVo1TVRZVDNyaHpmbEFoMUxkblhiZE1paTRtVTlTaWQ0MEhzd2FLSXVBQlc1S2ViY05FTUFWUUJDNlY2VkFObVVUbTVwampHTkRkbUgxYi1pN2ZvZm9McXV6QlNXd3RNYlV3MmI1SjNLYmVMbTRtbzU5NVV4ZERkMTViTlBsUGV1Q25UM0Fsbkc0bnFRT9IB5gFBVV95cUxNajdCb1JpU0xoRVpVTUZhOEowbEp1R3FGZnFSbGFiLVE4Uzl2Rl9wenRtQ0NwV2syOWFOdnZHMWRmb3dXdGZ2SzRCS2V1ZWs1bW9nV1JOa3ctcGMxM0ZMVEQ5cEJGcmowdjJvUmJlM3ZVeF9DNVN6T1hJb2FoWGpLQ01BQlBUWlRFYnBVWjI4RkNJQlRveGJwQlhKNzcwZjJEZUllMk9ubmJKWUY3MzRvc21XcEw5UWc0SXQ4VHZnMW1JbkRabUVpTmh5VE1HMGMwX2lJbmxDaGtoVXQwcEo5WFJ5ZjNGdw?oc=5"
-      },
-      "queued_at": "2026-11-15T00:16:22.846937+00:00",
-      "score": 7.0,
-      "why": "This is a hard growth projection and hiring commitment for the Indian semiconductor sector, making it a valid wire story."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40864,9 +40845,7 @@
     "zoho": 1794501698489
   },
   "source_health": {
-    "down": {
-      "Zinnov": "2026-11-15T00:16:18.598897+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -40884,7 +40863,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-15T00:16:23.185238+00:00",
+    "last_server_run": "2026-11-15T00:31:14.382208+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-14T22:47:07.750343+00:00",
@@ -54620,11 +54599,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-15T00:17:02.529196+00:00",
+    "last_run": "2026-11-15T00:32:04.194050+00:00",
     "seen": [
-      "x:2119353327150608399",
-      "x:2119353558495891861",
-      "x:2119354117319786828",
       "x:2119354236081443043",
       "x:2119354502088364310",
       "x:2119355359622279533",
@@ -57621,7 +57597,10 @@
       "x:2121690625783497096",
       "x:2121694646208487862",
       "x:2121696743842869696",
-      "x:2121752469529330080"
+      "x:2121752469529330080",
+      "x:2121760206346699156",
+      "x:2121761277819355306",
+      "x:2121761716182913441"
     ],
     "source_failures": {},
     "sources": []
