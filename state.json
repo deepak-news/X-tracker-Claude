@@ -17187,14 +17187,11 @@
       "CG-MH-E-14112026-277923"
     ],
     "health": {
-      "down": {
-        "State: Uttar Pradesh": "2026-11-15T05:02:42.334389+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-15T05:02:47.623410+00:00",
-    "pib_mark": 2336426,
+    "last_run": "2026-11-15T05:17:25.814749+00:00",
+    "pib_mark": 2336427,
     "seen": [
-      "gazette:CG-WB-E-22102026-277344",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-harvinder-singh-and-vijay-sundi-on-winning-gold-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nithya-sre-sumathy-sivan-on-winning-silver-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nitesh-kumar-and-pramod-bhagat-on-their-medals-at-the-asian-para-games",
@@ -20193,13 +20190,10 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168776",
       "pib:2336423",
       "pib:2336424",
-      "pib:2336426"
+      "pib:2336426",
+      "pib:2336427"
     ],
-    "source_failures": {
-      "State: Uttar Pradesh": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20258,9 +20252,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794278160600",
-    "1794280592196",
-    "1794201519757",
     "1794252291134",
     "1794261540624",
     "1794262038182",
@@ -24720,7 +24711,6 @@
     "1794677400646",
     "1794663059692",
     "1794679200126",
-    "1794680996736",
     "1794684399105",
     "1794691953228",
     "1794693016512",
@@ -24812,7 +24802,6 @@
     "1794691190187",
     "1794700131660",
     "1794708845823",
-    "1794709510209",
     "1794709744176",
     "1794710356443",
     "1794711401105",
@@ -24820,6 +24809,12 @@
     "1794714833275",
     "1794716263578",
     "1794717592239",
+    "1794632526821",
+    "1794633228231",
+    "1794684000622",
+    "1794689858736",
+    "1794702420783",
+    "1794705181992",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26091,8 +26086,6 @@
     "1794582000389",
     "1794589200041",
     "1794601800347",
-    "1794632526821",
-    "1794633228231",
     "1794633520341",
     "1794633618116",
     "1794637295747",
@@ -26162,12 +26155,11 @@
     "1794679940235",
     "1794680119923",
     "1794680471784",
+    "1794680996736",
     "1794681064183",
-    "1794684000622",
     "1794685500085",
     "1794685620401",
     "1794687702455",
-    "1794689858736",
     "1794692482186",
     "1794693600228",
     "1794694552444",
@@ -26175,10 +26167,8 @@
     "1794699000106",
     "1794700800761",
     "1794701287200",
-    "1794702420783",
     "1794703989973",
     "1794704760704",
-    "1794705181992",
     "1794706179199",
     "1794706516451",
     "1794708000115",
@@ -26189,6 +26179,7 @@
     "1794708772224",
     "1794709225104",
     "1794709353334",
+    "1794709510209",
     "1794709979874",
     "1794710551804",
     "1794710614479",
@@ -26213,6 +26204,9 @@
     "1794717245945",
     "1794717592638",
     "1794718336660",
+    "1794718521969",
+    "1794718982656",
+    "1794719605622",
     "1794729600305",
     "2331589",
     "2331704",
@@ -26260,7 +26254,7 @@
     "2336254"
   ],
   "last_digest_hour": "2026-11-15T10",
-  "last_success": "2026-11-15T05:01:36.515628+00:00",
+  "last_success": "2026-11-15T05:16:08.445033+00:00",
   "national": {
     "alerted": [
       {
@@ -36533,15 +36527,13 @@
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
-        "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00",
-        "State: Uttar Pradesh": "2026-11-15T05:02:19.449534+00:00"
+        "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-15T01:02:42.167422+00:00"
     },
-    "last_run": "2026-11-15T05:02:22.375434+00:00",
-    "pib_mark": 2336426,
+    "last_run": "2026-11-15T05:17:03.965294+00:00",
+    "pib_mark": 2336427,
     "seen": [
-      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatara-patata-saraimatai-daraaupadai-maumauu-kaa-nauakhaai-mahaotasava-kae",
       "gazette:CG-DL-E-23102026-277365",
       "gazette:CG-DL-E-23102026-277366",
       "gazette:CG-DL-E-23102026-277367",
@@ -39540,7 +39532,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168776",
       "pib:2336424",
       "pib:2336423",
-      "pib:2336426"
+      "pib:2336426",
+      "pib:2336427"
     ],
     "source_failures": {
       "CBI": {
@@ -39554,9 +39547,6 @@
       "State: Tamil Nadu": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "State: Uttar Pradesh": {
-        "count": 1
       }
     },
     "sources": [
@@ -40812,7 +40802,7 @@
     "news: big tech platforms": 1794718336660,
     "news: consumer internet india": 1794673946928,
     "news: global ai": 1794713820208,
-    "news: global chips": 1794717592638,
+    "news: global chips": 1794719605622,
     "news: global it services": 1794711974000,
     "news: india ai deeptech": 1794648855516,
     "news: india edtech gaming": 1794575345720,
@@ -40823,7 +40813,7 @@
     "news: indian it majors": 1794716667746,
     "news: indian it midcaps": 1794709353334,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794715351910,
+    "news: tech leaders": 1794719605622,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40868,17 +40858,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-15T05:01:37.012330+00:00",
+    "last_server_run": "2026-11-15T05:16:08.934174+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-15T03:16:38.704831+00:00",
+        "checked": "2026-11-15T05:16:48.191905+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-15T03:16:30.015823+00:00",
+        "checked": "2026-11-15T05:16:40.205488+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40954,7 +40944,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-15T03:16:34.060611+00:00",
+        "checked": "2026-11-15T05:16:44.144234+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -43330,39 +43320,6 @@
   },
   "x_test": {
     "alerted": [
-      {
-        "at": "2026-10-15T05:32:18.634893+00:00",
-        "headline": "Government adds advanced chemicals and petrochemicals to research and innovation funding scheme.",
-        "url": "https://x.com/PIB_India/status/2110602691009548623",
-        "words": [
-          "1mkwzgbc3q",
-          "2026",
-          "additional",
-          "advanced",
-          "area",
-          "been",
-          "chemicals",
-          "decision",
-          "development",
-          "effect",
-          "eligible",
-          "funding",
-          "government",
-          "https",
-          "included",
-          "innovation",
-          "material",
-          "october",
-          "petrochemicals",
-          "rdi",
-          "research",
-          "scheme",
-          "taken",
-          "technologies",
-          "technology",
-          "under"
-        ]
-      },
       {
         "at": "2026-10-15T07:48:41.203409+00:00",
         "headline": "Income Tax Department releases direct tax collection data for fiscal year",
@@ -54580,24 +54537,49 @@
           "2026",
           "ist"
         ]
+      },
+      {
+        "at": "2026-11-15T05:17:13.097212+00:00",
+        "headline": "Punjab police arrests five organized crime operatives and seizes weapons",
+        "url": "https://x.com/DGPPunjabPolice/status/2121832001611386921",
+        "words": [
+          "191",
+          "afridi",
+          "agtf",
+          "anti",
+          "apprehends",
+          "cartridges",
+          "criminal",
+          "deportion",
+          "dxq0wbkirx",
+          "ethiopia",
+          "five",
+          "follow",
+          "force",
+          "gangster",
+          "https",
+          "illegal",
+          "joint",
+          "key",
+          "live",
+          "major",
+          "network",
+          "operation",
+          "operatives",
+          "organised",
+          "pistols",
+          "preliminary",
+          "punjab",
+          "recovers",
+          "tarntaranpolice",
+          "task"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-15T05:02:30.008916+00:00",
+    "last_run": "2026-11-15T05:17:13.097501+00:00",
     "seen": [
-      "x:2119437287435993278",
-      "x:2119441058014933406",
-      "x:2119444396307521589",
-      "x:2119456978724639129",
-      "x:2119459934316245326",
-      "x:2119462750472884381",
-      "x:2119465496370397648",
-      "x:2119466558783410441",
-      "x:2119467817024324064",
-      "x:2119472118106935511",
-      "x:2119474020425097278",
-      "x:2119479602825646528",
       "x:2119479963154039189",
       "x:2119480922894643256",
       "x:2119481700531179996",
@@ -57585,7 +57567,19 @@
       "x:2121828829727502781",
       "x:2121829121701576796",
       "x:2121829640813867355",
-      "x:2121829773735530666"
+      "x:2121829773735530666",
+      "x:2121830543088041985",
+      "x:2121830553708339500",
+      "x:2121830690555867166",
+      "x:2121831142961877379",
+      "x:2121831347752964503",
+      "x:2121832001611386921",
+      "x:2121832432525795387",
+      "x:2121832718099231185",
+      "x:2121832762219118916",
+      "x:2121833480464335354",
+      "x:2121833541558526164",
+      "x:2121833732755824996"
     ],
     "source_failures": {},
     "sources": []
