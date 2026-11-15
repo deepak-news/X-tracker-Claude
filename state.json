@@ -17193,15 +17193,11 @@
       "CG-MH-E-14112026-277923"
     ],
     "health": {
-      "down": {
-        "Gazette of India (Extraordinary)": "2026-11-15T13:07:43.172082+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-15T13:07:45.985972+00:00",
-    "pib_mark": 2336589,
+    "last_run": "2026-11-15T13:17:32.718550+00:00",
+    "pib_mark": 2336597,
     "seen": [
-      "pib:2327429",
-      "pib:2327457",
       "pib:2327474",
       "pib:2327468",
       "pib:2327476",
@@ -20199,13 +20195,11 @@
       "mea:41948",
       "site:Delhi Police press releases|dp-press:11/15/2026 12:00:00 AM|TWO ACCUSED INVOLVED IN CHEATING OF RS 2.75 LAKH ARRESTED FROM CHAMOLI, UTTARAKHAND",
       "page:https://internal.imd.gov.in/press_release/20261115_pr_5493.pdf",
-      "pib:2336573"
+      "pib:2336573",
+      "pib:2336597",
+      "pib:2336586"
     ],
-    "source_failures": {
-      "Gazette of India (Extraordinary)": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20264,18 +20258,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794286876765",
-    "1794288651713",
-    "1794289017959",
-    "1794289787513",
-    "1794290373987",
-    "1794290531674",
-    "1794290570139",
-    "1794290837888",
-    "1794291432653",
-    "1794291753757",
-    "1794294000567",
-    "1794296152317",
     "1794296280016",
     "1794299214635",
     "1793219954177",
@@ -24638,7 +24620,6 @@
     "1794691190187",
     "1794700131660",
     "1794708845823",
-    "1794709744176",
     "1794710356443",
     "1794714833275",
     "1794716263578",
@@ -24781,7 +24762,6 @@
     "1794654000422",
     "1794655455056",
     "1794710629199",
-    "1794727062733",
     "1794739278622",
     "1794654875773",
     "1794708000115",
@@ -24811,7 +24791,6 @@
     "1794714000039",
     "1794724786850",
     "1794726432210",
-    "1794742127209",
     "1794742383781",
     "1794743819622",
     "1794720015495",
@@ -24825,14 +24804,21 @@
     "1794715200924",
     "1794731889148",
     "1794740400494",
-    "1794741985870",
-    "1794708006568",
     "1794712028150",
     "1794733757450",
     "1794736246730",
-    "1794740137751",
     "1794744006102",
     "1794744240449",
+    "1794667200956",
+    "1794708006985",
+    "1794727223674",
+    "1794736800327",
+    "1794739110681",
+    "1794740530798",
+    "1794741985103",
+    "1794742389382",
+    "1794744180988",
+    "1794747420336",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26106,7 +26092,6 @@
     "1794601800347",
     "1794663787019",
     "1794664291698",
-    "1794667200956",
     "1794667680680",
     "1794668055815",
     "1794673946928",
@@ -26121,15 +26106,19 @@
     "1794685500085",
     "1794685620401",
     "1794687702455",
+    "1794699903979",
     "1794700800761",
     "1794701287200",
+    "1794704534150",
     "1794706179199",
-    "1794708006985",
+    "1794706258743",
+    "1794708006568",
     "1794708120370",
     "1794708626112",
     "1794708772224",
     "1794709225104",
     "1794709353334",
+    "1794709744176",
     "1794711695715",
     "1794712320328",
     "1794713820208",
@@ -26142,10 +26131,12 @@
     "1794716667746",
     "1794717540872",
     "1794717592638",
+    "1794718320477",
     "1794718521969",
     "1794718982656",
     "1794719777000",
     "1794720203318",
+    "1794720283866",
     "1794721444353",
     "1794722047213",
     "1794723014936",
@@ -26157,9 +26148,9 @@
     "1794726334556",
     "1794726360031",
     "1794726736186",
+    "1794727062733",
     "1794727102418",
     "1794727204665",
-    "1794727223674",
     "1794729600305",
     "1794729813938",
     "1794729840117",
@@ -26180,28 +26171,27 @@
     "1794736167928",
     "1794736351829",
     "1794736586041",
-    "1794736800327",
     "1794736800473",
     "1794736827582",
     "1794736916598",
     "1794736917852",
     "1794736941470",
     "1794736984848",
+    "1794736989780",
     "1794738367297",
     "1794738600060",
-    "1794739110681",
     "1794739142225",
     "1794739725354",
     "1794739886476",
     "1794740115523",
+    "1794740137751",
     "1794740400410",
     "1794740404415",
     "1794740497660",
-    "1794740530798",
     "1794740712231",
     "1794740891715",
-    "1794741985103",
-    "1794742389382",
+    "1794741985870",
+    "1794742127209",
     "1794742462980",
     "1794742844870",
     "1794742986422",
@@ -26212,12 +26202,16 @@
     "1794744005875",
     "1794744006155",
     "1794744041537",
-    "1794744180988",
     "1794745654316",
     "1794745796289",
+    "1794745834448",
     "1794746400512",
     "1794746640428",
-    "1794747420336",
+    "1794746760361",
+    "1794747420935",
+    "1794747499586",
+    "1794747742391",
+    "1794747789382",
     "2331589",
     "2331704",
     "2331803",
@@ -26266,7 +26260,7 @@
     "2336519"
   ],
   "last_digest_hour": "2026-11-15T18",
-  "last_success": "2026-11-15T13:01:33.307687+00:00",
+  "last_success": "2026-11-15T13:16:07.141958+00:00",
   "national": {
     "alerted": [
       {
@@ -36531,16 +36525,15 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "Gazette of India (Extraordinary)": "2026-11-15T13:05:46.787800+00:00",
+        "NPCI": "2026-11-15T13:17:05.250909+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-15T01:02:42.167422+00:00"
     },
-    "last_run": "2026-11-15T13:05:50.453477+00:00",
-    "pib_mark": 2336589,
+    "last_run": "2026-11-15T13:17:07.977881+00:00",
+    "pib_mark": 2336597,
     "seen": [
-      "quake:usgs:us6000u4lb",
       "quake:ncs:SDB3VEVVelBjOVdXa2FZZXhUUzlNQT09",
       "quake:usgs:us6000u4lm",
       "quake:ncs:UkhNQ0RQYVNJQ2hJN1VOWFgvS1pmQT09",
@@ -39539,14 +39532,15 @@
       "page:https://internal.imd.gov.in/press_release/20261115_pr_5493.pdf",
       "pib:2336573",
       "pib:2336586",
-      "pib:2336589"
+      "pib:2336589",
+      "pib:2336597"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
-      "Gazette of India (Extraordinary)": {
+      "NPCI": {
         "count": 1
       },
       "State: Maharashtra": {
@@ -39613,7 +39607,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "BSNL 4G/5G Spectrum Allotment Approved Under Rs 89,047 Cr Revival Package",
+      "post": {
+        "created_at": "2026-11-15T10:03:09+00:00",
+        "handle": "News: India telecom",
+        "id": "1794736989780",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "ET Government",
+        "reposts": 0,
+        "text": "Allotment of 4G/5G spectrum to BSNL approved; revival package outlay Rs 89047 cr",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdlduYmR6bkVRTFZGM2ljbTlBZnNsSnBhVVZCNHdzQUpjSGk2S1ZhTjgtUVM0SURCVm92TV84cmp3ZHdmWV9aWU16dEM4VjVzOVpydXhldmtwci1fdkJjT1J5X19FM2g4LTJMcDNFaGlzZVFjMUlsdUdPZnVSU0xaSHBBeWRsaXBBUXhUTlZJQWFEZnByR3RlUzNKNEJkcU42TTViUjRYTHBRYWxONHE0SHVPU2hGQnAtM0d4S3RrZkR1QmlHYnVxbHZhejg0YkhNWnd1Rng0UWwyNzRVYS1FNXN5WS1ZeUZONkVNTF9GV1VQZ9IB7AFBVV95cUxNbzQ2SzEzLWF6b1ZpeldJTk5ORzh4dXZyQ0FHMWRmbEN4RExnQmU5bHZ3TXdhS2pIWG4yR0NjVTVOSUl4VjBuNmtNTF83MTVCUjhzU0M3YWZoeVNDSnJpdElCVENMOFg1OWxWLWluTWcweGNvV0lrM1pnVFdxeTUzRThCVmpIRWdLbHJ3TFo0QkJXbHlFR1hRZ0I0ZWd0cUY5MDRrN05TOXgxOWVQQnZHNEIwNGppT3BPYmdLMGM1VGNZNzdJYzkzcjFNQWN3N0JVR2pIU2ZZNmFheWp1N3ktaUFWelJwNUN5N3FBVA?oc=5"
+      },
+      "queued_at": "2026-11-15T13:16:07.080171+00:00",
+      "score": 7.0,
+      "why": "Major government telecom decision involving state-backed BSNL and a large financial outlay."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40810,19 +40823,19 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1794744006155,
     "news: consumer internet india": 1794733402892,
-    "news: global ai": 1794744001758,
-    "news: global chips": 1794745796289,
+    "news: global ai": 1794747499586,
+    "news: global chips": 1794747789382,
     "news: global it services": 1794746640428,
-    "news: india ai deeptech": 1794744180988,
+    "news: india ai deeptech": 1794747742391,
     "news: india edtech gaming": 1794575345720,
     "news: india fintech": 1794742462980,
     "news: india semiconductors": 1794736586041,
     "news: india tech policy": 1794736246730,
-    "news: india telecom": 1794733757450,
+    "news: india telecom": 1794736989780,
     "news: indian it majors": 1794727204992,
     "news: indian it midcaps": 1794709353334,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794747420336,
+    "news: tech leaders": 1794747789382,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40853,13 +40866,7 @@
   },
   "watch": {
     "health_server": {
-      "down": {
-        "e-Gazette - Home, Finance, Defence, Law, I&B": "2026-11-15T13:04:01.151184+00:00",
-        "e-Gazette - Law ministry": "2026-11-15T13:04:01.151184+00:00",
-        "e-Gazette - MHA and Finance": "2026-11-15T13:04:01.151184+00:00",
-        "e-Gazette - MHA extraordinary": "2026-11-15T13:04:01.151184+00:00",
-        "e-Gazette - MeitY": "2026-11-15T13:04:01.151184+00:00"
-      }
+      "down": {}
     },
     "introduced": [
       "DoPT EO - appointments and extensions (30 days)",
@@ -40873,7 +40880,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-15T13:01:33.767829+00:00",
+    "last_server_run": "2026-11-15T13:16:07.528839+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-15T11:46:54.044171+00:00",
@@ -54524,15 +54531,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-15T13:06:00.794493+00:00",
+    "last_run": "2026-11-15T13:17:14.319820+00:00",
     "seen": [
-      "x:2119998481435951225",
-      "x:2119998516135436623",
-      "x:2119998991018717611",
-      "x:2120000042295828792",
-      "x:2120000211540226180",
-      "x:2120000610238132595",
-      "x:2120000746183856221",
       "x:2120000997795799108",
       "x:2120001157175410888",
       "x:2120001771984810137",
@@ -57525,7 +57525,14 @@
       "x:2121951173532074327",
       "x:2121951359515922602",
       "x:2121951559030595906",
-      "x:2121951583391125625"
+      "x:2121951583391125625",
+      "x:2121952607992267005",
+      "x:2121953512246673537",
+      "x:2121953645193543783",
+      "x:2121954017400271229",
+      "x:2121954033632239788",
+      "x:2121954429293449329",
+      "x:2121954729307893814"
     ],
     "source_failures": {},
     "sources": []
