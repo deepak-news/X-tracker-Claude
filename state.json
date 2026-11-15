@@ -7404,28 +7404,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-10-26T11:03:42.855383+00:00",
-        "handle": "Gazette Government of The National Capital Territory of Delhi",
-        "headline": "Delhi High Court appoints new nominated members to its Legal Services Committee",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277427.pdf",
-        "words": [
-          "capital",
-          "committee",
-          "court",
-          "delhi",
-          "extraordinary",
-          "gazette",
-          "government",
-          "high",
-          "legal",
-          "members",
-          "national",
-          "services",
-          "territory"
-        ]
-      },
-      {
         "at": "2026-10-26T12:17:57.925890+00:00",
         "handle": "PIB Ministry of Defence",
         "headline": "Defence Minister calls for next phase of self-reliance in military manufacturing",
@@ -16147,6 +16125,29 @@
           "november",
           "press"
         ]
+      },
+      {
+        "at": "2026-11-15T09:03:09.648739+00:00",
+        "handle": "PIB Ministry of Health and Family Welfare",
+        "headline": "Government health spending triples as household out-of-pocket expenditure share declines significantly",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336478",
+        "words": [
+          "2023",
+          "accounts",
+          "expenditure",
+          "falls",
+          "family",
+          "government",
+          "health",
+          "households",
+          "ministry",
+          "national",
+          "out",
+          "pocket",
+          "sharply",
+          "spending"
+        ]
       }
     ],
     "gazette_mark": 277924,
@@ -17194,11 +17195,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-15T08:47:57.512770+00:00",
-    "pib_mark": 2336477,
+    "last_run": "2026-11-15T09:03:09.650233+00:00",
+    "pib_mark": 2336480,
     "seen": [
-      "pib:2327140",
-      "pib:2327159",
       "pib:2327153",
       "pib:2327230",
       "pib:2327280",
@@ -20196,7 +20195,9 @@
       "feed:http://www.niti.gov.in/node/2456",
       "feed:http://www.niti.gov.in/node/2457",
       "site:Delhi Police press releases|dp-press:11/15/2026 12:00:00 AM|IMPERSONATING AS IPS OFFICER, CYBER FRAUDSTERS DUPE WOMAN OF RS 71 LAKH, IFSO, DELHI POLICE, ARRESTS THREE ACCUSED.",
-      "pib:2336477"
+      "pib:2336477",
+      "pib:2336480",
+      "pib:2336478"
     ],
     "source_failures": {},
     "sources": [
@@ -20257,10 +20258,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794290531684",
-    "1793878223585",
-    "1794238920102",
-    "1794257360416",
     "1794261870797",
     "1794263100163",
     "1794267686811",
@@ -24750,7 +24747,6 @@
     "1794662700725",
     "1794665160596",
     "1794674385606",
-    "1794677100148",
     "1794709510209",
     "1794644790950",
     "1794645050504",
@@ -24809,7 +24805,6 @@
     "1794642445017",
     "1794660600838",
     "1794693017512",
-    "1794708006568",
     "1794720925660",
     "1794728647622",
     "1794644039457",
@@ -24825,6 +24820,13 @@
     "1794718814656",
     "1794722186638",
     "1794731044622",
+    "1794646406703",
+    "1794646422109",
+    "1794648776726",
+    "1794692482186",
+    "1794708006985",
+    "1794727062733",
+    "1794732029622",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26096,11 +26098,8 @@
     "1794582000389",
     "1794589200041",
     "1794601800347",
-    "1794646406703",
-    "1794646422109",
     "1794647127173",
     "1794647423252",
-    "1794648776726",
     "1794648855236",
     "1794650562721",
     "1794650824038",
@@ -26133,6 +26132,7 @@
     "1794673946928",
     "1794674385992",
     "1794674716133",
+    "1794677100148",
     "1794677751016",
     "1794678891142",
     "1794679736290",
@@ -26143,12 +26143,11 @@
     "1794685500085",
     "1794685620401",
     "1794687702455",
-    "1794692482186",
     "1794700800761",
     "1794701287200",
     "1794706179199",
     "1794708000115",
-    "1794708006985",
+    "1794708006568",
     "1794708120370",
     "1794708626112",
     "1794708772224",
@@ -26196,11 +26195,11 @@
     "1794726360031",
     "1794726736186",
     "1794726814918",
-    "1794727062733",
     "1794727102418",
     "1794727204665",
     "1794727223674",
     "1794727568220",
+    "1794728036798",
     "1794729478660",
     "1794729600305",
     "1794729813938",
@@ -26211,7 +26210,9 @@
     "1794731583781",
     "1794731663809",
     "1794731889148",
-    "1794732029622",
+    "1794731918975",
+    "1794732115681",
+    "1794732741622",
     "2331589",
     "2331704",
     "2331803",
@@ -26259,31 +26260,9 @@
     "2336431"
   ],
   "last_digest_hour": "2026-11-15T14",
-  "last_success": "2026-11-15T08:46:09.723303+00:00",
+  "last_success": "2026-11-15T09:01:26.898135+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-11T06:03:56.028601+00:00",
-        "handle": "PIB Ministry of Railways",
-        "headline": "Railways announces 3,548 graduate-level NTPC vacancies for young job seekers",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2321873",
-        "words": [
-          "548",
-          "announces",
-          "aspiring",
-          "career",
-          "graduate",
-          "level",
-          "ministry",
-          "ntpc",
-          "opening",
-          "opportunities",
-          "railways",
-          "vacancies",
-          "youth"
-        ]
-      },
       {
         "at": "2026-10-11T14:33:43.835290+00:00",
         "handle": "Quake USGS",
@@ -34806,6 +34785,29 @@
           "report",
           "schemes"
         ]
+      },
+      {
+        "at": "2026-11-15T09:02:28.408788+00:00",
+        "handle": "PIB Ministry of Health and Family Welfare",
+        "headline": "Government health spending triples while out-of-pocket expenses fall sharply, official data shows",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336478",
+        "words": [
+          "2023",
+          "accounts",
+          "expenditure",
+          "falls",
+          "family",
+          "government",
+          "health",
+          "households",
+          "ministry",
+          "national",
+          "out",
+          "pocket",
+          "sharply",
+          "spending"
+        ]
       }
     ],
     "gazette_mark": 277924,
@@ -36530,11 +36532,9 @@
       },
       "warned": "2026-11-15T01:02:42.167422+00:00"
     },
-    "last_run": "2026-11-15T08:47:22.572045+00:00",
-    "pib_mark": 2336477,
+    "last_run": "2026-11-15T09:02:28.410386+00:00",
+    "pib_mark": 2336480,
     "seen": [
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168654",
-      "quake:usgs:us6000u4k6",
       "dgft-public-notice:30f7da90-cb2f-4ef6-aa9b-77cf7767702d",
       "pib:2327771",
       "pib:2327812",
@@ -39532,7 +39532,9 @@
       "site:Delhi Police press releases|dp-press:11/15/2026 12:00:00 AM|ANTF, CRIME BRANCH BUSTS INTER STATE FAMILY RUN HEROIN SUPPLY CARTEL.",
       "feed:http://www.niti.gov.in/node/2456",
       "feed:http://www.niti.gov.in/node/2457",
-      "pib:2336477"
+      "pib:2336477",
+      "pib:2336480",
+      "pib:2336478"
     ],
     "source_failures": {
       "CBI": {
@@ -40820,18 +40822,18 @@
     "news: big tech platforms": 1794729478660,
     "news: consumer internet india": 1794724754712,
     "news: global ai": 1794731889148,
-    "news: global chips": 1794732029622,
+    "news: global chips": 1794732741622,
     "news: global it services": 1794720015495,
     "news: india ai deeptech": 1794648855516,
     "news: india edtech gaming": 1794575345720,
-    "news: india fintech": 1794657735516,
+    "news: india fintech": 1794732115681,
     "news: india semiconductors": 1794700800761,
     "news: india tech policy": 1794708772224,
     "news: india telecom": 1794716019996,
     "news: indian it majors": 1794727204665,
     "news: indian it midcaps": 1794709353334,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794732029622,
+    "news: tech leaders": 1794732741622,
     "nvidia": 1794574842347,
     "nvidia blog": 1794574842347,
     "openai": 1794582000389,
@@ -40876,7 +40878,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-15T08:46:10.068133+00:00",
+    "last_server_run": "2026-11-15T09:01:27.394737+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-15T07:31:53.095354+00:00",
@@ -43338,16 +43340,6 @@
   },
   "x_test": {
     "alerted": [
-      {
-        "at": "2026-10-15T07:48:41.203409+00:00",
-        "headline": "PM Modi inaugurates Nimmu Padum Darcha road built for Rs 2,500 crore",
-        "url": "https://x.com/BJP4India/status/2110636537214071045",
-        "words": [
-          "500",
-          "eckbrhugdj",
-          "https"
-        ]
-      },
       {
         "at": "2026-10-15T07:48:41.203409+00:00",
         "headline": "Periodic Labour Force Survey shows female workforce participation rising to 40 percent",
@@ -54586,19 +54578,22 @@
           "surgery",
           "while"
         ]
+      },
+      {
+        "at": "2026-11-15T09:02:41.294766+00:00",
+        "headline": "Punjab government announces financial aid for bus accident victims in Naushehra Pannuan",
+        "url": "https://x.com/AamAadmiParty/status/2121889367073739147",
+        "words": [
+          "55wpjehg9x",
+          "bhagwantmann",
+          "https"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-15T08:47:36.788871+00:00",
+    "last_run": "2026-11-15T09:02:41.295072+00:00",
     "seen": [
-      "x:2119710917370032177",
-      "x:2119711244760625213",
-      "x:2119711527863484517",
-      "x:2119712370985443613",
-      "x:2119716629563179478",
-      "x:2119717420067627414",
-      "x:2119718228914319757",
       "x:2119719612556484768",
       "x:2119719913069904351",
       "x:2119720499060387998",
@@ -57591,7 +57586,14 @@
       "x:2121885149881422069",
       "x:2121885611842011255",
       "x:2121885712245219669",
-      "x:2121885745950646645"
+      "x:2121885745950646645",
+      "x:2121887506086125754",
+      "x:2121887624856256946",
+      "x:2121887986446967084",
+      "x:2121888434864238746",
+      "x:2121889002496369039",
+      "x:2121889211871801496",
+      "x:2121889367073739147"
     ],
     "source_failures": {},
     "sources": []
