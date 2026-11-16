@@ -17187,19 +17187,15 @@
       "CG-DL-E-14112026-277922",
       "CG-MH-E-14112026-277923",
       "SG-DL-E-16112026-277926",
-      "CG-DL-E-16112026-277931"
+      "CG-DL-E-16112026-277931",
+      "CG-DL-E-16112026-277930"
     ],
     "health": {
-      "down": {
-        "Gazette of India (Extraordinary)": "2026-11-16T08:39:12.674324+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-16T08:39:14.204102+00:00",
+    "last_run": "2026-11-16T08:47:38.670740+00:00",
     "pib_mark": 2336824,
     "seen": [
-      "pib:2327741",
-      "site:ai:ISRO|https://www.isro.gov.in/Curtain_Raiser_for_ESTIC_2026_Space_Technologies_Thematic_Session.html",
-      "site:BCCI|https://www.bcci.tv/news/article/parvinder-awana-appointed-chairperson-of-junior-selection-committee",
       "site:ai:ISRO|https://www.isro.gov.in/SPADEX_Satellites_Re_entry_into_Earths_Atmosphere.html",
       "watch:meeting:RS|2300",
       "watch:meeting:LS|22580",
@@ -20196,13 +20192,12 @@
       "pib:2336824",
       "pib:2336819",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|NOTORIOUS BURGLAR ARRESTED BY PS SEELAMPUR.",
-      "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|ONE CHILD REUNITED WITH HIS FAMILY UNDER OPERATION MILAP BY STAFF OF PS SOUTH ROHINI"
+      "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|ONE CHILD REUNITED WITH HIS FAMILY UNDER OPERATION MILAP BY STAFF OF PS SOUTH ROHINI",
+      "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|SPECIAL STAFF OUTER NORTH DISTRICT BUSTS GANG OF FOUR BURGLARS FOUR ACCUSED ARRESTED, 16 THEFT CASES WORKED OUT",
+      "gazette:CG-DL-E-16112026-277930",
+      "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|MISSING MINOR GIRL TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAAP"
     ],
-    "source_failures": {
-      "Gazette of India (Extraordinary)": {
-        "count": 1
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20261,12 +20256,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794327084621",
-    "1794243936390",
-    "1794249420148",
-    "1794303420027",
-    "1794305088669",
-    "1794305400981",
     "1794308520949",
     "1794312234526",
     "1794314408408",
@@ -24712,7 +24701,6 @@
     "1794787630618",
     "1794793020540",
     "1794797199431",
-    "1794800640998",
     "1794804370306",
     "1794805726753",
     "1794758405322",
@@ -24788,19 +24776,26 @@
     "1794798819198",
     "1794799764533",
     "1794806041544",
-    "1794813138517",
     "1794815939372",
-    "1793692800518",
-    "1793779200952",
-    "1793952000353",
-    "1794211200808",
     "1794769220465",
     "1794776309070",
     "1794798364102",
     "1794809875562",
-    "1794810618454",
     "1794811297746",
     "1794816511372",
+    "1788557400061",
+    "1788768000222",
+    "1788771600797",
+    "1788792780828",
+    "1794791173239",
+    "1794795639071",
+    "1794798540317",
+    "1794802814595",
+    "1794806511245",
+    "1794811860512",
+    "1794812400332",
+    "1794814620576",
+    "1794817710372",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -24901,10 +24896,6 @@
     "1788365911152",
     "1788366264820",
     "1788447728948",
-    "1788557400061",
-    "1788768000222",
-    "1788771600797",
-    "1788792780828",
     "1788847380154",
     "1788868822464",
     "1788876015500",
@@ -25838,6 +25829,7 @@
     "1793676600768",
     "1793692800152",
     "1793692800183",
+    "1793692800518",
     "1793692800526",
     "1793697366067",
     "1793707200059",
@@ -25858,6 +25850,7 @@
     "1793775600239",
     "1793778272302",
     "1793779200564",
+    "1793779200952",
     "1793780368318",
     "1793795049963",
     "1793795481710",
@@ -25893,6 +25886,7 @@
     "1793908800866",
     "1793908841642",
     "1793923200277",
+    "1793952000353",
     "1793952000534",
     "1793964668123",
     "1793966225932",
@@ -25914,6 +25908,7 @@
     "1794210351673",
     "1794211200051",
     "1794211200196",
+    "1794211200808",
     "1794211253826",
     "1794225645103",
     "1794229200376",
@@ -26091,11 +26086,11 @@
     "1794787228995",
     "1794788142777",
     "1794788302120",
+    "1794788940261",
     "1794789000054",
     "1794789000640",
     "1794789046165",
     "1794790860540",
-    "1794791173239",
     "1794791820506",
     "1794791848420",
     "1794791913065",
@@ -26109,26 +26104,24 @@
     "1794794426448",
     "1794794850971",
     "1794795060281",
-    "1794795639071",
     "1794795660064",
     "1794796200190",
     "1794796440553",
     "1794797100438",
     "1794797543827",
     "1794797676582",
-    "1794798540317",
     "1794798604851",
     "1794799620813",
     "1794800040540",
     "1794800188952",
     "1794800520904",
+    "1794800640998",
     "1794800889489",
     "1794801432360",
     "1794801540418",
     "1794801655939",
     "1794802598664",
     "1794802620083",
-    "1794802814595",
     "1794803026918",
     "1794803270004",
     "1794803340050",
@@ -26152,7 +26145,6 @@
     "1794806203403",
     "1794806400420",
     "1794806410623",
-    "1794806511245",
     "1794806580732",
     "1794806704971",
     "1794806940496",
@@ -26171,26 +26163,28 @@
     "1794809875763",
     "1794809971438",
     "1794810327138",
+    "1794810618454",
     "1794810719588",
     "1794811297024",
-    "1794811860512",
     "1794811920236",
     "1794812126916",
     "1794812220461",
     "1794812277454",
     "1794812290873",
-    "1794812400332",
     "1794812400401",
+    "1794812520332",
     "1794812850922",
     "1794813012869",
     "1794813057189",
+    "1794813138517",
+    "1794813210237",
     "1794813803143",
     "1794813896660",
     "1794814018389",
     "1794814140387",
     "1794814234866",
     "1794814537407",
-    "1794814620576",
+    "1794814772576",
     "1794814969752",
     "1794815100267",
     "1794815259048",
@@ -26207,10 +26201,11 @@
     "1794816771132",
     "1794816817863",
     "1794817020839",
+    "1794817043512",
     "1794817077544",
     "1794817330194",
     "1794817380449",
-    "1794817710372",
+    "1794818355372",
     "1794820823947",
     "1794826836947",
     "2331589",
@@ -26263,7 +26258,7 @@
     "2336819"
   ],
   "last_digest_hour": "2026-11-16T14",
-  "last_success": "2026-11-16T08:31:20.137388+00:00",
+  "last_success": "2026-11-16T08:46:24.235786+00:00",
   "national": {
     "alerted": [
       {
@@ -36530,23 +36525,20 @@
       "CG-DL-E-14112026-277922",
       "CG-MH-E-14112026-277923",
       "SG-DL-E-16112026-277926",
-      "CG-DL-E-16112026-277931"
+      "CG-DL-E-16112026-277931",
+      "CG-DL-E-16112026-277930"
     ],
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "Gazette of India (Extraordinary)": "2026-11-16T08:37:08.898647+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-16T01:16:30.616497+00:00"
     },
-    "last_run": "2026-11-16T08:37:10.367042+00:00",
+    "last_run": "2026-11-16T08:47:17.829845+00:00",
     "pib_mark": 2336824,
     "seen": [
-      "gazette:CG-CG-E-23102026-277373",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-sandeep-on-winning-bronze-at-the-asian-para-games",
-      "gazette:CG-DL-E-23102026-277374",
       "gazette:CG-DL-E-23102026-277375",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nimisha-chakkungalparambil-suresh-on-winning-silver-at-the-asian-para-games",
       "feed:https://www.telangana.gov.in/videos/2026/10/honble-cm-sri-a-revanth-reddy-visits-sri-anjaneya-swamy-temple-at-kondareddipalle-nagarkurnool-district-on-the-occasion-of-vijayadashami-2/",
@@ -39543,15 +39535,15 @@
       "pib:2336819",
       "pib:2336824",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|ONE CHILD REUNITED WITH HIS FAMILY UNDER OPERATION MILAP BY STAFF OF PS SOUTH ROHINI",
-      "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|NOTORIOUS BURGLAR ARRESTED BY PS SEELAMPUR."
+      "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|NOTORIOUS BURGLAR ARRESTED BY PS SEELAMPUR.",
+      "gazette:CG-DL-E-16112026-277930",
+      "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|MISSING MINOR GIRL TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAAP",
+      "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|SPECIAL STAFF OUTER NORTH DISTRICT BUSTS GANG OF FOUR BURGLARS FOUR ACCUSED ARRESTED, 16 THEFT CASES WORKED OUT"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "Gazette of India (Extraordinary)": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -40812,9 +40804,9 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794817710372,
+    "news: big tech platforms": 1794818355372,
     "news: consumer internet india": 1794810618454,
-    "news: global ai": 1794817020839,
+    "news: global ai": 1794817043512,
     "news: global chips": 1794817330194,
     "news: global it services": 1794808344874,
     "news: india ai deeptech": 1794817380449,
@@ -40857,13 +40849,7 @@
   },
   "watch": {
     "health_server": {
-      "down": {
-        "e-Gazette - Home, Finance, Defence, Law, I&B": "2026-11-16T08:35:22.993758+00:00",
-        "e-Gazette - Law ministry": "2026-11-16T08:35:22.993758+00:00",
-        "e-Gazette - MHA and Finance": "2026-11-16T08:35:22.993758+00:00",
-        "e-Gazette - MHA extraordinary": "2026-11-16T08:35:22.993758+00:00",
-        "e-Gazette - MeitY": "2026-11-16T08:35:22.993758+00:00"
-      }
+      "down": {}
     },
     "introduced": [
       "DoPT EO - appointments and extensions (30 days)",
@@ -40877,7 +40863,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-16T08:31:20.460237+00:00",
+    "last_server_run": "2026-11-16T08:46:24.664236+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-16T07:02:45.937279+00:00",
@@ -41021,7 +41007,7 @@
         "rs_committee_press": "2026-11-16T08:35:22.993031+00:00",
         "rs_press": "2026-11-16T08:35:19.994608+00:00",
         "rs_reports": "2026-11-16T08:35:16.976011+00:00",
-        "rs_updates": "2026-11-16T06:32:08.764780+00:00"
+        "rs_updates": "2026-11-16T08:46:47.561597+00:00"
       }
     },
     "scanned": [
@@ -54509,9 +54495,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-16T08:37:19.171509+00:00",
+    "last_run": "2026-11-16T08:47:24.480139+00:00",
     "seen": [
-      "x:2120323748171825608",
       "x:2120324323542237199",
       "x:2120328277462249936",
       "x:2120331642871181736",
@@ -57510,7 +57495,8 @@
       "x:2122244215799468199",
       "x:2122245671269077162",
       "x:2122245931328545254",
-      "x:2122246343427228041"
+      "x:2122246343427228041",
+      "x:2122247577219310065"
     ],
     "source_failures": {},
     "sources": []
