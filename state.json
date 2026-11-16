@@ -7413,29 +7413,6 @@
     "alerted": [
       {
         "at": "2026-10-26T16:48:42.280486+00:00",
-        "handle": "PIB Lok Sabha Secretariat",
-        "headline": "Lok Sabha Speaker urges BRICS parliaments to champion ethical and responsible technology use",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328772",
-        "words": [
-          "brics",
-          "champion",
-          "ethical",
-          "human",
-          "lok",
-          "oversight",
-          "paramount",
-          "parliaments",
-          "responsible",
-          "sabha",
-          "secretariat",
-          "speaker",
-          "technology",
-          "transparent"
-        ]
-      },
-      {
-        "at": "2026-10-26T16:48:42.280486+00:00",
         "handle": "Gazette Ministry of Ports, Shipping and Waterways",
         "headline": "Ports ministry notifies new Ship and Port Facility Security Rules",
         "tier": 1,
@@ -16152,6 +16129,29 @@
           "shah",
           "term"
         ]
+      },
+      {
+        "at": "2026-11-16T06:47:47.985860+00:00",
+        "handle": "PIB Ministry of Commerce & Industry",
+        "headline": "Wholesale price index inflation rises to 2.36 percent in October 2026",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336762",
+        "words": [
+          "2026",
+          "commerce",
+          "final",
+          "index",
+          "industry",
+          "input",
+          "ministry",
+          "month",
+          "october",
+          "output",
+          "price",
+          "producer",
+          "provisional",
+          "trial"
+        ]
       }
     ],
     "gazette_mark": 277926,
@@ -17200,12 +17200,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-16T06:32:51.179872+00:00",
-    "pib_mark": 2336754,
+    "last_run": "2026-11-16T06:47:47.987559+00:00",
+    "pib_mark": 2336762,
     "seen": [
-      "pib:2327649",
-      "pib:2327670",
-      "pib:2327664",
       "pib:2327660",
       "pib:2327710",
       "pib:2327727",
@@ -19753,6 +19750,8 @@
       "gazette:CG-MH-E-13112026-277894",
       "gazette:CG-WB-E-13112026-277901",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-lays-foundation-stone-of-pune-metro-projects",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
       "mea:41949",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%95%e0%b0%be%e0%b0%b0%e0%b0%be%e0%b0%ac%e0%b0%be%e0%b0%a6%e0%b1%8d-%e0%b0%9c%e0%b0%bf%e0%b0%b2%e0%b1%8d%e0%b0%b2%e0%b0%be-%e0%b0%95%e0%b1%8a%e0%b0%a1%e0%b0%82%e0%b0%97%e0%b0%b2/",
       "feed:https://www.telangana.gov.in/videos/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-eco-palm-factory-foundation-plaque-unveiling-and-addresses-mega-rythu-mela-public-meeting-at-lagacherla-industrial-corridor-kodangal-vikarabad/",
@@ -20154,8 +20153,6 @@
       "mea:41945",
       "page:https://internal.imd.gov.in/press_release/20261113_pr_5488.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-in-the-golden-jubilee-celebrations-of-prashanti-kutiram-in-bengaluru",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
       "certin:CIAD-2026-0059",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-laying-of-the-foundation-stone-and-inauguration-of-various-development-projects-in-bengaluru",
       "dgft-public-notice:768cd243-7a87-4e5b-a78a-691d64512816",
@@ -20202,7 +20199,10 @@
       "pib:2336754",
       "pib:2336751",
       "watch:meeting:LS|22663",
-      "pib:2336752"
+      "pib:2336752",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63981",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63980",
+      "pib:2336762"
     ],
     "source_failures": {},
     "sources": [
@@ -20263,10 +20263,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794317151655",
-    "1794323933621",
-    "1793714400176",
-    "1794240172490",
     "1794313200249",
     "1794317478556",
     "1794322852798",
@@ -24817,6 +24813,14 @@
     "1794804600885",
     "1794805221103",
     "1794808862372",
+    "1792771206722",
+    "1794736989780",
+    "1794770081655",
+    "1794789047215",
+    "1794807297736",
+    "1794809974372",
+    "1794810180563",
+    "1794810360426",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25739,7 +25743,6 @@
     "1792742400946",
     "1792757759660",
     "1792760400238",
-    "1792771206722",
     "1792800000302",
     "1793001600557",
     "1793019622137",
@@ -26090,7 +26093,6 @@
     "1794735704027",
     "1794736246730",
     "1794736586041",
-    "1794736989780",
     "1794740137751",
     "1794742844870",
     "1794744001758",
@@ -26106,7 +26108,6 @@
     "1794769276195",
     "1794769320587",
     "1794769421584",
-    "1794770081655",
     "1794770760909",
     "1794772160710",
     "1794772980370",
@@ -26122,7 +26123,6 @@
     "1794789000054",
     "1794789000640",
     "1794789046165",
-    "1794789047215",
     "1794790376391",
     "1794790899501",
     "1794791173239",
@@ -26168,6 +26168,7 @@
     "1794802509092",
     "1794802598664",
     "1794802620083",
+    "1794802680325",
     "1794802814595",
     "1794803032659",
     "1794803270004",
@@ -26198,7 +26199,6 @@
     "1794806580732",
     "1794806592370",
     "1794806704971",
-    "1794807297736",
     "1794807431070",
     "1794807571701",
     "1794808140023",
@@ -26213,9 +26213,9 @@
     "1794809820155",
     "1794809875562",
     "1794809971438",
-    "1794809974372",
-    "1794810180563",
-    "1794810360426",
+    "1794810327138",
+    "1794810719588",
+    "1794811482372",
     "1794816000847",
     "2331589",
     "2331704",
@@ -26265,32 +26265,9 @@
     "2336519"
   ],
   "last_digest_hour": "2026-11-16T12",
-  "last_success": "2026-11-16T06:31:30.994098+00:00",
+  "last_success": "2026-11-16T06:46:06.880094+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-12T04:46:48.898899+00:00",
-        "handle": "PIB Ministry of Coal",
-        "headline": "Coal stocks at power plants remain stable as supplies strengthen in October",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2322065",
-        "words": [
-          "2026",
-          "above",
-          "coal",
-          "depletion",
-          "ministry",
-          "october",
-          "out",
-          "plants",
-          "power",
-          "remain",
-          "stable",
-          "strengthen",
-          "supplies",
-          "thins"
-        ]
-      },
       {
         "at": "2026-10-12T07:46:38.405364+00:00",
         "handle": "PIB Ministry of Health and Family Welfare",
@@ -34816,6 +34793,29 @@
           "shah",
           "term"
         ]
+      },
+      {
+        "at": "2026-11-16T06:47:08.994466+00:00",
+        "handle": "PIB Ministry of Commerce & Industry",
+        "headline": "Government releases official wholesale price index and inflation figures for October",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336762",
+        "words": [
+          "2026",
+          "commerce",
+          "final",
+          "index",
+          "industry",
+          "input",
+          "ministry",
+          "month",
+          "october",
+          "output",
+          "price",
+          "producer",
+          "provisional",
+          "trial"
+        ]
       }
     ],
     "gazette_mark": 277926,
@@ -36541,12 +36541,9 @@
       },
       "warned": "2026-11-16T01:16:30.616497+00:00"
     },
-    "last_run": "2026-11-16T06:32:20.751081+00:00",
-    "pib_mark": 2336754,
+    "last_run": "2026-11-16T06:47:08.996225+00:00",
+    "pib_mark": 2336762,
     "seen": [
-      "pib:2328291",
-      "quake:ncs:KzMxQmJQbVg1SHhnSURzNmU3WU01Zz09",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63853",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-hails-historic-podium-sweep-by-indian-athletes-in-mens-javelin-throw-at-the-asian-para-games",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-pranav-soorma-and-dharambir-on-winning-gold-and-bronze-at-the-asian-para-games",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63854",
@@ -39033,6 +39030,8 @@
       "gazette:CG-MH-E-13112026-277894",
       "gazette:CG-WB-E-13112026-277901",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-lays-foundation-stone-of-pune-metro-projects",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
       "mea:41949",
       "gazette:CG-DL-E-13112026-277903",
       "gazette:CG-DL-E-13112026-277902",
@@ -39491,8 +39490,6 @@
       "mea:41945",
       "page:https://internal.imd.gov.in/press_release/20261113_pr_5488.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-in-the-golden-jubilee-celebrations-of-prashanti-kutiram-in-bengaluru",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
       "certin:CIAD-2026-0059",
       "page:https://www.cbse.gov.in/cbsenew/documents/IPS_Spot_Evalu_2526_13112026.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-laying-of-the-foundation-stone-and-inauguration-of-various-development-projects-in-bengaluru",
@@ -39543,7 +39540,10 @@
       "pib:2336754",
       "watch:meeting:LS|22663",
       "pib:2336751",
-      "pib:2336752"
+      "pib:2336752",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63981",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63980",
+      "pib:2336762"
     ],
     "source_failures": {
       "CBI": {
@@ -40803,13 +40803,13 @@
     "intel": 1794515400818,
     "lenovo": 1794421335480,
     "linkedin": 1794474080139,
-    "meta": 1794484807896,
+    "meta": 1794810327138,
     "microsoft": 1794502803946,
     "microsoft india": 1794453440706,
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794810360426,
+    "news: big tech platforms": 1794811482372,
     "news: consumer internet india": 1794798910285,
     "news: global ai": 1794810180563,
     "news: global chips": 1794810360426,
@@ -40821,9 +40821,9 @@
     "news: india tech policy": 1794809331617,
     "news: india telecom": 1794809971438,
     "news: indian it majors": 1794804370873,
-    "news: indian it midcaps": 1794793136528,
+    "news: indian it midcaps": 1794802680325,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794809387671,
+    "news: tech leaders": 1794810719588,
     "nvidia": 1794787228995,
     "nvidia blog": 1794787228995,
     "openai": 1794780001401,
@@ -40868,7 +40868,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-16T06:31:31.379834+00:00",
+    "last_server_run": "2026-11-16T06:46:07.372545+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-16T05:02:11.878405+00:00",
@@ -43335,39 +43335,6 @@
   },
   "x_test": {
     "alerted": [
-      {
-        "at": "2026-10-16T05:17:26.146801+00:00",
-        "headline": "President accepts Union Minister Dr. L. Murugan's resignation.",
-        "url": "https://x.com/PIB_India/status/2110961367125508384",
-        "words": [
-          "accepted",
-          "advised",
-          "article",
-          "aspx",
-          "clause",
-          "constitution",
-          "council",
-          "drlmurugan",
-          "effect",
-          "gov",
-          "here",
-          "https",
-          "immediate",
-          "minister",
-          "ministers",
-          "murugan",
-          "pib",
-          "president",
-          "pressreleasedetail",
-          "prid",
-          "prime",
-          "read",
-          "resignation",
-          "under",
-          "union",
-          "www"
-        ]
-      },
       {
         "at": "2026-10-16T07:34:35.178645+00:00",
         "headline": "India passenger vehicle sales rise 22% to 4.54 lakh units in September.",
@@ -54521,19 +54488,22 @@
           "view",
           "witnessing"
         ]
+      },
+      {
+        "at": "2026-11-16T06:47:23.933654+00:00",
+        "headline": "Government reports over three crore tribal entrepreneurs benefited under the MUDRA loan scheme.",
+        "url": "https://x.com/BJP4India/status/2122218689915465983",
+        "words": [
+          "https",
+          "janjatiyagauravdiwas",
+          "vj5hkoiv2y"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-16T06:32:42.364672+00:00",
+    "last_run": "2026-11-16T06:47:23.933957+00:00",
     "seen": [
-      "x:2120154522609745940",
-      "x:2120154721243832485",
-      "x:2120154933593092104",
-      "x:2120155596511187122",
-      "x:2120156000644956236",
-      "x:2120156421182636217",
-      "x:2120157648079446188",
       "x:2120158095787835690",
       "x:2120158292018450502",
       "x:2120158411245728176",
@@ -57526,7 +57496,14 @@
       "x:2122212927239557270",
       "x:2122212955953811618",
       "x:2122213749381566744",
-      "x:2122214983560008094"
+      "x:2122214983560008094",
+      "x:2122216848712409422",
+      "x:2122217807693873580",
+      "x:2122217817319809236",
+      "x:2122218053349855579",
+      "x:2122218209504092166",
+      "x:2122218689915465983",
+      "x:2122218915300594057"
     ],
     "source_failures": {},
     "sources": []
