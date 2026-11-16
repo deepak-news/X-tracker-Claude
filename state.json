@@ -2,43 +2,6 @@
   "alerted": [
     {
       "at": "2026-11-04T11:31:23.647187+00:00",
-      "handle": "News: India fintech",
-      "headline": "NPCI forms new unit to push into AI and blockchain tech",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDRZcUtSdWx0QUhRSDVjbF9JTUFTOGhNeTItalh4WWVnMS1HWFdDT2hseS1CSWdxX1RDRkxpR1VSVnNJZGtrV2NjLUx3eWxYajFQY1lFaXdhR3Rtak9iZ0hpYkhXTmVOSDFyQ25jMmdLY2dXR2F3QklLdDBDQm9wa2dfcDVBX3h0T2xmRlZaS0lqY0NPX1FUSVBvZUZWT2hya0JPSjR5MU1oTUxmeVRwekV5OEZzY3ltMmc?oc=5",
-      "words": [
-        "authority",
-        "blockchain",
-        "forms",
-        "into",
-        "npci",
-        "payments",
-        "push",
-        "tech",
-        "unit"
-      ]
-    },
-    {
-      "at": "2026-11-04T11:31:23.647187+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic IPO filing details financing strategies for compute goals",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbFFMNDA5anVlblVzc3RXbklSOWFsZnpmQjdDU2lCY0lJMGJCYWQ5bTl0RmFRRU9uOUVKTjhVYjdWWGJLYXhLNzIzeGU0VndaanRKbzkxaTVZWkRfbHpSaDhMSnZvbjIyYU1MMl9XRXpobGNYRzBQTlRPRDYxWEo3QXluWTlOb2lNMURkSHN5LU9xVk9IamJORk5rd2hkU2puMFJIbG9JdmhMQUcwN29YSC1VWHN4bGZGQU5hUDJpZ1RNUGlaQlVNSkJ1ZlRzd3BRX3JvRll2TXRUdWVoR2owOXpLSWpzQ0VYcG1RSmRfemFjVU03aFBUdVdDSmQ2YVUzVTQtVkp3?oc=5",
-      "words": [
-        "achieve",
-        "anthropic",
-        "compute",
-        "filing",
-        "financing",
-        "goals",
-        "ipo",
-        "needed",
-        "risky",
-        "shows"
-      ]
-    },
-    {
-      "at": "2026-11-04T11:31:23.647187+00:00",
       "handle": "News: Consumer internet India",
       "headline": "Nykaa quarterly profit triples on strong beauty and fashion sales",
       "tier": 0,
@@ -7410,54 +7373,43 @@
         "subscription",
         "ups"
       ]
+    },
+    {
+      "at": "2026-11-16T11:31:42.054879+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Uber partners with Mahindra for 5,000 electric autos in India",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlRKTXdQLUl2SkZHQURVYWgwMWhpWWNUWG4yZ2pYYTRabDNHY2NRWDF4SmttVHNjXzNFa3VDWmszdGhERC1BV1I5eVd3aHV5V2VHVWJSMjFhSF9DQkRQeWJtNERHTGdIZVQ2TWhnRlR2RTZyMlJDbE5UdXhWVkp0LWY0MGlyN3Rnc0p3Qklfc2liUTQ2NjBfWFM3WUJ6QmpEbllnQS1TZkdSNEpCMU1IVjR1cTh1MUJXcEhfRkNscnhEYV9WVUs0Zm1RbWRUT255TXQ4V1E0MkNCWjl2MzdMM0txU3lfbTFiOU4tNmE2c0piLVRYSlJBbENSVk9wLTQyQWFuVFJR0gH_AUFVX3lxTE1xbVhxenZtaWd2SlRBNTdkQlQ4eWVSZWNUNkh3c3BBZVNibXYwQlgwWjNsemI2UkhnbHFqb3Y5WXlQSHQ5SEdLQ1VBVy1QQ19EalpJTkh1RDF4S3FYWWFsdFl1Zmp0N0hnX3JpYVozSlRzXy1BanVTQ252US1SaXpGVWkyc3ZJUk1DYVBCc2QzR19EVFM0Smc1dU5sckZSZHI2R1V0WGJEeEdDdXlnbEI2Y2pUUDdMVmtlVklleUx1eEhXdE8xekc5ZmVZRm5reXl4Q3dFUWpNMndkdkkwcmNYcjUwTnV6LWp3NWZaSWM2d2N5TEExOWZFYkU2a2hJbw?oc=5",
+      "words": [
+        "000",
+        "adoption",
+        "autos",
+        "electric",
+        "mahindra",
+        "months",
+        "partners",
+        "support",
+        "uber"
+      ]
+    },
+    {
+      "at": "2026-11-16T11:31:42.054879+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Fractal Analytics in talks with up to 25 AI startups for acquisitions",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSC1NbTFObDRfZE5rbjJjNEJmdXdBbnV3OVdUMkhSeU1Ic0NMZ0UzOXFkSmVOd2RTSlRDYzN3UndRZ1JCXzZTSUlzVnFWV0NPQTR0VXdRbDB6SGFUNkl3ZkdjTjRfcS02MWZ1T2J0T2lqMlRjSGs5cVpEOU5IUVhPNGRkenFEbXlJUURzWHRlMkl4YmVVend6djBScHI1UE81MDc1Y2FabU1OMi1XX3JOVWJDb1cwenduWXZ6NDNRZHRRMVNQX3Q4VUdxNGY2TE8wS0c0QVk3VV9KMnlMV3hkMtIB5gFBVV95cUxPRHdoalVuVjB4dzFzN3V0Z0paOER2SVAwSUE5VDJXRF9hTXZzeGF3UldVU3V6bmtuczk3WWtzS05KMlBndFF5eUNxNTN0Y0NYcXd6Q05weUlhYndnWXJjVHlDM3hmMUx5cFhJZW52UWUwVWVldEYxMk5kUTJ3T0R2b0tXbEY5UjROUGlOSlBqY19kMmJwVURVeFZLWlpfekxyUXlRRDFIUm9PV3prcmJweG9yRHBRaGFTN2xpbUlCak9Cd1lJcXhwQTc5MWRiTnNHNlVqM3pjVFFOVjZDbm5HMEo2UG1zdw?oc=5",
+      "words": [
+        "acquisitions",
+        "analytics",
+        "ceo",
+        "fractal",
+        "startups",
+        "talks"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-10-27T06:18:42.889833+00:00",
-        "handle": "Gazette Ministry of Finance",
-        "headline": "Government notifies implementation dates for key provisions of Finance Act under GST",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
-        "words": [
-          "2026",
-          "act",
-          "amendment",
-          "bring",
-          "cbic",
-          "cgst",
-          "department",
-          "extraordinary",
-          "finance",
-          "force",
-          "gazette",
-          "gst",
-          "made",
-          "ministry"
-        ]
-      },
-      {
-        "at": "2026-10-27T06:18:42.889833+00:00",
-        "handle": "Gazette Government of The National Capital Territory of Delhi",
-        "headline": "Delhi Lieutenant Governor declares 48 rural villages as urban areas",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277440.pdf",
-        "words": [
-          "capital",
-          "combined",
-          "delhi",
-          "draft",
-          "extraordinary",
-          "gazette",
-          "government",
-          "national",
-          "notification",
-          "territory",
-          "urban",
-          "villages"
-        ]
-      },
       {
         "at": "2026-10-27T07:03:23.302544+00:00",
         "handle": "PIB Ministry of Commerce & Industry",
@@ -16153,6 +16105,52 @@
           "naval",
           "visakhapatnam"
         ]
+      },
+      {
+        "at": "2026-11-16T11:38:38.032175+00:00",
+        "handle": "PIB Ministry of Consumer Affairs, Food & Public Distribution",
+        "headline": "CCPA fines ExportersIndia.com 20 lakh rupees for listing explosive materials online",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336972",
+        "words": [
+          "affairs",
+          "ammonium",
+          "ccpa",
+          "consumer",
+          "distribution",
+          "exportersindia",
+          "food",
+          "imposes",
+          "lakh",
+          "listing",
+          "ministry",
+          "nitrate",
+          "online",
+          "orders"
+        ]
+      },
+      {
+        "at": "2026-11-16T11:38:38.032175+00:00",
+        "handle": "IMD",
+        "headline": "Bay of Bengal deep depression intensifies into pre-cyclone watch for coasts",
+        "tier": 1,
+        "url": "https://internal.imd.gov.in/press_release/20261116_pr_5496.pdf",
+        "words": [
+          "1630",
+          "16th",
+          "2026",
+          "adjoining",
+          "article",
+          "bay",
+          "bengal",
+          "dated",
+          "deep",
+          "depression",
+          "hours",
+          "imd",
+          "issue",
+          "ist"
+        ]
       }
     ],
     "gazette_mark": 277945,
@@ -17204,17 +17202,13 @@
       "CG-DL-E-16112026-277945"
     ],
     "health": {
-      "down": {}
+      "down": {
+        "Gazette of India (Extraordinary)": "2026-11-16T11:38:24.021363+00:00"
+      }
     },
-    "last_run": "2026-11-16T11:16:57.284390+00:00",
-    "pib_mark": 2336938,
+    "last_run": "2026-11-16T11:38:38.102073+00:00",
+    "pib_mark": 2336986,
     "seen": [
-      "mea:41839",
-      "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%A8%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8+%E0%A4%B0%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%9F+%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%A8%E0%A5%88%E0%A4%82%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%B2+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%9C%E0%A4%BC+%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A5%87%E0%A4%9F+%E0%A4%B2%E0%A4%BF+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Order+in+the+matter+of+Nissan+Renault+Financial+Services+India+Pvt+Ltd.pdf/c343b66f-18c5-d5aa-99bf-d959030323c8",
-      "gazette:CG-DL-E-22102026-277355",
-      "gazette:CG-DL-E-23102026-277356",
-      "gazette:CG-DL-E-23102026-277357",
-      "gazette:CG-DL-E-23102026-277358",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-national-green-tribunal",
       "gazette:CG-DL-E-23102026-277364",
       "gazette:CG-DL-E-23102026-277361",
@@ -19744,6 +19738,12 @@
       "gazette:CG-DL-E-14112026-277922",
       "gazette:SG-DL-E-16112026-277926",
       "gazette:CG-DL-E-16112026-277931",
+      "page:https://internal.imd.gov.in/press_release/20261007_pr_5385.pdf",
+      "page:https://www.pmindia.gov.in/en/news_updates/telangana-chief-minister-ministers-in-the-telangana-government-and-union-minister-meet-pm",
+      "gazette:CG-DL-E-16112026-277930",
+      "gazette:CG-JH-E-16112026-277944",
+      "gazette:CG-DL-E-16112026-277943",
+      "gazette:CG-DL-E-16112026-277945",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "mea:41949",
@@ -19794,7 +19794,6 @@
       "feed:http://www.niti.gov.in/node/2454",
       "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
       "page:https://internal.imd.gov.in/press_release/20261008_pr_5389.pdf",
-      "page:https://internal.imd.gov.in/press_release/20261007_pr_5385.pdf",
       "page:https://internal.imd.gov.in/press_release/20261009_pr_5390.pdf",
       "page:https://internal.imd.gov.in/press_release/20261010_pr_5392.pdf",
       "page:https://internal.imd.gov.in/press_release/20261008_pr_5387.pdf",
@@ -20140,7 +20139,6 @@
       "feed:http://www.niti.gov.in/node/2457",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-janjatiya-gaurav-diwas-programme-in-gadchiroli-maharashtra",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tributes-to-bhagwan-birsa-munda-on-his-jayanti-and-extends-greetings-on-janjatiya-gaurav-divas",
-      "page:https://www.pmindia.gov.in/en/news_updates/telangana-chief-minister-ministers-in-the-telangana-government-and-union-minister-meet-pm",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-people-of-jharkhand-on-state-foundation-day-2",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-the-nation-on-sandhya-arghya-of-chhath-mahaparv",
       "mea:41948",
@@ -20182,7 +20180,6 @@
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|NOTORIOUS BURGLAR ARRESTED BY PS SEELAMPUR.",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|ONE CHILD REUNITED WITH HIS FAMILY UNDER OPERATION MILAP BY STAFF OF PS SOUTH ROHINI",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|SPECIAL STAFF OUTER NORTH DISTRICT BUSTS GANG OF FOUR BURGLARS FOUR ACCUSED ARRESTED, 16 THEFT CASES WORKED OUT",
-      "gazette:CG-DL-E-16112026-277930",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|MISSING MINOR GIRL TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAAP",
       "page:https://information.up.gov.in/coffee.pdf",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63982",
@@ -20194,11 +20191,8 @@
       "watch:meeting:LS|22664",
       "pib:2336895",
       "pib:2336893",
-      "gazette:CG-JH-E-16112026-277944",
       "pib:2336892",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|CYBER POLICE STATION, DWARKA BUSTS FAKE INTERNATIONAL BUYER CALL CENTRE DUPING MANUFACTURERS AND TRADERS ACROSS INDIA.",
-      "gazette:CG-DL-E-16112026-277943",
-      "gazette:CG-DL-E-16112026-277945",
       "site:BCCI|https://www.bcci.tv/news/article/bcci-congratulates-mr-jay-shah-on-his-reappointment-as-icc-chair-for-a-second-term",
       "pib:2336909",
       "pib:2336908",
@@ -20208,9 +20202,19 @@
       "pib:2336918",
       "pib:2336914",
       "pib:2336905",
-      "pib:2336938"
+      "pib:2336938",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-by-former-isro-chairman-shri-somanath-sreedhara-panicker-highlighting-indias-space-achievements-and-roadmap-for-future-missions",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-by-former-rural-development-secretary-shri-shailesh-kumar-singh-highlighting-how-the-lakhpati-didi-initiative-is-empowering-rural-women",
+      "page:https://internal.imd.gov.in/press_release/20261116_pr_5496.pdf",
+      "pib:2336983",
+      "pib:2336972",
+      "pib:2336986"
     ],
-    "source_failures": {},
+    "source_failures": {
+      "Gazette of India (Extraordinary)": {
+        "count": 1
+      }
+    },
     "sources": [
       "CCI",
       "CERT-In",
@@ -20269,18 +20273,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794329556851",
-    "1793786400641",
-    "1793800800096",
-    "1793815200194",
-    "1794314300378",
-    "1794319020876",
-    "1794321598550",
-    "1794322010571",
-    "1794322884074",
-    "1794328200896",
-    "1794331140186",
-    "1794333432635",
     "1793221200206",
     "1794282720276",
     "1794290348585",
@@ -24577,7 +24569,6 @@
     "1794777841050",
     "1794787200258",
     "1794790986781",
-    "1794795745064",
     "1794711974000",
     "1794776400901",
     "1794779100014",
@@ -24727,7 +24718,6 @@
     "1794791820506",
     "1794792600987",
     "1794800520904",
-    "1794805221103",
     "1794808707194",
     "1794812850922",
     "1794813210237",
@@ -24736,7 +24726,6 @@
     "1794733402140",
     "1794733757450",
     "1794806410623",
-    "1794811297024",
     "1794818355372",
     "1794818638748",
     "1788557400061",
@@ -24781,7 +24770,6 @@
     "1794769276195",
     "1794772980370",
     "1794783273291",
-    "1794788142777",
     "1794795060281",
     "1794806940496",
     "1794809725736",
@@ -24789,7 +24777,6 @@
     "1794814772576",
     "1794823446389",
     "1794824686372",
-    "1794474164893",
     "1794740137751",
     "1794801655939",
     "1794814234866",
@@ -24803,6 +24790,24 @@
     "1794815050271",
     "1794824800092",
     "1794826332389",
+    "1794474164928",
+    "1794549432104",
+    "1794549808989",
+    "1794550192012",
+    "1794550321796",
+    "1794785408303",
+    "1794790809070",
+    "1794791173239",
+    "1794795660064",
+    "1794801540418",
+    "1794805258103",
+    "1794810660318",
+    "1794812420246",
+    "1794813896660",
+    "1794814018389",
+    "1794816850271",
+    "1794823312636",
+    "1794826596372",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25999,7 +26004,7 @@
     "1794470400044",
     "1794470514426",
     "1794474080139",
-    "1794474164928",
+    "1794474164893",
     "1794475800835",
     "1794481002855",
     "1794483625260",
@@ -26039,11 +26044,7 @@
     "1794528000353",
     "1794528000671",
     "1794528000674",
-    "1794549432104",
-    "1794549808989",
     "1794550050752",
-    "1794550192012",
-    "1794550321796",
     "1794550325041",
     "1794550328131",
     "1794551078219",
@@ -26075,15 +26076,13 @@
     "1794772160710",
     "1794780000237",
     "1794780001401",
-    "1794785408303",
     "1794787228995",
+    "1794788142777",
     "1794788302120",
     "1794789000054",
     "1794789000640",
     "1794789046165",
-    "1794790809070",
     "1794790860540",
-    "1794791173239",
     "1794791848420",
     "1794791875506",
     "1794791913065",
@@ -26095,7 +26094,7 @@
     "1794794400622",
     "1794794426448",
     "1794794850971",
-    "1794795660064",
+    "1794795745064",
     "1794796200190",
     "1794796440553",
     "1794797100438",
@@ -26106,7 +26105,7 @@
     "1794800188952",
     "1794800889489",
     "1794801432360",
-    "1794801540418",
+    "1794801672418",
     "1794802598664",
     "1794802620083",
     "1794803026918",
@@ -26122,7 +26121,7 @@
     "1794804960147",
     "1794805047681",
     "1794805200784",
-    "1794805258103",
+    "1794805221103",
     "1794805261872",
     "1794805319992",
     "1794805620258",
@@ -26142,20 +26141,17 @@
     "1794809971438",
     "1794810327138",
     "1794810618454",
-    "1794810660318",
     "1794810719588",
+    "1794811297024",
     "1794812126916",
     "1794812220461",
     "1794812277454",
     "1794812290873",
     "1794812400401",
-    "1794812420246",
     "1794812520332",
     "1794813012869",
     "1794813057189",
     "1794813138517",
-    "1794813896660",
-    "1794814018389",
     "1794814140387",
     "1794814969752",
     "1794815040393",
@@ -26171,10 +26167,10 @@
     "1794816155135",
     "1794816326477",
     "1794816817863",
-    "1794816850271",
     "1794817020839",
     "1794817043512",
     "1794817330194",
+    "1794817563271",
     "1794818627812",
     "1794818637007",
     "1794818712900",
@@ -26200,7 +26196,6 @@
     "1794823080467",
     "1794823201581",
     "1794823209656",
-    "1794823312636",
     "1794823440163",
     "1794823446337",
     "1794824004479",
@@ -26216,10 +26211,19 @@
     "1794825786707",
     "1794826248293",
     "1794826326389",
-    "1794826596372",
+    "1794826800983",
     "1794826811174",
     "1794826836947",
     "1794826990154",
+    "1794827280519",
+    "1794827651890",
+    "1794827806544",
+    "1794828117082",
+    "1794828126372",
+    "1794828210187",
+    "1794828363363",
+    "1794828445895",
+    "1794828470419",
     "2331589",
     "2331704",
     "2331803",
@@ -26270,33 +26274,10 @@
     "2336819",
     "2336918"
   ],
-  "last_digest_hour": "2026-11-16T16",
-  "last_success": "2026-11-16T11:16:06.603311+00:00",
+  "last_digest_hour": "2026-11-16T17",
+  "last_success": "2026-11-16T11:31:42.129139+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-12T08:16:46.374468+00:00",
-        "handle": "IMD",
-        "headline": "IMD announces withdrawal of southwest monsoon and onset of northeast monsoon rains",
-        "tier": 1,
-        "url": "https://internal.imd.gov.in/press_release/20261012_pr_5395.pdf",
-        "words": [
-          "12th",
-          "2026",
-          "article",
-          "date",
-          "department",
-          "earth",
-          "government",
-          "imd",
-          "meteorological",
-          "ministry",
-          "oct",
-          "october",
-          "pdf",
-          "press"
-        ]
-      },
       {
         "at": "2026-10-12T10:32:09.028318+00:00",
         "handle": "PIB Ministry of Statistics & Programme Implementation",
@@ -34822,6 +34803,29 @@
           "november",
           "press"
         ]
+      },
+      {
+        "at": "2026-11-16T11:36:17.959437+00:00",
+        "handle": "IMD",
+        "headline": "Deep depression over Bay of Bengal triggers pre-cyclone watch for Andhra and Odisha",
+        "tier": 1,
+        "url": "https://internal.imd.gov.in/press_release/20261116_pr_5496.pdf",
+        "words": [
+          "1630",
+          "16th",
+          "2026",
+          "adjoining",
+          "article",
+          "bay",
+          "bengal",
+          "dated",
+          "deep",
+          "depression",
+          "hours",
+          "imd",
+          "issue",
+          "ist"
+        ]
       }
     ],
     "gazette_mark": 277945,
@@ -36547,20 +36551,16 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "Gazette of India (Extraordinary)": "2026-11-16T11:36:03.077165+00:00",
         "NPCI": "2026-11-16T09:46:54.930610+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-16T01:16:30.616497+00:00"
     },
-    "last_run": "2026-11-16T11:16:41.818206+00:00",
-    "pib_mark": 2336938,
+    "last_run": "2026-11-16T11:36:18.027619+00:00",
+    "pib_mark": 2336983,
     "seen": [
-      "gazette:CG-MH-E-23102026-277382",
-      "gazette:CG-MH-E-23102026-277387",
-      "gazette:CG-MH-E-23102026-277386",
-      "gazette:CG-RJ-E-24102026-277395",
-      "gazette:CG-DL-E-24102026-277394",
       "gazette:CG-AP-E-24102026-277396",
       "gazette:CG-DL-E-24102026-277398",
       "gazette:CG-DL-E-24102026-277399",
@@ -39031,6 +39031,12 @@
       "gazette:CG-DL-E-14112026-277919",
       "gazette:SG-DL-E-16112026-277926",
       "gazette:CG-DL-E-16112026-277931",
+      "page:https://internal.imd.gov.in/press_release/20261007_pr_5385.pdf",
+      "page:https://www.pmindia.gov.in/en/news_updates/telangana-chief-minister-ministers-in-the-telangana-government-and-union-minister-meet-pm",
+      "gazette:CG-DL-E-16112026-277930",
+      "gazette:CG-JH-E-16112026-277944",
+      "gazette:CG-DL-E-16112026-277943",
+      "gazette:CG-DL-E-16112026-277945",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "mea:41949",
@@ -39079,7 +39085,6 @@
       "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
       "feed:http://www.niti.gov.in/node/2454",
       "mea:41929",
-      "page:https://internal.imd.gov.in/press_release/20261007_pr_5385.pdf",
       "page:https://internal.imd.gov.in/press_release/20261008_pr_5387.pdf",
       "page:https://internal.imd.gov.in/press_release/20261008_pr_5389.pdf",
       "page:https://internal.imd.gov.in/press_release/20261009_pr_5390.pdf",
@@ -39485,7 +39490,6 @@
       "page:https://internal.imd.gov.in/press_release/20261115_pr_5491.pdf",
       "feed:http://www.niti.gov.in/node/2456",
       "feed:http://www.niti.gov.in/node/2457",
-      "page:https://www.pmindia.gov.in/en/news_updates/telangana-chief-minister-ministers-in-the-telangana-government-and-union-minister-meet-pm",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tributes-to-bhagwan-birsa-munda-on-his-jayanti-and-extends-greetings-on-janjatiya-gaurav-divas",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-greetings-to-people-of-jharkhand-on-state-foundation-day-2",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-janjatiya-gaurav-diwas-programme-in-gadchiroli-maharashtra",
@@ -39528,7 +39532,6 @@
       "pib:2336824",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|ONE CHILD REUNITED WITH HIS FAMILY UNDER OPERATION MILAP BY STAFF OF PS SOUTH ROHINI",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|NOTORIOUS BURGLAR ARRESTED BY PS SEELAMPUR.",
-      "gazette:CG-DL-E-16112026-277930",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|MISSING MINOR GIRL TRACED AND SAFELY RECOVERED BY AHTU, OUTER NORTH DISTRICT UNDER OPERATION MILAAP",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|SPECIAL STAFF OUTER NORTH DISTRICT BUSTS GANG OF FOUR BURGLARS FOUR ACCUSED ARRESTED, 16 THEFT CASES WORKED OUT",
       "page:https://information.up.gov.in/coffee.pdf",
@@ -39540,13 +39543,10 @@
       "pib:2336892",
       "pib:2336893",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|PS KOTWALI CRACKED NIGHT BURGLARY CASE OF CHANDNI CHOWK WITHIN JUST 04 DAYS 04 ACCUSED ARRESTED",
-      "gazette:CG-JH-E-16112026-277944",
       "pib:2336895",
       "watch:meeting:LS|22664",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|CYBER POLICE STATION, DWARKA BUSTS FAKE INTERNATIONAL BUYER CALL CENTRE DUPING MANUFACTURERS AND TRADERS ACROSS INDIA.",
       "site:BCCI|https://www.bcci.tv/news/article/bcci-congratulates-mr-jay-shah-on-his-reappointment-as-icc-chair-for-a-second-term",
-      "gazette:CG-DL-E-16112026-277943",
-      "gazette:CG-DL-E-16112026-277945",
       "pib:2336909",
       "pib:2336908",
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|IFSO UNIT, DELHI POLICE, BUSTS ILLEGAL CALL CENTRE FRAUDING IN THE NAME OF UNANI HEALTH CARE, 12 ACCUSED ARRESTED",
@@ -39555,12 +39555,20 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168808",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168807",
       "pib:2336905",
-      "pib:2336938"
+      "pib:2336938",
+      "pib:2336983",
+      "pib:2336972",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-by-former-rural-development-secretary-shri-shailesh-kumar-singh-highlighting-how-the-lakhpati-didi-initiative-is-empowering-rural-women",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-by-former-isro-chairman-shri-somanath-sreedhara-panicker-highlighting-indias-space-achievements-and-roadmap-for-future-missions",
+      "page:https://internal.imd.gov.in/press_release/20261116_pr_5496.pdf"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "Gazette of India (Extraordinary)": {
+        "count": 1
       },
       "NPCI": {
         "count": 3,
@@ -39630,26 +39638,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Uber partners with Mahindra for 5,000 electric autos in India",
-      "post": {
-        "created_at": "2026-11-16T10:35:05+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1794825305368",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "Uber partners with Mahindra to support adoption of 5,000 electric autos in India over 12 months",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUlRKTXdQLUl2SkZHQURVYWgwMWhpWWNUWG4yZ2pYYTRabDNHY2NRWDF4SmttVHNjXzNFa3VDWmszdGhERC1BV1I5eVd3aHV5V2VHVWJSMjFhSF9DQkRQeWJtNERHTGdIZVQ2TWhnRlR2RTZyMlJDbE5UdXhWVkp0LWY0MGlyN3Rnc0p3Qklfc2liUTQ2NjBfWFM3WUJ6QmpEbllnQS1TZkdSNEpCMU1IVjR1cTh1MUJXcEhfRkNscnhEYV9WVUs0Zm1RbWRUT255TXQ4V1E0MkNCWjl2MzdMM0txU3lfbTFiOU4tNmE2c0piLVRYSlJBbENSVk9wLTQyQWFuVFJR0gH_AUFVX3lxTE1xbVhxenZtaWd2SlRBNTdkQlQ4eWVSZWNUNkh3c3BBZVNibXYwQlgwWjNsemI2UkhnbHFqb3Y5WXlQSHQ5SEdLQ1VBVy1QQ19EalpJTkh1RDF4S3FYWWFsdFl1Zmp0N0hnX3JpYVozSlRzXy1BanVTQ252US1SaXpGVWkyc3ZJUk1DYVBCc2QzR19EVFM0Smc1dU5sckZSZHI2R1V0WGJEeEdDdXlnbEI2Y2pUUDdMVmtlVklleUx1eEhXdE8xekc5ZmVZRm5reXl4Q3dFUWpNMndkdkkwcmNYcjUwTnV6LWp3NWZaSWM2d2N5TEExOWZFYkU2a2hJbw?oc=5"
-      },
-      "queued_at": "2026-11-16T10:46:13.682373+00:00",
-      "score": 7.0,
-      "why": "Major partnership between mobility and automotive giants in India involving thousands of EVs."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40844,12 +40833,12 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794826596372,
+    "news: big tech platforms": 1794828126372,
     "news: consumer internet india": 1794824404385,
     "news: global ai": 1794826811174,
-    "news: global chips": 1794826990154,
+    "news: global chips": 1794828470419,
     "news: global it services": 1794812420246,
-    "news: india ai deeptech": 1794821264410,
+    "news: india ai deeptech": 1794827280519,
     "news: india edtech gaming": 1794807166627,
     "news: india fintech": 1794824221110,
     "news: india semiconductors": 1794801655939,
@@ -40858,7 +40847,7 @@
     "news: indian it majors": 1794823446389,
     "news: indian it midcaps": 1794823446389,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1794825780934,
+    "news: tech leaders": 1794828470419,
     "nvidia": 1794787228995,
     "nvidia blog": 1794787228995,
     "openai": 1794819600486,
@@ -40879,7 +40868,7 @@
     "sarvam ai": 1794210351673,
     "swiggy": 1794372165369,
     "tata electronics": 1789738328115,
-    "trai": 1794573172877,
+    "trai": 1794828445895,
     "xai": 1794420952495,
     "zinnov": 1793869285215,
     "zoho": 1794826836947
@@ -40889,7 +40878,13 @@
   },
   "watch": {
     "health_server": {
-      "down": {}
+      "down": {
+        "e-Gazette - Home, Finance, Defence, Law, I&B": "2026-11-16T11:34:06.178180+00:00",
+        "e-Gazette - Law ministry": "2026-11-16T11:34:06.178180+00:00",
+        "e-Gazette - MHA and Finance": "2026-11-16T11:34:06.178180+00:00",
+        "e-Gazette - MHA extraordinary": "2026-11-16T11:34:06.178180+00:00",
+        "e-Gazette - MeitY": "2026-11-16T11:34:06.178180+00:00"
+      }
     },
     "introduced": [
       "DoPT EO - appointments and extensions (30 days)",
@@ -40903,17 +40898,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-16T11:16:07.010756+00:00",
+    "last_server_run": "2026-11-16T11:31:42.652035+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-16T09:16:58.281807+00:00",
+        "checked": "2026-11-16T11:34:06.178114+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-16T09:16:48.889433+00:00",
+        "checked": "2026-11-16T11:33:57.158474+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -40989,7 +40984,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-16T09:16:53.584668+00:00",
+        "checked": "2026-11-16T11:34:01.886089+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -43377,21 +43372,6 @@
   },
   "x_test": {
     "alerted": [
-      {
-        "at": "2026-10-17T06:51:54.826806+00:00",
-        "headline": "Open your National Pension System account digitally in three clicks using popular apps.",
-        "url": "https://x.com/MyGovHindi/status/2111334224305500340",
-        "words": [
-          "bhim",
-          "digitalindia",
-          "https",
-          "nps",
-          "nsuidwuv2u",
-          "phonepe",
-          "tatkal",
-          "tatkalnps"
-        ]
-      },
       {
         "at": "2026-10-17T09:51:13.071311+00:00",
         "headline": "All nine Indian crew members of tanker YARA J confirmed safe in Romania",
@@ -54540,26 +54520,45 @@
           "trade",
           "year"
         ]
+      },
+      {
+        "at": "2026-11-16T11:36:27.919926+00:00",
+        "headline": "Sarbananda Sonowal launches the Naukosh digital portal for shipbuilding and repairs.",
+        "url": "https://x.com/sarbanandsonwal/status/2122291313580409020",
+        "words": [
+          "2026",
+          "approvals",
+          "brings",
+          "comprehensive",
+          "conclave",
+          "digital",
+          "ecosystem",
+          "entire",
+          "eodb",
+          "glad",
+          "https",
+          "investment",
+          "launch",
+          "leveraging",
+          "modi",
+          "naukosh",
+          "policies",
+          "portal",
+          "q4uxmc6etv",
+          "repair",
+          "ship",
+          "shipbuilding",
+          "tech",
+          "translating",
+          "unifying",
+          "vision"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-16T11:16:48.853002+00:00",
+    "last_run": "2026-11-16T11:36:27.920416+00:00",
     "seen": [
-      "x:2120394686787616830",
-      "x:2120396155620376915",
-      "x:2120397250627248596",
-      "x:2120397599182336187",
-      "x:2120398620138553831",
-      "x:2120399009231806652",
-      "x:2120399115528102306",
-      "x:2120400359965315447",
-      "x:2120401319580106809",
-      "x:2120401831289557253",
-      "x:2120402037762597321",
-      "x:2120402638319784241",
-      "x:2120405096013955224",
-      "x:2120405130411700617",
       "x:2120405814859251803",
       "x:2120406173505798245",
       "x:2120406344524239012",
@@ -57545,7 +57544,21 @@
       "x:2122284282563776972",
       "x:2122284698298896702",
       "x:2122285758711209987",
-      "x:2122286054921359792"
+      "x:2122286054921359792",
+      "x:2122287137324253611",
+      "x:2122288369850048835",
+      "x:2122288745496170523",
+      "x:2122288936311816410",
+      "x:2122289398339473641",
+      "x:2122289625901482191",
+      "x:2122289713390452743",
+      "x:2122291091932315778",
+      "x:2122291092364181689",
+      "x:2122291093492445436",
+      "x:2122291146076701102",
+      "x:2122291313580409020",
+      "x:2122291366726447282",
+      "x:2122291655810470159"
     ],
     "source_failures": {},
     "sources": []
