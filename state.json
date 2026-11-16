@@ -1,37 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-04T10:47:15.328770+00:00",
-      "handle": "TRAI",
-      "headline": "TRAI launches Network Anubhav Platform",
-      "tier": 1,
-      "url": "http://www.trai.gov.in/node/18889",
-      "words": [
-        "anubhav",
-        "launches",
-        "network",
-        "platform",
-        "trai"
-      ]
-    },
-    {
-      "at": "2026-11-04T11:31:23.647187+00:00",
-      "handle": "News: Consumer internet India",
-      "headline": "Nykaa Q2 profit triples to Rs 101 crore with higher revenue",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEtuOFVoQlJSdTJtWGd2N0ZvOEVhZGhiSTVfU1phRXBWd1NDclNlRm5ucXd1anhTS1BNTk8zNUpyM00wc3h1aFE0c1VMSmRXN1ZyaElJNld3WXR0elZvYlRsbGxRRy1Ja0Z6WTRmbjdidDZBMFlpMk1EcV8wV1lqUUNJaDB4Qm1GT1pHbGtyVHlpa19USFlXcGthMA?oc=5",
-      "words": [
-        "101",
-        "more",
-        "nykaa",
-        "profit",
-        "revenue",
-        "than",
-        "triples",
-        "yoy"
-      ]
-    },
-    {
       "at": "2026-11-04T11:31:23.647187+00:00",
       "handle": "News: India fintech",
       "headline": "NPCI forms new unit to push into AI and blockchain tech",
@@ -7400,6 +7369,46 @@
         "publications",
         "strategic",
         "support"
+      ]
+    },
+    {
+      "at": "2026-11-16T10:32:18.983627+00:00",
+      "handle": "News: India tech policy",
+      "headline": "Supreme Court warns authorities over Aadhaar face authentication plea",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOTzJvaVo1NXpMejFGOF9teGQ2SDh6Q2FQb2lOSjktX2dnanpkS210RnZoY3hsOHgzVk1kY1hxVzd1NFM2RWhDaGNBS0ZWWTc4OWJEWWJNMGRKaXprNERaeHdOVW9sOU51am1pZXBBZkVqUUJJOEdvemNiYzJGQmZDbWZ2Y0l2dzRmdTRYM1Z1Uy1wc0JJVXJMZkpnbjcwcndTNjZhRGlXclZfWTMxWG9KVTVJRTlkMmMzRkt3NW8zRjV5SlN3UTg5dVZmNjNWSmhsdy1vLWdrRFhYMEZpdkxvaW5PMDRXTDdERWd0RVd0Y3A2UlF4VEFzTFo4enBSN21BX0E1QmprQXVpbk11bGQ2Qk9wQTI1V3FmbFhZdjFCVjczUWZmcVBF0gGuAkFVX3lxTFBCamd6T1NzN2JZZkRKZzV1eVRrc0Z4TDJ3ZUNQS1VLT0daX2dNa2U2S2VQdkFCbE9OMzBaaWdGeUlPRXhqNV9KMVZzcUNFSHVRSkFGYmozelhONlR0cUZlZEpFOTBpT2VGVFdqMUZQV3g0WVpNaE9tZENQZzVlU2t6S3JOYjBEMW9Dak9uLU5xaGJtRGRXNjFwSDdFWGU5VEZ1RXJVUkRaNFkyRlVpck13M1F5U0hmOTF6eUlFYUpiR2FTWkhranlYb1RzbGozUXQteFkyVkNZVi1QVUtSdFAzX2Z2WXEzUElPSzc4TWctSF9DYXNuelgxdkNTTHJxU3UwU2sxVzh0NXp6SjlrMGJOUkhnNGlzQ28xQ0lGVFMzU3VFeGRSTTRuSWtLNDhR?oc=5",
+      "words": [
+        "aadhaar",
+        "authentication",
+        "authorities",
+        "contempt",
+        "court",
+        "detailed",
+        "face",
+        "fail",
+        "give",
+        "impaired",
+        "plea",
+        "reply",
+        "supreme",
+        "unable"
+      ]
+    },
+    {
+      "at": "2026-11-16T10:32:18.983627+00:00",
+      "handle": "News: India telecom",
+      "headline": "Jio ends new sign-ups for free Google AI Pro subscription",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlVTM0cta2hvREtMWTZvUXA5Vk5FMlpjWlA0R3Ryd2ZfRW1GQ2N1ODBNdmZ0VEdVWnp2bmE1blo2N09oYmV1R2JjajVseFVvRkE2VUUwS1B2WHhUbXZCemFKNGZwQkozd2dydHlybG9SdnB4akhUUmhEa3RydVRHQng4YXQxODFX?oc=5",
+      "words": [
+        "ends",
+        "free",
+        "google",
+        "jio",
+        "pro",
+        "sign",
+        "subscription",
+        "ups"
       ]
     }
   ],
@@ -17199,11 +17208,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-16T10:26:23.627996+00:00",
-    "pib_mark": 2336895,
+    "last_run": "2026-11-16T10:33:09.777083+00:00",
+    "pib_mark": 2336909,
     "seen": [
-      "gazette:CG-DL-E-22102026-277354",
-      "gazette:CG-DL-E-22102026-277353",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-nitesh-kumar-and-thulasimathi-murugesan-on-winning-silver-at-the-asian-para-games",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/10/honble-chief-minister-sri-a-revanth-reddy-visits-young-india-skills-university-at-bharat-future-city/",
       "page:https://internal.imd.gov.in/press_release/20260910_pr_5304.pdf",
@@ -20201,7 +20208,9 @@
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|CYBER POLICE STATION, DWARKA BUSTS FAKE INTERNATIONAL BUYER CALL CENTRE DUPING MANUFACTURERS AND TRADERS ACROSS INDIA.",
       "gazette:CG-DL-E-16112026-277943",
       "gazette:CG-DL-E-16112026-277945",
-      "site:BCCI|https://www.bcci.tv/news/article/bcci-congratulates-mr-jay-shah-on-his-reappointment-as-icc-chair-for-a-second-term"
+      "site:BCCI|https://www.bcci.tv/news/article/bcci-congratulates-mr-jay-shah-on-his-reappointment-as-icc-chair-for-a-second-term",
+      "pib:2336909",
+      "pib:2336908"
     ],
     "source_failures": {},
     "sources": [
@@ -20262,11 +20271,6 @@
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
   },
   "handled": [
-    "1794319213861",
-    "1794319622715",
-    "1794319637381",
-    "1794323160512",
-    "1794323255501",
     "1794327130635",
     "1793664000037",
     "1794296648393",
@@ -24783,14 +24787,12 @@
     "1794736586041",
     "1794736989780",
     "1794778542354",
-    "1794793677128",
     "1794797543827",
     "1794797676582",
     "1794800640998",
     "1794815890271",
     "1794816771132",
     "1794818614462",
-    "1794818627812",
     "1794818700505",
     "1794822244372",
     "1794806580732",
@@ -24798,6 +24800,28 @@
     "1794809741736",
     "1794814537407",
     "1794823661372",
+    "1789631218001",
+    "1789631218188",
+    "1789631218202",
+    "1789631218210",
+    "1789631218263",
+    "1789631218389",
+    "1789631218418",
+    "1789631218440",
+    "1789631218714",
+    "1789631218862",
+    "1793336484027",
+    "1793349954270",
+    "1793708154642",
+    "1793869285215",
+    "1794474164893",
+    "1794801655939",
+    "1794817077544",
+    "1794818580012",
+    "1794818627161",
+    "1794823312636",
+    "1794823446337",
+    "1794824501372",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25495,16 +25519,6 @@
     "1789631212388",
     "1789631212556",
     "1789631212568",
-    "1789631218001",
-    "1789631218188",
-    "1789631218202",
-    "1789631218210",
-    "1789631218263",
-    "1789631218389",
-    "1789631218418",
-    "1789631218440",
-    "1789631218714",
-    "1789631218862",
     "1789631219642",
     "1789631219653",
     "1789637516540",
@@ -25787,9 +25801,7 @@
     "1793318400920",
     "1793318400921",
     "1793318400955",
-    "1793336484027",
     "1793349165507",
-    "1793349954270",
     "1793350086934",
     "1793350800346",
     "1793352600132",
@@ -25834,7 +25846,6 @@
     "1793692800526",
     "1793697366067",
     "1793707200059",
-    "1793708154642",
     "1793709953629",
     "1793710435098",
     "1793721645022",
@@ -25872,7 +25883,6 @@
     "1793865600201",
     "1793865600231",
     "1793869200026",
-    "1793869285215",
     "1793878797622",
     "1793880014180",
     "1793887234088",
@@ -25994,7 +26004,7 @@
     "1794470400044",
     "1794470514426",
     "1794474080139",
-    "1794474164893",
+    "1794474164928",
     "1794475800835",
     "1794481002855",
     "1794483625260",
@@ -26088,6 +26098,7 @@
     "1794792309670",
     "1794792900878",
     "1794793136528",
+    "1794793677128",
     "1794793800390",
     "1794794400622",
     "1794794426448",
@@ -26104,7 +26115,6 @@
     "1794800889489",
     "1794801432360",
     "1794801540418",
-    "1794801655939",
     "1794802598664",
     "1794802620083",
     "1794803026918",
@@ -26179,10 +26189,8 @@
     "1794816817863",
     "1794817020839",
     "1794817043512",
-    "1794817077544",
     "1794817330194",
-    "1794818580012",
-    "1794818627161",
+    "1794818627812",
     "1794818712900",
     "1794818880014",
     "1794819379725",
@@ -26207,12 +26215,13 @@
     "1794823144702",
     "1794823201581",
     "1794823209656",
-    "1794823312636",
     "1794823440163",
-    "1794823446337",
+    "1794823446389",
     "1794824004479",
+    "1794824404385",
     "1794824462685",
-    "1794824501372",
+    "1794824686372",
+    "1794824800092",
     "1794826836947",
     "2331589",
     "2331704",
@@ -26263,8 +26272,8 @@
     "2336782",
     "2336819"
   ],
-  "last_digest_hour": "2026-11-16T15",
-  "last_success": "2026-11-16T10:23:34.681776+00:00",
+  "last_digest_hour": "2026-11-16T16",
+  "last_success": "2026-11-16T10:32:19.038031+00:00",
   "national": {
     "alerted": [
       {
@@ -36546,11 +36555,9 @@
       },
       "warned": "2026-11-16T01:16:30.616497+00:00"
     },
-    "last_run": "2026-11-16T10:25:54.200621+00:00",
-    "pib_mark": 2336895,
+    "last_run": "2026-11-16T10:32:55.659804+00:00",
+    "pib_mark": 2336909,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63858",
-      "mea:41873",
       "site:GDACS disaster alerts|http://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001345",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7099-of-2026-filed-by-vikram-aggarwal_105303.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7104-of-2026-filed-by-sunil-kumar_105304.html",
@@ -39548,7 +39555,9 @@
       "site:Delhi Police press releases|dp-press:11/16/2026 12:00:00 AM|CYBER POLICE STATION, DWARKA BUSTS FAKE INTERNATIONAL BUYER CALL CENTRE DUPING MANUFACTURERS AND TRADERS ACROSS INDIA.",
       "site:BCCI|https://www.bcci.tv/news/article/bcci-congratulates-mr-jay-shah-on-his-reappointment-as-icc-chair-for-a-second-term",
       "gazette:CG-DL-E-16112026-277943",
-      "gazette:CG-DL-E-16112026-277945"
+      "gazette:CG-DL-E-16112026-277945",
+      "pib:2336909",
+      "pib:2336908"
     ],
     "source_failures": {
       "CBI": {
@@ -39623,44 +39632,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Supreme Court warns authorities over Aadhaar face authentication plea",
-      "post": {
-        "created_at": "2026-11-16T09:38:10+00:00",
-        "handle": "News: India tech policy",
-        "id": "1794821890372",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Hindu",
-        "reposts": 0,
-        "text": "Supreme Court warns contempt if authorities fail to give detailed reply to plea on visually impaired unable to do Aadhaar face authentication",
-        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOTzJvaVo1NXpMejFGOF9teGQ2SDh6Q2FQb2lOSjktX2dnanpkS210RnZoY3hsOHgzVk1kY1hxVzd1NFM2RWhDaGNBS0ZWWTc4OWJEWWJNMGRKaXprNERaeHdOVW9sOU51am1pZXBBZkVqUUJJOEdvemNiYzJGQmZDbWZ2Y0l2dzRmdTRYM1Z1Uy1wc0JJVXJMZkpnbjcwcndTNjZhRGlXclZfWTMxWG9KVTVJRTlkMmMzRkt3NW8zRjV5SlN3UTg5dVZmNjNWSmhsdy1vLWdrRFhYMEZpdkxvaW5PMDRXTDdERWd0RVd0Y3A2UlF4VEFzTFo4enBSN21BX0E1QmprQXVpbk11bGQ2Qk9wQTI1V3FmbFhZdjFCVjczUWZmcVBF0gGuAkFVX3lxTFBCamd6T1NzN2JZZkRKZzV1eVRrc0Z4TDJ3ZUNQS1VLT0daX2dNa2U2S2VQdkFCbE9OMzBaaWdGeUlPRXhqNV9KMVZzcUNFSHVRSkFGYmozelhONlR0cUZlZEpFOTBpT2VGVFdqMUZQV3g0WVpNaE9tZENQZzVlU2t6S3JOYjBEMW9Dak9uLU5xaGJtRGRXNjFwSDdFWGU5VEZ1RXJVUkRaNFkyRlVpck13M1F5U0hmOTF6eUlFYUpiR2FTWkhranlYb1RzbGozUXQteFkyVkNZVi1QVUtSdFAzX2Z2WXEzUElPSzc4TWctSF9DYXNuelgxdkNTTHJxU3UwU2sxVzh0NXp6SjlrMGJOUkhnNGlzQ28xQ0lGVFMzU3VFeGRSTTRuSWtLNDhR?oc=5"
-      },
-      "queued_at": "2026-11-16T09:46:07.521759+00:00",
-      "score": 7.0,
-      "why": "Regulatory and legal move concerning Aadhaar technology affecting accessibility."
-    },
-    {
-      "headline": "Jio ends new sign-ups for free Google AI Pro subscription",
-      "post": {
-        "created_at": "2026-11-16T10:21:02+00:00",
-        "handle": "News: India telecom",
-        "id": "1794824462685",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Inc42",
-        "reposts": 0,
-        "text": "Jio Ends New Sign-Ups For Free Google AI Pro Subscription",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlVTM0cta2hvREtMWTZvUXA5Vk5FMlpjWlA0R3Ryd2ZfRW1GQ2N1ODBNdmZ0VEdVWnp2bmE1blo2N09oYmV1R2JjajVseFVvRkE2VUUwS1B2WHhUbXZCemFKNGZwQkozd2dydHlybG9SdnB4akhUUmhEa3RydVRHQng4YXQxODFX?oc=5"
-      },
-      "queued_at": "2026-11-16T10:23:34.602672+00:00",
-      "score": 7.0,
-      "why": "A confirmed policy change by a major Indian telecom operator regarding an AI offering."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -40855,8 +40827,8 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794824501372,
-    "news: consumer internet india": 1794824004479,
+    "news: big tech platforms": 1794824800092,
+    "news: consumer internet india": 1794824404385,
     "news: global ai": 1794823201581,
     "news: global chips": 1794823440163,
     "news: global it services": 1794812420246,
@@ -40866,8 +40838,8 @@
     "news: india semiconductors": 1794801655939,
     "news: india tech policy": 1794822208666,
     "news: india telecom": 1794824462685,
-    "news: indian it majors": 1794823446337,
-    "news: indian it midcaps": 1794823446337,
+    "news: indian it majors": 1794823446389,
+    "news: indian it midcaps": 1794823446389,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1794823440163,
     "nvidia": 1794787228995,
@@ -40896,7 +40868,9 @@
     "zoho": 1794826836947
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "Zinnov": "2026-11-16T10:32:12.620821+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -40914,7 +40888,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-16T10:23:35.200465+00:00",
+    "last_server_run": "2026-11-16T10:32:19.370432+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-16T09:16:58.281807+00:00",
@@ -54567,10 +54541,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-16T10:26:02.133371+00:00",
+    "last_run": "2026-11-16T10:33:01.334369+00:00",
     "seen": [
-      "x:2120373452741939411",
-      "x:2120373735102599473",
       "x:2120373896071544875",
       "x:2120373989952684525",
       "x:2120374661896888484",
@@ -57568,7 +57540,9 @@
       "x:2122273580713185423",
       "x:2122273614351536181",
       "x:2122273673491235099",
-      "x:2122274231354528158"
+      "x:2122274231354528158",
+      "x:2122275065127637288",
+      "x:2122275351242158270"
     ],
     "source_failures": {},
     "sources": []
