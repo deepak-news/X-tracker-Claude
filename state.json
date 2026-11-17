@@ -17294,7 +17294,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-17T01:02:39.805290+00:00",
+    "last_run": "2026-11-17T01:17:13.237881+00:00",
     "pib_mark": 2337247,
     "seen": [
       "pib:2328196",
@@ -20351,7 +20351,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "gemini-2.5-flash-lite": "2026-10-16T17:02:22.072417+00:00",
     "gemini-3.5-flash-lite": "2026-11-13T00:45:58.104684+00:00"
@@ -36682,9 +36682,9 @@
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
-      "warned": "2026-11-16T01:16:30.616497+00:00"
+      "warned": "2026-11-17T01:16:43.357655+00:00"
     },
-    "last_run": "2026-11-17T01:02:14.840231+00:00",
+    "last_run": "2026-11-17T01:16:46.870326+00:00",
     "pib_mark": 2337247,
     "seen": [
       "watch:meeting:LS|22583",
@@ -40998,10 +40998,9 @@
   },
   "source_health": {
     "down": {
-      "News: Big tech platforms": "2026-11-17T01:01:24.516984+00:00",
-      "News: Global chips": "2026-11-17T01:01:24.516984+00:00",
+      "News: Global AI": "2026-11-17T01:15:54.204120+00:00",
       "News: India fintech": "2026-11-17T01:01:24.516984+00:00",
-      "News: India telecom": "2026-11-17T01:01:24.516984+00:00",
+      "News: Indian IT midcaps": "2026-11-17T01:15:54.204120+00:00",
       "News: Tech leaders": "2026-11-17T00:31:12.697486+00:00"
     }
   },
@@ -41021,7 +41020,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-17T01:01:34.832561+00:00",
+    "last_server_run": "2026-11-17T01:16:03.730651+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-17T00:32:02.904654+00:00",
@@ -43542,12 +43541,6 @@
   },
   "x_test": {
     "alerted": [
-      {
-        "at": "2026-10-17T17:16:48.370730+00:00",
-        "headline": "Several devotees killed in stampede at Kolkata Durga Puja pandal",
-        "url": "https://x.com/AmitShah/status/2111504627728543901",
-        "words": []
-      },
       {
         "at": "2026-10-17T17:32:17.938009+00:00",
         "headline": "Prime Minister announces Rs 2 lakh ex-gratia for families of Kolkata stampede victims.",
@@ -54705,15 +54698,45 @@
           "visakhapatnam",
           "westcentral"
         ]
+      },
+      {
+        "at": "2026-11-17T01:17:02.392629+00:00",
+        "headline": "Army and Assam Rifles arrest three active cadres during joint operations in Manipur.",
+        "url": "https://x.com/Spearcorps/status/2122498247537434795",
+        "words": [
+          "2026",
+          "across",
+          "active",
+          "apprehension",
+          "assamrifles",
+          "based",
+          "bze9kkv",
+          "cadres",
+          "capfs",
+          "coordination",
+          "formations",
+          "https",
+          "indianarmy",
+          "intelligence",
+          "joint",
+          "launched",
+          "manipur",
+          "november",
+          "operations",
+          "organisations",
+          "police",
+          "proscribed",
+          "resulted",
+          "spearcorps",
+          "state",
+          "under"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-17T01:02:30.923017+00:00",
+    "last_run": "2026-11-17T01:17:02.392901+00:00",
     "seen": [
-      "x:2120498012439101549",
-      "x:2120498023260434855",
-      "x:2120498237119557960",
       "x:2120498245897961770",
       "x:2120498637524684893",
       "x:2120498723876679779",
@@ -57710,7 +57733,10 @@
       "x:2122489309924347993",
       "x:2122490742736322629",
       "x:2122492176445915281",
-      "x:2122493748789813561"
+      "x:2122493748789813561",
+      "x:2122494991247577493",
+      "x:2122495552046985274",
+      "x:2122498247537434795"
     ],
     "source_failures": {},
     "sources": []
