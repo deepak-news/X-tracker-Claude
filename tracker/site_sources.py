@@ -1317,7 +1317,9 @@ def delhi_traffic() -> list:
             # with its date: the same advisory given again on a later day is a new row
             rows.append({"key": f"traffic:{day or ''}:{title[:150]}", "title": f"{label}: {title}",
                          "detail": _clean(_PICTURES.sub(" ", line.get_text(" "))) if line else "",
-                         "url": (item.get("href") or "").strip() or DELHI_TRAFFIC, "date": day})
+                         "url": (item.get("href") or "").strip() or DELHI_TRAFFIC, "date": day,
+                         # rows first handed over under the key without the date (Nov 18) go in quietly
+                         **({"settle": True} if day and day <= dt.date(2026, 11, 18) else {})})
     if not rows:
         raise RuntimeError("no advisories on the Delhi Traffic Police page (it may have changed)")
     return rows
