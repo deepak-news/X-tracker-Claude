@@ -1223,6 +1223,20 @@ site:
     - {source: Delhi Police, sub: Circulars, reader: dp_circulars}
     - {source: Delhi Police, sub: Gazette, reader: dp_gazette}
     - {source: Delhi Police press releases, reader: dp_press, ai: true}
+    # --- Delhi-NCR (added 2026-11-18, the user's choice, for the Delhi bureau): the city's own
+    # bodies. Each new row is judged by the AI, so routine notices stay below people's bar.
+    - {source: CAQM, reader: caqm, ai: true}   # GRAP stages and directions, read from the site's data
+    - {source: CEO Delhi, url: "https://ceodelhi.gov.in/NewsPressRelesen.aspx", match: "PDFFolders/20\\d\\d/", ai: true}   # SIR and voter rolls
+    - {source: Delhi LG, url: "https://lg.delhi.gov.in/", match: "/press-releases/.+\\.pdf", title: parent, strip: "\\s*Date:.*$", ai: true}
+    - {source: MCD, sub: News, url: "https://mcdonline.nic.in/portal", within: "#NEWS", match: "downloadFile", strip: "\\s*\\(pdf\\)\\s*$", min: 15, ai: true}
+    - {source: MCD, sub: Circulars, url: "https://mcdonline.nic.in/portal", within: "#Circular", match: "downloadFile", strip: "\\s*\\(pdf\\)\\s*$", ai: true}
+    - {source: NDMC, sub: Public notices, reader: ndmc_notices, ai: true}
+    - {source: Delhi Jal Board, url: "https://delhijalboard.delhi.gov.in/press-releases", match: "/press_releases/.+\\.pdf", title: parent, strip: "\\s*Date:.*$", ai: true}
+    - {source: Delhi Traffic Police, reader: delhi_traffic, ai: true}   # advisories and alerts
+    - {source: Delhi Education Directorate, reader: edudel_circulars, ai: true}   # school circulars
+    - {source: Delhi University, url: "https://www.du.ac.in/index.php?page=news", match: "cntnt01articleid=\\d+", ai: true}
+    - {source: JNU, url: "https://www.jnu.ac.in/notices", match: "/sites/default/files/", title: row, cells: "{1}", min: 8, ai: true}
+    - {source: Jamia Millia Islamia, url: "https://www.jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest", match: "Press-Release/Latest/\\d+", ai: true}
     # --- DoT (Department of Telecommunications), every tab of dot.gov.in/documents (added
     # 2026-10-15, the user's choice: the Oct 13 amendment to the Unified Licence's definition of
     # "Calling Line Identification" went unnoticed). About four new documents a day, so every row

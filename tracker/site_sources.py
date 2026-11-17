@@ -1267,10 +1267,111 @@ def gst_advisories() -> list:
     return rows
 
 
+# ---------------------------------------------------------------- Delhi-NCR (added 2026-11-18, the user's choice)
+
+CAQM_API = "https://caqm.nic.in/website/api/Home/"
+CAQM_PAGE = "https://caqm.nic.in/landingpage/pages/whats-new/latest-updates"
+
+
+def caqm() -> list:
+    """The Commission for Air Quality Management: its news and "Latest updates" (GRAP stages
+    invoked and revoked, directions, orders), which its website reads as data. The site opens
+    its PDFs by script only, so each row links to the Latest updates page."""
+    rows, seen = [], set()
+    for name, id_field, title_field, day_field in (("GetAllNews", "newsId", "newsTitleEnglish", "newsPublicationDateString"),
+                                                     ("GetAllWhatsNewData", "whatsNewId", "titleenglish", "createdOn")):
+        data = _get(CAQM_API + name, headers={**HEADERS, "Accept": "application/json"}).json().get("data") or []
+        for doc in data:
+            title = _clean(doc.get(title_field))
+            if not (doc.get(id_field) and title) or doc[id_field] in seen:
+                continue
+            seen.add(doc[id_field])
+            day = str(doc.get(day_field) or doc.get("lastUpdatedDatetimeString") or "")[:10]
+            rows.append({"key": f"caqm:{doc[id_field]}", "title": title, "detail": "", "url": CAQM_PAGE,
+                         "date": _day(day, "%d/%m/%Y")})
+    if not rows:
+        raise RuntimeError("nothing in CAQM's news (the site may have changed)")
+    return rows
+
+
+DELHI_TRAFFIC = "https://traffic.delhipolice.gov.in/"
+_PICTURES = re.compile("[\U0001F000-\U0001FAFF☀-➿️‍]+")
+
+
+def delhi_traffic() -> list:
+    """Delhi Traffic Police: the advisories and alerts on its home page (road closures, diversions,
+    breakdowns), each a headline, a line and a date, linked to its Facebook post."""
+    soup = BeautifulSoup(_get(DELHI_TRAFFIC).text, "html.parser")
+    rows = []
+    for block, label in (("#news-advisory-block", "Advisory"), ("#news-alerts-block", "Alert")):
+        for item in soup.select(f"{block} a"):
+            head = item.select_one(".news-main-title")
+            if head is None:
+                continue
+            title = _clean(_PICTURES.sub(" ", head.get_text(" ")))
+            line = item.select_one(".subline-content")
+            when = item.select_one(".news-date")
+            if not title:
+                continue
+            rows.append({"key": f"traffic:{title[:150]}", "title": f"{label}: {title}",
+                         "detail": _clean(_PICTURES.sub(" ", line.get_text(" "))) if line else "",
+                         "url": (item.get("href") or "").strip() or DELHI_TRAFFIC,
+                         "date": _day(when.get_text(" ").strip(), "%d-%b-%Y") if when else None})
+    if not rows:
+        raise RuntimeError("no advisories on the Delhi Traffic Police page (it may have changed)")
+    return rows
+
+
+EDUDEL = "https://edudel.nic.in/mis/misadmin/frmCircular.aspx"
+EDUDEL_SKIP = re.compile(r"^(Memorandum|Corrigendum)\b|Offer of Appointment|Appointment Order|Posting ID|"
+                         r"Transfer|Promotion|Seniority|Pay Fixation|Vigilance clearance|Tender", re.I)
+
+
+def edudel_circulars() -> list:
+    """The Delhi government's Directorate of Education: its circulars (school closures, GRAP
+    measures in schools, exams). The links carry a code that changes on every visit, so each
+    circular is known by its title; appointment and transfer orders are left out."""
+    soup = BeautifulSoup(_get(EDUDEL).text, "html.parser")
+    rows, seen = [], set()
+    for link in soup.find_all("a", href=re.compile(r"frmCircular_pdf_File\.aspx")):
+        text = _clean(link.get_text(" "))
+        found = re.search(r"\s*\(File Type[^)]*?Upload Date\s*-\s*(\d{1,2}-\d{1,2}-\d{4})\)?\s*$", text)
+        title = text[:found.start()] if found else text
+        if len(title) < 15 or title in seen or EDUDEL_SKIP.search(title):
+            continue
+        seen.add(title)
+        rows.append({"key": f"edudel:{title[:200]}", "title": title, "detail": "", "url": urljoin(EDUDEL, link["href"]),
+                     "date": _day(found.group(1), "%d-%m-%Y") if found else None})
+    if not rows:
+        raise RuntimeError("no circulars on the Directorate of Education's page (it may have changed)")
+    return rows
+
+
+NDMC_NOTICES = "https://www.ndmc.gov.in/public_notices_new.aspx"
+
+
+def ndmc_notices() -> list:
+    """The New Delhi Municipal Council's public notices: department, notice number, date and
+    subject. The page opens each notice by script only, so rows link to the list."""
+    soup = BeautifulSoup(_get(NDMC_NOTICES).text, "html.parser")
+    rows = []
+    for tr in soup.find_all("tr"):
+        cells = [_clean(td.get_text(" ")) for td in tr.find_all("td")]
+        if len(cells) < 4 or not cells[3]:
+            continue
+        department, number, day, subject = cells[:4]
+        rows.append({"key": f"ndmc:{number}:{subject[:120]}", "title": f"{subject[:1].upper()}{subject[1:].lower()} ({department.title()})",
+                     "detail": f"Notice {number}", "url": NDMC_NOTICES, "date": _day(day, "%d-%b-%Y")})
+    if not rows:
+        raise RuntimeError("no notices on NDMC's page (it may have changed)")
+    return rows
+
+
 HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "nse_filings": nse_filings, "mp_news": mp_news, "dgca_traffic": dgca_traffic, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
                 "dp_notifications": dp_notifications, "dp_gazette": dp_gazette, "dp_press": dp_press, "dp_whatsnew": dp_whatsnew,
                 "cbic_gst": _cbic_reader(1000001), "cbic_customs": _cbic_reader(1000002), "cbic_excise": _cbic_reader(1000003),
                 "dipam_circulars": dipam_circulars, "income_tax_news": income_tax_news, "gst_advisories": gst_advisories,
+                "caqm": caqm, "delhi_traffic": delhi_traffic, "edudel_circulars": edudel_circulars, "ndmc_notices": ndmc_notices,
                 **{name: _dot_reader(cat) for name, cat in DOT_TABS.items()}}
 
 
@@ -1399,7 +1500,25 @@ def run(dry_run: bool = False) -> int:
     return 0
 
 
+def try_sites(names: str) -> int:
+    """Reads the named "site: more:" sources once and prints what came back; nothing is handed
+    over. For new sources, to see whether a site answers GitHub's servers (rescore.yml)."""
+    wanted = {n.strip().lower() for n in names.split(",") if n.strip()}
+    found = [m for m in website._cfg().get("more") or [] if m["source"].lower() in wanted or _more_label(m).lower() in wanted]
+    for m in found:
+        try:
+            rows = read_more(m)
+            print(f"{_more_label(m)}: {len(rows)} row(s)")
+            for row in rows[:3]:
+                print(f"    {row.get('date') or ''} {row['title'][:90]}  {row.get('url', '')[:80]}")
+        except Exception as exc:                                      # noqa: BLE001
+            print(f"{_more_label(m)}: FAILED {type(exc).__name__}: {str(exc)[:200]}")
+    return 0
+
+
 def main() -> int:
+    if "--try" in sys.argv:
+        return try_sites(sys.argv[sys.argv.index("--try") + 1])
     return run(dry_run="--dry-run" in sys.argv)
 
 

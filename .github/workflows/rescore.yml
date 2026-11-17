@@ -20,6 +20,9 @@ on:
       compare:
         description: "X post ids to judge three ways, three times each (comma separated)"
         default: ""
+      try_sites:
+        description: "Website sources to read once and print, nothing sent (names under site: more:, comma separated)"
+        default: ""
 
 permissions:
   contents: read
@@ -39,7 +42,13 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install -r requirements.txt
-      - timeout-minutes: 15
+      - if: inputs.try_sites != ''
+        timeout-minutes: 10
+        env:
+          TRY_SITES: ${{ inputs.try_sites }}
+        run: python -m tracker.site_sources --try "$TRY_SITES"
+      - if: inputs.try_sites == ''
+        timeout-minutes: 15
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           RESCORE_SOURCES: ${{ inputs.sources }}
@@ -48,7 +57,8 @@ jobs:
           RESCORE_X: ${{ inputs.x }}
           RESCORE_COMPARE: ${{ inputs.compare }}
         run: python -m tracker.rescore
-      - uses: actions/upload-artifact@v4
+      - if: inputs.try_sites == ''
+        uses: actions/upload-artifact@v4
         with:
           name: rescore
           path: rescore.json
