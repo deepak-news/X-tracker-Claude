@@ -1233,6 +1233,7 @@ site:
     - {source: NDMC, sub: Public notices, reader: ndmc_notices, ai: true}
     - {source: Delhi Jal Board, url: "https://delhijalboard.delhi.gov.in/press-releases", match: "/press_releases/.+\\.pdf", title: parent, strip: "\\s*Date:.*$", ai: true}
     - {source: Delhi Traffic Police, reader: delhi_traffic, ai: true}   # advisories and alerts
+    - {source: Delhi Transport Department, url: "https://transport.delhi.gov.in/", match: "transport\\.delhi\\.gov\\.in/(transport|it)/[a-z0-9-]{25,}", title: parent, strip: "\\s*Date\\s*:.*$", exclude: "tender|quotation|e-auction|transfer order", ai: true}
     - {source: Delhi Education Directorate, reader: edudel_circulars, ai: true}   # school circulars
     - {source: Delhi University, url: "https://www.du.ac.in/index.php?page=news", match: "cntnt01articleid=\\d+", ai: true}
     - {source: JNU, url: "https://www.jnu.ac.in/notices", match: "/sites/default/files/", title: row, cells: "{1}", min: 8, ai: true}

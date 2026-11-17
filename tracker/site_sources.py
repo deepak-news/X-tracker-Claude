@@ -1313,10 +1313,11 @@ def delhi_traffic() -> list:
             when = item.select_one(".news-date")
             if not title:
                 continue
-            rows.append({"key": f"traffic:{title[:150]}", "title": f"{label}: {title}",
+            day = _day(when.get_text(" ").strip(), "%d-%b-%Y") if when else None
+            # with its date: the same advisory given again on a later day is a new row
+            rows.append({"key": f"traffic:{day or ''}:{title[:150]}", "title": f"{label}: {title}",
                          "detail": _clean(_PICTURES.sub(" ", line.get_text(" "))) if line else "",
-                         "url": (item.get("href") or "").strip() or DELHI_TRAFFIC,
-                         "date": _day(when.get_text(" ").strip(), "%d-%b-%Y") if when else None})
+                         "url": (item.get("href") or "").strip() or DELHI_TRAFFIC, "date": day})
     if not rows:
         raise RuntimeError("no advisories on the Delhi Traffic Police page (it may have changed)")
     return rows
@@ -1354,13 +1355,17 @@ def ndmc_notices() -> list:
     """The New Delhi Municipal Council's public notices: department, notice number, date and
     subject. The page opens each notice by script only, so rows link to the list."""
     soup = BeautifulSoup(_get(NDMC_NOTICES).text, "html.parser")
-    rows = []
+    rows, seen = [], set()
     for tr in soup.find_all("tr"):
         cells = [_clean(td.get_text(" ")) for td in tr.find_all("td")]
         if len(cells) < 4 or not cells[3]:
             continue
         department, number, day, subject = cells[:4]
-        rows.append({"key": f"ndmc:{number}:{subject[:120]}", "title": f"{subject[:1].upper()}{subject[1:].lower()} ({department.title()})",
+        key = f"ndmc:{number}:{subject[:120]}"
+        if key in seen:                         # the same notice is listed twice at times
+            continue
+        seen.add(key)
+        rows.append({"key": key, "title": f"{subject[:1].upper()}{subject[1:].lower()} ({department.title()})",
                      "detail": f"Notice {number}", "url": NDMC_NOTICES, "date": _day(day, "%d-%b-%Y")})
     if not rows:
         raise RuntimeError("no notices on NDMC's page (it may have changed)")
