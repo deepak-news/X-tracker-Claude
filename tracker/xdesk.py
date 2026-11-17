@@ -185,12 +185,15 @@ def run(dry_run: bool) -> int:
                and dt.datetime.fromisoformat(p.created_at) >= cutoff]
     # A long post X gave only the start of waits up to an hour for the whole text; after
     # that it is judged on what there is, and said to be cut off.
-    held = []
-    for post in current:
-        if xfeed.whole(post):
-            continue
+    held, cut = [], [p for p in current if getattr(p, "cut_off", False)]
+    still = [p for p in cut if not xfeed.whole(p)]
+    # the mirror down (nothing came back for several long posts): no point waiting an hour
+    down = len(still) >= 3 and len(still) == len(cut)
+    if down:
+        print(f"  ! the full-text mirror gave nothing for {len(still)} long post(s); judging them as they are")
+    for post in still:
         age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(post.created_at)
-        if age < dt.timedelta(minutes=CUT_OFF_WAIT):
+        if age < dt.timedelta(minutes=CUT_OFF_WAIT) and not down:
             held.append(post)
         else:
             print(f"  ! {post.origin} {post.url}: still only the start of the post; judged as it is")
