@@ -44,7 +44,14 @@ SENDER_NAME = "X Alerts (test)"
 MEMORY = 3000       # post ids remembered: several days at the current pace
 SENT_HOURS = 48     # how long a story counts as already sent, as on the desks
 MIN_LENGTH = 25
-CUT_OFF_WAIT = 60   # minutes a cut-off long post waits for its whole text (xfeed.py)
+# A long post still cut off when its turn comes is judged at once on its first part (the user,
+# Nov 18: "scored and alerted as soon as possible"). Under RETRY_BELOW, its whole text is
+# looked for again on each run for RETRY_MINUTES; it is sent again only if the score goes up.
+RETRY_BELOW = 6
+RETRY_MINUTES = 60
+CUT_NOTE = (" [X gave only the start of this post; the rest could not be read. Do not score it low"
+            " just because it opens with thanks or a greeting: judge what the account's own post"
+            " could be announcing.]")
 
 
 def _tag(post):
@@ -111,7 +118,7 @@ def build_email(rows: list) -> tuple:
 
 
 def _item(post, value, headline, why) -> dict:
-    text = post.text.split(" on X: ", 1)[-1]
+    text = post.text.split(" on X: ", 1)[-1].replace(CUT_NOTE, "")
     return {"id": post.id, "grp": "official", "source": "X", "sub": post.origin,
             "title": text[:500], "body": text if len(text) > 500 else "", "url": post.url,
             "score": float(value), "headline": _clean(headline)[:300], "why": _clean(why)[:400],
@@ -143,6 +150,46 @@ def tech_to_site(judged: list, general: dict, dry_run: bool) -> None:
 
 def _clean(text) -> str:
     return " ".join(html.unescape(str(text or "")).split())
+
+
+def retry(later: list, everything: list, whole: dict, tweets_cfg: dict, tech_accounts: set,
+          state: dict, sent: list, headlines: list, consider, dry_run: bool) -> None:
+    """Posts judged on their first part with a low score: once their whole text can be read,
+    judged again; sent to the website (and the trial email) only when the score goes up."""
+    now = dt.datetime.now(dt.timezone.utc)
+    by_id = {p.id: p for p in everything}
+    keep = []
+    for e in later:
+        post = by_id.get(e["id"])
+        if post is None or now - dt.datetime.fromisoformat(e["first"]) > dt.timedelta(minutes=RETRY_MINUTES):
+            print(f"  gave up on the whole text of {e['id']}")
+            continue
+        if not xfeed.whole(post):
+            keep.append(e)
+            continue
+        print(f"  {post.origin}: whole text read on a later try; judging again")
+        rows, _ = national.score([post], (tweets_cfg.get("newsworthy") or "").strip(), state,
+                                 {"alerted": sent}, log="x_test")
+        for p, value, headline, why in rows:
+            was = e.get("national")
+            print(f"    general score {was} -> {value:g}")
+            if was is None or value > was:
+                consider(p, value, headline, "tweets", float(tweets_cfg.get("threshold", 7)))
+                to_site([(p, value, headline, why)], [], dry_run)
+        if post.origin[1:].lower() in tech_accounts:
+            try:
+                rows, _missed, newly_dead = judge.score([post], (whole.get("newsworthy") or "").strip(),
+                                                        dead_models(state), already_sent=headlines)
+                record_dead_models(state, newly_dead)
+                for p, value, headline, why in rows:
+                    was = e.get("tech")
+                    print(f"    tech score {was} -> {value:g}")
+                    if was is None or value > was:
+                        consider(p, value, headline, "tech", float(whole.get("threshold", 7)))
+                        tech_to_site([(p, value, headline, why)], {}, dry_run)
+            except judge.AllModelsExhausted as exc:
+                record_dead_models(state, exc.newly_dead)
+    later[:] = keep
 
 
 def run(dry_run: bool) -> int:
@@ -183,27 +230,15 @@ def run(dry_run: bool) -> int:
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=float(tweets_cfg.get("max_age_hours", 12)))
     current = [p for p in new if len(p.text.split(" on X: ", 1)[-1]) >= MIN_LENGTH
                and dt.datetime.fromisoformat(p.created_at) >= cutoff]
-    # A long post X gave only the start of waits up to an hour for the whole text; after
-    # that it is judged on what there is, and said to be cut off.
-    held, cut = [], [p for p in current if getattr(p, "cut_off", False)]
+    # A long post the sheet could not read whole: the mirror is asked once; if that fails too
+    # it is judged now on its first part, and looked at again later (retry() below)
+    cut = [p for p in current if getattr(p, "cut_off", False)]
     still = [p for p in cut if not xfeed.whole(p)]
-    # the mirror down (nothing came back for several long posts): no point waiting an hour
-    down = len(still) >= 3 and len(still) == len(cut)
-    if down:
-        print(f"  ! the full-text mirror gave nothing for {len(still)} long post(s); judging them as they are")
+    if cut:
+        print(f"  long posts cut off by X: {len(cut)}; read whole from the mirror: {len(cut) - len(still)}")
     for post in still:
-        age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(post.created_at)
-        if age < dt.timedelta(minutes=CUT_OFF_WAIT) and not down:
-            held.append(post)
-        else:
-            print(f"  ! {post.origin} {post.url}: still only the start of the post; judged as it is")
-            post.text += (" [X gave only the start of this post; the rest could not be read. Do not"
-                          " score it low just because it opens with thanks or a greeting: judge what"
-                          " the account's own post could be announcing.]")
-    if held:
-        print(f"  {len(held)} long post(s) waiting for their whole text: "
-              + ", ".join(p.origin for p in held))
-    current = [p for p in current if p not in held]
+        print(f"  ! {post.origin} {post.url}: only the start of the post; judged as it is")
+        post.text += CUT_NOTE
     sent = _sent_before(state, memory)
     candidates, repeats = fold(current, sent)
     print(f"  new: {len(new)}; worth judging: {len(current)}; "
@@ -213,7 +248,7 @@ def run(dry_run: bool) -> int:
 
     # Whatever the cheap checks dropped is done with now; what goes to the AI
     # is done with once each bar it is judged by has seen it.
-    done = {p.id for p in new} - {p.id for p in candidates} - {p.id for p in held}
+    done = {p.id for p in new} - {p.id for p in candidates}
     headlines = [e.get("headline", "") for e in sent if e.get("headline")]
     best: dict = {}                       # post id -> (post, score, headline, desk)
 
@@ -223,6 +258,7 @@ def run(dry_run: bool) -> int:
 
     tweets_done = set()
     general: dict = {}                    # post id -> the general desk's score
+    techs: dict = {}                      # post id -> the Tech Desk's score
     if candidates:
         judged, tweets_done = national.score(candidates, (tweets_cfg.get("newsworthy") or "").strip(),
                                              state, {"alerted": sent}, log="x_test")
@@ -241,6 +277,7 @@ def run(dry_run: bool) -> int:
                                                      dead_models(state), already_sent=headlines)
             record_dead_models(state, newly_dead)
             for post, value, headline, _why in judged:
+                techs[post.id] = value
                 consider(post, value, headline, "tech", float(whole.get("threshold", 7)))
             tech_to_site(judged, general, dry_run)
             tech_done |= {p.id for p in tech} - {p.id for p in missed}
@@ -248,6 +285,16 @@ def run(dry_run: bool) -> int:
             record_dead_models(state, exc.newly_dead)
             print(f"  ! no AI model is available: {exc}. Tried again next run.")
     done |= tweets_done & tech_done
+
+    # judged on a cut-off text and under RETRY_BELOW: look for the whole text again later
+    later = memory.setdefault("cut_retry", [])
+    for post in still:
+        if post.id in general or post.id in techs:
+            top = max(general.get(post.id, 0), techs.get(post.id, 0))
+            if top < RETRY_BELOW and not any(e["id"] == post.id for e in later):
+                later.append({"id": post.id, "first": dt.datetime.now(dt.timezone.utc).isoformat(),
+                              "national": general.get(post.id), "tech": techs.get(post.id)})
+    retry(later, everything, whole, tweets_cfg, tech_accounts, state, sent, headlines, consider, dry_run)
 
     # The AI judged each post on its own; two accounts telling one story in
     # this run still fold to the higher-scored one.

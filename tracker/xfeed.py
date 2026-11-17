@@ -52,6 +52,11 @@ def _full_text(handle: str, post_id: str) -> str:
         tweet = response.json().get("tweet") or {}
         if str(tweet.get("id") or post_id) != str(post_id):
             return ""
+        # Nov 18: for about 6 in 100 long posts the mirror hands back the cut text and calls
+        # it an ordinary post; that is not the whole text
+        if not tweet.get("is_note_tweet"):
+            print(f"    the mirror has only the start of {handle}'s post {post_id}")
+            return ""
         return str(tweet.get("text") or "")
     except Exception as exc:                                    # noqa: BLE001
         print(f"    could not read the whole of {handle}'s post {post_id}: {str(exc)[:100]}")

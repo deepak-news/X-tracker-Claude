@@ -21,7 +21,12 @@
 const SHEET = 'X feed';
 const KEEP_ROWS = 3000;          // about a week at the current pace
 const FEED_URL =
-  'https://x.com/i/api/2/notifications/device_follow.json?count=40&tweet_mode=extended';
+  'https://x.com/i/api/2/notifications/device_follow.json?count=40&tweet_mode=extended&ext=noteTweet';
+// Long posts (Nov 18): the feed gives only their first ~275 characters. X's own website reads
+// the rest with this query; its id changes now and then -- set NOTE_QUERY in Script properties
+// to the new one (x.com, open any post, Network tab, "TweetResultByRestId") if fetching stops.
+const NOTE_QUERY = 'U8lc5aomF5krJzZ9vJ9wxg';
+const NOTE_MAX = 15;             // long posts read whole per check
 // The public token X's own website uses; not a secret.
 const WEB_BEARER =
   'AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA';
@@ -67,6 +72,7 @@ function checkX() {
       : []);
     const fresh = found.filter(p => !known.has(p.id))
       .sort((a, b) => (BigInt(b.id) > BigInt(a.id) ? 1 : -1));
+    wholeText_(fresh.filter(p => p.long).slice(0, NOTE_MAX), props);
 
     if (fresh.length) {
       // Newest at the top. The leading apostrophe keeps ids and times as
@@ -141,10 +147,57 @@ function readFeed_(props) {
       text: text,
       url: 'https://x.com/' + handle + '/status/' + t.id_str,
       repost: Boolean(t.retweeted_status_id_str) || /^RT @/.test(text),
+      long: Boolean(t.ext && t.ext.noteTweet && t.ext.noteTweet.r && t.ext.noteTweet.r.ok &&
+                    t.ext.noteTweet.r.ok.is_expandable),
       // A reply to someone else; a thread continuing one's own post is not.
       reply: Boolean(t.in_reply_to_status_id_str) && t.in_reply_to_user_id_str !== t.user_id_str,
     };
   });
+}
+
+// Puts the whole text into each long post, from X itself with the same login. A post it cannot
+// read keeps its first part; the tracker then tries elsewhere (tracker/xfeed.py).
+function wholeText_(posts, props) {
+  if (!posts.length) return;
+  const ct0 = props.getProperty('CT0');
+  const auth = props.getProperty('AUTH_TOKEN');
+  const query = props.getProperty('NOTE_QUERY') || NOTE_QUERY;
+  const features = encodeURIComponent(JSON.stringify({
+    longform_notetweets_consumption_enabled: true,
+    responsive_web_twitter_article_tweet_consumption_enabled: false,
+    longform_notetweets_rich_text_read_enabled: false,
+    longform_notetweets_inline_media_enabled: false,
+  }));
+  let failed = '';
+  posts.forEach(p => {
+    try {
+      const vars = encodeURIComponent(JSON.stringify({
+        tweetId: p.id, withCommunity: false, includePromotedContent: false, withVoice: false }));
+      const res = UrlFetchApp.fetch('https://x.com/i/api/graphql/' + query + '/TweetResultByRestId?variables=' +
+        vars + '&features=' + features, {
+        muteHttpExceptions: true,
+        headers: {
+          authorization: 'Bearer ' + WEB_BEARER,
+          'x-csrf-token': ct0,
+          cookie: 'auth_token=' + auth + '; ct0=' + ct0,
+          'x-twitter-active-user': 'yes',
+          'x-twitter-auth-type': 'OAuth2Session',
+        },
+      });
+      if (res.getResponseCode() !== 200) { failed = 'X replied ' + res.getResponseCode(); return; }
+      const r = ((JSON.parse(res.getContentText()).data || {}).tweetResult || {}).result || {};
+      const note = ((((r.tweet || r).note_tweet || {}).note_tweet_results || {}).result) || null;
+      if (!note || !note.text) return;
+      let text = note.text;
+      (((note.entity_set || {}).urls) || []).forEach(u => {
+        text = text.split(u.url).join(u.expanded_url || u.url);
+      });
+      p.text = text.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+    } catch (err) {
+      failed = String(err).slice(0, 200);
+    }
+  });
+  props.setProperty('note_error', failed ? new Date().toISOString() + ' ' + failed : '');
 }
 
 // The ids of the posts the notification entries point at.
@@ -255,6 +308,7 @@ function doGet(e) {
     last_ok: props.getProperty('last_ok') || '',
     last_try: props.getProperty('last_try') || '',
     error: props.getProperty('error') || '',
+    note_error: props.getProperty('note_error') || '',
     posts: posts,
   })).setMimeType(ContentService.MimeType.JSON);
 }
