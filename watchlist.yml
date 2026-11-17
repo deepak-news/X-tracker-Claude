@@ -1226,7 +1226,7 @@ site:
     # --- Delhi-NCR (added 2026-11-18, the user's choice, for the Delhi bureau): the city's own
     # bodies. Each new row is judged by the AI, so routine notices stay below people's bar.
     - {source: CAQM, reader: caqm, ai: true}   # GRAP stages and directions, read from the site's data
-    - {source: CEO Delhi, url: "https://ceodelhi.gov.in/NewsPressRelesen.aspx", match: "PDFFolders/20\\d\\d/", ai: true}   # SIR and voter rolls
+    - {source: CEO Delhi, url: "https://ceodelhi.gov.in/NewsPressRelesen.aspx", match: "PDFFolders/20\\d\\d/", ai: true, home_only: true}   # SIR and voter rolls; refuses GitHub and Cloudflare (Nov 18)
     - {source: Delhi LG, url: "https://lg.delhi.gov.in/", match: "/press-releases/.+\\.pdf", title: parent, strip: "\\s*Date:.*$", ai: true}
     - {source: MCD, sub: News, url: "https://mcdonline.nic.in/portal", within: "#NEWS", match: "downloadFile", strip: "\\s*\\(pdf\\)\\s*$", min: 15, ai: true}
     - {source: MCD, sub: Circulars, url: "https://mcdonline.nic.in/portal", within: "#Circular", match: "downloadFile", strip: "\\s*\\(pdf\\)\\s*$", ai: true}
