@@ -44,7 +44,62 @@ def gazettes(ids: list, hours: float) -> None:
         json.dump(out, f)
 
 
+def x_posts(hours: float, compare: list) -> None:
+    """RESCORE_X (2026-11-18): X posts the website holds cut off ("…"), read whole and judged
+    again by the general desk's rubric as it stands. For the ids in RESCORE_COMPARE, also the
+    three ways it could have gone, three times each: the cut-off text with today's rubric,
+    the whole text without the Nov 18 line, and both. Writes rescore.json; nothing is sent."""
+    import re                                                         # noqa: PLC0415
+    import yaml                                                       # noqa: PLC0415
+    from . import national, xfeed                                     # noqa: PLC0415
+    from .sources import Post                                         # noqa: PLC0415
+    whole = yaml.safe_load(national.WATCHLIST.read_text()) or {}
+    rubric = ((whole.get("national") or {}).get("newsworthy") or "").strip()
+    old_rubric = re.sub(r"\n- The head or founder of a company the whole world knows.*?CEO scored 2\)",
+                        "", rubric, flags=re.S)
+    print(f"rubric without the Nov 18 line is {len(rubric) - len(old_rubric)} characters shorter")
+    items = website.recent(["official|X"], hours=hours) or []
+    cut = [it for it in items if xfeed.cut_off(it.get("title")) or it["id"] in compare]
+    print(f"{len(items)} X post(s) in the last {hours:g} hours; {len(cut)} cut off")
+
+    def post_of(it, text):
+        handle = str(it.get("sub") or "").lstrip("@")
+        return Post(id=it["id"], handle=f"@{handle} on X", text=f"@{handle} on X: {text}", url=it["url"],
+                    created_at="", likes=0, reposts=0, is_reply=False, is_repost=False)
+
+    def ask(post, rules):
+        entries, _ = judge.ask_json(national._prompt([post], rules, [], national.PROMPT), set())
+        for e in entries:
+            if int(e.get("i", -1)) == 0:
+                return float(e.get("score", 0)), str(e.get("headline") or "").strip(), str(e.get("why") or "").strip()
+        return None
+
+    out = []
+    for it in cut:
+        handle, pid = str(it.get("sub") or "").lstrip("@"), it["id"].split(":")[-1]
+        full = xfeed._full_text(handle, pid)
+        row = {"id": it["id"], "sub": it.get("sub"), "was": it.get("scores"), "full": bool(full),
+               "text": full or it.get("title")}
+        if full:
+            got = ask(post_of(it, full), rubric)
+            if got:
+                row["score"], row["headline"], row["why"] = got
+        if it["id"] in compare:
+            row["compare"] = {name: [ask(post_of(it, text), rules) for _ in range(3)]
+                              for name, text, rules in (("cut off, new rubric", it.get("title"), rubric),
+                                                        ("whole, old rubric", full, old_rubric),
+                                                        ("whole, new rubric", full, rubric))}
+        print(json.dumps({k: v for k, v in row.items() if k != "text"}, ensure_ascii=False)[:1500])
+        out.append(row)
+    with open("rescore.json", "w") as f:
+        json.dump(out, f)
+
+
 def main() -> None:
+    if os.environ.get("RESCORE_X", "").strip():
+        x_posts(float(os.environ.get("RESCORE_HOURS", "24")),
+                [s.strip() for s in os.environ.get("RESCORE_COMPARE", "").split(",") if s.strip()])
+        return
     ids = [s.strip() for s in os.environ.get("RESCORE_IDS", "").split(",") if s.strip()]
     if ids:
         gazettes(ids, float(os.environ.get("RESCORE_HOURS", "24")))

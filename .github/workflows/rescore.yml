@@ -14,6 +14,12 @@ on:
       hours:
         description: "How many hours back"
         default: "24"
+      x:
+        description: "X posts cut off: read whole and judge again (yes or empty)"
+        default: ""
+      compare:
+        description: "X post ids to judge three ways, three times each (comma separated)"
+        default: ""
 
 permissions:
   contents: read
@@ -39,6 +45,8 @@ jobs:
           RESCORE_SOURCES: ${{ inputs.sources }}
           RESCORE_HOURS: ${{ inputs.hours }}
           RESCORE_IDS: ${{ inputs.ids }}
+          RESCORE_X: ${{ inputs.x }}
+          RESCORE_COMPARE: ${{ inputs.compare }}
         run: python -m tracker.rescore
       - uses: actions/upload-artifact@v4
         with:

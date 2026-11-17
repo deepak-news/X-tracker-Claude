@@ -160,6 +160,8 @@ accounts:
   - elonmusk           # Elon Musk - xAI, X, Tesla, SpaceX
   - sama               # Sam Altman - OpenAI
   - satyanadella       # Satya Nadella - Microsoft
+  - clamanna           # Charles Lamanna - Microsoft (added 2026-11-18)
+  - MSFT365Status      # Microsoft 365 outages (added 2026-11-18)
   - sundarpichai       # Sundar Pichai - Alphabet
   - ajassy             # Andy Jassy - Amazon
   - tim_cook           # Tim Cook - Apple
@@ -173,6 +175,7 @@ accounts:
 
   # --- Semiconductors ---
   - nvidia
+  - JensenHuang        # Jensen Huang - Nvidia founder (added 2026-11-18)
   - AMD
   - Intel
   - Qualcomm
@@ -768,6 +771,16 @@ national:
     - Defence contracts and procurement deals signed by the Defence
       Ministry
     - NHRC taking suo motu cognizance of a serious crime or death
+    - The head or founder of a company the whole world knows (Nvidia,
+      Apple, Microsoft, Google, Amazon, Meta, OpenAI, Tesla, Samsung) or
+      of one of India's biggest groups (Reliance, Tata, Adani, Infosys)
+      resigning, being removed, admitting wrongdoing, facing a board or
+      government investigation, or saying they would return: score 8 or
+      higher, even when they say it in a personal post that opens with
+      thanks, and even though the company is foreign. This overrides
+      "another country's own affairs" and "quotes" below (added
+      2026-11-18, after Jensen Huang's post offering to return as Nvidia's
+      CEO scored 2)
 
     GAZETTE NOTIFICATIONS: judge by what the notification DOES, which the
     text below the title shows. Titles are often dry ("Amendment of

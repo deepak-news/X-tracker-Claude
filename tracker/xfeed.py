@@ -12,6 +12,7 @@ The sheet's address is the X_FEED_URL secret. Without it, nothing is read.
 
 import datetime as dt
 import os
+import re
 
 import requests
 
@@ -23,6 +24,38 @@ STALE_MINUTES = 30
 HOURS = 12
 
 _FEED: dict = {}
+
+# X hands over a long post cut off at about 275 characters, ending "…" and a link (Nov 18:
+# Jensen Huang's post offering to return as Nvidia's CEO was judged on its opening thanks
+# and scored 2). The whole text comes from a public mirror of X that answers GitHub.
+# X_FULL_TEXT=0 in the environment switches the fetching off.
+FULL_TEXT_URL = "https://api.fxtwitter.com/{handle}/status/{id}"
+MAX_TEXT = 4000
+_TAIL = re.compile(r"(?:\s*https?://\S+)+\s*$")
+
+
+def cut_off(text: str) -> bool:
+    """True when X gave only the start of a long post."""
+    body = _TAIL.sub("", str(text or "")).rstrip()
+    return len(body) >= 180 and body.endswith(("…", "..."))
+
+
+def _full_text(handle: str, post_id: str) -> str:
+    """The whole post, or "" when it cannot be had."""
+    if os.environ.get("X_FULL_TEXT", "1").strip() == "0":
+        return ""
+    try:
+        response = requests.get(FULL_TEXT_URL.format(handle=handle, id=post_id),
+                                headers={"User-Agent": "Mozilla/5.0 (news tracker)"},
+                                timeout=sources.TIMEOUT)
+        response.raise_for_status()
+        tweet = response.json().get("tweet") or {}
+        if str(tweet.get("id") or post_id) != str(post_id):
+            return ""
+        return str(tweet.get("text") or "")
+    except Exception as exc:                                    # noqa: BLE001
+        print(f"    could not read the whole of {handle}'s post {post_id}: {str(exc)[:100]}")
+        return ""
 
 
 def enabled() -> bool:
@@ -60,10 +93,16 @@ def posts(handles=None, label: str = "X") -> list:
         if wanted is not None and handle.lower() not in wanted:
             continue
         name = item.get("name") or handle
-        found.append(sources.Post(
+        text = str(item.get("text") or "")
+        short = cut_off(text)
+        if short:
+            whole = _full_text(handle, str(item["id"]))
+            if len(whole) > len(_TAIL.sub("", text).rstrip(" ….")):
+                text, short = whole, False
+        post = sources.Post(
             id=str(item["id"]),
             handle=label,
-            text=f"@{handle} ({name}) on X: " + " ".join(str(item.get("text") or "").split())[:1100],
+            text=f"@{handle} ({name}) on X: " + " ".join(text.split())[:MAX_TEXT],
             url=item.get("url") or f"https://x.com/{handle}/status/{item['id']}",
             created_at=str(item["at"]).replace("Z", "+00:00"),
             likes=0,
@@ -71,5 +110,7 @@ def posts(handles=None, label: str = "X") -> list:
             is_reply=False,
             is_repost=False,
             origin=f"@{handle}",
-        ))
+        )
+        post.cut_off = short        # still only the start: xdesk.py waits for the rest
+        found.append(post)
     return found

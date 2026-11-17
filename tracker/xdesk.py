@@ -44,6 +44,7 @@ SENDER_NAME = "X Alerts (test)"
 MEMORY = 3000       # post ids remembered: several days at the current pace
 SENT_HOURS = 48     # how long a story counts as already sent, as on the desks
 MIN_LENGTH = 25
+CUT_OFF_WAIT = 60   # minutes a cut-off long post waits for its whole text (xfeed.py)
 
 
 def _tag(post):
@@ -109,19 +110,35 @@ def build_email(rows: list) -> tuple:
     return f"[X test] {subject}"[:150], body
 
 
+def _item(post, value, headline, why) -> dict:
+    text = post.text.split(" on X: ", 1)[-1]
+    return {"id": post.id, "grp": "official", "source": "X", "sub": post.origin,
+            "title": text[:500], "body": text if len(text) > 500 else "", "url": post.url,
+            "score": float(value), "headline": _clean(headline)[:300], "why": _clean(why)[:400],
+            "event": _clean(getattr(post, "event", "") or "")[:120]}
+
+
 def to_site(judged: list, everything: list, dry_run: bool) -> None:
     """The website (PTI Source Alerts) gets every post the Tweets desk's AI judged, with its
     score, under "X", one list per account, so each person's own bar applies (the user's
     choice, 2026-11-02). The Tweets desk's score is the general desk's ("national")."""
     if not website.enabled():
         return
-    items = [{"id": post.id, "grp": "official", "source": "X", "sub": post.origin,
-              "title": post.text.split(" on X: ", 1)[-1][:500], "body": "", "url": post.url,
-              "score": float(value), "headline": _clean(headline)[:300], "why": _clean(why)[:400],
-              "event": _clean(getattr(post, "event", "") or "")[:120]}
-             for post, value, headline, why in judged]
+    items = [_item(*row) for row in judged]
     accounts = sorted({p.origin for p in everything})
     website.send("x", items, view="national", sources=[("official", "X", accounts)], dry_run=dry_run)
+
+
+def tech_to_site(judged: list, general: dict, dry_run: bool) -> None:
+    """The Tech Desk's score for a post from one of its accounts, when it is HIGHER than the
+    general desk's -- a tech reporter's alert should not wait on the general desk's view of a
+    chip maker's CEO (Nov 18). Never a lower one: the website holds the general score down to
+    the highest beat score (match.js capped()), and a PMO post must not drop for everyone."""
+    if not website.enabled():
+        return
+    items = [_item(*row) for row in judged if row[1] > general.get(row[0].id, 10)]
+    if items:
+        website.send("x", items, view="tech", dry_run=dry_run)
 
 
 def _clean(text) -> str:
@@ -166,6 +183,24 @@ def run(dry_run: bool) -> int:
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=float(tweets_cfg.get("max_age_hours", 12)))
     current = [p for p in new if len(p.text.split(" on X: ", 1)[-1]) >= MIN_LENGTH
                and dt.datetime.fromisoformat(p.created_at) >= cutoff]
+    # A long post X gave only the start of waits up to an hour for the whole text; after
+    # that it is judged on what there is, and said to be cut off.
+    held = []
+    for post in current:
+        if not getattr(post, "cut_off", False):
+            continue
+        age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(post.created_at)
+        if age < dt.timedelta(minutes=CUT_OFF_WAIT):
+            held.append(post)
+        else:
+            print(f"  ! {post.origin} {post.url}: still only the start of the post; judged as it is")
+            post.text += (" [X gave only the start of this post; the rest could not be read. Do not"
+                          " score it low just because it opens with thanks or a greeting: judge what"
+                          " the account's own post could be announcing.]")
+    if held:
+        print(f"  {len(held)} long post(s) waiting for their whole text: "
+              + ", ".join(p.origin for p in held))
+    current = [p for p in current if p not in held]
     sent = _sent_before(state, memory)
     candidates, repeats = fold(current, sent)
     print(f"  new: {len(new)}; worth judging: {len(current)}; "
@@ -175,7 +210,7 @@ def run(dry_run: bool) -> int:
 
     # Whatever the cheap checks dropped is done with now; what goes to the AI
     # is done with once each bar it is judged by has seen it.
-    done = {p.id for p in new} - {p.id for p in candidates}
+    done = {p.id for p in new} - {p.id for p in candidates} - {p.id for p in held}
     headlines = [e.get("headline", "") for e in sent if e.get("headline")]
     best: dict = {}                       # post id -> (post, score, headline, desk)
 
@@ -184,10 +219,12 @@ def run(dry_run: bool) -> int:
             best[post.id] = (post, value, headline, desk)
 
     tweets_done = set()
+    general: dict = {}                    # post id -> the general desk's score
     if candidates:
         judged, tweets_done = national.score(candidates, (tweets_cfg.get("newsworthy") or "").strip(),
                                              state, {"alerted": sent}, log="x_test")
         for post, value, headline, _ in judged:
+            general[post.id] = value
             consider(post, value, headline, "tweets", float(tweets_cfg.get("threshold", 7)))
         to_site(judged, everything, dry_run)
 
@@ -202,6 +239,7 @@ def run(dry_run: bool) -> int:
             record_dead_models(state, newly_dead)
             for post, value, headline, _why in judged:
                 consider(post, value, headline, "tech", float(whole.get("threshold", 7)))
+            tech_to_site(judged, general, dry_run)
             tech_done |= {p.id for p in tech} - {p.id for p in missed}
         except judge.AllModelsExhausted as exc:
             record_dead_models(state, exc.newly_dead)

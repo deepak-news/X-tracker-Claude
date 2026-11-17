@@ -883,8 +883,15 @@ ALREADY_SENT = """ALREADY SENT TO THEM IN THE LAST 48 HOURS:
 """
 
 
+# An X post is read whole: a long post can bury the news in its fourth paragraph (Nov 18,
+# Jensen Huang offering to return as Nvidia's CEO).
+X_CHARS = 3000
+
+
 def _room(post) -> int:
     """How much of an item the AI reads: a gazette's own wording needs more."""
+    if post.handle.endswith(" on X"):
+        return X_CHARS
     return MAX_CHARS + GAZETTE_CHARS if post.handle.startswith("Gazette ") else MAX_CHARS
 
 
