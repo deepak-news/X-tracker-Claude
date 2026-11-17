@@ -94,11 +94,6 @@ def posts(handles=None, label: str = "X") -> list:
             continue
         name = item.get("name") or handle
         text = str(item.get("text") or "")
-        short = cut_off(text)
-        if short:
-            whole = _full_text(handle, str(item["id"]))
-            if len(whole) > len(_TAIL.sub("", text).rstrip(" ….")):
-                text, short = whole, False
         post = sources.Post(
             id=str(item["id"]),
             handle=label,
@@ -111,6 +106,19 @@ def posts(handles=None, label: str = "X") -> list:
             is_repost=False,
             origin=f"@{handle}",
         )
-        post.cut_off = short        # still only the start: xdesk.py waits for the rest
+        post.cut_off = cut_off(text)      # only the start: whole() fetches the rest
         found.append(post)
     return found
+
+
+def whole(post) -> bool:
+    """Puts the whole text into a post X gave only the start of. Called for the posts about to
+    be judged only, never the whole twelve hours. False when it is still cut off."""
+    if not getattr(post, "cut_off", False):
+        return True
+    lead, _, start = post.text.partition(" on X: ")
+    full = _full_text(post.origin.lstrip("@"), post.id.split(":")[-1])
+    if len(full) > len(_TAIL.sub("", start).rstrip(" ….")):
+        post.text = f"{lead} on X: " + " ".join(full.split())[:MAX_TEXT]
+        post.cut_off = False
+    return not post.cut_off

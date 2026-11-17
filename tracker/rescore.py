@@ -68,29 +68,37 @@ def x_posts(hours: float, compare: list) -> None:
                     created_at="", likes=0, reposts=0, is_reply=False, is_repost=False)
 
     def ask(post, rules):
-        entries, _ = judge.ask_json(national._prompt([post], rules, [], national.PROMPT), set())
+        try:
+            entries, _ = judge.ask_json(national._prompt([post], rules, [], national.PROMPT), set())
+        except Exception as exc:                                      # noqa: BLE001
+            return f"failed: {str(exc)[:80]}"
         for e in entries:
             if int(e.get("i", -1)) == 0:
                 return float(e.get("score", 0)), str(e.get("headline") or "").strip(), str(e.get("why") or "").strip()
         return None
 
-    out = []
+    out, posts = [], []
     for it in cut:
         handle, pid = str(it.get("sub") or "").lstrip("@"), it["id"].split(":")[-1]
         full = xfeed._full_text(handle, pid)
-        row = {"id": it["id"], "sub": it.get("sub"), "was": it.get("scores"), "full": bool(full),
-               "text": full or it.get("title")}
+        row = {"id": it["id"], "sub": it.get("sub"), "full": bool(full), "text": full or it.get("title")}
         if full:
-            got = ask(post_of(it, full), rubric)
-            if got:
-                row["score"], row["headline"], row["why"] = got
+            posts.append((post_of(it, full), row))
+        out.append(row)
+    # judged in batches, as a run would
+    judged, _ = national.score([p for p, _ in posts], rubric, {}, {}, log="x_rescore")
+    by_id = {p.id: (v, h, w) for p, v, h, w in judged}
+    for p, row in posts:
+        if p.id in by_id:
+            row["score"], row["headline"], row["why"] = by_id[p.id]
+    for it, row in zip(cut, out):
+        full = row["text"] if row["full"] else ""
         if it["id"] in compare:
             row["compare"] = {name: [ask(post_of(it, text), rules) for _ in range(3)]
                               for name, text, rules in (("cut off, new rubric", it.get("title"), rubric),
                                                         ("whole, old rubric", full, old_rubric),
                                                         ("whole, new rubric", full, rubric))}
         print(json.dumps({k: v for k, v in row.items() if k != "text"}, ensure_ascii=False)[:1500])
-        out.append(row)
     with open("rescore.json", "w") as f:
         json.dump(out, f)
 

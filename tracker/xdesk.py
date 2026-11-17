@@ -187,7 +187,7 @@ def run(dry_run: bool) -> int:
     # that it is judged on what there is, and said to be cut off.
     held = []
     for post in current:
-        if not getattr(post, "cut_off", False):
+        if xfeed.whole(post):
             continue
         age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(post.created_at)
         if age < dt.timedelta(minutes=CUT_OFF_WAIT):
