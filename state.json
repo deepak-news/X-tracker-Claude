@@ -1,28 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-08T03:31:19.281187+00:00",
-      "handle": "News: Indian IT majors",
-      "headline": "Former Tech Mahindra regional head Paramjeet Dhankhar shot dead in Faridabad",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNRTlJa29kdGY5MVJ1UEs3c0RDQkZQbjQzRkdHWnFrTzUwdDhVMTBBS290ZVpoUGVoUzlnNm1tZ1p5YV9TSS0xUzZ3U3E1cHpjYXI0alR3YTBUTi15S0M0elYtTUJ5c2NEVjRzcHc1aGJtYTFaSktLaEhXTGhvX3V3UXRGUVFMSDNJT2tESmtHcU1PT090VWx5S08zbVBTb25XbUROdk5HLTF4MmdvTjY2WU5KdTJLZnNvQ0pyd3B6c2hiZ1dxYjRnb2V5cFktbmFKRlBKTmhVMXRPNXJhRW13MDZNenhmMlhfLXl5RFUtemF0TlkyQk1rUGJZMDdfamc1MGEyTHFRc244eTFPZTU0cV9nSm8xOGlhU29yS3NLek1maXhFV2pRbURwSdIBsAJBVV95cUxPRHJ6ODR4blJTSHRJZmktNzFnSnFLTDVKcXI1cnAwSEQxTEo0SW5iZkFHRmlJSllueXExd005UHgyZW1aUGdJSnY5WTdsZ3o5M0xhZjFSMEhTTnNGVTZ4T2JmSlh0NTFHVUFQUXF5N0FoMzd5VHlOb2taTjhJOHc3ODZfWGJEN0lYZzE3dUE2ZDAwTzZGUFdCY2E1NVRLdXpHS19FY2JaTTcwdXphYmFOYXdxWDlIeUZ6S08xMGF4T25qd0ZVT29rQmlybHM2WHNzd3pHSlVSS3hkLVRiVDllYUU1S0xkSWEtbVNHekZNTkc2eFRJbUN5cEtVSllVS1NYLXNFa2ZNNzFxSHpTX0NLVk9qbG1SLXdLTVRVbHY4eTlfalZnOUxSQUstT1FDQVVK?oc=5",
-      "words": [
-        "accused",
-        "apac",
-        "before",
-        "chilling",
-        "dhankhar",
-        "ever",
-        "head",
-        "hours",
-        "mahindra",
-        "murder",
-        "paramjeet",
-        "tech",
-        "threats"
-      ]
-    },
-    {
       "at": "2026-11-08T08:31:40.224999+00:00",
       "handle": "News: India AI deeptech",
       "headline": "CAM advises 21 selling shareholders in Zetwerk's \u20b95,012 crore IPO",
@@ -7495,30 +7473,30 @@
         "used",
         "which"
       ]
+    },
+    {
+      "at": "2026-11-18T07:31:18.164365+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Apple rolls out revamped Maps and partners with Tech Mahindra",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVlJYWl6cVQxVVhqRmVMazZJRXE3LXZHSmI3aVNfTVBmN1VUU2FPY0JEa3Fha3dvQ0x1dVVCU2YwUW5jQXgtM2l5OGxHM012YWlNekdYOGFwU3lhWkcwWFJKZ1F0QTJKZjlCWldJQ2RKSkJENXNxMjU5WEF2WUxzTE9KM2RKSThodThBWkIwcktMWDdjZXZuRmxOTmtKTHVMVnJyWGxpRUs3MWh4UWRZakVrR2NUa29YeWh4bkFKOHp2ZFNhd2FsQXNOazdHaGpkc1lBSFczVEs?oc=5",
+      "words": [
+        "apple",
+        "biggest",
+        "drive",
+        "mahindra",
+        "mapping",
+        "maps",
+        "out",
+        "partners",
+        "revamped",
+        "rolls",
+        "tech"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-10-28T12:47:39.211636+00:00",
-        "handle": "PIB Ministry of Textiles",
-        "headline": "Textiles Ministry opens production-linked incentive scheme portal for new applications",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329667",
-        "words": [
-          "1st",
-          "2026",
-          "accepting",
-          "applications",
-          "ministry",
-          "november",
-          "open",
-          "pli",
-          "portal",
-          "scheme",
-          "textiles"
-        ]
-      },
       {
         "at": "2026-10-28T13:17:41.975650+00:00",
         "handle": "PIB PIB Backgrounder",
@@ -16270,6 +16248,27 @@
           "shivraj",
           "shri"
         ]
+      },
+      {
+        "at": "2026-11-18T07:32:54.101865+00:00",
+        "handle": "PIB Ministry of Youth Affairs and Sports",
+        "headline": "Sports ministry constitutes high-level committee to build sustainable sports league ecosystem",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337786",
+        "words": [
+          "affairs",
+          "build",
+          "committee",
+          "constitutes",
+          "ecosystem",
+          "high",
+          "league",
+          "level",
+          "ministry",
+          "sports",
+          "sustainable",
+          "youth"
+        ]
       }
     ],
     "gazette_mark": 277991,
@@ -17380,14 +17379,13 @@
       "CG-MH-E-17112026-277979"
     ],
     "health": {
-      "down": {}
+      "down": {
+        "State: Telangana": "2026-11-18T07:32:43.072508+00:00"
+      }
     },
-    "last_run": "2026-11-18T07:17:19.872003+00:00",
-    "pib_mark": 2337773,
+    "last_run": "2026-11-18T07:32:54.103775+00:00",
+    "pib_mark": 2337786,
     "seen": [
-      "pib:2328843",
-      "pib:2328842",
-      "pib:2328846",
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-india-issues-an-advisory-on-womens-safety-at-work-and-public-spaces",
       "pib:2328852",
       "pib:2328881",
@@ -19941,6 +19939,7 @@
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/8%e0%b0%b5-%e0%b0%96%e0%b1%87%e0%b0%b2%e0%b1%8b-%e0%b0%87%e0%b0%82%e0%b0%a1%e0%b0%bf%e0%b0%af%e0%b0%be-%e0%b0%af%e0%b1%82%e0%b0%a4%e0%b1%8d-%e0%b0%97%e0%b1%87%e0%b0%ae%e0%b1%8d%e0%b0%b8%e0%b1%8d/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%a4%e0%b1%86%e0%b0%b2%e0%b0%82%e0%b0%97%e0%b0%be%e0%b0%a3%e0%b0%b2%e0%b1%8b-%e0%b0%aa%e0%b1%86%e0%b0%82%e0%b0%a1%e0%b0%bf%e0%b0%82%e0%b0%97%e0%b1%8d%e0%b0%b2%e0%b1%8b-%e0%b0%89%e0%b0%a8/",
       "feed:https://www.telangana.gov.in/news/whats-new/2026/11/national-e-governance-service-delivery-assessment-nesda-2025-citizen-survey/",
+      "mea:41860",
       "gazette:CG-DL-E-17112026-277985",
       "mea:41955",
       "cci-merger:C-2026/09/1463|Approved",
@@ -20091,7 +20090,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-all-the-padma-awardees-of-2025",
       "mea:41869",
       "mea:41868",
-      "mea:41860",
       "mea:41867",
       "mea:41864",
       "mea:41861",
@@ -20384,9 +20382,16 @@
       "site:who-don:2026-DON627",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-balance-in-maintaining-health-and-happiness",
       "dgft-public-notice:beda87ac-499c-4fdc-9ef1-a90b8c0297a3",
-      "pib:2337773"
+      "pib:2337773",
+      "mea:41968",
+      "pib:2337786",
+      "site:Delhi Police press releases|dp-press:11/18/2026 12:00:00 AM|INTERSTATE CYBER FRAUD SYNDICATE BUSTED FOUR ACTIVE MEMBERS ARRESTED FROM DELHI NCR AND UTTAR PRADESH"
     ],
-    "source_failures": {},
+    "source_failures": {
+      "State: Telangana": {
+        "count": 1
+      }
+    },
     "sources": [
       "CCI",
       "CERT-In",
@@ -20445,15 +20450,6 @@
     "gemini-3.5-flash-lite": "2026-11-17T02:47:37.722096+00:00"
   },
   "handled": [
-    "1794478498844",
-    "1794482937184",
-    "1794492128060",
-    "1794492900526",
-    "1794492950387",
-    "1794493342840",
-    "1794494138652",
-    "1794494327269",
-    "1794495000786",
     "1794495000819",
     "1794495240549",
     "1794495840630",
@@ -24192,7 +24188,6 @@
     "1794550328131",
     "1794844247149",
     "1794891656618",
-    "1794902971013",
     "1794909746601",
     "1794912782735",
     "1794915600068",
@@ -24751,7 +24746,6 @@
     "1794951480578",
     "1794957873536",
     "1794961650788",
-    "1794964698953",
     "1794964870443",
     "1794965485676",
     "1794965854482",
@@ -24903,25 +24897,19 @@
     "1794956281426",
     "1794961320070",
     "1794964260538",
-    "1794966399955",
     "1794981861135",
     "1794982420975",
     "1794481002855",
     "1794559939903",
     "1794898313706",
-    "1794911820697",
-    "1794914159102",
     "1794921780508",
     "1794934920175",
     "1794939861867",
-    "1794952740777",
     "1794963554038",
     "1794969840636",
-    "1794970575578",
     "1794971737788",
     "1794974459777",
     "1794978026934",
-    "1794978715736",
     "1794982057064",
     "1794982315456",
     "1794528000674",
@@ -24929,7 +24917,6 @@
     "1794821584140",
     "1794826716402",
     "1794832013432",
-    "1794834779593",
     "1794838216760",
     "1794841418347",
     "1794853257095",
@@ -24941,6 +24928,18 @@
     "1794947700323",
     "1794972837530",
     "1794974700082",
+    "1793966588611",
+    "1794900032230",
+    "1794900349494",
+    "1794932580365",
+    "1794952860380",
+    "1794959595181",
+    "1794959902774",
+    "1794960780880",
+    "1794970604578",
+    "1794974824830",
+    "1794974941082",
+    "1794977880177",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25987,7 +25986,6 @@
     "1793952000353",
     "1793952000534",
     "1793964668123",
-    "1793966588611",
     "1793980800223",
     "1793988058664",
     "1794025425714",
@@ -26125,6 +26123,7 @@
     "1794828445895",
     "1794830400237",
     "1794834098253",
+    "1794834779593",
     "1794834872299",
     "1794837600241",
     "1794837600682",
@@ -26167,8 +26166,6 @@
     "1794894562364",
     "1794898883393",
     "1794899643203",
-    "1794900032230",
-    "1794900349494",
     "1794900491877",
     "1794901240430",
     "1794901800485",
@@ -26177,6 +26174,7 @@
     "1794902400145",
     "1794902778949",
     "1794902829806",
+    "1794902971013",
     "1794903780166",
     "1794903945763",
     "1794904680842",
@@ -26199,6 +26197,7 @@
     "1794911580096",
     "1794911580253",
     "1794911691702",
+    "1794911820697",
     "1794911947816",
     "1794912540758",
     "1794912682254",
@@ -26208,6 +26207,7 @@
     "1794913383573",
     "1794913855369",
     "1794913990533",
+    "1794914159102",
     "1794914820831",
     "1794915058223",
     "1794916286808",
@@ -26240,7 +26240,6 @@
     "1794931929913",
     "1794932249358",
     "1794932266627",
-    "1794932580365",
     "1794933049625",
     "1794933449396",
     "1794934776932",
@@ -26278,8 +26277,8 @@
     "1794951670106",
     "1794952260917",
     "1794952434588",
+    "1794952740777",
     "1794952800783",
-    "1794952860380",
     "1794953880554",
     "1794953940690",
     "1794954120258",
@@ -26294,9 +26293,6 @@
     "1794958547540",
     "1794958668647",
     "1794959280989",
-    "1794959595181",
-    "1794959902774",
-    "1794960780880",
     "1794961205315",
     "1794961800871",
     "1794961827721",
@@ -26304,19 +26300,22 @@
     "1794963600110",
     "1794964077375",
     "1794964680802",
+    "1794964698953",
     "1794965144684",
     "1794965340386",
     "1794966360254",
     "1794966360890",
+    "1794966399955",
     "1794966632294",
     "1794967422218",
     "1794967430125",
+    "1794967526175",
     "1794968310766",
     "1794969055850",
     "1794969826595",
     "1794970079834",
     "1794970440626",
-    "1794970604578",
+    "1794970575578",
     "1794971100856",
     "1794971238155",
     "1794971480936",
@@ -26336,8 +26335,6 @@
     "1794974284312",
     "1794974640275",
     "1794974695948",
-    "1794974824830",
-    "1794974941082",
     "1794975000812",
     "1794975375505",
     "1794975395531",
@@ -26351,12 +26348,12 @@
     "1794977121277",
     "1794977530719",
     "1794977826315",
-    "1794977880177",
     "1794977896760",
     "1794978000024",
     "1794978041934",
     "1794978454543",
     "1794978555384",
+    "1794978715736",
     "1794979110476",
     "1794979200482",
     "1794979260181",
@@ -26378,6 +26375,7 @@
     "1794981641989",
     "1794981691961",
     "1794981834184",
+    "1794981861462",
     "1794981865122",
     "1794981960366",
     "1794982010502",
@@ -26388,9 +26386,16 @@
     "1794984600808",
     "1794984820207",
     "1794984898578",
+    "1794985042790",
     "1794985144008",
+    "1794985260177",
     "1794985328591",
+    "1794985819445",
+    "1794985820809",
     "1794985834475",
+    "1794986033068",
+    "1794986296778",
+    "1794986411602",
     "2331589",
     "2331704",
     "2331803",
@@ -26446,8 +26451,8 @@
     "2337491",
     "2337633"
   ],
-  "last_digest_hour": "2026-11-18T12",
-  "last_success": "2026-11-18T07:16:04.995398+00:00",
+  "last_digest_hour": "2026-11-18T13",
+  "last_success": "2026-11-18T07:31:18.243145+00:00",
   "national": {
     "alerted": [
       {
@@ -36834,12 +36839,9 @@
       },
       "warned": "2026-11-18T01:17:01.648249+00:00"
     },
-    "last_run": "2026-11-18T07:16:53.242401+00:00",
-    "pib_mark": 2337773,
+    "last_run": "2026-11-18T07:32:17.953954+00:00",
+    "pib_mark": 2337786,
     "seen": [
-      "gazette:CG-DL-E-27102026-277439",
-      "gazette:SG-DL-E-27102026-277440",
-      "gazette:CG-DL-E-27102026-277441",
       "gazette:CG-UP-E-27102026-277443",
       "gazette:CG-DL-E-27102026-277442",
       "gazette:CG-DL-E-27102026-277444",
@@ -39318,6 +39320,7 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168824",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-the-loss-of-lives-in-mishap-in-tehri-garhwal-uttarakhand",
       "dgft-public-notice:768cd243-7a87-4e5b-a78a-691d64512816",
+      "mea:41860",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-valedictory-ceremony-of-the-second-batch-of-deputy-superintendent-of-police-dsp-2025-at-dr-mcr-hrd-institute-hyd/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-national-education-day-minorities-welfare-day-program-on-the-occasion-of-maulana-abul-kalam-azad-jayanti-at-sevalal-banjara-bhavan-banjara-hi/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%b5%e0%b0%bf%e0%b0%a6%e0%b1%8d%e0%b0%af%e0%b0%be-%e0%b0%b6%e0%b0%be%e0%b0%96%e0%b0%aa%e0%b1%88-%e0%b0%8e%e0%b0%82%e0%b0%b8%e0%b1%80%e0%b0%86%e0%b0%b0%e0%b1%8d%e0%b0%b9%e0%b1%86/",
@@ -39567,7 +39570,6 @@
       "mea:41868",
       "mea:41867",
       "mea:41861",
-      "mea:41860",
       "mea:41869",
       "mea:41645",
       "mea:41673",
@@ -39836,7 +39838,10 @@
       "site:who-don:2026-DON627",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-the-importance-of-balance-in-maintaining-health-and-happiness",
       "pib:2337773",
-      "dgft-public-notice:beda87ac-499c-4fdc-9ef1-a90b8c0297a3"
+      "dgft-public-notice:beda87ac-499c-4fdc-9ef1-a90b8c0297a3",
+      "pib:2337786",
+      "site:Delhi Police press releases|dp-press:11/18/2026 12:00:00 AM|INTERSTATE CYBER FRAUD SYNDICATE BUSTED FOUR ACTIVE MEMBERS ARRESTED FROM DELHI NCR AND UTTAR PRADESH",
+      "mea:41968"
     ],
     "source_failures": {
       "CBI": {
@@ -39907,26 +39912,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Apple rolls out revamped Maps and partners with Tech Mahindra",
-      "post": {
-        "created_at": "2026-11-18T03:43:14+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1794973394573",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Apple rolls out revamped Maps in India, partners with Tech Mahindra for biggest mapping drive",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVVlJYWl6cVQxVVhqRmVMazZJRXE3LXZHSmI3aVNfTVBmN1VUU2FPY0JEa3Fha3dvQ0x1dVVCU2YwUW5jQXgtM2l5OGxHM012YWlNekdYOGFwU3lhWkcwWFJKZ1F0QTJKZjlCWldJQ2RKSkJENXNxMjU5WEF2WUxzTE9KM2RKSThodThBWkIwcktMWDdjZXZuRmxOTmtKTHVMVnJyWGxpRUs3MWh4UWRZakVrR2NUa29YeWh4bkFKOHp2ZFNhd2FsQXNOazdHaGpkc1lBSFczVEs?oc=5"
-      },
-      "queued_at": "2026-11-18T07:01:43.390807+00:00",
-      "score": 7.0,
-      "why": "Apple partners with Tech Mahindra for a mapping drive in India, constituting a significant tech partnership."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41121,13 +41107,13 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1794985328591,
+    "news: big tech platforms": 1794986296778,
     "news: consumer internet india": 1794977896760,
-    "news: global ai": 1794982420484,
+    "news: global ai": 1794986296778,
     "news: global chips": 1794985834475,
-    "news: global it services": 1794978715736,
-    "news: india ai deeptech": 1794979838877,
-    "news: india edtech gaming": 1794828960728,
+    "news: global it services": 1794985144008,
+    "news: india ai deeptech": 1794986411602,
+    "news: india edtech gaming": 1794985042790,
     "news: india fintech": 1794980160755,
     "news: india semiconductors": 1794932580365,
     "news: india tech policy": 1794916405392,
@@ -41162,9 +41148,7 @@
     "zoho": 1794933049625
   },
   "source_health": {
-    "down": {
-      "News: Global IT services": "2026-11-18T07:01:35.024257+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41182,17 +41166,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-18T07:16:05.524129+00:00",
+    "last_server_run": "2026-11-18T07:31:18.783591+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-18T05:16:51.830092+00:00",
+        "checked": "2026-11-18T07:31:59.318852+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-18T05:16:42.804359+00:00",
+        "checked": "2026-11-18T07:31:50.331761+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -41268,7 +41252,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-18T05:16:47.104497+00:00",
+        "checked": "2026-11-18T07:31:54.731652+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -43755,55 +43739,6 @@
   },
   "x_test": {
     "alerted": [
-      {
-        "at": "2026-10-22T11:02:35.560084+00:00",
-        "headline": "India issues official statement condemning attacks on civilian and energy infrastructure in Saudi Arabia",
-        "url": "https://x.com/MEAIndia/status/2113222301550592357",
-        "words": [
-          "4zdbqvx",
-          "arabia",
-          "attacks",
-          "bit",
-          "civilian",
-          "energy",
-          "gbwyq5vpjr",
-          "https",
-          "infrastructure",
-          "our",
-          "saudi",
-          "statement"
-        ]
-      },
-      {
-        "at": "2026-10-22T11:17:41.879438+00:00",
-        "headline": "Union Cabinet approves \u20b953,428 crore for social assistance programme continuation",
-        "url": "https://x.com/PIB_India/status/2113226355840327841",
-        "words": [
-          "2026",
-          "2030",
-          "428",
-          "approved",
-          "assistance",
-          "becomes",
-          "cabinet",
-          "continuation",
-          "five",
-          "https",
-          "mantri",
-          "national",
-          "october",
-          "outlay",
-          "pradhan",
-          "programme",
-          "sahayata",
-          "samajik",
-          "social",
-          "sogngqvsdz",
-          "union",
-          "years",
-          "yojana"
-        ]
-      },
       {
         "at": "2026-10-22T12:35:16.318808+00:00",
         "headline": "Department of Posts records 25 percent revenue growth in Q2",
@@ -55056,30 +54991,66 @@
           "www",
           "yw6stnfcpf"
         ]
+      },
+      {
+        "at": "2026-11-18T07:32:30.376191+00:00",
+        "headline": "India's first sustainable aviation fuel plant is ready at the IOC Panipat refinery",
+        "url": "https://x.com/PMOIndia/status/2122951587060695477",
+        "words": [
+          "10966651",
+          "1csayqoz4t",
+          "ahead",
+          "app",
+          "article",
+          "aviation",
+          "blending",
+          "business",
+          "first",
+          "fuel",
+          "https",
+          "indianexpress",
+          "ioc",
+          "mandate",
+          "mandates",
+          "namo",
+          "panipat",
+          "plant",
+          "ready",
+          "refinery",
+          "sustainable",
+          "via"
+        ]
+      },
+      {
+        "at": "2026-11-18T07:32:30.376191+00:00",
+        "headline": "Sports Ministry constitutes high-level committee to build sports league ecosystem",
+        "url": "https://x.com/IndiaSports/status/2122954119937929585",
+        "words": [
+          "7y3rk",
+          "affairs",
+          "build",
+          "committee",
+          "constitutes",
+          "ecosystem",
+          "high",
+          "https",
+          "league",
+          "level",
+          "ministry",
+          "more",
+          "read",
+          "shorturl",
+          "sports",
+          "sustainable",
+          "xxqdrgb8ko",
+          "youth"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-18T07:17:05.747661+00:00",
+    "last_run": "2026-11-18T07:32:30.376532+00:00",
     "seen": [
-      "x:2121142994271338983",
-      "x:2121143234256932960",
-      "x:2121144011180421309",
-      "x:2121144031749263642",
-      "x:2121144128339931332",
-      "x:2121144281276789114",
-      "x:2121144502719074697",
-      "x:2121144655182287154",
-      "x:2121144657677820187",
-      "x:2121145037304037685",
-      "x:2121145213305716762",
-      "x:2121145288731848834",
-      "x:2121145485436375360",
-      "x:2121145630999584778",
-      "x:2121145873178730685",
-      "x:2121147527290609708",
-      "x:2121147678038089801",
-      "x:2121148028791001199",
       "x:2121148056104210489",
       "x:2121148694745817549",
       "x:2121149316907872649",
@@ -58061,7 +58032,25 @@
       "x:2122950726339223576",
       "x:2122950739194712488",
       "x:2122950969533268362",
-      "x:2122950999430348995"
+      "x:2122950999430348995",
+      "x:2122951330054725950",
+      "x:2122951374208217393",
+      "x:2122951587060695477",
+      "x:2122951744112284133",
+      "x:2122952308300636516",
+      "x:2122952344107458715",
+      "x:2122952651554087050",
+      "x:2122952836996849794",
+      "x:2122953479270387738",
+      "x:2122953525877670245",
+      "x:2122953832283934855",
+      "x:2122953945966674359",
+      "x:2122953999964078258",
+      "x:2122954119937929585",
+      "x:2122954308576788716",
+      "x:2122954439590113402",
+      "x:2122954475434340624",
+      "x:2122954760890270186"
     ],
     "source_failures": {},
     "sources": []
