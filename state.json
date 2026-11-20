@@ -1,67 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-11T18:16:15.068056+00:00",
-      "handle": "Google",
-      "headline": "Google launches Gemini Decisions API for fast multimodal decision-making",
-      "tier": 1,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "words": [
-        "api",
-        "art",
-        "article",
-        "calibrated",
-        "decision",
-        "decisions",
-        "fast",
-        "gemini",
-        "int",
-        "meet",
-        "model",
-        "multimodal",
-        "our",
-        "powered"
-      ]
-    },
-    {
-      "at": "2026-11-11T18:31:29.249452+00:00",
-      "handle": "News: Global chips",
-      "headline": "Nvidia hires Wachtell lawyer Joon Kim for CEO probe",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGZOVW91SUotNzJyUmhvbDRReWtDd1RVdDRyTDJhVlRia0g0MlIyUFhESHFEV2RHM2dnMFlJc3V2bzJLX3dMN0NxT3NwSzlPdnQteUNRU2tIYTBlZ3N6WU9QTkkzMmV1eWtvamFPSVBEQmNGc1pvbklRLW12dnhFcWdPQ0ZDYk9abzdFcUNVdVNLUEpsdGJlTUVPeFVzWnN0eS14SHZJVk16RmlUVDE3Y09fWWdwZkNjTmFLQlUtZXFKNVJ2TXJhRXFaYjF4UXJRVVHSAdcBQVVfeXFMTlNFS19uLUVQVDlLQklxVTh1TlpyUTFpOVUxdHpETE5kMTl1NTdGQ1NMaWVMX2IxbFFwLVdjREJhTDdodWZLZUR0MkJkZnJFT01FVU9GaGwyeUQxMFktdXc2Y1o1a0RHaW41aDc2eE41SFJpeld4N19ObUlrZWFDVFV6SjI1OFZkaURzd01rQ0I4Yk90dkl3NVEyaVluamVTenpTbGQzQWM5NXNLUDhuemJYbUJXd083WU5kVFdQQzVzNzFCeUZUNUZGVlY5Sm5nZ2E2UnlEQ1U?oc=5",
-      "words": [
-        "ceo",
-        "hires",
-        "huang",
-        "involving",
-        "joon",
-        "kim",
-        "lawyer",
-        "lead",
-        "nvidia",
-        "probe",
-        "wachtell"
-      ]
-    },
-    {
-      "at": "2026-11-11T18:31:29.249452+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "US Senator calls for Nvidia CEO Jensen Huang to resign",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmZUVnlLRGRSRXJyZ0tGTWlEZTVTM3BwSHV0YnVrNkhqbUdnRXhQYk5JbWc1MEZJYkdkTm9fTXp4eU5sam1xbDZwVDkyV2lkMW9xajBlSUJIWU5XUGxWWEUzcThWQ19aS0RKNHVzMm5BcFRzLXNVbnpxX3JRNm9HMTFaY2xKTnBCWVBNVXBuZkYwZFVWcWRfbmFKQjJ5RXBsOXhwNURJeTk4aWdiOTRQelpJWC1nRGJqTDJINDV1cw?oc=5",
-      "words": [
-        "calls",
-        "huang",
-        "jensen",
-        "nvidia",
-        "republican",
-        "resign",
-        "scandal",
-        "senate",
-        "spy"
-      ]
-    },
-    {
       "at": "2026-11-11T18:31:29.249452+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic IPO reported multiple times oversubscribed ahead of debut",
@@ -7475,33 +7414,65 @@
         "jump",
         "trojan"
       ]
+    },
+    {
+      "at": "2026-11-20T03:31:22.682913+00:00",
+      "handle": "News: Global AI",
+      "headline": "TSMC invests $500 million in Anthropic IPO",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0JxTk1JMzUtYUNOLWJKMWR5RTd6OXVjNEF3UTVTVTZSbThkR01FbkNrZ1RIcVI3QmhYYkRnTnIwNkJmUVh5RWZkOE9WVnNnOUs2eUVUQWVrV0FwRW1sUk03RHQyNHFFc01RX29SN2dZUWlVWkxTbmpRTWZha2s1cWtvc0JpRG54aFpQaUd3MmFJMFFnQjlmaE1YR2ktZHo5WE9nTnFhNGlFd0VySWNld2MxLVJ0SEtrbmJoakhfRUw2dw?oc=5",
+      "words": [
+        "500",
+        "acquires",
+        "anthropic",
+        "invests",
+        "ipo",
+        "million",
+        "price",
+        "stake",
+        "tsmc",
+        "usd"
+      ]
+    },
+    {
+      "at": "2026-11-20T03:31:22.682913+00:00",
+      "handle": "News: Global chips",
+      "headline": "Nvidia sells major stake in Finnish telecom gear maker Nokia",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaGNZVTZMZGdmbG1paXNKV0wzQUlOYlJyWWY2RGx6dUo4ZUROdFJIbXNEaGFHMlpTQkpxaEE2NHNuVXA2QzNfUHlPN0lDY2RXOHJiQ2MtMWZMcmpCN1FRWnVpeS0wZDhWb0Q5YnpmYTNsYlRGaGxvelpyeVhwNGNtTzIyazB1c2pFRUxUdkFWaEplQVNpSFR2SUxQeDVaOTd2UjJlZTFuODhKMUQ3YW1HUC1EeWE5d1RVTU1FUXFNRHdkQS1LUy05cXBmMF9yTnBaWTR1ONIB2gFBVV95cUxQc2dwVC1NZHRtQ3dNRHc4WUdlX3JzX0FYa3BBYWg3Rk1CQVlkYmtMd2JvYVJJMFMzMHN2M0w2aVJLWkZwcUVSRXhpdjlHTEFERFA5dU8waEQ0dVQ3eDZEYlRaa0IzUmg3bmt6OWZEQlNGTUVyZ3FCeEs3UlZsSkZqTkRwdW5sX0tpUUVlM0VZRDFWSFRsSEhYVlMwYzU5dTVzZDc1azBsQ2ExOTdOcUtpZUZiMXpRREVTbi12MTZwcnFyRkVoSS1YRzNCd1R1bHJKQ09qc2pPSEthUQ?oc=5",
+      "words": [
+        "finnish",
+        "gear",
+        "half",
+        "maker",
+        "nokia",
+        "nvidia",
+        "sells",
+        "stake"
+      ]
+    },
+    {
+      "at": "2026-11-20T03:31:22.682913+00:00",
+      "handle": "News: Global chips",
+      "headline": "Nvidia controversy prompts calls for stricter export enforcement",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnk2bEFlaUVZN3JSTzlfalRjZTdIY0NrbUx2X0VTQU5HQ2stenVlWnI0LWo3dDdPNm5Nb1lOZi14aVNjOVQ5NFJ4ZGZRR3hSX3dHRHMyOWE4ZmpURjlQU1JqSzRPUHBUMUY1eHQ0eHZRc2xGSm8yYlRORkQ3dGo1QUdBaF9CZnJuMkhyMDA3dEd1Yk1UUnJ1OG1pSDZuQWM3SGo4c04tcmtlUUNMQmV0akNFVQ?oc=5",
+      "words": [
+        "control",
+        "could",
+        "enforcement",
+        "export",
+        "nvidia",
+        "point",
+        "scandal",
+        "tipping",
+        "tougher",
+        "toward"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-10-30T13:47:43.017027+00:00",
-        "handle": "PIB Ministry of Communications",
-        "headline": "Tamil Nadu signs agreement with Telecom Department for BharatNet network utilization",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330586",
-        "words": [
-          "agreement",
-          "between",
-          "bharat",
-          "bharatnet",
-          "communications",
-          "dbn",
-          "department",
-          "digital",
-          "government",
-          "ministry",
-          "nadu",
-          "network",
-          "nidhi",
-          "signed"
-        ]
-      },
       {
         "at": "2026-10-30T13:47:43.017027+00:00",
         "handle": "Gazette Ministry of Finance",
@@ -16299,6 +16270,28 @@
           "sub",
           "telecom"
         ]
+      },
+      {
+        "at": "2026-11-20T03:32:24.748150+00:00",
+        "handle": "MEA press releases",
+        "headline": "External Affairs Minister S. Jaishankar concludes official visit to Japan for 2+2 dialogue",
+        "tier": 1,
+        "url": "https://www.mea.gov.in/press-releases?dtl/41976/Visit_of_External_Affairs_Minister_Dr_S_Jaishankar_to_Japan_November_1820_2026",
+        "words": [
+          "2026",
+          "affairs",
+          "external",
+          "jaishankar",
+          "japan",
+          "mea",
+          "minister",
+          "nove",
+          "november",
+          "press",
+          "releases",
+          "text",
+          "visit"
+        ]
       }
     ],
     "gazette_mark": 278069,
@@ -17486,14 +17479,11 @@
       "CG-DL-E-19112026-278069"
     ],
     "health": {
-      "down": {
-        "Gazette of India (Extraordinary)": "2026-11-20T02:47:43.520615+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-20T03:17:51.314039+00:00",
+    "last_run": "2026-11-20T03:32:24.758670+00:00",
     "pib_mark": 2338841,
     "seen": [
-      "pib:2329907",
       "pib:2329909",
       "pib:2329935",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168697",
@@ -20052,6 +20042,7 @@
       "watch:bulletin:LS|2026-11-19|Bulletin-II",
       "watch:bulletin:RS|2026-11-19|Bulletin Part-II",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/good_16nov26_556_e.htm",
+      "mea:41935",
       "gazette:CG-DL-E-19112026-278050",
       "gazette:CG-UP-E-19112026-278051",
       "gazette:CG-DL-E-19112026-278052",
@@ -20396,7 +20387,6 @@
       "mea:41928",
       "certin:CIAD-2026-0058",
       "page:https://internal.imd.gov.in/press_release/20261109_pr_5478.pdf",
-      "mea:41935",
       "page:https://internal.imd.gov.in/press_release/20261110_pr_5479.pdf",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-vasa-2025-batch-kaeips",
       "mea:41936",
@@ -20492,14 +20482,10 @@
       "site:WTO|https://www.wto.org/english/news_e/news26_e/trip_19nov26_557_e.htm",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-chairs-valedictory-session-of-departmental-summit-on-social-justice-and-empowerment",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
-      "mea:41975"
+      "mea:41975",
+      "mea:41976"
     ],
-    "source_failures": {
-      "Gazette of India (Extraordinary)": {
-        "count": 3,
-        "until": "2026-11-20T09:17:08.923955+00:00"
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20558,14 +20544,6 @@
     "gemini-3.5-flash-lite": "2026-11-19T04:02:37.914963+00:00"
   },
   "handled": [
-    "1794639645875",
-    "1794640921583",
-    "1794641212460",
-    "1794643697674",
-    "1794655931469",
-    "1794573226009",
-    "1794573861784",
-    "1794602075448",
     "1794609780625",
     "1794619808479",
     "1794623460300",
@@ -24973,7 +24951,6 @@
     "1795056637677",
     "1795062840698",
     "1795070100795",
-    "1795071345523",
     "1795090920172",
     "1795112340691",
     "1795124118538",
@@ -24987,14 +24964,29 @@
     "1795141980613",
     "1793746786658",
     "1794989120140",
-    "1795063693622",
     "1795069371353",
-    "1795092567388",
-    "1795093680779",
-    "1795096344085",
     "1795122305066",
     "1795125002774",
-    "1795125600181",
+    "1795058682370",
+    "1795061979185",
+    "1795072387194",
+    "1795077283365",
+    "1795078668499",
+    "1795084380234",
+    "1795085374810",
+    "1795086045276",
+    "1795086709906",
+    "1795087822923",
+    "1795088730494",
+    "1795090615811",
+    "1795126662461",
+    "1795131144181",
+    "1795134480936",
+    "1795137744844",
+    "1795139880322",
+    "1795140854605",
+    "1795140889619",
+    "1795142652625",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26235,12 +26227,10 @@
     "1795046400202",
     "1795046400484",
     "1795046400754",
-    "1795058682370",
     "1795060257738",
     "1795060459882",
     "1795060688469",
     "1795061925004",
-    "1795061979185",
     "1795062400213",
     "1795062469935",
     "1795062507592",
@@ -26249,6 +26239,7 @@
     "1795063272111",
     "1795063305014",
     "1795063693021",
+    "1795063693622",
     "1795064048429",
     "1795064541371",
     "1795064552289",
@@ -26266,9 +26257,9 @@
     "1795070350390",
     "1795070440525",
     "1795070507916",
+    "1795071345523",
     "1795071600095",
     "1795072065744",
-    "1795072387194",
     "1795073314968",
     "1795075019632",
     "1795075131742",
@@ -26278,10 +26269,8 @@
     "1795075200479",
     "1795076153591",
     "1795077072119",
-    "1795077283365",
     "1795077397515",
     "1795077941637",
-    "1795078668499",
     "1795079570526",
     "1795079883924",
     "1795080459212",
@@ -26294,39 +26283,35 @@
     "1795083736913",
     "1795083938615",
     "1795084191514",
-    "1795084380234",
     "1795084977217",
     "1795085225367",
-    "1795085374810",
     "1795085388921",
-    "1795086045276",
     "1795086117325",
     "1795086169065",
-    "1795086709906",
     "1795086808055",
-    "1795087822923",
     "1795087894024",
     "1795087933815",
     "1795088487586",
-    "1795088730494",
     "1795088747410",
     "1795089721388",
     "1795090500595",
-    "1795090615811",
     "1795091229535",
     "1795091766276",
     "1795091862415",
+    "1795092567388",
     "1795093200037",
     "1795093200265",
     "1795093200640",
     "1795093200903",
     "1795093260252",
     "1795093553316",
+    "1795093680779",
     "1795093839686",
     "1795094587710",
     "1795095202174",
     "1795095652985",
     "1795095900289",
+    "1795096344085",
     "1795096812420",
     "1795096862073",
     "1795098298196",
@@ -26408,8 +26393,8 @@
     "1795125145246",
     "1795125486258",
     "1795125575600",
+    "1795125600181",
     "1795125600581",
-    "1795126662461",
     "1795126914708",
     "1795126993056",
     "1795127501298",
@@ -26426,7 +26411,6 @@
     "1795130700470",
     "1795130832076",
     "1795131129557",
-    "1795131144181",
     "1795131476554",
     "1795131480522",
     "1795132037719",
@@ -26441,7 +26425,6 @@
     "1795133486836",
     "1795133647250",
     "1795134347665",
-    "1795134480936",
     "1795134866674",
     "1795135674898",
     "1795135989900",
@@ -26451,35 +26434,34 @@
     "1795136820005",
     "1795136865076",
     "1795137217182",
-    "1795137744844",
     "1795138040337",
     "1795138822572",
     "1795139005088",
     "1795139114714",
     "1795139340360",
     "1795139640947",
-    "1795139880322",
     "1795139880971",
     "1795139946094",
     "1795140161190",
     "1795140360777",
     "1795140415737",
     "1795140588658",
+    "1795140724284",
     "1795140734889",
-    "1795140854605",
-    "1795140889619",
     "1795140900620",
     "1795140960093",
     "1795141080459",
     "1795141708346",
     "1795141839576",
     "1795141852366",
+    "1795141860251",
     "1795141860301",
+    "1795141871581",
     "1795141890342",
     "1795142114584",
+    "1795142250605",
     "1795142520772",
     "1795142541803",
-    "1795142652625",
     "1795142724008",
     "1795142771656",
     "1795143005524",
@@ -26494,6 +26476,10 @@
     "1795143677691",
     "1795143905346",
     "1795143975862",
+    "1795144723852",
+    "1795144920800",
+    "1795144978816",
+    "1795145056343",
     "1795165260241",
     "2331589",
     "2331704",
@@ -26559,8 +26545,8 @@
     "2338533",
     "2338585"
   ],
-  "last_digest_hour": "2026-11-20T08",
-  "last_success": "2026-11-20T03:16:19.081697+00:00",
+  "last_digest_hour": "2026-11-20T09",
+  "last_success": "2026-11-20T03:31:22.748886+00:00",
   "national": {
     "alerted": [
       {
@@ -37016,16 +37002,14 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "Gazette of India (Extraordinary)": "2026-11-20T02:47:21.175851+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-20T01:32:12.759129+00:00"
     },
-    "last_run": "2026-11-20T03:17:05.408858+00:00",
+    "last_run": "2026-11-20T03:32:06.645258+00:00",
     "pib_mark": 2338841,
     "seen": [
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-21-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105398.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-sumit-wadhwa-pan-aaopw8621r-pal-singh-pan-bdkps9758p-and-harleen-singh-pan-ankps5827l-defaulters-in-the-matter-of-unregistered-investment-adviser-under-certificate-no-786-_105411.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-avadhut-sathe-trading-academy-private-limited_105413.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-in-rc-no-7825-of-2024-issued-against-arun-panchariya-vintage-fze-and-emerging-markets-opportunities-fund_105466.html",
@@ -39523,6 +39507,7 @@
       "watch:bulletin:LS|2026-11-19|Bulletin-II",
       "watch:bulletin:RS|2026-11-19|Bulletin Part-II",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/good_16nov26_556_e.htm",
+      "mea:41935",
       "gazette:CG-DL-E-19112026-278050",
       "gazette:CG-UP-E-19112026-278051",
       "gazette:CG-DL-E-19112026-278052",
@@ -39929,7 +39914,6 @@
       "page:https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX _XII_2027_Main_06112026.pdf",
       "page:https://www.cbse.gov.in/cbsenew/documents/Notification_Result_XII_Special Examination_West Asia_06112026.pdf",
       "page:https://internal.imd.gov.in/press_release/20261109_pr_5478.pdf",
-      "mea:41935",
       "page:https://internal.imd.gov.in/press_release/20261110_pr_5479.pdf",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-vasa-2025-batch-kaeips",
       "mea:41937",
@@ -40024,16 +40008,13 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-chairs-valedictory-session-of-departmental-summit-on-social-justice-and-empowerment",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
       "mea:41975",
-      "quake:usgs:us6000uc26"
+      "quake:usgs:us6000uc26",
+      "mea:41976"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "Gazette of India (Extraordinary)": {
-        "count": 3,
-        "until": "2026-11-20T09:16:52.520485+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -40099,44 +40080,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Nvidia sells major stake in Finnish telecom gear maker Nokia",
-      "post": {
-        "created_at": "2026-11-20T02:50:05+00:00",
-        "handle": "News: Global chips",
-        "id": "1795143005524",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Indiatimes",
-        "reposts": 0,
-        "text": "Nvidia sells over half its stake in Finnish gear maker Nokia",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaGNZVTZMZGdmbG1paXNKV0wzQUlOYlJyWWY2RGx6dUo4ZUROdFJIbXNEaGFHMlpTQkpxaEE2NHNuVXA2QzNfUHlPN0lDY2RXOHJiQ2MtMWZMcmpCN1FRWnVpeS0wZDhWb0Q5YnpmYTNsYlRGaGxvelpyeVhwNGNtTzIyazB1c2pFRUxUdkFWaEplQVNpSFR2SUxQeDVaOTd2UjJlZTFuODhKMUQ3YW1HUC1EeWE5d1RVTU1FUXFNRHdkQS1LUy05cXBmMF9yTnBaWTR1ONIB2gFBVV95cUxQc2dwVC1NZHRtQ3dNRHc4WUdlX3JzX0FYa3BBYWg3Rk1CQVlkYmtMd2JvYVJJMFMzMHN2M0w2aVJLWkZwcUVSRXhpdjlHTEFERFA5dU8waEQ0dVQ3eDZEYlRaa0IzUmg3bmt6OWZEQlNGTUVyZ3FCeEs3UlZsSkZqTkRwdW5sX0tpUUVlM0VZRDFWSFRsSEhYVlMwYzU5dTVzZDc1azBsQ2ExOTdOcUtpZUZiMXpRREVTbi12MTZwcnFyRkVoSS1YRzNCd1R1bHJKQ09qc2pPSEthUQ?oc=5"
-      },
-      "queued_at": "2026-11-20T03:01:41.419670+00:00",
-      "score": 7.0,
-      "why": "Major investment and stake sale by a watched chip company."
-    },
-    {
-      "headline": "Nvidia controversy prompts calls for stricter export enforcement",
-      "post": {
-        "created_at": "2026-11-20T02:51:32+00:00",
-        "handle": "News: Global chips",
-        "id": "1795143092720",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Washington Post",
-        "reposts": 0,
-        "text": "Nvidia scandal could be tipping point toward tougher export control enforcement",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnk2bEFlaUVZN3JSTzlfalRjZTdIY0NrbUx2X0VTQU5HQ2stenVlWnI0LWo3dDdPNm5Nb1lOZi14aVNjOVQ5NFJ4ZGZRR3hSX3dHRHMyOWE4ZmpURjlQU1JqSzRPUHBUMUY1eHQ0eHZRc2xGSm8yYlRORkQ3dGo1QUdBaF9CZnJuMkhyMDA3dEd1Yk1UUnJ1OG1pSDZuQWM3SGo4c04tcmtlUUNMQmV0akNFVQ?oc=5"
-      },
-      "queued_at": "2026-11-20T03:01:41.419670+00:00",
-      "score": 7.0,
-      "why": "Regulatory and export control move involving a major AI and chip firm."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41330,10 +41274,10 @@
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
     "naukri": 1791544947234,
-    "news: big tech platforms": 1795140588658,
-    "news: consumer internet india": 1795143174423,
-    "news: global ai": 1795143677691,
-    "news: global chips": 1795143307602,
+    "news: big tech platforms": 1795144723852,
+    "news: consumer internet india": 1795145056343,
+    "news: global ai": 1795144920800,
+    "news: global chips": 1795144920800,
     "news: global it services": 1795125600181,
     "news: india ai deeptech": 1795142520772,
     "news: india edtech gaming": 1795095652985,
@@ -41341,7 +41285,7 @@
     "news: india semiconductors": 1795063693622,
     "news: india tech policy": 1795140360777,
     "news: india telecom": 1795140889619,
-    "news: indian it majors": 1795143905346,
+    "news: indian it majors": 1795144978816,
     "news: indian it midcaps": 1795143618148,
     "news: pib releases": 1790159940641,
     "news: tech leaders": 1795143593872,
@@ -41372,18 +41316,12 @@
   },
   "source_health": {
     "down": {
-      "News: Global IT services": "2026-11-20T03:16:11.894469+00:00"
+      "News: India telecom": "2026-11-20T03:31:16.095359+00:00"
     }
   },
   "watch": {
     "health_server": {
-      "down": {
-        "e-Gazette - Home, Finance, Defence, Law, I&B": "2026-11-20T02:46:37.407452+00:00",
-        "e-Gazette - Law ministry": "2026-11-20T02:46:37.407452+00:00",
-        "e-Gazette - MHA and Finance": "2026-11-20T02:46:37.407452+00:00",
-        "e-Gazette - MHA extraordinary": "2026-11-20T02:46:37.407452+00:00",
-        "e-Gazette - MeitY": "2026-11-20T02:46:37.407452+00:00"
-      }
+      "down": {}
     },
     "introduced": [
       "DoPT EO - appointments and extensions (30 days)",
@@ -41397,7 +41335,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-20T03:16:19.441091+00:00",
+    "last_server_run": "2026-11-20T03:31:23.145663+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-20T02:17:17.803378+00:00",
@@ -55396,15 +55334,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-20T03:17:08.511750+00:00",
+    "last_run": "2026-11-20T03:32:13.397715+00:00",
     "seen": [
-      "x:2122155193685135782",
-      "x:2122155194427564497",
-      "x:2122155194670625075",
-      "x:2122155199234224274",
-      "x:2122155276442984595",
-      "x:2122155536464679414",
-      "x:2122155898575741037",
       "x:2122156041198809335",
       "x:2122156126016061814",
       "x:2122156714174935410",
@@ -58397,7 +58328,14 @@
       "x:2123611029867569509",
       "x:2123611277864092111",
       "x:2123612385009369295",
-      "x:2123615306052747636"
+      "x:2123615306052747636",
+      "x:2123616068400795901",
+      "x:2123616270495129606",
+      "x:2123616477479870679",
+      "x:2123617453012103402",
+      "x:2123617916008772071",
+      "x:2123619031181906387",
+      "x:2123619091617620082"
     ],
     "source_failures": {},
     "sources": []
