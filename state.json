@@ -17535,11 +17535,9 @@
         "State: Uttar Pradesh": "2026-11-21T01:32:28.831111+00:00"
       }
     },
-    "last_run": "2026-11-21T07:02:36.756136+00:00",
-    "pib_mark": 2339431,
+    "last_run": "2026-11-21T07:17:12.493987+00:00",
+    "pib_mark": 2339440,
     "seen": [
-      "page:https://www.mha.gov.in/files/whats_new_documents/RunUnity.pdf",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/10/1168708",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/prohibitory-order-no-1579-2026-issued-against-r-senthil-kumar-under-recovery-certificate-nos-7902-of-2024-7904-of-2024-and-7905-of-2024-in-the-matter-of-trust-line-holdings-pvt-ltd-pms-and-trust-lin-_105432.html",
       "page:https://internal.imd.gov.in/press_release/20260918_pr_5324.pdf",
       "gazette:CG-DL-E-30102026-277517",
@@ -20537,7 +20535,9 @@
       "gazette:CG-AP-E-21112026-278108",
       "gazette:CG-DL-E-21112026-278109",
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, TWO ABSCONDERS APPREHENDED.",
-      "page:https://internal.imd.gov.in/press_release/20261121_pr_5513.pdf"
+      "page:https://internal.imd.gov.in/press_release/20261121_pr_5513.pdf",
+      "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|ONE COUNTERFEIT CIGARETTES SUPPLIER ARRESTED BY THE NARCOTICS STAFF, ROHINI.",
+      "pib:2339440"
     ],
     "source_failures": {
       "State: Uttar Pradesh": {
@@ -20603,11 +20603,6 @@
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00"
   },
   "handled": [
-    "1794811920236",
-    "1794818113702",
-    "1794819662372",
-    "1794735704027",
-    "1794747742871",
     "1794770760909",
     "1794805814087",
     "1794811297746",
@@ -25030,7 +25025,6 @@
     "1795199775854",
     "1795214033273",
     "1795217178825",
-    "1795233567487",
     "1795235040923",
     "1795150934281",
     "1795151258457",
@@ -25093,18 +25087,21 @@
     "1795198828958",
     "1795232780915",
     "1795239045656",
-    "1795239878648",
     "1794820823947",
     "1795168920055",
-    "1795170780213",
-    "1795172758202",
-    "1795199674616",
     "1795214852469",
     "1795233540028",
     "1795235085902",
     "1795237226342",
-    "1795239006516",
     "1795241621426",
+    "1795158394872",
+    "1795173578158",
+    "1795179168523",
+    "1795233526487",
+    "1795237980006",
+    "1795238201838",
+    "1795242763107",
+    "1795244310629",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26365,7 +26362,6 @@
     "1795156450542",
     "1795156452849",
     "1795157306944",
-    "1795158394872",
     "1795159292678",
     "1795159403662",
     "1795160470907",
@@ -26392,17 +26388,17 @@
     "1795170338390",
     "1795170407530",
     "1795170758943",
+    "1795170780213",
     "1795170780550",
     "1795171400045",
     "1795172127278",
+    "1795172758202",
     "1795173447818",
-    "1795173578158",
     "1795173992601",
     "1795174322231",
     "1795176199322",
     "1795177263576",
     "1795178755776",
-    "1795179168523",
     "1795179248551",
     "1795180397291",
     "1795181100689",
@@ -26444,6 +26440,7 @@
     "1795199445552",
     "1795199625500",
     "1795199650793",
+    "1795199674616",
     "1795199755307",
     "1795200019046",
     "1795202789462",
@@ -26498,8 +26495,8 @@
     "1795232641977",
     "1795232718459",
     "1795232752123",
-    "1795233526487",
     "1795233540285",
+    "1795233567487",
     "1795233600370",
     "1795233600975",
     "1795233708714",
@@ -26517,21 +26514,24 @@
     "1795237264919",
     "1795237461342",
     "1795237492880",
-    "1795237980006",
-    "1795238201838",
     "1795238432543",
     "1795238588136",
     "1795238712350",
+    "1795239006516",
     "1795239180025",
     "1795239780475",
+    "1795239878648",
     "1795240040326",
     "1795241283030",
     "1795241589138",
-    "1795242763107",
     "1795243521426",
     "1795243560870",
     "1795243980479",
-    "1795244310629",
+    "1795244293352",
+    "1795244310899",
+    "1795244400351",
+    "1795244504804",
+    "1795245234974",
     "1795258800773",
     "2331589",
     "2331704",
@@ -26605,7 +26605,7 @@
     "2339167"
   ],
   "last_digest_hour": "2026-11-21T12",
-  "last_success": "2026-11-21T07:01:39.457758+00:00",
+  "last_success": "2026-11-21T07:16:08.631273+00:00",
   "national": {
     "alerted": [
       {
@@ -37115,11 +37115,9 @@
       },
       "warned": "2026-11-21T01:46:44.481001+00:00"
     },
-    "last_run": "2026-11-21T07:02:18.723075+00:00",
-    "pib_mark": 2339431,
+    "last_run": "2026-11-21T07:16:48.934297+00:00",
+    "pib_mark": 2339440,
     "seen": [
-      "pib:2331174",
-      "pib:2331193",
       "pib:2331200",
       "pib:2331212",
       "pib:2331222",
@@ -40117,7 +40115,9 @@
       "page:https://internal.imd.gov.in/press_release/20261121_pr_5513.pdf",
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|AATS, OUTER NORTH DISTRICT INTENSIFIES CRACKDOWN ON PROCLAIMED OFFENDERS, TWO ABSCONDERS APPREHENDED.",
       "gazette:CG-DL-E-21112026-278106",
-      "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|SIX YEAR OLD MISSING GIRL TRACED WITHIN 10 HOURS BY PS WELCOME TEAM, SAFELY REUNITED WITH FAMILY"
+      "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|SIX YEAR OLD MISSING GIRL TRACED WITHIN 10 HOURS BY PS WELCOME TEAM, SAFELY REUNITED WITH FAMILY",
+      "pib:2339440",
+      "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|ONE COUNTERFEIT CIGARETTES SUPPLIER ARRESTED BY THE NARCOTICS STAFF, ROHINI."
     ],
     "source_failures": {
       "CBI": {
@@ -41408,7 +41408,7 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1795242763107,
     "news: consumer internet india": 1795235085902,
-    "news: global ai": 1795243560870,
+    "news: global ai": 1795245234974,
     "news: global chips": 1795241589138,
     "news: global it services": 1795228952983,
     "news: india ai deeptech": 1795235302328,
@@ -41417,10 +41417,10 @@
     "news: india semiconductors": 1795156258285,
     "news: india tech policy": 1795198274975,
     "news: india telecom": 1795223072777,
-    "news: indian it majors": 1795239006516,
+    "news: indian it majors": 1795244504804,
     "news: indian it midcaps": 1795235944132,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1795244310629,
+    "news: tech leaders": 1795244400351,
     "nvidia": 1795125600581,
     "nvidia blog": 1795118415491,
     "openai": 1795168800643,
@@ -41447,9 +41447,7 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {
-      "News: Indian IT majors": "2026-11-21T07:01:34.165571+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41467,7 +41465,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-21T07:01:39.956005+00:00",
+    "last_server_run": "2026-11-21T07:16:09.135212+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-21T06:32:04.797406+00:00",
@@ -55416,19 +55414,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-21T07:02:27.447430+00:00",
+    "last_run": "2026-11-21T07:16:59.634071+00:00",
     "seen": [
-      "x:2122618000448880648",
-      "x:2122618978480914525",
-      "x:2122619019987722503",
-      "x:2122619168109547831",
-      "x:2122619175751282843",
-      "x:2122619286791594260",
-      "x:2122619347743203330",
-      "x:2122619472309883375",
-      "x:2122620281256849847",
-      "x:2122620384197615842",
-      "x:2122620561771905294",
       "x:2122621378490982634",
       "x:2122622164247658702",
       "x:2122622655727816755",
@@ -58417,7 +58404,18 @@
       "x:2124034146649645403",
       "x:2124034412388209020",
       "x:2124034512938270947",
-      "x:2124034647109812474"
+      "x:2124034647109812474",
+      "x:2124034720778613235",
+      "x:2124035079387390215",
+      "x:2124035318311420331",
+      "x:2124036892769636741",
+      "x:2124036940010029329",
+      "x:2124037180238758221",
+      "x:2124037314229764443",
+      "x:2124037654845276302",
+      "x:2124038008668373475",
+      "x:2124038091845644435",
+      "x:2124038244325118379"
     ],
     "source_failures": {},
     "sources": []
