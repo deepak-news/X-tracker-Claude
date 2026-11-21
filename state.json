@@ -17567,7 +17567,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-21T23:03:05.233082+00:00",
+    "last_run": "2026-11-21T23:16:52.391933+00:00",
     "pib_mark": 2339821,
     "seen": [
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-vaisava-nava-nairamaana",
@@ -20131,6 +20131,7 @@
       "site:BCCI|https://www.bcci.tv/news/article/india-u19-squad-for-t20-series-against-england-u19-announced",
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|Delhi Traffic Police identifies 1,421 vehicles with 100 or more challans each, Flags with the Transport Commissioner.",
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|PS HAUZ KHAS APPREHENDS DELIVERY BOY INVOLVED IN VEHICLE THEFT, TWO STOLEN VEHICLES RECOVERED, TWO CASES WORKED OUT",
+      "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|SH. ANURAG KUMAR, IPS, COMMISSIONER OF POLICE, DELHI, HOLDS JAN SUNWAI AT PS SUBZI MANDI AND WOMEN POLICE STATION, NORTH DISTRICT AND ALSO HELD AN INTERACTIVE SESSION WITH THE POLICE PERSONNEL.",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -20552,7 +20553,6 @@
       "gazette:CG-AP-E-21112026-278119",
       "gazette:CG-MH-E-21112026-278121",
       "gazette:CG-AP-E-21112026-278124",
-      "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|SH. ANURAG KUMAR, IPS, COMMISSIONER OF POLICE, DELHI, HOLDS JAN SUNWAI AT PS SUBZI MANDI AND WOMEN POLICE STATION, NORTH DISTRICT AND ALSO HELD AN INTERACTIVE SESSION WITH THE POLICE PERSONNEL.",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-inauguration-of-nitish-setu-and-launch-of-other-development-projects-in-vaishali-bihar",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-platinum-jubilee-celebrations-of-iit-kharagpur",
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|01 DESPERATE THIEF ARRESTED, 03 THEFT CASES WORKED OUT WITH RECOVERY OF 02 STOLEN MOTORCYCLES AND 01 MOBILE PHONE, BY ANTI BURGLARY CELL, DWARKA DISTRICT.",
@@ -20630,8 +20630,6 @@
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00"
   },
   "handled": [
-    "1794841296060",
-    "1794844988781",
     "1794825786707",
     "1794832731108",
     "1794833153085",
@@ -25150,18 +25148,13 @@
     "1795213440673",
     "1795214567088",
     "1795298991844",
-    "1795223072777",
     "1795227774724",
     "1795230480359",
     "1795235332711",
-    "1795246877633",
-    "1795250341296",
     "1795257117990",
     "1795273566825",
-    "1795276500949",
     "1795281828369",
     "1795283262906",
-    "1795291674838",
     "1795297972711",
     "1795216137799",
     "1795226340673",
@@ -25177,6 +25170,11 @@
     "1795272771275",
     "1795273224387",
     "1795291620140",
+    "1795274457727",
+    "1795275082862",
+    "1795295264838",
+    "1795296957844",
+    "1795300348949",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26448,6 +26446,7 @@
     "1795197600921",
     "1795199445552",
     "1795220700158",
+    "1795223072777",
     "1795226400009",
     "1795227360196",
     "1795227600534",
@@ -26481,6 +26480,7 @@
     "1795245046162",
     "1795245512500",
     "1795245573556",
+    "1795246877633",
     "1795247256813",
     "1795247995169",
     "1795248000009",
@@ -26490,6 +26490,7 @@
     "1795249260551",
     "1795249350902",
     "1795249672071",
+    "1795250341296",
     "1795254332258",
     "1795254600755",
     "1795256113477",
@@ -26503,6 +26504,7 @@
     "1795261772764",
     "1795262274199",
     "1795262360864",
+    "1795262637265",
     "1795263085289",
     "1795263851011",
     "1795264200261",
@@ -26525,10 +26527,9 @@
     "1795270442744",
     "1795270863498",
     "1795271460484",
-    "1795274457727",
-    "1795275082862",
     "1795275240796",
     "1795275458773",
+    "1795276500949",
     "1795277127204",
     "1795277340865",
     "1795277988359",
@@ -26549,10 +26550,9 @@
     "1795284715364",
     "1795285319484",
     "1795291113906",
-    "1795295264838",
-    "1795296957844",
+    "1795291674838",
     "1795297971275",
-    "1795300348949",
+    "1795298751080",
     "1795300371711",
     "1795301601172",
     "2331589",
@@ -26632,7 +26632,7 @@
     "2339665"
   ],
   "last_digest_hour": "2026-11-22T04",
-  "last_success": "2026-11-21T23:01:43.343758+00:00",
+  "last_success": "2026-11-21T23:15:57.951580+00:00",
   "national": {
     "alerted": [
       {
@@ -37163,13 +37163,12 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "NPCI": "2026-11-21T23:02:49.714878+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-21T01:46:44.481001+00:00"
     },
-    "last_run": "2026-11-21T23:02:51.182647+00:00",
+    "last_run": "2026-11-21T23:16:38.340049+00:00",
     "pib_mark": 2339821,
     "seen": [
       "pib:2331418",
@@ -39672,6 +39671,7 @@
       "quake:ncs:M25PL0pKWHMrREJ2YWJoWlA0V1ROUT09",
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|PS HAUZ KHAS APPREHENDS DELIVERY BOY INVOLVED IN VEHICLE THEFT, TWO STOLEN VEHICLES RECOVERED, TWO CASES WORKED OUT",
       "quake:ncs:OGZVanFUTEpZaGNaZFBhcTZZbVlDdz09",
+      "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|SH. ANURAG KUMAR, IPS, COMMISSIONER OF POLICE, DELHI, HOLDS JAN SUNWAI AT PS SUBZI MANDI AND WOMEN POLICE STATION, NORTH DISTRICT AND ALSO HELD AN INTERACTIVE SESSION WITH THE POLICE PERSONNEL.",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -40152,7 +40152,6 @@
       "gazette:CG-OR-E-21112026-278120",
       "gazette:CG-MH-E-21112026-278121",
       "gazette:CG-AP-E-21112026-278119",
-      "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|SH. ANURAG KUMAR, IPS, COMMISSIONER OF POLICE, DELHI, HOLDS JAN SUNWAI AT PS SUBZI MANDI AND WOMEN POLICE STATION, NORTH DISTRICT AND ALSO HELD AN INTERACTIVE SESSION WITH THE POLICE PERSONNEL.",
       "gazette:CG-AP-E-21112026-278124",
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|01 DESPERATE THIEF ARRESTED, 03 THEFT CASES WORKED OUT WITH RECOVERY OF 02 STOLEN MOTORCYCLES AND 01 MOBILE PHONE, BY ANTI BURGLARY CELL, DWARKA DISTRICT.",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-inauguration-of-nitish-setu-and-launch-of-other-development-projects-in-vaishali-bihar",
@@ -40177,9 +40176,6 @@
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "NPCI": {
-        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -41499,7 +41495,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-21T23:01:43.859301+00:00",
+    "last_server_run": "2026-11-21T23:15:58.365401+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-21T21:46:43.737829+00:00",
@@ -55491,9 +55487,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-21T23:02:54.485158+00:00",
+    "last_run": "2026-11-21T23:16:44.766831+00:00",
     "seen": [
-      "x:2122915366342959189",
       "x:2122915608497213604",
       "x:2122916707266433322",
       "x:2122916787692196033",
@@ -58492,7 +58487,8 @@
       "x:2124208815310872725",
       "x:2124211429855351053",
       "x:2124266059285004338",
-      "x:2124271671372820732"
+      "x:2124271671372820732",
+      "x:2124279124906913987"
     ],
     "source_failures": {},
     "sources": []
