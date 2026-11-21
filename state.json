@@ -17570,7 +17570,7 @@
         "State: Uttar Pradesh": "2026-11-21T14:32:53.964114+00:00"
       }
     },
-    "last_run": "2026-11-21T17:32:43.964439+00:00",
+    "last_run": "2026-11-21T17:47:51.529645+00:00",
     "pib_mark": 2339821,
     "seen": [
       "page:https://internal.imd.gov.in/press_release/20261101_pr_5456.pdf",
@@ -20103,6 +20103,7 @@
       "gazette:CG-DL-E-21112026-278105",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-to-visit-bihar-on-21-november",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-to-visit-west-bengal-and-uttar-pradesh-on-21-november",
+      "site:Delhi Police press releases|dp-press:11/20/2026 12:00:00 AM|SOUTH DISTRICT POLICE STRENGTHENS WOMEN AND STUDENT SAFETY THROUGH \u2018SASHAKTI\u2019 SCHEME, ORGANISES SELF DEFENCE WORKSHOP AT AMBEDKAR NAGAR SCHOOL.",
       "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-lok-sabha-sri-rahul-gandhi-participates-in-valedictory-session-of-bharat-summit-2026-at-hicc-madhapur-hyd/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-foundation-laying-ceremony-of-the-phfi-institute-of-public-health-sciences-campus-in-hyd/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/8%e0%b0%b5-%e0%b0%96%e0%b1%87%e0%b0%b2%e0%b1%8b-%e0%b0%87%e0%b0%82%e0%b0%a1%e0%b0%bf%e0%b0%af%e0%b0%be-%e0%b0%af%e0%b1%82%e0%b0%a4%e0%b1%8d-%e0%b0%97%e0%b1%87%e0%b0%ae%e0%b1%8d%e0%b0%b8%e0%b1%8d/",
@@ -20473,7 +20474,6 @@
       "mea:41986",
       "pib:2339423",
       "mea:41987",
-      "site:Delhi Police press releases|dp-press:11/20/2026 12:00:00 AM|SOUTH DISTRICT POLICE STRENGTHENS WOMEN AND STUDENT SAFETY THROUGH \u2018SASHAKTI\u2019 SCHEME, ORGANISES SELF DEFENCE WORKSHOP AT AMBEDKAR NAGAR SCHOOL.",
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|Meticulous investigation by PS Nand Nagri of North East District led to the Conviction in a murder case.",
       "gazette:CG-AS-E-21112026-278110",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-the-southern-rising-summit-2026-abp-networks-conclave-in-hyd/",
@@ -20638,11 +20638,6 @@
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00"
   },
   "handled": [
-    "1794830418669",
-    "1794833856024",
-    "1794833871143",
-    "1794835681475",
-    "1794836760909",
     "1794492000669",
     "1794823562163",
     "1794837681115",
@@ -25145,7 +25140,6 @@
     "1795248000842",
     "1795248847774",
     "1795249060720",
-    "1795253430370",
     "1795257746467",
     "1795259149707",
     "1795261202906",
@@ -25153,9 +25147,7 @@
     "1795279877949",
     "1795280408080",
     "1795280408844",
-    "1795211161393",
     "1795223072777",
-    "1795233567487",
     "1795243151129",
     "1795246877633",
     "1795248780157",
@@ -25169,6 +25161,14 @@
     "1795272377906",
     "1795273843630",
     "1795277988359",
+    "1795210875171",
+    "1795213440673",
+    "1795213768804",
+    "1795223560140",
+    "1795233526487",
+    "1795266292676",
+    "1795275082862",
+    "1795280943009",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26452,18 +26452,15 @@
     "1795207987250",
     "1795208250961",
     "1795208287753",
-    "1795210875171",
+    "1795211161393",
     "1795211760350",
     "1795211888919",
     "1795212120284",
     "1795212707182",
     "1795213241062",
-    "1795213440673",
-    "1795213768804",
     "1795214567088",
     "1795217760219",
     "1795222813544",
-    "1795223560140",
     "1795226400009",
     "1795227360196",
     "1795228200935",
@@ -26474,8 +26471,8 @@
     "1795231258446",
     "1795231529547",
     "1795232752123",
-    "1795233526487",
     "1795233540285",
+    "1795233567487",
     "1795233600975",
     "1795234242907",
     "1795234380050",
@@ -26510,6 +26507,7 @@
     "1795249350902",
     "1795249672071",
     "1795252080491",
+    "1795253430370",
     "1795254332258",
     "1795254600755",
     "1795256113477",
@@ -26536,7 +26534,7 @@
     "1795266006780",
     "1795266015705",
     "1795266071206",
-    "1795266292676",
+    "1795266291398",
     "1795266300312",
     "1795266449900",
     "1795267581069",
@@ -26548,21 +26546,23 @@
     "1795270442744",
     "1795270860275",
     "1795270863498",
-    "1795275082862",
     "1795275240491",
     "1795275240796",
     "1795275458773",
     "1795276160844",
     "1795276500949",
     "1795277127204",
+    "1795277160140",
     "1795277988265",
+    "1795278759847",
     "1795279080764",
     "1795279260930",
     "1795279728345",
     "1795279858897",
     "1795279920959",
-    "1795280943009",
+    "1795280410276",
     "1795282080624",
+    "1795282365009",
     "2331589",
     "2331704",
     "2331803",
@@ -26640,7 +26640,7 @@
     "2339665"
   ],
   "last_digest_hour": "2026-11-21T23",
-  "last_success": "2026-11-21T17:31:33.425678+00:00",
+  "last_success": "2026-11-21T17:46:42.284563+00:00",
   "national": {
     "alerted": [
       {
@@ -37171,16 +37171,16 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-21T17:47:34.350307+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00",
         "State: Uttar Pradesh": "2026-11-21T01:32:10.207193+00:00"
       },
       "warned": "2026-11-21T01:46:44.481001+00:00"
     },
-    "last_run": "2026-11-21T17:32:22.394506+00:00",
-    "pib_mark": 2339781,
+    "last_run": "2026-11-21T17:47:37.483700+00:00",
+    "pib_mark": 2339821,
     "seen": [
-      "pib:2331397",
       "pib:2331406",
       "pib:2331418",
       "pib:2331429",
@@ -39647,6 +39647,7 @@
       "gazette:CG-DL-E-21112026-278105",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-to-visit-bihar-on-21-november",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-to-visit-west-bengal-and-uttar-pradesh-on-21-november",
+      "site:Delhi Police press releases|dp-press:11/20/2026 12:00:00 AM|SOUTH DISTRICT POLICE STRENGTHENS WOMEN AND STUDENT SAFETY THROUGH \u2018SASHAKTI\u2019 SCHEME, ORGANISES SELF DEFENCE WORKSHOP AT AMBEDKAR NAGAR SCHOOL.",
       "cci-merger:C-2026/09/1463|Approved",
       "cci-merger:C-2026/10/1485|Deemed Approved (Section 6(5))",
       "cci-merger:C-2026/07/1443|Approved",
@@ -40077,7 +40078,6 @@
       "mea:41987",
       "mea:41986",
       "pib:2339423",
-      "site:Delhi Police press releases|dp-press:11/20/2026 12:00:00 AM|SOUTH DISTRICT POLICE STRENGTHENS WOMEN AND STUDENT SAFETY THROUGH \u2018SASHAKTI\u2019 SCHEME, ORGANISES SELF DEFENCE WORKSHOP AT AMBEDKAR NAGAR SCHOOL.",
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|Meticulous investigation by PS Nand Nagri of North East District led to the Conviction in a murder case.",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-chief-minister-sri-a-revanth-reddy-participates-in-the-southern-rising-summit-2026-abp-networks-conclave-in-hyd/",
       "gazette:CG-AS-E-21112026-278110",
@@ -40179,12 +40179,16 @@
       "pib:2339781",
       "pib:2339773",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-5th-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-participation-in-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh"
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-participation-in-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh",
+      "pib:2339821"
     ],
     "source_failures": {
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "NPCI": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -41452,7 +41456,7 @@
     "news: big tech platforms": 1795282080624,
     "news: consumer internet india": 1795279858897,
     "news: global ai": 1795279920959,
-    "news: global chips": 1795279877949,
+    "news: global chips": 1795280410276,
     "news: global it services": 1795228952983,
     "news: india ai deeptech": 1795263060816,
     "news: india edtech gaming": 1795239878648,
@@ -41463,7 +41467,7 @@
     "news: indian it majors": 1795277988359,
     "news: indian it midcaps": 1795246273528,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1795280943009,
+    "news: tech leaders": 1795282365009,
     "nvidia": 1795125600581,
     "nvidia blog": 1795118415491,
     "openai": 1795168800643,
@@ -41491,7 +41495,7 @@
   },
   "source_health": {
     "down": {
-      "News: India telecom": "2026-11-21T17:31:25.657639+00:00"
+      "REG NPCI": "2026-11-21T17:46:37.548743+00:00"
     }
   },
   "watch": {
@@ -41510,7 +41514,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-21T17:31:33.919868+00:00",
+    "last_server_run": "2026-11-21T17:46:42.611752+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-21T17:17:11.834133+00:00",
@@ -55502,10 +55506,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-21T17:32:30.606970+00:00",
+    "last_run": "2026-11-21T17:47:44.113791+00:00",
     "seen": [
-      "x:2122910121583898748",
-      "x:2122910168019239133",
       "x:2122910168052650401",
       "x:2122910168690446532",
       "x:2122910957395718379",
@@ -58503,7 +58505,9 @@
       "x:2124192260648747378",
       "x:2124192725138555177",
       "x:2124192891576963138",
-      "x:2124193096430923863"
+      "x:2124193096430923863",
+      "x:2124194027927142638",
+      "x:2124195193369010378"
     ],
     "source_failures": {},
     "sources": []
