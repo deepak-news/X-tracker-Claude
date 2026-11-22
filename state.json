@@ -17564,7 +17564,7 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-22T18:38:45.158793+00:00",
+    "last_run": "2026-11-22T18:54:10.700394+00:00",
     "pib_mark": 2340145,
     "seen": [
       "gazette:CG-DL-E-30102026-277532",
@@ -20627,11 +20627,6 @@
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00"
   },
   "handled": [
-    "1794851693577",
-    "1794854145373",
-    "1794855971176",
-    "1794860340794",
-    "1794863118702",
     "1794864701167",
     "1794878040115",
     "1794883193893",
@@ -24989,7 +24984,6 @@
     "1795287799425",
     "1795255948268",
     "1795300727847",
-    "1795323606659",
     "1795332508844",
     "1795336778949",
     "1795254296518",
@@ -25079,8 +25073,6 @@
     "1795270863498",
     "1795345620983",
     "1795272074801",
-    "1795324826500",
-    "1795336260799",
     "1795350628965",
     "1795315517102",
     "1795317084776",
@@ -25147,7 +25139,6 @@
     "1795357066196",
     "1795359678990",
     "1795308799496",
-    "1795326607811",
     "1795329614846",
     "1795334219223",
     "1795342123766",
@@ -25176,23 +25167,23 @@
     "1795366386675",
     "1793844000135",
     "1795322728304",
-    "1795322951351",
     "1795331750318",
-    "1795339800690",
     "1795335345293",
     "1795348736293",
     "1795359881442",
     "1795365619981",
     "1792713600078",
     "1795285116656",
-    "1795305600891",
-    "1795329822148",
-    "1795338650953",
-    "1795347300551",
-    "1795352840511",
-    "1795369987879",
     "1795370944844",
-    "1795371019981",
+    "1795322951944",
+    "1795323656659",
+    "1795340092009",
+    "1795343474586",
+    "1795352820506",
+    "1795363835272",
+    "1795367160390",
+    "1795368729675",
+    "1795371181195",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26463,7 +26454,9 @@
     "1795232752123",
     "1795258800773",
     "1795291397097",
+    "1795304091884",
     "1795305600753",
+    "1795305600891",
     "1795309320555",
     "1795311093894",
     "1795312795342",
@@ -26474,15 +26467,18 @@
     "1795319820590",
     "1795319919295",
     "1795320060185",
-    "1795322951944",
-    "1795323656659",
+    "1795322951351",
+    "1795323606659",
     "1795323660494",
     "1795323928110",
     "1795324479952",
+    "1795324826500",
     "1795324827135",
     "1795324828183",
     "1795325460830",
+    "1795326607811",
     "1795327200130",
+    "1795329822148",
     "1795331980833",
     "1795332871177",
     "1795333290580",
@@ -26491,11 +26487,13 @@
     "1795334375637",
     "1795334777021",
     "1795334802794",
+    "1795336260799",
     "1795336811576",
     "1795336925010",
+    "1795338650953",
     "1795338690432",
     "1795338840031",
-    "1795340092009",
+    "1795339800690",
     "1795340102195",
     "1795340402948",
     "1795340773746",
@@ -26503,13 +26501,14 @@
     "1795342215251",
     "1795342691824",
     "1795343220844",
-    "1795343474586",
+    "1795343500009",
     "1795344600987",
     "1795344631628",
     "1795345200856",
     "1795345205558",
     "1795345380041",
     "1795346571275",
+    "1795347300551",
     "1795347420870",
     "1795347805947",
     "1795347900390",
@@ -26521,7 +26520,7 @@
     "1795350660811",
     "1795350749032",
     "1795351345879",
-    "1795352820506",
+    "1795352840511",
     "1795354142822",
     "1795354207350",
     "1795355502736",
@@ -26534,23 +26533,24 @@
     "1795362480295",
     "1795362900460",
     "1795363200104",
-    "1795363835272",
+    "1795363835939",
     "1795364272725",
     "1795364722652",
     "1795365801887",
     "1795365960748",
     "1795366198684",
     "1795367146700",
-    "1795367160390",
     "1795367835940",
-    "1795368729675",
+    "1795369987879",
     "1795370040131",
     "1795370131916",
     "1795370436747",
+    "1795371019981",
     "1795371061832",
     "1795371111626",
-    "1795371181195",
+    "1795371180849",
     "1795371240118",
+    "1795372200904",
     "2331589",
     "2331704",
     "2331803",
@@ -26629,7 +26629,7 @@
     "2339914"
   ],
   "last_digest_hour": "2026-11-23T00",
-  "last_success": "2026-11-22T18:31:29.540158+00:00",
+  "last_success": "2026-11-22T18:46:44.147200+00:00",
   "national": {
     "alerted": [
       {
@@ -37162,12 +37162,13 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "NPCI": "2026-11-22T18:53:53.305219+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-22T02:02:20.591095+00:00"
     },
-    "last_run": "2026-11-22T18:38:20.955632+00:00",
+    "last_run": "2026-11-22T18:53:54.544190+00:00",
     "pib_mark": 2340145,
     "seen": [
       "pib:2331839",
@@ -40176,6 +40177,9 @@
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
+      "NPCI": {
+        "count": 1
+      },
       "State: Maharashtra": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
@@ -40240,7 +40244,44 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Prerna Jha returns to Jio Studios as AVP Marketing",
+      "post": {
+        "created_at": "2026-11-22T16:10:35+00:00",
+        "handle": "News: India telecom",
+        "id": "1795363835939",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "Mint",
+        "reposts": 0,
+        "text": "Who is Prerna Jha? Former Zee5 executive returns to Jio Studios as AVP \u2013 Marketing; what did she say?",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSUhOOHYzOXVSckhzOEZ5VXotSVd5MzNObkR6ZTRWZV9fNU5TcGNDbEZLRlVtSlB5TG9uUnhDZV9HT2owdE9xZHhqNXdqT0J0R05JLW9NaVVHczF4Zmd4TGZfMHhvVXFMcWNOclBUbGtRS2RweHBfbFh4c203eFpMY3pGaTdHdnBVT01Fc19uUGcwRFZaYmJxT2JySmdqci1ENGpyQ0o2ZUJSU0tIYW9rSlNBQXpUenZ0YXgwZGJTV0N5cm9ObUkxSVp0UTlOOHE2a2VrNHY1T2t5SDVHOW1BbGlaeTVDb3RoMGxBM3BTQdIB9AFBVV95cUxOdEQ1a293TUJPSFJqSENMcHlHcEJjSG42ZHdjUi16NURSUWZfU2FYN0dnam8weFd0ZFFPU3NPYXRMUzJRZzdLQWFhSFRfYjZtcW53VFdtMkFadHBWanZUMGJ2Qjg2ZXpGQ1VuQ1BHdnk5WWNNclVaZmFlVDhMbVFKcnBMR1U1bXkzY3JVNkNSZUYzS3RWc2dOaDRILTgtQnNQLWxZN2ZKZ2QybkhaZVZsSzh6V3hDRXdiS0NPNkNheFN6ay1xZ25pVUFnX1U2VVdCTkhyX3BTeVppcS1sdHI2aWtQX2hvQVczR3pKcHdUZmZKZklT?oc=5"
+      },
+      "queued_at": "2026-11-22T18:46:44.065344+00:00",
+      "score": 7.0,
+      "why": "Leadership change at a major telecom and media company."
+    },
+    {
+      "headline": "OpenAI Foundation and Rockefeller Foundation launch $50 million AI initiative",
+      "post": {
+        "created_at": "2026-11-22T18:30:00+00:00",
+        "handle": "News: Global AI",
+        "id": "1795372200904",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "The Times of India",
+        "reposts": 0,
+        "text": "Sam Altman\u2019s OpenAI Foundation joins Rockefeller Foundation to launch $50 million AI initiative for citie",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQZ2tGcUtWbGtRaW53d2s4blpWdzR0TFcwXy1RWnl5cWdadXREVVNlLXg4WHVCQ1c0VEY4RzQ4U19BUTFrQlNMLUoxenctTjJJNS12aTVBem1UbkJWbFNBVlkxdjA1YUh6QWxhYkpFSEw4dkVaR29PUVRzMHIzS0R4dTJLUEM5b3ItcXFDcC1FcF9lTWlTc2pQREptV0FQRzZiSGY5QWw4S1NTaENVMEFQRGM5enAtUHlMUnMzaDhOM0diMm9MamprZnJNbGM0SDNjWUpDQVlFX29FaTIwY0JMOTVjYjV1TkNjM0JjQkY5aWNmbmZyY29mSE50dWsxT21RT3hIUVN5VHBRNTA1akcxTXVoQnNualNMY285dDN0MXowVllMcXo2ZzBfaXBoc1ZkWjBmSlljUVRKVkFZa1VXazJYS1M3a1dPRk5XUUNHRmRsVi0tdjRYb2NKVUlWMlnSAeQCQVVfeXFMT05zNUtBMWNQMlZ0dXpnNUtCU2pXUG9KbTU0N1NGME56WGVMRWs2UGppeXJkSTZfSEM3Q1d0N1VxRFNlcWU0U0ppbVl5MllwVXBCMW5lVTFlaHlsZ2hkNnFZZTVTRm1ac0w2eGREbHZZUzI2TFY2Vi04QTJIekljTzFPeU1CdFExbW1CX0NaY2xEVTN3MTAyRTNSWk9zVkpmTVpMbzZodEJwdFotWEszb3VkVHJWN3Rvc3I3T1N5YVYtNXY2dzJRckdGdGk2STRoaUFWck02STFheVFaeUVhTGRlaFhFZTQ3VU1IblhKRXNBVjFfdUJDMU5Tcy1tWTRDVG1ueHRxLUFibGVEcF9zc3pDRXB3bHVXeG5RVWRpQUYxam1NVUtuRlhha25WQkExUEtpR1FDLXpJX0E1ak5qcnR1Q3NEQm1tbTA1aGVNdU52ZkdONVJld0dUTGRMRUFfd3d2dHQ?oc=5"
+      },
+      "queued_at": "2026-11-22T18:46:44.065344+00:00",
+      "score": 7.0,
+      "why": "Major AI foundation initiative involving OpenAI."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41438,19 +41479,19 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1795371240118,
     "news: consumer internet india": 1795362480295,
-    "news: global ai": 1795368729675,
+    "news: global ai": 1795372200904,
     "news: global chips": 1795371111626,
     "news: global it services": 1795358792095,
     "news: india ai deeptech": 1795366198684,
     "news: india edtech gaming": 1795334777021,
     "news: india fintech": 1795354495354,
     "news: india semiconductors": 1795320743268,
-    "news: india tech policy": 1795350320347,
+    "news: india tech policy": 1795370436747,
     "news: india telecom": 1795371181195,
     "news: indian it majors": 1795370436747,
     "news: indian it midcaps": 1795350420801,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1795371111626,
+    "news: tech leaders": 1795372200904,
     "nvidia": 1795125600581,
     "nvidia blog": 1795118415491,
     "openai": 1795305600753,
@@ -41478,7 +41519,6 @@
   },
   "source_health": {
     "down": {
-      "News: Tech leaders": "2026-11-22T18:31:24.561175+00:00",
       "REG NPCI": "2026-11-22T18:31:24.561175+00:00"
     }
   },
@@ -41498,7 +41538,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-22T18:31:29.984311+00:00",
+    "last_server_run": "2026-11-22T18:46:44.658742+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-22T17:49:53.468870+00:00",
@@ -55369,9 +55409,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-22T18:38:25.309992+00:00",
+    "last_run": "2026-11-22T18:53:59.658126+00:00",
     "seen": [
-      "x:2123081479282737518",
       "x:2123081555015053612",
       "x:2123081944468791792",
       "x:2123082121598410829",
@@ -58370,7 +58409,8 @@
       "x:2124564855936160087",
       "x:2124565032034066569",
       "x:2124565135071338815",
-      "x:2124565636202606845"
+      "x:2124565636202606845",
+      "x:2124575902164308434"
     ],
     "source_failures": {},
     "sources": []
