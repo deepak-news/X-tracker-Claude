@@ -1156,7 +1156,7 @@ site:
     # them; these do not). In the state's own language where that is all it publishes; the AI
     # judges each new release and writes its headline in English.
     - {source: States, sub: Maharashtra, feed: "https://mahasamvad.in/feed/", ai: true, home_only: true, settle_before: "2026-11-23"}   # refuses GitHub and the relay (403): read by the Mac since Nov 22
-    - {source: States, sub: Kerala, feed: "https://prd.kerala.gov.in/rss.xml", exclude: "^Council of Ministers$|ടെന്‍ഡര്‍|ടെൻഡർ|ലേലം|താത്കാലിക നിയമനം|ക്വട്ടേഷന്‍", ai: true}
+    - {source: States, sub: Kerala, feed: "https://prd.kerala.gov.in/rss.xml", exclude: "^Council of Ministers$|ടെന്‍ഡര്‍|ടെൻഡർ|ലേലം|താത്കാലിക നിയമനം|ക്വട്ടേഷന്‍|ക്വട്ടേഷൻ|താൽക്കാലിക നിയമനം", ai: true}   # "exclude" applies to feeds since Nov 22; the site types Malayalam with one-character chillus
     - {source: States, sub: Madhya Pradesh, reader: mp_news, ai: true, home_only: true, settle_before: "2026-11-23"}   # mpinfo.org's news service, Hindi; answers only the Mac (Nov 22)
     # Karnataka's and Gujarat's CM sites refuse GitHub and Cloudflare alike: read by the Mac, as
     # every-row sources the general desk's AI scores afterwards (general_fill), not under "States"

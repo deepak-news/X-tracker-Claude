@@ -26,7 +26,7 @@ More pages and feeds, added 2026-10-11, need no code of their own: each is one l
         part out of the title (BCCI's "Press Releases" label); "within" (a CSS selector)
         reads only part of the page; "min" is the shortest title kept (default 20)
     {source: White House, feed: "https://www.whitehouse.gov/news/feed/", ai: true}
-        an RSS or Atom feed; "only" keeps entries whose title matches
+        an RSS or Atom feed; "only" keeps entries whose title matches, "exclude" drops them
     relay: true      read through the mea-relay Worker on Cloudflare (sites refusing GitHub)
     agent: "..."     the reader's name to give the site, in place of the usual browser one
     home_only: true  read by the Mac's copy (run-watch.sh, WATCH_HOME=1), never on GitHub: for
@@ -465,10 +465,12 @@ def _when(parsed):
 def _feed_rows(entry) -> list:
     parsed = feedparser.parse(_text(entry))
     only = re.compile(entry["only"], re.I) if entry.get("only") else None
+    # "exclude" drops titles, as for a page; feeds ignored it until 2026-11-22 (Kerala's tenders)
+    exclude = re.compile(entry["exclude"], re.I) if entry.get("exclude") else None
     rows = []
     for item in parsed.entries[:MORE_ROWS]:
         title, link = _clean(item.get("title")), (item.get("link") or "").strip()
-        if not title or not link or (only and not only.search(title)):
+        if not title or not link or (only and not only.search(title)) or (exclude and exclude.search(title)):
             continue
         detail = _clean(item.get("summary"))
         rows.append({"key": link, "title": title, "detail": "" if detail == title else detail[:1200], "url": link,
