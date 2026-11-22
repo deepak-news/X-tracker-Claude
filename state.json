@@ -17570,10 +17570,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-22T08:32:23.939293+00:00",
+    "last_run": "2026-11-22T08:47:34.663973+00:00",
     "pib_mark": 2339876,
     "seen": [
-      "pib:2331077",
       "pib:2331082",
       "pib:2331090",
       "pib:2331092",
@@ -20137,6 +20136,7 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168834",
       "feed:http://www.niti.gov.in/node/2452",
       "page:https://internal.imd.gov.in/press_release/20261015_pr_5408.pdf",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-first-sco-civilisational-dialogue-forum",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -20526,7 +20526,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64017",
       "page:https://irdai.gov.in/documents/37343/366347/Press_Release_Star+Health+Order.pdf/b73bc683-27ac-61b7-90d8-968388817767",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-inauguration-of-first-shanghai-cooperation-organisation-sco-civilisational-dialogue-forum-in-delhi",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-first-sco-civilisational-dialogue-forum",
       "mea:41984",
       "mea:41985",
       "mea:41986",
@@ -20572,7 +20571,8 @@
       "feed:http://www.niti.gov.in/node/2465",
       "pib:2339875",
       "pib:2339876",
-      "page:https://internal.imd.gov.in/press_release/20261122_pr_5516.pdf"
+      "page:https://internal.imd.gov.in/press_release/20261122_pr_5516.pdf",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-passing-of-shri-ramrao-wadkute-ji"
     ],
     "source_failures": {},
     "sources": [
@@ -20633,10 +20633,6 @@
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00"
   },
   "handled": [
-    "1794854615673",
-    "1794855861702",
-    "1794856620794",
-    "1794858591068",
     "1794859281115",
     "1794860760347",
     "1794776280427",
@@ -25054,7 +25050,6 @@
     "1795220700158",
     "1795222806641",
     "1795235548449",
-    "1795258860044",
     "1795299765080",
     "1795301601172",
     "1795223072777",
@@ -25199,7 +25194,6 @@
     "1795329614846",
     "1795332692381",
     "1795248203076",
-    "1795300727847",
     "1795321769193",
     "1795323656659",
     "1795325142080",
@@ -25210,6 +25204,21 @@
     "1795249672071",
     "1795291620140",
     "1795315517102",
+    "1795266001202",
+    "1795277127204",
+    "1795279140930",
+    "1795279920959",
+    "1795283908853",
+    "1795284000009",
+    "1795287799425",
+    "1795315080999",
+    "1795317855929",
+    "1795319820590",
+    "1795319919295",
+    "1795320743268",
+    "1795321711238",
+    "1795329822148",
+    "1795333500402",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26492,6 +26501,7 @@
     "1795257855354",
     "1795258146489",
     "1795258800773",
+    "1795258860044",
     "1795259175007",
     "1795261729675",
     "1795261772764",
@@ -26502,7 +26512,6 @@
     "1795264200261",
     "1795264379870",
     "1795265990706",
-    "1795266001202",
     "1795266449900",
     "1795269845770",
     "1795270440662",
@@ -26512,36 +26521,27 @@
     "1795274457727",
     "1795275240796",
     "1795276500949",
-    "1795277127204",
     "1795277988359",
     "1795278929492",
-    "1795279140930",
     "1795279728345",
     "1795279858250",
-    "1795279920959",
     "1795281083438",
     "1795283700424",
-    "1795283908853",
-    "1795284000009",
     "1795284715364",
-    "1795287799425",
+    "1795300727847",
     "1795305300623",
     "1795311034508",
+    "1795312795342",
     "1795312800531",
-    "1795315080999",
     "1795315854473",
     "1795316940237",
     "1795317084776",
     "1795317111887",
-    "1795317855929",
     "1795319425952",
-    "1795319820590",
-    "1795319919295",
     "1795320717504",
-    "1795320743268",
     "1795321446676",
-    "1795321711238",
     "1795321723041",
+    "1795322951944",
     "1795323606659",
     "1795323660494",
     "1795323928110",
@@ -26552,12 +26552,12 @@
     "1795327200130",
     "1795327487306",
     "1795328700216",
-    "1795329822148",
     "1795329898083",
+    "1795330669425",
     "1795331980262",
     "1795332508844",
     "1795333290580",
-    "1795333500402",
+    "1795336811576",
     "2331589",
     "2331704",
     "2331803",
@@ -26635,7 +26635,7 @@
     "2339665"
   ],
   "last_digest_hour": "2026-11-22T14",
-  "last_success": "2026-11-22T08:31:32.370004+00:00",
+  "last_success": "2026-11-22T08:46:14.246659+00:00",
   "national": {
     "alerted": [
       {
@@ -37178,10 +37178,9 @@
       },
       "warned": "2026-11-22T02:02:20.591095+00:00"
     },
-    "last_run": "2026-11-22T08:32:10.240488+00:00",
+    "last_run": "2026-11-22T08:47:09.386279+00:00",
     "pib_mark": 2339876,
     "seen": [
-      "pib:2331541",
       "pib:2331552",
       "pib:2331561",
       "pib:2331557",
@@ -39685,6 +39684,7 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168834",
       "feed:http://www.niti.gov.in/node/2452",
       "page:https://internal.imd.gov.in/press_release/20261015_pr_5408.pdf",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-first-sco-civilisational-dialogue-forum",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -40134,7 +40134,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64017",
       "page:https://irdai.gov.in/documents/37343/366347/Press_Release_Star+Health+Order.pdf/b73bc683-27ac-61b7-90d8-968388817767",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-inauguration-of-first-shanghai-cooperation-organisation-sco-civilisational-dialogue-forum-in-delhi",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-first-sco-civilisational-dialogue-forum",
       "mea:41984",
       "mea:41985",
       "mea:41987",
@@ -40180,7 +40179,8 @@
       "feed:http://www.niti.gov.in/node/2465",
       "pib:2339875",
       "pib:2339876",
-      "page:https://internal.imd.gov.in/press_release/20261122_pr_5516.pdf"
+      "page:https://internal.imd.gov.in/press_release/20261122_pr_5516.pdf",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-passing-of-shri-ramrao-wadkute-ji"
     ],
     "source_failures": {
       "CBI": {
@@ -41449,13 +41449,13 @@
     "news: big tech platforms": 1795329898083,
     "news: consumer internet india": 1795331980262,
     "news: global ai": 1795333500402,
-    "news: global chips": 1795332508844,
+    "news: global chips": 1795336811576,
     "news: global it services": 1795333290580,
-    "news: india ai deeptech": 1795324827135,
+    "news: india ai deeptech": 1795330669425,
     "news: india edtech gaming": 1795239878648,
     "news: india fintech": 1795269845770,
     "news: india semiconductors": 1795320743268,
-    "news: india tech policy": 1795270863498,
+    "news: india tech policy": 1795322951944,
     "news: india telecom": 1795323928110,
     "news: indian it majors": 1795333290694,
     "news: indian it midcaps": 1795324828183,
@@ -41487,7 +41487,9 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "News: Global AI": "2026-11-22T08:45:59.401657+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -41505,17 +41507,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-22T08:31:32.774613+00:00",
+    "last_server_run": "2026-11-22T08:46:14.739661+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-22T06:32:12.241278+00:00",
+        "checked": "2026-11-22T08:46:52.197927+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-22T06:32:04.187350+00:00",
+        "checked": "2026-11-22T08:46:44.360398+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -41591,7 +41593,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-22T06:32:07.974916+00:00",
+        "checked": "2026-11-22T08:46:48.250456+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -55451,23 +55453,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-22T08:32:16.128493+00:00",
+    "last_run": "2026-11-22T08:47:17.875983+00:00",
     "seen": [
-      "x:2122984246990217415",
-      "x:2122984398727643603",
-      "x:2122984711870181569",
-      "x:2122984723152785766",
-      "x:2122984893345071133",
-      "x:2122985076493549603",
-      "x:2122985173658845365",
-      "x:2122985574713958524",
-      "x:2122985793379799177",
-      "x:2122986074830155819",
-      "x:2122986077120057497",
-      "x:2122986455517855882",
-      "x:2122986636816551943",
-      "x:2122987126916841779",
-      "x:2122987361353023804",
       "x:2122987393104183657",
       "x:2122987927068455000",
       "x:2122988106886545589",
@@ -58452,7 +58439,22 @@
       "x:2124416914994893265",
       "x:2124417080120545650",
       "x:2124417573844619676",
-      "x:2124418927388405780"
+      "x:2124418927388405780",
+      "x:2124419937561358647",
+      "x:2124420097918021947",
+      "x:2124420116406235610",
+      "x:2124420118323077456",
+      "x:2124420119749398905",
+      "x:2124420489598959775",
+      "x:2124420717852942576",
+      "x:2124420752627945502",
+      "x:2124420894655426982",
+      "x:2124421011236127164",
+      "x:2124421636502028753",
+      "x:2124422701322514451",
+      "x:2124423020513292532",
+      "x:2124423351825486274",
+      "x:2124423363544469544"
     ],
     "source_failures": {},
     "sources": []
