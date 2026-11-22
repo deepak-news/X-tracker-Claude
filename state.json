@@ -17567,10 +17567,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-22T03:33:10.653517+00:00",
+    "last_run": "2026-11-22T03:46:59.933402+00:00",
     "pib_mark": 2339821,
     "seen": [
-      "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-vaisava-nava-nairamaana",
       "feed:http://www.presidentofindia.gov.in/speeches/savaisa-paraisangha-kae-raasatarapatai-mahaamahaima-sarai-gai-paaramaelaan-kae-samamaana",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-congratulates-isro-scientists-and-engineers-on-successful-launch-of-gslv-f18-carrying-nvs-03",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-pays-tribute-to-sardar-vallabhbhai-patel-on-his-birth-anniversary",
@@ -20569,7 +20568,8 @@
       "gazette:CG-DL-E-21112026-278125",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-participation-in-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-5th-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168834"
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168851"
     ],
     "source_failures": {},
     "sources": [
@@ -20630,8 +20630,6 @@
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00"
   },
   "handled": [
-    "1794849725726",
-    "1794851324625",
     "1794851760999",
     "1794502800518",
     "1787170500318",
@@ -25105,7 +25103,6 @@
     "1795248847774",
     "1795300348949",
     "1795250341296",
-    "1795262637265",
     "1795291674838",
     "1795297971275",
     "1795298751080",
@@ -25173,7 +25170,6 @@
     "1795280410276",
     "1795302000711",
     "1795304152688",
-    "1795312800531",
     "1795228952983",
     "1795314154844",
     "1795229740733",
@@ -25194,6 +25190,13 @@
     "1795281776289",
     "1795289766825",
     "1795311090381",
+    "1795236723458",
+    "1795237034202",
+    "1795243142447",
+    "1795255075341",
+    "1795270971275",
+    "1795311074512",
+    "1795312871531",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26470,9 +26473,7 @@
     "1795234380050",
     "1795235085762",
     "1795235302356",
-    "1795236723458",
     "1795237004182",
-    "1795237034202",
     "1795237215741",
     "1795237493745",
     "1795238712350",
@@ -26480,7 +26481,6 @@
     "1795239878648",
     "1795240500359",
     "1795241589138",
-    "1795243142447",
     "1795243560870",
     "1795243980277",
     "1795244293352",
@@ -26502,7 +26502,6 @@
     "1795249672071",
     "1795254332258",
     "1795254600755",
-    "1795255075341",
     "1795255800543",
     "1795255948268",
     "1795256113477",
@@ -26516,6 +26515,7 @@
     "1795261772764",
     "1795262274199",
     "1795262360864",
+    "1795262637265",
     "1795263851011",
     "1795264200261",
     "1795264379870",
@@ -26528,8 +26528,8 @@
     "1795270440662",
     "1795270442744",
     "1795270863498",
-    "1795270971275",
     "1795271460484",
+    "1795271604275",
     "1795275240796",
     "1795275458773",
     "1795276500949",
@@ -26549,12 +26549,12 @@
     "1795300727847",
     "1795305300623",
     "1795311034508",
-    "1795311074512",
-    "1795312871531",
+    "1795312800531",
     "1795315080999",
     "1795315478080",
     "1795315517102",
     "1795316940237",
+    "1795317855929",
     "2331589",
     "2331704",
     "2331803",
@@ -26632,7 +26632,7 @@
     "2339665"
   ],
   "last_digest_hour": "2026-11-22T09",
-  "last_success": "2026-11-22T03:31:53.000215+00:00",
+  "last_success": "2026-11-22T03:46:03.528860+00:00",
   "national": {
     "alerted": [
       {
@@ -37168,10 +37168,9 @@
       },
       "warned": "2026-11-22T02:02:20.591095+00:00"
     },
-    "last_run": "2026-11-22T03:32:54.257443+00:00",
+    "last_run": "2026-11-22T03:46:43.510453+00:00",
     "pib_mark": 2339821,
     "seen": [
-      "pib:2331418",
       "pib:2331429",
       "pib:2331443",
       "pib:2331444",
@@ -39679,6 +39678,7 @@
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|INTER STATE OPERATION IN JAMTARA , JHARKHAND AND ADJOINING STATES UP, WEST BENGAL AND BIHAR.",
       "site:Delhi Police press releases|dp-press:11/21/2026 12:00:00 AM|DWARKA DISTRICT ORGANISES INTENSIVE COMMUNITY POLICING CAMPAIGN ON WOMEN AND CHILD SAFETY, STUDENTS SENSITISED THROUGH AWARENESS PROGRAMMES AND SELF DEFENCE TRAINING.",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168854",
+      "quake:ncs:Z0VMRndzSzIxYjR4QlBKMnJBUXRiZz09",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -40166,11 +40166,11 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-applauds-enthusiasm-of-young-participants-at-bhajan-clubbing-event-in-varanasi-up",
       "page:https://www.pmindia.gov.in/en/news_updates/cm-of-uttarakhand-meets-the-pm-2",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-lays-foundation-stones-for-and-dedicates-to-the-nation-development-projects-worth-around-rs-34470-crore-in-vaishali-bihar",
-      "quake:ncs:Z0VMRndzSzIxYjR4QlBKMnJBUXRiZz09",
       "gazette:CG-DL-E-21112026-278125",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-5th-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-participation-in-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168834"
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168851"
     ],
     "source_failures": {
       "CBI": {
@@ -41438,7 +41438,7 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1795316940237,
     "news: consumer internet india": 1795279858897,
-    "news: global ai": 1795315080999,
+    "news: global ai": 1795317855929,
     "news: global chips": 1795315517102,
     "news: global it services": 1795230480359,
     "news: india ai deeptech": 1795304152688,
@@ -41495,7 +41495,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-22T03:31:53.431260+00:00",
+    "last_server_run": "2026-11-22T03:46:03.957508+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-22T02:16:47.365228+00:00",
@@ -55487,18 +55487,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-22T03:33:01.069667+00:00",
+    "last_run": "2026-11-22T03:46:50.829655+00:00",
     "seen": [
-      "x:2122937706347192641",
-      "x:2122938095951810681",
-      "x:2122938181024899306",
-      "x:2122938314126942462",
-      "x:2122938615064129849",
-      "x:2122939342498984118",
-      "x:2122939741910036810",
-      "x:2122939841596006502",
-      "x:2122940157053526369",
-      "x:2122940193955340490",
       "x:2122940366932582880",
       "x:2122940377506447554",
       "x:2122940403573776740",
@@ -58488,7 +58478,17 @@
       "x:2124340103258771700",
       "x:2124340845054750733",
       "x:2124341814555750870",
-      "x:2124341971137564795"
+      "x:2124341971137564795",
+      "x:2124344655613710763",
+      "x:2124344747854794862",
+      "x:2124345001065009276",
+      "x:2124345133256917340",
+      "x:2124345877359669616",
+      "x:2124346157182972408",
+      "x:2124347135449571586",
+      "x:2124347198054035964",
+      "x:2124347625755582822",
+      "x:2124347776264024509"
     ],
     "source_failures": {},
     "sources": []
