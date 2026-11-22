@@ -17566,10 +17566,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-22T20:52:56.280367+00:00",
+    "last_run": "2026-11-22T21:08:58.855634+00:00",
     "pib_mark": 2340145,
     "seen": [
-      "gazette:CG-DL-E-30102026-277532",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-chinmaya-amrit-mahotsav-global-sammelan",
       "gazette:CG-DL-E-30102026-277536",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63889",
@@ -20568,7 +20567,8 @@
       "mea:41991",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168852",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168855",
-      "site:who-don:2026-DON625"
+      "site:who-don:2026-DON625",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu"
     ],
     "source_failures": {},
     "sources": [
@@ -20629,7 +20629,6 @@
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00"
   },
   "handled": [
-    "1794808723836",
     "1794809331617",
     "1794868891529",
     "1794869834446",
@@ -25164,18 +25163,10 @@
     "1795319820590",
     "1795323606659",
     "1795365801887",
-    "1795308799496",
     "1795327200130",
-    "1795329614846",
-    "1795334219223",
     "1795334375637",
-    "1795335393420",
-    "1795342123766",
-    "1795343519127",
-    "1795359613080",
     "1795361742442",
     "1795365241022",
-    "1795372578699",
     "1795324826500",
     "1795324826539",
     "1795326607811",
@@ -25184,13 +25175,24 @@
     "1795344631628",
     "1795348371275",
     "1795348901009",
-    "1795359881442",
     "1795362844533",
     "1795364382271",
-    "1795364722652",
     "1795370040655",
-    "1795373267196",
     "1795374409981",
+    "1795309320555",
+    "1795311093894",
+    "1795314375387",
+    "1795320060185",
+    "1795324200674",
+    "1795324828183",
+    "1795334219280",
+    "1795334777021",
+    "1795342680902",
+    "1795350600253",
+    "1795357080111",
+    "1795361129324",
+    "1795374290219",
+    "1795374375741",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26463,30 +26465,26 @@
     "1795304091884",
     "1795305600753",
     "1795305600891",
-    "1795309320555",
-    "1795311093894",
+    "1795308799496",
     "1795312795342",
     "1795312800531",
-    "1795314375387",
     "1795317111887",
     "1795319425952",
-    "1795320060185",
     "1795322951944",
     "1795323656659",
     "1795323660494",
     "1795323928110",
-    "1795324200674",
     "1795324479952",
     "1795324827135",
-    "1795324828183",
     "1795325460830",
+    "1795329614846",
     "1795331980833",
     "1795332871177",
     "1795333290580",
     "1795333500402",
-    "1795334219280",
-    "1795334777021",
+    "1795334219223",
     "1795334802794",
+    "1795335393420",
     "1795336811576",
     "1795336925010",
     "1795338650953",
@@ -26496,11 +26494,12 @@
     "1795340402948",
     "1795340773746",
     "1795341639144",
+    "1795342123766",
     "1795342215251",
-    "1795342680902",
     "1795343220844",
     "1795343474586",
     "1795343500009",
+    "1795343519127",
     "1795344600987",
     "1795345200856",
     "1795345205558",
@@ -26513,7 +26512,6 @@
     "1795349100433",
     "1795350320347",
     "1795350420816",
-    "1795350600253",
     "1795350660811",
     "1795350749032",
     "1795351345879",
@@ -26522,17 +26520,18 @@
     "1795354207350",
     "1795354495426",
     "1795355502736",
-    "1795357080111",
     "1795358326958",
+    "1795359613080",
     "1795359654286",
+    "1795359881442",
     "1795360507609",
-    "1795361129324",
     "1795361478921",
     "1795362480295",
     "1795362900460",
     "1795363200104",
     "1795363835939",
     "1795364272725",
+    "1795364722652",
     "1795365960748",
     "1795366198684",
     "1795367835940",
@@ -26545,14 +26544,15 @@
     "1795371180849",
     "1795371240118",
     "1795372200904",
+    "1795372578699",
+    "1795373267196",
     "1795373876304",
-    "1795374290219",
-    "1795374375741",
     "1795375925570",
     "1795376040880",
     "1795376419981",
     "1795376454553",
     "1795377673389",
+    "1795377797219",
     "2331589",
     "2331704",
     "2331803",
@@ -26631,32 +26631,9 @@
     "2339914"
   ],
   "last_digest_hour": "2026-11-23T02",
-  "last_success": "2026-11-22T20:46:06.513648+00:00",
+  "last_success": "2026-11-22T21:01:37.462734+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-20T17:02:55.229901+00:00",
-        "handle": "MEA press releases",
-        "headline": "US Secretary of State Marco Rubio visits India to strengthen bilateral ties",
-        "tier": 1,
-        "url": "https://www.mea.gov.in/press-releases?dtl/41895/US_Secretary_of_State_Marco_Rubio_visits_India",
-        "words": [
-          "2026",
-          "affairs",
-          "external",
-          "invitation",
-          "jaish",
-          "marco",
-          "mea",
-          "minister",
-          "october",
-          "press",
-          "releases",
-          "rubio",
-          "secretary",
-          "state"
-        ]
-      },
       {
         "at": "2026-10-20T23:31:49.370229+00:00",
         "handle": "Quake USGS",
@@ -35251,6 +35228,29 @@
           "reported",
           "usgs"
         ]
+      },
+      {
+        "at": "2026-11-22T21:08:45.458406+00:00",
+        "handle": "PMO",
+        "headline": "PM announces compensation for victims of the tragic mishap in Tiruchirappalli, Tamil Nadu",
+        "tier": 1,
+        "url": "https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu",
+        "words": [
+          "article",
+          "condoles",
+          "lives",
+          "loss",
+          "minister",
+          "mishap",
+          "modi",
+          "nadu",
+          "narendra",
+          "pmo",
+          "prime",
+          "published",
+          "shri",
+          "tamil"
+        ]
       }
     ],
     "gazette_mark": 278125,
@@ -37169,10 +37169,9 @@
       },
       "warned": "2026-11-22T02:02:20.591095+00:00"
     },
-    "last_run": "2026-11-22T20:52:44.797265+00:00",
+    "last_run": "2026-11-22T21:08:45.465460+00:00",
     "pib_mark": 2340145,
     "seen": [
-      "pib:2331839",
       "site:CAG|https://cag.gov.in/en/audit-report/details/125840",
       "site:CAG|https://cag.gov.in/en/audit-report/details/125842",
       "watch:meeting:LS|22610",
@@ -40171,7 +40170,8 @@
       "site:ICC|https://www.icc-cricket.com/media-releases/sri-lanka-ireland-remain-unbeaten-in-super-six-at-icc-women-s-emerging-nations-trophy-2026",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168852",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168855",
-      "site:who-don:2026-DON625"
+      "site:who-don:2026-DON625",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu"
     ],
     "source_failures": {
       "CBI": {
@@ -41447,7 +41447,7 @@
     "news: india edtech gaming": 1795374375741,
     "news: india fintech": 1795365847102,
     "news: india semiconductors": 1795320743268,
-    "news: india tech policy": 1795374290219,
+    "news: india tech policy": 1795377797219,
     "news: india telecom": 1795371181195,
     "news: indian it majors": 1795372578699,
     "news: indian it midcaps": 1795365241022,
@@ -41479,7 +41479,11 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "News: India edtech gaming": "2026-11-22T21:01:32.837732+00:00",
+      "News: India semiconductors": "2026-11-22T21:01:32.837732+00:00",
+      "News: Indian IT midcaps": "2026-11-22T21:01:32.837732+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -41497,7 +41501,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-22T20:46:07.012730+00:00",
+    "last_server_run": "2026-11-22T21:01:37.848552+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-22T20:02:28.723724+00:00",
@@ -55368,7 +55372,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-22T20:52:48.203207+00:00",
+    "last_run": "2026-11-22T21:08:48.729235+00:00",
     "seen": [
       "x:2123082121598410829",
       "x:2123082451241304265",
