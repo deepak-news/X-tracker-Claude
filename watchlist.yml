@@ -1155,9 +1155,9 @@ site:
     # "States" source as Telangana and UP (those two come from the national desk, which also emails
     # them; these do not). In the state's own language where that is all it publishes; the AI
     # judges each new release and writes its headline in English.
-    - {source: States, sub: Maharashtra, feed: "https://mahasamvad.in/feed/", relay: true, ai: true}   # refuses GitHub (403)
+    - {source: States, sub: Maharashtra, feed: "https://mahasamvad.in/feed/", ai: true, home_only: true, settle_before: "2026-11-23"}   # refuses GitHub and the relay (403): read by the Mac since Nov 22
     - {source: States, sub: Kerala, feed: "https://prd.kerala.gov.in/rss.xml", exclude: "^Council of Ministers$|ടെന്‍ഡര്‍|ടെൻഡർ|ലേലം|താത്കാലിക നിയമനം|ക്വട്ടേഷന്‍", ai: true}
-    - {source: States, sub: Madhya Pradesh, reader: mp_news, ai: true}   # mpinfo.org's news service, Hindi
+    - {source: States, sub: Madhya Pradesh, reader: mp_news, ai: true, home_only: true, settle_before: "2026-11-23"}   # mpinfo.org's news service, Hindi; answers only the Mac (Nov 22)
     # Karnataka's and Gujarat's CM sites refuse GitHub and Cloudflare alike: read by the Mac, as
     # every-row sources the general desk's AI scores afterwards (general_fill), not under "States"
     - {source: Karnataka CM, url: "https://cm.karnataka.gov.in/", match: "cm\\.karnataka\\.gov\\.in/\\d{3,}/[^/]{30,}", home_only: true}
@@ -1167,7 +1167,7 @@ site:
     - {source: CEO Uttar Pradesh, url: "https://ceouttarpradesh.nic.in/", match: "/ImportantIntruction/", home_only: true}   # refuses GitHub and Cloudflare
     # Exams and data bodies (added 2026-11-02, the user's choice). UPSC: results and schedules of
     # the big examinations only, not single-post recruitment. NTA: every notice (JEE, NEET, CUET, UGC-NET).
-    - {source: UPSC, url: "https://upsc.gov.in/", match: "/whats-new/.", only: "Civil Services|Engineering Services|Defence|Naval Academy|Forest Service|Medical Services|Economic Service|Statistical Service|Geo-Scientist|CAPF|Central Armed Police", exclude: "Posts? of|Interview Details|Time Table|Admit", home_only: true}   # refuses GitHub and Cloudflare (Nov 5)
+    - {source: UPSC, reader: upsc, settle_before: "2026-11-23", only: "Civil Services|Engineering Services|Defence|Naval Academy|Forest Service|Medical Services|Economic Service|Statistical Service|Geo-Scientist|CAPF|Central Armed Police", exclude: "Posts? of|Interview Details|Time Table|Admit", home_only: true}   # refuses GitHub and Cloudflare (Nov 5); site rebuilt Nov 19, read from its home page
     - {source: NTA, url: "https://nta.ac.in/", match: "/Download/Notice/Notice_\\d+\\.pdf", title: parent, ai: true}
     - {source: NIA, sub: Press releases, url: "https://nia.mha.gov.in/en/press-releases", match: ".", within: ".view-content", title: row, cells: "{1}", min: 10}   # every one counts
     - {source: FADA, url: "https://www.fada.in/", match: "/images/press-release/", title: slug, strip: "^\\d[0-9a-z]{9,}?(?=FADA)", ai: true}   # vehicle retail sales, monthly

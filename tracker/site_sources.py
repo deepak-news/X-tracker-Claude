@@ -44,6 +44,11 @@ More pages and feeds, added 2026-10-11, need no code of their own: each is one l
                      and handed over in the official stream with its score, so people's
                      score bar applies (website.known() says which rows are new, so each row
                      is judged once; a page's first list goes in unjudged and quietly)
+    settle_before: "2026-11-23"
+                     rows dated before this day (and undated ones) go in quietly, unjudged:
+                     for a reader moved to the Mac or re-pointed at a rebuilt page, under a
+                     source that is already started, whose first readings are not news
+                     (added 2026-11-22: Maharashtra, Madhya Pradesh, UPSC)
 
 Every row each page lists goes to the website on every run, and the website keeps track of
 what it has already seen: this step needs no memory, and a page's first reading is noted
@@ -541,8 +546,24 @@ def _page_rows(entry) -> list:
 
 def read_more(entry) -> list:
     if entry.get("reader"):
-        return HOME_READERS[entry["reader"]]()
+        rows = HOME_READERS[entry["reader"]]()
+        # "only" and "exclude" by title, as for a page (UPSC's big examinations, 2026-11-22)
+        only = re.compile(entry["only"], re.I) if entry.get("only") else None
+        exclude = re.compile(entry["exclude"], re.I) if entry.get("exclude") else None
+        return [r for r in rows if not (only and not only.search(r["title"])) and not (exclude and exclude.search(r["title"]))]
     return _feed_rows(entry) if entry.get("feed") else _page_rows(entry)
+
+
+def _settles(entry, row) -> bool:
+    """"settle_before" (see the top of this file): a row from before that day, or with no date."""
+    until = entry.get("settle_before")
+    if not until:
+        return False
+    try:
+        day = until if isinstance(until, dt.date) else dt.date.fromisoformat(str(until)[:10])
+    except ValueError:
+        return False
+    return not row.get("date") or row["date"] < day
 
 
 def _more_label(entry) -> str:
@@ -1018,6 +1039,37 @@ def mp_news() -> list:
     return rows
 
 
+# ---------------------------------------------------------------- UPSC: the rebuilt site
+
+# upsc.gov.in moved to a new site around Nov 19 2026. Its What's new page is drawn by a script
+# from a server outside the internet's reach, but the home page carries the same "latest
+# updates" (title, date, PDF) as data inside the page, and that is what is read here.
+UPSC_HOME = "https://www.upsc.gov.in/home/"
+
+
+def upsc_updates() -> list:
+    page = _get(UPSC_HOME).text
+    # the page's data comes in pieces, each a quoted string; joined, they are the page's own JSON
+    data = "".join(json.loads(f'"{piece}"') for piece in
+                   re.findall(r'self\.__next_f\.push\(\[1,"((?:[^"\\]|\\.)*)"\]\)', page))
+    start = data.find('"latestUpdates":')
+    if start < 0:
+        raise RuntimeError("no latest updates on UPSC's home page (it may have changed)")
+    found, _ = json.JSONDecoder().raw_decode(data, start + len('"latestUpdates":'))
+    rows, seen = [], set()
+    for item in found if isinstance(found, list) else []:
+        title, link, post = _clean(item.get("title")), str(item.get("link") or "").strip(), str(item.get("id") or "")
+        # keyed by the notice's own id: a corrected PDF is uploaded under a new name ("-1.pdf")
+        if not title or not post or not link.startswith("http") or post in seen:
+            continue
+        seen.add(post)
+        rows.append({"key": f"upsc:{post}", "title": title, "detail": "", "url": link,
+                     "date": _day(str(item.get("date") or "")[:10], "%Y-%m-%d")})
+    if not rows:
+        raise RuntimeError("no notices in UPSC's latest updates (it may have changed)")
+    return rows
+
+
 # ---------------------------------------------------------------- NSE: what listed companies tell the exchange
 
 # NSE's public RSS files, added 2026-11-01 (the user's choice: 239 PTI stories in six days came
@@ -1374,7 +1426,7 @@ def ndmc_notices() -> list:
     return rows
 
 
-HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "nse_filings": nse_filings, "mp_news": mp_news, "dgca_traffic": dgca_traffic, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
+HOME_READERS = {"eci": eci, "ncb": ncb, "lokpal": lokpal, "nse_filings": nse_filings, "mp_news": mp_news, "upsc": upsc_updates, "dgca_traffic": dgca_traffic, "dp_standing": dp_standing, "dp_circulars": dp_circulars,
                 "dp_notifications": dp_notifications, "dp_gazette": dp_gazette, "dp_press": dp_press, "dp_whatsnew": dp_whatsnew,
                 "cbic_gst": _cbic_reader(1000001), "cbic_customs": _cbic_reader(1000002), "cbic_excise": _cbic_reader(1000003),
                 "dipam_circulars": dipam_circulars, "income_tax_news": income_tax_news, "gst_advisories": gst_advisories,
@@ -1477,6 +1529,8 @@ def run(dry_run: bool = False) -> int:
             continue
         print(f"  {label}: {len(found)} row(s)" + ("  [AI]" if m.get("ai") else ""))
         for row in found:
+            if _settles(m, row):
+                row["settle"] = True
             # "new_ids": a source moved from every-row to AI scoring takes ids of its own, so its
             # list goes in afresh (quietly) under the scored source
             item = {"id": f"site:{'ai:' if m.get('new_ids') else ''}{m['source']}|{row['key']}"[:300], "grp": grp, "source": m["source"], "sub": m.get("sub") or "",

@@ -310,7 +310,7 @@ def _day_papers(house: str, day: dt.date) -> list:
 
 
 def _bills(year: int) -> list:
-    """Bills of the current year, and what has happened to each.
+    """Bills introduced in one year, and what has happened to each.
 
     One list serves both Houses -- a bill belongs to Parliament, not to a
     House -- and every stage it has reached is a column on the same row.
@@ -738,6 +738,13 @@ def read(entry: dict, memory: dict, out_of_time=lambda: False) -> list:
     # --- the lists that run every time ----------------------------------
     if "bills" in wanted:
         run("bills", 0, lambda: _bills(today.year))
+        # The list is by the year a bill was introduced, so a bill brought in
+        # during the winter session passes or gets assent in the new year.
+        # Last year's list is read too, otherwise from Jan 1 every later stage
+        # of a 2026 bill would be missed. Each key carries the year asked for,
+        # so last year's bills keep the keys they already had and nothing is
+        # sent twice; the age window keeps the older stages out.
+        run("bills:last year", 0, lambda: _bills(today.year - 1))
     if "ls_meetings" in wanted:
         run("ls_meetings", 0, lambda: _ls_meetings(40))
     if "rs_meetings" in wanted:
