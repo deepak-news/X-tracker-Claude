@@ -45,7 +45,7 @@ More pages and feeds, added 2026-10-11, need no code of their own: each is one l
                      score bar applies (website.known() says which rows are new, so each row
                      is judged once; a page's first list goes in unjudged and quietly)
     settle_before: "2026-11-23"
-                     rows dated before this day (and undated ones) go in quietly, unjudged:
+                     rows dated before this day (undated ones only until then) go in quietly, unjudged:
                      for a reader moved to the Mac or re-pointed at a rebuilt page, under a
                      source that is already started, whose first readings are not news
                      (added 2026-11-22: Maharashtra, Madhya Pradesh, UPSC)
@@ -555,7 +555,8 @@ def read_more(entry) -> list:
 
 
 def _settles(entry, row) -> bool:
-    """"settle_before" (see the top of this file): a row from before that day, or with no date."""
+    """"settle_before" (see the top of this file): a row from before that day; an undated row only
+    until that day, so that a reader whose dates stop parsing is never kept quiet for good."""
     until = entry.get("settle_before")
     if not until:
         return False
@@ -563,7 +564,7 @@ def _settles(entry, row) -> bool:
         day = until if isinstance(until, dt.date) else dt.date.fromisoformat(str(until)[:10])
     except ValueError:
         return False
-    return not row.get("date") or row["date"] < day
+    return row["date"] < day if row.get("date") else dt.datetime.now(IST).date() < day
 
 
 def _more_label(entry) -> str:
