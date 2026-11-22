@@ -7516,29 +7516,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-11-02T15:04:32.829065+00:00",
-        "handle": "PIB UPSC",
-        "headline": "Union Public Service Commission declares final results for Combined Defence Services Examination",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331786",
-        "words": [
-          "2026",
-          "combined",
-          "commission",
-          "declaration",
-          "defence",
-          "examination",
-          "final",
-          "public",
-          "result",
-          "service",
-          "services",
-          "thereof",
-          "union",
-          "upsc"
-        ]
-      },
-      {
         "at": "2026-11-02T15:20:25.921410+00:00",
         "handle": "PIB Ministry of New and Renewable Energy",
         "headline": "Prime Minister Narendra Modi inaugurates Bharat Renewable Energy Summit and Expo",
@@ -16331,6 +16308,29 @@
           "shah",
           "shri"
         ]
+      },
+      {
+        "at": "2026-11-22T13:53:52.138076+00:00",
+        "handle": "PIB Ministry of Skill Development and Entrepreneurship",
+        "headline": "Prime Minister Narendra Modi participates in the 5th Kaushal Deekshant Samaroh in Lucknow",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2340014",
+        "words": [
+          "5th",
+          "deekshant",
+          "development",
+          "entrepreneurship",
+          "kaushal",
+          "lucknow",
+          "minister",
+          "ministry",
+          "modi",
+          "narendra",
+          "participates",
+          "pradesh",
+          "prime",
+          "samaroh"
+        ]
       }
     ],
     "gazette_mark": 278125,
@@ -17572,11 +17572,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-22T13:39:28.858200+00:00",
-    "pib_mark": 2340001,
+    "last_run": "2026-11-22T13:53:52.139633+00:00",
+    "pib_mark": 2340015,
     "seen": [
-      "pib:2331222",
-      "pib:2331230",
       "pib:2331238",
       "pib:2331258",
       "pib:2331268",
@@ -20574,7 +20572,9 @@
       "pib:2339975",
       "pib:2339981",
       "pib:2340001",
-      "page:https://www.pmindia.gov.in/en/news_updates/cm-of-assam-meets-the-pm"
+      "page:https://www.pmindia.gov.in/en/news_updates/cm-of-assam-meets-the-pm",
+      "pib:2340014",
+      "pib:2340015"
     ],
     "source_failures": {},
     "sources": [
@@ -20635,11 +20635,6 @@
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00"
   },
   "handled": [
-    "1794852660534",
-    "1794862117822",
-    "1794862468969",
-    "1794863460723",
-    "1794866030809",
     "1794868094798",
     "1794868527614",
     "1794870329320",
@@ -25196,27 +25191,23 @@
     "1795266449900",
     "1795283908853",
     "1795291620140",
-    "1795315517102",
-    "1795317084776",
     "1795334342697",
     "1795338652630",
-    "1795347805947",
     "1795267527033",
-    "1795277988359",
-    "1795279728345",
-    "1795279858250",
     "1795279920959",
-    "1795285116656",
-    "1795323660494",
-    "1795324479952",
-    "1795331980833",
-    "1795332871177",
-    "1795333290580",
-    "1795338690432",
     "1795344829844",
     "1795349419981",
     "1795350660811",
-    "1795351345879",
+    "1795268577753",
+    "1795276500949",
+    "1795281083438",
+    "1795317084605",
+    "1795322394041",
+    "1795333576705",
+    "1795334411962",
+    "1795335000509",
+    "1795345620983",
+    "1795349183981",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26489,36 +26480,39 @@
     "1795199445552",
     "1795232752123",
     "1795258800773",
-    "1795268577753",
     "1795269845770",
     "1795270442744",
     "1795270863498",
     "1795271460484",
     "1795274457727",
     "1795274693299",
-    "1795276500949",
     "1795277582886",
+    "1795277988359",
     "1795278929492",
     "1795279140930",
-    "1795281083438",
+    "1795279728345",
+    "1795279858250",
+    "1795285116656",
     "1795309320555",
     "1795311034508",
     "1795311093894",
     "1795312795342",
     "1795312800531",
     "1795315080999",
+    "1795315517102",
     "1795315854473",
     "1795316940237",
-    "1795317084605",
+    "1795317084776",
     "1795317111887",
     "1795319425952",
     "1795319820590",
     "1795319919295",
     "1795320717206",
     "1795320743268",
-    "1795322394041",
     "1795323656659",
+    "1795323660494",
     "1795323928110",
+    "1795324479952",
     "1795324827135",
     "1795324828183",
     "1795325460830",
@@ -26529,14 +26523,16 @@
     "1795329822148",
     "1795329898083",
     "1795330669425",
+    "1795331980833",
+    "1795332871177",
+    "1795333290580",
     "1795333500402",
-    "1795333576705",
     "1795334375637",
-    "1795334411962",
-    "1795335000509",
+    "1795334777021",
     "1795336811576",
     "1795336969010",
     "1795338650953",
+    "1795338690432",
     "1795338840031",
     "1795340402948",
     "1795340672331",
@@ -26548,17 +26544,21 @@
     "1795344631628",
     "1795345200856",
     "1795345205558",
-    "1795345620983",
+    "1795345380041",
     "1795345845822",
+    "1795347805947",
     "1795347900390",
     "1795348736293",
     "1795348806142",
     "1795349100433",
-    "1795349183981",
     "1795350600253",
+    "1795350628965",
     "1795350749032",
+    "1795351345879",
     "1795352400374",
     "1795352840511",
+    "1795354207350",
+    "1795354819981",
     "2331589",
     "2331704",
     "2331803",
@@ -26637,7 +26637,7 @@
     "2339914"
   ],
   "last_digest_hour": "2026-11-22T19",
-  "last_success": "2026-11-22T13:31:34.984810+00:00",
+  "last_success": "2026-11-22T13:46:24.566034+00:00",
   "national": {
     "alerted": [
       {
@@ -37175,11 +37175,9 @@
       },
       "warned": "2026-11-22T02:02:20.591095+00:00"
     },
-    "last_run": "2026-11-22T13:38:32.696174+00:00",
-    "pib_mark": 2340001,
+    "last_run": "2026-11-22T13:53:14.555254+00:00",
+    "pib_mark": 2340015,
     "seen": [
-      "pib:2331704",
-      "pib:2331716",
       "pib:2331747",
       "pib:2331737",
       "pib:2331749",
@@ -40177,7 +40175,9 @@
       "pib:2339972",
       "pib:2339981",
       "pib:2340001",
-      "page:https://www.pmindia.gov.in/en/news_updates/cm-of-assam-meets-the-pm"
+      "page:https://www.pmindia.gov.in/en/news_updates/cm-of-assam-meets-the-pm",
+      "pib:2340015",
+      "pib:2340014"
     ],
     "source_failures": {
       "CBI": {
@@ -40248,7 +40248,26 @@
       "site: WTO"
     ]
   },
-  "news_queue": [],
+  "news_queue": [
+    {
+      "headline": "Tencent releases independent safety assessment of Hy4 AI model",
+      "post": {
+        "created_at": "2026-11-22T13:30:07+00:00",
+        "handle": "News: Global AI",
+        "id": "1795354207350",
+        "is_reply": false,
+        "is_repost": false,
+        "likes": 0,
+        "origin": "South China Morning Post",
+        "reposts": 0,
+        "text": "Tencent touts independent safety assessment of latest AI model Hy4",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXdvN0dZMy1GRUhSR19yaDJRRTZxOFNjRHR0WnJsUU1VUHpvdmRfMzRMVEpBTnFDZ2JhUnFtR0pJMWthbGNyNE8xaUNTYVpUYmNyYzVyWlc4bjE0TGw5bmF0anFKNVVjTUVsdWpLakRvTmNwMkFJNG4yWTlTTWo2MGxySDZucVM0dGxrTF82enR5UzljNzExaGFNVE5Fc0wzeFdRRFdwekFDSjlJUW1PUFp3VUFrNFEwSFV0Ri1PcjJHZ0JSRGxJV0ZR0gHKAUFVX3lxTFBwZ2VCdlY2RllyQllhWGJuZUgtRWIxazhDM1o4bF9Lc21qOEtpLVRCTk9EVDVHdm13YmRUOExkZmNHbURySTJEckZweUVoNEZFckNEMDBPaDN5UGZwRGZEV3V2eHJIUlZfNnlkd2wxQXBzalFaVDFHWTBCbURud001TmxocXZCc25KQ19vRDNPTlNEUEtTalI3eTRLOVp2bEYtZjIyVy1ORmNaN0ZKd0E5ZnR2QmxXWXMzM3E4YzV4RGEySHRwOFRRZWc?oc=5"
+      },
+      "queued_at": "2026-11-22T13:46:24.488651+00:00",
+      "score": 7.0,
+      "why": "Major AI company disclosures regarding model safety are reportable under the wire guidelines."
+    }
+  ],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41445,11 +41464,11 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1795352400374,
     "news: consumer internet india": 1795350660811,
-    "news: global ai": 1795348806142,
-    "news: global chips": 1795350600253,
+    "news: global ai": 1795354207350,
+    "news: global chips": 1795350628965,
     "news: global it services": 1795333290580,
     "news: india ai deeptech": 1795334375817,
-    "news: india edtech gaming": 1795309320555,
+    "news: india edtech gaming": 1795334777021,
     "news: india fintech": 1795342215251,
     "news: india semiconductors": 1795320743268,
     "news: india tech policy": 1795322951944,
@@ -41457,7 +41476,7 @@
     "news: indian it majors": 1795351345879,
     "news: indian it midcaps": 1795324828183,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1795352840511,
+    "news: tech leaders": 1795354819981,
     "nvidia": 1795125600581,
     "nvidia blog": 1795118415491,
     "openai": 1795168800643,
@@ -41484,10 +41503,7 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {
-      "News: Consumer internet India": "2026-11-22T13:31:27.485055+00:00",
-      "News: Indian IT majors": "2026-11-22T13:31:27.485055+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41505,7 +41521,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-22T13:31:35.345166+00:00",
+    "last_server_run": "2026-11-22T13:46:25.055226+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-22T11:02:26.572586+00:00",
@@ -55485,10 +55501,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-22T13:38:57.325678+00:00",
+    "last_run": "2026-11-22T13:53:21.947076+00:00",
     "seen": [
-      "x:2123046825712370148",
-      "x:2123046971044974638",
       "x:2123047079568441530",
       "x:2123047442010739059",
       "x:2123047861244109029",
@@ -58486,7 +58500,9 @@
       "x:2124495727749648463",
       "x:2124496195926343894",
       "x:2124496234748751944",
-      "x:2124496950955544951"
+      "x:2124496950955544951",
+      "x:2124498446686286045",
+      "x:2124500042115699180"
     ],
     "source_failures": {},
     "sources": []
