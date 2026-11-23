@@ -2,56 +2,6 @@
   "alerted": [
     {
       "at": "2026-11-13T15:31:26.544025+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Elon Musk's xAI cuts Grok video generation team",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHVlMmkxWGNtSXFvTWktZzFWV1BfTUo3ZnVTck54QmtjOWRTaVNpQjJKLWF4TmZJN1ZpRjhDNUphTUcydHBJQ29ZWWxvN2dfV1R6eXR0d0NTTWdvNmhwWG1hQThURWcydDVkdURKLWd5bk13d0VNQnMyN2o0OUlldDBKR2JSZ2l6NTAzcmJNQ0k3dDdlaXc?oc=5",
-      "words": [
-        "elon",
-        "generation",
-        "grok",
-        "group",
-        "guts",
-        "musk",
-        "team",
-        "video"
-      ]
-    },
-    {
-      "at": "2026-11-13T15:31:26.544025+00:00",
-      "handle": "News: Global chips",
-      "headline": "US Treasury blames Commerce Department over Nvidia-Megaspeed scandal",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSjNqSHJCMXJuNW9SdU5xWTJSejBIbmtrQnhUbzgyT2dMdnlmNTItZTFNTDZ1ZGVaR3Y0SzR0Z0JKd3dYNzJ6VC1nclBrUUVPOFlTV2ZNYi02el9uOWpNQVgyald6UFFnWW5EZ3pXWUhfX1M1UGl4YnZmMUJ1UlVoVnNWaTBaTjN2MHZtY09IV1ZPWVJMVjBVSThkV1M1UG9RYkJmcDhuR2ktR184QmFXOWNDU2p6bHZlMmZIWXZHMmZ0SHQ3UExNU0YyNNIB0AFBVV95cUxQTkNSNFB0U1FjTjVyeFBWQ09jUWNEcGY2Y2s1UmFNaURLbmlPLURkbkl1SFQ5WnB0QUNiaGJzQnRGb1BObno2MzBoMTNDWGVoa2NCajk3ZGNoVV9ySXpBWlg5OS1TRUxxTVlsMEdkMjYybG1xRlF3b1RCby1SRWl4Y29ieVZCWlh5eU9vWW53Mm02XzFkcEVzWnNYZ0tkZ3dBdVZiYkx4RTJvbFJjN3FxUmkyZUNLYnFQRm9wNEI0VzNZVGFNVE5DZHk1SkNDQVhy?oc=5",
-      "words": [
-        "blames",
-        "chief",
-        "commerce",
-        "department",
-        "megaspeed",
-        "nvidia",
-        "scandal",
-        "treasury"
-      ]
-    },
-    {
-      "at": "2026-11-13T15:31:26.544025+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "Zetwerk H1FY27 revenue grows 33% to \u20b98,717 crore",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQkkxLXN1aHlTNjJESmI5UWV4S1VKY3VZZlNhcXhlLTcwZGNUS25HSFBablJDcWE0RExsZTVuSnpYTEh0cUxldjVaakRmWklsRW1MTldDNWw1cnhncXZyMUYzaDhrN1JFMHMzNWE0WWRJX1VlVTdzV1lCdHJOOHVwREFGdFZnWWhMZ3ZWQWxudkNCUmRKNGVsc21peXhkRGk0QWU3SmlKbTFQQ0ZFZXpaaGdNdHNKRjJGd2c3U1JKNFBhWDkwOWl2SmJBcC1pNnR4RW8telYyNmRia1pm0gHiAUFVX3lxTFBZUG1HUVU4eW5CUXJ3N3dqWlNJVzhCSlE4a28tTFdvNmY2c0ZBSk54N3RDYnNTVUw5bXVEaUpGSzZIS0IxekFBZDJHQTZwM0RvLTNBVzFHZm9IakxrTEtLempZdTY5QnB3eU8wZkVJVnBOa0lORXRGT2M1Vi1QNXZwZWxWblR0VWZabDZ4dDRwaVoxaHh0QkNFaFA1aHVQVEs3bW1sUV9yb0JsUHZ4ZnVjZW9wODMtS3QyWUxVM2JQMTgtb2dtcDJxYVdsNXRsei1YU0ZlYzNVV2NGSm53dEtfX1E?oc=5",
-      "words": [
-        "717",
-        "ebitda",
-        "h1fy27",
-        "jumps",
-        "revenue",
-        "rises",
-        "zetwerk"
-      ]
-    },
-    {
-      "at": "2026-11-13T15:31:26.544025+00:00",
       "handle": "News: India telecom",
       "headline": "Jio Financial targets 100 million customers in one year",
       "tier": 0,
@@ -7513,6 +7463,61 @@
         "solutions",
         "steadview",
         "worth"
+      ]
+    },
+    {
+      "at": "2026-11-23T16:37:50.209202+00:00",
+      "handle": "News: India fintech",
+      "headline": "Paytm partners ChargeZone for EV charging QR payments",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdFQ5QmhjRzgxMERrRHdDYXlOTGt0elp1LWRNWUlfU09RZDJTOUhIQXZfc2dQaFhmejFBMms0Wmo2YWp1SzgyR0Q3RHJsSGhSX0ViSWRIRXhJTHBMSFY0eV9VN2Rqa3N6b3B5MGdnX0FaenpfaW1PcUdIZUhXMGoyd04zMUlVMXBzNFZHZlhEOHZvSXc2SXg2X0RnZ3FKZURyQUlRUFBqUVJGYko3M2hZU0RmZW1YWnJuUWQ2Q2J0RUxiaFJGeng0b0hpY3ZvdlQ2cV9iTNIB2wFBVV95cUxPeElvWTlxTEsyM21WY1h1SzhkQndibm5XSDlrQU5MUFNaWHRzRVR5dHNZZUc3TUlHQ1NwcDlVRm5XQW1INVd4VHBkNmhRbUd0QkdPX1RkT0lkSElzcTdzWS15VTA0ekZzTUYxeFFScnFUTDVvZU1pRUcwdVRjNjZ6VlprSnlnSkdjc09wVkR1X1pqcXFGZlNwM0VzdVppS3JKZ2RVdXU1b09nQXFQSFlHcUU0QlEwNFp3bWl4enUyTDIySHh5VTdNOEhlUUI5ZWE3OEhaY1lUQzJ3TWM?oc=5",
+      "words": [
+        "000",
+        "chargezone",
+        "charging",
+        "enable",
+        "partners",
+        "payments",
+        "paytm",
+        "points"
+      ]
+    },
+    {
+      "at": "2026-11-23T16:37:50.209202+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Tech Mahindra plans to reinvest margin gains into AI and growth",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2lOMzRUbzJ3MHlMMEU1NzA0YzgybnJYZnI3QkhfRkE4NEhLQ1R1TFA4WEl1RE9lVmczLVpRS09PQVIyTF9LNFJPWE9PZDd3MXpudDRfQmlrQnM5OVFxNlBZSGk0a0tQVmxKS2ttNjgzTk1weFdHTDVYenRweXdET0QwakctUTUwU0txUTRwREg3WUhGQTJlUTFsSnFSQ09kc3RGb0xRdmhNNW5VTTFlVzF1TXpqbjJkaFRuczlrRGtzYVBsQTQ4Vkd3UERzUUxMdUlzY3BHSmJ1V1FSb2tkONIB5wFBVV95cUxQMzdMYVpkVlJ0R2NEa1ZDOE1xRGNXLXBTRS1GZFBFa0lET0RSTGhvU2prWC1kSDRwazhvSkdlWWtCV1NfN1FLUmlVRzlkZ04zLV82MjJlaEhodWN5UFc3dzNpam9YY2xndzVoUkNLYm9qNGlhMWZ0eWg5NFhuaG5idkFvQ0ZOWmdDaXpvaDZCT3N5eUp4Z2t0SWc0ZklaanI0bERYYTRVekxHejByaHVJWVNJdkVZNkZBVm5GNFRYNEdlRm90X0pzczNjT2R5cmVJaGVRbTNpOFRCUzJGeGR1OE9ENHBNdDg?oc=5",
+      "words": [
+        "back",
+        "gains",
+        "growth",
+        "into",
+        "joshi",
+        "mahindra",
+        "margin",
+        "mohit",
+        "plough",
+        "tech"
+      ]
+    },
+    {
+      "at": "2026-11-23T16:37:50.209202+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Meta restricts Arunachal media outlet video following government notice",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTGVwdEZqT2VkcjhMQ1JheklsS3huTGhuV2hObzZ4azlZYnFkOWhrUjZQOUdkcXhqblpLcWZGRGNjQ0c2NW1QWGpqMUU1bTBwc0FuZ18zWWxWX29Xd0I4alZ0M205Z0FLNWVsQlBndTRSNVdLWDJNajRVZ0R3QjhjYUFyaGxYUzViUF9iMzJ2VExaZVBHeEJzZ2djX2ZGdTBHNW93ajVPTGZ5QXRqbFVRMHdKM2dGNTd3VGxnSHRfdEhlZ0k3anhYLXY5WjVUQXIxcURXZXpLQTZXTHN5WTlsWllxNmQxdTFpYWtkYXdR0gHzAUFVX3lxTE8zVzBXczZhSTFjcWpvODJFWVFRYmVuUEI3NUVZRUltLWRqWXZMemY2OGRDWER2VDZFa0JtdW05XzNjaFJDWFludjEtZ2dNSFNwYTQ1Yk1pbDUzaEhnS3pIUHpVNjJ3VmVPU3hXbEg0ZDl2d3BKMGF5a2dNZWRMcjFJWjRfVkVZcC1RWXhHdEtlQzRLVElpQVJKWGx2VU9RYzVfOGQzc1VQV3VpWFFKM2sxYVA5TXpzVW5rU1Z5dnQ0bjhpaFJOd2FLUlRIeENlSzBZRi12NENXS0w3TzVjUE45cVV4eEVyWmNxLTRGZ285V0IySQ?oc=5",
+      "words": [
+        "arunachal",
+        "dam",
+        "govt",
+        "media",
+        "meta",
+        "notice",
+        "outlet",
+        "restricts",
+        "siang",
+        "video"
       ]
     }
   ],
@@ -17588,10 +17593,9 @@
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-23T16:26:51.355602+00:00",
+    "last_run": "2026-11-23T16:45:41.065432+00:00",
     "pib_mark": 2340650,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63897",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63898",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63899",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63900",
@@ -20105,6 +20109,7 @@
       "gazette:CG-DL-E-23112026-278138",
       "gazette:CG-DL-E-23112026-278135",
       "gazette:CG-DL-E-23112026-278136",
+      "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|TWO ACCUSED INVOLVED IN A MOBILE PHONE SNATCHING CASE ARRESTED BY PP SIDHIPURA, PS DBG ROAD, CENTRAL DISTRICT, SCOOTY USED IN THE COMMISSION OF THE OFFENCE RECOVERED",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
@@ -20459,7 +20464,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/cm-of-assam-meets-the-pm",
       "mea:41991",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu",
-      "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|TWO ACCUSED INVOLVED IN A MOBILE PHONE SNATCHING CASE ARRESTED BY PP SIDHIPURA, PS DBG ROAD, CENTRAL DISTRICT, SCOOTY USED IN THE COMMISSION OF THE OFFENCE RECOVERED",
       "pib:2340195",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|ACTIVE MEMBER OF TILLU TAJPURIYA GANG, PAWAN KUMAR , MAKKHI, ARRESTED BY SPECIAL STAFF, OUTER NORTH DISTRICT",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|PS KOTWALI BUSTS AN ILLEGAL PARKING RACKET IN CHANDNI CHOWK, ONE ACCUSED ARRESTED",
@@ -20590,11 +20594,13 @@
       "pib:2340632",
       "pib:2340628",
       "pib:2340635",
-      "pib:2340650"
+      "pib:2340650",
+      "site:who-don:2026-DON628"
     ],
     "source_failures": {
       "Gazette of India (Extraordinary)": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-23T22:43:40.915483+00:00"
       },
       "State: Uttar Pradesh": {
         "count": 4,
@@ -20653,13 +20659,14 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "gemini-2.5-flash-lite": "2026-11-23T15:35:50.025167+00:00",
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00",
     "gemini-3.6-flash": "2026-11-23T15:50:58.205051+00:00",
     "gemini-3.7-flash": "2026-11-23T15:35:50.025167+00:00",
-    "gemini-3.8-flash": "2026-11-23T16:08:00.962966+00:00"
+    "gemini-3.8-flash": "2026-11-23T16:08:00.962966+00:00",
+    "gemini-omni-1.2-flash": "2026-11-23T16:37:49.047747+00:00"
   },
   "handled": [
     "1794927000237",
@@ -26663,7 +26670,7 @@
     "2340334",
     "2340401"
   ],
-  "last_digest_hour": "2026-11-23T21",
+  "last_digest_hour": "2026-11-23T22",
   "last_success": "2026-11-23T16:16:48.212093+00:00",
   "national": {
     "alerted": [
@@ -37225,10 +37232,9 @@
       },
       "warned": "2026-11-23T02:08:10.555004+00:00"
     },
-    "last_run": "2026-11-23T16:21:26.553539+00:00",
+    "last_run": "2026-11-23T16:42:19.505341+00:00",
     "pib_mark": 2340650,
     "seen": [
-      "watch:bulletin:LS|2026-11-03|Bulletin-II",
       "watch:pr:LS|3254",
       "site:Delhi Police|dp-whatsnew:press-release-hi.html",
       "watch:bulletin:RS|2026-11-03|Bulletin Part-II",
@@ -39682,6 +39688,7 @@
       "gazette:CG-DL-E-23112026-278139",
       "gazette:CG-DL-E-23112026-278137",
       "gazette:CG-DL-E-23112026-278135",
+      "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|TWO ACCUSED INVOLVED IN A MOBILE PHONE SNATCHING CASE ARRESTED BY PP SIDHIPURA, PS DBG ROAD, CENTRAL DISTRICT, SCOOTY USED IN THE COMMISSION OF THE OFFENCE RECOVERED",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -40096,7 +40103,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/cm-of-assam-meets-the-pm",
       "mea:41991",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu",
-      "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|TWO ACCUSED INVOLVED IN A MOBILE PHONE SNATCHING CASE ARRESTED BY PP SIDHIPURA, PS DBG ROAD, CENTRAL DISTRICT, SCOOTY USED IN THE COMMISSION OF THE OFFENCE RECOVERED",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|SPECIAL SESSIONS HELD ON POST RETIREMENT HEALTHCARE, FINANCIAL SECURITY, PENSION BENEFITS, DOCUMENTATION AND CYBER SAFETY.",
       "pib:2340195",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|ACTIVE MEMBER OF TILLU TAJPURIYA GANG, PAWAN KUMAR , MAKKHI, ARRESTED BY SPECIAL STAFF, OUTER NORTH DISTRICT",
@@ -40227,7 +40233,8 @@
       "pib:2340632",
       "pib:2340628",
       "pib:2340650",
-      "pib:2340635"
+      "pib:2340635",
+      "site:who-don:2026-DON628"
     ],
     "source_failures": {
       "CBI": {
@@ -40235,7 +40242,8 @@
         "until": "2026-09-21T17:32:43.475440+00:00"
       },
       "Gazette of India (Extraordinary)": {
-        "count": 2
+        "count": 3,
+        "until": "2026-11-23T22:40:18.962656+00:00"
       },
       "State: Maharashtra": {
         "count": 19,
@@ -40305,62 +40313,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Paytm partners ChargeZone for EV charging QR payments",
-      "post": {
-        "created_at": "2026-11-23T15:32:47+00:00",
-        "handle": "News: India fintech",
-        "id": "1795447967798",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Hindu",
-        "reposts": 0,
-        "text": "Paytm partners ChargeZone to enable QR payments at 15,000 EV charging points",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdFQ5QmhjRzgxMERrRHdDYXlOTGt0elp1LWRNWUlfU09RZDJTOUhIQXZfc2dQaFhmejFBMms0Wmo2YWp1SzgyR0Q3RHJsSGhSX0ViSWRIRXhJTHBMSFY0eV9VN2Rqa3N6b3B5MGdnX0FaenpfaW1PcUdIZUhXMGoyd04zMUlVMXBzNFZHZlhEOHZvSXc2SXg2X0RnZ3FKZURyQUlRUFBqUVJGYko3M2hZU0RmZW1YWnJuUWQ2Q2J0RUxiaFJGeng0b0hpY3ZvdlQ2cV9iTNIB2wFBVV95cUxPeElvWTlxTEsyM21WY1h1SzhkQndibm5XSDlrQU5MUFNaWHRzRVR5dHNZZUc3TUlHQ1NwcDlVRm5XQW1INVd4VHBkNmhRbUd0QkdPX1RkT0lkSElzcTdzWS15VTA0ekZzTUYxeFFScnFUTDVvZU1pRUcwdVRjNjZ6VlprSnlnSkdjc09wVkR1X1pqcXFGZlNwM0VzdVppS3JKZ2RVdXU1b09nQXFQSFlHcUU0QlEwNFp3bWl4enUyTDIySHh5VTdNOEhlUUI5ZWE3OEhaY1lUQzJ3TWM?oc=5"
-      },
-      "queued_at": "2026-11-23T15:47:02.383855+00:00",
-      "score": 7.0,
-      "why": "Significant fintech and EV charging partnership in India."
-    },
-    {
-      "headline": "Tech Mahindra plans to reinvest margin gains into AI and growth",
-      "post": {
-        "created_at": "2026-11-23T15:54:17+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1795449257959",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "We will plough back margin gains into AI and growth: Mohit Joshi of Tech Mahindra",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2lOMzRUbzJ3MHlMMEU1NzA0YzgybnJYZnI3QkhfRkE4NEhLQ1R1TFA4WEl1RE9lVmczLVpRS09PQVIyTF9LNFJPWE9PZDd3MXpudDRfQmlrQnM5OVFxNlBZSGk0a0tQVmxKS2ttNjgzTk1weFdHTDVYenRweXdET0QwakctUTUwU0txUTRwREg3WUhGQTJlUTFsSnFSQ09kc3RGb0xRdmhNNW5VTTFlVzF1TXpqbjJkaFRuczlrRGtzYVBsQTQ4Vkd3UERzUUxMdUlzY3BHSmJ1V1FSb2tkONIB5wFBVV95cUxQMzdMYVpkVlJ0R2NEa1ZDOE1xRGNXLXBTRS1GZFBFa0lET0RSTGhvU2prWC1kSDRwazhvSkdlWWtCV1NfN1FLUmlVRzlkZ04zLV82MjJlaEhodWN5UFc3dzNpam9YY2xndzVoUkNLYm9qNGlhMWZ0eWg5NFhuaG5idkFvQ0ZOWmdDaXpvaDZCT3N5eUp4Z2t0SWc0ZklaanI0bERYYTRVekxHejByaHVJWVNJdkVZNkZBVm5GNFRYNEdlRm90X0pzczNjT2R5cmVJaGVRbTNpOFRCUzJGeGR1OE9ENHBNdDg?oc=5"
-      },
-      "queued_at": "2026-11-23T16:16:48.144417+00:00",
-      "score": 7.0,
-      "why": "A statement by an Indian IT CEO on business strategy and AI investment."
-    },
-    {
-      "headline": "Meta restricts Arunachal media outlet video following government notice",
-      "post": {
-        "created_at": "2026-11-23T16:00:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1795449600414",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Meta restricts Arunachal media outlet\u2019s Siang dam video in India after govt notice",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTGVwdEZqT2VkcjhMQ1JheklsS3huTGhuV2hObzZ4azlZYnFkOWhrUjZQOUdkcXhqblpLcWZGRGNjQ0c2NW1QWGpqMUU1bTBwc0FuZ18zWWxWX29Xd0I4alZ0M205Z0FLNWVsQlBndTRSNVdLWDJNajRVZ0R3QjhjYUFyaGxYUzViUF9iMzJ2VExaZVBHeEJzZ2djX2ZGdTBHNW93ajVPTGZ5QXRqbFVRMHdKM2dGNTd3VGxnSHRfdEhlZ0k3anhYLXY5WjVUQXIxcURXZXpLQTZXTHN5WTlsWllxNmQxdTFpYWtkYXdR0gHzAUFVX3lxTE8zVzBXczZhSTFjcWpvODJFWVFRYmVuUEI3NUVZRUltLWRqWXZMemY2OGRDWER2VDZFa0JtdW05XzNjaFJDWFludjEtZ2dNSFNwYTQ1Yk1pbDUzaEhnS3pIUHpVNjJ3VmVPU3hXbEg0ZDl2d3BKMGF5a2dNZWRMcjFJWjRfVkVZcC1RWXhHdEtlQzRLVElpQVJKWGx2VU9RYzVfOGQzc1VQV3VpWFFKM2sxYVA5TXpzVW5rU1Z5dnQ0bjhpaFJOd2FLUlRIeENlSzBZRi12NENXS0w3TzVjUE45cVV4eEVyWmNxLTRGZ285V0IySQ?oc=5"
-      },
-      "queued_at": "2026-11-23T16:16:48.144417+00:00",
-      "score": 7.0,
-      "why": "Involves content restriction by a major tech platform on an Indian regional media outlet."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41619,7 +41572,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-23T16:16:48.594464+00:00",
+    "last_server_run": "2026-11-23T16:37:50.553618+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-23T15:17:09.499547+00:00",
@@ -55500,18 +55453,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-23T16:24:41.216006+00:00",
+    "last_run": "2026-11-23T16:43:40.503256+00:00",
     "seen": [
-      "x:2123385854207148148",
-      "x:2123386404743118896",
-      "x:2123386746658533744",
-      "x:2123386976535777338",
-      "x:2123387010945835471",
-      "x:2123387408951763147",
-      "x:2123387639181304194",
-      "x:2123387668054827262",
-      "x:2123388047157059954",
-      "x:2123388812449697983",
       "x:2123388867802009817",
       "x:2123389686777627034",
       "x:2123390071831515399",
@@ -58501,7 +58444,17 @@
       "x:2124899706572857547",
       "x:2124899996890013793",
       "x:2124900007124128166",
-      "x:2124900151588470848"
+      "x:2124900151588470848",
+      "x:2124900514295079399",
+      "x:2124900847369019732",
+      "x:2124901123802927313",
+      "x:2124901345249616328",
+      "x:2124901497209291097",
+      "x:2124902359101067568",
+      "x:2124903305050505622",
+      "x:2124903470910300439",
+      "x:2124904275583328432",
+      "x:2124904938035892306"
     ],
     "source_failures": {},
     "sources": []
