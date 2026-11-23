@@ -17593,7 +17593,7 @@
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-23T17:07:34.566265+00:00",
+    "last_run": "2026-11-23T17:22:01.779516+00:00",
     "pib_mark": 2340650,
     "seen": [
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63899",
@@ -20113,6 +20113,7 @@
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|PS KOTWALI BUSTS AN ILLEGAL PARKING RACKET IN CHANDNI CHOWK, ONE ACCUSED ARRESTED",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|COMMISSIONER OF POLICE, DELHI, PARTICIPATED IN JAN SUNWAI AT PS HAUZ QAZI, CENTRAL DISTRICT, INTERACTED WITH RESIDENTS, REVIEWS PUBLIC GRIEVANCES AND INSPECTS POLICE STATION",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|SPECIAL SESSIONS HELD ON POST RETIREMENT HEALTHCARE, FINANCIAL SECURITY, PENSION BENEFITS, DOCUMENTATION AND CYBER SAFETY.",
+      "watch:pr:LS|3282",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
@@ -20468,7 +20469,6 @@
       "mea:41991",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu",
       "pib:2340195",
-      "watch:pr:LS|3282",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|PS MEHRAULI ARRESTS WOMAN IN HOUSE THEFT CASE",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|SPECIAL STAFF, SOUTH DISTRICT, APPREHENDS NOTORIOUS MOBILE PHONE THIEF",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|STRICT ENFORCEMENT DRIVE UNDER GRAP IN EASTERN RANGE TRAFFIC.",
@@ -20659,7 +20659,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "dead_models": {
     "gemini-2.5-flash-lite": "2026-11-23T15:35:50.025167+00:00",
     "gemini-3-flash-preview": "2026-11-23T17:02:37.747685+00:00",
@@ -20668,8 +20668,11 @@
     "gemini-3.6-flash": "2026-11-23T15:50:58.205051+00:00",
     "gemini-3.7-flash": "2026-11-23T15:35:50.025167+00:00",
     "gemini-3.8-flash": "2026-11-23T16:08:00.962966+00:00",
+    "gemini-4-neon": "2026-11-23T17:16:26.519748+00:00",
+    "gemini-flash-latest": "2026-11-23T17:16:26.519748+00:00",
     "gemini-omni-1.1-flash": "2026-11-23T17:02:37.747685+00:00",
-    "gemini-omni-1.2-flash": "2026-11-23T16:37:49.047747+00:00"
+    "gemini-omni-1.2-flash": "2026-11-23T16:37:49.047747+00:00",
+    "gemini-omni-flash-preview": "2026-11-23T17:16:26.519748+00:00"
   },
   "handled": [
     "1794943770328",
@@ -37235,7 +37238,7 @@
       },
       "warned": "2026-11-23T02:08:10.555004+00:00"
     },
-    "last_run": "2026-11-23T17:05:19.783766+00:00",
+    "last_run": "2026-11-23T17:20:02.836545+00:00",
     "pib_mark": 2340650,
     "seen": [
       "site:Delhi Police|dp-whatsnew:press-release-hi.html",
@@ -39695,6 +39698,7 @@
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|ACTIVE MEMBER OF TILLU TAJPURIYA GANG, PAWAN KUMAR , MAKKHI, ARRESTED BY SPECIAL STAFF, OUTER NORTH DISTRICT",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|COMMISSIONER OF POLICE, DELHI, PARTICIPATED IN JAN SUNWAI AT PS HAUZ QAZI, CENTRAL DISTRICT, INTERACTED WITH RESIDENTS, REVIEWS PUBLIC GRIEVANCES AND INSPECTS POLICE STATION",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|PS KOTWALI BUSTS AN ILLEGAL PARKING RACKET IN CHANDNI CHOWK, ONE ACCUSED ARRESTED",
+      "watch:pr:LS|3282",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -40110,7 +40114,6 @@
       "mea:41991",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu",
       "pib:2340195",
-      "watch:pr:LS|3282",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|SPECIAL STAFF, SOUTH DISTRICT, APPREHENDS NOTORIOUS MOBILE PHONE THIEF",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|STRICT ENFORCEMENT DRIVE UNDER GRAP IN EASTERN RANGE TRAFFIC.",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|CRACKDOWN ON MOTOR VEHICLE THEFT, SPECIAL STAFF, SOUTH DISTRICT, NABS ACTIVE AUTO LIFTER",
@@ -41588,11 +41591,7 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {
-      "News: Big tech platforms": "2026-11-23T17:01:40.489885+00:00",
-      "News: India semiconductors": "2026-11-23T17:01:40.489885+00:00",
-      "News: India tech policy": "2026-11-23T17:01:40.489885+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41616,17 +41615,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-23T17:02:38.176066+00:00",
+    "last_server_run": "2026-11-23T17:16:26.953983+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-23T15:17:09.499547+00:00",
+        "checked": "2026-11-23T17:19:45.742500+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-23T15:17:00.605146+00:00",
+        "checked": "2026-11-23T17:19:37.663328+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -41702,7 +41701,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-23T15:17:05.411471+00:00",
+        "checked": "2026-11-23T17:19:41.594865+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -41745,7 +41744,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-11-23T11:16:20.326712+00:00",
+        "at": "2026-11-23T17:19:02.241097+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -41755,12 +41754,12 @@
         }
       },
       "last": {
-        "calendar": "2026-11-23T11:16:23.185111+00:00",
-        "ls_reports": "2026-11-23T15:16:43.162581+00:00",
-        "rs_committee_press": "2026-11-23T15:16:54.063335+00:00",
-        "rs_press": "2026-11-23T15:16:51.324416+00:00",
-        "rs_reports": "2026-11-23T15:16:48.193578+00:00",
-        "rs_updates": "2026-11-23T15:16:55.740663+00:00"
+        "calendar": "2026-11-23T17:19:05.163257+00:00",
+        "ls_reports": "2026-11-23T17:19:22.238274+00:00",
+        "rs_committee_press": "2026-11-23T17:19:31.618414+00:00",
+        "rs_press": "2026-11-23T17:19:28.922544+00:00",
+        "rs_reports": "2026-11-23T17:19:25.920728+00:00",
+        "rs_updates": "2026-11-23T17:19:33.157157+00:00"
       }
     },
     "scanned": [
@@ -55497,12 +55496,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-23T17:07:24.195178+00:00",
+    "last_run": "2026-11-23T17:21:49.902503+00:00",
     "seen": [
-      "x:2123390466716770643",
-      "x:2123390494021685302",
-      "x:2123390791519465520",
-      "x:2123390806426103826",
       "x:2123390917868740985",
       "x:2123391916146315348",
       "x:2123392227800170736",
@@ -58498,7 +58493,11 @@
       "x:2124904938035892306",
       "x:2124905975513862265",
       "x:2124907307142373469",
-      "x:2124910296640963021"
+      "x:2124910296640963021",
+      "x:2124912994752864288",
+      "x:2124913532366164202",
+      "x:2124913787677680061",
+      "x:2124914161675345992"
     ],
     "source_failures": {},
     "sources": []
