@@ -2,23 +2,6 @@
   "alerted": [
     {
       "at": "2026-11-13T07:31:35.871579+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Microsoft outage disrupts global markets and trading operations",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTRrc2phRjRxQzA1Q2h0QWMwZXNqT3VSd1hTWHVTT0w3alpOODhxM1FvYy1KYlhpUjE5V2N1aERhU2VNbkVLMktXcGgxeFVhempSYkdPWG9JbUdmNFBIYjVtWDBBY3h6eENWNVU0UjRjUWNnS3BpTks4TEQ5MFpVRzY3R2drTm1BeXJXMjQxVUxSUWZSbkZtUTRjSTRSZXkwX1hnMnkzd2hTVU5GZEVJSXV3?oc=5",
-      "words": [
-        "forces",
-        "gums",
-        "markets",
-        "microsoft",
-        "outage",
-        "phones",
-        "traders",
-        "use"
-      ]
-    },
-    {
-      "at": "2026-11-13T07:31:35.871579+00:00",
       "handle": "News: Global IT services",
       "headline": "Accenture India offers 26% bonuses while pausing salary hikes",
       "tier": 0,
@@ -7494,6 +7477,28 @@
         "pays",
         "ulagaratchagan",
         "unit"
+      ]
+    },
+    {
+      "at": "2026-11-23T06:31:22.730475+00:00",
+      "handle": "News: Global chips",
+      "headline": "L&T to deploy additional NVIDIA B300 GPUs at Chennai data centre",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ0pCOFUzbk1VTlVHTUl2d1NGRU1MWTV4a3FXSDV2QzRjQ3pMSlc1WjZTNk1PSTJMTFRXVUVNZ1JvM2JoQTNzUjQwX1NTZDdVUXAwRHRZQi1FejkzS2lMd1NPV0lIRlpqa0U1QVdjaXBGclpGTy1kaGRuaWhZZWtIQ0hDUlozcUlRdkVueTVfLTFtUHFvV2NpYWtJN3ZkVXBTSkhDVGs0SjRFV01jUE9CTVhXRHVmTjFFMTZmbUZYRWRCdDJIckdualVNUEZiSEhGZ1RHOFhkWUZ2RnJISUxTSNIB5gFBVV95cUxQcno5MThLUm9jT01XTHJwYlM1c1MzR3NtTGN3STEzRC10ZF9xUjFFSzJqOE9EdDF6MVpNNWFkeGtzYU9TX3ctQUxYbVY0SFJBUzRoSzF0Qm1pVy1GYkpEaWhhX1VMQ1V6QXozVWp5R1pSOF95UV8tcUNRM2x3SC00R2tnTlUwOEdsLS1hTWh1UnhYYU1xaktuX2xIYmE1TzIxV1d6RUtYQTR0Ymd6YXpvZXl0amJNcDVuXzFWaUVTUy1KTHM1ejdjUjktdk11OU9tX1AyYzFJMXBoVXdvUlItejE4SXZTUQ?oc=5",
+      "words": [
+        "additional",
+        "b300",
+        "center",
+        "chennai",
+        "data",
+        "deploy",
+        "details",
+        "gpus",
+        "here",
+        "large",
+        "nvidia",
+        "order",
+        "via"
       ]
     }
   ],
@@ -17559,12 +17564,9 @@
         "IRDAI": "2026-11-22T21:25:37.099604+00:00"
       }
     },
-    "last_run": "2026-11-23T06:17:24.696353+00:00",
+    "last_run": "2026-11-23T06:32:44.759224+00:00",
     "pib_mark": 2340195,
     "seen": [
-      "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-taurian-mps-ltd-_105452.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-role-of-axis-capital-limited-in-providing-guarantee-to-the-ncds-of-sojo-infotel-pvt-ltd-_105464.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8456-of-2024-against-against-dollar-advisory-and-financial-service-in-the-matter-of-dollar-advisory-and-financial-services-pro-_105462.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-signs-mou-with-boe-on-cooperation-and-exchange-of-information-related-to-sebi-recognised-clearing-corporations_105473.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html",
@@ -20133,6 +20135,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64010",
       "site:who-don:2026-DON625",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64011",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64012",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64013",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -20485,9 +20489,7 @@
       "mea:41981",
       "mea:41982",
       "mea:41983",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64012",
       "page:https://internal.imd.gov.in/press_release/20261120_pr_5512.pdf",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64013",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64014",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64015",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64016",
@@ -20561,7 +20563,10 @@
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|WOMAN INVOLVED IN BOOTLEGGING APPREHENDED BY PS NAND NAGRI",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|THREE ACCUSED INVOLVED IN STABBING OF TWO YOUTHS ARRESTED BY PS SONIA VIHAR",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64021",
-      "watch:pr:LS|3284"
+      "watch:pr:LS|3284",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64022",
+      "watch:pr:LS|3286",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64023"
     ],
     "source_failures": {
       "IRDAI": {
@@ -20627,10 +20632,6 @@
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00"
   },
   "handled": [
-    "1794897990128",
-    "1794900032773",
-    "1794903309336",
-    "1794903805640",
     "1794904133236",
     "1794907882170",
     "1794910848970",
@@ -25114,7 +25115,6 @@
     "1795398112626",
     "1795398840584",
     "1795399200856",
-    "1795399957352",
     "1795400371307",
     "1795338650978",
     "1795392101009",
@@ -25131,7 +25131,6 @@
     "1795397400517",
     "1795400090307",
     "1795400112994",
-    "1795400236415",
     "1795401266919",
     "1795401435912",
     "1795401779754",
@@ -25146,16 +25145,11 @@
     "1795338840031",
     "1795347300551",
     "1795347420870",
-    "1795350320347",
     "1795350749032",
     "1795355502687",
     "1795360507609",
-    "1795374600185",
     "1795384371275",
-    "1795385245066",
     "1795393863721",
-    "1795396691239",
-    "1795397955238",
     "1795398647625",
     "1795400151268",
     "1795401660597",
@@ -25174,8 +25168,18 @@
     "1795411500245",
     "1795411558200",
     "1795411975372",
-    "1795412703690",
     "1795413123696",
+    "1795388132151",
+    "1795392350415",
+    "1795394123422",
+    "1795396639630",
+    "1795401275268",
+    "1795403033362",
+    "1795404600314",
+    "1795408067886",
+    "1795408655818",
+    "1795409964561",
+    "1795410000918",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -26450,6 +26454,7 @@
     "1795338690432",
     "1795342215251",
     "1795347360534",
+    "1795350320347",
     "1795350660811",
     "1795354495426",
     "1795355502736",
@@ -26464,46 +26469,46 @@
     "1795371181195",
     "1795372200904",
     "1795373876173",
+    "1795374600185",
     "1795376040880",
     "1795376454553",
     "1795382047203",
     "1795383660907",
     "1795384813098",
+    "1795385245066",
     "1795386840382",
-    "1795388132151",
     "1795390200741",
     "1795391472548",
     "1795392000777",
     "1795392000794",
-    "1795392350415",
     "1795393800984",
-    "1795394123422",
     "1795394524009",
     "1795395425743",
     "1795395600247",
     "1795396450760",
-    "1795396639630",
+    "1795396691239",
     "1795397153821",
     "1795397175198",
     "1795397880179",
+    "1795397955238",
     "1795398240750",
     "1795398540551",
     "1795398853307",
     "1795399266856",
     "1795399471110",
+    "1795399957352",
     "1795399966392",
     "1795400040263",
+    "1795400236415",
     "1795400565347",
     "1795400700505",
     "1795401052841",
-    "1795401275268",
     "1795401477069",
     "1795401900639",
     "1795402184880",
     "1795402355694",
     "1795402604476",
     "1795402800877",
-    "1795403033362",
     "1795403070496",
     "1795403290561",
     "1795403762980",
@@ -26513,7 +26518,6 @@
     "1795404453108",
     "1795404456255",
     "1795404531859",
-    "1795404600314",
     "1795404600970",
     "1795405403154",
     "1795405560887",
@@ -26526,18 +26530,16 @@
     "1795406915057",
     "1795407540177",
     "1795407764379",
-    "1795408067886",
     "1795408119479",
-    "1795408655818",
+    "1795408474473",
     "1795408680783",
     "1795408854770",
     "1795408987866",
     "1795409393521",
     "1795409496238",
-    "1795409964561",
+    "1795410000364",
     "1795410000384",
     "1795410000665",
-    "1795410000918",
     "1795410483263",
     "1795410568352",
     "1795410671974",
@@ -26545,11 +26547,14 @@
     "1795411269653",
     "1795412511022",
     "1795412640401",
+    "1795412703690",
     "1795412866528",
     "1795412887967",
     "1795413035159",
     "1795413400423",
     "1795413978315",
+    "1795414142603",
+    "1795414419488",
     "1795420800853",
     "2331589",
     "2331704",
@@ -26628,8 +26633,8 @@
     "2339665",
     "2339914"
   ],
-  "last_digest_hour": "2026-11-23T11",
-  "last_success": "2026-11-23T06:16:09.629238+00:00",
+  "last_digest_hour": "2026-11-23T12",
+  "last_success": "2026-11-23T06:31:22.810119+00:00",
   "national": {
     "alerted": [
       {
@@ -37162,12 +37167,9 @@
       },
       "warned": "2026-11-23T02:08:10.555004+00:00"
     },
-    "last_run": "2026-11-23T06:16:58.753209+00:00",
+    "last_run": "2026-11-23T06:32:20.557885+00:00",
     "pib_mark": 2340195,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63895",
-      "mea:41848",
-      "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/rationalisation-of-periodicity-of-kyc-review-for-fpis_105504.html",
       "gazette:CG-DL-E-30102026-277547",
       "gazette:CG-DL-E-30102026-277548",
       "gazette:CG-DL-E-30102026-277549",
@@ -39674,6 +39676,8 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64010",
       "site:who-don:2026-DON625",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64011",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64012",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64013",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_9504dbd2-a2de-4c67-89ed-1fe186195186.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_26092025105040PN-CM-Cabinet Decisions-26 September, 2025.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_03072025062603PN-CM-Cabinet Decisions-03 July, 2025.pdf",
@@ -40086,9 +40090,7 @@
       "mea:41980",
       "mea:41982",
       "mea:41983",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64012",
       "page:https://internal.imd.gov.in/press_release/20261120_pr_5512.pdf",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64013",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64014",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64015",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64016",
@@ -40164,7 +40166,10 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64021",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|THREE ACCUSED INVOLVED IN STABBING OF TWO YOUTHS ARRESTED BY PS SONIA VIHAR",
       "site:Delhi Police press releases|dp-press:11/22/2026 12:00:00 AM|WOMAN INVOLVED IN BOOTLEGGING APPREHENDED BY PS NAND NAGRI",
-      "watch:pr:LS|3284"
+      "watch:pr:LS|3284",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64023",
+      "watch:pr:LS|3286",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64022"
     ],
     "source_failures": {
       "CBI": {
@@ -40239,26 +40244,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "L&T to deploy additional NVIDIA B300 GPUs at Chennai data centre",
-      "post": {
-        "created_at": "2026-11-23T05:14:59+00:00",
-        "handle": "News: Global chips",
-        "id": "1795410899523",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "L&T will deploy additional NVIDIA B300 GPUs at Chennai Data Center via 'large' order; Details here",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ0pCOFUzbk1VTlVHTUl2d1NGRU1MWTV4a3FXSDV2QzRjQ3pMSlc1WjZTNk1PSTJMTFRXVUVNZ1JvM2JoQTNzUjQwX1NTZDdVUXAwRHRZQi1FejkzS2lMd1NPV0lIRlpqa0U1QVdjaXBGclpGTy1kaGRuaWhZZWtIQ0hDUlozcUlRdkVueTVfLTFtUHFvV2NpYWtJN3ZkVXBTSkhDVGs0SjRFV01jUE9CTVhXRHVmTjFFMTZmbUZYRWRCdDJIckdualVNUEZiSEhGZ1RHOFhkWUZ2RnJISUxTSNIB5gFBVV95cUxQcno5MThLUm9jT01XTHJwYlM1c1MzR3NtTGN3STEzRC10ZF9xUjFFSzJqOE9EdDF6MVpNNWFkeGtzYU9TX3ctQUxYbVY0SFJBUzRoSzF0Qm1pVy1GYkpEaWhhX1VMQ1V6QXozVWp5R1pSOF95UV8tcUNRM2x3SC00R2tnTlUwOEdsLS1hTWh1UnhYYU1xaktuX2xIYmE1TzIxV1d6RUtYQTR0Ymd6YXpvZXl0amJNcDVuXzFWaUVTUy1KTHM1ejdjUjktdk11OU9tX1AyYzFJMXBoVXdvUlItejE4SXZTUQ?oc=5"
-      },
-      "queued_at": "2026-11-23T05:46:02.154995+00:00",
-      "score": 8.0,
-      "why": "Major domestic infrastructure investment involving advanced NVIDIA hardware and an Indian engineering firm."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41456,10 +41442,10 @@
     "naukri": 1791544947234,
     "news: big tech platforms": 1795413123696,
     "news: consumer internet india": 1795412887967,
-    "news: global ai": 1795413035159,
+    "news: global ai": 1795414142603,
     "news: global chips": 1795413978315,
     "news: global it services": 1795358792095,
-    "news: india ai deeptech": 1795413400423,
+    "news: india ai deeptech": 1795414419488,
     "news: india edtech gaming": 1795408675741,
     "news: india fintech": 1795393800984,
     "news: india semiconductors": 1795406915863,
@@ -41496,8 +41482,7 @@
   },
   "source_health": {
     "down": {
-      "News: Big tech platforms": "2026-11-23T06:16:04.069655+00:00",
-      "News: India tech policy": "2026-11-23T06:16:04.069655+00:00"
+      "News: Big tech platforms": "2026-11-23T06:16:04.069655+00:00"
     }
   },
   "watch": {
@@ -41516,7 +41501,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-23T06:16:10.159241+00:00",
+    "last_server_run": "2026-11-23T06:31:23.323354+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-23T04:32:55.156312+00:00",
@@ -44255,7 +44240,8 @@
       "gazette:CG-DL-E-20112026-278098|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-20112026-278098|MHA_FINANCE_MAIL_TO",
       "pr:LS|3282",
-      "pr:LS|3284"
+      "pr:LS|3284",
+      "pr:LS|3286"
     ]
   },
   "x_test": {
@@ -55407,14 +55393,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-23T06:17:06.665756+00:00",
+    "last_run": "2026-11-23T06:32:27.332363+00:00",
     "seen": [
-      "x:2123247633380819037",
-      "x:2123247997685486006",
-      "x:2123248190069854384",
-      "x:2123248311583097183",
-      "x:2123248762923733005",
-      "x:2123249910606860774",
       "x:2123249921763451268",
       "x:2123250319471862006",
       "x:2123250830820487249",
@@ -58408,7 +58388,13 @@
       "x:2124746297366487087",
       "x:2124746601054998743",
       "x:2124747224936861734",
-      "x:2124748055471878439"
+      "x:2124748055471878439",
+      "x:2124748201723122162",
+      "x:2124748611376542031",
+      "x:2124749038562296186",
+      "x:2124750482396893405",
+      "x:2124750709002527198",
+      "x:2124751846426521787"
     ],
     "source_failures": {},
     "sources": []
