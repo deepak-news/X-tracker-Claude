@@ -17593,7 +17593,7 @@
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-23T16:56:43.935987+00:00",
+    "last_run": "2026-11-23T17:07:34.566265+00:00",
     "pib_mark": 2340650,
     "seen": [
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63899",
@@ -20659,13 +20659,16 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "gemini-2.5-flash-lite": "2026-11-23T15:35:50.025167+00:00",
+    "gemini-3-flash-preview": "2026-11-23T17:02:37.747685+00:00",
+    "gemini-3.5-flash": "2026-11-23T17:02:37.747685+00:00",
     "gemini-3.5-flash-lite": "2026-11-21T05:16:58.655467+00:00",
     "gemini-3.6-flash": "2026-11-23T15:50:58.205051+00:00",
     "gemini-3.7-flash": "2026-11-23T15:35:50.025167+00:00",
     "gemini-3.8-flash": "2026-11-23T16:08:00.962966+00:00",
+    "gemini-omni-1.1-flash": "2026-11-23T17:02:37.747685+00:00",
     "gemini-omni-1.2-flash": "2026-11-23T16:37:49.047747+00:00"
   },
   "handled": [
@@ -37232,10 +37235,9 @@
       },
       "warned": "2026-11-23T02:08:10.555004+00:00"
     },
-    "last_run": "2026-11-23T16:55:01.371447+00:00",
+    "last_run": "2026-11-23T17:05:19.783766+00:00",
     "pib_mark": 2340650,
     "seen": [
-      "watch:pr:LS|3254",
       "site:Delhi Police|dp-whatsnew:press-release-hi.html",
       "watch:bulletin:RS|2026-11-03|Bulletin Part-II",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/fish_29oct26_539_e.htm",
@@ -40234,7 +40236,8 @@
       "pib:2340628",
       "pib:2340650",
       "pib:2340635",
-      "site:who-don:2026-DON628"
+      "site:who-don:2026-DON628",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168858"
     ],
     "source_failures": {
       "CBI": {
@@ -41585,7 +41588,11 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "News: Big tech platforms": "2026-11-23T17:01:40.489885+00:00",
+      "News: India semiconductors": "2026-11-23T17:01:40.489885+00:00",
+      "News: India tech policy": "2026-11-23T17:01:40.489885+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -41609,7 +41616,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-23T16:52:29.113622+00:00",
+    "last_server_run": "2026-11-23T17:02:38.176066+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-23T15:17:09.499547+00:00",
@@ -55490,9 +55497,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-23T16:56:18.958160+00:00",
+    "last_run": "2026-11-23T17:07:24.195178+00:00",
     "seen": [
-      "x:2123390071831515399",
       "x:2123390466716770643",
       "x:2123390494021685302",
       "x:2123390791519465520",
@@ -58491,7 +58497,8 @@
       "x:2124904275583328432",
       "x:2124904938035892306",
       "x:2124905975513862265",
-      "x:2124907307142373469"
+      "x:2124907307142373469",
+      "x:2124910296640963021"
     ],
     "source_failures": {},
     "sources": []
