@@ -17582,7 +17582,7 @@
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-23T21:22:08.732004+00:00",
+    "last_run": "2026-11-23T21:35:31.157070+00:00",
     "pib_mark": 2340650,
     "seen": [
       "gazette:CG-DL-E-31102026-277565",
@@ -20185,6 +20185,8 @@
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|GUJARAT BASED CONMAN, WANTED IN ABOUT RS 11 CRORE CHEATING CASE OF PS SUBASH PLACE APPREHENDED FROM KHOPOLI, MAHARASHTRA",
       "site:ICC|https://www.icc-cricket.com/media-releases/icc-brings-together-global-partners-with-combined-market-value-over-6-trillion-for-workshop-in-cape-town",
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|28 YEARS OLD MURDER CASE OF PS SULTANPURI, DELHI, WORKED OUT WITH THE ARREST OF ABSCONDING ACCUSED FROM AYODHYA, UTTAR PRADESH",
+      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|DELHI POLICE CRIME BRANCH RECLAIMS SEVEN YOUNG LIVES A TALE OF RESILIENCE AND REUNION",
+      "site:CAG|https://cag.gov.in/en/audit-report/details/125847",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
@@ -20536,10 +20538,8 @@
       "page:https://internal.imd.gov.in/press_release/20261123_pr_5518.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-joint-press-statement-with-prime-minister-of-nepal",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-how-indias-fight-against-poverty-is-changing-lives-across-the-country",
-      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|DELHI POLICE CRIME BRANCH RECLAIMS SEVEN YOUNG LIVES A TALE OF RESILIENCE AND REUNION",
       "watch:meeting:LS|22679",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-essential-qualities-that-sustain-prosperity",
-      "site:CAG|https://cag.gov.in/en/audit-report/details/125847",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-lauds-national-hpv-vaccination-campaign",
       "watch:meeting:LS|22678",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64024",
@@ -20648,7 +20648,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 3,
+  "consecutive_failures": 4,
   "dead_models": {
     "gemini-2.5-computer-use-preview-10-2025": "2026-11-23T17:50:38.196427+00:00",
     "gemini-2.5-flash-lite": "2026-11-23T15:35:50.025167+00:00",
@@ -20667,11 +20667,13 @@
     "gemini-4-neon": "2026-11-23T17:16:26.519748+00:00",
     "gemini-flash-latest": "2026-11-23T17:16:26.519748+00:00",
     "gemini-flash-lite-latest": "2026-11-23T17:34:40.488433+00:00",
+    "gemini-nano-banana-2.1": "2026-11-23T21:32:32.169816+00:00",
     "gemini-omni-1.1-flash": "2026-11-23T17:02:37.747685+00:00",
     "gemini-omni-1.2-flash": "2026-11-23T16:37:49.047747+00:00",
     "gemini-omni-flash-preview": "2026-11-23T17:16:26.519748+00:00",
     "gemini-pro-latest": "2026-11-23T18:16:37.797422+00:00",
-    "lyria-3.5": "2026-11-23T17:50:38.196427+00:00"
+    "lyria-3.5": "2026-11-23T17:50:38.196427+00:00",
+    "nano-banana-pro-preview": "2026-11-23T21:32:32.169816+00:00"
   },
   "handled": [
     "1794953043229",
@@ -26675,7 +26677,7 @@
     "2340334",
     "2340401"
   ],
-  "last_digest_hour": "2026-11-24T02",
+  "last_digest_hour": "2026-11-24T03",
   "last_success": "2026-11-23T20:31:39.756428+00:00",
   "national": {
     "alerted": [
@@ -37235,7 +37237,7 @@
       },
       "warned": "2026-11-23T02:08:10.555004+00:00"
     },
-    "last_run": "2026-11-23T21:20:35.207730+00:00",
+    "last_run": "2026-11-23T21:35:18.051413+00:00",
     "pib_mark": 2340650,
     "seen": [
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63902",
@@ -39778,6 +39780,8 @@
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|GUJARAT BASED CONMAN, WANTED IN ABOUT RS 11 CRORE CHEATING CASE OF PS SUBASH PLACE APPREHENDED FROM KHOPOLI, MAHARASHTRA",
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|28 YEARS OLD MURDER CASE OF PS SULTANPURI, DELHI, WORKED OUT WITH THE ARREST OF ABSCONDING ACCUSED FROM AYODHYA, UTTAR PRADESH",
       "site:ICC|https://www.icc-cricket.com/media-releases/icc-brings-together-global-partners-with-combined-market-value-over-6-trillion-for-workshop-in-cape-town",
+      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|DELHI POLICE CRIME BRANCH RECLAIMS SEVEN YOUNG LIVES A TALE OF RESILIENCE AND REUNION",
+      "site:CAG|https://cag.gov.in/en/audit-report/details/125847",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -40189,9 +40193,7 @@
       "page:https://internal.imd.gov.in/press_release/20261123_pr_5518.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-joint-press-statement-with-prime-minister-of-nepal",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-how-indias-fight-against-poverty-is-changing-lives-across-the-country",
-      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|DELHI POLICE CRIME BRANCH RECLAIMS SEVEN YOUNG LIVES A TALE OF RESILIENCE AND REUNION",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-lauds-national-hpv-vaccination-campaign",
-      "site:CAG|https://cag.gov.in/en/audit-report/details/125847",
       "watch:meeting:LS|22679",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64024",
       "watch:meeting:LS|22678",
@@ -41551,7 +41553,11 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "News: India AI deeptech": "2026-11-23T21:31:15.420567+00:00",
+      "News: India tech policy": "2026-11-23T21:31:15.420567+00:00",
+      "News: Indian IT midcaps": "2026-11-23T21:31:15.420567+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -41575,17 +41581,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-23T21:17:01.913709+00:00",
+    "last_server_run": "2026-11-23T21:32:32.636272+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-23T19:34:20.327563+00:00",
+        "checked": "2026-11-23T21:35:01.801010+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-23T19:34:13.249649+00:00",
+        "checked": "2026-11-23T21:34:53.822014+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -41661,7 +41667,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-23T19:34:16.780149+00:00",
+        "checked": "2026-11-23T21:34:57.805184+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -41715,11 +41721,11 @@
       },
       "last": {
         "calendar": "2026-11-23T17:19:05.163257+00:00",
-        "ls_reports": "2026-11-23T19:33:57.864483+00:00",
-        "rs_committee_press": "2026-11-23T19:34:07.118365+00:00",
-        "rs_press": "2026-11-23T19:34:04.125860+00:00",
-        "rs_reports": "2026-11-23T19:34:01.560480+00:00",
-        "rs_updates": "2026-11-23T19:34:08.967086+00:00"
+        "ls_reports": "2026-11-23T21:34:40.145726+00:00",
+        "rs_committee_press": "2026-11-23T21:34:48.432392+00:00",
+        "rs_press": "2026-11-23T21:34:45.962579+00:00",
+        "rs_reports": "2026-11-23T21:34:43.325290+00:00",
+        "rs_updates": "2026-11-23T21:34:49.827109+00:00"
       }
     },
     "scanned": [
@@ -55421,7 +55427,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-23T21:20:39.391462+00:00",
+    "last_run": "2026-11-23T21:35:21.430352+00:00",
     "seen": [
       "x:2123411093808910847",
       "x:2123411403927359638",
