@@ -17589,7 +17589,7 @@
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-24T01:05:38.752033+00:00",
+    "last_run": "2026-11-24T01:21:21.903607+00:00",
     "pib_mark": 2340650,
     "seen": [
       "gazette:CG-DL-E-31102026-277565",
@@ -20204,6 +20204,8 @@
       "watch:bulletin:RS|2026-11-23|Bulletin Part-II",
       "watch:bulletin:LS|2026-11-23|Bulletin-II",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168856",
+      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|CYBER POLICE STATION, DWARKA AND PS UTTAM NAGAR IN A JOINT OPERATION BUSTS AN ORGANISED MULE ACCOUNT RACKET INVOLVED IN CYBER FRAUDS ACROSS INDIA 04 ACCUSED PERSONS ARRESTED.",
+      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|02 NOTORIOUS CRIMINALS WITH 66 PREVIOUS INVOLVEMENTS AND HEREIN AS WELL, INVOLVED IN A CHAIN SNATCHING CASE OF NAJAFGARH, APPREHENDED FROM KHATU SHYAM JI, RAJASTHAN",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
@@ -20574,8 +20576,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64029",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64030",
       "dgft-public-notice:d4721628-51ce-4811-a6d2-27754ca6d236",
-      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|CYBER POLICE STATION, DWARKA AND PS UTTAM NAGAR IN A JOINT OPERATION BUSTS AN ORGANISED MULE ACCOUNT RACKET INVOLVED IN CYBER FRAUDS ACROSS INDIA 04 ACCUSED PERSONS ARRESTED.",
-      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|02 NOTORIOUS CRIMINALS WITH 66 PREVIOUS INVOLVEMENTS AND HEREIN AS WELL, INVOLVED IN A CHAIN SNATCHING CASE OF NAJAFGARH, APPREHENDED FROM KHATU SHYAM JI, RAJASTHAN",
       "mea:41996",
       "mea:41995",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64032",
@@ -20655,7 +20655,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 6,
+  "consecutive_failures": 7,
   "dead_models": {
     "gemini-2.5-computer-use-preview-10-2025": "2026-11-23T17:50:38.196427+00:00",
     "gemini-2.5-flash-lite": "2026-11-23T15:35:50.025167+00:00",
@@ -37248,7 +37248,7 @@
       },
       "warned": "2026-11-23T02:08:10.555004+00:00"
     },
-    "last_run": "2026-11-24T01:04:45.625284+00:00",
+    "last_run": "2026-11-24T01:20:07.816565+00:00",
     "pib_mark": 2340650,
     "seen": [
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63902",
@@ -39803,6 +39803,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168857",
       "watch:bulletin:LS|2026-11-23|Bulletin-II",
       "watch:bulletin:RS|2026-11-23|Bulletin Part-II",
+      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|CYBER POLICE STATION, DWARKA AND PS UTTAM NAGAR IN A JOINT OPERATION BUSTS AN ORGANISED MULE ACCOUNT RACKET INVOLVED IN CYBER FRAUDS ACROSS INDIA 04 ACCUSED PERSONS ARRESTED.",
+      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|02 NOTORIOUS CRIMINALS WITH 66 PREVIOUS INVOLVEMENTS AND HEREIN AS WELL, INVOLVED IN A CHAIN SNATCHING CASE OF NAJAFGARH, APPREHENDED FROM KHATU SHYAM JI, RAJASTHAN",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -40233,9 +40235,7 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64029",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64030",
       "dgft-public-notice:d4721628-51ce-4811-a6d2-27754ca6d236",
-      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|CYBER POLICE STATION, DWARKA AND PS UTTAM NAGAR IN A JOINT OPERATION BUSTS AN ORGANISED MULE ACCOUNT RACKET INVOLVED IN CYBER FRAUDS ACROSS INDIA 04 ACCUSED PERSONS ARRESTED.",
       "mea:41996",
-      "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|02 NOTORIOUS CRIMINALS WITH 66 PREVIOUS INVOLVEMENTS AND HEREIN AS WELL, INVOLVED IN A CHAIN SNATCHING CASE OF NAJAFGARH, APPREHENDED FROM KHATU SHYAM JI, RAJASTHAN",
       "mea:41995",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64031",
@@ -41564,11 +41564,7 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {
-      "News: Global IT services": "2026-11-24T01:01:47.110191+00:00",
-      "News: India telecom": "2026-11-24T01:01:47.110191+00:00",
-      "News: Indian IT midcaps": "2026-11-24T01:01:47.110191+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41592,7 +41588,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T01:02:20.470584+00:00",
+    "last_server_run": "2026-11-24T01:17:00.355703+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-23T23:49:17.073864+00:00",
@@ -55438,7 +55434,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T01:05:21.585510+00:00",
+    "last_run": "2026-11-24T01:20:45.304026+00:00",
     "seen": [
       "x:2123413269754876110",
       "x:2123413561494085935",
