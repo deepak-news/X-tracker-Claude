@@ -17588,14 +17588,20 @@
       "CG-DL-E-23112026-278137",
       "CG-DL-E-23112026-278138",
       "CG-DL-E-23112026-278139",
-      "CG-MH-E-23112026-278140"
+      "CG-MH-E-23112026-278140",
+      "CG-DL-E-24112026-278141",
+      "CG-DL-E-24112026-278142",
+      "CG-DL-E-24112026-278149",
+      "CG-DL-E-24112026-278150",
+      "CG-DL-E-24112026-278152",
+      "CG-TL-E-24112026-278146"
     ],
     "health": {
       "down": {
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-24T03:48:13.934820+00:00",
+    "last_run": "2026-11-24T04:06:56.776153+00:00",
     "pib_mark": 2340708,
     "seen": [
       "gazette:CG-DL-E-31102026-277565",
@@ -20051,22 +20057,8 @@
       "gazette:CG-DL-E-20112026-278099",
       "gazette:CG-DL-E-20112026-278100",
       "gazette:CG-DL-E-21112026-278105",
-      "gazette:CG-AS-E-21112026-278110",
       "gazette:CG-DL-E-21112026-278106",
-      "gazette:CG-DL-E-21112026-278107",
-      "gazette:CG-AP-E-21112026-278108",
-      "gazette:CG-DL-E-21112026-278109",
-      "gazette:CG-DL-E-21112026-278111",
-      "gazette:CG-DL-E-21112026-278112",
-      "gazette:CG-TL-E-21112026-278114",
-      "gazette:CG-MH-E-21112026-278113",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64016",
-      "gazette:CG-DL-E-21112026-278118",
-      "gazette:CG-TL-E-21112026-278115",
-      "gazette:CG-OR-E-21112026-278116",
-      "gazette:CG-OR-E-21112026-278117",
-      "gazette:CG-OR-E-21112026-278120",
-      "gazette:CG-AP-E-21112026-278119",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
@@ -20194,6 +20186,24 @@
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|02 NOTORIOUS CRIMINALS WITH 66 PREVIOUS INVOLVEMENTS AND HEREIN AS WELL, INVOLVED IN A CHAIN SNATCHING CASE OF NAJAFGARH, APPREHENDED FROM KHATU SHYAM JI, RAJASTHAN",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/safe_eec_23nov26_561_e.htm",
       "site:ICC|https://www.icc-cricket.com/media-releases/sri-lanka-ireland-to-play-icc-women-s-emerging-nations-trophy-2026-final",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu",
+      "page:https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-joint-press-statement-with-prime-minister-of-nepal",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-how-indias-fight-against-poverty-is-changing-lives-across-the-country",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-lauds-national-hpv-vaccination-campaign",
+      "gazette:CG-AS-E-21112026-278110",
+      "gazette:CG-DL-E-21112026-278107",
+      "gazette:CG-AP-E-21112026-278108",
+      "gazette:CG-DL-E-21112026-278109",
+      "gazette:CG-DL-E-21112026-278111",
+      "gazette:CG-DL-E-21112026-278112",
+      "gazette:CG-TL-E-21112026-278114",
+      "gazette:CG-MH-E-21112026-278113",
+      "gazette:CG-DL-E-21112026-278118",
+      "gazette:CG-TL-E-21112026-278115",
+      "gazette:CG-OR-E-21112026-278116",
+      "gazette:CG-OR-E-21112026-278117",
+      "gazette:CG-OR-E-21112026-278120",
+      "gazette:CG-AP-E-21112026-278119",
       "gazette:CG-BR-E-21112026-278123",
       "gazette:CG-MH-E-21112026-278122",
       "gazette:CG-MH-E-21112026-278121",
@@ -20561,12 +20571,8 @@
       "feed:http://www.niti.gov.in/node/2467",
       "feed:http://www.niti.gov.in/node/2466",
       "mea:41991",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu",
       "page:https://internal.imd.gov.in/press_release/20261123_pr_5518.pdf",
-      "page:https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-joint-press-statement-with-prime-minister-of-nepal",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-how-indias-fight-against-poverty-is-changing-lives-across-the-country",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-essential-qualities-that-sustain-prosperity",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-lauds-national-hpv-vaccination-campaign",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64024",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%87%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B8+%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0+%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%A5+%E0%A4%8F%E0%A4%A3%E0%A5%8D%E0%A4%A1+%E0%A4%85%E0%A4%B2%E0%A4%BE%E0%A4%AF%E0%A4%A1+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Order+in+the+matter+of+Star+Health+and+Allied+Insurance+Company+Limited.pdf/b73bc683-27ac-61b7-90d8-968388817767",
       "mea:41993",
@@ -20657,7 +20663,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "gemini-2.5-computer-use-preview-10-2025": "2026-11-23T17:50:38.196427+00:00",
     "gemini-2.5-flash-lite": "2026-11-23T15:35:50.025167+00:00",
@@ -37244,7 +37250,13 @@
       "CG-DL-E-23112026-278137",
       "CG-DL-E-23112026-278138",
       "CG-DL-E-23112026-278139",
-      "CG-MH-E-23112026-278140"
+      "CG-MH-E-23112026-278140",
+      "CG-DL-E-24112026-278141",
+      "CG-DL-E-24112026-278142",
+      "CG-DL-E-24112026-278149",
+      "CG-DL-E-24112026-278150",
+      "CG-DL-E-24112026-278152",
+      "CG-TL-E-24112026-278146"
     ],
     "health": {
       "down": {
@@ -37255,7 +37267,7 @@
       },
       "warned": "2026-11-24T02:19:51.675381+00:00"
     },
-    "last_run": "2026-11-24T03:47:37.823533+00:00",
+    "last_run": "2026-11-24T04:04:46.920343+00:00",
     "pib_mark": 2340708,
     "seen": [
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168724",
@@ -39647,22 +39659,8 @@
       "gazette:CG-DL-E-20112026-278099",
       "gazette:CG-DL-E-20112026-278100",
       "gazette:CG-DL-E-21112026-278105",
-      "gazette:CG-AS-E-21112026-278110",
-      "gazette:CG-AP-E-21112026-278108",
-      "gazette:CG-DL-E-21112026-278109",
-      "gazette:CG-DL-E-21112026-278107",
       "gazette:CG-DL-E-21112026-278106",
-      "gazette:CG-DL-E-21112026-278112",
-      "gazette:CG-DL-E-21112026-278111",
-      "gazette:CG-TL-E-21112026-278114",
-      "gazette:CG-MH-E-21112026-278113",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64016",
-      "gazette:CG-TL-E-21112026-278115",
-      "gazette:CG-DL-E-21112026-278118",
-      "gazette:CG-OR-E-21112026-278116",
-      "gazette:CG-OR-E-21112026-278117",
-      "gazette:CG-OR-E-21112026-278120",
-      "gazette:CG-AP-E-21112026-278119",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
@@ -39793,6 +39791,24 @@
       "quake:usgs:us6000ud3i",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/safe_eec_23nov26_561_e.htm",
       "site:ICC|https://www.icc-cricket.com/media-releases/sri-lanka-ireland-to-play-icc-women-s-emerging-nations-trophy-2026-final",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu",
+      "page:https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-joint-press-statement-with-prime-minister-of-nepal",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-how-indias-fight-against-poverty-is-changing-lives-across-the-country",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-lauds-national-hpv-vaccination-campaign",
+      "gazette:CG-AS-E-21112026-278110",
+      "gazette:CG-AP-E-21112026-278108",
+      "gazette:CG-DL-E-21112026-278109",
+      "gazette:CG-DL-E-21112026-278107",
+      "gazette:CG-DL-E-21112026-278112",
+      "gazette:CG-DL-E-21112026-278111",
+      "gazette:CG-TL-E-21112026-278114",
+      "gazette:CG-MH-E-21112026-278113",
+      "gazette:CG-TL-E-21112026-278115",
+      "gazette:CG-DL-E-21112026-278118",
+      "gazette:CG-OR-E-21112026-278116",
+      "gazette:CG-OR-E-21112026-278117",
+      "gazette:CG-OR-E-21112026-278120",
+      "gazette:CG-AP-E-21112026-278119",
       "gazette:CG-MH-E-21112026-278122",
       "gazette:CG-BR-E-21112026-278123",
       "gazette:CG-MH-E-21112026-278121",
@@ -40220,11 +40236,7 @@
       "feed:http://www.niti.gov.in/node/2466",
       "feed:http://www.niti.gov.in/node/2467",
       "mea:41991",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-condoles-loss-of-lives-in-a-mishap-in-tiruchirappalli-tamil-nadu",
       "page:https://internal.imd.gov.in/press_release/20261123_pr_5518.pdf",
-      "page:https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-joint-press-statement-with-prime-minister-of-nepal",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-on-how-indias-fight-against-poverty-is-changing-lives-across-the-country",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-lauds-national-hpv-vaccination-campaign",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64024",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-essential-qualities-that-sustain-prosperity",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AE%E0%A5%87%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B8+%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0+%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%A5+%E0%A4%8F%E0%A4%A3%E0%A5%8D%E0%A4%A1+%E0%A4%85%E0%A4%B2%E0%A4%BE%E0%A4%AF%E0%A4%A1+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Order+in+the+matter+of+Star+Health+and+Allied+Insurance+Company+Limited.pdf/b73bc683-27ac-61b7-90d8-968388817767",
@@ -41570,19 +41582,9 @@
   "source_health": {
     "down": {
       "News: Big tech platforms": "2026-11-24T03:46:22.710235+00:00",
-      "News: Consumer internet India": "2026-11-24T03:46:22.710235+00:00",
-      "News: Global AI": "2026-11-24T03:46:22.710235+00:00",
-      "News: Global IT services": "2026-11-24T03:46:22.710235+00:00",
       "News: Global chips": "2026-11-24T03:46:22.710235+00:00",
       "News: India AI deeptech": "2026-11-24T03:46:22.710235+00:00",
-      "News: India edtech gaming": "2026-11-24T03:46:22.710235+00:00",
-      "News: India fintech": "2026-11-24T03:46:22.710235+00:00",
-      "News: India semiconductors": "2026-11-24T03:46:22.710235+00:00",
-      "News: India tech policy": "2026-11-24T03:46:22.710235+00:00",
-      "News: India telecom": "2026-11-24T03:46:22.710235+00:00",
-      "News: Indian IT majors": "2026-11-24T03:46:22.710235+00:00",
-      "News: Indian IT midcaps": "2026-11-24T03:46:22.710235+00:00",
-      "News: Tech leaders": "2026-11-24T03:46:22.710235+00:00"
+      "News: Indian IT majors": "2026-11-24T03:46:22.710235+00:00"
     }
   },
   "watch": {
@@ -41601,17 +41603,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T03:46:51.465668+00:00",
+    "last_server_run": "2026-11-24T04:02:30.906753+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-24T01:50:15.086830+00:00",
+        "checked": "2026-11-24T04:03:30.487836+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-24T01:50:06.965656+00:00",
+        "checked": "2026-11-24T04:03:21.966633+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -41687,7 +41689,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-24T01:50:10.992401+00:00",
+        "checked": "2026-11-24T04:03:26.141928+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -41741,11 +41743,11 @@
       },
       "last": {
         "calendar": "2026-11-23T23:34:02.200726+00:00",
-        "ls_reports": "2026-11-24T01:49:51.580437+00:00",
-        "rs_committee_press": "2026-11-24T01:50:00.736491+00:00",
-        "rs_press": "2026-11-24T01:49:57.602021+00:00",
-        "rs_reports": "2026-11-24T01:49:54.799651+00:00",
-        "rs_updates": "2026-11-24T01:50:02.498258+00:00"
+        "ls_reports": "2026-11-24T04:03:07.096248+00:00",
+        "rs_committee_press": "2026-11-24T04:03:16.565499+00:00",
+        "rs_press": "2026-11-24T04:03:13.861333+00:00",
+        "rs_reports": "2026-11-24T04:03:10.594371+00:00",
+        "rs_updates": "2026-11-24T04:03:17.962434+00:00"
       }
     },
     "scanned": [
@@ -42895,6 +42897,11 @@
       "CG-DL-E-24102026-277402",
       "CG-DL-E-24102026-277403",
       "CG-DL-E-24102026-277417",
+      "CG-DL-E-24112026-278141",
+      "CG-DL-E-24112026-278142",
+      "CG-DL-E-24112026-278149",
+      "CG-DL-E-24112026-278150",
+      "CG-DL-E-24112026-278152",
       "CG-DL-E-25092026-276486",
       "CG-DL-E-25092026-276492",
       "CG-DL-E-25092026-276496",
@@ -43446,6 +43453,7 @@
       "CG-TL-E-23092026-276406",
       "CG-TL-E-24102026-277414",
       "CG-TL-E-24102026-277416",
+      "CG-TL-E-24112026-278146",
       "CG-TL-E-27102026-277450",
       "CG-TL-E-28092026-276551",
       "CG-TL-E-28092026-276556",
@@ -44360,7 +44368,13 @@
       "meeting:LS|22679",
       "meeting:LS|22678",
       "bulletin:LS|2026-11-23|Bulletin-II",
-      "bulletin:RS|2026-11-23|Bulletin Part-II"
+      "bulletin:RS|2026-11-23|Bulletin Part-II",
+      "gazette:CG-DL-E-24112026-278152|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-24112026-278150|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-24112026-278149|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-24112026-278152|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-24112026-278150|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-24112026-278149|MHA_FINANCE_MAIL_TO"
     ]
   },
   "x_test": {
@@ -55447,16 +55461,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T03:48:00.517262+00:00",
+    "last_run": "2026-11-24T04:05:47.402326+00:00",
     "seen": [
-      "x:2123424856767340631",
-      "x:2123425007745499187",
-      "x:2123425065316544795",
-      "x:2123425168223793500",
-      "x:2123425766709080449",
-      "x:2123425890625544294",
-      "x:2123426576809570430",
-      "x:2123427387035795653",
       "x:2123427979946844598",
       "x:2123428394046222774",
       "x:2123428726243459167",
@@ -58448,7 +58454,15 @@
       "x:2125071756629274669",
       "x:2125071911512408518",
       "x:2125072255034281992",
-      "x:2125072474438307918"
+      "x:2125072474438307918",
+      "x:2125074427863859211",
+      "x:2125075331262677066",
+      "x:2125075818762428589",
+      "x:2125075892028539270",
+      "x:2125076397295312913",
+      "x:2125076945511886953",
+      "x:2125076946765975768",
+      "x:2125076948082655334"
     ],
     "source_failures": {},
     "sources": []
