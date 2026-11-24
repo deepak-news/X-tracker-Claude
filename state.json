@@ -17589,8 +17589,8 @@
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-24T03:04:46.773419+00:00",
-    "pib_mark": 2340650,
+    "last_run": "2026-11-24T03:19:24.392500+00:00",
+    "pib_mark": 2340707,
     "seen": [
       "gazette:CG-DL-E-31102026-277565",
       "gazette:CG-DL-E-31102026-277567",
@@ -20651,7 +20651,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 6,
+  "consecutive_failures": 7,
   "dead_models": {
     "gemini-2.5-computer-use-preview-10-2025": "2026-11-23T17:50:38.196427+00:00",
     "gemini-2.5-flash-lite": "2026-11-23T15:35:50.025167+00:00",
@@ -37249,8 +37249,8 @@
       },
       "warned": "2026-11-24T02:19:51.675381+00:00"
     },
-    "last_run": "2026-11-24T03:03:52.466412+00:00",
-    "pib_mark": 2340650,
+    "last_run": "2026-11-24T03:18:20.451717+00:00",
+    "pib_mark": 2340707,
     "seen": [
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168724",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168726",
@@ -41562,13 +41562,7 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {
-      "News: Consumer internet India": "2026-11-24T03:02:03.650701+00:00",
-      "News: Global AI": "2026-11-24T03:02:03.650701+00:00",
-      "News: Global IT services": "2026-11-24T03:02:03.650701+00:00",
-      "REG NPCI": "2026-11-24T03:02:03.650701+00:00",
-      "Redseer": "2026-11-24T03:02:03.650701+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41586,7 +41580,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T03:02:29.993899+00:00",
+    "last_server_run": "2026-11-24T03:17:24.479989+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-24T01:50:15.086830+00:00",
@@ -55432,10 +55426,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T03:04:23.849717+00:00",
+    "last_run": "2026-11-24T03:18:50.490284+00:00",
     "seen": [
-      "x:2123420913559597142",
-      "x:2123420999094042827",
       "x:2123421136012911001",
       "x:2123421247778500837",
       "x:2123422438872777135",
@@ -58433,7 +58425,9 @@
       "x:2125059532447768653",
       "x:2125060798091550990",
       "x:2125061880905682964",
-      "x:2125062194954162609"
+      "x:2125062194954162609",
+      "x:2125062892487942144",
+      "x:2125063251658690745"
     ],
     "source_failures": {},
     "sources": []
