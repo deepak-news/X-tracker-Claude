@@ -2,26 +2,6 @@
   "alerted": [
     {
       "at": "2026-11-16T17:31:55.967049+00:00",
-      "handle": "News: Global chips",
-      "headline": "Nvidia scandal fuels tougher China chip rules targeting Singapore",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3Y3alpwX1pWVjZwQUM4WTBBdjRlemVCZFJjeFNUSC1jd1BIQXV3MzMxcDduSGViNjJxTktOYUxlMXpPbXE2MHk1alFvZF9KNnY3T0RRRGZrR3JiRTRuWUdpUE52b3VMYlYxUW1FdnZod21oc0lPQ3g2UDNXTUFHdExSc1p1YlFENTZ4Mjczaw?oc=5",
-      "words": [
-        "china",
-        "chip",
-        "commerce",
-        "fuels",
-        "malaysia",
-        "nvidia",
-        "rules",
-        "scandal",
-        "singapore",
-        "targets",
-        "tougher"
-      ]
-    },
-    {
-      "at": "2026-11-16T17:31:55.967049+00:00",
       "handle": "News: Global AI",
       "headline": "OpenAI releases new image classifier and ChatGPT CSAM warnings",
       "tier": 0,
@@ -7428,6 +7408,25 @@
         "openai",
         "release",
         "stakes"
+      ]
+    },
+    {
+      "at": "2026-11-24T17:45:14.044049+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Microsoft declares internal Code Red following historic outage",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWlZRm9kdXdaMDkwUWdXZVZPM2NTakFfZTFDa3Iwcm5yNXh4enZZVWRpWjBuc2ZpVERzOElVc0h5NjY4eXZnb0w5YUZ4Wm1nRmUwd04xQmNKZDQxOFlQWk12N0FCd3hSQTVLVFFWZmJKbm01S0pCM1AwRXVRZklpdWJfdkJ1N0FDdS1EZGNqTzd4WjZoUy1qZ1QwNktXdUlMWlBDYW9jYlozNEVDV01DSGZlVVc?oc=5",
+      "words": [
+        "code",
+        "declares",
+        "exclusive",
+        "historic",
+        "internal",
+        "memos",
+        "microsoft",
+        "outage",
+        "red",
+        "show"
       ]
     }
   ],
@@ -17522,7 +17521,7 @@
         "State: Telangana": "2026-11-24T12:47:07.519334+00:00"
       }
     },
-    "last_run": "2026-11-24T17:36:25.057364+00:00",
+    "last_run": "2026-11-24T17:54:09.506439+00:00",
     "pib_mark": 2341022,
     "seen": [
       "pib:2331870",
@@ -20087,6 +20086,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/viksit-bharat-and-samunnat-nepal-re-imagining-the-partnership",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|COMMISSIONER OF POLICE, DELHI AND SPECIAL COMMISSIONER OF POLICE, LAW AND ORDER, ZONE II, APPRECIATE THE WEST DISTRICT TEAM FOR THE SUCCESSFUL EXECUTION OF OPERATION JAMTARA.",
+      "site:Delhi Police press releases|dp-press:11/24/2026 12:00:00 AM|PS SHAKARPUR WORKS OUT HOUSE THEFT CASE, ONE ACCUSED ARRESTED, STOLEN JEWELLERY RECOVERED",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
       "page:https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_16052025123546PN-CM-Cabinet Decisions-15 May, 2025.pdf",
       "page:https://information.up.gov.in/cabinetdec/3.pdf",
@@ -20482,7 +20482,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-shabad-kirtan-on-the-parkash-purab-of-sri-guru-nanak-dev-ji",
       "mea:41998",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%87+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%A8+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%8B+%E0%A4%AE%E0%A4%9C%E0%A4%AC%E0%A5%82%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87++%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%9C%E0%A5%8D%E0%A4%9E+%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A4%BE+%E0%A4%97%E0%A4%A0%E0%A4%A8+%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE+%E0%A4%B9%E0%A5%88+_+IRDAI+constitutes+Expert+Committee+to+strengthen+the+design+and+implementation+of+its+distribution+reforms.pdf/c70f41b4-1cfc-4f69-c4c1-e206e39b0167",
-      "site:Delhi Police press releases|dp-press:11/24/2026 12:00:00 AM|PS SHAKARPUR WORKS OUT HOUSE THEFT CASE, ONE ACCUSED ARRESTED, STOLEN JEWELLERY RECOVERED",
       "mea:41999",
       "pib:2340707",
       "pib:2340796",
@@ -20584,7 +20583,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
     "antigravity-preview-latest": "2026-11-24T16:08:41.929678+00:00",
@@ -26622,7 +26621,7 @@
     "2340401",
     "2340846"
   ],
-  "last_digest_hour": "2026-11-24T22",
+  "last_digest_hour": "2026-11-24T23",
   "last_success": "2026-11-24T17:28:39.055222+00:00",
   "national": {
     "alerted": [
@@ -37227,7 +37226,7 @@
       },
       "warned": "2026-11-24T02:19:51.675381+00:00"
     },
-    "last_run": "2026-11-24T17:31:03.020089+00:00",
+    "last_run": "2026-11-24T17:46:54.139275+00:00",
     "pib_mark": 2341022,
     "seen": [
       "gazette:CG-BR-E-04112026-277638",
@@ -39707,6 +39706,7 @@
       "quake:ncs:TUgwWHBGcGlHdGFLbEF4b2l5VE9wdz09",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|COMMISSIONER OF POLICE, DELHI AND SPECIAL COMMISSIONER OF POLICE, LAW AND ORDER, ZONE II, APPRECIATE THE WEST DISTRICT TEAM FOR THE SUCCESSFUL EXECUTION OF OPERATION JAMTARA.",
+      "site:Delhi Police press releases|dp-press:11/24/2026 12:00:00 AM|PS SHAKARPUR WORKS OUT HOUSE THEFT CASE, ONE ACCUSED ARRESTED, STOLEN JEWELLERY RECOVERED",
       "gazette:CG-MH-E-23112026-278140",
       "gazette:CG-DL-E-23112026-278138",
       "gazette:CG-DL-E-23112026-278139",
@@ -40202,7 +40202,6 @@
       "pib:2340776",
       "pib:2340841",
       "pib:2340789",
-      "site:Delhi Police press releases|dp-press:11/24/2026 12:00:00 AM|PS SHAKARPUR WORKS OUT HOUSE THEFT CASE, ONE ACCUSED ARRESTED, STOLEN JEWELLERY RECOVERED",
       "site:Delhi Police press releases|dp-press:11/24/2026 12:00:00 AM|CYBER INVESTMENT FRAUD SYNDICATE BUSTED BY PS CYBER POLICE, NORTH EAST DISTRICT.",
       "site:Delhi Police press releases|dp-press:11/24/2026 12:00:00 AM|EAST DISTRICT POLICE INTENSIFIES WOMEN AND CHILD SAFETY CAMPAIGN THROUGH SELF DEFENCE TRAINING, AWARENESS PROGRAMMES AND SPECIAL PATROLLING",
       "site:Delhi Police press releases|dp-press:11/24/2026 12:00:00 AM|CRYPTOCURRENCY FRAUD SYNDICATE TARGETING TRADERS THROUGH PHISHING LINKS BUSTED BY PS CYBER, SOUTH WEST DISTRICT.",
@@ -40304,26 +40303,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Microsoft declares internal Code Red following historic outage",
-      "post": {
-        "created_at": "2026-11-24T16:20:45+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1795537245138",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Reuters",
-        "reposts": 0,
-        "text": "EXCLUSIVE: Microsoft declares 'Code Red' after historic outage, internal memos show",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWlZRm9kdXdaMDkwUWdXZVZPM2NTakFfZTFDa3Iwcm5yNXh4enZZVWRpWjBuc2ZpVERzOElVc0h5NjY4eXZnb0w5YUZ4Wm1nRmUwd04xQmNKZDQxOFlQWk12N0FCd3hSQTVLVFFWZmJKbm01S0pCM1AwRXVRZklpdWJfdkJ1N0FDdS1EZGNqTzd4WjZoUy1qZ1QwNktXdUlMWlBDYW9jYlozNEVDV01DSGZlVVc?oc=5"
-      },
-      "queued_at": "2026-11-24T17:10:04.852154+00:00",
-      "score": 7.0,
-      "why": "It reports internal corporate emergency measures at Microsoft following a major outage."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41563,9 +41543,7 @@
     "zoho": 1795453758498
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-24T17:28:36.967748+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41583,7 +41561,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T17:28:39.543246+00:00",
+    "last_server_run": "2026-11-24T17:45:14.328434+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-24T17:29:42.421862+00:00",
@@ -55469,13 +55447,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T17:32:54.181799+00:00",
+    "last_run": "2026-11-24T17:48:39.695687+00:00",
     "seen": [
-      "x:2123764535735824626",
-      "x:2123764818629021869",
-      "x:2123764925462175770",
-      "x:2123765038603502015",
-      "x:2123765294372135291",
       "x:2123765596844384275",
       "x:2123766178820903321",
       "x:2123766229362229317",
@@ -58470,7 +58443,12 @@
       "x:2125277673811509394",
       "x:2125279094044766661",
       "x:2125279404041625674",
-      "x:2125279718652215487"
+      "x:2125279718652215487",
+      "x:2125282132818100368",
+      "x:2125282809959047426",
+      "x:2125283378601832652",
+      "x:2125283807121252377",
+      "x:2125284128371441911"
     ],
     "source_failures": {},
     "sources": []
