@@ -1,44 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-14T05:31:35.357942+00:00",
-      "handle": "News: India AI deeptech",
-      "headline": "IndiaAI-backed Chariot launches speech AI model supporting 12 languages",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSVhFNXd0MmRXUjRqX1laRnpCZnF1Qzg1ZFlfeGQ4LURRMUJzbEIwSUVoY0s4ZE5KOWM5cm56NTBrdmFZTWdCZGpJaWtud2hkM3JjS3dVLTBXc1poVEZ3TGc4ZmRjdmxOX0kwMnRrV2c0b1dkdV9TRmdFU2pyUGFXU24ydU1VTDFaeC1FX1BTZ1ZNQXFrdnA3WFVzaV81WmNBNDU5NzBkWVVjUU1TdTI0QmhKVUh3aGNNRHk2TDJfb25SNUNuMk5GOTJfNnlZa2FybURoY3VFX3RjNGlZb2JqbEJLdjQ0NDBXM1pfMkdOMGtYTmFLWlJoS3dORdIBgAJBVV95cUxOYnBkVmlGRWZYbWcyc2d5cnZQdk80X0d0bktzYnpadlFmVUVKWEpKM0hURjluWmYtSzRtUFAzS0pMVzk3ZjFlR0c0UW1hWHZhNDI5VkNiNS0tU2pHOUt5dGNvbWQ4bktKczhvOE8wTlhERFJHUU9JU1JLY0pQLU92ZDM1V3kwbEdGNU5qTHNHV3h3VDhPbEE4MmY5b0FKTzFjMkRNYkhsSjJfYW05QTIxZE8ta1V2VVZIc2JsMllmcm1JcTYzeHBQWUpla1d3OGotSXl6aXR0RkFtSDF4MGE2SmlSUWlYN0lRY1ZSQUphOUIwc2ItU2pJOGtESkpHbjFH?oc=5",
-      "words": [
-        "across",
-        "backed",
-        "chariot",
-        "context",
-        "indiaai",
-        "languages",
-        "launches",
-        "model",
-        "speech",
-        "understands"
-      ]
-    },
-    {
-      "at": "2026-11-14T06:32:37.171872+00:00",
-      "handle": "News: India telecom",
-      "headline": "TRAI disconnects over 1.24 lakh mobile connections for spam",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcUQzb0JlLXJEcFZDNW1GMU5YbnYyMW5Bc2syeG1uNzNFeGpNWTNUUEJGOUZzcUYwXzVRSlFoOTRvTjhIc1Z3LW1PTWx6bGtSWGNzeDJEcERwMXFUN3lzblN6TUpRNHFBN0FYS3JZWlFGTEJvNFE3SWwwYlZobk9SZjYxQjN4QV9SMGhEOU9ZNTJ6cF85MHp0YmZYTXlTVDZ0M2hqLTE4Q1FGek43ZWI0bFRoYmdiMWctd1NlenZmOUVsemJHU1gza2lqMzRDcTlVWmhQQ09PQQ?oc=5",
-      "words": [
-        "barred",
-        "connections",
-        "crackdown",
-        "disconnected",
-        "jul",
-        "lakh",
-        "mobile",
-        "sep",
-        "spam",
-        "trai"
-      ]
-    },
-    {
       "at": "2026-11-14T07:16:06.982005+00:00",
       "handle": "PIB MeitY",
       "headline": "MeitY launches online registration portal for Consent Manager framework",
@@ -7522,6 +7484,40 @@
         "remove",
         "select",
         "usage"
+      ]
+    },
+    {
+      "at": "2026-11-24T05:33:05.112960+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic introduces zero data retention option for enterprise customers",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTlBidF9xX2dodEtjY3NhbFVSMlpLdlh5NVoxYk9GVjdScnNBU2J6ZHRVeFBiQVB4UnlVc3BvdzFsRXVSYnprc1d4N3QwWFJuOEhIaEQ5b2V1SjFCeHlwNG9RT1haMmo1amloT1NxamRXdHUycDZaOUd0LWlxWnh2cG5nRl81Tkdad1EwRHhfdkJzWFNwOXhDZlFxQzZMc2F4WUJkYjRrbnJyZUstM1RHVzFBazY1cllpMWpJdnBycHhidnhhNEM1d2pxMEpHYVlITzIyMUxCU1ItSFZ6dWh3bVRPRFPSAeoBQVVfeXFMT2xlUms1UHFhUWNPNnA0RnQ0WW9FZEpMYk0xZUpTMWlUSDJxU21sOFdVaDZ2bWc5Wlo1cC05V1RsclFxbnljM1BHXzNfSnV0Q0VZcUVFZHA4SGdlRGxnUC1heklJaHo5b0tSU0JrMnREWElwSEpCLXZENWt0Q09hQVhmeE11a0pheHkzd1dLNUZEQmlsV0lJWkpvWnk2YVdLLVdDRDZDUWtKem5McTVIN1Y3ZGV6RU03SjYxM2h6R0M0bUNjc1ZzZkx2VVFLNW5ueFVHTmhURE1EWkpkbW9pUUJtMi0tcFNJR3d3?oc=5",
+      "words": [
+        "advanced",
+        "anthropic",
+        "data",
+        "firms",
+        "introduces",
+        "option",
+        "retention",
+        "using",
+        "zero"
+      ]
+    },
+    {
+      "at": "2026-11-24T05:33:05.112960+00:00",
+      "handle": "News: India fintech",
+      "headline": "RazorpayX payout disruption raises payment security concerns",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3k1MXdIX01yRHpJOUlSUmV5SzNNWkdRcUttb2tmSVFHU1BGUkFlczI4N3lmUTctUTA4Zmd3ODBpeGNrdVJOOWYyQzZfRlUwbC05NjlxMkIyWERlVF9Ic2g3RDJaeFlieXhmRk1aX2U4em1fZXhqU2dRR256RmEtajJYUUZ6VVhLYXRiZDdYa1RyZHZqWkVteE1kN25KTm5NZlhNM25pYTU3dVZQUzZmaElTSEZHcDA5c1NjRF9hNFpBMHEzRlZZbS1HNXBkNjTSAdQBQVVfeXFMT0dqQU1KUjlMaHg3YjBWUFRONUFNRjhsZk1hU0w3YU81STExaVgxQnZmX3NHT2xrUGV3SXlEQTlUdmlPNjVNeVF0aUtxZTNndkxJdXJpSHcwQ1BGTk9HYjJuQ0JlcDNkc2FVUVBPa0hlNVZ3LUlETTZJTWRvdG5Ga3JvLUNWYnBpXzNtZ0hCYWZoNkg0T0ZzbTN6Ml8xaFladF9GZlYtU2FScktjRkdWNVpBakZtWEUzOXBqZmEtU3NSVHR1ZDhFb24tUUZsYjhjLUZ0ZW4?oc=5",
+      "words": [
+        "disruption",
+        "payment",
+        "payout",
+        "puts",
+        "razorpayx",
+        "security",
+        "spotlight"
       ]
     }
   ],
@@ -17609,8 +17605,8 @@
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-24T05:24:09.097200+00:00",
-    "pib_mark": 2340708,
+    "last_run": "2026-11-24T05:40:43.135678+00:00",
+    "pib_mark": 2340721,
     "seen": [
       "gazette:CG-DL-E-31102026-277565",
       "gazette:CG-DL-E-31102026-277567",
@@ -20671,7 +20667,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "gemini-2.5-computer-use-preview-10-2025": "2026-11-23T17:50:38.196427+00:00",
     "gemini-2.5-flash-lite": "2026-11-23T15:35:50.025167+00:00",
@@ -26704,7 +26700,7 @@
     "2340334",
     "2340401"
   ],
-  "last_digest_hour": "2026-11-24T10",
+  "last_digest_hour": "2026-11-24T11",
   "last_success": "2026-11-24T05:16:24.434689+00:00",
   "national": {
     "alerted": [
@@ -37285,8 +37281,8 @@
       },
       "warned": "2026-11-24T02:19:51.675381+00:00"
     },
-    "last_run": "2026-11-24T05:20:20.900616+00:00",
-    "pib_mark": 2340708,
+    "last_run": "2026-11-24T05:36:48.209484+00:00",
+    "pib_mark": 2340721,
     "seen": [
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168724",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168726",
@@ -40362,44 +40358,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Anthropic introduces zero data retention option for enterprise customers",
-      "post": {
-        "created_at": "2026-11-24T03:31:29+00:00",
-        "handle": "News: Global AI",
-        "id": "1795491089415",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "Anthropic introduces zero data retention option for firms using advanced AI",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTlBidF9xX2dodEtjY3NhbFVSMlpLdlh5NVoxYk9GVjdScnNBU2J6ZHRVeFBiQVB4UnlVc3BvdzFsRXVSYnprc1d4N3QwWFJuOEhIaEQ5b2V1SjFCeHlwNG9RT1haMmo1amloT1NxamRXdHUycDZaOUd0LWlxWnh2cG5nRl81Tkdad1EwRHhfdkJzWFNwOXhDZlFxQzZMc2F4WUJkYjRrbnJyZUstM1RHVzFBazY1cllpMWpJdnBycHhidnhhNEM1d2pxMEpHYVlITzIyMUxCU1ItSFZ6dWh3bVRPRFPSAeoBQVVfeXFMT2xlUms1UHFhUWNPNnA0RnQ0WW9FZEpMYk0xZUpTMWlUSDJxU21sOFdVaDZ2bWc5Wlo1cC05V1RsclFxbnljM1BHXzNfSnV0Q0VZcUVFZHA4SGdlRGxnUC1heklJaHo5b0tSU0JrMnREWElwSEpCLXZENWt0Q09hQVhmeE11a0pheHkzd1dLNUZEQmlsV0lJWkpvWnk2YVdLLVdDRDZDUWtKem5McTVIN1Y3ZGV6RU03SjYxM2h6R0M0bUNjc1ZzZkx2VVFLNW5ueFVHTmhURE1EWkpkbW9pUUJtMi0tcFNJR3d3?oc=5"
-      },
-      "queued_at": "2026-11-24T05:03:36.618382+00:00",
-      "score": 7.0,
-      "why": "This is a major privacy and product update from a top-tier AI company, making it a filable story."
-    },
-    {
-      "headline": "RazorpayX payout disruption raises payment security concerns",
-      "post": {
-        "created_at": "2026-11-24T04:09:00+00:00",
-        "handle": "News: India fintech",
-        "id": "1795493340573",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Standard",
-        "reposts": 0,
-        "text": "RazorpayX payout disruption puts spotlight on payment security",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3k1MXdIX01yRHpJOUlSUmV5SzNNWkdRcUttb2tmSVFHU1BGUkFlczI4N3lmUTctUTA4Zmd3ODBpeGNrdVJOOWYyQzZfRlUwbC05NjlxMkIyWERlVF9Ic2g3RDJaeFlieXhmRk1aX2U4em1fZXhqU2dRR256RmEtajJYUUZ6VVhLYXRiZDdYa1RyZHZqWkVteE1kN25KTm5NZlhNM25pYTU3dVZQUzZmaElTSEZHcDA5c1NjRF9hNFpBMHEzRlZZbS1HNXBkNjTSAdQBQVVfeXFMT0dqQU1KUjlMaHg3YjBWUFRONUFNRjhsZk1hU0w3YU81STExaVgxQnZmX3NHT2xrUGV3SXlEQTlUdmlPNjVNeVF0aUtxZTNndkxJdXJpSHcwQ1BGTk9HYjJuQ0JlcDNkc2FVUVBPa0hlNVZ3LUlETTZJTWRvdG5Ga3JvLUNWYnBpXzNtZ0hCYWZoNkg0T0ZzbTN6Ml8xaFladF9GZlYtU2FScktjRkdWNVpBakZtWEUzOXBqZmEtU3NSVHR1ZDhFb24tUUZsYjhjLUZ0ZW4?oc=5"
-      },
-      "queued_at": "2026-11-24T05:16:24.349402+00:00",
-      "score": 7.0,
-      "why": "A transaction disruption or payout outage at a major Indian fintech platform is a significant reportable event."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41635,7 +41594,11 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "News: Global AI": "2026-11-24T05:31:15.093055+00:00",
+      "News: Global IT services": "2026-11-24T05:31:15.093055+00:00",
+      "News: Tech leaders": "2026-11-24T05:31:15.093055+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -41653,7 +41616,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T05:16:24.988377+00:00",
+    "last_server_run": "2026-11-24T05:33:05.556226+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-24T04:03:30.487836+00:00",
@@ -55526,15 +55489,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T05:21:10.510883+00:00",
+    "last_run": "2026-11-24T05:38:03.550282+00:00",
     "seen": [
-      "x:2123442876105523400",
-      "x:2123443070633218550",
-      "x:2123443254041641403",
-      "x:2123445057466605877",
-      "x:2123445234130640979",
-      "x:2123446208463094023",
-      "x:2123446538307539155",
       "x:2123446884912283800",
       "x:2123446907133743187",
       "x:2123447092475765083",
@@ -58527,7 +58483,14 @@
       "x:2125094328167268443",
       "x:2125094995522879692",
       "x:2125095359794020354",
-      "x:2125095593655845093"
+      "x:2125095593655845093",
+      "x:2125096895530123592",
+      "x:2125098018693386315",
+      "x:2125099198542758363",
+      "x:2125099408253714923",
+      "x:2125099416881357197",
+      "x:2125099429661393182",
+      "x:2125099594044391436"
     ],
     "source_failures": {},
     "sources": []
