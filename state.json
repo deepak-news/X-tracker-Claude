@@ -17590,7 +17590,7 @@
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-24T01:51:46.726984+00:00",
+    "last_run": "2026-11-24T02:07:31.000630+00:00",
     "pib_mark": 2340650,
     "seen": [
       "gazette:CG-DL-E-31102026-277565",
@@ -20207,6 +20207,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168856",
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|CYBER POLICE STATION, DWARKA AND PS UTTAM NAGAR IN A JOINT OPERATION BUSTS AN ORGANISED MULE ACCOUNT RACKET INVOLVED IN CYBER FRAUDS ACROSS INDIA 04 ACCUSED PERSONS ARRESTED.",
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|02 NOTORIOUS CRIMINALS WITH 66 PREVIOUS INVOLVEMENTS AND HEREIN AS WELL, INVOLVED IN A CHAIN SNATCHING CASE OF NAJAFGARH, APPREHENDED FROM KHATU SHYAM JI, RAJASTHAN",
+      "site:WTO|https://www.wto.org/english/news_e/news26_e/safe_eec_23nov26_561_e.htm",
+      "site:ICC|https://www.icc-cricket.com/media-releases/sri-lanka-ireland-to-play-icc-women-s-emerging-nations-trophy-2026-final",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
@@ -20582,9 +20584,7 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64032",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64031",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
-      "site:WTO|https://www.wto.org/english/news_e/news26_e/safe_eec_23nov26_561_e.htm",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A8%E0%A5%87+%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B0%E0%A5%82%E0%A4%AA%E0%A4%B0%E0%A5%87%E0%A4%96%E0%A4%BE+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A5%81%E0%A4%A6%E0%A5%83%E0%A4%A2%E0%A4%BC%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%9C%E0%A5%8D%E0%A4%9E+%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A4%BE+%E0%A4%97%E0%A4%A0%E0%A4%A8+%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+_+IRDAI+constitutes+Expert+Committee+to+strengthen+the+design+and+implementation+of+its+distribution+reforms.pdf/c70f41b4-1cfc-4f69-c4c1-e206e39b0167",
-      "site:ICC|https://www.icc-cricket.com/media-releases/sri-lanka-ireland-to-play-icc-women-s-emerging-nations-trophy-2026-final",
       "site:who-don:2026-DON628",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168858",
       "mea:41997",
@@ -20656,7 +20656,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "dead_models": {
     "gemini-2.5-computer-use-preview-10-2025": "2026-11-23T17:50:38.196427+00:00",
     "gemini-2.5-flash-lite": "2026-11-23T15:35:50.025167+00:00",
@@ -37255,10 +37255,9 @@
       },
       "warned": "2026-11-23T02:08:10.555004+00:00"
     },
-    "last_run": "2026-11-24T01:51:00.984064+00:00",
+    "last_run": "2026-11-24T02:05:34.892964+00:00",
     "pib_mark": 2340650,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63903",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168724",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168726",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63904",
@@ -39811,6 +39810,7 @@
       "watch:bulletin:RS|2026-11-23|Bulletin Part-II",
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|CYBER POLICE STATION, DWARKA AND PS UTTAM NAGAR IN A JOINT OPERATION BUSTS AN ORGANISED MULE ACCOUNT RACKET INVOLVED IN CYBER FRAUDS ACROSS INDIA 04 ACCUSED PERSONS ARRESTED.",
       "site:Delhi Police press releases|dp-press:11/23/2026 12:00:00 AM|02 NOTORIOUS CRIMINALS WITH 66 PREVIOUS INVOLVEMENTS AND HEREIN AS WELL, INVOLVED IN A CHAIN SNATCHING CASE OF NAJAFGARH, APPREHENDED FROM KHATU SHYAM JI, RAJASTHAN",
+      "quake:usgs:us6000ud3i",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+Press+Release+-+Public+Insurance+Registry.pdf/d9a08715-52d4-d42c-b994-5286b16ff3c6",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88+%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1+%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A4%A8%E0%A5%80+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+ICICI+Lombard+General+Insurance+Co+Ltd.pdf/633f36dd-6a87-23cd-5aef-d7215ea5a52b",
@@ -40257,7 +40257,7 @@
       "mea:41997",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-shabad-kirtan-on-the-parkash-purab-of-sri-guru-nanak-dev-ji",
       "mea:41998",
-      "quake:usgs:us6000ud3i"
+      "quake:ncs:TUgwWHBGcGlHdGFLbEF4b2l5VE9wdz09"
     ],
     "source_failures": {
       "CBI": {
@@ -41571,7 +41571,10 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "News: Big tech platforms": "2026-11-24T02:01:34.526321+00:00",
+      "News: India fintech": "2026-11-24T02:01:34.526321+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -41595,7 +41598,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T01:47:47.691149+00:00",
+    "last_server_run": "2026-11-24T02:03:14.177122+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-24T01:50:15.086830+00:00",
@@ -55441,11 +55444,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T01:51:24.262341+00:00",
+    "last_run": "2026-11-24T02:07:12.443874+00:00",
     "seen": [
-      "x:2123413868886241331",
-      "x:2123414303982473654",
-      "x:2123414379949625563",
       "x:2123414887397462049",
       "x:2123415214037332115",
       "x:2123416198541128103",
@@ -58442,7 +58442,10 @@
       "x:2125036679006134563",
       "x:2125037954297159764",
       "x:2125040454127522253",
-      "x:2125042701146173791"
+      "x:2125042701146173791",
+      "x:2125044354125287524",
+      "x:2125046745415790720",
+      "x:2125046749207101810"
     ],
     "source_failures": {},
     "sources": []
