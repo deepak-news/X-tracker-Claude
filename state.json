@@ -17605,7 +17605,7 @@
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-24T07:43:21.120582+00:00",
+    "last_run": "2026-11-24T08:02:06.282435+00:00",
     "pib_mark": 2340728,
     "seen": [
       "gazette:CG-DL-E-31102026-277567",
@@ -20227,6 +20227,7 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168858",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A8%E0%A5%87+%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B0%E0%A5%82%E0%A4%AA%E0%A4%B0%E0%A5%87%E0%A4%96%E0%A4%BE+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A5%81%E0%A4%A6%E0%A5%83%E0%A4%A2%E0%A4%BC%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%9C%E0%A5%8D%E0%A4%9E+%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A4%BE+%E0%A4%97%E0%A4%A0%E0%A4%A8+%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+_+IRDAI+constitutes+Expert+Committee+to+strengthen+the+design+and+implementation+of+its+distribution+reforms.pdf/c70f41b4-1cfc-4f69-c4c1-e206e39b0167",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168859",
+      "page:https://internal.imd.gov.in/press_release/20261017_pr_5413.pdf",
       "gazette:CG-DL-E-23112026-278137",
       "gazette:CG-MH-E-23112026-278140",
       "gazette:CG-DL-E-23112026-278139",
@@ -20279,7 +20280,6 @@
       "mea:41947",
       "mea:41955",
       "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
-      "page:https://internal.imd.gov.in/press_release/20261017_pr_5413.pdf",
       "page:https://internal.imd.gov.in/press_release/20261017_pr_5414.pdf",
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
       "page:https://internal.imd.gov.in/press_release/20261019_pr_5417.pdf",
@@ -20667,7 +20667,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 8,
+  "consecutive_failures": 9,
   "dead_models": {
     "deep-research-max-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
     "deep-research-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
@@ -37284,7 +37284,7 @@
       },
       "warned": "2026-11-24T02:19:51.675381+00:00"
     },
-    "last_run": "2026-11-24T07:38:30.895804+00:00",
+    "last_run": "2026-11-24T07:57:31.495925+00:00",
     "pib_mark": 2340728,
     "seen": [
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168726",
@@ -39845,6 +39845,7 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168858",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%A8%E0%A5%87+%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B0%E0%A5%82%E0%A4%AA%E0%A4%B0%E0%A5%87%E0%A4%96%E0%A4%BE+%E0%A4%94%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%AF%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A5%81%E0%A4%A6%E0%A5%83%E0%A4%A2%E0%A4%BC%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7%E0%A4%9C%E0%A5%8D%E0%A4%9E+%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A4%BE+%E0%A4%97%E0%A4%A0%E0%A4%A8+%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE+_+IRDAI+constitutes+Expert+Committee+to+strengthen+the+design+and+implementation+of+its+distribution+reforms.pdf/c70f41b4-1cfc-4f69-c4c1-e206e39b0167",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168859",
+      "page:https://internal.imd.gov.in/press_release/20261017_pr_5413.pdf",
       "gazette:CG-MH-E-23112026-278140",
       "gazette:CG-DL-E-23112026-278138",
       "gazette:CG-DL-E-23112026-278139",
@@ -39916,7 +39917,6 @@
       "mea:41965",
       "mea:41955",
       "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
-      "page:https://internal.imd.gov.in/press_release/20261017_pr_5413.pdf",
       "page:https://internal.imd.gov.in/press_release/20261017_pr_5414.pdf",
       "page:https://internal.imd.gov.in/press_release/20261018_pr_5415.pdf",
       "page:https://internal.imd.gov.in/press_release/20261019_pr_5417.pdf",
@@ -41615,7 +41615,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T07:34:56.076124+00:00",
+    "last_server_run": "2026-11-24T07:54:36.249129+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-24T06:18:36.241557+00:00",
@@ -55488,11 +55488,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T07:40:47.107902+00:00",
+    "last_run": "2026-11-24T07:59:43.203416+00:00",
     "seen": [
-      "x:2123463847575228612",
-      "x:2123464032602689751",
-      "x:2123464213599563900",
       "x:2123465073276662019",
       "x:2123465073922330952",
       "x:2123466639803027482",
@@ -58489,7 +58486,10 @@
       "x:2125129972281176545",
       "x:2125130548868006139",
       "x:2125130585278751101",
-      "x:2125131720370569250"
+      "x:2125131720370569250",
+      "x:2125132806376550409",
+      "x:2125133736211836947",
+      "x:2125134463185104927"
     ],
     "source_failures": {},
     "sources": []
