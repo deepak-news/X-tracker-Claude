@@ -17599,7 +17599,7 @@
       },
       "warned": "2026-11-24T09:09:07.120009+00:00"
     },
-    "last_run": "2026-11-24T13:20:01.428906+00:00",
+    "last_run": "2026-11-24T13:32:10.645778+00:00",
     "pib_mark": 2340882,
     "seen": [
       "pib:2331870",
@@ -20665,13 +20665,13 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 5,
+  "consecutive_failures": 6,
   "dead_models": {
     "deep-research-max-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
     "deep-research-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
     "gemini-2.5-computer-use-preview-10-2025": "2026-11-23T17:50:38.196427+00:00",
     "gemini-2.5-flash-lite": "2026-11-24T12:01:11.487098+00:00",
-    "gemini-3-flash-preview": "2026-11-23T17:02:37.747685+00:00",
+    "gemini-3-flash-preview": "2026-11-24T13:25:02.394745+00:00",
     "gemini-3.1-flash-lite": "2026-11-23T22:35:05.502923+00:00",
     "gemini-3.1-flash-lite-preview": "2026-11-23T21:02:36.655526+00:00",
     "gemini-3.1-pro-preview": "2026-11-23T17:38:04.242364+00:00",
@@ -20685,13 +20685,13 @@
     "gemini-4-argon": "2026-11-23T17:34:40.488433+00:00",
     "gemini-4-carbon": "2026-11-23T17:34:40.488433+00:00",
     "gemini-4-hydrogen": "2026-11-23T18:07:03.797797+00:00",
-    "gemini-4-neon": "2026-11-23T17:16:26.519748+00:00",
-    "gemini-flash-latest": "2026-11-23T17:16:26.519748+00:00",
+    "gemini-4-neon": "2026-11-24T13:25:02.394745+00:00",
+    "gemini-flash-latest": "2026-11-24T13:25:02.394745+00:00",
     "gemini-flash-lite-latest": "2026-11-23T17:34:40.488433+00:00",
     "gemini-nano-banana-2.1": "2026-11-23T21:32:32.169816+00:00",
     "gemini-omni-1.1-flash": "2026-11-24T13:09:55.201435+00:00",
     "gemini-omni-1.2-flash": "2026-11-24T12:45:41.132491+00:00",
-    "gemini-omni-flash-preview": "2026-11-23T17:16:26.519748+00:00",
+    "gemini-omni-flash-preview": "2026-11-24T13:25:02.394745+00:00",
     "gemini-pro-latest": "2026-11-23T18:16:37.797422+00:00",
     "gemini-robotics-er-2-preview": "2026-11-24T05:51:58.713236+00:00",
     "lyria-3-clip-preview": "2026-11-23T22:23:52.500313+00:00",
@@ -37296,7 +37296,7 @@
       },
       "warned": "2026-11-24T02:19:51.675381+00:00"
     },
-    "last_run": "2026-11-24T13:14:21.200236+00:00",
+    "last_run": "2026-11-24T13:27:15.742781+00:00",
     "pib_mark": 2340882,
     "seen": [
       "feed:https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
@@ -41504,11 +41504,13 @@
       "meeting:LS|22646",
       "meeting:LS|22669",
       "meeting:LS|22670",
+      "meeting:LS|22674",
       "meeting:LS|22677",
+      "meeting:LS|22678",
       "meeting:RS|2349",
       "meeting:RS|2355"
     ],
-    "sent_on": "2026-11-23"
+    "sent_on": "2026-11-24"
   },
   "seen": {
     "airtel": 1791353787219,
@@ -41614,9 +41616,7 @@
     "zoho": 1795453758498
   },
   "source_health": {
-    "down": {
-      "News: Global chips": "2026-11-24T13:06:17.724564+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41634,7 +41634,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T13:09:55.723053+00:00",
+    "last_server_run": "2026-11-24T13:25:02.899667+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-24T13:10:51.332078+00:00",
@@ -55382,12 +55382,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T13:16:21.255492+00:00",
+    "last_run": "2026-11-24T13:30:00.133744+00:00",
     "seen": [
-      "x:2123723920062968219",
-      "x:2123724157095731695",
-      "x:2123724302889693583",
-      "x:2123724347621957643",
       "x:2123725338882806208",
       "x:2123725541220274391",
       "x:2123726082700710031",
@@ -58383,7 +58379,11 @@
       "x:2125211892755124238",
       "x:2125212851321418138",
       "x:2125215274047881350",
-      "x:2125215677372080298"
+      "x:2125215677372080298",
+      "x:2125216694096523678",
+      "x:2125217000721146203",
+      "x:2125217669125382452",
+      "x:2125218343829528935"
     ],
     "source_failures": {},
     "sources": []
