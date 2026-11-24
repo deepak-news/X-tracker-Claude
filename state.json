@@ -17590,7 +17590,7 @@
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       }
     },
-    "last_run": "2026-11-24T01:37:30.740909+00:00",
+    "last_run": "2026-11-24T01:51:46.726984+00:00",
     "pib_mark": 2340650,
     "seen": [
       "gazette:CG-DL-E-31102026-277565",
@@ -20656,7 +20656,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "gemini-2.5-computer-use-preview-10-2025": "2026-11-23T17:50:38.196427+00:00",
     "gemini-2.5-flash-lite": "2026-11-23T15:35:50.025167+00:00",
@@ -26693,18 +26693,6 @@
   "last_success": "2026-11-24T01:33:54.657003+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-22T11:47:04.493155+00:00",
-        "handle": "RBI",
-        "headline": "RBI releases latest reserve money data for mid-October",
-        "tier": 1,
-        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63846",
-        "words": [
-          "1368",
-          "2026",
-          "2027"
-        ]
-      },
       {
         "at": "2026-10-22T13:17:46.662744+00:00",
         "handle": "PMO",
@@ -35314,6 +35302,24 @@
           "power",
           "sea"
         ]
+      },
+      {
+        "at": "2026-11-24T01:51:00.982679+00:00",
+        "handle": "Quake USGS",
+        "headline": "Magnitude 5.3 earthquake -- 67 km WNW of Mangan, India.",
+        "tier": 1,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud3i",
+        "words": [
+          "deep",
+          "earthquake",
+          "ist",
+          "magnitude",
+          "mangan",
+          "nov",
+          "reported",
+          "usgs",
+          "wnw"
+        ]
       }
     ],
     "gazette_mark": 278140,
@@ -37249,10 +37255,9 @@
       },
       "warned": "2026-11-23T02:08:10.555004+00:00"
     },
-    "last_run": "2026-11-24T01:36:21.064044+00:00",
+    "last_run": "2026-11-24T01:51:00.984064+00:00",
     "pib_mark": 2340650,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63902",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63903",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168724",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168726",
@@ -40251,7 +40256,8 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168859",
       "mea:41997",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-at-the-shabad-kirtan-on-the-parkash-purab-of-sri-guru-nanak-dev-ji",
-      "mea:41998"
+      "mea:41998",
+      "quake:usgs:us6000ud3i"
     ],
     "source_failures": {
       "CBI": {
@@ -41589,17 +41595,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T01:33:54.999932+00:00",
+    "last_server_run": "2026-11-24T01:47:47.691149+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-23T23:49:17.073864+00:00",
+        "checked": "2026-11-24T01:50:15.086830+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-23T23:49:09.403576+00:00",
+        "checked": "2026-11-24T01:50:06.965656+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -41675,7 +41681,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-23T23:49:13.278829+00:00",
+        "checked": "2026-11-24T01:50:10.992401+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -41729,11 +41735,11 @@
       },
       "last": {
         "calendar": "2026-11-23T23:34:02.200726+00:00",
-        "ls_reports": "2026-11-23T23:48:50.837835+00:00",
-        "rs_committee_press": "2026-11-23T23:49:03.121822+00:00",
-        "rs_press": "2026-11-23T23:49:00.263387+00:00",
-        "rs_reports": "2026-11-23T23:48:57.654552+00:00",
-        "rs_updates": "2026-11-23T23:49:05.320748+00:00"
+        "ls_reports": "2026-11-24T01:49:51.580437+00:00",
+        "rs_committee_press": "2026-11-24T01:50:00.736491+00:00",
+        "rs_press": "2026-11-24T01:49:57.602021+00:00",
+        "rs_reports": "2026-11-24T01:49:54.799651+00:00",
+        "rs_updates": "2026-11-24T01:50:02.498258+00:00"
       }
     },
     "scanned": [
@@ -55435,10 +55441,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T01:37:09.031082+00:00",
+    "last_run": "2026-11-24T01:51:24.262341+00:00",
     "seen": [
-      "x:2123413610936291660",
-      "x:2123413775391056324",
       "x:2123413868886241331",
       "x:2123414303982473654",
       "x:2123414379949625563",
@@ -58436,7 +58440,9 @@
       "x:2125031647619752328",
       "x:2125032138139685024",
       "x:2125036679006134563",
-      "x:2125037954297159764"
+      "x:2125037954297159764",
+      "x:2125040454127522253",
+      "x:2125042701146173791"
     ],
     "source_failures": {},
     "sources": []
