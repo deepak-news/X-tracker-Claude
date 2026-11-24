@@ -17565,13 +17565,14 @@
     ],
     "health": {
       "down": {
+        "Gazette of India (Extraordinary)": "2026-11-24T15:21:39.843400+00:00",
         "State: Telangana": "2026-11-24T12:47:07.519334+00:00",
         "State: Uttar Pradesh": "2026-11-23T08:49:39.346066+00:00"
       },
       "warned": "2026-11-24T09:09:07.120009+00:00"
     },
-    "last_run": "2026-11-24T14:58:53.291639+00:00",
-    "pib_mark": 2340948,
+    "last_run": "2026-11-24T15:22:09.608263+00:00",
+    "pib_mark": 2340957,
     "seen": [
       "pib:2331870",
       "pib:2331872",
@@ -20167,12 +20168,12 @@
       "gazette:CG-MH-E-23112026-278140",
       "gazette:CG-DL-E-23112026-278139",
       "gazette:CG-DL-E-23112026-278138",
+      "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "page:https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-joint-press-statement-with-prime-minister-of-nepal",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-lays-foundation-stones-for-and-dedicates-to-the-nation-development-projects-worth-around-rs-34470-crore-in-vaishali-bihar",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-5th-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh",
       "mea:41992",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
-      "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A4%B0%E0%A4%BE+%E0%A4%8F%E0%A4%9A%E0%A4%8F%E0%A4%B8%E0%A4%AC%E0%A5%80%E0%A4%B8%E0%A5%80+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+10.09.2026+_+Press+Release+-+Order+in+the+matter+of+Canara+HSBC+Life+Insurance+10.09.2026.pdf/b4a26c30-5ea7-061e-e8e5-9840db08c65d",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%B8%E0%A4%87%E0%A4%82%E0%A4%A1+%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1+%28%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F+%E0%A4%8F%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%9F%29+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+_+Press+Release+-+Order+in+the+matter+of+IndusInd+Bank+Limited+%28Corporate+Agent%29.pdf/be033d50-6a09-7f0e-2e37-46b184959412",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AF%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%A8%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+%E0%A4%8F%E0%A4%A1%E0%A4%B2%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%B8+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A4%82.+%E0%A4%B2%E0%A4%BF.+%E0%A4%94%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%B2%E0%A4%BF.+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%8B%E0%A4%82+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6_Orders+in+the+matters+of+Edelweiss+Life+Insurance+Co.+Ltd+and+Pramerica+Life+Insurance+Ltd.+for+non-compliance+with+EoM+li.pdf/0663a590-e411-110e-1f8e-6dd2dd47a1eb",
@@ -20575,6 +20576,9 @@
       "site:ICC|https://www.icc-cricket.com/media-releases/zimbabwe-coach-coles-fined-for-breaching-icc-code-of-conduct"
     ],
     "source_failures": {
+      "Gazette of India (Extraordinary)": {
+        "count": 1
+      },
       "State: Telangana": {
         "count": 3,
         "until": "2026-11-24T19:16:21.860006+00:00"
@@ -20636,7 +20640,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 3,
+  "consecutive_failures": 4,
   "dead_models": {
     "deep-research-max-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
     "deep-research-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
@@ -37271,6 +37275,7 @@
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
+        "Gazette of India (Extraordinary)": "2026-11-24T15:16:42.473305+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00",
         "State: Telangana": "2026-11-24T12:43:26.859272+00:00",
@@ -37278,7 +37283,7 @@
       },
       "warned": "2026-11-24T02:19:51.675381+00:00"
     },
-    "last_run": "2026-11-24T14:53:30.022433+00:00",
+    "last_run": "2026-11-24T15:17:00.509514+00:00",
     "pib_mark": 2340948,
     "seen": [
       "gazette:CG-BR-E-04112026-277638",
@@ -39786,12 +39791,29 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "page:https://www.pmindia.gov.in/en/news_updates/viksit-bharat-and-samunnat-nepal-re-imagining-the-partnership",
       "quake:ncs:TUgwWHBGcGlHdGFLbEF4b2l5VE9wdz09",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "gazette:CG-MH-E-23112026-278140",
       "gazette:CG-DL-E-23112026-278138",
       "gazette:CG-DL-E-23112026-278139",
       "gazette:CG-DL-E-23112026-278137",
+      "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
+      "gazette:CG-CG-E-24112026-278147",
+      "gazette:CG-DL-E-24112026-278149",
+      "gazette:CG-DL-E-24112026-278148",
+      "gazette:CG-DL-E-24112026-278142",
+      "gazette:CG-DL-E-24112026-278155",
+      "gazette:CG-DL-E-24112026-278153",
+      "gazette:CG-DL-E-24112026-278156",
+      "gazette:CG-DL-E-24112026-278151",
+      "gazette:CG-DL-E-24112026-278154",
+      "gazette:CG-DL-E-24112026-278144",
+      "gazette:CG-DL-E-24112026-278152",
+      "gazette:CG-DL-E-24112026-278150",
+      "gazette:CG-BR-E-24112026-278143",
+      "gazette:CG-TL-E-24112026-278146",
+      "gazette:CG-DL-E-24112026-278141",
+      "gazette:CG-DL-E-24112026-278145",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "page:https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-joint-press-statement-with-prime-minister-of-nepal",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-lays-foundation-stones-for-and-dedicates-to-the-nation-development-projects-worth-around-rs-34470-crore-in-vaishali-bihar",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-5th-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh",
@@ -39804,7 +39826,6 @@
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A4%B0%E0%A4%BE+%E0%A4%8F%E0%A4%9A%E0%A4%8F%E0%A4%B8%E0%A4%AC%E0%A5%80%E0%A4%B8%E0%A5%80+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%87%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8+%E0%A4%95%E0%A5%87+%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6+10.09.2026+_+Press+Release+-+Order+in+the+matter+of+Canara+HSBC+Life+Insurance+10.09.2026.pdf/b4a26c30-5ea7-061e-e8e5-9840db08c65d",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+%E0%A4%86%E0%A4%88%E0%A4%8F%E0%A4%B8%E0%A5%80+%E0%A4%89%E0%A4%AA-%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF+%E0%A4%95%E0%A5%80+%E0%A4%A4%E0%A5%80%E0%A4%B8%E0%A4%B0%E0%A5%80+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+Release+-+3rd+Meeting+of+IAC+Sub-Committee+on+Health+Insurance.pdf/abe249c3-5d28-ef34-006d-e8c149a4c0e5",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8+%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%AF%E0%A5%8B%E0%A4%82+%E0%A4%95%E0%A5%80+%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%93%E0%A4%82+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%A8%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8+%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+_+Press+Release-+Non+Compliance+with+Expenses+of+Management+limits.pdf/6300d74c-666e-e82a-1eeb-3998b8128fb7",
-      "page:https://irdai.gov.in/documents/37343/366347/Press+Release++-+Joining+of+Member+%28Distribution%29+-+Smt.+Girija+Subramanian.pdf/e7dc81d0-ef10-6bfb-87ab-ed14fe2ca884",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6+%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+_+Press+Release+-+Consultation+paper+on+Distribution+Reforms+23.09.2026.pdf/95851fbc-e04f-3460-f244-3380505066e0",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+%E0%A4%B2%E0%A5%8B%E0%A4%95+%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80+%28%E0%A4%AA%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%B0%29+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+%28%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95%29+%E0%A4%95%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%95+_+Press+Release+-+Reminder+on+Public+Insurance+Registry+%28PIR%29+Feedback.pdf/e8d45c02-062d-eaa2-4c6c-06c096b01a75",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%82+%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A5%80+%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%B6-%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%AA%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+%28%E0%A4%AB%E0%A5%80%E0%A4%A1%E0%A4%AC%E0%A5%88%E0%A4%95%29+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%A4+%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%AE+%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A5%80%E0%A4%96+%E0%A4%95%E0%A4%BE+31+%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A5%82%E0%A4%AC%E0%A4%B0+2026+%E0%A4%A4%E0%A4%95+%E0%A4%B8%E0%A4%AE%E0%A4%AF-%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B0+_+Extension+of+Last+Date+for+Submission+of+Feedback+on+the+Consultation+Paper+on+Distribution+Reforms+till+31st+October+2026.pdf/3b80fbba-b3e6-937a-bd06-b1dbed936ed2",
@@ -40259,25 +40280,9 @@
       "site:ICC|https://www.icc-cricket.com/media-releases/zimbabwe-coach-coles-fined-for-breaching-icc-code-of-conduct",
       "pib:2340857",
       "pib:2340862",
-      "gazette:CG-CG-E-24112026-278147",
       "pib:2340866",
-      "gazette:CG-DL-E-24112026-278149",
-      "gazette:CG-DL-E-24112026-278148",
-      "gazette:CG-DL-E-24112026-278142",
-      "gazette:CG-DL-E-24112026-278155",
-      "gazette:CG-DL-E-24112026-278153",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/dsb_24nov26_563_e.htm",
-      "gazette:CG-DL-E-24112026-278156",
-      "gazette:CG-DL-E-24112026-278151",
-      "gazette:CG-DL-E-24112026-278154",
-      "gazette:CG-DL-E-24112026-278144",
-      "gazette:CG-DL-E-24112026-278152",
-      "gazette:CG-DL-E-24112026-278150",
-      "gazette:CG-BR-E-24112026-278143",
-      "gazette:CG-TL-E-24112026-278146",
-      "gazette:CG-DL-E-24112026-278141",
       "pib:2340882",
-      "gazette:CG-DL-E-24112026-278145",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/fsec_23nov26_562_e.htm",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-receives-a-telephone-call-from-the-chancellor-of-the-federal-republic-of-germany",
       "site:who-don:2026-DON629"
@@ -40286,6 +40291,9 @@
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
+      },
+      "Gazette of India (Extraordinary)": {
+        "count": 1
       },
       "State: Maharashtra": {
         "count": 19,
@@ -41598,11 +41606,19 @@
     "zoho": 1795453758498
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "REG NPCI": "2026-11-24T15:08:31.002755+00:00"
+    }
   },
   "watch": {
     "health_server": {
-      "down": {}
+      "down": {
+        "e-Gazette - Home, Finance, Defence, Law, I&B": "2026-11-24T15:14:05.850622+00:00",
+        "e-Gazette - Law ministry": "2026-11-24T15:14:05.850622+00:00",
+        "e-Gazette - MHA and Finance": "2026-11-24T15:14:05.850622+00:00",
+        "e-Gazette - MHA extraordinary": "2026-11-24T15:14:05.850622+00:00",
+        "e-Gazette - MeitY": "2026-11-24T15:14:05.850622+00:00"
+      }
     },
     "introduced": [
       "DoPT EO - appointments and extensions (30 days)",
@@ -41616,17 +41632,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T14:51:50.234973+00:00",
+    "last_server_run": "2026-11-24T15:10:31.899538+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-24T13:10:51.332078+00:00",
+        "checked": "2026-11-24T15:14:05.850568+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-24T13:10:43.345280+00:00",
+        "checked": "2026-11-24T15:13:58.017329+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -41702,7 +41718,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-24T13:10:47.327375+00:00",
+        "checked": "2026-11-24T15:14:01.900834+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -41756,11 +41772,11 @@
       },
       "last": {
         "calendar": "2026-11-24T11:57:12.818304+00:00",
-        "ls_reports": "2026-11-24T13:10:27.776390+00:00",
-        "rs_committee_press": "2026-11-24T13:10:37.103896+00:00",
-        "rs_press": "2026-11-24T13:10:34.103280+00:00",
-        "rs_reports": "2026-11-24T13:10:31.226335+00:00",
-        "rs_updates": "2026-11-24T13:10:39.035278+00:00"
+        "ls_reports": "2026-11-24T15:13:42.115318+00:00",
+        "rs_committee_press": "2026-11-24T15:13:51.800500+00:00",
+        "rs_press": "2026-11-24T15:13:48.949563+00:00",
+        "rs_reports": "2026-11-24T15:13:46.071169+00:00",
+        "rs_updates": "2026-11-24T15:13:53.656129+00:00"
       }
     },
     "scanned": [
@@ -55405,11 +55421,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T14:56:11.615376+00:00",
+    "last_run": "2026-11-24T15:19:23.206290+00:00",
     "seen": [
-      "x:2123746710753329442",
-      "x:2123744255063834720",
-      "x:2123744360290517276",
       "x:2123744394507620448",
       "x:2123744411117040043",
       "x:2123744419115610267",
@@ -58406,7 +58419,10 @@
       "x:2125232326653497484",
       "x:2125236158255050815",
       "x:2125238502124319114",
-      "x:2125239340897083861"
+      "x:2125239340897083861",
+      "x:2125242491247169927",
+      "x:2125242879295836509",
+      "x:2125243049106416064"
     ],
     "source_failures": {},
     "sources": []
