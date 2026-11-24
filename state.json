@@ -2,29 +2,6 @@
   "alerted": [
     {
       "at": "2026-11-16T10:32:18.983627+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Supreme Court warns authorities over Aadhaar face authentication plea",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOTzJvaVo1NXpMejFGOF9teGQ2SDh6Q2FQb2lOSjktX2dnanpkS210RnZoY3hsOHgzVk1kY1hxVzd1NFM2RWhDaGNBS0ZWWTc4OWJEWWJNMGRKaXprNERaeHdOVW9sOU51am1pZXBBZkVqUUJJOEdvemNiYzJGQmZDbWZ2Y0l2dzRmdTRYM1Z1Uy1wc0JJVXJMZkpnbjcwcndTNjZhRGlXclZfWTMxWG9KVTVJRTlkMmMzRkt3NW8zRjV5SlN3UTg5dVZmNjNWSmhsdy1vLWdrRFhYMEZpdkxvaW5PMDRXTDdERWd0RVd0Y3A2UlF4VEFzTFo4enBSN21BX0E1QmprQXVpbk11bGQ2Qk9wQTI1V3FmbFhZdjFCVjczUWZmcVBF0gGuAkFVX3lxTFBCamd6T1NzN2JZZkRKZzV1eVRrc0Z4TDJ3ZUNQS1VLT0daX2dNa2U2S2VQdkFCbE9OMzBaaWdGeUlPRXhqNV9KMVZzcUNFSHVRSkFGYmozelhONlR0cUZlZEpFOTBpT2VGVFdqMUZQV3g0WVpNaE9tZENQZzVlU2t6S3JOYjBEMW9Dak9uLU5xaGJtRGRXNjFwSDdFWGU5VEZ1RXJVUkRaNFkyRlVpck13M1F5U0hmOTF6eUlFYUpiR2FTWkhranlYb1RzbGozUXQteFkyVkNZVi1QVUtSdFAzX2Z2WXEzUElPSzc4TWctSF9DYXNuelgxdkNTTHJxU3UwU2sxVzh0NXp6SjlrMGJOUkhnNGlzQ28xQ0lGVFMzU3VFeGRSTTRuSWtLNDhR?oc=5",
-      "words": [
-        "aadhaar",
-        "authentication",
-        "authorities",
-        "contempt",
-        "court",
-        "detailed",
-        "face",
-        "fail",
-        "give",
-        "impaired",
-        "plea",
-        "reply",
-        "supreme",
-        "unable"
-      ]
-    },
-    {
-      "at": "2026-11-16T10:32:18.983627+00:00",
       "handle": "News: India telecom",
       "headline": "Jio ends new sign-ups for free Google AI Pro subscription",
       "tier": 0,
@@ -7477,6 +7454,26 @@
         "lowest",
         "plus",
         "price"
+      ]
+    },
+    {
+      "at": "2026-11-24T14:37:01.867796+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "SoftBank's Narendra Rathi resigns to launch India AI fund",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdVU1eFdVblREUVB1VmtRQm1BYW9HV05mSkhSU0RCdXY3cjJvem5HS1BmUXJXTGxfQ3JPM0QxaWl5ZUI1b1NLSnBzVkZoTjM1YzRGMWE2a2RoM29aSjFhOWxSSjF5N0lSQzRleFdELVlKWTE3b2E0Tk1tNjVsTGRPV2NuRGVLRW9ocTYweVpyYmxoaWpWaFlSQlFsbUZhNFVsZWRDajVzckhoSnRVejNKMXlwQ3BSNHZERlFpalJCLU5ldW45T3NOVFA3aFN0ZWE1Q042S0pVTFhweHhaZFFnaEx6TV9qN1RRVkZyMU9hb29VVFFyNGfSAfsBQVVfeXFMTUdIR0p5ZUREQ0FvdEl3SGd5aTNXS2xRcWpMM0tBRU1ZYnBmb1pGMDZVX2RJSjI5U2liN0tYVWhiX2oxS2pLTnpOemdmN3FicjQzUVZRRURaQVFKVS0tbUVINWUwYjFEei1GdENMVU9BTmljU2ZqNkFDOXpkeS1EQk1VZnRWNXZoT0FmaFFIelV5V0F4dm5MTm1iYUZhM3l3UEFsOHhXTk1fZDdSbmU2anRnNzF3NlFPUzg4TFpCcXRoZUMtU0phWDVZZXFiTXdoRldBZjNnZmppZDhwUWVWZXpVc3pPUWFKRUJ3ME90Q2tKaEcwNzlRREpyZ2s?oc=5",
+      "words": [
+        "betting",
+        "build",
+        "fund",
+        "launch",
+        "markets",
+        "narendra",
+        "out",
+        "public",
+        "quits",
+        "rathi",
+        "softbank"
       ]
     }
   ],
@@ -17573,7 +17570,7 @@
       },
       "warned": "2026-11-24T09:09:07.120009+00:00"
     },
-    "last_run": "2026-11-24T14:29:47.363093+00:00",
+    "last_run": "2026-11-24T14:41:12.109437+00:00",
     "pib_mark": 2340882,
     "seen": [
       "pib:2331870",
@@ -20639,7 +20636,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "dead_models": {
     "deep-research-max-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
     "deep-research-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
@@ -26675,7 +26672,7 @@
     "2340401",
     "2340846"
   ],
-  "last_digest_hour": "2026-11-24T19",
+  "last_digest_hour": "2026-11-24T20",
   "last_success": "2026-11-24T14:07:37.249313+00:00",
   "national": {
     "alerted": [
@@ -37281,10 +37278,9 @@
       },
       "warned": "2026-11-24T02:19:51.675381+00:00"
     },
-    "last_run": "2026-11-24T14:25:19.219503+00:00",
+    "last_run": "2026-11-24T14:37:44.927641+00:00",
     "pib_mark": 2340882,
     "seen": [
-      "gazette:CG-MH-E-04112026-277633",
       "gazette:CG-BR-E-04112026-277638",
       "gazette:CG-DL-E-04112026-277639",
       "gazette:CG-OR-E-04112026-277636",
@@ -40283,7 +40279,8 @@
       "pib:2340882",
       "gazette:CG-DL-E-24112026-278145",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/fsec_23nov26_562_e.htm",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-receives-a-telephone-call-from-the-chancellor-of-the-federal-republic-of-germany"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-receives-a-telephone-call-from-the-chancellor-of-the-federal-republic-of-germany",
+      "site:who-don:2026-DON629"
     ],
     "source_failures": {
       "CBI": {
@@ -40362,26 +40359,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "SoftBank's Narendra Rathi resigns to launch India AI fund",
-      "post": {
-        "created_at": "2026-11-24T10:36:10+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1795516570954",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "SoftBank's Narendra Rathi quits; will launch public markets fund betting on India's AI build-out",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdVU1eFdVblREUVB1VmtRQm1BYW9HV05mSkhSU0RCdXY3cjJvem5HS1BmUXJXTGxfQ3JPM0QxaWl5ZUI1b1NLSnBzVkZoTjM1YzRGMWE2a2RoM29aSjFhOWxSSjF5N0lSQzRleFdELVlKWTE3b2E0Tk1tNjVsTGRPV2NuRGVLRW9ocTYweVpyYmxoaWpWaFlSQlFsbUZhNFVsZWRDajVzckhoSnRVejNKMXlwQ3BSNHZERlFpalJCLU5ldW45T3NOVFA3aFN0ZWE1Q042S0pVTFhweHhaZFFnaEx6TV9qN1RRVkZyMU9hb29VVFFyNGfSAfsBQVVfeXFMTUdIR0p5ZUREQ0FvdEl3SGd5aTNXS2xRcWpMM0tBRU1ZYnBmb1pGMDZVX2RJSjI5U2liN0tYVWhiX2oxS2pLTnpOemdmN3FicjQzUVZRRURaQVFKVS0tbUVINWUwYjFEei1GdENMVU9BTmljU2ZqNkFDOXpkeS1EQk1VZnRWNXZoT0FmaFFIelV5V0F4dm5MTm1iYUZhM3l3UEFsOHhXTk1fZDdSbmU2anRnNzF3NlFPUzg4TFpCcXRoZUMtU0phWDVZZXFiTXdoRldBZjNnZmppZDhwUWVWZXpVc3pPUWFKRUJ3ME90Q2tKaEcwNzlRREpyZ2s?oc=5"
-      },
-      "queued_at": "2026-11-24T14:07:37.193427+00:00",
-      "score": 8.0,
-      "why": "A significant leadership departure and new fund launch focused on India's AI sector."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41638,7 +41616,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T14:24:35.241372+00:00",
+    "last_server_run": "2026-11-24T14:37:02.324015+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-24T13:10:51.332078+00:00",
@@ -55427,9 +55405,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T14:26:58.817925+00:00",
+    "last_run": "2026-11-24T14:38:15.650427+00:00",
     "seen": [
-      "x:2123743655077032047",
       "x:2123745412205224209",
       "x:2123745549375713756",
       "x:2123746710753329442",
@@ -58428,7 +58405,8 @@
       "x:2125231198188581091",
       "x:2125231762595057692",
       "x:2125231971836231788",
-      "x:2125232326653497484"
+      "x:2125232326653497484",
+      "x:2125236158255050815"
     ],
     "source_failures": {},
     "sources": []
