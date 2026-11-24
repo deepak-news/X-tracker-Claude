@@ -17521,7 +17521,7 @@
         "State: Telangana": "2026-11-24T12:47:07.519334+00:00"
       }
     },
-    "last_run": "2026-11-24T18:44:09.934550+00:00",
+    "last_run": "2026-11-24T19:00:15.373547+00:00",
     "pib_mark": 2341022,
     "seen": [
       "pib:2331870",
@@ -20583,7 +20583,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 4,
+  "consecutive_failures": 5,
   "dead_models": {
     "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
     "antigravity-preview-latest": "2026-11-24T16:08:41.929678+00:00",
@@ -20614,7 +20614,7 @@
     "gemini-omni-flash-preview": "2026-11-24T13:25:02.394745+00:00",
     "gemini-pro-latest": "2026-11-24T14:26:58.817815+00:00",
     "gemini-robotics-er-2-preview": "2026-11-24T05:51:58.713236+00:00",
-    "lyria-3-clip-preview": "2026-11-23T22:23:52.500313+00:00",
+    "lyria-3-clip-preview": "2026-11-24T18:54:08.863043+00:00",
     "lyria-3-pro-preview": "2026-11-24T18:38:09.094099+00:00",
     "lyria-3.5": "2026-11-24T14:24:34.930735+00:00",
     "nano-banana-pro-preview": "2026-11-24T18:20:28.940539+00:00"
@@ -37226,7 +37226,7 @@
       },
       "warned": "2026-11-24T02:19:51.675381+00:00"
     },
-    "last_run": "2026-11-24T18:38:54.045786+00:00",
+    "last_run": "2026-11-24T18:54:50.301620+00:00",
     "pib_mark": 2341022,
     "seen": [
       "pib:2332375",
@@ -41561,7 +41561,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T18:38:09.630484+00:00",
+    "last_server_run": "2026-11-24T18:54:09.375891+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-24T17:29:42.421862+00:00",
@@ -55447,7 +55447,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T18:40:40.954664+00:00",
+    "last_run": "2026-11-24T18:56:38.744914+00:00",
     "seen": [
       "x:2123768277335965812",
       "x:2123768500439408711",
