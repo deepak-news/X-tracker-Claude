@@ -17606,7 +17606,7 @@
       },
       "warned": "2026-11-24T09:09:07.120009+00:00"
     },
-    "last_run": "2026-11-24T10:21:25.704853+00:00",
+    "last_run": "2026-11-24T10:45:23.193436+00:00",
     "pib_mark": 2340796,
     "seen": [
       "gazette:CG-DL-E-31102026-277567",
@@ -20231,6 +20231,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-essential-qualities-that-sustain-prosperity",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-23rd-india-asean-summit-in-manila",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-inauguration-of-ficci-annual-general-meeting-and-annual-convention-in-delhi",
+      "mea:41954",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-lays-foundation-stones-for-and-dedicates-to-the-nation-development-projects-worth-around-rs-34470-crore-in-vaishali-bihar",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-5th-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh",
       "gazette:CG-DL-E-23112026-278137",
@@ -20517,7 +20518,6 @@
       "feed:http://www.niti.gov.in/node/2460",
       "feed:http://www.niti.gov.in/node/2459",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-icmr-raasataraiya",
-      "mea:41954",
       "mea:41957",
       "mea:41956",
       "mea:41958",
@@ -20668,7 +20668,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 15,
+  "consecutive_failures": 16,
   "dead_models": {
     "deep-research-max-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
     "deep-research-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
@@ -26704,7 +26704,7 @@
     "2340334",
     "2340401"
   ],
-  "last_digest_hour": "2026-11-24T15",
+  "last_digest_hour": "2026-11-24T16",
   "last_success": "2026-11-24T05:16:24.434689+00:00",
   "national": {
     "alerted": [
@@ -37285,7 +37285,7 @@
       },
       "warned": "2026-11-24T02:19:51.675381+00:00"
     },
-    "last_run": "2026-11-24T10:15:04.706941+00:00",
+    "last_run": "2026-11-24T10:38:35.201776+00:00",
     "pib_mark": 2340796,
     "seen": [
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168726",
@@ -39849,6 +39849,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-sanskrit-subhashitam-highlighting-essential-qualities-that-sustain-prosperity",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-23rd-india-asean-summit-in-manila",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-during-inauguration-of-ficci-annual-general-meeting-and-annual-convention-in-delhi",
+      "mea:41954",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-lays-foundation-stones-for-and-dedicates-to-the-nation-development-projects-worth-around-rs-34470-crore-in-vaishali-bihar",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-participates-in-the-5th-kaushal-deekshant-samaroh-in-lucknow-uttar-pradesh",
       "gazette:CG-MH-E-23112026-278140",
@@ -40196,7 +40197,6 @@
       "feed:http://www.niti.gov.in/node/2459",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-icmr-raasataraiya",
       "feed:http://www.niti.gov.in/node/2460",
-      "mea:41954",
       "mea:41956",
       "mea:41957",
       "mea:41958",
@@ -41598,9 +41598,7 @@
     "zoho": 1795189607683
   },
   "source_health": {
-    "down": {
-      "REG NPCI": "2026-11-24T10:05:48.739846+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41618,7 +41616,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-24T10:10:32.405682+00:00",
+    "last_server_run": "2026-11-24T10:34:55.871366+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-24T08:38:18.939556+00:00",
@@ -55491,14 +55489,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-24T10:18:11.355328+00:00",
+    "last_run": "2026-11-24T10:42:09.036640+00:00",
     "seen": [
-      "x:2123610161625677923",
-      "x:2123610185126339035",
-      "x:2123610828180218103",
-      "x:2123611029867569509",
-      "x:2123611277864092111",
-      "x:2123612385009369295",
       "x:2123615306052747636",
       "x:2123616068400795901",
       "x:2123616270495129606",
@@ -58492,7 +58484,13 @@
       "x:2125169500874227736",
       "x:2125169666356289880",
       "x:2125169710413345115",
-      "x:2125170870377406846"
+      "x:2125170870377406846",
+      "x:2125171489670590864",
+      "x:2125171589407011052",
+      "x:2125172127816966223",
+      "x:2125172789514764548",
+      "x:2125174935433920561",
+      "x:2125176481462763938"
     ],
     "source_failures": {},
     "sources": []
