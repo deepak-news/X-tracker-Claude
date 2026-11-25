@@ -7373,26 +7373,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-11-05T11:04:40.710562+00:00",
-        "handle": "Gazette Ministry of Consumer Affairs, Food and Public Distribution",
-        "headline": "Government appoints two new members to Bureau of Indian Standards Governing Council",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277693.pdf",
-        "words": [
-          "affairs",
-          "appointment",
-          "bis",
-          "consumer",
-          "distribution",
-          "extraordinary",
-          "food",
-          "gazette",
-          "members",
-          "ministry",
-          "public"
-        ]
-      },
-      {
         "at": "2026-11-05T11:34:27.110206+00:00",
         "handle": "PIB Ministry of Mines",
         "headline": "Mines Ministry launches ninth tranche of critical mineral block and exploration license auctions",
@@ -16181,6 +16161,25 @@
           "policy",
           "revenue"
         ]
+      },
+      {
+        "at": "2026-11-25T17:52:05.151525+00:00",
+        "handle": "MEA media briefings",
+        "headline": "Transcript of Bi-weekly Media Briefing by the Official Spokesperson (November 25, 2026)",
+        "tier": 1,
+        "url": "https://www.mea.gov.in/media-briefings?dtl/42005/Transcript_of_Biweekly_Media_Briefing_by_the_Official_Spokesperson_November_25_2026",
+        "words": [
+          "2026",
+          "briefing",
+          "briefings",
+          "mea",
+          "media",
+          "november",
+          "official",
+          "spokesperson",
+          "transcript",
+          "weekly"
+        ]
       }
     ],
     "gazette_mark": 278174,
@@ -17472,10 +17471,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-25T17:38:13.734610+00:00",
+    "last_run": "2026-11-25T17:52:05.152845+00:00",
     "pib_mark": 2341690,
     "seen": [
-      "pib:2332613",
       "pib:2332636",
       "pib:2332658",
       "pib:2332665",
@@ -19931,7 +19929,6 @@
       "gazette:CG-DL-E-23112026-278134",
       "gazette:CG-DL-E-23112026-278135",
       "watch:meeting:LS|22680",
-      "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse2026.pdf",
       "gazette:CG-DL-E-23112026-278136",
       "gazette:CG-DL-E-23112026-278137",
@@ -19947,14 +19944,17 @@
       "gazette:CG-TL-E-24112026-278146",
       "gazette:CG-DL-E-24112026-278145",
       "gazette:CG-DL-E-24112026-278149",
-      "mea:42002",
       "gazette:CG-DL-E-24112026-278154",
       "gazette:CG-DL-E-24112026-278152",
       "gazette:CG-DL-E-24112026-278150",
       "gazette:CG-DL-E-24112026-278153",
-      "gazette:CG-DL-E-24112026-278156",
       "gazette:CG-DL-E-24112026-278155",
       "gazette:CG-DL-E-24112026-278151",
+      "mea:41799",
+      "watch:meeting:LS|22681",
+      "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
+      "mea:42002",
+      "gazette:CG-DL-E-24112026-278156",
       "gazette:CG-BR-E-25112026-278163",
       "gazette:CG-DL-E-25112026-278162",
       "gazette:CG-DL-E-25112026-278160",
@@ -20205,7 +20205,6 @@
       "mea:39522",
       "mea:39524",
       "mea:41643",
-      "mea:41799",
       "mea:41765",
       "mea:41822",
       "mea:41712",
@@ -20353,7 +20352,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64035",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64036",
       "pib:2341056",
-      "watch:meeting:LS|22681",
       "site:Delhi Police press releases|dp-press:11/25/2026 12:00:00 AM|A habitual snatcher involved in 51 previous criminal cases apprehended by ASB Cell, East District.",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
       "site:Delhi Police press releases|dp-press:11/25/2026 12:00:00 AM|THREE PERSONS, INCLUDING ONE CCL, APPREHENDED BY PS NARELA TWO SNATCHING CASES WORKED OUT",
@@ -20474,7 +20472,8 @@
       "gazette:CG-TL-E-25112026-278170",
       "gazette:CG-DL-E-25112026-278173",
       "gazette:CG-DL-E-25112026-278169",
-      "gazette:CG-DL-E-25112026-278172"
+      "gazette:CG-DL-E-25112026-278172",
+      "mea:42005"
     ],
     "source_failures": {},
     "sources": [
@@ -20529,7 +20528,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
     "antigravity-preview-latest": "2026-11-24T16:08:41.929678+00:00",
@@ -20550,7 +20549,7 @@
     "gemini-3.8-flash": "2026-11-25T15:39:04.706250+00:00",
     "gemini-4-argon": "2026-11-25T17:04:01.170269+00:00",
     "gemini-4-carbon": "2026-11-25T16:51:20.240702+00:00",
-    "gemini-4-hydrogen": "2026-11-24T14:51:48.695646+00:00",
+    "gemini-4-hydrogen": "2026-11-25T17:51:37.917630+00:00",
     "gemini-4-neon": "2026-11-25T16:32:50.031993+00:00",
     "gemini-flash-latest": "2026-11-25T16:47:21.934486+00:00",
     "gemini-flash-lite-latest": "2026-11-24T17:31:01.642266+00:00",
@@ -26571,25 +26570,6 @@
   "last_success": "2026-11-25T17:34:03.982442+00:00",
   "national": {
     "alerted": [
-      {
-        "at": "2026-10-24T15:46:49.754934+00:00",
-        "handle": "Quake USGS",
-        "headline": "Magnitude 5.8 earthquake -- Bouvet Island region.",
-        "tier": 1,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn",
-        "words": [
-          "bouvet",
-          "deep",
-          "earthquake",
-          "island",
-          "ist",
-          "magnitude",
-          "oct",
-          "region",
-          "reported",
-          "usgs"
-        ]
-      },
       {
         "at": "2026-10-24T16:16:52.653242+00:00",
         "handle": "Quake USGS",
@@ -35253,9 +35233,32 @@
           "pragati",
           "projects"
         ]
+      },
+      {
+        "at": "2026-11-25T17:50:01.713272+00:00",
+        "handle": "Gazette Ministry of Finance",
+        "headline": "Government updates GST rules for registration cancellation effective December",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/278173.pdf",
+        "words": [
+          "2026",
+          "cbic",
+          "dated",
+          "department",
+          "extraordinary",
+          "finance",
+          "gazette",
+          "gst",
+          "ministry",
+          "notification",
+          "november",
+          "part",
+          "policy",
+          "revenue"
+        ]
       }
     ],
-    "gazette_mark": 278168,
+    "gazette_mark": 278174,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -37221,19 +37224,9 @@
       },
       "warned": "2026-11-25T02:32:12.596630+00:00"
     },
-    "last_run": "2026-11-25T17:36:26.545445+00:00",
+    "last_run": "2026-11-25T17:50:01.761517+00:00",
     "pib_mark": 2341690,
     "seen": [
-      "pib:2332844",
-      "pib:2332858",
-      "pib:2332857",
-      "pib:2332894",
-      "watch:meeting:LS|22627",
-      "pib:2332932",
-      "pib:2332934",
-      "pib:2332944",
-      "pib:2332947",
-      "pib:2332964",
       "pib:2332987",
       "pib:2332985",
       "pib:2333012",
@@ -39626,7 +39619,6 @@
       "gazette:SG-DL-E-23112026-278133",
       "gazette:CG-DL-E-23112026-278135",
       "watch:meeting:LS|22680",
-      "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse2026.pdf",
       "gazette:CG-DL-E-23112026-278136",
       "gazette:CG-MH-E-23112026-278140",
@@ -39642,14 +39634,16 @@
       "gazette:CG-DL-E-24112026-278148",
       "gazette:CG-TL-E-24112026-278146",
       "gazette:CG-DL-E-24112026-278145",
-      "mea:42002",
       "gazette:CG-DL-E-24112026-278155",
       "gazette:CG-DL-E-24112026-278153",
-      "gazette:CG-DL-E-24112026-278156",
       "gazette:CG-DL-E-24112026-278151",
       "gazette:CG-DL-E-24112026-278154",
       "gazette:CG-DL-E-24112026-278152",
       "gazette:CG-DL-E-24112026-278150",
+      "watch:meeting:LS|22681",
+      "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
+      "mea:42002",
+      "gazette:CG-DL-E-24112026-278156",
       "gazette:CG-BR-E-25112026-278163",
       "gazette:CG-DL-E-25112026-278162",
       "gazette:CG-OR-E-25112026-278161",
@@ -40108,7 +40102,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64035",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64036",
       "pib:2341056",
-      "watch:meeting:LS|22681",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
       "site:Delhi Police press releases|dp-press:11/25/2026 12:00:00 AM|A habitual snatcher involved in 51 previous criminal cases apprehended by ASB Cell, East District.",
       "site:Delhi Police press releases|dp-press:11/25/2026 12:00:00 AM|FAMILY MEMBERS INVOLVED IN KNIFE POINT ROBBERY OF E RICKSHAW PASSENGER APPREHENDED BY EAST DISTRICT",
@@ -40223,7 +40216,17 @@
       "gazette:CG-DL-E-25112026-278167",
       "gazette:CG-DL-E-25112026-278165",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-chairs-55th-pragati-meeting",
-      "quake:ncs:ZmcxbFluSmxBenFyWm42bkJ6U1dwQT09"
+      "quake:ncs:ZmcxbFluSmxBenFyWm42bkJ6U1dwQT09",
+      "gazette:CG-DL-E-25112026-278173",
+      "gazette:CG-DL-E-25112026-278172",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168876",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168874",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168875",
+      "gazette:CG-TL-E-25112026-278170",
+      "pib:2341690",
+      "gazette:CG-TL-E-25112026-278174",
+      "gazette:CG-DL-E-25112026-278169",
+      "gazette:CG-TL-E-25112026-278171"
     ],
     "source_failures": {
       "CBI": {
@@ -41541,8 +41544,9 @@
   },
   "source_health": {
     "down": {
-      "News: Tech leaders": "2026-11-25T17:31:28.499863+00:00",
-      "REG NPCI": "2026-11-25T17:16:42.842150+00:00"
+      "News: Global IT services": "2026-11-25T17:46:39.482517+00:00",
+      "News: India semiconductors": "2026-11-25T17:46:39.482517+00:00",
+      "News: Indian IT majors": "2026-11-25T17:46:39.482517+00:00"
     }
   },
   "watch": {
@@ -41561,7 +41565,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-25T17:34:04.338041+00:00",
+    "last_server_run": "2026-11-25T17:48:11.047116+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-25T17:18:58.405981+00:00",
@@ -55796,10 +55800,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-25T17:37:12.997767+00:00",
+    "last_run": "2026-11-25T17:51:37.917763+00:00",
     "seen": [
-      "x:2124287573267009695",
-      "x:2124291004564115463",
       "x:2124293853062758834",
       "x:2124294558402166939",
       "x:2124299343389716690",
@@ -58797,7 +58799,9 @@
       "x:2125636895996846095",
       "x:2125638935019921688",
       "x:2125642137140384120",
-      "x:2125642644189843831"
+      "x:2125642644189843831",
+      "x:2125644527428141330",
+      "x:2125644797394530745"
     ],
     "source_failures": {},
     "sources": []
