@@ -7425,29 +7425,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-11-05T06:06:19.944819+00:00",
-        "handle": "NHRC",
-        "headline": "Hyderabad Central Prison establishes gender-neutral cell following NHRC intervention",
-        "tier": 1,
-        "url": "https://nhrc.nic.in/media/press-release/nhrc,-indias-intervention-leads-to-establishment-of-a-gender-neutral-cell-at-central-prison,-hyderabad-for-persons-with-diverse-gender-identities-and-expressions",
-        "words": [
-          "article",
-          "cell",
-          "central",
-          "diverse",
-          "establishment",
-          "expressions",
-          "gender",
-          "hyderabad",
-          "identities",
-          "interve",
-          "intervention",
-          "leads",
-          "neutral",
-          "nhrc"
-        ]
-      },
-      {
         "at": "2026-11-05T07:52:55.559942+00:00",
         "handle": "PIB Ministry of Finance",
         "headline": "Finance Ministry group recommends asset monetisation proposals worth over 1,100 crore rupees",
@@ -16234,6 +16211,29 @@
           "towards",
           "urea"
         ]
+      },
+      {
+        "at": "2026-11-25T15:08:44.082427+00:00",
+        "handle": "PIB Ministry of Skill Development and Entrepreneurship",
+        "headline": "MSDE and Jal Shakti skill partnership",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341562",
+        "words": [
+          "development",
+          "entrepreneurship",
+          "jal",
+          "jeevan",
+          "lakh",
+          "ministry",
+          "mission",
+          "msde",
+          "one",
+          "partners",
+          "shakti",
+          "skill",
+          "under",
+          "youth"
+        ]
       }
     ],
     "gazette_mark": 278163,
@@ -17514,11 +17514,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-25T14:48:22.006197+00:00",
-    "pib_mark": 2341525,
+    "last_run": "2026-11-25T15:08:44.083625+00:00",
+    "pib_mark": 2341562,
     "seen": [
-      "pib:2332476",
-      "pib:2332471",
       "pib:2332495",
       "pib:2332483",
       "pib:2332486",
@@ -20516,7 +20514,9 @@
       "pib:2341518",
       "pib:2341521",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-delight-as-india-pavilion-wins-the-prestigious-visitors-lion-for-best-national-pavilion-at-the-venice-art-biennale",
-      "pib:2341525"
+      "pib:2341525",
+      "pib:2341562",
+      "pib:2341559"
     ],
     "source_failures": {},
     "sources": [
@@ -20571,7 +20571,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "dead_models": {
     "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
     "antigravity-preview-latest": "2026-11-24T16:08:41.929678+00:00",
@@ -37252,10 +37252,9 @@
       },
       "warned": "2026-11-25T02:32:12.596630+00:00"
     },
-    "last_run": "2026-11-25T14:47:42.414385+00:00",
-    "pib_mark": 2341525,
+    "last_run": "2026-11-25T15:06:08.692501+00:00",
+    "pib_mark": 2341559,
     "seen": [
-      "gazette:CG-TL-E-04112026-277670",
       "gazette:CG-DL-E-04112026-277673",
       "gazette:CG-DL-E-04112026-277674",
       "site:NHRC|https://nhrc.nic.in/media/press-release/nhrc,-indias-intervention-leads-to-establishment-of-a-gender-neutral-cell-at-central-prison,-hyderabad-for-persons-with-diverse-gender-identities-and-expressions",
@@ -40254,7 +40253,8 @@
       "pib:2341525",
       "pib:2341521",
       "pib:2341518",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-delight-as-india-pavilion-wins-the-prestigious-visitors-lion-for-best-national-pavilion-at-the-venice-art-biennale"
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-delight-as-india-pavilion-wins-the-prestigious-visitors-lion-for-best-national-pavilion-at-the-venice-art-biennale",
+      "pib:2341559"
     ],
     "source_failures": {
       "CBI": {
@@ -41571,7 +41571,12 @@
     "zoho": 1795523801988
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "News: Big tech platforms": "2026-11-25T15:01:45.996249+00:00",
+      "News: Global IT services": "2026-11-25T15:01:45.996249+00:00",
+      "News: India AI deeptech": "2026-11-25T15:01:45.996249+00:00",
+      "News: Indian IT midcaps": "2026-11-25T15:01:45.996249+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -41589,17 +41594,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-25T14:46:59.243701+00:00",
+    "last_server_run": "2026-11-25T15:04:20.798055+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-25T12:48:27.648465+00:00",
+        "checked": "2026-11-25T15:05:19.550728+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-25T12:48:18.629396+00:00",
+        "checked": "2026-11-25T15:05:12.205806+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -41675,7 +41680,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-25T12:48:23.253217+00:00",
+        "checked": "2026-11-25T15:05:15.853407+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -41729,11 +41734,11 @@
       },
       "last": {
         "calendar": "2026-11-25T12:32:07.741040+00:00",
-        "ls_reports": "2026-11-25T12:48:02.947618+00:00",
-        "rs_committee_press": "2026-11-25T12:48:12.660089+00:00",
-        "rs_press": "2026-11-25T12:48:09.522442+00:00",
-        "rs_reports": "2026-11-25T12:48:06.673624+00:00",
-        "rs_updates": "2026-11-25T12:48:14.384428+00:00"
+        "ls_reports": "2026-11-25T15:04:56.841145+00:00",
+        "rs_committee_press": "2026-11-25T15:05:06.417359+00:00",
+        "rs_press": "2026-11-25T15:05:03.306854+00:00",
+        "rs_reports": "2026-11-25T15:05:00.415039+00:00",
+        "rs_updates": "2026-11-25T15:05:08.242295+00:00"
       }
     },
     "scanned": [
@@ -55802,38 +55807,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-25T14:48:13.109124+00:00",
+    "last_run": "2026-11-25T15:08:09.159532+00:00",
     "seen": [
-      "x:2124161366563135939",
-      "x:2124161742813200525",
-      "x:2124162428032495896",
-      "x:2124163463283167274",
-      "x:2124165018300354684",
-      "x:2124165057949163755",
-      "x:2124165450569490551",
-      "x:2124166168101736925",
-      "x:2124167725329379557",
-      "x:2124168186748920024",
-      "x:2124168221033152688",
-      "x:2124168458581487679",
-      "x:2124168875168456964",
-      "x:2124169914420514946",
-      "x:2124170094016426422",
-      "x:2124171883390410917",
-      "x:2124172233254097234",
-      "x:2124172914257993994",
-      "x:2124173401397084293",
-      "x:2124173935176728926",
-      "x:2124174250538102850",
-      "x:2124174301083611216",
-      "x:2124174628029640761",
-      "x:2124174741468852489",
-      "x:2124175228947587277",
-      "x:2124175688450380281",
-      "x:2124176170069655885",
-      "x:2124177113070907864",
-      "x:2124177342969131046",
-      "x:2124177663363617128",
       "x:2124178407584096713",
       "x:2124178826574078176",
       "x:2124179573428601205",
@@ -58803,7 +58778,37 @@
       "x:2125600307715637504",
       "x:2125600381334110333",
       "x:2125600632119890117",
-      "x:2125600734746145134"
+      "x:2125600734746145134",
+      "x:2125602051115868667",
+      "x:2125602905734709582",
+      "x:2125603111423381765",
+      "x:2125603123930738900",
+      "x:2125603290008408536",
+      "x:2125603338620379509",
+      "x:2125603387513466891",
+      "x:2125603477087035847",
+      "x:2125603620398022723",
+      "x:2125604227783463186",
+      "x:2125604299162223031",
+      "x:2125604360000508278",
+      "x:2125604517232452085",
+      "x:2125604557342253062",
+      "x:2125604671272444344",
+      "x:2125604741392826604",
+      "x:2125604744026812522",
+      "x:2125604815237795897",
+      "x:2125604885743944186",
+      "x:2125604994246414668",
+      "x:2125605147976040473",
+      "x:2125605211456872475",
+      "x:2125605259720663067",
+      "x:2125605399676293228",
+      "x:2125605437516943821",
+      "x:2125605532287562120",
+      "x:2125605813003931901",
+      "x:2125605992457240752",
+      "x:2125606059742220641",
+      "x:2125606192542372264"
     ],
     "source_failures": {},
     "sources": []
