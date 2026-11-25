@@ -16225,7 +16225,7 @@
         ]
       }
     ],
-    "gazette_mark": 278163,
+    "gazette_mark": 278166,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -17498,19 +17498,15 @@
       "SG-DL-E-25112026-278159",
       "SG-DL-E-25112026-278157",
       "SG-DL-E-25112026-278158",
-      "CG-UP-E-25112026-278051"
+      "CG-UP-E-25112026-278051",
+      "CG-DL-E-25112026-278166"
     ],
     "health": {
-      "down": {
-        "Gazette of India (Extraordinary)": "2026-11-25T15:41:39.672734+00:00"
-      }
+      "down": {}
     },
-    "last_run": "2026-11-25T15:56:27.834888+00:00",
-    "pib_mark": 2341610,
+    "last_run": "2026-11-25T16:20:39.777970+00:00",
+    "pib_mark": 2341617,
     "seen": [
-      "pib:2332490",
-      "pib:2332521",
-      "pib:2332524",
       "pib:2332475",
       "pib:2332523",
       "pib:2332534",
@@ -19960,6 +19956,14 @@
       "mea:41958",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64031",
       "gazette:CG-DL-E-21112026-278125",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64032",
+      "mea:41748",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-growing-focus-on-skill-development-and-making-skilling-a-preferred-career-pathway",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168871",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168868",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168869",
+      "site:Delhi Police press releases|dp-press:11/24/2026 12:00:00 AM|STABBING INCIDENT SOLVED BY PS WELCOME OF NORTH EAST DISTRICT.",
       "gazette:CG-AP-E-23112026-278132",
       "gazette:CG-AP-E-23112026-278129",
       "gazette:CG-AP-E-23112026-278131",
@@ -19979,10 +19983,6 @@
       "gazette:CG-DL-E-24112026-278142",
       "gazette:CG-BR-E-24112026-278143",
       "gazette:CG-DL-E-24112026-278144",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64032",
-      "mea:41748",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-growing-focus-on-skill-development-and-making-skilling-a-preferred-career-pathway",
       "gazette:CG-DL-E-24112026-278154",
       "gazette:CG-DL-E-24112026-278152",
       "gazette:CG-CG-E-24112026-278147",
@@ -19995,9 +19995,6 @@
       "gazette:CG-DL-E-24112026-278156",
       "gazette:CG-DL-E-24112026-278155",
       "gazette:CG-DL-E-24112026-278151",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168871",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168868",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168869",
       "gazette:CG-BR-E-25112026-278163",
       "gazette:CG-DL-E-25112026-278162",
       "gazette:CG-DL-E-25112026-278160",
@@ -20396,7 +20393,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-path-to-supreme-spiritual-attainment",
       "mea:42001",
       "pib:2341040",
-      "site:Delhi Police press releases|dp-press:11/24/2026 12:00:00 AM|STABBING INCIDENT SOLVED BY PS WELCOME OF NORTH EAST DISTRICT.",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64035",
       "watch:meeting:LS|22680",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64036",
@@ -20507,13 +20503,12 @@
       "pib:2341582",
       "pib:2341536",
       "pib:2341610",
-      "pib:2341608"
+      "pib:2341608",
+      "gazette:CG-DL-E-25112026-278166",
+      "pib:2341617",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168872"
     ],
-    "source_failures": {
-      "Gazette of India (Extraordinary)": {
-        "count": 2
-      }
-    },
+    "source_failures": {},
     "sources": [
       "CCI",
       "CERT-In",
@@ -20566,7 +20561,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "dead_models": {
     "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
     "antigravity-preview-latest": "2026-11-24T16:08:41.929678+00:00",
@@ -20594,7 +20589,7 @@
     "gemini-nano-banana-2.1": "2026-11-24T18:20:28.940539+00:00",
     "gemini-omni-1.1-flash": "2026-11-25T15:53:56.535200+00:00",
     "gemini-omni-1.2-flash": "2026-11-25T15:47:11.122322+00:00",
-    "gemini-omni-flash-preview": "2026-11-24T13:25:02.394745+00:00",
+    "gemini-omni-flash-preview": "2026-11-25T16:16:57.781884+00:00",
     "gemini-pro-latest": "2026-11-24T14:26:58.817815+00:00",
     "gemini-robotics-er-2-preview": "2026-11-24T05:51:58.713236+00:00",
     "lyria-3-clip-preview": "2026-11-24T18:54:08.863043+00:00",
@@ -35292,7 +35287,7 @@
         ]
       }
     ],
-    "gazette_mark": 278163,
+    "gazette_mark": 278165,
     "gazette_scanned": [
       "CG-AP-E-14092026-276157",
       "CG-AP-E-15092026-276187",
@@ -37237,19 +37232,19 @@
       "SG-DL-E-25112026-278159",
       "SG-DL-E-25112026-278157",
       "SG-DL-E-25112026-278158",
-      "CG-UP-E-25112026-278051"
+      "CG-UP-E-25112026-278051",
+      "CG-DL-E-25112026-278166"
     ],
     "health": {
       "down": {
         "CBI": "2026-10-01T19:20:11.147171+00:00",
-        "Gazette of India (Extraordinary)": "2026-11-25T15:37:44.904792+00:00",
         "State: Maharashtra": "2026-10-01T19:20:11.147171+00:00",
         "State: Tamil Nadu": "2026-10-01T19:20:11.147171+00:00"
       },
       "warned": "2026-11-25T02:32:12.596630+00:00"
     },
-    "last_run": "2026-11-25T15:52:24.589929+00:00",
-    "pib_mark": 2341610,
+    "last_run": "2026-11-25T16:18:51.755381+00:00",
+    "pib_mark": 2341617,
     "seen": [
       "npci:624",
       "cci-merger:C-2026/10/1480|Deemed Approved (Section 6(5))",
@@ -39642,6 +39637,14 @@
       "mea:41958",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64031",
       "gazette:CG-DL-E-21112026-278125",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64032",
+      "mea:41748",
+      "quake:usgs:us6000udd1",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-growing-focus-on-skill-development-and-making-skilling-a-preferred-career-pathway",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168868",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168869",
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168871",
       "gazette:CG-AP-E-23112026-278132",
       "gazette:CG-DL-E-23112026-278130",
       "gazette:CG-DL-E-23112026-278128",
@@ -39661,11 +39664,6 @@
       "gazette:CG-BR-E-24112026-278143",
       "gazette:CG-DL-E-24112026-278141",
       "gazette:CG-DL-E-24112026-278144",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64032",
-      "mea:41748",
-      "quake:usgs:us6000udd1",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-growing-focus-on-skill-development-and-making-skilling-a-preferred-career-pathway",
       "gazette:CG-CG-E-24112026-278147",
       "gazette:CG-DL-E-24112026-278149",
       "gazette:CG-DL-E-24112026-278148",
@@ -39686,9 +39684,6 @@
       "gazette:SG-DL-E-25112026-278158",
       "gazette:SG-DL-E-25112026-278157",
       "gazette:CG-UP-E-25112026-278051",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168868",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168869",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168871",
       "mea:42002",
       "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-lok-sabha-sri-rahul-gandhi-participates-in-valedictory-session-of-bharat-summit-2026-at-hicc-madhapur-hyd/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-foundation-laying-ceremony-of-the-phfi-institute-of-public-health-sciences-campus-in-hyd/",
@@ -40256,9 +40251,6 @@
       "CBI": {
         "count": 19,
         "until": "2026-09-21T17:32:43.475440+00:00"
-      },
-      "Gazette of India (Extraordinary)": {
-        "count": 2
       },
       "State: Maharashtra": {
         "count": 19,
@@ -41571,19 +41563,12 @@
   },
   "source_health": {
     "down": {
-      "News: India tech policy": "2026-11-25T15:46:27.721221+00:00",
-      "News: Tech leaders": "2026-11-25T15:31:23.206052+00:00"
+      "News: Big tech platforms": "2026-11-25T16:16:15.619821+00:00"
     }
   },
   "watch": {
     "health_server": {
-      "down": {
-        "e-Gazette - Home, Finance, Defence, Law, I&B": "2026-11-25T15:34:58.292509+00:00",
-        "e-Gazette - Law ministry": "2026-11-25T15:34:58.292509+00:00",
-        "e-Gazette - MHA and Finance": "2026-11-25T15:34:58.292509+00:00",
-        "e-Gazette - MHA extraordinary": "2026-11-25T15:34:58.292509+00:00",
-        "e-Gazette - MeitY": "2026-11-25T15:34:58.292509+00:00"
-      }
+      "down": {}
     },
     "introduced": [
       "DoPT EO - appointments and extensions (30 days)",
@@ -41597,7 +41582,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-25T15:47:11.532810+00:00",
+    "last_server_run": "2026-11-25T16:16:58.180397+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-25T15:05:19.550728+00:00",
@@ -42924,6 +42909,7 @@
       "CG-DL-E-25092026-276517",
       "CG-DL-E-25112026-278160",
       "CG-DL-E-25112026-278162",
+      "CG-DL-E-25112026-278166",
       "CG-DL-E-26092026-276475",
       "CG-DL-E-26092026-276488",
       "CG-DL-E-26092026-276489",
@@ -55810,15 +55796,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-25T15:53:56.535359+00:00",
+    "last_run": "2026-11-25T16:20:04.822148+00:00",
     "seen": [
-      "x:2124195193369010378",
-      "x:2124197470624493686",
-      "x:2124198291588165925",
-      "x:2124198859018731598",
-      "x:2124198925330780415",
-      "x:2124199279162257872",
-      "x:2124200903507169536",
       "x:2124203564587430096",
       "x:2124205257211400344",
       "x:2124208815310872725",
@@ -58811,7 +58790,14 @@
       "x:2125615027621400867",
       "x:2125615094063358176",
       "x:2125615493222728149",
-      "x:2125617254591283293"
+      "x:2125617254591283293",
+      "x:2125620189672935699",
+      "x:2125620548302737428",
+      "x:2125621094174650620",
+      "x:2125622965643702780",
+      "x:2125623297929027831",
+      "x:2125623999271207234",
+      "x:2125625036883312756"
     ],
     "source_failures": {},
     "sources": []
