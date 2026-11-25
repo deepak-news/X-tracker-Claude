@@ -7418,49 +7418,6 @@
   "bureau": {
     "alerted": [
       {
-        "at": "2026-11-05T10:03:41.831421+00:00",
-        "handle": "PIB Department of Space",
-        "headline": "India targets debris-free space by 2030, announces Union Minister Jitendra Singh",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333047",
-        "words": [
-          "2030",
-          "announces",
-          "debris",
-          "department",
-          "free",
-          "jitendra",
-          "minister",
-          "pioneers",
-          "removal",
-          "singh",
-          "space",
-          "union",
-          "vision"
-        ]
-      },
-      {
-        "at": "2026-11-05T10:03:41.831421+00:00",
-        "handle": "PIB Ministry of Defence",
-        "headline": "INS Sahyadri reaches Japan for participation in Exercise Malabar 2026",
-        "tier": 1,
-        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333046",
-        "words": [
-          "2026",
-          "arrives",
-          "base",
-          "defence",
-          "exercise",
-          "japan",
-          "malabar",
-          "ministry",
-          "naval",
-          "sahyadri",
-          "ship",
-          "yokosuka"
-        ]
-      },
-      {
         "at": "2026-11-05T11:04:40.710562+00:00",
         "handle": "Gazette Ministry of Health and Family Welfare",
         "headline": "Health Ministry reconstitutes Central Supervisory Board under PC PNDT Act",
@@ -16223,9 +16180,55 @@
           "visitors",
           "wins"
         ]
+      },
+      {
+        "at": "2026-11-25T17:21:23.884143+00:00",
+        "handle": "Gazette Ministry of Finance",
+        "headline": "Finance Ministry notifies transfer pricing tolerance range for assessment year",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/278168.pdf",
+        "words": [
+          "2026",
+          "assessment",
+          "board",
+          "central",
+          "department",
+          "direct",
+          "extraordinary",
+          "finance",
+          "gazette",
+          "ministry",
+          "notification",
+          "part",
+          "range",
+          "revenue"
+        ]
+      },
+      {
+        "at": "2026-11-25T17:21:23.884143+00:00",
+        "handle": "Gazette Ministry of Mines",
+        "headline": "Cabinet approves capital support scheme to promote domestic critical mineral processing",
+        "tier": 1,
+        "url": "https://egazette.gov.in/WriteReadData/2026/278165.pdf",
+        "words": [
+          "2026",
+          "capex",
+          "critical",
+          "extraordinary",
+          "gazette",
+          "issued",
+          "mineral",
+          "mines",
+          "ministry",
+          "nov",
+          "part",
+          "processing",
+          "promote",
+          "published"
+        ]
       }
     ],
-    "gazette_mark": 278166,
+    "gazette_mark": 278168,
     "gazette_scanned": [
       "CG-BR-E-06102026-276862",
       "CG-BR-E-06102026-276876",
@@ -17508,16 +17511,9 @@
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-25T17:07:28.132132+00:00",
-    "pib_mark": 2341617,
+    "last_run": "2026-11-25T17:21:23.990891+00:00",
+    "pib_mark": 2341690,
     "seen": [
-      "pib:2332475",
-      "pib:2332523",
-      "pib:2332534",
-      "pib:2332535",
-      "pib:2332531",
-      "pib:2332530",
-      "pib:2332557",
       "pib:2332572",
       "pib:2332576",
       "pib:2332630",
@@ -20510,7 +20506,14 @@
       "pib:2341608",
       "gazette:CG-DL-E-25112026-278166",
       "pib:2341617",
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168872"
+      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168872",
+      "pib:2341690",
+      "gazette:CG-DL-E-25112026-278164",
+      "gazette:CG-DL-E-25112026-278167",
+      "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-chairs-55th-pragati-meeting",
+      "gazette:CG-DL-E-25112026-278168",
+      "gazette:CG-DL-E-25112026-278165"
     ],
     "source_failures": {},
     "sources": [
@@ -20565,7 +20568,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 5,
+  "consecutive_failures": 6,
   "dead_models": {
     "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
     "antigravity-preview-latest": "2026-11-24T16:08:41.929678+00:00",
@@ -20576,8 +20579,8 @@
     "gemini-3-flash-preview": "2026-11-25T16:51:20.240702+00:00",
     "gemini-3.1-flash-lite": "2026-11-25T17:06:40.294529+00:00",
     "gemini-3.1-flash-lite-preview": "2026-11-25T17:04:01.170269+00:00",
-    "gemini-3.1-pro-preview": "2026-11-24T13:45:39.707730+00:00",
-    "gemini-3.1-pro-preview-customtools": "2026-11-24T13:45:39.707730+00:00",
+    "gemini-3.1-pro-preview": "2026-11-25T17:18:01.728890+00:00",
+    "gemini-3.1-pro-preview-customtools": "2026-11-25T17:18:01.728890+00:00",
     "gemini-3.5-flash": "2026-11-25T15:53:56.535200+00:00",
     "gemini-3.5-flash-lite": "2026-11-24T17:31:21.820451+00:00",
     "gemini-3.5-transcribe": "2026-11-23T22:32:35.721740+00:00",
@@ -37251,7 +37254,7 @@
       },
       "warned": "2026-11-25T02:32:12.596630+00:00"
     },
-    "last_run": "2026-11-25T17:05:42.447679+00:00",
+    "last_run": "2026-11-25T17:19:23.574375+00:00",
     "pib_mark": 2341617,
     "seen": [
       "pib:2332841",
@@ -41571,8 +41574,8 @@
   },
   "source_health": {
     "down": {
-      "News: India tech policy": "2026-11-25T17:01:34.712130+00:00",
-      "News: Tech leaders": "2026-11-25T17:01:34.712130+00:00"
+      "News: India AI deeptech": "2026-11-25T17:16:42.842150+00:00",
+      "REG NPCI": "2026-11-25T17:16:42.842150+00:00"
     }
   },
   "watch": {
@@ -41591,17 +41594,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-25T17:04:01.527308+00:00",
+    "last_server_run": "2026-11-25T17:18:02.198941+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-25T15:05:19.550728+00:00",
+        "checked": "2026-11-25T17:18:58.405981+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-25T15:05:12.205806+00:00",
+        "checked": "2026-11-25T17:18:50.567546+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -41677,7 +41680,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-25T15:05:15.853407+00:00",
+        "checked": "2026-11-25T17:18:54.461546+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -41731,11 +41734,11 @@
       },
       "last": {
         "calendar": "2026-11-25T12:32:07.741040+00:00",
-        "ls_reports": "2026-11-25T15:04:56.841145+00:00",
-        "rs_committee_press": "2026-11-25T15:05:06.417359+00:00",
-        "rs_press": "2026-11-25T15:05:03.306854+00:00",
-        "rs_reports": "2026-11-25T15:05:00.415039+00:00",
-        "rs_updates": "2026-11-25T15:05:08.242295+00:00"
+        "ls_reports": "2026-11-25T17:18:35.909884+00:00",
+        "rs_committee_press": "2026-11-25T17:18:44.854777+00:00",
+        "rs_press": "2026-11-25T17:18:42.146420+00:00",
+        "rs_reports": "2026-11-25T17:18:39.277723+00:00",
+        "rs_updates": "2026-11-25T17:18:46.551392+00:00"
       }
     },
     "scanned": [
@@ -55816,10 +55819,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-25T17:06:40.343576+00:00",
+    "last_run": "2026-11-25T17:20:20.461063+00:00",
     "seen": [
-      "x:2124271671372820732",
-      "x:2124279124906913987",
       "x:2124281730026868895",
       "x:2124285296091308453",
       "x:2124287573267009695",
@@ -58817,7 +58818,9 @@
       "x:2125628242111734214",
       "x:2125628337804722465",
       "x:2125633279827263594",
-      "x:2125635935828390247"
+      "x:2125635935828390247",
+      "x:2125636895996846095",
+      "x:2125638935019921688"
     ],
     "source_failures": {},
     "sources": []
