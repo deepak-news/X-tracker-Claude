@@ -17502,12 +17502,13 @@
       "CG-DL-E-25112026-278166",
       "CG-DL-E-25112026-278165",
       "CG-DL-E-25112026-278167",
-      "CG-DL-E-25112026-278168"
+      "CG-DL-E-25112026-278168",
+      "CG-DL-E-25112026-278164"
     ],
     "health": {
       "down": {}
     },
-    "last_run": "2026-11-25T16:37:04.024056+00:00",
+    "last_run": "2026-11-25T16:52:19.149325+00:00",
     "pib_mark": 2341617,
     "seen": [
       "pib:2332475",
@@ -19971,9 +19972,10 @@
       "gazette:CG-OR-E-23112026-278126",
       "mea:42002",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-receives-a-telephone-call-from-the-chancellor-of-the-federal-republic-of-germany",
+      "gazette:CG-AP-E-23112026-278129",
+      "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse2026.pdf",
       "mea:41748",
       "gazette:CG-AP-E-23112026-278132",
-      "gazette:CG-AP-E-23112026-278129",
       "gazette:CG-AP-E-23112026-278131",
       "gazette:CG-DL-E-23112026-278130",
       "gazette:SG-DL-E-23112026-278133",
@@ -20268,7 +20270,6 @@
       "page:https://www.mha.gov.in/files/whats_new_documents/Police2_22092026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/UnitednationFlageEnglish_15102026_0.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/WhatsappMBBSSeat_02092026.pdf",
-      "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse2026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/postconstableheadconstable_01092026.pdf",
       "mea:41892",
       "mea:41894",
@@ -20564,7 +20565,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 3,
+  "consecutive_failures": 4,
   "dead_models": {
     "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
     "antigravity-preview-latest": "2026-11-24T16:08:41.929678+00:00",
@@ -20572,7 +20573,7 @@
     "deep-research-preview-04-2026": "2026-11-24T05:51:58.713236+00:00",
     "gemini-2.5-computer-use-preview-10-2025": "2026-11-24T14:24:34.930735+00:00",
     "gemini-2.5-flash-lite": "2026-11-25T14:46:58.839468+00:00",
-    "gemini-3-flash-preview": "2026-11-24T13:25:02.394745+00:00",
+    "gemini-3-flash-preview": "2026-11-25T16:51:20.240702+00:00",
     "gemini-3.1-flash-lite": "2026-11-23T22:35:05.502923+00:00",
     "gemini-3.1-flash-lite-preview": "2026-11-23T21:02:36.655526+00:00",
     "gemini-3.1-pro-preview": "2026-11-24T13:45:39.707730+00:00",
@@ -20584,10 +20585,10 @@
     "gemini-3.7-flash": "2026-11-25T15:19:07.418351+00:00",
     "gemini-3.8-flash": "2026-11-25T15:39:04.706250+00:00",
     "gemini-4-argon": "2026-11-24T13:38:45.122995+00:00",
-    "gemini-4-carbon": "2026-11-24T13:38:45.122995+00:00",
+    "gemini-4-carbon": "2026-11-25T16:51:20.240702+00:00",
     "gemini-4-hydrogen": "2026-11-24T14:51:48.695646+00:00",
     "gemini-4-neon": "2026-11-25T16:32:50.031993+00:00",
-    "gemini-flash-latest": "2026-11-24T13:25:02.394745+00:00",
+    "gemini-flash-latest": "2026-11-25T16:47:21.934486+00:00",
     "gemini-flash-lite-latest": "2026-11-24T17:31:01.642266+00:00",
     "gemini-nano-banana-2.1": "2026-11-24T18:20:28.940539+00:00",
     "gemini-omni-1.1-flash": "2026-11-25T15:53:56.535200+00:00",
@@ -37239,7 +37240,8 @@
       "CG-DL-E-25112026-278166",
       "CG-DL-E-25112026-278165",
       "CG-DL-E-25112026-278167",
-      "CG-DL-E-25112026-278168"
+      "CG-DL-E-25112026-278168",
+      "CG-DL-E-25112026-278164"
     ],
     "health": {
       "down": {
@@ -37249,7 +37251,7 @@
       },
       "warned": "2026-11-25T02:32:12.596630+00:00"
     },
-    "last_run": "2026-11-25T16:34:36.707312+00:00",
+    "last_run": "2026-11-25T16:49:40.778302+00:00",
     "pib_mark": 2341617,
     "seen": [
       "npci:624",
@@ -39644,7 +39646,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64031",
       "gazette:CG-DL-E-21112026-278125",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64032",
-      "mea:41748",
       "quake:usgs:us6000udd1",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-growing-focus-on-skill-development-and-making-skilling-a-preferred-career-pathway",
@@ -39656,9 +39657,12 @@
       "gazette:CG-OR-E-23112026-278126",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-receives-a-telephone-call-from-the-chancellor-of-the-federal-republic-of-germany",
       "site:Delhi Police press releases|dp-press:11/24/2026 12:00:00 AM|STABBING INCIDENT SOLVED BY PS WELCOME OF NORTH EAST DISTRICT.",
+      "gazette:CG-AP-E-23112026-278129",
+      "mea:42002",
+      "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse2026.pdf",
+      "mea:41748",
       "gazette:CG-AP-E-23112026-278132",
       "gazette:CG-DL-E-23112026-278130",
-      "gazette:CG-AP-E-23112026-278129",
       "gazette:CG-AP-E-23112026-278131",
       "gazette:CG-DL-E-23112026-278134",
       "gazette:SG-DL-E-23112026-278133",
@@ -39692,7 +39696,6 @@
       "gazette:SG-DL-E-25112026-278158",
       "gazette:SG-DL-E-25112026-278157",
       "gazette:CG-UP-E-25112026-278051",
-      "mea:42002",
       "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-lok-sabha-sri-rahul-gandhi-participates-in-valedictory-session-of-bharat-summit-2026-at-hicc-madhapur-hyd/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-foundation-laying-ceremony-of-the-phfi-institute-of-public-health-sciences-campus-in-hyd/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/8%e0%b0%b5-%e0%b0%96%e0%b1%87%e0%b0%b2%e0%b1%8b-%e0%b0%87%e0%b0%82%e0%b0%a1%e0%b0%bf%e0%b0%af%e0%b0%be-%e0%b0%af%e0%b1%82%e0%b0%a4%e0%b1%8d-%e0%b0%97%e0%b1%87%e0%b0%ae%e0%b1%8d%e0%b0%b8%e0%b1%8d/",
@@ -40010,7 +40013,6 @@
       "mea:41890",
       "page:https://www.mha.gov.in/files/whats_new_documents/UnitednationFlageEnglish_15102026_0.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/WhatsappMBBSSeat_02092026.pdf",
-      "page:https://www.mha.gov.in/files/whats_new_documents/SpecialFoundationCourse2026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/Lists_withF_05092026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/postconstableheadconstable_01092026.pdf",
       "page:https://www.mha.gov.in/files/whats_new_documents/Police2_22092026.pdf",
@@ -41569,7 +41571,8 @@
   },
   "source_health": {
     "down": {
-      "REG NPCI": "2026-11-25T16:32:06.854168+00:00"
+      "News: Global IT services": "2026-11-25T16:46:03.909793+00:00",
+      "News: Indian IT midcaps": "2026-11-25T16:46:03.909793+00:00"
     }
   },
   "watch": {
@@ -41588,7 +41591,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-25T16:32:51.849775+00:00",
+    "last_server_run": "2026-11-25T16:47:22.462154+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-25T15:05:19.550728+00:00",
@@ -42915,6 +42918,7 @@
       "CG-DL-E-25092026-276517",
       "CG-DL-E-25112026-278160",
       "CG-DL-E-25112026-278162",
+      "CG-DL-E-25112026-278164",
       "CG-DL-E-25112026-278165",
       "CG-DL-E-25112026-278166",
       "CG-DL-E-25112026-278167",
@@ -44398,7 +44402,10 @@
       "gazette:CG-DL-E-25112026-278168|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-25112026-278167|GAZETTE_MAIL_TO",
       "gazette:CG-DL-E-25112026-278168|MHA_FINANCE_MAIL_TO",
-      "gazette:CG-DL-E-25112026-278167|MHA_FINANCE_MAIL_TO"
+      "gazette:CG-DL-E-25112026-278167|MHA_FINANCE_MAIL_TO",
+      "gazette:CG-DL-E-25112026-278164",
+      "gazette:CG-DL-E-25112026-278164|GAZETTE_MAIL_TO",
+      "gazette:CG-DL-E-25112026-278164|MHA_FINANCE_MAIL_TO"
     ]
   },
   "x_test": {
@@ -55809,7 +55816,7 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-25T16:35:55.455100+00:00",
+    "last_run": "2026-11-25T16:51:20.240959+00:00",
     "seen": [
       "x:2124211429855351053",
       "x:2124266059285004338",
