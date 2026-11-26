@@ -17455,8 +17455,8 @@
         "Gazette of India (Extraordinary)": "2026-11-26T04:23:29.425119+00:00"
       }
     },
-    "last_run": "2026-11-26T12:13:33.012971+00:00",
-    "pib_mark": 2342065,
+    "last_run": "2026-11-26T12:29:34.548607+00:00",
+    "pib_mark": 2342093,
     "seen": [
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63922",
       "pib:2333258",
@@ -19988,6 +19988,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-the-growing-role-of-indias-civilisational-heritage-in-shaping-global-cultural-discourse",
       "page:https://irdai.gov.in/documents/37343/366347/Press+release+-+IRDAI+forms+two+study+groups+to+enhance+transparency+and+strengthen+accountability+in+health+insurance+claims.pdf/21cbd70f-fc2f-acc3-4636-4b3411389f04",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64039",
+      "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-naasaika",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-haraiyaanaa-kai",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-savaamai-saradadhaananada",
@@ -20091,7 +20092,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "mea:41947",
       "mea:41955",
-      "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
       "page:https://internal.imd.gov.in/press_release/20261019_pr_5417.pdf",
       "page:https://internal.imd.gov.in/press_release/20261020_pr_5420.pdf",
       "page:https://internal.imd.gov.in/press_release/20261021_pr_5421.pdf",
@@ -20517,7 +20517,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "antigravity-preview-05-2026": "2026-11-26T07:18:25.391002+00:00",
     "antigravity-preview-09-2026": "2026-11-26T07:23:02.223668+00:00",
@@ -20546,7 +20546,7 @@
     "gemini-nano-banana-2.1": "2026-11-26T01:02:25.451829+00:00",
     "gemini-omni-1.1-flash": "2026-11-26T12:12:55.149867+00:00",
     "gemini-omni-1.2-flash": "2026-11-26T11:48:56.338595+00:00",
-    "gemini-omni-flash-preview": "2026-11-25T16:16:57.781884+00:00",
+    "gemini-omni-flash-preview": "2026-11-26T12:23:26.372891+00:00",
     "gemini-pro-latest": "2026-11-26T01:02:25.451829+00:00",
     "gemini-robotics-er-2-preview": "2026-11-26T06:23:11.042891+00:00",
     "lyria-3-clip-preview": "2026-11-26T01:50:38.799941+00:00",
@@ -37225,8 +37225,8 @@
       },
       "warned": "2026-11-26T02:32:39.412257+00:00"
     },
-    "last_run": "2026-11-26T12:09:45.228467+00:00",
-    "pib_mark": 2342051,
+    "last_run": "2026-11-26T12:26:16.573434+00:00",
+    "pib_mark": 2342093,
     "seen": [
       "page:https://internal.imd.gov.in/press_release/20260927_pr_5347.pdf",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63926",
@@ -41772,17 +41772,17 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-26T12:07:17.700711+00:00",
+    "last_server_run": "2026-11-26T12:23:26.732967+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
-        "checked": "2026-11-26T10:24:58.033235+00:00",
+        "checked": "2026-11-26T12:25:51.843010+00:00",
         "hash": "eac6b26a5cd6e9ac7f267bd88ce76f760e742c7852c6a223196cc04a575ff6ef",
         "lines": [
           "Sr.No | Title | Download"
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/restitution-of-properties-assets/": {
-        "checked": "2026-11-26T10:24:47.607024+00:00",
+        "checked": "2026-11-26T12:25:44.110354+00:00",
         "hash": "88793739bdcf07239f85ad34eee8d947949c2cfb6c21d6adfb508d886f688b07",
         "lines": [
           "Sr. No. | Case Details | Quantum of Assets Restored (Rs. in Crore)",
@@ -41858,7 +41858,7 @@
         ]
       },
       "https://www.enforcementdirectorate.gov.in/performance/statistics/": {
-        "checked": "2026-11-26T10:24:52.816589+00:00",
+        "checked": "2026-11-26T12:25:47.992020+00:00",
         "hash": "7b3e28ce1fe3d4144d3c2ac8b8d392784ab8ea0889dd610a2bcd2c4902c1f6fe",
         "lines": [
           "Key details of PMLA cases up to 31.03.2026",
@@ -41912,11 +41912,11 @@
       },
       "last": {
         "calendar": "2026-11-26T06:34:45.724448+00:00",
-        "ls_reports": "2026-11-26T10:24:31.451234+00:00",
-        "rs_committee_press": "2026-11-26T10:24:41.335707+00:00",
-        "rs_press": "2026-11-26T10:24:38.072475+00:00",
-        "rs_reports": "2026-11-26T10:24:35.070649+00:00",
-        "rs_updates": "2026-11-26T10:24:42.937462+00:00"
+        "ls_reports": "2026-11-26T12:25:28.605937+00:00",
+        "rs_committee_press": "2026-11-26T12:25:38.334413+00:00",
+        "rs_press": "2026-11-26T12:25:35.222992+00:00",
+        "rs_reports": "2026-11-26T12:25:32.831037+00:00",
+        "rs_updates": "2026-11-26T12:25:39.968766+00:00"
       }
     },
     "scanned": [
@@ -44604,7 +44604,8 @@
       "meeting:LS|22683",
       "meeting:RS|2370",
       "meeting:LS|22685",
-      "meeting:LS|22686"
+      "meeting:LS|22686",
+      "bulletin:LS|2026-11-26|Bulletin-II"
     ]
   },
   "x_test": {
@@ -56092,24 +56093,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-26T12:12:55.150047+00:00",
+    "last_run": "2026-11-26T12:28:55.419588+00:00",
     "seen": [
-      "x:2124494862909382753",
-      "x:2124494933461786817",
-      "x:2124495130904375392",
-      "x:2124495613861437582",
-      "x:2124495618383171991",
-      "x:2124495727749648463",
-      "x:2124496195926343894",
-      "x:2124496234748751944",
-      "x:2124496950955544951",
-      "x:2124498446686286045",
-      "x:2124500042115699180",
-      "x:2124500449621611007",
-      "x:2124500729587249584",
-      "x:2124500979026637268",
-      "x:2124501367180156948",
-      "x:2124501641328251011",
       "x:2124501940600254827",
       "x:2124501971898098021",
       "x:2124502509112954955",
@@ -59093,7 +59078,23 @@
       "x:2125923464875835755",
       "x:2125923545343807677",
       "x:2125923671994978328",
-      "x:2125923870804980137"
+      "x:2125923870804980137",
+      "x:2125924881137373639",
+      "x:2125925107193540781",
+      "x:2125925505967018346",
+      "x:2125925653078040754",
+      "x:2125925859173503478",
+      "x:2125925943021896095",
+      "x:2125925981701673422",
+      "x:2125926043668316176",
+      "x:2125927225824583780",
+      "x:2125927438135984318",
+      "x:2125927475331108970",
+      "x:2125927615072788518",
+      "x:2125927666939527483",
+      "x:2125928028476002643",
+      "x:2125928048000405892",
+      "x:2125928245531230304"
     ],
     "source_failures": {},
     "sources": []
