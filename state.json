@@ -17465,7 +17465,7 @@
         "Gazette of India (Extraordinary)": "2026-11-26T04:23:29.425119+00:00"
       }
     },
-    "last_run": "2026-11-26T04:55:36.957055+00:00",
+    "last_run": "2026-11-26T05:10:20.778510+00:00",
     "pib_mark": 2341703,
     "seen": [
       "pib:2332675",
@@ -20056,6 +20056,7 @@
       "gazette:CG-DL-E-25112026-278169",
       "gazette:CG-DL-E-25112026-278172",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-glimpses-of-dev-deepawali-in-varanasi",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64035",
       "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
       "mea:42002",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
@@ -20439,7 +20440,6 @@
       "mea:42000",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-path-to-supreme-spiritual-attainment",
       "mea:42001",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64035",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64036",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64038",
@@ -20527,7 +20527,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "dead_models": {
     "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
     "antigravity-preview-latest": "2026-11-24T16:08:41.929678+00:00",
@@ -37226,7 +37226,7 @@
       },
       "warned": "2026-11-26T02:32:39.412257+00:00"
     },
-    "last_run": "2026-11-26T04:51:06.213928+00:00",
+    "last_run": "2026-11-26T05:07:09.245785+00:00",
     "pib_mark": 2341703,
     "seen": [
       "pib:2333027",
@@ -39756,6 +39756,7 @@
       "gazette:CG-DL-E-25112026-278169",
       "gazette:CG-TL-E-25112026-278171",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-glimpses-of-dev-deepawali-in-varanasi",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64035",
       "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
       "mea:42002",
       "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-lok-sabha-sri-rahul-gandhi-participates-in-valedictory-session-of-bharat-summit-2026-at-hicc-madhapur-hyd/",
@@ -40199,7 +40200,6 @@
       "mea:42000",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-path-to-supreme-spiritual-attainment",
       "mea:42001",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64035",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64036",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
       "dgft-notification:fa1ec280-9b46-4147-8346-278db70085c1",
@@ -41550,9 +41550,7 @@
   },
   "source_health": {
     "down": {
-      "News: India edtech gaming": "2026-11-26T04:46:02.647641+00:00",
-      "News: India fintech": "2026-11-26T04:46:02.647641+00:00",
-      "News: Indian IT majors": "2026-11-26T04:46:02.647641+00:00"
+      "News: India telecom": "2026-11-26T05:02:12.121632+00:00"
     }
   },
   "watch": {
@@ -41577,7 +41575,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-26T04:46:57.307645+00:00",
+    "last_server_run": "2026-11-26T05:04:19.976760+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-26T04:02:57.709423+00:00",
@@ -55844,16 +55842,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-26T04:53:34.785831+00:00",
+    "last_run": "2026-11-26T05:09:42.779063+00:00",
     "seen": [
-      "x:2124390773730988469",
-      "x:2124391175817765013",
-      "x:2124391494639571037",
-      "x:2124392520574734643",
-      "x:2124392562069020964",
-      "x:2124392571485241428",
-      "x:2124392581606015213",
-      "x:2124392720471113909",
       "x:2124393417840918712",
       "x:2124393474040688853",
       "x:2124393542374359533",
@@ -58845,7 +58835,15 @@
       "x:2125812001628880915",
       "x:2125812485307715765",
       "x:2125812682557358564",
-      "x:2125813786045288802"
+      "x:2125813786045288802",
+      "x:2125814769387237723",
+      "x:2125815019371913451",
+      "x:2125815535506194548",
+      "x:2125815905959731545",
+      "x:2125816275024965750",
+      "x:2125816578638008609",
+      "x:2125816586019946832",
+      "x:2125816828966338667"
     ],
     "source_failures": {},
     "sources": []
