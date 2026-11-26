@@ -1,60 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-18T13:31:24.104120+00:00",
-      "handle": "News: India telecom",
-      "headline": "Jio Financial and BlackRock invest \u20b9123 crore each in joint venture",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSVpfWVNrQ1RPdWJJYVBhbWg3WU1pUEZqRHhPN1hWekFNZFRYWERMSlV1Vy1nUWZ2Tld3NDRGWUJ6Z0R5UkdranlYVDhaenZPQlB0WjczRlhmdEQ3UWFyMmNYSklVd3dhMHp3RGp4dGlydERramZ1MEtuSWg3aFZnQVVNSHRVdEZ2QkZnekpQYmoyZXJPWkZYbXA3OWJNOEtqSGVXdG12WDlRaTh1clB6cVdwbGNLUWRXZzUxZzVpNUY5aUpWUEpIbHU0c3BXLXFLMHQ0TllINkJLRklaVVc0elc4eUJqbTlzQ0F30gHwAUFVX3lxTE5YMzhKQkxLZzZaYkZ0R3d4THlxX0xkcTMwS1FMWGJBZEVsMmd3Nm82QmM3WTRkRnctc0s0cl9yYWVqVHhyT1NUR2NTTEZvTzg1TXRISndWRXM2SnRTcGRZd2pWTkpOcS1rYTJBYmplYnZ1LXF3RzJiaEVrSG83a00xSTJSNGVNT2lsZXRLSUszSGNLZW4zLXRDUlNwN0E0RUNJYnRZSXJjTDJOVnAyMWV2b1FuQ21PQ0otNDBMU2RxdUlpdEhBQzBjMFB4c254d3BIUU5aQ0RVTlI3TTJLZktObHNiWExPa1VIU0ZlLU9Mbg?oc=5",
-      "words": [
-        "123",
-        "asset",
-        "blackrock",
-        "each",
-        "financial",
-        "invest",
-        "jio",
-        "management",
-        "services"
-      ]
-    },
-    {
-      "at": "2026-11-18T14:32:00.079059+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic IPO filing discloses Amazon and Google stake ownership details",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb3huVVB3dlItX1AwS0dNU2xRRlhGSFA2Y1dvQmRnOWJwTzVIbjh1SlhQUk5aamROcklzcTl0SF9xZkRZYTFHdmVoUW5KMDhjNGFIU3pXZEtwZU15SkFKOFdCY0ZnZTNISDZyTVhGRW1xeEVfRWhYOU9BdHZvUUlnNjVFbnk3TjFrcnBIRDVSMGRtbHlObVNDZFNPMXo5UnFwSU9GaFBtUks4VmNCSzBYMnFZaXE5NkFGVDVYRktSaml2SVpLS0JVcVc3UlRRUVdfTW80ZmQtOXZQUHFHYjh4eXlBZHMwQ3NxcFdsVUR3?oc=5",
-      "words": [
-        "amazon",
-        "anthropic",
-        "company",
-        "filing",
-        "google",
-        "much",
-        "own",
-        "reveals",
-        "stake"
-      ]
-    },
-    {
-      "at": "2026-11-18T14:32:00.079059+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Microsoft in talks for $500 million AI deal with ByteDance",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5",
-      "words": [
-        "500",
-        "bytedance",
-        "deal",
-        "irking",
-        "microsoft",
-        "million",
-        "nears",
-        "openai",
-        "sell"
-      ]
-    },
-    {
       "at": "2026-11-18T14:32:00.079059+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic launches blockbuster IPO amid shifting market sentiment on AI",
@@ -7359,6 +7305,60 @@
         "quits",
         "teases",
         "trapit"
+      ]
+    },
+    {
+      "at": "2026-11-26T05:32:34.845783+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Apple to open first store in Hyderabad on December 10",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNlJiME93cG1TZmsxUHNOME0zM0xHVkJyR1NFTUQ4dUI3SXRhR2ktckNiYjNvUlowMmV3Tjc5TTc4YTRxYjByTFgzaVdVZmx2OTZxQzlvb0VyWUJJZVRzV3R5bWVvN3RCSlYzdVBtcDNoc1VfQUVhOGZGUllqU1ViSVI4bE9yLTBMNVM2SWFDa0dqcUpuYnFaWU4wcXZzLVFHUS1wVEMxcmUyZHYzOEJ3NVlZSk1fcVkydUdUVWpWWkx4QWg5SVp1QUhoNDBxeHlYWlhQcUdxc2czZGd2TVNMeUgwWm9OT3R2ckZGMkRn0gHzAUFVX3lxTFBHcXBFTmtLRGJNcnlWRFZLVERIOERreHl1N0t6UDdiemtqNV9id2pyZDZlaURaLWJaZ1N3d2JHSmlDQllrWjAwbXU1TWtzOXNLM1ZTbS1IVllWQVNIM0hBcUVtNVJNX1J5ckZYd3lBZHZqX1VaMmRuLXFCYTdZdEZ6bWJzdXZ3SlZMdV9ZRjd5d2pyTldMcGFuTDhwTFpiVmJCdDhqMzF6cURTc21Vcm5nWnZBanBEQXR3Q1plRlVUYkl4dFRiOFNiYTJYbE5zeXhFeUljYkt0RDloWmZDZTNQRGpEWlJ1OHNldzI0QkxJSFA3MA?oc=5",
+      "words": [
+        "apple",
+        "brings",
+        "count",
+        "december",
+        "first",
+        "hyderabad",
+        "opening",
+        "store"
+      ]
+    },
+    {
+      "at": "2026-11-26T05:32:34.845783+00:00",
+      "handle": "News: Global AI",
+      "headline": "OpenAI model cracks math problem unsolved for 57 years",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWpfYmdkUjZXdHNxcnNCQllsd3JRdG01VThMUDlWeFU4V0JTcm1LY01vdkxaamx2R18yUGVndENGZUNDSFVfLXhLWWJRTGR6NndkWVhGY09qVEpzYnplSnBjc0NNRlNVOGk4YkRsMlBVT0RLNWNqcGs5R3ZYMlNJYk5ORXhFSU5zNHpQUmxUQkJzdXBUb1lfdmQ1ZlJxdGV4NVdOYlU4bzJzeUxyR21ETNIBuAFBVV95cUxOZ004aVFZR2NlaFl6cnNrNUpLeTQ1dXhrdTQxTUpRR1c2amZUN0tiVV9IbVhGM0xiSGp2MjVQU1NSNml1YTZkcTJ1NnFCakwtX1FyLTN3eWsyS25BVXJaZHlXX3ZnOVFoaEVJSVRCZFV1TDR0V0ZVNFZjLWdza3pwSlVGWmwtMVlNamlaVmYxVEF3MFRmODhsSkZiLU9QY2JHd3JjZi16ZU1XTVN2RWJFUlI0SFN4WFFG?oc=5",
+      "words": [
+        "cracks",
+        "maths",
+        "model",
+        "openai",
+        "problem",
+        "scientists",
+        "stumped",
+        "years"
+      ]
+    },
+    {
+      "at": "2026-11-26T05:32:34.845783+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Trump permits Musk to deploy one million space data centres",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSzJvN1VHdkdJQy1Eb3ZhOVdPUDRORGNPaENsa3RQdG1UUmFxVGUwRjRNNlM0SjNxY1Z0eUwybXRNNGFoRDR0bWxuSlAxZXo3aWVvTDdpSk1wNk1IYUVQYjhYOXhzbWFSM1J6RFJMN0w1dmpQTDBiTEhmU1NqZXdRMFY5Mm1NQ3QzZTh5NDdkZ0hXREpSNGZfR18wcEdwWGI3V2l6aDJBZjdTQThhdlcyQVdRNFdsdk1MSUluTnJqaGZzWWdaWDBKbHd5aUlsdEo0TzJJU3pUaWFNZHpPZkpod3VWS2TSAeoBQVVfeXFMTmxIcElFMmtkMzJOYUJUMGhDNHRZeGI3OG5ZQjNfeXAwVUFsN3VQcEhlYmdCb2c1LWFObXI3SmZVSXpjVVNydGNxVkJ3LWR1d3ptQm80SWcwUVFqbE1RRnl4Q1p2aDVPNXNhdmx1WlBUTHNLSWxLeXFDTnU3LUxLMzFPeVZHQnhTY1NLSkMyVWpNeC1jaGhrbnl3VS1tTHV2WWhzU1V1WGRlc1NHeVE4eHhydTVUMTNDcHhlS1ZmQmphMF9qSkFjcXl4WjNUbllKRVM3UndVNE9fdDZVUzZ2RXFDLUJKbFF4TFhB?oc=5",
+      "words": [
+        "000",
+        "allows",
+        "centres",
+        "data",
+        "donald",
+        "elon",
+        "into",
+        "launch",
+        "musk",
+        "space",
+        "trump"
       ]
     }
   ],
@@ -17465,7 +17465,7 @@
         "Gazette of India (Extraordinary)": "2026-11-26T04:23:29.425119+00:00"
       }
     },
-    "last_run": "2026-11-26T05:23:53.508280+00:00",
+    "last_run": "2026-11-26T05:38:52.994278+00:00",
     "pib_mark": 2341703,
     "seen": [
       "pib:2332675",
@@ -20527,7 +20527,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
     "antigravity-preview-latest": "2026-11-24T16:08:41.929678+00:00",
@@ -26565,7 +26565,7 @@
     "2341204",
     "2341477"
   ],
-  "last_digest_hour": "2026-11-26T10",
+  "last_digest_hour": "2026-11-26T11",
   "last_success": "2026-11-26T05:18:36.979696+00:00",
   "national": {
     "alerted": [
@@ -37226,7 +37226,7 @@
       },
       "warned": "2026-11-26T02:32:39.412257+00:00"
     },
-    "last_run": "2026-11-26T05:21:36.338916+00:00",
+    "last_run": "2026-11-26T05:35:27.102171+00:00",
     "pib_mark": 2341703,
     "seen": [
       "pib:2333027",
@@ -40303,62 +40303,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Apple to open first store in Hyderabad on December 10",
-      "post": {
-        "created_at": "2026-11-26T04:33:45+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1795667625772",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Apple is opening its first store in Hyderabad on December 10, brings India store count to 7",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNlJiME93cG1TZmsxUHNOME0zM0xHVkJyR1NFTUQ4dUI3SXRhR2ktckNiYjNvUlowMmV3Tjc5TTc4YTRxYjByTFgzaVdVZmx2OTZxQzlvb0VyWUJJZVRzV3R5bWVvN3RCSlYzdVBtcDNoc1VfQUVhOGZGUllqU1ViSVI4bE9yLTBMNVM2SWFDa0dqcUpuYnFaWU4wcXZzLVFHUS1wVEMxcmUyZHYzOEJ3NVlZSk1fcVkydUdUVWpWWkx4QWg5SVp1QUhoNDBxeHlYWlhQcUdxc2czZGd2TVNMeUgwWm9OT3R2ckZGMkRn0gHzAUFVX3lxTFBHcXBFTmtLRGJNcnlWRFZLVERIOERreHl1N0t6UDdiemtqNV9id2pyZDZlaURaLWJaZ1N3d2JHSmlDQllrWjAwbXU1TWtzOXNLM1ZTbS1IVllWQVNIM0hBcUVtNVJNX1J5ckZYd3lBZHZqX1VaMmRuLXFCYTdZdEZ6bWJzdXZ3SlZMdV9ZRjd5d2pyTldMcGFuTDhwTFpiVmJCdDhqMzF6cURTc21Vcm5nWnZBanBEQXR3Q1plRlVUYkl4dFRiOFNiYTJYbE5zeXhFeUljYkt0RDloWmZDZTNQRGpEWlJ1OHNldzI0QkxJSFA3MA?oc=5"
-      },
-      "queued_at": "2026-11-26T05:18:36.934638+00:00",
-      "score": 8.0,
-      "why": "New store launch in India representing significant infrastructure expansion."
-    },
-    {
-      "headline": "OpenAI model cracks math problem unsolved for 57 years",
-      "post": {
-        "created_at": "2026-11-26T04:52:26+00:00",
-        "handle": "News: Global AI",
-        "id": "1795668746664",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "NDTV",
-        "reposts": 0,
-        "text": "OpenAI Model Cracks Maths Problem That Stumped Scientists For 57 Years",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWpfYmdkUjZXdHNxcnNCQllsd3JRdG01VThMUDlWeFU4V0JTcm1LY01vdkxaamx2R18yUGVndENGZUNDSFVfLXhLWWJRTGR6NndkWVhGY09qVEpzYnplSnBjc0NNRlNVOGk4YkRsMlBVT0RLNWNqcGs5R3ZYMlNJYk5ORXhFSU5zNHpQUmxUQkJzdXBUb1lfdmQ1ZlJxdGV4NVdOYlU4bzJzeUxyR21ETNIBuAFBVV95cUxOZ004aVFZR2NlaFl6cnNrNUpLeTQ1dXhrdTQxTUpRR1c2amZUN0tiVV9IbVhGM0xiSGp2MjVQU1NSNml1YTZkcTJ1NnFCakwtX1FyLTN3eWsyS25BVXJaZHlXX3ZnOVFoaEVJSVRCZFV1TDR0V0ZVNFZjLWdza3pwSlVGWmwtMVlNamlaVmYxVEF3MFRmODhsSkZiLU9QY2JHd3JjZi16ZU1XTVN2RWJFUlI0SFN4WFFG?oc=5"
-      },
-      "queued_at": "2026-11-26T05:18:36.934638+00:00",
-      "score": 8.0,
-      "why": "Significant research finding from a major AI firm without an India angle, scoring 7+."
-    },
-    {
-      "headline": "Trump permits Musk to deploy one million space data centres",
-      "post": {
-        "created_at": "2026-11-26T04:59:19+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1795669159822",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Donald Trump allows Elon Musk to launch 10,00,000 data centres into space",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSzJvN1VHdkdJQy1Eb3ZhOVdPUDRORGNPaENsa3RQdG1UUmFxVGUwRjRNNlM0SjNxY1Z0eUwybXRNNGFoRDR0bWxuSlAxZXo3aWVvTDdpSk1wNk1IYUVQYjhYOXhzbWFSM1J6RFJMN0w1dmpQTDBiTEhmU1NqZXdRMFY5Mm1NQ3QzZTh5NDdkZ0hXREpSNGZfR18wcEdwWGI3V2l6aDJBZjdTQThhdlcyQVdRNFdsdk1MSUluTnJqaGZzWWdaWDBKbHd5aUlsdEo0TzJJU3pUaWFNZHpPZkpod3VWS2TSAeoBQVVfeXFMTmxIcElFMmtkMzJOYUJUMGhDNHRZeGI3OG5ZQjNfeXAwVUFsN3VQcEhlYmdCb2c1LWFObXI3SmZVSXpjVVNydGNxVkJ3LWR1d3ptQm80SWcwUVFqbE1RRnl4Q1p2aDVPNXNhdmx1WlBUTHNLSWxLeXFDTnU3LUxLMzFPeVZHQnhTY1NLSkMyVWpNeC1jaGhrbnl3VS1tTHV2WWhzU1V1WGRlc1NHeVE4eHhydTVUMTNDcHhlS1ZmQmphMF9qSkFjcXl4WjNUbllKRVM3UndVNE9fdDZVUzZ2RXFDLUJKbFF4TFhB?oc=5"
-      },
-      "queued_at": "2026-11-26T05:18:36.934638+00:00",
-      "score": 7.0,
-      "why": "Massive tech infrastructure development with geopolitical policy backing."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41604,7 +41549,12 @@
     "zoho": 1795523801988
   },
   "source_health": {
-    "down": {}
+    "down": {
+      "News: Global chips": "2026-11-26T05:31:13.234707+00:00",
+      "News: India semiconductors": "2026-11-26T05:31:13.234707+00:00",
+      "News: Indian IT majors": "2026-11-26T05:31:13.234707+00:00",
+      "News: Indian IT midcaps": "2026-11-26T05:31:13.234707+00:00"
+    }
   },
   "watch": {
     "health_server": {
@@ -41628,7 +41578,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-26T05:18:37.272222+00:00",
+    "last_server_run": "2026-11-26T05:32:35.216612+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-26T04:02:57.709423+00:00",
@@ -55895,15 +55845,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-26T05:23:15.650954+00:00",
+    "last_run": "2026-11-26T05:37:56.426371+00:00",
     "seen": [
-      "x:2124397215720649204",
-      "x:2124397468305563971",
-      "x:2124397475003867343",
-      "x:2124397989158629589",
-      "x:2124399004910002271",
-      "x:2124399308560871849",
-      "x:2124399323693883824",
       "x:2124399981159399806",
       "x:2124400768702894434",
       "x:2124401453423096004",
@@ -58896,7 +58839,14 @@
       "x:2125820532939698455",
       "x:2125820591160877126",
       "x:2125820594406965631",
-      "x:2125820594470199349"
+      "x:2125820594470199349",
+      "x:2125822506124886389",
+      "x:2125822673905398056",
+      "x:2125823349867823201",
+      "x:2125823566218486032",
+      "x:2125823579858284616",
+      "x:2125824160861704249",
+      "x:2125824371981799635"
     ],
     "source_failures": {},
     "sources": []
