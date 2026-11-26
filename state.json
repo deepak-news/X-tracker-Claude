@@ -17459,8 +17459,8 @@
         "Gazette of India (Extraordinary)": "2026-11-26T04:23:29.425119+00:00"
       }
     },
-    "last_run": "2026-11-26T11:03:20.070120+00:00",
-    "pib_mark": 2341960,
+    "last_run": "2026-11-26T11:18:44.880163+00:00",
+    "pib_mark": 2341985,
     "seen": [
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63922",
       "pib:2333258",
@@ -20521,7 +20521,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "antigravity-preview-05-2026": "2026-11-26T07:18:25.391002+00:00",
     "antigravity-preview-09-2026": "2026-11-26T07:23:02.223668+00:00",
@@ -37229,8 +37229,8 @@
       },
       "warned": "2026-11-26T02:32:39.412257+00:00"
     },
-    "last_run": "2026-11-26T10:58:10.519932+00:00",
-    "pib_mark": 2341937,
+    "last_run": "2026-11-26T11:14:10.464268+00:00",
+    "pib_mark": 2341985,
     "seen": [
       "page:https://internal.imd.gov.in/press_release/20260927_pr_5347.pdf",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63926",
@@ -39689,6 +39689,7 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-the-growing-role-of-indias-civilisational-heritage-in-shaping-global-cultural-discourse",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-journey-towards-viksit-bharat-2047-shaped-by-sustained-reforms-and-investment",
       "page:https://irdai.gov.in/documents/37343/366347/Press+release+-+IRDAI+forms+two+study+groups+to+enhance+transparency+and+strengthen+accountability+in+health+insurance+claims.pdf/21cbd70f-fc2f-acc3-4636-4b3411389f04",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64039",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7164-of-2026-filed-by-dilip-srivastava_105822.html",
@@ -40138,7 +40139,6 @@
       "dgft-public-notice:2cadc777-2b3a-4430-9519-f991e4a01b1e",
       "page:https://internal.imd.gov.in/press_release/20261125_pr_5522.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-the-expansion-of-social-security-coverage-for-indias-workforce",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64039",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64040",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-estates-management-scheme-for-department-of-posts-with-an-outlay-of-rs-1491-crore",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-rs-11000-crore-scheme-for-enhancement-of-construction-and-infrastructure-equipment-cie-manufacturing-ecosystem",
@@ -41788,10 +41788,7 @@
     "zoho": 1795523801988
   },
   "source_health": {
-    "down": {
-      "News: India semiconductors": "2026-11-26T10:52:29.014135+00:00",
-      "REG NPCI": "2026-11-26T10:52:29.014135+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41815,7 +41812,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-26T10:52:54.560743+00:00",
+    "last_server_run": "2026-11-26T11:12:44.063331+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-26T10:24:58.033235+00:00",
@@ -56132,22 +56129,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-26T11:01:13.303461+00:00",
+    "last_run": "2026-11-26T11:18:12.079918+00:00",
     "seen": [
-      "x:2124472843010531461",
-      "x:2124472966448632282",
-      "x:2124473104617648464",
-      "x:2124473277548839309",
-      "x:2124473369789874443",
-      "x:2124473550312800481",
-      "x:2124474837225865270",
-      "x:2124475284800053270",
-      "x:2124476655884464331",
-      "x:2124477159985365192",
-      "x:2124477490945294701",
-      "x:2124477691155956032",
-      "x:2124477696764006757",
-      "x:2124477843803611647",
       "x:2124478574514372969",
       "x:2124479420346048678",
       "x:2124479707723010276",
@@ -59133,7 +59116,21 @@
       "x:2125904749182783574",
       "x:2125905204730073358",
       "x:2125905476139503649",
-      "x:2125905564626772440"
+      "x:2125905564626772440",
+      "x:2125906124071137497",
+      "x:2125906408415895646",
+      "x:2125907820533137600",
+      "x:2125907940045725945",
+      "x:2125907943761891443",
+      "x:2125908320812962106",
+      "x:2125908898683212213",
+      "x:2125909052672872834",
+      "x:2125909247942651937",
+      "x:2125909626604712131",
+      "x:2125909782322430050",
+      "x:2125909912169423164",
+      "x:2125909970168553752",
+      "x:2125910463443800407"
     ],
     "source_failures": {},
     "sources": []
