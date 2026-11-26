@@ -17460,8 +17460,8 @@
         "Gazette of India (Extraordinary)": "2026-11-26T04:23:29.425119+00:00"
       }
     },
-    "last_run": "2026-11-26T07:06:48.874078+00:00",
-    "pib_mark": 2341750,
+    "last_run": "2026-11-26T07:23:45.704696+00:00",
+    "pib_mark": 2341768,
     "seen": [
       "site:WTO|https://www.wto.org/english/news_e/news26_e/cotpt_29oct26_540_e.htm",
       "watch:bulletin:LS|2026-11-04|Bulletin-II",
@@ -20030,6 +20030,7 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168874",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64038",
+      "mea:41447",
       "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7163-of-2026-filed-by-ravi_105821.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7155-of-2026-filed-by-heera-lal-khatri_105816.html",
@@ -20185,7 +20186,6 @@
       "mea:41646",
       "mea:41645",
       "mea:41841",
-      "mea:41447",
       "mea:38364",
       "mea:41337",
       "mea:41639",
@@ -20522,9 +20522,10 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 2,
+  "consecutive_failures": 3,
   "dead_models": {
-    "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
+    "antigravity-preview-05-2026": "2026-11-26T07:18:25.391002+00:00",
+    "antigravity-preview-09-2026": "2026-11-26T07:23:02.223668+00:00",
     "antigravity-preview-latest": "2026-11-26T07:06:05.431800+00:00",
     "deep-research-max-preview-04-2026": "2026-11-26T04:53:34.785697+00:00",
     "deep-research-preview-04-2026": "2026-11-26T04:53:34.785697+00:00",
@@ -37221,8 +37222,8 @@
       },
       "warned": "2026-11-26T02:32:39.412257+00:00"
     },
-    "last_run": "2026-11-26T07:04:45.286310+00:00",
-    "pib_mark": 2341750,
+    "last_run": "2026-11-26T07:21:16.512533+00:00",
+    "pib_mark": 2341768,
     "seen": [
       "pib:2333191",
       "pib:2333193",
@@ -39728,11 +39729,11 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168875",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13748&Mode=0",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
-      "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64038",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
+      "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
+      "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7164-of-2026-filed-by-dilip-srivastava_105822.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7162-of-2026-filed-by-n-padmavathi_105819.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7156-of-2026-filed-by-b-venkataramani_105798.html",
@@ -41545,10 +41546,9 @@
   },
   "source_health": {
     "down": {
-      "News: Big tech platforms": "2026-11-26T06:46:28.502439+00:00",
       "News: Global AI": "2026-11-26T06:31:34.910085+00:00",
-      "News: India AI deeptech": "2026-11-26T06:46:28.502439+00:00",
-      "News: India telecom": "2026-11-26T06:46:28.502439+00:00"
+      "News: Global chips": "2026-11-26T07:16:17.784340+00:00",
+      "News: India semiconductors": "2026-11-26T07:16:17.784340+00:00"
     }
   },
   "watch": {
@@ -41573,7 +41573,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-26T07:01:51.160253+00:00",
+    "last_server_run": "2026-11-26T07:18:26.930088+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-26T06:05:40.826789+00:00",
@@ -55841,17 +55841,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-26T07:06:05.431932+00:00",
+    "last_run": "2026-11-26T07:23:02.223851+00:00",
     "seen": [
-      "x:2124417573844619676",
-      "x:2124418927388405780",
-      "x:2124419937561358647",
-      "x:2124420097918021947",
-      "x:2124420116406235610",
-      "x:2124420118323077456",
-      "x:2124420119749398905",
-      "x:2124420489598959775",
-      "x:2124420717852942576",
       "x:2124420752627945502",
       "x:2124420894655426982",
       "x:2124421011236127164",
@@ -58842,7 +58833,16 @@
       "x:2125846455525294238",
       "x:2125847020413845879",
       "x:2125847048486604938",
-      "x:2125847483637239882"
+      "x:2125847483637239882",
+      "x:2125847904145572089",
+      "x:2125847950488486131",
+      "x:2125848252683845707",
+      "x:2125849184599408703",
+      "x:2125849248629674450",
+      "x:2125849632219750653",
+      "x:2125849680919863336",
+      "x:2125851480825778505",
+      "x:2125851639794004146"
     ],
     "source_failures": {},
     "sources": []
