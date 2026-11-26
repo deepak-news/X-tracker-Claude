@@ -2,44 +2,6 @@
   "alerted": [
     {
       "at": "2026-11-18T14:32:00.079059+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic launches blockbuster IPO amid shifting market sentiment on AI",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSWFUaVBkNi00UzlYSGRNNnlESE5PWndjby1iU245WE11d0dsbnh4X1FfbnZldm92OWVTei1kWW5rSXExRUdVeFpBazVHRTNCNy1zOEZfbXRJMnBQZ0JCdw?oc=5",
-      "words": [
-        "anthropic",
-        "blockbuster",
-        "comes",
-        "fear",
-        "hype",
-        "into",
-        "ipo",
-        "turned",
-        "year"
-      ]
-    },
-    {
-      "at": "2026-11-18T14:32:00.079059+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Apple opens new office in Bengaluru, praising local innovation spirit",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUUtJaF9PczF0cDZJUkVDNWl4SjFTaTZFUlFyU2tiVmhrTzlHRG8wNHRwZi1BMVl1aGh3U0tpcG1FVmxpamtpckxHeVBPbmpESWpVSnNwUDNibjIxNFlWbU9HWE5odTdfemZhWXZjWjZzbHAwanlwRUhMV2FjcFdkS0xIaDJWWFlhcDc2aHZjdGE3T3J5SnBTM1dOYm1kVlpjMFh3cDcxTUd3b0dhVU44eHdHaHhzSUdsQ2dtMGJseURZMlR3Rk9lT09nSlE2WWphc2lpRlA0UHhPMUpLSTNz0gHsAUFVX3lxTFBpNzNXNlJGalBueWdzVEVvb3NTYzdFTkFlSXlKMERpQ3pXeFNtdmdNNWNRbzNlVkZBQ0ZKcmZLTGt3dUdyQUZ3LWIwZHZOcnBIVmg4S3NNWTlvajNHcDRLZ0RwWDc1LVAxSzMzOU10WHlVSkNPM0xpSEVOZk40U0c3U0xPWUE2MWg1RGx1aFExWXMtd0ZmNEdDcFF2X2RYelktbmtSdzhYZTRBZ0lkWGZ4cy03YktlOW9NQUxRMVk2SVpuTWpNTms1NU5BblBaRWdQVTAxTEg4OGd0MFVaaE5FUDlXQUJMTng3V3gz?oc=5",
-      "words": [
-        "apple",
-        "bengaluru",
-        "city",
-        "company",
-        "innovation",
-        "kristina",
-        "lauds",
-        "office",
-        "opens",
-        "raspe",
-        "spirit"
-      ]
-    },
-    {
-      "at": "2026-11-18T14:32:00.079059+00:00",
       "handle": "News: Tech leaders",
       "headline": "Jensen Huang and Howard Lutnick to testify before banking committee",
       "tier": 0,
@@ -7359,6 +7321,39 @@
         "musk",
         "space",
         "trump"
+      ]
+    },
+    {
+      "at": "2026-11-26T06:32:55.556666+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Amazon India received 9,147 government requests in H1 2026",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNy1FZ29MY2dBMVYzXzJfcFdxMGhWdE9qWXBER3dRN0lnRVlhUnQzUVdsLTFrb09BVDV1V3BHVDBWTDlpRktac1dxSmZwUHkwdVhOVGFuTG1yUWFsX2xJMzdYNGplY25yZ3NuUGV5WE51ZFBGODVENy1xSzRucXJUenlKbw?oc=5",
+      "words": [
+        "147",
+        "2026",
+        "amazon",
+        "aws",
+        "excluding",
+        "government",
+        "requests"
+      ]
+    },
+    {
+      "at": "2026-11-26T06:32:55.556666+00:00",
+      "handle": "News: Global chips",
+      "headline": "Huawei offers free chip patent licenses to challenge Nvidia",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEFBVkxDRUtPTmNmaG5SQ3BaSVhoT1hlcGZYQUZ0djlOSTNyMzhDTDJVdEFrZXdKX1NOcEZxelp6eHFMZVplT0k2RndkS3Rwd0tsWG5mbVFHak9mZHZqakdqa25NVTdLRHh6TU1hMkhsRVI0X09PaUhrYVFnenhVNjYzU1Blajcw?oc=5",
+      "words": [
+        "chip",
+        "free",
+        "huawei",
+        "licenses",
+        "nvidia",
+        "offers",
+        "patent",
+        "take"
       ]
     }
   ],
@@ -17465,28 +17460,9 @@
         "Gazette of India (Extraordinary)": "2026-11-26T04:23:29.425119+00:00"
       }
     },
-    "last_run": "2026-11-26T06:23:54.994921+00:00",
-    "pib_mark": 2341730,
+    "last_run": "2026-11-26T06:37:24.294181+00:00",
+    "pib_mark": 2341733,
     "seen": [
-      "pib:2332675",
-      "pib:2332718",
-      "pib:2332721",
-      "pib:2332719",
-      "pib:2332723",
-      "pib:2332720",
-      "pib:2332725",
-      "pib:2332740",
-      "pib:2332743",
-      "pib:2332761",
-      "pib:2332733",
-      "pib:2332787",
-      "pib:2332794",
-      "pib:2332796",
-      "pib:2332724",
-      "pib:2332827",
-      "site:ICC|https://www.icc-cricket.com/media-releases/starc-back-as-no-1-in-icc-men-s-test-bowling-rankings",
-      "watch:meeting:LS|22624",
-      "site:ICC|https://www.icc-cricket.com/media-releases/record-global-audience-and-93-8m-impact-cap-landmark-women-s-t20-world-cup",
       "site:WTO|https://www.wto.org/english/news_e/news26_e/cotpt_29oct26_540_e.htm",
       "watch:bulletin:LS|2026-11-04|Bulletin-II",
       "watch:meeting:LS|22625",
@@ -19294,7 +19270,6 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64005",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-advice-against-mr-harjinder-singh-pan-dptps7499q-mr-malkinder-singh-pan-aswps6806j-mr-mohammad-mukhtar-atif-pan-apdpa4103j-mr-subhash-chander-sharma-pan-apxps7159-_105850.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7160-of-2026-filed-by-henil-bagadia_105784.html",
-      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-a-sub-group-of-pmac-to-review-specified-provisions-of-the-sebi-icdr-regulations-2018_105790.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-4948-of-2022-issued-against-l-muneashwari-abwpl2445f-l-naga-rama-krishna-adrpl5494m-and-m-s-kepler-information-systems-private-limited-aaeck5818r-in-the-_105854.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/inauguration-of-sebi-s-pavilion-at-the-iitf-2026-by-chairman-sebi_105775.html",
@@ -19303,25 +19278,15 @@
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-16-11-2026-issued-under-rc-no-1060-of-2016-drawn-against-jigar-praful-ghoghari-in-the-matter-of-goldstone-technologies-limited-_105841.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9232-of-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105859.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15879-and-15880-of-2026-dated-november-16-2026-against-aditya-n-agarwal-pan-aktpa4024b-_105844.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7163-of-2026-filed-by-ravi_105821.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-intelligent-money-managers-private-limited_105852.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7155-of-2026-filed-by-heera-lal-khatri_105816.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7166-of-2026-filed-by-arjun-singh_105825.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-advice-against-mr-biplab-talukdar-pan-aeqpt3738n-mr-nirmalendu-bhowmik-pan-asfpb6456j-mr-pintu-roy-pan-akspr6350a-mr-santanu-chakraborty-pan-aegpc4802c-and-mr-v-_105849.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7162-of-2026-filed-by-n-padmavathi_105819.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7157-of-2026-filed-by-gondaliya-amirali-mahmadali_105780.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-8735-of-2025-dated-may-16-2025-issued-to-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-_105855.html",
-      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-16-2026-issued-under-rc-no-9309-of-2026-drawn-against-ms-arihant-securities-proprietor-pravin-kumar-jain-in-the-matter-of-betala-global-securities-limited_105847.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9233-of-2026-issued-against-ganesh-trading-prop-mr-vairagi-kalpeshpuri-ganeshpuri-pan-dkspg9993r-in-the-matter-of-trading-activity-in-the-scrip-of-ani-in-_105861.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7164-of-2026-filed-by-dilip-srivastava_105822.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15881-and-15882-of-2026-dated-november-16-2026-against-sunitadevi-niranjan-agarwal-pan-_105845.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-recovery-certificate-no-8735-of-2025_105842.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7156-of-2026-filed-by-b-venkataramani_105798.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-1060-of-2016-dated-16-11-2026-issued-against-jigar-praful-ghoghari-pan-asfpg8598l-in-the-matter-of-goldstone-technologies-limited-_105853.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7161-of-2026-filed-by-ravi_105817.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7158-of-2026-filed-by-sachin-yadav_105782.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7165-of-2026-filed-by-advocate-shashi-narayan-gupta_105823.html",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64006",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64007",
       "page:https://irdai.gov.in/documents/37343/366347/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF+-+137%E0%A4%B5%E0%A5%80%E0%A4%82+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3+%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%95+_+Press+release+-+137th+Authority+Meeting.pdf/09fdc70e-a723-98dc-bc69-9062a85d22f4",
@@ -20063,6 +20028,18 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168875",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168876",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168874",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
+      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7163-of-2026-filed-by-ravi_105821.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7155-of-2026-filed-by-heera-lal-khatri_105816.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7166-of-2026-filed-by-arjun-singh_105825.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7162-of-2026-filed-by-n-padmavathi_105819.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7164-of-2026-filed-by-dilip-srivastava_105822.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-recovery-certificate-no-8735-of-2025_105842.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7156-of-2026-filed-by-b-venkataramani_105798.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7161-of-2026-filed-by-ravi_105817.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7165-of-2026-filed-by-advocate-shashi-narayan-gupta_105823.html",
       "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
       "mea:42002",
       "page:https://information.up.gov.in/cabinetdec/2.pdf",
@@ -20444,7 +20421,6 @@
       "mea:42000",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-a-sanskrit-subhashitam-highlighting-the-path-to-supreme-spiritual-attainment",
       "mea:42001",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64038",
       "dgft-public-notice:2cadc777-2b3a-4430-9519-f991e4a01b1e",
       "dgft-notification:fa1ec280-9b46-4147-8346-278db70085c1",
@@ -20467,7 +20443,26 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64043",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-delight-as-india-pavilion-wins-the-prestigious-visitors-lion-for-best-national-pavilion-at-the-venice-art-biennale",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-chairs-55th-pragati-meeting",
-      "mea:42005"
+      "mea:42005",
+      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-8735-of-2025-dated-may-16-2025-issued-to-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-_105905.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-4948-of-2022-issued-against-l-muneashwari-abwpl2445f-l-naga-rama-krishna-adrpl5494m-and-m-s-kepler-information-systems-private-limited-aaeck5818r-in-the-_105873.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-16-2026-issued-under-rc-no-9308-of-2026-drawn-against-niranjan-d-agarwal-in-the-matter-of-kalahridhaan-trendz-limited_105901.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-advice-against-mr-biplab-talukdar-pan-aeqpt3738n-mr-nirmalendu-bhowmik-pan-asfpb6456j-mr-pintu-roy-pan-akspr6350a-mr-santanu-chakraborty-pan-aegpc4802c-and-mr-v-_105907.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-investigation-in-the-financial-statements-of-lloyds-enterprises-limited_105858.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-3834-of-2021-dated-june-16-2021-issued-to-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-_105917.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-16-11-2026-issued-under-rc-no-1060-of-2016-drawn-against-jigar-praful-ghoghari-in-the-matter-of-goldstone-technologies-limited-_105903.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/advisory-regarding-unregulated-pre-listing-premium-often-called-as-grey-market-premium-gmp-for-upcoming-initial-public-offers-ipos-_105942.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15887-of-2026-dated-november-17-2026-against-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-broking-private-limited-und-_105893.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/caution-to-investors-regarding-impersonation-of-sebi-registered-intermediaries-on-closed-user-groups-of-social-media-platforms_105944.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-under-certificate-no-3834-of-2021-_105923.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-vanita-krishnakant-gandhi_105859.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15888-of-2026-dated-november-17-2026-against-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-bro-_105895.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-intelligent-money-managers-private-limited_105879.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-certificate-no-5163-of-2022-_105925.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-5163-of-2022-dated-july-15-2022-issued-to-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-_105919.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9326-of-2026-dated-november-20-2026-issued-to-meenu-sharma-defaulter-pan-kxyps9957r-in-the-matter-of-unregistered-investment-advisory-services-_105921.html",
+      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html"
     ],
     "source_failures": {
       "Gazette of India (Extraordinary)": {
@@ -20527,7 +20522,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "dead_models": {
     "antigravity-preview-09-2026": "2026-11-24T16:08:41.929678+00:00",
     "antigravity-preview-latest": "2026-11-24T16:08:41.929678+00:00",
@@ -26565,7 +26560,7 @@
     "2341477",
     "2341725"
   ],
-  "last_digest_hour": "2026-11-26T11",
+  "last_digest_hour": "2026-11-26T12",
   "last_success": "2026-11-26T06:19:12.190640+00:00",
   "national": {
     "alerted": [
@@ -37226,28 +37221,9 @@
       },
       "warned": "2026-11-26T02:32:39.412257+00:00"
     },
-    "last_run": "2026-11-26T06:22:14.665696+00:00",
-    "pib_mark": 2341730,
+    "last_run": "2026-11-26T06:35:48.705949+00:00",
+    "pib_mark": 2341733,
     "seen": [
-      "pib:2333027",
-      "pib:2333041",
-      "pib:2333047",
-      "pib:2333046",
-      "pib:2333061",
-      "pib:2333058",
-      "pib:2333059",
-      "pib:2333105",
-      "pib:2333133",
-      "pib:2333123",
-      "pib:2333131",
-      "pib:2333127",
-      "pib:2333145",
-      "pib:2333149",
-      "pib:2333152",
-      "pib:2333162",
-      "pib:2333177",
-      "pib:2333194",
-      "pib:2333166",
       "pib:2333191",
       "pib:2333193",
       "pib:2333238",
@@ -38980,32 +38956,21 @@
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-advice-against-mr-biplab-talukdar-pan-aeqpt3738n-mr-nirmalendu-bhowmik-pan-asfpb6456j-mr-pintu-roy-pan-akspr6350a-mr-santanu-chakraborty-pan-aegpc4802c-and-mr-v-_105849.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-16-2026-issued-under-rc-no-9308-of-2026-drawn-against-niranjan-d-agarwal-in-the-matter-of-kalahridhaan-trendz-limited_105846.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7157-of-2026-filed-by-gondaliya-amirali-mahmadali_105780.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7164-of-2026-filed-by-dilip-srivastava_105822.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-a-sub-group-of-pmac-to-review-specified-provisions-of-the-sebi-icdr-regulations-2018_105790.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7162-of-2026-filed-by-n-padmavathi_105819.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/inauguration-of-sebi-s-pavilion-at-the-iitf-2026-by-chairman-sebi_105775.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-8735-of-2025-dated-may-16-2025-issued-to-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-_105855.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-4948-of-2022-issued-against-l-muneashwari-abwpl2445f-l-naga-rama-krishna-adrpl5494m-and-m-s-kepler-information-systems-private-limited-aaeck5818r-in-the-_105854.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7158-of-2026-filed-by-sachin-yadav_105782.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7156-of-2026-filed-by-b-venkataramani_105798.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7160-of-2026-filed-by-henil-bagadia_105784.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7165-of-2026-filed-by-advocate-shashi-narayan-gupta_105823.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15879-and-15880-of-2026-dated-november-16-2026-against-aditya-n-agarwal-pan-aktpa4024b-_105844.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7155-of-2026-filed-by-heera-lal-khatri_105816.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-1060-of-2016-dated-16-11-2026-issued-against-jigar-praful-ghoghari-pan-asfpg8598l-in-the-matter-of-goldstone-technologies-limited-_105853.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7166-of-2026-filed-by-arjun-singh_105825.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-16-2026-issued-under-rc-no-9309-of-2026-drawn-against-ms-arihant-securities-proprietor-pravin-kumar-jain-in-the-matter-of-betala-global-securities-limited_105847.html",
-      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7163-of-2026-filed-by-ravi_105821.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-advice-against-mr-harjinder-singh-pan-dptps7499q-mr-malkinder-singh-pan-aswps6806j-mr-mohammad-mukhtar-atif-pan-apdpa4103j-mr-subhash-chander-sharma-pan-apxps7159-_105850.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-16-11-2026-issued-under-rc-no-1060-of-2016-drawn-against-jigar-praful-ghoghari-in-the-matter-of-goldstone-technologies-limited-_105841.html",
-      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-intelligent-money-managers-private-limited_105852.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15881-and-15882-of-2026-dated-november-16-2026-against-sunitadevi-niranjan-agarwal-pan-_105845.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7159-of-2026-filed-by-saraswati_105783.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7161-of-2026-filed-by-ravi_105817.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9232-of-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105859.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-recovery-certificate-no-8735-of-2025_105842.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9233-of-2026-issued-against-ganesh-trading-prop-mr-vairagi-kalpeshpuri-ganeshpuri-pan-dkspg9993r-in-the-matter-of-trading-activity-in-the-scrip-of-ani-in-_105861.html",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64006",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64007",
@@ -39764,6 +39729,17 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168874",
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168875",
       "feed:https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13748&Mode=0",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7164-of-2026-filed-by-dilip-srivastava_105822.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7162-of-2026-filed-by-n-padmavathi_105819.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7156-of-2026-filed-by-b-venkataramani_105798.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7165-of-2026-filed-by-advocate-shashi-narayan-gupta_105823.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7155-of-2026-filed-by-heera-lal-khatri_105816.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7166-of-2026-filed-by-arjun-singh_105825.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7163-of-2026-filed-by-ravi_105821.html",
+      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7161-of-2026-filed-by-ravi_105817.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-recovery-certificate-no-8735-of-2025_105842.html",
       "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
       "mea:42002",
       "feed:https://www.telangana.gov.in/news/2026/11/honble-cm-sri-a-revanth-reddy-along-with-honble-leader-of-opposition-in-lok-sabha-sri-rahul-gandhi-participates-in-valedictory-session-of-bharat-summit-2026-at-hicc-madhapur-hyd/",
@@ -40228,7 +40204,26 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64043",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-delight-as-india-pavilion-wins-the-prestigious-visitors-lion-for-best-national-pavilion-at-the-venice-art-biennale",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-chairs-55th-pragati-meeting",
-      "mea:42005"
+      "mea:42005",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-advice-against-mr-biplab-talukdar-pan-aeqpt3738n-mr-nirmalendu-bhowmik-pan-asfpb6456j-mr-pintu-roy-pan-akspr6350a-mr-santanu-chakraborty-pan-aegpc4802c-and-mr-v-_105907.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/caution-to-investors-regarding-impersonation-of-sebi-registered-intermediaries-on-closed-user-groups-of-social-media-platforms_105944.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-investigation-in-the-financial-statements-of-lloyds-enterprises-limited_105858.html",
+      "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/advisory-regarding-unregulated-pre-listing-premium-often-called-as-grey-market-premium-gmp-for-upcoming-initial-public-offers-ipos-_105942.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-8735-of-2025-dated-may-16-2025-issued-to-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-_105905.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-5163-of-2022-dated-july-15-2022-issued-to-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-_105919.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9326-of-2026-dated-november-20-2026-issued-to-meenu-sharma-defaulter-pan-kxyps9957r-in-the-matter-of-unregistered-investment-advisory-services-_105921.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-4948-of-2022-issued-against-l-muneashwari-abwpl2445f-l-naga-rama-krishna-adrpl5494m-and-m-s-kepler-information-systems-private-limited-aaeck5818r-in-the-_105873.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-certificate-no-5163-of-2022-_105925.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-under-certificate-no-3834-of-2021-_105923.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15887-of-2026-dated-november-17-2026-against-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-broking-private-limited-und-_105893.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-intelligent-money-managers-private-limited_105879.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15888-of-2026-dated-november-17-2026-against-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-bro-_105895.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-vanita-krishnakant-gandhi_105859.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-16-2026-issued-under-rc-no-9308-of-2026-drawn-against-niranjan-d-agarwal-in-the-matter-of-kalahridhaan-trendz-limited_105901.html",
+      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-3834-of-2021-dated-june-16-2021-issued-to-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-_105917.html",
+      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-16-11-2026-issued-under-rc-no-1060-of-2016-drawn-against-jigar-praful-ghoghari-in-the-matter-of-goldstone-technologies-limited-_105903.html"
     ],
     "source_failures": {
       "CBI": {
@@ -40303,44 +40298,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Amazon India received 9,147 government requests in H1 2026",
-      "post": {
-        "created_at": "2026-11-26T05:15:48+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1795670148447",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "MediaNama",
-        "reposts": 0,
-        "text": "Amazon India government requests: 9,147 in H1 2026, excluding AWS",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNy1FZ29MY2dBMVYzXzJfcFdxMGhWdE9qWXBER3dRN0lnRVlhUnQzUVdsLTFrb09BVDV1V3BHVDBWTDlpRktac1dxSmZwUHkwdVhOVGFuTG1yUWFsX2xJMzdYNGplY25yZ3NuUGV5WE51ZFBGODVENy1xSzRucXJUenlKbw?oc=5"
-      },
-      "queued_at": "2026-11-26T05:47:58.576187+00:00",
-      "score": 8.0,
-      "why": "An important new disclosure from Amazon containing hard numbers about Indian government requests."
-    },
-    {
-      "headline": "Huawei offers free chip patent licenses to challenge Nvidia",
-      "post": {
-        "created_at": "2026-11-26T04:30:14+00:00",
-        "handle": "News: Global chips",
-        "id": "1795667414145",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Digitimes",
-        "reposts": 0,
-        "text": "Huawei offers free chip patent licenses to take on Nvidia",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEFBVkxDRUtPTmNmaG5SQ3BaSVhoT1hlcGZYQUZ0djlOSTNyMzhDTDJVdEFrZXdKX1NOcEZxelp6eHFMZVplT0k2RndkS3Rwd0tsWG5mbVFHak9mZHZqakdqa25NVTdLRHh6TU1hMkhsRVI0X09PaUhrYVFnenhVNjYzU1Blajcw?oc=5"
-      },
-      "queued_at": "2026-11-26T06:19:12.119151+00:00",
-      "score": 8.0,
-      "why": "A major global semiconductor and chip move by Huawei targeting Nvidia that warrants an alert."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41587,7 +41545,7 @@
   },
   "source_health": {
     "down": {
-      "REG NPCI": "2026-11-26T06:18:36.404311+00:00"
+      "News: Global AI": "2026-11-26T06:31:34.910085+00:00"
     }
   },
   "watch": {
@@ -41612,7 +41570,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-26T06:19:12.688573+00:00",
+    "last_server_run": "2026-11-26T06:32:55.898169+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-26T06:05:40.826789+00:00",
@@ -41741,7 +41699,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-11-26T00:33:23.871602+00:00",
+        "at": "2026-11-26T06:34:43.108611+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -41751,7 +41709,7 @@
         }
       },
       "last": {
-        "calendar": "2026-11-26T00:33:27.044014+00:00",
+        "calendar": "2026-11-26T06:34:45.724448+00:00",
         "ls_reports": "2026-11-26T06:05:15.517581+00:00",
         "rs_committee_press": "2026-11-26T06:05:24.855991+00:00",
         "rs_press": "2026-11-26T06:05:21.761073+00:00",
@@ -55880,16 +55838,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-26T06:23:11.043009+00:00",
+    "last_run": "2026-11-26T06:36:42.101207+00:00",
     "seen": [
-      "x:2124405210483425634",
-      "x:2124405308718194743",
-      "x:2124405572347080974",
-      "x:2124405921422139738",
-      "x:2124406008701436247",
-      "x:2124406111591977333",
-      "x:2124406275270185221",
-      "x:2124406636630733281",
       "x:2124406681602048432",
       "x:2124407112445079759",
       "x:2124407268418732287",
@@ -58881,7 +58831,15 @@
       "x:2125835673680871874",
       "x:2125835694388240771",
       "x:2125836012433875077",
-      "x:2125836146794201492"
+      "x:2125836146794201492",
+      "x:2125837000867721435",
+      "x:2125837268539916497",
+      "x:2125837648992604471",
+      "x:2125837814550114752",
+      "x:2125837982162923976",
+      "x:2125838626542289212",
+      "x:2125839732223746210",
+      "x:2125840115608240431"
     ],
     "source_failures": {},
     "sources": []
