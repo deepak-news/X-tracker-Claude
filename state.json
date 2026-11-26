@@ -17460,7 +17460,7 @@
         "Gazette of India (Extraordinary)": "2026-11-26T04:23:29.425119+00:00"
       }
     },
-    "last_run": "2026-11-26T07:23:45.704696+00:00",
+    "last_run": "2026-11-26T07:43:43.433489+00:00",
     "pib_mark": 2341768,
     "seen": [
       "site:WTO|https://www.wto.org/english/news_e/news26_e/cotpt_29oct26_540_e.htm",
@@ -20030,6 +20030,7 @@
       "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168874",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64038",
+      "mea:41963",
       "mea:41447",
       "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7163-of-2026-filed-by-ravi_105821.html",
@@ -20354,7 +20355,6 @@
       "mea:41959",
       "mea:41960",
       "page:https://internal.imd.gov.in/press_release/20261117_pr_5499.pdf",
-      "mea:41963",
       "mea:41964",
       "mea:41961",
       "mea:41965",
@@ -20522,7 +20522,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 3,
+  "consecutive_failures": 4,
   "dead_models": {
     "antigravity-preview-05-2026": "2026-11-26T07:18:25.391002+00:00",
     "antigravity-preview-09-2026": "2026-11-26T07:23:02.223668+00:00",
@@ -26561,7 +26561,7 @@
     "2341477",
     "2341725"
   ],
-  "last_digest_hour": "2026-11-26T12",
+  "last_digest_hour": "2026-11-26T13",
   "last_success": "2026-11-26T06:46:30.234548+00:00",
   "national": {
     "alerted": [
@@ -37222,7 +37222,7 @@
       },
       "warned": "2026-11-26T02:32:39.412257+00:00"
     },
-    "last_run": "2026-11-26T07:21:16.512533+00:00",
+    "last_run": "2026-11-26T07:40:57.520625+00:00",
     "pib_mark": 2341768,
     "seen": [
       "pib:2333191",
@@ -39732,6 +39732,7 @@
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64038",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
+      "mea:41963",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7164-of-2026-filed-by-dilip-srivastava_105822.html",
@@ -40117,7 +40118,6 @@
       "mea:41959",
       "page:https://internal.imd.gov.in/press_release/20261117_pr_5499.pdf",
       "mea:41960",
-      "mea:41963",
       "mea:41961",
       "mea:41964",
       "feed:http://www.niti.gov.in/node/2462",
@@ -41546,9 +41546,8 @@
   },
   "source_health": {
     "down": {
-      "News: Global AI": "2026-11-26T06:31:34.910085+00:00",
-      "News: Global chips": "2026-11-26T07:16:17.784340+00:00",
-      "News: India semiconductors": "2026-11-26T07:16:17.784340+00:00"
+      "Lenovo": "2026-11-26T07:32:49.793906+00:00",
+      "Redseer": "2026-11-26T07:32:49.793906+00:00"
     }
   },
   "watch": {
@@ -41573,7 +41572,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-26T07:18:26.930088+00:00",
+    "last_server_run": "2026-11-26T07:37:21.361751+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-26T06:05:40.826789+00:00",
@@ -55841,25 +55840,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-26T07:23:02.223851+00:00",
+    "last_run": "2026-11-26T07:42:55.558884+00:00",
     "seen": [
-      "x:2124420752627945502",
-      "x:2124420894655426982",
-      "x:2124421011236127164",
-      "x:2124421636502028753",
-      "x:2124422701322514451",
-      "x:2124423020513292532",
-      "x:2124423351825486274",
-      "x:2124423363544469544",
-      "x:2124423729862119820",
-      "x:2124423958615429121",
-      "x:2124424215004938360",
-      "x:2124424290653376650",
-      "x:2124424399327760828",
-      "x:2124424693621100855",
-      "x:2124424764651614653",
-      "x:2124425087449502145",
-      "x:2124425133536448575",
       "x:2124425693174141069",
       "x:2124426092832608418",
       "x:2124426142740533358",
@@ -58842,7 +58824,24 @@
       "x:2125849632219750653",
       "x:2125849680919863336",
       "x:2125851480825778505",
-      "x:2125851639794004146"
+      "x:2125851639794004146",
+      "x:2125851671251353788",
+      "x:2125851797223059936",
+      "x:2125851909030621695",
+      "x:2125851918983729166",
+      "x:2125852055546060877",
+      "x:2125852426712572098",
+      "x:2125853073495212496",
+      "x:2125853131556933724",
+      "x:2125853175869784499",
+      "x:2125853534843502731",
+      "x:2125854084049867126",
+      "x:2125854435431891283",
+      "x:2125854651274960921",
+      "x:2125854706853675468",
+      "x:2125854924185665966",
+      "x:2125855721661108508",
+      "x:2125856091183477105"
     ],
     "source_failures": {},
     "sources": []
