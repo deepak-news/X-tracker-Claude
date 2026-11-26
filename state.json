@@ -1,254 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-18T14:32:00.079059+00:00",
-      "handle": "News: Indian IT midcaps",
-      "headline": "Cyient appoints Dhirendra Nath as Chief People Officer",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2Fqeng4elpCUzRBUTZFTTRYcXg4UUZmSE1uQmlqRDh2WTc4S2RZNXlNZ2lXcEZVZlYwdzlxNm9RSWEybVZmdXZqVGEwTHJyT3Z2MlFRT0FXOFBrbXNLRzM2eExSYlRwbzgyQV90NHZucTktMkE0NzBsYlFnOGIyVGhjTVpkQVB4Q2FwYXFMLUZyeDNVc0hvdGhVdXRsclhuZjFLdlRNbnVsUDJZb0VUX3NUWFREdTJKV2pkalhVY9IBvwFBVV95cUxNU2Fqeng4elpCUzRBUTZFTTRYcXg4UUZmSE1uQmlqRDh2WTc4S2RZNXlNZ2lXcEZVZlYwdzlxNm9RSWEybVZmdXZqVGEwTHJyT3Z2MlFRT0FXOFBrbXNLRzM2eExSYlRwbzgyQV90NHZucTktMkE0NzBsYlFnOGIyVGhjTVpkQVB4Q2FwYXFMLUZyeDNVc0hvdGhVdXRsclhuZjFLdlRNbnVsUDJZb0VUX3NUWFREdTJKV2pkalhVYw?oc=5",
-      "words": [
-        "appoints",
-        "chief",
-        "cyient",
-        "dhirendra",
-        "nath",
-        "officer",
-        "people"
-      ]
-    },
-    {
-      "at": "2026-11-18T15:31:53.056877+00:00",
-      "handle": "News: India edtech gaming",
-      "headline": "PhysicsWallah targets over Rs 9,000 Cr revenue by FY30",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWnNsczBYMEJ1cE9JaFFqaWl2cFhFVmVCS1dGd0M3bEdYLU84TTRFd2FocEVHaFZRWDREU3QyblJHQTExWUhpbVd1RnFOWXBQTTJKMklFNzh2SzBPZm44NXdHU2NFWmxUZHJnOEhRc3g1MTE5M1R6blBfdzZNNWRjVno3SFFuMjd5TWtj?oc=5",
-      "words": [
-        "000",
-        "fy30",
-        "physicswallah",
-        "revenue",
-        "targets"
-      ]
-    },
-    {
-      "at": "2026-11-18T15:31:53.056877+00:00",
-      "handle": "News: Global chips",
-      "headline": "Nvidia faces ransomware threat with 10-day countdown to leak data",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYnlaaHZ3TjBVMFREdjY4Q1NkcHZxeG8zYXlLYlB1aXNPVGxDVUFUYzJ3UlpOQmQ4SGJwYm10NlhkbTlUX0hmWldVc2pCMTNqaFk5NUIzVFQ3NkpVamItd3lIOHpNVTlsd2JRWVlzREF6aWxRTWpXeHRKcEVUa1QtTThDRzlVZjNfVHNwLWxNalNBYjhHOHI1UGxhVTlVVHhQOWw1eFFEd2ZTRHVsVm45aFVHVVZHMDNQYl9wZjl3UjVQN3VxWjdkTFZUdERleGFWYnlzLUl0NkJyRm9LUXRLV2NUcG83bmVDUUtNTGNn0gHzAUFVX3lxTE51bXRwYUxfSHN6Ulg4ZWN5UmlVdDdXaVUtMGJtOTR5ZmlIbVBmblc2Z014dlNVWWY3WGFab3JkSjFZeVp3WkNVM3pOekwxcVJZYTVDQnFqZm1UcjFJaXlmV2drdndsT2JRT201eG9KMUx3YUFEYXZIOEljSWd0STZLeVUxS3lOZGpjT1JFR1Q1MGhoWncxQXpnVDVCdVZwMnpZQ2VNMzhvUzVrZ0laMHRCaVUxbVRVdjJjdXR5X3llSEFGR1M4Sld6cElJUkpNck9MVDFfV0pTYjBrclY1WFY1RDdBcUt1YXl0azRsa3pJMkloZw?oc=5",
-      "words": [
-        "alleged",
-        "countdown",
-        "data",
-        "day",
-        "faces",
-        "hackers",
-        "leak",
-        "nvidia",
-        "ransomware",
-        "set",
-        "stolen",
-        "threat"
-      ]
-    },
-    {
-      "at": "2026-11-18T15:31:53.056877+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta's Muse AI agent faces early safety mishaps",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzFCWVhTaXRGa0xoLTRJUUVKTjNaYXZzU2FhbHYxR2tyallCbFJsUFM1U21lbXN0UVN2U3FfZnlsWWdGWERVTWRBdmhHVmZaS0Z3X0REWFhvaXhQYXpoNHRlTG0wbHp0WHd5b3N3dnpOYnJONWE4bWVXdEJObHFqZTFYd2szQ3p1SU5LV1JxODNpSVpoWnZTdXVWRDJTSUl0MTRvQnotcjJrUUE?oc=5",
-      "words": [
-        "agent",
-        "bets",
-        "big",
-        "early",
-        "meta",
-        "mishaps",
-        "muse",
-        "safety",
-        "surface"
-      ]
-    },
-    {
-      "at": "2026-11-18T16:31:33.529175+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta AI agent accessed private user data without consent",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmQ5dG5FYjg0d1JJZFo5OFdYUDdVUUpFSnFESlhBLW5JRUl0eHdWckhYdmUyd3dRVUpXNTlqWTdpeHg4QThNRjlubGxZVUV6WjdQLUlpZEZHaV9YVXFRbnZKaDVwbDBPUTloMmtQTVkyblBRQm0xSHdORlFhMmZCTTFkby1tUkxyTDFjT01PdDFZZlZ0VkVVQlRacTJVOEhtVUVGeUl2dFJ0RlZVbGZjcWdNOWkyTGE3ZHZuOHM3bDYxdC1VTlBhaUZLN0FuT2JPYjZEc3RybE5ybXpY0gHiAUFVX3lxTE1OR2tUUFBsMUxvcHctRmRxSVdmcFg0MzhnOTlZQ0Q2VkMtcEs2SGdhbjZMM0xHblBvQ1JnMnB4TGY5VzZDUTNhYjJZQ0tQZDV6bE5kTGFfMnZZcmQyN0RFYk01cllTOWZFYlE4SGE1LUdDeXI0c0d1c0lxSGlVR01ZQU5aZFZuNzBiRlJvTXBTcldaMUdWN3VSb3lBNF9BX1E0NkdjRC1sSHhpS0xTcEhyUXg5cVBuX2FCb0RudTRuN05UazIyR2RrN1RIMG84cHlyTWx5NnNjaHdtWWJKWGcwSWc?oc=5",
-      "words": [
-        "accessed",
-        "agent",
-        "balances",
-        "bank",
-        "chats",
-        "consent",
-        "meta",
-        "private",
-        "read",
-        "users",
-        "without"
-      ]
-    },
-    {
-      "at": "2026-11-18T17:16:16.136236+00:00",
-      "handle": "Cognizant",
-      "headline": "Cognizant launches AI-enabled Patient Hub Operations on NVIDIA computing",
-      "tier": 1,
-      "url": "https://news.cognizant.com/2026-11-18-Introducing-Cognizant-R-Patient-Hub-Operations-AI-enabled-patient-access-offering-designed-to-shorten-the-path-from-prescription-to-therapy",
-      "words": [
-        "accelerated",
-        "access",
-        "article",
-        "built",
-        "cognizant",
-        "designed",
-        "enabled",
-        "hub",
-        "introducing",
-        "nvidia",
-        "offering",
-        "operations",
-        "path",
-        "patient"
-      ]
-    },
-    {
-      "at": "2026-11-18T18:31:31.986520+00:00",
-      "handle": "News: India fintech",
-      "headline": "Telangana consumer commission rules UPI PIN insufficient for transaction consent",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYXBMZHdyZFFvbkdiMW0zamFoTVd2OGs5TWF1ak1LeThFVGZPeVI5eE4yRjkzX0dKNzVXWU1sN3ZXNDJVem9oNWQxVHdRMVVyd0dOSHN1alZNdlV4NmNYQXRhUVB4ajRTVE1RMzFCYlFnMGM5Rkl4Unp0cEtjeE13UWpkQWw2N3kzRWNHa3hRRmNYVWFJZkJtTjBOYzB0YU1fcXl6VzRGM3JPcmpXMjZZUDVqdXlsRjJka09UTVpzdFU2OFJfVlBxQnk3NGZMa0lKSV9rSG52LUx2MXZXT3pLdzg1VDYzdXgzNWhjZExMRmVGbU9IR2xv0gH8AUFVX3lxTFBYUVFRNzlLTXVIZE5lZzhCaXNwcDFzWjF2cjRpYzBoUWNTcGJLZnNnckpmdDZLOUNFTVhaS3NFYnJleVZtVUsxZ0ZIVXUtNjJYYnNVZDNidU1VU254OW83WG16bm40RTcxYUxuYl9XdnFiMElXVFdwTTZ1Wm54YzNzUGhWN3hValVnVENJYzFTdzY5NkNDMENUT2R3X0FvU2ljT3ZNdzlRQi1mU3c3N2szT1VHa3JEZm5tZm53ZnFuaFRYdUFIakUwTzNuNFR1aVk3T1BUSUhhaWJUcTRYSlQycE1wUU5CVzYxVEMtVDhYZUx0NlNITmxnbEZndw?oc=5",
-      "words": [
-        "000",
-        "alone",
-        "commission",
-        "consent",
-        "consumer",
-        "details",
-        "doesn",
-        "key",
-        "orders",
-        "pay",
-        "pin",
-        "prove",
-        "sbi",
-        "telangana"
-      ]
-    },
-    {
-      "at": "2026-11-18T18:31:31.986520+00:00",
-      "handle": "News: India fintech",
-      "headline": "Flat Rs 5 MDR fee likely for B2B UPI payments",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWp2bXRpeGtmd2k1b3FfS3J1TTRnaUVCZFUwN1VpRElfOVk0WGJNaUFMVXpqc2VhVlBjdkdZMUZtUnY3MzJHWXphUS1KaXNQZFU3NFhsa2pLcU5KZjFMUFRMdGZtS1dzaXlma2FIMUVxdDc1amZraVRuU2pyVl9vU0hMYkwxOVhKR1pTQnNlZEhvbG9OS3h6OUZDMzN3RUpGa3ltQUNDemVhRUEwd1lhWXhuaG5aTktuMVZTRGZEYnlLTDRLdk5RSmhTSnhYdFp0QnlaVUln0gHbAUFVX3lxTE9qcVNtbW80c3FkZFN2YkFDaFRKNy1zd0V5OVAwVGFaY2w4ZTJDNGlIVWtEWFNkNUpncjdaZjk0Wm1fOWp3MERNMWdKVDFZeTB2X2c1UXRlZ2t6dUlBQkhDMEgwRzhLMk5IeDRxLTJSci1SdG1KVWV1dFItbUZ4U0NaaXQ4WlFjUzBEZU0tXy0wU0x1SkNWbV9zbFV6bDZqWWxNT2U5bkdMRm4yQmNrZjNtSjNrQmNYMDVLOEdHMnM3ajNRd1ppaHVPWTRiWExJWV9SaEwyYlNuTTNjWQ?oc=5",
-      "words": [
-        "300",
-        "against",
-        "b2b",
-        "charge",
-        "feared",
-        "fee",
-        "flat",
-        "likely",
-        "mdr",
-        "payments",
-        "upi"
-      ]
-    },
-    {
-      "at": "2026-11-18T18:31:31.986520+00:00",
-      "handle": "News: Global chips",
-      "headline": "Nvidia raises sales outlook and states business thrives without Huang",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdVJKUzZfb3RVcGgxSmhYcXlpWm8zaEhEd29TZVdxeFF2cWNXS2NsQ2pDbmFuZUdua1dUZDVZOHRYWC0wTW5LZk1PNkd5dkpVamNVQ3ltUkpwVFlkRXRjMTRsZTVKeFlNSVpIWkN1Wk1wNVJ3ZFktWEZOY3B0SUloX2sxWk1FTEhTSllJZURkZGVCUnFvcF9PSFZWRFZTaWZsQ1RTNUhjWnNIcEhadDNBTzU1dGZ1NkI4RmM5bnVCS2lGTG9LR1RjOUQ4ONIB0AFBVV95cUxQbWlPbm1waXhnS1dzMk44Z20tRWFKalVpTzhHSDVWa2VLcl9hM2xSVFJocHlQejJiZGxLRzNjX0NvemlnUVNTeUVWTkdQQW1pU2ZIUG1NQ3FlM3FwbVhleWZVTUdJUVFqdTUtQ2VUUjRFeG5NSVk3cDRUTFVUdkVkRExZMnVsMDNDOHZDbVB1cVV3U3FBQVRzWjcyc1VuYjd6WXBJME9rT2hZbHE2UnRrS0FHVFREUzRENVowdmQ0R2p2TC1aRExaaWVacmcxYUJG?oc=5",
-      "words": [
-        "business",
-        "can",
-        "huang",
-        "nvidia",
-        "outlook",
-        "raises",
-        "sales",
-        "thrive",
-        "without"
-      ]
-    },
-    {
-      "at": "2026-11-18T19:31:24.099007+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic details IPO numbers aiming for record debut",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2Q5ZGtyeDhkR1NHZnNZNnVHMzZZQXFWVEh2dHpzSkxjZ2R0SXh4SDNfMUFFVTN3VTZfWXE5eXBlNUozbjZtXzR6NFJ1ekNjZnVxdzFpQVZKOTdGQ0wyOTVja0NKRDlOeXR1MUx2RUVueXRjSUYyal93R0E2dkJnZDdXei1Nb2xIeDRzUTFIWEtUV1lCcTZTRU9udHNHVkMzY0kwdFA0NkRGRkljQ0RFZklhWQ?oc=5",
-      "words": [
-        "anthropic",
-        "debut",
-        "ipo",
-        "numbers",
-        "record",
-        "spacex",
-        "taking"
-      ]
-    },
-    {
-      "at": "2026-11-18T19:31:24.099007+00:00",
-      "handle": "News: Tech leaders",
-      "headline": "Nvidia board confirms no return for Jensen Huang",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWxVVE03dElYdGJCYTJPSTl5ZUpycF9WZmtmR0EyaU1MVjNsNGpmMG9qVXZCT1g2MXlZUzNBQWhvMnNuMEpzc3BKbFVwWXdVV2M3UURNS0xzNThXQ00ycTlhTUFzRG95M2s5ZE50QXlCZWZTdnpJSmQ1a1dvTUdVcC1OZkJPQ0t4ZFRTN3NkQVlIOG1GZ3NKRUQ3SXNMOTNLaFZNRmlEamZXVVZpdVpTdTR0R1V3WGphY3hKcUtJdw?oc=5",
-      "words": [
-        "agreed",
-        "back",
-        "board",
-        "chris",
-        "christie",
-        "come",
-        "hours",
-        "huang",
-        "jensen",
-        "later",
-        "nvidia",
-        "shouldn"
-      ]
-    },
-    {
-      "at": "2026-11-18T19:31:24.099007+00:00",
-      "handle": "News: Global chips",
-      "headline": "Nvidia holds first post-Jensen all-hands meeting offering equity and raises",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0t4T3ZJR2J0U1ZQOER1YkJfaThUR19VN1ZyQVYxQUV6bUZlME5vcXZFMzE0VVNtalZNZWZlVkZHalJ4VmdGMFlyM1FWSU45VVhsRExOY0VUOE1aeS1LRE9QNUZtc3NQc09zTHBPN0lVVkplN1JkQmFfWnhqTGMwcmFiUjg5aGM3Tm00ZWRKOUQ?oc=5",
-      "words": [
-        "all",
-        "equity",
-        "first",
-        "hands",
-        "inside",
-        "jensen",
-        "more",
-        "nvidia",
-        "pay",
-        "post",
-        "raises"
-      ]
-    },
-    {
-      "at": "2026-11-18T19:31:24.099007+00:00",
-      "handle": "News: Global AI",
-      "headline": "OpenAI executives discuss balance between safety and AI progress",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXc0MGZDdEtfb1IzT0doUkdCeEZSbmdqWlVvb0t5NXRXQjBfLUdnY1Jkd1A1RHFmWVRjYmhsVW5lcjlwazlId0VTc0s0Qzg1aGdhREttRko0aGNaQkphVVlTTktYQjBfSmdVdWVKSjZ3NnlkaE02QllENnN5NnBaQ1NoM2t4TFlEb3ctWjBhSXREdDg?oc=5",
-      "words": [
-        "balance",
-        "between",
-        "executives",
-        "openai",
-        "progress",
-        "safety",
-        "say",
-        "strike",
-        "they"
-      ]
-    },
-    {
       "at": "2026-11-18T19:31:24.099007+00:00",
       "handle": "News: Global chips",
       "headline": "Intel reports new job cuts as part of restructuring strategy",
@@ -7355,6 +7107,250 @@
         "receive",
         "responsible",
         "services"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: India fintech",
+      "headline": "Vegapay raises $10 million in Series A",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZG1xV0pMZXVIc3NfWHZ1aUVONEZEQ281SnUwRXo0TWdDaUxOQWxEc0pBN2xHQi15OTZZbWJ3ZGNjaXU3WmRGcm91TTFtc3NWeFRxV0hxUmFWN194VWlQSFBrV05aZk54dUlPOFJIQ1diTWxIcEYzZEtqUC0zY1FIMUFwV2dtR2s2TGloU3MzNjQ0OHl5UlZXLUJDTWZhc3RSX1hoTURjUDVINzFZYjJobllodlZGTkI3MnVpNGxHSU1taTRlTVdTay1hZXkxeWZHU0tObjNuTdIB3AFBVV95cUxNb2E3V2dRbmxqbENBdTdXalcwZkpRWVhuWGhyZllIOF8yZXk4bUl4VGlra1d1OC0ydlZMeDR5bUUyUFFyWllicWJsNjUwVmJLTUpDdVh5Y1Z4NWsxSmxRdTZDVGt1TGlGZDRrb01TeElsaGZUUDh1dVVaMWF5SDN5dVBldVZiTEFTMTlLYkpqZkxSM3FrM3NveFBmTldSTFRaUkcxUFVicHdfVFFPMDZ3TUhFcXN5YTJLaDRmUXo1ejBlTFV6ZGpTZ1lYc2w0RFFkQUF4czZhZWpkWko4?oc=5",
+      "words": [
+        "funding",
+        "led",
+        "prosus",
+        "raises",
+        "series",
+        "vegapay",
+        "ventures",
+        "vertex"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: Global AI",
+      "headline": "Anthropic CEO: AI governance must be democratic",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTXFoSVJBRUlwampJLVhIaS1oSDB0QXJhek5icFR4cnN3VE1oOEJnaEdMVXQ3SHctaExISDgtdzFoS3pRVHhhamZvY3lvN2RDOXpjZVo5aFdlYURWR2d3ZHEycThpLTd4eTliVWg5cWU1ejFxeUg4aFZseDZ1aEFHaVUwVFNFTk5CTHFHU20zYWFjQXFwQjJVb3RKR3VIbkFib2FQdlFQNWF6bTE3QjhQX2x2UzhMUEEtNUJ4WWdOVUR1TXhhOXgyd0pxWHNWclVyTkVnR00tVC1nS0dBcUdxNDh6MmxFcGR0cjN3RkFaeW1Mak5BMXVoRTlJbzNvSlJtU25GdWNKRlhBRjJ0Zk1pdzBn0gGXAkFVX3lxTFBscWF6MVktRXkxOFR5NDVQSFdYVy0xT1RCV0RXMWhybDNRbk1KYkhtSXQ2V2JIbmJOYWR5UXlvNTExQUNnbUhVWWMtRjBVbnkwSnBwbmF3UjdFRjFyNjhvQXlTTmt3aHEtOTRMcXZfcVIzZjN4N1BDY0pHcHJPYW9xNXFMOHN1N3FYRi1xMVZ2RUZGVW12Zjk4UVRGbGY1bFRxQTJETkFHTWlYSmxpZnVwQmNOR0dZZXd1SGlJb2RBLUI5cUFqd2lEWFFVNnAzVENiX3hVN1hjTnFmRV9fcFBuVFVVTXh1M25paGdCZDlKNldvMHQxMGIwZnBNUEppdjhwenJTbHZUSmpuS2wyMmJ6UWZZSWEwWQ?oc=5",
+      "words": [
+        "anthropic",
+        "ceo",
+        "dario",
+        "democratic",
+        "free",
+        "governance",
+        "humans",
+        "must",
+        "remain",
+        "should",
+        "surrender",
+        "systems"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: India fintech",
+      "headline": "EPFO plans UPI, ATM access to PF savings",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUVjRmoyajZIM2tsdU1uUmNwc2ZIUE1xNk5FekFsUmlud0dWQzdIYjlZZ3l3SG85VEh0ZExESnB3QXhfUXBWdElfRGZwM2FhNGUtaVB1SVg2bFBway1INGZxc2xLellycElJLXBfZUhaNkcwcVdBaGVwNHFPV1FNZEtZdmgxbWFkS3lQX1ZZWDFYcjQzallwWnNmbjRrUVBibmdaRGFJUUhRZXlJNmtLcWNsSDVETFE0TDh30gHAAUFVX3lxTE14emhySHBNY2ltekUxYk1FZ0o5QkEtYmk2RURUMzl6bGJXb0R6VkhUVjhGLUxWeXZoREdkZHI4R1VHd3I0SXBTQnRDeTNhZVFRWDJ5dU16WWZWYnJwRGRNNGlDemYtWUtxMzB3X0d6bEdUdDJaalJDaGg4amZGSF9TMkdIOEcyZ0NfcTJQb1NSekN0a1h6NUxfN0RndzBFTGRUa1VtNk1UN2p4UlRELUZFR0ZYT0hreENBalNCR2ZVOQ?oc=5",
+      "words": [
+        "access",
+        "atm",
+        "change",
+        "could",
+        "epfo",
+        "members",
+        "planned",
+        "savings",
+        "upi"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Apple pulls MiniMax AI chatbot over child safety",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHFnT1JWRzF4Yl9VZzJDZ1o4d3BlM2RQSnVIRlpPZVN2c3k4aVRZYUN5ZkpMQUQ1RENidzlGaFpzU0hFOWFtRkoyVWVnQndHYUM5MGFNc1JzX3J4NHVldS1Qem0tSl9rcUpSSk9xNW1lYlNmbnZfT25YZWRaak1VOG5kLUtBby1XeUlleVhxaS1pVTN5T3hfcVZZWjNzQTdzUGhDaUdBMU9wTTVEVDRjOVdlN1h6VEFRQWJmLXpoYTRkTzlReFNHWHRkeDFTajk5NkFqcnJB?oc=5",
+      "words": [
+        "app",
+        "apple",
+        "chatbot",
+        "child",
+        "concerns",
+        "minimax",
+        "pulls",
+        "safety",
+        "store"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: India tech policy",
+      "headline": "MeitY JS: Chips define industries",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTklKTVFOeXpiU3hWWEdPVThYeGdSYTY3NFkxejdGLTRGcmhPZ0N4dFNGb2E4RC1zNXo3OTdKZVJpUXJBSDcxSzNsQUtxbVBMaFFHTkw0Z0RrWDI4SW0yaks3Y0xacUJWMDJSSW02ckVFZDlVOXV6a3pJLXF4UGd3RWZhb1FjUFVJWjUyLWpUeU5Ec0xCM2hnSFdhSzdVTzJoeDN1TFM0OWE2bWlHaVZSWGtsMHBRZmhBR0JlUUt4cVRaY0VpVmU5NkpkaXRScG9JWG5YbHkyTGhBTlFiU3NSWmo1U0pIUXhmQmVfZWw1T1pJR1o0d1I4OUJfUkRvU2I0YjVF0gGIAkFVX3lxTE91T21DMGZTRDlMU0JvZ3pmbVRwU2lDc29Hb2pRclZ3WkkzdEg4ZVl6VFhyazhMZTZXaWo2bTVUbkpzOHRPbXpZeWpNbE5qM3Bpa2w3Y05EOVpsV3Exb1pqY3RIb1ExN2VLbjF0UjN2WUt2aUppaXFkQ1ZxQ1MtNVpBRnVZWEJqMmtiNGtJNm9sb0Zja2YyUFZPb0VvMUtPdXRjelowZGFvQmI2OWFIN21Hc0FuaXVqOFptQUpHemtoYkt0cnlrMzlteG5ZbWZuaFQydzRFR1BtTkhYRENBc1NxbzJuTVF3VjZIUldzY1p4SFpMeDRCblZoRlNuak00LWlXOC1VOWZ0bA?oc=5",
+      "words": [
+        "actively",
+        "chips",
+        "defining",
+        "industries",
+        "meity",
+        "merely",
+        "moving",
+        "serving",
+        "shaping",
+        "them"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: Global AI",
+      "headline": "China AI development threatened by US curbs",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
+      "words": [
+        "chinese",
+        "chip",
+        "crackdown",
+        "curbs",
+        "development",
+        "distillation",
+        "exclusive",
+        "model",
+        "say",
+        "sources",
+        "threaten"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "BITS Pilani alumnus quits Microsoft for AI startup",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOWVd5dHFITm16X0pBaE93Zlhfc2xOeVliLVFmUDJqM004cTZDWHdmOUg2MW1sbXYtZEtBSmFUWkRRU1dXMERKSGtzYnExWkMxQXBWQ1BTU1RRd09kTzU5YjgwTGdTMThRaXQteUVyYXlUMzlidHlMLVI1dG1tbUxxb0RYYTJOdVdzcWg4elczckd0Wm1Wd2R1S2NiRUM4X2gtUC0wd0dLQmJ2TDFMSzhycWE4ektuRXdCVnhYRFR2OHpwZFRDU0szM0FidzJKZkM3aVJ0QkwyaW1pXzNuOEdSSDdCQ2VzZ0xyS21Ua2czR3dpRHRCRlhIRnludlAzZkxQNzVzdmNZS0F1QWtPTkdTaDhraFJGdk5CNHROOTNTcWgyOE13MVR4cUZvRTBDOWE3Z2xUU2ZOUGdVdmdYMl9xc28ybk5BakIxYlVTUFdNdjMxVndTRW9Md1YyNk8tRUljQ3FHbFplUHNvSURGU1h1WFQySEFmaERkb1ZjVFpfdFFnampHcHdNek4xUFJkZ9IBkwNBVV95cUxOcDUzQ21zcndQOUZPMWdkcWJmMlllRTdBa1ZJMHpuazdPRUo2Y0tVN25rdjhhNlBJT2o0V0JHeHQ2UEhLbG1YRGdZdU1qNlpFNzZpYjFiNk9iTWpVSlktdm9TS0s1bFpxbFZNSU1OVUNaUWFpaFVRYkpoX05lY2RDWDl2akFyZWJpdUFFWVA0WHhIeXVnVzhUTm1nME83aE8tTFdnWnRBOWN6ci1BSkRuRFYzTDJZR1lRMThkWDREZXNPYU9lVFFpOU11UGZRQWR1RzNQYkJmYmRzbDVJMk1ZeFBvbGY5YTFKUmNTVnFlNXdqQmV4RWZ4MkhzSFlGVF9vYW5MNGViMkRwR2l4TTMzdkNtUS1uX29Dd1NGd1FyT1k5WGU5RDRIRzNYSkw0T0V4RnJJV2lIdTJqQmZNUjMyd3h4NXpaUk5jMENxS2JuWDY3M3ZSZlluQmRrWU1BbWRKcmFXM2tJUkRKR2NZZGtQUTV3TFBINFI4OU1mZFk1clZrZy1abkFZeUt5NE02THdpdmJz?oc=5",
+      "words": [
+        "alumnus",
+        "based",
+        "bengaluru",
+        "bits",
+        "build",
+        "high",
+        "his",
+        "job",
+        "microsoft",
+        "paying",
+        "pilani",
+        "quit",
+        "startup"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: Big tech platforms",
+      "headline": "Elon Musk's Neuralink brain chip may launch commercially",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPalk5LUQtTGgzdExBTEZ1UFN5TnZ4aFJVZGNaY0t5REEwU0k0a2xlZVBrTHdvQmZpT2w0azJTR2RSTlFycG9uQlM0UFNocnF4OGxIMmRCd2IyUlhaZ2l6cFdkdXVqV2pLZVhkaTlXT2NYRkFGM2tfMFZSNkhZSkliSlZickY4eHl3OE96NXRiWWdOQVlzNEV6cjVFTGphUm82VzlkbkhhU0xiWGZXemhSaVY1eG1kb1NKZVBRMDJWTGFKNGNjZ3AzNEYwMHNQUjRGd05CU3Fn0gHbAUFVX3lxTE5MTnV5dnNqNHhFSzNWanJ0T3V6QnNHUXFvcjF0OXZKbEJmeF95M2ZLa1VVRFZLWW1aWnNSVlFyMTI1SU83Szd4VTNNRGZLZkxJS0dNQ3hIcmt5eU5kM01ERThCdnFhOXpXRE1xZ3AwX1hkcE5qam1SLUlBcGJCNENleG15eTQ2X0stSFRQcllFbXB6NDd5SlUzbzhqd2FWRkxpc1djcXc1aTItd3JnbDlJdVA3RmdPTFVROVgzcGIwbU5LemJNYkE3QWFyRWFuWUxPcWctekFUYmRQUQ?oc=5",
+      "words": [
+        "brain",
+        "chip",
+        "commercially",
+        "elon",
+        "fda",
+        "gets",
+        "launch",
+        "may",
+        "musk",
+        "neuralink",
+        "nod",
+        "soon"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: Global AI",
+      "headline": "IndiaMart, OpenAI settle ChatGPT results dispute",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGphUzF4SFZiMnJjQ3dQSF9zcFUtQzBMODJRamxQb3dYaDBMc2IwbGIxUmw1TTlsU0RRWk1EZ3kzRjhNQ1FSLTNnQlB5V1ozVElmQkFfM2NDRTJtZUs5TV9lX0puMWxhcWo3cDllbVhhVlBCaFRCQXI4cWRTY3BVWGdBZlR4eHIwUHZjZUk1UW9ISkZ5M1FzLTRibHVfUy1nTy1BaQ?oc=5",
+      "words": [
+        "chatgpt",
+        "indiamart",
+        "openai",
+        "reach",
+        "results",
+        "settlement"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "BharatGen launches Patram 1.5 AI model",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNanRjcWUzWEJYdkJ5TmJpWkU4LXd3Y0lSWS1tUlZDY0lBZHhBS3FDTm9nZVNRenRNYm9IbExCUWtHdEUtbE8wZ3Vma3M1SG8xM1RIN091YjhteWR1OWhZeFUtRlozT1RfejZzblA1eTlJOEk0ZzNJdUdrdzFQLTVpSWZmbEdITDY3b21jVVRDQnJYQjdXT3RpSjRTU21SN2F2U1FBbEdqLUVsdy1MaFJPNTRIajhZSEpEODNNNEV6YjhPWnZQRWVhVThZQWVpd1IwRHVOZ1RYeXE5aHB0T0Y2cXk1WDE0aktfQjc1eGpMcXozcHFz0gH6AUFVX3lxTE1NbGdRZmhFNUZid2J6NWF0S2toR1JhNUYxajlpZm5GUmIwWkU2TlVJdGdLUy1teXQ0Z3ZabVNha0pVNWJqQ0Uxekw2c0ZreXU3cFhBUEZjMXJaMEVvNVpPRFJmQjluNXVfeWs1dXRRdnMzZGRZXzF5TWNBb2ZISnNibGM1eXVvenQzVEN5T1AtejNXQ05nNE95WmdralRzRHpRTXNoZ2hWbGFucWJuMGFKdzdCY1B0Q0hjYVU5N0MtZnQ4Z1YtRnBteDkwRVRwQkdyQXh5VWNVWUFFOUZPSzRTMjR1MFdSZjhxNXYtd0JtUFh6TTRCRDgwNmc?oc=5",
+      "words": [
+        "bharatgen",
+        "can",
+        "documents",
+        "handwritten",
+        "launches",
+        "made",
+        "messy",
+        "model",
+        "patram",
+        "read"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: India telecom",
+      "headline": "Govt considers monetising BSNL, MTNL assets",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGpCaFFzdDNncDBJUDlaa0t4d2JjVW9fRFR2dlFuOHVjX0FGaDhyWUd2MjNmYU0wLXRSSVlLa2hWZDMwQm5haU9YbEhFRk8tWjl4U1hjOXlQMVdPdEdTNlBSd3VUWTBodXB1YUZ0RlB4WnRud2N2Y3FaV1EyQnJNSFJ1NzJiUExWSWJ6YkcwSC1melNSYVQ2cFBjaEJoclNIcWJlRDVBY3JPR1FlSTJBczhzSGFYRklsQ0tsQdIBwwFBVV95cUxOLU9Uc2tWZ2NvcTY1aHktcjJrcEplcVBXSnd5WjBJRkRKc3dSQ1I3S3Y3VFhPQlBJOWhsVGRXRmFVdVBSR09iVzRPRUkxRGVXTWtsOGpQUS1KMTZjb25tb2VTMGU5RG1qd2hVcHJyN3hLYy1TMUgzck9VM25IX05qQWJwc19mdXVPN0NudHBfZ1oxcmdCaXdPV05pdURQQkxWdkZVZkFWdXZUR2s0MDZ0WlUxVVd4VUJMcUNhdWljZTN0R1U?oc=5",
+      "words": [
+        "300",
+        "assets",
+        "bsnl",
+        "considers",
+        "government",
+        "monetisation",
+        "mtnl",
+        "worth"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: Indian IT majors",
+      "headline": "Zaggle Prepaid signs Infosys deal",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNemZWZXNJb09JeTc0QU55Y2xNTWcyQ1FYT1lLeG9NMkh2cmw5STc0Ry1nTFNuQUQyOTdKeGYxNmRsamlVejFHMmdzYmwtd2E5TEpxZFBSN0xYakpPUnRVNGxXRllSUi1IaXhXTGdxZ3BTbWV1dlBIOGZDQVd2d1IxOGZPeDBUUmdDbzI1WHdhcmFaYkctNVNBNG1iZGNfdk1EZWMwclFvNElnajl6NXVvLXlVYzkzaEpaN1FmcVN3OEczNk9OcU1ZVU1QN2pvZVQ1blpvS0prYUduYWxxSnVvc0tzLUI5eDk4a2Jrb1kxSGtxaVpDZ21xenBKTWJjVlXSAYQCQVVfeXFMTjl1cUtVdUNkd0QtTjZFZUN1aTlzTDhhd3dFV3YxeEg1Z1VjYjJHTzZwbGRlOFk2RHBYR0ZvUk5LN1ctZktiVkgzNHlDX1RRcmJNZGp5c1UyZmJzY196eF96SnlpVDdTWk5kZzMzal8tM24xZHVmZFhqdUhQak9RdHdmTVplZkxSXzdfQWM1bTh0bXR3SEFIUTJUYThJTUM1QjZqUWtMbGVUY0pHZWVhcWdWMnRlX3FOdy1CbVBXZW42VG4zOUpoM2pIeHZXUUdRcVI5R2JpVjFqUmFUX1F5djczRm9keUs4OGphdVBOX1QyVDBEWGF2RXhMb1F4RDdJWmlPLWQ?oc=5",
+      "words": [
+        "agreement",
+        "employee",
+        "expense",
+        "five",
+        "infosys",
+        "management",
+        "platform",
+        "prepaid",
+        "signs",
+        "year",
+        "zaggle"
+      ]
+    },
+    {
+      "at": "2026-11-26T11:31:01.784675+00:00",
+      "handle": "News: Global chips",
+      "headline": "SK Hynix seeks TSMC 3nm expertise",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTmxnUU9sYk5zbXN2T0xVOWJmaXBpV0dJbmZlX0x5R181OUw0QWlFeE1OUTdUQ2lpS05WZjNxYk43X1gyWmtzT01CamF2dFdmQU1LekpNNE54ekltc2Q0ZkdoTFFhMmVra0gzMzhYMW15bzM1UmItQy1GcExSVTFUX0dHeUpBUQ?oc=5",
+      "words": [
+        "3nm",
+        "expertise",
+        "hiring",
+        "hynix",
+        "micron",
+        "seeks",
+        "steps",
+        "tsmc"
       ]
     }
   ],
@@ -17459,8 +17455,8 @@
         "Gazette of India (Extraordinary)": "2026-11-26T04:23:29.425119+00:00"
       }
     },
-    "last_run": "2026-11-26T11:18:44.880163+00:00",
-    "pib_mark": 2341985,
+    "last_run": "2026-11-26T11:38:38.278271+00:00",
+    "pib_mark": 2342012,
     "seen": [
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63922",
       "pib:2333258",
@@ -20521,7 +20517,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "dead_models": {
     "antigravity-preview-05-2026": "2026-11-26T07:18:25.391002+00:00",
     "antigravity-preview-09-2026": "2026-11-26T07:23:02.223668+00:00",
@@ -26560,7 +26556,7 @@
     "2341750",
     "2341811"
   ],
-  "last_digest_hour": "2026-11-26T16",
+  "last_digest_hour": "2026-11-26T17",
   "last_success": "2026-11-26T10:52:54.065999+00:00",
   "national": {
     "alerted": [
@@ -37229,8 +37225,8 @@
       },
       "warned": "2026-11-26T02:32:39.412257+00:00"
     },
-    "last_run": "2026-11-26T11:14:10.464268+00:00",
-    "pib_mark": 2341985,
+    "last_run": "2026-11-26T11:34:48.714171+00:00",
+    "pib_mark": 2342002,
     "seen": [
       "page:https://internal.imd.gov.in/press_release/20260927_pr_5347.pdf",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63926",
@@ -40306,242 +40302,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "Vegapay raises $10 million in Series A",
-      "post": {
-        "created_at": "2026-11-26T05:32:10+00:00",
-        "handle": "News: India fintech",
-        "id": "1795671130470",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ET Entrepreneur",
-        "reposts": 0,
-        "text": "Vegapay raises $10 mn series A funding led by Vertex Ventures, Prosus",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZG1xV0pMZXVIc3NfWHZ1aUVONEZEQ281SnUwRXo0TWdDaUxOQWxEc0pBN2xHQi15OTZZbWJ3ZGNjaXU3WmRGcm91TTFtc3NWeFRxV0hxUmFWN194VWlQSFBrV05aZk54dUlPOFJIQ1diTWxIcEYzZEtqUC0zY1FIMUFwV2dtR2s2TGloU3MzNjQ0OHl5UlZXLUJDTWZhc3RSX1hoTURjUDVINzFZYjJobllodlZGTkI3MnVpNGxHSU1taTRlTVdTay1hZXkxeWZHU0tObjNuTdIB3AFBVV95cUxNb2E3V2dRbmxqbENBdTdXalcwZkpRWVhuWGhyZllIOF8yZXk4bUl4VGlra1d1OC0ydlZMeDR5bUUyUFFyWllicWJsNjUwVmJLTUpDdVh5Y1Z4NWsxSmxRdTZDVGt1TGlGZDRrb01TeElsaGZUUDh1dVVaMWF5SDN5dVBldVZiTEFTMTlLYkpqZkxSM3FrM3NveFBmTldSTFRaUkcxUFVicHdfVFFPMDZ3TUhFcXN5YTJLaDRmUXo1ejBlTFV6ZGpTZ1lYc2w0RFFkQUF4czZhZWpkWko4?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 8.0,
-      "why": "A significant funding round for an Indian fintech company."
-    },
-    {
-      "headline": "Anthropic CEO: AI governance must be democratic",
-      "post": {
-        "created_at": "2026-11-26T05:32:40+00:00",
-        "handle": "News: Global AI",
-        "id": "1795671160062",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "ET BrandEquity",
-        "reposts": 0,
-        "text": "AI governance must remain democratic, humans should not surrender free will to systems: Anthropic CEO Dario ..",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTXFoSVJBRUlwampJLVhIaS1oSDB0QXJhek5icFR4cnN3VE1oOEJnaEdMVXQ3SHctaExISDgtdzFoS3pRVHhhamZvY3lvN2RDOXpjZVo5aFdlYURWR2d3ZHEycThpLTd4eTliVWg5cWU1ejFxeUg4aFZseDZ1aEFHaVUwVFNFTk5CTHFHU20zYWFjQXFwQjJVb3RKR3VIbkFib2FQdlFQNWF6bTE3QjhQX2x2UzhMUEEtNUJ4WWdOVUR1TXhhOXgyd0pxWHNWclVyTkVnR00tVC1nS0dBcUdxNDh6MmxFcGR0cjN3RkFaeW1Mak5BMXVoRTlJbzNvSlJtU25GdWNKRlhBRjJ0Zk1pdzBn0gGXAkFVX3lxTFBscWF6MVktRXkxOFR5NDVQSFdYVy0xT1RCV0RXMWhybDNRbk1KYkhtSXQ2V2JIbmJOYWR5UXlvNTExQUNnbUhVWWMtRjBVbnkwSnBwbmF3UjdFRjFyNjhvQXlTTmt3aHEtOTRMcXZfcVIzZjN4N1BDY0pHcHJPYW9xNXFMOHN1N3FYRi1xMVZ2RUZGVW12Zjk4UVRGbGY1bFRxQTJETkFHTWlYSmxpZnVwQmNOR0dZZXd1SGlJb2RBLUI5cUFqd2lEWFFVNnAzVENiX3hVN1hjTnFmRV9fcFBuVFVVTXh1M25paGdCZDlKNldvMHQxMGIwZnBNUEppdjhwenJTbHZUSmpuS2wyMmJ6UWZZSWEwWQ?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 8.0,
-      "why": "A major AI company CEO making a statement on AI governance and human control is a significant development."
-    },
-    {
-      "headline": "EPFO plans UPI, ATM access to PF savings",
-      "post": {
-        "created_at": "2026-11-26T06:55:08+00:00",
-        "handle": "News: India fintech",
-        "id": "1795676108020",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "EPFO 3.0: UPI, ATM access to PF savings planned; what could change for members",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUVjRmoyajZIM2tsdU1uUmNwc2ZIUE1xNk5FekFsUmlud0dWQzdIYjlZZ3l3SG85VEh0ZExESnB3QXhfUXBWdElfRGZwM2FhNGUtaVB1SVg2bFBway1INGZxc2xLellycElJLXBfZUhaNkcwcVdBaGVwNHFPV1FNZEtZdmgxbWFkS3lQX1ZZWDFYcjQzallwWnNmbjRrUVBibmdaRGFJUUhRZXlJNmtLcWNsSDVETFE0TDh30gHAAUFVX3lxTE14emhySHBNY2ltekUxYk1FZ0o5QkEtYmk2RURUMzl6bGJXb0R6VkhUVjhGLUxWeXZoREdkZHI4R1VHd3I0SXBTQnRDeTNhZVFRWDJ5dU16WWZWYnJwRGRNNGlDemYtWUtxMzB3X0d6bEdUdDJaalJDaGg4amZGSF9TMkdIOEcyZ0NfcTJQb1NSekN0a1h6NUxfN0RndzBFTGRUa1VtNk1UN2p4UlRELUZFR0ZYT0hreENBalNCR2ZVOQ?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 8.0,
-      "why": "A significant change in how members can access their PF savings, impacting many users."
-    },
-    {
-      "headline": "Apple pulls MiniMax AI chatbot over child safety",
-      "post": {
-        "created_at": "2026-11-26T06:31:45+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1795674705574",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "BusinessLine",
-        "reposts": 0,
-        "text": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHFnT1JWRzF4Yl9VZzJDZ1o4d3BlM2RQSnVIRlpPZVN2c3k4aVRZYUN5ZkpMQUQ1RENidzlGaFpzU0hFOWFtRkoyVWVnQndHYUM5MGFNc1JzX3J4NHVldS1Qem0tSl9rcUpSSk9xNW1lYlNmbnZfT25YZWRaak1VOG5kLUtBby1XeUlleVhxaS1pVTN5T3hfcVZZWjNzQTdzUGhDaUdBMU9wTTVEVDRjOVdlN1h6VEFRQWJmLXpoYTRkTzlReFNHWHRkeDFTajk5NkFqcnJB?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 7.0,
-      "why": "A major platform taking action on an AI chatbot due to child safety concerns is a significant regulatory move."
-    },
-    {
-      "headline": "MeitY JS: Chips define industries",
-      "post": {
-        "created_at": "2026-11-26T07:07:30+00:00",
-        "handle": "News: India tech policy",
-        "id": "1795676850724",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Electronics",
-        "reposts": 0,
-        "text": "Chips are moving from merely serving industries to actively defining and shaping them: MeitY JS",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTklKTVFOeXpiU3hWWEdPVThYeGdSYTY3NFkxejdGLTRGcmhPZ0N4dFNGb2E4RC1zNXo3OTdKZVJpUXJBSDcxSzNsQUtxbVBMaFFHTkw0Z0RrWDI4SW0yaks3Y0xacUJWMDJSSW02ckVFZDlVOXV6a3pJLXF4UGd3RWZhb1FjUFVJWjUyLWpUeU5Ec0xCM2hnSFdhSzdVTzJoeDN1TFM0OWE2bWlHaVZSWGtsMHBRZmhBR0JlUUt4cVRaY0VpVmU5NkpkaXRScG9JWG5YbHkyTGhBTlFiU3NSWmo1U0pIUXhmQmVfZWw1T1pJR1o0d1I4OUJfUkRvU2I0YjVF0gGIAkFVX3lxTE91T21DMGZTRDlMU0JvZ3pmbVRwU2lDc29Hb2pRclZ3WkkzdEg4ZVl6VFhyazhMZTZXaWo2bTVUbkpzOHRPbXpZeWpNbE5qM3Bpa2w3Y05EOVpsV3Exb1pqY3RIb1ExN2VLbjF0UjN2WUt2aUppaXFkQ1ZxQ1MtNVpBRnVZWEJqMmtiNGtJNm9sb0Zja2YyUFZPb0VvMUtPdXRjelowZGFvQmI2OWFIN21Hc0FuaXVqOFptQUpHemtoYkt0cnlrMzlteG5ZbWZuaFQydzRFR1BtTkhYRENBc1NxbzJuTVF3VjZIUldzY1p4SFpMeDRCblZoRlNuak00LWlXOC1VOWZ0bA?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 7.0,
-      "why": "A government official states that chips are actively defining and shaping industries."
-    },
-    {
-      "headline": "China AI development threatened by US curbs",
-      "post": {
-        "created_at": "2026-11-26T07:19:00+00:00",
-        "handle": "News: Global AI",
-        "id": "1795677540859",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Reuters",
-        "reposts": 0,
-        "text": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 7.0,
-      "why": "US chip curbs and distillation crackdowns are reportedly threatening China's AI model development."
-    },
-    {
-      "headline": "BITS Pilani alumnus quits Microsoft for AI startup",
-      "post": {
-        "created_at": "2026-11-26T07:23:00+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1795677780011",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "A BITS Pilani alumnus from UP quit his high-paying Microsoft job to build a Bengaluru-based AI startup, m",
-        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOWVd5dHFITm16X0pBaE93Zlhfc2xOeVliLVFmUDJqM004cTZDWHdmOUg2MW1sbXYtZEtBSmFUWkRRU1dXMERKSGtzYnExWkMxQXBWQ1BTU1RRd09kTzU5YjgwTGdTMThRaXQteUVyYXlUMzlidHlMLVI1dG1tbUxxb0RYYTJOdVdzcWg4elczckd0Wm1Wd2R1S2NiRUM4X2gtUC0wd0dLQmJ2TDFMSzhycWE4ektuRXdCVnhYRFR2OHpwZFRDU0szM0FidzJKZkM3aVJ0QkwyaW1pXzNuOEdSSDdCQ2VzZ0xyS21Ua2czR3dpRHRCRlhIRnludlAzZkxQNzVzdmNZS0F1QWtPTkdTaDhraFJGdk5CNHROOTNTcWgyOE13MVR4cUZvRTBDOWE3Z2xUU2ZOUGdVdmdYMl9xc28ybk5BakIxYlVTUFdNdjMxVndTRW9Md1YyNk8tRUljQ3FHbFplUHNvSURGU1h1WFQySEFmaERkb1ZjVFpfdFFnampHcHdNek4xUFJkZ9IBkwNBVV95cUxOcDUzQ21zcndQOUZPMWdkcWJmMlllRTdBa1ZJMHpuazdPRUo2Y0tVN25rdjhhNlBJT2o0V0JHeHQ2UEhLbG1YRGdZdU1qNlpFNzZpYjFiNk9iTWpVSlktdm9TS0s1bFpxbFZNSU1OVUNaUWFpaFVRYkpoX05lY2RDWDl2akFyZWJpdUFFWVA0WHhIeXVnVzhUTm1nME83aE8tTFdnWnRBOWN6ci1BSkRuRFYzTDJZR1lRMThkWDREZXNPYU9lVFFpOU11UGZRQWR1RzNQYkJmYmRzbDVJMk1ZeFBvbGY5YTFKUmNTVnFlNXdqQmV4RWZ4MkhzSFlGVF9vYW5MNGViMkRwR2l4TTMzdkNtUS1uX29Dd1NGd1FyT1k5WGU5RDRIRzNYSkw0T0V4RnJJV2lIdTJqQmZNUjMyd3h4NXpaUk5jMENxS2JuWDY3M3ZSZlluQmRrWU1BbWRKcmFXM2tJUkRKR2NZZGtQUTV3TFBINFI4OU1mZFk1clZrZy1abkFZeUt5NE02THdpdmJz?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 7.0,
-      "why": "A BITS Pilani alumnus left a Microsoft job to start an AI startup."
-    },
-    {
-      "headline": "Elon Musk's Neuralink brain chip may launch commercially",
-      "post": {
-        "created_at": "2026-11-26T07:23:59+00:00",
-        "handle": "News: Big tech platforms",
-        "id": "1795677839184",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Elon Musk gets FDA nod, Neuralink brain chip may launch commercially soon",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPalk5LUQtTGgzdExBTEZ1UFN5TnZ4aFJVZGNaY0t5REEwU0k0a2xlZVBrTHdvQmZpT2w0azJTR2RSTlFycG9uQlM0UFNocnF4OGxIMmRCd2IyUlhaZ2l6cFdkdXVqV2pLZVhkaTlXT2NYRkFGM2tfMFZSNkhZSkliSlZickY4eHl3OE96NXRiWWdOQVlzNEV6cjVFTGphUm82VzlkbkhhU0xiWGZXemhSaVY1eG1kb1NKZVBRMDJWTGFKNGNjZ3AzNEYwMHNQUjRGd05CU3Fn0gHbAUFVX3lxTE5MTnV5dnNqNHhFSzNWanJ0T3V6QnNHUXFvcjF0OXZKbEJmeF95M2ZLa1VVRFZLWW1aWnNSVlFyMTI1SU83Szd4VTNNRGZLZkxJS0dNQ3hIcmt5eU5kM01ERThCdnFhOXpXRE1xZ3AwX1hkcE5qam1SLUlBcGJCNENleG15eTQ2X0stSFRQcllFbXB6NDd5SlUzbzhqd2FWRkxpc1djcXc1aTItd3JnbDlJdVA3RmdPTFVROVgzcGIwbU5LemJNYkE3QWFyRWFuWUxPcWctekFUYmRQUQ?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 7.0,
-      "why": "Elon Musk's Neuralink has received FDA approval, paving the way for a commercial launch of its brain chip."
-    },
-    {
-      "headline": "IndiaMart, OpenAI settle ChatGPT results dispute",
-      "post": {
-        "created_at": "2026-11-26T08:13:14+00:00",
-        "handle": "News: Global AI",
-        "id": "1795680794854",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "MediaNama",
-        "reposts": 0,
-        "text": "IndiaMart, OpenAI reach settlement over ChatGPT results",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGphUzF4SFZiMnJjQ3dQSF9zcFUtQzBMODJRamxQb3dYaDBMc2IwbGIxUmw1TTlsU0RRWk1EZ3kzRjhNQ1FSLTNnQlB5V1ozVElmQkFfM2NDRTJtZUs5TV9lX0puMWxhcWo3cDllbVhhVlBCaFRCQXI4cWRTY3BVWGdBZlR4eHIwUHZjZUk1UW9ISkZ5M1FzLTRibHVfUy1nTy1BaQ?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 7.0,
-      "why": "This is a settlement between a prominent Indian e-commerce platform and a major AI company regarding search results."
-    },
-    {
-      "headline": "BharatGen launches Patram 1.5 AI model",
-      "post": {
-        "created_at": "2026-11-26T08:57:16+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1795683436668",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "BharatGen launches Patram 1.5, a made-in-India AI model that can read messy, handwritten documents",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNanRjcWUzWEJYdkJ5TmJpWkU4LXd3Y0lSWS1tUlZDY0lBZHhBS3FDTm9nZVNRenRNYm9IbExCUWtHdEUtbE8wZ3Vma3M1SG8xM1RIN091YjhteWR1OWhZeFUtRlozT1RfejZzblA1eTlJOEk0ZzNJdUdrdzFQLTVpSWZmbEdITDY3b21jVVRDQnJYQjdXT3RpSjRTU21SN2F2U1FBbEdqLUVsdy1MaFJPNTRIajhZSEpEODNNNEV6YjhPWnZQRWVhVThZQWVpd1IwRHVOZ1RYeXE5aHB0T0Y2cXk1WDE0aktfQjc1eGpMcXozcHFz0gH6AUFVX3lxTE1NbGdRZmhFNUZid2J6NWF0S2toR1JhNUYxajlpZm5GUmIwWkU2TlVJdGdLUy1teXQ0Z3ZabVNha0pVNWJqQ0Uxekw2c0ZreXU3cFhBUEZjMXJaMEVvNVpPRFJmQjluNXVfeWs1dXRRdnMzZGRZXzF5TWNBb2ZISnNibGM1eXVvenQzVEN5T1AtejNXQ05nNE95WmdralRzRHpRTXNoZ2hWbGFucWJuMGFKdzdCY1B0Q0hjYVU5N0MtZnQ4Z1YtRnBteDkwRVRwQkdyQXh5VWNVWUFFOUZPSzRTMjR1MFdSZjhxNXYtd0JtUFh6TTRCRDgwNmc?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 7.0,
-      "why": "Launch of a new Indian-developed AI model with specific capabilities for handwritten documents."
-    },
-    {
-      "headline": "Govt considers monetising BSNL, MTNL assets",
-      "post": {
-        "created_at": "2026-11-26T08:59:21+00:00",
-        "handle": "News: India telecom",
-        "id": "1795683561837",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Indian Express",
-        "reposts": 0,
-        "text": "Government considers monetisation of BSNL, MTNL assets worth Rs 1,300 crore",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGpCaFFzdDNncDBJUDlaa0t4d2JjVW9fRFR2dlFuOHVjX0FGaDhyWUd2MjNmYU0wLXRSSVlLa2hWZDMwQm5haU9YbEhFRk8tWjl4U1hjOXlQMVdPdEdTNlBSd3VUWTBodXB1YUZ0RlB4WnRud2N2Y3FaV1EyQnJNSFJ1NzJiUExWSWJ6YkcwSC1melNSYVQ2cFBjaEJoclNIcWJlRDVBY3JPR1FlSTJBczhzSGFYRklsQ0tsQdIBwwFBVV95cUxOLU9Uc2tWZ2NvcTY1aHktcjJrcEplcVBXSnd5WjBJRkRKc3dSQ1I3S3Y3VFhPQlBJOWhsVGRXRmFVdVBSR09iVzRPRUkxRGVXTWtsOGpQUS1KMTZjb25tb2VTMGU5RG1qd2hVcHJyN3hLYy1TMUgzck9VM25IX05qQWJwc19mdXVPN0NudHBfZ1oxcmdCaXdPV05pdURQQkxWdkZVZkFWdXZUR2s0MDZ0WlUxVVd4VUJMcUNhdWljZTN0R1U?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 7.0,
-      "why": "Government is considering monetizing assets of state-owned telecom companies, impacting a large user base."
-    },
-    {
-      "headline": "Zaggle Prepaid signs Infosys deal",
-      "post": {
-        "created_at": "2026-11-26T09:52:58+00:00",
-        "handle": "News: Indian IT majors",
-        "id": "1795686778899",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "CNBC TV18",
-        "reposts": 0,
-        "text": "Zaggle Prepaid signs five-year agreement with Infosys for employee expense management platform",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNemZWZXNJb09JeTc0QU55Y2xNTWcyQ1FYT1lLeG9NMkh2cmw5STc0Ry1nTFNuQUQyOTdKeGYxNmRsamlVejFHMmdzYmwtd2E5TEpxZFBSN0xYakpPUnRVNGxXRllSUi1IaXhXTGdxZ3BTbWV1dlBIOGZDQVd2d1IxOGZPeDBUUmdDbzI1WHdhcmFaYkctNVNBNG1iZGNfdk1EZWMwclFvNElnajl6NXVvLXlVYzkzaEpaN1FmcVN3OEczNk9OcU1ZVU1QN2pvZVQ1blpvS0prYUduYWxxSnVvc0tzLUI5eDk4a2Jrb1kxSGtxaVpDZ21xenBKTWJjVlXSAYQCQVVfeXFMTjl1cUtVdUNkd0QtTjZFZUN1aTlzTDhhd3dFV3YxeEg1Z1VjYjJHTzZwbGRlOFk2RHBYR0ZvUk5LN1ctZktiVkgzNHlDX1RRcmJNZGp5c1UyZmJzY196eF96SnlpVDdTWk5kZzMzal8tM24xZHVmZFhqdUhQak9RdHdmTVplZkxSXzdfQWM1bTh0bXR3SEFIUTJUYThJTUM1QjZqUWtMbGVUY0pHZWVhcWdWMnRlX3FOdy1CbVBXZW42VG4zOUpoM2pIeHZXUUdRcVI5R2JpVjFqUmFUX1F5djczRm9keUs4OGphdVBOX1QyVDBEWGF2RXhMb1F4RDdJWmlPLWQ?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 7.0,
-      "why": "A significant partnership between an Indian fintech company and a major IT services provider for expense management."
-    },
-    {
-      "headline": "SK Hynix seeks TSMC 3nm expertise",
-      "post": {
-        "created_at": "2026-11-26T09:58:19+00:00",
-        "handle": "News: Global chips",
-        "id": "1795687099460",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Digitimes",
-        "reposts": 0,
-        "text": "SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTmxnUU9sYk5zbXN2T0xVOWJmaXBpV0dJbmZlX0x5R181OUw0QWlFeE1OUTdUQ2lpS05WZjNxYk43X1gyWmtzT01CamF2dFdmQU1LekpNNE54ekltc2Q0ZkdoTFFhMmVra0gzMzhYMW15bzM1UmItQy1GcExSVTFUX0dHeUpBUQ?oc=5"
-      },
-      "queued_at": "2026-11-26T10:52:53.999661+00:00",
-      "score": 7.0,
-      "why": "A major semiconductor manufacturer seeking advanced technology from a key foundry, indicating industry shifts."
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41812,7 +41573,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-26T11:12:44.063331+00:00",
+    "last_server_run": "2026-11-26T11:31:02.108227+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-26T10:24:58.033235+00:00",
@@ -44641,7 +44402,8 @@
       "gazette:CG-DL-E-25112026-278172|MHA_FINANCE_MAIL_TO",
       "meeting:LS|22682",
       "pr:LS|3288",
-      "meeting:LS|22683"
+      "meeting:LS|22683",
+      "meeting:RS|2370"
     ]
   },
   "x_test": {
@@ -56129,24 +55891,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-26T11:18:12.079918+00:00",
+    "last_run": "2026-11-26T11:37:39.483743+00:00",
     "seen": [
-      "x:2124478574514372969",
-      "x:2124479420346048678",
-      "x:2124479707723010276",
-      "x:2124479734579155384",
-      "x:2124480147986501884",
-      "x:2124480515600531461",
-      "x:2124480518796251375",
-      "x:2124480519174050013",
-      "x:2124480669955056068",
-      "x:2124480689802478033",
-      "x:2124480836024021197",
-      "x:2124480902374039771",
-      "x:2124480923735593029",
-      "x:2124481955937075317",
-      "x:2124482126607528300",
-      "x:2124482323597111749",
       "x:2124482912875851966",
       "x:2124483128526073873",
       "x:2124483250576032011",
@@ -59130,7 +58876,23 @@
       "x:2125909782322430050",
       "x:2125909912169423164",
       "x:2125909970168553752",
-      "x:2125910463443800407"
+      "x:2125910463443800407",
+      "x:2125910824938307878",
+      "x:2125910965267169345",
+      "x:2125911139519537304",
+      "x:2125911161464029373",
+      "x:2125911179470291203",
+      "x:2125911208897425751",
+      "x:2125911633537171795",
+      "x:2125912844923289826",
+      "x:2125913236298232131",
+      "x:2125913251238269413",
+      "x:2125913329239785957",
+      "x:2125913837451051022",
+      "x:2125913970133680342",
+      "x:2125914967383969845",
+      "x:2125914980180734346",
+      "x:2125915217439895773"
     ],
     "source_failures": {},
     "sources": []
