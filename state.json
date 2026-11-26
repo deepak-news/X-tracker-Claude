@@ -1,202 +1,6 @@
 {
   "alerted": [
     {
-      "at": "2026-11-18T19:31:24.099007+00:00",
-      "handle": "News: Global chips",
-      "headline": "Intel reports new job cuts as part of restructuring strategy",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPcUx1X05XOV9Zb05GSDl6dHU2c3FZNVJaRkIzdHk1UG5aOTNRM1Z3cm5HRi1Vd3FmRE5xRm1tUHlxckp4OWxNZmpPR1U3N0h1dVNwWDFwd2pfelhhRUpVa2I5U1MwYjMxV19Pb1lxR1pDY0xxbGlJMUkzMk9UdC16cnJVLUFLNjhBY21CS1pHTXRnTlYxYVlWYTlsT0FJLXl1cGYwUVRCY2tyY1RORXNMRDg4SzdhSGNDZGMzNVktbTlZNlI2dkhLUWhlX1JiazdaZjRUVERMQ1I4Um1xYUh2Ym5CMmd2b0VBUjFUelNtVm1NSEJLR1pFcHV3UEFBMHJzdWU0a2JVbE5KLTRac0NYellnV1NaV1JFTjF1dUJ2VENLRm5LNk12S2hTT1k1OVBuT043Mi1Ic1FJSHExX0ZFaDFfUV9zeEUtZUxiOWxR0gHTAkFVX3lxTE5wYWNMcjhRNU9pWHNhQnpCZGhCSE9Pa0tCemNVRjNtbWc0VUIwYVp6S0NXcVhPZEpzUGdUdVdrMnpXdXZyWDlwckNvMDgxcUFnVU1vSGRBd3VPY25pamF3X3RkVHA0WDk2UHAzeVdwcElTSU10aXkxR0E4dlhYNFVNaTNORXhGVjlfVjV1Q1dfVnZTZXdUM3Z0ZllVV3gzdTJHZnF1TlFlNXo3RmROd2dQT3FwdGU4ZmpDXzYzLXJrQnZacm9jejZGSnBpZ0dBWUdkQ3dsVWZjOXV6eEFIaElRcEtqWVdJbzltdHRHbkNKYmJSV1k1MmFlRHVHR1F6djRLWUdnaUlZcUJJRTE2cThXVXd2ZWNwdU16UmduYWRuOF9mSDBjR0NtLWRjUTVCUE1DaVlFeWIzVkNQVGJsd1BEdVJTektRd0NUd0plRkNuNWhqSQ?oc=5",
-      "words": [
-        "become",
-        "broader",
-        "company",
-        "cuts",
-        "employees",
-        "intel",
-        "job",
-        "more",
-        "our",
-        "part",
-        "report",
-        "strategy"
-      ]
-    },
-    {
-      "at": "2026-11-18T19:31:24.099007+00:00",
-      "handle": "News: India edtech gaming",
-      "headline": "AICTE flags misleading edtech courses and university tie-ups",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUtXU1VyeXpnNzdmckw2RTgxTUs2eE0wdkI5MVE5WXdoODhrdkVSYlN1ZzVZV29FR2xRSUNxeE1LRGZINUNha0pNdzAyc3lob3dDUDRMSXpla0ZyNnBZLWZpeG5NRkFYczhWbVNxcVlmMUE2LWxsTUxvUTA2S0ZvTXZ4bjBxczJaaHJDRGsyeTh2NlctaEI2UGFKWFd5NjYzMmxJZlpBX25kd1BJalFyVkp5eVNiVW9zZVdGal8zT0dkcXROb1ZtWU5oV3JDS05hX0VHa3pQNNIB3AFBVV95cUxNb0NzcVpNY1lnTDNFUnBDa2ItcHF0ZU5oVUROOFNZaHQtd09YdXFSNUhWT0RIOUpnZzlkVW1HbzJLZlpzeWhQRlhncGdBUTNrTDcyUXNaT3dRN3l4TThxZmR3TGliLUg4YzBjaUtuUGJ0T0RJZTMyRFVUZEp6U2JJSk1od2RFQm81dHZoYzkwT2FZcjlHVlJhcm1TZkNrc2tSYjR4Nm1qajJrQlRxVE9UdGpDRnZBenNFTFdFS2YzdjVBR3A3bGp6dkp3SWZ1dUxDLWZCVlBXVWRDSlh1?oc=5",
-      "words": [
-        "aicte",
-        "courses",
-        "edtech",
-        "flags",
-        "misleading",
-        "tie",
-        "universities",
-        "ups"
-      ]
-    },
-    {
-      "at": "2026-11-18T20:31:54.026845+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "US House panel seeks Microsoft briefing on ByteDance AI talks",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEpRTFc4Q3Nsa085U2xoZldyY1BXSmlhSy0yT00tRzF4eU5QekdiUENlSTQyajA0eU5PVWl0MUpoejlXdXJMVVFPbHRVaGFlZmxoWFA5SHN5VXBpWHJvLUFLMjZISk96bVRuWWs0V3NSblpmWTM3VVZNQ3VHQVNpQTNUOFM5VzdwZ0ZOcHlFX3hmcEJ5ZDhRVXlCS0dCZEwxbXZ3Z09zVjB4N1FGMHo4Qkc4WWEwTG5LdHNWbk14NA?oc=5",
-      "words": [
-        "briefing",
-        "bytedance",
-        "china",
-        "deal",
-        "house",
-        "microsoft",
-        "panel",
-        "reported",
-        "seeks",
-        "talks"
-      ]
-    },
-    {
-      "at": "2026-11-18T21:46:11.572947+00:00",
-      "handle": "Google",
-      "headline": "Google launches Gemini 4 Neon AI model with 1M context window",
-      "tier": 1,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "words": [
-        "across",
-        "article",
-        "bringing",
-        "completion",
-        "complex",
-        "end",
-        "engineering",
-        "fast",
-        "frontier",
-        "gemini",
-        "hero",
-        "image",
-        "intelligence",
-        "introducing"
-      ]
-    },
-    {
-      "at": "2026-11-18T23:31:28.731743+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic expands share sale and raises IPO pricing",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1JvVU85SWY2OG5fUEtvUEZnZHl1SXByQms1UldIaFRNbWxVV3NKaWV5ME0zNTBBMXg5TE02dnl2cmNodmdzUmhuN0tDbU85RXBrTDIyZXY3YzBoU0x2aHpBQ0hlZ1VUeVo2QW5rZHlkUm8wNldpMDgtSmdQR2dPR2hTNjhUcU1ob0Y1LTVEbXJvQUREYzdJSko0eEJzWS1Vc3pTQ19sR0dHZ0JReDVVWW05Q0lNU3M?oc=5",
-      "words": [
-        "anthropic",
-        "expected",
-        "higher",
-        "more",
-        "news",
-        "nov",
-        "planned",
-        "price",
-        "sells",
-        "than"
-      ]
-    },
-    {
-      "at": "2026-11-18T23:31:28.731743+00:00",
-      "handle": "News: Big tech platforms",
-      "headline": "Meta halts plan for new Zuckerberg shares",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51a3ljRDJKeDlIT05mSk5HcmxyZ0ktWElNaElEMVVKN1RPOHJXZU9JeVFMdEtuUE82MVZaRVFJTXZsaXhGZmhWNktNazFZdFVYczIta0t1bkF3bk1WTG5uWEIzVDRQZzU4WlhjeHF0RTk?oc=5",
-      "words": [
-        "class",
-        "give",
-        "halts",
-        "mark",
-        "meta",
-        "plan",
-        "zuckerberg"
-      ]
-    },
-    {
-      "at": "2026-11-19T01:35:27.908607+00:00",
-      "handle": "News: India tech policy",
-      "headline": "Government plans stricter rules for hosting citizen-centric data on cloud",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZWxfeVdzOVVWZEVTdUlfMjF3OWpjMzRjRnlGYUlINnctUFppUnRvMXR1YmFZV2hyRGZWb05EMDdwNlFiaUxVX1FzR0xjZ1ViUlFELWJqNVUySlgzU3dsUTAta29yY3dSR1FtcTNlTVVFZHdpd29icjYtQTI0dEIwZUR0bVhvelN5TDRNQXlxSDZ5MzdpZVNCQWdVNlJwUFdXLS1NNy1LOXBaajl5M2pyRV9BV1dJZFhReFQ0WEltUWtRLWhhaGtqNlRRZExhTzN0cVc3MS1RazJhVWvSAeABQVVfeXFMTnRNcFF6TE1JeEVreUQwdWJ2MVVSZTh1bElVRjZLeFpXbm5mZ09KMlhNR3N4cEc5UUJOb1pHZ0FmMUJQbF9rUXF1SVZHUTZ2eExaWVR3OEt6Ui1GYkF5QzlUNFdYOUFnYnprRU53QW10MXFYdmdrXzZUckNWUFZseExZM3RGdTBPSmR5Ukxwc3ZKU2p1dncwS1I5TFhNd2k5U3hGLU5yVnNUcGlMZWVJcnd1WjUtYUtRd0lvVjIzQnhzX01oYk9SOWN1OGJnUXdKRmVzN2RNdjEzSnI2VklvUHE?oc=5",
-      "words": [
-        "centric",
-        "citizen",
-        "cloud",
-        "data",
-        "government",
-        "hosting",
-        "plans",
-        "rules",
-        "stricter"
-      ]
-    },
-    {
-      "at": "2026-11-19T01:35:27.908607+00:00",
-      "handle": "News: Global chips",
-      "headline": "Nvidia sets record with $65bn Q3 profit",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUHl1ZWEzaWlOOTlIX3lVdF9aRTBvbjlYbV9iTkdXd0dWWWs1Z2Npc0poZXBpSmJGOEszbWR5eUFldEtKblpqT29kMUxCbUh2RkV0Tjg5b2NJZjEyMGJWU1JMam44UkQ2U1JJUnlEemF3MHdWal9nMVNzZjJ0RGlDRzhSZDZ0WHpSSkhqektfcWZaQWozYUJmNHhRS2VNR3VTOVZzNXktaXAxVTcyM3J1M3RZTllmTVktdnR5Y1ZWM1lxakQ2dmxSbVpDRkjSAdIBQVVfeXFMTXVVUWhpdjVJRFg5bTJIOG15Wm5yZlJLWC1RREs2UllIUGU3NlY5d3lNTE1nbEl0OE5OendpRC1WZFI3RmJlMVpWd3AyQTVFeGpGMnd3WDZYRVpiRmpUUXFrX1FaVEplMHktN1hwVWRsWk81MkUydEZQZ0Znbm12Qm9MbnlFWF9qRjNNdmg1RVJOS21lX3JYM3VqTXFtSXJ5a3FGMVJqdDNuZDczdndUa09ETk1GT19xNWgxR0FiTC1HbkNoSC0zcVdzal90cWlPenpB?oc=5",
-      "words": [
-        "65bn",
-        "nvidia",
-        "profit",
-        "record",
-        "sets"
-      ]
-    },
-    {
-      "at": "2026-11-19T01:35:27.908607+00:00",
-      "handle": "News: Global AI",
-      "headline": "Anthropic prices shares at $83 in record-sized public offering",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObUdjZkN1OGo5OEZmdE5NbEI2YklXTGJwVWlfazhwUkM2UHBVeUFlSDljY3dQa2picTYzQ2VZeTE2dVRsWDA1V0dOQUJFME1mbDZGQlFiSVFMVlNvcmw1RFAtVHA1TGJEVXI5aVJNUkRLZ3RkaWtjZ1AwNGNOeVRtZmh0UWJncWR5SG9LOWZubUpIRjRNMU5ZOXRBa2Q0VFlwYllyQU9aYmJDVHZVU1Vr?oc=5",
-      "words": [
-        "anthropic",
-        "offering",
-        "prices",
-        "record",
-        "sized",
-        "watch"
-      ]
-    },
-    {
-      "at": "2026-11-19T01:35:27.908607+00:00",
-      "handle": "News: Global chips",
-      "headline": "Intel secures first external customer for advanced 18A chips",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05Um1NdEdUSk5QVXZMWjVfNWZSbjMwWDBDUS1CSU14T3dUaVZXUWVQdFhGYUV3cS1BbmpTVHV2bC1LRldBbl96eVJGWXhHZW0zR0RPRXFiZW15dktuQW9ESE54Y1luQVJJNkdmS1N5QnNNRTFUQlFhVdIBfkFVX3lxTFBFVWo1RldiN1N3VGZFclp6VEpDN1ExYmY5UGxuR3g4bTNhTnFSTzlhQXJsVi1yeDZTMms2RUFMOU5RLWp2aVd6U2dJVkx5cGQ4NUI1WnV2blA2WHFRNHFRN2dtaXRqdDI5SHRNeml0cGttTGxpSUtJbjRUaUxGdw?oc=5",
-      "words": [
-        "18a",
-        "advanced",
-        "chips",
-        "customer",
-        "external",
-        "first",
-        "intel",
-        "signs"
-      ]
-    },
-    {
-      "at": "2026-11-19T01:35:27.908607+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Cognizant wins $175 million, 7-year contract from UK Network Rail",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0VnSGhaVUlQRGRsaHNiLS1rSzFZMFFBeGNUVmRESHp6M0RibUFhUHZlX1hGYmxpclp4UTJsOXJXbERaM01QWHVkUUZFckNOMHlpZ1oycDctOExaODJra09CbkFCOHI1U0pNU0ZERHZfNndQeUI2TThIcmw0S25WYlMyaUJxNUZkQkhDX2lIbU9qRHN3UUc2WnVwRGFjLUlNMnNiTDFJOHNOaFNzZlpDUW9vOGFQV1ROWWtCWk9qSVhFX0VIZUNBa3BheWw4dHJqa0RuQWZn0gHbAUFVX3lxTE93bzZFRnU2dUhlay1qQmtUNFRERTR6VkVJYzVSTTkwU3h0Szc4YmhIT1V2clBFZE1VT1FleVZ2VGNReEU2V2hIcVZQbjY0VEdybWRudzFGRmtfNE5YWnluQWRfNHhpNTE5RGVnakRzV1prWWg5cDJkcTgzRmNWZnNfY3gxOG4zSGJHLU16MlI5MWFFRFJGbWgzd1NjM29xMTNsUlRQWFlMT241ZzBUVVhrZkhrbDdVZ0h4X1hGSUR4VERrVHB5MWJpMkVmQVFPdUZRSmp2X1h4UE5MYw?oc=5",
-      "words": [
-        "175",
-        "cognizant",
-        "contract",
-        "million",
-        "network",
-        "rail",
-        "wins",
-        "year"
-      ]
-    },
-    {
       "at": "2026-11-19T01:35:27.908607+00:00",
       "handle": "News: Global AI",
       "headline": "Anthropic moves toward massive $1.4 trillion IPO valuation",
@@ -7351,6 +7155,200 @@
         "seeks",
         "steps",
         "tsmc"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: India AI deeptech",
+      "headline": "Sridhar Vembu says AI is making him work harder, feels he is wasting time if not using it",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTnQtczZ4WFVTMWxUOWxVbVBCV1hpeF9WTGFKYldKVDFDSTdxT3RVVGw2MTZidHFaS3Rkb05iX1J5ZHg1WUNFdWNhRS1KR0pfODU0d0tJVlBMMEZJdUh2OUJZdWEzNzRjLVZPYmVyUlNhb21yeW9zNGFDZVJOS0prZWZONUJxU1Y1M0k1QWQxMXBNUWNZUWppUk1QLXppN1VpWXFiMzBqOFdqR1NlVHdmVWdyYzFYRDhNeTFpQXEyR0Fvd1NBbVpIdXZXcjRBRkdxSU15SVhxRmhpSk83RTg5NWQ0X2V1M04xTTFiZ21SaUrSAfABQVVfeXFMT050LXM2eFhVUzFsVDlsVW1QQldYaXhfVkxhSmJXSlQxQ0k3cU90VVRsNjE2YnRxWkt0ZG9OYl9SeWR4NVlDRXVjYUUtSkdKXzg1NHdLSVZQTDBGSXVIdjlCWXVhMzc0Yy1WT2JlclJTYW9tcnlvczRhQ2VSTktKa2VmTjVCcVNWNTNJNUFkMTFwTVFjWVFqaVJNUC16aTdVaVlxYjMwajhXakdTZVR3ZlVncmMxWEQ4TXkxaUFxMkdBb3dTQW1aSHV2V3I0QUZHcUlNeUlYcUZoaUpPN0U4OTVkNF9ldTNOMU0xYmdtUmlK?oc=5",
+      "words": [
+        "feels",
+        "harder",
+        "him",
+        "making",
+        "sridhar",
+        "time",
+        "using",
+        "vembu",
+        "wasting",
+        "work"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Italy keen to contribute to India\u2019s semiconductor ambitions: Ambassador Antonio Bartoli",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa2QxVm81LW9vVUluNXhPaThHQU4wdHFVTVlSMF9hckt2ZkIzNm9qbHBPUl9pRTlYeWNoak12cmxYalo5U3ZlUG0xOFZZdnBjVkM5OTBlX2NybGk5UUVxTEpNam9DLWhLZ3hzRm8yU2VLb05JaW9aaFJHSnpGdmR0TFlOdmpNTllwOFJCSWtSVFhobHIybWFFOER5b2hTa2pRSHF2YnJsU1pqdlhlamdTMUdCRWZfY1dBbUpKU1d1Zi16YjhNRHpnZzVEUGs3bFZ2WjZLdzgyb2ViSVI0aUNxel9iaDktRDdBdWNhWnA0S010SlFJZ2RZ0gH8AUFVX3lxTE96NERRYW9lOUFNY1c2TnpBRGhwSVBHck1raFpqTTJFNWlZS0I4cmpaTHRLVWhvNXhmM0Q5a1l3WXBVaUs3WmkyNVZSYUw3LWhMdDBRa2d4eDBGNjQyOW5Ra2xPZFJyckdyOHhycDNDYUVOMjE3algtVkZVZmR1dXZGbmlqN2xCenVOY3o0dDlwaC1CeWIyd3RkVGR3dElURHJJcFhrZWtUd3RTbkk2LUlJWjJYa1d5b1Z6WlVNeERiUFZJU2NSRFVVM1BZNFBVS0xnQmozSXV6WklwZXladnNUYXc3cXo5SGx0Yko2aklaSjB1Q0lUaDZiMndCNQ?oc=5",
+      "words": [
+        "ambassador",
+        "ambitions",
+        "antonio",
+        "bartoli",
+        "contribute",
+        "italy",
+        "keen",
+        "semiconductor"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: Global AI",
+      "headline": "Bank of Korea raises interest rates amid AI chip boom",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBN0dJNnpodXdkck0yNWZDUkVadF9Fbkh0ZzZKMzZFbTBxYkF4MHE5Q0JtY3lpdTZodGJWa0ZicXVydEpzaWdnQVhnX243dE45M3pmR0JONjRDa3JCZlZscVUyMGxoYkp2cVZjdW5tNVI?oc=5",
+      "words": [
+        "bank",
+        "boom",
+        "chip",
+        "interest",
+        "korea",
+        "raises",
+        "rates"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "ET Silicon Shift 2026 kicks off today to accelerate India's semicon ambition",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUlhEUWZLUGxjZDlxYVFjVHl4a2NsblNCSC1Oc0t3ZlY4UUNMdlg0aldfbWEtckZabWlrU2R4cmNxQnVxRnF5TVoyR05TZkRpV1NVUk0yUHRNWkNYYm9tdzFqZVRWcnJxaGtnTmtBemhrdWRNb0ZEeGhLZ28tSGVCdU1haXRqMkxKblRLcjk0MDVVVTJpOTNOWnN3ZHZoZ01waDNUc1gyYjZkWGN3d093LWtRODJsZVp4angwSXA5dUdOa1hnQzNZQkRmRmRnblFHOXA1V3pPdmtBbnFrS2pyYzB1UE1uTk8tT1HSAe8BQVVfeXFMTmxFQVhSOFA0M1dmTmZGb0NxRWVXTFE4MDd5MEdkYXZVdnJqb19MSHZaREdUVEJXaV93cHYtV0s4M0gza0FDYVJXTm0ycXUyakMyMTZFZko4bGJqSWJtNDdqUVE5OWtUQVNUZ2Vxd251UjdNMHh0MWZGQjlxZEtsSkNucVMyckFjdS13WWZLYjJNWmNsRnNibVhiQ01DM3l6WG1QV1ZIQ0ZlZy1Zdm9hdW9kMFhwZTl5TEFOZk1DNDQwWHVxd2FESHl1cElHT1QzM3ZPS2VTQ2FFODRqZUszREd5UXhsb0twOTNwNlJKMnM?oc=5",
+      "words": [
+        "2026",
+        "accelerate",
+        "ambition",
+        "kicks",
+        "off",
+        "semicon",
+        "shift",
+        "silicon",
+        "today"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Kalyan Krishnamurthy leaves Flipkart with its biggest battles still ahead",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzFiRnk5bDI2cW5OYkRTNkdYTnVHZjdSR0R2VXBNbFNGc3BlM1ktM0ZnTUNXelpTZ0xfTUJhLUd6bXQ3NDNiRUVFVHA3eFRUQnZHOE01R1JDRnQ2TzNoV0xnT1A2V2VvbEh2d3NWYWdfbWRib2VHUUFLOVZVZ2xhWU5UamI0YVU4MF9KSldZVHUzOVZnQnRZYjIwSWF4UjVSWEQ0bUhJR2h0WGs0Z2hJbjMyc1NqZlRwVnJSNGtBejBZR2M1NFE0YWZFVjVoc2VLVDdPNtIB2gFBVV95cUxNNlVFYm83eFg5OFluYjJhUUZsVnUxVGFLdUFnM1ZiS2hZcDhyeElBS2tHVUtyNV9DTi1UVUYzeWJEZmpPVm0xUnV2M0FrYnFSY1RDZldoV014TWxqY0tGcnRFTHdlS3RzeWlZT3RXSXR3TU90aXNyUHFHMDZleFcxZWZVZy1Cc3E2Q3M0dmN4bTVkdjBzdDgyMVRvWkVCZlNTQUE4M0wzdTg2UjVBclJsVmhCWjNzTm9pQ0lKRF9MdTFWcVV3d25HdWhMcjJ1VFBsbThEaTI3X1RHZw?oc=5",
+      "words": [
+        "ahead",
+        "battles",
+        "biggest",
+        "flipkart",
+        "kalyan",
+        "krishnamurthy",
+        "leaves",
+        "still"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "New data leak in Denmark hits 11,000 people",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmVlMVEwcThIeUtjMXh5NDI4NUtCbTRkaVdwdjdmWnNSclJCc0l0UnBCMGtwTFE0SEpTUVpJN1lLNFlLcEhjekdwM29KaC1oYWcxa3FFTzJ1Slc1ekdvMjk1U3JDZGdIc2xCNGVjeHBhVzEwdE9iLTJYSkt1UGFFXzNEbXRFWXdUUU9fVFAxQWJ4c1puSDNTZFlLczhOeV93bklxdmlOVUxPbEJETWlidjNESHl3SE3SAbcBQVVfeXFMTnZlZTFRMHE4SHlLYzF4eTQyODVLQm00ZGlXcHY3ZlpzUnJSQnNJdFJwQjBrcExRNEhKU1FaSTdZSzRZS3BIY3pHcDNvSmgtaGFnMWtxRU8ydUpXNXpHbzI5NVNyQ2RnSHNsQjRlY3hwYVcxMHRPYi0yWEpLdVBhRV8zRG10RVl3VFFPX1RQMUFieHNabkgzU2RZS3M4Tnlfd25JcXZpTlVMT2xCRE1pYnYzREh5d0hN?oc=5",
+      "words": [
+        "000",
+        "data",
+        "denmark",
+        "hits",
+        "leak",
+        "people"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "India has talent but needs right direction and an integrated ecosystem: Semiconductor leaders at ET Silicon ..",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQ1R0cEcyQ0swZk56VV9FSnBxSUlMdUZWTmNJMlZrU2l0Y1Naejl6VzJKWFppblJ1ZnY2NzJzVHlUd2xqRnE4RmdZWWhTNHhGTjRtV0V2YXJOeER3Q2hkR2kxdURjT05xdlFSQUpvTi1mNWxBdmQyMms4dmttTXU5WGxjVHU4T1JsWEZROEhjM2h4eFZ0c1BBTmtRelJvakpoOFdNMDhfVGxndTN6ajI3dGRIeDE4cVlSekFtTEJhVTZWY3VJaWZ3dU5fczVGY3BtS0M2ZEpZUENxZ3VrNUJKVGw5OU5wWU9LYWh4aS1wYmphQjRUM3VaU0dfNHlCdUZBZDB5dEpfZUMzMFdzTUo0d1Nlb0JsSE5JMlHSAZ8CQVVfeXFMUHl2OG1QOUNtQlhXTjM5MmV5NnFGSWkwUW1HN0lzTUZBUHJvSWRmOVZmMGN2ZGNoVVlmQ0tRZ2VPeWlKeURraWtHZllzcGhNSzNiZTQ3ZTMxamlvWVlQVnJ6NXNiQWpxMkRkak5XTWZ3OVZ1MklRTDNnZXJLajlpU2hJenFLdXhVTG1VZF8ybEhYZ3F3TURvbGpVTlN3eG1yZ1F1YWFtdHJJWmlBZGRpVkQxSzhPSVd3bzlKRlhMUFpwOTZ5R2sxeFhXcEhMTExwdW5MQnRQSkxPeC03MHVxN1VuU0ExWDRBSkRpQTNLQUUyRllFV3J4aHZLaXF4akJxQ3o0Z2VtS0VidzhENjh6czAzSkk1NGF1RXJiUURSbEU?oc=5",
+      "words": [
+        "direction",
+        "ecosystem",
+        "integrated",
+        "leaders",
+        "needs",
+        "right",
+        "semiconductor",
+        "silicon",
+        "talent"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: Consumer internet India",
+      "headline": "Gurgaon man pays Rs 1,022 for BP monitor but delivery agent demands payment again; Flipkart, seller and E",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOV1lTODFXNkdMSkZvVEJLdkdFVThQN25wNU52Y2pjTy1TanM2bFJ4bXJ4ZWQ2bUtvZmpSTURwY2NycFctc0xZUUJ5WksxaUROdW14ZFc3THpNcS1OTVRWdjc3LWw4RFBqY0xxX2RxZF9ZdU1QNGtsMk5idjV0RTBqa0lJWEpXbTFtcno5akFnaXlfYXRxaUEtdGROQnlGaFp6NzRBNVNwVzdCTEQ1QUNRenJLRGF6NndsXzJEMHlPZUZTR05yWkhfLTlUUUhTR0c0bmRicmF6WTQwcFlGampLYmZTZ0VXUGlIZFlQUWZGbDZOZVpNcVFkblA3d0pEcElZNTh3S1hDb01TVDVlNEQ2S25NUHNjUEFLYWZISVU0NGg4ZnVudk5mMmoxOFZSZkxlekNzNGFIaHRMdXdnZnJYR282cTZjWHEzQWVNMG8xMEM3Z05DUm9iSkZUOUtrSVXSAeQCQVVfeXFMTUJyZHBqVVNIbjl6WmF6RlBJUUMyZ051ZUpTbzhSWnMzZzF5bEY0aG16UDdXSnRJRTEyZk5Nbm83dWJZQm43VGdGaWtzRzhMWm9ITXhFSFNWV3RJQVhpdm14N2djQXlnNFNrTXhHbzBNWFdDWFBXVVlGZE5mYXV4TFRzMTljQ19pVkNISk1qSm1YMXpVUnctTGRqMjEtMjlSSXhmTGVsRl9ha2lHT0xLM0oxa0RpVDZaeG80Vm5FZE9CTVJtT3U1N05qU0g0eTN5Z19nelRUUmtqZWVBc2oxTW1fbmJwM2d4Q0V4YUxCbG1iUWQ3TjNjMFl3cW1adHhkR2toQkVCM0pmRlluT2Y1ekpUejFESjJIa2t4ZWNVYlVyMFJOd3FFSXpQb0NoVkpJU2hoVVpJeW5NUWFkd0M3ZVJKTzdZOHFvdEFBOHFlV2VOSVdqS3NyN1JBVUdEVnd4SlQ1RU4?oc=5",
+      "words": [
+        "022",
+        "again",
+        "agent",
+        "delivery",
+        "demands",
+        "flipkart",
+        "gurgaon",
+        "man",
+        "monitor",
+        "payment",
+        "pays",
+        "seller"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: Indian IT midcaps",
+      "headline": "Zaggle Prepaid Ocean Services shares rise over 12%, here's why",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1lTLW93cDF1NjZ0STRUUUcyZ2JBSDJlay13dF9ncTQ5X2pxOGJheUxkbWk5TGRxeDBNYldTWjJPQTJFWXhxYjJFaHZBbXlnUDM4b3U1Q3kxUWNYYW9rQ2dEeUJucDBRaHNlemlYcjhuUFpNekVJVHV6ZUo3a1Q5dE00eTFmT2h2UjJad0ZqNmZXMU45MUt4ZThRS0kwLTB2SFFwOGFLQUt5bEc5N1hRMGtNTzh5cDBwWExzN3JTSWhyUjA1YV9VaVUwb9IBywFBVV95cUxQb1lTLW93cDF1NjZ0STRUUUcyZ2JBSDJlay13dF9ncTQ5X2pxOGJheUxkbWk5TGRxeDBNYldTWjJPQTJFWXhxYjJFaHZBbXlnUDM4b3U1Q3kxUWNYYW9rQ2dEeUJucDBRaHNlemlYcjhuUFpNekVJVHV6ZUo3a1Q5dE00eTFmT2h2UjJad0ZqNmZXMU45MUt4ZThRS0kwLTB2SFFwOGFLQUt5bEc5N1hRMGtNTzh5cDBwWExzN3JTSWhyUjA1YV9VaVUwbw?oc=5",
+      "words": [
+        "here",
+        "ocean",
+        "prepaid",
+        "rise",
+        "services",
+        "zaggle"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: India tech policy",
+      "headline": "IT sector employees seek national AI layoff policy as automation threatens jobs; unions and experts want",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPc2FFTnI5Y0ljaFhSYUZQeGlleXZYenpOMmZVVWNtMnZHbDA0N1NxVnUyVlE1R3hyWWNPWWQtVkR6NC13NDZRRnZsY1VZd0NiNFNmZFpEV0xxQnlmSHdVRDlZWExzbk9HNlQ2RzRBTy1vQXBmT3RtWFRUWkdZajBnTERMSUFIaWxTQU9CZ3FvUmJuUlVEYnhBZmhFTHpBUzlYSEpraFlwYURma0pYLTVraWpNNXJWV0l6V2NacmozOTFabllZendLOVkxUnpqR1AxMFRTd0hNbkpHdzdqenNVVnhDLTdONHdjd2xzYU1qa1o0LXJabk9KQTJ0VjFVbEprYjFHMk5NeWtpUTZEV25zZEF1TjVLekNESnJtRGxQbWg4ZVVyX1dXVXRDaXh6WVhoUnE0NWh4NzdrQUIzM3NMYVBLck5NaWJkT2l2SVFtV1hlWC1VUDFvTXBpMTBycEJLdnJySmVQQnEzNzRlR1NzSW0tRkxRQnY1M1lYc1BJbm1FZXNKSFpDcU9DSzVQWHE1YXBsazNPYlZ4ZE8zc2Zab29Wb1R6RmIyRDRRelZnTVBjLU84eGtJQmlKT3dBNnPSAcQDQVVfeXFMTjRTNlpSVmRINzJ3YXBINklqbUlYbVB0LVYzdVJKS1dZS0dRc0JWdWFhaFlOSnBSb2ZpcTZBMUpyYW4wVEJTOUsxa1NyZ3pxRVdXRHBnT053TnpKNFVPMWloMVVCTjZDMnNkZk9Zc3JBbDNGR1NIVE00UWYwUDdiazUxcGVVYTNpYUZRa3VkejlPenJkaG5RUU9qOXVXLVRrTEZ6ZmlFX3BqRW8wZEpiSUdyb01DdEVOY3lsRnNLX2VkdC1JNllKbWVYR0VQR1JhQ0RUaTBoNk5QT1d4YnJJRm93QVFaMEVSdEhvYUxpQjVRYWYxbElFd3JIcllaWlZlZGI1dFNtaHpwaTBuczlBWjgyS2xmU0Jmak9jQzZPVDBhTVB3NEdmc29GekZpQUdMcEhSQk54R0F6NkJSRHZ1T1lxUGt3TjJUSHEzT0dFOU5mdjhVMzJGdk9mUjItdUR1enROZ3lPQ3FzV0MyMDB6azcxaGFxTGFONnI5OGxhRmQwa3JZZzVlX1h0ZjNUN3kzQmRVU0FuRVV6ekJCM0lyY2owZVBzck84S05jMXduT08tMG1DdkQ5LWJPeGNteDlXSUw4SkM?oc=5",
+      "words": [
+        "automation",
+        "employees",
+        "experts",
+        "jobs",
+        "layoff",
+        "national",
+        "policy",
+        "sector",
+        "seek",
+        "threatens",
+        "unions",
+        "want"
+      ]
+    },
+    {
+      "at": "2026-11-26T12:40:53.384047+00:00",
+      "handle": "News: India semiconductors",
+      "headline": "Networking, communications to dominate Indias semiconductor market with 33.3% share by 2030: CareEdge",
+      "tier": 0,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORnh5VDM5a3VtOHVTLTNDSHFFUm1PWGN1djVxN0djRDIxSjdDS2VaWDZjaUZsUmZLM1FSemlHTnkwcjdEY21SU1dmQTZoc0NJWUk1ekFuSWVTUk5PaXN4aTMzSG5XS2drUUg3VzYtOTRFcGxadDhLYlM1bEN2QUJxRVdxMDZjUjZNNmxPLUhkQnlOVWVLaXM3RkowRUxBQk1fUEFzNk9ubkU5UV9VRVV4elVuRF95SVowbHUzN0Q1eVV3bkNYTXBLeUdOWS1NUWxsMnU0dUNFTmgyZ9IB3gFBVV95cUxNS084VUc2VUZoMmZzaE8yV0RSVDExU1hsNHBkdlZ2MkVyLXgtSXVYd3V5Qm1BR2JqOTZjQWEydk5zUkZSRFA5NjJSV3JnVzliZ0dmcEdqckhhVk52SmVtYWhXZDBnYTFoQXhlNW44bGJIMG4xUlBvazlBRlJSSFdlNVgyRWJ1akxRYndqdF9zekxkN1dabm5UYnVfNjZoZ3JuRjBMUGNCdTRWdXFuVmpVMUlmMWx1SjFfY21fWkg1RUtFME1UVlljRDhVeHFaWVh1bVU1RjdSQllKcmR1V0E?oc=5",
+      "words": [
+        "2030",
+        "careedge",
+        "communications",
+        "dominate",
+        "indias",
+        "market",
+        "networking",
+        "semiconductor"
       ]
     }
   ],
@@ -17455,15 +17453,9 @@
         "Gazette of India (Extraordinary)": "2026-11-26T04:23:29.425119+00:00"
       }
     },
-    "last_run": "2026-11-26T12:29:34.548607+00:00",
-    "pib_mark": 2342093,
+    "last_run": "2026-11-26T12:48:32.911617+00:00",
+    "pib_mark": 2342109,
     "seen": [
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63922",
-      "pib:2333258",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7124-of-2026-filed-by-bhupinder-singh_105544.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7123-of-2026-filed-by-bhupinder-singh_105543.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7125-of-2026-filed-by-kamal-naini-sharma_105545.html",
-      "page:https://internal.imd.gov.in/press_release/20260926_pr_5345.pdf",
       "gazette:CG-MH-E-04112026-277660",
       "gazette:CG-DL-E-04112026-277661",
       "gazette:CG-DL-E-04112026-277662",
@@ -19989,6 +19981,14 @@
       "page:https://irdai.gov.in/documents/37343/366347/Press+release+-+IRDAI+forms+two+study+groups+to+enhance+transparency+and+strengthen+accountability+in+health+insurance+claims.pdf/21cbd70f-fc2f-acc3-4636-4b3411389f04",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64039",
       "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
+      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-recovery-certificate-no-8735-of-2025_105842.html",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7156-of-2026-filed-by-b-venkataramani_105798.html",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64040",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-16-2026-issued-under-rc-no-9308-of-2026-drawn-against-niranjan-d-agarwal-in-the-matter-of-kalahridhaan-trendz-limited_105901.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-advice-against-mr-biplab-talukdar-pan-aeqpt3738n-mr-nirmalendu-bhowmik-pan-asfpb6456j-mr-pintu-roy-pan-akspr6350a-mr-santanu-chakraborty-pan-aegpc4802c-and-mr-v-_105907.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-16-11-2026-issued-under-rc-no-1060-of-2016-drawn-against-jigar-praful-ghoghari-in-the-matter-of-goldstone-technologies-limited-_105903.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15887-of-2026-dated-november-17-2026-against-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-broking-private-limited-und-_105893.html",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-naasaika",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-haraiyaanaa-kai",
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-savaamai-saradadhaananada",
@@ -20000,15 +20000,12 @@
       "feed:http://www.presidentofindia.gov.in/speeches/bhaarata-kai-raasatarapatai-saraimatai-daraaupadai-mauramau-kaa-atala-baihaarai-0",
       "feed:http://www.presidentofindia.gov.in/speeches/address-honble-president-india-smt-droupadi-murmu-national-scientific-convention",
       "mea:41447",
-      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7163-of-2026-filed-by-ravi_105821.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7155-of-2026-filed-by-heera-lal-khatri_105816.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7166-of-2026-filed-by-arjun-singh_105825.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7162-of-2026-filed-by-n-padmavathi_105819.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7164-of-2026-filed-by-dilip-srivastava_105822.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-recovery-certificate-no-8735-of-2025_105842.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7156-of-2026-filed-by-b-venkataramani_105798.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7161-of-2026-filed-by-ravi_105817.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7165-of-2026-filed-by-advocate-shashi-narayan-gupta_105823.html",
       "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
@@ -20379,7 +20376,6 @@
       "page:https://internal.imd.gov.in/press_release/20261125_pr_5522.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-the-expansion-of-social-security-coverage-for-indias-workforce",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-rs-11000-crore-scheme-for-enhancement-of-construction-and-infrastructure-equipment-cie-manufacturing-ecosystem",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64040",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-estates-management-scheme-for-department-of-posts-with-an-outlay-of-rs-1491-crore",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-postal-operations-scheme-with-an-outlay-of-rs-1141-crore-for-16th-finance-commission-cycle-fy-2026-27-to-fy-2030-31",
       "mea:42003",
@@ -20395,13 +20391,9 @@
       "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-8735-of-2025-dated-may-16-2025-issued-to-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-_105905.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-4948-of-2022-issued-against-l-muneashwari-abwpl2445f-l-naga-rama-krishna-adrpl5494m-and-m-s-kepler-information-systems-private-limited-aaeck5818r-in-the-_105873.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-16-2026-issued-under-rc-no-9308-of-2026-drawn-against-niranjan-d-agarwal-in-the-matter-of-kalahridhaan-trendz-limited_105901.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-advice-against-mr-biplab-talukdar-pan-aeqpt3738n-mr-nirmalendu-bhowmik-pan-asfpb6456j-mr-pintu-roy-pan-akspr6350a-mr-santanu-chakraborty-pan-aegpc4802c-and-mr-v-_105907.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-investigation-in-the-financial-statements-of-lloyds-enterprises-limited_105858.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-3834-of-2021-dated-june-16-2021-issued-to-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-_105917.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-16-11-2026-issued-under-rc-no-1060-of-2016-drawn-against-jigar-praful-ghoghari-in-the-matter-of-goldstone-technologies-limited-_105903.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/advisory-regarding-unregulated-pre-listing-premium-often-called-as-grey-market-premium-gmp-for-upcoming-initial-public-offers-ipos-_105942.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15887-of-2026-dated-november-17-2026-against-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-broking-private-limited-und-_105893.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/caution-to-investors-regarding-impersonation-of-sebi-registered-intermediaries-on-closed-user-groups-of-social-media-platforms_105944.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-under-certificate-no-3834-of-2021-_105923.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-vanita-krishnakant-gandhi_105859.html",
@@ -20457,7 +20449,13 @@
       "pib:2341895",
       "pib:2341791",
       "site:CAG|https://cag.gov.in/en/audit-report/details/125848",
-      "watch:pr:LS|3288"
+      "watch:pr:LS|3288",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15894-of-2026-dated-november-19-2026-against-paresh-mulji-kariya-pan-aaepk0469m-in-the-matter-of-anugrah-stock-and-brok-_105962.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15892-of-2026-dated-november-19-2026-against-anugrah-stock-and-broking-private-limited-pan-aaacw2920n-in-the-matter-of-a-_105954.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15890-of-2026-dated-november-19-2026-against-om-sri-sai-investments-pan-aadfo8242k-in-the-matter-of-anugrah-stock-and-br-_105958.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15893-of-2026-dated-november-19-2026-against-paresh-mulji-kariya-pan-aaepk0469m-in-the-matter-of-anugrah-stock-and-broking-private-limited-under-_105960.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15889-of-2026-dated-november-19-2026-against-om-sri-sai-investments-pan-aadfo8242k-in-the-matter-of-anugrah-stock-and-broking-private-limited-un-_105956.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15891-of-2026-dated-november-19-2026-against-anugrah-stock-and-broking-private-limited-pan-aaacw2920n-in-the-matter-of-anugrah-stock-and-broking-_105952.html"
     ],
     "source_failures": {
       "Gazette of India (Extraordinary)": {
@@ -20517,7 +20515,7 @@
       "site: WTO"
     ]
   },
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "dead_models": {
     "antigravity-preview-05-2026": "2026-11-26T07:18:25.391002+00:00",
     "antigravity-preview-09-2026": "2026-11-26T07:23:02.223668+00:00",
@@ -20540,7 +20538,7 @@
     "gemini-4-argon": "2026-11-25T17:04:01.170269+00:00",
     "gemini-4-carbon": "2026-11-25T16:51:20.240702+00:00",
     "gemini-4-hydrogen": "2026-11-25T17:51:37.917630+00:00",
-    "gemini-4-neon": "2026-11-25T16:32:50.031993+00:00",
+    "gemini-4-neon": "2026-11-26T12:40:51.810191+00:00",
     "gemini-flash-latest": "2026-11-25T16:47:21.934486+00:00",
     "gemini-flash-lite-latest": "2026-11-26T00:33:10.889345+00:00",
     "gemini-nano-banana-2.1": "2026-11-26T01:02:25.451829+00:00",
@@ -26556,7 +26554,7 @@
     "2342011",
     "2342012"
   ],
-  "last_digest_hour": "2026-11-26T17",
+  "last_digest_hour": "2026-11-26T18",
   "last_success": "2026-11-26T12:07:17.205645+00:00",
   "national": {
     "alerted": [
@@ -37225,15 +37223,9 @@
       },
       "warned": "2026-11-26T02:32:39.412257+00:00"
     },
-    "last_run": "2026-11-26T12:26:16.573434+00:00",
-    "pib_mark": 2342093,
+    "last_run": "2026-11-26T12:43:26.514963+00:00",
+    "pib_mark": 2342109,
     "seen": [
-      "page:https://internal.imd.gov.in/press_release/20260927_pr_5347.pdf",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63926",
-      "feed:https://www.telangana.gov.in/news/2026/10/honble-cm-sri-a-revanth-reddy-participated-in-the-inauguration-of-the-southern-regional-police-coordination-committee-srpcc-meeting-at-iccc-banjara-hills-hyd/",
-      "feed:https://www.telangana.gov.in/news/press-releases/2026/10/%e0%b0%a4%e0%b1%81%e0%b0%ae%e0%b1%8d%e0%b0%ae%e0%b0%bf%e0%b0%a1%e0%b0%bf%e0%b0%b9%e0%b1%86%e0%b0%9f%e0%b1%8d%e0%b0%9f%e0%b0%bf-%e0%b0%ac%e0%b1%8d%e0%b0%af%e0%b0%be%e0%b0%b0%e0%b1%87%e0%b0%9c%e0%b1%8d/",
-      "feed:https://www.telangana.gov.in/videos/2026/10/honble-cm-sri-a-revanth-reddy-participated-in-the-inauguration-of-the-southern-regional-police-coordination-committee-srpcc-meeting-at-iccc-banjara-hills-hyd-2/",
-      "page:https://www.cbse.gov.in/cbsenew/documents/Public_Alert_NEP_13092023.pdf",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63927",
       "page:https://www.cbse.gov.in/cbsenew/documents/FINAL_Circular_Marks_Bifrucation_05112026.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-viksit-bharat-initiative-for-statistical-transformation-analytics-research-vistar-a-central-sector-scheme-for-the-period-2026-27-to-2030-31",
@@ -39686,19 +39678,25 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-indias-journey-towards-viksit-bharat-2047-shaped-by-sustained-reforms-and-investment",
       "page:https://irdai.gov.in/documents/37343/366347/Press+release+-+IRDAI+forms+two+study+groups+to+enhance+transparency+and+strengthen+accountability+in+health+insurance+claims.pdf/21cbd70f-fc2f-acc3-4636-4b3411389f04",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64039",
+      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7156-of-2026-filed-by-b-venkataramani_105798.html",
+      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-recovery-certificate-no-8735-of-2025_105842.html",
+      "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64040",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-advice-against-mr-biplab-talukdar-pan-aeqpt3738n-mr-nirmalendu-bhowmik-pan-asfpb6456j-mr-pintu-roy-pan-akspr6350a-mr-santanu-chakraborty-pan-aegpc4802c-and-mr-v-_105907.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15887-of-2026-dated-november-17-2026-against-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-broking-private-limited-und-_105893.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-16-2026-issued-under-rc-no-9308-of-2026-drawn-against-niranjan-d-agarwal-in-the-matter-of-kalahridhaan-trendz-limited_105901.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-16-11-2026-issued-under-rc-no-1060-of-2016-drawn-against-jigar-praful-ghoghari-in-the-matter-of-goldstone-technologies-limited-_105903.html",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-remembers-the-legendary-singer-mohammed-rafi-on-his-100th-birth-anniversary",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-interaction-with-beneficiaries-and-speech-while-distribution-of-property-cards-under-svamitva-scheme",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7164-of-2026-filed-by-dilip-srivastava_105822.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7162-of-2026-filed-by-n-padmavathi_105819.html",
-      "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7156-of-2026-filed-by-b-venkataramani_105798.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7165-of-2026-filed-by-advocate-shashi-narayan-gupta_105823.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7155-of-2026-filed-by-heera-lal-khatri_105816.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7166-of-2026-filed-by-arjun-singh_105825.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-hosts-iosco-s-asia-pacific-regional-committee-regulatory-roundtable-on-market-infrastructure-institutions_105848.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7163-of-2026-filed-by-ravi_105821.html",
-      "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-margin-framework-for-commodity-derivatives-segment_105799.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7161-of-2026-filed-by-ravi_105817.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-recovery-certificate-no-8735-of-2025_105842.html",
       "page:https://www.mha.gov.in/files/whats_new_documents/SecondmentPolice2_25112026.pdf",
       "mea:42002",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%a4%e0%b1%86%e0%b0%b2%e0%b0%82%e0%b0%97%e0%b0%be%e0%b0%a3%e0%b0%b2%e0%b1%8b-%e0%b0%aa%e0%b1%86%e0%b0%82%e0%b0%a1%e0%b0%bf%e0%b0%82%e0%b0%97%e0%b1%8d%e0%b0%b2%e0%b1%8b-%e0%b0%89%e0%b0%a8/",
@@ -39796,7 +39794,6 @@
       "mea:41945",
       "mea:41965",
       "mea:41955",
-      "feed:http://www.niti.gov.in/whats-new/impact-assessment-pli-schemes",
       "page:https://internal.imd.gov.in/press_release/20261019_pr_5417.pdf",
       "page:https://internal.imd.gov.in/press_release/20261020_pr_5420.pdf",
       "page:https://internal.imd.gov.in/press_release/20261021_pr_5421.pdf",
@@ -40135,7 +40132,6 @@
       "dgft-public-notice:2cadc777-2b3a-4430-9519-f991e4a01b1e",
       "page:https://internal.imd.gov.in/press_release/20261125_pr_5522.pdf",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-the-expansion-of-social-security-coverage-for-indias-workforce",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64040",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-estates-management-scheme-for-department-of-posts-with-an-outlay-of-rs-1491-crore",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-rs-11000-crore-scheme-for-enhancement-of-construction-and-infrastructure-equipment-cie-manufacturing-ecosystem",
       "page:https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-postal-operations-scheme-with-an-outlay-of-rs-1141-crore-for-16th-finance-commission-cycle-fy-2026-27-to-fy-2030-31",
@@ -40150,7 +40146,6 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-expresses-delight-as-india-pavilion-wins-the-prestigious-visitors-lion-for-best-national-pavilion-at-the-venice-art-biennale",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-chairs-55th-pragati-meeting",
       "mea:42005",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-advice-against-mr-biplab-talukdar-pan-aeqpt3738n-mr-nirmalendu-bhowmik-pan-asfpb6456j-mr-pintu-roy-pan-akspr6350a-mr-santanu-chakraborty-pan-aegpc4802c-and-mr-v-_105907.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/caution-to-investors-regarding-impersonation-of-sebi-registered-intermediaries-on-closed-user-groups-of-social-media-platforms_105944.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-investigation-in-the-financial-statements-of-lloyds-enterprises-limited_105858.html",
       "feed:https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/advisory-regarding-unregulated-pre-listing-premium-often-called-as-grey-market-premium-gmp-for-upcoming-initial-public-offers-ipos-_105942.html",
@@ -40160,15 +40155,12 @@
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-4948-of-2022-issued-against-l-muneashwari-abwpl2445f-l-naga-rama-krishna-adrpl5494m-and-m-s-kepler-information-systems-private-limited-aaeck5818r-in-the-_105873.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unickon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-unickon-securities-pvt-ltd-under-certificate-no-5163-of-2022-_105925.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-under-certificate-no-3834-of-2021-_105923.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15887-of-2026-dated-november-17-2026-against-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-broking-private-limited-und-_105893.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-intelligent-money-managers-private-limited_105879.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15888-of-2026-dated-november-17-2026-against-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-bro-_105895.html",
       "feed:https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-vanita-krishnakant-gandhi_105859.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-16-2026-issued-under-rc-no-9308-of-2026-drawn-against-niranjan-d-agarwal-in-the-matter-of-kalahridhaan-trendz-limited_105901.html",
       "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
       "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-3834-of-2021-dated-june-16-2021-issued-to-unicon-securities-pvt-ltd-defaulter-pan-aapfs5325p-in-the-matter-of-ashutosh-paper-mills-limited-_105917.html",
       "feed:https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
-      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-16-11-2026-issued-under-rc-no-1060-of-2016-drawn-against-jigar-praful-ghoghari-in-the-matter-of-goldstone-technologies-limited-_105903.html",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%8e%e0%b0%82%e0%b0%b8%e0%b1%80%e0%b0%86%e0%b0%b0%e0%b1%8d%e0%b0%b9%e0%b1%86%e0%b0%9a%e0%b1%8d%e0%b0%86%e0%b0%b0%e0%b1%8d%e0%b0%a1%e0%b1%80%e0%b0%b2%e0%b1%8b%e0%b0%a8/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/%e0%b0%ad%e0%b0%be%e0%b0%b0%e0%b0%a4%e0%b1%8d-%e0%b0%ab%e0%b1%8d%e0%b0%af%e0%b1%82%e0%b0%9a%e0%b0%b0%e0%b1%8d-%e0%b0%b8%e0%b0%bf%e0%b0%9f%e0%b1%80%e0%b0%b2%e0%b1%8b%e0%b0%a8%e0%b0%bf-%e0%b0%af/",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-participates-in-the-inauguration-of-18th-poultry-india-expo-2026-organised-by-ipema-at-hitex-hyd/",
@@ -40227,7 +40219,13 @@
       "page:https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-how-the-constitution-remains-our-timeless-compass-towards-social-justice-and-viksit-bharat",
       "watch:meeting:LS|22682",
       "pib:2341792",
-      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64048"
+      "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64048",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15891-of-2026-dated-november-19-2026-against-anugrah-stock-and-broking-private-limited-pan-aaacw2920n-in-the-matter-of-anugrah-stock-and-broking-_105952.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15890-of-2026-dated-november-19-2026-against-om-sri-sai-investments-pan-aadfo8242k-in-the-matter-of-anugrah-stock-and-br-_105958.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15892-of-2026-dated-november-19-2026-against-anugrah-stock-and-broking-private-limited-pan-aaacw2920n-in-the-matter-of-a-_105954.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15893-of-2026-dated-november-19-2026-against-paresh-mulji-kariya-pan-aaepk0469m-in-the-matter-of-anugrah-stock-and-broking-private-limited-under-_105960.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-bank-accounts-with-ap-no-15889-of-2026-dated-november-19-2026-against-om-sri-sai-investments-pan-aadfo8242k-in-the-matter-of-anugrah-stock-and-broking-private-limited-un-_105956.html",
+      "feed:https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notices-of-attachment-of-demat-accounts-and-mutual-fund-folios-with-ap-no-15894-of-2026-dated-november-19-2026-against-paresh-mulji-kariya-pan-aaepk0469m-in-the-matter-of-anugrah-stock-and-brok-_105962.html"
     ],
     "source_failures": {
       "CBI": {
@@ -40302,206 +40300,7 @@
       "site: WTO"
     ]
   },
-  "news_queue": [
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T05:58:57+00:00",
-        "handle": "News: India AI deeptech",
-        "id": "1795672737615",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "India Today",
-        "reposts": 0,
-        "text": "Sridhar Vembu says AI is making him work harder, feels he is wasting time if not using it",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTnQtczZ4WFVTMWxUOWxVbVBCV1hpeF9WTGFKYldKVDFDSTdxT3RVVGw2MTZidHFaS3Rkb05iX1J5ZHg1WUNFdWNhRS1KR0pfODU0d0tJVlBMMEZJdUh2OUJZdWEzNzRjLVZPYmVyUlNhb21yeW9zNGFDZVJOS0prZWZONUJxU1Y1M0k1QWQxMXBNUWNZUWppUk1QLXppN1VpWXFiMzBqOFdqR1NlVHdmVWdyYzFYRDhNeTFpQXEyR0Fvd1NBbVpIdXZXcjRBRkdxSU15SVhxRmhpSk83RTg5NWQ0X2V1M04xTTFiZ21SaUrSAfABQVVfeXFMT050LXM2eFhVUzFsVDlsVW1QQldYaXhfVkxhSmJXSlQxQ0k3cU90VVRsNjE2YnRxWkt0ZG9OYl9SeWR4NVlDRXVjYUUtSkdKXzg1NHdLSVZQTDBGSXVIdjlCWXVhMzc0Yy1WT2JlclJTYW9tcnlvczRhQ2VSTktKa2VmTjVCcVNWNTNJNUFkMTFwTVFjWVFqaVJNUC16aTdVaVlxYjMwajhXakdTZVR3ZlVncmMxWEQ4TXkxaUFxMkdBb3dTQW1aSHV2V3I0QUZHcUlNeUlYcUZoaUpPN0U4OTVkNF9ldTNOMU0xYmdtUmlK?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    },
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T06:15:46+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1795673746756",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Electronics",
-        "reposts": 0,
-        "text": "Italy keen to contribute to India\u2019s semiconductor ambitions: Ambassador Antonio Bartoli",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa2QxVm81LW9vVUluNXhPaThHQU4wdHFVTVlSMF9hckt2ZkIzNm9qbHBPUl9pRTlYeWNoak12cmxYalo5U3ZlUG0xOFZZdnBjVkM5OTBlX2NybGk5UUVxTEpNam9DLWhLZ3hzRm8yU2VLb05JaW9aaFJHSnpGdmR0TFlOdmpNTllwOFJCSWtSVFhobHIybWFFOER5b2hTa2pRSHF2YnJsU1pqdlhlamdTMUdCRWZfY1dBbUpKU1d1Zi16YjhNRHpnZzVEUGs3bFZ2WjZLdzgyb2ViSVI0aUNxel9iaDktRDdBdWNhWnA0S010SlFJZ2RZ0gH8AUFVX3lxTE96NERRYW9lOUFNY1c2TnpBRGhwSVBHck1raFpqTTJFNWlZS0I4cmpaTHRLVWhvNXhmM0Q5a1l3WXBVaUs3WmkyNVZSYUw3LWhMdDBRa2d4eDBGNjQyOW5Ra2xPZFJyckdyOHhycDNDYUVOMjE3algtVkZVZmR1dXZGbmlqN2xCenVOY3o0dDlwaC1CeWIyd3RkVGR3dElURHJJcFhrZWtUd3RTbkk2LUlJWjJYa1d5b1Z6WlVNeERiUFZJU2NSRFVVM1BZNFBVS0xnQmozSXV6WklwZXladnNUYXc3cXo5SGx0Yko2aklaSjB1Q0lUaDZiMndCNQ?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    },
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T07:00:55+00:00",
-        "handle": "News: Global AI",
-        "id": "1795676455267",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Financial Times",
-        "reposts": 0,
-        "text": "Bank of Korea raises interest rates amid AI chip boom",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBN0dJNnpodXdkck0yNWZDUkVadF9Fbkh0ZzZKMzZFbTBxYkF4MHE5Q0JtY3lpdTZodGJWa0ZicXVydEpzaWdnQVhnX243dE45M3pmR0JONjRDa3JCZlZscVUyMGxoYkp2cVZjdW5tNVI?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    },
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T07:03:44+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1795676624167",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Electronics",
-        "reposts": 0,
-        "text": "ET Silicon Shift 2026 kicks off today to accelerate India's semicon ambition",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUlhEUWZLUGxjZDlxYVFjVHl4a2NsblNCSC1Oc0t3ZlY4UUNMdlg0aldfbWEtckZabWlrU2R4cmNxQnVxRnF5TVoyR05TZkRpV1NVUk0yUHRNWkNYYm9tdzFqZVRWcnJxaGtnTmtBemhrdWRNb0ZEeGhLZ28tSGVCdU1haXRqMkxKblRLcjk0MDVVVTJpOTNOWnN3ZHZoZ01waDNUc1gyYjZkWGN3d093LWtRODJsZVp4angwSXA5dUdOa1hnQzNZQkRmRmRnblFHOXA1V3pPdmtBbnFrS2pyYzB1UE1uTk8tT1HSAe8BQVVfeXFMTmxFQVhSOFA0M1dmTmZGb0NxRWVXTFE4MDd5MEdkYXZVdnJqb19MSHZaREdUVEJXaV93cHYtV0s4M0gza0FDYVJXTm0ycXUyakMyMTZFZko4bGJqSWJtNDdqUVE5OWtUQVNUZ2Vxd251UjdNMHh0MWZGQjlxZEtsSkNucVMyckFjdS13WWZLYjJNWmNsRnNibVhiQ01DM3l6WG1QV1ZIQ0ZlZy1Zdm9hdW9kMFhwZTl5TEFOZk1DNDQwWHVxd2FESHl1cElHT1QzM3ZPS2VTQ2FFODRqZUszREd5UXhsb0twOTNwNlJKMnM?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    },
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T08:36:23+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1795682183865",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Moneycontrol",
-        "reposts": 0,
-        "text": "Kalyan Krishnamurthy leaves Flipkart with its biggest battles still ahead",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzFiRnk5bDI2cW5OYkRTNkdYTnVHZjdSR0R2VXBNbFNGc3BlM1ktM0ZnTUNXelpTZ0xfTUJhLUd6bXQ3NDNiRUVFVHA3eFRUQnZHOE01R1JDRnQ2TzNoV0xnT1A2V2VvbEh2d3NWYWdfbWRib2VHUUFLOVZVZ2xhWU5UamI0YVU4MF9KSldZVHUzOVZnQnRZYjIwSWF4UjVSWEQ0bUhJR2h0WGs0Z2hJbjMyc1NqZlRwVnJSNGtBejBZR2M1NFE0YWZFVjVoc2VLVDdPNtIB2gFBVV95cUxNNlVFYm83eFg5OFluYjJhUUZsVnUxVGFLdUFnM1ZiS2hZcDhyeElBS2tHVUtyNV9DTi1UVUYzeWJEZmpPVm0xUnV2M0FrYnFSY1RDZldoV014TWxqY0tGcnRFTHdlS3RzeWlZT3RXSXR3TU90aXNyUHFHMDZleFcxZWZVZy1Cc3E2Q3M0dmN4bTVkdjBzdDgyMVRvWkVCZlNTQUE4M0wzdTg2UjVBclJsVmhCWjNzTm9pQ0lKRF9MdTFWcVV3d25HdWhMcjJ1VFBsbThEaTI3X1RHZw?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    },
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T09:08:00+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1795684080612",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Economic Times",
-        "reposts": 0,
-        "text": "New data leak in Denmark hits 11,000 people",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmVlMVEwcThIeUtjMXh5NDI4NUtCbTRkaVdwdjdmWnNSclJCc0l0UnBCMGtwTFE0SEpTUVpJN1lLNFlLcEhjekdwM29KaC1oYWcxa3FFTzJ1Slc1ekdvMjk1U3JDZGdIc2xCNGVjeHBhVzEwdE9iLTJYSkt1UGFFXzNEbXRFWXdUUU9fVFAxQWJ4c1puSDNTZFlLczhOeV93bklxdmlOVUxPbEJETWlidjNESHl3SE3SAbcBQVVfeXFMTnZlZTFRMHE4SHlLYzF4eTQyODVLQm00ZGlXcHY3ZlpzUnJSQnNJdFJwQjBrcExRNEhKU1FaSTdZSzRZS3BIY3pHcDNvSmgtaGFnMWtxRU8ydUpXNXpHbzI5NVNyQ2RnSHNsQjRlY3hwYVcxMHRPYi0yWEpLdVBhRV8zRG10RVl3VFFPX1RQMUFieHNabkgzU2RZS3M4Tnlfd25JcXZpTlVMT2xCRE1pYnYzREh5d0hN?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    },
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T09:40:51+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1795686051542",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Electronics",
-        "reposts": 0,
-        "text": "India has talent but needs right direction and an integrated ecosystem: Semiconductor leaders at ET Silicon ..",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQ1R0cEcyQ0swZk56VV9FSnBxSUlMdUZWTmNJMlZrU2l0Y1Naejl6VzJKWFppblJ1ZnY2NzJzVHlUd2xqRnE4RmdZWWhTNHhGTjRtV0V2YXJOeER3Q2hkR2kxdURjT05xdlFSQUpvTi1mNWxBdmQyMms4dmttTXU5WGxjVHU4T1JsWEZROEhjM2h4eFZ0c1BBTmtRelJvakpoOFdNMDhfVGxndTN6ajI3dGRIeDE4cVlSekFtTEJhVTZWY3VJaWZ3dU5fczVGY3BtS0M2ZEpZUENxZ3VrNUJKVGw5OU5wWU9LYWh4aS1wYmphQjRUM3VaU0dfNHlCdUZBZDB5dEpfZUMzMFdzTUo0d1Nlb0JsSE5JMlHSAZ8CQVVfeXFMUHl2OG1QOUNtQlhXTjM5MmV5NnFGSWkwUW1HN0lzTUZBUHJvSWRmOVZmMGN2ZGNoVVlmQ0tRZ2VPeWlKeURraWtHZllzcGhNSzNiZTQ3ZTMxamlvWVlQVnJ6NXNiQWpxMkRkak5XTWZ3OVZ1MklRTDNnZXJLajlpU2hJenFLdXhVTG1VZF8ybEhYZ3F3TURvbGpVTlN3eG1yZ1F1YWFtdHJJWmlBZGRpVkQxSzhPSVd3bzlKRlhMUFpwOTZ5R2sxeFhXcEhMTExwdW5MQnRQSkxPeC03MHVxN1VuU0ExWDRBSkRpQTNLQUUyRllFV3J4aHZLaXF4akJxQ3o0Z2VtS0VidzhENjh6czAzSkk1NGF1RXJiUURSbEU?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    },
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T09:49:00+00:00",
-        "handle": "News: Consumer internet India",
-        "id": "1795686540617",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "Gurgaon man pays Rs 1,022 for BP monitor but delivery agent demands payment again; Flipkart, seller and E",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOV1lTODFXNkdMSkZvVEJLdkdFVThQN25wNU52Y2pjTy1TanM2bFJ4bXJ4ZWQ2bUtvZmpSTURwY2NycFctc0xZUUJ5WksxaUROdW14ZFc3THpNcS1OTVRWdjc3LWw4RFBqY0xxX2RxZF9ZdU1QNGtsMk5idjV0RTBqa0lJWEpXbTFtcno5akFnaXlfYXRxaUEtdGROQnlGaFp6NzRBNVNwVzdCTEQ1QUNRenJLRGF6NndsXzJEMHlPZUZTR05yWkhfLTlUUUhTR0c0bmRicmF6WTQwcFlGampLYmZTZ0VXUGlIZFlQUWZGbDZOZVpNcVFkblA3d0pEcElZNTh3S1hDb01TVDVlNEQ2S25NUHNjUEFLYWZISVU0NGg4ZnVudk5mMmoxOFZSZkxlekNzNGFIaHRMdXdnZnJYR282cTZjWHEzQWVNMG8xMEM3Z05DUm9iSkZUOUtrSVXSAeQCQVVfeXFMTUJyZHBqVVNIbjl6WmF6RlBJUUMyZ051ZUpTbzhSWnMzZzF5bEY0aG16UDdXSnRJRTEyZk5Nbm83dWJZQm43VGdGaWtzRzhMWm9ITXhFSFNWV3RJQVhpdm14N2djQXlnNFNrTXhHbzBNWFdDWFBXVVlGZE5mYXV4TFRzMTljQ19pVkNISk1qSm1YMXpVUnctTGRqMjEtMjlSSXhmTGVsRl9ha2lHT0xLM0oxa0RpVDZaeG80Vm5FZE9CTVJtT3U1N05qU0g0eTN5Z19nelRUUmtqZWVBc2oxTW1fbmJwM2d4Q0V4YUxCbG1iUWQ3TjNjMFl3cW1adHhkR2toQkVCM0pmRlluT2Y1ekpUejFESjJIa2t4ZWNVYlVyMFJOd3FFSXpQb0NoVkpJU2hoVVpJeW5NUWFkd0M3ZVJKTzdZOHFvdEFBOHFlV2VOSVdqS3NyN1JBVUdEVnd4SlQ1RU4?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    },
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T09:54:55+00:00",
-        "handle": "News: Indian IT midcaps",
-        "id": "1795686895842",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "Business Today",
-        "reposts": 0,
-        "text": "Zaggle Prepaid Ocean Services shares rise over 12%, here's why",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1lTLW93cDF1NjZ0STRUUUcyZ2JBSDJlay13dF9ncTQ5X2pxOGJheUxkbWk5TGRxeDBNYldTWjJPQTJFWXhxYjJFaHZBbXlnUDM4b3U1Q3kxUWNYYW9rQ2dEeUJucDBRaHNlemlYcjhuUFpNekVJVHV6ZUo3a1Q5dE00eTFmT2h2UjJad0ZqNmZXMU45MUt4ZThRS0kwLTB2SFFwOGFLQUt5bEc5N1hRMGtNTzh5cDBwWExzN3JTSWhyUjA1YV9VaVUwb9IBywFBVV95cUxQb1lTLW93cDF1NjZ0STRUUUcyZ2JBSDJlay13dF9ncTQ5X2pxOGJheUxkbWk5TGRxeDBNYldTWjJPQTJFWXhxYjJFaHZBbXlnUDM4b3U1Q3kxUWNYYW9rQ2dEeUJucDBRaHNlemlYcjhuUFpNekVJVHV6ZUo3a1Q5dE00eTFmT2h2UjJad0ZqNmZXMU45MUt4ZThRS0kwLTB2SFFwOGFLQUt5bEc5N1hRMGtNTzh5cDBwWExzN3JTSWhyUjA1YV9VaVUwbw?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    },
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T10:31:00+00:00",
-        "handle": "News: India tech policy",
-        "id": "1795689060117",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Times of India",
-        "reposts": 0,
-        "text": "IT sector employees seek national AI layoff policy as automation threatens jobs; unions and experts want",
-        "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPc2FFTnI5Y0ljaFhSYUZQeGlleXZYenpOMmZVVWNtMnZHbDA0N1NxVnUyVlE1R3hyWWNPWWQtVkR6NC13NDZRRnZsY1VZd0NiNFNmZFpEV0xxQnlmSHdVRDlZWExzbk9HNlQ2RzRBTy1vQXBmT3RtWFRUWkdZajBnTERMSUFIaWxTQU9CZ3FvUmJuUlVEYnhBZmhFTHpBUzlYSEpraFlwYURma0pYLTVraWpNNXJWV0l6V2NacmozOTFabllZendLOVkxUnpqR1AxMFRTd0hNbkpHdzdqenNVVnhDLTdONHdjd2xzYU1qa1o0LXJabk9KQTJ0VjFVbEprYjFHMk5NeWtpUTZEV25zZEF1TjVLekNESnJtRGxQbWg4ZVVyX1dXVXRDaXh6WVhoUnE0NWh4NzdrQUIzM3NMYVBLck5NaWJkT2l2SVFtV1hlWC1VUDFvTXBpMTBycEJLdnJySmVQQnEzNzRlR1NzSW0tRkxRQnY1M1lYc1BJbm1FZXNKSFpDcU9DSzVQWHE1YXBsazNPYlZ4ZE8zc2Zab29Wb1R6RmIyRDRRelZnTVBjLU84eGtJQmlKT3dBNnPSAcQDQVVfeXFMTjRTNlpSVmRINzJ3YXBINklqbUlYbVB0LVYzdVJKS1dZS0dRc0JWdWFhaFlOSnBSb2ZpcTZBMUpyYW4wVEJTOUsxa1NyZ3pxRVdXRHBnT053TnpKNFVPMWloMVVCTjZDMnNkZk9Zc3JBbDNGR1NIVE00UWYwUDdiazUxcGVVYTNpYUZRa3VkejlPenJkaG5RUU9qOXVXLVRrTEZ6ZmlFX3BqRW8wZEpiSUdyb01DdEVOY3lsRnNLX2VkdC1JNllKbWVYR0VQR1JhQ0RUaTBoNk5QT1d4YnJJRm93QVFaMEVSdEhvYUxpQjVRYWYxbElFd3JIcllaWlZlZGI1dFNtaHpwaTBuczlBWjgyS2xmU0Jmak9jQzZPVDBhTVB3NEdmc29GekZpQUdMcEhSQk54R0F6NkJSRHZ1T1lxUGt3TjJUSHEzT0dFOU5mdjhVMzJGdk9mUjItdUR1enROZ3lPQ3FzV0MyMDB6azcxaGFxTGFONnI5OGxhRmQwa3JZZzVlX1h0ZjNUN3kzQmRVU0FuRVV6ekJCM0lyY2owZVBzck84S05jMXduT08tMG1DdkQ5LWJPeGNteDlXSUw4SkM?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    },
-    {
-      "headline": "",
-      "post": {
-        "created_at": "2026-11-26T10:32:54+00:00",
-        "handle": "News: India semiconductors",
-        "id": "1795689174510",
-        "is_reply": false,
-        "is_repost": false,
-        "likes": 0,
-        "origin": "The Tribune",
-        "reposts": 0,
-        "text": "Networking, communications to dominate Indias semiconductor market with 33.3% share by 2030: CareEdge",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORnh5VDM5a3VtOHVTLTNDSHFFUm1PWGN1djVxN0djRDIxSjdDS2VaWDZjaUZsUmZLM1FSemlHTnkwcjdEY21SU1dmQTZoc0NJWUk1ekFuSWVTUk5PaXN4aTMzSG5XS2drUUg3VzYtOTRFcGxadDhLYlM1bEN2QUJxRVdxMDZjUjZNNmxPLUhkQnlOVWVLaXM3RkowRUxBQk1fUEFzNk9ubkU5UV9VRVV4elVuRF95SVowbHUzN0Q1eVV3bkNYTXBLeUdOWS1NUWxsMnU0dUNFTmgyZ9IB3gFBVV95cUxNS084VUc2VUZoMmZzaE8yV0RSVDExU1hsNHBkdlZ2MkVyLXgtSXVYd3V5Qm1BR2JqOTZjQWEydk5zUkZSRFA5NjJSV3JnVzliZ0dmcEdqckhhVk52SmVtYWhXZDBnYTFoQXhlNW44bGJIMG4xUlBvazlBRlJSSFdlNVgyRWJ1akxRYndqdF9zekxkN1dabm5UYnVfNjZoZ3JuRjBMUGNCdTRWdXFuVmpVMUlmMWx1SjFfY21fWkg1RUtFME1UVlljRDhVeHFaWVh1bVU1RjdSQllKcmR1V0E?oc=5"
-      },
-      "queued_at": "2026-11-26T11:49:00.249227+00:00",
-      "score": null,
-      "why": ""
-    }
-  ],
+  "news_queue": [],
   "page_links": {
     "Airtel": {
       "https://www.airtel.in/press-release/01-2016/airtel-expands-its-4g-footprint-across-15-towns-in-punjab-for-mobile-customers": "2026-09-17T07:46:50.716356+00:00",
@@ -41772,7 +41571,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-26T12:23:26.732967+00:00",
+    "last_server_run": "2026-11-26T12:40:53.915354+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-26T12:25:51.843010+00:00",
@@ -41901,7 +41700,7 @@
     },
     "sansad": {
       "calendar": {
-        "at": "2026-11-26T06:34:43.108611+00:00",
+        "at": "2026-11-26T12:42:41.663048+00:00",
         "ls": {
           "loksabha": 18,
           "session": 8
@@ -41911,7 +41710,7 @@
         }
       },
       "last": {
-        "calendar": "2026-11-26T06:34:45.724448+00:00",
+        "calendar": "2026-11-26T12:42:44.409477+00:00",
         "ls_reports": "2026-11-26T12:25:28.605937+00:00",
         "rs_committee_press": "2026-11-26T12:25:38.334413+00:00",
         "rs_press": "2026-11-26T12:25:35.222992+00:00",
@@ -56093,25 +55892,8 @@
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-26T12:28:55.419588+00:00",
+    "last_run": "2026-11-26T12:47:49.137456+00:00",
     "seen": [
-      "x:2124501940600254827",
-      "x:2124501971898098021",
-      "x:2124502509112954955",
-      "x:2124502735865450572",
-      "x:2124502892833112227",
-      "x:2124503041630183553",
-      "x:2124503176128647348",
-      "x:2124503885465477227",
-      "x:2124504320980955231",
-      "x:2124504652649783779",
-      "x:2124505747090469314",
-      "x:2124505789792653315",
-      "x:2124505959561379981",
-      "x:2124506682827128925",
-      "x:2124506849085214775",
-      "x:2124507657180753949",
-      "x:2124507841302306842",
       "x:2124508791991607618",
       "x:2124509952245150058",
       "x:2124510148836331589",
@@ -59094,7 +58876,24 @@
       "x:2125927666939527483",
       "x:2125928028476002643",
       "x:2125928048000405892",
-      "x:2125928245531230304"
+      "x:2125928245531230304",
+      "x:2125928607105130623",
+      "x:2125928674478460938",
+      "x:2125928764249096677",
+      "x:2125929078373154980",
+      "x:2125929739965862292",
+      "x:2125930211757937006",
+      "x:2125930279617667271",
+      "x:2125930486841344358",
+      "x:2125930700121715099",
+      "x:2125930708162236792",
+      "x:2125930751225106507",
+      "x:2125931033849958701",
+      "x:2125931726858035576",
+      "x:2125931729999589401",
+      "x:2125931839399534774",
+      "x:2125932002771906861",
+      "x:2125932147706057206"
     ],
     "source_failures": {},
     "sources": []
