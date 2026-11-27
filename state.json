@@ -2,24 +2,6 @@
   "alerted": [
     {
       "at": "2026-11-19T19:32:06.410791+00:00",
-      "handle": "News: Global IT services",
-      "headline": "Accenture to cut 950 jobs linked to Meta in Portugal",
-      "tier": 0,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQl82R1NQaEttYmk0WWpabkRNRUVCYWFvSDBwVjFJWXEtUi1RNklzaDd3cWx4a01aWUxoZVZvR0JmYmNvRWhyMzlkQS1BYUNDeUVlMGhYMHZIcTc3TkxYYTh3SEFvYmZjYWJ3UHRCTzRpRkotTEliWEstSkd4MDhQZ19DWGdPOWVSS3NQQ0RRQndsNnZ2bHl6b3ZrTngzUk4tamJla2R3SzZZa3dGTGtNSl9icThRRFU?oc=5",
-      "words": [
-        "950",
-        "accenture",
-        "cut",
-        "jobs",
-        "launches",
-        "linked",
-        "meta",
-        "plan",
-        "portugal"
-      ]
-    },
-    {
-      "at": "2026-11-19T19:32:06.410791+00:00",
       "handle": "News: Global AI",
       "headline": "Arizona investigating OpenAI and other firms over rogue agents",
       "tier": 0,
@@ -7340,32 +7322,33 @@
         "mandatory",
         "scheme"
       ]
+    },
+    {
+      "at": "2026-11-27T17:16:06.119317+00:00",
+      "handle": "PIB Communications",
+      "headline": "India to host ITU Plenipotentiary Conference 2030, says Minister Scindia",
+      "tier": 1,
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342914",
+      "words": [
+        "2030",
+        "community",
+        "conference",
+        "global",
+        "host",
+        "invites",
+        "itu",
+        "jyotiraditya",
+        "minister",
+        "plenipotentiary",
+        "scindia",
+        "shri",
+        "telecommunications",
+        "union"
+      ]
     }
   ],
   "bureau": {
     "alerted": [
-      {
-        "at": "2026-11-06T19:18:35.813852+00:00",
-        "handle": "Gazette Warehousing Development and Regulatory Authority",
-        "headline": "Warehousing Development and Regulatory Authority notifies new agricultural and non-agricultural commodities fo",
-        "tier": 1,
-        "url": "https://egazette.gov.in/WriteReadData/2026/277763.pdf",
-        "words": [
-          "authority",
-          "clause",
-          "conferred",
-          "development",
-          "exercise",
-          "extraordinary",
-          "gazette",
-          "iii",
-          "part",
-          "powers",
-          "regulatory",
-          "section",
-          "warehousing"
-        ]
-      },
       {
         "at": "2026-11-07T06:03:15.266124+00:00",
         "handle": "PIB Ministry of Science & Technology",
@@ -16168,6 +16151,29 @@
           "security",
           "union"
         ]
+      },
+      {
+        "at": "2026-11-27T17:17:47.310556+00:00",
+        "handle": "PIB Ministry of Communications",
+        "headline": "India to host International Telecommunication Union Plenipotentiary Conference in 2030",
+        "tier": 1,
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2342914",
+        "words": [
+          "2030",
+          "communications",
+          "community",
+          "conference",
+          "global",
+          "host",
+          "invites",
+          "itu",
+          "jyotiraditya",
+          "minister",
+          "ministry",
+          "plenipotentiary",
+          "scindia",
+          "shri"
+        ]
       }
     ],
     "gazette_mark": 278232,
@@ -17510,7 +17516,9 @@
       "CG-AS-E-27112026-278229",
       "CG-DL-E-27112026-278221",
       "CG-DL-E-27112026-278231",
-      "CG-DL-E-27112026-278232"
+      "CG-DL-E-27112026-278232",
+      "CG-WB-E-27112026-278225",
+      "CG-WB-E-27112026-278230"
     ],
     "health": {
       "down": {
@@ -17518,12 +17526,9 @@
         "State: Uttar Pradesh": "2026-11-27T10:03:36.395259+00:00"
       }
     },
-    "last_run": "2026-11-27T17:03:38.342520+00:00",
-    "pib_mark": 2342851,
+    "last_run": "2026-11-27T17:17:47.311953+00:00",
+    "pib_mark": 2342914,
     "seen": [
-      "site:ai:UN News|https://news.un.org/feed/view/en/story/2026/11/1168743",
-      "site:ICC|https://www.icc-cricket.com/media-releases/media-accreditation-for-icc-women-s-emerging-nations-trophy-2026-is-open",
-      "watch:bulletin:LS|2026-11-06|Bulletin-II",
       "watch:meeting:RS|2319",
       "watch:bulletin:RS|2026-11-06|Bulletin Part-II",
       "watch:meeting:LS|22632",
@@ -20012,11 +20017,11 @@
       "gazette:CG-DL-E-27112026-278190",
       "gazette:CG-CG-E-27112026-278189",
       "gazette:CG-DL-E-27112026-278188",
+      "gazette:CG-CG-E-27112026-278192",
+      "gazette:CG-CG-E-27112026-278191",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "gazette:CG-AP-E-27112026-278193",
-      "gazette:CG-CG-E-27112026-278192",
-      "gazette:CG-CG-E-27112026-278191",
       "gazette:CG-DL-E-27112026-278196",
       "gazette:CG-MH-E-27112026-278197",
       "gazette:CG-MH-E-27112026-278195",
@@ -20520,7 +20525,10 @@
       "gazette:CG-AS-E-27112026-278228",
       "gazette:CG-DL-E-27112026-278221",
       "gazette:CG-DL-E-27112026-278231",
-      "gazette:CG-DL-E-27112026-278232"
+      "gazette:CG-DL-E-27112026-278232",
+      "gazette:CG-WB-E-27112026-278230",
+      "gazette:CG-WB-E-27112026-278225",
+      "pib:2342914"
     ],
     "source_failures": {
       "SEBI": {
@@ -20622,10 +20630,6 @@
     "nano-banana-pro-preview": "2026-11-26T01:02:25.451829+00:00"
   },
   "handled": [
-    "1795140952380",
-    "1795146962955",
-    "1795200019319",
-    "1795201165160",
     "1795210200707",
     "1795210793346",
     "1795212418172",
@@ -24817,7 +24821,6 @@
     "1795689715107",
     "1795697021015",
     "1795705003057",
-    "1793858640498",
     "1795673210065",
     "1795684787837",
     "1795685159695",
@@ -25047,11 +25050,8 @@
     "1795783647850",
     "1795785040496",
     "1795792140937",
-    "1795744800238",
     "1795759140925",
-    "1795762848809",
     "1795784970810",
-    "1795785386472",
     "1795789930768",
     "1795710994303",
     "1795747541254",
@@ -25073,7 +25073,6 @@
     "1795738831543",
     "1795755622372",
     "1795763231246",
-    "1795764285231",
     "1795768207495",
     "1795790659076",
     "1795792950470",
@@ -25082,20 +25081,26 @@
     "1795750260176",
     "1795752648796",
     "1795755082335",
-    "1795761352808",
     "1795765689745",
-    "1795769086577",
     "1795770227711",
-    "1795770931508",
     "1795774860256",
     "1795775411563",
     "1795775921146",
     "1795781270288",
     "1795783795543",
-    "1795785641055",
     "1795785968466",
-    "1795786961185",
     "1795794489018",
+    "1784195100310",
+    "1784201280593",
+    "1795743108672",
+    "1795745882122",
+    "1795759764159",
+    "1795762848309",
+    "1795779033863",
+    "1795781820284",
+    "1795785386342",
+    "1795795074868",
+    "1795798628018",
     "1747828800890",
     "1748347200342",
     "1748433600001",
@@ -25155,8 +25160,6 @@
     "1783598400465",
     "1783946248949",
     "1784194242160",
-    "1784195100310",
-    "1784201280593",
     "1784262060993",
     "1784266800764",
     "1784290975590",
@@ -26035,6 +26038,7 @@
     "1793826348114",
     "1793835292066",
     "1793855270810",
+    "1793858640498",
     "1793865600231",
     "1793869285215",
     "1793880014180",
@@ -26355,11 +26359,10 @@
     "1795739400884",
     "1795740338268",
     "1795741055019",
-    "1795743108672",
     "1795744203615",
     "1795744320786",
     "1795744502752",
-    "1795745882122",
+    "1795744800238",
     "1795746238051",
     "1795746840708",
     "1795747140981",
@@ -26385,12 +26388,12 @@
     "1795758453668",
     "1795758559084",
     "1795759194560",
-    "1795759764159",
     "1795760929715",
     "1795760931663",
     "1795761060246",
     "1795761297949",
     "1795761329697",
+    "1795761352808",
     "1795761373638",
     "1795761574068",
     "1795761668031",
@@ -26400,13 +26403,14 @@
     "1795762416499",
     "1795762670208",
     "1795762703319",
-    "1795762848309",
+    "1795762848809",
     "1795762980242",
     "1795763181638",
     "1795763231257",
     "1795763859700",
     "1795764063193",
     "1795764120767",
+    "1795764285231",
     "1795764337345",
     "1795764944673",
     "1795765255023",
@@ -26420,8 +26424,10 @@
     "1795767328615",
     "1795768226096",
     "1795768873798",
+    "1795769086577",
     "1795770014714",
     "1795770826016",
+    "1795770931508",
     "1795771113942",
     "1795771528900",
     "1795772176159",
@@ -26449,7 +26455,7 @@
     "1795777785575",
     "1795778267284",
     "1795778520352",
-    "1795779033863",
+    "1795778583364",
     "1795779532968",
     "1795779955117",
     "1795780427413",
@@ -26459,7 +26465,6 @@
     "1795781100670",
     "1795781221429",
     "1795781580274",
-    "1795781820284",
     "1795781976671",
     "1795781977690",
     "1795782548651",
@@ -26477,13 +26482,16 @@
     "1795785292926",
     "1795785300934",
     "1795785342787",
-    "1795785386342",
+    "1795785386472",
     "1795785399656",
     "1795785487145",
+    "1795785641055",
     "1795786318196",
     "1795786620938",
+    "1795786961185",
     "1795787160457",
     "1795787325897",
+    "1795788600400",
     "1795788634825",
     "1795788912465",
     "1795789102219",
@@ -26515,7 +26523,6 @@
     "1795794371610",
     "1795794439792",
     "1795794787783",
-    "1795795074868",
     "1795795330768",
     "1795796520556",
     "1795796998995",
@@ -26523,7 +26530,7 @@
     "1795797960507",
     "1795797987099",
     "1795798148549",
-    "1795798628018",
+    "1795798800586",
     "2331589",
     "2331704",
     "2331803",
@@ -26621,10 +26628,11 @@
     "2342597",
     "2342598",
     "2342604",
-    "2342644"
+    "2342644",
+    "2342914"
   ],
   "last_digest_hour": "2026-11-27T22",
-  "last_success": "2026-11-27T17:01:35.562644+00:00",
+  "last_success": "2026-11-27T17:16:06.170526+00:00",
   "national": {
     "alerted": [
       {
@@ -35340,8 +35348,6 @@
     ],
     "gazette_mark": 278232,
     "gazette_scanned": [
-      "CG-DL-E-12092026-276146",
-      "CG-DL-E-12092026-276147",
       "CG-DL-E-12092026-276148",
       "CG-DL-E-12092026-276151",
       "CG-DL-E-12092026-276152",
@@ -37339,7 +37345,9 @@
       "CG-AS-E-27112026-278229",
       "CG-DL-E-27112026-278221",
       "CG-DL-E-27112026-278231",
-      "CG-DL-E-27112026-278232"
+      "CG-DL-E-27112026-278232",
+      "CG-WB-E-27112026-278225",
+      "CG-WB-E-27112026-278230"
     ],
     "health": {
       "down": {
@@ -37351,12 +37359,9 @@
       },
       "warned": "2026-11-27T02:46:53.788853+00:00"
     },
-    "last_run": "2026-11-27T17:03:11.022510+00:00",
-    "pib_mark": 2342851,
+    "last_run": "2026-11-27T17:17:05.716892+00:00",
+    "pib_mark": 2342914,
     "seen": [
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-extends-diwali-greetings-to-citizens-says-festival-symbolises-resolve-against-darkness",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-meets-vice-president-thiru-c-p-radhakrishnan-exchanges-diwali-greetings",
-      "page:https://www.pmindia.gov.in/en/news_updates/pm-greets-bharat-ratna-shri-l-k-advani-ji-as-he-enters-his-100th-year",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-conveys-diwali-greetings-to-all-citizens",
       "feed:https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63935",
       "feed:https://www.telangana.gov.in/news/press-releases/2026/11/honble-cm-sri-a-revanth-reddy-reviewed-the-arrangements-for-invest-telangana-global-summit-2026-with-ministers-and-senior-officials/",
@@ -39784,11 +39789,11 @@
       "gazette:CG-DL-E-27112026-278190",
       "gazette:CG-DL-E-27112026-278188",
       "gazette:CG-CG-E-27112026-278189",
+      "gazette:CG-CG-E-27112026-278191",
+      "gazette:CG-CG-E-27112026-278192",
       "page:https://www.pmindia.gov.in/en/news_updates/pms-address-to-the-indian-community-in-new-zealand",
       "page:https://www.pmindia.gov.in/en/news_updates/pm-leads-the-national-observance-of-the-12th-international-day-of-yoga-from-red-road-in-kolkata-west-bengal",
       "gazette:CG-AP-E-27112026-278193",
-      "gazette:CG-CG-E-27112026-278191",
-      "gazette:CG-CG-E-27112026-278192",
       "gazette:CG-MH-E-27112026-278197",
       "gazette:CG-MH-E-27112026-278195",
       "gazette:CG-DL-E-27112026-278194",
@@ -40353,7 +40358,10 @@
       "gazette:CG-AS-E-27112026-278228",
       "gazette:CG-DL-E-27112026-278231",
       "gazette:CG-DL-E-27112026-278221",
-      "gazette:CG-DL-E-27112026-278232"
+      "gazette:CG-DL-E-27112026-278232",
+      "gazette:CG-WB-E-27112026-278230",
+      "pib:2342914",
+      "gazette:CG-WB-E-27112026-278225"
     ],
     "source_failures": {
       "CBI": {
@@ -41659,7 +41667,7 @@
     "microsoft india": 1795143975862,
     "microsoft service status": 1794637553900,
     "mistral ai": 1793880014180,
-    "naukri": 1793858640498,
+    "naukri": 1795778583364,
     "news: big tech platforms": 1795797960507,
     "news: consumer internet india": 1795793200236,
     "news: global ai": 1795798148549,
@@ -41674,13 +41682,13 @@
     "news: indian it majors": 1795792350691,
     "news: indian it midcaps": 1795786961185,
     "news: pib releases": 1790159940641,
-    "news: tech leaders": 1795798628018,
+    "news: tech leaders": 1795798800586,
     "nvidia": 1795701622090,
     "nvidia blog": 1795701622090,
     "openai": 1795525200568,
     "oracle": 1794340882304,
     "phonepe": 1795585549470,
-    "pib communications": 2342598,
+    "pib communications": 2342914,
     "pib meity": 2342386,
     "pib science and technology": 2342644,
     "razorpay": 1795608688820,
@@ -41701,9 +41709,7 @@
     "zoho": 1795703698544
   },
   "source_health": {
-    "down": {
-      "News: Indian IT midcaps": "2026-11-27T17:01:30.368011+00:00"
-    }
+    "down": {}
   },
   "watch": {
     "health_server": {
@@ -41721,7 +41727,7 @@
       "e-Gazette - MHA extraordinary",
       "e-Gazette - MeitY"
     ],
-    "last_server_run": "2026-11-27T17:01:35.863827+00:00",
+    "last_server_run": "2026-11-27T17:16:06.554351+00:00",
     "pages": {
       "https://www.enforcementdirectorate.gov.in/performance/performance-summary/": {
         "checked": "2026-11-27T17:02:43.329404+00:00",
@@ -43741,6 +43747,8 @@
       "CG-WB-E-24102026-277404",
       "CG-WB-E-25092026-276512",
       "CG-WB-E-25092026-276516",
+      "CG-WB-E-27112026-278225",
+      "CG-WB-E-27112026-278230",
       "CG-WB-E-29092026-276592",
       "CG-WB-E-30092026-276626",
       "CG-WB-E-30092026-276627",
@@ -44643,45 +44651,6 @@
   },
   "x_test": {
     "alerted": [
-      {
-        "at": "2026-11-23T07:47:14.695471+00:00",
-        "headline": "Delhi Police Crime Branch arrests murder accused evading law for 28 years",
-        "url": "https://x.com/CrimeBranchDP/status/2124768969227952247",
-        "words": [
-          "1998",
-          "accused",
-          "across",
-          "ant",
-          "apprehended",
-          "arrest",
-          "arsc",
-          "been",
-          "branch",
-          "case",
-          "caught",
-          "crime",
-          "despite",
-          "evade",
-          "even",
-          "finally",
-          "law",
-          "loses",
-          "may",
-          "murder",
-          "nabs",
-          "never",
-          "offender",
-          "repeatedly",
-          "run",
-          "shifting",
-          "sight",
-          "states",
-          "sultanpuri",
-          "take",
-          "time",
-          "years"
-        ]
-      },
       {
         "at": "2026-11-23T07:47:14.695471+00:00",
         "headline": "Delhi Police arrests proclaimed offender in Rs 11.10-crore land deal fraud",
@@ -56479,21 +56448,46 @@
         "words": [
           "2029"
         ]
+      },
+      {
+        "at": "2026-11-27T17:17:13.549797+00:00",
+        "headline": "Supreme Court upholds order permitting lamp lighting at disputed shrine under security.",
+        "url": "https://x.com/LiveLawIndia/status/2126363399038922925",
+        "words": [
+          "allows",
+          "also",
+          "appointed",
+          "away",
+          "court",
+          "dargah",
+          "deepathoon",
+          "devotees",
+          "gukuzm",
+          "https",
+          "joint",
+          "keeping",
+          "lamp",
+          "light",
+          "lighting",
+          "mentions",
+          "meters",
+          "mind",
+          "must",
+          "order",
+          "permitting",
+          "receivers",
+          "security",
+          "supremecourt",
+          "temple",
+          "tomorrow",
+          "upholds"
+        ]
       }
     ],
     "gazette_scanned": [],
     "health": {},
-    "last_run": "2026-11-27T17:03:19.840638+00:00",
+    "last_run": "2026-11-27T17:17:13.550043+00:00",
     "seen": [
-      "x:2125290709771297084",
-      "x:2125291054463422781",
-      "x:2125291430340165701",
-      "x:2125293704462381139",
-      "x:2125294801990070371",
-      "x:2125194222735446518",
-      "x:2125195383404142730",
-      "x:2125196621050974312",
-      "x:2125204557202669685",
       "x:2125205248981823809",
       "x:2125219856312353201",
       "x:2125246403173830665",
@@ -59484,7 +59478,16 @@
       "x:2126358175263883486",
       "x:2126358448560562675",
       "x:2126358622603227561",
-      "x:2126359682617127268"
+      "x:2126359682617127268",
+      "x:2126360260487385307",
+      "x:2126360405232472571",
+      "x:2126361373307523153",
+      "x:2126361624386945367",
+      "x:2126362504687477058",
+      "x:2126363082104713503",
+      "x:2126363124483952667",
+      "x:2126363399038922925",
+      "x:2126363632561012851"
     ],
     "source_failures": {},
     "sources": []
