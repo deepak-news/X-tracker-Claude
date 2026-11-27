@@ -48,8 +48,11 @@ import html
 import re
 import time
 
+import io
+
 import requests
 from urllib.parse import quote
+from pypdf import PdfReader
 
 # The website's two back ends. The Lok Sabha one also serves the pages that
 # cover both Houses -- committees, and the joint list of bills.
@@ -246,6 +249,7 @@ DAY_PAPERS = [
 ]
 
 HOUSE_NAME = {"LS": "Lok Sabha", "RS": "Rajya Sabha"}
+PAPER_KINDS = {kind for _, kind, _ in DAY_PAPERS}
 HOUSE_API = {"LS": LS_API, "RS": RS_API}
 
 
@@ -297,6 +301,35 @@ def _day_papers(house: str, day: dt.date) -> list:
     return out
 
 
+# Nov 27 2026: the bills a bulletin or a List of Business names. These papers are PDFs, and the
+# alert used to carry only their title ("Lok Sabha -- Bulletin-II, 26 Nov 2026"), so a bulletin
+# announcing a bill (the Delimitation Bill, uploaded to the portal before the session) said
+# nothing in the alert. Each paper is read once; its bill names are kept in the reader's memory.
+PENDING_BILLS = True      # set from watchlist.yml (bills_before_introduction) in read()
+BILLS_IN_PAPERS = True    # set from watchlist.yml (bills_in_papers) in read()
+_BILL = re.compile(r"\b(?:The|THE)\s+(?:[A-Z][\w()'’.&-]*,?\s+){1,14}?(?:Bill|BILL),?\s+(?:19|20)\d\d\b")
+
+
+def _bills_named(url: str) -> list:
+    """The bills a PDF names, in the order they first appear, at most eight."""
+    response = requests.get(url, headers={**BROWSER, "Accept": "*/*"}, timeout=TIMEOUT)
+    response.raise_for_status()
+    reader = PdfReader(io.BytesIO(response.content))
+    text = " ".join((page.extract_text() or "") for page in reader.pages[:40])
+    text = re.sub(r"\s+", " ", text)
+    names, seen = [], set()
+    for m in _BILL.finditer(text):
+        name = re.sub(r"\s+", " ", m.group(0)).strip()
+        name = name[:1].upper() + name[1:]
+        if name.isupper():
+            name = name.title().replace(" And ", " and ").replace(" Of ", " of ").replace(" The ", " the ")
+        key = name.lower()
+        if key not in seen:
+            seen.add(key)
+            names.append(name)
+    return names[:8]
+
+
 # ------------------------------------------------------------------- streams
 #
 # Every reader below returns a list of plain dicts, each with:
@@ -339,6 +372,20 @@ def _bills(year: int) -> list:
             ("assent", "received the President's assent",
              row.get("billAssentedDate"), row.get("billGazettedFile")),
         ]
+        # Nov 27 2026 (the user, after "Delimitation Bill will be uploaded today"): a bill can be
+        # put on the list before it is introduced. Such a row has no stage date at all, so it was
+        # skipped; it is now reported once, dated the day it was first seen.
+        if PENDING_BILLS and not any(_date(when) for _, _, when, _ in stages):
+            out.append({
+                "key": f"bill:{number}|{year}|{_tidy(name)[:60]}|published",
+                "kind": "bill",
+                "title": f"{name} -- published on the Parliament website, not yet introduced",
+                "detail": " | ".join(x for x in (f"Bill No. {number}", who, ministry,
+                                                 _tidy(row.get("billCategory"))) if x),
+                "url": _tidy(row.get("billIntroducedFile") or row.get("billSynopsisFile"))
+                       or "https://sansad.in/ls/legislation/bills",
+                "date": dt.datetime.now(IST).date(),
+            })
         for stage, wording, when, document in stages:
             day = _date(when)
             if not day:
@@ -644,8 +691,11 @@ def read(entry: dict, memory: dict, out_of_time=lambda: False) -> list:
     and which session each House is in. Everything else -- what has already
     been reported -- is remembered by the watch itself.
     """
+    global PENDING_BILLS, BILLS_IN_PAPERS
     mine = memory.setdefault("sansad", {})
     wanted = set(entry.get("streams") or ALL_STREAMS)
+    PENDING_BILLS = entry.get("bills_before_introduction", True) is not False
+    BILLS_IN_PAPERS = entry.get("bills_in_papers", True) is not False
     age_limit = int(entry.get("max_age_days", 30))
     slow_minutes = int(entry.get("slow_minutes", 120))
     calendar_minutes = int(entry.get("calendar_minutes", 360))
@@ -731,6 +781,23 @@ def read(entry: dict, memory: dict, out_of_time=lambda: False) -> list:
     if "papers" in wanted and "RS" in sat:
         run("rs_papers_laid", 0, lambda: _papers_laid(
             "RS", (calendar.get("rs") or {}).get("session")))
+    if BILLS_IN_PAPERS and "day_papers" in wanted:
+        named = mine.setdefault("bills_named", {})
+        for r in found:
+            if not r.get("url") or not r["key"].split(":", 1)[0] in PAPER_KINDS:
+                continue
+            if r["url"] not in named:
+                if out_of_time():
+                    break
+                try:
+                    named[r["url"]] = _bills_named(r["url"])
+                except Exception as exc:                          # noqa: BLE001
+                    print(f"    ! bills in {r['title'][:50]} could not be read: {str(exc)[:60]}")
+                    continue
+            if named[r["url"]]:
+                r["detail"] = "Bills named: " + "; ".join(named[r["url"]])
+        for url in list(named)[:-300]:      # the last 300 papers are plenty
+            named.pop(url, None)
     if "day_papers" in wanted and not sat:
         print("    (neither House sat in the last "
               f"{CATCH_DAYS} days -- no papers of the day to read)")

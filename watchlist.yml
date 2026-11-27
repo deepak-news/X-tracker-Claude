@@ -656,6 +656,16 @@ watch:
       sansad: true
       mail_to: GAZETTE_MAIL_TO       # Achinta and Deepak, in the Gazette Alerts email
 
+      # Nov 27 2026: a bill can be put on the bills list before it is
+      # introduced (no date yet). It is reported once as "published on the
+      # Parliament website, not yet introduced". false turns this off.
+      bills_before_introduction: true
+      # Nov 27 2026: each Bulletin and List of Business PDF is opened and
+      # the bills it names ("The ... Bill, 2026") go into the alert, so a
+      # bill circulated or listed for introduction is caught by its name.
+      # false turns this off.
+      bills_in_papers: true
+
       # Nothing older than this is ever reported. The committee reports
       # list is not sorted by date, so this window is what separates this
       # month's reports from the four thousand already presented -- and it
